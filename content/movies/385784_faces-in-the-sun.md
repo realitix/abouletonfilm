@@ -1,0 +1,1 @@
+{"tmdb_id": 385784, "title": "Faces in the Sun", "original_title": "Faces in the Sun", "slug_title": "faces-in-the-sun", "date": "1964-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 51407, "title": "Slavar", "original_title": "Slavar", "slug_title": "slavar", "date": "2008-01-01", "genre": "Animation / Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVJJ45xvR4lts3CHbCpoloySw2D.jpg", "actors": [], "comments": [], "recommandations_id": []}

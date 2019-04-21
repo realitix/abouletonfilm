@@ -1,0 +1,1 @@
+{"tmdb_id": 106978, "title": "Mayweather vs. Cotto", "original_title": "Mayweather vs. Cotto", "slug_title": "mayweather-vs-cotto", "date": "2012-05-05", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vtkEJdN9JVVU1kb3gsCAz38UFXA.jpg", "actors": ["Floyd Mayweather Jr. (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578390, "title": "Interference", "original_title": "Interference", "slug_title": "interference", "date": "2016-02-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fcrgen Prochnow (Herr Dryser)", "Bernd Rumpf (Maximilian Fassnacht)"], "comments": [], "recommandations_id": []}

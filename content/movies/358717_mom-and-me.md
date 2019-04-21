@@ -1,0 +1,1 @@
+{"tmdb_id": 358717, "title": "Mom and Me", "original_title": "Mom and Me", "slug_title": "mom-and-me", "date": "2015-09-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYiuaGbFDG9kb9o4UZVZGXjCme7.jpg", "actors": ["Joe Cristiano (Radio Host / Self)"], "comments": [], "recommandations_id": []}

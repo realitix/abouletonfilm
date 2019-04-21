@@ -1,0 +1,1 @@
+{"tmdb_id": 226253, "title": "Kid's Castle", "original_title": "Kizzu Kyassuru", "slug_title": "kid-s-castle", "date": "1995-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKLcbU5y0M6lxSyp1LwWcKrhOt6.jpg", "actors": [], "comments": [], "recommandations_id": []}

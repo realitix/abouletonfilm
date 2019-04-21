@@ -1,0 +1,1 @@
+{"tmdb_id": 226939, "title": "Transit Cities", "original_title": "Mudon al tranzit", "slug_title": "transit-cities", "date": "2010-12-01", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXisBzwji6ZjuQiGHqzXDq8vT56.jpg", "actors": ["Mohammad Al-Qabbani ()"], "comments": [], "recommandations_id": []}

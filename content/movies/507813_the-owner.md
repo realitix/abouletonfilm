@@ -1,0 +1,1 @@
+{"tmdb_id": 507813, "title": "The Owner", "original_title": "El proprietario", "slug_title": "the-owner", "date": "2008-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XrSdEm1idmtS3QsuAI72GWuyQ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

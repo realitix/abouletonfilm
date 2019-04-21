@@ -1,0 +1,1 @@
+{"tmdb_id": 291712, "title": "American Cheerleader", "original_title": "American Cheerleader", "slug_title": "american-cheerleader", "date": "2014-08-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gBU8UGki9VelYaLxSBY8mPUfmFG.jpg", "actors": [], "comments": [], "recommandations_id": []}

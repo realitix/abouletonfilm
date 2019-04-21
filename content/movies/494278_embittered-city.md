@@ -1,0 +1,1 @@
+{"tmdb_id": 494278, "title": "Embittered City", "original_title": "Embittered City", "slug_title": "embittered-city", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hokTsjXT2VGQJn7xlGNTmkGvUS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349958, "title": "\uae08\uac15\uc120\ubc95", "original_title": "\uae08\uac15\uc120\ubc95", "slug_title": "geumgangseonbeob", "date": "1982-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

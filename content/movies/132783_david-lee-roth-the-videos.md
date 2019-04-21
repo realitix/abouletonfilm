@@ -1,0 +1,1 @@
+{"tmdb_id": 132783, "title": "David Lee Roth:  The Videos", "original_title": "David Lee Roth:  The Videos", "slug_title": "david-lee-roth-the-videos", "date": "1986-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yF5dkeJUD6K6mocGoGU8seIfqc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

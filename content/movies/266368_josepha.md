@@ -1,0 +1,1 @@
+{"tmdb_id": 266368, "title": "Josepha", "original_title": "Josepha", "slug_title": "josepha", "date": "1982-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qT9pAwLYZXwb0XFpJcTMJaCjc5F.jpg", "actors": [], "comments": [], "recommandations_id": []}

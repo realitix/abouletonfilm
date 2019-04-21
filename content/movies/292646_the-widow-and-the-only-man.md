@@ -1,0 +1,1 @@
+{"tmdb_id": 292646, "title": "The Widow and the Only Man", "original_title": "The Widow and the Only Man", "slug_title": "the-widow-and-the-only-man", "date": "1904-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

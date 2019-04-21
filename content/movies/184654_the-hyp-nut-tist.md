@@ -1,0 +1,1 @@
+{"tmdb_id": 184654, "title": "The 'Hyp-Nut-Tist'", "original_title": "The 'Hyp-Nut-Tist'", "slug_title": "the-hyp-nut-tist", "date": "1935-04-25", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6O5Gxj4Des6COz5T0FJ8xmsbxzB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424535, "title": "Jack \u2018O\u2019 Lantern", "original_title": "Jack \u2018O\u2019 Lantern", "slug_title": "jack-o-lantern", "date": "2012-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7atQ4zzCf5CaVvWHJZMlJll4CPx.jpg", "actors": [], "comments": [], "recommandations_id": []}

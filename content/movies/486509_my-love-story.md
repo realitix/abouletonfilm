@@ -1,0 +1,1 @@
+{"tmdb_id": 486509, "title": "My Love Story", "original_title": "My Love Story", "slug_title": "my-love-story", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Deepak Panda (Raju)", "Mihir Das (Mr. Mahapatra)"], "comments": [], "recommandations_id": []}

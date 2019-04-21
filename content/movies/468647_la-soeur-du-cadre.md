@@ -1,0 +1,1 @@
+{"tmdb_id": 468647, "title": "La S\u0153ur du cadre", "original_title": "La S\u0153ur du cadre", "slug_title": "la-soeur-du-cadre", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

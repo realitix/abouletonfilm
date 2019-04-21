@@ -1,0 +1,1 @@
+{"tmdb_id": 446305, "title": "Russia's Hooligan Army", "original_title": "Russia's Hooligan Army", "slug_title": "russia-s-hooligan-army", "date": "2017-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tGFWI3pj4wmSKXrTzoPEVHDRUiB.jpg", "actors": [], "comments": [], "recommandations_id": []}

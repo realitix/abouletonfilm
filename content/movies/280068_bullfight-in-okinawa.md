@@ -1,0 +1,1 @@
+{"tmdb_id": 280068, "title": "Bullfight in Okinawa", "original_title": "Bullfight in Okinawa", "slug_title": "bullfight-in-okinawa", "date": "1994-07-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2itXsUFq3y8PLojc8nwjqtXatGX.jpg", "actors": [], "comments": [], "recommandations_id": []}

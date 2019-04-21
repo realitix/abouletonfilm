@@ -1,0 +1,1 @@
+{"tmdb_id": 286972, "title": "Shadow in Baghdad", "original_title": "Shadow in Baghdad", "slug_title": "shadow-in-baghdad", "date": "2013-09-17", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eVMKf1Cj0ubPyUZR7UgtAZ8cMOv.jpg", "actors": [], "comments": [], "recommandations_id": []}

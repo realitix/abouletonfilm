@@ -1,0 +1,1 @@
+{"tmdb_id": 522548, "title": "Champion Number One", "original_title": "Chempion nomer odin", "slug_title": "champion-number-one", "date": "1991-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBzowWOTL9JTgPsy9ErN6O3hrnw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 106569, "title": "The Demon", "original_title": "Oni", "slug_title": "the-demon", "date": "1972-05-04", "genre": "Animation / Drame / Fantastique / Horreur", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eURCXX7h4dXq7crBWOVUCJG2GyF.jpg", "actors": [], "comments": [], "recommandations_id": [203089, 142965, 118673, 43095]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474244, "title": "Zona Oeste", "original_title": "Zona Oeste", "slug_title": "zona-oeste", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

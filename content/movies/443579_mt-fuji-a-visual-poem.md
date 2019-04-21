@@ -1,0 +1,1 @@
+{"tmdb_id": 443579, "title": "Mt. Fuji: A Visual Poem", "original_title": "Mt. Fuji: A Visual Poem", "slug_title": "mt-fuji-a-visual-poem", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l6Xjz8TodQMUBOzAX4ufcsS8uQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

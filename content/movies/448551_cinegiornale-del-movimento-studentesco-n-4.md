@@ -1,0 +1,1 @@
+{"tmdb_id": 448551, "title": "Cinegiornale del movimento studentesco n. 4", "original_title": "Cinegiornale del movimento studentesco n. 4", "slug_title": "cinegiornale-del-movimento-studentesco-n-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557984, "title": "Tale of Young Drifter", "original_title": "\u5c11\u5e74\u6f02\u6d41\u8a18", "slug_title": "tale-of-young-drifter", "date": "1960-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jo Mizuki ()", "Norifumi Fujishima ()"], "comments": [], "recommandations_id": []}

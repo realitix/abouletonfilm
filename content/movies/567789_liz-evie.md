@@ -1,0 +1,1 @@
+{"tmdb_id": 567789, "title": "Liz & Evie", "original_title": "Liz & Evie", "slug_title": "liz-evie", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Franziska Zimmermann (Liz (voice))", "Chiara Haurand (Evie (voice))"], "comments": [], "recommandations_id": []}

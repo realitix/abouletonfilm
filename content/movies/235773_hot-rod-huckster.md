@@ -1,0 +1,1 @@
+{"tmdb_id": 235773, "title": "Hot Rod Huckster", "original_title": "Hot Rod Huckster", "slug_title": "hot-rod-huckster", "date": "1954-07-04", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dvuGfPb9Y846MaAPWnqrCY1nVNg.jpg", "actors": [], "comments": [], "recommandations_id": []}

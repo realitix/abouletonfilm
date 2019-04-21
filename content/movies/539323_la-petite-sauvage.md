@@ -1,0 +1,1 @@
+{"tmdb_id": 539323, "title": "La petite sauvage", "original_title": "La petite sauvage", "slug_title": "la-petite-sauvage", "date": "1936-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

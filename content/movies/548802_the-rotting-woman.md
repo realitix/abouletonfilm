@@ -1,0 +1,1 @@
+{"tmdb_id": 548802, "title": "The Rotting Woman", "original_title": "The Rotting Woman", "slug_title": "the-rotting-woman", "date": "2002-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ann Browning ()", "Paul Lum ()"], "comments": [], "recommandations_id": []}

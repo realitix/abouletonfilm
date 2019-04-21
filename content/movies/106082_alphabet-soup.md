@@ -1,0 +1,1 @@
+{"tmdb_id": 106082, "title": "Alphabet Soup", "original_title": "Alphabet Soup", "slug_title": "alphabet-soup", "date": "1995-01-01", "genre": "Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QGwUX1WUfV8MHoEnMbSqo2ZTOU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276602, "title": "Jose Carreras Collection: A Bolshoi Opera Night", "original_title": "Jose Carreras Collection: A Bolshoi Opera Night", "slug_title": "jose-carreras-collection-a-bolshoi-opera-night", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

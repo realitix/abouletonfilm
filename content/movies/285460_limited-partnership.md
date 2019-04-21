@@ -1,0 +1,1 @@
+{"tmdb_id": 285460, "title": "Limited Partnership", "original_title": "Limited Partnership", "slug_title": "limited-partnership", "date": "2014-06-14", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kgGcedjBuEVUTf18BFQvexiXmg0.jpg", "actors": [], "comments": [], "recommandations_id": []}

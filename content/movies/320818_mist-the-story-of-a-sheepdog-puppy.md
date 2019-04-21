@@ -1,0 +1,1 @@
+{"tmdb_id": 320818, "title": "Mist: The Story of a Sheepdog Puppy", "original_title": "Mist: The Story of a Sheepdog Puppy", "slug_title": "mist-the-story-of-a-sheepdog-puppy", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

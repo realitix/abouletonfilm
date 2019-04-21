@@ -1,0 +1,1 @@
+{"tmdb_id": 453240, "title": "The Battery", "original_title": "The Battery", "slug_title": "the-battery", "date": "1897-12-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

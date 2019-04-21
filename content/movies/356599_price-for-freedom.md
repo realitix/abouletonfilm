@@ -1,0 +1,1 @@
+{"tmdb_id": 356599, "title": "Price for Freedom", "original_title": "Price for Freedom", "slug_title": "price-for-freedom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yvANCA11KdYS1YTGrmBZpe2Lowj.jpg", "actors": [], "comments": [], "recommandations_id": []}

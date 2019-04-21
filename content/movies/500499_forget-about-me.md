@@ -1,0 +1,1 @@
+{"tmdb_id": 500499, "title": "Forget About Me", "original_title": "Forget About Me", "slug_title": "forget-about-me", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ewen Bremner (Broke)", "Brian McCardie (Bunny)"], "comments": [], "recommandations_id": []}

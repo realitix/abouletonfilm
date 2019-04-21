@@ -1,0 +1,1 @@
+{"tmdb_id": 585830, "title": "Watching", "original_title": "\uc653\uce6d", "slug_title": "watching", "date": "2019-04-17", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vpKk8ARxhNVDna9Nx4JZamhAKOQ.jpg", "actors": ["Kang Ye-won ()", "Lee Hak-joo ()"], "comments": [], "recommandations_id": []}

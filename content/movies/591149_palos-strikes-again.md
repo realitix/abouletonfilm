@@ -1,0 +1,1 @@
+{"tmdb_id": 591149, "title": "Palos Strikes Again", "original_title": "Palos Strikes Again", "slug_title": "palos-strikes-again", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernard Bonnin ()", "Sofia Moran ()"], "comments": [], "recommandations_id": []}

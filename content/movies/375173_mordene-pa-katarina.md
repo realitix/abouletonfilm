@@ -1,0 +1,1 @@
+{"tmdb_id": 375173, "title": "Mordene p\u00e5 Katarina", "original_title": "Mordene p\u00e5 Katarina", "slug_title": "mordene-pa-katarina", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Rbcup6dvnyfDFcxLGQkarMQSbj.jpg", "actors": [], "comments": [], "recommandations_id": []}

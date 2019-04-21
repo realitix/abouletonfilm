@@ -1,0 +1,1 @@
+{"tmdb_id": 331621, "title": "Independence Day", "original_title": "Isteqlall", "slug_title": "independence-day", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

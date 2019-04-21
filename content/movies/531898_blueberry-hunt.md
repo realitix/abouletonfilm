@@ -1,0 +1,1 @@
+{"tmdb_id": 531898, "title": "Blueberry Hunt", "original_title": "Blueberry Hunt", "slug_title": "blueberry-hunt", "date": "2018-06-23", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsphJ6MtolcdvsTtve8zN74bgwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

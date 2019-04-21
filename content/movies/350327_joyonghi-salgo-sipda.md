@@ -1,0 +1,1 @@
+{"tmdb_id": 350327, "title": "\uc870\uc6a9\ud788 \uc0b4\uace0 \uc2f6\ub2e4", "original_title": "\uc870\uc6a9\ud788 \uc0b4\uace0 \uc2f6\ub2e4", "slug_title": "joyonghi-salgo-sipda", "date": "1980-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

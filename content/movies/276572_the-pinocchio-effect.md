@@ -1,0 +1,1 @@
+{"tmdb_id": 276572, "title": "The Pinocchio Effect", "original_title": "The Pinocchio Effect", "slug_title": "the-pinocchio-effect", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

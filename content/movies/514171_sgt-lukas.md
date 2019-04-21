@@ -1,0 +1,1 @@
+{"tmdb_id": 514171, "title": "Sgt Lukas", "original_title": "Sgt Lukas", "slug_title": "sgt-lukas", "date": "2017-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lukas Kinep (Lukas)"], "comments": [], "recommandations_id": []}

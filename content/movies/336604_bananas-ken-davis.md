@@ -1,0 +1,1 @@
+{"tmdb_id": 336604, "title": "Bananas - Ken Davis", "original_title": "Bananas - Ken Davis", "slug_title": "bananas-ken-davis", "date": "2005-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7LmG9pT3oy8I5n8mUKHxqoRZ2n.jpg", "actors": [], "comments": [], "recommandations_id": []}

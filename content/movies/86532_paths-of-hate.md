@@ -1,0 +1,1 @@
+{"tmdb_id": 86532, "title": "Paths of Hate", "original_title": "Paths of Hate", "slug_title": "paths-of-hate", "date": "2011-03-27", "genre": "Action / Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57CmFdfyj9yBeYFqEsDFRVQyAQV.jpg", "actors": [], "comments": [], "recommandations_id": [267917, 188682, 272423, 52907]}

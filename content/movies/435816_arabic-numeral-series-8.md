@@ -1,0 +1,1 @@
+{"tmdb_id": 435816, "title": "Arabic Numeral Series 8", "original_title": "Arabic Numeral Series 8", "slug_title": "arabic-numeral-series-8", "date": "1981-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kGgZbJSyMuK0etaLgZLNy6LzwoH.jpg", "actors": [], "comments": [], "recommandations_id": []}

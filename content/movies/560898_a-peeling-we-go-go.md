@@ -1,0 +1,1 @@
+{"tmdb_id": 560898, "title": "A-Peeling We Go-Go", "original_title": "A-Peeling We Go-Go", "slug_title": "a-peeling-we-go-go", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

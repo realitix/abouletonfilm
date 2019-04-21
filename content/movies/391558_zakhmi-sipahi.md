@@ -1,0 +1,1 @@
+{"tmdb_id": 391558, "title": "Zakhmi Sipahi", "original_title": "Zakhmi Sipahi", "slug_title": "zakhmi-sipahi", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A6bJpdMeJqmwmcwqF8B64T96BtF.jpg", "actors": [], "comments": [], "recommandations_id": []}

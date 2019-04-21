@@ -1,0 +1,1 @@
+{"tmdb_id": 346967, "title": "Fun After the Wedding", "original_title": "Noce en goguette", "slug_title": "fun-after-the-wedding", "date": "1906-10-12", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

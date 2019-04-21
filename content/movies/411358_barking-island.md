@@ -1,0 +1,1 @@
+{"tmdb_id": 411358, "title": "Barking Island", "original_title": "Chienne d'histoire", "slug_title": "barking-island", "date": "2010-01-01", "genre": "Histoire / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58gQOjwaXn9EuD6plQQ4iEb4IbI.jpg", "actors": [], "comments": [], "recommandations_id": []}

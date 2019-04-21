@@ -1,0 +1,1 @@
+{"tmdb_id": 539324, "title": "La marmaille", "original_title": "La marmaille", "slug_title": "la-marmaille", "date": "1936-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

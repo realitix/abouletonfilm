@@ -1,0 +1,1 @@
+{"tmdb_id": 505382, "title": "Man Proposes, God Disposes", "original_title": "Man Proposes, God Disposes", "slug_title": "man-proposes-god-disposes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jB3cgQZbLxOERLTtaSnulTFexqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

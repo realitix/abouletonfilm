@@ -1,0 +1,1 @@
+{"tmdb_id": 495989, "title": "Mobilcolor Performance at the Guggenheim", "original_title": "Mobilcolor Performance at the Guggenheim", "slug_title": "mobilcolor-performance-at-the-guggenheim", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

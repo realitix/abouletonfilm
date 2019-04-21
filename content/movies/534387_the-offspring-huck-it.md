@@ -1,0 +1,1 @@
+{"tmdb_id": 534387, "title": "The Offspring Huck It", "original_title": "The Offspring Huck It", "slug_title": "the-offspring-huck-it", "date": "2000-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cE9ns7L43xRObjdOQZxu36U9W7z.jpg", "actors": [], "comments": [], "recommandations_id": []}

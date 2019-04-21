@@ -1,0 +1,1 @@
+{"tmdb_id": 512386, "title": "Nosso Trio", "original_title": "Nosso Trio", "slug_title": "nosso-trio", "date": "2006-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVmipFQO19EE2KWY3NnoVPfTdT8.jpg", "actors": [], "comments": [], "recommandations_id": []}

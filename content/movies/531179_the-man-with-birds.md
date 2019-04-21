@@ -1,0 +1,1 @@
+{"tmdb_id": 531179, "title": "The Man With Birds", "original_title": "L' Homme aux oiseaux", "slug_title": "the-man-with-birds", "date": "2018-06-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrP8YNq8PQA4oM4ndgLvZaO36Lp.jpg", "actors": ["Vito Burkhardt ((voice))"], "comments": [], "recommandations_id": []}

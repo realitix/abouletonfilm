@@ -1,0 +1,1 @@
+{"tmdb_id": 578971, "title": "Janla Diye Bou Palalo", "original_title": "Janla Diye Bou Palalo", "slug_title": "janla-diye-bou-palalo", "date": "2014-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

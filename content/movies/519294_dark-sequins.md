@@ -1,0 +1,1 @@
+{"tmdb_id": 519294, "title": "Dark Sequins", "original_title": "Dark Sequins", "slug_title": "dark-sequins", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

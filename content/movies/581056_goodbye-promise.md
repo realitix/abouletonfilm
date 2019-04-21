@@ -1,0 +1,1 @@
+{"tmdb_id": 581056, "title": "Goodbye Promise", "original_title": "Goodbye Promise", "slug_title": "goodbye-promise", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

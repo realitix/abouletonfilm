@@ -1,0 +1,1 @@
+{"tmdb_id": 511611, "title": "Kung Fu Masters", "original_title": "Kung Fu Masters", "slug_title": "kung-fu-masters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1z7XuPoQMbwGmAqtCEPDFGeKxK.jpg", "actors": ["Ben Bostick ()", "Brian Bullock ()"], "comments": [], "recommandations_id": []}

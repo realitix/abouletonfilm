@@ -1,0 +1,1 @@
+{"tmdb_id": 439343, "title": "Trial by Fury: The People v. Scott Peterson", "original_title": "Trial by Fury: The People v. Scott Peterson", "slug_title": "trial-by-fury-the-people-v-scott-peterson", "date": "2016-04-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478860, "title": "Proxima", "original_title": "Proxima", "slug_title": "proxima", "date": "", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Green ()", "Lars Eidinger ()", "Matt Dillon ()", "Alexey Fateev ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 316227, "title": "Air Conditioning", "original_title": "Air Conditioning", "slug_title": "air-conditioning", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f63lzdvzbRTDEBMB17dq5OmP9m8.jpg", "actors": [], "comments": [], "recommandations_id": []}

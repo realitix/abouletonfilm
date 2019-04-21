@@ -1,0 +1,1 @@
+{"tmdb_id": 476760, "title": "Filme de S\u00e1bado", "original_title": "Filme de S\u00e1bado", "slug_title": "filme-de-sabado", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

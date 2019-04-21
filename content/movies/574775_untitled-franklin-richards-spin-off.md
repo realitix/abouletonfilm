@@ -1,0 +1,1 @@
+{"tmdb_id": 574775, "title": "Untitled Franklin Richards Spin-Off", "original_title": "Untitled Franklin Richards Spin-Off", "slug_title": "untitled-franklin-richards-spin-off", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

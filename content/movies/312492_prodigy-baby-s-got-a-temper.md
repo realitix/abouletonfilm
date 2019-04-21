@@ -1,0 +1,1 @@
+{"tmdb_id": 312492, "title": "Prodigy: Baby's Got a Temper", "original_title": "Prodigy: Baby's Got a Temper", "slug_title": "prodigy-baby-s-got-a-temper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

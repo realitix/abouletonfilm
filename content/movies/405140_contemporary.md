@@ -1,0 +1,1 @@
+{"tmdb_id": 405140, "title": "Contemporary", "original_title": "Savremenik", "slug_title": "contemporary", "date": "1982-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k56flEWUzIKxlJbfHYZxBNue94G.jpg", "actors": [], "comments": [], "recommandations_id": []}

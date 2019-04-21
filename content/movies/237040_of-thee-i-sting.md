@@ -1,0 +1,1 @@
+{"tmdb_id": 237040, "title": "Of Thee I Sting", "original_title": "Of Thee I Sting", "slug_title": "of-thee-i-sting", "date": "1946-08-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCKjb26tfTrXlnwN13m5a8bysXO.jpg", "actors": [], "comments": [], "recommandations_id": []}

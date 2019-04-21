@@ -1,0 +1,1 @@
+{"tmdb_id": 340240, "title": "Superior", "original_title": "Superior", "slug_title": "superior", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdKF3p7cs17vYHZAzfiTYpu4ITt.jpg", "actors": ["Thatcher Robinson (Charlie Eskola)", "Paul Stanko (Derek Suntila)"], "comments": [], "recommandations_id": []}

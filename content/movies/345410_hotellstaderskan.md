@@ -1,0 +1,1 @@
+{"tmdb_id": 345410, "title": "Hotellst\u00e4derskan", "original_title": "Hotellst\u00e4derskan", "slug_title": "hotellstaderskan", "date": "2008-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Simon J. Berger (Mikael)", "Ylva Ekblad (Margaretha)"], "comments": [], "recommandations_id": []}

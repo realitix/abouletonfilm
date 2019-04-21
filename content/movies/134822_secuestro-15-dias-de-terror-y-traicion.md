@@ -1,0 +1,1 @@
+{"tmdb_id": 134822, "title": "Secuestro: 15 Dias de Terror y traicion", "original_title": "Secuestro: 15 Dias de Terror y traicion", "slug_title": "secuestro-15-dias-de-terror-y-traicion", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 115590, "title": "Non-Intervention Game", "original_title": "Fukansho gemu", "slug_title": "non-intervention-game", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

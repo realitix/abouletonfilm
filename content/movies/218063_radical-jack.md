@@ -1,0 +1,1 @@
+{"tmdb_id": 218063, "title": "Radical Jack", "original_title": "Radical Jack", "slug_title": "radical-jack", "date": "2001-03-22", "genre": "Action", "score": "2.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6h8Ka22O1svAm3W0kfCXn2KwP3n.jpg", "actors": ["Billy Ray Cyrus (Jack)", "Dedee Pfeiffer ()"], "comments": [], "recommandations_id": []}

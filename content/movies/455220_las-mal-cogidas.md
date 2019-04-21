@@ -1,0 +1,1 @@
+{"tmdb_id": 455220, "title": "Las mal cogidas", "original_title": "Las mal cogidas", "slug_title": "las-mal-cogidas", "date": "", "genre": "Drame / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denisse Arancibia (Carmen)"], "comments": [], "recommandations_id": []}

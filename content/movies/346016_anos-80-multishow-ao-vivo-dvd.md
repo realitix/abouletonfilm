@@ -1,0 +1,1 @@
+{"tmdb_id": 346016, "title": "Anos 80 Multishow ao Vivo - DVD", "original_title": "Anos 80 Multishow ao Vivo - DVD", "slug_title": "anos-80-multishow-ao-vivo-dvd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cx5v7xEsWikAso0wng1HtHQbjkM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587175, "title": "Gromit's Tail-Waggin' DVD", "original_title": "Gromit's Tail-Waggin' DVD", "slug_title": "gromit-s-tail-waggin-dvd", "date": "2006-10-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vXTe8JFc8LmCos8LGt4UgFNmkW.jpg", "actors": [], "comments": [], "recommandations_id": []}

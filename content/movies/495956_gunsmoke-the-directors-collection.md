@@ -1,0 +1,1 @@
+{"tmdb_id": 495956, "title": "Gunsmoke: The Directors Collection", "original_title": "Gunsmoke: The Directors Collection", "slug_title": "gunsmoke-the-directors-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

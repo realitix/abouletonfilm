@@ -1,0 +1,1 @@
+{"tmdb_id": 277571, "title": "The Clean Stand-Up Comedy Tour", "original_title": "The Clean Stand-Up Comedy Tour", "slug_title": "the-clean-stand-up-comedy-tour", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

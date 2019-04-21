@@ -1,0 +1,1 @@
+{"tmdb_id": 424043, "title": "Sammy e Co. - Ricky e i suoi amici", "original_title": "Sammy e Co. - Ricky e i suoi amici", "slug_title": "sammy-e-co-ricky-e-i-suoi-amici", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

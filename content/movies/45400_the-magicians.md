@@ -1,0 +1,1 @@
+{"tmdb_id": 45400, "title": "The Magicians", "original_title": "The Magicians", "slug_title": "the-magicians", "date": "2000-01-01", "genre": "Action / Fantastique / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 96959, "title": "Cognitive Beginnings", "original_title": "Cognitive Beginnings", "slug_title": "cognitive-beginnings", "date": "2007-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PjoJGgiuRuyiEgNtvL8jiLTRRA.jpg", "actors": [], "comments": [], "recommandations_id": []}

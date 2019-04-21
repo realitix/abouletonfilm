@@ -1,0 +1,1 @@
+{"tmdb_id": 314647, "title": "Hook, Line & Sinker", "original_title": "Sur toute la ligne", "slug_title": "hook-line-sinker", "date": "2014-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

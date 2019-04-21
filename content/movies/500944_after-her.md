@@ -1,0 +1,1 @@
+{"tmdb_id": 500944, "title": "After Her", "original_title": "After Her", "slug_title": "after-her", "date": "2018-12-01", "genre": "Thriller / Drame / Myst\u00e8re / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalia Dyer (Hailey)", "Christopher Dylan White ()"], "comments": [], "recommandations_id": []}

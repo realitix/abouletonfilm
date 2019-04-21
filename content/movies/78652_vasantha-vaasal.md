@@ -1,0 +1,1 @@
+{"tmdb_id": 78652, "title": "Vasantha Vaasal", "original_title": "Vasantha Vaasal", "slug_title": "vasantha-vaasal", "date": "1996-03-21", "genre": "Action / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijay ()", "Swathi ()", "Mansoor Ali Khan ()", "Vadivelu ()", "Kovai Sarala ()"], "comments": [], "recommandations_id": []}

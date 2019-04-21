@@ -1,0 +1,1 @@
+{"tmdb_id": 580463, "title": "Stray Dogs", "original_title": "Stray Dogs", "slug_title": "stray-dogs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stacey Roca ()", "Max Margulies ()", "Robert Ross ()", "Courtney Falsey ()"], "comments": [], "recommandations_id": []}

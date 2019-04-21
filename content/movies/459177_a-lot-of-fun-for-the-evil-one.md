@@ -1,0 +1,1 @@
+{"tmdb_id": 459177, "title": "A Lot of Fun for the Evil One", "original_title": "A Lot of Fun for the Evil One", "slug_title": "a-lot-of-fun-for-the-evil-one", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

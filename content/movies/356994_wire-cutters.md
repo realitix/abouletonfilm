@@ -1,0 +1,1 @@
+{"tmdb_id": 356994, "title": "Wire Cutters", "original_title": "Wire Cutters", "slug_title": "wire-cutters", "date": "2014-07-26", "genre": "Animation / Science-Fiction", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joxOngoA3ztQT5JvUgJuAyVOmzI.jpg", "actors": [], "comments": [], "recommandations_id": [269711, 59852, 190250]}

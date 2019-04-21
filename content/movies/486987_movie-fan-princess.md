@@ -1,0 +1,1 @@
+{"tmdb_id": 486987, "title": "Movie-fan Princess", "original_title": "\u5f71\u8ff7\u516c\u4e3b", "slug_title": "movie-fan-princess", "date": "1966-06-22", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Connie Chan Po-Chu ()", "Lui Kei ()", "Keung Chung-Ping ()", "Lydia Shum ()"], "comments": [], "recommandations_id": []}

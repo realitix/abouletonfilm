@@ -1,0 +1,1 @@
+{"tmdb_id": 575268, "title": "Jazz is Our Religion", "original_title": "Jazz is Our Religion", "slug_title": "jazz-is-our-religion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ShodMM1taAyYNzZbdFwNSfZx2K.jpg", "actors": [], "comments": [], "recommandations_id": []}

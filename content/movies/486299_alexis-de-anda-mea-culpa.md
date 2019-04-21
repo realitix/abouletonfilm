@@ -1,0 +1,1 @@
+{"tmdb_id": 486299, "title": "Alexis de Anda: Mea Culpa", "original_title": "Alexis de Anda: Mea Culpa", "slug_title": "alexis-de-anda-mea-culpa", "date": "2017-11-10", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ADKGCyGdV9tSORUppSflBBQpLZ.jpg", "actors": ["Alexis de Anda ()"], "comments": [], "recommandations_id": []}

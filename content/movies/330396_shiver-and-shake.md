@@ -1,0 +1,1 @@
+{"tmdb_id": 330396, "title": "Shiver and Shake", "original_title": "Shiver and Shake", "slug_title": "shiver-and-shake", "date": "1922-10-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Parrott (The Newlywed Husband)", "Jobyna Ralston (The Newlywed Wife)"], "comments": [], "recommandations_id": []}

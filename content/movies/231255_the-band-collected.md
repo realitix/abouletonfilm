@@ -1,0 +1,1 @@
+{"tmdb_id": 231255, "title": "The Band - Collected", "original_title": "The Band - Collected", "slug_title": "the-band-collected", "date": "2013-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vS9xdTSC5RCZzyW3Yy7Aiov2bY.jpg", "actors": [], "comments": [], "recommandations_id": []}

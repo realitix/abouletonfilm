@@ -1,0 +1,1 @@
+{"tmdb_id": 563453, "title": "T\u00e1 Tudo Bem, V\u00f3", "original_title": "T\u00e1 Tudo Bem, V\u00f3", "slug_title": "ta-tudo-bem-vo", "date": "2018-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

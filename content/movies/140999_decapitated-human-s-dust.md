@@ -1,0 +1,1 @@
+{"tmdb_id": 140999, "title": "Decapitated: Human's Dust", "original_title": "Decapitated: Human's Dust", "slug_title": "decapitated-human-s-dust", "date": "2008-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4F1cC5fRmIqwgDpeo2BELTwYmSM.jpg", "actors": [], "comments": [], "recommandations_id": []}

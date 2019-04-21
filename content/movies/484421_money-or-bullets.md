@@ -1,0 +1,1 @@
+{"tmdb_id": 484421, "title": "Money or Bullets", "original_title": "Plata o Plomo", "slug_title": "money-or-bullets", "date": "2012-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyLtoT1TCE2ZZin6DoKh4pkfnBz.jpg", "actors": [], "comments": [], "recommandations_id": []}

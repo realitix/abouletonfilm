@@ -1,0 +1,1 @@
+{"tmdb_id": 576526, "title": "Alan Bush: A Life", "original_title": "Alan Bush: A Life", "slug_title": "alan-bush-a-life", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

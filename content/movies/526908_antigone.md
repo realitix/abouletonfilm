@@ -1,0 +1,1 @@
+{"tmdb_id": 526908, "title": "Antigone", "original_title": "Antigone", "slug_title": "antigone", "date": "2018-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mbsKoZhxw7BiepdCkGEjPXq1hIg.jpg", "actors": ["Stephen Dillane ()", "Anne Carson ()", "Tacita Dean ()"], "comments": [], "recommandations_id": []}

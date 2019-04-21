@@ -1,0 +1,1 @@
+{"tmdb_id": 421642, "title": "Bruce and His Things", "original_title": "Bruce and His Things", "slug_title": "bruce-and-his-things", "date": "1978-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

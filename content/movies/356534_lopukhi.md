@@ -1,0 +1,1 @@
+{"tmdb_id": 356534, "title": "\u041b\u043e\u043f\u0443\u0445\u0438", "original_title": "\u041b\u043e\u043f\u0443\u0445\u0438", "slug_title": "lopukhi", "date": "2005-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j95pfkBlGEp53ZuOL72Ou9oYwsj.jpg", "actors": [], "comments": [], "recommandations_id": []}

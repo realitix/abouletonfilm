@@ -1,0 +1,1 @@
+{"tmdb_id": 173127, "title": "Ghost's Lover", "original_title": "Ghost's Lover", "slug_title": "ghost-s-lover", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLTeEKfFYkn2VbdwOjxvkGBo2gc.jpg", "actors": [], "comments": [], "recommandations_id": []}

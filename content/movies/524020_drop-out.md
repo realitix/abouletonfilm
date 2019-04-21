@@ -1,0 +1,1 @@
+{"tmdb_id": 524020, "title": "Drop Out", "original_title": "Drop Out", "slug_title": "drop-out", "date": "1973-01-31", "genre": "Drame / Com\u00e9die / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5yMvBnhGvLW2uKtOAt3rhuFfla.jpg", "actors": [], "comments": [], "recommandations_id": []}

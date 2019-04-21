@@ -1,0 +1,1 @@
+{"tmdb_id": 307988, "title": "Agni Putrudu", "original_title": "Agni Putrudu", "slug_title": "agni-putrudu", "date": "1987-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

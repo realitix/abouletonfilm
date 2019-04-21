@@ -1,0 +1,1 @@
+{"tmdb_id": 271354, "title": "Blood Suckers / Blood Thirst", "original_title": "Blood Suckers / Blood Thirst", "slug_title": "blood-suckers-blood-thirst", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

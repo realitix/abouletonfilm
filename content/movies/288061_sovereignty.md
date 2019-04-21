@@ -1,0 +1,1 @@
+{"tmdb_id": 288061, "title": "Sovereignty", "original_title": "Saltanat", "slug_title": "sovereignty", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Baken Kydykeyeva ()", "Muratbek Ryskulov ()"], "comments": [], "recommandations_id": []}

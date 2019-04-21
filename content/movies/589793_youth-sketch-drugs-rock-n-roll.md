@@ -1,0 +1,1 @@
+{"tmdb_id": 589793, "title": "Youth: Sketch, Drugs & Rock n' Roll", "original_title": "Youth: Sketch, Drugs & Rock n' Roll", "slug_title": "youth-sketch-drugs-rock-n-roll", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

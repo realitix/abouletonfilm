@@ -1,0 +1,1 @@
+{"tmdb_id": 275716, "title": "Chihuly: Gardens & Glass", "original_title": "Chihuly: Gardens & Glass", "slug_title": "chihuly-gardens-glass", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

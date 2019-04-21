@@ -1,0 +1,1 @@
+{"tmdb_id": 283753, "title": "Power Half Hour - Bun Shaper", "original_title": "Power Half Hour - Bun Shaper", "slug_title": "power-half-hour-bun-shaper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lvVcW5YbDMlXqa66sPkmMUjJR0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 185422, "title": "The Dancing Soul of the Walking People", "original_title": "The Dancing Soul of the Walking People", "slug_title": "the-dancing-soul-of-the-walking-people", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

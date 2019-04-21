@@ -1,0 +1,1 @@
+{"tmdb_id": 300656, "title": "The Sea Speaks", "original_title": "Les feux de la mer", "slug_title": "the-sea-speaks", "date": "1948-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qF3dxIwJh2iIOispM3gkLp3Rto.jpg", "actors": [], "comments": [], "recommandations_id": []}

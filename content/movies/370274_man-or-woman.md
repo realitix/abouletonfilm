@@ -1,0 +1,1 @@
+{"tmdb_id": 370274, "title": "Man or Woman?", "original_title": "Man or Woman?", "slug_title": "man-or-woman", "date": "1979-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

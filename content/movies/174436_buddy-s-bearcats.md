@@ -1,0 +1,1 @@
+{"tmdb_id": 174436, "title": "Buddy's Bearcats", "original_title": "Buddy's Bearcats", "slug_title": "buddy-s-bearcats", "date": "1934-06-22", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZydkBbTpEzHlmgqJkvc687uaZ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

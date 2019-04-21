@@ -1,0 +1,1 @@
+{"tmdb_id": 476320, "title": "Cheap One Costs", "original_title": "Jeftina ko\u0161ta", "slug_title": "cheap-one-costs", "date": "1917-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stjepan Bojni\u010di\u0107 ()", "Gizela Huml ()"], "comments": [], "recommandations_id": []}

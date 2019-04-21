@@ -1,0 +1,1 @@
+{"tmdb_id": 576948, "title": "Kaze: Ghost Warrior", "original_title": "Kaze: Ghost Warrior", "slug_title": "kaze-ghost-warrior", "date": "2004-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfufFR1MfDZjfH94FcPQnpjeTwm.jpg", "actors": [], "comments": [], "recommandations_id": []}

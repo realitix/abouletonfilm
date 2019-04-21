@@ -1,0 +1,1 @@
+{"tmdb_id": 271780, "title": "The Pollen of Flowers", "original_title": "Hwabun", "slug_title": "the-pollen-of-flowers", "date": "1972-04-06", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8Q4KAy86vbz8dhMNnWvjHOvijr.jpg", "actors": ["Choi Ji-hee ()", "Nam Koong Won ()"], "comments": [], "recommandations_id": []}

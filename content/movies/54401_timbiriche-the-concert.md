@@ -1,0 +1,1 @@
+{"tmdb_id": 54401, "title": "Timbiriche: The Concert", "original_title": "Timbiriche: El Concierto", "slug_title": "timbiriche-the-concert", "date": "1999-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rD6gUuWy8LWytAfMLrHaxePAOvG.jpg", "actors": [], "comments": [], "recommandations_id": []}

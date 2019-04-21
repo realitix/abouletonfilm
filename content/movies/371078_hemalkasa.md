@@ -1,0 +1,1 @@
+{"tmdb_id": 371078, "title": "HEMALKASA", "original_title": "HEMALKASA", "slug_title": "hemalkasa", "date": "2015-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

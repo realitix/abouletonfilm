@@ -1,0 +1,1 @@
+{"tmdb_id": 259123, "title": "Bad is Bad", "original_title": "Bad is Bad", "slug_title": "bad-is-bad", "date": "2011-08-06", "genre": "Drame / Thriller", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/skJWfPiw5VECFr7JF8IXvKfXO6r.jpg", "actors": [], "comments": [], "recommandations_id": []}

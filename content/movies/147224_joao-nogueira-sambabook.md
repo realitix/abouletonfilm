@@ -1,0 +1,1 @@
+{"tmdb_id": 147224, "title": "Jo\u00e3o Nogueira - Sambabook", "original_title": "Jo\u00e3o Nogueira - Sambabook", "slug_title": "joao-nogueira-sambabook", "date": "2016-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCm9lS40GHFOhTcsKvQOyBQ3roH.jpg", "actors": [], "comments": [], "recommandations_id": []}

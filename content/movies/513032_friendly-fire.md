@@ -1,0 +1,1 @@
+{"tmdb_id": 513032, "title": "Friendly Fire", "original_title": "Friendly Fire", "slug_title": "friendly-fire", "date": "2005-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4RXC9W0icXstIB3ZKcTJuQmDA9.jpg", "actors": [], "comments": [], "recommandations_id": []}

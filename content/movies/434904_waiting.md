@@ -1,0 +1,1 @@
+{"tmdb_id": 434904, "title": "Waiting", "original_title": "\u010cekanje", "slug_title": "waiting", "date": "2014-02-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ozYzGrkrzhlAsFbyA9d3wfMOeQh.jpg", "actors": [], "comments": [], "recommandations_id": []}

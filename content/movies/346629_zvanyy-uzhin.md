@@ -1,0 +1,1 @@
+{"tmdb_id": 346629, "title": "Zvanyy uzhin", "original_title": "Zvanyy uzhin", "slug_title": "zvanyy-uzhin", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jjlnWj34pkfSZF1MsfN1s2UGUvY.jpg", "actors": [], "comments": [], "recommandations_id": []}

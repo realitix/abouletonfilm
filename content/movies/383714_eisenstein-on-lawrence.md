@@ -1,0 +1,1 @@
+{"tmdb_id": 383714, "title": "Eisenstein on Lawrence", "original_title": "Eisenstein on Lawrence", "slug_title": "eisenstein-on-lawrence", "date": "2016-02-15", "genre": "Fantastique / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

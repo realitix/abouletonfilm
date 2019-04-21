@@ -1,0 +1,1 @@
+{"tmdb_id": 281606, "title": "The Bridge", "original_title": "Qiao", "slug_title": "the-bridge", "date": "1949-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nyNwqPFfrvGkm0XabYszb6F2Zbk.jpg", "actors": ["Qiang Chen ()", "Defu Du ()", "Hao Jiang ()"], "comments": [], "recommandations_id": []}

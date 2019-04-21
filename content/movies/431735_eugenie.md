@@ -1,0 +1,1 @@
+{"tmdb_id": 431735, "title": "Eugenie", "original_title": "Eugenie", "slug_title": "eugenie", "date": "2016-12-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIehfoBNKI8FfJ0F355eIBWbl5Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

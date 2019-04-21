@@ -1,0 +1,1 @@
+{"tmdb_id": 321660, "title": "The War Zone: Paris to the Rhine", "original_title": "The War Zone: Paris to the Rhine", "slug_title": "the-war-zone-paris-to-the-rhine", "date": "2007-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

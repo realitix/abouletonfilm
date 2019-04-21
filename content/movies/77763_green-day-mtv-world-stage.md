@@ -1,0 +1,1 @@
+{"tmdb_id": 77763, "title": "Green Day: MTV World Stage", "original_title": "Green Day: MTV World Stage", "slug_title": "green-day-mtv-world-stage", "date": "2009-11-03", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0dToKnsahNDFAx2Srgy1jBB6bb.jpg", "actors": [], "comments": [], "recommandations_id": []}

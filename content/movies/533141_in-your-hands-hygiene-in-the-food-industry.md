@@ -1,0 +1,1 @@
+{"tmdb_id": 533141, "title": "In Your Hands: Hygiene in the Food Industry", "original_title": "In Your Hands: Hygiene in the Food Industry", "slug_title": "in-your-hands-hygiene-in-the-food-industry", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

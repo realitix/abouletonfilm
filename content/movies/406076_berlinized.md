@@ -1,0 +1,1 @@
+{"tmdb_id": 406076, "title": "Berlinized", "original_title": "Berlinized", "slug_title": "berlinized", "date": "2012-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2nm4erRcH7nSfcsKi8uumOJQBw.jpg", "actors": [], "comments": [], "recommandations_id": []}

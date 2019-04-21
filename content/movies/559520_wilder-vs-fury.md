@@ -1,0 +1,1 @@
+{"tmdb_id": 559520, "title": "Wilder Vs. Fury", "original_title": "Wilder Vs. Fury", "slug_title": "wilder-vs-fury", "date": "2018-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ey8KBgYdfQXO812VGD01D8y3VFU.jpg", "actors": [], "comments": [], "recommandations_id": []}

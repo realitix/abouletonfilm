@@ -1,0 +1,1 @@
+{"tmdb_id": 254839, "title": "A Quiet Strength", "original_title": "A Quiet Strength", "slug_title": "a-quiet-strength", "date": "2013-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195113, "title": "Lurline Baths", "original_title": "Lurline Baths", "slug_title": "lurline-baths", "date": "1897-10-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

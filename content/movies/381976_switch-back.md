@@ -1,0 +1,1 @@
+{"tmdb_id": 381976, "title": "Switch Back", "original_title": "Switch Back", "slug_title": "switch-back", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

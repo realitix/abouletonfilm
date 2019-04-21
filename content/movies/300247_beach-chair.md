@@ -1,0 +1,1 @@
+{"tmdb_id": 300247, "title": "Beach Chair", "original_title": "Beach Chair", "slug_title": "beach-chair", "date": "1986-08-18", "genre": "Animation / Com\u00e9die", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chtoW0DWz0GDhmflSDQvIKvSLp2.jpg", "actors": [], "comments": [], "recommandations_id": []}

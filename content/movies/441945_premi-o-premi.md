@@ -1,0 +1,1 @@
+{"tmdb_id": 441945, "title": "Premi O Premi", "original_title": "Premi O Premi", "slug_title": "premi-o-premi", "date": "2017-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pz3tkw4yHengDsxH1DTfrxwBSCx.jpg", "actors": ["Arifin Shuvo ()", "Nusraat Faria Mazhar ()"], "comments": [], "recommandations_id": []}

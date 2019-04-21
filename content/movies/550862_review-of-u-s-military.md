@@ -1,0 +1,1 @@
+{"tmdb_id": 550862, "title": "Review of U.S. Military", "original_title": "Review of U.S. Military", "slug_title": "review-of-u-s-military", "date": "1896-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8I568HgLw8y3Ze0Ywxu2FHvOVZQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

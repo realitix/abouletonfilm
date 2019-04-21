@@ -1,0 +1,1 @@
+{"tmdb_id": 464932, "title": "Wings for Roger Windsock", "original_title": "Wings for Roger Windsock", "slug_title": "wings-for-roger-windsock", "date": "1947-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mx2Z7fLU0iTKE0Omab4vt2Cxo0Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

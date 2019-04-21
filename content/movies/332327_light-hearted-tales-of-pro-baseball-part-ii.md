@@ -1,0 +1,1 @@
+{"tmdb_id": 332327, "title": "Light-Hearted Tales of Pro Baseball Part II", "original_title": "Proyakyu O Jubai Tanoshiki Miru Hoho part II", "slug_title": "light-hearted-tales-of-pro-baseball-part-ii", "date": "1984-06-12", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

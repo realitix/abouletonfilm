@@ -1,0 +1,1 @@
+{"tmdb_id": 444383, "title": "Hamac Caziim", "original_title": "Hamac Caziim", "slug_title": "hamac-caziim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

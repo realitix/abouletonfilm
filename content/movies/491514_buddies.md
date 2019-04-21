@@ -1,0 +1,1 @@
+{"tmdb_id": 491514, "title": "Buddies", "original_title": "Buddies", "slug_title": "buddies", "date": "2009-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

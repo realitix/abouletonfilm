@@ -1,0 +1,1 @@
+{"tmdb_id": 318491, "title": "The Wake Up Call: Anybody Listening?", "original_title": "The Wake Up Call: Anybody Listening?", "slug_title": "the-wake-up-call-anybody-listening", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

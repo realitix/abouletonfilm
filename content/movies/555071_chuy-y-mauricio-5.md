@@ -1,0 +1,1 @@
+{"tmdb_id": 555071, "title": "Chuy y Mauricio 5", "original_title": "Chuy y Mauricio 5", "slug_title": "chuy-y-mauricio-5", "date": "2010-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZQfBHdZfB4JVbFwdAOtFC2QTW.jpg", "actors": [], "comments": [], "recommandations_id": []}

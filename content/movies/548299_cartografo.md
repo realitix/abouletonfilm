@@ -1,0 +1,1 @@
+{"tmdb_id": 548299, "title": "Cart\u00f3grafo", "original_title": "Cart\u00f3grafo", "slug_title": "cartografo", "date": "2015-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeriel Rengifo (Oliver)", "Andreina Peralta (Daniela)"], "comments": [], "recommandations_id": []}

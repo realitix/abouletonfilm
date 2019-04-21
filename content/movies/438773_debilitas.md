@@ -1,0 +1,1 @@
+{"tmdb_id": 438773, "title": "Debilitas", "original_title": "Debilitas", "slug_title": "debilitas", "date": "2003-05-15", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltwOJqC4tpA9CzizXl8sDJNhWDh.jpg", "actors": ["Oswald Henke ()"], "comments": [], "recommandations_id": []}

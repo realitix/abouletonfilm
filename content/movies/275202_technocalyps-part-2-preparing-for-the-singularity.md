@@ -1,0 +1,1 @@
+{"tmdb_id": 275202, "title": "Technocalyps part 2: Preparing for the Singularity", "original_title": "Technocalyps part 2: Preparing for the Singularity", "slug_title": "technocalyps-part-2-preparing-for-the-singularity", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

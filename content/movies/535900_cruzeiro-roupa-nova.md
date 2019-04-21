@@ -1,0 +1,1 @@
+{"tmdb_id": 535900, "title": "Cruzeiro Roupa Nova", "original_title": "Cruzeiro Roupa Nova", "slug_title": "cruzeiro-roupa-nova", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ftJ4NnY0NemwClNqP0X89nwdO4x.jpg", "actors": [], "comments": [], "recommandations_id": []}

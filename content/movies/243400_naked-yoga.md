@@ -1,0 +1,1 @@
+{"tmdb_id": 243400, "title": "Naked Yoga", "original_title": "Naked Yoga", "slug_title": "naked-yoga", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFdS46ONzCbP2GLpTbBou0KRDN.jpg", "actors": ["Alexis Korner (Narrator)", "Elizabeth Taylor-Mead (Herself)"], "comments": [], "recommandations_id": []}

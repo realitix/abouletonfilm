@@ -1,0 +1,1 @@
+{"tmdb_id": 193128, "title": "Hate: The Litanies Of Satan", "original_title": "Hate: The Litanies Of Satan", "slug_title": "hate-the-litanies-of-satan", "date": "2004-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqcXV1wEJ60K94QDRA82pH9a2qK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 532336, "title": "Der Wilderer", "original_title": "Der Wilderer", "slug_title": "der-wilderer", "date": "1926-01-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heinrich Schroth (Graf Oetzbach)", "Carl de Vogt (Werner)", "Rudolf Rittner ()"], "comments": [], "recommandations_id": []}

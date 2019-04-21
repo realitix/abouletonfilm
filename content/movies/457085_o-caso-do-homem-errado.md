@@ -1,0 +1,1 @@
+{"tmdb_id": 457085, "title": "O Caso do Homem Errado", "original_title": "O Caso do Homem Errado", "slug_title": "o-caso-do-homem-errado", "date": "2017-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRUmkCBPVLHtueOmFHslg24FjmZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

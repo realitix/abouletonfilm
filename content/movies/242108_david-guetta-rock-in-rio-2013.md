@@ -1,0 +1,1 @@
+{"tmdb_id": 242108, "title": "David Guetta - Rock in Rio 2013", "original_title": "David Guetta - Rock in Rio 2013", "slug_title": "david-guetta-rock-in-rio-2013", "date": "2013-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A9nBEXgAgHpvX42hsu2HUSb44RE.jpg", "actors": [], "comments": [], "recommandations_id": []}

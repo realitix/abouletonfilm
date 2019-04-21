@@ -1,0 +1,1 @@
+{"tmdb_id": 197715, "title": "'Pinto' Colvig: The Man Behind the Goof", "original_title": "'Pinto' Colvig: The Man Behind the Goof", "slug_title": "pinto-colvig-the-man-behind-the-goof", "date": "2002-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

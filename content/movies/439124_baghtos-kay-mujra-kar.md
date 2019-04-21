@@ -1,0 +1,1 @@
+{"tmdb_id": 439124, "title": "Baghtos Kay Mujra Kar", "original_title": "Baghtos Kay Mujra Kar", "slug_title": "baghtos-kay-mujra-kar", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hemant Dhome ()", "Jitendra Joshi ()"], "comments": [], "recommandations_id": []}

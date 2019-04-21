@@ -1,0 +1,1 @@
+{"tmdb_id": 585866, "title": "Map of Latin American Dreams", "original_title": "Mapa de sue\u00f1os latinoamericanos", "slug_title": "map-of-latin-american-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 440395, "title": "Valerie: A Woman, An Artist, A Philosophy of Life", "original_title": "Valerie: A Woman, An Artist, A Philosophy of Life", "slug_title": "valerie-a-woman-an-artist-a-philosophy-of-life", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

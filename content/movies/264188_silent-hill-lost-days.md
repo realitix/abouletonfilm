@@ -1,0 +1,1 @@
+{"tmdb_id": 264188, "title": "Silent Hill: Lost Days", "original_title": "Silent Hill: Lost Days", "slug_title": "silent-hill-lost-days", "date": "2014-04-04", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eKjZ8ud0zXWCis6HfFKOWp7IYD.jpg", "actors": [], "comments": [], "recommandations_id": []}

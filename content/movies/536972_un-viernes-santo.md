@@ -1,0 +1,1 @@
+{"tmdb_id": 536972, "title": "Un viernes santo", "original_title": "Un viernes santo", "slug_title": "un-viernes-santo", "date": "1960-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzCDkbvkYCUHDa95KQQpXNIlwi9.jpg", "actors": [], "comments": [], "recommandations_id": []}

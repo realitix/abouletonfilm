@@ -1,0 +1,1 @@
+{"tmdb_id": 501587, "title": "Herr Daff macht eine Filmaufnahme", "original_title": "Herr Daff macht eine Filmaufnahme", "slug_title": "herr-daff-macht-eine-filmaufnahme", "date": "1981-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

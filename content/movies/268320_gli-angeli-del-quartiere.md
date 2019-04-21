@@ -1,0 +1,1 @@
+{"tmdb_id": 268320, "title": "Gli angeli del quartiere", "original_title": "Gli angeli del quartiere", "slug_title": "gli-angeli-del-quartiere", "date": "1952-11-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2pH3LyZ7p2vvg7fR846Ab4Nok3Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 436215, "title": "A Slow Night at the Kuwaiti Cafe", "original_title": "A Slow Night at the Kuwaiti Cafe", "slug_title": "a-slow-night-at-the-kuwaiti-cafe", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Bishop ()", "Tiriel Mora ()"], "comments": [], "recommandations_id": []}

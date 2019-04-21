@@ -1,0 +1,1 @@
+{"tmdb_id": 340503, "title": "Andy's Airplanes Andy Meets the Blue Angels", "original_title": "Andy's Airplanes Andy Meets the Blue Angels", "slug_title": "andy-s-airplanes-andy-meets-the-blue-angels", "date": "2007-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

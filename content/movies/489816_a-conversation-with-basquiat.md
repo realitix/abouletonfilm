@@ -1,0 +1,1 @@
+{"tmdb_id": 489816, "title": "A Conversation with Basquiat", "original_title": "A Conversation with Basquiat", "slug_title": "a-conversation-with-basquiat", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Michel Basquiat ()"], "comments": [], "recommandations_id": []}

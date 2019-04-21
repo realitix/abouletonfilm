@@ -1,0 +1,1 @@
+{"tmdb_id": 518539, "title": "Lo-ibiltariak", "original_title": "Lo-ibiltariak", "slug_title": "lo-ibiltariak", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 538308, "title": "Les petites alli\u00e9es", "original_title": "Les petites alli\u00e9es", "slug_title": "les-petites-alliees", "date": "1936-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pDIQq9dnxCVI0bKWlVAkabAWgNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

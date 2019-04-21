@@ -1,0 +1,1 @@
+{"tmdb_id": 521292, "title": "Wildwechsel", "original_title": "Wildwechsel", "slug_title": "wildwechsel", "date": "1972-09-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elisabeth Stepanek (Erika)", "Werner Prinz (Kriminalbeamter)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486390, "title": "Exterminator Seed", "original_title": "Semente Exterminadora", "slug_title": "exterminator-seed", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

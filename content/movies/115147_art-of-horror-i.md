@@ -1,0 +1,1 @@
+{"tmdb_id": 115147, "title": "Art of Horror I", "original_title": "Art of Horror I", "slug_title": "art-of-horror-i", "date": "1993-01-01", "genre": "Documentaire / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIPw9jlNSLK6DP2qH88whCFqcR5.jpg", "actors": [], "comments": [], "recommandations_id": []}

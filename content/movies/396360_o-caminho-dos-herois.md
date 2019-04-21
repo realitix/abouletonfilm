@@ -1,0 +1,1 @@
+{"tmdb_id": 396360, "title": "O Caminho dos Her\u00f3is", "original_title": "O Caminho dos Her\u00f3is", "slug_title": "o-caminho-dos-herois", "date": "2014-07-31", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

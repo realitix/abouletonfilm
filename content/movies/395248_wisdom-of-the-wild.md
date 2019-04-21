@@ -1,0 +1,1 @@
+{"tmdb_id": 395248, "title": "Wisdom of the Wild", "original_title": "Wisdom of the Wild", "slug_title": "wisdom-of-the-wild", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

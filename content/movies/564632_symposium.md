@@ -1,0 +1,1 @@
+{"tmdb_id": 564632, "title": "Symposium", "original_title": "Le banquet", "slug_title": "symposium", "date": "1975-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

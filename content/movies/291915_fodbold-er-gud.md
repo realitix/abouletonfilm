@@ -1,0 +1,1 @@
+{"tmdb_id": 291915, "title": "Fodbold er Gud", "original_title": "Fodbold er Gud", "slug_title": "fodbold-er-gud", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

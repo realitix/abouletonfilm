@@ -1,0 +1,1 @@
+{"tmdb_id": 169807, "title": "Oso Blanco", "original_title": "Oso Blanco", "slug_title": "oso-blanco", "date": "2009-06-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7biXhG119bR1PiXO6Tv22iW86F7.jpg", "actors": ["El J\u00edbaro ()", "Flores ()"], "comments": [], "recommandations_id": []}

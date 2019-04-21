@@ -1,0 +1,1 @@
+{"tmdb_id": 548599, "title": "A Study for the Skies", "original_title": "A Study for the Skies", "slug_title": "a-study-for-the-skies", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

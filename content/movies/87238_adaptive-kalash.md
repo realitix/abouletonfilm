@@ -1,0 +1,1 @@
+{"tmdb_id": 87238, "title": "Adaptive Kalash", "original_title": "Adaptive Kalash", "slug_title": "adaptive-kalash", "date": "2011-11-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXRrY6LHwpHXqvfuEhj3DaokPQ6.jpg", "actors": ["Travis Haley (Himself)"], "comments": [], "recommandations_id": []}

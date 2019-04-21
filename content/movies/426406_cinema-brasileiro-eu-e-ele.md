@@ -1,0 +1,1 @@
+{"tmdb_id": 426406, "title": "Cinema Brasileiro: Eu e Ele", "original_title": "Cinema Brasileiro: Eu e Ele", "slug_title": "cinema-brasileiro-eu-e-ele", "date": "1981-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzoprclK8B0Dj6EHEzIker7wVsv.jpg", "actors": [], "comments": [], "recommandations_id": []}

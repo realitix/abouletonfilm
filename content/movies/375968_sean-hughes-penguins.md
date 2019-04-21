@@ -1,0 +1,1 @@
+{"tmdb_id": 375968, "title": "Sean Hughes: Penguins", "original_title": "Sean Hughes: Penguins", "slug_title": "sean-hughes-penguins", "date": "2014-09-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jilOOjHpswu07kbsXLRCQhlmER3.jpg", "actors": ["Sean Hughes ()"], "comments": [], "recommandations_id": []}

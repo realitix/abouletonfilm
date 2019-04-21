@@ -1,0 +1,1 @@
+{"tmdb_id": 417248, "title": "American Baghdad", "original_title": "American Baghdad", "slug_title": "american-baghdad", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnXvCHXt5fU9zFRLfEEVMxe9MKd.jpg", "actors": [], "comments": [], "recommandations_id": []}

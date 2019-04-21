@@ -1,0 +1,1 @@
+{"tmdb_id": 379460, "title": "The Boa Friend", "original_title": "The Boa Friend", "slug_title": "the-boa-friend", "date": "1973-02-11", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer / Calypso Bee / Homer (voice))", "Joan Gerber (Honeyfang (voice))"], "comments": [], "recommandations_id": []}

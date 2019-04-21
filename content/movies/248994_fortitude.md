@@ -1,0 +1,1 @@
+{"tmdb_id": 248994, "title": "Fortitude", "original_title": "\u041c\u0443\u0436\u0435\u0441\u0442\u0432\u043e", "slug_title": "fortitude", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/plwvtNHdfRQJpts46sI1M9YEdjC.jpg", "actors": [], "comments": [], "recommandations_id": []}

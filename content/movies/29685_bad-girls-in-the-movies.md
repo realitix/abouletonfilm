@@ -1,0 +1,1 @@
+{"tmdb_id": 29685, "title": "Bad Girls in the Movies", "original_title": "Bad Girls in the Movies", "slug_title": "bad-girls-in-the-movies", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsdXbNPzNd6Bc1NfqXA9GgGL1ry.jpg", "actors": [], "comments": [], "recommandations_id": []}

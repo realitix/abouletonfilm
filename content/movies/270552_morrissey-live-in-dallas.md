@@ -1,0 +1,1 @@
+{"tmdb_id": 270552, "title": "Morrissey: Live in Dallas", "original_title": "Morrissey: Live in Dallas", "slug_title": "morrissey-live-in-dallas", "date": "1992-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tRXI5G1Jzyn4sY8vCmMvbdXp5b.jpg", "actors": ["Morrissey ()"], "comments": [], "recommandations_id": []}

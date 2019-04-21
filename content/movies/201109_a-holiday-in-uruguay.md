@@ -1,0 +1,1 @@
+{"tmdb_id": 201109, "title": "A Holiday in Uruguay", "original_title": "Un feriado", "slug_title": "a-holiday-in-uruguay", "date": "1951-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00eda Luisa Dubini (young woman)"], "comments": [], "recommandations_id": []}

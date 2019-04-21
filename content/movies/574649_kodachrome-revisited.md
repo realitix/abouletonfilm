@@ -1,0 +1,1 @@
+{"tmdb_id": 574649, "title": "Kodachrome Revisited", "original_title": "Kodachrome Revisited", "slug_title": "kodachrome-revisited", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6owuDM8bDAJi8rStpkH41amCcBZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

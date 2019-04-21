@@ -1,0 +1,1 @@
+{"tmdb_id": 374373, "title": "Grassroots Chicago", "original_title": "Grassroots Chicago", "slug_title": "grassroots-chicago", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

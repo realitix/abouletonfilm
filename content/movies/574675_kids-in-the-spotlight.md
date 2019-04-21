@@ -1,0 +1,1 @@
+{"tmdb_id": 574675, "title": "Kids in the Spotlight", "original_title": "Lampenfieber", "slug_title": "kids-in-the-spotlight", "date": "2019-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwSiJiRBYVXim6TDCWYUF5aLcf5.jpg", "actors": [], "comments": [], "recommandations_id": []}

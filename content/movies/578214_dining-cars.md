@@ -1,0 +1,1 @@
+{"tmdb_id": 578214, "title": "Dining Cars", "original_title": "Dining Cars", "slug_title": "dining-cars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

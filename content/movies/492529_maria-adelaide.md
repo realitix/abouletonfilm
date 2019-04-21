@@ -1,0 +1,1 @@
+{"tmdb_id": 492529, "title": "Maria Adelaide", "original_title": "Maria Adelaide", "slug_title": "maria-adelaide", "date": "2017-01-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVB7x6yREeX69XEVpWgPLWc63pt.jpg", "actors": ["Kika Farias (Maria Adelaide)"], "comments": [], "recommandations_id": []}

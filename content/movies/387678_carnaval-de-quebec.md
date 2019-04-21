@@ -1,0 +1,1 @@
+{"tmdb_id": 387678, "title": "Carnaval de Qu\u00e9bec", "original_title": "Carnaval de Qu\u00e9bec", "slug_title": "carnaval-de-quebec", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mz2zcI1eH3IQGMkvmANat5M0lqA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 222855, "title": "Dutch Treat", "original_title": "Dutch Treat", "slug_title": "dutch-treat", "date": "1956-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

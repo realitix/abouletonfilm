@@ -1,0 +1,1 @@
+{"tmdb_id": 69277, "title": "Demon Hunters: Dead Camper Lake", "original_title": "Demon Hunters: Dead Camper Lake", "slug_title": "demon-hunters-dead-camper-lake", "date": "2004-03-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66PafxB2yFw0vh6tnABRnFq3R7d.jpg", "actors": [], "comments": [], "recommandations_id": []}

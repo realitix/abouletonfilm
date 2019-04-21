@@ -1,0 +1,1 @@
+{"tmdb_id": 316358, "title": "Juana la Iguana: Aventuras y Pinturas", "original_title": "Juana la Iguana: Aventuras y Pinturas", "slug_title": "juana-la-iguana-aventuras-y-pinturas", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

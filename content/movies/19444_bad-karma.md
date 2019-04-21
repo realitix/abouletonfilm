@@ -1,0 +1,1 @@
+{"tmdb_id": 19444, "title": "Bad Karma", "original_title": "Bad Karma", "slug_title": "bad-karma", "date": "1991-01-01", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8BWNMGDiSbw9paA0vMgL1iV8gH.jpg", "actors": ["Julius Barnet (Dave Jackson)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 149484, "title": "Muka obraznosti", "original_title": "Muka obraznosti", "slug_title": "muka-obraznosti", "date": "1990-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ezw6w2Cs2lPX9wGCkOdgmpQIDAe.jpg", "actors": [], "comments": [], "recommandations_id": []}

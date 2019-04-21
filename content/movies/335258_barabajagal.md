@@ -1,0 +1,1 @@
+{"tmdb_id": 335258, "title": "Barabajagal", "original_title": "Barabajagal", "slug_title": "barabajagal", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

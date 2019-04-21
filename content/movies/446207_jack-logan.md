@@ -1,0 +1,1 @@
+{"tmdb_id": 446207, "title": "Jack Logan", "original_title": "Jack Logan", "slug_title": "jack-logan", "date": "2016-04-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJYdhkZmWvtDHfBkd0YFHN4P11n.jpg", "actors": [], "comments": [], "recommandations_id": []}

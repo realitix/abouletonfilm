@@ -1,0 +1,1 @@
+{"tmdb_id": 284201, "title": "Bedwetter", "original_title": "Bedwetter", "slug_title": "bedwetter", "date": "2008-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judy Jerome ()", "Cole Kwiatkowski ()", "Luke Temple ()"], "comments": [], "recommandations_id": []}

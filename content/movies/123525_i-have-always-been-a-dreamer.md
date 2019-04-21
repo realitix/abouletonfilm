@@ -1,0 +1,1 @@
+{"tmdb_id": 123525, "title": "I Have Always Been a Dreamer", "original_title": "I Have Always Been a Dreamer", "slug_title": "i-have-always-been-a-dreamer", "date": "2012-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

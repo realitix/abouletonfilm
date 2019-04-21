@@ -1,0 +1,1 @@
+{"tmdb_id": 393540, "title": "Anima - Symphonie phantastique", "original_title": "Anima - Symphonie phantastique", "slug_title": "anima-symphonie-phantastique", "date": "1981-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEMV8yrA6f24Xczcj5QrlHtfCNA.jpg", "actors": [], "comments": [], "recommandations_id": []}

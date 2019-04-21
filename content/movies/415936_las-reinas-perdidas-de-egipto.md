@@ -1,0 +1,1 @@
+{"tmdb_id": 415936, "title": "Las reinas perdidas de Egipto", "original_title": "Las reinas perdidas de Egipto", "slug_title": "las-reinas-perdidas-de-egipto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

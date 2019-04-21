@@ -1,0 +1,1 @@
+{"tmdb_id": 352849, "title": "Agricultural Report", "original_title": "Agricultural Report", "slug_title": "agricultural-report", "date": "2004-06-10", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

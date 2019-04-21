@@ -1,0 +1,1 @@
+{"tmdb_id": 376542, "title": "Hells Angels vs. Bandidos - Der Rockerkrieg", "original_title": "Hells Angels vs. Bandidos - Der Rockerkrieg", "slug_title": "hells-angels-vs-bandidos-der-rockerkrieg", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

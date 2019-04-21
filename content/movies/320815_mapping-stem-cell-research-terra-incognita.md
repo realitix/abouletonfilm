@@ -1,0 +1,1 @@
+{"tmdb_id": 320815, "title": "Mapping Stem Cell Research: Terra Incognita", "original_title": "Mapping Stem Cell Research: Terra Incognita", "slug_title": "mapping-stem-cell-research-terra-incognita", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

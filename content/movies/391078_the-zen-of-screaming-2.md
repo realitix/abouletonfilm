@@ -1,0 +1,1 @@
+{"tmdb_id": 391078, "title": "The Zen of Screaming 2", "original_title": "The Zen of Screaming 2", "slug_title": "the-zen-of-screaming-2", "date": "2007-06-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jQrbMa9u2A5VMcdeQeRj8o1pji.jpg", "actors": [], "comments": [], "recommandations_id": []}

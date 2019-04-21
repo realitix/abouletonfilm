@@ -1,0 +1,1 @@
+{"tmdb_id": 224049, "title": "The Spy Swatter", "original_title": "The Spy Swatter", "slug_title": "the-spy-swatter", "date": "1967-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yeaeCbpGnQC0vg5OgpYiN3WwX1X.jpg", "actors": [], "comments": [], "recommandations_id": []}

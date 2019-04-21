@@ -1,0 +1,1 @@
+{"tmdb_id": 235796, "title": "Dr. Jerkyl's Hide", "original_title": "Dr. Jerkyl's Hide", "slug_title": "dr-jerkyl-s-hide", "date": "1954-05-07", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktF7j7tdMMUaijOtHEi5ts6ROhV.jpg", "actors": ["Mel Blanc ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 529482, "title": "Bullfrog", "original_title": "Bullfrog", "slug_title": "bullfrog", "date": "2018-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8bAcwIIYBEEqyk8neOChCnD0ED.jpg", "actors": ["Can Kayaaslan (Adolescent Teenager)"], "comments": [], "recommandations_id": []}

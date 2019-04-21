@@ -1,0 +1,1 @@
+{"tmdb_id": 143710, "title": "In the Beginning: The Exile of Israel", "original_title": "In the Beginning: The Exile of Israel", "slug_title": "in-the-beginning-the-exile-of-israel", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

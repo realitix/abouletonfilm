@@ -1,0 +1,1 @@
+{"tmdb_id": 386033, "title": "Paranoid", "original_title": "Paranoid", "slug_title": "paranoid", "date": "2016-04-09", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Waddell (Kid)", "Jeff C. Smith (The Spirit)"], "comments": [], "recommandations_id": []}

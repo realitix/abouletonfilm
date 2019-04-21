@@ -1,0 +1,1 @@
+{"tmdb_id": 271865, "title": "Circle of Powers", "original_title": "Circle of Powers", "slug_title": "circle-of-powers", "date": "1998-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74pjzgGJs1FfWZT9t9wSJzRIOZP.jpg", "actors": ["Daniel Kamwa ()", "Ambroise Bia ()"], "comments": [], "recommandations_id": []}

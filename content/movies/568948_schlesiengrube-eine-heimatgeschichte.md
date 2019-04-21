@@ -1,0 +1,1 @@
+{"tmdb_id": 568948, "title": "Schlesiengrube, eine Heimatgeschichte", "original_title": "Schlesiengrube, eine Heimatgeschichte", "slug_title": "schlesiengrube-eine-heimatgeschichte", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 554490, "title": "Displacements", "original_title": "Displacements", "slug_title": "displacements", "date": "2018-10-14", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qM7AVhfNZzcnVhROvZSId2Ip4vv.jpg", "actors": ["Dom Fera (Jack Knotts)"], "comments": [], "recommandations_id": []}

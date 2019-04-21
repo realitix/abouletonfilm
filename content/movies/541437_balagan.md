@@ -1,0 +1,1 @@
+{"tmdb_id": 541437, "title": "Balagan", "original_title": "Balagan", "slug_title": "balagan", "date": "1994-02-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aqo9tx3V6jYW5rhOgRoW9Bb1UBm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 249889, "title": "Shania Twain: Live", "original_title": "Shania Twain: Live", "slug_title": "shania-twain-live", "date": "1998-09-12", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2SIZC3CLsaX8y0acmcAMbFtuD3r.jpg", "actors": ["Shania Twain (herself)"], "comments": [], "recommandations_id": []}

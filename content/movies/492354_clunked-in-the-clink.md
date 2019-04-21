@@ -1,0 +1,1 @@
+{"tmdb_id": 492354, "title": "Clunked in the Clink", "original_title": "Clunked in the Clink", "slug_title": "clunked-in-the-clink", "date": "1949-07-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Jo Allen (Vera Vague (as Vera Vague))"], "comments": [], "recommandations_id": []}

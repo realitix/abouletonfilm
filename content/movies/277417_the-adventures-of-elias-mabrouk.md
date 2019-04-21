@@ -1,0 +1,1 @@
+{"tmdb_id": 277417, "title": "The Adventures of Elias Mabrouk", "original_title": "Mughammarat Elias Mabruk", "slug_title": "the-adventures-of-elias-mabrouk", "date": "1930-01-02", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

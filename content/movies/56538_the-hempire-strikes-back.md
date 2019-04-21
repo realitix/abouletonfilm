@@ -1,0 +1,1 @@
+{"tmdb_id": 56538, "title": "The Hempire Strikes Back", "original_title": "The Hempire Strikes Back", "slug_title": "the-hempire-strikes-back", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g6spyCEyvNjZ35ZkUWFvZy8d9RB.jpg", "actors": [], "comments": [], "recommandations_id": []}

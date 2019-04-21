@@ -1,0 +1,1 @@
+{"tmdb_id": 481885, "title": "Bar Tango", "original_title": "Bar Tango", "slug_title": "bar-tango", "date": "2015-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7SbCdru4XlI4xU9lVRNw22DpmM.jpg", "actors": [], "comments": [], "recommandations_id": []}

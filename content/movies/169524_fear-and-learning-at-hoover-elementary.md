@@ -1,0 +1,1 @@
+{"tmdb_id": 169524, "title": "Fear and Learning at Hoover Elementary", "original_title": "Fear and Learning at Hoover Elementary", "slug_title": "fear-and-learning-at-hoover-elementary", "date": "1997-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 122871, "title": "Last Writes", "original_title": "Last Writes", "slug_title": "last-writes", "date": "2002-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Schulze (Max)", "Michael Panes (Linus)", "Scott Lawrence (Doctor)"], "comments": [], "recommandations_id": []}

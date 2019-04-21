@@ -1,0 +1,1 @@
+{"tmdb_id": 579206, "title": "Anatomy of a Pandemic", "original_title": "Anatomy of a Pandemic", "slug_title": "anatomy-of-a-pandemic", "date": "2009-05-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

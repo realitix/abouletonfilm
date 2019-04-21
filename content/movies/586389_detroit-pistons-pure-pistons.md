@@ -1,0 +1,1 @@
+{"tmdb_id": 586389, "title": "Detroit Pistons Pure Pistons", "original_title": "Detroit Pistons Pure Pistons", "slug_title": "detroit-pistons-pure-pistons", "date": "1991-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uv9cs6AzIBFx9vAVUxHWTRxv69o.jpg", "actors": [], "comments": [], "recommandations_id": []}

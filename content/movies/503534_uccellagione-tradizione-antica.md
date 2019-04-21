@@ -1,0 +1,1 @@
+{"tmdb_id": 503534, "title": "Uccellagione tradizione antica", "original_title": "Uccellagione tradizione antica", "slug_title": "uccellagione-tradizione-antica", "date": "1967-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

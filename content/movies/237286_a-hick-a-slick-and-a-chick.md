@@ -1,0 +1,1 @@
+{"tmdb_id": 237286, "title": "A Hick a Slick and a Chick", "original_title": "A Hick a Slick and a Chick", "slug_title": "a-hick-a-slick-and-a-chick", "date": "1948-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y7HjFC8xwHoshO1cHcNAtjHlVMA.jpg", "actors": [], "comments": [], "recommandations_id": []}

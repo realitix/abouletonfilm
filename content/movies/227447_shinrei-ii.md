@@ -1,0 +1,1 @@
+{"tmdb_id": 227447, "title": "Shinrei II", "original_title": "Shinrei II", "slug_title": "shinrei-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0aHvELlkeNaeWN7AMuUNuvTxec.jpg", "actors": [], "comments": [], "recommandations_id": []}

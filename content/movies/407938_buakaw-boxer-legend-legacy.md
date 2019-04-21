@@ -1,0 +1,1 @@
+{"tmdb_id": 407938, "title": "Buakaw - Boxer, Legend, Legacy", "original_title": "Buakaw - Boxer, Legend, Legacy", "slug_title": "buakaw-boxer-legend-legacy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 444022, "title": "30 Minutes to Fitness: Slim Sculpting", "original_title": "30 Minutes to Fitness: Slim Sculpting", "slug_title": "30-minutes-to-fitness-slim-sculpting", "date": "2015-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kelly Coffey-Meyer ()"], "comments": [], "recommandations_id": []}

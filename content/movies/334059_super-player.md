@@ -1,0 +1,1 @@
+{"tmdb_id": 334059, "title": "Super Player", "original_title": "Super Player", "slug_title": "super-player", "date": "2010-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvA27gkuZXTmTyWrVUdWHAlcD0H.jpg", "actors": [], "comments": [], "recommandations_id": []}

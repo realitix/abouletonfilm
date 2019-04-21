@@ -1,0 +1,1 @@
+{"tmdb_id": 499438, "title": "Ghostfinders", "original_title": "Ghostfinders", "slug_title": "ghostfinders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ZXYRFy6jBkeRe38NtqwTfdOfdZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

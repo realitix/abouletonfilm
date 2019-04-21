@@ -1,0 +1,1 @@
+{"tmdb_id": 297868, "title": "Cranium Hullabaloo DVD Amazing Animal Adventure", "original_title": "Cranium Hullabaloo DVD Amazing Animal Adventure", "slug_title": "cranium-hullabaloo-dvd-amazing-animal-adventure", "date": "2008-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

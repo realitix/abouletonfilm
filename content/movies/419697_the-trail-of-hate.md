@@ -1,0 +1,1 @@
+{"tmdb_id": 419697, "title": "The Trail of Hate", "original_title": "The Trail of Hate", "slug_title": "the-trail-of-hate", "date": "1917-04-28", "genre": "Action", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Ford (Lt. Jack Brewer)", "Duke Worne (Capt. Dana Holden)", "Louise Granville (Madge)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 140829, "title": "Street Ballad: A Jakarta Story", "original_title": "Street Ballad: A Jakarta Story", "slug_title": "street-ballad-a-jakarta-story", "date": "2012-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Titi Juwariyah ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 206792, "title": "Aahuthi", "original_title": "Aahuthi", "slug_title": "aahuthi", "date": "1988-05-18", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dr. Rajasekhar ()", "Jeevitha ()", "Ahuti Prasad ()"], "comments": [], "recommandations_id": []}

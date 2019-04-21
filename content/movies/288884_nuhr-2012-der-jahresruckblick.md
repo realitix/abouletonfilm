@@ -1,0 +1,1 @@
+{"tmdb_id": 288884, "title": "Nuhr 2012 \u2013 Der Jahresr\u00fcckblick", "original_title": "Nuhr 2012 \u2013 Der Jahresr\u00fcckblick", "slug_title": "nuhr-2012-der-jahresruckblick", "date": "2012-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dieter Nuhr ()"], "comments": [], "recommandations_id": []}

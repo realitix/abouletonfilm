@@ -1,0 +1,1 @@
+{"tmdb_id": 310280, "title": "La Vida de Jorge Negrete", "original_title": "La Vida de Jorge Negrete", "slug_title": "la-vida-de-jorge-negrete", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

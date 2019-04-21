@@ -1,0 +1,1 @@
+{"tmdb_id": 383495, "title": "The Bluebeard of Happiness", "original_title": "The Bluebeard of Happiness", "slug_title": "the-bluebeard-of-happiness", "date": "2015-12-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Cairns (Narrator)"], "comments": [], "recommandations_id": []}

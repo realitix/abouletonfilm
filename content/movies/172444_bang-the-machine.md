@@ -1,0 +1,1 @@
+{"tmdb_id": 172444, "title": "Bang the Machine", "original_title": "Bang the Machine", "slug_title": "bang-the-machine", "date": "2002-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oLDrCuEJDgeUWh8C2VlfkWUYs2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

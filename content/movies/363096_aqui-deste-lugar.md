@@ -1,0 +1,1 @@
+{"tmdb_id": 363096, "title": "Aqui Deste Lugar", "original_title": "Aqui Deste Lugar", "slug_title": "aqui-deste-lugar", "date": "2015-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpHAxQu6J4NyaCwpLFnqswrAIej.jpg", "actors": [], "comments": [], "recommandations_id": []}

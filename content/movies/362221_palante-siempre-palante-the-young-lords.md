@@ -1,0 +1,1 @@
+{"tmdb_id": 362221, "title": "Palante, Siempre Palante! The Young Lords", "original_title": "Palante, Siempre Palante! The Young Lords", "slug_title": "palante-siempre-palante-the-young-lords", "date": "1996-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

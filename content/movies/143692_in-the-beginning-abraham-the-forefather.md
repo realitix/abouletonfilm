@@ -1,0 +1,1 @@
+{"tmdb_id": 143692, "title": "In the Beginning: Abraham the Forefather", "original_title": "In the Beginning: Abraham the Forefather", "slug_title": "in-the-beginning-abraham-the-forefather", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

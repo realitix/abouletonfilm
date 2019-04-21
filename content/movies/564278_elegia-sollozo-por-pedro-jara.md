@@ -1,0 +1,1 @@
+{"tmdb_id": 564278, "title": "Eleg\u00eda: Sollozo por Pedro Jara", "original_title": "Eleg\u00eda: Sollozo por Pedro Jara", "slug_title": "elegia-sollozo-por-pedro-jara", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

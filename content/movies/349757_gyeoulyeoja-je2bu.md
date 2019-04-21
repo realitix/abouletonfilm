@@ -1,0 +1,1 @@
+{"tmdb_id": 349757, "title": "\uaca8\uc6b8\uc5ec\uc790 \uc81c2\ubd80", "original_title": "\uaca8\uc6b8\uc5ec\uc790 \uc81c2\ubd80", "slug_title": "gyeoulyeoja-je2bu", "date": "1983-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

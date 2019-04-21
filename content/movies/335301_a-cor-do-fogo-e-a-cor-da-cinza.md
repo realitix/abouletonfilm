@@ -1,0 +1,1 @@
+{"tmdb_id": 335301, "title": "A Cor do Fogo e a Cor da Cinza", "original_title": "A Cor do Fogo e a Cor da Cinza", "slug_title": "a-cor-do-fogo-e-a-cor-da-cinza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5p1bDCAROnK2HVspq9JeU5xZWWX.jpg", "actors": [], "comments": [], "recommandations_id": []}

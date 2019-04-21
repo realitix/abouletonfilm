@@ -1,0 +1,1 @@
+{"tmdb_id": 357357, "title": "Mining Review 7th Year No 8", "original_title": "Mining Review 7th Year No 8", "slug_title": "mining-review-7th-year-no-8", "date": "1954-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 140098, "title": "Lockjakt - Fox Calling in Sweden", "original_title": "Lockjakt p\u00e5 r\u00e4v", "slug_title": "lockjakt-fox-calling-in-sweden", "date": "2007-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7VyJe9P97hnIf4jBK9RMkVgjA4S.jpg", "actors": [], "comments": [], "recommandations_id": []}

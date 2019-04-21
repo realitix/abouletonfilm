@@ -1,0 +1,1 @@
+{"tmdb_id": 354029, "title": "Persian Series #6", "original_title": "Persian Series #6", "slug_title": "persian-series-6", "date": "2000-08-11", "genre": "", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6Ra0FK58xpBhZQ4SFLoJ64Bi7e.jpg", "actors": [], "comments": [], "recommandations_id": [142404, 163350, 129945, 121276]}

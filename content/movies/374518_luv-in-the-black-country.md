@@ -1,0 +1,1 @@
+{"tmdb_id": 374518, "title": "Luv'in the Black Country", "original_title": "Luv'in the Black Country", "slug_title": "luv-in-the-black-country", "date": "2010-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6AF707qMkfChtDrmkOj2vQUOuuN.jpg", "actors": [], "comments": [], "recommandations_id": []}

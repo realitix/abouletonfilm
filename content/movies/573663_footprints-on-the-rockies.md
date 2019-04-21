@@ -1,0 +1,1 @@
+{"tmdb_id": 573663, "title": "Footprints on the Rockies", "original_title": "Footprints on the Rockies", "slug_title": "footprints-on-the-rockies", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SgGWKhAoB00WewIsRk446RFh9D.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 159512, "title": "GWAR - Tour de Scum", "original_title": "GWAR - Tour de Scum", "slug_title": "gwar-tour-de-scum", "date": "1992-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uVNOTKvrM7c5KPCOXALiaHjsCMt.jpg", "actors": [], "comments": [], "recommandations_id": []}

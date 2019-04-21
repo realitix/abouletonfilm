@@ -1,0 +1,1 @@
+{"tmdb_id": 469150, "title": "\ub3cc\uc544\uc628 \ud314\ub3c4 \uc0ac\ub098\uc774", "original_title": "\ub3cc\uc544\uc628 \ud314\ub3c4 \uc0ac\ub098\uc774", "slug_title": "dolaon-paldo-sanai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

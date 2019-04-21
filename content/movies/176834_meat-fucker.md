@@ -1,0 +1,1 @@
+{"tmdb_id": 176834, "title": "Meat Fucker", "original_title": "Meat Fucker", "slug_title": "meat-fucker", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

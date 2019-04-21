@@ -1,0 +1,1 @@
+{"tmdb_id": 251220, "title": "Who Took Johnny", "original_title": "Who Took Johnny", "slug_title": "who-took-johnny", "date": "2014-01-17", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLGoECAJAj6SabnMXaCv7JFBbuN.jpg", "actors": [], "comments": [], "recommandations_id": [354421, 19215, 212508, 343304]}

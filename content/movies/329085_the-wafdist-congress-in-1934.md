@@ -1,0 +1,1 @@
+{"tmdb_id": 329085, "title": "The Wafdist Congress in 1934", "original_title": "al-Mu'tamar al- Wafdi 'Am 1934", "slug_title": "the-wafdist-congress-in-1934", "date": "1935-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

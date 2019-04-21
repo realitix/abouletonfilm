@@ -1,0 +1,1 @@
+{"tmdb_id": 396084, "title": "Hummus! the Movie", "original_title": "Hummus! the Movie", "slug_title": "hummus-the-movie", "date": "2016-05-24", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cl6zoRfo84gEbUhQAZm9GZxjCwN.jpg", "actors": [], "comments": [], "recommandations_id": []}

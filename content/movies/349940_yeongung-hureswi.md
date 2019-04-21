@@ -1,0 +1,1 @@
+{"tmdb_id": 349940, "title": "\uc601\uc6c5 \ud6c4\ub808\uc26c", "original_title": "\uc601\uc6c5 \ud6c4\ub808\uc26c", "slug_title": "yeongung-hureswi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

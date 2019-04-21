@@ -1,0 +1,1 @@
+{"tmdb_id": 405134, "title": "A Device of No Use", "original_title": "Naprava koja ni\u010demu ne slu\u017ei", "slug_title": "a-device-of-no-use", "date": "1974-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CSO9a4YXxRI4uwcKNsrhIlzJpm.jpg", "actors": [], "comments": [], "recommandations_id": []}

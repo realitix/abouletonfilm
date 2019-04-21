@@ -1,0 +1,1 @@
+{"tmdb_id": 437769, "title": "Brise-Glace: Oberture", "original_title": "Brise-Glace: Oberture", "slug_title": "brise-glace-oberture", "date": "1987-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ewin Hansen (Himself)", "Jan-Cedric Hansen (Himself)"], "comments": [], "recommandations_id": []}

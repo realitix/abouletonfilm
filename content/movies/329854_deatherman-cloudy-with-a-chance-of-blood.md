@@ -1,0 +1,1 @@
+{"tmdb_id": 329854, "title": "Deatherman: Cloudy with a chance of BLOOD!", "original_title": "Deatherman: Cloudy with a chance of BLOOD!", "slug_title": "deatherman-cloudy-with-a-chance-of-blood", "date": "2014-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

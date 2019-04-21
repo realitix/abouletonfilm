@@ -1,0 +1,1 @@
+{"tmdb_id": 379360, "title": "One Republic - Rock in Rio 2015", "original_title": "One Republic - Rock in Rio 2015", "slug_title": "one-republic-rock-in-rio-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14HkMmmij2T3Zmpv0MIoQJIy1Ir.jpg", "actors": [], "comments": [], "recommandations_id": []}

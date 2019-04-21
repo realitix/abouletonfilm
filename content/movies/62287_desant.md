@@ -1,0 +1,1 @@
+{"tmdb_id": 62287, "title": "Desant", "original_title": "\u0414\u0435\u0441\u0430\u043d\u0442", "slug_title": "desant", "date": "2003-06-06", "genre": "Guerre / Action", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMG2laW9ReiEQap9s9oInundMNG.jpg", "actors": ["Aleksey Serebryakov ()"], "comments": [], "recommandations_id": []}

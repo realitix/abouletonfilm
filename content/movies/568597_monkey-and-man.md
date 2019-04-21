@@ -1,0 +1,1 @@
+{"tmdb_id": 568597, "title": "Monkey and Man", "original_title": "Monkey and Man", "slug_title": "monkey-and-man", "date": "2017-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Magary ()", "Shonali Bhowmik ()", "Alex Goldberg ()"], "comments": [], "recommandations_id": []}

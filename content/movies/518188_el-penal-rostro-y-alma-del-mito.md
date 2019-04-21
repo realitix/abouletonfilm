@@ -1,0 +1,1 @@
+{"tmdb_id": 518188, "title": "El Penal: rostro y alma del mito", "original_title": "El Penal: rostro y alma del mito", "slug_title": "el-penal-rostro-y-alma-del-mito", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZ3A7VgOXbUCoUHUomKc8iRlQFf.jpg", "actors": [], "comments": [], "recommandations_id": []}

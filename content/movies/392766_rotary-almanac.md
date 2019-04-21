@@ -1,0 +1,1 @@
+{"tmdb_id": 392766, "title": "Rotary Almanac", "original_title": "Rotary Almanac", "slug_title": "rotary-almanac", "date": "2000-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpv6Ma8Ul5RE3Au9tJNzkp2Fkxw.jpg", "actors": [], "comments": [], "recommandations_id": []}

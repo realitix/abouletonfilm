@@ -1,0 +1,1 @@
+{"tmdb_id": 322845, "title": "Garth Brooks Double Live", "original_title": "Garth Brooks Double Live", "slug_title": "garth-brooks-double-live", "date": "1998-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Garth Brooks (Himself)"], "comments": [], "recommandations_id": []}

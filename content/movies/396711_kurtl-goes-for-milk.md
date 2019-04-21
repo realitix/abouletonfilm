@@ -1,0 +1,1 @@
+{"tmdb_id": 396711, "title": "Kurtl Goes For Milk", "original_title": "Kurtl Holt Milch", "slug_title": "kurtl-goes-for-milk", "date": "2011-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LLQyo2zg4CixQowpFPET16Tr5E.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 48237, "title": "Cold Grip", "original_title": "Cold Grip", "slug_title": "cold-grip", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgRTkKmVbKNdoZd3K4teelSwOnx.jpg", "actors": [], "comments": [], "recommandations_id": []}

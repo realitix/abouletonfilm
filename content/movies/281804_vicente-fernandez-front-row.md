@@ -1,0 +1,1 @@
+{"tmdb_id": 281804, "title": "Vicente Fernandez Front Row", "original_title": "Vicente Fernandez Primera Fila", "slug_title": "vicente-fernandez-front-row", "date": "2008-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKseJfJu3KmfBx1hEAK5CcblnC5.jpg", "actors": [], "comments": [], "recommandations_id": []}

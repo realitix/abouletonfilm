@@ -1,0 +1,1 @@
+{"tmdb_id": 416644, "title": "Ayotzinapa en m\u00ed", "original_title": "Ayotzinapa en m\u00ed", "slug_title": "ayotzinapa-en-mi", "date": "2016-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r18kZGR4uJ7j2ENuaM4bZbYz3Tx.jpg", "actors": [], "comments": [], "recommandations_id": []}

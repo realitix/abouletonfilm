@@ -1,0 +1,1 @@
+{"tmdb_id": 411919, "title": "Bottom Feeders", "original_title": "Bottom Feeders", "slug_title": "bottom-feeders", "date": "2014-08-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14th8P2hUMy1bOPX7nIuqo4jWmT.jpg", "actors": [], "comments": [], "recommandations_id": []}

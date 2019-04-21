@@ -1,0 +1,1 @@
+{"tmdb_id": 350537, "title": "\uc6a9\ubb38\ud638\uac1d", "original_title": "\uc6a9\ubb38\ud638\uac1d", "slug_title": "yongmunhogaeg", "date": "1979-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

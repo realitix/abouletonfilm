@@ -1,0 +1,1 @@
+{"tmdb_id": 84542, "title": "Slipknot: Rock Am Ring 2009", "original_title": "Slipknot: Rock Am Ring 2009", "slug_title": "slipknot-rock-am-ring-2009", "date": "2009-09-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqrTvACMu2ftrojsLe61cvotRdB.jpg", "actors": [], "comments": [], "recommandations_id": []}

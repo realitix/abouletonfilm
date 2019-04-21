@@ -1,0 +1,1 @@
+{"tmdb_id": 130223, "title": "Cancer to Capricorn: Path of the Modern Gypsy", "original_title": "Cancer to Capricorn: Path of the Modern Gypsy", "slug_title": "cancer-to-capricorn-path-of-the-modern-gypsy", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

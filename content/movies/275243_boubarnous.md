@@ -1,0 +1,1 @@
+{"tmdb_id": 275243, "title": "Boubarnous", "original_title": "Boubarnous", "slug_title": "boubarnous", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

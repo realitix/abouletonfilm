@@ -1,0 +1,1 @@
+{"tmdb_id": 398305, "title": "A City is an Island", "original_title": "A City is an Island", "slug_title": "a-city-is-an-island", "date": "2014-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LJLzMoaBQaVSMNq1R8d7rA4P2j.jpg", "actors": [], "comments": [], "recommandations_id": []}

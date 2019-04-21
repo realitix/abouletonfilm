@@ -1,0 +1,1 @@
+{"tmdb_id": 39454, "title": "The Cup of Tears", "original_title": "The Cup of Tears", "slug_title": "the-cup-of-tears", "date": "2012-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

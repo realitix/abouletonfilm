@@ -1,0 +1,1 @@
+{"tmdb_id": 350298, "title": "\uc694\uc0ac\uad8c", "original_title": "\uc694\uc0ac\uad8c", "slug_title": "yosagweon", "date": "1980-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

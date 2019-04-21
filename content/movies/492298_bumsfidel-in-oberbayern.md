@@ -1,0 +1,1 @@
+{"tmdb_id": 492298, "title": "Bumsfidel in Oberbayern", "original_title": "Bumsfidel in Oberbayern", "slug_title": "bumsfidel-in-oberbayern", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wsT8FAFZAOHLzYFWvhTUHbaSMG.jpg", "actors": [], "comments": [], "recommandations_id": []}

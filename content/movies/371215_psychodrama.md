@@ -1,0 +1,1 @@
+{"tmdb_id": 371215, "title": "Psychodrama", "original_title": "Psychodrama", "slug_title": "psychodrama", "date": "1972-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXmd9HI4Yj2DEhoeGZFZfv0udbH.jpg", "actors": [], "comments": [], "recommandations_id": []}

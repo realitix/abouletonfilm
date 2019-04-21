@@ -1,0 +1,1 @@
+{"tmdb_id": 297232, "title": "A Story of West Coast Lumber", "original_title": "A Story of West Coast Lumber", "slug_title": "a-story-of-west-coast-lumber", "date": "1926-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 118870, "title": "Zombiegore", "original_title": "Zombiegore", "slug_title": "zombiegore", "date": "2003-10-10", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lzzTGkXDLU7wKXhwLaSxsaJ27R.jpg", "actors": [], "comments": [], "recommandations_id": []}

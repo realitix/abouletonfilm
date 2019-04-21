@@ -1,0 +1,1 @@
+{"tmdb_id": 192024, "title": "The Switch Tower", "original_title": "The Switch Tower", "slug_title": "the-switch-tower", "date": "1913-06-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry B. Walthall (The Switchman)", "Lionel Barrymore (First Counterfeiter)"], "comments": [], "recommandations_id": []}

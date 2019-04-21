@@ -1,0 +1,1 @@
+{"tmdb_id": 243587, "title": "American Shoeshine", "original_title": "American Shoeshine", "slug_title": "american-shoeshine", "date": "1976-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

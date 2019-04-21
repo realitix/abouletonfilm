@@ -1,0 +1,1 @@
+{"tmdb_id": 382818, "title": "to be a star", "original_title": "to be a star", "slug_title": "to-be-a-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

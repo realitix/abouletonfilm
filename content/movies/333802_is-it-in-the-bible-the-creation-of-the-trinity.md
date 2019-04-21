@@ -1,0 +1,1 @@
+{"tmdb_id": 333802, "title": "Is It In the Bible? The Creation of the Trinity", "original_title": "Is It In the Bible? The Creation of the Trinity", "slug_title": "is-it-in-the-bible-the-creation-of-the-trinity", "date": "2015-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

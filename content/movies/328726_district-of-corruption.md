@@ -1,0 +1,1 @@
+{"tmdb_id": 328726, "title": "District of Corruption", "original_title": "District of Corruption", "slug_title": "district-of-corruption", "date": "2012-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyHXao389WiVMQ6oifg01PMNq3b.jpg", "actors": [], "comments": [], "recommandations_id": []}

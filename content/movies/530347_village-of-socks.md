@@ -1,0 +1,1 @@
+{"tmdb_id": 530347, "title": "Village of Socks", "original_title": "Satul sosetelor", "slug_title": "village-of-socks", "date": "2007-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

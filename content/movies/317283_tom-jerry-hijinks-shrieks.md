@@ -1,0 +1,1 @@
+{"tmdb_id": 317283, "title": "Tom & Jerry  - Hijinks & Shrieks", "original_title": "Tom & Jerry  - Hijinks & Shrieks", "slug_title": "tom-jerry-hijinks-shrieks", "date": "", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zapGTNk7GElD6PIS4MSRUWwMHDE.jpg", "actors": [], "comments": [], "recommandations_id": []}

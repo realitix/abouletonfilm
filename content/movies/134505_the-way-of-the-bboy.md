@@ -1,0 +1,1 @@
+{"tmdb_id": 134505, "title": "The Way of the Bboy", "original_title": "The Way of the Bboy", "slug_title": "the-way-of-the-bboy", "date": "2008-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jGf0lgKJFcXRZrSK1RWGf5olXHt.jpg", "actors": [], "comments": [], "recommandations_id": []}

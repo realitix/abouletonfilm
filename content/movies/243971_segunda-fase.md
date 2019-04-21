@@ -1,0 +1,1 @@
+{"tmdb_id": 243971, "title": "Segunda Fase", "original_title": "Segunda Fase", "slug_title": "segunda-fase", "date": "2012-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fran Gil-Ortega ()", "Andrea Gomez ()"], "comments": [], "recommandations_id": []}

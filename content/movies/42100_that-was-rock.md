@@ -1,0 +1,1 @@
+{"tmdb_id": 42100, "title": "That Was Rock", "original_title": "That Was Rock", "slug_title": "that-was-rock", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chuck Berry (Himself - Host)"], "comments": [], "recommandations_id": []}

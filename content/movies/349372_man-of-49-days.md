@@ -1,0 +1,1 @@
+{"tmdb_id": 349372, "title": "Man of 49 Days", "original_title": "49\uc77c\uc758 \ub0a8\uc790", "slug_title": "man-of-49-days", "date": "1994-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

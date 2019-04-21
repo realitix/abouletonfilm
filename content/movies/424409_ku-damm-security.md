@@ -1,0 +1,1 @@
+{"tmdb_id": 424409, "title": "Ku'damm Security", "original_title": "Ku'damm Security", "slug_title": "ku-damm-security", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Mentrup (Mario)"], "comments": [], "recommandations_id": []}

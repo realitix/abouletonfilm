@@ -1,0 +1,1 @@
+{"tmdb_id": 391374, "title": "Refused: [2012] Hellfest", "original_title": "Refused: [2012] Hellfest", "slug_title": "refused-2012-hellfest", "date": "2012-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSmWyrEKA7LPoSpzZALIrltoANk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314399, "title": "Dragon Blade: the Beginning", "original_title": "Dragon Blade: the Beginning", "slug_title": "dragon-blade-the-beginning", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

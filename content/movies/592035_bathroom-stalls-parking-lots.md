@@ -1,0 +1,1 @@
+{"tmdb_id": 592035, "title": "Bathroom Stalls & Parking Lots", "original_title": "Bathroom Stalls & Parking Lots", "slug_title": "bathroom-stalls-parking-lots", "date": "2019-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9EDUc60YUMf0PfkxbtkQMxuMaEs.jpg", "actors": [], "comments": [], "recommandations_id": []}

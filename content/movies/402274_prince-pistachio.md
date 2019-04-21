@@ -1,0 +1,1 @@
+{"tmdb_id": 402274, "title": "Prince Pistachio", "original_title": "Prince Pistachio", "slug_title": "prince-pistachio", "date": "1921-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Boland (Prince Pistachio)", "Ethel Broadhurst ()", "Harold Adkins ()", "Dagmar Dahlgren ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385482, "title": "I Love My Work", "original_title": "I Love My Work", "slug_title": "i-love-my-work", "date": "1994-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XaIY9jx12S9tpWEhMmDS3W8nR6.jpg", "actors": [], "comments": [], "recommandations_id": []}

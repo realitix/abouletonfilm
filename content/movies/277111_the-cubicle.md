@@ -1,0 +1,1 @@
+{"tmdb_id": 277111, "title": "The Cubicle", "original_title": "The Cubicle", "slug_title": "the-cubicle", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

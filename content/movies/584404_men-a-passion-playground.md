@@ -1,0 +1,1 @@
+{"tmdb_id": 584404, "title": "Men: A Passion Playground", "original_title": "Men: A Passion Playground", "slug_title": "men-a-passion-playground", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gail Thackray (Poet (as Gail Harris))"], "comments": [], "recommandations_id": []}

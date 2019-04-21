@@ -1,0 +1,1 @@
+{"tmdb_id": 363575, "title": "Vip Kalong vs Zone Kalom", "original_title": "Vip Kalong vs Zone Kalom", "slug_title": "vip-kalong-vs-zone-kalom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

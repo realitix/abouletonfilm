@@ -1,0 +1,1 @@
+{"tmdb_id": 140317, "title": "Tatry myst\u00e9rium", "original_title": "Tatry myst\u00e9rium", "slug_title": "tatry-mysterium", "date": "2003-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z3x4rCujb7EUj52XdVKjBHwYC3o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 316684, "title": "Famous Authors: John Steinbeck", "original_title": "Famous Authors: John Steinbeck", "slug_title": "famous-authors-john-steinbeck", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

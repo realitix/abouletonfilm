@@ -1,0 +1,1 @@
+{"tmdb_id": 593585, "title": "Lazy River", "original_title": "Lazy River", "slug_title": "lazy-river", "date": "1944-04-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Mills Brothers ()"], "comments": [], "recommandations_id": []}

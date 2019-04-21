@@ -1,0 +1,1 @@
+{"tmdb_id": 311280, "title": "From Mambo to Hip Hop", "original_title": "From Mambo to Hip Hop", "slug_title": "from-mambo-to-hip-hop", "date": "2007-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OGYUjKOTfihSMR1TNh6qRYxLH3.jpg", "actors": [], "comments": [], "recommandations_id": []}

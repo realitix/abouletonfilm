@@ -1,0 +1,1 @@
+{"tmdb_id": 217453, "title": "Clarisse", "original_title": "Clarisse", "slug_title": "clarisse", "date": "2013-08-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Dw3K4PSfOZes7ucwuaezXWyFWL.jpg", "actors": ["Francisca Figueiredo (Clarisse)"], "comments": [], "recommandations_id": []}

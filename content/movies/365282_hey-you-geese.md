@@ -1,0 +1,1 @@
+{"tmdb_id": 365282, "title": "Hey, You Geese", "original_title": "Oy, vy, gusi...", "slug_title": "hey-you-geese", "date": "1994-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYPWzOQL7lX7y0spY8TC76bKrHY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274044, "title": "The Entrepreneur", "original_title": "The Entrepreneur", "slug_title": "the-entrepreneur", "date": "2013-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

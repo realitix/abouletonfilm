@@ -1,0 +1,1 @@
+{"tmdb_id": 579658, "title": "The Liberal Wife 2", "original_title": "\uc790\uc720\ubd80\uc778 2", "slug_title": "the-liberal-wife-2", "date": "1986-03-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Choi Moo-ryong ()", "Lee Su-jin ()", "Kim Won-seop ()"], "comments": [], "recommandations_id": []}

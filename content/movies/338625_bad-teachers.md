@@ -1,0 +1,1 @@
+{"tmdb_id": 338625, "title": "Bad Teachers", "original_title": "Bad Teachers", "slug_title": "bad-teachers", "date": "2014-05-12", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4WZvR277w3InLGsyeoPDbrUVS3.jpg", "actors": [], "comments": [], "recommandations_id": []}

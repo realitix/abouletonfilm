@@ -1,0 +1,1 @@
+{"tmdb_id": 515852, "title": "Hotel Straussberg", "original_title": "Hotel Straussberg", "slug_title": "hotel-straussberg", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

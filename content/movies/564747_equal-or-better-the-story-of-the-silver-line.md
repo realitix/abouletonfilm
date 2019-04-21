@@ -1,0 +1,1 @@
+{"tmdb_id": 564747, "title": "Equal or Better: The Story of the Silver Line", "original_title": "Equal or Better: The Story of the Silver Line", "slug_title": "equal-or-better-the-story-of-the-silver-line", "date": "2012-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

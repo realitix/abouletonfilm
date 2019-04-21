@@ -1,0 +1,1 @@
+{"tmdb_id": 300726, "title": "Apoorva Samsara", "original_title": "Apoorva Samsara", "slug_title": "apoorva-samsara", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

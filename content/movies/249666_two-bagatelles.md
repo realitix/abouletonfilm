@@ -1,0 +1,1 @@
+{"tmdb_id": 249666, "title": "Two Bagatelles", "original_title": "Two Bagatelles", "slug_title": "two-bagatelles", "date": "1953-01-01", "genre": "Com\u00e9die / Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fD4PU8Z2deAEwNlTg1KoOlWjVLT.jpg", "actors": ["Grant Munro ()"], "comments": [], "recommandations_id": []}

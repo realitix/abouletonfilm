@@ -1,0 +1,1 @@
+{"tmdb_id": 405833, "title": "Truffaut au pr\u00e9sent", "original_title": "Truffaut au pr\u00e9sent", "slug_title": "truffaut-au-present", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hyKvoineMlJ7uptVPMX824R3E6m.jpg", "actors": [], "comments": [], "recommandations_id": []}

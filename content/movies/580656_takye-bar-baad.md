@@ -1,0 +1,1 @@
+{"tmdb_id": 580656, "title": "Takye bar baad", "original_title": "Takye bar baad", "slug_title": "takye-bar-baad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

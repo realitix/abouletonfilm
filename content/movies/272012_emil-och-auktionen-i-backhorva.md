@@ -1,0 +1,1 @@
+{"tmdb_id": 272012, "title": "Emil och auktionen i Backhorva", "original_title": "Emil och auktionen i Backhorva", "slug_title": "emil-och-auktionen-i-backhorva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3XKzfyGMkeecf3dn0oO7oTpALZ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

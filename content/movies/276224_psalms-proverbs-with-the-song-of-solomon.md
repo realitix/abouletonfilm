@@ -1,0 +1,1 @@
+{"tmdb_id": 276224, "title": "Psalms & Proverbs with the Song of Solomon", "original_title": "Psalms & Proverbs with the Song of Solomon", "slug_title": "psalms-proverbs-with-the-song-of-solomon", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

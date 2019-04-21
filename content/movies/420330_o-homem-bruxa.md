@@ -1,0 +1,1 @@
+{"tmdb_id": 420330, "title": "O Homem Bruxa", "original_title": "O Homem Bruxa", "slug_title": "o-homem-bruxa", "date": "2016-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3f3MSxX3oWSN5jKPStZVF54LfF0.jpg", "actors": [], "comments": [], "recommandations_id": []}

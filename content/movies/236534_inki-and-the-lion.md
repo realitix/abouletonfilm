@@ -1,0 +1,1 @@
+{"tmdb_id": 236534, "title": "Inki and the Lion", "original_title": "Inki and the Lion", "slug_title": "inki-and-the-lion", "date": "1941-07-18", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bocV6LsaROLnD0SAuueJKbtUDlZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 490525, "title": "Up the River", "original_title": "Up the River", "slug_title": "up-the-river", "date": "1938-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zA58QBpuklyqQLy8SaeFvyKIsNI.jpg", "actors": [], "comments": [], "recommandations_id": []}

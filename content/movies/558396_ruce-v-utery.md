@@ -1,0 +1,1 @@
+{"tmdb_id": 558396, "title": "Ruce v \u00fater\u00fd", "original_title": "Ruce v \u00fater\u00fd", "slug_title": "ruce-v-utery", "date": "1935-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yscLicYCQyTkdNJxkZtuAHs8FiR.jpg", "actors": [], "comments": [], "recommandations_id": []}

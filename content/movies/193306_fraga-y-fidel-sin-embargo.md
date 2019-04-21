@@ -1,0 +1,1 @@
+{"tmdb_id": 193306, "title": "Fraga y Fidel, sin embargo", "original_title": "Fraga y Fidel, sin embargo", "slug_title": "fraga-y-fidel-sin-embargo", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1i4E3C9xgoUs6qTxGmgNoigBx6y.jpg", "actors": [], "comments": [], "recommandations_id": []}

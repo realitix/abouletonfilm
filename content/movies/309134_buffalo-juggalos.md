@@ -1,0 +1,1 @@
+{"tmdb_id": 309134, "title": "Buffalo Juggalos", "original_title": "Buffalo Juggalos", "slug_title": "buffalo-juggalos", "date": "2014-05-09", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4o3UcVcbgoZCdQYaMMWxcaQyf5x.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562356, "title": "So You Want to Be an Actor", "original_title": "So You Want to Be an Actor", "slug_title": "so-you-want-to-be-an-actor", "date": "1949-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

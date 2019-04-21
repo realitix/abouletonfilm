@@ -1,0 +1,1 @@
+{"tmdb_id": 411321, "title": "Spotkania w mroku", "original_title": "Spotkania w mroku", "slug_title": "spotkania-w-mroku", "date": "1960-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96DVQWvWVqinGn0tZKXxliitpZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559931, "title": "Legend of the Red Dragon", "original_title": "Legend of the Red Dragon", "slug_title": "legend-of-the-red-dragon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

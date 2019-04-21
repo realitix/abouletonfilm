@@ -1,0 +1,1 @@
+{"tmdb_id": 564702, "title": "Hercules", "original_title": "Hercules", "slug_title": "hercules", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

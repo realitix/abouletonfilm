@@ -1,0 +1,1 @@
+{"tmdb_id": 582768, "title": "Retorne Quando se Lembrar de N\u00e3o Esquecer", "original_title": "Retorne Quando se Lembrar de N\u00e3o Esquecer", "slug_title": "retorne-quando-se-lembrar-de-nao-esquecer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

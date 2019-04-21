@@ -1,0 +1,1 @@
+{"tmdb_id": 492465, "title": "Zoom: PC World", "original_title": "\uc90c \ud53c\uc2dc \uc6d4\ub4dc", "slug_title": "zoom-pc-world", "date": "2013-01-01", "genre": "Com\u00e9die / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wT84HiS1UbaRCkDmKEWdU0TPeLo.jpg", "actors": [], "comments": [], "recommandations_id": []}

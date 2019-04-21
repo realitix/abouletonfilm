@@ -1,0 +1,1 @@
+{"tmdb_id": 532717, "title": "How Disease Travels", "original_title": "How Disease Travels", "slug_title": "how-disease-travels", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

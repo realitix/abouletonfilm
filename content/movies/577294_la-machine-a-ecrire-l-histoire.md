@@ -1,0 +1,1 @@
+{"tmdb_id": 577294, "title": "La machine \u00e0 \u00e9crire l'histoire", "original_title": "La machine \u00e0 \u00e9crire l'histoire", "slug_title": "la-machine-a-ecrire-l-histoire", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

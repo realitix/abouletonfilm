@@ -1,0 +1,1 @@
+{"tmdb_id": 459412, "title": "The Fix It Boys", "original_title": "The Fix It Boys", "slug_title": "the-fix-it-boys", "date": "2017-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhBNmDmW7CgTrqFc455vJiH0ajn.jpg", "actors": [], "comments": [], "recommandations_id": []}

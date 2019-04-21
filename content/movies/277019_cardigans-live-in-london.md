@@ -1,0 +1,1 @@
+{"tmdb_id": 277019, "title": "Cardigans: Live in London", "original_title": "Cardigans: Live in London", "slug_title": "cardigans-live-in-london", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

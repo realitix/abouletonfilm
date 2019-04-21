@@ -1,0 +1,1 @@
+{"tmdb_id": 465838, "title": "Rise of the Living Corpse", "original_title": "Rise of the Living Corpse", "slug_title": "rise-of-the-living-corpse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

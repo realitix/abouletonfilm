@@ -1,0 +1,1 @@
+{"tmdb_id": 472187, "title": "Arsonists", "original_title": "Podzhigateli", "slug_title": "arsonists", "date": "1988-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zzUQZjJFSpOEgXlv9C2rFJ1hshz.jpg", "actors": [], "comments": [], "recommandations_id": []}

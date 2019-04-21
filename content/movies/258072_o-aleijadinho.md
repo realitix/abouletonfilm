@@ -1,0 +1,1 @@
+{"tmdb_id": 258072, "title": "O Aleijadinho", "original_title": "O Aleijadinho", "slug_title": "o-aleijadinho", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdTLGW1IZ24mwda4XRhRcUx2sQ8.jpg", "actors": ["Ferreira Gullar (Narrator)"], "comments": [], "recommandations_id": []}

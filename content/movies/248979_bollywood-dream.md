@@ -1,0 +1,1 @@
+{"tmdb_id": 248979, "title": "Bollywood Dream", "original_title": "Bollywood Dream", "slug_title": "bollywood-dream", "date": "2011-04-29", "genre": "Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucuBx7XqDeKCAEOHBlTe5Jmijoa.jpg", "actors": [], "comments": [], "recommandations_id": []}

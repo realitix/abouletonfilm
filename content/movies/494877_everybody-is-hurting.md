@@ -1,0 +1,1 @@
+{"tmdb_id": 494877, "title": "Everybody Is Hurting", "original_title": "Everybody Is Hurting", "slug_title": "everybody-is-hurting", "date": "2006-07-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

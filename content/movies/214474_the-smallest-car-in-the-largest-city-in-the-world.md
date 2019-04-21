@@ -1,0 +1,1 @@
+{"tmdb_id": 214474, "title": "The Smallest Car in the Largest City in the World", "original_title": "The Smallest Car in the Largest City in the World", "slug_title": "the-smallest-car-in-the-largest-city-in-the-world", "date": "1913-08-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

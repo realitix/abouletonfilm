@@ -1,0 +1,1 @@
+{"tmdb_id": 464040, "title": "Biden vs. Ryan: Vice Presidential Debate", "original_title": "Biden vs. Ryan: Vice Presidential Debate", "slug_title": "biden-vs-ryan-vice-presidential-debate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

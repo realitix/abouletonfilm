@@ -1,0 +1,1 @@
+{"tmdb_id": 163206, "title": "Director's Cut", "original_title": "Director's Cut", "slug_title": "director-s-cut", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMbuBWdR9HNO0VFe6yHtC6BHRh1.jpg", "actors": [], "comments": [], "recommandations_id": []}

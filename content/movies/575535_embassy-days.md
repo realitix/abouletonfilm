@@ -1,0 +1,1 @@
+{"tmdb_id": 575535, "title": "Embassy Days", "original_title": "Embassy Days", "slug_title": "embassy-days", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

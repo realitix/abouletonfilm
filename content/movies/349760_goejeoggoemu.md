@@ -1,0 +1,1 @@
+{"tmdb_id": 349760, "title": "\uad34\uc801\uad34\ubb34", "original_title": "\uad34\uc801\uad34\ubb34", "slug_title": "goejeoggoemu", "date": "1982-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

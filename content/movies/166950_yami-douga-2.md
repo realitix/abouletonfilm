@@ -1,0 +1,1 @@
+{"tmdb_id": 166950, "title": "Yami Douga 2", "original_title": "Yami Douga 2", "slug_title": "yami-douga-2", "date": "2012-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKuDyuf0VFecU8HjZS3x5nzDM3v.jpg", "actors": [], "comments": [], "recommandations_id": []}

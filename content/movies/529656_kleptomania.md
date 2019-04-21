@@ -1,0 +1,1 @@
+{"tmdb_id": 529656, "title": "Kleptomania", "original_title": "Kleptomania", "slug_title": "kleptomania", "date": "1995-01-07", "genre": "Action / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amy Irving (Diana Allen)", "Patsy Kensit (Julie)"], "comments": [], "recommandations_id": []}

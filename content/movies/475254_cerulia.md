@@ -1,0 +1,1 @@
+{"tmdb_id": 475254, "title": "Cerulia", "original_title": "Cerulia", "slug_title": "cerulia", "date": "2017-09-21", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Z6TwGlflp1z7nywMcuwD8Ilxh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

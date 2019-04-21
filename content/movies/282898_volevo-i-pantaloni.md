@@ -1,0 +1,1 @@
+{"tmdb_id": 282898, "title": "Volevo i pantaloni", "original_title": "Volevo i pantaloni", "slug_title": "volevo-i-pantaloni", "date": "1990-03-20", "genre": "", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryUQWsnyPrp4SXxBFlUANxMUne5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 403387, "title": "Ladies in Operation", "original_title": "Ladies in Operation", "slug_title": "ladies-in-operation", "date": "1993-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

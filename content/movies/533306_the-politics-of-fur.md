@@ -1,0 +1,1 @@
+{"tmdb_id": 533306, "title": "The politics of fur", "original_title": "The politics of fur", "slug_title": "the-politics-of-fur", "date": "2002-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

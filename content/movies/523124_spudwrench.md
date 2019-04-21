@@ -1,0 +1,1 @@
+{"tmdb_id": 523124, "title": "Spudwrench", "original_title": "Spudwrench", "slug_title": "spudwrench", "date": "1998-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u3QhO6dB1ixOmOsaX0chG8kuJHH.jpg", "actors": [], "comments": [], "recommandations_id": []}

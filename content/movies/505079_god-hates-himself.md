@@ -1,0 +1,1 @@
+{"tmdb_id": 505079, "title": "God Hates Himself", "original_title": "God Hates Himself", "slug_title": "god-hates-himself", "date": "2012-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420837, "title": "Bernado De Pace", "original_title": "Bernado De Pace", "slug_title": "bernado-de-pace", "date": "1927-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernardo De Pace ()"], "comments": [], "recommandations_id": []}

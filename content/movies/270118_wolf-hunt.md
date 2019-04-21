@@ -1,0 +1,1 @@
+{"tmdb_id": 270118, "title": "Wolf Hunt", "original_title": "Wolf Hunt", "slug_title": "wolf-hunt", "date": "1908-05-15", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Abernathy ()"], "comments": [], "recommandations_id": []}

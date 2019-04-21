@@ -1,0 +1,1 @@
+{"tmdb_id": 12730, "title": "GSG 9 - Die Spezialeinheit", "original_title": "GSG 9 - Die Spezialeinheit", "slug_title": "gsg-9-die-spezialeinheit", "date": "2002-01-09", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32pMx1QvhBVYgPRbkEvAi7FnVqb.jpg", "actors": [], "comments": [], "recommandations_id": []}

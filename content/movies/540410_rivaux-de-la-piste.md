@@ -1,0 +1,1 @@
+{"tmdb_id": 540410, "title": "Rivaux de la piste", "original_title": "Rivaux de la piste", "slug_title": "rivaux-de-la-piste", "date": "1933-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5n1BOBRC1KL3gRF9bYSYDe01HKh.jpg", "actors": [], "comments": [], "recommandations_id": []}

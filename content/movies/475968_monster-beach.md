@@ -1,0 +1,1 @@
+{"tmdb_id": 475968, "title": "Monster Beach", "original_title": "Monster Beach", "slug_title": "monster-beach", "date": "2014-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjplUQLLFMzpPngLVBRT4GKa6jE.jpg", "actors": [], "comments": [], "recommandations_id": []}

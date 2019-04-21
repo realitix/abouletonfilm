@@ -1,0 +1,1 @@
+{"tmdb_id": 293977, "title": "Michael Snow Up Close", "original_title": "Michael Snow Up Close", "slug_title": "michael-snow-up-close", "date": "1996-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

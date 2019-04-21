@@ -1,0 +1,1 @@
+{"tmdb_id": 510174, "title": "Music Moves Our Souls", "original_title": "Music Moves Our Souls", "slug_title": "music-moves-our-souls", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9crkg3dNZc8N1BSahff5UygQAgM.jpg", "actors": [], "comments": [], "recommandations_id": []}

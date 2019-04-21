@@ -1,0 +1,1 @@
+{"tmdb_id": 254838, "title": "Pusharatas: A Biloxi-Croatian Tradition", "original_title": "Pusharatas: A Biloxi-Croatian Tradition", "slug_title": "pusharatas-a-biloxi-croatian-tradition", "date": "2013-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

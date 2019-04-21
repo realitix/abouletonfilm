@@ -1,0 +1,1 @@
+{"tmdb_id": 284710, "title": "W.E.T - One Live in Stockholm", "original_title": "W.E.T - One Live in Stockholm", "slug_title": "w-e-t-one-live-in-stockholm", "date": "2014-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TZqTIbMjbDoE1Gc7kG69qxPCsT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481645, "title": "Khusel Shunal", "original_title": "Khusel Shunal", "slug_title": "khusel-shunal", "date": "2010-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6t5Fy3nuRu26amPCuvwNXG6hfGo.jpg", "actors": [], "comments": [], "recommandations_id": []}

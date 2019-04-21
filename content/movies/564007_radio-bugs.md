@@ -1,0 +1,1 @@
+{"tmdb_id": 564007, "title": "Radio Bugs", "original_title": "Radio Bugs", "slug_title": "radio-bugs", "date": "1944-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

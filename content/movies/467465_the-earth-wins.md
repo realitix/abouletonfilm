@@ -1,0 +1,1 @@
+{"tmdb_id": 467465, "title": "The Earth Wins", "original_title": "The Earth Wins", "slug_title": "the-earth-wins", "date": "2013-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

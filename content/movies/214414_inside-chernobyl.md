@@ -1,0 +1,1 @@
+{"tmdb_id": 214414, "title": "Inside Chernobyl", "original_title": "Inside Chernobyl", "slug_title": "inside-chernobyl", "date": "2012-04-26", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3zu5va3OU7fNXRrLDh5CFZrcM57.jpg", "actors": [], "comments": [], "recommandations_id": []}

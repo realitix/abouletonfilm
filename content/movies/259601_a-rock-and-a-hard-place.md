@@ -1,0 +1,1 @@
+{"tmdb_id": 259601, "title": "A Rock and a Hard Place", "original_title": "A Rock and a Hard Place", "slug_title": "a-rock-and-a-hard-place", "date": "2010-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

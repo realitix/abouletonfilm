@@ -1,0 +1,1 @@
+{"tmdb_id": 297240, "title": "Meztelen diplomata", "original_title": "Meztelen diplomata", "slug_title": "meztelen-diplomata", "date": "1963-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHFjwK2ka5714pwBAJFHl6JiVza.jpg", "actors": [], "comments": [], "recommandations_id": []}

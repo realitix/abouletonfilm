@@ -1,0 +1,1 @@
+{"tmdb_id": 399795, "title": "Sombra di kol\u00f3", "original_title": "Sombra di kol\u00f3", "slug_title": "sombra-di-kolo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

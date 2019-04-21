@@ -1,0 +1,1 @@
+{"tmdb_id": 204674, "title": "The Animal Movie", "original_title": "The Animal Movie", "slug_title": "the-animal-movie", "date": "1966-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zI8BPZki65k6Ipvfa1493UnlTbH.jpg", "actors": [], "comments": [], "recommandations_id": []}

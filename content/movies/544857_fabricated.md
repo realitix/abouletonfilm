@@ -1,0 +1,1 @@
+{"tmdb_id": 544857, "title": "Fabricated", "original_title": "Fabricated", "slug_title": "fabricated", "date": "2016-10-10", "genre": "Animation / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBgF6y8qiHVW6qn6VoFLpx5bLM8.jpg", "actors": [], "comments": [], "recommandations_id": []}

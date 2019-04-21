@@ -1,0 +1,1 @@
+{"tmdb_id": 593920, "title": "Looking at Alice", "original_title": "Looking at Alice", "slug_title": "looking-at-alice", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

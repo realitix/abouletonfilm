@@ -1,0 +1,1 @@
+{"tmdb_id": 460384, "title": "Directorul nostru", "original_title": "Directorul nostru", "slug_title": "directorul-nostru", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNxvO2emCooEM3OqTCPVdEKieRf.jpg", "actors": [], "comments": [], "recommandations_id": []}

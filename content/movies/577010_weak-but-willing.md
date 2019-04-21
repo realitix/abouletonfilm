@@ -1,0 +1,1 @@
+{"tmdb_id": 577010, "title": "Weak, But Willing", "original_title": "Weak, But Willing", "slug_title": "weak-but-willing", "date": "1926-01-03", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Hiers ()", "Duane Thompson ()", "Jack Duffy ()", "William Irving ()"], "comments": [], "recommandations_id": []}

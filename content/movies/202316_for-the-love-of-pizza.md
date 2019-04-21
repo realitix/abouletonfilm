@@ -1,0 +1,1 @@
+{"tmdb_id": 202316, "title": "For the Love of Pizza", "original_title": "For the Love of Pizza", "slug_title": "for-the-love-of-pizza", "date": "1972-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hbNVVzFpuDChzVtHPv6nHfCH13J.jpg", "actors": [], "comments": [], "recommandations_id": []}

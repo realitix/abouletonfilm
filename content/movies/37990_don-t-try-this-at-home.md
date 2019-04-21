@@ -1,0 +1,1 @@
+{"tmdb_id": 37990, "title": "Don't Try This at Home!", "original_title": "Don't Try This at Home!", "slug_title": "don-t-try-this-at-home", "date": "1990-11-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymKpFQ37NffgO6xcqTh6qcUrldO.jpg", "actors": [], "comments": [], "recommandations_id": []}

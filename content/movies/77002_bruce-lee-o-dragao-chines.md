@@ -1,0 +1,1 @@
+{"tmdb_id": 77002, "title": "Bruce Lee - O Drag\u00e3o Chines", "original_title": "Bruce Lee - O Drag\u00e3o Chines", "slug_title": "bruce-lee-o-dragao-chines", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nk7QBiFl6nlPIBnquGhE1EQqcJ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 245110, "title": "Siberian Lesson", "original_title": "Syberyjska lekcja", "slug_title": "siberian-lesson", "date": "1998-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYfh2NgrAyXo4IxNQ6MgWRFQ2hv.jpg", "actors": [], "comments": [], "recommandations_id": []}

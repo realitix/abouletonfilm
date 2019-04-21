@@ -1,0 +1,1 @@
+{"tmdb_id": 360762, "title": "The Bathroom", "original_title": "The Bathroom", "slug_title": "the-bathroom", "date": "1972-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4pC2ip0Gp9qLulyKQKzJx8JHyIc.jpg", "actors": [], "comments": [], "recommandations_id": []}

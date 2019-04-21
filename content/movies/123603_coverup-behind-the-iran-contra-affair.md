@@ -1,0 +1,1 @@
+{"tmdb_id": 123603, "title": "Coverup: Behind the Iran Contra Affair", "original_title": "Coverup: Behind the Iran Contra Affair", "slug_title": "coverup-behind-the-iran-contra-affair", "date": "1988-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

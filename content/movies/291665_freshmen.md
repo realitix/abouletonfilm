@@ -1,0 +1,1 @@
+{"tmdb_id": 291665, "title": "Freshmen", "original_title": "Freshmen", "slug_title": "freshmen", "date": "1999-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540547, "title": "La rel\u00e8ve", "original_title": "La rel\u00e8ve", "slug_title": "la-releve", "date": "1932-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

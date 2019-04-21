@@ -1,0 +1,1 @@
+{"tmdb_id": 483230, "title": "South Bureau Homicide", "original_title": "South Bureau Homicide", "slug_title": "south-bureau-homicide", "date": "2016-01-01", "genre": "Crime / Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mT5L0mDAzJvVXaumumonfkURneZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

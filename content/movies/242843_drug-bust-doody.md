@@ -1,0 +1,1 @@
+{"tmdb_id": 242843, "title": "Drug Bust Doody", "original_title": "Drug Bust Doody", "slug_title": "drug-bust-doody", "date": "2013-05-19", "genre": "Animation / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z10aObnJ4QDGqO3aT6xLMgyCiiz.jpg", "actors": [], "comments": [], "recommandations_id": []}

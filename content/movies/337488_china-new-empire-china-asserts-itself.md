@@ -1,0 +1,1 @@
+{"tmdb_id": 337488, "title": "China New Empire: China Asserts Itself", "original_title": "China New Empire: China Asserts Itself", "slug_title": "china-new-empire-china-asserts-itself", "date": "2013-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

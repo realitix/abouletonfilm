@@ -1,0 +1,1 @@
+{"tmdb_id": 157204, "title": "Le ferie di Licu", "original_title": "Le ferie di Licu", "slug_title": "le-ferie-di-licu", "date": "2007-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mK1VzhmbXJjZdkOx3NUsHLzwyuV.jpg", "actors": [], "comments": [], "recommandations_id": []}

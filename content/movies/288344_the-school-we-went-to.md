@@ -1,0 +1,1 @@
+{"tmdb_id": 288344, "title": "The School We Went To", "original_title": "Hayate Poshti Madreseye Adl-e-Afagh", "slug_title": "the-school-we-went-to", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ali Nassirian ()", "Ezzatolah Entezami ()", "Amrollah Saberi ()"], "comments": [], "recommandations_id": []}

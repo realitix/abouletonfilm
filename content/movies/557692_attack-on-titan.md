@@ -1,0 +1,1 @@
+{"tmdb_id": 557692, "title": "Attack on Titan", "original_title": "Attack on Titan", "slug_title": "attack-on-titan", "date": "", "genre": "Action / Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

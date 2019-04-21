@@ -1,0 +1,1 @@
+{"tmdb_id": 399368, "title": "The Animal Communicator", "original_title": "The Animal Communicator", "slug_title": "the-animal-communicator", "date": "2015-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Breytenbach (Herself)"], "comments": [], "recommandations_id": []}

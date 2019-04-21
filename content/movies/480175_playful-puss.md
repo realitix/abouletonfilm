@@ -1,0 +1,1 @@
+{"tmdb_id": 480175, "title": "Playful Puss", "original_title": "Playful Puss", "slug_title": "playful-puss", "date": "1953-02-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Morrison (Little Roquefort (voice))"], "comments": [], "recommandations_id": []}

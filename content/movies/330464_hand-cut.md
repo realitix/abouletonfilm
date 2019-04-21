@@ -1,0 +1,1 @@
+{"tmdb_id": 330464, "title": "Hand Cut", "original_title": "Hand Cut", "slug_title": "hand-cut", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347919, "title": "The Spider Will Kill You", "original_title": "The Spider Will Kill You", "slug_title": "the-spider-will-kill-you", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9mqU53KVFV9zrEs8YYIF9UeMPc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556679, "title": "Rama, the Cannibal Girl", "original_title": "Ca\u00efn, aventures des mers exotiques", "slug_title": "rama-the-cannibal-girl", "date": "1930-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

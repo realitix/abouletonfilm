@@ -1,0 +1,1 @@
+{"tmdb_id": 588564, "title": "A Greyhound of a Girl", "original_title": "A Greyhound of a Girl", "slug_title": "a-greyhound-of-a-girl", "date": "", "genre": "Animation / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RGo5GulverPUobET7UF7M33meX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346175, "title": "Azarkant", "original_title": "Azarkant", "slug_title": "azarkant", "date": "2013-11-01", "genre": "Horreur / Animation / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JfSQnvLqqWX8CHISQPF2JRgv67.jpg", "actors": [], "comments": [], "recommandations_id": []}

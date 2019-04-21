@@ -1,0 +1,1 @@
+{"tmdb_id": 349845, "title": "\uc790\uc720\uc5ec\uc790", "original_title": "\uc790\uc720\uc5ec\uc790", "slug_title": "jayuyeoja", "date": "1990-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309691, "title": "The Chick Flick", "original_title": "The Chick Flick", "slug_title": "the-chick-flick", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

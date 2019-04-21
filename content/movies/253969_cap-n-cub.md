@@ -1,0 +1,1 @@
+{"tmdb_id": 253969, "title": "Cap'n Cub", "original_title": "Cap'n Cub", "slug_title": "cap-n-cub", "date": "1945-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/krf76dOlX18Ksz9CPtabm4ezEQY.jpg", "actors": [], "comments": [], "recommandations_id": []}

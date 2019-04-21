@@ -1,0 +1,1 @@
+{"tmdb_id": 323514, "title": "Freedom Isn't Free: The American Civil War", "original_title": "Freedom Isn't Free: The American Civil War", "slug_title": "freedom-isn-t-free-the-american-civil-war", "date": "2014-04-30", "genre": "Guerre / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

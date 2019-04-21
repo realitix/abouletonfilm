@@ -1,0 +1,1 @@
+{"tmdb_id": 364519, "title": "Bela Vista", "original_title": "Bela Vista", "slug_title": "bela-vista", "date": "2012-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wi6ieQfMDHHqw1ETTObhV8YIQZk.jpg", "actors": [], "comments": [], "recommandations_id": []}

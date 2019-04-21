@@ -1,0 +1,1 @@
+{"tmdb_id": 570397, "title": "La Subienda del Magdalena", "original_title": "La Subienda del Magdalena", "slug_title": "la-subienda-del-magdalena", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

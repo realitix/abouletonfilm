@@ -1,0 +1,1 @@
+{"tmdb_id": 257629, "title": "Puss Bucket", "original_title": "Puss Bucket", "slug_title": "puss-bucket", "date": "1991-03-07", "genre": "Horreur / Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ff0m3G3x5lgf6IypWax7GPegKpO.jpg", "actors": [], "comments": [], "recommandations_id": []}

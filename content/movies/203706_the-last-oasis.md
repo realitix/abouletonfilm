@@ -1,0 +1,1 @@
+{"tmdb_id": 203706, "title": "The Last Oasis", "original_title": "Poslednja oaza", "slug_title": "the-last-oasis", "date": "1983-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mqwuftaz33wu8cWZqoBP8K71C1.jpg", "actors": ["Zoran Radmilovi\u0107 (Narrator)"], "comments": [], "recommandations_id": []}

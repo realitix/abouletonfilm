@@ -1,0 +1,1 @@
+{"tmdb_id": 577333, "title": "Backstage Blues", "original_title": "Backstage Blues", "slug_title": "backstage-blues", "date": "1943-01-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lynn Albritton ()", "Lou Ellen ()", "The Harlem Cuties ()"], "comments": [], "recommandations_id": []}

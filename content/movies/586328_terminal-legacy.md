@@ -1,0 +1,1 @@
+{"tmdb_id": 586328, "title": "Terminal Legacy", "original_title": "Terminal Legacy", "slug_title": "terminal-legacy", "date": "2012-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413781, "title": "Alex Joseph and His Wives", "original_title": "Alex Joseph and His Wives", "slug_title": "alex-joseph-and-his-wives", "date": "1977-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0iaYJ06e7e5pTMV1UprYowfF6I.jpg", "actors": [], "comments": [], "recommandations_id": []}

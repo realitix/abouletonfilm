@@ -1,0 +1,1 @@
+{"tmdb_id": 547190, "title": "Bomb Berlin: Special", "original_title": "Bomb Berlin: Special", "slug_title": "bomb-berlin-special", "date": "2010-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYXFYlutrlM2TYWljZD1Yo7VPWt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320536, "title": "Stevie's Trek to the Holy Land: Miracle of Moses", "original_title": "Stevie's Trek to the Holy Land: Miracle of Moses", "slug_title": "stevie-s-trek-to-the-holy-land-miracle-of-moses", "date": "2014-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

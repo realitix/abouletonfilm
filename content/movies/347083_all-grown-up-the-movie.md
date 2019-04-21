@@ -1,0 +1,1 @@
+{"tmdb_id": 347083, "title": "All Grown Up - The Movie", "original_title": "All Grown Up - The Movie", "slug_title": "all-grown-up-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304426, "title": "Ambassadors of Hoops", "original_title": "Ambassadors of Hoops", "slug_title": "ambassadors-of-hoops", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

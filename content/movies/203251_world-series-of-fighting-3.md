@@ -1,0 +1,1 @@
+{"tmdb_id": 203251, "title": "World Series of Fighting 3", "original_title": "World Series of Fighting 3", "slug_title": "world-series-of-fighting-3", "date": "2013-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/975tUXbiHtFlh9HzxNFQnp7qQpW.jpg", "actors": [], "comments": [], "recommandations_id": []}

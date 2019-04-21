@@ -1,0 +1,1 @@
+{"tmdb_id": 506963, "title": "A Picture of Other People", "original_title": "A Picture of Other People", "slug_title": "a-picture-of-other-people", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7NI3LAcn1GAioW3yxggAzegOp9t.jpg", "actors": [], "comments": [], "recommandations_id": []}

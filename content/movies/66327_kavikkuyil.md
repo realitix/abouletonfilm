@@ -1,0 +1,1 @@
+{"tmdb_id": 66327, "title": "Kavikkuyil", "original_title": "Kavikkuyil", "slug_title": "kavikkuyil", "date": "1977-07-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()", "Sridevi ()", "Sivakumar ()", "Senthamarai ()", "Samikannu ()", "Fatafat Jayalakshmi ()"], "comments": [], "recommandations_id": []}

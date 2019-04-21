@@ -1,0 +1,1 @@
+{"tmdb_id": 502973, "title": "Die Temperatur des Willens", "original_title": "Die Temperatur des Willens", "slug_title": "die-temperatur-des-willens", "date": "2017-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvbrXhKjso7ojYzoN3BP8stncK6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346659, "title": "Jar City", "original_title": "Jar City", "slug_title": "jar-city", "date": "", "genre": "Myst\u00e8re / Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330665, "title": "Hassan Terro in the Resistance", "original_title": "Hassan Terro au maquis", "slug_title": "hassan-terro-in-the-resistance", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rou\u00efched ()"], "comments": [], "recommandations_id": []}

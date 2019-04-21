@@ -1,0 +1,1 @@
+{"tmdb_id": 341509, "title": "Here Comes the Dawn", "original_title": "Ak tendeba", "slug_title": "here-comes-the-dawn", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zura Begalishvili (Beqa)", "Nino Koberidze (Klavdia)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 356233, "title": "Bird-Man", "original_title": "Homem-Ave", "slug_title": "bird-man", "date": "2010-08-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AdfXk1soeF6oE6rPcGAzjsWZKjG.jpg", "actors": ["Ney Matogrosso ()", "David Cunha ()"], "comments": [], "recommandations_id": []}

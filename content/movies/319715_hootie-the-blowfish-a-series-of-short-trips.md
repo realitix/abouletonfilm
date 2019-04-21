@@ -1,0 +1,1 @@
+{"tmdb_id": 319715, "title": "Hootie & the Blowfish: A Series of Short Trips", "original_title": "Hootie & the Blowfish: A Series of Short Trips", "slug_title": "hootie-the-blowfish-a-series-of-short-trips", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

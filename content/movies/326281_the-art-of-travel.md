@@ -1,0 +1,1 @@
+{"tmdb_id": 326281, "title": "The Art of Travel", "original_title": "The Art of Travel", "slug_title": "the-art-of-travel", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qA9t87vNCBeD3HAv3bEYkUof39q.jpg", "actors": [], "comments": [], "recommandations_id": []}

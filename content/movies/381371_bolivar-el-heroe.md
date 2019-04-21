@@ -1,0 +1,1 @@
+{"tmdb_id": 381371, "title": "Bol\u00edvar, el h\u00e9roe", "original_title": "Bol\u00edvar, el h\u00e9roe", "slug_title": "bolivar-el-heroe", "date": "2003-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5W36V6OHy4jVhIwisONdS2f68B.jpg", "actors": [], "comments": [], "recommandations_id": []}

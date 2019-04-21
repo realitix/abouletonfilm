@@ -1,0 +1,1 @@
+{"tmdb_id": 558795, "title": "Tupamaros", "original_title": "Tupamaros", "slug_title": "tupamaros", "date": "1997-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xG23sIllR3qXFBE3tnUbluKUkDe.jpg", "actors": [], "comments": [], "recommandations_id": []}

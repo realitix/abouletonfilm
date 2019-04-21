@@ -1,0 +1,1 @@
+{"tmdb_id": 158998, "title": "Fancy Curves", "original_title": "Fancy Curves", "slug_title": "fancy-curves", "date": "1932-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Babe Ruth (Himself)"], "comments": [], "recommandations_id": []}

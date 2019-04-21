@@ -1,0 +1,1 @@
+{"tmdb_id": 228857, "title": "Dandupalya", "original_title": "Dandupalya", "slug_title": "dandupalya", "date": "2012-01-01", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

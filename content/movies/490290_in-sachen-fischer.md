@@ -1,0 +1,1 @@
+{"tmdb_id": 490290, "title": "In Sachen Fischer", "original_title": "In Sachen Fischer", "slug_title": "in-sachen-fischer", "date": "1973-09-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walo L\u00fc\u00f6nd (Staatsanwalt)", "Horst Mendroch (Heinrich Geiger)"], "comments": [], "recommandations_id": []}

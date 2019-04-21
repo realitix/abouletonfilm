@@ -1,0 +1,1 @@
+{"tmdb_id": 569283, "title": "Langue sacr\u00e9e, langue parl\u00e9e", "original_title": "Langue sacr\u00e9e, langue parl\u00e9e", "slug_title": "langue-sacree-langue-parlee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

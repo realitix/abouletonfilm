@@ -1,0 +1,1 @@
+{"tmdb_id": 579200, "title": "Kalkijug", "original_title": "Kalkijug", "slug_title": "kalkijug", "date": "2015-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

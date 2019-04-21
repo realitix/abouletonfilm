@@ -1,0 +1,1 @@
+{"tmdb_id": 583143, "title": "Lingua Franca", "original_title": "Lingua Franca", "slug_title": "lingua-franca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549714, "title": "Il mondo \u00e8 una prigione", "original_title": "Il mondo \u00e8 una prigione", "slug_title": "il-mondo-e-una-prigione", "date": "1962-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

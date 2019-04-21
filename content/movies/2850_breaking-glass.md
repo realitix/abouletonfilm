@@ -1,0 +1,1 @@
+{"tmdb_id": 2850, "title": "Breaking Glass", "original_title": "Breaking Glass", "slug_title": "breaking-glass", "date": "2005-10-09", "genre": "Drame", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maryam Zaree (Sie)", "Sebastian Becker (Er)"], "comments": [], "recommandations_id": []}

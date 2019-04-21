@@ -1,0 +1,1 @@
+{"tmdb_id": 247433, "title": "The Rule of Three", "original_title": "La r\u00e8gle de trois", "slug_title": "the-rule-of-three", "date": "2012-06-08", "genre": "Drame", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Garrel (Louis)", "Vincent Macaigne (Vincent)", "Golshifteh Farahani (Marie)"], "comments": [], "recommandations_id": []}

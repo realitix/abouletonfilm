@@ -1,0 +1,1 @@
+{"tmdb_id": 520231, "title": "Gef\u00e4hrliche Reise", "original_title": "Gef\u00e4hrliche Reise", "slug_title": "gefahrliche-reise", "date": "1962-07-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uwe Dallmeier ()", "Horst K\u00e4mmerling (Harald)", "Walter Pott ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 77022, "title": "The Haunted House", "original_title": "The Haunted House", "slug_title": "the-haunted-house", "date": "1929-12-02", "genre": "Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jXrCPA4T7HCYEghEHNaii2yWiXj.jpg", "actors": [], "comments": [], "recommandations_id": [190262, 161836, 190371, 162331]}

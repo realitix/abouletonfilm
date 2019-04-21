@@ -1,0 +1,1 @@
+{"tmdb_id": 404889, "title": "The Mechanics", "original_title": "The Mechanics", "slug_title": "the-mechanics", "date": "2016-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

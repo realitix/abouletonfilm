@@ -1,0 +1,1 @@
+{"tmdb_id": 577100, "title": "System K", "original_title": "Syst\u00e8me K", "slug_title": "system-k", "date": "2019-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJhE52giKxbT9upvz2Ya6gadPSr.jpg", "actors": [], "comments": [], "recommandations_id": []}

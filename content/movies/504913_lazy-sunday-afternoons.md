@@ -1,0 +1,1 @@
+{"tmdb_id": 504913, "title": "Lazy Sunday Afternoons", "original_title": "Lazy Sunday Afternoons", "slug_title": "lazy-sunday-afternoons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

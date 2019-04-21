@@ -1,0 +1,1 @@
+{"tmdb_id": 384237, "title": "Lamerica", "original_title": "Lamerica", "slug_title": "lamerica", "date": "2015-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

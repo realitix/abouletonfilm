@@ -1,0 +1,1 @@
+{"tmdb_id": 379217, "title": "The Pink Quarterback", "original_title": "The Pink Quarterback", "slug_title": "the-pink-quarterback", "date": "1968-05-22", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2hg37DpUNVlfklpWZ0JiFb2Ioaf.jpg", "actors": [], "comments": [], "recommandations_id": []}

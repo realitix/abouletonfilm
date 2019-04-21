@@ -1,0 +1,1 @@
+{"tmdb_id": 282228, "title": "Chronicle of Erevan Days", "original_title": "Yerevanyan oreri khronikan", "slug_title": "chronicle-of-erevan-days", "date": "1974-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Khoren Abrahamyan ()", "J. Avagyan ()", "Armen Ayvazyan ()"], "comments": [], "recommandations_id": []}

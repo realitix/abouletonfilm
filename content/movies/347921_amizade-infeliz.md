@@ -1,0 +1,1 @@
+{"tmdb_id": 347921, "title": "Amizade Infeliz", "original_title": "Amizade Infeliz", "slug_title": "amizade-infeliz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthieu Dessertine ()", "Samuel Mercer ()"], "comments": [], "recommandations_id": []}

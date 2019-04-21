@@ -1,0 +1,1 @@
+{"tmdb_id": 274501, "title": "Halloween: Dia De Muertos", "original_title": "Halloween: Dia De Muertos", "slug_title": "halloween-dia-de-muertos", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

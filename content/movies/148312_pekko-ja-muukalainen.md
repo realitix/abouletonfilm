@@ -1,0 +1,1 @@
+{"tmdb_id": 148312, "title": "Pekko Ja Muukalainen", "original_title": "Pekko Ja Muukalainen", "slug_title": "pekko-ja-muukalainen", "date": "1996-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7iaWAtAhpdD09TqbpnIbbZaCqBr.jpg", "actors": [], "comments": [], "recommandations_id": []}

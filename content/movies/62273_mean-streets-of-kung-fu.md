@@ -1,0 +1,1 @@
+{"tmdb_id": 62273, "title": "Mean Streets of Kung-Fu", "original_title": "Jue bu di tou", "slug_title": "mean-streets-of-kung-fu", "date": "1973-12-31", "genre": "Action / Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vcrEh4CgH3rXG5TcS2rBsollV5.jpg", "actors": [], "comments": [], "recommandations_id": []}

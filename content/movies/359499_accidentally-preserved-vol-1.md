@@ -1,0 +1,1 @@
+{"tmdb_id": 359499, "title": "Accidentally Preserved - Vol 1", "original_title": "Accidentally Preserved - Vol 1", "slug_title": "accidentally-preserved-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cj2wePE9Kt9O5yTFM46kR4YpZPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

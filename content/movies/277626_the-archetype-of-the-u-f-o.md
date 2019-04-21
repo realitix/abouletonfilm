@@ -1,0 +1,1 @@
+{"tmdb_id": 277626, "title": "The Archetype of the U.F.O.", "original_title": "The Archetype of the U.F.O.", "slug_title": "the-archetype-of-the-u-f-o", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

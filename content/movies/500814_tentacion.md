@@ -1,0 +1,1 @@
+{"tmdb_id": 500814, "title": "Tentaci\u00f3n", "original_title": "Tentaci\u00f3n", "slug_title": "tentacion", "date": "1943-08-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l3cMfnkSmcf9lUjunjkZsu9klDx.jpg", "actors": [], "comments": [], "recommandations_id": []}

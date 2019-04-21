@@ -1,0 +1,1 @@
+{"tmdb_id": 107156, "title": "The One in Charge", "original_title": "El Encargado", "slug_title": "the-one-in-charge", "date": "2008-03-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jbBWAd89Srb5dV5IDJOoHrmW5t.jpg", "actors": [], "comments": [], "recommandations_id": []}

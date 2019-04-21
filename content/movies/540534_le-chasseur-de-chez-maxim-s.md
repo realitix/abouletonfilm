@@ -1,0 +1,1 @@
+{"tmdb_id": 540534, "title": "Le chasseur de chez Maxim's", "original_title": "Le chasseur de chez Maxim's", "slug_title": "le-chasseur-de-chez-maxim-s", "date": "1933-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

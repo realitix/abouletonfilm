@@ -1,0 +1,1 @@
+{"tmdb_id": 354387, "title": "Hamlet - Vivo en \u00e9l", "original_title": "Hamlet - Vivo en \u00e9l", "slug_title": "hamlet-vivo-en-el", "date": "2014-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYaW5HR2KpgEPDBh2iRtb5psCn7.jpg", "actors": [], "comments": [], "recommandations_id": []}

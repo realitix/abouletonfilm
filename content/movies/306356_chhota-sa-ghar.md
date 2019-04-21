@@ -1,0 +1,1 @@
+{"tmdb_id": 306356, "title": "Chhota Sa Ghar", "original_title": "Chhota Sa Ghar", "slug_title": "chhota-sa-ghar", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

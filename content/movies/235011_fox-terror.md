@@ -1,0 +1,1 @@
+{"tmdb_id": 235011, "title": "Fox-Terror", "original_title": "Fox-Terror", "slug_title": "fox-terror", "date": "1957-05-10", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2dS8vjCfYgnaHJTtY5rw3JFfLvI.jpg", "actors": [], "comments": [], "recommandations_id": []}

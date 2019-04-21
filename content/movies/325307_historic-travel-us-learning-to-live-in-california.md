@@ -1,0 +1,1 @@
+{"tmdb_id": 325307, "title": "Historic Travel US Learning To Live In California", "original_title": "Historic Travel US Learning To Live In California", "slug_title": "historic-travel-us-learning-to-live-in-california", "date": "2005-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

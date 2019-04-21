@@ -1,0 +1,1 @@
+{"tmdb_id": 134027, "title": "Light Friday", "original_title": "Light Friday", "slug_title": "light-friday", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWSMzu8YZHrABaNxEsyCHzM7nvr.jpg", "actors": [], "comments": [], "recommandations_id": []}

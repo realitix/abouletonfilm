@@ -1,0 +1,1 @@
+{"tmdb_id": 365705, "title": "Johnson & Co. and the Campaign Against Poverty", "original_title": "Johnson & Co. und der Feldzug gegen die Armut", "slug_title": "johnson-co-and-the-campaign-against-poverty", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

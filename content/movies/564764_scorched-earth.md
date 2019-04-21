@@ -1,0 +1,1 @@
+{"tmdb_id": 564764, "title": "Scorched Earth", "original_title": "Scorched Earth", "slug_title": "scorched-earth", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

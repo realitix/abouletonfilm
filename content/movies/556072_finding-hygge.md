@@ -1,0 +1,1 @@
+{"tmdb_id": 556072, "title": "Finding Hygge", "original_title": "Finding Hygge", "slug_title": "finding-hygge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1hlRD9Rtso8xZXcnugRE9fCewz.jpg", "actors": [], "comments": [], "recommandations_id": []}

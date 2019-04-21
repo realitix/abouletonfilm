@@ -1,0 +1,1 @@
+{"tmdb_id": 391319, "title": "Metallica: [1988] Oklahoma City", "original_title": "Metallica: [1988] Oklahoma City", "slug_title": "metallica-1988-oklahoma-city", "date": "1988-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cdSGEk4LV7ZZf0XeLlNSga7Fgu.jpg", "actors": [], "comments": [], "recommandations_id": []}

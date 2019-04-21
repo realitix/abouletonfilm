@@ -1,0 +1,1 @@
+{"tmdb_id": 543961, "title": "Yeh Ishq Nahin Aasaan", "original_title": "Yeh Ishq Nahin Aasaan", "slug_title": "yeh-ishq-nahin-aasaan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

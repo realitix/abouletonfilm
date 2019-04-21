@@ -1,0 +1,1 @@
+{"tmdb_id": 130531, "title": "Metallica: Live in Stuttgart", "original_title": "Metallica: Live in Stuttgart", "slug_title": "metallica-live-in-stuttgart", "date": "1997-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iixsnVE5aqswn8TjT5uIsvnWeA.jpg", "actors": [], "comments": [], "recommandations_id": []}

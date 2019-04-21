@@ -1,0 +1,1 @@
+{"tmdb_id": 587334, "title": "Cavaleiros De \u00c1gua Doce", "original_title": "Cavaleiros De \u00c1gua Doce", "slug_title": "cavaleiros-de-agua-doce", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

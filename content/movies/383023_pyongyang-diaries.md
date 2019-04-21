@@ -1,0 +1,1 @@
+{"tmdb_id": 383023, "title": "Pyongyang Diaries", "original_title": "Pyongyang Diaries", "slug_title": "pyongyang-diaries", "date": "1998-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9FMVqgHLuNthg0J7OGbNxgGnchq.jpg", "actors": [], "comments": [], "recommandations_id": []}

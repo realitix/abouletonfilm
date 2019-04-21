@@ -1,0 +1,1 @@
+{"tmdb_id": 466816, "title": "Lucky Luke Le Cavalier Blanc", "original_title": "Lucky Luke Le Cavalier Blanc", "slug_title": "lucky-luke-le-cavalier-blanc", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3p5XMR5HqVzGbVkDLRwFrMLXCSN.jpg", "actors": [], "comments": [], "recommandations_id": []}

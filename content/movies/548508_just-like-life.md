@@ -1,0 +1,1 @@
+{"tmdb_id": 548508, "title": "Just Like Life", "original_title": "Just Like Life", "slug_title": "just-like-life", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

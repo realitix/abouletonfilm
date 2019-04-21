@@ -1,0 +1,1 @@
+{"tmdb_id": 490569, "title": "Bumba gaat op reis", "original_title": "Bumba gaat op reis", "slug_title": "bumba-gaat-op-reis", "date": "2014-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6ZVTNiHQ9mH7s144oBZJ9OEnZr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394599, "title": "La Spiritata", "original_title": "La Spiritata", "slug_title": "la-spiritata", "date": "1976-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNqz2uf73G2SdjRpFX9yT1L7gFa.jpg", "actors": [], "comments": [], "recommandations_id": []}

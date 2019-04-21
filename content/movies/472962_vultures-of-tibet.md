@@ -1,0 +1,1 @@
+{"tmdb_id": 472962, "title": "Vultures of Tibet", "original_title": "Vultures of Tibet", "slug_title": "vultures-of-tibet", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9AytmQPxrERlV7dlmlm4i7DMka5.jpg", "actors": [], "comments": [], "recommandations_id": []}

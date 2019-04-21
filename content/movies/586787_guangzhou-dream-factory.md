@@ -1,0 +1,1 @@
+{"tmdb_id": 586787, "title": "Guangzhou Dream Factory", "original_title": "Guangzhou Dream Factory", "slug_title": "guangzhou-dream-factory", "date": "2017-05-05", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oSxtfQacXSZiApjMyWWUu8J7ji.jpg", "actors": [], "comments": [], "recommandations_id": []}

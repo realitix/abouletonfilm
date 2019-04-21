@@ -1,0 +1,1 @@
+{"tmdb_id": 317424, "title": "Gandy's Dream Girl", "original_title": "Gandy's Dream Girl", "slug_title": "gandy-s-dream-girl", "date": "1944-12-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWYNs3jjk9v1WBAiEIB8TESmsJO.jpg", "actors": [], "comments": [], "recommandations_id": []}

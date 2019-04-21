@@ -1,0 +1,1 @@
+{"tmdb_id": 473381, "title": "Strike Team", "original_title": "Strike Team", "slug_title": "strike-team", "date": "2017-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ol4LrNjlU6DpafOySQ0bd5CDwZG.jpg", "actors": [], "comments": [], "recommandations_id": []}

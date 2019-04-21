@@ -1,0 +1,1 @@
+{"tmdb_id": 284073, "title": "The Girl Detective", "original_title": "The Girl Detective", "slug_title": "the-girl-detective", "date": "1915-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth Roland ()", "Cleo Ridgely ()", "Marin Sais ()"], "comments": [], "recommandations_id": []}

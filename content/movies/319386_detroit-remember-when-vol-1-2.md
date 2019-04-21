@@ -1,0 +1,1 @@
+{"tmdb_id": 319386, "title": "Detroit: Remember When: Vol. 1 & 2", "original_title": "Detroit: Remember When: Vol. 1 & 2", "slug_title": "detroit-remember-when-vol-1-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

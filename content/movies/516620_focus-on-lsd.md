@@ -1,0 +1,1 @@
+{"tmdb_id": 516620, "title": "Focus on LSD", "original_title": "Focus on LSD", "slug_title": "focus-on-lsd", "date": "1971-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tommy Roe (Narrator)"], "comments": [], "recommandations_id": []}

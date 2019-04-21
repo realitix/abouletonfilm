@@ -1,0 +1,1 @@
+{"tmdb_id": 471147, "title": "Murder in Ostankino Precinct", "original_title": "Murder in Ostankino Precinct", "slug_title": "murder-in-ostankino-precinct", "date": "1989-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tGUwEywyoOwXzGbjQzwgsmlaBxW.jpg", "actors": [], "comments": [], "recommandations_id": []}

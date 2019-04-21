@@ -1,0 +1,1 @@
+{"tmdb_id": 355972, "title": "Vegeterrible", "original_title": "Vegeterrible", "slug_title": "vegeterrible", "date": "2010-09-20", "genre": "Action / Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTnWY6FsfId763NAtB0EMeXnJ0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

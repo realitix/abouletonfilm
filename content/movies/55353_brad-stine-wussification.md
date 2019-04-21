@@ -1,0 +1,1 @@
+{"tmdb_id": 55353, "title": "Brad Stine - Wussification", "original_title": "Brad Stine - Wussification", "slug_title": "brad-stine-wussification", "date": "2007-09-30", "genre": "Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

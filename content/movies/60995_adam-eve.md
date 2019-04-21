@@ -1,0 +1,1 @@
+{"tmdb_id": 60995, "title": "Adam & Eve", "original_title": "Adam & Eve", "slug_title": "adam-eve", "date": "2002-12-17", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jM7l8EQRFaWdzBj1dq9DMb0pnMa.jpg", "actors": ["Nadia Mansouri (Eve)", "Michael Kremko (Adam)"], "comments": [], "recommandations_id": []}

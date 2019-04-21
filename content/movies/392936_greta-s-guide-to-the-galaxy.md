@@ -1,0 +1,1 @@
+{"tmdb_id": 392936, "title": "Greta's Guide to the Galaxy", "original_title": "Greta's Guide to the Galaxy", "slug_title": "greta-s-guide-to-the-galaxy", "date": "2016-01-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/IGDbuirky4l3IY9XZkyzNjk70p.jpg", "actors": [], "comments": [], "recommandations_id": []}

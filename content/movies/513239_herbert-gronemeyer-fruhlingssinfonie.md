@@ -1,0 +1,1 @@
+{"tmdb_id": 513239, "title": "Herbert Gr\u00f6nemeyer Fr\u00fchlingssinfonie", "original_title": "Herbert Gr\u00f6nemeyer Fr\u00fchlingssinfonie", "slug_title": "herbert-gronemeyer-fruhlingssinfonie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 485203, "title": "Anemone Me", "original_title": "Anemone Me", "slug_title": "anemone-me", "date": "1990-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl-Peter Hermann (Merboy)", "Connie Keyse (Umbrella Totin' Ma)", "Charles Turner (Fisherman Pa)"], "comments": [], "recommandations_id": []}

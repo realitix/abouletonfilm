@@ -1,0 +1,1 @@
+{"tmdb_id": 483442, "title": "Agente \u00d1ero \u00d1ero 7: Comando jungla", "original_title": "Agente \u00d1ero \u00d1ero 7: Comando jungla", "slug_title": "agente-nero-nero-7-comando-jungla", "date": "2017-11-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 479258, "title": "Rossellini Through His Own Eyes", "original_title": "Rossellini visto da Rossellini", "slug_title": "rossellini-through-his-own-eyes", "date": "1993-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

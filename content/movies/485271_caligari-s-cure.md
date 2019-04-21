@@ -1,0 +1,1 @@
+{"tmdb_id": 485271, "title": "Caligari's Cure", "original_title": "Caligari's Cure", "slug_title": "caligari-s-cure", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i9RZNTQXdi3EuesJru5qt6l2EWZ.jpg", "actors": ["Carmela Rago (Allen)", "Dave West (Allen)"], "comments": [], "recommandations_id": []}

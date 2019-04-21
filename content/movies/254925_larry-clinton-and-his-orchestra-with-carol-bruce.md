@@ -1,0 +1,1 @@
+{"tmdb_id": 254925, "title": "Larry Clinton and His Orchestra with Carol Bruce", "original_title": "Larry Clinton and His Orchestra with Carol Bruce", "slug_title": "larry-clinton-and-his-orchestra-with-carol-bruce", "date": "1938-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

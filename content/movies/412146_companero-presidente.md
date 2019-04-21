@@ -1,0 +1,1 @@
+{"tmdb_id": 412146, "title": "Compa\u00f1ero Presidente", "original_title": "Compa\u00f1ero Presidente", "slug_title": "companero-presidente", "date": "1971-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVyFSXxWKAUnsjgojLy1dD77dS6.jpg", "actors": [], "comments": [], "recommandations_id": []}

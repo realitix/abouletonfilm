@@ -1,0 +1,1 @@
+{"tmdb_id": 474160, "title": "\uadf9\uc7a5\ud310 \ud2b8\ub808\uc778 \ud788\uc5b4\ub85c", "original_title": "\uadf9\uc7a5\ud310 \ud2b8\ub808\uc778 \ud788\uc5b4\ub85c", "slug_title": "geugjangpan-teurein-hieoro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

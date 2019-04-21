@@ -1,0 +1,1 @@
+{"tmdb_id": 351722, "title": "Bellator 140: Lima vs Koreshkov", "original_title": "Bellator 140: Lima vs Koreshkov", "slug_title": "bellator-140-lima-vs-koreshkov", "date": "2015-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eAHYkfGB7CIFSl6UHnypVB4qUfR.jpg", "actors": [], "comments": [], "recommandations_id": []}

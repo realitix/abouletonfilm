@@ -1,0 +1,1 @@
+{"tmdb_id": 389149, "title": "Trans-Cutuc\u00fa", "original_title": "Trans-Cutuc\u00fa", "slug_title": "trans-cutucu", "date": "2010-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h87Tt2jMlGbRIi6CaAWOYrdJg6q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552433, "title": "Exposure", "original_title": "Exposure", "slug_title": "exposure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 319897, "title": "Shakespeare Comedies: The Tempest", "original_title": "Shakespeare Comedies: The Tempest", "slug_title": "shakespeare-comedies-the-tempest", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

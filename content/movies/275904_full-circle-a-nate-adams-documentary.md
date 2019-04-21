@@ -1,0 +1,1 @@
+{"tmdb_id": 275904, "title": "Full Circle: A Nate Adams Documentary", "original_title": "Full Circle: A Nate Adams Documentary", "slug_title": "full-circle-a-nate-adams-documentary", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

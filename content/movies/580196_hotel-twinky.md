@@ -1,0 +1,1 @@
+{"tmdb_id": 580196, "title": "Hotel Twinky", "original_title": "Hotel Twinky", "slug_title": "hotel-twinky", "date": "2007-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4m1CtqePZb0Yvqe2ZmhAC4wtbnd.jpg", "actors": [], "comments": [], "recommandations_id": []}

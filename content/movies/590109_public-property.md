@@ -1,0 +1,1 @@
+{"tmdb_id": 590109, "title": "Public Property", "original_title": "Public Property", "slug_title": "public-property", "date": "2017-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["omowunmi dada (herself)", "Femi Jacobs (himself)", "Kiki Omeili (kiki)", "Okey Uzoeshi (okey)"], "comments": [], "recommandations_id": []}

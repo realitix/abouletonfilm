@@ -1,0 +1,1 @@
+{"tmdb_id": 481446, "title": "Licht f\u00fcr Palermo", "original_title": "Licht f\u00fcr Palermo", "slug_title": "licht-fur-palermo", "date": "1961-04-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerry Wolff (Narrator)"], "comments": [], "recommandations_id": []}

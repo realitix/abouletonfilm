@@ -1,0 +1,1 @@
+{"tmdb_id": 553985, "title": "Revenge of the Spooky Ghosts", "original_title": "Revenge of the Spooky Ghosts", "slug_title": "revenge-of-the-spooky-ghosts", "date": "2018-03-27", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

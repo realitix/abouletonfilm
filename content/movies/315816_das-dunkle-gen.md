@@ -1,0 +1,1 @@
+{"tmdb_id": 315816, "title": "Das dunkle Gen", "original_title": "Das dunkle Gen", "slug_title": "das-dunkle-gen", "date": "2015-06-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xuvII3HMUxXmb4LaiRELL0nJ15H.jpg", "actors": ["Frank Schauder (Himself)"], "comments": [], "recommandations_id": []}

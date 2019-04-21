@@ -1,0 +1,1 @@
+{"tmdb_id": 432486, "title": "Hollywood the Golden Years: The RKO Story", "original_title": "Hollywood the Golden Years: The RKO Story", "slug_title": "hollywood-the-golden-years-the-rko-story", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351307, "title": "The Cuckoo Bird", "original_title": "The Cuckoo Bird", "slug_title": "the-cuckoo-bird", "date": "1939-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

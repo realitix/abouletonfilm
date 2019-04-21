@@ -1,0 +1,1 @@
+{"tmdb_id": 319301, "title": "Wrestling With Faith", "original_title": "Wrestling With Faith", "slug_title": "wrestling-with-faith", "date": "2016-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ted DiBiase ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310037, "title": "James Last: Live in London 1978", "original_title": "James Last: Live in London 1978", "slug_title": "james-last-live-in-london-1978", "date": "1978-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3KDzuYNZlF23S9PIzuV8GQt05dm.jpg", "actors": [], "comments": [], "recommandations_id": []}

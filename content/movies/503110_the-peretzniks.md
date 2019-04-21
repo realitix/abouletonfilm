@@ -1,0 +1,1 @@
+{"tmdb_id": 503110, "title": "The Peretzniks", "original_title": "Perecowicze", "slug_title": "the-peretzniks", "date": "2010-06-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sara Kagan (Narrator)", "W\u0142odzimierz Press (Narrator)"], "comments": [], "recommandations_id": []}

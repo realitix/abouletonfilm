@@ -1,0 +1,1 @@
+{"tmdb_id": 160606, "title": "Sweet Dreams", "original_title": "Sweet Dreams", "slug_title": "sweet-dreams", "date": "2012-06-19", "genre": "Documentaire / Drame / Histoire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4jvWHKHoF4hohubLcrlOtvX9xxc.jpg", "actors": [], "comments": [], "recommandations_id": []}

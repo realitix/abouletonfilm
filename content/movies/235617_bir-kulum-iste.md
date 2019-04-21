@@ -1,0 +1,1 @@
+{"tmdb_id": 235617, "title": "Bir Kulum \u0130\u015fte", "original_title": "Bir Kulum \u0130\u015fte", "slug_title": "bir-kulum-iste", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pe0w2iNYMibxaZvslex00NIhY2D.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 139500, "title": "Dayo Wong Talk Show 2006", "original_title": "Dayo Wong Stand-up Comedy 2006", "slug_title": "dayo-wong-talk-show-2006", "date": "2006-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGdpbt3EkSiLYpamf3H8vLOh4VN.jpg", "actors": ["Dayo Wong ()"], "comments": [], "recommandations_id": []}

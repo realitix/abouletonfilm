@@ -1,0 +1,1 @@
+{"tmdb_id": 313439, "title": "Cliff Richard: In the Beginning", "original_title": "Cliff Richard: In the Beginning", "slug_title": "cliff-richard-in-the-beginning", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

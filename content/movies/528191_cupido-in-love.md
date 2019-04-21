@@ -1,0 +1,1 @@
+{"tmdb_id": 528191, "title": "Cupido in love", "original_title": "Cupido in love", "slug_title": "cupido-in-love", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiG4AV6v1bqXSDYwAXj3jfSTn4W.jpg", "actors": ["\u00c1ngel Velasco ()", "Pelayo Roncal ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 145859, "title": "R\u00f6ntgenstrahlen", "original_title": "R\u00f6ntgenstrahlen", "slug_title": "rontgenstrahlen", "date": "1937-11-04", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogLbrLHzXmCcSjMPjmiNnx2mxuD.jpg", "actors": [], "comments": [], "recommandations_id": []}

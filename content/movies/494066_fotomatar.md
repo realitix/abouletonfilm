@@ -1,0 +1,1 @@
+{"tmdb_id": 494066, "title": "Fotomatar", "original_title": "Fotomatar", "slug_title": "fotomatar", "date": "1979-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5fSzfTzDhd918WrB04sjYjTQAI.jpg", "actors": [], "comments": [], "recommandations_id": []}

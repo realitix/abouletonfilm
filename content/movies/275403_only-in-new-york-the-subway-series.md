@@ -1,0 +1,1 @@
+{"tmdb_id": 275403, "title": "Only in New York: The Subway Series", "original_title": "Only in New York: The Subway Series", "slug_title": "only-in-new-york-the-subway-series", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

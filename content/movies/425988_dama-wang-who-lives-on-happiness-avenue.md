@@ -1,0 +1,1 @@
+{"tmdb_id": 425988, "title": "Dama Wang Who Lives on Happiness Avenue", "original_title": "Dama Wang Who Lives on Happiness Avenue", "slug_title": "dama-wang-who-lives-on-happiness-avenue", "date": "2016-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310345, "title": "Akira Jimbo: Wasabi", "original_title": "Akira Jimbo: Wasabi", "slug_title": "akira-jimbo-wasabi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

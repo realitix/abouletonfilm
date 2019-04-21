@@ -1,0 +1,1 @@
+{"tmdb_id": 152946, "title": "Mariza: Live in London", "original_title": "Mariza: Live in London", "slug_title": "mariza-live-in-london", "date": "2004-09-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7zQf8obrF0di5UsIRoUYjNyQmg5.jpg", "actors": ["Mariza (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329097, "title": "Among the Ruins", "original_title": "Bayn al-Atlal", "slug_title": "among-the-ruins", "date": "1959-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9ErX48QRyuZnnc7DPNjJBfZcs6.jpg", "actors": [], "comments": [], "recommandations_id": []}

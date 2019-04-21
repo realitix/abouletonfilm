@@ -1,0 +1,1 @@
+{"tmdb_id": 189552, "title": "Three Of A Kind", "original_title": "Three Of A Kind", "slug_title": "three-of-a-kind", "date": "1926-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0Eu3F64QSDVB91Oy9tXJ3n3seq.jpg", "actors": [], "comments": [], "recommandations_id": []}

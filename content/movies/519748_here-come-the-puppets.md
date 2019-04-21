@@ -1,0 +1,1 @@
+{"tmdb_id": 519748, "title": "Here Come the Puppets!", "original_title": "Here Come the Puppets!", "slug_title": "here-come-the-puppets", "date": "1981-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwWv1Q1OJtjdiIORojqO73PwHj4.jpg", "actors": [], "comments": [], "recommandations_id": []}

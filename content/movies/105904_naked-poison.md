@@ -1,0 +1,1 @@
+{"tmdb_id": 105904, "title": "Naked Poison", "original_title": "Shou xing xin ren lei", "slug_title": "naked-poison", "date": "2000-09-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPwsbHIH4U6bTWJxY9ObNM7Yfvn.jpg", "actors": [], "comments": [], "recommandations_id": []}

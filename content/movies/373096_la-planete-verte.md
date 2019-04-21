@@ -1,0 +1,1 @@
+{"tmdb_id": 373096, "title": "La Plan\u00e8te verte", "original_title": "La Plan\u00e8te verte", "slug_title": "la-planete-verte", "date": "1966-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHSKksgPbBOdYNuGViT3v6MAoaV.jpg", "actors": [], "comments": [], "recommandations_id": []}

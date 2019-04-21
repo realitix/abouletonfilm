@@ -1,0 +1,1 @@
+{"tmdb_id": 574039, "title": "Lesson #7 by Alberto Ferreras", "original_title": "Lesson #7 by Alberto Ferreras", "slug_title": "lesson-7-by-alberto-ferreras", "date": "2019-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

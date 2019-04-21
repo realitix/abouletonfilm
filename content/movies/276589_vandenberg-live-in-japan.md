@@ -1,0 +1,1 @@
+{"tmdb_id": 276589, "title": "Vandenberg: Live in Japan", "original_title": "Vandenberg: Live in Japan", "slug_title": "vandenberg-live-in-japan", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323900, "title": "A Special Bond", "original_title": "A Special Bond", "slug_title": "a-special-bond", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

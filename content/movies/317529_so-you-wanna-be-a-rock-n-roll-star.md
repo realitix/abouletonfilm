@@ -1,0 +1,1 @@
+{"tmdb_id": 317529, "title": "So You Wanna Be a Rock 'n' Roll Star", "original_title": "So You Wanna Be a Rock 'n' Roll Star", "slug_title": "so-you-wanna-be-a-rock-n-roll-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 306376, "title": "Sanyasi", "original_title": "Sanyasi", "slug_title": "sanyasi", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

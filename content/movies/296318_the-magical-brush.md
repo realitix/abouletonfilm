@@ -1,0 +1,1 @@
+{"tmdb_id": 296318, "title": "The Magical Brush", "original_title": "\u795e\u7b14\u9a6c\u826f", "slug_title": "the-magical-brush", "date": "2014-07-25", "genre": "Fantastique / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zq9Z8cmN0TSjEbDzsQFJtARvD6i.jpg", "actors": [], "comments": [], "recommandations_id": []}

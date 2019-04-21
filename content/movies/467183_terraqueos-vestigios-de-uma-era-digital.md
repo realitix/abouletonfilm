@@ -1,0 +1,1 @@
+{"tmdb_id": 467183, "title": "Terraqueos: Vest\u00edgios de uma Era Digital", "original_title": "Terraqueos: Vest\u00edgios de uma Era Digital", "slug_title": "terraqueos-vestigios-de-uma-era-digital", "date": "2014-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

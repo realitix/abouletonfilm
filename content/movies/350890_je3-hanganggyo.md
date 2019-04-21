@@ -1,0 +1,1 @@
+{"tmdb_id": 350890, "title": "\uc81c3 \ud55c\uac15\uad50", "original_title": "\uc81c3 \ud55c\uac15\uad50", "slug_title": "je3-hanganggyo", "date": "1979-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

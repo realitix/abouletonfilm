@@ -1,0 +1,1 @@
+{"tmdb_id": 382344, "title": "Lucky Luke - Geketende Liefde", "original_title": "Lucky Luke - Geketende Liefde", "slug_title": "lucky-luke-geketende-liefde", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOrhseLk8I5y9RllKtAWOpZPWvT.jpg", "actors": [], "comments": [], "recommandations_id": []}

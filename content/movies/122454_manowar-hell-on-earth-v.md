@@ -1,0 +1,1 @@
+{"tmdb_id": 122454, "title": "Manowar: Hell on Earth V", "original_title": "Manowar: Hell on Earth V", "slug_title": "manowar-hell-on-earth-v", "date": "2009-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ArvPjONfVtVq6jbOuqk2VNC7hn.jpg", "actors": [], "comments": [], "recommandations_id": []}

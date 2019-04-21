@@ -1,0 +1,1 @@
+{"tmdb_id": 279846, "title": "Mrs. Judo: Be Strong, Be Gentle, Be Beautiful", "original_title": "Mrs. Judo: Be Strong, Be Gentle, Be Beautiful", "slug_title": "mrs-judo-be-strong-be-gentle-be-beautiful", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421643, "title": "Cigarette", "original_title": "Cigarette", "slug_title": "cigarette", "date": "2016-11-27", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rHTQDILOluj5XkdAVl0jNEIIMQn.jpg", "actors": ["Rebecca Fortuna (She)", "Ryan Heath (He)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 55089, "title": "Sampoorna Ramayanam", "original_title": "Sampoorna Ramayanam", "slug_title": "sampoorna-ramayanam", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yr3DtKz4iQr4XERoNN2O7F2C81m.jpg", "actors": [], "comments": [], "recommandations_id": []}

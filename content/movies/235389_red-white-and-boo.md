@@ -1,0 +1,1 @@
+{"tmdb_id": 235389, "title": "Red White and Boo", "original_title": "Red White and Boo", "slug_title": "red-white-and-boo", "date": "1955-10-20", "genre": "Animation / Science-Fiction / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jackson Beck ()", "Jack Mercer ()", "Sid Raymond ()"], "comments": [], "recommandations_id": []}

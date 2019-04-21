@@ -1,0 +1,1 @@
+{"tmdb_id": 201839, "title": "Catharsis", "original_title": "Catharsis", "slug_title": "catharsis", "date": "2001-01-01", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNehI0iyX9L5EQYS5I3X1OijRLv.jpg", "actors": ["Jean-Michel Vovk ()"], "comments": [], "recommandations_id": []}

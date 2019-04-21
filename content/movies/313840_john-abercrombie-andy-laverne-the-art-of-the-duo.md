@@ -1,0 +1,1 @@
+{"tmdb_id": 313840, "title": "John Abercrombie & Andy LaVerne: The Art of the Duo", "original_title": "John Abercrombie & Andy LaVerne: The Art of the Duo", "slug_title": "john-abercrombie-andy-laverne-the-art-of-the-duo", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

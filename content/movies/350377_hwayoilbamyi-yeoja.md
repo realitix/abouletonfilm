@@ -1,0 +1,1 @@
+{"tmdb_id": 350377, "title": "\ud654\uc694\uc77c\ubc24\uc758 \uc5ec\uc790", "original_title": "\ud654\uc694\uc77c\ubc24\uc758 \uc5ec\uc790", "slug_title": "hwayoilbamyi-yeoja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

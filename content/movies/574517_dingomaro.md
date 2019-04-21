@@ -1,0 +1,1 @@
+{"tmdb_id": 574517, "title": "Dingomaro", "original_title": "Dingomaro", "slug_title": "dingomaro", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

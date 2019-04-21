@@ -1,0 +1,1 @@
+{"tmdb_id": 459358, "title": "IX/75 Schlachthof", "original_title": "IX/75 Schlachthof", "slug_title": "ix-75-schlachthof", "date": "1975-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

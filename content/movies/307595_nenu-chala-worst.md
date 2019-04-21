@@ -1,0 +1,1 @@
+{"tmdb_id": 307595, "title": "Nenu Chala Worst", "original_title": "Nenu Chala Worst", "slug_title": "nenu-chala-worst", "date": "2014-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

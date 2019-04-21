@@ -1,0 +1,1 @@
+{"tmdb_id": 313816, "title": "Double Trouble: The Road to Redemption", "original_title": "Double Trouble: The Road to Redemption", "slug_title": "double-trouble-the-road-to-redemption", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

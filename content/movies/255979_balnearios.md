@@ -1,0 +1,1 @@
+{"tmdb_id": 255979, "title": "Balnearios", "original_title": "Balnearios", "slug_title": "balnearios", "date": "2002-04-23", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rPw938TU5sJegrZaGxYeZcH4u7.jpg", "actors": [], "comments": [], "recommandations_id": []}

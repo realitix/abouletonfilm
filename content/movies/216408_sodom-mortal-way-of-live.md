@@ -1,0 +1,1 @@
+{"tmdb_id": 216408, "title": "Sodom: Mortal Way of Live", "original_title": "Sodom: Mortal Way of Live", "slug_title": "sodom-mortal-way-of-live", "date": "1988-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTwAFpqn8PnbUoOmas0OD4luRzH.jpg", "actors": [], "comments": [], "recommandations_id": []}

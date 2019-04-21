@@ -1,0 +1,1 @@
+{"tmdb_id": 227992, "title": "Necronomica", "original_title": "Necronomica", "slug_title": "necronomica", "date": "2013-03-09", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Scheibmeir (Absu)", "Judd Farris (Borknarg)"], "comments": [], "recommandations_id": []}

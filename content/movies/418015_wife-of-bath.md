@@ -1,0 +1,1 @@
+{"tmdb_id": 418015, "title": "Wife of Bath", "original_title": "Wife of Bath", "slug_title": "wife-of-bath", "date": "1998-09-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MaIydWY48oXSwNFlrWqFhrmpOv.jpg", "actors": [], "comments": [], "recommandations_id": []}

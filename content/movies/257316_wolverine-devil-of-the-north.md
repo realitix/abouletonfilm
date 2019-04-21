@@ -1,0 +1,1 @@
+{"tmdb_id": 257316, "title": "Wolverine: Devil of the North?", "original_title": "Wolverine: Devil of the North?", "slug_title": "wolverine-devil-of-the-north", "date": "2001-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

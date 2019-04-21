@@ -1,0 +1,1 @@
+{"tmdb_id": 68183, "title": "The Plush Show: MOVIE", "original_title": "The Plush Show: MOVIE", "slug_title": "the-plush-show-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

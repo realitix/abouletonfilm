@@ -1,0 +1,1 @@
+{"tmdb_id": 480462, "title": "Armanda", "original_title": "Armanda", "slug_title": "armanda", "date": "2017-10-17", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aPWLsUxxkIbBJoTstFTecpJlXdz.jpg", "actors": ["Anita Prestes (Ela mesma)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523665, "title": "Welcome to Coalwood", "original_title": "Welcome to Coalwood", "slug_title": "welcome-to-coalwood", "date": "2009-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxOtd23KYTgU9pzioJXi9tod0T5.jpg", "actors": [], "comments": [], "recommandations_id": []}

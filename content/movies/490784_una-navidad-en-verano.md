@@ -1,0 +1,1 @@
+{"tmdb_id": 490784, "title": "Una Navidad en verano", "original_title": "Una Navidad en verano", "slug_title": "una-navidad-en-verano", "date": "2017-11-30", "genre": "Com\u00e9die / Familial", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60dR0bwnbd4cznJxlMgvZwO255U.jpg", "actors": [], "comments": [], "recommandations_id": []}

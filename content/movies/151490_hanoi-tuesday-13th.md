@@ -1,0 +1,1 @@
+{"tmdb_id": 151490, "title": "Hanoi, Tuesday 13th", "original_title": "Hanoi, martes 13", "slug_title": "hanoi-tuesday-13th", "date": "1968-06-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tqkSpllJZVF5emFwwrXNUnrQp1O.jpg", "actors": [], "comments": [], "recommandations_id": [92823]}

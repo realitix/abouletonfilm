@@ -1,0 +1,1 @@
+{"tmdb_id": 275940, "title": "Mulaqaat", "original_title": "Mulaqaat", "slug_title": "mulaqaat", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

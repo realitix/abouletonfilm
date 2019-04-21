@@ -1,0 +1,1 @@
+{"tmdb_id": 529411, "title": "Blacks and Jews", "original_title": "Blacks and Jews", "slug_title": "blacks-and-jews", "date": "1997-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556584, "title": "Watch Out For My Plant", "original_title": "Watch Out For My Plant", "slug_title": "watch-out-for-my-plant", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

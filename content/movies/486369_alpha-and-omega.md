@@ -1,0 +1,1 @@
+{"tmdb_id": 486369, "title": "Alpha and Omega", "original_title": "Alpha and Omega", "slug_title": "alpha-and-omega", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xtzjF727guqSEyqz7c0CJtczLbL.jpg", "actors": [], "comments": [], "recommandations_id": []}

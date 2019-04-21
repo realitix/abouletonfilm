@@ -1,0 +1,1 @@
+{"tmdb_id": 82473, "title": "Askari", "original_title": "Askari", "slug_title": "askari", "date": "2001-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esn1CJvDjNCNjE6PWVsenbDX7YQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

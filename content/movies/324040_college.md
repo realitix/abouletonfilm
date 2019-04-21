@@ -1,0 +1,1 @@
+{"tmdb_id": 324040, "title": "College", "original_title": "College", "slug_title": "college", "date": "1931-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

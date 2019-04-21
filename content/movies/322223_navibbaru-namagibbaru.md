@@ -1,0 +1,1 @@
+{"tmdb_id": 322223, "title": "Navibbaru Namagibbaru", "original_title": "Navibbaru Namagibbaru", "slug_title": "navibbaru-namagibbaru", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

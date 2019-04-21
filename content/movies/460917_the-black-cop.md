@@ -1,0 +1,1 @@
+{"tmdb_id": 460917, "title": "The Black Cop", "original_title": "The Black Cop", "slug_title": "the-black-cop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

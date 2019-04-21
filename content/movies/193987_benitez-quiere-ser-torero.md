@@ -1,0 +1,1 @@
+{"tmdb_id": 193987, "title": "Benitez quiere ser torero", "original_title": "Benitez quiere ser torero", "slug_title": "benitez-quiere-ser-torero", "date": "1910-01-01", "genre": "Com\u00e9die", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBRYPCh3izOMS8M7afoFiz3tpGG.jpg", "actors": [], "comments": [], "recommandations_id": []}

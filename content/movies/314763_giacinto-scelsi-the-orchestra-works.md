@@ -1,0 +1,1 @@
+{"tmdb_id": 314763, "title": "Giacinto Scelsi: The Orchestra Works", "original_title": "Giacinto Scelsi: The Orchestra Works", "slug_title": "giacinto-scelsi-the-orchestra-works", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 322946, "title": "Swift Water", "original_title": "Swift Water", "slug_title": "swift-water", "date": "1952-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dorothy Hannaford ()", "Jasper Jewitt ()", "Guthrie Mason ()", "George Passmore ()"], "comments": [], "recommandations_id": []}

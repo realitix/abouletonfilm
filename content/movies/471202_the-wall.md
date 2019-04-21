@@ -1,0 +1,1 @@
+{"tmdb_id": 471202, "title": "The Wall", "original_title": "The Wall", "slug_title": "the-wall", "date": "1998-05-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9fGKCvlWjHuWvR1X37gROYQDf7.jpg", "actors": [], "comments": [], "recommandations_id": []}

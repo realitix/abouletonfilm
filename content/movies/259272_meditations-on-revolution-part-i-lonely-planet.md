@@ -1,0 +1,1 @@
+{"tmdb_id": 259272, "title": "Meditations on Revolution Part I: Lonely Planet", "original_title": "Meditations on Revolution Part I: Lonely Planet", "slug_title": "meditations-on-revolution-part-i-lonely-planet", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

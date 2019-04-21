@@ -1,0 +1,1 @@
+{"tmdb_id": 405875, "title": "The Patent Clerk", "original_title": "The Patent Clerk", "slug_title": "the-patent-clerk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

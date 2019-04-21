@@ -1,0 +1,1 @@
+{"tmdb_id": 275247, "title": "Yumi Yet", "original_title": "Yumi Yet", "slug_title": "yumi-yet", "date": "1975-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nvdkPQLwctXOxTc4VLrrwTEGBUl.jpg", "actors": [], "comments": [], "recommandations_id": []}

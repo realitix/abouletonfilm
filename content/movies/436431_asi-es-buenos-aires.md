@@ -1,0 +1,1 @@
+{"tmdb_id": 436431, "title": "As\u00ed es Buenos Aires", "original_title": "As\u00ed es Buenos Aires", "slug_title": "asi-es-buenos-aires", "date": "1971-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOaCKQIZ58p93JqKGibqIayhzDG.jpg", "actors": [], "comments": [], "recommandations_id": []}

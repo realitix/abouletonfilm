@@ -1,0 +1,1 @@
+{"tmdb_id": 351110, "title": "Joe's Lunch Wagon", "original_title": "Joe's Lunch Wagon", "slug_title": "joe-s-lunch-wagon", "date": "1934-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

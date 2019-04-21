@@ -1,0 +1,1 @@
+{"tmdb_id": 469290, "title": "Survivor's Ultimate", "original_title": "Survivor's Ultimate", "slug_title": "survivor-s-ultimate", "date": "2016-02-15", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Sheehy ()", "Kyle Purdum ()"], "comments": [], "recommandations_id": []}

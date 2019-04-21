@@ -1,0 +1,1 @@
+{"tmdb_id": 410108, "title": "Tears in the Amazon", "original_title": "Tears in the Amazon", "slug_title": "tears-in-the-amazon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z18kLgbSceWsFlnKqbXPpevWbIA.jpg", "actors": [], "comments": [], "recommandations_id": []}

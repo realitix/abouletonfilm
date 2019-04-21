@@ -1,0 +1,1 @@
+{"tmdb_id": 351111, "title": "Just a Clown", "original_title": "Just a Clown", "slug_title": "just-a-clown", "date": "1934-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

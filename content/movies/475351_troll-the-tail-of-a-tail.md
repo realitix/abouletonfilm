@@ -1,0 +1,1 @@
+{"tmdb_id": 475351, "title": "Troll: The Tail of a Tail", "original_title": "Troll: The Tail of a Tail", "slug_title": "troll-the-tail-of-a-tail", "date": "2018-09-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

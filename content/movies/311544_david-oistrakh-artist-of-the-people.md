@@ -1,0 +1,1 @@
+{"tmdb_id": 311544, "title": "David Oistrakh: Artist of the People?", "original_title": "David Oistrakh: Artist of the People?", "slug_title": "david-oistrakh-artist-of-the-people", "date": "1996-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

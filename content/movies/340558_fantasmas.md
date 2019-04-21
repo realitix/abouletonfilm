@@ -1,0 +1,1 @@
+{"tmdb_id": 340558, "title": "Fantasmas", "original_title": "Fantasmas", "slug_title": "fantasmas", "date": "2010-05-16", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wAFDcnekWZIGCEM3x3LpLVGa4gD.jpg", "actors": [], "comments": [], "recommandations_id": []}

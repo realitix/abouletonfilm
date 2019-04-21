@@ -1,0 +1,1 @@
+{"tmdb_id": 513834, "title": "Hatsune Miku: Miku Expo 2016", "original_title": "Hatsune Miku: Miku Expo 2016", "slug_title": "hatsune-miku-miku-expo-2016", "date": "2016-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nuFAXxBz6Ww3OiCzBp2dOjaxdCG.jpg", "actors": [], "comments": [], "recommandations_id": []}

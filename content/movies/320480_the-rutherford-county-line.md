@@ -1,0 +1,1 @@
+{"tmdb_id": 320480, "title": "The Rutherford County Line", "original_title": "The Rutherford County Line", "slug_title": "the-rutherford-county-line", "date": "1988-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312268, "title": "The Cologne Music Triennale: Messiaen / Henze / Holt", "original_title": "The Cologne Music Triennale: Messiaen / Henze / Holt", "slug_title": "the-cologne-music-triennale-messiaen-henze-holt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

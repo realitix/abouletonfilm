@@ -1,0 +1,1 @@
+{"tmdb_id": 18127, "title": "Derelictica", "original_title": "Derelictica", "slug_title": "derelictica", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gS1dhKjoC8XAMSTzWDtnK3ZuTIZ.jpg", "actors": ["Eddie Wall (himself)", "Simon Chamberlain (himself)"], "comments": [], "recommandations_id": []}

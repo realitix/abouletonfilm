@@ -1,0 +1,1 @@
+{"tmdb_id": 442964, "title": "By Jupiter!", "original_title": "By Jupiter!", "slug_title": "by-jupiter", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chick Chandler (Thornton J. Poindexter)", "Martin Olson (Jupiter)", "Claire Powell (Juno)"], "comments": [], "recommandations_id": []}

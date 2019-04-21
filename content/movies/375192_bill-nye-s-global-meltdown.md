@@ -1,0 +1,1 @@
+{"tmdb_id": 375192, "title": "Bill Nye's Global Meltdown", "original_title": "Bill Nye's Global Meltdown", "slug_title": "bill-nye-s-global-meltdown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypmkKfDXPKNsQo7ItdABxdhMlPo.jpg", "actors": ["Bill Nye (Himself)"], "comments": [], "recommandations_id": []}

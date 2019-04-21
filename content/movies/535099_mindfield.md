@@ -1,0 +1,1 @@
+{"tmdb_id": 535099, "title": "MindField", "original_title": "MindField", "slug_title": "mindfield", "date": "2003-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

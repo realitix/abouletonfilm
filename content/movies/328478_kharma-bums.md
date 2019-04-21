@@ -1,0 +1,1 @@
+{"tmdb_id": 328478, "title": "Kharma Bums", "original_title": "Kharma Bums", "slug_title": "kharma-bums", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326649, "title": "Life Is Sacred", "original_title": "Life Is Sacred", "slug_title": "life-is-sacred", "date": "2014-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyR9cZqeMoLDmR6kfBpRYqK4YeW.jpg", "actors": ["Antanas Mockus (Himself)"], "comments": [], "recommandations_id": []}

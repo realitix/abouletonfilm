@@ -1,0 +1,1 @@
+{"tmdb_id": 479041, "title": "WC Masculino", "original_title": "WC Masculino", "slug_title": "wc-masculino", "date": "2017-09-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DqBDhRP3MCbU2v4BXIsh8Fvtfn.jpg", "actors": ["William Alves (Leo)", "Thiago Cazado (Andr\u00e9)"], "comments": [], "recommandations_id": []}

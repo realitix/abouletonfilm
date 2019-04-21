@@ -1,0 +1,1 @@
+{"tmdb_id": 109383, "title": "La Chambre", "original_title": "La Chambre", "slug_title": "la-chambre", "date": "1972-01-01", "genre": "Documentaire", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vj4rb3tVo8aMJyXOp9EmpqExthJ.jpg", "actors": ["Chantal Akerman ()"], "comments": [], "recommandations_id": [105711, 237957, 49479, 256651]}

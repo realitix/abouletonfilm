@@ -1,0 +1,1 @@
+{"tmdb_id": 350628, "title": "Pink Swine!", "original_title": "Pink Swine!", "slug_title": "pink-swine", "date": "1962-01-01", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vS4IKzHxsAuRIZSP3jg0b0ML4uj.jpg", "actors": [], "comments": [], "recommandations_id": []}

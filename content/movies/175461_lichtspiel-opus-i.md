@@ -1,0 +1,1 @@
+{"tmdb_id": 175461, "title": "Lichtspiel opus I", "original_title": "Lichtspiel opus I", "slug_title": "lichtspiel-opus-i", "date": "1921-04-26", "genre": "", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10Ijl1svZg0GNNzATfvCKBABX6Y.jpg", "actors": [], "comments": [], "recommandations_id": [162551, 190081, 126193, 145619]}

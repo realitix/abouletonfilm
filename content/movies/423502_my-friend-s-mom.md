@@ -1,0 +1,1 @@
+{"tmdb_id": 423502, "title": "My Friend's Mom", "original_title": "\ub0b4 \uce5c\uad6c\uc758 \uc5c4\ub9c8", "slug_title": "my-friend-s-mom", "date": "2016-11-12", "genre": "Romance", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sp7v5VDh3n1bcbS7qwXZIIZ798l.jpg", "actors": ["Lee Eun-mi-I ()"], "comments": [], "recommandations_id": []}

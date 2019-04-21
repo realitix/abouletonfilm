@@ -1,0 +1,1 @@
+{"tmdb_id": 236814, "title": "Kings of the Turf", "original_title": "Kings of the Turf", "slug_title": "kings-of-the-turf", "date": "1941-09-27", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Knox Manning (Commentator (voice))"], "comments": [], "recommandations_id": []}

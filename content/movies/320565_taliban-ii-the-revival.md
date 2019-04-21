@@ -1,0 +1,1 @@
+{"tmdb_id": 320565, "title": "Taliban II: The Revival", "original_title": "Taliban II: The Revival", "slug_title": "taliban-ii-the-revival", "date": "2008-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 250680, "title": "Study in Brown", "original_title": "Study in Brown", "slug_title": "study-in-brown", "date": "1944-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reg Kehoe ()"], "comments": [], "recommandations_id": []}

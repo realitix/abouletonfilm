@@ -1,0 +1,1 @@
+{"tmdb_id": 587002, "title": "Cantareira - Vozes pela Pra\u00e7a", "original_title": "Cantareira - Vozes pela Pra\u00e7a", "slug_title": "cantareira-vozes-pela-praca", "date": "2017-10-25", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

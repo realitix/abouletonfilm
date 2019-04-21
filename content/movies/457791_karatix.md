@@ -1,0 +1,1 @@
+{"tmdb_id": 457791, "title": "Karatix", "original_title": "Karatix", "slug_title": "karatix", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1SOQRlywKbP0cjZzzoNJVU3qcHE.jpg", "actors": ["Tiana Alexandra (Herself)", "Eric Lee (Himself)"], "comments": [], "recommandations_id": []}

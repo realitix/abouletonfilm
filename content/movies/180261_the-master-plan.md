@@ -1,0 +1,1 @@
+{"tmdb_id": 180261, "title": "The Master Plan", "original_title": "The Master Plan", "slug_title": "the-master-plan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

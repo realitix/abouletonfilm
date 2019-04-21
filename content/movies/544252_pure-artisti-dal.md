@@ -1,0 +1,1 @@
+{"tmdb_id": 544252, "title": "Pure Artisti Dal", "original_title": "Pure Artisti Dal", "slug_title": "pure-artisti-dal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

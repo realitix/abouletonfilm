@@ -1,0 +1,1 @@
+{"tmdb_id": 586546, "title": "Biosludged", "original_title": "Biosludged", "slug_title": "biosludged", "date": "2018-11-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cqLqvoRk7bDhcUiTzDnp4SZNmWg.jpg", "actors": [], "comments": [], "recommandations_id": []}

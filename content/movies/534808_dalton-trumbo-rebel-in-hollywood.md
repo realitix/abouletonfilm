@@ -1,0 +1,1 @@
+{"tmdb_id": 534808, "title": "Dalton Trumbo: Rebel in Hollywood", "original_title": "Dalton Trumbo: Rebel in Hollywood", "slug_title": "dalton-trumbo-rebel-in-hollywood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

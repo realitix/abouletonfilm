@@ -1,0 +1,1 @@
+{"tmdb_id": 520226, "title": "Liang Shanbo and Zhu Yingtai", "original_title": "\u6881\u5c71\u4f2f\u8207\u795d\u82f1\u53f0", "slug_title": "liang-shanbo-and-zhu-yingtai", "date": "1954-01-01", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

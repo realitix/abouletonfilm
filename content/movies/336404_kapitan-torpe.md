@@ -1,0 +1,1 @@
+{"tmdb_id": 336404, "title": "Kapitan Torpe", "original_title": "Kapitan Torpe", "slug_title": "kapitan-torpe", "date": "2011-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/guBiGr5fU928Uty4Pqi20VdktBw.jpg", "actors": [], "comments": [], "recommandations_id": []}

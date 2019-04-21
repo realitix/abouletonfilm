@@ -1,0 +1,1 @@
+{"tmdb_id": 335870, "title": "People Like Us", "original_title": "People Like Us", "slug_title": "people-like-us", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQfevlrD7AwtCrJpwbY8ZspaWTb.jpg", "actors": [], "comments": [], "recommandations_id": []}

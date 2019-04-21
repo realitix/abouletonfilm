@@ -1,0 +1,1 @@
+{"tmdb_id": 522145, "title": "O t\u0159ech p\u00edsmenk\u00e1ch", "original_title": "O t\u0159ech p\u00edsmenk\u00e1ch", "slug_title": "o-trech-pismenkach", "date": "1975-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

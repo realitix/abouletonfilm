@@ -1,0 +1,1 @@
+{"tmdb_id": 212936, "title": "The Clinic", "original_title": "The Clinic", "slug_title": "the-clinic", "date": "2004-01-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2EV6aZW8G2HsD8LONoRCyhBHY0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

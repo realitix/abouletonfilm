@@ -1,0 +1,1 @@
+{"tmdb_id": 235801, "title": "A New Product", "original_title": "Ein neues Produkt", "slug_title": "a-new-product", "date": "2012-06-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38nMy4rAnyP5ZACwDQmFeoikAFp.jpg", "actors": [], "comments": [], "recommandations_id": []}

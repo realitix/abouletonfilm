@@ -1,0 +1,1 @@
+{"tmdb_id": 338060, "title": "You've Got To Be Smart", "original_title": "You've Got To Be Smart", "slug_title": "you-ve-got-to-be-smart", "date": "1960-04-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roger Perry (Jerry Harper)"], "comments": [], "recommandations_id": []}

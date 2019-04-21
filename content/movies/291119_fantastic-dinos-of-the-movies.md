@@ -1,0 +1,1 @@
+{"tmdb_id": 291119, "title": "Fantastic Dinos of the Movies", "original_title": "Fantastic Dinos of the Movies", "slug_title": "fantastic-dinos-of-the-movies", "date": "1990-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dkhzyeqgoKl7XvxnhF5wA8g2MhC.jpg", "actors": [], "comments": [], "recommandations_id": []}

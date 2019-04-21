@@ -1,0 +1,1 @@
+{"tmdb_id": 408313, "title": "A Leisure Society of Severe Preponderence", "original_title": "A Leisure Society of Severe Preponderence", "slug_title": "a-leisure-society-of-severe-preponderence", "date": "2011-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

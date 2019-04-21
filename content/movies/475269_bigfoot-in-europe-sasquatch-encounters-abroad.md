@@ -1,0 +1,1 @@
+{"tmdb_id": 475269, "title": "Bigfoot in Europe: Sasquatch Encounters Abroad", "original_title": "Bigfoot in Europe: Sasquatch Encounters Abroad", "slug_title": "bigfoot-in-europe-sasquatch-encounters-abroad", "date": "", "genre": "Action / Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

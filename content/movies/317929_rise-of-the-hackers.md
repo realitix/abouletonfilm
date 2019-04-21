@@ -1,0 +1,1 @@
+{"tmdb_id": 317929, "title": "Rise Of The Hackers", "original_title": "Rise Of The Hackers", "slug_title": "rise-of-the-hackers", "date": "2014-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lY4VaB4KRC1ItRpJm6PKacofHY6.jpg", "actors": [], "comments": [], "recommandations_id": []}

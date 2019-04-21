@@ -1,0 +1,1 @@
+{"tmdb_id": 523033, "title": "The Ketchup Vampires", "original_title": "The Ketchup Vampires", "slug_title": "the-ketchup-vampires", "date": "1995-09-26", "genre": "Animation / Horreur / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

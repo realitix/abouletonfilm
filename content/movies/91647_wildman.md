@@ -1,0 +1,1 @@
+{"tmdb_id": 91647, "title": "Wildman", "original_title": "\u00dcrgmees", "slug_title": "wildman", "date": "2009-03-06", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65e07kWNfzSQp1p8F4h87UivPat.jpg", "actors": ["Jan Uusp\u00f5ld (jan)"], "comments": [], "recommandations_id": []}

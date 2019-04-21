@@ -1,0 +1,1 @@
+{"tmdb_id": 292970, "title": "Holy Money", "original_title": "Holy Money", "slug_title": "holy-money", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3K90SOOy9YLBvWCmrxoaezVstPO.jpg", "actors": [], "comments": [], "recommandations_id": []}

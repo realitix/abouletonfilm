@@ -1,0 +1,1 @@
+{"tmdb_id": 302914, "title": "Chhupa Rustam", "original_title": "Chhupa Rustam", "slug_title": "chhupa-rustam", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

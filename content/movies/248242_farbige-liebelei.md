@@ -1,0 +1,1 @@
+{"tmdb_id": 248242, "title": "Farbige Liebelei", "original_title": "Farbige Liebelei", "slug_title": "farbige-liebelei", "date": "1956-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

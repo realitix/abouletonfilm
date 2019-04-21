@@ -1,0 +1,1 @@
+{"tmdb_id": 503968, "title": "Blue Collar White Christmas", "original_title": "Nede p\u00e5 jorden", "slug_title": "blue-collar-white-christmas", "date": "2002-08-13", "genre": "Documentaire / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

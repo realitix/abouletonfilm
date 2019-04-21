@@ -1,0 +1,1 @@
+{"tmdb_id": 272974, "title": "Heroes Of Shaolin: Part II", "original_title": "Heroes Of Shaolin: Part II", "slug_title": "heroes-of-shaolin-part-ii", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoOrTOguiJhggDzf0GeuzBxOfdj.jpg", "actors": [], "comments": [], "recommandations_id": []}

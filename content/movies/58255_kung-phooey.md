@@ -1,0 +1,1 @@
+{"tmdb_id": 58255, "title": "Kung Phooey", "original_title": "Kung Phooey", "slug_title": "kung-phooey", "date": "2003-03-11", "genre": "Action / Com\u00e9die", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/teqSB5QIJzxgNnRiFC0p7CRuvNS.jpg", "actors": ["Michael Chow Man-Kin (Art Chew)"], "comments": [], "recommandations_id": []}

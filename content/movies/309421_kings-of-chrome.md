@@ -1,0 +1,1 @@
+{"tmdb_id": 309421, "title": "Kings of Chrome", "original_title": "Kings of Chrome", "slug_title": "kings-of-chrome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

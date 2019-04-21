@@ -1,0 +1,1 @@
+{"tmdb_id": 408660, "title": "Le journ\u00e9e d'une paire de jambes", "original_title": "Le journ\u00e9e d'une paire de jambes", "slug_title": "le-journee-d-une-paire-de-jambes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

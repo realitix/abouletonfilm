@@ -1,0 +1,1 @@
+{"tmdb_id": 127952, "title": "Disco Inferno", "original_title": "Disco Inferno", "slug_title": "disco-inferno", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlLjSfMJHcvkWJ95hfEFG65qH3c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 265293, "title": "Plan de situation: Joliette", "original_title": "Plan de situation: Joliette", "slug_title": "plan-de-situation-joliette", "date": "2010-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2vCO4FXiPj4UgQfg7YAbgoNqjjo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284659, "title": "The mending umbrella swordsmanship", "original_title": "Kasahari kenpo", "slug_title": "the-mending-umbrella-swordsmanship", "date": "1929-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

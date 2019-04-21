@@ -1,0 +1,6 @@
+baseURL = "https://abouletonfilm.com/"
+languageCode = "fr-FR"
+title = "Aboule ton film"
+DefaultContentLanguage = "fr"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+paginate = 100

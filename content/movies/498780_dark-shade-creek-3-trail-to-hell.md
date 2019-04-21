@@ -1,0 +1,1 @@
+{"tmdb_id": 498780, "title": "Dark Shade Creek 3: Trail to Hell", "original_title": "Dark Shade Creek 3: Trail to Hell", "slug_title": "dark-shade-creek-3-trail-to-hell", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jp6iqqKmB4eiWeIb7wHZTxeL8C.jpg", "actors": [], "comments": [], "recommandations_id": []}

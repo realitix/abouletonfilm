@@ -1,0 +1,1 @@
+{"tmdb_id": 232254, "title": "The Boarding School Girls", "original_title": "The Boarding School Girls", "slug_title": "the-boarding-school-girls", "date": "1905-09-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

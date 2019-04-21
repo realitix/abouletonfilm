@@ -1,0 +1,1 @@
+{"tmdb_id": 550855, "title": "Mother Anush", "original_title": "Mother Anush", "slug_title": "mother-anush", "date": "1984-06-03", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTEQJW8HhfdIDhGvqnK1dTOKJ6v.jpg", "actors": ["T.Voskanyan (Yurik)"], "comments": [], "recommandations_id": []}

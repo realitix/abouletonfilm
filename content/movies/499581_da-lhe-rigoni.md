@@ -1,0 +1,1 @@
+{"tmdb_id": 499581, "title": "D\u00e1-lhe, Rigoni!", "original_title": "D\u00e1-lhe, Rigoni!", "slug_title": "da-lhe-rigoni", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIGHVpFYScLzKpyRaqgk9cPBaIn.jpg", "actors": ["Mauricio do Valle ()"], "comments": [], "recommandations_id": []}

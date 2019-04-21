@@ -1,0 +1,1 @@
+{"tmdb_id": 439893, "title": "Celso and Cora", "original_title": "Celso and Cora", "slug_title": "celso-and-cora", "date": "1983-02-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

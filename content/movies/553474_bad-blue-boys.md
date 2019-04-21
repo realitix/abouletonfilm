@@ -1,0 +1,1 @@
+{"tmdb_id": 553474, "title": "Bad Blue Boys", "original_title": "Panj pun olova", "slug_title": "bad-blue-boys", "date": "2007-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2vAWLhZAEAdUmk7Z4aI8B3ErBlw.jpg", "actors": [], "comments": [], "recommandations_id": []}

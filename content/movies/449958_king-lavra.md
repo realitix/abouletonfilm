@@ -1,0 +1,1 @@
+{"tmdb_id": 449958, "title": "King Lavra", "original_title": "Kr\u00e1l L\u00e1vra", "slug_title": "king-lavra", "date": "1950-12-31", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6g8pgFegjwvvwVVORsPknY60F6P.jpg", "actors": [], "comments": [], "recommandations_id": []}

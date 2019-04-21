@@ -1,0 +1,1 @@
+{"tmdb_id": 574166, "title": "La Floride de JMP", "original_title": "La Floride de JMP", "slug_title": "la-floride-de-jmp", "date": "2017-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Marc Parent (Himself)"], "comments": [], "recommandations_id": []}

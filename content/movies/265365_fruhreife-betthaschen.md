@@ -1,0 +1,1 @@
+{"tmdb_id": 265365, "title": "Fr\u00fchreife Betth\u00e4schen", "original_title": "Fr\u00fchreife Betth\u00e4schen", "slug_title": "fruhreife-betthaschen", "date": "1972-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q353G3zABBz1knx9kuDqRWU1oQ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

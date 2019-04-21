@@ -1,0 +1,1 @@
+{"tmdb_id": 568783, "title": "Telepattes", "original_title": "Telepattes", "slug_title": "telepattes", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

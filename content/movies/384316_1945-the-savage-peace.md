@@ -1,0 +1,1 @@
+{"tmdb_id": 384316, "title": "1945: The Savage Peace", "original_title": "1945: The Savage Peace", "slug_title": "1945-the-savage-peace", "date": "2015-05-24", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vEogFuYXRwh4u4d5GSk2QXPR2I2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 205619, "title": "I Love Alaska", "original_title": "I Love Alaska", "slug_title": "i-love-alaska", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzLma0PPbDp6IVA0tSc2Y9pjU7A.jpg", "actors": ["Mary C. McKitrick (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310244, "title": "Alexander Nevsky: Prokofiev", "original_title": "Alexander Nevsky: Prokofiev", "slug_title": "alexander-nevsky-prokofiev", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

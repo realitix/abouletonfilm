@@ -1,0 +1,1 @@
+{"tmdb_id": 271562, "title": "Dirty Energy", "original_title": "Dirty Energy", "slug_title": "dirty-energy", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMiC4XjhXwg71nCErRUWsG7WTs7.jpg", "actors": [], "comments": [], "recommandations_id": []}

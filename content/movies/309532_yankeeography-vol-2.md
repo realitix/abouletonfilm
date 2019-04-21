@@ -1,0 +1,1 @@
+{"tmdb_id": 309532, "title": "Yankeeography: Vol. 2", "original_title": "Yankeeography: Vol. 2", "slug_title": "yankeeography-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

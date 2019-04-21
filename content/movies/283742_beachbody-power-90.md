@@ -1,0 +1,1 @@
+{"tmdb_id": 283742, "title": "Beachbody Power 90", "original_title": "Beachbody Power 90", "slug_title": "beachbody-power-90", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPrVlh9ipIvP3WCODbx7YXmrbpg.jpg", "actors": [], "comments": [], "recommandations_id": []}

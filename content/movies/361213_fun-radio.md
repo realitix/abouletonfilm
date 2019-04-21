@@ -1,0 +1,1 @@
+{"tmdb_id": 361213, "title": "Fun Radio", "original_title": "Fun Radio", "slug_title": "fun-radio", "date": "1964-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

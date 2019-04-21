@@ -1,0 +1,1 @@
+{"tmdb_id": 504522, "title": "Dear Dad, Love Maria", "original_title": "Dear Dad, Love Maria", "slug_title": "dear-dad-love-maria", "date": "", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalie Cake (Maria (Narration))"], "comments": [], "recommandations_id": []}

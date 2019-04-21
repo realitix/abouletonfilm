@@ -1,0 +1,1 @@
+{"tmdb_id": 403172, "title": "La Le\u00e7on", "original_title": "La Le\u00e7on", "slug_title": "la-lecon", "date": "1925-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

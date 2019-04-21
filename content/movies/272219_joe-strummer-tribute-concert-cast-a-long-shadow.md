@@ -1,0 +1,1 @@
+{"tmdb_id": 272219, "title": "Joe Strummer Tribute Concert: Cast a Long Shadow", "original_title": "Joe Strummer Tribute Concert: Cast a Long Shadow", "slug_title": "joe-strummer-tribute-concert-cast-a-long-shadow", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 507991, "title": "Moli trifft... Vol. 2", "original_title": "Moli trifft... Vol. 2", "slug_title": "moli-trifft-vol-2", "date": "2010-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6iB2KGUy1vnlBmOfj1BTwU0REy.jpg", "actors": ["Mia Magma (Mia Magma)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 251633, "title": "Kiki of Montparnasse", "original_title": "Mademoiselle Kiki de Montparnasse", "slug_title": "kiki-of-montparnasse", "date": "2012-07-21", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQklfRzNQ0rpOsFgcA7vWoP464w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326889, "title": "Mann & Frau & Animal", "original_title": "Mann & Frau & Animal", "slug_title": "mann-frau-animal", "date": "1973-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOxd36dxIL3KYx9IxBkYt0zmAwu.jpg", "actors": ["Valie Export ()"], "comments": [], "recommandations_id": []}

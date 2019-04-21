@@ -1,0 +1,1 @@
+{"tmdb_id": 340820, "title": "Lessons in Love", "original_title": "Lessons in Love", "slug_title": "lessons-in-love", "date": "2013-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

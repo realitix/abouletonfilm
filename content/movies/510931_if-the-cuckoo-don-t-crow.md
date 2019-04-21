@@ -1,0 +1,1 @@
+{"tmdb_id": 510931, "title": "If the Cuckoo Don't Crow", "original_title": "If the Cuckoo Don't Crow", "slug_title": "if-the-cuckoo-don-t-crow", "date": "2015-06-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Pandolfi ()"], "comments": [], "recommandations_id": []}

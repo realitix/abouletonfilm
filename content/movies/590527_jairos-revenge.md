@@ -1,0 +1,1 @@
+{"tmdb_id": 590527, "title": "Jairo\u2019s Revenge", "original_title": "La venganza de Jairo", "slug_title": "jairos-revenge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jairo Pinilla ()", "Valentina G\u00f3mez ()", "Ciro Guerra ()", "Luis Ospina ()"], "comments": [], "recommandations_id": []}

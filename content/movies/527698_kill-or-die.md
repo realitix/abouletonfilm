@@ -1,0 +1,1 @@
+{"tmdb_id": 527698, "title": "Kill or Die", "original_title": "Kill or Die", "slug_title": "kill-or-die", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

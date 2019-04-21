@@ -1,0 +1,1 @@
+{"tmdb_id": 176880, "title": "1 Rosa e 4 Espinhos", "original_title": "1 Rosa e 4 Espinhos", "slug_title": "1-rosa-e-4-espinhos", "date": "2012-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efWqAjlEXIhUDAvhKXXNU209uYf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486019, "title": "\u00bfLo sabe el ministro?", "original_title": "\u00bfLo sabe el ministro?", "slug_title": "lo-sabe-el-ministro", "date": "1991-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

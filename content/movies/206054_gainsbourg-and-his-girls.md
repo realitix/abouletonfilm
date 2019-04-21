@@ -1,0 +1,1 @@
+{"tmdb_id": 206054, "title": "Gainsbourg and His Girls", "original_title": "Gainsbourg and His Girls", "slug_title": "gainsbourg-and-his-girls", "date": "2010-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

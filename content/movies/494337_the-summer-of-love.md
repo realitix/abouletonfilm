@@ -1,0 +1,1 @@
+{"tmdb_id": 494337, "title": "The Summer of Love", "original_title": "The Summer of Love", "slug_title": "the-summer-of-love", "date": "2017-07-01", "genre": "Documentaire / Histoire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zU5dz5U4K930JQ0ogga8C2Ba5yS.jpg", "actors": [], "comments": [], "recommandations_id": []}

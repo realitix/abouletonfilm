@@ -1,0 +1,1 @@
+{"tmdb_id": 569966, "title": "The Hard Way", "original_title": "The Hard Way", "slug_title": "the-hard-way", "date": "2013-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6z8SCTQ1cEOIsssHVs8ty5waMpI.jpg", "actors": ["Karl Shiels (Brendan)", "Se\u00e1na Kerslake (Katy)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408902, "title": "Half-Life in Fukushima", "original_title": "Demi-vie \u00e0 Fukushima", "slug_title": "half-life-in-fukushima", "date": "2016-06-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vh1XzXrkYtnRki81Bjc6PwBp4vB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531584, "title": "The Candykillers", "original_title": "The Candykillers", "slug_title": "the-candykillers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

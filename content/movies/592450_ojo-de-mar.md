@@ -1,0 +1,1 @@
+{"tmdb_id": 592450, "title": "Ojo de mar", "original_title": "Ojo de mar", "slug_title": "ojo-de-mar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudencio Labra ()", "Aladino Merino ()", "Amada de Merino ()", "Jose Fuentes ()", "Guillermo Vallejos ()"], "comments": [], "recommandations_id": []}

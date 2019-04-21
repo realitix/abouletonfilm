@@ -1,0 +1,1 @@
+{"tmdb_id": 419731, "title": "Reengineering SAM", "original_title": "Reengineering SAM", "slug_title": "reengineering-sam", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

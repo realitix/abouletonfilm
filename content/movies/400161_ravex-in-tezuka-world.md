@@ -1,0 +1,1 @@
+{"tmdb_id": 400161, "title": "Ravex In Tezuka World", "original_title": "Ravex In Tezuka World", "slug_title": "ravex-in-tezuka-world", "date": "2009-04-24", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1aXZMqNnaTieQuA8GKFOlFFQXAK.jpg", "actors": [], "comments": [], "recommandations_id": []}

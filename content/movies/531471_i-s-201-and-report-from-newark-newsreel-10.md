@@ -1,0 +1,1 @@
+{"tmdb_id": 531471, "title": "I.S. 201 and Report from Newark (Newsreel #10)", "original_title": "I.S. 201 and Report from Newark (Newsreel #10)", "slug_title": "i-s-201-and-report-from-newark-newsreel-10", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 131686, "title": "Cartoon Superstars", "original_title": "Cartoon Superstars", "slug_title": "cartoon-superstars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

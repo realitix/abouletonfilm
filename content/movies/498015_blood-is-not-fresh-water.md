@@ -1,0 +1,1 @@
+{"tmdb_id": 498015, "title": "Blood is Not Fresh Water", "original_title": "Blood is Not Fresh Water", "slug_title": "blood-is-not-fresh-water", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhXOf7mSve4c1agXEmFhm59ojoM.jpg", "actors": [], "comments": [], "recommandations_id": []}

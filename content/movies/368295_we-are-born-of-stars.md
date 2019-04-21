@@ -1,0 +1,1 @@
+{"tmdb_id": 368295, "title": "We are born of stars", "original_title": "We are born of stars", "slug_title": "we-are-born-of-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

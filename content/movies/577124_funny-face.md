@@ -1,0 +1,1 @@
+{"tmdb_id": 577124, "title": "Funny Face", "original_title": "Funny Face", "slug_title": "funny-face", "date": "1927-01-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Malcolm Sebastian (Big Boy)", "Jack McHugh ()", "Bonnie Barrett ()", "Henry 'Hy' Mayer ()"], "comments": [], "recommandations_id": []}

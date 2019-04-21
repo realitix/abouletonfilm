@@ -1,0 +1,1 @@
+{"tmdb_id": 298222, "title": "My Pale Lover", "original_title": "\u60c5\u96e3\u81ea\u5236", "slug_title": "my-pale-lover", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9TpkpeH3tPsww2IHn0PqI2Cnmd.jpg", "actors": ["Yvonne Yung Hung (Mu Gwai (Rose))"], "comments": [], "recommandations_id": []}

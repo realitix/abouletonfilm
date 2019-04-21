@@ -1,0 +1,1 @@
+{"tmdb_id": 402870, "title": "All Orientals Look the Same", "original_title": "All Orientals Look the Same", "slug_title": "all-orientals-look-the-same", "date": "1987-06-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 338948, "title": "Knight Rider Heroes", "original_title": "Knight Rider Heroes", "slug_title": "knight-rider-heroes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 232315, "title": "Vasool Raja", "original_title": "Vasool Raja", "slug_title": "vasool-raja", "date": "2013-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrgWYQJlrKTXBZBJGkB7l7TUtNr.jpg", "actors": ["Navdeep ()", "Ritu Bharmecha (Jannu)"], "comments": [], "recommandations_id": []}

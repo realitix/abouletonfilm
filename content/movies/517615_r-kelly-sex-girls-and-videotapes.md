@@ -1,0 +1,1 @@
+{"tmdb_id": 517615, "title": "R Kelly: Sex, Girls and Videotapes", "original_title": "R Kelly: Sex, Girls and Videotapes", "slug_title": "r-kelly-sex-girls-and-videotapes", "date": "2018-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

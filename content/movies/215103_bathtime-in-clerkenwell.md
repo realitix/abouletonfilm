@@ -1,0 +1,1 @@
+{"tmdb_id": 215103, "title": "Bathtime in Clerkenwell", "original_title": "Bathtime in Clerkenwell", "slug_title": "bathtime-in-clerkenwell", "date": "2002-09-17", "genre": "Animation / Musique", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJ9JikF5qg5EOO8llX3aUaHDSTL.jpg", "actors": [], "comments": [], "recommandations_id": []}

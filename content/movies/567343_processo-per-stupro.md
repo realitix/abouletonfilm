@@ -1,0 +1,1 @@
+{"tmdb_id": 567343, "title": "Processo per stupro", "original_title": "Processo per stupro", "slug_title": "processo-per-stupro", "date": "1979-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQlREl963D8Z9LInzZBACWU8upp.jpg", "actors": [], "comments": [], "recommandations_id": []}

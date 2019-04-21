@@ -1,0 +1,1 @@
+{"tmdb_id": 294291, "title": "Englewood: The Growing Pains in Chicago", "original_title": "Englewood: The Growing Pains in Chicago", "slug_title": "englewood-the-growing-pains-in-chicago", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

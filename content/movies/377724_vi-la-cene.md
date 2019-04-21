@@ -1,0 +1,1 @@
+{"tmdb_id": 377724, "title": "VI. La c\u00e8ne", "original_title": "VI. La c\u00e8ne", "slug_title": "vi-la-cene", "date": "1897-01-01", "genre": "Histoire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hyB44Otgi9kyptXsUGlteaZaaUS.jpg", "actors": [], "comments": [], "recommandations_id": []}

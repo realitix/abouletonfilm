@@ -1,0 +1,1 @@
+{"tmdb_id": 452826, "title": "Buffalo Forever", "original_title": "Buffalo Forever", "slug_title": "buffalo-forever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 92704, "title": "Up Syndrome", "original_title": "Up Syndrome", "slug_title": "up-syndrome", "date": "2000-09-14", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Xyln4AgYY5FLqNzrkn4Gw6E6QI.jpg", "actors": ["Rene Moreno (Himself)"], "comments": [], "recommandations_id": []}

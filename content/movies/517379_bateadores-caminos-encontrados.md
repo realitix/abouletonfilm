@@ -1,0 +1,1 @@
+{"tmdb_id": 517379, "title": "Bateadores: Caminos encontrados", "original_title": "Bateadores: Caminos encontrados", "slug_title": "bateadores-caminos-encontrados", "date": "2001-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aAcyWhr3W9hS9cjedaYSPHCGrlS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 50367, "title": "Jethro: I Told It My Way", "original_title": "Jethro: I Told It My Way", "slug_title": "jethro-i-told-it-my-way", "date": "2010-11-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sPLxX5wn52sfRCIxbA7cvotYKoW.jpg", "actors": [], "comments": [], "recommandations_id": []}

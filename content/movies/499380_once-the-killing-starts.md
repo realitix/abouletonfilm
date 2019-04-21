@@ -1,0 +1,1 @@
+{"tmdb_id": 499380, "title": "Once the Killing Starts", "original_title": "Once the Killing Starts", "slug_title": "once-the-killing-starts", "date": "1974-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

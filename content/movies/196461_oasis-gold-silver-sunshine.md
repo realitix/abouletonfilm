@@ -1,0 +1,1 @@
+{"tmdb_id": 196461, "title": "Oasis: Gold & Silver & Sunshine", "original_title": "Oasis: Gold & Silver & Sunshine", "slug_title": "oasis-gold-silver-sunshine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311398, "title": "Ruby: A Journey to Lose the First 100 Lbs.", "original_title": "Ruby: A Journey to Lose the First 100 Lbs.", "slug_title": "ruby-a-journey-to-lose-the-first-100-lbs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

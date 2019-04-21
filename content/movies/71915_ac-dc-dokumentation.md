@@ -1,0 +1,1 @@
+{"tmdb_id": 71915, "title": "AC/DC - Dokumentation", "original_title": "AC/DC - Dokumentation", "slug_title": "ac-dc-dokumentation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFW13iSDybbAKN29aKN56AE9eLL.jpg", "actors": [], "comments": [], "recommandations_id": []}

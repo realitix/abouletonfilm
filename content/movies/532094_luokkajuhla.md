@@ -1,0 +1,1 @@
+{"tmdb_id": 532094, "title": "Luokkajuhla", "original_title": "Luokkajuhla", "slug_title": "luokkajuhla", "date": "2002-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mika Silvennoinen (Taneli)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 515658, "title": "Balancing Factor", "original_title": "Balancing Factor", "slug_title": "balancing-factor", "date": "1993-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

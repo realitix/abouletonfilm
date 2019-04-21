@@ -1,0 +1,1 @@
+{"tmdb_id": 398162, "title": "ECW As Good as it Gets", "original_title": "ECW As Good as it Gets", "slug_title": "ecw-as-good-as-it-gets", "date": "1997-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gptLwNyqtLOc7jjLNgeGr4F3VL3.jpg", "actors": [], "comments": [], "recommandations_id": []}

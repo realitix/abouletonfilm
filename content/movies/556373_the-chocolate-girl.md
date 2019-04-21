@@ -1,0 +1,1 @@
+{"tmdb_id": 556373, "title": "The Chocolate Girl", "original_title": "La petite chocolati\u00e8re", "slug_title": "the-chocolate-girl", "date": "1927-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

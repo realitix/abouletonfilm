@@ -1,0 +1,1 @@
+{"tmdb_id": 494145, "title": "Viva o Cinema!", "original_title": "Viva o Cinema!", "slug_title": "viva-o-cinema", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zcloqWxWSOA0iZTzNsjFrCoSOuL.jpg", "actors": [], "comments": [], "recommandations_id": []}

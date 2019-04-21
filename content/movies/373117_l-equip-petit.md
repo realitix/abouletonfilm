@@ -1,0 +1,1 @@
+{"tmdb_id": 373117, "title": "L'equip Petit", "original_title": "L'equip Petit", "slug_title": "l-equip-petit", "date": "2012-07-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q57neLkHdjnVPvT8HPyOvVdensw.jpg", "actors": [], "comments": [], "recommandations_id": [85802, 125153, 47451]}

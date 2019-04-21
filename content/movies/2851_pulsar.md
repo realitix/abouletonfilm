@@ -1,0 +1,1 @@
+{"tmdb_id": 2851, "title": "Pulsar", "original_title": "Pulsar", "slug_title": "pulsar", "date": "2005-10-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claudia Falco (Anna 2)", "Sandra Pohl (Anna 1)", "Andre Schneider (Er)"], "comments": [], "recommandations_id": []}

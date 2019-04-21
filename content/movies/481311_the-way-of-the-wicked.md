@@ -1,0 +1,1 @@
+{"tmdb_id": 481311, "title": "The Way of the Wicked", "original_title": "The Way of the Wicked", "slug_title": "the-way-of-the-wicked", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoLHMbLZuUeNsTqwYMuB5sO08zA.jpg", "actors": [], "comments": [], "recommandations_id": []}

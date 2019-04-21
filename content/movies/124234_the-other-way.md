@@ -1,0 +1,1 @@
+{"tmdb_id": 124234, "title": "The Other Way", "original_title": "The Other Way", "slug_title": "the-other-way", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 50113, "title": "Malice@Doll", "original_title": "Malice@Doll", "slug_title": "malice-doll", "date": "2004-10-29", "genre": "Animation", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccYzAH34XRkxYPZ8Tl3CNX1lb7w.jpg", "actors": [], "comments": [], "recommandations_id": []}

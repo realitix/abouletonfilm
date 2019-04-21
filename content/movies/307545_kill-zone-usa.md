@@ -1,0 +1,1 @@
+{"tmdb_id": 307545, "title": "Kill Zone USA", "original_title": "Kill Zone USA", "slug_title": "kill-zone-usa", "date": "2014-12-02", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/roRkZAAAu2HgG534393k0qmq8Ia.jpg", "actors": [], "comments": [], "recommandations_id": []}

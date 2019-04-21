@@ -1,0 +1,1 @@
+{"tmdb_id": 538837, "title": "Tarja Turunen: Act II", "original_title": "Tarja Turunen: Act II", "slug_title": "tarja-turunen-act-ii", "date": "2018-07-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddk2ofz174g1WvpcAJdJdvVQp1F.jpg", "actors": ["Tarja Turunen (Herself)"], "comments": [], "recommandations_id": []}

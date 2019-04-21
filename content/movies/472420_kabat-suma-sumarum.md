@@ -1,0 +1,1 @@
+{"tmdb_id": 472420, "title": "Kab\u00e1t - Suma Sum\u00e1rum", "original_title": "Kab\u00e1t - Suma Sum\u00e1rum", "slug_title": "kabat-suma-sumarum", "date": "2002-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qvdu0M4PaM8WYLRGAQckYemch4.jpg", "actors": [], "comments": [], "recommandations_id": []}

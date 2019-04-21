@@ -1,0 +1,1 @@
+{"tmdb_id": 548493, "title": "A History & The City", "original_title": "A History & The City", "slug_title": "a-history-the-city", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

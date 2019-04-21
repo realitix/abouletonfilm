@@ -1,0 +1,1 @@
+{"tmdb_id": 223774, "title": "Congo Business Case", "original_title": "Congo Business Case", "slug_title": "congo-business-case", "date": "2013-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tuJqJkd26nblWhsAMQvFuTvDs37.jpg", "actors": [], "comments": [], "recommandations_id": []}

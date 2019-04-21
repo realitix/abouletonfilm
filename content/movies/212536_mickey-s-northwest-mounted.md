@@ -1,0 +1,1 @@
+{"tmdb_id": 212536, "title": "Mickey's Northwest Mounted", "original_title": "Mickey's Northwest Mounted", "slug_title": "mickey-s-northwest-mounted", "date": "1929-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mickey Rooney (Mickey McGuire)", "Delia Bogard ()"], "comments": [], "recommandations_id": []}

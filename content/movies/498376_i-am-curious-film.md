@@ -1,0 +1,1 @@
+{"tmdb_id": 498376, "title": "I Am Curious, Film", "original_title": "I Am Curious, Film", "slug_title": "i-am-curious-film", "date": "1995-10-28", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qug8qN13o8WI8t6wm61onAOJbF6.jpg", "actors": ["Lena Nyman (The Guide)"], "comments": [], "recommandations_id": []}

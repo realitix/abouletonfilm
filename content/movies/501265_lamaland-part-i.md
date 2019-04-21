@@ -1,0 +1,1 @@
+{"tmdb_id": 501265, "title": "Lamaland (Part I)", "original_title": "Lamaland (Teil I)", "slug_title": "lamaland-part-i", "date": "2018-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Friedrich Schweikhart ()", "Max Josef Schweikhart ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 418729, "title": "Dare to Love", "original_title": "Dare to Love", "slug_title": "dare-to-love", "date": "1995-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josie Bissett (Jessica Wells)", "Jason Gedrick (Patrick)", "James Sikking (Ron Wells)", "Chad Lowe (Stephen)"], "comments": [], "recommandations_id": []}

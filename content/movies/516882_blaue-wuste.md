@@ -1,0 +1,1 @@
+{"tmdb_id": 516882, "title": "Blaue W\u00fcste", "original_title": "Blaue W\u00fcste", "slug_title": "blaue-wuste", "date": "1992-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

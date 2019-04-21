@@ -1,0 +1,1 @@
+{"tmdb_id": 495915, "title": "My Darling Clementine", "original_title": "Drahou\u0161ek Klementina", "slug_title": "my-darling-clementine", "date": "1959-01-02", "genre": "Familial / Animation / Com\u00e9die / Western / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudolf Pellar (Narrator)"], "comments": [], "recommandations_id": []}

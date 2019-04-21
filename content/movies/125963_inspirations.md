@@ -1,0 +1,1 @@
+{"tmdb_id": 125963, "title": "Inspirations", "original_title": "Inspirations", "slug_title": "inspirations", "date": "1997-09-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGbBW3iIawKjBdlfN5ujwKL3cH1.jpg", "actors": [], "comments": [], "recommandations_id": []}

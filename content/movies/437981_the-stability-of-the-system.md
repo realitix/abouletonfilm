@@ -1,0 +1,1 @@
+{"tmdb_id": 437981, "title": "THE STABILITY OF THE SYSTEM", "original_title": "THE STABILITY OF THE SYSTEM", "slug_title": "the-stability-of-the-system", "date": "2016-12-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/updARVpMNCGVQehclfc7bhHTQ8g.jpg", "actors": [], "comments": [], "recommandations_id": []}

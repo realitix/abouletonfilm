@@ -1,0 +1,1 @@
+{"tmdb_id": 411032, "title": "Libert\u00e9 et contrainte", "original_title": "Libert\u00e9 et contrainte", "slug_title": "liberte-et-contrainte", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wc5hh1NoTV6dgAu9PFYUTSsd0Py.jpg", "actors": [], "comments": [], "recommandations_id": []}

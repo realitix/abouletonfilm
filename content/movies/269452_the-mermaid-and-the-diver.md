@@ -1,0 +1,1 @@
+{"tmdb_id": 269452, "title": "The Mermaid and the Diver", "original_title": "La sirena y el buzo", "slug_title": "the-mermaid-and-the-diver", "date": "2009-03-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QvoTj9dRGKY7hwwSN0jIaFbf8a.jpg", "actors": [], "comments": [], "recommandations_id": []}

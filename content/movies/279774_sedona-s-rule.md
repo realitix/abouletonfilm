@@ -1,0 +1,1 @@
+{"tmdb_id": 279774, "title": "Sedona's Rule", "original_title": "Sedona's Rule", "slug_title": "sedona-s-rule", "date": "2010-11-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eezl6951dE7kh5X2fEbRI7XQ9X5.jpg", "actors": [], "comments": [], "recommandations_id": []}

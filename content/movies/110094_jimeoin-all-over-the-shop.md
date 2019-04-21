@@ -1,0 +1,1 @@
+{"tmdb_id": 110094, "title": "Jimeoin: All Over The Shop", "original_title": "Jimeoin: All Over The Shop", "slug_title": "jimeoin-all-over-the-shop", "date": "2003-03-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/luKjkLV0Q7rk7549JL1HuQdUcNe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 472125, "title": "Dynasty Whitewater Kayaking", "original_title": "Dynasty Whitewater Kayaking", "slug_title": "dynasty-whitewater-kayaking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwBLBkwf2rmkSjtnJ4LqHBHaj7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

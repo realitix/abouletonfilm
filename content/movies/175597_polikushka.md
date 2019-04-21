@@ -1,0 +1,1 @@
+{"tmdb_id": 175597, "title": "Polikushka", "original_title": "Polikushka", "slug_title": "polikushka", "date": "1922-10-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grLI3ogjArTB7eRYADndgtY4huR.jpg", "actors": [], "comments": [], "recommandations_id": []}

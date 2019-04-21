@@ -1,0 +1,1 @@
+{"tmdb_id": 254859, "title": "West of Elvis", "original_title": "West of Elvis", "slug_title": "west-of-elvis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

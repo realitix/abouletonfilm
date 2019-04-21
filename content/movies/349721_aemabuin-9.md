@@ -1,0 +1,1 @@
+{"tmdb_id": 349721, "title": "\uc560\ub9c8\ubd80\uc778 9", "original_title": "\uc560\ub9c8\ubd80\uc778 9", "slug_title": "aemabuin-9", "date": "1993-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

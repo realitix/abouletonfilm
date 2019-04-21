@@ -1,0 +1,1 @@
+{"tmdb_id": 337585, "title": "Turbo Jam: Learn & Burn", "original_title": "Turbo Jam: Learn & Burn", "slug_title": "turbo-jam-learn-burn", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPe1jGkVEbLfJxGudkOKPN19vWA.jpg", "actors": [], "comments": [], "recommandations_id": []}

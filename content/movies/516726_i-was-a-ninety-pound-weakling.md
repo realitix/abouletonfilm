@@ -1,0 +1,1 @@
+{"tmdb_id": 516726, "title": "I Was a Ninety-pound Weakling", "original_title": "I Was a Ninety-pound Weakling", "slug_title": "i-was-a-ninety-pound-weakling", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

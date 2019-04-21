@@ -1,0 +1,1 @@
+{"tmdb_id": 332637, "title": "Samoa Joe Vs. CM Punk", "original_title": "Samoa Joe Vs. CM Punk", "slug_title": "samoa-joe-vs-cm-punk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1rsO9xpf0JKEV7zQiTKrljuUzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 174721, "title": "Broder Daniel: Army of Dreamers", "original_title": "Broder Daniel: Army of Dreamers", "slug_title": "broder-daniel-army-of-dreamers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e0WfyOH3Wf4hgRoQpJuEADrKilb.jpg", "actors": [], "comments": [], "recommandations_id": []}

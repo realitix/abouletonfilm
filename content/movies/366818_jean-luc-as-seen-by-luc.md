@@ -1,0 +1,1 @@
+{"tmdb_id": 366818, "title": "Jean-Luc as Seen by Luc", "original_title": "Jean-Luc selon Luc", "slug_title": "jean-luc-as-seen-by-luc", "date": "2006-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPnp1oyNMV0MGxRh7wDRNPCNBji.jpg", "actors": [], "comments": [], "recommandations_id": []}

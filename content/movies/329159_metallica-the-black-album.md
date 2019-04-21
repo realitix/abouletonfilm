@@ -1,0 +1,1 @@
+{"tmdb_id": 329159, "title": "Metallica: The Black Album", "original_title": "Metallica: The Black Album", "slug_title": "metallica-the-black-album", "date": "2001-01-06", "genre": "Musique", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yubqPK6U6OAnyBEdkb4qJJU8C0g.jpg", "actors": [], "comments": [], "recommandations_id": []}

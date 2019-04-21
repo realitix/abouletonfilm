@@ -1,0 +1,1 @@
+{"tmdb_id": 591562, "title": "Life According to Penny", "original_title": "Life According to Penny", "slug_title": "life-according-to-penny", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

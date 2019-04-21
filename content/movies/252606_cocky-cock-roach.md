@@ -1,0 +1,1 @@
+{"tmdb_id": 252606, "title": "Cocky Cock Roach", "original_title": "Cocky Cock Roach", "slug_title": "cocky-cock-roach", "date": "1932-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

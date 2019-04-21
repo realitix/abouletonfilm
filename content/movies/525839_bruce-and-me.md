@@ -1,0 +1,1 @@
+{"tmdb_id": 525839, "title": "Bruce and Me", "original_title": "Bruce and Me", "slug_title": "bruce-and-me", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oren Siedler (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 148417, "title": "Jacqueline du Pre In Portrait", "original_title": "Jacqueline du Pre In Portrait", "slug_title": "jacqueline-du-pre-in-portrait", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzgMYz5cZihOYNW2vtVxjNZuFS4.jpg", "actors": [], "comments": [], "recommandations_id": []}

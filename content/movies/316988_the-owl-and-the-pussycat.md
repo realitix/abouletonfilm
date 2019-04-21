@@ -1,0 +1,1 @@
+{"tmdb_id": 316988, "title": "The Owl And The Pussycat", "original_title": "The Owl And The Pussycat", "slug_title": "the-owl-and-the-pussycat", "date": "1952-01-01", "genre": "Musique / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTu3R2LLUJdL0TCzoDwrxp1Z9CJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

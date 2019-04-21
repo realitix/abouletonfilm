@@ -1,0 +1,1 @@
+{"tmdb_id": 446195, "title": "The Books of Ed Ruscha", "original_title": "The Books of Ed Ruscha", "slug_title": "the-books-of-ed-ruscha", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mason Williams (Self)"], "comments": [], "recommandations_id": []}

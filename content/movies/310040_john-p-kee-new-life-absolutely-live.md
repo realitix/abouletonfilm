@@ -1,0 +1,1 @@
+{"tmdb_id": 310040, "title": "John P. Kee & New Life: Absolutely Live!", "original_title": "John P. Kee & New Life: Absolutely Live!", "slug_title": "john-p-kee-new-life-absolutely-live", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

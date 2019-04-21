@@ -1,0 +1,1 @@
+{"tmdb_id": 167162, "title": "Slumdog Children of Mumbai", "original_title": "Slumdog Children of Mumbai", "slug_title": "slumdog-children-of-mumbai", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qcdddYU7zchKuY9hmgc8vtgH8Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

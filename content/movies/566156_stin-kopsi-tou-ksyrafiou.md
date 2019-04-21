@@ -1,0 +1,1 @@
+{"tmdb_id": 566156, "title": "Stin kopsi tou ksyrafiou", "original_title": "Stin kopsi tou ksyrafiou", "slug_title": "stin-kopsi-tou-ksyrafiou", "date": "2011-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gSAbSIxb0ZJj1MmB5EdkJmRyIQz.jpg", "actors": [], "comments": [], "recommandations_id": []}

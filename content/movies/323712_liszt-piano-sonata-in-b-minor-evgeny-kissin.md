@@ -1,0 +1,1 @@
+{"tmdb_id": 323712, "title": "Liszt, Piano Sonata in B minor - Evgeny Kissin", "original_title": "Liszt, Piano Sonata in B minor - Evgeny Kissin", "slug_title": "liszt-piano-sonata-in-b-minor-evgeny-kissin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

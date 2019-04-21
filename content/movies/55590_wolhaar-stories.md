@@ -1,0 +1,1 @@
+{"tmdb_id": 55590, "title": "Wolhaar Stories", "original_title": "Wolhaar Stories", "slug_title": "wolhaar-stories", "date": "1983-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrb8tCoD7MaCWxLIRm4uMYOHdXW.jpg", "actors": [], "comments": [], "recommandations_id": []}

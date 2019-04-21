@@ -1,0 +1,1 @@
+{"tmdb_id": 282959, "title": "Black Killer", "original_title": "\u0e40\u0e1e\u0e0a\u0e0c\u0e06\u0e32\u0e15\u0e14\u0e33", "slug_title": "black-killer", "date": "1990-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Panna Rittikrai ()", "Bin Bunluerit ()"], "comments": [], "recommandations_id": []}

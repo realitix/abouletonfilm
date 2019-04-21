@@ -1,0 +1,1 @@
+{"tmdb_id": 60336, "title": "Bellator 20", "original_title": "Bellator 20", "slug_title": "bellator-20", "date": "2010-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJ5ssOKfTXRjSdIbryF55YFzEgU.jpg", "actors": [], "comments": [], "recommandations_id": []}

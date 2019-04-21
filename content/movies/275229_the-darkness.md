@@ -1,0 +1,1 @@
+{"tmdb_id": 275229, "title": "The Darkness", "original_title": "Las Tinieblas", "slug_title": "the-darkness", "date": "2016-09-07", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/obJ3NjjetaOUThOJJijVmtFhBJd.jpg", "actors": ["Brontis Jodorowsky ()"], "comments": [], "recommandations_id": []}

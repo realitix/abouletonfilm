@@ -1,0 +1,1 @@
+{"tmdb_id": 93083, "title": "Sareng Bou", "original_title": "Sareng Bou", "slug_title": "sareng-bou", "date": "1978-01-01", "genre": "Drame / Romance", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Faruk ()", "Ariful Haque ()", "Kabori ()", "Abdul Kader ()", "Shuja Khondokar ()"], "comments": [], "recommandations_id": []}

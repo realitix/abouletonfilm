@@ -1,0 +1,1 @@
+{"tmdb_id": 584312, "title": "Der amerikanische Traum", "original_title": "Der amerikanische Traum", "slug_title": "der-amerikanische-traum", "date": "1962-02-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lu S\u00e4uberlich (Mammi)", "Edith Teichmann (Frau Barker)"], "comments": [], "recommandations_id": []}

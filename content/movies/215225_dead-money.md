@@ -1,0 +1,1 @@
+{"tmdb_id": 215225, "title": "Dead Money", "original_title": "Dead Money", "slug_title": "dead-money", "date": "2012-01-13", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

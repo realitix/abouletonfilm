@@ -1,0 +1,1 @@
+{"tmdb_id": 313459, "title": "Murphy's Law: Up with Us, Down with Them", "original_title": "Murphy's Law: Up with Us, Down with Them", "slug_title": "murphy-s-law-up-with-us-down-with-them", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

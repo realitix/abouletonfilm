@@ -1,0 +1,1 @@
+{"tmdb_id": 193921, "title": "Le bolle di sapone", "original_title": "Le bolle di sapone", "slug_title": "le-bolle-di-sapone", "date": "1911-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 128528, "title": "Alberto Olmedo: 20 a\u00f1os sin el negro", "original_title": "Alberto Olmedo: 20 a\u00f1os sin el negro", "slug_title": "alberto-olmedo-20-anos-sin-el-negro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

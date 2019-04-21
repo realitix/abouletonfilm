@@ -1,0 +1,1 @@
+{"tmdb_id": 575416, "title": "Driving Bill Crazy", "original_title": "Driving Bill Crazy", "slug_title": "driving-bill-crazy", "date": "2008-11-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cyvKMOntE4OOSRfPrEHKOBdRvU7.jpg", "actors": [], "comments": [], "recommandations_id": []}

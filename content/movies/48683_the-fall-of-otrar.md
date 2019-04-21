@@ -1,0 +1,1 @@
+{"tmdb_id": 48683, "title": "The Fall of Otrar", "original_title": "Gibel Otrara", "slug_title": "the-fall-of-otrar", "date": "1991-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tH7k1XaRa73LAVJE7gnUv5BmRb0.jpg", "actors": [], "comments": [], "recommandations_id": []}

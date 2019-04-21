@@ -1,0 +1,1 @@
+{"tmdb_id": 397166, "title": "Ultimate Armored Car: The Presidential Beast", "original_title": "Ultimate Armored Car: The Presidential Beast", "slug_title": "ultimate-armored-car-the-presidential-beast", "date": "2012-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 293598, "title": "The Mirror", "original_title": "The Mirror", "slug_title": "the-mirror", "date": "2013-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

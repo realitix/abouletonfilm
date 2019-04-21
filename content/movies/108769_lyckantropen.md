@@ -1,0 +1,1 @@
+{"tmdb_id": 108769, "title": "Lyckantropen", "original_title": "Lyckantropen", "slug_title": "lyckantropen", "date": "2002-08-31", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9o13HPocxB9Nb6z2qW2hwJBpCDl.jpg", "actors": [], "comments": [], "recommandations_id": []}

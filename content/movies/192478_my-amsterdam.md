@@ -1,0 +1,1 @@
+{"tmdb_id": 192478, "title": "My Amsterdam", "original_title": "My Amsterdam", "slug_title": "my-amsterdam", "date": "2005-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aV7xm3KfSawdV4EFMPTiLXxdSTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

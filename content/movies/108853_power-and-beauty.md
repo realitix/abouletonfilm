@@ -1,0 +1,1 @@
+{"tmdb_id": 108853, "title": "Power and Beauty", "original_title": "Power and Beauty", "slug_title": "power-and-beauty", "date": "2002-07-21", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xi9Tk2hnuTV4VXQ02Gyvwfry3k.jpg", "actors": [], "comments": [], "recommandations_id": []}

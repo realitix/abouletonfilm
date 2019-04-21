@@ -1,0 +1,1 @@
+{"tmdb_id": 525385, "title": "ADD & Loving It?!", "original_title": "ADD & Loving It?!", "slug_title": "add-loving-it", "date": "2009-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcBhkIxyCKHcidT4D7kkmbYdOVe.jpg", "actors": ["Patrick McKenna ()", "Rick Green ()"], "comments": [], "recommandations_id": []}

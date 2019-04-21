@@ -1,0 +1,1 @@
+{"tmdb_id": 531467, "title": "M\u00e1s all\u00e1 de la violencia", "original_title": "M\u00e1s all\u00e1 de la violencia", "slug_title": "mas-alla-de-la-violencia", "date": "", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valent\u00edn Trujillo ()"], "comments": [], "recommandations_id": []}

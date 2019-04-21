@@ -1,0 +1,1 @@
+{"tmdb_id": 227590, "title": "Babyroussa the Babiroussa", "original_title": "Babyroussa the Babiroussa", "slug_title": "babyroussa-the-babiroussa", "date": "1993-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/otizmsED24HroIoT8RVpjlPByW8.jpg", "actors": [], "comments": [], "recommandations_id": []}

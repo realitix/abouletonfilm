@@ -1,0 +1,1 @@
+{"tmdb_id": 530863, "title": "Le dossier B", "original_title": "Le dossier B", "slug_title": "le-dossier-b", "date": "1995-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

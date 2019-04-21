@@ -1,0 +1,1 @@
+{"tmdb_id": 470124, "title": "The Yakoubian Building", "original_title": "The Yakoubian Building", "slug_title": "the-yakoubian-building", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

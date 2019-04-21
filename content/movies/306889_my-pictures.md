@@ -1,0 +1,1 @@
+{"tmdb_id": 306889, "title": "My Pictures", "original_title": "Pattah Ko", "slug_title": "my-pictures", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Alexander Cristobal ()", "Jenny Pearl Bringas ()", "Maria Teresita Garcia ()"], "comments": [], "recommandations_id": []}

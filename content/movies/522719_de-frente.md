@@ -1,0 +1,1 @@
+{"tmdb_id": 522719, "title": "De Frente", "original_title": "De Frente", "slug_title": "de-frente", "date": "2016-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58ZGpwbP9JXjO55iwQfo3gmuJKI.jpg", "actors": ["Claudia Fesser ()", "Victor Rubio ()"], "comments": [], "recommandations_id": []}

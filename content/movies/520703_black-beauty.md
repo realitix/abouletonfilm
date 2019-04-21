@@ -1,0 +1,1 @@
+{"tmdb_id": 520703, "title": "Black Beauty", "original_title": "Black Beauty", "slug_title": "black-beauty", "date": "1933-04-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Esther Ralston (Leila Lambert)", "Gavin Gordon (Captain Jordan)"], "comments": [], "recommandations_id": []}

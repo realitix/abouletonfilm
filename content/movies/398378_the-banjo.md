@@ -1,0 +1,1 @@
+{"tmdb_id": 398378, "title": "The Banjo", "original_title": "El banjo", "slug_title": "the-banjo", "date": "2014-05-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTYCk5uYVHNz6CuxxSpdKoDnUj2.jpg", "actors": ["Eleazar Ortiz (Delmore)", "Cecilia Solaguren (Hester)"], "comments": [], "recommandations_id": []}

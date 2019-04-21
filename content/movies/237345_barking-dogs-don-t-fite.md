@@ -1,0 +1,1 @@
+{"tmdb_id": 237345, "title": "Barking Dogs Don't Fite", "original_title": "Barking Dogs Don't Fite", "slug_title": "barking-dogs-don-t-fite", "date": "1949-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

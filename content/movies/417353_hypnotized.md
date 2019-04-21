@@ -1,0 +1,1 @@
+{"tmdb_id": 417353, "title": "Hypnotized", "original_title": "Hypnotized", "slug_title": "hypnotized", "date": "1952-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Morrison (Little Roquefort (voice))"], "comments": [], "recommandations_id": []}

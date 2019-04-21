@@ -1,0 +1,1 @@
+{"tmdb_id": 184615, "title": "Buddy's Theatre", "original_title": "Buddy's Theatre", "slug_title": "buddy-s-theatre", "date": "1935-02-15", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sBFbTHsOPuUE6Z8Z0K8dJQ0gUVf.jpg", "actors": [], "comments": [], "recommandations_id": []}

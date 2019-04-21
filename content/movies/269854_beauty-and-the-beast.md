@@ -1,0 +1,1 @@
+{"tmdb_id": 269854, "title": "Beauty and the Beast", "original_title": "Beauty and the Beast", "slug_title": "beauty-and-the-beast", "date": "1992-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r72aWKva2Qncg1zNTGfrjYttaqD.jpg", "actors": [], "comments": [], "recommandations_id": []}

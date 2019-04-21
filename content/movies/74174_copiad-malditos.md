@@ -1,0 +1,1 @@
+{"tmdb_id": 74174, "title": "\u00a1Copiad, Malditos!", "original_title": "\u00a1Copiad, Malditos!", "slug_title": "copiad-malditos", "date": "2011-03-11", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMCoE4usNC4DYPQS7E303mea3vY.jpg", "actors": [], "comments": [], "recommandations_id": []}

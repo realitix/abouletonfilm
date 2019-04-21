@@ -1,0 +1,1 @@
+{"tmdb_id": 520906, "title": "Fist Plus Face", "original_title": "Fist Plus Face", "slug_title": "fist-plus-face", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbKIZ2craR5HE7JZvDp8BUnH8iY.jpg", "actors": [], "comments": [], "recommandations_id": []}

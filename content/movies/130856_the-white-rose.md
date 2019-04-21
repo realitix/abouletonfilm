@@ -1,0 +1,1 @@
+{"tmdb_id": 130856, "title": "The White Rose", "original_title": "The White Rose", "slug_title": "the-white-rose", "date": "1967-06-01", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIWUDmXQmCTeZQfg6JvxL1zRcMV.jpg", "actors": ["Jay DeFeo (Herself)"], "comments": [], "recommandations_id": []}

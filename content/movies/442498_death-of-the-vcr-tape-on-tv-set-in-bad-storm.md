@@ -1,0 +1,1 @@
+{"tmdb_id": 442498, "title": "Death of the VCR: Tape on TV Set in Bad Storm", "original_title": "Death of the VCR: Tape on TV Set in Bad Storm", "slug_title": "death-of-the-vcr-tape-on-tv-set-in-bad-storm", "date": "2016-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

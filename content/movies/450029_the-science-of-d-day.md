@@ -1,0 +1,1 @@
+{"tmdb_id": 450029, "title": "The Science of D-Day", "original_title": "The Science of D-Day", "slug_title": "the-science-of-d-day", "date": "2014-06-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Xmhw1GpsBFyfkKTz9xttRd21XY.jpg", "actors": [], "comments": [], "recommandations_id": []}

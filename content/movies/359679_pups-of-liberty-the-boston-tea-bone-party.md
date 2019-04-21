@@ -1,0 +1,1 @@
+{"tmdb_id": 359679, "title": "Pups of Liberty: The Boston Tea-Bone Party", "original_title": "Pups of Liberty: The Boston Tea-Bone Party", "slug_title": "pups-of-liberty-the-boston-tea-bone-party", "date": "2012-12-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

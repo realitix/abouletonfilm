@@ -1,0 +1,1 @@
+{"tmdb_id": 507200, "title": "Barbarians v All Blacks 1973", "original_title": "Barbarians v All Blacks 1973", "slug_title": "barbarians-v-all-blacks-1973", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvE5yhqCv6dI5sOLuz36tHHCbB8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 40525, "title": "Dog Tax Dodgers", "original_title": "Dog Tax Dodgers", "slug_title": "dog-tax-dodgers", "date": "1948-11-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfcLMRW5wQsKgnu763hALu4Gzz3.jpg", "actors": [], "comments": [], "recommandations_id": []}

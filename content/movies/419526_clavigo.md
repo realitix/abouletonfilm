@@ -1,0 +1,1 @@
+{"tmdb_id": 419526, "title": "Clavigo", "original_title": "Clavigo", "slug_title": "clavigo", "date": "1978-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fcrgen Hentsch (Clavigo)", "Gudrun Ritter (Marie Beaumarchais)", "Eberhard Mellies (Guilbert)"], "comments": [], "recommandations_id": []}

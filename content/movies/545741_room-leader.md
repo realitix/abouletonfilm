@@ -1,0 +1,1 @@
+{"tmdb_id": 545741, "title": "Room Leader", "original_title": "\u30d8\u30e4\u30c1\u30e7\u30a6", "slug_title": "room-leader", "date": "2017-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Masaaki Uchino ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393598, "title": "THE ANIMALS", "original_title": "THE ANIMALS", "slug_title": "the-animals", "date": "2016-04-16", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Mentrup (Lou Mario)", "Kerstin Cmelka (Kerstin)"], "comments": [], "recommandations_id": []}

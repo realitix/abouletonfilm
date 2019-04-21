@@ -1,0 +1,1 @@
+{"tmdb_id": 307246, "title": "Vida Activa", "original_title": "Vida Activa", "slug_title": "vida-activa", "date": "2014-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/20bItS9apuC8aKRkGM3EFpJ6b5J.jpg", "actors": ["Maria Isabel Pereira, ()", "Jose Alberto Costa Galamba ()"], "comments": [], "recommandations_id": []}

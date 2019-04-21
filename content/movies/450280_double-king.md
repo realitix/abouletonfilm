@@ -1,0 +1,1 @@
+{"tmdb_id": 450280, "title": "Double King", "original_title": "Double King", "slug_title": "double-king", "date": "2017-04-02", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ve1tmFDUq4x1ZDCPMjfynFB5uL0.jpg", "actors": [], "comments": [], "recommandations_id": [380610, 489533]}

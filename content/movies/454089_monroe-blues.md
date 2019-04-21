@@ -1,0 +1,1 @@
+{"tmdb_id": 454089, "title": "Monroe Blues", "original_title": "Monroe Blues", "slug_title": "monroe-blues", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TiXORDdXKGNskp7KNWwq23TMGS.jpg", "actors": [], "comments": [], "recommandations_id": []}

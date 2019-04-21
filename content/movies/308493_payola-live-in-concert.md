@@ -1,0 +1,1 @@
+{"tmdb_id": 308493, "title": "Payola$: Live in Concert", "original_title": "Payola$: Live in Concert", "slug_title": "payola-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

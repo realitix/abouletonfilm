@@ -1,0 +1,1 @@
+{"tmdb_id": 321969, "title": "Robben Ford: New Morning: The Paris Concert", "original_title": "Robben Ford: New Morning: The Paris Concert", "slug_title": "robben-ford-new-morning-the-paris-concert", "date": "2005-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

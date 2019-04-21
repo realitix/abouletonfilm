@@ -1,0 +1,1 @@
+{"tmdb_id": 172580, "title": "Laksen i M\u00e5lselvfossen", "original_title": "Laksen i M\u00e5lselvfossen", "slug_title": "laksen-i-malselvfossen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHtr4E4wff5Q2cgQyhZdyVdbCmz.jpg", "actors": [], "comments": [], "recommandations_id": []}

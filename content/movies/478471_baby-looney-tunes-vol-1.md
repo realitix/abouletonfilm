@@ -1,0 +1,1 @@
+{"tmdb_id": 478471, "title": "Baby Looney Tunes Vol.1", "original_title": "Baby Looney Tunes Vol.1", "slug_title": "baby-looney-tunes-vol-1", "date": "", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l4zwrT27Ilkfl5DoxI5Hr4fBHBe.jpg", "actors": [], "comments": [], "recommandations_id": []}

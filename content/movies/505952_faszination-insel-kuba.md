@@ -1,0 +1,1 @@
+{"tmdb_id": 505952, "title": "Faszination Insel - Kuba", "original_title": "Faszination Insel - Kuba", "slug_title": "faszination-insel-kuba", "date": "2014-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yzMqF5x7f3qpVTUYpq5r1zaacmc.jpg", "actors": [], "comments": [], "recommandations_id": []}

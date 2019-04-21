@@ -1,0 +1,1 @@
+{"tmdb_id": 40515, "title": "Calling All Cuckoos", "original_title": "Calling All Cuckoos", "slug_title": "calling-all-cuckoos", "date": "1956-09-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jP80n3KZG2Hcs0xHd22aM334giu.jpg", "actors": [], "comments": [], "recommandations_id": []}

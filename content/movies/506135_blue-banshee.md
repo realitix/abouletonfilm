@@ -1,0 +1,1 @@
+{"tmdb_id": 506135, "title": "Blue Banshee", "original_title": "Blue Banshee", "slug_title": "blue-banshee", "date": "1994-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bq2s3SauFn3alDgekhOF5Yyuj57.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282554, "title": "Apthamitra", "original_title": "Apthamitra", "slug_title": "apthamitra", "date": "2004-08-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vishnuvardhan ()", "Ramesh Aravind ()", "Dwarakish ()", "Prema ()", "Soundarya ()", "Satyajith ()"], "comments": [], "recommandations_id": []}

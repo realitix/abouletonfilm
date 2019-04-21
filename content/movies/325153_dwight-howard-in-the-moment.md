@@ -1,0 +1,1 @@
+{"tmdb_id": 325153, "title": "Dwight Howard: In the Moment", "original_title": "Dwight Howard: In the Moment", "slug_title": "dwight-howard-in-the-moment", "date": "2014-11-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 555735, "title": "De la coupe aux l\u00e8vres", "original_title": "De la coupe aux l\u00e8vres", "slug_title": "de-la-coupe-aux-levres", "date": "1920-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

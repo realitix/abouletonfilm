@@ -1,0 +1,1 @@
+{"tmdb_id": 514306, "title": "The Assumption", "original_title": "The Assumption", "slug_title": "the-assumption", "date": "1993-03-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

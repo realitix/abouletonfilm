@@ -1,0 +1,1 @@
+{"tmdb_id": 132120, "title": "The Officer's Wife", "original_title": "The Officer's Wife", "slug_title": "the-officer-s-wife", "date": "2010-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11DaaS2uv8aWp6zBDmvEFPKvz7I.jpg", "actors": ["Beata Pozniak (Cecylia)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578299, "title": "Colegial Sacana", "original_title": "Colegial Sacana", "slug_title": "colegial-sacana", "date": "1986-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63OEVpAXEeogplMoF2SacLGs2u4.jpg", "actors": [], "comments": [], "recommandations_id": []}

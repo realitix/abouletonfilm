@@ -1,0 +1,1 @@
+{"tmdb_id": 446625, "title": "Prokofiev", "original_title": "Prokofiev", "slug_title": "prokofiev", "date": "1961-03-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

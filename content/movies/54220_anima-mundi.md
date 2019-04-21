@@ -1,0 +1,1 @@
+{"tmdb_id": 54220, "title": "Anima Mundi", "original_title": "Anima Mundi", "slug_title": "anima-mundi", "date": "1993-05-07", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVcGUzfXl7I85LlUk9ECsMML1Rn.jpg", "actors": [], "comments": [], "recommandations_id": [19009, 93904, 139426, 12790]}

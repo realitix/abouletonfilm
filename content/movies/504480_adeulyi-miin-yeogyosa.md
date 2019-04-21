@@ -1,0 +1,1 @@
+{"tmdb_id": 504480, "title": "\uc544\ub4e4\uc758 \ubbf8\uc778 \uc5ec\uad50\uc0ac", "original_title": "\uc544\ub4e4\uc758 \ubbf8\uc778 \uc5ec\uad50\uc0ac", "slug_title": "adeulyi-miin-yeogyosa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575173, "title": "Donna Summer: Disco Queen", "original_title": "Donna Summer: Disco Queen", "slug_title": "donna-summer-disco-queen", "date": "2019-01-14", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

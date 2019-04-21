@@ -1,0 +1,1 @@
+{"tmdb_id": 254896, "title": "Sin-copation", "original_title": "Sin-copation", "slug_title": "sin-copation", "date": "1938-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

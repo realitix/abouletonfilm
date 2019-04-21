@@ -1,0 +1,1 @@
+{"tmdb_id": 508052, "title": "Images of Leonard Baskin", "original_title": "Images of Leonard Baskin", "slug_title": "images-of-leonard-baskin", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llD753iOIyC99imfBfQSUqu6vrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

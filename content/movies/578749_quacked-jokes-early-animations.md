@@ -1,0 +1,1 @@
+{"tmdb_id": 578749, "title": "Quacked Jokes/Early Animations", "original_title": "Quacked Jokes/Early Animations", "slug_title": "quacked-jokes-early-animations", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

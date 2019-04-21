@@ -1,0 +1,1 @@
+{"tmdb_id": 418907, "title": "Shunyo \u00c9 Bukey", "original_title": "Shunyo \u00c9 Bukey", "slug_title": "shunyo-e-bukey", "date": "", "genre": "", "score": "9.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Churni Ganguly (Teesta)", "Kaushik Sen (Soumithro)", "Tota Roy Chowdhury (Arjith)"], "comments": [], "recommandations_id": []}

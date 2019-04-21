@@ -1,0 +1,1 @@
+{"tmdb_id": 594260, "title": "Swing Shift", "original_title": "Swing Shift", "slug_title": "swing-shift", "date": "1974-04-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sG58QEgCeNMxUO4C684qqFga3n8.jpg", "actors": ["Dan Collins ()"], "comments": [], "recommandations_id": []}

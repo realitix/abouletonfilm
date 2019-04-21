@@ -1,0 +1,1 @@
+{"tmdb_id": 523658, "title": "Bashing", "original_title": "Bashing", "slug_title": "bashing", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

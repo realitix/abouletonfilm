@@ -1,0 +1,1 @@
+{"tmdb_id": 471326, "title": "MACBETH - OPERA DIRECTO", "original_title": "MACBETH - OPERA DIRECTO", "slug_title": "macbeth-opera-directo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scga7xaOT2Ez1qZUdhNNpJjeBGV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 400144, "title": "Rain Boy", "original_title": "Amefuri Kozou", "slug_title": "rain-boy", "date": "1983-12-24", "genre": "Animation / Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MP9yzF383H5KvQ8nESeIfnaibD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491221, "title": "The Capital", "original_title": "The Capital", "slug_title": "the-capital", "date": "2008-05-25", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWfO7N2XnnKDeN27B67icsurwZA.jpg", "actors": [], "comments": [], "recommandations_id": []}

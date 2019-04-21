@@ -1,0 +1,1 @@
+{"tmdb_id": 354761, "title": "The Field of Magic", "original_title": "Stebukl\u0173 laukas", "slug_title": "the-field-of-magic", "date": "2011-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFqqtwZN1HqEuNY44RQQlZ6CHb6.jpg", "actors": [], "comments": [], "recommandations_id": []}

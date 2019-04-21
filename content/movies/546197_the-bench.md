@@ -1,0 +1,1 @@
+{"tmdb_id": 546197, "title": "The Bench", "original_title": "The Bench", "slug_title": "the-bench", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

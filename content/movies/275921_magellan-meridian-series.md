@@ -1,0 +1,1 @@
+{"tmdb_id": 275921, "title": "Magellan Meridian Series", "original_title": "Magellan Meridian Series", "slug_title": "magellan-meridian-series", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

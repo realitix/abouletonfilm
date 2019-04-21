@@ -1,0 +1,1 @@
+{"tmdb_id": 275138, "title": "A Massacre Survivor", "original_title": "\u4eba\u5728\u6c5f\u6e56", "slug_title": "a-massacre-survivor", "date": "1979-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r52ezQxgwL4nFxtWeFxXPD7LBGK.jpg", "actors": ["Shih Szu ()"], "comments": [], "recommandations_id": []}

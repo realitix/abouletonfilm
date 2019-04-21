@@ -1,0 +1,1 @@
+{"tmdb_id": 336213, "title": "Lykketoft Final", "original_title": "Lykketoft Finale", "slug_title": "lykketoft-final", "date": "2005-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uzc7pyDLdygD2vQmRhIOn43eDh.jpg", "actors": ["Mogens Lykketoft (Himself)"], "comments": [], "recommandations_id": []}

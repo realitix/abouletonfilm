@@ -1,0 +1,1 @@
+{"tmdb_id": 568909, "title": "Analysis Paralysis", "original_title": "Analysis Paralysis", "slug_title": "analysis-paralysis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fp45aZzdSLdbvAvHO9n2gEuNcGC.jpg", "actors": [], "comments": [], "recommandations_id": []}

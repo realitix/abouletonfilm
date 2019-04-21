@@ -1,0 +1,1 @@
+{"tmdb_id": 134754, "title": "Cr\u00edtico", "original_title": "Cr\u00edtico", "slug_title": "critico", "date": "2008-01-28", "genre": "Documentaire", "score": "8.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dcQaLNWEUIouuOUMtRDqOVLDLA.jpg", "actors": [], "comments": [], "recommandations_id": [46798, 256959, 52799]}

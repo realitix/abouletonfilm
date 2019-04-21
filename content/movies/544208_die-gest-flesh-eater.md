@@ -1,0 +1,1 @@
+{"tmdb_id": 544208, "title": "Die Gest: Flesh Eater", "original_title": "Die Gest: Flesh Eater", "slug_title": "die-gest-flesh-eater", "date": "2018-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1If4UDPEpjSWG8bi1FO1d3IMlS.jpg", "actors": [], "comments": [], "recommandations_id": []}

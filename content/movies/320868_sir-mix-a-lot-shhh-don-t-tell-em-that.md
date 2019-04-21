@@ -1,0 +1,1 @@
+{"tmdb_id": 320868, "title": "Sir Mix-A-Lot: Shhh...Don't Tell 'Em That", "original_title": "Sir Mix-A-Lot: Shhh...Don't Tell 'Em That", "slug_title": "sir-mix-a-lot-shhh-don-t-tell-em-that", "date": "2004-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

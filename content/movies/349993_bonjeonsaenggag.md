@@ -1,0 +1,1 @@
+{"tmdb_id": 349993, "title": "\ubcf8\uc804\uc0dd\uac01", "original_title": "\ubcf8\uc804\uc0dd\uac01", "slug_title": "bonjeonsaenggag", "date": "1981-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

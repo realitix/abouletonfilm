@@ -1,0 +1,1 @@
+{"tmdb_id": 584864, "title": "Por Que Meu Cabelo N\u00e3o \u00e9 Liso", "original_title": "Por Que Meu Cabelo N\u00e3o \u00e9 Liso", "slug_title": "por-que-meu-cabelo-nao-e-liso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

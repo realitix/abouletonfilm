@@ -1,0 +1,1 @@
+{"tmdb_id": 113345, "title": "A Place Without People", "original_title": "A Place Without People", "slug_title": "a-place-without-people", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pn9VLmXoQtVynqd69VLkSm3FmNI.jpg", "actors": [], "comments": [], "recommandations_id": []}

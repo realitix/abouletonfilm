@@ -1,0 +1,1 @@
+{"tmdb_id": 386928, "title": "Poppoya san: Nonki ekicho no maki", "original_title": "Poppoya san: Nonki ekicho no maki", "slug_title": "poppoya-san-nonki-ekicho-no-maki", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

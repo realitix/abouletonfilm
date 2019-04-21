@@ -1,0 +1,1 @@
+{"tmdb_id": 304774, "title": "Naattu Pura Paattu", "original_title": "Naattu Pura Paattu", "slug_title": "naattu-pura-paattu", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

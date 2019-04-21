@@ -1,0 +1,1 @@
+{"tmdb_id": 209239, "title": "Ferenc se za\u0159izuje", "original_title": "Ferenc se za\u0159izuje", "slug_title": "ferenc-se-zarizuje", "date": "1919-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ferenc Futurista (himself)"], "comments": [], "recommandations_id": []}

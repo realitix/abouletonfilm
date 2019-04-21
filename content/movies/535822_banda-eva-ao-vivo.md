@@ -1,0 +1,1 @@
+{"tmdb_id": 535822, "title": "Banda Eva Ao Vivo", "original_title": "Banda Eva Ao Vivo", "slug_title": "banda-eva-ao-vivo", "date": "1997-11-07", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Ot3Fxlymuy972MPUS6cvEwHmN6.jpg", "actors": ["Ivete Sangalo (Herself)"], "comments": [], "recommandations_id": []}

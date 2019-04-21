@@ -1,0 +1,1 @@
+{"tmdb_id": 579864, "title": "Dancing Manilenyos", "original_title": "Dancing Manilenyos", "slug_title": "dancing-manilenyos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

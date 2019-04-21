@@ -1,0 +1,1 @@
+{"tmdb_id": 365910, "title": "Les roses de la vie", "original_title": "Les roses de la vie", "slug_title": "les-roses-de-la-vie", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4sSlH2AeGRdJhUie7Higq4pJB5y.jpg", "actors": [], "comments": [], "recommandations_id": []}

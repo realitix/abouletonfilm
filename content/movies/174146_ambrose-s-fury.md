@@ -1,0 +1,1 @@
+{"tmdb_id": 174146, "title": "Ambrose's Fury", "original_title": "Ambrose's Fury", "slug_title": "ambrose-s-fury", "date": "1915-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Swain (Ambrose)"], "comments": [], "recommandations_id": []}

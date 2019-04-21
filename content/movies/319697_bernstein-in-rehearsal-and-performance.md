@@ -1,0 +1,1 @@
+{"tmdb_id": 319697, "title": "Bernstein in Rehearsal and Performance", "original_title": "Bernstein in Rehearsal and Performance", "slug_title": "bernstein-in-rehearsal-and-performance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

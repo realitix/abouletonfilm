@@ -1,0 +1,1 @@
+{"tmdb_id": 111595, "title": "Diary of a Single Mom", "original_title": "Diary of a Single Mom", "slug_title": "diary-of-a-single-mom", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

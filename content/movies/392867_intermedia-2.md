@@ -1,0 +1,1 @@
+{"tmdb_id": 392867, "title": "intermedia 2", "original_title": "intermedia 2", "slug_title": "intermedia-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

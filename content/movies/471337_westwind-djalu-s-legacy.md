@@ -1,0 +1,1 @@
+{"tmdb_id": 471337, "title": "Westwind: Djalu's Legacy", "original_title": "Westwind: Djalu's Legacy", "slug_title": "westwind-djalu-s-legacy", "date": "2017-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d6MYiT4MwHXriKPnnUcMwVbd5O1.jpg", "actors": ["Gotye (Self)"], "comments": [], "recommandations_id": []}

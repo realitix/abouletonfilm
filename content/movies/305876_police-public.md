@@ -1,0 +1,1 @@
+{"tmdb_id": 305876, "title": "Police Public", "original_title": "Police Public", "slug_title": "police-public", "date": "1990-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

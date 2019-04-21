@@ -1,0 +1,1 @@
+{"tmdb_id": 232808, "title": "Maharaja", "original_title": "Maharaja", "slug_title": "maharaja", "date": "1998-09-03", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztNjspETfk4SMJEBvkJJgNc4vN9.jpg", "actors": ["Govinda (Kohinoor)", "Manisha Koirala ()"], "comments": [], "recommandations_id": []}

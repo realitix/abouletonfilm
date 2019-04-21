@@ -1,0 +1,1 @@
+{"tmdb_id": 397851, "title": "The Young Bucks: Too Sweet Journey", "original_title": "The Young Bucks: Too Sweet Journey", "slug_title": "the-young-bucks-too-sweet-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0Ry4N5WRY4HJIUhlYT5vmtQdb7.jpg", "actors": [], "comments": [], "recommandations_id": []}

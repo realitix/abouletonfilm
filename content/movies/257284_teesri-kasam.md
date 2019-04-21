@@ -1,0 +1,1 @@
+{"tmdb_id": 257284, "title": "Teesri Kasam", "original_title": "Teesri Kasam", "slug_title": "teesri-kasam", "date": "1967-07-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ze5MbliF0jqXWspuj3FFsTnJVKL.jpg", "actors": ["Raj Kapoor (Hiramani)", "Waheeda Rehman (Hirabai)"], "comments": [], "recommandations_id": []}

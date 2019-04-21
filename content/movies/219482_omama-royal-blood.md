@@ -1,0 +1,1 @@
+{"tmdb_id": 219482, "title": "Omama: Royal Blood", "original_title": "Omama: Royal Blood", "slug_title": "omama-royal-blood", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rjI5Ww0hO8POyA6WFoBV9OSr7wr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 490126, "title": "The Thing in the Roof", "original_title": "The Thing in the Roof", "slug_title": "the-thing-in-the-roof", "date": "2002-02-24", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asher Keddie (Hope)", "Todd MacDonald (Willie)"], "comments": [], "recommandations_id": []}

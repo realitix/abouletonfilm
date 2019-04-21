@@ -1,0 +1,1 @@
+{"tmdb_id": 225450, "title": "Ladies of the Lotus", "original_title": "Ladies of the Lotus", "slug_title": "ladies-of-the-lotus", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angela Read ()", "Patrick Birmel ()", "Richard Dale (Phillip)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421586, "title": "Transportsadisterna", "original_title": "Transportsadisterna", "slug_title": "transportsadisterna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00f6sta W\u00e4livaara ()", "Janne 'Loffe' Carlsson ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 285484, "title": "Just Friends", "original_title": "Just Friends", "slug_title": "just-friends", "date": "1994-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4DNEgZRicTLriH18TImZEOouKl.jpg", "actors": ["St\u00e9phane Auberghen ()", "Philippe Aerts ()"], "comments": [], "recommandations_id": []}

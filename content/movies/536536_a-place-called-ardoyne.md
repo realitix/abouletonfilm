@@ -1,0 +1,1 @@
+{"tmdb_id": 536536, "title": "A Place Called Ardoyne", "original_title": "A Place Called Ardoyne", "slug_title": "a-place-called-ardoyne", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

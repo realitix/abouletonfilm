@@ -1,0 +1,1 @@
+{"tmdb_id": 340370, "title": "The Plaza", "original_title": "The Plaza", "slug_title": "the-plaza", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

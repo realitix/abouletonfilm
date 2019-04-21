@@ -1,0 +1,1 @@
+{"tmdb_id": 53691, "title": "Action Man Robot ATAK", "original_title": "Action Man Robot ATAK", "slug_title": "action-man-robot-atak", "date": "2004-10-04", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPQfzO2sbyESyfAjN4fGD2AMHtU.jpg", "actors": [], "comments": [], "recommandations_id": []}

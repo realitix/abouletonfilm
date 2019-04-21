@@ -1,0 +1,1 @@
+{"tmdb_id": 471820, "title": "Antics of the Artists", "original_title": "Antics of the Artists", "slug_title": "antics-of-the-artists", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0CrLJutOhVfzsNlsqALpBF3IL.jpg", "actors": [], "comments": [], "recommandations_id": []}

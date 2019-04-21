@@ -1,0 +1,1 @@
+{"tmdb_id": 501290, "title": "The iPod Revolution", "original_title": "The iPod Revolution", "slug_title": "the-ipod-revolution", "date": "2007-12-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xiZUzAMPLOruYq1iBGWHZ1HYY5Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

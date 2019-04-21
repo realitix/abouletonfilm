@@ -1,0 +1,1 @@
+{"tmdb_id": 199088, "title": "The Fisherman And His Soul", "original_title": "Rybak I Ego Dusha", "slug_title": "the-fisherman-and-his-soul", "date": "2006-07-02", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xgQjX3mhGfTTmpOoAHRALIgsMYb.jpg", "actors": [], "comments": [], "recommandations_id": []}

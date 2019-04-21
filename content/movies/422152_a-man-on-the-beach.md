@@ -1,0 +1,1 @@
+{"tmdb_id": 422152, "title": "A Man on the Beach", "original_title": "A Man on the Beach", "slug_title": "a-man-on-the-beach", "date": "1955-10-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5AobS1RskWWleCznXoY0Gbc9XZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

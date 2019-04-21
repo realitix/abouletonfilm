@@ -1,0 +1,1 @@
+{"tmdb_id": 551848, "title": "Kidnap Me", "original_title": "Kidnap Me", "slug_title": "kidnap-me", "date": "", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Devyn LaBella (Lola)", "Alex Trugman (Jake)"], "comments": [], "recommandations_id": []}

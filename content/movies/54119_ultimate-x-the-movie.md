@@ -1,0 +1,1 @@
+{"tmdb_id": 54119, "title": "Ultimate X: The Movie", "original_title": "Ultimate X: The Movie", "slug_title": "ultimate-x-the-movie", "date": "2002-08-14", "genre": "Documentaire", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ruKrVDeCPhEBSmWu38EjhDLayY.jpg", "actors": [], "comments": [], "recommandations_id": []}

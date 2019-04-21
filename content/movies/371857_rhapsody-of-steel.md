@@ -1,0 +1,1 @@
+{"tmdb_id": 371857, "title": "Rhapsody of Steel", "original_title": "Rhapsody of Steel", "slug_title": "rhapsody-of-steel", "date": "1959-01-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gary Merrill (Narrator)"], "comments": [], "recommandations_id": []}

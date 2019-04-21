@@ -1,0 +1,1 @@
+{"tmdb_id": 511701, "title": "As m\u00e3os do ep\u00f4", "original_title": "As m\u00e3os do ep\u00f4", "slug_title": "as-maos-do-epo", "date": "2011-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

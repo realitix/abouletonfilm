@@ -1,0 +1,1 @@
+{"tmdb_id": 352800, "title": "Ma\u00f1ana no es otro d\u00eda", "original_title": "Ma\u00f1ana no es otro d\u00eda", "slug_title": "manana-no-es-otro-dia", "date": "2015-04-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth D\u00edaz ()", "Daniel Grao ()"], "comments": [], "recommandations_id": []}

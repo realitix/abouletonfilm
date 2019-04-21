@@ -1,0 +1,1 @@
+{"tmdb_id": 216142, "title": "The Brainsucker", "original_title": "The Brainsucker", "slug_title": "the-brainsucker", "date": "1988-08-21", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzk8prkuXleI2Rh4LvkHz2rbkNB.jpg", "actors": [], "comments": [], "recommandations_id": []}

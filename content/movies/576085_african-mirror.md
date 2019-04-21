@@ -1,0 +1,1 @@
+{"tmdb_id": 576085, "title": "African Mirror", "original_title": "African Mirror", "slug_title": "african-mirror", "date": "2019-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pgXISst979X5iwrBP00qrFejkRP.jpg", "actors": [], "comments": [], "recommandations_id": []}

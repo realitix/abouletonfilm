@@ -1,0 +1,1 @@
+{"tmdb_id": 344385, "title": "In the Land of the Amazons", "original_title": "No Pa\u00eds das Amazonas", "slug_title": "in-the-land-of-the-amazons", "date": "1922-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ksFplmMh9OsDRcnfMyY4paoRj1y.jpg", "actors": [], "comments": [], "recommandations_id": []}

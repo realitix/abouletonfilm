@@ -1,0 +1,1 @@
+{"tmdb_id": 543808, "title": "Histories of Wolves", "original_title": "Hist\u00f3rias de lobos", "slug_title": "histories-of-wolves", "date": "2018-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6bEFXBmWRWXDMznroHxW1BENJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

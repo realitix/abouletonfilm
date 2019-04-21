@@ -1,0 +1,1 @@
+{"tmdb_id": 243773, "title": "Yami Douga 7", "original_title": "\u95c7\u52d5\u753b7", "slug_title": "yami-douga-7", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ad9BY57ivUbKemwZ2eLg3gcJnNm.jpg", "actors": [], "comments": [], "recommandations_id": []}

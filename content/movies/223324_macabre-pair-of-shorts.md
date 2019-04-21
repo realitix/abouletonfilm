@@ -1,0 +1,1 @@
+{"tmdb_id": 223324, "title": "Macabre Pair of Shorts", "original_title": "Macabre Pair of Shorts", "slug_title": "macabre-pair-of-shorts", "date": "1996-01-01", "genre": "Com\u00e9die / Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/17GQjSWVdcAAIWKAsjw2aq92f28.jpg", "actors": [], "comments": [], "recommandations_id": []}

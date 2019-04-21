@@ -1,0 +1,1 @@
+{"tmdb_id": 476972, "title": "\ub099\ud0c0\ub294 \ub530\ub85c \uc6b8\uc9c0 \uc54a\ub294\ub2e4", "original_title": "\ub099\ud0c0\ub294 \ub530\ub85c \uc6b8\uc9c0 \uc54a\ub294\ub2e4", "slug_title": "nagtaneun-ddaro-ulji-anhneunda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

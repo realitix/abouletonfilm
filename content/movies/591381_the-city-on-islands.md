@@ -1,0 +1,1 @@
+{"tmdb_id": 591381, "title": "The City on Islands", "original_title": "Miasto na wyspach", "slug_title": "the-city-on-islands", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janusz Kilanski (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 464470, "title": "Desobedi\u00eancia", "original_title": "Desobedi\u00eancia", "slug_title": "desobediencia", "date": "2002-01-21", "genre": "Documentaire / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odChECeHDoj6d5Ilp0EzqGG07Pa.jpg", "actors": [], "comments": [], "recommandations_id": []}

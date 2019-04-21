@@ -1,0 +1,1 @@
+{"tmdb_id": 543769, "title": "Helmet Heads", "original_title": "Cascos Indomables", "slug_title": "helmet-heads", "date": "2018-09-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rseXELYZ52qY9CGChPDpTTl3UNg.jpg", "actors": [], "comments": [], "recommandations_id": []}

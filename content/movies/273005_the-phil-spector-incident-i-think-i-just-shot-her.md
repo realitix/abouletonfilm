@@ -1,0 +1,1 @@
+{"tmdb_id": 273005, "title": "The Phil Spector Incident: I Think I Just Shot Her", "original_title": "The Phil Spector Incident: I Think I Just Shot Her", "slug_title": "the-phil-spector-incident-i-think-i-just-shot-her", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

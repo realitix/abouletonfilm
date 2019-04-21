@@ -1,0 +1,1 @@
+{"tmdb_id": 316796, "title": "Headless Ghost", "original_title": "Sop ai ngea", "slug_title": "headless-ghost", "date": "2005-01-10", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jluMWl2EuL0oSwalTjTWGO8NGm.jpg", "actors": ["Jaran Wongsujjaa ()", "Tat Na Takuatung ()"], "comments": [], "recommandations_id": []}

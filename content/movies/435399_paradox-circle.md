@@ -1,0 +1,1 @@
+{"tmdb_id": 435399, "title": "Paradox Circle", "original_title": "\ub124\ubaa8\ub09c\uc6d0", "slug_title": "paradox-circle", "date": "2012-12-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpaOKmx8scamByHpsFF4r92Mi8a.jpg", "actors": ["Ahn Mi-Na (Soo-jung)"], "comments": [], "recommandations_id": []}

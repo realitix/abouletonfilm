@@ -1,0 +1,1 @@
+{"tmdb_id": 321732, "title": "A Chinese Ghost", "original_title": "\uc57c\uc624\uadc0", "slug_title": "a-chinese-ghost", "date": "1971-10-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPkoZcSRf7gIRn4hq8wCYnuA3J9.jpg", "actors": ["Park Ji-yeong ()", "Jang Bu-geun ()"], "comments": [], "recommandations_id": []}

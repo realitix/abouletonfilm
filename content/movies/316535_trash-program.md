@@ -1,0 +1,1 @@
+{"tmdb_id": 316535, "title": "Trash Program", "original_title": "Trash Program", "slug_title": "trash-program", "date": "1963-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

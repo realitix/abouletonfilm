@@ -1,0 +1,1 @@
+{"tmdb_id": 287551, "title": "DTS Blu-Ray Music Demo Disc 11", "original_title": "DTS Blu-Ray Music Demo Disc 11", "slug_title": "dts-blu-ray-music-demo-disc-11", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4qAeUBOV2oiHn5317oR5Un6AJW.jpg", "actors": [], "comments": [], "recommandations_id": []}

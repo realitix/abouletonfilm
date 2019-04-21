@@ -1,0 +1,1 @@
+{"tmdb_id": 317656, "title": "A World Ruled By Evil", "original_title": "A World Ruled By Evil", "slug_title": "a-world-ruled-by-evil", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1y58Zre4R5ZcfqJMoItyzsWF6Ws.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 325837, "title": "Coup Manqu\u00e9", "original_title": "Coup Manqu\u00e9", "slug_title": "coup-manque", "date": "1971-01-01", "genre": "Horreur / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Pierre Bouyxou (Le cambrioleur)", "To Katinaki (Raped Girl)"], "comments": [], "recommandations_id": []}

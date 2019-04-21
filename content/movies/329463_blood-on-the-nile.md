@@ -1,0 +1,1 @@
+{"tmdb_id": 329463, "title": "Blood on the Nile", "original_title": "Dema alal Nil", "slug_title": "blood-on-the-nile", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Farid Shawqi ()", "Amina Rizk ()", "Hend Rostom ()"], "comments": [], "recommandations_id": []}

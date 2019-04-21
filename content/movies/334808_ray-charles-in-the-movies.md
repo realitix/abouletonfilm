@@ -1,0 +1,1 @@
+{"tmdb_id": 334808, "title": "Ray Charles in the Movies", "original_title": "Ray Charles u Bioskopu", "slug_title": "ray-charles-in-the-movies", "date": "1987-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

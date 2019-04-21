@@ -1,0 +1,1 @@
+{"tmdb_id": 530633, "title": "Cock-a-doodle-doo!", "original_title": "Ki-ke-ri-g\u016b!", "slug_title": "cock-a-doodle-doo", "date": "1966-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijdeGEgzLd3ZePD2fnoBpecqbfR.jpg", "actors": [], "comments": [], "recommandations_id": []}

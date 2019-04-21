@@ -1,0 +1,1 @@
+{"tmdb_id": 543717, "title": "Dialogues des Carm\u00e9lites", "original_title": "Dialogues des Carm\u00e9lites", "slug_title": "dialogues-des-carmelites", "date": "2019-05-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p96jkLC4bHxMc6QjKCaGbK3p1wg.jpg", "actors": [], "comments": [], "recommandations_id": []}

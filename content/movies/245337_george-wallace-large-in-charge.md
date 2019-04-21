@@ -1,0 +1,1 @@
+{"tmdb_id": 245337, "title": "George Wallace - Large & In Charge", "original_title": "George Wallace - Large & In Charge", "slug_title": "george-wallace-large-in-charge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

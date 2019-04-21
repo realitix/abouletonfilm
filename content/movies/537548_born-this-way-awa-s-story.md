@@ -1,0 +1,1 @@
+{"tmdb_id": 537548, "title": "Born This Way: Awa's Story", "original_title": "Born This Way: Awa's Story", "slug_title": "born-this-way-awa-s-story", "date": "2017-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523183, "title": "Nouvelle Soci\u00e9t\u00e9 n\u00b07", "original_title": "Nouvelle Soci\u00e9t\u00e9 n\u00b07", "slug_title": "nouvelle-societe-ndeg7", "date": "1970-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

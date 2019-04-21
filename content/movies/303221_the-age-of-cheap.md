@@ -1,0 +1,1 @@
+{"tmdb_id": 303221, "title": "The Age Of Cheap", "original_title": "The Age Of Cheap", "slug_title": "the-age-of-cheap", "date": "2013-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

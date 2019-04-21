@@ -1,0 +1,1 @@
+{"tmdb_id": 331817, "title": "Safe Word", "original_title": "Safe Word", "slug_title": "safe-word", "date": "2014-05-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benjamin Sprunger (Greg)", "Kevin Cox (Billy)", "Sam Button-Harrison (Patrick)"], "comments": [], "recommandations_id": []}

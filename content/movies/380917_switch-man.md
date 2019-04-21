@@ -1,0 +1,1 @@
+{"tmdb_id": 380917, "title": "Switch Man", "original_title": "Switch Man", "slug_title": "switch-man", "date": "2015-02-02", "genre": "Action / Animation / Com\u00e9die / Drame / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/saqpbBgGobtrodtqkupJV3VlLoo.jpg", "actors": [], "comments": [], "recommandations_id": []}

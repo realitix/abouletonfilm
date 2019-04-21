@@ -1,0 +1,1 @@
+{"tmdb_id": 479152, "title": "The FIRM: Flat Abs Solution", "original_title": "The FIRM: Flat Abs Solution", "slug_title": "the-firm-flat-abs-solution", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

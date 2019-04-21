@@ -1,0 +1,1 @@
+{"tmdb_id": 580082, "title": "Rogan Josh", "original_title": "Rogan Josh", "slug_title": "rogan-josh", "date": "2018-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Naseeruddin Shah ()", "Avantika Akerkar ()", "Shishir Sharma ()", "Shriswara ()"], "comments": [], "recommandations_id": []}

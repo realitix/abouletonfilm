@@ -1,0 +1,1 @@
+{"tmdb_id": 273548, "title": "Justin Bieber: The Next Chapter", "original_title": "Justin Bieber: The Next Chapter", "slug_title": "justin-bieber-the-next-chapter", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Justin Bieber ()"], "comments": [], "recommandations_id": []}

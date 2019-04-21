@@ -1,0 +1,1 @@
+{"tmdb_id": 343334, "title": "The Women in Blue Berets", "original_title": "The Women in Blue Berets", "slug_title": "the-women-in-blue-berets", "date": "2012-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 399680, "title": "El Mito de Narciso", "original_title": "El Mito de Narciso", "slug_title": "el-mito-de-narciso", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwr5iN6EdKfEsvgeBjGvu4Dzh4a.jpg", "actors": [], "comments": [], "recommandations_id": []}

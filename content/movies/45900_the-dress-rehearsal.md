@@ -1,0 +1,1 @@
+{"tmdb_id": 45900, "title": "The Dress Rehearsal", "original_title": "La prova generale", "slug_title": "the-dress-rehearsal", "date": "1968-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9htaQNxwlw12Ejj9c56hJrg95Pg.jpg", "actors": [], "comments": [], "recommandations_id": []}

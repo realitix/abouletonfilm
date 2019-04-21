@@ -1,0 +1,1 @@
+{"tmdb_id": 316156, "title": "Erasure: On the Road to Nashville", "original_title": "Erasure: On the Road to Nashville", "slug_title": "erasure-on-the-road-to-nashville", "date": "2007-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

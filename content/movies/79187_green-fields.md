@@ -1,0 +1,1 @@
+{"tmdb_id": 79187, "title": "Green Fields", "original_title": "Sadot Yerukim", "slug_title": "green-fields", "date": "1989-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sharon Brandon ()", "Lia Dultzkaya ()", "Shmuel Edelman ()"], "comments": [], "recommandations_id": []}

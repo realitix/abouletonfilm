@@ -1,0 +1,1 @@
+{"tmdb_id": 560083, "title": "Tupananchiskama (Hasta que nos encontremos)", "original_title": "Tupananchiskama (Hasta que nos encontremos)", "slug_title": "tupananchiskama-hasta-que-nos-encontremos", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

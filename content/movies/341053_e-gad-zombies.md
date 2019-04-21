@@ -1,0 +1,1 @@
+{"tmdb_id": 341053, "title": "E'gad, Zombies!", "original_title": "E'gad, Zombies!", "slug_title": "e-gad-zombies", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 508533, "title": "Up Close and Personal", "original_title": "Up Close and Personal", "slug_title": "up-close-and-personal", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPJLOQ6yWWMGdH60lezGISjcjew.jpg", "actors": ["Ray Comfort ()"], "comments": [], "recommandations_id": []}

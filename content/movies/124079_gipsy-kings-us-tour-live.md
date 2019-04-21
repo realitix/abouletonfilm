@@ -1,0 +1,1 @@
+{"tmdb_id": 124079, "title": "Gipsy Kings - US Tour Live", "original_title": "Gipsy Kings - US Tour Live", "slug_title": "gipsy-kings-us-tour-live", "date": "1991-02-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYxsX0MUHsBffrMDCftoNZKRAT.jpg", "actors": [], "comments": [], "recommandations_id": []}

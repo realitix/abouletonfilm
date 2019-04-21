@@ -1,0 +1,1 @@
+{"tmdb_id": 369130, "title": "Rufus Wainwright: Prima Donna", "original_title": "Rufus Wainwright: Prima Donna", "slug_title": "rufus-wainwright-prima-donna", "date": "2011-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMaqifkzigqY9cFCNA5OJEDDXI2.jpg", "actors": [], "comments": [], "recommandations_id": []}

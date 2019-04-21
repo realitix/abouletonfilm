@@ -1,0 +1,1 @@
+{"tmdb_id": 560065, "title": "Romantics & Realists: Goya", "original_title": "Romantics & Realists: Goya", "slug_title": "romantics-realists-goya", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/skD20VhZazhi5tW1yebNNaLLrD3.jpg", "actors": [], "comments": [], "recommandations_id": []}

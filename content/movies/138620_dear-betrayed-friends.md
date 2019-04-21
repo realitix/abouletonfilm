@@ -1,0 +1,1 @@
+{"tmdb_id": 138620, "title": "Dear Betrayed Friends", "original_title": "Dr\u00e1ga bes\u00fagott bar\u00e1taim", "slug_title": "dear-betrayed-friends", "date": "2012-09-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCHiyvqcQTvTbGur1tYhcK1CfC0.jpg", "actors": [], "comments": [], "recommandations_id": []}

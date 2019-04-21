@@ -1,0 +1,1 @@
+{"tmdb_id": 77256, "title": "Hornets From Hell", "original_title": "Hornets From Hell", "slug_title": "hornets-from-hell", "date": "2004-10-27", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u8SyxkF00FdSUUJEQGNJAb3OVH7.jpg", "actors": [], "comments": [], "recommandations_id": []}

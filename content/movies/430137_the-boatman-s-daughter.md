@@ -1,0 +1,1 @@
+{"tmdb_id": 430137, "title": "The Boatman's Daughter", "original_title": "Chuan jia nu", "slug_title": "the-boatman-s-daughter", "date": "1935-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lai Xu ()", "Xianping Dong ()", "Zhangfei Gao ()"], "comments": [], "recommandations_id": []}

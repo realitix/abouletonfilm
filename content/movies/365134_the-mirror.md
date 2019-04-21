@@ -1,0 +1,1 @@
+{"tmdb_id": 365134, "title": "The Mirror", "original_title": "O Espelho", "slug_title": "the-mirror", "date": "2015-08-12", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atTRBTRlXXoiH9eTjvDvWDcjVaO.jpg", "actors": ["Ana Abbott ()", "Augusto Madeira ()"], "comments": [], "recommandations_id": []}

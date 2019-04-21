@@ -1,0 +1,1 @@
+{"tmdb_id": 539488, "title": "The Irresponsible Fool", "original_title": "Iikagen baka", "slug_title": "the-irresponsible-fool", "date": "1964-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

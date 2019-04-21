@@ -1,0 +1,1 @@
+{"tmdb_id": 369832, "title": "Grandma's Tattoo", "original_title": "Grandma's Tattoo", "slug_title": "grandma-s-tattoo", "date": "2011-02-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOk83BeE7farofzIup5KsG22YWB.jpg", "actors": ["Maria Vardanyan (Ella misma)"], "comments": [], "recommandations_id": []}

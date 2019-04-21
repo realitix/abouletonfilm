@@ -1,0 +1,1 @@
+{"tmdb_id": 448946, "title": "The Nationwide Constituency 3", "original_title": "\uc804\uad6d\uad6c 3", "slug_title": "the-nationwide-constituency-3", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9fNHsvfH1pIC2TnCpd1anBTgzo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351019, "title": "Farmer Al Falfa's Bedtime Story", "original_title": "Farmer Al Falfa's Bedtime Story", "slug_title": "farmer-al-falfa-s-bedtime-story", "date": "1932-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

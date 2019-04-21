@@ -1,0 +1,1 @@
+{"tmdb_id": 461641, "title": "Scenes from a Teenage Killing", "original_title": "Scenes from a Teenage Killing", "slug_title": "scenes-from-a-teenage-killing", "date": "2011-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

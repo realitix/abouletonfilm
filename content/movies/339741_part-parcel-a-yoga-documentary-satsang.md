@@ -1,0 +1,1 @@
+{"tmdb_id": 339741, "title": "Part & Parcel a Yoga Documentary Satsang", "original_title": "Part & Parcel a Yoga Documentary Satsang", "slug_title": "part-parcel-a-yoga-documentary-satsang", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

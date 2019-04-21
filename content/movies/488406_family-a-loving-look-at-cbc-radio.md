@@ -1,0 +1,1 @@
+{"tmdb_id": 488406, "title": "Family: A Loving Look at CBC Radio", "original_title": "Family: A Loving Look at CBC Radio", "slug_title": "family-a-loving-look-at-cbc-radio", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert A. Duncan (Narrator)"], "comments": [], "recommandations_id": []}

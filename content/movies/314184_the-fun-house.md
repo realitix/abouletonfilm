@@ -1,0 +1,1 @@
+{"tmdb_id": 314184, "title": "The Fun House", "original_title": "The Fun House", "slug_title": "the-fun-house", "date": "1936-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

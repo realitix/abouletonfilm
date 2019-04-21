@@ -1,0 +1,1 @@
+{"tmdb_id": 402957, "title": "Slave Warrior: The Beginning", "original_title": "Slave Warrior: The Beginning", "slug_title": "slave-warrior-the-beginning", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

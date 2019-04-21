@@ -1,0 +1,1 @@
+{"tmdb_id": 295596, "title": "Hard Boiled Chicken", "original_title": "Hard Boiled Chicken", "slug_title": "hard-boiled-chicken", "date": "2006-10-01", "genre": "Animation / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ApLwj35t7tHJ7cus5BwymUhTqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

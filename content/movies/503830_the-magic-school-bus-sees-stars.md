@@ -1,0 +1,1 @@
+{"tmdb_id": 503830, "title": "The Magic School Bus - Sees Stars", "original_title": "The Magic School Bus - Sees Stars", "slug_title": "the-magic-school-bus-sees-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/us0qLc5d64kM8nhKYksIUjQJwii.jpg", "actors": [], "comments": [], "recommandations_id": []}

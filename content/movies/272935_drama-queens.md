@@ -1,0 +1,1 @@
+{"tmdb_id": 272935, "title": "Drama Queens", "original_title": "Drama Queens", "slug_title": "drama-queens", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574824, "title": "Brainy Baby: Left Brain", "original_title": "Brainy Baby: Left Brain", "slug_title": "brainy-baby-left-brain", "date": "2002-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wAmTTGN6QvwGB3hNk5i92ZQusSf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552195, "title": "Jajabor", "original_title": "Jajabor", "slug_title": "jajabor", "date": "2015-10-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSE63ly4kK7jNGVwxX5ChRTdL6q.jpg", "actors": ["Rijusmita Goswami ()", "Lakhi Borthakur ()", "Sashanka Samir ()"], "comments": [], "recommandations_id": []}

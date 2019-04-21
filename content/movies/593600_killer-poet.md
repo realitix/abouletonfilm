@@ -1,0 +1,1 @@
+{"tmdb_id": 593600, "title": "Killer Poet", "original_title": "Killer Poet", "slug_title": "killer-poet", "date": "2008-06-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGHsKJJNHaMtiUdL4RuXHR8xfRJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

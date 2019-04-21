@@ -1,0 +1,1 @@
+{"tmdb_id": 318457, "title": "Curse of the Seven Jackals", "original_title": "Curse of the Seven Jackals", "slug_title": "curse-of-the-seven-jackals", "date": "2001-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

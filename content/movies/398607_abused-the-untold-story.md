@@ -1,0 +1,1 @@
+{"tmdb_id": 398607, "title": "Abused: The Untold Story", "original_title": "Abused: The Untold Story", "slug_title": "abused-the-untold-story", "date": "2016-04-11", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mISAaQvavCsYnH8CEanss4iuFT.jpg", "actors": [], "comments": [], "recommandations_id": []}

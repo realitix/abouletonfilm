@@ -1,0 +1,1 @@
+{"tmdb_id": 387519, "title": "La vita negli abissi del mare: Pesci", "original_title": "La vita negli abissi del mare: Pesci", "slug_title": "la-vita-negli-abissi-del-mare-pesci", "date": "1914-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

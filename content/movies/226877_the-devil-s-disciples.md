@@ -1,0 +1,1 @@
+{"tmdb_id": 226877, "title": "The Devil's Disciples", "original_title": "The Devil's Disciples", "slug_title": "the-devil-s-disciples", "date": "2006-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

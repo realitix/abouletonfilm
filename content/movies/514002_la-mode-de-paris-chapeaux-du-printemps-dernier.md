@@ -1,0 +1,1 @@
+{"tmdb_id": 514002, "title": "La mode de Paris. Chapeaux du printemps dernier", "original_title": "La mode de Paris. Chapeaux du printemps dernier", "slug_title": "la-mode-de-paris-chapeaux-du-printemps-dernier", "date": "1912-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 175699, "title": "Bed Time", "original_title": "Bed Time", "slug_title": "bed-time", "date": "1923-03-01", "genre": "Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eX26XcKHCVlOlWQ1qAlUtqB44fG.jpg", "actors": ["Max Fleischer (Himself)"], "comments": [], "recommandations_id": []}

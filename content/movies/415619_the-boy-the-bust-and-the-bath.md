@@ -1,0 +1,1 @@
+{"tmdb_id": 415619, "title": "The Boy, the Bust and the Bath", "original_title": "The Boy, the Bust and the Bath", "slug_title": "the-boy-the-bust-and-the-bath", "date": "1907-08-03", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florence Lawrence ()"], "comments": [], "recommandations_id": []}

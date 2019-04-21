@@ -1,0 +1,1 @@
+{"tmdb_id": 544222, "title": "Quel treno per Budapest", "original_title": "Quel treno per Budapest", "slug_title": "quel-treno-per-budapest", "date": "1990-10-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manuela Gatti ()", "Mattia Sbragia ()", "Florence Gu\u00e9rin ()"], "comments": [], "recommandations_id": []}

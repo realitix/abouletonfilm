@@ -1,0 +1,1 @@
+{"tmdb_id": 126670, "title": "SPORTDOG", "original_title": "SPORTDOG", "slug_title": "sportdog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "SPORTDOG sur les chiens", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUjYW2h7DJ6SmJVhLa3vbybVSHD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 339386, "title": "Conversas no Maranh\u00e3o", "original_title": "Conversas no Maranh\u00e3o", "slug_title": "conversas-no-maranhao", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mpd7yKqrmDt4eUYA3CJH3weL1SS.jpg", "actors": [], "comments": [], "recommandations_id": []}

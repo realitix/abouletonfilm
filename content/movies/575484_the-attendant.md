@@ -1,0 +1,1 @@
+{"tmdb_id": 575484, "title": "The Attendant", "original_title": "The Attendant", "slug_title": "the-attendant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ee7blVP1SuDuYG9TXlPyEWs7PPs.jpg", "actors": ["Isy Suttie (Ella)", "Robert James-Collier (Alex)"], "comments": [], "recommandations_id": []}

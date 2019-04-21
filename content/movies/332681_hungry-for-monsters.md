@@ -1,0 +1,1 @@
+{"tmdb_id": 332681, "title": "Hungry for Monsters", "original_title": "Hungry for Monsters", "slug_title": "hungry-for-monsters", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bskKmbb9SvElQ86Na1MiUpYm2XP.jpg", "actors": [], "comments": [], "recommandations_id": []}

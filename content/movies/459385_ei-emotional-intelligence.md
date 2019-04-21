@@ -1,0 +1,1 @@
+{"tmdb_id": 459385, "title": "EI: Emotional Intelligence", "original_title": "EI: Emotional Intelligence", "slug_title": "ei-emotional-intelligence", "date": "2016-01-01", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adam Parham (Narrator)"], "comments": [], "recommandations_id": []}

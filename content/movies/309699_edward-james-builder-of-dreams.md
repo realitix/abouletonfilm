@@ -1,0 +1,1 @@
+{"tmdb_id": 309699, "title": "Edward James: Builder of Dreams", "original_title": "Edward James: Builder of Dreams", "slug_title": "edward-james-builder-of-dreams", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

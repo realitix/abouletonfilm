@@ -1,0 +1,1 @@
+{"tmdb_id": 56879, "title": "Hong Kong Bronx", "original_title": "\u9ed1\u52e2\u529b", "slug_title": "hong-kong-bronx", "date": "2008-01-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQkdQcg4Uy9oOWrIllQzAUZhJDA.jpg", "actors": ["Jordan Chan (Neil Shek)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 331350, "title": "Weaving with Spanish Threads: An Immigrant's Tale", "original_title": "Weaving with Spanish Threads: An Immigrant's Tale", "slug_title": "weaving-with-spanish-threads-an-immigrant-s-tale", "date": "2015-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344606, "title": "Attraction", "original_title": "Atraksion", "slug_title": "attraction", "date": "2001-10-09", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBMnZHdzu5gcg2hmncj7MwCYZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

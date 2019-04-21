@@ -1,0 +1,1 @@
+{"tmdb_id": 513566, "title": "Assembly at Dyke High", "original_title": "Assembly at Dyke High", "slug_title": "assembly-at-dyke-high", "date": "1986-03-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

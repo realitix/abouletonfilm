@@ -1,0 +1,1 @@
+{"tmdb_id": 574625, "title": "A Hula Honeymoon", "original_title": "A Hula Honeymoon", "slug_title": "a-hula-honeymoon", "date": "1923-02-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Murdock (Mr. Smudge)", "Babe London (Mrs. Smudge)", "Lucille King ()"], "comments": [], "recommandations_id": []}

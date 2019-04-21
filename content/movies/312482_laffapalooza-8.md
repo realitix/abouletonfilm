@@ -1,0 +1,1 @@
+{"tmdb_id": 312482, "title": "Laffapalooza! #8", "original_title": "Laffapalooza! #8", "slug_title": "laffapalooza-8", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

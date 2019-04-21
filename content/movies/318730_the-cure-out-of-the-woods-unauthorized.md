@@ -1,0 +1,1 @@
+{"tmdb_id": 318730, "title": "The Cure: Out of the Woods: Unauthorized", "original_title": "The Cure: Out of the Woods: Unauthorized", "slug_title": "the-cure-out-of-the-woods-unauthorized", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

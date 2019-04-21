@@ -1,0 +1,1 @@
+{"tmdb_id": 381576, "title": "Brief Encounters", "original_title": "Brief Encounters", "slug_title": "brief-encounters", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

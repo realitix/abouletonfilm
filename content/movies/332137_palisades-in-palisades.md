@@ -1,0 +1,1 @@
+{"tmdb_id": 332137, "title": "Palisades in Palisades", "original_title": "Palisades in Palisades", "slug_title": "palisades-in-palisades", "date": "2014-03-13", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

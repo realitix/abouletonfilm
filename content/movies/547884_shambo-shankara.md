@@ -1,0 +1,1 @@
+{"tmdb_id": 547884, "title": "Shambo Shankara", "original_title": "Shambo Shankara", "slug_title": "shambo-shankara", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fvI4bTi4MGHwVGGlGC0SHNzLvff.jpg", "actors": [], "comments": [], "recommandations_id": []}

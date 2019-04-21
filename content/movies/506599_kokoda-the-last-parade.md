@@ -1,0 +1,1 @@
+{"tmdb_id": 506599, "title": "KOKODA: The Last Parade", "original_title": "KOKODA: The Last Parade", "slug_title": "kokoda-the-last-parade", "date": "1998-11-20", "genre": "Guerre / Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jSglhotjuzW1ckyW6Pi6U7QXNbd.jpg", "actors": [], "comments": [], "recommandations_id": []}

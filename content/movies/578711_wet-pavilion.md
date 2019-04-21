@@ -1,0 +1,1 @@
+{"tmdb_id": 578711, "title": "Wet Pavilion", "original_title": "Wet Pavilion", "slug_title": "wet-pavilion", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

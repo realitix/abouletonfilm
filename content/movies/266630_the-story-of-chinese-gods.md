@@ -1,0 +1,1 @@
+{"tmdb_id": 266630, "title": "The Story of Chinese Gods", "original_title": "The Story of Chinese Gods", "slug_title": "the-story-of-chinese-gods", "date": "1976-03-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mbwTTc2mSogGgAK3Co4QQkyZrYA.jpg", "actors": [], "comments": [], "recommandations_id": []}

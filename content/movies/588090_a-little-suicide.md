@@ -1,0 +1,1 @@
+{"tmdb_id": 588090, "title": "A Little Suicide", "original_title": "A Little Suicide", "slug_title": "a-little-suicide", "date": "2012-02-11", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ana Lily Amirpour (The Butterfly (voice))"], "comments": [], "recommandations_id": []}

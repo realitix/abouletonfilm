@@ -1,0 +1,1 @@
+{"tmdb_id": 513721, "title": "Luz - Energia - Progresso", "original_title": "Luz - Energia - Progresso", "slug_title": "luz-energia-progresso", "date": "1959-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rjtlFblgBTVVYYaJvPfcP9ruah2.jpg", "actors": [], "comments": [], "recommandations_id": []}

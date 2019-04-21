@@ -1,0 +1,1 @@
+{"tmdb_id": 475299, "title": "Forever Chinatown", "original_title": "Forever Chinatown", "slug_title": "forever-chinatown", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314549, "title": "Love and Metamorphoses", "original_title": "Amori e Metamorfosi", "slug_title": "love-and-metamorphoses", "date": "2014-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98o8FCbeSFvUXcjHhafsjt4XTIw.jpg", "actors": [], "comments": [], "recommandations_id": []}

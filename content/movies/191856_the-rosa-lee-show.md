@@ -1,0 +1,1 @@
+{"tmdb_id": 191856, "title": "The Rosa Lee Show", "original_title": "The Rosa Lee Show", "slug_title": "the-rosa-lee-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Z1IXmfCvpFkHr4GKdg1HxzH1jl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 496249, "title": "Just Like Us", "original_title": "Just Like Us", "slug_title": "just-like-us", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bHTjBlkbJ310iQYecyY7Y8gr44P.jpg", "actors": [], "comments": [], "recommandations_id": []}

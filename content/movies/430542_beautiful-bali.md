@@ -1,0 +1,1 @@
+{"tmdb_id": 430542, "title": "Beautiful Bali", "original_title": "Beautiful Bali", "slug_title": "beautiful-bali", "date": "1940-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Krev3c0JKitIQdQ1zy4dd3RYbI.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

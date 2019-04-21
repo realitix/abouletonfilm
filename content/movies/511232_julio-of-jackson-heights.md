@@ -1,0 +1,1 @@
+{"tmdb_id": 511232, "title": "Julio of Jackson Heights", "original_title": "Julio of Jackson Heights", "slug_title": "julio-of-jackson-heights", "date": "2016-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgHqLasE1JYK8gZtIlptG3GAjqi.jpg", "actors": [], "comments": [], "recommandations_id": []}

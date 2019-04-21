@@ -1,0 +1,1 @@
+{"tmdb_id": 449472, "title": "Cuba 30 Anni Dopo", "original_title": "Cuba 30 Anni Dopo", "slug_title": "cuba-30-anni-dopo", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWsDUwa1Ku5wAhspuDL6NWh6P83.jpg", "actors": ["Fidel Castro (Himself)"], "comments": [], "recommandations_id": []}

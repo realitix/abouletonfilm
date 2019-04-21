@@ -1,0 +1,1 @@
+{"tmdb_id": 564338, "title": "Maayabimbum", "original_title": "Maayabimbum", "slug_title": "maayabimbum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294493, "title": "Mi Amigo", "original_title": "Mi Amigo", "slug_title": "mi-amigo", "date": "2002-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

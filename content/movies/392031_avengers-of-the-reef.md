@@ -1,0 +1,1 @@
+{"tmdb_id": 392031, "title": "Avengers of the Reef", "original_title": "Avengers of the Reef", "slug_title": "avengers-of-the-reef", "date": "1973-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imTUeuHuxVLxC7sxKqi2G0RPF7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

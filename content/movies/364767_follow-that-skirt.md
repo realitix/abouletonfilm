@@ -1,0 +1,1 @@
+{"tmdb_id": 364767, "title": "Follow That Skirt", "original_title": "Follow That Skirt", "slug_title": "follow-that-skirt", "date": "1965-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iSd5WWXeHei8dUw1JaxUE12YJvH.jpg", "actors": ["Dale West (Dale)"], "comments": [], "recommandations_id": []}

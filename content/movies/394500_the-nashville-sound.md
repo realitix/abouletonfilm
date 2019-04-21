@@ -1,0 +1,1 @@
+{"tmdb_id": 394500, "title": "The Nashville Sound", "original_title": "The Nashville Sound", "slug_title": "the-nashville-sound", "date": "1970-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lL0mRgzRegCBmnUWUvQefuRI6W3.jpg", "actors": [], "comments": [], "recommandations_id": []}

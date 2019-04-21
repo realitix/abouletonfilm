@@ -1,0 +1,1 @@
+{"tmdb_id": 272457, "title": "The Number 2 Car: Rusty Wallace", "original_title": "The Number 2 Car: Rusty Wallace", "slug_title": "the-number-2-car-rusty-wallace", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

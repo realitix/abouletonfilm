@@ -1,0 +1,1 @@
+{"tmdb_id": 198522, "title": "O\u00f9 \u00eates-vous madame D\u00e9ry ?", "original_title": "D\u00e9ryn\u00e9 hol van?", "slug_title": "ou-etes-vous-madame-dery", "date": "1975-06-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQlzU4hiWHKdCiUVFPpDbtkMZPS.jpg", "actors": [], "comments": [], "recommandations_id": []}

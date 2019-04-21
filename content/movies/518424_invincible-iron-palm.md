@@ -1,0 +1,1 @@
+{"tmdb_id": 518424, "title": "Invincible Iron Palm", "original_title": "Wu di tie sha zhang", "slug_title": "invincible-iron-palm", "date": "1971-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m8Wcubak6Dt3IsqRST597dnBctw.jpg", "actors": [], "comments": [], "recommandations_id": []}

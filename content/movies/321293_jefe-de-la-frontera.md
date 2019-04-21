@@ -1,0 +1,1 @@
+{"tmdb_id": 321293, "title": "Jefe de la Frontera", "original_title": "Jefe de la Frontera", "slug_title": "jefe-de-la-frontera", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

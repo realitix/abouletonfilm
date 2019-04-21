@@ -1,0 +1,1 @@
+{"tmdb_id": 298630, "title": "Cut Piece", "original_title": "Cut Piece", "slug_title": "cut-piece", "date": "1965-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ePwjoVy69hmHAFvT5ww0OlwJQHl.jpg", "actors": ["Yoko Ono (Herself)"], "comments": [], "recommandations_id": []}

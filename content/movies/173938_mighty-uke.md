@@ -1,0 +1,1 @@
+{"tmdb_id": 173938, "title": "Mighty Uke", "original_title": "Mighty Uke", "slug_title": "mighty-uke", "date": "2011-01-11", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSlJCTDKBx3Id92XWglaTVcXB5b.jpg", "actors": [], "comments": [], "recommandations_id": []}

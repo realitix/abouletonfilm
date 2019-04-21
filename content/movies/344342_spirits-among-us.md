@@ -1,0 +1,1 @@
+{"tmdb_id": 344342, "title": "Spirits Among Us", "original_title": "Spirits Among Us", "slug_title": "spirits-among-us", "date": "2009-01-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5L3NVojE0BuaGkGtpWbMBe4LhQ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

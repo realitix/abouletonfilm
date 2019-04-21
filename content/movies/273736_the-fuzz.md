@@ -1,0 +1,1 @@
+{"tmdb_id": 273736, "title": "The Fuzz", "original_title": "The Fuzz", "slug_title": "the-fuzz", "date": "2011-11-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gTKky9Gbp2oqECYniZgKDA2W0Wk.jpg", "actors": [], "comments": [], "recommandations_id": []}

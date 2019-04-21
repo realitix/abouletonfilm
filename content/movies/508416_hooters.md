@@ -1,0 +1,1 @@
+{"tmdb_id": 508416, "title": "Hooters!", "original_title": "Hooters!", "slug_title": "hooters", "date": "2010-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wh4eeDbbAMkwoFxCCC2jWxV26iD.jpg", "actors": [], "comments": [], "recommandations_id": []}

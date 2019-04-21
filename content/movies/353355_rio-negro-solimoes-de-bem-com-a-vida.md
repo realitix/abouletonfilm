@@ -1,0 +1,1 @@
+{"tmdb_id": 353355, "title": "Rio Negro & Solim\u00f5es - De Bem Com A Vida", "original_title": "Rio Negro & Solim\u00f5es - De Bem Com A Vida", "slug_title": "rio-negro-solimoes-de-bem-com-a-vida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

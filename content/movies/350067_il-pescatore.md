@@ -1,0 +1,1 @@
+{"tmdb_id": 350067, "title": "Il Pescatore", "original_title": "Il Pescatore", "slug_title": "il-pescatore", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Pg4Dno9SKLcdFxuI6dYgCltDuB.jpg", "actors": [], "comments": [], "recommandations_id": []}

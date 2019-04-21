@@ -1,0 +1,1 @@
+{"tmdb_id": 509062, "title": "Measure", "original_title": "Measure", "slug_title": "measure", "date": "2017-05-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t50xBSTcUcrAYNBhxn3angIgvOm.jpg", "actors": [], "comments": [], "recommandations_id": []}

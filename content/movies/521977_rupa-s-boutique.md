@@ -1,0 +1,1 @@
+{"tmdb_id": 521977, "title": "Rupa's Boutique", "original_title": "Rupa's Boutique", "slug_title": "rupa-s-boutique", "date": "2017-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lbJUqwiAtB9442mjfpWjf1uBGYp.jpg", "actors": [], "comments": [], "recommandations_id": []}

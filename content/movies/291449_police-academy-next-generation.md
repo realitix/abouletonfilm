@@ -1,0 +1,1 @@
+{"tmdb_id": 291449, "title": "Police Academy: Next Generation", "original_title": "Police Academy: Next Generation", "slug_title": "police-academy-next-generation", "date": "", "genre": "Com\u00e9die", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

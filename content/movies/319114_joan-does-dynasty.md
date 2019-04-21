@@ -1,0 +1,1 @@
+{"tmdb_id": 319114, "title": "Joan Does Dynasty", "original_title": "Joan Does Dynasty", "slug_title": "joan-does-dynasty", "date": "1986-01-01", "genre": "", "score": "1.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLxePXGP70e88Fwl4dJ9jib0jc0.jpg", "actors": ["Joan Braderman (herself)"], "comments": [], "recommandations_id": []}

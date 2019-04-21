@@ -1,0 +1,1 @@
+{"tmdb_id": 539263, "title": "Mo\u00efse et Salomon parfumeurs", "original_title": "Mo\u00efse et Salomon parfumeurs", "slug_title": "moise-et-salomon-parfumeurs", "date": "1935-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eT4InwOA4XaJV3i7AGYSCneS38.jpg", "actors": [], "comments": [], "recommandations_id": []}

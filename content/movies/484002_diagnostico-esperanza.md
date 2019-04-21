@@ -1,0 +1,1 @@
+{"tmdb_id": 484002, "title": "Diagn\u00f3stico esperanza", "original_title": "Diagn\u00f3stico esperanza", "slug_title": "diagnostico-esperanza", "date": "2013-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

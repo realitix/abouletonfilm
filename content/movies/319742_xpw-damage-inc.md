@@ -1,0 +1,1 @@
+{"tmdb_id": 319742, "title": "XPW: Damage, Inc.", "original_title": "XPW: Damage, Inc.", "slug_title": "xpw-damage-inc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

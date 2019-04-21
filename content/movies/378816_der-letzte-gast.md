@@ -1,0 +1,1 @@
+{"tmdb_id": 378816, "title": "Der letzte Gast", "original_title": "Der letzte Gast", "slug_title": "der-letzte-gast", "date": "1989-10-30", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Baal ()", "Johannes Grossmann ()", "Walter Sittler ()"], "comments": [], "recommandations_id": []}

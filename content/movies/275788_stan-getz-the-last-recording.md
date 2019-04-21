@@ -1,0 +1,1 @@
+{"tmdb_id": 275788, "title": "Stan Getz: The Last Recording", "original_title": "Stan Getz: The Last Recording", "slug_title": "stan-getz-the-last-recording", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

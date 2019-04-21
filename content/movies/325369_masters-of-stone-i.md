@@ -1,0 +1,1 @@
+{"tmdb_id": 325369, "title": "Masters of Stone I", "original_title": "Masters of Stone I", "slug_title": "masters-of-stone-i", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bF0YKo2B2EJxPja07p2rZ2zstzJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

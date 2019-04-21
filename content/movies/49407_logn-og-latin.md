@@ -1,0 +1,1 @@
+{"tmdb_id": 49407, "title": "L\u00f8gn Og Latin", "original_title": "L\u00f8gn Og Latin", "slug_title": "logn-og-latin", "date": "2006-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ds301PdAUpEBI4vzsLQLA6zW0yg.jpg", "actors": [], "comments": [], "recommandations_id": []}

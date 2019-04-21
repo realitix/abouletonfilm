@@ -1,0 +1,1 @@
+{"tmdb_id": 352105, "title": "A Boy's Life", "original_title": "A Boy's Life", "slug_title": "a-boy-s-life", "date": "2015-04-19", "genre": "Thriller / Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uWPxnebQTO6uME3qaFiN2208AJd.jpg", "actors": ["Jack Ventimilia (Boy)"], "comments": [], "recommandations_id": []}

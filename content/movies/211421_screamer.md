@@ -1,0 +1,1 @@
+{"tmdb_id": 211421, "title": "Screamer", "original_title": "Screamer", "slug_title": "screamer", "date": "1974-11-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8mNIhrAPWq0rvjtsakWyjxtyHFf.jpg", "actors": ["Pamela Franklin ()"], "comments": [], "recommandations_id": []}

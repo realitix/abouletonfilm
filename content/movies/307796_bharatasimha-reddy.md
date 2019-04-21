@@ -1,0 +1,1 @@
+{"tmdb_id": 307796, "title": "Bharatasimha Reddy", "original_title": "Bharatasimha Reddy", "slug_title": "bharatasimha-reddy", "date": "2002-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

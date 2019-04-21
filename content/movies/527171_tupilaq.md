@@ -1,0 +1,1 @@
+{"tmdb_id": 527171, "title": "Tupilaq", "original_title": "Tupilaq", "slug_title": "tupilaq", "date": "2013-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

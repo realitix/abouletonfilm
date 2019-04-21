@@ -1,0 +1,1 @@
+{"tmdb_id": 84313, "title": "The Movement: One Man Joins an Uprising", "original_title": "The Movement: One Man Joins an Uprising", "slug_title": "the-movement-one-man-joins-an-uprising", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

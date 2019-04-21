@@ -1,0 +1,1 @@
+{"tmdb_id": 68438, "title": "Gun Fight", "original_title": "Gun Fight", "slug_title": "gun-fight", "date": "2011-04-13", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxtXio3Uj3hBxgzqqFiM7ftKuFb.jpg", "actors": [], "comments": [], "recommandations_id": []}

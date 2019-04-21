@@ -1,0 +1,1 @@
+{"tmdb_id": 189763, "title": "De Nieuwe Snaar - Konec", "original_title": "De Nieuwe Snaar - Konec", "slug_title": "de-nieuwe-snaar-konec", "date": "2013-03-03", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lT0WRehCQgSX4uMx9Aw4it5wcVb.jpg", "actors": [], "comments": [], "recommandations_id": []}

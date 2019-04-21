@@ -1,0 +1,1 @@
+{"tmdb_id": 348763, "title": "The Holiday Spirit", "original_title": "The Holiday Spirit", "slug_title": "the-holiday-spirit", "date": "2014-12-22", "genre": "Familial / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXm5ESXaiWOHm412SG9TAm8FqfC.jpg", "actors": [], "comments": [], "recommandations_id": []}

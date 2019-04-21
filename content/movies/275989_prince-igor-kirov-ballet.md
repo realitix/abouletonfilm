@@ -1,0 +1,1 @@
+{"tmdb_id": 275989, "title": "Prince Igor: Kirov Ballet", "original_title": "Prince Igor: Kirov Ballet", "slug_title": "prince-igor-kirov-ballet", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

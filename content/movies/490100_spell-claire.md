@@ -1,0 +1,1 @@
+{"tmdb_id": 490100, "title": "Spell Claire", "original_title": "Spell Claire", "slug_title": "spell-claire", "date": "2017-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wendy Jung (Claire)"], "comments": [], "recommandations_id": []}

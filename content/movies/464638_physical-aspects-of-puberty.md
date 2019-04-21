@@ -1,0 +1,1 @@
+{"tmdb_id": 464638, "title": "Physical Aspects of Puberty", "original_title": "Physical Aspects of Puberty", "slug_title": "physical-aspects-of-puberty", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

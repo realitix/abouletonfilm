@@ -1,0 +1,1 @@
+{"tmdb_id": 219235, "title": "Puppet Show", "original_title": "Puppet Show", "slug_title": "puppet-show", "date": "1936-11-02", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

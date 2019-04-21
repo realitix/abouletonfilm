@@ -1,0 +1,1 @@
+{"tmdb_id": 386507, "title": "The Shoji Tabuchi Show", "original_title": "The Shoji Tabuchi Show", "slug_title": "the-shoji-tabuchi-show", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g2OOwTCVnO6LsFH4XCF8EPXf1Yu.jpg", "actors": [], "comments": [], "recommandations_id": []}

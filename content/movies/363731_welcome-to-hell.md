@@ -1,0 +1,1 @@
+{"tmdb_id": 363731, "title": "Welcome to Hell", "original_title": "Welcome to Hell", "slug_title": "welcome-to-hell", "date": "2013-05-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2qsp3gNGtJQZQWLUgDeMWobSM5.jpg", "actors": [], "comments": [], "recommandations_id": []}

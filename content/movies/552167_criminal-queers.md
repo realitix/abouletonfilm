@@ -1,0 +1,1 @@
+{"tmdb_id": 552167, "title": "Criminal Queers", "original_title": "Criminal Queers", "slug_title": "criminal-queers", "date": "2013-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a5Upmp450RqiWWG2gAXf6ZiB0TV.jpg", "actors": ["Star Amerasu ()"], "comments": [], "recommandations_id": []}

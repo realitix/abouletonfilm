@@ -1,0 +1,1 @@
+{"tmdb_id": 428981, "title": "Die Wohnungsnot", "original_title": "Die Wohnungsnot", "slug_title": "die-wohnungsnot", "date": "1920-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ossi Oswalda (Frau)", "Victor Janson (Mann)", "Marga K\u00f6hler (Zimmervermieterin)"], "comments": [], "recommandations_id": []}

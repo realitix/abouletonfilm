@@ -1,0 +1,1 @@
+{"tmdb_id": 313857, "title": "Rock for Asia", "original_title": "Rock for Asia", "slug_title": "rock-for-asia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

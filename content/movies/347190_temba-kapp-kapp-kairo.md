@@ -1,0 +1,1 @@
+{"tmdb_id": 347190, "title": "Temba - kapp kapp Kairo", "original_title": "Temba - kapp kapp Kairo", "slug_title": "temba-kapp-kapp-kairo", "date": "1958-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gunnar Melle (Narrator (voice))"], "comments": [], "recommandations_id": []}

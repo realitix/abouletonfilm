@@ -1,0 +1,1 @@
+{"tmdb_id": 171839, "title": "The Shape of the Future", "original_title": "The Shape of the Future", "slug_title": "the-shape-of-the-future", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557572, "title": "Super Boy", "original_title": "Super Boy", "slug_title": "super-boy", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Srinath ()", "Sujatha ()", "Hari ()"], "comments": [], "recommandations_id": []}

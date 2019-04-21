@@ -1,0 +1,1 @@
+{"tmdb_id": 452512, "title": "Estados da Mat\u00e9ria", "original_title": "Estados da Mat\u00e9ria", "slug_title": "estados-da-materia", "date": "2005-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

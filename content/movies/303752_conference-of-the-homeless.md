@@ -1,0 +1,1 @@
+{"tmdb_id": 303752, "title": "Conference of the Homeless", "original_title": "Weltkongress der Obdachlosen", "slug_title": "conference-of-the-homeless", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

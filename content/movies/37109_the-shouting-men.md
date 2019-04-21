@@ -1,0 +1,1 @@
+{"tmdb_id": 37109, "title": "The Shouting Men", "original_title": "The Shouting Men", "slug_title": "the-shouting-men", "date": "2010-03-05", "genre": "Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mY6rpDO9NfV4WUOEDBg9GDTK89h.jpg", "actors": [], "comments": [], "recommandations_id": [131737, 58446]}

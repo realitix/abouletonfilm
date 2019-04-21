@@ -1,0 +1,1 @@
+{"tmdb_id": 520747, "title": "Family Ties", "original_title": "Llibre de fam\u00edlia", "slug_title": "family-ties", "date": "2005-10-10", "genre": "T\u00e9l\u00e9film / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTlLKYSri5gW6PcmPXkFxHWwrOA.jpg", "actors": [], "comments": [], "recommandations_id": []}

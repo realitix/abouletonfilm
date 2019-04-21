@@ -1,0 +1,1 @@
+{"tmdb_id": 350344, "title": "\ucd98\uc790\ub294 \ubabb\ub9d0\ub824", "original_title": "\ucd98\uc790\ub294 \ubabb\ub9d0\ub824", "slug_title": "cunjaneun-mosmalryeo", "date": "1980-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477883, "title": "Polaris", "original_title": "Polaris", "slug_title": "polaris", "date": "2012-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

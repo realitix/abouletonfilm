@@ -1,0 +1,1 @@
+{"tmdb_id": 117243, "title": "Collectors", "original_title": "Collectors", "slug_title": "collectors", "date": "2000-10-01", "genre": "Action / Thriller / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2q5pBlOyHpSUyKi4bupq8pKoSG5.jpg", "actors": [], "comments": [], "recommandations_id": []}

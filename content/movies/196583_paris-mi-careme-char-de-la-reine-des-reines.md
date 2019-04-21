@@ -1,0 +1,1 @@
+{"tmdb_id": 196583, "title": "Paris, mi-car\u00eame: char de la reine des reines", "original_title": "Paris, mi-car\u00eame: char de la reine des reines", "slug_title": "paris-mi-careme-char-de-la-reine-des-reines", "date": "1897-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

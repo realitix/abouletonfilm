@@ -1,0 +1,1 @@
+{"tmdb_id": 235865, "title": "Operation Sawdust", "original_title": "Operation Sawdust", "slug_title": "operation-sawdust", "date": "1953-06-14", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTitrA4mgveEF98enRsanK4DRzy.jpg", "actors": [], "comments": [], "recommandations_id": []}

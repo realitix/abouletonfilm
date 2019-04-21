@@ -1,0 +1,1 @@
+{"tmdb_id": 329310, "title": "Crossroads of Civilization", "original_title": "Crossroads of Civilization", "slug_title": "crossroads-of-civilization", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

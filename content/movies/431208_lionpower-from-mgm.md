@@ -1,0 +1,1 @@
+{"tmdb_id": 431208, "title": "Lionpower from MGM", "original_title": "Lionpower from MGM", "slug_title": "lionpower-from-mgm", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Weber (Narrator (voice) (uncredited))", "Fred Foy (Narrator (voice) (uncredited))"], "comments": [], "recommandations_id": []}

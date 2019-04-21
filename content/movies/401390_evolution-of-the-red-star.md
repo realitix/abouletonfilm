@@ -1,0 +1,1 @@
+{"tmdb_id": 401390, "title": "Evolution of the Red Star", "original_title": "Evolution of the Red Star", "slug_title": "evolution-of-the-red-star", "date": "1973-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLI1rcQIE7UYd79xlzeOcGstBvF.jpg", "actors": [], "comments": [], "recommandations_id": []}

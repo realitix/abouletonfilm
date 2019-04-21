@@ -1,0 +1,1 @@
+{"tmdb_id": 343808, "title": "Finding Phong", "original_title": "Finding Phong", "slug_title": "finding-phong", "date": "2015-04-20", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rliG0OW7kVxPgRbJJ4JrrA9OQfU.jpg", "actors": ["Anh Phong le (Phong)"], "comments": [], "recommandations_id": []}

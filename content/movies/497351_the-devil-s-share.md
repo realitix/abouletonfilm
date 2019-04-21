@@ -1,0 +1,1 @@
+{"tmdb_id": 497351, "title": "The Devil's Share", "original_title": "La part du diable", "slug_title": "the-devil-s-share", "date": "2018-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2HfLMAgHJD5LMuFs34FmAVrlse.jpg", "actors": [], "comments": [], "recommandations_id": []}

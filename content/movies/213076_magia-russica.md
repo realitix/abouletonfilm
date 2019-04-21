@@ -1,0 +1,1 @@
+{"tmdb_id": 213076, "title": "Magia Russica", "original_title": "Magia Russica", "slug_title": "magia-russica", "date": "2004-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p0CeRG6rThRERkNQ6Z4TQc2cLnK.jpg", "actors": [], "comments": [], "recommandations_id": []}

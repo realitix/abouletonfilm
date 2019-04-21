@@ -1,0 +1,1 @@
+{"tmdb_id": 151533, "title": "Latitude Zero", "original_title": "Latitude Zero", "slug_title": "latitude-zero", "date": "2001-07-10", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1Laz2TubhPrkvwd6sljOlC5bFD.jpg", "actors": ["Debora Duboc ()", "Claudio Jaborandy ()"], "comments": [], "recommandations_id": []}

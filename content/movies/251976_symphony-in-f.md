@@ -1,0 +1,1 @@
+{"tmdb_id": 251976, "title": "Symphony in F", "original_title": "Symphony in F", "slug_title": "symphony-in-f", "date": "1940-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

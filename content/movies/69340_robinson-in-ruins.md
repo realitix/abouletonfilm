@@ -1,0 +1,1 @@
+{"tmdb_id": 69340, "title": "Robinson in Ruins", "original_title": "Robinson in Ruins", "slug_title": "robinson-in-ruins", "date": "2010-11-19", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aBpWvgcEPwjCaI8buzPa41HDbY.jpg", "actors": ["Vanessa Redgrave (Narrator)"], "comments": [], "recommandations_id": []}

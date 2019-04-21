@@ -1,0 +1,1 @@
+{"tmdb_id": 275853, "title": "Dancer's Dream: La Bayad\u00e8re", "original_title": "Dancer's Dream: La Bayad\u00e8re", "slug_title": "dancer-s-dream-la-bayadere", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

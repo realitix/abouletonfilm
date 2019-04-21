@@ -1,0 +1,1 @@
+{"tmdb_id": 428685, "title": "How's Life, Comrade Miner?", "original_title": "Kak zhivesh', tovarishch gorniak?", "slug_title": "how-s-life-comrade-miner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfsSEhNQ5HVMMklIcrgpeoxDHtW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512073, "title": "Virgil Donati - Modern Drummer", "original_title": "Virgil Donati - Modern Drummer", "slug_title": "virgil-donati-modern-drummer", "date": "1997-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/opZN06SiqEnxhqcQfQoeBeuS1Cw.jpg", "actors": [], "comments": [], "recommandations_id": []}

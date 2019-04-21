@@ -1,0 +1,1 @@
+{"tmdb_id": 533561, "title": "O Evangelho segundo Tauba e Primal", "original_title": "O Evangelho segundo Tauba e Primal", "slug_title": "o-evangelho-segundo-tauba-e-primal", "date": "2018-08-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

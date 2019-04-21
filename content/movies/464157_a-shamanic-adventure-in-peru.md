@@ -1,0 +1,1 @@
+{"tmdb_id": 464157, "title": "A Shamanic Adventure In Peru", "original_title": "A Shamanic Adventure In Peru", "slug_title": "a-shamanic-adventure-in-peru", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhm70rp8yejDMw4PGZhLKqYHw2L.jpg", "actors": [], "comments": [], "recommandations_id": []}

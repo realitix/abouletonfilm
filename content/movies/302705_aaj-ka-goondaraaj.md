@@ -1,0 +1,1 @@
+{"tmdb_id": 302705, "title": "Aaj Ka Goondaraaj", "original_title": "Aaj Ka Goondaraaj", "slug_title": "aaj-ka-goondaraaj", "date": "1992-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTdQyLBESW0TCG3XxGFMXu0AOjM.jpg", "actors": [], "comments": [], "recommandations_id": []}

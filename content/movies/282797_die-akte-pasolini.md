@@ -1,0 +1,1 @@
+{"tmdb_id": 282797, "title": "Die Akte Pasolini", "original_title": "Die Akte Pasolini", "slug_title": "die-akte-pasolini", "date": "2013-10-16", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4OYlM6GBtZMx7NBsFFlKBCAXpy.jpg", "actors": [], "comments": [], "recommandations_id": []}

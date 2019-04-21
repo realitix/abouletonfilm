@@ -1,0 +1,1 @@
+{"tmdb_id": 577334, "title": "Beat Me, Daddy", "original_title": "Beat Me, Daddy", "slug_title": "beat-me-daddy", "date": "1943-12-29", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maurice Rocco ()"], "comments": [], "recommandations_id": []}

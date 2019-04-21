@@ -1,0 +1,1 @@
+{"tmdb_id": 452651, "title": "California Dreams", "original_title": "California Dreams", "slug_title": "california-dreams", "date": "2015-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkReB8QawqNhjdHKIXPgqqwSlZk.jpg", "actors": [], "comments": [], "recommandations_id": []}

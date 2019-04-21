@@ -1,0 +1,1 @@
+{"tmdb_id": 586584, "title": "Bowery Dawn", "original_title": "Bowery Dawn", "slug_title": "bowery-dawn", "date": "1972-06-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Lamy (Shadrack)", "Michelle Faith (Daisey)", "Jack Smith (Kiam)"], "comments": [], "recommandations_id": []}

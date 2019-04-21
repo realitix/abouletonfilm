@@ -1,0 +1,1 @@
+{"tmdb_id": 348849, "title": "A Hollywood Detour", "original_title": "A Hollywood Detour", "slug_title": "a-hollywood-detour", "date": "1942-01-23", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Frees (Narrator (uncredited))"], "comments": [], "recommandations_id": []}

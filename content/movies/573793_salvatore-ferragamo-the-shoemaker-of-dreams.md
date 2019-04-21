@@ -1,0 +1,1 @@
+{"tmdb_id": 573793, "title": "Salvatore Ferragamo: The Shoemaker of Dreams", "original_title": "Salvatore Ferragamo: The Shoemaker of Dreams", "slug_title": "salvatore-ferragamo-the-shoemaker-of-dreams", "date": "2019-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

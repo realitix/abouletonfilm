@@ -1,0 +1,1 @@
+{"tmdb_id": 481861, "title": "La hija del mestre", "original_title": "La hija del mestre", "slug_title": "la-hija-del-mestre", "date": "1928-04-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pepe Castellano ()", "Mar\u00eda Teresa Fanjul ()"], "comments": [], "recommandations_id": []}

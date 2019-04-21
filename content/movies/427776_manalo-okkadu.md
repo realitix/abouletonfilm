@@ -1,0 +1,1 @@
+{"tmdb_id": 427776, "title": "Manalo Okkadu", "original_title": "Manalo Okkadu", "slug_title": "manalo-okkadu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

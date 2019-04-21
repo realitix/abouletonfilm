@@ -1,0 +1,1 @@
+{"tmdb_id": 308200, "title": "Insaaf Ka Tarazu", "original_title": "Insaaf Ka Tarazu", "slug_title": "insaaf-ka-tarazu", "date": "1980-12-01", "genre": "Crime / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9WM0Q8GONyt7KWXQX2snfP3YUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

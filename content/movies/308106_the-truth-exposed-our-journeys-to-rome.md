@@ -1,0 +1,1 @@
+{"tmdb_id": 308106, "title": "The Truth Exposed: Our Journeys To Rome", "original_title": "The Truth Exposed: Our Journeys To Rome", "slug_title": "the-truth-exposed-our-journeys-to-rome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

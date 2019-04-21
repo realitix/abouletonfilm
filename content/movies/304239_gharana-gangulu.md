@@ -1,0 +1,1 @@
+{"tmdb_id": 304239, "title": "Gharana Gangulu", "original_title": "Gharana Gangulu", "slug_title": "gharana-gangulu", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

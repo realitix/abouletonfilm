@@ -1,0 +1,1 @@
+{"tmdb_id": 349261, "title": "Rehearsal", "original_title": "\ub9ac\ud5c8\uc124", "slug_title": "rehearsal", "date": "1995-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1UsWCU2eRHMxq85bfr57jaeesS.jpg", "actors": [], "comments": [], "recommandations_id": []}

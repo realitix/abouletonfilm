@@ -1,0 +1,1 @@
+{"tmdb_id": 160258, "title": "Jing Tu - Burning", "original_title": "Jing Tu - Burning", "slug_title": "jing-tu-burning", "date": "2007-12-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSC3jJjKynFEDCj2APwi92XLMLE.jpg", "actors": ["Xu Yilin ()", "Dai Hui ()", "Ding Libo ()"], "comments": [], "recommandations_id": []}

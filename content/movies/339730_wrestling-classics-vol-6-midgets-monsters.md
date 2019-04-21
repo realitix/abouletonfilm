@@ -1,0 +1,1 @@
+{"tmdb_id": 339730, "title": "Wrestling Classics Vol 6: Midgets & Monsters", "original_title": "Wrestling Classics Vol 6: Midgets & Monsters", "slug_title": "wrestling-classics-vol-6-midgets-monsters", "date": "2014-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

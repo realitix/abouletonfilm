@@ -1,0 +1,1 @@
+{"tmdb_id": 533968, "title": "Inside Mosul", "original_title": "V Mosulu", "slug_title": "inside-mosul", "date": "2018-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

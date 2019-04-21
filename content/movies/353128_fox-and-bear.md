@@ -1,0 +1,1 @@
+{"tmdb_id": 353128, "title": "Fox and Bear", "original_title": "Fox and Bear", "slug_title": "fox-and-bear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522280, "title": "JFK: Reckless Youth", "original_title": "JFK: Reckless Youth", "slug_title": "jfk-reckless-youth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFNbba24kImTbiqGnLYml3RTBku.jpg", "actors": [], "comments": [], "recommandations_id": []}

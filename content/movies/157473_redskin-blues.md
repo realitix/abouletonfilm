@@ -1,0 +1,1 @@
+{"tmdb_id": 157473, "title": "Redskin Blues", "original_title": "Redskin Blues", "slug_title": "redskin-blues", "date": "1932-07-22", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAmntnrvv5zDYLmOPr8wjK7YYCh.jpg", "actors": [], "comments": [], "recommandations_id": []}

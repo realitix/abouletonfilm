@@ -1,0 +1,1 @@
+{"tmdb_id": 354713, "title": "A Fight with Sledgehammers", "original_title": "A Fight with Sledgehammers", "slug_title": "a-fight-with-sledgehammers", "date": "1902-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

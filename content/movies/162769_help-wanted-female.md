@@ -1,0 +1,1 @@
+{"tmdb_id": 162769, "title": "Help Wanted, Female", "original_title": "Help Wanted, Female", "slug_title": "help-wanted-female", "date": "1931-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daphne Pollard ()", "Ginger Connelly ()", "Edgar Kennedy ()", "Arthur Housman ()"], "comments": [], "recommandations_id": []}

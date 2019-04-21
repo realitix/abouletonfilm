@@ -1,0 +1,1 @@
+{"tmdb_id": 411987, "title": "Police Story: Gladiator School", "original_title": "Police Story: Gladiator School", "slug_title": "police-story-gladiator-school", "date": "1988-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425014, "title": "Blue Guitar", "original_title": "Blue Guitar", "slug_title": "blue-guitar", "date": "2013-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bC0sek2CoW4wK7NbKPjFhEMrj4H.jpg", "actors": [], "comments": [], "recommandations_id": []}

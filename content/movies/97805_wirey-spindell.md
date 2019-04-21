@@ -1,0 +1,1 @@
+{"tmdb_id": 97805, "title": "Wirey Spindell", "original_title": "Wirey Spindell", "slug_title": "wirey-spindell", "date": "2000-01-21", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Schaeffer (Wirey Spindell)", "Eric Mabius ()", "Callie Thorne ()"], "comments": [], "recommandations_id": []}

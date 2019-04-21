@@ -1,0 +1,1 @@
+{"tmdb_id": 306407, "title": "Ghar Ki Izzat", "original_title": "Ghar Ki Izzat", "slug_title": "ghar-ki-izzat", "date": "1994-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

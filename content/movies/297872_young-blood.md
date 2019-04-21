@@ -1,0 +1,1 @@
+{"tmdb_id": 297872, "title": "Young Blood", "original_title": "Young Blood", "slug_title": "young-blood", "date": "2014-10-16", "genre": "Drame / Action / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uZQSOqppzRsHuwlfODFlpnU2uM.jpg", "actors": [], "comments": [], "recommandations_id": []}

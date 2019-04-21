@@ -1,0 +1,1 @@
+{"tmdb_id": 585938, "title": "Sevilla Rota", "original_title": "Sevilla Rota", "slug_title": "sevilla-rota", "date": "1978-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPt7VDWk2WGAleQNOvOXe23qpq4.jpg", "actors": [], "comments": [], "recommandations_id": []}

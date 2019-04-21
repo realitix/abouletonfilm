@@ -1,0 +1,1 @@
+{"tmdb_id": 487412, "title": "One Punch: The Eddie Copeland Story", "original_title": "One Punch: The Eddie Copeland Story", "slug_title": "one-punch-the-eddie-copeland-story", "date": "2017-06-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

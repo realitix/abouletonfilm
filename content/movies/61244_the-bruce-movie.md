@@ -1,0 +1,1 @@
+{"tmdb_id": 61244, "title": "The Bruce Movie", "original_title": "The Bruce Movie", "slug_title": "the-bruce-movie", "date": "2005-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmI7Qj7blXCBevDJGLrPS4uew5u.jpg", "actors": ["Bruce Irons (Himself)"], "comments": [], "recommandations_id": []}

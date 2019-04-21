@@ -1,0 +1,1 @@
+{"tmdb_id": 459762, "title": "Interieur Interiors (To A-K)", "original_title": "Interieur Interiors (To A-K)", "slug_title": "interieur-interiors-to-a-k", "date": "1978-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

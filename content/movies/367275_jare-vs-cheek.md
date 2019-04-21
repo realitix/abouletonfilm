@@ -1,0 +1,1 @@
+{"tmdb_id": 367275, "title": "Jare vs. Cheek", "original_title": "Jare vs. Cheek", "slug_title": "jare-vs-cheek", "date": "2015-11-08", "genre": "T\u00e9l\u00e9film / Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

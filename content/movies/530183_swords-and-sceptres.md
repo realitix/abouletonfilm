@@ -1,0 +1,1 @@
+{"tmdb_id": 530183, "title": "Swords and Sceptres", "original_title": "Swords and Sceptres", "slug_title": "swords-and-sceptres", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

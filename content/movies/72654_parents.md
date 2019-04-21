@@ -1,0 +1,1 @@
+{"tmdb_id": 72654, "title": "Parents", "original_title": "Foreldrar", "slug_title": "parents", "date": "2007-01-19", "genre": "Horreur / Com\u00e9die", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7rGC7tfMABJ5KuUHT0K1Zxne2j0.jpg", "actors": [], "comments": [], "recommandations_id": []}

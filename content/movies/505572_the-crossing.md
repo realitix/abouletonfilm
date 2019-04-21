@@ -1,0 +1,1 @@
+{"tmdb_id": 505572, "title": "The Crossing", "original_title": "La Travers\u00e9e", "slug_title": "the-crossing", "date": "2005-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myvLaSXnDYRgF74vRgUqqe2o2n4.jpg", "actors": ["Yann Tiersen (Yann Tiersen)"], "comments": [], "recommandations_id": []}

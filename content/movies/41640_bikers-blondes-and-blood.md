@@ -1,0 +1,1 @@
+{"tmdb_id": 41640, "title": "Bikers, Blondes and Blood", "original_title": "Bikers, Blondes and Blood", "slug_title": "bikers-blondes-and-blood", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Legend (Host)"], "comments": [], "recommandations_id": []}

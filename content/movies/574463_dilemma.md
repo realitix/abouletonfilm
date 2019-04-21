@@ -1,0 +1,1 @@
+{"tmdb_id": 574463, "title": "Dilemma", "original_title": "Dilemma", "slug_title": "dilemma", "date": "2018-08-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["babak behshad ()", "Khosrow Shahraz ()"], "comments": [], "recommandations_id": []}

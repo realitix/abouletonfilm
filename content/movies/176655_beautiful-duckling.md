@@ -1,0 +1,1 @@
+{"tmdb_id": 176655, "title": "Beautiful Duckling", "original_title": "Yang ya ren jia", "slug_title": "beautiful-duckling", "date": "1965-05-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txtnQV7bzu3RhaPdfbp5U8uBMwj.jpg", "actors": [], "comments": [], "recommandations_id": []}

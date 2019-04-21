@@ -1,0 +1,1 @@
+{"tmdb_id": 66573, "title": "MTV 20: Beats", "original_title": "MTV 20: Beats", "slug_title": "mtv-20-beats", "date": "2001-07-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7EKvJMtwJPJxCGJrRwpNqfS16nw.jpg", "actors": [], "comments": [], "recommandations_id": []}

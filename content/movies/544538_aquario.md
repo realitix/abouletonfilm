@@ -1,0 +1,1 @@
+{"tmdb_id": 544538, "title": "AQU\u00c1RIO", "original_title": "AQU\u00c1RIO", "slug_title": "aquario", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

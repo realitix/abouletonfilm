@@ -1,0 +1,1 @@
+{"tmdb_id": 504876, "title": "Chuck Solomon: Coming of Age", "original_title": "Chuck Solomon: Coming of Age", "slug_title": "chuck-solomon-coming-of-age", "date": "1987-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chuck Solomon ()", "Tom Ammiano ()", "Doris Fish ()"], "comments": [], "recommandations_id": []}

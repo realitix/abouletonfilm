@@ -1,0 +1,1 @@
+{"tmdb_id": 360988, "title": "A kisvakond \u00e9s a h\u00f3ember", "original_title": "A kisvakond \u00e9s a h\u00f3ember", "slug_title": "a-kisvakond-es-a-hoember", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1wmUFW9KMXHeCd1aOYzQLo3jK9.jpg", "actors": [], "comments": [], "recommandations_id": []}

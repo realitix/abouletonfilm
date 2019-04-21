@@ -1,0 +1,1 @@
+{"tmdb_id": 461729, "title": "Thank God It's Friday", "original_title": "M\u00e9moires anachroniques ou le couscous du vendredi midi", "slug_title": "thank-god-it-s-friday", "date": "2017-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

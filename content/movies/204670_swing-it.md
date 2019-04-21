@@ -1,0 +1,1 @@
+{"tmdb_id": 204670, "title": "Swing It", "original_title": "Swing It", "slug_title": "swing-it", "date": "1936-06-30", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Prima (Louis Prima - Band Leader)", "Lucille Ball (Mary (uncredited))", "Pee Wee Russell (Himself)"], "comments": [], "recommandations_id": []}

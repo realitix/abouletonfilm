@@ -1,0 +1,1 @@
+{"tmdb_id": 319703, "title": "Christy: A Change of Seasons", "original_title": "Christy: A Change of Seasons", "slug_title": "christy-a-change-of-seasons", "date": "2001-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxRtViUkSOElcRNw7WRkzmIz4kn.jpg", "actors": [], "comments": [], "recommandations_id": []}

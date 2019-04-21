@@ -1,0 +1,1 @@
+{"tmdb_id": 372996, "title": "Minus One", "original_title": "Minus One", "slug_title": "minus-one", "date": "1991-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alfred Hyslop (Dr. Mellinger)"], "comments": [], "recommandations_id": []}

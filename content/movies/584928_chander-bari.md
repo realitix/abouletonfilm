@@ -1,0 +1,1 @@
+{"tmdb_id": 584928, "title": "Chander Bari", "original_title": "Chander Bari", "slug_title": "chander-bari", "date": "1970-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p4M01DuyqRvUZtC90csCIVwvrut.jpg", "actors": [], "comments": [], "recommandations_id": []}

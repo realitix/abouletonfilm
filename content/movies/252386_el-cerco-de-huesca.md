@@ -1,0 +1,1 @@
+{"tmdb_id": 252386, "title": "El cerco de Huesca", "original_title": "El cerco de Huesca", "slug_title": "el-cerco-de-huesca", "date": "1937-01-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

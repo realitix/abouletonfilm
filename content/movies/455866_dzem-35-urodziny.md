@@ -1,0 +1,1 @@
+{"tmdb_id": 455866, "title": "D\u017cem - 35 Urodziny", "original_title": "D\u017cem - 35 Urodziny", "slug_title": "dzem-35-urodziny", "date": "2015-06-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fR7NA6WwmrOwTF1M4tU3KWPDwLo.jpg", "actors": [], "comments": [], "recommandations_id": []}

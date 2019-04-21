@@ -1,0 +1,1 @@
+{"tmdb_id": 518804, "title": "Her Mother", "original_title": "Her Mother", "slug_title": "her-mother", "date": "", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

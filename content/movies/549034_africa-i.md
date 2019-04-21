@@ -1,0 +1,1 @@
+{"tmdb_id": 549034, "title": "Africa \u2160", "original_title": "Africa \u2160", "slug_title": "africa-i", "date": "2010-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmLZs3ROxBaRJZdbTaI4t20Y692.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549691, "title": "God Bless You, Mr. Vonnegut", "original_title": "God Bless You, Mr. Vonnegut", "slug_title": "god-bless-you-mr-vonnegut", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLX48fTZZFdrlvYLIecgGyaYzGz.jpg", "actors": [], "comments": [], "recommandations_id": []}

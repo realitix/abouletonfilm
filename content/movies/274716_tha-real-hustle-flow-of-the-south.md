@@ -1,0 +1,1 @@
+{"tmdb_id": 274716, "title": "Tha Real Hustle & Flow of the South", "original_title": "Tha Real Hustle & Flow of the South", "slug_title": "tha-real-hustle-flow-of-the-south", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

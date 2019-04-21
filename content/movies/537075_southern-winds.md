@@ -1,0 +1,1 @@
+{"tmdb_id": 537075, "title": "Southern Winds", "original_title": "Vientos del sur", "slug_title": "southern-winds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9did7pf4M4HekiXiMEr5nfbtURr.jpg", "actors": ["Carolina Ni\u00f1o de Guzm\u00e1n (Nina)"], "comments": [], "recommandations_id": []}

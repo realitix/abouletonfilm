@@ -1,0 +1,1 @@
+{"tmdb_id": 477156, "title": "The Line-Up at Police Headquarters", "original_title": "The Line-Up at Police Headquarters", "slug_title": "the-line-up-at-police-headquarters", "date": "1914-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

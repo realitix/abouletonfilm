@@ -1,0 +1,1 @@
+{"tmdb_id": 549920, "title": "Wangan Doro", "original_title": "\u6e7e\u5cb8\u9053\u8def", "slug_title": "wangan-doro", "date": "1984-09-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Masao Kusakari ()", "Kanako Higuchi ()", "Kaoru Kobayashi ()", "Kentar\u00f4 Shimizu ()"], "comments": [], "recommandations_id": []}

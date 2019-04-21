@@ -1,0 +1,1 @@
+{"tmdb_id": 330329, "title": "Birdland - April in Paris", "original_title": "Birdland - April in Paris", "slug_title": "birdland-april-in-paris", "date": "1993-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3uPLANvYboutPjdMio3L51UEcx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 298927, "title": "Warsaw Uprising", "original_title": "Warsaw Uprising", "slug_title": "warsaw-uprising", "date": "2014-05-09", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNqvnB8IIjl9jZJIsdU1WoeAfHN.jpg", "actors": [], "comments": [], "recommandations_id": []}

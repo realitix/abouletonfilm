@@ -1,0 +1,1 @@
+{"tmdb_id": 144664, "title": "Fire in Hell", "original_title": "\uc9c0\uc625\ud654", "slug_title": "fire-in-hell", "date": "2014-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXYTWqUprbzObGhd6iJtBpbJ3L.jpg", "actors": ["Won Tae-hee ()"], "comments": [], "recommandations_id": []}

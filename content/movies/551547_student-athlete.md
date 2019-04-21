@@ -1,0 +1,1 @@
+{"tmdb_id": 551547, "title": "Student Athlete", "original_title": "Student Athlete", "slug_title": "student-athlete", "date": "2018-10-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wS8Qd3iWwoTQbbnCSD5SbJP3Nle.jpg", "actors": ["LeBron James (Himself)"], "comments": [], "recommandations_id": []}

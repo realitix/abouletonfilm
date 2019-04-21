@@ -1,0 +1,1 @@
+{"tmdb_id": 240411, "title": "Dive-Hi Champs", "original_title": "Dive-Hi Champs", "slug_title": "dive-hi-champs", "date": "1946-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

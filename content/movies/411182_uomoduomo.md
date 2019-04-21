@@ -1,0 +1,1 @@
+{"tmdb_id": 411182, "title": "Uomoduomo", "original_title": "Uomoduomo", "slug_title": "uomoduomo", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwDjLv0SfDfBSAuxOQQR2D1xDHN.jpg", "actors": [], "comments": [], "recommandations_id": []}

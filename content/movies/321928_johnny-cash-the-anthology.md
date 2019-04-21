@@ -1,0 +1,1 @@
+{"tmdb_id": 321928, "title": "Johnny Cash: The Anthology", "original_title": "Johnny Cash: The Anthology", "slug_title": "johnny-cash-the-anthology", "date": "2000-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xINO6L0MFUZWxNG4ugwNi9C7tAs.jpg", "actors": [], "comments": [], "recommandations_id": []}

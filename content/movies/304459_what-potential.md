@@ -1,0 +1,1 @@
+{"tmdb_id": 304459, "title": "What Potential!", "original_title": "What Potential!", "slug_title": "what-potential", "date": "2014-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

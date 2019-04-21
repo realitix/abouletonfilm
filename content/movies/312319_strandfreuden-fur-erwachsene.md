@@ -1,0 +1,1 @@
+{"tmdb_id": 312319, "title": "Strandfreuden f\u00fcr Erwachsene", "original_title": "Strandfreuden f\u00fcr Erwachsene", "slug_title": "strandfreuden-fur-erwachsene", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

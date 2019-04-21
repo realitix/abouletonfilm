@@ -1,0 +1,1 @@
+{"tmdb_id": 472197, "title": "Copa Vidigal", "original_title": "Copa Vidigal", "slug_title": "copa-vidigal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

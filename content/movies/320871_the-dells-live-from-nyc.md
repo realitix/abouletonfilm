@@ -1,0 +1,1 @@
+{"tmdb_id": 320871, "title": "The Dells: Live from NYC", "original_title": "The Dells: Live from NYC", "slug_title": "the-dells-live-from-nyc", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

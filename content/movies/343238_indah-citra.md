@@ -1,0 +1,1 @@
+{"tmdb_id": 343238, "title": "Indah Citra", "original_title": "Indah Citra", "slug_title": "indah-citra", "date": "2015-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195954, "title": "The Drawing Lesson", "original_title": "La Statue anim\u00e9e", "slug_title": "the-drawing-lesson", "date": "1903-01-01", "genre": "", "score": "4.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [190683, 108285, 107261, 107273]}

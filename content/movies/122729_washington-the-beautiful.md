@@ -1,0 +1,1 @@
+{"tmdb_id": 122729, "title": "Washington the Beautiful", "original_title": "Washington the Beautiful", "slug_title": "washington-the-beautiful", "date": "2008-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w96xRWgWesXBOitNqbuDkHcB2OS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 192269, "title": "Tragedy of the Dress Suit", "original_title": "Tragedy of the Dress Suit", "slug_title": "tragedy-of-the-dress-suit", "date": "1912-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mabel Normand (The Heiress)", "Dell Henderson (Dick)"], "comments": [], "recommandations_id": []}

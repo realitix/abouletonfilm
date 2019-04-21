@@ -1,0 +1,1 @@
+{"tmdb_id": 235761, "title": "Sleepy-Time Squirrel", "original_title": "Sleepy-Time Squirrel", "slug_title": "sleepy-time-squirrel", "date": "1954-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ri4ljbUOupR2mx1aDFGKGs1j0Z1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 359248, "title": "Fanihi: A Cultural Digest", "original_title": "Fanihi: A Cultural Digest", "slug_title": "fanihi-a-cultural-digest", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXk1O14YQV3gaxaNzbbmgbglHBz.jpg", "actors": [], "comments": [], "recommandations_id": []}

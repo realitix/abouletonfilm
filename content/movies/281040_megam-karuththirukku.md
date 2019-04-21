@@ -1,0 +1,1 @@
+{"tmdb_id": 281040, "title": "Megam Karuththirukku", "original_title": "Megam Karuththirukku", "slug_title": "megam-karuththirukku", "date": "1987-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Prabhu Ganesan ()", "Raghuvaran ()", "Rekha ()", "Madhuri ()"], "comments": [], "recommandations_id": []}

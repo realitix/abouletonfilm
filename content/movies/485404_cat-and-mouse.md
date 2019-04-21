@@ -1,0 +1,1 @@
+{"tmdb_id": 485404, "title": "Cat and Mouse", "original_title": "Cat and Mouse", "slug_title": "cat-and-mouse", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCm0rvZtDQhtGxFe6H9nvFcbA5m.jpg", "actors": [], "comments": [], "recommandations_id": []}

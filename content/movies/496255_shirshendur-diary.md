@@ -1,0 +1,1 @@
+{"tmdb_id": 496255, "title": "Shirshendur Diary", "original_title": "Shirshendur Diary", "slug_title": "shirshendur-diary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

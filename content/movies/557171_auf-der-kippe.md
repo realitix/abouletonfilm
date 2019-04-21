@@ -1,0 +1,1 @@
+{"tmdb_id": 557171, "title": "Auf der Kippe", "original_title": "Auf der Kippe", "slug_title": "auf-der-kippe", "date": "1997-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

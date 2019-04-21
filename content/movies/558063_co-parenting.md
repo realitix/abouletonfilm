@@ -1,0 +1,1 @@
+{"tmdb_id": 558063, "title": "Co-Parenting", "original_title": "Co-Parenting", "slug_title": "co-parenting", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Hart ()"], "comments": [], "recommandations_id": []}

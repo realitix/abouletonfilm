@@ -1,0 +1,1 @@
+{"tmdb_id": 390873, "title": "Ruddigore", "original_title": "Ruddigore", "slug_title": "ruddigore", "date": "1967-04-01", "genre": "Animation / Com\u00e9die / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrRcDpGOR3NUEzFBX4K3b5uH73k.jpg", "actors": [], "comments": [], "recommandations_id": []}

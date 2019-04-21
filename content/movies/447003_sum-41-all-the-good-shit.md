@@ -1,0 +1,1 @@
+{"tmdb_id": 447003, "title": "Sum 41 All the Good Shit", "original_title": "Sum 41 All the Good Shit", "slug_title": "sum-41-all-the-good-shit", "date": "2008-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 121132, "title": "Ra\u00e7a Negra & Amigos", "original_title": "Ra\u00e7a Negra & Amigos", "slug_title": "raca-negra-amigos", "date": "2012-07-04", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBlaWgD4YYFCOU88kUiW6NoazEL.jpg", "actors": [], "comments": [], "recommandations_id": []}

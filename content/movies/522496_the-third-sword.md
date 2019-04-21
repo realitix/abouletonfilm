@@ -1,0 +1,1 @@
+{"tmdb_id": 522496, "title": "The Third Sword", "original_title": "Di san ba fei dao", "slug_title": "the-third-sword", "date": "1978-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZxUlRCq3Ev9vO0ixJ2XdgtmA1e.jpg", "actors": ["Shih Szu ()", "Wang Kuan-Hsiung ()"], "comments": [], "recommandations_id": []}

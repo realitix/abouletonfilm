@@ -1,0 +1,1 @@
+{"tmdb_id": 187348, "title": "The Man with Two Wives", "original_title": "The Man with Two Wives", "slug_title": "the-man-with-two-wives", "date": "1971-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7K3POlMcEfmcuwg5Sh6RXAVkdyS.jpg", "actors": [], "comments": [], "recommandations_id": []}

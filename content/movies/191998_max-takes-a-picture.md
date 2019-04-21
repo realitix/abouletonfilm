@@ -1,0 +1,1 @@
+{"tmdb_id": 191998, "title": "Max Takes a Picture", "original_title": "Max fait de la photo", "slug_title": "max-takes-a-picture", "date": "1913-01-12", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZkt4duKj2bLh257OG94wtJ5yZD.jpg", "actors": ["Max Linder ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 555693, "title": "Le scandale", "original_title": "Le scandale", "slug_title": "le-scandale", "date": "1918-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

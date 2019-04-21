@@ -1,0 +1,1 @@
+{"tmdb_id": 159013, "title": "Artistic Temper", "original_title": "Artistic Temper", "slug_title": "artistic-temper", "date": "1932-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

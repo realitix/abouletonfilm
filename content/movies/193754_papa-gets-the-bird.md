@@ -1,0 +1,1 @@
+{"tmdb_id": 193754, "title": "Papa Gets the Bird", "original_title": "Papa Gets the Bird", "slug_title": "papa-gets-the-bird", "date": "1940-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlmlB6CXJe9E3d6xwHFfmuhRdFo.jpg", "actors": [], "comments": [], "recommandations_id": []}

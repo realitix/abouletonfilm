@@ -1,0 +1,1 @@
+{"tmdb_id": 311780, "title": "Engelbert Humperdinck: King of Romance", "original_title": "Engelbert Humperdinck: King of Romance", "slug_title": "engelbert-humperdinck-king-of-romance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195091, "title": "Buffalo Fire Department in Action", "original_title": "Buffalo Fire Department in Action", "slug_title": "buffalo-fire-department-in-action", "date": "1897-10-20", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [190641, 139873, 121466, 191911]}

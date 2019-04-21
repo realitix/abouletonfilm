@@ -1,0 +1,1 @@
+{"tmdb_id": 211508, "title": "One Standup Comedy 10", "original_title": "One Standup Comedy 10", "slug_title": "one-standup-comedy-10", "date": "2013-07-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9YYVyutuGrfST4bmOQ62q4S9ai.jpg", "actors": [], "comments": [], "recommandations_id": []}

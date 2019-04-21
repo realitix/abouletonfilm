@@ -1,0 +1,1 @@
+{"tmdb_id": 236162, "title": "String Bean Jack", "original_title": "String Bean Jack", "slug_title": "string-bean-jack", "date": "1938-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

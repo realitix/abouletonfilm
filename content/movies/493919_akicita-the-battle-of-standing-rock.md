@@ -1,0 +1,1 @@
+{"tmdb_id": 493919, "title": "Akicita: The Battle of Standing Rock", "original_title": "Akicita: The Battle of Standing Rock", "slug_title": "akicita-the-battle-of-standing-rock", "date": "2018-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

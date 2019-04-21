@@ -1,0 +1,1 @@
+{"tmdb_id": 552372, "title": "Eldon Rathburn: They Shoot... He Scores", "original_title": "Eldon Rathburn: They Shoot... He Scores", "slug_title": "eldon-rathburn-they-shoot-he-scores", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

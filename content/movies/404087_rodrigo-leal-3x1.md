@@ -1,0 +1,1 @@
+{"tmdb_id": 404087, "title": "Rodrigo Leal - 3x1", "original_title": "Rodrigo Leal - 3x1", "slug_title": "rodrigo-leal-3x1", "date": "2016-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jz21lmPqryp64ojMy3vbRMk9HLM.jpg", "actors": [], "comments": [], "recommandations_id": []}

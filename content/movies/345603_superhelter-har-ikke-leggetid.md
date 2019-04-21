@@ -1,0 +1,1 @@
+{"tmdb_id": 345603, "title": "Superhelter har ikke leggetid", "original_title": "Superhelter har ikke leggetid", "slug_title": "superhelter-har-ikke-leggetid", "date": "2010-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johannes Karlsen (Bent)", "Line Verndal (Mother)"], "comments": [], "recommandations_id": []}

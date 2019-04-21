@@ -1,0 +1,1 @@
+{"tmdb_id": 534833, "title": "\u0414\u0440\u0443\u0433\u0430\u044f \u044f", "original_title": "\u0414\u0440\u0443\u0433\u0430\u044f \u044f", "slug_title": "drugaia-ia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9kdbLRzGljQx8c2WVXf7sDPf4iM.jpg", "actors": [], "comments": [], "recommandations_id": []}

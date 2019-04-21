@@ -1,0 +1,1 @@
+{"tmdb_id": 330967, "title": "A Manly Man", "original_title": "A Manly Man", "slug_title": "a-manly-man", "date": "1911-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Pickford (Lola)", "Owen Moore (Norman Duncan)"], "comments": [], "recommandations_id": []}

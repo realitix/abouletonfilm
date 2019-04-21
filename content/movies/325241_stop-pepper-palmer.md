@@ -1,0 +1,1 @@
+{"tmdb_id": 325241, "title": "Stop Pepper Palmer", "original_title": "Stop Pepper Palmer", "slug_title": "stop-pepper-palmer", "date": "2014-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Too $hort (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 438955, "title": "Zen and War", "original_title": "Zen and War", "slug_title": "zen-and-war", "date": "2009-01-01", "genre": "Documentaire / Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9QSNy4O93envvUZZ0MyFnNhIduG.jpg", "actors": [], "comments": [], "recommandations_id": []}

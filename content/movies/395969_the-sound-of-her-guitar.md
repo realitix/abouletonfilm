@@ -1,0 +1,1 @@
+{"tmdb_id": 395969, "title": "The Sound of Her Guitar", "original_title": "The Sound of Her Guitar", "slug_title": "the-sound-of-her-guitar", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

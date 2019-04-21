@@ -1,0 +1,1 @@
+{"tmdb_id": 506579, "title": "Tasty Bits", "original_title": "Lakomyy kusochek", "slug_title": "tasty-bits", "date": "2003-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sf0lvOYNb1YjK6WKdGAJgwfVlLA.jpg", "actors": [], "comments": [], "recommandations_id": []}

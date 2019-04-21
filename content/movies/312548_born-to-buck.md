@@ -1,0 +1,1 @@
+{"tmdb_id": 312548, "title": "Born to Buck", "original_title": "Born to Buck", "slug_title": "born-to-buck", "date": "1966-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

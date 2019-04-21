@@ -1,0 +1,1 @@
+{"tmdb_id": 469389, "title": "The Genius and the Opera Singer", "original_title": "The Genius and the Opera Singer", "slug_title": "the-genius-and-the-opera-singer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

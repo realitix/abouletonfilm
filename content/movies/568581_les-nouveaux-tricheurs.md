@@ -1,0 +1,1 @@
+{"tmdb_id": 568581, "title": "Les nouveaux tricheurs", "original_title": "Les nouveaux tricheurs", "slug_title": "les-nouveaux-tricheurs", "date": "1987-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKkH1ZufaEPbrIS1riPHHf5IUG0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 50069, "title": "Yoo-Hoo, Mrs. Goldberg", "original_title": "Yoo-Hoo, Mrs. Goldberg", "slug_title": "yoo-hoo-mrs-goldberg", "date": "2009-07-10", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/snm8VVuTp76B9dWwlxBWg7o2AeH.jpg", "actors": [], "comments": [], "recommandations_id": []}

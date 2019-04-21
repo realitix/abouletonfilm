@@ -1,0 +1,1 @@
+{"tmdb_id": 562351, "title": "T\u00eate folle", "original_title": "T\u00eate folle", "slug_title": "tete-folle", "date": "1960-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCDmwOaYCXOibTmKYDxG9RdL3Ya.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522768, "title": "Note to Tetsua", "original_title": "Note to Tetsua", "slug_title": "note-to-tetsua", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

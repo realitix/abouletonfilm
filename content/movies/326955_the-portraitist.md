@@ -1,0 +1,1 @@
+{"tmdb_id": 326955, "title": "The Portraitist", "original_title": "The Portraitist", "slug_title": "the-portraitist", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uWYDR7RmkEyv2eSX0g4LhXxJjFP.jpg", "actors": ["Wilhelm Brasse (Himself)"], "comments": [], "recommandations_id": []}

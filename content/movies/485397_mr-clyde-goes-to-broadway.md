@@ -1,0 +1,1 @@
+{"tmdb_id": 485397, "title": "Mr. Clyde Goes to Broadway", "original_title": "Mr. Clyde Goes to Broadway", "slug_title": "mr-clyde-goes-to-broadway", "date": "1940-02-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

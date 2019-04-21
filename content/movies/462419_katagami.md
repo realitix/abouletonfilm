@@ -1,0 +1,1 @@
+{"tmdb_id": 462419, "title": "Katagami", "original_title": "Katagami", "slug_title": "katagami", "date": "2017-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94BuxYlUJSmFyHpoId0AODZG9i5.jpg", "actors": [], "comments": [], "recommandations_id": []}

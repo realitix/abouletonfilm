@@ -1,0 +1,1 @@
+{"tmdb_id": 561281, "title": "Fundaments", "original_title": "Fundamenti", "slug_title": "fundaments", "date": "2018-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsC4NJiaxG622C93fDScdNUxSng.jpg", "actors": [], "comments": [], "recommandations_id": []}

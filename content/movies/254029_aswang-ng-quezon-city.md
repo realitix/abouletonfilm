@@ -1,0 +1,1 @@
+{"tmdb_id": 254029, "title": "Aswang ng Quezon City", "original_title": "Aswang ng Quezon City", "slug_title": "aswang-ng-quezon-city", "date": "2006-10-16", "genre": "Horreur", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLGSNgGqB20SNuRsXazcR6Euuzg.jpg", "actors": [], "comments": [], "recommandations_id": []}

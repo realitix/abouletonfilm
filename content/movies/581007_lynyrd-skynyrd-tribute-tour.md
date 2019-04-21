@@ -1,0 +1,1 @@
+{"tmdb_id": 581007, "title": "Lynyrd Skynyrd Tribute Tour", "original_title": "Lynyrd Skynyrd Tribute Tour", "slug_title": "lynyrd-skynyrd-tribute-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

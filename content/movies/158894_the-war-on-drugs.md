@@ -1,0 +1,1 @@
+{"tmdb_id": 158894, "title": "The War on Drugs", "original_title": "The War on Drugs", "slug_title": "the-war-on-drugs", "date": "2007-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

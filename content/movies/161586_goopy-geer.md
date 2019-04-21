@@ -1,0 +1,1 @@
+{"tmdb_id": 161586, "title": "Goopy Geer", "original_title": "Goopy Geer", "slug_title": "goopy-geer", "date": "1932-04-16", "genre": "Com\u00e9die / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZs8j2dvJhLT0XmSLoQToWKY3dS.jpg", "actors": [], "comments": [], "recommandations_id": []}

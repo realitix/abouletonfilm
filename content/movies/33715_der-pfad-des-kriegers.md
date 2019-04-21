@@ -1,0 +1,1 @@
+{"tmdb_id": 33715, "title": "Der Pfad des Kriegers", "original_title": "Der Pfad des Kriegers", "slug_title": "der-pfad-des-kriegers", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iw0LZhf5b5vMY4rCsBP5Scq8la8.jpg", "actors": [], "comments": [], "recommandations_id": []}

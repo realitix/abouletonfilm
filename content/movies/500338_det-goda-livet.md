@@ -1,0 +1,1 @@
+{"tmdb_id": 500338, "title": "Det goda livet", "original_title": "Det goda livet", "slug_title": "det-goda-livet", "date": "2001-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

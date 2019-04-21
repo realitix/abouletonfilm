@@ -1,0 +1,1 @@
+{"tmdb_id": 151951, "title": "Danni Carlos Ao Vivo", "original_title": "Danni Carlos Ao Vivo", "slug_title": "danni-carlos-ao-vivo", "date": "2005-07-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBN90jQldDkZvdV3MzWwE3ZYNu4.jpg", "actors": [], "comments": [], "recommandations_id": []}

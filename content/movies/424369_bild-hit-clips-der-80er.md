@@ -1,0 +1,1 @@
+{"tmdb_id": 424369, "title": "Bild: Hit - Clips der 80er", "original_title": "Bild: Hit - Clips der 80er", "slug_title": "bild-hit-clips-der-80er", "date": "2000-04-04", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v8t7TC7XTPgVGmh7nwBSkg4DsGi.jpg", "actors": [], "comments": [], "recommandations_id": []}

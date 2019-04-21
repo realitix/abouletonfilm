@@ -1,0 +1,1 @@
+{"tmdb_id": 312236, "title": "Black Dragon Collection: Yao's Young Warriors", "original_title": "Black Dragon Collection: Yao's Young Warriors", "slug_title": "black-dragon-collection-yao-s-young-warriors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236581, "title": "Beautiful Clothes", "original_title": "Beautiful Clothes", "slug_title": "beautiful-clothes", "date": "1942-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon (Stooge)", "Jean Willes (Model)"], "comments": [], "recommandations_id": []}

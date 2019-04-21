@@ -1,0 +1,1 @@
+{"tmdb_id": 306137, "title": "Bedard Zamana Kya Jane", "original_title": "Bedard Zamana Kya Jane", "slug_title": "bedard-zamana-kya-jane", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

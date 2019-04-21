@@ -1,0 +1,1 @@
+{"tmdb_id": 163596, "title": "Laurie Berkner Band Party Day", "original_title": "Laurie Berkner Band Party Day", "slug_title": "laurie-berkner-band-party-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c49NGzzAlMnX02FbusznVttViGu.jpg", "actors": [], "comments": [], "recommandations_id": []}

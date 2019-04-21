@@ -1,0 +1,1 @@
+{"tmdb_id": 373637, "title": "Accoltellati", "original_title": "Accoltellati", "slug_title": "accoltellati", "date": "2006-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 529577, "title": "Mulan Joins the Army", "original_title": "\u6728\u862d\u5f9e\u8ecd", "slug_title": "mulan-joins-the-army", "date": "1928-06-13", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Li Dandan (Hua Mulan)", "Lin Chu-Chu ()", "Liang Menghen ()"], "comments": [], "recommandations_id": []}

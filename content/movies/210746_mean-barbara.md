@@ -1,0 +1,1 @@
+{"tmdb_id": 210746, "title": "Mean Barbara", "original_title": "Lakom\u00e1 Barka", "slug_title": "mean-barbara", "date": "1987-07-28", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4dvhweSXyJZRwcQay7TiE2ymIx5.jpg", "actors": [], "comments": [], "recommandations_id": []}

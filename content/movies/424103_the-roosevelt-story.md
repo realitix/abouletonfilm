@@ -1,0 +1,1 @@
+{"tmdb_id": 424103, "title": "The Roosevelt Story", "original_title": "The Roosevelt Story", "slug_title": "the-roosevelt-story", "date": "1947-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3LdBvFF0fvgEwJl1ESJTFKUhxQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

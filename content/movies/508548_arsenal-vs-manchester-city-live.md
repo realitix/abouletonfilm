@@ -1,0 +1,1 @@
+{"tmdb_id": 508548, "title": "Arsenal vs Manchester City LIVE", "original_title": "Arsenal vs Manchester City LIVE", "slug_title": "arsenal-vs-manchester-city-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

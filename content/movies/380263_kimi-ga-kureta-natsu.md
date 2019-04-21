@@ -1,0 +1,1 @@
+{"tmdb_id": 380263, "title": "Kimi Ga Kureta Natsu", "original_title": "\u541b\u304c\u304f\u308c\u305f\u590f", "slug_title": "kimi-ga-kureta-natsu", "date": "2007-08-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jecwUAJGg1ePtMwLObjGqRxIEyh.jpg", "actors": [], "comments": [], "recommandations_id": []}

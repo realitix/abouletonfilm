@@ -1,0 +1,1 @@
+{"tmdb_id": 503703, "title": "Chinni Chinni Asalu Nalo Regene", "original_title": "Chinni Chinni Asalu Nalo Regene", "slug_title": "chinni-chinni-asalu-nalo-regene", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

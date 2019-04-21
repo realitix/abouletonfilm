@@ -1,0 +1,1 @@
+{"tmdb_id": 507765, "title": "Still Life with Cows", "original_title": "Still Life with Cows", "slug_title": "still-life-with-cows", "date": "2002-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

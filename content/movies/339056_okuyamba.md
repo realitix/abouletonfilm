@@ -1,0 +1,1 @@
+{"tmdb_id": 339056, "title": "Okuyamba", "original_title": "Okuyamba", "slug_title": "okuyamba", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

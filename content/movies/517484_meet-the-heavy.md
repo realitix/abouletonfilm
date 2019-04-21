@@ -1,0 +1,1 @@
+{"tmdb_id": 517484, "title": "Meet the Heavy", "original_title": "Meet the Heavy", "slug_title": "meet-the-heavy", "date": "2007-05-14", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btFhY364jrBKfSzLgBFMeJNULnm.jpg", "actors": ["Gary Schwartz (Heavy)"], "comments": [], "recommandations_id": []}

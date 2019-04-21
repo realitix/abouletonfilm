@@ -1,0 +1,1 @@
+{"tmdb_id": 194395, "title": "Three Musketeers in Boots", "original_title": "Nagagutsu sanj\u00fbshi", "slug_title": "three-musketeers-in-boots", "date": "1972-03-17", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPpkaufDsss2gQ5Rlbau2TJ4R5K.jpg", "actors": [], "comments": [], "recommandations_id": []}

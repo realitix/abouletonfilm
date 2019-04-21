@@ -1,0 +1,1 @@
+{"tmdb_id": 370428, "title": "Schwarzbunt M\u00e4rchen", "original_title": "Schwarzbunt M\u00e4rchen", "slug_title": "schwarzbunt-marchen", "date": "1990-06-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

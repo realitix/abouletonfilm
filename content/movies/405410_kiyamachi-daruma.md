@@ -1,0 +1,1 @@
+{"tmdb_id": 405410, "title": "Kiyamachi Daruma", "original_title": "Kiyamachi Daruma", "slug_title": "kiyamachi-daruma", "date": "2015-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ken'ichi End\u00f4 ()"], "comments": [], "recommandations_id": []}

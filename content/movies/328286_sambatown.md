@@ -1,0 +1,1 @@
+{"tmdb_id": 328286, "title": "Sambatown", "original_title": "Sambatown", "slug_title": "sambatown", "date": "2010-08-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pODrJ4ym3YhqiNvdiYyqLyjT0tx.jpg", "actors": [], "comments": [], "recommandations_id": []}

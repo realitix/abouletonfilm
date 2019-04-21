@@ -1,0 +1,1 @@
+{"tmdb_id": 575045, "title": "Love Me, Love My Dog", "original_title": "Love Me, Love My Dog", "slug_title": "love-me-love-my-dog", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

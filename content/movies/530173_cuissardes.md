@@ -1,0 +1,1 @@
+{"tmdb_id": 530173, "title": "Cuissardes", "original_title": "Cuissardes", "slug_title": "cuissardes", "date": "1978-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

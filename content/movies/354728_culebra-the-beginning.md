@@ -1,0 +1,1 @@
+{"tmdb_id": 354728, "title": "Culebra: The Beginning", "original_title": "Culebra: el comienzo", "slug_title": "culebra-the-beginning", "date": "1971-01-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gu4z6j7NlhxAVv9ozKIyTRH5pQF.jpg", "actors": [], "comments": [], "recommandations_id": []}

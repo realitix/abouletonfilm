@@ -1,0 +1,1 @@
+{"tmdb_id": 527881, "title": "Buchholz bleibt", "original_title": "Buchholz bleibt", "slug_title": "buchholz-bleibt", "date": "1990-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

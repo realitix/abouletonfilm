@@ -1,0 +1,1 @@
+{"tmdb_id": 174351, "title": "The Kill Team", "original_title": "The Kill Team", "slug_title": "the-kill-team", "date": "2013-10-15", "genre": "Guerre / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r78gbvIAOKbOIWm7llMZp8sEDeA.jpg", "actors": [], "comments": [], "recommandations_id": [454013, 294543, 292086, 277582]}

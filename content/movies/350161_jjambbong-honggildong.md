@@ -1,0 +1,1 @@
+{"tmdb_id": 350161, "title": "\uc9ec\ubf55 \ud64d\uae38\ub3d9", "original_title": "\uc9ec\ubf55 \ud64d\uae38\ub3d9", "slug_title": "jjambbong-honggildong", "date": "1990-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

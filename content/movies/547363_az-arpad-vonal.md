@@ -1,0 +1,1 @@
+{"tmdb_id": 547363, "title": "Az \u00c1rp\u00e1d-vonal", "original_title": "Az \u00c1rp\u00e1d-vonal", "slug_title": "az-arpad-vonal", "date": "2018-09-05", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

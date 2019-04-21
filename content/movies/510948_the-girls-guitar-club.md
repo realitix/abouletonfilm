@@ -1,0 +1,1 @@
+{"tmdb_id": 510948, "title": "The Girls Guitar Club", "original_title": "The Girls Guitar Club", "slug_title": "the-girls-guitar-club", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 380716, "title": "Klavim Lo Novhim Beyarok", "original_title": "Klavim Lo Novhim Beyarok", "slug_title": "klavim-lo-novhim-beyarok", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

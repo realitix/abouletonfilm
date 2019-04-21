@@ -1,0 +1,1 @@
+{"tmdb_id": 303212, "title": "Attritional", "original_title": "Attritional", "slug_title": "attritional", "date": "2014-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

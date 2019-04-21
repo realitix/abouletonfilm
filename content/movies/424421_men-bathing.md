@@ -1,0 +1,1 @@
+{"tmdb_id": 424421, "title": "Men Bathing", "original_title": "Men Bathing", "slug_title": "men-bathing", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJp74t2ULkLYMwRMazWrIDmAAnB.jpg", "actors": [], "comments": [], "recommandations_id": []}

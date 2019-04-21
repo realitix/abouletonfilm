@@ -1,0 +1,1 @@
+{"tmdb_id": 406012, "title": "Bouchaib Abaamrane 1", "original_title": "Bouchaib Abaamrane 1", "slug_title": "bouchaib-abaamrane-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Disco Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ARbkJpLRCP0RkbRPsod0DYjyWy.jpg", "actors": [], "comments": [], "recommandations_id": []}

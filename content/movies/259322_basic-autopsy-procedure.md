@@ -1,0 +1,1 @@
+{"tmdb_id": 259322, "title": "Basic Autopsy Procedure", "original_title": "Basic Autopsy Procedure", "slug_title": "basic-autopsy-procedure", "date": "1961-03-15", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 463625, "title": "Capital I", "original_title": "Capital I", "slug_title": "capital-i", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rt75Fw088BPJtjw8jOFxN8SlXzw.jpg", "actors": [], "comments": [], "recommandations_id": []}

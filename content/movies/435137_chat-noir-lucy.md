@@ -1,0 +1,1 @@
+{"tmdb_id": 435137, "title": "Chat Noir Lucy", "original_title": "\u304f\u308d\u306d\u3053\u30eb\u30fc\u30b7\u30fc", "slug_title": "chat-noir-lucy", "date": "2012-10-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oaBKgevfb7Bkj0winAH05n15sqb.jpg", "actors": [], "comments": [], "recommandations_id": []}

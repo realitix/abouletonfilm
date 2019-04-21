@@ -1,0 +1,1 @@
+{"tmdb_id": 436308, "title": "Dog by Dog", "original_title": "Dog by Dog", "slug_title": "dog-by-dog", "date": "2015-05-13", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQv2lGBXcJbi55G8wot8k1ZSSlv.jpg", "actors": [], "comments": [], "recommandations_id": []}

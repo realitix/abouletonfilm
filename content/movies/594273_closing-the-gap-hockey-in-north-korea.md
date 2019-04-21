@@ -1,0 +1,1 @@
+{"tmdb_id": 594273, "title": "Closing the Gap: Hockey in North Korea", "original_title": "Closing the Gap: Hockey in North Korea", "slug_title": "closing-the-gap-hockey-in-north-korea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

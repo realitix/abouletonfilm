@@ -1,0 +1,1 @@
+{"tmdb_id": 304391, "title": "Strife for Mastery", "original_title": "Shui yue men", "slug_title": "strife-for-mastery", "date": "1978-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxViDi5f15sL5cb8GOTEVj0R0KJ.jpg", "actors": ["David Chiang (Wong Sau-ying)"], "comments": [], "recommandations_id": []}

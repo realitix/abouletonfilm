@@ -1,0 +1,1 @@
+{"tmdb_id": 145914, "title": "Rosalie", "original_title": "Rosalie", "slug_title": "rosalie", "date": "1966-06-24", "genre": "Drame", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIQiYJ0uDPQi8VLWBKge585fcp9.jpg", "actors": ["Ligia Branice (Rosalie)"], "comments": [], "recommandations_id": [145438, 246193, 157091, 147719]}

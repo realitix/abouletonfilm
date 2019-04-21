@@ -1,0 +1,1 @@
+{"tmdb_id": 444283, "title": "Can't Be Roots", "original_title": "Can't Be Roots", "slug_title": "can-t-be-roots", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBc5ULvN4eduyGAHUegI6d7WgWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

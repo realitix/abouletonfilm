@@ -1,0 +1,1 @@
+{"tmdb_id": 349853, "title": "13\uc6d4\uc758 \uc5f0\uc815", "original_title": "13\uc6d4\uc758 \uc5f0\uc815", "slug_title": "13weolyi-yeonjeong", "date": "1982-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

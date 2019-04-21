@@ -1,0 +1,1 @@
+{"tmdb_id": 306651, "title": "No Pets Allowed", "original_title": "No Pets Allowed", "slug_title": "no-pets-allowed", "date": "2014-11-29", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samantha Mack (Rebecca James)", "James Wire (Paul)"], "comments": [], "recommandations_id": []}

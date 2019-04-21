@@ -1,0 +1,1 @@
+{"tmdb_id": 237045, "title": "The Wacky Weed", "original_title": "The Wacky Weed", "slug_title": "the-wacky-weed", "date": "1946-12-15", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLs3K3BCErhs4kgbgg1qselB45D.jpg", "actors": [], "comments": [], "recommandations_id": []}

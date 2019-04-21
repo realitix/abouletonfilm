@@ -1,0 +1,1 @@
+{"tmdb_id": 322258, "title": "The Return of Zid", "original_title": "The Return of Zid", "slug_title": "the-return-of-zid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

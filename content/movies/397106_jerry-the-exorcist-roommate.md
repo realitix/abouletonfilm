@@ -1,0 +1,1 @@
+{"tmdb_id": 397106, "title": "Jerry, the exorcist roommate", "original_title": "Jerry, the exorcist roommate", "slug_title": "jerry-the-exorcist-roommate", "date": "2013-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ezVLG40jzFhEF1R9wEM0pkVIiIy.jpg", "actors": [], "comments": [], "recommandations_id": []}

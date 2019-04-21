@@ -1,0 +1,1 @@
+{"tmdb_id": 495990, "title": "Demonstration of Mobilcolor Projector", "original_title": "Demonstration of Mobilcolor Projector", "slug_title": "demonstration-of-mobilcolor-projector", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

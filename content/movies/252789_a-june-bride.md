@@ -1,0 +1,1 @@
+{"tmdb_id": 252789, "title": "A June Bride", "original_title": "A June Bride", "slug_title": "a-june-bride", "date": "1935-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

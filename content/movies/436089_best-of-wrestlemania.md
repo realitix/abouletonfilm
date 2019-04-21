@@ -1,0 +1,1 @@
+{"tmdb_id": 436089, "title": "Best of Wrestlemania", "original_title": "Best of Wrestlemania", "slug_title": "best-of-wrestlemania", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlT4l5ySnmz58mRuKot11Jf71zu.jpg", "actors": [], "comments": [], "recommandations_id": []}

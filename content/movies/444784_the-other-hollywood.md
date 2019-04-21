@@ -1,0 +1,1 @@
+{"tmdb_id": 444784, "title": "The Other Hollywood", "original_title": "The Other Hollywood", "slug_title": "the-other-hollywood", "date": "1999-03-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/miKpf9QgKskil4JeuY7pzZ0b4UM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275518, "title": "So Help Me God", "original_title": "So Help Me God", "slug_title": "so-help-me-god", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318716, "title": "Trace Adkins: Live from Austin TX", "original_title": "Trace Adkins: Live from Austin TX", "slug_title": "trace-adkins-live-from-austin-tx", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

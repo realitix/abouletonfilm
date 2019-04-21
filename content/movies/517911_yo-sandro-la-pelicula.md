@@ -1,0 +1,1 @@
+{"tmdb_id": 517911, "title": "Yo, Sandro. La pel\u00edcula.", "original_title": "Yo, Sandro. La pel\u00edcula.", "slug_title": "yo-sandro-la-pelicula", "date": "2018-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8fraQq0e2Zz1CTzqnpPRklwIVx.jpg", "actors": [], "comments": [], "recommandations_id": []}

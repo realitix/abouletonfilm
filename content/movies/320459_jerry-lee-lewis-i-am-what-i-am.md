@@ -1,0 +1,1 @@
+{"tmdb_id": 320459, "title": "Jerry Lee Lewis: I Am What I Am", "original_title": "Jerry Lee Lewis: I Am What I Am", "slug_title": "jerry-lee-lewis-i-am-what-i-am", "date": "2004-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520138, "title": "I manichini", "original_title": "I manichini", "slug_title": "i-manichini", "date": "1965-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

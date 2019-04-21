@@ -1,0 +1,1 @@
+{"tmdb_id": 561392, "title": "After Scarcity", "original_title": "After Scarcity", "slug_title": "after-scarcity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

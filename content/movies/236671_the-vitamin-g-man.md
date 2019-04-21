@@ -1,0 +1,1 @@
+{"tmdb_id": 236671, "title": "The Vitamin G-Man", "original_title": "The Vitamin G-Man", "slug_title": "the-vitamin-g-man", "date": "1943-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

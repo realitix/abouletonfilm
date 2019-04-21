@@ -1,0 +1,1 @@
+{"tmdb_id": 548897, "title": "Naked Fury!", "original_title": "Naked Fury!", "slug_title": "naked-fury", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Darlene Bennett (Twin)", "Dawn Bennett (Twin)"], "comments": [], "recommandations_id": []}

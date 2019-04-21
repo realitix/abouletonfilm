@@ -1,0 +1,1 @@
+{"tmdb_id": 369730, "title": "Kuru: The Science and the Sorcery", "original_title": "Kuru: The Science and the Sorcery", "slug_title": "kuru-the-science-and-the-sorcery", "date": "2010-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

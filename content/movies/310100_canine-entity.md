@@ -1,0 +1,1 @@
+{"tmdb_id": 310100, "title": "Canine Entity", "original_title": "Canine Entity", "slug_title": "canine-entity", "date": "2015-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5v6XOxdlhBVD35oek96adnDZEUl.jpg", "actors": [], "comments": [], "recommandations_id": []}

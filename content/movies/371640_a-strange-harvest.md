@@ -1,0 +1,1 @@
+{"tmdb_id": 371640, "title": "A Strange Harvest", "original_title": "A Strange Harvest", "slug_title": "a-strange-harvest", "date": "1980-11-12", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Bp3NbmIHuRxo4uSxGWj5uoZFfM.jpg", "actors": [], "comments": [], "recommandations_id": []}

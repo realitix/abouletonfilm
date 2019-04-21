@@ -1,0 +1,1 @@
+{"tmdb_id": 495515, "title": "Blind Devotion", "original_title": "Blind Devotion", "slug_title": "blind-devotion", "date": "2015-01-28", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsKRDGtWekj1BdI3a88xtuiQxSJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

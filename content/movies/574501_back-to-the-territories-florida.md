@@ -1,0 +1,1 @@
+{"tmdb_id": 574501, "title": "Back to the Territories: Florida", "original_title": "Back to the Territories: Florida", "slug_title": "back-to-the-territories-florida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Cornette (Himself)", "Kevin Sullivan (Himself)"], "comments": [], "recommandations_id": []}

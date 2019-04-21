@@ -1,0 +1,1 @@
+{"tmdb_id": 503916, "title": "Viva Dada", "original_title": "Viva Dada", "slug_title": "viva-dada", "date": "2015-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6o0rXRPUko61dq7wzsoBaPmMHsf.jpg", "actors": [], "comments": [], "recommandations_id": []}

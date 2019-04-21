@@ -1,0 +1,1 @@
+{"tmdb_id": 278590, "title": "101 Weapons that Changed the World", "original_title": "101 Weapons that Changed the World", "slug_title": "101-weapons-that-changed-the-world", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

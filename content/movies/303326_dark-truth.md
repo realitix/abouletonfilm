@@ -1,0 +1,1 @@
+{"tmdb_id": 303326, "title": "Dark Truth", "original_title": "Dark Truth", "slug_title": "dark-truth", "date": "2013-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

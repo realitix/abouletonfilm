@@ -1,0 +1,1 @@
+{"tmdb_id": 333681, "title": "Evictions", "original_title": "Evictions", "slug_title": "evictions", "date": "1979-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVjkDor8Afft93UaBY73Ym2bLbW.jpg", "actors": ["Cathy Hurley ()", "Ron Pinnell ()", "Bohdan ()"], "comments": [], "recommandations_id": []}

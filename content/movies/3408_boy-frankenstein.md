@@ -1,0 +1,1 @@
+{"tmdb_id": 3408, "title": "Boy Frankenstein", "original_title": "Boy Frankenstein", "slug_title": "boy-frankenstein", "date": "1998-01-01", "genre": "Horreur", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

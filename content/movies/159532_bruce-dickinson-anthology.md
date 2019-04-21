@@ -1,0 +1,1 @@
+{"tmdb_id": 159532, "title": "Bruce Dickinson: Anthology", "original_title": "Bruce Dickinson: Anthology", "slug_title": "bruce-dickinson-anthology", "date": "2006-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQT9sjnrJQH8AggCidae0Crfw6N.jpg", "actors": [], "comments": [], "recommandations_id": []}

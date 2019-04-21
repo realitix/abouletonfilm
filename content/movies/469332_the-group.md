@@ -1,0 +1,1 @@
+{"tmdb_id": 469332, "title": "The Group", "original_title": "The Group", "slug_title": "the-group", "date": "2014-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k1K7ELREBFSezmH9FhJBHKf5SF5.jpg", "actors": [], "comments": [], "recommandations_id": []}

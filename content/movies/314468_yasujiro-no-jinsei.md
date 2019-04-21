@@ -1,0 +1,1 @@
+{"tmdb_id": 314468, "title": "Yasujiro no jinsei", "original_title": "Yasujiro no jinsei", "slug_title": "yasujiro-no-jinsei", "date": "2004-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bR3SU7oGSXI7Y71uKoZCZoSRMAP.jpg", "actors": ["Nobuyuki Suzuki (Yasujiro Yamada)"], "comments": [], "recommandations_id": []}

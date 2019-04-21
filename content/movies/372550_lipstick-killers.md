@@ -1,0 +1,1 @@
+{"tmdb_id": 372550, "title": "Lipstick Killers", "original_title": "Lipstick Killers", "slug_title": "lipstick-killers", "date": "1974-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

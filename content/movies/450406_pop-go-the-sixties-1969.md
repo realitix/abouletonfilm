@@ -1,0 +1,1 @@
+{"tmdb_id": 450406, "title": "Pop Go The Sixties (1969)", "original_title": "Pop Go The Sixties (1969)", "slug_title": "pop-go-the-sixties-1969", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSH9UMQma9MCI9aTpLpiLr4JyBm.jpg", "actors": [], "comments": [], "recommandations_id": []}

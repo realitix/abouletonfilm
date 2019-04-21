@@ -1,0 +1,1 @@
+{"tmdb_id": 560936, "title": "An Edited Life", "original_title": "An Edited Life", "slug_title": "an-edited-life", "date": "2018-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

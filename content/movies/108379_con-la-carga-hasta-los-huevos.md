@@ -1,0 +1,1 @@
+{"tmdb_id": 108379, "title": "Con la Carga Hasta los Huevos", "original_title": "Con la Carga Hasta los Huevos", "slug_title": "con-la-carga-hasta-los-huevos", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jorge Almada ()", "Miguel \u00c1ngel Rodr\u00edguez ()"], "comments": [], "recommandations_id": []}

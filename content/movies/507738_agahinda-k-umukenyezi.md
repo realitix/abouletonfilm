@@ -1,0 +1,1 @@
+{"tmdb_id": 507738, "title": "Agahinda K'umukenyezi", "original_title": "Agahinda K'umukenyezi", "slug_title": "agahinda-k-umukenyezi", "date": "", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wltXZtI3wR3P5dv8xPK0PXh5Psp.jpg", "actors": [], "comments": [], "recommandations_id": []}

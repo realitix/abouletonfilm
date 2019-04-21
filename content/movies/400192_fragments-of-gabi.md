@@ -1,0 +1,1 @@
+{"tmdb_id": 400192, "title": "Fragments of Gabi", "original_title": "Fragments of Gabi", "slug_title": "fragments-of-gabi", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3q2Mna6qF9dzJCAl8VAUx5U4aiy.jpg", "actors": [], "comments": [], "recommandations_id": []}

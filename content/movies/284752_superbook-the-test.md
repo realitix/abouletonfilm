@@ -1,0 +1,1 @@
+{"tmdb_id": 284752, "title": "Superbook: The Test", "original_title": "Superbook: The Test", "slug_title": "superbook-the-test", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sPMol8RhRfe8pwmq4A2gSUYYrfj.jpg", "actors": [], "comments": [], "recommandations_id": []}

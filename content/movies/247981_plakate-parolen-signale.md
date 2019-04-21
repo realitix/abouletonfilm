@@ -1,0 +1,1 @@
+{"tmdb_id": 247981, "title": "Plakate, Parolen, Signale", "original_title": "Plakate, Parolen, Signale", "slug_title": "plakate-parolen-signale", "date": "1962-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

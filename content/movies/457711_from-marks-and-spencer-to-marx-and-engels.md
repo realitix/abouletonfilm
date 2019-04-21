@@ -1,0 +1,1 @@
+{"tmdb_id": 457711, "title": "From Marks and Spencer to Marx and Engels", "original_title": "From Marks and Spencer to Marx and Engels", "slug_title": "from-marks-and-spencer-to-marx-and-engels", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

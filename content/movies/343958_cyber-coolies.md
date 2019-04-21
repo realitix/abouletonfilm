@@ -1,0 +1,1 @@
+{"tmdb_id": 343958, "title": "Cyber Coolies", "original_title": "Cyber Koelies", "slug_title": "cyber-coolies", "date": "2006-12-12", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

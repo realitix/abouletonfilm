@@ -1,0 +1,1 @@
+{"tmdb_id": 436149, "title": "Battle in the Ice - Amundsen Omega3 South Pole Race", "original_title": "Battle in the Ice - Amundsen Omega3 South Pole Race", "slug_title": "battle-in-the-ice-amundsen-omega3-south-pole-race", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

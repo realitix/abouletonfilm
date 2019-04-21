@@ -1,0 +1,1 @@
+{"tmdb_id": 518366, "title": "Primavera rosa en Espa\u00f1a", "original_title": "Primavera rosa en Espa\u00f1a", "slug_title": "primavera-rosa-en-espana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

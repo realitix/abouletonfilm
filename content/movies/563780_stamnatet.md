@@ -1,0 +1,1 @@
+{"tmdb_id": 563780, "title": "Stamn\u00e4tet", "original_title": "Stamn\u00e4tet", "slug_title": "stamnatet", "date": "2018-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLiJ3cF1Jm8ZZ5gaF9fucXv6ylR.jpg", "actors": [], "comments": [], "recommandations_id": []}

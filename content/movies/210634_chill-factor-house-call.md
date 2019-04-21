@@ -1,0 +1,1 @@
+{"tmdb_id": 210634, "title": "Chill Factor: House Call", "original_title": "Chill Factor: House Call", "slug_title": "chill-factor-house-call", "date": "2004-08-24", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/msg3MXXVsARiKV40vCHK7nfXJbj.jpg", "actors": [], "comments": [], "recommandations_id": []}

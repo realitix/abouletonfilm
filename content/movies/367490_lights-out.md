@@ -1,0 +1,1 @@
+{"tmdb_id": 367490, "title": "Lights Out", "original_title": "Lights Out", "slug_title": "lights-out", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 261947, "title": "Running with Bulls", "original_title": "Running with Bulls", "slug_title": "running-with-bulls", "date": "2012-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3eHqB1Zaz179T482SwbSkiftWg.jpg", "actors": [], "comments": [], "recommandations_id": []}

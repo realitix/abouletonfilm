@@ -1,0 +1,1 @@
+{"tmdb_id": 343815, "title": "Kisangani Diary", "original_title": "Kisangani Diary", "slug_title": "kisangani-diary", "date": "1998-02-20", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

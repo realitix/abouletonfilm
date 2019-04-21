@@ -1,0 +1,1 @@
+{"tmdb_id": 537581, "title": "Fuk Fuk Brazilian Style", "original_title": "Fuk Fuk Brazilian Style", "slug_title": "fuk-fuk-brazilian-style", "date": "1986-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zev2ibvA17e3pEUgxBGHIzre5CR.jpg", "actors": [], "comments": [], "recommandations_id": []}

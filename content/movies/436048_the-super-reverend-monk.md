@@ -1,0 +1,1 @@
+{"tmdb_id": 436048, "title": "The Super Reverend Monk", "original_title": "\u901a\u5929\u957f\u8001", "slug_title": "the-super-reverend-monk", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTvtZk6rkjoXUdzHDtooyPoW65a.jpg", "actors": [], "comments": [], "recommandations_id": []}

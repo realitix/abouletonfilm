@@ -1,0 +1,1 @@
+{"tmdb_id": 588606, "title": "Land of the Lost Sidekicks", "original_title": "Land of the Lost Sidekicks", "slug_title": "land-of-the-lost-sidekicks", "date": "2016-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

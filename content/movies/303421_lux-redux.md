@@ -1,0 +1,1 @@
+{"tmdb_id": 303421, "title": "Lux: Redux", "original_title": "Lux: Redux", "slug_title": "lux-redux", "date": "2014-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrbtSVuoJh3nvnnKVaf6WBWNlyQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

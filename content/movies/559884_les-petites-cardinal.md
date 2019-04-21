@@ -1,0 +1,1 @@
+{"tmdb_id": 559884, "title": "Les petites Cardinal", "original_title": "Les petites Cardinal", "slug_title": "les-petites-cardinal", "date": "1951-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2eAx7aPl7OKbyW5tuU9TAimzMzZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

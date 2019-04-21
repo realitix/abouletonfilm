@@ -1,0 +1,1 @@
+{"tmdb_id": 377589, "title": "David Bowie On Stage", "original_title": "David Bowie On Stage", "slug_title": "david-bowie-on-stage", "date": "1978-12-12", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9deRSwwNBNdfQyORX1dIBRDOZvT.jpg", "actors": ["David Bowie (Himself)"], "comments": [], "recommandations_id": []}

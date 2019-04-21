@@ -1,0 +1,1 @@
+{"tmdb_id": 316502, "title": "Uhuka, a kis bagoly", "original_title": "Uhuka, a kis bagoly", "slug_title": "uhuka-a-kis-bagoly", "date": "1969-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

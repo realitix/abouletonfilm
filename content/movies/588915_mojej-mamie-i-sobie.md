@@ -1,0 +1,1 @@
+{"tmdb_id": 588915, "title": "Mojej mamie i sobie", "original_title": "Mojej mamie i sobie", "slug_title": "mojej-mamie-i-sobie", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hV1cSGP14n6I7EYiaLkr68QiCsz.jpg", "actors": [], "comments": [], "recommandations_id": []}

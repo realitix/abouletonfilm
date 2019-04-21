@@ -1,0 +1,1 @@
+{"tmdb_id": 301082, "title": "Bay City Luv: Singin' 'n Livin' on the Edge", "original_title": "Bay City Luv: Singin' 'n Livin' on the Edge", "slug_title": "bay-city-luv-singin-n-livin-on-the-edge", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 190804, "title": "The Hick", "original_title": "The Hick", "slug_title": "the-hick", "date": "1921-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Larry, the Hick)"], "comments": [], "recommandations_id": []}

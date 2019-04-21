@@ -1,0 +1,1 @@
+{"tmdb_id": 590756, "title": "New Chilling Tales", "original_title": "New Chilling Tales", "slug_title": "new-chilling-tales", "date": "2018-10-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NcQ0x2QyicY0nkQjDrlRzeZPnl.jpg", "actors": ["Martin Jarvis (host)"], "comments": [], "recommandations_id": []}

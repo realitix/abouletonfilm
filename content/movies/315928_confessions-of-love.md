@@ -1,0 +1,1 @@
+{"tmdb_id": 315928, "title": "Confessions of Love", "original_title": "Declara\u021bie de dragoste", "slug_title": "confessions-of-love", "date": "1985-06-10", "genre": "Romance", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8Ud1mzTYPFA3jMzimKbTUfniGF.jpg", "actors": [], "comments": [], "recommandations_id": []}

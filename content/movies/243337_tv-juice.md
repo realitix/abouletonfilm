@@ -1,0 +1,1 @@
+{"tmdb_id": 243337, "title": "TV Juice", "original_title": "TV Juice", "slug_title": "tv-juice", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

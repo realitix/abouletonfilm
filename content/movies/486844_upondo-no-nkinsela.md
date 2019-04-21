@@ -1,0 +1,1 @@
+{"tmdb_id": 486844, "title": "Upondo no Nkinsela", "original_title": "Upondo no Nkinsela", "slug_title": "upondo-no-nkinsela", "date": "1984-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ndaba Mhlongo ()", "Masoja Mota ()"], "comments": [], "recommandations_id": []}

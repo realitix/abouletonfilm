@@ -1,0 +1,1 @@
+{"tmdb_id": 343612, "title": "Mi nueva canci\u00f3n est\u00e1 quedando genial", "original_title": "Mi nueva canci\u00f3n est\u00e1 quedando genial", "slug_title": "mi-nueva-cancion-esta-quedando-genial", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

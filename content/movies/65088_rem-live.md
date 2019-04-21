@@ -1,0 +1,1 @@
+{"tmdb_id": 65088, "title": "REM: Live", "original_title": "REM: Live", "slug_title": "rem-live", "date": "2007-10-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bswQwwcW3mDWMWv34PnAJg01u8K.jpg", "actors": [], "comments": [], "recommandations_id": []}

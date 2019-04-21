@@ -1,0 +1,1 @@
+{"tmdb_id": 407167, "title": "Chai Pani Etc.", "original_title": "Chai Pani Etc.", "slug_title": "chai-pani-etc", "date": "2004-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ccdu4JazEBffoaIQMuu61aY5pJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 250630, "title": "Stereotype", "original_title": "Stereotype", "slug_title": "stereotype", "date": "2002-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4d7SZYYZ4HLN55yqb9zeNU8asLK.jpg", "actors": [], "comments": [], "recommandations_id": []}

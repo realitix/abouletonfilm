@@ -1,0 +1,1 @@
+{"tmdb_id": 111245, "title": "The Empire in Africa", "original_title": "The Empire in Africa", "slug_title": "the-empire-in-africa", "date": "2006-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkIOSZODzTXrc3egEDZcZgVzWgm.jpg", "actors": [], "comments": [], "recommandations_id": []}

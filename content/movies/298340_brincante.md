@@ -1,0 +1,1 @@
+{"tmdb_id": 298340, "title": "Brincante", "original_title": "Brincante", "slug_title": "brincante", "date": "2014-11-20", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJelRtsVZOylWMVWKIQZ9lsrp37.jpg", "actors": ["Rosane Almeida ()", "Ant\u00f4nio N\u00f3brega ()"], "comments": [], "recommandations_id": []}

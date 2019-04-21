@@ -1,0 +1,1 @@
+{"tmdb_id": 396698, "title": "Amelia Rose Towers", "original_title": "Amelia Rose Towers", "slug_title": "amelia-rose-towers", "date": "1992-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeXdIbluFJA0jTVuXTMEx04dj1g.jpg", "actors": [], "comments": [], "recommandations_id": []}

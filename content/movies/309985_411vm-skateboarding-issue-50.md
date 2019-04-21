@@ -1,0 +1,1 @@
+{"tmdb_id": 309985, "title": "411VM Skateboarding: Issue 50", "original_title": "411VM Skateboarding: Issue 50", "slug_title": "411vm-skateboarding-issue-50", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

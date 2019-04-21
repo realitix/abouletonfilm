@@ -1,0 +1,1 @@
+{"tmdb_id": 342187, "title": "Chauraha", "original_title": "Chauraha", "slug_title": "chauraha", "date": "1994-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7h7SJnmozxuXnAznnzJY2oqeu1I.jpg", "actors": [], "comments": [], "recommandations_id": []}

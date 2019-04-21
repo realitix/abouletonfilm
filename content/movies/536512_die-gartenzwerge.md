@@ -1,0 +1,1 @@
+{"tmdb_id": 536512, "title": "Die Gartenzwerge", "original_title": "Die Gartenzwerge", "slug_title": "die-gartenzwerge", "date": "1962-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJdqlAmnhCPMqYxuHlsy1Cie5QM.jpg", "actors": ["Hans Clarin (Narrator)"], "comments": [], "recommandations_id": []}

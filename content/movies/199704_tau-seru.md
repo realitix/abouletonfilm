@@ -1,0 +1,1 @@
+{"tmdb_id": 199704, "title": "Tau Seru", "original_title": "Tau Seru", "slug_title": "tau-seru", "date": "2013-05-19", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvS59JR6yQhBF1iOtia2R6zmCsV.jpg", "actors": [], "comments": [], "recommandations_id": []}

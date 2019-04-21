@@ -1,0 +1,1 @@
+{"tmdb_id": 113944, "title": "Focus Live In America", "original_title": "Focus Live In America", "slug_title": "focus-live-in-america", "date": "2003-01-28", "genre": "Musique", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ByvmLaT7uYRDyWRdqmL4jdbyKi.jpg", "actors": [], "comments": [], "recommandations_id": []}

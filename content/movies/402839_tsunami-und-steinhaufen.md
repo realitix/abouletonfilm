@@ -1,0 +1,1 @@
+{"tmdb_id": 402839, "title": "Tsunami und Steinhaufen", "original_title": "Tsunami und Steinhaufen", "slug_title": "tsunami-und-steinhaufen", "date": "2008-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 483103, "title": "Kemis Yelebesku'let", "original_title": "\u1240\u121a\u1235 \u12e8\u1208\u1260\u1235\u12a9 \u12a5\u1208\u1275", "slug_title": "kemis-yelebesku-let", "date": "2014-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

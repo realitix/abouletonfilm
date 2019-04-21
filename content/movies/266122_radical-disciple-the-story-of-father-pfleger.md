@@ -1,0 +1,1 @@
+{"tmdb_id": 266122, "title": "Radical Disciple: The Story of Father Pfleger", "original_title": "Radical Disciple: The Story of Father Pfleger", "slug_title": "radical-disciple-the-story-of-father-pfleger", "date": "2009-08-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

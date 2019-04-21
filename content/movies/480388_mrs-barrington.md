@@ -1,0 +1,1 @@
+{"tmdb_id": 480388, "title": "Mrs. Barrington", "original_title": "Mrs. Barrington", "slug_title": "mrs-barrington", "date": "1974-05-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Pope (Mrs Barrington)", "Ida Klein (Eloise)", "David Hausman (Roberto)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303352, "title": "We Was Homeboyz", "original_title": "We Was Homeboyz", "slug_title": "we-was-homeboyz", "date": "2012-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

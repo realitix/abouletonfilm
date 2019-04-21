@@ -1,0 +1,1 @@
+{"tmdb_id": 524122, "title": "Because Reality Isn't Black and White", "original_title": "Because Reality Isn't Black and White", "slug_title": "because-reality-isn-t-black-and-white", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

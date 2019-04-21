@@ -1,0 +1,1 @@
+{"tmdb_id": 533990, "title": "The Story of a Star", "original_title": "The Story of a Star", "slug_title": "the-story-of-a-star", "date": "1956-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fusI1aORRzIRDvulU23Wv8a8X.jpg", "actors": [], "comments": [], "recommandations_id": []}

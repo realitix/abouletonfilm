@@ -1,0 +1,1 @@
+{"tmdb_id": 528740, "title": "My Dog Sleeping For Two Hours", "original_title": "My Dog Sleeping For Two Hours", "slug_title": "my-dog-sleeping-for-two-hours", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

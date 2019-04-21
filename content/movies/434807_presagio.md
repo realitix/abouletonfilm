@@ -1,0 +1,1 @@
+{"tmdb_id": 434807, "title": "Presagio", "original_title": "Presagio", "slug_title": "presagio", "date": "2016-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julian Landarreche (Hombre del paraguas)", "Carlos Pi\u00f1eiro (Psiquiatra)", "Valeria Salinas (Sof\u00eda)"], "comments": [], "recommandations_id": []}

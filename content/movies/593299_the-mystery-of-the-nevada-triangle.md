@@ -1,0 +1,1 @@
+{"tmdb_id": 593299, "title": "The Mystery of the Nevada Triangle", "original_title": "The Mystery of the Nevada Triangle", "slug_title": "the-mystery-of-the-nevada-triangle", "date": "2010-04-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Strong (Narrator)"], "comments": [], "recommandations_id": []}

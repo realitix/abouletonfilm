@@ -1,0 +1,1 @@
+{"tmdb_id": 388944, "title": "Civil War Sickness", "original_title": "Civil War Sickness", "slug_title": "civil-war-sickness", "date": "2015-07-23", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ORQnVTbVQjUwOfU9Fwhx03dPKk.jpg", "actors": ["Isa Gueye (herself)"], "comments": [], "recommandations_id": []}

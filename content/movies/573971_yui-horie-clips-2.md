@@ -1,0 +1,1 @@
+{"tmdb_id": 573971, "title": "yui horie CLIPS 2", "original_title": "yui horie CLIPS 2", "slug_title": "yui-horie-clips-2", "date": "2010-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqHEEsd1mvBN0YbwC79aq4bh9AO.jpg", "actors": ["Yui Horie ()"], "comments": [], "recommandations_id": []}

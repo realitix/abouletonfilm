@@ -1,0 +1,1 @@
+{"tmdb_id": 428304, "title": "House of the Damned", "original_title": "House of the Damned", "slug_title": "house-of-the-damned", "date": "1996-08-20", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibVOAp8SOlaXxy97Q2MHiZoQETp.jpg", "actors": [], "comments": [], "recommandations_id": []}

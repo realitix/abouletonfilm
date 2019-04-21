@@ -1,0 +1,1 @@
+{"tmdb_id": 370762, "title": "Carnival of Shadows", "original_title": "Carnival of Shadows", "slug_title": "carnival-of-shadows", "date": "2015-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8cHO2KONfSuONDniKfRfzccQoK.jpg", "actors": [], "comments": [], "recommandations_id": []}

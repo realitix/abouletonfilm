@@ -1,0 +1,1 @@
+{"tmdb_id": 306417, "title": "Kaamchor", "original_title": "Kaamchor", "slug_title": "kaamchor", "date": "1982-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

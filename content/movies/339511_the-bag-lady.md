@@ -1,0 +1,1 @@
+{"tmdb_id": 339511, "title": "The Bag Lady", "original_title": "The Bag Lady", "slug_title": "the-bag-lady", "date": "2014-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

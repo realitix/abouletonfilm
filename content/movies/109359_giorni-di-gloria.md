@@ -1,0 +1,1 @@
+{"tmdb_id": 109359, "title": "Giorni di gloria", "original_title": "Giorni di gloria", "slug_title": "giorni-di-gloria", "date": "1945-10-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xMnuClhfbvNIF5nIJ7jc7y6mpfQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

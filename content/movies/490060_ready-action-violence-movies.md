@@ -1,0 +1,1 @@
+{"tmdb_id": 490060, "title": "Ready Action! Violence Movies", "original_title": "\ub808\ub514\uc561\uc158! \ud3ed\ub825\uc601\ud654", "slug_title": "ready-action-violence-movies", "date": "2014-06-05", "genre": "Action", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

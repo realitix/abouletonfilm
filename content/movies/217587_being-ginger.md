@@ -1,0 +1,1 @@
+{"tmdb_id": 217587, "title": "Being Ginger", "original_title": "Being Ginger", "slug_title": "being-ginger", "date": "2013-08-25", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hNgQ1GNzZ4agIK8NSqFup2MXIwF.jpg", "actors": [], "comments": [], "recommandations_id": []}

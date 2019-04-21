@@ -1,0 +1,1 @@
+{"tmdb_id": 573500, "title": "Strikeforce: Carano vs. Cyborg", "original_title": "Strikeforce: Carano vs. Cyborg", "slug_title": "strikeforce-carano-vs-cyborg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

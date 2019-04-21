@@ -1,0 +1,1 @@
+{"tmdb_id": 517665, "title": "Duality", "original_title": "Duality", "slug_title": "duality", "date": "2018-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3XefTrhGuBPoMnSOlR4U1XQgSWu.jpg", "actors": [], "comments": [], "recommandations_id": []}

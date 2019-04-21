@@ -1,0 +1,1 @@
+{"tmdb_id": 520055, "title": "The Cure \u200e\u2013 Live In Glasgow", "original_title": "The Cure \u200e\u2013 Live In Glasgow", "slug_title": "the-cure-live-in-glasgow", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

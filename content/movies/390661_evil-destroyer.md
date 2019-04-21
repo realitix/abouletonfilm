@@ -1,0 +1,1 @@
+{"tmdb_id": 390661, "title": "Evil Destroyer", "original_title": "Evil Destroyer", "slug_title": "evil-destroyer", "date": "1988-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKFJ9r4pvshAVKKCeRmNB2ESPzi.jpg", "actors": [], "comments": [], "recommandations_id": []}

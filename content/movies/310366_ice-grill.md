@@ -1,0 +1,1 @@
+{"tmdb_id": 310366, "title": "Ice Grill", "original_title": "Ice Grill", "slug_title": "ice-grill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

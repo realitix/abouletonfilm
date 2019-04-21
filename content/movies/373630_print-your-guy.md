@@ -1,0 +1,1 @@
+{"tmdb_id": 373630, "title": "Print Your Guy", "original_title": "Print Your Guy", "slug_title": "print-your-guy", "date": "2015-12-08", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bei8kDdTFmcWPpXqH4StZuKw4Gp.jpg", "actors": [], "comments": [], "recommandations_id": []}

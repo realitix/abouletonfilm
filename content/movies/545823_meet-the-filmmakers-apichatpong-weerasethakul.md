@@ -1,0 +1,1 @@
+{"tmdb_id": 545823, "title": "Meet the Filmmakers: Apichatpong Weerasethakul", "original_title": "Meet the Filmmakers: Apichatpong Weerasethakul", "slug_title": "meet-the-filmmakers-apichatpong-weerasethakul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

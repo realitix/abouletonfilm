@@ -1,0 +1,1 @@
+{"tmdb_id": 384540, "title": "Poppies", "original_title": "Les coquelicots", "slug_title": "poppies", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78hGMMPtZCovJZqdtMhrqPKfyuY.jpg", "actors": [], "comments": [], "recommandations_id": []}

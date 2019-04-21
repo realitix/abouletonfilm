@@ -1,0 +1,1 @@
+{"tmdb_id": 234466, "title": "Aqua Duck", "original_title": "Aqua Duck", "slug_title": "aqua-duck", "date": "1963-09-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXKRtGPDq9cLMlKdsmSGULO3pa8.jpg", "actors": [], "comments": [], "recommandations_id": []}

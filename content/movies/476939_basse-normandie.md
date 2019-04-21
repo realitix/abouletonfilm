@@ -1,0 +1,1 @@
+{"tmdb_id": 476939, "title": "Basse Normandie", "original_title": "Basse Normandie", "slug_title": "basse-normandie", "date": "2004-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoERqM71nxA8xUkaduYKLWI34vq.jpg", "actors": [], "comments": [], "recommandations_id": []}

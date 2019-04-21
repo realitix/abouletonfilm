@@ -1,0 +1,1 @@
+{"tmdb_id": 339522, "title": "Onkel Theodor am\u00fcsiert sich", "original_title": "Onkel Theodor am\u00fcsiert sich", "slug_title": "onkel-theodor-amusiert-sich", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

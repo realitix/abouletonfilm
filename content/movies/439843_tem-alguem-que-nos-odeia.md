@@ -1,0 +1,1 @@
+{"tmdb_id": 439843, "title": "Tem Algu\u00e9m que nos Odeia", "original_title": "Tem Algu\u00e9m que nos Odeia", "slug_title": "tem-alguem-que-nos-odeia", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruna Anaute ()", "Ana Paula Grande ()"], "comments": [], "recommandations_id": []}

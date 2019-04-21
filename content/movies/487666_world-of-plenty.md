@@ -1,0 +1,1 @@
+{"tmdb_id": 487666, "title": "World of Plenty", "original_title": "World of Plenty", "slug_title": "world-of-plenty", "date": "1943-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557398, "title": "Video For Vladimir", "original_title": "Video For Vladimir", "slug_title": "video-for-vladimir", "date": "2018-10-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oib5qgZ8fg1Tvs65v0M4ldpYxGu.jpg", "actors": ["Gustav Turefeldt (Narrator)"], "comments": [], "recommandations_id": []}

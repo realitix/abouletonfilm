@@ -1,0 +1,1 @@
+{"tmdb_id": 255621, "title": "Treasure Castle", "original_title": "Fei long duo bo", "slug_title": "treasure-castle", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MwsqivVb3HvKCFl2Ts5YJgatnR.jpg", "actors": [], "comments": [], "recommandations_id": []}

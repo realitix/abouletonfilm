@@ -1,0 +1,1 @@
+{"tmdb_id": 573360, "title": "Roots of a Man", "original_title": "Roots of a Man", "slug_title": "roots-of-a-man", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70ydK9Ko7eLcnvgmmz9ZatXOOqQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

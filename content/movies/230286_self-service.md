@@ -1,0 +1,1 @@
+{"tmdb_id": 230286, "title": "Self Service", "original_title": "Self Service", "slug_title": "self-service", "date": "1974-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3p8ApcOXgG1jnn2hdHsJXMZDEer.jpg", "actors": [], "comments": [], "recommandations_id": []}

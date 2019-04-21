@@ -1,0 +1,1 @@
+{"tmdb_id": 400586, "title": "Music and Dream", "original_title": "\u6050\u6016\u7167\u76f8\u6a5f", "slug_title": "music-and-dream", "date": "2016-04-22", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wang Xianghong ()", "Tong Xin ()"], "comments": [], "recommandations_id": []}

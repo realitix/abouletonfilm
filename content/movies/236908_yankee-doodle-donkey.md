@@ -1,0 +1,1 @@
+{"tmdb_id": 236908, "title": "Yankee Doodle Donkey", "original_title": "Yankee Doodle Donkey", "slug_title": "yankee-doodle-donkey", "date": "1944-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rY57YTppqcQ7BMt0yjf7ceiIzZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 239125, "title": "Imperium ojca Rydzyka", "original_title": "Imperium ojca Rydzyka", "slug_title": "imperium-ojca-rydzyka", "date": "2002-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tadeusz Rydzyk ()"], "comments": [], "recommandations_id": []}

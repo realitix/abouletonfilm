@@ -1,0 +1,1 @@
+{"tmdb_id": 197154, "title": "Following Death", "original_title": "Following Death", "slug_title": "following-death", "date": "2012-06-12", "genre": "Horreur / Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

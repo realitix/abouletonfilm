@@ -1,0 +1,1 @@
+{"tmdb_id": 347332, "title": "Prithvi", "original_title": "Prithvi", "slug_title": "prithvi", "date": "2010-04-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Z3rtzydKrjqpKzXYsa8MJVFg4D.jpg", "actors": ["Parvathy Thiruvothu (Priya)", "Puneeth Rajkumar (Prithvi)"], "comments": [], "recommandations_id": []}

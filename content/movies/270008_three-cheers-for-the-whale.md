@@ -1,0 +1,1 @@
+{"tmdb_id": 270008, "title": "Three Cheers for the Whale", "original_title": "Vive la baleine", "slug_title": "three-cheers-for-the-whale", "date": "1972-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwdmAJFdPqjUN0gJ0DiJJDlSukS.jpg", "actors": [], "comments": [], "recommandations_id": []}

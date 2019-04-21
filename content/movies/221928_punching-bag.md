@@ -1,0 +1,1 @@
+{"tmdb_id": 221928, "title": "Punching Bag", "original_title": "Punching Bag", "slug_title": "punching-bag", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francis Odega ()", "Victor Osuagwu ()", "Benita Nzeribe ()", "Rita Nzelu ()", "Carol Okeke ()"], "comments": [], "recommandations_id": []}

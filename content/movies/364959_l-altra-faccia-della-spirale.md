@@ -1,0 +1,1 @@
+{"tmdb_id": 364959, "title": "L'altra faccia della spirale", "original_title": "L'altra faccia della spirale", "slug_title": "l-altra-faccia-della-spirale", "date": "2011-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

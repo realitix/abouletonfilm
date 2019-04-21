@@ -1,0 +1,1 @@
+{"tmdb_id": 488753, "title": "Ammar 2: Cin Istilasi", "original_title": "Ammar 2: Cin Istilasi", "slug_title": "ammar-2-cin-istilasi", "date": "2016-06-17", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2OvoZEoVpEZN7Wuocgkyj5Zy7u.jpg", "actors": [], "comments": [], "recommandations_id": []}

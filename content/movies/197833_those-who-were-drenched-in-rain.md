@@ -1,0 +1,1 @@
+{"tmdb_id": 197833, "title": "Those who were drenched in rain", "original_title": "Jara Bristite Bhijechhilo", "slug_title": "those-who-were-drenched-in-rain", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73IWsf9fxuhbRxWO7diDDOvxMh0.jpg", "actors": [], "comments": [], "recommandations_id": []}

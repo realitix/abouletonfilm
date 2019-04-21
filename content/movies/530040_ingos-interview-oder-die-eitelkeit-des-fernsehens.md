@@ -1,0 +1,1 @@
+{"tmdb_id": 530040, "title": "Ingos Interview oder Die Eitelkeit des Fernsehens", "original_title": "Ingos Interview oder Die Eitelkeit des Fernsehens", "slug_title": "ingos-interview-oder-die-eitelkeit-des-fernsehens", "date": "1983-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

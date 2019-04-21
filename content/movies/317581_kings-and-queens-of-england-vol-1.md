@@ -1,0 +1,1 @@
+{"tmdb_id": 317581, "title": "Kings and Queens of England: Vol. 1", "original_title": "Kings and Queens of England: Vol. 1", "slug_title": "kings-and-queens-of-england-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

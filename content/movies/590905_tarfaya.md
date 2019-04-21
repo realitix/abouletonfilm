@@ -1,0 +1,1 @@
+{"tmdb_id": 590905, "title": "Tarfaya", "original_title": "Tarfaya", "slug_title": "tarfaya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahmed Naji ()", "Abdeslam Sefrioui (narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282338, "title": "Dr. Jekyll and Mr. Hyde", "original_title": "Dr. Jekyll and Mr. Hyde", "slug_title": "dr-jekyll-and-mr-hyde", "date": "2002-09-17", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6pf2WfwaO92FuMN4XjJILe1Tmv.jpg", "actors": ["Mark Redfield ()"], "comments": [], "recommandations_id": []}

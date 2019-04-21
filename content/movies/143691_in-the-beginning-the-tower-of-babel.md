@@ -1,0 +1,1 @@
+{"tmdb_id": 143691, "title": "In the Beginning: The Tower of Babel", "original_title": "In the Beginning: The Tower of Babel", "slug_title": "in-the-beginning-the-tower-of-babel", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

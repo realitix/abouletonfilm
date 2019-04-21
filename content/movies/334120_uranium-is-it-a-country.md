@@ -1,0 +1,1 @@
+{"tmdb_id": 334120, "title": "Uranium: Is It a Country?", "original_title": "Uranium: Is It a Country?", "slug_title": "uranium-is-it-a-country", "date": "2008-11-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fnJTyPXbK7KISd0iF7flUhqOu2.jpg", "actors": [], "comments": [], "recommandations_id": []}

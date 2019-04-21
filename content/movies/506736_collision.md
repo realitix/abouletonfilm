@@ -1,0 +1,1 @@
+{"tmdb_id": 506736, "title": "Collision", "original_title": "Collision", "slug_title": "collision", "date": "2004-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ni836ckFpZziEHNVN49VJznEoM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 461032, "title": "Ghada Songs of Palestine", "original_title": "Gahda Palestine no Uta", "slug_title": "ghada-songs-of-palestine", "date": "2006-05-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFdNKrWSz8FhDeZCKTNj1xzS26H.jpg", "actors": [], "comments": [], "recommandations_id": []}

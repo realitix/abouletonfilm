@@ -1,0 +1,1 @@
+{"tmdb_id": 348866, "title": "Politicians", "original_title": "Politicians", "slug_title": "politicians", "date": "1970-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ttpPNcNYTjEUEY3LKHidqh8Y7a.jpg", "actors": [], "comments": [], "recommandations_id": []}

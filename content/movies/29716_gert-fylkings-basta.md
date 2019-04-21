@@ -1,0 +1,1 @@
+{"tmdb_id": 29716, "title": "Gert Fylkings b\u00e4sta", "original_title": "Gert Fylkings b\u00e4sta", "slug_title": "gert-fylkings-basta", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gert Fylking (Various)"], "comments": [], "recommandations_id": []}

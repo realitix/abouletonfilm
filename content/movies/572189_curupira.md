@@ -1,0 +1,1 @@
+{"tmdb_id": 572189, "title": "Curupira", "original_title": "Curupira", "slug_title": "curupira", "date": "2005-09-24", "genre": "Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lxV4QujJfEWVYBwUxRgCUc5xyMd.jpg", "actors": [], "comments": [], "recommandations_id": []}

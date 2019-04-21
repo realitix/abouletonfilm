@@ -1,0 +1,1 @@
+{"tmdb_id": 568153, "title": "Anime en femenino", "original_title": "Anime en femenino", "slug_title": "anime-en-femenino", "date": "2018-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7u2uFi4vxnSkUVu5CmrMXa1HRM5.jpg", "actors": [], "comments": [], "recommandations_id": []}

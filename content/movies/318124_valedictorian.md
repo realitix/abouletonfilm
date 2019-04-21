@@ -1,0 +1,1 @@
+{"tmdb_id": 318124, "title": "Valedictorian", "original_title": "Valedictorian", "slug_title": "valedictorian", "date": "2015-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AMcBfXNvaCFu4vLUIGMigmw20j.jpg", "actors": [], "comments": [], "recommandations_id": []}

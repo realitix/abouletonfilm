@@ -1,0 +1,1 @@
+{"tmdb_id": 488147, "title": "Dial a Deadly Number", "original_title": "Dial a Deadly Number", "slug_title": "dial-a-deadly-number", "date": "1975-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mV2yEd31vBxZf4O7js29mnoUprn.jpg", "actors": [], "comments": [], "recommandations_id": []}

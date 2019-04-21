@@ -1,0 +1,1 @@
+{"tmdb_id": 506279, "title": "Debbie and the Demons", "original_title": "Debbie and the Demons", "slug_title": "debbie-and-the-demons", "date": "2010-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6YKIzSn8SSSMkEx0PbXiS19wp3o.jpg", "actors": [], "comments": [], "recommandations_id": []}

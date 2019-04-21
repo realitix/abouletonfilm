@@ -1,0 +1,1 @@
+{"tmdb_id": 403958, "title": "Janji Sahabat", "original_title": "Janji Sahabat", "slug_title": "janji-sahabat", "date": "2016-06-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aeIJyB5iUmLkQjBM61L38hMgw4C.jpg", "actors": ["Ricky Telor (Ricky)", "Jhonson Jen (Jhonson)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272838, "title": "Kopekler adasi", "original_title": "Kopekler adasi", "slug_title": "kopekler-adasi", "date": "1997-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M\u00fcr\u015fit A\u011fa Ba\u011f ()", "Ekrem Dumer ()", "Tanju G\u00fcrsu ()"], "comments": [], "recommandations_id": []}

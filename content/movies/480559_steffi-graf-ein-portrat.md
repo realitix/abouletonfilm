@@ -1,0 +1,1 @@
+{"tmdb_id": 480559, "title": "Steffi Graf - Ein Portr\u00e4t", "original_title": "Steffi Graf - Ein Portr\u00e4t", "slug_title": "steffi-graf-ein-portrat", "date": "2012-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steffi Graf (Steffi Graf)"], "comments": [], "recommandations_id": []}

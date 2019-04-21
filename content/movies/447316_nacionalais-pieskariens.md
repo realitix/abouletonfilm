@@ -1,0 +1,1 @@
+{"tmdb_id": 447316, "title": "Nacion\u0101lais piesk\u0101riens", "original_title": "Nacion\u0101lais piesk\u0101riens", "slug_title": "nacionalais-pieskariens", "date": "2014-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

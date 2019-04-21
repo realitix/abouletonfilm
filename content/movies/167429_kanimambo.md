@@ -1,0 +1,1 @@
+{"tmdb_id": 167429, "title": "Kanimambo", "original_title": "Kanimambo", "slug_title": "kanimambo", "date": "2012-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slFlWdwi9x9uAek3GoWOZGyuUva.jpg", "actors": [], "comments": [], "recommandations_id": []}

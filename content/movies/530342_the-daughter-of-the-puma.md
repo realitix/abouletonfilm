@@ -1,0 +1,1 @@
+{"tmdb_id": 530342, "title": "The Daughter of the Puma", "original_title": "La hija del puma", "slug_title": "the-daughter-of-the-puma", "date": "1994-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

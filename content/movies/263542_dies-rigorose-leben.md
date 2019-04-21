@@ -1,0 +1,1 @@
+{"tmdb_id": 263542, "title": "Dies rigorose Leben", "original_title": "Dies rigorose Leben", "slug_title": "dies-rigorose-leben", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9cfAVug47H4UnVRbV5gn3NdxF2t.jpg", "actors": [], "comments": [], "recommandations_id": []}

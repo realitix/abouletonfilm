@@ -1,0 +1,1 @@
+{"tmdb_id": 516470, "title": "B\u00f6nder, k\u00e4rlek och trimmade traktorer", "original_title": "B\u00f6nder, k\u00e4rlek och trimmade traktorer", "slug_title": "bonder-karlek-och-trimmade-traktorer", "date": "2016-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

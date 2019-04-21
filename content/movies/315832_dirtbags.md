@@ -1,0 +1,1 @@
+{"tmdb_id": 315832, "title": "Dirtbags", "original_title": "Dirtbags", "slug_title": "dirtbags", "date": "2002-01-06", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYN4I9COeILNPGZD3l4fzBMtFNf.jpg", "actors": [], "comments": [], "recommandations_id": []}

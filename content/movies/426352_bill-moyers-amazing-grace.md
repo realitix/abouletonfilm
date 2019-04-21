@@ -1,0 +1,1 @@
+{"tmdb_id": 426352, "title": "Bill Moyers: Amazing Grace", "original_title": "Bill Moyers: Amazing Grace", "slug_title": "bill-moyers-amazing-grace", "date": "2012-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bYvOfZDxItzfYNqOtp4gpDcjaCM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 53383, "title": "Teddybear Crisis", "original_title": "Teddybear Crisis", "slug_title": "teddybear-crisis", "date": "2005-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gnhTJuK8S9YTHa2ZZUxcHJK61Tt.jpg", "actors": [], "comments": [], "recommandations_id": []}

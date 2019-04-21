@@ -1,0 +1,1 @@
+{"tmdb_id": 592358, "title": "1989 NBS Finals G4 Lakers vs Pistons", "original_title": "1989 NBS Finals G4 Lakers vs Pistons", "slug_title": "1989-nbs-finals-g4-lakers-vs-pistons", "date": "1989-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

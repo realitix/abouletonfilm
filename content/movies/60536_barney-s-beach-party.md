@@ -1,0 +1,1 @@
+{"tmdb_id": 60536, "title": "Barney's Beach Party", "original_title": "Barney's Beach Party", "slug_title": "barney-s-beach-party", "date": "2002-04-30", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qzZpNeNpnYjRFVo7UBt76vlGJj.jpg", "actors": [], "comments": [], "recommandations_id": []}

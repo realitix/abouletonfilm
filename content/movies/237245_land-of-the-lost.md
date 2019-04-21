@@ -1,0 +1,1 @@
+{"tmdb_id": 237245, "title": "Land of the Lost", "original_title": "Land of the Lost", "slug_title": "land-of-the-lost", "date": "1948-06-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352133, "title": "Dora - Alleen Op De Wereld", "original_title": "Dora - Alleen Op De Wereld", "slug_title": "dora-alleen-op-de-wereld", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oo7lR8enZNDzeNM1MrvQoHefM9v.jpg", "actors": [], "comments": [], "recommandations_id": []}

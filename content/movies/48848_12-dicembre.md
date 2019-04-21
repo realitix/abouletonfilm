@@ -1,0 +1,1 @@
+{"tmdb_id": 48848, "title": "12 Dicembre", "original_title": "12 Dicembre", "slug_title": "12-dicembre", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3VkXmtR7jl57Zr1dgZojKrbKpE.jpg", "actors": [], "comments": [], "recommandations_id": []}

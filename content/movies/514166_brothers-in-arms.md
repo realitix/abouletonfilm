@@ -1,0 +1,1 @@
+{"tmdb_id": 514166, "title": "Brothers in Arms", "original_title": "Brothers in Arms", "slug_title": "brothers-in-arms", "date": "2018-11-13", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81sJXQKffSM995iW5eZOlul8JLY.jpg", "actors": ["Charlie Sheen (Himself and Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531304, "title": "How to do a Trickfilm", "original_title": "How to do a Trickfilm", "slug_title": "how-to-do-a-trickfilm", "date": "1985-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNQPZ8tFHBpWSuc4rllfNOmcdAY.jpg", "actors": [], "comments": [], "recommandations_id": []}

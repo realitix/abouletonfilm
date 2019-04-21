@@ -1,0 +1,1 @@
+{"tmdb_id": 584930, "title": "When they give -- Take", "original_title": "Az Men Git -- Nemt Men", "slug_title": "when-they-give-take", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ya'ackov Bodo (Mendel)", "Ya'akov Alperin ()", "Rahel Dayan ()"], "comments": [], "recommandations_id": []}

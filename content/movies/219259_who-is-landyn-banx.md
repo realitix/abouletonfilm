@@ -1,0 +1,1 @@
+{"tmdb_id": 219259, "title": "Who is Landyn Banx?", "original_title": "Who is Landyn Banx?", "slug_title": "who-is-landyn-banx", "date": "2010-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Landyn Banx (Himself)", "Ethan Holbrook (Landyn Banx)"], "comments": [], "recommandations_id": []}

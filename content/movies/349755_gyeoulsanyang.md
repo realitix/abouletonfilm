@@ -1,0 +1,1 @@
+{"tmdb_id": 349755, "title": "\uaca8\uc6b8\uc0ac\ub0e5", "original_title": "\uaca8\uc6b8\uc0ac\ub0e5", "slug_title": "gyeoulsanyang", "date": "1982-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

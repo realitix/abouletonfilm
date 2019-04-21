@@ -1,0 +1,1 @@
+{"tmdb_id": 276244, "title": "Tupac Shakur: Before I Wake", "original_title": "Tupac Shakur: Before I Wake", "slug_title": "tupac-shakur-before-i-wake", "date": "2001-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ux9Momi1twWLdCUC4UyoZfX0OZd.jpg", "actors": [], "comments": [], "recommandations_id": []}

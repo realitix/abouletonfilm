@@ -1,0 +1,1 @@
+{"tmdb_id": 581812, "title": "Clube dos cinco F-Trailer", "original_title": "Clube dos cinco F-Trailer", "slug_title": "clube-dos-cinco-f-trailer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bp3w4WxgorOGdNca6MUiuQNcasZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

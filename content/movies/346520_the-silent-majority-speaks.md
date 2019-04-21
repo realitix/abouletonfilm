@@ -1,0 +1,1 @@
+{"tmdb_id": 346520, "title": "The Silent Majority Speaks", "original_title": "The Silent Majority Speaks", "slug_title": "the-silent-majority-speaks", "date": "2010-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

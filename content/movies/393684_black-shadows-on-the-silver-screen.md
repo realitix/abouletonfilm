@@ -1,0 +1,1 @@
+{"tmdb_id": 393684, "title": "Black Shadows on the Silver Screen", "original_title": "Black Shadows on the Silver Screen", "slug_title": "black-shadows-on-the-silver-screen", "date": "1975-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

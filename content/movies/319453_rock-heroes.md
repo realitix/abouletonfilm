@@ -1,0 +1,1 @@
+{"tmdb_id": 319453, "title": "Rock Heroes", "original_title": "Rock Heroes", "slug_title": "rock-heroes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 502548, "title": "Shankar Hussain", "original_title": "Shankar Hussain", "slug_title": "shankar-hussain", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kanwaljit Singh ()", "Pradeep Kumar ()", "Madhu Chanda ()", "Shreeram Lagoo ()", "Jalal Agha ()"], "comments": [], "recommandations_id": []}

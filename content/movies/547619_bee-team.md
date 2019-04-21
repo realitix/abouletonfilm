@@ -1,0 +1,1 @@
+{"tmdb_id": 547619, "title": "Bee Team", "original_title": "Bee Team", "slug_title": "bee-team", "date": "2018-09-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60j3ojSUYR8XDAI865dJp2u0gw9.jpg", "actors": [], "comments": [], "recommandations_id": []}

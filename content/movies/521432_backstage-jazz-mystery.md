@@ -1,0 +1,1 @@
+{"tmdb_id": 521432, "title": "Backstage Jazz Mystery", "original_title": "Backstage Jazz Mystery", "slug_title": "backstage-jazz-mystery", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

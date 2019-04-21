@@ -1,0 +1,1 @@
+{"tmdb_id": 583744, "title": "Nippon and Yokoso", "original_title": "Nippon y Yokoso", "slug_title": "nippon-and-yokoso", "date": "2005-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAWP3fPULSAa11dKExjehX53n8S.jpg", "actors": ["Yoko Honada (Naoko)", "Nacho Sanchez ()"], "comments": [], "recommandations_id": []}

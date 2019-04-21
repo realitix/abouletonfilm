@@ -1,0 +1,1 @@
+{"tmdb_id": 349633, "title": "\uc2a4\ubb34\ud574 \uccab\uc9f8\ub0a0", "original_title": "\uc2a4\ubb34\ud574 \uccab\uc9f8\ub0a0", "slug_title": "seumuhae-ceosjjaenal", "date": "1984-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311105, "title": "The Wandering Gambler", "original_title": "h\u00f4r\u00f4 zanmai", "slug_title": "the-wandering-gambler", "date": "1928-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utQoK1Ed88Hknf90mC0mmIEMhCU.jpg", "actors": [], "comments": [], "recommandations_id": []}

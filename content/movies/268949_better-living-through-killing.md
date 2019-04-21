@@ -1,0 +1,1 @@
+{"tmdb_id": 268949, "title": "Better Living Through Killing", "original_title": "Better Living Through Killing", "slug_title": "better-living-through-killing", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znBtEeDlMUpWmjn8M9KFNuh2qNu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 444695, "title": "Craving Cuba", "original_title": "Craving Cuba", "slug_title": "craving-cuba", "date": "2016-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pCBl6OIgb71XHv2YofT21qYEKXq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 488281, "title": "WAR MOVIES", "original_title": "WAR MOVIES", "slug_title": "war-movies", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

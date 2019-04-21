@@ -1,0 +1,1 @@
+{"tmdb_id": 502656, "title": "Il parolaio", "original_title": "Il parolaio", "slug_title": "il-parolaio", "date": "1978-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roberto Benigni (Cliente)", "Carlo Monni (Tassista)"], "comments": [], "recommandations_id": []}

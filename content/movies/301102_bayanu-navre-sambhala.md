@@ -1,0 +1,1 @@
+{"tmdb_id": 301102, "title": "Bayanu Navre Sambhala", "original_title": "Bayanu Navre Sambhala", "slug_title": "bayanu-navre-sambhala", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

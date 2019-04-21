@@ -1,0 +1,1 @@
+{"tmdb_id": 318574, "title": "Madeline: Sing-a-long With Her Friends", "original_title": "Madeline: Sing-a-long With Her Friends", "slug_title": "madeline-sing-a-long-with-her-friends", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

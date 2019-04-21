@@ -1,0 +1,1 @@
+{"tmdb_id": 311342, "title": "Shortsplay Extreme: Killing Time", "original_title": "Shortsplay Extreme: Killing Time", "slug_title": "shortsplay-extreme-killing-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

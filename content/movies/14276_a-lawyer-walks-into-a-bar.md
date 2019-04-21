@@ -1,0 +1,1 @@
+{"tmdb_id": 14276, "title": "A Lawyer Walks Into a Bar...", "original_title": "A Lawyer Walks Into a Bar...", "slug_title": "a-lawyer-walks-into-a-bar", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77lP4cANzJleUfl52rnNWcK8fWe.jpg", "actors": [], "comments": [], "recommandations_id": []}

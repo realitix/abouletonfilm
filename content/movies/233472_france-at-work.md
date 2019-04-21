@@ -1,0 +1,1 @@
+{"tmdb_id": 233472, "title": "France at Work", "original_title": "Chaudie\u0300re", "slug_title": "france-at-work", "date": "1895-11-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sIp9BJKrdWT82a2GKjUiCYAJkhR.jpg", "actors": [], "comments": [], "recommandations_id": []}

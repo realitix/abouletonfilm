@@ -1,0 +1,1 @@
+{"tmdb_id": 385857, "title": "Gumball", "original_title": "Gumball", "slug_title": "gumball", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/afSs81itnAIHVMyHXXg9Uw3f6qO.jpg", "actors": [], "comments": [], "recommandations_id": []}

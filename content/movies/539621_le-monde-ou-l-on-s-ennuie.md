@@ -1,0 +1,1 @@
+{"tmdb_id": 539621, "title": "Le monde o\u00f9 l'on s'ennuie", "original_title": "Le monde o\u00f9 l'on s'ennuie", "slug_title": "le-monde-ou-l-on-s-ennuie", "date": "1935-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

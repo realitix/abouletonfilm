@@ -1,0 +1,1 @@
+{"tmdb_id": 496630, "title": "The Diana Clone", "original_title": "The Diana Clone", "slug_title": "the-diana-clone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

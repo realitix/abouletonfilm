@@ -1,0 +1,1 @@
+{"tmdb_id": 351085, "title": "Romeo and Juliet", "original_title": "Romeo and Juliet", "slug_title": "romeo-and-juliet", "date": "1933-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

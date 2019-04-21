@@ -1,0 +1,1 @@
+{"tmdb_id": 441257, "title": "Je t'aime, ch\u00e9rie", "original_title": "Je t'aime, ch\u00e9rie", "slug_title": "je-t-aime-cherie", "date": "1986-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u5xX8hj9XaccCzHATs1UYhwHxEE.jpg", "actors": [], "comments": [], "recommandations_id": []}

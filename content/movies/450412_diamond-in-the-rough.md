@@ -1,0 +1,1 @@
+{"tmdb_id": 450412, "title": "Diamond in the Rough", "original_title": "Diamond in the Rough", "slug_title": "diamond-in-the-rough", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/31VHvgSBaGEfve9b7WaPF3mpt5v.jpg", "actors": [], "comments": [], "recommandations_id": []}

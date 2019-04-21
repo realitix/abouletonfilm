@@ -1,0 +1,1 @@
+{"tmdb_id": 510420, "title": "Hotelliggaren", "original_title": "Hotelliggaren", "slug_title": "hotelliggaren", "date": "2017-07-01", "genre": "Familial / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Rydberg ()", "Ola Forssmed ()", "Fredrik Dolk ()", "Sussie Eriksson ()"], "comments": [], "recommandations_id": []}

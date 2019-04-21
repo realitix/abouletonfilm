@@ -1,0 +1,1 @@
+{"tmdb_id": 404391, "title": "Inteqam", "original_title": "Inteqam", "slug_title": "inteqam", "date": "2001-06-30", "genre": "Crime / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wy6XfvY5VZ9bXqeJQmLf3EDCBH5.jpg", "actors": ["Shakti Kapoor ()"], "comments": [], "recommandations_id": []}

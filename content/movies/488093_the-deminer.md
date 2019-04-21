@@ -1,0 +1,1 @@
+{"tmdb_id": 488093, "title": "The Deminer", "original_title": "The Deminer", "slug_title": "the-deminer", "date": "2017-11-19", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xd2HkCDhr5FpyEarWCW9DTSUbqk.jpg", "actors": [], "comments": [], "recommandations_id": []}

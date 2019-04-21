@@ -1,0 +1,1 @@
+{"tmdb_id": 166586, "title": "Laundry Blues", "original_title": "Laundry Blues", "slug_title": "laundry-blues", "date": "1930-08-16", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

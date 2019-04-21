@@ -1,0 +1,1 @@
+{"tmdb_id": 423394, "title": "The Passion of Joan of Arc", "original_title": "The Passion of Joan of Arc", "slug_title": "the-passion-of-joan-of-arc", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iKJihSuzAE21KbEAUnIsSX4iT5d.jpg", "actors": [], "comments": [], "recommandations_id": []}

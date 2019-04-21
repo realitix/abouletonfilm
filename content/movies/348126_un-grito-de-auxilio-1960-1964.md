@@ -1,0 +1,1 @@
+{"tmdb_id": 348126, "title": "Un grito de auxilio (1960-1964)", "original_title": "Un grito de auxilio (1960-1964)", "slug_title": "un-grito-de-auxilio-1960-1964", "date": "1993-07-08", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Stack (Narrator)"], "comments": [], "recommandations_id": []}

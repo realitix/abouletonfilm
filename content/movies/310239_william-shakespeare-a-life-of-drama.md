@@ -1,0 +1,1 @@
+{"tmdb_id": 310239, "title": "William Shakespeare: A Life of Drama", "original_title": "William Shakespeare: A Life of Drama", "slug_title": "william-shakespeare-a-life-of-drama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

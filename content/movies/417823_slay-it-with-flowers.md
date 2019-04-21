@@ -1,0 +1,1 @@
+{"tmdb_id": 417823, "title": "Slay It with Flowers", "original_title": "Slay It with Flowers", "slug_title": "slay-it-with-flowers", "date": "1943-01-29", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Graham (Fox / Crow)"], "comments": [], "recommandations_id": []}

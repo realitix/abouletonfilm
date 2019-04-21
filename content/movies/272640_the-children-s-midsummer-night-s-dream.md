@@ -1,0 +1,1 @@
+{"tmdb_id": 272640, "title": "The Children's Midsummer Night's Dream", "original_title": "The Children's Midsummer Night's Dream", "slug_title": "the-children-s-midsummer-night-s-dream", "date": "2001-06-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

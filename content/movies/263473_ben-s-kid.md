@@ -1,0 +1,1 @@
+{"tmdb_id": 263473, "title": "Ben's Kid", "original_title": "Ben's Kid", "slug_title": "ben-s-kid", "date": "1909-07-01", "genre": "Drame / Western / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Santschi ()", "Harry Todd ()", "Roscoe 'Fatty' Arbuckle (Fatty Carter)"], "comments": [], "recommandations_id": []}

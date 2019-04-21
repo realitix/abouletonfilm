@@ -1,0 +1,1 @@
+{"tmdb_id": 321869, "title": "The Color of Skiing", "original_title": "The Color of Skiing", "slug_title": "the-color-of-skiing", "date": "2015-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

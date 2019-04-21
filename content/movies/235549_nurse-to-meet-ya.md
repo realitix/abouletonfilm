@@ -1,0 +1,1 @@
+{"tmdb_id": 235549, "title": "Nurse to Meet Ya", "original_title": "Nurse to Meet Ya", "slug_title": "nurse-to-meet-ya", "date": "1955-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

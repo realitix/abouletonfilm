@@ -1,0 +1,1 @@
+{"tmdb_id": 53661, "title": "Bikini Party Massacre", "original_title": "Bikini Party Massacre", "slug_title": "bikini-party-massacre", "date": "2002-01-01", "genre": "Horreur", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRKUaxW1flGG69M3x0io9KPQwEf.jpg", "actors": [], "comments": [], "recommandations_id": []}

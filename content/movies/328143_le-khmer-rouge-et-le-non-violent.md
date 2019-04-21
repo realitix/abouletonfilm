@@ -1,0 +1,1 @@
+{"tmdb_id": 328143, "title": "Le khmer rouge et le non-violent", "original_title": "Le khmer rouge et le non-violent", "slug_title": "le-khmer-rouge-et-le-non-violent", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

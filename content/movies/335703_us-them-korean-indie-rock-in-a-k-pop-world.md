@@ -1,0 +1,1 @@
+{"tmdb_id": 335703, "title": "Us & Them: Korean Indie Rock in a K-Pop World", "original_title": "Us & Them: Korean Indie Rock in a K-Pop World", "slug_title": "us-them-korean-indie-rock-in-a-k-pop-world", "date": "2015-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

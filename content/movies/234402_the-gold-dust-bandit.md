@@ -1,0 +1,1 @@
+{"tmdb_id": 234402, "title": "The Gold Dust Bandit", "original_title": "The Gold Dust Bandit", "slug_title": "the-gold-dust-bandit", "date": "1964-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

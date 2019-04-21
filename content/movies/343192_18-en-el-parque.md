@@ -1,0 +1,1 @@
+{"tmdb_id": 343192, "title": "18 en el parque", "original_title": "18 en el parque", "slug_title": "18-en-el-parque", "date": "1999-03-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

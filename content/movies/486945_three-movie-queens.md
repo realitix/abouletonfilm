@@ -1,0 +1,1 @@
+{"tmdb_id": 486945, "title": "Three Movie Queens", "original_title": "Three Movie Queens", "slug_title": "three-movie-queens", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

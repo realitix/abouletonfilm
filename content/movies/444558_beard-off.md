@@ -1,0 +1,1 @@
+{"tmdb_id": 444558, "title": "Beard Off", "original_title": "Beard Off", "slug_title": "beard-off", "date": "2014-07-21", "genre": "Com\u00e9die / Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBAmwQg2VMfUe0duTOfDSBAjzHT.jpg", "actors": ["Eric Jacobus ()", "Shaun Finney ()"], "comments": [], "recommandations_id": []}

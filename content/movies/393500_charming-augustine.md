@@ -1,0 +1,1 @@
+{"tmdb_id": 393500, "title": "Charming Augustine", "original_title": "Charming Augustine", "slug_title": "charming-augustine", "date": "2005-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/biDisUlOH2piQyezsECXCfhjm79.jpg", "actors": [], "comments": [], "recommandations_id": []}

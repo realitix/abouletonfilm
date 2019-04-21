@@ -1,0 +1,1 @@
+{"tmdb_id": 235395, "title": "Bull Fright", "original_title": "Bull Fright", "slug_title": "bull-fright", "date": "1955-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

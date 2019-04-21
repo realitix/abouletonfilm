@@ -1,0 +1,1 @@
+{"tmdb_id": 384214, "title": "The Letter to a Chinese Friend", "original_title": "The Letter to a Chinese Friend", "slug_title": "the-letter-to-a-chinese-friend", "date": "1969-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

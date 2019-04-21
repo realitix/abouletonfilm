@@ -1,0 +1,1 @@
+{"tmdb_id": 218906, "title": "Burning in the Sun", "original_title": "Burning in the Sun", "slug_title": "burning-in-the-sun", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

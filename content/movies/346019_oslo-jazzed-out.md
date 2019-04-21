@@ -1,0 +1,1 @@
+{"tmdb_id": 346019, "title": "Oslo Jazzed Out", "original_title": "Oslo Jazzed Out", "slug_title": "oslo-jazzed-out", "date": "2011-09-14", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

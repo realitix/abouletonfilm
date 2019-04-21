@@ -1,0 +1,1 @@
+{"tmdb_id": 554632, "title": "Ghost Promise", "original_title": "Ghost Promise", "slug_title": "ghost-promise", "date": "2000-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carrie Ng ()", "Norman Chu ()", "Eric Wan ()"], "comments": [], "recommandations_id": []}

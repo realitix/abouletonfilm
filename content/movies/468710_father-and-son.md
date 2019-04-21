@@ -1,0 +1,1 @@
+{"tmdb_id": 468710, "title": "Father and Son", "original_title": "Ojciec i syn", "slug_title": "father-and-son", "date": "2013-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CTYPHq0aiFMl5E9sGbc8hQ58e9.jpg", "actors": [], "comments": [], "recommandations_id": []}

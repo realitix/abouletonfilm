@@ -1,0 +1,1 @@
+{"tmdb_id": 455100, "title": "Obscura Camera", "original_title": "Obscura Camera", "slug_title": "obscura-camera", "date": "2013-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9EE9SWcG3wzMBbPvPWYg6Axk7kA.jpg", "actors": [], "comments": [], "recommandations_id": []}

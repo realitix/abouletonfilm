@@ -1,0 +1,1 @@
+{"tmdb_id": 472069, "title": "Tragedy or Triumph", "original_title": "Tragedy or Triumph", "slug_title": "tragedy-or-triumph", "date": "2017-08-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wq9jE0nucFeKCrF7zQVM7agoVD6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540388, "title": "The Infamous Chalk Girl", "original_title": "The Infamous Chalk Girl", "slug_title": "the-infamous-chalk-girl", "date": "2017-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dJthDYkKXgFsSAACvXb8NJhU9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

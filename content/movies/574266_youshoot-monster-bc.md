@@ -1,0 +1,1 @@
+{"tmdb_id": 574266, "title": "YouShoot: Monster BC", "original_title": "YouShoot: Monster BC", "slug_title": "youshoot-monster-bc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "George Murdoch (Himself)"], "comments": [], "recommandations_id": []}

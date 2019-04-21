@@ -1,0 +1,1 @@
+{"tmdb_id": 307880, "title": "The Device", "original_title": "The Device", "slug_title": "the-device", "date": "2012-09-27", "genre": "Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4YJmnwoIrLInoDeBB9BoAbNI7U.jpg", "actors": ["Leo Mates ()"], "comments": [], "recommandations_id": []}

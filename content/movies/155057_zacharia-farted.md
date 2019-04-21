@@ -1,0 +1,1 @@
+{"tmdb_id": 155057, "title": "Zacharia Farted", "original_title": "Zacharia Farted", "slug_title": "zacharia-farted", "date": "1999-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colin Cunningham (Michael Bates)", "Ben Ratner (Brian Moore)"], "comments": [], "recommandations_id": []}

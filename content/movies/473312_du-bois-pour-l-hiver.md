@@ -1,0 +1,1 @@
+{"tmdb_id": 473312, "title": "Du bois pour l'hiver", "original_title": "Du bois pour l'hiver", "slug_title": "du-bois-pour-l-hiver", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

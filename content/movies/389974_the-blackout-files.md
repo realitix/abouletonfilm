@@ -1,0 +1,1 @@
+{"tmdb_id": 389974, "title": "The Blackout Files", "original_title": "The Blackout Files", "slug_title": "the-blackout-files", "date": "2009-05-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

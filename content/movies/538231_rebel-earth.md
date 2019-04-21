@@ -1,0 +1,1 @@
+{"tmdb_id": 538231, "title": "Rebel Earth", "original_title": "Rebel Earth", "slug_title": "rebel-earth", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

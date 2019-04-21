@@ -1,0 +1,1 @@
+{"tmdb_id": 321663, "title": "They Shoot Movies, Don't They?", "original_title": "They Shoot Movies, Don't They?", "slug_title": "they-shoot-movies-don-t-they", "date": "2000-08-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

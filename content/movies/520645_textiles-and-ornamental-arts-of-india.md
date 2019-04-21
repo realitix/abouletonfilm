@@ -1,0 +1,1 @@
+{"tmdb_id": 520645, "title": "Textiles and Ornamental Arts of India", "original_title": "Textiles and Ornamental Arts of India", "slug_title": "textiles-and-ornamental-arts-of-india", "date": "1955-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

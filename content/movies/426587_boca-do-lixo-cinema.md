@@ -1,0 +1,1 @@
+{"tmdb_id": 426587, "title": "Boca do Lixo Cinema", "original_title": "Boca do Lixo Cinema", "slug_title": "boca-do-lixo-cinema", "date": "1976-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctYGdeL8GF5OOw3CM4GWXsZXsES.jpg", "actors": [], "comments": [], "recommandations_id": []}

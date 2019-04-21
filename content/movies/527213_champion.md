@@ -1,0 +1,1 @@
+{"tmdb_id": 527213, "title": "Champion", "original_title": "\u0642\u0647\u0631\u0645\u0627\u0646", "slug_title": "champion", "date": "2018-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()", "Faridullah Mohibi ()"], "comments": [], "recommandations_id": []}

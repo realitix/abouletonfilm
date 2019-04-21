@@ -1,0 +1,1 @@
+{"tmdb_id": 556597, "title": "Strictly Platonic", "original_title": "Strictly Platonic", "slug_title": "strictly-platonic", "date": "2016-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 224722, "title": "Do I Have Power", "original_title": "Do I Have Power", "slug_title": "do-i-have-power", "date": "2011-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7834Nf3w6KmBuyDlEwdY6hJpAwF.jpg", "actors": [], "comments": [], "recommandations_id": []}

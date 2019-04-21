@@ -1,0 +1,1 @@
+{"tmdb_id": 278083, "title": "Mothers of Bedford", "original_title": "Mothers of Bedford", "slug_title": "mothers-of-bedford", "date": "2011-04-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

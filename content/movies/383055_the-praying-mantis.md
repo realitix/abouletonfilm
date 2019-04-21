@@ -1,0 +1,1 @@
+{"tmdb_id": 383055, "title": "The Praying Mantis", "original_title": "\u87b3\u8782\u6355\u8749", "slug_title": "the-praying-mantis", "date": "1988-01-01", "genre": "Histoire / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1XMcOqpx3J4wHRRHvuhfYLx8Cts.jpg", "actors": [], "comments": [], "recommandations_id": []}

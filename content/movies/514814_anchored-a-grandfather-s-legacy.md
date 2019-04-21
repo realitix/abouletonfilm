@@ -1,0 +1,1 @@
+{"tmdb_id": 514814, "title": "Anchored: A Grandfather's Legacy", "original_title": "Anchored: A Grandfather's Legacy", "slug_title": "anchored-a-grandfather-s-legacy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RbCfrvRgZVg8BudmwB8BBm0Ug9.jpg", "actors": [], "comments": [], "recommandations_id": []}

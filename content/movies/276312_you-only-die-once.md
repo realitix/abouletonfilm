@@ -1,0 +1,1 @@
+{"tmdb_id": 276312, "title": "You Only Die Once", "original_title": "You Only Die Once", "slug_title": "you-only-die-once", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

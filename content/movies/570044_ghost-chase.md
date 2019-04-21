@@ -1,0 +1,1 @@
+{"tmdb_id": 570044, "title": "Ghost Chase", "original_title": "\u8273\u9b3c\u6444\u9b42", "slug_title": "ghost-chase", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1ZVs7WT8ZoCsbe0XiVihTBxVBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

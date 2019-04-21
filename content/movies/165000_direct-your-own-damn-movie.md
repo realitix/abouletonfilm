@@ -1,0 +1,1 @@
+{"tmdb_id": 165000, "title": "Direct Your Own Damn Movie!", "original_title": "Direct Your Own Damn Movie!", "slug_title": "direct-your-own-damn-movie", "date": "2009-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYBiTbJ86MsU2KwNRUOtWj1ZJQO.jpg", "actors": [], "comments": [], "recommandations_id": []}

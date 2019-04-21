@@ -1,0 +1,1 @@
+{"tmdb_id": 312004, "title": "A War to End All Wars: World War One", "original_title": "A War to End All Wars: World War One", "slug_title": "a-war-to-end-all-wars-world-war-one", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

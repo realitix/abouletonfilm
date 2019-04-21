@@ -1,0 +1,1 @@
+{"tmdb_id": 536967, "title": "Da Republic of Brooklyn", "original_title": "Da Republic of Brooklyn", "slug_title": "da-republic-of-brooklyn", "date": "2018-07-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HVyaeLZPtdYzrwgeHO1a5HO2X4.jpg", "actors": [], "comments": [], "recommandations_id": []}

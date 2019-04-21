@@ -1,0 +1,1 @@
+{"tmdb_id": 524555, "title": "\u0633\u0643 \u0639\u0644\u0649 \u0625\u062e\u0648\u0627\u062a\u0643", "original_title": "\u0633\u0643 \u0639\u0644\u0649 \u0625\u062e\u0648\u0627\u062a\u0643", "slug_title": "sk-l-khwtk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

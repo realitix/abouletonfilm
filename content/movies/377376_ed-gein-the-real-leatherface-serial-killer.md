@@ -1,0 +1,1 @@
+{"tmdb_id": 377376, "title": "Ed Gein The Real Leatherface Serial Killer", "original_title": "Ed Gein The Real Leatherface Serial Killer", "slug_title": "ed-gein-the-real-leatherface-serial-killer", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

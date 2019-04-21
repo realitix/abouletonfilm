@@ -1,0 +1,1 @@
+{"tmdb_id": 430179, "title": "Suzanne, Suzanne", "original_title": "Suzanne, Suzanne", "slug_title": "suzanne-suzanne", "date": "1982-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ido8YsLHZfVwl1PAns42sLQjTf.jpg", "actors": [], "comments": [], "recommandations_id": []}

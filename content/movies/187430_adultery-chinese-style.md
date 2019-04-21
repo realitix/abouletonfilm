@@ -1,0 +1,1 @@
+{"tmdb_id": 187430, "title": "Adultery, Chinese Style", "original_title": "Adultery, Chinese Style", "slug_title": "adultery-chinese-style", "date": "1973-03-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i7G3DIYhhaCTJywCM1u9U0raUpJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

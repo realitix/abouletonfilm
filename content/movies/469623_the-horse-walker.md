@@ -1,0 +1,1 @@
+{"tmdb_id": 469623, "title": "The Horse Walker", "original_title": "\u0428\u0430\u0433\u043e\u0432\u0438\u043a", "slug_title": "the-horse-walker", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 23075, "title": "Jerusalem: City of Heaven", "original_title": "Jerusalem: City of Heaven", "slug_title": "jerusalem-city-of-heaven", "date": "1996-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

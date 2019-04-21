@@ -1,0 +1,1 @@
+{"tmdb_id": 443098, "title": "Apinajuttu", "original_title": "Apinajuttu", "slug_title": "apinajuttu", "date": "2010-03-11", "genre": "Com\u00e9die / Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ville Virtanen (Jensse)", "Max Bremer (Sami)", "Niklas H\u00e4ggblom (Jari Mutanen)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 157619, "title": "The Dinner Party", "original_title": "The Dinner Party", "slug_title": "the-dinner-party", "date": "2009-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9TUEa790deKg7p1gcznZGmjEjW.jpg", "actors": ["Lara Cox (Angela)", "Ben Seton (Joel)"], "comments": [], "recommandations_id": []}

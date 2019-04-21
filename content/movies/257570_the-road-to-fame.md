@@ -1,0 +1,1 @@
+{"tmdb_id": 257570, "title": "The Road to Fame", "original_title": "The Road to Fame", "slug_title": "the-road-to-fame", "date": "2013-06-12", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DCjUHElNM8Zh4lc742f6r1J2Q1.jpg", "actors": [], "comments": [], "recommandations_id": []}

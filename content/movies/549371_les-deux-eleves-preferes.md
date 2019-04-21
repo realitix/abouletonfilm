@@ -1,0 +1,1 @@
+{"tmdb_id": 549371, "title": "Les deux \u00e9l\u00e8ves pr\u00e9f\u00e9r\u00e9s", "original_title": "Les deux \u00e9l\u00e8ves pr\u00e9f\u00e9r\u00e9s", "slug_title": "les-deux-eleves-preferes", "date": "1978-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

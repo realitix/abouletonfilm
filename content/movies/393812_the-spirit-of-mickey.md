@@ -1,0 +1,1 @@
+{"tmdb_id": 393812, "title": "The Spirit of Mickey", "original_title": "The Spirit of Mickey", "slug_title": "the-spirit-of-mickey", "date": "1998-07-14", "genre": "Familial / Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haydHro5SlUFyk9qX8RIemdHd70.jpg", "actors": [], "comments": [], "recommandations_id": []}

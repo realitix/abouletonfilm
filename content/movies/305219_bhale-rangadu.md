@@ -1,0 +1,1 @@
+{"tmdb_id": 305219, "title": "Bhale Rangadu", "original_title": "Bhale Rangadu", "slug_title": "bhale-rangadu", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

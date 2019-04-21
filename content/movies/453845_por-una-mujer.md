@@ -1,0 +1,1 @@
+{"tmdb_id": 453845, "title": "Por una mujer", "original_title": "Por una mujer", "slug_title": "por-una-mujer", "date": "1940-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Bad\u00fa ()", "Natalia Ortiz ()", "Manuel Pozos ()", "Esther Zepeda ()"], "comments": [], "recommandations_id": []}

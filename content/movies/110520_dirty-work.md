@@ -1,0 +1,1 @@
+{"tmdb_id": 110520, "title": "Dirty Work", "original_title": "Dirty Work", "slug_title": "dirty-work", "date": "2004-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Russ Page ()", "Darrell Allen ()", "Bernard Holston ()"], "comments": [], "recommandations_id": []}

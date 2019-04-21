@@ -1,0 +1,1 @@
+{"tmdb_id": 485824, "title": "Snow Snow for Lucy", "original_title": "Snow Snow for Lucy", "slug_title": "snow-snow-for-lucy", "date": "2008-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kailey Kaneshiro (Lucy)", "Lew Lappert (The Inventor)"], "comments": [], "recommandations_id": []}

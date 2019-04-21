@@ -1,0 +1,1 @@
+{"tmdb_id": 572374, "title": "Gaumont-Palace", "original_title": "Gaumont-Palace", "slug_title": "gaumont-palace", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Fran\u00e7ois Barat", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 106086, "title": "Fay's 12 Days of Christmas", "original_title": "Fay's 12 Days of Christmas", "slug_title": "fay-s-12-days-of-christmas", "date": "1995-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7NRcpKc175frXHLtTPWV4rAr9e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282204, "title": "The Chauffeur Was a Lady", "original_title": "Nu si ji", "slug_title": "the-chauffeur-was-a-lady", "date": "1965-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yee-wah Chan ()", "Ying Cheung ()", "Lo Dun ()"], "comments": [], "recommandations_id": []}

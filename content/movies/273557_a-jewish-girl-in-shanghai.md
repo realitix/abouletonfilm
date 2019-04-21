@@ -1,0 +1,1 @@
+{"tmdb_id": 273557, "title": "A Jewish Girl in Shanghai", "original_title": "A Jewish Girl in Shanghai", "slug_title": "a-jewish-girl-in-shanghai", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

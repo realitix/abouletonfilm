@@ -1,0 +1,1 @@
+{"tmdb_id": 487354, "title": "Manson: The Voice of Madness", "original_title": "Manson: The Voice of Madness", "slug_title": "manson-the-voice-of-madness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esDQMYeILMplxtL7qBGGV1ANGSb.jpg", "actors": [], "comments": [], "recommandations_id": []}

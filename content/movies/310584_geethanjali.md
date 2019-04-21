@@ -1,0 +1,1 @@
+{"tmdb_id": 310584, "title": "Geethanjali", "original_title": "Geethanjali", "slug_title": "geethanjali", "date": "2014-08-08", "genre": "Horreur / Com\u00e9die", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JH5GWkrv3JcNdCIEncHfVtsoQD.jpg", "actors": ["Anjali ()"], "comments": [], "recommandations_id": []}

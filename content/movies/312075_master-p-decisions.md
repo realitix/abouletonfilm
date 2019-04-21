@@ -1,0 +1,1 @@
+{"tmdb_id": 312075, "title": "Master P: Decisions", "original_title": "Master P: Decisions", "slug_title": "master-p-decisions", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

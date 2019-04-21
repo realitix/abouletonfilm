@@ -1,0 +1,1 @@
+{"tmdb_id": 500165, "title": "Kings of Ktown", "original_title": "Kings of Ktown", "slug_title": "kings-of-ktown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

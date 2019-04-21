@@ -1,0 +1,1 @@
+{"tmdb_id": 485096, "title": "Meri Nimmo", "original_title": "\u092e\u0947\u0930\u0940 \u0928\u093f\u092e\u094d\u092e\u094b", "slug_title": "meri-nimmo", "date": "2018-04-27", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59SQiFKDrBHhvZw1UnoQdR7CoUm.jpg", "actors": [], "comments": [], "recommandations_id": []}

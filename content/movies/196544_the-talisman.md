@@ -1,0 +1,1 @@
+{"tmdb_id": 196544, "title": "The Talisman", "original_title": "Le pied de mouton", "slug_title": "the-talisman", "date": "1907-12-27", "genre": "", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65WmKlan68aDyzbO63dWoKCwAcr.jpg", "actors": [], "comments": [], "recommandations_id": [190591, 44335, 193849, 119973]}

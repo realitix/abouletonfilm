@@ -1,0 +1,1 @@
+{"tmdb_id": 245771, "title": "El despojo", "original_title": "El despojo", "slug_title": "el-despojo", "date": "1960-06-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVGC0pecU5jqA65r7z8k4Lcbkjm.jpg", "actors": ["Jorge Mart\u00ednez de Hoyos (Narrator)"], "comments": [], "recommandations_id": []}

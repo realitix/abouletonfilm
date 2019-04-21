@@ -1,0 +1,1 @@
+{"tmdb_id": 418237, "title": "Street Fighter: Resurrection", "original_title": "Street Fighter: Resurrection", "slug_title": "street-fighter-resurrection", "date": "2016-04-05", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yg4MeTDn2BT2UZyuzYb5L2VckbT.jpg", "actors": [], "comments": [], "recommandations_id": []}

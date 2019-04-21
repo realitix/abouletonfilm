@@ -1,0 +1,1 @@
+{"tmdb_id": 321593, "title": "Zeromancer: Eurotrash", "original_title": "Zeromancer: Eurotrash", "slug_title": "zeromancer-eurotrash", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

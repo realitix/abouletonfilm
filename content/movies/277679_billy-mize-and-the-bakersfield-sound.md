@@ -1,0 +1,1 @@
+{"tmdb_id": 277679, "title": "Billy Mize and the Bakersfield Sound", "original_title": "Billy Mize and the Bakersfield Sound", "slug_title": "billy-mize-and-the-bakersfield-sound", "date": "2014-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

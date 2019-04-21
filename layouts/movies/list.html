@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">11000 films et 4500 séries à télécharger !</h1>
+    </div>
+</div>
+
+{{ $paginator := .Paginate (where .Data.Pages "Type" "movies") }}
+{{ template "_internal/pagination.html" . }}
+
+<div class="movies">
+    <div class="container">
+        <div class="row">
+        {{ range $paginator.Pages}}
+            <div class="col">
+                <a href="{{ .URL }}"><img src="{{.Params.image}}" /></a><br />
+                <span class="title"><a href="{{ .URL }}">{{ .Title }}</a></span><br />
+                <span class="year">{{ .Date.Year }}</span>
+            </div>
+        {{ end }}
+        </div>
+    </div>
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

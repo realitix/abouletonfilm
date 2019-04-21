@@ -1,0 +1,1 @@
+{"tmdb_id": 574772, "title": "The Rise of Spider-Man", "original_title": "The Rise of Spider-Man", "slug_title": "the-rise-of-spider-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

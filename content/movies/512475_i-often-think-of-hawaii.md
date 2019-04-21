@@ -1,0 +1,1 @@
+{"tmdb_id": 512475, "title": "I Often Think of Hawaii", "original_title": "Ich denke oft an Hawaii", "slug_title": "i-often-think-of-hawaii", "date": "1978-03-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

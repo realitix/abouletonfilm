@@ -1,0 +1,1 @@
+{"tmdb_id": 236561, "title": "Snow Time for Comedy", "original_title": "Snow Time for Comedy", "slug_title": "snow-time-for-comedy", "date": "1941-08-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Du8hzSaig6HIz9hrQIUKV8TfZn.jpg", "actors": [], "comments": [], "recommandations_id": []}

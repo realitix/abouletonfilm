@@ -1,0 +1,1 @@
+{"tmdb_id": 321827, "title": "The Assignation", "original_title": "The Assignation", "slug_title": "the-assignation", "date": "1953-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hX2itkwEl4lKxoUMgiSMoKt4ws.jpg", "actors": [], "comments": [], "recommandations_id": []}

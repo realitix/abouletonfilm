@@ -1,0 +1,1 @@
+{"tmdb_id": 317757, "title": "Carl Zeller: Der Vogelhandler", "original_title": "Carl Zeller: Der Vogelhandler", "slug_title": "carl-zeller-der-vogelhandler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

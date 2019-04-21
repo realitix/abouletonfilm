@@ -1,0 +1,1 @@
+{"tmdb_id": 486988, "title": "Sem Informa\u00e7\u00e3o", "original_title": "Sem Informa\u00e7\u00e3o", "slug_title": "sem-informacao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

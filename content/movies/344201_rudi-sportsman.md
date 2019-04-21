@@ -1,0 +1,1 @@
+{"tmdb_id": 344201, "title": "Rudi sportsman", "original_title": "Rudi sportsman", "slug_title": "rudi-sportsman", "date": "1911-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emil Artur Longen (Rudi, Sportsman)", "Rudolf Suva (Old Lady)", "Josef Waltner ()"], "comments": [], "recommandations_id": []}

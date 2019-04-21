@@ -1,0 +1,1 @@
+{"tmdb_id": 450698, "title": "My Favorite Thing Is Monsters", "original_title": "My Favorite Thing Is Monsters", "slug_title": "my-favorite-thing-is-monsters", "date": "", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

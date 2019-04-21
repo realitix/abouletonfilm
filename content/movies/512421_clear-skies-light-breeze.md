@@ -1,0 +1,1 @@
+{"tmdb_id": 512421, "title": "Clear Skies, Light Breeze", "original_title": "Beau temps, vent l\u00e9ger", "slug_title": "clear-skies-light-breeze", "date": "2014-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["St\u00e9phane Goudet (Narrator)"], "comments": [], "recommandations_id": []}

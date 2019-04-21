@@ -1,0 +1,1 @@
+{"tmdb_id": 342413, "title": "Irish Sweepstakes", "original_title": "Irish Sweepstakes", "slug_title": "irish-sweepstakes", "date": "1934-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

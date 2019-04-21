@@ -1,0 +1,1 @@
+{"tmdb_id": 320363, "title": "Coping with Babylon: The Proper Rastology", "original_title": "Coping with Babylon: The Proper Rastology", "slug_title": "coping-with-babylon-the-proper-rastology", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

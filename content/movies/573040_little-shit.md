@@ -1,0 +1,1 @@
+{"tmdb_id": 573040, "title": "Little Shit", "original_title": "Little Shit", "slug_title": "little-shit", "date": "2017-11-14", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPazwrc7X112VpjXhWj80HOkgEf.jpg", "actors": [], "comments": [], "recommandations_id": []}

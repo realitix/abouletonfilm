@@ -1,0 +1,1 @@
+{"tmdb_id": 562982, "title": "Colossus", "original_title": "Colossus", "slug_title": "colossus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

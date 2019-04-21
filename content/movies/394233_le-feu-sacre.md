@@ -1,0 +1,1 @@
+{"tmdb_id": 394233, "title": "Le feu sacr\u00e9", "original_title": "Le feu sacr\u00e9", "slug_title": "le-feu-sacre", "date": "1972-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

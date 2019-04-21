@@ -1,0 +1,1 @@
+{"tmdb_id": 378045, "title": "Helmut Qualtinger liest Mein Kampf", "original_title": "Helmut Qualtinger liest Mein Kampf", "slug_title": "helmut-qualtinger-liest-mein-kampf", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helmut Qualtinger ()"], "comments": [], "recommandations_id": []}

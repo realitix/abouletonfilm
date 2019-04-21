@@ -1,0 +1,1 @@
+{"tmdb_id": 563391, "title": "Le franc-tireur", "original_title": "Le franc-tireur", "slug_title": "le-franc-tireur", "date": "1978-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6QgazdeEtXBKPcywhVWdTMK5jkb.jpg", "actors": ["Bernard Le Coq (Jacques Mar\u00e9chal)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 188890, "title": "Le Martyre de la dactylo", "original_title": "Le Martyre de la dactylo", "slug_title": "le-martyre-de-la-dactylo", "date": "1930-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

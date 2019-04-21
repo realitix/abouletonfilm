@@ -1,0 +1,1 @@
+{"tmdb_id": 153701, "title": "PLURALITY", "original_title": "PLURALITY", "slug_title": "plurality", "date": "2012-05-31", "genre": "Science-Fiction", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ms1c4uHsWvV7TVGA9TecJHorlLw.jpg", "actors": [], "comments": [], "recommandations_id": [53716, 353049, 134718, 188724]}

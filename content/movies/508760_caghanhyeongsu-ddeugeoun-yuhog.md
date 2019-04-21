@@ -1,0 +1,1 @@
+{"tmdb_id": 508760, "title": "\ucc29\ud55c\ud615\uc218: \ub728\uac70\uc6b4 \uc720\ud639", "original_title": "\ucc29\ud55c\ud615\uc218: \ub728\uac70\uc6b4 \uc720\ud639", "slug_title": "caghanhyeongsu-ddeugeoun-yuhog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

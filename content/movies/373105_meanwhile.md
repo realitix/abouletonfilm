@@ -1,0 +1,1 @@
+{"tmdb_id": 373105, "title": "Meanwhile", "original_title": "Meanwhile", "slug_title": "meanwhile", "date": "2014-09-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNFbhwUc3dZzdIG2WTGmDEtEm08.jpg", "actors": [], "comments": [], "recommandations_id": []}

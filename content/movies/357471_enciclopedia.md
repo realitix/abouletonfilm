@@ -1,0 +1,1 @@
+{"tmdb_id": 357471, "title": "Enciclop\u00e9dia", "original_title": "Enciclop\u00e9dia", "slug_title": "enciclopedia", "date": "2010-01-29", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

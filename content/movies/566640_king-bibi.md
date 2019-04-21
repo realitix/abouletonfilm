@@ -1,0 +1,1 @@
+{"tmdb_id": 566640, "title": "King Bibi", "original_title": "\u05e7\u05d9\u05e0\u05d2 \u05d1\u05d9\u05d1\u05d9", "slug_title": "king-bibi", "date": "2018-08-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbQECiaWfdWn8yytl69ZTqJkNBC.jpg", "actors": [], "comments": [], "recommandations_id": []}

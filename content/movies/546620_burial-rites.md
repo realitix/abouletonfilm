@@ -1,0 +1,1 @@
+{"tmdb_id": 546620, "title": "Burial Rites", "original_title": "Burial Rites", "slug_title": "burial-rites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OP6pDUSH5luMcb15MKpn6WQdYx.jpg", "actors": ["Jennifer Lawrence (Agnes Magn\u00fasd\u00f3ttir)"], "comments": [], "recommandations_id": []}

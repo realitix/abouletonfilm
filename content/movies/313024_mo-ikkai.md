@@ -1,0 +1,1 @@
+{"tmdb_id": 313024, "title": "Mo ikkai", "original_title": "Mo ikkai", "slug_title": "mo-ikkai", "date": "2012-06-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7WugcQM86imLTIJvIfUTu0ohyvT.jpg", "actors": ["Haruna Fujita ()", "Koudai Fujita ()"], "comments": [], "recommandations_id": []}

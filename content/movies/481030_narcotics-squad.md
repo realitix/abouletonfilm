@@ -1,0 +1,1 @@
+{"tmdb_id": 481030, "title": "Narcotics Squad", "original_title": "\u7f09\u6bd2\u961f", "slug_title": "narcotics-squad", "date": "2007-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tc6X2c7IDGBnAoXQQX40mZ2gaeg.jpg", "actors": ["Yao Anlian ()"], "comments": [], "recommandations_id": []}

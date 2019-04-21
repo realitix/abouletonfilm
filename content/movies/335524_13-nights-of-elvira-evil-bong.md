@@ -1,0 +1,1 @@
+{"tmdb_id": 335524, "title": "13 Nights of Elvira: Evil Bong", "original_title": "13 Nights of Elvira: Evil Bong", "slug_title": "13-nights-of-elvira-evil-bong", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7vrLGmGGjYNbm8jhJ1o79H6ipK.jpg", "actors": [], "comments": [], "recommandations_id": []}

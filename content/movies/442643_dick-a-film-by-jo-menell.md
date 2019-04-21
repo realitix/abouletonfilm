@@ -1,0 +1,1 @@
+{"tmdb_id": 442643, "title": "Dick: A Film by Jo Menell", "original_title": "Dick: A Film by Jo Menell", "slug_title": "dick-a-film-by-jo-menell", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

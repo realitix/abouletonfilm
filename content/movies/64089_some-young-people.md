@@ -1,0 +1,1 @@
+{"tmdb_id": 64089, "title": "Some Young People", "original_title": "Aru Wakamono-tachi", "slug_title": "some-young-people", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRkDXIVLgPV8CdFs6ZeAwAWEcjx.jpg", "actors": ["Yoko Ono (herself)"], "comments": [], "recommandations_id": []}

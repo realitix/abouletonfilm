@@ -1,0 +1,1 @@
+{"tmdb_id": 336966, "title": "The Man Who Has A Camera", "original_title": "Chi sheyingji de nanren", "slug_title": "the-man-who-has-a-camera", "date": "1933-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nb0DRi1CpO1U0MlssWETNyyO4kI.jpg", "actors": [], "comments": [], "recommandations_id": []}

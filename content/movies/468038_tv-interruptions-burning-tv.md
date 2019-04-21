@@ -1,0 +1,1 @@
+{"tmdb_id": 468038, "title": "TV Interruptions: Burning TV", "original_title": "TV Interruptions: Burning TV", "slug_title": "tv-interruptions-burning-tv", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVcbA6Udz8oUfFj2Ol9z3vi8wza.jpg", "actors": [], "comments": [], "recommandations_id": []}

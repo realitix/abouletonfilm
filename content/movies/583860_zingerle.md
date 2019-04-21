@@ -1,0 +1,1 @@
+{"tmdb_id": 583860, "title": "Zingerle", "original_title": "Zingerle", "slug_title": "zingerle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBNO7XxCdfaOdTBM6SuAmpUFICi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337986, "title": "Traces of Smoke", "original_title": "Rooksporen", "slug_title": "traces-of-smoke", "date": "1992-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ozpkmQZJcuFmJqrw4q64NvJRBAv.jpg", "actors": [], "comments": [], "recommandations_id": []}

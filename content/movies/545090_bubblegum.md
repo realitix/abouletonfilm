@@ -1,0 +1,1 @@
+{"tmdb_id": 545090, "title": "Bubblegum", "original_title": "Bubblegum", "slug_title": "bubblegum", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Holly Woodlawn ()", "Nick Zedd ()"], "comments": [], "recommandations_id": []}

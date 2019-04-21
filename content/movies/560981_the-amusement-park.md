@@ -1,0 +1,1 @@
+{"tmdb_id": 560981, "title": "The Amusement Park", "original_title": "The Amusement Park", "slug_title": "the-amusement-park", "date": "1973-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OCtEIlnyU8u5jIMReI5bC7X1wy.jpg", "actors": ["Lincoln Maazel ()"], "comments": [], "recommandations_id": []}

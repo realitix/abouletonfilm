@@ -1,0 +1,1 @@
+{"tmdb_id": 317604, "title": "War on Wax: Rivalries in Hip Hop", "original_title": "War on Wax: Rivalries in Hip Hop", "slug_title": "war-on-wax-rivalries-in-hip-hop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oY5Xz5NRd4ydrae2jZHBoqIgK2F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 476423, "title": "Dreams of Gold", "original_title": "Dreams of Gold", "slug_title": "dreams-of-gold", "date": "2002-01-01", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cliff Robertson ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531991, "title": "The Fenwick Island Experience", "original_title": "The Fenwick Island Experience", "slug_title": "the-fenwick-island-experience", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEevAi7Z1PYwW89JfNFCihjg7ld.jpg", "actors": [], "comments": [], "recommandations_id": []}

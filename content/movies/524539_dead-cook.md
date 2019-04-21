@@ -1,0 +1,1 @@
+{"tmdb_id": 524539, "title": "Dead Cook", "original_title": "Dead Cook", "slug_title": "dead-cook", "date": "2018-05-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTlbO06xffRBFMblBv3yav3fbYT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394575, "title": "Cuatro contra el mundo", "original_title": "Cuatro contra el mundo", "slug_title": "cuatro-contra-el-mundo", "date": "1950-04-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

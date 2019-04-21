@@ -1,0 +1,1 @@
+{"tmdb_id": 556037, "title": "Les hommes de la c\u00f4te", "original_title": "Les hommes de la c\u00f4te", "slug_title": "les-hommes-de-la-cote", "date": "1934-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

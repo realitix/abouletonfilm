@@ -1,0 +1,1 @@
+{"tmdb_id": 524237, "title": "Death In June: Lives At The Edge Of The World", "original_title": "Death In June: Lives At The Edge Of The World", "slug_title": "death-in-june-lives-at-the-edge-of-the-world", "date": "2012-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

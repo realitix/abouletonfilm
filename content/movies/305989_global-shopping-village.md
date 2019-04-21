@@ -1,0 +1,1 @@
+{"tmdb_id": 305989, "title": "Global Shopping Village", "original_title": "Global Shopping Village", "slug_title": "global-shopping-village", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bmQRhWYRfCXVVLWbpFpTAI2oWHF.jpg", "actors": [], "comments": [], "recommandations_id": []}

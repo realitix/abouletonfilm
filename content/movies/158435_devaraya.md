@@ -1,0 +1,1 @@
+{"tmdb_id": 158435, "title": "Devaraya", "original_title": "Devaraya", "slug_title": "devaraya", "date": "2012-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/akuFKwr14bfvKaAHwMhj8ddrssp.jpg", "actors": ["Srikanth Meka (Dorababu)", "Meenakshi Dixit ()"], "comments": [], "recommandations_id": []}

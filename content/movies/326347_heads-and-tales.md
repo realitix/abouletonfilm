@@ -1,0 +1,1 @@
+{"tmdb_id": 326347, "title": "Heads and Tales", "original_title": "Heads and Tales", "slug_title": "heads-and-tales", "date": "1967-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jS54KrdyNJcuSa0KhN31JpKjudT.jpg", "actors": [], "comments": [], "recommandations_id": []}

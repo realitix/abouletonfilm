@@ -1,0 +1,1 @@
+{"tmdb_id": 312721, "title": "Finding Hope in Recovery", "original_title": "Finding Hope in Recovery", "slug_title": "finding-hope-in-recovery", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

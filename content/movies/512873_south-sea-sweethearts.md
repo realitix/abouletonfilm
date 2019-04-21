@@ -1,0 +1,1 @@
+{"tmdb_id": 512873, "title": "South Sea Sweethearts", "original_title": "South Sea Sweethearts", "slug_title": "south-sea-sweethearts", "date": "1938-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BwtrKSVsux6Nn3KI4iwMe2iKzr.jpg", "actors": [], "comments": [], "recommandations_id": []}

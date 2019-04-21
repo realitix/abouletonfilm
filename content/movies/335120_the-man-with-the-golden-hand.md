@@ -1,0 +1,1 @@
+{"tmdb_id": 335120, "title": "The Man with the Golden Hand", "original_title": "The Man with the Golden Hand", "slug_title": "the-man-with-the-golden-hand", "date": "2014-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

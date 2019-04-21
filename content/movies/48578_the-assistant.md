@@ -1,0 +1,1 @@
+{"tmdb_id": 48578, "title": "The Assistant", "original_title": "The Assistant", "slug_title": "the-assistant", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

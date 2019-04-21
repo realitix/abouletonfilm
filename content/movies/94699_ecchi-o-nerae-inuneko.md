@@ -1,0 +1,1 @@
+{"tmdb_id": 94699, "title": "Ecchi o nerae!: Inuneko.", "original_title": "Ecchi o nerae!: Inuneko.", "slug_title": "ecchi-o-nerae-inuneko", "date": "2009-08-29", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxoL1CbykF58UWOmxBStGcp07DR.jpg", "actors": [], "comments": [], "recommandations_id": []}

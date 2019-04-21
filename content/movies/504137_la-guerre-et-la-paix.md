@@ -1,0 +1,1 @@
+{"tmdb_id": 504137, "title": "La guerre et la paix", "original_title": "La guerre et la paix", "slug_title": "la-guerre-et-la-paix", "date": "2000-01-01", "genre": "Guerre / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/be8hVB2wSkvINRENUZDTiJaJhch.jpg", "actors": [], "comments": [], "recommandations_id": []}

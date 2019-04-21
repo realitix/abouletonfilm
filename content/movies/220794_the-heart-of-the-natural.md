@@ -1,0 +1,1 @@
+{"tmdb_id": 220794, "title": "The Heart of 'The Natural'", "original_title": "The Heart of 'The Natural'", "slug_title": "the-heart-of-the-natural", "date": "2001-04-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barry Levinson (Himself)", "Cal Ripken Jr. (Himself)"], "comments": [], "recommandations_id": []}

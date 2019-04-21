@@ -1,0 +1,1 @@
+{"tmdb_id": 275886, "title": "Kenny Chesney: Greatest Hits", "original_title": "Kenny Chesney: Greatest Hits", "slug_title": "kenny-chesney-greatest-hits", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

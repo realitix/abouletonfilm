@@ -1,0 +1,1 @@
+{"tmdb_id": 23502, "title": "Robotech: Code Name", "original_title": "Robotech: Code Name", "slug_title": "robotech-code-name", "date": "1985-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/brxGhCq2jcduDNRZo9G5CabhuFg.jpg", "actors": [], "comments": [], "recommandations_id": []}

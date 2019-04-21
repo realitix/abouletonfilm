@@ -1,0 +1,1 @@
+{"tmdb_id": 344108, "title": "Frontier Wolf", "original_title": "Il lupo della frontiera", "slug_title": "frontier-wolf", "date": "1951-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

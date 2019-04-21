@@ -1,0 +1,1 @@
+{"tmdb_id": 529345, "title": "Dispatched", "original_title": "Dispatched", "slug_title": "dispatched", "date": "2013-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Braun (Al)", "Teresa Lim (Olivia)", "Alfredo Narciso (Martin)", "John Roque (Jorge)", "Karen Tsen Lee ()"], "comments": [], "recommandations_id": []}

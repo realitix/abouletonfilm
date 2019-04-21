@@ -1,0 +1,1 @@
+{"tmdb_id": 506241, "title": "50 Short Clips About Hollywood", "original_title": "50 Short Clips About Hollywood", "slug_title": "50-short-clips-about-hollywood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 384020, "title": "Parentalk \u2013 The Primary Years", "original_title": "Parentalk \u2013 The Primary Years", "slug_title": "parentalk-the-primary-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXfNPJLDrDQOXPB3kiYHmh7Yw37.jpg", "actors": [], "comments": [], "recommandations_id": []}

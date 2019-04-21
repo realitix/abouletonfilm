@@ -1,0 +1,1 @@
+{"tmdb_id": 532082, "title": "Intelligent Life", "original_title": "Intelligent Life", "slug_title": "intelligent-life", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

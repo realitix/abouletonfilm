@@ -1,0 +1,1 @@
+{"tmdb_id": 552836, "title": "Dark, Deadly & Dreadful", "original_title": "Dark, Deadly & Dreadful", "slug_title": "dark-deadly-dreadful", "date": "2018-07-28", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwokg0JsxfLNxipS37QZZw7WIp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

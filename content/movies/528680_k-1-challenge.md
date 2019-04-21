@@ -1,0 +1,1 @@
+{"tmdb_id": 528680, "title": "K-1 Challenge", "original_title": "K-1 Challenge", "slug_title": "k-1-challenge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

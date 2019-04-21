@@ -1,0 +1,1 @@
+{"tmdb_id": 541858, "title": "El tri\u00e1ngulo del lago", "original_title": "El tri\u00e1ngulo del lago", "slug_title": "el-triangulo-del-lago", "date": "1999-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jlJEERTPLKlby06PkWPDFRVCJea.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509133, "title": "Taking a Chance on God", "original_title": "Taking a Chance on God", "slug_title": "taking-a-chance-on-god", "date": "2011-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ENHhDYwI7vAtVTh7DIw5eLITLr.jpg", "actors": [], "comments": [], "recommandations_id": []}

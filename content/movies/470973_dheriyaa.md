@@ -1,0 +1,1 @@
+{"tmdb_id": 470973, "title": "Dheriyaa", "original_title": "Dheriyaa", "slug_title": "dheriyaa", "date": "1994-01-14", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mpWr4URDwbMMvHRVvgqlK8J0P7p.jpg", "actors": ["Hawwa Zahira (Shaan)", "Ali Khalid (Ashraf)"], "comments": [], "recommandations_id": []}

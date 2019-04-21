@@ -1,0 +1,1 @@
+{"tmdb_id": 377514, "title": "Sixty Six", "original_title": "Sixty Six", "slug_title": "sixty-six", "date": "2015-12-07", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VTSLQG3aUMWu9Pkm9w6HJ0h851.jpg", "actors": [], "comments": [], "recommandations_id": []}

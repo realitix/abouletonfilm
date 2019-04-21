@@ -1,0 +1,1 @@
+{"tmdb_id": 358640, "title": "Journey Inter-City", "original_title": "Journey Inter-City", "slug_title": "journey-inter-city", "date": "1972-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 554751, "title": "Chief of Chiefs", "original_title": "Jefe de jefes", "slug_title": "chief-of-chiefs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

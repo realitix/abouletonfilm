@@ -1,0 +1,1 @@
+{"tmdb_id": 292929, "title": "The Bulls' Night Out", "original_title": "The Bulls' Night Out", "slug_title": "the-bulls-night-out", "date": "2000-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

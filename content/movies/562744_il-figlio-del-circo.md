@@ -1,0 +1,1 @@
+{"tmdb_id": 562744, "title": "Il figlio del circo", "original_title": "Il figlio del circo", "slug_title": "il-figlio-del-circo", "date": "1963-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uapamyztr6q0LPvNKAzlGTF5ZpQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

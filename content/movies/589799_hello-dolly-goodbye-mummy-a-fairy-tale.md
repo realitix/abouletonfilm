@@ -1,0 +1,1 @@
+{"tmdb_id": 589799, "title": "Hello Dolly, Goodbye Mummy. A fairy tale", "original_title": "Hello Dolly, Goodbye Mummy. A fairy tale", "slug_title": "hello-dolly-goodbye-mummy-a-fairy-tale", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

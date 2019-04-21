@@ -1,0 +1,1 @@
+{"tmdb_id": 349367, "title": "Jesus: A Kingdom without Frontiers", "original_title": "\uc608\uc218", "slug_title": "jesus-a-kingdom-without-frontiers", "date": "1998-02-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Se-han Kim (Jesus (voice))", "Giuliano Santi (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 473223, "title": "Eskimo Diva", "original_title": "Eskimo Diva", "slug_title": "eskimo-diva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/URPYZ5NU3JIDSegADZ2xfooN0F.jpg", "actors": ["Aqqalu Engell (Himself)", "Nuka Bisgaard (Himself)"], "comments": [], "recommandations_id": []}

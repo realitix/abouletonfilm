@@ -1,0 +1,1 @@
+{"tmdb_id": 372656, "title": "Abenteuer mit Konstanze", "original_title": "Abenteuer mit Konstanze", "slug_title": "abenteuer-mit-konstanze", "date": "1976-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

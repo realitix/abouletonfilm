@@ -1,0 +1,1 @@
+{"tmdb_id": 381415, "title": "Barry of the Great St. Bernard", "original_title": "Barry of the Great St. Bernard", "slug_title": "barry-of-the-great-st-bernard", "date": "1977-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bf7nkZNi4lCVv0CDkwjoq03viG.jpg", "actors": [], "comments": [], "recommandations_id": []}

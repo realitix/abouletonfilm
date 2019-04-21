@@ -1,0 +1,1 @@
+{"tmdb_id": 579930, "title": "Mood Boobs", "original_title": "Mood Boobs", "slug_title": "mood-boobs", "date": "2006-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tiffany Shepis (Gwen)", "Shaina Fewell (Amanda)"], "comments": [], "recommandations_id": []}

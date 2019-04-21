@@ -1,0 +1,1 @@
+{"tmdb_id": 148772, "title": "Birth As We Know It", "original_title": "Birth As We Know It", "slug_title": "birth-as-we-know-it", "date": "2006-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8I6TU7oWjy5BZo90fpf8VOoog1.jpg", "actors": [], "comments": [], "recommandations_id": []}

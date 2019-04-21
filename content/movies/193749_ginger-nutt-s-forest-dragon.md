@@ -1,0 +1,1 @@
+{"tmdb_id": 193749, "title": "Ginger Nutt's Forest Dragon", "original_title": "Ginger Nutt's Forest Dragon", "slug_title": "ginger-nutt-s-forest-dragon", "date": "1950-01-01", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

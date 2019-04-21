@@ -1,0 +1,1 @@
+{"tmdb_id": 260412, "title": "Rage of the Innocents", "original_title": "Rage of the Innocents", "slug_title": "rage-of-the-innocents", "date": "2001-07-04", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irXarCffEqfVnIj4bGj7b9LJSLf.jpg", "actors": [], "comments": [], "recommandations_id": []}

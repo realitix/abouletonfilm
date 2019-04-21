@@ -1,0 +1,1 @@
+{"tmdb_id": 543133, "title": "Mysterious Doctor Satan Return of the Copperhead", "original_title": "Mysterious Doctor Satan Return of the Copperhead", "slug_title": "mysterious-doctor-satan-return-of-the-copperhead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

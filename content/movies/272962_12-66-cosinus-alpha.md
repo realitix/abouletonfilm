@@ -1,0 +1,1 @@
+{"tmdb_id": 272962, "title": "12/66: Cosinus Alpha", "original_title": "12/66: Cosinus Alpha", "slug_title": "12-66-cosinus-alpha", "date": "1966-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhig1Fotz2N9zyr2VeieEtJBvFN.jpg", "actors": [], "comments": [], "recommandations_id": []}

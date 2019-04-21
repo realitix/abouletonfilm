@@ -1,0 +1,1 @@
+{"tmdb_id": 306888, "title": "Masidhing Kagalakan", "original_title": "Masidhing Kagalakan", "slug_title": "masidhing-kagalakan", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alison Segerra ()", "J. K. Anicoche ()"], "comments": [], "recommandations_id": []}

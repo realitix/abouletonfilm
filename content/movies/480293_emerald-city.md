@@ -1,0 +1,1 @@
+{"tmdb_id": 480293, "title": "Emerald City", "original_title": "Emerald City", "slug_title": "emerald-city", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

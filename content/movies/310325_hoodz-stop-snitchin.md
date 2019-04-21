@@ -1,0 +1,1 @@
+{"tmdb_id": 310325, "title": "Hoodz: Stop Snitchin", "original_title": "Hoodz: Stop Snitchin", "slug_title": "hoodz-stop-snitchin", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

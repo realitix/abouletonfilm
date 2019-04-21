@@ -1,0 +1,1 @@
+{"tmdb_id": 385162, "title": "Kool Kids Sing-a-long", "original_title": "Kool Kids Sing-a-long", "slug_title": "kool-kids-sing-a-long", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

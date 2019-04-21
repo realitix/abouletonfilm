@@ -1,0 +1,1 @@
+{"tmdb_id": 489744, "title": "Basha Man", "original_title": "Basha Man", "slug_title": "basha-man", "date": "2017-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

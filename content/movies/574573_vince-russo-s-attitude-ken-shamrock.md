@@ -1,0 +1,1 @@
+{"tmdb_id": 574573, "title": "Vince Russo's Attitude: Ken Shamrock", "original_title": "Vince Russo's Attitude: Ken Shamrock", "slug_title": "vince-russo-s-attitude-ken-shamrock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vince Russo (Himself)", "Ken Shamrock (Himself)"], "comments": [], "recommandations_id": []}

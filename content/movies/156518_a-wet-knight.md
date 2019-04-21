@@ -1,0 +1,1 @@
+{"tmdb_id": 156518, "title": "A Wet Knight", "original_title": "A Wet Knight", "slug_title": "a-wet-knight", "date": "1932-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

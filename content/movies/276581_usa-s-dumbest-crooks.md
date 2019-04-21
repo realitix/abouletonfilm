@@ -1,0 +1,1 @@
+{"tmdb_id": 276581, "title": "USA's Dumbest Crooks", "original_title": "USA's Dumbest Crooks", "slug_title": "usa-s-dumbest-crooks", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

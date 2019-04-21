@@ -1,0 +1,1 @@
+{"tmdb_id": 498995, "title": "Dubbing", "original_title": "Synchronisation", "slug_title": "dubbing", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

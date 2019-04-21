@@ -1,0 +1,1 @@
+{"tmdb_id": 60321, "title": "Bellator 6", "original_title": "Bellator 6", "slug_title": "bellator-6", "date": "2009-05-08", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1zzBxZ51ChKpVeWVBYPizVIJPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

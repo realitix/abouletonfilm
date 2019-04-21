@@ -1,0 +1,1 @@
+{"tmdb_id": 508915, "title": "The War of Love", "original_title": "The War of Love", "slug_title": "the-war-of-love", "date": "2002-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

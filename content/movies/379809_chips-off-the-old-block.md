@@ -1,0 +1,1 @@
+{"tmdb_id": 379809, "title": "Chips Off the Old Block", "original_title": "Chips Off the Old Block", "slug_title": "chips-off-the-old-block", "date": "1942-09-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whvs6vGulldOKi7DywQEjHJSS9U.jpg", "actors": [], "comments": [], "recommandations_id": []}

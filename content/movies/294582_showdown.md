@@ -1,0 +1,1 @@
+{"tmdb_id": 294582, "title": "Showdown", "original_title": "Showdown", "slug_title": "showdown", "date": "1998-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

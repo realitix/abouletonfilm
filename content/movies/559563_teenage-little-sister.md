@@ -1,0 +1,1 @@
+{"tmdb_id": 559563, "title": "Teenage Little Sister", "original_title": "Teenage Little Sister", "slug_title": "teenage-little-sister", "date": "2018-06-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6z7dHSh9QRxDS0O6GrquoEcylF.jpg", "actors": [], "comments": [], "recommandations_id": []}

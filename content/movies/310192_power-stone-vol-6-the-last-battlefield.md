@@ -1,0 +1,1 @@
+{"tmdb_id": 310192, "title": "Power Stone: Vol. 6: The Last Battlefield", "original_title": "Power Stone: Vol. 6: The Last Battlefield", "slug_title": "power-stone-vol-6-the-last-battlefield", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

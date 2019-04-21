@@ -1,0 +1,1 @@
+{"tmdb_id": 427360, "title": "Scream & Shout: 31 Days That Changed America Forever", "original_title": "Scream & Shout: 31 Days That Changed America Forever", "slug_title": "scream-shout-31-days-that-changed-america-forever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 537706, "title": "Barbara Ward Will Never Die", "original_title": "Barbara Ward Will Never Die", "slug_title": "barbara-ward-will-never-die", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rXmjQ7QUzKG2xqsDYqTqNXI9Sdd.jpg", "actors": [], "comments": [], "recommandations_id": []}

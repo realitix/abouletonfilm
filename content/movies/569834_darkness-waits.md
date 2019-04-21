@@ -1,0 +1,1 @@
+{"tmdb_id": 569834, "title": "Darkness Waits", "original_title": "Darkness Waits", "slug_title": "darkness-waits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marc Trottier (Cody)"], "comments": [], "recommandations_id": []}

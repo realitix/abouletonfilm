@@ -1,0 +1,1 @@
+{"tmdb_id": 355129, "title": "Cutie on Duty", "original_title": "Cutie on Duty", "slug_title": "cutie-on-duty", "date": "1943-10-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol (Leon Errol)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 426801, "title": "Biffy Clyro : Opposites", "original_title": "Biffy Clyro : Opposites", "slug_title": "biffy-clyro-opposites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k7fTdX7kbZLJCTHnHQknNH9rY8i.jpg", "actors": [], "comments": [], "recommandations_id": []}

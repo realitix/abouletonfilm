@@ -1,0 +1,1 @@
+{"tmdb_id": 395502, "title": "Swinger", "original_title": "Swinger", "slug_title": "swinger", "date": "1995-05-17", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zTkmVQysvbYJZKIM6sO49ERSUGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

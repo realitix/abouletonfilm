@@ -1,0 +1,1 @@
+{"tmdb_id": 457802, "title": "In My Own Words", "original_title": "In My Own Words", "slug_title": "in-my-own-words", "date": "2017-06-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/24NaLYvHrdnJagf7n7DE33D0aSy.jpg", "actors": [], "comments": [], "recommandations_id": []}

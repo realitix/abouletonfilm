@@ -1,0 +1,1 @@
+{"tmdb_id": 334759, "title": "A Celebration of Peace Through Music", "original_title": "A Celebration of Peace Through Music", "slug_title": "a-celebration-of-peace-through-music", "date": "2015-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

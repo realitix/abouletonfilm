@@ -1,0 +1,1 @@
+{"tmdb_id": 486836, "title": "Black Crusader", "original_title": "Black Crusader", "slug_title": "black-crusader", "date": "1986-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Innocent Gumede ()", "Hector Manthanda ()", "McPrince Mkhwanzi ()", "Lorraine Nyathikazi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391220, "title": "Why Do I Study Physics", "original_title": "Why Do I Study Physics", "slug_title": "why-do-i-study-physics", "date": "2013-04-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkHWVv6dB3tXCdnlBsaDxLqDeLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

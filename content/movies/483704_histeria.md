@@ -1,0 +1,1 @@
+{"tmdb_id": 483704, "title": "Histeria", "original_title": "Histeria", "slug_title": "histeria", "date": "2013-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47ROiEetgXCxBKAzOSJLFXuat56.jpg", "actors": ["Lucy Wirth ()", "Luise Heyer ()", "Melanie Straub ()"], "comments": [], "recommandations_id": []}

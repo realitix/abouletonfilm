@@ -1,0 +1,1 @@
+{"tmdb_id": 405869, "title": "\u5973\u533b\u8089\u5974\u96b7", "original_title": "\u5973\u533b\u8089\u5974\u96b7", "slug_title": "nu-yi-rou-nu-li", "date": "1986-03-08", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOnxjPhWnNTzDvQZbJ5b7GSi3JU.jpg", "actors": [], "comments": [], "recommandations_id": []}

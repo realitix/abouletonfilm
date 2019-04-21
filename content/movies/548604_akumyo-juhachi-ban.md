@@ -1,0 +1,1 @@
+{"tmdb_id": 548604, "title": "Akumyo juhachi-ban", "original_title": "Akumyo juhachi-ban", "slug_title": "akumyo-juhachi-ban", "date": "1968-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

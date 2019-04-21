@@ -1,0 +1,1 @@
+{"tmdb_id": 317901, "title": "Sham Battle Shenanigans", "original_title": "Sham Battle Shenanigans", "slug_title": "sham-battle-shenanigans", "date": "1942-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

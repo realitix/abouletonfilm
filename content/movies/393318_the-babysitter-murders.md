@@ -1,0 +1,1 @@
+{"tmdb_id": 393318, "title": "The Babysitter Murders", "original_title": "The Babysitter Murders", "slug_title": "the-babysitter-murders", "date": "2015-05-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/89zquMHjy3mQFlX56XuGYYbDRnr.jpg", "actors": [], "comments": [], "recommandations_id": []}

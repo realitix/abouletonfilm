@@ -1,0 +1,1 @@
+{"tmdb_id": 403813, "title": "A Farmer's Life for Me", "original_title": "A Farmer's Life for Me", "slug_title": "a-farmer-s-life-for-me", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

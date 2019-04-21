@@ -1,0 +1,1 @@
+{"tmdb_id": 309976, "title": "Jackie Robinson: Breaking Barriers", "original_title": "Jackie Robinson: Breaking Barriers", "slug_title": "jackie-robinson-breaking-barriers", "date": "1997-06-23", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ossie Davis (Narrator)"], "comments": [], "recommandations_id": []}

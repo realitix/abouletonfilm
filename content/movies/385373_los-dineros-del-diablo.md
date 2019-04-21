@@ -1,0 +1,1 @@
+{"tmdb_id": 385373, "title": "Los dineros del diablo", "original_title": "Los dineros del diablo", "slug_title": "los-dineros-del-diablo", "date": "1953-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNS9xm61pPt2h7p4t2Fu4yJp3cf.jpg", "actors": [], "comments": [], "recommandations_id": []}

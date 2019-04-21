@@ -1,0 +1,1 @@
+{"tmdb_id": 311461, "title": "AC/DC: And Then There Was Rock: Life Before Brian", "original_title": "AC/DC: And Then There Was Rock: Life Before Brian", "slug_title": "ac-dc-and-then-there-was-rock-life-before-brian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

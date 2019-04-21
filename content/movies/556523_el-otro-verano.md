@@ -1,0 +1,1 @@
+{"tmdb_id": 556523, "title": "El otro verano", "original_title": "El otro verano", "slug_title": "el-otro-verano", "date": "2018-10-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WxzIf0Z9NGumeQKdCWb8rV8lBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

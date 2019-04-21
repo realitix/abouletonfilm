@@ -1,0 +1,1 @@
+{"tmdb_id": 394967, "title": "El mundo de Pau Casals", "original_title": "El mundo de Pau Casals", "slug_title": "el-mundo-de-pau-casals", "date": "1973-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

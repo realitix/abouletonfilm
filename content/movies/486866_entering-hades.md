@@ -1,0 +1,1 @@
+{"tmdb_id": 486866, "title": "Entering Hades", "original_title": "Entering Hades", "slug_title": "entering-hades", "date": "", "genre": "Drame / Crime", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCcRZIEIs1gI4BzKWRX48pHyJpT.jpg", "actors": ["Michael Fassbender (Jack Unterweger)"], "comments": [], "recommandations_id": []}

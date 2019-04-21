@@ -1,0 +1,1 @@
+{"tmdb_id": 210306, "title": "Tetra Vaal", "original_title": "Tetra Vaal", "slug_title": "tetra-vaal", "date": "2004-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Du0rDYehpbbcZnOjKOaY5APcbK.jpg", "actors": [], "comments": [], "recommandations_id": [49301, 257738, 258907, 179534]}

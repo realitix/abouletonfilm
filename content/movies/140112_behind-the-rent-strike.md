@@ -1,0 +1,1 @@
+{"tmdb_id": 140112, "title": "Behind the Rent Strike", "original_title": "Behind the Rent Strike", "slug_title": "behind-the-rent-strike", "date": "1979-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJ6KTmXptdGAMya9ZU5D7Y5Ha4X.jpg", "actors": [], "comments": [], "recommandations_id": []}

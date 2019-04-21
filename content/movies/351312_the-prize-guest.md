@@ -1,0 +1,1 @@
+{"tmdb_id": 351312, "title": "The Prize Guest", "original_title": "The Prize Guest", "slug_title": "the-prize-guest", "date": "1939-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

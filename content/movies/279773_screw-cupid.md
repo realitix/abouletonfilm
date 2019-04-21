@@ -1,0 +1,1 @@
+{"tmdb_id": 279773, "title": "Screw Cupid", "original_title": "Screw Cupid", "slug_title": "screw-cupid", "date": "2008-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

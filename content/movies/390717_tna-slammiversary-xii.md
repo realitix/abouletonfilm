@@ -1,0 +1,1 @@
+{"tmdb_id": 390717, "title": "TNA Slammiversary XII", "original_title": "TNA Slammiversary XII", "slug_title": "tna-slammiversary-xii", "date": "2014-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEhmHUeMWVKm1OQ9Cvc0qLse7RA.jpg", "actors": [], "comments": [], "recommandations_id": []}

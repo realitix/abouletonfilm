@@ -1,0 +1,1 @@
+{"tmdb_id": 524431, "title": "The Good American", "original_title": "The Good American", "slug_title": "the-good-american", "date": "2009-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5N2Ms9mnnjXcv9hPvctAhrQnImS.jpg", "actors": [], "comments": [], "recommandations_id": []}

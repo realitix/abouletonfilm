@@ -1,0 +1,1 @@
+{"tmdb_id": 476932, "title": "Dreamtrips", "original_title": "Dreamtrips", "slug_title": "dreamtrips", "date": "1999-09-20", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

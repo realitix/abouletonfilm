@@ -1,0 +1,1 @@
+{"tmdb_id": 415443, "title": "El cor del pi negre", "original_title": "El cor del pi negre", "slug_title": "el-cor-del-pi-negre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUqy9YxcSP5Lyx9CFqQub4ZvkZl.jpg", "actors": [], "comments": [], "recommandations_id": []}

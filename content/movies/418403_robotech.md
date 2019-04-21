@@ -1,0 +1,1 @@
+{"tmdb_id": 418403, "title": "Robotech", "original_title": "Robotech", "slug_title": "robotech", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

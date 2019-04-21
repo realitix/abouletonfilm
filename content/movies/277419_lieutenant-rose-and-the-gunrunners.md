@@ -1,0 +1,1 @@
+{"tmdb_id": 277419, "title": "Lieutenant Rose and the Gunrunners", "original_title": "Lieutenant Rose and the Gunrunners", "slug_title": "lieutenant-rose-and-the-gunrunners", "date": "1910-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["P.G. Norgate ()"], "comments": [], "recommandations_id": []}

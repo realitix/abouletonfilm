@@ -1,0 +1,1 @@
+{"tmdb_id": 343095, "title": "My Dog, Buddy", "original_title": "My Dog, Buddy", "slug_title": "my-dog-buddy", "date": "1960-08-01", "genre": "Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltpGmWSMuaKJiNuHOwkfoIgJydt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 69043, "title": "Zerox and Mylar", "original_title": "Zerox and Mylar", "slug_title": "zerox-and-mylar", "date": "1995-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIfYbwPeT5tLt8dSiiTwD5SROPv.jpg", "actors": [], "comments": [], "recommandations_id": []}

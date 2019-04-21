@@ -1,0 +1,1 @@
+{"tmdb_id": 425019, "title": "Championship", "original_title": "Championship", "slug_title": "championship", "date": "2013-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLmO9CAnbFfPRE2caTePuMsrpTB.jpg", "actors": [], "comments": [], "recommandations_id": []}

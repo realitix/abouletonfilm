@@ -1,0 +1,1 @@
+{"tmdb_id": 510599, "title": "She Got Game: The Movie", "original_title": "She Got Game: The Movie", "slug_title": "she-got-game-the-movie", "date": "2015-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYcDepZyP8Eh3VkHqXiXD53tq3E.jpg", "actors": [], "comments": [], "recommandations_id": []}

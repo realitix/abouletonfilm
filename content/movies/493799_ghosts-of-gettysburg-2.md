@@ -1,0 +1,1 @@
+{"tmdb_id": 493799, "title": "Ghosts of Gettysburg 2", "original_title": "Ghosts of Gettysburg 2", "slug_title": "ghosts-of-gettysburg-2", "date": "1995-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

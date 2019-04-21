@@ -1,0 +1,1 @@
+{"tmdb_id": 176961, "title": "Z\u00e9 Pimp\u00e3o, O Acelera", "original_title": "Z\u00e9 Pimp\u00e3o, O Acelera", "slug_title": "ze-pimpao-o-acelera", "date": "2007-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3bEIxBiNTxsWjymuRVDEf2NcQH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552840, "title": "Plaster Rock", "original_title": "Plaster Rock", "slug_title": "plaster-rock", "date": "2010-04-29", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMF3lbRMWza8ILcIcGFmsm1yu7i.jpg", "actors": ["Eric Leffler (George)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297949, "title": "Slednecks Trilogy", "original_title": "Slednecks Trilogy", "slug_title": "slednecks-trilogy", "date": "2001-10-29", "genre": "Action / Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/L1csN0Zr4icO7inDUhHuLri1zm.jpg", "actors": [], "comments": [], "recommandations_id": []}

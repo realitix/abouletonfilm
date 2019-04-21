@@ -1,0 +1,1 @@
+{"tmdb_id": 325969, "title": "The mysteries of Barcelona", "original_title": "Los misterios de Barcelona", "slug_title": "the-mysteries-of-barcelona", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francisco Aguil\u00f3 ()", "Juan Argelagu\u00e9s ()"], "comments": [], "recommandations_id": []}

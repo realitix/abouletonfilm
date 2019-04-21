@@ -1,0 +1,1 @@
+{"tmdb_id": 309520, "title": "The Mayor of Strawberry Fields", "original_title": "The Mayor of Strawberry Fields", "slug_title": "the-mayor-of-strawberry-fields", "date": "2009-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgB0LZFYeWFYIWpXd0marK8RH9P.jpg", "actors": [], "comments": [], "recommandations_id": []}

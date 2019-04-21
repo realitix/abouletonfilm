@@ -1,0 +1,1 @@
+{"tmdb_id": 475819, "title": "Survival: The Black African Theatre Project '77", "original_title": "Survival: The Black African Theatre Project '77", "slug_title": "survival-the-black-african-theatre-project-77", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

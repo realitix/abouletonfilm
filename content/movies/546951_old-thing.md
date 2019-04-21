@@ -1,0 +1,1 @@
+{"tmdb_id": 546951, "title": "Old Thing", "original_title": "\u05d4\u05d0\u05dc\u05d8\u05e2\u05d6\u05d0\u05db\u05df", "slug_title": "old-thing", "date": "2018-06-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yehuda Romano (Yehuda)", "Elad Havivian ()"], "comments": [], "recommandations_id": []}

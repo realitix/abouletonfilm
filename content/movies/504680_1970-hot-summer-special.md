@@ -1,0 +1,1 @@
+{"tmdb_id": 504680, "title": "1970 Hot Summer Special", "original_title": "1970 Hot Summer Special", "slug_title": "1970-hot-summer-special", "date": "1970-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Belton ()", "Kerry Daniels ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 277345, "title": "Jose Carreras: Jose Carreras Gala", "original_title": "Jose Carreras: Jose Carreras Gala", "slug_title": "jose-carreras-jose-carreras-gala", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 558783, "title": "Fabrik / Leben", "original_title": "Fabrik / Leben", "slug_title": "fabrik-leben", "date": "1999-02-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

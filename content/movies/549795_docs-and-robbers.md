@@ -1,0 +1,1 @@
+{"tmdb_id": 549795, "title": "Docs and Robbers", "original_title": "Docs and Robbers", "slug_title": "docs-and-robbers", "date": "2004-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

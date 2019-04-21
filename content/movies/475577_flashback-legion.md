@@ -1,0 +1,1 @@
+{"tmdb_id": 475577, "title": "Flashback Legion", "original_title": "Flashback Legion", "slug_title": "flashback-legion", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tdFHLjWDQAGW6wK9j46j6wHmE0h.jpg", "actors": [], "comments": [], "recommandations_id": []}

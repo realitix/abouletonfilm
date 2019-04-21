@@ -1,0 +1,1 @@
+{"tmdb_id": 541673, "title": "Dik Trom Knapt het Op", "original_title": "Dik Trom Knapt het Op", "slug_title": "dik-trom-knapt-het-op", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UE4CkqKppYXLOsumCtcUrYy5uc.jpg", "actors": [], "comments": [], "recommandations_id": []}

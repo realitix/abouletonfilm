@@ -1,0 +1,1 @@
+{"tmdb_id": 319225, "title": "Papa Machete", "original_title": "Papa Machete", "slug_title": "papa-machete", "date": "2014-09-01", "genre": "Action / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LW2N1iVhRHq530HIg6Zo0emVbB.jpg", "actors": ["Alfred Avril (Himself)"], "comments": [], "recommandations_id": []}

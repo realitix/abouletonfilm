@@ -1,0 +1,1 @@
+{"tmdb_id": 142192, "title": "Samadhi", "original_title": "Samadhi", "slug_title": "samadhi", "date": "1967-12-31", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2b5LyNdW6UYDji0R2u9BGTF1WW2.jpg", "actors": [], "comments": [], "recommandations_id": [163102, 154818, 164599, 145915]}

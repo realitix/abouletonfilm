@@ -1,0 +1,1 @@
+{"tmdb_id": 453161, "title": "Am\u00e9rika: Bahia de las Flechas", "original_title": "Am\u00e9rika: Bahia de las Flechas", "slug_title": "amerika-bahia-de-las-flechas", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

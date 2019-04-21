@@ -1,0 +1,1 @@
+{"tmdb_id": 266560, "title": "Rothko's Rooms", "original_title": "Rothko's Rooms", "slug_title": "rothko-s-rooms", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7IdBRHee13tYDdCNLBJ2w5o2vhK.jpg", "actors": [], "comments": [], "recommandations_id": []}

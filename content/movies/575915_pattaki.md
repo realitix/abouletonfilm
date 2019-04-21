@@ -1,0 +1,1 @@
+{"tmdb_id": 575915, "title": "Pattaki", "original_title": "Pattaki", "slug_title": "pattaki", "date": "2019-01-24", "genre": "Documentaire / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78EFxd1n88rGYmCiuGwpzhDfQNn.jpg", "actors": [], "comments": [], "recommandations_id": []}

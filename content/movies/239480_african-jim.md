@@ -1,0 +1,1 @@
+{"tmdb_id": 239480, "title": "African Jim", "original_title": "African Jim", "slug_title": "african-jim", "date": "1949-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2BB8nxSpwn9e07lwwYCsMIzLT1G.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 244671, "title": "The Courage to Care", "original_title": "The Courage to Care", "slug_title": "the-courage-to-care", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

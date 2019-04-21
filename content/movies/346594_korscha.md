@@ -1,0 +1,1 @@
+{"tmdb_id": 346594, "title": "Korscha", "original_title": "Korscha", "slug_title": "korscha", "date": "2009-10-28", "genre": "Thriller / Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alfonso Bayard ()", "Vanessa Porta ()", "Carles Vidal ()"], "comments": [], "recommandations_id": []}

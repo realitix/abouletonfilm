@@ -1,0 +1,1 @@
+{"tmdb_id": 44339, "title": "In Jerusalem", "original_title": "B'Yerushalaim", "slug_title": "in-jerusalem", "date": "1963-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

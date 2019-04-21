@@ -1,0 +1,1 @@
+{"tmdb_id": 332152, "title": "Mercedes", "original_title": "Marcides", "slug_title": "mercedes", "date": "1993-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9I9etiC4zfuGtpyHwWhEeoJutX.jpg", "actors": ["Zaki Abdel Wahab ()", "Taheya Cariocca ()", "Seif El Dine ()"], "comments": [], "recommandations_id": []}

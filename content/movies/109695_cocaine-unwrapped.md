@@ -1,0 +1,1 @@
+{"tmdb_id": 109695, "title": "Cocaine Unwrapped", "original_title": "Cocaine Unwrapped", "slug_title": "cocaine-unwrapped", "date": "2012-12-03", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNEqGHYbHufmZ64qQ2NvjNqFJl5.jpg", "actors": [], "comments": [], "recommandations_id": []}

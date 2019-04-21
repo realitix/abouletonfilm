@@ -1,0 +1,1 @@
+{"tmdb_id": 305063, "title": "Il sogno patriottico di Cinessino", "original_title": "Il sogno patriottico di Cinessino", "slug_title": "il-sogno-patriottico-di-cinessino", "date": "1915-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eraldo Giunchi (Cinessino)"], "comments": [], "recommandations_id": []}

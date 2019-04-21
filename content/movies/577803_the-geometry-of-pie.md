@@ -1,0 +1,1 @@
+{"tmdb_id": 577803, "title": "The Geometry of Pie", "original_title": "The Geometry of Pie", "slug_title": "the-geometry-of-pie", "date": "2019-02-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Calum Franklin (Himself)"], "comments": [], "recommandations_id": []}

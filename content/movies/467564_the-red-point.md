@@ -1,0 +1,1 @@
+{"tmdb_id": 467564, "title": "The Red Point", "original_title": "Lal Tip", "slug_title": "the-red-point", "date": "2012-02-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u19gcsDBeNlqtZwMDS4p43iHYGi.jpg", "actors": ["Mamnun Hasan Emon (Arnab)", "Kusum Sikder (Nidhi)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 414818, "title": "Zoologic", "original_title": "Zoologic", "slug_title": "zoologic", "date": "2007-10-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hhItaHPyagX5SScwDJDNoYfzd3Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

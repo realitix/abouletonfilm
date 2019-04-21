@@ -1,0 +1,1 @@
+{"tmdb_id": 447822, "title": "Rank 1 - Symsonic (Bonus DVD)", "original_title": "Rank 1 - Symsonic (Bonus DVD)", "slug_title": "rank-1-symsonic-bonus-dvd", "date": "2004-10-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qbGijIBSNAHPysaUJdXA4YWvq9w.jpg", "actors": [], "comments": [], "recommandations_id": []}

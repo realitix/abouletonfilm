@@ -1,0 +1,1 @@
+{"tmdb_id": 574708, "title": "The Lion's Whiskers", "original_title": "The Lion's Whiskers", "slug_title": "the-lion-s-whiskers", "date": "1925-04-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Bevan (Otto Klutch - Chauffeur)", "Madeline Hurlock (Victoria Brunswick)"], "comments": [], "recommandations_id": []}

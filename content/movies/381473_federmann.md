@@ -1,0 +1,1 @@
+{"tmdb_id": 381473, "title": "Federmann", "original_title": "Federmann", "slug_title": "federmann", "date": "1999-06-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christian Redl (Federmann)", "Teresa Harder (Cora)", "Rolf Zacher (Prochaska)", "Manfred Andrae (Dr. L\u00f6w)"], "comments": [], "recommandations_id": []}

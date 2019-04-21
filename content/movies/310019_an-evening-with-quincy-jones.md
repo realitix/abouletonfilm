@@ -1,0 +1,1 @@
+{"tmdb_id": 310019, "title": "An Evening with Quincy Jones", "original_title": "An Evening with Quincy Jones", "slug_title": "an-evening-with-quincy-jones", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Quincy Jones ()"], "comments": [], "recommandations_id": []}

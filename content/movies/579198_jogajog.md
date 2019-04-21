@@ -1,0 +1,1 @@
+{"tmdb_id": 579198, "title": "Jogajog", "original_title": "Jogajog", "slug_title": "jogajog", "date": "2015-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 262606, "title": "Talkback", "original_title": "Talkback", "slug_title": "talkback", "date": "1987-06-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352011, "title": "My Dear's Night", "original_title": "A noite do meu bem", "slug_title": "my-dear-s-night", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

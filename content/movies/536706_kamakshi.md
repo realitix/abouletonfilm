@@ -1,0 +1,1 @@
+{"tmdb_id": 536706, "title": "Kamakshi", "original_title": "Kamakshi", "slug_title": "kamakshi", "date": "2015-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjK2A2bktEi47Iatlh2sGcPdquF.jpg", "actors": [], "comments": [], "recommandations_id": []}

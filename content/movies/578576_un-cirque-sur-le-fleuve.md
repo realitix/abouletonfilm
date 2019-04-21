@@ -1,0 +1,1 @@
+{"tmdb_id": 578576, "title": "Un cirque sur le fleuve", "original_title": "Un cirque sur le fleuve", "slug_title": "un-cirque-sur-le-fleuve", "date": "1993-01-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

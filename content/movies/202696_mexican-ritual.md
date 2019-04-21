@@ -1,0 +1,1 @@
+{"tmdb_id": 202696, "title": "Mexican Ritual", "original_title": "Mitote", "slug_title": "mexican-ritual", "date": "", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aN9xFhZOqSFfPuclA5hVMq1nlMu.jpg", "actors": [], "comments": [], "recommandations_id": []}

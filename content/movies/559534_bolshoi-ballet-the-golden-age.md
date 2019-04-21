@@ -1,0 +1,1 @@
+{"tmdb_id": 559534, "title": "Bolshoi Ballet: The Golden Age", "original_title": "Bolshoi Ballet: The Golden Age", "slug_title": "bolshoi-ballet-the-golden-age", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iR0FFguorWMVY72AD24jFmPtFTH.jpg", "actors": [], "comments": [], "recommandations_id": []}

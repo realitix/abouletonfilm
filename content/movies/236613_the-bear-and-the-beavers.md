@@ -1,0 +1,1 @@
+{"tmdb_id": 236613, "title": "The Bear and the Beavers", "original_title": "The Bear and the Beavers", "slug_title": "the-bear-and-the-beavers", "date": "1942-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4cyhlwLv61zSnhw2gGQHQ3scEie.jpg", "actors": [], "comments": [], "recommandations_id": []}

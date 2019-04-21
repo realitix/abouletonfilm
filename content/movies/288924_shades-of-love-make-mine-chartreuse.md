@@ -1,0 +1,1 @@
+{"tmdb_id": 288924, "title": "Shades of Love: Make Mine Chartreuse", "original_title": "Shades of Love: Make Mine Chartreuse", "slug_title": "shades-of-love-make-mine-chartreuse", "date": "1987-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

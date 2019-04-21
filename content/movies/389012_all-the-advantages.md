@@ -1,0 +1,1 @@
+{"tmdb_id": 389012, "title": "All the Advantages", "original_title": "All the Advantages", "slug_title": "all-the-advantages", "date": "1972-03-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Diane Telegen ()", "Andrew M. Greenwood ()", "Nicolette McKenzie ()", "Alan Rowe ()"], "comments": [], "recommandations_id": []}

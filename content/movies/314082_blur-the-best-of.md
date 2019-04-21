@@ -1,0 +1,1 @@
+{"tmdb_id": 314082, "title": "Blur: The Best Of", "original_title": "Blur: The Best Of", "slug_title": "blur-the-best-of", "date": "2000-11-28", "genre": "", "score": "8.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UVlGGn2IRS48Ge8fDa24rxn6Be.jpg", "actors": [], "comments": [], "recommandations_id": [52917, 175321, 126834, 80511]}

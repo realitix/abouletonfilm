@@ -1,0 +1,1 @@
+{"tmdb_id": 512123, "title": "Venise la reine de l'Adriatique", "original_title": "Venise la reine de l'Adriatique", "slug_title": "venise-la-reine-de-l-adriatique", "date": "1912-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

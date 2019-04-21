@@ -1,0 +1,1 @@
+{"tmdb_id": 278530, "title": "Legendary Speed Trial at Yatabe", "original_title": "Legendary Speed Trial at Yatabe", "slug_title": "legendary-speed-trial-at-yatabe", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

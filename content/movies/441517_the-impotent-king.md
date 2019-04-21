@@ -1,0 +1,1 @@
+{"tmdb_id": 441517, "title": "The Impotent King", "original_title": "\u65b0\u50be\u570b\u50be\u57ce", "slug_title": "the-impotent-king", "date": "2005-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/paVTHlHyEfa4ERfeMpIqlCh2T3a.jpg", "actors": [], "comments": [], "recommandations_id": []}

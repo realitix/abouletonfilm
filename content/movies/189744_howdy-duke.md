@@ -1,0 +1,1 @@
+{"tmdb_id": 189744, "title": "Howdy Duke", "original_title": "Howdy Duke", "slug_title": "howdy-duke", "date": "1927-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lupino Lane (The Duke of Worcestershire / Newsboy White)", "Wallace Lupino (Elmer Eclair)"], "comments": [], "recommandations_id": []}

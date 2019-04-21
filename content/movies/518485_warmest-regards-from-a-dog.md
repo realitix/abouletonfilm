@@ -1,0 +1,1 @@
+{"tmdb_id": 518485, "title": "Warmest Regards from a Dog", "original_title": "Waung", "slug_title": "warmest-regards-from-a-dog", "date": "2018-03-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yohanes Badyambara ()", "Sekar Sari ()", "Mohammad Abe ()"], "comments": [], "recommandations_id": []}

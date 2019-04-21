@@ -1,0 +1,1 @@
+{"tmdb_id": 323586, "title": "The Cal Crew (Caucasian Love Returned)", "original_title": "The Cal Crew (Caucasian Love Returned)", "slug_title": "the-cal-crew-caucasian-love-returned", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

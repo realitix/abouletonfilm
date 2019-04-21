@@ -1,0 +1,1 @@
+{"tmdb_id": 524090, "title": "How Hackers Change the World", "original_title": "How Hackers Change the World", "slug_title": "how-hackers-change-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

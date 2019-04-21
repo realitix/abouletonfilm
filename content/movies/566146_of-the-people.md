@@ -1,0 +1,1 @@
+{"tmdb_id": 566146, "title": "Of the People", "original_title": "Of the People", "slug_title": "of-the-people", "date": "2008-01-04", "genre": "Action / Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arun (Aravind Sebastian)", "Arjun Bose (Iswar Iyyer)", "Padma Kumar (Shafeeq)"], "comments": [], "recommandations_id": []}

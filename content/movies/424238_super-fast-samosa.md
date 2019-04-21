@@ -1,0 +1,1 @@
+{"tmdb_id": 424238, "title": "Super Fast Samosa", "original_title": "Super Fast Samosa", "slug_title": "super-fast-samosa", "date": "2012-08-20", "genre": "Fantastique / Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYvihRQkdyv4ma9OmNtFUV4fojI.jpg", "actors": [], "comments": [], "recommandations_id": []}

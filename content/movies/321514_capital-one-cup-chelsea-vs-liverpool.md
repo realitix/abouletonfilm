@@ -1,0 +1,1 @@
+{"tmdb_id": 321514, "title": "Capital One Cup: Chelsea vs Liverpool", "original_title": "Capital One Cup: Chelsea vs Liverpool", "slug_title": "capital-one-cup-chelsea-vs-liverpool", "date": "2015-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

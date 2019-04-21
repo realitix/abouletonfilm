@@ -1,0 +1,1 @@
+{"tmdb_id": 379068, "title": "Pet Pink Pebbles", "original_title": "Pet Pink Pebbles", "slug_title": "pet-pink-pebbles", "date": "1978-12-09", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e6UBAc3Molw8iLdvhE7QRyUHzoO.jpg", "actors": [], "comments": [], "recommandations_id": []}

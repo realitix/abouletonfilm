@@ -1,0 +1,1 @@
+{"tmdb_id": 465887, "title": "Mike Has a Date", "original_title": "Mike Has a Date", "slug_title": "mike-has-a-date", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Wendt (Mike)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 111240, "title": "Richard's Wedding", "original_title": "Richard's Wedding", "slug_title": "richard-s-wedding", "date": "2012-06-01", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kg1fyTg2Q5c3QmCXCgoDSmPBRZK.jpg", "actors": [], "comments": [], "recommandations_id": []}

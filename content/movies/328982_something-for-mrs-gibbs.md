@@ -1,0 +1,1 @@
+{"tmdb_id": 328982, "title": "Something for Mrs. Gibbs", "original_title": "Something for Mrs. Gibbs", "slug_title": "something-for-mrs-gibbs", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Carradine ()"], "comments": [], "recommandations_id": []}

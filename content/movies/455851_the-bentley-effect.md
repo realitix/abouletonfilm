@@ -1,0 +1,1 @@
+{"tmdb_id": 455851, "title": "The Bentley Effect", "original_title": "The Bentley Effect", "slug_title": "the-bentley-effect", "date": "2017-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w97PD32h5vV7c9w3V2yuGqmug2o.jpg", "actors": [], "comments": [], "recommandations_id": []}

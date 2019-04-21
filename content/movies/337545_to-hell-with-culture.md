@@ -1,0 +1,1 @@
+{"tmdb_id": 337545, "title": "To Hell With Culture", "original_title": "To Hell With Culture", "slug_title": "to-hell-with-culture", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

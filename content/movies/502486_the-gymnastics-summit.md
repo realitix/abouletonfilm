@@ -1,0 +1,1 @@
+{"tmdb_id": 502486, "title": "The Gymnastics' Summit", "original_title": "Kongres fiskulturnika", "slug_title": "the-gymnastics-summit", "date": "1951-05-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

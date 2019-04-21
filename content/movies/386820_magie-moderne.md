@@ -1,0 +1,1 @@
+{"tmdb_id": 386820, "title": "Magie moderne", "original_title": "Magie moderne", "slug_title": "magie-moderne", "date": "1908-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

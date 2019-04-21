@@ -1,0 +1,1 @@
+{"tmdb_id": 535174, "title": "Sem Voc\u00ea a Vida \u00e9 Uma Aventura", "original_title": "Sem Voc\u00ea a Vida \u00e9 Uma Aventura", "slug_title": "sem-voce-a-vida-e-uma-aventura", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

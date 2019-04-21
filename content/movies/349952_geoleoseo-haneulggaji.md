@@ -1,0 +1,1 @@
+{"tmdb_id": 349952, "title": "\uac78\uc5b4\uc11c \ud558\ub298\uae4c\uc9c0", "original_title": "\uac78\uc5b4\uc11c \ud558\ub298\uae4c\uc9c0", "slug_title": "geoleoseo-haneulggaji", "date": "1992-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

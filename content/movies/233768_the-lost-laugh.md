@@ -1,0 +1,1 @@
+{"tmdb_id": 233768, "title": "The Lost Laugh", "original_title": "The Lost Laugh", "slug_title": "the-lost-laugh", "date": "1928-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wallace Lupino (The Husband)", "Lucille Hutton (The Wife)", "Monte Collins (The Washing Machine Salesman)"], "comments": [], "recommandations_id": []}

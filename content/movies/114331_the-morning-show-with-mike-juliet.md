@@ -1,0 +1,1 @@
+{"tmdb_id": 114331, "title": "The Morning Show with Mike & Juliet", "original_title": "The Morning Show with Mike & Juliet", "slug_title": "the-morning-show-with-mike-juliet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

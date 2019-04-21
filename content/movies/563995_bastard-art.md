@@ -1,0 +1,1 @@
+{"tmdb_id": 563995, "title": "Bastard Art", "original_title": "Bastard Art", "slug_title": "bastard-art", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

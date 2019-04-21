@@ -1,0 +1,1 @@
+{"tmdb_id": 307333, "title": "Barishter Shankar Naraayan", "original_title": "Barishter Shankar Naraayan", "slug_title": "barishter-shankar-naraayan", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

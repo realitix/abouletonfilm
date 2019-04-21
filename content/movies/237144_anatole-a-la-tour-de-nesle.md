@@ -1,0 +1,1 @@
+{"tmdb_id": 237144, "title": "Anatole \u00e0 la tour de Nesle", "original_title": "Anatole \u00e0 la tour de Nesle", "slug_title": "anatole-a-la-tour-de-nesle", "date": "1947-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

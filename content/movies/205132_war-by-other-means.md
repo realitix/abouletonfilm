@@ -1,0 +1,1 @@
+{"tmdb_id": 205132, "title": "War By Other Means", "original_title": "War By Other Means", "slug_title": "war-by-other-means", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uiYVWm9OxzutAjniR6UctrLZY8x.jpg", "actors": [], "comments": [], "recommandations_id": []}

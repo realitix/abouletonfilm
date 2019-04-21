@@ -1,0 +1,1 @@
+{"tmdb_id": 503255, "title": "Bonjour! Shalom!", "original_title": "Bonjour! Shalom!", "slug_title": "bonjour-shalom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6p1rtSH30riuOoJg3uxaHxl1wBS.jpg", "actors": [], "comments": [], "recommandations_id": []}

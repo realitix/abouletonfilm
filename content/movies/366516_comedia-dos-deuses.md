@@ -1,0 +1,1 @@
+{"tmdb_id": 366516, "title": "Com\u00e9dia dos Deuses", "original_title": "Com\u00e9dia dos Deuses", "slug_title": "comedia-dos-deuses", "date": "2016-11-03", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

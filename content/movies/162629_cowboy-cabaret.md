@@ -1,0 +1,1 @@
+{"tmdb_id": 162629, "title": "Cowboy Cabaret", "original_title": "Cowboy Cabaret", "slug_title": "cowboy-cabaret", "date": "1931-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 136059, "title": "So Far from India", "original_title": "So Far from India", "slug_title": "so-far-from-india", "date": "1983-09-12", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7hwgeTmBlmfHhwCCWX8tubZ1G6A.jpg", "actors": [], "comments": [], "recommandations_id": []}

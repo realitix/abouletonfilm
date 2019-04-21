@@ -1,0 +1,1 @@
+{"tmdb_id": 493185, "title": "Soul Power!", "original_title": "Soul Power!", "slug_title": "soul-power", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

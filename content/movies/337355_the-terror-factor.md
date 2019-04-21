@@ -1,0 +1,1 @@
+{"tmdb_id": 337355, "title": "The Terror Factor", "original_title": "The Terror Factor", "slug_title": "the-terror-factor", "date": "2007-04-30", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fnGO2W19lUhD5qjEYb2HA2dJhn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 129390, "title": "Marijuana", "original_title": "Marijuana", "slug_title": "marijuana", "date": "1968-12-31", "genre": "Documentaire", "score": "4.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqbtNWJ8KjhcsSPEoKOPh3erHkF.jpg", "actors": ["Sonny Bono (Narrator)"], "comments": [], "recommandations_id": [129338, 153173, 148068, 140032]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324662, "title": "Our Lady of Paris", "original_title": "Nuestra se\u00f1ora de Paris", "slug_title": "our-lady-of-paris", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FxLj4xVS21hXFNsX5NcLde1W1f.jpg", "actors": [], "comments": [], "recommandations_id": []}

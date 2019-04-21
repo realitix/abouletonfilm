@@ -1,0 +1,1 @@
+{"tmdb_id": 579946, "title": "John Branyan: Smoking Hamsters", "original_title": "John Branyan: Smoking Hamsters", "slug_title": "john-branyan-smoking-hamsters", "date": "2014-02-02", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Branyan (Self)"], "comments": [], "recommandations_id": []}

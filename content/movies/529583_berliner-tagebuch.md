@@ -1,0 +1,1 @@
+{"tmdb_id": 529583, "title": "Berliner Tagebuch", "original_title": "Berliner Tagebuch", "slug_title": "berliner-tagebuch", "date": "2012-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uGkNZSdtV8uozy593gs4qS1Lw8h.jpg", "actors": [], "comments": [], "recommandations_id": []}

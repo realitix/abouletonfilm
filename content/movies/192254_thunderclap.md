@@ -1,0 +1,1 @@
+{"tmdb_id": 192254, "title": "Thunderclap", "original_title": "Pi li lei dian", "slug_title": "thunderclap", "date": "1984-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aAttVldXwPzJ3i90B8LXbPm1nDJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

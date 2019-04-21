@@ -1,0 +1,1 @@
+{"tmdb_id": 387885, "title": "La zia Bettina", "original_title": "La zia Bettina", "slug_title": "la-zia-bettina", "date": "1912-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alberto Collo ()", "Augusto Mastripietri ()", "Ida Carloni Talli (Zia Bettina)"], "comments": [], "recommandations_id": []}

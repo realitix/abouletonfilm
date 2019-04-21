@@ -1,0 +1,1 @@
+{"tmdb_id": 236722, "title": "Mass Mouse Meeting", "original_title": "Mass Mouse Meeting", "slug_title": "mass-mouse-meeting", "date": "1943-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 58303, "title": "Devo Live", "original_title": "Devo Live", "slug_title": "devo-live", "date": "2004-02-24", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RLXnr3rrqAyJfHw8JXZApS53Mt.jpg", "actors": ["Mark Mothersbaugh (Himself)", "Gerald V. Casale (Himself)"], "comments": [], "recommandations_id": []}

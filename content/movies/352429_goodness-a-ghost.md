@@ -1,0 +1,1 @@
+{"tmdb_id": 352429, "title": "Goodness! A Ghost", "original_title": "Goodness! A Ghost", "slug_title": "goodness-a-ghost", "date": "1940-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon ()"], "comments": [], "recommandations_id": []}

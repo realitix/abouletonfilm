@@ -1,0 +1,1 @@
+{"tmdb_id": 568672, "title": "Chronicle 2", "original_title": "Chronicle 2", "slug_title": "chronicle-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 475976, "title": "Human Touch: Pain and Power", "original_title": "Human Touch: Pain and Power", "slug_title": "human-touch-pain-and-power", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

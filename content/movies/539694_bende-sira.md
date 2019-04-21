@@ -1,0 +1,1 @@
+{"tmdb_id": 539694, "title": "Bende Sira", "original_title": "Bende Sira", "slug_title": "bende-sira", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 369825, "title": "Fare-Well!", "original_title": "\u041f\u0435\u0440\u0435\u0436\u0451\u0432\u044b\u0432\u0430\u0439!", "slug_title": "fare-well", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AkKFJmGiurV70yOvEJigCzzhd1z.jpg", "actors": [], "comments": [], "recommandations_id": []}

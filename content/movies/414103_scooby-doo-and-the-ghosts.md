@@ -1,0 +1,1 @@
+{"tmdb_id": 414103, "title": "Scooby-Doo! and the Ghosts", "original_title": "Scooby-Doo! and the Ghosts", "slug_title": "scooby-doo-and-the-ghosts", "date": "2011-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJgmCSXlODcdyt54qzsODDSeARZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

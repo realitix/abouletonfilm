@@ -1,0 +1,1 @@
+{"tmdb_id": 299909, "title": "Bella Vita", "original_title": "Bella Vita", "slug_title": "bella-vita", "date": "2014-09-16", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qFId3TNWUrmzgNiNTILScaj4RSx.jpg", "actors": [], "comments": [], "recommandations_id": []}

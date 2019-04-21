@@ -1,0 +1,1 @@
+{"tmdb_id": 351844, "title": "Max Salva o Mundo", "original_title": "Max Salva o Mundo", "slug_title": "max-salva-o-mundo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

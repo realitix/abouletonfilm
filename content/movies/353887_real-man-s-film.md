@@ -1,0 +1,1 @@
+{"tmdb_id": 353887, "title": "Real Man's Film", "original_title": "Mu\u0161ki film", "slug_title": "real-man-s-film", "date": "2012-07-12", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/shMHc084W48dmQO0MLyKTV4xOhD.jpg", "actors": [], "comments": [], "recommandations_id": []}

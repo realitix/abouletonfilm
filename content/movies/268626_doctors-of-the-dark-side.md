@@ -1,0 +1,1 @@
+{"tmdb_id": 268626, "title": "Doctors of the Dark Side", "original_title": "Doctors of the Dark Side", "slug_title": "doctors-of-the-dark-side", "date": "2011-01-01", "genre": "Documentaire / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q7pSvas3Ob2FB0Yr4NvyQEJ4doM.jpg", "actors": [], "comments": [], "recommandations_id": []}

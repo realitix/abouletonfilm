@@ -1,0 +1,1 @@
+{"tmdb_id": 461988, "title": "Another Day of a Housewife", "original_title": "Another Day of a Housewife", "slug_title": "another-day-of-a-housewife", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458654, "title": "Mahavir Karna", "original_title": "Mahavir Karna", "slug_title": "mahavir-karna", "date": "", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIDYX1ZJYO4GA64rqPl1F5iNvy7.jpg", "actors": ["Vikram (Karna)"], "comments": [], "recommandations_id": []}

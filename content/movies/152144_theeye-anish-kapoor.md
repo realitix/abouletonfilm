@@ -1,0 +1,1 @@
+{"tmdb_id": 152144, "title": "TheEYE: Anish Kapoor", "original_title": "TheEYE: Anish Kapoor", "slug_title": "theeye-anish-kapoor", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPpn0yDuvz1evI8CS0XGRnMMVx7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 261539, "title": "Alian\u00e7a", "original_title": "Alian\u00e7a", "slug_title": "alianca", "date": "2014-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YHoDz5RtqyufMHqAIJl0NiqLX5.jpg", "actors": [], "comments": [], "recommandations_id": []}

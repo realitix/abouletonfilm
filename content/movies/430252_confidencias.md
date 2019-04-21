@@ -1,0 +1,1 @@
+{"tmdb_id": 430252, "title": "Confidencias", "original_title": "Confidencias", "slug_title": "confidencias", "date": "1982-12-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qj17icBk5VvbChWsjHoBAUxjGOv.jpg", "actors": ["Beatriz Sheridan ()", "Mar\u00eda Rojo ()"], "comments": [], "recommandations_id": []}

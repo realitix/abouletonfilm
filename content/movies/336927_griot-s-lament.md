@@ -1,0 +1,1 @@
+{"tmdb_id": 336927, "title": "Griot's Lament", "original_title": "Griot's Lament", "slug_title": "griot-s-lament", "date": "2014-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

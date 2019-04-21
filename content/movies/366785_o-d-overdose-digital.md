@@ -1,0 +1,1 @@
+{"tmdb_id": 366785, "title": "O.D. Overdose Digital", "original_title": "O.D. Overdose Digital", "slug_title": "o-d-overdose-digital", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonardo Miggiorin (Viciado)", "Francisco Gaspar ()", "Francisco Gaspar (Traficante)"], "comments": [], "recommandations_id": []}

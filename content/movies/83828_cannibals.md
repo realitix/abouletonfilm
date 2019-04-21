@@ -1,0 +1,1 @@
+{"tmdb_id": 83828, "title": "Cannibals", "original_title": "Cannibals", "slug_title": "cannibals", "date": "2008-12-16", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJWtO6ecFHvWD5KIjh5ushN90tk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 449294, "title": "Steve Martin: Bits and Pieces", "original_title": "Steve Martin: Bits and Pieces", "slug_title": "steve-martin-bits-and-pieces", "date": "2012-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Martin (Himself)"], "comments": [], "recommandations_id": []}

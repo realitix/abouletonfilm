@@ -1,0 +1,1 @@
+{"tmdb_id": 175926, "title": "Solo in a Fallow Field", "original_title": "Solo na ugorze", "slug_title": "solo-in-a-fallow-field", "date": "1982-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSygzjRTwWoDUepPyQ6JVe4SAPL.jpg", "actors": [], "comments": [], "recommandations_id": []}

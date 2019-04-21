@@ -1,0 +1,1 @@
+{"tmdb_id": 349246, "title": "Ambiguous Man", "original_title": "\ubbf8\uc9c0\uc655", "slug_title": "ambiguous-man", "date": "1996-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRDphsgovJHDf4WkxJyzIKKaVvZ.jpg", "actors": ["Jo Sang-ki (\uc655\ucc3d\ud55c)"], "comments": [], "recommandations_id": []}

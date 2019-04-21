@@ -1,0 +1,1 @@
+{"tmdb_id": 297268, "title": "Big Cats of the Savannah", "original_title": "Big Cats of the Savannah", "slug_title": "big-cats-of-the-savannah", "date": "2014-03-19", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikQB8C35GIi9fM2kPm7hQWz3p3C.jpg", "actors": [], "comments": [], "recommandations_id": []}

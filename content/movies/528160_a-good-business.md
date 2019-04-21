@@ -1,0 +1,1 @@
+{"tmdb_id": 528160, "title": "A Good Business", "original_title": "\uad7f \ube44\uc988\ub2c8\uc2a4", "slug_title": "a-good-business", "date": "2018-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

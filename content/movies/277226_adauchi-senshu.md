@@ -1,0 +1,1 @@
+{"tmdb_id": 277226, "title": "Adauchi senshu", "original_title": "Adauchi senshu", "slug_title": "adauchi-senshu", "date": "1931-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isuzu Yamada ()", "Denjir\u00f4 \u00d4k\u00f4chi ()"], "comments": [], "recommandations_id": []}

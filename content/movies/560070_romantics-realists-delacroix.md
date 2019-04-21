@@ -1,0 +1,1 @@
+{"tmdb_id": 560070, "title": "Romantics & Realists: Delacroix", "original_title": "Romantics & Realists: Delacroix", "slug_title": "romantics-realists-delacroix", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9ACWBEa2WBZZMvfuhDg71SqQoY.jpg", "actors": [], "comments": [], "recommandations_id": []}

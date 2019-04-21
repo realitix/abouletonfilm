@@ -1,0 +1,1 @@
+{"tmdb_id": 46086, "title": "Just for the Record", "original_title": "Just for the Record", "slug_title": "just-for-the-record", "date": "2010-05-05", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y4tAThfo8MtcPwS9BSAj9tyKcnb.jpg", "actors": ["Gia Labarbera (Bar Girl)"], "comments": [], "recommandations_id": []}

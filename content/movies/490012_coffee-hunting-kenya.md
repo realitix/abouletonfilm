@@ -1,0 +1,1 @@
+{"tmdb_id": 490012, "title": "Coffee Hunting: Kenya", "original_title": "Coffee Hunting: Kenya", "slug_title": "coffee-hunting-kenya", "date": "2016-12-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7cc886oXzqkpP3xpEEuD0PLM05S.jpg", "actors": ["Aaron Blanco ()"], "comments": [], "recommandations_id": []}

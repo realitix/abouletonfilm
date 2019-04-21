@@ -1,0 +1,1 @@
+{"tmdb_id": 320277, "title": "Boris Godunov", "original_title": "Boris Godunov", "slug_title": "boris-godunov", "date": "1954-01-21", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zI1nQs2cGpGpfN9YlJ6sjgYKgfs.jpg", "actors": ["Aleksandr Pirogov ()", "Nikandr Khanayev ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 355086, "title": "Radio Raps: Life 101", "original_title": "Radio Raps: Life 101", "slug_title": "radio-raps-life-101", "date": "2015-06-07", "genre": "Com\u00e9die", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmkaNAjfmXHou1oxKpoLtLL27h0.jpg", "actors": ["Rikus De Beer ()"], "comments": [], "recommandations_id": []}

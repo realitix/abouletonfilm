@@ -1,0 +1,1 @@
+{"tmdb_id": 319529, "title": "Slipknot: Voliminal: Inside the Nine", "original_title": "Slipknot: Voliminal: Inside the Nine", "slug_title": "slipknot-voliminal-inside-the-nine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

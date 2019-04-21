@@ -1,0 +1,1 @@
+{"tmdb_id": 116553, "title": "Corny Casanovas", "original_title": "Corny Casanovas", "slug_title": "corny-casanovas", "date": "1952-05-01", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shemp Howard (Shemp)", "Connie Cezon (Mabel)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

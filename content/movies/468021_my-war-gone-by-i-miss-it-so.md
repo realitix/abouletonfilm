@@ -1,0 +1,1 @@
+{"tmdb_id": 468021, "title": "My War Gone By, I Miss It So", "original_title": "My War Gone By, I Miss It So", "slug_title": "my-war-gone-by-i-miss-it-so", "date": "", "genre": "Drame / Guerre", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Hardy ()"], "comments": [], "recommandations_id": []}

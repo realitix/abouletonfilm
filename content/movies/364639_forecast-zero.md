@@ -1,0 +1,1 @@
+{"tmdb_id": 364639, "title": "Forecast: Zero", "original_title": "Predpoved: nula", "slug_title": "forecast-zero", "date": "1966-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDhEDnxdAabTTp1Sbwvwd9Hnz60.jpg", "actors": [], "comments": [], "recommandations_id": []}

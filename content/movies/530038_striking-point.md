@@ -1,0 +1,1 @@
+{"tmdb_id": 530038, "title": "Striking Point", "original_title": "Striking Point", "slug_title": "striking-point", "date": "1995-10-07", "genre": "Action / Crime", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher Mitchum (Col. Ivan Romanov)", "Tracy Spaulding (Tina Wells)"], "comments": [], "recommandations_id": []}

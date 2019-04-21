@@ -1,0 +1,1 @@
+{"tmdb_id": 357737, "title": "Shell Spirit", "original_title": "Shell Spirit", "slug_title": "shell-spirit", "date": "1963-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

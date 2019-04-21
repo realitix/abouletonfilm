@@ -1,0 +1,1 @@
+{"tmdb_id": 557765, "title": "James Last. A world Of Music 2002", "original_title": "James Last. A world Of Music 2002", "slug_title": "james-last-a-world-of-music-2002", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJtBG5CQNRAlw6IMCkqCzeQkrvs.jpg", "actors": [], "comments": [], "recommandations_id": []}

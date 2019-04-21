@@ -1,0 +1,1 @@
+{"tmdb_id": 565639, "title": "Transparent World", "original_title": "\u10d2\u10d0\u10db\u10ed\u10d5\u10d8\u10e0\u10d5\u10d0\u10da\u10d4 \u10e1\u10d0\u10db\u10e7\u10d0\u10e0\u10dd", "slug_title": "transparent-world", "date": "2018-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

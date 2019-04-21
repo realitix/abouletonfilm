@@ -1,0 +1,1 @@
+{"tmdb_id": 325952, "title": "Calling the Shots", "original_title": "Calling the Shots", "slug_title": "calling-the-shots", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342070, "title": "Gamla Stan", "original_title": "Gamla Stan", "slug_title": "gamla-stan", "date": "1931-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erik Asklund (Diktl\u00e4sare)", "Josef Kjellgren (En vandrande)"], "comments": [], "recommandations_id": []}

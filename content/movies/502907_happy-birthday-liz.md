@@ -1,0 +1,1 @@
+{"tmdb_id": 502907, "title": "Happy Birthday Liz", "original_title": "Happy Birthday Liz", "slug_title": "happy-birthday-liz", "date": "2007-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 198830, "title": "La caravane blanche", "original_title": "Tetri karavani", "slug_title": "la-caravane-blanche", "date": "1964-06-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iErU51qIoqWbzyDOdPSNbNbQ6sK.jpg", "actors": [], "comments": [], "recommandations_id": []}

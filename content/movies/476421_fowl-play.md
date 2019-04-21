@@ -1,0 +1,1 @@
+{"tmdb_id": 476421, "title": "Fowl Play", "original_title": "Fowl Play", "slug_title": "fowl-play", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hilary Duncanson ()", "Robert Mailer Anderson ()", "Frank Avila ()", "Juan Wauters ()", "Steve Dalachinsky ()"], "comments": [], "recommandations_id": []}

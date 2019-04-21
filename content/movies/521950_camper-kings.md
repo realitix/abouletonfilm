@@ -1,0 +1,1 @@
+{"tmdb_id": 521950, "title": "Camper Kings", "original_title": "Camper Kings", "slug_title": "camper-kings", "date": "2020-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremiah Thompson ()", "Josh Knectly ()", "Zach Strickland ()", "Josh Brown ()", "Nick Warfe ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 66724, "title": "Pure 80s: Headbangers Rule!", "original_title": "Pure 80s: Headbangers Rule!", "slug_title": "pure-80s-headbangers-rule", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPR1mnnZZgw6d9QlIWsOvXBaXSn.jpg", "actors": [], "comments": [], "recommandations_id": []}

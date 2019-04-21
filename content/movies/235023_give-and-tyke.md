@@ -1,0 +1,1 @@
+{"tmdb_id": 235023, "title": "Give and Tyke", "original_title": "Give and Tyke", "slug_title": "give-and-tyke", "date": "1957-03-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dxafhuGqA4DVJoo7806k3ihjk8.jpg", "actors": [], "comments": [], "recommandations_id": []}

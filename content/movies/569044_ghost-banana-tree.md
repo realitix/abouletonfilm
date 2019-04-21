@@ -1,0 +1,1 @@
+{"tmdb_id": 569044, "title": "Ghost Banana Tree", "original_title": "Ghost Banana Tree", "slug_title": "ghost-banana-tree", "date": "2004-07-24", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Poan Pasda (Wife)", "Ly Taro (Husband)"], "comments": [], "recommandations_id": []}

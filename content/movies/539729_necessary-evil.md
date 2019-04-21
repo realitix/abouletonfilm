@@ -1,0 +1,1 @@
+{"tmdb_id": 539729, "title": "Necessary Evil", "original_title": "Necessary Evil", "slug_title": "necessary-evil", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Randy Brososky ()", "Lindsey McNeill ()", "Chance Heck ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480524, "title": "Principal Dancer", "original_title": "Primeiro Bailarino", "slug_title": "principal-dancer", "date": "2017-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySaF0iRTIleHwYUs0wFAceXDuWx.jpg", "actors": ["Thiago Soares (Himself)"], "comments": [], "recommandations_id": []}

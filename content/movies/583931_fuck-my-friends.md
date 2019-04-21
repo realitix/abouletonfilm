@@ -1,0 +1,1 @@
+{"tmdb_id": 583931, "title": "Fuck My Friends", "original_title": "Fuck My Friends", "slug_title": "fuck-my-friends", "date": "2017-12-27", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKRe8jZuerr95wFDWMNPVXG9Yor.jpg", "actors": [], "comments": [], "recommandations_id": []}

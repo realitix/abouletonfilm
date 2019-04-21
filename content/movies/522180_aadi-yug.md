@@ -1,0 +1,1 @@
+{"tmdb_id": 522180, "title": "Aadi Yug", "original_title": "Aadi Yug", "slug_title": "aadi-yug", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tGTgDBGUn2jTrxxhGekOh1neJf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 544331, "title": "Verde Lim\u00e3o", "original_title": "Verde Lim\u00e3o", "slug_title": "verde-limao", "date": "2018-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4i9p2AiVzoVq7z4nzphyr3l3COU.jpg", "actors": [], "comments": [], "recommandations_id": []}

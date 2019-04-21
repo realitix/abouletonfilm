@@ -1,0 +1,1 @@
+{"tmdb_id": 379455, "title": "Punch and Judo", "original_title": "Punch and Judo", "slug_title": "punch-and-judo", "date": "1972-07-23", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer (voice))", "Tom Holland (Japanese Beetle (voice))"], "comments": [], "recommandations_id": []}

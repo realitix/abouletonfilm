@@ -1,0 +1,1 @@
+{"tmdb_id": 276438, "title": "D.O.A.: Positively D.O.A.: Live", "original_title": "D.O.A.: Positively D.O.A.: Live", "slug_title": "d-o-a-positively-d-o-a-live", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

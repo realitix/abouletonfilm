@@ -1,0 +1,1 @@
+{"tmdb_id": 348725, "title": "For the Rest of Your Natural Life", "original_title": "For the Rest of Your Natural Life", "slug_title": "for-the-rest-of-your-natural-life", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

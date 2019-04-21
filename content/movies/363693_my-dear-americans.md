@@ -1,0 +1,1 @@
+{"tmdb_id": 363693, "title": "My Dear Americans", "original_title": "My Dear Americans", "slug_title": "my-dear-americans", "date": "2013-12-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gugun Deep Singh (Baldev Singh)", "Ansuya Nathan (Tejpreet Kaur Singh)"], "comments": [], "recommandations_id": []}

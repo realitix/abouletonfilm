@@ -1,0 +1,1 @@
+{"tmdb_id": 325756, "title": "The Last Hug", "original_title": "The Last Hug", "slug_title": "the-last-hug", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391095, "title": "Trace Elements", "original_title": "Trace Elements", "slug_title": "trace-elements", "date": "2003-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2Ia7L2UYuVyVh6rmmq35e1QyTx.jpg", "actors": [], "comments": [], "recommandations_id": []}

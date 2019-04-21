@@ -1,0 +1,1 @@
+{"tmdb_id": 353688, "title": "By the Sea", "original_title": "By the Sea", "slug_title": "by-the-sea", "date": "1963-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 591573, "title": "Clams Casino", "original_title": "Clams Casino", "slug_title": "clams-casino", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eloisa Santos (Arcelia Diaz)", "Roma Lopez (Gladys Diaz)", "Rina Mejia (Rocio)", "Sarah Lynne (Lourdes)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498348, "title": "\u90fd\u5e81\u7206\u7834!", "original_title": "\u90fd\u5e81\u7206\u7834!", "slug_title": "du-ting-bao-po", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

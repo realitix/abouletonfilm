@@ -1,0 +1,1 @@
+{"tmdb_id": 238028, "title": "12 h\u00f3nap az erd\u0151n", "original_title": "12 h\u00f3nap az erd\u0151n", "slug_title": "12-honap-az-erdon", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsdUlhRdUR4j3G2GWOcBg9HIACc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401701, "title": "Doc McStuffins: Pet Vet", "original_title": "Doc McStuffins: Pet Vet", "slug_title": "doc-mcstuffins-pet-vet", "date": "2015-11-03", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZ2D5S5QHeRz7tK4EqCMSYBiAdD.jpg", "actors": [], "comments": [], "recommandations_id": []}

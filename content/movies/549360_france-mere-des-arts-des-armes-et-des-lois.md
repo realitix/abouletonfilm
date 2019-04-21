@@ -1,0 +1,1 @@
+{"tmdb_id": 549360, "title": "France, m\u00e8re des arts, des armes et des lois", "original_title": "France, m\u00e8re des arts, des armes et des lois", "slug_title": "france-mere-des-arts-des-armes-et-des-lois", "date": "1975-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389035, "title": "Equinox", "original_title": "Equinozio", "slug_title": "equinox", "date": "1971-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

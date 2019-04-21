@@ -1,0 +1,1 @@
+{"tmdb_id": 163053, "title": "A Morning Bath", "original_title": "A Morning Bath", "slug_title": "a-morning-bath", "date": "1896-10-30", "genre": "", "score": "4.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMwKnRC5aGQ0uuoCfbppqF6RWPM.jpg", "actors": [], "comments": [], "recommandations_id": [162857, 163112, 190695, 172115]}

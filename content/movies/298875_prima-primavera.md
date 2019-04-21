@@ -1,0 +1,1 @@
+{"tmdb_id": 298875, "title": "Prima Primavera", "original_title": "Prima Primavera", "slug_title": "prima-primavera", "date": "2009-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aeBmeu8vlv3carF6ketsx15jkG6.jpg", "actors": ["J\u00e1nos Edel\u00e9nyi (Director)"], "comments": [], "recommandations_id": []}

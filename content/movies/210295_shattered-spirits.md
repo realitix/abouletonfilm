@@ -1,0 +1,1 @@
+{"tmdb_id": 210295, "title": "Shattered Spirits", "original_title": "Shattered Spirits", "slug_title": "shattered-spirits", "date": "1986-01-06", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjoyEeyPDovQ20Z1G1sIODslUzL.jpg", "actors": [], "comments": [], "recommandations_id": []}

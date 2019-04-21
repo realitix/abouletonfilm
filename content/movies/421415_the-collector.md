@@ -1,0 +1,1 @@
+{"tmdb_id": 421415, "title": "The Collector", "original_title": "Kolekcionar", "slug_title": "the-collector", "date": "1972-10-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

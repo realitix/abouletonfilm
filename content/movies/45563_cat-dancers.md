@@ -1,0 +1,1 @@
+{"tmdb_id": 45563, "title": "Cat Dancers", "original_title": "Cat Dancers", "slug_title": "cat-dancers", "date": "2008-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RBZEDtHoFsnbTRO0NMUFfBeF57.jpg", "actors": [], "comments": [], "recommandations_id": []}

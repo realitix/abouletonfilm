@@ -1,0 +1,1 @@
+{"tmdb_id": 550147, "title": "En el coraz\u00f3n de la Decimotercera", "original_title": "En el coraz\u00f3n de la Decimotercera", "slug_title": "en-el-corazon-de-la-decimotercera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

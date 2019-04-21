@@ -1,0 +1,1 @@
+{"tmdb_id": 425977, "title": "Three Days to Contemplate", "original_title": "Tr\u012bs dienas p\u0101rdom\u0101m", "slug_title": "three-days-to-contemplate", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1dErCbzxV8uWPeKuOxlb5eieO2.jpg", "actors": [], "comments": [], "recommandations_id": []}

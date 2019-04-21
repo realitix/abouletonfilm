@@ -1,0 +1,1 @@
+{"tmdb_id": 82809, "title": "Magyar n\u00e9pmes\u00e9k", "original_title": "Magyar n\u00e9pmes\u00e9k", "slug_title": "magyar-nepmesek", "date": "1978-10-27", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ap1L36MyFK1RGE7g3qvZjlPvXaL.jpg", "actors": [], "comments": [], "recommandations_id": []}

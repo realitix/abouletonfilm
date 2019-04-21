@@ -1,0 +1,1 @@
+{"tmdb_id": 488222, "title": "Day of Battle", "original_title": "Day of Battle", "slug_title": "day-of-battle", "date": "1943-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

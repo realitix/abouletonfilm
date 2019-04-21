@@ -1,0 +1,1 @@
+{"tmdb_id": 392683, "title": "About Zero", "original_title": "Intorno allo zero", "slug_title": "about-zero", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1OQTRg3j1cmmy2YTQJtvJUqeX7H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 488047, "title": "The Break", "original_title": "The Break", "slug_title": "the-break", "date": "1974-07-08", "genre": "T\u00e9l\u00e9film / Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

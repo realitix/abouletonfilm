@@ -1,0 +1,1 @@
+{"tmdb_id": 148345, "title": "Slow Motion", "original_title": "Slow Motion", "slug_title": "slow-motion", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kaDM0P6qWQFpdRBUUijTiGEHzs3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528066, "title": "East/West", "original_title": "\u6771\uff0fWest", "slug_title": "east-west", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

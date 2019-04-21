@@ -1,0 +1,1 @@
+{"tmdb_id": 277556, "title": "Pete Rose: Playing to Win", "original_title": "Pete Rose: Playing to Win", "slug_title": "pete-rose-playing-to-win", "date": "2003-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

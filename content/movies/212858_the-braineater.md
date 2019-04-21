@@ -1,0 +1,1 @@
+{"tmdb_id": 212858, "title": "The Braineater", "original_title": "The Braineater", "slug_title": "the-braineater", "date": "2001-06-01", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4LtXYYcOBOi2O9IY3O7n50vc1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

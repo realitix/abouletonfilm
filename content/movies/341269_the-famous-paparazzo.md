@@ -1,0 +1,1 @@
+{"tmdb_id": 341269, "title": "The Famous Paparazzo", "original_title": "Faimosul paparazzo", "slug_title": "the-famous-paparazzo", "date": "1999-11-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qiXasHwmhRDAQaUIYg1Hs6ZoPC.jpg", "actors": [], "comments": [], "recommandations_id": []}

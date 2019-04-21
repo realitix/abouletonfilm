@@ -1,0 +1,1 @@
+{"tmdb_id": 283963, "title": "Gendarm M\u00f6bius", "original_title": "Gendarm M\u00f6bius", "slug_title": "gendarm-mobius", "date": "1914-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victor Colani ()", "Lucie H\u00f6flich ()", "Lothar K\u00f6rner ()"], "comments": [], "recommandations_id": []}

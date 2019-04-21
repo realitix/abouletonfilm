@@ -1,0 +1,1 @@
+{"tmdb_id": 30173, "title": "Barney's Halloween Party", "original_title": "Barney's Halloween Party", "slug_title": "barney-s-halloween-party", "date": "1998-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36tjm23sVuizegTZvRFPt56jsTB.jpg", "actors": [], "comments": [], "recommandations_id": []}

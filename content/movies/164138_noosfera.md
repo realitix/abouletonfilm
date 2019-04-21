@@ -1,0 +1,1 @@
+{"tmdb_id": 164138, "title": "Noosfera", "original_title": "Noosfera", "slug_title": "noosfera", "date": "2011-01-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSax02ckp04gOe3vXfuehaODXIT.jpg", "actors": [], "comments": [], "recommandations_id": []}

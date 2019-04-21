@@ -1,0 +1,1 @@
+{"tmdb_id": 197615, "title": "Faith's Corner", "original_title": "Faith's Corner", "slug_title": "faith-s-corner", "date": "2005-11-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIkqViLxVNjmGivutLCyGHWvOKg.jpg", "actors": ["Leleti Khumalo (Faith)"], "comments": [], "recommandations_id": []}

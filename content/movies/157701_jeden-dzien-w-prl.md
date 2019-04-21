@@ -1,0 +1,1 @@
+{"tmdb_id": 157701, "title": "Jeden dzie\u0144 w PRL", "original_title": "Jeden dzie\u0144 w PRL", "slug_title": "jeden-dzien-w-prl", "date": "2005-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCVikW179YMnQnBW92AWbSM95Ff.jpg", "actors": [], "comments": [], "recommandations_id": []}

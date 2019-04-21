@@ -1,0 +1,1 @@
+{"tmdb_id": 235855, "title": "Half-Pint Palomino", "original_title": "Half-Pint Palomino", "slug_title": "half-pint-palomino", "date": "1953-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5a8TSs2T1xlmVpsMbimdoDOVxV.jpg", "actors": [], "comments": [], "recommandations_id": []}

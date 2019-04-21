@@ -1,0 +1,1 @@
+{"tmdb_id": 568221, "title": "Complete Garbage", "original_title": "Complete Garbage", "slug_title": "complete-garbage", "date": "2007-08-28", "genre": "Crime / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 569046, "title": "Yeh Hai Lollipop", "original_title": "Yeh Hai Lollipop", "slug_title": "yeh-hai-lollipop", "date": "2016-11-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jXB9X21nSmtKtJ1lTH65OIwyag.jpg", "actors": [], "comments": [], "recommandations_id": []}

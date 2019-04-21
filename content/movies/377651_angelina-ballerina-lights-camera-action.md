@@ -1,0 +1,1 @@
+{"tmdb_id": 377651, "title": "Angelina Ballerina - Lights, Camera, Action!", "original_title": "Angelina Ballerina - Lights, Camera, Action!", "slug_title": "angelina-ballerina-lights-camera-action", "date": "2003-05-17", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

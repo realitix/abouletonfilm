@@ -1,0 +1,1 @@
+{"tmdb_id": 480379, "title": "The Point is to Change It", "original_title": "Es kommt darauf an, sie zu ver\u00e4ndern", "slug_title": "the-point-is-to-change-it", "date": "1973-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

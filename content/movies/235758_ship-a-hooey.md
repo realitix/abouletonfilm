@@ -1,0 +1,1 @@
+{"tmdb_id": 235758, "title": "Ship A-Hooey", "original_title": "Ship A-Hooey", "slug_title": "ship-a-hooey", "date": "1954-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

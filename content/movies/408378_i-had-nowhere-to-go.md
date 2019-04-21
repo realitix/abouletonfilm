@@ -1,0 +1,1 @@
+{"tmdb_id": 408378, "title": "I Had Nowhere to Go", "original_title": "I Had Nowhere to Go", "slug_title": "i-had-nowhere-to-go", "date": "2016-08-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxd5Y5vPdyVL531r3UMxeUC42JX.jpg", "actors": ["Jonas Mekas (Himself)"], "comments": [], "recommandations_id": []}

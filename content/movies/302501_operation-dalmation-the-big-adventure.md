@@ -1,0 +1,1 @@
+{"tmdb_id": 302501, "title": "Operation Dalmation: The Big Adventure", "original_title": "Operation Dalmation: The Big Adventure", "slug_title": "operation-dalmation-the-big-adventure", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

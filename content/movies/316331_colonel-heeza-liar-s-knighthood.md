@@ -1,0 +1,1 @@
+{"tmdb_id": 316331, "title": "Colonel Heeza Liar's Knighthood", "original_title": "Colonel Heeza Liar's Knighthood", "slug_title": "colonel-heeza-liar-s-knighthood", "date": "1924-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

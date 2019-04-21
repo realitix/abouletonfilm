@@ -1,0 +1,1 @@
+{"tmdb_id": 559921, "title": "Au coeur de la Casbah", "original_title": "Au coeur de la Casbah", "slug_title": "au-coeur-de-la-casbah", "date": "1952-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2ma4wtj95s8MICcX0p1yNzweuj.jpg", "actors": [], "comments": [], "recommandations_id": []}

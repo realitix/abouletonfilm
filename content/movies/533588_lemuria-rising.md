@@ -1,0 +1,1 @@
+{"tmdb_id": 533588, "title": "Lemuria Rising", "original_title": "Lemuria Rising", "slug_title": "lemuria-rising", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3jz87timU99FgAnWhW9TZEYlkk.jpg", "actors": [], "comments": [], "recommandations_id": []}

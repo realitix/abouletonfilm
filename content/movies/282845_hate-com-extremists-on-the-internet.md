@@ -1,0 +1,1 @@
+{"tmdb_id": 282845, "title": "Hate.Com: Extremists on the Internet", "original_title": "Hate.Com: Extremists on the Internet", "slug_title": "hate-com-extremists-on-the-internet", "date": "2000-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

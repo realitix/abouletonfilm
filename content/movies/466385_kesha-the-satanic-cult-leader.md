@@ -1,0 +1,1 @@
+{"tmdb_id": 466385, "title": "Kesha: The Satanic Cult Leader", "original_title": "Kesha: The Satanic Cult Leader", "slug_title": "kesha-the-satanic-cult-leader", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

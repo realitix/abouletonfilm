@@ -1,0 +1,1 @@
+{"tmdb_id": 360825, "title": "Dwarfs: Not a Fairy Tale", "original_title": "Dwarfs: Not a Fairy Tale", "slug_title": "dwarfs-not-a-fairy-tale", "date": "2001-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYEBI7HZsVxO3XUUzSmsG4bVZ6C.jpg", "actors": [], "comments": [], "recommandations_id": []}

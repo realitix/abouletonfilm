@@ -1,0 +1,1 @@
+{"tmdb_id": 474550, "title": "Mayweather vs Ayala", "original_title": "Mayweather vs Ayala", "slug_title": "mayweather-vs-ayala", "date": "1997-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Floyd Mayweather Jr. ()", "Edgar Ayala ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382132, "title": "Walking Man", "original_title": "Walking Man", "slug_title": "walking-man", "date": "2002-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/thnnMKM2psdSMKGRCXwbIvnT5Pr.jpg", "actors": [], "comments": [], "recommandations_id": []}

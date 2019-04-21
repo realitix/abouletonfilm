@@ -1,0 +1,1 @@
+{"tmdb_id": 496820, "title": "Media Apostle: The Father James Alberione Story", "original_title": "Media Apostle: The Father James Alberione Story", "slug_title": "media-apostle-the-father-james-alberione-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481312, "title": "Brigand Jurko", "original_title": "Zbojn\u00edk Jurko", "slug_title": "brigand-jurko", "date": "1976-01-01", "genre": "Histoire / Animation / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bWK8mlQ5dneVc5fqSk2Hun8LfwX.jpg", "actors": [], "comments": [], "recommandations_id": []}

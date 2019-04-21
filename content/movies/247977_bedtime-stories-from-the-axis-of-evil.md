@@ -1,0 +1,1 @@
+{"tmdb_id": 247977, "title": "Bedtime Stories From The Axis Of Evil", "original_title": "Bedtime Stories From The Axis Of Evil", "slug_title": "bedtime-stories-from-the-axis-of-evil", "date": "2011-11-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

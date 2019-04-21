@@ -1,0 +1,1 @@
+{"tmdb_id": 469604, "title": "The Last Diva", "original_title": "L'ultima diva: Francesca Bertini", "slug_title": "the-last-diva", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francesca Bertini ()"], "comments": [], "recommandations_id": []}

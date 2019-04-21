@@ -1,0 +1,1 @@
+{"tmdb_id": 385985, "title": "White Shoulders", "original_title": "White Shoulders", "slug_title": "white-shoulders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvb3apAJrWFfbmZvsSWc02FpMAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

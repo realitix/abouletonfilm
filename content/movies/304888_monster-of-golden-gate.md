@@ -1,0 +1,1 @@
+{"tmdb_id": 304888, "title": "Monster of Golden Gate", "original_title": "Monster of Golden Gate", "slug_title": "monster-of-golden-gate", "date": "2014-05-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

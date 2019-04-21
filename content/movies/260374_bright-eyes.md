@@ -1,0 +1,1 @@
+{"tmdb_id": 260374, "title": "Bright Eyes", "original_title": "Bright Eyes", "slug_title": "bright-eyes", "date": "1987-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zudiQSxz0Jwg7We8vElNRyw5itr.jpg", "actors": [], "comments": [], "recommandations_id": []}

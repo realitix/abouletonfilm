@@ -1,0 +1,1 @@
+{"tmdb_id": 413918, "title": "Hitokiri II: Road to Destiny", "original_title": "Hitokiri II: Road to Destiny", "slug_title": "hitokiri-ii-road-to-destiny", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1dNhD2rJZ0okXC4RjNHq7HN4K0b.jpg", "actors": [], "comments": [], "recommandations_id": []}

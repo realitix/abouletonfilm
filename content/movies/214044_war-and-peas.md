@@ -1,0 +1,1 @@
+{"tmdb_id": 214044, "title": "War and Peas", "original_title": "Krig og kager", "slug_title": "war-and-peas", "date": "2005-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mUlg7Dg3t9USvlZcCQxw4bsQ5BA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 402785, "title": "You the Better", "original_title": "You the Better", "slug_title": "you-the-better", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6012rF5cTSFyDPQTpaeSlpUs2SP.jpg", "actors": ["Ashley Bickerton ()"], "comments": [], "recommandations_id": []}

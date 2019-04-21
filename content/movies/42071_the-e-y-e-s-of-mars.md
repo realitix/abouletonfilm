@@ -1,0 +1,1 @@
+{"tmdb_id": 42071, "title": "The E.Y.E.S. of Mars", "original_title": "Mother: Saigo no Shoujo Eve", "slug_title": "the-e-y-e-s-of-mars", "date": "1993-12-26", "genre": "Animation / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2BLTfO3lMwMkfurIz1MRWm3Al8.jpg", "actors": [], "comments": [], "recommandations_id": []}

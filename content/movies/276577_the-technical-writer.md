@@ -1,0 +1,1 @@
+{"tmdb_id": 276577, "title": "The Technical Writer", "original_title": "The Technical Writer", "slug_title": "the-technical-writer", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

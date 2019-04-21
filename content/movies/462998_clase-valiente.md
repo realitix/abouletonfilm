@@ -1,0 +1,1 @@
+{"tmdb_id": 462998, "title": "Clase Valiente", "original_title": "Clase Valiente", "slug_title": "clase-valiente", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1HcWd8iXKGPaudc1HOcvC2uwIeh.jpg", "actors": [], "comments": [], "recommandations_id": []}

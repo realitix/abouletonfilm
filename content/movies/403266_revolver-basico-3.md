@@ -1,0 +1,1 @@
+{"tmdb_id": 403266, "title": "Revolver - Basico 3", "original_title": "Revolver - Basico 3", "slug_title": "revolver-basico-3", "date": "2010-06-22", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GnxdMkHQPR3HCSw0lUMcSgNfSx.jpg", "actors": ["Carlos Go\u00f1i (Herself)"], "comments": [], "recommandations_id": []}

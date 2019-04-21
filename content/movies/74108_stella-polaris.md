@@ -1,0 +1,1 @@
+{"tmdb_id": 74108, "title": "Stella Polaris", "original_title": "Stella Polaris", "slug_title": "stella-polaris", "date": "1993-01-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vB1jcb5RRUvqTgsU9t9xdR1NUm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 308081, "title": "Mirchi Mandaki Kadak Chai", "original_title": "Mirchi Mandaki Kadak Chai", "slug_title": "mirchi-mandaki-kadak-chai", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

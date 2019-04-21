@@ -1,0 +1,1 @@
+{"tmdb_id": 387495, "title": "Radio Rhapsody", "original_title": "Radio Rhapsody", "slug_title": "radio-rhapsody", "date": "1935-07-29", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Green (Himself)", "Harry von Zell (Himself)", "Marjory Logan (Herself)"], "comments": [], "recommandations_id": []}

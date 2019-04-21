@@ -1,0 +1,1 @@
+{"tmdb_id": 425239, "title": "I Am Thirsty, I Am Hungry", "original_title": "Ginauhow Ako, Ginagutom Ako", "slug_title": "i-am-thirsty-i-am-hungry", "date": "1977-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

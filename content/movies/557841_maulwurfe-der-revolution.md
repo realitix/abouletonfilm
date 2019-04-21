@@ -1,0 +1,1 @@
+{"tmdb_id": 557841, "title": "Maulw\u00fcrfe der Revolution", "original_title": "Maulw\u00fcrfe der Revolution", "slug_title": "maulwurfe-der-revolution", "date": "1969-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Constanze Harpen (Inge)", "Holger Franke (Thomas)"], "comments": [], "recommandations_id": []}

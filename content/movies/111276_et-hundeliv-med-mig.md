@@ -1,0 +1,1 @@
+{"tmdb_id": 111276, "title": "Et hundeliv med mig", "original_title": "Et hundeliv med mig", "slug_title": "et-hundeliv-med-mig", "date": "1958-01-01", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7w999IHW8MJucGOH1gTx47OFGg6.jpg", "actors": [], "comments": [], "recommandations_id": []}

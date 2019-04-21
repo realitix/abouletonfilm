@@ -1,0 +1,1 @@
+{"tmdb_id": 450630, "title": "Rendez-vous chez Lacan", "original_title": "Rendez-vous chez Lacan", "slug_title": "rendez-vous-chez-lacan", "date": "2011-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qhUHWcMPkcB1c9R0erFanG8DYLN.jpg", "actors": [], "comments": [], "recommandations_id": []}

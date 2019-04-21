@@ -1,0 +1,1 @@
+{"tmdb_id": 533895, "title": "Clean Blood", "original_title": "Clean Blood", "slug_title": "clean-blood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephanie Allynne ()", "Whit Hertford ()", "Jordan Michael Blake ()"], "comments": [], "recommandations_id": []}

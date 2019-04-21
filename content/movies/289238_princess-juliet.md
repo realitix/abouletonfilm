@@ -1,0 +1,1 @@
+{"tmdb_id": 289238, "title": "Princess Juliet", "original_title": "Princess Juliet", "slug_title": "princess-juliet", "date": "2014-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYS3oHJT4ozSJtFjzmmDfzJeMyU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588303, "title": "Best of Mandy Mystery 2", "original_title": "Best of Mandy Mystery 2", "slug_title": "best-of-mandy-mystery-2", "date": "2006-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0NphSJoEKWYjhjOUSnh5b6JxxI.jpg", "actors": ["Mandy Mistery ()"], "comments": [], "recommandations_id": []}

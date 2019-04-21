@@ -1,0 +1,1 @@
+{"tmdb_id": 116867, "title": "Abba: Arrival", "original_title": "Abba: Arrival", "slug_title": "abba-arrival", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/84mEZsou48hGeSsofyz6yLb5uRs.jpg", "actors": [], "comments": [], "recommandations_id": []}

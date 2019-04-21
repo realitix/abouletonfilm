@@ -1,0 +1,1 @@
+{"tmdb_id": 283449, "title": "Emergency Ward", "original_title": "Emergency Ward", "slug_title": "emergency-ward", "date": "1959-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwVDxJye5R1cGQwEdj65qlQ2Pu8.jpg", "actors": [], "comments": [], "recommandations_id": []}

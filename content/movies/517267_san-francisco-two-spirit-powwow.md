@@ -1,0 +1,1 @@
+{"tmdb_id": 517267, "title": "San Francisco Two-Spirit Powwow", "original_title": "San Francisco Two-Spirit Powwow", "slug_title": "san-francisco-two-spirit-powwow", "date": "2018-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

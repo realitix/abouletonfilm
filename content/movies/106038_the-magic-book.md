@@ -1,0 +1,1 @@
+{"tmdb_id": 106038, "title": "The Magic Book", "original_title": "Le livre magique", "slug_title": "the-magic-book", "date": "1900-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [106807, 106804, 106025, 106805]}

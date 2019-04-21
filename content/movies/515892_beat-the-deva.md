@@ -1,0 +1,1 @@
+{"tmdb_id": 515892, "title": "Beat the Deva", "original_title": "Beat the Deva", "slug_title": "beat-the-deva", "date": "1980-04-02", "genre": "Animation / Documentaire / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313188, "title": "Joys And Glooms", "original_title": "Joys And Glooms", "slug_title": "joys-and-glooms", "date": "1921-12-22", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

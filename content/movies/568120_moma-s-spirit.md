@@ -1,0 +1,1 @@
+{"tmdb_id": 568120, "title": "Moma's Spirit", "original_title": "Moma's Spirit", "slug_title": "moma-s-spirit", "date": "2018-03-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4euG95YVnXehYDt2TWA0rpXHmU.jpg", "actors": [], "comments": [], "recommandations_id": []}

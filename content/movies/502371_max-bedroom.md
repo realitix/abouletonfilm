@@ -1,0 +1,1 @@
+{"tmdb_id": 502371, "title": "Max Bedroom", "original_title": "Max Bedroom", "slug_title": "max-bedroom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85xxZNIhao8aAAFEpLEN8pVxue0.jpg", "actors": [], "comments": [], "recommandations_id": []}

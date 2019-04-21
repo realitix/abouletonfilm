@@ -1,0 +1,1 @@
+{"tmdb_id": 307610, "title": "Pyasi Shaam", "original_title": "Pyasi Shaam", "slug_title": "pyasi-shaam", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

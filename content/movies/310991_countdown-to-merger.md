@@ -1,0 +1,1 @@
+{"tmdb_id": 310991, "title": "Countdown to Merger", "original_title": "Countdown to Merger", "slug_title": "countdown-to-merger", "date": "1996-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ov75NFZAQE0Nkyx9UOCDdfvthUL.jpg", "actors": [], "comments": [], "recommandations_id": []}

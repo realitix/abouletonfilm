@@ -1,0 +1,1 @@
+{"tmdb_id": 573075, "title": "Naruto cl\u00e1ssico", "original_title": "Naruto cl\u00e1ssico", "slug_title": "naruto-classico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

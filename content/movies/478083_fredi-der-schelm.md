@@ -1,0 +1,1 @@
+{"tmdb_id": 478083, "title": "Fredi, der Schelm", "original_title": "Fredi, der Schelm", "slug_title": "fredi-der-schelm", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alfred B\u00f6hm (himself)"], "comments": [], "recommandations_id": []}

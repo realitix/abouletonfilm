@@ -1,0 +1,1 @@
+{"tmdb_id": 114754, "title": "Crude Independence", "original_title": "Crude Independence", "slug_title": "crude-independence", "date": "2009-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xywBGsDkwVP7mWOJaGG81Hg3gX8.jpg", "actors": [], "comments": [], "recommandations_id": []}

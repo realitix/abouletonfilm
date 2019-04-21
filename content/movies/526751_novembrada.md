@@ -1,0 +1,1 @@
+{"tmdb_id": 526751, "title": "Novembrada", "original_title": "Novembrada", "slug_title": "novembrada", "date": "1998-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEpPA6zgGsx9O41Ezv59jb2e1MW.jpg", "actors": ["Lima Duarte ()", "Luiz Cutollo ()"], "comments": [], "recommandations_id": []}

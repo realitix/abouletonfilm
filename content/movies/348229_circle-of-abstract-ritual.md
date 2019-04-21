@@ -1,0 +1,1 @@
+{"tmdb_id": 348229, "title": "Circle of Abstract Ritual", "original_title": "Circle of Abstract Ritual", "slug_title": "circle-of-abstract-ritual", "date": "2014-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lusaPmCVZVKYq4p1vE0ESxRZ3kz.jpg", "actors": [], "comments": [], "recommandations_id": []}

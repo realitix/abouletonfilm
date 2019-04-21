@@ -1,0 +1,1 @@
+{"tmdb_id": 493639, "title": "A Nashville Christmas", "original_title": "A Nashville Christmas", "slug_title": "a-nashville-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pam Tillis ()", "Emmylou Harris ()", "Wynonna Judd ()", "Lorrie Morgan ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337358, "title": "The River", "original_title": "Le Fleuve", "slug_title": "the-river", "date": "2003-03-30", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stomy Bugsy (Alfa)", "Vincent Byrd Le Sage (Michel)", "Aur\u00e9lie Coulibaly (Marie)", "Doc Gyn\u00e9co (Zeka)"], "comments": [], "recommandations_id": []}

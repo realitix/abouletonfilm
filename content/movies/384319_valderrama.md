@@ -1,0 +1,1 @@
+{"tmdb_id": 384319, "title": "Valderrama", "original_title": "Valderrama", "slug_title": "valderrama", "date": "2016-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

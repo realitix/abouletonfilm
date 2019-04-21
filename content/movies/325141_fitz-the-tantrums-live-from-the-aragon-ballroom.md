@@ -1,0 +1,1 @@
+{"tmdb_id": 325141, "title": "Fitz & the Tantrums: Live From the Aragon Ballroom", "original_title": "Fitz & the Tantrums: Live From the Aragon Ballroom", "slug_title": "fitz-the-tantrums-live-from-the-aragon-ballroom", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

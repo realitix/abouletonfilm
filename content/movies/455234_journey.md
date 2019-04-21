@@ -1,0 +1,1 @@
+{"tmdb_id": 455234, "title": "Journey", "original_title": "Journey", "slug_title": "journey", "date": "2018-10-13", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5f3A60hVjnumAMUdvHTu4Yq6Hbw.jpg", "actors": [], "comments": [], "recommandations_id": []}

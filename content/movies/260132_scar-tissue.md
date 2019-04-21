@@ -1,0 +1,1 @@
+{"tmdb_id": 260132, "title": "Scar Tissue", "original_title": "Scar Tissue", "slug_title": "scar-tissue", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

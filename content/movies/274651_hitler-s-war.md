@@ -1,0 +1,1 @@
+{"tmdb_id": 274651, "title": "Hitler's War", "original_title": "Hitler's War", "slug_title": "hitler-s-war", "date": "2005-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/486gZU5dRZ5kSTpz6KizHil64B6.jpg", "actors": ["Patrick Allen (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 156500, "title": "Musical Farmer", "original_title": "Musical Farmer", "slug_title": "musical-farmer", "date": "1932-06-22", "genre": "Animation", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1SYQxhlZGKRbqr6ZwifAa4GMLGQ.jpg", "actors": [], "comments": [], "recommandations_id": [156510, 174274, 161840, 66831]}

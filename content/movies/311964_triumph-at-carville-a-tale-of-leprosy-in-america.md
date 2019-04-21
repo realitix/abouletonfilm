@@ -1,0 +1,1 @@
+{"tmdb_id": 311964, "title": "Triumph at Carville: A Tale of Leprosy in America", "original_title": "Triumph at Carville: A Tale of Leprosy in America", "slug_title": "triumph-at-carville-a-tale-of-leprosy-in-america", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

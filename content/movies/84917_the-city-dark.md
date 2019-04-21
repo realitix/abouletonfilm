@@ -1,0 +1,1 @@
+{"tmdb_id": 84917, "title": "The City Dark", "original_title": "The City Dark", "slug_title": "the-city-dark", "date": "2012-01-20", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/39pekDmLETfmrsvYhckXVtyldRa.jpg", "actors": [], "comments": [], "recommandations_id": [30873]}

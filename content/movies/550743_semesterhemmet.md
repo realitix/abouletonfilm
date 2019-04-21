@@ -1,0 +1,1 @@
+{"tmdb_id": 550743, "title": "Semesterhemmet", "original_title": "Semesterhemmet", "slug_title": "semesterhemmet", "date": "1981-07-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brita Jonsson ()", "Ebba Jonsson ()", "Ingrid Karlsson (s\u00e5ngerska och gitarrspelare)"], "comments": [], "recommandations_id": []}

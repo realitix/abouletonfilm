@@ -1,0 +1,1 @@
+{"tmdb_id": 537186, "title": "More than a Barbershop", "original_title": "More than a Barbershop", "slug_title": "more-than-a-barbershop", "date": "2016-03-05", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

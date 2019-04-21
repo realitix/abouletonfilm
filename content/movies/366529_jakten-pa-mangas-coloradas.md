@@ -1,0 +1,1 @@
+{"tmdb_id": 366529, "title": "Jakten p\u00e5 Mangas Coloradas", "original_title": "Jakten p\u00e5 Mangas Coloradas", "slug_title": "jakten-pa-mangas-coloradas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309930, "title": "Giovanna D'Arco: Teatro Comunale Di Bologna", "original_title": "Giovanna D'Arco: Teatro Comunale Di Bologna", "slug_title": "giovanna-d-arco-teatro-comunale-di-bologna", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 590830, "title": "The American Gangster", "original_title": "The American Gangster", "slug_title": "the-american-gangster", "date": "1992-07-01", "genre": "Documentaire / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dennis Farina (Narrator)"], "comments": [], "recommandations_id": []}

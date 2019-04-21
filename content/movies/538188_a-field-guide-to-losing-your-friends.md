@@ -1,0 +1,1 @@
+{"tmdb_id": 538188, "title": "A Field Guide to Losing Your Friends", "original_title": "A Field Guide to Losing Your Friends", "slug_title": "a-field-guide-to-losing-your-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

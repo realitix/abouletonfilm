@@ -1,0 +1,1 @@
+{"tmdb_id": 158485, "title": "Wacky-Zany Video from Kool-Aid", "original_title": "Wacky-Zany Video from Kool-Aid", "slug_title": "wacky-zany-video-from-kool-aid", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjAGAGTEb0wnXKzHIfWzUnItfpM.jpg", "actors": [], "comments": [], "recommandations_id": []}

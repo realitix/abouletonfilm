@@ -1,0 +1,1 @@
+{"tmdb_id": 320244, "title": "Echo and the Bunnymen: Live in Liverpool", "original_title": "Echo and the Bunnymen: Live in Liverpool", "slug_title": "echo-and-the-bunnymen-live-in-liverpool", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 560551, "title": "The Prince of Fashion", "original_title": "The Prince of Fashion", "slug_title": "the-prince-of-fashion", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Ferrell ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520062, "title": "Spencer Tracy on Film - A Biography", "original_title": "Spencer Tracy on Film - A Biography", "slug_title": "spencer-tracy-on-film-a-biography", "date": "2000-06-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barry Stigler (Narrator)"], "comments": [], "recommandations_id": []}

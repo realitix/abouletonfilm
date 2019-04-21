@@ -1,0 +1,1 @@
+{"tmdb_id": 73403, "title": "Dyrene P\u00e5 Landet (Chapper)", "original_title": "Dyrene P\u00e5 Landet (Chapper)", "slug_title": "dyrene-pa-landet-chapper", "date": "2007-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3phw4slNYdaMSv9hmCJPHPmpgXj.jpg", "actors": [], "comments": [], "recommandations_id": []}

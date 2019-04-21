@@ -1,0 +1,1 @@
+{"tmdb_id": 307790, "title": "Basti Aur Bazaar", "original_title": "Basti Aur Bazaar", "slug_title": "basti-aur-bazaar", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

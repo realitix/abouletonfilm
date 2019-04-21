@@ -1,0 +1,1 @@
+{"tmdb_id": 533649, "title": "Do As I Say", "original_title": "Do As I Say", "slug_title": "do-as-i-say", "date": "2008-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

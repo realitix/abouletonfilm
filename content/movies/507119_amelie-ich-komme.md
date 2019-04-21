@@ -1,0 +1,1 @@
+{"tmdb_id": 507119, "title": "Amelie, ich komme...", "original_title": "Amelie, ich komme...", "slug_title": "amelie-ich-komme", "date": "1986-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Towje Kleiner (Moses K\u00f6hler)", "Hans Noever (Kunde)"], "comments": [], "recommandations_id": []}

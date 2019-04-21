@@ -1,0 +1,1 @@
+{"tmdb_id": 462451, "title": "O Comprador de Ratos", "original_title": "O Comprador de Ratos", "slug_title": "o-comprador-de-ratos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYGx2Liryq1DjL6ELwJF3qCKhkq.jpg", "actors": [], "comments": [], "recommandations_id": []}

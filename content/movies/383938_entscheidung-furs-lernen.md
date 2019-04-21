@@ -1,0 +1,1 @@
+{"tmdb_id": 383938, "title": "Entscheidung f\u00fcrs Lernen", "original_title": "Entscheidung f\u00fcrs Lernen", "slug_title": "entscheidung-furs-lernen", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

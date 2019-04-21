@@ -1,0 +1,1 @@
+{"tmdb_id": 119262, "title": "Las Cuatro Narcas", "original_title": "Las Cuatro Narcas", "slug_title": "las-cuatro-narcas", "date": "1999-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edna Bolkan ()", "Diana Golden ()", "Patricia Rivera ()"], "comments": [], "recommandations_id": []}

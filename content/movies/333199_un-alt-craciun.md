@@ -1,0 +1,1 @@
+{"tmdb_id": 333199, "title": "Un alt craciun", "original_title": "Un alt craciun", "slug_title": "un-alt-craciun", "date": "2012-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

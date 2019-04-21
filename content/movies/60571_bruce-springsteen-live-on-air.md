@@ -1,0 +1,1 @@
+{"tmdb_id": 60571, "title": "Bruce Springsteen: Live On Air", "original_title": "Bruce Springsteen: Live On Air", "slug_title": "bruce-springsteen-live-on-air", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzQ5nF6tm4PfwKbfo9UdUkIDDld.jpg", "actors": [], "comments": [], "recommandations_id": []}

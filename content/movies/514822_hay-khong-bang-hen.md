@@ -1,0 +1,1 @@
+{"tmdb_id": 514822, "title": "Hay Kh\u00f4ng B\u1eb1ng H\u00ean", "original_title": "Hay Kh\u00f4ng B\u1eb1ng H\u00ean", "slug_title": "hay-khong-bang-hen", "date": "2016-01-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f7huadkOj716ETbGilk3Klv7rdU.jpg", "actors": [], "comments": [], "recommandations_id": []}

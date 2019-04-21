@@ -1,0 +1,1 @@
+{"tmdb_id": 350282, "title": "\uc774\uc6c3\uc9d1 \ub0a8\uc790", "original_title": "\uc774\uc6c3\uc9d1 \ub0a8\uc790", "slug_title": "iusjib-namja", "date": "1989-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

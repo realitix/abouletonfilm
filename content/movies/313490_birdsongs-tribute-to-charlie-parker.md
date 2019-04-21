@@ -1,0 +1,1 @@
+{"tmdb_id": 313490, "title": "Birdsongs: Tribute to Charlie Parker", "original_title": "Birdsongs: Tribute to Charlie Parker", "slug_title": "birdsongs-tribute-to-charlie-parker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

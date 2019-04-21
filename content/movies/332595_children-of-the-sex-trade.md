@@ -1,0 +1,1 @@
+{"tmdb_id": 332595, "title": "Children of the Sex Trade", "original_title": "Children of the Sex Trade", "slug_title": "children-of-the-sex-trade", "date": "2014-09-25", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zB4lpssJ2fTrbC1zPu7BI94jfDQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

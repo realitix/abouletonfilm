@@ -1,0 +1,1 @@
+{"tmdb_id": 450843, "title": "Light of Happiness", "original_title": "Laim\u0117s \u017eiburys", "slug_title": "light-of-happiness", "date": "2014-04-06", "genre": "Animation / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

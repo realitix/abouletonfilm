@@ -1,0 +1,1 @@
+{"tmdb_id": 439412, "title": "Hell and Heaven", "original_title": "Pieklo i niebo", "slug_title": "hell-and-heaven", "date": "1966-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqHGApj1nHgIFJolQO2qFQrOBGx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312468, "title": "Best Of E.O.F.T.  No. 6", "original_title": "Best Of E.O.F.T.  No. 6", "slug_title": "best-of-e-o-f-t-no-6", "date": "2010-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPTwqC1hIQh5bwpCs2FpW8ZFi35.jpg", "actors": [], "comments": [], "recommandations_id": []}

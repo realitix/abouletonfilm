@@ -1,0 +1,1 @@
+{"tmdb_id": 451446, "title": "Assepoester de musical", "original_title": "Assepoester de musical", "slug_title": "assepoester-de-musical", "date": "2014-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2h9J3tabot8VrPDmC3f3Eh3ZvKd.jpg", "actors": [], "comments": [], "recommandations_id": []}

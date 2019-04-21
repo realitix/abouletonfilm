@@ -1,0 +1,1 @@
+{"tmdb_id": 317309, "title": "The Nuclear Boy Scout", "original_title": "The Nuclear Boy Scout", "slug_title": "the-nuclear-boy-scout", "date": "2003-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311852, "title": "Freestyle Fanatiks", "original_title": "Freestyle Fanatiks", "slug_title": "freestyle-fanatiks", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

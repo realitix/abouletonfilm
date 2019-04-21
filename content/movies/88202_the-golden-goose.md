@@ -1,0 +1,1 @@
+{"tmdb_id": 88202, "title": "The Golden Goose", "original_title": "Die goldene Gans", "slug_title": "the-golden-goose", "date": "1944-01-01", "genre": "Animation / Fantastique", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xV1L5Mqb5rM5MfYNzlHvxlTJjXK.jpg", "actors": [], "comments": [], "recommandations_id": []}

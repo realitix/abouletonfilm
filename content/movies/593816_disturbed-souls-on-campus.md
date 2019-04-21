@@ -1,0 +1,1 @@
+{"tmdb_id": 593816, "title": "Disturbed Souls On Campus", "original_title": "Disturbed Souls On Campus", "slug_title": "disturbed-souls-on-campus", "date": "", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1w1I4n2C8o8c3lzHjdC58T2kl8q.jpg", "actors": [], "comments": [], "recommandations_id": []}

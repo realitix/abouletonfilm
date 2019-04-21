@@ -1,0 +1,1 @@
+{"tmdb_id": 555928, "title": "The Girl of the Dust Bin", "original_title": "La fille des chiffonniers", "slug_title": "the-girl-of-the-dust-bin", "date": "1922-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

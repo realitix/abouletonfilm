@@ -1,0 +1,1 @@
+{"tmdb_id": 402721, "title": "Lollipop", "original_title": "Lollipop", "slug_title": "lollipop", "date": "2010-10-21", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dC0nnZNmk9WEAjfmyTE8Q7QpK3k.jpg", "actors": [], "comments": [], "recommandations_id": []}

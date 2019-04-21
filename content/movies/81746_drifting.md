@@ -1,0 +1,1 @@
+{"tmdb_id": 81746, "title": "Drifting", "original_title": "Nagu'a", "slug_title": "drifting", "date": "1982-10-15", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hk3kYMwiFz4rcbbsW6iU37qxjKS.jpg", "actors": ["Jonathan Sagall ()", "Ami Traub ()", "Ben Levin ()"], "comments": [], "recommandations_id": []}

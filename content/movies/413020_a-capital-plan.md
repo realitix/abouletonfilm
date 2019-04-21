@@ -1,0 +1,1 @@
+{"tmdb_id": 413020, "title": "A Capital Plan", "original_title": "A Capital Plan", "slug_title": "a-capital-plan", "date": "1949-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/db2XFBwwvIAVELhErf2mSYSEpx0.jpg", "actors": [], "comments": [], "recommandations_id": []}

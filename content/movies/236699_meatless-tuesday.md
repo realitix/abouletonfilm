@@ -1,0 +1,1 @@
+{"tmdb_id": 236699, "title": "Meatless Tuesday", "original_title": "Meatless Tuesday", "slug_title": "meatless-tuesday", "date": "1943-12-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xc1hzf4nuAjey4GKYNy6umoy4XR.jpg", "actors": [], "comments": [], "recommandations_id": []}

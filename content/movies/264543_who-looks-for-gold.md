@@ -1,0 +1,1 @@
+{"tmdb_id": 264543, "title": "Who Looks for Gold?", "original_title": "Kdo hled\u00e1 zlat\u00e9 dno", "slug_title": "who-looks-for-gold", "date": "1975-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lsyFwmJ4QMw15uIB00LIMKlBEQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

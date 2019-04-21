@@ -1,0 +1,1 @@
+{"tmdb_id": 271642, "title": "The Murder Junkies: European Invasion 2005", "original_title": "The Murder Junkies: European Invasion 2005", "slug_title": "the-murder-junkies-european-invasion-2005", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

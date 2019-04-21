@@ -1,0 +1,1 @@
+{"tmdb_id": 557928, "title": "Method of a Serial Killer", "original_title": "Method of a Serial Killer", "slug_title": "method-of-a-serial-killer", "date": "2018-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eAXuAp0gQ9zd1rmDlTrRwsrtbzo.jpg", "actors": [], "comments": [], "recommandations_id": []}

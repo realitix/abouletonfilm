@@ -1,0 +1,1 @@
+{"tmdb_id": 419846, "title": "A Girl and Her Gun", "original_title": "A Girl and Her Gun", "slug_title": "a-girl-and-her-gun", "date": "2015-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aG15iDNnqVN6dHWFaDhrujRdsGr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 206149, "title": "Leo es Pardo", "original_title": "Leo es Pardo", "slug_title": "leo-es-pardo", "date": "1976-01-01", "genre": "Myst\u00e8re", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jyk7oTy8iy0XMee3vJcTM8tfis2.jpg", "actors": ["Maribel Ferrero ()"], "comments": [], "recommandations_id": []}

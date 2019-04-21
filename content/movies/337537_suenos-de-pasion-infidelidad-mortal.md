@@ -1,0 +1,1 @@
+{"tmdb_id": 337537, "title": "Suenos de Pasion Infidelidad Mortal", "original_title": "Suenos de Pasion Infidelidad Mortal", "slug_title": "suenos-de-pasion-infidelidad-mortal", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

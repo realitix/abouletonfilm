@@ -1,0 +1,1 @@
+{"tmdb_id": 464906, "title": "Play of Hostage", "original_title": "\uc778\uc9c8\uc758 \uadf9", "slug_title": "play-of-hostage", "date": "2017-07-15", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7NVAEEXzmdLRqj6tMjZRIEdguO.jpg", "actors": [], "comments": [], "recommandations_id": []}

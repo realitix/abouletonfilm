@@ -1,0 +1,1 @@
+{"tmdb_id": 297539, "title": "Cube and Room Drawings", "original_title": "Cube and Room Drawings", "slug_title": "cube-and-room-drawings", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

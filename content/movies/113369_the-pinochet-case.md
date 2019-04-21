@@ -1,0 +1,1 @@
+{"tmdb_id": 113369, "title": "The Pinochet Case", "original_title": "Le cas Pinochet", "slug_title": "the-pinochet-case", "date": "2001-10-10", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHXg9DsVdA3gHFaVhVIjTeyJPIn.jpg", "actors": [], "comments": [], "recommandations_id": []}

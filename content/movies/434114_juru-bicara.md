@@ -1,0 +1,1 @@
+{"tmdb_id": 434114, "title": "Juru Bicara", "original_title": "Juru Bicara", "slug_title": "juru-bicara", "date": "2016-12-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziIobCX6wOuvhdEbbaeVn4FODYE.jpg", "actors": ["Pandji Pragiwaksono ()"], "comments": [], "recommandations_id": []}

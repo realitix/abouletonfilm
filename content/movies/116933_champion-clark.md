@@ -1,0 +1,1 @@
+{"tmdb_id": 116933, "title": "Champion Clark", "original_title": "Champion Clark", "slug_title": "champion-clark", "date": "1991-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xP2hWcmmvwNnnqsKsiPpt4mY4vy.jpg", "actors": [], "comments": [], "recommandations_id": []}

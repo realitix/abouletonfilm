@@ -1,0 +1,1 @@
+{"tmdb_id": 205652, "title": "Hector's Hectic Life", "original_title": "Hector's Hectic Life", "slug_title": "hector-s-hectic-life", "date": "1948-11-19", "genre": "", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IOoa9RsOpwaySHAQUwZXJ1ifnp.jpg", "actors": [], "comments": [], "recommandations_id": [62937, 222683, 146058, 145931]}

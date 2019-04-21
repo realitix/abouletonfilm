@@ -1,0 +1,1 @@
+{"tmdb_id": 267317, "title": "Seixanta i el sexe", "original_title": "Seixanta i el sexe", "slug_title": "seixanta-i-el-sexe", "date": "2010-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

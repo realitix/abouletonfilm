@@ -1,0 +1,1 @@
+{"tmdb_id": 366756, "title": "District Zero", "original_title": "District Zero", "slug_title": "district-zero", "date": "2015-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbTWQi3aDlS13emU7g3m4V1HR7c.jpg", "actors": [], "comments": [], "recommandations_id": []}

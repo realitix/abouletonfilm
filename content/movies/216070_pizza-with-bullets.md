@@ -1,0 +1,1 @@
+{"tmdb_id": 216070, "title": "PIzza with Bullets", "original_title": "PIzza with Bullets", "slug_title": "pizza-with-bullets", "date": "2012-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WpwjaKhsHEhbYEzbKK6mEUVNov.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397474, "title": "The Centre of the Universe", "original_title": "The Centre of the Universe", "slug_title": "the-centre-of-the-universe", "date": "2011-06-03", "genre": "Com\u00e9die / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 572281, "title": "The Favorite", "original_title": "The Favorite", "slug_title": "the-favorite", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349608, "title": "\ubc14\ubcf4\uc2a4\ub7ec\uc6b4 \uc5ec\uc790", "original_title": "\ubc14\ubcf4\uc2a4\ub7ec\uc6b4 \uc5ec\uc790", "slug_title": "baboseureoun-yeoja", "date": "1984-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

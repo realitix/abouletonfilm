@@ -1,0 +1,1 @@
+{"tmdb_id": 496426, "title": "Extinct or Alive: Tasmanian Tiger", "original_title": "Extinct or Alive: Tasmanian Tiger", "slug_title": "extinct-or-alive-tasmanian-tiger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LViVlGTP5eNfVTgjU9CN01bp0Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

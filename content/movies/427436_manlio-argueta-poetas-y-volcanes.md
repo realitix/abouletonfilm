@@ -1,0 +1,1 @@
+{"tmdb_id": 427436, "title": "Manlio Argueta: poetas y volcanes", "original_title": "Manlio Argueta: poetas y volcanes", "slug_title": "manlio-argueta-poetas-y-volcanes", "date": "2011-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

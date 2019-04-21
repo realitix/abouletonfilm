@@ -1,0 +1,1 @@
+{"tmdb_id": 340297, "title": "Chronicles of a Lying Spirit (by Kelly Gabron)", "original_title": "Chronicles of a Lying Spirit (by Kelly Gabron)", "slug_title": "chronicles-of-a-lying-spirit-by-kelly-gabron", "date": "1992-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

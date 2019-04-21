@@ -1,0 +1,1 @@
+{"tmdb_id": 488134, "title": "Death to Sister Mary", "original_title": "Death to Sister Mary", "slug_title": "death-to-sister-mary", "date": "1974-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

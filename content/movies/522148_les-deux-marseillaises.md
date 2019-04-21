@@ -1,0 +1,1 @@
+{"tmdb_id": 522148, "title": "Les deux marseillaises", "original_title": "Les deux marseillaises", "slug_title": "les-deux-marseillaises", "date": "1968-07-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

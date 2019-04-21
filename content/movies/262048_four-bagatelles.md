@@ -1,0 +1,1 @@
+{"tmdb_id": 262048, "title": "Four Bagatelles", "original_title": "N\u00e9gy bagatell", "slug_title": "four-bagatelles", "date": "1975-03-08", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32JMsz0WpUJL3bPDLbrHvzxTaxe.jpg", "actors": [], "comments": [], "recommandations_id": []}

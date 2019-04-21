@@ -1,0 +1,1 @@
+{"tmdb_id": 295484, "title": "The Barefoot Artist", "original_title": "The Barefoot Artist", "slug_title": "the-barefoot-artist", "date": "2014-12-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oGJcPWdTtj4jExkjaZoqVq6wEtM.jpg", "actors": [], "comments": [], "recommandations_id": []}

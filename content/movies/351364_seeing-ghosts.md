@@ -1,0 +1,1 @@
+{"tmdb_id": 351364, "title": "Seeing Ghosts", "original_title": "Seeing Ghosts", "slug_title": "seeing-ghosts", "date": "1948-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

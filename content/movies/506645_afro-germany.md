@@ -1,0 +1,1 @@
+{"tmdb_id": 506645, "title": "Afro.Germany", "original_title": "Afro.Deutschland", "slug_title": "afro-germany", "date": "2017-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerald Asamoah (Himself)", "Samy Deluxe (Himself)", "Jana Pareigis (Herself)"], "comments": [], "recommandations_id": []}

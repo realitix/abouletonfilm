@@ -1,0 +1,1 @@
+{"tmdb_id": 498404, "title": "Off Gauge Temperature", "original_title": "Temperat\u016bra ne pagal Celsij\u0173", "slug_title": "off-gauge-temperature", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tomas Petreikis ()"], "comments": [], "recommandations_id": []}

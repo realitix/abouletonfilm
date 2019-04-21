@@ -1,0 +1,1 @@
+{"tmdb_id": 310489, "title": "Barbara Hendricks: Artist of Life", "original_title": "Barbara Hendricks: Artist of Life", "slug_title": "barbara-hendricks-artist-of-life", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 375610, "title": "As Panteras - Amor Bota Tudo!", "original_title": "As Panteras - Amor Bota Tudo!", "slug_title": "as-panteras-amor-bota-tudo", "date": "2010-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wDpSXdIbhpeKyuKyjxdZZliQyJ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

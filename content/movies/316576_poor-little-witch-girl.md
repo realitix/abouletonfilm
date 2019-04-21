@@ -1,0 +1,1 @@
+{"tmdb_id": 316576, "title": "Poor Little Witch Girl", "original_title": "Poor Little Witch Girl", "slug_title": "poor-little-witch-girl", "date": "1965-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539392, "title": "Hansa Studios: By the Wall 1976-90", "original_title": "Hansa Studios: By the Wall 1976-90", "slug_title": "hansa-studios-by-the-wall-1976-90", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sC7BwjB2GJyuOXDgS2PhxKx80E1.jpg", "actors": [], "comments": [], "recommandations_id": []}

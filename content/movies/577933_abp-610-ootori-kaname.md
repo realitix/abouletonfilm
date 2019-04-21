@@ -1,0 +1,1 @@
+{"tmdb_id": 577933, "title": "ABP-610 (Ootori Kaname)", "original_title": "ABP-610 (Ootori Kaname)", "slug_title": "abp-610-ootori-kaname", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4L4Tz8K5zZbhJWr5YDQRJ7DwsZm.jpg", "actors": ["Ootori Kaname (Ootori Kaname)"], "comments": [], "recommandations_id": []}

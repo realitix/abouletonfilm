@@ -1,0 +1,1 @@
+{"tmdb_id": 81777, "title": "Neutral Territory", "original_title": "Neutral Territory", "slug_title": "neutral-territory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y649TQ7C0wSVxSyvApCiUIW2KtV.jpg", "actors": [], "comments": [], "recommandations_id": []}

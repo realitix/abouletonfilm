@@ -1,0 +1,1 @@
+{"tmdb_id": 50608, "title": "Johnny Lingo", "original_title": "Johnny Lingo", "slug_title": "johnny-lingo", "date": "1969-01-01", "genre": "Drame / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oV62ZYK2yLDFv57tAbzaCws1qJR.jpg", "actors": [], "comments": [], "recommandations_id": [13066]}

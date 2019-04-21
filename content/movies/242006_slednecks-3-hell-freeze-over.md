@@ -1,0 +1,1 @@
+{"tmdb_id": 242006, "title": "Slednecks 3: Hell Freeze Over", "original_title": "Slednecks 3: Hell Freeze Over", "slug_title": "slednecks-3-hell-freeze-over", "date": "2000-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3osvLMSG7BRbbagZvBthrO7JhvF.jpg", "actors": [], "comments": [], "recommandations_id": []}

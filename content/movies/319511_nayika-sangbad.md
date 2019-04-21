@@ -1,0 +1,1 @@
+{"tmdb_id": 319511, "title": "Nayika Sangbad", "original_title": "Nayika Sangbad", "slug_title": "nayika-sangbad", "date": "2013-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A0zNfDglG5bJSEvn4WTUG5XrBLL.jpg", "actors": [], "comments": [], "recommandations_id": []}

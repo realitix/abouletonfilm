@@ -1,0 +1,1 @@
+{"tmdb_id": 98356, "title": "Vaishali", "original_title": "Vaishali", "slug_title": "vaishali", "date": "2011-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9tSFIhqAZbPdPumjwYyWOalb0QH.jpg", "actors": [], "comments": [], "recommandations_id": []}

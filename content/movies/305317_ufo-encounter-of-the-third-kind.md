@@ -1,0 +1,1 @@
+{"tmdb_id": 305317, "title": "UFO Encounter of The Third Kind", "original_title": "UFO Encounter of The Third Kind", "slug_title": "ufo-encounter-of-the-third-kind", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

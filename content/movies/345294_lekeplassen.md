@@ -1,0 +1,1 @@
+{"tmdb_id": 345294, "title": "Lekeplassen", "original_title": "Lekeplassen", "slug_title": "lekeplassen", "date": "2004-05-31", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eindride Eidsvold (Mann)", "Siv Klynderud (Dame)", "Mathis Toln\u00e6s (Gutt 1)", "Fredrik Wessel (Gutt 2)"], "comments": [], "recommandations_id": []}

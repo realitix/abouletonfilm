@@ -1,0 +1,1 @@
+{"tmdb_id": 352865, "title": "Kill the Shogun", "original_title": "Mujang haeje", "slug_title": "kill-the-shogun", "date": "1975-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1HEW8Ya9lruTNbk8ovWn8O4SvH4.jpg", "actors": ["Bae Su-chun ()"], "comments": [], "recommandations_id": []}

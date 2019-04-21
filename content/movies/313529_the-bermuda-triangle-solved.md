@@ -1,0 +1,1 @@
+{"tmdb_id": 313529, "title": "The Bermuda Triangle Solved?", "original_title": "The Bermuda Triangle Solved?", "slug_title": "the-bermuda-triangle-solved", "date": "2001-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

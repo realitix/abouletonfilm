@@ -1,0 +1,1 @@
+{"tmdb_id": 293414, "title": "Touched by a Killer", "original_title": "Touched by a Killer", "slug_title": "touched-by-a-killer", "date": "2001-01-01", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isabella Hofmann ()", "James Wilder ()", "Erin Gray ()", "Louise Fletcher ()"], "comments": [], "recommandations_id": []}

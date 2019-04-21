@@ -1,0 +1,1 @@
+{"tmdb_id": 462159, "title": "Lance Lizardi", "original_title": "Lance Lizardi", "slug_title": "lance-lizardi", "date": "2017-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dhlcfUfHWnuRTlA8y31D1cR64fZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

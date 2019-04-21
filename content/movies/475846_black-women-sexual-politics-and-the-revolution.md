@@ -1,0 +1,1 @@
+{"tmdb_id": 475846, "title": "Black Women, Sexual Politics and the Revolution", "original_title": "Black Women, Sexual Politics and the Revolution", "slug_title": "black-women-sexual-politics-and-the-revolution", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

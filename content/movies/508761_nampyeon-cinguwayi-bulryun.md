@@ -1,0 +1,1 @@
+{"tmdb_id": 508761, "title": "\ub0a8\ud3b8 \uce5c\uad6c\uc640\uc758 \ubd88\ub95c", "original_title": "\ub0a8\ud3b8 \uce5c\uad6c\uc640\uc758 \ubd88\ub95c", "slug_title": "nampyeon-cinguwayi-bulryun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

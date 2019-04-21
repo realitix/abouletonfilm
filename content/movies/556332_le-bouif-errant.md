@@ -1,0 +1,1 @@
+{"tmdb_id": 556332, "title": "Le Bouif errant", "original_title": "Le Bouif errant", "slug_title": "le-bouif-errant", "date": "1926-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

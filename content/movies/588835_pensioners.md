@@ -1,0 +1,1 @@
+{"tmdb_id": 588835, "title": "Pensioners", "original_title": "Pension\u00e4rerna", "slug_title": "pensioners", "date": "2018-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

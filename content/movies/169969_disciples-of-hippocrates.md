@@ -1,0 +1,1 @@
+{"tmdb_id": 169969, "title": "Disciples of Hippocrates", "original_title": "Hipokuratesu-tachi", "slug_title": "disciples-of-hippocrates", "date": "1980-11-21", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i2MqVlGZiVWlLEOafU1crN8ZjEH.jpg", "actors": [], "comments": [], "recommandations_id": []}

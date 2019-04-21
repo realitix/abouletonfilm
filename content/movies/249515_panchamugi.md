@@ -1,0 +1,1 @@
+{"tmdb_id": 249515, "title": "Panchamugi", "original_title": "Panchamugi", "slug_title": "panchamugi", "date": "2010-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anushka Shetty ()", "Nassar ()", "Samrat Vijay ()", "Pradeep Ram Singh Rawat ()"], "comments": [], "recommandations_id": []}

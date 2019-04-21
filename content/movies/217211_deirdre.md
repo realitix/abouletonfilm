@@ -1,0 +1,1 @@
+{"tmdb_id": 217211, "title": "Deirdre", "original_title": "Deirdre", "slug_title": "deirdre", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cyril Cusack ()", "T. P. McKenna ()", "Fionnula Flanagan ()"], "comments": [], "recommandations_id": []}

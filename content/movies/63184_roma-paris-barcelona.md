@@ -1,0 +1,1 @@
+{"tmdb_id": 63184, "title": "Roma-Paris-Barcelona", "original_title": "Roma-Paris-Barcelona", "slug_title": "roma-paris-barcelona", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giulio Scarpati (Renato)", "Emilio Bonucci (Francesco)", "Enrica Origo (Lucilla)"], "comments": [], "recommandations_id": []}

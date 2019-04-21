@@ -1,0 +1,1 @@
+{"tmdb_id": 252621, "title": "Parking Space", "original_title": "Parking Space", "slug_title": "parking-space", "date": "1933-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

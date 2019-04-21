@@ -1,0 +1,1 @@
+{"tmdb_id": 337579, "title": "Pilates for Indie Rockers", "original_title": "Pilates for Indie Rockers", "slug_title": "pilates-for-indie-rockers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36g9Ficyf1yCcH7owTlpXmX6vAK.jpg", "actors": [], "comments": [], "recommandations_id": []}

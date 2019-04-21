@@ -1,0 +1,1 @@
+{"tmdb_id": 379012, "title": "Vitamin Pink", "original_title": "Vitamin Pink", "slug_title": "vitamin-pink", "date": "1966-04-05", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2CLY65hnjP83LpmhDr530uHOTq.jpg", "actors": [], "comments": [], "recommandations_id": []}

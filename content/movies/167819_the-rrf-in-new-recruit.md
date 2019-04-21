@@ -1,0 +1,1 @@
+{"tmdb_id": 167819, "title": "The RRF in New Recruit", "original_title": "The RRF in New Recruit", "slug_title": "the-rrf-in-new-recruit", "date": "2010-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucec7HP3DqUICc8LkHEba4qtrAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556138, "title": "Comment j'ai tu\u00e9 mon enfant", "original_title": "Comment j'ai tu\u00e9 mon enfant", "slug_title": "comment-j-ai-tue-mon-enfant", "date": "1925-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

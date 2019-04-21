@@ -1,0 +1,1 @@
+{"tmdb_id": 284961, "title": "A Look at Madness", "original_title": "Regards sur la folie", "slug_title": "a-look-at-madness", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michel Bouquet ()"], "comments": [], "recommandations_id": []}

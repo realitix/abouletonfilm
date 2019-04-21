@@ -1,0 +1,1 @@
+{"tmdb_id": 212261, "title": "Fotbollskr\u00f6nikan EM 2012", "original_title": "Fotbollskr\u00f6nikan EM 2012", "slug_title": "fotbollskronikan-em-2012", "date": "2012-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YjksSpazSyJAHP3CNkAetjKkkw.jpg", "actors": [], "comments": [], "recommandations_id": []}

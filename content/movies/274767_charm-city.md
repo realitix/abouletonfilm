@@ -1,0 +1,1 @@
+{"tmdb_id": 274767, "title": "Charm City", "original_title": "Charm City", "slug_title": "charm-city", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

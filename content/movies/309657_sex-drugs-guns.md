@@ -1,0 +1,1 @@
+{"tmdb_id": 309657, "title": "Sex Drugs Guns", "original_title": "Sex Drugs Guns", "slug_title": "sex-drugs-guns", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

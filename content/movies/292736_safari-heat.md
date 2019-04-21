@@ -1,0 +1,1 @@
+{"tmdb_id": 292736, "title": "Safari Heat", "original_title": "Safari Heat", "slug_title": "safari-heat", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

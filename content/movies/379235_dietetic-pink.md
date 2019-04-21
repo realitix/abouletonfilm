@@ -1,0 +1,1 @@
+{"tmdb_id": 379235, "title": "Dietetic Pink", "original_title": "Dietetic Pink", "slug_title": "dietetic-pink", "date": "1978-11-11", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jCAeEeAtgwOiOXP28B8eseJz1jw.jpg", "actors": [], "comments": [], "recommandations_id": []}

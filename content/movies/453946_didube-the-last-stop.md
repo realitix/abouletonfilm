@@ -1,0 +1,1 @@
+{"tmdb_id": 453946, "title": "Didube, The Last Stop", "original_title": "Didube, bolo gachereba", "slug_title": "didube-the-last-stop", "date": "2017-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69Y5A8welJHByZyBXULqydN7ePF.jpg", "actors": [], "comments": [], "recommandations_id": []}

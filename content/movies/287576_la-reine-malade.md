@@ -1,0 +1,1 @@
+{"tmdb_id": 287576, "title": "La reine malade", "original_title": "La reine malade", "slug_title": "la-reine-malade", "date": "2011-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

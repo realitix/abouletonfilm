@@ -1,0 +1,1 @@
+{"tmdb_id": 388548, "title": "Alma do Brasil", "original_title": "Alma do Brasil", "slug_title": "alma-do-brasil", "date": "1931-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bRvKR4DKpHU7QfcaKIWA3Fx2FdT.jpg", "actors": ["L\u00edbero Luxardo (Coronel Camis\u00e3o)"], "comments": [], "recommandations_id": []}

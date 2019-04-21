@@ -1,0 +1,1 @@
+{"tmdb_id": 449900, "title": "Emerald Necklace", "original_title": "Emerald Necklace", "slug_title": "emerald-necklace", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryuzqRWv18uH8pNpPx3b12ECuc.jpg", "actors": [], "comments": [], "recommandations_id": []}

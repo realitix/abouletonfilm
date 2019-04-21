@@ -1,0 +1,1 @@
+{"tmdb_id": 344993, "title": "De vil ta jentene v\u00e5re!", "original_title": "De vil ta jentene v\u00e5re!", "slug_title": "de-vil-ta-jentene-vare", "date": "1991-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tron \u00d8grim (Narrator)"], "comments": [], "recommandations_id": []}

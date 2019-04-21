@@ -1,0 +1,1 @@
+{"tmdb_id": 522955, "title": "La chanson du mal aim\u00e9", "original_title": "La chanson du mal aim\u00e9", "slug_title": "la-chanson-du-mal-aime", "date": "1981-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gWV5EkmPLZeqUB7xxpqWi6rBOEG.jpg", "actors": [], "comments": [], "recommandations_id": []}

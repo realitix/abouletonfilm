@@ -1,0 +1,1 @@
+{"tmdb_id": 327814, "title": "Antar the Black Prince", "original_title": "Antar bin chaddad", "slug_title": "antar-the-black-prince", "date": "1961-01-02", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anEyPQ7H7awgVirYcWObUj17JbK.jpg", "actors": [], "comments": [], "recommandations_id": []}

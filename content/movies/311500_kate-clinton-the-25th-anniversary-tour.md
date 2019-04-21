@@ -1,0 +1,1 @@
+{"tmdb_id": 311500, "title": "Kate Clinton: The 25th Anniversary Tour", "original_title": "Kate Clinton: The 25th Anniversary Tour", "slug_title": "kate-clinton-the-25th-anniversary-tour", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

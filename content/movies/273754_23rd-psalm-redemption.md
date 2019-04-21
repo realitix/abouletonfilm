@@ -1,0 +1,1 @@
+{"tmdb_id": 273754, "title": "23rd Psalm: Redemption", "original_title": "23rd Psalm: Redemption", "slug_title": "23rd-psalm-redemption", "date": "2013-05-21", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

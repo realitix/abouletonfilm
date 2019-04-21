@@ -1,0 +1,1 @@
+{"tmdb_id": 340147, "title": "Mega Disaster", "original_title": "Mega Disaster", "slug_title": "mega-disaster", "date": "2005-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKzNSlTgCdvRpcVRgTmBWyfeoTc.jpg", "actors": [], "comments": [], "recommandations_id": []}

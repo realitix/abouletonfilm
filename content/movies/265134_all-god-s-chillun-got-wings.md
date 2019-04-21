@@ -1,0 +1,1 @@
+{"tmdb_id": 265134, "title": "All God's Chillun' Got Wings", "original_title": "All God's Chillun' Got Wings", "slug_title": "all-god-s-chillun-got-wings", "date": "1946-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Adams ()", "Connie Smith ()", "Pauline Henriques ()"], "comments": [], "recommandations_id": []}

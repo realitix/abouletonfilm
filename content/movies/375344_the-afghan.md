@@ -1,0 +1,1 @@
+{"tmdb_id": 375344, "title": "The Afghan", "original_title": "The Afghan", "slug_title": "the-afghan", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5wYEROMHpxS0YJaici9RAtaLG4n.jpg", "actors": [], "comments": [], "recommandations_id": []}

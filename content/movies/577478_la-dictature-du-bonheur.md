@@ -1,0 +1,1 @@
+{"tmdb_id": 577478, "title": "La dictature du bonheur", "original_title": "La dictature du bonheur", "slug_title": "la-dictature-du-bonheur", "date": "2019-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie-Claude \u00c9lie-Morin (Herself)"], "comments": [], "recommandations_id": []}

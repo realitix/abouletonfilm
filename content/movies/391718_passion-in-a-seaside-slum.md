@@ -1,0 +1,1 @@
+{"tmdb_id": 391718, "title": "Passion in a Seaside Slum", "original_title": "Passion in a Seaside Slum", "slug_title": "passion-in-a-seaside-slum", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Taylor Mead (The Faggot)"], "comments": [], "recommandations_id": []}

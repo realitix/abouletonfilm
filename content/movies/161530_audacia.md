@@ -1,0 +1,1 @@
+{"tmdb_id": 161530, "title": "Aud\u00e1cia!", "original_title": "Aud\u00e1cia!", "slug_title": "audacia", "date": "1970-08-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSRI7CtgnP4zUognLnb6HRQtHgY.jpg", "actors": [], "comments": [], "recommandations_id": []}

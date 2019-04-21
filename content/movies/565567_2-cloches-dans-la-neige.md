@@ -1,0 +1,1 @@
+{"tmdb_id": 565567, "title": "2 cloches dans la neige", "original_title": "2 cloches dans la neige", "slug_title": "2-cloches-dans-la-neige", "date": "1977-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97UL63ov9S0wedyt38CCXDaXSm0.jpg", "actors": [], "comments": [], "recommandations_id": []}

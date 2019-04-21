@@ -1,0 +1,1 @@
+{"tmdb_id": 343069, "title": "Care Bears", "original_title": "Care Bears", "slug_title": "care-bears", "date": "1988-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uchsWFBs91H03KupXfe80PFcPUH.jpg", "actors": [], "comments": [], "recommandations_id": []}

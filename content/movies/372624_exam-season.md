@@ -1,0 +1,1 @@
+{"tmdb_id": 372624, "title": "Exam Season", "original_title": "Exam Season", "slug_title": "exam-season", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fares Akhaoui (Struggling student)"], "comments": [], "recommandations_id": []}

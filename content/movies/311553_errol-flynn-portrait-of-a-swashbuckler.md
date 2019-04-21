@@ -1,0 +1,1 @@
+{"tmdb_id": 311553, "title": "Errol Flynn: Portrait of a Swashbuckler", "original_title": "Errol Flynn: Portrait of a Swashbuckler", "slug_title": "errol-flynn-portrait-of-a-swashbuckler", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318705, "title": "Spizzenergi: Where's Captain Kirk?: Spizzenergi Live", "original_title": "Spizzenergi: Where's Captain Kirk?: Spizzenergi Live", "slug_title": "spizzenergi-where-s-captain-kirk-spizzenergi-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

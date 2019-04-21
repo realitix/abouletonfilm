@@ -1,0 +1,1 @@
+{"tmdb_id": 347445, "title": "The Wild Gang", "original_title": "La palomilla salvaje", "slug_title": "the-wild-gang", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Vega Rubio ()", "Reinaldo Cruz ()"], "comments": [], "recommandations_id": []}

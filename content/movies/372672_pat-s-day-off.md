@@ -1,0 +1,1 @@
+{"tmdb_id": 372672, "title": "Pat's Day Off", "original_title": "Pat's Day Off", "slug_title": "pat-s-day-off", "date": "1912-12-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Sennett (Pat the Cop)", "Mabel Normand (Bridget, His Wife)", "Fred Mace (Man in Overalls)"], "comments": [], "recommandations_id": []}

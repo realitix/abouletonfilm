@@ -1,0 +1,1 @@
+{"tmdb_id": 536249, "title": "Bolshoi Ballet '67", "original_title": "Sekret uspekha", "slug_title": "bolshoi-ballet-67", "date": "1965-03-17", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

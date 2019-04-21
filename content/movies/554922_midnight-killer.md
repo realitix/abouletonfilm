@@ -1,0 +1,1 @@
+{"tmdb_id": 554922, "title": "Midnight Killer", "original_title": "Asesino de Media-Noche", "slug_title": "midnight-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Xorge Noble (Roy)", "Rodolfo Infante (Carlos)"], "comments": [], "recommandations_id": []}

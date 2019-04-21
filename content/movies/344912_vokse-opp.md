@@ -1,0 +1,1 @@
+{"tmdb_id": 344912, "title": "Vokse opp", "original_title": "Vokse opp", "slug_title": "vokse-opp", "date": "1967-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Haakon Breien ()", "Sigurd Bruheim ()", "Ola Brun ()", "Mai Karin Gjerde ()"], "comments": [], "recommandations_id": []}

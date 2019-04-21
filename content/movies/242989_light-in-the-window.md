@@ -1,0 +1,1 @@
+{"tmdb_id": 242989, "title": "Light in the Window", "original_title": "Light in the Window", "slug_title": "light-in-the-window", "date": "1952-09-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

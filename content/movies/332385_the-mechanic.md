@@ -1,0 +1,1 @@
+{"tmdb_id": 332385, "title": "The Mechanic", "original_title": "The Mechanic", "slug_title": "the-mechanic", "date": "2012-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/laGjsZibqRsdAzz8ip79KHUfurt.jpg", "actors": ["Mike Rutherford (Himself)"], "comments": [], "recommandations_id": []}

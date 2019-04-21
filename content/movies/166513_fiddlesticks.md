@@ -1,0 +1,1 @@
+{"tmdb_id": 166513, "title": "Fiddlesticks", "original_title": "Fiddlesticks", "slug_title": "fiddlesticks", "date": "1930-08-15", "genre": "Animation", "score": "4.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sM61y98eUbs3uz84Y29gaCFv3WB.jpg", "actors": [], "comments": [], "recommandations_id": [226810, 174517, 163145, 188934]}

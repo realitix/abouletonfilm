@@ -1,0 +1,1 @@
+{"tmdb_id": 460222, "title": "Rogue Male: The Making of 'Man Hunt'", "original_title": "Rogue Male: The Making of 'Man Hunt'", "slug_title": "rogue-male-the-making-of-man-hunt", "date": "2009-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

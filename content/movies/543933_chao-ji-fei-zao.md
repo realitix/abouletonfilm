@@ -1,0 +1,1 @@
+{"tmdb_id": 543933, "title": "\u8d85\u7ea7\u80a5\u7682", "original_title": "\u8d85\u7ea7\u80a5\u7682", "slug_title": "chao-ji-fei-zao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

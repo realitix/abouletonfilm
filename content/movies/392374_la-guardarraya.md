@@ -1,0 +1,1 @@
+{"tmdb_id": 392374, "title": "La guardarraya", "original_title": "La guardarraya", "slug_title": "la-guardarraya", "date": "1964-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNkpvgoMFzdEvIocEguu4XrkzbG.jpg", "actors": ["Roberto Rivera Negr\u00f3n ()"], "comments": [], "recommandations_id": []}

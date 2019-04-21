@@ -1,0 +1,1 @@
+{"tmdb_id": 533323, "title": "Dreamer", "original_title": "Dreamer", "slug_title": "dreamer", "date": "2018-06-07", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBQaoGit8Ad54angFqebrYtv1zZ.jpg", "actors": ["Eddie Mujica (John)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310487, "title": "For Love's Sake", "original_title": "For Love's Sake", "slug_title": "for-love-s-sake", "date": "2013-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

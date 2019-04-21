@@ -1,0 +1,1 @@
+{"tmdb_id": 211811, "title": "Culture", "original_title": "Culture", "slug_title": "culture", "date": "1999-01-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzLQ2HpeEvpTHy07TDSfjObr2jo.jpg", "actors": ["Ari Gold (Culture)"], "comments": [], "recommandations_id": []}

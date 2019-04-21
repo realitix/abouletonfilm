@@ -1,0 +1,1 @@
+{"tmdb_id": 410325, "title": "DTS Blu-Ray Music Demo Disc 13", "original_title": "DTS Blu-Ray Music Demo Disc 13", "slug_title": "dts-blu-ray-music-demo-disc-13", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AodfrIOtu6JZtAP7buAa2llr8p6.jpg", "actors": [], "comments": [], "recommandations_id": []}

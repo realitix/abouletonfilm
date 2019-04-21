@@ -1,0 +1,1 @@
+{"tmdb_id": 519621, "title": "Universidade em Crise", "original_title": "Universidade em Crise", "slug_title": "universidade-em-crise", "date": "1965-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ifIEhP8Zej0xFfZQ6BSlXbAeeer.jpg", "actors": [], "comments": [], "recommandations_id": []}

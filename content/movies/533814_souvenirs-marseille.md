@@ -1,0 +1,1 @@
+{"tmdb_id": 533814, "title": "Souvenirs/Marseille", "original_title": "Souvenirs/Marseille", "slug_title": "souvenirs-marseille", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b1vcQzQsOHsqcDWfqExmLNTjXDZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301665, "title": "Premada Kanike", "original_title": "Premada Kanike", "slug_title": "premada-kanike", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

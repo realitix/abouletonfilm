@@ -1,0 +1,1 @@
+{"tmdb_id": 530764, "title": "The Price of Duty", "original_title": "The Price of Duty", "slug_title": "the-price-of-duty", "date": "", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

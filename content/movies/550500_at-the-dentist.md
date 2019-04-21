@@ -1,0 +1,1 @@
+{"tmdb_id": 550500, "title": "At the Dentist", "original_title": "Chez le dentiste", "slug_title": "at-the-dentist", "date": "1907-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

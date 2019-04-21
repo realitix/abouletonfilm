@@ -1,0 +1,1 @@
+{"tmdb_id": 548856, "title": "Tableaux Electroniques", "original_title": "Tableaux Electroniques", "slug_title": "tableaux-electroniques", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

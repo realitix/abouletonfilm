@@ -1,0 +1,1 @@
+{"tmdb_id": 253457, "title": "Barbershop Blues", "original_title": "Barbershop Blues", "slug_title": "barbershop-blues", "date": "2004-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

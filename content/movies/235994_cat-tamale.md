@@ -1,0 +1,1 @@
+{"tmdb_id": 235994, "title": "Cat Tamale", "original_title": "Cat Tamale", "slug_title": "cat-tamale", "date": "1951-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 370597, "title": "Pieces and Love All to Hell", "original_title": "Pieces and Love All to Hell", "slug_title": "pieces-and-love-all-to-hell", "date": "2011-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

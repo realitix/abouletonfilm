@@ -1,0 +1,1 @@
+{"tmdb_id": 271575, "title": "Fighting Back", "original_title": "Fighting Back", "slug_title": "fighting-back", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

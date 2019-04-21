@@ -1,0 +1,1 @@
+{"tmdb_id": 207198, "title": "Los cuates de Sinaloa", "original_title": "Los cuates de Sinaloa", "slug_title": "los-cuates-de-sinaloa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eK906vl7J2IYt19FlwkP0Cx3E93.jpg", "actors": [], "comments": [], "recommandations_id": []}

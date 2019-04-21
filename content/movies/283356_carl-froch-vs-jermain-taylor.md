@@ -1,0 +1,1 @@
+{"tmdb_id": 283356, "title": "Carl Froch vs. Jermain Taylor", "original_title": "Carl Froch vs. Jermain Taylor", "slug_title": "carl-froch-vs-jermain-taylor", "date": "2009-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pecUzKc79yM6vt2nR1Of7fV5Cly.jpg", "actors": [], "comments": [], "recommandations_id": []}

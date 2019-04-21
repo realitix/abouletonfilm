@@ -1,0 +1,1 @@
+{"tmdb_id": 49461, "title": "About a Girl", "original_title": "About a Girl", "slug_title": "about-a-girl", "date": "2001-01-01", "genre": "Drame", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzjcILBTtVYjVCscmBonnE5wdUX.jpg", "actors": ["Ashley Thewlis ()"], "comments": [], "recommandations_id": [424545, 91515, 96590, 324025]}

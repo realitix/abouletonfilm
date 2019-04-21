@@ -1,0 +1,1 @@
+{"tmdb_id": 474108, "title": "A Memory in Khaki", "original_title": "A Memory in Khaki", "slug_title": "a-memory-in-khaki", "date": "2016-12-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zaaTabmYqvb2bsZNBRjF7Q3DyH4.jpg", "actors": [], "comments": [], "recommandations_id": []}

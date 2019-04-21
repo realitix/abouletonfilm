@@ -1,0 +1,1 @@
+{"tmdb_id": 312412, "title": "The next Mega Tsunami", "original_title": "The next Mega Tsunami", "slug_title": "the-next-mega-tsunami", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQP03MW8I3Eq3lQHRPKXEiBrUEO.jpg", "actors": [], "comments": [], "recommandations_id": []}

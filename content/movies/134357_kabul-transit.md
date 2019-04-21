@@ -1,0 +1,1 @@
+{"tmdb_id": 134357, "title": "Kabul Transit", "original_title": "Kabul Transit", "slug_title": "kabul-transit", "date": "2006-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 246375, "title": "Nosferatu, The Friendly Vampire", "original_title": "Nosferatu, The Friendly Vampire", "slug_title": "nosferatu-the-friendly-vampire", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nN5fs5pfFqyb287SqQM5W15xCqk.jpg", "actors": [], "comments": [], "recommandations_id": []}

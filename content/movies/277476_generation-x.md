@@ -1,0 +1,1 @@
+{"tmdb_id": 277476, "title": "Generation X", "original_title": "Generation X", "slug_title": "generation-x", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

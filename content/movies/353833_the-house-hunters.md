@@ -1,0 +1,1 @@
+{"tmdb_id": 353833, "title": "The House Hunters", "original_title": "The House Hunters", "slug_title": "the-house-hunters", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

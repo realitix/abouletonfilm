@@ -1,0 +1,1 @@
+{"tmdb_id": 342910, "title": "Welcome to My World", "original_title": "Welcome to My World", "slug_title": "welcome-to-my-world", "date": "1999-01-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

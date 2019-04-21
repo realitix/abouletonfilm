@@ -1,0 +1,1 @@
+{"tmdb_id": 359288, "title": "Deadly Drive-in Disaster", "original_title": "Deadly Drive-in Disaster", "slug_title": "deadly-drive-in-disaster", "date": "2015-10-29", "genre": "Action / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXsW9GL3ObKwt2KbBfb4AEPqZlJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

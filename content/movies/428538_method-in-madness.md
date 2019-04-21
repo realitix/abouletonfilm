@@ -1,0 +1,1 @@
+{"tmdb_id": 428538, "title": "Method in Madness", "original_title": "Method in Madness", "slug_title": "method-in-madness", "date": "1998-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

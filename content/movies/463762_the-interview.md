@@ -1,0 +1,1 @@
+{"tmdb_id": 463762, "title": "The Interview", "original_title": "A Entrevista", "slug_title": "the-interview", "date": "1966-06-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydi45YZpqaXqxWhknvCjTa9iZDn.jpg", "actors": [], "comments": [], "recommandations_id": []}

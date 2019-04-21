@@ -1,0 +1,1 @@
+{"tmdb_id": 311421, "title": "The Socratic Method", "original_title": "The Socratic Method", "slug_title": "the-socratic-method", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

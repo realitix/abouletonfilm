@@ -1,0 +1,1 @@
+{"tmdb_id": 577503, "title": "Don't Kill Your Friends", "original_title": "Don't Kill Your Friends", "slug_title": "don-t-kill-your-friends", "date": "1943-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nina Foch (Young Girl)", "Huntz Hall (Ensign Dilbert)"], "comments": [], "recommandations_id": []}

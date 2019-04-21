@@ -1,0 +1,1 @@
+{"tmdb_id": 125992, "title": "Buddies", "original_title": "Buddies", "slug_title": "buddies", "date": "1983-05-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpvFgb9mJ54o1yvKWRR1OnoPTPe.jpg", "actors": ["Colin Friels (Mike)", "Harold Hopkins (Johnny)", "Bruce Spence (Ted)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573058, "title": "Atgrie\u0161an\u0101s", "original_title": "Atgrie\u0161an\u0101s", "slug_title": "atgriesanas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

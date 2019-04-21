@@ -1,0 +1,1 @@
+{"tmdb_id": 192198, "title": "BlueGreen", "original_title": "BlueGreen", "slug_title": "bluegreen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

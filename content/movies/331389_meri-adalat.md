@@ -1,0 +1,1 @@
+{"tmdb_id": 331389, "title": "Meri Adalat", "original_title": "Meri Adalat", "slug_title": "meri-adalat", "date": "1984-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfNNb2BOera0YQjp3nC20rtEsLp.jpg", "actors": ["Rajinikanth (The Cop)", "Zeenat Aman (The Journalist)"], "comments": [], "recommandations_id": []}

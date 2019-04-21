@@ -1,0 +1,1 @@
+{"tmdb_id": 235249, "title": "Journey of a Red Fridge", "original_title": "Journey of a Red Fridge", "slug_title": "journey-of-a-red-fridge", "date": "2007-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/WDo63SG7ubKG7X25tIphT6Cjai.jpg", "actors": [], "comments": [], "recommandations_id": []}

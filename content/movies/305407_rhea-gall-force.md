@@ -1,0 +1,1 @@
+{"tmdb_id": 305407, "title": "Rhea Gall Force", "original_title": "Rhea Gall Force", "slug_title": "rhea-gall-force", "date": "1989-03-21", "genre": "Science-Fiction / Animation / Action", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2XOtyalTZybspLMMH8ozhsqCo9u.jpg", "actors": [], "comments": [], "recommandations_id": []}

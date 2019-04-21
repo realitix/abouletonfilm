@@ -1,0 +1,29 @@
+<header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">
+                    <img src="/img/logo.png" width="300" height="85" alt="" class="d-inline-block align-top">
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            
+
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item {{ if eq .URL "/" }} active {{ end }}">
+                <a class="nav-link" href="/">Nos derniers films/séries</a>
+                </li>
+                <li class="nav-item {{ if eq .URL "/movies/" }} active {{ end }}">
+                <a class="nav-link" href="/movies">Parcourir tous les films/séries</a>
+                </li>
+            </ul>
+            <form autocomplete="false" class="form-inline my-2 my-lg-0 position-relative">
+                <input id="search" autocomplete="off" class="form-control mr-sm-2" type="search" placeholder="Interstellar...">
+                <button class="btn btn-outline-danger my-2 my-sm-0" type="submit">Rechercher</button>
+                <div id="search-results" class="list-group">
+                </div>
+            </form>
+           
+    </nav>
+</header>

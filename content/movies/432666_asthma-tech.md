@@ -1,0 +1,1 @@
+{"tmdb_id": 432666, "title": "Asthma Tech", "original_title": "Asthma Tech", "slug_title": "asthma-tech", "date": "2006-10-23", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4DhZ1m7ppRojjvWLuxGSrhCI6Bk.jpg", "actors": [], "comments": [], "recommandations_id": []}

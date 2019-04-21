@@ -1,0 +1,1 @@
+{"tmdb_id": 68892, "title": "Sex & Violence", "original_title": "Sex & Violence", "slug_title": "sex-violence", "date": "1997-01-01", "genre": "Animation", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIfYbwPeT5tLt8dSiiTwD5SROPv.jpg", "actors": [], "comments": [], "recommandations_id": [315647, 125660, 183005, 189943]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541567, "title": "Million Dollar Infield", "original_title": "Million Dollar Infield", "slug_title": "million-dollar-infield", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 411168, "title": "Severed Fingers feel All", "original_title": "Severed Fingers feel All", "slug_title": "severed-fingers-feel-all", "date": "1987-08-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

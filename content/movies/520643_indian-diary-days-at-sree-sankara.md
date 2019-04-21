@@ -1,0 +1,1 @@
+{"tmdb_id": 520643, "title": "Indian Diary - Days at Sree Sankara", "original_title": "Indian Diary - Days at Sree Sankara", "slug_title": "indian-diary-days-at-sree-sankara", "date": "2001-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

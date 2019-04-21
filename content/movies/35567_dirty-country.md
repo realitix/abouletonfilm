@@ -1,0 +1,1 @@
+{"tmdb_id": 35567, "title": "Dirty Country", "original_title": "Dirty Country", "slug_title": "dirty-country", "date": "2007-01-01", "genre": "Com\u00e9die / Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mfCbwaOkZ9UNBqGSalOpRkBHHc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

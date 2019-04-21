@@ -1,0 +1,1 @@
+{"tmdb_id": 493171, "title": "Chance Of A Lifetime", "original_title": "Chance Of A Lifetime", "slug_title": "chance-of-a-lifetime", "date": "1991-11-18", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BuA3JFRfGZzel4WCefargB1xNC.jpg", "actors": [], "comments": [], "recommandations_id": []}

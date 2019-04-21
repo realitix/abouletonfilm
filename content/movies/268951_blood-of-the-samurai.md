@@ -1,0 +1,1 @@
+{"tmdb_id": 268951, "title": "Blood of the Samurai", "original_title": "Blood of the Samurai", "slug_title": "blood-of-the-samurai", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

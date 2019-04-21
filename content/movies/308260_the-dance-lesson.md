@@ -1,0 +1,1 @@
+{"tmdb_id": 308260, "title": "The Dance Lesson", "original_title": "The Dance Lesson", "slug_title": "the-dance-lesson", "date": "2006-10-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 331364, "title": "The Comedy Monster", "original_title": "The Comedy Monster", "slug_title": "the-comedy-monster", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

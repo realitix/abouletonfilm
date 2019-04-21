@@ -1,0 +1,1 @@
+{"tmdb_id": 329285, "title": "C'\u00e9tait la guerre", "original_title": "C'\u00e9tait la guerre", "slug_title": "c-etait-la-guerre", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

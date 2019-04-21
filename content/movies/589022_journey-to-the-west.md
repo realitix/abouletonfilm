@@ -1,0 +1,1 @@
+{"tmdb_id": 589022, "title": "Journey to the West", "original_title": "Journey to the West", "slug_title": "journey-to-the-west", "date": "", "genre": "Aventure / Animation / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipNpKmNejHqMGasU6X0Sao17rK8.jpg", "actors": [], "comments": [], "recommandations_id": []}

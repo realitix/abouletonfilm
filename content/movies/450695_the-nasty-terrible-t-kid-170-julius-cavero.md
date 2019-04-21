@@ -1,0 +1,1 @@
+{"tmdb_id": 450695, "title": "The Nasty Terrible T-Kid 170: Julius Cavero", "original_title": "The Nasty Terrible T-Kid 170: Julius Cavero", "slug_title": "the-nasty-terrible-t-kid-170-julius-cavero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

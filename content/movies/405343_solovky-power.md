@@ -1,0 +1,1 @@
+{"tmdb_id": 405343, "title": "Solovky Power", "original_title": "Vlast Solovetskaya. Svidetelstva i dokumenty", "slug_title": "solovky-power", "date": "1988-04-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0ccYPPTu0ftLw88qm7IzLpThRN.jpg", "actors": [], "comments": [], "recommandations_id": []}

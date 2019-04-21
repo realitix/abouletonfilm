@@ -1,0 +1,1 @@
+{"tmdb_id": 246429, "title": "Paul Boyer's World", "original_title": "Paul Boyer's World", "slug_title": "paul-boyer-s-world", "date": "2008-12-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

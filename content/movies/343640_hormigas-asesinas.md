@@ -1,0 +1,1 @@
+{"tmdb_id": 343640, "title": "Hormigas asesinas", "original_title": "Hormigas asesinas", "slug_title": "hormigas-asesinas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

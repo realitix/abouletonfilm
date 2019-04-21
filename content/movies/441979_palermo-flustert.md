@@ -1,0 +1,1 @@
+{"tmdb_id": 441979, "title": "Palermo fl\u00fcstert", "original_title": "Palermo fl\u00fcstert", "slug_title": "palermo-flustert", "date": "2001-04-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6eFK5QOaEWQ0PrETg3yY3Chegvy.jpg", "actors": ["Mimmo Cuticchio (Mimmo)"], "comments": [], "recommandations_id": []}

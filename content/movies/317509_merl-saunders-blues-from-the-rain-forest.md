@@ -1,0 +1,1 @@
+{"tmdb_id": 317509, "title": "Merl Saunders: Blues from the Rain Forest", "original_title": "Merl Saunders: Blues from the Rain Forest", "slug_title": "merl-saunders-blues-from-the-rain-forest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

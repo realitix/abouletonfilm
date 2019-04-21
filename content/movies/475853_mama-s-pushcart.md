@@ -1,0 +1,1 @@
+{"tmdb_id": 475853, "title": "MaMa's Pushcart", "original_title": "MaMa's Pushcart", "slug_title": "mama-s-pushcart", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sam Shepard ()", "Elizabeth Swados ()", "Ellen Stewart ()", "Harvey Fierstein ()"], "comments": [], "recommandations_id": []}

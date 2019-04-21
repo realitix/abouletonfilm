@@ -1,0 +1,1 @@
+{"tmdb_id": 552059, "title": "Sringkhal", "original_title": "Sringkhal", "slug_title": "sringkhal", "date": "2014-10-17", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tT5Rm6VqnZm12vi5KZVaJeRUHsv.jpg", "actors": ["Adil Hussain ()", "Jaya Seal ()", "Saurabh Hazarika ()"], "comments": [], "recommandations_id": []}

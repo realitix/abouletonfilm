@@ -1,0 +1,1 @@
+{"tmdb_id": 339030, "title": "The Cattle Files", "original_title": "The Cattle Files", "slug_title": "the-cattle-files", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

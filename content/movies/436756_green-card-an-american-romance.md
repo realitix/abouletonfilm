@@ -1,0 +1,1 @@
+{"tmdb_id": 436756, "title": "Green Card: An American Romance", "original_title": "Green Card: An American Romance", "slug_title": "green-card-an-american-romance", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

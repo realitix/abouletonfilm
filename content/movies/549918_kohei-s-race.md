@@ -1,0 +1,1 @@
+{"tmdb_id": 549918, "title": "Kohei's Race", "original_title": "\u798f\u672c\u8015\u5e73\u304b\u304f\u8d70\u308a\u304d", "slug_title": "kohei-s-race", "date": "1992-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csGL60nkvGTNSk9t1ZvG4fVitRa.jpg", "actors": [], "comments": [], "recommandations_id": []}

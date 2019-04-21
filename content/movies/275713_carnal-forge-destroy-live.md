@@ -1,0 +1,1 @@
+{"tmdb_id": 275713, "title": "Carnal Forge: Destroy Live", "original_title": "Carnal Forge: Destroy Live", "slug_title": "carnal-forge-destroy-live", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

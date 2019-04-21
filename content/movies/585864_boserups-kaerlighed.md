@@ -1,0 +1,1 @@
+{"tmdb_id": 585864, "title": "Boserups K\u00e6rlighed", "original_title": "Boserups K\u00e6rlighed", "slug_title": "boserups-kaerlighed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ia9P7V3CdyP0ngUW3NNvOIQLcE8.jpg", "actors": [], "comments": [], "recommandations_id": []}

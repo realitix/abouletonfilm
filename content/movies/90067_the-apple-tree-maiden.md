@@ -1,0 +1,1 @@
+{"tmdb_id": 90067, "title": "The Apple Tree Maiden", "original_title": "Jablo\u0148ov\u00e1 panna", "slug_title": "the-apple-tree-maiden", "date": "1974-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khiQY239pkKfUtNMgFedchNaOnF.jpg", "actors": [], "comments": [], "recommandations_id": []}

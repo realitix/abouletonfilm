@@ -1,0 +1,1 @@
+{"tmdb_id": 129236, "title": "Young Dudes", "original_title": "Young Dudes", "slug_title": "young-dudes", "date": "2012-03-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TIyHQUm95FYEt09BWn5gz48a1E.jpg", "actors": ["Wang Bo-Chieh (Adam)", "Tsuyoshi Abe ()"], "comments": [], "recommandations_id": []}

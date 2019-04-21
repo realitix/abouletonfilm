@@ -1,0 +1,1 @@
+{"tmdb_id": 524756, "title": "La Promenade Bleue", "original_title": "La Promenade Bleue", "slug_title": "la-promenade-bleue", "date": "2006-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhGzxizCMh9wIBkL0H73enbK3W4.jpg", "actors": [], "comments": [], "recommandations_id": []}

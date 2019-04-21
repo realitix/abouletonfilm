@@ -1,0 +1,1 @@
+{"tmdb_id": 319911, "title": "The Power Wave", "original_title": "The Power Wave", "slug_title": "the-power-wave", "date": "2005-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuxpvjn0Mb88osP1tvaBw975kMc.jpg", "actors": ["Gabrielle Roth (Herself)"], "comments": [], "recommandations_id": []}

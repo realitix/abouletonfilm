@@ -1,0 +1,1 @@
+{"tmdb_id": 419116, "title": "Russian Mother", "original_title": "\ub7ec\uc2dc\uc544 \uc5c4\ub9c8", "slug_title": "russian-mother", "date": "2016-07-28", "genre": "Drame / Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uaIf8jRhhuQlzsZQI5AOZ7yGPe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 513836, "title": "Profile of Nicholas Ray", "original_title": "Profile of Nicholas Ray", "slug_title": "profile-of-nicholas-ray", "date": "1977-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicholas Ray (Interviewee)", "Cliff Jahr (Interviewer)"], "comments": [], "recommandations_id": []}

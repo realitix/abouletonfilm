@@ -1,0 +1,1 @@
+{"tmdb_id": 549706, "title": "The Forgotten Americans", "original_title": "The Forgotten Americans", "slug_title": "the-forgotten-americans", "date": "2000-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YAxOeKVppwp099uzw12gmx3GxY.jpg", "actors": [], "comments": [], "recommandations_id": []}

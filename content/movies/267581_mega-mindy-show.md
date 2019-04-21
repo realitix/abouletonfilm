@@ -1,0 +1,1 @@
+{"tmdb_id": 267581, "title": "Mega Mindy Show", "original_title": "Mega Mindy Show", "slug_title": "mega-mindy-show", "date": "2011-04-01", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3VIpR2dgly3ok8p8wd4stU9Ou2.jpg", "actors": [], "comments": [], "recommandations_id": [61491, 178818]}

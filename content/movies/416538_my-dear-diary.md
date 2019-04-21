@@ -1,0 +1,1 @@
+{"tmdb_id": 416538, "title": "My Dear Diary", "original_title": "\ub0b4 \ub9c8\uc74c\uc5d0 \ubd88\uaf43\uc774 \uc788\uc5b4", "slug_title": "my-dear-diary", "date": "2008-05-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e9fmocgcCYEoNvgoLywIgKdh6Pp.jpg", "actors": [], "comments": [], "recommandations_id": []}

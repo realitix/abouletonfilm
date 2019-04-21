@@ -1,0 +1,1 @@
+{"tmdb_id": 418819, "title": "The Cursed House", "original_title": "Al-Beit Al-Malhoun", "slug_title": "the-cursed-house", "date": "1987-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adVSWW8k2OxgoFoerafqbCsljEB.jpg", "actors": ["Mariem Fakhr El Dine ()"], "comments": [], "recommandations_id": []}

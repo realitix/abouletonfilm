@@ -1,0 +1,1 @@
+{"tmdb_id": 563485, "title": "Laterna Magica", "original_title": "Laterna Magica", "slug_title": "laterna-magica", "date": "2011-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JhvHNJAvnfSKHAcOUWWnnM5ZDO.jpg", "actors": [], "comments": [], "recommandations_id": []}

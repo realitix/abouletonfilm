@@ -1,0 +1,1 @@
+{"tmdb_id": 283092, "title": "Detected by Her Dog", "original_title": "Detected by Her Dog", "slug_title": "detected-by-her-dog", "date": "1910-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

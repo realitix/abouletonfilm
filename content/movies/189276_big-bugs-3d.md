@@ -1,0 +1,1 @@
+{"tmdb_id": 189276, "title": "Big Bugs 3D", "original_title": "Big Bugs 3D", "slug_title": "big-bugs-3d", "date": "2012-06-27", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/owJ4j7BiZitu54SOosP95zK5sBu.jpg", "actors": ["Otto Clemens (Narrator (voice))"], "comments": [], "recommandations_id": []}

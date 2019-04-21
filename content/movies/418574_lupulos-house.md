@@ -1,0 +1,1 @@
+{"tmdb_id": 418574, "title": "Lupulos' House", "original_title": "La casa de los Lupulos", "slug_title": "lupulos-house", "date": "2016-03-04", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gWucjyQV3iSWIoBUycc2RA5G6qw.jpg", "actors": [], "comments": [], "recommandations_id": []}

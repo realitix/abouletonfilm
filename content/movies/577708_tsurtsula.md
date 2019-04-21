@@ -1,0 +1,1 @@
+{"tmdb_id": 577708, "title": "\u0426\u0443\u0440\u0446\u0443\u043b\u0430", "original_title": "\u0426\u0443\u0440\u0446\u0443\u043b\u0430", "slug_title": "tsurtsula", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFbfYjItzzustyazklI51CD3zbF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 526487, "title": "Adios Amor", "original_title": "Adios Amor", "slug_title": "adios-amor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

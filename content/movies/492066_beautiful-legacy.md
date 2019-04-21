@@ -1,0 +1,1 @@
+{"tmdb_id": 492066, "title": "Beautiful Legacy", "original_title": "\uc544\ub984\ub2e4\uc6b4 \uc720\uc0b0", "slug_title": "beautiful-legacy", "date": "2011-04-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWc3ENibtDkSGc9FXtEipHf0hLI.jpg", "actors": [], "comments": [], "recommandations_id": []}

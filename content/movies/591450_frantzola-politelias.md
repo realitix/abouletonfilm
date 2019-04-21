@@ -1,0 +1,1 @@
+{"tmdb_id": 591450, "title": "Frantzola Politelias", "original_title": "Frantzola Politelias", "slug_title": "frantzola-politelias", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3mDLItP4PkvpCp4uKhaUw4aOZAS.jpg", "actors": [], "comments": [], "recommandations_id": []}

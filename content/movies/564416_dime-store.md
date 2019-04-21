@@ -1,0 +1,1 @@
+{"tmdb_id": 564416, "title": "Dime Store", "original_title": "Dime Store", "slug_title": "dime-store", "date": "1949-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

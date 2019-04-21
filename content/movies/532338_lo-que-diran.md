@@ -1,0 +1,1 @@
+{"tmdb_id": 532338, "title": "Lo que dir\u00e1n", "original_title": "Lo que dir\u00e1n", "slug_title": "lo-que-diran", "date": "2017-11-17", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCMcYyjdncUyR9Naiv8BEnIxTnN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304861, "title": "Aleppo. Notatki z ciemnosci", "original_title": "Aleppo. Notatki z ciemnosci", "slug_title": "aleppo-notatki-z-ciemnosci", "date": "2014-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QtXIBVL2Rwm0boFih0OdZUXeoK.jpg", "actors": [], "comments": [], "recommandations_id": []}

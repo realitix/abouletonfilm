@@ -1,0 +1,1 @@
+{"tmdb_id": 497427, "title": "The Bodybuilder and I", "original_title": "The Bodybuilder and I", "slug_title": "the-bodybuilder-and-i", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Friedman (Self)"], "comments": [], "recommandations_id": []}

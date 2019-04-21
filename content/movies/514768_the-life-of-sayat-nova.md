@@ -1,0 +1,1 @@
+{"tmdb_id": 514768, "title": "The Life of Sayat-Nova", "original_title": "La vie de Sayat Nova", "slug_title": "the-life-of-sayat-nova", "date": "1977-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

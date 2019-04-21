@@ -1,0 +1,1 @@
+{"tmdb_id": 336920, "title": "Mile High: The Comeback of Cannabis", "original_title": "Mile High: The Comeback of Cannabis", "slug_title": "mile-high-the-comeback-of-cannabis", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

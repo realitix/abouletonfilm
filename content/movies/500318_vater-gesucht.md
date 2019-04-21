@@ -1,0 +1,1 @@
+{"tmdb_id": 500318, "title": "Vater gesucht", "original_title": "Vater gesucht", "slug_title": "vater-gesucht", "date": "1988-04-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ursula Werner (Frau Berens)", "Maxi Biewer (Petra)", "Andrea L\u00fcdke (Ines)", "Gisela Morgen ()"], "comments": [], "recommandations_id": []}

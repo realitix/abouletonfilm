@@ -1,0 +1,1 @@
+{"tmdb_id": 227464, "title": "Life in a Tin", "original_title": "Una Vita In Scatola", "slug_title": "life-in-a-tin", "date": "1967-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZfE2Rxe4deGj4G8i0fnAqvO3Fx.jpg", "actors": [], "comments": [], "recommandations_id": [224444, 129979, 41355, 147615]}

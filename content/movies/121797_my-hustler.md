@@ -1,0 +1,1 @@
+{"tmdb_id": 121797, "title": "My Hustler", "original_title": "My Hustler", "slug_title": "my-hustler", "date": "1965-10-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPJAZfQkSXKmyWiiy7LKLTpAvtM.jpg", "actors": [], "comments": [], "recommandations_id": []}

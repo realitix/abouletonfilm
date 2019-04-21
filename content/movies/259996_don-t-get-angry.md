@@ -1,0 +1,1 @@
+{"tmdb_id": 259996, "title": "Don't Get Angry", "original_title": "Don't Get Angry", "slug_title": "don-t-get-angry", "date": "1953-01-01", "genre": "Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QRfKprtvQByMyX03k1t9KHmNsX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 489540, "title": "Our Necessity for Comfort", "original_title": "A Nossa Necessidade de Consolo", "slug_title": "our-necessity-for-comfort", "date": "2008-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390269, "title": "People who are Eating", "original_title": "\u98df\u3079\u308b\u4eba\u305f\u3061", "slug_title": "people-who-are-eating", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4xD2EJ2FAcxoRaLNO3Glxs8O7NC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386385, "title": "Domenica", "original_title": "Domenica", "slug_title": "domenica", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

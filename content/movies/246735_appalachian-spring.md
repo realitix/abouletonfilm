@@ -1,0 +1,1 @@
+{"tmdb_id": 246735, "title": "Appalachian Spring", "original_title": "Appalachian Spring", "slug_title": "appalachian-spring", "date": "1944-03-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martha Graham ()"], "comments": [], "recommandations_id": []}

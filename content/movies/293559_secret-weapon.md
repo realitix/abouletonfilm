@@ -1,0 +1,1 @@
+{"tmdb_id": 293559, "title": "Secret Weapon", "original_title": "Secret Weapon", "slug_title": "secret-weapon", "date": "1990-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

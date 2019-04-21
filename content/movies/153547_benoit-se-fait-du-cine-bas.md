@@ -1,0 +1,1 @@
+{"tmdb_id": 153547, "title": "Benoit se Fait du Cin\u00e9-Bas", "original_title": "Benoit se Fait du Cin\u00e9-Bas", "slug_title": "benoit-se-fait-du-cine-bas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Fqn40mgTAPP84KgxkKmL5XmxTZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

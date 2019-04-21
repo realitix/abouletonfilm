@@ -1,0 +1,1 @@
+{"tmdb_id": 322169, "title": "Bad Dog and Superhero", "original_title": "Bad Dog and Superhero", "slug_title": "bad-dog-and-superhero", "date": "2014-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

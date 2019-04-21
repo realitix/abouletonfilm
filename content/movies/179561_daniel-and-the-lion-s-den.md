@@ -1,0 +1,1 @@
+{"tmdb_id": 179561, "title": "Daniel and the Lion's Den", "original_title": "Daniel and the Lion's Den", "slug_title": "daniel-and-the-lion-s-den", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

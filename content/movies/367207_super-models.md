@@ -1,0 +1,1 @@
+{"tmdb_id": 367207, "title": "Super Models", "original_title": "\u8272\u6a21", "slug_title": "super-models", "date": "2015-10-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/waK5KlTWjM55R5zQKuwGi3ZnFQV.jpg", "actors": ["JJ Jia ()"], "comments": [], "recommandations_id": []}

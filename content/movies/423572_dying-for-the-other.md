@@ -1,0 +1,1 @@
+{"tmdb_id": 423572, "title": "Dying for the Other", "original_title": "Dying for the Other", "slug_title": "dying-for-the-other", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beatriz da Costa (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 26493, "title": "Michael Jackson: Never Surrender", "original_title": "Michael Jackson: Never Surrender", "slug_title": "michael-jackson-never-surrender", "date": "2009-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Jackson ()"], "comments": [], "recommandations_id": []}

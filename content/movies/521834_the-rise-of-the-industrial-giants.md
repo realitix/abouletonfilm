@@ -1,0 +1,1 @@
+{"tmdb_id": 521834, "title": "The Rise of the Industrial Giants", "original_title": "The Rise of the Industrial Giants", "slug_title": "the-rise-of-the-industrial-giants", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

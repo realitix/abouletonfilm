@@ -1,0 +1,1 @@
+{"tmdb_id": 280399, "title": "Summer of Love", "original_title": "Summer of Love", "slug_title": "summer-of-love", "date": "2007-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

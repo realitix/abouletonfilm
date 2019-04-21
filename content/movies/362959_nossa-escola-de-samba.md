@@ -1,0 +1,1 @@
+{"tmdb_id": 362959, "title": "Nossa Escola de Samba", "original_title": "Nossa Escola de Samba", "slug_title": "nossa-escola-de-samba", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCG28OGeyeIXBnvH6xZHUl3gqMc.jpg", "actors": [], "comments": [], "recommandations_id": []}

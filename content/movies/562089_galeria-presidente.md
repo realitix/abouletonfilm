@@ -1,0 +1,1 @@
+{"tmdb_id": 562089, "title": "Galeria Presidente", "original_title": "Galeria Presidente", "slug_title": "galeria-presidente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmth7KzlsjGm6CC6Mu4NgEyj8W9.jpg", "actors": [], "comments": [], "recommandations_id": []}

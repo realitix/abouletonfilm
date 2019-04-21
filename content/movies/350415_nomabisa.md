@@ -1,0 +1,1 @@
+{"tmdb_id": 350415, "title": "\ub178\ub9c8\ube44\uc0ac", "original_title": "\ub178\ub9c8\ube44\uc0ac", "slug_title": "nomabisa", "date": "1979-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

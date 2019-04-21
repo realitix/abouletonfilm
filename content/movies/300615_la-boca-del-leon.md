@@ -1,0 +1,1 @@
+{"tmdb_id": 300615, "title": "La Boca Del Leon", "original_title": "La Boca Del Leon", "slug_title": "la-boca-del-leon", "date": "2013-10-13", "genre": "Horreur / Myst\u00e8re", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zuOaVObtfxw3Oysw2PPiXWdks6R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 267769, "title": "O Bagre Africano de Atal\u00e9ia", "original_title": "O Bagre Africano de Atal\u00e9ia", "slug_title": "o-bagre-africano-de-ataleia", "date": "2014-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jtjKFsZjXwLqgcXrAGmDN99RnvG.jpg", "actors": [], "comments": [], "recommandations_id": []}

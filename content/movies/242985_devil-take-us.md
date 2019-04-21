@@ -1,0 +1,1 @@
+{"tmdb_id": 242985, "title": "Devil Take Us", "original_title": "Devil Take Us", "slug_title": "devil-take-us", "date": "1955-06-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7rtn82fndgSRSiVv4OjEIZoyix.jpg", "actors": ["Del Kuhn (Traffic Officer)"], "comments": [], "recommandations_id": []}

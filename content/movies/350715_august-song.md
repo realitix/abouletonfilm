@@ -1,0 +1,1 @@
+{"tmdb_id": 350715, "title": "August Song", "original_title": "August Song", "slug_title": "august-song", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bF3dKKvWfmMFdtWo9MJHhovokE0.jpg", "actors": [], "comments": [], "recommandations_id": []}

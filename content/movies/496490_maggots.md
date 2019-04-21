@@ -1,0 +1,1 @@
+{"tmdb_id": 496490, "title": "Maggots", "original_title": "Maggots", "slug_title": "maggots", "date": "2017-12-01", "genre": "Science-Fiction", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5aJXlAEvjQV1yeAE1Cb2JRfF0Cw.jpg", "actors": ["Jeff Albee (Wood carver)", "Jerry Bell Jr. (Big Jim)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583296, "title": "A Hymn from Jim", "original_title": "A Hymn from Jim", "slug_title": "a-hymn-from-jim", "date": "1977-09-29", "genre": "Drame / Crime / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7L9i0UAXSWufyrh2W82mvcR5YU.jpg", "actors": [], "comments": [], "recommandations_id": []}

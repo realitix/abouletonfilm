@@ -1,0 +1,1 @@
+{"tmdb_id": 557414, "title": "L'\u00e2ne de Buridan", "original_title": "L'\u00e2ne de Buridan", "slug_title": "l-ane-de-buridan", "date": "1932-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

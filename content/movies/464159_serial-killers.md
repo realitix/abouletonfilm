@@ -1,0 +1,1 @@
+{"tmdb_id": 464159, "title": "Serial Killers", "original_title": "Serial Killers", "slug_title": "serial-killers", "date": "1994-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5G9L3LdbmHGfNMzFpc2MCS6mWpx.jpg", "actors": [], "comments": [], "recommandations_id": []}

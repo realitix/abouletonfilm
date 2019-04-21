@@ -1,0 +1,1 @@
+{"tmdb_id": 158136, "title": "Red Devils", "original_title": "Tsiteli eshmakunebi", "slug_title": "red-devils", "date": "1923-09-25", "genre": "Aventure / Drame / Action", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k1W1D0Xt4WcxfDqMBx3VkQLs3y.jpg", "actors": ["Vitali Bryanskiy (Pavsikak)"], "comments": [], "recommandations_id": []}

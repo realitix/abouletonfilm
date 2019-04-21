@@ -1,0 +1,1 @@
+{"tmdb_id": 346339, "title": "Elton John In Concert", "original_title": "Elton John In Concert", "slug_title": "elton-john-in-concert", "date": "2013-10-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bGfkShwGy34scWL5DxKhuynZ1M.jpg", "actors": ["Elton John (self)"], "comments": [], "recommandations_id": []}

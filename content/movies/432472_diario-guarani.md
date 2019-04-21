@@ -1,0 +1,1 @@
+{"tmdb_id": 432472, "title": "Diario Guaran\u00ed", "original_title": "Diario Guaran\u00ed", "slug_title": "diario-guarani", "date": "2016-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6abDjUvrYYaINqBoZZD5fBCVS9.jpg", "actors": [], "comments": [], "recommandations_id": []}

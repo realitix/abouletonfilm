@@ -1,0 +1,1 @@
+{"tmdb_id": 132475, "title": "World Comedy Unplugged 2004", "original_title": "World Comedy Unplugged 2004", "slug_title": "world-comedy-unplugged-2004", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXXQIuWgsCJUfP4zgRW7DS1uTQG.jpg", "actors": [], "comments": [], "recommandations_id": []}

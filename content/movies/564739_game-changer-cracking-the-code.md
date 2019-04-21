@@ -1,0 +1,1 @@
+{"tmdb_id": 564739, "title": "Game Changer: Cracking the Code", "original_title": "Game Changer: Cracking the Code", "slug_title": "game-changer-cracking-the-code", "date": "2018-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fxEu34zRmy8XS60v2IwVlgOU07.jpg", "actors": [], "comments": [], "recommandations_id": []}

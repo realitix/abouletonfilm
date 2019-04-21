@@ -1,0 +1,1 @@
+{"tmdb_id": 473594, "title": "Payoff in the Pacific", "original_title": "Payoff in the Pacific", "slug_title": "payoff-in-the-pacific", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBT8ugUjY480Sg6DY7mZKX1eN9O.jpg", "actors": [], "comments": [], "recommandations_id": []}

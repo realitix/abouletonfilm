@@ -1,0 +1,1 @@
+{"tmdb_id": 316161, "title": "Closing Time", "original_title": "Closing Time", "slug_title": "closing-time", "date": "2014-10-23", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8cLCWoYC9OaK4MqOy1uy7eChE5.jpg", "actors": ["Rocky Pajarito (Bakery Owner)"], "comments": [], "recommandations_id": []}

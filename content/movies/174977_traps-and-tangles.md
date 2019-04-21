@@ -1,0 +1,1 @@
+{"tmdb_id": 174977, "title": "Traps and Tangles", "original_title": "Traps and Tangles", "slug_title": "traps-and-tangles", "date": "1919-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Detective Sparks)"], "comments": [], "recommandations_id": []}

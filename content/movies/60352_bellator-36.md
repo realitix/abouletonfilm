@@ -1,0 +1,1 @@
+{"tmdb_id": 60352, "title": "Bellator 36", "original_title": "Bellator 36", "slug_title": "bellator-36", "date": "2011-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2TLWPgGgbpCUbsF0SjOYurKwUJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 533427, "title": "Universum Brde\u010dka", "original_title": "Universum Brde\u010dka", "slug_title": "universum-brdecka", "date": "2017-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 482353, "title": "Beautiful Thing: A Passion for Porcelain", "original_title": "Beautiful Thing: A Passion for Porcelain", "slug_title": "beautiful-thing-a-passion-for-porcelain", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 591773, "title": "The Lotus Community Workshop", "original_title": "The Lotus Community Workshop", "slug_title": "the-lotus-community-workshop", "date": "2012-10-18", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Val Kilmer ()", "Rachel Korine ()"], "comments": [], "recommandations_id": []}

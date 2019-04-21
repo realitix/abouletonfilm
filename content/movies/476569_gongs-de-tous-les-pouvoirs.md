@@ -1,0 +1,1 @@
+{"tmdb_id": 476569, "title": "GONGS DE TOUS LES POUVOIRS", "original_title": "GONGS DE TOUS LES POUVOIRS", "slug_title": "gongs-de-tous-les-pouvoirs", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

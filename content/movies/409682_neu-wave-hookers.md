@@ -1,0 +1,1 @@
+{"tmdb_id": 409682, "title": "Neu Wave Hookers", "original_title": "Neu Wave Hookers", "slug_title": "neu-wave-hookers", "date": "2006-01-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIL3cZw39qeOV7xk9EEdkm4hiG6.jpg", "actors": [], "comments": [], "recommandations_id": []}

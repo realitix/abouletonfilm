@@ -1,0 +1,1 @@
+{"tmdb_id": 463740, "title": "Zombie Rights! (Short)", "original_title": "Zombie Rights", "slug_title": "zombie-rights-short", "date": "2003-07-17", "genre": "Com\u00e9die / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brittany Petros (Chatty Co-Worker 1)"], "comments": [], "recommandations_id": []}

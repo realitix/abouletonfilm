@@ -1,0 +1,1 @@
+{"tmdb_id": 328509, "title": "The Ask Dr. LeBrick Halloween Special", "original_title": "The Ask Dr. LeBrick Halloween Special", "slug_title": "the-ask-dr-lebrick-halloween-special", "date": "2014-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

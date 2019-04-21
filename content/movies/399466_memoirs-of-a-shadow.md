@@ -1,0 +1,1 @@
+{"tmdb_id": 399466, "title": "Memoirs of a Shadow", "original_title": "Memoirs of a Shadow", "slug_title": "memoirs-of-a-shadow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YCIfvxg0lfdiM4CorGSsLp07ds.jpg", "actors": [], "comments": [], "recommandations_id": []}

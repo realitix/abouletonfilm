@@ -1,0 +1,1 @@
+{"tmdb_id": 195606, "title": "Faust and Marguerite", "original_title": "Faust and Marguerite", "slug_title": "faust-and-marguerite", "date": "1900-05-21", "genre": "Fantastique / Horreur", "score": "3.9/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [196123, 119984, 49298, 189587]}

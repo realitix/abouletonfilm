@@ -1,0 +1,1 @@
+{"tmdb_id": 380585, "title": "Bukas...May Pangarap", "original_title": "Bukas...May Pangarap", "slug_title": "bukas-may-pangarap", "date": "1984-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8BIwNGnE1R3M9DwvvJFsyCRORF.jpg", "actors": [], "comments": [], "recommandations_id": []}

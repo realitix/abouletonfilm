@@ -1,0 +1,1 @@
+{"tmdb_id": 276393, "title": "A Science Odyssey: In Search of Ourselves", "original_title": "A Science Odyssey: In Search of Ourselves", "slug_title": "a-science-odyssey-in-search-of-ourselves", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

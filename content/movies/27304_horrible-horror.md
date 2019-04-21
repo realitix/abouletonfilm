@@ -1,0 +1,1 @@
+{"tmdb_id": 27304, "title": "Horrible Horror", "original_title": "Horrible Horror", "slug_title": "horrible-horror", "date": "1986-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Nyu5IxOE7tmAOq7niohk0nANRB.jpg", "actors": [], "comments": [], "recommandations_id": []}

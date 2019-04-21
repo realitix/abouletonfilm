@@ -1,0 +1,1 @@
+{"tmdb_id": 365046, "title": "El escarabajo", "original_title": "El escarabajo", "slug_title": "el-escarabajo", "date": "1983-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

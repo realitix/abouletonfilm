@@ -1,0 +1,1 @@
+{"tmdb_id": 504315, "title": "Le club d'exploration de Pikachu", "original_title": "Pikach\u016b no Tanken Club", "slug_title": "le-club-d-exploration-de-pikachu", "date": "2007-08-01", "genre": "Animation", "score": "0.0/10", "synopsis": "Pikachu forme un club d'exploration.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

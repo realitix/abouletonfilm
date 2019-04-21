@@ -1,0 +1,1 @@
+{"tmdb_id": 556883, "title": "RIPTIDE: Point Break", "original_title": "RIPTIDE: Point Break", "slug_title": "riptide-point-break", "date": "2017-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltmYP8wqOkeo16t1QQOqke9moOw.jpg", "actors": ["Candy Floss (Herself)"], "comments": [], "recommandations_id": []}

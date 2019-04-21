@@ -1,0 +1,1 @@
+{"tmdb_id": 395371, "title": "Epicenter", "original_title": "Epicenter", "slug_title": "epicenter", "date": "2007-07-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15kt3dz26he4DnIe5EXG8dDQTwt.jpg", "actors": [], "comments": [], "recommandations_id": []}

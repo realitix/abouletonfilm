@@ -1,0 +1,1 @@
+{"tmdb_id": 344033, "title": "Satan's Coming For You", "original_title": "Satan's Coming For You", "slug_title": "satan-s-coming-for-you", "date": "2015-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 133254, "title": "Submarine: Hidden Hunter", "original_title": "Submarine: Hidden Hunter", "slug_title": "submarine-hidden-hunter", "date": "2005-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGiaBCXuUaxZjJ5dh9M1mbA0GAf.jpg", "actors": [], "comments": [], "recommandations_id": []}

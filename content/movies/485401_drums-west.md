@@ -1,0 +1,1 @@
+{"tmdb_id": 485401, "title": "Drums West", "original_title": "Drums West", "slug_title": "drums-west", "date": "1961-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eNWwWOJgSKTZCTZ1zTPezZkveF.jpg", "actors": [], "comments": [], "recommandations_id": []}

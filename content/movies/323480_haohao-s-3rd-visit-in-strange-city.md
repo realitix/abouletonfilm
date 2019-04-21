@@ -1,0 +1,1 @@
+{"tmdb_id": 323480, "title": "Haohao's 3rd visit in Strange City", "original_title": "Haohao's 3rd visit in Strange City", "slug_title": "haohao-s-3rd-visit-in-strange-city", "date": "2012-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366465, "title": "IBM: A Self Portrait", "original_title": "IBM: A Self Portrait", "slug_title": "ibm-a-self-portrait", "date": "1964-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236568, "title": "Abdul the Bulbul Ameer", "original_title": "Abdul the Bulbul Ameer", "slug_title": "abdul-the-bulbul-ameer", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArbA6ZuJftuJWz26M8PXJAxCznd.jpg", "actors": [], "comments": [], "recommandations_id": []}

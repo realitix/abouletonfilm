@@ -1,0 +1,1 @@
+{"tmdb_id": 374144, "title": "Alice the Golf Bug", "original_title": "Alice the Golf Bug", "slug_title": "alice-the-golf-bug", "date": "1927-01-10", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bP6YMiYH5TIlMVYc4At7EH2Lb5r.jpg", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556079, "title": "Claudine et le poussin", "original_title": "Claudine et le poussin", "slug_title": "claudine-et-le-poussin", "date": "1924-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593395, "title": "Diabolik", "original_title": "Diabolik", "slug_title": "diabolik", "date": "", "genre": "Crime / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

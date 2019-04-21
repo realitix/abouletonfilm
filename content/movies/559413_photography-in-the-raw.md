@@ -1,0 +1,1 @@
+{"tmdb_id": 559413, "title": "Photography in the raw", "original_title": "Photography in the raw", "slug_title": "photography-in-the-raw", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

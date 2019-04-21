@@ -1,0 +1,1 @@
+{"tmdb_id": 534465, "title": "Tortured Dust", "original_title": "Tortured Dust", "slug_title": "tortured-dust", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rkbqFtp85TVo3IoFGQkwhjARi5.jpg", "actors": ["Stan Brakhage ()", "Jane Brakhage ()"], "comments": [], "recommandations_id": []}

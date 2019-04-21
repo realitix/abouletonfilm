@@ -1,0 +1,1 @@
+{"tmdb_id": 525396, "title": "The Use of a Magazine Rack", "original_title": "La Utilidad de un Revistero", "slug_title": "the-use-of-a-magazine-rack", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/biD2B0Llp0OTLqmu0wYCACTwXs4.jpg", "actors": [], "comments": [], "recommandations_id": []}

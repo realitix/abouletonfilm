@@ -1,0 +1,1 @@
+{"tmdb_id": 313505, "title": "Pacquiao vs. Luna", "original_title": "Pacquiao vs. Luna", "slug_title": "pacquiao-vs-luna", "date": "1997-03-03", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/euUiuxL75Gn6EXeYFXEOATd2bxO.jpg", "actors": ["Manny Pacquiao ()", "Mike Luna ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 84684, "title": "Little Masha and The Bear", "original_title": "Mashenka i medved", "slug_title": "little-masha-and-the-bear", "date": "1960-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zuG7XvPRsmpkNS2Sao3DnMd27UA.jpg", "actors": [], "comments": [], "recommandations_id": []}

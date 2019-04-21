@@ -1,0 +1,1 @@
+{"tmdb_id": 444266, "title": "How Much Affection?", "original_title": "How Much Affection?", "slug_title": "how-much-affection", "date": "1957-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dImks9YVn6p7G1X5s5fUfn6oOfm.jpg", "actors": [], "comments": [], "recommandations_id": []}

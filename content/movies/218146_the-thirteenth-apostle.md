@@ -1,0 +1,1 @@
+{"tmdb_id": 218146, "title": "The Thirteenth Apostle", "original_title": "Trinadtsatyy apostol", "slug_title": "the-thirteenth-apostle", "date": "1988-06-02", "genre": "Science-Fiction", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYCO85MmeHtMLr1qd7Rz7WJQUht.jpg", "actors": [], "comments": [], "recommandations_id": []}

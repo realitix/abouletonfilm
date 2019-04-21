@@ -1,0 +1,1 @@
+{"tmdb_id": 50806, "title": "Power Pack", "original_title": "Power Pack", "slug_title": "power-pack", "date": "1991-09-28", "genre": "", "score": "2.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/WBiP7Y5b395IUYzSzipeRNTaQ2.jpg", "actors": ["Rachel Wilson ()"], "comments": [], "recommandations_id": []}

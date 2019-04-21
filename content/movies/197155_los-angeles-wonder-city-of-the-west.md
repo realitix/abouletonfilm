@@ -1,0 +1,1 @@
+{"tmdb_id": 197155, "title": "Los Angeles: 'Wonder City of the West'", "original_title": "Los Angeles: 'Wonder City of the West'", "slug_title": "los-angeles-wonder-city-of-the-west", "date": "1935-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

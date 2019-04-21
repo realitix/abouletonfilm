@@ -1,0 +1,1 @@
+{"tmdb_id": 485329, "title": "Buddha.mov", "original_title": "Buddha.mov", "slug_title": "buddha-mov", "date": "2017-11-26", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRYMVteqm7ZC5ZGU9YZOhh2PC2p.jpg", "actors": [], "comments": [], "recommandations_id": []}

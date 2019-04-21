@@ -1,0 +1,1 @@
+{"tmdb_id": 300860, "title": "Kiss & Cry", "original_title": "Kiss & Cry", "slug_title": "kiss-cry", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KT3g5JzYcLqliiCpNjlQDo6d8C.jpg", "actors": ["Jaco Van Dormael ()", "Toby Regbo ()"], "comments": [], "recommandations_id": []}

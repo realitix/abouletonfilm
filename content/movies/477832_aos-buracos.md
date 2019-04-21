@@ -1,0 +1,1 @@
+{"tmdb_id": 477832, "title": "Aos Buracos", "original_title": "Aos Buracos", "slug_title": "aos-buracos", "date": "2016-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rp7xj94OKajOQPd8kbv3XeEEoTp.jpg", "actors": ["Erlene Melo ()"], "comments": [], "recommandations_id": []}

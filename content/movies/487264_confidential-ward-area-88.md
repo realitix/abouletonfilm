@@ -1,0 +1,1 @@
+{"tmdb_id": 487264, "title": "Confidential Ward Area 88", "original_title": "Sho\u0304geki josei shu\u0304yo\u0304 sho: sekkusu sukyandaru", "slug_title": "confidential-ward-area-88", "date": "2016-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

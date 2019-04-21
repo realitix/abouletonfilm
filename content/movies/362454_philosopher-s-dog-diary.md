@@ -1,0 +1,1 @@
+{"tmdb_id": 362454, "title": "Philosopher's Dog Diary", "original_title": "Philosopher's Dog Diary", "slug_title": "philosopher-s-dog-diary", "date": "2011-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umQvxkoV7U9x6GuJr1YXrFPuoIB.jpg", "actors": [], "comments": [], "recommandations_id": []}

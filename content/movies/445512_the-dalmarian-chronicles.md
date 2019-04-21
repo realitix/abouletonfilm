@@ -1,0 +1,1 @@
+{"tmdb_id": 445512, "title": "The Dalmarian Chronicles", "original_title": "The Dalmarian Chronicles", "slug_title": "the-dalmarian-chronicles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

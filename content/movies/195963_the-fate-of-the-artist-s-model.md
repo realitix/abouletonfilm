@@ -1,0 +1,1 @@
+{"tmdb_id": 195963, "title": "The Fate of the Artist's Model", "original_title": "The Fate of the Artist's Model", "slug_title": "the-fate-of-the-artist-s-model", "date": "1903-10-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

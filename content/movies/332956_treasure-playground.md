@@ -1,0 +1,1 @@
+{"tmdb_id": 332956, "title": "Treasure Playground", "original_title": "Treasure Playground", "slug_title": "treasure-playground", "date": "2015-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

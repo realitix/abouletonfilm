@@ -1,0 +1,1 @@
+{"tmdb_id": 358559, "title": "For the Love of a Man", "original_title": "For the Love of a Man", "slug_title": "for-the-love-of-a-man", "date": "2015-09-04", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scIu7Amws91OQk83tUwmQRcNl6H.jpg", "actors": [], "comments": [], "recommandations_id": [299510, 419303]}

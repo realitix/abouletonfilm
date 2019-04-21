@@ -1,0 +1,1 @@
+{"tmdb_id": 456197, "title": "Jesus Was a Commie", "original_title": "Jesus Was a Commie", "slug_title": "jesus-was-a-commie", "date": "2011-05-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1nZXdj3JK7SG8zDaTV7TGIVOGK.jpg", "actors": ["Matthew Modine (Himself)"], "comments": [], "recommandations_id": []}

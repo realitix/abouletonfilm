@@ -1,0 +1,1 @@
+{"tmdb_id": 354234, "title": "I Am The Queen", "original_title": "I Am The Queen", "slug_title": "i-am-the-queen", "date": "2010-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2ZBSYjVSriRkwZBViAsFMs1VCj.jpg", "actors": [], "comments": [], "recommandations_id": []}

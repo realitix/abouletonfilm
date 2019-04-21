@@ -1,0 +1,1 @@
+{"tmdb_id": 560663, "title": "Bowery Dish", "original_title": "Bowery Dish", "slug_title": "bowery-dish", "date": "2005-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1i6sLN3qBz53joM3PJbymz0fxQH.jpg", "actors": [], "comments": [], "recommandations_id": []}

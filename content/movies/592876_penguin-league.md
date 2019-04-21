@@ -1,0 +1,1 @@
+{"tmdb_id": 592876, "title": "Penguin League", "original_title": "Penguin League", "slug_title": "penguin-league", "date": "2019-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uILQNCuOMBnFFoLLwqKvdEVolBg.jpg", "actors": [], "comments": [], "recommandations_id": []}

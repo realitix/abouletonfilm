@@ -1,0 +1,1 @@
+{"tmdb_id": 582563, "title": "Bittersweet", "original_title": "Bittersweet", "slug_title": "bittersweet", "date": "2015-05-01", "genre": "Animation / Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbKa0fjlxDI8emMQZxZK63stWhC.jpg", "actors": [], "comments": [], "recommandations_id": []}

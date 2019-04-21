@@ -1,0 +1,1 @@
+{"tmdb_id": 75497, "title": "Rune Klan: Hokus Fucking Pokus", "original_title": "Rune Klan: Hokus Fucking Pokus", "slug_title": "rune-klan-hokus-fucking-pokus", "date": "2009-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdO8gjy7KfWbJoIW9lDcs3wOPbH.jpg", "actors": [], "comments": [], "recommandations_id": []}

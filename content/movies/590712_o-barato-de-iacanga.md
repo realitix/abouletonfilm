@@ -1,0 +1,1 @@
+{"tmdb_id": 590712, "title": "O Barato de Iacanga", "original_title": "O Barato de Iacanga", "slug_title": "o-barato-de-iacanga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ZGD235cQxGfhQjGbnGpM15eoVy.jpg", "actors": [], "comments": [], "recommandations_id": []}

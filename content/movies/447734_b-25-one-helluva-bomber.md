@@ -1,0 +1,1 @@
+{"tmdb_id": 447734, "title": "B-25 One Helluva Bomber", "original_title": "B-25 One Helluva Bomber", "slug_title": "b-25-one-helluva-bomber", "date": "1994-01-01", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

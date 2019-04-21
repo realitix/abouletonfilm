@@ -1,0 +1,1 @@
+{"tmdb_id": 578926, "title": "L'Oumigmag ou l'objectif documentaire", "original_title": "L'Oumigmag ou l'objectif documentaire", "slug_title": "l-oumigmag-ou-l-objectif-documentaire", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 418826, "title": "The Shadow Seamstress", "original_title": "The Shadow Seamstress", "slug_title": "the-shadow-seamstress", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIJIrXMYglZ7c27HuQlp4Hd68I9.jpg", "actors": [], "comments": [], "recommandations_id": []}

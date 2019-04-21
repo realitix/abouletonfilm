@@ -1,0 +1,1 @@
+{"tmdb_id": 515856, "title": "Churikatte", "original_title": "Churikatte", "slug_title": "churikatte", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Praveen Tej ()", "Achyuth Kumar ()", "Sharath Lohitashwa ()", "Balaji Manohar ()"], "comments": [], "recommandations_id": []}

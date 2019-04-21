@@ -1,0 +1,1 @@
+{"tmdb_id": 310412, "title": "Waiting in Beijing", "original_title": "Waiting in Beijing", "slug_title": "waiting-in-beijing", "date": "2008-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Lin (Dr. Zheng)", "Tala Ashe (Nadia)"], "comments": [], "recommandations_id": []}

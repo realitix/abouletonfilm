@@ -1,0 +1,1 @@
+{"tmdb_id": 527173, "title": "Love Bittersweet", "original_title": "\u611b\u60c5\u9ea5\u82bd\u7cd6", "slug_title": "love-bittersweet", "date": "1984-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4yK9T4Qocfa9Nh35ouIkwOg8DM.jpg", "actors": [], "comments": [], "recommandations_id": []}

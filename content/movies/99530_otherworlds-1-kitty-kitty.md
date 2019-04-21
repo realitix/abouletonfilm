@@ -1,0 +1,1 @@
+{"tmdb_id": 99530, "title": "OTHERWORLDS #1 - KITTY-KITTY", "original_title": "OTHERWORLDS #1 - KITTY-KITTY", "slug_title": "otherworlds-1-kitty-kitty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

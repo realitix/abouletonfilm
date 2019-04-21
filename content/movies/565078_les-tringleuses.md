@@ -1,0 +1,1 @@
+{"tmdb_id": 565078, "title": "Les tringleuses", "original_title": "Les tringleuses", "slug_title": "les-tringleuses", "date": "1975-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

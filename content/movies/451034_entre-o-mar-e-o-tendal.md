@@ -1,0 +1,1 @@
+{"tmdb_id": 451034, "title": "Entre o Mar e o Tendal", "original_title": "Entre o Mar e o Tendal", "slug_title": "entre-o-mar-e-o-tendal", "date": "1953-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 430996, "title": "Hot Pistols", "original_title": "Hot Pistols", "slug_title": "hot-pistols", "date": "1972-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LxamwGaOASeJAs2U0pBR8AoBVk.jpg", "actors": ["Jill Sweete ()", "Rene Bond ()"], "comments": [], "recommandations_id": []}

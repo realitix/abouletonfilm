@@ -1,0 +1,1 @@
+{"tmdb_id": 148406, "title": "Nerdcore For Life", "original_title": "Nerdcore For Life", "slug_title": "nerdcore-for-life", "date": "2008-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8lDMx1PttqX3SIMDCOYh1umAtU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 489901, "title": "Who's Hugh?", "original_title": "Who's Hugh?", "slug_title": "who-s-hugh", "date": "1943-12-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh Herbert)"], "comments": [], "recommandations_id": []}

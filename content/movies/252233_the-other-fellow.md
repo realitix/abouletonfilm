@@ -1,0 +1,1 @@
+{"tmdb_id": 252233, "title": "The Other Fellow", "original_title": "The Other Fellow", "slug_title": "the-other-fellow", "date": "1937-01-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Kennedy ()"], "comments": [], "recommandations_id": []}

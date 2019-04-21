@@ -1,0 +1,1 @@
+{"tmdb_id": 566227, "title": "Halston", "original_title": "Halston", "slug_title": "halston", "date": "2019-06-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liza Minnelli (Herself)"], "comments": [], "recommandations_id": []}

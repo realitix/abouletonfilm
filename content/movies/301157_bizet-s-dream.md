@@ -1,0 +1,1 @@
+{"tmdb_id": 301157, "title": "Bizet's Dream", "original_title": "Bizet's Dream", "slug_title": "bizet-s-dream", "date": "1994-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

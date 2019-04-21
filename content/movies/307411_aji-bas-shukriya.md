@@ -1,0 +1,1 @@
+{"tmdb_id": 307411, "title": "Aji Bas Shukriya", "original_title": "Aji Bas Shukriya", "slug_title": "aji-bas-shukriya", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

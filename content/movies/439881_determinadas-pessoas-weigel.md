@@ -1,0 +1,1 @@
+{"tmdb_id": 439881, "title": "Determinadas Pessoas - Weigel", "original_title": "Determinadas Pessoas - Weigel", "slug_title": "determinadas-pessoas-weigel", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Esther G\u00f3es ()", "Ariel Borghi ()"], "comments": [], "recommandations_id": []}

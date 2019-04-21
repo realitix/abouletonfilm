@@ -1,0 +1,1 @@
+{"tmdb_id": 193305, "title": "Princesa de \u00c1frica", "original_title": "Princesa de \u00c1frica", "slug_title": "princesa-de-africa", "date": "2008-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8DtLPvczbfsgv1kVJsG9wv7i7i.jpg", "actors": [], "comments": [], "recommandations_id": []}

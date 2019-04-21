@@ -1,0 +1,1 @@
+{"tmdb_id": 236596, "title": "Frankenstein's Cat", "original_title": "Frankenstein's Cat", "slug_title": "frankenstein-s-cat", "date": "1942-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5MwLUA0UkmZaTdEqIu9Pk5iGhG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 418005, "title": "Alexisonfire: Live at Copps", "original_title": "Alexisonfire Live At Copps", "slug_title": "alexisonfire-live-at-copps", "date": "2016-07-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crkiK5BeZCyUkuQN2LFipww3dTI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 252395, "title": "Precious Herbs", "original_title": "Precious Herbs", "slug_title": "precious-herbs", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

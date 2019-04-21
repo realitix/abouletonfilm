@@ -1,0 +1,1 @@
+{"tmdb_id": 350104, "title": "\uc778\uc0ac\uc57c\ud22c", "original_title": "\uc778\uc0ac\uc57c\ud22c", "slug_title": "insayatu", "date": "1981-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

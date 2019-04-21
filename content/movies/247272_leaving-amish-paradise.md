@@ -1,0 +1,1 @@
+{"tmdb_id": 247272, "title": "Leaving Amish Paradise", "original_title": "Leaving Amish Paradise", "slug_title": "leaving-amish-paradise", "date": "2011-03-16", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khFFqmGIHlKXKfBcKJ4fPAX0MvK.jpg", "actors": [], "comments": [], "recommandations_id": []}

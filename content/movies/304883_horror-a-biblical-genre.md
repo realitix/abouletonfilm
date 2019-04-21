@@ -1,0 +1,1 @@
+{"tmdb_id": 304883, "title": "Horror: A Biblical Genre", "original_title": "Horror: A Biblical Genre", "slug_title": "horror-a-biblical-genre", "date": "2014-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

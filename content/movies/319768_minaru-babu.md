@@ -1,0 +1,1 @@
+{"tmdb_id": 319768, "title": "Minaru Babu", "original_title": "Minaru Babu", "slug_title": "minaru-babu", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

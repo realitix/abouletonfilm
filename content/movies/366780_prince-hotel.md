@@ -1,0 +1,1 @@
+{"tmdb_id": 366780, "title": "Prince Hotel", "original_title": "Prince Hotel", "slug_title": "prince-hotel", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

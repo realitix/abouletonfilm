@@ -1,0 +1,1 @@
+{"tmdb_id": 192130, "title": "Darkness Bride", "original_title": "\u5e7d\u5abe", "slug_title": "darkness-bride", "date": "2003-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzJRHlmxdHlCToA0X48pSDc6MfV.jpg", "actors": [], "comments": [], "recommandations_id": []}

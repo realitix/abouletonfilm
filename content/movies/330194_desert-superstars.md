@@ -1,0 +1,1 @@
+{"tmdb_id": 330194, "title": "Desert Superstars", "original_title": "Desert Superstars", "slug_title": "desert-superstars", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

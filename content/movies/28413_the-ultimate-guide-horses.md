@@ -1,0 +1,1 @@
+{"tmdb_id": 28413, "title": "The Ultimate Guide: Horses", "original_title": "The Ultimate Guide: Horses", "slug_title": "the-ultimate-guide-horses", "date": "1999-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

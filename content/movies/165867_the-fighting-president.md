@@ -1,0 +1,1 @@
+{"tmdb_id": 165867, "title": "The Fighting President", "original_title": "The Fighting President", "slug_title": "the-fighting-president", "date": "1933-04-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 32297, "title": "Crowley", "original_title": "Crowley", "slug_title": "crowley", "date": "1987-01-01", "genre": "Horreur / Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8dKC8NydWDnQwGvgg1N2KOyGIM.jpg", "actors": ["Ricardo Islas (Crowley)"], "comments": [], "recommandations_id": []}

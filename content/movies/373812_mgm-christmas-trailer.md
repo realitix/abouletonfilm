@@ -1,0 +1,1 @@
+{"tmdb_id": 373812, "title": "MGM Christmas Trailer", "original_title": "MGM Christmas Trailer", "slug_title": "mgm-christmas-trailer", "date": "1937-12-16", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judy Garland (Herself)"], "comments": [], "recommandations_id": []}

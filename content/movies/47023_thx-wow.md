@@ -1,0 +1,1 @@
+{"tmdb_id": 47023, "title": "THX Wow!", "original_title": "THX Wow!", "slug_title": "thx-wow", "date": "1990-09-09", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kacWLXpNFFXF2MnlgcDJoxM9nG6.jpg", "actors": [], "comments": [], "recommandations_id": []}

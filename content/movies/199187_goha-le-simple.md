@@ -1,0 +1,1 @@
+{"tmdb_id": 199187, "title": "Goha le simple", "original_title": "Goha", "slug_title": "goha-le-simple", "date": "1958-06-08", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYQwg7XqXdIHG5iQlub5JFWGz1x.jpg", "actors": ["Omar Sharif (Goha)", "Claudia Cardinale (Amina)"], "comments": [], "recommandations_id": []}

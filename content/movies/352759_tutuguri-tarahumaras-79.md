@@ -1,0 +1,1 @@
+{"tmdb_id": 352759, "title": "Tutuguri - Tarahumaras 79", "original_title": "Tutuguri - Tarahumaras 79", "slug_title": "tutuguri-tarahumaras-79", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgS6fVcFyucHBw9H0OFqICjX8bb.jpg", "actors": [], "comments": [], "recommandations_id": []}

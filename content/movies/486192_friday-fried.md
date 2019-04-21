@@ -1,0 +1,1 @@
+{"tmdb_id": 486192, "title": "Friday Fried", "original_title": "Friday Fried", "slug_title": "friday-fried", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/moRVI86ugDuCSKX80aO6AsEBX3r.jpg", "actors": [], "comments": [], "recommandations_id": []}

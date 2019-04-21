@@ -1,0 +1,1 @@
+{"tmdb_id": 225674, "title": "Bruce Springsteen - Devils and Dust", "original_title": "Bruce Springsteen - Devils and Dust", "slug_title": "bruce-springsteen-devils-and-dust", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

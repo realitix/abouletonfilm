@@ -1,0 +1,1 @@
+{"tmdb_id": 248868, "title": "Americans in Bed", "original_title": "Americans in Bed", "slug_title": "americans-in-bed", "date": "2013-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2Wkb4E1JUdWgCAGZ2tQkXqICpq.jpg", "actors": [], "comments": [], "recommandations_id": []}

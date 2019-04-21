@@ -1,0 +1,1 @@
+{"tmdb_id": 591351, "title": "Carrie and Me", "original_title": "Carrie and Me", "slug_title": "carrie-and-me", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

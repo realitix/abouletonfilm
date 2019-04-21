@@ -1,0 +1,1 @@
+{"tmdb_id": 233622, "title": "Mischa Elman", "original_title": "Mischa Elman", "slug_title": "mischa-elman", "date": "1926-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mischa Elman (Himself - Violinist)", "Josef Bonime (Himself - Off Camera Pianist)"], "comments": [], "recommandations_id": []}

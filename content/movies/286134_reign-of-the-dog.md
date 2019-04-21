@@ -1,0 +1,1 @@
+{"tmdb_id": 286134, "title": "Reign of the Dog", "original_title": "Reign of the Dog", "slug_title": "reign-of-the-dog", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

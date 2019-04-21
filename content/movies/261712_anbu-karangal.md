@@ -1,0 +1,1 @@
+{"tmdb_id": 261712, "title": "Anbu Karangal", "original_title": "Anbu Karangal", "slug_title": "anbu-karangal", "date": "1965-02-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Devika ()", "Nagesh ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 572624, "title": "Pentecost", "original_title": "Pfingsten", "slug_title": "pentecost", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dorothea Strauss (Voice)"], "comments": [], "recommandations_id": []}

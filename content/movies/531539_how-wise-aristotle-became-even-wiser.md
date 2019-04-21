@@ -1,0 +1,1 @@
+{"tmdb_id": 531539, "title": "How Wise Aristotle Became Even Wiser", "original_title": "Jak se moudr\u00fd Aristoteles stal je\u0161t\u011b moud\u0159ej\u0161\u00edm", "slug_title": "how-wise-aristotle-became-even-wiser", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

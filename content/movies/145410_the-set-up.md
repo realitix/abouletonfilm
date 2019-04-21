@@ -1,0 +1,1 @@
+{"tmdb_id": 145410, "title": "The Set-Up", "original_title": "The Set-Up", "slug_title": "the-set-up", "date": "1978-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JRryMFgSSEdAYYpV6e4y83vqUO.jpg", "actors": [], "comments": [], "recommandations_id": []}

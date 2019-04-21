@@ -1,0 +1,1 @@
+{"tmdb_id": 271494, "title": "December 7th: The Day of Infamy", "original_title": "December 7th: The Day of Infamy", "slug_title": "december-7th-the-day-of-infamy", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

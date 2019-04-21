@@ -1,0 +1,1 @@
+{"tmdb_id": 540529, "title": "Haunted Sonoma County", "original_title": "Haunted Sonoma County", "slug_title": "haunted-sonoma-county", "date": "2018-10-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laurie Jacobson (Host)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349651, "title": "\ube44\uc0c1\uad6c\uac00 \uc5c6\ub2e4", "original_title": "\ube44\uc0c1\uad6c\uac00 \uc5c6\ub2e4", "slug_title": "bisangguga-eobsda", "date": "1995-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

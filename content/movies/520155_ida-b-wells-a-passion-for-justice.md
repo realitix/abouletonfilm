@@ -1,0 +1,1 @@
+{"tmdb_id": 520155, "title": "Ida B. Wells: A Passion for Justice", "original_title": "Ida B. Wells: A Passion for Justice", "slug_title": "ida-b-wells-a-passion-for-justice", "date": "1989-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

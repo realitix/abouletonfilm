@@ -1,0 +1,1 @@
+{"tmdb_id": 236811, "title": "Beauty and the Beach", "original_title": "Beauty and the Beach", "slug_title": "beauty-and-the-beach", "date": "1941-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

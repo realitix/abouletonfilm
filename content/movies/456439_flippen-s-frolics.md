@@ -1,0 +1,1 @@
+{"tmdb_id": 456439, "title": "Flippen's Frolics", "original_title": "Flippen's Frolics", "slug_title": "flippen-s-frolics", "date": "1936-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jay C. Flippen ()", "Rose Marie ()", "Lewis Seiler ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 592606, "title": "Armed Lullaby", "original_title": "Armed Lullaby", "slug_title": "armed-lullaby", "date": "2019-02-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 505580, "title": "Healing Scars", "original_title": "Healing Scars", "slug_title": "healing-scars", "date": "2018-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7lvV4ZQXh1CQLUwWgJK3DUfhDSM.jpg", "actors": ["Rob Sinclair (Rob Sinclair)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326812, "title": "This Is China", "original_title": "This Is China", "slug_title": "this-is-china", "date": "1946-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Gg1ll3yUaid1QiXNNVgv0zHc3L.jpg", "actors": ["Valentine Dyall (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343138, "title": "Armando", "original_title": "Armando", "slug_title": "armando", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Armando ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 456478, "title": "Getter Robo Movie", "original_title": "Gett\u00e2 robo", "slug_title": "getter-robo-movie", "date": "1974-07-24", "genre": "Science-Fiction / Action / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GteVtvIfodJzhbr6Dd5lDwD5Kh.jpg", "actors": [], "comments": [], "recommandations_id": []}

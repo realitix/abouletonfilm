@@ -1,0 +1,1 @@
+{"tmdb_id": 405751, "title": "Voice Of Apocalypse", "original_title": "Voice Of Apocalypse", "slug_title": "voice-of-apocalypse", "date": "2015-01-01", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

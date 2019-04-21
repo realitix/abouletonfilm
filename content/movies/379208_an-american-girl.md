@@ -1,0 +1,1 @@
+{"tmdb_id": 379208, "title": "An American Girl", "original_title": "An American Girl", "slug_title": "an-american-girl", "date": "1958-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKpddsaBXOcIST0zKXJH83HzMDM.jpg", "actors": ["Frank Overton ()"], "comments": [], "recommandations_id": []}

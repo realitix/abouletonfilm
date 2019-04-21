@@ -1,0 +1,1 @@
+{"tmdb_id": 412812, "title": "Carne II", "original_title": "Carne II", "slug_title": "carne-ii", "date": "2006-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jiT7CX74CuMqxegADuq3aSEUWRV.jpg", "actors": [], "comments": [], "recommandations_id": []}

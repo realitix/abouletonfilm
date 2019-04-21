@@ -1,0 +1,1 @@
+{"tmdb_id": 336868, "title": "Romeo And Juliet", "original_title": "Romeo And Juliet", "slug_title": "romeo-and-juliet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xruq2PGK93lTmggGXDLJLu16DF1.jpg", "actors": [], "comments": [], "recommandations_id": []}

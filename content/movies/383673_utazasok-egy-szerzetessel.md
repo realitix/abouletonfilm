@@ -1,0 +1,1 @@
+{"tmdb_id": 383673, "title": "Utaz\u00e1sok egy szerzetessel", "original_title": "Utaz\u00e1sok egy szerzetessel", "slug_title": "utazasok-egy-szerzetessel", "date": "2004-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AsSjgwKGkHCeLgRelvvmiZ56PFv.jpg", "actors": [], "comments": [], "recommandations_id": []}

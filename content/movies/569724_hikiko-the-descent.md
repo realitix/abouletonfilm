@@ -1,0 +1,1 @@
+{"tmdb_id": 569724, "title": "Hikiko: The Descent", "original_title": "Hi Ki Ko K\u00f4rin", "slug_title": "hikiko-the-descent", "date": "2014-11-29", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

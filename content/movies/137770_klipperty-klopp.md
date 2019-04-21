@@ -1,0 +1,1 @@
+{"tmdb_id": 137770, "title": "Klipperty Kl\u00f6pp", "original_title": "Klipperty Kl\u00f6pp", "slug_title": "klipperty-klopp", "date": "1984-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTvXJ4wF6tThwnI7HzlTdr01tYX.jpg", "actors": [], "comments": [], "recommandations_id": []}

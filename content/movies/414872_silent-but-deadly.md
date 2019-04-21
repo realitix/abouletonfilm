@@ -1,0 +1,1 @@
+{"tmdb_id": 414872, "title": "Silent But Deadly", "original_title": "Silent But Deadly", "slug_title": "silent-but-deadly", "date": "2011-06-28", "genre": "Com\u00e9die / Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1Ivkqh7Lct17Dqs2EI1vRYhGpJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

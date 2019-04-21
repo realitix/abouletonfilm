@@ -1,0 +1,1 @@
+{"tmdb_id": 39181, "title": "Cannibal Tours", "original_title": "Cannibal Tours", "slug_title": "cannibal-tours", "date": "1988-06-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8vlaKiw5yveRAu3i2add2e32Jke.jpg", "actors": [], "comments": [], "recommandations_id": []}

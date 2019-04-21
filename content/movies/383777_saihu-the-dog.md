@@ -1,0 +1,1 @@
+{"tmdb_id": 383777, "title": "Saihu, the Dog", "original_title": "\u8d5b\u864e", "slug_title": "saihu-the-dog", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7B91NnPsS6v2t937uqOMhs3yRCw.jpg", "actors": ["Li Hao ()"], "comments": [], "recommandations_id": []}

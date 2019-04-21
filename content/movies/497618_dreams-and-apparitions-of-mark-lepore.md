@@ -1,0 +1,1 @@
+{"tmdb_id": 497618, "title": "Dreams and Apparitions of Mark LePore", "original_title": "Dreams and Apparitions of Mark LePore", "slug_title": "dreams-and-apparitions-of-mark-lepore", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

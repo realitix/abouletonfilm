@@ -1,0 +1,1 @@
+{"tmdb_id": 435075, "title": "White Bull", "original_title": "Touro Branco", "slug_title": "white-bull", "date": "2003-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJx5yNexLrJZB0uOTys6dSJgifu.jpg", "actors": [], "comments": [], "recommandations_id": []}

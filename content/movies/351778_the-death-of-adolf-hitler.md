@@ -1,0 +1,1 @@
+{"tmdb_id": 351778, "title": "The Death of Adolf Hitler", "original_title": "The Death of Adolf Hitler", "slug_title": "the-death-of-adolf-hitler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

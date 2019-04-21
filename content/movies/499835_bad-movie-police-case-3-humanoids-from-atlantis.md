@@ -1,0 +1,1 @@
+{"tmdb_id": 499835, "title": "Bad Movie Police: Case #3: Humanoids From Atlantis", "original_title": "Bad Movie Police: Case #3: Humanoids From Atlantis", "slug_title": "bad-movie-police-case-3-humanoids-from-atlantis", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

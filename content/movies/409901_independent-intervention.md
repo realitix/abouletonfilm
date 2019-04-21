@@ -1,0 +1,1 @@
+{"tmdb_id": 409901, "title": "Independent Intervention", "original_title": "Independent Intervention", "slug_title": "independent-intervention", "date": "2006-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3IGWFiPysqQk4OGqCvcWw2sSuk.jpg", "actors": [], "comments": [], "recommandations_id": []}

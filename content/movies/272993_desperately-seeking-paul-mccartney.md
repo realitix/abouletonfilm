@@ -1,0 +1,1 @@
+{"tmdb_id": 272993, "title": "Desperately Seeking Paul McCartney", "original_title": "Desperately Seeking Paul McCartney", "slug_title": "desperately-seeking-paul-mccartney", "date": "2008-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

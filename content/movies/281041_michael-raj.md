@@ -1,0 +1,1 @@
+{"tmdb_id": 281041, "title": "Michael Raj", "original_title": "Michael Raj", "slug_title": "michael-raj", "date": "1987-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raghuvaran ()", "Madhuri ()", "Sarath Babu ()", "Shalini ()"], "comments": [], "recommandations_id": []}

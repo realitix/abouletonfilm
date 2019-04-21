@@ -1,0 +1,1 @@
+{"tmdb_id": 209813, "title": "It Happened in Sarasota", "original_title": "It Happened in Sarasota", "slug_title": "it-happened-in-sarasota", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

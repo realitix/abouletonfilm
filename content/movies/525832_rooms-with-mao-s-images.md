@@ -1,0 +1,1 @@
+{"tmdb_id": 525832, "title": "Rooms with Mao's Images", "original_title": "\u6709\u6bdb\u7684\u623f\u95f4", "slug_title": "rooms-with-mao-s-images", "date": "2015-12-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdwNckLMUOknzIC5rZnFMVxZxsU.jpg", "actors": [], "comments": [], "recommandations_id": []}

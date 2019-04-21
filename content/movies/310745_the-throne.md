@@ -1,0 +1,1 @@
+{"tmdb_id": 310745, "title": "The Throne", "original_title": "\u0938\u093f\u0902\u0939\u093e\u0938\u0928", "slug_title": "the-throne", "date": "1979-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjPZyyYaYkUOBCCHQ7tasSHL37K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 325636, "title": "La Vida Low", "original_title": "La Vida Low", "slug_title": "la-vida-low", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSAad9W87fEWbj3casiBWDyJKzR.jpg", "actors": [], "comments": [], "recommandations_id": []}

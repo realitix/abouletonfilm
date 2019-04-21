@@ -1,0 +1,1 @@
+{"tmdb_id": 473684, "title": "Chico Meets Chica", "original_title": "Chico Meets Chica", "slug_title": "chico-meets-chica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

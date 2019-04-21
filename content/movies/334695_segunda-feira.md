@@ -1,0 +1,1 @@
+{"tmdb_id": 334695, "title": "Segunda Feira", "original_title": "Segunda Feira", "slug_title": "segunda-feira", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vxXh0czZMFmlBdvWQPmnc6ngRu.jpg", "actors": ["Nelson Xavier (Narrador)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278409, "title": "Black Investigators", "original_title": "Black Investigators", "slug_title": "black-investigators", "date": "", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

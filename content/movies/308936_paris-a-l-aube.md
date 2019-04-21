@@ -1,0 +1,1 @@
+{"tmdb_id": 308936, "title": "Paris \u00e0 l'aube", "original_title": "Paris \u00e0 l'aube", "slug_title": "paris-a-l-aube", "date": "1960-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKdp489sYWVnExRWRTuLkC8aRph.jpg", "actors": [], "comments": [], "recommandations_id": []}

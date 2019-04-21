@@ -1,0 +1,1 @@
+{"tmdb_id": 348856, "title": "Genetic Takeover or Mutant Food", "original_title": "Genetic Takeover or Mutant Food", "slug_title": "genetic-takeover-or-mutant-food", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300655, "title": "Kol Nidre", "original_title": "Kol Nidre", "slug_title": "kol-nidre", "date": "1939-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

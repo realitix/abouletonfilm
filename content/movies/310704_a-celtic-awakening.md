@@ -1,0 +1,1 @@
+{"tmdb_id": 310704, "title": "A Celtic Awakening", "original_title": "A Celtic Awakening", "slug_title": "a-celtic-awakening", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

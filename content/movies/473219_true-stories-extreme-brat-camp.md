@@ -1,0 +1,1 @@
+{"tmdb_id": 473219, "title": "True Stories: Extreme Brat Camp", "original_title": "True Stories: Extreme Brat Camp", "slug_title": "true-stories-extreme-brat-camp", "date": "2014-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

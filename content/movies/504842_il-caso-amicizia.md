@@ -1,0 +1,1 @@
+{"tmdb_id": 504842, "title": "Il caso Amicizia", "original_title": "Il caso Amicizia", "slug_title": "il-caso-amicizia", "date": "2009-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

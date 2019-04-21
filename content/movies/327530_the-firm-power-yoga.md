@@ -1,0 +1,1 @@
+{"tmdb_id": 327530, "title": "The Firm - Power Yoga", "original_title": "The Firm - Power Yoga", "slug_title": "the-firm-power-yoga", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351379, "title": "Wots All th' Shootin' fer", "original_title": "Wots All th' Shootin' fer", "slug_title": "wots-all-th-shootin-fer", "date": "1940-05-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e666Cp9ntazOHHqcTm8EAlKpeWc.jpg", "actors": [], "comments": [], "recommandations_id": []}

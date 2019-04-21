@@ -1,0 +1,1 @@
+{"tmdb_id": 427979, "title": "\u00bfTienes fuego?", "original_title": "\u00bfTienes fuego?", "slug_title": "tienes-fuego", "date": "2007-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jj2yDpbo1cjsIWpudDq2zaF83ju.jpg", "actors": [], "comments": [], "recommandations_id": []}

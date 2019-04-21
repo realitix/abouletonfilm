@@ -1,0 +1,1 @@
+{"tmdb_id": 250713, "title": "Guitarra de palo", "original_title": "Guitarra de palo", "slug_title": "guitarra-de-palo", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVsa1tm9HtP032NvCXQyJlSq0yE.jpg", "actors": [], "comments": [], "recommandations_id": []}

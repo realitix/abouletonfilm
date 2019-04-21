@@ -1,0 +1,1 @@
+{"tmdb_id": 314585, "title": "Tudo Vai Ficar Da Cor Que Voc\u00ea Quiser", "original_title": "Tudo Vai Ficar Da Cor Que Voc\u00ea Quiser", "slug_title": "tudo-vai-ficar-da-cor-que-voce-quiser", "date": "2014-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

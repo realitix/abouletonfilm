@@ -1,0 +1,1 @@
+{"tmdb_id": 519526, "title": "The Absence of Apricots", "original_title": "The Absence of Apricots", "slug_title": "the-absence-of-apricots", "date": "2018-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iZ6dJJ6HzbWDckQGf8PaJr5gayJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

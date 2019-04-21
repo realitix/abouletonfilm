@@ -1,0 +1,1 @@
+{"tmdb_id": 403088, "title": "Lubelska star\u00f3wka", "original_title": "Lubelska star\u00f3wka", "slug_title": "lubelska-starowka", "date": "1956-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dcC20trgOwPFqxpImNckVW2Lgbv.jpg", "actors": [], "comments": [], "recommandations_id": []}

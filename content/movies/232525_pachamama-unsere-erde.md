@@ -1,0 +1,1 @@
+{"tmdb_id": 232525, "title": "Pachamama - Unsere Erde", "original_title": "Pachamama - Unsere Erde", "slug_title": "pachamama-unsere-erde", "date": "1997-03-29", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95ZBpy6iLowXlSzcpTZkA99lJ5c.jpg", "actors": [], "comments": [], "recommandations_id": []}

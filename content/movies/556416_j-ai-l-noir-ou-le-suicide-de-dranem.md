@@ -1,0 +1,1 @@
+{"tmdb_id": 556416, "title": "J'ai l'noir ou Le suicide de Dranem", "original_title": "J'ai l'noir ou Le suicide de Dranem", "slug_title": "j-ai-l-noir-ou-le-suicide-de-dranem", "date": "1929-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

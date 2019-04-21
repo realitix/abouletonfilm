@@ -1,0 +1,1 @@
+{"tmdb_id": 261917, "title": "Kiyamet", "original_title": "Kijamet", "slug_title": "kiyamet", "date": "2011-03-29", "genre": "Animation / Fantastique / Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/beE1MjSiqO5YB71wwddQP8qxDg1.jpg", "actors": ["Ivan Ramadan ()"], "comments": [], "recommandations_id": []}

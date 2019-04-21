@@ -1,0 +1,1 @@
+{"tmdb_id": 62218, "title": "Blue's Room - It's Hug Day", "original_title": "Blue's Room - It's Hug Day", "slug_title": "blue-s-room-it-s-hug-day", "date": "2005-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTiukFJGmcK2zZP34pJum6PkV0Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

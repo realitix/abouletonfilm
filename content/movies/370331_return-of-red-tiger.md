@@ -1,0 +1,1 @@
+{"tmdb_id": 370331, "title": "Return of Red Tiger", "original_title": "\ub3cc\uc544\uc628 \ubd88\ubc94", "slug_title": "return-of-red-tiger", "date": "1978-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yTcn0B2AGqv4savm4OSzuexH9cw.jpg", "actors": ["Bruce Le ()"], "comments": [], "recommandations_id": []}

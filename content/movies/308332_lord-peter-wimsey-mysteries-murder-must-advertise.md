@@ -1,0 +1,1 @@
+{"tmdb_id": 308332, "title": "Lord Peter Wimsey Mysteries: Murder Must Advertise", "original_title": "Lord Peter Wimsey Mysteries: Murder Must Advertise", "slug_title": "lord-peter-wimsey-mysteries-murder-must-advertise", "date": "1973-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

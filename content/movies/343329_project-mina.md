@@ -1,0 +1,1 @@
+{"tmdb_id": 343329, "title": "Project Mina", "original_title": "Project Mina", "slug_title": "project-mina", "date": "2014-02-16", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eL2sisFb8trEktMzGf6ddTAkYi3.jpg", "actors": ["Mina Leslie-Wujastyk ()"], "comments": [], "recommandations_id": []}

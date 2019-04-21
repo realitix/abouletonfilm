@@ -1,0 +1,1 @@
+{"tmdb_id": 304136, "title": "The Golden Temple", "original_title": "The Golden Temple", "slug_title": "the-golden-temple", "date": "2014-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

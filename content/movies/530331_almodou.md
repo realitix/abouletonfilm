@@ -1,0 +1,1 @@
+{"tmdb_id": 530331, "title": "Almodou", "original_title": "Almodou", "slug_title": "almodou", "date": "2002-12-08", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Doudou Guillaume Faye (Modou)"], "comments": [], "recommandations_id": []}

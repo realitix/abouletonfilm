@@ -1,0 +1,1 @@
+{"tmdb_id": 143223, "title": "Fatty Drives the Bus", "original_title": "Fatty Drives the Bus", "slug_title": "fatty-drives-the-bus", "date": "1999-03-14", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQXfsWcpybm8KP12XPqSFkqS2Vs.jpg", "actors": [], "comments": [], "recommandations_id": []}

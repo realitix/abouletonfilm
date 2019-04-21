@@ -1,0 +1,1 @@
+{"tmdb_id": 583621, "title": "Dans la gloire intime des nuages enflamm\u00e9s", "original_title": "Dans la gloire intime des nuages enflamm\u00e9s", "slug_title": "dans-la-gloire-intime-des-nuages-enflammes", "date": "2008-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

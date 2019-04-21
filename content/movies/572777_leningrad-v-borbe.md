@@ -1,0 +1,1 @@
+{"tmdb_id": 572777, "title": "Leningrad v borbe", "original_title": "Leningrad v borbe", "slug_title": "leningrad-v-borbe", "date": "1943-10-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNPcz5tO7ggsVxBDBDYo9VL3JCO.jpg", "actors": [], "comments": [], "recommandations_id": []}

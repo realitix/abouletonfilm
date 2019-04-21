@@ -1,0 +1,1 @@
+{"tmdb_id": 114466, "title": "Journey Into Medicine", "original_title": "Journey Into Medicine", "slug_title": "journey-into-medicine", "date": "1947-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

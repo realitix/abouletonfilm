@@ -1,0 +1,1 @@
+{"tmdb_id": 323773, "title": "Kid Wolf", "original_title": "Kid Wolf", "slug_title": "kid-wolf", "date": "2014-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

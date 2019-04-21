@@ -1,0 +1,1 @@
+{"tmdb_id": 349500, "title": "\ub0b4\uc77c\ub85c \ud750\ub974\ub294 \uac15", "original_title": "\ub0b4\uc77c\ub85c \ud750\ub974\ub294 \uac15", "slug_title": "naeilro-heureuneun-gang", "date": "1996-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237215, "title": "Camptown Races", "original_title": "Camptown Races", "slug_title": "camptown-races", "date": "1948-07-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVQ7jaf0zx2U5tvV0s4YIUiCFNe.jpg", "actors": [], "comments": [], "recommandations_id": []}

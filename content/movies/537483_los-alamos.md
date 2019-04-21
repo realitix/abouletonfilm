@@ -1,0 +1,1 @@
+{"tmdb_id": 537483, "title": "Los Alamos", "original_title": "Los Alamos", "slug_title": "los-alamos", "date": "2000-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3SK8a3RZhMhHHKumeFCcSdZOkq.jpg", "actors": [], "comments": [], "recommandations_id": []}

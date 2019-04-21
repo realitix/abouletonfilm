@@ -1,0 +1,1 @@
+{"tmdb_id": 468977, "title": "The Baby Boomers Picture Show", "original_title": "The Baby Boomers Picture Show", "slug_title": "the-baby-boomers-picture-show", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yR1TqIOO9eec7IeY6LzJF8G7ZvN.jpg", "actors": [], "comments": [], "recommandations_id": []}

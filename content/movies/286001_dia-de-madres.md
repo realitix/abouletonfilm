@@ -1,0 +1,1 @@
+{"tmdb_id": 286001, "title": "Dia de Madres", "original_title": "Dia de Madres", "slug_title": "dia-de-madres", "date": "1986-05-10", "genre": "Drame / Familial / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c2YaxHayZkpzREfKhEjHhtagOT1.jpg", "actors": [], "comments": [], "recommandations_id": []}

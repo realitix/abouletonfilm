@@ -1,0 +1,1 @@
+{"tmdb_id": 547503, "title": "Le pinceau de marbre", "original_title": "Le pinceau de marbre", "slug_title": "le-pinceau-de-marbre", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "Le pinceau de marbre", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

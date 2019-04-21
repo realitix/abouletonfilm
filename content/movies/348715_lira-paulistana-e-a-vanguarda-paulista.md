@@ -1,0 +1,1 @@
+{"tmdb_id": 348715, "title": "Lira Paulistana e a Vanguarda Paulista", "original_title": "Lira Paulistana e a Vanguarda Paulista", "slug_title": "lira-paulistana-e-a-vanguarda-paulista", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

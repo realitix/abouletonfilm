@@ -1,0 +1,1 @@
+{"tmdb_id": 212774, "title": "The Happenings", "original_title": "Ye Che", "slug_title": "the-happenings", "date": "1980-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3hLhLWCSW9pgXYIc7X3Aj0hbcKr.jpg", "actors": [], "comments": [], "recommandations_id": []}

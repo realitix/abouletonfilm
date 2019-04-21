@@ -1,0 +1,1 @@
+{"tmdb_id": 116281, "title": "Dunked In The Deep", "original_title": "Dunked In The Deep", "slug_title": "dunked-in-the-deep", "date": "1949-11-03", "genre": "Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shemp Howard (Shemp)", "Gene Roth (Mr. Bortch)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 426718, "title": "Jimmy Bruno: No Nonsense Jazz Guitar", "original_title": "Jimmy Bruno: No Nonsense Jazz Guitar", "slug_title": "jimmy-bruno-no-nonsense-jazz-guitar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

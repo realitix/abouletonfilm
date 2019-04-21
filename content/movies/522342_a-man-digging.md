@@ -1,0 +1,1 @@
+{"tmdb_id": 522342, "title": "A Man Digging", "original_title": "A Man Digging", "slug_title": "a-man-digging", "date": "2013-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

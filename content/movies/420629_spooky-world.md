@@ -1,0 +1,1 @@
+{"tmdb_id": 420629, "title": "Spooky World", "original_title": "Spooky World", "slug_title": "spooky-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJRkgKcbNquKjwfheNlFFPv5jUe.jpg", "actors": ["Kane Hodder ()", "Bobby Pickett ()"], "comments": [], "recommandations_id": []}

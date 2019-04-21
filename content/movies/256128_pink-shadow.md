@@ -1,0 +1,1 @@
+{"tmdb_id": 256128, "title": "Pink Shadow", "original_title": "Hanabira no ninja momo kage: Ninp\u014d hana bira daikaiten", "slug_title": "pink-shadow", "date": "2002-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g1mmXWqBx4UvBaAjHl1oyv5bVsw.jpg", "actors": [], "comments": [], "recommandations_id": []}

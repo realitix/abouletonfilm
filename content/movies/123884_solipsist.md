@@ -1,0 +1,1 @@
+{"tmdb_id": 123884, "title": "Solipsist", "original_title": "Solipsist", "slug_title": "solipsist", "date": "2012-11-01", "genre": "Drame", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nbQg3y6cWO7gV1QLurV5DB4gOl.jpg", "actors": [], "comments": [], "recommandations_id": [11693]}

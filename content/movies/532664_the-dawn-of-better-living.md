@@ -1,0 +1,1 @@
+{"tmdb_id": 532664, "title": "The  Dawn of Better Living", "original_title": "The  Dawn of Better Living", "slug_title": "the-dawn-of-better-living", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

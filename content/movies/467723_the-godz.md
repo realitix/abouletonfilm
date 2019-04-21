@@ -1,0 +1,1 @@
+{"tmdb_id": 467723, "title": "The Godz", "original_title": "The Godz", "slug_title": "the-godz", "date": "1966-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

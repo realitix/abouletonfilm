@@ -1,0 +1,1 @@
+{"tmdb_id": 528144, "title": "Nejat Uygur - Minti Minti", "original_title": "Nejat Uygur - Minti Minti", "slug_title": "nejat-uygur-minti-minti", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1iu1V6SG9EpLxL3oOIYFpO1YmBX.jpg", "actors": ["Nejat Uygur ()"], "comments": [], "recommandations_id": []}

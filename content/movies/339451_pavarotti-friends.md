@@ -1,0 +1,1 @@
+{"tmdb_id": 339451, "title": "Pavarotti & Friends", "original_title": "Pavarotti & Friends", "slug_title": "pavarotti-friends", "date": "1992-05-09", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A93dFwLsd2gi1SDHZJdCNSnw72v.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 244865, "title": "Chicks in White Satin", "original_title": "Chicks in White Satin", "slug_title": "chicks-in-white-satin", "date": "1994-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3O8Gm8fbhoxdqOJkovWADrsO17F.jpg", "actors": [], "comments": [], "recommandations_id": []}

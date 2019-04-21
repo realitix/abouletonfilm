@@ -1,0 +1,1 @@
+{"tmdb_id": 155480, "title": "Megadeth: Back to the Start", "original_title": "Megadeth: Back to the Start", "slug_title": "megadeth-back-to-the-start", "date": "2005-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trMe9ltzpnQeJSEU1T91Fi1X5l0.jpg", "actors": [], "comments": [], "recommandations_id": []}

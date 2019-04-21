@@ -1,0 +1,1 @@
+{"tmdb_id": 385849, "title": "Boeing Boeing", "original_title": "Boeing Boeing", "slug_title": "boeing-boeing", "date": "1978-05-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sigmar Solbach (Bernhard)", "Frithjof Vierock (Robert)", "Karin Jacobsen (Bertha)"], "comments": [], "recommandations_id": []}

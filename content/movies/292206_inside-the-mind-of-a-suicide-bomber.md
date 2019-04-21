@@ -1,0 +1,1 @@
+{"tmdb_id": 292206, "title": "Inside the Mind of a Suicide Bomber", "original_title": "Inside the Mind of a Suicide Bomber", "slug_title": "inside-the-mind-of-a-suicide-bomber", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

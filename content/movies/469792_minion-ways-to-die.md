@@ -1,0 +1,1 @@
+{"tmdb_id": 469792, "title": "Minion Ways to Die", "original_title": "Minion Ways to Die", "slug_title": "minion-ways-to-die", "date": "2015-08-08", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKzTwAmVRgo1qSRV3rJ3Gp7UU8j.jpg", "actors": [], "comments": [], "recommandations_id": []}

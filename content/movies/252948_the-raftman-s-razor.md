@@ -1,0 +1,1 @@
+{"tmdb_id": 252948, "title": "The Raftman's Razor", "original_title": "The Raftman's Razor", "slug_title": "the-raftman-s-razor", "date": "2005-01-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2hbPWtOAgnRck0eeaXxk2Ao1HyJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

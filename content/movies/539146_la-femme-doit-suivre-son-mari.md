@@ -1,0 +1,1 @@
+{"tmdb_id": 539146, "title": "La femme doit suivre son mari", "original_title": "La femme doit suivre son mari", "slug_title": "la-femme-doit-suivre-son-mari", "date": "1909-07-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

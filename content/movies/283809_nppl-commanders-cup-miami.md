@@ -1,0 +1,1 @@
+{"tmdb_id": 283809, "title": "NPPL Commanders Cup Miami", "original_title": "NPPL Commanders Cup Miami", "slug_title": "nppl-commanders-cup-miami", "date": "2003-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rswohTOwFNP05BwPa4xn9gsDFd1.jpg", "actors": [], "comments": [], "recommandations_id": []}

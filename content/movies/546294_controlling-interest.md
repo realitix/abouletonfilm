@@ -1,0 +1,1 @@
+{"tmdb_id": 546294, "title": "Controlling Interest", "original_title": "Controlling Interest", "slug_title": "controlling-interest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

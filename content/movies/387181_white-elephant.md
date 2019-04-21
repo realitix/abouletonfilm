@@ -1,0 +1,1 @@
+{"tmdb_id": 387181, "title": "White Elephant", "original_title": "\u3057\u308d\u3044\u305e\u3046", "slug_title": "white-elephant", "date": "1981-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cD1bZ6ouJCUKI5ocGCZNU4niBSe.jpg", "actors": [], "comments": [], "recommandations_id": []}

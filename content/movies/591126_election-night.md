@@ -1,0 +1,1 @@
+{"tmdb_id": 591126, "title": "Election Night", "original_title": "Election Night", "slug_title": "election-night", "date": "2019-10-18", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lEdxJ1YnlSCjNL0ZjYotalfJCPK.jpg", "actors": [], "comments": [], "recommandations_id": []}

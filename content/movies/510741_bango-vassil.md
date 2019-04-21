@@ -1,0 +1,1 @@
+{"tmdb_id": 510741, "title": "Bango Vassil", "original_title": "Bango Vassil", "slug_title": "bango-vassil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343832, "title": "The Americanbom", "original_title": "The Americanbom", "slug_title": "the-americanbom", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vK4ky90NKpghsUaepiYWLicmtpb.jpg", "actors": [], "comments": [], "recommandations_id": []}

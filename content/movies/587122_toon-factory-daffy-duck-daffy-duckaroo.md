@@ -1,0 +1,1 @@
+{"tmdb_id": 587122, "title": "Toon Factory - Daffy Duck: Daffy Duckaroo", "original_title": "Toon Factory - Daffy Duck: Daffy Duckaroo", "slug_title": "toon-factory-daffy-duck-daffy-duckaroo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

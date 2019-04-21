@@ -1,0 +1,1 @@
+{"tmdb_id": 313871, "title": "In the Same Room", "original_title": "In the Same Room", "slug_title": "in-the-same-room", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

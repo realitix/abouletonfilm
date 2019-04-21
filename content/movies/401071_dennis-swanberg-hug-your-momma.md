@@ -1,0 +1,1 @@
+{"tmdb_id": 401071, "title": "Dennis Swanberg: Hug Your Momma!", "original_title": "Dennis Swanberg: Hug Your Momma!", "slug_title": "dennis-swanberg-hug-your-momma", "date": "2008-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dennis Swanberg (Himself)"], "comments": [], "recommandations_id": []}

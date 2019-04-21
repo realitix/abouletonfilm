@@ -1,0 +1,1 @@
+{"tmdb_id": 277634, "title": "Ex Amino", "original_title": "Ex Amino", "slug_title": "ex-amino", "date": "2014-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

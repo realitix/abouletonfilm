@@ -1,0 +1,1 @@
+{"tmdb_id": 468492, "title": "Lucky Luke 1 - Billy The Kid", "original_title": "Lucky Luke 1 - Billy The Kid", "slug_title": "lucky-luke-1-billy-the-kid", "date": "2005-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5CQPTsoPzX7u6Y0Jy58LaYP4Xt.jpg", "actors": [], "comments": [], "recommandations_id": []}

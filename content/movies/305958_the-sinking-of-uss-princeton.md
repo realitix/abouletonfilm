@@ -1,0 +1,1 @@
+{"tmdb_id": 305958, "title": "The Sinking of USS Princeton", "original_title": "The Sinking of USS Princeton", "slug_title": "the-sinking-of-uss-princeton", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

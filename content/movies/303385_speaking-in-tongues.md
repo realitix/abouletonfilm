@@ -1,0 +1,1 @@
+{"tmdb_id": 303385, "title": "Speaking in Tongues", "original_title": "Speaking in Tongues", "slug_title": "speaking-in-tongues", "date": "2009-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 362944, "title": "Rumble on the Rock 8", "original_title": "Rumble on the Rock 8", "slug_title": "rumble-on-the-rock-8", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

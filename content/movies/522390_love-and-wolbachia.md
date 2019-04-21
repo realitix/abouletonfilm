@@ -1,0 +1,1 @@
+{"tmdb_id": 522390, "title": "Love and Wolbachia", "original_title": "\u604b\u3068\u30dc\u30eb\u30d0\u30ad\u30a2", "slug_title": "love-and-wolbachia", "date": "2017-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ab5evSTo6dDhID6XHSbEQTLttn6.jpg", "actors": [], "comments": [], "recommandations_id": []}

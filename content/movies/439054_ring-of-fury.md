@@ -1,0 +1,1 @@
+{"tmdb_id": 439054, "title": "Ring of Fury", "original_title": "\u8840\u6307\u74b0", "slug_title": "ring-of-fury", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XUqAf55ZTbgAUhUecyIaionoOW.jpg", "actors": ["Peter Chong (Fei Pah)"], "comments": [], "recommandations_id": []}

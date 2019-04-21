@@ -1,0 +1,1 @@
+{"tmdb_id": 582911, "title": "My Days of Glory", "original_title": "Le jour de gloire", "slug_title": "my-days-of-glory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Lacoste ()", "Pierre L\u00e9on Luneau ()", "Vincent Furic ()"], "comments": [], "recommandations_id": []}

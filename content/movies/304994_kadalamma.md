@@ -1,0 +1,1 @@
+{"tmdb_id": 304994, "title": "Kadalamma", "original_title": "Kadalamma", "slug_title": "kadalamma", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

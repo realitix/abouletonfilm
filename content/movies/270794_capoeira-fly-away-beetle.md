@@ -1,0 +1,1 @@
+{"tmdb_id": 270794, "title": "Capoeira: Fly Away Beetle", "original_title": "Capoeira: Fly Away Beetle", "slug_title": "capoeira-fly-away-beetle", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

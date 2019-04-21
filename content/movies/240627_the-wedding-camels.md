@@ -1,0 +1,1 @@
+{"tmdb_id": 240627, "title": "The Wedding Camels", "original_title": "The Wedding Camels", "slug_title": "the-wedding-camels", "date": "1980-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufH3RtHydMHwsnrgD4TuK9rMrmX.jpg", "actors": [], "comments": [], "recommandations_id": []}

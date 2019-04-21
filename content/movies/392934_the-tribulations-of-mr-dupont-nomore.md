@@ -1,0 +1,1 @@
+{"tmdb_id": 392934, "title": "The Tribulations of Mr. Dupont Nomore", "original_title": "The Tribulations of Mr. Dupont Nomore", "slug_title": "the-tribulations-of-mr-dupont-nomore", "date": "1967-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

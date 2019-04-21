@@ -1,0 +1,1 @@
+{"tmdb_id": 438990, "title": "Una banda de Oruro", "original_title": "Una banda de Oruro", "slug_title": "una-banda-de-oruro", "date": "2016-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tS8TJgcCeyI5rOEdDRq13myHxma.jpg", "actors": [], "comments": [], "recommandations_id": []}

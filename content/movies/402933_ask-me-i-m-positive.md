@@ -1,0 +1,1 @@
+{"tmdb_id": 402933, "title": "Ask Me I'm Positive", "original_title": "Ask Me I'm Positive", "slug_title": "ask-me-i-m-positive", "date": "2004-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q83Lp6TmZuZ6oMjC5RbIH4Ok4Ye.jpg", "actors": [], "comments": [], "recommandations_id": []}

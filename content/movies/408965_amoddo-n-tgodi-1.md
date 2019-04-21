@@ -1,0 +1,1 @@
+{"tmdb_id": 408965, "title": "Amoddo N'Tgodi 1", "original_title": "Amoddo N'Tgodi 1", "slug_title": "amoddo-n-tgodi-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Voix de Massa", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fMFNmbbBrZTdS3fheRsxLUyV4RC.jpg", "actors": [], "comments": [], "recommandations_id": []}

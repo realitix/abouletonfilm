@@ -1,0 +1,1 @@
+{"tmdb_id": 471187, "title": "Confessions of an Undercover Cop", "original_title": "Confessions of an Undercover Cop", "slug_title": "confessions-of-an-undercover-cop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

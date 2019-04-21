@@ -1,0 +1,1 @@
+{"tmdb_id": 450072, "title": "Tommy e gli altri", "original_title": "Tommy e gli altri", "slug_title": "tommy-e-gli-altri", "date": "2017-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kqaQYoQAVKREqPqPI0sJrvYhZ4K.jpg", "actors": [], "comments": [], "recommandations_id": []}

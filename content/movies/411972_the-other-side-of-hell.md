@@ -1,0 +1,1 @@
+{"tmdb_id": 411972, "title": "The Other Side of Hell", "original_title": "The Other Side of Hell", "slug_title": "the-other-side-of-hell", "date": "1978-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sapXZ6GioFdh67D0OZZWPXT4FYJ.jpg", "actors": ["Alan Arkin (Frank Dole)"], "comments": [], "recommandations_id": []}

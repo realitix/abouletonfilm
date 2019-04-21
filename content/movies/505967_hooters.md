@@ -1,0 +1,1 @@
+{"tmdb_id": 505967, "title": "Hooters", "original_title": "Hooters", "slug_title": "hooters", "date": "1986-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Candie Evans ()", "Regine Bardot ()", "Beverly Glen ()", "Ebony Ayes ()", "Rick Savage ()"], "comments": [], "recommandations_id": []}

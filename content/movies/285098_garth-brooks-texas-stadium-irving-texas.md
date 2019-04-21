@@ -1,0 +1,1 @@
+{"tmdb_id": 285098, "title": "Garth Brooks - Texas Stadium, Irving Texas", "original_title": "Garth Brooks - Texas Stadium, Irving Texas", "slug_title": "garth-brooks-texas-stadium-irving-texas", "date": "1993-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

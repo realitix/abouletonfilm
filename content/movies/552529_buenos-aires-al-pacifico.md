@@ -1,0 +1,1 @@
+{"tmdb_id": 552529, "title": "Buenos Aires al Pac\u00edfico", "original_title": "Buenos Aires al Pac\u00edfico", "slug_title": "buenos-aires-al-pacifico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNopeaLl9326NRFMlwMTHxi4Emj.jpg", "actors": [], "comments": [], "recommandations_id": []}

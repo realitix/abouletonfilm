@@ -1,0 +1,1 @@
+{"tmdb_id": 529146, "title": "The Washing Society", "original_title": "The Washing Society", "slug_title": "the-washing-society", "date": "2018-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gyAK1Ww8Y7W7gyvYrJUAaiKXRUl.jpg", "actors": [], "comments": [], "recommandations_id": []}

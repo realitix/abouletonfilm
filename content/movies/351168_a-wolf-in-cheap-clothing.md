@@ -1,0 +1,1 @@
+{"tmdb_id": 351168, "title": "A Wolf in Cheap Clothing", "original_title": "A Wolf in Cheap Clothing", "slug_title": "a-wolf-in-cheap-clothing", "date": "1936-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

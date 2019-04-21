@@ -1,0 +1,1 @@
+{"tmdb_id": 260898, "title": "A pugni nudi", "original_title": "A pugni nudi", "slug_title": "a-pugni-nudi", "date": "1974-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

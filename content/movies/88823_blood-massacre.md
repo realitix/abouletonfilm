@@ -1,0 +1,1 @@
+{"tmdb_id": 88823, "title": "Blood Massacre", "original_title": "Blood Massacre", "slug_title": "blood-massacre", "date": "1987-01-01", "genre": "Horreur / Crime", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FPiYlNGEzV9fblDwG6SoXzO52V.jpg", "actors": ["George Stover (Charlie Rizzo)"], "comments": [], "recommandations_id": []}

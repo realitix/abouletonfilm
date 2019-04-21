@@ -1,0 +1,1 @@
+{"tmdb_id": 481214, "title": "Boxer's Last Stand", "original_title": "Fu chou zhe", "slug_title": "boxer-s-last-stand", "date": "1976-10-07", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18OLiMIzp5DTEblBoKzdDSMmFMn.jpg", "actors": [], "comments": [], "recommandations_id": []}

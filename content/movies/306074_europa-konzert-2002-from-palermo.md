@@ -1,0 +1,1 @@
+{"tmdb_id": 306074, "title": "Europa Konzert 2002 from Palermo", "original_title": "Europa Konzert 2002 from Palermo", "slug_title": "europa-konzert-2002-from-palermo", "date": "2012-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499842, "title": "Min storebror Charlie", "original_title": "Min storebror Charlie", "slug_title": "min-storebror-charlie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3rnuiV9AUFLEb8cKzR1EshDty08.jpg", "actors": [], "comments": [], "recommandations_id": []}

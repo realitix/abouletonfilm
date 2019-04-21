@@ -1,0 +1,1 @@
+{"tmdb_id": 343379, "title": "L'\u00e9lectrocut\u00e9", "original_title": "L'\u00e9lectrocut\u00e9", "slug_title": "l-electrocute", "date": "1908-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

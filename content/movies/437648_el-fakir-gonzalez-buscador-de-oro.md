@@ -1,0 +1,1 @@
+{"tmdb_id": 437648, "title": "El Fakir Gonz\u00e1lez buscador de oro", "original_title": "El Fakir Gonz\u00e1lez buscador de oro", "slug_title": "el-fakir-gonzalez-buscador-de-oro", "date": "1942-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

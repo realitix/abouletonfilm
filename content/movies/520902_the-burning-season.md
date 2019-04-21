@@ -1,0 +1,1 @@
+{"tmdb_id": 520902, "title": "The Burning Season", "original_title": "The Burning Season", "slug_title": "the-burning-season", "date": "", "genre": "Familial", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Naomi Watts (June Engle)", "Sophia Lillis (Celia Engle)"], "comments": [], "recommandations_id": []}

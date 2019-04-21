@@ -1,0 +1,1 @@
+{"tmdb_id": 306068, "title": "Who's Afraid of Happy Endings?", "original_title": "Who's Afraid of Happy Endings?", "slug_title": "who-s-afraid-of-happy-endings", "date": "2007-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

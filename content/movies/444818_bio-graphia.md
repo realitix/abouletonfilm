@@ -1,0 +1,1 @@
+{"tmdb_id": 444818, "title": "Bio-graphia", "original_title": "Bio-graphia", "slug_title": "bio-graphia", "date": "1975-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5M2iEIVTzbWR1endBh8TL6xrSB1.jpg", "actors": ["Giorgos Kyritsis ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584508, "title": "Paramount in the 1950s", "original_title": "Paramount in the 1950s", "slug_title": "paramount-in-the-1950s", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

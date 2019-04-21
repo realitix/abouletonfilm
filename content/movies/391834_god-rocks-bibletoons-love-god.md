@@ -1,0 +1,1 @@
+{"tmdb_id": 391834, "title": "God Rocks! Bibletoons: Love God!", "original_title": "God Rocks! Bibletoons: Love God!", "slug_title": "god-rocks-bibletoons-love-god", "date": "2007-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

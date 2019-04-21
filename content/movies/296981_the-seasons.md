@@ -1,0 +1,1 @@
+{"tmdb_id": 296981, "title": "The Seasons", "original_title": "Le stagioni", "slug_title": "the-seasons", "date": "1961-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXbsSdyOaoDtY5Fz3eJ9YhwPLf8.jpg", "actors": [], "comments": [], "recommandations_id": []}

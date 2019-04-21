@@ -1,0 +1,1 @@
+{"tmdb_id": 481458, "title": "Cambodia: Year Ten (Update)", "original_title": "Cambodia: Year Ten (Update)", "slug_title": "cambodia-year-ten-update", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wneY4WNq2ytRq0kiFCXC4QaniL5.jpg", "actors": [], "comments": [], "recommandations_id": []}

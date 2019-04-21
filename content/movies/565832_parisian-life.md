@@ -1,0 +1,1 @@
+{"tmdb_id": 565832, "title": "Parisian Life", "original_title": "La vie parisienne", "slug_title": "parisian-life", "date": "1977-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lZKO14uJB9446Rc8Aqz1Io7XquA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 566197, "title": "The Betrayal", "original_title": "The Betrayal", "slug_title": "the-betrayal", "date": "1948-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

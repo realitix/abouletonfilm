@@ -1,0 +1,1 @@
+{"tmdb_id": 162965, "title": "The Picnic", "original_title": "The Picnic", "slug_title": "the-picnic", "date": "1930-10-22", "genre": "Animation", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0hrwMsht6bluecYRsWafdelQXO.jpg", "actors": [], "comments": [], "recommandations_id": [184657, 156458, 156488, 161884]}

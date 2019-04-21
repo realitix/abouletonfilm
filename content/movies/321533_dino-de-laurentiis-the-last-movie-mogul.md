@@ -1,0 +1,1 @@
+{"tmdb_id": 321533, "title": "Dino De Laurentiis: The Last Movie Mogul", "original_title": "Dino De Laurentiis: The Last Movie Mogul", "slug_title": "dino-de-laurentiis-the-last-movie-mogul", "date": "2001-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

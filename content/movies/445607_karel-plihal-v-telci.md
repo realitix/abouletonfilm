@@ -1,0 +1,1 @@
+{"tmdb_id": 445607, "title": "Karel Pl\u00edhal v Tel\u010di", "original_title": "Karel Pl\u00edhal v Tel\u010di", "slug_title": "karel-plihal-v-telci", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karel Pl\u00edhal ()"], "comments": [], "recommandations_id": []}

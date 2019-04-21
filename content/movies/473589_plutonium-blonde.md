@@ -1,0 +1,1 @@
+{"tmdb_id": 473589, "title": "Plutonium Blonde", "original_title": "Plutonium Blonde", "slug_title": "plutonium-blonde", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rRNyRee4TZTn8yAr4PkO97fqCj.jpg", "actors": [], "comments": [], "recommandations_id": []}

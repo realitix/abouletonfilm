@@ -1,0 +1,1 @@
+{"tmdb_id": 264027, "title": "American Bomber", "original_title": "American Bomber", "slug_title": "american-bomber", "date": "2006-08-08", "genre": "Action / Drame / Thriller", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Flowers (Scott)", "Jeremy Horne (Professor)"], "comments": [], "recommandations_id": []}

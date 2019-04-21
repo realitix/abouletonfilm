@@ -1,0 +1,1 @@
+{"tmdb_id": 519707, "title": "The Roots Of Goofy", "original_title": "The Roots Of Goofy", "slug_title": "the-roots-of-goofy", "date": "1988-12-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9QH2D3XPEV4GiXrLusCjC8aJHzu.jpg", "actors": [], "comments": [], "recommandations_id": []}

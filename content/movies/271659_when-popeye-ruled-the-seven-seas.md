@@ -1,0 +1,1 @@
+{"tmdb_id": 271659, "title": "When Popeye Ruled The Seven Seas", "original_title": "When Popeye Ruled The Seven Seas", "slug_title": "when-popeye-ruled-the-seven-seas", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 83157, "title": "Sma\u017calnia Story", "original_title": "Sma\u017calnia Story", "slug_title": "smazalnia-story", "date": "1985-05-17", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zbigniew Buczkowski (Zbynio)"], "comments": [], "recommandations_id": []}

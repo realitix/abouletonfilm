@@ -1,0 +1,1 @@
+{"tmdb_id": 509861, "title": "Charming Consultants of Marriage Agency", "original_title": "Charming Consultants of Marriage Agency", "slug_title": "charming-consultants-of-marriage-agency", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

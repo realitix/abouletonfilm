@@ -1,0 +1,1 @@
+{"tmdb_id": 312099, "title": "She Is the Matador", "original_title": "She Is the Matador", "slug_title": "she-is-the-matador", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

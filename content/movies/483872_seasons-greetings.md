@@ -1,0 +1,1 @@
+{"tmdb_id": 483872, "title": "Seasons Greetings", "original_title": "Seasons Greetings", "slug_title": "seasons-greetings", "date": "1946-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

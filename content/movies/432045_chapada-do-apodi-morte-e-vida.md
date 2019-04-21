@@ -1,0 +1,1 @@
+{"tmdb_id": 432045, "title": "Chapada do Apodi, morte e vida", "original_title": "Chapada do Apodi, morte e vida", "slug_title": "chapada-do-apodi-morte-e-vida", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

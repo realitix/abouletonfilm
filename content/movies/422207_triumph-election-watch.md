@@ -1,0 +1,1 @@
+{"tmdb_id": 422207, "title": "Triumph Election Watch", "original_title": "Triumph Election Watch", "slug_title": "triumph-election-watch", "date": "2016-10-08", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Smigel (Triumph the Insult Comic Dog)"], "comments": [], "recommandations_id": []}

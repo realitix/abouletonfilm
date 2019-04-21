@@ -1,0 +1,1 @@
+{"tmdb_id": 466505, "title": "Balachandrudu", "original_title": "Balachandrudu", "slug_title": "balachandrudu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

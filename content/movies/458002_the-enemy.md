@@ -1,0 +1,1 @@
+{"tmdb_id": 458002, "title": "The Enemy", "original_title": "The Enemy", "slug_title": "the-enemy", "date": "1974-06-01", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSobyeBJrS3AwpONE8gnZ8J5Vq3.jpg", "actors": ["Judith Ivey (Betsy)", "Ken Smith ()"], "comments": [], "recommandations_id": []}

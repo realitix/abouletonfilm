@@ -1,0 +1,1 @@
+{"tmdb_id": 61724, "title": "Reparando", "original_title": "Reparando", "slug_title": "reparando", "date": "2010-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kdeVLW22oyhlBHv7yv7yO9xU5M.jpg", "actors": [], "comments": [], "recommandations_id": []}

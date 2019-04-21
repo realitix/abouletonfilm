@@ -1,0 +1,1 @@
+{"tmdb_id": 499836, "title": "Beheading Place", "original_title": "Kubi no za", "slug_title": "beheading-place", "date": "1929-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fbr\u00f4 Tanizaki ()", "Umeko Sakuragi ()", "Seizabur\u00f4 Kawazu ()", "Tsukie Matsuura ()"], "comments": [], "recommandations_id": []}

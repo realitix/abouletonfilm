@@ -1,0 +1,1 @@
+{"tmdb_id": 275760, "title": "8 Wheels & Some Soul Brotha' Music", "original_title": "8 Wheels & Some Soul Brotha' Music", "slug_title": "8-wheels-some-soul-brotha-music", "date": "2003-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

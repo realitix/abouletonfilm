@@ -1,0 +1,1 @@
+{"tmdb_id": 137512, "title": "Bruno's Blues", "original_title": "Bruno's Blues", "slug_title": "bruno-s-blues", "date": "2012-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybv136zKhI2z9WGkd5rP7v7pDSA.jpg", "actors": [], "comments": [], "recommandations_id": []}

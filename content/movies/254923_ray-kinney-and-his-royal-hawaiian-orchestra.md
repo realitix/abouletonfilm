@@ -1,0 +1,1 @@
+{"tmdb_id": 254923, "title": "Ray Kinney and His Royal Hawaiian Orchestra", "original_title": "Ray Kinney and His Royal Hawaiian Orchestra", "slug_title": "ray-kinney-and-his-royal-hawaiian-orchestra", "date": "1938-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

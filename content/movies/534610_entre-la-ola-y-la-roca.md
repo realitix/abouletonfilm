@@ -1,0 +1,1 @@
+{"tmdb_id": 534610, "title": "Entre la ola y la roca", "original_title": "Entre la ola y la roca", "slug_title": "entre-la-ola-y-la-roca", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrqiuaD2siGH43WEZf2be2YYJo4.jpg", "actors": [], "comments": [], "recommandations_id": []}

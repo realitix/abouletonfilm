@@ -1,0 +1,1 @@
+{"tmdb_id": 270382, "title": "The Axiliad", "original_title": "Siekierezada", "slug_title": "the-axiliad", "date": "1986-10-13", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QPM2BvyZOleI9yqi1ETwrQFd7O.jpg", "actors": ["Edward \u017bentara (Janek Pradera)"], "comments": [], "recommandations_id": []}

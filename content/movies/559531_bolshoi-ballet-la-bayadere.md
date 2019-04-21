@@ -1,0 +1,1 @@
+{"tmdb_id": 559531, "title": "Bolshoi Ballet: La Bayadere", "original_title": "Bolshoi Ballet: La Bayadere", "slug_title": "bolshoi-ballet-la-bayadere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0cJ5c1K2IqtewyupoSob4X4jD1.jpg", "actors": [], "comments": [], "recommandations_id": []}

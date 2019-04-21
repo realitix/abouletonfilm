@@ -1,0 +1,1 @@
+{"tmdb_id": 545663, "title": "LA BOHEME - OPERA DIFERIDO", "original_title": "LA BOHEME - OPERA DIFERIDO", "slug_title": "la-boheme-opera-diferido", "date": "2018-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xo8vbnPqBVgKv2NwtP5dYLPBe6g.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 234501, "title": "Crowin' Pains", "original_title": "Crowin' Pains", "slug_title": "crowin-pains", "date": "1962-10-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYyIZkZ45MIsdgy0N6Lx2v7wONI.jpg", "actors": [], "comments": [], "recommandations_id": []}

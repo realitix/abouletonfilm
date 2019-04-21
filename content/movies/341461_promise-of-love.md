@@ -1,0 +1,1 @@
+{"tmdb_id": 341461, "title": "Promise of Love", "original_title": "Promise of Love", "slug_title": "promise-of-love", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pMgxyHzVqcT3qyazCTlD3pgOqNq.jpg", "actors": ["Manuel Kichian (Jirair Markarian (Jerry))"], "comments": [], "recommandations_id": []}

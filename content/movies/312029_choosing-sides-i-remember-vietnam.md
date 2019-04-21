@@ -1,0 +1,1 @@
+{"tmdb_id": 312029, "title": "Choosing Sides: I Remember Vietnam", "original_title": "Choosing Sides: I Remember Vietnam", "slug_title": "choosing-sides-i-remember-vietnam", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

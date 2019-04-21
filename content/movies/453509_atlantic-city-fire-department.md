@@ -1,0 +1,1 @@
+{"tmdb_id": 453509, "title": "Atlantic City Fire Department", "original_title": "Atlantic City Fire Department", "slug_title": "atlantic-city-fire-department", "date": "1897-08-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

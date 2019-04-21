@@ -1,0 +1,1 @@
+{"tmdb_id": 203933, "title": "A Girl and a Gun", "original_title": "A Girl and a Gun", "slug_title": "a-girl-and-a-gun", "date": "2013-07-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sHp0ekxOvxLI2icXFUS3f3MwgzH.jpg", "actors": [], "comments": [], "recommandations_id": []}

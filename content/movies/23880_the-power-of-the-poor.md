@@ -1,0 +1,1 @@
+{"tmdb_id": 23880, "title": "The Power of the Poor", "original_title": "Fantan Fanga", "slug_title": "the-power-of-the-poor", "date": "2009-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

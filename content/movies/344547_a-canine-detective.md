@@ -1,0 +1,1 @@
+{"tmdb_id": 344547, "title": "A Canine Detective", "original_title": "A Canine Detective", "slug_title": "a-canine-detective", "date": "1911-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

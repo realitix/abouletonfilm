@@ -1,0 +1,1 @@
+{"tmdb_id": 410254, "title": "Moses Sisters Interview Pearl Bowser", "original_title": "Moses Sisters Interview Pearl Bowser", "slug_title": "moses-sisters-interview-pearl-bowser", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pearl Bowser ()"], "comments": [], "recommandations_id": []}

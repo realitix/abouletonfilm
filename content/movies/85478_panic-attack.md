@@ -1,0 +1,1 @@
+{"tmdb_id": 85478, "title": "Panic Attack!", "original_title": "Ataque de P\u00e1nico!", "slug_title": "panic-attack", "date": "2009-09-18", "genre": "Science-Fiction", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81F6KVSwIYq6eqXEZ9NgrampHAi.jpg", "actors": [], "comments": [], "recommandations_id": [251153, 131933, 152304, 302570]}

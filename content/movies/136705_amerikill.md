@@ -1,0 +1,1 @@
+{"tmdb_id": 136705, "title": "Amerikill", "original_title": "Amerikill", "slug_title": "amerikill", "date": "1999-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqaoFnoGlNaHt12MMbnL6XfbBsW.jpg", "actors": [], "comments": [], "recommandations_id": []}

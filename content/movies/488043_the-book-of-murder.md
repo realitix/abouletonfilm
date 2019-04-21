@@ -1,0 +1,1 @@
+{"tmdb_id": 488043, "title": "The Book of Murder", "original_title": "The Book of Murder", "slug_title": "the-book-of-murder", "date": "1974-03-19", "genre": "T\u00e9l\u00e9film / Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

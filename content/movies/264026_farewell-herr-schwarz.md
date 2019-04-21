@@ -1,0 +1,1 @@
+{"tmdb_id": 264026, "title": "Farewell, Herr Schwarz", "original_title": "Schnee von gestern", "slug_title": "farewell-herr-schwarz", "date": "2014-04-10", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2AFSA4t7M4v72iZEJnjFCqEgQw.jpg", "actors": [], "comments": [], "recommandations_id": []}

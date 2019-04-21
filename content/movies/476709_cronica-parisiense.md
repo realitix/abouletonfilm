@@ -1,0 +1,1 @@
+{"tmdb_id": 476709, "title": "Cr\u00f3nica Parisiense", "original_title": "Cr\u00f3nica Parisiense", "slug_title": "cronica-parisiense", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 196311, "title": "Let's Work It Out!", "original_title": "Let's Work It Out!", "slug_title": "let-s-work-it-out", "date": "2010-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hqaCyF7rrVZj6qm5fnPmcaw6qut.jpg", "actors": [], "comments": [], "recommandations_id": []}

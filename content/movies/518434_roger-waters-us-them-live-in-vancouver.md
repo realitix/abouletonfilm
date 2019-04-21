@@ -1,0 +1,1 @@
+{"tmdb_id": 518434, "title": "Roger Waters: Us + Them Live in Vancouver", "original_title": "Roger Waters: Us + Them Live in Vancouver", "slug_title": "roger-waters-us-them-live-in-vancouver", "date": "2017-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roger Waters ()"], "comments": [], "recommandations_id": []}

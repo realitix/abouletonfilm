@@ -1,0 +1,1 @@
+{"tmdb_id": 470488, "title": "O Brilho dos Meus Olhos", "original_title": "O Brilho dos Meus Olhos", "slug_title": "o-brilho-dos-meus-olhos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

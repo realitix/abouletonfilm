@@ -1,0 +1,1 @@
+{"tmdb_id": 350010, "title": "\uc0ac\ud615\uc0bc\uac78", "original_title": "\uc0ac\ud615\uc0bc\uac78", "slug_title": "sahyeongsamgeol", "date": "1981-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

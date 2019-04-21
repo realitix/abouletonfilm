@@ -1,0 +1,1 @@
+{"tmdb_id": 441743, "title": "Midnight: Complete And Total Fucking Shit", "original_title": "Midnight: Complete And Total Fucking Shit", "slug_title": "midnight-complete-and-total-fucking-shit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

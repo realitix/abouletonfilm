@@ -1,0 +1,1 @@
+{"tmdb_id": 322716, "title": "Exoticore", "original_title": "Exoticore", "slug_title": "exoticore", "date": "2004-03-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fDhTxVR2aFh4HQma2SCi2MLJM5Q.jpg", "actors": ["Isaka Sawadogo ()", "Machilla Kolltveit Tambwe ()"], "comments": [], "recommandations_id": []}

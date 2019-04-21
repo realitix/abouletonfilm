@@ -1,0 +1,1 @@
+{"tmdb_id": 415557, "title": "The Quarantine Hauntings", "original_title": "The Quarantine Hauntings", "slug_title": "the-quarantine-hauntings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ih4yR07oCqowsESXHo6TiF6KxWA.jpg", "actors": [], "comments": [], "recommandations_id": []}

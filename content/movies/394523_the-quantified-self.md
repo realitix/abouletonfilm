@@ -1,0 +1,1 @@
+{"tmdb_id": 394523, "title": "The Quantified Self", "original_title": "The Quantified Self", "slug_title": "the-quantified-self", "date": "2016-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

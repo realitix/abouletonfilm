@@ -1,0 +1,1 @@
+{"tmdb_id": 421947, "title": "Shooting Indians: A Journey with Jeffrey Thomas", "original_title": "Shooting Indians: A Journey with Jeffrey Thomas", "slug_title": "shooting-indians-a-journey-with-jeffrey-thomas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

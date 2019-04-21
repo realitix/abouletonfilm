@@ -1,0 +1,1 @@
+{"tmdb_id": 504355, "title": "Sebastian Beach One Fine Day", "original_title": "Sebastian Beach One Fine Day", "slug_title": "sebastian-beach-one-fine-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

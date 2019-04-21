@@ -1,0 +1,1 @@
+{"tmdb_id": 437524, "title": "Inuk Woman City Blues", "original_title": "Inuk Woman City Blues", "slug_title": "inuk-woman-city-blues", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

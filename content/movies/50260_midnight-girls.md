@@ -1,0 +1,1 @@
+{"tmdb_id": 50260, "title": "Midnight Girls", "original_title": "Wu ye li ren", "slug_title": "midnight-girls", "date": "1986-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGM1cXVpvbucEpnXfZ2fe6QqaLG.jpg", "actors": ["Francis Ng ()"], "comments": [], "recommandations_id": []}

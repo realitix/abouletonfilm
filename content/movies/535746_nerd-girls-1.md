@@ -1,0 +1,1 @@
+{"tmdb_id": 535746, "title": "Nerd Girls 1", "original_title": "Nerd Girls 1", "slug_title": "nerd-girls-1", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alana Freitas ()", "Carol Castro ()", "Kamilla Werneck ()", "Ysys Martins ()"], "comments": [], "recommandations_id": []}

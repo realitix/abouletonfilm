@@ -1,0 +1,1 @@
+{"tmdb_id": 300336, "title": "Ghetto Ballet", "original_title": "Ghetto Ballet", "slug_title": "ghetto-ballet", "date": "2009-12-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Xklx0UvgR2lHDz9VAbJ0vJHwGk.jpg", "actors": [], "comments": [], "recommandations_id": []}

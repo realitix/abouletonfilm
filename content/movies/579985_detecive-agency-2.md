@@ -1,0 +1,1 @@
+{"tmdb_id": 579985, "title": "Detecive Agency 2", "original_title": "Detecive Agency 2", "slug_title": "detecive-agency-2", "date": "2016-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMuRFfrICeO0Ku8OKSvVm8DwTGW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520692, "title": "Arizona Sweepstakes", "original_title": "Arizona Sweepstakes", "slug_title": "arizona-sweepstakes", "date": "1926-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hoot Gibson (Coot Cadigan)"], "comments": [], "recommandations_id": []}

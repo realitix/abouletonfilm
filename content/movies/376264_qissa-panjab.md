@@ -1,0 +1,1 @@
+{"tmdb_id": 376264, "title": "Qissa Panjab", "original_title": "Qissa Panjab", "slug_title": "qissa-panjab", "date": "2015-10-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKF55GHGWzkB03xDrno1KSQPRsu.jpg", "actors": [], "comments": [], "recommandations_id": []}

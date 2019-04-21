@@ -1,0 +1,1 @@
+{"tmdb_id": 390955, "title": "Shelter", "original_title": "Zaklon", "slug_title": "shelter", "date": "1967-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwAgtfChd2chhJL7vtTrnFIOc.jpg", "actors": [], "comments": [], "recommandations_id": []}

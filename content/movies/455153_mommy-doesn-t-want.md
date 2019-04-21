@@ -1,0 +1,1 @@
+{"tmdb_id": 455153, "title": "Mommy Doesn't Want", "original_title": "Mamma non vuole", "slug_title": "mommy-doesn-t-want", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWOeNoAirUcxaPuQpXapd3ft5SA.jpg", "actors": [], "comments": [], "recommandations_id": []}

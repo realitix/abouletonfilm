@@ -1,0 +1,1 @@
+{"tmdb_id": 497746, "title": "Literalmente especiais", "original_title": "Literalmente especiais", "slug_title": "literalmente-especiais", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

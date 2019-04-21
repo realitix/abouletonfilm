@@ -1,0 +1,1 @@
+{"tmdb_id": 436878, "title": "Os Segredos que a Cal Esconde", "original_title": "Os Segredos que a Cal Esconde", "slug_title": "os-segredos-que-a-cal-esconde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wESfhFsm4UEdgqgW0hkjNhMn4D9.jpg", "actors": [], "comments": [], "recommandations_id": []}

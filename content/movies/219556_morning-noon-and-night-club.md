@@ -1,0 +1,1 @@
+{"tmdb_id": 219556, "title": "Morning, Noon and Night Club", "original_title": "Morning, Noon and Night Club", "slug_title": "morning-noon-and-night-club", "date": "1937-06-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gwzO96AZOyDwf9a8xj06wyep100.jpg", "actors": [], "comments": [], "recommandations_id": []}

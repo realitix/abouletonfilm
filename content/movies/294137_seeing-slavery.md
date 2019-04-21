@@ -1,0 +1,1 @@
+{"tmdb_id": 294137, "title": "Seeing Slavery", "original_title": "Seeing Slavery", "slug_title": "seeing-slavery", "date": "2014-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

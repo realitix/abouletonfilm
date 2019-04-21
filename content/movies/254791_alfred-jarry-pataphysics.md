@@ -1,0 +1,1 @@
+{"tmdb_id": 254791, "title": "Alfred Jarry & 'Pataphysics", "original_title": "Alfred Jarry & 'Pataphysics", "slug_title": "alfred-jarry-pataphysics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

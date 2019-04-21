@@ -1,0 +1,1 @@
+{"tmdb_id": 175886, "title": "Trapped", "original_title": "Trapped", "slug_title": "trapped", "date": "1923-06-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RMt2TglQ4wbt1tRu3Yh3wBP2nh.jpg", "actors": ["Max Fleischer (Himself)"], "comments": [], "recommandations_id": []}

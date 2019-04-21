@@ -1,0 +1,1 @@
+{"tmdb_id": 195418, "title": "Chemistry", "original_title": "Chemistry", "slug_title": "chemistry", "date": "2013-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ovL1xCGnlxObVPC4clQ1S0cEJxH.jpg", "actors": ["Sreeram Kodali ()", "Amitha Rao ()"], "comments": [], "recommandations_id": []}

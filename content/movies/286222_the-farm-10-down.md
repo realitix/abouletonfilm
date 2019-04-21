@@ -1,0 +1,1 @@
+{"tmdb_id": 286222, "title": "The Farm: 10 Down", "original_title": "The Farm: 10 Down", "slug_title": "the-farm-10-down", "date": "2009-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 298554, "title": "Alexander: Hero of Heroes", "original_title": "Alexander: Hero of Heroes", "slug_title": "alexander-hero-of-heroes", "date": "2007-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

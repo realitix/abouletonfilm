@@ -1,0 +1,1 @@
+{"tmdb_id": 258927, "title": "Diploteratology", "original_title": "Diploteratology", "slug_title": "diploteratology", "date": "1978-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

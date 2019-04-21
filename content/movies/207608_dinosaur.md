@@ -1,0 +1,1 @@
+{"tmdb_id": 207608, "title": "Dinosaur!", "original_title": "Dinosaur!", "slug_title": "dinosaur", "date": "1985-11-05", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUawlzpUM1qYPJjppSJGWXgoZT.jpg", "actors": ["Christopher Reeve (Himself)"], "comments": [], "recommandations_id": []}

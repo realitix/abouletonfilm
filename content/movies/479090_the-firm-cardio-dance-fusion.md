@@ -1,0 +1,1 @@
+{"tmdb_id": 479090, "title": "The FIRM: Cardio Dance Fusion", "original_title": "The FIRM: Cardio Dance Fusion", "slug_title": "the-firm-cardio-dance-fusion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMaVgU6zp9CjmBqRe1qpRHMLIFk.jpg", "actors": [], "comments": [], "recommandations_id": []}

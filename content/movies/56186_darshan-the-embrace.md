@@ -1,0 +1,1 @@
+{"tmdb_id": 56186, "title": "Darshan - The Embrace", "original_title": "Darshan - The Embrace", "slug_title": "darshan-the-embrace", "date": "2005-11-30", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tc5wzbIaoO5NHE25PpE2pOhFw40.jpg", "actors": [], "comments": [], "recommandations_id": []}

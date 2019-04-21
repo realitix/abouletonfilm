@@ -1,0 +1,1 @@
+{"tmdb_id": 488412, "title": "Deep Sea Monster Raiga", "original_title": "Shinkaiju Raiga", "slug_title": "deep-sea-monster-raiga", "date": "2009-08-15", "genre": "Action / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEfsgd2VWHL7iy8zJLwO7Yzo8ev.jpg", "actors": [], "comments": [], "recommandations_id": []}

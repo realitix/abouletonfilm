@@ -1,0 +1,1 @@
+{"tmdb_id": 451578, "title": "Chasing the Killer in Vietnam", "original_title": "\u8d8a\u5883\u7ddd\u5147", "slug_title": "chasing-the-killer-in-vietnam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

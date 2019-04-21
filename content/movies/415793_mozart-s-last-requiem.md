@@ -1,0 +1,1 @@
+{"tmdb_id": 415793, "title": "Mozart's Last Requiem", "original_title": "La mort de Mozart", "slug_title": "mozart-s-last-requiem", "date": "1909-09-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

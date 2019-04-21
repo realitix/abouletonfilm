@@ -1,0 +1,1 @@
+{"tmdb_id": 583452, "title": "Parkland", "original_title": "Parquel\u00e2ndia", "slug_title": "parkland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

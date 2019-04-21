@@ -1,0 +1,1 @@
+{"tmdb_id": 554015, "title": "Seasons", "original_title": "Seasons", "slug_title": "seasons", "date": "2018-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

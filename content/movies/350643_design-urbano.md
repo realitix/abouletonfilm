@@ -1,0 +1,1 @@
+{"tmdb_id": 350643, "title": "Design Urbano", "original_title": "Design Urbano", "slug_title": "design-urbano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

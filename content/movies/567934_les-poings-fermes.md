@@ -1,0 +1,1 @@
+{"tmdb_id": 567934, "title": "Les poings ferm\u00e9s", "original_title": "Les poings ferm\u00e9s", "slug_title": "les-poings-fermes", "date": "1985-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

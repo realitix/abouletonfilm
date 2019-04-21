@@ -1,0 +1,1 @@
+{"tmdb_id": 303661, "title": "Stomatol (Neger'n)", "original_title": "Stomatol (Neger'n)", "slug_title": "stomatol-neger-n", "date": "1926-11-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

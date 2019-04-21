@@ -1,0 +1,1 @@
+{"tmdb_id": 411749, "title": "Dilema I: Burundanga Boricua", "original_title": "Dilema I: Burundanga Boricua", "slug_title": "dilema-i-burundanga-boricua", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Awilda Sterling ()"], "comments": [], "recommandations_id": []}

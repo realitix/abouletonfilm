@@ -1,0 +1,1 @@
+{"tmdb_id": 558201, "title": "Samantha", "original_title": "Samantha", "slug_title": "samantha", "date": "2018-10-21", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luke Edwards (Henry Mathis)", "Laura Cayouette (Jodi Brooks)", "Melissa Saint-Amand (Young Woman)"], "comments": [], "recommandations_id": []}

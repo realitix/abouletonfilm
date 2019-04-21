@@ -1,0 +1,1 @@
+{"tmdb_id": 271909, "title": "The Pottery at Ilza", "original_title": "Ceramika ilzecka", "slug_title": "the-pottery-at-ilza", "date": "1951-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6Dka54SgeVkQ89WreURBsuIiwa.jpg", "actors": [], "comments": [], "recommandations_id": []}

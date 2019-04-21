@@ -1,0 +1,1 @@
+{"tmdb_id": 187894, "title": "College Capers", "original_title": "College Capers", "slug_title": "college-capers", "date": "1931-03-07", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

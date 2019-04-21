@@ -1,0 +1,1 @@
+{"tmdb_id": 561878, "title": "Concrete", "original_title": "Concrete", "slug_title": "concrete", "date": "2018-07-11", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6n21j3TkcdAfoa9PglWV6doajEZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

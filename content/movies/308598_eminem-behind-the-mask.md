@@ -1,0 +1,1 @@
+{"tmdb_id": 308598, "title": "Eminem: Behind the Mask", "original_title": "Eminem: Behind the Mask", "slug_title": "eminem-behind-the-mask", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

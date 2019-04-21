@@ -1,0 +1,1 @@
+{"tmdb_id": 281854, "title": "Dizer e N\u00e3o Pedir Segredo", "original_title": "Dizer e N\u00e3o Pedir Segredo", "slug_title": "dizer-e-nao-pedir-segredo", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znuOLHv4k4EtrnFbOe6GVMVA0Z5.jpg", "actors": [], "comments": [], "recommandations_id": []}

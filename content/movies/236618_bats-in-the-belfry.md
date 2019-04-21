@@ -1,0 +1,1 @@
+{"tmdb_id": 236618, "title": "Bats in the Belfry", "original_title": "Bats in the Belfry", "slug_title": "bats-in-the-belfry", "date": "1942-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e902LccDf0yMJMIec0zU1Ffxzoc.jpg", "actors": [], "comments": [], "recommandations_id": []}

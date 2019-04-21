@@ -1,0 +1,1 @@
+{"tmdb_id": 352374, "title": "The Crumb of It", "original_title": "The Crumb of It", "slug_title": "the-crumb-of-it", "date": "2014-05-29", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jocelin Donahue (May)", "Chioke Nassor (Cyril)"], "comments": [], "recommandations_id": []}

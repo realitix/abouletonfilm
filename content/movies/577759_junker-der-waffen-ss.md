@@ -1,0 +1,1 @@
+{"tmdb_id": 577759, "title": "Junker der Waffen-SS", "original_title": "Junker der Waffen-SS", "slug_title": "junker-der-waffen-ss", "date": "1943-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

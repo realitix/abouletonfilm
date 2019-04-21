@@ -1,0 +1,1 @@
+{"tmdb_id": 309283, "title": "Addicted to Love", "original_title": "\u8001\u90a3", "slug_title": "addicted-to-love", "date": "2010-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLrULTkNCk3QsiLa3muh4ARoA9g.jpg", "actors": [], "comments": [], "recommandations_id": []}

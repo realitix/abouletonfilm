@@ -1,0 +1,1 @@
+{"tmdb_id": 523348, "title": "The Furious with Bottle & Can", "original_title": "De Woedende met fles & blik", "slug_title": "the-furious-with-bottle-can", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

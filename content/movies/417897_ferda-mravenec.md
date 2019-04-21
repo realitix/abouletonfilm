@@ -1,0 +1,1 @@
+{"tmdb_id": 417897, "title": "Ferda Mravenec", "original_title": "Ferda Mravenec", "slug_title": "ferda-mravenec", "date": "1943-02-28", "genre": "Animation / Familial", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1es4cUzmfyUBlgvwPjtsd5RByN.jpg", "actors": [], "comments": [], "recommandations_id": []}

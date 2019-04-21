@@ -1,0 +1,1 @@
+{"tmdb_id": 536659, "title": "Socorro!", "original_title": "Socorro!", "slug_title": "socorro", "date": "", "genre": "Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samuel Sequeira (Joel)", "S\u00e3o Esteves (Velhota)"], "comments": [], "recommandations_id": []}

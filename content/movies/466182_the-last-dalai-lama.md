@@ -1,0 +1,1 @@
+{"tmdb_id": 466182, "title": "The Last Dalai Lama?", "original_title": "The Last Dalai Lama?", "slug_title": "the-last-dalai-lama", "date": "2017-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPXKiJMhloUg3mFWsLnoSzJYDX9.jpg", "actors": [], "comments": [], "recommandations_id": []}

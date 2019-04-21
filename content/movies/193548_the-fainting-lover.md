@@ -1,0 +1,1 @@
+{"tmdb_id": 193548, "title": "The Fainting Lover", "original_title": "The Fainting Lover", "slug_title": "the-fainting-lover", "date": "1931-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Uncle Ed Roberts)", "Wade Boteler (Bert)", "Vernon Dent (Dr. Dudley Schmidt)"], "comments": [], "recommandations_id": []}

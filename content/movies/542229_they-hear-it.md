@@ -1,0 +1,1 @@
+{"tmdb_id": 542229, "title": "They Hear It", "original_title": "They Hear It", "slug_title": "they-hear-it", "date": "2020-12-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320730, "title": "Nicki Minaj: My Time Again", "original_title": "Nicki Minaj: My Time Again", "slug_title": "nicki-minaj-my-time-again", "date": "2015-01-18", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Z9782wjWEQS8Ydb6ioQ43zhkMA.jpg", "actors": [], "comments": [], "recommandations_id": []}

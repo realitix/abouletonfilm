@@ -1,0 +1,1 @@
+{"tmdb_id": 503094, "title": "Nel silenzio dei sassi", "original_title": "Nel silenzio dei sassi", "slug_title": "nel-silenzio-dei-sassi", "date": "1968-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 110902, "title": "Twins Live Karaoke 2010", "original_title": "Twins Live Karaoke 2010", "slug_title": "twins-live-karaoke-2010", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

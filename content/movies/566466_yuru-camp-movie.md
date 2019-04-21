@@ -1,0 +1,1 @@
+{"tmdb_id": 566466, "title": "Yuru Camp\u25b3 Movie", "original_title": "Yuru Camp\u25b3 Movie", "slug_title": "yuru-camp-movie", "date": "", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

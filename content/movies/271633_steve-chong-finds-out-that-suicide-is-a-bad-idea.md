@@ -1,0 +1,1 @@
+{"tmdb_id": 271633, "title": "Steve Chong Finds Out That Suicide Is a Bad Idea", "original_title": "Steve Chong Finds Out That Suicide Is a Bad Idea", "slug_title": "steve-chong-finds-out-that-suicide-is-a-bad-idea", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

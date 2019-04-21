@@ -1,0 +1,1 @@
+{"tmdb_id": 390072, "title": "Attitude", "original_title": "\u614b\u5ea6", "slug_title": "attitude", "date": "2008-07-07", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGYYTjxeJSZl4PPfYetkRqG6a6q.jpg", "actors": [], "comments": [], "recommandations_id": []}

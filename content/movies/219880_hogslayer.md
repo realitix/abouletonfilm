@@ -1,0 +1,1 @@
+{"tmdb_id": 219880, "title": "Hogslayer", "original_title": "Hogslayer", "slug_title": "hogslayer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 62480, "title": "Egon & D\u00f6nci", "original_title": "Egon & D\u00f6nci", "slug_title": "egon-donci", "date": "2007-11-29", "genre": "Animation / Science-Fiction / Com\u00e9die", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tdzxA8euddqv7SX4PvP4qDcVKXP.jpg", "actors": [], "comments": [], "recommandations_id": []}

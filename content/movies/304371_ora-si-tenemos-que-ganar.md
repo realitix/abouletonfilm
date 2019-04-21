@@ -1,0 +1,1 @@
+{"tmdb_id": 304371, "title": "Ora s\u00ed tenemos que ganar", "original_title": "Ora s\u00ed tenemos que ganar", "slug_title": "ora-si-tenemos-que-ganar", "date": "1981-10-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/opjHm9AlAYiWTK8tTznt2z8RQvw.jpg", "actors": [], "comments": [], "recommandations_id": []}

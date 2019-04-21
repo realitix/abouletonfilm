@@ -1,0 +1,1 @@
+{"tmdb_id": 468572, "title": "American Shooting Number 2", "original_title": "American Shooting Number 2", "slug_title": "american-shooting-number-2", "date": "1981-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

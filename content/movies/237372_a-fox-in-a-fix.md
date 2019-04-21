@@ -1,0 +1,1 @@
+{"tmdb_id": 237372, "title": "A Fox in a Fix", "original_title": "A Fox in a Fix", "slug_title": "a-fox-in-a-fix", "date": "1951-01-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9NUtdo9qcVP2ZawvVGfeiQMKrFK.jpg", "actors": [], "comments": [], "recommandations_id": []}

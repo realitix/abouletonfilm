@@ -1,0 +1,1 @@
+{"tmdb_id": 38587, "title": "Alice Rattled by Rats", "original_title": "Alice Rattled by Rats", "slug_title": "alice-rattled-by-rats", "date": "1925-01-01", "genre": "Animation", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEaaG29IWCInjk5O5eqUmlmVij9.jpg", "actors": [], "comments": [], "recommandations_id": []}

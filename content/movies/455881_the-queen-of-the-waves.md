@@ -1,0 +1,1 @@
+{"tmdb_id": 455881, "title": "The Queen of the Waves", "original_title": "La Reina de las Olas", "slug_title": "the-queen-of-the-waves", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jbwFHba57YI7iUHBfvrg61Mi2dl.jpg", "actors": [], "comments": [], "recommandations_id": []}

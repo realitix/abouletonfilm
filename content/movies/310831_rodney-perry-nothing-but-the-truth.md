@@ -1,0 +1,1 @@
+{"tmdb_id": 310831, "title": "Rodney Perry: Nothing But the Truth", "original_title": "Rodney Perry: Nothing But the Truth", "slug_title": "rodney-perry-nothing-but-the-truth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rodney Perry (Himself)"], "comments": [], "recommandations_id": []}

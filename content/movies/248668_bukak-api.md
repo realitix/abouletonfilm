@@ -1,0 +1,1 @@
+{"tmdb_id": 248668, "title": "Bukak Api", "original_title": "Bukak Api", "slug_title": "bukak-api", "date": "2000-11-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9lm3yxvEbJrYeHYoAGJpTAfnma.jpg", "actors": ["Mislina Mustaffa (Murni)"], "comments": [], "recommandations_id": []}

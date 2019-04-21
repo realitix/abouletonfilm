@@ -1,0 +1,1 @@
+{"tmdb_id": 360182, "title": "Rambling Notes", "original_title": "Rambling Notes", "slug_title": "rambling-notes", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

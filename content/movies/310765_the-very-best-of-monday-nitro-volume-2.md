@@ -1,0 +1,1 @@
+{"tmdb_id": 310765, "title": "The Very Best of Monday Nitro: Volume 2", "original_title": "The Very Best of Monday Nitro: Volume 2", "slug_title": "the-very-best-of-monday-nitro-volume-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

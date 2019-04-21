@@ -1,0 +1,1 @@
+{"tmdb_id": 203030, "title": "Ding-A-Ling-Less", "original_title": "Ding-A-Ling-Less", "slug_title": "ding-a-ling-less", "date": "2004-12-01", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/plzPGXjbIJlrl9EGss5ZZs5DKDL.jpg", "actors": [], "comments": [], "recommandations_id": []}

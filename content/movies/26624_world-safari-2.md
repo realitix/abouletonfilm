@@ -1,0 +1,1 @@
+{"tmdb_id": 26624, "title": "World Safari 2", "original_title": "World Safari 2", "slug_title": "world-safari-2", "date": "1984-12-20", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhne2WrurierI5HflwFjaACqYNt.jpg", "actors": ["Alby Mangels (Himself)"], "comments": [], "recommandations_id": []}

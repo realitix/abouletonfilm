@@ -1,0 +1,1 @@
+{"tmdb_id": 465369, "title": "Nunca \u00e9 Noite no Mapa", "original_title": "Nunca \u00e9 Noite no Mapa", "slug_title": "nunca-e-noite-no-mapa", "date": "2016-11-24", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

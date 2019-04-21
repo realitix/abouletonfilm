@@ -1,0 +1,1 @@
+{"tmdb_id": 592268, "title": "Pea Brains", "original_title": "Pea Brains", "slug_title": "pea-brains", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Campbell (Fugax)", "Regina King (Kreela)"], "comments": [], "recommandations_id": []}

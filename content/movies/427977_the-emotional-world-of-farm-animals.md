@@ -1,0 +1,1 @@
+{"tmdb_id": 427977, "title": "The Emotional World of Farm Animals", "original_title": "The Emotional World of Farm Animals", "slug_title": "the-emotional-world-of-farm-animals", "date": "2004-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

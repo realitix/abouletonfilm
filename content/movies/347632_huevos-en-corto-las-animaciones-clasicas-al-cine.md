@@ -1,0 +1,1 @@
+{"tmdb_id": 347632, "title": "Huevos en Corto: Las Animaciones Cl\u00e1sicas al Cine", "original_title": "Huevos en Corto: Las Animaciones Cl\u00e1sicas al Cine", "slug_title": "huevos-en-corto-las-animaciones-clasicas-al-cine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

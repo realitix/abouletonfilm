@@ -1,0 +1,1 @@
+{"tmdb_id": 132210, "title": "Black Metal Veins", "original_title": "Black Metal Veins", "slug_title": "black-metal-veins", "date": "2012-08-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOLfNVZz1b4DFSs0zZANHEFfhJd.jpg", "actors": [], "comments": [], "recommandations_id": [42265, 25043, 69266]}

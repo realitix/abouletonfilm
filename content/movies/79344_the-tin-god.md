@@ -1,0 +1,1 @@
+{"tmdb_id": 79344, "title": "The Tin God", "original_title": "The Tin God", "slug_title": "the-tin-god", "date": "", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

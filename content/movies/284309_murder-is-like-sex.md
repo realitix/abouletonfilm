@@ -1,0 +1,1 @@
+{"tmdb_id": 284309, "title": "Murder Is Like Sex", "original_title": "Murder Is Like Sex", "slug_title": "murder-is-like-sex", "date": "2009-04-07", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qXVHRAEzFWVGKYR8G367AP8ogX.jpg", "actors": [], "comments": [], "recommandations_id": []}

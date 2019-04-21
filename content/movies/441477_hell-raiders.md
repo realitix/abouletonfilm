@@ -1,0 +1,1 @@
+{"tmdb_id": 441477, "title": "Hell Raiders", "original_title": "Hell Raiders", "slug_title": "hell-raiders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

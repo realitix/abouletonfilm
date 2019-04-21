@@ -1,0 +1,1 @@
+{"tmdb_id": 321876, "title": "Thank God It's Friday", "original_title": "Thank God It's Friday", "slug_title": "thank-god-it-s-friday", "date": "2013-08-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1rMl23otYZ91mAyyPK5oeqSHeeF.jpg", "actors": [], "comments": [], "recommandations_id": []}

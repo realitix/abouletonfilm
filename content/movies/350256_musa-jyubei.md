@@ -1,0 +1,1 @@
+{"tmdb_id": 350256, "title": "\ubb34\uc0ac \uc96c\ubca0\uc774", "original_title": "\ubb34\uc0ac \uc96c\ubca0\uc774", "slug_title": "musa-jyubei", "date": "2000-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

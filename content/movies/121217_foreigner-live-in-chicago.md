@@ -1,0 +1,1 @@
+{"tmdb_id": 121217, "title": "Foreigner - Live in Chicago", "original_title": "Foreigner - Live in Chicago", "slug_title": "foreigner-live-in-chicago", "date": "2009-12-31", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9GxS7LRLG7d4vMdTPpDod8Apcg.jpg", "actors": [], "comments": [], "recommandations_id": []}

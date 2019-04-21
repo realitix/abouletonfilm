@@ -1,0 +1,1 @@
+{"tmdb_id": 574324, "title": "The Chef", "original_title": "The Chef", "slug_title": "the-chef", "date": "1921-01-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Franey ()", "Charles Haefeli ()", "Charles A. Post ()"], "comments": [], "recommandations_id": []}

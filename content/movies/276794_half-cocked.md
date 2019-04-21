@@ -1,0 +1,1 @@
+{"tmdb_id": 276794, "title": "Half-Cocked", "original_title": "Half-Cocked", "slug_title": "half-cocked", "date": "1994-06-15", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVFIOJ7skzrQV8wpDfXM5WxAzlO.jpg", "actors": [], "comments": [], "recommandations_id": []}

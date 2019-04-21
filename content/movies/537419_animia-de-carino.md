@@ -1,0 +1,1 @@
+{"tmdb_id": 537419, "title": "Animia de cari\u00f1o", "original_title": "Animia de cari\u00f1o", "slug_title": "animia-de-carino", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

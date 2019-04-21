@@ -1,0 +1,1 @@
+{"tmdb_id": 479594, "title": "The Wave by The FIRM: Speed Slimming Sculpt", "original_title": "The Wave by The FIRM: Speed Slimming Sculpt", "slug_title": "the-wave-by-the-firm-speed-slimming-sculpt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

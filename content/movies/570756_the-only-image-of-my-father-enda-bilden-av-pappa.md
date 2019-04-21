@@ -1,0 +1,1 @@
+{"tmdb_id": 570756, "title": "The Only Image of My Father (Enda Bilden Av Pappa)", "original_title": "The Only Image of My Father (Enda Bilden Av Pappa)", "slug_title": "the-only-image-of-my-father-enda-bilden-av-pappa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

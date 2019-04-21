@@ -1,0 +1,1 @@
+{"tmdb_id": 425948, "title": "Events in a Cloud Chamber", "original_title": "Events in a Cloud Chamber", "slug_title": "events-in-a-cloud-chamber", "date": "2016-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmk7DRbwZdOTRNOVo1h3j14USnu.jpg", "actors": [], "comments": [], "recommandations_id": []}

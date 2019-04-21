@@ -1,0 +1,1 @@
+{"tmdb_id": 585981, "title": "Kuch Pal Pyar Ke", "original_title": "Kuch Pal Pyar Ke", "slug_title": "kuch-pal-pyar-ke", "date": "2018-05-18", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taqqhl5RC0bPUARELO6ZNQJxkks.jpg", "actors": ["Aamir ()", "Aamir Ghani ()"], "comments": [], "recommandations_id": []}

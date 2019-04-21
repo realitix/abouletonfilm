@@ -1,0 +1,1 @@
+{"tmdb_id": 265222, "title": "Sting - 25 Years", "original_title": "Sting - 25 Years", "slug_title": "sting-25-years", "date": "2011-09-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZWARFjLRTSY0rz6FGfv2QCthpM.jpg", "actors": ["Sting (Vocal, Bass ...)"], "comments": [], "recommandations_id": []}

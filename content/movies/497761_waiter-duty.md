@@ -1,0 +1,1 @@
+{"tmdb_id": 497761, "title": "Waiter Duty", "original_title": "Waiter Duty", "slug_title": "waiter-duty", "date": "1998-11-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cody Bayne ()", "Christian Canterbury ()", "Russell Dale ()", "Jeremiah Nelson ()"], "comments": [], "recommandations_id": []}

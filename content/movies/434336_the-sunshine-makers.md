@@ -1,0 +1,1 @@
+{"tmdb_id": 434336, "title": "The Sunshine Makers", "original_title": "The Sunshine Makers", "slug_title": "the-sunshine-makers", "date": "2015-11-01", "genre": "Documentaire", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cr9Nddno9yoqjFgIfpbEZoHDmiv.jpg", "actors": [], "comments": [], "recommandations_id": [336992, 411918, 381009]}

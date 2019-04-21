@@ -1,0 +1,1 @@
+{"tmdb_id": 563941, "title": "Hanayome", "original_title": "Hanayome", "slug_title": "hanayome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yukie Nakama (Katakura Tomoe)", "Mizuki Sano (Katakura Ryoichi)", "Pinko Izumi (Katakura Chiyo)"], "comments": [], "recommandations_id": []}

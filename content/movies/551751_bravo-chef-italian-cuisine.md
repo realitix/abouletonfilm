@@ -1,0 +1,1 @@
+{"tmdb_id": 551751, "title": "Bravo Chef: Italian Cuisine", "original_title": "Bravo Chef: Italian Cuisine", "slug_title": "bravo-chef-italian-cuisine", "date": "2009-09-29", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6Ydyo0eHZlDz10xCQkcJDgjJmk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541441, "title": "Couvre-feu", "original_title": "Couvre-feu", "slug_title": "couvre-feu", "date": "2017-08-08", "genre": "Thriller / Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgpuvES3ZyOXm1o5ekTJlZnUJCZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

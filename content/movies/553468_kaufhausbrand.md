@@ -1,0 +1,1 @@
+{"tmdb_id": 553468, "title": "Kaufhausbrand", "original_title": "Kaufhausbrand", "slug_title": "kaufhausbrand", "date": "1968-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

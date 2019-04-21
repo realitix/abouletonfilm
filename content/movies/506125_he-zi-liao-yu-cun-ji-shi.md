@@ -1,0 +1,1 @@
+{"tmdb_id": 506125, "title": "\u86b5\u4ed4\u5bee\u6f01\u6751\u7d00\u4e8b", "original_title": "\u86b5\u4ed4\u5bee\u6f01\u6751\u7d00\u4e8b", "slug_title": "he-zi-liao-yu-cun-ji-shi", "date": "2015-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

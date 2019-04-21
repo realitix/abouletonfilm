@@ -1,0 +1,1 @@
+{"tmdb_id": 273721, "title": "USS Franklin: Honor Restored", "original_title": "USS Franklin: Honor Restored", "slug_title": "uss-franklin-honor-restored", "date": "2011-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3cqPYOTWDdw5Bh97VjqN1RsjYJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

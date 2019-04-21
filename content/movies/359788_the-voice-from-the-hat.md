@@ -1,0 +1,1 @@
+{"tmdb_id": 359788, "title": "The Voice from the Hat", "original_title": "Die Stimme aus dem Hut", "slug_title": "the-voice-from-the-hat", "date": "1959-10-20", "genre": "T\u00e9l\u00e9film / Com\u00e9die / Crime", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joseph Offenbach ()"], "comments": [], "recommandations_id": []}

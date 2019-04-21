@@ -1,0 +1,1 @@
+{"tmdb_id": 224088, "title": "Fear/Love", "original_title": "Fear/Love", "slug_title": "fear-love", "date": "2010-07-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anthony Edwards ()", "Fraser Everitt ()", "Lani Jackson ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344069, "title": "Silence of the Bees", "original_title": "Silence of the Bees", "slug_title": "silence-of-the-bees", "date": "2008-10-27", "genre": "Familial / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rnsL6gGRsvdy0AJrQs4QHGfIqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

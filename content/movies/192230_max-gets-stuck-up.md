@@ -1,0 +1,1 @@
+{"tmdb_id": 192230, "title": "Max Gets Stuck Up", "original_title": "Max veut grandir", "slug_title": "max-gets-stuck-up", "date": "1912-12-06", "genre": "Com\u00e9die", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Stacia Napierkowska ()", "Jane Renouardt ()"], "comments": [], "recommandations_id": []}

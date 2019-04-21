@@ -1,0 +1,1 @@
+{"tmdb_id": 373653, "title": "Liberdade de Imprensa", "original_title": "Liberdade de Imprensa", "slug_title": "liberdade-de-imprensa", "date": "1967-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLIRaJTvd3Ri5sPRtPXAjW5Msli.jpg", "actors": [], "comments": [], "recommandations_id": []}

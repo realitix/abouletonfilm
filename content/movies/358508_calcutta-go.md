@@ -1,0 +1,1 @@
+{"tmdb_id": 358508, "title": "(Calcutta) GO", "original_title": "(Calcutta) GO", "slug_title": "calcutta-go", "date": "1993-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ir9ryRdBUrmXH8zldemIRIU0VQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

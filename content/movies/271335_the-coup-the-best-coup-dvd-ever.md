@@ -1,0 +1,1 @@
+{"tmdb_id": 271335, "title": "The Coup: The Best Coup DVD Ever", "original_title": "The Coup: The Best Coup DVD Ever", "slug_title": "the-coup-the-best-coup-dvd-ever", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

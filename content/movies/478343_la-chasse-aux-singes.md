@@ -1,0 +1,1 @@
+{"tmdb_id": 478343, "title": "La chasse aux singes", "original_title": "La chasse aux singes", "slug_title": "la-chasse-aux-singes", "date": "1912-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

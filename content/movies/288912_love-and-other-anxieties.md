@@ -1,0 +1,1 @@
+{"tmdb_id": 288912, "title": "Love and Other Anxieties", "original_title": "Love and Other Anxieties", "slug_title": "love-and-other-anxieties", "date": "2011-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

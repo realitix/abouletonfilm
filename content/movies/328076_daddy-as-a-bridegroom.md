@@ -1,0 +1,1 @@
+{"tmdb_id": 328076, "title": "Daddy as a Bridegroom", "original_title": "Baba Areess", "slug_title": "daddy-as-a-bridegroom", "date": "1950-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hassan Fayek ()", "Naima Akef ()", "Abdel Salam Al Nabulsy ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 533569, "title": "The Idea Man", "original_title": "The Idea Man", "slug_title": "the-idea-man", "date": "1966-07-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVTJLvjV8gQvuxe544jsLm0SPsw.jpg", "actors": [], "comments": [], "recommandations_id": []}

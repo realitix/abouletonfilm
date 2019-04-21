@@ -1,0 +1,1 @@
+{"tmdb_id": 460743, "title": "Bastard Squad 2: Operation Cheese Blanket", "original_title": "Bastard Squad 2: Operation Cheese Blanket", "slug_title": "bastard-squad-2-operation-cheese-blanket", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

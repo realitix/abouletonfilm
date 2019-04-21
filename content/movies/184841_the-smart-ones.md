@@ -1,0 +1,1 @@
+{"tmdb_id": 184841, "title": "The Smart Ones", "original_title": "The Smart Ones", "slug_title": "the-smart-ones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

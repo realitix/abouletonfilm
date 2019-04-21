@@ -1,0 +1,1 @@
+{"tmdb_id": 377424, "title": "Chikara Top Banana", "original_title": "Chikara Top Banana", "slug_title": "chikara-top-banana", "date": "2015-12-05", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fFto7DwknH9qvV9hKUYQNHLv8Px.jpg", "actors": [], "comments": [], "recommandations_id": []}

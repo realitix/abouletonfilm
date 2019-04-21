@@ -1,0 +1,1 @@
+{"tmdb_id": 379968, "title": "Funeral Arrangements", "original_title": "Funeral Arrangements", "slug_title": "funeral-arrangements", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jKVgIKfo7EgFhMIfUW9ubA8pxE.jpg", "actors": [], "comments": [], "recommandations_id": []}

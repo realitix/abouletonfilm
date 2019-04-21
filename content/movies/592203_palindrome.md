@@ -1,0 +1,1 @@
+{"tmdb_id": 592203, "title": "Palindrome", "original_title": "Palindrome", "slug_title": "palindrome", "date": "2018-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

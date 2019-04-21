@@ -1,0 +1,1 @@
+{"tmdb_id": 234685, "title": "In the Nicotine", "original_title": "In the Nicotine", "slug_title": "in-the-nicotine", "date": "1961-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

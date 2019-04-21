@@ -1,0 +1,1 @@
+{"tmdb_id": 160696, "title": "Men Shouldn't Sing", "original_title": "Men Shouldn't Sing", "slug_title": "men-shouldn-t-sing", "date": "2007-02-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3Qof1HJGSSbxe8BrkATrM9Q5hT.jpg", "actors": [], "comments": [], "recommandations_id": []}

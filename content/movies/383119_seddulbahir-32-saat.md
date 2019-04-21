@@ -1,0 +1,1 @@
+{"tmdb_id": 383119, "title": "Sedd\u00fclbahir 32 Saat", "original_title": "Sedd\u00fclbahir 32 Saat", "slug_title": "seddulbahir-32-saat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GbdrZT3NhChvME5F6lWP2XhbBa.jpg", "actors": [], "comments": [], "recommandations_id": []}

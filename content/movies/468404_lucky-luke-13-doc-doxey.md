@@ -1,0 +1,1 @@
+{"tmdb_id": 468404, "title": "Lucky Luke 13 - Doc Doxey", "original_title": "Lucky Luke 13 - Doc Doxey", "slug_title": "lucky-luke-13-doc-doxey", "date": "2006-07-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijoDYQGsA7D76hVlnK2E2YKdTHn.jpg", "actors": [], "comments": [], "recommandations_id": []}

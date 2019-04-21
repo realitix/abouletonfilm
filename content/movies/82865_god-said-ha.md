@@ -1,0 +1,1 @@
+{"tmdb_id": 82865, "title": "God Said, 'Ha!'", "original_title": "God Said, 'Ha!'", "slug_title": "god-said-ha", "date": "1998-05-14", "genre": "Com\u00e9die", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEcwFwKCsABvsvF2dOwNBs9IS1F.jpg", "actors": ["Julia Sweeney (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 207174, "title": "John Wayne: American Hero Of The Movies", "original_title": "John Wayne: American Hero Of The Movies", "slug_title": "john-wayne-american-hero-of-the-movies", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Wayne ()"], "comments": [], "recommandations_id": []}

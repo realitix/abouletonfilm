@@ -1,0 +1,1 @@
+{"tmdb_id": 378352, "title": "T\u00ecnh + T\u00ecnh", "original_title": "T\u00ecnh + T\u00ecnh", "slug_title": "tinh-tinh", "date": "2015-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvsIn9q5l5k7P4xF9W9LaTAwUqV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556889, "title": "The Obsidian Curse", "original_title": "The Obsidian Curse", "slug_title": "the-obsidian-curse", "date": "2016-12-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5UX7tC6zHF7VSF5nSldpXJLJ86C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390565, "title": "White Carpathians", "original_title": "White Carpathians", "slug_title": "white-carpathians", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

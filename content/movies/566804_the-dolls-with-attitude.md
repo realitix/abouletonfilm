@@ -1,0 +1,1 @@
+{"tmdb_id": 566804, "title": "The Dolls With Attitude", "original_title": "The Dolls With Attitude", "slug_title": "the-dolls-with-attitude", "date": "2017-03-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

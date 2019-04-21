@@ -1,0 +1,1 @@
+{"tmdb_id": 377947, "title": "Notes on a Triangle.", "original_title": "Notes on a Triangle.", "slug_title": "notes-on-a-triangle", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yz7ynNSBrcefPFy2vMAXR8IKSEb.jpg", "actors": [], "comments": [], "recommandations_id": []}

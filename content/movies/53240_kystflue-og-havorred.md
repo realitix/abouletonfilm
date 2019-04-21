@@ -1,0 +1,1 @@
+{"tmdb_id": 53240, "title": "Kystflue og Hav\u00f8rred", "original_title": "Kystflue og Hav\u00f8rred", "slug_title": "kystflue-og-havorred", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIxOpEZ0IKAHpaVJOkI7vh7ozdM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 228920, "title": "Little Bart Needs a Job!", "original_title": "Little Bart Needs a Job!", "slug_title": "little-bart-needs-a-job", "date": "2003-06-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ty Donaldson ()", "Dana Duff ()", "MacKenna Roberts ()"], "comments": [], "recommandations_id": []}

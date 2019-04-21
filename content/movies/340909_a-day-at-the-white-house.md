@@ -1,0 +1,1 @@
+{"tmdb_id": 340909, "title": "A Day at the White House", "original_title": "A Day at the White House", "slug_title": "a-day-at-the-white-house", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

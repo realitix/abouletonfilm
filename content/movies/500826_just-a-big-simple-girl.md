@@ -1,0 +1,1 @@
+{"tmdb_id": 500826, "title": "Just a Big Simple Girl", "original_title": "Une grande fille toute simple", "slug_title": "just-a-big-simple-girl", "date": "1948-06-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfoGIskGd03MMRt1b6padM6gNpw.jpg", "actors": [], "comments": [], "recommandations_id": []}

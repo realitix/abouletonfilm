@@ -1,0 +1,1 @@
+{"tmdb_id": 367820, "title": "The Rat thing", "original_title": "The Rat thing", "slug_title": "the-rat-thing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

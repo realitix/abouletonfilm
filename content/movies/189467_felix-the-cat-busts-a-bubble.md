@@ -1,0 +1,1 @@
+{"tmdb_id": 189467, "title": "Felix the Cat Busts a Bubble", "original_title": "Felix the Cat Busts a Bubble", "slug_title": "felix-the-cat-busts-a-bubble", "date": "1926-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 411462, "title": "Bathinda Express", "original_title": "Bathinda Express", "slug_title": "bathinda-express", "date": "2016-04-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Atiehwu9u6QCYt44S6KYNIjEMCZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

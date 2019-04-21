@@ -1,0 +1,1 @@
+{"tmdb_id": 422382, "title": "The Chair", "original_title": "La silla", "slug_title": "the-chair", "date": "1963-01-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6X1FKqcxCdY8acU4BkDsv9fDmyX.jpg", "actors": ["Camilo Carrau (Luis Manuel Gonz\u00e1lez)"], "comments": [], "recommandations_id": []}

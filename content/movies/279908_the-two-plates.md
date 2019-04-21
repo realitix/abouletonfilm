@@ -1,0 +1,1 @@
+{"tmdb_id": 279908, "title": "The Two Plates", "original_title": "The Two Plates", "slug_title": "the-two-plates", "date": "2010-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

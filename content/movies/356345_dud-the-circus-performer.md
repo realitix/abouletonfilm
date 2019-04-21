@@ -1,0 +1,1 @@
+{"tmdb_id": 356345, "title": "Dud, the Circus Performer", "original_title": "Dud, the Circus Performer", "slug_title": "dud-the-circus-performer", "date": "1919-05-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

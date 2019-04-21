@@ -1,0 +1,1 @@
+{"tmdb_id": 491111, "title": "Talaashi", "original_title": "Talaashi", "slug_title": "talaashi", "date": "1999-02-05", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jackie Shroff ()", "Juhi Chawla ()", "Paresh Rawal ()", "Om Puri ()"], "comments": [], "recommandations_id": []}

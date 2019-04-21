@@ -1,0 +1,1 @@
+{"tmdb_id": 453763, "title": "Ambulance at the Accident", "original_title": "Ambulance at the Accident", "slug_title": "ambulance-at-the-accident", "date": "1897-09-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Tierney ()"], "comments": [], "recommandations_id": []}

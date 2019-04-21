@@ -1,0 +1,1 @@
+{"tmdb_id": 226741, "title": "Running Mates", "original_title": "Running Mates", "slug_title": "running-mates", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J. Don Ferguson ()", "Bob Hannah ()", "Rebecca O'Brien ()", "Greg Webb ()"], "comments": [], "recommandations_id": []}

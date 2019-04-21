@@ -1,0 +1,1 @@
+{"tmdb_id": 119500, "title": "Tom & Jerrys Mad-Kamp", "original_title": "Tom & Jerrys Mad-Kamp", "slug_title": "tom-jerrys-mad-kamp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEvkYEt9IOOHy49j4VcXnEVp08F.jpg", "actors": [], "comments": [], "recommandations_id": []}

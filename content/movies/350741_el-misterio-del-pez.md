@@ -1,0 +1,1 @@
+{"tmdb_id": 350741, "title": "El misterio del pez", "original_title": "El misterio del pez", "slug_title": "el-misterio-del-pez", "date": "2008-01-30", "genre": "Drame / Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

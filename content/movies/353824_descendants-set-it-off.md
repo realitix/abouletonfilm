@@ -1,0 +1,1 @@
+{"tmdb_id": 353824, "title": "Descendants: Set It Off!", "original_title": "Descendants: Set It Off!", "slug_title": "descendants-set-it-off", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

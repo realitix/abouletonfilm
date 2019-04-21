@@ -1,0 +1,1 @@
+{"tmdb_id": 569912, "title": "Ravening", "original_title": "Aamis", "slug_title": "ravening", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSIOk2Afkn8BmMpYeRZml5Q1Hob.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 447589, "title": "The Russian Newspaper Murders", "original_title": "The Russian Newspaper Murders", "slug_title": "the-russian-newspaper-murders", "date": "2004-04-01", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leslie Woodhead (Narrator)"], "comments": [], "recommandations_id": []}

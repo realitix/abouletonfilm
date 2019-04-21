@@ -1,0 +1,1 @@
+{"tmdb_id": 375869, "title": "The Meds", "original_title": "Die Mediocren", "slug_title": "the-meds", "date": "1995-06-08", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zMwsDETo3Ad699QVR6bJ1Col4Cj.jpg", "actors": [], "comments": [], "recommandations_id": []}

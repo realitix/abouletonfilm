@@ -1,0 +1,1 @@
+{"tmdb_id": 433738, "title": "Ring Of Fear", "original_title": "Ates Cemberi-1985", "slug_title": "ring-of-fear", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8GYqdH9l5OBChDGBy1TKwwqgrk.jpg", "actors": [], "comments": [], "recommandations_id": []}

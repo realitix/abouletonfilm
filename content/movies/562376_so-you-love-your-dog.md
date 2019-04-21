@@ -1,0 +1,1 @@
+{"tmdb_id": 562376, "title": "So You Love Your Dog", "original_title": "So You Love Your Dog", "slug_title": "so-you-love-your-dog", "date": "1953-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

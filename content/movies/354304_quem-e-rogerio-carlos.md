@@ -1,0 +1,1 @@
+{"tmdb_id": 354304, "title": "Quem \u00e9 Rog\u00e9rio Carlos?", "original_title": "Quem \u00e9 Rog\u00e9rio Carlos?", "slug_title": "quem-e-rogerio-carlos", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

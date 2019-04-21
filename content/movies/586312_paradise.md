@@ -1,0 +1,1 @@
+{"tmdb_id": 586312, "title": "Paradise", "original_title": "Parudeesa", "slug_title": "paradise", "date": "2012-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sreenivasan ()", "Shweta Menon ()", "Thampy Antony ()", "Jagathy Sreekumar ()", "Indrans ()", "Ambika Mohan ()"], "comments": [], "recommandations_id": []}

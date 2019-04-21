@@ -1,0 +1,1 @@
+{"tmdb_id": 320355, "title": "Guru Zane", "original_title": "Guru Zane", "slug_title": "guru-zane", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

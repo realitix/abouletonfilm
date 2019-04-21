@@ -1,0 +1,1 @@
+{"tmdb_id": 202012, "title": "Ali Baba", "original_title": "Ali Baba", "slug_title": "ali-baba", "date": "1936-01-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

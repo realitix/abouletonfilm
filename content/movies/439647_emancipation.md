@@ -1,0 +1,1 @@
+{"tmdb_id": 439647, "title": "Emancipation", "original_title": "eMANNzipation", "slug_title": "emancipation", "date": "2011-10-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nB7T6MSkywu4N5oPOCTqIz9SMBB.jpg", "actors": [], "comments": [], "recommandations_id": []}

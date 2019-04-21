@@ -1,0 +1,1 @@
+{"tmdb_id": 451611, "title": "Conexao de Elite", "original_title": "Conexao de Elite", "slug_title": "conexao-de-elite", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muv00BVOHQ1YYS93jzGFXXgY9RJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

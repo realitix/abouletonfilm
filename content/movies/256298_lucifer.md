@@ -1,0 +1,1 @@
+{"tmdb_id": 256298, "title": "Lucifer", "original_title": "Lucifer", "slug_title": "lucifer", "date": "2007-04-11", "genre": "Aventure", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Lewis (Lucifer)", "Bru Muller (Michael)"], "comments": [], "recommandations_id": []}

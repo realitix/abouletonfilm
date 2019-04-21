@@ -1,0 +1,1 @@
+{"tmdb_id": 302379, "title": "Cerveza Bud", "original_title": "Cerveza Bud", "slug_title": "cerveza-bud", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zaIrXyljhxTkUliSyBeIGiSd8Ob.jpg", "actors": [], "comments": [], "recommandations_id": []}

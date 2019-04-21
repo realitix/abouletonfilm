@@ -1,0 +1,1 @@
+{"tmdb_id": 539849, "title": "Goodbye My Shooting Star", "original_title": "Paalam Aking Bulalakaw", "slug_title": "goodbye-my-shooting-star", "date": "2006-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVgCG65XV9MXjGOksY8kISHIxEN.jpg", "actors": ["Meryll Soriano (Ana)"], "comments": [], "recommandations_id": []}

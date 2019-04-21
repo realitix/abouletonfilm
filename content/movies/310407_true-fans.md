@@ -1,0 +1,1 @@
+{"tmdb_id": 310407, "title": "True Fans", "original_title": "True Fans", "slug_title": "true-fans", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

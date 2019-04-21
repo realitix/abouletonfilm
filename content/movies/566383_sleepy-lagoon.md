@@ -1,0 +1,1 @@
+{"tmdb_id": 566383, "title": "Sleepy Lagoon", "original_title": "Sleepy Lagoon", "slug_title": "sleepy-lagoon", "date": "1943-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judy Canova (Judy Joyner)"], "comments": [], "recommandations_id": []}

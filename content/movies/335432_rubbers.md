@@ -1,0 +1,1 @@
+{"tmdb_id": 335432, "title": "Rubbers", "original_title": "Rubbers", "slug_title": "rubbers", "date": "2015-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZXa1fx6TtRPuiVqhfZeXjfNoXB.jpg", "actors": ["Marcus Chin ()", "Julian Hee ()", "Chau Min Lee ()"], "comments": [], "recommandations_id": []}

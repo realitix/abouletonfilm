@@ -1,0 +1,1 @@
+{"tmdb_id": 302269, "title": "Schnitzel", "original_title": "Schnitzel", "slug_title": "schnitzel", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

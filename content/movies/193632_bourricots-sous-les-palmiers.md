@@ -1,0 +1,1 @@
+{"tmdb_id": 193632, "title": "Bourricots sous les palmiers", "original_title": "Bourricots sous les palmiers", "slug_title": "bourricots-sous-les-palmiers", "date": "1897-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 533069, "title": "Son of White Snake Ghost", "original_title": "Anaknja Siloeman Oeler Poeti", "slug_title": "son-of-white-snake-ghost", "date": "1936-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sx2lOyPRNxdgGZN9QE6HQZ9LxxZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

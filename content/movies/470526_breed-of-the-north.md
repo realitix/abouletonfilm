@@ -1,0 +1,1 @@
+{"tmdb_id": 470526, "title": "Breed of the North", "original_title": "Breed of the North", "slug_title": "breed-of-the-north", "date": "1913-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Jones (John/Jim Smith)", "Clara Williams (Molly (unconfirmed))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561249, "title": "La bombe", "original_title": "La bombe", "slug_title": "la-bombe", "date": "2018-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q952UMLF3EbsPVxGgymg9FXpofx.jpg", "actors": ["Maxime Fiset (Himself)"], "comments": [], "recommandations_id": []}

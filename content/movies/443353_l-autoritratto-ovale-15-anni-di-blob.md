@@ -1,0 +1,1 @@
+{"tmdb_id": 443353, "title": "L'autoritratto ovale - 15 anni di Blob", "original_title": "L'autoritratto ovale - 15 anni di Blob", "slug_title": "l-autoritratto-ovale-15-anni-di-blob", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

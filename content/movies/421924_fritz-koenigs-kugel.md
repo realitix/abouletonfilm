@@ -1,0 +1,1 @@
+{"tmdb_id": 421924, "title": "Fritz Koenigs Kugel", "original_title": "Fritz Koenigs Kugel", "slug_title": "fritz-koenigs-kugel", "date": "2001-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fritz Koenig (Himself)"], "comments": [], "recommandations_id": []}

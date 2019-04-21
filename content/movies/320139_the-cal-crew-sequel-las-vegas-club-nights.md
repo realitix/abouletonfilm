@@ -1,0 +1,1 @@
+{"tmdb_id": 320139, "title": "The Cal Crew (Sequel & Las Vegas Club Nights)", "original_title": "The Cal Crew (Sequel & Las Vegas Club Nights)", "slug_title": "the-cal-crew-sequel-las-vegas-club-nights", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

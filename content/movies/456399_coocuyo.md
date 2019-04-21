@@ -1,0 +1,1 @@
+{"tmdb_id": 456399, "title": "COOCUYO", "original_title": "COOCUYO", "slug_title": "coocuyo", "date": "2017-06-18", "genre": "Musique / Com\u00e9die / Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMREQLPTI5swVDO53nre6TNg6iW.jpg", "actors": ["Desiderio (Director)"], "comments": [], "recommandations_id": []}

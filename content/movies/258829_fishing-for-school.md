@@ -1,0 +1,1 @@
+{"tmdb_id": 258829, "title": "Fishing for School", "original_title": "Fishing for School", "slug_title": "fishing-for-school", "date": "1999-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGV9lNDaQOYRHSW4GfekPLYouhc.jpg", "actors": ["Alvinice Kodjo (Sica)"], "comments": [], "recommandations_id": []}

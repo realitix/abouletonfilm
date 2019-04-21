@@ -1,0 +1,1 @@
+{"tmdb_id": 396420, "title": "By the Lake", "original_title": "By the Lake", "slug_title": "by-the-lake", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

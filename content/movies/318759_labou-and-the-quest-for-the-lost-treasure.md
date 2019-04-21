@@ -1,0 +1,1 @@
+{"tmdb_id": 318759, "title": "Labou and the Quest for the Lost Treasure", "original_title": "Labou and the Quest for the Lost Treasure", "slug_title": "labou-and-the-quest-for-the-lost-treasure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

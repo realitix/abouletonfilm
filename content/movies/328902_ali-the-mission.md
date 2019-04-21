@@ -1,0 +1,1 @@
+{"tmdb_id": 328902, "title": "Ali: The Mission", "original_title": "Ali: The Mission", "slug_title": "ali-the-mission", "date": "2013-01-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11aYYpkrp45DwgfkZhJLluoqnPN.jpg", "actors": [], "comments": [], "recommandations_id": []}

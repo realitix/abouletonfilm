@@ -1,0 +1,1 @@
+{"tmdb_id": 321426, "title": "Deliverance in the House", "original_title": "Deliverance in the House", "slug_title": "deliverance-in-the-house", "date": "2008-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491299, "title": "Swan Song of the Skunk Ape", "original_title": "Swan Song of the Skunk Ape", "slug_title": "swan-song-of-the-skunk-ape", "date": "2015-08-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

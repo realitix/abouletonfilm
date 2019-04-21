@@ -1,0 +1,1 @@
+{"tmdb_id": 520887, "title": "Billboard Latin Music Awards 2018 EN VIVO", "original_title": "Billboard Latin Music Awards 2018 EN VIVO", "slug_title": "billboard-latin-music-awards-2018-en-vivo", "date": "2018-04-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

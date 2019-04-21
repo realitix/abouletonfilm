@@ -1,0 +1,1 @@
+{"tmdb_id": 314464, "title": "Kalavryta: Anthropoi kai skies", "original_title": "Kalavryta: Anthropoi kai skies", "slug_title": "kalavryta-anthropoi-kai-skies", "date": "2014-12-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

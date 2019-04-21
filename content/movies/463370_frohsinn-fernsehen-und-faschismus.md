@@ -1,0 +1,1 @@
+{"tmdb_id": 463370, "title": "Frohsinn, Fernsehen und Faschismus", "original_title": "Frohsinn, Fernsehen und Faschismus", "slug_title": "frohsinn-fernsehen-und-faschismus", "date": "2005-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

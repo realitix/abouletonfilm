@@ -1,0 +1,1 @@
+{"tmdb_id": 587906, "title": "Fiery Wind", "original_title": "\ubd88\ubc14\ub78c", "slug_title": "fiery-wind", "date": "1983-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahn So-young ()", "Lim Dong-jin ()", "Kim Young-ae ()", "Yu Jang-hyeon ()", "Nam Su-Jung ()", "Yoon Il-ju ()"], "comments": [], "recommandations_id": []}

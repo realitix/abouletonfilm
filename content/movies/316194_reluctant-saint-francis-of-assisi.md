@@ -1,0 +1,1 @@
+{"tmdb_id": 316194, "title": "Reluctant Saint: Francis of Assisi", "original_title": "Reluctant Saint: Francis of Assisi", "slug_title": "reluctant-saint-francis-of-assisi", "date": "2003-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

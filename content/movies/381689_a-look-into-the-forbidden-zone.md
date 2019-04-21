@@ -1,0 +1,1 @@
+{"tmdb_id": 381689, "title": "A Look Into 'The Forbidden Zone'", "original_title": "A Look Into 'The Forbidden Zone'", "slug_title": "a-look-into-the-forbidden-zone", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny Elfman (Himself)", "Richard Elfman (Himself)"], "comments": [], "recommandations_id": []}

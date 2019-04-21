@@ -1,0 +1,1 @@
+{"tmdb_id": 319942, "title": "Perra Sociedad", "original_title": "Perra Sociedad", "slug_title": "perra-sociedad", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

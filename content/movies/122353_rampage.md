@@ -1,0 +1,1 @@
+{"tmdb_id": 122353, "title": "Rampage", "original_title": "Rampage", "slug_title": "rampage", "date": "2006-11-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9ssGbWuWQfLXthav4sfALpL5uj.jpg", "actors": [], "comments": [], "recommandations_id": []}

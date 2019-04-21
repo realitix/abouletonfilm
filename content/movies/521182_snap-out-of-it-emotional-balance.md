@@ -1,0 +1,1 @@
+{"tmdb_id": 521182, "title": "Snap Out of It!(Emotional Balance)", "original_title": "Snap Out of It!(Emotional Balance)", "slug_title": "snap-out-of-it-emotional-balance", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

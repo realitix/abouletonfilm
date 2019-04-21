@@ -1,0 +1,1 @@
+{"tmdb_id": 53621, "title": "The Scribe", "original_title": "The Scribe", "slug_title": "the-scribe", "date": "1966-01-08", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQxkR9thjoKGQca32RclM9aIPl4.jpg", "actors": ["Buster Keaton (Journalist)"], "comments": [], "recommandations_id": [50271]}

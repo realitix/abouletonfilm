@@ -1,0 +1,1 @@
+{"tmdb_id": 35698, "title": "The Star of Bethlehem", "original_title": "The Star of Bethlehem", "slug_title": "the-star-of-bethlehem", "date": "2007-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIvRw9PXkfobuSyRs6wgCnxQJyb.jpg", "actors": [], "comments": [], "recommandations_id": []}

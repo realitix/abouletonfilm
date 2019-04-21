@@ -1,0 +1,1 @@
+{"tmdb_id": 387110, "title": "CHIKARA 5 Senses", "original_title": "CHIKARA 5 Senses", "slug_title": "chikara-5-senses", "date": "2016-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vvWIdqwrCB2Mcxft6lf7P1iNlm.jpg", "actors": [], "comments": [], "recommandations_id": []}

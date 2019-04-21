@@ -1,0 +1,1 @@
+{"tmdb_id": 470875, "title": "Nos deux Marseillaises", "original_title": "Nos deux Marseillaises", "slug_title": "nos-deux-marseillaises", "date": "2001-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "R\u00e9cit de la campagne des Cantonales 2001 \u00e0 Marseille.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

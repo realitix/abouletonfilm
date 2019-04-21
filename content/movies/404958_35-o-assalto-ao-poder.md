@@ -1,0 +1,1 @@
+{"tmdb_id": 404958, "title": "35 - O Assalto ao Poder", "original_title": "35 - O Assalto ao Poder", "slug_title": "35-o-assalto-ao-poder", "date": "2002-07-05", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IraIoIwsjyKY3KwwpccUZJDKPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 396639, "title": "Fresh Kill", "original_title": "Fresh Kill", "slug_title": "fresh-kill", "date": "1972-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

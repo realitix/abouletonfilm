@@ -1,0 +1,1 @@
+{"tmdb_id": 439891, "title": "Batom Comedy", "original_title": "Batom Comedy", "slug_title": "batom-comedy", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giovanna Fraga ()", "Sil Esteves ()"], "comments": [], "recommandations_id": []}

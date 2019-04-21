@@ -1,0 +1,1 @@
+{"tmdb_id": 361616, "title": "Clean Is good", "original_title": "Clean Is good", "slug_title": "clean-is-good", "date": "2010-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

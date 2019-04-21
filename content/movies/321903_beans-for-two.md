@@ -1,0 +1,1 @@
+{"tmdb_id": 321903, "title": "Beans for Two", "original_title": "Beans for Two", "slug_title": "beans-for-two", "date": "1918-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Depp (Jimmy)", "Elinor Field (Betty)"], "comments": [], "recommandations_id": []}

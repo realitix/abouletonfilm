@@ -1,0 +1,1 @@
+{"tmdb_id": 392948, "title": "Nuts, Bolts and Bedroom Springs", "original_title": "Nuts, Bolts and Bedroom Springs", "slug_title": "nuts-bolts-and-bedroom-springs", "date": "1975-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

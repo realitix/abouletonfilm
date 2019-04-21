@@ -1,0 +1,1 @@
+{"tmdb_id": 466531, "title": "Nikutai no yokkyu", "original_title": "Nikutai no yokkyu", "slug_title": "nikutai-no-yokkyu", "date": "1968-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xpn3Cf0fX8PtcrIqXPfm5WfQ1eR.jpg", "actors": [], "comments": [], "recommandations_id": []}

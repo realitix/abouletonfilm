@@ -1,0 +1,1 @@
+{"tmdb_id": 259054, "title": "Fleetwood Mac: Tusk", "original_title": "Fleetwood Mac: Tusk", "slug_title": "fleetwood-mac-tusk", "date": "1980-05-20", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u5f4D3yClVJth6jIPhu73llQeIR.jpg", "actors": [], "comments": [], "recommandations_id": []}

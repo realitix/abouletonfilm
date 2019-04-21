@@ -1,0 +1,1 @@
+{"tmdb_id": 264755, "title": "Hilsen fra Bertha", "original_title": "Hilsen fra Bertha", "slug_title": "hilsen-fra-bertha", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lise Fjeldstad ()", "Inger Lise Westby ()", "Live Hov ()"], "comments": [], "recommandations_id": []}

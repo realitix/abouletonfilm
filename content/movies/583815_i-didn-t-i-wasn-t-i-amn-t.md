@@ -1,0 +1,1 @@
+{"tmdb_id": 583815, "title": "I didn't... I wasn't... I amn't...", "original_title": "I didn't... I wasn't... I amn't...", "slug_title": "i-didn-t-i-wasn-t-i-amn-t", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQa6K8noX5UzqpbfTZIm8Og0vG7.jpg", "actors": [], "comments": [], "recommandations_id": []}

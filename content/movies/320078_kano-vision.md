@@ -1,0 +1,1 @@
+{"tmdb_id": 320078, "title": "Kano Vision", "original_title": "Kano Vision", "slug_title": "kano-vision", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

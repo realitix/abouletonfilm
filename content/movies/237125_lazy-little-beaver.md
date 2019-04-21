@@ -1,0 +1,1 @@
+{"tmdb_id": 237125, "title": "Lazy Little Beaver", "original_title": "Lazy Little Beaver", "slug_title": "lazy-little-beaver", "date": "1947-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQeTGaI9KU4iaFhrBZk9PxsgKkq.jpg", "actors": [], "comments": [], "recommandations_id": []}

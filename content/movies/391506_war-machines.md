@@ -1,0 +1,1 @@
+{"tmdb_id": 391506, "title": "War Machines", "original_title": "War Machines", "slug_title": "war-machines", "date": "2015-04-15", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ricky Carmichael (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 190238, "title": "Chinatown, My Chinatown", "original_title": "Chinatown, My Chinatown", "slug_title": "chinatown-my-chinatown", "date": "1929-08-28", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

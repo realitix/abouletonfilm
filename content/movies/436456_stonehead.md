@@ -1,0 +1,1 @@
+{"tmdb_id": 436456, "title": "Stonehead", "original_title": "\u77f3\u5934", "slug_title": "stonehead", "date": "2017-04-17", "genre": "Drame / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vh42dmPeBUwLZMcXdLqnTkiATKp.jpg", "actors": ["Zhu Hongbo ()", "Cai Jiakun ()"], "comments": [], "recommandations_id": []}

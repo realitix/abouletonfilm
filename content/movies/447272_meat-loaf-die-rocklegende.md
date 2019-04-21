@@ -1,0 +1,1 @@
+{"tmdb_id": 447272, "title": "Meat Loaf - Die Rocklegende", "original_title": "Meat Loaf - Die Rocklegende", "slug_title": "meat-loaf-die-rocklegende", "date": "2016-11-30", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meat Loaf (Meat Loaf)"], "comments": [], "recommandations_id": []}

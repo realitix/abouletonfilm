@@ -1,0 +1,1 @@
+{"tmdb_id": 174244, "title": "She Reminds Me of You", "original_title": "She Reminds Me of You", "slug_title": "she-reminds-me-of-you", "date": "1934-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

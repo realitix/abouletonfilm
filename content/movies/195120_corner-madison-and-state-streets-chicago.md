@@ -1,0 +1,1 @@
+{"tmdb_id": 195120, "title": "Corner Madison and State Streets, Chicago", "original_title": "Corner Madison and State Streets, Chicago", "slug_title": "corner-madison-and-state-streets-chicago", "date": "1897-07-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

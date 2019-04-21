@@ -1,0 +1,1 @@
+{"tmdb_id": 270795, "title": "Accidental Icon: The Real Gidget Story", "original_title": "Accidental Icon: The Real Gidget Story", "slug_title": "accidental-icon-the-real-gidget-story", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574426, "title": "Living Lives", "original_title": "Living Lives", "slug_title": "living-lives", "date": "2005-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2qPxnaQX4YOiCg0dlBMZhw9LETT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 493013, "title": "Huntingdon's Hero", "original_title": "Huntingdon's Hero", "slug_title": "huntingdon-s-hero", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helen Bergstrasser (Baby Ethel)", "Charles Ryan (The Rival)"], "comments": [], "recommandations_id": []}

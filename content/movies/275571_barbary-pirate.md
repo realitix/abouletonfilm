@@ -1,0 +1,1 @@
+{"tmdb_id": 275571, "title": "Barbary Pirate", "original_title": "Barbary Pirate", "slug_title": "barbary-pirate", "date": "1949-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

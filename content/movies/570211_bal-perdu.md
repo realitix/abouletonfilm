@@ -1,0 +1,1 @@
+{"tmdb_id": 570211, "title": "Bal perdu", "original_title": "Bal perdu", "slug_title": "bal-perdu", "date": "1990-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

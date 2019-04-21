@@ -1,0 +1,1 @@
+{"tmdb_id": 528186, "title": "Conjeturas", "original_title": "Conjeturas", "slug_title": "conjeturas", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pf0xf2xhnj0x3ahdA14jZoss2By.jpg", "actors": [], "comments": [], "recommandations_id": []}

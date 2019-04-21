@@ -1,0 +1,1 @@
+{"tmdb_id": 587702, "title": "Seizing Justice: The Greensboro 4", "original_title": "Seizing Justice: The Greensboro 4", "slug_title": "seizing-justice-the-greensboro-4", "date": "2010-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

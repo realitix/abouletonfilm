@@ -1,0 +1,1 @@
+{"tmdb_id": 240428, "title": "A Voice Is Born", "original_title": "A Voice Is Born", "slug_title": "a-voice-is-born", "date": "1947-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

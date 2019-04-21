@@ -1,0 +1,1 @@
+{"tmdb_id": 231767, "title": "Bass Fishing", "original_title": "Bass Fishing", "slug_title": "bass-fishing", "date": "1901-10-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Talbot (Himself)"], "comments": [], "recommandations_id": []}

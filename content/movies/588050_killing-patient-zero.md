@@ -1,0 +1,1 @@
+{"tmdb_id": 588050, "title": "Killing Patient Zero", "original_title": "Killing Patient Zero", "slug_title": "killing-patient-zero", "date": "2019-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYTkPtiTywS7va4qLjeOkiPKT7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

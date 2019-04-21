@@ -1,0 +1,1 @@
+{"tmdb_id": 516719, "title": "Roentgenfilm II", "original_title": "Roentgenfilm II", "slug_title": "roentgenfilm-ii", "date": "1937-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Janker ()"], "comments": [], "recommandations_id": []}

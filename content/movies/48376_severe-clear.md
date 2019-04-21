@@ -1,0 +1,1 @@
+{"tmdb_id": 48376, "title": "Severe Clear", "original_title": "Severe Clear", "slug_title": "severe-clear", "date": "2010-03-12", "genre": "Com\u00e9die / Documentaire", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n46pT6KpWhSomhYJvht1ybq2i8S.jpg", "actors": ["Mike Scotti (Himself)"], "comments": [], "recommandations_id": []}

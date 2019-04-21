@@ -1,0 +1,1 @@
+{"tmdb_id": 312285, "title": "Barenaked Ladies: Too Little Too Late", "original_title": "Barenaked Ladies: Too Little Too Late", "slug_title": "barenaked-ladies-too-little-too-late", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

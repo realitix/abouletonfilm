@@ -1,0 +1,1 @@
+{"tmdb_id": 110357, "title": "13 Strasznych opowiesci", "original_title": "13 Strasznych opowiesci", "slug_title": "13-strasznych-opowiesci", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRgQFj7SYgQsMSFgLnfcNt3SiSh.jpg", "actors": [], "comments": [], "recommandations_id": []}

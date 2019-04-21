@@ -1,0 +1,1 @@
+{"tmdb_id": 318021, "title": "Bumba - Zazati", "original_title": "Bumba - Zazati", "slug_title": "bumba-zazati", "date": "2009-11-04", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geFls7jgtgPhLZPf63ssUb97LGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 508234, "title": "Demon of the Flats", "original_title": "Demon of the Flats", "slug_title": "demon-of-the-flats", "date": "2012-12-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oUZ1KPQK0iaM7SJU63b52Cr48tK.jpg", "actors": [], "comments": [], "recommandations_id": []}

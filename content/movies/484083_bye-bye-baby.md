@@ -1,0 +1,1 @@
+{"tmdb_id": 484083, "title": "Bye Bye Baby", "original_title": "Bye Bye Baby", "slug_title": "bye-bye-baby", "date": "2017-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLF0Pa9F9qySw9asQwsXEcG27D9.jpg", "actors": ["Karina Kolokolchykova (Woman)"], "comments": [], "recommandations_id": []}

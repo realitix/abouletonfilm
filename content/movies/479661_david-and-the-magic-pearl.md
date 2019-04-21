@@ -1,0 +1,1 @@
+{"tmdb_id": 479661, "title": "David and the Magic Pearl", "original_title": "Dawid I Sandy", "slug_title": "david-and-the-magic-pearl", "date": "1988-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qHFRxDibI6RypJ420rE7zbsul3.jpg", "actors": [], "comments": [], "recommandations_id": []}

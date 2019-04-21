@@ -1,0 +1,1 @@
+{"tmdb_id": 400940, "title": "La Caja Ronca", "original_title": "La Caja Ronca", "slug_title": "la-caja-ronca", "date": "2014-06-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfMUdrtGCyXeLIsV5zDXGYa5Djv.jpg", "actors": [], "comments": [], "recommandations_id": []}

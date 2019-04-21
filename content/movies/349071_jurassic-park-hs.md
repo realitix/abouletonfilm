@@ -1,0 +1,1 @@
+{"tmdb_id": 349071, "title": "Jurassic Park HS", "original_title": "Jurassic Park HS", "slug_title": "jurassic-park-hs", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

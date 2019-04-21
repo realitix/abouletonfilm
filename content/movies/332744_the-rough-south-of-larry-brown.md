@@ -1,0 +1,1 @@
+{"tmdb_id": 332744, "title": "The Rough South of Larry Brown", "original_title": "The Rough South of Larry Brown", "slug_title": "the-rough-south-of-larry-brown", "date": "2002-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

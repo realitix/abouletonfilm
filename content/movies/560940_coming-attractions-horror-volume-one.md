@@ -1,0 +1,1 @@
+{"tmdb_id": 560940, "title": "Coming Attractions: Horror: Volume One", "original_title": "Coming Attractions: Horror: Volume One", "slug_title": "coming-attractions-horror-volume-one", "date": "2012-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

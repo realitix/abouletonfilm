@@ -1,0 +1,1 @@
+{"tmdb_id": 127824, "title": "El H\u00e9roe", "original_title": "El H\u00e9roe", "slug_title": "el-heroe", "date": "1994-10-31", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNXf1sQ6KtbWCrkIRmJzmjXErh6.jpg", "actors": [], "comments": [], "recommandations_id": [315647, 163096, 265655, 340279]}

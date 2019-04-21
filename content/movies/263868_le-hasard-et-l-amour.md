@@ -1,0 +1,1 @@
+{"tmdb_id": 263868, "title": "Le hasard et l'amour", "original_title": "Le hasard et l'amour", "slug_title": "le-hasard-et-l-amour", "date": "1915-12-31", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Lucy d'Orbel (Lili)", "Georges Gorby ()"], "comments": [], "recommandations_id": []}

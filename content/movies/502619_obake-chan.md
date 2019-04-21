@@ -1,0 +1,1 @@
+{"tmdb_id": 502619, "title": "Obake-chan", "original_title": "Obake-chan", "slug_title": "obake-chan", "date": "2015-03-27", "genre": "Fantastique / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBFa77juzZVGfJRm2htJKefUZWG.jpg", "actors": [], "comments": [], "recommandations_id": []}

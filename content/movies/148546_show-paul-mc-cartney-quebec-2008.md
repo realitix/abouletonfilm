@@ -1,0 +1,1 @@
+{"tmdb_id": 148546, "title": "Show paul mc cartney quebec 2008", "original_title": "Show paul mc cartney quebec 2008", "slug_title": "show-paul-mc-cartney-quebec-2008", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gvvWADFU1KqTKWQ0kXNLCOJSLJF.jpg", "actors": [], "comments": [], "recommandations_id": []}

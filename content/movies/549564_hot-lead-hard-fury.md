@@ -1,0 +1,1 @@
+{"tmdb_id": 549564, "title": "Hot Lead Hard Fury", "original_title": "Hot Lead Hard Fury", "slug_title": "hot-lead-hard-fury", "date": "2018-09-07", "genre": "Action / Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ePYzNikw36iQIqzq125ssgEhG9.jpg", "actors": [], "comments": [], "recommandations_id": []}

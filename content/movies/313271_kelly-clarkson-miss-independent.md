@@ -1,0 +1,1 @@
+{"tmdb_id": 313271, "title": "Kelly Clarkson: Miss Independent", "original_title": "Kelly Clarkson: Miss Independent", "slug_title": "kelly-clarkson-miss-independent", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

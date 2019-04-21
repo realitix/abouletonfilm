@@ -1,0 +1,1 @@
+{"tmdb_id": 205585, "title": "La banda de los panchitos", "original_title": "La banda de los panchitos", "slug_title": "la-banda-de-los-panchitos", "date": "1987-07-05", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3eMl37T3eGDBHTkTG0e5MD74KVq.jpg", "actors": [], "comments": [], "recommandations_id": []}

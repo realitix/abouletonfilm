@@ -1,0 +1,1 @@
+{"tmdb_id": 170199, "title": "Evil Weed", "original_title": "Evil Weed", "slug_title": "evil-weed", "date": "", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342610, "title": "Le Labyrinthe", "original_title": "Le Labyrinthe", "slug_title": "le-labyrinthe", "date": "1969-07-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fwnszvW82vJHDtjUINunNGPNHc5.jpg", "actors": [], "comments": [], "recommandations_id": []}

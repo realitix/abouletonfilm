@@ -1,0 +1,1 @@
+{"tmdb_id": 158876, "title": "Super Magingga 3", "original_title": "Super Majingga 3", "slug_title": "super-magingga-3", "date": "1982-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ny9nVOZVPRx7wbowFbhiEqK5vTy.jpg", "actors": [], "comments": [], "recommandations_id": []}

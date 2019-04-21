@@ -1,0 +1,1 @@
+{"tmdb_id": 274535, "title": "Bishop Paul S. Morton: Still Standing", "original_title": "Bishop Paul S. Morton: Still Standing", "slug_title": "bishop-paul-s-morton-still-standing", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

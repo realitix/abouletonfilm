@@ -1,0 +1,1 @@
+{"tmdb_id": 244721, "title": "Senzeni Na?", "original_title": "Senzeni Na?", "slug_title": "senzeni-na", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

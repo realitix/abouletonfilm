@@ -1,0 +1,1 @@
+{"tmdb_id": 350469, "title": "\ub9c8\uc9c0\ub9c9 \ucc3b\uc794", "original_title": "\ub9c8\uc9c0\ub9c9 \ucc3b\uc794", "slug_title": "majimag-casjan", "date": "1979-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

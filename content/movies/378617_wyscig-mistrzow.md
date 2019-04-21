@@ -1,0 +1,1 @@
+{"tmdb_id": 378617, "title": "Wy\u015bcig Mistrz\u00f3w", "original_title": "Wy\u015bcig Mistrz\u00f3w", "slug_title": "wyscig-mistrzow", "date": "2013-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urQzD6qip8UL4N8wfHX2xwV69NL.jpg", "actors": [], "comments": [], "recommandations_id": []}

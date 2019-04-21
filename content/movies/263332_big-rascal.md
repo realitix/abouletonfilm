@@ -1,0 +1,1 @@
+{"tmdb_id": 263332, "title": "Big Rascal", "original_title": "Dai wu ke", "slug_title": "big-rascal", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQy1EmE0tf8FKjMMQlnm1vQIdOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

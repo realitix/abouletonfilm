@@ -1,0 +1,1 @@
+{"tmdb_id": 252686, "title": "JC in tha Hood", "original_title": "JC in tha Hood", "slug_title": "jc-in-tha-hood", "date": "2008-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mm1YNdLIvXb11GU8my9usvc0B6H.jpg", "actors": [], "comments": [], "recommandations_id": []}

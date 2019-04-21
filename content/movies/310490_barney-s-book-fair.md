@@ -1,0 +1,1 @@
+{"tmdb_id": 310490, "title": "Barney's Book Fair", "original_title": "Barney's Book Fair", "slug_title": "barney-s-book-fair", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

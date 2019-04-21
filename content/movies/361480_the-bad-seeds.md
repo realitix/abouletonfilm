@@ -1,0 +1,1 @@
+{"tmdb_id": 361480, "title": "The Bad Seeds!", "original_title": "The Bad Seeds!", "slug_title": "the-bad-seeds", "date": "2014-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FtNInczFjlqHsLzzpMbrjq7Hid.jpg", "actors": [], "comments": [], "recommandations_id": []}

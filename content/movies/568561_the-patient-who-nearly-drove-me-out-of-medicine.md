@@ -1,0 +1,1 @@
+{"tmdb_id": 568561, "title": "The Patient Who Nearly Drove Me Out of Medicine", "original_title": "The Patient Who Nearly Drove Me Out of Medicine", "slug_title": "the-patient-who-nearly-drove-me-out-of-medicine", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

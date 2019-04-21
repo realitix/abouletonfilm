@@ -1,0 +1,1 @@
+{"tmdb_id": 281164, "title": "Nymfios", "original_title": "Nymfios", "slug_title": "nymfios", "date": "", "genre": "Drame / Romance", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grlwIDvafrlWGHtjWNpcTb3hFJn.jpg", "actors": ["Olympia Karayorga ()", "Stamatis Moustakas ()"], "comments": [], "recommandations_id": []}

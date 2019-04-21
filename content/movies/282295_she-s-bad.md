@@ -1,0 +1,1 @@
+{"tmdb_id": 282295, "title": "She's Bad", "original_title": "She's Bad", "slug_title": "she-s-bad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

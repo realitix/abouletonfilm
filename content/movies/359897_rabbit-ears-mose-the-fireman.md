@@ -1,0 +1,1 @@
+{"tmdb_id": 359897, "title": "Rabbit Ears - Mose the Fireman", "original_title": "Rabbit Ears - Mose the Fireman", "slug_title": "rabbit-ears-mose-the-fireman", "date": "1991-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2z6d5eikrPPELfJjDFXJGUwl74.jpg", "actors": [], "comments": [], "recommandations_id": []}

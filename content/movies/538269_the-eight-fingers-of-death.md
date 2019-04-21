@@ -1,0 +1,1 @@
+{"tmdb_id": 538269, "title": "The Eight Fingers of Death", "original_title": "Le Otto Dita Della Morte", "slug_title": "the-eight-fingers-of-death", "date": "2018-07-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rose-Marie Perreault ()"], "comments": [], "recommandations_id": []}

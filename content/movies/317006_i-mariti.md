@@ -1,0 +1,1 @@
+{"tmdb_id": 317006, "title": "I mariti", "original_title": "I mariti", "slug_title": "i-mariti", "date": "1941-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zH2dIOX9Dltxb3nlDQxzI5JmFzp.jpg", "actors": ["Amedeo Nazzari ()", "Mariella Lotti ()", "Clara Calamai ()"], "comments": [], "recommandations_id": []}

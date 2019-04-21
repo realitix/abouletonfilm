@@ -1,0 +1,1 @@
+{"tmdb_id": 552200, "title": "Love In Bangkok", "original_title": "Love In Bangkok", "slug_title": "love-in-bangkok", "date": "2015-07-10", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEeBNnJ68lHRHbVjhBshgLnU5uy.jpg", "actors": ["Akashdeep ()", "Bikul Dutta ()"], "comments": [], "recommandations_id": []}

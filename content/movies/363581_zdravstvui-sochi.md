@@ -1,0 +1,1 @@
+{"tmdb_id": 363581, "title": "Zdravstvui, Sochi", "original_title": "Zdravstvui, Sochi", "slug_title": "zdravstvui-sochi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

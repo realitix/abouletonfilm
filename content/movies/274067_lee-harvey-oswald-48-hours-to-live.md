@@ -1,0 +1,1 @@
+{"tmdb_id": 274067, "title": "Lee Harvey Oswald: 48 Hours to Live", "original_title": "Lee Harvey Oswald: 48 Hours to Live", "slug_title": "lee-harvey-oswald-48-hours-to-live", "date": "2013-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

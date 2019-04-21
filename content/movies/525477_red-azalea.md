@@ -1,0 +1,1 @@
+{"tmdb_id": 525477, "title": "Red Azalea", "original_title": "Red Azalea", "slug_title": "red-azalea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

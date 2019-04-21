@@ -1,0 +1,1 @@
+{"tmdb_id": 402395, "title": "Amtrak to Baka", "original_title": "Amtrak to Baka", "slug_title": "amtrak-to-baka", "date": "2013-06-20", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Bc2GwoNIsZFXjnuEO0Yo3iPUec.jpg", "actors": ["Concetta Morabito (Herself)"], "comments": [], "recommandations_id": []}

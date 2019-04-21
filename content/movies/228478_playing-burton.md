@@ -1,0 +1,1 @@
+{"tmdb_id": 228478, "title": "Playing Burton", "original_title": "Playing Burton", "slug_title": "playing-burton", "date": "2013-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kx8tGlVdKZvgcZCHB8YRVGROvr.jpg", "actors": ["Joshua Richards (Richard Burton)"], "comments": [], "recommandations_id": []}

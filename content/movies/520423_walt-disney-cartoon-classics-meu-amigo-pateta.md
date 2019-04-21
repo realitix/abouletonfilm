@@ -1,0 +1,1 @@
+{"tmdb_id": 520423, "title": "Walt Disney Cartoon Classics - Meu Amigo Pateta", "original_title": "Walt Disney Cartoon Classics - Meu Amigo Pateta", "slug_title": "walt-disney-cartoon-classics-meu-amigo-pateta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

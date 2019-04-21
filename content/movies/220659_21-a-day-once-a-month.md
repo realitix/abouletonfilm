@@ -1,0 +1,1 @@
+{"tmdb_id": 220659, "title": "$21 a Day \u2013 (Once a Month)", "original_title": "$21 a Day \u2013 (Once a Month)", "slug_title": "21-a-day-once-a-month", "date": "1941-12-01", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqPrj0hbqEyFzHf0zjeWwQgkKf7.jpg", "actors": [], "comments": [], "recommandations_id": []}

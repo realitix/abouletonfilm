@@ -1,0 +1,1 @@
+{"tmdb_id": 516152, "title": "Lamont Ferguson: You Had All Day", "original_title": "Lamont Ferguson: You Had All Day", "slug_title": "lamont-ferguson-you-had-all-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481208, "title": "North Star: Mark di Suvero", "original_title": "North Star: Mark di Suvero", "slug_title": "north-star-mark-di-suvero", "date": "1978-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark di Suvero ()"], "comments": [], "recommandations_id": []}

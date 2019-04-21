@@ -1,0 +1,1 @@
+{"tmdb_id": 566457, "title": "Zuse Strip", "original_title": "Zuse Strip", "slug_title": "zuse-strip", "date": "2003-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDiACRZfiX0mILWc0NDttVNGPx9.jpg", "actors": [], "comments": [], "recommandations_id": []}

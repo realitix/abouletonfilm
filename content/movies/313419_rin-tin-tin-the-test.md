@@ -1,0 +1,1 @@
+{"tmdb_id": 313419, "title": "Rin Tin Tin: The Test", "original_title": "Rin Tin Tin: The Test", "slug_title": "rin-tin-tin-the-test", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

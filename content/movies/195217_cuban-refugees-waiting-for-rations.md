@@ -1,0 +1,1 @@
+{"tmdb_id": 195217, "title": "Cuban Refugees Waiting for Rations", "original_title": "Cuban Refugees Waiting for Rations", "slug_title": "cuban-refugees-waiting-for-rations", "date": "1898-04-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

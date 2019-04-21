@@ -1,0 +1,1 @@
+{"tmdb_id": 500276, "title": "Call Me by Your Name Sequel", "original_title": "Call Me by Your Name Sequel", "slug_title": "call-me-by-your-name-sequel", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHWoPrPjCukF8KztBuhE0ARaqfO.jpg", "actors": [], "comments": [], "recommandations_id": []}

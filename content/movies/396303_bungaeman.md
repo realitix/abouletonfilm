@@ -1,0 +1,1 @@
+{"tmdb_id": 396303, "title": "Bungaeman", "original_title": "\ubc88\uac1c\ub9e8", "slug_title": "bungaeman", "date": "2016-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Ah5GB5o8TCjeuAoqPV2EMue2HN.jpg", "actors": ["Luna (Hanna)", "Park Jung-geum ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 336296, "title": "Sovannahong", "original_title": "Sovannahong", "slug_title": "sovannahong", "date": "1967-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Saom Vansodany ()"], "comments": [], "recommandations_id": []}

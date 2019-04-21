@@ -1,0 +1,1 @@
+{"tmdb_id": 415540, "title": "Castillo y el armado", "original_title": "Castillo y el armado", "slug_title": "castillo-y-el-armado", "date": "2014-09-20", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5X90Ypxv0W7f7erdHuxv2kDHS0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 532710, "title": "Firestarter", "original_title": "Firestarter", "slug_title": "firestarter", "date": "", "genre": "Thriller / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

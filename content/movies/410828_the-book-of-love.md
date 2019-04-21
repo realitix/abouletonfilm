@@ -1,0 +1,1 @@
+{"tmdb_id": 410828, "title": "The Book of Love", "original_title": "The Book of Love", "slug_title": "the-book-of-love", "date": "2008-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tVfZEGM4bYlXwRG9PicxCZgygj.jpg", "actors": [], "comments": [], "recommandations_id": []}

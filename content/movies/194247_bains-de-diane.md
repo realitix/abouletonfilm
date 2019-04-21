@@ -1,0 +1,1 @@
+{"tmdb_id": 194247, "title": "Bains de Diane", "original_title": "Bains de Diane", "slug_title": "bains-de-diane", "date": "1896-07-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

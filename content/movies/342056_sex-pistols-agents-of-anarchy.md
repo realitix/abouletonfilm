@@ -1,0 +1,1 @@
+{"tmdb_id": 342056, "title": "Sex Pistols: Agents of Anarchy", "original_title": "Sex Pistols: Agents of Anarchy", "slug_title": "sex-pistols-agents-of-anarchy", "date": "2009-02-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

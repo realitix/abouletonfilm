@@ -1,0 +1,1 @@
+{"tmdb_id": 326851, "title": "Rodney Yees Daily Yoga", "original_title": "Rodney Yees Daily Yoga", "slug_title": "rodney-yees-daily-yoga", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNy1LOFzVfNfsawr3yHeAfFUZ6w.jpg", "actors": ["Rodney Yee (himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576992, "title": "Jim Hood's Ghost", "original_title": "Jim Hood's Ghost", "slug_title": "jim-hood-s-ghost", "date": "1926-09-04", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josie Sedgwick ()", "Edward Hearn ()"], "comments": [], "recommandations_id": []}

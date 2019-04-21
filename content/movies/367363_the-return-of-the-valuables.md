@@ -1,0 +1,1 @@
+{"tmdb_id": 367363, "title": "The Return of the Valuables", "original_title": "Fei che long hu dou", "slug_title": "the-return-of-the-valuables", "date": "1975-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tao Chen ()", "Chia-Chia Feng ()", "Lin Feng-jiao ()", "Hsiang Lin ()"], "comments": [], "recommandations_id": []}

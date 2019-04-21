@@ -1,0 +1,1 @@
+{"tmdb_id": 445579, "title": "Sone ki bali", "original_title": "Sone ki bali", "slug_title": "sone-ki-bali", "date": "1960-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8WolSG20vy8sPqEKMAe6HnBoQI.jpg", "actors": ["Nabila ()", "Allaudin ()", "Nilo ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487514, "title": "T\u00e1bua Santista", "original_title": "T\u00e1bua Santista", "slug_title": "tabua-santista", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

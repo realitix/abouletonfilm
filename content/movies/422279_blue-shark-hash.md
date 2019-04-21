@@ -1,0 +1,1 @@
+{"tmdb_id": 422279, "title": "Blue Shark Hash", "original_title": "Blue Shark Hash", "slug_title": "blue-shark-hash", "date": "2000-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

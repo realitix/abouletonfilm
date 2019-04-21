@@ -1,0 +1,1 @@
+{"tmdb_id": 257095, "title": "Prince Bayaya", "original_title": "Bajaja", "slug_title": "prince-bayaya", "date": "1950-01-26", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12wf2EkrPGxNzRbNyoau8GIFp3M.jpg", "actors": [], "comments": [], "recommandations_id": []}

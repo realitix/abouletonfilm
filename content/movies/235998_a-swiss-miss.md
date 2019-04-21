@@ -1,0 +1,1 @@
+{"tmdb_id": 235998, "title": "A Swiss Miss", "original_title": "A Swiss Miss", "slug_title": "a-swiss-miss", "date": "1951-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9syQAFxaPNeGuFVfDe0iXlonq44.jpg", "actors": [], "comments": [], "recommandations_id": []}

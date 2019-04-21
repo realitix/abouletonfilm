@@ -1,0 +1,1 @@
+{"tmdb_id": 411771, "title": "Curious George Gets a Trophy and Other Adventures!", "original_title": "Curious George Gets a Trophy and Other Adventures!", "slug_title": "curious-george-gets-a-trophy-and-other-adventures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 519341, "title": "Il giorno della pace", "original_title": "Il giorno della pace", "slug_title": "il-giorno-della-pace", "date": "1965-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arnoldo Fo\u00e0 (Voce narrante)"], "comments": [], "recommandations_id": []}

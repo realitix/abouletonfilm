@@ -1,0 +1,1 @@
+{"tmdb_id": 370784, "title": "When AIDS Was Funny", "original_title": "When AIDS Was Funny", "slug_title": "when-aids-was-funny", "date": "2015-12-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4ZCrwbUlbnR3452foi6GEigi67.jpg", "actors": ["Larry Speakes ()"], "comments": [], "recommandations_id": []}

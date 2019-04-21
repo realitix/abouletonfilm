@@ -1,0 +1,1 @@
+{"tmdb_id": 379386, "title": "Bob Dylan Hates Me", "original_title": "Bob Dylan Hates Me", "slug_title": "bob-dylan-hates-me", "date": "2016-01-24", "genre": "Animation / Com\u00e9die", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMAMFFCGf07G5Cuo0WrlIFRH7o8.jpg", "actors": [], "comments": [], "recommandations_id": []}

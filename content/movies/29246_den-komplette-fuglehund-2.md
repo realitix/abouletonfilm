@@ -1,0 +1,1 @@
+{"tmdb_id": 29246, "title": "Den komplette fuglehund 2", "original_title": "Den komplette fuglehund 2", "slug_title": "den-komplette-fuglehund-2", "date": "2010-01-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oplT6I9UM65BLTMboZ7Sjomwl6.jpg", "actors": [], "comments": [], "recommandations_id": []}

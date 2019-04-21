@@ -1,0 +1,1 @@
+{"tmdb_id": 441815, "title": "Afina\u00e7\u00e3o da Interioridade", "original_title": "Afina\u00e7\u00e3o da Interioridade", "slug_title": "afinacao-da-interioridade", "date": "", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

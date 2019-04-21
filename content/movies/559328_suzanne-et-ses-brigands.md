@@ -1,0 +1,1 @@
+{"tmdb_id": 559328, "title": "Suzanne et ses brigands", "original_title": "Suzanne et ses brigands", "slug_title": "suzanne-et-ses-brigands", "date": "1949-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hki5IMDFQ918unStuvgezGAexK.jpg", "actors": [], "comments": [], "recommandations_id": []}

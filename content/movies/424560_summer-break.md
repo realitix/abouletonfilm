@@ -1,0 +1,1 @@
+{"tmdb_id": 424560, "title": "Summer Break", "original_title": "Sommerloch", "slug_title": "summer-break", "date": "2016-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Oussankina ()", "Bj\u00f6rn von der Wellen ()"], "comments": [], "recommandations_id": []}

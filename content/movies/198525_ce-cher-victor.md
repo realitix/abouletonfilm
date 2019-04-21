@@ -1,0 +1,1 @@
+{"tmdb_id": 198525, "title": "Ce cher Victor", "original_title": "Ce cher Victor", "slug_title": "ce-cher-victor", "date": "1975-06-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4LWK9QUo62kC8YE5x2WDe4mBbmI.jpg", "actors": [], "comments": [], "recommandations_id": []}

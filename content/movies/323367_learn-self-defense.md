@@ -1,0 +1,1 @@
+{"tmdb_id": 323367, "title": "Learn Self Defense", "original_title": "Learn Self Defense", "slug_title": "learn-self-defense", "date": "2005-03-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWVV8Xgqwcn3u4VDKtNxAV9dVGP.jpg", "actors": [], "comments": [], "recommandations_id": []}

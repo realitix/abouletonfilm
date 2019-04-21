@@ -1,0 +1,1 @@
+{"tmdb_id": 412978, "title": "Przez pole", "original_title": "Przez pole", "slug_title": "przez-pole", "date": "1992-05-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

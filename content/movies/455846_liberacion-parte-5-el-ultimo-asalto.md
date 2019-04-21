@@ -1,0 +1,1 @@
+{"tmdb_id": 455846, "title": "Liberaci\u00f3n Parte 5 - El \u00faltimo asalto", "original_title": "Liberaci\u00f3n Parte 5 - El \u00faltimo asalto", "slug_title": "liberacion-parte-5-el-ultimo-asalto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

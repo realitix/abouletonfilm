@@ -1,0 +1,1 @@
+{"tmdb_id": 316396, "title": "Black Beach Spring Bling", "original_title": "Black Beach Spring Bling", "slug_title": "black-beach-spring-bling", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

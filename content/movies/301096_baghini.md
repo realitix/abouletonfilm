@@ -1,0 +1,1 @@
+{"tmdb_id": 301096, "title": "Baghini", "original_title": "Baghini", "slug_title": "baghini", "date": "1967-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

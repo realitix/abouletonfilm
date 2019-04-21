@@ -1,0 +1,1 @@
+{"tmdb_id": 408153, "title": "Hollywood Beauty Salon", "original_title": "Hollywood Beauty Salon", "slug_title": "hollywood-beauty-salon", "date": "2016-07-29", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ulEa6aOJwy6QCEAw8jcEx4kMOa6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337183, "title": "Sinbad, the Sailor", "original_title": "Sinbad, the Sailor", "slug_title": "sinbad-the-sailor", "date": "1919-09-07", "genre": "Com\u00e9die / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Hupp ()", "Raymond Lee ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499460, "title": "My Friend the Polish Girl", "original_title": "My Friend the Polish Girl", "slug_title": "my-friend-the-polish-girl", "date": "2018-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oBJwN5nD8Yvynnzb57x2qN15Zv.jpg", "actors": [], "comments": [], "recommandations_id": []}

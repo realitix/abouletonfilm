@@ -1,0 +1,1 @@
+{"tmdb_id": 298626, "title": "Psychiatry in Russia", "original_title": "Psychiatry in Russia", "slug_title": "psychiatry-in-russia", "date": "1955-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDGG1RIuOI08iobrkCrMvr9qbzS.jpg", "actors": [], "comments": [], "recommandations_id": [134209]}

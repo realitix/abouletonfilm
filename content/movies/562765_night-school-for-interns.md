@@ -1,0 +1,1 @@
+{"tmdb_id": 562765, "title": "Night School for Interns", "original_title": "Night School for Interns", "slug_title": "night-school-for-interns", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betty Box ()", "Elmo Cox ()"], "comments": [], "recommandations_id": []}

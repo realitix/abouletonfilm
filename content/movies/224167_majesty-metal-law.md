@@ -1,0 +1,1 @@
+{"tmdb_id": 224167, "title": "Majesty: Metal Law", "original_title": "Majesty: Metal Law", "slug_title": "majesty-metal-law", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

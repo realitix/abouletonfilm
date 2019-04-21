@@ -1,0 +1,1 @@
+{"tmdb_id": 444733, "title": "Meeting Evil", "original_title": "Meeting Evil", "slug_title": "meeting-evil", "date": "2002-10-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AEqu4IxmQqt3xzesE6BbiAZkrc.jpg", "actors": ["C\u00e9sar Saratxu (Suicide Bomber)"], "comments": [], "recommandations_id": []}

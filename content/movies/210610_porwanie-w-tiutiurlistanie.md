@@ -1,0 +1,1 @@
+{"tmdb_id": 210610, "title": "Porwanie w Tiutiurlistanie", "original_title": "Porwanie w Tiutiurlistanie", "slug_title": "porwanie-w-tiutiurlistanie", "date": "1986-07-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

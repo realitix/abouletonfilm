@@ -1,0 +1,1 @@
+{"tmdb_id": 559688, "title": "Urojahaj", "original_title": "Urojahaj", "slug_title": "urojahaj", "date": "2018-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8TENs4l4bFDSYfsvquGoF5qqgdF.jpg", "actors": [], "comments": [], "recommandations_id": []}

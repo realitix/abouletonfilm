@@ -1,0 +1,1 @@
+{"tmdb_id": 504828, "title": "Bad Actors", "original_title": "Bad Actors", "slug_title": "bad-actors", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

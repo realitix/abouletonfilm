@@ -1,0 +1,1 @@
+{"tmdb_id": 226588, "title": "The Next Hit", "original_title": "The Next Hit", "slug_title": "the-next-hit", "date": "2008-10-08", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

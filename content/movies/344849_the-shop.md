@@ -1,0 +1,1 @@
+{"tmdb_id": 344849, "title": "The Shop", "original_title": "The Shop", "slug_title": "the-shop", "date": "2014-06-16", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GCgHP4GrrRKCNqOLrJme8fKlds.jpg", "actors": [], "comments": [], "recommandations_id": []}

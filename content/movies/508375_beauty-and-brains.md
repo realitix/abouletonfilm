@@ -1,0 +1,1 @@
+{"tmdb_id": 508375, "title": "Beauty and Brains", "original_title": "Beauty and Brains", "slug_title": "beauty-and-brains", "date": "2010-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwOZx4mnddbeLQ84sQ5WKtOx8e5.jpg", "actors": [], "comments": [], "recommandations_id": []}

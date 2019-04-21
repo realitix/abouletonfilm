@@ -1,0 +1,1 @@
+{"tmdb_id": 576184, "title": "Kanun g\u00fcc\u00fc", "original_title": "Kanun g\u00fcc\u00fc", "slug_title": "kanun-gucu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVApW0x9KMfDbuGNxrHjXEy9AS5.jpg", "actors": [], "comments": [], "recommandations_id": []}

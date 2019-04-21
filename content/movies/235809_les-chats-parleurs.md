@@ -1,0 +1,1 @@
+{"tmdb_id": 235809, "title": "Les chats parleurs", "original_title": "Cats A-Weigh!", "slug_title": "les-chats-parleurs", "date": "1953-11-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vn8DXbZLu9NDalOeIAwCRZUcwtJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

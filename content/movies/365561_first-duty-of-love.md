@@ -1,0 +1,1 @@
+{"tmdb_id": 365561, "title": "First Duty of Love", "original_title": "First Duty of Love", "slug_title": "first-duty-of-love", "date": "2015-02-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0Ui7E5UmLbzxL1M7iFJOOLN2sw.jpg", "actors": ["Mabel Yap ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318338, "title": "The Triangle Wars", "original_title": "The Triangle Wars", "slug_title": "the-triangle-wars", "date": "2011-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JQP1N8va3DDru8RIbN1RN8T14K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 125067, "title": "Pachelbel Canon Acoustica", "original_title": "Pachelbel Canon Acoustica", "slug_title": "pachelbel-canon-acoustica", "date": "2012-05-26", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59AxpTxLmeGsNkL0I6sLjIFtCjN.jpg", "actors": [], "comments": [], "recommandations_id": []}

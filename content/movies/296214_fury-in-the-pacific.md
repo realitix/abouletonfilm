@@ -1,0 +1,1 @@
+{"tmdb_id": 296214, "title": "Fury in the Pacific", "original_title": "Fury in the Pacific", "slug_title": "fury-in-the-pacific", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

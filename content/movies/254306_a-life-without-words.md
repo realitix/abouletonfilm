@@ -1,0 +1,1 @@
+{"tmdb_id": 254306, "title": "A Life without Words", "original_title": "Una vida sin palabras", "slug_title": "a-life-without-words", "date": "2011-09-06", "genre": "Drame / Documentaire / Familial", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4LghUlo5zqNHuVb4JgrmhoKguTI.jpg", "actors": [], "comments": [], "recommandations_id": []}

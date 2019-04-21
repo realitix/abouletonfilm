@@ -1,0 +1,1 @@
+{"tmdb_id": 314603, "title": "Master and Vassal", "original_title": "Padrone e Sotto", "slug_title": "master-and-vassal", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

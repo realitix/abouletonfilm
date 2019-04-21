@@ -1,0 +1,1 @@
+{"tmdb_id": 254934, "title": "Saturday Night Swing Club", "original_title": "Saturday Night Swing Club", "slug_title": "saturday-night-swing-club", "date": "1938-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523305, "title": "The Nut Case Mind Shield", "original_title": "The Nut Case Mind Shield", "slug_title": "the-nut-case-mind-shield", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mV0ybQZdq3FbwARh3vUXYc09vNv.jpg", "actors": [], "comments": [], "recommandations_id": []}

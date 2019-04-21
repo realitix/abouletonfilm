@@ -1,0 +1,1 @@
+{"tmdb_id": 470384, "title": "Shooting Guns", "original_title": "Shooting Guns", "slug_title": "shooting-guns", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 277492, "title": "Keep the Faith, Baby", "original_title": "Keep the Faith, Baby", "slug_title": "keep-the-faith-baby", "date": "2002-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Lennix (Adam Clayton Powell Jr.)", "Vanessa Williams (Hazel Scott)"], "comments": [], "recommandations_id": []}

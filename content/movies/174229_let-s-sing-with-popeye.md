@@ -1,0 +1,1 @@
+{"tmdb_id": 174229, "title": "Let's Sing with Popeye", "original_title": "Let's Sing with Popeye", "slug_title": "let-s-sing-with-popeye", "date": "1934-03-05", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHzu7CwY4Ey3IUkw9Tsq0xrLX0B.jpg", "actors": [], "comments": [], "recommandations_id": []}

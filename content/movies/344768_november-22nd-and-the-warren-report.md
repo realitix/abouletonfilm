@@ -1,0 +1,1 @@
+{"tmdb_id": 344768, "title": "November 22nd and the Warren Report", "original_title": "November 22nd and the Warren Report", "slug_title": "november-22nd-and-the-warren-report", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

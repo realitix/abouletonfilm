@@ -1,0 +1,1 @@
+{"tmdb_id": 361038, "title": "Desecration/Resurrection", "original_title": "Desecration/Resurrection", "slug_title": "desecration-resurrection", "date": "2010-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xARa1yrJDKUcSfxqtxgGVMGWQ0t.jpg", "actors": [], "comments": [], "recommandations_id": []}

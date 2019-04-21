@@ -1,0 +1,1 @@
+{"tmdb_id": 585032, "title": "\uc0ac\ubc29\uc9c0", "original_title": "\uc0ac\ubc29\uc9c0", "slug_title": "sabangji", "date": "1988-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

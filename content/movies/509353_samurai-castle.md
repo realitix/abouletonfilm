@@ -1,0 +1,1 @@
+{"tmdb_id": 509353, "title": "Samurai Castle", "original_title": "Samurai Castle", "slug_title": "samurai-castle", "date": "2017-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMQvE3mEEZ8KzjMsrGIBe1RUwVl.jpg", "actors": [], "comments": [], "recommandations_id": []}

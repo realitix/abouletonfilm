@@ -1,0 +1,1 @@
+{"tmdb_id": 550691, "title": "V\u00e4stra Hamngatan 2020", "original_title": "V\u00e4stra Hamngatan 2020", "slug_title": "vastra-hamngatan-2020", "date": "2007-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl Johan De Geer (Narrator)"], "comments": [], "recommandations_id": []}

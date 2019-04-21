@@ -1,0 +1,1 @@
+{"tmdb_id": 229190, "title": "Dizzy Gillespie", "original_title": "Dizzy Gillespie", "slug_title": "dizzy-gillespie", "date": "1965-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hScLbn6p6TnjjZfntgnnTwwmmw3.jpg", "actors": ["Dizzy Gillespie ()"], "comments": [], "recommandations_id": []}

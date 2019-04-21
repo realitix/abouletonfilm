@@ -1,0 +1,1 @@
+{"tmdb_id": 557124, "title": "Thru the Wire", "original_title": "Thru the Wire", "slug_title": "thru-the-wire", "date": "1987-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efUwNNTSWPulVioYWAMYObE51h1.jpg", "actors": [], "comments": [], "recommandations_id": []}

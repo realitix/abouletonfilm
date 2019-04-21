@@ -1,0 +1,1 @@
+{"tmdb_id": 503284, "title": "E lei si scord\u00f2", "original_title": "E lei si scord\u00f2", "slug_title": "e-lei-si-scordo", "date": "2008-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

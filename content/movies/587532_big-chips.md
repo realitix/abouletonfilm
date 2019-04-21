@@ -1,0 +1,1 @@
+{"tmdb_id": 587532, "title": "Big Chips", "original_title": "Big Chips", "slug_title": "big-chips", "date": "2019-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rtnUq36A3wTjxzNfbuxwB1Rm1uf.jpg", "actors": ["Kemba Walker (Himself)", "Bobbito Garcia (Narrator)"], "comments": [], "recommandations_id": []}

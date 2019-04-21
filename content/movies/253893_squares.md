@@ -1,0 +1,1 @@
+{"tmdb_id": 253893, "title": "Squares", "original_title": "Quadrate", "slug_title": "squares", "date": "1934-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 388786, "title": "Making Friends", "original_title": "Making Friends", "slug_title": "making-friends", "date": "2011-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Molly Morgen Lamont ()", "William Waidmann ()", "Rob Zabrecky ()"], "comments": [], "recommandations_id": []}

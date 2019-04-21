@@ -1,0 +1,1 @@
+{"tmdb_id": 503936, "title": "Detroit", "original_title": "Detroit", "slug_title": "detroit", "date": "2003-06-28", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWhcrOEhCQepjwqZ8np6LQZ63vG.jpg", "actors": ["Christoph Bach (Edzard)"], "comments": [], "recommandations_id": []}

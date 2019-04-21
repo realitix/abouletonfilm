@@ -1,0 +1,1 @@
+{"tmdb_id": 402926, "title": "Un lion nomm\u00e9 l'am\u00e9ricain", "original_title": "Un lion nomm\u00e9 l'am\u00e9ricain", "slug_title": "un-lion-nomme-l-americain", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

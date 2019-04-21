@@ -1,0 +1,1 @@
+{"tmdb_id": 346310, "title": "Looking for Alaska", "original_title": "Looking for Alaska", "slug_title": "looking-for-alaska", "date": "2019-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 452482, "title": "Un Canadien errant", "original_title": "Un Canadien errant", "slug_title": "un-canadien-errant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

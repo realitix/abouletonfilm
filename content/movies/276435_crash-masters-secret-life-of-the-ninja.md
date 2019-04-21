@@ -1,0 +1,1 @@
+{"tmdb_id": 276435, "title": "Crash Masters: Secret Life of the Ninja", "original_title": "Crash Masters: Secret Life of the Ninja", "slug_title": "crash-masters-secret-life-of-the-ninja", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275380, "title": "Dirty Rebel", "original_title": "Dirty Rebel", "slug_title": "dirty-rebel", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

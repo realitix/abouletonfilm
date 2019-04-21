@@ -1,0 +1,1 @@
+{"tmdb_id": 116090, "title": "Idiots Deluxe", "original_title": "Idiots Deluxe", "slug_title": "idiots-deluxe", "date": "1945-07-20", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

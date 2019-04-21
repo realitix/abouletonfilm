@@ -1,0 +1,1 @@
+{"tmdb_id": 235928, "title": "Popeye's Pappy", "original_title": "Popeye's Pappy", "slug_title": "popeye-s-pappy", "date": "1952-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

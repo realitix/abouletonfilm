@@ -1,0 +1,1 @@
+{"tmdb_id": 276333, "title": "Jose Carreras: Sacred Songs", "original_title": "Jose Carreras: Sacred Songs", "slug_title": "jose-carreras-sacred-songs", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

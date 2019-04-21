@@ -1,0 +1,67 @@
+{{ define "main" }}
+<div class="single">
+    <div class="row justify-content-md-center">
+        <div class="col-3 download">
+            <img src="{{.Params.image}}" /> <br />
+            <a href="#" class="btn btn-danger"><i class="fa fa-download"></i>  Téléchargez !</a>
+        </div>
+        <div class="col-5 infos">
+            <h2>{{ .Title }}</h2>
+            {{ if isset .Params "original_title" }}<h6>Titre original: {{ .Params.original_title }}</h6>{{ end }}
+            <div class="year">
+                {{ .Date.Year }} <br/>
+                {{ .Params.genre }}
+            </div>
+            <div class="star">
+                Note moyenne: {{ .Params.score }} <i class="fa fa-star"></i>
+            </div>
+            <div class="alert alert-success" role="alert">
+                <h4 class="alert-heading">Aidez-nous !</h4>
+                <p>Nous travaillons pour maintenir ce site à jour et l'hébergement nous coûte cher, soutenez-nous en cliquant sur les pubs.</p>
+                <hr>
+                <p class="mb-0">Vive le partage !</p>
+              </div>
+        </div>
+        <div class="col-4 other-movies">
+            <div class="tosee">Idée de films/séries :</div>
+            <div class="row">
+                {{ range .Params.related }}
+                <div class="col-6 movie"><a href="#"><img src="/img/{{.image}}" /></a></div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 offset-1 synopsis">
+            <h3>Synopsis</h3>
+            <p>
+                {{.Params.synopsis}}
+            </p>
+        </div>
+        <div class=" offset-1 col-4">
+            <h6>Acteurs:</h6>
+            <ul>
+                {{ range .Params.actors }}
+                <li>{{ . }}</li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 offset-1 comments">
+            <h3>Comments</h3>
+            {{ range .Params.comments }}
+            <div class="row comment">
+                <div class="col content">
+                <b>{{ .pseudo }}</b><br />
+                {{ .content }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+{{ end }}

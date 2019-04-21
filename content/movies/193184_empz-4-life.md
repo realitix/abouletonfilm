@@ -1,0 +1,1 @@
+{"tmdb_id": 193184, "title": "EMPz 4 Life", "original_title": "EMPz 4 Life", "slug_title": "empz-4-life", "date": "2006-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0g2NxAeu3To5fdOoVd4jbEQfb1.jpg", "actors": [], "comments": [], "recommandations_id": []}

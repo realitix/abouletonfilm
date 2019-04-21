@@ -1,0 +1,1 @@
+{"tmdb_id": 415998, "title": "\u5341\u842c\u706b\u6025", "original_title": "\u5341\u842c\u706b\u6025", "slug_title": "shi-wan-huo-ji", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

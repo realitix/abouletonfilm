@@ -1,0 +1,1 @@
+{"tmdb_id": 340198, "title": "Bionic Boy", "original_title": "Bionic Boy", "slug_title": "bionic-boy", "date": "1977-01-01", "genre": "Aventure / Action", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qJHHahOVUKXc7mqv0vw84vgYhrH.jpg", "actors": ["Johnson Yap (Bionic Boy)"], "comments": [], "recommandations_id": []}

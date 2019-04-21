@@ -1,0 +1,1 @@
+{"tmdb_id": 551188, "title": "Scenes From Freedonia", "original_title": "Scenes From Freedonia", "slug_title": "scenes-from-freedonia", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

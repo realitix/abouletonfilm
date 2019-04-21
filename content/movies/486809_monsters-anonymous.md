@@ -1,0 +1,1 @@
+{"tmdb_id": 486809, "title": "Monsters Anonymous", "original_title": "Monsters Anonymous", "slug_title": "monsters-anonymous", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIlGa6sQlbM8Plwr467JOqh3Zbr.jpg", "actors": [], "comments": [], "recommandations_id": []}

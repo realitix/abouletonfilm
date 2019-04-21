@@ -1,0 +1,1 @@
+{"tmdb_id": 314171, "title": "Cat Nipped", "original_title": "Cat Nipped", "slug_title": "cat-nipped", "date": "1932-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernice Hansen (Oswald the Lucky Rabbit (voice))"], "comments": [], "recommandations_id": []}

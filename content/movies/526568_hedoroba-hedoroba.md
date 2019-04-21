@@ -1,0 +1,1 @@
+{"tmdb_id": 526568, "title": "Hedor\u00f4ba (\u30d8\u30c9\u30ed\u30fc\u30d0)", "original_title": "Hedor\u00f4ba (\u30d8\u30c9\u30ed\u30fc\u30d0)", "slug_title": "hedoroba-hedoroba", "date": "2017-12-09", "genre": "Com\u00e9die / Horreur", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

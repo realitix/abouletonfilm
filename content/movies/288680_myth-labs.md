@@ -1,0 +1,1 @@
+{"tmdb_id": 288680, "title": "Myth Labs", "original_title": "Myth Labs", "slug_title": "myth-labs", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRCAlwKFmsBMKOS6YwRPetfYG8f.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312561, "title": "Twisted Sister: Live at the Astoria", "original_title": "Twisted Sister: Live at the Astoria", "slug_title": "twisted-sister-live-at-the-astoria", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

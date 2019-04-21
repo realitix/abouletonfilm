@@ -1,0 +1,1 @@
+{"tmdb_id": 240367, "title": "Youth in Crisis", "original_title": "Youth in Crisis", "slug_title": "youth-in-crisis", "date": "1943-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J. Edgar Hoover (Himself)"], "comments": [], "recommandations_id": []}

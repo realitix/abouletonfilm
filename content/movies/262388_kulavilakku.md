@@ -1,0 +1,1 @@
+{"tmdb_id": 262388, "title": "Kulavilakku", "original_title": "Kulavilakku", "slug_title": "kulavilakku", "date": "1969-06-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "S. V. Ranga Rao ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 214334, "title": "KKK: Beneath the Hood", "original_title": "KKK: Beneath the Hood", "slug_title": "kkk-beneath-the-hood", "date": "2013-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

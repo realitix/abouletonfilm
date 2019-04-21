@@ -1,0 +1,1 @@
+{"tmdb_id": 71486, "title": "K1 World MAX 2008 Japan Tournament", "original_title": "K1 World MAX 2008 Japan Tournament", "slug_title": "k1-world-max-2008-japan-tournament", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XFpn5hAnEuWEMEpJ2myxUAPZKG.jpg", "actors": [], "comments": [], "recommandations_id": []}

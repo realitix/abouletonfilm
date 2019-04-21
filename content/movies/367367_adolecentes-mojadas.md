@@ -1,0 +1,1 @@
+{"tmdb_id": 367367, "title": "Adolecentes Mojadas", "original_title": "Adolecentes Mojadas", "slug_title": "adolecentes-mojadas", "date": "2005-05-29", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

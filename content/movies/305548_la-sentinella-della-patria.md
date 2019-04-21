@@ -1,0 +1,1 @@
+{"tmdb_id": 305548, "title": "La sentinella della patria", "original_title": "La sentinella della patria", "slug_title": "la-sentinella-della-patria", "date": "1927-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

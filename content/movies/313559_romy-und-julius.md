@@ -1,0 +1,1 @@
+{"tmdb_id": 313559, "title": "Romy und Julius", "original_title": "Romy und Julius", "slug_title": "romy-und-julius", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Farkas ()", "Lolita ()", "Maria Andergast ()", "Rudolf Carl ()", "Edd Stavjanik ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 567952, "title": "Exit-exil", "original_title": "Exit-exil", "slug_title": "exit-exil", "date": "1986-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

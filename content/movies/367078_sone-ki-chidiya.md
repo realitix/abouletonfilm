@@ -1,0 +1,1 @@
+{"tmdb_id": 367078, "title": "Sone Ki Chidiya", "original_title": "Sone Ki Chidiya", "slug_title": "sone-ki-chidiya", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310055, "title": "Iceman: Hunt for a Killer", "original_title": "Iceman: Hunt for a Killer", "slug_title": "iceman-hunt-for-a-killer", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y7H1mH0KGsQc6oKXgFoTUEL1fa5.jpg", "actors": [], "comments": [], "recommandations_id": []}

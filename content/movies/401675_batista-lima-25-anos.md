@@ -1,0 +1,1 @@
+{"tmdb_id": 401675, "title": "Batista Lima - 25 anos", "original_title": "Batista Lima - 25 anos", "slug_title": "batista-lima-25-anos", "date": "2015-06-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uldfdtbMGloynytbsH71Y3cJxUG.jpg", "actors": [], "comments": [], "recommandations_id": []}

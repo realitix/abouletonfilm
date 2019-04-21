@@ -1,0 +1,1 @@
+{"tmdb_id": 215884, "title": "Southern Rock At The BBC", "original_title": "Southern Rock At The BBC", "slug_title": "southern-rock-at-the-bbc", "date": "2012-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bY7mz9UoqelWPGKCMYuuAjiHOB.jpg", "actors": [], "comments": [], "recommandations_id": []}

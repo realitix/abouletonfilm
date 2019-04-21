@@ -1,0 +1,1 @@
+{"tmdb_id": 471909, "title": "Haebangchon: Chapter 1", "original_title": "Haebangchon: Chapter 1", "slug_title": "haebangchon-chapter-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qyXKCOAgau8WOgJQB81KebFtIvW.jpg", "actors": [], "comments": [], "recommandations_id": []}

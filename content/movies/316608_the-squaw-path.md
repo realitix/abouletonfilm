@@ -1,0 +1,1 @@
+{"tmdb_id": 316608, "title": "The Squaw Path", "original_title": "The Squaw Path", "slug_title": "the-squaw-path", "date": "1967-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

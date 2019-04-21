@@ -1,0 +1,1 @@
+{"tmdb_id": 594344, "title": "CODA MCMLXXXV", "original_title": "CODA MCMLXXXV", "slug_title": "coda-mcmlxxxv", "date": "2018-12-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m8iE5tV5vgPXHWGAz8EyxEUCqCT.jpg", "actors": [], "comments": [], "recommandations_id": []}

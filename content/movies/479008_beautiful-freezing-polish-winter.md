@@ -1,0 +1,1 @@
+{"tmdb_id": 479008, "title": "Beautiful, Freezing Polish Winter", "original_title": "Pi\u0119kna, mro\u017ana, polska zima", "slug_title": "beautiful-freezing-polish-winter", "date": "1978-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 554061, "title": "Eurasia (Questions on Happiness)", "original_title": "Eurasia (Questions on Happiness)", "slug_title": "eurasia-questions-on-happiness", "date": "2018-10-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

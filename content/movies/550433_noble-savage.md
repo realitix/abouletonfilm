@@ -1,0 +1,1 @@
+{"tmdb_id": 550433, "title": "Noble Savage", "original_title": "\u05e4\u05e8\u05d0 \u05d0\u05e6\u05d9\u05dc", "slug_title": "noble-savage", "date": "2018-06-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neveh Tzur (Eli)"], "comments": [], "recommandations_id": []}

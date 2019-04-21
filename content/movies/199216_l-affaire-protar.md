@@ -1,0 +1,1 @@
+{"tmdb_id": 199216, "title": "L'affaire Protar", "original_title": "Afacerea protar", "slug_title": "l-affaire-protar", "date": "1956-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svaMMighAhVrXmGItdNJPddXPw0.jpg", "actors": [], "comments": [], "recommandations_id": []}

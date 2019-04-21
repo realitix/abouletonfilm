@@ -1,0 +1,1 @@
+{"tmdb_id": 588811, "title": "Stad van twee lentes", "original_title": "Stad van twee lentes", "slug_title": "stad-van-twee-lentes", "date": "2019-03-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klcwYQmN1qMONR3uINCI4j7ubsa.jpg", "actors": [], "comments": [], "recommandations_id": []}

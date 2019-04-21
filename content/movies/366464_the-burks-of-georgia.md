@@ -1,0 +1,1 @@
+{"tmdb_id": 366464, "title": "The Burks Of Georgia", "original_title": "The Burks Of Georgia", "slug_title": "the-burks-of-georgia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

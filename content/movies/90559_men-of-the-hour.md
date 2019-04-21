@@ -1,0 +1,1 @@
+{"tmdb_id": 90559, "title": "Men of the Hour", "original_title": "\u98a8\u96f2\u4eba\u7269", "slug_title": "men-of-the-hour", "date": "1977-01-01", "genre": "Action", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1BBWm1HhOqVEw7CmFAdEU8hi6m.jpg", "actors": ["Chang Ling ()"], "comments": [], "recommandations_id": []}

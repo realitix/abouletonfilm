@@ -1,0 +1,1 @@
+{"tmdb_id": 579033, "title": "Brit Rock Film Tour 2014", "original_title": "Brit Rock Film Tour 2014", "slug_title": "brit-rock-film-tour-2014", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rNRy4h9KNqnrFYCBW1FuAHKK4G5.jpg", "actors": [], "comments": [], "recommandations_id": []}

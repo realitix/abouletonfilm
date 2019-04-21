@@ -1,0 +1,1 @@
+{"tmdb_id": 275698, "title": "Ali Baba and the Pirates", "original_title": "Ali Baba and the Pirates", "slug_title": "ali-baba-and-the-pirates", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

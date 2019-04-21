@@ -1,0 +1,1 @@
+{"tmdb_id": 285320, "title": "The Best of Dr. Seuss", "original_title": "The Best of Dr. Seuss", "slug_title": "the-best-of-dr-seuss", "date": "2000-12-14", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gd244ehqMoEOZKhQ0v083iXZh5d.jpg", "actors": [], "comments": [], "recommandations_id": []}

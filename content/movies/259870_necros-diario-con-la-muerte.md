@@ -1,0 +1,1 @@
+{"tmdb_id": 259870, "title": "Necros: diario con la muerte", "original_title": "Necros: diario con la muerte", "slug_title": "necros-diario-con-la-muerte", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvaDad2iTd964qQg8sJeeJx8imb.jpg", "actors": [], "comments": [], "recommandations_id": []}

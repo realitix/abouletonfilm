@@ -1,0 +1,1 @@
+{"tmdb_id": 91174, "title": "The Fir", "original_title": "\u0415\u043b\u044c", "slug_title": "the-fir", "date": "1984-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bHpErarEbl40pVASOZdqiXQ25A.jpg", "actors": [], "comments": [], "recommandations_id": []}

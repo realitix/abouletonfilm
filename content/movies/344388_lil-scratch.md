@@ -1,0 +1,1 @@
+{"tmdb_id": 344388, "title": "Lil' Scratch", "original_title": "Lil' Scratch", "slug_title": "lil-scratch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

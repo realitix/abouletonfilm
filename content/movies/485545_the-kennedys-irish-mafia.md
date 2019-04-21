@@ -1,0 +1,1 @@
+{"tmdb_id": 485545, "title": "The Kennedys\u2019 Irish Mafia", "original_title": "The Kennedys\u2019 Irish Mafia", "slug_title": "the-kennedys-irish-mafia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AyvjH9fsEc6Ts0pljqKlB77kLS.jpg", "actors": [], "comments": [], "recommandations_id": []}

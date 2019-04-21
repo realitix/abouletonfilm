@@ -1,0 +1,1 @@
+{"tmdb_id": 391787, "title": "The Mass", "original_title": "\u041f\u0430\u043d\u0430\u0453\u0443\u0440", "slug_title": "the-mass", "date": "1905-09-18", "genre": "Documentaire", "score": "4.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [251483, 391789, 166708, 166707]}

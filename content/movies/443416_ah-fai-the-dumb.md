@@ -1,0 +1,1 @@
+{"tmdb_id": 443416, "title": "Ah Fai, the Dumb", "original_title": "\u5929\u624d\u8207\u767d\u75f4", "slug_title": "ah-fai-the-dumb", "date": "1997-06-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Kot ()", "Athena Chu ()", "Ada Choi ()", "Law Kar-Ying ()"], "comments": [], "recommandations_id": []}

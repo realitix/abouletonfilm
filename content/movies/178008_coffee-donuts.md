@@ -1,0 +1,1 @@
+{"tmdb_id": 178008, "title": "Coffee & Donuts", "original_title": "Coffee & Donuts", "slug_title": "coffee-donuts", "date": "2000-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgSEyKUPmct0rPzCkj5lUBd1YWF.jpg", "actors": [], "comments": [], "recommandations_id": []}

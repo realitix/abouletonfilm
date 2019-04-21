@@ -1,0 +1,1 @@
+{"tmdb_id": 526323, "title": "The Latest News", "original_title": "The Latest News", "slug_title": "the-latest-news", "date": "1904-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z0T4NzTsxQzxTGRGZLwEnRkfcgv.jpg", "actors": [], "comments": [], "recommandations_id": []}

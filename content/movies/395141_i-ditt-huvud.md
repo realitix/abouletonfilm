@@ -1,0 +1,1 @@
+{"tmdb_id": 395141, "title": "I ditt huvud", "original_title": "I ditt huvud", "slug_title": "i-ditt-huvud", "date": "2013-10-09", "genre": "Myst\u00e8re", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8C4eDIi1tgyQV6Z7OXXubozI6lt.jpg", "actors": ["Henrik Fexeus ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 427231, "title": "Scenes on Mr. Smit's Ostrich Farm", "original_title": "Scenes on Mr. Smit's Ostrich Farm", "slug_title": "scenes-on-mr-smit-s-ostrich-farm", "date": "1900-11-22", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

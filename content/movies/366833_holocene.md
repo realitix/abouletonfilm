@@ -1,0 +1,1 @@
+{"tmdb_id": 366833, "title": "Holocene", "original_title": "Holoz\u00e4n", "slug_title": "holocene", "date": "1992-08-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zOgx7zd633tYPbjiz1jxTfFQhS.jpg", "actors": ["Erland Josephson (Geiser)", "Sophie Duez (Corinne)"], "comments": [], "recommandations_id": []}

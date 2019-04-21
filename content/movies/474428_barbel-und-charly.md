@@ -1,0 +1,1 @@
+{"tmdb_id": 474428, "title": "B\u00e4rbel und Charly", "original_title": "B\u00e4rbel und Charly", "slug_title": "barbel-und-charly", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yEOSJazkoQpBnuJfRA7KtDiA6Mq.jpg", "actors": [], "comments": [], "recommandations_id": []}

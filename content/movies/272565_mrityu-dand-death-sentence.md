@@ -1,0 +1,1 @@
+{"tmdb_id": 272565, "title": "Mrityu Dand: Death Sentence", "original_title": "Mrityu Dand: Death Sentence", "slug_title": "mrityu-dand-death-sentence", "date": "1999-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

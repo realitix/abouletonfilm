@@ -1,0 +1,1 @@
+{"tmdb_id": 276439, "title": "Legacy of Jesus: The Bloodline of the Nazarene", "original_title": "Legacy of Jesus: The Bloodline of the Nazarene", "slug_title": "legacy-of-jesus-the-bloodline-of-the-nazarene", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

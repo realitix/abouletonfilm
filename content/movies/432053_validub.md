@@ -1,0 +1,1 @@
+{"tmdb_id": 432053, "title": "\u0412\u0430\u043b\u0438\u0434\u0443\u0431", "original_title": "\u0412\u0430\u043b\u0438\u0434\u0443\u0431", "slug_title": "validub", "date": "1952-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9S3JMTNYuiY9lPLESjbQC4OdlNX.jpg", "actors": [], "comments": [], "recommandations_id": []}

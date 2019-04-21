@@ -1,0 +1,1 @@
+{"tmdb_id": 568803, "title": "La transumanza della pace", "original_title": "La transumanza della pace", "slug_title": "la-transumanza-della-pace", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gianbattista Rigoni Stern (Himself)"], "comments": [], "recommandations_id": []}

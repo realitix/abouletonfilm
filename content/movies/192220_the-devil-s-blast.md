@@ -1,0 +1,1 @@
+{"tmdb_id": 192220, "title": "The Devil's Blast", "original_title": "Les rendez-vous du diable", "slug_title": "the-devil-s-blast", "date": "1960-03-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8djO79OAcszfSwWU6zMKest9Dn.jpg", "actors": ["Haroun Tazieff ()"], "comments": [], "recommandations_id": []}

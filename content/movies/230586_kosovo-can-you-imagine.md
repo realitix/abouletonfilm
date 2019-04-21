@@ -1,0 +1,1 @@
+{"tmdb_id": 230586, "title": "Kosovo: Can You Imagine?", "original_title": "Kosovo: Can You Imagine?", "slug_title": "kosovo-can-you-imagine", "date": "2009-03-15", "genre": "Documentaire", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psZGbAxRZDJqmyTJOqz6RM7laTG.jpg", "actors": [], "comments": [], "recommandations_id": []}

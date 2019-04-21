@@ -1,0 +1,1 @@
+{"tmdb_id": 452181, "title": "Homo Paradoksum I", "original_title": "\u0413\u043e\u043c\u043e \u041f\u0430\u0440\u0430\u0434\u043e\u043a\u0441\u0443\u043c I", "slug_title": "homo-paradoksum-i", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

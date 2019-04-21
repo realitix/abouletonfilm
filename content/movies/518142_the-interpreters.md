@@ -1,0 +1,1 @@
+{"tmdb_id": 518142, "title": "The Interpreters", "original_title": "The Interpreters", "slug_title": "the-interpreters", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

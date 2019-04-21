@@ -1,0 +1,1 @@
+{"tmdb_id": 412619, "title": "Abrasasas", "original_title": "Abrasasas", "slug_title": "abrasasas", "date": "1984-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7mND6W4tlUTD20AB8qrCdeEvspF.jpg", "actors": [], "comments": [], "recommandations_id": []}

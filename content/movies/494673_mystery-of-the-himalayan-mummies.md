@@ -1,0 +1,1 @@
+{"tmdb_id": 494673, "title": "Mystery of The Himalayan Mummies", "original_title": "Mystery of The Himalayan Mummies", "slug_title": "mystery-of-the-himalayan-mummies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpKF4003FeFPYenue2546gbZNTg.jpg", "actors": [], "comments": [], "recommandations_id": []}

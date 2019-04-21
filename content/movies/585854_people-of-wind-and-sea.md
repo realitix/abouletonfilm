@@ -1,0 +1,1 @@
+{"tmdb_id": 585854, "title": "People Of Wind And Sea", "original_title": "Gente de mar y viento", "slug_title": "people-of-wind-and-sea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rJDuEmtEeFzPejBp19S7Eup3WY.jpg", "actors": [], "comments": [], "recommandations_id": []}

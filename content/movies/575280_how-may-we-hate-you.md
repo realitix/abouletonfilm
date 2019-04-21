@@ -1,0 +1,1 @@
+{"tmdb_id": 575280, "title": "How May We Hate You?", "original_title": "How May We Hate You?", "slug_title": "how-may-we-hate-you", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAkzhtDCJwA67YlMeaSSDeiooj9.jpg", "actors": ["Kat Dennings (Ellie)"], "comments": [], "recommandations_id": []}

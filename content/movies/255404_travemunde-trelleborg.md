@@ -1,0 +1,1 @@
+{"tmdb_id": 255404, "title": "Travem\u00fcnde Trelleborg", "original_title": "Travem\u00fcnde Trelleborg", "slug_title": "travemunde-trelleborg", "date": "2009-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tBIRXgwOUPv5tNOS4GjoA7u5ZMO.jpg", "actors": [], "comments": [], "recommandations_id": []}

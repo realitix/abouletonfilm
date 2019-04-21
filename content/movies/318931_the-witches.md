@@ -1,0 +1,1 @@
+{"tmdb_id": 318931, "title": "The Witches", "original_title": "Ang manananggal", "slug_title": "the-witches", "date": "1927-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Walter ()"], "comments": [], "recommandations_id": []}

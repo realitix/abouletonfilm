@@ -1,0 +1,1 @@
+{"tmdb_id": 345693, "title": "Papeg\u00f8ye", "original_title": "Papeg\u00f8ye", "slug_title": "papegoye", "date": "2011-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petter Wilhelm Schjerven ()", "Jenny Skavlan ()"], "comments": [], "recommandations_id": []}

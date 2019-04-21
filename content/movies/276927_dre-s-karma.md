@@ -1,0 +1,1 @@
+{"tmdb_id": 276927, "title": "Dre's Karma", "original_title": "Dre's Karma", "slug_title": "dre-s-karma", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

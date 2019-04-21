@@ -1,0 +1,1 @@
+{"tmdb_id": 392462, "title": "The Hamburg Uprising of 1923", "original_title": "Der Hamburger Aufstand Oktober 1923", "slug_title": "the-hamburg-uprising-of-1923", "date": "1971-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

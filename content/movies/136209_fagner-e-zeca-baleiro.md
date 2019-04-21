@@ -1,0 +1,1 @@
+{"tmdb_id": 136209, "title": "Fagner e Zeca Baleiro", "original_title": "Fagner e Zeca Baleiro", "slug_title": "fagner-e-zeca-baleiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mv737o4Crmys5D9WVBDhdvEtRPs.jpg", "actors": [], "comments": [], "recommandations_id": []}

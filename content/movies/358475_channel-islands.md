@@ -1,0 +1,1 @@
+{"tmdb_id": 358475, "title": "Channel Islands", "original_title": "Channel Islands", "slug_title": "channel-islands", "date": "1952-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

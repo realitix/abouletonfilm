@@ -1,0 +1,1 @@
+{"tmdb_id": 388221, "title": "Ernestine & Kit", "original_title": "Ernestine & Kit", "slug_title": "ernestine-kit", "date": "2016-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJ8zBw3FU4XfsmDlIqBrblDsPwY.jpg", "actors": [], "comments": [], "recommandations_id": []}

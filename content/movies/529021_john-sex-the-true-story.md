@@ -1,0 +1,1 @@
+{"tmdb_id": 529021, "title": "John Sex: The True Story", "original_title": "John Sex: The True Story", "slug_title": "john-sex-the-true-story", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUaVNR0v49XFhHGuth992AtZ4hp.jpg", "actors": ["John Sex ()"], "comments": [], "recommandations_id": []}

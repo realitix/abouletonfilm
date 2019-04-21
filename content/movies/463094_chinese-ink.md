@@ -1,0 +1,1 @@
+{"tmdb_id": 463094, "title": "Chinese Ink", "original_title": "Heber Sini", "slug_title": "chinese-ink", "date": "2016-07-15", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYqQAmEjt8mE5Dx9urXhUST9bJG.jpg", "actors": [], "comments": [], "recommandations_id": []}

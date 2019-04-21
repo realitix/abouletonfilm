@@ -1,0 +1,1 @@
+{"tmdb_id": 477027, "title": "Chinatown Film Project", "original_title": "Chinatown Film Project", "slug_title": "chinatown-film-project", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

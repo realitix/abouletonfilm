@@ -1,0 +1,1 @@
+{"tmdb_id": 352142, "title": "BB King Live at The Apollo", "original_title": "BB King Live at The Apollo", "slug_title": "bb-king-live-at-the-apollo", "date": "2003-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avzC64Y10qKfmFummlAmOITihlW.jpg", "actors": ["B.B. King ()"], "comments": [], "recommandations_id": []}

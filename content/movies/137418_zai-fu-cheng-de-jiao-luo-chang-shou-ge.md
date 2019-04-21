@@ -1,0 +1,1 @@
+{"tmdb_id": 137418, "title": "\u5728\u6d6e\u57ce\u7684\u89d2\u843d\u5531\u9996\u6b4c", "original_title": "\u5728\u6d6e\u57ce\u7684\u89d2\u843d\u5531\u9996\u6b4c", "slug_title": "zai-fu-cheng-de-jiao-luo-chang-shou-ge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

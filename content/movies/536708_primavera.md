@@ -1,0 +1,1 @@
+{"tmdb_id": 536708, "title": "Primavera", "original_title": "Primavera", "slug_title": "primavera", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTitqZM4UTEwZnZhhn87laIAUr.jpg", "actors": [], "comments": [], "recommandations_id": []}

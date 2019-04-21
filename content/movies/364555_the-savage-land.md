@@ -1,0 +1,1 @@
+{"tmdb_id": 364555, "title": "The Savage Land", "original_title": "Yuan Ye", "slug_title": "the-savage-land", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

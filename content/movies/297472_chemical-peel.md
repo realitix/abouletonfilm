@@ -1,0 +1,1 @@
+{"tmdb_id": 297472, "title": "Chemical Peel", "original_title": "Chemical Peel", "slug_title": "chemical-peel", "date": "2014-10-14", "genre": "Horreur", "score": "4.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5jIr2MRIEiT87Oaxvo4l6S3sVQ.jpg", "actors": [], "comments": [], "recommandations_id": [125040, 32585, 338520, 119255]}

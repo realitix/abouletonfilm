@@ -1,0 +1,1 @@
+{"tmdb_id": 71591, "title": "The Linguists", "original_title": "The Linguists", "slug_title": "the-linguists", "date": "2008-01-17", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iuBP9kiNcL2iKJab8uOk4TtUmNk.jpg", "actors": [], "comments": [], "recommandations_id": []}

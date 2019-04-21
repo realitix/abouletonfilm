@@ -1,0 +1,1 @@
+{"tmdb_id": 357339, "title": "Hands, Knees and Bumps a Daisy", "original_title": "Hands, Knees and Bumps a Daisy", "slug_title": "hands-knees-and-bumps-a-daisy", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

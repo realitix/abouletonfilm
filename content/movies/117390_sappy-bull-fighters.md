@@ -1,0 +1,1 @@
+{"tmdb_id": 117390, "title": "Sappy Bull Fighters", "original_title": "Sappy Bull Fighters", "slug_title": "sappy-bull-fighters", "date": "1959-06-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fine (Larry)", "Joe Besser (Joe)", "Moe Howard (Moe)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 187226, "title": "Aerosmith: Live in Philadelphia", "original_title": "Aerosmith: Live in Philadelphia", "slug_title": "aerosmith-live-in-philadelphia", "date": "1990-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIWMsJjphPKg1HiE5wpE2ywz4W1.jpg", "actors": [], "comments": [], "recommandations_id": []}

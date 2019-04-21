@@ -1,0 +1,1 @@
+{"tmdb_id": 457054, "title": "Homosexuality - A Film for Discussion", "original_title": "Homosexuality - A Film for Discussion", "slug_title": "homosexuality-a-film-for-discussion", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

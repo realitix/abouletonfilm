@@ -1,0 +1,1 @@
+{"tmdb_id": 458929, "title": "Bu\u00f1uel's Prisoners", "original_title": "De gevangenen van Bu\u00f1uel", "slug_title": "bunuel-s-prisoners", "date": "2000-05-24", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

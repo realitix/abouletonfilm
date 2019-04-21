@@ -1,0 +1,1 @@
+{"tmdb_id": 351272, "title": "Trailer Life", "original_title": "Trailer Life", "slug_title": "trailer-life", "date": "1937-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

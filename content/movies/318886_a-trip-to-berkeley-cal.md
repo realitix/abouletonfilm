@@ -1,0 +1,1 @@
+{"tmdb_id": 318886, "title": "A Trip to Berkeley, Cal", "original_title": "A Trip to Berkeley, Cal", "slug_title": "a-trip-to-berkeley-cal", "date": "1906-06-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 305356, "title": "The Amber Castle", "original_title": "Yantarnyj Zamok", "slug_title": "the-amber-castle", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6BCkOxsFMvA0WnM0F5nWZk1164u.jpg", "actors": [], "comments": [], "recommandations_id": []}

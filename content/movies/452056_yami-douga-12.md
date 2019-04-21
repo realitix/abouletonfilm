@@ -1,0 +1,1 @@
+{"tmdb_id": 452056, "title": "Yami Douga 12", "original_title": "Yami Douga 12", "slug_title": "yami-douga-12", "date": "2015-06-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5xkiJf4iCauayooBNZluTP2Vky.jpg", "actors": [], "comments": [], "recommandations_id": []}

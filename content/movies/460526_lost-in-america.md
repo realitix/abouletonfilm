@@ -1,0 +1,1 @@
+{"tmdb_id": 460526, "title": "Lost in America", "original_title": "Lost in America", "slug_title": "lost-in-america", "date": "2005-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

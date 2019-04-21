@@ -1,0 +1,1 @@
+{"tmdb_id": 313008, "title": "Cut Poison Burn", "original_title": "Cut Poison Burn", "slug_title": "cut-poison-burn", "date": "2010-10-08", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ej7HMsEbjl4bzxj2liFJFvQqmiR.jpg", "actors": [], "comments": [], "recommandations_id": []}

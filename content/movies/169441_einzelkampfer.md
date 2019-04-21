@@ -1,0 +1,1 @@
+{"tmdb_id": 169441, "title": "Einzelk\u00e4mpfer", "original_title": "Einzelk\u00e4mpfer", "slug_title": "einzelkampfer", "date": "2013-10-10", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Th9pKg3a2bJSLOinj7NxJSxy8Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

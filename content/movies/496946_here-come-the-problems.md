@@ -1,0 +1,1 @@
+{"tmdb_id": 496946, "title": "Here Come the Problems", "original_title": "Chigger Ale", "slug_title": "here-come-the-problems", "date": "2013-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Tadesse ()"], "comments": [], "recommandations_id": []}

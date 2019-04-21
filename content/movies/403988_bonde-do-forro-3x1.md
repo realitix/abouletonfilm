@@ -1,0 +1,1 @@
+{"tmdb_id": 403988, "title": "Bonde do Forr\u00f3 - 3x1", "original_title": "Bonde do Forr\u00f3 - 3x1", "slug_title": "bonde-do-forro-3x1", "date": "2016-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KKSXP7rVHcbA5s8S6ahb81I4dC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330008, "title": "Playing Lecuona", "original_title": "Playing Lecuona", "slug_title": "playing-lecuona", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zSGThsDfCwu2VINbgJhKC4BOQk.jpg", "actors": [], "comments": [], "recommandations_id": []}

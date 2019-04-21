@@ -1,0 +1,1 @@
+{"tmdb_id": 343358, "title": "All Is Lost", "original_title": "All Is Lost", "slug_title": "all-is-lost", "date": "1923-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glen Cavender (Brutal Bill)", "Bobby Dunn ()"], "comments": [], "recommandations_id": []}

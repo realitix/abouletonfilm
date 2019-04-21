@@ -1,0 +1,1 @@
+{"tmdb_id": 352932, "title": "Saturday Night Live: Thanksgiving", "original_title": "Saturday Night Live: Thanksgiving", "slug_title": "saturday-night-live-thanksgiving", "date": "2013-11-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

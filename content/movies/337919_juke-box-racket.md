@@ -1,0 +1,1 @@
+{"tmdb_id": 337919, "title": "Juke Box Racket", "original_title": "Juke Box Racket", "slug_title": "juke-box-racket", "date": "1960-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vP9MvP8G3fX0Krl5vltD5POKd3Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

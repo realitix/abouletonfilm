@@ -1,0 +1,1 @@
+{"tmdb_id": 81546, "title": "The Wahine Disaster", "original_title": "The Wahine Disaster", "slug_title": "the-wahine-disaster", "date": "2008-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwwqqJN2KXjUdkwKf4unslGedhL.jpg", "actors": [], "comments": [], "recommandations_id": []}

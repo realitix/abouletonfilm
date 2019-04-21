@@ -1,0 +1,1 @@
+{"tmdb_id": 585219, "title": "The World Behind The Teenage Psychic", "original_title": "The World Behind The Teenage Psychic", "slug_title": "the-world-behind-the-teenage-psychic", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chien-Na Lee ()"], "comments": [], "recommandations_id": []}

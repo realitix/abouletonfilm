@@ -1,0 +1,1 @@
+{"tmdb_id": 506946, "title": "Lalbaugchi Rani", "original_title": "Lalbaugchi Rani", "slug_title": "lalbaugchi-rani", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

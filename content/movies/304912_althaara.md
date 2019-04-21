@@ -1,0 +1,1 @@
+{"tmdb_id": 304912, "title": "Althaara", "original_title": "Althaara", "slug_title": "althaara", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

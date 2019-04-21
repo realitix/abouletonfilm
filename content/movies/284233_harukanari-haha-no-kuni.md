@@ -1,0 +1,1 @@
+{"tmdb_id": 284233, "title": "Harukanari haha no kuni", "original_title": "Harukanari haha no kuni", "slug_title": "harukanari-haha-no-kuni", "date": "1950-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sessue Hayakawa ()", "Isuzu Yamada ()", "Machiko Ky\u014d ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 262774, "title": "Ef\u00edmera", "original_title": "Ef\u00edmera", "slug_title": "efimera", "date": "2012-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asunci\u00f3n Balaguer ()", "Jorge Bosch ()", "Zaza Mikeladze ()", "Carles Moreu ()", "Salvador Palomino ()"], "comments": [], "recommandations_id": []}

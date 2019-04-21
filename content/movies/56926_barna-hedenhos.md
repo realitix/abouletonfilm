@@ -1,0 +1,1 @@
+{"tmdb_id": 56926, "title": "Barna Hedenh\u00f6s", "original_title": "Barna Hedenh\u00f6s", "slug_title": "barna-hedenhos", "date": "1972-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fpzHrPr9OKe92m4qFGHhbyNx8cm.jpg", "actors": ["Gunnar Bj\u00f6rnstrand (Voice over)"], "comments": [], "recommandations_id": []}

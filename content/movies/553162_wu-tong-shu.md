@@ -1,0 +1,1 @@
+{"tmdb_id": 553162, "title": "\u68a7\u6850\u6811", "original_title": "\u68a7\u6850\u6811", "slug_title": "wu-tong-shu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nplAcFmb0DEP0qnv9GrWSpYszI8.jpg", "actors": [], "comments": [], "recommandations_id": []}

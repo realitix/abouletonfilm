@@ -1,0 +1,1 @@
+{"tmdb_id": 79277, "title": "Martyr", "original_title": "Martyr", "slug_title": "martyr", "date": "2006-08-19", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Bowden (God)", "Christopher Dane (Lucifer)", "Jason L. Davis (Mark)", "Trey Farley (John Banks)"], "comments": [], "recommandations_id": []}

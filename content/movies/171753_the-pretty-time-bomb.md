@@ -1,0 +1,1 @@
+{"tmdb_id": 171753, "title": "The Pretty Time Bomb", "original_title": "The Pretty Time Bomb", "slug_title": "the-pretty-time-bomb", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Minoru Teruya ()", "Bunngyou Dann ()", "Tomoko Hatori ()"], "comments": [], "recommandations_id": []}

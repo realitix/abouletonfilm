@@ -1,0 +1,1 @@
+{"tmdb_id": 190991, "title": "ECW Anarchy Rulz 2000", "original_title": "ECW Anarchy Rulz 2000", "slug_title": "ecw-anarchy-rulz-2000", "date": "2000-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ifY3x67WZFM2xW6LP2b2NSzOWq9.jpg", "actors": [], "comments": [], "recommandations_id": []}

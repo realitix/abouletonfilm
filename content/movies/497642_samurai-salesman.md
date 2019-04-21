@@ -1,0 +1,1 @@
+{"tmdb_id": 497642, "title": "Samurai Salesman", "original_title": "Samurai Salesman", "slug_title": "samurai-salesman", "date": "1992-04-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiJjCr81EG7ZFKnN56JAOKuBrXj.jpg", "actors": [], "comments": [], "recommandations_id": []}

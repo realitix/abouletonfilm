@@ -1,0 +1,1 @@
+{"tmdb_id": 397322, "title": "ECW: Born to be Wired", "original_title": "ECW: Born to be Wired", "slug_title": "ecw-born-to-be-wired", "date": "1997-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fjbyG8MCTaHALJzETKgpevSvlN.jpg", "actors": [], "comments": [], "recommandations_id": []}

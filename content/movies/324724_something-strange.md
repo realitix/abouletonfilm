@@ -1,0 +1,1 @@
+{"tmdb_id": 324724, "title": "Something Strange", "original_title": "Something Strange", "slug_title": "something-strange", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

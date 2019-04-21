@@ -1,0 +1,1 @@
+{"tmdb_id": 564347, "title": "Deer Girl", "original_title": "Ni\u00f1a Ciervo", "slug_title": "deer-girl", "date": "2007-11-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rTKDGOc52LMFrvZ0sAV2rFYXKtB.jpg", "actors": ["Silvia Bascu\u00f1an ()", "Francisca Quezada ()"], "comments": [], "recommandations_id": []}

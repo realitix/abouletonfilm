@@ -1,0 +1,1 @@
+{"tmdb_id": 238081, "title": "The Man Who Lost His Head", "original_title": "The Man Who Lost His Head", "slug_title": "the-man-who-lost-his-head", "date": "2007-08-25", "genre": "Com\u00e9die / Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Clunes (Ian Bennett)"], "comments": [], "recommandations_id": []}

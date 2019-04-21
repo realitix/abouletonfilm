@@ -1,0 +1,1 @@
+{"tmdb_id": 580279, "title": "The Intruder", "original_title": "The Intruder", "slug_title": "the-intruder", "date": "2005-07-11", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lachy Hulme (The Intruder)", "Paul Moder (Robert)"], "comments": [], "recommandations_id": []}

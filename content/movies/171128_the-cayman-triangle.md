@@ -1,0 +1,1 @@
+{"tmdb_id": 171128, "title": "The Cayman Triangle", "original_title": "The Cayman Triangle", "slug_title": "the-cayman-triangle", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4meXVZJEKWyK85tknP1Em4c6AMU.jpg", "actors": [], "comments": [], "recommandations_id": []}

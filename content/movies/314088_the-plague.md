@@ -1,0 +1,1 @@
+{"tmdb_id": 314088, "title": "The Plague", "original_title": "A Praga", "slug_title": "the-plague", "date": "1980-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Fps7EtKQO1D1e9j87KoxpG29nN.jpg", "actors": ["Felipe ()", "S\u00edlvia Gless ()", "Wanda Kosmo ()"], "comments": [], "recommandations_id": []}

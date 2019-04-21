@@ -1,0 +1,1 @@
+{"tmdb_id": 550680, "title": "Eu Vi Dublado", "original_title": "Eu Vi Dublado", "slug_title": "eu-vi-dublado", "date": "2015-05-26", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMDxmIvyUZfjX55GjIwJ46WRhPw.jpg", "actors": [], "comments": [], "recommandations_id": []}

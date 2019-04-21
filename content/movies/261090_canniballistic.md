@@ -1,0 +1,1 @@
+{"tmdb_id": 261090, "title": "CanniBallistic!", "original_title": "CanniBallistic!", "slug_title": "canniballistic", "date": "2002-01-16", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fFyTrf56kdfVgKB93nLSgf4uBgC.jpg", "actors": [], "comments": [], "recommandations_id": []}

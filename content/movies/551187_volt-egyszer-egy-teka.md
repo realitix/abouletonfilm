@@ -1,0 +1,1 @@
+{"tmdb_id": 551187, "title": "Volt egyszer egy t\u00e9ka", "original_title": "Volt egyszer egy t\u00e9ka", "slug_title": "volt-egyszer-egy-teka", "date": "2018-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nsoGvumPNyAexpul0XLv0IqOuOU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 193150, "title": "Amsterdam Global Village", "original_title": "Amsterdam Global Village", "slug_title": "amsterdam-global-village", "date": "1996-10-09", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVMvErfCLNcFI1TVins2NdZOe27.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549054, "title": "Patricia et Jean-Baptiste", "original_title": "Patricia et Jean-Baptiste", "slug_title": "patricia-et-jean-baptiste", "date": "1968-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vprHYO3NEeP8ur4bsMRwiVfoRAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

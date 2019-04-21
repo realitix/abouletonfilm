@@ -1,0 +1,1 @@
+{"tmdb_id": 488997, "title": "Just Like Zorro", "original_title": "Som en Zorro", "slug_title": "just-like-zorro", "date": "2012-01-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8vJpk85BVSpZG2qXEArUs8C4AP.jpg", "actors": ["Harry Thorfinn (Zorro)"], "comments": [], "recommandations_id": []}

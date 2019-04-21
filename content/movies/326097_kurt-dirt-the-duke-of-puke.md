@@ -1,0 +1,1 @@
+{"tmdb_id": 326097, "title": "Kurt Dirt: The Duke of Puke", "original_title": "Kurt Dirt: The Duke of Puke", "slug_title": "kurt-dirt-the-duke-of-puke", "date": "2015-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNwev6GlsbBAayGnOB1rzFM70Fh.jpg", "actors": [], "comments": [], "recommandations_id": []}

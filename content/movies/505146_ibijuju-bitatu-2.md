@@ -1,0 +1,1 @@
+{"tmdb_id": 505146, "title": "Ibijuju bitatu 2", "original_title": "Ibijuju bitatu 2", "slug_title": "ibijuju-bitatu-2", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wtVjKxGbKGIuQOfUpFmhQzYirL2.jpg", "actors": [], "comments": [], "recommandations_id": []}

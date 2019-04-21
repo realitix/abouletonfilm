@@ -1,0 +1,1 @@
+{"tmdb_id": 286692, "title": "Training for the Apocalypse", "original_title": "Training for the Apocalypse", "slug_title": "training-for-the-apocalypse", "date": "2012-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chJxfzP2A4hJCb3TVuiSfdMQAjo.jpg", "actors": [], "comments": [], "recommandations_id": []}

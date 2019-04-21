@@ -1,0 +1,1 @@
+{"tmdb_id": 550334, "title": "A Double Life", "original_title": "A Double Life", "slug_title": "a-double-life", "date": "2018-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eL9HyaKKiQVo0HobNKCF3519why.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 255530, "title": "Ephemeral Solidity", "original_title": "Ephemeral Solidity", "slug_title": "ephemeral-solidity", "date": "1993-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uHwit3lMLji3RQHT3PW8UFLh3cO.jpg", "actors": [], "comments": [], "recommandations_id": [148523, 235877, 131193, 149708]}

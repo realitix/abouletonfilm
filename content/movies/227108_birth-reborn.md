@@ -1,0 +1,1 @@
+{"tmdb_id": 227108, "title": "Birth Reborn", "original_title": "O Renascimento do Parto", "slug_title": "birth-reborn", "date": "2013-10-09", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFeIxWWnA8oc5fcGIP0UN0pJ7TZ.jpg", "actors": ["M\u00e1rcio Garcia (Ele Mesmo)"], "comments": [], "recommandations_id": []}

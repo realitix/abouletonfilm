@@ -1,0 +1,1 @@
+{"tmdb_id": 394165, "title": "Scourge of Blood", "original_title": "\u8840\u306e\u60e8\u5287", "slug_title": "scourge-of-blood", "date": "1984-01-01", "genre": "Horreur / Crime", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iko9DIru2lpqSWHfnoWxQ5LOBPe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 57540, "title": "Animals in Zoo", "original_title": "Dyrene i Zoo", "slug_title": "animals-in-zoo", "date": "2005-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMLCDyzucGyvN1PSNhoWHxHtgcL.jpg", "actors": ["Sebastian Klein (Doktor Pjuskebusk)"], "comments": [], "recommandations_id": []}

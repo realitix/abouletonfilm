@@ -1,0 +1,1 @@
+{"tmdb_id": 512520, "title": "Dracula Meets the Outer Space Chicks", "original_title": "Dracula Meets the Outer Space Chicks", "slug_title": "dracula-meets-the-outer-space-chicks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 130829, "title": "The Great Euro Crash", "original_title": "The Great Euro Crash", "slug_title": "the-great-euro-crash", "date": "2013-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

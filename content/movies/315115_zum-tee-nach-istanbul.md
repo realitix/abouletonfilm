@@ -1,0 +1,1 @@
+{"tmdb_id": 315115, "title": "Zum Tee nach Istanbul", "original_title": "Zum Tee nach Istanbul", "slug_title": "zum-tee-nach-istanbul", "date": "2008-01-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWhAThoAwgE3Bl10s5ldYqYbRmB.jpg", "actors": [], "comments": [], "recommandations_id": []}

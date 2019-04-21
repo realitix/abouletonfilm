@@ -1,0 +1,1 @@
+{"tmdb_id": 431235, "title": "Zapada, Una Comedia Beat", "original_title": "Zapada, Una Comedia Beat", "slug_title": "zapada-una-comedia-beat", "date": "2002-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Y5MSm8toP4nh4CML6iqwd8Tvja.jpg", "actors": ["Diego Capusotto ()"], "comments": [], "recommandations_id": []}

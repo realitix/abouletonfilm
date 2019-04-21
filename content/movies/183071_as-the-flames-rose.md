@@ -1,0 +1,1 @@
+{"tmdb_id": 183071, "title": "As the Flames Rose", "original_title": "O Que Arde Cura", "slug_title": "as-the-flames-rose", "date": "2012-04-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJ8kSgktn9JxZqKW5sRXh9qjHve.jpg", "actors": ["Jo\u00e3o Pedro Rodrigues (Francisco)"], "comments": [], "recommandations_id": []}

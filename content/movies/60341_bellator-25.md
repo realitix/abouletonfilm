@@ -1,0 +1,1 @@
+{"tmdb_id": 60341, "title": "Bellator 25", "original_title": "Bellator 25", "slug_title": "bellator-25", "date": "2010-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nfVRWJXRzPqabF2HJEhlsr4QYQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

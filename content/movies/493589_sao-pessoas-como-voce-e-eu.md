@@ -1,0 +1,1 @@
+{"tmdb_id": 493589, "title": "S\u00e3o Pessoas como Voc\u00ea e Eu", "original_title": "S\u00e3o Pessoas como Voc\u00ea e Eu", "slug_title": "sao-pessoas-como-voce-e-eu", "date": "2017-12-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

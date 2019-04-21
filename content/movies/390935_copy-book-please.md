@@ -1,0 +1,1 @@
+{"tmdb_id": 390935, "title": "Copy Book Please", "original_title": "Copy Book Please", "slug_title": "copy-book-please", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terry-Thomas (Presenter)"], "comments": [], "recommandations_id": []}

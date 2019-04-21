@@ -1,0 +1,1 @@
+{"tmdb_id": 274583, "title": "La Verbena de la Paloma", "original_title": "La Verbena de la Paloma", "slug_title": "la-verbena-de-la-paloma", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

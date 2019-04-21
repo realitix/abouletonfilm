@@ -1,0 +1,1 @@
+{"tmdb_id": 158293, "title": "Diary of Yunbogi", "original_title": "\u30e6\u30f3\u30dc\u30ae\u306e\u65e5\u8a18", "slug_title": "diary-of-yunbogi", "date": "1965-12-11", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NOsN5Ir1v7Ekx4j3MdXtApMUpB.jpg", "actors": [], "comments": [], "recommandations_id": []}

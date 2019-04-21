@@ -1,0 +1,1 @@
+{"tmdb_id": 412448, "title": "Branne Pavlovi\u010d En Dum Kvart", "original_title": "Branne Pavlovi\u010d En Dum Kvart", "slug_title": "branne-pavlovic-en-dum-kvart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

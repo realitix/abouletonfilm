@@ -1,0 +1,1 @@
+{"tmdb_id": 446590, "title": "Takamine", "original_title": "Takamine", "slug_title": "takamine", "date": "2011-05-16", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

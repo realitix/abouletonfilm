@@ -1,0 +1,1 @@
+{"tmdb_id": 394387, "title": "Blackstar Warrior", "original_title": "Blackstar Warrior", "slug_title": "blackstar-warrior", "date": "2010-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Roberts (Lando Calrissian)", "Ire Wardlaw (Lava Moonblaster)", "Jim Siokos (Han Solo)"], "comments": [], "recommandations_id": []}

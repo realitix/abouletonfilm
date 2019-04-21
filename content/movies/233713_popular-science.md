@@ -1,0 +1,1 @@
+{"tmdb_id": 233713, "title": "Popular Science", "original_title": "Popular Science", "slug_title": "popular-science", "date": "1937-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gayne Whitman (Narrator)"], "comments": [], "recommandations_id": []}

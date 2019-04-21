@@ -1,0 +1,1 @@
+{"tmdb_id": 325748, "title": "A Short Film About Shopping", "original_title": "A Short Film About Shopping", "slug_title": "a-short-film-about-shopping", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

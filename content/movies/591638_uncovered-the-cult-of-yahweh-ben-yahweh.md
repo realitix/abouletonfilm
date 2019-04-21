@@ -1,0 +1,1 @@
+{"tmdb_id": 591638, "title": "Uncovered the Cult of Yahweh Ben Yahweh", "original_title": "Uncovered the Cult of Yahweh Ben Yahweh", "slug_title": "uncovered-the-cult-of-yahweh-ben-yahweh", "date": "2019-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

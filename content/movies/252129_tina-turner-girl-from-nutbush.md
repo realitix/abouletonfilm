@@ -1,0 +1,1 @@
+{"tmdb_id": 252129, "title": "Tina Turner: Girl from Nutbush", "original_title": "Tina Turner: Girl from Nutbush", "slug_title": "tina-turner-girl-from-nutbush", "date": "1993-06-29", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

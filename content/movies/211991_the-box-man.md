@@ -1,0 +1,1 @@
+{"tmdb_id": 211991, "title": "The Box Man", "original_title": "The Box Man", "slug_title": "the-box-man", "date": "2002-11-13", "genre": "Drame / Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38p45s0oGgInNmOy3yF1hftJ8fO.jpg", "actors": [], "comments": [], "recommandations_id": []}

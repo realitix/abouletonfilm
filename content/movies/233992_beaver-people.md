@@ -1,0 +1,1 @@
+{"tmdb_id": 233992, "title": "Beaver People", "original_title": "Beaver People", "slug_title": "beaver-people", "date": "1930-11-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajmKOYkeEGK7lkeueA3KLl3SQgx.jpg", "actors": ["Grey Owl ()"], "comments": [], "recommandations_id": []}

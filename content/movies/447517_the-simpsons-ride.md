@@ -1,0 +1,1 @@
+{"tmdb_id": 447517, "title": "The Simpsons Ride", "original_title": "The Simpsons Ride", "slug_title": "the-simpsons-ride", "date": "2008-05-15", "genre": "Animation / Aventure", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4M8jgazlS2nVoQ69k0bL6yGgW2.jpg", "actors": [], "comments": [], "recommandations_id": []}

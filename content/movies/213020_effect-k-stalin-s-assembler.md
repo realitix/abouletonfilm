@@ -1,0 +1,1 @@
+{"tmdb_id": 213020, "title": "Effect K: Stalin's assembler", "original_title": "Effect K: Stalin's assembler", "slug_title": "effect-k-stalin-s-assembler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udP8CYcqinytoEG94aGj7KKu9QP.jpg", "actors": [], "comments": [], "recommandations_id": []}

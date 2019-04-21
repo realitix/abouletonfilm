@@ -1,0 +1,1 @@
+{"tmdb_id": 492813, "title": "As Aventuras do Pequeno Colombo", "original_title": "As Aventuras do Pequeno Colombo", "slug_title": "as-aventuras-do-pequeno-colombo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

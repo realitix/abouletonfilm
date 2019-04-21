@@ -1,0 +1,1 @@
+{"tmdb_id": 221776, "title": "Doktor Spiele", "original_title": "Doktor Spiele", "slug_title": "doktor-spiele", "date": "2006-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYzLeGFNvq962ltTTEfYVEs8Fpo.jpg", "actors": [], "comments": [], "recommandations_id": []}

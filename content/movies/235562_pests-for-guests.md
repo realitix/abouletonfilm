@@ -1,0 +1,1 @@
+{"tmdb_id": 235562, "title": "Pests for Guests", "original_title": "Pests for Guests", "slug_title": "pests-for-guests", "date": "1955-01-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLbyuqiOpzGoU2iGMj4G4eBtcq3.jpg", "actors": [], "comments": [], "recommandations_id": []}

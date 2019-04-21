@@ -1,0 +1,1 @@
+{"tmdb_id": 127201, "title": "A Journey with Paul Cox", "original_title": "A Journey with Paul Cox", "slug_title": "a-journey-with-paul-cox", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rg6ZJb0XGtw6YiGshRSAFyrSdAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

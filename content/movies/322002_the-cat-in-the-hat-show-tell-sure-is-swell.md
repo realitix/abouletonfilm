@@ -1,0 +1,1 @@
+{"tmdb_id": 322002, "title": "The Cat in the Hat: Show & Tell Sure is Swell!", "original_title": "The Cat in the Hat: Show & Tell Sure is Swell!", "slug_title": "the-cat-in-the-hat-show-tell-sure-is-swell", "date": "2013-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

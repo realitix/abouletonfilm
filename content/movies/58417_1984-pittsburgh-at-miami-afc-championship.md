@@ -1,0 +1,1 @@
+{"tmdb_id": 58417, "title": "1984 Pittsburgh at Miami AFC Championship", "original_title": "1984 Pittsburgh at Miami AFC Championship", "slug_title": "1984-pittsburgh-at-miami-afc-championship", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

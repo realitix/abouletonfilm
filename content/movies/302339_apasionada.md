@@ -1,0 +1,1 @@
+{"tmdb_id": 302339, "title": "Apasionada", "original_title": "Apasionada", "slug_title": "apasionada", "date": "1952-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQDGq7c2yyqydc91w4uPmG26f6o.jpg", "actors": ["Jorge Mistral ()", "Leticia Palma ()", "Miguel Torruco ()"], "comments": [], "recommandations_id": []}

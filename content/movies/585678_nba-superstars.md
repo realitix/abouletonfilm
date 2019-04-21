@@ -1,0 +1,1 @@
+{"tmdb_id": 585678, "title": "NBA Superstars", "original_title": "NBA Superstars", "slug_title": "nba-superstars", "date": "1990-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Nxrb2tDwm4yuoNfZ0aE5eKcD3v.jpg", "actors": [], "comments": [], "recommandations_id": []}

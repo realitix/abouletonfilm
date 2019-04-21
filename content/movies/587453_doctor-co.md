@@ -1,0 +1,1 @@
+{"tmdb_id": 587453, "title": "Doctor Co", "original_title": "Dokter Co", "slug_title": "doctor-co", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

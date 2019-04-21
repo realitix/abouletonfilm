@@ -1,0 +1,1 @@
+{"tmdb_id": 41284, "title": "Tommy Tiernan: Live", "original_title": "Tommy Tiernan: Live", "slug_title": "tommy-tiernan-live", "date": "2002-08-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tx7TrVxqTCdnvZ9QxXVCM5TOjF1.jpg", "actors": ["Tommy Tiernan (Himself)"], "comments": [], "recommandations_id": []}

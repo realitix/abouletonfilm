@@ -1,0 +1,1 @@
+{"tmdb_id": 560497, "title": "Christy Moore: Live In Dublin 2006", "original_title": "Christy Moore: Live In Dublin 2006", "slug_title": "christy-moore-live-in-dublin-2006", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2vKxIkHvQSI7VsQVItYQr3bE9mt.jpg", "actors": [], "comments": [], "recommandations_id": []}

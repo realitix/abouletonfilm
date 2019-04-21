@@ -1,0 +1,1 @@
+{"tmdb_id": 527645, "title": "Zwei Wege", "original_title": "Zwei Wege", "slug_title": "zwei-wege", "date": "1966-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

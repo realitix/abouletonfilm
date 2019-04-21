@@ -1,0 +1,1 @@
+{"tmdb_id": 316593, "title": "A Bridge Grows in Brooklyn", "original_title": "A Bridge Grows in Brooklyn", "slug_title": "a-bridge-grows-in-brooklyn", "date": "1966-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

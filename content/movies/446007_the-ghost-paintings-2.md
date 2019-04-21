@@ -1,0 +1,1 @@
+{"tmdb_id": 446007, "title": "The Ghost Paintings 2", "original_title": "The Ghost Paintings 2", "slug_title": "the-ghost-paintings-2", "date": "2002-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 511424, "title": "My Sailor, My Love", "original_title": "My Sailor, My Love", "slug_title": "my-sailor-my-love", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

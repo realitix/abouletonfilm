@@ -1,0 +1,1 @@
+{"tmdb_id": 258546, "title": "El grillo", "original_title": "El grillo", "slug_title": "el-grillo", "date": "2014-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5gyHUy5nZBbkDeTGcbtNvTw7Vhp.jpg", "actors": ["Mart\u00edn Rena ()", "Galia Kohan ()", "Mar\u00eda Pessacq ()"], "comments": [], "recommandations_id": []}

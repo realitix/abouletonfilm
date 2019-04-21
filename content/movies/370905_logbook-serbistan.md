@@ -1,0 +1,1 @@
+{"tmdb_id": 370905, "title": "Logbook_Serbistan", "original_title": "Destinacija_Serbistan", "slug_title": "logbook-serbistan", "date": "2015-04-25", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34tTuGYAnPif2e71JiDt2KAQ2HB.jpg", "actors": [], "comments": [], "recommandations_id": []}

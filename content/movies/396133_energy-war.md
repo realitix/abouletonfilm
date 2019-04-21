@@ -1,0 +1,1 @@
+{"tmdb_id": 396133, "title": "Energy War", "original_title": "Energy War", "slug_title": "energy-war", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

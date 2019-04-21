@@ -1,0 +1,1 @@
+{"tmdb_id": 416313, "title": "Jam Docu GangJeong", "original_title": "Jam Docu \uac15\uc815", "slug_title": "jam-docu-gangjeong", "date": "2011-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rawUhvgLadfB55V2R2GAq9RyOGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

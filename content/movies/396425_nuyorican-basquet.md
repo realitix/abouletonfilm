@@ -1,0 +1,1 @@
+{"tmdb_id": 396425, "title": "Nuyorican B\u00e1squet", "original_title": "Nuyorican B\u00e1squet", "slug_title": "nuyorican-basquet", "date": "2017-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xgGNtHQ4XvMMoV2PDRRqjdQPwH.jpg", "actors": [], "comments": [], "recommandations_id": []}

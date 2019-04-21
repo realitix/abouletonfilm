@@ -1,0 +1,1 @@
+{"tmdb_id": 552813, "title": "Drawing For Beginners: The Square", "original_title": "Drawing For Beginners: The Square", "slug_title": "drawing-for-beginners-the-square", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

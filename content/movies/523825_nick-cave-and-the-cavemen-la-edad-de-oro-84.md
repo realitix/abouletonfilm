@@ -1,0 +1,1 @@
+{"tmdb_id": 523825, "title": "Nick Cave and the Cavemen: La Edad De Oro 84", "original_title": "Nick Cave and the Cavemen: La Edad De Oro 84", "slug_title": "nick-cave-and-the-cavemen-la-edad-de-oro-84", "date": "1984-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

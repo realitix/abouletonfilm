@@ -1,0 +1,1 @@
+{"tmdb_id": 144984, "title": "Snow Paths", "original_title": "Snezhnye dorozhki", "slug_title": "snow-paths", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDvSpa1536T7Va0uTx3U99deFKP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 585330, "title": "The Feminist", "original_title": "The Feminist", "slug_title": "the-feminist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

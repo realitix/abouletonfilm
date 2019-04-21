@@ -1,0 +1,1 @@
+{"tmdb_id": 420183, "title": "O Candinho", "original_title": "O Candinho", "slug_title": "o-candinho", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7uoKMgI2dtDTQ0Oezr8AmeFya8.jpg", "actors": ["Eduardo Llorente ()", "Ivani Ross ()", "Ubaldo Candeias ()"], "comments": [], "recommandations_id": []}

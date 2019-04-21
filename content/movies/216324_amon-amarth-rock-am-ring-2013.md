@@ -1,0 +1,1 @@
+{"tmdb_id": 216324, "title": "Amon Amarth: Rock am Ring 2013", "original_title": "Amon Amarth: Rock am Ring 2013", "slug_title": "amon-amarth-rock-am-ring-2013", "date": "2013-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

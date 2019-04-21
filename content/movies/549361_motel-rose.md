@@ -1,0 +1,1 @@
+{"tmdb_id": 549361, "title": "Motel Rose", "original_title": "\uc7a5\ubbf8\uc5ec\uad00", "slug_title": "motel-rose", "date": "2018-10-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

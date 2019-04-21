@@ -1,0 +1,1 @@
+{"tmdb_id": 405816, "title": "City Kid", "original_title": "City Kid", "slug_title": "city-kid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lou Diamond Phillips (Harley)"], "comments": [], "recommandations_id": []}

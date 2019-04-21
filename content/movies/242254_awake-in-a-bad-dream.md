@@ -1,0 +1,1 @@
+{"tmdb_id": 242254, "title": "Awake in a Bad Dream", "original_title": "Wakker in een boze droom", "slug_title": "awake-in-a-bad-dream", "date": "2013-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cnpfw8DoTLa8SOwG9qc4Ecwvd9k.jpg", "actors": [], "comments": [], "recommandations_id": []}

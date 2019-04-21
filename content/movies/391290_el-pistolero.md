@@ -1,0 +1,1 @@
+{"tmdb_id": 391290, "title": "El Pistolero", "original_title": "El Pistolero", "slug_title": "el-pistolero", "date": "2012-09-11", "genre": "Action", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oWZb352coPdi8ZhXxNSb3Fek3r.jpg", "actors": [], "comments": [], "recommandations_id": []}

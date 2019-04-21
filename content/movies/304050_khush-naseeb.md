@@ -1,0 +1,1 @@
+{"tmdb_id": 304050, "title": "Khush Naseeb", "original_title": "Khush Naseeb", "slug_title": "khush-naseeb", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

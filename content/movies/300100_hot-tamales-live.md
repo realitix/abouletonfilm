@@ -1,0 +1,1 @@
+{"tmdb_id": 300100, "title": "Hot Tamales Live", "original_title": "Hot Tamales Live", "slug_title": "hot-tamales-live", "date": "2010-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YvScMHyOc3X3vuiQOm484AyOPS.jpg", "actors": [], "comments": [], "recommandations_id": []}

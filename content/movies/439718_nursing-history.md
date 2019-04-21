@@ -1,0 +1,1 @@
+{"tmdb_id": 439718, "title": "Nursing History", "original_title": "Nursing History", "slug_title": "nursing-history", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

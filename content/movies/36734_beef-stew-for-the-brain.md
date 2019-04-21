@@ -1,0 +1,1 @@
+{"tmdb_id": 36734, "title": "Beef Stew for the Brain", "original_title": "Beef Stew for the Brain", "slug_title": "beef-stew-for-the-brain", "date": "", "genre": "", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

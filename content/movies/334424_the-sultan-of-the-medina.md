@@ -1,0 +1,1 @@
+{"tmdb_id": 334424, "title": "The Sultan of the Medina", "original_title": "Le sultan de la M\u00e9dina", "slug_title": "the-sultan-of-the-medina", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mustapha Adouani ()", "Fatima Ben Sa\u00efdane ()", "Ben Sma\u00efl ()"], "comments": [], "recommandations_id": []}

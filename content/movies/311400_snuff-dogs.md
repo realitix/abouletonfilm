@@ -1,0 +1,1 @@
+{"tmdb_id": 311400, "title": "Snuff Dogs", "original_title": "Snuff Dogs", "slug_title": "snuff-dogs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

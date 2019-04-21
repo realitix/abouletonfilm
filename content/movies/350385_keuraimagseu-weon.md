@@ -1,0 +1,1 @@
+{"tmdb_id": 350385, "title": "\ud06c\ub77c\uc774\ub9c9\uc2a4 \uc6d0", "original_title": "\ud06c\ub77c\uc774\ub9c9\uc2a4 \uc6d0", "slug_title": "keuraimagseu-weon", "date": "1989-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

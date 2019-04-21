@@ -1,0 +1,1 @@
+{"tmdb_id": 499565, "title": "Kino Hospital", "original_title": "Kino Hospital", "slug_title": "kino-hospital", "date": "2018-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bsgkvmFTRxOByQ9Ghtb9ukcsC6O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 475622, "title": "The Lovers' Guide: Sex Play", "original_title": "The Lovers' Guide: Sex Play", "slug_title": "the-lovers-guide-sex-play", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Ly9gJGF5Xrw5JjRihYxhIggAg8.jpg", "actors": [], "comments": [], "recommandations_id": []}

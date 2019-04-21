@@ -1,0 +1,1 @@
+{"tmdb_id": 537653, "title": "Ubasute", "original_title": "UBASUTE", "slug_title": "ubasute", "date": "2014-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345638, "title": "The Lugosi Files", "original_title": "The Lugosi Files", "slug_title": "the-lugosi-files", "date": "1931-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

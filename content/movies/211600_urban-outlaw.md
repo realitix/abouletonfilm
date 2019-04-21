@@ -1,0 +1,1 @@
+{"tmdb_id": 211600, "title": "Urban Outlaw", "original_title": "Urban Outlaw", "slug_title": "urban-outlaw", "date": "2012-06-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAGI13BEySoLk1opNkk99qfrkAS.jpg", "actors": ["Magnus Walker (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401305, "title": "Chhota Bheem & Krishna vs Zimbara", "original_title": "Chhota Bheem & Krishna vs Zimbara", "slug_title": "chhota-bheem-krishna-vs-zimbara", "date": "2013-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

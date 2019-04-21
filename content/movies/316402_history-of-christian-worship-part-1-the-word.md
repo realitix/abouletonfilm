@@ -1,0 +1,1 @@
+{"tmdb_id": 316402, "title": "History of Christian Worship: Part 1, The Word", "original_title": "History of Christian Worship: Part 1, The Word", "slug_title": "history-of-christian-worship-part-1-the-word", "date": "2010-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

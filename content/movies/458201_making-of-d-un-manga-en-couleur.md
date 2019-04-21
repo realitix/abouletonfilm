@@ -1,0 +1,1 @@
+{"tmdb_id": 458201, "title": "Making of d'un manga en couleur", "original_title": "The Making of a Color Animation", "slug_title": "making-of-d-un-manga-en-couleur", "date": "1937-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Noburou Oofuji (Himself)"], "comments": [], "recommandations_id": []}

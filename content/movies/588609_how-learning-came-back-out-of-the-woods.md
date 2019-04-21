@@ -1,0 +1,1 @@
+{"tmdb_id": 588609, "title": "How Learning Came Back Out of the Woods", "original_title": "Jak nauka wysz\u0142a z lasu", "slug_title": "how-learning-came-back-out-of-the-woods", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

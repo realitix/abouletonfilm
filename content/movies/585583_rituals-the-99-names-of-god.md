@@ -1,0 +1,1 @@
+{"tmdb_id": 585583, "title": "Rituals: The 99 Names of God", "original_title": "Rituals: The 99 Names of God", "slug_title": "rituals-the-99-names-of-god", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

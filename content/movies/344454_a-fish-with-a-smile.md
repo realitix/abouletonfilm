@@ -1,0 +1,1 @@
+{"tmdb_id": 344454, "title": "A Fish with a Smile", "original_title": "Wei xiao de yu", "slug_title": "a-fish-with-a-smile", "date": "2006-02-14", "genre": "Fantastique / Animation", "score": "7.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [73968, 160329]}

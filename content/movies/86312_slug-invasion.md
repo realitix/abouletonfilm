@@ -1,0 +1,1 @@
+{"tmdb_id": 86312, "title": "Slug Invasion", "original_title": "Slug Invasion", "slug_title": "slug-invasion", "date": "2012-01-25", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/amLzzYOeOHTxqaJPNAYlGptgTC0.jpg", "actors": [], "comments": [], "recommandations_id": []}

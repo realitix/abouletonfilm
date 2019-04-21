@@ -1,0 +1,1 @@
+{"tmdb_id": 478171, "title": "Anna und der Soldat", "original_title": "Anna und der Soldat", "slug_title": "anna-und-der-soldat", "date": "2005-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pheline Roggan (Anna)", "Steffen Schroeder (Soldat)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584231, "title": "Be\u015f Tavuk Bir Horoz", "original_title": "Be\u015f Tavuk Bir Horoz", "slug_title": "bes-tavuk-bir-horoz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ciRDDr1KYPDMs9fUewevidRIm2w.jpg", "actors": [], "comments": [], "recommandations_id": []}

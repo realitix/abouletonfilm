@@ -1,0 +1,1 @@
+{"tmdb_id": 118136, "title": "Half a Life", "original_title": "Mourir \u00e0 30 Ans", "slug_title": "half-a-life", "date": "1982-06-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1hTikwOPOr9r7PMoAkAfG5dI78W.jpg", "actors": [], "comments": [], "recommandations_id": [199184, 198790, 198835, 78815]}

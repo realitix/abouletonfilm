@@ -1,0 +1,1 @@
+{"tmdb_id": 499352, "title": "Fighter", "original_title": "Fighter", "slug_title": "fighter", "date": "2017-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSsQbBKjc72kq5mW1pYNHJFCtv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

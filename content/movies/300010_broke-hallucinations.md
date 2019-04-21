@@ -1,0 +1,1 @@
+{"tmdb_id": 300010, "title": "Broke Hallucinations", "original_title": "Broke Hallucinations", "slug_title": "broke-hallucinations", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

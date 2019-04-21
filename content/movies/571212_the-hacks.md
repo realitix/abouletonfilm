@@ -1,0 +1,1 @@
+{"tmdb_id": 571212, "title": "The Hacks", "original_title": "The Hacks", "slug_title": "the-hacks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4W3MuH6FwapYaX5ITma8xHYSbQ.jpg", "actors": ["Darin Cooper (David)", "Michael Cram (Allen)"], "comments": [], "recommandations_id": []}

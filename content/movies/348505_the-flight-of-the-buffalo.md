@@ -1,0 +1,1 @@
+{"tmdb_id": 348505, "title": "The Flight of the Buffalo", "original_title": "The Flight of the Buffalo", "slug_title": "the-flight-of-the-buffalo", "date": "2015-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

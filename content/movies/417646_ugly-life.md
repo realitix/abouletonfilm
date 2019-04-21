@@ -1,0 +1,1 @@
+{"tmdb_id": 417646, "title": "Ugly Life", "original_title": "Ugly Life", "slug_title": "ugly-life", "date": "2014-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 363895, "title": "El pecado de ser mujer", "original_title": "El pecado de ser mujer", "slug_title": "el-pecado-de-ser-mujer", "date": "1955-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tito Gu\u00edzar ()", "Alma Rosa Aguirre ()"], "comments": [], "recommandations_id": []}

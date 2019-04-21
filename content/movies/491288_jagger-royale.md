@@ -1,0 +1,1 @@
+{"tmdb_id": 491288, "title": "J\u00e4gger Royale", "original_title": "J\u00e4gger Royale", "slug_title": "jagger-royale", "date": "2017-11-30", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jO4OLGM6nbH03WMpMkKlweo0WjC.jpg", "actors": ["M\u00edster J\u00e4gger (Varios)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 316645, "title": "James Turrell: Passageways", "original_title": "James Turrell: Passageways", "slug_title": "james-turrell-passageways", "date": "2013-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

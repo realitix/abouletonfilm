@@ -1,0 +1,1 @@
+{"tmdb_id": 427252, "title": "Cavaliers arabes", "original_title": "Cavaliers arabes", "slug_title": "cavaliers-arabes", "date": "1900-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

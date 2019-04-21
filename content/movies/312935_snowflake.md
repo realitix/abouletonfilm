@@ -1,0 +1,1 @@
+{"tmdb_id": 312935, "title": "Snowflake", "original_title": "\u0441\u043d\u0435\u0436\u0438\u043d\u043a\u0430", "slug_title": "snowflake", "date": "2012-09-01", "genre": "Animation / Fantastique", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agPFOyDt8ILzb6cwdPOjE2NeWNG.jpg", "actors": [], "comments": [], "recommandations_id": []}

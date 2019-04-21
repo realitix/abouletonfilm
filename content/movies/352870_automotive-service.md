@@ -1,0 +1,1 @@
+{"tmdb_id": 352870, "title": "Automotive Service", "original_title": "Automotive Service", "slug_title": "automotive-service", "date": "1940-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314477, "title": "F\u0131rt\u0131na Emine", "original_title": "F\u0131rt\u0131na Emine", "slug_title": "firtina-emine", "date": "2014-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

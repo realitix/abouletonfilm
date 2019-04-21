@@ -1,0 +1,1 @@
+{"tmdb_id": 494815, "title": "The Meet Cute", "original_title": "The Meet Cute", "slug_title": "the-meet-cute", "date": "2015-02-11", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlin Adelson (The Girl)"], "comments": [], "recommandations_id": []}

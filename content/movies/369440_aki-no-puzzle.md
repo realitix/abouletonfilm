@@ -1,0 +1,1 @@
+{"tmdb_id": 369440, "title": "Aki no Puzzle", "original_title": "\u79cb\u306e\u30d1\u30ba\u30eb", "slug_title": "aki-no-puzzle", "date": "2003-12-31", "genre": "Animation", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ya25S3YVfOIEw1bo77xRF1Tfbo.jpg", "actors": [], "comments": [], "recommandations_id": []}

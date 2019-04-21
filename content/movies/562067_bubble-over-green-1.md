@@ -1,0 +1,1 @@
+{"tmdb_id": 562067, "title": "Bubble Over Green 1", "original_title": "Bubble Over Green 1", "slug_title": "bubble-over-green-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

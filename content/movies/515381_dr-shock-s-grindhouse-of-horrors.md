@@ -1,0 +1,1 @@
+{"tmdb_id": 515381, "title": "Dr. Shock's Grindhouse Of Horrors", "original_title": "Dr. Shock's Grindhouse Of Horrors", "slug_title": "dr-shock-s-grindhouse-of-horrors", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

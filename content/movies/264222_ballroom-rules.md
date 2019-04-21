@@ -1,0 +1,1 @@
+{"tmdb_id": 264222, "title": "Ballroom Rules", "original_title": "Ballroom Rules", "slug_title": "ballroom-rules", "date": "2012-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qc6vzG3M4UkG7ATEndJE31TgiD.jpg", "actors": ["Anny Salerni ()"], "comments": [], "recommandations_id": []}

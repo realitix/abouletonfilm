@@ -1,0 +1,1 @@
+{"tmdb_id": 537065, "title": "Cowgirl Up", "original_title": "Cowgirl Up", "slug_title": "cowgirl-up", "date": "2018-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

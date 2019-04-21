@@ -1,0 +1,1 @@
+{"tmdb_id": 590620, "title": "Nick Cave & The Bad Seeds at The Fonda Theatre", "original_title": "Nick Cave & The Bad Seeds at The Fonda Theatre", "slug_title": "nick-cave-the-bad-seeds-at-the-fonda-theatre", "date": "2013-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

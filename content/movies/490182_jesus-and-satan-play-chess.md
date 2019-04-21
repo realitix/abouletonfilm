@@ -1,0 +1,1 @@
+{"tmdb_id": 490182, "title": "Jesus and Satan Play Chess", "original_title": "Jesus and Satan Play Chess", "slug_title": "jesus-and-satan-play-chess", "date": "2014-09-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Jeanette Anderson (Lucillle)", "Nessa Varez (Kris)"], "comments": [], "recommandations_id": []}

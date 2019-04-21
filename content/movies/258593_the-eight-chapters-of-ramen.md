@@ -1,0 +1,1 @@
+{"tmdb_id": 258593, "title": "The Eight Chapters of Ramen", "original_title": "The Eight Chapters of Ramen", "slug_title": "the-eight-chapters-of-ramen", "date": "2014-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 279706, "title": "Nova Rex: Ain't Easy Being Cheesy", "original_title": "Nova Rex: Ain't Easy Being Cheesy", "slug_title": "nova-rex-ain-t-easy-being-cheesy", "date": "2011-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

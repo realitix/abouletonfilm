@@ -1,0 +1,1 @@
+{"tmdb_id": 236187, "title": "The Playful Polar Bears", "original_title": "The Playful Polar Bears", "slug_title": "the-playful-polar-bears", "date": "1938-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NZ12i0bLXAeFQXjQwL5C2zecy.jpg", "actors": [], "comments": [], "recommandations_id": []}

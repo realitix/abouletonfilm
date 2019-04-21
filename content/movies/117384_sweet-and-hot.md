@@ -1,0 +1,1 @@
+{"tmdb_id": 117384, "title": "Sweet And Hot", "original_title": "Sweet And Hot", "slug_title": "sweet-and-hot", "date": "1958-09-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Besser (Joe)", "Moe Howard (Moe)", "Larry Fine (Larry)"], "comments": [], "recommandations_id": []}

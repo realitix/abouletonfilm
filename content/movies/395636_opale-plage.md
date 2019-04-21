@@ -1,0 +1,1 @@
+{"tmdb_id": 395636, "title": "Opale plage", "original_title": "Opale plage", "slug_title": "opale-plage", "date": "2010-11-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claude Perron (The Mother)", "Galat\u00e9a Bellugi (Alice)", "Erika Sainte (Nini)"], "comments": [], "recommandations_id": []}

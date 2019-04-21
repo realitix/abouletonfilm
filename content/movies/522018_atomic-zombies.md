@@ -1,0 +1,1 @@
+{"tmdb_id": 522018, "title": "Atomic Zombies!!!", "original_title": "Atomic Zombies!!!", "slug_title": "atomic-zombies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VkUCjL7Z3WVJH1Pn0tGYqwwpaX.jpg", "actors": [], "comments": [], "recommandations_id": []}

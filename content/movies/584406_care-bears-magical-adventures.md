@@ -1,0 +1,1 @@
+{"tmdb_id": 584406, "title": "Care Bears magical adventures", "original_title": "Care Bears magical adventures", "slug_title": "care-bears-magical-adventures", "date": "2005-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59jqoMQRrh788nvGVucEha9D1wo.jpg", "actors": [], "comments": [], "recommandations_id": []}

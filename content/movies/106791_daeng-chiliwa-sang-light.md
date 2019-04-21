@@ -1,0 +1,1 @@
+{"tmdb_id": 106791, "title": "Daeng Chiliwa Sang Light", "original_title": "Daeng Chiliwa Sang Light", "slug_title": "daeng-chiliwa-sang-light", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHOqm3MvHtyu4yqSQdjJW5j4xEF.jpg", "actors": [], "comments": [], "recommandations_id": []}

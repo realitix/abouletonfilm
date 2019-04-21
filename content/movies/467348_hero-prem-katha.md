@@ -1,0 +1,1 @@
+{"tmdb_id": 467348, "title": "Hero - Prem Katha", "original_title": "Hero - Prem Katha", "slug_title": "hero-prem-katha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mYVK9hfuo5pmBpi3hdTEwgS3jUI.jpg", "actors": ["Arindam Roy ()", "Priya Choudhury ()"], "comments": [], "recommandations_id": []}

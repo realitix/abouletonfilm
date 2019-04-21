@@ -1,0 +1,1 @@
+{"tmdb_id": 459229, "title": "Alabama Bound", "original_title": "Alabama Bound", "slug_title": "alabama-bound", "date": "2017-06-17", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40817pCHtSQi3O7eTTmyRLnFElm.jpg", "actors": [], "comments": [], "recommandations_id": []}

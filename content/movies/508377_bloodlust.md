@@ -1,0 +1,1 @@
+{"tmdb_id": 508377, "title": "Bloodlust", "original_title": "Bloodlust", "slug_title": "bloodlust", "date": "2010-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rAtTh3lj4TOum7CuHJosKHifvdx.jpg", "actors": [], "comments": [], "recommandations_id": []}

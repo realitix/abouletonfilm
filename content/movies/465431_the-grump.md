@@ -1,0 +1,1 @@
+{"tmdb_id": 465431, "title": "The Grump", "original_title": "D\u017eangrizalo", "slug_title": "the-grump", "date": "1976-07-09", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ewaRKFngWFIKWF6JBQEnIXa9K6.jpg", "actors": ["Zoran Radmilovi\u0107 ()"], "comments": [], "recommandations_id": []}

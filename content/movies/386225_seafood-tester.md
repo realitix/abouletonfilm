@@ -1,0 +1,1 @@
+{"tmdb_id": 386225, "title": "Seafood Tester", "original_title": "Seafood Tester", "slug_title": "seafood-tester", "date": "2012-10-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slPb6plQQ3fDxgXyawbYatNtjcg.jpg", "actors": [], "comments": [], "recommandations_id": []}

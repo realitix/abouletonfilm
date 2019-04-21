@@ -1,0 +1,1 @@
+{"tmdb_id": 565355, "title": "Algo se debe romper", "original_title": "Algo se debe romper", "slug_title": "algo-se-debe-romper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

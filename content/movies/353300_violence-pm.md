@@ -1,0 +1,1 @@
+{"tmdb_id": 353300, "title": "Violence PM", "original_title": "Violence PM", "slug_title": "violence-pm", "date": "2010-01-01", "genre": "Drame / Action / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Akihiro Nonaka ()", "Akihiro Nonaka (Masashi)", "Hisashi Ueno ()"], "comments": [], "recommandations_id": []}

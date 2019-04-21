@@ -1,0 +1,1 @@
+{"tmdb_id": 313833, "title": "Live at the Rock 'n' Roll Palace: Vol. 2", "original_title": "Live at the Rock 'n' Roll Palace: Vol. 2", "slug_title": "live-at-the-rock-n-roll-palace-vol-2", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

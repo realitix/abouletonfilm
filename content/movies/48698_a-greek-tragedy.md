@@ -1,0 +1,1 @@
+{"tmdb_id": 48698, "title": "A Greek Tragedy", "original_title": "Een griekse tragedie", "slug_title": "a-greek-tragedy", "date": "1985-01-01", "genre": "Animation", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vrQHpCN6DZjZr9468jDM91iAlUj.jpg", "actors": [], "comments": [], "recommandations_id": [210972, 48277, 48276, 163370]}

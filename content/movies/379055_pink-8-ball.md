@@ -1,0 +1,1 @@
+{"tmdb_id": 379055, "title": "Pink 8 Ball", "original_title": "Pink 8 Ball", "slug_title": "pink-8-ball", "date": "1972-02-06", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKz3UGqMqW1iKbzyyvRGIJSuDTZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

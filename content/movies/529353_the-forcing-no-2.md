@@ -1,0 +1,1 @@
+{"tmdb_id": 529353, "title": "The Forcing (No. 2)", "original_title": "The Forcing (No. 2)", "slug_title": "the-forcing-no-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

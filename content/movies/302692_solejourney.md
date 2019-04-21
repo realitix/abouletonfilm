@@ -1,0 +1,1 @@
+{"tmdb_id": 302692, "title": "SoleJourney", "original_title": "SoleJourney", "slug_title": "solejourney", "date": "2008-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

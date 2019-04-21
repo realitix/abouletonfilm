@@ -1,0 +1,1 @@
+{"tmdb_id": 189776, "title": "Double Trouble", "original_title": "Double Trouble", "slug_title": "double-trouble", "date": "1927-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()"], "comments": [], "recommandations_id": []}

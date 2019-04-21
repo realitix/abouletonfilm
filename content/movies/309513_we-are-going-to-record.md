@@ -1,0 +1,1 @@
+{"tmdb_id": 309513, "title": "We Are Going to Record", "original_title": "We Are Going to Record", "slug_title": "we-are-going-to-record", "date": "2014-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eL416VV9rI4obIJxAx1E8qOEbMP.jpg", "actors": [], "comments": [], "recommandations_id": []}

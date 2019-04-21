@@ -1,0 +1,1 @@
+{"tmdb_id": 486975, "title": "I Can't Breathe", "original_title": "I Can't Breathe", "slug_title": "i-can-t-breathe", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Garner (Himself (archive footage))"], "comments": [], "recommandations_id": []}

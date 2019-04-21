@@ -1,0 +1,1 @@
+{"tmdb_id": 184442, "title": "Eats Are West", "original_title": "Eats Are West", "slug_title": "eats-are-west", "date": "1925-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

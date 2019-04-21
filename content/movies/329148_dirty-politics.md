@@ -1,0 +1,1 @@
+{"tmdb_id": 329148, "title": "Dirty Politics", "original_title": "Dirty Politics", "slug_title": "dirty-politics", "date": "2009-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

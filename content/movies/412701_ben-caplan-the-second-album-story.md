@@ -1,0 +1,1 @@
+{"tmdb_id": 412701, "title": "Ben Caplan: The Second Album Story", "original_title": "Ben Caplan: The Second Album Story", "slug_title": "ben-caplan-the-second-album-story", "date": "2016-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Caplan ()"], "comments": [], "recommandations_id": []}

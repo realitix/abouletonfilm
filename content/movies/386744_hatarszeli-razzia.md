@@ -1,0 +1,1 @@
+{"tmdb_id": 386744, "title": "Hatarszeli razzia", "original_title": "Hatarszeli razzia", "slug_title": "hatarszeli-razzia", "date": "1918-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

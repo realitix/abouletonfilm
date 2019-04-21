@@ -1,0 +1,1 @@
+{"tmdb_id": 254852, "title": "Tokyo = Fukushima", "original_title": "Tokyo = Fukushima", "slug_title": "tokyo-fukushima", "date": "2013-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

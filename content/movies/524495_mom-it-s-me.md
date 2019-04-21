@@ -1,0 +1,1 @@
+{"tmdb_id": 524495, "title": "Mom It's Me", "original_title": "\u041c\u0430\u043c\u0430 \u2013 \u044d\u0442\u043e \u044f", "slug_title": "mom-it-s-me", "date": "2014-12-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

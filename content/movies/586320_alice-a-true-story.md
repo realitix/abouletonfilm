@@ -1,0 +1,1 @@
+{"tmdb_id": 586320, "title": "Alice: A True Story", "original_title": "Alice: A True Story", "slug_title": "alice-a-true-story", "date": "2014-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rahul Madhav ()", "Priyamani ()", "Prathap K Pothan ()"], "comments": [], "recommandations_id": []}

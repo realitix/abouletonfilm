@@ -1,0 +1,1 @@
+{"tmdb_id": 419814, "title": "Taiwan Video Club", "original_title": "Taiwan Video Club", "slug_title": "taiwan-video-club", "date": "1999-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

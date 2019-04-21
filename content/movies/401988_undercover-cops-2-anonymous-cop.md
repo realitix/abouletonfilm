@@ -1,0 +1,1 @@
+{"tmdb_id": 401988, "title": "Undercover Cops 2: Anonymous Cop", "original_title": "Undercover Cops 2: Anonymous Cop", "slug_title": "undercover-cops-2-anonymous-cop", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHkWT8ePjpM4ymIUpZVed2G1B83.jpg", "actors": [], "comments": [], "recommandations_id": []}

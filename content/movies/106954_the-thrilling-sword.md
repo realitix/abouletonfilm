@@ -1,0 +1,1 @@
+{"tmdb_id": 106954, "title": "The Thrilling Sword", "original_title": "The Thrilling Sword", "slug_title": "the-thrilling-sword", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYki8A0nXsVQXSr1bHJcPpH220n.jpg", "actors": [], "comments": [], "recommandations_id": []}

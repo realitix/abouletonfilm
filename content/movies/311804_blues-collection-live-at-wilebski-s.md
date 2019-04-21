@@ -1,0 +1,1 @@
+{"tmdb_id": 311804, "title": "Blues Collection: Live at Wilebski's", "original_title": "Blues Collection: Live at Wilebski's", "slug_title": "blues-collection-live-at-wilebski-s", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

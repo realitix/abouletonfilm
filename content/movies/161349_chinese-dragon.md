@@ -1,0 +1,1 @@
+{"tmdb_id": 161349, "title": "Chinese Dragon", "original_title": "Chinese Dragon", "slug_title": "chinese-dragon", "date": "1973-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NmvfwyduA4qyp7Yx16d2fhTgJO.jpg", "actors": ["Barry Chan (Ting Yi)"], "comments": [], "recommandations_id": []}

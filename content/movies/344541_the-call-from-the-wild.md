@@ -1,0 +1,1 @@
+{"tmdb_id": 344541, "title": "The Call from the Wild", "original_title": "The Call from the Wild", "slug_title": "the-call-from-the-wild", "date": "1921-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

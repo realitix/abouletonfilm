@@ -1,0 +1,1 @@
+{"tmdb_id": 424825, "title": "Hillary Clinton, una mujer al l\u00edmite", "original_title": "Hillary Clinton, una mujer al l\u00edmite", "slug_title": "hillary-clinton-una-mujer-al-limite", "date": "2016-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

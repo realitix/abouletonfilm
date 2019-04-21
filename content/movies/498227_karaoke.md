@@ -1,0 +1,1 @@
+{"tmdb_id": 498227, "title": "Karaoke", "original_title": "Karaoke", "slug_title": "karaoke", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310213, "title": "The Autism Enigma", "original_title": "The Autism Enigma", "slug_title": "the-autism-enigma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352607, "title": "Sz\u00edv\u00fcgyem", "original_title": "Sz\u00edv\u00fcgyem", "slug_title": "szivugyem", "date": "1996-05-21", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

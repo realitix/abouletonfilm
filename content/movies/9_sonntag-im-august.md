@@ -1,0 +1,1 @@
+{"tmdb_id": 9, "title": "Sonntag im August", "original_title": "Sonntag im August", "slug_title": "sonntag-im-august", "date": "2004-09-02", "genre": "Drame", "score": "7.4/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rita Lengyel (Alexandra)", "Milton Welsh (Er)"], "comments": [], "recommandations_id": []}

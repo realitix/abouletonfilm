@@ -1,0 +1,1 @@
+{"tmdb_id": 143087, "title": "Klucht - Wie is Wie", "original_title": "Klucht - Wie is Wie", "slug_title": "klucht-wie-is-wie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9TBx7ruGiU8zrFhT7K2MQGYcDpx.jpg", "actors": [], "comments": [], "recommandations_id": []}

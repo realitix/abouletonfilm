@@ -1,0 +1,1 @@
+{"tmdb_id": 268231, "title": "Ueno Juri and the Five Bags", "original_title": "Ueno Juri to Itsutsu no Kaban", "slug_title": "ueno-juri-and-the-five-bags", "date": "2009-09-03", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpdiiUtKJn6dGfiiaXg8LxTDHzh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574565, "title": "Supercard: Summerslam 88", "original_title": "Supercard: Summerslam 88", "slug_title": "supercard-summerslam-88", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "The Honky Tonk Man (Himself)"], "comments": [], "recommandations_id": []}

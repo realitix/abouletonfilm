@@ -1,0 +1,1 @@
+{"tmdb_id": 192191, "title": "The Tiger Woods Story", "original_title": "The Tiger Woods Story", "slug_title": "the-tiger-woods-story", "date": "1998-01-01", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6s7zSN0og2WTg8pnIGvJSMFKCO6.jpg", "actors": [], "comments": [], "recommandations_id": []}

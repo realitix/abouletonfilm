@@ -1,0 +1,1 @@
+{"tmdb_id": 566809, "title": "Lamuweri Guluka: The First Option", "original_title": "Lamuweri Guluka: The First Option", "slug_title": "lamuweri-guluka-the-first-option", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 164033, "title": "The Hitchhiker", "original_title": "The Hitchhiker", "slug_title": "the-hitchhiker", "date": "1933-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon (The Hitchhiker)", "Vernon Dent (Adolph)"], "comments": [], "recommandations_id": []}

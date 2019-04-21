@@ -1,0 +1,1 @@
+{"tmdb_id": 182584, "title": "Sadda Haq", "original_title": "Sadda Haq", "slug_title": "sadda-haq", "date": "2013-04-05", "genre": "Action", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kynJfQmIlkz9Q6z6kh3hd7HSEQu.jpg", "actors": ["Rajeev Mehta (Professor Martin)"], "comments": [], "recommandations_id": []}

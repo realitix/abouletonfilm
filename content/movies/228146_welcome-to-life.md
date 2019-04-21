@@ -1,0 +1,1 @@
+{"tmdb_id": 228146, "title": "Welcome to life", "original_title": "Witajcie w \u017cyciu", "slug_title": "welcome-to-life", "date": "1997-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnD9Anq5UsT1TNAAPTe6tki7GPV.jpg", "actors": [], "comments": [], "recommandations_id": []}

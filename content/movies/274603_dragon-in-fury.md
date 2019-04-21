@@ -1,0 +1,1 @@
+{"tmdb_id": 274603, "title": "Dragon in Fury", "original_title": "Dragon in Fury", "slug_title": "dragon-in-fury", "date": "2004-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6g8REGdg26z7ZZ4iB218E8oWoP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 360983, "title": "Big and Little", "original_title": "Gro\u00df und Klein", "slug_title": "big-and-little", "date": "1980-06-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edith Clever (Lotte)", "Gunter Berger (Junger Mann)", "Jutta Lampe (Assistentin)"], "comments": [], "recommandations_id": []}

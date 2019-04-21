@@ -1,0 +1,1 @@
+{"tmdb_id": 165989, "title": "Bully Beef", "original_title": "Bully Beef", "slug_title": "bully-beef", "date": "1930-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

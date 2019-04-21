@@ -1,0 +1,1 @@
+{"tmdb_id": 320740, "title": "Kiri Te Kanawa: Home and Afar", "original_title": "Kiri Te Kanawa: Home and Afar", "slug_title": "kiri-te-kanawa-home-and-afar", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

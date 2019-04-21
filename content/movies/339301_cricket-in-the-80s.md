@@ -1,0 +1,1 @@
+{"tmdb_id": 339301, "title": "Cricket in the '80s", "original_title": "Cricket in the '80s", "slug_title": "cricket-in-the-80s", "date": "2004-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2XScbMceLoexea0VM3VFLNMr9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 107359, "title": "Sea God and Ghosts", "original_title": "Long wang san tai zi", "slug_title": "sea-god-and-ghosts", "date": "1977-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCq8U6zSSkiFu1CohLqsyWDXNZ2.jpg", "actors": ["Chia Ling (Cheng Chin-fung)"], "comments": [], "recommandations_id": []}

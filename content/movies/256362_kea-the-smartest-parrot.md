@@ -1,0 +1,1 @@
+{"tmdb_id": 256362, "title": "Kea - The Smartest Parrot", "original_title": "Kea - The Smartest Parrot", "slug_title": "kea-the-smartest-parrot", "date": "", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

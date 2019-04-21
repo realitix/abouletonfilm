@@ -1,0 +1,1 @@
+{"tmdb_id": 405586, "title": "Nightwing: Prodigal Son", "original_title": "Nightwing: Prodigal Son", "slug_title": "nightwing-prodigal-son", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mY91fmKCDwSm0bDKYRavXAEDgcy.jpg", "actors": ["Brady Roberts (Nightwing)"], "comments": [], "recommandations_id": []}

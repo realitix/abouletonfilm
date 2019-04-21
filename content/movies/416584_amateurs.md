@@ -1,0 +1,1 @@
+{"tmdb_id": 416584, "title": "Amateurs", "original_title": "Amateurs", "slug_title": "amateurs", "date": "2008-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480221, "title": "Titty, Titty, Bang, Bang!", "original_title": "Titty, Titty, Bang, Bang!", "slug_title": "titty-titty-bang-bang", "date": "2013-12-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6IBfOMr4xFqgCI9gsW2zl6qyXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

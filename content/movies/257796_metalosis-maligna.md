@@ -1,0 +1,1 @@
+{"tmdb_id": 257796, "title": "Metalosis Maligna", "original_title": "Metalosis Maligna", "slug_title": "metalosis-maligna", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCU411XWwpIpZvEsiHTbgwTyEeN.jpg", "actors": [], "comments": [], "recommandations_id": []}

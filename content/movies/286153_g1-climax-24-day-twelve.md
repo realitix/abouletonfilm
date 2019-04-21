@@ -1,0 +1,1 @@
+{"tmdb_id": 286153, "title": "G1 Climax 24: Day  Twelve", "original_title": "G1 Climax 24: Day  Twelve", "slug_title": "g1-climax-24-day-twelve", "date": "2014-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

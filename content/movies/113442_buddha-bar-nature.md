@@ -1,0 +1,1 @@
+{"tmdb_id": 113442, "title": "Buddha-Bar Nature", "original_title": "Buddha-Bar Nature", "slug_title": "buddha-bar-nature", "date": "2005-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPXuxbhyC6q7DI2pcWOOYzU76QB.jpg", "actors": [], "comments": [], "recommandations_id": []}

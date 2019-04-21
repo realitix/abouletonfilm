@@ -1,0 +1,1 @@
+{"tmdb_id": 475911, "title": "Skulden", "original_title": "Skulden", "slug_title": "skulden", "date": "1982-01-15", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00f6sta Ekman (Rune Strand)", "Tintin Anderzon ()", "Tomas Bolme ()"], "comments": [], "recommandations_id": []}

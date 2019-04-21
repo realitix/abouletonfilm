@@ -1,0 +1,1 @@
+{"tmdb_id": 591797, "title": "El kiosco", "original_title": "El kiosco", "slug_title": "el-kiosco", "date": "2019-03-28", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pablo Echarri ()", "Georgina Barbarossa ()", "Mario Alarc\u00f3n ()"], "comments": [], "recommandations_id": []}

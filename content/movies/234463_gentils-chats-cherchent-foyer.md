@@ -1,0 +1,1 @@
+{"tmdb_id": 234463, "title": "Gentils chats cherchent foyer", "original_title": "Claws in the Lease", "slug_title": "gentils-chats-cherchent-foyer", "date": "1963-11-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOHMmfyXU3zIDHKBt0C2FY708vx.jpg", "actors": [], "comments": [], "recommandations_id": []}

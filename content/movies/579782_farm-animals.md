@@ -1,0 +1,1 @@
+{"tmdb_id": 579782, "title": "Farm Animals", "original_title": "Farm Animals", "slug_title": "farm-animals", "date": "1937-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

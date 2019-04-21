@@ -1,0 +1,1 @@
+{"tmdb_id": 487990, "title": "Hinter den feindlichen Linien", "original_title": "Hinter den feindlichen Linien", "slug_title": "hinter-den-feindlichen-linien", "date": "2006-08-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

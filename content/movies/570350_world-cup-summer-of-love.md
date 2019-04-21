@@ -1,0 +1,1 @@
+{"tmdb_id": 570350, "title": "World Cup: Summer of Love", "original_title": "World Cup: Summer of Love", "slug_title": "world-cup-summer-of-love", "date": "2018-12-19", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gareth Southgate (Himself)", "Piers Morgan (Himself)"], "comments": [], "recommandations_id": []}

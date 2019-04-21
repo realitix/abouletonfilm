@@ -1,0 +1,1 @@
+{"tmdb_id": 560331, "title": "Longe Daqui", "original_title": "Longe Daqui", "slug_title": "longe-daqui", "date": "1994-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQOAi6qPMSRn4xu0i1NRPqR6vc8.jpg", "actors": ["Canto e Castro (Vitor)", "Filipe Cochofel (Manuel)"], "comments": [], "recommandations_id": []}

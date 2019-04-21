@@ -1,0 +1,1 @@
+{"tmdb_id": 397714, "title": "Pioneers of MMA: Ken Shamrock", "original_title": "Pioneers of MMA: Ken Shamrock", "slug_title": "pioneers-of-mma-ken-shamrock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

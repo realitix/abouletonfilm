@@ -1,0 +1,1 @@
+{"tmdb_id": 574999, "title": "Scheiss-Kerl", "original_title": "Scheiss-Kerl", "slug_title": "scheiss-kerl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

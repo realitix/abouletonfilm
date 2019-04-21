@@ -1,0 +1,1 @@
+{"tmdb_id": 274568, "title": "A Science Odyssey: Short Trips", "original_title": "A Science Odyssey: Short Trips", "slug_title": "a-science-odyssey-short-trips", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

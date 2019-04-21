@@ -1,0 +1,1 @@
+{"tmdb_id": 475500, "title": "Can't We Talk About This?", "original_title": "Can't We Talk About This?", "slug_title": "can-t-we-talk-about-this", "date": "2017-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8ZE2ZTHKsF9n0YJBrxzohDnTkC.jpg", "actors": [], "comments": [], "recommandations_id": []}

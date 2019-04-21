@@ -1,0 +1,1 @@
+{"tmdb_id": 273888, "title": "Rock Paper Dice Enter", "original_title": "Rock Paper Dice Enter", "slug_title": "rock-paper-dice-enter", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQdJo4BUoPvULQlbIiOpKZAHpT9.jpg", "actors": [], "comments": [], "recommandations_id": []}

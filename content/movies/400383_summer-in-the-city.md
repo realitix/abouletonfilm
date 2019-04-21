@@ -1,0 +1,1 @@
+{"tmdb_id": 400383, "title": "Summer in the City", "original_title": "Summer in the City", "slug_title": "summer-in-the-city", "date": "1970-03-23", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

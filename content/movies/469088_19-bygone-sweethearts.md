@@ -1,0 +1,1 @@
+{"tmdb_id": 469088, "title": "19 Bygone Sweethearts", "original_title": "19 Bygone Sweethearts", "slug_title": "19-bygone-sweethearts", "date": "1973-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruX2XsEDl7C7mxdr9UEC8wWJC5q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 169795, "title": "Improvement Club", "original_title": "Improvement Club", "slug_title": "improvement-club", "date": "2013-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mB27JqxnBw6LBGPo2cOm0UFPD8Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 192288, "title": "Tartarin e i cinque franchi", "original_title": "Tartarin e i cinque franchi", "slug_title": "tartarin-e-i-cinque-franchi", "date": "1912-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

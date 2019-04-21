@@ -1,0 +1,1 @@
+{"tmdb_id": 384481, "title": "Adult Rappers", "original_title": "Adult Rappers", "slug_title": "adult-rappers", "date": "2015-03-09", "genre": "Documentaire / Musique", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1MdqXYuYBTuLlfEBlDIioJRGqD.jpg", "actors": [], "comments": [], "recommandations_id": []}

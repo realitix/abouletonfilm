@@ -1,0 +1,1 @@
+{"tmdb_id": 368319, "title": "Killer Twisters", "original_title": "Killer Twisters", "slug_title": "killer-twisters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

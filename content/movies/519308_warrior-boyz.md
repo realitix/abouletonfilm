@@ -1,0 +1,1 @@
+{"tmdb_id": 519308, "title": "Warrior Boyz", "original_title": "Warrior Boyz", "slug_title": "warrior-boyz", "date": "2008-01-01", "genre": "Documentaire / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNW56ntZci6uYUauFQD2hSlNxRY.jpg", "actors": [], "comments": [], "recommandations_id": []}

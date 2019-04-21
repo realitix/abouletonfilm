@@ -1,0 +1,1 @@
+{"tmdb_id": 511966, "title": "Khanjar", "original_title": "Khanjar", "slug_title": "khanjar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ly9qK4lZAsTrqk8jErole8sRdHC.jpg", "actors": [], "comments": [], "recommandations_id": []}

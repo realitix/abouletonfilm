@@ -1,0 +1,1 @@
+{"tmdb_id": 290157, "title": "Jupiter's Wife", "original_title": "Jupiter's Wife", "slug_title": "jupiter-s-wife", "date": "1995-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUi23HjvDFYGfuVlCBGozUY1Ab4.jpg", "actors": ["Maggie Cogan (Herself)"], "comments": [], "recommandations_id": []}

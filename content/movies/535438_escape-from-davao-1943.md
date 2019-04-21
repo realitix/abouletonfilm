@@ -1,0 +1,1 @@
+{"tmdb_id": 535438, "title": "Escape from Davao: 1943", "original_title": "Escape from Davao: 1943", "slug_title": "escape-from-davao-1943", "date": "2013-05-08", "genre": "Documentaire / Guerre / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dale Dye (Narrator)"], "comments": [], "recommandations_id": []}

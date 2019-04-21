@@ -1,0 +1,1 @@
+{"tmdb_id": 424420, "title": "Debe's Tantrum", "original_title": "Debe's Tantrum", "slug_title": "debe-s-tantrum", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6DXPmE1n15ZZw74p2TbB2SvhVP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 444953, "title": "Snowgirl", "original_title": "Snegurochka", "slug_title": "snowgirl", "date": "2017-03-04", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80GI8p9spFDVU5v7MJjqC06tp9M.jpg", "actors": ["Jevgeni Gaitsuk (Sergey)"], "comments": [], "recommandations_id": []}

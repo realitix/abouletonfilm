@@ -1,0 +1,1 @@
+{"tmdb_id": 235775, "title": "Fido Beta Kappa", "original_title": "Fido Beta Kappa", "slug_title": "fido-beta-kappa", "date": "1954-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

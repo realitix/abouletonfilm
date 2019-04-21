@@ -1,0 +1,1 @@
+{"tmdb_id": 458299, "title": "Lover No Return", "original_title": "\u82d4\u75d5", "slug_title": "lover-no-return", "date": "1967-08-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wang Ling (Li Yu-pin)", "Paul Chun Pui (Yip Chi-hsin)", "Chang Hsiao-yen ()"], "comments": [], "recommandations_id": []}

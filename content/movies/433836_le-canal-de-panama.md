@@ -1,0 +1,1 @@
+{"tmdb_id": 433836, "title": "Le canal de Panama", "original_title": "Le canal de Panama", "slug_title": "le-canal-de-panama", "date": "", "genre": "Documentaire / Histoire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "Documentaire sur la construction du canal de Panama.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

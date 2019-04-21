@@ -1,0 +1,1 @@
+{"tmdb_id": 539779, "title": "Vive la compagnie", "original_title": "Vive la compagnie", "slug_title": "vive-la-compagnie", "date": "1934-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

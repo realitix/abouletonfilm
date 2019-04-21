@@ -1,0 +1,1 @@
+{"tmdb_id": 486846, "title": "Zero for Zep", "original_title": "Zero for Zep", "slug_title": "zero-for-zep", "date": "1980-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["So Mhlanga ()", "Khulekani Magubane ()", "Gugu Mhlanga ()", "Tim Mtshali ()"], "comments": [], "recommandations_id": []}

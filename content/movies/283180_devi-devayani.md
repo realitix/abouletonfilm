@@ -1,0 +1,1 @@
+{"tmdb_id": 283180, "title": "Devi Devayani", "original_title": "Devi Devayani", "slug_title": "devi-devayani", "date": "1931-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gohar ()", "Kamala ()", "Dinshaw Bilimoria ()"], "comments": [], "recommandations_id": []}

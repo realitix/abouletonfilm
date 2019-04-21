@@ -1,0 +1,1 @@
+{"tmdb_id": 546483, "title": "Spencer James: Bullies are Necessary", "original_title": "Spencer James: Bullies are Necessary", "slug_title": "spencer-james-bullies-are-necessary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

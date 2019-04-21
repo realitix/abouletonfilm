@@ -1,0 +1,1 @@
+{"tmdb_id": 434527, "title": "Conflict", "original_title": "Conflict", "slug_title": "conflict", "date": "2016-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sho Aikawa ()", "Hidekazu Akai ()", "Sh\u00f4z\u00f4 End\u00f4 ()", "Hakuryu ()", "IZAM ()", "K\u00f4ji Matoba ()"], "comments": [], "recommandations_id": []}

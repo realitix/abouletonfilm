@@ -1,0 +1,1 @@
+{"tmdb_id": 550003, "title": "The Hoffnung Music Academy", "original_title": "The Hoffnung Music Academy", "slug_title": "the-hoffnung-music-academy", "date": "1964-01-01", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

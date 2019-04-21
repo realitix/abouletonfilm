@@ -1,0 +1,1 @@
+{"tmdb_id": 112396, "title": "When It Was a Game 3", "original_title": "When It Was a Game 3", "slug_title": "when-it-was-a-game-3", "date": "2000-07-17", "genre": "Documentaire / Histoire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5HLHwxEyAqwVj75BQZTKcCdlehV.jpg", "actors": [], "comments": [], "recommandations_id": []}

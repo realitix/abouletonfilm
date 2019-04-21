@@ -1,0 +1,1 @@
+{"tmdb_id": 87481, "title": "Quitting", "original_title": "\u6628\u5929", "slug_title": "quitting", "date": "2001-09-07", "genre": "Drame", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDNby5wS8jI4mexcHNrFcpw9MFJ.jpg", "actors": ["Jia Hongsheng ()", "Jia Fengsen ()", "Tong Wang ()"], "comments": [], "recommandations_id": []}

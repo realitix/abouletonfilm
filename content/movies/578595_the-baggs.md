@@ -1,0 +1,1 @@
+{"tmdb_id": 578595, "title": "The Baggs", "original_title": "The Baggs", "slug_title": "the-baggs", "date": "1973-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clark Carr ()", "Tom Solari ()", "Boise Weeks ()", "Geoffrey Lewis (Cop)"], "comments": [], "recommandations_id": []}

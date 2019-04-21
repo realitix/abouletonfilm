@@ -1,0 +1,1 @@
+{"tmdb_id": 511981, "title": "Devotions Upon Emergent Occasions", "original_title": "Devotions Upon Emergent Occasions", "slug_title": "devotions-upon-emergent-occasions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

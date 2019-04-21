@@ -1,0 +1,1 @@
+{"tmdb_id": 318269, "title": "Tetsu no shojo Jun", "original_title": "Tetsu no shojo Jun", "slug_title": "tetsu-no-shojo-jun", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

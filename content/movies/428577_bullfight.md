@@ -1,0 +1,1 @@
+{"tmdb_id": 428577, "title": "Bullfight", "original_title": "La Course de taureaux", "slug_title": "bullfight", "date": "1951-07-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Desailly (Narrator (voice))"], "comments": [], "recommandations_id": []}

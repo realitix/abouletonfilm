@@ -1,0 +1,1 @@
+{"tmdb_id": 50313, "title": "Music for the Movies: The Hollywood Sound", "original_title": "Music for the Movies: The Hollywood Sound", "slug_title": "music-for-the-movies-the-hollywood-sound", "date": "1995-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

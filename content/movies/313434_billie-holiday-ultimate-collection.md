@@ -1,0 +1,1 @@
+{"tmdb_id": 313434, "title": "Billie Holiday: Ultimate Collection", "original_title": "Billie Holiday: Ultimate Collection", "slug_title": "billie-holiday-ultimate-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

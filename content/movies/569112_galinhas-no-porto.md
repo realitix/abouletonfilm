@@ -1,0 +1,1 @@
+{"tmdb_id": 569112, "title": "Galinhas no Porto", "original_title": "Galinhas no Porto", "slug_title": "galinhas-no-porto", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

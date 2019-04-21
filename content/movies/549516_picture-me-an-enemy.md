@@ -1,0 +1,1 @@
+{"tmdb_id": 549516, "title": "Picture Me An Enemy", "original_title": "Picture Me An Enemy", "slug_title": "picture-me-an-enemy", "date": "2003-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2Kk0YOP7jap3yAYkDCNFfxC3Tp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 419141, "title": "N.W.A.: The World's Most Dangerous Group", "original_title": "N.W.A.: The World's Most Dangerous Group", "slug_title": "n-w-a-the-world-s-most-dangerous-group", "date": "2008-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

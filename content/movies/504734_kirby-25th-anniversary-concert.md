@@ -1,0 +1,1 @@
+{"tmdb_id": 504734, "title": "Kirby 25th Anniversary Concert", "original_title": "Kirby 25th Anniversary Concert", "slug_title": "kirby-25th-anniversary-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

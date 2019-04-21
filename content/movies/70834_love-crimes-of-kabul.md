@@ -1,0 +1,1 @@
+{"tmdb_id": 70834, "title": "Love Crimes Of Kabul", "original_title": "Love Crimes Of Kabul", "slug_title": "love-crimes-of-kabul", "date": "2011-07-11", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0MsQLQJheqvti80HLzAQvMos1Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

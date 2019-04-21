@@ -1,0 +1,1 @@
+{"tmdb_id": 336086, "title": "It Will Die Out in the Mind", "original_title": "It Will Die Out in the Mind", "slug_title": "it-will-die-out-in-the-mind", "date": "2007-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlksgk0sHLRADVONPAS0DfbOL1v.jpg", "actors": [], "comments": [], "recommandations_id": []}

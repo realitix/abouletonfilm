@@ -1,0 +1,1 @@
+{"tmdb_id": 385617, "title": "Chaz :in Parts", "original_title": "Chaz :in Parts", "slug_title": "chaz-in-parts", "date": "2016-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tykgmtSIUbPyumj9g7Cd8CgDG4A.jpg", "actors": [], "comments": [], "recommandations_id": []}

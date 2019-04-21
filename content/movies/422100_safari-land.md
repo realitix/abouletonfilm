@@ -1,0 +1,1 @@
+{"tmdb_id": 422100, "title": "Safari Land", "original_title": "Safari Land", "slug_title": "safari-land", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zO7x7zCkJ1yO5xX1mUdL0HSql8l.jpg", "actors": [], "comments": [], "recommandations_id": []}

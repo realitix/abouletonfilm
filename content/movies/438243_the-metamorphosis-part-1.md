@@ -1,0 +1,1 @@
+{"tmdb_id": 438243, "title": "The Metamorphosis, Part 1", "original_title": "The Metamorphosis, Part 1", "slug_title": "the-metamorphosis-part-1", "date": "1998-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

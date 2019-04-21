@@ -1,0 +1,1 @@
+{"tmdb_id": 368048, "title": "Snowfields I", "original_title": "Snowfields I", "slug_title": "snowfields-i", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

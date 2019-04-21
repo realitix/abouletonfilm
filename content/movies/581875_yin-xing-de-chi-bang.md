@@ -1,0 +1,1 @@
+{"tmdb_id": 581875, "title": "\u9690\u5f62\u7684\u7fc5\u8180", "original_title": "\u9690\u5f62\u7684\u7fc5\u8180", "slug_title": "yin-xing-de-chi-bang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

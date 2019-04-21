@@ -1,0 +1,1 @@
+{"tmdb_id": 183429, "title": "Hardgore", "original_title": "Hardgore", "slug_title": "hardgore", "date": "1976-01-18", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4RxEMWCdk8eVO9c8P7A9JencVuE.jpg", "actors": ["Dianne Galke (Maria (uncredited))"], "comments": [], "recommandations_id": []}

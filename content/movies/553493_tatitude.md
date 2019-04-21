@@ -1,0 +1,1 @@
+{"tmdb_id": 553493, "title": "Tatitude", "original_title": "Tatitude", "slug_title": "tatitude", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

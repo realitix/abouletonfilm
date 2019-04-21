@@ -1,0 +1,1 @@
+{"tmdb_id": 174959, "title": "Hard-Fi: In Operation", "original_title": "Hard-Fi: In Operation", "slug_title": "hard-fi-in-operation", "date": "2006-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

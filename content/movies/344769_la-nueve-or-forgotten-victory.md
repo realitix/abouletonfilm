@@ -1,0 +1,1 @@
+{"tmdb_id": 344769, "title": "La Nueve or forgotten victory", "original_title": "La Nueve ou les oubli\u00e9s de la victoire", "slug_title": "la-nueve-or-forgotten-victory", "date": "2010-08-25", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

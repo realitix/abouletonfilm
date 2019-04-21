@@ -1,0 +1,1 @@
+{"tmdb_id": 554606, "title": "Meet King Joe", "original_title": "Meet King Joe", "slug_title": "meet-king-joe", "date": "1949-01-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

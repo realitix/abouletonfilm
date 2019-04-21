@@ -1,0 +1,1 @@
+{"tmdb_id": 367737, "title": "Untitled Marvel Project (2)", "original_title": "Untitled Marvel Project (2)", "slug_title": "untitled-marvel-project-2", "date": "2020-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

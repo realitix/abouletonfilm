@@ -1,0 +1,1 @@
+{"tmdb_id": 150725, "title": "Max and Ruby - Ruby Writes A Story", "original_title": "Max and Ruby - Ruby Writes A Story", "slug_title": "max-and-ruby-ruby-writes-a-story", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onDC2PrbH4Xoc6kLTIfkMxRuTpu.jpg", "actors": [], "comments": [], "recommandations_id": []}

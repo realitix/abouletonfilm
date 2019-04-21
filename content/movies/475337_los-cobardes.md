@@ -1,0 +1,1 @@
+{"tmdb_id": 475337, "title": "Los cobardes", "original_title": "Los cobardes", "slug_title": "los-cobardes", "date": "", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vicente Parra ()", "Nadine Tallier ()", "Yves Massard ()", "Salvador Mu\u00f1oz ()"], "comments": [], "recommandations_id": []}

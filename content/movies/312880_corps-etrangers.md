@@ -1,0 +1,1 @@
+{"tmdb_id": 312880, "title": "Corps \u00e9trangers", "original_title": "Corps \u00e9trangers", "slug_title": "corps-etrangers", "date": "2007-01-01", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

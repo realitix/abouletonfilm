@@ -1,0 +1,1 @@
+{"tmdb_id": 322024, "title": "Pride FC: Pride 34: Kamikaze", "original_title": "Pride FC: Pride 34: Kamikaze", "slug_title": "pride-fc-pride-34-kamikaze", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

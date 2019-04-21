@@ -1,0 +1,1 @@
+{"tmdb_id": 502163, "title": "Nossa Chape", "original_title": "Nossa Chape", "slug_title": "nossa-chape", "date": "2018-03-28", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4SYF0k5dMPOlzsSmJA6XmRvgeI.jpg", "actors": [], "comments": [], "recommandations_id": []}

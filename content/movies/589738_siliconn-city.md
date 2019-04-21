@@ -1,0 +1,1 @@
+{"tmdb_id": 589738, "title": "Siliconn City", "original_title": "Siliconn City", "slug_title": "siliconn-city", "date": "2017-06-16", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Srinagar Kitty ()", "Suraj Gowda ()", "Kavya Shetty ()", "Ekta Rathod ()", "Chikkanna ()"], "comments": [], "recommandations_id": []}

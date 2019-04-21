@@ -1,0 +1,1 @@
+{"tmdb_id": 267521, "title": "Berkshire Goes Balearic", "original_title": "Berkshire Goes Balearic", "slug_title": "berkshire-goes-balearic", "date": "2014-04-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

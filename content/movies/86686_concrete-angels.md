@@ -1,0 +1,1 @@
+{"tmdb_id": 86686, "title": "Concrete Angels", "original_title": "Concrete Angels", "slug_title": "concrete-angels", "date": "1987-09-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjiKtX2c6U15B2voImzfmfP5O1x.jpg", "actors": [], "comments": [], "recommandations_id": []}

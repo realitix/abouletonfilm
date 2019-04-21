@@ -1,0 +1,1 @@
+{"tmdb_id": 418161, "title": "Ashes and Embers", "original_title": "Cinzas e Brasas", "slug_title": "ashes-and-embers", "date": "2015-04-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

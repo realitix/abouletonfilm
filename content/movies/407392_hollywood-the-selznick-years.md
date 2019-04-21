@@ -1,0 +1,1 @@
+{"tmdb_id": 407392, "title": "Hollywood: The Selznick Years", "original_title": "Hollywood: The Selznick Years", "slug_title": "hollywood-the-selznick-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

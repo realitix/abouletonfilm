@@ -1,0 +1,1 @@
+{"tmdb_id": 335129, "title": "Jihad: Afghanistan's Holy War", "original_title": "Jihad: Afghanistan's Holy War", "slug_title": "jihad-afghanistan-s-holy-war", "date": "2014-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

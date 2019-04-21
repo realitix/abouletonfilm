@@ -1,0 +1,1 @@
+{"tmdb_id": 479536, "title": "I'm a monster", "original_title": "I'm a monster", "slug_title": "i-m-a-monster", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YYHgUDcuUl1X3FwbxOrQ8PyzWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

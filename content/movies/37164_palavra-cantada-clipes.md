@@ -1,0 +1,1 @@
+{"tmdb_id": 37164, "title": "Palavra Cantada - Clipes", "original_title": "Palavra Cantada - Clipes", "slug_title": "palavra-cantada-clipes", "date": "2000-10-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hw8tI7nErrQlBXgkyrHpXT7r10w.jpg", "actors": [], "comments": [], "recommandations_id": []}

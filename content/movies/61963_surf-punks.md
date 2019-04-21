@@ -1,0 +1,1 @@
+{"tmdb_id": 61963, "title": "Surf Punks", "original_title": "Surf Punks", "slug_title": "surf-punks", "date": "1981-04-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1X8Mw50x0PUAtpTVtZ5Etc7K84F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468685, "title": "Dream Catchers", "original_title": "Dream Catchers", "slug_title": "dream-catchers", "date": "2014-01-01", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/waSuD42PtWMJ0O5wqlKcv7zUbBo.jpg", "actors": [], "comments": [], "recommandations_id": []}

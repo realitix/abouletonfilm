@@ -1,0 +1,1 @@
+{"tmdb_id": 397736, "title": "Kandahar Journals", "original_title": "Kandahar Journals", "slug_title": "kandahar-journals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWwDpKmWWbfCdjwYlTh17PUQd9I.jpg", "actors": [], "comments": [], "recommandations_id": []}

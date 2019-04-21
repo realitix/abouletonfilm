@@ -1,0 +1,1 @@
+{"tmdb_id": 593638, "title": "Soldados da Borracha", "original_title": "Soldados da Borracha", "slug_title": "soldados-da-borracha", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

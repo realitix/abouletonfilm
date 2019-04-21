@@ -1,0 +1,1 @@
+{"tmdb_id": 300220, "title": "Mini and the Mozzies", "original_title": "Cykelmyggen og Minibillen", "slug_title": "mini-and-the-mozzies", "date": "2014-06-12", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dd1OLTNEKXblmnHviVokdZqhwec.jpg", "actors": [], "comments": [], "recommandations_id": []}

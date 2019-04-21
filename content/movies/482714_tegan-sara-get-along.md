@@ -1,0 +1,1 @@
+{"tmdb_id": 482714, "title": "Tegan & Sara: Get Along", "original_title": "Tegan & Sara: Get Along", "slug_title": "tegan-sara-get-along", "date": "2011-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myV4dX8hayueh2oh2zvGeEJ85lv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 248347, "title": "Thirupachi Aruva", "original_title": "Thirupachi Aruva", "slug_title": "thirupachi-aruva", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sumanth ()", "Sri Hari ()", "Anushka Shetty ()", "Kota Srinivasa Rao ()"], "comments": [], "recommandations_id": []}

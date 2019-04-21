@@ -1,0 +1,1 @@
+{"tmdb_id": 564913, "title": "Hissatsu Shigotonin 2009", "original_title": "Hissatsu Shigotonin 2009", "slug_title": "hissatsu-shigotonin-2009", "date": "2009-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Koki Tanaka (Ren)", "Makoto Fujita (Nakamura Mondo)", "Emi Wakui (Okiku)"], "comments": [], "recommandations_id": []}

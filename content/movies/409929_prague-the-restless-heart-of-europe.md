@@ -1,0 +1,1 @@
+{"tmdb_id": 409929, "title": "Prague: The Restless Heart of Europe", "original_title": "Praha - neklidn\u00e9 srdce Evropy", "slug_title": "prague-the-restless-heart-of-europe", "date": "1984-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

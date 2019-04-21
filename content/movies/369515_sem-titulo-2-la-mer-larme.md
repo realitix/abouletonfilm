@@ -1,0 +1,1 @@
+{"tmdb_id": 369515, "title": "Sem Titulo #2: La Mer Larme", "original_title": "Sem Titulo #2: La Mer Larme", "slug_title": "sem-titulo-2-la-mer-larme", "date": "2015-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

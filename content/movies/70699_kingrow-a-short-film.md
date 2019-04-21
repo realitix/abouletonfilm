@@ -1,0 +1,1 @@
+{"tmdb_id": 70699, "title": "Kingrow - A Short Film", "original_title": "Kingrow - A Short Film", "slug_title": "kingrow-a-short-film", "date": "2011-04-28", "genre": "Documentaire / Musique", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jared Rowbotham (Duckman)", "Forbes King (Weasel)"], "comments": [], "recommandations_id": []}

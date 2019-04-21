@@ -1,0 +1,1 @@
+{"tmdb_id": 411760, "title": "Fireman Sam - Sticky situation", "original_title": "Fireman Sam - Sticky situation", "slug_title": "fireman-sam-sticky-situation", "date": "2010-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQt33Tyc76QnMSnQ3Sd7ydHwg04.jpg", "actors": [], "comments": [], "recommandations_id": []}

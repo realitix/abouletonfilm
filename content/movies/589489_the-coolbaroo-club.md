@@ -1,0 +1,1 @@
+{"tmdb_id": 589489, "title": "The Coolbaroo Club", "original_title": "The Coolbaroo Club", "slug_title": "the-coolbaroo-club", "date": "1996-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbzb0x40XZsr36eyui2zAckItbs.jpg", "actors": [], "comments": [], "recommandations_id": []}

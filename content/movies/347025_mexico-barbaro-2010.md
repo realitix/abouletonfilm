@@ -1,0 +1,1 @@
+{"tmdb_id": 347025, "title": "M\u00e9xico b\u00e1rbaro 2010", "original_title": "M\u00e9xico b\u00e1rbaro 2010", "slug_title": "mexico-barbaro-2010", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hVcJQnifgwoWATBkIoDol2bPQ8c.jpg", "actors": [], "comments": [], "recommandations_id": []}

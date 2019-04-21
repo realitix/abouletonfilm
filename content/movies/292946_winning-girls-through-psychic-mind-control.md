@@ -1,0 +1,1 @@
+{"tmdb_id": 292946, "title": "Winning Girls Through Psychic Mind Control", "original_title": "Winning Girls Through Psychic Mind Control", "slug_title": "winning-girls-through-psychic-mind-control", "date": "2002-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

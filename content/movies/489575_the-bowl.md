@@ -1,0 +1,1 @@
+{"tmdb_id": 489575, "title": "The Bowl", "original_title": "The Bowl", "slug_title": "the-bowl", "date": "2017-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nLEVVM1HxEspHoQseZGEJM7oMn.jpg", "actors": ["Maxwell Moser ()"], "comments": [], "recommandations_id": []}

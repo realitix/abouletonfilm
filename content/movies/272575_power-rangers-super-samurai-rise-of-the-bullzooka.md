@@ -1,0 +1,1 @@
+{"tmdb_id": 272575, "title": "Power Rangers Super Samurai: Rise Of The Bullzooka", "original_title": "Power Rangers Super Samurai: Rise Of The Bullzooka", "slug_title": "power-rangers-super-samurai-rise-of-the-bullzooka", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

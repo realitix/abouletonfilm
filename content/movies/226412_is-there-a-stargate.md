@@ -1,0 +1,1 @@
+{"tmdb_id": 226412, "title": "Is There a Stargate?", "original_title": "Is There a Stargate?", "slug_title": "is-there-a-stargate", "date": "2003-02-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kRUNCyYUzjkp12BwElV8t7BzHYl.jpg", "actors": [], "comments": [], "recommandations_id": []}

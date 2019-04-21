@@ -1,0 +1,1 @@
+{"tmdb_id": 581334, "title": "Marco Minnemann: Extreme Drumming", "original_title": "Marco Minnemann: Extreme Drumming", "slug_title": "marco-minnemann-extreme-drumming", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxTxKzRIPsFUMip6uv09AAb4yjP.jpg", "actors": [], "comments": [], "recommandations_id": []}

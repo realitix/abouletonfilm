@@ -1,0 +1,1 @@
+{"tmdb_id": 101823, "title": "Bakushi", "original_title": "Bakushi", "slug_title": "bakushi", "date": "2008-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4GaQYu7D20yHNxeho7cjGQho0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

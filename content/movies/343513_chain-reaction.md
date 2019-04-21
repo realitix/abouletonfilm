@@ -1,0 +1,1 @@
+{"tmdb_id": 343513, "title": "Chain Reaction", "original_title": "Chain Reaction", "slug_title": "chain-reaction", "date": "1999-01-01", "genre": "Documentaire / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tF1tuQ1QN1jZ4OdfxRfz5S9nZEW.jpg", "actors": [], "comments": [], "recommandations_id": []}

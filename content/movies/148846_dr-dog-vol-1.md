@@ -1,0 +1,1 @@
+{"tmdb_id": 148846, "title": "Dr Dog Vol 1", "original_title": "Dr Dog Vol 1", "slug_title": "dr-dog-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3B2WGTK8xveHXHzi5pR9huOS52U.jpg", "actors": [], "comments": [], "recommandations_id": []}

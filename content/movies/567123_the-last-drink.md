@@ -1,0 +1,1 @@
+{"tmdb_id": 567123, "title": "The Last Drink", "original_title": "Le Dernier Verre", "slug_title": "the-last-drink", "date": "1964-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

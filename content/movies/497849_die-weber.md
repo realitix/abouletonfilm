@@ -1,0 +1,1 @@
+{"tmdb_id": 497849, "title": "Die Weber", "original_title": "Die Weber", "slug_title": "die-weber", "date": "2012-11-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Moltzen (B\u00e4cker)", "Claudia Eisinger (Gottlieb Hilses Tochter)"], "comments": [], "recommandations_id": []}

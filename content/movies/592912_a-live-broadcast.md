@@ -1,0 +1,1 @@
+{"tmdb_id": 592912, "title": "A Live Broadcast", "original_title": "A Live Broadcast", "slug_title": "a-live-broadcast", "date": "2018-06-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khoYGEqIJGMihri6wvBnylQtNsM.jpg", "actors": [], "comments": [], "recommandations_id": []}

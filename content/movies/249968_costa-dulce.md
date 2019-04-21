@@ -1,0 +1,1 @@
+{"tmdb_id": 249968, "title": "Costa Dulce", "original_title": "Costa Dulce", "slug_title": "costa-dulce", "date": "2014-01-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yW5QhABYohy7WBq6amKVrwJay6V.jpg", "actors": [], "comments": [], "recommandations_id": []}

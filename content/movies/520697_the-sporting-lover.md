@@ -1,0 +1,1 @@
+{"tmdb_id": 520697, "title": "The Sporting Lover", "original_title": "The Sporting Lover", "slug_title": "the-sporting-lover", "date": "1926-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

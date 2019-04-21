@@ -1,0 +1,1 @@
+{"tmdb_id": 582451, "title": "K\u00f6nig J\u00f6rg", "original_title": "K\u00f6nig J\u00f6rg", "slug_title": "konig-jorg", "date": "1975-06-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petra Kelling ()", "Helga Kor\u00e9n ()", "R\u00fcdiger Sander ()"], "comments": [], "recommandations_id": []}

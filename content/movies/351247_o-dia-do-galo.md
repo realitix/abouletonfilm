@@ -1,0 +1,1 @@
+{"tmdb_id": 351247, "title": "O Dia do Galo", "original_title": "O Dia do Galo", "slug_title": "o-dia-do-galo", "date": "2015-07-23", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e0uWlup2pO2QDpqj7V21wRHb9Qo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329308, "title": "Cocaine", "original_title": "El hawia", "slug_title": "cocaine", "date": "1931-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahmed Al-Machriqi ()", "Fatma Hassan ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379140, "title": "Pinto Pink", "original_title": "Pinto Pink", "slug_title": "pinto-pink", "date": "1967-07-19", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcDyHKJ2cUsWeX1DQe7c8lBtA9C.jpg", "actors": [], "comments": [], "recommandations_id": []}

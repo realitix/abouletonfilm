@@ -1,0 +1,1 @@
+{"tmdb_id": 244451, "title": "Sewing Woman", "original_title": "Sewing Woman", "slug_title": "sewing-woman", "date": "1982-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jGzNTtMuFeqLYejfHJEmCS07dfH.jpg", "actors": ["Lisa Lu (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 76626, "title": "Cultures of Resistance", "original_title": "Cultures of Resistance", "slug_title": "cultures-of-resistance", "date": "2010-05-18", "genre": "Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xQz70cJZvzRCpCBpHjpglwSgU3.jpg", "actors": [], "comments": [], "recommandations_id": []}

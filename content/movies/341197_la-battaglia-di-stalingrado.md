@@ -1,0 +1,1 @@
+{"tmdb_id": 341197, "title": "La battaglia di Stalingrado", "original_title": "La battaglia di Stalingrado", "slug_title": "la-battaglia-di-stalingrado", "date": "2015-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8BUPCbnogp10q3P8uANoFEbC3vF.jpg", "actors": [], "comments": [], "recommandations_id": []}

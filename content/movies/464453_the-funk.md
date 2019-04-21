@@ -1,0 +1,1 @@
+{"tmdb_id": 464453, "title": "The Funk", "original_title": "The Funk", "slug_title": "the-funk", "date": "2008-07-04", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacek Koman (Narrator)", "Steve Adams (Jack)", "Trudy Hellier (Jack's Ex)"], "comments": [], "recommandations_id": []}

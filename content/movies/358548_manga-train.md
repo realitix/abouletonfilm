@@ -1,0 +1,1 @@
+{"tmdb_id": 358548, "title": "Manga Train", "original_title": "Manga Train", "slug_title": "manga-train", "date": "1998-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 485539, "title": "Farmer for a Day", "original_title": "Farmer for a Day", "slug_title": "farmer-for-a-day", "date": "1943-08-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

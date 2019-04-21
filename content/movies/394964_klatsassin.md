@@ -1,0 +1,1 @@
+{"tmdb_id": 394964, "title": "Klatsassin", "original_title": "Klatsassin", "slug_title": "klatsassin", "date": "2006-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Eklund (The Thief)", "Steffen Mennekes (The Miner)", "Yee Jee Tso (Cook)", "Alex Zahara (Sargent)"], "comments": [], "recommandations_id": []}

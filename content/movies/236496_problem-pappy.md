@@ -1,0 +1,1 @@
+{"tmdb_id": 236496, "title": "Problem Pappy", "original_title": "Problem Pappy", "slug_title": "problem-pappy", "date": "1941-01-09", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bidBs8WS44Yf2ItTF9ndkreBrGr.jpg", "actors": ["Jack Mercer (Popeye/Pappy)"], "comments": [], "recommandations_id": []}

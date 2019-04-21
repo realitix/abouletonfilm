@@ -1,0 +1,1 @@
+{"tmdb_id": 206745, "title": "Been Rich All My Life", "original_title": "Been Rich All My Life", "slug_title": "been-rich-all-my-life", "date": "2006-01-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wDJcT87OhHOOQqLY4UwksqP5R3S.jpg", "actors": [], "comments": [], "recommandations_id": []}

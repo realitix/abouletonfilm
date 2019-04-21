@@ -1,0 +1,1 @@
+{"tmdb_id": 572597, "title": "Cher Live In Concert", "original_title": "Cher Live In Concert", "slug_title": "cher-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cher ()"], "comments": [], "recommandations_id": []}

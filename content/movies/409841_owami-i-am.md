@@ -1,0 +1,1 @@
+{"tmdb_id": 409841, "title": "Owami - I Am...", "original_title": "Owami - I Am...", "slug_title": "owami-i-am", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3Q6OsBQmhm1XfZBLsxudA6bixe.jpg", "actors": [], "comments": [], "recommandations_id": []}

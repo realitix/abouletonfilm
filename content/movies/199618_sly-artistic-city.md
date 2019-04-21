@@ -1,0 +1,1 @@
+{"tmdb_id": 199618, "title": "Sly Artistic City", "original_title": "Sly Artistic City", "slug_title": "sly-artistic-city", "date": "2010-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7GkSkK7BJNhuTfCeX3ANbsk8p3.jpg", "actors": [], "comments": [], "recommandations_id": []}

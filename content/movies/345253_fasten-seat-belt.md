@@ -1,0 +1,1 @@
+{"tmdb_id": 345253, "title": "Fasten Seat Belt", "original_title": "Fasten Seat Belt", "slug_title": "fasten-seat-belt", "date": "2002-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

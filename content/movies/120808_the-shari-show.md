@@ -1,0 +1,1 @@
+{"tmdb_id": 120808, "title": "The Shari Show", "original_title": "The Shari Show", "slug_title": "the-shari-show", "date": "1975-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHuPGY97sAf4BmOQhGX47AtGMga.jpg", "actors": ["Shari Lewis (Herself)", "Lamb Chop ()"], "comments": [], "recommandations_id": []}

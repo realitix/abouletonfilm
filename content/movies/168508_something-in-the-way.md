@@ -1,0 +1,1 @@
+{"tmdb_id": 168508, "title": "Something in the Way", "original_title": "Something in the Way", "slug_title": "something-in-the-way", "date": "2013-02-08", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reza Rahadian (Ahmad)", "Ratu Felisha (Kinar / Santi)", "Verdi Solaiman (Pinem)"], "comments": [], "recommandations_id": []}

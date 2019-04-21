@@ -1,0 +1,1 @@
+{"tmdb_id": 253589, "title": "Ruff Riders 8", "original_title": "Ruff Riders 8", "slug_title": "ruff-riders-8", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNGzClIljtgye6HEHdi38MSOA9x.jpg", "actors": ["Daniel Bodin ()"], "comments": [], "recommandations_id": []}

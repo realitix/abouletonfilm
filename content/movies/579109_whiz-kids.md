@@ -1,0 +1,1 @@
+{"tmdb_id": 579109, "title": "Whiz Kids", "original_title": "Whiz Kids", "slug_title": "whiz-kids", "date": "2010-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g09uEZk85umuDzsDp6W9uVcYqCe.jpg", "actors": [], "comments": [], "recommandations_id": []}

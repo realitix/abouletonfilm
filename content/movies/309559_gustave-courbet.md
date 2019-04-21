@@ -1,0 +1,1 @@
+{"tmdb_id": 309559, "title": "Gustave Courbet", "original_title": "Gustave Courbet", "slug_title": "gustave-courbet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

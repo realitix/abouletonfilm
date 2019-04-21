@@ -1,0 +1,1 @@
+{"tmdb_id": 590597, "title": "Vitalino e o Alto do Moura", "original_title": "Vitalino e o Alto do Moura", "slug_title": "vitalino-e-o-alto-do-moura", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manuel Vitalino dos Santos ()"], "comments": [], "recommandations_id": []}

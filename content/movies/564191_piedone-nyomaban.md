@@ -1,0 +1,1 @@
+{"tmdb_id": 564191, "title": "Piedone nyom\u00e1ban", "original_title": "Piedone nyom\u00e1ban", "slug_title": "piedone-nyomaban", "date": "2018-11-18", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bud Spencer (Bud Spencer)", "Terence Hill (Terence Hill)"], "comments": [], "recommandations_id": []}

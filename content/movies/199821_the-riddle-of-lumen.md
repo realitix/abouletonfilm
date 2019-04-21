@@ -1,0 +1,1 @@
+{"tmdb_id": 199821, "title": "The Riddle of Lumen", "original_title": "The Riddle of Lumen", "slug_title": "the-riddle-of-lumen", "date": "1972-11-10", "genre": "", "score": "6.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [146986, 164601, 93507, 142192]}

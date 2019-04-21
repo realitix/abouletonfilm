@@ -1,0 +1,1 @@
+{"tmdb_id": 364435, "title": "Film trichrome", "original_title": "Film trichrome", "slug_title": "film-trichrome", "date": "1903-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

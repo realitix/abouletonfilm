@@ -1,0 +1,1 @@
+{"tmdb_id": 273539, "title": "Six Days In August", "original_title": "Six Days In August", "slug_title": "six-days-in-august", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574653, "title": "Stan's Salon", "original_title": "Stan's Salon", "slug_title": "stan-s-salon", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yIH6pmB4dOSeTbjkhKVeubEm3J.jpg", "actors": [], "comments": [], "recommandations_id": []}

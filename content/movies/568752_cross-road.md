@@ -1,0 +1,1 @@
+{"tmdb_id": 568752, "title": "Cross Road", "original_title": "Cross Road", "slug_title": "cross-road", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "Apr\u00e8s \u00eatre tomb\u00e9 \u00e0 genoux ; un hommage \u00e0 Herm\u00e8s.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

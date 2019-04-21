@@ -1,0 +1,1 @@
+{"tmdb_id": 76032, "title": "Cottonland", "original_title": "Cottonland", "slug_title": "cottonland", "date": "2006-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Buchanan ()"], "comments": [], "recommandations_id": []}

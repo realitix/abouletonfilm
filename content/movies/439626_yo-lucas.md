@@ -1,0 +1,1 @@
+{"tmdb_id": 439626, "title": "Yo, Lucas", "original_title": "Yo, Lucas", "slug_title": "yo-lucas", "date": "2016-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nqRaWvTNbOcfm7dob5bhY1woSB.jpg", "actors": [], "comments": [], "recommandations_id": []}

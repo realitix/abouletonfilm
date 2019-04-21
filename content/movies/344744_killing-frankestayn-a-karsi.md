@@ -1,0 +1,1 @@
+{"tmdb_id": 344744, "title": "Killing Frankestayn'a karsi", "original_title": "Killing Frankestayn'a karsi", "slug_title": "killing-frankestayn-a-karsi", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNkCZ4MnVE4R73Mk4vKoNc0AMQD.jpg", "actors": [], "comments": [], "recommandations_id": []}

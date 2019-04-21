@@ -1,0 +1,1 @@
+{"tmdb_id": 430180, "title": "Solomon Sir Jones Films", "original_title": "Solomon Sir Jones Films", "slug_title": "solomon-sir-jones-films", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

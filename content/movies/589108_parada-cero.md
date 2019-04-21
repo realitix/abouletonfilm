@@ -1,0 +1,1 @@
+{"tmdb_id": 589108, "title": "Parada Cero", "original_title": "Parada Cero", "slug_title": "parada-cero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

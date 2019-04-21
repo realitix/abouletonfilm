@@ -1,0 +1,1 @@
+{"tmdb_id": 85558, "title": "Hip Hop Locos", "original_title": "Hip Hop Locos", "slug_title": "hip-hop-locos", "date": "2001-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/opuhpPaZjhaeoDVJcjIboIrM6Lo.jpg", "actors": ["Unodoz (Unodoz)", "J10 (J10)"], "comments": [], "recommandations_id": []}

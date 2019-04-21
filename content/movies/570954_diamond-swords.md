@@ -1,0 +1,1 @@
+{"tmdb_id": 570954, "title": "Diamond Swords", "original_title": "Les \u00e9p\u00e9es de diamant", "slug_title": "diamond-swords", "date": "1993-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTapdSypjjYPYzXrZtiANwRr6eh.jpg", "actors": [], "comments": [], "recommandations_id": []}

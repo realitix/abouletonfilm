@@ -1,0 +1,1 @@
+{"tmdb_id": 366597, "title": "Body Count Live in LA", "original_title": "Body Count Live in LA", "slug_title": "body-count-live-in-la", "date": "2005-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usnFjklqyeA78zM585lHpVGJ7JX.jpg", "actors": ["Ice-T ()"], "comments": [], "recommandations_id": []}

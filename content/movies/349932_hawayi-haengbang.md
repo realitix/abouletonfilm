@@ -1,0 +1,1 @@
+{"tmdb_id": 349932, "title": "\ud558\uc640\uc758 \ud589\ubc29", "original_title": "\ud558\uc640\uc758 \ud589\ubc29", "slug_title": "hawayi-haengbang", "date": "1983-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

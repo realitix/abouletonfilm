@@ -1,0 +1,1 @@
+{"tmdb_id": 216507, "title": "Road-Kill U.S.A.", "original_title": "Road-Kill U.S.A.", "slug_title": "road-kill-u-s-a", "date": "1993-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWT2WhbbK0gT3OOlz6cXy8b7Hlg.jpg", "actors": [], "comments": [], "recommandations_id": []}

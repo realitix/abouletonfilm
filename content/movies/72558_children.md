@@ -1,0 +1,1 @@
+{"tmdb_id": 72558, "title": "Children", "original_title": "B\u00f6rn", "slug_title": "children", "date": "2006-09-09", "genre": "Horreur / Science-Fiction", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LwBjSdHnxQARNso9gbDrRBVeu0.jpg", "actors": [], "comments": [], "recommandations_id": [72654, 78441]}

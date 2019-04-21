@@ -1,0 +1,1 @@
+{"tmdb_id": 366114, "title": "Marsupilami", "original_title": "Marsupilami", "slug_title": "marsupilami", "date": "2000-02-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBpRVz4qSmFg1KcfTLYNi4zpDXr.jpg", "actors": [], "comments": [], "recommandations_id": []}

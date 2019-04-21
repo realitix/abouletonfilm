@@ -1,0 +1,1 @@
+{"tmdb_id": 357630, "title": "Rapper Dancers at 'The National'", "original_title": "Rapper Dancers at 'The National'", "slug_title": "rapper-dancers-at-the-national", "date": "2003-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

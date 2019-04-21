@@ -1,0 +1,1 @@
+{"tmdb_id": 284161, "title": "Os Amadores", "original_title": "Os Amadores", "slug_title": "os-amadores", "date": "2006-09-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19WAczmvxM57sPSYP0icndTQOpP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350134, "title": "Enemy and Foe", "original_title": "\uc801\uacfc \uc801", "slug_title": "enemy-and-foe", "date": "1991-11-02", "genre": "Action / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Dong-jun ()"], "comments": [], "recommandations_id": []}

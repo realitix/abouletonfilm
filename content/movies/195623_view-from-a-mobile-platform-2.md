@@ -1,0 +1,1 @@
+{"tmdb_id": 195623, "title": "View From a Mobile Platform #2", "original_title": "Vue prise d'une plate-forme mobile II", "slug_title": "view-from-a-mobile-platform-2", "date": "1900-06-16", "genre": "", "score": "5.6/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [194243, 152454, 195147, 189805]}

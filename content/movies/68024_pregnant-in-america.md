@@ -1,0 +1,1 @@
+{"tmdb_id": 68024, "title": "Pregnant in America", "original_title": "Pregnant in America", "slug_title": "pregnant-in-america", "date": "2008-12-01", "genre": "Documentaire", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jfpNttDiFexegDaxvHTU5LTreV8.jpg", "actors": [], "comments": [], "recommandations_id": []}

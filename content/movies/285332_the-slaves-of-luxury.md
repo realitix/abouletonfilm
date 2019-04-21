@@ -1,0 +1,1 @@
+{"tmdb_id": 285332, "title": "The Slaves of Luxury", "original_title": "Mojili Mumbai", "slug_title": "the-slaves-of-luxury", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yakbal ()", "P. K. Raja Sandow ()", "Jamna ()"], "comments": [], "recommandations_id": []}

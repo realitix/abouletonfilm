@@ -1,0 +1,1 @@
+{"tmdb_id": 580589, "title": "Il colore delle parole", "original_title": "Il colore delle parole", "slug_title": "il-colore-delle-parole", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

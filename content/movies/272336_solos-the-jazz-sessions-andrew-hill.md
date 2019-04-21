@@ -1,0 +1,1 @@
+{"tmdb_id": 272336, "title": "Solos: The Jazz Sessions - Andrew Hill", "original_title": "Solos: The Jazz Sessions - Andrew Hill", "slug_title": "solos-the-jazz-sessions-andrew-hill", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

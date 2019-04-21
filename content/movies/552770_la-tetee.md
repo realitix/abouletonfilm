@@ -1,0 +1,1 @@
+{"tmdb_id": 552770, "title": "La t\u00e9t\u00e9e", "original_title": "La t\u00e9t\u00e9e", "slug_title": "la-tetee", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/voyRid7fZOJXB1NzZrvK4QzdvMf.jpg", "actors": [], "comments": [], "recommandations_id": []}

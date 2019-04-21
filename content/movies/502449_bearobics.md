@@ -1,0 +1,1 @@
+{"tmdb_id": 502449, "title": "Bearobics", "original_title": "Bearobics", "slug_title": "bearobics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qf35sIBi51AFrOyDXwZ9yYvPBai.jpg", "actors": [], "comments": [], "recommandations_id": []}

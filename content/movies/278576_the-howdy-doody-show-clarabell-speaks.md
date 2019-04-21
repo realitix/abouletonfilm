@@ -1,0 +1,1 @@
+{"tmdb_id": 278576, "title": "The Howdy Doody Show: Clarabell Speaks", "original_title": "The Howdy Doody Show: Clarabell Speaks", "slug_title": "the-howdy-doody-show-clarabell-speaks", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

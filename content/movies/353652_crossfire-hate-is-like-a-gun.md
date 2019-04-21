@@ -1,0 +1,1 @@
+{"tmdb_id": 353652, "title": "Crossfire: Hate Is Like a Gun", "original_title": "Crossfire: Hate Is Like a Gun", "slug_title": "crossfire-hate-is-like-a-gun", "date": "2005-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

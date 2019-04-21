@@ -1,0 +1,1 @@
+{"tmdb_id": 530494, "title": "Lunik: The Last Concert", "original_title": "Lunik: The Last Concert", "slug_title": "lunik-the-last-concert", "date": "2014-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jacl3MdwqoVrRcAmJmwqPa5Dedx.jpg", "actors": ["Ja\u00ebl Malli ()"], "comments": [], "recommandations_id": []}

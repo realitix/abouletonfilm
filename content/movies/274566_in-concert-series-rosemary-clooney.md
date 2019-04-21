@@ -1,0 +1,1 @@
+{"tmdb_id": 274566, "title": "In Concert Series: Rosemary Clooney", "original_title": "In Concert Series: Rosemary Clooney", "slug_title": "in-concert-series-rosemary-clooney", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

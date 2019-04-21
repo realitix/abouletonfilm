@@ -1,0 +1,1 @@
+{"tmdb_id": 261494, "title": "Hired Guns", "original_title": "Xiong xie", "slug_title": "hired-guns", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/smaE3cdL8Uw8usNCoiiIs5F2Jfi.jpg", "actors": [], "comments": [], "recommandations_id": []}

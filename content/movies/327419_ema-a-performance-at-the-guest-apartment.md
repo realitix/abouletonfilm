@@ -1,0 +1,1 @@
+{"tmdb_id": 327419, "title": "EMA: A Performance at The Guest Apartment", "original_title": "EMA: A Performance at The Guest Apartment", "slug_title": "ema-a-performance-at-the-guest-apartment", "date": "2011-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

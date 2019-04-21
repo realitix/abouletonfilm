@@ -1,0 +1,1 @@
+{"tmdb_id": 588030, "title": "Zero Impunity", "original_title": "Zero Impunity", "slug_title": "zero-impunity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwAyP3IwlX3xGmmzUipSjtDhxdb.jpg", "actors": [], "comments": [], "recommandations_id": []}

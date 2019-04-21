@@ -1,0 +1,1 @@
+{"tmdb_id": 296957, "title": "La Carnada", "original_title": "La Carnada", "slug_title": "la-carnada", "date": "2014-04-17", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVpdIJhkZ5czreAjx9Ceg5NQkOO.jpg", "actors": [], "comments": [], "recommandations_id": []}

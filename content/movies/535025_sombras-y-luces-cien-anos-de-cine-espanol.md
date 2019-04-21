@@ -1,0 +1,1 @@
+{"tmdb_id": 535025, "title": "Sombras y luces: Cien a\u00f1os de cine espa\u00f1ol", "original_title": "Sombras y luces: Cien a\u00f1os de cine espa\u00f1ol", "slug_title": "sombras-y-luces-cien-anos-de-cine-espanol", "date": "1996-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

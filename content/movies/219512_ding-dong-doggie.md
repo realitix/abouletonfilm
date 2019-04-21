@@ -1,0 +1,1 @@
+{"tmdb_id": 219512, "title": "Ding Dong Doggie", "original_title": "Ding Dong Doggie", "slug_title": "ding-dong-doggie", "date": "1937-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

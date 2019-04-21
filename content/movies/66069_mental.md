@@ -1,0 +1,1 @@
+{"tmdb_id": 66069, "title": "Mental", "original_title": "Seishin", "slug_title": "mental", "date": "2008-06-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmV58HqgSNqrqmlaDV9F7Fz5Cix.jpg", "actors": [], "comments": [], "recommandations_id": []}

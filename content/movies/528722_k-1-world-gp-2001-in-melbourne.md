@@ -1,0 +1,1 @@
+{"tmdb_id": 528722, "title": "K-1 World GP 2001 in Melbourne", "original_title": "K-1 World GP 2001 in Melbourne", "slug_title": "k-1-world-gp-2001-in-melbourne", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

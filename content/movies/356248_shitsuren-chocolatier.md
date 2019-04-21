@@ -1,0 +1,1 @@
+{"tmdb_id": 356248, "title": "Shitsuren Chocolatier", "original_title": "Shitsuren Chocolatier", "slug_title": "shitsuren-chocolatier", "date": "2014-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvKOlrNlJ2Rd5FNjDaAAoO7RR0e.jpg", "actors": [], "comments": [], "recommandations_id": []}

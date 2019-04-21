@@ -1,0 +1,1 @@
+{"tmdb_id": 70469, "title": "Patsy Cline - Remembering Patsy", "original_title": "Patsy Cline - Remembering Patsy", "slug_title": "patsy-cline-remembering-patsy", "date": "2002-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhcEdBaO1a0PPzAFYoFYM9b71Az.jpg", "actors": [], "comments": [], "recommandations_id": []}

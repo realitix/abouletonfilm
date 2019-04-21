@@ -1,0 +1,1 @@
+{"tmdb_id": 324077, "title": "The Interrogation", "original_title": "The Interrogation", "slug_title": "the-interrogation", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

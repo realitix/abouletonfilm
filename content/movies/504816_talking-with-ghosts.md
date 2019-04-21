@@ -1,0 +1,1 @@
+{"tmdb_id": 504816, "title": "Talking With Ghosts", "original_title": "Talking With Ghosts", "slug_title": "talking-with-ghosts", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/MFy6VeAZU7peQU0VedxASU4Kd3.jpg", "actors": [], "comments": [], "recommandations_id": []}

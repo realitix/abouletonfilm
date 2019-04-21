@@ -1,0 +1,1 @@
+{"tmdb_id": 196940, "title": "Quartier Mozart", "original_title": "Quartier Mozart", "slug_title": "quartier-mozart", "date": "1992-05-26", "genre": "Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYMtgdgtPu2sxePjmeMeSMqNXxz.jpg", "actors": [], "comments": [], "recommandations_id": [128941, 158292, 145013, 125713]}

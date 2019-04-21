@@ -1,0 +1,1 @@
+{"tmdb_id": 401058, "title": "Verdammtes Gl\u00fcck", "original_title": "Verdammtes Gl\u00fcck", "slug_title": "verdammtes-gluck", "date": "1997-02-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heinz Hoenig (Jochen Lenz)", "Christine Reinhart (Anne Leipold)", "Horst Kotterba ()"], "comments": [], "recommandations_id": []}

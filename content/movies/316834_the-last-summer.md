@@ -1,0 +1,1 @@
+{"tmdb_id": 316834, "title": "The Last Summer", "original_title": "Posledno lyato", "slug_title": "the-last-summer", "date": "1974-05-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPMs5HeNQU12WnPvFbZv8JF6UAQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 198837, "title": "El otro Crist\u00f3bal", "original_title": "El otro Crist\u00f3bal", "slug_title": "el-otro-cristobal", "date": "1963-05-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taVehsWVZWDqT7Uysh1Rk4icvhl.jpg", "actors": [], "comments": [], "recommandations_id": []}

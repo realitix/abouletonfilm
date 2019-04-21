@@ -1,0 +1,1 @@
+{"tmdb_id": 160863, "title": "The Maltese Double Cross", "original_title": "The Maltese Double Cross", "slug_title": "the-maltese-double-cross", "date": "1994-11-16", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeEZrnBpdSjlcNWDBzRScSI4HjN.jpg", "actors": [], "comments": [], "recommandations_id": []}

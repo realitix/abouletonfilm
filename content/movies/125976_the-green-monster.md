@@ -1,0 +1,1 @@
+{"tmdb_id": 125976, "title": "The Green Monster", "original_title": "The Green Monster", "slug_title": "the-green-monster", "date": "1999-06-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piVAAEW2ZoyFHtF7STe1w3vkZwU.jpg", "actors": [], "comments": [], "recommandations_id": []}

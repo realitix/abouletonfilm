@@ -1,0 +1,1 @@
+{"tmdb_id": 296514, "title": "Luz Y Sombra", "original_title": "Luz Y Sombra", "slug_title": "luz-y-sombra", "date": "2004-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

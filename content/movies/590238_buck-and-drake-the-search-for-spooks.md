@@ -1,0 +1,1 @@
+{"tmdb_id": 590238, "title": "Buck and Drake: The Search for Spooks", "original_title": "Buck and Drake: The Search for Spooks", "slug_title": "buck-and-drake-the-search-for-spooks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

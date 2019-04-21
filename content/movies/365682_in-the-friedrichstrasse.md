@@ -1,0 +1,1 @@
+{"tmdb_id": 365682, "title": "In the Friedrichstrasse", "original_title": "In the Friedrichstrasse", "slug_title": "in-the-friedrichstrasse", "date": "1899-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

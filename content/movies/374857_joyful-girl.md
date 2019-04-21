@@ -1,0 +1,1 @@
+{"tmdb_id": 374857, "title": "Joyful Girl", "original_title": "Joyful Girl", "slug_title": "joyful-girl", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ae0ap3DsJlPZtWNrZZ3x7ODX4X5.jpg", "actors": [], "comments": [], "recommandations_id": []}

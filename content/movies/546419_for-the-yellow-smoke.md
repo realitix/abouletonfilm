@@ -1,0 +1,1 @@
+{"tmdb_id": 546419, "title": "for the yellow smoke", "original_title": "for the yellow smoke", "slug_title": "for-the-yellow-smoke", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

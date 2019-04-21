@@ -1,0 +1,1 @@
+{"tmdb_id": 392680, "title": "Sunday 6th April, 11:42 a.m.", "original_title": "Domenica 6 Aprile, ore 11:42", "slug_title": "sunday-6th-april-11-42-a-m", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfusP7kWs1DD5seBkF1G6cNHrk5.jpg", "actors": [], "comments": [], "recommandations_id": []}

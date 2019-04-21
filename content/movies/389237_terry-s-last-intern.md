@@ -1,0 +1,1 @@
+{"tmdb_id": 389237, "title": "Terry's Last Intern", "original_title": "Terry's Last Intern", "slug_title": "terry-s-last-intern", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/veSq0rc28sB0c3vBsABy3Jz0NUf.jpg", "actors": [], "comments": [], "recommandations_id": []}

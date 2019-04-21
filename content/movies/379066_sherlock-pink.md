@@ -1,0 +1,1 @@
+{"tmdb_id": 379066, "title": "Sherlock Pink", "original_title": "Sherlock Pink", "slug_title": "sherlock-pink", "date": "1976-06-29", "genre": "Animation", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWuNne6o7pauwoJ2MvesTUvS1JC.jpg", "actors": [], "comments": [], "recommandations_id": [379062, 379205, 379195, 379041]}

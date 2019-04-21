@@ -1,0 +1,1 @@
+{"tmdb_id": 129740, "title": "La culpa del cordero", "original_title": "La culpa del cordero", "slug_title": "la-culpa-del-cordero", "date": "2012-05-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUkcRFVlvW5TDjQg9ykxGSK9Qhi.jpg", "actors": [], "comments": [], "recommandations_id": []}

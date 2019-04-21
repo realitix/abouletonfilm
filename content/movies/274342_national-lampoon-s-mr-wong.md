@@ -1,0 +1,1 @@
+{"tmdb_id": 274342, "title": "National Lampoon's Mr. Wong", "original_title": "National Lampoon's Mr. Wong", "slug_title": "national-lampoon-s-mr-wong", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

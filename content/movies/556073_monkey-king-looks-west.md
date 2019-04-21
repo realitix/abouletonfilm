@@ -1,0 +1,1 @@
+{"tmdb_id": 556073, "title": "Monkey King Looks West", "original_title": "Monkey King Looks West", "slug_title": "monkey-king-looks-west", "date": "1992-07-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

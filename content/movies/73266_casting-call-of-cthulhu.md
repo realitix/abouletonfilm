@@ -1,0 +1,1 @@
+{"tmdb_id": 73266, "title": "Casting Call of Cthulhu", "original_title": "Casting Call of Cthulhu", "slug_title": "casting-call-of-cthulhu", "date": "2008-05-05", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zzsw6fHg0IShnUnh2nFS83xdgch.jpg", "actors": [], "comments": [], "recommandations_id": []}

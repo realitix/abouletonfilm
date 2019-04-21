@@ -1,0 +1,1 @@
+{"tmdb_id": 216816, "title": "PG - Imagem e Semelhan\u00e7a", "original_title": "PG - Imagem e Semelhan\u00e7a", "slug_title": "pg-imagem-e-semelhanca", "date": "2011-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRz0eoIaomCMXjUmTPEQozcBuBw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552688, "title": "The Mother", "original_title": "The Mother", "slug_title": "the-mother", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

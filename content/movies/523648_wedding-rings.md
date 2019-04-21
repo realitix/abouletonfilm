@@ -1,0 +1,1 @@
+{"tmdb_id": 523648, "title": "Wedding Rings", "original_title": "Wedding Rings", "slug_title": "wedding-rings", "date": "1929-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

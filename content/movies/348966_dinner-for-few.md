@@ -1,0 +1,1 @@
+{"tmdb_id": 348966, "title": "Dinner for Few", "original_title": "Dinner for Few", "slug_title": "dinner-for-few", "date": "2015-03-27", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diA9RDXgEGIvfw1coV5exheeDfZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

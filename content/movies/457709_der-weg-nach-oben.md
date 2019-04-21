@@ -1,0 +1,1 @@
+{"tmdb_id": 457709, "title": "Der Weg nach oben", "original_title": "Der Weg nach oben", "slug_title": "der-weg-nach-oben", "date": "1950-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSLGrYMpBLoHNqDf9orInkalwcv.jpg", "actors": ["Harry Hindemith (Narrator)"], "comments": [], "recommandations_id": []}

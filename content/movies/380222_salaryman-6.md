@@ -1,0 +1,1 @@
+{"tmdb_id": 380222, "title": "Salaryman 6", "original_title": "Salaryman 6", "slug_title": "salaryman-6", "date": "2002-07-26", "genre": "Drame / Myst\u00e8re", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

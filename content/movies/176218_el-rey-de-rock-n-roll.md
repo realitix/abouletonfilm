@@ -1,0 +1,1 @@
+{"tmdb_id": 176218, "title": "El rey de rock 'n' roll", "original_title": "El rey de rock 'n' roll", "slug_title": "el-rey-de-rock-n-roll", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

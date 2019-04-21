@@ -1,0 +1,1 @@
+{"tmdb_id": 321242, "title": "Shooting Versace", "original_title": "Shooting Versace", "slug_title": "shooting-versace", "date": "1998-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 103381, "title": "Too Legit: The MC Hammer Story", "original_title": "Too Legit: The MC Hammer Story", "slug_title": "too-legit-the-mc-hammer-story", "date": "2001-04-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTh0kDoPWJnOR399gjNcFvWOg9M.jpg", "actors": [], "comments": [], "recommandations_id": []}

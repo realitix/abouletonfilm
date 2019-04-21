@@ -1,0 +1,1 @@
+{"tmdb_id": 447441, "title": "Slim in 6: Slim & 6-Pack", "original_title": "Slim in 6: Slim & 6-Pack", "slug_title": "slim-in-6-slim-6-pack", "date": "2010-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLYKBvWDZQwmHWxZqNSYHDuC6Qe.jpg", "actors": [], "comments": [], "recommandations_id": []}

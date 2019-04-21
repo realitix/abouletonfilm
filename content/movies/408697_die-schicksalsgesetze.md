@@ -1,0 +1,1 @@
+{"tmdb_id": 408697, "title": "Die Schicksalsgesetze", "original_title": "Die Schicksalsgesetze", "slug_title": "die-schicksalsgesetze", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ge2JUx03nYJlmhoAJGfPHQqg5q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301817, "title": "Bar Girls", "original_title": "G\u00e1i nh\u1ea3y", "slug_title": "bar-girls", "date": "2003-01-01", "genre": "Drame", "score": "2.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSMKYA9k7LWqU0JmAb4DIy2asYZ.jpg", "actors": ["Vu Anh ()", "Minh Thu\u1eadn ()", "Duyen My ()"], "comments": [], "recommandations_id": []}

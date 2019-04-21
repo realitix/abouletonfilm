@@ -1,0 +1,1 @@
+{"tmdb_id": 374976, "title": "War File: The Great War", "original_title": "War File: The Great War", "slug_title": "war-file-the-great-war", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfxrJUlPm43rRHJPkO0OYX1l8Be.jpg", "actors": [], "comments": [], "recommandations_id": []}

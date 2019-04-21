@@ -1,0 +1,1 @@
+{"tmdb_id": 314401, "title": "Jhoothi Shaan", "original_title": "Jhoothi Shaan", "slug_title": "jhoothi-shaan", "date": "1991-12-13", "genre": "Drame / Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shabana Azmi ()", "Mithun Chakraborty ()", "Poonam Dhillon ()", "Shakti Kapoor ()"], "comments": [], "recommandations_id": []}

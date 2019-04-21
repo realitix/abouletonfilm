@@ -1,0 +1,1 @@
+{"tmdb_id": 449690, "title": "Codename: Bullet", "original_title": "Codename: Bullet", "slug_title": "codename-bullet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJFJqlWEuMpKjWtr0Dda3520yDc.jpg", "actors": [], "comments": [], "recommandations_id": []}

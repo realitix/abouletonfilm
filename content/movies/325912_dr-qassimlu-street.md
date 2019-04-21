@@ -1,0 +1,1 @@
+{"tmdb_id": 325912, "title": "Dr. Qassimlu Street", "original_title": "Dr. Qassimlu Street", "slug_title": "dr-qassimlu-street", "date": "2013-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

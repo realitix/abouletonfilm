@@ -1,0 +1,1 @@
+{"tmdb_id": 191062, "title": "Lucebert, Time and Farewell", "original_title": "Lucebert, tijd en afscheid", "slug_title": "lucebert-time-and-farewell", "date": "1994-09-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3SNZhSQbTIXFnmFGGPvl0oGRoxu.jpg", "actors": [], "comments": [], "recommandations_id": []}

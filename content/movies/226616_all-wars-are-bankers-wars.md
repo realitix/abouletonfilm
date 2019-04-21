@@ -1,0 +1,1 @@
+{"tmdb_id": 226616, "title": "All Wars are Bankers' Wars", "original_title": "All Wars are Bankers' Wars", "slug_title": "all-wars-are-bankers-wars", "date": "2013-02-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwhXCkGzQp258h0s8njXoCzkdOD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 245826, "title": "Av\u00e1ndaro", "original_title": "Av\u00e1ndaro", "slug_title": "avandaro", "date": "1971-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

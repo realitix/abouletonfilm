@@ -1,0 +1,1 @@
+{"tmdb_id": 296800, "title": "Shotgun Garfunkel", "original_title": "Shotgun Garfunkel", "slug_title": "shotgun-garfunkel", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

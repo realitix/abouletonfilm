@@ -1,0 +1,1 @@
+{"tmdb_id": 556639, "title": "L'appassionata", "original_title": "L'appassionata", "slug_title": "l-appassionata", "date": "1929-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

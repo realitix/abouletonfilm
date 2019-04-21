@@ -1,0 +1,1 @@
+{"tmdb_id": 559326, "title": "Sergil et le dictateur", "original_title": "Sergil et le dictateur", "slug_title": "sergil-et-le-dictateur", "date": "1948-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AiUAjfGoguF8S7XoMY8m4oc18Ar.jpg", "actors": [], "comments": [], "recommandations_id": []}

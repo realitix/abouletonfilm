@@ -1,0 +1,1 @@
+{"tmdb_id": 250322, "title": "Sense of Architecture", "original_title": "Sense of Architecture", "slug_title": "sense-of-architecture", "date": "2009-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnQQDenT85zFmMA4LjO1gZAqslv.jpg", "actors": [], "comments": [], "recommandations_id": []}

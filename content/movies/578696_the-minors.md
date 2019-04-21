@@ -1,0 +1,1 @@
+{"tmdb_id": 578696, "title": "The Minors", "original_title": "The Minors", "slug_title": "the-minors", "date": "2019-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/24qLLyN0twdmGQnwAC5PXb0V4BN.jpg", "actors": [], "comments": [], "recommandations_id": []}

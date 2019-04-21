@@ -1,0 +1,1 @@
+{"tmdb_id": 584718, "title": "Meditation", "original_title": "Meditacija", "slug_title": "meditation", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uPzem5sQBkRxe1WRG6xAsEZT1o.jpg", "actors": [], "comments": [], "recommandations_id": []}

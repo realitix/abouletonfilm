@@ -1,0 +1,1 @@
+{"tmdb_id": 474109, "title": "Hillary: A Woman on the Edge", "original_title": "Hillary: A Woman on the Edge", "slug_title": "hillary-a-woman-on-the-edge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hillary Clinton (herself)", "Bill Clinton (himself)"], "comments": [], "recommandations_id": []}

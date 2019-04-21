@@ -1,0 +1,1 @@
+{"tmdb_id": 271130, "title": "Los \u00c1ngeles", "original_title": "Los \u00c1ngeles", "slug_title": "los-angeles", "date": "2009-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Palomino ()", "Nazareno Casero ()", "Miguel Dileme ()", "Victoria Maurette ()", "Oscar Nunez ()"], "comments": [], "recommandations_id": []}

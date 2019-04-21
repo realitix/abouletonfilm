@@ -1,0 +1,1 @@
+{"tmdb_id": 144697, "title": "Ah, les femmes !", "original_title": "Ah, les femmes !", "slug_title": "ah-les-femmes", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un \u00e9pisode de com\u00e9die noire mettant en sc\u00e8ne un misogyne d\u00e9traqu\u00e9.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

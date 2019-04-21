@@ -1,0 +1,1 @@
+{"tmdb_id": 565027, "title": "A Movie Capital \u6620\u753b\u306e\u90fd", "original_title": "A Movie Capital \u6620\u753b\u306e\u90fd", "slug_title": "a-movie-capital-ying-hua-nodu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

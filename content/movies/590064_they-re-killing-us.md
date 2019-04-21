@@ -1,0 +1,1 @@
+{"tmdb_id": 590064, "title": "They're Killing Us", "original_title": "Non Est\u00e1n Matando", "slug_title": "they-re-killing-us", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

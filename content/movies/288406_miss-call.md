@@ -1,0 +1,1 @@
+{"tmdb_id": 288406, "title": "Miss Call", "original_title": "\ub098\uac00\uc694\ubbf8\uc2a4\ucf5c", "slug_title": "miss-call", "date": "2014-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DRbmjJBhgP74QluwLarl8wvBYT.jpg", "actors": ["Kim Min-hyuk (Kyung Chal-gwan)"], "comments": [], "recommandations_id": []}

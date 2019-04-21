@@ -1,0 +1,1 @@
+{"tmdb_id": 318361, "title": "Dinner and a Movie", "original_title": "Dinner and a Movie", "slug_title": "dinner-and-a-movie", "date": "2013-06-29", "genre": "Com\u00e9die / Crime / Romance", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDDnAqK7tF410oE9Qxp74iGZmV5.jpg", "actors": [], "comments": [], "recommandations_id": []}

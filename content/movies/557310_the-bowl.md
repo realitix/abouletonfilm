@@ -1,0 +1,1 @@
+{"tmdb_id": 557310, "title": "The Bowl", "original_title": "The Bowl", "slug_title": "the-bowl", "date": "2017-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

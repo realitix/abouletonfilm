@@ -1,0 +1,1 @@
+{"tmdb_id": 443219, "title": "Music is our Weapon", "original_title": "Music is our Weapon", "slug_title": "music-is-our-weapon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

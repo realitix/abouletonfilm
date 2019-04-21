@@ -1,0 +1,1 @@
+{"tmdb_id": 358803, "title": "Youth Suicide Fantasy", "original_title": "Youth Suicide Fantasy", "slug_title": "youth-suicide-fantasy", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7N5ecftqTRL9SHJcxBYFwzh07d.jpg", "actors": [], "comments": [], "recommandations_id": []}

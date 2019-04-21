@@ -1,0 +1,1 @@
+{"tmdb_id": 503686, "title": "Mr. and Ms. and the Magic Studio Murders", "original_title": "Mr. and Ms. and the Magic Studio Murders", "slug_title": "mr-and-ms-and-the-magic-studio-murders", "date": "1975-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

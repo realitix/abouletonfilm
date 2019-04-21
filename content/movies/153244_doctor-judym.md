@@ -1,0 +1,1 @@
+{"tmdb_id": 153244, "title": "Doctor Judym", "original_title": "Doktor Judym", "slug_title": "doctor-judym", "date": "1975-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmnjVXZSvei7KV6t95C8MLMl2s5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 328316, "title": "Service Stripes", "original_title": "Service Stripes", "slug_title": "service-stripes", "date": "1931-01-03", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Penner ()", "Joan Carter Waddell ()"], "comments": [], "recommandations_id": []}

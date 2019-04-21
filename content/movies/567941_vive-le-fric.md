@@ -1,0 +1,1 @@
+{"tmdb_id": 567941, "title": "Vive le fric!", "original_title": "Vive le fric!", "slug_title": "vive-le-fric", "date": "1985-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j69vg0vVkvSVwblv9HenLLn62VS.jpg", "actors": [], "comments": [], "recommandations_id": []}

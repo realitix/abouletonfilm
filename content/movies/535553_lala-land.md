@@ -1,0 +1,1 @@
+{"tmdb_id": 535553, "title": "Lala Land", "original_title": "\ub784\ub77c\ub79c\ub4dc", "slug_title": "lala-land", "date": "2018-09-21", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bo-sung Kim (Middle-age actor 1)", "Lee Dong-jun (Middle-age actor 2)"], "comments": [], "recommandations_id": []}

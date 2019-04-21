@@ -1,0 +1,1 @@
+{"tmdb_id": 408869, "title": "Fine Feathers", "original_title": "Fine Feathers", "slug_title": "fine-feathers", "date": "1912-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phillips Smalley (Arthur Vaughn - the Artist)", "Lois Weber (The Artist's Model)", "Charles De Forrest ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 56711, "title": "Kikker en zijn vriendjes", "original_title": "Kikker en zijn vriendjes", "slug_title": "kikker-en-zijn-vriendjes", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SmNYLriKDZbNSgXIVObN0nycG7.jpg", "actors": [], "comments": [], "recommandations_id": []}

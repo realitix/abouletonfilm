@@ -1,0 +1,1 @@
+{"tmdb_id": 503766, "title": "Sorority Kill", "original_title": "Sorority Kill", "slug_title": "sorority-kill", "date": "1974-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

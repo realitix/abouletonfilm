@@ -1,0 +1,1 @@
+{"tmdb_id": 378862, "title": "Crow De Guerre", "original_title": "Crow De Guerre", "slug_title": "crow-de-guerre", "date": "1967-08-16", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7XUZI4z9vOt3SJLWEyVVrqmlNLu.jpg", "actors": ["Pat Harrington, Jr. (Inspector (voice))"], "comments": [], "recommandations_id": []}

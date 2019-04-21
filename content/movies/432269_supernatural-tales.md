@@ -1,0 +1,1 @@
+{"tmdb_id": 432269, "title": "Supernatural Tales", "original_title": "Supernatural Tales", "slug_title": "supernatural-tales", "date": "2015-12-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nugWNcpyQDmrAXNvuUrQrupZMvp.jpg", "actors": [], "comments": [], "recommandations_id": []}

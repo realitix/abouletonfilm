@@ -1,0 +1,1 @@
+{"tmdb_id": 213444, "title": "Tomorrow Will Be Better", "original_title": "Jutro bedzie lepiej", "slug_title": "tomorrow-will-be-better", "date": "2011-11-11", "genre": "Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMvS7O29Wq6KOsBopaOOTqplOlh.jpg", "actors": [], "comments": [], "recommandations_id": []}

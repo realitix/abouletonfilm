@@ -1,0 +1,1 @@
+{"tmdb_id": 473544, "title": "Vault of Horror I", "original_title": "Vault of Horror I", "slug_title": "vault-of-horror-i", "date": "1994-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrCnvkXgEe5xH7pVg6eFK05efuZ.jpg", "actors": ["Kyle MacLachlan (Earl Raymond Digs)"], "comments": [], "recommandations_id": []}

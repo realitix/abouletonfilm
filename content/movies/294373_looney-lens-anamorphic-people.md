@@ -1,0 +1,1 @@
+{"tmdb_id": 294373, "title": "Looney Lens: Anamorphic People", "original_title": "Looney Lens: Anamorphic People", "slug_title": "looney-lens-anamorphic-people", "date": "1927-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DGudHTBHbCap2FWdxAkTlC1Tws.jpg", "actors": [], "comments": [], "recommandations_id": []}

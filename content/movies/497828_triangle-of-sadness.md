@@ -1,0 +1,1 @@
+{"tmdb_id": 497828, "title": "Triangle of Sadness", "original_title": "Triangle of Sadness", "slug_title": "triangle-of-sadness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

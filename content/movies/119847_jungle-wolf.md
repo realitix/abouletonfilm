@@ -1,0 +1,1 @@
+{"tmdb_id": 119847, "title": "Jungle Wolf", "original_title": "Jungle Wolf", "slug_title": "jungle-wolf", "date": "1986-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkd9dTCaEn1As0zBN6hisQGTL8f.jpg", "actors": ["Ronald L. Marchini ()", "Romy Diaz ()", "Laura Abeyta ()"], "comments": [], "recommandations_id": []}

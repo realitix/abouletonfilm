@@ -1,0 +1,1 @@
+{"tmdb_id": 497174, "title": "The Ghost Sonata", "original_title": "The Ghost Sonata", "slug_title": "the-ghost-sonata", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

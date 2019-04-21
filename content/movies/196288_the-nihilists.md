@@ -1,0 +1,1 @@
+{"tmdb_id": 196288, "title": "The Nihilists", "original_title": "The Nihilists", "slug_title": "the-nihilists", "date": "1905-03-27", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 373411, "title": "Bahia Smaragd", "original_title": "Bahia Smaragd", "slug_title": "bahia-smaragd", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94C079EuSKn8xiQYazT1wq3R33y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 322080, "title": "Bullet for My Valentine Scream Aim Fire DVD Conent", "original_title": "Bullet for My Valentine Scream Aim Fire DVD Conent", "slug_title": "bullet-for-my-valentine-scream-aim-fire-dvd-conent", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

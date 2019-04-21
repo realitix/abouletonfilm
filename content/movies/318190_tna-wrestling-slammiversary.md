@@ -1,0 +1,1 @@
+{"tmdb_id": 318190, "title": "TNA Wrestling: Slammiversary", "original_title": "TNA Wrestling: Slammiversary", "slug_title": "tna-wrestling-slammiversary", "date": "2008-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7I7bysoq1Xkvy3i6UiUiGPb5kqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

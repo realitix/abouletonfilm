@@ -1,0 +1,1 @@
+{"tmdb_id": 286336, "title": "Das rosa Pant\u00f6ffelchen", "original_title": "Das rosa Pant\u00f6ffelchen", "slug_title": "das-rosa-pantoffelchen", "date": "1913-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dorrit Weixler ()", "Franz Schwaiger ()", "Carl Fenz ()"], "comments": [], "recommandations_id": []}

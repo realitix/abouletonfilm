@@ -1,0 +1,1 @@
+{"tmdb_id": 467785, "title": "\uae4c\ub9c9\uc12c\uc758 \ube44\ubc00", "original_title": "\uae4c\ub9c9\uc12c\uc758 \ube44\ubc00", "slug_title": "ggamagseomyi-bimil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

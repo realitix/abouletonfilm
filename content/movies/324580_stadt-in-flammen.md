@@ -1,0 +1,1 @@
+{"tmdb_id": 324580, "title": "Stadt in Flammen", "original_title": "Stadt in Flammen", "slug_title": "stadt-in-flammen", "date": "1984-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1aBcyisqmtgkm0cyY1xRt1Gevw4.jpg", "actors": [], "comments": [], "recommandations_id": []}

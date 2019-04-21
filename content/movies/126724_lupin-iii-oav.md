@@ -1,0 +1,1 @@
+{"tmdb_id": 126724, "title": "Lupin III OAV", "original_title": "Lupin III OAV", "slug_title": "lupin-iii-oav", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwh5J9MN2dgYskYO3z8zL6fvL0c.jpg", "actors": [], "comments": [], "recommandations_id": []}

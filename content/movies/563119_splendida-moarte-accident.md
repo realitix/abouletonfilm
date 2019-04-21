@@ -1,0 +1,1 @@
+{"tmdb_id": 563119, "title": "Splendida Moarte Accident", "original_title": "Splendida Moarte Accident", "slug_title": "splendida-moarte-accident", "date": "2017-06-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIy3zhXPPdZi0te2xJXDnnLAKUI.jpg", "actors": [], "comments": [], "recommandations_id": []}

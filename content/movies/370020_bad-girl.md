@@ -1,0 +1,1 @@
+{"tmdb_id": 370020, "title": "Bad Girl", "original_title": "Bad Girl", "slug_title": "bad-girl", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cristina Gonzales ()", "Zoren Legaspi ()"], "comments": [], "recommandations_id": []}

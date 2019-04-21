@@ -1,0 +1,1 @@
+{"tmdb_id": 508092, "title": "Valkyrie: The Plot to Kill Hitler", "original_title": "Valkyrie: The Plot to Kill Hitler", "slug_title": "valkyrie-the-plot-to-kill-hitler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

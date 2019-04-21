@@ -1,0 +1,1 @@
+{"tmdb_id": 580587, "title": "A Pugni Chiusi", "original_title": "A Pugni Chiusi", "slug_title": "a-pugni-chiusi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

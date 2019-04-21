@@ -1,0 +1,1 @@
+{"tmdb_id": 340668, "title": "Parejas", "original_title": "Parejas", "slug_title": "parejas", "date": "1996-05-17", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idDAxG0DiqvX2ArUNJeHfJkcfs6.jpg", "actors": [], "comments": [], "recommandations_id": []}

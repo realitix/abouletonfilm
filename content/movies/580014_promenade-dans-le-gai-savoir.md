@@ -1,0 +1,1 @@
+{"tmdb_id": 580014, "title": "Promenade dans Le gai savoir", "original_title": "Promenade dans Le gai savoir", "slug_title": "promenade-dans-le-gai-savoir", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

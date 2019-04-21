@@ -1,0 +1,1 @@
+{"tmdb_id": 46276, "title": "The Friendly Physician", "original_title": "The Friendly Physician", "slug_title": "the-friendly-physician", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8u5SwBiVx8iPG1Nlw37lb9UsIsz.jpg", "actors": [], "comments": [], "recommandations_id": []}

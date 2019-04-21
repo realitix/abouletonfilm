@@ -1,0 +1,1 @@
+{"tmdb_id": 271577, "title": "Fish Without a Bicycle", "original_title": "Fish Without a Bicycle", "slug_title": "fish-without-a-bicycle", "date": "2003-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seth Romatelli (Jonathan)"], "comments": [], "recommandations_id": []}

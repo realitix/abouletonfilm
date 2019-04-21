@@ -1,0 +1,1 @@
+{"tmdb_id": 465184, "title": "Perfect Girl", "original_title": "Perfect Girl", "slug_title": "perfect-girl", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8LvSGBJvyBHmdqswUGS9brvsy6.jpg", "actors": [], "comments": [], "recommandations_id": []}

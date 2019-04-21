@@ -1,0 +1,1 @@
+{"tmdb_id": 562864, "title": "The Lovers of the France", "original_title": "Les amoureux du France", "slug_title": "the-lovers-of-the-france", "date": "1964-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGrD4EpVxLkRYWFiCn6xaLYt84O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346577, "title": "Cleverman", "original_title": "Cleverman", "slug_title": "cleverman", "date": "2008-09-15", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

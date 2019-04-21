@@ -1,0 +1,1 @@
+{"tmdb_id": 387616, "title": "Zumba Fitness: Cardio Party", "original_title": "Zumba Fitness: Cardio Party", "slug_title": "zumba-fitness-cardio-party", "date": "2008-03-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XfFT4ieMgFvqVxEVOT3SvoRDR0.jpg", "actors": [], "comments": [], "recommandations_id": []}

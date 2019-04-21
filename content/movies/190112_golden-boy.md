@@ -1,0 +1,1 @@
+{"tmdb_id": 190112, "title": "Golden Boy", "original_title": "Altin \u00c7ocuk", "slug_title": "golden-boy", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6RKCwxzuYMdBzVp078SPADN21F.jpg", "actors": ["G\u00f6ksel Arsoy (Altin \u00c7ocuk)"], "comments": [], "recommandations_id": []}

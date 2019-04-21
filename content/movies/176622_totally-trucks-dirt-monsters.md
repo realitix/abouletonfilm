@@ -1,0 +1,1 @@
+{"tmdb_id": 176622, "title": "Totally Trucks Dirt Monsters", "original_title": "Totally Trucks Dirt Monsters", "slug_title": "totally-trucks-dirt-monsters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGJFAPCjj5E3mCWwsvjBVRsCwab.jpg", "actors": [], "comments": [], "recommandations_id": []}

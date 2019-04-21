@@ -1,0 +1,1 @@
+{"tmdb_id": 519064, "title": "Zimmer im Gr\u00fcnen", "original_title": "Zimmer im Gr\u00fcnen", "slug_title": "zimmer-im-grunen", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus Neu ()"], "comments": [], "recommandations_id": []}

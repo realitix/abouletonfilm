@@ -1,0 +1,1 @@
+{"tmdb_id": 309394, "title": "Doyle Lawson: Treasures", "original_title": "Doyle Lawson: Treasures", "slug_title": "doyle-lawson-treasures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

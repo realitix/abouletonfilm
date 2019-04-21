@@ -1,0 +1,1 @@
+{"tmdb_id": 351767, "title": "Burmese Boxing: The Last Gladiators of Asia", "original_title": "Burmese Boxing: The Last Gladiators of Asia", "slug_title": "burmese-boxing-the-last-gladiators-of-asia", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

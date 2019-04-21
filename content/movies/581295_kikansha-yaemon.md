@@ -1,0 +1,1 @@
+{"tmdb_id": 581295, "title": "Kikansha Yaemon", "original_title": "Kikansha Yaemon", "slug_title": "kikansha-yaemon", "date": "2009-10-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbm08Gqzb7n93xrVXuHaukp2vqw.jpg", "actors": [], "comments": [], "recommandations_id": []}

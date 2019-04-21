@@ -1,0 +1,1 @@
+{"tmdb_id": 553140, "title": "The ABC Of Walking Wisely", "original_title": "The ABC Of Walking Wisely", "slug_title": "the-abc-of-walking-wisely", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

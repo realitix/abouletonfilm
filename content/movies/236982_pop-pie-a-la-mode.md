@@ -1,0 +1,1 @@
+{"tmdb_id": 236982, "title": "Pop-Pie a la Mode", "original_title": "Pop-Pie a la Mode", "slug_title": "pop-pie-a-la-mode", "date": "1945-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

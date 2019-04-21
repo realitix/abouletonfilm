@@ -1,0 +1,1 @@
+{"tmdb_id": 307184, "title": "Kittu Puttu", "original_title": "Kittu Puttu", "slug_title": "kittu-puttu", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

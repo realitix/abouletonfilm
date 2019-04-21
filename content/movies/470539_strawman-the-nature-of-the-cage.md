@@ -1,0 +1,1 @@
+{"tmdb_id": 470539, "title": "Strawman: The Nature of the Cage", "original_title": "Strawman: The Nature of the Cage", "slug_title": "strawman-the-nature-of-the-cage", "date": "2015-07-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

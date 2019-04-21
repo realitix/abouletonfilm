@@ -1,0 +1,1 @@
+{"tmdb_id": 466126, "title": "Il Barbiere del Re", "original_title": "Il Barbiere del Re", "slug_title": "il-barbiere-del-re", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wpuQPt4L7xvqc6SFr1oKqKMza6B.jpg", "actors": [], "comments": [], "recommandations_id": []}

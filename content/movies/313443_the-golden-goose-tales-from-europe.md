@@ -1,0 +1,1 @@
+{"tmdb_id": 313443, "title": "The Golden Goose: Tales from Europe", "original_title": "The Golden Goose: Tales from Europe", "slug_title": "the-golden-goose-tales-from-europe", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 446607, "title": "Lowly Ronin 4: Living Hell", "original_title": "Suronin makaritoru dai yonbu sarumo jigoku nokorumo jigoku", "slug_title": "lowly-ronin-4-living-hell", "date": "1983-02-18", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Toshir\u014d Mifune ()"], "comments": [], "recommandations_id": []}

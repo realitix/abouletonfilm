@@ -1,0 +1,1 @@
+{"tmdb_id": 240452, "title": "Toward Independence", "original_title": "Toward Independence", "slug_title": "toward-independence", "date": "1948-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

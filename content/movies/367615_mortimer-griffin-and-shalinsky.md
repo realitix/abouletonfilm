@@ -1,0 +1,1 @@
+{"tmdb_id": 367615, "title": "Mortimer Griffin and Shalinsky", "original_title": "Mortimer Griffin and Shalinsky", "slug_title": "mortimer-griffin-and-shalinsky", "date": "1985-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

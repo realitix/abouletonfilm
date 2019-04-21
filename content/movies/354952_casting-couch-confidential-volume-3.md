@@ -1,0 +1,1 @@
+{"tmdb_id": 354952, "title": "Casting Couch Confidential: Volume 3", "original_title": "Casting Couch Confidential: Volume 3", "slug_title": "casting-couch-confidential-volume-3", "date": "2015-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 235570, "title": "Springtime in Palestine", "original_title": "Aviv B'Eretz Yisrael", "slug_title": "springtime-in-palestine", "date": "1928-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

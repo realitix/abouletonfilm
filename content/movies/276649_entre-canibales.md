@@ -1,0 +1,1 @@
+{"tmdb_id": 276649, "title": "Entre can\u00edbales", "original_title": "Entre can\u00edbales", "slug_title": "entre-canibales", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ac7iptGqVhxnI1mXKCfkpHgScz1.jpg", "actors": [], "comments": [], "recommandations_id": []}

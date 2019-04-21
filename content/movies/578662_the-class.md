@@ -1,0 +1,1 @@
+{"tmdb_id": 578662, "title": "the class", "original_title": "the class", "slug_title": "the-class", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fQwAsaQ4a8YJBXXuv6RIosQcGo.jpg", "actors": [], "comments": [], "recommandations_id": []}

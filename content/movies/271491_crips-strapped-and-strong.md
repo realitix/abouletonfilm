@@ -1,0 +1,1 @@
+{"tmdb_id": 271491, "title": "Crips: Strapped and Strong", "original_title": "Crips: Strapped and Strong", "slug_title": "crips-strapped-and-strong", "date": "2009-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYuPR8N0Sz8NjAvkMlDTv6i9ale.jpg", "actors": [], "comments": [], "recommandations_id": []}

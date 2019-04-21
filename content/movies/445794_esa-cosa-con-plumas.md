@@ -1,0 +1,1 @@
+{"tmdb_id": 445794, "title": "Esa cosa con plumas", "original_title": "Esa cosa con plumas", "slug_title": "esa-cosa-con-plumas", "date": "1988-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gWgexi32OX0qhLAm7bfopwAItIH.jpg", "actors": ["Jes\u00fas Franco ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 218553, "title": "Bashment", "original_title": "Bashment", "slug_title": "bashment", "date": "2011-06-17", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4gbiHfZUHPzVHUj2PdGMthQRbl.jpg", "actors": ["Joel Dommet (J.J.)", "Ludvig Bonin (Venom)"], "comments": [], "recommandations_id": [337412]}

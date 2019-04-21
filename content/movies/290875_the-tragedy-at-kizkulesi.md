@@ -1,0 +1,1 @@
+{"tmdb_id": 290875, "title": "The Tragedy at Kizkulesi", "original_title": "Kiz Kulesinde bir facia", "slug_title": "the-tragedy-at-kizkulesi", "date": "1923-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Muhsin Ertugrul ()", "Neyyire Neyir ()", "Emin Belig Belli ()"], "comments": [], "recommandations_id": []}

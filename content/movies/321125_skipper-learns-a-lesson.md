@@ -1,0 +1,1 @@
+{"tmdb_id": 321125, "title": "Skipper Learns A Lesson", "original_title": "Skipper Learns A Lesson", "slug_title": "skipper-learns-a-lesson", "date": "1952-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

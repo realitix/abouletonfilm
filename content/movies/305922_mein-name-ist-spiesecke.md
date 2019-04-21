@@ -1,0 +1,1 @@
+{"tmdb_id": 305922, "title": "Mein Name ist Spiesecke", "original_title": "Mein Name ist Spiesecke", "slug_title": "mein-name-ist-spiesecke", "date": "1914-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emil Albes ()", "Ernst Matray ()", "Siddie Sinnen ()", "Hugo Flink ()"], "comments": [], "recommandations_id": []}

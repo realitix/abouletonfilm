@@ -1,0 +1,1 @@
+{"tmdb_id": 489446, "title": "Shot in the Escape", "original_title": "Shot in the Escape", "slug_title": "shot-in-the-escape", "date": "1943-08-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Gilbert (Alexsos)"], "comments": [], "recommandations_id": []}

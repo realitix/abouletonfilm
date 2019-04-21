@@ -1,0 +1,1 @@
+{"tmdb_id": 447686, "title": "Shi'a Echoes from Lebanon", "original_title": "Shi'a Echoes from Lebanon", "slug_title": "shi-a-echoes-from-lebanon", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2EHAFaWygOrbw4e1ZFqA4ll1m5w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273688, "title": "A nu yeyo, etu lyubov!", "original_title": "A nu yeyo, etu lyubov!", "slug_title": "a-nu-yeyo-etu-lyubov", "date": "1975-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Xk6380obMISyYKmboB35TnOs7c.jpg", "actors": [], "comments": [], "recommandations_id": []}

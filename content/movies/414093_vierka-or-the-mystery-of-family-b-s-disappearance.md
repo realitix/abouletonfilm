@@ -1,0 +1,1 @@
+{"tmdb_id": 414093, "title": "Vierka, or The Mystery of Family B's Disappearance", "original_title": "Vierka aneb z\u00e1hada zmizen\u00ed rodiny B.", "slug_title": "vierka-or-the-mystery-of-family-b-s-disappearance", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

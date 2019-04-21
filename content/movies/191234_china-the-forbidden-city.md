@@ -1,0 +1,1 @@
+{"tmdb_id": 191234, "title": "China & The Forbidden City", "original_title": "China & The Forbidden City", "slug_title": "china-the-forbidden-city", "date": "2005-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

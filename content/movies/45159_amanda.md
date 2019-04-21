@@ -1,0 +1,1 @@
+{"tmdb_id": 45159, "title": "Amanda", "original_title": "Amanda", "slug_title": "amanda", "date": "2009-10-04", "genre": "Com\u00e9die / Romance", "score": "4.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AdwOuUX4eKoWEgBz0GclBEVCk6f.jpg", "actors": ["Ariana Dubynin (Amanda)", "Randy Ryan  (Joe Bender)"], "comments": [], "recommandations_id": []}

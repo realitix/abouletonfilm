@@ -1,0 +1,1 @@
+{"tmdb_id": 405736, "title": "Heliograf\u00eda", "original_title": "Heliograf\u00eda", "slug_title": "heliografia", "date": "1993-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCY1iMGvbJb9N5R1e4iHbOALPEm.jpg", "actors": [], "comments": [], "recommandations_id": []}

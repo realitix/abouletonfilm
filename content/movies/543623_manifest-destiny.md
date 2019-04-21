@@ -1,0 +1,1 @@
+{"tmdb_id": 543623, "title": "Manifest Destiny", "original_title": "Manifest Destiny", "slug_title": "manifest-destiny", "date": "2000-12-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Todd Berger (Alkie (voice))", "Walter Moore (Edward)"], "comments": [], "recommandations_id": []}

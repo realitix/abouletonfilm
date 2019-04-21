@@ -1,0 +1,1 @@
+{"tmdb_id": 353654, "title": "Tales from the darkside", "original_title": "Tales from the darkside", "slug_title": "tales-from-the-darkside", "date": "1988-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8DZphmvJwuynnMbvRbOozXQM5u2.jpg", "actors": [], "comments": [], "recommandations_id": []}

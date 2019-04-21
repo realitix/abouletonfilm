@@ -1,0 +1,1 @@
+{"tmdb_id": 477224, "title": "Doodhwali", "original_title": "Doodhwali", "slug_title": "doodhwali", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnqzvfb5Qw5mjfpCAZPKObiwc1R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 555849, "title": "HALLOWEEN II1981", "original_title": "HALLOWEEN II1981", "slug_title": "halloween-ii1981", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

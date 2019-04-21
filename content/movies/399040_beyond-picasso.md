@@ -1,0 +1,1 @@
+{"tmdb_id": 399040, "title": "Beyond Picasso", "original_title": "Beyond Picasso", "slug_title": "beyond-picasso", "date": "1986-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1psAKr7rGzTXmISntfNlSbtrbOa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 153446, "title": "Petersburg Elegy", "original_title": "Petersburg Elegy", "slug_title": "petersburg-elegy", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCMuNHBcwe1kwH6QebDW1hIKBkZ.jpg", "actors": ["Aleksandr Sokurov (Narrator)"], "comments": [], "recommandations_id": []}

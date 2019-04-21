@@ -1,0 +1,1 @@
+{"tmdb_id": 65454, "title": "Der Rebell", "original_title": "Der Rebell", "slug_title": "der-rebell", "date": "2006-06-12", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

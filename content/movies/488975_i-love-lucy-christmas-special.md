@@ -1,0 +1,1 @@
+{"tmdb_id": 488975, "title": "I Love Lucy Christmas Special", "original_title": "I Love Lucy Christmas Special", "slug_title": "i-love-lucy-christmas-special", "date": "2016-12-02", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

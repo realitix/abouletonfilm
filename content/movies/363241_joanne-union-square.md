@@ -1,0 +1,1 @@
+{"tmdb_id": 363241, "title": "Joanne, Union Square", "original_title": "Joanne, Union Square", "slug_title": "joanne-union-square", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

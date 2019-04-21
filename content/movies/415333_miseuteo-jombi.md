@@ -1,0 +1,1 @@
+{"tmdb_id": 415333, "title": "\ubbf8\uc2a4\ud130 \uc880\ube44", "original_title": "\ubbf8\uc2a4\ud130 \uc880\ube44", "slug_title": "miseuteo-jombi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 187716, "title": "Universal Groove", "original_title": "Universal Groove", "slug_title": "universal-groove", "date": "2007-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corey Haim (Jim)", "Chris Mulkey (The Agent)", "Anne Bedian (Eve)"], "comments": [], "recommandations_id": []}

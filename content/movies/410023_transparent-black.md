@@ -1,0 +1,1 @@
+{"tmdb_id": 410023, "title": "Transparent Black", "original_title": "Transparent Black", "slug_title": "transparent-black", "date": "2010-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDO3IbpKFk1H1dsFX31zoT53jEB.jpg", "actors": [], "comments": [], "recommandations_id": []}

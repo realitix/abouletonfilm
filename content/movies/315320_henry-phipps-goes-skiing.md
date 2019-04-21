@@ -1,0 +1,1 @@
+{"tmdb_id": 315320, "title": "Henry Phipps Goes Skiing", "original_title": "Henry Phipps Goes Skiing", "slug_title": "henry-phipps-goes-skiing", "date": "1976-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Babe Sargent (Henry Phipps)"], "comments": [], "recommandations_id": []}

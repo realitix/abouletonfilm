@@ -1,0 +1,1 @@
+{"tmdb_id": 280613, "title": "Canadian Pacific I", "original_title": "Canadian Pacific I", "slug_title": "canadian-pacific-i", "date": "1974-07-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eHxHVAzfnKLbPpq2pvDoQ2wR3iB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 506724, "title": "Abode of the Snows", "original_title": "Abode of the Snows", "slug_title": "abode-of-the-snows", "date": "1970-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUMUcYPkhvJWkSO3y9wCzgf1h6B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587436, "title": "Total Control", "original_title": "Total Control", "slug_title": "total-control", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571838, "title": "Die Kinder sind tot", "original_title": "Die Kinder sind tot", "slug_title": "die-kinder-sind-tot", "date": "2004-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87R3SgTW1XUu2YZsPMFubOZi9yp.jpg", "actors": [], "comments": [], "recommandations_id": []}

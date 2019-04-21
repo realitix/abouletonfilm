@@ -1,0 +1,1 @@
+{"tmdb_id": 455421, "title": "Dancing with Jikji", "original_title": "\uc9c1\uc9c0\ucf54\ub4dc", "slug_title": "dancing-with-jikji", "date": "2017-06-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FMgLUuAzAjyyaIpYvM7OHiAmSZ.jpg", "actors": ["David Redman ()"], "comments": [], "recommandations_id": []}

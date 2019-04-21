@@ -1,0 +1,1 @@
+{"tmdb_id": 562053, "title": "Io sono Valentina Nappi + Queen Kong", "original_title": "Io sono Valentina Nappi + Queen Kong", "slug_title": "io-sono-valentina-nappi-queen-kong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

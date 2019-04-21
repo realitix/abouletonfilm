@@ -1,0 +1,1 @@
+{"tmdb_id": 211805, "title": "Slowking's Day", "original_title": "Yadoking no Ichinichi", "slug_title": "slowking-s-day", "date": "2000-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLMUaXIHP8IhSThyeEw28FyCJxw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393977, "title": "RPW: When Thunder Strikes", "original_title": "RPW: When Thunder Strikes", "slug_title": "rpw-when-thunder-strikes", "date": "2013-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCuSpACM7Xf6Cu6lyVj8JZ00sig.jpg", "actors": [], "comments": [], "recommandations_id": []}

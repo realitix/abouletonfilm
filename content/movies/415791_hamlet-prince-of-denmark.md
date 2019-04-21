@@ -1,0 +1,1 @@
+{"tmdb_id": 415791, "title": "Hamlet, Prince of Denmark", "original_title": "Hamlet, Prince of Denmark", "slug_title": "hamlet-prince-of-denmark", "date": "1907-11-01", "genre": "Drame", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

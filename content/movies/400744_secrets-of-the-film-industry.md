@@ -1,0 +1,1 @@
+{"tmdb_id": 400744, "title": "Secrets of the Film Industry", "original_title": "Secrets of the Film Industry", "slug_title": "secrets-of-the-film-industry", "date": "1922-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

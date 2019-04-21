@@ -1,0 +1,1 @@
+{"tmdb_id": 513743, "title": "The Exposition of Anna Zharkov", "original_title": "The Exposition of Anna Zharkov", "slug_title": "the-exposition-of-anna-zharkov", "date": "2001-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

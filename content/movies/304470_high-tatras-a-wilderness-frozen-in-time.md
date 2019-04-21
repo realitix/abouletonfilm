@@ -1,0 +1,1 @@
+{"tmdb_id": 304470, "title": "High Tatras - A Wilderness Frozen in Time", "original_title": "High Tatras - A Wilderness Frozen in Time", "slug_title": "high-tatras-a-wilderness-frozen-in-time", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

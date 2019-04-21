@@ -1,0 +1,1 @@
+{"tmdb_id": 493277, "title": "The Forgotten City", "original_title": "The Forgotten City", "slug_title": "the-forgotten-city", "date": "2006-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/niHPq7GfWW1G60kRZyb28MD0dW0.jpg", "actors": [], "comments": [], "recommandations_id": []}

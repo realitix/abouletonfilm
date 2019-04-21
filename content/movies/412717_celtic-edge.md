@@ -1,0 +1,1 @@
+{"tmdb_id": 412717, "title": "Celtic Edge", "original_title": "Celtic Edge", "slug_title": "celtic-edge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ashley MacIsaac ()", "Shannon Quinn ()", "Jay Andrews ()", "Maxim Cormier ()"], "comments": [], "recommandations_id": []}

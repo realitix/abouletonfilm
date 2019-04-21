@@ -1,0 +1,1 @@
+{"tmdb_id": 569334, "title": "Brooding Angels, Made for R.L.", "original_title": "Brooding Angels, Made for R.L.", "slug_title": "brooding-angels-made-for-r-l", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

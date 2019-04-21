@@ -1,0 +1,1 @@
+{"tmdb_id": 322108, "title": "Jack the Ripper in America", "original_title": "Jack the Ripper in America", "slug_title": "jack-the-ripper-in-america", "date": "2009-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

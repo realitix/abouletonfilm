@@ -1,0 +1,1 @@
+{"tmdb_id": 413776, "title": "Farouk, Besieged Like Me", "original_title": "Un Assi\u00e9g\u00e9 Comme Moi", "slug_title": "farouk-besieged-like-me", "date": "2016-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

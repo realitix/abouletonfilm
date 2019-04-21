@@ -1,0 +1,1 @@
+{"tmdb_id": 269002, "title": "Welcome Back, Potter", "original_title": "Welcome Back, Potter", "slug_title": "welcome-back-potter", "date": "2014-05-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katy Stoll ()", "Michael Swaim ()", "Daniel O'Brien ()"], "comments": [], "recommandations_id": []}

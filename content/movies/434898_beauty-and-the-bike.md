@@ -1,0 +1,1 @@
+{"tmdb_id": 434898, "title": "Beauty and the Bike", "original_title": "Beauty and the Bike", "slug_title": "beauty-and-the-bike", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 436010, "title": "Peggy and Fred in Kansas", "original_title": "Peggy and Fred in Kansas", "slug_title": "peggy-and-fred-in-kansas", "date": "1987-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oT9CidXnjkI03tIm7Qy4TbAhDdn.jpg", "actors": [], "comments": [], "recommandations_id": []}

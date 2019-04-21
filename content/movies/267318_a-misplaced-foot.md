@@ -1,0 +1,1 @@
+{"tmdb_id": 267318, "title": "A Misplaced Foot", "original_title": "A Misplaced Foot", "slug_title": "a-misplaced-foot", "date": "1914-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mabel Normand (Mabel)", "Roscoe 'Fatty' Arbuckle (Fatty)", "Minta Durfee ()"], "comments": [], "recommandations_id": []}

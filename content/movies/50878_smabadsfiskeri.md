@@ -1,0 +1,1 @@
+{"tmdb_id": 50878, "title": "Sm\u00e5b\u00e5dsfiskeri", "original_title": "Sm\u00e5b\u00e5dsfiskeri", "slug_title": "smabadsfiskeri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3GJdVeDn2uieKdxOMfgmcORiQSx.jpg", "actors": [], "comments": [], "recommandations_id": []}

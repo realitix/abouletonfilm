@@ -1,0 +1,1 @@
+{"tmdb_id": 514607, "title": "Fire of Men", "original_title": "Il fuoco degli uomini", "slug_title": "fire-of-men", "date": "2017-05-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l25AYStTFBmaIn7KgORhKYrTO8R.jpg", "actors": [], "comments": [], "recommandations_id": []}

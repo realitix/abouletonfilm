@@ -1,0 +1,1 @@
+{"tmdb_id": 516240, "title": "Ace and the Desert Dog", "original_title": "Ace and the Desert Dog", "slug_title": "ace-and-the-desert-dog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

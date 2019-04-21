@@ -1,0 +1,1 @@
+{"tmdb_id": 489735, "title": "La Competitiva", "original_title": "La Competitiva", "slug_title": "la-competitiva", "date": "2010-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583817, "title": "Rosa's Esperanza", "original_title": "Rosa's Esperanza", "slug_title": "rosa-s-esperanza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2LH06K6OFzTYrh6Xdy26TFiAfc.jpg", "actors": [], "comments": [], "recommandations_id": []}

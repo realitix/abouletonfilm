@@ -1,0 +1,1 @@
+{"tmdb_id": 475243, "title": "Alternatives to Dentists", "original_title": "Alternatives to Dentists", "slug_title": "alternatives-to-dentists", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vEUiA4X1gKQMGJhIq9AgnTHeA0m.jpg", "actors": [], "comments": [], "recommandations_id": []}

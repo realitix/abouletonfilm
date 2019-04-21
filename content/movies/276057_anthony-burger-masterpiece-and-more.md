@@ -1,0 +1,1 @@
+{"tmdb_id": 276057, "title": "Anthony Burger: Masterpiece and More", "original_title": "Anthony Burger: Masterpiece and More", "slug_title": "anthony-burger-masterpiece-and-more", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 245910, "title": "1MC: Something of Vengeance", "original_title": "1MC: Something of Vengeance", "slug_title": "1mc-something-of-vengeance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meegan Warner (Mary Sue)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477334, "title": "The Bedspread", "original_title": "The Bedspread", "slug_title": "the-bedspread", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSSd9JdwETCPbvGE8scr6BVQNB5.jpg", "actors": ["Laura Cannon ()"], "comments": [], "recommandations_id": []}

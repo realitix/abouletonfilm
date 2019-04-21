@@ -1,0 +1,1 @@
+{"tmdb_id": 417238, "title": "Space Fucks", "original_title": "Space Fucks", "slug_title": "space-fucks", "date": "1998-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl J. Sukenick ()", "Joe Franklin ()"], "comments": [], "recommandations_id": []}

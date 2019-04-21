@@ -1,0 +1,1 @@
+{"tmdb_id": 136330, "title": "Erasmo Carlos - Ao Vivo", "original_title": "Erasmo Carlos - Ao Vivo", "slug_title": "erasmo-carlos-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOhuOg85R1MZZZBnoPx2Sifskxj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 30683, "title": "Pink: A Life Less Ordinary", "original_title": "Pink: A Life Less Ordinary", "slug_title": "pink-a-life-less-ordinary", "date": "2009-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pink (herself)"], "comments": [], "recommandations_id": []}

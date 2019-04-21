@@ -1,0 +1,1 @@
+{"tmdb_id": 124448, "title": "Bratz: Glitz 'n' Glamour", "original_title": "Bratz: Glitz 'n' Glamour", "slug_title": "bratz-glitz-n-glamour", "date": "2006-01-01", "genre": "Familial", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zEMiLfxZmc49AvfInQn9EIx06Gw.jpg", "actors": [], "comments": [], "recommandations_id": []}

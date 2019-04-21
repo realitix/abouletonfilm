@@ -1,0 +1,1 @@
+{"tmdb_id": 483330, "title": "Dawson City: Postscript", "original_title": "Dawson City: Postscript", "slug_title": "dawson-city-postscript", "date": "2017-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

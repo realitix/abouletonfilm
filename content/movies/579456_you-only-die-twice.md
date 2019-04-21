@@ -1,0 +1,1 @@
+{"tmdb_id": 579456, "title": "You Only Die Twice", "original_title": "\u05d0\u05ea\u05d4 \u05de\u05ea \u05e8\u05e7 \u05e4\u05e2\u05de\u05d9\u05d9\u05dd", "slug_title": "you-only-die-twice", "date": "2018-05-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yair Lev (Himself)"], "comments": [], "recommandations_id": []}

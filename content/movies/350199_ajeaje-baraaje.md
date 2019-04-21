@@ -1,0 +1,1 @@
+{"tmdb_id": 350199, "title": "\uc544\uc81c\uc544\uc81c \ubc14\ub77c\uc544\uc81c", "original_title": "\uc544\uc81c\uc544\uc81c \ubc14\ub77c\uc544\uc81c", "slug_title": "ajeaje-baraaje", "date": "1989-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

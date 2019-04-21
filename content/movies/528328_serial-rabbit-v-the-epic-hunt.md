@@ -1,0 +1,1 @@
+{"tmdb_id": 528328, "title": "Serial Rabbit V: The Epic Hunt", "original_title": "Serial Rabbit V: The Epic Hunt", "slug_title": "serial-rabbit-v-the-epic-hunt", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDsweomnOwmed9OEQ3SUd0fP3bE.jpg", "actors": [], "comments": [], "recommandations_id": []}

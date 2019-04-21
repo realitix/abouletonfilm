@@ -1,0 +1,1 @@
+{"tmdb_id": 308455, "title": "Double-Stop", "original_title": "Double-Stop", "slug_title": "double-stop", "date": "1968-04-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremiah Sullivan (Mike Westfall)", "Mimi Torchin (Katherine Westfall)"], "comments": [], "recommandations_id": []}

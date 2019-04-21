@@ -1,0 +1,1 @@
+{"tmdb_id": 349339, "title": "\ube14\ub799 \ud2b8\ub9ac\uc624", "original_title": "\ube14\ub799 \ud2b8\ub9ac\uc624", "slug_title": "beulraeg-teurio", "date": "1998-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

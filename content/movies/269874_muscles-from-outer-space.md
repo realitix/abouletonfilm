@@ -1,0 +1,1 @@
+{"tmdb_id": 269874, "title": "Muscles from Outer Space", "original_title": "Muscles from Outer Space", "slug_title": "muscles-from-outer-space", "date": "1962-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

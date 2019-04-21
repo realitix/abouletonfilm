@@ -1,0 +1,1 @@
+{"tmdb_id": 257774, "title": "Bhavantarana", "original_title": "Bhavantarana", "slug_title": "bhavantarana", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bEPi2VfYseGKGkZJlDPKfy3gA5B.jpg", "actors": ["Kelucharan Mohapatra ()"], "comments": [], "recommandations_id": []}

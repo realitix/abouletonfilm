@@ -1,0 +1,1 @@
+{"tmdb_id": 301207, "title": "Sono Un Fenomeno Paranormale / Babasci\u00f2", "original_title": "Sono Un Fenomeno Paranormale / Babasci\u00f2", "slug_title": "sono-un-fenomeno-paranormale-babascio", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

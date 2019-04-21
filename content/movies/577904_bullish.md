@@ -1,0 +1,1 @@
+{"tmdb_id": 577904, "title": "Bullish", "original_title": "Bullish", "slug_title": "bullish", "date": "2015-06-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

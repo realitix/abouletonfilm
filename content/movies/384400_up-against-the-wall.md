@@ -1,0 +1,1 @@
+{"tmdb_id": 384400, "title": "Up Against the Wall", "original_title": "Up Against the Wall", "slug_title": "up-against-the-wall", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

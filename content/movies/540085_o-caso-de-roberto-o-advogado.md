@@ -1,0 +1,1 @@
+{"tmdb_id": 540085, "title": "O Caso de Roberto o Advogado", "original_title": "O Caso de Roberto o Advogado", "slug_title": "o-caso-de-roberto-o-advogado", "date": "2015-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

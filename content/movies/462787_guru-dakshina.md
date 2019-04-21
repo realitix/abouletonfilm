@@ -1,0 +1,1 @@
+{"tmdb_id": 462787, "title": "Guru Dakshina", "original_title": "Guru Dakshina", "slug_title": "guru-dakshina", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

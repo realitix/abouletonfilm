@@ -1,0 +1,1 @@
+{"tmdb_id": 236559, "title": "The Wizard of Arts", "original_title": "The Wizard of Arts", "slug_title": "the-wizard-of-arts", "date": "1941-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

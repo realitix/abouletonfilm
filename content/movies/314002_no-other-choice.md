@@ -1,0 +1,1 @@
+{"tmdb_id": 314002, "title": "No Other Choice", "original_title": "La badil", "slug_title": "no-other-choice", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0GNMdZRxfEYK8wAyAspIr7w94d.jpg", "actors": [], "comments": [], "recommandations_id": []}

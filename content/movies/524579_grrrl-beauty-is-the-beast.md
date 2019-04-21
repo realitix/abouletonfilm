@@ -1,0 +1,1 @@
+{"tmdb_id": 524579, "title": "GRRRL: Beauty Is The Beast", "original_title": "GRRRL: Beauty Is The Beast", "slug_title": "grrrl-beauty-is-the-beast", "date": "2018-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

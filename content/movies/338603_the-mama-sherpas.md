@@ -1,0 +1,1 @@
+{"tmdb_id": 338603, "title": "The Mama Sherpas", "original_title": "The Mama Sherpas", "slug_title": "the-mama-sherpas", "date": "2015-07-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYiWS3hKkATIWScRfUX8YyKopVU.jpg", "actors": [], "comments": [], "recommandations_id": []}

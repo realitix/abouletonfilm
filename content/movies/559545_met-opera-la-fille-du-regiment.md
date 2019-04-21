@@ -1,0 +1,1 @@
+{"tmdb_id": 559545, "title": "Met Opera: La Fille du R\u00e9giment", "original_title": "Met Opera: La Fille du R\u00e9giment", "slug_title": "met-opera-la-fille-du-regiment", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gWLWhl1bRFk6QW3JC4arS186u8n.jpg", "actors": [], "comments": [], "recommandations_id": []}

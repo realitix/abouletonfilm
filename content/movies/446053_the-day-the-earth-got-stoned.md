@@ -1,0 +1,1 @@
+{"tmdb_id": 446053, "title": "The Day the Earth Got Stoned", "original_title": "The Day the Earth Got Stoned", "slug_title": "the-day-the-earth-got-stoned", "date": "1976-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

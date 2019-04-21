@@ -1,0 +1,1 @@
+{"tmdb_id": 284598, "title": "Conference Call", "original_title": "Conference Call", "slug_title": "conference-call", "date": "2014-07-31", "genre": "Com\u00e9die", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUrpkL86lAU1i0btr9y1VaQaz7c.jpg", "actors": ["John Karas (Himself)"], "comments": [], "recommandations_id": []}

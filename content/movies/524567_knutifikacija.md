@@ -1,0 +1,1 @@
+{"tmdb_id": 524567, "title": "Knutifik\u0101cija", "original_title": "Knutifik\u0101cija", "slug_title": "knutifikacija", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/thhB7BC8FLW4JwFScoL6fICe0QC.jpg", "actors": [], "comments": [], "recommandations_id": []}

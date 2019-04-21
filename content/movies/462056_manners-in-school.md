@@ -1,0 +1,1 @@
+{"tmdb_id": 462056, "title": "Manners in School", "original_title": "Manners in School", "slug_title": "manners-in-school", "date": "1958-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfdhoQ7ERfdBLIXXKEB2xshUV6w.jpg", "actors": [], "comments": [], "recommandations_id": []}

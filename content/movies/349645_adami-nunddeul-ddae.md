@@ -1,0 +1,1 @@
+{"tmdb_id": 349645, "title": "\uc544\ub2f4\uc774 \ub208\ub730 \ub54c", "original_title": "\uc544\ub2f4\uc774 \ub208\ub730 \ub54c", "slug_title": "adami-nunddeul-ddae", "date": "1993-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574897, "title": "One shot", "original_title": "One shot", "slug_title": "one-shot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idCZhlZphfRJ2m4aHFcocIxgfqG.jpg", "actors": ["Mar\u00eda Laura Alem\u00e1n ()", "Esther Goris ()", "Bel\u00e9n Blanco ()"], "comments": [], "recommandations_id": []}

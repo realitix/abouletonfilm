@@ -1,0 +1,1 @@
+{"tmdb_id": 396793, "title": "China: The Roots of Madness", "original_title": "China: The Roots of Madness", "slug_title": "china-the-roots-of-madness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

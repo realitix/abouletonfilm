@@ -1,0 +1,1 @@
+{"tmdb_id": 294224, "title": "One Way Boogie Woogie", "original_title": "One Way Boogie Woogie", "slug_title": "one-way-boogie-woogie", "date": "2012-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hp8Qt9jwIiR5Q0gkLjaJZlmLuLr.jpg", "actors": [], "comments": [], "recommandations_id": []}

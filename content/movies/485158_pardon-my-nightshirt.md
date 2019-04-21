@@ -1,0 +1,1 @@
+{"tmdb_id": 485158, "title": "Pardon My Nightshirt", "original_title": "Pardon My Nightshirt", "slug_title": "pardon-my-nightshirt", "date": "1956-11-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Professor Clyde)"], "comments": [], "recommandations_id": []}

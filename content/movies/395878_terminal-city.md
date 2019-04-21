@@ -1,0 +1,1 @@
+{"tmdb_id": 395878, "title": "Terminal City", "original_title": "Terminal City", "slug_title": "terminal-city", "date": "1982-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1Fkeui58Eqyfmp8WNtgEXv5xij.jpg", "actors": [], "comments": [], "recommandations_id": []}

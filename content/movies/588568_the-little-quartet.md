@@ -1,0 +1,1 @@
+{"tmdb_id": 588568, "title": "The Little Quartet", "original_title": "Kwartecik", "slug_title": "the-little-quartet", "date": "1965-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5stbugVzwJ3CwC87LmQpD77MiNG.jpg", "actors": [], "comments": [], "recommandations_id": []}

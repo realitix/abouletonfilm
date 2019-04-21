@@ -1,0 +1,1 @@
+{"tmdb_id": 357746, "title": "Omozap in Artwar", "original_title": "Omozap in Artwar", "slug_title": "omozap-in-artwar", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4V07ZReQzIj5WznRdK3DcK7j5Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

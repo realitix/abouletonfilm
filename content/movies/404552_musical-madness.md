@@ -1,0 +1,1 @@
+{"tmdb_id": 404552, "title": "Musical Madness", "original_title": "Musical Madness", "slug_title": "musical-madness", "date": "1951-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

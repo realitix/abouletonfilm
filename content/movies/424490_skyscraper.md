@@ -1,0 +1,1 @@
+{"tmdb_id": 424490, "title": "Skyscraper", "original_title": "Skyscraper", "slug_title": "skyscraper", "date": "1965-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pola Chapelle ()", "Paul Sorvino ()"], "comments": [], "recommandations_id": []}

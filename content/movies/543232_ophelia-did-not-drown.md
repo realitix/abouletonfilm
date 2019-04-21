@@ -1,0 +1,1 @@
+{"tmdb_id": 543232, "title": "Ophelia Did Not Drown", "original_title": "Ofelia non annega", "slug_title": "ophelia-did-not-drown", "date": "2016-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDmxCVlHrPNUuk4imUqCCpP21YO.jpg", "actors": [], "comments": [], "recommandations_id": []}

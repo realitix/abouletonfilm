@@ -1,0 +1,1 @@
+{"tmdb_id": 328658, "title": "Nuremberg", "original_title": "Nuremberg", "slug_title": "nuremberg", "date": "1949-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29mjVAlDbYildqj7VIOtOE51ArP.jpg", "actors": [], "comments": [], "recommandations_id": []}

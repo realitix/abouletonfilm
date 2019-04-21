@@ -1,0 +1,1 @@
+{"tmdb_id": 390030, "title": "A Nice Neighbor", "original_title": "A kedves szomsz\u00e9d", "slug_title": "a-nice-neighbor", "date": "1979-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMKk0O9ih6N7nT4UlhC9s8LABkE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583767, "title": "Der Puppengeiger", "original_title": "Der Puppengeiger", "slug_title": "der-puppengeiger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lKMASAVas889uFlpuK3E8Y5bWGs.jpg", "actors": [], "comments": [], "recommandations_id": []}

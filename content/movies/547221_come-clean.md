@@ -1,0 +1,1 @@
+{"tmdb_id": 547221, "title": "Come Clean", "original_title": "Come Clean", "slug_title": "come-clean", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Mate (Jeremy)", "Jack Littman (Mark)", "Barbara A. Fisher (Support Group Leader)", "Richard Sabine (Mike)"], "comments": [], "recommandations_id": []}

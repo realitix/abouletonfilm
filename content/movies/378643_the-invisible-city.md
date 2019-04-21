@@ -1,0 +1,1 @@
+{"tmdb_id": 378643, "title": "The Invisible City", "original_title": "The Invisible City", "slug_title": "the-invisible-city", "date": "2014-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rXfNdQPnLIg69U70S8YmAMdRt6B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 91482, "title": "Mondo Freudo", "original_title": "Mondo Freudo", "slug_title": "mondo-freudo", "date": "1966-04-26", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQnfrbQRBAzRMTJl8PbfbbQplwl.jpg", "actors": [], "comments": [], "recommandations_id": [91481]}

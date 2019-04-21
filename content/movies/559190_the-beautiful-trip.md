@@ -1,0 +1,1 @@
+{"tmdb_id": 559190, "title": "The Beautiful Trip", "original_title": "Le beau voyage", "slug_title": "the-beautiful-trip", "date": "1947-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mIPMd5QzheHxGq7haA6CfWtDBbp.jpg", "actors": [], "comments": [], "recommandations_id": []}

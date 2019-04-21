@@ -1,0 +1,1 @@
+{"tmdb_id": 580631, "title": "I am the sun.", "original_title": "I am the sun.", "slug_title": "i-am-the-sun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

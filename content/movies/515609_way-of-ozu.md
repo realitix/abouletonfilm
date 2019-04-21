@@ -1,0 +1,1 @@
+{"tmdb_id": 515609, "title": "Way of Ozu", "original_title": "Way of Ozu", "slug_title": "way-of-ozu", "date": "2016-02-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mscODf3CtimRuwkd72q5mN3xg9V.jpg", "actors": [], "comments": [], "recommandations_id": []}

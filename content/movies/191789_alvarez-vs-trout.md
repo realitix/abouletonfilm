@@ -1,0 +1,1 @@
+{"tmdb_id": 191789, "title": "Alvarez vs Trout", "original_title": "Alvarez vs Trout", "slug_title": "alvarez-vs-trout", "date": "2013-04-20", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xW48FjCYq3fdI0JqSmoB3e7E0Gd.jpg", "actors": ["Saul Alvarez ()", "Austin Trout ()"], "comments": [], "recommandations_id": []}

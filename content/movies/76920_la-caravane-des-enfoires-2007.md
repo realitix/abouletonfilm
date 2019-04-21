@@ -1,0 +1,1 @@
+{"tmdb_id": 76920, "title": "La caravane des Enfoir\u00e9s 2007", "original_title": "La caravane des Enfoir\u00e9s 2007", "slug_title": "la-caravane-des-enfoires-2007", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Spectacle de 2007", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 496479, "title": "Magic Kimono", "original_title": "Magic Kimono", "slug_title": "magic-kimono", "date": "2017-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/skt6rfuXF11H69C9keGPyBfS8J4.jpg", "actors": ["Kaori Momoi (Keiko)", "Issei Ogata (Man)"], "comments": [], "recommandations_id": []}

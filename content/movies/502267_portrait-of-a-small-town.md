@@ -1,0 +1,1 @@
+{"tmdb_id": 502267, "title": "Portrait of a Small Town", "original_title": "Portret ma\u0142ego miasta", "slug_title": "portrait-of-a-small-town", "date": "1961-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

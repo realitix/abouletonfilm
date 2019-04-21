@@ -1,0 +1,1 @@
+{"tmdb_id": 327667, "title": "The Chinatown Mystery", "original_title": "The Chinatown Mystery", "slug_title": "the-chinatown-mystery", "date": "1928-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

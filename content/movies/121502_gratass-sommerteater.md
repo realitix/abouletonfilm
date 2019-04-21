@@ -1,0 +1,1 @@
+{"tmdb_id": 121502, "title": "Gr\u00e5tass - Sommerteater", "original_title": "Gr\u00e5tass - Sommerteater", "slug_title": "gratass-sommerteater", "date": "2003-05-03", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzhvQSJc5QGhE0lwX9NTpHTHphA.jpg", "actors": [], "comments": [], "recommandations_id": []}

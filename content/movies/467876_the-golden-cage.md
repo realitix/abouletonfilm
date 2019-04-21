@@ -1,0 +1,1 @@
+{"tmdb_id": 467876, "title": "The Golden Cage", "original_title": "The Golden Cage", "slug_title": "the-golden-cage", "date": "1975-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63ObSL92kkZojzOPcTCJ39kOrzd.jpg", "actors": [], "comments": [], "recommandations_id": []}

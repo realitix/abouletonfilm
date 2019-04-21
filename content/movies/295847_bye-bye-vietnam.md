@@ -1,0 +1,1 @@
+{"tmdb_id": 295847, "title": "Bye Bye Vietnam", "original_title": "Bye Bye Vietnam", "slug_title": "bye-bye-vietnam", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDDcJF6xOYjby2n8A0nIGYbAm4K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 258049, "title": "Mother Earth", "original_title": "Ama Lur", "slug_title": "mother-earth", "date": "1968-07-10", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vEyqAwj1PAlcd7a987t9HmYtbeC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 338222, "title": "The Grievance Group", "original_title": "The Grievance Group", "slug_title": "the-grievance-group", "date": "2014-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

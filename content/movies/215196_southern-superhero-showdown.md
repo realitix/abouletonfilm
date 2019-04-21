@@ -1,0 +1,1 @@
+{"tmdb_id": 215196, "title": "Southern Superhero Showdown", "original_title": "\ucd0c\ub2a5\ub825\uc804\uc7c1", "slug_title": "southern-superhero-showdown", "date": "2013-07-20", "genre": "Com\u00e9die / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

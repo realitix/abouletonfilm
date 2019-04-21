@@ -1,0 +1,1 @@
+{"tmdb_id": 486252, "title": "El matrero", "original_title": "El matrero", "slug_title": "el-matrero", "date": "1924-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 94, "title": "Kunstgriff", "original_title": "Kunstgriff", "slug_title": "kunstgriff", "date": "2002-01-01", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ursula Buschhorn (Taschendiebin)", "Hans-Werner Meyer (Taschendieb)"], "comments": [], "recommandations_id": []}

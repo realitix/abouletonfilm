@@ -1,0 +1,1 @@
+{"tmdb_id": 349644, "title": "\uaf43\uc744 \ub4e0 \ub0a8\uc790", "original_title": "\uaf43\uc744 \ub4e0 \ub0a8\uc790", "slug_title": "ggoceul-deun-namja", "date": "1997-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

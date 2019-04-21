@@ -1,0 +1,1 @@
+{"tmdb_id": 269889, "title": "Nada Tenho de Meu", "original_title": "Nada Tenho de Meu", "slug_title": "nada-tenho-de-meu", "date": "2013-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yIf3tgN7AaNKmbcLpOh2RyppYQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

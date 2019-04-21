@@ -1,0 +1,1 @@
+{"tmdb_id": 318867, "title": "The World Is Burning", "original_title": "The World Is Burning", "slug_title": "the-world-is-burning", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

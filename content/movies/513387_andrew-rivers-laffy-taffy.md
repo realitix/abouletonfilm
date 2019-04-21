@@ -1,0 +1,1 @@
+{"tmdb_id": 513387, "title": "Andrew Rivers: Laffy Taffy", "original_title": "Andrew Rivers: Laffy Taffy", "slug_title": "andrew-rivers-laffy-taffy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDLFqSOsbAj27ytol6VOGeJtFwz.jpg", "actors": [], "comments": [], "recommandations_id": []}

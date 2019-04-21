@@ -1,0 +1,1 @@
+{"tmdb_id": 530440, "title": "Kurt - You Shall Laugh", "original_title": "Kurt oder Du sollst lachen", "slug_title": "kurt-you-shall-laugh", "date": "1992-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBG4wKdC0qSBNkaZO14fnNmfCif.jpg", "actors": [], "comments": [], "recommandations_id": []}

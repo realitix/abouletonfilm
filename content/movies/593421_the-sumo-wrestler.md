@@ -1,0 +1,1 @@
+{"tmdb_id": 593421, "title": "The Sumo Wrestler", "original_title": "The Sumo Wrestler", "slug_title": "the-sumo-wrestler", "date": "2014-02-06", "genre": "Com\u00e9die / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amos Kollek (Jack)", "Karen Young (Kathy)"], "comments": [], "recommandations_id": []}

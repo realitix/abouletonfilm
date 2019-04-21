@@ -1,0 +1,1 @@
+{"tmdb_id": 276963, "title": "Cute & Cuddly Critters: Kitsie the Coyote", "original_title": "Cute & Cuddly Critters: Kitsie the Coyote", "slug_title": "cute-cuddly-critters-kitsie-the-coyote", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

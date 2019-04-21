@@ -1,0 +1,1 @@
+{"tmdb_id": 186179, "title": "Jews and Money: Investigation of a Myth", "original_title": "Jews and Money: Investigation of a Myth", "slug_title": "jews-and-money-investigation-of-a-myth", "date": "2013-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

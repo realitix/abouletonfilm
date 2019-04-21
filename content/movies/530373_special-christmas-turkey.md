@@ -1,0 +1,1 @@
+{"tmdb_id": 530373, "title": "Special Christmas Turkey", "original_title": "Special Christmas Turkey", "slug_title": "special-christmas-turkey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AnXKlVkHBTcDoiRt0MKqLREssK.jpg", "actors": ["MasaoHF (Himself)"], "comments": [], "recommandations_id": []}

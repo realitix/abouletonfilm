@@ -1,0 +1,1 @@
+{"tmdb_id": 342779, "title": "Killer Stories", "original_title": "Killer Stories", "slug_title": "killer-stories", "date": "2011-10-04", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

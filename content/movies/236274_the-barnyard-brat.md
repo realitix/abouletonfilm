@@ -1,0 +1,1 @@
+{"tmdb_id": 236274, "title": "The Barnyard Brat", "original_title": "The Barnyard Brat", "slug_title": "the-barnyard-brat", "date": "1939-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHZyG1XoHr6VtzdupR6PwLiLiKX.jpg", "actors": [], "comments": [], "recommandations_id": []}

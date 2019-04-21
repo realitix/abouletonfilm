@@ -1,0 +1,1 @@
+{"tmdb_id": 404098, "title": "The Challenge of Manufacturing", "original_title": "The Challenge of Manufacturing", "slug_title": "the-challenge-of-manufacturing", "date": "1996-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySUbARTmmfyZDgl0VelbEC8kqil.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307212, "title": "Chandanada Gombe", "original_title": "Chandanada Gombe", "slug_title": "chandanada-gombe", "date": "1979-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278504, "title": "It's Geo's Dance Party", "original_title": "It's Geo's Dance Party", "slug_title": "it-s-geo-s-dance-party", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

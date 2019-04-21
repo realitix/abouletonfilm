@@ -1,0 +1,1 @@
+{"tmdb_id": 580490, "title": "Stigmata", "original_title": "Stigmata", "slug_title": "stigmata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzjnudlFNk5lpHcbGmEQR6SK7ld.jpg", "actors": [], "comments": [], "recommandations_id": []}

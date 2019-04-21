@@ -1,0 +1,1 @@
+{"tmdb_id": 477740, "title": "Blood, Sea, Film", "original_title": "Blood, Sea, Film", "slug_title": "blood-sea-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

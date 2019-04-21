@@ -1,0 +1,1 @@
+{"tmdb_id": 202415, "title": "Pistruiatul", "original_title": "Pistruiatul", "slug_title": "pistruiatul", "date": "", "genre": "", "score": "8.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345051, "title": "Affinities", "original_title": "Affinities", "slug_title": "affinities", "date": "1972-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

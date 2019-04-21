@@ -1,0 +1,1 @@
+{"tmdb_id": 205061, "title": "Always a Bridesmaid", "original_title": "Always a Bridesmaid", "slug_title": "always-a-bridesmaid", "date": "2000-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6srv826MGWXkfHtEwqTFOD0vF2c.jpg", "actors": [], "comments": [], "recommandations_id": []}

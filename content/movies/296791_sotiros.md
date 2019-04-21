@@ -1,0 +1,1 @@
+{"tmdb_id": 296791, "title": "Sotiros", "original_title": "Sotiros", "slug_title": "sotiros", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajc7BuLkMxNFpv5iafNvUEV9XLa.jpg", "actors": [], "comments": [], "recommandations_id": []}

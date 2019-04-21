@@ -1,0 +1,1 @@
+{"tmdb_id": 579178, "title": "Breakfast in Bed", "original_title": "Breakfast in Bed", "slug_title": "breakfast-in-bed", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

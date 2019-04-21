@@ -1,0 +1,1 @@
+{"tmdb_id": 398204, "title": "A Balinese Trance Seance", "original_title": "A Balinese Trance Seance", "slug_title": "a-balinese-trance-seance", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikGEghhuYapZjQlvXJj4t0JjNdV.jpg", "actors": [], "comments": [], "recommandations_id": []}

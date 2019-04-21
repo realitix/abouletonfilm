@@ -1,0 +1,1 @@
+{"tmdb_id": 382347, "title": "NWA Wrestle War 1989", "original_title": "NWA Wrestle War 1989", "slug_title": "nwa-wrestle-war-1989", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epXgLvUnKXgmK8tEzFCJ9pxRCJw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491103, "title": "Police Nurse", "original_title": "Police Nurse", "slug_title": "police-nurse", "date": "1963-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRfIHlVsWDQ9UVHE1ZTDdZgsnRa.jpg", "actors": [], "comments": [], "recommandations_id": []}

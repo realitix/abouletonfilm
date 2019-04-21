@@ -1,0 +1,1 @@
+{"tmdb_id": 26526, "title": "Bastardy", "original_title": "Bastardy", "slug_title": "bastardy", "date": "2008-08-03", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkNPxhYhIcRuw4SBJbTvt9RVApH.jpg", "actors": ["Jack Charles (Himself)"], "comments": [], "recommandations_id": []}

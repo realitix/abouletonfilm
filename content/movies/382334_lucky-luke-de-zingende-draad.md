@@ -1,0 +1,1 @@
+{"tmdb_id": 382334, "title": "Lucky Luke - De Zingende Draad", "original_title": "Lucky Luke - De Zingende Draad", "slug_title": "lucky-luke-de-zingende-draad", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ORBKuSppujscq1MQ75mRx5SmnI.jpg", "actors": [], "comments": [], "recommandations_id": []}

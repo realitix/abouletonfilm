@@ -1,0 +1,1 @@
+{"tmdb_id": 120020, "title": "The Cruel Mother", "original_title": "La Mar\u00e2tre", "slug_title": "the-cruel-mother", "date": "1906-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rLeCibyGRET3Ndi8lpuuPn21K3.jpg", "actors": [], "comments": [], "recommandations_id": [194042, 119988, 120003, 120007]}

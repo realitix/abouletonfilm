@@ -1,0 +1,1 @@
+{"tmdb_id": 543811, "title": "Zhalanash - Empty Shore", "original_title": "Zhalanash - Empty Shore", "slug_title": "zhalanash-empty-shore", "date": "2017-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

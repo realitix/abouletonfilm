@@ -1,0 +1,1 @@
+{"tmdb_id": 129488, "title": "O somma luce", "original_title": "O somma luce", "slug_title": "o-somma-luce", "date": "2011-01-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMg7XhoZkiWYWrRDzFb5niToOor.jpg", "actors": ["Giorgio Passerone ()"], "comments": [], "recommandations_id": []}

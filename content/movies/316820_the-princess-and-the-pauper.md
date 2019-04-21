@@ -1,0 +1,1 @@
+{"tmdb_id": 316820, "title": "The Princess and the Pauper", "original_title": "The Princess and the Pauper", "slug_title": "the-princess-and-the-pauper", "date": "1939-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

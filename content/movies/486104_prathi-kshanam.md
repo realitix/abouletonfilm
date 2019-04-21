@@ -1,0 +1,1 @@
+{"tmdb_id": 486104, "title": "Prathi Kshanam", "original_title": "Prathi Kshanam", "slug_title": "prathi-kshanam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

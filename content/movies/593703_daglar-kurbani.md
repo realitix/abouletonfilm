@@ -1,0 +1,1 @@
+{"tmdb_id": 593703, "title": "Daglar Kurbani", "original_title": "Daglar Kurbani", "slug_title": "daglar-kurbani", "date": "1973-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mN5RybhhcCi9Bj9xzWFxkiiOGLe.jpg", "actors": [], "comments": [], "recommandations_id": []}

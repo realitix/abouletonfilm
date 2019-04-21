@@ -1,0 +1,1 @@
+{"tmdb_id": 534936, "title": "Lifes A Beach", "original_title": "Lifes A Beach", "slug_title": "lifes-a-beach", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2gCbHUvQ79NlhyefssJGBkythA0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575038, "title": "Woman's Place & Dance", "original_title": "Woman's Place & Dance", "slug_title": "woman-s-place-dance", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

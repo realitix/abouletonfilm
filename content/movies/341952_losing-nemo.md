@@ -1,0 +1,1 @@
+{"tmdb_id": 341952, "title": "Losing Nemo", "original_title": "Losing Nemo", "slug_title": "losing-nemo", "date": "2013-11-26", "genre": "Drame / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6e5XzlLDcsnsFfakMxZe7VBvsl7.jpg", "actors": [], "comments": [], "recommandations_id": []}

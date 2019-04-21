@@ -1,0 +1,1 @@
+{"tmdb_id": 344463, "title": "Play Guitar Today!", "original_title": "Play Guitar Today!", "slug_title": "play-guitar-today", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

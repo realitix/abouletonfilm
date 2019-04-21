@@ -1,0 +1,1 @@
+{"tmdb_id": 326623, "title": "Anarchy, U.S.A.", "original_title": "Anarchy, U.S.A.", "slug_title": "anarchy-u-s-a", "date": "1966-02-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/upVGQnRCbYZCZ47cy5Ghup8LyjG.jpg", "actors": [], "comments": [], "recommandations_id": []}

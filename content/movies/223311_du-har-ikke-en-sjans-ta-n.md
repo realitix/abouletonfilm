@@ -1,0 +1,1 @@
+{"tmdb_id": 223311, "title": "Du har ikke en sjans - ta'n!", "original_title": "Du har ikke en sjans - ta'n!", "slug_title": "du-har-ikke-en-sjans-ta-n", "date": "1984-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bj\u00f8rn Sundquist ()", "Lasse Lindtner ()"], "comments": [], "recommandations_id": []}

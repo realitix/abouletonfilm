@@ -1,0 +1,1 @@
+{"tmdb_id": 334572, "title": "Hot Dogs", "original_title": "Hot Dogs", "slug_title": "hot-dogs", "date": "1920-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hank Mann ()", "Vernon Dent ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 336819, "title": "Elai Alai", "original_title": "Elai Alai", "slug_title": "elai-alai", "date": "1938-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UUB7s6KQhzv3vOOkz9JwUJNm3p.jpg", "actors": ["Jon Arriola 'El Irritzilari' ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 537077, "title": "Caracol Cruzando", "original_title": "Caracol Cruzando", "slug_title": "caracol-cruzando", "date": "2018-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qNysH4t8dTjamEMILgVkwitw9iV.jpg", "actors": [], "comments": [], "recommandations_id": []}

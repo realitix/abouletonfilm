@@ -1,0 +1,1 @@
+{"tmdb_id": 307866, "title": "Bhale Chathura", "original_title": "Bhale Chathura", "slug_title": "bhale-chathura", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

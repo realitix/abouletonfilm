@@ -1,0 +1,1 @@
+{"tmdb_id": 579400, "title": "Stardust", "original_title": "Stardust", "slug_title": "stardust", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Flynn (David Bowie)", "Jena Malone (Angie Bowie)", "Marc Maron (Ron Oberman)"], "comments": [], "recommandations_id": []}

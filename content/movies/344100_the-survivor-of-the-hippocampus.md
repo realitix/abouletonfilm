@@ -1,0 +1,1 @@
+{"tmdb_id": 344100, "title": "The Survivor of the Hippocampus", "original_title": "Le rescap\u00e9 de l'hippocampe", "slug_title": "the-survivor-of-the-hippocampus", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 589532, "title": "Papercut", "original_title": "Papercut", "slug_title": "papercut", "date": "2018-01-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josh Kieser (Kane)", "Kieton Beilby (Gabriel)", "Donnie Baxter (David, the driver)"], "comments": [], "recommandations_id": []}

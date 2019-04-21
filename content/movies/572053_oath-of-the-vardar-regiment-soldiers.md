@@ -1,0 +1,1 @@
+{"tmdb_id": 572053, "title": "Oath of the Vardar Regiment Soldiers", "original_title": "Zakletva regruta Vardarskog puka", "slug_title": "oath-of-the-vardar-regiment-soldiers", "date": "1914-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

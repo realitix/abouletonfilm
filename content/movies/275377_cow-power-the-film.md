@@ -1,0 +1,1 @@
+{"tmdb_id": 275377, "title": "Cow Power: The Film", "original_title": "Cow Power: The Film", "slug_title": "cow-power-the-film", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

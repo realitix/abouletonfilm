@@ -1,0 +1,1 @@
+{"tmdb_id": 279574, "title": "Between Kings and Queens", "original_title": "Between Kings and Queens", "slug_title": "between-kings-and-queens", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

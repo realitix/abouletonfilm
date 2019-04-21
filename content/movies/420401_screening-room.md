@@ -1,0 +1,1 @@
+{"tmdb_id": 420401, "title": "Screening Room", "original_title": "Screening Room", "slug_title": "screening-room", "date": "1965-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

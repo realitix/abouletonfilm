@@ -1,0 +1,1 @@
+{"tmdb_id": 248717, "title": "Serenal", "original_title": "Serenal", "slug_title": "serenal", "date": "1959-01-01", "genre": "", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ovzHBBILiQVxuReb52ULZWFBD9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

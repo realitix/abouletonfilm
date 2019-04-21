@@ -1,0 +1,1 @@
+{"tmdb_id": 401141, "title": "Captain Kidd's Kittens", "original_title": "Captain Kidd's Kittens", "slug_title": "captain-kidd-s-kittens", "date": "1927-10-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

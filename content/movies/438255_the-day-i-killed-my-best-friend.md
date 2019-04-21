@@ -1,0 +1,1 @@
+{"tmdb_id": 438255, "title": "The Day I Killed My Best Friend", "original_title": "The Day I Killed My Best Friend", "slug_title": "the-day-i-killed-my-best-friend", "date": "2013-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

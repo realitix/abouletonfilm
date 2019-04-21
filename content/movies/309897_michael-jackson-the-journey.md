@@ -1,0 +1,1 @@
+{"tmdb_id": 309897, "title": "Michael Jackson: The Journey", "original_title": "Michael Jackson: The Journey", "slug_title": "michael-jackson-the-journey", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

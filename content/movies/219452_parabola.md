@@ -1,0 +1,1 @@
+{"tmdb_id": 219452, "title": "Parabola", "original_title": "Parabola", "slug_title": "parabola", "date": "1937-09-05", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JchP2BOpyVZfaCewWrFdboCwB.jpg", "actors": [], "comments": [], "recommandations_id": [184519, 184522, 77851, 162612]}

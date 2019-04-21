@@ -1,0 +1,1 @@
+{"tmdb_id": 513906, "title": "Les Parisiennes", "original_title": "Les Parisiennes", "slug_title": "les-parisiennes", "date": "1897-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

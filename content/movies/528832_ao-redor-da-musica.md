@@ -1,0 +1,1 @@
+{"tmdb_id": 528832, "title": "Ao Redor da Musica", "original_title": "Ao Redor da Musica", "slug_title": "ao-redor-da-musica", "date": "2018-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

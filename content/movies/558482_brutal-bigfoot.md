@@ -1,0 +1,1 @@
+{"tmdb_id": 558482, "title": "Brutal Bigfoot", "original_title": "Brutal Bigfoot", "slug_title": "brutal-bigfoot", "date": "2018-08-28", "genre": "Documentaire / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOXZ21uaWmm65N7UcbQDofQZBHi.jpg", "actors": [], "comments": [], "recommandations_id": []}

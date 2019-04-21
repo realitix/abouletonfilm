@@ -1,0 +1,1 @@
+{"tmdb_id": 538800, "title": "Ekhrajiha 3", "original_title": "Ekhrajiha 3", "slug_title": "ekhrajiha-3", "date": "2011-07-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3JRU5OnqzPBODhHS6qUXq11paP.jpg", "actors": ["Akbar Abdi ()", "Mohammadreza Sharifinia ()"], "comments": [], "recommandations_id": []}

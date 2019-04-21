@@ -1,0 +1,1 @@
+{"tmdb_id": 328536, "title": "Paris Tosen's Things Everyone Should Know", "original_title": "Paris Tosen's Things Everyone Should Know", "slug_title": "paris-tosen-s-things-everyone-should-know", "date": "2015-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

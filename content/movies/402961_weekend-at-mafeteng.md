@@ -1,0 +1,1 @@
+{"tmdb_id": 402961, "title": "Weekend at Mafeteng", "original_title": "Mafelo a Beke Mafeteng", "slug_title": "weekend-at-mafeteng", "date": "2012-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prnh90I782WuYBoxdvRbzgGNJdj.jpg", "actors": [], "comments": [], "recommandations_id": []}

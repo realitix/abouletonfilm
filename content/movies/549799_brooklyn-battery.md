@@ -1,0 +1,1 @@
+{"tmdb_id": 549799, "title": "Brooklyn Battery", "original_title": "Brooklyn Battery", "slug_title": "brooklyn-battery", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

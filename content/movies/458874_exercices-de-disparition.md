@@ -1,0 +1,1 @@
+{"tmdb_id": 458874, "title": "Exercices de disparition", "original_title": "Exercices de disparition", "slug_title": "exercices-de-disparition", "date": "2011-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claudio Pazienza (Himself)", "Jacques Sojcher (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 240164, "title": "Weizenbaum. Rebel at Work", "original_title": "Weizenbaum. Rebel at Work", "slug_title": "weizenbaum-rebel-at-work", "date": "2007-01-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rwCDX2Yu9BxhLS0U3OvWr889Ce3.jpg", "actors": [], "comments": [], "recommandations_id": []}

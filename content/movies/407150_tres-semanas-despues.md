@@ -1,0 +1,1 @@
+{"tmdb_id": 407150, "title": "Tres semanas despu\u00e9s", "original_title": "Tres semanas despu\u00e9s", "slug_title": "tres-semanas-despues", "date": "2010-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2yDBRSe9oCi3ChqBeVAfqEU7Ow.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 542703, "title": "Lvoluten Osken", "original_title": "Lvoluten Osken", "slug_title": "lvoluten-osken", "date": "2012-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Enrique Lojo ()", "Stela Kaminova ()", "Doreen Slater ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367245, "title": "Karlsson p\u00e5 Taket", "original_title": "Karlsson p\u00e5 Taket", "slug_title": "karlsson-pa-taket", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

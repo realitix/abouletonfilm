@@ -1,0 +1,1 @@
+{"tmdb_id": 511144, "title": "Panoramic Chronicle", "original_title": "Chronique Panoramique", "slug_title": "panoramic-chronicle", "date": "2017-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tt1kJNzh6wDabjHKStx1Fs8pZZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

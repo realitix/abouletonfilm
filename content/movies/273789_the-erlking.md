@@ -1,0 +1,1 @@
+{"tmdb_id": 273789, "title": "The Erlking", "original_title": "The Erlking", "slug_title": "the-erlking", "date": "2003-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dhjR8qKh2N1cJIsNl9ODcMcvJnz.jpg", "actors": [], "comments": [], "recommandations_id": []}

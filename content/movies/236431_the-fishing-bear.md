@@ -1,0 +1,1 @@
+{"tmdb_id": 236431, "title": "The Fishing Bear", "original_title": "The Fishing Bear", "slug_title": "the-fishing-bear", "date": "1940-01-20", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9TOSpn7071s4G2xS6CzmRrGstHC.jpg", "actors": [], "comments": [], "recommandations_id": []}

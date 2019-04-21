@@ -1,0 +1,1 @@
+{"tmdb_id": 549927, "title": "Daddy Issues", "original_title": "Daddy Issues", "slug_title": "daddy-issues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/JGowIlXDeCboM2ETQCfqsoA0ig.jpg", "actors": ["Trisha Paytas ()"], "comments": [], "recommandations_id": []}

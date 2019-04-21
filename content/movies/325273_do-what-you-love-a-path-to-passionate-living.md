@@ -1,0 +1,1 @@
+{"tmdb_id": 325273, "title": "Do What You Love: A Path to Passionate Living", "original_title": "Do What You Love: A Path to Passionate Living", "slug_title": "do-what-you-love-a-path-to-passionate-living", "date": "2014-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 437921, "title": "The Money Shot", "original_title": "The Money Shot", "slug_title": "the-money-shot", "date": "2005-08-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ax4l4tAgdPFMuN9HlyfmQid1BFE.jpg", "actors": [], "comments": [], "recommandations_id": []}

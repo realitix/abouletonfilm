@@ -1,0 +1,1 @@
+{"tmdb_id": 464407, "title": "My Friend the Enemy", "original_title": "My Friend the Enemy", "slug_title": "my-friend-the-enemy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

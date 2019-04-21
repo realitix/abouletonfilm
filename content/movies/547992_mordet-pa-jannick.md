@@ -1,0 +1,1 @@
+{"tmdb_id": 547992, "title": "Mordet P\u00e5 Jannick", "original_title": "Mordet P\u00e5 Jannick", "slug_title": "mordet-pa-jannick", "date": "2015-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

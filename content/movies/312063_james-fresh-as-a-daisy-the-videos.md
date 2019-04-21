@@ -1,0 +1,1 @@
+{"tmdb_id": 312063, "title": "James Fresh As A Daisy: The Videos", "original_title": "James Fresh As A Daisy: The Videos", "slug_title": "james-fresh-as-a-daisy-the-videos", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 209668, "title": "Stumped", "original_title": "Stumped", "slug_title": "stumped", "date": "2010-02-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8dzKTOLE9tKCIA7DfBP4BpoE3Sz.jpg", "actors": [], "comments": [], "recommandations_id": []}

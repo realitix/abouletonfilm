@@ -1,0 +1,1 @@
+{"tmdb_id": 364560, "title": "The Days Without Lei Feng", "original_title": "Li kai Lei Feng de ri zi", "slug_title": "the-days-without-lei-feng", "date": "1996-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

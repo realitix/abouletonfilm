@@ -1,0 +1,1 @@
+{"tmdb_id": 275346, "title": "Killing in the Name of Allah", "original_title": "Killing in the Name of Allah", "slug_title": "killing-in-the-name-of-allah", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

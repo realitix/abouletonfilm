@@ -1,0 +1,1 @@
+{"tmdb_id": 392929, "title": "Hotel of the Stars", "original_title": "Hotel of the Stars", "slug_title": "hotel-of-the-stars", "date": "1981-08-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taQy5hqknfVQg36KNNLFknmd28L.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480956, "title": "All Ghost Women Play the Theremin", "original_title": "All Ghost Women Play the Theremin", "slug_title": "all-ghost-women-play-the-theremin", "date": "2009-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408404, "title": "Ask Yourself", "original_title": "Jasinege Mureobora", "slug_title": "ask-yourself", "date": "1988-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Mn9j1wq380AkP4eKk0hla4DZsw.jpg", "actors": [], "comments": [], "recommandations_id": []}

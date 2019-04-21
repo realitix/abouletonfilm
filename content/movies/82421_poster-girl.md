@@ -1,0 +1,1 @@
+{"tmdb_id": 82421, "title": "Poster Girl", "original_title": "Poster Girl", "slug_title": "poster-girl", "date": "2010-09-03", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7mFJrbywqOkH6o7JLBrySqODhD.jpg", "actors": ["Robynn Murray (Robynn Murray)"], "comments": [], "recommandations_id": []}

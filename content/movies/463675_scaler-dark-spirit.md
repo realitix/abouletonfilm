@@ -1,0 +1,1 @@
+{"tmdb_id": 463675, "title": "Scaler, Dark Spirit", "original_title": "Scaler, Dark Spirit", "slug_title": "scaler-dark-spirit", "date": "2016-06-18", "genre": "Thriller / Horreur", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78bNOmVwaW0DwW0CQQ9BaN4F1LD.jpg", "actors": [], "comments": [], "recommandations_id": []}

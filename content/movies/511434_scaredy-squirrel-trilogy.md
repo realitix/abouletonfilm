@@ -1,0 +1,1 @@
+{"tmdb_id": 511434, "title": "Scaredy Squirrel Trilogy", "original_title": "Scaredy Squirrel Trilogy", "slug_title": "scaredy-squirrel-trilogy", "date": "2017-05-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wt5s45akr19QMjagfftyT7U5UiF.jpg", "actors": [], "comments": [], "recommandations_id": []}

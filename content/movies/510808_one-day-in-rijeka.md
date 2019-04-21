@@ -1,0 +1,1 @@
+{"tmdb_id": 510808, "title": "One Day in Rijeka", "original_title": "Jedan dan u Rijeci", "slug_title": "one-day-in-rijeka", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QLOGX9dypSF6H0JAKEQDTBNW7V.jpg", "actors": [], "comments": [], "recommandations_id": []}

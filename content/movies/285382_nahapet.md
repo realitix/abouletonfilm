@@ -1,0 +1,1 @@
+{"tmdb_id": 285382, "title": "Nahapet", "original_title": "Nahapet", "slug_title": "nahapet", "date": "1977-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCMsj9pLjMlgKMSO5JDCs3Q3LVa.jpg", "actors": ["Sos Sargsyan ()", "Sofik Sarkisyan ()", "Frunzik Mkrtchyan ()"], "comments": [], "recommandations_id": []}

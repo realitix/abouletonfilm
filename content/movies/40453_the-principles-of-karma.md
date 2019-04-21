@@ -1,0 +1,1 @@
+{"tmdb_id": 40453, "title": "The Principles of Karma", "original_title": "The Principles of Karma", "slug_title": "the-principles-of-karma", "date": "1996-01-01", "genre": "", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

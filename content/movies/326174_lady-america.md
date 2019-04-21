@@ -1,0 +1,1 @@
+{"tmdb_id": 326174, "title": "Lady America", "original_title": "Lady America", "slug_title": "lady-america", "date": "1986-06-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Meira (Alex)"], "comments": [], "recommandations_id": []}

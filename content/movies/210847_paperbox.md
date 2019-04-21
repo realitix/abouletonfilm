@@ -1,0 +1,1 @@
+{"tmdb_id": 210847, "title": "Paperbox", "original_title": "Papierowe Pude\u0142ko", "slug_title": "paperbox", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ePVUqSwKLRWV8YUXUHQz6BBa6Lw.jpg", "actors": [], "comments": [], "recommandations_id": []}

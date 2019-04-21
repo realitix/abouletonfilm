@@ -1,0 +1,1 @@
+{"tmdb_id": 355982, "title": "The Coward", "original_title": "Zbab\u011blec", "slug_title": "the-coward", "date": "1962-04-13", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYVhg9bsS3cCD2TY1lpZQ1mZ7L3.jpg", "actors": [], "comments": [], "recommandations_id": []}

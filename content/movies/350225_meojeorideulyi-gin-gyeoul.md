@@ -1,0 +1,1 @@
+{"tmdb_id": 350225, "title": "\uba38\uc800\ub9ac\ub4e4\uc758 \uae34 \uaca8\uc6b8", "original_title": "\uba38\uc800\ub9ac\ub4e4\uc758 \uae34 \uaca8\uc6b8", "slug_title": "meojeorideulyi-gin-gyeoul", "date": "1980-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

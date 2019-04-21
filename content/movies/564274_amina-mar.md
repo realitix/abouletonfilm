@@ -1,0 +1,1 @@
+{"tmdb_id": 564274, "title": "Amina mar", "original_title": "Amina mar", "slug_title": "amina-mar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

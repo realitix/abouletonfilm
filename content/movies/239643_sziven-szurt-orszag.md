@@ -1,0 +1,1 @@
+{"tmdb_id": 239643, "title": "Sz\u00edven sz\u00fart orsz\u00e1g", "original_title": "Sz\u00edven sz\u00fart orsz\u00e1g", "slug_title": "sziven-szurt-orszag", "date": "2009-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qpl8eOTEJKwTFyE2GwqFC235kh.jpg", "actors": [], "comments": [], "recommandations_id": []}

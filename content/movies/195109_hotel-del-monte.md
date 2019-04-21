@@ -1,0 +1,1 @@
+{"tmdb_id": 195109, "title": "Hotel del Monte", "original_title": "Hotel del Monte", "slug_title": "hotel-del-monte", "date": "1897-10-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

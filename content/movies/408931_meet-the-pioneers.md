@@ -1,0 +1,1 @@
+{"tmdb_id": 408931, "title": "Meet the Pioneers", "original_title": "Meet the Pioneers", "slug_title": "meet-the-pioneers", "date": "1948-06-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

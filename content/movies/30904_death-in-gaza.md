@@ -1,0 +1,1 @@
+{"tmdb_id": 30904, "title": "Death in Gaza", "original_title": "Death in Gaza", "slug_title": "death-in-gaza", "date": "2004-08-12", "genre": "Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vli12gwxinfcijht4cR3Pan2OwF.jpg", "actors": [], "comments": [], "recommandations_id": []}

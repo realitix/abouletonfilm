@@ -1,0 +1,1 @@
+{"tmdb_id": 46752, "title": "Davy and Stu", "original_title": "Davy and Stu", "slug_title": "davy-and-stu", "date": "2006-05-27", "genre": "Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75pOlj7uWP7Mvm1yda63cRPipAz.jpg", "actors": ["Nicholas Cutro (Stu)", "Travis Walters (Davy)"], "comments": [], "recommandations_id": []}

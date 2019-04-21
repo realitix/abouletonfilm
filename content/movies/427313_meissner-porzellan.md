@@ -1,0 +1,1 @@
+{"tmdb_id": 427313, "title": "Mei\u00dfner Porzellan", "original_title": "Mei\u00dfner Porzellan", "slug_title": "meissner-porzellan", "date": "1906-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henny Porten ()", "Rosa Porten ()"], "comments": [], "recommandations_id": []}

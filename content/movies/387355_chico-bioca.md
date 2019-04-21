@@ -1,0 +1,1 @@
+{"tmdb_id": 387355, "title": "chico bioca", "original_title": "chico bioca", "slug_title": "chico-bioca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

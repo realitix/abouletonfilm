@@ -1,0 +1,1 @@
+{"tmdb_id": 484615, "title": "The Chinese Exclusion Act", "original_title": "The Chinese Exclusion Act", "slug_title": "the-chinese-exclusion-act", "date": "2017-03-19", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQSWzE4ZL5dr2KaODsGEIwLUaty.jpg", "actors": [], "comments": [], "recommandations_id": []}

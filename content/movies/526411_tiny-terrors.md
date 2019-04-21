@@ -1,0 +1,1 @@
+{"tmdb_id": 526411, "title": "Tiny Terrors", "original_title": "Tiny Terrors", "slug_title": "tiny-terrors", "date": "2018-05-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Unjp1Ei3hQMxk7Bug2m8JZlQd7.jpg", "actors": ["Jesus Anaya (Jonathan)", "Isaiah Colon (Ricky)"], "comments": [], "recommandations_id": []}

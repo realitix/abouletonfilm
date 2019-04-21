@@ -1,0 +1,1 @@
+{"tmdb_id": 57043, "title": "Bohemian Summer 2000", "original_title": "Bohemian Summer 2000", "slug_title": "bohemian-summer-2000", "date": "2000-12-09", "genre": "Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8eXGcFM9w1PNInEHzVaYCTLFDib.jpg", "actors": ["Utada Hikaru ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 100496, "title": "V\u00e9rz\u0151 Magyarorsz\u00e1g", "original_title": "V\u00e9rz\u0151 Magyarorsz\u00e1g", "slug_title": "verzo-magyarorszag", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kOzBwiRK6xuvstRtmxZczcrAcL7.jpg", "actors": [], "comments": [], "recommandations_id": []}

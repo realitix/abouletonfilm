@@ -1,0 +1,1 @@
+{"tmdb_id": 576541, "title": "Tina Dico - live in the Red", "original_title": "Tina Dico - live in the Red", "slug_title": "tina-dico-live-in-the-red", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4VUn0lWgSaMF6A3aGe9gRrcLCHE.jpg", "actors": [], "comments": [], "recommandations_id": []}

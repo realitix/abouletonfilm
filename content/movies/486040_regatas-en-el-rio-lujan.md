@@ -1,0 +1,1 @@
+{"tmdb_id": 486040, "title": "Regatas en el R\u00edo Luj\u00e1n", "original_title": "Regatas en el R\u00edo Luj\u00e1n", "slug_title": "regatas-en-el-rio-lujan", "date": "1920-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458562, "title": "Laksi slucaj smrti", "original_title": "Laksi slucaj smrti", "slug_title": "laksi-slucaj-smrti", "date": "1993-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDSn4LFattvoIS7eCo52NYJ0NNp.jpg", "actors": [], "comments": [], "recommandations_id": []}

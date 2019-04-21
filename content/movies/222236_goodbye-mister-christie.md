@@ -1,0 +1,1 @@
+{"tmdb_id": 222236, "title": "Goodbye Mister Christie", "original_title": "Goodbye Mr. Christie", "slug_title": "goodbye-mister-christie", "date": "2011-02-04", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAetHw3uzBHPzKDli8QieSOFS9h.jpg", "actors": [], "comments": [], "recommandations_id": []}

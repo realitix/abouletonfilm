@@ -1,0 +1,1 @@
+{"tmdb_id": 73797, "title": "Nineteen 19", "original_title": "Nineteen 19", "slug_title": "nineteen-19", "date": "1990-07-27", "genre": "Animation / Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wShb5W3Kq2BGbur1RBRlJebXced.jpg", "actors": [], "comments": [], "recommandations_id": []}

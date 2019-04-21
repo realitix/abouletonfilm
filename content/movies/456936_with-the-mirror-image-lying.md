@@ -1,0 +1,1 @@
+{"tmdb_id": 456936, "title": "With the Mirror Image Lying", "original_title": "N\u00e5r Speilbildet Lyver", "slug_title": "with-the-mirror-image-lying", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

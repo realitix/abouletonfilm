@@ -1,0 +1,1 @@
+{"tmdb_id": 553674, "title": "Chivas: The Movie", "original_title": "Chivas: La pel\u00edcula", "slug_title": "chivas-the-movie", "date": "2018-10-25", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JkgMlEeXhMyQLu8mBHdaemcWK8.jpg", "actors": [], "comments": [], "recommandations_id": []}

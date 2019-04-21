@@ -1,0 +1,1 @@
+{"tmdb_id": 509387, "title": "Cineclubismo na BF", "original_title": "Cineclubismo na BF", "slug_title": "cineclubismo-na-bf", "date": "2018-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrarRxE7ntn6NDxVwcydJjmq5a4.jpg", "actors": [], "comments": [], "recommandations_id": []}

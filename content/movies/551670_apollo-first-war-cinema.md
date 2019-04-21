@@ -1,0 +1,1 @@
+{"tmdb_id": 551670, "title": "Apollo: First War Cinema", "original_title": "Apollo: Prvo ratno kino", "slug_title": "apollo-first-war-cinema", "date": "2013-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99iHocCurTono7TKqnxwHCv8g1c.jpg", "actors": [], "comments": [], "recommandations_id": []}

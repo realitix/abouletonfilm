@@ -1,0 +1,1 @@
+{"tmdb_id": 486142, "title": "You're not Real Pretty but You're Mine...", "original_title": "You're not Real Pretty but You're Mine...", "slug_title": "you-re-not-real-pretty-but-you-re-mine", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

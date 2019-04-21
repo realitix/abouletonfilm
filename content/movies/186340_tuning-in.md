@@ -1,0 +1,1 @@
+{"tmdb_id": 186340, "title": "Tuning In", "original_title": "Tuning In", "slug_title": "tuning-in", "date": "2008-09-02", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8suPcvOvly4FglYOY504BeEsLe2.jpg", "actors": ["Darryl Anka (Channel for Bashar)"], "comments": [], "recommandations_id": []}

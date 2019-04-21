@@ -1,0 +1,1 @@
+{"tmdb_id": 321176, "title": "Und in der Mitte der Erde war Feuer", "original_title": "Und in der Mitte der Erde war Feuer", "slug_title": "und-in-der-mitte-der-erde-war-feuer", "date": "2014-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernhard Hetzenauer ()", "Vera Kohn ()"], "comments": [], "recommandations_id": []}

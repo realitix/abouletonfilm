@@ -1,0 +1,1 @@
+{"tmdb_id": 552819, "title": "The Shadow", "original_title": "G\u00f6lge", "slug_title": "the-shadow", "date": "2008-04-15", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00f6rkem Yeltan (Selma Ragip)", "Kaan \u00c7ak\u0131r (Nevzat)", "Serkan Ercan (Halim)"], "comments": [], "recommandations_id": []}

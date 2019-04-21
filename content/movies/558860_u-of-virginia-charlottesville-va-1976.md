@@ -1,0 +1,1 @@
+{"tmdb_id": 558860, "title": "U of Virginia Charlottesville, VA 1976", "original_title": "U of Virginia Charlottesville, VA 1976", "slug_title": "u-of-virginia-charlottesville-va-1976", "date": "2013-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

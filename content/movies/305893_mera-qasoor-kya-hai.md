@@ -1,0 +1,1 @@
+{"tmdb_id": 305893, "title": "Mera Qasoor Kya Hai", "original_title": "Mera Qasoor Kya Hai", "slug_title": "mera-qasoor-kya-hai", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

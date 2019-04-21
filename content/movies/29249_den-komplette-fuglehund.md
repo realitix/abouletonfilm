@@ -1,0 +1,1 @@
+{"tmdb_id": 29249, "title": "Den Komplette fuglehund", "original_title": "Den Komplette fuglehund", "slug_title": "den-komplette-fuglehund", "date": "2011-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

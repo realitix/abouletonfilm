@@ -1,0 +1,1 @@
+{"tmdb_id": 48570, "title": "Slay Ride", "original_title": "Slay Ride", "slug_title": "slay-ride", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GoX283KokxIvtaLVnfMgz47GLg.jpg", "actors": ["Ruby LaRocca ()"], "comments": [], "recommandations_id": []}

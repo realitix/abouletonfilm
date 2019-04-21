@@ -1,0 +1,1 @@
+{"tmdb_id": 446747, "title": "Der nackte Morgen", "original_title": "Der nackte Morgen", "slug_title": "der-nackte-morgen", "date": "1956-12-04", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vYFfwaFSZMnvKZv48Lio3FsumUk.jpg", "actors": [], "comments": [], "recommandations_id": []}

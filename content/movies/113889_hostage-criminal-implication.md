@@ -1,0 +1,1 @@
+{"tmdb_id": 113889, "title": "Hostage: Criminal Implication", "original_title": "Hostage: Criminal Implication", "slug_title": "hostage-criminal-implication", "date": "2010-09-14", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryD2e9fOnweLZsTU2uhyOYRYdM7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 59302, "title": "C.S. Lewis: Beyond Narnia", "original_title": "C.S. Lewis: Beyond Narnia", "slug_title": "c-s-lewis-beyond-narnia", "date": "2005-12-09", "genre": "Documentaire / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5wM1JlALcvFA5DBPjbiT4WFlhlf.jpg", "actors": [], "comments": [], "recommandations_id": []}

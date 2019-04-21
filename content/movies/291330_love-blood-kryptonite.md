@@ -1,0 +1,1 @@
+{"tmdb_id": 291330, "title": "Love. Blood. Kryptonite.", "original_title": "Love. Blood. Kryptonite.", "slug_title": "love-blood-kryptonite", "date": "2008-10-28", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZSw2iveWRMHHKyK4gNaAOXGdiU.jpg", "actors": [], "comments": [], "recommandations_id": []}

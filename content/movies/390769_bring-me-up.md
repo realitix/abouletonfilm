@@ -1,0 +1,1 @@
+{"tmdb_id": 390769, "title": "Bring Me Up", "original_title": "\u3064\u307e\u307e\u308c\u308b\u30b3\u30de", "slug_title": "bring-me-up", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acUy50xC120YGQR7fYcrZEA160J.jpg", "actors": [], "comments": [], "recommandations_id": []}

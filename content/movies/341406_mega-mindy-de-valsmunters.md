@@ -1,0 +1,1 @@
+{"tmdb_id": 341406, "title": "Mega  Mindy - de Valsmunters", "original_title": "Mega  Mindy - de Valsmunters", "slug_title": "mega-mindy-de-valsmunters", "date": "2009-06-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/521scWHNSd7uHPo8GpiJrwJW7mA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 563502, "title": "Kizi mizi", "original_title": "Kizi mizi", "slug_title": "kizi-mizi", "date": "2007-04-06", "genre": "Animation / Romance", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s4AsqHQB1DR1bdjyileiawBfPqP.jpg", "actors": [], "comments": [], "recommandations_id": []}

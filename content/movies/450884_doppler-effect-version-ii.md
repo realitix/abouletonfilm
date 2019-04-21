@@ -1,0 +1,1 @@
+{"tmdb_id": 450884, "title": "Doppler Effect Version II", "original_title": "Doppler Effect Version II", "slug_title": "doppler-effect-version-ii", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PRgEoXvoK9mmNh5uWXpj1xwh0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

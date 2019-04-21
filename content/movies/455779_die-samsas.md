@@ -1,0 +1,1 @@
+{"tmdb_id": 455779, "title": "Die Samsas", "original_title": "Die Samsas", "slug_title": "die-samsas", "date": "1998-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathrin Hildebrandt ()", "Harald Schmidt ()", "Christian Ebel ()", "Brigitte Schauder ()", "Tanja Fornaro ()"], "comments": [], "recommandations_id": []}

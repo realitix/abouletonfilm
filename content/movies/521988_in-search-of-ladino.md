@@ -1,0 +1,1 @@
+{"tmdb_id": 521988, "title": "In Search of Ladino", "original_title": "In Search of Ladino", "slug_title": "in-search-of-ladino", "date": "1981-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

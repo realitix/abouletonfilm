@@ -1,0 +1,1 @@
+{"tmdb_id": 26967, "title": "Ahviaasta", "original_title": "Ahviaasta", "slug_title": "ahviaasta", "date": "2003-05-29", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xpn16PwyQtJ7DH7985zFEYgIC0z.jpg", "actors": [], "comments": [], "recommandations_id": []}

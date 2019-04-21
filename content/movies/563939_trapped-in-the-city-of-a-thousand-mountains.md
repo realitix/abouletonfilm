@@ -1,0 +1,1 @@
+{"tmdb_id": 563939, "title": "Trapped in the City of a Thousand Mountains", "original_title": "Trapped in the City of a Thousand Mountains", "slug_title": "trapped-in-the-city-of-a-thousand-mountains", "date": "2018-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

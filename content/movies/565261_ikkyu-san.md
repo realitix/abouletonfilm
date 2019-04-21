@@ -1,0 +1,1 @@
+{"tmdb_id": 565261, "title": "Ikkyu-san", "original_title": "Ikkyu-san", "slug_title": "ikkyu-san", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fuku Suzuki (Ikkyu)", "Hiroki Narimiya (Ninagawa Shinemon)", "Seiran Kobayashi (Sayo)"], "comments": [], "recommandations_id": []}

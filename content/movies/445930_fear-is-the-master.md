@@ -1,0 +1,1 @@
+{"tmdb_id": 445930, "title": "Fear Is The Master", "original_title": "Fear Is The Master", "slug_title": "fear-is-the-master", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dlrgVyxWTOQhDs0ZxytqCrg7aAD.jpg", "actors": ["Osho (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 570808, "title": "Good Luck Dad", "original_title": "\u8ba9\u6211\u600e\u4e48\u76f8\u4fe1\u4f60", "slug_title": "good-luck-dad", "date": "2018-09-14", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPo6e2ZMK6ij4OOtL6JanY4wurn.jpg", "actors": [], "comments": [], "recommandations_id": []}

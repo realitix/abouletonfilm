@@ -1,0 +1,1 @@
+{"tmdb_id": 190021, "title": "Shaw Talks for Movietone News", "original_title": "Shaw Talks for Movietone News", "slug_title": "shaw-talks-for-movietone-news", "date": "1928-06-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

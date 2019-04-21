@@ -1,0 +1,1 @@
+{"tmdb_id": 528357, "title": "Taupiri", "original_title": "Taupiri", "slug_title": "taupiri", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

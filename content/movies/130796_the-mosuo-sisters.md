@@ -1,0 +1,1 @@
+{"tmdb_id": 130796, "title": "The Mosuo Sisters", "original_title": "The Mosuo Sisters", "slug_title": "the-mosuo-sisters", "date": "2012-09-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j2hRUiDXCro2wl6Hj8sTDHFMfhj.jpg", "actors": [], "comments": [], "recommandations_id": []}

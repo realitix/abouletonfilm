@@ -1,0 +1,1 @@
+{"tmdb_id": 437672, "title": "The Asylum", "original_title": "Dok-rak", "slug_title": "the-asylum", "date": "2015-08-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwtq1cGmKAT1zWPfExd9EwR14R4.jpg", "actors": [], "comments": [], "recommandations_id": []}

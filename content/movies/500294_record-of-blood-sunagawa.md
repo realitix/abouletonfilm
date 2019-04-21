@@ -1,0 +1,1 @@
+{"tmdb_id": 500294, "title": "Record of Blood: Sunagawa", "original_title": "Ryuketsu no kiroku: Sunagawa", "slug_title": "record-of-blood-sunagawa", "date": "1956-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terashima Nobuko (Narrator (voice))"], "comments": [], "recommandations_id": []}

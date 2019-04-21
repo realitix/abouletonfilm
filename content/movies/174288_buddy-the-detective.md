@@ -1,0 +1,1 @@
+{"tmdb_id": 174288, "title": "Buddy the Detective", "original_title": "Buddy the Detective", "slug_title": "buddy-the-detective", "date": "1934-10-16", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yrrLhVqOkBQFeJScpwFjpORQbcK.jpg", "actors": [], "comments": [], "recommandations_id": []}

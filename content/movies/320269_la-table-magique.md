@@ -1,0 +1,1 @@
+{"tmdb_id": 320269, "title": "La table magique", "original_title": "La table magique", "slug_title": "la-table-magique", "date": "1908-01-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

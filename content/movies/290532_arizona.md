@@ -1,0 +1,1 @@
+{"tmdb_id": 290532, "title": "Arizona", "original_title": "Arizona", "slug_title": "arizona", "date": "2006-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

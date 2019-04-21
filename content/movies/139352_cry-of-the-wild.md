@@ -1,0 +1,1 @@
+{"tmdb_id": 139352, "title": "Cry of the Wild", "original_title": "Cry of the Wild", "slug_title": "cry-of-the-wild", "date": "1973-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bRkR3d6m8Ytr0cjy2JiDoedpGs7.jpg", "actors": [], "comments": [], "recommandations_id": []}

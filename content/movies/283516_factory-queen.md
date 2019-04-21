@@ -1,0 +1,1 @@
+{"tmdb_id": 283516, "title": "Factory Queen", "original_title": "Dian xin huang hou", "slug_title": "factory-queen", "date": "1965-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ying Choi Cheung ()", "Yim Lam ()", "Kei Mak ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 586155, "title": "Nasanu Naka", "original_title": "Nasanu Naka", "slug_title": "nasanu-naka", "date": "1916-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

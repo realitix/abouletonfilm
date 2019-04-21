@@ -1,0 +1,1 @@
+{"tmdb_id": 65833, "title": "The Grudge 3: The Curse Continues", "original_title": "The Grudge 3: The Curse Continues", "slug_title": "the-grudge-3-the-curse-continues", "date": "2009-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

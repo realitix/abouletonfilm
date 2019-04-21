@@ -1,0 +1,1 @@
+{"tmdb_id": 559447, "title": "Zweiunddrei\u00dfig Richtungen der Windrose", "original_title": "Zweiunddrei\u00dfig Richtungen der Windrose", "slug_title": "zweiunddreissig-richtungen-der-windrose", "date": "1995-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

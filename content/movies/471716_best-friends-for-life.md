@@ -1,0 +1,1 @@
+{"tmdb_id": 471716, "title": "Best Friends for Life", "original_title": "Best Friends for Life", "slug_title": "best-friends-for-life", "date": "1998-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gena Rowlands (Mrs. Harriet Cahill)", "Linda Lavin (Sarah Cooper)"], "comments": [], "recommandations_id": []}

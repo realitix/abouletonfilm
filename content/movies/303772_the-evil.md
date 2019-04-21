@@ -1,0 +1,1 @@
+{"tmdb_id": 303772, "title": "The Evil", "original_title": "The Evil", "slug_title": "the-evil", "date": "2003-01-01", "genre": "Thriller / Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fredrik Hiller (Evil)"], "comments": [], "recommandations_id": []}

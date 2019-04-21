@@ -1,0 +1,1 @@
+{"tmdb_id": 121025, "title": "Cassiop\u00e9ia", "original_title": "Cassiop\u00e9ia", "slug_title": "cassiopeia", "date": "1996-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dk9jD1gxS3PHo2w8RVFbooTldvg.jpg", "actors": [], "comments": [], "recommandations_id": []}

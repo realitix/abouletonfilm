@@ -1,0 +1,1 @@
+{"tmdb_id": 562843, "title": "Say Goodbye to Hollywood", "original_title": "Say Goodbye to Hollywood", "slug_title": "say-goodbye-to-hollywood", "date": "2018-06-05", "genre": "Action", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["A. Cash Davenport (Man 1)", "Ethan Cash (Man 2)"], "comments": [], "recommandations_id": []}

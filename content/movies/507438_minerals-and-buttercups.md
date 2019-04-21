@@ -1,0 +1,1 @@
+{"tmdb_id": 507438, "title": "Minerals and Buttercups", "original_title": "Minerals and Buttercups", "slug_title": "minerals-and-buttercups", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lg9fFrvdTLqOFc09FeZqq4fqrYQ.jpg", "actors": ["Dave Fathers (Voice Over)"], "comments": [], "recommandations_id": []}

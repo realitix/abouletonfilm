@@ -1,0 +1,1 @@
+{"tmdb_id": 194007, "title": "Daddy's Double", "original_title": "Daddy's Double", "slug_title": "daddy-s-double", "date": "1910-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Hall Crane (Daddy)", "Isabelle Daintry (daughter)", "Fred Santley (Daddy's double)"], "comments": [], "recommandations_id": []}

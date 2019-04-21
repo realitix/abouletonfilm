@@ -1,0 +1,1 @@
+{"tmdb_id": 334128, "title": "My Favorite Movie", "original_title": "My Favorite Movie", "slug_title": "my-favorite-movie", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

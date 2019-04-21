@@ -1,0 +1,1 @@
+{"tmdb_id": 316616, "title": "Mini-Squirts", "original_title": "Mini-Squirts", "slug_title": "mini-squirts", "date": "1967-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pM2OiETChfZtRMgOMRp5wArX5ly.jpg", "actors": [], "comments": [], "recommandations_id": []}

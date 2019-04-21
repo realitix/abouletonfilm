@@ -1,0 +1,1 @@
+{"tmdb_id": 343518, "title": "Love Me or Leave Me", "original_title": "Love Me or Leave Me", "slug_title": "love-me-or-leave-me", "date": "2005-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

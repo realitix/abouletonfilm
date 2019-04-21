@@ -1,0 +1,1 @@
+{"tmdb_id": 523797, "title": "Personal Statement", "original_title": "Personal Statement", "slug_title": "personal-statement", "date": "2018-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQGgCSCoAezy507Nx8kKLLmY5yN.jpg", "actors": [], "comments": [], "recommandations_id": []}

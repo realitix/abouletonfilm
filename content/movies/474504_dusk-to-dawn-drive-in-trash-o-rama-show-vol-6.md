@@ -1,0 +1,1 @@
+{"tmdb_id": 474504, "title": "Dusk to Dawn Drive-In Trash-O-Rama Show Vol. 6", "original_title": "Dusk to Dawn Drive-In Trash-O-Rama Show Vol. 6", "slug_title": "dusk-to-dawn-drive-in-trash-o-rama-show-vol-6", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

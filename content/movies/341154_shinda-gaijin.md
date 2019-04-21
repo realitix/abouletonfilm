@@ -1,0 +1,1 @@
+{"tmdb_id": 341154, "title": "Shinda Gaijin", "original_title": "Shinda Gaijin", "slug_title": "shinda-gaijin", "date": "2010-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luchino Fujisaki (The woman)", "Klaus Peterson (The body / Comedian #1)"], "comments": [], "recommandations_id": []}

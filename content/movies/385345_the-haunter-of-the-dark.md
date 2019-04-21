@@ -1,0 +1,1 @@
+{"tmdb_id": 385345, "title": "The Haunter of the Dark", "original_title": "The Haunter of the Dark", "slug_title": "the-haunter-of-the-dark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

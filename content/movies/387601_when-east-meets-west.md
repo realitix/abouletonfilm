@@ -1,0 +1,1 @@
+{"tmdb_id": 387601, "title": "When East Meets West", "original_title": "When East Meets West", "slug_title": "when-east-meets-west", "date": "1928-08-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ray Mayer (Himself)", "Edith Evans (Herself)"], "comments": [], "recommandations_id": []}

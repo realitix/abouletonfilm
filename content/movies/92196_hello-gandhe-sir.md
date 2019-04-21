@@ -1,0 +1,1 @@
+{"tmdb_id": 92196, "title": "Hello Gandhe Sir", "original_title": "Hello Gandhe Sir", "slug_title": "hello-gandhe-sir", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bharat Jadhav (Gangya)", "Suhas Palshikar (father)", "Girish Oak (Principal)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 285288, "title": "Denise Austin: Hot Body Yoga", "original_title": "Denise Austin: Hot Body Yoga", "slug_title": "denise-austin-hot-body-yoga", "date": "2010-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDQZPd0QUwE1nmaOajtkcOw9MCJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

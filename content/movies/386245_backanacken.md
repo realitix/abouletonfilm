@@ -1,0 +1,1 @@
+{"tmdb_id": 386245, "title": "B\u00e4ckan\u00e4cken", "original_title": "B\u00e4ckan\u00e4cken", "slug_title": "backanacken", "date": "2016-02-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUMNMajQo69B8bH547oFYfce4Ji.jpg", "actors": [], "comments": [], "recommandations_id": []}

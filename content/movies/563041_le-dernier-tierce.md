@@ -1,0 +1,1 @@
+{"tmdb_id": 563041, "title": "Le dernier tierc\u00e9", "original_title": "Le dernier tierc\u00e9", "slug_title": "le-dernier-tierce", "date": "1965-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4o0nbIRVci2Bnypj1LKS5Z9qLka.jpg", "actors": [], "comments": [], "recommandations_id": []}

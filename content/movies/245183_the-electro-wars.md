@@ -1,0 +1,1 @@
+{"tmdb_id": 245183, "title": "The Electro Wars", "original_title": "The Electro Wars", "slug_title": "the-electro-wars", "date": "2010-11-19", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xptaSvojgXwAeZAWgoG5CRljkVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

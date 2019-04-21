@@ -1,0 +1,1 @@
+{"tmdb_id": 438997, "title": "Inal Mama", "original_title": "Inal Mama", "slug_title": "inal-mama", "date": "2007-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/KPj0fuyLItmHpJJmjmboR9nTww.jpg", "actors": [], "comments": [], "recommandations_id": []}

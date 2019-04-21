@@ -1,0 +1,1 @@
+{"tmdb_id": 591586, "title": "Paw Patrol - Pups Save the Show", "original_title": "Paw Patrol - Pups Save the Show", "slug_title": "paw-patrol-pups-save-the-show", "date": "2017-05-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/FFTrBlLgOPW6QYGhHXgIg8fq2B.jpg", "actors": [], "comments": [], "recommandations_id": []}

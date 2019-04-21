@@ -1,0 +1,1 @@
+{"tmdb_id": 276295, "title": "Portrait of an Artist: Les Silences De Manet", "original_title": "Portrait of an Artist: Les Silences De Manet", "slug_title": "portrait-of-an-artist-les-silences-de-manet", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

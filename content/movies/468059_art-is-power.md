@@ -1,0 +1,1 @@
+{"tmdb_id": 468059, "title": "Art is Power", "original_title": "Art is Power", "slug_title": "art-is-power", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psgLhqLSwOggoGbycEbTolVB3g0.jpg", "actors": [], "comments": [], "recommandations_id": []}

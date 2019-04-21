@@ -1,0 +1,1 @@
+{"tmdb_id": 334916, "title": "Istana Impian", "original_title": "Istana Impian", "slug_title": "istana-impian", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 543879, "title": "The Conversation", "original_title": "\u0420\u0430\u0437\u0433\u043e\u0432\u043e\u0440", "slug_title": "the-conversation", "date": "2015-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0CJyl0TPY1EFnNZtWWTy3UNr7w.jpg", "actors": [], "comments": [], "recommandations_id": []}

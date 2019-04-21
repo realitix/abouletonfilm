@@ -1,0 +1,1 @@
+{"tmdb_id": 565957, "title": "The Guns and the Fury", "original_title": "The Guns and the Fury", "slug_title": "the-guns-and-the-fury", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Graves (Mark Janser)", "Albert Salmi (Colonel Liahkov)", "Cameron Mitchell (Jack Piper)"], "comments": [], "recommandations_id": []}

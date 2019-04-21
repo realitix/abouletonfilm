@@ -1,0 +1,1 @@
+{"tmdb_id": 557065, "title": "The Tell-Tale Heart", "original_title": "The Tell-Tale Heart", "slug_title": "the-tell-tale-heart", "date": "1953-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stanley Baker (Edgar Allan Poe)"], "comments": [], "recommandations_id": []}

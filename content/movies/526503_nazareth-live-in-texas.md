@@ -1,0 +1,1 @@
+{"tmdb_id": 526503, "title": "Nazareth - Live In Texas", "original_title": "Nazareth - Live In Texas", "slug_title": "nazareth-live-in-texas", "date": "1981-05-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbG6hakAkmhelOcv2QHPnKQzcoa.jpg", "actors": [], "comments": [], "recommandations_id": []}

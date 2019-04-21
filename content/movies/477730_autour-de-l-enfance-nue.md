@@ -1,0 +1,1 @@
+{"tmdb_id": 477730, "title": "Autour de L'Enfance nue", "original_title": "Autour de L'Enfance nue", "slug_title": "autour-de-l-enfance-nue", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maurice Pialat (Interviewee)"], "comments": [], "recommandations_id": []}

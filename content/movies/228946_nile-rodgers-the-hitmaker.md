@@ -1,0 +1,1 @@
+{"tmdb_id": 228946, "title": "Nile Rodgers: The Hitmaker", "original_title": "Nile Rodgers: The Hitmaker", "slug_title": "nile-rodgers-the-hitmaker", "date": "2013-03-29", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPUyxmLKlzmRcvwAcv706DEBU9j.jpg", "actors": [], "comments": [], "recommandations_id": []}

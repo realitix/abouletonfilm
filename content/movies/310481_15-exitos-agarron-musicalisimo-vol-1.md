@@ -1,0 +1,1 @@
+{"tmdb_id": 310481, "title": "15 Exitos Agarron Musicalisimo Vol. 1", "original_title": "15 Exitos Agarron Musicalisimo Vol. 1", "slug_title": "15-exitos-agarron-musicalisimo-vol-1", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

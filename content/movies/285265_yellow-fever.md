@@ -1,0 +1,1 @@
+{"tmdb_id": 285265, "title": "Yellow Fever", "original_title": "Yellow Fever", "slug_title": "yellow-fever", "date": "2012-09-01", "genre": "Animation", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6zJo1j6zDXfb0cTPffbP5In4Wv.jpg", "actors": ["Fumy Opeyemi (Dancer)"], "comments": [], "recommandations_id": []}

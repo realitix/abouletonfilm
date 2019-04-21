@@ -1,0 +1,1 @@
+{"tmdb_id": 564212, "title": "Primavera", "original_title": "Primavera", "slug_title": "primavera", "date": "2015-11-22", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Renata da Silveira (Mallu)", "J\u00e9ssica Ramos (Mari\u00e1)", "Gabriel Invernizzi (H\u00edtalo)"], "comments": [], "recommandations_id": []}

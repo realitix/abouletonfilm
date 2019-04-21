@@ -1,0 +1,1 @@
+{"tmdb_id": 534521, "title": "The Tempters: Smile After Tears", "original_title": "Za temputazu", "slug_title": "the-tempters-smile-after-tears", "date": "", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hocv6qSNgJKqhFmi5Dg9cVA5JqI.jpg", "actors": [], "comments": [], "recommandations_id": []}

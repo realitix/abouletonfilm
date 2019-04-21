@@ -1,0 +1,1 @@
+{"tmdb_id": 32134, "title": "Bal Ganesh", "original_title": "Bal Ganesh", "slug_title": "bal-ganesh", "date": "2007-02-08", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kailash Kher (Singer)", "Asha Bhosle (Singer)"], "comments": [], "recommandations_id": []}

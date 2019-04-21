@@ -1,0 +1,1 @@
+{"tmdb_id": 223140, "title": "Lovefield", "original_title": "Lovefield", "slug_title": "lovefield", "date": "2008-01-01", "genre": "Horreur / Drame", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjYdolukE10nCvcYZg01ZhKTCb2.jpg", "actors": ["Bianca Gervais ()", "Pierre Lebeau ()"], "comments": [], "recommandations_id": []}

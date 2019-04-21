@@ -1,0 +1,1 @@
+{"tmdb_id": 447805, "title": "Diseases Spread", "original_title": "\u75c5\u6bd2\u306e\u4f1d\u64ad", "slug_title": "diseases-spread", "date": "1926-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMWbtx3OweDYBgjRDdQCtNkl1FI.jpg", "actors": [], "comments": [], "recommandations_id": []}

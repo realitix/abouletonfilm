@@ -1,0 +1,1 @@
+{"tmdb_id": 491068, "title": "BURNER: Second Degree Burn", "original_title": "BURNER: Second Degree Burn", "slug_title": "burner-second-degree-burn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

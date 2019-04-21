@@ -1,0 +1,1 @@
+{"tmdb_id": 321527, "title": "Amor, etc...", "original_title": "Amor, etc...", "slug_title": "amor-etc", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

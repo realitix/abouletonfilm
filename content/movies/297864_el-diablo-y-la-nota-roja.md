@@ -1,0 +1,1 @@
+{"tmdb_id": 297864, "title": "El diablo y la nota roja", "original_title": "El diablo y la nota roja", "slug_title": "el-diablo-y-la-nota-roja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/et0ERtSzNlQHiiJ7BD5fue08tKX.jpg", "actors": [], "comments": [], "recommandations_id": []}

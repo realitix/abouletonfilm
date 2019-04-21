@@ -1,0 +1,1 @@
+{"tmdb_id": 485405, "title": "A Bundle of Bliss", "original_title": "A Bundle of Bliss", "slug_title": "a-bundle-of-bliss", "date": "1940-11-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

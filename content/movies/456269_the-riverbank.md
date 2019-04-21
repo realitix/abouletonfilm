@@ -1,0 +1,1 @@
+{"tmdb_id": 456269, "title": "The Riverbank", "original_title": "The Riverbank", "slug_title": "the-riverbank", "date": "2012-05-06", "genre": "Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

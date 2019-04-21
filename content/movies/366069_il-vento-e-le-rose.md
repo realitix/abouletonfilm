@@ -1,0 +1,1 @@
+{"tmdb_id": 366069, "title": "Il vento e le rose", "original_title": "Il vento e le rose", "slug_title": "il-vento-e-le-rose", "date": "2009-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvPaF5cUwHF3siQfDlgFwHyNu5f.jpg", "actors": [], "comments": [], "recommandations_id": []}

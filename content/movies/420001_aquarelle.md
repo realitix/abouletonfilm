@@ -1,0 +1,1 @@
+{"tmdb_id": 420001, "title": "Aquarelle", "original_title": "Aquarelle", "slug_title": "aquarelle", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

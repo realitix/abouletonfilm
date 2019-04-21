@@ -1,0 +1,1 @@
+{"tmdb_id": 236366, "title": "Beauty Shoppe", "original_title": "Beauty Shoppe", "slug_title": "beauty-shoppe", "date": "1940-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hC2jQDJy0DKp6AIgPyjShlRIQFz.jpg", "actors": [], "comments": [], "recommandations_id": []}

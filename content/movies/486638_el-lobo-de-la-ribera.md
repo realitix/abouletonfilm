@@ -1,0 +1,1 @@
+{"tmdb_id": 486638, "title": "El lobo de la ribera", "original_title": "El lobo de la ribera", "slug_title": "el-lobo-de-la-ribera", "date": "1926-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Floren Delbene ((as Florentino Delbene))", "Ricardo Passano ()"], "comments": [], "recommandations_id": []}

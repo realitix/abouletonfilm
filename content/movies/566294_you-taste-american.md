@@ -1,0 +1,1 @@
+{"tmdb_id": 566294, "title": "You Taste American", "original_title": "You Taste American", "slug_title": "you-taste-american", "date": "1994-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

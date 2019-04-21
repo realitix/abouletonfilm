@@ -1,0 +1,1 @@
+{"tmdb_id": 345056, "title": "Eddie Stargazer", "original_title": "Eddie Stargazer", "slug_title": "eddie-stargazer", "date": "1999-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Severin Eskeland ()", "Thomas Dahl ()", "Ole Jakob Helland ()", "H\u00e5vard Lunde ()"], "comments": [], "recommandations_id": []}

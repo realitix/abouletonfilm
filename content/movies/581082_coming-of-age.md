@@ -1,0 +1,1 @@
+{"tmdb_id": 581082, "title": "Coming of Age", "original_title": "Coming of Age", "slug_title": "coming-of-age", "date": "2001-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZ2YZzkWf8Q1HyS0O7AsAW2gyF5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329493, "title": "For Your Sake, Palestine!", "original_title": "Fadak Filastin!", "slug_title": "for-your-sake-palestine", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

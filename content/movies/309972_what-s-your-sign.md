@@ -1,0 +1,1 @@
+{"tmdb_id": 309972, "title": "What's Your Sign?", "original_title": "What's Your Sign?", "slug_title": "what-s-your-sign", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

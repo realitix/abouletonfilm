@@ -1,0 +1,1 @@
+{"tmdb_id": 351466, "title": "Slap Happy Hunters", "original_title": "Slap Happy Hunters", "slug_title": "slap-happy-hunters", "date": "1941-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Gandy Goose (voice))"], "comments": [], "recommandations_id": []}

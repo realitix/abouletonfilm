@@ -1,0 +1,1 @@
+{"tmdb_id": 108950, "title": "Beijing Bubbles", "original_title": "Beijing Bubbles", "slug_title": "beijing-bubbles", "date": "2006-03-14", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1TeY23wCJa5jGnPifzx5JCUzCYo.jpg", "actors": [], "comments": [], "recommandations_id": []}

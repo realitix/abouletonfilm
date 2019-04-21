@@ -1,0 +1,1 @@
+{"tmdb_id": 490305, "title": "Studies in Diachronic Motion", "original_title": "Studies in Diachronic Motion", "slug_title": "studies-in-diachronic-motion", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

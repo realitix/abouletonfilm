@@ -1,0 +1,1 @@
+{"tmdb_id": 384852, "title": "Schlock Fish", "original_title": "Schlock Fish", "slug_title": "schlock-fish", "date": "2014-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jN5hxc7ULt261gdlzUpGWTxDyT0.jpg", "actors": [], "comments": [], "recommandations_id": []}

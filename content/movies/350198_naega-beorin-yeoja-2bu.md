@@ -1,0 +1,1 @@
+{"tmdb_id": 350198, "title": "\ub0b4\uac00 \ubc84\ub9b0 \uc5ec\uc790 2\ubd80", "original_title": "\ub0b4\uac00 \ubc84\ub9b0 \uc5ec\uc790 2\ubd80", "slug_title": "naega-beorin-yeoja-2bu", "date": "1980-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

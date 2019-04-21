@@ -1,0 +1,1 @@
+{"tmdb_id": 480826, "title": "Jennifer...?", "original_title": "Jennifer...?", "slug_title": "jennifer", "date": "1965-07-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Reiser (Conte Giulio di Marco)", "Inge Langen (Chiara Nicoletti)", "Willy Maertens (Notaio D'Allura)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587457, "title": "Kawakarbo", "original_title": "Kawakarbo", "slug_title": "kawakarbo", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471467, "title": "Daemonrunner", "original_title": "Daemonrunner", "slug_title": "daemonrunner", "date": "2017-08-15", "genre": "Horreur / Science-Fiction", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0FRehU9oPbddblhuQKm9xPLQx4.jpg", "actors": [], "comments": [], "recommandations_id": []}

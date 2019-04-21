@@ -1,0 +1,1 @@
+{"tmdb_id": 580897, "title": "The Collector", "original_title": "The Collector", "slug_title": "the-collector", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

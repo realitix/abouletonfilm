@@ -1,0 +1,1 @@
+{"tmdb_id": 53167, "title": "Freiheit", "original_title": "Freiheit", "slug_title": "freiheit", "date": "1966-01-01", "genre": "Drame", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urgt0q8jo1227pLcj1u5AoKglT0.jpg", "actors": ["Randal Kleiser (Boy)"], "comments": [], "recommandations_id": [144682, 356470, 48331, 48443]}

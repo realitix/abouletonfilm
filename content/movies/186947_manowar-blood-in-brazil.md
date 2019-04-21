@@ -1,0 +1,1 @@
+{"tmdb_id": 186947, "title": "Manowar: Blood In Brazil", "original_title": "Manowar: Blood In Brazil", "slug_title": "manowar-blood-in-brazil", "date": "1998-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmqMZw5yx3ABODB3FVUyPwK2SNA.jpg", "actors": [], "comments": [], "recommandations_id": []}

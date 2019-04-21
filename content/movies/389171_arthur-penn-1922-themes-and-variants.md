@@ -1,0 +1,1 @@
+{"tmdb_id": 389171, "title": "Arthur Penn, 1922-: Themes and Variants", "original_title": "Arthur Penn, 1922-: Themes and Variants", "slug_title": "arthur-penn-1922-themes-and-variants", "date": "1970-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

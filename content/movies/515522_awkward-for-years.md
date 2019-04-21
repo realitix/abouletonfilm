@@ -1,0 +1,1 @@
+{"tmdb_id": 515522, "title": "Awkward for Years", "original_title": "Awkward for Years", "slug_title": "awkward-for-years", "date": "1994-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

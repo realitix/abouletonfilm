@@ -1,0 +1,1 @@
+{"tmdb_id": 559733, "title": "Shostakovich - Bolt", "original_title": "Shostakovich - Bolt", "slug_title": "shostakovich-bolt", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOmPhxBsLs483A29c70gLkI3MMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

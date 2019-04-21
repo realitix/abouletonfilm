@@ -1,0 +1,1 @@
+{"tmdb_id": 234051, "title": "Enfund\u00e1 la mandolina", "original_title": "Enfund\u00e1 la mandolina", "slug_title": "enfunda-la-mandolina", "date": "1930-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Gardel ()"], "comments": [], "recommandations_id": []}

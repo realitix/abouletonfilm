@@ -1,0 +1,1 @@
+{"tmdb_id": 421133, "title": "The New Tenants", "original_title": "De nye lejere", "slug_title": "the-new-tenants", "date": "1996-06-29", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

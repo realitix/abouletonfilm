@@ -1,0 +1,1 @@
+{"tmdb_id": 587132, "title": "Manufactured Crisis: HPV, Hype & Horror", "original_title": "Manufactured Crisis: HPV, Hype & Horror", "slug_title": "manufactured-crisis-hpv-hype-horror", "date": "2018-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

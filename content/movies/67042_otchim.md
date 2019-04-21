@@ -1,0 +1,1 @@
+{"tmdb_id": 67042, "title": "Otchim", "original_title": "\u041e\u0442\u0447\u0438\u043c", "slug_title": "otchim", "date": "2007-06-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izAFHNGA19zBHy6xHgci29jDPR8.jpg", "actors": ["Kseniya Knyazeva ()", "Andrey Rudensky ()"], "comments": [], "recommandations_id": []}

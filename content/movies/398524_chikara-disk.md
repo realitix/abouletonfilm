@@ -1,0 +1,1 @@
+{"tmdb_id": 398524, "title": "Chikara: Disk", "original_title": "Chikara: Disk", "slug_title": "chikara-disk", "date": "2016-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pU0RQd8Y4gd0WyBny1gsS8du0tz.jpg", "actors": [], "comments": [], "recommandations_id": []}

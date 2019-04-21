@@ -1,0 +1,1 @@
+{"tmdb_id": 569019, "title": "A Child's Guide to Blowing Up a Motor Car", "original_title": "A Child's Guide to Blowing Up a Motor Car", "slug_title": "a-child-s-guide-to-blowing-up-a-motor-car", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

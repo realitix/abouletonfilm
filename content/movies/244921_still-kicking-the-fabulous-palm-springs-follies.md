@@ -1,0 +1,1 @@
+{"tmdb_id": 244921, "title": "Still Kicking: The Fabulous Palm Springs Follies", "original_title": "Still Kicking: The Fabulous Palm Springs Follies", "slug_title": "still-kicking-the-fabulous-palm-springs-follies", "date": "1997-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

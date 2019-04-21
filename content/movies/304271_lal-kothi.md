@@ -1,0 +1,1 @@
+{"tmdb_id": 304271, "title": "Lal Kothi", "original_title": "Lal Kothi", "slug_title": "lal-kothi", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525772, "title": "Skai Blue", "original_title": "Skai Blue", "slug_title": "skai-blue", "date": "2017-08-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/beqfomMaPHK8QucRgLpFvPJowXH.jpg", "actors": ["Steven van Watermeulen (Tom)", "Adams Mensah (Simon)"], "comments": [], "recommandations_id": []}

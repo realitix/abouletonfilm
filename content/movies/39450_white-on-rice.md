@@ -1,0 +1,1 @@
+{"tmdb_id": 39450, "title": "White on Rice", "original_title": "White on Rice", "slug_title": "white-on-rice", "date": "2009-05-31", "genre": "Com\u00e9die / Romance", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkPi4PzgY7bsh3UAqbwArAIU3QB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195193, "title": "Soldiers Washing Dishes", "original_title": "Soldiers Washing Dishes", "slug_title": "soldiers-washing-dishes", "date": "1898-06-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

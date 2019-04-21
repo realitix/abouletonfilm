@@ -1,0 +1,1 @@
+{"tmdb_id": 252098, "title": "ROH Champions Vs. All Stars", "original_title": "ROH Champions Vs. All Stars", "slug_title": "roh-champions-vs-all-stars", "date": "2011-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/52gbZFb3UqwW2l2m4CNCwhFG3PP.jpg", "actors": [], "comments": [], "recommandations_id": []}

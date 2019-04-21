@@ -1,0 +1,1 @@
+{"tmdb_id": 105497, "title": "The Killer Cumbia", "original_title": "The Killer Cumbia", "slug_title": "the-killer-cumbia", "date": "1991-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/clVYrpOQVL6tBakzIpME85wJ0TA.jpg", "actors": [], "comments": [], "recommandations_id": []}

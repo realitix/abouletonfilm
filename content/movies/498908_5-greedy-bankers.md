@@ -1,0 +1,1 @@
+{"tmdb_id": 498908, "title": "5 Greedy Bankers", "original_title": "5 Greedy Bankers", "slug_title": "5-greedy-bankers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21eDeG879lczMLfNemVQ2XOrsM2.jpg", "actors": [], "comments": [], "recommandations_id": []}

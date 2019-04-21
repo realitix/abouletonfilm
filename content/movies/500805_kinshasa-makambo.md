@@ -1,0 +1,1 @@
+{"tmdb_id": 500805, "title": "Kinshasa Makambo", "original_title": "Kinshasa Makambo", "slug_title": "kinshasa-makambo", "date": "2018-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5sM12rGO8ycbHG2ykkE0ClWPV3n.jpg", "actors": [], "comments": [], "recommandations_id": []}

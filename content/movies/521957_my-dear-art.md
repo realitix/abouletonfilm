@@ -1,0 +1,1 @@
+{"tmdb_id": 521957, "title": "My Dear Art", "original_title": "\u4e00\u500b\u4eba\u7684\u6536\u85cf", "slug_title": "my-dear-art", "date": "2017-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oRYbrpFA9zfKtUcJTiFgojAwpX.jpg", "actors": [], "comments": [], "recommandations_id": []}

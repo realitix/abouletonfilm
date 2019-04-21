@@ -1,0 +1,1 @@
+{"tmdb_id": 519643, "title": "American International Pictures", "original_title": "American International Pictures", "slug_title": "american-international-pictures", "date": "1997-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

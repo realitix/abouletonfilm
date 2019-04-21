@@ -1,0 +1,1 @@
+{"tmdb_id": 53708, "title": "Hemk\u00f6rt", "original_title": "Hemk\u00f6rt", "slug_title": "hemkort", "date": "1990-09-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6Gs8BvaowT8HaFouK0IUKFlfvS.jpg", "actors": [], "comments": [], "recommandations_id": []}

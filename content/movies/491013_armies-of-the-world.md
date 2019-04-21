@@ -1,0 +1,1 @@
+{"tmdb_id": 491013, "title": "Armies of the World", "original_title": "No rekkoku rikugun", "slug_title": "armies-of-the-world", "date": "1932-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421434, "title": "Minute Waltz", "original_title": "Valse Minute", "slug_title": "minute-waltz", "date": "1967-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

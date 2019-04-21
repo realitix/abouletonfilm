@@ -1,0 +1,1 @@
+{"tmdb_id": 539303, "title": "Technicolor Fashion Parade", "original_title": "Technicolor Fashion Parade", "slug_title": "technicolor-fashion-parade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

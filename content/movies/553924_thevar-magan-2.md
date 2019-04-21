@@ -1,0 +1,1 @@
+{"tmdb_id": 553924, "title": "Thevar Magan 2", "original_title": "Thevar Magan 2", "slug_title": "thevar-magan-2", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal Haasan (Shaktivelu)"], "comments": [], "recommandations_id": []}

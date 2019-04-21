@@ -1,0 +1,1 @@
+{"tmdb_id": 543263, "title": "Furniture Isn't Just Furniture", "original_title": "M\u00f8bler er ikke bare m\u00f8bler", "slug_title": "furniture-isn-t-just-furniture", "date": "2017-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

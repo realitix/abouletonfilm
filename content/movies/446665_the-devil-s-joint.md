@@ -1,0 +1,1 @@
+{"tmdb_id": 446665, "title": "The Devil's Joint", "original_title": "The Devil's Joint", "slug_title": "the-devil-s-joint", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

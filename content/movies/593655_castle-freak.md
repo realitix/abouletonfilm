@@ -1,0 +1,1 @@
+{"tmdb_id": 593655, "title": "Castle Freak", "original_title": "Castle Freak", "slug_title": "castle-freak", "date": "2020-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

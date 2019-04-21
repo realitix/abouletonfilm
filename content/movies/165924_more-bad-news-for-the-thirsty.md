@@ -1,0 +1,1 @@
+{"tmdb_id": 165924, "title": "More Bad News for the Thirsty", "original_title": "More Bad News for the Thirsty", "slug_title": "more-bad-news-for-the-thirsty", "date": "1930-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v09W7cYmzRLNIhf6o8nr5OAv3il.jpg", "actors": [], "comments": [], "recommandations_id": []}

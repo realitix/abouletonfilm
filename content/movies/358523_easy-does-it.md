@@ -1,0 +1,1 @@
+{"tmdb_id": 358523, "title": "Easy Does It", "original_title": "Easy Does It", "slug_title": "easy-does-it", "date": "1946-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

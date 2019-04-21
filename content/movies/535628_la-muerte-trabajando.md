@@ -1,0 +1,1 @@
+{"tmdb_id": 535628, "title": "La muerte trabajando", "original_title": "La muerte trabajando", "slug_title": "la-muerte-trabajando", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

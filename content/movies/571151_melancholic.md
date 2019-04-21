@@ -1,0 +1,1 @@
+{"tmdb_id": 571151, "title": "Melancholic", "original_title": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af", "slug_title": "melancholic", "date": "2018-10-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yoji Minagawa ()", "Yoshitomo Isozaki ()", "Mebuki Yoshida ()"], "comments": [], "recommandations_id": []}

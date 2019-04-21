@@ -1,0 +1,1 @@
+{"tmdb_id": 322282, "title": "Preethi Vatsalya", "original_title": "Preethi Vatsalya", "slug_title": "preethi-vatsalya", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

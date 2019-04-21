@@ -1,0 +1,1 @@
+{"tmdb_id": 510495, "title": "A Good Man", "original_title": "A Good Man", "slug_title": "a-good-man", "date": "2014-06-14", "genre": "Animation / Drame / Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bryan Wilmoth (Himself)", "Mike Wilmoth (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588267, "title": "Wanderer", "original_title": "Amukan", "slug_title": "wanderer", "date": "2018-11-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Manquepi ()", "Jorge Manquepi ()"], "comments": [], "recommandations_id": []}

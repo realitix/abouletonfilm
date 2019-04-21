@@ -1,0 +1,1 @@
+{"tmdb_id": 559248, "title": "The Idol", "original_title": "L'idole", "slug_title": "the-idol", "date": "1948-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gSNJn8OQXc6brwT7aOwe4neunpW.jpg", "actors": [], "comments": [], "recommandations_id": []}

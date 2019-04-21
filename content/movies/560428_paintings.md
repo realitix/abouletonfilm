@@ -1,0 +1,1 @@
+{"tmdb_id": 560428, "title": "Paintings", "original_title": "Paintings", "slug_title": "paintings", "date": "1958-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

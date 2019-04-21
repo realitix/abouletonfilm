@@ -1,0 +1,1 @@
+{"tmdb_id": 69202, "title": "Look at Dis: Gun", "original_title": "Look at Dis: Gun", "slug_title": "look-at-dis-gun", "date": "1997-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CwNcGNeA1XZZ5H1hIAfVPvxBQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

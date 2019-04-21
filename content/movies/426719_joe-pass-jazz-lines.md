@@ -1,0 +1,1 @@
+{"tmdb_id": 426719, "title": "Joe Pass: Jazz Lines", "original_title": "Joe Pass: Jazz Lines", "slug_title": "joe-pass-jazz-lines", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 219271, "title": "Trashland", "original_title": "Trashland", "slug_title": "trashland", "date": "2011-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Bain-Darby (Little Girl)", "William Beckwith (Trashman)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 133162, "title": "The Return to 'A'", "original_title": "Vozvrashchenie v 'A'", "slug_title": "the-return-to-a", "date": "2011-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIlT4KE9bW2OSxQRCEfUvHpYiR.jpg", "actors": ["Karlygash Mukhamedzhanova ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 260599, "title": "Cotton Mill, Treadmill", "original_title": "On est au coton", "slug_title": "cotton-mill-treadmill", "date": "1976-10-13", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xQRPMVQYRWbSHL3GTHhle1NyajR.jpg", "actors": [], "comments": [], "recommandations_id": []}

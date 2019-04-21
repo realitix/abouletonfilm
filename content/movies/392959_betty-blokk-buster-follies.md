@@ -1,0 +1,1 @@
+{"tmdb_id": 392959, "title": "Betty Blokk-buster Follies", "original_title": "Betty Blokk-buster Follies", "slug_title": "betty-blokk-buster-follies", "date": "1976-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJ9UMdMCp9k4yPNMZ6hV6BLKetN.jpg", "actors": [], "comments": [], "recommandations_id": []}

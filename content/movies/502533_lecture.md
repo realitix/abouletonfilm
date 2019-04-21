@@ -1,0 +1,1 @@
+{"tmdb_id": 502533, "title": "#Lecture", "original_title": "#Lecture", "slug_title": "lecture", "date": "2018-02-02", "genre": "", "score": "6.0/10", "synopsis": "\"J'ai not\u00e9 des nouvelles vannes pour mon prochain spectacle, je vais vous les lire.\"", "image": "/img/default-cover.png", "actors": ["Mustapha El Atrassi ()"], "comments": [], "recommandations_id": []}

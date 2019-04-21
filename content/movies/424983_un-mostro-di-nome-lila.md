@@ -1,0 +1,1 @@
+{"tmdb_id": 424983, "title": "Un mostro di nome Lila", "original_title": "Un mostro di nome Lila", "slug_title": "un-mostro-di-nome-lila", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFNQSa3TqxKZc4T6M7K5QH05qXY.jpg", "actors": ["Eva Henger (Lila)"], "comments": [], "recommandations_id": []}

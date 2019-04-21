@@ -1,0 +1,1 @@
+{"tmdb_id": 32256, "title": "Tai Chi - The 24 Forms", "original_title": "Tai Chi - The 24 Forms", "slug_title": "tai-chi-the-24-forms", "date": "2004-10-05", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ur3M0Z28mTJ77DDIquA9YDcUfWt.jpg", "actors": ["Dr Paul Lamb (Dr Paul Lam)"], "comments": [], "recommandations_id": []}

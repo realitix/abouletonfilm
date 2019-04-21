@@ -1,0 +1,1 @@
+{"tmdb_id": 276196, "title": "Tenrikyo, Tradition Through Black Robe", "original_title": "Tenrikyo, une tradition en toge noire", "slug_title": "tenrikyo-tradition-through-black-robe", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

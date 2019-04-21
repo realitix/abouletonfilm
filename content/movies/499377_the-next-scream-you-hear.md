@@ -1,0 +1,1 @@
+{"tmdb_id": 499377, "title": "The Next Scream You Hear", "original_title": "The Next Scream You Hear", "slug_title": "the-next-scream-you-hear", "date": "1974-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

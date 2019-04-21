@@ -1,0 +1,1 @@
+{"tmdb_id": 204581, "title": "Hell Is A Place Called Hollywood", "original_title": "Hell Is A Place Called Hollywood", "slug_title": "hell-is-a-place-called-hollywood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

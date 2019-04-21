@@ -1,0 +1,1 @@
+{"tmdb_id": 346269, "title": "Havretunet", "original_title": "Havretunet", "slug_title": "havretunet", "date": "1952-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

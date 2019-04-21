@@ -1,0 +1,1 @@
+{"tmdb_id": 133718, "title": "Stinger", "original_title": "Stinger", "slug_title": "stinger", "date": "2005-01-01", "genre": "", "score": "2.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yi04bgFejmez8VYQRpmbBrVk6p.jpg", "actors": [], "comments": [], "recommandations_id": [220778, 69942, 136568, 16160]}

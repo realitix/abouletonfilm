@@ -1,0 +1,1 @@
+{"tmdb_id": 349970, "title": "\ub0b4\uc774\ub984 \uc30d\ub2e4\ub9ac", "original_title": "\ub0b4\uc774\ub984 \uc30d\ub2e4\ub9ac", "slug_title": "naeireum-ssangdari", "date": "1982-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

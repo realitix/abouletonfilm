@@ -1,0 +1,1 @@
+{"tmdb_id": 155470, "title": "Love Ain't Suppose to Hurt 2: The Wedding", "original_title": "Love Ain't Suppose to Hurt 2: The Wedding", "slug_title": "love-ain-t-suppose-to-hurt-2-the-wedding", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

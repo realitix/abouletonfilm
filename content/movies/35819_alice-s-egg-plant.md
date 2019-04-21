@@ -1,0 +1,1 @@
+{"tmdb_id": 35819, "title": "Alice's Egg Plant", "original_title": "Alice's Egg Plant", "slug_title": "alice-s-egg-plant", "date": "1925-01-01", "genre": "Animation", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5nIXakwEvl8UlX9AWFZvscxsBVa.jpg", "actors": ["Anne Shirley (Alice)"], "comments": [], "recommandations_id": [180677]}

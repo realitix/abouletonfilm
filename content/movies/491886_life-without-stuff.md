@@ -1,0 +1,1 @@
+{"tmdb_id": 491886, "title": "Life Without Stuff", "original_title": "Life Without Stuff", "slug_title": "life-without-stuff", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9mQBE9tyu2eE71CJYvuKl7vepqx.jpg", "actors": [], "comments": [], "recommandations_id": []}

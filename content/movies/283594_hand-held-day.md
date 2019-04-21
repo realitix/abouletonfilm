@@ -1,0 +1,1 @@
+{"tmdb_id": 283594, "title": "Hand Held Day", "original_title": "Hand Held Day", "slug_title": "hand-held-day", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRNceqGUEsM0zoNaBHfPY4vfim5.jpg", "actors": [], "comments": [], "recommandations_id": []}

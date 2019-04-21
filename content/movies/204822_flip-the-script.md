@@ -1,0 +1,1 @@
+{"tmdb_id": 204822, "title": "Flip the Script", "original_title": "Flip the Script", "slug_title": "flip-the-script", "date": "2005-06-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

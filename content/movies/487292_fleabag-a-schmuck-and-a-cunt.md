@@ -1,0 +1,1 @@
+{"tmdb_id": 487292, "title": "Fleabag + A Schmuck and a Cunt", "original_title": "Fleabag + A Schmuck and a Cunt", "slug_title": "fleabag-a-schmuck-and-a-cunt", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7sRu9ZFWOiJrf5C3H0HVGLy2mq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 590030, "title": "Knowledge of the Cone", "original_title": "Knowledge of the Cone", "slug_title": "knowledge-of-the-cone", "date": "2007-03-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFjIhIYPo6QItzz7WMU8xlWzTU8.jpg", "actors": [], "comments": [], "recommandations_id": []}

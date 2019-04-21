@@ -1,0 +1,1 @@
+{"tmdb_id": 274337, "title": "Luisa Miller", "original_title": "Luisa Miller", "slug_title": "luisa-miller", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

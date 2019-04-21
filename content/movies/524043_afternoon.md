@@ -1,0 +1,1 @@
+{"tmdb_id": 524043, "title": "Afternoon", "original_title": "Afternoon", "slug_title": "afternoon", "date": "1965-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edie Sedgwick ()", "Ondine ()", "Dorothy Dean ()", "Arthur Loeb ()", "Donald Lyons ()"], "comments": [], "recommandations_id": []}

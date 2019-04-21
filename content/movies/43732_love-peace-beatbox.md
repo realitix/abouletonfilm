@@ -1,0 +1,1 @@
+{"tmdb_id": 43732, "title": "Love, Peace & Beatbox", "original_title": "Love, Peace & Beatbox", "slug_title": "love-peace-beatbox", "date": "2008-09-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWo6bQ7hD0zBcZ0nM3ducqGbvsC.jpg", "actors": [], "comments": [], "recommandations_id": []}

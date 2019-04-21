@@ -1,0 +1,1 @@
+{"tmdb_id": 333849, "title": "Cigars! The New Rage!", "original_title": "Cigars! The New Rage!", "slug_title": "cigars-the-new-rage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rick Dees (Host)"], "comments": [], "recommandations_id": []}

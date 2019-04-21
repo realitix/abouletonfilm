@@ -1,0 +1,1 @@
+{"tmdb_id": 199784, "title": "The Tragic Side of Comedy", "original_title": "The Tragic Side of Comedy", "slug_title": "the-tragic-side-of-comedy", "date": "2009-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eClfuJZ0aCBJgqk20Xng3hPjTED.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 50981, "title": "Run Swinger Run!", "original_title": "Run Swinger Run!", "slug_title": "run-swinger-run", "date": "1967-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a9KqBD84660mnJI1Y1fl3Ihqhrd.jpg", "actors": [], "comments": [], "recommandations_id": []}

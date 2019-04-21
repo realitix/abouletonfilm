@@ -1,0 +1,1 @@
+{"tmdb_id": 270864, "title": "Ricky Nelson: Original Teen Idol", "original_title": "Ricky Nelson: Original Teen Idol", "slug_title": "ricky-nelson-original-teen-idol", "date": "1999-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

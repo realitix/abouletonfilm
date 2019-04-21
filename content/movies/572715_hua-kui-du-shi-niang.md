@@ -1,0 +1,1 @@
+{"tmdb_id": 572715, "title": "\u82b1\u9b41\u675c\u5341\u5a18", "original_title": "\u82b1\u9b41\u675c\u5341\u5a18", "slug_title": "hua-kui-du-shi-niang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pu7QTqCpjsiR63Cyt1dacVXtgTz.jpg", "actors": [], "comments": [], "recommandations_id": []}

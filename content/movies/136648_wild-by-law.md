@@ -1,0 +1,1 @@
+{"tmdb_id": 136648, "title": "Wild by Law", "original_title": "Wild by Law", "slug_title": "wild-by-law", "date": "1991-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4BxKrX4NwQm5TplYoEK9alyV7jg.jpg", "actors": [], "comments": [], "recommandations_id": []}

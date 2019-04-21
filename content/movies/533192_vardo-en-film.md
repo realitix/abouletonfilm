@@ -1,0 +1,1 @@
+{"tmdb_id": 533192, "title": "Vard\u00f8 \u2013 en film", "original_title": "Vard\u00f8 \u2013 en film", "slug_title": "vardo-en-film", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

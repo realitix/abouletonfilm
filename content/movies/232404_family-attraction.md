@@ -1,0 +1,1 @@
+{"tmdb_id": 232404, "title": "Family Attraction", "original_title": "Family Attraction", "slug_title": "family-attraction", "date": "1998-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Penn (Father)", "Corinne Bohrer (Mother)"], "comments": [], "recommandations_id": []}

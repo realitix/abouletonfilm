@@ -1,0 +1,1 @@
+{"tmdb_id": 373435, "title": "Festivals of Japan", "original_title": "\u65e5\u672c\u306e\u796d\u308a", "slug_title": "festivals-of-japan", "date": "2007-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

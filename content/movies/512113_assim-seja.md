@@ -1,0 +1,1 @@
+{"tmdb_id": 512113, "title": "Assim Seja", "original_title": "Assim Seja", "slug_title": "assim-seja", "date": "2018-03-10", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jbE8PjicRo8VyWoJemOEjl0wB8I.jpg", "actors": ["Diane Veloso (Mulher)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520968, "title": "The Dirt Inside", "original_title": "The Dirt Inside", "slug_title": "the-dirt-inside", "date": "1998-01-01", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCfk0Am9npEyyJtlRnRwgS6YPP8.jpg", "actors": [], "comments": [], "recommandations_id": []}

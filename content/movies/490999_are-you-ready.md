@@ -1,0 +1,1 @@
+{"tmdb_id": 490999, "title": "Are You Ready?", "original_title": "\uc544\uc720\ub808\ub514?", "slug_title": "are-you-ready", "date": "2013-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQKAgZpXkO2ye3VjNPDkg34TY0p.jpg", "actors": [], "comments": [], "recommandations_id": []}

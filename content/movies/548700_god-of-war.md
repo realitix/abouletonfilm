@@ -1,0 +1,1 @@
+{"tmdb_id": 548700, "title": "God of War", "original_title": "God of War", "slug_title": "god-of-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

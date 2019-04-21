@@ -1,0 +1,1 @@
+{"tmdb_id": 318761, "title": "Mozart: The Magic Flute", "original_title": "Die Zauberfl\u00f6te", "slug_title": "mozart-the-magic-flute", "date": "2001-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBtu7tqoZDLsEmmYA4NNnEgnkfb.jpg", "actors": [], "comments": [], "recommandations_id": []}

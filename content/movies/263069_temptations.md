@@ -1,0 +1,1 @@
+{"tmdb_id": 263069, "title": "Temptations", "original_title": "K\u00eds\u00e9rt\u00e9sek", "slug_title": "temptations", "date": "2002-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYhdkT1EnUNdBsfkADJef82c7rF.jpg", "actors": [], "comments": [], "recommandations_id": []}

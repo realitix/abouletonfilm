@@ -1,0 +1,1 @@
+{"tmdb_id": 334322, "title": "Happy, Ang Emo nga Iro", "original_title": "Happy, Ang Emo nga Iro", "slug_title": "happy-ang-emo-nga-iro", "date": "2013-01-20", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nfrQfoAkqwo4tuYqNtJNwaB1heF.jpg", "actors": [], "comments": [], "recommandations_id": []}

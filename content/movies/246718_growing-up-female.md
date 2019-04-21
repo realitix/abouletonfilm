@@ -1,0 +1,1 @@
+{"tmdb_id": 246718, "title": "Growing Up Female", "original_title": "Growing Up Female", "slug_title": "growing-up-female", "date": "1971-06-28", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjIGCHFiVmxoNBR5y3xb8hASnL9.jpg", "actors": ["Jim Klein ()", "Julia Reichert ()"], "comments": [], "recommandations_id": []}

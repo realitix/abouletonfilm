@@ -1,0 +1,1 @@
+{"tmdb_id": 376247, "title": "The New Boys", "original_title": "The New Boys", "slug_title": "the-new-boys", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUGrTV8YEGiDjzMLyl1wGihMg7D.jpg", "actors": [], "comments": [], "recommandations_id": []}

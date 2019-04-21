@@ -1,0 +1,1 @@
+{"tmdb_id": 537251, "title": "Emperor of Upheaval", "original_title": "\u6c11\u66b4\u306e\u5e1d\u738b", "slug_title": "emperor-of-upheaval", "date": "1993-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ayhYaAfgXfthbdZYn2MnkxGOew.jpg", "actors": [], "comments": [], "recommandations_id": []}

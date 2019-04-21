@@ -1,0 +1,1 @@
+{"tmdb_id": 348753, "title": "Pawel and Wawel", "original_title": "Pawel and Wawel", "slug_title": "pawel-and-wawel", "date": "2015-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DvDPn2rfOtp3ZpWCGkxEHWd8Yl.jpg", "actors": [], "comments": [], "recommandations_id": []}

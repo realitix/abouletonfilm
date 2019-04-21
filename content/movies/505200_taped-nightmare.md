@@ -1,0 +1,1 @@
+{"tmdb_id": 505200, "title": "Taped Nightmare", "original_title": "B\u00e5ndet Mareridt", "slug_title": "taped-nightmare", "date": "2012-02-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonas Frederiksen ()", "Simon Van Deurs Formann ()", "Alexander Fnug Olsen ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 98419, "title": "A Night at the Magic Castle", "original_title": "A Night at the Magic Castle", "slug_title": "a-night-at-the-magic-castle", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOxtgUPPjHWOpGtgBp7u44oRpNR.jpg", "actors": [], "comments": [], "recommandations_id": []}

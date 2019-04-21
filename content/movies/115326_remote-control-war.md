@@ -1,0 +1,1 @@
+{"tmdb_id": 115326, "title": "Remote Control War", "original_title": "Remote Control War", "slug_title": "remote-control-war", "date": "2011-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y72Eb7V9PznRrjfNuA4A0KhKAyO.jpg", "actors": [], "comments": [], "recommandations_id": []}

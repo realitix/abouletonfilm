@@ -1,0 +1,1 @@
+{"tmdb_id": 311774, "title": "Drive by Truckers: The Dirty South", "original_title": "Drive by Truckers: The Dirty South", "slug_title": "drive-by-truckers-the-dirty-south", "date": "2005-04-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

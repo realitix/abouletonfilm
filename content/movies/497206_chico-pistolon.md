@@ -1,0 +1,1 @@
+{"tmdb_id": 497206, "title": "Chico pistol\u00f3n", "original_title": "Chico pistol\u00f3n", "slug_title": "chico-pistolon", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Almada ()", "Alfonso Zayas ()", "Juan Gallardo ()", "Sonia Bayardo ()", "Julio Rasec ()"], "comments": [], "recommandations_id": []}

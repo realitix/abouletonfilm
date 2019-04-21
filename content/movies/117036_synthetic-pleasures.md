@@ -1,0 +1,1 @@
+{"tmdb_id": 117036, "title": "Synthetic Pleasures", "original_title": "Synthetic Pleasures", "slug_title": "synthetic-pleasures", "date": "1995-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEjGkReYxgt0SaV8E25LcCmik1U.jpg", "actors": [], "comments": [], "recommandations_id": []}

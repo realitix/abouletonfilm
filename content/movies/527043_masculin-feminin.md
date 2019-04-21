@@ -1,0 +1,1 @@
+{"tmdb_id": 527043, "title": "Masculin-Feminin", "original_title": "Masculin-Feminin", "slug_title": "masculin-feminin", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512422, "title": "The Darkling", "original_title": "The Darkling", "slug_title": "the-darkling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

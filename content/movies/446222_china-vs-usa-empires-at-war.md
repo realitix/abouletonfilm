@@ -1,0 +1,1 @@
+{"tmdb_id": 446222, "title": "China vs USA: Empires at War", "original_title": "China vs USA: Empires at War", "slug_title": "china-vs-usa-empires-at-war", "date": "", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5iofmuwsrxW8GpdUGGLX870UTl.jpg", "actors": [], "comments": [], "recommandations_id": []}

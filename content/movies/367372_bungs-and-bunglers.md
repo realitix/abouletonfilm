@@ -1,0 +1,1 @@
+{"tmdb_id": 367372, "title": "Bungs and Bunglers", "original_title": "Bungs and Bunglers", "slug_title": "bungs-and-bunglers", "date": "1919-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Aubrey (Jimmy)", "Oliver Hardy (Al K. Hall)", "Richard Smith ()"], "comments": [], "recommandations_id": []}

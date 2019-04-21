@@ -1,0 +1,1 @@
+{"tmdb_id": 204015, "title": "Jacques Cousteau. The Movie", "original_title": "Jacques Cousteau. The Movie", "slug_title": "jacques-cousteau-the-movie", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xEZcKfLXKAaVogGaYaAF81BWIoH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 112772, "title": "Frisian Terror", "original_title": "Frisian Terror", "slug_title": "frisian-terror", "date": "2009-03-12", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tOGdPaN4MZVIRVz102rcGQBShZ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

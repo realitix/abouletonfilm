@@ -1,0 +1,1 @@
+{"tmdb_id": 425777, "title": "Los Taitas", "original_title": "Los Taitas", "slug_title": "los-taitas", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

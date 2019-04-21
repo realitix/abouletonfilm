@@ -1,0 +1,1 @@
+{"tmdb_id": 154271, "title": "Fire Groove All Stars vol 1", "original_title": "Fire Groove All Stars vol 1", "slug_title": "fire-groove-all-stars-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNMHhcURylOsvt2fPH2xMXc0HDF.jpg", "actors": [], "comments": [], "recommandations_id": []}

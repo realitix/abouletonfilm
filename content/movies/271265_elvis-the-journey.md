@@ -1,0 +1,1 @@
+{"tmdb_id": 271265, "title": "Elvis: The Journey", "original_title": "Elvis: The Journey", "slug_title": "elvis-the-journey", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zu9hCwvK53glnYiCloH0Iwpn346.jpg", "actors": ["Elvis Presley (Himself)"], "comments": [], "recommandations_id": []}

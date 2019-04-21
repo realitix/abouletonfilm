@@ -1,0 +1,1 @@
+{"tmdb_id": 282300, "title": "Face Hunter", "original_title": "Nue Mian Ren", "slug_title": "face-hunter", "date": "2014-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pv8wAZkTW6E26eq0lU1nTWNRf40.jpg", "actors": [], "comments": [], "recommandations_id": []}

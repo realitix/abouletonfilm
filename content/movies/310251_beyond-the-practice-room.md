@@ -1,0 +1,1 @@
+{"tmdb_id": 310251, "title": "Beyond the Practice Room", "original_title": "Beyond the Practice Room", "slug_title": "beyond-the-practice-room", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

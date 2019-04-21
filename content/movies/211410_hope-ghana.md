@@ -1,0 +1,1 @@
+{"tmdb_id": 211410, "title": "Hope, Ghana", "original_title": "Hope, Ghana", "slug_title": "hope-ghana", "date": "2010-10-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tanya Myers (Himself)", "Laurie Thibert (Himself)", "Zheng Wang (Himself)"], "comments": [], "recommandations_id": []}

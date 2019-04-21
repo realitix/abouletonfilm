@@ -1,0 +1,1 @@
+{"tmdb_id": 102442, "title": "Skeleton Frolics", "original_title": "Skeleton Frolics", "slug_title": "skeleton-frolics", "date": "1937-01-29", "genre": "Musique / Horreur / Com\u00e9die / Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJZS6uBEt9YA8fx0oJV3Xtxkc9I.jpg", "actors": [], "comments": [], "recommandations_id": []}

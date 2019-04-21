@@ -1,0 +1,1 @@
+{"tmdb_id": 92009, "title": "Jan Plewka sings Rio Reiser", "original_title": "Jan Plewka singt Rio Reiser", "slug_title": "jan-plewka-sings-rio-reiser", "date": "", "genre": "Musique / Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SKoALCIk7ScudOQwp19dglwwLy.jpg", "actors": [], "comments": [], "recommandations_id": []}

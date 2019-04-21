@@ -1,0 +1,1 @@
+{"tmdb_id": 271549, "title": "Lightnin' Hopkins & Roosevelt Sykes", "original_title": "Lightnin' Hopkins & Roosevelt Sykes", "slug_title": "lightnin-hopkins-roosevelt-sykes", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 316390, "title": "Creed of Gold", "original_title": "Creed of Gold", "slug_title": "creed-of-gold", "date": "2014-08-12", "genre": "Action / Drame / Thriller", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lt3vVZ3hzDnXIAi8n1kmC8WiPlM.jpg", "actors": [], "comments": [], "recommandations_id": []}

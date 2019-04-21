@@ -1,0 +1,1 @@
+{"tmdb_id": 519124, "title": "Tzkai\u015fi Ekole", "original_title": "Tzkai\u015fi Ekole", "slug_title": "tzkaisi-ekole", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zF5qLgNE5HA84Wj4mAyKtHCPyOc.jpg", "actors": [], "comments": [], "recommandations_id": []}

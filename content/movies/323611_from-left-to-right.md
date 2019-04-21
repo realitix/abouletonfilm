@@ -1,0 +1,1 @@
+{"tmdb_id": 323611, "title": "From Left to Right", "original_title": "Sleva Napravo", "slug_title": "from-left-to-right", "date": "1989-02-05", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KSX0CLQFUNGryodPISE4S62btj.jpg", "actors": [], "comments": [], "recommandations_id": []}

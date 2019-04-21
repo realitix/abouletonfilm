@@ -1,0 +1,1 @@
+{"tmdb_id": 398066, "title": "Mama Mama's Soup", "original_title": "Mama Mama's Soup", "slug_title": "mama-mama-s-soup", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

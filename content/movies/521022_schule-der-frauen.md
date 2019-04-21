@@ -1,0 +1,1 @@
+{"tmdb_id": 521022, "title": "Schule der Frauen", "original_title": "Schule der Frauen", "slug_title": "schule-der-frauen", "date": "1965-03-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monika Lennartz (Agnes)", "Ingeborg Krabbe (Georgette)", "Horst Preusker (Enrique)"], "comments": [], "recommandations_id": []}

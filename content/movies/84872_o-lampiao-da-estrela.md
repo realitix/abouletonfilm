@@ -1,0 +1,1 @@
+{"tmdb_id": 84872, "title": "O Lampi\u00e3o da Estrela", "original_title": "O Lampi\u00e3o da Estrela", "slug_title": "o-lampiao-da-estrela", "date": "2000-05-30", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94l36r4G2qmBEJ7h9Uo0Zarem4H.jpg", "actors": [], "comments": [], "recommandations_id": []}

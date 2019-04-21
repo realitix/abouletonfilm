@@ -1,0 +1,1 @@
+{"tmdb_id": 365163, "title": "The Magnificent Kick", "original_title": "The Magnificent Kick", "slug_title": "the-magnificent-kick", "date": "1980-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ooQbAaT361DDH1F3ccwx53kNc4e.jpg", "actors": ["Kwan Tak-Hing ()"], "comments": [], "recommandations_id": []}

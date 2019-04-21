@@ -1,0 +1,1 @@
+{"tmdb_id": 186139, "title": "DPRK: The Land Of Whispers", "original_title": "DPRK: The Land Of Whispers", "slug_title": "dprk-the-land-of-whispers", "date": "2013-03-28", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lfXWifoMlbmmQTwTTf3i4CHNzCL.jpg", "actors": [], "comments": [], "recommandations_id": []}

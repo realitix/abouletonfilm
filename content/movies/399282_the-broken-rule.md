@@ -1,0 +1,1 @@
+{"tmdb_id": 399282, "title": "The Broken Rule", "original_title": "The Broken Rule", "slug_title": "the-broken-rule", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

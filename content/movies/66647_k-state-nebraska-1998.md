@@ -1,0 +1,1 @@
+{"tmdb_id": 66647, "title": "K-State | Nebraska 1998", "original_title": "K-State | Nebraska 1998", "slug_title": "k-state-nebraska-1998", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Gdvr4mhwwU6lbyhlQQdZeeSrbj.jpg", "actors": ["Bill Snyder ()"], "comments": [], "recommandations_id": []}

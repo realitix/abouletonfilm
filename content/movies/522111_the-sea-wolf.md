@@ -1,0 +1,1 @@
+{"tmdb_id": 522111, "title": "The Sea Wolf", "original_title": "The Sea Wolf", "slug_title": "the-sea-wolf", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Ian Griffith ()", "Gerit Kling ()", "Barry Flatman ()", "Sof\u00eda Mazagatos ()", "Ren\u00e9 de la Cruz ()"], "comments": [], "recommandations_id": []}

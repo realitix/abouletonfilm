@@ -1,0 +1,1 @@
+{"tmdb_id": 573105, "title": "Antologia di film fatti dai bambini", "original_title": "Antologia di film fatti dai bambini", "slug_title": "antologia-di-film-fatti-dai-bambini", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 430487, "title": "Who Goes There? Channeling", "original_title": "Who Goes There? Channeling", "slug_title": "who-goes-there-channeling", "date": "1993-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muWcZUSYcTNs96PVctVPznGcRK6.jpg", "actors": [], "comments": [], "recommandations_id": []}

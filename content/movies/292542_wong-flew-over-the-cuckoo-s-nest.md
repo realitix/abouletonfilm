@@ -1,0 +1,1 @@
+{"tmdb_id": 292542, "title": "Wong Flew Over the Cuckoo's Nest", "original_title": "Wong Flew Over the Cuckoo's Nest", "slug_title": "wong-flew-over-the-cuckoo-s-nest", "date": "2011-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

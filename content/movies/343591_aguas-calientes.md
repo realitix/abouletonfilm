@@ -1,0 +1,1 @@
+{"tmdb_id": 343591, "title": "Aguas Calientes", "original_title": "Aguas Calientes", "slug_title": "aguas-calientes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dCKHpkrsiToPH4HAltuJdCsLzIr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 544889, "title": "Good Bye", "original_title": "Good Bye", "slug_title": "good-bye", "date": "2018-08-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Padma Vasanthi ()", "Victory Vashu ()", "Shobh Raj ()"], "comments": [], "recommandations_id": []}

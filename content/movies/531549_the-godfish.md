@@ -1,0 +1,1 @@
+{"tmdb_id": 531549, "title": "The Godfish", "original_title": "The Godfish", "slug_title": "the-godfish", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kRmgBqzLoBZrlDTrJrwTQBHjVK0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 402971, "title": "L'homme aux cent trucs", "original_title": "L'homme aux cent trucs", "slug_title": "l-homme-aux-cent-trucs", "date": "1901-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

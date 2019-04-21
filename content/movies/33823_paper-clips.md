@@ -1,0 +1,1 @@
+{"tmdb_id": 33823, "title": "Paper Clips", "original_title": "Paper Clips", "slug_title": "paper-clips", "date": "2004-09-08", "genre": "Documentaire", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62E1tAw370MbsXWeTR10bg5VX5N.jpg", "actors": [], "comments": [], "recommandations_id": [41303, 40428, 9082, 78527]}

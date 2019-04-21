@@ -1,0 +1,1 @@
+{"tmdb_id": 40159, "title": "The Amazing Trousers", "original_title": "The Amazing Trousers", "slug_title": "the-amazing-trousers", "date": "2007-07-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Bamber (The Tailor)", "Alice Eve (Colette)", "Kris Marshall (Henry)"], "comments": [], "recommandations_id": []}

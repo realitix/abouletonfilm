@@ -1,0 +1,1 @@
+{"tmdb_id": 549922, "title": "Getting Angry", "original_title": "Getting Angry", "slug_title": "getting-angry", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

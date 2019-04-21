@@ -1,0 +1,1 @@
+{"tmdb_id": 486705, "title": "1.872.000 Minutes/Noves Fora?", "original_title": "1.872.000 Minutes/Noves Fora?", "slug_title": "1-872-000-minutes-noves-fora", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

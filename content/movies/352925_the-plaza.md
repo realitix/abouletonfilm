@@ -1,0 +1,1 @@
+{"tmdb_id": 352925, "title": "The Plaza", "original_title": "La plaza", "slug_title": "the-plaza", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odvOWUAvZZg8TIuPS1Zkd5Y1fgG.jpg", "actors": [], "comments": [], "recommandations_id": []}

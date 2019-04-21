@@ -1,0 +1,1 @@
+{"tmdb_id": 572372, "title": "Une vie de prince", "original_title": "Une vie de prince", "slug_title": "une-vie-de-prince", "date": "1999-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/be11Yj06OMeqD1yhp6YzZQ1FdhN.jpg", "actors": [], "comments": [], "recommandations_id": []}

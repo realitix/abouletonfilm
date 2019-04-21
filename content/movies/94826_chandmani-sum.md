@@ -1,0 +1,1 @@
+{"tmdb_id": 94826, "title": "Chandmani Sum", "original_title": "Chandmani Sum", "slug_title": "chandmani-sum", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1o2KU56WAMGaODMSYBDwQ5oPQmT.jpg", "actors": [], "comments": [], "recommandations_id": []}

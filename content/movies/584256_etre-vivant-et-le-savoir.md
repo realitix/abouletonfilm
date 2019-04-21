@@ -1,0 +1,1 @@
+{"tmdb_id": 584256, "title": "Etre vivant et le savoir", "original_title": "Etre vivant et le savoir", "slug_title": "etre-vivant-et-le-savoir", "date": "2019-06-05", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alain Cavalier ()", "Emmanu\u00e8le Bernheim (herself)"], "comments": [], "recommandations_id": []}

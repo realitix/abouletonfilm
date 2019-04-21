@@ -1,0 +1,1 @@
+{"tmdb_id": 570835, "title": "Scrooge", "original_title": "Scrooge", "slug_title": "scrooge", "date": "1928-12-01", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bransby Williams (Ebenezer Scrooge)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503141, "title": "Me, Gangster", "original_title": "Me, Gangster", "slug_title": "me-gangster", "date": "1928-10-20", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["June Collyer ()", "Don Terry ()", "Anders Randolf ()"], "comments": [], "recommandations_id": []}

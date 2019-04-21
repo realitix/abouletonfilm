@@ -1,0 +1,1 @@
+{"tmdb_id": 488177, "title": "City of Light", "original_title": "Mesto svetlobe", "slug_title": "city-of-light", "date": "2017-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPk7f1ITn1Nyfvyk26PUfuR1usW.jpg", "actors": [], "comments": [], "recommandations_id": []}

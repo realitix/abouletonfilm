@@ -1,0 +1,1 @@
+{"tmdb_id": 385935, "title": "Holly Holm vs. Miesha Tate", "original_title": "Holly Holm vs. Miesha Tate", "slug_title": "holly-holm-vs-miesha-tate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509760, "title": "Violence of the Mind", "original_title": "Violence of the Mind", "slug_title": "violence-of-the-mind", "date": "2013-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6po2UbwjkjsRXm11TU9mxGJjf8Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

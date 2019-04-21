@@ -1,0 +1,1 @@
+{"tmdb_id": 503905, "title": "Sandekala", "original_title": "Sandekala", "slug_title": "sandekala", "date": "2015-02-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFabAX41s8B81n0XQOUdmY9MQ1l.jpg", "actors": ["Rizka Dwi Septiana ()", "Kesyia Safalina ()"], "comments": [], "recommandations_id": []}

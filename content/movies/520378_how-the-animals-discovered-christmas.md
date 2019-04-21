@@ -1,0 +1,1 @@
+{"tmdb_id": 520378, "title": "How the Animals Discovered Christmas", "original_title": "How the Animals Discovered Christmas", "slug_title": "how-the-animals-discovered-christmas", "date": "1956-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

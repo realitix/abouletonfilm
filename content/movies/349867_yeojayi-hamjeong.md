@@ -1,0 +1,1 @@
+{"tmdb_id": 349867, "title": "\uc5ec\uc790\uc758 \ud568\uc815", "original_title": "\uc5ec\uc790\uc758 \ud568\uc815", "slug_title": "yeojayi-hamjeong", "date": "1982-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

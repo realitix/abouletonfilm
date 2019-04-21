@@ -1,0 +1,1 @@
+{"tmdb_id": 569323, "title": "Dobaara", "original_title": "Dobaara", "slug_title": "dobaara", "date": "2018-09-21", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fjIbGTqkElF7YlchPnSsRsKXKtw.jpg", "actors": ["Manav Kaul ()", "Parvathy Omanakuttan ()"], "comments": [], "recommandations_id": []}

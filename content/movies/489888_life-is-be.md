@@ -1,0 +1,1 @@
+{"tmdb_id": 489888, "title": "Life is Be", "original_title": "Life is Be", "slug_title": "life-is-be", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

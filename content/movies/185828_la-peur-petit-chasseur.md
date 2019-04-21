@@ -1,0 +1,1 @@
+{"tmdb_id": 185828, "title": "La peur, petit chasseur", "original_title": "La peur, petit chasseur", "slug_title": "la-peur-petit-chasseur", "date": "2004-06-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mireille Roussel ()", "Martin Buisson ()", "Pierre Baux ()"], "comments": [], "recommandations_id": []}

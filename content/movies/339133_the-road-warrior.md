@@ -1,0 +1,1 @@
+{"tmdb_id": 339133, "title": "The Road Warrior", "original_title": "The Road Warrior", "slug_title": "the-road-warrior", "date": "2013-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 61687, "title": "A Poet's Life", "original_title": "Shijin no sh\u00f4gai", "slug_title": "a-poet-s-life", "date": "1974-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3wslgK6J0YOUP0AMy4T7sl6ICV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 138365, "title": "MUTEMATH: Armistice Live", "original_title": "MUTEMATH: Armistice Live", "slug_title": "mutemath-armistice-live", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Darren King ()", "Greg Hill ()", "Paul Meany ()", "Roy Mitchell-Cardenas ()"], "comments": [], "recommandations_id": []}

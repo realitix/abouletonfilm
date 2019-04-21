@@ -1,0 +1,1 @@
+{"tmdb_id": 338997, "title": "The Whitewashing of 5 Pointz", "original_title": "The Whitewashing of 5 Pointz", "slug_title": "the-whitewashing-of-5-pointz", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

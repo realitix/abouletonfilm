@@ -1,0 +1,1 @@
+{"tmdb_id": 391803, "title": "Cultural Worker: 3 in 1", "original_title": "Cultural Worker: 3 in 1", "slug_title": "cultural-worker-3-in-1", "date": "2013-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qayUGZzsoq93A45FlRbLXYcixUI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561967, "title": "La belle et le tzigane", "original_title": "La belle et le tzigane", "slug_title": "la-belle-et-le-tzigane", "date": "1958-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1brXyK0DIvAmCcwpu2gvYuCzxRg.jpg", "actors": [], "comments": [], "recommandations_id": []}

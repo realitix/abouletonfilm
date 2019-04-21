@@ -1,0 +1,1 @@
+{"tmdb_id": 144750, "title": "Freddie King: The Beat 1966", "original_title": "Freddie King: The Beat 1966", "slug_title": "freddie-king-the-beat-1966", "date": "2014-12-05", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YSBrCZ4xYvfaAUR5bYP19oMNm7.jpg", "actors": [], "comments": [], "recommandations_id": []}

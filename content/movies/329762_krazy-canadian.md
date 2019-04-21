@@ -1,0 +1,1 @@
+{"tmdb_id": 329762, "title": "Krazy Canadian", "original_title": "Krazy Canadian", "slug_title": "krazy-canadian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/galuZgBvruq9xJXErVkc2RQB83v.jpg", "actors": [], "comments": [], "recommandations_id": []}

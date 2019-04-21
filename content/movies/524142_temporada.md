@@ -1,0 +1,1 @@
+{"tmdb_id": 524142, "title": "Temporada", "original_title": "Temporada", "slug_title": "temporada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1g18bnDudOM9Das9kixu0im8PLK.jpg", "actors": [], "comments": [], "recommandations_id": []}

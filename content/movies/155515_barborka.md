@@ -1,0 +1,1 @@
+{"tmdb_id": 155515, "title": "Barb\u00f3rka", "original_title": "Barb\u00f3rka", "slug_title": "barborka", "date": "2005-12-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGc9WPnCXowffLn24ArGxILdXNv.jpg", "actors": ["Marcin Doroci\u0144ski (Jakub Skowerski)"], "comments": [], "recommandations_id": []}

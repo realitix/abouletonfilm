@@ -1,0 +1,1 @@
+{"tmdb_id": 510910, "title": "The Border Armadillo", "original_title": "El Armadillo Fronterizo", "slug_title": "the-border-armadillo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

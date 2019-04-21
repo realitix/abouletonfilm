@@ -1,0 +1,1 @@
+{"tmdb_id": 457918, "title": "Etre et ne pas avoir", "original_title": "Etre et ne pas avoir", "slug_title": "etre-et-ne-pas-avoir", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 191287, "title": "The Grocery Clerk", "original_title": "The Grocery Clerk", "slug_title": "the-grocery-clerk", "date": "1919-12-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (The Grocery Clerk)", "Monty Banks (The Tow Gusher, a 'He Vamp')"], "comments": [], "recommandations_id": []}

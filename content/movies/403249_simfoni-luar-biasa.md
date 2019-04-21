@@ -1,0 +1,1 @@
+{"tmdb_id": 403249, "title": "Simfoni luar biasa", "original_title": "Simfoni luar biasa", "slug_title": "simfoni-luar-biasa", "date": "2011-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

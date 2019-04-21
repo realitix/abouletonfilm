@@ -1,0 +1,1 @@
+{"tmdb_id": 529528, "title": "A New Capitalism", "original_title": "Um Novo Capitalismo", "slug_title": "a-new-capitalism", "date": "2017-11-30", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXIWQoHWyZrFzsDDqVoDg92BItT.jpg", "actors": [], "comments": [], "recommandations_id": []}

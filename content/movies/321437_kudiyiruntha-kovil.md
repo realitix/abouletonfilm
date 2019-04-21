@@ -1,0 +1,1 @@
+{"tmdb_id": 321437, "title": "Kudiyiruntha Kovil", "original_title": "Kudiyiruntha Kovil", "slug_title": "kudiyiruntha-kovil", "date": "1968-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

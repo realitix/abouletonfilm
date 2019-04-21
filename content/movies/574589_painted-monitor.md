@@ -1,0 +1,1 @@
+{"tmdb_id": 574589, "title": "Painted Monitor", "original_title": "Painted Monitor", "slug_title": "painted-monitor", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

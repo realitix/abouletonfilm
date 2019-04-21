@@ -1,0 +1,1 @@
+{"tmdb_id": 363988, "title": "SWAT The Real Story", "original_title": "SWAT The Real Story", "slug_title": "swat-the-real-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

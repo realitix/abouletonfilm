@@ -1,0 +1,1 @@
+{"tmdb_id": 347416, "title": "Mother and Son", "original_title": "Mother and Son", "slug_title": "mother-and-son", "date": "1931-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRCPa5bKCkRl9vY6ZwBAeESJ3YA.jpg", "actors": ["Clara Kimball Young (Faro Lil)"], "comments": [], "recommandations_id": []}

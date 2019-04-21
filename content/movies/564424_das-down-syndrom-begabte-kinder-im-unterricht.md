@@ -1,0 +1,1 @@
+{"tmdb_id": 564424, "title": "Das Down-Syndrom: Begabte Kinder im Unterricht", "original_title": "Das Down-Syndrom: Begabte Kinder im Unterricht", "slug_title": "das-down-syndrom-begabte-kinder-im-unterricht", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

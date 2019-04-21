@@ -1,0 +1,1 @@
+{"tmdb_id": 436413, "title": "Beautiful Manasugalu", "original_title": "Beautiful Manasugalu", "slug_title": "beautiful-manasugalu", "date": "2017-01-20", "genre": "Drame / Romance", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A6W8G9vfVMiAt328gFB3scJYccO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391246, "title": "Black is White", "original_title": "Black is White", "slug_title": "black-is-white", "date": "1972-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

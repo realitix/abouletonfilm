@@ -1,0 +1,1 @@
+{"tmdb_id": 494265, "title": "\u00c9brenj\u00e1r\u00f3k", "original_title": "\u00c9brenj\u00e1r\u00f3k", "slug_title": "ebrenjarok", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344391, "title": "A Helping Hand", "original_title": "A Helping Hand", "slug_title": "a-helping-hand", "date": "2007-05-24", "genre": "Com\u00e9die / Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

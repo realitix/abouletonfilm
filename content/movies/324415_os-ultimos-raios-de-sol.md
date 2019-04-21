@@ -1,0 +1,1 @@
+{"tmdb_id": 324415, "title": "Os \u00faltimos raios de sol", "original_title": "Os \u00faltimos raios de sol", "slug_title": "os-ultimos-raios-de-sol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

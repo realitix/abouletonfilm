@@ -1,0 +1,1 @@
+{"tmdb_id": 244412, "title": "Sredni Vashtar", "original_title": "Sredni Vashtar", "slug_title": "sredni-vashtar", "date": "1981-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 57676, "title": "Dinosaurs in the Snow", "original_title": "Dinosaurs in the Snow", "slug_title": "dinosaurs-in-the-snow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uLRB420NT5LzItDrDBGUforkL9.jpg", "actors": [], "comments": [], "recommandations_id": []}

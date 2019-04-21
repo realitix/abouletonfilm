@@ -1,0 +1,1 @@
+{"tmdb_id": 254734, "title": "Notes on Love", "original_title": "Notater om k\u00e6rligheden", "slug_title": "notes-on-love", "date": "1989-10-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90S3AJYDDy1soZPW6Ri2Q3391ku.jpg", "actors": [], "comments": [], "recommandations_id": []}

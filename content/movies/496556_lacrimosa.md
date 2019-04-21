@@ -1,0 +1,1 @@
+{"tmdb_id": 496556, "title": "Lacrimosa", "original_title": "Lacrimosa", "slug_title": "lacrimosa", "date": "2007-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Nevander ()", "Alessandro Di Natale ()"], "comments": [], "recommandations_id": []}

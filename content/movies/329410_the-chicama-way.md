@@ -1,0 +1,1 @@
+{"tmdb_id": 329410, "title": "The Chicama Way", "original_title": "The Chicama Way", "slug_title": "the-chicama-way", "date": "2015-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

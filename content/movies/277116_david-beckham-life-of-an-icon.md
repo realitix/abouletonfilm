@@ -1,0 +1,1 @@
+{"tmdb_id": 277116, "title": "David Beckham: Life of an Icon", "original_title": "David Beckham: Life of an Icon", "slug_title": "david-beckham-life-of-an-icon", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

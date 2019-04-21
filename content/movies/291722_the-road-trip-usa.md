@@ -1,0 +1,1 @@
+{"tmdb_id": 291722, "title": "The Road Trip USA", "original_title": "The Road Trip USA", "slug_title": "the-road-trip-usa", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

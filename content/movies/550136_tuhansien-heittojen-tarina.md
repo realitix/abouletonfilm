@@ -1,0 +1,1 @@
+{"tmdb_id": 550136, "title": "Tuhansien heittojen tarina", "original_title": "Tuhansien heittojen tarina", "slug_title": "tuhansien-heittojen-tarina", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seppo R\u00e4ty ()"], "comments": [], "recommandations_id": []}

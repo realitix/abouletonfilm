@@ -1,0 +1,1 @@
+{"tmdb_id": 506227, "title": "Ksi\u0119\u017cyc to \u017cyd", "original_title": "Ksi\u0119\u017cyc to \u017cyd", "slug_title": "ksiezyc-to-zyd", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bcdIqlpHF8D7XbrAGdbtbBBfzc2.jpg", "actors": [], "comments": [], "recommandations_id": []}

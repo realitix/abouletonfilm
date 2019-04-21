@@ -1,0 +1,1 @@
+{"tmdb_id": 476284, "title": "Six Easy Pieces", "original_title": "Six Easy Pieces", "slug_title": "six-easy-pieces", "date": "2010-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helga Wretman ()", "Ana J. Bellido ()", "Agnes Lindstr\u00f6m Bolmgren ()", "Sten Jacobs ()"], "comments": [], "recommandations_id": []}

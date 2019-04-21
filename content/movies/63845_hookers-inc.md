@@ -1,0 +1,1 @@
+{"tmdb_id": 63845, "title": "Hookers Inc.", "original_title": "Hookers Inc.", "slug_title": "hookers-inc", "date": "2006-01-01", "genre": "Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/alS1keKmrKsknNhGSaYbcV6cDMg.jpg", "actors": [], "comments": [], "recommandations_id": []}

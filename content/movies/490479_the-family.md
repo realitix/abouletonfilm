@@ -1,0 +1,1 @@
+{"tmdb_id": 490479, "title": "The Family", "original_title": "Ojakhi", "slug_title": "the-family", "date": "1985-01-10", "genre": "Drame / T\u00e9l\u00e9film", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lika Kavjaradze ()"], "comments": [], "recommandations_id": []}

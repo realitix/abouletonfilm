@@ -1,0 +1,1 @@
+{"tmdb_id": 502952, "title": "Dream of Championship", "original_title": "Unelma mestaruudesta", "slug_title": "dream-of-championship", "date": "2018-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPmw280fxMM0K2vwy2HorPeEPXi.jpg", "actors": [], "comments": [], "recommandations_id": []}

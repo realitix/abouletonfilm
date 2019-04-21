@@ -1,0 +1,1 @@
+{"tmdb_id": 496359, "title": "Jungle Tales", "original_title": "Jungle Tales", "slug_title": "jungle-tales", "date": "2017-06-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvYI6UxqGoihrgJ78HpDfL3tJiw.jpg", "actors": [], "comments": [], "recommandations_id": []}

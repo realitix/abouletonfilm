@@ -1,0 +1,1 @@
+{"tmdb_id": 477950, "title": "Charlie and Dick", "original_title": "Charlie and Dick", "slug_title": "charlie-and-dick", "date": "2016-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erPSNjlFNSBKmmEsjgzUKYjHyyb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 222256, "title": "12 Ordinary Men", "original_title": "12 Ordinary Men", "slug_title": "12-ordinary-men", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7rkMCoPY7zFvY2AnuYMXNmpR5x.jpg", "actors": [], "comments": [], "recommandations_id": []}

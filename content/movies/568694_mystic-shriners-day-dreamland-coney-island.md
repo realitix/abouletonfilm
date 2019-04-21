@@ -1,0 +1,1 @@
+{"tmdb_id": 568694, "title": "Mystic Shriners' Day, Dreamland, Coney Island", "original_title": "Mystic Shriners' Day, Dreamland, Coney Island", "slug_title": "mystic-shriners-day-dreamland-coney-island", "date": "1905-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 225873, "title": "A Class Divided", "original_title": "A Class Divided", "slug_title": "a-class-divided", "date": "1985-03-25", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdsGTpTFmVJiG6cGvMCfsIlP9M4.jpg", "actors": ["Jane Elliott (Herself)"], "comments": [], "recommandations_id": []}

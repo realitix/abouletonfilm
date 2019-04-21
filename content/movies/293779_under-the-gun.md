@@ -1,0 +1,1 @@
+{"tmdb_id": 293779, "title": "Under the Gun", "original_title": "Under the Gun", "slug_title": "under-the-gun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

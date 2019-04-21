@@ -1,0 +1,1 @@
+{"tmdb_id": 260011, "title": "Roadkill", "original_title": "Roadkill", "slug_title": "roadkill", "date": "2002-09-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZFU4qnOjfX62sIUm7X1k71Oy5b.jpg", "actors": ["Edgar Danz (Truck Driver)", "Susan Visser (Woman)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 513174, "title": "Die Suche nach dem Vogel Turlipan", "original_title": "Die Suche nach dem Vogel Turlipan", "slug_title": "die-suche-nach-dem-vogel-turlipan", "date": "1976-11-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus Piontek (Narrator)"], "comments": [], "recommandations_id": []}

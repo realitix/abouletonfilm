@@ -1,0 +1,1 @@
+{"tmdb_id": 374777, "title": "Dino Death Trap", "original_title": "Dino Death Trap", "slug_title": "dino-death-trap", "date": "2010-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxiNjwoi0IH015uTdrJu617lolw.jpg", "actors": [], "comments": [], "recommandations_id": []}

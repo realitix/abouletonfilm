@@ -1,0 +1,1 @@
+{"tmdb_id": 390798, "title": "Slayer: [1983] Costa Mesa, CA", "original_title": "Slayer: [1983] Costa Mesa, CA", "slug_title": "slayer-1983-costa-mesa-ca", "date": "1983-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAa4NzQTOg5fG8AoDu22UTr3kVm.jpg", "actors": [], "comments": [], "recommandations_id": []}

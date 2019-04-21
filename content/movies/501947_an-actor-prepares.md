@@ -1,0 +1,1 @@
+{"tmdb_id": 501947, "title": "An Actor Prepares", "original_title": "An Actor Prepares", "slug_title": "an-actor-prepares", "date": "2017-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mallory Corinne (Woman)", "Ben Isaacs (Man)"], "comments": [], "recommandations_id": []}

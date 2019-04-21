@@ -1,0 +1,1 @@
+{"tmdb_id": 358502, "title": "Die Demokratie ist los!", "original_title": "Die Demokratie ist los!", "slug_title": "die-demokratie-ist-los", "date": "2015-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEA3bdXomsHHAJsYBUd1Y2hOmYB.jpg", "actors": [], "comments": [], "recommandations_id": []}

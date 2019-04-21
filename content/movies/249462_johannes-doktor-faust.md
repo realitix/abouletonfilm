@@ -1,0 +1,1 @@
+{"tmdb_id": 249462, "title": "Johannes doktor Faust", "original_title": "Johannes doktor Faust", "slug_title": "johannes-doktor-faust", "date": "1958-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karel Richter (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323573, "title": "Daughter... Father... Daughter", "original_title": "Daughter... Father... Daughter", "slug_title": "daughter-father-daughter", "date": "2011-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

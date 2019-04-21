@@ -1,0 +1,1 @@
+{"tmdb_id": 110320, "title": "South Georgia", "original_title": "Georgia del Sur: Vida bajo los furiosos cincuenta", "slug_title": "south-georgia", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etwEKGsfcbiX4wBRuU8XhMVHK7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

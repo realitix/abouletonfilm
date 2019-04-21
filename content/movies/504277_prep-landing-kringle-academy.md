@@ -1,0 +1,1 @@
+{"tmdb_id": 504277, "title": "Prep & Landing: Kringle Academy", "original_title": "Prep & Landing: Kringle Academy", "slug_title": "prep-landing-kringle-academy", "date": "2012-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzIyAYyRH9uCUZIE9JKTvLY2mWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

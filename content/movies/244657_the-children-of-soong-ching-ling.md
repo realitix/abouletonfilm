@@ -1,0 +1,1 @@
+{"tmdb_id": 244657, "title": "The Children of Soong Ching Ling", "original_title": "The Children of Soong Ching Ling", "slug_title": "the-children-of-soong-ching-ling", "date": "1985-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344461, "title": "Budapest-Bamako 2015", "original_title": "Budapest-Bamako 2015", "slug_title": "budapest-bamako-2015", "date": "2015-06-13", "genre": "Aventure", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6d5eNzQlAFf7Z3kESrgLdrf4qS.jpg", "actors": [], "comments": [], "recommandations_id": []}

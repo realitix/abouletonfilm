@@ -1,0 +1,1 @@
+{"tmdb_id": 527038, "title": "A Fresta", "original_title": "A Fresta", "slug_title": "a-fresta", "date": "2016-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nKRy4Ewm75sYFLbdruNGDsBewJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

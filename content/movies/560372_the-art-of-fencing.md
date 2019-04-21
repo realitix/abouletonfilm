@@ -1,0 +1,1 @@
+{"tmdb_id": 560372, "title": "The Art of Fencing", "original_title": "The Art of Fencing", "slug_title": "the-art-of-fencing", "date": "2007-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Goodwin ()"], "comments": [], "recommandations_id": []}

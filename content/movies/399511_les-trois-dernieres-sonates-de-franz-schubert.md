@@ -1,0 +1,1 @@
+{"tmdb_id": 399511, "title": "Les Trois Derni\u00e8res Sonates de Franz Schubert", "original_title": "Les Trois Derni\u00e8res Sonates de Franz Schubert", "slug_title": "les-trois-dernieres-sonates-de-franz-schubert", "date": "1989-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

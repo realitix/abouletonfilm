@@ -1,0 +1,1 @@
+{"tmdb_id": 55487, "title": "The Drugging of Our Children", "original_title": "The Drugging of Our Children", "slug_title": "the-drugging-of-our-children", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBojDyMAJ7HNcrmUbem7jdxz68h.jpg", "actors": [], "comments": [], "recommandations_id": []}

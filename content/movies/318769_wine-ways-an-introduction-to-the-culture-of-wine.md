@@ -1,0 +1,1 @@
+{"tmdb_id": 318769, "title": "Wine Ways: An Introduction to the Culture of Wine", "original_title": "Wine Ways: An Introduction to the Culture of Wine", "slug_title": "wine-ways-an-introduction-to-the-culture-of-wine", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 322644, "title": "All or Nothing 2", "original_title": "All or Nothing 2", "slug_title": "all-or-nothing-2", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7d85SbWs2KeJclH8b5GKArddXjU.jpg", "actors": [], "comments": [], "recommandations_id": []}

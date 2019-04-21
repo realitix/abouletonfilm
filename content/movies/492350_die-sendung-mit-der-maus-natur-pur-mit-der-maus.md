@@ -1,0 +1,1 @@
+{"tmdb_id": 492350, "title": "Die Sendung mit der Maus, Natur pur mit der Maus!", "original_title": "Die Sendung mit der Maus, Natur pur mit der Maus!", "slug_title": "die-sendung-mit-der-maus-natur-pur-mit-der-maus", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

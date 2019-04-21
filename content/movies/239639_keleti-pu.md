@@ -1,0 +1,1 @@
+{"tmdb_id": 239639, "title": "Keleti Pu.", "original_title": "Keleti Pu.", "slug_title": "keleti-pu", "date": "2010-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZxEWvL4Jtl10BgiejXLETuNcyB.jpg", "actors": [], "comments": [], "recommandations_id": []}

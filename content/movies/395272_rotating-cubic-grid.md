@@ -1,0 +1,1 @@
+{"tmdb_id": 395272, "title": "Rotating Cubic Grid", "original_title": "Rotating Cubic Grid", "slug_title": "rotating-cubic-grid", "date": "1975-04-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geppPzD9jbtPA2wBMJlB9uI3MzH.jpg", "actors": [], "comments": [], "recommandations_id": []}

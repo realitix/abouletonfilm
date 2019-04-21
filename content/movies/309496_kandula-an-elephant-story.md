@@ -1,0 +1,1 @@
+{"tmdb_id": 309496, "title": "Kandula: An Elephant Story", "original_title": "Kandula: An Elephant Story", "slug_title": "kandula-an-elephant-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

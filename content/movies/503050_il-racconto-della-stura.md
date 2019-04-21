@@ -1,0 +1,1 @@
+{"tmdb_id": 503050, "title": "Il racconto della Stura", "original_title": "Il racconto della Stura", "slug_title": "il-racconto-della-stura", "date": "1956-02-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

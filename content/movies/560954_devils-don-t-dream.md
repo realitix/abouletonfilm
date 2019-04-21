@@ -1,0 +1,1 @@
+{"tmdb_id": 560954, "title": "Devils Don't Dream!", "original_title": "Devils Don't Dream!", "slug_title": "devils-don-t-dream", "date": "1997-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZkWPntuEZgYdbAaB0zqk2tP6JT.jpg", "actors": [], "comments": [], "recommandations_id": []}

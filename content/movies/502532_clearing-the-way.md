@@ -1,0 +1,1 @@
+{"tmdb_id": 502532, "title": "Clearing the Way", "original_title": "Clearing the Way", "slug_title": "clearing-the-way", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xiZWIFM3z1gadYZ7hjWQXPHFvZJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352176, "title": "The Met Ball", "original_title": "The Met Ball", "slug_title": "the-met-ball", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

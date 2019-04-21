@@ -1,0 +1,1 @@
+{"tmdb_id": 539086, "title": "La brigade en jupons", "original_title": "La brigade en jupons", "slug_title": "la-brigade-en-jupons", "date": "1936-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1MRt7joyP3JfuIEwcChe4anH1CQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

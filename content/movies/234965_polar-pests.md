@@ -1,0 +1,1 @@
+{"tmdb_id": 234965, "title": "Polar Pests", "original_title": "Polar Pests", "slug_title": "polar-pests", "date": "1958-04-20", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CRCbBkbYKJu2PnpFmmxID1Q7P2.jpg", "actors": ["Daws Butler ((voices))"], "comments": [], "recommandations_id": []}

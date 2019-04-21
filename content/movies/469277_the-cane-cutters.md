@@ -1,0 +1,1 @@
+{"tmdb_id": 469277, "title": "The Cane Cutters", "original_title": "The Cane Cutters", "slug_title": "the-cane-cutters", "date": "1947-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbJFIqqcYYMFcvJhcinPJUQRwYD.jpg", "actors": [], "comments": [], "recommandations_id": []}

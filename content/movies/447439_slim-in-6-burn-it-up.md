@@ -1,0 +1,1 @@
+{"tmdb_id": 447439, "title": "Slim in 6: Burn It Up!", "original_title": "Slim in 6: Burn It Up!", "slug_title": "slim-in-6-burn-it-up", "date": "2010-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rlC21Al48SaC9yvZ8Yzh2o5sUK.jpg", "actors": [], "comments": [], "recommandations_id": []}

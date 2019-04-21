@@ -1,0 +1,1 @@
+{"tmdb_id": 312046, "title": "Duel Masters: Go Ahead, Make My Duel", "original_title": "Duel Masters: Go Ahead, Make My Duel", "slug_title": "duel-masters-go-ahead-make-my-duel", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

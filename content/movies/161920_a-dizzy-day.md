@@ -1,0 +1,1 @@
+{"tmdb_id": 161920, "title": "A Dizzy Day", "original_title": "A Dizzy Day", "slug_title": "a-dizzy-day", "date": "1933-05-04", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25zBK0nuikf8XlWdi6AfMapiVTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

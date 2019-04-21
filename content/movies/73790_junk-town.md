@@ -1,0 +1,1 @@
+{"tmdb_id": 73790, "title": "Junk Town", "original_title": "Garakuta no Machi", "slug_title": "junk-town", "date": "2006-01-07", "genre": "Animation / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

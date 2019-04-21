@@ -1,0 +1,1 @@
+{"tmdb_id": 566284, "title": "Rodney Yee's Back Care Yoga", "original_title": "Rodney Yee's Back Care Yoga", "slug_title": "rodney-yee-s-back-care-yoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFoN9YBt2JZOOFKJy26e0exn6iw.jpg", "actors": [], "comments": [], "recommandations_id": []}

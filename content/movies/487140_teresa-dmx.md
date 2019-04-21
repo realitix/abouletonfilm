@@ -1,0 +1,1 @@
+{"tmdb_id": 487140, "title": "Teresa DMX", "original_title": "Teresa DMX", "slug_title": "teresa-dmx", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eqbUHr0rqS1YICZB3taCFJ1W61O.jpg", "actors": [], "comments": [], "recommandations_id": []}

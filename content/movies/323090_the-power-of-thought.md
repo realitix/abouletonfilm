@@ -1,0 +1,1 @@
+{"tmdb_id": 323090, "title": "The Power of Thought", "original_title": "The Power of Thought", "slug_title": "the-power-of-thought", "date": "2014-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FtPnLCyiIif0p3AQAzHk6vGQlK.jpg", "actors": [], "comments": [], "recommandations_id": []}

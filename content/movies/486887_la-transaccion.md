@@ -1,0 +1,1 @@
+{"tmdb_id": 486887, "title": "La transacci\u00f3n", "original_title": "La transacci\u00f3n", "slug_title": "la-transaccion", "date": "2017-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gQ6GxfOhyMf30j7tvieqfO7EXn.jpg", "actors": [], "comments": [], "recommandations_id": []}

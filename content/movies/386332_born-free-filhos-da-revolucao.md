@@ -1,0 +1,1 @@
+{"tmdb_id": 386332, "title": "Born Free - Filhos da Revolu\u00e7\u00e3o", "original_title": "Born Free - Filhos da Revolu\u00e7\u00e3o", "slug_title": "born-free-filhos-da-revolucao", "date": "2015-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

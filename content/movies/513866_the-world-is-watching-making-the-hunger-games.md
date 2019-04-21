@@ -1,0 +1,1 @@
+{"tmdb_id": 513866, "title": "The World Is Watching: Making the Hunger Games", "original_title": "The World Is Watching: Making the Hunger Games", "slug_title": "the-world-is-watching-making-the-hunger-games", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

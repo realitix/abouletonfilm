@@ -1,0 +1,1 @@
+{"tmdb_id": 310215, "title": "The Best of MusikLaden: Ladies of Rock", "original_title": "The Best of MusikLaden: Ladies of Rock", "slug_title": "the-best-of-musikladen-ladies-of-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

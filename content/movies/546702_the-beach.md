@@ -1,0 +1,1 @@
+{"tmdb_id": 546702, "title": "The Beach", "original_title": "Pla\u017ca", "slug_title": "the-beach", "date": "1964-01-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QkBSEgZKmgZI15yJ0IGSeDUKxP.jpg", "actors": [], "comments": [], "recommandations_id": []}

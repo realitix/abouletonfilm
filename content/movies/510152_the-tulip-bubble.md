@@ -1,0 +1,1 @@
+{"tmdb_id": 510152, "title": "The Tulip Bubble", "original_title": "The Tulip Bubble", "slug_title": "the-tulip-bubble", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBKV2UpZhu9TXsnIQ7bb5Q8pP45.jpg", "actors": [], "comments": [], "recommandations_id": []}

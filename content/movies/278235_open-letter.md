@@ -1,0 +1,1 @@
+{"tmdb_id": 278235, "title": "Open letter", "original_title": "Anoihti epistoli", "slug_title": "open-letter", "date": "1967-06-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2RluuxgPijlaF8ycroh2e2fbEGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

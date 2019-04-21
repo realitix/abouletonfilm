@@ -1,0 +1,1 @@
+{"tmdb_id": 132811, "title": "A dog named Pain", "original_title": "Un perro llamado Dolor", "slug_title": "a-dog-named-pain", "date": "2001-11-16", "genre": "Animation / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDIPnZNFtep5U5KWR3MmviSFm5m.jpg", "actors": [], "comments": [], "recommandations_id": []}

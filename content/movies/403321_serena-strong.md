@@ -1,0 +1,1 @@
+{"tmdb_id": 403321, "title": "Serena Strong", "original_title": "Serena Strong", "slug_title": "serena-strong", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

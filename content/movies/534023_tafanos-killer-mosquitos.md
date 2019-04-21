@@ -1,0 +1,1 @@
+{"tmdb_id": 534023, "title": "Tafanos - Killer Mosquitos", "original_title": "Tafanos - Killer Mosquitos", "slug_title": "tafanos-killer-mosquitos", "date": "2006-01-06", "genre": "", "score": "2.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gl75rFsQfZS5yaeblLuxkiIxkhF.jpg", "actors": [], "comments": [], "recommandations_id": [329996, 117]}

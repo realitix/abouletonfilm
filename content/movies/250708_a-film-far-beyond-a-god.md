@@ -1,0 +1,1 @@
+{"tmdb_id": 250708, "title": "A Film Far Beyond a God", "original_title": "A Film Far Beyond a God", "slug_title": "a-film-far-beyond-a-god", "date": "2009-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

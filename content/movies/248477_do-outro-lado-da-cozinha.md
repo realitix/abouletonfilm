@@ -1,0 +1,1 @@
+{"tmdb_id": 248477, "title": "Do Outro Lado da Cozinha", "original_title": "Do Outro Lado da Cozinha", "slug_title": "do-outro-lado-da-cozinha", "date": "2013-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

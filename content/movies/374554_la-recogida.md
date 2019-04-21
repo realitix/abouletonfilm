@@ -1,0 +1,1 @@
+{"tmdb_id": 374554, "title": "La recogida", "original_title": "La recogida", "slug_title": "la-recogida", "date": "1974-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Fernanda Ayenza ()", "Ver\u00f3nica Castro ()", "Fernando Larra\u00f1aga ()", "Bertha Moss ()"], "comments": [], "recommandations_id": []}

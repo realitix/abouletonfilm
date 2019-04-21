@@ -1,0 +1,1 @@
+{"tmdb_id": 520013, "title": "La macchina cinema", "original_title": "La macchina cinema", "slug_title": "la-macchina-cinema", "date": "1979-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOagoYwecfKCEfr7283y9rC28J0.jpg", "actors": ["Daniela Rocca ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 62282, "title": "The Passion of the Mao", "original_title": "The Passion of the Mao", "slug_title": "the-passion-of-the-mao", "date": "2006-01-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NMRidcgv5iKJWAQ8RbnQ5xm3sP.jpg", "actors": [], "comments": [], "recommandations_id": []}

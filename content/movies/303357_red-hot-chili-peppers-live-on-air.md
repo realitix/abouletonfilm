@@ -1,0 +1,1 @@
+{"tmdb_id": 303357, "title": "Red Hot Chili Peppers Live On Air", "original_title": "Red Hot Chili Peppers Live On Air", "slug_title": "red-hot-chili-peppers-live-on-air", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

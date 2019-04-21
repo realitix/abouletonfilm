@@ -1,0 +1,1 @@
+{"tmdb_id": 367862, "title": "Book of the Sword 1", "original_title": "Book of the Sword 1", "slug_title": "book-of-the-sword-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

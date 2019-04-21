@@ -1,0 +1,1 @@
+{"tmdb_id": 61867, "title": "Stripper Diaries", "original_title": "Stripper Diaries", "slug_title": "stripper-diaries", "date": "2010-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monique Alexander ()", "Andy San Dimas ()", "Tori Black ()"], "comments": [], "recommandations_id": []}

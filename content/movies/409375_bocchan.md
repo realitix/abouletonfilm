@@ -1,0 +1,1 @@
+{"tmdb_id": 409375, "title": "Bocchan", "original_title": "Bocchan", "slug_title": "bocchan", "date": "1980-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2FLIh3VOLnDkGdbBy64PNORkNl.jpg", "actors": [], "comments": [], "recommandations_id": []}

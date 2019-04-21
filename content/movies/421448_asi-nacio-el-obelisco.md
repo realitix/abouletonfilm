@@ -1,0 +1,1 @@
+{"tmdb_id": 421448, "title": "As\u00ed naci\u00f3 el obelisco", "original_title": "As\u00ed naci\u00f3 el obelisco", "slug_title": "asi-nacio-el-obelisco", "date": "1936-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

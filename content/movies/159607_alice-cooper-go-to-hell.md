@@ -1,0 +1,1 @@
+{"tmdb_id": 159607, "title": "Alice Cooper: Go To Hell", "original_title": "Alice Cooper: Go To Hell", "slug_title": "alice-cooper-go-to-hell", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Z47y7ajYqAsckpYt9vdsF7RoXy.jpg", "actors": [], "comments": [], "recommandations_id": []}

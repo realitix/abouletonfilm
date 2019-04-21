@@ -1,0 +1,1 @@
+{"tmdb_id": 539728, "title": "L'homme \u00e0 l'oreille cass\u00e9e", "original_title": "L'homme \u00e0 l'oreille cass\u00e9e", "slug_title": "l-homme-a-l-oreille-cassee", "date": "1935-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

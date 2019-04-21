@@ -1,0 +1,1 @@
+{"tmdb_id": 502280, "title": "Dialogues with Madwomen", "original_title": "Dialogues with Madwomen", "slug_title": "dialogues-with-madwomen", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

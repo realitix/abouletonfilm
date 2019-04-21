@@ -1,0 +1,1 @@
+{"tmdb_id": 245300, "title": "The Aroma of Tea", "original_title": "The Aroma of Tea", "slug_title": "the-aroma-of-tea", "date": "2006-06-01", "genre": "Animation", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJcukI341tGOxzMmTjnA5bXLqGG.jpg", "actors": [], "comments": [], "recommandations_id": [246988, 48486, 201199, 242996]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 95109, "title": "The Providence Effect", "original_title": "The Providence Effect", "slug_title": "the-providence-effect", "date": "2009-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjLpwXQWrA7cNxTtJ7piEn192ts.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 243910, "title": "Vampire Strawberry", "original_title": "Vampire Strawberry", "slug_title": "vampire-strawberry", "date": "2011-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzDW4WX1lgmU6ryHnv0EolJADDz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581637, "title": "Ready Player Two", "original_title": "Ready Player Two", "slug_title": "ready-player-two", "date": "2018-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNAOFddTQTCbWaGUQrORagrO37N.jpg", "actors": [], "comments": [], "recommandations_id": []}

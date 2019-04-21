@@ -1,0 +1,1 @@
+{"tmdb_id": 219546, "title": "Dog Daze", "original_title": "Dog Daze", "slug_title": "dog-daze", "date": "1937-09-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRfcXcKOIlHm2dvkeFiFg5KxHPV.jpg", "actors": [], "comments": [], "recommandations_id": []}

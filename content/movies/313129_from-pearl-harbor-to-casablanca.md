@@ -1,0 +1,1 @@
+{"tmdb_id": 313129, "title": "From Pearl Harbor to Casablanca", "original_title": "From Pearl Harbor to Casablanca", "slug_title": "from-pearl-harbor-to-casablanca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

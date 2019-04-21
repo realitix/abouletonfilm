@@ -1,0 +1,1 @@
+{"tmdb_id": 235119, "title": "Fright from Wrong", "original_title": "Fright from Wrong", "slug_title": "fright-from-wrong", "date": "1956-11-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

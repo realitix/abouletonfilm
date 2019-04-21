@@ -1,0 +1,1 @@
+{"tmdb_id": 395708, "title": "Meteoritica", "original_title": "Meteoritica", "slug_title": "meteoritica", "date": "2008-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g14K9uujRdiTNVcgg8Efpyt3rkp.jpg", "actors": [], "comments": [], "recommandations_id": []}

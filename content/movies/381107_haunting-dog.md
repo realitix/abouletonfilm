@@ -1,0 +1,1 @@
+{"tmdb_id": 381107, "title": "Haunting Dog", "original_title": "Haunting Dog", "slug_title": "haunting-dog", "date": "1975-05-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather (voice))", "Daws Butler (Pug / Louie (voice))"], "comments": [], "recommandations_id": []}

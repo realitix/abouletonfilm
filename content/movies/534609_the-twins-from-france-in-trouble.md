@@ -1,0 +1,1 @@
+{"tmdb_id": 534609, "title": "The Twins From France In Trouble", "original_title": "The Twins From France In Trouble", "slug_title": "the-twins-from-france-in-trouble", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

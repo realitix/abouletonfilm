@@ -1,0 +1,1 @@
+{"tmdb_id": 518442, "title": "Pest Control", "original_title": "Pest Control", "slug_title": "pest-control", "date": "1950-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

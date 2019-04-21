@@ -1,0 +1,1 @@
+{"tmdb_id": 354306, "title": "100 Tales of Horror", "original_title": "Kaidan Hyaku Monogatari", "slug_title": "100-tales-of-horror", "date": "2002-08-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtcJIPnoNqVYttoMOsbqvGGIQHe.jpg", "actors": [], "comments": [], "recommandations_id": []}

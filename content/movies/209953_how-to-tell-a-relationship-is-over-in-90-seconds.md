@@ -1,0 +1,1 @@
+{"tmdb_id": 209953, "title": "How to Tell a Relationship Is Over in 90 Seconds", "original_title": "How to Tell a Relationship Is Over in 90 Seconds", "slug_title": "how-to-tell-a-relationship-is-over-in-90-seconds", "date": "2003-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

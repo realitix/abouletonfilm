@@ -1,0 +1,1 @@
+{"tmdb_id": 584104, "title": "The Independents", "original_title": "The Independents", "slug_title": "the-independents", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c6U92xzYhuZyQzk0HD6I0z2mYpV.jpg", "actors": [], "comments": [], "recommandations_id": []}

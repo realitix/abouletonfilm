@@ -1,0 +1,1 @@
+{"tmdb_id": 277517, "title": "Bloodbath at Pinky High Part 2", "original_title": "Joshi Kosei Boryoku Kyoshitsu 2", "slug_title": "bloodbath-at-pinky-high-part-2", "date": "", "genre": "Thriller / Action", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

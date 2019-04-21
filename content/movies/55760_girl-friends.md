@@ -1,0 +1,1 @@
+{"tmdb_id": 55760, "title": "Girl Friends", "original_title": "Girl Friends", "slug_title": "girl-friends", "date": "2009-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hM5P9v5uI7z8yv3H4XYACnviVKp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272922, "title": "Girlfriends: Brazilian Lovers 2", "original_title": "Girlfriends: Brazilian Lovers 2", "slug_title": "girlfriends-brazilian-lovers-2", "date": "2007-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 39593, "title": "Private Gold 35: African Dream", "original_title": "Private Gold 35: African Dream", "slug_title": "private-gold-35-african-dream", "date": "1999-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wscZAWqxJKmJKpEFwJWWekOihDS.jpg", "actors": [], "comments": [], "recommandations_id": []}

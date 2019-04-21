@@ -1,0 +1,1 @@
+{"tmdb_id": 319449, "title": "Opera De Lyon: Debussy's Pelleas et Melisande", "original_title": "Opera De Lyon: Debussy's Pelleas et Melisande", "slug_title": "opera-de-lyon-debussy-s-pelleas-et-melisande", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

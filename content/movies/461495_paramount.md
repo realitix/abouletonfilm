@@ -1,0 +1,1 @@
+{"tmdb_id": 461495, "title": "Paramount", "original_title": "Paramount", "slug_title": "paramount", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDIWZy6QmFouUH4l1JF5hsnkZzx.jpg", "actors": ["Klaus Telscher ()"], "comments": [], "recommandations_id": []}

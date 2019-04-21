@@ -1,0 +1,1 @@
+{"tmdb_id": 222949, "title": "Fiery Fireman", "original_title": "Fiery Fireman", "slug_title": "fiery-fireman", "date": "1928-10-15", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLpapRqZEFy67oAWin2TFl6CWUv.jpg", "actors": [], "comments": [], "recommandations_id": []}

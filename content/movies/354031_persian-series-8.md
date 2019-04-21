@@ -1,0 +1,1 @@
+{"tmdb_id": 354031, "title": "Persian Series #8", "original_title": "Persian Series #8", "slug_title": "persian-series-8", "date": "2000-08-11", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cenEguZhJWyEAIzMFo2FrX2MrHL.jpg", "actors": [], "comments": [], "recommandations_id": []}

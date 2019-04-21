@@ -1,0 +1,1 @@
+{"tmdb_id": 562373, "title": "So You Want to Be a Musician", "original_title": "So You Want to Be a Musician", "slug_title": "so-you-want-to-be-a-musician", "date": "1953-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

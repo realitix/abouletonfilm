@@ -1,0 +1,1 @@
+{"tmdb_id": 244477, "title": "Mark Twain's America in 3D", "original_title": "Mark Twain's America in 3D", "slug_title": "mark-twain-s-america-in-3d", "date": "1998-07-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1apRQZAuPeMUi6IT1yWUB2hXLdn.jpg", "actors": [], "comments": [], "recommandations_id": []}

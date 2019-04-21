@@ -1,0 +1,1 @@
+{"tmdb_id": 207338, "title": "Chrysanthemums the Word", "original_title": "Chrysanthemums the Word", "slug_title": "chrysanthemums-the-word", "date": "2005-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

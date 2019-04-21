@@ -1,0 +1,1 @@
+{"tmdb_id": 199361, "title": "Boulevardier from the Bronx", "original_title": "Boulevardier from the Bronx", "slug_title": "boulevardier-from-the-bronx", "date": "1936-10-10", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Yk3kOnMTHe66lr6qwjmJDHTpRR.jpg", "actors": [], "comments": [], "recommandations_id": []}

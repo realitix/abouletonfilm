@@ -1,0 +1,1 @@
+{"tmdb_id": 368404, "title": "1984: A personal view of Orwells Nineteen Eighty Four", "original_title": "1984: A personal view of Orwells Nineteen Eighty Four", "slug_title": "1984-a-personal-view-of-orwells-nineteen-eighty-four", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

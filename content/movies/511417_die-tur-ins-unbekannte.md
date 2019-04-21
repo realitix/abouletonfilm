@@ -1,0 +1,1 @@
+{"tmdb_id": 511417, "title": "Die T\u00fcr ins Unbekannte", "original_title": "Die T\u00fcr ins Unbekannte", "slug_title": "die-tur-ins-unbekannte", "date": "1970-09-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lia Pahl ()", "Rolf Schimpf ()"], "comments": [], "recommandations_id": []}

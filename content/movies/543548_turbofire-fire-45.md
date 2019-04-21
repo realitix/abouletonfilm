@@ -1,0 +1,1 @@
+{"tmdb_id": 543548, "title": "TurboFire: Fire 45", "original_title": "TurboFire: Fire 45", "slug_title": "turbofire-fire-45", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rl6qTyslPk4T9rQp237QRiAMvBN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512502, "title": "Betraktelse", "original_title": "Betraktelse", "slug_title": "betraktelse", "date": "1994-02-05", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

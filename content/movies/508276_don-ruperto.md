@@ -1,0 +1,1 @@
+{"tmdb_id": 508276, "title": "Don Ruperto", "original_title": "Don Ruperto", "slug_title": "don-ruperto", "date": "2017-01-01", "genre": "Com\u00e9die / Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rArGxnMlGuwzxodknHJsop7ekR1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236809, "title": "Army Champions", "original_title": "Army Champions", "slug_title": "army-champions", "date": "1941-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

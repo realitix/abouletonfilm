@@ -1,0 +1,1 @@
+{"tmdb_id": 579853, "title": "Granny Poetry Club", "original_title": "\uce60\uace1 \uac00\uc2dc\ub098\ub4e4", "slug_title": "granny-poetry-club", "date": "2019-02-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQYLXJaRaRLd16j9I5ufugsKsNU.jpg", "actors": [], "comments": [], "recommandations_id": []}

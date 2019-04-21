@@ -1,0 +1,1 @@
+{"tmdb_id": 264771, "title": "Wasahali", "original_title": "Wasahali", "slug_title": "wasahali", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

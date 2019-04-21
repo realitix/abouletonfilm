@@ -1,0 +1,1 @@
+{"tmdb_id": 294668, "title": "Pir\u00e2mide: Al\u00e9m da Imagina\u00e7\u00e3o", "original_title": "Pir\u00e2mide: Al\u00e9m da Imagina\u00e7\u00e3o", "slug_title": "piramide-alem-da-imaginacao", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

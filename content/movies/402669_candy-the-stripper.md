@@ -1,0 +1,1 @@
+{"tmdb_id": 402669, "title": "Candy the Stripper", "original_title": "Candy the Stripper", "slug_title": "candy-the-stripper", "date": "1983-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tracy Vaccaro (Candy)", "Nathalie Breuer (Veronica)"], "comments": [], "recommandations_id": []}

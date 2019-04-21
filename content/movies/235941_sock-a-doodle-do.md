@@ -1,0 +1,1 @@
+{"tmdb_id": 235941, "title": "Sock a Doodle Do", "original_title": "Sock a Doodle Do", "slug_title": "sock-a-doodle-do", "date": "1952-05-09", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i7758jankDi3G1zWgiy8UEBBPPY.jpg", "actors": [], "comments": [], "recommandations_id": [174785, 177340, 204020, 165385]}

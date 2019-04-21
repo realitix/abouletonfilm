@@ -1,0 +1,1 @@
+{"tmdb_id": 556361, "title": "The Duel", "original_title": "Le duel", "slug_title": "the-duel", "date": "1928-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

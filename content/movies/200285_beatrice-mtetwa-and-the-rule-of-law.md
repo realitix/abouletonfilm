@@ -1,0 +1,1 @@
+{"tmdb_id": 200285, "title": "Beatrice Mtetwa and the Rule of Law", "original_title": "Beatrice Mtetwa and the Rule of Law", "slug_title": "beatrice-mtetwa-and-the-rule-of-law", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

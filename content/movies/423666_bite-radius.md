@@ -1,0 +1,1 @@
+{"tmdb_id": 423666, "title": "Bite Radius", "original_title": "Bite Radius", "slug_title": "bite-radius", "date": "2016-05-31", "genre": "Crime / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sophie Traub ()", "Trevor Dawkins ()"], "comments": [], "recommandations_id": []}

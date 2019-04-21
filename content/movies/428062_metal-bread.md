@@ -1,0 +1,1 @@
+{"tmdb_id": 428062, "title": "Metal Bread", "original_title": "Metal Bread", "slug_title": "metal-bread", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

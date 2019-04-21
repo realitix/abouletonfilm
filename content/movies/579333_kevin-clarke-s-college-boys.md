@@ -1,0 +1,1 @@
+{"tmdb_id": 579333, "title": "Kevin Clarke's College Boys", "original_title": "Kevin Clarke's College Boys", "slug_title": "kevin-clarke-s-college-boys", "date": "2007-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auMRKiQkobTJhPMYB1uuZAv4bIw.jpg", "actors": [], "comments": [], "recommandations_id": []}

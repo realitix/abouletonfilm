@@ -1,0 +1,1 @@
+{"tmdb_id": 476404, "title": "The Fishing Trip", "original_title": "The Fishing Trip", "slug_title": "the-fishing-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Vq6Rzxp8uKWc9xLLPZeSo4ioda.jpg", "actors": [], "comments": [], "recommandations_id": []}

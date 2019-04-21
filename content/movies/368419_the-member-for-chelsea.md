@@ -1,0 +1,1 @@
+{"tmdb_id": 368419, "title": "The Member for Chelsea", "original_title": "The Member for Chelsea", "slug_title": "the-member-for-chelsea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

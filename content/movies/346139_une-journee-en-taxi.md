@@ -1,0 +1,1 @@
+{"tmdb_id": 346139, "title": "Une journ\u00e9e en taxi", "original_title": "Une journ\u00e9e en taxi", "slug_title": "une-journee-en-taxi", "date": "1982-09-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Yanne (Michel)", "Gilles Renaud (Johnny)"], "comments": [], "recommandations_id": []}

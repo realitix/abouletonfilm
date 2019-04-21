@@ -1,0 +1,1 @@
+{"tmdb_id": 333236, "title": "What are We Doing this Sunday?", "original_title": "Que fait on ce dimanche?", "slug_title": "what-are-we-doing-this-sunday", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

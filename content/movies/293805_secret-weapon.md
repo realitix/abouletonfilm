@@ -1,0 +1,1 @@
+{"tmdb_id": 293805, "title": "Secret Weapon", "original_title": "Secret Weapon", "slug_title": "secret-weapon", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

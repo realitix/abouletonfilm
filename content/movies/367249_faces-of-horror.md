@@ -1,0 +1,1 @@
+{"tmdb_id": 367249, "title": "Faces of Horror", "original_title": "Faces of Horror", "slug_title": "faces-of-horror", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

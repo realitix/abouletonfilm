@@ -1,0 +1,1 @@
+{"tmdb_id": 78716, "title": "Amir Khan vs. Marcos Maidana", "original_title": "Amir Khan vs. Marcos Maidana", "slug_title": "amir-khan-vs-marcos-maidana", "date": "2010-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecU4U3YOgTDi8cabS4INrlSg4v6.jpg", "actors": [], "comments": [], "recommandations_id": []}

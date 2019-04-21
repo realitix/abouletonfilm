@@ -1,0 +1,1 @@
+{"tmdb_id": 591205, "title": "Yi mao qian", "original_title": "Yi mao qian", "slug_title": "yi-mao-qian", "date": "1964-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

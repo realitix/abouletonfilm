@@ -1,0 +1,1 @@
+{"tmdb_id": 542601, "title": "City Of Joel", "original_title": "City Of Joel", "slug_title": "city-of-joel", "date": "2018-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2VD75D18cgZkQBM8PnNNIZiX2i8.jpg", "actors": [], "comments": [], "recommandations_id": []}

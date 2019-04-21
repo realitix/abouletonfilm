@@ -1,0 +1,1 @@
+{"tmdb_id": 369768, "title": "Das Parfum - die wahre Geschichte", "original_title": "Das Parfum - die wahre Geschichte", "slug_title": "das-parfum-die-wahre-geschichte", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marek Lysakow (Johann Marina Farina)"], "comments": [], "recommandations_id": []}

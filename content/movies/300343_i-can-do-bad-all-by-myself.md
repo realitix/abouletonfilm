@@ -1,0 +1,1 @@
+{"tmdb_id": 300343, "title": "I Can Do Bad All By Myself", "original_title": "I Can Do Bad All By Myself", "slug_title": "i-can-do-bad-all-by-myself", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

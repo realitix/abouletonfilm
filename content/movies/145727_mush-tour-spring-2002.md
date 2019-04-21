@@ -1,0 +1,1 @@
+{"tmdb_id": 145727, "title": "Mush Tour Spring 2002", "original_title": "Mush Tour Spring 2002", "slug_title": "mush-tour-spring-2002", "date": "2003-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/409z1goGfJH25nW6XasZGpharn4.jpg", "actors": [], "comments": [], "recommandations_id": []}

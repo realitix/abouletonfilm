@@ -1,0 +1,1 @@
+{"tmdb_id": 275821, "title": "Bruckner: Symphony No. 8 in C Minor", "original_title": "Bruckner: Symphony No. 8 in C Minor", "slug_title": "bruckner-symphony-no-8-in-c-minor", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

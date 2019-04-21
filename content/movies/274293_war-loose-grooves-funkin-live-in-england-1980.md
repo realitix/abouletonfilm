@@ -1,0 +1,1 @@
+{"tmdb_id": 274293, "title": "War: Loose Grooves: Funkin' Live in England 1980", "original_title": "War: Loose Grooves: Funkin' Live in England 1980", "slug_title": "war-loose-grooves-funkin-live-in-england-1980", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

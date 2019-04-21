@@ -1,0 +1,1 @@
+{"tmdb_id": 570203, "title": "Dr. Dre: Another Beat", "original_title": "Dr. Dre: Another Beat", "slug_title": "dr-dre-another-beat", "date": "2016-04-25", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dele Fadele ()", "Angus Batey ()", "Ashley Pearson ()"], "comments": [], "recommandations_id": []}

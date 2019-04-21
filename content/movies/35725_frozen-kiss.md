@@ -1,0 +1,1 @@
+{"tmdb_id": 35725, "title": "Frozen Kiss", "original_title": "Frozen Kiss", "slug_title": "frozen-kiss", "date": "2009-12-11", "genre": "Drame / Thriller", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BrCZJPZwGY9taspmt2PSdi5Ta2.jpg", "actors": ["Mimi Rogers (Gayle)"], "comments": [], "recommandations_id": []}

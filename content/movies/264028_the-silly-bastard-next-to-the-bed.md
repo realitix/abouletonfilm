@@ -1,0 +1,1 @@
+{"tmdb_id": 264028, "title": "The Silly Bastard Next to the Bed", "original_title": "The Silly Bastard Next to the Bed", "slug_title": "the-silly-bastard-next-to-the-bed", "date": "2014-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

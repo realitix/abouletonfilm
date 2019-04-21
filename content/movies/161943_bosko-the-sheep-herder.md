@@ -1,0 +1,1 @@
+{"tmdb_id": 161943, "title": "Bosko the Sheep-Herder", "original_title": "Bosko the Sheep-Herder", "slug_title": "bosko-the-sheep-herder", "date": "1933-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

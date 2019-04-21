@@ -1,0 +1,1 @@
+{"tmdb_id": 259022, "title": "T\u00e4rkeit\u00e4 papereita", "original_title": "T\u00e4rkeit\u00e4 papereita", "slug_title": "tarkeita-papereita", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWMZXSPTe8Is2T440xyZEGZMe49.jpg", "actors": [], "comments": [], "recommandations_id": []}

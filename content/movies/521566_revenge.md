@@ -1,0 +1,1 @@
+{"tmdb_id": 521566, "title": "Revenge", "original_title": "Pomsta", "slug_title": "revenge", "date": "1968-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o86cGQc9DYNVbmJxd4zqKYixO4c.jpg", "actors": [], "comments": [], "recommandations_id": []}

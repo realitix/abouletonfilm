@@ -1,0 +1,1 @@
+{"tmdb_id": 560153, "title": "Los Reyes", "original_title": "Los Reyes", "slug_title": "los-reyes", "date": "2019-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n168wsQqKg7mxknAB7Aldqd4XIx.jpg", "actors": [], "comments": [], "recommandations_id": []}

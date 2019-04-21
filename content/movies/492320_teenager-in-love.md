@@ -1,0 +1,1 @@
+{"tmdb_id": 492320, "title": "Teenager in Love", "original_title": "Teenager in Love", "slug_title": "teenager-in-love", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmAdqVm7kXCg2bOMMvvrHTzXDGW.jpg", "actors": [], "comments": [], "recommandations_id": []}

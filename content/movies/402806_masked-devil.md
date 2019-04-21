@@ -1,0 +1,1 @@
+{"tmdb_id": 402806, "title": "Masked Devil", "original_title": "Maskeli \u015eeytan", "slug_title": "masked-devil", "date": "1970-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpaN6I5PgHBjplxyZULmrevMLoP.jpg", "actors": ["Irfan Atasoy ()"], "comments": [], "recommandations_id": []}

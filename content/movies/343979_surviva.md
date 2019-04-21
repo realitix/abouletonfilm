@@ -1,0 +1,1 @@
+{"tmdb_id": 343979, "title": "SURVIVA", "original_title": "SURVIVA", "slug_title": "surviva", "date": "1980-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

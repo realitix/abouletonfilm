@@ -1,0 +1,1 @@
+{"tmdb_id": 326746, "title": "Whacks Museum", "original_title": "Whacks Museum", "slug_title": "whacks-museum", "date": "1933-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

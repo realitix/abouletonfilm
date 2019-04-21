@@ -1,0 +1,1 @@
+{"tmdb_id": 333978, "title": "Dharam Adhikari", "original_title": "Dharam Adhikari", "slug_title": "dharam-adhikari", "date": "1986-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgoIsjPwQOmXhG1ojvRGbJaELNH.jpg", "actors": [], "comments": [], "recommandations_id": []}

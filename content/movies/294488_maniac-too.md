@@ -1,0 +1,1 @@
+{"tmdb_id": 294488, "title": "Maniac Too!", "original_title": "Maniac Too!", "slug_title": "maniac-too", "date": "2013-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

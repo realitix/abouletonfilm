@@ -1,0 +1,1 @@
+{"tmdb_id": 499008, "title": "Studio Ceramist", "original_title": "Studio Ceramist", "slug_title": "studio-ceramist", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 120173, "title": "Platonov", "original_title": "Platonov", "slug_title": "platonov", "date": "1971-05-23", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4LBGUsgt9oiNlo21xm4diTMm5W.jpg", "actors": ["Rex Harrison ()"], "comments": [], "recommandations_id": []}

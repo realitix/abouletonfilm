@@ -1,0 +1,1 @@
+{"tmdb_id": 529588, "title": "Chez les mangeurs d\u2019hommes", "original_title": "Chez les mangeurs d\u2019hommes", "slug_title": "chez-les-mangeurs-dhommes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

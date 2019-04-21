@@ -1,0 +1,1 @@
+{"tmdb_id": 120344, "title": "The Man of Destiny", "original_title": "The Man of Destiny", "slug_title": "the-man-of-destiny", "date": "1981-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345245, "title": "Pulmapilt", "original_title": "Pulmapilt", "slug_title": "pulmapilt", "date": "1981-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rein Aren ()", "Lembit Ulfsak ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 126194, "title": "The Dante Quartet", "original_title": "The Dante Quartet", "slug_title": "the-dante-quartet", "date": "1987-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGgbDE5sdc5qpmo4lLkevqA0Au1.jpg", "actors": [], "comments": [], "recommandations_id": [126193, 126197, 126208, 97513]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408875, "title": "La cloche", "original_title": "La cloche", "slug_title": "la-cloche", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michel Modo ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 247725, "title": "No Evidence of Disease", "original_title": "No Evidence of Disease", "slug_title": "no-evidence-of-disease", "date": "2015-02-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BiapyaEbT5tNITfMSzIQUSYwSJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

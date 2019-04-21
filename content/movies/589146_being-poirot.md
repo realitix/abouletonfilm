@@ -1,0 +1,1 @@
+{"tmdb_id": 589146, "title": "Being Poirot", "original_title": "Being Poirot", "slug_title": "being-poirot", "date": "2013-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1glk6EgBqRwgZvmL9bCfIhkmqm6.jpg", "actors": ["David Suchet (Narrator)"], "comments": [], "recommandations_id": []}

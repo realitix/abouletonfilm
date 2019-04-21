@@ -1,0 +1,1 @@
+{"tmdb_id": 548620, "title": "En medio del verano", "original_title": "En medio del verano", "slug_title": "en-medio-del-verano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3mwYpI661b6K5xMmq5KCDq3val.jpg", "actors": ["Denisse Corona (Sof\u00eda)"], "comments": [], "recommandations_id": []}

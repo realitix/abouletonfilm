@@ -1,0 +1,1 @@
+{"tmdb_id": 302760, "title": "We Are All Rwandans", "original_title": "We Are All Rwandans", "slug_title": "we-are-all-rwandans", "date": "2008-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

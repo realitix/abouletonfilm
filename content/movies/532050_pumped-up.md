@@ -1,0 +1,1 @@
+{"tmdb_id": 532050, "title": "Pumped Up", "original_title": "Pumped Up", "slug_title": "pumped-up", "date": "2017-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rNjnO2SR93kImXilPO3MpEoKIX.jpg", "actors": ["Ren\u00e9 Turquois ((voice))"], "comments": [], "recommandations_id": []}

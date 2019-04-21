@@ -1,0 +1,1 @@
+{"tmdb_id": 421644, "title": "The Americans in the Bulge", "original_title": "The Americans in the Bulge", "slug_title": "the-americans-in-the-bulge", "date": "2010-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474072, "title": "Airpower: Vietnam to Desert Storm", "original_title": "Airpower: Vietnam to Desert Storm", "slug_title": "airpower-vietnam-to-desert-storm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

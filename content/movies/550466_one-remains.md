@@ -1,0 +1,1 @@
+{"tmdb_id": 550466, "title": "One Remains", "original_title": "One Remains", "slug_title": "one-remains", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Roper (The Last Man On Earth)"], "comments": [], "recommandations_id": []}

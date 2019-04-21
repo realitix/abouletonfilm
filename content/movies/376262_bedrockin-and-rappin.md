@@ -1,0 +1,1 @@
+{"tmdb_id": 376262, "title": "Bedrockin' And Rappin'", "original_title": "Bedrockin' And Rappin'", "slug_title": "bedrockin-and-rappin", "date": "1991-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZT9ClyXnP4NHwOQY0SDGrg5oeL.jpg", "actors": [], "comments": [], "recommandations_id": []}

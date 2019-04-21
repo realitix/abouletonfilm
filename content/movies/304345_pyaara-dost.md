@@ -1,0 +1,1 @@
+{"tmdb_id": 304345, "title": "Pyaara Dost", "original_title": "Pyaara Dost", "slug_title": "pyaara-dost", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

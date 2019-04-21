@@ -1,0 +1,1 @@
+{"tmdb_id": 564735, "title": "Para as Estrelas", "original_title": "Para as Estrelas", "slug_title": "para-as-estrelas", "date": "2018-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgBfnlw4OQrByzgl28yDYyEYZ5Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

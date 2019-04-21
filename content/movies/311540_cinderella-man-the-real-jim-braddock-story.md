@@ -1,0 +1,1 @@
+{"tmdb_id": 311540, "title": "Cinderella Man: The Real Jim Braddock Story", "original_title": "Cinderella Man: The Real Jim Braddock Story", "slug_title": "cinderella-man-the-real-jim-braddock-story", "date": "2005-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

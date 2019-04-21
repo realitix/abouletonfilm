@@ -1,0 +1,1 @@
+{"tmdb_id": 465600, "title": "Wake Up Ghost", "original_title": "Wake Up Ghost", "slug_title": "wake-up-ghost", "date": "", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uBRIZcNe6j2vv2iIbT02oAb7PRZ.jpg", "actors": ["Supakorn Srisawat ()"], "comments": [], "recommandations_id": []}

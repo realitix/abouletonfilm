@@ -1,0 +1,1 @@
+{"tmdb_id": 502369, "title": "Eliyahu Rips: The Burning", "original_title": "Dego\u0161ais", "slug_title": "eliyahu-rips-the-burning", "date": "2016-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDciVkLmqDXN0ZbDaygapLn21D3.jpg", "actors": [], "comments": [], "recommandations_id": []}

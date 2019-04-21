@@ -1,0 +1,1 @@
+{"tmdb_id": 331752, "title": "The Servant", "original_title": "al-Khadima", "slug_title": "the-servant", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nadia El Gendy ()"], "comments": [], "recommandations_id": []}

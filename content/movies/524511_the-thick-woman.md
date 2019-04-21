@@ -1,0 +1,1 @@
+{"tmdb_id": 524511, "title": "The Thick Woman", "original_title": "\u0422\u043e\u043b\u0441\u0442\u0430\u044f", "slug_title": "the-thick-woman", "date": "2017-12-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yevgeni Syty ()", "Stasya Miloslavskaya ()"], "comments": [], "recommandations_id": []}

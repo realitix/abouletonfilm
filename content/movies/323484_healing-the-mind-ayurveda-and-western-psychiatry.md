@@ -1,0 +1,1 @@
+{"tmdb_id": 323484, "title": "Healing the Mind: Ayurveda and Western Psychiatry", "original_title": "Healing the Mind: Ayurveda and Western Psychiatry", "slug_title": "healing-the-mind-ayurveda-and-western-psychiatry", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 206983, "title": "AAA Championships at Fartown, Huddersfield", "original_title": "AAA Championships at Fartown, Huddersfield", "slug_title": "aaa-championships-at-fartown-huddersfield", "date": "1901-07-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

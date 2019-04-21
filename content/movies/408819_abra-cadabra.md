@@ -1,0 +1,1 @@
+{"tmdb_id": 408819, "title": "Abra Cadabra", "original_title": "Abra Kadabra", "slug_title": "abra-cadabra", "date": "1957-08-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzABnXteanb8ZnTkUxrnx9liqDW.jpg", "actors": [], "comments": [], "recommandations_id": []}

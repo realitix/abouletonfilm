@@ -1,0 +1,1 @@
+{"tmdb_id": 234491, "title": "The Method and Maw", "original_title": "The Method and Maw", "slug_title": "the-method-and-maw", "date": "1962-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

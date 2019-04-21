@@ -1,0 +1,1 @@
+{"tmdb_id": 205570, "title": "Drugged: High on Alcohol", "original_title": "Drugged: High on Alcohol", "slug_title": "drugged-high-on-alcohol", "date": "2012-12-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ai7TV3ExRpRORoKz6JeZ21t2c5A.jpg", "actors": [], "comments": [], "recommandations_id": []}

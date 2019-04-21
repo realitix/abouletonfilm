@@ -1,0 +1,1 @@
+{"tmdb_id": 426774, "title": "Donna Summer - Live", "original_title": "Donna Summer - Live", "slug_title": "donna-summer-live", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXDr4yEXd5arftNBmtMYjhrm2RE.jpg", "actors": ["Donna Summer ()"], "comments": [], "recommandations_id": []}

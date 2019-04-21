@@ -1,0 +1,1 @@
+{"tmdb_id": 577629, "title": "I Wanna Be a Fireman", "original_title": "I Wanna Be a Fireman", "slug_title": "i-wanna-be-a-fireman", "date": "1943-01-24", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

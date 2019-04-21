@@ -1,0 +1,1 @@
+{"tmdb_id": 473752, "title": "Sulukule Mon Amour", "original_title": "Sulukule Mon Amour", "slug_title": "sulukule-mon-amour", "date": "2017-10-10", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

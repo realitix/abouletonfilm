@@ -1,0 +1,1 @@
+{"tmdb_id": 54909, "title": "He's a Bully, Charlie Brown", "original_title": "He's a Bully, Charlie Brown", "slug_title": "he-s-a-bully-charlie-brown", "date": "2006-11-20", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGodtgCLtDBsZIU1Vd3H1Acdc2v.jpg", "actors": [], "comments": [], "recommandations_id": []}

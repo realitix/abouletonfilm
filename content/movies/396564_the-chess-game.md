@@ -1,0 +1,1 @@
+{"tmdb_id": 396564, "title": "The Chess Game", "original_title": "The Chess Game", "slug_title": "the-chess-game", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

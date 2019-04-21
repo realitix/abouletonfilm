@@ -1,0 +1,1 @@
+{"tmdb_id": 309508, "title": "Shatner's Raw Nerve", "original_title": "Shatner's Raw Nerve", "slug_title": "shatner-s-raw-nerve", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

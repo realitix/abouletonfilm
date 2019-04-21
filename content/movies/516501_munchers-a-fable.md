@@ -1,0 +1,1 @@
+{"tmdb_id": 516501, "title": "Munchers: A Fable", "original_title": "Munchers: A Fable", "slug_title": "munchers-a-fable", "date": "1973-04-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fD2VvbxU0d5q8w2fZhWSp41Ziu8.jpg", "actors": [], "comments": [], "recommandations_id": []}

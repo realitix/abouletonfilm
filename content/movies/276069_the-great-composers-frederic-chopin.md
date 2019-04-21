@@ -1,0 +1,1 @@
+{"tmdb_id": 276069, "title": "The Great Composers: Frederic Chopin", "original_title": "The Great Composers: Frederic Chopin", "slug_title": "the-great-composers-frederic-chopin", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

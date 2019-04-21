@@ -1,0 +1,1 @@
+{"tmdb_id": 310743, "title": "Researching: Finding the Heart of the Story", "original_title": "Researching: Finding the Heart of the Story", "slug_title": "researching-finding-the-heart-of-the-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

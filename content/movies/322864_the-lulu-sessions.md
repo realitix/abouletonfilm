@@ -1,0 +1,1 @@
+{"tmdb_id": 322864, "title": "The LuLu Sessions", "original_title": "The LuLu Sessions", "slug_title": "the-lulu-sessions", "date": "2011-09-06", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bOFaD6gb9UC0PNvXiKDEKqcU8Aq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428255, "title": "Remote Control", "original_title": "Remote Control", "slug_title": "remote-control", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vito Acconci (Himself)", "Kathy Dillon (Herself)"], "comments": [], "recommandations_id": []}

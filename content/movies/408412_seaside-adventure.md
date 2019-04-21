@@ -1,0 +1,1 @@
+{"tmdb_id": 408412, "title": "Seaside Adventure", "original_title": "Seaside Adventure", "slug_title": "seaside-adventure", "date": "1951-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 94091, "title": "\u9f99\u987b\u6c9f", "original_title": "\u9f99\u987b\u6c9f", "slug_title": "long-xu-gou", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

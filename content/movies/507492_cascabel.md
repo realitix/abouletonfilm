@@ -1,0 +1,1 @@
+{"tmdb_id": 507492, "title": "Cascabel", "original_title": "Cascabel", "slug_title": "cascabel", "date": "2016-06-13", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i31d69sUmGu7yA4Ydi5ewFFKu4T.jpg", "actors": ["Juanma Falc\u00f3n ()", "Aleida Torrent ()"], "comments": [], "recommandations_id": []}

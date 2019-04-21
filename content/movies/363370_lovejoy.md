@@ -1,0 +1,1 @@
+{"tmdb_id": 363370, "title": "Lovejoy", "original_title": "Lovejoy", "slug_title": "lovejoy", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

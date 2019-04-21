@@ -1,0 +1,1 @@
+{"tmdb_id": 517088, "title": "Lucy and Desi", "original_title": "Lucy and Desi", "slug_title": "lucy-and-desi", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cate Blanchett (Lucille Ball)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 79614, "title": "Bamses Julesange", "original_title": "Bamses Julesange", "slug_title": "bamses-julesange", "date": "2005-11-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6dFqEiq970ZWeNX7cxHqqLyUc8.jpg", "actors": [], "comments": [], "recommandations_id": []}

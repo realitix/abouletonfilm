@@ -1,0 +1,1 @@
+{"tmdb_id": 531787, "title": "The Rise and Fall of YandereDev", "original_title": "The Rise and Fall of YandereDev", "slug_title": "the-rise-and-fall-of-yanderedev", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3I9VovYSZHZOnB1kzTpFHoIei.jpg", "actors": [], "comments": [], "recommandations_id": []}

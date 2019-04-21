@@ -1,0 +1,1 @@
+{"tmdb_id": 262278, "title": "Idaya Malar", "original_title": "Idaya Malar", "slug_title": "idaya-malar", "date": "1976-09-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Sowcar Janaki ()", "Sujatha ()", "Y. G. Mahendran ()"], "comments": [], "recommandations_id": []}

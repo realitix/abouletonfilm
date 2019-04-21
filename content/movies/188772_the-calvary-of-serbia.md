@@ -1,0 +1,1 @@
+{"tmdb_id": 188772, "title": "The Calvary of Serbia", "original_title": "Golgota Srbije WWI", "slug_title": "the-calvary-of-serbia", "date": "1932-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/giw6gnRUIE34DXVX1UsKzlhFRy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 260213, "title": "Runs Good", "original_title": "Runs Good", "slug_title": "runs-good", "date": "1971-03-20", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jw5khn7RHE4pnn9PmD3ZIcInnWm.jpg", "actors": [], "comments": [], "recommandations_id": [203090, 151312, 260215, 98498]}

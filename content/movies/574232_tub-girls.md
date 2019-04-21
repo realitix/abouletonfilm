@@ -1,0 +1,1 @@
+{"tmdb_id": 574232, "title": "Tub Girls", "original_title": "Tub Girls", "slug_title": "tub-girls", "date": "1967-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brigid Berlin ()", "Alexis de la Falaise ()", "Abigail Rosen ()", "Viva ()"], "comments": [], "recommandations_id": []}

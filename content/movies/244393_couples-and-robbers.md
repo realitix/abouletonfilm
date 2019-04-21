@@ -1,0 +1,1 @@
+{"tmdb_id": 244393, "title": "Couples and Robbers", "original_title": "Couples and Robbers", "slug_title": "couples-and-robbers", "date": "1981-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

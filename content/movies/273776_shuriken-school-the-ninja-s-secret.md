@@ -1,0 +1,1 @@
+{"tmdb_id": 273776, "title": "Shuriken School: The Ninja's Secret", "original_title": "Shuriken School: The Ninja's Secret", "slug_title": "shuriken-school-the-ninja-s-secret", "date": "2006-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

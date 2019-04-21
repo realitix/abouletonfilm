@@ -1,0 +1,1 @@
+{"tmdb_id": 541074, "title": "Stay Ups", "original_title": "Stay Ups", "slug_title": "stay-ups", "date": "2017-03-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5PVN5jWTNsgCCdhFxGufTG6nTCr.jpg", "actors": [], "comments": [], "recommandations_id": []}

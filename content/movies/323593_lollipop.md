@@ -1,0 +1,1 @@
+{"tmdb_id": 323593, "title": "Lollipop", "original_title": "Loli Pop", "slug_title": "lollipop", "date": "2009-02-05", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFvMyFS573WhM6VLIGbMvHTkf9k.jpg", "actors": [], "comments": [], "recommandations_id": []}

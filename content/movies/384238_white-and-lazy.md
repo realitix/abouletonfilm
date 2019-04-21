@@ -1,0 +1,1 @@
+{"tmdb_id": 384238, "title": "White and Lazy", "original_title": "White and Lazy", "slug_title": "white-and-lazy", "date": "2016-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

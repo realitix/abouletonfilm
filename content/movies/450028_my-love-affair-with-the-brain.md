@@ -1,0 +1,1 @@
+{"tmdb_id": 450028, "title": "My Love Affair with the Brain", "original_title": "My Love Affair with the Brain", "slug_title": "my-love-affair-with-the-brain", "date": "2016-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mayim Bialik (Narrator)"], "comments": [], "recommandations_id": []}

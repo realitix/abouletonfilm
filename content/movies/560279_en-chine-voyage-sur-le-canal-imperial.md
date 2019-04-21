@@ -1,0 +1,1 @@
+{"tmdb_id": 560279, "title": "En Chine - Voyage sur le canal imp\u00e9rial", "original_title": "En Chine - Voyage sur le canal imp\u00e9rial", "slug_title": "en-chine-voyage-sur-le-canal-imperial", "date": "1908-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

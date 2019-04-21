@@ -1,0 +1,1 @@
+{"tmdb_id": 528140, "title": "Das Pokealwunder der Eintracht", "original_title": "Das Pokealwunder der Eintracht", "slug_title": "das-pokealwunder-der-eintracht", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

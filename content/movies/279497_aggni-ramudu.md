@@ -1,0 +1,1 @@
+{"tmdb_id": 279497, "title": "Aggni Ramudu", "original_title": "Aggni Ramudu", "slug_title": "aggni-ramudu", "date": "1990-03-25", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Venkatesh ()", "Amala Akkineni ()", "Gautami Tadimalla ()", "Sharada ()"], "comments": [], "recommandations_id": []}

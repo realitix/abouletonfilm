@@ -1,0 +1,1 @@
+{"tmdb_id": 569817, "title": "Ansel Adams : photographer", "original_title": "Ansel Adams : photographer", "slug_title": "ansel-adams-photographer", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfuaSEB3yBjTDnrM4dnddgmS89f.jpg", "actors": [], "comments": [], "recommandations_id": []}

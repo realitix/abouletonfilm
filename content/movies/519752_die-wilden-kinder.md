@@ -1,0 +1,1 @@
+{"tmdb_id": 519752, "title": "Die wilden Kinder", "original_title": "Die wilden Kinder", "slug_title": "die-wilden-kinder", "date": "1988-07-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wolfgang B\u00f6ck (Arthur)", "Krista Posch (Agostini)", "Gila von Weitershausen (Mutter)"], "comments": [], "recommandations_id": []}

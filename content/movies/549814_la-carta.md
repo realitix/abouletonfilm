@@ -1,0 +1,1 @@
+{"tmdb_id": 549814, "title": "La Carta", "original_title": "La Carta", "slug_title": "la-carta", "date": "2014-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbIghtEtDTQTxJlBEpOXD85C0p8.jpg", "actors": [], "comments": [], "recommandations_id": []}

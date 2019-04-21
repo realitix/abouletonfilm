@@ -1,0 +1,1 @@
+{"tmdb_id": 400341, "title": "Beaten by Black Rain", "original_title": "Kuroi Ame ni Utarete", "slug_title": "beaten-by-black-rain", "date": "1984-08-12", "genre": "Histoire / Animation / Drame", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6A21Dw75be5Ztcc1zA9EFctZfAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

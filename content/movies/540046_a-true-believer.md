@@ -1,0 +1,1 @@
+{"tmdb_id": 540046, "title": "A True Believer", "original_title": "\u72c2\u70ed\u81ea\u767d", "slug_title": "a-true-believer", "date": "2018-07-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nko8a8zGtgeJikFpbeEJAfBoQQY.jpg", "actors": [], "comments": [], "recommandations_id": []}

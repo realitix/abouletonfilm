@@ -1,0 +1,1 @@
+{"tmdb_id": 195332, "title": "Troops at Evacuation of Havana", "original_title": "Troops at Evacuation of Havana", "slug_title": "troops-at-evacuation-of-havana", "date": "1899-01-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

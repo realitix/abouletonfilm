@@ -1,0 +1,1 @@
+{"tmdb_id": 86631, "title": "Grindhouse Universe", "original_title": "Grindhouse Universe", "slug_title": "grindhouse-universe", "date": "2008-01-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/72eFKHmVcOxApWJKTuvlR4s1j5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274562, "title": "Live Fast, Die Young", "original_title": "Live Fast, Die Young", "slug_title": "live-fast-die-young", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

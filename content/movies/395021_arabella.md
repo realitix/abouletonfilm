@@ -1,0 +1,1 @@
+{"tmdb_id": 395021, "title": "Arabella", "original_title": "Arabella", "slug_title": "arabella", "date": "1917-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pola Negri ()", "Jan Pawlowski ()", "J\u00f3zef Wegrzyn ()", "W\u0142adys\u0142aw Grabowski ()"], "comments": [], "recommandations_id": []}

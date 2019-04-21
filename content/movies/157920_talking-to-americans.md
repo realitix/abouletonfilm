@@ -1,0 +1,1 @@
+{"tmdb_id": 157920, "title": "Talking to Americans", "original_title": "Talking to Americans", "slug_title": "talking-to-americans", "date": "2011-03-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

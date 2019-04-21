@@ -1,0 +1,1 @@
+{"tmdb_id": 569204, "title": "Les m\u00e9taphores d'Alex", "original_title": "Les m\u00e9taphores d'Alex", "slug_title": "les-metaphores-d-alex", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexandre Cissokho ()", "Marcel Maz\u00e9 ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 441417, "title": "Ky\u014dry\u016b Sentai Zyuranger", "original_title": "Ky\u014dry\u016b Sentai Zyuranger", "slug_title": "kyoryu-sentai-zyuranger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

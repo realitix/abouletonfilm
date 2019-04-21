@@ -1,0 +1,1 @@
+{"tmdb_id": 530061, "title": "Nova audicija", "original_title": "Nova audicija", "slug_title": "nova-audicija", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

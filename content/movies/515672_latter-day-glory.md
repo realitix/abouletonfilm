@@ -1,0 +1,1 @@
+{"tmdb_id": 515672, "title": "Latter-Day Glory", "original_title": "Latter-Day Glory", "slug_title": "latter-day-glory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27SJ4l8AHwCLk28cob0iMcvFM7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

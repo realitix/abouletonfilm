@@ -1,0 +1,1 @@
+{"tmdb_id": 346603, "title": "Quiet Nights Of Blood And Pain", "original_title": "Quiet Nights Of Blood And Pain", "slug_title": "quiet-nights-of-blood-and-pain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

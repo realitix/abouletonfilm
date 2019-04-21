@@ -1,0 +1,1 @@
+{"tmdb_id": 244647, "title": "Mat Raja Kapor", "original_title": "Mat Raja Kapor", "slug_title": "mat-raja-kapor", "date": "1967-01-01", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxPhIdLCCgpW1xrFwtrehFCI0dO.jpg", "actors": ["Mat Sentol ()", "E. Daud ()"], "comments": [], "recommandations_id": []}

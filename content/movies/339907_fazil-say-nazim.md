@@ -1,0 +1,1 @@
+{"tmdb_id": 339907, "title": "Fazil Say: Nazim", "original_title": "Fazil Say: Nazim", "slug_title": "fazil-say-nazim", "date": "2005-12-12", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4m1XYqY7Xe8BExo0ZTEaxpcq5sj.jpg", "actors": [], "comments": [], "recommandations_id": []}

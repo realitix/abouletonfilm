@@ -1,0 +1,1 @@
+{"tmdb_id": 371481, "title": "The Bohemian Rhapsody Project", "original_title": "The Bohemian Rhapsody Project", "slug_title": "the-bohemian-rhapsody-project", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

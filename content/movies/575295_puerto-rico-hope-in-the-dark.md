@@ -1,0 +1,1 @@
+{"tmdb_id": 575295, "title": "Puerto Rico: Hope in the Dark", "original_title": "Puerto Rico: Hope in the Dark", "slug_title": "puerto-rico-hope-in-the-dark", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9WuS7wmb28snyhsVe19IICC08KN.jpg", "actors": [], "comments": [], "recommandations_id": []}

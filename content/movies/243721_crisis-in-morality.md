@@ -1,0 +1,1 @@
+{"tmdb_id": 243721, "title": "Crisis in Morality", "original_title": "Crisis in Morality", "slug_title": "crisis-in-morality", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqKDkz6udodzThf8JnyuaPXYnRz.jpg", "actors": ["Al Sanders (Himself)"], "comments": [], "recommandations_id": []}

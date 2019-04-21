@@ -1,0 +1,1 @@
+{"tmdb_id": 148967, "title": "Jimmy Smith Live in '69", "original_title": "Jimmy Smith Live in '69", "slug_title": "jimmy-smith-live-in-69", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

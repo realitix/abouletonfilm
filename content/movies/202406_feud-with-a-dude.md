@@ -1,0 +1,1 @@
+{"tmdb_id": 202406, "title": "Feud with a Dude", "original_title": "Feud with a Dude", "slug_title": "feud-with-a-dude", "date": "1968-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/giAu4y50vk7vjI9sJkRASFOUiNs.jpg", "actors": [], "comments": [], "recommandations_id": []}

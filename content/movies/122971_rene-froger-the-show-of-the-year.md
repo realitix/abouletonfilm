@@ -1,0 +1,1 @@
+{"tmdb_id": 122971, "title": "Rene Froger - The show of the Year", "original_title": "Rene Froger - The show of the Year", "slug_title": "rene-froger-the-show-of-the-year", "date": "2001-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Froger ()"], "comments": [], "recommandations_id": []}

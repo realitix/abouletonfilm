@@ -1,0 +1,1 @@
+{"tmdb_id": 407309, "title": "Singularity or Bust", "original_title": "Singularity or Bust", "slug_title": "singularity-or-bust", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

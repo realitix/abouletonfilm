@@ -1,0 +1,1 @@
+{"tmdb_id": 257784, "title": "Doctor Lollipop", "original_title": "Doctor Lollipop", "slug_title": "doctor-lollipop", "date": "2013-09-03", "genre": "Com\u00e9die / Animation", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

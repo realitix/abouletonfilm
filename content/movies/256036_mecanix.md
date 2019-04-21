@@ -1,0 +1,1 @@
+{"tmdb_id": 256036, "title": "M\u00e9canix", "original_title": "M\u00e9canix", "slug_title": "mecanix", "date": "2003-07-10", "genre": "Horreur / Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIdSJasvJ7T2S0uGmz2L48hjGWI.jpg", "actors": [], "comments": [], "recommandations_id": []}

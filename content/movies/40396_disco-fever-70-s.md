@@ -1,0 +1,1 @@
+{"tmdb_id": 40396, "title": "Disco Fever 70's", "original_title": "Disco Fever 70's", "slug_title": "disco-fever-70-s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/51jRFfmw7WN139qs5LhmAVV7wH3.jpg", "actors": [], "comments": [], "recommandations_id": []}

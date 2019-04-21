@@ -1,0 +1,1 @@
+{"tmdb_id": 562560, "title": "Gypsy Law", "original_title": "Kriss Romani", "slug_title": "gypsy-law", "date": "1963-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sIuKihufcH85a0XUSMRZ5bGowy.jpg", "actors": [], "comments": [], "recommandations_id": []}

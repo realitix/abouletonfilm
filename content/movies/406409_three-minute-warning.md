@@ -1,0 +1,1 @@
+{"tmdb_id": 406409, "title": "Three Minute Warning", "original_title": "Three Minute Warning", "slug_title": "three-minute-warning", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1rMivTtSPo9drRB23CneOxvx1ii.jpg", "actors": [], "comments": [], "recommandations_id": []}

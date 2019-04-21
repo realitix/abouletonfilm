@@ -1,0 +1,1 @@
+{"tmdb_id": 582180, "title": "Parkland: Inside Building 12", "original_title": "Parkland: Inside Building 12", "slug_title": "parkland-inside-building-12", "date": "2018-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbrHwJ0aSHiTUR0CK3CatQLegVA.jpg", "actors": [], "comments": [], "recommandations_id": []}

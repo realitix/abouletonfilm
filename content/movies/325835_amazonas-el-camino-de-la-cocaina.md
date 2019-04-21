@@ -1,0 +1,1 @@
+{"tmdb_id": 325835, "title": "Amazonas, el camino de la coca\u00edna", "original_title": "Amazonas, el camino de la coca\u00edna", "slug_title": "amazonas-el-camino-de-la-cocaina", "date": "2015-02-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

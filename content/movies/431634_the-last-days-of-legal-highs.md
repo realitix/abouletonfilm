@@ -1,0 +1,1 @@
+{"tmdb_id": 431634, "title": "The Last Days of Legal Highs", "original_title": "The Last Days of Legal Highs", "slug_title": "the-last-days-of-legal-highs", "date": "2016-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kA85vuPb7Q7ORgIsSCyy41obZWg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 360033, "title": "Russia's Idol", "original_title": "Russia's Idol", "slug_title": "russia-s-idol", "date": "1915-01-01", "genre": "Documentaire", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0FhUbe0YfvzzhATn0ITHVADKNh.jpg", "actors": ["Tsar Nicholas II ()"], "comments": [], "recommandations_id": []}

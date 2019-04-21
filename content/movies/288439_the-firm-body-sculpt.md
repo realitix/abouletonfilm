@@ -1,0 +1,1 @@
+{"tmdb_id": 288439, "title": "The Firm - Body Sculpt", "original_title": "The Firm - Body Sculpt", "slug_title": "the-firm-body-sculpt", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udOAUpm8lVjEec04krTrsyJk456.jpg", "actors": ["Jennifer Carman (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 203759, "title": "Biography: Yasser Arafat", "original_title": "Biography: Yasser Arafat", "slug_title": "biography-yasser-arafat", "date": "1996-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQ01TzwsUbXHKtyqMDsxZ5iCX2V.jpg", "actors": [], "comments": [], "recommandations_id": []}

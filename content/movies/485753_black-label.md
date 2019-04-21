@@ -1,0 +1,1 @@
+{"tmdb_id": 485753, "title": "Black Label", "original_title": "Etiqueta negra", "slug_title": "black-label", "date": "2017-01-01", "genre": "Action", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r6NH0VRbwZiA3Yr50zoCm1jWO86.jpg", "actors": ["Marcel Borr\u00e0s (Erik)"], "comments": [], "recommandations_id": []}

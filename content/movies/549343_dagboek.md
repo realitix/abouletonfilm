@@ -1,0 +1,1 @@
+{"tmdb_id": 549343, "title": "Dagboek", "original_title": "Dagboek", "slug_title": "dagboek", "date": "1972-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 356793, "title": "Der gudene er d\u00f8de", "original_title": "Der gudene er d\u00f8de", "slug_title": "der-gudene-er-dode", "date": "1993-02-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Krog ()", "Vibeke L\u00f8kkeberg ()"], "comments": [], "recommandations_id": []}

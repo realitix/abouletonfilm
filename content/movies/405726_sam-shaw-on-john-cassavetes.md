@@ -1,0 +1,1 @@
+{"tmdb_id": 405726, "title": "Sam Shaw on John Cassavetes", "original_title": "Sam Shaw on John Cassavetes", "slug_title": "sam-shaw-on-john-cassavetes", "date": "1993-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

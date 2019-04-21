@@ -1,0 +1,1 @@
+{"tmdb_id": 38431, "title": "Mash SF", "original_title": "Mash SF", "slug_title": "mash-sf", "date": "2007-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taGTqT5MyVwJ98cvxr0hhgQz4se.jpg", "actors": [], "comments": [], "recommandations_id": []}

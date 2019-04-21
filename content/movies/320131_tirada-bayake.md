@@ -1,0 +1,1 @@
+{"tmdb_id": 320131, "title": "Tirada Bayake", "original_title": "Tirada Bayake", "slug_title": "tirada-bayake", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

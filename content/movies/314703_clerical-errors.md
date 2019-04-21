@@ -1,0 +1,1 @@
+{"tmdb_id": 314703, "title": "Clerical Errors", "original_title": "Clerical Errors", "slug_title": "clerical-errors", "date": "2015-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yV7VcTY0Fo7XwHPfry2BxX0j6zF.jpg", "actors": [], "comments": [], "recommandations_id": []}

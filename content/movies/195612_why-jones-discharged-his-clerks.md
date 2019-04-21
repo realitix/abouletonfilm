@@ -1,0 +1,1 @@
+{"tmdb_id": 195612, "title": "Why Jones Discharged His Clerks", "original_title": "Why Jones Discharged His Clerks", "slug_title": "why-jones-discharged-his-clerks", "date": "1900-01-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

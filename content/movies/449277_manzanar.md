@@ -1,0 +1,1 @@
+{"tmdb_id": 449277, "title": "Manzanar", "original_title": "Manzanar", "slug_title": "manzanar", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

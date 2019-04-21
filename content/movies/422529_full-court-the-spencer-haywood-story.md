@@ -1,0 +1,1 @@
+{"tmdb_id": 422529, "title": "Full Court: The Spencer Haywood Story", "original_title": "Full Court: The Spencer Haywood Story", "slug_title": "full-court-the-spencer-haywood-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

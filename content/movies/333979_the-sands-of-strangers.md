@@ -1,0 +1,1 @@
+{"tmdb_id": 333979, "title": "The Sands of Strangers", "original_title": "Torab al-ghoraba", "slug_title": "the-sands-of-strangers", "date": "1998-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bassam Kousa ()", "Najwa Kandakji ()", "Fayez Abou Dan ()"], "comments": [], "recommandations_id": []}

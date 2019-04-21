@@ -1,0 +1,1 @@
+{"tmdb_id": 388384, "title": "Straying Little Red Riding Hood", "original_title": "Straying Little Red Riding Hood", "slug_title": "straying-little-red-riding-hood", "date": "2008-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

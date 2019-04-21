@@ -1,0 +1,1 @@
+{"tmdb_id": 296463, "title": "Acid Rain", "original_title": "Acid Rain", "slug_title": "acid-rain", "date": "1998-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Duan Sanderson (Alex)", "Matthew Rivera (Petey)", "Christopher Batyr (Richard)", "Matt Edwards (Uriel)"], "comments": [], "recommandations_id": []}

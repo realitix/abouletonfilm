@@ -1,0 +1,1 @@
+{"tmdb_id": 240384, "title": "My Boy Johnny", "original_title": "My Boy Johnny", "slug_title": "my-boy-johnny", "date": "1944-05-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mITvcRN8zZK5Z1YVKhm2kyT0Gza.jpg", "actors": [], "comments": [], "recommandations_id": []}

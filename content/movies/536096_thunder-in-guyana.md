@@ -1,0 +1,1 @@
+{"tmdb_id": 536096, "title": "Thunder in Guyana", "original_title": "Thunder in Guyana", "slug_title": "thunder-in-guyana", "date": "2003-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janet Jagan (Herself(archival))", "Cheddi Jagan (Himself(archival))"], "comments": [], "recommandations_id": []}

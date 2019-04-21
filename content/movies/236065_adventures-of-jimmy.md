@@ -1,0 +1,1 @@
+{"tmdb_id": 236065, "title": "Adventures of Jimmy", "original_title": "Adventures of Jimmy", "slug_title": "adventures-of-jimmy", "date": "1950-11-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5ZAITsNCzKaXDEEBq1JzZ3YUag.jpg", "actors": ["James Broughton ()"], "comments": [], "recommandations_id": []}

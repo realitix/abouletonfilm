@@ -1,0 +1,1 @@
+{"tmdb_id": 219064, "title": "Sickfuckpeople", "original_title": "Sickfuckpeople", "slug_title": "sickfuckpeople", "date": "2013-04-28", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4qdqdKw4YD6CMsZoshZJqraGODC.jpg", "actors": [], "comments": [], "recommandations_id": []}

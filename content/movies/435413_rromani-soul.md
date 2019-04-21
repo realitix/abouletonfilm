@@ -1,0 +1,1 @@
+{"tmdb_id": 435413, "title": "Rromani Soul", "original_title": "Rromani Soul", "slug_title": "rromani-soul", "date": "2008-09-11", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1nTBSzaa3xLKZ5sSLux3Vau4kC.jpg", "actors": ["Esma Redzepova (Herself)"], "comments": [], "recommandations_id": []}

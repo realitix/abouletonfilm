@@ -1,0 +1,1 @@
+{"tmdb_id": 463250, "title": "The Mermaids", "original_title": "The Mermaids", "slug_title": "the-mermaids", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ania Niedieck (Nikki)", "Mira Herold (Tina)"], "comments": [], "recommandations_id": []}

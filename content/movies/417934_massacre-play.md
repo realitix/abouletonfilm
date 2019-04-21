@@ -1,0 +1,1 @@
+{"tmdb_id": 417934, "title": "Massacre Play", "original_title": "Gioco al massacro", "slug_title": "massacre-play", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckdVV2wrxj8KzbN4CVfr7w65guw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588699, "title": "Life Is A Belief", "original_title": "\u767e\u5e74\u5f88\u957f\u5417", "slug_title": "life-is-a-belief", "date": "2018-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oy4gPMKQDLKjIh2e1bbD8Tsmero.jpg", "actors": [], "comments": [], "recommandations_id": []}

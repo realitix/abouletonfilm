@@ -1,0 +1,1 @@
+{"tmdb_id": 245038, "title": "The Warriors of Qiugang", "original_title": "The Warriors of Qiugang", "slug_title": "the-warriors-of-qiugang", "date": "2010-09-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aORZ6SDpziPVkMSacT60JfM7Sm9.jpg", "actors": [], "comments": [], "recommandations_id": []}

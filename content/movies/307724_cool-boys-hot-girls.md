@@ -1,0 +1,1 @@
+{"tmdb_id": 307724, "title": "Cool Boys Hot Girls", "original_title": "Cool Boys Hot Girls", "slug_title": "cool-boys-hot-girls", "date": "2012-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

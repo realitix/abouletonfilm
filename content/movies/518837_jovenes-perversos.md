@@ -1,0 +1,1 @@
+{"tmdb_id": 518837, "title": "J\u00f3venes perversos", "original_title": "J\u00f3venes perversos", "slug_title": "jovenes-perversos", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZO0scxucbdzHpCrWzdLjLlUQyM.jpg", "actors": [], "comments": [], "recommandations_id": []}

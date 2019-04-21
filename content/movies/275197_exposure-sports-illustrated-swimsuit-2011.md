@@ -1,0 +1,1 @@
+{"tmdb_id": 275197, "title": "Exposure: Sports Illustrated Swimsuit 2011", "original_title": "Exposure: Sports Illustrated Swimsuit 2011", "slug_title": "exposure-sports-illustrated-swimsuit-2011", "date": "2011-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

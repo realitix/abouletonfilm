@@ -1,0 +1,1 @@
+{"tmdb_id": 333559, "title": "Champions League Final 2005", "original_title": "Champions League Final 2005", "slug_title": "champions-league-final-2005", "date": "2005-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

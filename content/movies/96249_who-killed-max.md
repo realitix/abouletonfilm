@@ -1,0 +1,1 @@
+{"tmdb_id": 96249, "title": "Who Killed Max?", "original_title": "Qui a tu\u00e9 Max?", "slug_title": "who-killed-max", "date": "1911-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ahdAObIOV3b6ZvReJB8ogok2dt.jpg", "actors": [], "comments": [], "recommandations_id": []}

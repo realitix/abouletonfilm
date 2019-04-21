@@ -1,0 +1,1 @@
+{"tmdb_id": 261194, "title": "Requital", "original_title": "Wu hu si hai", "slug_title": "requital", "date": "1992-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

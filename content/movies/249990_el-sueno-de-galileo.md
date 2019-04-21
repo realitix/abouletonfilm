@@ -1,0 +1,1 @@
+{"tmdb_id": 249990, "title": "El Sue\u00f1o De Galileo", "original_title": "El Sue\u00f1o De Galileo", "slug_title": "el-sueno-de-galileo", "date": "2010-03-12", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1jxURueY82F8I0YxmvBELzd0K5J.jpg", "actors": [], "comments": [], "recommandations_id": []}

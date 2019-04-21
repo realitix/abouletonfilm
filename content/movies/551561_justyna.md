@@ -1,0 +1,1 @@
+{"tmdb_id": 551561, "title": "Justyna", "original_title": "Justyna", "slug_title": "justyna", "date": "1979-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Chodakowska (Justyna)", "Kazimierz Kaczor (Karol, m\u0105\u017c Justyny)", "Irena Karel (Teresa)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478801, "title": "Madness and Genius", "original_title": "Madness and Genius", "slug_title": "madness-and-genius", "date": "2003-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZMP4N3WIpHcZH1lRW93v8H2Jbs.jpg", "actors": [], "comments": [], "recommandations_id": []}

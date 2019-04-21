@@ -1,0 +1,1 @@
+{"tmdb_id": 535495, "title": "Two Fools Catch the Murderer", "original_title": "Two Fools Catch the Murderer", "slug_title": "two-fools-catch-the-murderer", "date": "1959-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dan Lam ()", "Kwan-Min Cheng ()"], "comments": [], "recommandations_id": []}

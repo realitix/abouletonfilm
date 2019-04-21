@@ -1,0 +1,1 @@
+{"tmdb_id": 313811, "title": "A Whole New Mind", "original_title": "A Whole New Mind", "slug_title": "a-whole-new-mind", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 85178, "title": "The Ministry of Paul", "original_title": "The Ministry of Paul", "slug_title": "the-ministry-of-paul", "date": "1992-01-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/225rSfMtw2ZbFjXPaa9TsMeYj5J.jpg", "actors": [], "comments": [], "recommandations_id": []}

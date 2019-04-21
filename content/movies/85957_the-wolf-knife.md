@@ -1,0 +1,1 @@
+{"tmdb_id": 85957, "title": "The Wolf Knife", "original_title": "The Wolf Knife", "slug_title": "the-wolf-knife", "date": "2010-06-22", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/925Osc1H6OflRFTfad1U08yvgEJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

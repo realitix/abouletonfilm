@@ -1,0 +1,1 @@
+{"tmdb_id": 521698, "title": "Desebagato", "original_title": "Desebagato", "slug_title": "desebagato", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

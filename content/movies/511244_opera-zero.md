@@ -1,0 +1,1 @@
+{"tmdb_id": 511244, "title": "Op\u00e9ra z\u00e9ro", "original_title": "Op\u00e9ra z\u00e9ro", "slug_title": "opera-zero", "date": "1984-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302974, "title": "Honey Badgers: Masters of Mayhem", "original_title": "Honey Badgers: Masters of Mayhem", "slug_title": "honey-badgers-masters-of-mayhem", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZH3zQQ7wTVex0yCGWMyjksFVHw.jpg", "actors": [], "comments": [], "recommandations_id": []}

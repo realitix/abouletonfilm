@@ -1,0 +1,1 @@
+{"tmdb_id": 396157, "title": "Poison Idea: Mating Walruses", "original_title": "Poison Idea: Mating Walruses", "slug_title": "poison-idea-mating-walruses", "date": "1993-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZPcqRemgdCSY6f558nacPycGFS.jpg", "actors": [], "comments": [], "recommandations_id": []}

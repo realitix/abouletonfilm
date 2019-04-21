@@ -1,0 +1,1 @@
+{"tmdb_id": 111447, "title": "Forse Dio \u00e8 malato", "original_title": "Forse Dio \u00e8 malato", "slug_title": "forse-dio-e-malato", "date": "2008-02-29", "genre": "Drame", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74KSeOX59UizQ39nCO8c9AcwR3e.jpg", "actors": [], "comments": [], "recommandations_id": [151388, 164124, 202140]}

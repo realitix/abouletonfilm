@@ -1,0 +1,1 @@
+{"tmdb_id": 498595, "title": "Die Nachtschwester", "original_title": "Die Nachtschwester", "slug_title": "die-nachtschwester", "date": "2000-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJxfMYknO9RtGIfmyOpuhTEdlYf.jpg", "actors": ["Franziska Petri ()"], "comments": [], "recommandations_id": []}

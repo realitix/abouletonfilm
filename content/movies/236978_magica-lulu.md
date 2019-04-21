@@ -1,0 +1,1 @@
+{"tmdb_id": 236978, "title": "Magica-Lulu", "original_title": "Magica-Lulu", "slug_title": "magica-lulu", "date": "1945-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386701, "title": "Bullocky", "original_title": "Bullocky", "slug_title": "bullocky", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJNCl5G9mUmMt8uhQ8hb7J60rJg.jpg", "actors": [], "comments": [], "recommandations_id": []}

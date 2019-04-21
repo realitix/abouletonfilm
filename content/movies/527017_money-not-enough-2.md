@@ -1,0 +1,1 @@
+{"tmdb_id": 527017, "title": "Money Not Enough 2", "original_title": "\u9322\u4e0d\u5920\u75282", "slug_title": "money-not-enough-2", "date": "2009-05-08", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ePhQBzPsPBcd4gHeWO8jnzsS7B8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 321318, "title": "Dexterity: Reggae Madness", "original_title": "Dexterity: Reggae Madness", "slug_title": "dexterity-reggae-madness", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

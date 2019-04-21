@@ -1,0 +1,1 @@
+{"tmdb_id": 339262, "title": "The Asylum", "original_title": "The Asylum", "slug_title": "the-asylum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Dasz (Asylum Seeker)", "Andrew Dasz (Presenter)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304868, "title": "Chuckie - Back to the Original Core", "original_title": "Chuckie - Back to the Original Core", "slug_title": "chuckie-back-to-the-original-core", "date": "2014-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

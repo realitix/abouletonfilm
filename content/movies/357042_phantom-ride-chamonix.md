@@ -1,0 +1,1 @@
+{"tmdb_id": 357042, "title": "Phantom Ride, Chamonix", "original_title": "Phantom Ride, Chamonix", "slug_title": "phantom-ride-chamonix", "date": "1900-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

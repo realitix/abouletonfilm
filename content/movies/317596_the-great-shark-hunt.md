@@ -1,0 +1,1 @@
+{"tmdb_id": 317596, "title": "The Great Shark Hunt", "original_title": "The Great Shark Hunt", "slug_title": "the-great-shark-hunt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

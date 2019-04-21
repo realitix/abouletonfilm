@@ -1,0 +1,1 @@
+{"tmdb_id": 234777, "title": "The Flamboyant Arms", "original_title": "The Flamboyant Arms", "slug_title": "the-flamboyant-arms", "date": "1959-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

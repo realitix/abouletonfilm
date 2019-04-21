@@ -1,0 +1,1 @@
+{"tmdb_id": 323173, "title": "A Mother's Daughter", "original_title": "A Mother's Daughter", "slug_title": "a-mother-s-daughter", "date": "2008-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

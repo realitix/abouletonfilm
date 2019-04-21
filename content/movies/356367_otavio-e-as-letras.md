@@ -1,0 +1,1 @@
+{"tmdb_id": 356367, "title": "Ot\u00e1vio e as Letras", "original_title": "Ot\u00e1vio e as Letras", "slug_title": "otavio-e-as-letras", "date": "2007-04-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taeeaZp1fk87Rudhx3hwsUABeVm.jpg", "actors": [], "comments": [], "recommandations_id": []}

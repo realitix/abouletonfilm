@@ -1,0 +1,1 @@
+{"tmdb_id": 577792, "title": "No Exceptions", "original_title": "No Exceptions", "slug_title": "no-exceptions", "date": "1943-12-30", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Archer (Letter Writing Soldier / Narrator)"], "comments": [], "recommandations_id": []}

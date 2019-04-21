@@ -1,0 +1,1 @@
+{"tmdb_id": 290470, "title": "Allegory", "original_title": "\u0391\u03bb\u03bb\u03b7\u03b3\u03bf\u03c1\u03af\u03b1", "slug_title": "allegory", "date": "1986-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hulb7CgMu5JeE58SxlosYSoSgj2.jpg", "actors": [], "comments": [], "recommandations_id": []}

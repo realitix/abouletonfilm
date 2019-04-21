@@ -1,0 +1,1 @@
+{"tmdb_id": 129505, "title": "Confessional KGB and IRA!", "original_title": "Confessional KGB and IRA!", "slug_title": "confessional-kgb-and-ira", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

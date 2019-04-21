@@ -1,0 +1,1 @@
+{"tmdb_id": 274240, "title": "World Music Portraits: Angelique Kidjo", "original_title": "World Music Portraits: Angelique Kidjo", "slug_title": "world-music-portraits-angelique-kidjo", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

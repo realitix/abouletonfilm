@@ -1,0 +1,1 @@
+{"tmdb_id": 360422, "title": "Your Money or Your Life", "original_title": "Your Money or Your Life", "slug_title": "your-money-or-your-life", "date": "1961-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

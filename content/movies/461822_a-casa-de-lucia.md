@@ -1,0 +1,1 @@
+{"tmdb_id": 461822, "title": "A Casa de Lucia", "original_title": "A Casa de Lucia", "slug_title": "a-casa-de-lucia", "date": "2017-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b9AIGDeA5Xqfw7Vkwktq0ZuAk2g.jpg", "actors": [], "comments": [], "recommandations_id": []}

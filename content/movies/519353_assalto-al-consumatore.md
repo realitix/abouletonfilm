@@ -1,0 +1,1 @@
+{"tmdb_id": 519353, "title": "Assalto al consumatore", "original_title": "Assalto al consumatore", "slug_title": "assalto-al-consumatore", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

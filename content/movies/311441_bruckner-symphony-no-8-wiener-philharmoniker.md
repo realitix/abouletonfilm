@@ -1,0 +1,1 @@
+{"tmdb_id": 311441, "title": "Bruckner: Symphony No. 8: Wiener Philharmoniker", "original_title": "Bruckner: Symphony No. 8: Wiener Philharmoniker", "slug_title": "bruckner-symphony-no-8-wiener-philharmoniker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

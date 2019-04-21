@@ -1,0 +1,1 @@
+{"tmdb_id": 402603, "title": "La oficina de Hitler", "original_title": "La oficina de Hitler", "slug_title": "la-oficina-de-hitler", "date": "2014-06-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

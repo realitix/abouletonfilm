@@ -1,0 +1,1 @@
+{"tmdb_id": 580277, "title": "Patricia Kaas Toute la Musique", "original_title": "Patricia Kaas Toute la Musique", "slug_title": "patricia-kaas-toute-la-musique", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwHMS2NDnW0dNPV413e8fjGI5Lf.jpg", "actors": [], "comments": [], "recommandations_id": []}

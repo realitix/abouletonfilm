@@ -1,0 +1,1 @@
+{"tmdb_id": 195214, "title": "Car-azy Drivers", "original_title": "Car-azy Drivers", "slug_title": "car-azy-drivers", "date": "1955-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLF0x2LeMHBnjWL5SUwGBQqZQa2.jpg", "actors": [], "comments": [], "recommandations_id": []}

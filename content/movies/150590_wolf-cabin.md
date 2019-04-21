@@ -1,0 +1,1 @@
+{"tmdb_id": 150590, "title": "Wolf Cabin", "original_title": "Wolf Cabin", "slug_title": "wolf-cabin", "date": "2010-01-01", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmTXlidBt3YtcNK0AVRuOy7oHkM.jpg", "actors": [], "comments": [], "recommandations_id": []}

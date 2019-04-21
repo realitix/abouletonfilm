@@ -1,0 +1,1 @@
+{"tmdb_id": 355959, "title": "My Lover Is A Sniper", "original_title": "My Lover Is A Sniper", "slug_title": "my-lover-is-a-sniper", "date": "2004-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ma5tMTrAwQb17z6doeCLX4LScV.jpg", "actors": [], "comments": [], "recommandations_id": []}

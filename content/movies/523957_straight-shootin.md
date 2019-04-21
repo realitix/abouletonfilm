@@ -1,0 +1,1 @@
+{"tmdb_id": 523957, "title": "Straight Shootin'", "original_title": "Straight Shootin'", "slug_title": "straight-shootin", "date": "1927-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

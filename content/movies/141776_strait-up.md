@@ -1,0 +1,1 @@
+{"tmdb_id": 141776, "title": "Strait Up", "original_title": "Strait Up", "slug_title": "strait-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xogSTkXj0l7IexTu4y7QylBx1.jpg", "actors": [], "comments": [], "recommandations_id": []}

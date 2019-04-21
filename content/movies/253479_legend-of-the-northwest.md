@@ -1,0 +1,1 @@
+{"tmdb_id": 253479, "title": "Legend of the Northwest", "original_title": "Legend of the Northwest", "slug_title": "legend-of-the-northwest", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDBZgatoX7ibwkUFhHJ2aY54LHK.jpg", "actors": [], "comments": [], "recommandations_id": []}

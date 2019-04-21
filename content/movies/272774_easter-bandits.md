@@ -1,0 +1,1 @@
+{"tmdb_id": 272774, "title": "Easter Bandits", "original_title": "Easter Bandits", "slug_title": "easter-bandits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 377904, "title": "Tokyo shikkaku", "original_title": "Tokyo shikkaku", "slug_title": "tokyo-shikkaku", "date": "2006-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Takuya Fukushima (Takkun)"], "comments": [], "recommandations_id": []}

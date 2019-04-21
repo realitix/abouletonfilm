@@ -1,0 +1,1 @@
+{"tmdb_id": 441024, "title": "Freispruch mangels Beweises", "original_title": "Freispruch mangels Beweises", "slug_title": "freispruch-mangels-beweises", "date": "1962-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3IwBJSd43Elv5OgrQmhmC0Ru8Kz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 80447, "title": "I Love Miami", "original_title": "I Love Miami", "slug_title": "i-love-miami", "date": "2006-12-14", "genre": "Drame / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uxg952RvzBVNQW1J0CSzqD3Nyh.jpg", "actors": ["Juan Luis Galiardo (Fidel/Alejandro)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583406, "title": "Jesus Was My Homeboy", "original_title": "Jesus Was My Homeboy", "slug_title": "jesus-was-my-homeboy", "date": "", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Kaluuya (Fred Hampton)", "Lakeith Stanfield (William O'Neal)"], "comments": [], "recommandations_id": []}

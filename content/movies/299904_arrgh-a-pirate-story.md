@@ -1,0 +1,1 @@
+{"tmdb_id": 299904, "title": "Arrgh! A Pirate Story", "original_title": "Arrgh! A Pirate Story", "slug_title": "arrgh-a-pirate-story", "date": "2011-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

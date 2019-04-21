@@ -1,0 +1,1 @@
+{"tmdb_id": 375184, "title": "Blueberries for Sal", "original_title": "Blueberries for Sal", "slug_title": "blueberries-for-sal", "date": "1967-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMKYLPGDx0GSCyVZ71MDnxUMDLA.jpg", "actors": [], "comments": [], "recommandations_id": []}

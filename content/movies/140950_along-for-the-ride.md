@@ -1,0 +1,1 @@
+{"tmdb_id": 140950, "title": "Along for the Ride", "original_title": "Along for the Ride", "slug_title": "along-for-the-ride", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

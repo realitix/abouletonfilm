@@ -1,0 +1,1 @@
+{"tmdb_id": 432902, "title": "Haste the Day vs. Haste the Day", "original_title": "Haste the Day vs. Haste the Day", "slug_title": "haste-the-day-vs-haste-the-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

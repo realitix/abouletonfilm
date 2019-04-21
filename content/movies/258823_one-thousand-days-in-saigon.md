@@ -1,0 +1,1 @@
+{"tmdb_id": 258823, "title": "One Thousand Days in Saigon", "original_title": "Mille jours \u00e0 Saigon", "slug_title": "one-thousand-days-in-saigon", "date": "2012-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcelino Truong (Marcelino Truong)"], "comments": [], "recommandations_id": []}

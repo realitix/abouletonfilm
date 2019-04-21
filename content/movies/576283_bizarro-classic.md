@@ -1,0 +1,1 @@
+{"tmdb_id": 576283, "title": "Bizarro Classic", "original_title": "Bizarro Classic", "slug_title": "bizarro-classic", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0tVdEgkml2vR3ksTZAJZHjsAEq.jpg", "actors": [], "comments": [], "recommandations_id": []}

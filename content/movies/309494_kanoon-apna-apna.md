@@ -1,0 +1,1 @@
+{"tmdb_id": 309494, "title": "Kanoon Apna Apna", "original_title": "Kanoon Apna Apna", "slug_title": "kanoon-apna-apna", "date": "1989-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

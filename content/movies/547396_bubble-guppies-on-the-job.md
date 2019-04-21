@@ -1,0 +1,1 @@
+{"tmdb_id": 547396, "title": "Bubble Guppies On The Job", "original_title": "Bubble Guppies On The Job", "slug_title": "bubble-guppies-on-the-job", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vuWy6fRBecgJykky1t8WwCb6hzV.jpg", "actors": [], "comments": [], "recommandations_id": []}

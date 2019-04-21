@@ -1,0 +1,1 @@
+{"tmdb_id": 160566, "title": "Horst Schl\u00e4mmer: Weisse Bescheid?", "original_title": "Horst Schl\u00e4mmer: Weisse Bescheid?", "slug_title": "horst-schlammer-weisse-bescheid", "date": "2007-01-19", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hape Kerkeling (Horst Schl\u00e4mmer)"], "comments": [], "recommandations_id": []}

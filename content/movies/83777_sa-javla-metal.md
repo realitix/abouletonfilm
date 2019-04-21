@@ -1,0 +1,1 @@
+{"tmdb_id": 83777, "title": "S\u00e5 j\u00e4vla metal", "original_title": "S\u00e5 j\u00e4vla metal", "slug_title": "sa-javla-metal", "date": "2011-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGYtIYDhEE4fGy2rd7F9VIx6Vlh.jpg", "actors": [], "comments": [], "recommandations_id": []}

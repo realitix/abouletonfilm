@@ -1,0 +1,1 @@
+{"tmdb_id": 254596, "title": "A Bolandeira", "original_title": "A Bolandeira", "slug_title": "a-bolandeira", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8SsbRO3VT24iqDrHYYJ5ZdujEs.jpg", "actors": ["Paulo Pontes ()", "Ecchio Reis ()"], "comments": [], "recommandations_id": []}

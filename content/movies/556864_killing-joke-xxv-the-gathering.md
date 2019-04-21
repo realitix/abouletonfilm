@@ -1,0 +1,1 @@
+{"tmdb_id": 556864, "title": "Killing Joke: XXV The Gathering", "original_title": "Killing Joke: XXV The Gathering", "slug_title": "killing-joke-xxv-the-gathering", "date": "2008-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5sowQuEjDj5rCbzOmxTjlEyR6s8.jpg", "actors": [], "comments": [], "recommandations_id": []}

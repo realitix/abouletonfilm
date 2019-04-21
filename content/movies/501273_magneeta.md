@@ -1,0 +1,1 @@
+{"tmdb_id": 501273, "title": "Magneeta", "original_title": "Magneeta", "slug_title": "magneeta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKumtKSLRI9CPh1QNXWv4hNnbcm.jpg", "actors": ["Andrulla Blanchette ()"], "comments": [], "recommandations_id": []}

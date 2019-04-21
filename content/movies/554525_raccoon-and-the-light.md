@@ -1,0 +1,1 @@
+{"tmdb_id": 554525, "title": "Raccoon and the Light", "original_title": "Raccoon and the Light", "slug_title": "raccoon-and-the-light", "date": "2018-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/IRW3guWEdUgcESdAy9bStDWO8b.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 516662, "title": "Brazil in Living Colour", "original_title": "Brasil em Cores Vivas", "slug_title": "brazil-in-living-colour", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

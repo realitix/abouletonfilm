@@ -1,0 +1,1 @@
+{"tmdb_id": 234973, "title": "Dog Tales", "original_title": "Dog Tales", "slug_title": "dog-tales", "date": "1958-07-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XFzTMBS3maUHx3AbMkkKNhBXQA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 543684, "title": "Weapon of Choice", "original_title": "Weapon of Choice", "slug_title": "weapon-of-choice", "date": "2018-09-14", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgyICyjEcL5JWToiW5H77YanT1L.jpg", "actors": [], "comments": [], "recommandations_id": []}

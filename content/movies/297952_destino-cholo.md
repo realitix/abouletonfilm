@@ -1,0 +1,1 @@
+{"tmdb_id": 297952, "title": "Destino Cholo", "original_title": "Destino Cholo", "slug_title": "destino-cholo", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

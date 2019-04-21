@@ -1,0 +1,1 @@
+{"tmdb_id": 567990, "title": "Rock Hits - 3 DVD Box", "original_title": "Rock Hits - 3 DVD Box", "slug_title": "rock-hits-3-dvd-box", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oz8k3jhvRH4lPNU0wkoZVuO3Alf.jpg", "actors": [], "comments": [], "recommandations_id": []}

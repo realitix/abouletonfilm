@@ -1,0 +1,1 @@
+{"tmdb_id": 111277, "title": "Tim and Teddy", "original_title": "Tim og T\u00f8ffe", "slug_title": "tim-and-teddy", "date": "1949-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wDDurlXovLttRnABUSrrzMeBDvS.jpg", "actors": [], "comments": [], "recommandations_id": []}

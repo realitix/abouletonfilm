@@ -1,0 +1,1 @@
+{"tmdb_id": 592633, "title": "Let\u2019s Be Cops", "original_title": "Let\u2019s Be Cops", "slug_title": "lets-be-cops", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

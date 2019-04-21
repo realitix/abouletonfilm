@@ -1,0 +1,1 @@
+{"tmdb_id": 263917, "title": "Mirugam", "original_title": "\u0bae\u0bbf\u0bb0\u0bc1\u0b95\u0bae\u0bcd", "slug_title": "mirugam", "date": "2007-12-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aadhi Pinisetty (Ayyanar)", "Padmapriya Janakiraman (Alagamma)", "Kanja Karuppu ()"], "comments": [], "recommandations_id": []}

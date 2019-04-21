@@ -1,0 +1,1 @@
+{"tmdb_id": 549365, "title": "The Preacher's Daughter", "original_title": "The Preacher's Daughter", "slug_title": "the-preacher-s-daughter", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/EKR0irLe1lT5tdrrqfemqWUGBe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 226980, "title": "Wunderkammer", "original_title": "Wunderkammer", "slug_title": "wunderkammer", "date": "2008-07-18", "genre": "Drame", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMZ8EmJvJUjGY5iqHxx8Ks58kha.jpg", "actors": ["Lilia King (Maria)", "Josh Perry (Son)"], "comments": [], "recommandations_id": []}

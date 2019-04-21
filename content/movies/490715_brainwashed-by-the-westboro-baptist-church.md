@@ -1,0 +1,1 @@
+{"tmdb_id": 490715, "title": "Brainwashed by the Westboro Baptist Church", "original_title": "Brainwashed by the Westboro Baptist Church", "slug_title": "brainwashed-by-the-westboro-baptist-church", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

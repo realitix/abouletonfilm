@@ -1,0 +1,1 @@
+{"tmdb_id": 553133, "title": "Love in Singapore", "original_title": "Love in Singapore", "slug_title": "love-in-singapore", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350326, "title": "\uc6b0\ub9ac\ub4e4\uc758 \uce5c\uad6c \ud30c\uc6cc 5", "original_title": "\uc6b0\ub9ac\ub4e4\uc758 \uce5c\uad6c \ud30c\uc6cc 5", "slug_title": "urideulyi-cingu-paweo-5", "date": "1989-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

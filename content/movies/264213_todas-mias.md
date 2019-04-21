@@ -1,0 +1,1 @@
+{"tmdb_id": 264213, "title": "Todas m\u00edas", "original_title": "Todas m\u00edas", "slug_title": "todas-mias", "date": "2013-11-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXiBQQPuiiKbVJ611P4uq7JFTUf.jpg", "actors": [], "comments": [], "recommandations_id": []}

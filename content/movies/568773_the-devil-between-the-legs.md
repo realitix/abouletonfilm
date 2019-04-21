@@ -1,0 +1,1 @@
+{"tmdb_id": 568773, "title": "The Devil Between The Legs", "original_title": "El diablo entre las piernas", "slug_title": "the-devil-between-the-legs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sylvia Pasquel ()"], "comments": [], "recommandations_id": []}

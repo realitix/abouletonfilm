@@ -1,0 +1,1 @@
+{"tmdb_id": 313859, "title": "Takacs Quartet: Bartok: String Quartets 2, 3 & 6", "original_title": "Takacs Quartet: Bartok: String Quartets 2, 3 & 6", "slug_title": "takacs-quartet-bartok-string-quartets-2-3-6", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

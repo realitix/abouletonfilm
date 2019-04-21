@@ -1,0 +1,1 @@
+{"tmdb_id": 38870, "title": "Komedia malzenska", "original_title": "Komedia malzenska", "slug_title": "komedia-malzenska", "date": "1994-05-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5nnU1Ueeg4Zkop9qLbnirJi7Yvu.jpg", "actors": [], "comments": [], "recommandations_id": []}

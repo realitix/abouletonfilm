@@ -1,0 +1,1 @@
+{"tmdb_id": 293610, "title": "The Truth about Twisters", "original_title": "The Truth about Twisters", "slug_title": "the-truth-about-twisters", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

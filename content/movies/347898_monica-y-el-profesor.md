@@ -1,0 +1,1 @@
+{"tmdb_id": 347898, "title": "Monica y el profesor", "original_title": "Monica y el profesor", "slug_title": "monica-y-el-profesor", "date": "2004-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nacho M\u00e9ndez ()", "Mar\u00eda Rebeca ()", "V\u00edctor Trujillo ()"], "comments": [], "recommandations_id": []}

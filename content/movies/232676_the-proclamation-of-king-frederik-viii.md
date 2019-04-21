@@ -1,0 +1,1 @@
+{"tmdb_id": 232676, "title": "The Proclamation of King Frederik VIII", "original_title": "Proklamationen af Kong Frederik d. VIII", "slug_title": "the-proclamation-of-king-frederik-viii", "date": "1906-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 395258, "title": "Mrs T and Her Cabbage Patch", "original_title": "Mrs T and Her Cabbage Patch", "slug_title": "mrs-t-and-her-cabbage-patch", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Ashley (Himself - Commentator)"], "comments": [], "recommandations_id": []}

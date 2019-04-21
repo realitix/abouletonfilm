@@ -1,0 +1,1 @@
+{"tmdb_id": 40376, "title": "The Coca-Cola Case", "original_title": "The Coca-Cola Case", "slug_title": "the-coca-cola-case", "date": "2009-01-01", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pZH9hO7u4C4emS8K9e0Nuwx0zzR.jpg", "actors": [], "comments": [], "recommandations_id": []}

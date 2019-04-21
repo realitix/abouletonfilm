@@ -1,0 +1,1 @@
+{"tmdb_id": 21150, "title": "Keeping Score: Beethoven's Eroica", "original_title": "Keeping Score: Beethoven's Eroica", "slug_title": "keeping-score-beethoven-s-eroica", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547601, "title": "Huit heures sous l'horloge", "original_title": "Huit heures sous l'horloge", "slug_title": "huit-heures-sous-l-horloge", "date": "1949-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

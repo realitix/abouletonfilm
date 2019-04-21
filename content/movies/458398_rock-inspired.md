@@ -1,0 +1,1 @@
+{"tmdb_id": 458398, "title": "Rock Inspired", "original_title": "Rock Inspired", "slug_title": "rock-inspired", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

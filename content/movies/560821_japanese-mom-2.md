@@ -1,0 +1,1 @@
+{"tmdb_id": 560821, "title": "Japanese Mom 2", "original_title": "\uc77c\ubcf8 \uc5c4\ub9c8 2", "slug_title": "japanese-mom-2", "date": "2017-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y09bSBYUj71mYxOXDnq9vgJmeuO.jpg", "actors": [], "comments": [], "recommandations_id": []}

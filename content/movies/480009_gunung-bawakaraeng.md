@@ -1,0 +1,1 @@
+{"tmdb_id": 480009, "title": "Gunung Bawakaraeng", "original_title": "Gunung Bawakaraeng", "slug_title": "gunung-bawakaraeng", "date": "", "genre": "Horreur / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwiiEgnTkWqpH4qnZQiPNoNj2fF.jpg", "actors": [], "comments": [], "recommandations_id": []}

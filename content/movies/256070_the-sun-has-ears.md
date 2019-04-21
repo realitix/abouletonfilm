@@ -1,0 +1,1 @@
+{"tmdb_id": 256070, "title": "The Sun Has Ears", "original_title": "\u592a\u967d\u6709\u8033", "slug_title": "the-sun-has-ears", "date": "1996-02-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXl6kYPkPQ3ZAzohaHDL5LTGlMK.jpg", "actors": [], "comments": [], "recommandations_id": []}

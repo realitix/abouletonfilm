@@ -1,0 +1,1 @@
+{"tmdb_id": 315908, "title": "Land Mines: A Love Story", "original_title": "Land Mines: A Love Story", "slug_title": "land-mines-a-love-story", "date": "2005-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/msTZF06hj6kRGmoz4hiSqQ9NqxB.jpg", "actors": [], "comments": [], "recommandations_id": []}

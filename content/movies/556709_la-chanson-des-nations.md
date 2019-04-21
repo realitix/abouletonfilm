@@ -1,0 +1,1 @@
+{"tmdb_id": 556709, "title": "La chanson des nations", "original_title": "La chanson des nations", "slug_title": "la-chanson-des-nations", "date": "1931-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

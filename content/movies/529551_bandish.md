@@ -1,0 +1,1 @@
+{"tmdb_id": 529551, "title": "Bandish", "original_title": "Bandish", "slug_title": "bandish", "date": "2015-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

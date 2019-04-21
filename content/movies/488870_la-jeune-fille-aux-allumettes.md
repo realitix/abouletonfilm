@@ -1,0 +1,1 @@
+{"tmdb_id": 488870, "title": "La jeune fille aux allumettes", "original_title": "La jeune fille aux allumettes", "slug_title": "la-jeune-fille-aux-allumettes", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janine Charrat (Little Match Girl)"], "comments": [], "recommandations_id": []}

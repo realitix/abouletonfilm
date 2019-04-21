@@ -1,0 +1,1 @@
+{"tmdb_id": 573688, "title": "The Scarlet Cherry Lord", "original_title": "Hizakura Daimyo", "slug_title": "the-scarlet-cherry-lord", "date": "1958-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hashizo Okawa ()", "Keiko Okawa ()"], "comments": [], "recommandations_id": []}

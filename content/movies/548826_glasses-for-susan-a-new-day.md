@@ -1,0 +1,1 @@
+{"tmdb_id": 548826, "title": "Glasses For Susan: A New Day", "original_title": "Glasses For Susan: A New Day", "slug_title": "glasses-for-susan-a-new-day", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

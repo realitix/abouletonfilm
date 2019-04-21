@@ -1,0 +1,1 @@
+{"tmdb_id": 104569, "title": "The Morning Schedule", "original_title": "Gozenchu no jikanwari", "slug_title": "the-morning-schedule", "date": "1972-10-14", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMWwfsxtt84gNeRe00J3AS78xjx.jpg", "actors": ["Zhou Wada (Teacher)"], "comments": [], "recommandations_id": []}

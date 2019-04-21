@@ -1,0 +1,1 @@
+{"tmdb_id": 568430, "title": "Bom Dia Rio", "original_title": "Bom Dia Rio", "slug_title": "bom-dia-rio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Une journ\u00e9e \u00e0 Rio.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

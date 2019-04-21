@@ -1,0 +1,1 @@
+{"tmdb_id": 279580, "title": "Burn: The Evolution of an American City", "original_title": "Burn: The Evolution of an American City", "slug_title": "burn-the-evolution-of-an-american-city", "date": "2009-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

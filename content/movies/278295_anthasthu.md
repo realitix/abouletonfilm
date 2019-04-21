@@ -1,0 +1,1 @@
+{"tmdb_id": 278295, "title": "Anthasthu", "original_title": "Anthasthu", "slug_title": "anthasthu", "date": "1985-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Murali ()", "Ilavarasi ()", "Lakshmi ()"], "comments": [], "recommandations_id": []}

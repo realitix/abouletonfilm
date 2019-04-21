@@ -1,0 +1,1 @@
+{"tmdb_id": 537320, "title": "Dangerous Trade in Kobe", "original_title": "\u3084\u304f\u3056\u5bfeG\u30e1\u30f3 \u56ee", "slug_title": "dangerous-trade-in-kobe", "date": "1973-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udKiQJ0tSs3vj9Lv5F6dToXOXFJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289945, "title": "Rise of the Kitchen Appliances", "original_title": "Rise of the Kitchen Appliances", "slug_title": "rise-of-the-kitchen-appliances", "date": "2014-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dWbjetTQ18KwIO26uCE6fu2nLlJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

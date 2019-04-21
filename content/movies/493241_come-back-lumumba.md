@@ -1,0 +1,1 @@
+{"tmdb_id": 493241, "title": "Come Back, Lumumba", "original_title": "Tule tagasi, Lumumba", "slug_title": "come-back-lumumba", "date": "1992-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lembit Ulfsak ()", "Arvo Kukum\u00e4gi ()", "Anu Lamp ()"], "comments": [], "recommandations_id": []}

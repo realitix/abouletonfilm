@@ -1,0 +1,1 @@
+{"tmdb_id": 271474, "title": "A Day at the Oasis", "original_title": "A Day at the Oasis", "slug_title": "a-day-at-the-oasis", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

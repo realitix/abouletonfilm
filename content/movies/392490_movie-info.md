@@ -1,0 +1,1 @@
+{"tmdb_id": 392490, "title": "Movie Info", "original_title": "Movie Info", "slug_title": "movie-info", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

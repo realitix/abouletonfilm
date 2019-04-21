@@ -1,0 +1,1 @@
+{"tmdb_id": 486932, "title": "His Girl's Worst Friend", "original_title": "His Girl's Worst Friend", "slug_title": "his-girl-s-worst-friend", "date": "1943-05-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Henry (Terry Kelly)"], "comments": [], "recommandations_id": []}

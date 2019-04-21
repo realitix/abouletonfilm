@@ -1,0 +1,1 @@
+{"tmdb_id": 346176, "title": "Vivir es una obra maestra", "original_title": "Vivir es una obra maestra", "slug_title": "vivir-es-una-obra-maestra", "date": "2007-07-07", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jorge Eielson (Himself)"], "comments": [], "recommandations_id": []}

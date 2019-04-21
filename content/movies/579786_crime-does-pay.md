@@ -1,0 +1,1 @@
+{"tmdb_id": 579786, "title": "Crime Does Pay", "original_title": "Crime Does Pay", "slug_title": "crime-does-pay", "date": "2017-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernesto Gastaldi ()"], "comments": [], "recommandations_id": []}

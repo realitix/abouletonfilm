@@ -1,0 +1,1 @@
+{"tmdb_id": 199411, "title": "El Doctor", "original_title": "El Doctor", "slug_title": "el-doctor", "date": "2006-05-10", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4epwQiEMIeWQ17s1kExSfuzxCe.jpg", "actors": [], "comments": [], "recommandations_id": [257719, 128700, 127824, 147698]}

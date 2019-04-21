@@ -1,0 +1,1 @@
+{"tmdb_id": 422186, "title": "Ghost Adventures: The Adventure Begins", "original_title": "Ghost Adventures: The Adventure Begins", "slug_title": "ghost-adventures-the-adventure-begins", "date": "", "genre": "Action / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

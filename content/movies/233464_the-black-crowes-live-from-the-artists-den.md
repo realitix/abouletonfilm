@@ -1,0 +1,1 @@
+{"tmdb_id": 233464, "title": "The Black Crowes Live From The Artists Den", "original_title": "The Black Crowes Live From The Artists Den", "slug_title": "the-black-crowes-live-from-the-artists-den", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

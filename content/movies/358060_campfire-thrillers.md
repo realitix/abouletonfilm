@@ -1,0 +1,1 @@
+{"tmdb_id": 358060, "title": "Campfire Thrillers", "original_title": "Campfire Thrillers", "slug_title": "campfire-thrillers", "date": "1989-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4C3rqCM6rl1zqeFs0i4Cco55Txg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 378598, "title": "Aistear na nGael", "original_title": "Aistear na nGael", "slug_title": "aistear-na-ngael", "date": "2014-02-02", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mair\u00e9ad N\u00ed Mhaonaigh (Herself - Presenter)"], "comments": [], "recommandations_id": []}

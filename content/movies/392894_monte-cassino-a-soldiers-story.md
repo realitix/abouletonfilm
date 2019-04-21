@@ -1,0 +1,1 @@
+{"tmdb_id": 392894, "title": "Monte Cassino a Soldiers' Story", "original_title": "Monte Cassino a Soldiers' Story", "slug_title": "monte-cassino-a-soldiers-story", "date": "2004-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cN428W6SmfuWUjUTDzH31H7PqKX.jpg", "actors": [], "comments": [], "recommandations_id": []}

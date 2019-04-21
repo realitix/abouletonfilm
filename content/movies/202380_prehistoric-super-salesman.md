@@ -1,0 +1,1 @@
+{"tmdb_id": 202380, "title": "Prehistoric Super Salesman", "original_title": "Prehistoric Super Salesman", "slug_title": "prehistoric-super-salesman", "date": "1969-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsrOMFu1imSGbXOyGLUHeEvfyWO.jpg", "actors": [], "comments": [], "recommandations_id": []}

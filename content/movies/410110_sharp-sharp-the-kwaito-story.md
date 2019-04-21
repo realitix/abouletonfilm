@@ -1,0 +1,1 @@
+{"tmdb_id": 410110, "title": "Sharp, Sharp! - The Kwaito Story", "original_title": "Sharp, Sharp! - The Kwaito Story", "slug_title": "sharp-sharp-the-kwaito-story", "date": "2003-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

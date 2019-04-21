@@ -1,0 +1,1 @@
+{"tmdb_id": 394888, "title": "Blood and Blackboards", "original_title": "Blood and Blackboards", "slug_title": "blood-and-blackboards", "date": "2006-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

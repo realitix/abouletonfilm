@@ -1,0 +1,1 @@
+{"tmdb_id": 237850, "title": "Seashore Frolics", "original_title": "Seashore Frolics", "slug_title": "seashore-frolics", "date": "1903-08-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

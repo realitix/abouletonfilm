@@ -1,0 +1,1 @@
+{"tmdb_id": 572066, "title": "12th Cavalry Division", "original_title": "12. konji\u010dka divizija", "slug_title": "12th-cavalry-division", "date": "1913-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

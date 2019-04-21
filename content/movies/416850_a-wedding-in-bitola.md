@@ -1,0 +1,1 @@
+{"tmdb_id": 416850, "title": "A Wedding in Bitola", "original_title": "Svadba vo Bitola", "slug_title": "a-wedding-in-bitola", "date": "1905-09-18", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haWR2Um2dDd7d4VRLzvzvIeA9sN.jpg", "actors": [], "comments": [], "recommandations_id": [162660, 163349]}

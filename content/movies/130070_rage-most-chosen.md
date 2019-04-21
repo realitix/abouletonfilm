@@ -1,0 +1,1 @@
+{"tmdb_id": 130070, "title": "Rage Most Chosen", "original_title": "Rage Most Chosen", "slug_title": "rage-most-chosen", "date": "2008-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0LMjIOGXl0QUtTTECyHBTwJeHm.jpg", "actors": [], "comments": [], "recommandations_id": []}

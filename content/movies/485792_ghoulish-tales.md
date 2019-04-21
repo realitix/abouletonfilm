@@ -1,0 +1,1 @@
+{"tmdb_id": 485792, "title": "Ghoulish Tales", "original_title": "Ghoulish Tales", "slug_title": "ghoulish-tales", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rM41Rva6XoVmo1fvjjOFLnmAzZD.jpg", "actors": [], "comments": [], "recommandations_id": []}

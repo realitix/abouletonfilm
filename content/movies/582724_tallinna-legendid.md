@@ -1,0 +1,1 @@
+{"tmdb_id": 582724, "title": "Tallinna legendid", "original_title": "Tallinna legendid", "slug_title": "tallinna-legendid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

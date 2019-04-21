@@ -1,0 +1,1 @@
+{"tmdb_id": 502255, "title": "Closing Time", "original_title": "Closing Time", "slug_title": "closing-time", "date": "2018-02-24", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick G. Keenan (Michael)", "Kevin Helms (Jerry Faulk)", "Nev Kelly (Man Leaving Bar)"], "comments": [], "recommandations_id": []}

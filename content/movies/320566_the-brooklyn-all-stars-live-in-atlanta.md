@@ -1,0 +1,1 @@
+{"tmdb_id": 320566, "title": "The Brooklyn All-Stars: Live in Atlanta", "original_title": "The Brooklyn All-Stars: Live in Atlanta", "slug_title": "the-brooklyn-all-stars-live-in-atlanta", "date": "2007-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

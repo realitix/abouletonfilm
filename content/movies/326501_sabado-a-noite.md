@@ -1,0 +1,1 @@
+{"tmdb_id": 326501, "title": "S\u00e1bado \u00c0 Noite", "original_title": "S\u00e1bado \u00c0 Noite", "slug_title": "sabado-a-noite", "date": "2008-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTrORVL2BHtEfTbDeLMwwIvHwdK.jpg", "actors": [], "comments": [], "recommandations_id": []}

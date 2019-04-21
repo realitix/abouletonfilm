@@ -1,0 +1,1 @@
+{"tmdb_id": 51370, "title": "The Cool School", "original_title": "The Cool School", "slug_title": "the-cool-school", "date": "2008-03-07", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdHgqNaxMfl4Co6GzgPJJNoFSo8.jpg", "actors": ["Jeff Bridges (Narrator (voice))"], "comments": [], "recommandations_id": []}

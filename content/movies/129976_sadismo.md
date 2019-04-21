@@ -1,0 +1,1 @@
+{"tmdb_id": 129976, "title": "Sadismo", "original_title": "Sadismo", "slug_title": "sadismo", "date": "1967-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBFB1Bh7VVfaLrx8mazWc2a3qiV.jpg", "actors": ["Terry Telli (Narrator)", "Burt Topper (Narrator)"], "comments": [], "recommandations_id": []}

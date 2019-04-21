@@ -1,0 +1,1 @@
+{"tmdb_id": 544856, "title": "Currency", "original_title": "Currency", "slug_title": "currency", "date": "2016-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clara Pasieka (Robyn Kerr)", "Hannah Anderson (Sam)", "Mercedes Morris (Alli)"], "comments": [], "recommandations_id": []}

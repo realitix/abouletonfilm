@@ -1,0 +1,1 @@
+{"tmdb_id": 563186, "title": "A Part of Me", "original_title": "A Part of Me", "slug_title": "a-part-of-me", "date": "1998-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

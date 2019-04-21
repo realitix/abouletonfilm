@@ -1,0 +1,1 @@
+{"tmdb_id": 484305, "title": "By Stanley For Stanley", "original_title": "Film dla Stasia", "slug_title": "by-stanley-for-stanley", "date": "2017-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

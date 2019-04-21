@@ -1,0 +1,1 @@
+{"tmdb_id": 490727, "title": "Electric Arthropods", "original_title": "Electric Arthropods", "slug_title": "electric-arthropods", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

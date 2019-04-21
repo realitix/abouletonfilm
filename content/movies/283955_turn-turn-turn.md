@@ -1,0 +1,1 @@
+{"tmdb_id": 283955, "title": "Turn Turn Turn", "original_title": "Turn Turn Turn", "slug_title": "turn-turn-turn", "date": "1968-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

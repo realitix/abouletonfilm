@@ -1,0 +1,1 @@
+{"tmdb_id": 74224, "title": "Perfect Lovers - The Movie", "original_title": "Perfect Lovers - The Movie", "slug_title": "perfect-lovers-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

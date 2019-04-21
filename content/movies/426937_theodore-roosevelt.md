@@ -1,0 +1,1 @@
+{"tmdb_id": 426937, "title": "Theodore Roosevelt", "original_title": "Theodore Roosevelt", "slug_title": "theodore-roosevelt", "date": "1898-04-19", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theodore Roosevelt ()"], "comments": [], "recommandations_id": []}

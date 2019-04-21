@@ -1,0 +1,1 @@
+{"tmdb_id": 528870, "title": "A Sombra Interior", "original_title": "A Sombra Interior", "slug_title": "a-sombra-interior", "date": "2018-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7iOZXEWjtlCzTmUaIgHvnQx00k3.jpg", "actors": [], "comments": [], "recommandations_id": []}

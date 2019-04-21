@@ -1,0 +1,1 @@
+{"tmdb_id": 573496, "title": "Breakfast with Tiffany", "original_title": "Desayuno con Tiffany", "slug_title": "breakfast-with-tiffany", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

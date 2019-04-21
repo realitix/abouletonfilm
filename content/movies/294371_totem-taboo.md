@@ -1,0 +1,1 @@
+{"tmdb_id": 294371, "title": "Totem & Taboo", "original_title": "Totem & Taboo", "slug_title": "totem-taboo", "date": "2011-09-22", "genre": "Thriller / Drame / Horreur", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zuEg3aSDa4nAJ2kxGnsXXXxmfVF.jpg", "actors": [], "comments": [], "recommandations_id": []}

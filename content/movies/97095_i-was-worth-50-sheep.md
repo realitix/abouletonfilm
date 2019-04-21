@@ -1,0 +1,1 @@
+{"tmdb_id": 97095, "title": "I Was Worth 50 Sheep", "original_title": "I Was Worth 50 Sheep", "slug_title": "i-was-worth-50-sheep", "date": "2011-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

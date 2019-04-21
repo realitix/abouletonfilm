@@ -1,0 +1,1 @@
+{"tmdb_id": 108454, "title": "Talent Agency", "original_title": "Agenzia cinematografica", "slug_title": "talent-agency", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDs7gHSI9olYyscUV8Whn7IyjDz.jpg", "actors": [], "comments": [], "recommandations_id": []}

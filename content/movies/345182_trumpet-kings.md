@@ -1,0 +1,1 @@
+{"tmdb_id": 345182, "title": "Trumpet Kings", "original_title": "Trumpet Kings", "slug_title": "trumpet-kings", "date": "1999-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukrGLjZFbFYojHE0sSQCGVdOEMV.jpg", "actors": ["Wynton Marsalis (Himself)"], "comments": [], "recommandations_id": []}

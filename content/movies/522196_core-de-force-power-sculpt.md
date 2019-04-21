@@ -1,0 +1,1 @@
+{"tmdb_id": 522196, "title": "Core De Force - Power Sculpt", "original_title": "Core De Force - Power Sculpt", "slug_title": "core-de-force-power-sculpt", "date": "2011-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4eeFzlmTpp27vfmBekvuJ8DAIRC.jpg", "actors": [], "comments": [], "recommandations_id": []}

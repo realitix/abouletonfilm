@@ -1,0 +1,1 @@
+{"tmdb_id": 411833, "title": "Al rojo vivo", "original_title": "Al rojo vivo", "slug_title": "al-rojo-vivo", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 277498, "title": "Paradise Palau", "original_title": "Paradise Palau", "slug_title": "paradise-palau", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 445939, "title": "The Naughty Girl", "original_title": "\u5c11\u5973\u5947\u8b5a", "slug_title": "the-naughty-girl", "date": "1974-08-31", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chen Chen ()", "Kou Feng ()"], "comments": [], "recommandations_id": []}

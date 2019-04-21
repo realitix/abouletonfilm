@@ -1,0 +1,1 @@
+{"tmdb_id": 372188, "title": "Krakonos a fousat\u00e1 Dontovka", "original_title": "Krakonos a fousat\u00e1 Dontovka", "slug_title": "krakonos-a-fousata-dontovka", "date": "1979-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

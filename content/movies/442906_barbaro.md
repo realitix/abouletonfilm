@@ -1,0 +1,1 @@
+{"tmdb_id": 442906, "title": "Barbaro", "original_title": "Barbaro", "slug_title": "barbaro", "date": "2008-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8IbqHue6FELdNgyD9GR7Qv3zhT.jpg", "actors": ["Liev Schreiber (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 589479, "title": "Bokuno onna ni teodasuna", "original_title": "Bokuno onna ni teodasuna", "slug_title": "bokuno-onna-ni-teodasuna", "date": "1986-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

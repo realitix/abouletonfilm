@@ -1,0 +1,1 @@
+{"tmdb_id": 76944, "title": "A Jersey Tale", "original_title": "A Jersey Tale", "slug_title": "a-jersey-tale", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christina Ablaza (Hilda)", "Rafael Sardina (Ray Ray Morales)", "Frank Harts (Oswaldo 'Papo' Rivera)"], "comments": [], "recommandations_id": []}

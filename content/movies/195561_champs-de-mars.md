@@ -1,0 +1,1 @@
+{"tmdb_id": 195561, "title": "Champs de Mars", "original_title": "Champs de Mars", "slug_title": "champs-de-mars", "date": "1900-08-21", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pl8T81EYCYmWR44fi8fre9rnDuC.jpg", "actors": [], "comments": [], "recommandations_id": [163111, 77851, 162612, 195557]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278851, "title": "Slums: Cities of Tomorrow", "original_title": "Slums: Cities of Tomorrow", "slug_title": "slums-cities-of-tomorrow", "date": "2014-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLUqIZSaBdIrGAtlXoa8fwnXmAW.jpg", "actors": [], "comments": [], "recommandations_id": []}

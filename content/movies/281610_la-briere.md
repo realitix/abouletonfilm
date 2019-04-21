@@ -1,0 +1,1 @@
+{"tmdb_id": 281610, "title": "La Bri\u00e8re", "original_title": "La Bri\u00e8re", "slug_title": "la-briere", "date": "1924-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Davert ()", "Laurence Myrga ()", "Jeanne Marie-Laurent ()"], "comments": [], "recommandations_id": []}

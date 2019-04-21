@@ -1,0 +1,1 @@
+{"tmdb_id": 476585, "title": "Last of a London Summer", "original_title": "Last of a London Summer", "slug_title": "last-of-a-london-summer", "date": "2017-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

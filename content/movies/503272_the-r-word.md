@@ -1,0 +1,1 @@
+{"tmdb_id": 503272, "title": "The R Word", "original_title": "The R Word", "slug_title": "the-r-word", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

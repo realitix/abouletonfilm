@@ -1,0 +1,1 @@
+{"tmdb_id": 304288, "title": "Charles Dickens: The Man That Asked For More", "original_title": "Charles Dickens: The Man That Asked For More", "slug_title": "charles-dickens-the-man-that-asked-for-more", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

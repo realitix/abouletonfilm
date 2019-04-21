@@ -1,0 +1,1 @@
+{"tmdb_id": 68459, "title": "Weaponology - Israeli Commandos", "original_title": "Weaponology - Israeli Commandos", "slug_title": "weaponology-israeli-commandos", "date": "", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQHe1FRMP6UqjuOm9G0yUzzi7ry.jpg", "actors": [], "comments": [], "recommandations_id": []}

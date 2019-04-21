@@ -1,0 +1,1 @@
+{"tmdb_id": 509918, "title": "As Minas do Rap", "original_title": "As Minas do Rap", "slug_title": "as-minas-do-rap", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qn6on1lZEz1c4CsvLxQhwoT1YF.jpg", "actors": ["Karol Conk\u00e1 ()", "Negra Li ()"], "comments": [], "recommandations_id": []}

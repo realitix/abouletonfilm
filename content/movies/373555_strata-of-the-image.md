@@ -1,0 +1,1 @@
+{"tmdb_id": 373555, "title": "Strata of the Image", "original_title": "Estratos de la Imagen", "slug_title": "strata-of-the-image", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/41uvNexipl0ZCQmj3ppwpceF1nm.jpg", "actors": [], "comments": [], "recommandations_id": []}

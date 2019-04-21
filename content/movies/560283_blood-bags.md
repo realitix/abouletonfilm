@@ -1,0 +1,1 @@
+{"tmdb_id": 560283, "title": "Blood Bags", "original_title": "Blood Bags", "slug_title": "blood-bags", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Makenna Guyler (Tracy)", "Emanuele Turetta (Alex)", "Marta Tananyan (Petra)", "Alberto Sette (Vittorio)"], "comments": [], "recommandations_id": []}

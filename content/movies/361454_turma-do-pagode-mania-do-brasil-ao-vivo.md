@@ -1,0 +1,1 @@
+{"tmdb_id": 361454, "title": "Turma do Pagode Mania Do Brasil Ao Vivo", "original_title": "Turma do Pagode Mania Do Brasil Ao Vivo", "slug_title": "turma-do-pagode-mania-do-brasil-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381824, "title": "Cat Club", "original_title": "Cat Club", "slug_title": "cat-club", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Taylor Wallace (Chad Armhammer)", "Jeff Toop (Reginald Baxter)", "Kirstin Bews (Skye Meadows)", "Taylor Grant (Norman Everyman)"], "comments": [], "recommandations_id": []}

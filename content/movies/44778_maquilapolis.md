@@ -1,0 +1,1 @@
+{"tmdb_id": 44778, "title": "Maquilapolis", "original_title": "Maquilapolis", "slug_title": "maquilapolis", "date": "2006-01-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNuwx4EgYtZ9ux2xa4YfvAvkj3Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

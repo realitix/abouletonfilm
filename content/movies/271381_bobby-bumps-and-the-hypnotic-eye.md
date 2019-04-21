@@ -1,0 +1,1 @@
+{"tmdb_id": 271381, "title": "Bobby Bumps and the Hypnotic Eye", "original_title": "Bobby Bumps and the Hypnotic Eye", "slug_title": "bobby-bumps-and-the-hypnotic-eye", "date": "1919-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

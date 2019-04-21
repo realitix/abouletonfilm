@@ -1,0 +1,1 @@
+{"tmdb_id": 543982, "title": "The Stampede", "original_title": "The Stampede", "slug_title": "the-stampede", "date": "1921-01-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Texas Guinan (Tex Henderson)", "Francis Ford (Robert Wagner)"], "comments": [], "recommandations_id": []}

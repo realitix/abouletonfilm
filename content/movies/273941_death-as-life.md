@@ -1,0 +1,1 @@
+{"tmdb_id": 273941, "title": "Death As Life", "original_title": "Death As Life", "slug_title": "death-as-life", "date": "2014-06-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271307, "title": "Korean War Stories", "original_title": "Korean War Stories", "slug_title": "korean-war-stories", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9tY6e7MYOMolhmwddZaupFesx9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587217, "title": "Blue Hour", "original_title": "Buru Awa ni Buttobasu", "slug_title": "blue-hour", "date": "2019-03-28", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kaho ()", "Shim Eun-kyung ()", "Denden ()", "Y\u016bsuke Santamaria ()"], "comments": [], "recommandations_id": []}

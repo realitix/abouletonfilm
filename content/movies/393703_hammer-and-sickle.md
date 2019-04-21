@@ -1,0 +1,1 @@
+{"tmdb_id": 393703, "title": "Hammer and Sickle", "original_title": "Hammer und Sichel", "slug_title": "hammer-and-sickle", "date": "1978-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5KbOwhztqmHWyiiHsJmuHCKg2c.jpg", "actors": [], "comments": [], "recommandations_id": []}

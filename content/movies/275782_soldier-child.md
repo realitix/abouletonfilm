@@ -1,0 +1,1 @@
+{"tmdb_id": 275782, "title": "Soldier Child", "original_title": "Soldier Child", "slug_title": "soldier-child", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

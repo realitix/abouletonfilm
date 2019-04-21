@@ -1,0 +1,1 @@
+{"tmdb_id": 423598, "title": "Kaagaz Ki Kashti", "original_title": "Kaagaz Ki Kashti", "slug_title": "kaagaz-ki-kashti", "date": "2016-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

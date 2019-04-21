@@ -1,0 +1,1 @@
+{"tmdb_id": 546527, "title": "Symphony in Aquamarine", "original_title": "Symphony in Aquamarine", "slug_title": "symphony-in-aquamarine", "date": "2018-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4BEii6kv7inmh6Kce6ubnFcsvQA.jpg", "actors": [], "comments": [], "recommandations_id": []}

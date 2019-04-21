@@ -1,0 +1,1 @@
+{"tmdb_id": 556947, "title": "Hardi les gars", "original_title": "Hardi les gars", "slug_title": "hardi-les-gars", "date": "1931-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

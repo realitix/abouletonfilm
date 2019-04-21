@@ -1,0 +1,1 @@
+{"tmdb_id": 69963, "title": "Thuy Nga Paris By Night 102", "original_title": "Thuy Nga Paris By Night 102", "slug_title": "thuy-nga-paris-by-night-102", "date": "2011-04-16", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2tlOSn21yq3rPTzzMTaCmivR0u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323072, "title": "White Fang", "original_title": "White Fang", "slug_title": "white-fang", "date": "1997-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQpyTEtOgezJOucEFlPPklBUNWp.jpg", "actors": [], "comments": [], "recommandations_id": []}

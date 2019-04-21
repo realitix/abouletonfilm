@@ -1,0 +1,1 @@
+{"tmdb_id": 334610, "title": "Ups & Downs", "original_title": "Ups & Downs", "slug_title": "ups-downs", "date": "1981-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hVFvWM3ZZogrFvFoWur4OUEcNmt.jpg", "actors": ["Leslie Hope (Penelope)"], "comments": [], "recommandations_id": []}

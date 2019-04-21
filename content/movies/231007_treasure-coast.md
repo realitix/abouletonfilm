@@ -1,0 +1,1 @@
+{"tmdb_id": 231007, "title": "Treasure Coast", "original_title": "Treasure Coast", "slug_title": "treasure-coast", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

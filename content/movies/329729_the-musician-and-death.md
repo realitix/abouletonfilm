@@ -1,0 +1,1 @@
+{"tmdb_id": 329729, "title": "The Musician and Death", "original_title": "Muzikant a smrt", "slug_title": "the-musician-and-death", "date": "1984-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [73968, 344454, 160329]}

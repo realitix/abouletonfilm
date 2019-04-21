@@ -1,0 +1,1 @@
+{"tmdb_id": 337081, "title": "El teniente Durango", "original_title": "El teniente Durango", "slug_title": "el-teniente-durango", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

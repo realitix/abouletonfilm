@@ -1,0 +1,1 @@
+{"tmdb_id": 367058, "title": "Hollywood Cavalcade: The Silent Dream", "original_title": "Hollywood Cavalcade: The Silent Dream", "slug_title": "hollywood-cavalcade-the-silent-dream", "date": "2008-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

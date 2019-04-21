@@ -1,0 +1,1 @@
+{"tmdb_id": 515849, "title": "Auf amol a Streik", "original_title": "Auf amol a Streik", "slug_title": "auf-amol-a-streik", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

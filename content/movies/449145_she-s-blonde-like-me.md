@@ -1,0 +1,1 @@
+{"tmdb_id": 449145, "title": "She's Blonde Like Me", "original_title": "She's Blonde Like Me", "slug_title": "she-s-blonde-like-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fia-Stina Sandlund ()", "Alexandra Dahlstr\u00f6m ()"], "comments": [], "recommandations_id": []}

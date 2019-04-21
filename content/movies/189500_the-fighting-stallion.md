@@ -1,0 +1,1 @@
+{"tmdb_id": 189500, "title": "The Fighting Stallion", "original_title": "The Fighting Stallion", "slug_title": "the-fighting-stallion", "date": "1926-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yakima Canutt (Yak)"], "comments": [], "recommandations_id": []}

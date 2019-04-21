@@ -1,0 +1,1 @@
+{"tmdb_id": 131459, "title": "El Retorno de los Templarios", "original_title": "El Retorno de los Templarios", "slug_title": "el-retorno-de-los-templarios", "date": "2009-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chvmh6oihU7Przrz4r9DLQMMQuo.jpg", "actors": [], "comments": [], "recommandations_id": []}

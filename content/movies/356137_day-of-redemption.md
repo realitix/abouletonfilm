@@ -1,0 +1,1 @@
+{"tmdb_id": 356137, "title": "Day of Redemption", "original_title": "\u65e9\u89c1\u665a\u7231", "slug_title": "day-of-redemption", "date": "2013-07-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fUaEyenvTT5fW0FU4NXYkMEgkW.jpg", "actors": ["Vic Chou ()", "Tong Yao ()"], "comments": [], "recommandations_id": []}

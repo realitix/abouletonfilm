@@ -1,0 +1,1 @@
+{"tmdb_id": 447425, "title": "The Force", "original_title": "The Force", "slug_title": "the-force", "date": "", "genre": "Thriller / Crime / Drame", "score": "0.0/10", "synopsis": "L'adaptation du roman The Force de Don Winslow, suite de La Griffe du chien et de Cartel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

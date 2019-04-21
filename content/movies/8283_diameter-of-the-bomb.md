@@ -1,0 +1,1 @@
+{"tmdb_id": 8283, "title": "Diameter of the Bomb", "original_title": "Diameter of the Bomb", "slug_title": "diameter-of-the-bomb", "date": "2005-09-14", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iZMEEczWSz4RdpBqoi2im2FPxUF.jpg", "actors": [], "comments": [], "recommandations_id": []}

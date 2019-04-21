@@ -1,0 +1,1 @@
+{"tmdb_id": 434299, "title": "King Size", "original_title": "King Size", "slug_title": "king-size", "date": "1968-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcuu4Ra7pisX1fB6ddzTxnc59B5.jpg", "actors": ["Pat Burns (King Size (voice))"], "comments": [], "recommandations_id": []}

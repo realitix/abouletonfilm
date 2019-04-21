@@ -1,0 +1,1 @@
+{"tmdb_id": 86669, "title": "Giuseppe Verdi: Rigoletto", "original_title": "Giuseppe Verdi: Rigoletto", "slug_title": "giuseppe-verdi-rigoletto", "date": "2008-11-18", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yOCja4BxSa8w7PlSprrg10kTmZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

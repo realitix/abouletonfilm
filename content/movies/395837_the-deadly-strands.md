@@ -1,0 +1,1 @@
+{"tmdb_id": 395837, "title": "The Deadly Strands", "original_title": "The Deadly Strands", "slug_title": "the-deadly-strands", "date": "2013-05-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mJXMoZmiVEBa46YQNp13DL0JZW.jpg", "actors": [], "comments": [], "recommandations_id": []}

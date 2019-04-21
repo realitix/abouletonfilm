@@ -1,0 +1,1 @@
+{"tmdb_id": 103992, "title": "The Miner's Daughter", "original_title": "The Miner's Daughter", "slug_title": "the-miner-s-daughter", "date": "1950-05-25", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJBLjgk1H1tgSdT6UHa9aurfoqA.jpg", "actors": [], "comments": [], "recommandations_id": []}

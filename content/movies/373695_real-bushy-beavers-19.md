@@ -1,0 +1,1 @@
+{"tmdb_id": 373695, "title": "Real Bushy Beavers 19", "original_title": "Real Bushy Beavers 19", "slug_title": "real-bushy-beavers-19", "date": "2014-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Qrnlxi7F4slKr3G4I9EsNvMYA4.jpg", "actors": ["Gina Delight ()"], "comments": [], "recommandations_id": []}

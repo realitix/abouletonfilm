@@ -1,0 +1,1 @@
+{"tmdb_id": 296240, "title": "Shithaus", "original_title": "Shithaus", "slug_title": "shithaus", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

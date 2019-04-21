@@ -1,0 +1,1 @@
+{"tmdb_id": 471501, "title": "The Nurse", "original_title": "The Nurse", "slug_title": "the-nurse", "date": "2017-08-16", "genre": "Horreur", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEj18UzYGsJUTAX8A6YeQUTfZLK.jpg", "actors": ["Hannah Palazzi (The Nurse)", "Aria Walters (Emily)"], "comments": [], "recommandations_id": []}

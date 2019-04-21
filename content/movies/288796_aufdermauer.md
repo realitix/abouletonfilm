@@ -1,0 +1,1 @@
+{"tmdb_id": 288796, "title": "Aufdermauer", "original_title": "Aufdermauer", "slug_title": "aufdermauer", "date": "1982-05-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus Abramowsky (Albert Wisotzky)", "Barbara Bertram (Photograf)"], "comments": [], "recommandations_id": []}

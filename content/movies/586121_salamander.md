@@ -1,0 +1,1 @@
+{"tmdb_id": 586121, "title": "Salamander", "original_title": "Salamander", "slug_title": "salamander", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

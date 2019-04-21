@@ -1,0 +1,1 @@
+{"tmdb_id": 279193, "title": "Aurora sul mare", "original_title": "Aurora sul mare", "slug_title": "aurora-sul-mare", "date": "1934-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Renzo Ricci ()", "Giovanna Scotto ()", "Ennio Cerlesi ()"], "comments": [], "recommandations_id": []}

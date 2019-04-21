@@ -1,0 +1,1 @@
+{"tmdb_id": 282818, "title": "The People's Crisis", "original_title": "The People's Crisis", "slug_title": "the-people-s-crisis", "date": "2012-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ocEHcR4j9Badfl0uGG7jMV0hczl.jpg", "actors": [], "comments": [], "recommandations_id": []}

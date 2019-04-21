@@ -1,0 +1,1 @@
+{"tmdb_id": 69174, "title": "Petey's Wake", "original_title": "Petey's Wake", "slug_title": "petey-s-wake", "date": "1993-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CwNcGNeA1XZZ5H1hIAfVPvxBQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

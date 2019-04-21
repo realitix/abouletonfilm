@@ -1,0 +1,1 @@
+{"tmdb_id": 408252, "title": "House of Salem", "original_title": "House of Salem", "slug_title": "house-of-salem", "date": "2016-08-27", "genre": "Horreur", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bXqFT8L6lptDh22zvPTWsJXhXY3.jpg", "actors": [], "comments": [], "recommandations_id": []}

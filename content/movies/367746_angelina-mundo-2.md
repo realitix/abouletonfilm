@@ -1,0 +1,1 @@
+{"tmdb_id": 367746, "title": "Angelina Mundo 2", "original_title": "Angelina Mundo 2", "slug_title": "angelina-mundo-2", "date": "2014-02-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAAj7wgTgh8BYoSqDmfNrOFMwSI.jpg", "actors": ["Angelina Castro ()", "Samantha 38G ()"], "comments": [], "recommandations_id": []}

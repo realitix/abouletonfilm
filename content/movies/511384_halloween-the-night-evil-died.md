@@ -1,0 +1,1 @@
+{"tmdb_id": 511384, "title": "Halloween: The Night Evil Died", "original_title": "Halloween: The Night Evil Died", "slug_title": "halloween-the-night-evil-died", "date": "2017-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zEvJskEmoDsqeiiJdZT5a9flNCm.jpg", "actors": [], "comments": [], "recommandations_id": []}

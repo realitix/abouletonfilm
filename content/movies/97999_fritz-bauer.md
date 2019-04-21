@@ -1,0 +1,1 @@
+{"tmdb_id": 97999, "title": "Fritz Bauer", "original_title": "Fritz Bauer", "slug_title": "fritz-bauer", "date": "2010-02-14", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3pmcU4e9b3pZsoqJzeo4xxztmUS.jpg", "actors": [], "comments": [], "recommandations_id": []}

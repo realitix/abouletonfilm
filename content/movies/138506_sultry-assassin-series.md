@@ -1,0 +1,1 @@
+{"tmdb_id": 138506, "title": "Sultry Assassin Series", "original_title": "Sultry Assassin Series", "slug_title": "sultry-assassin-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

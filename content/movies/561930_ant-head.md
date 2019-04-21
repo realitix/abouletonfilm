@@ -1,0 +1,1 @@
+{"tmdb_id": 561930, "title": "Ant Head", "original_title": "Ant Head", "slug_title": "ant-head", "date": "2018-11-14", "genre": "Horreur / Musique", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdEkyohQwt3GqYF7mIYX6qgiVjI.jpg", "actors": [], "comments": [], "recommandations_id": [48283, 58403, 103117, 103122]}

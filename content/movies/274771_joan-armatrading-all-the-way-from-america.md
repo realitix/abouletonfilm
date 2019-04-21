@@ -1,0 +1,1 @@
+{"tmdb_id": 274771, "title": "Joan Armatrading: All the Way from America", "original_title": "Joan Armatrading: All the Way from America", "slug_title": "joan-armatrading-all-the-way-from-america", "date": "2004-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

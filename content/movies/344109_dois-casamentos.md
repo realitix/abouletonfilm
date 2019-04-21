@@ -1,0 +1,1 @@
+{"tmdb_id": 344109, "title": "Dois Casamentos", "original_title": "Dois Casamentos", "slug_title": "dois-casamentos", "date": "2014-06-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RpEkIriTJ3n118pSxU9r2uw0RI.jpg", "actors": ["Patr\u00edcia Niedermeier ()"], "comments": [], "recommandations_id": []}

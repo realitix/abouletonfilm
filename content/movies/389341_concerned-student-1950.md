@@ -1,0 +1,1 @@
+{"tmdb_id": 389341, "title": "Concerned Student 1950", "original_title": "Concerned Student 1950", "slug_title": "concerned-student-1950", "date": "2016-03-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSegEZHNCBPtW8Pgbytt5qG6BkH.jpg", "actors": [], "comments": [], "recommandations_id": []}

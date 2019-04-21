@@ -1,0 +1,1 @@
+{"tmdb_id": 318647, "title": "La terra e il vento", "original_title": "La terra e il vento", "slug_title": "la-terra-e-il-vento", "date": "2013-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lorenzo Richelmy (Leonardo)", "Robin Mugnaini (Riccardo)", "Chiara Martegiani (Elena)"], "comments": [], "recommandations_id": []}

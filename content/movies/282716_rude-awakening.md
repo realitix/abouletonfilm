@@ -1,0 +1,1 @@
+{"tmdb_id": 282716, "title": "Rude Awakening", "original_title": "Rude Awakening", "slug_title": "rude-awakening", "date": "1976-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

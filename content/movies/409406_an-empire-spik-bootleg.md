@@ -1,0 +1,1 @@
+{"tmdb_id": 409406, "title": "An Empire Spik Bootleg", "original_title": "An Empire Spik Bootleg", "slug_title": "an-empire-spik-bootleg", "date": "2010-07-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhfZMmRHEkNlVRjGErq1m7AfvW3.jpg", "actors": [], "comments": [], "recommandations_id": []}

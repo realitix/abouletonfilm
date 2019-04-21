@@ -1,0 +1,1 @@
+{"tmdb_id": 307902, "title": "Gopal Krishna", "original_title": "Gopal Krishna", "slug_title": "gopal-krishna", "date": "1979-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iEqorGeaYPsN4StYloAQ80M1Zw6.jpg", "actors": [], "comments": [], "recommandations_id": []}

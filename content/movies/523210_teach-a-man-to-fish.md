@@ -1,0 +1,1 @@
+{"tmdb_id": 523210, "title": "Teach a Man to Fish", "original_title": "Teach a Man to Fish", "slug_title": "teach-a-man-to-fish", "date": "2018-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fszkqTFfDONF5LrxxLCoGzTtLTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

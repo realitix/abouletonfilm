@@ -1,0 +1,1 @@
+{"tmdb_id": 342763, "title": "The Electric Goose", "original_title": "The Electric Goose", "slug_title": "the-electric-goose", "date": "1905-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

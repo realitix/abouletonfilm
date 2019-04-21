@@ -1,0 +1,1 @@
+{"tmdb_id": 395367, "title": "Twenty Years of Academy Awards", "original_title": "Twenty Years of Academy Awards", "slug_title": "twenty-years-of-academy-awards", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

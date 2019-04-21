@@ -1,0 +1,1 @@
+{"tmdb_id": 502870, "title": "Tribology", "original_title": "Tribologie", "slug_title": "tribology", "date": "1996-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

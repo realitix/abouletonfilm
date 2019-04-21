@@ -1,0 +1,1 @@
+{"tmdb_id": 313393, "title": "Duel Masters: Show Me the Mana", "original_title": "Duel Masters: Show Me the Mana", "slug_title": "duel-masters-show-me-the-mana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

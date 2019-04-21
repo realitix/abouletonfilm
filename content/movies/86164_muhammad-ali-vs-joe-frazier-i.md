@@ -1,0 +1,1 @@
+{"tmdb_id": 86164, "title": "Muhammad Ali vs. Joe Frazier I", "original_title": "Muhammad Ali vs. Joe Frazier I", "slug_title": "muhammad-ali-vs-joe-frazier-i", "date": "1971-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AzoyfYpHaeUxqGYRKZN37DNy36.jpg", "actors": [], "comments": [], "recommandations_id": []}

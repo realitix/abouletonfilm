@@ -1,0 +1,1 @@
+{"tmdb_id": 508844, "title": "Parisukat", "original_title": "Parisukat", "slug_title": "parisukat", "date": "2010-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7godI7pUAXVvqzzPo0DP30mYdZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344430, "title": "Black Sunday", "original_title": "Black Sunday", "slug_title": "black-sunday", "date": "1926-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

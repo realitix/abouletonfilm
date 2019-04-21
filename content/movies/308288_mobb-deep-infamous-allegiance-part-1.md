@@ -1,0 +1,1 @@
+{"tmdb_id": 308288, "title": "Mobb Deep: Infamous Allegiance: Part 1", "original_title": "Mobb Deep: Infamous Allegiance: Part 1", "slug_title": "mobb-deep-infamous-allegiance-part-1", "date": "2004-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

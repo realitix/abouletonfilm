@@ -1,0 +1,1 @@
+{"tmdb_id": 587977, "title": "Beklenen \u015eark\u0131", "original_title": "Beklenen \u015eark\u0131", "slug_title": "beklenen-sarki", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drQpE4AmMfjYKgudLZWMYpJaYyV.jpg", "actors": [], "comments": [], "recommandations_id": []}

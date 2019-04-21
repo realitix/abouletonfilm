@@ -1,0 +1,1 @@
+{"tmdb_id": 404745, "title": "Sammy Salvage", "original_title": "Sammy Salvage", "slug_title": "sammy-salvage", "date": "1943-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoOqt21lm9BrVf6rfCfxRLvEJZd.jpg", "actors": [], "comments": [], "recommandations_id": []}

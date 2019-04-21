@@ -1,0 +1,1 @@
+{"tmdb_id": 298216, "title": "Kaskara", "original_title": "Kaskara", "slug_title": "kaskara", "date": "1974-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fd2r1uqTAUoDrLYRcwMcZl9iSGR.jpg", "actors": ["Werner Nekes ()"], "comments": [], "recommandations_id": []}

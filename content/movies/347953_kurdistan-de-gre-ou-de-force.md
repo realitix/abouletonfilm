@@ -1,0 +1,1 @@
+{"tmdb_id": 347953, "title": "Kurdistan : De Gr\u00e9 Ou De Force", "original_title": "Kurdistan : De Gr\u00e9 Ou De Force", "slug_title": "kurdistan-de-gre-ou-de-force", "date": "2015-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

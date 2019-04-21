@@ -1,0 +1,1 @@
+{"tmdb_id": 317863, "title": "La Belle: Les Ballets de Monte-Carlo", "original_title": "La Belle: Les Ballets de Monte-Carlo", "slug_title": "la-belle-les-ballets-de-monte-carlo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

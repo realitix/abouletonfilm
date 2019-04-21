@@ -1,0 +1,1 @@
+{"tmdb_id": 60129, "title": "Bratz: Fashion Pixiez", "original_title": "Bratz: Fashion Pixiez", "slug_title": "bratz-fashion-pixiez", "date": "2007-01-01", "genre": "Animation / Familial", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cEvvetk93D6jVMntmPA7zIaIlJ0.jpg", "actors": [], "comments": [], "recommandations_id": [43069]}

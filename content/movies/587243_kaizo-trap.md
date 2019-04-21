@@ -1,0 +1,1 @@
+{"tmdb_id": 587243, "title": "Kaizo Trap", "original_title": "Kaizo Trap", "slug_title": "kaizo-trap", "date": "", "genre": "Science-Fiction / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qyn2Zw8Knjx9xJtFFf2afrXIT0I.jpg", "actors": [], "comments": [], "recommandations_id": []}

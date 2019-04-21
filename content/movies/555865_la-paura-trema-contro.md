@@ -1,0 +1,1 @@
+{"tmdb_id": 555865, "title": "La Paura Trema Contro", "original_title": "La Paura Trema Contro", "slug_title": "la-paura-trema-contro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

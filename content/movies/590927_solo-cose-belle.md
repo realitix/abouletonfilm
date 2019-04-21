@@ -1,0 +1,1 @@
+{"tmdb_id": 590927, "title": "Solo cose belle", "original_title": "Solo cose belle", "slug_title": "solo-cose-belle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

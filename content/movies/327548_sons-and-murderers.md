@@ -1,0 +1,1 @@
+{"tmdb_id": 327548, "title": "Sons and Murderers", "original_title": "Abna' Wa Qattala", "slug_title": "sons-and-murderers", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2JtG32MV7EVpbCAV65xFcANOc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

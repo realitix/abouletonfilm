@@ -1,0 +1,1 @@
+{"tmdb_id": 525900, "title": "Dancing", "original_title": "Dancing", "slug_title": "dancing", "date": "2012-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

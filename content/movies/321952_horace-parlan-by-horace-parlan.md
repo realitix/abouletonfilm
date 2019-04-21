@@ -1,0 +1,1 @@
+{"tmdb_id": 321952, "title": "Horace Parlan by Horace Parlan", "original_title": "Horace Parlan by Horace Parlan", "slug_title": "horace-parlan-by-horace-parlan", "date": "2002-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

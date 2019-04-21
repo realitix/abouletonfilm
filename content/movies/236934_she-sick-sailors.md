@@ -1,0 +1,1 @@
+{"tmdb_id": 236934, "title": "She-Sick Sailors", "original_title": "She-Sick Sailors", "slug_title": "she-sick-sailors", "date": "1944-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Mercer (Popeye (voice))", "Jackson Beck (Pluto (voice))", "Mae Questel (Olive Oyl (voice))"], "comments": [], "recommandations_id": []}

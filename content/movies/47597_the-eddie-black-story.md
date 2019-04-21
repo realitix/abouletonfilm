@@ -1,0 +1,1 @@
+{"tmdb_id": 47597, "title": "The Eddie Black Story", "original_title": "The Eddie Black Story", "slug_title": "the-eddie-black-story", "date": "2009-12-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/911golcwNF9fzQbzd7taXhaH4QA.jpg", "actors": [], "comments": [], "recommandations_id": []}

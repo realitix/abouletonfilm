@@ -1,0 +1,1 @@
+{"tmdb_id": 234789, "title": "Not Ghoulty", "original_title": "Not Ghoulty", "slug_title": "not-ghoulty", "date": "1959-06-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

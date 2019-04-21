@@ -1,0 +1,1 @@
+{"tmdb_id": 547702, "title": "Blwarh: Navegando no Deserto", "original_title": "Blwarh: Navegando no Deserto", "slug_title": "blwarh-navegando-no-deserto", "date": "2018-05-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3gp20h33QGt7WNLA1llfC4Wr4VI.jpg", "actors": [], "comments": [], "recommandations_id": []}

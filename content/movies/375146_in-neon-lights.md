@@ -1,0 +1,1 @@
+{"tmdb_id": 375146, "title": "In Neon Lights", "original_title": "In Neon Lights", "slug_title": "in-neon-lights", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

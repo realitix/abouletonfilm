@@ -1,0 +1,1 @@
+{"tmdb_id": 78445, "title": "Chitkabrey", "original_title": "Chitkabrey", "slug_title": "chitkabrey", "date": "2011-08-26", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JDCP1xJLwbyJs33CHOYJAPylmu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236612, "title": "Juke Box Jamboree", "original_title": "Juke Box Jamboree", "slug_title": "juke-box-jamboree", "date": "1942-07-26", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QkZfHQvNWLs61kykhRbOev29I6.jpg", "actors": [], "comments": [], "recommandations_id": []}

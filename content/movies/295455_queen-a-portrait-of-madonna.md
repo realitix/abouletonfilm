@@ -1,0 +1,1 @@
+{"tmdb_id": 295455, "title": "Queen (A Portrait of Madonna)", "original_title": "Queen (A Portrait of Madonna)", "slug_title": "queen-a-portrait-of-madonna", "date": "2005-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/33E6Wk0eOaZSsAQoiDqswUVnuih.jpg", "actors": [], "comments": [], "recommandations_id": []}

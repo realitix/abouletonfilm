@@ -1,0 +1,1 @@
+{"tmdb_id": 540646, "title": "Tarzan: Silver Screen King of the Jungle", "original_title": "Tarzan: Silver Screen King of the Jungle", "slug_title": "tarzan-silver-screen-king-of-the-jungle", "date": "2004-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Weissmuller ()"], "comments": [], "recommandations_id": []}

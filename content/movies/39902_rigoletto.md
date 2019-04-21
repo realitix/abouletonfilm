@@ -1,0 +1,1 @@
+{"tmdb_id": 39902, "title": "Rigoletto", "original_title": "Rigoletto", "slug_title": "rigoletto", "date": "1993-07-13", "genre": "Drame", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5wds2rnsMVgYUNaAtaxhwzMO2FG.jpg", "actors": [], "comments": [], "recommandations_id": []}

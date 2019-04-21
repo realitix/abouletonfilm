@@ -1,0 +1,1 @@
+{"tmdb_id": 206234, "title": "Mankind", "original_title": "Ai-Ye", "slug_title": "mankind", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

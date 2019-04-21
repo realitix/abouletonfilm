@@ -1,0 +1,1 @@
+{"tmdb_id": 589889, "title": "Halloween II (1984 Cable Cut)", "original_title": "Halloween II (1984 Cable Cut)", "slug_title": "halloween-ii-1984-cable-cut", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AlSlx4X9rJZTy61JDxIdKn20vxP.jpg", "actors": [], "comments": [], "recommandations_id": []}

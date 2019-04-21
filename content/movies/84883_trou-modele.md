@@ -1,0 +1,1 @@
+{"tmdb_id": 84883, "title": "Trou mod\u00e8le", "original_title": "Garden Gopher", "slug_title": "trou-modele", "date": "1950-09-30", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TEsAEIEFR2y4RN67xeHzi1VUpO.jpg", "actors": ["Bill Thompson (Spike (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410303, "title": "FHM: The Last of the Lads' Mags", "original_title": "FHM: The Last of the Lads' Mags", "slug_title": "fhm-the-last-of-the-lads-mags", "date": "2016-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

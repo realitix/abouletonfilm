@@ -1,0 +1,1 @@
+{"tmdb_id": 197768, "title": "Freeze Frame", "original_title": "Freeze Frame", "slug_title": "freeze-frame", "date": "1979-05-27", "genre": "Animation / Com\u00e9die", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8y4bsoXtjmEMjjyKcwX72in9mo2.jpg", "actors": [], "comments": [], "recommandations_id": [59195, 83674]}

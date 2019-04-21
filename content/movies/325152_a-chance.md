@@ -1,0 +1,1 @@
+{"tmdb_id": 325152, "title": "A Chance", "original_title": "Szansa", "slug_title": "a-chance", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zbigniew Zapasiewicz ()", "Joanna Jedlewska ()", "Jerzy Karaszkiewicz ()", "J\u00f3zef Konieczny ()", "Emilia Krakowska ()"], "comments": [], "recommandations_id": []}

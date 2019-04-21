@@ -1,0 +1,1 @@
+{"tmdb_id": 295236, "title": "Theraik Dawn", "original_title": "Thiraikos Orthros", "slug_title": "theraik-dawn", "date": "1968-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9PFlUUgmlXLcPNk2dROGMzfKbD.jpg", "actors": [], "comments": [], "recommandations_id": []}

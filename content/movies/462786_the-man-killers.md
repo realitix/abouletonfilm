@@ -1,0 +1,1 @@
+{"tmdb_id": 462786, "title": "The Man Killers", "original_title": "The Man Killers", "slug_title": "the-man-killers", "date": "1943-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Howard Hill (Himself)", "Knox Manning (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397090, "title": "Drinking Crude", "original_title": "Drinking Crude", "slug_title": "drinking-crude", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Scott (Paul)", "James Quarton (Al)", "Heather Craney (Julie)", "Colin Farrell (Click)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 89672, "title": "Stubble Trouble", "original_title": "Stubble Trouble", "slug_title": "stubble-trouble", "date": "2000-12-20", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGrU2Nz0o2FiGXxe1ayJjYBP5qk.jpg", "actors": [], "comments": [], "recommandations_id": []}

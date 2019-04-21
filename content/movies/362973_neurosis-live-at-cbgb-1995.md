@@ -1,0 +1,1 @@
+{"tmdb_id": 362973, "title": "Neurosis: Live At CBGB 1995", "original_title": "Neurosis: Live At CBGB 1995", "slug_title": "neurosis-live-at-cbgb-1995", "date": "1995-10-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

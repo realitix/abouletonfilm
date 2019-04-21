@@ -1,0 +1,1 @@
+{"tmdb_id": 309498, "title": "King of the Cage #5: Cage Wars", "original_title": "King of the Cage #5: Cage Wars", "slug_title": "king-of-the-cage-5-cage-wars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 380168, "title": "Man Without Direction", "original_title": "Man Without Direction", "slug_title": "man-without-direction", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

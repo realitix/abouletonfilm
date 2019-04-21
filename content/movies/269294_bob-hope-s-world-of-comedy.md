@@ -1,0 +1,1 @@
+{"tmdb_id": 269294, "title": "Bob Hope's World of Comedy", "original_title": "Bob Hope's World of Comedy", "slug_title": "bob-hope-s-world-of-comedy", "date": "1976-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBIyyPya4x2G73jxGgqsQEZAlul.jpg", "actors": [], "comments": [], "recommandations_id": []}

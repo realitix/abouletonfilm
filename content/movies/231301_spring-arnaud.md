@@ -1,0 +1,1 @@
+{"tmdb_id": 231301, "title": "Spring & Arnaud", "original_title": "Spring & Arnaud", "slug_title": "spring-arnaud", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJqiOOpCWAmwDCKn59lQbRwleUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421528, "title": "Fukk\u00f5 Teito Shinfoni", "original_title": "Fukk\u00f5 Teito Shinfoni", "slug_title": "fukko-teito-shinfoni", "date": "1929-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

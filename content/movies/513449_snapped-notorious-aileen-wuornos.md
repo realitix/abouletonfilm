@@ -1,0 +1,1 @@
+{"tmdb_id": 513449, "title": "Snapped Notorious: Aileen Wuornos", "original_title": "Snapped Notorious: Aileen Wuornos", "slug_title": "snapped-notorious-aileen-wuornos", "date": "2018-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

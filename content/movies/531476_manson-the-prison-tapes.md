@@ -1,0 +1,1 @@
+{"tmdb_id": 531476, "title": "Manson: The Prison Tapes", "original_title": "Manson: The Prison Tapes", "slug_title": "manson-the-prison-tapes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vrkWiig5ukkJ0xDNPRR6UafwvSt.jpg", "actors": [], "comments": [], "recommandations_id": []}

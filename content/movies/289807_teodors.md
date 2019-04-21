@@ -1,0 +1,1 @@
+{"tmdb_id": 289807, "title": "Teodors", "original_title": "Teodors", "slug_title": "teodors", "date": "2006-08-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kX33axUPDXijsKmTgv2z3n6tx7.jpg", "actors": [], "comments": [], "recommandations_id": []}

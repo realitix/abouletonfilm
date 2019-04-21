@@ -1,0 +1,1 @@
+{"tmdb_id": 592023, "title": "Jack & Yaya", "original_title": "Jack & Yaya", "slug_title": "jack-yaya", "date": "2019-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aD2b6eg7tGceHVYdK4V8jlAhXd4.jpg", "actors": [], "comments": [], "recommandations_id": []}

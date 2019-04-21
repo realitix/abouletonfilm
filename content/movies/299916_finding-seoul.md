@@ -1,0 +1,1 @@
+{"tmdb_id": 299916, "title": "Finding Seoul", "original_title": "Finding Seoul", "slug_title": "finding-seoul", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

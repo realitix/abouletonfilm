@@ -1,0 +1,1 @@
+{"tmdb_id": 531694, "title": "Bone Structure", "original_title": "Bone Structure", "slug_title": "bone-structure", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/EnMa2sFtz3GwwjUhMcqFH6xOaq.jpg", "actors": [], "comments": [], "recommandations_id": []}

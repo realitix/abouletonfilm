@@ -1,0 +1,1 @@
+{"tmdb_id": 306896, "title": "Proper Patola", "original_title": "Proper Patola", "slug_title": "proper-patola", "date": "2014-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEXtuFRMGjZR0aSX1pdHLNAXy7H.jpg", "actors": ["Neeru Bajwa ()", "Yuvraj Hans ()", "Harish Verma ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318639, "title": "Xiao Er Hei Jie Hun", "original_title": "Xiao Er Hei Jie Hun", "slug_title": "xiao-er-hei-jie-hun", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scJfVljCwKzZJyBpiaonTrVX9Jq.jpg", "actors": ["Ziyue Zhao ()", "Cunzhuang Ge ()"], "comments": [], "recommandations_id": []}

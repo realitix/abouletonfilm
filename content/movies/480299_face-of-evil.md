@@ -1,0 +1,1 @@
+{"tmdb_id": 480299, "title": "Face of Evil", "original_title": "Face of Evil", "slug_title": "face-of-evil", "date": "2003-01-01", "genre": "Horreur / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carolyn Brandt ()", "Lovie Goldmine ()", "Will Long ()"], "comments": [], "recommandations_id": []}

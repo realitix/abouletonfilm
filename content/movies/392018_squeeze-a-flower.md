@@ -1,0 +1,1 @@
+{"tmdb_id": 392018, "title": "Squeeze a Flower", "original_title": "Squeeze a Flower", "slug_title": "squeeze-a-flower", "date": "1970-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/leNA2ZbXlPT45lVwNvaNrk1p2jy.jpg", "actors": [], "comments": [], "recommandations_id": []}

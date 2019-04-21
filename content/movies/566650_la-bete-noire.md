@@ -1,0 +1,1 @@
+{"tmdb_id": 566650, "title": "La b\u00eate noire", "original_title": "La b\u00eate noire", "slug_title": "la-bete-noire", "date": "1983-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwFJzUnKs6FSAjWWxxw7myghcD1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 126215, "title": "The Dark Tower", "original_title": "The Dark Tower", "slug_title": "the-dark-tower", "date": "1999-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x03f5ZRe563wy43rGGTFoJzEE7c.jpg", "actors": [], "comments": [], "recommandations_id": [97517, 105717, 126213, 126202]}

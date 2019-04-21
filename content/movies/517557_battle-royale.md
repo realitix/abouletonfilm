@@ -1,0 +1,1 @@
+{"tmdb_id": 517557, "title": "Battle Royale", "original_title": "Battle Royale", "slug_title": "battle-royale", "date": "2020-04-11", "genre": "Action / Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

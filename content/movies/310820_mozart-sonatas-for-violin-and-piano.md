@@ -1,0 +1,1 @@
+{"tmdb_id": 310820, "title": "Mozart: Sonatas for Violin and Piano", "original_title": "Mozart: Sonatas for Violin and Piano", "slug_title": "mozart-sonatas-for-violin-and-piano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

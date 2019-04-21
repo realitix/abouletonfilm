@@ -1,0 +1,1 @@
+{"tmdb_id": 3867, "title": "El Camino de las Hormigas", "original_title": "El Camino de las Hormigas", "slug_title": "el-camino-de-las-hormigas", "date": "1993-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

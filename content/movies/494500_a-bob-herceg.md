@@ -1,0 +1,1 @@
+{"tmdb_id": 494500, "title": "A Bob herceg", "original_title": "A Bob herceg", "slug_title": "a-bob-herceg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

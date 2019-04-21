@@ -1,0 +1,1 @@
+{"tmdb_id": 258590, "title": "Claudine", "original_title": "Claudine", "slug_title": "claudine", "date": "2002-03-09", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ovidie (Claudine)", "Herv\u00e9 P. Gustave (Inspecteur Godeau (as H.P.G))"], "comments": [], "recommandations_id": []}

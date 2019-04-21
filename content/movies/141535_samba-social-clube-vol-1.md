@@ -1,0 +1,1 @@
+{"tmdb_id": 141535, "title": "Samba Social Clube - Vol. 1", "original_title": "Samba Social Clube - Vol. 1", "slug_title": "samba-social-clube-vol-1", "date": "2016-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sc5TBtB4hROVcqLBGc3gSsA75UF.jpg", "actors": [], "comments": [], "recommandations_id": []}

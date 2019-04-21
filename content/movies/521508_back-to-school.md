@@ -1,0 +1,1 @@
+{"tmdb_id": 521508, "title": "Back to School", "original_title": "Back to School", "slug_title": "back-to-school", "date": "2006-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gaY9HDfCDlb4ecyDBR23bAcOpcd.jpg", "actors": [], "comments": [], "recommandations_id": []}

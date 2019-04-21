@@ -1,0 +1,1 @@
+{"tmdb_id": 317858, "title": "Healing Words: Poetry & Medicine", "original_title": "Healing Words: Poetry & Medicine", "slug_title": "healing-words-poetry-medicine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

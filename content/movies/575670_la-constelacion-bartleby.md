@@ -1,0 +1,1 @@
+{"tmdb_id": 575670, "title": "La constelaci\u00f3n Bartleby", "original_title": "La constelaci\u00f3n Bartleby", "slug_title": "la-constelacion-bartleby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

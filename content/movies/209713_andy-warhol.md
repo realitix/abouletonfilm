@@ -1,0 +1,1 @@
+{"tmdb_id": 209713, "title": "Andy Warhol", "original_title": "Andy Warhol", "slug_title": "andy-warhol", "date": "1965-01-01", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3zqiBzkektRrmVNTQKJODGF3yM.jpg", "actors": ["Andy Warhol ()"], "comments": [], "recommandations_id": [83909, 350062, 39239, 350068]}

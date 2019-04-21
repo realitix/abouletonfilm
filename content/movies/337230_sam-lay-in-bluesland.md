@@ -1,0 +1,1 @@
+{"tmdb_id": 337230, "title": "Sam Lay in Bluesland", "original_title": "Sam Lay in Bluesland", "slug_title": "sam-lay-in-bluesland", "date": "2015-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

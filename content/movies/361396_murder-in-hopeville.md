@@ -1,0 +1,1 @@
+{"tmdb_id": 361396, "title": "Murder in Hopeville", "original_title": "Murder in Hopeville", "slug_title": "murder-in-hopeville", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

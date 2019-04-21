@@ -1,0 +1,1 @@
+{"tmdb_id": 432552, "title": "A szabin n\u00f6k elrabl\u00e1sa", "original_title": "A szabin n\u00f6k elrabl\u00e1sa", "slug_title": "a-szabin-nok-elrablasa", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

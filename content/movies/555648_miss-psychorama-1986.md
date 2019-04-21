@@ -1,0 +1,1 @@
+{"tmdb_id": 555648, "title": "Miss Psychorama 1986", "original_title": "Miss Psychorama 1986", "slug_title": "miss-psychorama-1986", "date": "", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmro0AxQaDxOrTeaDFPzvfFDJYb.jpg", "actors": [], "comments": [], "recommandations_id": []}

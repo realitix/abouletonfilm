@@ -1,0 +1,1 @@
+{"tmdb_id": 117877, "title": "Aquaponics Secrets", "original_title": "Aquaponics Secrets", "slug_title": "aquaponics-secrets", "date": "2010-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lW61zFxIg3BbjLjgGzkf6kv2108.jpg", "actors": ["Murray Hallam (Himself)"], "comments": [], "recommandations_id": []}

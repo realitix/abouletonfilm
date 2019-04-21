@@ -1,0 +1,1 @@
+{"tmdb_id": 272552, "title": "Mamachas of the Ring", "original_title": "Mamachas Del Ring", "slug_title": "mamachas-of-the-ring", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ulP5oilKqby19589RT3jz87ffcK.jpg", "actors": [], "comments": [], "recommandations_id": []}

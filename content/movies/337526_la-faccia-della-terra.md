@@ -1,0 +1,1 @@
+{"tmdb_id": 337526, "title": "La Faccia della Terra", "original_title": "La Faccia della Terra", "slug_title": "la-faccia-della-terra", "date": "2010-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

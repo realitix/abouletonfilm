@@ -1,0 +1,1 @@
+{"tmdb_id": 329848, "title": "Wayfaring - A Jaunt along the Camino de Santiago", "original_title": "Wayfaring - A Jaunt along the Camino de Santiago", "slug_title": "wayfaring-a-jaunt-along-the-camino-de-santiago", "date": "2014-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573126, "title": "Il futuro \u00e8 obsoleto", "original_title": "Il futuro \u00e8 obsoleto", "slug_title": "il-futuro-e-obsoleto", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 142871, "title": "Stylemasters", "original_title": "Stylemasters", "slug_title": "stylemasters", "date": "2009-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

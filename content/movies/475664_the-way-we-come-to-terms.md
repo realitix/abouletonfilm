@@ -1,0 +1,1 @@
+{"tmdb_id": 475664, "title": "The Way We Come To Terms", "original_title": "The Way We Come To Terms", "slug_title": "the-way-we-come-to-terms", "date": "2017-03-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laura Paulina Brennan ()"], "comments": [], "recommandations_id": []}

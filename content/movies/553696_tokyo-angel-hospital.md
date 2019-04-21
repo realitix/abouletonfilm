@@ -1,0 +1,1 @@
+{"tmdb_id": 553696, "title": "Tokyo Angel Hospital", "original_title": "\u6771\u4eac\u5929\u4f7f\u75c5\u9662", "slug_title": "tokyo-angel-hospital", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9iPgC9VDH5turZ5kuPGZ75V5wEL.jpg", "actors": [], "comments": [], "recommandations_id": []}

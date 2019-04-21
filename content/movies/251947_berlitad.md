@@ -1,0 +1,1 @@
+{"tmdb_id": 251947, "title": "Berlitad", "original_title": "Berlitad", "slug_title": "berlitad", "date": "2006-08-13", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z0QdPifORNpv35nV1PgQqhx6nh3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274723, "title": "The Amazing Bible Series: The Amazing Children", "original_title": "The Amazing Bible Series: The Amazing Children", "slug_title": "the-amazing-bible-series-the-amazing-children", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

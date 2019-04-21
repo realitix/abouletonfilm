@@ -1,0 +1,1 @@
+{"tmdb_id": 351446, "title": "The Devil", "original_title": "The Devil", "slug_title": "the-devil", "date": "2012-07-06", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/un1NsUtVzIeYYlDIi21FUSDOdGs.jpg", "actors": [], "comments": [], "recommandations_id": []}

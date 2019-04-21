@@ -1,0 +1,1 @@
+{"tmdb_id": 278456, "title": "Bilder einer Ausstellung", "original_title": "Bilder einer Ausstellung", "slug_title": "bilder-einer-ausstellung", "date": "1996-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

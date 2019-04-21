@@ -1,0 +1,1 @@
+{"tmdb_id": 574956, "title": "Just One Bite", "original_title": "Just One Bite", "slug_title": "just-one-bite", "date": "2018-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

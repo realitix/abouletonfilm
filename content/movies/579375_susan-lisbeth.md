@@ -1,0 +1,1 @@
+{"tmdb_id": 579375, "title": "Susan+Lisbeth", "original_title": "Susan+Lisbeth", "slug_title": "susan-lisbeth", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxYkKptKEIg4g4udmIu1QPcuxmr.jpg", "actors": ["Susan Turcot ()"], "comments": [], "recommandations_id": []}

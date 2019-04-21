@@ -1,0 +1,1 @@
+{"tmdb_id": 313064, "title": "Patigre e sua Gangue", "original_title": "Patigre e sua Gangue", "slug_title": "patigre-e-sua-gangue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

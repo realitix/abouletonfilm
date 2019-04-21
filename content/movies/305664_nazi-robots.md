@@ -1,0 +1,1 @@
+{"tmdb_id": 305664, "title": "Nazi Robots", "original_title": "Nazi Robots", "slug_title": "nazi-robots", "date": "2011-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Ray Davis (Grandpa)", "Luke Simon (Grandson)", "Reece Simon (Young Grandpa)", "Benjamin von Cramon (Robot)"], "comments": [], "recommandations_id": []}

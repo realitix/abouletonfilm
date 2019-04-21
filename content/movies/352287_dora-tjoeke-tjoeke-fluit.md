@@ -1,0 +1,1 @@
+{"tmdb_id": 352287, "title": "Dora - Tjoeke-Tjoeke-Fluit", "original_title": "Dora - Tjoeke-Tjoeke-Fluit", "slug_title": "dora-tjoeke-tjoeke-fluit", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgMhax58f4MIaLyOE6kaIuE4YiX.jpg", "actors": [], "comments": [], "recommandations_id": []}

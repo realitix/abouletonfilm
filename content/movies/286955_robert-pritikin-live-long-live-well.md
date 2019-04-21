@@ -1,0 +1,1 @@
+{"tmdb_id": 286955, "title": "Robert Pritikin: Live Long, Live Well", "original_title": "Robert Pritikin: Live Long, Live Well", "slug_title": "robert-pritikin-live-long-live-well", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

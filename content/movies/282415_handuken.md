@@ -1,0 +1,1 @@
+{"tmdb_id": 282415, "title": "Handuken", "original_title": "Handuken", "slug_title": "handuken", "date": "2013-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

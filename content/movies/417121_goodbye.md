@@ -1,0 +1,1 @@
+{"tmdb_id": 417121, "title": "Goodbye", "original_title": "Goodbye", "slug_title": "goodbye", "date": "2015-05-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UhZzvccIoZcoOa7wB4MwI6OzbA.jpg", "actors": ["Kevan Brighting (Gatekeeper)", "Kevan Brighting (Moniter)"], "comments": [], "recommandations_id": []}

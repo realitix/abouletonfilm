@@ -1,0 +1,1 @@
+{"tmdb_id": 521001, "title": "And the Dogs Were Silent", "original_title": "Et les chiens se taisaient", "slug_title": "and-the-dogs-were-silent", "date": "1974-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500401, "title": "TPE-Tics", "original_title": "Taipei Chouchu", "slug_title": "tpe-tics", "date": "2015-07-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDWU04HH1NyoTPvTvQENAesKCWc.jpg", "actors": ["Dawang Yingfan HUANG (Himself)"], "comments": [], "recommandations_id": []}

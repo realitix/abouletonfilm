@@ -1,0 +1,1 @@
+{"tmdb_id": 558267, "title": "Sankastakara Ganapathi", "original_title": "Sankastakara Ganapathi", "slug_title": "sankastakara-ganapathi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h83p8dlvdVCPtZ0KKduMHMHqmv8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326725, "title": "Ivar Kreuger", "original_title": "Ivar Kreuger", "slug_title": "ivar-kreuger", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/730x9f7hCNcuIE9WehHLRLFUFDa.jpg", "actors": [], "comments": [], "recommandations_id": []}

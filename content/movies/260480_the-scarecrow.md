@@ -1,0 +1,1 @@
+{"tmdb_id": 260480, "title": "The Scarecrow", "original_title": "L'\u00e9pouvantail", "slug_title": "the-scarecrow", "date": "1943-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5IevtqXJj6uTmRPbiz6QOzbThvu.jpg", "actors": [], "comments": [], "recommandations_id": []}

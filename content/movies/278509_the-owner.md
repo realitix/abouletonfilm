@@ -1,0 +1,1 @@
+{"tmdb_id": 278509, "title": "The Owner", "original_title": "The Owner", "slug_title": "the-owner", "date": "2012-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

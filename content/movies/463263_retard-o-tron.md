@@ -1,0 +1,1 @@
+{"tmdb_id": 463263, "title": "Retard-o-Tron", "original_title": "Retard-o-Tron", "slug_title": "retard-o-tron", "date": "2005-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aFtUZ41jE11KkyvLkQIgiSbqX8H.jpg", "actors": [], "comments": [], "recommandations_id": []}

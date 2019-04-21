@@ -1,0 +1,1 @@
+{"tmdb_id": 71903, "title": "24 Hours After Hiroshima", "original_title": "24 Hours After Hiroshima", "slug_title": "24-hours-after-hiroshima", "date": "2010-04-05", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMcwgTtSfh1v5DpKhr4WNm6hxjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

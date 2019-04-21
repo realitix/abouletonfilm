@@ -1,0 +1,1 @@
+{"tmdb_id": 475785, "title": "Strata of Natural History", "original_title": "Strata of Natural History", "slug_title": "strata-of-natural-history", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXvizPwswg17oXthzupyO4PXmoB.jpg", "actors": [], "comments": [], "recommandations_id": []}

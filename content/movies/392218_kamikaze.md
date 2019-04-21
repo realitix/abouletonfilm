@@ -1,0 +1,1 @@
+{"tmdb_id": 392218, "title": "Kamikaze", "original_title": "Kamikaze", "slug_title": "kamikaze", "date": "1960-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQ4B7lb6aBkgbnrZ0Hu0fZUYOFB.jpg", "actors": [], "comments": [], "recommandations_id": []}

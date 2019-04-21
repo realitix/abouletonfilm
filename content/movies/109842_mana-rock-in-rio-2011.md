@@ -1,0 +1,1 @@
+{"tmdb_id": 109842, "title": "Mana Rock in Rio 2011", "original_title": "Mana Rock in Rio 2011", "slug_title": "mana-rock-in-rio-2011", "date": "2011-10-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNEUR1dEIfbMCqqGqON1wsYE8vQ.jpg", "actors": ["Mana (themselves)"], "comments": [], "recommandations_id": []}

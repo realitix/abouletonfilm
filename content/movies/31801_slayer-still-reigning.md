@@ -1,0 +1,1 @@
+{"tmdb_id": 31801, "title": "Slayer: Still Reigning", "original_title": "Slayer: Still Reigning", "slug_title": "slayer-still-reigning", "date": "2004-01-01", "genre": "Musique", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zkkjCXPN0cmFxGMe7xVjGlzSUUM.jpg", "actors": [], "comments": [], "recommandations_id": []}

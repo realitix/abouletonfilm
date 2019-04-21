@@ -1,0 +1,1 @@
+{"tmdb_id": 351514, "title": "A Torrid Toreador", "original_title": "A Torrid Toreador", "slug_title": "a-torrid-toreador", "date": "1942-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Sourpuss (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410497, "title": "Luchadora", "original_title": "Luchadora", "slug_title": "luchadora", "date": "2015-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IHxeQTWFov93Dzi4JtKXhTomEM.jpg", "actors": [], "comments": [], "recommandations_id": []}

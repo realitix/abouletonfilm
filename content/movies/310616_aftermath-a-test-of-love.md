@@ -1,0 +1,1 @@
+{"tmdb_id": 310616, "title": "Aftermath: A Test of Love", "original_title": "Aftermath: A Test of Love", "slug_title": "aftermath-a-test-of-love", "date": "1991-03-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hAlaLc4Ve8tTH3NvFeSjKhu61af.jpg", "actors": [], "comments": [], "recommandations_id": []}

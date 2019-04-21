@@ -1,0 +1,1 @@
+{"tmdb_id": 326225, "title": "Solidarity", "original_title": "Solidarity", "slug_title": "solidarity", "date": "1973-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8dyQkXoi31PK8Fdn2SmpZbsh6SJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

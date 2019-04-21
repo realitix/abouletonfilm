@@ -1,0 +1,1 @@
+{"tmdb_id": 545304, "title": "The King", "original_title": "The King", "slug_title": "the-king", "date": "", "genre": "Histoire / Aventure / Action / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dwayne Johnson (King Kamehameha)"], "comments": [], "recommandations_id": []}

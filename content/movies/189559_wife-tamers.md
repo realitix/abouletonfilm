@@ -1,0 +1,1 @@
+{"tmdb_id": 189559, "title": "Wife Tamers", "original_title": "Wife Tamers", "slug_title": "wife-tamers", "date": "1926-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ywsB9COPuCuKlsxZpEUjxlaUE80.jpg", "actors": ["Lionel Barrymore (Mr. Barry)", "Clyde Cook (The Butler)"], "comments": [], "recommandations_id": []}

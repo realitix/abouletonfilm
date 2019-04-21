@@ -1,0 +1,1 @@
+{"tmdb_id": 352379, "title": "The Air-Conditioned Eden", "original_title": "The Air-Conditioned Eden", "slug_title": "the-air-conditioned-eden", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBX26vQbZG4nGIYQioPPoOQUeFw.jpg", "actors": [], "comments": [], "recommandations_id": []}

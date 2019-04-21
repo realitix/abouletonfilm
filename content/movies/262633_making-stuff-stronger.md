@@ -1,0 +1,1 @@
+{"tmdb_id": 262633, "title": "Making Stuff: Stronger", "original_title": "Making Stuff: Stronger", "slug_title": "making-stuff-stronger", "date": "2011-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

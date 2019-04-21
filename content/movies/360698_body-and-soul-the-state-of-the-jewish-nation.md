@@ -1,0 +1,1 @@
+{"tmdb_id": 360698, "title": "Body and Soul: The State of the Jewish Nation", "original_title": "Body and Soul: The State of the Jewish Nation", "slug_title": "body-and-soul-the-state-of-the-jewish-nation", "date": "2015-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

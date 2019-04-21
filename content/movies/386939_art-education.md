@@ -1,0 +1,1 @@
+{"tmdb_id": 386939, "title": "Art Education", "original_title": "Art Education", "slug_title": "art-education", "date": "1976-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e15C5aMp48ao9XTmjaGhrd0TYB9.jpg", "actors": [], "comments": [], "recommandations_id": []}

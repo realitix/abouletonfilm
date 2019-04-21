@@ -1,0 +1,1 @@
+{"tmdb_id": 117651, "title": "Company", "original_title": "Company", "slug_title": "company", "date": "2012-09-09", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1XnQWaPtpiPF7cJHplv4L9usVS.jpg", "actors": ["Swathi Varma ()", "Medikonda Murali Krishna ()"], "comments": [], "recommandations_id": []}

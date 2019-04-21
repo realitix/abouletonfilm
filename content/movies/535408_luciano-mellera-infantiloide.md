@@ -1,0 +1,1 @@
+{"tmdb_id": 535408, "title": "Luciano Mellera: Infantiloide", "original_title": "Luciano Mellera: Infantiloide", "slug_title": "luciano-mellera-infantiloide", "date": "2018-07-06", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IJMeRfe1fuuD0VHdcHd3VFRst1.jpg", "actors": [], "comments": [], "recommandations_id": []}

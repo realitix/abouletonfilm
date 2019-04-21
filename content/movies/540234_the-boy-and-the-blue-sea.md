@@ -1,0 +1,1 @@
+{"tmdb_id": 540234, "title": "The Boy and the Blue Sea", "original_title": "\u9752\u3044\u6d77\u3068\u5c11\u5e74", "slug_title": "the-boy-and-the-blue-sea", "date": "1983-07-31", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

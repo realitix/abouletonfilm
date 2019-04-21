@@ -1,0 +1,1 @@
+{"tmdb_id": 308566, "title": "Inferno", "original_title": "Inferno", "slug_title": "inferno", "date": "2013-12-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKXGPpX6wbXcnEeXMWRzYS1KM9M.jpg", "actors": ["M\u00e1rcia Pantera ()"], "comments": [], "recommandations_id": []}

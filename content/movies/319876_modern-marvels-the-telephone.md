@@ -1,0 +1,1 @@
+{"tmdb_id": 319876, "title": "Modern Marvels: The Telephone", "original_title": "Modern Marvels: The Telephone", "slug_title": "modern-marvels-the-telephone", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

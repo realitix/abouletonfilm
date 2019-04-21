@@ -1,0 +1,1 @@
+{"tmdb_id": 341993, "title": "Blue Solace", "original_title": "Blue Solace", "slug_title": "blue-solace", "date": "2015-01-21", "genre": "Science-Fiction / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

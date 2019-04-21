@@ -1,0 +1,1 @@
+{"tmdb_id": 339929, "title": "Sicario del infierno", "original_title": "Sicario del infierno", "slug_title": "sicario-del-infierno", "date": "2013-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whcpqzNYIKSd7QCHNbQd2INTU59.jpg", "actors": [], "comments": [], "recommandations_id": []}

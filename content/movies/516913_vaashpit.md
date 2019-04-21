@@ -1,0 +1,1 @@
+{"tmdb_id": 516913, "title": "Vaashpit", "original_title": "Vaashpit", "slug_title": "vaashpit", "date": "2017-12-03", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Savi Sharma ()", "Sahil Sharma ()"], "comments": [], "recommandations_id": []}

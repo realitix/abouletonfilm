@@ -1,0 +1,1 @@
+{"tmdb_id": 322029, "title": "The Swing Years: Sweet Lorraine", "original_title": "The Swing Years: Sweet Lorraine", "slug_title": "the-swing-years-sweet-lorraine", "date": "2005-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

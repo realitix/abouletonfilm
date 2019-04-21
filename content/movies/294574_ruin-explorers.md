@@ -1,0 +1,1 @@
+{"tmdb_id": 294574, "title": "Ruin Explorers", "original_title": "Ruin Explorers", "slug_title": "ruin-explorers", "date": "1995-06-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mCGaOPB3IBGGMMRoCUv8GidlOdt.jpg", "actors": [], "comments": [], "recommandations_id": []}

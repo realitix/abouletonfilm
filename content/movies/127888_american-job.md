@@ -1,0 +1,1 @@
+{"tmdb_id": 127888, "title": "American Job", "original_title": "American Job", "slug_title": "american-job", "date": "1996-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/knZAC0m5Zb2dhl8NUHX8nsgntDD.jpg", "actors": ["Randy Russell (The American Worker)"], "comments": [], "recommandations_id": []}

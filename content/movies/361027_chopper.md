@@ -1,0 +1,1 @@
+{"tmdb_id": 361027, "title": "Chopper", "original_title": "Chopper", "slug_title": "chopper", "date": "2012-07-19", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dV9T8KvaKMvezgfXuIA4cXKbUd9.jpg", "actors": [], "comments": [], "recommandations_id": []}

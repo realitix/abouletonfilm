@@ -1,0 +1,1 @@
+{"tmdb_id": 254058, "title": "Slavek the Shit", "original_title": "Slavek the Shit", "slug_title": "slavek-the-shit", "date": "2005-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5iFV2r3nUdrbv7XXrjcsYCdPS4g.jpg", "actors": [], "comments": [], "recommandations_id": []}

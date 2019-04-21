@@ -1,0 +1,1 @@
+{"tmdb_id": 155386, "title": "La Sierra", "original_title": "La Sierra", "slug_title": "la-sierra", "date": "2005-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYlhfdGp0pRfSbXFm0YymwOe8FB.jpg", "actors": ["Edison Flores ()", "Jesus Martinez ()", "Cielo Mu\u00f1oz ()"], "comments": [], "recommandations_id": []}

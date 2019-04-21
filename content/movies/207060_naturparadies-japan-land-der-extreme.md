@@ -1,0 +1,1 @@
+{"tmdb_id": 207060, "title": "Naturparadies Japan - Land der Extreme", "original_title": "Naturparadies Japan - Land der Extreme", "slug_title": "naturparadies-japan-land-der-extreme", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

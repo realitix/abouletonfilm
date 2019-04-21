@@ -1,0 +1,1 @@
+{"tmdb_id": 351171, "title": "The Hot Spell", "original_title": "The Hot Spell", "slug_title": "the-hot-spell", "date": "1936-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

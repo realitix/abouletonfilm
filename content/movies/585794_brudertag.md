@@ -1,0 +1,1 @@
+{"tmdb_id": 585794, "title": "Brudertag", "original_title": "Brudertag", "slug_title": "brudertag", "date": "2002-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicole Belstler-Boettcher ()", "Christian Schaeffer (Michael)", "Sebastian Str\u00f6bel ()", "Sebastian Winkler ()"], "comments": [], "recommandations_id": []}

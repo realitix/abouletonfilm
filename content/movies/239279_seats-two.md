@@ -1,0 +1,1 @@
+{"tmdb_id": 239279, "title": "Seats Two", "original_title": "Seats Two", "slug_title": "seats-two", "date": "1970-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5BWCjwFWRvAJPdIphUkeBDelhJA.jpg", "actors": [], "comments": [], "recommandations_id": []}

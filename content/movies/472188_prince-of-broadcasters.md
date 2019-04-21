@@ -1,0 +1,1 @@
+{"tmdb_id": 472188, "title": "Prince of Broadcasters", "original_title": "Prince of Broadcasters", "slug_title": "prince-of-broadcasters", "date": "1966-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick Tse Yin (To Wai-Wah)", "Chan Chi Chung (Tong Mei-Fan)"], "comments": [], "recommandations_id": []}

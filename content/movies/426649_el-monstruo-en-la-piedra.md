@@ -1,0 +1,1 @@
+{"tmdb_id": 426649, "title": "El monstruo en la piedra", "original_title": "El monstruo en la piedra", "slug_title": "el-monstruo-en-la-piedra", "date": "2016-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j2TxnD7qVZliSa4lvrUHMsbfwuk.jpg", "actors": [], "comments": [], "recommandations_id": []}

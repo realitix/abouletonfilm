@@ -1,0 +1,1 @@
+{"tmdb_id": 201150, "title": "The Hot Air Salesman", "original_title": "The Hot Air Salesman", "slug_title": "the-hot-air-salesman", "date": "1937-03-12", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6NZTwzFAoTbzLjLy3PMlWgoCrO6.jpg", "actors": [], "comments": [], "recommandations_id": []}

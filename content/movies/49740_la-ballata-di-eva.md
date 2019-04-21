@@ -1,0 +1,1 @@
+{"tmdb_id": 49740, "title": "La ballata di Eva", "original_title": "La ballata di Eva", "slug_title": "la-ballata-di-eva", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

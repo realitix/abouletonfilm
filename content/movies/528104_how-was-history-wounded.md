@@ -1,0 +1,1 @@
+{"tmdb_id": 528104, "title": "How Was History Wounded", "original_title": "\u6b77\u53f2\u5982\u4f55\u6210\u70ba\u50b7\u53e3", "slug_title": "how-was-history-wounded", "date": "1989-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

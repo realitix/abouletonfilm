@@ -1,0 +1,1 @@
+{"tmdb_id": 577788, "title": "Negro Colleges in War Time", "original_title": "Negro Colleges in War Time", "slug_title": "negro-colleges-in-war-time", "date": "1943-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Washington Carver ()", "Charles R. Drew ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311952, "title": "Sex, Drugs and Stu", "original_title": "Sex, Drugs and Stu", "slug_title": "sex-drugs-and-stu", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

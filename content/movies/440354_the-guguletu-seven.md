@@ -1,0 +1,1 @@
+{"tmdb_id": 440354, "title": "The Guguletu Seven", "original_title": "The Guguletu Seven", "slug_title": "the-guguletu-seven", "date": "2000-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

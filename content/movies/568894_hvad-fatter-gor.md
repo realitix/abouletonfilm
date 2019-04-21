@@ -1,0 +1,1 @@
+{"tmdb_id": 568894, "title": "Hvad Fatter G\u00f8r", "original_title": "Hvad Fatter G\u00f8r", "slug_title": "hvad-fatter-gor", "date": "2018-10-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u5bBjWxlejOLBYrZ63fO931yEd0.jpg", "actors": ["Mikkel Rask (Self)"], "comments": [], "recommandations_id": []}

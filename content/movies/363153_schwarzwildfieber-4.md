@@ -1,0 +1,1 @@
+{"tmdb_id": 363153, "title": "Schwarzwildfieber 4", "original_title": "Schwarzwildfieber 4", "slug_title": "schwarzwildfieber-4", "date": "2012-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

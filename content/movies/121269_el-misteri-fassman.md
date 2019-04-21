@@ -1,0 +1,1 @@
+{"tmdb_id": 121269, "title": "El misteri Fassman", "original_title": "El misteri Fassman", "slug_title": "el-misteri-fassman", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTNz5p8geSS07kaoHpfiNt0zufv.jpg", "actors": [], "comments": [], "recommandations_id": []}

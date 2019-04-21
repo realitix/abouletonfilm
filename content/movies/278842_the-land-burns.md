@@ -1,0 +1,1 @@
+{"tmdb_id": 278842, "title": "The Land Burns", "original_title": "La Tierra Quema", "slug_title": "the-land-burns", "date": "1964-08-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKYD0IsX0PKciN0E84PGZ8pmsaz.jpg", "actors": [], "comments": [], "recommandations_id": []}

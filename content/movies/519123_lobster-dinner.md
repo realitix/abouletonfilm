@@ -1,0 +1,1 @@
+{"tmdb_id": 519123, "title": "Lobster Dinner", "original_title": "Cena d\u2019aragoste", "slug_title": "lobster-dinner", "date": "2018-04-19", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6iACTiWGUAKQcGLiMfvErzDebgr.jpg", "actors": [], "comments": [], "recommandations_id": []}

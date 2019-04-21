@@ -1,0 +1,1 @@
+{"tmdb_id": 279054, "title": "Antony and Cleopatra", "original_title": "Antony and Cleopatra", "slug_title": "antony-and-cleopatra", "date": "1914-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 463687, "title": "Buster's Revenge on the Tramp", "original_title": "Buster's Revenge on the Tramp", "slug_title": "buster-s-revenge-on-the-tramp", "date": "1904-03-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

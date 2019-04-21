@@ -1,0 +1,1 @@
+{"tmdb_id": 403169, "title": "Chez le docteur", "original_title": "Chez le docteur", "slug_title": "chez-le-docteur", "date": "1925-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

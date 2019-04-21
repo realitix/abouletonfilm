@@ -1,0 +1,1 @@
+{"tmdb_id": 148243, "title": "Bluebeard", "original_title": "Barbe-Bleue", "slug_title": "bluebeard", "date": "1936-12-31", "genre": "Animation / Musique", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdwVC18URfEdQjjxqJyRMoGDC0H.jpg", "actors": [], "comments": [], "recommandations_id": [117588, 151441, 147615, 196625]}

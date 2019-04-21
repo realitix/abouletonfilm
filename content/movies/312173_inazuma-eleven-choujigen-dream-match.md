@@ -1,0 +1,1 @@
+{"tmdb_id": 312173, "title": "Inazuma Eleven ChouJigen Dream Match", "original_title": "Inazuma Eleven ChouJigen Dream Match", "slug_title": "inazuma-eleven-choujigen-dream-match", "date": "2014-06-13", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

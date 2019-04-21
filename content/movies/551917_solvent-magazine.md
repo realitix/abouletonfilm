@@ -1,0 +1,1 @@
+{"tmdb_id": 551917, "title": "Solvent Magazine", "original_title": "Solvent Magazine", "slug_title": "solvent-magazine", "date": "2018-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

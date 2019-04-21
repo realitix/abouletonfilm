@@ -1,0 +1,1 @@
+{"tmdb_id": 445943, "title": "Tulay Buhay", "original_title": "Tulay Buhay", "slug_title": "tulay-buhay", "date": "2017-03-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbFBFiE0aLb9KXlQUgomRivF3EU.jpg", "actors": ["Meil Espinoza ()", "Cataleya Surio ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 348800, "title": "Carnival of Errors", "original_title": "Carnival of Errors", "slug_title": "carnival-of-errors", "date": "2008-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrea Rabold (Snuffles the Clown)"], "comments": [], "recommandations_id": []}

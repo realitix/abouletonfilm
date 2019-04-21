@@ -1,0 +1,1 @@
+{"tmdb_id": 339548, "title": "Gegege no Kitaro: The Movie", "original_title": "Gegege no Kitaro: The Movie", "slug_title": "gegege-no-kitaro-the-movie", "date": "1985-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272391, "title": "Afrique sur Seine", "original_title": "Afrique sur Seine", "slug_title": "afrique-sur-seine", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SCoEomQombsHrMHiez7P8a1v22.jpg", "actors": [], "comments": [], "recommandations_id": []}

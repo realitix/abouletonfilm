@@ -1,0 +1,1 @@
+{"tmdb_id": 485040, "title": "Bobbi Loves Boys", "original_title": "Bobbi Loves Boys", "slug_title": "bobbi-loves-boys", "date": "2011-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwQHWnBx84FH5omtJCWAj9DocI5.jpg", "actors": ["Bobbi Starr (Herself)"], "comments": [], "recommandations_id": []}

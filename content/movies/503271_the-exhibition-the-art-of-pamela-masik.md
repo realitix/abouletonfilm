@@ -1,0 +1,1 @@
+{"tmdb_id": 503271, "title": "The Exhibition - The Art of Pamela Masik", "original_title": "The Exhibition - The Art of Pamela Masik", "slug_title": "the-exhibition-the-art-of-pamela-masik", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

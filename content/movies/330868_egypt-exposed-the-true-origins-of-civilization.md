@@ -1,0 +1,1 @@
+{"tmdb_id": 330868, "title": "Egypt Exposed: The True Origins of Civilization", "original_title": "Egypt Exposed: The True Origins of Civilization", "slug_title": "egypt-exposed-the-true-origins-of-civilization", "date": "2010-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

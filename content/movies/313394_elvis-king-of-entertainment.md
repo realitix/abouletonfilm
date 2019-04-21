@@ -1,0 +1,1 @@
+{"tmdb_id": 313394, "title": "Elvis: King of Entertainment", "original_title": "Elvis: King of Entertainment", "slug_title": "elvis-king-of-entertainment", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRmNEnj3bHvEGQryKpQBi3yg8EN.jpg", "actors": [], "comments": [], "recommandations_id": []}

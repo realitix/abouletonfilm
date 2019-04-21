@@ -1,0 +1,1 @@
+{"tmdb_id": 235094, "title": "Christ Church \u2013 Saint James", "original_title": "Christ Church \u2013 Saint James", "slug_title": "christ-church-saint-james", "date": "2011-11-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rtb0AzhVSMdo2mf70zhvJD2JGhr.jpg", "actors": [], "comments": [], "recommandations_id": []}

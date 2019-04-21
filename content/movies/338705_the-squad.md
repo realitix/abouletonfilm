@@ -1,0 +1,1 @@
+{"tmdb_id": 338705, "title": "The Squad", "original_title": "The Squad", "slug_title": "the-squad", "date": "2001-01-01", "genre": "Drame / Thriller / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

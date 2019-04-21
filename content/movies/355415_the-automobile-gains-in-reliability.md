@@ -1,0 +1,1 @@
+{"tmdb_id": 355415, "title": "The Automobile Gains in Reliability", "original_title": "Avtomobil nabiraet nadezhnost", "slug_title": "the-automobile-gains-in-reliability", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

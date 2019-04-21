@@ -1,0 +1,1 @@
+{"tmdb_id": 233623, "title": "Ja-in no yakata", "original_title": "Ja-in no yakata", "slug_title": "ja-in-no-yakata", "date": "1970-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yaAzkSY8Ny6Vz7CN8aAd9QgoZaK.jpg", "actors": ["Kaoru Miya ()", "Kazuko Takatori ()"], "comments": [], "recommandations_id": []}

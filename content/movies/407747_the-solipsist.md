@@ -1,0 +1,1 @@
+{"tmdb_id": 407747, "title": "The Solipsist", "original_title": "The Solipsist", "slug_title": "the-solipsist", "date": "1991-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

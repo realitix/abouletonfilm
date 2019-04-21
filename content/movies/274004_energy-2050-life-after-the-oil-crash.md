@@ -1,0 +1,1 @@
+{"tmdb_id": 274004, "title": "Energy 2050 - Life After the Oil Crash", "original_title": "Energy 2050 - Life After the Oil Crash", "slug_title": "energy-2050-life-after-the-oil-crash", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

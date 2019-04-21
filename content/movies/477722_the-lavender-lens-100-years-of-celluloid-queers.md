@@ -1,0 +1,1 @@
+{"tmdb_id": 477722, "title": "The Lavender Lens - 100 Years of Celluloid Queers", "original_title": "The Lavender Lens - 100 Years of Celluloid Queers", "slug_title": "the-lavender-lens-100-years-of-celluloid-queers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

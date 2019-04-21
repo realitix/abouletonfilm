@@ -1,0 +1,1 @@
+{"tmdb_id": 540477, "title": "La batalla de Chern\u00f3bil", "original_title": "La batalla de Chern\u00f3bil", "slug_title": "la-batalla-de-chernobil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

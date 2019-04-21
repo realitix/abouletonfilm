@@ -1,0 +1,1 @@
+{"tmdb_id": 229966, "title": "Fire of Waters", "original_title": "Fire of Waters", "slug_title": "fire-of-waters", "date": "1965-01-01", "genre": "", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fq1aRJoMhd6Kpz05Gq5ZiCXgNgI.jpg", "actors": [], "comments": [], "recommandations_id": [166714, 196198, 246804, 146200]}

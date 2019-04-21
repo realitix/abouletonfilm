@@ -1,0 +1,1 @@
+{"tmdb_id": 564139, "title": "Paper Moon", "original_title": "Paper Moon", "slug_title": "paper-moon", "date": "1949-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

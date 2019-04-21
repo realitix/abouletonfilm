@@ -1,0 +1,1 @@
+{"tmdb_id": 406965, "title": "A Warm Day Comes after a Cold Winter", "original_title": "A Warm Day Comes after a Cold Winter", "slug_title": "a-warm-day-comes-after-a-cold-winter", "date": "1995-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

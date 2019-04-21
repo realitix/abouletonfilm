@@ -1,0 +1,1 @@
+{"tmdb_id": 505494, "title": "Kurira Ijisho rImwe 1", "original_title": "Kurira Ijisho rImwe 1", "slug_title": "kurira-ijisho-rimwe-1", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkl5fWKZnIQG2ufurHdoyzhfznG.jpg", "actors": [], "comments": [], "recommandations_id": []}

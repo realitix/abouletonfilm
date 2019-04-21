@@ -1,0 +1,1 @@
+{"tmdb_id": 236681, "title": "Flop Goes the Weasel", "original_title": "Flop Goes the Weasel", "slug_title": "flop-goes-the-weasel", "date": "1943-03-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLfkHoGJnVDe7Hptj1mmfTkdvJZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

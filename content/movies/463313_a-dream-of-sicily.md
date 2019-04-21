@@ -1,0 +1,1 @@
+{"tmdb_id": 463313, "title": "A Dream of Sicily", "original_title": "Un sogno fatto in Sicilia", "slug_title": "a-dream-of-sicily", "date": "2000-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giuseppe Tornatore (Himself)", "Francesco Rosi (Himself)", "Peppino Ducato (Himself)"], "comments": [], "recommandations_id": []}

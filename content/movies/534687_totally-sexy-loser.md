@@ -1,0 +1,1 @@
+{"tmdb_id": 534687, "title": "Totally Sexy Loser", "original_title": "Totally Sexy Loser", "slug_title": "totally-sexy-loser", "date": "2003-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chad Lindsey (Jeremy)", "Mark DeWhitt (Chip)", "Craig Robert Young (Evan)"], "comments": [], "recommandations_id": []}

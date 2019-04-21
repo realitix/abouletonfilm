@@ -1,0 +1,1 @@
+{"tmdb_id": 60757, "title": "Wo Ai Ni Mommy", "original_title": "Wo Ai Ni Mommy", "slug_title": "wo-ai-ni-mommy", "date": "2010-08-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwvYjOJ8HBXG2xY2i2TWBhhKScG.jpg", "actors": [], "comments": [], "recommandations_id": []}

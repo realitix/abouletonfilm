@@ -1,0 +1,1 @@
+{"tmdb_id": 394587, "title": "O \u00daLTIMO KUARUP BRANCO", "original_title": "O \u00daLTIMO KUARUP BRANCO", "slug_title": "o-ultimo-kuarup-branco", "date": "2007-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Orlando Villas Boas ()", "Cl\u00e1udio Villas-Boas ()"], "comments": [], "recommandations_id": []}

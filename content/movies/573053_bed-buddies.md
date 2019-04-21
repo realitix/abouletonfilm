@@ -1,0 +1,1 @@
+{"tmdb_id": 573053, "title": "Bed Buddies", "original_title": "Bed Buddies", "slug_title": "bed-buddies", "date": "2016-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/plV8rR53Gn3XCP140FUX8fMuMXN.jpg", "actors": [], "comments": [], "recommandations_id": []}

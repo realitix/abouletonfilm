@@ -1,0 +1,1 @@
+{"tmdb_id": 554932, "title": "Designing the World of Vendetta", "original_title": "Designing the World of Vendetta", "slug_title": "designing-the-world-of-vendetta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

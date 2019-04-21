@@ -1,0 +1,1 @@
+{"tmdb_id": 544662, "title": "Nascida para Matar", "original_title": "Nascida para Matar", "slug_title": "nascida-para-matar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avTP3JTH1tg8YM8cTk0KHDIbYLm.jpg", "actors": [], "comments": [], "recommandations_id": []}

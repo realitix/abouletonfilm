@@ -1,0 +1,1 @@
+{"tmdb_id": 337518, "title": "Artzainak: Shepherds and Sheep", "original_title": "Artzainak: Shepherds and Sheep", "slug_title": "artzainak-shepherds-and-sheep", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

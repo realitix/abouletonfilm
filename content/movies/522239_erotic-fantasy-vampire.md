@@ -1,0 +1,1 @@
+{"tmdb_id": 522239, "title": "Erotic Fantasy Vampire", "original_title": "Erotic Fantasy Vampire", "slug_title": "erotic-fantasy-vampire", "date": "1999-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5sWbxOXwbu8isSmVyHa5qHK9eQ.jpg", "actors": ["Leslie Culton ()"], "comments": [], "recommandations_id": []}

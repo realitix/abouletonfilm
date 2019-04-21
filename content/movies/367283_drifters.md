@@ -1,0 +1,1 @@
+{"tmdb_id": 367283, "title": "Drifters", "original_title": "Drifters", "slug_title": "drifters", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bEPfD6rk9XCi0JWldu5awkVppZc.jpg", "actors": ["Sarah Goldberg (Clara Norris)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 234468, "title": "I Was a Teenage Thumb", "original_title": "I Was a Teenage Thumb", "slug_title": "i-was-a-teenage-thumb", "date": "1963-01-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOgsSBZJyResxbYL9gDJGINmiDA.jpg", "actors": [], "comments": [], "recommandations_id": []}

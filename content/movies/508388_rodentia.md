@@ -1,0 +1,1 @@
+{"tmdb_id": 508388, "title": "Rodentia", "original_title": "Rodentia", "slug_title": "rodentia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yEzoPiiz6IkvZPhI3Q1PnwjZ4ic.jpg", "actors": [], "comments": [], "recommandations_id": []}

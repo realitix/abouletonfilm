@@ -1,0 +1,1 @@
+{"tmdb_id": 305172, "title": "Nazis: Monsters of Manipulation", "original_title": "Nazis: Monsters of Manipulation", "slug_title": "nazis-monsters-of-manipulation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

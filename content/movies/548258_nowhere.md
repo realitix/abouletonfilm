@@ -1,0 +1,1 @@
+{"tmdb_id": 548258, "title": "Nowhere", "original_title": "Nowhere", "slug_title": "nowhere", "date": "2018-09-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLq5GFdaaiwjm1ST972ycWRNbpO.jpg", "actors": ["Skender Morina (Strange Guy)"], "comments": [], "recommandations_id": []}

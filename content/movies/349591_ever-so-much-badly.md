@@ -1,0 +1,1 @@
+{"tmdb_id": 349591, "title": "Ever So Much, Badly", "original_title": "\ub108\ubb34\ud569\ub2c8\ub2e4", "slug_title": "ever-so-much-badly", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

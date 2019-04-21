@@ -1,0 +1,1 @@
+{"tmdb_id": 476565, "title": "Una Comedia Macabra", "original_title": "Una Comedia Macabra", "slug_title": "una-comedia-macabra", "date": "2017-09-21", "genre": "Com\u00e9die / Horreur", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

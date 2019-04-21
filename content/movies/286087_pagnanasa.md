@@ -1,0 +1,1 @@
+{"tmdb_id": 286087, "title": "Pagnanasa", "original_title": "Pagnanasa", "slug_title": "pagnanasa", "date": "1998-11-16", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gary Estrada (Rodel)", "Samantha Lopez ()", "Ynez Veneracion (Aleli)"], "comments": [], "recommandations_id": []}

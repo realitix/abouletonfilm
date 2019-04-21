@@ -1,0 +1,1 @@
+{"tmdb_id": 387490, "title": "Let's Dance", "original_title": "Let's Dance", "slug_title": "let-s-dance", "date": "1933-03-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Burns (George)", "Gracie Allen (Gracie)", "Barton MacLane ()"], "comments": [], "recommandations_id": []}

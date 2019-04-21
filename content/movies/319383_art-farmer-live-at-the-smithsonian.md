@@ -1,0 +1,1 @@
+{"tmdb_id": 319383, "title": "Art Farmer: Live at the Smithsonian", "original_title": "Art Farmer: Live at the Smithsonian", "slug_title": "art-farmer-live-at-the-smithsonian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

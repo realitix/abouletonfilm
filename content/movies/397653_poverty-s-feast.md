@@ -1,0 +1,1 @@
+{"tmdb_id": 397653, "title": "Poverty's Feast", "original_title": "El manjar de los pobres", "slug_title": "poverty-s-feast", "date": "2014-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijJjYjSqvvewZtKR9EcRAZ85IEZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

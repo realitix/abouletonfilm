@@ -1,0 +1,1 @@
+{"tmdb_id": 351143, "title": "Birdland", "original_title": "Birdland", "slug_title": "birdland", "date": "1935-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

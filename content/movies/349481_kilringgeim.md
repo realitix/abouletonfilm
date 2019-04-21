@@ -1,0 +1,1 @@
+{"tmdb_id": 349481, "title": "\ud0ac\ub9c1\uac8c\uc784", "original_title": "\ud0ac\ub9c1\uac8c\uc784", "slug_title": "kilringgeim", "date": "1996-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

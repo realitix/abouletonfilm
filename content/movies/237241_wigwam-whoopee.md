@@ -1,0 +1,1 @@
+{"tmdb_id": 237241, "title": "Wigwam Whoopee", "original_title": "Wigwam Whoopee", "slug_title": "wigwam-whoopee", "date": "1948-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lLncMrsZkh0qCjKlnzB6rbGTBx.jpg", "actors": [], "comments": [], "recommandations_id": []}

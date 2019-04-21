@@ -1,0 +1,1 @@
+{"tmdb_id": 573618, "title": "Shinobugawa", "original_title": "Shinobugawa", "slug_title": "shinobugawa", "date": "2002-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5RwDaD128N2pWzofU6AZaZbXLo9.jpg", "actors": [], "comments": [], "recommandations_id": []}

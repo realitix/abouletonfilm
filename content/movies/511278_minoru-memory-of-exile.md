@@ -1,0 +1,1 @@
+{"tmdb_id": 511278, "title": "Minoru: Memory of Exile", "original_title": "Minoru: Memory of Exile", "slug_title": "minoru-memory-of-exile", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

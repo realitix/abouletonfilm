@@ -1,0 +1,1 @@
+{"tmdb_id": 570452, "title": "The Picture of Dorian Gray", "original_title": "The Picture of Dorian Gray", "slug_title": "the-picture-of-dorian-gray", "date": "1913-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wallace Reid (Dorian Gray)"], "comments": [], "recommandations_id": []}

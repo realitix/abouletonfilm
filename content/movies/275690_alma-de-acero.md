@@ -1,0 +1,1 @@
+{"tmdb_id": 275690, "title": "Alma de Acero", "original_title": "Alma de Acero", "slug_title": "alma-de-acero", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRyCPqQVmy6MZPcrF2R1AAEYZRh.jpg", "actors": [], "comments": [], "recommandations_id": []}

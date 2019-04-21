@@ -1,0 +1,1 @@
+{"tmdb_id": 506190, "title": "Nonsense Newsreel", "original_title": "Nonsense Newsreel", "slug_title": "nonsense-newsreel", "date": "1954-03-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

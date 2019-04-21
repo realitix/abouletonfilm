@@ -1,0 +1,1 @@
+{"tmdb_id": 184627, "title": "Shot in Bombay", "original_title": "Shot in Bombay", "slug_title": "shot-in-bombay", "date": "2008-01-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

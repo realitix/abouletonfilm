@@ -1,0 +1,1 @@
+{"tmdb_id": 294814, "title": "Guns N' Roses - Rock in Rio 2001", "original_title": "Guns N' Roses - Rock in Rio 2001", "slug_title": "guns-n-roses-rock-in-rio-2001", "date": "2001-01-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

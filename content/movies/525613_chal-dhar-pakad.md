@@ -1,0 +1,1 @@
+{"tmdb_id": 525613, "title": "Chal Dhar Pakad", "original_title": "Chal Dhar Pakad", "slug_title": "chal-dhar-pakad", "date": "2010-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebGrnFVMIdGpemxL0jbyisu1CLV.jpg", "actors": [], "comments": [], "recommandations_id": []}

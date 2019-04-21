@@ -1,0 +1,1 @@
+{"tmdb_id": 505898, "title": "Devil's Night", "original_title": "Devil's Night", "slug_title": "devil-s-night", "date": "2014-03-19", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mia Vulic (Girl)", "Sean Langworth (Police Officer)"], "comments": [], "recommandations_id": []}

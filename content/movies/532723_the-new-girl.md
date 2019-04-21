@@ -1,0 +1,1 @@
+{"tmdb_id": 532723, "title": "The New Girl", "original_title": "The New Girl", "slug_title": "the-new-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

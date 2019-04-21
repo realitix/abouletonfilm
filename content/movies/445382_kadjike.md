@@ -1,0 +1,1 @@
+{"tmdb_id": 445382, "title": "Kadjike", "original_title": "Kadjike", "slug_title": "kadjike", "date": "2013-06-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m72VYUUJsNf2uni3W7bmVPVTn67.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313938, "title": "Row, Row, Row", "original_title": "Row, Row, Row", "slug_title": "row-row-row", "date": "1930-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

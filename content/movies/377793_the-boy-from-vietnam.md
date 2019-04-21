@@ -1,0 +1,1 @@
+{"tmdb_id": 377793, "title": "The Boy from Vietnam", "original_title": "The Boy from Vietnam", "slug_title": "the-boy-from-vietnam", "date": "1978-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Addc068M2gwTeXmQShWiuVfVqKU.jpg", "actors": [], "comments": [], "recommandations_id": []}

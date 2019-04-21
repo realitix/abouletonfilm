@@ -1,0 +1,1 @@
+{"tmdb_id": 506779, "title": "\u041c\u043e\u0439 \u0441\u044b\u043d (My Son)", "original_title": "\u041c\u043e\u0439 \u0441\u044b\u043d (My Son)", "slug_title": "moi-syn-my-son", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

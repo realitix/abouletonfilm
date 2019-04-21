@@ -1,0 +1,1 @@
+{"tmdb_id": 336017, "title": "Freedom Writers: Stories from an Undeclared War", "original_title": "Freedom Writers: Stories from an Undeclared War", "slug_title": "freedom-writers-stories-from-an-undeclared-war", "date": "", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

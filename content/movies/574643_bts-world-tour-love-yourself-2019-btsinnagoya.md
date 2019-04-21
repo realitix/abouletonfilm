@@ -1,0 +1,1 @@
+{"tmdb_id": 574643, "title": "BTS World Tour: Love Yourself 2019 #BTSinNAGOYA", "original_title": "BTS World Tour: Love Yourself 2019 #BTSinNAGOYA", "slug_title": "bts-world-tour-love-yourself-2019-btsinnagoya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

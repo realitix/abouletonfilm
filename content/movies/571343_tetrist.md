@@ -1,0 +1,1 @@
+{"tmdb_id": 571343, "title": "Tetrist", "original_title": "Tetrist", "slug_title": "tetrist", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7NLvwWEHJgEWrfjvXWpdtbd0kn6.jpg", "actors": [], "comments": [], "recommandations_id": []}

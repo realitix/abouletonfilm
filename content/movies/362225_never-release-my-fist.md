@@ -1,0 +1,1 @@
+{"tmdb_id": 362225, "title": "Never Release My Fist", "original_title": "Never Release My Fist", "slug_title": "never-release-my-fist", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

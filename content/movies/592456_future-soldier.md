@@ -1,0 +1,1 @@
+{"tmdb_id": 592456, "title": "Future Soldier", "original_title": "Future Soldier", "slug_title": "future-soldier", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Solomon B Taiwo (tyco)"], "comments": [], "recommandations_id": []}

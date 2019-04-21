@@ -1,0 +1,1 @@
+{"tmdb_id": 25521, "title": "Baja Beach Bums", "original_title": "Baja Beach Bums", "slug_title": "baja-beach-bums", "date": "2009-01-01", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VfnYMEU8eOChnT9rmBJC6Frscn.jpg", "actors": [], "comments": [], "recommandations_id": []}

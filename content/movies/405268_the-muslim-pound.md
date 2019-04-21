@@ -1,0 +1,1 @@
+{"tmdb_id": 405268, "title": "The Muslim Pound", "original_title": "The Muslim Pound", "slug_title": "the-muslim-pound", "date": "2016-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Xf4dKEu1Ofwck9nFCC8ZbKc4QO.jpg", "actors": [], "comments": [], "recommandations_id": []}

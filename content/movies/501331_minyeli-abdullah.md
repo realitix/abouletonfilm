@@ -1,0 +1,1 @@
+{"tmdb_id": 501331, "title": "Minyeli Abdullah", "original_title": "Minyeli Abdullah", "slug_title": "minyeli-abdullah", "date": "1990-02-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Berhan \u015eim\u015fek (Abdullah)", "Perihan Sava\u015f ()"], "comments": [], "recommandations_id": []}

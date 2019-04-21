@@ -1,0 +1,1 @@
+{"tmdb_id": 406152, "title": "Libertados", "original_title": "Libertados", "slug_title": "libertados", "date": "2014-07-13", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dKDqP6jYXuExXaw9B2QbqS6Zi59.jpg", "actors": [], "comments": [], "recommandations_id": []}

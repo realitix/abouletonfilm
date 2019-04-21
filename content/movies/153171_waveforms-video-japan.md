@@ -1,0 +1,1 @@
+{"tmdb_id": 153171, "title": "Waveforms: Video/Japan", "original_title": "Waveforms: Video/Japan", "slug_title": "waveforms-video-japan", "date": "1989-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mY1M7ALQEgdp8A2zFBDNM44zSn.jpg", "actors": [], "comments": [], "recommandations_id": []}

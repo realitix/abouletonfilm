@@ -1,0 +1,1 @@
+{"tmdb_id": 272280, "title": "When the Smoke Clears", "original_title": "When the Smoke Clears", "slug_title": "when-the-smoke-clears", "date": "2008-06-24", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

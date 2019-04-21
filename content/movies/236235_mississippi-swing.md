@@ -1,0 +1,1 @@
+{"tmdb_id": 236235, "title": "Mississippi Swing", "original_title": "Mississippi Swing", "slug_title": "mississippi-swing", "date": "1939-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

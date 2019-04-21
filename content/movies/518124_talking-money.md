@@ -1,0 +1,1 @@
+{"tmdb_id": 518124, "title": "Talking Money", "original_title": "Talking Money", "slug_title": "talking-money", "date": "2018-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

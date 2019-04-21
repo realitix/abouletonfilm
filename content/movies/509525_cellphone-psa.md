@@ -1,0 +1,1 @@
+{"tmdb_id": 509525, "title": "Cellphone PSA", "original_title": "Cellphone PSA", "slug_title": "cellphone-psa", "date": "2017-06-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

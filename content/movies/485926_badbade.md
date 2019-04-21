@@ -1,0 +1,1 @@
+{"tmdb_id": 485926, "title": "Badbade", "original_title": "Badbade", "slug_title": "badbade", "date": "1970-10-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7vVW97Ssrdjrjf0udDgOiYKhKD0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550922, "title": "I Go Seek", "original_title": "\u042f \u0438\u0434\u0443 \u0438\u0441\u043a\u0430\u0442\u044c", "slug_title": "i-go-seek", "date": "1992-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353825, "title": "Dumb-Belles", "original_title": "Dumb-Belles", "slug_title": "dumb-belles", "date": "1927-06-10", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Buddy Messinger ()", "Henry Roquemore ()", "Sunkist Bathing Beauties ()"], "comments": [], "recommandations_id": []}

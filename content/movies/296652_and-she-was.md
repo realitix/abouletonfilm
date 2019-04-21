@@ -1,0 +1,1 @@
+{"tmdb_id": 296652, "title": "And She Was", "original_title": "And She Was", "slug_title": "and-she-was", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

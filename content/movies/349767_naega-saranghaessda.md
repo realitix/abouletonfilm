@@ -1,0 +1,1 @@
+{"tmdb_id": 349767, "title": "\ub0b4\uac00 \uc0ac\ub791\ud588\ub2e4", "original_title": "\ub0b4\uac00 \uc0ac\ub791\ud588\ub2e4", "slug_title": "naega-saranghaessda", "date": "1982-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523831, "title": "Blood Strangler", "original_title": "Blood Strangler", "slug_title": "blood-strangler", "date": "2018-05-04", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mh64Wn7dd5I3IeLdJ6xxQtEPNQD.jpg", "actors": [], "comments": [], "recommandations_id": []}

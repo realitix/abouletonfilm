@@ -1,0 +1,1 @@
+{"tmdb_id": 247671, "title": "English", "original_title": "Haiti: Triumph Sorrow & the Struggle of a People", "slug_title": "english", "date": "", "genre": "", "score": "9.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzIHi1IZdTAt1zxTIpAYREAYHh.jpg", "actors": [], "comments": [], "recommandations_id": []}

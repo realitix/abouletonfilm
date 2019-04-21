@@ -1,0 +1,1 @@
+{"tmdb_id": 236104, "title": "Saved by the Bell", "original_title": "Saved by the Bell", "slug_title": "saved-by-the-bell", "date": "1950-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

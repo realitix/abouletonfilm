@@ -1,0 +1,1 @@
+{"tmdb_id": 556987, "title": "Laurette ou Le cachet rouge", "original_title": "Laurette ou Le cachet rouge", "slug_title": "laurette-ou-le-cachet-rouge", "date": "1931-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

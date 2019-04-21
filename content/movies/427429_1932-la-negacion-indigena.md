@@ -1,0 +1,1 @@
+{"tmdb_id": 427429, "title": "1932, la negaci\u00f3n ind\u00edgena", "original_title": "1932, la negaci\u00f3n ind\u00edgena", "slug_title": "1932-la-negacion-indigena", "date": "2007-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

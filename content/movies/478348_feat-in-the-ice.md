@@ -1,0 +1,1 @@
+{"tmdb_id": 478348, "title": "Feat in the Ice", "original_title": "Podvig vo ldakh", "slug_title": "feat-in-the-ice", "date": "1928-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

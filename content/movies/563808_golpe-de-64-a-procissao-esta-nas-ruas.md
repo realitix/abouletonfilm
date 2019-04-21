@@ -1,0 +1,1 @@
+{"tmdb_id": 563808, "title": "Golpe de 64: a prociss\u00e3o est\u00e1 nas ruas", "original_title": "Golpe de 64: a prociss\u00e3o est\u00e1 nas ruas", "slug_title": "golpe-de-64-a-procissao-esta-nas-ruas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

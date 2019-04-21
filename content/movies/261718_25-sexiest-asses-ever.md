@@ -1,0 +1,1 @@
+{"tmdb_id": 261718, "title": "25 Sexiest Asses Ever", "original_title": "25 Sexiest Asses Ever", "slug_title": "25-sexiest-asses-ever", "date": "2011-04-19", "genre": "", "score": "9.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

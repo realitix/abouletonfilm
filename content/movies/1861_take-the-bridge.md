@@ -1,0 +1,1 @@
+{"tmdb_id": 1861, "title": "Take The Bridge", "original_title": "Take The Bridge", "slug_title": "take-the-bridge", "date": "2007-01-01", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adri\u00e1n Castilla (Elias)", "Sergio M. Castilla (Liberator)"], "comments": [], "recommandations_id": []}

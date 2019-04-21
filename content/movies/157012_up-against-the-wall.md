@@ -1,0 +1,1 @@
+{"tmdb_id": 157012, "title": "Up Against the Wall", "original_title": "Kniven p\u00e5 strupen", "slug_title": "up-against-the-wall", "date": "2010-10-31", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

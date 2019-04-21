@@ -1,0 +1,1 @@
+{"tmdb_id": 569590, "title": "Elephant Path \u2013 Njaia Njoku", "original_title": "Njaia Njoku", "slug_title": "elephant-path-njaia-njoku", "date": "2018-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uON0FQlX9KMF66omkhhHC41G9u5.jpg", "actors": [], "comments": [], "recommandations_id": []}

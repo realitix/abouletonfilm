@@ -1,0 +1,1 @@
+{"tmdb_id": 369076, "title": "Pale peko bantu mambo ayikosake", "original_title": "Pale peko bantu mambo ayikosake", "slug_title": "pale-peko-bantu-mambo-ayikosake", "date": "2008-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520940, "title": "The Making of Miss Hokusai", "original_title": "The Making of Miss Hokusai", "slug_title": "the-making-of-miss-hokusai", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Keiichi Hara (Director)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311750, "title": "Warrant: Born Again: Delvis Video Diaries", "original_title": "Warrant: Born Again: Delvis Video Diaries", "slug_title": "warrant-born-again-delvis-video-diaries", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

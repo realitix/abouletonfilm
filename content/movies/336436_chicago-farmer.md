@@ -1,0 +1,1 @@
+{"tmdb_id": 336436, "title": "Chicago Farmer", "original_title": "Chicago Farmer", "slug_title": "chicago-farmer", "date": "2012-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56ebqKzpYVErsvTqzYmdu3SwYnK.jpg", "actors": [], "comments": [], "recommandations_id": []}

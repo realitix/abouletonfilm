@@ -1,0 +1,1 @@
+{"tmdb_id": 563963, "title": "Haruka naru Yakusoku", "original_title": "Haruka naru Yakusoku", "slug_title": "haruka-naru-yakusoku", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hitomi Kuroki (Hachiya Hisako)", "Hiroshi Abe (Hachiya Yasaburo)", "Mahiru Konno (Hachiya Kumiko)"], "comments": [], "recommandations_id": []}

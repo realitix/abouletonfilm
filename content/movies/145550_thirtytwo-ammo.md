@@ -1,0 +1,1 @@
+{"tmdb_id": 145550, "title": "ThirtyTwo: Ammo", "original_title": "ThirtyTwo: Ammo", "slug_title": "thirtytwo-ammo", "date": "2011-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQzCOq7GNwvUznMLCUN4nwpbrep.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486749, "title": "The Truth About Irish Hip Hop", "original_title": "The Truth About Irish Hip Hop", "slug_title": "the-truth-about-irish-hip-hop", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6PLVts6sI2PCUOdUk2bu84MvNx.jpg", "actors": [], "comments": [], "recommandations_id": []}

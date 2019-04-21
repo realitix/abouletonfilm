@@ -1,0 +1,1 @@
+{"tmdb_id": 360621, "title": "Banacek-Detour to Nowhere", "original_title": "Banacek-Detour to Nowhere", "slug_title": "banacek-detour-to-nowhere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

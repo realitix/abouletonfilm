@@ -1,0 +1,1 @@
+{"tmdb_id": 283966, "title": "The Gentry's Ball", "original_title": "Bal gospoden", "slug_title": "the-gentry-s-ball", "date": "1918-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vitold Polonsky ()", "Aleksandr Cheban ()", "Nathalie Kovanko ()"], "comments": [], "recommandations_id": []}

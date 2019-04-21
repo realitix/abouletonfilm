@@ -1,0 +1,1 @@
+{"tmdb_id": 318588, "title": "A Bad Day at the Cemetery II", "original_title": "La cripta de las mujeres malditas II", "slug_title": "a-bad-day-at-the-cemetery-ii", "date": "2008-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

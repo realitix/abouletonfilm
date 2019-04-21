@@ -1,0 +1,1 @@
+{"tmdb_id": 149886, "title": "The Scam", "original_title": "\u0410\u0444\u0435\u0440\u0430", "slug_title": "the-scam", "date": "2001-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtVMGh2tpUKHtKWy3uf3xMsdxwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

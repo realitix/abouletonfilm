@@ -1,0 +1,1 @@
+{"tmdb_id": 290932, "title": "Diante do Trono - Aleluia", "original_title": "Diante do Trono - Aleluia", "slug_title": "diante-do-trono-aleluia", "date": "2010-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDmRVxjxq1HV98H82QnAZuq6UYG.jpg", "actors": [], "comments": [], "recommandations_id": []}

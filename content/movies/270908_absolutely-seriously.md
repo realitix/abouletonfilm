@@ -1,0 +1,1 @@
+{"tmdb_id": 270908, "title": "Absolutely Seriously", "original_title": "Sovershenno seryozno", "slug_title": "absolutely-seriously", "date": "1961-10-17", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPtNf0UibeStuD2wGlozlFAOGDN.jpg", "actors": [], "comments": [], "recommandations_id": [57776, 78132, 42275, 31648]}

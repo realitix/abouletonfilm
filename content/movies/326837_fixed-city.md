@@ -1,0 +1,1 @@
+{"tmdb_id": 326837, "title": "Fixed City", "original_title": "Fixed City", "slug_title": "fixed-city", "date": "2009-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 383554, "title": "Yami Douga 10", "original_title": "\u95c7\u52d5\u753b10", "slug_title": "yami-douga-10", "date": "2014-06-06", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DF68PjFVHLco6UEDlBd44t6oeK.jpg", "actors": [], "comments": [], "recommandations_id": []}

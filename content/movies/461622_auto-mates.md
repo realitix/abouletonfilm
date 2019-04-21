@@ -1,0 +1,1 @@
+{"tmdb_id": 461622, "title": "AUTO-MATES", "original_title": "AUTO-MATES", "slug_title": "auto-mates", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wDFaTgHkJVILyliJ4AEXGU472AV.jpg", "actors": ["Geraldine Bartlett (Mona)", "Patrick Kuhn (Chuck)"], "comments": [], "recommandations_id": []}

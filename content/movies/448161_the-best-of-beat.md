@@ -1,0 +1,1 @@
+{"tmdb_id": 448161, "title": "The Best Of Beat", "original_title": "The Best Of Beat", "slug_title": "the-best-of-beat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

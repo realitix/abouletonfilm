@@ -1,0 +1,1 @@
+{"tmdb_id": 438084, "title": "25th Annual Trumpet Awards", "original_title": "25th Annual Trumpet Awards", "slug_title": "25th-annual-trumpet-awards", "date": "2017-01-28", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Mabern (Writing Credits)"], "comments": [], "recommandations_id": []}

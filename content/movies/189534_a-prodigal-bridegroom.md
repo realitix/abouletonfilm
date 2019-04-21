@@ -1,0 +1,1 @@
+{"tmdb_id": 189534, "title": "A Prodigal Bridegroom", "original_title": "A Prodigal Bridegroom", "slug_title": "a-prodigal-bridegroom", "date": "1926-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Turpin ()", "Thelma Hill (Lizzie Boone)", "Madeline Hurlock (Gertie Gray)"], "comments": [], "recommandations_id": []}

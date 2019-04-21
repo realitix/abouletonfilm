@@ -1,0 +1,1 @@
+{"tmdb_id": 478114, "title": "Mafalda", "original_title": "Mafalda", "slug_title": "mafalda", "date": "1993-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbGFAM3SWnf2jX27LUS9Dzn9KE5.jpg", "actors": [], "comments": [], "recommandations_id": []}

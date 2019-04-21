@@ -1,0 +1,1 @@
+{"tmdb_id": 456942, "title": "Aurora Keeps an Eye On You", "original_title": "Guovssahas oaidn\u00e1 du", "slug_title": "aurora-keeps-an-eye-on-you", "date": "2015-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324438, "title": "Le r\u00e9cit de Rebecca", "original_title": "Le r\u00e9cit de Rebecca", "slug_title": "le-recit-de-rebecca", "date": "1964-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKJysS8pfXTwkkHxbozvZwJE0aS.jpg", "actors": [], "comments": [], "recommandations_id": []}

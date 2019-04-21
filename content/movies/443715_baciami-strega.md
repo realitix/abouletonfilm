@@ -1,0 +1,1 @@
+{"tmdb_id": 443715, "title": "Baciami Strega", "original_title": "Baciami Strega", "slug_title": "baciami-strega", "date": "1985-12-04", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Iris Peynado ()", "Harvey Keitel ()", "Philippe Leroy ()"], "comments": [], "recommandations_id": []}

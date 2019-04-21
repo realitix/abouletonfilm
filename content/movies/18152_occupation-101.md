@@ -1,0 +1,1 @@
+{"tmdb_id": 18152, "title": "Occupation 101", "original_title": "Occupation 101", "slug_title": "occupation-101", "date": "2006-03-25", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGtamNzyC5f5pGMvJWnTmPaU5ez.jpg", "actors": [], "comments": [], "recommandations_id": [36678, 24060, 14076, 13023]}

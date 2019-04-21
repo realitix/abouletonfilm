@@ -1,0 +1,1 @@
+{"tmdb_id": 349017, "title": "Stanley and the Dinosaurs", "original_title": "Stanley and the Dinosaurs", "slug_title": "stanley-and-the-dinosaurs", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Ryan (Voice)", "Jim Cummings (Voice)", "Corey Burton (Voice)"], "comments": [], "recommandations_id": []}

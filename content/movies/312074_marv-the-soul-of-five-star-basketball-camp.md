@@ -1,0 +1,1 @@
+{"tmdb_id": 312074, "title": "Marv: The Soul of Five Star Basketball Camp", "original_title": "Marv: The Soul of Five Star Basketball Camp", "slug_title": "marv-the-soul-of-five-star-basketball-camp", "date": "2007-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

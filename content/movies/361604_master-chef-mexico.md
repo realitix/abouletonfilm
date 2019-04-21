@@ -1,0 +1,1 @@
+{"tmdb_id": 361604, "title": "Master Chef Mexico", "original_title": "Master Chef Mexico", "slug_title": "master-chef-mexico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

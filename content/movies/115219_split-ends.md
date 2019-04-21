@@ -1,0 +1,1 @@
+{"tmdb_id": 115219, "title": "Split Ends", "original_title": "Split Ends", "slug_title": "split-ends", "date": "2009-03-20", "genre": "Com\u00e9die / Romance", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDzg0zg8pcWAgLHVVTOeK0Gb9Vg.jpg", "actors": [], "comments": [], "recommandations_id": []}

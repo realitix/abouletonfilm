@@ -1,0 +1,1 @@
+{"tmdb_id": 147517, "title": "My Lunch With Quentin Crisp", "original_title": "My Lunch With Quentin Crisp", "slug_title": "my-lunch-with-quentin-crisp", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Quentin Crisp (Himself)", "June Lang (Herself)"], "comments": [], "recommandations_id": []}

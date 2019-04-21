@@ -1,0 +1,1 @@
+{"tmdb_id": 312047, "title": "Becoming Queen", "original_title": "Becoming Queen", "slug_title": "becoming-queen", "date": "2004-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

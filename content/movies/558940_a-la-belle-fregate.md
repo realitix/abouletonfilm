@@ -1,0 +1,1 @@
+{"tmdb_id": 558940, "title": "\u00c0 la Belle fr\u00e9gate", "original_title": "\u00c0 la Belle fr\u00e9gate", "slug_title": "a-la-belle-fregate", "date": "1943-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/veO6DL9bza2KJz7XQ5G3IQuVKYq.jpg", "actors": [], "comments": [], "recommandations_id": []}

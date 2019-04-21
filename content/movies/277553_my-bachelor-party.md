@@ -1,0 +1,1 @@
+{"tmdb_id": 277553, "title": "My Bachelor Party", "original_title": "My Bachelor Party", "slug_title": "my-bachelor-party", "date": "2004-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

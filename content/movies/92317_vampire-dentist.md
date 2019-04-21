@@ -1,0 +1,1 @@
+{"tmdb_id": 92317, "title": "Vampire Dentist", "original_title": "Vampire Dentist", "slug_title": "vampire-dentist", "date": "2006-01-01", "genre": "Horreur / Com\u00e9die", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTIpJr9ciWbZmZvohRhzi4a0uf2.jpg", "actors": [], "comments": [], "recommandations_id": []}

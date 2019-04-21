@@ -1,0 +1,1 @@
+{"tmdb_id": 40874, "title": "Just for Kicks", "original_title": "Just for Kicks", "slug_title": "just-for-kicks", "date": "2005-06-06", "genre": "Documentaire", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uzUbN8QxqYxPb41FVarlMcM9fod.jpg", "actors": [], "comments": [], "recommandations_id": []}

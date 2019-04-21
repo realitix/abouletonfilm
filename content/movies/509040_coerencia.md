@@ -1,0 +1,1 @@
+{"tmdb_id": 509040, "title": "Coer\u00eancia", "original_title": "Coer\u00eancia", "slug_title": "coerencia", "date": "2016-01-01", "genre": "Drame / Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ricardo Oliveira (Narrator)"], "comments": [], "recommandations_id": []}

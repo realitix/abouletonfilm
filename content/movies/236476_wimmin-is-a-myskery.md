@@ -1,0 +1,1 @@
+{"tmdb_id": 236476, "title": "Wimmin Is a Myskery", "original_title": "Wimmin Is a Myskery", "slug_title": "wimmin-is-a-myskery", "date": "1940-06-06", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/capXFy4ZvFo88v39jF6V7ZheyDs.jpg", "actors": [], "comments": [], "recommandations_id": []}

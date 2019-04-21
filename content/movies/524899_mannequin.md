@@ -1,0 +1,1 @@
+{"tmdb_id": 524899, "title": "Mannequin", "original_title": "Mannequin", "slug_title": "mannequin", "date": "2016-01-01", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amy Shaw (Girl)"], "comments": [], "recommandations_id": []}

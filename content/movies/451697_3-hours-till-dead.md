@@ -1,0 +1,1 @@
+{"tmdb_id": 451697, "title": "3 Hours till Dead", "original_title": "3 Hours till Dead", "slug_title": "3-hours-till-dead", "date": "2017-04-21", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8362Sfkf6Ln11vCs8yW5EKwMQht.jpg", "actors": [], "comments": [], "recommandations_id": []}

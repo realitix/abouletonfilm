@@ -1,0 +1,1 @@
+{"tmdb_id": 395857, "title": "Lari dari Blora", "original_title": "Lari dari Blora", "slug_title": "lari-dari-blora", "date": "2008-05-03", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9Np2DTBoQH3px6vFqVMDDv2VZc.jpg", "actors": [], "comments": [], "recommandations_id": []}

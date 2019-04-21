@@ -1,0 +1,1 @@
+{"tmdb_id": 49755, "title": "Every Time I Die: Shit Happens", "original_title": "Every Time I Die: Shit Happens", "slug_title": "every-time-i-die-shit-happens", "date": "2006-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpmr9prhwvMPXzXmPE6G8Aregcf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 293604, "title": "Vengeance is a .44 Magnum", "original_title": "Vengeance is a .44 Magnum", "slug_title": "vengeance-is-a-44-magnum", "date": "2014-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

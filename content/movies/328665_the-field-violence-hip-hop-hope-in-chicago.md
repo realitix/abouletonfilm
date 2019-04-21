@@ -1,0 +1,1 @@
+{"tmdb_id": 328665, "title": "The Field: Violence, Hip-Hop & Hope In Chicago", "original_title": "The Field: Violence, Hip-Hop & Hope In Chicago", "slug_title": "the-field-violence-hip-hop-hope-in-chicago", "date": "2014-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

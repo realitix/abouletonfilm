@@ -1,0 +1,1 @@
+{"tmdb_id": 402357, "title": "Broken Goddess", "original_title": "Broken Goddess", "slug_title": "broken-goddess", "date": "1973-10-26", "genre": "Romance / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aY14JVt1K2HOyvHy9OuSC9t6b1l.jpg", "actors": ["Holly Woodlawn (Herself)"], "comments": [], "recommandations_id": []}

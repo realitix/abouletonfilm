@@ -1,0 +1,1 @@
+{"tmdb_id": 351317, "title": "Barnyard Baseball", "original_title": "Barnyard Baseball", "slug_title": "barnyard-baseball", "date": "1939-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

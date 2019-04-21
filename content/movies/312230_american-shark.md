@@ -1,0 +1,1 @@
+{"tmdb_id": 312230, "title": "American Shark", "original_title": "American Shark", "slug_title": "american-shark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

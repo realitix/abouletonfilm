@@ -1,0 +1,1 @@
+{"tmdb_id": 280614, "title": "Canadian Pacific II", "original_title": "Canadian Pacific II", "slug_title": "canadian-pacific-ii", "date": "1975-07-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xykRZJqVnJWbnEMPAUbaCmlS80i.jpg", "actors": [], "comments": [], "recommandations_id": []}

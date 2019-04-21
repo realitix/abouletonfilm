@@ -1,0 +1,1 @@
+{"tmdb_id": 300356, "title": "Pit Trading 101", "original_title": "Pit Trading 101", "slug_title": "pit-trading-101", "date": "2013-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394184, "title": "Hayride to Hell", "original_title": "Hayride to Hell", "slug_title": "hayride-to-hell", "date": "1995-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kylie Minogue (The Girl)", "Richard Roxburgh (George Weygate)", "Victoria Longley (Hilary Weygate)"], "comments": [], "recommandations_id": []}

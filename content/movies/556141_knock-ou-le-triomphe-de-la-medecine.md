@@ -1,0 +1,1 @@
+{"tmdb_id": 556141, "title": "Knock, ou le triomphe de la m\u00e9decine", "original_title": "Knock, ou le triomphe de la m\u00e9decine", "slug_title": "knock-ou-le-triomphe-de-la-medecine", "date": "1926-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274036, "title": "Ground Zero", "original_title": "Ground Zero", "slug_title": "ground-zero", "date": "2010-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVmzdnOBmBBPKXwecEWdUSSMEJW.jpg", "actors": [], "comments": [], "recommandations_id": []}

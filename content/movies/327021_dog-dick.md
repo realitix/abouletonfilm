@@ -1,0 +1,1 @@
+{"tmdb_id": 327021, "title": "Dog Dick", "original_title": "Dog Dick", "slug_title": "dog-dick", "date": "2013-01-01", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8VayucVlCN1K4lR6NagCPXK1qU.jpg", "actors": [], "comments": [], "recommandations_id": []}

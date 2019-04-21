@@ -1,0 +1,1 @@
+{"tmdb_id": 525704, "title": "Ulysses", "original_title": "Ulysses", "slug_title": "ulysses", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Pusceddu ()", "Paolo Mazzella ()", "Francesco Origo (Narratore)"], "comments": [], "recommandations_id": []}

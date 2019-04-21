@@ -1,0 +1,1 @@
+{"tmdb_id": 339673, "title": "Ben Stoeger - Training To Win", "original_title": "Ben Stoeger - Training To Win", "slug_title": "ben-stoeger-training-to-win", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

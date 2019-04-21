@@ -1,0 +1,1 @@
+{"tmdb_id": 287435, "title": "Being a Tourist at Home", "original_title": "Turistou ve vlastn\u00edm dom\u011b", "slug_title": "being-a-tourist-at-home", "date": "2009-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOhZDCaNmnQk6zXFL9enidjOnHk.jpg", "actors": [], "comments": [], "recommandations_id": []}

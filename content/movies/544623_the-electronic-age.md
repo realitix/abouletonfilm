@@ -1,0 +1,1 @@
+{"tmdb_id": 544623, "title": "The Electronic Age", "original_title": "The Electronic Age", "slug_title": "the-electronic-age", "date": "2003-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

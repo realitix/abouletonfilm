@@ -1,0 +1,1 @@
+{"tmdb_id": 274304, "title": "Bharat Aala Parat", "original_title": "Bharat Aala Parat", "slug_title": "bharat-aala-parat", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

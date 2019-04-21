@@ -1,0 +1,1 @@
+{"tmdb_id": 504446, "title": "Caninabis", "original_title": "Caninabis", "slug_title": "caninabis", "date": "1979-02-10", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lkQSVfIaxnMhOFvmAx10YLLnzw.jpg", "actors": ["Patrice Arbour ()", "Bernard Carez ()"], "comments": [], "recommandations_id": []}

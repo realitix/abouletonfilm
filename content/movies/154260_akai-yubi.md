@@ -1,0 +1,1 @@
+{"tmdb_id": 154260, "title": "Akai Yubi", "original_title": "\u8d64\u3044\u6307", "slug_title": "akai-yubi", "date": "2011-01-03", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDAFnCwRy0ittP8WcAmNA3jKEb7.jpg", "actors": ["Hiroshi Abe (Kyoichiro Kaga)"], "comments": [], "recommandations_id": []}

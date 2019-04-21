@@ -1,0 +1,1 @@
+{"tmdb_id": 481219, "title": "Chrysanthemum Tea", "original_title": "\u83ca\u82b1\u8336", "slug_title": "chrysanthemum-tea", "date": "2001-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/284yRg7B5igQnL0v5eZ8Lpv8A1J.jpg", "actors": ["Chen Jianbin ()", "Wu Yue ()"], "comments": [], "recommandations_id": []}

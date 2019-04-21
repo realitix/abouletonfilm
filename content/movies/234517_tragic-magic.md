@@ -1,0 +1,1 @@
+{"tmdb_id": 234517, "title": "Tragic Magic", "original_title": "Tragic Magic", "slug_title": "tragic-magic", "date": "1962-07-02", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MohR0WZEyoFV5UmxaigOG2Uwfm.jpg", "actors": [], "comments": [], "recommandations_id": []}

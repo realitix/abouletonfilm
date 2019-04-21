@@ -1,0 +1,1 @@
+{"tmdb_id": 183880, "title": "The Haircut", "original_title": "The Haircut", "slug_title": "the-haircut", "date": "2006-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

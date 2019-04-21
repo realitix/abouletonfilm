@@ -1,0 +1,1 @@
+{"tmdb_id": 65378, "title": "Eric Burdon", "original_title": "Eric Burdon", "slug_title": "eric-burdon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m7IwvNyr1voVvWsKwbew4X0Lpqh.jpg", "actors": [], "comments": [], "recommandations_id": []}

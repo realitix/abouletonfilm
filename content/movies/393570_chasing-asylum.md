@@ -1,0 +1,1 @@
+{"tmdb_id": 393570, "title": "Chasing Asylum", "original_title": "Chasing Asylum", "slug_title": "chasing-asylum", "date": "2016-05-05", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46U5vZ5hL0HeDPqs5tu6cisAzWc.jpg", "actors": [], "comments": [], "recommandations_id": []}

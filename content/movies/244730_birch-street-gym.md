@@ -1,0 +1,1 @@
+{"tmdb_id": 244730, "title": "Birch Street Gym", "original_title": "Birch Street Gym", "slug_title": "birch-street-gym", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVoYjnuKvth5tMHi23Z8sEiKZeb.jpg", "actors": [], "comments": [], "recommandations_id": []}

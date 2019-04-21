@@ -1,0 +1,1 @@
+{"tmdb_id": 571324, "title": "A Journey to Silicon Valley", "original_title": "A Journey to Silicon Valley", "slug_title": "a-journey-to-silicon-valley", "date": "2001-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 415399, "title": "La diga del ghiacciaio", "original_title": "La diga del ghiacciaio", "slug_title": "la-diga-del-ghiacciaio", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tk6qjxvfLK1XljriBYl7pWxQ7O0.jpg", "actors": [], "comments": [], "recommandations_id": []}

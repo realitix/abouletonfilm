@@ -1,0 +1,1 @@
+{"tmdb_id": 78930, "title": "Madras Vathiyar", "original_title": "Madras Vathiyar", "slug_title": "madras-vathiyar", "date": "1984-01-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Rajani ()", "Loose Mohan ()", "Senthamarai ()", "Manorama ()", "Anuradha ()"], "comments": [], "recommandations_id": []}

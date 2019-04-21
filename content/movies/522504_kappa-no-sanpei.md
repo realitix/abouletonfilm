@@ -1,0 +1,1 @@
+{"tmdb_id": 522504, "title": "Kappa no Sanpei", "original_title": "Kappa no Sanpei", "slug_title": "kappa-no-sanpei", "date": "1993-03-13", "genre": "Animation / Aventure / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0OoSDRM8XADm9pT8yoJ4aqostB.jpg", "actors": [], "comments": [], "recommandations_id": []}

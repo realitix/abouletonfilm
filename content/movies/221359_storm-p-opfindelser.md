@@ -1,0 +1,1 @@
+{"tmdb_id": 221359, "title": "Storm P. Opfindelser", "original_title": "Storm P. Opfindelser", "slug_title": "storm-p-opfindelser", "date": "2001-08-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFUYI6QMZkvOGCjZlEfDE51KSj7.jpg", "actors": [], "comments": [], "recommandations_id": []}

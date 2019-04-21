@@ -1,0 +1,1 @@
+{"tmdb_id": 500368, "title": "Bolivia", "original_title": "Bolivie", "slug_title": "bolivia", "date": "1998-01-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0XtWqS5s7eiKcMXj2HCrmY4Xm9.jpg", "actors": [], "comments": [], "recommandations_id": []}

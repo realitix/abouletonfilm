@@ -1,0 +1,1 @@
+{"tmdb_id": 477692, "title": "Julkita", "original_title": "Julkita", "slug_title": "julkita", "date": "2017-03-03", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9X9YZURwRpJXTUssBFOb6ORoy4f.jpg", "actors": ["Hayd\u00e9e Leyva (Julkita)", "Alberto Wolf (Bro)"], "comments": [], "recommandations_id": []}

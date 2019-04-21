@@ -1,0 +1,1 @@
+{"tmdb_id": 588247, "title": "Memory Hotel", "original_title": "Memory Hotel", "slug_title": "memory-hotel", "date": "", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 577709, "title": "Delta Zoo", "original_title": "Spec. \u017dv\u0117rynas", "slug_title": "delta-zoo", "date": "2019-01-11", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jCG4L4f3QLy51up8nTn2xKoswLw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 67935, "title": "Bellator 46", "original_title": "Bellator 46", "slug_title": "bellator-46", "date": "2011-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iZkpumQaruKYNGL23MLxLiaP1JK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500525, "title": "\uce5c\uad6c\ub204\ub098 2", "original_title": "\uce5c\uad6c\ub204\ub098 2", "slug_title": "cingununa-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

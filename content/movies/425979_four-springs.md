@@ -1,0 +1,1 @@
+{"tmdb_id": 425979, "title": "Four Springs", "original_title": "\u010cetri pavasari", "slug_title": "four-springs", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

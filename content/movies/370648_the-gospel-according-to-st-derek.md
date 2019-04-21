@@ -1,0 +1,1 @@
+{"tmdb_id": 370648, "title": "The Gospel According to St Derek", "original_title": "The Gospel According to St Derek", "slug_title": "the-gospel-according-to-st-derek", "date": "2014-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

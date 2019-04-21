@@ -1,0 +1,1 @@
+{"tmdb_id": 374921, "title": "Strangers In The Field", "original_title": "Strangers In The Field", "slug_title": "strangers-in-the-field", "date": "2015-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5BT9YTQ5Nm1TnAytFsmp97uIE8w.jpg", "actors": [], "comments": [], "recommandations_id": []}

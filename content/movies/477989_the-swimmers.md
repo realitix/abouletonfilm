@@ -1,0 +1,1 @@
+{"tmdb_id": 477989, "title": "The Swimmers", "original_title": "The Swimmers", "slug_title": "the-swimmers", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

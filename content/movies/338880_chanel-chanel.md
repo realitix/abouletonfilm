@@ -1,0 +1,1 @@
+{"tmdb_id": 338880, "title": "Chanel Chanel", "original_title": "Chanel Chanel", "slug_title": "chanel-chanel", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8octP8kdMkc8PeKX8HWEvFbmGnx.jpg", "actors": ["Coco Chanel ()", "Karl Lagerfeld ()"], "comments": [], "recommandations_id": []}

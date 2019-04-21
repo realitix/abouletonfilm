@@ -1,0 +1,1 @@
+{"tmdb_id": 232637, "title": "Badescener fra Skovshoved", "original_title": "Badescener fra Skovshoved", "slug_title": "badescener-fra-skovshoved", "date": "1899-09-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

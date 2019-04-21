@@ -1,0 +1,1 @@
+{"tmdb_id": 276361, "title": "Mick, Myself and Eugene", "original_title": "Mick, Myself and Eugene", "slug_title": "mick-myself-and-eugene", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

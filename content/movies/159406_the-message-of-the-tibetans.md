@@ -1,0 +1,1 @@
+{"tmdb_id": 159406, "title": "The Message of the Tibetans", "original_title": "Le Message Des Tibetains", "slug_title": "the-message-of-the-tibetans", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

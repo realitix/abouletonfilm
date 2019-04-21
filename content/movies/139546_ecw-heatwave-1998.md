@@ -1,0 +1,1 @@
+{"tmdb_id": 139546, "title": "ECW Heatwave 1998", "original_title": "ECW Heatwave 1998", "slug_title": "ecw-heatwave-1998", "date": "1998-08-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vZId5T6GeY8BYd6nqeHgArSBPT.jpg", "actors": [], "comments": [], "recommandations_id": []}

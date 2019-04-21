@@ -1,0 +1,1 @@
+{"tmdb_id": 257286, "title": "Gold Fever", "original_title": "Gold Fever", "slug_title": "gold-fever", "date": "2013-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYBCa7kVuwKvgdXyCSiFouH2zr1.jpg", "actors": [], "comments": [], "recommandations_id": []}

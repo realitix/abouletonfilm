@@ -1,0 +1,1 @@
+{"tmdb_id": 274766, "title": "Paula Abdul's Get Up & Dance", "original_title": "Paula Abdul's Get Up & Dance", "slug_title": "paula-abdul-s-get-up-dance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

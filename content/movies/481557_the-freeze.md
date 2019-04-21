@@ -1,0 +1,1 @@
+{"tmdb_id": 481557, "title": "The Freeze", "original_title": "The Freeze", "slug_title": "the-freeze", "date": "2017-10-13", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6iDUGtjQHl45mOgBd4fHwJmMoO.jpg", "actors": ["Abby Ross ()", "Stephanie Lavigne ()"], "comments": [], "recommandations_id": []}

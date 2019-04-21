@@ -1,0 +1,1 @@
+{"tmdb_id": 56489, "title": "The Last Real Men", "original_title": "Die letzten M\u00e4nner", "slug_title": "the-last-real-men", "date": "1995-10-03", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVVm6dglNvfAIQI2bA1FIp9ZKco.jpg", "actors": [], "comments": [], "recommandations_id": []}

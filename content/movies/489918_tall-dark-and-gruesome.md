@@ -1,0 +1,1 @@
+{"tmdb_id": 489918, "title": "Tall, Dark and Gruesome", "original_title": "Tall, Dark and Gruesome", "slug_title": "tall-dark-and-gruesome", "date": "1948-04-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh Sherlock, playwright)"], "comments": [], "recommandations_id": []}

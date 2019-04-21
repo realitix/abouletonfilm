@@ -1,0 +1,1 @@
+{"tmdb_id": 473060, "title": "Naim and Wadee'a", "original_title": "Na'im wa Wadee'a", "slug_title": "naim-and-wadee-a", "date": "2000-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wadee'a Aghabi (Herself)", "Naim Azar (Himself)"], "comments": [], "recommandations_id": []}

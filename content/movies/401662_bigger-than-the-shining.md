@@ -1,0 +1,1 @@
+{"tmdb_id": 401662, "title": "Bigger Than The Shining", "original_title": "Bigger Than The Shining", "slug_title": "bigger-than-the-shining", "date": "2016-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 188888, "title": "Listen To Some Words of Wisdom", "original_title": "Listen To Some Words of Wisdom", "slug_title": "listen-to-some-words-of-wisdom", "date": "1930-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

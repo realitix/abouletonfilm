@@ -1,0 +1,1 @@
+{"tmdb_id": 346041, "title": "The One-Armed Bandit", "original_title": "The One-Armed Bandit", "slug_title": "the-one-armed-bandit", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

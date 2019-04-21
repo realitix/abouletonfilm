@@ -1,0 +1,1 @@
+{"tmdb_id": 393636, "title": "Kiss [1976] Houston, Texas", "original_title": "Kiss [1976] Houston, Texas", "slug_title": "kiss-1976-houston-texas", "date": "1976-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIIwk6hG0sBvFjsszanb9CbwvxS.jpg", "actors": [], "comments": [], "recommandations_id": []}

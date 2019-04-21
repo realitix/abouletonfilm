@@ -1,0 +1,1 @@
+{"tmdb_id": 426935, "title": "President McKinley's Inauguration", "original_title": "President McKinley's Inauguration", "slug_title": "president-mckinley-s-inauguration", "date": "1897-03-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William McKinley (Himself)"], "comments": [], "recommandations_id": []}

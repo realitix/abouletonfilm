@@ -1,0 +1,1 @@
+{"tmdb_id": 383722, "title": "Goofy Movies Number Nine", "original_title": "Goofy Movies Number Nine", "slug_title": "goofy-movies-number-nine", "date": "1934-11-03", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

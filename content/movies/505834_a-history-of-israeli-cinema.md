@@ -1,0 +1,1 @@
+{"tmdb_id": 505834, "title": "A History of Israeli Cinema", "original_title": "Historia Shel Hakolnoah Israeli", "slug_title": "a-history-of-israeli-cinema", "date": "2009-09-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bXBR92x6QWqSM8vJOK4pCZ2oYjc.jpg", "actors": [], "comments": [], "recommandations_id": []}

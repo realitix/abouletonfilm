@@ -1,0 +1,1 @@
+{"tmdb_id": 315836, "title": "Russ & Roger Go Beyond", "original_title": "Russ & Roger Go Beyond", "slug_title": "russ-roger-go-beyond", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josh Gad (Roger Ebert)", "Will Ferrell (Russ Meyer)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 485820, "title": "Discutiamo, discutiamo", "original_title": "Discutiamo, discutiamo", "slug_title": "discutiamo-discutiamo", "date": "1969-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ClRU7ttrjj2X5dvLQX67Ti6Ten.jpg", "actors": [], "comments": [], "recommandations_id": []}

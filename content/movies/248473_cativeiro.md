@@ -1,0 +1,1 @@
+{"tmdb_id": 248473, "title": "Cativeiro", "original_title": "Cativeiro", "slug_title": "cativeiro", "date": "2012-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77dUlTcpAU77b8Qq2qArGhtace9.jpg", "actors": ["Alzira Pinho ()"], "comments": [], "recommandations_id": []}

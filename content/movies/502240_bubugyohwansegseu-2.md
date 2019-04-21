@@ -1,0 +1,1 @@
+{"tmdb_id": 502240, "title": "\ubd80\ubd80\uad50\ud658\uc139\uc2a4 2", "original_title": "\ubd80\ubd80\uad50\ud658\uc139\uc2a4 2", "slug_title": "bubugyohwansegseu-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

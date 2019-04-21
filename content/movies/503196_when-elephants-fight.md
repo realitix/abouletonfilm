@@ -1,0 +1,1 @@
+{"tmdb_id": 503196, "title": "When Elephants Fight", "original_title": "When Elephants Fight", "slug_title": "when-elephants-fight", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

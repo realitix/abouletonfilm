@@ -1,0 +1,1 @@
+{"tmdb_id": 368104, "title": "Jul i Skomakergata (Christmas at Cobbler's Street)", "original_title": "Jul i Skomakergata (Christmas at Cobbler's Street)", "slug_title": "jul-i-skomakergata-christmas-at-cobbler-s-street", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

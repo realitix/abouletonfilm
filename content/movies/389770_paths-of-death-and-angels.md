@@ -1,0 +1,1 @@
+{"tmdb_id": 389770, "title": "Paths of Death and Angels", "original_title": "Hal\u00e1lutak \u00e9s angyalok", "slug_title": "paths-of-death-and-angels", "date": "1991-03-25", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNDCB7jX0LsTsK0qHVW93p2SZfg.jpg", "actors": [], "comments": [], "recommandations_id": []}

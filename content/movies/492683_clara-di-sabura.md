@@ -1,0 +1,1 @@
+{"tmdb_id": 492683, "title": "Clara di Sabura", "original_title": "Clara di Sabura", "slug_title": "clara-di-sabura", "date": "2011-12-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bIXsbLT7iXqt6zqb5DwdS5lj9E.jpg", "actors": ["Fatumata San\u00e9 (Clara)"], "comments": [], "recommandations_id": []}

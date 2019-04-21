@@ -1,0 +1,1 @@
+{"tmdb_id": 498656, "title": "Devil's Acid", "original_title": "Devil's Acid", "slug_title": "devil-s-acid", "date": "2017-08-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/338KmlLQyOTApzdX2DfpJKYxVVq.jpg", "actors": [], "comments": [], "recommandations_id": []}

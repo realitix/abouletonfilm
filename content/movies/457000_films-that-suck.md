@@ -1,0 +1,1 @@
+{"tmdb_id": 457000, "title": "Films That Suck", "original_title": "Films That Suck", "slug_title": "films-that-suck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

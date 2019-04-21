@@ -1,0 +1,1 @@
+{"tmdb_id": 455062, "title": "Ping Opera", "original_title": "Qin Xianglian", "slug_title": "ping-opera", "date": "1955-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3y113KG62d0dxx3x8YMOGI0two.jpg", "actors": [], "comments": [], "recommandations_id": []}

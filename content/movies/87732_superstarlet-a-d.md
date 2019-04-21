@@ -1,0 +1,1 @@
+{"tmdb_id": 87732, "title": "Superstarlet A.D.", "original_title": "Superstarlet A.D.", "slug_title": "superstarlet-a-d", "date": "2000-01-01", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/re82ovbjhnMyovfjSpMvlMJxwFi.jpg", "actors": [], "comments": [], "recommandations_id": []}

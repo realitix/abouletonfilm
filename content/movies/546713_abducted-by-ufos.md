@@ -1,0 +1,1 @@
+{"tmdb_id": 546713, "title": "Abducted By UFOs", "original_title": "Abducted By UFOs", "slug_title": "abducted-by-ufos", "date": "1996-09-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7USc81e0UbR52wZaRnxA35babQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

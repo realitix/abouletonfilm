@@ -1,0 +1,1 @@
+{"tmdb_id": 389674, "title": "Wild Boys Advance", "original_title": "\u8d85\u30e9\u30b8\u30aa\u4f53\u64cd", "slug_title": "wild-boys-advance", "date": "2015-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qakNZCUzsmIDuxw5b5VlpnQ1emf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333996, "title": "Murda Capital", "original_title": "Murda Capital", "slug_title": "murda-capital", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

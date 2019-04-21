@@ -1,0 +1,1 @@
+{"tmdb_id": 379239, "title": "Pink U.F.O.", "original_title": "Pink U.F.O.", "slug_title": "pink-u-f-o", "date": "1978-11-17", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nPcVUxVqE7WcufnR7Mvb5IDOtP.jpg", "actors": [], "comments": [], "recommandations_id": []}

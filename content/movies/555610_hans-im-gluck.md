@@ -1,0 +1,1 @@
+{"tmdb_id": 555610, "title": "Hans im Gl\u00fcck", "original_title": "Hans im Gl\u00fcck", "slug_title": "hans-im-gluck", "date": "2009-02-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

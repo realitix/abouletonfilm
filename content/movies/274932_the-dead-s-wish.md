@@ -1,0 +1,1 @@
+{"tmdb_id": 274932, "title": "The Dead's Wish", "original_title": "O Desejo do Morto", "slug_title": "the-dead-s-wish", "date": "2013-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fMB6v0wUMFZYOn9PDGp4zQE1guV.jpg", "actors": ["Fernando Teixeira ()", "Tavinho Teixeira ()"], "comments": [], "recommandations_id": []}

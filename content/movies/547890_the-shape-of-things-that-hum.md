@@ -1,0 +1,1 @@
+{"tmdb_id": 547890, "title": "The Shape of Things That Hum.", "original_title": "The Shape of Things That Hum.", "slug_title": "the-shape-of-things-that-hum", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

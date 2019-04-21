@@ -1,0 +1,1 @@
+{"tmdb_id": 276130, "title": "La cacer\u00eda del perro", "original_title": "La cacer\u00eda del perro", "slug_title": "la-caceria-del-perro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

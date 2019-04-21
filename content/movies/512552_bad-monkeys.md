@@ -1,0 +1,1 @@
+{"tmdb_id": 512552, "title": "Bad Monkeys", "original_title": "Bad Monkeys", "slug_title": "bad-monkeys", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margot Robbie (Jane Charlotte)"], "comments": [], "recommandations_id": [460465, 155129, 453399, 460458]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 48418, "title": "Tech N9ne: The Psychumentary", "original_title": "Tech N9ne: The Psychumentary", "slug_title": "tech-n9ne-the-psychumentary", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXrImaEOzt2mGicDGDZrBWZKxDT.jpg", "actors": [], "comments": [], "recommandations_id": []}

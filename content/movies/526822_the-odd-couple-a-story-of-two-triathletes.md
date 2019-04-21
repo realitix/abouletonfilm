@@ -1,0 +1,1 @@
+{"tmdb_id": 526822, "title": "The Odd Couple: A Story of Two Triathletes", "original_title": "The Odd Couple: A Story of Two Triathletes", "slug_title": "the-odd-couple-a-story-of-two-triathletes", "date": "2014-10-01", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

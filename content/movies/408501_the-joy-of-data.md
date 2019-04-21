@@ -1,0 +1,1 @@
+{"tmdb_id": 408501, "title": "The Joy of Data", "original_title": "The Joy of Data", "slug_title": "the-joy-of-data", "date": "2016-07-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMG4DipaPK4nCMfZOnpjZNtSwga.jpg", "actors": ["Hannah Fry (Herself - Presenter)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 243194, "title": "A Sport Is Born", "original_title": "A Sport Is Born", "slug_title": "a-sport-is-born", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkkVoIunbQAg7EydKFmaEgz2zgi.jpg", "actors": [], "comments": [], "recommandations_id": []}

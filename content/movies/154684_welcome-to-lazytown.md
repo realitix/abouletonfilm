@@ -1,0 +1,1 @@
+{"tmdb_id": 154684, "title": "Welcome to LazyTown", "original_title": "Welcome to LazyTown", "slug_title": "welcome-to-lazytown", "date": "2006-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gw2yzfxoK32IRn5VOe5d5pds7Dq.jpg", "actors": [], "comments": [], "recommandations_id": []}

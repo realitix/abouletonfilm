@@ -1,0 +1,1 @@
+{"tmdb_id": 196487, "title": "The Sand Bath", "original_title": "Das Sandbad", "slug_title": "the-sand-bath", "date": "1907-01-01", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nysECp436Yb2M6P5H4FYSb0DROm.jpg", "actors": [], "comments": [], "recommandations_id": [159245]}

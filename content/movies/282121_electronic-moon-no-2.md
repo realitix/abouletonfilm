@@ -1,0 +1,1 @@
+{"tmdb_id": 282121, "title": "Electronic Moon No. 2", "original_title": "Electronic Moon No. 2", "slug_title": "electronic-moon-no-2", "date": "1966-07-15", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/riRnb0HZxrtWuO2m6kr55lB7TRd.jpg", "actors": [], "comments": [], "recommandations_id": []}

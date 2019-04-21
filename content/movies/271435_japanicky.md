@@ -1,0 +1,1 @@
+{"tmdb_id": 271435, "title": "Japanicky", "original_title": "Japanicky", "slug_title": "japanicky", "date": "1928-03-04", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85lhREcFVh1zFpX6j89zd4x4Wet.jpg", "actors": [], "comments": [], "recommandations_id": []}

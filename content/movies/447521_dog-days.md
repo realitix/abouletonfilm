@@ -1,0 +1,1 @@
+{"tmdb_id": 447521, "title": "Dog Days", "original_title": "Dog Days", "slug_title": "dog-days", "date": "2013-10-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4CnJOqkVgTKSWPKjef3oXkfmUd.jpg", "actors": [], "comments": [], "recommandations_id": []}

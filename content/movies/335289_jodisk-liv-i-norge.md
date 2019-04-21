@@ -1,0 +1,1 @@
+{"tmdb_id": 335289, "title": "J\u00f8disk liv i Norge", "original_title": "J\u00f8disk liv i Norge", "slug_title": "jodisk-liv-i-norge", "date": "1993-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

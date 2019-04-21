@@ -1,0 +1,1 @@
+{"tmdb_id": 149284, "title": "The Yanks Are Coming", "original_title": "The Yanks Are Coming", "slug_title": "the-yanks-are-coming", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBd1ph1p0i6IGuzxPKIui7oet4f.jpg", "actors": [], "comments": [], "recommandations_id": []}

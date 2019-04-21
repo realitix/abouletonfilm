@@ -1,0 +1,1 @@
+{"tmdb_id": 446426, "title": "Coming Back to the Hoop", "original_title": "Coming Back to the Hoop", "slug_title": "coming-back-to-the-hoop", "date": "2014-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqC95WgeZWHnTvLXAhBiaFNNJsJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

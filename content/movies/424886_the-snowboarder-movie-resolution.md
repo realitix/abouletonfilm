@@ -1,0 +1,1 @@
+{"tmdb_id": 424886, "title": "The Snowboarder Movie: Resolution", "original_title": "The Snowboarder Movie: Resolution", "slug_title": "the-snowboarder-movie-resolution", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uj2SGSd4xdobC08wGnnQFFXiQX.jpg", "actors": [], "comments": [], "recommandations_id": []}

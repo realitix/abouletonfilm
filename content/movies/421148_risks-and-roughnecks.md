@@ -1,0 +1,1 @@
+{"tmdb_id": 421148, "title": "Risks and Roughnecks", "original_title": "Risks and Roughnecks", "slug_title": "risks-and-roughnecks", "date": "1917-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Our Hero)", "Florence Curtis (The Girl)"], "comments": [], "recommandations_id": []}

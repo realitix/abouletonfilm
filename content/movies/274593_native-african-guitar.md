@@ -1,0 +1,1 @@
+{"tmdb_id": 274593, "title": "Native African Guitar", "original_title": "Native African Guitar", "slug_title": "native-african-guitar", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

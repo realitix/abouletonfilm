@@ -1,0 +1,1 @@
+{"tmdb_id": 445672, "title": "Tears of Satan", "original_title": "\u062f\u0645\u0648\u0639 \u0625\u0628\u0644\u064a\u0633", "slug_title": "tears-of-satan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbxMiyn2FiPxiJ8XjlfQGUavgxP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 360602, "title": "World Series of Fighting 23", "original_title": "World Series of Fighting 23", "slug_title": "world-series-of-fighting-23", "date": "2015-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eAWcF7Wa2E2DgZbXPcBBL6o4NIu.jpg", "actors": [], "comments": [], "recommandations_id": []}

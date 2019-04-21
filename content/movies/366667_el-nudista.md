@@ -1,0 +1,1 @@
+{"tmdb_id": 366667, "title": "El nudista", "original_title": "El nudista", "slug_title": "el-nudista", "date": "2015-11-04", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

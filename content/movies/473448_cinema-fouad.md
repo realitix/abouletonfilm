@@ -1,0 +1,1 @@
+{"tmdb_id": 473448, "title": "Cinema Fouad", "original_title": "Cinema Fouad", "slug_title": "cinema-fouad", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMqPLW2WxjpI7HF3xOjSNdZhPbO.jpg", "actors": ["Khaled El Kurdi (Herself)"], "comments": [], "recommandations_id": []}

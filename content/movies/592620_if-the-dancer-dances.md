@@ -1,0 +1,1 @@
+{"tmdb_id": 592620, "title": "If the Dancer Dances", "original_title": "If the Dancer Dances", "slug_title": "if-the-dancer-dances", "date": "2019-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/co2ZdFtIx9gkIfGaskpr4uxKLed.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 137995, "title": "I Was on Mars", "original_title": "I Was on Mars", "slug_title": "i-was-on-mars", "date": "1991-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Schrader (Sylwa)", "Dani Levy (Alio)", "Mario Giacalone (Nic)"], "comments": [], "recommandations_id": []}

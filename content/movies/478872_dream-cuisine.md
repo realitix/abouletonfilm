@@ -1,0 +1,1 @@
+{"tmdb_id": 478872, "title": "Dream Cuisine", "original_title": "Aji", "slug_title": "dream-cuisine", "date": "2003-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

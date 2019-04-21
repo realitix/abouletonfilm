@@ -1,0 +1,1 @@
+{"tmdb_id": 269567, "title": "Alim i ego oslik", "original_title": "Alim i ego oslik", "slug_title": "alim-i-ego-oslik", "date": "1978-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vSLFKTdSviN6Lc1DaGKRwfrR41x.jpg", "actors": [], "comments": [], "recommandations_id": []}

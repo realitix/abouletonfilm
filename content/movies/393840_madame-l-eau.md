@@ -1,0 +1,1 @@
+{"tmdb_id": 393840, "title": "Madame l'eau", "original_title": "Madame l'eau", "slug_title": "madame-l-eau", "date": "1993-02-25", "genre": "", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Damour\u00e9 Zika ()", "Lam Ibrahim Dia ()", "Tallou Mouzourane ()", "Wineke Onstwedder ()"], "comments": [], "recommandations_id": []}

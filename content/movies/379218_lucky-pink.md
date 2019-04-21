@@ -1,0 +1,1 @@
+{"tmdb_id": 379218, "title": "Lucky Pink", "original_title": "Lucky Pink", "slug_title": "lucky-pink", "date": "1968-05-07", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ujzLJcqRtLqg1zCm0Urkmesj1c.jpg", "actors": [], "comments": [], "recommandations_id": []}

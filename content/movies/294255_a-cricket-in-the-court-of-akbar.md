@@ -1,0 +1,1 @@
+{"tmdb_id": 294255, "title": "A Cricket in the Court of Akbar", "original_title": "A Cricket in the Court of Akbar", "slug_title": "a-cricket-in-the-court-of-akbar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

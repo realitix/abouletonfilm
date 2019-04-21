@@ -1,0 +1,1 @@
+{"tmdb_id": 488855, "title": "Hans in Luck", "original_title": "Hans in Luck", "slug_title": "hans-in-luck", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593203, "title": "Massilia Sound System: Le film", "original_title": "Massilia Sound System: Le film", "slug_title": "massilia-sound-system-le-film", "date": "2017-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKLP8opfFPYsSEJrD6BKdYb7VEg.jpg", "actors": [], "comments": [], "recommandations_id": []}

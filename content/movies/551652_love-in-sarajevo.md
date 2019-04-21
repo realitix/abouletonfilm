@@ -1,0 +1,1 @@
+{"tmdb_id": 551652, "title": "Love in Sarajevo", "original_title": "Ljubav u Sarajevu", "slug_title": "love-in-sarajevo", "date": "1937-01-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

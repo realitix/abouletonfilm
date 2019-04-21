@@ -1,0 +1,1 @@
+{"tmdb_id": 172996, "title": "Chacun pour soi", "original_title": "Chacun pour soi", "slug_title": "chacun-pour-soi", "date": "1998-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27Zg2sHjosCSDdqMcSHlipSERjq.jpg", "actors": [], "comments": [], "recommandations_id": []}

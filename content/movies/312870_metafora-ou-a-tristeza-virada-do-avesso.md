@@ -1,0 +1,1 @@
+{"tmdb_id": 312870, "title": "Met\u00e1fora ou a Tristeza Virada do Avesso", "original_title": "Met\u00e1fora ou a Tristeza Virada do Avesso", "slug_title": "metafora-ou-a-tristeza-virada-do-avesso", "date": "2014-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

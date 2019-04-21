@@ -1,0 +1,1 @@
+{"tmdb_id": 446103, "title": "Double Negatives", "original_title": "Double Negatives", "slug_title": "double-negatives", "date": "2013-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barry  Lancaster ()", "Wilton Doonside ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512744, "title": "Seven Days in Summer: Countdown to Partition", "original_title": "Seven Days in Summer: Countdown to Partition", "slug_title": "seven-days-in-summer-countdown-to-partition", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

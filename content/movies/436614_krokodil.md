@@ -1,0 +1,1 @@
+{"tmdb_id": 436614, "title": "Krokodil", "original_title": "Krokodil", "slug_title": "krokodil", "date": "2016-04-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

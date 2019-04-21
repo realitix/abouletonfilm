@@ -1,0 +1,1 @@
+{"tmdb_id": 462861, "title": "Amarantos", "original_title": "Amarantos", "slug_title": "amarantos", "date": "2010-01-01", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471690, "title": "Alaska Is a Drag", "original_title": "Alaska Is a Drag", "slug_title": "alaska-is-a-drag", "date": "2017-06-23", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFZ7Og4CfihkYCdaupT4oIHBgeX.jpg", "actors": [], "comments": [], "recommandations_id": []}

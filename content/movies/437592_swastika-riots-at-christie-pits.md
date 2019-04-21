@@ -1,0 +1,1 @@
+{"tmdb_id": 437592, "title": "Swastika Riots at Christie Pits", "original_title": "Swastika Riots at Christie Pits", "slug_title": "swastika-riots-at-christie-pits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkZxPIqy2cTR3sxcFcjfHU3uFsr.jpg", "actors": [], "comments": [], "recommandations_id": []}

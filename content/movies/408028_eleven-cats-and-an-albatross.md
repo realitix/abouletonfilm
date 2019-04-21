@@ -1,0 +1,1 @@
+{"tmdb_id": 408028, "title": "Eleven Cats and an Albatross", "original_title": "11 Piki no Neko to Ahoudori", "slug_title": "eleven-cats-and-an-albatross", "date": "1986-08-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VDCH4clMXaq9clSz4KihY8FwHB.jpg", "actors": [], "comments": [], "recommandations_id": []}

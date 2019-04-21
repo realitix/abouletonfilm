@@ -1,0 +1,1 @@
+{"tmdb_id": 563321, "title": "B\u00e9r\u00e9nice", "original_title": "B\u00e9r\u00e9nice", "slug_title": "berenice", "date": "1968-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

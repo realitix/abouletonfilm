@@ -1,0 +1,1 @@
+{"tmdb_id": 452239, "title": "Autopsy: Through the Eyes of Death's Detectives", "original_title": "Autopsy: Through the Eyes of Death's Detectives", "slug_title": "autopsy-through-the-eyes-of-death-s-detectives", "date": "1999-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

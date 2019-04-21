@@ -1,0 +1,1 @@
+{"tmdb_id": 549269, "title": "Fine Feathers", "original_title": "Fine Feathers", "slug_title": "fine-feathers", "date": "1933-11-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276365, "title": "A Tribute to Alvin Ailey", "original_title": "A Tribute to Alvin Ailey", "slug_title": "a-tribute-to-alvin-ailey", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

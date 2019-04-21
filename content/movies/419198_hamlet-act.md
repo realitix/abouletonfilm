@@ -1,0 +1,1 @@
+{"tmdb_id": 419198, "title": "Hamlet Act", "original_title": "Hamlet Act", "slug_title": "hamlet-act", "date": "1982-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dick Blau ()", "Dave Fisher ()", "Bob Whitney ()", "Dick Blau (Hamlet)"], "comments": [], "recommandations_id": []}

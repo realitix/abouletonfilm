@@ -1,0 +1,1 @@
+{"tmdb_id": 255532, "title": "Sons of Haji Omar", "original_title": "Sons of Haji Omar", "slug_title": "sons-of-haji-omar", "date": "1978-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mD1lisC6yRn3yWJjlNg7sAZKs6A.jpg", "actors": [], "comments": [], "recommandations_id": []}

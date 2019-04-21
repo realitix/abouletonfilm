@@ -1,0 +1,1 @@
+{"tmdb_id": 572433, "title": "Psycho Magnet", "original_title": "Psycho Magnet", "slug_title": "psycho-magnet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Paul (Fern)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317367, "title": "Hero's Reward", "original_title": "Hero's Reward", "slug_title": "hero-s-reward", "date": "1962-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

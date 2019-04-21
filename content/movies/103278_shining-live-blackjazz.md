@@ -1,0 +1,1 @@
+{"tmdb_id": 103278, "title": "Shining: Live Blackjazz", "original_title": "Shining: Live Blackjazz", "slug_title": "shining-live-blackjazz", "date": "2011-11-11", "genre": "Musique", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jaKD9bpGCplMShrX6ALWpqrqDlC.jpg", "actors": [], "comments": [], "recommandations_id": []}

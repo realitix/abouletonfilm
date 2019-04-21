@@ -1,0 +1,1 @@
+{"tmdb_id": 237880, "title": "Den heldige Frier", "original_title": "Den heldige Frier", "slug_title": "den-heldige-frier", "date": "1908-11-17", "genre": "Drame / Romance", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["A.W. Sandberg ()", "Valborg Dietrich ()", "Hilmar Clausen ()"], "comments": [], "recommandations_id": []}

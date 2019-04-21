@@ -1,0 +1,1 @@
+{"tmdb_id": 393971, "title": "Aki Kaurism\u00e4ki", "original_title": "Aki Kaurism\u00e4ki", "slug_title": "aki-kaurismaki", "date": "2001-04-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u1VSoK78gRw5RmMpu5yDlJ9ksUm.jpg", "actors": [], "comments": [], "recommandations_id": []}

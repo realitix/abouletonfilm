@@ -1,0 +1,1 @@
+{"tmdb_id": 250222, "title": "Violetta", "original_title": "Violetta", "slug_title": "violetta", "date": "2011-01-02", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susanna Marcomeni ()", "Federica De Cola ()", "Tobias Moretti ()", "Rodrigo Guirao D\u00edaz ()", "Vittoria Puccini ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 459921, "title": "School for Scumbags", "original_title": "School for Scumbags", "slug_title": "school-for-scumbags", "date": "", "genre": "Com\u00e9die / Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4afDIaSvQzyZP3UrIGK1w6S6ZGP.jpg", "actors": [], "comments": [], "recommandations_id": []}

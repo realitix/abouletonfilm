@@ -1,0 +1,1 @@
+{"tmdb_id": 377500, "title": "Diarios cinematogr\u00e1ficos", "original_title": "Diarios cinematogr\u00e1ficos", "slug_title": "diarios-cinematograficos", "date": "1980-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0DyygRG9NYsaERr2f8sibfJroh.jpg", "actors": [], "comments": [], "recommandations_id": []}

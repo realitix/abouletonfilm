@@ -1,0 +1,1 @@
+{"tmdb_id": 365488, "title": "Die Konferenz oder die R\u00fcckseite des Mondes", "original_title": "Die Konferenz oder die R\u00fcckseite des Mondes", "slug_title": "die-konferenz-oder-die-ruckseite-des-mondes", "date": "2014-03-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

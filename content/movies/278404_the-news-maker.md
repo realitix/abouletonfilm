@@ -1,0 +1,1 @@
+{"tmdb_id": 278404, "title": "The News Maker", "original_title": "The News Maker", "slug_title": "the-news-maker", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

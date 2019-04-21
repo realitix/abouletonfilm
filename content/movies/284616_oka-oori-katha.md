@@ -1,0 +1,1 @@
+{"tmdb_id": 284616, "title": "Oka Oori Katha", "original_title": "\u0c12\u0c15 \u0c0a\u0c30\u0c3f \u0c15\u0c25", "slug_title": "oka-oori-katha", "date": "1977-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jpq6eUDIUk2iZZ2BIujgkuGpF4Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420271, "title": "Friday the 13th", "original_title": "Vendredi 13", "slug_title": "friday-the-13th", "date": "2016-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 49149, "title": "Summer", "original_title": "Summer", "slug_title": "summer", "date": "2006-02-12", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZo185ng2wvWCPwTllnS5sGiptC.jpg", "actors": ["Jay Brown (Will)", "Peter Peralta (Leung)"], "comments": [], "recommandations_id": [49282, 160368]}

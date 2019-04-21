@@ -1,0 +1,1 @@
+{"tmdb_id": 458751, "title": "Academy Leader Variations", "original_title": "Academy Leader Variations", "slug_title": "academy-leader-variations", "date": "1987-04-12", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fCkYd5Lx2IdZvLVNz0uPPONl1O.jpg", "actors": [], "comments": [], "recommandations_id": []}

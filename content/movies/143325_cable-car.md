@@ -1,0 +1,1 @@
+{"tmdb_id": 143325, "title": "Cable Car", "original_title": "Seilbahn", "slug_title": "cable-car", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nele Hippe-Davies (Julia)", "Yann-Alessandro Dolmaire (Sven)", "Herbert Wandschneider ()", "Helga Bellinghausen ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 340366, "title": "Question Bridge: Black Males", "original_title": "Question Bridge: Black Males", "slug_title": "question-bridge-black-males", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 194876, "title": "The Goddess Bunny", "original_title": "The Goddess Bunny", "slug_title": "the-goddess-bunny", "date": "1998-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLno6rCcwIdTZq0rB0r3D6ZoKcz.jpg", "actors": ["Goddess Bunny (Herself)"], "comments": [], "recommandations_id": []}

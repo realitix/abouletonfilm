@@ -1,0 +1,1 @@
+{"tmdb_id": 52918, "title": "The Oath", "original_title": "The Oath", "slug_title": "the-oath", "date": "2010-05-09", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZgrvpWl32jToSsJhL1zTZuA24w.jpg", "actors": ["Osama Bin Laden (himself)"], "comments": [], "recommandations_id": [50100, 51182, 27146, 42124]}

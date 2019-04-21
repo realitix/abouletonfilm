@@ -1,0 +1,1 @@
+{"tmdb_id": 350471, "title": "\ub9d0\ub760 \uba70\ub290\ub9ac", "original_title": "\ub9d0\ub760 \uba70\ub290\ub9ac", "slug_title": "malddi-myeoneuri", "date": "1979-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

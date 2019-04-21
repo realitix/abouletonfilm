@@ -1,0 +1,1 @@
+{"tmdb_id": 235062, "title": "The Fat Albert Easter Special", "original_title": "The Fat Albert Easter Special", "slug_title": "the-fat-albert-easter-special", "date": "1982-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83fH806ESgMWvMiB4hvXgOlx23y.jpg", "actors": [], "comments": [], "recommandations_id": []}

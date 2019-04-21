@@ -1,0 +1,1 @@
+{"tmdb_id": 342876, "title": "Gundagardi", "original_title": "Gundagardi", "slug_title": "gundagardi", "date": "1997-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvyYubFJ7pjsf3vFvtrFiR5qsAl.jpg", "actors": [], "comments": [], "recommandations_id": []}

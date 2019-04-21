@@ -1,0 +1,1 @@
+{"tmdb_id": 78042, "title": "Haunted Poland", "original_title": "Haunted Poland", "slug_title": "haunted-poland", "date": "", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sD62LPPLec3nq76Wvq26KlZkQRp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382183, "title": "The Bystander From Hell", "original_title": "The Bystander From Hell", "slug_title": "the-bystander-from-hell", "date": "1998-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

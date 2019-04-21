@@ -1,0 +1,1 @@
+{"tmdb_id": 344384, "title": "Termites", "original_title": "Termiti", "slug_title": "termites", "date": "1963-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxJidxVeq2EhVFursYKBMjuG086.jpg", "actors": [], "comments": [], "recommandations_id": []}

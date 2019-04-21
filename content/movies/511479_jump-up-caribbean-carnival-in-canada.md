@@ -1,0 +1,1 @@
+{"tmdb_id": 511479, "title": "Jump-up: Caribbean Carnival in Canada", "original_title": "Jump-up: Caribbean Carnival in Canada", "slug_title": "jump-up-caribbean-carnival-in-canada", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

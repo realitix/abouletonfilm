@@ -1,0 +1,1 @@
+{"tmdb_id": 107583, "title": "Serenity - Southern Seas", "original_title": "Serenity - Southern Seas", "slug_title": "serenity-southern-seas", "date": "2007-10-30", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aZQhBeC9AOjXkCDkMt93vMBV1Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332555, "title": "The Recruitment", "original_title": "The Recruitment", "slug_title": "the-recruitment", "date": "2014-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGoHAx4dc35ctggKEaB0H98XXbK.jpg", "actors": [], "comments": [], "recommandations_id": []}

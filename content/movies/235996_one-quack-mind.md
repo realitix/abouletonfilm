@@ -1,0 +1,1 @@
+{"tmdb_id": 235996, "title": "One Quack Mind", "original_title": "One Quack Mind", "slug_title": "one-quack-mind", "date": "1951-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

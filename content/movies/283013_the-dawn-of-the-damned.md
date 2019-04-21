@@ -1,0 +1,1 @@
+{"tmdb_id": 283013, "title": "The Dawn of the Damned", "original_title": "Fajr al-mu'adhhabin", "slug_title": "the-dawn-of-the-damned", "date": "1966-01-02", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjy19Ua0TiARIwollF6zg1z3iU9.jpg", "actors": [], "comments": [], "recommandations_id": []}

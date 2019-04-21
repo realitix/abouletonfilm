@@ -1,0 +1,1 @@
+{"tmdb_id": 503739, "title": "Please Stand by for Murder", "original_title": "Please Stand by for Murder", "slug_title": "please-stand-by-for-murder", "date": "1975-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

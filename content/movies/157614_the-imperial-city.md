@@ -1,0 +1,1 @@
+{"tmdb_id": 157614, "title": "The Imperial City", "original_title": "The Imperial City", "slug_title": "the-imperial-city", "date": "1930-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

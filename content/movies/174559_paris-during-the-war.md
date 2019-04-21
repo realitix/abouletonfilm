@@ -1,0 +1,1 @@
+{"tmdb_id": 174559, "title": "Paris During the War", "original_title": "Paris pendant la guerre", "slug_title": "paris-during-the-war", "date": "1916-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georges Wague ()", "Jean Signoret ()", "Camille Bardou ()", "Claude M\u00e9relle ()"], "comments": [], "recommandations_id": []}

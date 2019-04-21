@@ -1,0 +1,1 @@
+{"tmdb_id": 252449, "title": "U2: ZooTV - Outside Broadcast", "original_title": "U2: ZooTV - Outside Broadcast", "slug_title": "u2-zootv-outside-broadcast", "date": "1992-11-25", "genre": "Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dHj2zIIcOyQHc37OLGNvAUrqVlO.jpg", "actors": [], "comments": [], "recommandations_id": []}

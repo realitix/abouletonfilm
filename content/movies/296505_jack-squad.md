@@ -1,0 +1,1 @@
+{"tmdb_id": 296505, "title": "Jack Squad", "original_title": "Jack Squad", "slug_title": "jack-squad", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/orU0CZcpjXRhea5k2C4luihy7kx.jpg", "actors": [], "comments": [], "recommandations_id": []}

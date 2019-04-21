@@ -1,0 +1,1 @@
+{"tmdb_id": 489536, "title": "Bad Blood", "original_title": "M\u00e1 Ra\u00e7a", "slug_title": "bad-blood", "date": "2013-10-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3PSXyoS6GNvKFCiiSOf1TgJzGc.jpg", "actors": [], "comments": [], "recommandations_id": []}

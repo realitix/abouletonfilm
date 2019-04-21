@@ -1,0 +1,1 @@
+{"tmdb_id": 229522, "title": "Sex and the Other Woman", "original_title": "Sex and the Other Woman", "slug_title": "sex-and-the-other-woman", "date": "1972-12-30", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5s4o94CPPLTUtOhF6qfTl5BVHZx.jpg", "actors": [], "comments": [], "recommandations_id": []}

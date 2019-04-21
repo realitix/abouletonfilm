@@ -1,0 +1,1 @@
+{"tmdb_id": 337328, "title": "Shaggy Dog", "original_title": "Shaggy Dog", "slug_title": "shaggy-dog", "date": "1968-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFuZyh07d0wvppdUOrjLqWL3Cmo.jpg", "actors": ["John Neville (Wilkie)", "Derek Godfrey (Parker)"], "comments": [], "recommandations_id": []}

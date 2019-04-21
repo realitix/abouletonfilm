@@ -1,0 +1,1 @@
+{"tmdb_id": 513013, "title": "O Lenhador e a Raposa", "original_title": "O Lenhador e a Raposa", "slug_title": "o-lenhador-e-a-raposa", "date": "2009-07-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hM9FlA5DN8sbhIiTz6btGgfnwHI.jpg", "actors": [], "comments": [], "recommandations_id": []}

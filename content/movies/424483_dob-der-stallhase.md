@@ -1,0 +1,1 @@
+{"tmdb_id": 424483, "title": "Dob, der Stallhase", "original_title": "Dob, der Stallhase", "slug_title": "dob-der-stallhase", "date": "1946-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

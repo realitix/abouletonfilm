@@ -1,0 +1,1 @@
+{"tmdb_id": 483336, "title": "Davina Power of 3", "original_title": "Davina Power of 3", "slug_title": "davina-power-of-3", "date": "2004-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYmxJHmjIjBpVKL8ss9kkDlEi2e.jpg", "actors": ["Davina McCall ()"], "comments": [], "recommandations_id": []}

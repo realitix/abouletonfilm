@@ -1,0 +1,1 @@
+{"tmdb_id": 494406, "title": "Remains", "original_title": "Remains", "slug_title": "remains", "date": "2014-08-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ye3IfKVRft1P31fM9TfgWr8p6Gi.jpg", "actors": ["none ()"], "comments": [], "recommandations_id": []}

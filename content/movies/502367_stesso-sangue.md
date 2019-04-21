@@ -1,0 +1,1 @@
+{"tmdb_id": 502367, "title": "Stesso sangue", "original_title": "Stesso sangue", "slug_title": "stesso-sangue", "date": "1988-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniele Nuccetelli (Bruno Stella)", "Alessandra Monti (Irene Stella)"], "comments": [], "recommandations_id": []}

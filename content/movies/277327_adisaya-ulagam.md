@@ -1,0 +1,1 @@
+{"tmdb_id": 277327, "title": "Adisaya Ulagam", "original_title": "Adisaya Ulagam", "slug_title": "adisaya-ulagam", "date": "2012-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anandha Kannan ()", "Livingston ()", "Latha Rao ()", "George Vishnu ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 61422, "title": "Becoming Barack", "original_title": "Becoming Barack", "slug_title": "becoming-barack", "date": "2009-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMlrHJhmBkFOl2tKGMoOtvMnSQT.jpg", "actors": [], "comments": [], "recommandations_id": []}

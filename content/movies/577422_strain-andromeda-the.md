@@ -1,0 +1,1 @@
+{"tmdb_id": 577422, "title": "Strain Andromeda The", "original_title": "Strain Andromeda The", "slug_title": "strain-andromeda-the", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

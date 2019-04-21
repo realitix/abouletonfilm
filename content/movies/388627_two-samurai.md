@@ -1,0 +1,1 @@
+{"tmdb_id": 388627, "title": "Two Samurai", "original_title": "Futari Zamurai Homare no Kawakiri", "slug_title": "two-samurai", "date": "1963-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7sFavuLBBcEbm9omHGD4CUyBNTe.jpg", "actors": [], "comments": [], "recommandations_id": []}

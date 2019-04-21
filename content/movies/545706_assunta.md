@@ -1,0 +1,1 @@
+{"tmdb_id": 545706, "title": "Assunta", "original_title": "Assunta", "slug_title": "assunta", "date": "2018-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

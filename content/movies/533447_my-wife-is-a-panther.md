@@ -1,0 +1,1 @@
+{"tmdb_id": 533447, "title": "My Wife Is a Panther", "original_title": "Ma femme est une panth\u00e8re", "slug_title": "my-wife-is-a-panther", "date": "1961-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oy6m1VG29r60QRPQR4iId4lO6wR.jpg", "actors": [], "comments": [], "recommandations_id": []}

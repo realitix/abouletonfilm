@@ -1,0 +1,1 @@
+{"tmdb_id": 594339, "title": "Spotkanie w Bajce", "original_title": "Spotkanie w Bajce", "slug_title": "spotkanie-w-bajce", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzQGUUgxCXYnQJy4ds9EWgMJZx4.jpg", "actors": [], "comments": [], "recommandations_id": []}

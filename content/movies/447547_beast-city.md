@@ -1,0 +1,1 @@
+{"tmdb_id": 447547, "title": "Beast City", "original_title": "Inma Daitoshi: Beast City", "slug_title": "beast-city", "date": "1996-05-24", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rAjysQ8Bhki76WhiOoNoVP8qAM4.jpg", "actors": [], "comments": [], "recommandations_id": []}

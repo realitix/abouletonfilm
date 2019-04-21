@@ -1,0 +1,1 @@
+{"tmdb_id": 63779, "title": "Hawkwind: Chaos", "original_title": "Hawkwind: Chaos", "slug_title": "hawkwind-chaos", "date": "2004-03-01", "genre": "Musique / Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1UWT0Mja4PKmiBMSD1dKT1JjPn.jpg", "actors": ["Hawkwind (Themselves)"], "comments": [], "recommandations_id": []}

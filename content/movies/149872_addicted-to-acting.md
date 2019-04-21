@@ -1,0 +1,1 @@
+{"tmdb_id": 149872, "title": "Addicted to Acting", "original_title": "Die Spielw\u00fctigen", "slug_title": "addicted-to-acting", "date": "2004-07-03", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnOGDpYyAZKKcaUoAYovINaj2j1.jpg", "actors": [], "comments": [], "recommandations_id": []}

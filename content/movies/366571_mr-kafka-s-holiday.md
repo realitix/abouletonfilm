@@ -1,0 +1,1 @@
+{"tmdb_id": 366571, "title": "Mr. Kafka's Holiday", "original_title": "Mr. Kafka's Holiday", "slug_title": "mr-kafka-s-holiday", "date": "2002-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

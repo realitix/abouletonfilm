@@ -1,0 +1,1 @@
+{"tmdb_id": 273388, "title": "Disco Spinning The Story", "original_title": "Disco Spinning The Story", "slug_title": "disco-spinning-the-story", "date": "2005-06-07", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fCOBeXtn5Qi8AbFyNcDAE1GYrNi.jpg", "actors": [], "comments": [], "recommandations_id": []}

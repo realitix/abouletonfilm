@@ -1,0 +1,1 @@
+{"tmdb_id": 296792, "title": "Diminished Frame", "original_title": "Diminished Frame", "slug_title": "diminished-frame", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nmJWwpazgZE9hmIdjO2lSmZpBtJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

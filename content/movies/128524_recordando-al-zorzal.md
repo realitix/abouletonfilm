@@ -1,0 +1,1 @@
+{"tmdb_id": 128524, "title": "Recordando al zorzal", "original_title": "Recordando al zorzal", "slug_title": "recordando-al-zorzal", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVF0FWnUnybsvcBk50Mz38oRtkU.jpg", "actors": ["Carlos Gadel ()"], "comments": [], "recommandations_id": []}

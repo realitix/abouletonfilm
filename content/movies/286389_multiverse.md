@@ -1,0 +1,1 @@
+{"tmdb_id": 286389, "title": "Multiverse", "original_title": "Multiverse", "slug_title": "multiverse", "date": "2014-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca De Ornelas ()", "Samantha Steinmetz ()", "John Russell ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 521342, "title": "Players", "original_title": "Players", "slug_title": "players", "date": "1982-11-12", "genre": "Animation / Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7zLEykVzLphEe0plzybOB74BQu.jpg", "actors": [], "comments": [], "recommandations_id": []}

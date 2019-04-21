@@ -1,0 +1,1 @@
+{"tmdb_id": 537775, "title": "Facing It", "original_title": "Facing It", "slug_title": "facing-it", "date": "2018-06-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0TaT8g8TXaaJSYz6TqCISJ31U7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 402998, "title": "The Occupiers", "original_title": "The Occupiers", "slug_title": "the-occupiers", "date": "2016-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

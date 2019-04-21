@@ -1,0 +1,1 @@
+{"tmdb_id": 460268, "title": "Hasan Everywhere", "original_title": "Hasan Everywhere", "slug_title": "hasan-everywhere", "date": "2010-02-01", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sami Moukaddem (Hasan Hourani (voice))", "Keshet Zur (Dorit Rabinyan (voice))"], "comments": [], "recommandations_id": []}

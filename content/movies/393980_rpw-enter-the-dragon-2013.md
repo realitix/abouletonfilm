@@ -1,0 +1,1 @@
+{"tmdb_id": 393980, "title": "RPW: Enter The Dragon 2013", "original_title": "RPW: Enter The Dragon 2013", "slug_title": "rpw-enter-the-dragon-2013", "date": "2013-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiXgNskYxPyGlY9HRHzwjWBourL.jpg", "actors": [], "comments": [], "recommandations_id": []}

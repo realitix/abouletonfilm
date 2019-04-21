@@ -1,0 +1,1 @@
+{"tmdb_id": 163343, "title": "The Tender Game", "original_title": "The Tender Game", "slug_title": "the-tender-game", "date": "1958-01-01", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJj0FsSKTEIpCKSiag3pETo7S7Z.jpg", "actors": [], "comments": [], "recommandations_id": [88570, 164127, 157513, 162691]}

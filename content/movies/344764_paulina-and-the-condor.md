@@ -1,0 +1,1 @@
+{"tmdb_id": 344764, "title": "Paulina and the condor", "original_title": "Paulina y el c\u00f3ndor", "slug_title": "paulina-and-the-condor", "date": "1994-06-14", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

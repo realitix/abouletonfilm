@@ -1,0 +1,1 @@
+{"tmdb_id": 384708, "title": "Black Celebration", "original_title": "Black Celebration", "slug_title": "black-celebration", "date": "1988-02-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

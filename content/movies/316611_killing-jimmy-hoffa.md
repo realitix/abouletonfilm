@@ -1,0 +1,1 @@
+{"tmdb_id": 316611, "title": "Killing Jimmy Hoffa", "original_title": "Killing Jimmy Hoffa", "slug_title": "killing-jimmy-hoffa", "date": "2014-11-11", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnGi1dP2kWHxZxhHPP8iOrhQeDD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300327, "title": "Death Calls", "original_title": "Death Calls", "slug_title": "death-calls", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

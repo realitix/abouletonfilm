@@ -1,0 +1,1 @@
+{"tmdb_id": 322736, "title": "A Self-Made Man", "original_title": "A Self-Made Man", "slug_title": "a-self-made-man", "date": "2013-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvrD2CVFgFr0onaEGdlPT6B12Q0.jpg", "actors": [], "comments": [], "recommandations_id": []}

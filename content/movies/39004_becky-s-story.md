@@ -1,0 +1,1 @@
+{"tmdb_id": 39004, "title": "Becky's Story", "original_title": "Becky's Story", "slug_title": "becky-s-story", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

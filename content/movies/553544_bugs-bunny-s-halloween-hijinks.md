@@ -1,0 +1,1 @@
+{"tmdb_id": 553544, "title": "Bugs Bunny's Halloween Hijinks", "original_title": "Bugs Bunny's Halloween Hijinks", "slug_title": "bugs-bunny-s-halloween-hijinks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3VAJu7QqsBNBG1L8Gs7IgiypOs.jpg", "actors": [], "comments": [], "recommandations_id": []}

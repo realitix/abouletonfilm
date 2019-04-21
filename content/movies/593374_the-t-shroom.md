@@ -1,0 +1,1 @@
+{"tmdb_id": 593374, "title": "The T-shroom", "original_title": "The T-shroom", "slug_title": "the-t-shroom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zip2ae1UuGJSFOrsSCn4rMAoluH.jpg", "actors": [], "comments": [], "recommandations_id": []}

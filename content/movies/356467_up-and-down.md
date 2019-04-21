@@ -1,0 +1,1 @@
+{"tmdb_id": 356467, "title": "Up and Down", "original_title": "Subir y bajar", "slug_title": "up-and-down", "date": "2008-08-27", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irene Anula (Her)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579314, "title": "A Star Wars Story", "original_title": "A Star Wars Story", "slug_title": "a-star-wars-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

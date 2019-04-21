@@ -1,0 +1,1 @@
+{"tmdb_id": 124682, "title": "Calling the Ghosts", "original_title": "Calling the Ghosts", "slug_title": "calling-the-ghosts", "date": "1996-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBValG1iXuhysq11btTQJrnsWv6.jpg", "actors": [], "comments": [], "recommandations_id": []}

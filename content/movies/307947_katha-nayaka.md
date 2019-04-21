@@ -1,0 +1,1 @@
+{"tmdb_id": 307947, "title": "Katha nayaka", "original_title": "Katha nayaka", "slug_title": "katha-nayaka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

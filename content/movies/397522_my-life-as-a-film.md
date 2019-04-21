@@ -1,0 +1,1 @@
+{"tmdb_id": 397522, "title": "My Life as a Film", "original_title": "Das Leben drehen", "slug_title": "my-life-as-a-film", "date": "2016-05-05", "genre": "Familial / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9DQeGGZZgc6CMgCb5cQTlEafns.jpg", "actors": [], "comments": [], "recommandations_id": []}

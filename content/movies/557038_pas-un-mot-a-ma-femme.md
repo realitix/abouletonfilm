@@ -1,0 +1,1 @@
+{"tmdb_id": 557038, "title": "Pas un mot \u00e0 ma femme", "original_title": "Pas un mot \u00e0 ma femme", "slug_title": "pas-un-mot-a-ma-femme", "date": "1932-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

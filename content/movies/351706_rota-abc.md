@@ -1,0 +1,1 @@
+{"tmdb_id": 351706, "title": "Rota ABC", "original_title": "Rota ABC", "slug_title": "rota-abc", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymY6mqlTlEgOHln8YkHDTQ4xn6U.jpg", "actors": ["Mao (Himself)"], "comments": [], "recommandations_id": []}

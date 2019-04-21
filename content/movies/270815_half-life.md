@@ -1,0 +1,1 @@
+{"tmdb_id": 270815, "title": "Half Life", "original_title": "Half Life", "slug_title": "half-life", "date": "1986-05-20", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t2vm36DC3PGNtUjTaasnZ6oo5dy.jpg", "actors": [], "comments": [], "recommandations_id": []}

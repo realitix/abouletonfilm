@@ -1,0 +1,1 @@
+{"tmdb_id": 20855, "title": "The Hugga Bunch", "original_title": "The Hugga Bunch", "slug_title": "the-hugga-bunch", "date": "1985-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaCFBBGwW3zrVsWFZT9aemXrWtG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 544471, "title": "Casa de Praia", "original_title": "Casa de Praia", "slug_title": "casa-de-praia", "date": "2018-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNyGsCqjmRUqE1Jiy7qdbJ6dTFZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

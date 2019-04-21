@@ -1,0 +1,1 @@
+{"tmdb_id": 143042, "title": "Chalkdust Memories", "original_title": "Chalkdust Memories", "slug_title": "chalkdust-memories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/azyHQbZqJcdT5R1VIjNfq5MXHMC.jpg", "actors": [], "comments": [], "recommandations_id": []}

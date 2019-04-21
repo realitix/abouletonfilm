@@ -1,0 +1,1 @@
+{"tmdb_id": 537431, "title": "Ralph Ellison: An American Journey", "original_title": "Ralph Ellison: An American Journey", "slug_title": "ralph-ellison-an-american-journey", "date": "2002-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

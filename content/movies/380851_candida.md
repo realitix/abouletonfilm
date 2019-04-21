@@ -1,0 +1,1 @@
+{"tmdb_id": 380851, "title": "Candida", "original_title": "Candida", "slug_title": "candida", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jara Bernardes ()"], "comments": [], "recommandations_id": []}

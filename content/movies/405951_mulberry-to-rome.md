@@ -1,0 +1,1 @@
+{"tmdb_id": 405951, "title": "Mulberry to Rome", "original_title": "Mulberry to Rome", "slug_title": "mulberry-to-rome", "date": "2016-12-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Costas Mandylor ()", "Frank Stallone ()", "William DeMeo ()", "Jim Hanks ()"], "comments": [], "recommandations_id": []}

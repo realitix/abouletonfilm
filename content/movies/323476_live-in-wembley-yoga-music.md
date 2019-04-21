@@ -1,0 +1,1 @@
+{"tmdb_id": 323476, "title": "\"Live in Wembley\" - Yoga Music", "original_title": "\"Live in Wembley\" - Yoga Music", "slug_title": "live-in-wembley-yoga-music", "date": "2011-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

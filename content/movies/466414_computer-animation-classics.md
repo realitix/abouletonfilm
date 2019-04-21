@@ -1,0 +1,1 @@
+{"tmdb_id": 466414, "title": "Computer Animation Classics", "original_title": "Computer Animation Classics", "slug_title": "computer-animation-classics", "date": "1997-04-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eHnT0lqzkbEk5ZPLSCoAEQngCmL.jpg", "actors": [], "comments": [], "recommandations_id": []}

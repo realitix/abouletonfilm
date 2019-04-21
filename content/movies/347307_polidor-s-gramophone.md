@@ -1,0 +1,1 @@
+{"tmdb_id": 347307, "title": "Polidor's Gramophone", "original_title": "Il grammofono di Polidor", "slug_title": "polidor-s-gramophone", "date": "1912-09-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polidor (Polidor)"], "comments": [], "recommandations_id": []}

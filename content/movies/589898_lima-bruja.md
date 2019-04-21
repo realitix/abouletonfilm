@@ -1,0 +1,1 @@
+{"tmdb_id": 589898, "title": "Lima Bruja", "original_title": "Lima Bruja", "slug_title": "lima-bruja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ldaeloRxmYvO8ab3swp16CWSNEy.jpg", "actors": [], "comments": [], "recommandations_id": []}

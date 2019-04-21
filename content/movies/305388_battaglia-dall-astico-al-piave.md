@@ -1,0 +1,1 @@
+{"tmdb_id": 305388, "title": "Battaglia dall'Astico al Piave", "original_title": "Battaglia dall'Astico al Piave", "slug_title": "battaglia-dall-astico-al-piave", "date": "1918-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

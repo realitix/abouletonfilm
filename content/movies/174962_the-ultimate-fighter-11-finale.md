@@ -1,0 +1,1 @@
+{"tmdb_id": 174962, "title": "The Ultimate Fighter 11 Finale", "original_title": "The Ultimate Fighter 11 Finale", "slug_title": "the-ultimate-fighter-11-finale", "date": "2010-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVIy5baN2EXoxre0Td6n4mYVlIK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345688, "title": "Mr. Lucky", "original_title": "\u597d\u547d\u5148\u751f", "slug_title": "mr-lucky", "date": "2014-08-15", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lXabwjYrEYM7j9jMP1rF0f0TZs.jpg", "actors": ["Jordan Chan ()", "Ady An ()"], "comments": [], "recommandations_id": []}

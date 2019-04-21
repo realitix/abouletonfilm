@@ -1,0 +1,1 @@
+{"tmdb_id": 393905, "title": "Washington the Warrior", "original_title": "Washington the Warrior", "slug_title": "washington-the-warrior", "date": "2006-05-29", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zLlJKKIWmV7MHzRJsR34F0Vc3aU.jpg", "actors": [], "comments": [], "recommandations_id": []}

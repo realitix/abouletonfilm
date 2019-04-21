@@ -1,0 +1,1 @@
+{"tmdb_id": 137062, "title": "The Killing Games", "original_title": "The Killing Games", "slug_title": "the-killing-games", "date": "2012-09-22", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ripzTKb15LrJm12iji5yi6ZaW1.jpg", "actors": [], "comments": [], "recommandations_id": []}

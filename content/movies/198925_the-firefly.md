@@ -1,0 +1,1 @@
+{"tmdb_id": 198925, "title": "The Firefly", "original_title": "Svetlyachok", "slug_title": "the-firefly", "date": "1978-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fP9kbYWV5W759rbMufMKkeiZTUp.jpg", "actors": ["Petr Vishniakov ()"], "comments": [], "recommandations_id": []}

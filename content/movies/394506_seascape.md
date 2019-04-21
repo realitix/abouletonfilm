@@ -1,0 +1,1 @@
+{"tmdb_id": 394506, "title": "Seascape", "original_title": "Seascape", "slug_title": "seascape", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 298034, "title": "The Damned", "original_title": "The Damned", "slug_title": "the-damned", "date": "", "genre": "Thriller / Horreur", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny Trejo (Chimalle)", "Christina Woods (Rhonda)"], "comments": [], "recommandations_id": []}

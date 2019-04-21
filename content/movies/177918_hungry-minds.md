@@ -1,0 +1,1 @@
+{"tmdb_id": 177918, "title": "Hungry Minds", "original_title": "Hungry Minds", "slug_title": "hungry-minds", "date": "2012-03-14", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eE0srlJcqbQ2clxRLOJmAp7LqW5.jpg", "actors": [], "comments": [], "recommandations_id": []}

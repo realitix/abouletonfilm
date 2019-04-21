@@ -1,0 +1,1 @@
+{"tmdb_id": 460521, "title": "Tilburg Teacher Trilogy", "original_title": "Tilburg Teacher Trilogy", "slug_title": "tilburg-teacher-trilogy", "date": "1981-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

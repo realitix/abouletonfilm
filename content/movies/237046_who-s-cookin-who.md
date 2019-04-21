@@ -1,0 +1,1 @@
+{"tmdb_id": 237046, "title": "Who's Cookin Who?", "original_title": "Who's Cookin Who?", "slug_title": "who-s-cookin-who", "date": "1946-06-23", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eaoTA2YOjDTiBX9GxybKAa8NYpa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481091, "title": "Kho ki pa lu", "original_title": "Kho ki pa lu", "slug_title": "kho-ki-pa-lu", "date": "2017-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIyR4GcXR1r5MlAN6nlN0jaaXsA.jpg", "actors": [], "comments": [], "recommandations_id": []}

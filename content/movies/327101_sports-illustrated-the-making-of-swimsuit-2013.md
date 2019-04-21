@@ -1,0 +1,1 @@
+{"tmdb_id": 327101, "title": "Sports Illustrated: The Making of Swimsuit 2013", "original_title": "Sports Illustrated: The Making of Swimsuit 2013", "slug_title": "sports-illustrated-the-making-of-swimsuit-2013", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

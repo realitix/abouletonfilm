@@ -1,0 +1,1 @@
+{"tmdb_id": 405721, "title": "Hamburger Lektionen", "original_title": "Hamburger Lektionen", "slug_title": "hamburger-lektionen", "date": "2006-02-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xK3XH66TZCcK9uMuBhX12tarCWo.jpg", "actors": ["Manfred Zapatka ()"], "comments": [], "recommandations_id": []}

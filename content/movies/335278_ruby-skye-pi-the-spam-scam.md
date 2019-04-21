@@ -1,0 +1,1 @@
+{"tmdb_id": 335278, "title": "Ruby Skye PI: The Spam Scam", "original_title": "Ruby Skye PI: The Spam Scam", "slug_title": "ruby-skye-pi-the-spam-scam", "date": "2015-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

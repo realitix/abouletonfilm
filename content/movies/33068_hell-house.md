@@ -1,0 +1,1 @@
+{"tmdb_id": 33068, "title": "Hell House", "original_title": "Hell House", "slug_title": "hell-house", "date": "2001-09-12", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynwh14FOfMdIlp8pwBK9QpfJe16.jpg", "actors": [], "comments": [], "recommandations_id": [18902, 51182, 34581, 43734]}

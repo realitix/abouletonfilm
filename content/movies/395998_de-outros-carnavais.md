@@ -1,0 +1,1 @@
+{"tmdb_id": 395998, "title": "De Outros Carnavais", "original_title": "De Outros Carnavais", "slug_title": "de-outros-carnavais", "date": "2012-05-04", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

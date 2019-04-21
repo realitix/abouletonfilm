@@ -1,0 +1,1 @@
+{"tmdb_id": 562928, "title": "Jiri Kylian's Sinfonietta", "original_title": "Jiri Kylian's Sinfonietta", "slug_title": "jiri-kylian-s-sinfonietta", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2lNOBwt0fxehL90MieEW2soW9h.jpg", "actors": [], "comments": [], "recommandations_id": []}

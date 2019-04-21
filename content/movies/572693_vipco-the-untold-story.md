@@ -1,0 +1,1 @@
+{"tmdb_id": 572693, "title": "VIPCO: The Untold Story", "original_title": "VIPCO: The Untold Story", "slug_title": "vipco-the-untold-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Lee (Himself)"], "comments": [], "recommandations_id": []}

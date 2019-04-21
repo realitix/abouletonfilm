@@ -1,0 +1,1 @@
+{"tmdb_id": 454732, "title": "Nova Remnants", "original_title": "Nova Remnants", "slug_title": "nova-remnants", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271882, "title": "The Fence", "original_title": "El Cerco", "slug_title": "the-fence", "date": "2005-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Pg0GUqm7zritbIgntFr7V0iVsi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424770, "title": "Bethlehem Steel", "original_title": "Bethlehem Steel", "slug_title": "bethlehem-steel", "date": "2010-06-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320410, "title": "The Canary Effect", "original_title": "The Canary Effect", "slug_title": "the-canary-effect", "date": "2006-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xHbscdDeAhoPzQVys9yOHmmqXCG.jpg", "actors": [], "comments": [], "recommandations_id": []}

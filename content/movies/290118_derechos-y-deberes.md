@@ -1,0 +1,1 @@
+{"tmdb_id": 290118, "title": "Derechos y deberes", "original_title": "Derechos y deberes", "slug_title": "derechos-y-deberes", "date": "2008-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isabel Ampudia ()", "Antonio Barbero ()", "Jan Cornet ()", "Laura de la Isla ()"], "comments": [], "recommandations_id": []}

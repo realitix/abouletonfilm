@@ -1,0 +1,1 @@
+{"tmdb_id": 351384, "title": "Rover's Rescue", "original_title": "Rover's Rescue", "slug_title": "rover-s-rescue", "date": "1940-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 405018, "title": "Yi Jian Qi Xia", "original_title": "Yi Jian Qi Xia", "slug_title": "yi-jian-qi-xia", "date": "1992-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkifviDQIryEawYSQSgJL8f8OA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 122798, "title": "1989: The Summer of Rave", "original_title": "1989: The Summer of Rave", "slug_title": "1989-the-summer-of-rave", "date": "1996-01-31", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Cbf2CsYIl0XtaNTA3XhHTtjwtJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

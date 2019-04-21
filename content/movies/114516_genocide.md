@@ -1,0 +1,1 @@
+{"tmdb_id": 114516, "title": "Genocide", "original_title": "Genocide", "slug_title": "genocide", "date": "1982-03-14", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wiEDf2FwdjKQOLa0nogHfcWkTVp.jpg", "actors": [], "comments": [], "recommandations_id": []}

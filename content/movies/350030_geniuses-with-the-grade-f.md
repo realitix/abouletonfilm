@@ -1,0 +1,1 @@
+{"tmdb_id": 350030, "title": "Geniuses with the Grade F", "original_title": "F\ud559\uc810\uc758 \ucc9c\uc7ac\ub4e4", "slug_title": "geniuses-with-the-grade-f", "date": "1982-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GwHeetmHZ0MauyBFFdvNln7FA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

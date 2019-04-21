@@ -1,0 +1,1 @@
+{"tmdb_id": 267044, "title": "My Life Inside", "original_title": "Mi vida dentro", "slug_title": "my-life-inside", "date": "2007-01-16", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hez6KmEdY9KhMR4XxyB3jg4UhTo.jpg", "actors": [], "comments": [], "recommandations_id": []}

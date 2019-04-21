@@ -1,0 +1,1 @@
+{"tmdb_id": 410558, "title": "Tyler Yahne's Slash", "original_title": "Tyler Yahne's Slash", "slug_title": "tyler-yahne-s-slash", "date": "", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFW8PIAcmN0sr5PvXUcLa6agXJY.jpg", "actors": [], "comments": [], "recommandations_id": []}

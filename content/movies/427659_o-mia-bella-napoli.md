@@ -1,0 +1,1 @@
+{"tmdb_id": 427659, "title": "O mia bella Napoli", "original_title": "O mia bella Napoli", "slug_title": "o-mia-bella-napoli", "date": "1969-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Garden (Modefotograf)", "Rosi Rohr ()", "Louis Neefs ()"], "comments": [], "recommandations_id": []}

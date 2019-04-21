@@ -1,0 +1,1 @@
+{"tmdb_id": 272772, "title": "How 2 Build A Rapper", "original_title": "How 2 Build A Rapper", "slug_title": "how-2-build-a-rapper", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

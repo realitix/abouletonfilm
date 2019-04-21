@@ -1,0 +1,1 @@
+{"tmdb_id": 289404, "title": "The Wind from the West", "original_title": "Vinden fr\u00e5n v\u00e4ster", "slug_title": "the-wind-from-the-west", "date": "1942-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

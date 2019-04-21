@@ -1,0 +1,1 @@
+{"tmdb_id": 345447, "title": "Kontroll", "original_title": "Kontroll", "slug_title": "kontroll", "date": "2009-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 507276, "title": "Ondes de choc: Sirius", "original_title": "Ondes de choc: Sirius", "slug_title": "ondes-de-choc-sirius", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

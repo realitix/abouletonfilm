@@ -1,0 +1,1 @@
+{"tmdb_id": 490096, "title": "Jack Levine: Feast of Pure Reason", "original_title": "Jack Levine: Feast of Pure Reason", "slug_title": "jack-levine-feast-of-pure-reason", "date": "1986-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Levine (Himself)"], "comments": [], "recommandations_id": []}

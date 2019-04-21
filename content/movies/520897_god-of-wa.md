@@ -1,0 +1,1 @@
+{"tmdb_id": 520897, "title": "God of Wa", "original_title": "God of Wa", "slug_title": "god-of-wa", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320725, "title": "Clifton Chenier: The King of Zydeco", "original_title": "Clifton Chenier: The King of Zydeco", "slug_title": "clifton-chenier-the-king-of-zydeco", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413643, "title": "The Emperor's New Clothes", "original_title": "The Emperor's New Clothes", "slug_title": "the-emperor-s-new-clothes", "date": "1992-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Regis Philbin ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313941, "title": "You're Driving Me Crazy", "original_title": "You're Driving Me Crazy", "slug_title": "you-re-driving-me-crazy", "date": "1931-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

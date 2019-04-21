@@ -1,0 +1,1 @@
+{"tmdb_id": 221382, "title": "Kid Show", "original_title": "Kid Show", "slug_title": "kid-show", "date": "2007-05-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AchwdDrZCIOrXfXWZEaZh9jjX5t.jpg", "actors": [], "comments": [], "recommandations_id": []}

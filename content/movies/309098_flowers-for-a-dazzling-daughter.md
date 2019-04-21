@@ -1,0 +1,1 @@
+{"tmdb_id": 309098, "title": "Flowers for a Dazzling Daughter", "original_title": "Flowers for a Dazzling Daughter", "slug_title": "flowers-for-a-dazzling-daughter", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

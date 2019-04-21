@@ -1,0 +1,1 @@
+{"tmdb_id": 235925, "title": "The Awful Tooth", "original_title": "The Awful Tooth", "slug_title": "the-awful-tooth", "date": "1952-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

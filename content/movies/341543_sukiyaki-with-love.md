@@ -1,0 +1,1 @@
+{"tmdb_id": 341543, "title": "Sukiyaki with Love", "original_title": "Sukiyaki with Love", "slug_title": "sukiyaki-with-love", "date": "2013-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

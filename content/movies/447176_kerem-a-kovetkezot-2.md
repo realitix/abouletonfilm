@@ -1,0 +1,1 @@
+{"tmdb_id": 447176, "title": "K\u00e9rem a k\u00f6vetkez\u0151t 2.", "original_title": "K\u00e9rem a k\u00f6vetkez\u0151t 2.", "slug_title": "kerem-a-kovetkezot-2", "date": "1980-10-14", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 440695, "title": "Se lo dije, Lucecita", "original_title": "Se lo dije, Lucecita", "slug_title": "se-lo-dije-lucecita", "date": "2017-05-04", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jorge Osorto ()", "Blanca Enamorado ()", "Enma Mart\u00ednez ()"], "comments": [], "recommandations_id": []}

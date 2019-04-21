@@ -1,0 +1,1 @@
+{"tmdb_id": 533978, "title": "Ra\u00e7a Negra & Amigos II", "original_title": "Ra\u00e7a Negra & Amigos II", "slug_title": "raca-negra-amigos-ii", "date": "2017-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpA8TeLTptwRIr2w8j9nUzN3qSc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 292956, "title": "Diamonds and Rust", "original_title": "Diamonds and Rust", "slug_title": "diamonds-and-rust", "date": "2001-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

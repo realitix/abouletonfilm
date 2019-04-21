@@ -1,0 +1,1 @@
+{"tmdb_id": 265750, "title": "Abegweit", "original_title": "Abegweit", "slug_title": "abegweit", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgdVY1Q5wGtpDrB8gLjdHdumIE9.jpg", "actors": [], "comments": [], "recommandations_id": []}

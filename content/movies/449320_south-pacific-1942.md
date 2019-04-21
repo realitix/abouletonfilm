@@ -1,0 +1,1 @@
+{"tmdb_id": 449320, "title": "South Pacific 1942", "original_title": "South Pacific 1942", "slug_title": "south-pacific-1942", "date": "1981-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKZaGbhTpNP5RINJd1YohI1Y8gS.jpg", "actors": [], "comments": [], "recommandations_id": []}

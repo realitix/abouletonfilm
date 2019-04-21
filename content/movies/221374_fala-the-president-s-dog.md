@@ -1,0 +1,1 @@
+{"tmdb_id": 221374, "title": "Fala: The President's Dog", "original_title": "Fala: The President's Dog", "slug_title": "fala-the-president-s-dog", "date": "1943-04-10", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMaMqBojMfVlCQHrXOvj7ofXbOO.jpg", "actors": [], "comments": [], "recommandations_id": []}

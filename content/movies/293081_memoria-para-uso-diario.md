@@ -1,0 +1,1 @@
+{"tmdb_id": 293081, "title": "Mem\u00f3ria para Uso Di\u00e1rio", "original_title": "Mem\u00f3ria para Uso Di\u00e1rio", "slug_title": "memoria-para-uso-diario", "date": "2007-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qTlFsKSIfvvvAcTgnjsLrEV8Qm.jpg", "actors": [], "comments": [], "recommandations_id": []}

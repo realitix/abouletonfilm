@@ -1,0 +1,1 @@
+{"tmdb_id": 301712, "title": "Squeezed Like Lemons: Italy In Crisis", "original_title": "Squeezed Like Lemons: Italy In Crisis", "slug_title": "squeezed-like-lemons-italy-in-crisis", "date": "2013-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

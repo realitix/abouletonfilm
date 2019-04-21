@@ -1,0 +1,1 @@
+{"tmdb_id": 24519, "title": "UFC Ultimate Knockouts 6", "original_title": "UFC Ultimate Knockouts 6", "slug_title": "ufc-ultimate-knockouts-6", "date": "2009-01-27", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRnuHzv1WlTmtOEXAYo5bTb30Xm.jpg", "actors": [], "comments": [], "recommandations_id": []}

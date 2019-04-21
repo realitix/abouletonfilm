@@ -1,0 +1,1 @@
+{"tmdb_id": 311466, "title": "Aspect: The Chronicle of New Media Art: Vol. 6", "original_title": "Aspect: The Chronicle of New Media Art: Vol. 6", "slug_title": "aspect-the-chronicle-of-new-media-art-vol-6", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

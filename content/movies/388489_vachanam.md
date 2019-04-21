@@ -1,0 +1,1 @@
+{"tmdb_id": 388489, "title": "Vachanam", "original_title": "\u0d35\u0d1a\u0d28\u0d02", "slug_title": "vachanam", "date": "1989-10-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jayaram (Gopan)"], "comments": [], "recommandations_id": []}

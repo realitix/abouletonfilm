@@ -1,0 +1,1 @@
+{"tmdb_id": 286690, "title": "The Skipper's Narrow Escape", "original_title": "The Skipper's Narrow Escape", "slug_title": "the-skipper-s-narrow-escape", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

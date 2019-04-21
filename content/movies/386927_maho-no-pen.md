@@ -1,0 +1,1 @@
+{"tmdb_id": 386927, "title": "Maho no pen", "original_title": "Maho no pen", "slug_title": "maho-no-pen", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

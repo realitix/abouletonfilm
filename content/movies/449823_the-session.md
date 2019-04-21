@@ -1,0 +1,1 @@
+{"tmdb_id": 449823, "title": "The Session", "original_title": "The Session", "slug_title": "the-session", "date": "2013-05-05", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

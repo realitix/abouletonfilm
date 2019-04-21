@@ -1,0 +1,1 @@
+{"tmdb_id": 533730, "title": "Red Dress. No Straps", "original_title": "Red Dress. No Straps", "slug_title": "red-dress-no-straps", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350913, "title": "\ud0dc\uc591\uc744 \ud6d4\uce5c \uc5ec\uc790", "original_title": "\ud0dc\uc591\uc744 \ud6d4\uce5c \uc5ec\uc790", "slug_title": "taeyangeul-humcin-yeoja", "date": "1979-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

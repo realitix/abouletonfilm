@@ -1,0 +1,1 @@
+{"tmdb_id": 346975, "title": "One day, A girl", "original_title": "Un d\u00eda, una chica", "slug_title": "one-day-a-girl", "date": "2006-06-30", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lia Camilo (La chica)"], "comments": [], "recommandations_id": []}

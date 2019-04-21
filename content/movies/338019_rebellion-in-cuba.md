@@ -1,0 +1,1 @@
+{"tmdb_id": 338019, "title": "Rebellion In Cuba", "original_title": "Rebellion In Cuba", "slug_title": "rebellion-in-cuba", "date": "1961-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

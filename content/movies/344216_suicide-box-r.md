@@ -1,0 +1,1 @@
+{"tmdb_id": 344216, "title": "Suicide Box\u00ae", "original_title": "Suicide Box\u00ae", "slug_title": "suicide-box-r", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pq4H03gXMuaSzQ8LLvlOENsPMJ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

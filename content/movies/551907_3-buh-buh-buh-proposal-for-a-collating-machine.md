@@ -1,0 +1,1 @@
+{"tmdb_id": 551907, "title": "3 (buh buh buh) proposal for a collating machine", "original_title": "3 (buh buh buh) proposal for a collating machine", "slug_title": "3-buh-buh-buh-proposal-for-a-collating-machine", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

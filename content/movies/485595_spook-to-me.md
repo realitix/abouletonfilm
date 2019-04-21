@@ -1,0 +1,1 @@
+{"tmdb_id": 485595, "title": "Spook to Me", "original_title": "Spook to Me", "slug_title": "spook-to-me", "date": "1945-12-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xPyiwwBXrOMk9i1aSdb4OiQTWp.jpg", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

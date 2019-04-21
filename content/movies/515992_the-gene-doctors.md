@@ -1,0 +1,1 @@
+{"tmdb_id": 515992, "title": "The Gene Doctors", "original_title": "The Gene Doctors", "slug_title": "the-gene-doctors", "date": "2017-10-02", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYoIFZ7QP2EV4H91fNCEk4dwfU5.jpg", "actors": [], "comments": [], "recommandations_id": []}

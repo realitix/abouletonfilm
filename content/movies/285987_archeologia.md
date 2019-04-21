@@ -1,0 +1,1 @@
+{"tmdb_id": 285987, "title": "Archeologia", "original_title": "Archeologia", "slug_title": "archeologia", "date": "1968-12-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Hc2Mosm9hnlT1RcU1NV4UdCpax.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 260364, 249354, 352631]}

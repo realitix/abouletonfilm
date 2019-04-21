@@ -1,0 +1,1 @@
+{"tmdb_id": 73509, "title": "Bakhit and Bakhita", "original_title": "\u0628\u062e\u064a\u062a \u0648 \u0628\u062e\u064a\u062a\u0629", "slug_title": "bakhit-and-bakhita", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iabkkWMDfUsred8BWTPtfxgDNdo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236844, "title": "Africa, Prelude to Victory", "original_title": "Africa, Prelude to Victory", "slug_title": "africa-prelude-to-victory", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

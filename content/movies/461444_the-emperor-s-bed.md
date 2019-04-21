@@ -1,0 +1,1 @@
+{"tmdb_id": 461444, "title": "The Emperor's Bed", "original_title": "Krevati i Perandorit", "slug_title": "the-emperor-s-bed", "date": "1973-11-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sqlUzWJkCPIivt4Uq6HxwUdZJA.jpg", "actors": ["Pandi Raidhi (partizani Meke)"], "comments": [], "recommandations_id": []}

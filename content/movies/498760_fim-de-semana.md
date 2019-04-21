@@ -1,0 +1,1 @@
+{"tmdb_id": 498760, "title": "Fim de Semana", "original_title": "Fim de Semana", "slug_title": "fim-de-semana", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bhQ7uOvwaD7pIJkUmW9p4jiZ7zY.jpg", "actors": [], "comments": [], "recommandations_id": []}

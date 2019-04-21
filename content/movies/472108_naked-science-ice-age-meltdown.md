@@ -1,0 +1,1 @@
+{"tmdb_id": 472108, "title": "Naked Science : Ice Age Meltdown", "original_title": "Naked Science : Ice Age Meltdown", "slug_title": "naked-science-ice-age-meltdown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4nslffsPzNWRWRRMGt9ouDsrs0.jpg", "actors": [], "comments": [], "recommandations_id": []}

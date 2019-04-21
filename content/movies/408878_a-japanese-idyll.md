@@ -1,0 +1,1 @@
+{"tmdb_id": 408878, "title": "A Japanese Idyll", "original_title": "A Japanese Idyll", "slug_title": "a-japanese-idyll", "date": "1912-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lois Weber ()"], "comments": [], "recommandations_id": []}

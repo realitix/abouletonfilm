@@ -1,0 +1,1 @@
+{"tmdb_id": 318008, "title": "Bumba - Babilu gaat in bad", "original_title": "Bumba - Babilu gaat in bad", "slug_title": "bumba-babilu-gaat-in-bad", "date": "2014-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjU2AuEsEhiUGT2CSVs8QJHeGJ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

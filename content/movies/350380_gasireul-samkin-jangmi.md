@@ -1,0 +1,1 @@
+{"tmdb_id": 350380, "title": "\uac00\uc2dc\ub97c \uc0bc\ud0a8 \uc7a5\ubbf8", "original_title": "\uac00\uc2dc\ub97c \uc0bc\ud0a8 \uc7a5\ubbf8", "slug_title": "gasireul-samkin-jangmi", "date": "1979-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

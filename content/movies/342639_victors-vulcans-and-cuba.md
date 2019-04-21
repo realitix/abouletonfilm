@@ -1,0 +1,1 @@
+{"tmdb_id": 342639, "title": "Victors, Vulcans and Cuba", "original_title": "Victors, Vulcans and Cuba", "slug_title": "victors-vulcans-and-cuba", "date": "2003-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2FdMUyAJ7Sr6t7HKbeMpxXzUWo.jpg", "actors": [], "comments": [], "recommandations_id": []}

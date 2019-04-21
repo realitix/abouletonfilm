@@ -1,0 +1,1 @@
+{"tmdb_id": 395831, "title": "Ra\u00fal Silva Henr\u00edquez. Cardenal.", "original_title": "Ra\u00fal Silva Henr\u00edquez. Cardenal.", "slug_title": "raul-silva-henriquez-cardenal", "date": "1997-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

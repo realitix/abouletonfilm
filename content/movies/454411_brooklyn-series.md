@@ -1,0 +1,1 @@
+{"tmdb_id": 454411, "title": "Brooklyn Series", "original_title": "Brooklyn Series", "slug_title": "brooklyn-series", "date": "2013-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Ox1vCvvOHyuRW1u75zS0MddLEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

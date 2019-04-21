@@ -1,0 +1,1 @@
+{"tmdb_id": 497508, "title": "My Jules Verne", "original_title": "Mon Jules Verne", "slug_title": "my-jules-verne", "date": "2005-12-18", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hi64YxjfIoFRGafZG6r1dwZhGzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

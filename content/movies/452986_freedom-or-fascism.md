@@ -1,0 +1,1 @@
+{"tmdb_id": 452986, "title": "Freedom or Fascism", "original_title": "Freedom or Fascism", "slug_title": "freedom-or-fascism", "date": "2006-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVUIOvQm80ObgnVLyvi6Y6lnpli.jpg", "actors": ["David Icke (Himself)"], "comments": [], "recommandations_id": []}

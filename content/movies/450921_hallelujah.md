@@ -1,0 +1,1 @@
+{"tmdb_id": 450921, "title": "Hallelujah", "original_title": "Hallelujah", "slug_title": "hallelujah", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

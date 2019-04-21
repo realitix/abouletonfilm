@@ -1,0 +1,1 @@
+{"tmdb_id": 278551, "title": "Dancing Karate Kid", "original_title": "Ryukyu Batoru Rowaiaru", "slug_title": "dancing-karate-kid", "date": "2013-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uaLm3gCOQylDKJ5xa4229pIwVu5.jpg", "actors": ["Joey Iwanaga (Ken Sawamura)"], "comments": [], "recommandations_id": []}

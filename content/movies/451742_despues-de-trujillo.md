@@ -1,0 +1,1 @@
+{"tmdb_id": 451742, "title": "Despu\u00e9s de Trujillo", "original_title": "Despu\u00e9s de Trujillo", "slug_title": "despues-de-trujillo", "date": "2017-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lqV4YiO0TrEnVSqkQSQ9pazFzg.jpg", "actors": [], "comments": [], "recommandations_id": []}

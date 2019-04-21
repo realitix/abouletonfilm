@@ -1,0 +1,1 @@
+{"tmdb_id": 204667, "title": "Upper Cutlets", "original_title": "Upper Cutlets", "slug_title": "upper-cutlets", "date": "1936-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Catlett ()", "Kitty McHugh ()", "Ethel Sykes ()", "Lew Kelly ()", "Frank Moran ()"], "comments": [], "recommandations_id": []}

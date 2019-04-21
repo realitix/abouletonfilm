@@ -1,0 +1,1 @@
+{"tmdb_id": 562339, "title": "Mirror of Thirst", "original_title": "Sl\u0101pju spogulis", "slug_title": "mirror-of-thirst", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

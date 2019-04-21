@@ -1,0 +1,1 @@
+{"tmdb_id": 551806, "title": "Will Packer Comedy I", "original_title": "Will Packer Comedy I", "slug_title": "will-packer-comedy-i", "date": "2019-11-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

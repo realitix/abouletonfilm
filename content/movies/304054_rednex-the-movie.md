@@ -1,0 +1,1 @@
+{"tmdb_id": 304054, "title": "RedneX the Movie", "original_title": "RedneX the Movie", "slug_title": "rednex-the-movie", "date": "1998-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

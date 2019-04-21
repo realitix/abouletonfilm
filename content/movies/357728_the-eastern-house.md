@@ -1,0 +1,1 @@
+{"tmdb_id": 357728, "title": "The Eastern House", "original_title": "Vzhodna hi\u0161a", "slug_title": "the-eastern-house", "date": "2003-09-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olga Kacijan ()", "Marko Mandi\u010d ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468610, "title": "John and Ivy", "original_title": "John and Ivy", "slug_title": "john-and-ivy", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

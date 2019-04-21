@@ -1,0 +1,1 @@
+{"tmdb_id": 376611, "title": "Gursky World", "original_title": "Gursky World", "slug_title": "gursky-world", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cg0V8s77ukGwHIbOr9DomFzAZg7.jpg", "actors": ["Ben Lewis (Himself)", "Andreas Gursky (Himself)"], "comments": [], "recommandations_id": []}

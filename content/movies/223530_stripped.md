@@ -1,0 +1,1 @@
+{"tmdb_id": 223530, "title": "Stripped", "original_title": "Stripped", "slug_title": "stripped", "date": "2001-03-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ue6DSJNcAYKJifX22vt5ZolkQnK.jpg", "actors": [], "comments": [], "recommandations_id": []}

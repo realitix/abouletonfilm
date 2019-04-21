@@ -1,0 +1,1 @@
+{"tmdb_id": 349487, "title": "\ud5e4\ub4dc\ud3f0\uc744 \ubc97\uc5b4\ub77c", "original_title": "\ud5e4\ub4dc\ud3f0\uc744 \ubc97\uc5b4\ub77c", "slug_title": "hedeuponeul-beoseora", "date": "1995-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

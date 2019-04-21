@@ -1,0 +1,1 @@
+{"tmdb_id": 502677, "title": "Blood Brotha", "original_title": "Blood Brotha", "slug_title": "blood-brotha", "date": "2017-03-30", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gillie Da Kid ()"], "comments": [], "recommandations_id": []}

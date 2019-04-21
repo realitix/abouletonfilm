@@ -1,0 +1,1 @@
+{"tmdb_id": 464090, "title": "Rat Trap", "original_title": "Rat Trap", "slug_title": "rat-trap", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

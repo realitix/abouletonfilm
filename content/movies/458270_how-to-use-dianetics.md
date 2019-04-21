@@ -1,0 +1,1 @@
+{"tmdb_id": 458270, "title": "How To Use Dianetics", "original_title": "How To Use Dianetics", "slug_title": "how-to-use-dianetics", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lt9Q4pUpEhWsyvz6gHO3l9I1MiR.jpg", "actors": [], "comments": [], "recommandations_id": []}

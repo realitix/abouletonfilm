@@ -1,0 +1,1 @@
+{"tmdb_id": 202094, "title": "Machetero", "original_title": "Machetero", "slug_title": "machetero", "date": "2008-06-03", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMji5DLXNcbBWbxU7wcOdOjn3rS.jpg", "actors": ["Isaach De Bankol\u00e9 ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236604, "title": "Saps in Chaps", "original_title": "Saps in Chaps", "slug_title": "saps-in-chaps", "date": "1942-04-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80s5wlEB6bRjAgLCXH2m1E9iGT3.jpg", "actors": [], "comments": [], "recommandations_id": []}

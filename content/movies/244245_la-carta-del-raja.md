@@ -1,0 +1,1 @@
+{"tmdb_id": 244245, "title": "La carta del Raj\u00e1", "original_title": "La carta del Raj\u00e1", "slug_title": "la-carta-del-raja", "date": "2009-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pApXk9MNu1V1k5NNLuw8riMOCDO.jpg", "actors": [], "comments": [], "recommandations_id": []}

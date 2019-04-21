@@ -1,0 +1,1 @@
+{"tmdb_id": 532492, "title": "This Is A.I.", "original_title": "This Is A.I.", "slug_title": "this-is-a-i", "date": "2018-06-21", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYror8LpS2OXlCuJPDrtIPFkYnj.jpg", "actors": [], "comments": [], "recommandations_id": []}

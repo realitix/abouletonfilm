@@ -1,0 +1,1 @@
+{"tmdb_id": 233650, "title": "Coed Report: Blooming Yuko", "original_title": "Jokousei Report: Hanahiraku Yuko", "slug_title": "coed-report-blooming-yuko", "date": "1971-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzGq6lxYosyU5UZYVMCpfdVRr81.jpg", "actors": [], "comments": [], "recommandations_id": []}

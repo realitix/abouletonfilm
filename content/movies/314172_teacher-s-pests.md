@@ -1,0 +1,1 @@
+{"tmdb_id": 314172, "title": "Teacher's Pests", "original_title": "Teacher's Pests", "slug_title": "teacher-s-pests", "date": "1932-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

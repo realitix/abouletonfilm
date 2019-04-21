@@ -1,0 +1,1 @@
+{"tmdb_id": 492946, "title": "Return to Cuba", "original_title": "Volver a Cuba", "slug_title": "return-to-cuba", "date": "2016-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rTosS5QwmCkenMUDAKimt17sHJV.jpg", "actors": [], "comments": [], "recommandations_id": []}

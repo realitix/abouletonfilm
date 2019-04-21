@@ -1,0 +1,1 @@
+{"tmdb_id": 592585, "title": "DO BETTER", "original_title": "DO BETTER", "slug_title": "do-better", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQ8CRfNmIkUrDvPGId06AyTXmzV.jpg", "actors": [], "comments": [], "recommandations_id": []}

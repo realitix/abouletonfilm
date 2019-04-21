@@ -1,0 +1,1 @@
+{"tmdb_id": 444351, "title": "Implications of a Totality", "original_title": "Implications of a Totality", "slug_title": "implications-of-a-totality", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIUdpyFUI4MxkeWiIhK1ZkF2Ow.jpg", "actors": [], "comments": [], "recommandations_id": []}

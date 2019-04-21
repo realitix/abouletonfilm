@@ -1,0 +1,1 @@
+{"tmdb_id": 523341, "title": "Mariana de Jesus, Azucena de Quito", "original_title": "Mariana de Jesus, Azucena de Quito", "slug_title": "mariana-de-jesus-azucena-de-quito", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

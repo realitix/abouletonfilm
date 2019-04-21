@@ -1,0 +1,1 @@
+{"tmdb_id": 329371, "title": "Two in the Shadow", "original_title": "O Completo Estranho", "slug_title": "two-in-the-shadow", "date": "2014-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEpHYIc6GD8N90w8YZ2SNrnkAmZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

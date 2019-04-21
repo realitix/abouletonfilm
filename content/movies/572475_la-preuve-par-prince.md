@@ -1,0 +1,1 @@
+{"tmdb_id": 572475, "title": "La preuve par prince", "original_title": "La preuve par prince", "slug_title": "la-preuve-par-prince", "date": "1988-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 45117, "title": "Edge City", "original_title": "Edge City", "slug_title": "edge-city", "date": "1998-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

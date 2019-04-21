@@ -1,0 +1,1 @@
+{"tmdb_id": 187587, "title": "Oil Sands Karaoke", "original_title": "Oil Sands Karaoke", "slug_title": "oil-sands-karaoke", "date": "2013-11-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fBgiJcK5l4mXIqkhsvuk8RGX5he.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 442795, "title": "The Cuckoo I.Q.", "original_title": "The Cuckoo I.Q.", "slug_title": "the-cuckoo-i-q", "date": "1941-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Radio Quiz Show Contestant (voice))"], "comments": [], "recommandations_id": []}

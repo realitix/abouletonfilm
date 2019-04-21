@@ -1,0 +1,1 @@
+{"tmdb_id": 212402, "title": "Music Hath Harms", "original_title": "Music Hath Harms", "slug_title": "music-hath-harms", "date": "1929-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313138, "title": "Israel Vibration: On Strength of Trinity: Live 95", "original_title": "Israel Vibration: On Strength of Trinity: Live 95", "slug_title": "israel-vibration-on-strength-of-trinity-live-95", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

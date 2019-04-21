@@ -1,0 +1,1 @@
+{"tmdb_id": 529937, "title": "Pleasure Boys", "original_title": "Pleasure Boys", "slug_title": "pleasure-boys", "date": "2017-07-01", "genre": "Documentaire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZOxzofzIqCGHjRCCOhsv3Wun5q.jpg", "actors": [], "comments": [], "recommandations_id": []}

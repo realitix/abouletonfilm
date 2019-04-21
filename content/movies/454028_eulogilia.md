@@ -1,0 +1,1 @@
+{"tmdb_id": 454028, "title": "Eulogilia", "original_title": "Eulogilia", "slug_title": "eulogilia", "date": "2016-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWfuqFkzMqSrBmmPXlzB7LGwEOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

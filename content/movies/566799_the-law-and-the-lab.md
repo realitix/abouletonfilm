@@ -1,0 +1,1 @@
+{"tmdb_id": 566799, "title": "The Law and the Lab", "original_title": "The Law and the Lab", "slug_title": "the-law-and-the-lab", "date": "1956-07-20", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Hite (Narrator (voice))"], "comments": [], "recommandations_id": []}

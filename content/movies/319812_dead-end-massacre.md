@@ -1,0 +1,1 @@
+{"tmdb_id": 319812, "title": "Dead End Massacre", "original_title": "Dead End Massacre", "slug_title": "dead-end-massacre", "date": "2004-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

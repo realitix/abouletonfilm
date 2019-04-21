@@ -1,0 +1,1 @@
+{"tmdb_id": 472659, "title": "Teaching War", "original_title": "V\u00fdchova k v\u00e1lce", "slug_title": "teaching-war", "date": "2016-10-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ad\u00e9la Komrz\u00fd (Interviewer)"], "comments": [], "recommandations_id": []}

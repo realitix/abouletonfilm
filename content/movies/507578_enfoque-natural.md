@@ -1,0 +1,1 @@
+{"tmdb_id": 507578, "title": "Enfoque Natural", "original_title": "Enfoque Natural", "slug_title": "enfoque-natural", "date": "2012-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

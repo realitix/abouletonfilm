@@ -1,0 +1,1 @@
+{"tmdb_id": 558193, "title": "The Quest For The Big Spook", "original_title": "The Quest For The Big Spook", "slug_title": "the-quest-for-the-big-spook", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

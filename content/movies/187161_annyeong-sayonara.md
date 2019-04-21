@@ -1,0 +1,1 @@
+{"tmdb_id": 187161, "title": "Annyeong, Sayonara", "original_title": "Annyeong, Sayonara", "slug_title": "annyeong-sayonara", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKIWBwbsocVb422T1PLbawpqHBf.jpg", "actors": ["Hee-ja Lee ()"], "comments": [], "recommandations_id": []}

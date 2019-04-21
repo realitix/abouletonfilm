@@ -1,0 +1,1 @@
+{"tmdb_id": 277050, "title": "Mlada: Bolshoi Opera", "original_title": "Mlada: Bolshoi Opera", "slug_title": "mlada-bolshoi-opera", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

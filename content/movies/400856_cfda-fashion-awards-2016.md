@@ -1,0 +1,1 @@
+{"tmdb_id": 400856, "title": "CFDA Fashion Awards 2016", "original_title": "CFDA Fashion Awards 2016", "slug_title": "cfda-fashion-awards-2016", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

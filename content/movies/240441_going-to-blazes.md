@@ -1,0 +1,1 @@
+{"tmdb_id": 240441, "title": "Going to Blazes!", "original_title": "Going to Blazes!", "slug_title": "going-to-blazes", "date": "1948-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ht79cYmmltOUiSUV2zwm9zmO97Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

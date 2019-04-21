@@ -1,0 +1,1 @@
+{"tmdb_id": 310767, "title": "Bangarada Manushya", "original_title": "Bangarada Manushya", "slug_title": "bangarada-manushya", "date": "1972-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318995, "title": "Le placier est tenace", "original_title": "Le placier est tenace", "slug_title": "le-placier-est-tenace", "date": "1910-01-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9g133fffedqY8nPPR3Ybi4unne3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 563973, "title": "Yunyi Frits", "original_title": "Yunyi Frits", "slug_title": "yunyi-frits", "date": "1943-11-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mikhail Astangov (Teacher)", "Lidiya Atmanaki (Mother)", "Mikhail Zharov (Fritz)"], "comments": [], "recommandations_id": []}

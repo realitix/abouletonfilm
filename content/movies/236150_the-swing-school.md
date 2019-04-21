@@ -1,0 +1,1 @@
+{"tmdb_id": 236150, "title": "The Swing School", "original_title": "The Swing School", "slug_title": "the-swing-school", "date": "1938-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbFlvk93Px9ltt8We1yPUnllQsH.jpg", "actors": ["Bonnie Poe (Betty Boop)"], "comments": [], "recommandations_id": []}

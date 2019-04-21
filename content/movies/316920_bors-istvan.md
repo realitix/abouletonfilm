@@ -1,0 +1,1 @@
+{"tmdb_id": 316920, "title": "Bors Istv\u00e1n", "original_title": "Bors Istv\u00e1n", "slug_title": "bors-istvan", "date": "1939-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vcIAvpMuACSPsvK7opRhP9Zzt55.jpg", "actors": [], "comments": [], "recommandations_id": []}

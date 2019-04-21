@@ -1,0 +1,1 @@
+{"tmdb_id": 484590, "title": "Cantos de Trabalho - Cacau", "original_title": "Cantos de Trabalho - Cacau", "slug_title": "cantos-de-trabalho-cacau", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nfU3ZGawFnVLdM18Jzccse4JEXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

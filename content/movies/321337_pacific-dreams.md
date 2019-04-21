@@ -1,0 +1,1 @@
+{"tmdb_id": 321337, "title": "Pacific Dreams", "original_title": "Pacific Dreams", "slug_title": "pacific-dreams", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422843, "title": "Cali: de Pel\u00edcula", "original_title": "Cali: de Pel\u00edcula", "slug_title": "cali-de-pelicula", "date": "1973-05-04", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ck8HbU1WW1yU0BmtxlPwpmQAtH2.jpg", "actors": [], "comments": [], "recommandations_id": []}

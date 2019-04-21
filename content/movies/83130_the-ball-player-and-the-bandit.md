@@ -1,0 +1,1 @@
+{"tmdb_id": 83130, "title": "The Ball Player and the Bandit", "original_title": "The Ball Player and the Bandit", "slug_title": "the-ball-player-and-the-bandit", "date": "1912-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Lockwood (Harry Burns)", "Joe King (Harry's Rival)"], "comments": [], "recommandations_id": []}

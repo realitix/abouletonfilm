@@ -1,0 +1,1 @@
+{"tmdb_id": 89595, "title": "Sushi: The Global Catch", "original_title": "Sushi: The Global Catch", "slug_title": "sushi-the-global-catch", "date": "2012-06-07", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMLREM2DE1Clflm5XL515nblDzo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548235, "title": "Snow White Returns", "original_title": "Snow White Returns", "slug_title": "snow-white-returns", "date": "2009-10-06", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4CBj1DQXEgQJwsmkO74WjeVOBfB.jpg", "actors": ["Don Hahn (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 189973, "title": "Momotaro, Japan's No.1", "original_title": "Nihon-ichi Momotar\u00f4", "slug_title": "momotaro-japan-s-no-1", "date": "1928-04-29", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lfMEIcKciIyGDGA3Uu7ESS35G4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557909, "title": "Mirrorman Reflex", "original_title": "Mirrorman Reflex", "slug_title": "mirrorman-reflex", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ry\u00f4 Karato ()", "Miku Ishida ()", "Nobuyuki Ishida ()"], "comments": [], "recommandations_id": []}

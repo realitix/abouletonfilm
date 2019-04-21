@@ -1,0 +1,1 @@
+{"tmdb_id": 582554, "title": "Tu ne seras jamais seul", "original_title": "Tu ne seras jamais seul", "slug_title": "tu-ne-seras-jamais-seul", "date": "2019-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

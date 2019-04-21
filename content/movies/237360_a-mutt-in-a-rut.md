@@ -1,0 +1,1 @@
+{"tmdb_id": 237360, "title": "A Mutt in a Rut", "original_title": "A Mutt in a Rut", "slug_title": "a-mutt-in-a-rut", "date": "1949-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92WYcdlYN7exkqr05F7UKlUdaYK.jpg", "actors": [], "comments": [], "recommandations_id": []}

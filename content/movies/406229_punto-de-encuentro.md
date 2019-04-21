@@ -1,0 +1,1 @@
+{"tmdb_id": 406229, "title": "Punto de encuentro", "original_title": "Punto de encuentro", "slug_title": "punto-de-encuentro", "date": "2013-10-12", "genre": "Aventure / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7XDnsHvnQgJIf7LyaNGgwfhsZol.jpg", "actors": [], "comments": [], "recommandations_id": []}

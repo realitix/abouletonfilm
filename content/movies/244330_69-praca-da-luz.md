@@ -1,0 +1,1 @@
+{"tmdb_id": 244330, "title": "69 - Pra\u00e7a da Luz", "original_title": "69 - Pra\u00e7a da Luz", "slug_title": "69-praca-da-luz", "date": "2008-06-11", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pyVHjqmTDkw01UWySVhILT9BrLz.jpg", "actors": [], "comments": [], "recommandations_id": []}

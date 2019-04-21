@@ -1,0 +1,1 @@
+{"tmdb_id": 397107, "title": "Water Path for a Fish", "original_title": "Camino de agua para un pez", "slug_title": "water-path-for-a-fish", "date": "2015-04-14", "genre": "Aventure / Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOIE5DbrQFqshsiqhX4wbgjFL3e.jpg", "actors": [], "comments": [], "recommandations_id": []}

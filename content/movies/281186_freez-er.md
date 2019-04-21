@@ -1,0 +1,1 @@
+{"tmdb_id": 281186, "title": "Freez'er", "original_title": "Freez'er", "slug_title": "freez-er", "date": "2001-07-10", "genre": "Thriller / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uk71rznVSgd79I9mSFD4IbSI3l5.jpg", "actors": [], "comments": [], "recommandations_id": []}

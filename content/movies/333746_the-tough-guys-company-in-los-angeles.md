@@ -1,0 +1,1 @@
+{"tmdb_id": 333746, "title": "The Tough Guys' Company in Los Angeles", "original_title": "Sherkat-e Jahelan Dar Los Angeles", "slug_title": "the-tough-guys-company-in-los-angeles", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

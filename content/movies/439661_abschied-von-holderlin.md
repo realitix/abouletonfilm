@@ -1,0 +1,1 @@
+{"tmdb_id": 439661, "title": "Abschied von H\u00f6lderlin", "original_title": "Abschied von H\u00f6lderlin", "slug_title": "abschied-von-holderlin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sDGloGD1xrAcJwzNx4QjALIbtT3.jpg", "actors": [], "comments": [], "recommandations_id": []}

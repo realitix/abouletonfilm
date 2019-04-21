@@ -1,0 +1,1 @@
+{"tmdb_id": 287021, "title": "Die-B-Que", "original_title": "Die-B-Que", "slug_title": "die-b-que", "date": "2011-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dbE73JBtxxq3Co7jC8amy6a333N.jpg", "actors": [], "comments": [], "recommandations_id": []}

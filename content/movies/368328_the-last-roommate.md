@@ -1,0 +1,1 @@
+{"tmdb_id": 368328, "title": "The Last Roommate", "original_title": "The Last Roommate", "slug_title": "the-last-roommate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

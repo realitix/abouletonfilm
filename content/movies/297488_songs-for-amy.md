@@ -1,0 +1,1 @@
+{"tmdb_id": 297488, "title": "Songs for Amy", "original_title": "Songs for Amy", "slug_title": "songs-for-amy", "date": "2012-05-02", "genre": "Musique / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbxUPhPTGoIwlufxyZwVCB5THKX.jpg", "actors": [], "comments": [], "recommandations_id": []}

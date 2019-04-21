@@ -1,0 +1,1 @@
+{"tmdb_id": 521341, "title": "Schwarzy", "original_title": "Schwarzy", "slug_title": "schwarzy", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFOQotp26vFXIlQ7cvJ7cT4SUCQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

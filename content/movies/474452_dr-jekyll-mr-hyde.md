@@ -1,0 +1,1 @@
+{"tmdb_id": 474452, "title": "Dr. Jekyll & Mr. Hyde", "original_title": "Dr. Jekyll & Mr. Hyde", "slug_title": "dr-jekyll-mr-hyde", "date": "2012-01-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4TnEawnv1mgV4AGC3bpVtLfISb.jpg", "actors": ["Joel Backman (Mr. Hyde)"], "comments": [], "recommandations_id": []}

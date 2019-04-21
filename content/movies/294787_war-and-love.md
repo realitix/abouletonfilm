@@ -1,0 +1,1 @@
+{"tmdb_id": 294787, "title": "War and Love", "original_title": "War and Love", "slug_title": "war-and-love", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

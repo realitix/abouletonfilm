@@ -1,0 +1,1 @@
+{"tmdb_id": 445017, "title": "I Am a Man", "original_title": "Jestem mezczyzna", "slug_title": "i-am-a-man", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lnS8wEosIjl2Yi4VErBYbP7WHep.jpg", "actors": [], "comments": [], "recommandations_id": []}

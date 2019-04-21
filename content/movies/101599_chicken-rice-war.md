@@ -1,0 +1,1 @@
+{"tmdb_id": 101599, "title": "Chicken Rice War", "original_title": "Chicken Rice War", "slug_title": "chicken-rice-war", "date": "2000-11-16", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQ88tM1GOpjuH5h6AUkE09PFyIV.jpg", "actors": [], "comments": [], "recommandations_id": []}

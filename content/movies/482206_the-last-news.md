@@ -1,0 +1,1 @@
+{"tmdb_id": 482206, "title": "The Last News", "original_title": "The Last News", "slug_title": "the-last-news", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guy Richards Smit (Guy Smith)", "Paul Campbell (Dr. Immerworst)", "Lisa Johnson (Charity Wellgood)"], "comments": [], "recommandations_id": []}

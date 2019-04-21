@@ -1,0 +1,1 @@
+{"tmdb_id": 349526, "title": "Red Mafia", "original_title": "\ubd89\uc740 \ub9c8\ud53c\uc544", "slug_title": "red-mafia", "date": "1995-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

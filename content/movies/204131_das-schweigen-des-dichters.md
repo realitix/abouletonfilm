@@ -1,0 +1,1 @@
+{"tmdb_id": 204131, "title": "Das Schweigen des Dichters", "original_title": "Das Schweigen des Dichters", "slug_title": "das-schweigen-des-dichters", "date": "1987-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

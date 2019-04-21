@@ -1,0 +1,1 @@
+{"tmdb_id": 594157, "title": "The Magician of Messkirch: Martin Heidegger", "original_title": "Der Zauberer Von Messkirch: Martin Heidegger", "slug_title": "the-magician-of-messkirch-martin-heidegger", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

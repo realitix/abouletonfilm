@@ -1,0 +1,1 @@
+{"tmdb_id": 492559, "title": "The Drug Trial: Emergency at the Hospital", "original_title": "The Drug Trial: Emergency at the Hospital", "slug_title": "the-drug-trial-emergency-at-the-hospital", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

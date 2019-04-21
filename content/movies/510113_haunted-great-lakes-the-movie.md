@@ -1,0 +1,1 @@
+{"tmdb_id": 510113, "title": "HAUNTED GREAT LAKES the movie", "original_title": "HAUNTED GREAT LAKES the movie", "slug_title": "haunted-great-lakes-the-movie", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Derek Sever Deve (Narrator)"], "comments": [], "recommandations_id": []}

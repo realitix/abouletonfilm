@@ -1,0 +1,1 @@
+{"tmdb_id": 417350, "title": "The Happy Cobblers", "original_title": "The Happy Cobblers", "slug_title": "the-happy-cobblers", "date": "1952-02-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzKQDl0CpKuE52ZEsmwift42xFd.jpg", "actors": [], "comments": [], "recommandations_id": []}

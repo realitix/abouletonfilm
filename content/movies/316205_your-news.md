@@ -1,0 +1,1 @@
+{"tmdb_id": 316205, "title": "Your News", "original_title": "Ihre Zeitungen", "slug_title": "your-news", "date": "1968-06-30", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aa4OQVSIpF4O5HiqMLLWUFbmddA.jpg", "actors": ["Harun Farocki ()", "Helke Sander ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 227090, "title": "Dial's Girl's Band, Luna Park", "original_title": "Dial's Girl's Band, Luna Park", "slug_title": "dial-s-girl-s-band-luna-park", "date": "1905-10-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

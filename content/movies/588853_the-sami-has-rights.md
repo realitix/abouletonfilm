@@ -1,0 +1,1 @@
+{"tmdb_id": 588853, "title": "The S\u00e1mi Has Rights", "original_title": "S\u00e1miin leat rievttit", "slug_title": "the-sami-has-rights", "date": "2019-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

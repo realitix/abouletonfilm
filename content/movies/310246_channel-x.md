@@ -1,0 +1,1 @@
+{"tmdb_id": 310246, "title": "Channel X", "original_title": "Channel X", "slug_title": "channel-x", "date": "2003-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

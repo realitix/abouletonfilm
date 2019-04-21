@@ -1,0 +1,1 @@
+{"tmdb_id": 524207, "title": "Candace", "original_title": "Candace", "slug_title": "candace", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXLW1afpLt9C1hXwqi00By5jDiy.jpg", "actors": ["Stella Baker ()", "Moses Ingram ()"], "comments": [], "recommandations_id": []}

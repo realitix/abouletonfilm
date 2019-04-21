@@ -1,0 +1,1 @@
+{"tmdb_id": 278692, "title": "Tierra sublevada: Oro negro", "original_title": "Tierra sublevada: Oro negro", "slug_title": "tierra-sublevada-oro-negro", "date": "2011-09-08", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugVlPO24tYoQhzjJCxLBLWOYpux.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 392305, "title": "The Ballad of Fred Hersch", "original_title": "The Ballad of Fred Hersch", "slug_title": "the-ballad-of-fred-hersch", "date": "2016-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3zbrF3OcdnXP8JVhHXW9H8INRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

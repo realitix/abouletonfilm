@@ -1,0 +1,1 @@
+{"tmdb_id": 587826, "title": "Veiling of Hidden Sword", "original_title": "Wo long zhan", "slug_title": "veiling-of-hidden-sword", "date": "1980-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tien Peng ()", "Doris Lung Chun-Erh ()", "Tien Ho ()"], "comments": [], "recommandations_id": []}

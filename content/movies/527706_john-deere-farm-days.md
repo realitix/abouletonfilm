@@ -1,0 +1,1 @@
+{"tmdb_id": 527706, "title": "John Deere Farm Days", "original_title": "John Deere Farm Days", "slug_title": "john-deere-farm-days", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeffrey McComas (Himself)"], "comments": [], "recommandations_id": []}

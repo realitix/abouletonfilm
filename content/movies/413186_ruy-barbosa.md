@@ -1,0 +1,1 @@
+{"tmdb_id": 413186, "title": "Ruy Barbosa", "original_title": "Ruy Barbosa", "slug_title": "ruy-barbosa", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/267lRXLub7Sr3Q6bMirLrvqzTfK.jpg", "actors": [], "comments": [], "recommandations_id": []}

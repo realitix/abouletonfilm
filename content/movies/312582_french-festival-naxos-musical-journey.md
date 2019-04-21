@@ -1,0 +1,1 @@
+{"tmdb_id": 312582, "title": "French Festival: Naxos Musical Journey", "original_title": "French Festival: Naxos Musical Journey", "slug_title": "french-festival-naxos-musical-journey", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

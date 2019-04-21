@@ -1,0 +1,1 @@
+{"tmdb_id": 321669, "title": "Nathaniel Saunders: Bimini Nights", "original_title": "Nathaniel Saunders: Bimini Nights", "slug_title": "nathaniel-saunders-bimini-nights", "date": "2002-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

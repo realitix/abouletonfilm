@@ -1,0 +1,1 @@
+{"tmdb_id": 318495, "title": "Shooter Series: Brett Ratner", "original_title": "Shooter Series: Brett Ratner", "slug_title": "shooter-series-brett-ratner", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

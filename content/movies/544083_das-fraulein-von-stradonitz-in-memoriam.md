@@ -1,0 +1,1 @@
+{"tmdb_id": 544083, "title": "Das Fr\u00e4ulein von Stradonitz in memoriam", "original_title": "Das Fr\u00e4ulein von Stradonitz in memoriam", "slug_title": "das-fraulein-von-stradonitz-in-memoriam", "date": "1971-06-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

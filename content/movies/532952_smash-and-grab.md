@@ -1,0 +1,1 @@
+{"tmdb_id": 532952, "title": "Smash and Grab", "original_title": "Smash and Grab", "slug_title": "smash-and-grab", "date": "2019-01-18", "genre": "Animation / Science-Fiction", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bsDQdjuGAhj6JrmCKVBFTUBeIrb.jpg", "actors": [], "comments": [], "recommandations_id": [574074, 532953]}

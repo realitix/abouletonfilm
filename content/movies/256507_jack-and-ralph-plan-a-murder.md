@@ -1,0 +1,1 @@
+{"tmdb_id": 256507, "title": "Jack and Ralph Plan a Murder", "original_title": "Jack and Ralph Plan a Murder", "slug_title": "jack-and-ralph-plan-a-murder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeff Doyle (Jack)", "Johnny Elliott (Ralph)"], "comments": [], "recommandations_id": []}

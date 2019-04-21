@@ -1,0 +1,1 @@
+{"tmdb_id": 333217, "title": "Rivalry in the City", "original_title": "Reqabat Dar Shahr", "slug_title": "rivalry-in-the-city", "date": "1960-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwAgJ7h7TVdCWpO7GRr0h5fJB1.jpg", "actors": [], "comments": [], "recommandations_id": []}

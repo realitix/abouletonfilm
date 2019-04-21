@@ -1,0 +1,1 @@
+{"tmdb_id": 528800, "title": "The Cabaret Kid", "original_title": "The Cabaret Kid", "slug_title": "the-cabaret-kid", "date": "1926-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

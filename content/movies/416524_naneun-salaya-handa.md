@@ -1,0 +1,1 @@
+{"tmdb_id": 416524, "title": "\ub098\ub294 \uc0b4\uc544\uc57c \ud55c\ub2e4", "original_title": "\ub098\ub294 \uc0b4\uc544\uc57c \ud55c\ub2e4", "slug_title": "naneun-salaya-handa", "date": "1976-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

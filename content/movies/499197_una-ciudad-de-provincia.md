@@ -1,0 +1,1 @@
+{"tmdb_id": 499197, "title": "Una ciudad de provincia", "original_title": "Una ciudad de provincia", "slug_title": "una-ciudad-de-provincia", "date": "2017-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g1tdNK8vW3iApDOw50QxuCSzlmV.jpg", "actors": [], "comments": [], "recommandations_id": []}

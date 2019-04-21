@@ -1,0 +1,1 @@
+{"tmdb_id": 311442, "title": "A Giant Awakens: The Rise of American Rugby", "original_title": "A Giant Awakens: The Rise of American Rugby", "slug_title": "a-giant-awakens-the-rise-of-american-rugby", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

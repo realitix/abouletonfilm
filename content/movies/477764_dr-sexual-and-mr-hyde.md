@@ -1,0 +1,1 @@
+{"tmdb_id": 477764, "title": "Dr. Sexual and Mr. Hyde", "original_title": "Dr. Sexual and Mr. Hyde", "slug_title": "dr-sexual-and-mr-hyde", "date": "1971-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xFTZWPmf9Cv7lp9bw8je0Yz2Xk.jpg", "actors": [], "comments": [], "recommandations_id": []}

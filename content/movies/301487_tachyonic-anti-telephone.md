@@ -1,0 +1,1 @@
+{"tmdb_id": 301487, "title": "Tachyonic Anti-Telephone", "original_title": "Tachyonic Anti-Telephone", "slug_title": "tachyonic-anti-telephone", "date": "2014-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

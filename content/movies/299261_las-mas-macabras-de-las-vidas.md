@@ -1,0 +1,1 @@
+{"tmdb_id": 299261, "title": "Las m\u00e1s macabras de las vidas", "original_title": "Las m\u00e1s macabras de las vidas", "slug_title": "las-mas-macabras-de-las-vidas", "date": "2014-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

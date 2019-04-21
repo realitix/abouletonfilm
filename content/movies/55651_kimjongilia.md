@@ -1,0 +1,1 @@
+{"tmdb_id": 55651, "title": "Kimjongilia", "original_title": "Kimjongilia", "slug_title": "kimjongilia", "date": "2009-01-18", "genre": "Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4eHUh1sgQBRtZLizuD17wKnI9QD.jpg", "actors": [], "comments": [], "recommandations_id": []}

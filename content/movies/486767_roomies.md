@@ -1,0 +1,1 @@
+{"tmdb_id": 486767, "title": "Roomies", "original_title": "Roomies", "slug_title": "roomies", "date": "2015-06-07", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCyMTfsZRIOF8reDnA4jKELEcfq.jpg", "actors": ["Josh Milk (Josh)", "Johan J. (Johan)"], "comments": [], "recommandations_id": []}

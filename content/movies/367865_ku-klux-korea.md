@@ -1,0 +1,1 @@
+{"tmdb_id": 367865, "title": "Ku Klux Korea", "original_title": "Ku Klux Korea", "slug_title": "ku-klux-korea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

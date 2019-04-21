@@ -1,0 +1,1 @@
+{"tmdb_id": 451642, "title": "Shiners", "original_title": "Shiners", "slug_title": "shiners", "date": "2017-07-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCV3NFrZK1yisj7b1nmhifn8HNv.jpg", "actors": [], "comments": [], "recommandations_id": []}

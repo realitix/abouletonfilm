@@ -1,0 +1,1 @@
+{"tmdb_id": 303395, "title": "Ippadikku Kadhaluden Seenu", "original_title": "Ippadikku Kadhaluden Seenu", "slug_title": "ippadikku-kadhaluden-seenu", "date": "2006-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300734, "title": "Bhagyada Lakshmi Baaramma", "original_title": "Bhagyada Lakshmi Baaramma", "slug_title": "bhagyada-lakshmi-baaramma", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

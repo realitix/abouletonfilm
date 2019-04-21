@@ -1,0 +1,1 @@
+{"tmdb_id": 65859, "title": "Dream Fight for Japan!", "original_title": "Dream Fight for Japan!", "slug_title": "dream-fight-for-japan", "date": "2011-05-29", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHaUlkJtsmWnwVIWGgX7QsysM8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

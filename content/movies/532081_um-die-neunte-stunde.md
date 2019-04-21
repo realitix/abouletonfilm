@@ -1,0 +1,1 @@
+{"tmdb_id": 532081, "title": "Um die neunte Stunde", "original_title": "Um die neunte Stunde", "slug_title": "um-die-neunte-stunde", "date": "1954-04-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pinkas Braun (Alexander)", "Jochen Meyn (Rufus)", "Marlene Riphahn (Veronika)"], "comments": [], "recommandations_id": []}

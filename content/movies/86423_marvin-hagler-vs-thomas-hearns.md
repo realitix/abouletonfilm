@@ -1,0 +1,1 @@
+{"tmdb_id": 86423, "title": "Marvin Hagler vs Thomas Hearns", "original_title": "Marvin Hagler vs Thomas Hearns", "slug_title": "marvin-hagler-vs-thomas-hearns", "date": "1985-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rPT3Y7EcyVmHXqEh6eaC0n4Y58.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 538789, "title": "Balthazar", "original_title": "Balthazar", "slug_title": "balthazar", "date": "1937-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYjM3ZSnIkZMQ2pGdidJSSfF7iK.jpg", "actors": [], "comments": [], "recommandations_id": []}

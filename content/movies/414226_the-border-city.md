@@ -1,0 +1,1 @@
+{"tmdb_id": 414226, "title": "The Border City", "original_title": "\uacbd\uacc4\ub3c4\uc2dc", "slug_title": "the-border-city", "date": "2002-12-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qyW5gCiQDGtIpW1t6FFvSALjOdT.jpg", "actors": [], "comments": [], "recommandations_id": []}

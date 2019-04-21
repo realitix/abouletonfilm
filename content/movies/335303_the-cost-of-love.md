@@ -1,0 +1,1 @@
+{"tmdb_id": 335303, "title": "The Cost of Love", "original_title": "The Cost of Love", "slug_title": "the-cost-of-love", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

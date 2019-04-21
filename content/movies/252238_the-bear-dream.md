@@ -1,0 +1,1 @@
+{"tmdb_id": 252238, "title": "The Bear Dream", "original_title": "The Bear Dream", "slug_title": "the-bear-dream", "date": "2009-10-13", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eotVnEBuPa1J5Lw4SJ4fR2lSoWC.jpg", "actors": [], "comments": [], "recommandations_id": []}

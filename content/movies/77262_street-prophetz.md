@@ -1,0 +1,1 @@
+{"tmdb_id": 77262, "title": "Street Prophetz", "original_title": "Street Prophetz", "slug_title": "street-prophetz", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOzJZ7jJJOmuwhAQFZhZjn2MUMC.jpg", "actors": [], "comments": [], "recommandations_id": []}

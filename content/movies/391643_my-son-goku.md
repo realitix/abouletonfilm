@@ -1,0 +1,1 @@
+{"tmdb_id": 391643, "title": "My Son Goku", "original_title": "Boku no Son Gokuu", "slug_title": "my-son-goku", "date": "2003-07-12", "genre": "Animation / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xMq2CGhzBLEwj9eFnZW6YHChfrJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

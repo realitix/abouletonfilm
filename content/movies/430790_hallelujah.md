@@ -1,0 +1,1 @@
+{"tmdb_id": 430790, "title": "Hallelujah!", "original_title": "Hallelujah!", "slug_title": "hallelujah", "date": "2016-10-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7rWhCPX66RQOTvTXOJd3Ea6dewk.jpg", "actors": ["Laura Osnes ()", "Martin Jarvis ()"], "comments": [], "recommandations_id": []}

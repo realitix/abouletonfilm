@@ -1,0 +1,1 @@
+{"tmdb_id": 587432, "title": "Naya Daur", "original_title": "Naya Daur", "slug_title": "naya-daur", "date": "1975-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

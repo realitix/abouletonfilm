@@ -1,0 +1,1 @@
+{"tmdb_id": 477387, "title": "Scream Queen Private Party", "original_title": "Scream Queen Private Party", "slug_title": "scream-queen-private-party", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monique Gabrielle (Herself)", "Linnea Quigley (Herself)"], "comments": [], "recommandations_id": []}

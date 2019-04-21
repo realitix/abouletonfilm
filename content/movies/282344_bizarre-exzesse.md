@@ -1,0 +1,1 @@
+{"tmdb_id": 282344, "title": "Bizarre Exzesse", "original_title": "Bizarre Exzesse", "slug_title": "bizarre-exzesse", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgwbwFM6pY0PevlgvQNSmkRcsZB.jpg", "actors": ["Bepsy ()", "Lucille Marx ()", "Sally Palmer ()"], "comments": [], "recommandations_id": []}

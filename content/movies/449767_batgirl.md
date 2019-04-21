@@ -1,0 +1,1 @@
+{"tmdb_id": 449767, "title": "Batgirl", "original_title": "Batgirl", "slug_title": "batgirl", "date": "", "genre": "Crime / Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5s05nobVwFRflMnnI5uit0NTihK.jpg", "actors": [], "comments": [], "recommandations_id": [509400, 460465, 155129, 453399]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386392, "title": "Muslimgauze R.I.P.", "original_title": "Muslimgauze R.I.P.", "slug_title": "muslimgauze-r-i-p", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422428, "title": "Carnival Day", "original_title": "Carnival Day", "slug_title": "carnival-day", "date": "1936-01-11", "genre": "Crime / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Armetta ()", "Felix Knight ()", "Joan Barclay ()", "Rod Bacon ()", "John Harron ()"], "comments": [], "recommandations_id": []}

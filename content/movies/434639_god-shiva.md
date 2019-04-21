@@ -1,0 +1,1 @@
+{"tmdb_id": 434639, "title": "God Shiva", "original_title": "God Shiva", "slug_title": "god-shiva", "date": "1955-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345528, "title": "Fantom Kiler Strikes Again", "original_title": "Fantom Kiler Strikes Again", "slug_title": "fantom-kiler-strikes-again", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

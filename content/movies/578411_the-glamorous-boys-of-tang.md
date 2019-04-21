@@ -1,0 +1,1 @@
+{"tmdb_id": 578411, "title": "The Glamorous Boys of Tang", "original_title": "The Glamorous Boys of Tang", "slug_title": "the-glamorous-boys-of-tang", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GTwcSSZAf90Dm5Celw8wHF9ARp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478116, "title": "Desert Movie", "original_title": "Desert Movie", "slug_title": "desert-movie", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 214536, "title": "Um Barzinho e um Viol\u00e3o 2", "original_title": "Um Barzinho e um Viol\u00e3o 2", "slug_title": "um-barzinho-e-um-violao-2", "date": "2002-11-20", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOJDRdkqIeaSii4V6z48XAaKmA9.jpg", "actors": [], "comments": [], "recommandations_id": []}

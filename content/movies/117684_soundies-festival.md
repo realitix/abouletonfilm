@@ -1,0 +1,1 @@
+{"tmdb_id": 117684, "title": "Soundies Festival", "original_title": "Soundies Festival", "slug_title": "soundies-festival", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ethel Waters ()"], "comments": [], "recommandations_id": []}

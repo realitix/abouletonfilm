@@ -1,0 +1,1 @@
+{"tmdb_id": 224037, "title": "Have Gun Can't Travel", "original_title": "Have Gun Can't Travel", "slug_title": "have-gun-can-t-travel", "date": "1967-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZmc4mmIPPt1h9F1ZzMUvgNSOXn.jpg", "actors": [], "comments": [], "recommandations_id": []}

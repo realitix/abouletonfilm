@@ -1,0 +1,1 @@
+{"tmdb_id": 487211, "title": "La Trampa", "original_title": "La Trampa", "slug_title": "la-trampa", "date": "1994-11-15", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

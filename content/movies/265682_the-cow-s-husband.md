@@ -1,0 +1,1 @@
+{"tmdb_id": 265682, "title": "The Cow's Husband", "original_title": "The Cow's Husband", "slug_title": "the-cow-s-husband", "date": "1931-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

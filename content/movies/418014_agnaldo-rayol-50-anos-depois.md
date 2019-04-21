@@ -1,0 +1,1 @@
+{"tmdb_id": 418014, "title": "Agnaldo Rayol - 50 Anos Depois", "original_title": "Agnaldo Rayol - 50 Anos Depois", "slug_title": "agnaldo-rayol-50-anos-depois", "date": "2009-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mAyNQ7MT8Dhs4cEmoL0gU8GqrII.jpg", "actors": [], "comments": [], "recommandations_id": []}

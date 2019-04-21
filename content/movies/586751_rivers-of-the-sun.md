@@ -1,0 +1,1 @@
+{"tmdb_id": 586751, "title": "Rivers of the Sun", "original_title": "Rivers of the Sun", "slug_title": "rivers-of-the-sun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynL5WdkRRFVd1cQTCbmqyArafot.jpg", "actors": [], "comments": [], "recommandations_id": []}

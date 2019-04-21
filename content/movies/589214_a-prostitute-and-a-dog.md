@@ -1,0 +1,1 @@
+{"tmdb_id": 589214, "title": "A Prostitute and a Dog", "original_title": "Pelacur dan Seekor Anjing", "slug_title": "a-prostitute-and-a-dog", "date": "2016-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoZDbQpWsVDlGQJv75NqAG9OA5j.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 283604, "title": "Die Strasse", "original_title": "Die Strasse", "slug_title": "die-strasse", "date": "1958-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heinz Drache (Bob Schneider)", "Horst Beck ()", "Wolfgang Jansen ()", "Raoul Retzer ()"], "comments": [], "recommandations_id": []}

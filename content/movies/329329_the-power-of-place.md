@@ -1,0 +1,1 @@
+{"tmdb_id": 329329, "title": "The Power Of Place", "original_title": "The Power Of Place", "slug_title": "the-power-of-place", "date": "2015-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

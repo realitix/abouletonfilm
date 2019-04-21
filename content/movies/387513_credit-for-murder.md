@@ -1,0 +1,1 @@
+{"tmdb_id": 387513, "title": "Credit for Murder", "original_title": "Credit for Murder", "slug_title": "credit-for-murder", "date": "2015-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/di5t49z3jFcpzg4O9ZhRvW3n73C.jpg", "actors": [], "comments": [], "recommandations_id": []}

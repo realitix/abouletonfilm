@@ -1,0 +1,1 @@
+{"tmdb_id": 410283, "title": "Road Trip", "original_title": "Road Trip", "slug_title": "road-trip", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

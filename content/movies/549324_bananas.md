@@ -1,0 +1,1 @@
+{"tmdb_id": 549324, "title": "Bananas", "original_title": "Bananas", "slug_title": "bananas", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQIYVBzXJRaKsHUH20ezuvYwT4E.jpg", "actors": ["Tate Wynne (Shopper)"], "comments": [], "recommandations_id": []}

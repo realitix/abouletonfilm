@@ -1,0 +1,1 @@
+{"tmdb_id": 545009, "title": "Hush, Hush", "original_title": "Hush, Hush", "slug_title": "hush-hush", "date": "", "genre": "Fantastique / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liana Liberato (Nora Grey)", "Wolfgang Novogratz (Patch Cipriano)"], "comments": [], "recommandations_id": []}

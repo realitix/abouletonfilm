@@ -1,0 +1,1 @@
+{"tmdb_id": 268272, "title": "Bronx Obama", "original_title": "Bronx Obama", "slug_title": "bronx-obama", "date": "2014-04-29", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCU3i9iEeImWMdDzJXaonm4kea1.jpg", "actors": [], "comments": [], "recommandations_id": [5493]}

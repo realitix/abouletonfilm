@@ -1,0 +1,1 @@
+{"tmdb_id": 219881, "title": "A Defeated People", "original_title": "A Defeated People", "slug_title": "a-defeated-people", "date": "1946-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

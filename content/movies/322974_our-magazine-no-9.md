@@ -1,0 +1,1 @@
+{"tmdb_id": 322974, "title": "Our Magazine No. 9", "original_title": "Our Magazine No. 9", "slug_title": "our-magazine-no-9", "date": "1954-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428049, "title": "Adelic Penguins", "original_title": "Adelic Penguins", "slug_title": "adelic-penguins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

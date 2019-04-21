@@ -1,0 +1,1 @@
+{"tmdb_id": 345199, "title": "Spring Comes to Kashmir", "original_title": "Spring Comes to Kashmir", "slug_title": "spring-comes-to-kashmir", "date": "1956-06-17", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

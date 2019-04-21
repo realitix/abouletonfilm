@@ -1,0 +1,1 @@
+{"tmdb_id": 223063, "title": "Elas da Favela", "original_title": "Elas da Favela", "slug_title": "elas-da-favela", "date": "2010-12-10", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548713, "title": "Dead Island: The Movie", "original_title": "Dead Island: The Movie", "slug_title": "dead-island-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

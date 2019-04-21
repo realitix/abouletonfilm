@@ -1,0 +1,1 @@
+{"tmdb_id": 335473, "title": "Rapunzel, Let Down Your Hair", "original_title": "Rapunzel, Let Down Your Hair", "slug_title": "rapunzel-let-down-your-hair", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/242xWRTI91Q0fOeFVPeMNY0jLlw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 73977, "title": "Capoeira", "original_title": "Capoeira", "slug_title": "capoeira", "date": "2005-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUcCAYmctORTyIc0WysPWr7MVhd.jpg", "actors": [], "comments": [], "recommandations_id": []}

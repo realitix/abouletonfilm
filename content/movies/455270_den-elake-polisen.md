@@ -1,0 +1,1 @@
+{"tmdb_id": 455270, "title": "Den elake polisen", "original_title": "Den elake polisen", "slug_title": "den-elake-polisen", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0minSj2qWMBGMfneRZ4ZHZJu9B.jpg", "actors": ["Micke Dubois (\u00c5ke)"], "comments": [], "recommandations_id": []}

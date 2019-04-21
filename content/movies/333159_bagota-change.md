@@ -1,0 +1,1 @@
+{"tmdb_id": 333159, "title": "Bagota Change", "original_title": "Bagota Change", "slug_title": "bagota-change", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

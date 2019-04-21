@@ -1,0 +1,1 @@
+{"tmdb_id": 237052, "title": "Klondike Casanova", "original_title": "Klondike Casanova", "slug_title": "klondike-casanova", "date": "1946-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

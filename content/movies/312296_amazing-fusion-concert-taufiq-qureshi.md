@@ -1,0 +1,1 @@
+{"tmdb_id": 312296, "title": "Amazing Fusion Concert: Taufiq Qureshi", "original_title": "Amazing Fusion Concert: Taufiq Qureshi", "slug_title": "amazing-fusion-concert-taufiq-qureshi", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

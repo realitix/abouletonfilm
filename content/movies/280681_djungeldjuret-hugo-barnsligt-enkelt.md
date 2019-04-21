@@ -1,0 +1,1 @@
+{"tmdb_id": 280681, "title": "Djungeldjuret Hugo - Barnsligt Enkelt", "original_title": "Djungeldjuret Hugo - Barnsligt Enkelt", "slug_title": "djungeldjuret-hugo-barnsligt-enkelt", "date": "2003-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

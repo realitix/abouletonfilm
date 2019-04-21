@@ -1,0 +1,1 @@
+{"tmdb_id": 463680, "title": "Bangarang", "original_title": "Bangarang", "slug_title": "bangarang", "date": "2017-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rS2Lg1Ja0vaYaIidR3uBFbv2IHT.jpg", "actors": ["Sheaden Gabriel (Roofus)", "Dante Basco (Principal)"], "comments": [], "recommandations_id": []}

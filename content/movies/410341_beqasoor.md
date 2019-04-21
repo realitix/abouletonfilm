@@ -1,0 +1,1 @@
+{"tmdb_id": 410341, "title": "Beqasoor", "original_title": "Beqasoor", "slug_title": "beqasoor", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ihRiADnt6yzu9Uk3rdHxQNK48fY.jpg", "actors": ["Naseeruddin Shah ()", "Vijay Arora ()"], "comments": [], "recommandations_id": []}

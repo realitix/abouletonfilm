@@ -1,0 +1,1 @@
+{"tmdb_id": 373463, "title": "Ted Nugent Live! I Still Believe", "original_title": "Ted Nugent Live! I Still Believe", "slug_title": "ted-nugent-live-i-still-believe", "date": "2012-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ted Nugent (Self)"], "comments": [], "recommandations_id": []}

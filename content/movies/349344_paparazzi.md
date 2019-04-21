@@ -1,0 +1,1 @@
+{"tmdb_id": 349344, "title": "Paparazzi", "original_title": "\ud30c\ud30c\ub77c\uce58", "slug_title": "paparazzi", "date": "1999-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

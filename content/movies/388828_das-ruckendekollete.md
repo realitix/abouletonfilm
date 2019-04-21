@@ -1,0 +1,1 @@
+{"tmdb_id": 388828, "title": "Das R\u00fcckendekollet\u00e9", "original_title": "Das R\u00fcckendekollet\u00e9", "slug_title": "das-ruckendekollete", "date": "1975-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

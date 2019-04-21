@@ -1,0 +1,1 @@
+{"tmdb_id": 550780, "title": "The Friday Soap", "original_title": "Fredagstv\u00e5len", "slug_title": "the-friday-soap", "date": "2013-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erik Fagerberg ()", "Nisse Larsson ()", "Harry Lehammar ()", "Tore Wikner ()"], "comments": [], "recommandations_id": []}

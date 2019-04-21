@@ -1,0 +1,1 @@
+{"tmdb_id": 367864, "title": "Tralas Luces", "original_title": "Tralas Luces", "slug_title": "tralas-luces", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

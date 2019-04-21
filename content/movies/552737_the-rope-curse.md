@@ -1,0 +1,1 @@
+{"tmdb_id": 552737, "title": "The Rope Curse", "original_title": "\u7cbd\u90aa", "slug_title": "the-rope-curse", "date": "2018-08-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tNaSkqxO2mKWkpg51a894OdOXf6.jpg", "actors": [], "comments": [], "recommandations_id": []}

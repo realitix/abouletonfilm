@@ -1,0 +1,1 @@
+{"tmdb_id": 157301, "title": "Adam and Dog", "original_title": "Adam and Dog", "slug_title": "adam-and-dog", "date": "2013-02-01", "genre": "Animation / Drame", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zb3wQsCP5mMyfGokkOYig0pGJSH.jpg", "actors": [], "comments": [], "recommandations_id": [157305, 142563, 206126, 146893]}

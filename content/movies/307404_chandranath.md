@@ -1,0 +1,1 @@
+{"tmdb_id": 307404, "title": "Chandranath", "original_title": "Chandranath", "slug_title": "chandranath", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

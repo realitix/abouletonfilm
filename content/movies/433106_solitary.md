@@ -1,0 +1,1 @@
+{"tmdb_id": 433106, "title": "Solitary", "original_title": "Solitary", "slug_title": "solitary", "date": "2007-11-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emma Kelly (Prisoner B)", "Erica Lowe (Prisoner A)"], "comments": [], "recommandations_id": []}

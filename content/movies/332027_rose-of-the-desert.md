@@ -1,0 +1,1 @@
+{"tmdb_id": 332027, "title": "Rose of the Desert", "original_title": "Louss, warda al-rimal", "slug_title": "rose-of-the-desert", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjY3F2CSihoGF5ZDEpRomoNMpbB.jpg", "actors": [], "comments": [], "recommandations_id": []}

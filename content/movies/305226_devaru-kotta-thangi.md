@@ -1,0 +1,1 @@
+{"tmdb_id": 305226, "title": "Devaru Kotta Thangi", "original_title": "Devaru Kotta Thangi", "slug_title": "devaru-kotta-thangi", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 494854, "title": "Opens Wednesday", "original_title": "Opens Wednesday", "slug_title": "opens-wednesday", "date": "1980-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

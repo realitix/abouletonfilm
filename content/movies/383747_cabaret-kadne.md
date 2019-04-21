@@ -1,0 +1,1 @@
+{"tmdb_id": 383747, "title": "Cabaret Kadne", "original_title": "Cabaret Kadne", "slug_title": "cabaret-kadne", "date": "2008-04-06", "genre": "Animation / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nl2btrLQgHS1NEwnjxwc7IV6Yx.jpg", "actors": [], "comments": [], "recommandations_id": []}

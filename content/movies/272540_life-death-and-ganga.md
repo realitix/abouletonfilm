@@ -1,0 +1,1 @@
+{"tmdb_id": 272540, "title": "Life, Death and Ganga", "original_title": "Life, Death and Ganga", "slug_title": "life-death-and-ganga", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

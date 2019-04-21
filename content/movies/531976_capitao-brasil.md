@@ -1,0 +1,1 @@
+{"tmdb_id": 531976, "title": "Capit\u00e3o Brasil", "original_title": "Capit\u00e3o Brasil", "slug_title": "capitao-brasil", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9j1f42ACUwa2MbeSS1jL0fvSBzQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

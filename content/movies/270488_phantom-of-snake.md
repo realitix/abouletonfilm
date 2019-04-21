@@ -1,0 +1,1 @@
+{"tmdb_id": 270488, "title": "Phantom of Snake", "original_title": "Phantom of Snake", "slug_title": "phantom-of-snake", "date": "2000-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szBUovw2yWSOM9rEQanOb2AhoTX.jpg", "actors": ["Jade Leung ()", "Cecilia Yip ()"], "comments": [], "recommandations_id": []}

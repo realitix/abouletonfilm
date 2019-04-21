@@ -1,0 +1,1 @@
+{"tmdb_id": 509880, "title": "The King of Pluto", "original_title": "The King of Pluto", "slug_title": "the-king-of-pluto", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCNqiWhTziFKeHPcYr9L4pWxyKc.jpg", "actors": ["Mike Wrathell (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310492, "title": "Beating Blackjack", "original_title": "Beating Blackjack", "slug_title": "beating-blackjack", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

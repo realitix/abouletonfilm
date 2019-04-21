@@ -1,0 +1,1 @@
+{"tmdb_id": 354521, "title": "Franky Goes to Hollywood", "original_title": "Franky Goes to Hollywood", "slug_title": "franky-goes-to-hollywood", "date": "1998-08-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

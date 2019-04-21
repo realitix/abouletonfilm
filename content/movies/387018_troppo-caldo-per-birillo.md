@@ -1,0 +1,1 @@
+{"tmdb_id": 387018, "title": "Troppo caldo per Birillo", "original_title": "Troppo caldo per Birillo", "slug_title": "troppo-caldo-per-birillo", "date": "2005-09-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Evita Ciri (Marta)", "Corso Codecasa (Vieri)"], "comments": [], "recommandations_id": []}

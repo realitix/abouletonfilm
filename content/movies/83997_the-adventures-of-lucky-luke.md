@@ -1,0 +1,1 @@
+{"tmdb_id": 83997, "title": "The Adventures of Lucky Luke", "original_title": "The Adventures of Lucky Luke", "slug_title": "the-adventures-of-lucky-luke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

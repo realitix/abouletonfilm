@@ -1,0 +1,1 @@
+{"tmdb_id": 252826, "title": "Farmer Al Falfa's 20th Anniversary", "original_title": "Farmer Al Falfa's 20th Anniversary", "slug_title": "farmer-al-falfa-s-20th-anniversary", "date": "1936-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

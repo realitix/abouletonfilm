@@ -1,0 +1,1 @@
+{"tmdb_id": 310479, "title": "Yucko the Clown: The Damn Show", "original_title": "Yucko the Clown: The Damn Show", "slug_title": "yucko-the-clown-the-damn-show", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

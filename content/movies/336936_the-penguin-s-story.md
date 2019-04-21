@@ -1,0 +1,1 @@
+{"tmdb_id": 336936, "title": "The Penguin's Story", "original_title": "The Penguin's Story", "slug_title": "the-penguin-s-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vLfnoKAqCmJNp73djVLT5vjTWE.jpg", "actors": [], "comments": [], "recommandations_id": []}

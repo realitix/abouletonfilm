@@ -1,0 +1,1 @@
+{"tmdb_id": 578889, "title": "Schloss Solitude", "original_title": "Schloss Solitude", "slug_title": "schloss-solitude", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 208106, "title": "The Farm", "original_title": "The Farm", "slug_title": "the-farm", "date": "1938-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

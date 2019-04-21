@@ -1,0 +1,1 @@
+{"tmdb_id": 218909, "title": "Summer House", "original_title": "Sommarst\u00e4llet", "slug_title": "summer-house", "date": "2013-04-21", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/paVQIewikIj2h3qS0Oo4BIz3o7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

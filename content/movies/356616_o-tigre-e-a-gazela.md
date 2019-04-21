@@ -1,0 +1,1 @@
+{"tmdb_id": 356616, "title": "O Tigre e a Gazela", "original_title": "O Tigre e a Gazela", "slug_title": "o-tigre-e-a-gazela", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ciLAzUWzzRwuotrhBa0aY8uXHbX.jpg", "actors": ["Jose Luiz Franca ()"], "comments": [], "recommandations_id": []}

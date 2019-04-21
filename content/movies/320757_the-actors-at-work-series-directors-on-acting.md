@@ -1,0 +1,1 @@
+{"tmdb_id": 320757, "title": "The Actors at Work Series: Directors on Acting", "original_title": "The Actors at Work Series: Directors on Acting", "slug_title": "the-actors-at-work-series-directors-on-acting", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

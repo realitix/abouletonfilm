@@ -1,0 +1,1 @@
+{"tmdb_id": 294362, "title": "Mahou Tsukai Jiji", "original_title": "Mahou Tsukai Jiji", "slug_title": "mahou-tsukai-jiji", "date": "2011-12-24", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4i9MOctLBFQj1AQtniuXXczTu5E.jpg", "actors": [], "comments": [], "recommandations_id": []}

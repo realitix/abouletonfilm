@@ -1,0 +1,1 @@
+{"tmdb_id": 341009, "title": "The Offseason: Kevin Durant", "original_title": "The Offseason: Kevin Durant", "slug_title": "the-offseason-kevin-durant", "date": "2014-11-04", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sr13fCIQcaWkVCFBJ6cx9xhFAJD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 414397, "title": "A Hunting Lesson", "original_title": "Une le\u00e7on de chasse", "slug_title": "a-hunting-lesson", "date": "2002-05-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5d7HEJBQgLKyhIJ2Zw3msfSLlXD.jpg", "actors": [], "comments": [], "recommandations_id": []}

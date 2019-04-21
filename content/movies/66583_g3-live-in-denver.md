@@ -1,0 +1,1 @@
+{"tmdb_id": 66583, "title": "G3: Live in Denver", "original_title": "G3: Live in Denver", "slug_title": "g3-live-in-denver", "date": "2004-02-24", "genre": "Musique", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bU8KB3Vg5MJcbLoL4cIz5CgvH6s.jpg", "actors": [], "comments": [], "recommandations_id": []}

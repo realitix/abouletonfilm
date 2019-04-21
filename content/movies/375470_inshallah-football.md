@@ -1,0 +1,1 @@
+{"tmdb_id": 375470, "title": "Inshallah, Football", "original_title": "Inshallah, Football", "slug_title": "inshallah-football", "date": "2010-10-10", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fCJA0txVz7ZWSxP4nIMfXEzmG9T.jpg", "actors": [], "comments": [], "recommandations_id": []}

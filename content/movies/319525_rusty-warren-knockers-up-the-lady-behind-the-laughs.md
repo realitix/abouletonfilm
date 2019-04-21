@@ -1,0 +1,1 @@
+{"tmdb_id": 319525, "title": "Rusty Warren: Knockers Up!: The Lady Behind the Laughs", "original_title": "Rusty Warren: Knockers Up!: The Lady Behind the Laughs", "slug_title": "rusty-warren-knockers-up-the-lady-behind-the-laughs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

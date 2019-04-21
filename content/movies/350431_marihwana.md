@@ -1,0 +1,1 @@
+{"tmdb_id": 350431, "title": "\ub9c8\ub9ac\ud654\ub098", "original_title": "\ub9c8\ub9ac\ud654\ub098", "slug_title": "marihwana", "date": "1991-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

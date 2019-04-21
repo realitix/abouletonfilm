@@ -1,0 +1,1 @@
+{"tmdb_id": 151077, "title": "Slingshot", "original_title": "Tirador", "slug_title": "slingshot", "date": "2007-05-16", "genre": "Crime / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xs3lqvTTqE64TVDYXUg1UzZyGX1.jpg", "actors": ["Coco Martin ()", "Nathan Lopez ()"], "comments": [], "recommandations_id": []}

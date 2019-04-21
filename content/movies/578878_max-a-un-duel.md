@@ -1,0 +1,1 @@
+{"tmdb_id": 578878, "title": "Max a un duel", "original_title": "Max a un duel", "slug_title": "max-a-un-duel", "date": "1911-09-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)"], "comments": [], "recommandations_id": []}

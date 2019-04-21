@@ -1,0 +1,1 @@
+{"tmdb_id": 486969, "title": "The Mexican Sweethearts", "original_title": "The Mexican Sweethearts", "slug_title": "the-mexican-sweethearts", "date": "1909-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Pickford (The Se\u00f1orita)", "Billy Quirk (American Soldier)"], "comments": [], "recommandations_id": []}

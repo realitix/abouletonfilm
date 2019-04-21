@@ -1,0 +1,1 @@
+{"tmdb_id": 349638, "title": "\uc2ec\uc9c0\ub9c8", "original_title": "\uc2ec\uc9c0\ub9c8", "slug_title": "simjima", "date": "1983-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

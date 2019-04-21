@@ -1,0 +1,1 @@
+{"tmdb_id": 477518, "title": "A Place of Truth", "original_title": "A Place of Truth", "slug_title": "a-place-of-truth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

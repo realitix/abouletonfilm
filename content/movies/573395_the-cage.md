@@ -1,0 +1,1 @@
+{"tmdb_id": 573395, "title": "The Cage", "original_title": "La cage", "slug_title": "the-cage", "date": "2002-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nKBZ8FJ4z0joKjtgwV8xFhPzJF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 96186, "title": "The Magician", "original_title": "Le Magicien", "slug_title": "the-magician", "date": "1898-01-01", "genre": "Fantastique / Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9E5I28UpWAVJ5YTGp5wSC9hhV6h.jpg", "actors": [], "comments": [], "recommandations_id": [107439, 106804, 107273, 107261]}

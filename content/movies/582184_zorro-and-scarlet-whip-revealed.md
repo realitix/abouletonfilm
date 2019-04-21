@@ -1,0 +1,1 @@
+{"tmdb_id": 582184, "title": "Zorro and Scarlet Whip Revealed!", "original_title": "Zorro and Scarlet Whip Revealed!", "slug_title": "zorro-and-scarlet-whip-revealed", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

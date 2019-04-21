@@ -1,0 +1,1 @@
+{"tmdb_id": 409332, "title": "AfterSchool: Lucky or Not", "original_title": "AfterSchool: Lucky or Not", "slug_title": "afterschool-lucky-or-not", "date": "2014-08-02", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54NApOmI0wwKHyMR2cW5b0cttKU.jpg", "actors": [], "comments": [], "recommandations_id": []}

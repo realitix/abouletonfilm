@@ -1,0 +1,1 @@
+{"tmdb_id": 505614, "title": "Earth Collection", "original_title": "Earth Collection", "slug_title": "earth-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

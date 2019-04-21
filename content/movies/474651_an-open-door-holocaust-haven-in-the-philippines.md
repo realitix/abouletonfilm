@@ -1,0 +1,1 @@
+{"tmdb_id": 474651, "title": "An Open Door: Holocaust Haven in the Philippines", "original_title": "An Open Door: Holocaust Haven in the Philippines", "slug_title": "an-open-door-holocaust-haven-in-the-philippines", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

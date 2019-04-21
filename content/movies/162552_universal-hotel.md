@@ -1,0 +1,1 @@
+{"tmdb_id": 162552, "title": "Universal Hotel", "original_title": "Universal Hotel", "slug_title": "universal-hotel", "date": "1986-12-31", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Thompson (The Narrator)"], "comments": [], "recommandations_id": [289853, 251483, 391787, 391789]}

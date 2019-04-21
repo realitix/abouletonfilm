@@ -1,0 +1,1 @@
+{"tmdb_id": 320216, "title": "Adventures with Fire Fighting", "original_title": "Adventures with Fire Fighting", "slug_title": "adventures-with-fire-fighting", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

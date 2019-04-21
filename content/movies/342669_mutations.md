@@ -1,0 +1,1 @@
+{"tmdb_id": 342669, "title": "Mutations", "original_title": "Mutations", "slug_title": "mutations", "date": "1972-03-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLZtvlrgHyAi6HMrZWba9kT389b.jpg", "actors": [], "comments": [], "recommandations_id": []}

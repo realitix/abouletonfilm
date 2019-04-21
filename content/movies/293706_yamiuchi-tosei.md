@@ -1,0 +1,1 @@
+{"tmdb_id": 293706, "title": "Yamiuchi tosei", "original_title": "Yamiuchi tosei", "slug_title": "yamiuchi-tosei", "date": "1932-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiez\u00f4 Kataoka ()", "Shinpachir\u00f4 Asaka ()", "Kobunji Ichikawa ()"], "comments": [], "recommandations_id": []}

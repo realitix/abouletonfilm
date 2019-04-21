@@ -1,0 +1,1 @@
+{"tmdb_id": 530803, "title": "\u53cc\u7a0b2", "original_title": "\u53cc\u7a0b2", "slug_title": "shuang-cheng-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

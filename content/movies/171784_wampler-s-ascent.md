@@ -1,0 +1,1 @@
+{"tmdb_id": 171784, "title": "Wampler's Ascent", "original_title": "Wampler's Ascent", "slug_title": "wampler-s-ascent", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZxIyqnuuJfBHXLOzGVoi9GfdjX.jpg", "actors": ["Stephen Wampler (Wamp)"], "comments": [], "recommandations_id": []}

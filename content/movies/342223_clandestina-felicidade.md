@@ -1,0 +1,1 @@
+{"tmdb_id": 342223, "title": "Clandestina Felicidade", "original_title": "Clandestina Felicidade", "slug_title": "clandestina-felicidade", "date": "1998-01-02", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwqYQhjG1WYaHZjCk6KHWnoRs7c.jpg", "actors": [], "comments": [], "recommandations_id": []}

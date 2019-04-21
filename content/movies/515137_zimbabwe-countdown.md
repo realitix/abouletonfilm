@@ -1,0 +1,1 @@
+{"tmdb_id": 515137, "title": "Zimbabwe Countdown", "original_title": "Zimbabwe Countdown", "slug_title": "zimbabwe-countdown", "date": "2003-08-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnpAEhWBDhf7I6m4XZqj3Vf27px.jpg", "actors": [], "comments": [], "recommandations_id": []}

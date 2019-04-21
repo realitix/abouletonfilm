@@ -1,0 +1,1 @@
+{"tmdb_id": 557240, "title": "\u00a1Despertar!", "original_title": "\u00a1Despertar!", "slug_title": "despertar", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6zJjfKybsylsoMka1Y6s5e54ak.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458086, "title": "An Evil Town", "original_title": "An Evil Town", "slug_title": "an-evil-town", "date": "1995-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bNqCFeFlMEFUXwb5vzdzglxERyK.jpg", "actors": ["Matt Chesse ()", "Mike Kuchar ()", "Greg Lucey ()"], "comments": [], "recommandations_id": []}

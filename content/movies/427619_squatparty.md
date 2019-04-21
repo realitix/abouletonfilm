@@ -1,0 +1,1 @@
+{"tmdb_id": 427619, "title": "Squatparty", "original_title": "Squatparty", "slug_title": "squatparty", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSFSC6mXuVqoKOdJOthpinhfcOa.jpg", "actors": [], "comments": [], "recommandations_id": []}

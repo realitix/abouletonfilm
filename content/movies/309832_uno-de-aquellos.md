@@ -1,0 +1,1 @@
+{"tmdb_id": 309832, "title": "Uno de aquellos", "original_title": "Uno de aquellos", "slug_title": "uno-de-aquellos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Un des derniers court-m\u00e9trages de Pere Portabella.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

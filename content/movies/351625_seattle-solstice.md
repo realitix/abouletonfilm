@@ -1,0 +1,1 @@
+{"tmdb_id": 351625, "title": "Seattle Solstice", "original_title": "Seattle Solstice", "slug_title": "seattle-solstice", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWYgAD506XOTnKKWqFBlFKRoJYa.jpg", "actors": [], "comments": [], "recommandations_id": []}

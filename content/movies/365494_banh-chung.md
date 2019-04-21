@@ -1,0 +1,1 @@
+{"tmdb_id": 365494, "title": "Banh Chung", "original_title": "Banh Chung", "slug_title": "banh-chung", "date": "2013-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1d5mUuoqGZPyHRWUpdWwmST82td.jpg", "actors": [], "comments": [], "recommandations_id": []}

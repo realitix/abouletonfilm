@@ -1,0 +1,1 @@
+{"tmdb_id": 275892, "title": "Kung Fu Shadow", "original_title": "Kung Fu Shadow", "slug_title": "kung-fu-shadow", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

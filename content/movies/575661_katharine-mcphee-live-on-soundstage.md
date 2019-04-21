@@ -1,0 +1,1 @@
+{"tmdb_id": 575661, "title": "Katharine McPhee: Live On Soundstage", "original_title": "Katharine McPhee: Live On Soundstage", "slug_title": "katharine-mcphee-live-on-soundstage", "date": "2018-11-16", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katharine McPhee ()"], "comments": [], "recommandations_id": []}

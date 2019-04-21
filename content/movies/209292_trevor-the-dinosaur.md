@@ -1,0 +1,1 @@
+{"tmdb_id": 209292, "title": "Trevor the Dinosaur", "original_title": "Trevor the Dinosaur", "slug_title": "trevor-the-dinosaur", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

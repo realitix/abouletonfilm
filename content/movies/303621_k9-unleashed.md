@@ -1,0 +1,1 @@
+{"tmdb_id": 303621, "title": "K9 Unleashed", "original_title": "K9 Unleashed", "slug_title": "k9-unleashed", "date": "2000-04-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/guB8G3V3GfzR4TZvX07wtZGBYFL.jpg", "actors": [], "comments": [], "recommandations_id": []}

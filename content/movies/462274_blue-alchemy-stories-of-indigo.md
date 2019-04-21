@@ -1,0 +1,1 @@
+{"tmdb_id": 462274, "title": "Blue Alchemy: Stories of Indigo", "original_title": "Blue Alchemy: Stories of Indigo", "slug_title": "blue-alchemy-stories-of-indigo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hV8dTkibHfSerbIPEZQEDuKj0A2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556081, "title": "Day Shift", "original_title": "Turno do Dia", "slug_title": "day-shift", "date": "2018-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

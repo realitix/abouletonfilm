@@ -1,0 +1,1 @@
+{"tmdb_id": 347169, "title": "Betty's Boat", "original_title": "Le bateau de L\u00e9ontine", "slug_title": "betty-s-boat", "date": "1911-10-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

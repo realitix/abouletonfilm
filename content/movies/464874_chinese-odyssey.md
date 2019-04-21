@@ -1,0 +1,1 @@
+{"tmdb_id": 464874, "title": "Chinese Odyssey", "original_title": "Chinese Odyssey", "slug_title": "chinese-odyssey", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

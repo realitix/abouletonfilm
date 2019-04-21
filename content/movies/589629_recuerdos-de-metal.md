@@ -1,0 +1,1 @@
+{"tmdb_id": 589629, "title": "Recuerdos de metal", "original_title": "Recuerdos de metal", "slug_title": "recuerdos-de-metal", "date": "2011-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9szJcaJ6fdhnfdApY06O8szEnz.jpg", "actors": ["Sara G. ()", "Pablo Ferreira ()"], "comments": [], "recommandations_id": []}

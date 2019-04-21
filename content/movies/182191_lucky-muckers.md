@@ -1,0 +1,1 @@
+{"tmdb_id": 182191, "title": "Lucky Muckers", "original_title": "Lucky Muckers", "slug_title": "lucky-muckers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymn78hPajoquirBmBaBScsM9YND.jpg", "actors": ["Ron Guinazzo (Himself - Narrator)"], "comments": [], "recommandations_id": []}

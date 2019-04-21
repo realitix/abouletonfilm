@@ -1,0 +1,1 @@
+{"tmdb_id": 175492, "title": "Chekhov And Maria", "original_title": "Chekhov And Maria", "slug_title": "chekhov-and-maria", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391836, "title": "Krzysztof Wodiczko: Projections", "original_title": "Krzysztof Wodiczko: Projections", "slug_title": "krzysztof-wodiczko-projections", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

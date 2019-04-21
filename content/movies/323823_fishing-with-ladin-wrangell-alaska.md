@@ -1,0 +1,1 @@
+{"tmdb_id": 323823, "title": "Fishing with Ladin: Wrangell, Alaska", "original_title": "Fishing with Ladin: Wrangell, Alaska", "slug_title": "fishing-with-ladin-wrangell-alaska", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

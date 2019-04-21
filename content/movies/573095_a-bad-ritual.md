@@ -1,0 +1,1 @@
+{"tmdb_id": 573095, "title": "A Bad Ritual", "original_title": "A Bad Ritual", "slug_title": "a-bad-ritual", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/deYNqNs5ZsEP6r4izeWwmu70ovy.jpg", "actors": ["Mathieu Nolet (Joe Williams)"], "comments": [], "recommandations_id": []}

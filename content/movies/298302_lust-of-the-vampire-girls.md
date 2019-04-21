@@ -1,0 +1,1 @@
+{"tmdb_id": 298302, "title": "Lust of the Vampire Girls", "original_title": "Lust of the Vampire Girls", "slug_title": "lust-of-the-vampire-girls", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zabGRT1m4UvYDlrHZ4fUq1ythi8.jpg", "actors": [], "comments": [], "recommandations_id": []}

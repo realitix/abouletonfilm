@@ -1,0 +1,1 @@
+{"tmdb_id": 220291, "title": "Triss\u00e1kia 3", "original_title": "Triss\u00e1kia 3", "slug_title": "trissakia-3", "date": "2013-05-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bAMHaTIKCL4EaUuMQmmsxuGrSXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

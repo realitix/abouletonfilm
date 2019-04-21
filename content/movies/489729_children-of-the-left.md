@@ -1,0 +1,1 @@
+{"tmdb_id": 489729, "title": "Children of the Left", "original_title": "Children of the Left", "slug_title": "children-of-the-left", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329111, "title": "Let's Make a... Horror Movie", "original_title": "Let's Make a... Horror Movie", "slug_title": "let-s-make-a-horror-movie", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRTgCKH8baKidK8KmpsYn6DNHKd.jpg", "actors": [], "comments": [], "recommandations_id": []}

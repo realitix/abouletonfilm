@@ -1,0 +1,1 @@
+{"tmdb_id": 482263, "title": "Bartholemew", "original_title": "Bartholemew", "slug_title": "bartholemew", "date": "1982-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

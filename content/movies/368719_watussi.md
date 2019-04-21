@@ -1,0 +1,1 @@
+{"tmdb_id": 368719, "title": "Watussi", "original_title": "Watussi", "slug_title": "watussi", "date": "1977-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wolfgang Engels ()", "Friedrich von Thun ()"], "comments": [], "recommandations_id": []}

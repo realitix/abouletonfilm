@@ -1,0 +1,1 @@
+{"tmdb_id": 479568, "title": "Clans of Intrigue", "original_title": "\u897f\u9580\u7121\u6068", "slug_title": "clans-of-intrigue", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

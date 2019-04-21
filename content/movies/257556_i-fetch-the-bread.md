@@ -1,0 +1,1 @@
+{"tmdb_id": 257556, "title": "I Fetch the Bread", "original_title": "Je vais chercher le pain", "slug_title": "i-fetch-the-bread", "date": "1906-06-23", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

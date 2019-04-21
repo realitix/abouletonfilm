@@ -1,0 +1,1 @@
+{"tmdb_id": 419250, "title": "The Creative Process", "original_title": "The Creative Process", "slug_title": "the-creative-process", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/51wFL0PJBN0W39guLWY5hIyww4w.jpg", "actors": [], "comments": [], "recommandations_id": []}

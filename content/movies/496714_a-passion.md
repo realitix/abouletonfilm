@@ -1,0 +1,1 @@
+{"tmdb_id": 496714, "title": "A Passion", "original_title": "A Passion", "slug_title": "a-passion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67JnI75EPEXnjqmNaa7ucSdr0S5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 484916, "title": "Humein Haq Chahiye Haq Se", "original_title": "Humein Haq Chahiye Haq Se", "slug_title": "humein-haq-chahiye-haq-se", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

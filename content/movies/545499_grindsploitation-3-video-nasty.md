@@ -1,0 +1,1 @@
+{"tmdb_id": 545499, "title": "Grindsploitation 3: Video Nasty", "original_title": "Grindsploitation 3: Video Nasty", "slug_title": "grindsploitation-3-video-nasty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmlFa0FyJhqc0VMQ4WPCCXbiqJ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

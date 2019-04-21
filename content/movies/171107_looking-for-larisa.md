@@ -1,0 +1,1 @@
+{"tmdb_id": 171107, "title": "Looking for Larisa", "original_title": "Buscando a Larisa", "slug_title": "looking-for-larisa", "date": "2012-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ixK9zbWnIq8KTI31L4cXvm3axVm.jpg", "actors": [], "comments": [], "recommandations_id": []}

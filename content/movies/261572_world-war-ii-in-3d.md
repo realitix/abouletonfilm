@@ -1,0 +1,1 @@
+{"tmdb_id": 261572, "title": "World War II in 3D", "original_title": "World War II in 3D", "slug_title": "world-war-ii-in-3d", "date": "2012-01-24", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GQo4USpO3qlL7mCrJID7weoQVh.jpg", "actors": [], "comments": [], "recommandations_id": []}

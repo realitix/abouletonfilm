@@ -1,0 +1,1 @@
+{"tmdb_id": 236091, "title": "The Farmer and the Belle", "original_title": "The Farmer and the Belle", "slug_title": "the-farmer-and-the-belle", "date": "1950-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

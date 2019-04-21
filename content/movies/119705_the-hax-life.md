@@ -1,0 +1,1 @@
+{"tmdb_id": 119705, "title": "The Hax Life", "original_title": "The Hax Life", "slug_title": "the-hax-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

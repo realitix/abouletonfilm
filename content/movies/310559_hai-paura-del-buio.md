@@ -1,0 +1,1 @@
+{"tmdb_id": 310559, "title": "Hai paura del buio?", "original_title": "Hai paura del buio?", "slug_title": "hai-paura-del-buio", "date": "2014-12-12", "genre": "Documentaire / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AafNbevs8E6o46nekgqliMPCJaJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

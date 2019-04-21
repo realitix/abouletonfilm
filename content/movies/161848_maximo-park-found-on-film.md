@@ -1,0 +1,1 @@
+{"tmdb_id": 161848, "title": "Max\u00efmo Park: Found on Film", "original_title": "Max\u00efmo Park: Found on Film", "slug_title": "maximo-park-found-on-film", "date": "2006-06-03", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYTdV1VnuS0MkRDD5rcQUjzo3Is.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 432259, "title": "Computer Test", "original_title": "Computer Test", "slug_title": "computer-test", "date": "1987-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWzKoaeHxYgO2brpeS4LCzqhNw0.jpg", "actors": [], "comments": [], "recommandations_id": []}

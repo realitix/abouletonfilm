@@ -1,0 +1,1 @@
+{"tmdb_id": 310826, "title": "Reggae Salute", "original_title": "Reggae Salute", "slug_title": "reggae-salute", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

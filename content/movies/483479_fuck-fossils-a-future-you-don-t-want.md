@@ -1,0 +1,1 @@
+{"tmdb_id": 483479, "title": "Fuck Fossils - A Future You Don't Want", "original_title": "Fuck Fossils - A Future You Don't Want", "slug_title": "fuck-fossils-a-future-you-don-t-want", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

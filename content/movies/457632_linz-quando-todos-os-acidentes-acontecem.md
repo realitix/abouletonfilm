@@ -1,0 +1,1 @@
+{"tmdb_id": 457632, "title": "Linz - Quando Todos os Acidentes Acontecem", "original_title": "Linz - Quando Todos os Acidentes Acontecem", "slug_title": "linz-quando-todos-os-acidentes-acontecem", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

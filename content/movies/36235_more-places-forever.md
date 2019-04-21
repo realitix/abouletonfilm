@@ -1,0 +1,1 @@
+{"tmdb_id": 36235, "title": "More Places Forever", "original_title": "More Places Forever", "slug_title": "more-places-forever", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utbZmfNwEUcqQMOHPnakxyet9yp.jpg", "actors": [], "comments": [], "recommandations_id": []}

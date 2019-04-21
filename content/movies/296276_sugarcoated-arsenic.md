@@ -1,0 +1,1 @@
+{"tmdb_id": 296276, "title": "Sugarcoated Arsenic", "original_title": "Sugarcoated Arsenic", "slug_title": "sugarcoated-arsenic", "date": "2014-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

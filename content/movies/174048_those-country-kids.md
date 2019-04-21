@@ -1,0 +1,1 @@
+{"tmdb_id": 174048, "title": "Those Country Kids", "original_title": "Those Country Kids", "slug_title": "those-country-kids", "date": "1914-08-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (Fatty)", "Mabel Normand (Mabel)", "Al St. John (Mr. Reddy)"], "comments": [], "recommandations_id": []}

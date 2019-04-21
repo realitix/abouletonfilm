@@ -1,0 +1,1 @@
+{"tmdb_id": 528689, "title": "K-1 Hercules", "original_title": "K-1 Hercules", "slug_title": "k-1-hercules", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

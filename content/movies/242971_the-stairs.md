@@ -1,0 +1,1 @@
+{"tmdb_id": 242971, "title": "The Stairs", "original_title": "The Stairs", "slug_title": "the-stairs", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

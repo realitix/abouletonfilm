@@ -1,0 +1,1 @@
+{"tmdb_id": 293041, "title": "China and the Chinese, No. 2", "original_title": "China and the Chinese, No. 2", "slug_title": "china-and-the-chinese-no-2", "date": "1917-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

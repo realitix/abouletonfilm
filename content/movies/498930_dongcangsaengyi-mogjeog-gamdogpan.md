@@ -1,0 +1,1 @@
+{"tmdb_id": 498930, "title": "\ub3d9\ucc3d\uc0dd\uc758 \ubaa9\uc801 - \uac10\ub3c5\ud310", "original_title": "\ub3d9\ucc3d\uc0dd\uc758 \ubaa9\uc801 - \uac10\ub3c5\ud310", "slug_title": "dongcangsaengyi-mogjeog-gamdogpan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 126015, "title": "America before Columbus", "original_title": "America before Columbus", "slug_title": "america-before-columbus", "date": "2009-11-22", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQbL0oYKsp6BeWFZmLtYtLT8DEL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 176690, "title": "Bummer Summer", "original_title": "Bummer Summer", "slug_title": "bummer-summer", "date": "2010-01-02", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7VfcE3SqXDQgiL2pPXTOzQmaup.jpg", "actors": [], "comments": [], "recommandations_id": []}

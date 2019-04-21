@@ -1,0 +1,1 @@
+{"tmdb_id": 333962, "title": "Perfect Rivals", "original_title": "Perfect Rivals", "slug_title": "perfect-rivals", "date": "2011-04-03", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHQU4zjDIJb5wPiuvhnnY16Lbjk.jpg", "actors": [], "comments": [], "recommandations_id": []}

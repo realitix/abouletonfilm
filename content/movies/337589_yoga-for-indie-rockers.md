@@ -1,0 +1,1 @@
+{"tmdb_id": 337589, "title": "Yoga for Indie Rockers", "original_title": "Yoga for Indie Rockers", "slug_title": "yoga-for-indie-rockers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7xdJinQErh3fhGyGyCgzfEfJo9A.jpg", "actors": [], "comments": [], "recommandations_id": []}

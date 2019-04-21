@@ -1,0 +1,1 @@
+{"tmdb_id": 345728, "title": "The Price of Peace", "original_title": "The Price of Peace", "slug_title": "the-price-of-peace", "date": "2015-07-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3EY6DLQmWPqmxDQKRDDvtjJJ04E.jpg", "actors": [], "comments": [], "recommandations_id": []}

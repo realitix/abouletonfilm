@@ -1,0 +1,1 @@
+{"tmdb_id": 406279, "title": "TV Buster", "original_title": "TV Buster", "slug_title": "tv-buster", "date": "1989-01-01", "genre": "Thriller / Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCe47baN8DIebm8qe7QpGBpFMCE.jpg", "actors": [], "comments": [], "recommandations_id": []}

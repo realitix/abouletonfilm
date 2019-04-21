@@ -1,0 +1,1 @@
+{"tmdb_id": 377939, "title": "La vita \u00e8 bella", "original_title": "La vita \u00e8 bella", "slug_title": "la-vita-e-bella", "date": "1943-05-26", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCaqoJsdqzlzRoSwJO95cQNhpIu.jpg", "actors": ["Anna Magnani ()"], "comments": [], "recommandations_id": []}

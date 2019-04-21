@@ -1,0 +1,1 @@
+{"tmdb_id": 237386, "title": "The History of Horror", "original_title": "The History of Horror", "slug_title": "the-history-of-horror", "date": "2013-10-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/np7O49zRiRUyetPa551zvaXYYVB.jpg", "actors": ["John P. Hess ()"], "comments": [], "recommandations_id": []}

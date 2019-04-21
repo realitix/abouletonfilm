@@ -1,0 +1,1 @@
+{"tmdb_id": 242697, "title": "Friday Night Monday Morning", "original_title": "Friday Night Monday Morning", "slug_title": "friday-night-monday-morning", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHJqUXgj8WNi0esv1FNeB0yX3RR.jpg", "actors": [], "comments": [], "recommandations_id": []}

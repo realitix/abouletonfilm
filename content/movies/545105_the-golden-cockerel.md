@@ -1,0 +1,1 @@
+{"tmdb_id": 545105, "title": "The Golden Cockerel", "original_title": "The Golden Cockerel", "slug_title": "the-golden-cockerel", "date": "2014-12-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8U3SNxfkLkXEQEUKhy2odM6JlK.jpg", "actors": [], "comments": [], "recommandations_id": []}

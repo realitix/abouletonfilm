@@ -1,0 +1,1 @@
+{"tmdb_id": 522670, "title": "Quest of the Battling Gods", "original_title": "Quest of the Battling Gods", "slug_title": "quest-of-the-battling-gods", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

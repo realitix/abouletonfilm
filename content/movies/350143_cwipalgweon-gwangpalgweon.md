@@ -1,0 +1,1 @@
+{"tmdb_id": 350143, "title": "\ucde8\ud314\uad8c \uad11\ud314\uad8c", "original_title": "\ucde8\ud314\uad8c \uad11\ud314\uad8c", "slug_title": "cwipalgweon-gwangpalgweon", "date": "1981-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

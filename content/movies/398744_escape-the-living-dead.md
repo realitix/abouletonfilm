@@ -1,0 +1,1 @@
+{"tmdb_id": 398744, "title": "Escape The Living Dead", "original_title": "Escape The Living Dead", "slug_title": "escape-the-living-dead", "date": "2016-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCf113LHI8LAZapirF0fav4c3Q5.jpg", "actors": [], "comments": [], "recommandations_id": []}

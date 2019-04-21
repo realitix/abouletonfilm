@@ -1,0 +1,1 @@
+{"tmdb_id": 133130, "title": "World Class Kids", "original_title": "World Class Kids", "slug_title": "world-class-kids", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

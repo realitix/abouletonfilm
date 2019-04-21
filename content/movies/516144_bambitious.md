@@ -1,0 +1,1 @@
+{"tmdb_id": 516144, "title": "Bambitious", "original_title": "Bambitious", "slug_title": "bambitious", "date": "2014-09-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oF7L7867j8X6HFYWV2tvizJQuzl.jpg", "actors": ["Belinda Effah ()", "Bucci Franklin ()"], "comments": [], "recommandations_id": []}

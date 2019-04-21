@@ -1,0 +1,1 @@
+{"tmdb_id": 390189, "title": "TNA Slammiversary 2006", "original_title": "TNA Slammiversary 2006", "slug_title": "tna-slammiversary-2006", "date": "2006-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFQqepHYgB2QoISWZaQpzLK4Ltv.jpg", "actors": [], "comments": [], "recommandations_id": []}

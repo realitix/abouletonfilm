@@ -1,0 +1,1 @@
+{"tmdb_id": 592546, "title": "Igelkottens tr\u00e4d", "original_title": "Igelkottens tr\u00e4d", "slug_title": "igelkottens-trad", "date": "1987-10-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sven Lindberg ((voice))"], "comments": [], "recommandations_id": []}

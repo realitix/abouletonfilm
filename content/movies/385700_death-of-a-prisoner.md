@@ -1,0 +1,1 @@
+{"tmdb_id": 385700, "title": "Death of a Prisoner", "original_title": "Death of a Prisoner", "slug_title": "death-of-a-prisoner", "date": "2013-01-10", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

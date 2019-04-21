@@ -1,0 +1,1 @@
+{"tmdb_id": 234801, "title": "Trick or Tweet", "original_title": "Trick or Tweet", "slug_title": "trick-or-tweet", "date": "1959-04-20", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vk1wd8kg0JEZCpJsiZCiKRYuElv.jpg", "actors": [], "comments": [], "recommandations_id": []}

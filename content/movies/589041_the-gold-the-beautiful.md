@@ -1,0 +1,1 @@
+{"tmdb_id": 589041, "title": "The Gold & the Beautiful", "original_title": "The Gold & the Beautiful", "slug_title": "the-gold-the-beautiful", "date": "2009-02-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yTypwDFWiIw5mmuj7jA0OF0qYH.jpg", "actors": [], "comments": [], "recommandations_id": []}

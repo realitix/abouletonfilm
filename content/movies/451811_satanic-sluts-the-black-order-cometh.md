@@ -1,0 +1,1 @@
+{"tmdb_id": 451811, "title": "Satanic Sluts: The Black Order Cometh", "original_title": "Satanic Sluts: The Black Order Cometh", "slug_title": "satanic-sluts-the-black-order-cometh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

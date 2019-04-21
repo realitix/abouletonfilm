@@ -1,0 +1,1 @@
+{"tmdb_id": 318506, "title": "The Canton Spirituals: Live in Memphis", "original_title": "The Canton Spirituals: Live in Memphis", "slug_title": "the-canton-spirituals-live-in-memphis", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 497300, "title": "Pier Paolo Pasolini: A Film Maker's Life", "original_title": "Pier Paolo Pasolini: A Film Maker's Life", "slug_title": "pier-paolo-pasolini-a-film-maker-s-life", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

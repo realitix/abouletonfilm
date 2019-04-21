@@ -1,0 +1,1 @@
+{"tmdb_id": 355561, "title": "Chrysis Waking", "original_title": "Le r\u00eaveil de Chrysis", "slug_title": "chrysis-waking", "date": "1899-01-01", "genre": "Histoire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfIF2RxI7FhCPVpEkQReNDiStKd.jpg", "actors": [], "comments": [], "recommandations_id": []}

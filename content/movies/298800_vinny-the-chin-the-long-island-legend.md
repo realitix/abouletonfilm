@@ -1,0 +1,1 @@
+{"tmdb_id": 298800, "title": "Vinny the Chin: The Long Island Legend", "original_title": "Vinny the Chin: The Long Island Legend", "slug_title": "vinny-the-chin-the-long-island-legend", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

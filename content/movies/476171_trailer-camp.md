@@ -1,0 +1,1 @@
+{"tmdb_id": 476171, "title": "Trailer Camp", "original_title": "Trailer Camp", "slug_title": "trailer-camp", "date": "1995-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

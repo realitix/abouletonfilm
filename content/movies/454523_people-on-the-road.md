@@ -1,0 +1,1 @@
+{"tmdb_id": 454523, "title": "People on the Road", "original_title": "Ludzie w drodze", "slug_title": "people-on-the-road", "date": "1960-06-03", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [257049, 387646, 211021, 371001]}

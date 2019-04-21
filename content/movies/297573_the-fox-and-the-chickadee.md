@@ -1,0 +1,1 @@
+{"tmdb_id": 297573, "title": "The Fox and the Chickadee", "original_title": "The Fox and the Chickadee", "slug_title": "the-fox-and-the-chickadee", "date": "2013-09-07", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

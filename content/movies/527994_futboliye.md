@@ -1,0 +1,1 @@
+{"tmdb_id": 527994, "title": "Futboliye", "original_title": "Futboliye", "slug_title": "futboliye", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eC1vChY38O5ZgaGi35NkMIxhQ7k.jpg", "actors": ["Aydemir Akba\u015f ()", "Bahar \u00d6ztan ()"], "comments": [], "recommandations_id": []}

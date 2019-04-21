@@ -1,0 +1,1 @@
+{"tmdb_id": 582329, "title": "The Death of Aimee Spencer", "original_title": "The Death of Aimee Spencer", "slug_title": "the-death-of-aimee-spencer", "date": "2019-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

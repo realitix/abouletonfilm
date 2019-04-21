@@ -1,0 +1,1 @@
+{"tmdb_id": 417463, "title": "Hayop sa Sarap", "original_title": "Hayop sa Sarap", "slug_title": "hayop-sa-sarap", "date": "1984-10-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwrgBs1kJo5VwrFvyasitFGQwm0.jpg", "actors": [], "comments": [], "recommandations_id": []}

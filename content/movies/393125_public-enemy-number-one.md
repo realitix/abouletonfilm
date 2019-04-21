@@ -1,0 +1,1 @@
+{"tmdb_id": 393125, "title": "Public Enemy Number One", "original_title": "Public Enemy Number One", "slug_title": "public-enemy-number-one", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSjCMeHqj5dfSdqjiBXSFjP5OXx.jpg", "actors": [], "comments": [], "recommandations_id": []}

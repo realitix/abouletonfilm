@@ -1,0 +1,1 @@
+{"tmdb_id": 514857, "title": "Visitation Rites", "original_title": "Visitation Rites", "slug_title": "visitation-rites", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Kuchar ()"], "comments": [], "recommandations_id": []}

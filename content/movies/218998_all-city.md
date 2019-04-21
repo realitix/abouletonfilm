@@ -1,0 +1,1 @@
+{"tmdb_id": 218998, "title": "All City", "original_title": "All City", "slug_title": "all-city", "date": "1985-01-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQIAa5VkZkoBrPNTZhylASwMjhl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304038, "title": "Paris Tosen: In the Arms of Greatness", "original_title": "Paris Tosen: In the Arms of Greatness", "slug_title": "paris-tosen-in-the-arms-of-greatness", "date": "2013-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

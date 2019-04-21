@@ -1,0 +1,1 @@
+{"tmdb_id": 284639, "title": "Journey to Sopot", "original_title": "Mogzauroba Sopotshi", "slug_title": "journey-to-sopot", "date": "1979-12-23", "genre": "Drame", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giorgi Dadiani ()", "Omar Gvasalia ()"], "comments": [], "recommandations_id": []}

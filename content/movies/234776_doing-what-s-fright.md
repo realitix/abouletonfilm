@@ -1,0 +1,1 @@
+{"tmdb_id": 234776, "title": "Doing What's Fright", "original_title": "Doing What's Fright", "slug_title": "doing-what-s-fright", "date": "1959-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

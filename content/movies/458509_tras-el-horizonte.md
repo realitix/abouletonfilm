@@ -1,0 +1,1 @@
+{"tmdb_id": 458509, "title": "Tras el horizonte", "original_title": "Tras el horizonte", "slug_title": "tras-el-horizonte", "date": "1984-05-21", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rodolfo De Alexandre ()", "Mario Garc\u00eda Gonz\u00e1lez ()"], "comments": [], "recommandations_id": []}

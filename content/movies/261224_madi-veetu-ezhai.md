@@ -1,0 +1,1 @@
+{"tmdb_id": 261224, "title": "Madi Veetu Ezhai", "original_title": "Madi Veetu Ezhai", "slug_title": "madi-veetu-ezhai", "date": "1981-08-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Sripriya ()", "Sujatha ()", "Major Sundarrajan ()", "V. K. Ramasamy ()"], "comments": [], "recommandations_id": []}

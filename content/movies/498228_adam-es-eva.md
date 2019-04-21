@@ -1,0 +1,1 @@
+{"tmdb_id": 498228, "title": "\u00c1d\u00e1m \u00e9s \u00c9va", "original_title": "\u00c1d\u00e1m \u00e9s \u00c9va", "slug_title": "adam-es-eva", "date": "2003-08-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhknFXaAz7AU4I34aiNH6oP0J8h.jpg", "actors": [], "comments": [], "recommandations_id": []}

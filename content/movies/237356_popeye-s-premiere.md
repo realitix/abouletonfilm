@@ -1,0 +1,1 @@
+{"tmdb_id": 237356, "title": "Popeye's Premiere", "original_title": "Popeye's Premiere", "slug_title": "popeye-s-premiere", "date": "1949-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

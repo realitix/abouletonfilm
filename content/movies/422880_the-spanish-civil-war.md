@@ -1,0 +1,1 @@
+{"tmdb_id": 422880, "title": "The Spanish Civil War", "original_title": "The Spanish Civil War", "slug_title": "the-spanish-civil-war", "date": "1983-01-07", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ctyaWmhbsnkVgHtaB8TsbWrTGX.jpg", "actors": ["Frank Finlay (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 148391, "title": "AFOL A Blocumentary", "original_title": "AFOL A Blocumentary", "slug_title": "afol-a-blocumentary", "date": "2009-08-09", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oiz8y6tAzgPScWVQq7bKd7JyYkx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 110824, "title": "Sunrise Festival 2011", "original_title": "Sunrise Festival 2011", "slug_title": "sunrise-festival-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPq2mj4WOdC57nubkkSxqSqkduh.jpg", "actors": [], "comments": [], "recommandations_id": []}

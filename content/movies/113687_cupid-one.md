@@ -1,0 +1,1 @@
+{"tmdb_id": 113687, "title": "Cupid One", "original_title": "Cupid One", "slug_title": "cupid-one", "date": "1985-05-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNqc9mCMB1aluxtSKs3GPYazBu1.jpg", "actors": ["Sally Yeh ()", "Mark Cheng ()"], "comments": [], "recommandations_id": []}

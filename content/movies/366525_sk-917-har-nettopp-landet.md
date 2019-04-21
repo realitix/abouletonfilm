@@ -1,0 +1,1 @@
+{"tmdb_id": 366525, "title": "SK-917 har nettopp landet..", "original_title": "SK-917 har nettopp landet..", "slug_title": "sk-917-har-nettopp-landet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

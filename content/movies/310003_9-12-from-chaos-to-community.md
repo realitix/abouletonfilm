@@ -1,0 +1,1 @@
+{"tmdb_id": 310003, "title": "9/12: From Chaos to Community", "original_title": "9/12: From Chaos to Community", "slug_title": "9-12-from-chaos-to-community", "date": "2006-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

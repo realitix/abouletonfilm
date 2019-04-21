@@ -1,0 +1,1 @@
+{"tmdb_id": 311478, "title": "Cruise Greece", "original_title": "Cruise Greece", "slug_title": "cruise-greece", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

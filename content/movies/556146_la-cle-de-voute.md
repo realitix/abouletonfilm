@@ -1,0 +1,1 @@
+{"tmdb_id": 556146, "title": "La cl\u00e9 de vo\u00fbte", "original_title": "La cl\u00e9 de vo\u00fbte", "slug_title": "la-cle-de-voute", "date": "1925-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

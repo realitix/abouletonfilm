@@ -1,0 +1,1 @@
+{"tmdb_id": 466301, "title": "Mongoloid", "original_title": "Mongoloid", "slug_title": "mongoloid", "date": "1978-01-01", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tws5ArY7hyi2C5a1bAeRSNtUC5D.jpg", "actors": [], "comments": [], "recommandations_id": [146670, 162691, 147819, 164127]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291699, "title": "A Question of Honor", "original_title": "A Question of Honor", "slug_title": "a-question-of-honor", "date": "1982-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

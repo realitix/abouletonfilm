@@ -1,0 +1,1 @@
+{"tmdb_id": 385126, "title": "Fish in the Trap", "original_title": "Osakana wa Ami no Naka", "slug_title": "fish-in-the-trap", "date": "1994-07-21", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272213, "title": "Insaan Jaag Utha", "original_title": "Insaan Jaag Utha", "slug_title": "insaan-jaag-utha", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s4CRz6hpCrqPqsvGJWavSl0eHmD.jpg", "actors": ["Sunil Dutt ()", "Madhubala ()"], "comments": [], "recommandations_id": []}

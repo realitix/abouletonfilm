@@ -1,0 +1,1 @@
+{"tmdb_id": 423579, "title": "In Memory of Laura", "original_title": "In Memory of Laura", "slug_title": "in-memory-of-laura", "date": "1997-08-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisa Goodger (Eve)", "John Griffiths (Peter)", "Laura Hacche (Laura)"], "comments": [], "recommandations_id": []}

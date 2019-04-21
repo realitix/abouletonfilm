@@ -1,0 +1,1 @@
+{"tmdb_id": 534959, "title": "College Lovers", "original_title": "College Lovers", "slug_title": "college-lovers", "date": "1930-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/KxIW4r1ix0GhJfM2eKU1Onndj5.jpg", "actors": [], "comments": [], "recommandations_id": []}

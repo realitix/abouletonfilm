@@ -1,0 +1,1 @@
+{"tmdb_id": 386912, "title": "20 Minutes to Go", "original_title": "20 Minutes to Go", "slug_title": "20-minutes-to-go", "date": "1990-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15lifz5LmE9pzN28stn56xj2z1t.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330851, "title": "Vendors and Buyer", "original_title": "Illi-ba Wa Illi-ishtara", "slug_title": "vendors-and-buyer", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

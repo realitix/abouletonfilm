@@ -1,0 +1,1 @@
+{"tmdb_id": 417156, "title": "The Basics of Poker: A Guide for Beginners", "original_title": "The Basics of Poker: A Guide for Beginners", "slug_title": "the-basics-of-poker-a-guide-for-beginners", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 279098, "title": "Max & Ruby - Candy Apple", "original_title": "Max & Ruby - Candy Apple", "slug_title": "max-ruby-candy-apple", "date": "2010-05-04", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypimLOfuOKBhLN2R3nlunoD8cLa.jpg", "actors": [], "comments": [], "recommandations_id": []}

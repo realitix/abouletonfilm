@@ -1,0 +1,1 @@
+{"tmdb_id": 405741, "title": "Hemophilia", "original_title": "Hemophilia", "slug_title": "hemophilia", "date": "1985-02-10", "genre": "Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jLMeErb3tP8t0LGMEsbF0YRGsNA.jpg", "actors": [], "comments": [], "recommandations_id": []}

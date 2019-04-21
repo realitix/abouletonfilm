@@ -1,0 +1,1 @@
+{"tmdb_id": 68536, "title": "10 Ways to Shear a Sheep", "original_title": "10 Ways to Shear a Sheep", "slug_title": "10-ways-to-shear-a-sheep", "date": "2007-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

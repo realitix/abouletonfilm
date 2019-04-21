@@ -1,0 +1,1 @@
+{"tmdb_id": 469041, "title": "Prince Loseno", "original_title": "Prince Loseno", "slug_title": "prince-loseno", "date": "2005-05-31", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

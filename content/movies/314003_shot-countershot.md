@@ -1,0 +1,1 @@
+{"tmdb_id": 314003, "title": "Shot / Countershot", "original_title": "Shot / Countershot", "slug_title": "shot-countershot", "date": "1987-03-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0R7ogMWdiKRTgmpqtld5WiBaIs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326015, "title": "Perros de dios", "original_title": "Perros de dios", "slug_title": "perros-de-dios", "date": "2009-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernando S\u00e1enz ()", "Jorge Luke ()"], "comments": [], "recommandations_id": []}

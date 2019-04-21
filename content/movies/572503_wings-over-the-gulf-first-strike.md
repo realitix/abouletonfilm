@@ -1,0 +1,1 @@
+{"tmdb_id": 572503, "title": "Wings Over the Gulf: First Strike", "original_title": "Wings Over the Gulf: First Strike", "slug_title": "wings-over-the-gulf-first-strike", "date": "1992-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

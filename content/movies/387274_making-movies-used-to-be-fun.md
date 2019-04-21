@@ -1,0 +1,1 @@
+{"tmdb_id": 387274, "title": "Making Movies Used to be Fun", "original_title": "Making Movies Used to be Fun", "slug_title": "making-movies-used-to-be-fun", "date": "2015-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

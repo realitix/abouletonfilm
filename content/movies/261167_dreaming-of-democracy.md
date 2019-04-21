@@ -1,0 +1,1 @@
+{"tmdb_id": 261167, "title": "Dreaming of Democracy", "original_title": "Ta oneira tis dimokratias", "slug_title": "dreaming-of-democracy", "date": "2013-08-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTFfh7NHSxlA9rtyaokphAvxxtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

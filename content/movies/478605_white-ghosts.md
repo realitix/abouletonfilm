@@ -1,0 +1,1 @@
+{"tmdb_id": 478605, "title": "White Ghosts", "original_title": "Weisse Geister", "slug_title": "white-ghosts", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIolRnsUm4QwkBX1WNtcA2TzKuC.jpg", "actors": ["Israel Kaunatjike (Himself)"], "comments": [], "recommandations_id": []}

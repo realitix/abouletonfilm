@@ -1,0 +1,1 @@
+{"tmdb_id": 492564, "title": "Dust 2 Glory", "original_title": "Dust 2 Glory", "slug_title": "dust-2-glory", "date": "2017-12-06", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hNHFJRKog2YA2IUNbG5INvKDMuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

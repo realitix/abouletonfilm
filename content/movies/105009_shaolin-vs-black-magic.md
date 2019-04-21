@@ -1,0 +1,1 @@
+{"tmdb_id": 105009, "title": "Shaolin vs Black Magic", "original_title": "Shaolin vs Black Magic", "slug_title": "shaolin-vs-black-magic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9C1puIlyrsqGcH4v5DcIPs4Hy15.jpg", "actors": [], "comments": [], "recommandations_id": []}

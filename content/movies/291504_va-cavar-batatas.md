@@ -1,0 +1,1 @@
+{"tmdb_id": 291504, "title": "V\u00e1 Cavar Batatas", "original_title": "V\u00e1 Cavar Batatas", "slug_title": "va-cavar-batatas", "date": "2012-09-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rita Blanco (Sofia)", "Fernando Lu\u00eds (Lu\u00eds)"], "comments": [], "recommandations_id": []}

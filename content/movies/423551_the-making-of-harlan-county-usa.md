@@ -1,0 +1,1 @@
+{"tmdb_id": 423551, "title": "The Making of 'Harlan County USA'", "original_title": "The Making of 'Harlan County USA'", "slug_title": "the-making-of-harlan-county-usa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

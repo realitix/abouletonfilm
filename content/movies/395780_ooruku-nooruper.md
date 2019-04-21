@@ -1,0 +1,1 @@
+{"tmdb_id": 395780, "title": "OORUKU NOORUPER", "original_title": "OORUKU NOORUPER", "slug_title": "ooruku-nooruper", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEUiBchaqR9D2MzLrZb2D6EBiMD.jpg", "actors": ["Hans Kaushik ()", "G.M. Sundhar ()"], "comments": [], "recommandations_id": []}

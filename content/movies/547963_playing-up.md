@@ -1,0 +1,1 @@
+{"tmdb_id": 547963, "title": "Playing Up", "original_title": "Playing Up", "slug_title": "playing-up", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3ZXCp3KRW0NvjkMWWTEBOqxEVn.jpg", "actors": [], "comments": [], "recommandations_id": []}

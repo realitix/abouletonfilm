@@ -1,0 +1,1 @@
+{"tmdb_id": 503600, "title": "\ub538\uc758 \uce5c\uad6c 2", "original_title": "\ub538\uc758 \uce5c\uad6c 2", "slug_title": "ddalyi-cingu-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

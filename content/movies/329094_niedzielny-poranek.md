@@ -1,0 +1,1 @@
+{"tmdb_id": 329094, "title": "Niedzielny poranek", "original_title": "Niedzielny poranek", "slug_title": "niedzielny-poranek", "date": "1955-03-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3A5TBRMCVQZUGyPSv35srbsJhAC.jpg", "actors": ["Kazimierz Rudzki (Narrator)"], "comments": [], "recommandations_id": []}

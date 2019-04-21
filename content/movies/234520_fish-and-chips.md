@@ -1,0 +1,1 @@
+{"tmdb_id": 234520, "title": "Fish and Chips", "original_title": "Fish and Chips", "slug_title": "fish-and-chips", "date": "1962-01-08", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hw6SsnHnOC10fyEZImG9jvNxOgM.jpg", "actors": [], "comments": [], "recommandations_id": []}

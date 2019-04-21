@@ -1,0 +1,1 @@
+{"tmdb_id": 347018, "title": "Discovery of Bodies", "original_title": "Discovery of Bodies", "slug_title": "discovery-of-bodies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

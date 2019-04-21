@@ -1,0 +1,1 @@
+{"tmdb_id": 511253, "title": "El Relato de Sam Brennan", "original_title": "El Relato de Sam Brennan", "slug_title": "el-relato-de-sam-brennan", "date": "2009-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsQF3DoP23Rn4kaOHyEnpukoHEB.jpg", "actors": [], "comments": [], "recommandations_id": []}

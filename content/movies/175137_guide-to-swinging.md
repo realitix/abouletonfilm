@@ -1,0 +1,1 @@
+{"tmdb_id": 175137, "title": "Guide to Swinging", "original_title": "Guide to Swinging", "slug_title": "guide-to-swinging", "date": "2001-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Malle ()", "Nina Hartley ()", "Sahara Sands ()"], "comments": [], "recommandations_id": []}

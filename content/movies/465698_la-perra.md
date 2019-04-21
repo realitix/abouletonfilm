@@ -1,0 +1,1 @@
+{"tmdb_id": 465698, "title": "La Perra", "original_title": "La Perra", "slug_title": "la-perra", "date": "2004-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

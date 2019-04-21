@@ -1,0 +1,1 @@
+{"tmdb_id": 351572, "title": "Birdy - Live ZDF@Bauhaus", "original_title": "Birdy - YouTube Presents Birdy [Live]", "slug_title": "birdy-live-zdf-bauhaus", "date": "2012-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSU2rMUk4Yj5Og2GGWWsA81TXa0.jpg", "actors": [], "comments": [], "recommandations_id": []}

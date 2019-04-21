@@ -1,0 +1,1 @@
+{"tmdb_id": 84547, "title": "Clear Cut: The Story of Philomath, Oregon", "original_title": "Clear Cut: The Story of Philomath, Oregon", "slug_title": "clear-cut-the-story-of-philomath-oregon", "date": "2006-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

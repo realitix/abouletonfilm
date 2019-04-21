@@ -1,0 +1,1 @@
+{"tmdb_id": 473292, "title": "Autour de la guitare", "original_title": "Autour de la guitare", "slug_title": "autour-de-la-guitare", "date": "2006-02-23", "genre": "Musique", "score": "0.0/10", "synopsis": "Autour de la guitare", "image": "/img/default-cover.png", "actors": ["Jean-F\u00e9lix Lalanne (himself)"], "comments": [], "recommandations_id": []}

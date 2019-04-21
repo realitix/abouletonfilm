@@ -1,0 +1,1 @@
+{"tmdb_id": 560172, "title": "Two Ugly Men", "original_title": "\u5169\u500b\u919c\u964b\u7684\u7537\u4eba", "slug_title": "two-ugly-men", "date": "1973-05-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liu Chia-chang ()", "Yueh Yang ()", "Lily Lan ()"], "comments": [], "recommandations_id": []}

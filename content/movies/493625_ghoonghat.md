@@ -1,0 +1,1 @@
+{"tmdb_id": 493625, "title": "Ghoonghat", "original_title": "Ghoonghat", "slug_title": "ghoonghat", "date": "1997-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ayesha Jhulka ()", "Satish Kaushik ()", "Gulshan Grover ()", "Inder Kumar ()"], "comments": [], "recommandations_id": []}

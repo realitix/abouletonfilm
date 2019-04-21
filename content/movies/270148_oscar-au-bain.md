@@ -1,0 +1,1 @@
+{"tmdb_id": 270148, "title": "Oscar au bain", "original_title": "Oscar au bain", "slug_title": "oscar-au-bain", "date": "1913-05-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["L\u00e9on Lorin (Oscar)", "Ang\u00e8le L\u00e9rida (Violette de Parme)"], "comments": [], "recommandations_id": []}

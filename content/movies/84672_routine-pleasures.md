@@ -1,0 +1,1 @@
+{"tmdb_id": 84672, "title": "Routine Pleasures", "original_title": "Routine Pleasures", "slug_title": "routine-pleasures", "date": "1986-04-30", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gungmQvagfasbEia99HYFL0VN2d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 159584, "title": "Linkin Park - Meeting of a Thousand Suns", "original_title": "Linkin Park - Meeting of a Thousand Suns", "slug_title": "linkin-park-meeting-of-a-thousand-suns", "date": "2010-09-14", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366177, "title": "The Bats", "original_title": "The Bats", "slug_title": "the-bats", "date": "1999-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOmqvkBe7eBjo8jWdIJz72bIT65.jpg", "actors": [], "comments": [], "recommandations_id": []}

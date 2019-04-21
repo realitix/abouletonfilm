@@ -1,0 +1,1 @@
+{"tmdb_id": 345608, "title": "Samaritan", "original_title": "Samaritan", "slug_title": "samaritan", "date": "2011-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sharam Khalifeh (Mirza)", "Terje Tj\u00f8me Mossige (Knut)"], "comments": [], "recommandations_id": []}

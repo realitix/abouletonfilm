@@ -1,0 +1,1 @@
+{"tmdb_id": 313831, "title": "King of the Cage: Showtime", "original_title": "King of the Cage: Showtime", "slug_title": "king-of-the-cage-showtime", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

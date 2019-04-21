@@ -1,0 +1,1 @@
+{"tmdb_id": 483663, "title": "Bolivia: Miraculous Mirror of the Sky", "original_title": "Bolivia: Miraculous Mirror of the Sky", "slug_title": "bolivia-miraculous-mirror-of-the-sky", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

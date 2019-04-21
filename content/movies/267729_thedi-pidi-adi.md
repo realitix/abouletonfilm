@@ -1,0 +1,1 @@
+{"tmdb_id": 267729, "title": "Thedi Pidi Adi", "original_title": "Thedi Pidi Adi", "slug_title": "thedi-pidi-adi", "date": "2013-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lO6JfxdxrGY9ciPjAP3GypU3gu2.jpg", "actors": [], "comments": [], "recommandations_id": []}

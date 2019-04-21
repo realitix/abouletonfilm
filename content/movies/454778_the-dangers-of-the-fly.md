@@ -1,0 +1,1 @@
+{"tmdb_id": 454778, "title": "The Dangers of the Fly", "original_title": "La mosca y sus peligros", "slug_title": "the-dangers-of-the-fly", "date": "1920-11-23", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCSAsxJIPdLrz0YlWrBWjnNDUEA.jpg", "actors": [], "comments": [], "recommandations_id": []}

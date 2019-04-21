@@ -1,0 +1,1 @@
+{"tmdb_id": 233259, "title": "Die blinde Kuh", "original_title": "Die blinde Kuh", "slug_title": "die-blinde-kuh", "date": "1996-02-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mari Cantu (Lena Polgar)", "Heinz Behrens (Antennenh\u00e4ndler)"], "comments": [], "recommandations_id": []}

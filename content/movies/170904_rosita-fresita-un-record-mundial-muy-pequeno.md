@@ -1,0 +1,1 @@
+{"tmdb_id": 170904, "title": "Rosita Fresita: Un Record Mundial, Muy Peque\u00f1o", "original_title": "Rosita Fresita: Un Record Mundial, Muy Peque\u00f1o", "slug_title": "rosita-fresita-un-record-mundial-muy-pequeno", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

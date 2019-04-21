@@ -1,0 +1,1 @@
+{"tmdb_id": 292011, "title": "The Ballad of Richard Jewell", "original_title": "The Ballad of Richard Jewell", "slug_title": "the-ballad-of-richard-jewell", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonah Hill (Richard Jewell)", "Leonardo DiCaprio (L. Lin Wood)"], "comments": [], "recommandations_id": []}

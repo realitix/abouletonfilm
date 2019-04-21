@@ -1,0 +1,1 @@
+{"tmdb_id": 303339, "title": "King David: An Animated Classic", "original_title": "King David: An Animated Classic", "slug_title": "king-david-an-animated-classic", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

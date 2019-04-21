@@ -1,0 +1,1 @@
+{"tmdb_id": 280158, "title": "Britney Spears: Princess of Pop", "original_title": "Britney Spears: Princess of Pop", "slug_title": "britney-spears-princess-of-pop", "date": "2012-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cMgjxmcsjBnWXHyeqhgpg9r3cKr.jpg", "actors": [], "comments": [], "recommandations_id": []}

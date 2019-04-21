@@ -1,0 +1,1 @@
+{"tmdb_id": 593200, "title": "Yaar Beli", "original_title": "Yaar Beli", "slug_title": "yaar-beli", "date": "1959-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Musarrat Nazir ()", "Neelo ()", "Sultan Rahi ()", "Sudhir ()", "Zarif ()", "Saleem Raza ()", "Rekha ()", "G.N. Butt ()"], "comments": [], "recommandations_id": []}

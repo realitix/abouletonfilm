@@ -1,0 +1,1 @@
+{"tmdb_id": 379454, "title": "Nippon Tuck", "original_title": "Nippon Tuck", "slug_title": "nippon-tuck", "date": "1972-07-16", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer (voice))", "Tom Holland (Japanese Beetle (voice))"], "comments": [], "recommandations_id": []}

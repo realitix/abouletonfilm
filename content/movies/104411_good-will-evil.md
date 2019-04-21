@@ -1,0 +1,1 @@
+{"tmdb_id": 104411, "title": "Good Will Evil", "original_title": "\u51f6\u9b45", "slug_title": "good-will-evil", "date": "2008-11-06", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nwDxYX6lKeVgqhe47h3JJnEzzI.jpg", "actors": ["Terri Kwan ()"], "comments": [], "recommandations_id": []}

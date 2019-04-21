@@ -1,0 +1,1 @@
+{"tmdb_id": 349924, "title": "\ud3c9\uc591\ubc15\uce58\uae30", "original_title": "\ud3c9\uc591\ubc15\uce58\uae30", "slug_title": "pyeongyangbagcigi", "date": "1983-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

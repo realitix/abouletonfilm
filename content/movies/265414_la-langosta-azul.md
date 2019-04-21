@@ -1,0 +1,1 @@
+{"tmdb_id": 265414, "title": "La langosta azul", "original_title": "La langosta azul", "slug_title": "la-langosta-azul", "date": "1954-06-15", "genre": "Drame", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIUvLBu1ofwsOtEX2j18OmJgsdh.jpg", "actors": ["Nereo L\u00f3pez (El Gringo)"], "comments": [], "recommandations_id": []}

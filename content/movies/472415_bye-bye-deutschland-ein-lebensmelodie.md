@@ -1,0 +1,1 @@
+{"tmdb_id": 472415, "title": "Bye Bye Deutschland! Ein Lebensmelodie", "original_title": "Bye Bye Deutschland! Ein Lebensmelodie", "slug_title": "bye-bye-deutschland-ein-lebensmelodie", "date": "2017-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 454374, "title": "Shabdkosh", "original_title": "Shabdkosh", "slug_title": "shabdkosh", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

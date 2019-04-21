@@ -1,0 +1,1 @@
+{"tmdb_id": 551636, "title": "Parahuna", "original_title": "Parahuna", "slug_title": "parahuna", "date": "2018-09-28", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7IshmiQAflfZX6wf7tpU9oron1.jpg", "actors": ["Kulwinder Billa ()", "Wamiqa Gabbi ()", "Methab Virk ()"], "comments": [], "recommandations_id": []}

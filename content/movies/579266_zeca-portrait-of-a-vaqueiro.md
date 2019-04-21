@@ -1,0 +1,1 @@
+{"tmdb_id": 579266, "title": "Zeca, Portrait of a Vaqueiro", "original_title": "Zeca, Portrait of a Vaqueiro", "slug_title": "zeca-portrait-of-a-vaqueiro", "date": "1973-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

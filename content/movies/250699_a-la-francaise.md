@@ -1,0 +1,1 @@
+{"tmdb_id": 250699, "title": "\u00c0 la fran\u00e7aise", "original_title": "\u00c0 la fran\u00e7aise", "slug_title": "a-la-francaise", "date": "2012-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9eFSTcZd5KH1HlBRvRmRY67Ho2.jpg", "actors": [], "comments": [], "recommandations_id": []}

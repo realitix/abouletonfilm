@@ -1,0 +1,1 @@
+{"tmdb_id": 367446, "title": "There's a Hole in the Ozone Layer Just Above Clonboo", "original_title": "There's a Hole in the Ozone Layer Just Above Clonboo", "slug_title": "there-s-a-hole-in-the-ozone-layer-just-above-clonboo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

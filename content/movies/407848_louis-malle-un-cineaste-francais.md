@@ -1,0 +1,1 @@
+{"tmdb_id": 407848, "title": "Louis Malle - Un cin\u00e9aste fran\u00e7ais", "original_title": "Louis Malle - Un cin\u00e9aste fran\u00e7ais", "slug_title": "louis-malle-un-cineaste-francais", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

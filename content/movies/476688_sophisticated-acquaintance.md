@@ -1,0 +1,1 @@
+{"tmdb_id": 476688, "title": "Sophisticated Acquaintance", "original_title": "Sophisticated Acquaintance", "slug_title": "sophisticated-acquaintance", "date": "2007-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

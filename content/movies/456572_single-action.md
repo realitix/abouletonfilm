@@ -1,0 +1,1 @@
+{"tmdb_id": 456572, "title": "Single Action", "original_title": "Single Action", "slug_title": "single-action", "date": "1998-01-01", "genre": "Action / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Gallardo (AMIGO)"], "comments": [], "recommandations_id": []}

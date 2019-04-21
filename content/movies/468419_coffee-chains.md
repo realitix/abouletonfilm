@@ -1,0 +1,1 @@
+{"tmdb_id": 468419, "title": "Coffee Chains", "original_title": "Coffee Chains", "slug_title": "coffee-chains", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

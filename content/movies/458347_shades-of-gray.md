@@ -1,0 +1,1 @@
+{"tmdb_id": 458347, "title": "Shades of Gray", "original_title": "Shades of Gray", "slug_title": "shades-of-gray", "date": "1948-05-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jdXfRX4jUzQXyo6S0bOKUQsmB5j.jpg", "actors": [], "comments": [], "recommandations_id": []}

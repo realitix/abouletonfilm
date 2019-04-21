@@ -1,0 +1,1 @@
+{"tmdb_id": 483627, "title": "Dirty Bitch", "original_title": "Dirty Bitch", "slug_title": "dirty-bitch", "date": "2009-02-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSyLlTrc8LMmhyPK4f7UW9GjqDt.jpg", "actors": [], "comments": [], "recommandations_id": []}

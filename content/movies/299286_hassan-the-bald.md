@@ -1,0 +1,1 @@
+{"tmdb_id": 299286, "title": "Hassan, the Bald", "original_title": "Hasan Kachal", "slug_title": "hassan-the-bald", "date": "1970-01-01", "genre": "Aventure / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5S6Xz2vdW2UvGHQu4kYvMb7LhP1.jpg", "actors": [], "comments": [], "recommandations_id": []}

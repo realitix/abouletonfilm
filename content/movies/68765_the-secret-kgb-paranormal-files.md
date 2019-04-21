@@ -1,0 +1,1 @@
+{"tmdb_id": 68765, "title": "The Secret KGB Paranormal Files", "original_title": "The Secret KGB Paranormal Files", "slug_title": "the-secret-kgb-paranormal-files", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7hTNwPdXxqb631C1zEt11ixaSk.jpg", "actors": [], "comments": [], "recommandations_id": []}

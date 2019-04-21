@@ -1,0 +1,1 @@
+{"tmdb_id": 204407, "title": "Bosco d'amore", "original_title": "Bosco d'amore", "slug_title": "bosco-d-amore", "date": "1981-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNV46xSIONTEvIAWon6NnveH7eG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 398156, "title": "ECW Natural Born Killaz", "original_title": "ECW Natural Born Killaz", "slug_title": "ecw-natural-born-killaz", "date": "1996-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4eWkzSub51ZNuNGFjfwE4AeWgr.jpg", "actors": [], "comments": [], "recommandations_id": []}

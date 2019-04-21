@@ -1,0 +1,1 @@
+{"tmdb_id": 270671, "title": "Sun Tzu's The Art of War", "original_title": "Sun Tzu's The Art of War", "slug_title": "sun-tzu-s-the-art-of-war", "date": "2009-05-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwmUYAPXYgqvP6bZlb00JFkjiRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

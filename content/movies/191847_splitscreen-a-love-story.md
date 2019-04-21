@@ -1,0 +1,1 @@
+{"tmdb_id": 191847, "title": "Splitscreen: A Love Story", "original_title": "Splitscreen: A Love Story", "slug_title": "splitscreen-a-love-story", "date": "2011-05-31", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s47HlrJIEmiGT4wxwSzpOQQoA7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

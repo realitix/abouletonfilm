@@ -1,0 +1,1 @@
+{"tmdb_id": 488345, "title": "Pandora's La", "original_title": "Pandora's La", "slug_title": "pandora-s-la", "date": "2007-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hajo Bruins ()", "Ariane Schluter ()", "Edward Stelder ()"], "comments": [], "recommandations_id": []}

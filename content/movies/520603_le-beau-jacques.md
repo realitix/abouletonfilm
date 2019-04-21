@@ -1,0 +1,1 @@
+{"tmdb_id": 520603, "title": "Le Beau Jacques", "original_title": "Le Beau Jacques", "slug_title": "le-beau-jacques", "date": "2003-10-29", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Costa ()", "Philippe Nahon ()", "Anny Romand ()"], "comments": [], "recommandations_id": []}

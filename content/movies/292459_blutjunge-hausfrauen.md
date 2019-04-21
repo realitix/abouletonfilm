@@ -1,0 +1,1 @@
+{"tmdb_id": 292459, "title": "Blutjunge Hausfrauen", "original_title": "Blutjunge Hausfrauen", "slug_title": "blutjunge-hausfrauen", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dl0kjzPWdLx3eFIsCzzNHEAOSTC.jpg", "actors": ["Vivian Schmitt (Anna B.)"], "comments": [], "recommandations_id": []}

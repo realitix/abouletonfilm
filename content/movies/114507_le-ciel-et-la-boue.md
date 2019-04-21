@@ -1,0 +1,1 @@
+{"tmdb_id": 114507, "title": "Le ciel et la boue", "original_title": "Le ciel et la boue", "slug_title": "le-ciel-et-la-boue", "date": "1962-06-21", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95CkNFjDeIJ73xhddHwDRVS5aCg.jpg", "actors": [], "comments": [], "recommandations_id": []}

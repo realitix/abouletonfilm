@@ -1,0 +1,1 @@
+{"tmdb_id": 586804, "title": "The Jesus Strand: A Search for DNA", "original_title": "The Jesus Strand: A Search for DNA", "slug_title": "the-jesus-strand-a-search-for-dna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

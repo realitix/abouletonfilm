@@ -1,0 +1,1 @@
+{"tmdb_id": 453343, "title": "Carman - Yo Kidz! The Vidz", "original_title": "Carman - Yo Kidz! The Vidz", "slug_title": "carman-yo-kidz-the-vidz", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wljIrK2IQfYv4eQCZWe8BzrTHHp.jpg", "actors": [], "comments": [], "recommandations_id": []}

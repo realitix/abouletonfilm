@@ -1,0 +1,1 @@
+{"tmdb_id": 252808, "title": "Polly-tics", "original_title": "Polly-tics", "slug_title": "polly-tics", "date": "1928-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

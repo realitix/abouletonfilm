@@ -1,0 +1,1 @@
+{"tmdb_id": 312257, "title": "Robben Ford: Playin' the Blues", "original_title": "Robben Ford: Playin' the Blues", "slug_title": "robben-ford-playin-the-blues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robben Ford (Himself)"], "comments": [], "recommandations_id": []}

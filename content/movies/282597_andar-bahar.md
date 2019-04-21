@@ -1,0 +1,1 @@
+{"tmdb_id": 282597, "title": "Andar Bahar", "original_title": "Andar Bahar", "slug_title": "andar-bahar", "date": "2013-04-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()", "Parvathy Thiruvothu (Suhasini)", "Arundathi Nag ()", "Shashikumar ()", "Chaswa ()"], "comments": [], "recommandations_id": []}

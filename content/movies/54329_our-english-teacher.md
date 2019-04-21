@@ -1,0 +1,1 @@
+{"tmdb_id": 54329, "title": "Our English Teacher", "original_title": "Our English Teacher", "slug_title": "our-english-teacher", "date": "2008-09-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBapAU5Yfm8Pj3aOcYuUYwHgSbX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312043, "title": "The Beach Boys: Nashville Sounds", "original_title": "The Beach Boys: Nashville Sounds", "slug_title": "the-beach-boys-nashville-sounds", "date": "", "genre": "Musique", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nufyIKXolRhYCJ3m5bU7syblIfv.jpg", "actors": [], "comments": [], "recommandations_id": []}

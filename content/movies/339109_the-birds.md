@@ -1,0 +1,1 @@
+{"tmdb_id": 339109, "title": "The Birds", "original_title": "The Birds", "slug_title": "the-birds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

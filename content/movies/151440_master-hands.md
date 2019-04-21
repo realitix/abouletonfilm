@@ -1,0 +1,1 @@
+{"tmdb_id": 151440, "title": "Master Hands", "original_title": "Master Hands", "slug_title": "master-hands", "date": "1936-12-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5pt242adK2V98S6ggx7yZbt27D.jpg", "actors": [], "comments": [], "recommandations_id": [183469, 128702, 163236, 163806]}

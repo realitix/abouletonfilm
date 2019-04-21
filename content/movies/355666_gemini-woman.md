@@ -1,0 +1,1 @@
+{"tmdb_id": 355666, "title": "Gemini Woman", "original_title": "\u53cc\u5b50\u5ea7\u306e\u5973", "slug_title": "gemini-woman", "date": "1984-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Afk7RaR8Vp7V5gWgHGUky9Bj8h1.jpg", "actors": ["Yuki Igarashi ()", "Kumiko Itou ()"], "comments": [], "recommandations_id": []}

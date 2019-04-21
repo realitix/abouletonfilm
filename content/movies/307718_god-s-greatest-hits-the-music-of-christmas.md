@@ -1,0 +1,1 @@
+{"tmdb_id": 307718, "title": "God's Greatest Hits: The Music of Christmas", "original_title": "God's Greatest Hits: The Music of Christmas", "slug_title": "god-s-greatest-hits-the-music-of-christmas", "date": "2014-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

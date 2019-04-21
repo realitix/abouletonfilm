@@ -1,0 +1,1 @@
+{"tmdb_id": 429522, "title": "Me gustan los estudiantes", "original_title": "Me gustan los estudiantes", "slug_title": "me-gustan-los-estudiantes", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

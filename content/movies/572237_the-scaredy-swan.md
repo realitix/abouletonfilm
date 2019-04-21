@@ -1,0 +1,1 @@
+{"tmdb_id": 572237, "title": "The Scaredy Swan", "original_title": "The Scaredy Swan", "slug_title": "the-scaredy-swan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Un cygne est effray\u00e9 d'aller dans l'eau...", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/asd1sNJIJ12yDxKHWqNoj3Yoi0H.jpg", "actors": [], "comments": [], "recommandations_id": []}

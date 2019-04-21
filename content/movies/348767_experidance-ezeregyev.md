@@ -1,0 +1,1 @@
+{"tmdb_id": 348767, "title": "ExperiDance - Ezeregy\u00e9v", "original_title": "ExperiDance - Ezeregy\u00e9v", "slug_title": "experidance-ezeregyev", "date": "2007-06-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BniNjO7PDxQjLtbMUDCMGo1DeZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

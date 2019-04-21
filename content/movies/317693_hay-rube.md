@@ -1,0 +1,1 @@
+{"tmdb_id": 317693, "title": "Hay Rube", "original_title": "Hay Rube", "slug_title": "hay-rube", "date": "1954-06-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHw0BbNXdI2vYTMvz5HDYWzQ7Wo.jpg", "actors": [], "comments": [], "recommandations_id": []}

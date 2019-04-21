@@ -1,0 +1,1 @@
+{"tmdb_id": 574693, "title": "Improvement Association", "original_title": "Improvement Association", "slug_title": "improvement-association", "date": "2017-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Malik Hudgins (Himself)"], "comments": [], "recommandations_id": []}

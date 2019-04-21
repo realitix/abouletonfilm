@@ -1,0 +1,1 @@
+{"tmdb_id": 582604, "title": "Mountain People", "original_title": "Lid\u00e9 z hor", "slug_title": "mountain-people", "date": "1968-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eduard Cup\u00e1k (Narrator (voice))"], "comments": [], "recommandations_id": []}

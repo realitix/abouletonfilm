@@ -1,0 +1,1 @@
+{"tmdb_id": 372169, "title": "Po Omacku", "original_title": "Po Omacku", "slug_title": "po-omacku", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

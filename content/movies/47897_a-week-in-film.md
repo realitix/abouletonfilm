@@ -1,0 +1,1 @@
+{"tmdb_id": 47897, "title": "A Week in Film", "original_title": "T\u00fd\u017ede\u0148 vo filme", "slug_title": "a-week-in-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/poxyWAzwWLNUU4FHmaikEga5Fm7.jpg", "actors": [], "comments": [], "recommandations_id": []}

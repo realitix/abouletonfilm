@@ -1,0 +1,1 @@
+{"tmdb_id": 324742, "title": "Bob De Bouwer 3 Klusketiers", "original_title": "Bob De Bouwer 3 Klusketiers", "slug_title": "bob-de-bouwer-3-klusketiers", "date": "2009-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qw7MoftkyBvxd20FYeUsaZltWgC.jpg", "actors": [], "comments": [], "recommandations_id": []}

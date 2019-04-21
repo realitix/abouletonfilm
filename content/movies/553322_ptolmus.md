@@ -1,0 +1,1 @@
+{"tmdb_id": 553322, "title": "Ptolmus", "original_title": "Ptolmus", "slug_title": "ptolmus", "date": "2013-09-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josemaria RRA ()"], "comments": [], "recommandations_id": []}

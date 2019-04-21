@@ -1,0 +1,1 @@
+{"tmdb_id": 495172, "title": "Cops: Shots Fired", "original_title": "Cops: Shots Fired", "slug_title": "cops-shots-fired", "date": "2004-03-23", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBa7RP8EYoYlRHxkA2lr8waB2ik.jpg", "actors": [], "comments": [], "recommandations_id": []}

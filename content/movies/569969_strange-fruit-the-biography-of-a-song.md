@@ -1,0 +1,1 @@
+{"tmdb_id": 569969, "title": "Strange Fruit: The Biography of a Song", "original_title": "Strange Fruit: The Biography of a Song", "slug_title": "strange-fruit-the-biography-of-a-song", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

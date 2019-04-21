@@ -1,0 +1,1 @@
+{"tmdb_id": 501841, "title": "A Journal for Jordan", "original_title": "A Journal for Jordan", "slug_title": "a-journal-for-jordan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael B. Jordan ()"], "comments": [], "recommandations_id": []}

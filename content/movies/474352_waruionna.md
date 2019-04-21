@@ -1,0 +1,1 @@
+{"tmdb_id": 474352, "title": "\u308f\u308b\u3044\u304a\u3093\u306a", "original_title": "\u308f\u308b\u3044\u304a\u3093\u306a", "slug_title": "waruionna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Rjt4LcYPHLEeGUdSVpfSw1dUb4.jpg", "actors": [], "comments": [], "recommandations_id": []}

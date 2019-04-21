@@ -1,0 +1,1 @@
+{"tmdb_id": 359928, "title": "The English Teacher", "original_title": "The English Teacher", "slug_title": "the-english-teacher", "date": "2015-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

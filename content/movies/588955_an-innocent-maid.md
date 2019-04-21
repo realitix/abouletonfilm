@@ -1,0 +1,1 @@
+{"tmdb_id": 588955, "title": "An Innocent Maid", "original_title": "An Innocent Maid", "slug_title": "an-innocent-maid", "date": "1935-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ch\u00f4ko Iida ()", "Takeshi Sakamoto ()", "Kinuyo Tanaka ()"], "comments": [], "recommandations_id": []}

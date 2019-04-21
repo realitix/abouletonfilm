@@ -1,0 +1,1 @@
+{"tmdb_id": 350743, "title": "Palomita M\u00eda", "original_title": "Palomita M\u00eda", "slug_title": "palomita-mia", "date": "2006-05-06", "genre": "Fantastique / Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

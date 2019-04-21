@@ -1,0 +1,1 @@
+{"tmdb_id": 273458, "title": "Spirit Berlin", "original_title": "Spirit Berlin", "slug_title": "spirit-berlin", "date": "2014-10-25", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbYsYi6fomV1EYbPkJTp2UdOOlf.jpg", "actors": [], "comments": [], "recommandations_id": []}

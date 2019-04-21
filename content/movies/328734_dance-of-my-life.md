@@ -1,0 +1,1 @@
+{"tmdb_id": 328734, "title": "Dance of My Life", "original_title": "Dance of My Life", "slug_title": "dance-of-my-life", "date": "2011-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

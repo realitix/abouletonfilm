@@ -1,0 +1,1 @@
+{"tmdb_id": 306778, "title": "GAA Football Championship 2013", "original_title": "GAA Football Championship 2013", "slug_title": "gaa-football-championship-2013", "date": "2013-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522347, "title": "Poor Magic", "original_title": "Poor Magic", "slug_title": "poor-magic", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

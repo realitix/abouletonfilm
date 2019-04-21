@@ -1,0 +1,1 @@
+{"tmdb_id": 493310, "title": "History of the hotel Viru", "original_title": "Viru - tarinoita hotellista", "slug_title": "history-of-the-hotel-viru", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sofi Oksanen (Herself)"], "comments": [], "recommandations_id": []}

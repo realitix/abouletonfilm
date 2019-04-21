@@ -1,0 +1,1 @@
+{"tmdb_id": 406773, "title": "Wednesday", "original_title": "Chaharshanbe", "slug_title": "wednesday", "date": "2016-10-26", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iGvc4Cq9U6IvLPnHh467k6j8MR.jpg", "actors": ["Shahab Hosseini (Taher)", "Arman Darvish (Salim)"], "comments": [], "recommandations_id": []}

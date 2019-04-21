@@ -1,0 +1,1 @@
+{"tmdb_id": 203050, "title": "A Life in Hashistan", "original_title": "A Life in Hashistan", "slug_title": "a-life-in-hashistan", "date": "2007-06-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XxzwEpJjJmWnnqUkzWJJsYDnDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

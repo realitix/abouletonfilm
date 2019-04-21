@@ -1,0 +1,1 @@
+{"tmdb_id": 416472, "title": "Rudzienko", "original_title": "Rudzienko", "slug_title": "rudzienko", "date": "2016-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50rnBTR8b7RvHw6F84xWRLZHxcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

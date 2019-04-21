@@ -1,0 +1,1 @@
+{"tmdb_id": 320377, "title": "Jagari Chatterjee: Ek Muridh Ki Koshish", "original_title": "Jagari Chatterjee: Ek Muridh Ki Koshish", "slug_title": "jagari-chatterjee-ek-muridh-ki-koshish", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

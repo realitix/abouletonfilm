@@ -1,0 +1,1 @@
+{"tmdb_id": 350150, "title": "\ud48d\uc6b4\uc544 \ud314\ubd88\ucd9c", "original_title": "\ud48d\uc6b4\uc544 \ud314\ubd88\ucd9c", "slug_title": "punguna-palbulcul", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

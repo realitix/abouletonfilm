@@ -1,0 +1,1 @@
+{"tmdb_id": 321865, "title": "The Impressionists: Degas", "original_title": "The Impressionists: Degas", "slug_title": "the-impressionists-degas", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IeuP4I1seCgL4h9nBKUfP1mZ5u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474514, "title": "African Rush", "original_title": "African Rush", "slug_title": "african-rush", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYbjaUZJdcMxaU90Rn4ReyM1vS9.jpg", "actors": [], "comments": [], "recommandations_id": []}

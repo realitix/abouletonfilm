@@ -1,0 +1,1 @@
+{"tmdb_id": 236895, "title": "Spinach Packin' Popeye", "original_title": "Spinach Packin' Popeye", "slug_title": "spinach-packin-popeye", "date": "1944-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 308053, "title": "Navvuthu Bathakalira", "original_title": "Navvuthu Bathakalira", "slug_title": "navvuthu-bathakalira", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

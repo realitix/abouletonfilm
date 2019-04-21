@@ -1,0 +1,1 @@
+{"tmdb_id": 556014, "title": "La rue du pav\u00e9 d'amour", "original_title": "La rue du pav\u00e9 d'amour", "slug_title": "la-rue-du-pave-d-amour", "date": "1924-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

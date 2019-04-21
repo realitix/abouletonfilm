@@ -1,0 +1,1 @@
+{"tmdb_id": 543931, "title": "Mark Christopher Lawrence: Clean Outta Compton", "original_title": "Mark Christopher Lawrence: Clean Outta Compton", "slug_title": "mark-christopher-lawrence-clean-outta-compton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

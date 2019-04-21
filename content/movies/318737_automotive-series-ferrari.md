@@ -1,0 +1,1 @@
+{"tmdb_id": 318737, "title": "Automotive Series: Ferrari", "original_title": "Automotive Series: Ferrari", "slug_title": "automotive-series-ferrari", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

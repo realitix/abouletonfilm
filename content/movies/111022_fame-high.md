@@ -1,0 +1,1 @@
+{"tmdb_id": 111022, "title": "Fame High", "original_title": "Fame High", "slug_title": "fame-high", "date": "2012-04-21", "genre": "Documentaire", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1m5RGkZpMOpyPA9eHBCVRuLnm52.jpg", "actors": [], "comments": [], "recommandations_id": [147923]}

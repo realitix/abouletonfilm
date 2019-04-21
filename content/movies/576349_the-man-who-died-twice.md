@@ -1,0 +1,1 @@
+{"tmdb_id": 576349, "title": "The Man Who Died Twice", "original_title": "The Man Who Died Twice", "slug_title": "the-man-who-died-twice", "date": "1973-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stuart Whitman (Erik Seward)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 457092, "title": "The Lottery", "original_title": "The Lottery", "slug_title": "the-lottery", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

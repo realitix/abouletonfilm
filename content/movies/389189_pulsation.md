@@ -1,0 +1,1 @@
+{"tmdb_id": 389189, "title": "Pulsation", "original_title": "Pulsaci\u00f3n", "slug_title": "pulsation", "date": "1969-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

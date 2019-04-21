@@ -1,0 +1,1 @@
+{"tmdb_id": 77802, "title": "Kathi Kanta Rao", "original_title": "Kathi Kanta Rao", "slug_title": "kathi-kanta-rao", "date": "2010-12-10", "genre": "Com\u00e9die", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3s6t8nZR07bJbglGfb9VflWtdwO.jpg", "actors": ["Allari Naresh ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547784, "title": "He Was Born, He Suffered, He Died", "original_title": "He Was Born, He Suffered, He Died", "slug_title": "he-was-born-he-suffered-he-died", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

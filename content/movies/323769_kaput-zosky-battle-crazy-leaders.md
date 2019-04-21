@@ -1,0 +1,1 @@
+{"tmdb_id": 323769, "title": "Kaput & Zosky: Battle Crazy Leaders", "original_title": "Kaput & Zosky: Battle Crazy Leaders", "slug_title": "kaput-zosky-battle-crazy-leaders", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

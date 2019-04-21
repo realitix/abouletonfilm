@@ -1,0 +1,1 @@
+{"tmdb_id": 299359, "title": "The Cabining", "original_title": "The Cabining", "slug_title": "the-cabining", "date": "2014-05-03", "genre": "Thriller / Horreur", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nC2QBCqCFvW3x8fDVikEYKWgCLi.jpg", "actors": [], "comments": [], "recommandations_id": [166981, 356486, 163008, 418704]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 455342, "title": "Exhibition Fire Drill, Union Square, N.Y.", "original_title": "Exhibition Fire Drill, Union Square, N.Y.", "slug_title": "exhibition-fire-drill-union-square-n-y", "date": "1904-06-29", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

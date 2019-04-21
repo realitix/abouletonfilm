@@ -1,0 +1,1 @@
+{"tmdb_id": 467279, "title": "A Man Under the Influenza", "original_title": "Yeonghyang alae eunneun namja", "slug_title": "a-man-under-the-influenza", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMvyFncYhc2HvTKH20Yap43JKXg.jpg", "actors": [], "comments": [], "recommandations_id": []}

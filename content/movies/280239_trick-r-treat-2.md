@@ -1,0 +1,1 @@
+{"tmdb_id": 280239, "title": "Trick 'r Treat 2", "original_title": "Trick 'r Treat 2", "slug_title": "trick-r-treat-2", "date": "2020-12-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZPBkFxne3e30SzPz1GlWsjcn3P.jpg", "actors": [], "comments": [], "recommandations_id": []}

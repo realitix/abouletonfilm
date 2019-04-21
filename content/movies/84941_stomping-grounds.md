@@ -1,0 +1,1 @@
+{"tmdb_id": 84941, "title": "Stomping Grounds", "original_title": "Stomping Grounds", "slug_title": "stomping-grounds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

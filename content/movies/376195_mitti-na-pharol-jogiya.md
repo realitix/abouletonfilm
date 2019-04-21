@@ -1,0 +1,1 @@
+{"tmdb_id": 376195, "title": "Mitti Na Pharol Jogiya", "original_title": "Mitti Na Pharol Jogiya", "slug_title": "mitti-na-pharol-jogiya", "date": "2015-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1A2009sjO3gSleh1C1LJqXRfQgo.jpg", "actors": [], "comments": [], "recommandations_id": []}

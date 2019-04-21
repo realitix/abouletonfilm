@@ -1,0 +1,1 @@
+{"tmdb_id": 257972, "title": "Canada Vignettes: M\u00e9tis Coat", "original_title": "Canada Vignettes: M\u00e9tis Coat", "slug_title": "canada-vignettes-metis-coat", "date": "1979-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vlasta Vr\u00e1na (Narrator)"], "comments": [], "recommandations_id": []}

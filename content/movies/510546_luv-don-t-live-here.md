@@ -1,0 +1,1 @@
+{"tmdb_id": 510546, "title": "LUV don't live here", "original_title": "LUV don't live here", "slug_title": "luv-don-t-live-here", "date": "2015-07-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sK6mpp7LQ0uAWxr5tLP3p8OZBgX.jpg", "actors": [], "comments": [], "recommandations_id": []}

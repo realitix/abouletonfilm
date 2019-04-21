@@ -1,0 +1,1 @@
+{"tmdb_id": 151986, "title": "The Ten Rules", "original_title": "The Ten Rules", "slug_title": "the-ten-rules", "date": "2002-03-21", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Paradise (Jennifer Baker)"], "comments": [], "recommandations_id": []}

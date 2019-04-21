@@ -1,0 +1,1 @@
+{"tmdb_id": 273252, "title": "My Son, My Precious", "original_title": "Imagi Ningthem", "slug_title": "my-son-my-precious", "date": "1981-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yG58NWmULzlbNnLiDecNQb2v7HV.jpg", "actors": [], "comments": [], "recommandations_id": []}

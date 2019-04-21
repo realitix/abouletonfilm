@@ -1,0 +1,1 @@
+{"tmdb_id": 139395, "title": "The Monsters Emerge", "original_title": "The Monsters Emerge", "slug_title": "the-monsters-emerge", "date": "1993-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fO9LUAi2aaCkXgrHUmJ7QCp8Op0.jpg", "actors": [], "comments": [], "recommandations_id": []}

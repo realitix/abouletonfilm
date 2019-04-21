@@ -1,0 +1,1 @@
+{"tmdb_id": 312960, "title": "Carefree", "original_title": "Les Insouciants", "slug_title": "carefree", "date": "2014-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Lottin ()", "Daisy Broom ()", "Chlo\u00e9 L\u00e9onil ()", "Cl\u00e9mence Baron ()"], "comments": [], "recommandations_id": []}

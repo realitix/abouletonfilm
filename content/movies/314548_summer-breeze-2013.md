@@ -1,0 +1,1 @@
+{"tmdb_id": 314548, "title": "Summer Breeze 2013", "original_title": "Summer Breeze 2013", "slug_title": "summer-breeze-2013", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ced8LoAO6tTKKeNhjE0kKPmoKgU.jpg", "actors": [], "comments": [], "recommandations_id": []}

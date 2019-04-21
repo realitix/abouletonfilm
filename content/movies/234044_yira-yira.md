@@ -1,0 +1,1 @@
+{"tmdb_id": 234044, "title": "Yira, yira", "original_title": "Yira, yira", "slug_title": "yira-yira", "date": "1930-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Gardel ()", "Enrique Santos Disc\u00e9polo ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528377, "title": "Land of the Strangers", "original_title": "\ub0af\uc120 \uc790\ub4e4\uc758 \ub545", "slug_title": "land-of-the-strangers", "date": "2018-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

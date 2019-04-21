@@ -1,0 +1,1 @@
+{"tmdb_id": 409657, "title": "A Place Good Enough", "original_title": "A Place Good Enough", "slug_title": "a-place-good-enough", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4E3cU7DEcjY3zVtUmZ8pypWMdF.jpg", "actors": [], "comments": [], "recommandations_id": []}

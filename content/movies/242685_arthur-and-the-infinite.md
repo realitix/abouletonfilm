@@ -1,0 +1,1 @@
+{"tmdb_id": 242685, "title": "Arthur and the Infinite", "original_title": "Arthur e o Infinito", "slug_title": "arthur-and-the-infinite", "date": "2012-11-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erich Schon (Arthur)", "Maria Tuca Fanchin (Marina)"], "comments": [], "recommandations_id": []}

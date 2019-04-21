@@ -1,0 +1,1 @@
+{"tmdb_id": 113112, "title": "Rock 'N Learn: Alphabet Circus", "original_title": "Rock 'N Learn: Alphabet Circus", "slug_title": "rock-n-learn-alphabet-circus", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2AKPrHHBL1Z92k2YTLwTLp5VIt.jpg", "actors": [], "comments": [], "recommandations_id": []}

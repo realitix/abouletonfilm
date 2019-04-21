@@ -1,0 +1,1 @@
+{"tmdb_id": 313965, "title": "Doubles", "original_title": "Doubles", "slug_title": "doubles", "date": "2014-11-02", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3xvX6SNUTnAmZ4lJjlqvtO8Wbh.jpg", "actors": ["Mike C. Nelson (Booker)", "Steve Szlaga (Gary)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531205, "title": "Funny Ladies Collection", "original_title": "Funny Ladies Collection", "slug_title": "funny-ladies-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

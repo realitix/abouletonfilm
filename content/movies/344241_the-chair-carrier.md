@@ -1,0 +1,1 @@
+{"tmdb_id": 344241, "title": "The Chair Carrier", "original_title": "The Chair Carrier", "slug_title": "the-chair-carrier", "date": "2010-06-11", "genre": "Fantastique / Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hassan Abdel-Fatah (Sayed)", "Magdi Idris (The chair carrier)"], "comments": [], "recommandations_id": []}

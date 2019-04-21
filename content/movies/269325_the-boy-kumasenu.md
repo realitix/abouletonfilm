@@ -1,0 +1,1 @@
+{"tmdb_id": 269325, "title": "The Boy Kumasenu", "original_title": "The Boy Kumasenu", "slug_title": "the-boy-kumasenu", "date": "1952-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42flAoBpyh6fdsIRDvoQYdFkpYs.jpg", "actors": [], "comments": [], "recommandations_id": []}

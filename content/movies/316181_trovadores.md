@@ -1,0 +1,1 @@
+{"tmdb_id": 316181, "title": "Trovadores", "original_title": "Trovadores", "slug_title": "trovadores", "date": "2014-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

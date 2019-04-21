@@ -1,0 +1,1 @@
+{"tmdb_id": 523418, "title": "KILLZONE 2: EPIC DEVELOPMENT", "original_title": "KILLZONE 2: EPIC DEVELOPMENT", "slug_title": "killzone-2-epic-development", "date": "2018-03-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

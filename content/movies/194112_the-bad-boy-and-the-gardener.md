@@ -1,0 +1,1 @@
+{"tmdb_id": 194112, "title": "The Bad Boy and the Gardener", "original_title": "The Bad Boy and the Gardener", "slug_title": "the-bad-boy-and-the-gardener", "date": "1896-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

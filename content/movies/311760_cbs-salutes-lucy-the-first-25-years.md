@@ -1,0 +1,1 @@
+{"tmdb_id": 311760, "title": "CBS Salutes Lucy: The First 25 Years", "original_title": "CBS Salutes Lucy: The First 25 Years", "slug_title": "cbs-salutes-lucy-the-first-25-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

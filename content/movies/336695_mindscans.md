@@ -1,0 +1,1 @@
+{"tmdb_id": 336695, "title": "MindScans", "original_title": "MindScans", "slug_title": "mindscans", "date": "2013-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uZxDudCPIdLfy1TnerSvFd6emS.jpg", "actors": [], "comments": [], "recommandations_id": []}

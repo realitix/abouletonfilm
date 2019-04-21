@@ -1,0 +1,1 @@
+{"tmdb_id": 532372, "title": "Bruno K. \u00d6ijer", "original_title": "Bruno K. \u00d6ijer", "slug_title": "bruno-k-oijer", "date": "2015-04-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8wG2uu83GrqeWR6D5C5LIVdATE.jpg", "actors": ["Bruno K. \u00d6ijer ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 456456, "title": "Ticket Coffee Shop", "original_title": "Ticket Coffee Shop", "slug_title": "ticket-coffee-shop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ProFcir0GLTSTJtpVdSfwBM3eh.jpg", "actors": [], "comments": [], "recommandations_id": []}

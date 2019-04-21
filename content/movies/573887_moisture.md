@@ -1,0 +1,1 @@
+{"tmdb_id": 573887, "title": "Moisture", "original_title": "Moisture", "slug_title": "moisture", "date": "1980-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTSBNHY3Pw184hXbKM4OWdqShTR.jpg", "actors": ["The Residents ()"], "comments": [], "recommandations_id": []}

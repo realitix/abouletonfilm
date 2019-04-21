@@ -1,0 +1,1 @@
+{"tmdb_id": 330471, "title": "World War I: Cause and Effects", "original_title": "World War I: Cause and Effects", "slug_title": "world-war-i-cause-and-effects", "date": "2015-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

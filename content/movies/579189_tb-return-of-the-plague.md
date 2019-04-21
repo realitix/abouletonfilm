@@ -1,0 +1,1 @@
+{"tmdb_id": 579189, "title": "TB: Return of the Plague", "original_title": "TB: Return of the Plague", "slug_title": "tb-return-of-the-plague", "date": "2014-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Bonneville (Himself)", "Bern-Thomas Nyang'wa (Himself)"], "comments": [], "recommandations_id": []}

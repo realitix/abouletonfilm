@@ -1,0 +1,1 @@
+{"tmdb_id": 576229, "title": "Cinderella", "original_title": "Cinderella", "slug_title": "cinderella", "date": "2018-11-09", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Behzad Dorani ()", "Navid Layeghi Moghadam ()", "Khosrow Ahmadi ()", "Mohammad Kart ()"], "comments": [], "recommandations_id": []}

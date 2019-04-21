@@ -1,0 +1,1 @@
+{"tmdb_id": 237935, "title": "Kunsten at k\u00f8be en krybbe i Silicon Valley", "original_title": "Kunsten at k\u00f8be en krybbe i Silicon Valley", "slug_title": "kunsten-at-kobe-en-krybbe-i-silicon-valley", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

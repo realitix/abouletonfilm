@@ -1,0 +1,1 @@
+{"tmdb_id": 431795, "title": "Me & You vs. The World", "original_title": "Me & You vs. The World", "slug_title": "me-you-vs-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

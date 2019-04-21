@@ -1,0 +1,1 @@
+{"tmdb_id": 552024, "title": "Suma Poroxote", "original_title": "Suma Poroxote", "slug_title": "suma-poroxote", "date": "2014-09-19", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRv1FXliVcGZLmrbKE4jM1elASP.jpg", "actors": ["Indumouli Neog ()", "Debasmita Benarjee ()"], "comments": [], "recommandations_id": []}

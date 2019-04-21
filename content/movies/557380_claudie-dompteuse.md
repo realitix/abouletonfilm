@@ -1,0 +1,1 @@
+{"tmdb_id": 557380, "title": "Claudie dompteuse", "original_title": "Claudie dompteuse", "slug_title": "claudie-dompteuse", "date": "1933-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

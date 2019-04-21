@@ -1,0 +1,1 @@
+{"tmdb_id": 320390, "title": "Legends of Jazz Guitar: Vol. 1", "original_title": "Legends of Jazz Guitar: Vol. 1", "slug_title": "legends-of-jazz-guitar-vol-1", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBHNSyK5uct5UMv7Q3kQdSLh4F6.jpg", "actors": [], "comments": [], "recommandations_id": []}

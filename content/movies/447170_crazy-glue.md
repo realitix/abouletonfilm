@@ -1,0 +1,1 @@
+{"tmdb_id": 447170, "title": "Crazy Glue", "original_title": "Crazy Glue", "slug_title": "crazy-glue", "date": "1998-03-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

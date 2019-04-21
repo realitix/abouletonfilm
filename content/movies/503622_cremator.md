@@ -1,0 +1,1 @@
+{"tmdb_id": 503622, "title": "Cremator", "original_title": "\u711a\u5c4d\u4eba", "slug_title": "cremator", "date": "2012-09-08", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMy4fE4agvamRzFMARICoe2vZPF.jpg", "actors": ["Zhengwu Cheng ()"], "comments": [], "recommandations_id": []}

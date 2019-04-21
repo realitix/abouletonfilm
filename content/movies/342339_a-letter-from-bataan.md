@@ -1,0 +1,1 @@
+{"tmdb_id": 342339, "title": "A Letter From Bataan", "original_title": "A Letter From Bataan", "slug_title": "a-letter-from-bataan", "date": "1942-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XQeptCa0miFznkFBnY3q2fWfZG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 144827, "title": "Dogs Is Dogs", "original_title": "Dogs Is Dogs", "slug_title": "dogs-is-dogs", "date": "1931-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HOZQU9b1STG0mhw858OLxZqufJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

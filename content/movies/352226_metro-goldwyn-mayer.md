@@ -1,0 +1,1 @@
+{"tmdb_id": 352226, "title": "Metro-Goldwyn-Mayer", "original_title": "Metro-Goldwyn-Mayer", "slug_title": "metro-goldwyn-mayer", "date": "1975-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

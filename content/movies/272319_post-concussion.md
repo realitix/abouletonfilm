@@ -1,0 +1,1 @@
+{"tmdb_id": 272319, "title": "Post Concussion", "original_title": "Post Concussion", "slug_title": "post-concussion", "date": "1999-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536579, "title": "Nevoeiro", "original_title": "Nevoeiro", "slug_title": "nevoeiro", "date": "2018-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

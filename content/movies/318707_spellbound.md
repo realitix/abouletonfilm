@@ -1,0 +1,1 @@
+{"tmdb_id": 318707, "title": "Spellbound", "original_title": "Spellbound", "slug_title": "spellbound", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

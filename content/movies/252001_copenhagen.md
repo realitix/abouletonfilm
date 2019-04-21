@@ -1,0 +1,1 @@
+{"tmdb_id": 252001, "title": "Copenhagen", "original_title": "Copenhagen", "slug_title": "copenhagen", "date": "1937-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator)"], "comments": [], "recommandations_id": []}

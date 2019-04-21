@@ -1,0 +1,1 @@
+{"tmdb_id": 554469, "title": "Lyc\u00e9e Buffon", "original_title": "Lyc\u00e9e Buffon", "slug_title": "lycee-buffon", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "Pierre Merejkowsky revient sur ses ann\u00e9es lyc\u00e9e.", "image": "/img/default-cover.png", "actors": ["Pierre Merejkowsky ()"], "comments": [], "recommandations_id": []}

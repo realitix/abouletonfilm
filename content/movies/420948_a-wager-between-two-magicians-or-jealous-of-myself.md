@@ -1,0 +1,1 @@
+{"tmdb_id": 420948, "title": "A Wager Between Two Magicians, or, Jealous of Myself", "original_title": "Match de prestidigitation", "slug_title": "a-wager-between-two-magicians-or-jealous-of-myself", "date": "1904-02-13", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

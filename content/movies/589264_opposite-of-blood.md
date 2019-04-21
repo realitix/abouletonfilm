@@ -1,0 +1,1 @@
+{"tmdb_id": 589264, "title": "Opposite Of Blood", "original_title": "Opposite Of Blood", "slug_title": "opposite-of-blood", "date": "2018-11-01", "genre": "Action", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1IrMMuyR8g9TibrzeOTaVbxEYB.jpg", "actors": ["Sarah French (Lin Chow)"], "comments": [], "recommandations_id": []}

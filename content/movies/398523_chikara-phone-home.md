@@ -1,0 +1,1 @@
+{"tmdb_id": 398523, "title": "Chikara Phone Home", "original_title": "Chikara Phone Home", "slug_title": "chikara-phone-home", "date": "2016-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybjvBXgrOnravVXmTEPLGY3E9cT.jpg", "actors": [], "comments": [], "recommandations_id": []}

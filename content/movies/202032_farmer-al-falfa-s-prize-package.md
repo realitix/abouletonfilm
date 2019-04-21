@@ -1,0 +1,1 @@
+{"tmdb_id": 202032, "title": "Farmer Al Falfa's Prize Package", "original_title": "Farmer Al Falfa's Prize Package", "slug_title": "farmer-al-falfa-s-prize-package", "date": "1936-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

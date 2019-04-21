@@ -1,0 +1,1 @@
+{"tmdb_id": 365712, "title": "Slasher Weekend", "original_title": "Slasher Weekend", "slug_title": "slasher-weekend", "date": "2015-07-16", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jY1UGhiZnIzscK9r10eYn4Bw5jq.jpg", "actors": [], "comments": [], "recommandations_id": []}

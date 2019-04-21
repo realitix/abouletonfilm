@@ -1,0 +1,1 @@
+{"tmdb_id": 235108, "title": "Mixed Master", "original_title": "Mixed Master", "slug_title": "mixed-master", "date": "1956-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

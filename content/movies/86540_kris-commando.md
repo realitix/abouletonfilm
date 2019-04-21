@@ -1,0 +1,1 @@
+{"tmdb_id": 86540, "title": "Kris Commando", "original_title": "Kamandag ng kris", "slug_title": "kris-commando", "date": "1987-06-04", "genre": "", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VYEwQnuvNDGX9giTQqWvNdyMeI.jpg", "actors": [], "comments": [], "recommandations_id": []}

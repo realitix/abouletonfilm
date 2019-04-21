@@ -1,0 +1,1 @@
+{"tmdb_id": 235898, "title": "Cat Carson Rides Again", "original_title": "Cat Carson Rides Again", "slug_title": "cat-carson-rides-again", "date": "1952-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333923, "title": "The Road to Palestine", "original_title": "al-Tariq Illa Filastin", "slug_title": "the-road-to-palestine", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

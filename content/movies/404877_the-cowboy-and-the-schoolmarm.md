@@ -1,0 +1,1 @@
+{"tmdb_id": 404877, "title": "The Cowboy and the Schoolmarm", "original_title": "The Cowboy and the Schoolmarm", "slug_title": "the-cowboy-and-the-schoolmarm", "date": "1910-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Young Deer ()", "Red Wing ()"], "comments": [], "recommandations_id": []}

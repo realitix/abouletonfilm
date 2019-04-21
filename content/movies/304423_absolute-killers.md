@@ -1,0 +1,1 @@
+{"tmdb_id": 304423, "title": "Absolute Killers", "original_title": "Absolute Killers", "slug_title": "absolute-killers", "date": "2014-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJogj1HM0lEpQQvvzxVQ0pLjUH8.jpg", "actors": [], "comments": [], "recommandations_id": []}

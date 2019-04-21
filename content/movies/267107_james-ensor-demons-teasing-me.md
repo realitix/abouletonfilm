@@ -1,0 +1,1 @@
+{"tmdb_id": 267107, "title": "James Ensor: Demons Teasing Me", "original_title": "James Ensor: Demons Teasing Me", "slug_title": "james-ensor-demons-teasing-me", "date": "2010-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

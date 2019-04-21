@@ -1,0 +1,1 @@
+{"tmdb_id": 408085, "title": "A Certain Kind of Monster", "original_title": "A Certain Kind of Monster", "slug_title": "a-certain-kind-of-monster", "date": "2013-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znfXpGu4gnYUOeD8PldaFvOG7js.jpg", "actors": [], "comments": [], "recommandations_id": []}

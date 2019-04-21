@@ -1,0 +1,1 @@
+{"tmdb_id": 276422, "title": "Calling All Coyotes 2", "original_title": "Calling All Coyotes 2", "slug_title": "calling-all-coyotes-2", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

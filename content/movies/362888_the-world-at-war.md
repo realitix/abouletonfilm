@@ -1,0 +1,1 @@
+{"tmdb_id": 362888, "title": "The World at War", "original_title": "The World at War", "slug_title": "the-world-at-war", "date": "1942-09-18", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Stewart (Narrator (voice))"], "comments": [], "recommandations_id": []}

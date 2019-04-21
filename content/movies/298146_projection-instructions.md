@@ -1,0 +1,1 @@
+{"tmdb_id": 298146, "title": "Projection Instructions", "original_title": "Projection Instructions", "slug_title": "projection-instructions", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqyyJmfIn56xUZfo9wd2Pq5LwzM.jpg", "actors": [], "comments": [], "recommandations_id": []}

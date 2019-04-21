@@ -1,0 +1,1 @@
+{"tmdb_id": 514594, "title": "Laboratorium Anthology", "original_title": "Laboratorium Anthology", "slug_title": "laboratorium-anthology", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonas Mekas (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 254827, "title": "Long Black Limousine", "original_title": "Long Black Limousine", "slug_title": "long-black-limousine", "date": "2014-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremy Sande (Les)", "Elizabeth Huff (Virginia)"], "comments": [], "recommandations_id": []}

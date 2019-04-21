@@ -1,0 +1,1 @@
+{"tmdb_id": 387557, "title": "Wild Currents", "original_title": "Wild Currents", "slug_title": "wild-currents", "date": "2015-08-26", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3C6nrjB9TyMQ3X8d0Dh9rEIgVYU.jpg", "actors": [], "comments": [], "recommandations_id": []}

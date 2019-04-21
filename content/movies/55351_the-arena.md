@@ -1,0 +1,1 @@
+{"tmdb_id": 55351, "title": "The Arena", "original_title": "The Arena", "slug_title": "the-arena", "date": "2010-10-01", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8vlz8xtmHkOMnTUrptiq1jBFLEi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273486, "title": "Nana Akoto", "original_title": "Nana Akoto", "slug_title": "nana-akoto", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emmanuel Agbinown ()", "Joe Eyison ()", "Osei Kwabena ()"], "comments": [], "recommandations_id": []}

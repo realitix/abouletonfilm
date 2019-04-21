@@ -1,0 +1,1 @@
+{"tmdb_id": 304901, "title": "Barre's Silence", "original_title": "Barre's Silence", "slug_title": "barre-s-silence", "date": "2014-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

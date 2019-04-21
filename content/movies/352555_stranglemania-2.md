@@ -1,0 +1,1 @@
+{"tmdb_id": 352555, "title": "Stranglemania 2", "original_title": "Stranglemania 2", "slug_title": "stranglemania-2", "date": "1999-07-31", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMEnxx21DhhXqW6INGVnliv4g31.jpg", "actors": [], "comments": [], "recommandations_id": []}

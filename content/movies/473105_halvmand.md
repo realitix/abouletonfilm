@@ -1,0 +1,1 @@
+{"tmdb_id": 473105, "title": "Halvmand", "original_title": "Halvmand", "slug_title": "halvmand", "date": "2016-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DZFJiaA1O7kqXTg2TXdqdtrIQ9.jpg", "actors": ["Jens Albinus (Jens)", "Marina Bouras (Marina)"], "comments": [], "recommandations_id": []}

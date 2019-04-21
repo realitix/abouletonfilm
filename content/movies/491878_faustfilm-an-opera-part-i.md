@@ -1,0 +1,1 @@
+{"tmdb_id": 491878, "title": "Faustfilm: An Opera: Part I", "original_title": "Faustfilm: An Opera: Part I", "slug_title": "faustfilm-an-opera-part-i", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joel Haertling (Faust)"], "comments": [], "recommandations_id": []}

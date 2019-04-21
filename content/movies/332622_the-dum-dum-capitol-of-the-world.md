@@ -1,0 +1,1 @@
+{"tmdb_id": 332622, "title": "The Dum Dum Capitol of the World", "original_title": "The Dum Dum Capitol of the World", "slug_title": "the-dum-dum-capitol-of-the-world", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

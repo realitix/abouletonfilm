@@ -1,0 +1,1 @@
+{"tmdb_id": 500197, "title": "Csillag\u00f6sv\u00e9nyen 2", "original_title": "Csillag\u00f6sv\u00e9nyen 2", "slug_title": "csillagosvenyen-2", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhZmJgDbvNsID8Dhe09KpFWwshi.jpg", "actors": [], "comments": [], "recommandations_id": []}

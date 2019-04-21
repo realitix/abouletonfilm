@@ -1,0 +1,1 @@
+{"tmdb_id": 173664, "title": "The Way To Be", "original_title": "The Way To Be", "slug_title": "the-way-to-be", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

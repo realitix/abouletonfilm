@@ -1,0 +1,1 @@
+{"tmdb_id": 350040, "title": "Acalanto", "original_title": "Acalanto", "slug_title": "acalanto", "date": "2013-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63A2VOav3mhqWIV6dBNUUYBCdZf.jpg", "actors": ["Luiz Carlos Vasconcelos (Chico)", "L\u00e9a Garcia (Luzia)"], "comments": [], "recommandations_id": []}

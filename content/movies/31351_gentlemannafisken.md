@@ -1,0 +1,1 @@
+{"tmdb_id": 31351, "title": "Gentlemannafisken", "original_title": "Gentlemannafisken", "slug_title": "gentlemannafisken", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8KVzYk6JFrimWDfhTXIkx8GUqP0.jpg", "actors": ["Martin Falklind (Himself)"], "comments": [], "recommandations_id": []}

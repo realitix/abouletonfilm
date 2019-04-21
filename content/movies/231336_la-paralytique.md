@@ -1,0 +1,1 @@
+{"tmdb_id": 231336, "title": "La paralytique", "original_title": "La paralytique", "slug_title": "la-paralytique", "date": "1897-10-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

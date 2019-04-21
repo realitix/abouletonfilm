@@ -1,0 +1,1 @@
+{"tmdb_id": 275956, "title": "Jimi Hendrix: Music Video Box Documentary", "original_title": "Jimi Hendrix: Music Video Box Documentary", "slug_title": "jimi-hendrix-music-video-box-documentary", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

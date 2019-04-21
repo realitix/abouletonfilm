@@ -1,0 +1,1 @@
+{"tmdb_id": 329438, "title": "Chibi Maruko-chan SP1", "original_title": "Chibi Maruko-chan SP1", "slug_title": "chibi-maruko-chan-sp1", "date": "2006-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yeIbfLhky4YUofqAClPPxwZWztK.jpg", "actors": [], "comments": [], "recommandations_id": []}

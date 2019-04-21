@@ -1,0 +1,1 @@
+{"tmdb_id": 454206, "title": "\u0412\u0430\u0441\u0438\u043b\u0451\u043a", "original_title": "\u0412\u0430\u0441\u0438\u043b\u0451\u043a", "slug_title": "vasiliok", "date": "1973-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zgH5bzHTF13R45aqQS453PzWHWF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 492522, "title": "The Circle", "original_title": "Hev\u00eark", "slug_title": "the-circle", "date": "2016-09-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M\u00fcfit Aytekin (Teacher)", "Sehmuz Demirtas (Bekir)", "Delila Kaya (Zelal)", "Emircan Kaya (Zeki)"], "comments": [], "recommandations_id": []}

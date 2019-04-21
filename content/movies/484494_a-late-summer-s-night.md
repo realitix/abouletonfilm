@@ -1,0 +1,1 @@
+{"tmdb_id": 484494, "title": "A Late Summer's Night", "original_title": "Noch na zakate leta", "slug_title": "a-late-summer-s-night", "date": "2011-06-01", "genre": "Romance / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJzfcGkqZPkF6LwCjQHvKIZMfBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

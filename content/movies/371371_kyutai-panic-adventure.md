@@ -1,0 +1,1 @@
+{"tmdb_id": 371371, "title": "Kyutai Panic Adventure!", "original_title": "Kyutai Panic Adventure!", "slug_title": "kyutai-panic-adventure", "date": "2003-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

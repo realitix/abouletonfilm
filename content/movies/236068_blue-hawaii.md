@@ -1,0 +1,1 @@
+{"tmdb_id": 236068, "title": "Blue Hawaii", "original_title": "Blue Hawaii", "slug_title": "blue-hawaii", "date": "1950-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

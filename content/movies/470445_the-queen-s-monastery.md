@@ -1,0 +1,1 @@
+{"tmdb_id": 470445, "title": "The Queen's Monastery", "original_title": "The Queen's Monastery", "slug_title": "the-queen-s-monastery", "date": "1998-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHir311asifU7DDcupKMxurh3Za.jpg", "actors": [], "comments": [], "recommandations_id": []}

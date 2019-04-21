@@ -1,0 +1,1 @@
+{"tmdb_id": 390550, "title": "Rwanda: Source of prosperity", "original_title": "Rwanda: Source of prosperity", "slug_title": "rwanda-source-of-prosperity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

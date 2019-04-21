@@ -1,0 +1,1 @@
+{"tmdb_id": 331363, "title": "Kindred Moon Paranormal: The Doctor's Office", "original_title": "Kindred Moon Paranormal: The Doctor's Office", "slug_title": "kindred-moon-paranormal-the-doctor-s-office", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

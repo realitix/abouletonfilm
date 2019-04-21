@@ -1,0 +1,1 @@
+{"tmdb_id": 389246, "title": "Strung Out", "original_title": "\u05d1\u05ea \u05d6\u05d5\u05e0\u05d4", "slug_title": "strung-out", "date": "2015-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8OfQzCG8umpcLzSTkdDdTp2Gjxn.jpg", "actors": ["Nirit Aharoni ()"], "comments": [], "recommandations_id": []}

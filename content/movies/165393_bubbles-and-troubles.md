@@ -1,0 +1,1 @@
+{"tmdb_id": 165393, "title": "Bubbles and Troubles", "original_title": "Bubbles and Troubles", "slug_title": "bubbles-and-troubles", "date": "1933-04-27", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

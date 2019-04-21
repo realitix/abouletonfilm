@@ -1,0 +1,1 @@
+{"tmdb_id": 574478, "title": "Op\u00e9ration Panth\u00e8re", "original_title": "Op\u00e9ration Panth\u00e8re", "slug_title": "operation-panthere", "date": "1967-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

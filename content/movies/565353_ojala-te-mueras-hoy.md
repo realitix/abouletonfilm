@@ -1,0 +1,1 @@
+{"tmdb_id": 565353, "title": "Ojal\u00e1 te mueras hoy", "original_title": "Ojal\u00e1 te mueras hoy", "slug_title": "ojala-te-mueras-hoy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

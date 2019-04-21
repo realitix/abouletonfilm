@@ -1,0 +1,1 @@
+{"tmdb_id": 489440, "title": "Sehzade Sinbad kaf daginda", "original_title": "Sehzade Sinbad kaf daginda", "slug_title": "sehzade-sinbad-kaf-daginda", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x04zrz5f7ZEZFB06ssSRdECltCS.jpg", "actors": [], "comments": [], "recommandations_id": []}

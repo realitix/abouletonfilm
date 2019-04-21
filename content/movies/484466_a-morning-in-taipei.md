@@ -1,0 +1,1 @@
+{"tmdb_id": 484466, "title": "A Morning in Taipei", "original_title": "\u53f0\u5317\u4e4b\u6668", "slug_title": "a-morning-in-taipei", "date": "1964-10-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

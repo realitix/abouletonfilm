@@ -1,0 +1,1 @@
+{"tmdb_id": 465512, "title": "The Saucy Magazine", "original_title": "The Saucy Magazine", "slug_title": "the-saucy-magazine", "date": "1906-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

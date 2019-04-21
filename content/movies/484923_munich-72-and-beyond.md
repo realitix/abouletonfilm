@@ -1,0 +1,1 @@
+{"tmdb_id": 484923, "title": "Munich '72 and Beyond", "original_title": "Munich '72 and Beyond", "slug_title": "munich-72-and-beyond", "date": "2016-08-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPnzwEOeDEzkDSNbjjsgtfoaFsu.jpg", "actors": [], "comments": [], "recommandations_id": []}

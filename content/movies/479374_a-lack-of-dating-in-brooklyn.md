@@ -1,0 +1,1 @@
+{"tmdb_id": 479374, "title": "A Lack of Dating in Brooklyn", "original_title": "A Lack of Dating in Brooklyn", "slug_title": "a-lack-of-dating-in-brooklyn", "date": "2017-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5YLD2Q4vuMS7hUta1CAZtA8eYxl.jpg", "actors": [], "comments": [], "recommandations_id": []}

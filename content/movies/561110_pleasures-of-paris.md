@@ -1,0 +1,1 @@
+{"tmdb_id": 561110, "title": "Pleasures of Paris", "original_title": "Plaisirs de Paris", "slug_title": "pleasures-of-paris", "date": "1952-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ximFBjxuxv4yc5ql3Xcxu29Hz8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

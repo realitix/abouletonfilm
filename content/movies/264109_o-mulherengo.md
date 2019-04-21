@@ -1,0 +1,1 @@
+{"tmdb_id": 264109, "title": "O Mulherengo", "original_title": "O Mulherengo", "slug_title": "o-mulherengo", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fifi Baynard ()", "Bentinho ()", "Carlos Bucka ()", "Fernando Almeida ()", "Abrah\u00e3o Farc ()"], "comments": [], "recommandations_id": []}

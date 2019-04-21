@@ -1,0 +1,1 @@
+{"tmdb_id": 537735, "title": "Lax Readings", "original_title": "Lax Readings", "slug_title": "lax-readings", "date": "2006-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Lax (Himself (archive footage))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 268322, "title": "Hamlet & Hutch", "original_title": "Hamlet & Hutch", "slug_title": "hamlet-hutch", "date": "2017-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkkQUxIBcqVriZKXoW2piHDDVil.jpg", "actors": ["Burt Reynolds (Papa Hutch)"], "comments": [], "recommandations_id": []}

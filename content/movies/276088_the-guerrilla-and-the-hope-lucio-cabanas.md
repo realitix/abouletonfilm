@@ -1,0 +1,1 @@
+{"tmdb_id": 276088, "title": "The Guerrilla and the Hope: Lucio Cabanas", "original_title": "The Guerrilla and the Hope: Lucio Cabanas", "slug_title": "the-guerrilla-and-the-hope-lucio-cabanas", "date": "2005-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

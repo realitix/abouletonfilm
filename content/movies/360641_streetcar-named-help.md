@@ -1,0 +1,1 @@
+{"tmdb_id": 360641, "title": "Streetcar Named Help", "original_title": "Tramvajs, V\u0101rd\u0101 Kalpot\u0101js", "slug_title": "streetcar-named-help", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

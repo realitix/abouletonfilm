@@ -1,0 +1,1 @@
+{"tmdb_id": 564067, "title": "The Mosquito Patch", "original_title": "\u9632\u868a\u8cbc\u7247", "slug_title": "the-mosquito-patch", "date": "2018-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYulFnCXOloIbLinSckHSFsDUi7.jpg", "actors": [], "comments": [], "recommandations_id": []}

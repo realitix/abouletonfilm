@@ -1,0 +1,1 @@
+{"tmdb_id": 355519, "title": "New Dimensions", "original_title": "New Dimensions", "slug_title": "new-dimensions", "date": "1940-08-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsmwwmPyys7FZalXCC132RIaFmj.jpg", "actors": [], "comments": [], "recommandations_id": []}

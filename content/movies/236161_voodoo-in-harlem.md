@@ -1,0 +1,1 @@
+{"tmdb_id": 236161, "title": "Voodoo in Harlem", "original_title": "Voodoo in Harlem", "slug_title": "voodoo-in-harlem", "date": "1938-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Lantz (Cartoonist)"], "comments": [], "recommandations_id": []}

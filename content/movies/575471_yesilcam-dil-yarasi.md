@@ -1,0 +1,1 @@
+{"tmdb_id": 575471, "title": "*Yesilcam* Dil Yarasi", "original_title": "*Yesilcam* Dil Yarasi", "slug_title": "yesilcam-dil-yarasi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KDhAavMmPxcIkVKlPMxZlVkP97.jpg", "actors": [], "comments": [], "recommandations_id": []}

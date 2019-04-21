@@ -1,0 +1,1 @@
+{"tmdb_id": 193825, "title": "Mabel's Stratagem", "original_title": "Mabel's Stratagem", "slug_title": "mabel-s-stratagem", "date": "1912-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mabel Normand (Mabel)", "Fred Mace (Jones - Mabel's Boss)", "Alice Davenport (Mrs. Jones)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541776, "title": "My Friend's Mother", "original_title": "Ch\u2019in\u2019gu \u014fmma\u016di yokch\u014fng", "slug_title": "my-friend-s-mother", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

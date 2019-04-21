@@ -1,0 +1,1 @@
+{"tmdb_id": 421263, "title": "The Republic of Enchanters", "original_title": "LA R\u00c9PUBLIQUE DES ENCHANTEURS", "slug_title": "the-republic-of-enchanters", "date": "2016-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

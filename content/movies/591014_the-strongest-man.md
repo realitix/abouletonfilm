@@ -1,0 +1,1 @@
+{"tmdb_id": 591014, "title": "The Strongest Man", "original_title": "L'homme le plus fort", "slug_title": "the-strongest-man", "date": "2014-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9BxX8AATBjYph1dJQQZ4ouWnUl.jpg", "actors": [], "comments": [], "recommandations_id": []}

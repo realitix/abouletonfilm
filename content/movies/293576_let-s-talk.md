@@ -1,0 +1,1 @@
+{"tmdb_id": 293576, "title": "Let's Talk", "original_title": "Let's Talk", "slug_title": "let-s-talk", "date": "2006-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

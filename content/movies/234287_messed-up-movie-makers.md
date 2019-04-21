@@ -1,0 +1,1 @@
+{"tmdb_id": 234287, "title": "Messed Up Movie Makers", "original_title": "Messed Up Movie Makers", "slug_title": "messed-up-movie-makers", "date": "1966-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

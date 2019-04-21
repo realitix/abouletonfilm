@@ -1,0 +1,1 @@
+{"tmdb_id": 193744, "title": "The Ostrich", "original_title": "The Ostrich", "slug_title": "the-ostrich", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49uU14cdOUJahxz6A8JsNv5K6iw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 467752, "title": "Flames of Fear", "original_title": "Flames of Fear", "slug_title": "flames-of-fear", "date": "1930-09-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Argyle (Bob)", "Nancy Stratford (Mary)", "Ernest Bakewell (Bert)", "Bessie Richards (Mother)"], "comments": [], "recommandations_id": []}

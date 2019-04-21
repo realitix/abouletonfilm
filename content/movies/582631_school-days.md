@@ -1,0 +1,1 @@
+{"tmdb_id": 582631, "title": "School Days", "original_title": "\u30b9\u30af\u30fc\u30eb\u30c7\u30a4\u30ba", "slug_title": "school-days", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2DlBgxNhUV3FTdiMs19KUDNKjD.jpg", "actors": [], "comments": [], "recommandations_id": []}

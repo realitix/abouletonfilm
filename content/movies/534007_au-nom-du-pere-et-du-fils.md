@@ -1,0 +1,1 @@
+{"tmdb_id": 534007, "title": "Au nom du p\u00e8re et du fils", "original_title": "Au nom du p\u00e8re et du fils", "slug_title": "au-nom-du-pere-et-du-fils", "date": "1992-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Xa375a41jGtAUad0DFlFZCK4RP.jpg", "actors": [], "comments": [], "recommandations_id": []}

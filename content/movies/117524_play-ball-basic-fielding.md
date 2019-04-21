@@ -1,0 +1,1 @@
+{"tmdb_id": 117524, "title": "Play Ball! Basic Fielding", "original_title": "Play Ball! Basic Fielding", "slug_title": "play-ball-basic-fielding", "date": "2003-10-21", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fdBrB3oKkLXdr8c9ZvaRaoe06s.jpg", "actors": [], "comments": [], "recommandations_id": []}

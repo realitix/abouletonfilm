@@ -1,0 +1,1 @@
+{"tmdb_id": 548089, "title": "Judith: Shoulda Seen the Other Guy", "original_title": "Judith: Shoulda Seen the Other Guy", "slug_title": "judith-shoulda-seen-the-other-guy", "date": "2017-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

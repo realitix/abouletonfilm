@@ -1,0 +1,1 @@
+{"tmdb_id": 474438, "title": "Anamnesis", "original_title": "Anamnesis", "slug_title": "anamnesis", "date": "2016-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Sih2vkd7ZRXdPhlJd5361TEVRd.jpg", "actors": [], "comments": [], "recommandations_id": []}

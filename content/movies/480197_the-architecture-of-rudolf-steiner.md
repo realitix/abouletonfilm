@@ -1,0 +1,1 @@
+{"tmdb_id": 480197, "title": "The Architecture of Rudolf Steiner", "original_title": "The Architecture of Rudolf Steiner", "slug_title": "the-architecture-of-rudolf-steiner", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

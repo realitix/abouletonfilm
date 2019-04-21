@@ -1,0 +1,1 @@
+{"tmdb_id": 282290, "title": "Dizziness", "original_title": "\u3081\u307e\u3044", "slug_title": "dizziness", "date": "2001-07-16", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9IVBkbRW3UTbXwhQsicUKfwG3f.jpg", "actors": ["Megumi Kubo (Herself)", "Minori Takenaka (Herself)"], "comments": [], "recommandations_id": []}

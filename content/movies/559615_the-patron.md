@@ -1,0 +1,1 @@
+{"tmdb_id": 559615, "title": "The Patron", "original_title": "La patronne", "slug_title": "the-patron", "date": "1950-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrgCn06CiCPVBKfFv6674aRlu2M.jpg", "actors": [], "comments": [], "recommandations_id": []}

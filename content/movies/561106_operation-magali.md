@@ -1,0 +1,1 @@
+{"tmdb_id": 561106, "title": "Op\u00e9ration Magali", "original_title": "Op\u00e9ration Magali", "slug_title": "operation-magali", "date": "1953-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2TFLBpdP90thIjNfX5Pn8HerIpE.jpg", "actors": [], "comments": [], "recommandations_id": []}

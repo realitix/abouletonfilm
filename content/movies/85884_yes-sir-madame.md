@@ -1,0 +1,1 @@
+{"tmdb_id": 85884, "title": "Yes Sir! Madame...", "original_title": "Yes Sir! Madame...", "slug_title": "yes-sir-madame", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxNcU52hk28pl3i4zcpdjdOKXj0.jpg", "actors": ["Robert Morin (Earl Tremblay)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480533, "title": "Cortando os cabelo do macaquinho", "original_title": "Cortando os cabelo do macaquinho", "slug_title": "cortando-os-cabelo-do-macaquinho", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

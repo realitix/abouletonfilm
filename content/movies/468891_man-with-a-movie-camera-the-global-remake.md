@@ -1,0 +1,1 @@
+{"tmdb_id": 468891, "title": "Man with a Movie Camera: The Global Remake", "original_title": "Man with a Movie Camera: The Global Remake", "slug_title": "man-with-a-movie-camera-the-global-remake", "date": "2009-07-31", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

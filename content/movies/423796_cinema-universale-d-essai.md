@@ -1,0 +1,1 @@
+{"tmdb_id": 423796, "title": "Cinema Universale d'Essai", "original_title": "Cinema Universale d'Essai", "slug_title": "cinema-universale-d-essai", "date": "2008-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lw3EGSDkRU0tN2YLbE982NxQ0WC.jpg", "actors": [], "comments": [], "recommandations_id": []}

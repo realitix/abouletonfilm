@@ -1,0 +1,1 @@
+{"tmdb_id": 337058, "title": "The Roughnecks", "original_title": "The Roughnecks", "slug_title": "the-roughnecks", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJMO5U8JnY7RMHF0SBMMyi8cuAr.jpg", "actors": [], "comments": [], "recommandations_id": []}

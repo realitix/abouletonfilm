@@ -1,0 +1,1 @@
+{"tmdb_id": 190332, "title": "Permanent Wave", "original_title": "Permanent Wave", "slug_title": "permanent-wave", "date": "1929-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8NIYCs8GwGG7o0FfFj0Yr00vZN.jpg", "actors": [], "comments": [], "recommandations_id": []}

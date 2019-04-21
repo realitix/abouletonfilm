@@ -1,0 +1,1 @@
+{"tmdb_id": 274512, "title": "UB40: Rockpalast Live", "original_title": "UB40: Rockpalast Live", "slug_title": "ub40-rockpalast-live", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ii5dgqO8D1S69nWrWyTFcM4rJgy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349351, "title": "My Father and Mother", "original_title": "\ub0b4! \uc544\ubc14\ub514 \uc624\ub9c8\ub2c8", "slug_title": "my-father-and-mother", "date": "1997-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cho Eun-sook (Yeom Mi-ran)"], "comments": [], "recommandations_id": []}

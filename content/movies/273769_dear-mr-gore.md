@@ -1,0 +1,1 @@
+{"tmdb_id": 273769, "title": "Dear Mr. Gore", "original_title": "Dear Mr. Gore", "slug_title": "dear-mr-gore", "date": "2009-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

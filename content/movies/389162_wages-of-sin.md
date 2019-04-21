@@ -1,0 +1,1 @@
+{"tmdb_id": 389162, "title": "Wages of Sin", "original_title": "Wages of Sin", "slug_title": "wages-of-sin", "date": "2011-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katharine Everett ()", "Laurence Martin ()", "Travis Quentin Young ()"], "comments": [], "recommandations_id": []}

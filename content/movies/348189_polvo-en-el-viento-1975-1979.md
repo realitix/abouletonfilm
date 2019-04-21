@@ -1,0 +1,1 @@
+{"tmdb_id": 348189, "title": "Polvo en el viento (1975-1979)", "original_title": "Polvo en el viento (1975-1979)", "slug_title": "polvo-en-el-viento-1975-1979", "date": "1993-07-09", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Guzman (Narrator)"], "comments": [], "recommandations_id": []}

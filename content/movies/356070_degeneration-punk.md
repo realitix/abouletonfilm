@@ -1,0 +1,1 @@
+{"tmdb_id": 356070, "title": "Degeneration Punk", "original_title": "Degeneration Punk", "slug_title": "degeneration-punk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351517, "title": "Eat Me Kitty, Eight to the Bar", "original_title": "Eat Me Kitty, Eight to the Bar", "slug_title": "eat-me-kitty-eight-to-the-bar", "date": "1942-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312618, "title": "John Prine: Live on Soundstage 1980", "original_title": "John Prine: Live on Soundstage 1980", "slug_title": "john-prine-live-on-soundstage-1980", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

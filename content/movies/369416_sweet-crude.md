@@ -1,0 +1,1 @@
+{"tmdb_id": 369416, "title": "Sweet Crude", "original_title": "Sweet Crude", "slug_title": "sweet-crude", "date": "2009-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

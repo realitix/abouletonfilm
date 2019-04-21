@@ -1,0 +1,1 @@
+{"tmdb_id": 302271, "title": "Shap Mochan", "original_title": "Shap Mochan", "slug_title": "shap-mochan", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbqN4mGooOu0AqretxLnFi7HdB9.jpg", "actors": [], "comments": [], "recommandations_id": []}

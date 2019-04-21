@@ -1,0 +1,1 @@
+{"tmdb_id": 357354, "title": "New Power in Their Hands", "original_title": "New Power in Their Hands", "slug_title": "new-power-in-their-hands", "date": "1959-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ewan MacColl ()"], "comments": [], "recommandations_id": []}

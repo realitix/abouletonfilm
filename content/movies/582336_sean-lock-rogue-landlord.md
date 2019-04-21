@@ -1,0 +1,1 @@
+{"tmdb_id": 582336, "title": "Sean Lock: Rogue Landlord", "original_title": "Sean Lock: Rogue Landlord", "slug_title": "sean-lock-rogue-landlord", "date": "2011-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Lock ()", "Sally Bretton ()", "Oliver Chris ()"], "comments": [], "recommandations_id": []}

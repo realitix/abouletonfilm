@@ -1,0 +1,1 @@
+{"tmdb_id": 417593, "title": "Tunga \u2013 Registros", "original_title": "Tunga \u2013 Registros", "slug_title": "tunga-registros", "date": "2016-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

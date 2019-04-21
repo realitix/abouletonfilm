@@ -1,0 +1,1 @@
+{"tmdb_id": 414147, "title": "Summer Heat", "original_title": "Summer Heat", "slug_title": "summer-heat", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicole Avril ()", "Bob Garry ()", "Pat Pascal ()"], "comments": [], "recommandations_id": []}

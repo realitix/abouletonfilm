@@ -1,0 +1,1 @@
+{"tmdb_id": 410609, "title": "Telling Whoppers", "original_title": "Telling Whoppers", "slug_title": "telling-whoppers", "date": "1926-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Cobb (Joe)", "Jackie Condon (Jackie)", "Allen 'Farina' Hoskins (Farina)"], "comments": [], "recommandations_id": []}

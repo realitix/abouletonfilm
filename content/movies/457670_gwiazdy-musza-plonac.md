@@ -1,0 +1,1 @@
+{"tmdb_id": 457670, "title": "Gwiazdy musza plonac", "original_title": "Gwiazdy musza plonac", "slug_title": "gwiazdy-musza-plonac", "date": "", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

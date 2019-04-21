@@ -1,0 +1,1 @@
+{"tmdb_id": 541158, "title": "The old man and the studio", "original_title": "The old man and the studio", "slug_title": "the-old-man-and-the-studio", "date": "2004-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5YeChnXBE3DBpNAtNUJ8JS0gfDA.jpg", "actors": [], "comments": [], "recommandations_id": []}

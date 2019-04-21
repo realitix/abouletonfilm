@@ -1,0 +1,1 @@
+{"tmdb_id": 580012, "title": "Suite lacustre", "original_title": "Suite lacustre", "slug_title": "suite-lacustre", "date": "2019-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

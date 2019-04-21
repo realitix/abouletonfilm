@@ -1,0 +1,1 @@
+{"tmdb_id": 349960, "title": "\uae08\ub8e1 \uc0bc\uc2ed\uce60\uacc4", "original_title": "\uae08\ub8e1 \uc0bc\uc2ed\uce60\uacc4", "slug_title": "geumryong-samsibcilgye", "date": "1982-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

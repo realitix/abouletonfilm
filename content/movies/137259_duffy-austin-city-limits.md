@@ -1,0 +1,1 @@
+{"tmdb_id": 137259, "title": "Duffy - Austin City Limits", "original_title": "Duffy - Austin City Limits", "slug_title": "duffy-austin-city-limits", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqOqyZJX2e9lcox3kjNxPnwYoTa.jpg", "actors": [], "comments": [], "recommandations_id": []}

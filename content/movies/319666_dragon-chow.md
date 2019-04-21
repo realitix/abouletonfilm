@@ -1,0 +1,1 @@
+{"tmdb_id": 319666, "title": "Dragon Chow", "original_title": "Dragon Chow", "slug_title": "dragon-chow", "date": "1987-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

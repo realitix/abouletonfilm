@@ -1,0 +1,1 @@
+{"tmdb_id": 410834, "title": "Manifesto for Love", "original_title": "Manifesto for Love", "slug_title": "manifesto-for-love", "date": "2003-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArEBprg6oHEQtWFnmat4p0jbmrh.jpg", "actors": [], "comments": [], "recommandations_id": []}

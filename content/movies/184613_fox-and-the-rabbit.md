@@ -1,0 +1,1 @@
+{"tmdb_id": 184613, "title": "Fox and the Rabbit", "original_title": "Fox and the Rabbit", "slug_title": "fox-and-the-rabbit", "date": "1935-09-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xG9EKuYdw8ZZhd4UZHshvuDQwWV.jpg", "actors": [], "comments": [], "recommandations_id": []}

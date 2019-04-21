@@ -1,0 +1,1 @@
+{"tmdb_id": 291304, "title": "Knights and Emeralds", "original_title": "Knights and Emeralds", "slug_title": "knights-and-emeralds", "date": "1986-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

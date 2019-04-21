@@ -1,0 +1,1 @@
+{"tmdb_id": 547721, "title": "Fedya Zaytsev", "original_title": "Fedya Zaytsev", "slug_title": "fedya-zaytsev", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pC60ukaTfs8byUjuvphvQ859f5z.jpg", "actors": [], "comments": [], "recommandations_id": []}

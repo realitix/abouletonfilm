@@ -1,0 +1,1 @@
+{"tmdb_id": 303012, "title": "Jazz the Glass", "original_title": "Jazz the Glass", "slug_title": "jazz-the-glass", "date": "2014-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIWmGK5aQsbKlnw9hTewrKj3kii.jpg", "actors": [], "comments": [], "recommandations_id": []}

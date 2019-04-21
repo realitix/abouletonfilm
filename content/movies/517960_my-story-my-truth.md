@@ -1,0 +1,1 @@
+{"tmdb_id": 517960, "title": "My Story, My Truth", "original_title": "My Story, My Truth", "slug_title": "my-story-my-truth", "date": "2018-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

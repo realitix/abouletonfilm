@@ -1,0 +1,1 @@
+{"tmdb_id": 264936, "title": "Minne av tv\u00e5 m\u00e5ndagar", "original_title": "Minne av tv\u00e5 m\u00e5ndagar", "slug_title": "minne-av-tva-mandagar", "date": "1965-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leif Wager ()", "Ulf T\u00f6rnroth ()", "Gunvor Sandkvist ()"], "comments": [], "recommandations_id": []}

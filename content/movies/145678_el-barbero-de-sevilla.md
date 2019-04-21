@@ -1,0 +1,1 @@
+{"tmdb_id": 145678, "title": "El barbero de Sevilla", "original_title": "El barbero de Sevilla", "slug_title": "el-barbero-de-sevilla", "date": "1938-04-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vaZZVVqUCe6xxWSDYDJpsLsHRid.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458556, "title": "Brazil Jungle", "original_title": "Brazil Jungle", "slug_title": "brazil-jungle", "date": "2016-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlqgF1IneyspkEVLyLqUwVPOu89.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 483927, "title": "The Neon Rose", "original_title": "The Neon Rose", "slug_title": "the-neon-rose", "date": "1964-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

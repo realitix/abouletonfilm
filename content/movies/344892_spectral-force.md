@@ -1,0 +1,1 @@
+{"tmdb_id": 344892, "title": "Spectral Force", "original_title": "Spectral Force", "slug_title": "spectral-force", "date": "1998-11-25", "genre": "Action / Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7XLLvdMqDwfflS2TQhG9YfVebr.jpg", "actors": [], "comments": [], "recommandations_id": []}

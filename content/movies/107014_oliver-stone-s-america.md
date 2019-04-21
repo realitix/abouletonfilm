@@ -1,0 +1,1 @@
+{"tmdb_id": 107014, "title": "Oliver Stone's America", "original_title": "Oliver Stone's America", "slug_title": "oliver-stone-s-america", "date": "2004-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgjIPFjPtp27vkea0taZBvAKVTO.jpg", "actors": [], "comments": [], "recommandations_id": []}

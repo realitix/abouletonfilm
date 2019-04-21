@@ -1,0 +1,1 @@
+{"tmdb_id": 100283, "title": "iThemba", "original_title": "iThemba", "slug_title": "ithemba", "date": "2010-11-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xapisoIVBvM0J9SCBNmDCRpSXPG.jpg", "actors": [], "comments": [], "recommandations_id": []}

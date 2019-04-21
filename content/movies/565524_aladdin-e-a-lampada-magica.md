@@ -1,0 +1,1 @@
+{"tmdb_id": 565524, "title": "Aladdin e a L\u00e2mpada M\u00e1gica", "original_title": "Aladdin e a L\u00e2mpada M\u00e1gica", "slug_title": "aladdin-e-a-lampada-magica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cCmKfEf2jmZVKRi4TVB39I5r5Bt.jpg", "actors": [], "comments": [], "recommandations_id": []}

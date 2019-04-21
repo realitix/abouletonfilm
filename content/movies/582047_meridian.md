@@ -1,0 +1,1 @@
+{"tmdb_id": 582047, "title": "Meridian", "original_title": "Meridian", "slug_title": "meridian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581364, "title": "Cia Dita Corporn\u00f4", "original_title": "Cia Dita Corporn\u00f4", "slug_title": "cia-dita-corporno", "date": "2013-09-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/otvxRKMs44bVF19a8bCg0CdaVWg.jpg", "actors": ["Cia Dita ()"], "comments": [], "recommandations_id": []}

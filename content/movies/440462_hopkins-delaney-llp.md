@@ -1,0 +1,1 @@
+{"tmdb_id": 440462, "title": "Hopkins & Delaney LLP", "original_title": "Hopkins & Delaney LLP", "slug_title": "hopkins-delaney-llp", "date": "2015-04-18", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qxcndiYFPHIgEbxPNI0dh0poxUY.jpg", "actors": ["Chris Sullivan ()"], "comments": [], "recommandations_id": []}

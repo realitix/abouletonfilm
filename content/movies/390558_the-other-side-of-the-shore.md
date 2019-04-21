@@ -1,0 +1,1 @@
+{"tmdb_id": 390558, "title": "The Other Side of the Shore", "original_title": "The Other Side of the Shore", "slug_title": "the-other-side-of-the-shore", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

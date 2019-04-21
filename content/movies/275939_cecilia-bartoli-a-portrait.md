@@ -1,0 +1,1 @@
+{"tmdb_id": 275939, "title": "Cecilia Bartoli: A Portrait", "original_title": "Cecilia Bartoli: A Portrait", "slug_title": "cecilia-bartoli-a-portrait", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xsqM4Jr4ZnJNer0Ok785icRfQv.jpg", "actors": [], "comments": [], "recommandations_id": []}

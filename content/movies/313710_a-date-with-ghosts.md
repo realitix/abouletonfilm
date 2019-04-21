@@ -1,0 +1,1 @@
+{"tmdb_id": 313710, "title": "A Date With Ghosts", "original_title": "A Date With Ghosts", "slug_title": "a-date-with-ghosts", "date": "2015-01-20", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58hwR8mrWfFL9D6sNvQOeTBkOYo.jpg", "actors": [], "comments": [], "recommandations_id": []}

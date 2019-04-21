@@ -1,0 +1,1 @@
+{"tmdb_id": 305472, "title": "Suzanne", "original_title": "Suzanne", "slug_title": "suzanne", "date": "1916-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suzanne Grandais ()", "Marie-Louise Derval ()", "Jean Signoret ()"], "comments": [], "recommandations_id": []}

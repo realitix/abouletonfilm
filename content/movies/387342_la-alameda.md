@@ -1,0 +1,1 @@
+{"tmdb_id": 387342, "title": "La Alameda", "original_title": "La Alameda", "slug_title": "la-alameda", "date": "1978-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

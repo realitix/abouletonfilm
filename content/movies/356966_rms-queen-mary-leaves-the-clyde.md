@@ -1,0 +1,1 @@
+{"tmdb_id": 356966, "title": "RMS Queen Mary Leaves the Clyde", "original_title": "RMS Queen Mary Leaves the Clyde", "slug_title": "rms-queen-mary-leaves-the-clyde", "date": "1936-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 354715, "title": "Bus Stop", "original_title": "Bus Stop", "slug_title": "bus-stop", "date": "2015-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjz895pHqtP6BGLQFVhbpJOdt4T.jpg", "actors": ["Sam Underwood (Henry)", "Valorie Curry (Alexia)"], "comments": [], "recommandations_id": []}

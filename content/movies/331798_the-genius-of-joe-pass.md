@@ -1,0 +1,1 @@
+{"tmdb_id": 331798, "title": "The Genius of Joe Pass", "original_title": "The Genius of Joe Pass", "slug_title": "the-genius-of-joe-pass", "date": "2014-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJ1XmxNwBUiA51uqQKU1EAkiczb.jpg", "actors": [], "comments": [], "recommandations_id": []}

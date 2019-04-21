@@ -1,0 +1,1 @@
+{"tmdb_id": 423984, "title": "Sons of Shiva", "original_title": "Sons of Shiva", "slug_title": "sons-of-shiva", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xtwhzAFho2a69D07dG5neDjKk5G.jpg", "actors": [], "comments": [], "recommandations_id": []}

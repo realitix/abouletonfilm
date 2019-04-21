@@ -1,0 +1,1 @@
+{"tmdb_id": 309476, "title": "Dancing for Dollars", "original_title": "Dancing for Dollars", "slug_title": "dancing-for-dollars", "date": "2002-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byFbuIM4Q9QjSRaoRQbOrQyDlgV.jpg", "actors": [], "comments": [], "recommandations_id": []}

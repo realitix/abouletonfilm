@@ -1,0 +1,1 @@
+{"tmdb_id": 589954, "title": "Daughter of Nepal", "original_title": "Daughter of Nepal", "slug_title": "daughter-of-nepal", "date": "2018-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

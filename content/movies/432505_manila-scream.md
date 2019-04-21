@@ -1,0 +1,1 @@
+{"tmdb_id": 432505, "title": "Manila Scream", "original_title": "Manila Scream", "slug_title": "manila-scream", "date": "2016-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1fom26gMzyuoPeDy6VUeV5Cpur.jpg", "actors": [], "comments": [], "recommandations_id": []}

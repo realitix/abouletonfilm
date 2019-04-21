@@ -1,0 +1,1 @@
+{"tmdb_id": 566158, "title": "Waivers", "original_title": "Waivers", "slug_title": "waivers", "date": "2016-06-07", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cai Cortez (Janis)", "Aicelle Santos (Amy)"], "comments": [], "recommandations_id": []}

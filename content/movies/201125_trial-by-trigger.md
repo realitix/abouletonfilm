@@ -1,0 +1,1 @@
+{"tmdb_id": 201125, "title": "Trial by Trigger", "original_title": "Trial by Trigger", "slug_title": "trial-by-trigger", "date": "1944-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

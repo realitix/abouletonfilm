@@ -1,0 +1,1 @@
+{"tmdb_id": 194740, "title": "Bikini Destinations: Spring Break - Cancun", "original_title": "Bikini Destinations: Spring Break - Cancun", "slug_title": "bikini-destinations-spring-break-cancun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

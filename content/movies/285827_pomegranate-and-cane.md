@@ -1,0 +1,1 @@
+{"tmdb_id": 285827, "title": "Pomegranate and Cane", "original_title": "Nar-o-nay", "slug_title": "pomegranate-and-cane", "date": "1989-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jahangir Almasi ()", "Ali Asghar Garmsiri ()", "Rasul Najafian ()"], "comments": [], "recommandations_id": []}

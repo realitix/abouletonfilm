@@ -1,0 +1,1 @@
+{"tmdb_id": 446646, "title": "La isla de Rarotonga", "original_title": "La isla de Rarotonga", "slug_title": "la-isla-de-rarotonga", "date": "1982-05-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ra\u00fal Ram\u00edrez ()", "Princesa Lea ()", "Marcela Daviland ()", "Raul Marcelo ()"], "comments": [], "recommandations_id": []}

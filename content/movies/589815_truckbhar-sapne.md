@@ -1,0 +1,1 @@
+{"tmdb_id": 589815, "title": "Truckbhar Sapne", "original_title": "Truckbhar Sapne", "slug_title": "truckbhar-sapne", "date": "", "genre": "Drame / Familial", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Markand Deshpande (Raja)", "Aaditi Pohankar (Kajol)", "Mukesh Rishi (RK)", "Smita Tambe (Jyoti)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504485, "title": "\uc815\uc0ac : \uc9c8\ud22c\uc758 \ub36b - \uac10\ub3c5\ud310", "original_title": "\uc815\uc0ac : \uc9c8\ud22c\uc758 \ub36b - \uac10\ub3c5\ud310", "slug_title": "jeongsa-jiltuyi-deoc-gamdogpan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

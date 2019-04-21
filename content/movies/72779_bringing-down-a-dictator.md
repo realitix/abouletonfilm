@@ -1,0 +1,1 @@
+{"tmdb_id": 72779, "title": "Bringing Down a Dictator", "original_title": "Bringing Down a Dictator", "slug_title": "bringing-down-a-dictator", "date": "2002-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bsjwftNDzkDb4LckoEpXKge5Kl.jpg", "actors": ["Martin Sheen ()"], "comments": [], "recommandations_id": []}

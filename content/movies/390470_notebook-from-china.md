@@ -1,0 +1,1 @@
+{"tmdb_id": 390470, "title": "Notebook from China", "original_title": "Notater fra Kina", "slug_title": "notebook-from-china", "date": "1987-02-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7PCZf0VKSXl1hia8L3XwYeLuRgs.jpg", "actors": [], "comments": [], "recommandations_id": []}

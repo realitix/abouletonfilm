@@ -1,0 +1,1 @@
+{"tmdb_id": 469601, "title": "Donald's Greatest Hits", "original_title": "Donald's Greatest Hits", "slug_title": "donald-s-greatest-hits", "date": "1998-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kbtvFcGmuFRatEXHXbhViid9Qw.jpg", "actors": [], "comments": [], "recommandations_id": []}

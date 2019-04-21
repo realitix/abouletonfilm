@@ -1,0 +1,1 @@
+{"tmdb_id": 511038, "title": "Wizards", "original_title": "Garabonci\u00e1k", "slug_title": "wizards", "date": "1985-03-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3q8003o8ez0hRv1UjJ21FrWAZ7.jpg", "actors": ["Ferenc D\u00e1niel ()"], "comments": [], "recommandations_id": []}

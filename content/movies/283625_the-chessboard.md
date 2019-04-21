@@ -1,0 +1,1 @@
+{"tmdb_id": 283625, "title": "The Chessboard", "original_title": "Shimian maifu", "slug_title": "the-chessboard", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

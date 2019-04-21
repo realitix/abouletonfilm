@@ -1,0 +1,1 @@
+{"tmdb_id": 499847, "title": "Viz: Box Set", "original_title": "Viz: Box Set", "slug_title": "viz-box-set", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AqmQ7QDH0tmcJshtvBzg8OSo0O5.jpg", "actors": [], "comments": [], "recommandations_id": []}

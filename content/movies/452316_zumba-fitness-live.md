@@ -1,0 +1,1 @@
+{"tmdb_id": 452316, "title": "Zumba Fitness Live!", "original_title": "Zumba Fitness Live!", "slug_title": "zumba-fitness-live", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1DkQVm8qIO6pYs1CpBSzeAorV7c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 454373, "title": "Clepsydra", "original_title": "Clepsydra", "slug_title": "clepsydra", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLHqbIP7U9pxs9x8F8b1cKgteT3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310225, "title": "Billy Martin: The Man, the Myth, the Manager", "original_title": "Billy Martin: The Man, the Myth, the Manager", "slug_title": "billy-martin-the-man-the-myth-the-manager", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

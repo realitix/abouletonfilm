@@ -1,0 +1,1 @@
+{"tmdb_id": 220424, "title": "Mnemosyne", "original_title": "Mnemosyne", "slug_title": "mnemosyne", "date": "2010-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

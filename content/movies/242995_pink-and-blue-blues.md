@@ -1,0 +1,1 @@
+{"tmdb_id": 242995, "title": "Pink and Blue Blues", "original_title": "Pink and Blue Blues", "slug_title": "pink-and-blue-blues", "date": "1952-08-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogcGBWsbuVNOOuaFyLAMbSlEfnD.jpg", "actors": [], "comments": [], "recommandations_id": []}

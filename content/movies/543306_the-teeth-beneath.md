@@ -1,0 +1,1 @@
+{"tmdb_id": 543306, "title": "The Teeth Beneath", "original_title": "The Teeth Beneath", "slug_title": "the-teeth-beneath", "date": "2005-12-31", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

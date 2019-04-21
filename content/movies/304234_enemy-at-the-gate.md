@@ -1,0 +1,1 @@
+{"tmdb_id": 304234, "title": "Enemy at the Gate", "original_title": "Enemy at the Gate", "slug_title": "enemy-at-the-gate", "date": "2009-06-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

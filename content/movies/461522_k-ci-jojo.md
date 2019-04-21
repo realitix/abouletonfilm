@@ -1,0 +1,1 @@
+{"tmdb_id": 461522, "title": "K-Ci & JOJO", "original_title": "K-Ci & JOJO", "slug_title": "k-ci-jojo", "date": "2003-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aBg2wQ5mk82rlFfsA8RN4JZBZg.jpg", "actors": [], "comments": [], "recommandations_id": []}

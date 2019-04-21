@@ -1,0 +1,1 @@
+{"tmdb_id": 486679, "title": "Les Sentiers de la Memoire Chinoise", "original_title": "Les Sentiers de la Memoire Chinoise", "slug_title": "les-sentiers-de-la-memoire-chinoise", "date": "2014-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314077, "title": "A Finnish Fable 2011", "original_title": "A Finnish Fable 2011", "slug_title": "a-finnish-fable-2011", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

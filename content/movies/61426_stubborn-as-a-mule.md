@@ -1,0 +1,1 @@
+{"tmdb_id": 61426, "title": "Stubborn As A Mule", "original_title": "Stubborn As A Mule", "slug_title": "stubborn-as-a-mule", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pyuK6X0sNPLvt8SF4wrMya1nwCE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500377, "title": "The Hungry Grass", "original_title": "The Hungry Grass", "slug_title": "the-hungry-grass", "date": "1981-01-01", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Ev12wuXb2DoYZhUKvEhFiTIVMY.jpg", "actors": [], "comments": [], "recommandations_id": []}

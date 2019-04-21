@@ -1,0 +1,1 @@
+{"tmdb_id": 284635, "title": "Jolly Paupers", "original_title": "Freylikhe kabtsonim", "slug_title": "jolly-paupers", "date": "1937-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shimen Dzigan ()", "Ysrael Szumacher ()", "Jenna Lovic ()"], "comments": [], "recommandations_id": []}

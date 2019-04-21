@@ -1,0 +1,1 @@
+{"tmdb_id": 383374, "title": "Galo Sengen", "original_title": "GAL\u7537\u5ba3\u8a00", "slug_title": "galo-sengen", "date": "2011-01-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7lu8N1xPqRp99mXAJTS3qWBbFg7.jpg", "actors": [], "comments": [], "recommandations_id": []}

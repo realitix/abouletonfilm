@@ -1,0 +1,1 @@
+{"tmdb_id": 408676, "title": "Course de taureaux proven\u00e7ale", "original_title": "Course de taureaux proven\u00e7ale", "slug_title": "course-de-taureaux-provencale", "date": "1913-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

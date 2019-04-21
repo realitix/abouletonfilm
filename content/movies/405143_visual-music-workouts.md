@@ -1,0 +1,1 @@
+{"tmdb_id": 405143, "title": "Visual Music Workouts", "original_title": "Visual Music Workouts", "slug_title": "visual-music-workouts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8mFRfPgGf7qfVVVqC4HA51jsHQo.jpg", "actors": [], "comments": [], "recommandations_id": []}

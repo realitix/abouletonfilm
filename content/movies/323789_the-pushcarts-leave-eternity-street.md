@@ -1,0 +1,1 @@
+{"tmdb_id": 323789, "title": "The Pushcarts Leave Eternity Street", "original_title": "The Pushcarts Leave Eternity Street", "slug_title": "the-pushcarts-leave-eternity-street", "date": "2011-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 205485, "title": "Burma Victory", "original_title": "Burma Victory", "slug_title": "burma-victory", "date": "1946-06-16", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

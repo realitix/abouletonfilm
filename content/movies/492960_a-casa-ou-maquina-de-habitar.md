@@ -1,0 +1,1 @@
+{"tmdb_id": 492960, "title": "A Casa ou M\u00e1quina de Habitar", "original_title": "A Casa ou M\u00e1quina de Habitar", "slug_title": "a-casa-ou-maquina-de-habitar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5720zLzwtb2FsU9wFeAjAQK3wMs.jpg", "actors": [], "comments": [], "recommandations_id": []}

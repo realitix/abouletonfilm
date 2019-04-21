@@ -1,0 +1,1 @@
+{"tmdb_id": 562119, "title": "Ac\u00e1 y acull\u00e1", "original_title": "Ac\u00e1 y acull\u00e1", "slug_title": "aca-y-aculla", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QLuEeqrfbMHc8D7RvqbDwlV2EC.jpg", "actors": [], "comments": [], "recommandations_id": []}

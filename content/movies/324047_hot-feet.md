@@ -1,0 +1,1 @@
+{"tmdb_id": 324047, "title": "Hot Feet", "original_title": "Hot Feet", "slug_title": "hot-feet", "date": "1931-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mickey Rooney (Oswald the Lucky Rabbit (voice))"], "comments": [], "recommandations_id": []}

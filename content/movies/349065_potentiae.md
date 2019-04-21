@@ -1,0 +1,1 @@
+{"tmdb_id": 349065, "title": "Potentiae", "original_title": "Potentiae", "slug_title": "potentiae", "date": "2017-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qb2e5pGqe0JDtt4F0wDDcwtY8S.jpg", "actors": [], "comments": [], "recommandations_id": []}

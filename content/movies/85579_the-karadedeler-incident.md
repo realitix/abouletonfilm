@@ -1,0 +1,1 @@
+{"tmdb_id": 85579, "title": "The Karadedeler Incident", "original_title": "Karadedeler Olay\u0131", "slug_title": "the-karadedeler-incident", "date": "2011-09-16", "genre": "Horreur", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8vmtbv9BzRmKaXhbsSoJ4zK074L.jpg", "actors": [], "comments": [], "recommandations_id": []}

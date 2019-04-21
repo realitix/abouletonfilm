@@ -1,0 +1,1 @@
+{"tmdb_id": 207394, "title": "Ministry Of Sound: The Annual 2007", "original_title": "Ministry Of Sound: The Annual 2007", "slug_title": "ministry-of-sound-the-annual-2007", "date": "2006-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

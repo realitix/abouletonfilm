@@ -1,0 +1,1 @@
+{"tmdb_id": 415473, "title": "Banned in Oklahoma", "original_title": "Banned in Oklahoma", "slug_title": "banned-in-oklahoma", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xh3DhG5viVALacorxGNtmOVWyHg.jpg", "actors": [], "comments": [], "recommandations_id": []}

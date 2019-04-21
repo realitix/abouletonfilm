@@ -1,0 +1,1 @@
+{"tmdb_id": 310232, "title": "USS Bowfin: Pearl Harbor Avenger", "original_title": "USS Bowfin: Pearl Harbor Avenger", "slug_title": "uss-bowfin-pearl-harbor-avenger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

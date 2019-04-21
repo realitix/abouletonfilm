@@ -1,0 +1,1 @@
+{"tmdb_id": 582001, "title": "The Law of Moises", "original_title": "The Law of Moises", "slug_title": "the-law-of-moises", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oB42Ys2ymkQDed0pxzeF62Ue0WX.jpg", "actors": [], "comments": [], "recommandations_id": []}

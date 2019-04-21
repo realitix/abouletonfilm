@@ -1,0 +1,1 @@
+{"tmdb_id": 552847, "title": "TELEKINETIC PLEASURES", "original_title": "TELEKINETIC PLEASURES", "slug_title": "telekinetic-pleasures", "date": "2018-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

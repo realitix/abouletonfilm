@@ -1,0 +1,1 @@
+{"tmdb_id": 486743, "title": "The Second Shore", "original_title": "Den andra stranden", "slug_title": "the-second-shore", "date": "1993-04-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

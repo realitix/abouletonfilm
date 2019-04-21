@@ -1,0 +1,1 @@
+{"tmdb_id": 421362, "title": "Common Ground", "original_title": "\u039a\u03bf\u03b9\u03bd\u03cc\u03c2 \u03c4\u03cc\u03c0\u03bf\u03c2", "slug_title": "common-ground", "date": "2016-11-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Svetlana Lenova ()", "Yiannis Kalantzopoulos ()"], "comments": [], "recommandations_id": []}

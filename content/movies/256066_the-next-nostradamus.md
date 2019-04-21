@@ -1,0 +1,1 @@
+{"tmdb_id": 256066, "title": "The Next Nostradamus", "original_title": "The Next Nostradamus", "slug_title": "the-next-nostradamus", "date": "2008-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32ggkssRa6MLAanzs9E3dqbqbdX.jpg", "actors": [], "comments": [], "recommandations_id": []}

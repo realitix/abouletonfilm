@@ -1,0 +1,1 @@
+{"tmdb_id": 323350, "title": "Bad Brothas, Mean Muthas", "original_title": "Bad Brothas, Mean Muthas", "slug_title": "bad-brothas-mean-muthas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

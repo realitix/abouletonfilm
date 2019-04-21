@@ -1,0 +1,1 @@
+{"tmdb_id": 339723, "title": "Happy Beach", "original_title": "Happy Beach", "slug_title": "happy-beach", "date": "2015-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

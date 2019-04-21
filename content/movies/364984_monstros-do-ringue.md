@@ -1,0 +1,1 @@
+{"tmdb_id": 364984, "title": "Monstros do Ringue", "original_title": "Monstros do Ringue", "slug_title": "monstros-do-ringue", "date": "2015-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27bgIseXbo5ITW9TNF21DlvKk61.jpg", "actors": [], "comments": [], "recommandations_id": []}

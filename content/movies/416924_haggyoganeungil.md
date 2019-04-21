@@ -1,0 +1,1 @@
+{"tmdb_id": 416924, "title": "\ud559\uad50\uac00\ub294\uae38", "original_title": "\ud559\uad50\uac00\ub294\uae38", "slug_title": "haggyoganeungil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

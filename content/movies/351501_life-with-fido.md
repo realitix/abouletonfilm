@@ -1,0 +1,1 @@
+{"tmdb_id": 351501, "title": "Life with Fido", "original_title": "Life with Fido", "slug_title": "life-with-fido", "date": "1942-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

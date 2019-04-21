@@ -1,0 +1,1 @@
+{"tmdb_id": 260444, "title": "Paranthe Wali Gali", "original_title": "Paranthe Wali Gali", "slug_title": "paranthe-wali-gali", "date": "2014-01-17", "genre": "Romance / Drame", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fb8FJuMDF9aJ9vdEJhCQ1Y0ZIA.jpg", "actors": [], "comments": [], "recommandations_id": []}

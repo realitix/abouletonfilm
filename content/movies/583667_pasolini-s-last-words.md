@@ -1,0 +1,1 @@
+{"tmdb_id": 583667, "title": "Pasolini's Last Words", "original_title": "Pasolini's Last Words", "slug_title": "pasolini-s-last-words", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

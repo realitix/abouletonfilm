@@ -1,0 +1,1 @@
+{"tmdb_id": 421922, "title": "Rausch und Ruhm", "original_title": "Rausch und Ruhm", "slug_title": "rausch-und-ruhm", "date": "2004-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benjamin von Stuckrad-Barre (Himself)"], "comments": [], "recommandations_id": []}

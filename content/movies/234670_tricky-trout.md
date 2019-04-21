@@ -1,0 +1,1 @@
+{"tmdb_id": 234670, "title": "Tricky Trout", "original_title": "Tricky Trout", "slug_title": "tricky-trout", "date": "1961-09-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibT4xQcx4Yri8ZqZisEZ6F0aqjG.jpg", "actors": ["Paul Frees (Wally Walrus (voice))"], "comments": [], "recommandations_id": []}

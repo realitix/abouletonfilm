@@ -1,0 +1,1 @@
+{"tmdb_id": 313806, "title": "The Intern", "original_title": "El pasante", "slug_title": "the-intern", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiGQB0GEV3RO6jEweSR7okR9MGI.jpg", "actors": ["Ignacio Rogers ()", "Ana Scannapieco ()"], "comments": [], "recommandations_id": []}

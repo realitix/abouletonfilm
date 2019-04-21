@@ -1,0 +1,1 @@
+{"tmdb_id": 555867, "title": "El mayorazgo de Basterretxe", "original_title": "El mayorazgo de Basterretxe", "slug_title": "el-mayorazgo-de-basterretxe", "date": "1929-01-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eduardo Morata ()", "Orlando Villafranca ()"], "comments": [], "recommandations_id": []}

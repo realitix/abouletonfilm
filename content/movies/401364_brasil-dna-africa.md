@@ -1,0 +1,1 @@
+{"tmdb_id": 401364, "title": "Brasil DNA Africa", "original_title": "Brasil DNA Africa", "slug_title": "brasil-dna-africa", "date": "2016-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hO3iD4yINdoAA43r97i7JWqC9uA.jpg", "actors": [], "comments": [], "recommandations_id": []}

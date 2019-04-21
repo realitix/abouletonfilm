@@ -1,0 +1,1 @@
+{"tmdb_id": 423933, "title": "Blues Guitar for Dummies", "original_title": "Blues Guitar for Dummies", "slug_title": "blues-guitar-for-dummies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nevHwt3kcA91ND8qauV1hhLilSE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274642, "title": "UFO Abductions: A Global Phenomenon", "original_title": "UFO Abductions: A Global Phenomenon", "slug_title": "ufo-abductions-a-global-phenomenon", "date": "2005-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323755, "title": "Everyone Is Kung Fu Fighting Again", "original_title": "Everyone Is Kung Fu Fighting Again", "slug_title": "everyone-is-kung-fu-fighting-again", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

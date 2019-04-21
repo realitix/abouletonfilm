@@ -1,0 +1,1 @@
+{"tmdb_id": 471171, "title": "Under the Sign of Voodoo", "original_title": "Sous le signe du vaudou", "slug_title": "under-the-sign-of-voodoo", "date": "1974-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

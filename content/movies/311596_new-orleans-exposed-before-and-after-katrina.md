@@ -1,0 +1,1 @@
+{"tmdb_id": 311596, "title": "New Orleans Exposed: Before and After Katrina", "original_title": "New Orleans Exposed: Before and After Katrina", "slug_title": "new-orleans-exposed-before-and-after-katrina", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

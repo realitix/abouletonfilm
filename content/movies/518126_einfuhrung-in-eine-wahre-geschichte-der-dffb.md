@@ -1,0 +1,1 @@
+{"tmdb_id": 518126, "title": "Einf\u00fchrung in eine wahre Geschichte der DFFB", "original_title": "Einf\u00fchrung in eine wahre Geschichte der DFFB", "slug_title": "einfuhrung-in-eine-wahre-geschichte-der-dffb", "date": "2018-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 91952, "title": "Una Vida y Dos Mandados", "original_title": "Una Vida y Dos Mandados", "slug_title": "una-vida-y-dos-mandados", "date": "1997-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPYKyHRX0a4X5aLw3zXxTtsmRNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

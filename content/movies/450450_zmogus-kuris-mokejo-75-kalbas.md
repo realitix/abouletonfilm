@@ -1,0 +1,1 @@
+{"tmdb_id": 450450, "title": "\u017dmogus, kuris mok\u0117jo 75 kalbas", "original_title": "\u017dmogus, kuris mok\u0117jo 75 kalbas", "slug_title": "zmogus-kuris-mokejo-75-kalbas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Justas Valinskas (Georg Julius Justus Sauerwein)"], "comments": [], "recommandations_id": []}

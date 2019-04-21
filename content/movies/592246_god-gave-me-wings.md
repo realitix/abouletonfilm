@@ -1,0 +1,1 @@
+{"tmdb_id": 592246, "title": "God Gave Me Wings", "original_title": "God Gave Me Wings", "slug_title": "god-gave-me-wings", "date": "2014-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

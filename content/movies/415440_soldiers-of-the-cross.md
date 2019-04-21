@@ -1,0 +1,1 @@
+{"tmdb_id": 415440, "title": "Soldiers of the Cross", "original_title": "Soldiers of the Cross", "slug_title": "soldiers-of-the-cross", "date": "1900-09-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

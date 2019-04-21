@@ -1,0 +1,1 @@
+{"tmdb_id": 574228, "title": "YouShoot: Sean Waltman", "original_title": "YouShoot: Sean Waltman", "slug_title": "youshoot-sean-waltman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Sean Michael Waltman (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 577213, "title": "Amazonia", "original_title": "Amazonia", "slug_title": "amazonia", "date": "1990-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uamRod3Q8qHjXeOGyBKeG4Bvlq5.jpg", "actors": ["Dizzy Gillespie ((voice))"], "comments": [], "recommandations_id": []}

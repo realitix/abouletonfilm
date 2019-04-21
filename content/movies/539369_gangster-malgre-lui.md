@@ -1,0 +1,1 @@
+{"tmdb_id": 539369, "title": "Gangster malgr\u00e9 lui", "original_title": "Gangster malgr\u00e9 lui", "slug_title": "gangster-malgre-lui", "date": "1935-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 544485, "title": "Rua Guaicurus", "original_title": "Rua Guaicurus", "slug_title": "rua-guaicurus", "date": "2018-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZt1toSoMbgxh0TVr6Jq4f06wf9.jpg", "actors": [], "comments": [], "recommandations_id": []}

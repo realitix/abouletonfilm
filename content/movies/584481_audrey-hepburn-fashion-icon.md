@@ -1,0 +1,1 @@
+{"tmdb_id": 584481, "title": "Audrey Hepburn: Fashion Icon", "original_title": "Audrey Hepburn: Fashion Icon", "slug_title": "audrey-hepburn-fashion-icon", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

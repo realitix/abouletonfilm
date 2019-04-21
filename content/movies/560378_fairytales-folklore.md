@@ -1,0 +1,1 @@
+{"tmdb_id": 560378, "title": "Fairytales & Folklore", "original_title": "Fairytales & Folklore", "slug_title": "fairytales-folklore", "date": "2007-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Zipes ()"], "comments": [], "recommandations_id": []}

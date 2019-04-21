@@ -1,0 +1,1 @@
+{"tmdb_id": 212061, "title": "Sworn to Vengeance", "original_title": "Sworn to Vengeance", "slug_title": "sworn-to-vengeance", "date": "1993-03-22", "genre": "Drame / Thriller / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Conrad (Sergeant Stewart)", "William McNamara (Michael Burke)"], "comments": [], "recommandations_id": []}

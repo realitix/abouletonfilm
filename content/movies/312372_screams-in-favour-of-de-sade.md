@@ -1,0 +1,1 @@
+{"tmdb_id": 312372, "title": "Screams In Favour of De Sade", "original_title": "Screams In Favour of De Sade", "slug_title": "screams-in-favour-of-de-sade", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKT8ulhapFiBDMfas0KWiRX833V.jpg", "actors": [], "comments": [], "recommandations_id": []}

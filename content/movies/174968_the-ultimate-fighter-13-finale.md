@@ -1,0 +1,1 @@
+{"tmdb_id": 174968, "title": "The Ultimate Fighter 13 Finale", "original_title": "The Ultimate Fighter 13 Finale", "slug_title": "the-ultimate-fighter-13-finale", "date": "2011-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjkAasUj6VGXPhl9x7TjjykcABr.jpg", "actors": [], "comments": [], "recommandations_id": []}

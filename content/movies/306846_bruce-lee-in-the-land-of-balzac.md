@@ -1,0 +1,1 @@
+{"tmdb_id": 306846, "title": "Bruce Lee in the Land of Balzac", "original_title": "Bruce Lee in the Land of Balzac", "slug_title": "bruce-lee-in-the-land-of-balzac", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

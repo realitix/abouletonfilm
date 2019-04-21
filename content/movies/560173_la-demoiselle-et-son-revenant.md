@@ -1,0 +1,1 @@
+{"tmdb_id": 560173, "title": "La demoiselle et son revenant", "original_title": "La demoiselle et son revenant", "slug_title": "la-demoiselle-et-son-revenant", "date": "1952-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0iQqG6vvQLafQk49vRhpGqhFLJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 83225, "title": "Snow White", "original_title": "Branca de Neve", "slug_title": "snow-white", "date": "2000-09-04", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDdL3MsXmCQ8pc04j5y2FzuHvLp.jpg", "actors": [], "comments": [], "recommandations_id": []}

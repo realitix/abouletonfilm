@@ -1,0 +1,1 @@
+{"tmdb_id": 467923, "title": "A Certified Man", "original_title": "A Certified Man", "slug_title": "a-certified-man", "date": "2010-12-16", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Henry III (Dewey)", "Elissa Aron (Daisy)", "David Neal Levin (Insurance Agent)"], "comments": [], "recommandations_id": []}

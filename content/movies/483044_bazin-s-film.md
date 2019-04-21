@@ -1,0 +1,1 @@
+{"tmdb_id": 483044, "title": "Bazin's Film", "original_title": "Le film de Bazin", "slug_title": "bazin-s-film", "date": "2017-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iFOS025NJmUKZM1b7GNIJgb2Bx2.jpg", "actors": ["Michael Lonsdale (Narrator)"], "comments": [], "recommandations_id": []}

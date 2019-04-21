@@ -1,0 +1,1 @@
+{"tmdb_id": 111817, "title": "Putas o peluqueras", "original_title": "Putas o peluqueras", "slug_title": "putas-o-peluqueras", "date": "2012-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i66NhyqRF4Vh3T8u5qK1E4hhFEK.jpg", "actors": [], "comments": [], "recommandations_id": []}

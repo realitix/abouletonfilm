@@ -1,0 +1,1 @@
+{"tmdb_id": 323727, "title": "The Halloween Experience Volume 1", "original_title": "The Halloween Experience Volume 1", "slug_title": "the-halloween-experience-volume-1", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

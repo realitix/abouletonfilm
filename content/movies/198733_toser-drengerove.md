@@ -1,0 +1,1 @@
+{"tmdb_id": 198733, "title": "T\u00f8ser + Drenger\u00f8ve", "original_title": "T\u00f8ser + Drenger\u00f8ve", "slug_title": "toser-drengerove", "date": "1998-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UZPPSG7bbD7sfLXM38oGIhhEzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

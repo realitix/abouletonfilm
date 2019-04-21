@@ -1,0 +1,1 @@
+{"tmdb_id": 527049, "title": "9/11: After the Towers Fell", "original_title": "9/11: After the Towers Fell", "slug_title": "9-11-after-the-towers-fell", "date": "2010-09-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terry MacDonald (Himself - Narrator)"], "comments": [], "recommandations_id": []}

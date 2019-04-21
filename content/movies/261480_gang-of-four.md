@@ -1,0 +1,1 @@
+{"tmdb_id": 261480, "title": "Gang of Four", "original_title": "Si er ba", "slug_title": "gang-of-four", "date": "1978-01-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cheng Lui ()"], "comments": [], "recommandations_id": []}

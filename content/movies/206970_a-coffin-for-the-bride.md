@@ -1,0 +1,1 @@
+{"tmdb_id": 206970, "title": "A Coffin for the Bride", "original_title": "A Coffin for the Bride", "slug_title": "a-coffin-for-the-bride", "date": "1974-05-31", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3VQliEZaZ0rClJHds8Oo28HQrW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343879, "title": "My Day in the Barrel", "original_title": "My Day in the Barrel", "slug_title": "my-day-in-the-barrel", "date": "1998-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

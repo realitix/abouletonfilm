@@ -1,0 +1,1 @@
+{"tmdb_id": 272580, "title": "RasTa: A Soul's Journey", "original_title": "RasTa: A Soul's Journey", "slug_title": "rasta-a-soul-s-journey", "date": "2011-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/go3a9GsyM0WT8JtqDueLQYXCk9u.jpg", "actors": [], "comments": [], "recommandations_id": []}

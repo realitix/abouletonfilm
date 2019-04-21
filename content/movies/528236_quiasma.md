@@ -1,0 +1,1 @@
+{"tmdb_id": 528236, "title": "Quiasma", "original_title": "Quiasma", "slug_title": "quiasma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297703, "title": "Jim Dine: London", "original_title": "Jim Dine: London", "slug_title": "jim-dine-london", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Dine (Himself)"], "comments": [], "recommandations_id": []}

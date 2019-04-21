@@ -1,0 +1,1 @@
+{"tmdb_id": 141509, "title": "My Alaska", "original_title": "My Alaska", "slug_title": "my-alaska", "date": "2010-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

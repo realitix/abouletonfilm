@@ -1,0 +1,1 @@
+{"tmdb_id": 545619, "title": "\uc9c0\uc0c1\uc758 \uc591\uc2dd", "original_title": "\uc9c0\uc0c1\uc758 \uc591\uc2dd", "slug_title": "jisangyi-yangsig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

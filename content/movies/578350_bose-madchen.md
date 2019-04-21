@@ -1,0 +1,1 @@
+{"tmdb_id": 578350, "title": "B\u00f6se M\u00e4dchen", "original_title": "B\u00f6se M\u00e4dchen", "slug_title": "bose-madchen", "date": "1997-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRRi12uIHOyE8IZtwxmva5QBgdM.jpg", "actors": [], "comments": [], "recommandations_id": []}

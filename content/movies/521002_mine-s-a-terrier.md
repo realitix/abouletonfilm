@@ -1,0 +1,1 @@
+{"tmdb_id": 521002, "title": "Mine's a Terrier", "original_title": "Mine's a Terrier", "slug_title": "mine-s-a-terrier", "date": "1945-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Hession (Narrator)"], "comments": [], "recommandations_id": []}

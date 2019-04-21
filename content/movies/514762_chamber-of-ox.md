@@ -1,0 +1,1 @@
+{"tmdb_id": 514762, "title": "Chamber of Ox", "original_title": "Chamber of Ox", "slug_title": "chamber-of-ox", "date": "2014-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mads K. Baekkevold ()", "Dayal Gian Singh ()"], "comments": [], "recommandations_id": []}

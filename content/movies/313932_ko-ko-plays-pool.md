@@ -1,0 +1,1 @@
+{"tmdb_id": 313932, "title": "Ko-Ko Plays Pool", "original_title": "Ko-Ko Plays Pool", "slug_title": "ko-ko-plays-pool", "date": "1927-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

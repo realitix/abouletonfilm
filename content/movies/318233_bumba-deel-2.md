@@ -1,0 +1,1 @@
+{"tmdb_id": 318233, "title": "Bumba - Deel 2", "original_title": "Bumba - Deel 2", "slug_title": "bumba-deel-2", "date": "2005-09-08", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3KEjTLalLyho9yaQEYvo6L7623T.jpg", "actors": [], "comments": [], "recommandations_id": []}

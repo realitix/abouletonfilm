@@ -1,0 +1,1 @@
+{"tmdb_id": 343888, "title": "Sumo East and West", "original_title": "Sumo East and West", "slug_title": "sumo-east-and-west", "date": "2003-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqmy8tlhnrnEZadaiA6D3rmIjd.jpg", "actors": [], "comments": [], "recommandations_id": []}

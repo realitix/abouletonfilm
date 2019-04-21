@@ -1,0 +1,1 @@
+{"tmdb_id": 412884, "title": "Black Women in Medicine", "original_title": "Black Women in Medicine", "slug_title": "black-women-in-medicine", "date": "2016-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5s4xX3CBMmWmZaoYN9vqGSGESYb.jpg", "actors": [], "comments": [], "recommandations_id": []}

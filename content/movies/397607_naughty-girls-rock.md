@@ -1,0 +1,1 @@
+{"tmdb_id": 397607, "title": "Naughty Girls Rock", "original_title": "Naughty Girls Rock", "slug_title": "naughty-girls-rock", "date": "2008-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

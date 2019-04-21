@@ -1,0 +1,1 @@
+{"tmdb_id": 483326, "title": "\u9707\u3048\u3066\u7720\u308c", "original_title": "\u9707\u3048\u3066\u7720\u308c", "slug_title": "zhen-etemian-re", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

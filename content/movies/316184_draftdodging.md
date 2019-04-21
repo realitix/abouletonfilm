@@ -1,0 +1,1 @@
+{"tmdb_id": 316184, "title": "Draftdodging", "original_title": "Draftdodging", "slug_title": "draftdodging", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

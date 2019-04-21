@@ -1,0 +1,1 @@
+{"tmdb_id": 314747, "title": "Chucho Valdes: Latin Jazz Founders", "original_title": "Chucho Valdes: Latin Jazz Founders", "slug_title": "chucho-valdes-latin-jazz-founders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

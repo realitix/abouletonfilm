@@ -1,0 +1,1 @@
+{"tmdb_id": 246001, "title": "The Story of John Wayne", "original_title": "The Story of John Wayne", "slug_title": "the-story-of-john-wayne", "date": "2011-08-24", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubFK6tIeXY3NdXeI9yOSB6A63PX.jpg", "actors": [], "comments": [], "recommandations_id": []}

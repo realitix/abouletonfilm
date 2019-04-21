@@ -1,0 +1,1 @@
+{"tmdb_id": 435336, "title": "Hollywood on Fire", "original_title": "Hollywood on Fire", "slug_title": "hollywood-on-fire", "date": "2009-02-25", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jane Russell (Herself)", "Pat Boone (Himself)"], "comments": [], "recommandations_id": []}

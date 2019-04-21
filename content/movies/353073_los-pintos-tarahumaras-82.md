@@ -1,0 +1,1 @@
+{"tmdb_id": 353073, "title": "Los Pintos - Tarahumaras 82", "original_title": "Los Pintos - Tarahumaras 82", "slug_title": "los-pintos-tarahumaras-82", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijmqtefYPuztnUkLJ7gESccBnTp.jpg", "actors": [], "comments": [], "recommandations_id": []}

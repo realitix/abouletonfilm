@@ -1,0 +1,1 @@
+{"tmdb_id": 508715, "title": "L'Art d'exposer", "original_title": "L'Art d'exposer", "slug_title": "l-art-d-exposer", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

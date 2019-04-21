@@ -1,0 +1,1 @@
+{"tmdb_id": 353498, "title": "Ypres - The Shell-Shattered City of Flanders", "original_title": "Ypres - The Shell-Shattered City of Flanders", "slug_title": "ypres-the-shell-shattered-city-of-flanders", "date": "1918-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

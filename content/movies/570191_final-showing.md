@@ -1,0 +1,1 @@
+{"tmdb_id": 570191, "title": "Final Showing", "original_title": "Final Showing", "slug_title": "final-showing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susan Sheridan (Professor McMillan)", "Robert Waters (Robert)", "James Holmes (Doughnut Man)"], "comments": [], "recommandations_id": []}

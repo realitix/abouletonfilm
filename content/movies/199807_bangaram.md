@@ -1,0 +1,1 @@
+{"tmdb_id": 199807, "title": "Bangaram", "original_title": "Bangaram", "slug_title": "bangaram", "date": "2006-05-03", "genre": "Action / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvsUYJjzfAn2f9IZTZP1c9HXTMB.jpg", "actors": ["Pawan Kalyan (Bangaram)", "Meera Chopra (Sandhya)"], "comments": [], "recommandations_id": []}

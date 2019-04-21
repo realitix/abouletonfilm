@@ -1,0 +1,1 @@
+{"tmdb_id": 500956, "title": "Akin ka magdusa man ako", "original_title": "Akin ka magdusa man ako", "slug_title": "akin-ka-magdusa-man-ako", "date": "1993-01-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aga Muhlach ()", "Eric Quizon ()", "Rita Avila ()"], "comments": [], "recommandations_id": []}

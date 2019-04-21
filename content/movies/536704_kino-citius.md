@@ -1,0 +1,1 @@
+{"tmdb_id": 536704, "title": "Kino Citius", "original_title": "Spacer", "slug_title": "kino-citius", "date": "2004-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

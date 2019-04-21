@@ -1,0 +1,1 @@
+{"tmdb_id": 360749, "title": "The Man Next Door", "original_title": "Tonari no Yaro", "slug_title": "the-man-next-door", "date": "1965-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nG1w5nnk24iFxWccqXy6mwUcAYX.jpg", "actors": [], "comments": [], "recommandations_id": []}

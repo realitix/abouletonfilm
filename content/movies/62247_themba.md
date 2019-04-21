@@ -1,0 +1,1 @@
+{"tmdb_id": 62247, "title": "Themba", "original_title": "Themba", "slug_title": "themba", "date": "2010-08-05", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVlYNxW5oxiOKU8fLN2cwpF0247.jpg", "actors": [], "comments": [], "recommandations_id": []}

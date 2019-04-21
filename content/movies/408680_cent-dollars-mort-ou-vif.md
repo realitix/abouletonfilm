@@ -1,0 +1,1 @@
+{"tmdb_id": 408680, "title": "Cent Dollars mort ou vif", "original_title": "Cent Dollars mort ou vif", "slug_title": "cent-dollars-mort-ou-vif", "date": "1912-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

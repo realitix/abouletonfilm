@@ -1,0 +1,1 @@
+{"tmdb_id": 240240, "title": "Pompiers: mise en batterie", "original_title": "Pompiers: mise en batterie", "slug_title": "pompiers-mise-en-batterie", "date": "1896-10-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

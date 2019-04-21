@@ -1,0 +1,1 @@
+{"tmdb_id": 507829, "title": "Stiff Luv", "original_title": "Stiff Luv", "slug_title": "stiff-luv", "date": "2008-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tWWO5XQWgCxWEIBkb5Fs1vzzy0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 85069, "title": "David and Goliath", "original_title": "David and Goliath", "slug_title": "david-and-goliath", "date": "1995-01-01", "genre": "Animation / Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vX7oCfEcrKTCiCktOY706Zx8uqg.jpg", "actors": [], "comments": [], "recommandations_id": []}

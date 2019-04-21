@@ -1,0 +1,1 @@
+{"tmdb_id": 397022, "title": "The Inventor", "original_title": "L'inventeur", "slug_title": "the-inventor", "date": "1911-05-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

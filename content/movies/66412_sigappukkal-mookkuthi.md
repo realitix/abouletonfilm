@@ -1,0 +1,1 @@
+{"tmdb_id": 66412, "title": "Sigappukkal Mookkuthi", "original_title": "Sigappukkal Mookkuthi", "slug_title": "sigappukkal-mookkuthi", "date": "1979-11-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal Haasan ()", "Sridevi ()", "Thengai Srinivasan ()"], "comments": [], "recommandations_id": []}

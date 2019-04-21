@@ -1,0 +1,1 @@
+{"tmdb_id": 578210, "title": "Kral \u015eakir: Oyun Zaman\u0131", "original_title": "Kral \u015eakir: Oyun Zaman\u0131", "slug_title": "kral-sakir-oyun-zamani", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1DbPfL5yRDYaTU3ekt3PexrwbJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

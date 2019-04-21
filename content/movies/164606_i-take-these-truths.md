@@ -1,0 +1,1 @@
+{"tmdb_id": 164606, "title": "I Take These Truths", "original_title": "I Take These Truths", "slug_title": "i-take-these-truths", "date": "1995-01-01", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40duCxitoApeMBupnhYAoZjewHO.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 262854, 152973]}

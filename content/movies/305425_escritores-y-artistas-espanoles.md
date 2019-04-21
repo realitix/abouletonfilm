@@ -1,0 +1,1 @@
+{"tmdb_id": 305425, "title": "Escritores y artistas espa\u00f1oles", "original_title": "Escritores y artistas espa\u00f1oles", "slug_title": "escritores-y-artistas-espanoles", "date": "1920-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

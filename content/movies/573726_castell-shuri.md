@@ -1,0 +1,1 @@
+{"tmdb_id": 573726, "title": "Castell Shuri", "original_title": "Castell Shuri", "slug_title": "castell-shuri", "date": "2019-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZe7gJDba7yrlYunkmDmEWx2Ewz.jpg", "actors": [], "comments": [], "recommandations_id": []}

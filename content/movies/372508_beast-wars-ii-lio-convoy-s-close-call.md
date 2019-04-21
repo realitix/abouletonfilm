@@ -1,0 +1,1 @@
+{"tmdb_id": 372508, "title": "Beast Wars II: Lio Convoy's Close Call!", "original_title": "Beast Wars II: Lio Convoy's Close Call!", "slug_title": "beast-wars-ii-lio-convoy-s-close-call", "date": "1998-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

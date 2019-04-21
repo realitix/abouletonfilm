@@ -1,0 +1,1 @@
+{"tmdb_id": 407382, "title": "The Ghost and Us", "original_title": "The Ghost and Us", "slug_title": "the-ghost-and-us", "date": "2009-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tePOZQ0MCwuWRfTHa7u7zNlUZAF.jpg", "actors": [], "comments": [], "recommandations_id": []}

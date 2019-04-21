@@ -1,0 +1,1 @@
+{"tmdb_id": 334053, "title": "Balaton Method", "original_title": "Balaton Method", "slug_title": "balaton-method", "date": "2015-02-26", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6b7t0X1VudskgydiFjEqWNXrlZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

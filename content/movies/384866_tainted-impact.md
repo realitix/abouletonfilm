@@ -1,0 +1,1 @@
+{"tmdb_id": 384866, "title": "Tainted Impact", "original_title": "Tainted Impact", "slug_title": "tainted-impact", "date": "2013-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b70j7W6byhzGTBuqu3eA85ocpeT.jpg", "actors": [], "comments": [], "recommandations_id": []}

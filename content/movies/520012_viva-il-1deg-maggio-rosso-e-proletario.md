@@ -1,0 +1,1 @@
+{"tmdb_id": 520012, "title": "Viva il 1\u00b0 maggio rosso e proletario", "original_title": "Viva il 1\u00b0 maggio rosso e proletario", "slug_title": "viva-il-1deg-maggio-rosso-e-proletario", "date": "1969-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

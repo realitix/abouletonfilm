@@ -1,0 +1,1 @@
+{"tmdb_id": 389298, "title": "Puccini", "original_title": "Puccini", "slug_title": "puccini", "date": "1984-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Stephens (Giacomo Puccini)", "Virginia McKenna (Elvira)", "Judith Howarth (Doria / Liu)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477758, "title": "Son of Tor", "original_title": "Son of Tor", "slug_title": "son-of-tor", "date": "1964-05-17", "genre": "Aventure / Animation / Science-Fiction", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m8xzL37EGegE6pUu2iHTwsgcvOw.jpg", "actors": [], "comments": [], "recommandations_id": []}

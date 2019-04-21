@@ -1,0 +1,1 @@
+{"tmdb_id": 290635, "title": "Manual Labor", "original_title": "Manual Labor", "slug_title": "manual-labor", "date": "2002-07-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eyal Podell (Charles)", "Lia Johnson (Sarah)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593415, "title": "La Fabbrica delle Rivoluzioni", "original_title": "La Fabbrica delle Rivoluzioni", "slug_title": "la-fabbrica-delle-rivoluzioni", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

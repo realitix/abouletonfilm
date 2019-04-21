@@ -1,0 +1,1 @@
+{"tmdb_id": 472771, "title": "ADMIRIMIRITI", "original_title": "ADMIRIMIRITI", "slug_title": "admirimiriti", "date": "2005-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iEl4aURi7RBTQoPqmqVwu2hB10r.jpg", "actors": [], "comments": [], "recommandations_id": []}

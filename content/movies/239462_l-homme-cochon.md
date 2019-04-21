@@ -1,0 +1,1 @@
+{"tmdb_id": 239462, "title": "L'Homme-cochon", "original_title": "L'Homme-cochon", "slug_title": "l-homme-cochon", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 519391, "title": "Memoria de um Dia", "original_title": "Memoria de um Dia", "slug_title": "memoria-de-um-dia", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

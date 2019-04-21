@@ -1,0 +1,1 @@
+{"tmdb_id": 462149, "title": "Vietnam Requiem", "original_title": "Vietnam Requiem", "slug_title": "vietnam-requiem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hF2tHTgPchmq3LWfRVw8XPwmrtg.jpg", "actors": [], "comments": [], "recommandations_id": []}

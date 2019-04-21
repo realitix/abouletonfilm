@@ -1,0 +1,1 @@
+{"tmdb_id": 506074, "title": "Crazy Richard", "original_title": "Crazy Richard", "slug_title": "crazy-richard", "date": "2002-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4DbxTwmbI06BY5eITK3Wq3C0pQg.jpg", "actors": [], "comments": [], "recommandations_id": []}

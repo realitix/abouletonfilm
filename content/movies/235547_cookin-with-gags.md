@@ -1,0 +1,1 @@
+{"tmdb_id": 235547, "title": "Cookin' with Gags", "original_title": "Cookin' with Gags", "slug_title": "cookin-with-gags", "date": "1955-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0KsRK6ueWqLHclGbOepeVNLYVl.jpg", "actors": [], "comments": [], "recommandations_id": []}

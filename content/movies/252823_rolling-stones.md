@@ -1,0 +1,1 @@
+{"tmdb_id": 252823, "title": "Rolling Stones", "original_title": "Rolling Stones", "slug_title": "rolling-stones", "date": "1936-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

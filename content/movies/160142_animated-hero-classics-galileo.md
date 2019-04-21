@@ -1,0 +1,1 @@
+{"tmdb_id": 160142, "title": "Animated Hero Classics: Galileo", "original_title": "Animated Hero Classics: Galileo", "slug_title": "animated-hero-classics-galileo", "date": "1997-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3PScvOBb9pvUsS0ZtCBf6oXHD4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284107, "title": "Strikes and occupations", "original_title": "Greves d'occupation", "slug_title": "strikes-and-occupations", "date": "1936-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

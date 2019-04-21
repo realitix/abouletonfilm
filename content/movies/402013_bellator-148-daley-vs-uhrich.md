@@ -1,0 +1,1 @@
+{"tmdb_id": 402013, "title": "Bellator 148: Daley vs. Uhrich", "original_title": "Bellator 148: Daley vs. Uhrich", "slug_title": "bellator-148-daley-vs-uhrich", "date": "2016-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnw4pyK6eItt6ryAJNygAAq3NIs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 568079, "title": "EN SHAMBL\u00c9", "original_title": "EN SHAMBL\u00c9", "slug_title": "en-shamble", "date": "2018-02-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32KZle8WqjBze5yObFNFUhA1ZH8.jpg", "actors": ["CRVMBS (himself)"], "comments": [], "recommandations_id": []}

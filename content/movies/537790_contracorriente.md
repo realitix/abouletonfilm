@@ -1,0 +1,1 @@
+{"tmdb_id": 537790, "title": "Contracorriente", "original_title": "Contracorriente", "slug_title": "contracorriente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7rS4BBkUGVXbz6r5vw3839YJrHl.jpg", "actors": ["Fiona ()"], "comments": [], "recommandations_id": []}

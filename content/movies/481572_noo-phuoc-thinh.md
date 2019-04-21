@@ -1,0 +1,1 @@
+{"tmdb_id": 481572, "title": "NOO PH\u01af\u1edaC TH\u1ecaNH", "original_title": "NOO PH\u01af\u1edaC TH\u1ecaNH", "slug_title": "noo-phuoc-thinh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

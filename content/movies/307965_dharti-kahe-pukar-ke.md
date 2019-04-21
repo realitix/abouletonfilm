@@ -1,0 +1,1 @@
+{"tmdb_id": 307965, "title": "Dharti Kahe Pukar Ke", "original_title": "Dharti Kahe Pukar Ke", "slug_title": "dharti-kahe-pukar-ke", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

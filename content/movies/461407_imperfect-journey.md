@@ -1,0 +1,1 @@
+{"tmdb_id": 461407, "title": "Imperfect Journey", "original_title": "Imperfect Journey", "slug_title": "imperfect-journey", "date": "1994-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Haile Gerima ()", "Ryszard Kapu\u015bci\u0144ski ()"], "comments": [], "recommandations_id": []}

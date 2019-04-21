@@ -1,0 +1,1 @@
+{"tmdb_id": 593618, "title": "Groovie Movie", "original_title": "Groovie Movie", "slug_title": "groovie-movie", "date": "1944-02-19", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)"], "comments": [], "recommandations_id": []}

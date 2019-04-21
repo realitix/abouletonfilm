@@ -1,0 +1,1 @@
+{"tmdb_id": 285234, "title": "Miss Julie", "original_title": "Fr\u00f6ken Julie", "slug_title": "miss-julie", "date": "1912-01-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manda Bj\u00f6rling (Julie)", "August Falck (Jean)", "Karin Alexandersson (Kristin)"], "comments": [], "recommandations_id": []}

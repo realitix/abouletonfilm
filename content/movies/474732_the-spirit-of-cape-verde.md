@@ -1,0 +1,1 @@
+{"tmdb_id": 474732, "title": "The Spirit of Cape Verde", "original_title": "Espirito de Cabo Verde", "slug_title": "the-spirit-of-cape-verde", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

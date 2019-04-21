@@ -1,0 +1,1 @@
+{"tmdb_id": 440099, "title": "City of the Sun", "original_title": "Mzis qalaqi", "slug_title": "city-of-the-sun", "date": "2017-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jFSse90E2kYlBEo0yELp4TkO5nl.jpg", "actors": [], "comments": [], "recommandations_id": []}

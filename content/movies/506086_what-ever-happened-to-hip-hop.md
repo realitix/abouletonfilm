@@ -1,0 +1,1 @@
+{"tmdb_id": 506086, "title": "What Ever Happened to Hip Hop?", "original_title": "What Ever Happened to Hip Hop?", "slug_title": "what-ever-happened-to-hip-hop", "date": "2009-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/na8z21eGRrGLtMPCfdsL0fiETHt.jpg", "actors": [], "comments": [], "recommandations_id": []}

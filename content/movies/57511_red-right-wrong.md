@@ -1,0 +1,1 @@
+{"tmdb_id": 57511, "title": "Red,Right,Wrong", "original_title": "Red,Right,Wrong", "slug_title": "red-right-wrong", "date": "2009-09-15", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ken Daneyko (Kenny)", "Raw Leiba (The Dragon)", "A.J. Pero (Billy)", "Antonio Saillant (Nico)"], "comments": [], "recommandations_id": []}

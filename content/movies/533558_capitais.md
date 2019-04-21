@@ -1,0 +1,1 @@
+{"tmdb_id": 533558, "title": "Capitais", "original_title": "Capitais", "slug_title": "capitais", "date": "2018-08-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYDX6lBIqoIGwlCCQMbp94NeFes.jpg", "actors": ["B\u00e1rbara Sena (Alice)", "Kamilla Medeiros (Laura)"], "comments": [], "recommandations_id": []}

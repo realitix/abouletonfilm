@@ -1,0 +1,1 @@
+{"tmdb_id": 557241, "title": "Captain Khan", "original_title": "Captain Khan", "slug_title": "captain-khan", "date": "", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFVUJL7FtiPlfSPhnnmdl7SFoeA.jpg", "actors": [], "comments": [], "recommandations_id": []}

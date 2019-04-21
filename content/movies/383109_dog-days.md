@@ -1,0 +1,1 @@
+{"tmdb_id": 383109, "title": "Dog Days", "original_title": "\u4e09\u4f0f\u5929", "slug_title": "dog-days", "date": "2018-03-30", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AeYwFIhdDj8jUHKI1sbuzYekvoD.jpg", "actors": ["Huang Lu ()", "Luo Lanshan ()"], "comments": [], "recommandations_id": []}

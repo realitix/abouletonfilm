@@ -1,0 +1,1 @@
+{"tmdb_id": 310402, "title": "The Short Stack: Vol. 4", "original_title": "The Short Stack: Vol. 4", "slug_title": "the-short-stack-vol-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

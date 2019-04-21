@@ -1,0 +1,1 @@
+{"tmdb_id": 194574, "title": "Sortie de la pompe", "original_title": "Sortie de la pompe", "slug_title": "sortie-de-la-pompe", "date": "1896-10-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wy7iYp1fZu18cZyQoAPqmCgr8io.jpg", "actors": [], "comments": [], "recommandations_id": []}

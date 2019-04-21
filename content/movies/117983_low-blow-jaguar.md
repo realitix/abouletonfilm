@@ -1,0 +1,1 @@
+{"tmdb_id": 117983, "title": "Low Blow Jaguar", "original_title": "Py\u00fb to fuku! Jag\u00e2 za m\u00fbb\u00ee", "slug_title": "low-blow-jaguar", "date": "2008-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6Y1bJ97PK0hh4SBe0ylzzsaw79.jpg", "actors": [], "comments": [], "recommandations_id": []}

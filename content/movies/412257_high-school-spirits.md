@@ -1,0 +1,1 @@
+{"tmdb_id": 412257, "title": "High School Spirits", "original_title": "High School Spirits", "slug_title": "high-school-spirits", "date": "1986-04-05", "genre": "Com\u00e9die / Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjSTCiwvj7CYsHyCLLWguRhuOrU.jpg", "actors": [], "comments": [], "recommandations_id": []}

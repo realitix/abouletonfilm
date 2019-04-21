@@ -1,0 +1,1 @@
+{"tmdb_id": 190536, "title": "Organchik", "original_title": "\u041e\u0440\u0433\u0430\u043d\u0447\u0438\u043a", "slug_title": "organchik", "date": "1933-05-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85rSdVpFLeTqZol2BiSSY5ADoPO.jpg", "actors": [], "comments": [], "recommandations_id": []}

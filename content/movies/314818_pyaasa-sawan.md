@@ -1,0 +1,1 @@
+{"tmdb_id": 314818, "title": "Pyaasa Sawan", "original_title": "Pyaasa Sawan", "slug_title": "pyaasa-sawan", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44n3DlGmiSlui2BEirEZokhTosz.jpg", "actors": [], "comments": [], "recommandations_id": []}

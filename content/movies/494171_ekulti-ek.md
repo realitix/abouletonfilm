@@ -1,0 +1,1 @@
+{"tmdb_id": 494171, "title": "Ekulti Ek", "original_title": "Ekulti Ek", "slug_title": "ekulti-ek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344439, "title": "O Novo Pal\u00e1cio da C\u00e2mara dos Deputados", "original_title": "O Novo Pal\u00e1cio da C\u00e2mara dos Deputados", "slug_title": "o-novo-palacio-da-camara-dos-deputados", "date": "1926-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

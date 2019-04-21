@@ -1,0 +1,1 @@
+{"tmdb_id": 316655, "title": "Modern Drummer: Festival Weekend 1997", "original_title": "Modern Drummer: Festival Weekend 1997", "slug_title": "modern-drummer-festival-weekend-1997", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

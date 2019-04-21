@@ -1,0 +1,1 @@
+{"tmdb_id": 75099, "title": "Oskar Fischinger Ten Films", "original_title": "Oskar Fischinger Ten Films", "slug_title": "oskar-fischinger-ten-films", "date": "1947-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2EBOk4Vq7FIzNpqWkLYYNOlkNx.jpg", "actors": [], "comments": [], "recommandations_id": []}

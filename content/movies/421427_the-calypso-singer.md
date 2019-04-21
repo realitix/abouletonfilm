@@ -1,0 +1,1 @@
+{"tmdb_id": 421427, "title": "The Calypso Singer", "original_title": "The Calypso Singer", "slug_title": "the-calypso-singer", "date": "1967-09-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

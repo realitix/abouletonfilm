@@ -1,0 +1,1 @@
+{"tmdb_id": 279194, "title": "Mirrorball", "original_title": "Mirrorball", "slug_title": "mirrorball", "date": "2012-08-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hayley Burton (Herself)", "Peter Rosini (Himself)", "Catherine Senior (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350033, "title": "Of God and Dogs", "original_title": "Of God and Dogs", "slug_title": "of-god-and-dogs", "date": "2015-01-18", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

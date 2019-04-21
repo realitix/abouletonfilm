@@ -1,0 +1,1 @@
+{"tmdb_id": 534729, "title": "Lovesick", "original_title": "Lovesick", "slug_title": "lovesick", "date": "2018-08-01", "genre": "Science-Fiction / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utZYaCRzCZu74GOzlT0nLVXgUrm.jpg", "actors": ["Cassandra Sechler ()"], "comments": [], "recommandations_id": []}

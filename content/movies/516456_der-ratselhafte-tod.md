@@ -1,0 +1,1 @@
+{"tmdb_id": 516456, "title": "Der r\u00e4tselhafte Tod", "original_title": "Der r\u00e4tselhafte Tod", "slug_title": "der-ratselhafte-tod", "date": "1921-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theodor Loos ()", "Hermann Picha ()"], "comments": [], "recommandations_id": []}

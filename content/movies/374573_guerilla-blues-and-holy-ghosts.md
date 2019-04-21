@@ -1,0 +1,1 @@
+{"tmdb_id": 374573, "title": "Guerilla Blues and Holy Ghosts", "original_title": "Guerilla Blues and Holy Ghosts", "slug_title": "guerilla-blues-and-holy-ghosts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

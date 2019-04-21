@@ -1,0 +1,1 @@
+{"tmdb_id": 533280, "title": "Erik and Sigvard: A year in Sm\u00e5land", "original_title": "Erik och Sigvard: Ett \u00e5r i Sm\u00e5land", "slug_title": "erik-and-sigvard-a-year-in-smaland", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

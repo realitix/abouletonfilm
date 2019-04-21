@@ -1,0 +1,1 @@
+{"tmdb_id": 168403, "title": "The Search for Emak Bakia", "original_title": "Emak Bakia baita", "slug_title": "the-search-for-emak-bakia", "date": "2012-04-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVx030S4mef3Iczsafy7o4qFS19.jpg", "actors": [], "comments": [], "recommandations_id": []}

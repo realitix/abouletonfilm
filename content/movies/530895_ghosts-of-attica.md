@@ -1,0 +1,1 @@
+{"tmdb_id": 530895, "title": "Ghosts of Attica", "original_title": "Ghosts of Attica", "slug_title": "ghosts-of-attica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

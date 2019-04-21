@@ -1,0 +1,1 @@
+{"tmdb_id": 292122, "title": "Cantando con Adriana Volumen 1", "original_title": "Cantando con Adriana Volumen 1", "slug_title": "cantando-con-adriana-volumen-1", "date": "2004-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwgdib2XAN1OBOY8hUueGxgtWLR.jpg", "actors": [], "comments": [], "recommandations_id": []}

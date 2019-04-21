@@ -1,0 +1,1 @@
+{"tmdb_id": 323049, "title": "The Wild Goose", "original_title": "The Wild Goose", "slug_title": "the-wild-goose", "date": "1973-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Babe Sargent (Wild Goose)"], "comments": [], "recommandations_id": []}

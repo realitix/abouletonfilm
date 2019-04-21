@@ -1,0 +1,1 @@
+{"tmdb_id": 208947, "title": "Get Ready", "original_title": "Get Ready", "slug_title": "get-ready", "date": "1999-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udP8IO3qsvIdaM7PG58Ov9K2h8C.jpg", "actors": [], "comments": [], "recommandations_id": [195312, 278859, 331194, 359457]}

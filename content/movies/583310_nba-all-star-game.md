@@ -1,0 +1,1 @@
+{"tmdb_id": 583310, "title": "NBA All-Star Game", "original_title": "NBA All-Star Game", "slug_title": "nba-all-star-game", "date": "2019-02-18", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

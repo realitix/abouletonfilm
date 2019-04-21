@@ -1,0 +1,1 @@
+{"tmdb_id": 179248, "title": "Vampire Camp", "original_title": "Vampire Camp", "slug_title": "vampire-camp", "date": "2012-07-16", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTUXZ2yhoKu4OEPRyuW4N3EFr3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

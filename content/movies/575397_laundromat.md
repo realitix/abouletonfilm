@@ -1,0 +1,1 @@
+{"tmdb_id": 575397, "title": "Laundromat", "original_title": "Laundromat", "slug_title": "laundromat", "date": "2008-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQjFMmEtHAdMEJY76GmMEB9y49E.jpg", "actors": [], "comments": [], "recommandations_id": []}

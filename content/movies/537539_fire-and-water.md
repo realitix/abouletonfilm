@@ -1,0 +1,1 @@
+{"tmdb_id": 537539, "title": "Fire and Water", "original_title": "Fire and Water", "slug_title": "fire-and-water", "date": "2017-06-04", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Don Eichin (Himself)", "Rob Machado (Himself)"], "comments": [], "recommandations_id": []}

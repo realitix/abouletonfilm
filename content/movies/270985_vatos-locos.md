@@ -1,0 +1,1 @@
+{"tmdb_id": 270985, "title": "Vatos Locos", "original_title": "Vatos Locos", "slug_title": "vatos-locos", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

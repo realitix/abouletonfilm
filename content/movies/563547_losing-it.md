@@ -1,0 +1,1 @@
+{"tmdb_id": 563547, "title": "Losing It", "original_title": "Losing It", "slug_title": "losing-it", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0BC3JfTYavdEu4ixSQeaCq9lp7.jpg", "actors": ["Jess Kennedy (Hayley)", "Jana Zvedeniuk (Tess)"], "comments": [], "recommandations_id": []}

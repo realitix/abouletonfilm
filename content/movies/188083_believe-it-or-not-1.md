@@ -1,0 +1,1 @@
+{"tmdb_id": 188083, "title": "Believe It or Not #1", "original_title": "Believe It or Not #1", "slug_title": "believe-it-or-not-1", "date": "1930-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert L. Ripley ()"], "comments": [], "recommandations_id": []}

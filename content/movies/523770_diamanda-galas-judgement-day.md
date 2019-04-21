@@ -1,0 +1,1 @@
+{"tmdb_id": 523770, "title": "Diamanda Galas: Judgement Day", "original_title": "Diamanda Galas: Judgement Day", "slug_title": "diamanda-galas-judgement-day", "date": "1993-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

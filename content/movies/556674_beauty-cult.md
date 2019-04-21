@@ -1,0 +1,1 @@
+{"tmdb_id": 556674, "title": "Beauty Cult", "original_title": "Arthur", "slug_title": "beauty-cult", "date": "1931-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

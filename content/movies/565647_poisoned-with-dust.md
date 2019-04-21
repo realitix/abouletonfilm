@@ -1,0 +1,1 @@
+{"tmdb_id": 565647, "title": "Poisoned with Dust", "original_title": "\u10db\u10e2\u10d5\u10d4\u10e0\u10d8\u10d7 \u10db\u10dd\u10ec\u10d0\u10db\u10da\u10e3\u10da\u10d4\u10d1\u10d8", "slug_title": "poisoned-with-dust", "date": "2018-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

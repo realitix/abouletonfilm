@@ -1,0 +1,1 @@
+{"tmdb_id": 380547, "title": "Ang Lihim ng Guadalupe", "original_title": "Ang Lihim ng Guadalupe", "slug_title": "ang-lihim-ng-guadalupe", "date": "1979-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRKls8JE5Ln2tkaaXi7LCmTmFVd.jpg", "actors": [], "comments": [], "recommandations_id": []}

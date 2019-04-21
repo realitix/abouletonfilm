@@ -1,0 +1,1 @@
+{"tmdb_id": 179477, "title": "Billy Squier - LIVE in the dark", "original_title": "Billy Squier - LIVE in the dark", "slug_title": "billy-squier-live-in-the-dark", "date": "2001-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pswoCAwMwbkpmyKELHSHRl379b9.jpg", "actors": [], "comments": [], "recommandations_id": []}

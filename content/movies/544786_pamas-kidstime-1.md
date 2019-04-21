@@ -1,0 +1,1 @@
+{"tmdb_id": 544786, "title": "Pamas Kidstime 1", "original_title": "Pamas Kidstime 1", "slug_title": "pamas-kidstime-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

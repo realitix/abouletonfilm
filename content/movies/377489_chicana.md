@@ -1,0 +1,1 @@
+{"tmdb_id": 377489, "title": "Chicana", "original_title": "Chicana", "slug_title": "chicana", "date": "1979-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

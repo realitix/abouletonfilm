@@ -1,0 +1,1 @@
+{"tmdb_id": 365646, "title": "Psych-Burn", "original_title": "Psych-Burn", "slug_title": "psych-burn", "date": "1968-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGPeoKTTrrHqfDzDObryY3SD6Pw.jpg", "actors": [], "comments": [], "recommandations_id": []}

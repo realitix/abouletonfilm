@@ -1,0 +1,1 @@
+{"tmdb_id": 511545, "title": "My Neighbor Still Says It's Ok", "original_title": "My Neighbor Still Says It's Ok", "slug_title": "my-neighbor-still-says-it-s-ok", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbUVyTJkPYhKm8jIVLPa8O7j3wy.jpg", "actors": [], "comments": [], "recommandations_id": []}

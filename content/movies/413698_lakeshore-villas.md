@@ -1,0 +1,1 @@
+{"tmdb_id": 413698, "title": "Lakeshore Villas", "original_title": "Lakeshore Villas", "slug_title": "lakeshore-villas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

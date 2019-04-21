@@ -1,0 +1,1 @@
+{"tmdb_id": 564336, "title": "The Wedding Day", "original_title": "Le jour de noces", "slug_title": "the-wedding-day", "date": "1971-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

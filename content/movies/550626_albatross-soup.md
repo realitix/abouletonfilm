@@ -1,0 +1,1 @@
+{"tmdb_id": 550626, "title": "Albatross Soup", "original_title": "Albatross Soup", "slug_title": "albatross-soup", "date": "2018-09-22", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yszr4PBs4iWBpog5uQIZg2HhIs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 85940, "title": "Confidence", "original_title": "Confidence", "slug_title": "confidence", "date": "1933-07-31", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

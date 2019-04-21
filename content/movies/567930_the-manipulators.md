@@ -1,0 +1,1 @@
+{"tmdb_id": 567930, "title": "The Manipulators", "original_title": "The Manipulators", "slug_title": "the-manipulators", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9hdPiE4JdzoazUPqGublcQcU3FT.jpg", "actors": [], "comments": [], "recommandations_id": []}

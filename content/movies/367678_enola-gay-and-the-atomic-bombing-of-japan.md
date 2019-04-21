@@ -1,0 +1,1 @@
+{"tmdb_id": 367678, "title": "Enola Gay and the Atomic Bombing of Japan", "original_title": "Enola Gay and the Atomic Bombing of Japan", "slug_title": "enola-gay-and-the-atomic-bombing-of-japan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

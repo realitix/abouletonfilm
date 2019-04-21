@@ -1,0 +1,1 @@
+{"tmdb_id": 284352, "title": "A Resist\u00eancia da Lua", "original_title": "A Resist\u00eancia da Lua", "slug_title": "a-resistencia-da-lua", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 308320, "title": "Fast Jets", "original_title": "Fast Jets", "slug_title": "fast-jets", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

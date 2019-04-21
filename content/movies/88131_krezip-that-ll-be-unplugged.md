@@ -1,0 +1,1 @@
+{"tmdb_id": 88131, "title": "Krezip - That'll be unplugged", "original_title": "Krezip - That'll be unplugged", "slug_title": "krezip-that-ll-be-unplugged", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a5hwZUjf3jWHaOJYl03kuiA5f8q.jpg", "actors": [], "comments": [], "recommandations_id": []}

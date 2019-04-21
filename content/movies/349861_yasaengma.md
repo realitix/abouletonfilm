@@ -1,0 +1,1 @@
+{"tmdb_id": 349861, "title": "\uc57c\uc0dd\ub9c8", "original_title": "\uc57c\uc0dd\ub9c8", "slug_title": "yasaengma", "date": "1983-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

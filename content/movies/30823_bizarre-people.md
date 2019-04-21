@@ -1,0 +1,1 @@
+{"tmdb_id": 30823, "title": "Bizarre People", "original_title": "Bizarre People", "slug_title": "bizarre-people", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Bauer (-)", "Rick Cassidy (-)", "Catherine Crystal (-)", "Becky Savage (-)"], "comments": [], "recommandations_id": []}

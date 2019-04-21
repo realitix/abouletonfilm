@@ -1,0 +1,1 @@
+{"tmdb_id": 431652, "title": "Peu d'hommes, quelques femmes", "original_title": "Peu d'hommes, quelques femmes", "slug_title": "peu-d-hommes-quelques-femmes", "date": "1982-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 530279, "title": "Hostages", "original_title": "Rehenes", "slug_title": "hostages", "date": "2017-12-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cqZoHLvHGPT4dqGIPs97BqtfFQK.jpg", "actors": [], "comments": [], "recommandations_id": []}

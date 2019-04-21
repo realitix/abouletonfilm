@@ -1,0 +1,1 @@
+{"tmdb_id": 226912, "title": "The City of Light", "original_title": "The City of Light", "slug_title": "the-city-of-light", "date": "2007-12-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uGcc8VV4YF7yH1B8YtTieyyTDSt.jpg", "actors": ["Suffa MC ()", "Pressure MC ()"], "comments": [], "recommandations_id": []}

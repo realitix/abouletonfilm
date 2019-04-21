@@ -1,0 +1,1 @@
+{"tmdb_id": 403823, "title": "Bellator 157: Dynamite 2", "original_title": "Bellator 157: Dynamite 2", "slug_title": "bellator-157-dynamite-2", "date": "2016-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iw3sffM4wsVmoweTZBk97WtlKin.jpg", "actors": [], "comments": [], "recommandations_id": []}

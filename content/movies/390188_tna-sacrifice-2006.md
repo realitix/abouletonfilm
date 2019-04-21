@@ -1,0 +1,1 @@
+{"tmdb_id": 390188, "title": "TNA Sacrifice 2006", "original_title": "TNA Sacrifice 2006", "slug_title": "tna-sacrifice-2006", "date": "2006-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mpb475Jh5G8WtBm3SWNOvfPzBQf.jpg", "actors": [], "comments": [], "recommandations_id": []}

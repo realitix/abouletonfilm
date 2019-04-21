@@ -1,0 +1,1 @@
+{"tmdb_id": 555738, "title": "Fille du peuple", "original_title": "Fille du peuple", "slug_title": "fille-du-peuple", "date": "1920-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

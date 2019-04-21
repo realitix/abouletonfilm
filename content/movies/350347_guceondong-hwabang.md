@@ -1,0 +1,1 @@
+{"tmdb_id": 350347, "title": "\uad6c\ucc9c\ub3d9 \ud654\ubc29", "original_title": "\uad6c\ucc9c\ub3d9 \ud654\ubc29", "slug_title": "guceondong-hwabang", "date": "1990-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

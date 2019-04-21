@@ -1,0 +1,1 @@
+{"tmdb_id": 430687, "title": "Mayweather", "original_title": "Mayweather", "slug_title": "mayweather", "date": "2013-04-27", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Floyd Mayweather Jr. (Himself)", "LL Cool J (Narrator)"], "comments": [], "recommandations_id": []}

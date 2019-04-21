@@ -1,0 +1,1 @@
+{"tmdb_id": 339196, "title": "The Selling Of The Pentagon", "original_title": "The Selling Of The Pentagon", "slug_title": "the-selling-of-the-pentagon", "date": "1971-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roger Mudd (Narrator)"], "comments": [], "recommandations_id": []}

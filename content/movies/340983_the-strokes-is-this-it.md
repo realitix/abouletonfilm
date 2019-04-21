@@ -1,0 +1,1 @@
+{"tmdb_id": 340983, "title": "The Strokes: Is This It", "original_title": "The Strokes: Is This It", "slug_title": "the-strokes-is-this-it", "date": "2001-10-09", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNR67mfRfbCVb5lHdrfBNmTtH7X.jpg", "actors": [], "comments": [], "recommandations_id": []}

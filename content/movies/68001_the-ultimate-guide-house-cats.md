@@ -1,0 +1,1 @@
+{"tmdb_id": 68001, "title": "The Ultimate Guide: House Cats", "original_title": "The Ultimate Guide: House Cats", "slug_title": "the-ultimate-guide-house-cats", "date": "", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOZ0ICWBbapCBa2p0229eXsSJ4S.jpg", "actors": [], "comments": [], "recommandations_id": []}

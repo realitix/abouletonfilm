@@ -1,0 +1,1 @@
+{"tmdb_id": 214229, "title": "Cin\u00e9ma Inch'Allah!", "original_title": "Cin\u00e9ma Inch'Allah!", "slug_title": "cinema-inch-allah", "date": "2012-10-17", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z607zMdn64lH3kyxTo8eUQBan1y.jpg", "actors": [], "comments": [], "recommandations_id": []}

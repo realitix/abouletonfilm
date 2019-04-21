@@ -1,0 +1,1 @@
+{"tmdb_id": 80186, "title": "Nightmare at School", "original_title": "Nightmare at School", "slug_title": "nightmare-at-school", "date": "2007-10-26", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoT4UjT8zQI46j6sYyN4ftqyf0V.jpg", "actors": [], "comments": [], "recommandations_id": []}

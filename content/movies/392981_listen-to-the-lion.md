@@ -1,0 +1,1 @@
+{"tmdb_id": 392981, "title": "Listen to the Lion", "original_title": "Listen to the Lion", "slug_title": "listen-to-the-lion", "date": "1977-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

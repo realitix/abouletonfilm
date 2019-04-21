@@ -1,0 +1,1 @@
+{"tmdb_id": 273040, "title": "Taking the Heat", "original_title": "Taking the Heat", "slug_title": "taking-the-heat", "date": "1993-06-06", "genre": "Action / Thriller / T\u00e9l\u00e9film", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Goldwyn (Michael)", "Lynn Whitfield (Carolyn Hunter)"], "comments": [], "recommandations_id": []}

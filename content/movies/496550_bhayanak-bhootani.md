@@ -1,0 +1,1 @@
+{"tmdb_id": 496550, "title": "Bhayanak Bhootani", "original_title": "Bhayanak Bhootani", "slug_title": "bhayanak-bhootani", "date": "2001-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sii3ZYDVA6OE0lPyTGjUYQBgufM.jpg", "actors": ["Kanta Rao ()", "Somaya ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523024, "title": "Shredwell 2", "original_title": "Shredwell 2", "slug_title": "shredwell-2", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

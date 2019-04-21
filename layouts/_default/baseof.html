@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        <div class="jstheme-container d-flex h-100 mx-auto flex-column">
+            {{- partial "header.html" . -}}
+            <div id="content">
+            {{- block "main" . }}{{- end }}
+            </div>
+            {{- partial "footer.html" . -}}
+        </div>
+    </body>
+</html>

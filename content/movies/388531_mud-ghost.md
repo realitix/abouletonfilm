@@ -1,0 +1,1 @@
+{"tmdb_id": 388531, "title": "Mud Ghost", "original_title": "Bangkit dari Lumpur", "slug_title": "mud-ghost", "date": "2013-10-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucFR1K1KAHAyEJEkMm3aWHgnyBQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 292064, "title": "Thug Life", "original_title": "Thug Life", "slug_title": "thug-life", "date": "2001-03-08", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

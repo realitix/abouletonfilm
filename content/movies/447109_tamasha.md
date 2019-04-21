@@ -1,0 +1,1 @@
+{"tmdb_id": 447109, "title": "Tamasha", "original_title": "Tamasha", "slug_title": "tamasha", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMEvjhuLd0bqGdVDAIuWgJKDoqV.jpg", "actors": [], "comments": [], "recommandations_id": []}

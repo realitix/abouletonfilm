@@ -1,0 +1,1 @@
+{"tmdb_id": 250510, "title": "The Wall", "original_title": "El Muro", "slug_title": "the-wall", "date": "1998-01-15", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sAvDEruYBRc7m7C8CKCR8aWcHcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

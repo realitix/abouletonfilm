@@ -1,0 +1,1 @@
+{"tmdb_id": 349810, "title": "The Visible Compendium", "original_title": "The Visible Compendium", "slug_title": "the-visible-compendium", "date": "1991-01-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBhNNxAK6FN3Lb2NPJJqabnOdJn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 511264, "title": "Kid Stuff", "original_title": "Kid Stuff", "slug_title": "kid-stuff", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

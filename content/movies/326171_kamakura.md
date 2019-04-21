@@ -1,0 +1,1 @@
+{"tmdb_id": 326171, "title": "Kamakura", "original_title": "Kamakura", "slug_title": "kamakura", "date": "2014-02-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1FsZeZXs8G31qa1gsrAGvElg1RE.jpg", "actors": [], "comments": [], "recommandations_id": []}

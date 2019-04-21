@@ -1,0 +1,1 @@
+{"tmdb_id": 49111, "title": "Hospital", "original_title": "Szpital", "slug_title": "hospital", "date": "1977-06-01", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xT7zTy5Ok7HnmILbjo53clWV9fh.jpg", "actors": [], "comments": [], "recommandations_id": [49103, 49105, 49097, 49100]}

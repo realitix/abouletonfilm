@@ -1,0 +1,1 @@
+{"tmdb_id": 195601, "title": "The Magician", "original_title": "The Magician", "slug_title": "the-magician", "date": "1900-02-21", "genre": "Fantastique", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d6hmbZdgPP1gQSXA0efBw33l8z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 234388, "title": "Half Baked Alaska", "original_title": "Half Baked Alaska", "slug_title": "half-baked-alaska", "date": "1965-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhZkNXTCZbCsTfBFVv5xu22VRMl.jpg", "actors": [], "comments": [], "recommandations_id": []}

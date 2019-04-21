@@ -1,0 +1,1 @@
+{"tmdb_id": 304471, "title": "Lake W\u00f6rthersee - Where Man and Nature Meet", "original_title": "Lake W\u00f6rthersee - Where Man and Nature Meet", "slug_title": "lake-worthersee-where-man-and-nature-meet", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

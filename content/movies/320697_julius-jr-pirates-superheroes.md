@@ -1,0 +1,1 @@
+{"tmdb_id": 320697, "title": "Julius Jr: Pirates & Superheroes", "original_title": "Julius Jr: Pirates & Superheroes", "slug_title": "julius-jr-pirates-superheroes", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

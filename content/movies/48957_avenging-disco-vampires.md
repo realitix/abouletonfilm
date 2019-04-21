@@ -1,0 +1,1 @@
+{"tmdb_id": 48957, "title": "Avenging Disco Vampires", "original_title": "Avenging Disco Vampires", "slug_title": "avenging-disco-vampires", "date": "", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

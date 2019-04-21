@@ -1,0 +1,1 @@
+{"tmdb_id": 380820, "title": "Tcha\u00efka", "original_title": "Tcha\u00efka", "slug_title": "tchaika", "date": "1994-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXErfavKY45hP83K2IfNcMGMeDM.jpg", "actors": [], "comments": [], "recommandations_id": []}

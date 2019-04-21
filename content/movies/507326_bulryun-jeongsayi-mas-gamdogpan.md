@@ -1,0 +1,1 @@
+{"tmdb_id": 507326, "title": "\ubd88\ub95c \uc815\uc0ac\uc758 \ub9db-\uac10\ub3c5\ud310", "original_title": "\ubd88\ub95c \uc815\uc0ac\uc758 \ub9db-\uac10\ub3c5\ud310", "slug_title": "bulryun-jeongsayi-mas-gamdogpan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

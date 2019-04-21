@@ -1,0 +1,1 @@
+{"tmdb_id": 269292, "title": "Copenhagen Dreams", "original_title": "Dr\u00f8mme i K\u00f8benhavn", "slug_title": "copenhagen-dreams", "date": "2010-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pDrUZzB70FolBPTJZJYY5TlovgJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

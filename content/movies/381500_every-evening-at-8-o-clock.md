@@ -1,0 +1,1 @@
+{"tmdb_id": 381500, "title": "Every Evening at 8 O'Clock", "original_title": "Hver kveld kl. 20", "slug_title": "every-evening-at-8-o-clock", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/89MzBc8vaFHywxn3ZR2Y4TzuD8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

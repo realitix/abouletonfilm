@@ -1,0 +1,1 @@
+{"tmdb_id": 348234, "title": "Nunca regreses", "original_title": "Nunca regreses", "slug_title": "nunca-regreses", "date": "2014-03-12", "genre": "Crime / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AnalEiUYfdzeTcAV40SInyT0dW.jpg", "actors": [], "comments": [], "recommandations_id": []}

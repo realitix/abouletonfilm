@@ -1,0 +1,1 @@
+{"tmdb_id": 502763, "title": "Elvis & June: A Love Story", "original_title": "Elvis & June: A Love Story", "slug_title": "elvis-june-a-love-story", "date": "2002-08-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elvis Presley (Himself)"], "comments": [], "recommandations_id": []}

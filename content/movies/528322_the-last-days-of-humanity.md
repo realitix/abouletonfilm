@@ -1,0 +1,1 @@
+{"tmdb_id": 528322, "title": "The Last Days of Humanity", "original_title": "The Last Days of Humanity", "slug_title": "the-last-days-of-humanity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nsZUb7WAmOZcUBEQN9RSNsI8WXS.jpg", "actors": [], "comments": [], "recommandations_id": []}

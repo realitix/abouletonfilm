@@ -1,0 +1,1 @@
+{"tmdb_id": 545720, "title": "Universal Sun", "original_title": "Sonce, vsesplo\u0161no sonce", "slug_title": "universal-sun", "date": "1968-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manca Ko\u0161ir ()", "Janez Vajevec ()"], "comments": [], "recommandations_id": []}

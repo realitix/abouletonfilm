@@ -1,0 +1,1 @@
+{"tmdb_id": 585057, "title": "Terminator", "original_title": "Terminator", "slug_title": "terminator", "date": "1991-01-01", "genre": "Science-Fiction / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Loris Basso (Terminator)", "James Callahan (Kyle Reese)", "Debbie Medows (Sarah Lee)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349613, "title": "\ub7ec\ube0c \ud638\ud154 \ube44\uc0c1\uad6c", "original_title": "\ub7ec\ube0c \ud638\ud154 \ube44\uc0c1\uad6c", "slug_title": "reobeu-hotel-bisanggu", "date": "1993-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

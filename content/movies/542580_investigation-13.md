@@ -1,0 +1,1 @@
+{"tmdb_id": 542580, "title": "Investigation 13", "original_title": "Investigation 13", "slug_title": "investigation-13", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meg Foster (Layla Parrish)"], "comments": [], "recommandations_id": []}

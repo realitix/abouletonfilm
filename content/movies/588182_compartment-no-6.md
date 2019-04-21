@@ -1,0 +1,1 @@
+{"tmdb_id": 588182, "title": "Compartment no. 6", "original_title": "Hytti nro 6", "slug_title": "compartment-no-6", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

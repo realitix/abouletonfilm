@@ -1,0 +1,1 @@
+{"tmdb_id": 243881, "title": "Adios Carmen", "original_title": "Adios Carmen", "slug_title": "adios-carmen", "date": "2013-12-08", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g088PFbQaW7oF6cOvfyNFR2UNRa.jpg", "actors": [], "comments": [], "recommandations_id": []}

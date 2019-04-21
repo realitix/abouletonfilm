@@ -1,0 +1,1 @@
+{"tmdb_id": 414432, "title": "Drunker Than a Skunk", "original_title": "Drunker Than a Skunk", "slug_title": "drunker-than-a-skunk", "date": "2013-04-05", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjztufOgo6fCTZeiVeJGGATGihN.jpg", "actors": [], "comments": [], "recommandations_id": []}

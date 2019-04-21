@@ -1,0 +1,1 @@
+{"tmdb_id": 583949, "title": "Billy & Chuck", "original_title": "Billy & Chuck", "slug_title": "billy-chuck", "date": "2011-02-19", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

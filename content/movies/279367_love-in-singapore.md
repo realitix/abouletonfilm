@@ -1,0 +1,1 @@
+{"tmdb_id": 279367, "title": "Love In Singapore", "original_title": "Love In Singapore", "slug_title": "love-in-singapore", "date": "1980-09-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiranjeevi ()", "Ranganath ()", "Latha Sethupathi ()", "PJ Sarma ()"], "comments": [], "recommandations_id": []}

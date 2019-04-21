@@ -1,0 +1,1 @@
+{"tmdb_id": 287989, "title": "David Hockney: The Colors of Music", "original_title": "David Hockney: The Colors of Music", "slug_title": "david-hockney-the-colors-of-music", "date": "2005-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

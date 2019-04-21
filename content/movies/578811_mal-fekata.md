@@ -1,0 +1,1 @@
+{"tmdb_id": 578811, "title": "Mal-Fekata", "original_title": "Mal-Fekata", "slug_title": "mal-fekata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

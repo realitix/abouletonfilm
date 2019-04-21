@@ -1,0 +1,1 @@
+{"tmdb_id": 414801, "title": "Paltalk", "original_title": "Kompissnack", "slug_title": "paltalk", "date": "2008-01-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEFn56wWMbeE7Cdxf05WDX5fug8.jpg", "actors": ["Joel Kinnaman (Jocke)", "Matias Varela (Erik)"], "comments": [], "recommandations_id": []}

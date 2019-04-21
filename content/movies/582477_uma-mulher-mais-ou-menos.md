@@ -1,0 +1,1 @@
+{"tmdb_id": 582477, "title": "Uma Mulher Mais ou Menos", "original_title": "Uma Mulher Mais ou Menos", "slug_title": "uma-mulher-mais-ou-menos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

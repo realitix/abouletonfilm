@@ -1,0 +1,1 @@
+{"tmdb_id": 403953, "title": "Joni Sok Jagoan", "original_title": "Joni Sok Jagoan", "slug_title": "joni-sok-jagoan", "date": "2016-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hML4XTo2W5WGdNL35hU0sCVwk1Q.jpg", "actors": ["Ahmad Hari Kurniawan (Joni)"], "comments": [], "recommandations_id": []}

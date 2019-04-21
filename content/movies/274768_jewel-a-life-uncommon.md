@@ -1,0 +1,1 @@
+{"tmdb_id": 274768, "title": "Jewel: A Life Uncommon", "original_title": "Jewel: A Life Uncommon", "slug_title": "jewel-a-life-uncommon", "date": "2002-08-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k1EENoaHlAAbocFbdZB3t6TPUX7.jpg", "actors": ["Jewel (Herself)"], "comments": [], "recommandations_id": []}

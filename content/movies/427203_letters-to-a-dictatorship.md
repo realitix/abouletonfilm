@@ -1,0 +1,1 @@
+{"tmdb_id": 427203, "title": "Letters To A Dictatorship", "original_title": "Cartas A Uma Ditadura", "slug_title": "letters-to-a-dictatorship", "date": "2008-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWW0M8jrkiLgfDTmykTdjvl95sQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

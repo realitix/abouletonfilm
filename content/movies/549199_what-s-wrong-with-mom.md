@@ -1,0 +1,1 @@
+{"tmdb_id": 549199, "title": "What's Wrong with Mom?", "original_title": "What's Wrong with Mom?", "slug_title": "what-s-wrong-with-mom", "date": "2017-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3xgehL3SIJDlByxDtmkTYEn54o.jpg", "actors": [], "comments": [], "recommandations_id": []}

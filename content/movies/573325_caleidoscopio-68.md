@@ -1,0 +1,1 @@
+{"tmdb_id": 573325, "title": "Caleidoscopio 68", "original_title": "Caleidoscopio 68", "slug_title": "caleidoscopio-68", "date": "1968-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326117, "title": "Lucebert", "original_title": "Lucebert", "slug_title": "lucebert", "date": "1962-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

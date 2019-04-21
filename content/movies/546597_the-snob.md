@@ -1,0 +1,1 @@
+{"tmdb_id": 546597, "title": "The Snob", "original_title": "\uc18d\ubb3c\ub4e4", "slug_title": "the-snob", "date": "2018-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yoo Da-in (Seonwoo Jung)", "Sim Hee-seop ()", "Song Jae-rim ()"], "comments": [], "recommandations_id": []}

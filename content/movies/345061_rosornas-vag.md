@@ -1,0 +1,1 @@
+{"tmdb_id": 345061, "title": "Rosornas v\u00e4g", "original_title": "Rosornas v\u00e4g", "slug_title": "rosornas-vag", "date": "1999-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harriet Andersson ((voice))", "Vladimir Chernyshov ()", "Irma Schultz ()"], "comments": [], "recommandations_id": []}

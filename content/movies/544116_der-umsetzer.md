@@ -1,0 +1,1 @@
+{"tmdb_id": 544116, "title": "Der Umsetzer", "original_title": "Der Umsetzer", "slug_title": "der-umsetzer", "date": "1976-10-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A46Au9nYlJ3WNuvJK5swXTr7ok.jpg", "actors": [], "comments": [], "recommandations_id": []}

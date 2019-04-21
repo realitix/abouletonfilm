@@ -1,0 +1,1 @@
+{"tmdb_id": 145591, "title": "Gamer Revolution", "original_title": "Gamer Revolution", "slug_title": "gamer-revolution", "date": "2007-02-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXQJcrzJa2yO4fZtiti1PzM3zks.jpg", "actors": [], "comments": [], "recommandations_id": []}

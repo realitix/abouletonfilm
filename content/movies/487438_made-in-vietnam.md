@@ -1,0 +1,1 @@
+{"tmdb_id": 487438, "title": "Made in Vietnam", "original_title": "Made in Vietnam", "slug_title": "made-in-vietnam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

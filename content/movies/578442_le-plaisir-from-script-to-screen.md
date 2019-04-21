@@ -1,0 +1,1 @@
+{"tmdb_id": 578442, "title": "Le Plaisir: From Script to Screen", "original_title": "Le Plaisir: From Script to Screen", "slug_title": "le-plaisir-from-script-to-screen", "date": "2006-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Pierre Berthom\u00e9 (Host)"], "comments": [], "recommandations_id": []}

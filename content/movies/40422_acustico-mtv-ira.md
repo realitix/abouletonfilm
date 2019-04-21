@@ -1,0 +1,1 @@
+{"tmdb_id": 40422, "title": "Ac\u00fastico MTV - Ira!", "original_title": "Ac\u00fastico MTV - Ira!", "slug_title": "acustico-mtv-ira", "date": "2004-03-25", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40pKQSt4FXnjmp5ud0abujX2prv.jpg", "actors": [], "comments": [], "recommandations_id": []}

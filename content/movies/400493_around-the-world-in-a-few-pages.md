@@ -1,0 +1,1 @@
+{"tmdb_id": 400493, "title": "Around the World in a Few Pages", "original_title": "Around the World in a Few Pages", "slug_title": "around-the-world-in-a-few-pages", "date": "2002-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520092, "title": "Filme De Rua", "original_title": "Filme De Rua", "slug_title": "filme-de-rua", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 450753, "title": "Turma da M\u00f4nica 1 - DVD com 29 estorias", "original_title": "Turma da M\u00f4nica 1 - DVD com 29 estorias", "slug_title": "turma-da-monica-1-dvd-com-29-estorias", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

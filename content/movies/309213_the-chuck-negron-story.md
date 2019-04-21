@@ -1,0 +1,1 @@
+{"tmdb_id": 309213, "title": "The Chuck Negron Story", "original_title": "The Chuck Negron Story", "slug_title": "the-chuck-negron-story", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

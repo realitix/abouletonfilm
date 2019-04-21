@@ -1,0 +1,1 @@
+{"tmdb_id": 408083, "title": "Face of Darkness", "original_title": "Face of Darkness", "slug_title": "face-of-darkness", "date": "1976-11-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lennard Pearce ()", "John Bennett ()", "David Allister ()", "Gwyneth Powell ()"], "comments": [], "recommandations_id": []}

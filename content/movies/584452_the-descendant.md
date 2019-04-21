@@ -1,0 +1,1 @@
+{"tmdb_id": 584452, "title": "The Descendant", "original_title": "The Descendant", "slug_title": "the-descendant", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576892, "title": "Tiggaren", "original_title": "Tiggaren", "slug_title": "tiggaren", "date": "2010-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8HFmQryNYHKZHQNadqmETlqgcfI.jpg", "actors": [], "comments": [], "recommandations_id": []}

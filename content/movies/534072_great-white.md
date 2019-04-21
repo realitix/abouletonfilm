@@ -1,0 +1,1 @@
+{"tmdb_id": 534072, "title": "Great White", "original_title": "Great White", "slug_title": "great-white", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

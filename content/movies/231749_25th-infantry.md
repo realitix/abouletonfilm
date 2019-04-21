@@ -1,0 +1,1 @@
+{"tmdb_id": 231749, "title": "25th Infantry", "original_title": "25th Infantry", "slug_title": "25th-infantry", "date": "1900-03-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

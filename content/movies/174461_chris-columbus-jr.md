@@ -1,0 +1,1 @@
+{"tmdb_id": 174461, "title": "Chris Columbus, Jr.", "original_title": "Chris Columbus, Jr.", "slug_title": "chris-columbus-jr", "date": "1934-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

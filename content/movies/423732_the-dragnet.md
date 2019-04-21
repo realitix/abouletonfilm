@@ -1,0 +1,1 @@
+{"tmdb_id": 423732, "title": "The Dragnet", "original_title": "The Dragnet", "slug_title": "the-dragnet", "date": "1928-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3OdiQqf1izFHn64FHj4YoSgU3tf.jpg", "actors": ["George Bancroft (Two-Gun Nolan)", "William Powell ()"], "comments": [], "recommandations_id": []}

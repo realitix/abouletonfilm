@@ -1,0 +1,1 @@
+{"tmdb_id": 346776, "title": "The Knockout", "original_title": "The Knockout", "slug_title": "the-knockout", "date": "1923-10-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rUqXw4jRDhNIQxrkVB7yMMUHxxE.jpg", "actors": [], "comments": [], "recommandations_id": []}

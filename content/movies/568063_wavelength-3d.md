@@ -1,0 +1,1 @@
+{"tmdb_id": 568063, "title": "Wavelength 3D", "original_title": "Wavelength 3D", "slug_title": "wavelength-3d", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 452681, "title": "The Nitinaht Chronicles", "original_title": "The Nitinaht Chronicles", "slug_title": "the-nitinaht-chronicles", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zp1fVZ6s1f2YyCIh4iCzZLZLWE1.jpg", "actors": [], "comments": [], "recommandations_id": []}

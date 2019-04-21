@@ -1,0 +1,1 @@
+{"tmdb_id": 352251, "title": "Learning to Walk", "original_title": "\u0160kola hodanja", "slug_title": "learning-to-walk", "date": "1978-07-28", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oLnvOmqnYOlOCk2bPK9xgFiq87R.jpg", "actors": [], "comments": [], "recommandations_id": []}

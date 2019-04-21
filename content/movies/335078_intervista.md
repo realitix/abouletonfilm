@@ -1,0 +1,1 @@
+{"tmdb_id": 335078, "title": "Intervista", "original_title": "Intervista", "slug_title": "intervista", "date": "1998-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uU36vdyZ7lxn4qfPrWHfrk8YRyG.jpg", "actors": [], "comments": [], "recommandations_id": []}

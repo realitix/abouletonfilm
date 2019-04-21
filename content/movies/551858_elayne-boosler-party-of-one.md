@@ -1,0 +1,1 @@
+{"tmdb_id": 551858, "title": "Elayne Boosler: Party of One", "original_title": "Elayne Boosler: Party of One", "slug_title": "elayne-boosler-party-of-one", "date": "1986-10-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elayne Boosler (Herself)"], "comments": [], "recommandations_id": []}

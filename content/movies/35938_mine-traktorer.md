@@ -1,0 +1,1 @@
+{"tmdb_id": 35938, "title": "Mine Traktorer", "original_title": "Mine Traktorer", "slug_title": "mine-traktorer", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

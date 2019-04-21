@@ -1,0 +1,1 @@
+{"tmdb_id": 549686, "title": "Le notti bianche", "original_title": "Le notti bianche", "slug_title": "le-notti-bianche", "date": "1962-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

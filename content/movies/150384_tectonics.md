@@ -1,0 +1,1 @@
+{"tmdb_id": 150384, "title": "Tectonics", "original_title": "Tectonics", "slug_title": "tectonics", "date": "2012-09-28", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNnyPkDOYTQ1QDg0RLkycpY8TJ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 68045, "title": "Van Halen: Largo, Maryland 1982", "original_title": "Van Halen: Largo, Maryland 1982", "slug_title": "van-halen-largo-maryland-1982", "date": "1982-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2SqYuqyCiD0mbmbobmuOgIQ9YsG.jpg", "actors": [], "comments": [], "recommandations_id": []}

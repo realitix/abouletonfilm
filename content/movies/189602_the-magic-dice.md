@@ -1,0 +1,1 @@
+{"tmdb_id": 189602, "title": "The Magic Dice", "original_title": "Le Ph\u00e9nix ou le coffret de cristal", "slug_title": "the-magic-dice", "date": "1905-11-11", "genre": "", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [87198, 92821, 142194]}

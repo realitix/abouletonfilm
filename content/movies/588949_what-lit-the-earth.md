@@ -1,0 +1,1 @@
+{"tmdb_id": 588949, "title": "What Lit the Earth", "original_title": "What Lit the Earth", "slug_title": "what-lit-the-earth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPZlmw8j0mjPzlWe89x0FkVM2Mr.jpg", "actors": [], "comments": [], "recommandations_id": []}

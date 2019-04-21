@@ -1,0 +1,1 @@
+{"tmdb_id": 378926, "title": "Double Seat", "original_title": "Double Seat", "slug_title": "double-seat", "date": "2015-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f3n6Nt27yMFK1zs6vcKtqfmRJP5.jpg", "actors": ["Ankush Chaudhury ()", "Mukta Barve ()"], "comments": [], "recommandations_id": []}

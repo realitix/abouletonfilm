@@ -1,0 +1,1 @@
+{"tmdb_id": 212800, "title": "Play-Boy", "original_title": "Play-Boy", "slug_title": "play-boy", "date": "1967-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Caterina Caselli ()", "Sergio Leonardi ()", "Teresa Gimpera ()", "Gaspare Zola ()"], "comments": [], "recommandations_id": []}

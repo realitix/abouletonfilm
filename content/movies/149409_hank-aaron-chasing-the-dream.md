@@ -1,0 +1,1 @@
+{"tmdb_id": 149409, "title": "Hank Aaron: Chasing the Dream", "original_title": "Hank Aaron: Chasing the Dream", "slug_title": "hank-aaron-chasing-the-dream", "date": "1995-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juAV62uB5WTNV9XrRxpnybUVwVA.jpg", "actors": [], "comments": [], "recommandations_id": []}

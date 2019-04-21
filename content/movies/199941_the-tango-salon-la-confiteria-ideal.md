@@ -1,0 +1,1 @@
+{"tmdb_id": 199941, "title": "The Tango Salon - La Confiteria Ideal", "original_title": "The Tango Salon - La Confiteria Ideal", "slug_title": "the-tango-salon-la-confiteria-ideal", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

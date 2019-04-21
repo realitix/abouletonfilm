@@ -1,0 +1,1 @@
+{"tmdb_id": 234798, "title": "Rien ne sert de courir", "original_title": "Wild About Hurry", "slug_title": "rien-ne-sert-de-courir", "date": "1959-10-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5aOeD50Q9nz3CRtNZ5J3gDlL17.jpg", "actors": [], "comments": [], "recommandations_id": []}

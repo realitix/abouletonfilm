@@ -1,0 +1,1 @@
+{"tmdb_id": 424503, "title": "Wasp Wings", "original_title": "Wasp Wings", "slug_title": "wasp-wings", "date": "1945-01-02", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOb7ygFeKhS6EBamNmylBhAGykX.jpg", "actors": [], "comments": [], "recommandations_id": []}

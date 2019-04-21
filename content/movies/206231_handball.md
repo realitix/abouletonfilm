@@ -1,0 +1,1 @@
+{"tmdb_id": 206231, "title": "Handball", "original_title": "Handebol", "slug_title": "handball", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QP2A45W2qQFoaMG1uEVQkAveYb.jpg", "actors": ["Lorena Comparato (Bia)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 451788, "title": "A Lama from Ulaanbaatar", "original_title": "Ub Lama", "slug_title": "a-lama-from-ulaanbaatar", "date": "2011-10-12", "genre": "Familial / Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCyQwIVhPW7UXieSwpnv4qFqFIY.jpg", "actors": [], "comments": [], "recommandations_id": []}

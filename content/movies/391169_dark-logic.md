@@ -1,0 +1,1 @@
+{"tmdb_id": 391169, "title": "Dark Logic", "original_title": "Dark Logic", "slug_title": "dark-logic", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

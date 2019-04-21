@@ -1,0 +1,1 @@
+{"tmdb_id": 485600, "title": "You Can't Fool a Fool", "original_title": "You Can't Fool a Fool", "slug_title": "you-can-t-fool-a-fool", "date": "1946-06-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

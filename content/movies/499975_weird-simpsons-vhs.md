@@ -1,0 +1,1 @@
+{"tmdb_id": 499975, "title": "Weird Simpsons VHS", "original_title": "Weird Simpsons VHS", "slug_title": "weird-simpsons-vhs", "date": "2015-09-21", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lvAZfefSYrKlVG0zRtRjVBq9402.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 380097, "title": "America Is Still the Place", "original_title": "America Is Still the Place", "slug_title": "america-is-still-the-place", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486244, "title": "He Hates to be Second", "original_title": "He Hates to be Second", "slug_title": "he-hates-to-be-second", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

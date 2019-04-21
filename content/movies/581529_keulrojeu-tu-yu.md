@@ -1,0 +1,1 @@
+{"tmdb_id": 581529, "title": "\ud074\ub85c\uc988 \ud22c \uc720", "original_title": "\ud074\ub85c\uc988 \ud22c \uc720", "slug_title": "keulrojeu-tu-yu", "date": "2019-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cho Jin-woong ()", "Bae Soo-bin ()", "Cha Soo-yeon ()"], "comments": [], "recommandations_id": []}

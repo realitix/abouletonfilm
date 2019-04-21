@@ -1,0 +1,1 @@
+{"tmdb_id": 352981, "title": "A Maldi\u00e7\u00e3o da Mona Lisa", "original_title": "A Maldi\u00e7\u00e3o da Mona Lisa", "slug_title": "a-maldicao-da-mona-lisa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320724, "title": "Celibidache: Ravel and Debussy", "original_title": "Celibidache: Ravel and Debussy", "slug_title": "celibidache-ravel-and-debussy", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

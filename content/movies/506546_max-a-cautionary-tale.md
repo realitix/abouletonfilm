@@ -1,0 +1,1 @@
+{"tmdb_id": 506546, "title": "Max: A Cautionary Tale", "original_title": "Max: A Cautionary Tale", "slug_title": "max-a-cautionary-tale", "date": "2003-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

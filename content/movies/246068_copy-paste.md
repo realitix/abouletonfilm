@@ -1,0 +1,1 @@
+{"tmdb_id": 246068, "title": "Copy & Paste", "original_title": "Copy & Paste", "slug_title": "copy-paste", "date": "2011-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/giJc2ARzQmQuDy9CbHtMOb8A93d.jpg", "actors": ["Michael Elsener (Michael Elsener)"], "comments": [], "recommandations_id": []}

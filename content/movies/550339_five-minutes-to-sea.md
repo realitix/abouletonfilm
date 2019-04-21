@@ -1,0 +1,1 @@
+{"tmdb_id": 550339, "title": "Five Minutes to Sea", "original_title": "\u041f\u044f\u0442\u044c \u043c\u0438\u043d\u0443\u0442 \u0434\u043e \u043c\u043e\u0440\u044f", "slug_title": "five-minutes-to-sea", "date": "2018-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 449698, "title": "My Beloved", "original_title": "My Beloved", "slug_title": "my-beloved", "date": "1982-12-09", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iEYhW8CI3CvWlKxIggGUsXPix3o.jpg", "actors": ["Alex Man Chi-Leung ()", "Candice Yu ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 372246, "title": "Bunny the Killer Thing", "original_title": "Bunny the Killer Thing", "slug_title": "bunny-the-killer-thing", "date": "2011-05-08", "genre": "Com\u00e9die / Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3dfmzxt9GlMkpF4O0DoCoIkJaF.jpg", "actors": [], "comments": [], "recommandations_id": []}

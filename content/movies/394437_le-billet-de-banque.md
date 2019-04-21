@@ -1,0 +1,1 @@
+{"tmdb_id": 394437, "title": "Le billet de banque", "original_title": "Le billet de banque", "slug_title": "le-billet-de-banque", "date": "1906-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

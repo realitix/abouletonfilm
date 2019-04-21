@@ -1,0 +1,1 @@
+{"tmdb_id": 537323, "title": "Beloved Murderer", "original_title": "Beloved Murderer", "slug_title": "beloved-murderer", "date": "1993-01-01", "genre": "Romance / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

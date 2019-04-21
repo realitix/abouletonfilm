@@ -1,0 +1,1 @@
+{"tmdb_id": 561407, "title": "Zohar - The Return", "original_title": "Zohar - The Return", "slug_title": "zohar-the-return", "date": "2018-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5pcQgakyMjL0BcjDtzq3MvNM0lH.jpg", "actors": ["Uri Zohar ()"], "comments": [], "recommandations_id": []}

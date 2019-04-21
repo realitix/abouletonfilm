@@ -1,0 +1,1 @@
+{"tmdb_id": 335059, "title": "Para Encurtar uma Longa Hist\u00f3ria", "original_title": "Para Encurtar uma Longa Hist\u00f3ria", "slug_title": "para-encurtar-uma-longa-historia", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 231786, "title": "Cutting and Canaling Ice", "original_title": "Cutting and Canaling Ice", "slug_title": "cutting-and-canaling-ice", "date": "1902-02-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

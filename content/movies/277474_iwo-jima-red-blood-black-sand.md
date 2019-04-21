@@ -1,0 +1,1 @@
+{"tmdb_id": 277474, "title": "Iwo Jima: Red Blood, Black Sand", "original_title": "Iwo Jima: Red Blood, Black Sand", "slug_title": "iwo-jima-red-blood-black-sand", "date": "1995-01-01", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Courtney (Narrator)"], "comments": [], "recommandations_id": []}

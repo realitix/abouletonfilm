@@ -1,0 +1,1 @@
+{"tmdb_id": 502435, "title": "Dennis Regan: Dennisland", "original_title": "Dennis Regan: Dennisland", "slug_title": "dennis-regan-dennisland", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 36525, "title": "A Trip Into The Supernatural", "original_title": "A Trip Into The Supernatural", "slug_title": "a-trip-into-the-supernatural", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tM2vxTYnqmvdVmuuyf2COQTziM.jpg", "actors": [], "comments": [], "recommandations_id": []}

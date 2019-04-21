@@ -1,0 +1,1 @@
+{"tmdb_id": 559079, "title": "Koniec naszego \u015bwiata", "original_title": "Koniec naszego \u015bwiata", "slug_title": "koniec-naszego-swiata", "date": "1964-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6qOg4Hndz1NwUKA0Apla5FXh8pT.jpg", "actors": [], "comments": [], "recommandations_id": []}

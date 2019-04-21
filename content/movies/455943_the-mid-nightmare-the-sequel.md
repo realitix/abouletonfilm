@@ -1,0 +1,1 @@
+{"tmdb_id": 455943, "title": "The Mid-nightmare: The Sequel", "original_title": "Ye ban ge sheng - Xia ji", "slug_title": "the-mid-nightmare-the-sequel", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPs1YEiBoxmMdk62WfggtnILTXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

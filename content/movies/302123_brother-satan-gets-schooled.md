@@ -1,0 +1,1 @@
+{"tmdb_id": 302123, "title": "Brother Satan Gets Schooled", "original_title": "Brother Satan Gets Schooled", "slug_title": "brother-satan-gets-schooled", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 399671, "title": "Diarios Patag\u00f3nicos 1", "original_title": "Diarios Patag\u00f3nicos 1", "slug_title": "diarios-patagonicos-1", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lnT4pxv0v5olQUNnEd4g2S6la0.jpg", "actors": [], "comments": [], "recommandations_id": []}

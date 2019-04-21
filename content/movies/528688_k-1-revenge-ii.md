@@ -1,0 +1,1 @@
+{"tmdb_id": 528688, "title": "K-1 Revenge II", "original_title": "K-1 Revenge II", "slug_title": "k-1-revenge-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

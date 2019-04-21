@@ -1,0 +1,1 @@
+{"tmdb_id": 467880, "title": "Candeias, Um fazedor de Filmes", "original_title": "Candeias, Um fazedor de Filmes", "slug_title": "candeias-um-fazedor-de-filmes", "date": "1985-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z7IMUjAP6ZHCPJwGTlt9Fx4sSgt.jpg", "actors": [], "comments": [], "recommandations_id": []}

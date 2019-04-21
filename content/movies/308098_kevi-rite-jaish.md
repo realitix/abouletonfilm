@@ -1,0 +1,1 @@
+{"tmdb_id": 308098, "title": "Kevi Rite Jaish", "original_title": "Kevi Rite Jaish", "slug_title": "kevi-rite-jaish", "date": "2012-06-15", "genre": "Com\u00e9die", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEeh7g78bCcAvnq4uw6WQOq9RGz.jpg", "actors": [], "comments": [], "recommandations_id": []}

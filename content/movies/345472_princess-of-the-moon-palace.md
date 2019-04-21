@@ -1,0 +1,1 @@
+{"tmdb_id": 345472, "title": "Princess of the Moon Palace", "original_title": "Tsuki no miya no \u00f4josama", "slug_title": "princess-of-the-moon-palace", "date": "1934-10-24", "genre": "Fantastique / Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

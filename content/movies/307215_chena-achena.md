@@ -1,0 +1,1 @@
+{"tmdb_id": 307215, "title": "Chena Achena", "original_title": "Chena Achena", "slug_title": "chena-achena", "date": "1983-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

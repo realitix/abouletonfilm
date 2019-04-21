@@ -1,0 +1,1 @@
+{"tmdb_id": 497857, "title": "Voyage \u00e0 Rouen", "original_title": "Voyage \u00e0 Rouen", "slug_title": "voyage-a-rouen", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cyril Charlot ()", "Fran\u00e7oise Michaud ()", "Joseph Morder ()", "Anne Wormser ()"], "comments": [], "recommandations_id": []}

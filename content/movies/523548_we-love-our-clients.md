@@ -1,0 +1,1 @@
+{"tmdb_id": 523548, "title": "We Love Our Clients", "original_title": "Al servizio del cliente", "slug_title": "we-love-our-clients", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKaHdvrd5MxsxvCljaO6j2Rkno7.jpg", "actors": [], "comments": [], "recommandations_id": []}

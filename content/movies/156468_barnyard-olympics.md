@@ -1,0 +1,1 @@
+{"tmdb_id": 156468, "title": "Barnyard Olympics", "original_title": "Barnyard Olympics", "slug_title": "barnyard-olympics", "date": "1932-04-14", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38TVhA9VZm1PV3h8MjLYMZTBMb5.jpg", "actors": [], "comments": [], "recommandations_id": [162584, 174303, 174508, 161614]}

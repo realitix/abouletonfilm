@@ -1,0 +1,1 @@
+{"tmdb_id": 321132, "title": "Animals.", "original_title": "Animals.", "slug_title": "animals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

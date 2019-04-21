@@ -1,0 +1,1 @@
+{"tmdb_id": 539021, "title": "Bolingo. El bosque del amor", "original_title": "Bolingo. El bosque del amor", "slug_title": "bolingo-el-bosque-del-amor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yf0GIM1tlxfXhdRfqkTRKDn2yb5.jpg", "actors": [], "comments": [], "recommandations_id": []}

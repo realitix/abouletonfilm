@@ -1,0 +1,1 @@
+{"tmdb_id": 469084, "title": "Exhale: Core Fusion Body Sculpt", "original_title": "Exhale: Core Fusion Body Sculpt", "slug_title": "exhale-core-fusion-body-sculpt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzam44hpOtsedhom7SMe2OXum1Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

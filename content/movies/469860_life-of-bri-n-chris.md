@@ -1,0 +1,1 @@
+{"tmdb_id": 469860, "title": "Life of Bri' n Chris", "original_title": "Life of Bri' n Chris", "slug_title": "life-of-bri-n-chris", "date": "2016-08-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bHw33FDsFsIe2V36lOY6hpvY7KN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 27801, "title": "The Map of Sex and Love", "original_title": "Qingse ditu", "slug_title": "the-map-of-sex-and-love", "date": "2001-04-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRJBlHXtCiJjDey8BjdOuuHAKMB.jpg", "actors": ["Lindsay Chan Ling-Chi ()"], "comments": [], "recommandations_id": []}

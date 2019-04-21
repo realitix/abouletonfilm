@@ -1,0 +1,1 @@
+{"tmdb_id": 566008, "title": "Satan Claus Is Coming To Town", "original_title": "Satan Claus Is Coming To Town", "slug_title": "satan-claus-is-coming-to-town", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5zhbzfGIrib0Mmnpe0K8kjqvwU.jpg", "actors": [], "comments": [], "recommandations_id": []}

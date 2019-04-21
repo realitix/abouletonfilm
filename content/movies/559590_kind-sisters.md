@@ -1,0 +1,1 @@
+{"tmdb_id": 559590, "title": "Kind Sisters", "original_title": "Kind Sisters", "slug_title": "kind-sisters", "date": "2018-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d6Va35ddrjpqIyYb0ICO3dEN7gr.jpg", "actors": [], "comments": [], "recommandations_id": []}

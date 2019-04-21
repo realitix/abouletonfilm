@@ -1,0 +1,1 @@
+{"tmdb_id": 227819, "title": "Ex libris", "original_title": "Ex libris", "slug_title": "ex-libris", "date": "1983-01-01", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khPhn5JvDqtCaGTNObjOVIBW1s6.jpg", "actors": [], "comments": [], "recommandations_id": [85802, 125153, 116152, 47451]}

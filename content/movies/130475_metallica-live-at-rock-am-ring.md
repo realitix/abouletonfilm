@@ -1,0 +1,1 @@
+{"tmdb_id": 130475, "title": "Metallica: Live at Rock am Ring", "original_title": "Metallica: Live at Rock am Ring", "slug_title": "metallica-live-at-rock-am-ring", "date": "2003-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gSLn2edMyu5HDgLHArXM9UVCwxU.jpg", "actors": [], "comments": [], "recommandations_id": []}

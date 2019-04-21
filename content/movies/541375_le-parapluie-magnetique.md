@@ -1,0 +1,1 @@
+{"tmdb_id": 541375, "title": "Le parapluie magn\u00e9tique", "original_title": "Le parapluie magn\u00e9tique", "slug_title": "le-parapluie-magnetique", "date": "1911-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

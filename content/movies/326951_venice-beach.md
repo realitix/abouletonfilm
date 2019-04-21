@@ -1,0 +1,1 @@
+{"tmdb_id": 326951, "title": "Venice Beach", "original_title": "Venice Beach", "slug_title": "venice-beach", "date": "1982-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bouvier (Diane)"], "comments": [], "recommandations_id": []}

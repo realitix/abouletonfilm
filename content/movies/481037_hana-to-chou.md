@@ -1,0 +1,1 @@
+{"tmdb_id": 481037, "title": "Hana to Chou", "original_title": "Hana to Chou", "slug_title": "hana-to-chou", "date": "1954-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

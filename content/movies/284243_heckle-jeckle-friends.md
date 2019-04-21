@@ -1,0 +1,1 @@
+{"tmdb_id": 284243, "title": "Heckle & Jeckle & Friends", "original_title": "Heckle & Jeckle & Friends", "slug_title": "heckle-jeckle-friends", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

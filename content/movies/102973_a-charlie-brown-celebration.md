@@ -1,0 +1,1 @@
+{"tmdb_id": 102973, "title": "A Charlie Brown Celebration", "original_title": "A Charlie Brown Celebration", "slug_title": "a-charlie-brown-celebration", "date": "1982-05-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idO0AW09Ij8tSrHeLgvL5UBILiY.jpg", "actors": [], "comments": [], "recommandations_id": []}

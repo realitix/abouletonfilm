@@ -1,0 +1,1 @@
+{"tmdb_id": 403099, "title": "Sacred Reich: [2016] Hellfest", "original_title": "Sacred Reich: [2016] Hellfest", "slug_title": "sacred-reich-2016-hellfest", "date": "2016-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zhhhYcEMLQqRcpzPSSWDUk8ZefC.jpg", "actors": [], "comments": [], "recommandations_id": []}

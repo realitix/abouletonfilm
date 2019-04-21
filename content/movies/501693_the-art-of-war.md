@@ -1,0 +1,1 @@
+{"tmdb_id": 501693, "title": "The Art Of War", "original_title": "The Art Of War", "slug_title": "the-art-of-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eG4xZh1a5csb1Huv252jhVY2OnF.jpg", "actors": [], "comments": [], "recommandations_id": []}

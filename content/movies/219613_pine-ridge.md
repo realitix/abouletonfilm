@@ -1,0 +1,1 @@
+{"tmdb_id": 219613, "title": "Pine Ridge", "original_title": "Pine Ridge", "slug_title": "pine-ridge", "date": "2013-09-06", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqEKDlL6Tf6ZvtJTKnYUqo13yUZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

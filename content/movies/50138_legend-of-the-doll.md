@@ -1,0 +1,1 @@
+{"tmdb_id": 50138, "title": "Legend of the Doll", "original_title": "Hijiri bish\u014djo figyua-den", "slug_title": "legend-of-the-doll", "date": "2006-08-23", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unJUDunZsHkxN64ZaBodJvHJXoC.jpg", "actors": [], "comments": [], "recommandations_id": []}

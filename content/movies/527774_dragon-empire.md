@@ -1,0 +1,1 @@
+{"tmdb_id": 527774, "title": "Dragon Empire", "original_title": "Dragon Empire", "slug_title": "dragon-empire", "date": "2020-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Chung (Jan-Nin)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 115548, "title": "Pachak\u00fatec - Zeit des Wandels", "original_title": "Pachak\u00fatec - Zeit des Wandels", "slug_title": "pachakutec-zeit-des-wandels", "date": "2011-10-20", "genre": "", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Naupany Puma (Naupany Puma)"], "comments": [], "recommandations_id": []}

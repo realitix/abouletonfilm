@@ -1,0 +1,1 @@
+{"tmdb_id": 189961, "title": "Love's Young Scream", "original_title": "Love's Young Scream", "slug_title": "love-s-young-scream", "date": "1928-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

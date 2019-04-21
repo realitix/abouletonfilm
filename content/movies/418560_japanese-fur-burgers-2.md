@@ -1,0 +1,1 @@
+{"tmdb_id": 418560, "title": "Japanese Fur Burgers 2", "original_title": "Japanese Fur Burgers 2", "slug_title": "japanese-fur-burgers-2", "date": "2012-01-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1gfR9XMlmlmjJ7j81zZXPf9dY6V.jpg", "actors": [], "comments": [], "recommandations_id": []}

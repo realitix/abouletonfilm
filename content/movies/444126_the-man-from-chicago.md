@@ -1,0 +1,1 @@
+{"tmdb_id": 444126, "title": "The Man from Chicago", "original_title": "Le Ricain", "slug_title": "the-man-from-chicago", "date": "1977-05-24", "genre": "Drame / Action / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bK9ZnDqD8w1w0fqgk4eKvQp64r.jpg", "actors": [], "comments": [], "recommandations_id": []}

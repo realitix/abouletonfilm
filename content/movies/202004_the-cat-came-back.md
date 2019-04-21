@@ -1,0 +1,1 @@
+{"tmdb_id": 202004, "title": "The Cat Came Back", "original_title": "The Cat Came Back", "slug_title": "the-cat-came-back", "date": "1936-02-07", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MeITO2rggwgpICQHj4NQgO31Dw.jpg", "actors": [], "comments": [], "recommandations_id": []}

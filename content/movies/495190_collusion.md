@@ -1,0 +1,1 @@
+{"tmdb_id": 495190, "title": "Collusion", "original_title": "Collusion", "slug_title": "collusion", "date": "2015-06-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lSNvkWeo2iRz63Sa32eK3sKH0X.jpg", "actors": ["John Ware (Narrator)"], "comments": [], "recommandations_id": []}

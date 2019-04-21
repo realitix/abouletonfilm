@@ -1,0 +1,1 @@
+{"tmdb_id": 318874, "title": "Midway of Charleston Exposition (South Carolina)", "original_title": "Midway of Charleston Exposition (South Carolina)", "slug_title": "midway-of-charleston-exposition-south-carolina", "date": "1902-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

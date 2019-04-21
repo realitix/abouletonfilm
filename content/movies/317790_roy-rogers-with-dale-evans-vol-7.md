@@ -1,0 +1,1 @@
+{"tmdb_id": 317790, "title": "Roy Rogers with Dale Evans: Vol. 7", "original_title": "Roy Rogers with Dale Evans: Vol. 7", "slug_title": "roy-rogers-with-dale-evans-vol-7", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 281913, "title": "Duplex: Beleza Roubada / Almas G\u00eameas", "original_title": "Duplex: Beleza Roubada / Almas G\u00eameas", "slug_title": "duplex-beleza-roubada-almas-gemeas", "date": "1996-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

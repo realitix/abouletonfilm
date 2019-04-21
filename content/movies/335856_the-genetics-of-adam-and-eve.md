@@ -1,0 +1,1 @@
+{"tmdb_id": 335856, "title": "The Genetics of Adam and Eve", "original_title": "The Genetics of Adam and Eve", "slug_title": "the-genetics-of-adam-and-eve", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m628TOLqgMuViPCDvTwjeEfrGgn.jpg", "actors": [], "comments": [], "recommandations_id": []}

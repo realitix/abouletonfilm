@@ -1,0 +1,1 @@
+{"tmdb_id": 508089, "title": "Positivas", "original_title": "Positivas", "slug_title": "positivas", "date": "2010-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

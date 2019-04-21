@@ -1,0 +1,1 @@
+{"tmdb_id": 560585, "title": "A Face of War", "original_title": "A Face of War", "slug_title": "a-face-of-war", "date": "1968-05-10", "genre": "Documentaire / Guerre", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xmuJnmhCZF96oNAQ6ukufTmco3.jpg", "actors": [], "comments": [], "recommandations_id": []}

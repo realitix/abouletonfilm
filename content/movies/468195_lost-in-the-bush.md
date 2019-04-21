@@ -1,0 +1,1 @@
+{"tmdb_id": 468195, "title": "Lost in the Bush", "original_title": "Lost in the Bush", "slug_title": "lost-in-the-bush", "date": "1973-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

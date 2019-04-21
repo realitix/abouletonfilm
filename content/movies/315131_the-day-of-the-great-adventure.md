@@ -1,0 +1,1 @@
+{"tmdb_id": 315131, "title": "The Day of the Great Adventure", "original_title": "Dzien wielkiej przygody", "slug_title": "the-day-of-the-great-adventure", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

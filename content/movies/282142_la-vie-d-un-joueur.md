@@ -1,0 +1,1 @@
+{"tmdb_id": 282142, "title": "La Vie d'un joueur", "original_title": "La Vie d'un joueur", "slug_title": "la-vie-d-un-joueur", "date": "1903-04-05", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPBhBoVzPirjxW9Dr3PKPmlSDfs.jpg", "actors": [], "comments": [], "recommandations_id": []}

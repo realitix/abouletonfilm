@@ -1,0 +1,1 @@
+{"tmdb_id": 438495, "title": "Buddha's Palm Part 3", "original_title": "Buddha's Palm Part 3", "slug_title": "buddha-s-palm-part-3", "date": "1964-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Tso Tat-Wah (Lung Kim-fei)", "Yu So-Chau (Kau Yuk--wah)"], "comments": [], "recommandations_id": []}

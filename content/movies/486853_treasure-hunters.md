@@ -1,0 +1,1 @@
+{"tmdb_id": 486853, "title": "Treasure Hunters", "original_title": "Ukuzingala", "slug_title": "treasure-hunters", "date": "1989-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gugo Mhlangu ()", "Innocent Gumede ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309415, "title": "John Mellencamp: Trouble No More", "original_title": "John Mellencamp: Trouble No More", "slug_title": "john-mellencamp-trouble-no-more", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Mellencamp ()"], "comments": [], "recommandations_id": []}

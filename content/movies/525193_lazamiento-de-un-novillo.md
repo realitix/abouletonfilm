@@ -1,0 +1,1 @@
+{"tmdb_id": 525193, "title": "Lazamiento de un novillo", "original_title": "Lazamiento de un novillo", "slug_title": "lazamiento-de-un-novillo", "date": "1896-05-21", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

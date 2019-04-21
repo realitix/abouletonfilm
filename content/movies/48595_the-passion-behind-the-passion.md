@@ -1,0 +1,1 @@
+{"tmdb_id": 48595, "title": "The Passion Behind 'The Passion'", "original_title": "The Passion Behind 'The Passion'", "slug_title": "the-passion-behind-the-passion", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

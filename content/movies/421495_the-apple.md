@@ -1,0 +1,1 @@
+{"tmdb_id": 421495, "title": "The Apple", "original_title": "The Apple", "slug_title": "the-apple", "date": "1968-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

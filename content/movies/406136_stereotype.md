@@ -1,0 +1,1 @@
+{"tmdb_id": 406136, "title": "StereoType", "original_title": "StereoType", "slug_title": "stereotype", "date": "", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Bention ()", "Greg Jamison ()"], "comments": [], "recommandations_id": []}

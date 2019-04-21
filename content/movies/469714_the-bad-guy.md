@@ -1,0 +1,1 @@
+{"tmdb_id": 469714, "title": "The Bad Guy", "original_title": "The Bad Guy", "slug_title": "the-bad-guy", "date": "2017-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Troy Davis (Archie)", "Michael Mack (Jimmy)"], "comments": [], "recommandations_id": []}

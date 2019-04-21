@@ -1,0 +1,1 @@
+{"tmdb_id": 277497, "title": "Love Bug", "original_title": "Love Bug", "slug_title": "love-bug", "date": "2009-10-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wd34tyOWkueLSrEFPy4hcTYiczg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278675, "title": "A Bullet for Quintana", "original_title": "A Bullet for Quintana", "slug_title": "a-bullet-for-quintana", "date": "2008-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 543150, "title": "Mysterious Doctor Satan Crack-Up", "original_title": "Mysterious Doctor Satan Crack-Up", "slug_title": "mysterious-doctor-satan-crack-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

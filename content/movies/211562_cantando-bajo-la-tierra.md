@@ -1,0 +1,1 @@
+{"tmdb_id": 211562, "title": "Cantando bajo la tierra", "original_title": "Cantando bajo la tierra", "slug_title": "cantando-bajo-la-tierra", "date": "2004-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCpamPfFjqfddSpK73QbUnPPRhw.jpg", "actors": [], "comments": [], "recommandations_id": []}

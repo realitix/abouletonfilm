@@ -1,0 +1,1 @@
+{"tmdb_id": 196777, "title": "Drawing and Talking 'Duck' with Tony Anselmo", "original_title": "Drawing and Talking 'Duck' with Tony Anselmo", "slug_title": "drawing-and-talking-duck-with-tony-anselmo", "date": "2005-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

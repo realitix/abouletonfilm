@@ -1,0 +1,1 @@
+{"tmdb_id": 161931, "title": "Bosko the Musketeer", "original_title": "Bosko the Musketeer", "slug_title": "bosko-the-musketeer", "date": "1933-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

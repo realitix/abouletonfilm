@@ -1,0 +1,1 @@
+{"tmdb_id": 457658, "title": "King of the Jungle", "original_title": "King of the Jungle", "slug_title": "king-of-the-jungle", "date": "", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Keaton (John McAfee)", "Seth Rogen (Ari Furman)"], "comments": [], "recommandations_id": []}

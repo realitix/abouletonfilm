@@ -1,0 +1,1 @@
+{"tmdb_id": 427698, "title": "4 Rural Sketches", "original_title": "4 l\u00e4ndliche Skizzen", "slug_title": "4-rural-sketches", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfFL110nhL1oV9g96eUUeaEer8T.jpg", "actors": [], "comments": [], "recommandations_id": []}

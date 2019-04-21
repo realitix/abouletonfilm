@@ -1,0 +1,1 @@
+{"tmdb_id": 349579, "title": "\ubaa8\uc2a4\ud06c\ubc14\uc5d0\uc11c \uc628 S \uc5ec\uc778", "original_title": "\ubaa8\uc2a4\ud06c\ubc14\uc5d0\uc11c \uc628 S \uc5ec\uc778", "slug_title": "moseukeubaeseo-on-s-yeoin", "date": "1993-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

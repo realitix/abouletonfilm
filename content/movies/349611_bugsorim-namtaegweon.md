@@ -1,0 +1,1 @@
+{"tmdb_id": 349611, "title": "\ubd81\uc18c\ub9bc \ub0a8\ud0dc\uad8c", "original_title": "\ubd81\uc18c\ub9bc \ub0a8\ud0dc\uad8c", "slug_title": "bugsorim-namtaegweon", "date": "1984-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349876, "title": "\uc288\ud37c\ub9e8 \uc77c\uc9c0\ub9e4", "original_title": "\uc288\ud37c\ub9e8 \uc77c\uc9c0\ub9e4", "slug_title": "syupeomaen-iljimae", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

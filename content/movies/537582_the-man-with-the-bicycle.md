@@ -1,0 +1,1 @@
+{"tmdb_id": 537582, "title": "The Man With The Bicycle", "original_title": "Der Mann Mit Dem Fahrrad", "slug_title": "the-man-with-the-bicycle", "date": "2018-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/PcLN0n7poMNV829io7E1DPLQ4X.jpg", "actors": [], "comments": [], "recommandations_id": []}

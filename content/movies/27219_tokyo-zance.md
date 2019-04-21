@@ -1,0 +1,1 @@
+{"tmdb_id": 27219, "title": "Tokyo Zance", "original_title": "Tokyo Zance", "slug_title": "tokyo-zance", "date": "2001-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yrtiV8fr5veh3TbANhzW7xxgUiT.jpg", "actors": [], "comments": [], "recommandations_id": []}

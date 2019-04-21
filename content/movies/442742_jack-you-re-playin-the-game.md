@@ -1,0 +1,1 @@
+{"tmdb_id": 442742, "title": "Jack You're Playin' the Game", "original_title": "Jack You're Playin' the Game", "slug_title": "jack-you-re-playin-the-game", "date": "1941-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Delta Rhythm Boys ()", "Elmaurice Miller ()"], "comments": [], "recommandations_id": []}

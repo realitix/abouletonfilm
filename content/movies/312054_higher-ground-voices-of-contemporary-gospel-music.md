@@ -1,0 +1,1 @@
+{"tmdb_id": 312054, "title": "Higher Ground: Voices of Contemporary Gospel Music", "original_title": "Higher Ground: Voices of Contemporary Gospel Music", "slug_title": "higher-ground-voices-of-contemporary-gospel-music", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 513446, "title": "The Inheritance", "original_title": "The Inheritance", "slug_title": "the-inheritance", "date": "1964-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kvoKETLufalBccjnwG0P2JdsCe.jpg", "actors": [], "comments": [], "recommandations_id": []}

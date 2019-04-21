@@ -1,0 +1,1 @@
+{"tmdb_id": 343510, "title": "Chain Reaction 2", "original_title": "Chain Reaction 2", "slug_title": "chain-reaction-2", "date": "2001-01-01", "genre": "Documentaire / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1FHrg5Bd01QSVtvaLKbBMCQYtRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

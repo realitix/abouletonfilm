@@ -1,0 +1,1 @@
+{"tmdb_id": 553976, "title": "Franklin: Franklin's Halloween", "original_title": "Franklin: Franklin's Halloween", "slug_title": "franklin-franklin-s-halloween", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wB6tmYIuOPRpDXvIXOx2mjuwX1I.jpg", "actors": [], "comments": [], "recommandations_id": []}

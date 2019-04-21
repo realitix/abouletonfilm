@@ -1,0 +1,1 @@
+{"tmdb_id": 271294, "title": "Islam: What the World Needs to Know", "original_title": "Islam: What the World Needs to Know", "slug_title": "islam-what-the-world-needs-to-know", "date": "2006-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

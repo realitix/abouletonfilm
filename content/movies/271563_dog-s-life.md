@@ -1,0 +1,1 @@
+{"tmdb_id": 271563, "title": "Dog's Life", "original_title": "Dog's Life", "slug_title": "dog-s-life", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

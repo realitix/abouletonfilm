@@ -1,0 +1,1 @@
+{"tmdb_id": 406621, "title": "The Loyalty of Sylvia", "original_title": "The Loyalty of Sylvia", "slug_title": "the-loyalty-of-sylvia", "date": "1912-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maurice Costello (Dr. Dudley Lawrence)", "Florence Turner (Sylvia)"], "comments": [], "recommandations_id": []}

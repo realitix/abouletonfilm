@@ -1,0 +1,1 @@
+{"tmdb_id": 248512, "title": "The Last Buffalo Hunt", "original_title": "The Last Buffalo Hunt", "slug_title": "the-last-buffalo-hunt", "date": "2011-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332028, "title": "Love at Second Sight", "original_title": "Ahava Mimabat Sheni", "slug_title": "love-at-second-sight", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michal Zoharetz ()", "Alon Aboutboul ()", "Natan Cogan ()"], "comments": [], "recommandations_id": []}

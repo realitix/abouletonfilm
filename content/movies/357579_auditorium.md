@@ -1,0 +1,1 @@
+{"tmdb_id": 357579, "title": "Auditorium", "original_title": "Auditorium", "slug_title": "auditorium", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0ZANFsf7nTiNgrk55jBWMpFrrY.jpg", "actors": [], "comments": [], "recommandations_id": []}

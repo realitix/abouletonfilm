@@ -1,0 +1,1 @@
+{"tmdb_id": 376033, "title": "Weapons that Changed War", "original_title": "Weapons that Changed War", "slug_title": "weapons-that-changed-war", "date": "2011-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9iHnj78XxsJQ35UwaFLgHIBU.jpg", "actors": [], "comments": [], "recommandations_id": []}

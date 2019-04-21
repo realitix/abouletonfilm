@@ -1,0 +1,1 @@
+{"tmdb_id": 510795, "title": "A Soccer Match", "original_title": "Fudbalska utakmica", "slug_title": "a-soccer-match", "date": "1930-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

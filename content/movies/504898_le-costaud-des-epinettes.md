@@ -1,0 +1,1 @@
+{"tmdb_id": 504898, "title": "Le costaud des \u00c9pinettes", "original_title": "Le costaud des \u00c9pinettes", "slug_title": "le-costaud-des-epinettes", "date": "1923-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Germaine Fontanes ()"], "comments": [], "recommandations_id": []}

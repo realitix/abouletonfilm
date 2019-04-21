@@ -1,0 +1,1 @@
+{"tmdb_id": 103978, "title": "Robin Hoodlum", "original_title": "Robin Hoodlum", "slug_title": "robin-hoodlum", "date": "1948-12-23", "genre": "Com\u00e9die / Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjcIlbkgzijih08ddAskic9yqcU.jpg", "actors": [], "comments": [], "recommandations_id": []}

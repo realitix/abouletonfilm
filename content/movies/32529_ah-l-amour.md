@@ -1,0 +1,1 @@
+{"tmdb_id": 32529, "title": "Ah, L'Amour", "original_title": "Ah, L'Amour", "slug_title": "ah-l-amour", "date": "1995-01-01", "genre": "Animation / Com\u00e9die", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXMs9mVC73zX1lrELO0BVPzxZom.jpg", "actors": [], "comments": [], "recommandations_id": [85791, 32535, 69559, 47217]}

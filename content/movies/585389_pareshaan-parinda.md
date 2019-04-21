@@ -1,0 +1,1 @@
+{"tmdb_id": 585389, "title": "Pareshaan Parinda", "original_title": "Pareshaan Parinda", "slug_title": "pareshaan-parinda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLLjGwYWydevlKdC9waPwka8weV.jpg", "actors": ["Meeraj Shah (Neel)", "Sakshi Singh (Mini)"], "comments": [], "recommandations_id": []}

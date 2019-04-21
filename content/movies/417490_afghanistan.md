@@ -1,0 +1,1 @@
+{"tmdb_id": 417490, "title": "Afghanistan", "original_title": "Afghanistan", "slug_title": "afghanistan", "date": "1940-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unrUZ3d3u9hHvGbowctEtnBw7ql.jpg", "actors": [], "comments": [], "recommandations_id": []}

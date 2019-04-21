@@ -1,0 +1,1 @@
+{"tmdb_id": 570700, "title": "Ted Alexandro: As Much As You Want", "original_title": "Ted Alexandro: As Much As You Want", "slug_title": "ted-alexandro-as-much-as-you-want", "date": "2004-06-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ted Alexandro (Himself)"], "comments": [], "recommandations_id": []}

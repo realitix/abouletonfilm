@@ -1,0 +1,1 @@
+{"tmdb_id": 73556, "title": "Edwin San Juan's Pacific Rim Comedy", "original_title": "Edwin San Juan's Pacific Rim Comedy", "slug_title": "edwin-san-juan-s-pacific-rim-comedy", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

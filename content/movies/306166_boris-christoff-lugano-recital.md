@@ -1,0 +1,1 @@
+{"tmdb_id": 306166, "title": "Boris Christoff - Lugano Recital", "original_title": "Boris Christoff - Lugano Recital", "slug_title": "boris-christoff-lugano-recital", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

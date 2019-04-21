@@ -1,0 +1,1 @@
+{"tmdb_id": 236199, "title": "Wotta Nitemare", "original_title": "Wotta Nitemare", "slug_title": "wotta-nitemare", "date": "1939-05-18", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNRV86GRnpq500ydsNYvlXu6uiD.jpg", "actors": [], "comments": [], "recommandations_id": []}

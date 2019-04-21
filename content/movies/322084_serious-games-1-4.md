@@ -1,0 +1,1 @@
+{"tmdb_id": 322084, "title": "Serious Games 1\u20134", "original_title": "Serious Games 1\u20134", "slug_title": "serious-games-1-4", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yR2o0Ju0sN1ZYyqDgA7JcENuEbF.jpg", "actors": [], "comments": [], "recommandations_id": []}

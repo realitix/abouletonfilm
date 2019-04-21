@@ -1,0 +1,1 @@
+{"tmdb_id": 512476, "title": "Copine a louer", "original_title": "Copine a louer", "slug_title": "copine-a-louer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vandal Vyxen ()", "Patrice Boisvert ()", "Rick Hard ()", "Stevo ()", "Kelly Summer ()"], "comments": [], "recommandations_id": []}

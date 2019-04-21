@@ -1,0 +1,1 @@
+{"tmdb_id": 373510, "title": "Momies et Mutants", "original_title": "Momies et Mutants", "slug_title": "momies-et-mutants", "date": "2015-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

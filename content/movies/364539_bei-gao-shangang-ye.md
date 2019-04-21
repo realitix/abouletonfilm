@@ -1,0 +1,1 @@
+{"tmdb_id": 364539, "title": "Bei gao Shangang ye", "original_title": "Bei gao Shangang ye", "slug_title": "bei-gao-shangang-ye", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

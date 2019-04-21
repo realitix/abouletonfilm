@@ -1,0 +1,1 @@
+{"tmdb_id": 331873, "title": "Hashima My Love", "original_title": "Hashima mon amour", "slug_title": "hashima-my-love", "date": "2014-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/baAGNhJm2QVM7jkyPKZl4qqLHPD.jpg", "actors": ["Adrien Michaux (Voice)"], "comments": [], "recommandations_id": []}

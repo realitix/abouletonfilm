@@ -1,0 +1,1 @@
+{"tmdb_id": 231791, "title": "How They Do Things on the Bowery", "original_title": "How They Do Things on the Bowery", "slug_title": "how-they-do-things-on-the-bowery", "date": "1902-10-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

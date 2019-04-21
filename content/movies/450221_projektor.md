@@ -1,0 +1,1 @@
+{"tmdb_id": 450221, "title": "Projektor", "original_title": "Projektor", "slug_title": "projektor", "date": "2017-01-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393610, "title": "Bring Lube!", "original_title": "Har du med glidemiddel?", "slug_title": "bring-lube", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

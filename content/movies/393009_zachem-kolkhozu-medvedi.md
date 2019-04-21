@@ -1,0 +1,1 @@
+{"tmdb_id": 393009, "title": "Zachem kolkhozu medvedi", "original_title": "Zachem kolkhozu medvedi", "slug_title": "zachem-kolkhozu-medvedi", "date": "1984-12-31", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ira873ZsYA1OvUa94eZIj7TTbwC.jpg", "actors": [], "comments": [], "recommandations_id": []}

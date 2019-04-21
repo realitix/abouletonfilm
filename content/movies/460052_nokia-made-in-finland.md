@@ -1,0 +1,1 @@
+{"tmdb_id": 460052, "title": "NOKIA \u2013 made in Finland", "original_title": "NOKIA \u2013 made in Finland", "slug_title": "nokia-made-in-finland", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

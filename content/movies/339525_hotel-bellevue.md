@@ -1,0 +1,1 @@
+{"tmdb_id": 339525, "title": "Hotel Bellevue", "original_title": "Hotel Bellevue", "slug_title": "hotel-bellevue", "date": "2014-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

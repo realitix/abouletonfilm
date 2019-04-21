@@ -1,0 +1,1 @@
+{"tmdb_id": 507958, "title": "The Painter's Nephew", "original_title": "Le neveu du peintre", "slug_title": "the-painter-s-nephew", "date": "1989-01-01", "genre": "Fantastique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

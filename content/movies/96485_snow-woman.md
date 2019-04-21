@@ -1,0 +1,1 @@
+{"tmdb_id": 96485, "title": "Snow Woman", "original_title": "Yuki Onna", "slug_title": "snow-woman", "date": "2009-01-01", "genre": "Horreur", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15ifxQigljCG5fRc6BFPJfkXOPo.jpg", "actors": [], "comments": [], "recommandations_id": []}

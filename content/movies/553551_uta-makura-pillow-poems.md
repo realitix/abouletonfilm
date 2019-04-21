@@ -1,0 +1,1 @@
+{"tmdb_id": 553551, "title": "UTA MAKURA (PILLOW POEMS)", "original_title": "UTA MAKURA (PILLOW POEMS)", "slug_title": "uta-makura-pillow-poems", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

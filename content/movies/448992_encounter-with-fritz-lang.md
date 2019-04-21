@@ -1,0 +1,1 @@
+{"tmdb_id": 448992, "title": "Encounter with Fritz Lang", "original_title": "Begegnung mit Fritz Lang", "slug_title": "encounter-with-fritz-lang", "date": "1964-02-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fritz Lang (Interviewee)"], "comments": [], "recommandations_id": []}

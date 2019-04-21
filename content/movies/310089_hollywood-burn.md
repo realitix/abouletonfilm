@@ -1,0 +1,1 @@
+{"tmdb_id": 310089, "title": "Hollywood Burn", "original_title": "Hollywood Burn", "slug_title": "hollywood-burn", "date": "2006-03-10", "genre": "Com\u00e9die / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JM3FSjJ1fNij7eq4JeQ1B6pMnY.jpg", "actors": [], "comments": [], "recommandations_id": []}

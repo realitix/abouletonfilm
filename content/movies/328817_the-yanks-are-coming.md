@@ -1,0 +1,1 @@
+{"tmdb_id": 328817, "title": "The Yanks Are Coming", "original_title": "The Yanks Are Coming", "slug_title": "the-yanks-are-coming", "date": "1935-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

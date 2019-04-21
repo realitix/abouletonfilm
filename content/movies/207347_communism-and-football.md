@@ -1,0 +1,1 @@
+{"tmdb_id": 207347, "title": "Communism and Football", "original_title": "Communism and Football", "slug_title": "communism-and-football", "date": "2006-04-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

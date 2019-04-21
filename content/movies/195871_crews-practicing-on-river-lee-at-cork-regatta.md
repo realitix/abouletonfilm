@@ -1,0 +1,1 @@
+{"tmdb_id": 195871, "title": "Crews Practicing on River Lee at Cork Regatta", "original_title": "Crews Practicing on River Lee at Cork Regatta", "slug_title": "crews-practicing-on-river-lee-at-cork-regatta", "date": "1902-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

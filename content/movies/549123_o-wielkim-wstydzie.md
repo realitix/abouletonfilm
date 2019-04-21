@@ -1,0 +1,1 @@
+{"tmdb_id": 549123, "title": "O wielkim wstydzie", "original_title": "O wielkim wstydzie", "slug_title": "o-wielkim-wstydzie", "date": "1998-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxjbejTr23d7kaYiV7yHhjKYvuA.jpg", "actors": [], "comments": [], "recommandations_id": []}

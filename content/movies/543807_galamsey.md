@@ -1,0 +1,1 @@
+{"tmdb_id": 543807, "title": "Galamsey", "original_title": "Galamsey", "slug_title": "galamsey", "date": "2017-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkzitkHWK3iXePIuViTFICahU8j.jpg", "actors": [], "comments": [], "recommandations_id": []}

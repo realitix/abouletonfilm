@@ -1,0 +1,1 @@
+{"tmdb_id": 567569, "title": "Degrees of Uncertainty", "original_title": "Degrees of Uncertainty", "slug_title": "degrees-of-uncertainty", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 56432, "title": "Mac Dre Treal TV #2", "original_title": "Mac Dre Treal TV #2", "slug_title": "mac-dre-treal-tv-2", "date": "2006-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8uYQ7oL4w3naYMfsQY5puPMVxXG.jpg", "actors": ["Mac Dre (Himself)"], "comments": [], "recommandations_id": []}

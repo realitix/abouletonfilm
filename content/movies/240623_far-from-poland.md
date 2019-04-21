@@ -1,0 +1,1 @@
+{"tmdb_id": 240623, "title": "Far from Poland", "original_title": "Far from Poland", "slug_title": "far-from-poland", "date": "1984-03-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uu0nk0aYgz8SgxHRCSc7fOfGXLS.jpg", "actors": [], "comments": [], "recommandations_id": []}

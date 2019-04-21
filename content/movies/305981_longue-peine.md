@@ -1,0 +1,1 @@
+{"tmdb_id": 305981, "title": "Longue Peine", "original_title": "Longue Peine", "slug_title": "longue-peine", "date": "2011-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Romane Bohringer ()", "Bruno Todeschini ()", "Francis Renaud ()", "Micky S\u00e9bastian ()", "Jacques Boudet ()"], "comments": [], "recommandations_id": []}

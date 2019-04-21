@@ -1,0 +1,1 @@
+{"tmdb_id": 570602, "title": "Dr. Seuss and the Grinch: From Whoville to Hollywood", "original_title": "Dr. Seuss and the Grinch: From Whoville to Hollywood", "slug_title": "dr-seuss-and-the-grinch-from-whoville-to-hollywood", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

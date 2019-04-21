@@ -1,0 +1,1 @@
+{"tmdb_id": 570448, "title": "O esp\u00edrito de Pucho Boedo", "original_title": "O esp\u00edrito de Pucho Boedo", "slug_title": "o-espirito-de-pucho-boedo", "date": "2018-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqRfX8Mg25RhN6Ikry8ByF0gbCo.jpg", "actors": [], "comments": [], "recommandations_id": []}

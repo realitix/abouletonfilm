@@ -1,0 +1,1 @@
+{"tmdb_id": 559658, "title": "Without Trumpet or Drum", "original_title": "Sans tambour ni trompette", "slug_title": "without-trumpet-or-drum", "date": "1950-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

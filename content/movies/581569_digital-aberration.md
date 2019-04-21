@@ -1,0 +1,1 @@
+{"tmdb_id": 581569, "title": "Digital Aberration", "original_title": "Digital Aberration", "slug_title": "digital-aberration", "date": "2004-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

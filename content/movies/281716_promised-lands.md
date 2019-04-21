@@ -1,0 +1,1 @@
+{"tmdb_id": 281716, "title": "Promised Lands", "original_title": "Promised Lands.", "slug_title": "promised-lands", "date": "1974-01-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJj2nCq01xgm6w0xjbWaHh4Ryhx.jpg", "actors": ["Susan Sontag ()"], "comments": [], "recommandations_id": []}

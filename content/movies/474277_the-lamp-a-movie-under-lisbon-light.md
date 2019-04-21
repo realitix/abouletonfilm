@@ -1,0 +1,1 @@
+{"tmdb_id": 474277, "title": "The Lamp - A Movie Under Lisbon Light", "original_title": "O Candeeiro - Um Filme \u00e0 Luz de Lisboa", "slug_title": "the-lamp-a-movie-under-lisbon-light", "date": "2016-09-06", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

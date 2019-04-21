@@ -1,0 +1,1 @@
+{"tmdb_id": 469122, "title": "Dead Friends", "original_title": "Dead Friends", "slug_title": "dead-friends", "date": "2017-02-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soJYMoUofa83gndY6Y9PzCAhVy6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580695, "title": "Errol Spence Jr. vs. Mikey Garcia", "original_title": "Errol Spence Jr. vs. Mikey Garcia", "slug_title": "errol-spence-jr-vs-mikey-garcia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k342SONizm2M0PKmqpFAsvdHBUk.jpg", "actors": [], "comments": [], "recommandations_id": []}

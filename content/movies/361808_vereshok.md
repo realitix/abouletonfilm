@@ -1,0 +1,1 @@
+{"tmdb_id": 361808, "title": "\u0412\u0435\u0440\u0435\u0448\u043e\u043a", "original_title": "\u0412\u0435\u0440\u0435\u0448\u043e\u043a", "slug_title": "vereshok", "date": "1984-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8AV1VCbgaXhQKZfQKk3IRyg0yz.jpg", "actors": [], "comments": [], "recommandations_id": []}

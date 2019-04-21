@@ -1,0 +1,1 @@
+{"tmdb_id": 174484, "title": "The Girl at the Ironing Board", "original_title": "The Girl at the Ironing Board", "slug_title": "the-girl-at-the-ironing-board", "date": "1934-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2V3N53I85e0zsmsFaR0HvhRMeEe.jpg", "actors": [], "comments": [], "recommandations_id": []}

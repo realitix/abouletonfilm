@@ -1,0 +1,1 @@
+{"tmdb_id": 185950, "title": "Bob Dylan 65 Revisited", "original_title": "Bob Dylan 65 Revisited", "slug_title": "bob-dylan-65-revisited", "date": "1967-10-10", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhKjj2g507nvEPvsVceUQ87ZdKU.jpg", "actors": [], "comments": [], "recommandations_id": []}

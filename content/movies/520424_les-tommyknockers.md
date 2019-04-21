@@ -1,0 +1,1 @@
+{"tmdb_id": 520424, "title": "Les Tommyknockers", "original_title": "The Tommyknockers", "slug_title": "les-tommyknockers", "date": "1993-05-09", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28WlTgQR6VYAHMdpDGrEfvTyMb0.jpg", "actors": ["Jason Clarke ()"], "comments": [], "recommandations_id": []}

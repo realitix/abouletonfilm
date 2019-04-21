@@ -1,0 +1,1 @@
+{"tmdb_id": 486803, "title": "Impango II", "original_title": "Impango II", "slug_title": "impango-ii", "date": "1988-06-21", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Innocent Gumede ()", "Hector Mathanda ()", "Kay Magubane ()", "Gugu Mhlanga ()"], "comments": [], "recommandations_id": []}

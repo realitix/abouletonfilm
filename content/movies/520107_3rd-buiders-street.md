@@ -1,0 +1,1 @@
+{"tmdb_id": 520107, "title": "3rd Buiders' Street", "original_title": "3rd Buiders' Street", "slug_title": "3rd-buiders-street", "date": "2018-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

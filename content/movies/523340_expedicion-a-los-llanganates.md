@@ -1,0 +1,1 @@
+{"tmdb_id": 523340, "title": "Expedici\u00f3n a los Llanganates", "original_title": "Expedici\u00f3n a los Llanganates", "slug_title": "expedicion-a-los-llanganates", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 441468, "title": "Berkeley 12 to 1", "original_title": "Berkeley 12 to 1", "slug_title": "berkeley-12-to-1", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

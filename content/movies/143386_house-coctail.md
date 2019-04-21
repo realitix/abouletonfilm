@@ -1,0 +1,1 @@
+{"tmdb_id": 143386, "title": "House Coctail", "original_title": "House Coctail", "slug_title": "house-coctail", "date": "2012-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Chavez (The Good)", "Shenoah Allen (The Bad)", "Laura Haddock (The Beautiful)"], "comments": [], "recommandations_id": []}

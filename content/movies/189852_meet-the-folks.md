@@ -1,0 +1,1 @@
+{"tmdb_id": 189852, "title": "Meet the Folks", "original_title": "Meet the Folks", "slug_title": "meet-the-folks", "date": "1927-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmie Adams (James Pettingill)"], "comments": [], "recommandations_id": []}

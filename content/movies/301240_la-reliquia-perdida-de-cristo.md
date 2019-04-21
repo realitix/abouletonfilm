@@ -1,0 +1,1 @@
+{"tmdb_id": 301240, "title": "La reliquia perdida de Cristo", "original_title": "La reliquia perdida de Cristo", "slug_title": "la-reliquia-perdida-de-cristo", "date": "2016-10-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHC6zHRflyrxA9FvkoAhLpYfR08.jpg", "actors": [], "comments": [], "recommandations_id": []}

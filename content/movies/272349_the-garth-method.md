@@ -1,0 +1,1 @@
+{"tmdb_id": 272349, "title": "The Garth Method", "original_title": "The Garth Method", "slug_title": "the-garth-method", "date": "2004-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awI9M99RQRnjN8MCDCSwbEexwQV.jpg", "actors": [], "comments": [], "recommandations_id": []}

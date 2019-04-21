@@ -1,0 +1,1 @@
+{"tmdb_id": 545346, "title": "Del pingo al volante", "original_title": "Del pingo al volante", "slug_title": "del-pingo-al-volante", "date": "1929-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9q6MqL7Fd13wh8Hiq33W5f6juB.jpg", "actors": [], "comments": [], "recommandations_id": []}

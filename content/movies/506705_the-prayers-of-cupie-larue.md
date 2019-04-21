@@ -1,0 +1,1 @@
+{"tmdb_id": 506705, "title": "The Prayers of Cupie LaRue", "original_title": "The Prayers of Cupie LaRue", "slug_title": "the-prayers-of-cupie-larue", "date": "2005-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fKnDPkM2UeO5DNwV0FPfOUvKXIq.jpg", "actors": [], "comments": [], "recommandations_id": []}

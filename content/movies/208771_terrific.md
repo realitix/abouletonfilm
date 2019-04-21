@@ -1,0 +1,1 @@
+{"tmdb_id": 208771, "title": "Terrific!", "original_title": "Terrific!", "slug_title": "terrific", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paco Mir ()", "Joan Gr\u00e0cia ()", "Carles Sans ()"], "comments": [], "recommandations_id": []}

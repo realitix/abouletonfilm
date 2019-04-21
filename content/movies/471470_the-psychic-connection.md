@@ -1,0 +1,1 @@
+{"tmdb_id": 471470, "title": "The Psychic Connection", "original_title": "The Psychic Connection", "slug_title": "the-psychic-connection", "date": "1983-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBfy9kw8UQmPi8HQOAeeucUJ5HD.jpg", "actors": [], "comments": [], "recommandations_id": []}

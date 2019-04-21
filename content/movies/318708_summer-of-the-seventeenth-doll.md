@@ -1,0 +1,1 @@
+{"tmdb_id": 318708, "title": "Summer of the Seventeenth Doll", "original_title": "Summer of the Seventeenth Doll", "slug_title": "summer-of-the-seventeenth-doll", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

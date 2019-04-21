@@ -1,0 +1,1 @@
+{"tmdb_id": 425103, "title": "Killing Eric", "original_title": "Killing Eric", "slug_title": "killing-eric", "date": "2016-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rippltcsdyZ6THexyM9qyg6itIt.jpg", "actors": [], "comments": [], "recommandations_id": []}

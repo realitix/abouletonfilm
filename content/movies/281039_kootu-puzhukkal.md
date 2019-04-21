@@ -1,0 +1,1 @@
+{"tmdb_id": 281039, "title": "Kootu Puzhukkal", "original_title": "Kootu Puzhukkal", "slug_title": "kootu-puzhukkal", "date": "1987-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raghuvaran ()", "Amala Akkineni ()", "Vagai Chandrasekar ()", "Y. Vijaya ()"], "comments": [], "recommandations_id": []}

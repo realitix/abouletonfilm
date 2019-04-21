@@ -1,0 +1,1 @@
+{"tmdb_id": 328654, "title": "The Crime Of Korea", "original_title": "The Crime Of Korea", "slug_title": "the-crime-of-korea", "date": "1950-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

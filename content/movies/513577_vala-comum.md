@@ -1,0 +1,1 @@
+{"tmdb_id": 513577, "title": "Vala Comum", "original_title": "Vala Comum", "slug_title": "vala-comum", "date": "1995-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

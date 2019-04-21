@@ -1,0 +1,1 @@
+{"tmdb_id": 307443, "title": "The Island of the Spirits", "original_title": "A Ilha dos Esp\u00edritos", "slug_title": "the-island-of-the-spirits", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HPHaGIsO8QUg2cf8KlInxAirpq.jpg", "actors": [], "comments": [], "recommandations_id": []}

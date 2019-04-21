@@ -1,0 +1,1 @@
+{"tmdb_id": 137129, "title": "Maldita vecindad", "original_title": "Maldita vecindad", "slug_title": "maldita-vecindad", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manuel Ojeda ()", "Roberto Sosa ()", "Leonardo Daniel ()"], "comments": [], "recommandations_id": []}

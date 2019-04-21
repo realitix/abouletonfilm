@@ -1,0 +1,1 @@
+{"tmdb_id": 543498, "title": "Love Cycle: A Soap Operetta", "original_title": "Love Cycle: A Soap Operetta", "slug_title": "love-cycle-a-soap-operetta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 97576, "title": "The Midnight Parasites", "original_title": "Kiseichuu no Ichiya", "slug_title": "the-midnight-parasites", "date": "1972-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9C1pgBGtEgVfHWRHjwdMuJ3e4F.jpg", "actors": [], "comments": [], "recommandations_id": []}

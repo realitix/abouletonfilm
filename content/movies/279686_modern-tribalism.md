@@ -1,0 +1,1 @@
+{"tmdb_id": 279686, "title": "Modern Tribalism", "original_title": "Modern Tribalism", "slug_title": "modern-tribalism", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

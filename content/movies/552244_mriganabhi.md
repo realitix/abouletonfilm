@@ -1,0 +1,1 @@
+{"tmdb_id": 552244, "title": "Mriganabhi", "original_title": "Mriganabhi", "slug_title": "mriganabhi", "date": "2017-03-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94buGiaeWLnGSfVEmbEZ9nc6ViP.jpg", "actors": ["Nipon Goswami ()"], "comments": [], "recommandations_id": []}

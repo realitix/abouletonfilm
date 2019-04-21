@@ -1,0 +1,1 @@
+{"tmdb_id": 301488, "title": "That Blue Devil!", "original_title": "That Blue Devil!", "slug_title": "that-blue-devil", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

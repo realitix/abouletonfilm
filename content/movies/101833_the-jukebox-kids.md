@@ -1,0 +1,1 @@
+{"tmdb_id": 101833, "title": "The Jukebox Kids", "original_title": "Ragazzi del Juke-Box", "slug_title": "the-jukebox-kids", "date": "1959-08-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uT541kfgEKVduTIQuJd5o25g71c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 372580, "title": "Die Premiere f\u00e4llt aus", "original_title": "Die Premiere f\u00e4llt aus", "slug_title": "die-premiere-fallt-aus", "date": "1959-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Iu4Ph37nkVG5TCMsZfpJW9h0zC.jpg", "actors": [], "comments": [], "recommandations_id": []}

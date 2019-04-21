@@ -1,0 +1,1 @@
+{"tmdb_id": 385267, "title": "The Coronation", "original_title": "The Coronation", "slug_title": "the-coronation", "date": "1965-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 256195, "title": "Alice Walker: Beauty in Truth", "original_title": "Alice Walker: Beauty in Truth", "slug_title": "alice-walker-beauty-in-truth", "date": "2013-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVrNhyiybVVzyLS0ZNifDeqKdi3.jpg", "actors": [], "comments": [], "recommandations_id": []}

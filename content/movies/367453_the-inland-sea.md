@@ -1,0 +1,1 @@
+{"tmdb_id": 367453, "title": "The Inland Sea", "original_title": "The Inland Sea", "slug_title": "the-inland-sea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

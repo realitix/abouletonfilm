@@ -1,0 +1,1 @@
+{"tmdb_id": 454354, "title": "The Rise of the Synths", "original_title": "The Rise of the Synths", "slug_title": "the-rise-of-the-synths", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXKnnIR6NTmQx69OJgjpF4CoUdp.jpg", "actors": [], "comments": [], "recommandations_id": []}

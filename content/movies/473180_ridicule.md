@@ -1,0 +1,1 @@
+{"tmdb_id": 473180, "title": "Ridicule", "original_title": "Ridicule", "slug_title": "ridicule", "date": "2011-04-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdozaEEaXvemtLCoRALhZoGEOhS.jpg", "actors": ["Romain Sellier (Romain)"], "comments": [], "recommandations_id": []}

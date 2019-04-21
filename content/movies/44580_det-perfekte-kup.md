@@ -1,0 +1,1 @@
+{"tmdb_id": 44580, "title": "Det perfekte kup", "original_title": "Det perfekte kup", "slug_title": "det-perfekte-kup", "date": "2008-12-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmfezUaRwZlaE7R8D2cRbL1i43L.jpg", "actors": [], "comments": [], "recommandations_id": []}

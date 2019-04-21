@@ -1,0 +1,1 @@
+{"tmdb_id": 201934, "title": "Dr. Isnardi: Amputation", "original_title": "Dottor Isnardi: Amputazione", "slug_title": "dr-isnardi-amputation", "date": "1907-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

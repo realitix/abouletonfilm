@@ -1,0 +1,1 @@
+{"tmdb_id": 275770, "title": "Psychobilly: Behind the Music", "original_title": "Psychobilly: Behind the Music", "slug_title": "psychobilly-behind-the-music", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gheml12nfjPDMUHOFSkLOcNFh5X.jpg", "actors": [], "comments": [], "recommandations_id": []}

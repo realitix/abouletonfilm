@@ -1,0 +1,1 @@
+{"tmdb_id": 427957, "title": "(A Long Day of) Mr. Calpaccio", "original_title": "(A Long Day of) Mr. Calpaccio", "slug_title": "a-long-day-of-mr-calpaccio", "date": "2005-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJRszg2T4LtF764uRCMzAe1Pzej.jpg", "actors": [], "comments": [], "recommandations_id": []}

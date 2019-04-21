@@ -1,0 +1,1 @@
+{"tmdb_id": 401251, "title": "Thrilla in Manilla", "original_title": "Thrilla in Manilla", "slug_title": "thrilla-in-manilla", "date": "2020-12-31", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

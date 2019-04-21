@@ -1,0 +1,1 @@
+{"tmdb_id": 583654, "title": "Meeting at the eclipse", "original_title": "Meeting at the eclipse", "slug_title": "meeting-at-the-eclipse", "date": "2019-02-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ocOHYvPAYgPOglj1cbdBa3Hqgol.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 231271, "title": "All About Dinosaurs", "original_title": "All About Dinosaurs", "slug_title": "all-about-dinosaurs", "date": "2008-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h07KFHXOKNd2XVyiZ6Fcu9nhh5T.jpg", "actors": [], "comments": [], "recommandations_id": []}

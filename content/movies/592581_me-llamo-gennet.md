@@ -1,0 +1,1 @@
+{"tmdb_id": 592581, "title": "Me llamo Gennet", "original_title": "Me llamo Gennet", "slug_title": "me-llamo-gennet", "date": "2019-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNTDTciyUZ77XdwI22VsGsJYpbP.jpg", "actors": [], "comments": [], "recommandations_id": []}

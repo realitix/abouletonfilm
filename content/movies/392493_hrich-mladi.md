@@ -1,0 +1,1 @@
+{"tmdb_id": 392493, "title": "H\u0159\u00edch ml\u00e1d\u00ed", "original_title": "H\u0159\u00edch ml\u00e1d\u00ed", "slug_title": "hrich-mladi", "date": "1935-04-11", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wiA9JlwbLCee3Jej9nuQ6GW1Uuk.jpg", "actors": [], "comments": [], "recommandations_id": []}

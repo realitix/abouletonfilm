@@ -1,0 +1,1 @@
+{"tmdb_id": 585226, "title": "The Hart-Break Killer", "original_title": "The Hart-Break Killer", "slug_title": "the-hart-break-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eight The Chosen One (Robert Hart / Alt. Robert)", "Ashley Lynn Caputo (Dr. Ruth Spector)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 40012, "title": "Raising Jeffrey Dahmer", "original_title": "Raising Jeffrey Dahmer", "slug_title": "raising-jeffrey-dahmer", "date": "2006-04-13", "genre": "Drame / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fmMHsbEbjabwP9vlEPE3xhfj6j4.jpg", "actors": [], "comments": [], "recommandations_id": []}

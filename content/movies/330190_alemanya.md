@@ -1,0 +1,1 @@
+{"tmdb_id": 330190, "title": "Alemanya", "original_title": "Alemanya", "slug_title": "alemanya", "date": "2003-01-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382802, "title": "Hanasareru Gang", "original_title": "Hanasareru Gang", "slug_title": "hanasareru-gang", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWdL39qfhIsnfMVJOVX9O28VFP.jpg", "actors": ["Takayuki Kamura (Kamura)", "Rie Ito (Rie)"], "comments": [], "recommandations_id": []}

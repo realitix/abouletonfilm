@@ -1,0 +1,1 @@
+{"tmdb_id": 506420, "title": "Body Manifesto", "original_title": "Corpo Manifesto", "slug_title": "body-manifesto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Djamila Ribeiro (Herself)"], "comments": [], "recommandations_id": []}

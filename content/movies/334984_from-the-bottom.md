@@ -1,0 +1,1 @@
+{"tmdb_id": 334984, "title": "From the Bottom", "original_title": "From the Bottom", "slug_title": "from-the-bottom", "date": "2008-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

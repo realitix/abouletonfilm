@@ -1,0 +1,1 @@
+{"tmdb_id": 353547, "title": "I Was a Capo", "original_title": "Bylem Kapo", "slug_title": "i-was-a-capo", "date": "1960-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tiG3vhoRKcSX8K5YmcKPKgqNvyd.jpg", "actors": [], "comments": [], "recommandations_id": []}

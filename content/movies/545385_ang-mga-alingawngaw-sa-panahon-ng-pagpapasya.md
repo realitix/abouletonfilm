@@ -1,0 +1,1 @@
+{"tmdb_id": 545385, "title": "Ang mga alingawngaw sa panahon ng pagpapasya", "original_title": "Ang mga alingawngaw sa panahon ng pagpapasya", "slug_title": "ang-mga-alingawngaw-sa-panahon-ng-pagpapasya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

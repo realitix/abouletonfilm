@@ -1,0 +1,1 @@
+{"tmdb_id": 504963, "title": "Bangkok Joyride: Chapter 2 - Shutdown Bangkok", "original_title": "Bangkok Joyride: Chapter 2 - Shutdown Bangkok", "slug_title": "bangkok-joyride-chapter-2-shutdown-bangkok", "date": "2017-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

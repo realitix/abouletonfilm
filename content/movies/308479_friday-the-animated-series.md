@@ -1,0 +1,1 @@
+{"tmdb_id": 308479, "title": "Friday: The Animated Series", "original_title": "Friday: The Animated Series", "slug_title": "friday-the-animated-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

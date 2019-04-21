@@ -1,0 +1,1 @@
+{"tmdb_id": 17088, "title": "Banned from Television", "original_title": "Banned from Television", "slug_title": "banned-from-television", "date": "1998-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dT5Nj64XYQIesPQpYApFZv09JIl.jpg", "actors": [], "comments": [], "recommandations_id": []}

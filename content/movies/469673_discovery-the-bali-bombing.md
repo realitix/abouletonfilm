@@ -1,0 +1,1 @@
+{"tmdb_id": 469673, "title": "Discovery: The Bali Bombing", "original_title": "Discovery: The Bali Bombing", "slug_title": "discovery-the-bali-bombing", "date": "2005-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fiwcfKRwKVS5gNrOeO7SyxbFKyF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366763, "title": "I Am Syd Stone", "original_title": "I Am Syd Stone", "slug_title": "i-am-syd-stone", "date": "", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3d2my0Xy2zqpMR4Db9mMyXyvFHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 441713, "title": "The New Politics", "original_title": "The New Politics", "slug_title": "the-new-politics", "date": "2016-09-03", "genre": "Science-Fiction", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

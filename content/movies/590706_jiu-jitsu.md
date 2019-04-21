@@ -1,0 +1,1 @@
+{"tmdb_id": 590706, "title": "Jiu Jitsu", "original_title": "Jiu Jitsu", "slug_title": "jiu-jitsu", "date": "", "genre": "Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Cage ()", "Alain Moussi ()"], "comments": [], "recommandations_id": []}

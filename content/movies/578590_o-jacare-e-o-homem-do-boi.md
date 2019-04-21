@@ -1,0 +1,1 @@
+{"tmdb_id": 578590, "title": "O jacar\u00e9 e o homem do boi", "original_title": "O jacar\u00e9 e o homem do boi", "slug_title": "o-jacare-e-o-homem-do-boi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

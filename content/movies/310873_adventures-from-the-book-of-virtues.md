@@ -1,0 +1,1 @@
+{"tmdb_id": 310873, "title": "Adventures from the Book of Virtues", "original_title": "Adventures from the Book of Virtues", "slug_title": "adventures-from-the-book-of-virtues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

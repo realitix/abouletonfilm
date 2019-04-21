@@ -1,0 +1,1 @@
+{"tmdb_id": 508831, "title": "Walls in the City", "original_title": "Walls in the City", "slug_title": "walls-in-the-city", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paula Killen ()", "Bill Cusack ()", "Tony Fitzpatrick ()", "David Yow ()", "Michael James ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520010, "title": "Il popolo calabrese ha rialzato la testa", "original_title": "Il popolo calabrese ha rialzato la testa", "slug_title": "il-popolo-calabrese-ha-rialzato-la-testa", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

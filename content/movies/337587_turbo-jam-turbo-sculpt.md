@@ -1,0 +1,1 @@
+{"tmdb_id": 337587, "title": "Turbo Jam: Turbo Sculpt", "original_title": "Turbo Jam: Turbo Sculpt", "slug_title": "turbo-jam-turbo-sculpt", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBedE9TIxC75cdXKyxpqPQvzDlw.jpg", "actors": [], "comments": [], "recommandations_id": []}

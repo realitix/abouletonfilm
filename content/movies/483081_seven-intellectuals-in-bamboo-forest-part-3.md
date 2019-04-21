@@ -1,0 +1,1 @@
+{"tmdb_id": 483081, "title": "Seven Intellectuals in Bamboo Forest Part 3", "original_title": "Seven Intellectuals in Bamboo Forest Part 3", "slug_title": "seven-intellectuals-in-bamboo-forest-part-3", "date": "2006-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

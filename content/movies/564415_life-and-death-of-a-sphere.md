@@ -1,0 +1,1 @@
+{"tmdb_id": 564415, "title": "Life and Death of a Sphere", "original_title": "Life and Death of a Sphere", "slug_title": "life-and-death-of-a-sphere", "date": "1948-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

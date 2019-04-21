@@ -1,0 +1,1 @@
+{"tmdb_id": 568211, "title": "Pitbull", "original_title": "Pitbull", "slug_title": "pitbull", "date": "2018-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZa2dg70wr1CmLjLAu7t0XZ86jb.jpg", "actors": [], "comments": [], "recommandations_id": []}

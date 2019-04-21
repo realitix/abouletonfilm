@@ -1,0 +1,1 @@
+{"tmdb_id": 139273, "title": "Fudget's Budget", "original_title": "Fudget's Budget", "slug_title": "fudget-s-budget", "date": "1954-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

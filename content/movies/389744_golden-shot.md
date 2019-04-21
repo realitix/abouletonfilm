@@ -1,0 +1,1 @@
+{"tmdb_id": 389744, "title": "Golden Shot", "original_title": "Golden Shot", "slug_title": "golden-shot", "date": "2015-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96ctTdNvulrDj6MdBl9yKpE2xPe.jpg", "actors": [], "comments": [], "recommandations_id": []}

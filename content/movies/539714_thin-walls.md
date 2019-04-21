@@ -1,0 +1,1 @@
+{"tmdb_id": 539714, "title": "Thin Walls", "original_title": "Thin Walls", "slug_title": "thin-walls", "date": "", "genre": "Horreur", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katrina Chamberlain (Cloe Baker/Demon)"], "comments": [], "recommandations_id": []}

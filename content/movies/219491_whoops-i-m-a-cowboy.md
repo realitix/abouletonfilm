@@ -1,0 +1,1 @@
+{"tmdb_id": 219491, "title": "Whoops! I'm a Cowboy", "original_title": "Whoops! I'm a Cowboy", "slug_title": "whoops-i-m-a-cowboy", "date": "1937-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

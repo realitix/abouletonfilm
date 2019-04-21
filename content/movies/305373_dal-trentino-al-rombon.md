@@ -1,0 +1,1 @@
+{"tmdb_id": 305373, "title": "Dal Trentino al Rombon", "original_title": "Dal Trentino al Rombon", "slug_title": "dal-trentino-al-rombon", "date": "1917-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

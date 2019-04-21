@@ -1,0 +1,1 @@
+{"tmdb_id": 401626, "title": "By a Woman's Wit", "original_title": "By a Woman's Wit", "slug_title": "by-a-woman-s-wit", "date": "1911-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J.J. Clark (Captain Jasper)", "Alice Hollister (Pamela)", "J.P. McGowan ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 405526, "title": "The Song of Spirits", "original_title": "Xin ling zhi ge", "slug_title": "the-song-of-spirits", "date": "2006-11-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v3YS27n9UgGTrJsRkiq2LMtw46C.jpg", "actors": ["Janine Chang (Tsu-hui)"], "comments": [], "recommandations_id": []}

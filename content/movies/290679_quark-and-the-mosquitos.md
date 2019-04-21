@@ -1,0 +1,1 @@
+{"tmdb_id": 290679, "title": "Quark and the Mosquitos", "original_title": "Quark and the Mosquitos", "slug_title": "quark-and-the-mosquitos", "date": "1987-12-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebT6B8Axdixl2aYyRyPALvRJQYi.jpg", "actors": [], "comments": [], "recommandations_id": []}

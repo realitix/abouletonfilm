@@ -1,0 +1,1 @@
+{"tmdb_id": 474969, "title": "Bad Habits & How to Change Them -1950s", "original_title": "Bad Habits & How to Change Them -1950s", "slug_title": "bad-habits-how-to-change-them-1950s", "date": "1950-06-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

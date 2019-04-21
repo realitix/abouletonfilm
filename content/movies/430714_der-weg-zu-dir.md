@@ -1,0 +1,1 @@
+{"tmdb_id": 430714, "title": "Der Weg zu Dir", "original_title": "Der Weg zu Dir", "slug_title": "der-weg-zu-dir", "date": "2014-02-05", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLmQ1qT9Y6ZTi5lW9MVSOmWgyKf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421494, "title": "Whatever Happened to Uncle Fred?", "original_title": "Whatever Happened to Uncle Fred?", "slug_title": "whatever-happened-to-uncle-fred", "date": "1968-09-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

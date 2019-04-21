@@ -1,0 +1,1 @@
+{"tmdb_id": 532092, "title": "Bird of Dusk", "original_title": "Bird of Dusk", "slug_title": "bird-of-dusk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

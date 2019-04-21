@@ -1,0 +1,1 @@
+{"tmdb_id": 412740, "title": "Rwanda & Juliet", "original_title": "Rwanda & Juliet", "slug_title": "rwanda-juliet", "date": "2016-12-01", "genre": "Documentaire / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2eYe9zLFBVOiPSW74lziNq0vJkU.jpg", "actors": [], "comments": [], "recommandations_id": []}

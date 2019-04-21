@@ -1,0 +1,1 @@
+{"tmdb_id": 440650, "title": "Heukseok Kids", "original_title": "\u9ed1\u77f3\u8ff7\u513f", "slug_title": "heukseok-kids", "date": "2017-02-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uI3nC53vDvmtvjXajhYFDZV8Ylb.jpg", "actors": ["Wang Yilin ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 507582, "title": "Scuttlers", "original_title": "Scuttlers", "slug_title": "scuttlers", "date": "2020-10-30", "genre": "Horreur / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

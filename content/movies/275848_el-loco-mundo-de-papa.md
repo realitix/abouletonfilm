@@ -1,0 +1,1 @@
+{"tmdb_id": 275848, "title": "El Loco Mundo de Papa", "original_title": "El Loco Mundo de Papa", "slug_title": "el-loco-mundo-de-papa", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

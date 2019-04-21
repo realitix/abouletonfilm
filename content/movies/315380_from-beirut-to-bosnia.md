@@ -1,0 +1,1 @@
+{"tmdb_id": 315380, "title": "From Beirut to Bosnia", "original_title": "From Beirut to Bosnia", "slug_title": "from-beirut-to-bosnia", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

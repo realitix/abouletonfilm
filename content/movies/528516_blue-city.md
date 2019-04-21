@@ -1,0 +1,1 @@
+{"tmdb_id": 528516, "title": "Blue City", "original_title": "Blue City", "slug_title": "blue-city", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dennis McMorrow (Blue Man)", "Terin Jackson (Boy)", "David Whiting (Apprentice Thief)", "Dave White (Head Thief)"], "comments": [], "recommandations_id": []}

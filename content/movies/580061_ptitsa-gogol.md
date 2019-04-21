@@ -1,0 +1,1 @@
+{"tmdb_id": 580061, "title": "\u041f\u0442\u0438\u0446\u0430-\u0413\u043e\u0433\u043e\u043b\u044c", "original_title": "\u041f\u0442\u0438\u0446\u0430-\u0413\u043e\u0433\u043e\u043b\u044c", "slug_title": "ptitsa-gogol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

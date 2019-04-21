@@ -1,0 +1,1 @@
+{"tmdb_id": 443217, "title": "Love Isn't Enough", "original_title": "Love Isn't Enough", "slug_title": "love-isn-t-enough", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

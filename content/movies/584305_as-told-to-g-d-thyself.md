@@ -1,0 +1,1 @@
+{"tmdb_id": 584305, "title": "As Told To G/D Thyself", "original_title": "As Told To G/D Thyself", "slug_title": "as-told-to-g-d-thyself", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ml1WFb7ReQXsywuFUPu643pcZKE.jpg", "actors": ["Kamasi Washington ()"], "comments": [], "recommandations_id": []}

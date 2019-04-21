@@ -1,0 +1,1 @@
+{"tmdb_id": 546379, "title": "Vampire Reborn", "original_title": "Vampire Reborn", "slug_title": "vampire-reborn", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katrina Grey (Sandy)", "Randy Kalsi (Wampire)", "Anastasia Maslova (Hair Stylist)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 203076, "title": "Daybreak", "original_title": "Daybreak", "slug_title": "daybreak", "date": "2008-02-19", "genre": "Romance", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MYAcyx1TGTuAages9GtOHePfrw.jpg", "actors": ["Coco Martin (JP)", "Paolo Rivero (William)"], "comments": [], "recommandations_id": []}

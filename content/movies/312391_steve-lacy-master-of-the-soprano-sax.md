@@ -1,0 +1,1 @@
+{"tmdb_id": 312391, "title": "Steve Lacy: Master of the Soprano Sax", "original_title": "Steve Lacy: Master of the Soprano Sax", "slug_title": "steve-lacy-master-of-the-soprano-sax", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

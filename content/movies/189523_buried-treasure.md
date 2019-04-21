@@ -1,0 +1,1 @@
+{"tmdb_id": 189523, "title": "Buried Treasure", "original_title": "Buried Treasure", "slug_title": "buried-treasure", "date": "1926-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

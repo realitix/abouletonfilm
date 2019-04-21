@@ -1,0 +1,1 @@
+{"tmdb_id": 437650, "title": "Doodles: Manolete", "original_title": "Garabatos: Manolete", "slug_title": "doodles-manolete", "date": "1943-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

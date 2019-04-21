@@ -1,0 +1,1 @@
+{"tmdb_id": 361366, "title": "Analytical Studies III - Color Frame Passages", "original_title": "Analytical Studies III - Color Frame Passages", "slug_title": "analytical-studies-iii-color-frame-passages", "date": "1974-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

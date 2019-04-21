@@ -1,0 +1,1 @@
+{"tmdb_id": 444596, "title": "La boda de Quinita Flores", "original_title": "La boda de Quinita Flores", "slug_title": "la-boda-de-quinita-flores", "date": "1943-03-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafael Dur\u00e1n ()", "Marta Fabregas ()", "Luchy Soto ()"], "comments": [], "recommandations_id": []}

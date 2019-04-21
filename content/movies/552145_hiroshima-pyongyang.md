@@ -1,0 +1,1 @@
+{"tmdb_id": 552145, "title": "Hiroshima Pyongyang", "original_title": "Hiroshima Pyongyang", "slug_title": "hiroshima-pyongyang", "date": "2009-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9eddm5CmXmjSFlmTW5lpxyktgv.jpg", "actors": ["Kye-Son Lee ()"], "comments": [], "recommandations_id": []}

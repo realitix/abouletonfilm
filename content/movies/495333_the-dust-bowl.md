@@ -1,0 +1,1 @@
+{"tmdb_id": 495333, "title": "The Dust Bowl", "original_title": "The Dust Bowl", "slug_title": "the-dust-bowl", "date": "2016-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

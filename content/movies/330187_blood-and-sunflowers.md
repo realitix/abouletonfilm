@@ -1,0 +1,1 @@
+{"tmdb_id": 330187, "title": "Blood and Sunflowers", "original_title": "Blood and Sunflowers", "slug_title": "blood-and-sunflowers", "date": "1992-12-31", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYeaGf8KRcRL9IclekFXfL7hrRt.jpg", "actors": [], "comments": [], "recommandations_id": []}

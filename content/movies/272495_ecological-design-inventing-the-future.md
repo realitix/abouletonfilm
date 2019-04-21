@@ -1,0 +1,1 @@
+{"tmdb_id": 272495, "title": "Ecological Design: Inventing the Future", "original_title": "Ecological Design: Inventing the Future", "slug_title": "ecological-design-inventing-the-future", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

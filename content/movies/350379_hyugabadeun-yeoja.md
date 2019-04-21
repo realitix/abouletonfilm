@@ -1,0 +1,1 @@
+{"tmdb_id": 350379, "title": "\ud734\uac00\ubc1b\uc740 \uc5ec\uc790", "original_title": "\ud734\uac00\ubc1b\uc740 \uc5ec\uc790", "slug_title": "hyugabadeun-yeoja", "date": "1980-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

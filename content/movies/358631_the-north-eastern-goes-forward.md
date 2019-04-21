@@ -1,0 +1,1 @@
+{"tmdb_id": 358631, "title": "The North Eastern Goes Forward", "original_title": "The North Eastern Goes Forward", "slug_title": "the-north-eastern-goes-forward", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

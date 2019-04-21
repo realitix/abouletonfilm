@@ -1,0 +1,1 @@
+{"tmdb_id": 319559, "title": "King of the Cage: Knockout Nightmare", "original_title": "King of the Cage: Knockout Nightmare", "slug_title": "king-of-the-cage-knockout-nightmare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

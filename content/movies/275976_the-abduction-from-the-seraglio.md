@@ -1,0 +1,1 @@
+{"tmdb_id": 275976, "title": "The Abduction from the Seraglio", "original_title": "The Abduction from the Seraglio", "slug_title": "the-abduction-from-the-seraglio", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

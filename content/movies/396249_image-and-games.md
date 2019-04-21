@@ -1,0 +1,1 @@
+{"tmdb_id": 396249, "title": "Image and Games", "original_title": "Obraz i gry", "slug_title": "image-and-games", "date": "1981-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Pe3UKEiK09tkrCpcPsW2kElEVX.jpg", "actors": [], "comments": [], "recommandations_id": []}

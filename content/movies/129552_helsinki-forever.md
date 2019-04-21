@@ -1,0 +1,1 @@
+{"tmdb_id": 129552, "title": "Helsinki, Forever", "original_title": "Helsinki, ikuisesti", "slug_title": "helsinki-forever", "date": "2008-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nqY02ylyBBkypv1BqMO3lFDepi.jpg", "actors": [], "comments": [], "recommandations_id": []}

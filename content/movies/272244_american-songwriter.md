@@ -1,0 +1,1 @@
+{"tmdb_id": 272244, "title": "American Songwriter", "original_title": "American Songwriter", "slug_title": "american-songwriter", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

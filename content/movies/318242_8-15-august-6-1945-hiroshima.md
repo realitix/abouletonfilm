@@ -1,0 +1,1 @@
+{"tmdb_id": 318242, "title": "8:15 - August 6, 1945 Hiroshima", "original_title": "8:15 - August 6, 1945 Hiroshima", "slug_title": "8-15-august-6-1945-hiroshima", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

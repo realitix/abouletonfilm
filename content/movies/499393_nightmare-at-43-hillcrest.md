@@ -1,0 +1,1 @@
+{"tmdb_id": 499393, "title": "Nightmare at 43 Hillcrest", "original_title": "Nightmare at 43 Hillcrest", "slug_title": "nightmare-at-43-hillcrest", "date": "1974-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bE4nfmQ5ncrUHx9AwXt8LBZnjXP.jpg", "actors": [], "comments": [], "recommandations_id": []}

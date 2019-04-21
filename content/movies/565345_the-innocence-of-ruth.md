@@ -1,0 +1,1 @@
+{"tmdb_id": 565345, "title": "The Innocence of Ruth", "original_title": "The Innocence of Ruth", "slug_title": "the-innocence-of-ruth", "date": "1916-01-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Earle ()", "Viola Dana ()"], "comments": [], "recommandations_id": []}

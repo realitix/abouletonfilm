@@ -1,0 +1,1 @@
+{"tmdb_id": 320458, "title": "Otis Redding: Remembering Otis", "original_title": "Otis Redding: Remembering Otis", "slug_title": "otis-redding-remembering-otis", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klEm16dreNpnCNbh130UuS1rKr0.jpg", "actors": [], "comments": [], "recommandations_id": []}

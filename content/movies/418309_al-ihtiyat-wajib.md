@@ -1,0 +1,1 @@
+{"tmdb_id": 418309, "title": "Al-Ihtiyat Wajib", "original_title": "Al-Ihtiyat Wajib", "slug_title": "al-ihtiyat-wajib", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uywJnC5GHuwymB7EbhHx8su4kcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

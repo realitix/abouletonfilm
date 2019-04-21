@@ -1,0 +1,1 @@
+{"tmdb_id": 424281, "title": "La ciudad y el campo", "original_title": "La ciudad y el campo", "slug_title": "la-ciudad-y-el-campo", "date": "1935-11-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

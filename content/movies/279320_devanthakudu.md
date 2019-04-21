@@ -1,0 +1,1 @@
+{"tmdb_id": 279320, "title": "Devanthakudu", "original_title": "Devanthakudu", "slug_title": "devanthakudu", "date": "1984-04-11", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiranjeevi ()", "Vijayashanti ()", "Narayan Rao ()", "Gollapudi Maruti Rao ()", "Annapoorna ()"], "comments": [], "recommandations_id": []}

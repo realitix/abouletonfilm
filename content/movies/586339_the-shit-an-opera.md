@@ -1,0 +1,1 @@
+{"tmdb_id": 586339, "title": "The Shit! An Opera", "original_title": "The Shit! An Opera", "slug_title": "the-shit-an-opera", "date": "2018-05-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4wP5UTMbfVP0SeAkwylHGxPnLT.jpg", "actors": [], "comments": [], "recommandations_id": []}

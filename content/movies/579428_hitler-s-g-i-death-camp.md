@@ -1,0 +1,1 @@
+{"tmdb_id": 579428, "title": "Hitler's G.I. Death Camp", "original_title": "Hitler's G.I. Death Camp", "slug_title": "hitler-s-g-i-death-camp", "date": "2011-12-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

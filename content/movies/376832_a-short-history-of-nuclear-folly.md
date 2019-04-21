@@ -1,0 +1,1 @@
+{"tmdb_id": 376832, "title": "A Short History of Nuclear Folly", "original_title": "Die Atombombe im Vorgarten \u2013 Geschichten aus dem kalten Krieg", "slug_title": "a-short-history-of-nuclear-folly", "date": "2014-01-10", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

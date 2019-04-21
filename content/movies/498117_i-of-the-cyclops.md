@@ -1,0 +1,1 @@
+{"tmdb_id": 498117, "title": "I, of the Cyclops", "original_title": "I, of the Cyclops", "slug_title": "i-of-the-cyclops", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nObpMiWPp3Y4fKam2HuueiRR11T.jpg", "actors": ["John Waters ()"], "comments": [], "recommandations_id": []}

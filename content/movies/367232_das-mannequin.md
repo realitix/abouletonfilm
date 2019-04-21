@@ -1,0 +1,1 @@
+{"tmdb_id": 367232, "title": "Das Mannequin", "original_title": "Das Mannequin", "slug_title": "das-mannequin", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 257940, "title": "Azul Postizo", "original_title": "Azul Postizo", "slug_title": "azul-postizo", "date": "2013-02-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNMVardX2rzad4Z0ckRAFVOsrKE.jpg", "actors": ["Saida Vega (Letizia Ortiz)"], "comments": [], "recommandations_id": []}

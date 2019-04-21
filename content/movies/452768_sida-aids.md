@@ -1,0 +1,1 @@
+{"tmdb_id": 452768, "title": "SIDA / AIDS", "original_title": "SIDA / AIDS", "slug_title": "sida-aids", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

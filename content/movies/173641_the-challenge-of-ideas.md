@@ -1,0 +1,1 @@
+{"tmdb_id": 173641, "title": "The Challenge of Ideas", "original_title": "The Challenge of Ideas", "slug_title": "the-challenge-of-ideas", "date": "1961-01-01", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

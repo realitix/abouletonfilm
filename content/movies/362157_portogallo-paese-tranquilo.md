@@ -1,0 +1,1 @@
+{"tmdb_id": 362157, "title": "Portogallo, paese tranquilo", "original_title": "Portogallo, paese tranquilo", "slug_title": "portogallo-paese-tranquilo", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

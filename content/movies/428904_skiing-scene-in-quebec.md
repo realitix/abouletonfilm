@@ -1,0 +1,1 @@
+{"tmdb_id": 428904, "title": "Skiing Scene in Quebec", "original_title": "Skiing Scene in Quebec", "slug_title": "skiing-scene-in-quebec", "date": "1902-12-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

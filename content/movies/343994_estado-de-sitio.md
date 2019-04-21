@@ -1,0 +1,1 @@
+{"tmdb_id": 343994, "title": "Estado de S\u00edtio", "original_title": "Estado de S\u00edtio", "slug_title": "estado-de-sitio", "date": "2011-06-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLi43AsvBbo5XTKQ8jqCNYlnuGF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 292977, "title": "Master of the Game", "original_title": "Master of the Game", "slug_title": "master-of-the-game", "date": "2004-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzExVIQvd2JMxT825lFFNsdhZvm.jpg", "actors": [], "comments": [], "recommandations_id": []}

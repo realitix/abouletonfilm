@@ -1,0 +1,1 @@
+{"tmdb_id": 592124, "title": "Meet Me Under the Clock", "original_title": "Meet Me Under the Clock", "slug_title": "meet-me-under-the-clock", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

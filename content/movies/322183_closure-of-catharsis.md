@@ -1,0 +1,1 @@
+{"tmdb_id": 322183, "title": "Closure of Catharsis", "original_title": "Closure of Catharsis", "slug_title": "closure-of-catharsis", "date": "2011-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2hxRvn1sw8B2rnvDIZC1Pfev5Xv.jpg", "actors": ["James Devereaux ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487520, "title": "Weeny Worm or the Fat Innkeeper", "original_title": "Weeny Worm or the Fat Innkeeper", "slug_title": "weeny-worm-or-the-fat-innkeeper", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

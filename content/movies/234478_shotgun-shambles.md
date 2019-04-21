@@ -1,0 +1,1 @@
+{"tmdb_id": 234478, "title": "Shotgun Shambles", "original_title": "Shotgun Shambles", "slug_title": "shotgun-shambles", "date": "1962-11-08", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

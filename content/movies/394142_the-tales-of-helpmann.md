@@ -1,0 +1,1 @@
+{"tmdb_id": 394142, "title": "The Tales of Helpmann", "original_title": "The Tales of Helpmann", "slug_title": "the-tales-of-helpmann", "date": "1990-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Helpmann (Himself)"], "comments": [], "recommandations_id": []}

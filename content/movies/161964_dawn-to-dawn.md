@@ -1,0 +1,1 @@
+{"tmdb_id": 161964, "title": "Dawn to Dawn", "original_title": "Dawn to Dawn", "slug_title": "dawn-to-dawn", "date": "1933-11-30", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julie Haydon (The Girl)", "Ole M. Ness (The Father)", "Frank Eklof (The Boy)"], "comments": [], "recommandations_id": []}

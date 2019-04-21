@@ -1,0 +1,1 @@
+{"tmdb_id": 564733, "title": "Um P\u00e9 na Aldeia e Outro na Cidade", "original_title": "Um P\u00e9 na Aldeia e Outro na Cidade", "slug_title": "um-pe-na-aldeia-e-outro-na-cidade", "date": "2018-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

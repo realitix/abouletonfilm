@@ -1,0 +1,1 @@
+{"tmdb_id": 355055, "title": "A Ascens\u00e3o dos Drones", "original_title": "A Ascens\u00e3o dos Drones", "slug_title": "a-ascensao-dos-drones", "date": "2014-08-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

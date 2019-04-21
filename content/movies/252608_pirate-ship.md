@@ -1,0 +1,1 @@
+{"tmdb_id": 252608, "title": "Pirate Ship", "original_title": "Pirate Ship", "slug_title": "pirate-ship", "date": "1933-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 156281, "title": "Lucky Luke: Trollkarlen", "original_title": "Lucky Luke: Trollkarlen", "slug_title": "lucky-luke-trollkarlen", "date": "2005-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5PqdXlDpUnahx7VvFNbjGwYARcb.jpg", "actors": [], "comments": [], "recommandations_id": []}

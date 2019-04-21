@@ -1,0 +1,1 @@
+{"tmdb_id": 350114, "title": "\uc131\uc778\uc2e0\uace0\uc2dd", "original_title": "\uc131\uc778\uc2e0\uace0\uc2dd", "slug_title": "seonginsingosig", "date": "1991-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

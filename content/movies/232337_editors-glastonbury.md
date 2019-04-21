@@ -1,0 +1,1 @@
+{"tmdb_id": 232337, "title": "Editors: Glastonbury", "original_title": "Editors: Glastonbury", "slug_title": "editors-glastonbury", "date": "2013-06-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zfEti0tqtAow414Wf5UzxkkMBMr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 338023, "title": "Fugitive Killer", "original_title": "Fugitive Killer", "slug_title": "fugitive-killer", "date": "1974-01-01", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/azwL5s8jWK25pT6KqxQYmRomaBg.jpg", "actors": ["Neil Patrick (David Courtney)"], "comments": [], "recommandations_id": []}

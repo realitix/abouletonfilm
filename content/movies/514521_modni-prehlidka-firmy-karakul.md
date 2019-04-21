@@ -1,0 +1,1 @@
+{"tmdb_id": 514521, "title": "M\u00f3dn\u00ed p\u0159ehl\u00eddka firmy Karakul", "original_title": "M\u00f3dn\u00ed p\u0159ehl\u00eddka firmy Karakul", "slug_title": "modni-prehlidka-firmy-karakul", "date": "1927-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

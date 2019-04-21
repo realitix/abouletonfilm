@@ -1,0 +1,1 @@
+{"tmdb_id": 449889, "title": "Triumphs Across America", "original_title": "Triumphs Across America", "slug_title": "triumphs-across-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/76iwP4IStnMtDsJHEWK6XZ60mPw.jpg", "actors": [], "comments": [], "recommandations_id": []}

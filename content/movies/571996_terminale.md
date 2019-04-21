@@ -1,0 +1,1 @@
+{"tmdb_id": 571996, "title": "Terminale", "original_title": "Terminale", "slug_title": "terminale", "date": "1998-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YxB6HNIRNkbmZjzuwdvZEC2UaP.jpg", "actors": [], "comments": [], "recommandations_id": []}

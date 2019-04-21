@@ -1,0 +1,1 @@
+{"tmdb_id": 293133, "title": "The Laughing Club of India", "original_title": "The Laughing Club of India", "slug_title": "the-laughing-club-of-india", "date": "2001-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yx5JO3Qc7c2q4hqE5Lk9OTLsPW6.jpg", "actors": [], "comments": [], "recommandations_id": []}

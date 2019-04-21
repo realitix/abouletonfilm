@@ -1,0 +1,1 @@
+{"tmdb_id": 401822, "title": "Nebelverwendung im Infanteriekampf", "original_title": "Nebelverwendung im Infanteriekampf", "slug_title": "nebelverwendung-im-infanteriekampf", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

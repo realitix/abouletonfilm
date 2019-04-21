@@ -1,0 +1,1 @@
+{"tmdb_id": 344546, "title": "The Call of the Wild", "original_title": "The Call of the Wild", "slug_title": "the-call-of-the-wild", "date": "1923-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

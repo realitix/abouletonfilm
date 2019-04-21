@@ -1,0 +1,1 @@
+{"tmdb_id": 90824, "title": "Taratata", "original_title": "Taratata!", "slug_title": "taratata", "date": "1976-10-31", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32t34if1OPpfbEMEF26Ouuq7aQp.jpg", "actors": [], "comments": [], "recommandations_id": []}

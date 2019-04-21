@@ -1,0 +1,1 @@
+{"tmdb_id": 304669, "title": "Triveni", "original_title": "Triveni", "slug_title": "triveni", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

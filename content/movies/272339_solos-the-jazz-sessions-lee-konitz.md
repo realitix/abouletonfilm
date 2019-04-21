@@ -1,0 +1,1 @@
+{"tmdb_id": 272339, "title": "Solos: The Jazz Sessions - Lee Konitz", "original_title": "Solos: The Jazz Sessions - Lee Konitz", "slug_title": "solos-the-jazz-sessions-lee-konitz", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

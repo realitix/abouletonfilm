@@ -1,0 +1,1 @@
+{"tmdb_id": 392559, "title": "Barbapapa - Pingviner och \u00e4lgar", "original_title": "Barbapapa - Pingviner och \u00e4lgar", "slug_title": "barbapapa-pingviner-och-algar", "date": "2003-04-12", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

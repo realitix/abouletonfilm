@@ -1,0 +1,1 @@
+{"tmdb_id": 545735, "title": "Diorama", "original_title": "Diorama", "slug_title": "diorama", "date": "1983-08-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c6RdGWwvGnwODHyr5GpGWhcMXBS.jpg", "actors": [], "comments": [], "recommandations_id": []}

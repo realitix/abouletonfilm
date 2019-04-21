@@ -1,0 +1,1 @@
+{"tmdb_id": 349467, "title": "\uc0ac\ub791 \uadf8\ub9ac\uace0 \uc8fd\ub294 \uc5f0\uc2b5", "original_title": "\uc0ac\ub791 \uadf8\ub9ac\uace0 \uc8fd\ub294 \uc5f0\uc2b5", "slug_title": "sarang-geurigo-jugneun-yeonseub", "date": "1997-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

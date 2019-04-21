@@ -1,0 +1,1 @@
+{"tmdb_id": 358478, "title": "Points and Aspects", "original_title": "Points and Aspects", "slug_title": "points-and-aspects", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

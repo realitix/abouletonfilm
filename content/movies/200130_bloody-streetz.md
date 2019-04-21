@@ -1,0 +1,1 @@
+{"tmdb_id": 200130, "title": "Bloody Streetz", "original_title": "BLOODY STREETZ", "slug_title": "bloody-streetz", "date": "2002-08-08", "genre": "Horreur / Action / Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gano Grills (Black)", "Kalimi Baxter (Semaji)", "Jamel Scott (Jah)"], "comments": [], "recommandations_id": []}

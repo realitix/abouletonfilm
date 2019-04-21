@@ -1,0 +1,1 @@
+{"tmdb_id": 171847, "title": "From the Ground Up", "original_title": "From the Ground Up", "slug_title": "from-the-ground-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

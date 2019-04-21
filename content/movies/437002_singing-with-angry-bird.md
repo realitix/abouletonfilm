@@ -1,0 +1,1 @@
+{"tmdb_id": 437002, "title": "Singing With Angry Bird", "original_title": "Singing With Angry Bird", "slug_title": "singing-with-angry-bird", "date": "2016-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SHYdpu0G7vufxMABnuACSqXAzs.jpg", "actors": [], "comments": [], "recommandations_id": []}

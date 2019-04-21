@@ -1,0 +1,1 @@
+{"tmdb_id": 465917, "title": "Acting Up for Prisoners", "original_title": "Acting Up for Prisoners", "slug_title": "acting-up-for-prisoners", "date": "1992-07-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

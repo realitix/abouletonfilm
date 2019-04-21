@@ -1,0 +1,1 @@
+{"tmdb_id": 379457, "title": "Camera Bug", "original_title": "Camera Bug", "slug_title": "camera-bug", "date": "1972-08-06", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer (voice))", "Tom Holland (Japanese Beetle (voice))"], "comments": [], "recommandations_id": []}

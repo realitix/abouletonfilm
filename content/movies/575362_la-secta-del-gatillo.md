@@ -1,0 +1,1 @@
+{"tmdb_id": 575362, "title": "La secta del gatillo", "original_title": "La secta del gatillo", "slug_title": "la-secta-del-gatillo", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5EpPAcizXZU0NOsMFNsqvkSuYM.jpg", "actors": [], "comments": [], "recommandations_id": []}

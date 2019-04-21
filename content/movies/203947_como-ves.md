@@ -1,0 +1,1 @@
+{"tmdb_id": 203947, "title": "Como ves?", "original_title": "Como ves?", "slug_title": "como-ves", "date": "1986-08-01", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziBpUT3ii3hUqIAywYNdwnhECUR.jpg", "actors": ["Blanca Guerra ()", "Roberto Sosa ()"], "comments": [], "recommandations_id": []}

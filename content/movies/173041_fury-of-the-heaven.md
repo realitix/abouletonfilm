@@ -1,0 +1,1 @@
+{"tmdb_id": 173041, "title": "Fury of the Heaven", "original_title": "\u5929\u715e", "slug_title": "fury-of-the-heaven", "date": "1986-01-04", "genre": "Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vtA4ATdczQZNyX4EqGROHew4YM6.jpg", "actors": ["Hung Leung-Sek ()"], "comments": [], "recommandations_id": []}

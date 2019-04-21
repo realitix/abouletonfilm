@@ -1,0 +1,1 @@
+{"tmdb_id": 298125, "title": "Wotruba", "original_title": "Wotruba", "slug_title": "wotruba", "date": "2014-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vn5sViDIt1UR5dSVcCcgo7hEFdj.jpg", "actors": [], "comments": [], "recommandations_id": []}

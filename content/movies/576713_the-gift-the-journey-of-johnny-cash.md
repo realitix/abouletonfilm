@@ -1,0 +1,1 @@
+{"tmdb_id": 576713, "title": "The Gift: The Journey of Johnny Cash", "original_title": "The Gift: The Journey of Johnny Cash", "slug_title": "the-gift-the-journey-of-johnny-cash", "date": "2019-03-09", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Cash ()"], "comments": [], "recommandations_id": []}

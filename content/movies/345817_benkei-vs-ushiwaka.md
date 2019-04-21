@@ -1,0 +1,1 @@
+{"tmdb_id": 345817, "title": "Benkei vs. Ushiwaka", "original_title": "Benkei tai Ushiwaka", "slug_title": "benkei-vs-ushiwaka", "date": "1939-07-21", "genre": "Action / Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TyfydGrqHP46FIOyt1MvRObLZ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

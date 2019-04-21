@@ -1,0 +1,1 @@
+{"tmdb_id": 523807, "title": "Banana Island Ghost", "original_title": "Banana Island Ghost", "slug_title": "banana-island-ghost", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

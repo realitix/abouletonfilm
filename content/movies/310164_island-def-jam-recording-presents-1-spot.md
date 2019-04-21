@@ -1,0 +1,1 @@
+{"tmdb_id": 310164, "title": "Island Def Jam Recording Presents: #1 Spot", "original_title": "Island Def Jam Recording Presents: #1 Spot", "slug_title": "island-def-jam-recording-presents-1-spot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

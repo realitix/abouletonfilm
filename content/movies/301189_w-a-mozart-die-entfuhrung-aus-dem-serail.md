@@ -1,0 +1,1 @@
+{"tmdb_id": 301189, "title": "W. A. Mozart: Die Entfuhrung aus dem Serail", "original_title": "W. A. Mozart: Die Entfuhrung aus dem Serail", "slug_title": "w-a-mozart-die-entfuhrung-aus-dem-serail", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309318, "title": "Les Chalands", "original_title": "Les Chalands", "slug_title": "les-chalands", "date": "1911-07-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

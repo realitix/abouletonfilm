@@ -1,0 +1,1 @@
+{"tmdb_id": 519744, "title": "Mr. Floridor and Anacleto", "original_title": "Don Floridor y Anacleto", "slug_title": "mr-floridor-and-anacleto", "date": "2005-01-01", "genre": "Animation / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcLCzlYKLc7EzEIjVkCsaI2nDXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

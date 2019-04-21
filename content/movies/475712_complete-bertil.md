@@ -1,0 +1,1 @@
+{"tmdb_id": 475712, "title": "Complete Bertil", "original_title": "Complete Bertil", "slug_title": "complete-bertil", "date": "2008-09-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3vktKLWVUrcuggtY0PvBTNeqpH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272948, "title": "Hair World", "original_title": "Hair World", "slug_title": "hair-world", "date": "2005-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

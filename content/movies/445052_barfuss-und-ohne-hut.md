@@ -1,0 +1,1 @@
+{"tmdb_id": 445052, "title": "Barfu\u00df und ohne Hut", "original_title": "Barfu\u00df und ohne Hut", "slug_title": "barfuss-und-ohne-hut", "date": "1965-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNnBGe7qJQfOSAu28fM7BV2WBMo.jpg", "actors": [], "comments": [], "recommandations_id": []}

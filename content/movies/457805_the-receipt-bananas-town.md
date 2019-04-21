@@ -1,0 +1,1 @@
+{"tmdb_id": 457805, "title": "The Receipt: Bananas Town", "original_title": "The Receipt: Bananas Town", "slug_title": "the-receipt-bananas-town", "date": "2017-02-26", "genre": "Com\u00e9die / Musique", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

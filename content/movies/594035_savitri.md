@@ -1,0 +1,1 @@
+{"tmdb_id": 594035, "title": "Savitri", "original_title": "Savitri", "slug_title": "savitri", "date": "1933-08-01", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Surabhi Kamalabai ()"], "comments": [], "recommandations_id": []}

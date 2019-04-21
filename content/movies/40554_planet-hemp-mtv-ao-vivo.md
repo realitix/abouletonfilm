@@ -1,0 +1,1 @@
+{"tmdb_id": 40554, "title": "Planet Hemp: MTV ao Vivo", "original_title": "Planet Hemp: MTV ao Vivo", "slug_title": "planet-hemp-mtv-ao-vivo", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oP88r7oYUf0YYPotwn7ukAdLgFK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 263288, "title": "38/79: Sentimental Punk", "original_title": "38/79: Sentimental Punk", "slug_title": "38-79-sentimental-punk", "date": "1979-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/24Lkf0SBPSjgG6M0GXZjS7EcAeF.jpg", "actors": [], "comments": [], "recommandations_id": []}

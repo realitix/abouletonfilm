@@ -1,0 +1,1 @@
+{"tmdb_id": 480237, "title": "La buenaventura de Pitus\u00edn", "original_title": "La buenaventura de Pitus\u00edn", "slug_title": "la-buenaventura-de-pitusin", "date": "1924-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alfredo Hurtado ()", "Flora Rossini ()"], "comments": [], "recommandations_id": []}

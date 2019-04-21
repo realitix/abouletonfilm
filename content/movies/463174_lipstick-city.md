@@ -1,0 +1,1 @@
+{"tmdb_id": 463174, "title": "Lipstick City", "original_title": "Lipstick City", "slug_title": "lipstick-city", "date": "2016-05-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cEZHkZcPZgI0wkEdtJ2QjfZWai.jpg", "actors": ["Shea Coule\u00e9 ()", "Kim Chi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313946, "title": "A Joy Ride", "original_title": "A Joy Ride", "slug_title": "a-joy-ride", "date": "1922-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333442, "title": "Madness of Many", "original_title": "Madness of Many", "slug_title": "madness-of-many", "date": "2013-01-01", "genre": "Horreur", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJ2d4QE3Zurg2lQT2L68ZINj63r.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 369826, "title": "La hora de la libertad ha sonado", "original_title": "La hora de la libertad ha sonado", "slug_title": "la-hora-de-la-libertad-ha-sonado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfRMyO1pKjv52f262ANVD9fTKMJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

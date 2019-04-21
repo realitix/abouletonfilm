@@ -1,0 +1,1 @@
+{"tmdb_id": 469281, "title": "Dhakiyarr vs. the King", "original_title": "Dhakiyarr vs. the King", "slug_title": "dhakiyarr-vs-the-king", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rkpCWduK6PoBkVoAhTX56xboXL6.jpg", "actors": [], "comments": [], "recommandations_id": []}

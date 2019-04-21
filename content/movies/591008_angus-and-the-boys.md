@@ -1,0 +1,1 @@
+{"tmdb_id": 591008, "title": "Angus and the Boys", "original_title": "Angus and the Boys", "slug_title": "angus-and-the-boys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agUlOBI2FaC6TkRgJANkVosL5Uw.jpg", "actors": [], "comments": [], "recommandations_id": []}

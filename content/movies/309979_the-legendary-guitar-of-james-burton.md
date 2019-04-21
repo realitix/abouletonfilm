@@ -1,0 +1,1 @@
+{"tmdb_id": 309979, "title": "The Legendary Guitar of James Burton", "original_title": "The Legendary Guitar of James Burton", "slug_title": "the-legendary-guitar-of-james-burton", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

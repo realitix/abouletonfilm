@@ -1,0 +1,1 @@
+{"tmdb_id": 518286, "title": "Chasseurs de crimes", "original_title": "Chasseurs de crimes", "slug_title": "chasseurs-de-crimes", "date": "2014-03-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jLYAEuBtaHcuG1pon9AQVmAJY2Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

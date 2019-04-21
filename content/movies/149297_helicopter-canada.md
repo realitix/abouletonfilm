@@ -1,0 +1,1 @@
+{"tmdb_id": 149297, "title": "Helicopter Canada", "original_title": "Helicopter Canada", "slug_title": "helicopter-canada", "date": "1966-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yX4NK9tEl1MxUs8FZD7IDYwiRyE.jpg", "actors": ["Stanley Jackson (Narrator)"], "comments": [], "recommandations_id": []}

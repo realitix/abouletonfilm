@@ -1,0 +1,1 @@
+{"tmdb_id": 286947, "title": "Verdi: Othello", "original_title": "Verdi: Othello", "slug_title": "verdi-othello", "date": "1969-01-01", "genre": "Musique / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hanns Nocker (Othello)", "Christa Noack (Desdemona)", "Vladimir Bauer (Iago)"], "comments": [], "recommandations_id": []}

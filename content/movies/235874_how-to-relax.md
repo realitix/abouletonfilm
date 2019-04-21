@@ -1,0 +1,1 @@
+{"tmdb_id": 235874, "title": "How to Relax", "original_title": "How to Relax", "slug_title": "how-to-relax", "date": "1953-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

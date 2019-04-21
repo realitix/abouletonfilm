@@ -1,0 +1,1 @@
+{"tmdb_id": 329782, "title": "Something Like a War", "original_title": "Something Like a War", "slug_title": "something-like-a-war", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAzoeq6fgKtnXE9epaMTUDs0I2q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352540, "title": "La tragedia de Franco", "original_title": "La tragedia de Franco", "slug_title": "la-tragedia-de-franco", "date": "2009-07-31", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Areces (Francisco Franco)", "\u00c1lex de la Iglesia (Himself)"], "comments": [], "recommandations_id": []}

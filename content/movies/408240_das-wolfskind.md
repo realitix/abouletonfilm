@@ -1,0 +1,1 @@
+{"tmdb_id": 408240, "title": "Das Wolfskind", "original_title": "Das Wolfskind", "slug_title": "das-wolfskind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie-Ernestine Worch (Sabine)", "J\u00f6rg Malchow (Christian)"], "comments": [], "recommandations_id": []}

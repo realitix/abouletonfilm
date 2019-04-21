@@ -1,0 +1,1 @@
+{"tmdb_id": 370065, "title": "Riley and Schultze", "original_title": "Riley and Schultze", "slug_title": "riley-and-schultze", "date": "1912-09-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Mace ()", "Mack Sennett ()", "Ford Sterling ()", "Mabel Normand ()"], "comments": [], "recommandations_id": []}

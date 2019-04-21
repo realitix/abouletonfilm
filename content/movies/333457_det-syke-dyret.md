@@ -1,0 +1,1 @@
+{"tmdb_id": 333457, "title": "Det syke dyret", "original_title": "Det syke dyret", "slug_title": "det-syke-dyret", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

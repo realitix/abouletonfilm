@@ -1,0 +1,1 @@
+{"tmdb_id": 479314, "title": "The Stranger", "original_title": "The Stranger", "slug_title": "the-stranger", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremy Cherson ()", "Jenna D'Angelo ()", "Isaac Haldeman ()"], "comments": [], "recommandations_id": []}

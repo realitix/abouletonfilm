@@ -1,0 +1,1 @@
+{"tmdb_id": 537866, "title": "Drake Bell in Concert", "original_title": "Drake Bell in Concert", "slug_title": "drake-bell-in-concert", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zgx8NNm6RUSU0pYh6tZUVYx0rX.jpg", "actors": ["Drake Bell (Himself)"], "comments": [], "recommandations_id": []}

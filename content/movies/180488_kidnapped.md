@@ -1,0 +1,1 @@
+{"tmdb_id": 180488, "title": "Kidnapped", "original_title": "Kidnapped", "slug_title": "kidnapped", "date": "1978-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27BmB25wwOg8RQumwQJlCRSow4Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

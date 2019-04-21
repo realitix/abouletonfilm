@@ -1,0 +1,1 @@
+{"tmdb_id": 428003, "title": "N\u00e1szindul\u00f3", "original_title": "N\u00e1szindul\u00f3", "slug_title": "naszindulo", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

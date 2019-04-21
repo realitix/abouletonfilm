@@ -1,0 +1,1 @@
+{"tmdb_id": 208289, "title": "Going Equipped", "original_title": "Going Equipped", "slug_title": "going-equipped", "date": "1990-11-29", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vbvTOmm9cDCAAPs1gbWzEyypQB.jpg", "actors": [], "comments": [], "recommandations_id": []}

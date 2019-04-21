@@ -1,0 +1,1 @@
+{"tmdb_id": 304904, "title": "Little Ghost", "original_title": "Little Ghost", "slug_title": "little-ghost", "date": "2014-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

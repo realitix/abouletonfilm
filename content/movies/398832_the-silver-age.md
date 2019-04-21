@@ -1,0 +1,1 @@
+{"tmdb_id": 398832, "title": "The Silver Age", "original_title": "The Silver Age", "slug_title": "the-silver-age", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

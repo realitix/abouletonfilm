@@ -1,0 +1,1 @@
+{"tmdb_id": 82818, "title": "Three Looney Brothers", "original_title": "Trei frati de belea", "slug_title": "three-looney-brothers", "date": "2006-06-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zL6I8EkdgQrUkF4dVLGmtBEa880.jpg", "actors": [], "comments": [], "recommandations_id": []}

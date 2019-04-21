@@ -1,0 +1,1 @@
+{"tmdb_id": 460078, "title": "Kathmandude", "original_title": "Kathmandude", "slug_title": "kathmandude", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486013, "title": "Juventud", "original_title": "Juventud", "slug_title": "juventud", "date": "2010-11-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvBagrhRc7egddm1d9kgEfHtb1.jpg", "actors": ["Stephan Bosch ()", "Angelica Padilla ()", "Jaziel de Lara ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 452953, "title": "The Silent Teacher", "original_title": "\u90a3\u500b\u975c\u9ed8\u7684\u967d\u5149\u5348\u5f8c", "slug_title": "the-silent-teacher", "date": "2017-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94hx8QtzTk4a2HOUWVVBWc2r5BT.jpg", "actors": [], "comments": [], "recommandations_id": []}

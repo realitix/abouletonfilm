@@ -1,0 +1,1 @@
+{"tmdb_id": 448476, "title": "Das M\u00e4dchen aus der Ackerstra\u00dfe. 1. Teil", "original_title": "Das M\u00e4dchen aus der Ackerstra\u00dfe. 1. Teil", "slug_title": "das-madchen-aus-der-ackerstrasse-1-teil", "date": "1920-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

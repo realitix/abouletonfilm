@@ -1,0 +1,1 @@
+{"tmdb_id": 134362, "title": "The Beast", "original_title": "La bestia", "slug_title": "the-beast", "date": "2010-01-01", "genre": "Documentaire / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zE3jwrlTGGO5wQp4yRSLaXA5C7D.jpg", "actors": ["Gregory Dayton (Narrator)"], "comments": [], "recommandations_id": []}

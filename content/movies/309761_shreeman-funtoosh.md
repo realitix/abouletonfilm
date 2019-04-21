@@ -1,0 +1,1 @@
+{"tmdb_id": 309761, "title": "Shreeman Funtoosh", "original_title": "Shreeman Funtoosh", "slug_title": "shreeman-funtoosh", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

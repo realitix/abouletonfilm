@@ -1,0 +1,1 @@
+{"tmdb_id": 323707, "title": "Psychotic", "original_title": "Psychotic", "slug_title": "psychotic", "date": "2012-02-02", "genre": "Thriller / Horreur / Action", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6z4Nmtnw7xMIl6HNbcYxcJJTiL0.jpg", "actors": [], "comments": [], "recommandations_id": []}

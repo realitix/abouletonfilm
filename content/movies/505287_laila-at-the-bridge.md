@@ -1,0 +1,1 @@
+{"tmdb_id": 505287, "title": "Laila at the Bridge", "original_title": "Laila at the Bridge", "slug_title": "laila-at-the-bridge", "date": "2018-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5rOGM9mFC2GOUKdS5LB1hoKdX2t.jpg", "actors": [], "comments": [], "recommandations_id": []}

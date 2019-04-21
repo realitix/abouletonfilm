@@ -1,0 +1,1 @@
+{"tmdb_id": 499638, "title": "General Assembly", "original_title": "Asamblea general", "slug_title": "general-assembly", "date": "1960-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fidel Castro (Fidel Castro)"], "comments": [], "recommandations_id": []}

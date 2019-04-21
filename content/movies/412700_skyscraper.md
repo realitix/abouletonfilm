@@ -1,0 +1,1 @@
+{"tmdb_id": 412700, "title": "Skyscraper", "original_title": "Neboder", "slug_title": "skyscraper", "date": "1981-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZIUVW98BCJn6Wm3H1LhPFDOywZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

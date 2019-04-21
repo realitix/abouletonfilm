@@ -1,0 +1,1 @@
+{"tmdb_id": 243770, "title": "Yami Douga 4", "original_title": "Yami Douga 4", "slug_title": "yami-douga-4", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwxq52aIPuMbFXNjY2R7sfad0kJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

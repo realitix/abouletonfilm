@@ -1,0 +1,1 @@
+{"tmdb_id": 306048, "title": "Christopher Plummer: A Man For All Stages", "original_title": "Christopher Plummer: A Man For All Stages", "slug_title": "christopher-plummer-a-man-for-all-stages", "date": "2002-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

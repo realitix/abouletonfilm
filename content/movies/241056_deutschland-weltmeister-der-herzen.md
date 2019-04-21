@@ -1,0 +1,1 @@
+{"tmdb_id": 241056, "title": "Deutschland \u2013 Weltmeister der Herzen", "original_title": "Deutschland \u2013 Weltmeister der Herzen", "slug_title": "deutschland-weltmeister-der-herzen", "date": "2006-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

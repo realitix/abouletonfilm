@@ -1,0 +1,1 @@
+{"tmdb_id": 500639, "title": "Handbok f\u00f6r handl\u00f6sa", "original_title": "Handbok f\u00f6r handl\u00f6sa", "slug_title": "handbok-for-handlosa", "date": "1994-10-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Wallberg (Edda)", "Carl-Einar H\u00e4ckner (Hampus)"], "comments": [], "recommandations_id": []}

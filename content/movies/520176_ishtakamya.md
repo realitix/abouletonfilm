@@ -1,0 +1,1 @@
+{"tmdb_id": 520176, "title": "Ishtakamya", "original_title": "Ishtakamya", "slug_title": "ishtakamya", "date": "2016-05-13", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8RJrUKaMlezq4J71taocOVnOCd.jpg", "actors": ["Mayuri Kyatari (Acchari)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351491, "title": "Hairless Hector", "original_title": "Hairless Hector", "slug_title": "hairless-hector", "date": "1941-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

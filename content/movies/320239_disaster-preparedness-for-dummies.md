@@ -1,0 +1,1 @@
+{"tmdb_id": 320239, "title": "Disaster Preparedness for Dummies", "original_title": "Disaster Preparedness for Dummies", "slug_title": "disaster-preparedness-for-dummies", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

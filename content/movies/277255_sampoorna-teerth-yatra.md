@@ -1,0 +1,1 @@
+{"tmdb_id": 277255, "title": "Sampoorna Teerth Yatra", "original_title": "Sampoorna Teerth Yatra", "slug_title": "sampoorna-teerth-yatra", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

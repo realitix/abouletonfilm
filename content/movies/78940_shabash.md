@@ -1,0 +1,1 @@
+{"tmdb_id": 78940, "title": "Shabash", "original_title": "Shabash", "slug_title": "shabash", "date": "1984-07-20", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Rajani ()"], "comments": [], "recommandations_id": []}

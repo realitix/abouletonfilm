@@ -1,0 +1,1 @@
+{"tmdb_id": 390500, "title": "Fully Cooked for You", "original_title": "\u304a\u306b\u3057\u3081 \u304a\u305f\u3079", "slug_title": "fully-cooked-for-you", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBdW1oW1mGAijMj07KpXGwvd9vP.jpg", "actors": [], "comments": [], "recommandations_id": []}

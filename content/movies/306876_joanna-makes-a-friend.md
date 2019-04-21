@@ -1,0 +1,1 @@
+{"tmdb_id": 306876, "title": "Joanna Makes a Friend", "original_title": "Joanna Makes a Friend", "slug_title": "joanna-makes-a-friend", "date": "2011-12-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584226, "title": "Diamonds of the 40's", "original_title": "Diamonds of the 40's", "slug_title": "diamonds-of-the-40-s", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epvTl3rHdAZRjjr6Owb44tgo1R1.jpg", "actors": [], "comments": [], "recommandations_id": []}

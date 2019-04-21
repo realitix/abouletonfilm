@@ -1,0 +1,1 @@
+{"tmdb_id": 196151, "title": "Miasto Ruin", "original_title": "Miasto Ruin", "slug_title": "miasto-ruin", "date": "2010-08-01", "genre": "Animation", "score": "7.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zgluBkYtB1zW8Xjx7xHlPUSFcu8.jpg", "actors": [], "comments": [], "recommandations_id": []}

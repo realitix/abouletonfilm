@@ -1,0 +1,1 @@
+{"tmdb_id": 264765, "title": "Film-Tract n\u00b0 1968", "original_title": "Film-Tract n\u00b0 1968", "slug_title": "film-tract-ndeg-1968", "date": "1968-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogXgFxESY3lMYoPItKCumDEpd2H.jpg", "actors": [], "comments": [], "recommandations_id": []}

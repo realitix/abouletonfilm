@@ -1,0 +1,1 @@
+{"tmdb_id": 233118, "title": "Kong Christian X's proklamation", "original_title": "Kong Christian X's proklamation", "slug_title": "kong-christian-x-s-proklamation", "date": "1912-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

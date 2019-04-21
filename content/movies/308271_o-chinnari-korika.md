@@ -1,0 +1,1 @@
+{"tmdb_id": 308271, "title": "O Chinnari Korika", "original_title": "O Chinnari Korika", "slug_title": "o-chinnari-korika", "date": "2007-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

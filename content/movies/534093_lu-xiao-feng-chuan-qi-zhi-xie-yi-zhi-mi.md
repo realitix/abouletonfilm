@@ -1,0 +1,1 @@
+{"tmdb_id": 534093, "title": "\u9646\u5c0f\u51e4\u4f20\u5947\u4e4b\u8840\u8863\u4e4b\u8c1c", "original_title": "\u9646\u5c0f\u51e4\u4f20\u5947\u4e4b\u8840\u8863\u4e4b\u8c1c", "slug_title": "lu-xiao-feng-chuan-qi-zhi-xie-yi-zhi-mi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 104405, "title": "Call of the Hunter", "original_title": "Call of the Hunter", "slug_title": "call-of-the-hunter", "date": "2009-11-11", "genre": "Horreur / Thriller", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

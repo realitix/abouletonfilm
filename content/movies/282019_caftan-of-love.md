@@ -1,0 +1,1 @@
+{"tmdb_id": 282019, "title": "Caftan of Love", "original_title": "Quftan al-hubb", "slug_title": "caftan-of-love", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nathalie Raiman ()", "Mohammed Meadi ()", "Isabelle Weingarten ()"], "comments": [], "recommandations_id": []}

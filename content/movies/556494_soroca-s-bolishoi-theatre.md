@@ -1,0 +1,1 @@
+{"tmdb_id": 556494, "title": "Soroca's Bolishoi Theatre", "original_title": "Teatrul Mare din Soroca", "slug_title": "soroca-s-bolishoi-theatre", "date": "2018-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6534d11WJtgNfhCIT0mROQaeMnW.jpg", "actors": [], "comments": [], "recommandations_id": []}

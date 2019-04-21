@@ -1,0 +1,1 @@
+{"tmdb_id": 275992, "title": "Pro Wrestling's Brawling Babes", "original_title": "Pro Wrestling's Brawling Babes", "slug_title": "pro-wrestling-s-brawling-babes", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

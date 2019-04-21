@@ -1,0 +1,1 @@
+{"tmdb_id": 489350, "title": "AMOR & AMIZADE", "original_title": "AMOR & AMIZADE", "slug_title": "amor-amizade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

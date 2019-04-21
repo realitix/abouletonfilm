@@ -1,0 +1,1 @@
+{"tmdb_id": 276217, "title": "The Cure: Rock Case Studies", "original_title": "The Cure: Rock Case Studies", "slug_title": "the-cure-rock-case-studies", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKaoD5yVTMY2zIkZJ0QlywmnwdB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390567, "title": "Causa Carnivora", "original_title": "Causa Carnivora", "slug_title": "causa-carnivora", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

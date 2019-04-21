@@ -1,0 +1,1 @@
+{"tmdb_id": 589293, "title": "Dekala Purudu Kenek", "original_title": "Dekala Purudu Kenek", "slug_title": "dekala-purudu-kenek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samadhi Laksiri (Dinithi)", "Bimal Jayakodi (Sachithra)", "Jagath Manuwarna Kodithuwakku (Sanka)"], "comments": [], "recommandations_id": []}

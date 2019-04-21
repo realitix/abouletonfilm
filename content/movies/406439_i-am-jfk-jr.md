@@ -1,0 +1,1 @@
+{"tmdb_id": 406439, "title": "I Am JFK Jr.", "original_title": "I Am JFK Jr.", "slug_title": "i-am-jfk-jr", "date": "2016-08-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7NPJW6toGGwAMADdvtnfpk7WHY.jpg", "actors": [], "comments": [], "recommandations_id": []}

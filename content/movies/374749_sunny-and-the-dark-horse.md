@@ -1,0 +1,1 @@
+{"tmdb_id": 374749, "title": "Sunny and the Dark Horse", "original_title": "Sunny and the Dark Horse", "slug_title": "sunny-and-the-dark-horse", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e6cL9IaFgMq5S5YLzIGt39xWkuE.jpg", "actors": [], "comments": [], "recommandations_id": []}

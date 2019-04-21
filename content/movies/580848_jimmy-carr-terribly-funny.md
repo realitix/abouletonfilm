@@ -1,0 +1,1 @@
+{"tmdb_id": 580848, "title": "Jimmy Carr: Terribly Funny", "original_title": "Jimmy Carr: Terribly Funny", "slug_title": "jimmy-carr-terribly-funny", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Carr (Himself)"], "comments": [], "recommandations_id": []}

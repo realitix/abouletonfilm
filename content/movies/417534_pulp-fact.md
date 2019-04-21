@@ -1,0 +1,1 @@
+{"tmdb_id": 417534, "title": "Pulp Fact", "original_title": "Pulp Fact", "slug_title": "pulp-fact", "date": "1997-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

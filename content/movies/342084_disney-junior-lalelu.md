@@ -1,0 +1,1 @@
+{"tmdb_id": 342084, "title": "Disney Junior - LaLeLu", "original_title": "Disney Junior - LaLeLu", "slug_title": "disney-junior-lalelu", "date": "2010-09-30", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BC6at0wKwXTLf6zqmhEqLWORSW.jpg", "actors": [], "comments": [], "recommandations_id": []}

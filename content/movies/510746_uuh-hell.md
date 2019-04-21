@@ -1,0 +1,1 @@
+{"tmdb_id": 510746, "title": "Uuh!! Hell", "original_title": "Uuh!! Hell", "slug_title": "uuh-hell", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/isIq29TbLSE0AIrGuvuRbKtIrAR.jpg", "actors": [], "comments": [], "recommandations_id": []}

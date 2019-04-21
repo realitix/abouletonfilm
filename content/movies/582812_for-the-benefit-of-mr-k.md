@@ -1,0 +1,1 @@
+{"tmdb_id": 582812, "title": "For the Benefit of Mr. K", "original_title": "For the Benefit of Mr. K", "slug_title": "for-the-benefit-of-mr-k", "date": "1995-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHm1AuMggBCiqZLJEXpopxzzP3M.jpg", "actors": [], "comments": [], "recommandations_id": []}

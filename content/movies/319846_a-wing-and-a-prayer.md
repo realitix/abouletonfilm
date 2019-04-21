@@ -1,0 +1,1 @@
+{"tmdb_id": 319846, "title": "A Wing and a Prayer", "original_title": "A Wing and a Prayer", "slug_title": "a-wing-and-a-prayer", "date": "1998-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

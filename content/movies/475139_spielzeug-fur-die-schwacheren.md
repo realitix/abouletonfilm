@@ -1,0 +1,1 @@
+{"tmdb_id": 475139, "title": "Spielzeug f\u00fcr die Schw\u00e4cheren", "original_title": "Spielzeug f\u00fcr die Schw\u00e4cheren", "slug_title": "spielzeug-fur-die-schwacheren", "date": "1986-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

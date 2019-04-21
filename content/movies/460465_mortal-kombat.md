@@ -1,0 +1,1 @@
+{"tmdb_id": 460465, "title": "Mortal Kombat", "original_title": "Mortal Kombat", "slug_title": "mortal-kombat", "date": "", "genre": "Fantastique / Action / Aventure", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joel Edgerton (Kano)"], "comments": [], "recommandations_id": [509400, 155129, 453399, 460458]}

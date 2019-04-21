@@ -1,0 +1,1 @@
+{"tmdb_id": 284671, "title": "Kif Tebbi", "original_title": "Kif Tebbi", "slug_title": "kif-tebbi", "date": "1928-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donatella Neri ()", "Carlo Benetti ()", "Piero Carnabuci ()"], "comments": [], "recommandations_id": []}

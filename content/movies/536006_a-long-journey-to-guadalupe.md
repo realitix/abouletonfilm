@@ -1,0 +1,1 @@
+{"tmdb_id": 536006, "title": "A Long Journey to Guadalupe", "original_title": "El pueblo mexicano que camina", "slug_title": "a-long-journey-to-guadalupe", "date": "1996-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsZO01LWxCbrbUwYtkhm2WdToeu.jpg", "actors": [], "comments": [], "recommandations_id": []}

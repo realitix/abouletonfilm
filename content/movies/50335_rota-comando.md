@@ -1,0 +1,1 @@
+{"tmdb_id": 50335, "title": "Rota Comando", "original_title": "Rota Comando", "slug_title": "rota-comando", "date": "2009-05-21", "genre": "Action / Histoire / Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fg6igbAJfqCcIaSxPIemzuMBsCp.jpg", "actors": ["Elias Junior ()"], "comments": [], "recommandations_id": []}

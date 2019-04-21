@@ -1,0 +1,1 @@
+{"tmdb_id": 487445, "title": "We're Not the Jet Set", "original_title": "We're Not the Jet Set", "slug_title": "we-re-not-the-jet-set", "date": "1977-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["K.C. Peterson (Himself)"], "comments": [], "recommandations_id": []}

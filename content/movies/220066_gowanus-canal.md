@@ -1,0 +1,1 @@
+{"tmdb_id": 220066, "title": "Gowanus Canal", "original_title": "Gowanus Canal", "slug_title": "gowanus-canal", "date": "2013-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRRlDoidYIoYa22O35I2tPP7wfn.jpg", "actors": [], "comments": [], "recommandations_id": []}

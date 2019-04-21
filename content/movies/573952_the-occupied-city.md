@@ -1,0 +1,1 @@
+{"tmdb_id": 573952, "title": "The Occupied City", "original_title": "The Occupied City", "slug_title": "the-occupied-city", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

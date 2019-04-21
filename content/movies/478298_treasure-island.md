@@ -1,0 +1,1 @@
+{"tmdb_id": 478298, "title": "Treasure Island", "original_title": "Treasure Island", "slug_title": "treasure-island", "date": "1995-09-27", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

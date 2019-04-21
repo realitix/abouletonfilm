@@ -1,0 +1,1 @@
+{"tmdb_id": 327870, "title": "The Mannequin", "original_title": "Aridhat al-Azia", "slug_title": "the-mannequin", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

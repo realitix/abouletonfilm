@@ -1,0 +1,1 @@
+{"tmdb_id": 342153, "title": "Violence in the Cinema, Part 1", "original_title": "Violence in the Cinema, Part 1", "slug_title": "violence-in-the-cinema-part-1", "date": "1971-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

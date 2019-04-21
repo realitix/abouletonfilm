@@ -1,0 +1,1 @@
+{"tmdb_id": 552930, "title": "The Birth of Hunter Finkelstein", "original_title": "The Birth of Hunter Finkelstein", "slug_title": "the-birth-of-hunter-finkelstein", "date": "2018-10-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

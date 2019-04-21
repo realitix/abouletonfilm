@@ -1,0 +1,1 @@
+{"tmdb_id": 312760, "title": "Uncle Walt", "original_title": "Uncle Walt", "slug_title": "uncle-walt", "date": "1964-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

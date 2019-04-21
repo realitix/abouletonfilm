@@ -1,0 +1,1 @@
+{"tmdb_id": 283078, "title": "The Wreck of the Julie Plante", "original_title": "The Wreck of the Julie Plante", "slug_title": "the-wreck-of-the-julie-plante", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

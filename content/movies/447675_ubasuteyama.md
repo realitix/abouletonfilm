@@ -1,0 +1,1 @@
+{"tmdb_id": 447675, "title": "Ubasuteyama", "original_title": "Ubasuteyama", "slug_title": "ubasuteyama", "date": "1925-01-01", "genre": "Drame / Familial / Histoire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t6I5IyvuffYpXvThELjyaPJqVvC.jpg", "actors": [], "comments": [], "recommandations_id": []}

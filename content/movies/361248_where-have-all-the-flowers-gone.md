@@ -1,0 +1,1 @@
+{"tmdb_id": 361248, "title": "Where have all the flowers gone?", "original_title": "Where have all the flowers gone?", "slug_title": "where-have-all-the-flowers-gone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

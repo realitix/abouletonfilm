@@ -1,0 +1,1 @@
+{"tmdb_id": 436121, "title": "The Wonderful world of Dogs", "original_title": "The Wonderful world of Dogs", "slug_title": "the-wonderful-world-of-dogs", "date": "1990-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1n6PlqcbHQgCYJThloqiw1UPFIo.jpg", "actors": [], "comments": [], "recommandations_id": []}

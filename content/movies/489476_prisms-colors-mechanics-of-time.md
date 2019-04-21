@@ -1,0 +1,1 @@
+{"tmdb_id": 489476, "title": "Prism\u2019s colors, mechanics of time", "original_title": "Prism\u2019s colors, mechanics of time", "slug_title": "prisms-colors-mechanics-of-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

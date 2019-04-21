@@ -1,0 +1,1 @@
+{"tmdb_id": 571936, "title": "Suicide Club", "original_title": "Suicide Club", "slug_title": "suicide-club", "date": "2018-01-15", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9IZewQwziCCE5DlyxPux2vqNuC.jpg", "actors": [], "comments": [], "recommandations_id": []}

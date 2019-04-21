@@ -1,0 +1,1 @@
+{"tmdb_id": 302910, "title": "Chhupa Rustam", "original_title": "Chhupa Rustam", "slug_title": "chhupa-rustam", "date": "1973-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vttdRL3soGguoCB2Rh5ULFyQ5gn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296212, "title": "Death of the Serpent God", "original_title": "La mort du dieu serpent", "slug_title": "death-of-the-serpent-god", "date": "2014-08-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJvhFPbrNlSeHcFDctZAdGhlE7v.jpg", "actors": [], "comments": [], "recommandations_id": []}

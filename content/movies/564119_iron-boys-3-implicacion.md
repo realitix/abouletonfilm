@@ -1,0 +1,1 @@
+{"tmdb_id": 564119, "title": "Iron Boys 3: Implicacion", "original_title": "Iron Boys 3: Implicacion", "slug_title": "iron-boys-3-implicacion", "date": "2009-01-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbqb958tlp45GsnHi5Z8HnCMz9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

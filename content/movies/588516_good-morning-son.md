@@ -1,0 +1,1 @@
+{"tmdb_id": 588516, "title": "Good Morning Son", "original_title": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05dc\u05d3", "slug_title": "good-morning-son", "date": "2018-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

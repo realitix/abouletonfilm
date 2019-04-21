@@ -1,0 +1,1 @@
+{"tmdb_id": 507130, "title": "The Power of Harmony", "original_title": "The Power of Harmony", "slug_title": "the-power-of-harmony", "date": "2005-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sM4A1Fupp5tOiLWYkeFAeZ5qLW.jpg", "actors": [], "comments": [], "recommandations_id": []}

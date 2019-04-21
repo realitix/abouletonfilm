@@ -1,0 +1,1 @@
+{"tmdb_id": 403241, "title": "The Terrible Mother", "original_title": "The Terrible Mother", "slug_title": "the-terrible-mother", "date": "1972-06-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y9LGJSfUOBYBjG1jpUC0GUhqjWw.jpg", "actors": [], "comments": [], "recommandations_id": []}

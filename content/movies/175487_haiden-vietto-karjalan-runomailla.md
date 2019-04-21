@@ -1,0 +1,1 @@
+{"tmdb_id": 175487, "title": "H\u00e4iden vietto Karjalan runomailla", "original_title": "H\u00e4iden vietto Karjalan runomailla", "slug_title": "haiden-vietto-karjalan-runomailla", "date": "1921-02-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

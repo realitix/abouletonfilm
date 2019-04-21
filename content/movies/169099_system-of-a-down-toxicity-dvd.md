@@ -1,0 +1,1 @@
+{"tmdb_id": 169099, "title": "System of a Down - Toxicity DVD", "original_title": "System of a Down - Toxicity DVD", "slug_title": "system-of-a-down-toxicity-dvd", "date": "2001-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/172peBS0AcNpdxerJubLOd84dGV.jpg", "actors": [], "comments": [], "recommandations_id": []}

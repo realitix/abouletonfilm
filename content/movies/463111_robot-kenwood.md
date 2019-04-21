@@ -1,0 +1,1 @@
+{"tmdb_id": 463111, "title": "Robot KENWOOD", "original_title": "Robot KENWOOD", "slug_title": "robot-kenwood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Recettes pour le robot KENWOOD", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

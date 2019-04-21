@@ -1,0 +1,1 @@
+{"tmdb_id": 309065, "title": "The Award Winners of Hollywood Scarefest 2005", "original_title": "The Award Winners of Hollywood Scarefest 2005", "slug_title": "the-award-winners-of-hollywood-scarefest-2005", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 406047, "title": "Max Maven's Mindgames", "original_title": "Max Maven's Mindgames", "slug_title": "max-maven-s-mindgames", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PsYJhnNADVmRslwdIMCOYWFKxJ.jpg", "actors": ["Max Maven (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382390, "title": "Torpedo of Doom", "original_title": "Torpedo of Doom", "slug_title": "torpedo-of-doom", "date": "1966-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Bennett ()", "Lee Powell ()"], "comments": [], "recommandations_id": []}

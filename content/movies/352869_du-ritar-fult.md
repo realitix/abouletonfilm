@@ -1,0 +1,1 @@
+{"tmdb_id": 352869, "title": "Du ritar fult", "original_title": "Du ritar fult", "slug_title": "du-ritar-fult", "date": "2010-01-10", "genre": "Drame", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7X9JJCXK6IgGIeXOSCGGvzpSRNd.jpg", "actors": [], "comments": [], "recommandations_id": [429320, 264210, 387380, 365490]}

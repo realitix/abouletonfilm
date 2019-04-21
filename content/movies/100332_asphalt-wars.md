@@ -1,0 +1,1 @@
+{"tmdb_id": 100332, "title": "Asphalt Wars", "original_title": "Asphalt Wars", "slug_title": "asphalt-wars", "date": "2005-04-02", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c0UqX442hTOadpc61WUqwjaRAQP.jpg", "actors": [], "comments": [], "recommandations_id": []}

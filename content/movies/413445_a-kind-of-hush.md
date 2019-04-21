@@ -1,0 +1,1 @@
+{"tmdb_id": 413445, "title": "A Kind of Hush", "original_title": "A Kind of Hush", "slug_title": "a-kind-of-hush", "date": "1999-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harley Smith (Stu)", "Marcella Plunkett (Kathleen)", "Ben Roberts (Simon)", "Paul Williams (Mick)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 77046, "title": "Land of the Heads", "original_title": "Au pays des t\u00eates", "slug_title": "land-of-the-heads", "date": "2009-01-01", "genre": "Animation / Fantastique / Horreur", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swLLzOFDPSjywfNtP91AJd3rnTg.jpg", "actors": [], "comments": [], "recommandations_id": []}

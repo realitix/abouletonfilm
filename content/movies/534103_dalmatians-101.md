@@ -1,0 +1,1 @@
+{"tmdb_id": 534103, "title": "Dalmatians 101", "original_title": "Dalmatians 101", "slug_title": "dalmatians-101", "date": "2015-02-10", "genre": "Familial / Documentaire / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cameron Bryce (Himself)"], "comments": [], "recommandations_id": []}

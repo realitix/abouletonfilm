@@ -1,0 +1,1 @@
+{"tmdb_id": 311610, "title": "Special Forces: Untold Stories: Vol. 2", "original_title": "Special Forces: Untold Stories: Vol. 2", "slug_title": "special-forces-untold-stories-vol-2", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

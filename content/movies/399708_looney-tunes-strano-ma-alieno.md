@@ -1,0 +1,1 @@
+{"tmdb_id": 399708, "title": "Looney tunes: Strano ma alieno!", "original_title": "Looney tunes: Strano ma alieno!", "slug_title": "looney-tunes-strano-ma-alieno", "date": "2005-01-01", "genre": "", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4VQ01ChsVQfEc12m8S0KSGNdM6.jpg", "actors": [], "comments": [], "recommandations_id": []}

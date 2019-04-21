@@ -1,0 +1,1 @@
+{"tmdb_id": 344646, "title": "Babaing Kidlat", "original_title": "Babaing Kidlat", "slug_title": "babaing-kidlat", "date": "1964-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dolphy ()", "Liza Moreno ()"], "comments": [], "recommandations_id": []}

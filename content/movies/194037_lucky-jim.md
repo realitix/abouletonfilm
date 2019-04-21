@@ -1,0 +1,1 @@
+{"tmdb_id": 194037, "title": "Lucky Jim", "original_title": "Lucky Jim", "slug_title": "lucky-jim", "date": "1909-04-25", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uX8An0Tw1f0QPdUaRuK2Ti57PP.jpg", "actors": ["Marion Leonard (Gertrude)", "Mack Sennett (Jack)"], "comments": [], "recommandations_id": []}

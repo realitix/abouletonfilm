@@ -1,0 +1,1 @@
+{"tmdb_id": 302648, "title": "Handball Legend Brought Back to Life", "original_title": "Handball Legend Brought Back to Life", "slug_title": "handball-legend-brought-back-to-life", "date": "2014-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

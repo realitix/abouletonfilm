@@ -1,0 +1,1 @@
+{"tmdb_id": 497331, "title": "Gote Sua Gote Sari", "original_title": "Gote Sua Gote Sari", "slug_title": "gote-sua-gote-sari", "date": "2016-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barsa Priyadarshini (Priti)"], "comments": [], "recommandations_id": []}

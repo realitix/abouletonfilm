@@ -1,0 +1,1 @@
+{"tmdb_id": 152231, "title": "Dermot Morgan Live", "original_title": "Dermot Morgan Live", "slug_title": "dermot-morgan-live", "date": "1994-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qbx27IIPPbtzdAj9TNbFhOg8YDP.jpg", "actors": ["Dermot Morgan (Himself)"], "comments": [], "recommandations_id": []}

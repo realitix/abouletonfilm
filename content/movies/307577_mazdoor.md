@@ -1,0 +1,1 @@
+{"tmdb_id": 307577, "title": "Mazdoor", "original_title": "Mazdoor", "slug_title": "mazdoor", "date": "1983-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMQy7bshMkSJVHlH774Xl3Fkh5v.jpg", "actors": [], "comments": [], "recommandations_id": []}

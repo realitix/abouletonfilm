@@ -1,0 +1,1 @@
+{"tmdb_id": 342707, "title": "I Love My Body: Cardio/Yoga", "original_title": "I Love My Body: Cardio/Yoga", "slug_title": "i-love-my-body-cardio-yoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

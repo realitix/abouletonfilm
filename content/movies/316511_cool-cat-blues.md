@@ -1,0 +1,1 @@
+{"tmdb_id": 316511, "title": "Cool Cat Blues", "original_title": "Cool Cat Blues", "slug_title": "cool-cat-blues", "date": "1962-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

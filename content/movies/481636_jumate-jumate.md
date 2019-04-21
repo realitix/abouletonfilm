@@ -1,0 +1,1 @@
+{"tmdb_id": 481636, "title": "Jumate/Jumate", "original_title": "Jumate/Jumate", "slug_title": "jumate-jumate", "date": "2007-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Camelia Miro (Herself)"], "comments": [], "recommandations_id": []}

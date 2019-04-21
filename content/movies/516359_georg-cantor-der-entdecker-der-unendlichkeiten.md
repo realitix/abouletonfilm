@@ -1,0 +1,1 @@
+{"tmdb_id": 516359, "title": "Georg Cantor - Der Entdecker der Unendlichkeiten", "original_title": "Georg Cantor - Der Entdecker der Unendlichkeiten", "slug_title": "georg-cantor-der-entdecker-der-unendlichkeiten", "date": "2018-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

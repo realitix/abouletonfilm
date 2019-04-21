@@ -1,0 +1,1 @@
+{"tmdb_id": 418994, "title": "Rock Opera", "original_title": "Rock Opera", "slug_title": "rock-opera", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jerry Don Clark (Toe)", "Ted Jarrell (Ned)", "Chad Holt (Tad)", "Paul Wright (Jarvis)", "Luis Olmeda (Paco)"], "comments": [], "recommandations_id": []}

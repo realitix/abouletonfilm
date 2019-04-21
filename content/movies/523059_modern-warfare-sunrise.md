@@ -1,0 +1,1 @@
+{"tmdb_id": 523059, "title": "Modern Warfare: Sunrise", "original_title": "Modern Warfare: Sunrise", "slug_title": "modern-warfare-sunrise", "date": "2013-10-27", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56Q8rdVVM7IZNxBHrZcRhqLF406.jpg", "actors": [], "comments": [], "recommandations_id": []}

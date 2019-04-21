@@ -1,0 +1,1 @@
+{"tmdb_id": 351503, "title": "School Daze", "original_title": "School Daze", "slug_title": "school-daze", "date": "1942-09-18", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pttbzV0CkP4YehmhWwcEvwTPkP6.jpg", "actors": [], "comments": [], "recommandations_id": []}

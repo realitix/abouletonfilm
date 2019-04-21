@@ -1,0 +1,1 @@
+{"tmdb_id": 174470, "title": "Buddy the Dentist", "original_title": "Buddy the Dentist", "slug_title": "buddy-the-dentist", "date": "1934-12-14", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8EGAhR8pNReJXr75ah0ntHSpnc.jpg", "actors": [], "comments": [], "recommandations_id": []}

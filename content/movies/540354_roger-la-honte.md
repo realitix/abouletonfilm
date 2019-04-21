@@ -1,0 +1,1 @@
+{"tmdb_id": 540354, "title": "Roger la Honte", "original_title": "Roger la Honte", "slug_title": "roger-la-honte", "date": "1933-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

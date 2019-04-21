@@ -1,0 +1,1 @@
+{"tmdb_id": 526639, "title": "Speaking Up 2", "original_title": "\u554f\u2014\u5927\u9678\u5c0f\u5b78", "slug_title": "speaking-up-2", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50i0wxPSLezmUGf4KIDd1ynZ99o.jpg", "actors": [], "comments": [], "recommandations_id": []}

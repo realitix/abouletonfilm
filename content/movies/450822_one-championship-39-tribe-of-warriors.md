@@ -1,0 +1,1 @@
+{"tmdb_id": 450822, "title": "ONE Championship 39: Tribe of Warriors", "original_title": "ONE Championship 39: Tribe of Warriors", "slug_title": "one-championship-39-tribe-of-warriors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

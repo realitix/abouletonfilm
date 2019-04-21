@@ -1,0 +1,1 @@
+{"tmdb_id": 471784, "title": "Have You Heard about the Panthers?", "original_title": "Shamata Al Ha Panterim?", "slug_title": "have-you-heard-about-the-panthers", "date": "2002-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 464146, "title": "\uc139\uc288\uc5bc \uc5b4\ub515\uc158", "original_title": "\uc139\uc288\uc5bc \uc5b4\ub515\uc158", "slug_title": "segsyueol-eodigsyeon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWtMKHIo9D6Y8Ag7hQuuqhJlGHl.jpg", "actors": [], "comments": [], "recommandations_id": []}

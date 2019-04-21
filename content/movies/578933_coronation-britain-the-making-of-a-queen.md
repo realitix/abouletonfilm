@@ -1,0 +1,1 @@
+{"tmdb_id": 578933, "title": "Coronation Britain: The Making Of A Queen", "original_title": "Coronation Britain: The Making Of A Queen", "slug_title": "coronation-britain-the-making-of-a-queen", "date": "2012-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

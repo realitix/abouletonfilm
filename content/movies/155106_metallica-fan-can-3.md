@@ -1,0 +1,1 @@
+{"tmdb_id": 155106, "title": "Metallica: Fan Can 3", "original_title": "Metallica: Fan Can 3", "slug_title": "metallica-fan-can-3", "date": "1998-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKrAYILfSYgBWDBhDglBaSflMcJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

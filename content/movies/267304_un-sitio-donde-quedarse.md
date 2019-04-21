@@ -1,0 +1,1 @@
+{"tmdb_id": 267304, "title": "Un sitio donde quedarse", "original_title": "Un sitio donde quedarse", "slug_title": "un-sitio-donde-quedarse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 496544, "title": "The Nomadic City of Camela", "original_title": "The Nomadic City of Camela", "slug_title": "the-nomadic-city-of-camela", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

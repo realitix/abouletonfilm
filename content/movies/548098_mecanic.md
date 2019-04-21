@@ -1,0 +1,1 @@
+{"tmdb_id": 548098, "title": "Mecanic", "original_title": "M\u00e9canique", "slug_title": "mecanic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

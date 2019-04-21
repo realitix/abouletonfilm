@@ -1,0 +1,1 @@
+{"tmdb_id": 404865, "title": "The Poor Musician", "original_title": "The Poor Musician", "slug_title": "the-poor-musician", "date": "1909-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Earle Williams ()", "Charles Kent ()"], "comments": [], "recommandations_id": []}

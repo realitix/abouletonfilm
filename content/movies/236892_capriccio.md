@@ -1,0 +1,1 @@
+{"tmdb_id": 236892, "title": "Capriccio", "original_title": "Capriccio", "slug_title": "capriccio", "date": "1969-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eiJdlenqLLedUUsQybYc22bAleX.jpg", "actors": [], "comments": [], "recommandations_id": []}

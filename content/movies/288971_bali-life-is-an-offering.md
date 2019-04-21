@@ -1,0 +1,1 @@
+{"tmdb_id": 288971, "title": "Bali: Life Is An Offering", "original_title": "Bali: Life Is An Offering", "slug_title": "bali-life-is-an-offering", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

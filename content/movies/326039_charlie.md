@@ -1,0 +1,1 @@
+{"tmdb_id": 326039, "title": "Charlie", "original_title": "Charlie", "slug_title": "charlie", "date": "2014-12-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9ZXeOani3xisphu9CLBnQ0Rotz.jpg", "actors": ["Alan K. Sapp (Charlie)", "Jennifer Cornish (Aggie)"], "comments": [], "recommandations_id": []}

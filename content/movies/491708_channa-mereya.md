@@ -1,0 +1,1 @@
+{"tmdb_id": 491708, "title": "Channa Mereya", "original_title": "Channa Mereya", "slug_title": "channa-mereya", "date": "2017-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iz7ql5RBTR3GmddEYJEaYFF7ZMY.jpg", "actors": [], "comments": [], "recommandations_id": []}

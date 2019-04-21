@@ -1,0 +1,1 @@
+{"tmdb_id": 305905, "title": "Pratigne", "original_title": "Pratigne", "slug_title": "pratigne", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

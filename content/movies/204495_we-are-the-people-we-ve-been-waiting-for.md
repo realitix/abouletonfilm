@@ -1,0 +1,1 @@
+{"tmdb_id": 204495, "title": "We Are the People We've Been Waiting For", "original_title": "We Are the People We've Been Waiting For", "slug_title": "we-are-the-people-we-ve-been-waiting-for", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

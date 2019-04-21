@@ -1,0 +1,1 @@
+{"tmdb_id": 354852, "title": "Maladie", "original_title": "Maladie", "slug_title": "maladie", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEKGo9ua4FQFYH6CkmpCYteJBpC.jpg", "actors": [], "comments": [], "recommandations_id": []}

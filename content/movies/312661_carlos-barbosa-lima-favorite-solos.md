@@ -1,0 +1,1 @@
+{"tmdb_id": 312661, "title": "Carlos Barbosa-Lima: Favorite Solos", "original_title": "Carlos Barbosa-Lima: Favorite Solos", "slug_title": "carlos-barbosa-lima-favorite-solos", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

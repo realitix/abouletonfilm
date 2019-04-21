@@ -1,0 +1,1 @@
+{"tmdb_id": 531013, "title": "Bangaru Babu", "original_title": "Bangaru Babu", "slug_title": "bangaru-babu", "date": "2009-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssuhT6VDhYM2dUtO2CK54AbioeB.jpg", "actors": ["Jagapati Babu ()", "Meera Jasmine ()"], "comments": [], "recommandations_id": []}

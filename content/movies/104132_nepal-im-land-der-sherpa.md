@@ -1,0 +1,1 @@
+{"tmdb_id": 104132, "title": "Nepal im Land der Sherpa", "original_title": "Nepal im Land der Sherpa", "slug_title": "nepal-im-land-der-sherpa", "date": "2007-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FihDVpsgLsCPmlZohZPZ683C7m.jpg", "actors": [], "comments": [], "recommandations_id": []}

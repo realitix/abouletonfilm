@@ -1,0 +1,1 @@
+{"tmdb_id": 308299, "title": "Black Sabbath: Masters of Reality", "original_title": "Black Sabbath: Masters of Reality", "slug_title": "black-sabbath-masters-of-reality", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303801, "title": "Um caminho para a Liberdade", "original_title": "Um caminho para a Liberdade", "slug_title": "um-caminho-para-a-liberdade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

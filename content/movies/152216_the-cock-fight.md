@@ -1,0 +1,1 @@
+{"tmdb_id": 152216, "title": "The Cock Fight", "original_title": "The Cock Fight", "slug_title": "the-cock-fight", "date": "1894-01-01", "genre": "Documentaire", "score": "4.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ux54PPdnoS0sgncFOQXeciUVL2I.jpg", "actors": [], "comments": [], "recommandations_id": [152215, 155107, 105160]}

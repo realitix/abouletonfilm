@@ -1,0 +1,1 @@
+{"tmdb_id": 320814, "title": "Mahalia Jackson: Tell It! Sing It! Shout It!", "original_title": "Mahalia Jackson: Tell It! Sing It! Shout It!", "slug_title": "mahalia-jackson-tell-it-sing-it-shout-it", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

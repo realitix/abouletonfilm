@@ -1,0 +1,1 @@
+{"tmdb_id": 548720, "title": "Weird Science", "original_title": "Weird Science", "slug_title": "weird-science", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

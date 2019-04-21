@@ -1,0 +1,1 @@
+{"tmdb_id": 205932, "title": "Zen for Film", "original_title": "Zen for Film", "slug_title": "zen-for-film", "date": "1964-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pSTxbVp0CuyA1LKVvbawT7znSCF.jpg", "actors": [], "comments": [], "recommandations_id": []}

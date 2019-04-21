@@ -1,0 +1,1 @@
+{"tmdb_id": 324785, "title": "Lebron: The Life", "original_title": "Lebron: The Life", "slug_title": "lebron-the-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

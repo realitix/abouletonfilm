@@ -1,0 +1,1 @@
+{"tmdb_id": 527648, "title": "Botika Bituka", "original_title": "Botika Bituka", "slug_title": "botika-bituka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cesar Hernando (Director)"], "comments": [], "recommandations_id": []}

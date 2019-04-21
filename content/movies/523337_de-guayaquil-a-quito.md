@@ -1,0 +1,1 @@
+{"tmdb_id": 523337, "title": "De Guayaquil a Quito", "original_title": "De Guayaquil a Quito", "slug_title": "de-guayaquil-a-quito", "date": "1933-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

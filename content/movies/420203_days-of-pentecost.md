@@ -1,0 +1,1 @@
+{"tmdb_id": 420203, "title": "Days of Pentecost", "original_title": "Days of Pentecost", "slug_title": "days-of-pentecost", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8s1MVWTTamG5hdnoO6N2QxfOrke.jpg", "actors": [], "comments": [], "recommandations_id": []}

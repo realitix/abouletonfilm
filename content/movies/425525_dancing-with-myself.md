@@ -1,0 +1,1 @@
+{"tmdb_id": 425525, "title": "Dancing with Myself", "original_title": "Dancing with Myself", "slug_title": "dancing-with-myself", "date": "2007-01-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZoVPtR4EVyjodMmOVqMBCyQSrR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541365, "title": "LFA 46 Nakashima vs Stewart", "original_title": "LFA 46 Nakashima vs Stewart", "slug_title": "lfa-46-nakashima-vs-stewart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6vKFUDK5oA3IcVKQ7o7aXZ8PZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

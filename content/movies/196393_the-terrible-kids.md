@@ -1,0 +1,1 @@
+{"tmdb_id": 196393, "title": "The Terrible Kids", "original_title": "The Terrible Kids", "slug_title": "the-terrible-kids", "date": "1906-05-01", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqIKuqhExm17kgIOu7p0zFJlmuW.jpg", "actors": [], "comments": [], "recommandations_id": []}

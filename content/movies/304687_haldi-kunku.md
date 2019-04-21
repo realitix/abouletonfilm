@@ -1,0 +1,1 @@
+{"tmdb_id": 304687, "title": "Haldi Kunku", "original_title": "Haldi Kunku", "slug_title": "haldi-kunku", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ashok Saraf ()", "Ranjana ()", "Sudhir Dalvi ()", "Usha Naik ()", "Govind Kulkarni ()", "Nilu Phule ()"], "comments": [], "recommandations_id": []}

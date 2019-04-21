@@ -1,0 +1,1 @@
+{"tmdb_id": 284090, "title": "Golden Shower", "original_title": "Huang jin yu", "slug_title": "golden-shower", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

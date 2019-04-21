@@ -1,0 +1,1 @@
+{"tmdb_id": 354692, "title": "Torrent", "original_title": "Kuang liu", "slug_title": "torrent", "date": "1933-03-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chia-Nung Kung ()", "Butterfly Wu ()", "Tan Zhi-Yuan ()", "Pei-Zhen Xia ()", "Zhu Gu-Yan ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 383898, "title": "Return to the Promised Land", "original_title": "Veradardz avetyats yerkir", "slug_title": "return-to-the-promised-land", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

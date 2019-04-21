@@ -1,0 +1,1 @@
+{"tmdb_id": 581230, "title": "The Audacious Adventurer", "original_title": "Les audaces d'un aventurier", "slug_title": "the-audacious-adventurer", "date": "2006-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bertrand Tavernier (Interviewee)"], "comments": [], "recommandations_id": []}

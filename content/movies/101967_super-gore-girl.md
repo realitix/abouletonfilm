@@ -1,0 +1,1 @@
+{"tmdb_id": 101967, "title": "Super Gore Girl", "original_title": "Sei shirayuri kishidan", "slug_title": "super-gore-girl", "date": "2009-05-09", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eM7Fo2AQ3Kg7q2dntNweJ3r1q5X.jpg", "actors": [], "comments": [], "recommandations_id": []}

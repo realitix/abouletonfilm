@@ -1,0 +1,1 @@
+{"tmdb_id": 237168, "title": "Anatole fait du camping", "original_title": "Anatole fait du camping", "slug_title": "anatole-fait-du-camping", "date": "1947-11-15", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLFgRfmBMVqXm0NgRReNYGNxL3K.jpg", "actors": [], "comments": [], "recommandations_id": []}

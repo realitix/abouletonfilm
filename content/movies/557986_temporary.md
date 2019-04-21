@@ -1,0 +1,1 @@
+{"tmdb_id": 557986, "title": "Temporary", "original_title": "\u81e8\u6642\u5de5", "slug_title": "temporary", "date": "2017-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

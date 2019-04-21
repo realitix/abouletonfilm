@@ -1,0 +1,1 @@
+{"tmdb_id": 349066, "title": "Rush Hour", "original_title": "Rush Hour", "slug_title": "rush-hour", "date": "2018-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28rqgMVYxQqa5ylKb1JFmvEpxfi.jpg", "actors": [], "comments": [], "recommandations_id": []}

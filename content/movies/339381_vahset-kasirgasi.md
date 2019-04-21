@@ -1,0 +1,1 @@
+{"tmdb_id": 339381, "title": "Vahset kasirgasi", "original_title": "Vahset kasirgasi", "slug_title": "vahset-kasirgasi", "date": "1985-09-14", "genre": "Thriller / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGJvODkN8Iya2x3leNl5VA4thfd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 93758, "title": "She Mob", "original_title": "She Mob", "slug_title": "she-mob", "date": "1968-05-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCgqiaC7vIFYFup19XkYzKUUufA.jpg", "actors": [], "comments": [], "recommandations_id": []}

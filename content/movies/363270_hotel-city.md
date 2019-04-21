@@ -1,0 +1,1 @@
+{"tmdb_id": 363270, "title": "Hotel City", "original_title": "Hotel City", "slug_title": "hotel-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

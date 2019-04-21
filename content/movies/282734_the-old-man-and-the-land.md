@@ -1,0 +1,1 @@
+{"tmdb_id": 282734, "title": "The Old Man and the Land", "original_title": "Senis ir \u017eem\u0117", "slug_title": "the-old-man-and-the-land", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDLOFgCTMEMttjBvfU6G5kD78yE.jpg", "actors": [], "comments": [], "recommandations_id": []}

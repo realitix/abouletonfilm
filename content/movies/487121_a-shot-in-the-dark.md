@@ -1,0 +1,1 @@
+{"tmdb_id": 487121, "title": "A Shot In The Dark", "original_title": "A Shot In The Dark", "slug_title": "a-shot-in-the-dark", "date": "2017-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9KksJhryR5QJacnUGfhvjhcEIzy.jpg", "actors": [], "comments": [], "recommandations_id": []}

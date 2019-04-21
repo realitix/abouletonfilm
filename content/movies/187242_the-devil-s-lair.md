@@ -1,0 +1,1 @@
+{"tmdb_id": 187242, "title": "The Devil's Lair", "original_title": "The Devil's Lair", "slug_title": "the-devil-s-lair", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

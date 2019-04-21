@@ -1,0 +1,1 @@
+{"tmdb_id": 455269, "title": "Kurosawa and the Censors", "original_title": "Kurosawa and the Censors", "slug_title": "kurosawa-and-the-censors", "date": "2007-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

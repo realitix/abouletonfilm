@@ -1,0 +1,1 @@
+{"tmdb_id": 382416, "title": "Cartoon Le Mousse", "original_title": "Cartoon Le Mousse", "slug_title": "cartoon-le-mousse", "date": "1979-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82wBErJQdtkPGbIEl2zFtjc2Vd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

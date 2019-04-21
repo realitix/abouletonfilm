@@ -1,0 +1,1 @@
+{"tmdb_id": 362824, "title": "Beer and Cigarettes 2", "original_title": "Pivo a cigarety 2", "slug_title": "beer-and-cigarettes-2", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

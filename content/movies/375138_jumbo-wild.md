@@ -1,0 +1,1 @@
+{"tmdb_id": 375138, "title": "Jumbo Wild", "original_title": "Jumbo Wild", "slug_title": "jumbo-wild", "date": "2015-10-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ub3u0a7DYe28MW2HvTRGQgvkMgn.jpg", "actors": [], "comments": [], "recommandations_id": []}

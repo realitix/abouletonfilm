@@ -1,0 +1,1 @@
+{"tmdb_id": 286791, "title": "Hawaiian Punch", "original_title": "Hawaiian Punch", "slug_title": "hawaiian-punch", "date": "2013-09-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6Jg7CJ5nCB4yuS1cCnkERkmQr3.jpg", "actors": ["Zach Weintraub (Zach)"], "comments": [], "recommandations_id": []}

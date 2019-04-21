@@ -1,0 +1,1 @@
+{"tmdb_id": 250427, "title": "Professor", "original_title": "Professor", "slug_title": "professor", "date": "2010-03-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307121, "title": "LA VIDA ES UN CARNAVAL", "original_title": "LA VIDA ES UN CARNAVAL", "slug_title": "la-vida-es-un-carnaval", "date": "2006-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

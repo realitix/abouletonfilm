@@ -1,0 +1,1 @@
+{"tmdb_id": 568997, "title": "Squirrels", "original_title": "Squirrels", "slug_title": "squirrels", "date": "2018-07-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aL1xKvOKy3ju7Vb4sOFr4MxR8Ug.jpg", "actors": [], "comments": [], "recommandations_id": []}

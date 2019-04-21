@@ -1,0 +1,1 @@
+{"tmdb_id": 374668, "title": "Darling I Lowe Ju", "original_title": "Darling I Lowe Ju", "slug_title": "darling-i-lowe-ju", "date": "2011-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6OB9zgGl337mSZVnEfYMIRqi5MQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

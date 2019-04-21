@@ -1,0 +1,1 @@
+{"tmdb_id": 527903, "title": "Forest Paths (forget Heidegger)", "original_title": "Forest Paths (forget Heidegger)", "slug_title": "forest-paths-forget-heidegger", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

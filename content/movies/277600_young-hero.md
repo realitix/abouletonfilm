@@ -1,0 +1,1 @@
+{"tmdb_id": 277600, "title": "Young Hero", "original_title": "Young Hero", "slug_title": "young-hero", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbSb1FLGmTRvev497N0kO2qXGnH.jpg", "actors": ["Hwang Jang-Lee ()"], "comments": [], "recommandations_id": []}

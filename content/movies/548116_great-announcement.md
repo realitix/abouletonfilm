@@ -1,0 +1,1 @@
+{"tmdb_id": 548116, "title": "Great Announcement", "original_title": "\u51c4\u8a00 - \u30bd\u30a6\u30b4\u30f3", "slug_title": "great-announcement", "date": "1964-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acJwnLjHD356b7IBzFqMi4wtnpv.jpg", "actors": [], "comments": [], "recommandations_id": []}

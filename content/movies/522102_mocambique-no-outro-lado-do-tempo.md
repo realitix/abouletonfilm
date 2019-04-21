@@ -1,0 +1,1 @@
+{"tmdb_id": 522102, "title": "Mocambique: No Outro Lado do Tempo", "original_title": "Mocambique: No Outro Lado do Tempo", "slug_title": "mocambique-no-outro-lado-do-tempo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

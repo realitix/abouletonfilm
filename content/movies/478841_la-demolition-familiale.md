@@ -1,0 +1,1 @@
+{"tmdb_id": 478841, "title": "La d\u00e9molition familiale", "original_title": "La d\u00e9molition familiale", "slug_title": "la-demolition-familiale", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

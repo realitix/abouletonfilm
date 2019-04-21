@@ -1,0 +1,1 @@
+{"tmdb_id": 367184, "title": "Fire and Ice: The Rocket Richard Riot", "original_title": "Fire and Ice: The Rocket Richard Riot", "slug_title": "fire-and-ice-the-rocket-richard-riot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

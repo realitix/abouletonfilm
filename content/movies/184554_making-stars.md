@@ -1,0 +1,1 @@
+{"tmdb_id": 184554, "title": "Making Stars", "original_title": "Making Stars", "slug_title": "making-stars", "date": "1935-10-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkYBB5y7LzHFFQbfyRb3ziQ4gPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

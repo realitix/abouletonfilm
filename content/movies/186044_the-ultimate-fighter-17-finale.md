@@ -1,0 +1,1 @@
+{"tmdb_id": 186044, "title": "The Ultimate Fighter 17 Finale", "original_title": "The Ultimate Fighter 17 Finale", "slug_title": "the-ultimate-fighter-17-finale", "date": "2013-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hi3OhtJ6vX4StO8n9u39D7lY4Ii.jpg", "actors": [], "comments": [], "recommandations_id": []}

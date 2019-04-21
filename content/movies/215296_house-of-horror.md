@@ -1,0 +1,1 @@
+{"tmdb_id": 215296, "title": "House of Horror", "original_title": "House of Horror", "slug_title": "house-of-horror", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kingsley Ariole (Nice)", "Doris Ogala (Cynthia)"], "comments": [], "recommandations_id": []}

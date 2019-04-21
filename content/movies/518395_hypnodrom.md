@@ -1,0 +1,1 @@
+{"tmdb_id": 518395, "title": "Hypnodrom", "original_title": "Hypnodrom", "slug_title": "hypnodrom", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

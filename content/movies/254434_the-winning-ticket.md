@@ -1,0 +1,1 @@
+{"tmdb_id": 254434, "title": "The Winning Ticket", "original_title": "The Winning Ticket", "slug_title": "the-winning-ticket", "date": "1938-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kywCjDnOCBpoYw31F91wWwVXbzR.jpg", "actors": ["Billy Bletcher (The Captain (voice))"], "comments": [], "recommandations_id": []}

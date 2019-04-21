@@ -1,0 +1,1 @@
+{"tmdb_id": 480648, "title": "Rosas de Ermera", "original_title": "Rosas de Ermera", "slug_title": "rosas-de-ermera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410392, "title": "Who's afraid of Mr. Greedy", "original_title": "Who's afraid of Mr. Greedy", "slug_title": "who-s-afraid-of-mr-greedy", "date": "2011-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rksoZnPoMA4LNmo668Z3g1Ucfow.jpg", "actors": [], "comments": [], "recommandations_id": []}

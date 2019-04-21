@@ -1,0 +1,1 @@
+{"tmdb_id": 349547, "title": "Lai Taihan", "original_title": "\ub77c\uc774 \ub530\uc774\ud55c", "slug_title": "lai-taihan", "date": "1994-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

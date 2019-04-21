@@ -1,0 +1,1 @@
+{"tmdb_id": 331587, "title": "The Kitchen Boy", "original_title": "The Kitchen Boy", "slug_title": "the-kitchen-boy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

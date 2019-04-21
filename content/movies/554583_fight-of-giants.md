@@ -1,0 +1,1 @@
+{"tmdb_id": 554583, "title": "Fight of Giants", "original_title": "Lucha de gigantes", "slug_title": "fight-of-giants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis de la Rosa ()", "Natasha Dupeyr\u00f3n ()", "Miguel Rodarte ()", "Dominika Paleta ()", "Adal Ramones ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 88299, "title": "Ten Minute Mozart", "original_title": "Zehn Minuten Mozart", "slug_title": "ten-minute-mozart", "date": "1930-01-01", "genre": "Animation / Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWcNwjiTTdkOfCFx50KyiZT6hdG.jpg", "actors": [], "comments": [], "recommandations_id": []}

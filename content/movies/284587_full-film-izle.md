@@ -1,0 +1,1 @@
+{"tmdb_id": 284587, "title": "Full Film izle", "original_title": "Full Film izle", "slug_title": "full-film-izle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

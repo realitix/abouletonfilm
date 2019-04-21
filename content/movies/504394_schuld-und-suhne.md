@@ -1,0 +1,1 @@
+{"tmdb_id": 504394, "title": "Schuld und S\u00fchne", "original_title": "Schuld und S\u00fchne", "slug_title": "schuld-und-suhne", "date": "1992-09-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephan Bissmeier ()", "Jutta Lampe ()", "Dirk Nawrocki ()", "Udo Samel ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 319399, "title": "The Happy Goodmans: The Final Stand", "original_title": "The Happy Goodmans: The Final Stand", "slug_title": "the-happy-goodmans-the-final-stand", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

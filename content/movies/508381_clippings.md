@@ -1,0 +1,1 @@
+{"tmdb_id": 508381, "title": "Clippings", "original_title": "Apokommata", "slug_title": "clippings", "date": "2010-10-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxEPgBgzkTfXoH5gUQ5suGoObcH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 315406, "title": "Variant Chants", "original_title": "Variant Chants", "slug_title": "variant-chants", "date": "1983-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oPtThTesaLKsr1yO53u4ZCuqqL.jpg", "actors": [], "comments": [], "recommandations_id": []}

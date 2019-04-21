@@ -1,0 +1,1 @@
+{"tmdb_id": 222331, "title": "Play Murder for Me", "original_title": "Play Murder for Me", "slug_title": "play-murder-for-me", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

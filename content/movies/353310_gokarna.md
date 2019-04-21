@@ -1,0 +1,1 @@
+{"tmdb_id": 353310, "title": "Gokarna", "original_title": "Gokarna", "slug_title": "gokarna", "date": "2003-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bGdlPNAi7xW0XKpdnUX8xMkWDQ.jpg", "actors": ["Upendra ()", "Rakshita ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 266919, "title": "Two Old Tars", "original_title": "Two Old Tars", "slug_title": "two-old-tars", "date": "1913-10-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (First Old Tar)", "Nick Cogley (Second Old Tar)", "George Jeske (The Cop)"], "comments": [], "recommandations_id": []}

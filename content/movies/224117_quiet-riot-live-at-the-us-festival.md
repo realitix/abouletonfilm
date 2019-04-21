@@ -1,0 +1,1 @@
+{"tmdb_id": 224117, "title": "Quiet Riot Live at The US Festival", "original_title": "Quiet Riot Live at The US Festival", "slug_title": "quiet-riot-live-at-the-us-festival", "date": "2012-03-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

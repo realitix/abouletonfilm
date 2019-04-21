@@ -1,0 +1,1 @@
+{"tmdb_id": 537017, "title": "The Doctor", "original_title": "The Doctor", "slug_title": "the-doctor", "date": "1982-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

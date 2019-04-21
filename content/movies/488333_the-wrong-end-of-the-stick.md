@@ -1,0 +1,1 @@
+{"tmdb_id": 488333, "title": "The Wrong End of the Stick", "original_title": "The Wrong End of the Stick", "slug_title": "the-wrong-end-of-the-stick", "date": "2016-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Ball (Malcolm)", "Mandy Dassa (Beverly)"], "comments": [], "recommandations_id": []}

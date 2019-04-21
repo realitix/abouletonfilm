@@ -1,0 +1,1 @@
+{"tmdb_id": 393066, "title": "Shadow of the Boomerang", "original_title": "Shadow of the Boomerang", "slug_title": "shadow-of-the-boomerang", "date": "1961-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rpZqpTD4Q2khLp7xDz5nJ5EeAn.jpg", "actors": [], "comments": [], "recommandations_id": []}

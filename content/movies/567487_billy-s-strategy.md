@@ -1,0 +1,1 @@
+{"tmdb_id": 567487, "title": "Billy's Strategy", "original_title": "Billy's Strategy", "slug_title": "billy-s-strategy", "date": "1913-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Quirk (Billy)"], "comments": [], "recommandations_id": []}

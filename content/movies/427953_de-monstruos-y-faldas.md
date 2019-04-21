@@ -1,0 +1,1 @@
+{"tmdb_id": 427953, "title": "De monstruos y faldas", "original_title": "De monstruos y faldas", "slug_title": "de-monstruos-y-faldas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

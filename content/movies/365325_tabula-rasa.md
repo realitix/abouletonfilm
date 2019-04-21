@@ -1,0 +1,1 @@
+{"tmdb_id": 365325, "title": "Tabula Rasa", "original_title": "Tabula Rasa", "slug_title": "tabula-rasa", "date": "2015-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Kotanidis ()", "Notis Sikiniotis ()", "Athena Deliadis ()", "Marialena Donta ()"], "comments": [], "recommandations_id": []}

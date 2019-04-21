@@ -1,0 +1,1 @@
+{"tmdb_id": 277329, "title": "Semiconductor: Worlds in Flux", "original_title": "Semiconductor: Worlds in Flux", "slug_title": "semiconductor-worlds-in-flux", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

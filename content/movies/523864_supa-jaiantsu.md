@@ -1,0 +1,1 @@
+{"tmdb_id": 523864, "title": "S\u00fbp\u00e2 jaiantsu", "original_title": "S\u00fbp\u00e2 jaiantsu", "slug_title": "supa-jaiantsu", "date": "1957-07-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

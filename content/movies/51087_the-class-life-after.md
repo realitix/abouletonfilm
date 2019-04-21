@@ -1,0 +1,1 @@
+{"tmdb_id": 51087, "title": "The Class: Life After", "original_title": "Klass: elu p\u00e4rast", "slug_title": "the-class-life-after", "date": "", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1TldQyzGOpC7sunHJA8zbJbSuuE.jpg", "actors": [], "comments": [], "recommandations_id": []}

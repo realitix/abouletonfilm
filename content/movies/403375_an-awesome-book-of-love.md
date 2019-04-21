@@ -1,0 +1,1 @@
+{"tmdb_id": 403375, "title": "An Awesome Book of Love", "original_title": "An Awesome Book of Love", "slug_title": "an-awesome-book-of-love", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

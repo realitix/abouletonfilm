@@ -1,0 +1,1 @@
+{"tmdb_id": 350939, "title": "\uace8\ubaa9\ub300\uc7a5", "original_title": "\uace8\ubaa9\ub300\uc7a5", "slug_title": "golmogdaejang", "date": "1979-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

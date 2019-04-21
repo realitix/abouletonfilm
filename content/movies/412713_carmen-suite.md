@@ -1,0 +1,1 @@
+{"tmdb_id": 412713, "title": "Carmen Suite", "original_title": "Carmen Suite", "slug_title": "carmen-suite", "date": "1994-01-01", "genre": "Musique / Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRwcf04udrFxRepbrZiF1GSnkDJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 436150, "title": "Benedetto XVI: L'avventura della verit\u00e0", "original_title": "Benedetto XVI: L'avventura della verit\u00e0", "slug_title": "benedetto-xvi-l-avventura-della-verita", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 328284, "title": "Slow Midnight Show", "original_title": "\u00c9jszakai el\u0151ad\u00e1s", "slug_title": "slow-midnight-show", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276941, "title": "Cezanne in Provence", "original_title": "Cezanne in Provence", "slug_title": "cezanne-in-provence", "date": "2006-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

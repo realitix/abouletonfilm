@@ -1,0 +1,1 @@
+{"tmdb_id": 415988, "title": "Goodbye, Pyeongyang", "original_title": "\uad7f\ubc14\uc774, \ud3c9\uc591", "slug_title": "goodbye-pyeongyang", "date": "2011-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMIcB6s5uWdbO77cphwgiUOhlha.jpg", "actors": [], "comments": [], "recommandations_id": []}

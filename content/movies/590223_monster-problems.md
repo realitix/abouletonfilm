@@ -1,0 +1,1 @@
+{"tmdb_id": 590223, "title": "Monster Problems", "original_title": "Monster Problems", "slug_title": "monster-problems", "date": "", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dylan O'Brien (Joel Dawson)", "Michael Rooker (Clyde)", "Ariana Greenblatt (Minnow)"], "comments": [], "recommandations_id": []}

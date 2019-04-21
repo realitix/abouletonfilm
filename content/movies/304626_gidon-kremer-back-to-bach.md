@@ -1,0 +1,1 @@
+{"tmdb_id": 304626, "title": "Gidon Kremer: Back to Bach", "original_title": "Gidon Kremer: Back to Bach", "slug_title": "gidon-kremer-back-to-bach", "date": "2007-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49wRA3yfMSzf1Kx0K06oCeLPxai.jpg", "actors": [], "comments": [], "recommandations_id": []}

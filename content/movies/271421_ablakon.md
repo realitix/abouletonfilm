@@ -1,0 +1,1 @@
+{"tmdb_id": 271421, "title": "Ablakon", "original_title": "Ablakon", "slug_title": "ablakon", "date": "1985-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRzAvLbPcP0SRoUnaSbR1tcs2pp.jpg", "actors": ["Mathieu Attawa ()", "Kodjo Eboucle ()", "Jo\u00ebl Okou ()"], "comments": [], "recommandations_id": []}

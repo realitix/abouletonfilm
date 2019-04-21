@@ -1,0 +1,1 @@
+{"tmdb_id": 424256, "title": "Israel Through the Looking Glass", "original_title": "Israel Through the Looking Glass", "slug_title": "israel-through-the-looking-glass", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

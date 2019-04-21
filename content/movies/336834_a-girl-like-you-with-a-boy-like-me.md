@@ -1,0 +1,1 @@
+{"tmdb_id": 336834, "title": "A Girl Like You with a Boy Like Me", "original_title": "A Girl Like You with a Boy Like Me", "slug_title": "a-girl-like-you-with-a-boy-like-me", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

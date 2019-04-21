@@ -1,0 +1,1 @@
+{"tmdb_id": 530357, "title": "Linhas e Espirais", "original_title": "Linhas e Espirais", "slug_title": "linhas-e-espirais", "date": "2009-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aTwhjIED4IsAhweMs5F2FHwQf1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

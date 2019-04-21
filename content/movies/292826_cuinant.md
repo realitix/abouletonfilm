@@ -1,0 +1,1 @@
+{"tmdb_id": 292826, "title": "Cuinant", "original_title": "Cuinant", "slug_title": "cuinant", "date": "2014-09-12", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chus Pereiro (Paula)", "Miquel Sitjar (Alex)"], "comments": [], "recommandations_id": []}

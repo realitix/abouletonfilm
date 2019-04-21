@@ -1,0 +1,1 @@
+{"tmdb_id": 338339, "title": "Vietnam: A Television History", "original_title": "Vietnam: A Television History", "slug_title": "vietnam-a-television-history", "date": "1983-01-02", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJfy2DYVTrZVaW1MgwpTqjm6tG9.jpg", "actors": [], "comments": [], "recommandations_id": []}

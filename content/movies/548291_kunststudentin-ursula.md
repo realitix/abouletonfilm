@@ -1,0 +1,1 @@
+{"tmdb_id": 548291, "title": "Kunststudentin Ursula", "original_title": "Kunststudentin Ursula", "slug_title": "kunststudentin-ursula", "date": "1959-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ingrid Stenn (Ursula)"], "comments": [], "recommandations_id": []}

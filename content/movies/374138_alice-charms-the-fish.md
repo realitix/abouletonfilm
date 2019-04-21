@@ -1,0 +1,1 @@
+{"tmdb_id": 374138, "title": "Alice Charms the Fish", "original_title": "Alice Charms the Fish", "slug_title": "alice-charms-the-fish", "date": "1926-09-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

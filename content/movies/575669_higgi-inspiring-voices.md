@@ -1,0 +1,1 @@
+{"tmdb_id": 575669, "title": "Higgi, Inspiring Voices", "original_title": "Higgi, Inspiring Voices", "slug_title": "higgi-inspiring-voices", "date": "2018-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5DDq28JdBEQZ3IBDSMnVKefzlV4.jpg", "actors": [], "comments": [], "recommandations_id": []}

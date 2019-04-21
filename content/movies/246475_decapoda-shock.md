@@ -1,0 +1,1 @@
+{"tmdb_id": 246475, "title": "Decapoda Shock", "original_title": "Decapoda Shock", "slug_title": "decapoda-shock", "date": "2011-09-09", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dt7zZahoVOvvX3hnHKf5NBSD16u.jpg", "actors": [], "comments": [], "recommandations_id": []}

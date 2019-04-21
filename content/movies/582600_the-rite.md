@@ -1,0 +1,1 @@
+{"tmdb_id": 582600, "title": "The Rite", "original_title": "O Rito", "slug_title": "the-rite", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEHZqqHlBnVcXH7IVl6GccDecXT.jpg", "actors": ["Fl\u00e1vio Madeira (Strange)", "Ariely Vict\u00f3ria (Girl)"], "comments": [], "recommandations_id": []}

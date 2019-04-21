@@ -1,0 +1,1 @@
+{"tmdb_id": 69850, "title": "The Mystic Masseur", "original_title": "The Mystic Masseur", "slug_title": "the-mystic-masseur", "date": "2001-01-01", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lfxjmPwX3CiYQpOQoQ9LXEglZJa.jpg", "actors": [], "comments": [], "recommandations_id": []}

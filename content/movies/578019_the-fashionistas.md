@@ -1,0 +1,1 @@
+{"tmdb_id": 578019, "title": "The Fashionistas", "original_title": "The Fashionistas", "slug_title": "the-fashionistas", "date": "2002-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHvY5ZVGLF7OoSyEtIAOMFplDnA.jpg", "actors": [], "comments": [], "recommandations_id": []}

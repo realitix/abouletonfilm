@@ -1,0 +1,1 @@
+{"tmdb_id": 253867, "title": "Barney: Storytime with Barney", "original_title": "Barney: Storytime with Barney", "slug_title": "barney-storytime-with-barney", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

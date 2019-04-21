@@ -1,0 +1,1 @@
+{"tmdb_id": 81355, "title": "Roger Waters-Live Earth New Jersey", "original_title": "Roger Waters-Live Earth New Jersey", "slug_title": "roger-waters-live-earth-new-jersey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJhTlE4PC4VPyPLUn8ZRufLrubl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302649, "title": "Healing America", "original_title": "Healing America", "slug_title": "healing-america", "date": "2013-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

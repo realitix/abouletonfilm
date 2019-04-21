@@ -1,0 +1,1 @@
+{"tmdb_id": 235991, "title": "Punch and Judo", "original_title": "Punch and Judo", "slug_title": "punch-and-judo", "date": "1951-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

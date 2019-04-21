@@ -1,0 +1,1 @@
+{"tmdb_id": 426155, "title": "Journal", "original_title": "Journal", "slug_title": "journal", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

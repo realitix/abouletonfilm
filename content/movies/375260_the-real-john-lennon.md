@@ -1,0 +1,1 @@
+{"tmdb_id": 375260, "title": "The Real John Lennon", "original_title": "The Real John Lennon", "slug_title": "the-real-john-lennon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

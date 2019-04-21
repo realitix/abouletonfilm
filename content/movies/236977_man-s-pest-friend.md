@@ -1,0 +1,1 @@
+{"tmdb_id": 236977, "title": "Man's Pest Friend", "original_title": "Man's Pest Friend", "slug_title": "man-s-pest-friend", "date": "1945-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

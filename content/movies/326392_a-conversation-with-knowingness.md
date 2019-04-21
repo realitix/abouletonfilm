@@ -1,0 +1,1 @@
+{"tmdb_id": 326392, "title": "A Conversation with Knowingness", "original_title": "A Conversation with Knowingness", "slug_title": "a-conversation-with-knowingness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

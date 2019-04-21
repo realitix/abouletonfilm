@@ -1,0 +1,1 @@
+{"tmdb_id": 402187, "title": "Hausarrest", "original_title": "Hausarrest", "slug_title": "hausarrest", "date": "2015-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

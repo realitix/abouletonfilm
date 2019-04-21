@@ -1,0 +1,1 @@
+{"tmdb_id": 417398, "title": "\uc544\uc2a4\ud314\ud2b8 \uc704\uc758 \uc5ec\uc790", "original_title": "\uc544\uc2a4\ud314\ud2b8 \uc704\uc758 \uc5ec\uc790", "slug_title": "aseupalteu-wiyi-yeoja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

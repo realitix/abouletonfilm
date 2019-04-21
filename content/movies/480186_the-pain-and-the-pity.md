@@ -1,0 +1,1 @@
+{"tmdb_id": 480186, "title": "The Pain and the Pity", "original_title": "The Pain and the Pity", "slug_title": "the-pain-and-the-pity", "date": "2013-11-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

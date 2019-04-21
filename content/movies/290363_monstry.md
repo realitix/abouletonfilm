@@ -1,0 +1,1 @@
+{"tmdb_id": 290363, "title": "Monstry", "original_title": "Monstry", "slug_title": "monstry", "date": "1993-09-04", "genre": "Horreur / Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJ0wfGeGXKcAhZtq6PLvrkn4A9W.jpg", "actors": ["Vladimir Antonik ()"], "comments": [], "recommandations_id": []}

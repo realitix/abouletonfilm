@@ -1,0 +1,1 @@
+{"tmdb_id": 56090, "title": "Zombeer", "original_title": "Zombeer", "slug_title": "zombeer", "date": "2008-01-01", "genre": "Horreur / Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUWNFsKJmGpMO5WaVQ6kEtCQUDg.jpg", "actors": ["Rogier Schippers (Herman)", "Ben Abelsma (Rusty)"], "comments": [], "recommandations_id": []}

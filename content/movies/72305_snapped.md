@@ -1,0 +1,1 @@
+{"tmdb_id": 72305, "title": "Snapped", "original_title": "Snapped", "slug_title": "snapped", "date": "2005-07-26", "genre": "Horreur / Thriller", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3GqbdD9BtPiLuj8gz8z9GmQq06j.jpg", "actors": ["Tiffany Amber Knight (Amy McCanic)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 67654, "title": "The Mascot", "original_title": "F\u00e9tiche", "slug_title": "the-mascot", "date": "1933-01-01", "genre": "Fantastique / Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9J2WtOYjql5AKvcWOiP8TJPxqx8.jpg", "actors": [], "comments": [], "recommandations_id": [175455, 51856, 145860, 129067]}

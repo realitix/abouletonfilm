@@ -1,0 +1,1 @@
+{"tmdb_id": 68992, "title": "Paniekzaaiers", "original_title": "Paniekzaaiers", "slug_title": "paniekzaaiers", "date": "1986-12-31", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoGbmHpvrFiPzXrJGJrnb5h3Gus.jpg", "actors": ["Gaston Berghmans (Gaston)", "Leo Martin (Leo)"], "comments": [], "recommandations_id": []}

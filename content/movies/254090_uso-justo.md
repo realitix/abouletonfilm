@@ -1,0 +1,1 @@
+{"tmdb_id": 254090, "title": "Uso Justo", "original_title": "Uso Justo", "slug_title": "uso-justo", "date": "2005-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

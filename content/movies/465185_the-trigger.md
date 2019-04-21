@@ -1,0 +1,1 @@
+{"tmdb_id": 465185, "title": "The Trigger", "original_title": "Der Ausl\u00f6ser", "slug_title": "the-trigger", "date": "1984-07-13", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zVw7do4NKXTJ5O3nrDRE3V7yKIB.jpg", "actors": ["Hans U. Lankisch (Protagonist)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334556, "title": "When the Kid Was a Kid", "original_title": "Bache Vaghti Bache Bood", "slug_title": "when-the-kid-was-a-kid", "date": "2011-09-01", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ega54RZHocuWWuy6V9xPmhmHMUy.jpg", "actors": [], "comments": [], "recommandations_id": []}

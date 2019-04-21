@@ -1,0 +1,1 @@
+{"tmdb_id": 181768, "title": "Heroic Ones", "original_title": "\u51b0\u96ea\u60c5\u95dc\u82f1\u96c4\u81bd", "slug_title": "heroic-ones", "date": "1978-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99ADlidkq2cVASgtX69YIPcRFxL.jpg", "actors": ["Chang Ling ()"], "comments": [], "recommandations_id": []}

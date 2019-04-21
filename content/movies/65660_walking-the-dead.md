@@ -1,0 +1,1 @@
+{"tmdb_id": 65660, "title": "Walking the Dead", "original_title": "Walking the Dead", "slug_title": "walking-the-dead", "date": "2010-01-01", "genre": "Horreur", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a4sQiMIhLyiUYeAPOkn5Cv2K4j.jpg", "actors": ["Sam Voutas ()", "Angela Tong ()"], "comments": [], "recommandations_id": []}

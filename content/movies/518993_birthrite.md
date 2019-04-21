@@ -1,0 +1,1 @@
+{"tmdb_id": 518993, "title": "Birthrite", "original_title": "Birthrite", "slug_title": "birthrite", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

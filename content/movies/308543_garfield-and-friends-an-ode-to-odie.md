@@ -1,0 +1,1 @@
+{"tmdb_id": 308543, "title": "Garfield and Friends: An Ode to Odie", "original_title": "Garfield and Friends: An Ode to Odie", "slug_title": "garfield-and-friends-an-ode-to-odie", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470594, "title": "Estrangement", "original_title": "Estranhamento", "slug_title": "estrangement", "date": "2014-11-11", "genre": "Thriller / Crime / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/briofBxCdT33hPbPKJvmdi1mt21.jpg", "actors": [], "comments": [], "recommandations_id": []}

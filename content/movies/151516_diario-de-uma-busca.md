@@ -1,0 +1,1 @@
+{"tmdb_id": 151516, "title": "Di\u00e1rio de Uma Busca", "original_title": "Di\u00e1rio de Uma Busca", "slug_title": "diario-de-uma-busca", "date": "2011-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsrgmaz37l6om6iRTBUpWmH0CFy.jpg", "actors": [], "comments": [], "recommandations_id": []}

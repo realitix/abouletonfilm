@@ -1,0 +1,1 @@
+{"tmdb_id": 486039, "title": "Mala yerba", "original_title": "Mala yerba", "slug_title": "mala-yerba", "date": "1920-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

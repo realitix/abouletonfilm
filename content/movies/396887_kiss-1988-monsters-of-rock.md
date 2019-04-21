@@ -1,0 +1,1 @@
+{"tmdb_id": 396887, "title": "Kiss [1988] Monsters of Rock", "original_title": "Kiss [1988] Monsters of Rock", "slug_title": "kiss-1988-monsters-of-rock", "date": "1988-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTRjdqu7cBFyFllbtioio4jfK7x.jpg", "actors": [], "comments": [], "recommandations_id": []}

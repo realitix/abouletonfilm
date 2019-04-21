@@ -1,0 +1,1 @@
+{"tmdb_id": 301424, "title": "Spookshow-A-Go-Go!", "original_title": "Spookshow-A-Go-Go!", "slug_title": "spookshow-a-go-go", "date": "2014-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

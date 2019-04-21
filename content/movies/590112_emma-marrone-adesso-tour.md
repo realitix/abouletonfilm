@@ -1,0 +1,1 @@
+{"tmdb_id": 590112, "title": "Emma Marrone - Adesso Tour", "original_title": "Emma Marrone - Adesso Tour", "slug_title": "emma-marrone-adesso-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whi6Z4svkUx61VozJcUp6OhhXDp.jpg", "actors": [], "comments": [], "recommandations_id": []}

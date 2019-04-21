@@ -1,0 +1,1 @@
+{"tmdb_id": 591004, "title": "Rules of Play", "original_title": "Rules of Play", "slug_title": "rules-of-play", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

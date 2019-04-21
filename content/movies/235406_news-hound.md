@@ -1,0 +1,1 @@
+{"tmdb_id": 235406, "title": "News Hound", "original_title": "News Hound", "slug_title": "news-hound", "date": "1955-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276579, "title": "The Triplet", "original_title": "The Triplet", "slug_title": "the-triplet", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

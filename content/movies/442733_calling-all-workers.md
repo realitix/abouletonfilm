@@ -1,0 +1,1 @@
+{"tmdb_id": 442733, "title": "Calling All Workers", "original_title": "Calling All Workers", "slug_title": "calling-all-workers", "date": "1941-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

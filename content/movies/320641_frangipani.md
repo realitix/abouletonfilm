@@ -1,0 +1,1 @@
+{"tmdb_id": 320641, "title": "Frangipani", "original_title": "Frangipani", "slug_title": "frangipani", "date": "2014-09-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zb1YRVmiqvsGT3rtJBUXwXJZE0t.jpg", "actors": [], "comments": [], "recommandations_id": []}

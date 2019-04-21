@@ -1,0 +1,1 @@
+{"tmdb_id": 473749, "title": "This Is Congo", "original_title": "This Is Congo", "slug_title": "this-is-congo", "date": "2017-09-01", "genre": "Documentaire / Guerre", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnni4EGsD180uC3FgyhEprbXbIp.jpg", "actors": ["Daniel McCabe ()"], "comments": [], "recommandations_id": []}

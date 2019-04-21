@@ -1,0 +1,1 @@
+{"tmdb_id": 463840, "title": "Papa si\u0119 \u017ceni", "original_title": "Papa si\u0119 \u017ceni", "slug_title": "papa-sie-zeni", "date": "1936-12-11", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hx26BJT7urLskLs57JLcD13cI2c.jpg", "actors": [], "comments": [], "recommandations_id": []}

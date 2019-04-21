@@ -1,0 +1,1 @@
+{"tmdb_id": 379806, "title": "Typisch Ed!", "original_title": "Typisch Ed!", "slug_title": "typisch-ed", "date": "1999-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Toni Berger ()", "Klaus Guth ()", "Katerina Jacob ()", "Philipp Moog ()", "August Schm\u00f6lzer ()"], "comments": [], "recommandations_id": []}

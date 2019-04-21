@@ -1,0 +1,1 @@
+{"tmdb_id": 281621, "title": "The Lawnmower Man", "original_title": "The Lawnmower Man", "slug_title": "the-lawnmower-man", "date": "1987-10-10", "genre": "Horreur", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DgC4aEZtk7iJiYrL3Nql6E5cAg.jpg", "actors": [], "comments": [], "recommandations_id": []}

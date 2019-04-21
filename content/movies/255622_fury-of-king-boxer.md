@@ -1,0 +1,1 @@
+{"tmdb_id": 255622, "title": "Fury of King Boxer", "original_title": "\u9a5a\u5929\u52d5\u5730", "slug_title": "fury-of-king-boxer", "date": "1972-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joGVsykUMHO8GvnGQ9XN5q3EhAB.jpg", "actors": ["Jimmy Wang Yu ()"], "comments": [], "recommandations_id": []}

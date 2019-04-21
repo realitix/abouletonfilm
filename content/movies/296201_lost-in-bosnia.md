@@ -1,0 +1,1 @@
+{"tmdb_id": 296201, "title": "Lost in Bosnia", "original_title": "Lost in Bosnia", "slug_title": "lost-in-bosnia", "date": "2014-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2cWOvxlydCeumaxxrTiR5lWj0hp.jpg", "actors": [], "comments": [], "recommandations_id": []}

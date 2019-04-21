@@ -1,0 +1,1 @@
+{"tmdb_id": 320425, "title": "Arche czyste z\u0142o", "original_title": "Arche czyste z\u0142o", "slug_title": "arche-czyste-zlo", "date": "2003-03-20", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87HBUT0pcOhF3MaEpxJdlNADa0s.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 585486, "title": "Bus Panic!!!", "original_title": "Bus Panic!!!", "slug_title": "bus-panic", "date": "2001-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jai West (The Busjacker)", "Tsuyoshi Kusanagi (the police officer)", "Masanori Hata (himself)"], "comments": [], "recommandations_id": []}

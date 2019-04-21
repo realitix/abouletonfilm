@@ -1,0 +1,1 @@
+{"tmdb_id": 237248, "title": "The Bored Cuckoo", "original_title": "The Bored Cuckoo", "slug_title": "the-bored-cuckoo", "date": "1948-04-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

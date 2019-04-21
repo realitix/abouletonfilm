@@ -1,0 +1,1 @@
+{"tmdb_id": 271243, "title": "Bones Bones Bones and More", "original_title": "Bones Bones Bones and More", "slug_title": "bones-bones-bones-and-more", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

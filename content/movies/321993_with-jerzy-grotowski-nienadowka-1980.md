@@ -1,0 +1,1 @@
+{"tmdb_id": 321993, "title": "With Jerzy Grotowski, Nienadowka 1980", "original_title": "With Jerzy Grotowski, Nienadowka 1980", "slug_title": "with-jerzy-grotowski-nienadowka-1980", "date": "2008-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

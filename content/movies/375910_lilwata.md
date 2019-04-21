@@ -1,0 +1,1 @@
+{"tmdb_id": 375910, "title": "L\u2019\u00edl\u2019wata", "original_title": "L\u2019\u00edl\u2019wata", "slug_title": "lilwata", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bqF9TNdW6tQFIyOszlEnrq9caON.jpg", "actors": [], "comments": [], "recommandations_id": []}

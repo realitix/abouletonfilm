@@ -1,0 +1,1 @@
+{"tmdb_id": 131134, "title": "Story of a Junkie", "original_title": "Story of a Junkie", "slug_title": "story-of-a-junkie", "date": "1987-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ZFJZyGiOeLe0t6PNtbcTkNhbxa.jpg", "actors": ["John Spaceley (John Spaceley)"], "comments": [], "recommandations_id": []}

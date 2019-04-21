@@ -1,0 +1,1 @@
+{"tmdb_id": 507836, "title": "Walk Like a Man", "original_title": "Walk Like a Man", "slug_title": "walk-like-a-man", "date": "2008-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdnqr6msUfn2zIBCII18cHLhLE5.jpg", "actors": [], "comments": [], "recommandations_id": []}

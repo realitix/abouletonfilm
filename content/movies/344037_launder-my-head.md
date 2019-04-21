@@ -1,0 +1,1 @@
+{"tmdb_id": 344037, "title": "Launder My Head", "original_title": "Launder My Head", "slug_title": "launder-my-head", "date": "1993-06-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tw2IbSH13SJ6yjbLbET729vmY0.jpg", "actors": [], "comments": [], "recommandations_id": []}

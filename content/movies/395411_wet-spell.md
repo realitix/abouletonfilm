@@ -1,0 +1,1 @@
+{"tmdb_id": 395411, "title": "Wet Spell", "original_title": "Wet Spell", "slug_title": "wet-spell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

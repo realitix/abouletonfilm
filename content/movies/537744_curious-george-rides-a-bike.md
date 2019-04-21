@@ -1,0 +1,1 @@
+{"tmdb_id": 537744, "title": "Curious George Rides a Bike", "original_title": "Curious George Rides a Bike", "slug_title": "curious-george-rides-a-bike", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wX5eKAD5kOYGrX14H2Uk92pUpJz.jpg", "actors": [], "comments": [], "recommandations_id": []}

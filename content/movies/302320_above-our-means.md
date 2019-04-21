@@ -1,0 +1,1 @@
+{"tmdb_id": 302320, "title": "Above our Means", "original_title": "Acima das Nossas Possibilidades", "slug_title": "above-our-means", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

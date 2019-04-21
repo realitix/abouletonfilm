@@ -1,0 +1,1 @@
+{"tmdb_id": 450985, "title": "Awena\u2019s Dressing Room", "original_title": "Awena\u2019s Dressing Room", "slug_title": "awenas-dressing-room", "date": "2012-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Malena Filmus (Awena)"], "comments": [], "recommandations_id": []}

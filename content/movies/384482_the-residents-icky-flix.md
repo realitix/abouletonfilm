@@ -1,0 +1,1 @@
+{"tmdb_id": 384482, "title": "The Residents - Icky Flix", "original_title": "The Residents - Icky Flix", "slug_title": "the-residents-icky-flix", "date": "2001-01-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bf4DnigXpKKYX5DZxzEJvDFELww.jpg", "actors": [], "comments": [], "recommandations_id": []}

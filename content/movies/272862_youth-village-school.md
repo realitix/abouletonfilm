@@ -1,0 +1,1 @@
+{"tmdb_id": 272862, "title": "Youth Village School", "original_title": "Youth Village School", "slug_title": "youth-village-school", "date": "2014-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tF31OTzxasOfQcmsA64627HJEq9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 82611, "title": "Rowdy Gari Pellam", "original_title": "Rowdy Gari Pellam", "slug_title": "rowdy-gari-pellam", "date": "1991-09-20", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/114cP6p1CW8uuagnbYVNf5cAVof.jpg", "actors": [], "comments": [], "recommandations_id": []}

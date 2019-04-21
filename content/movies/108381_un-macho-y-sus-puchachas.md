@@ -1,0 +1,1 @@
+{"tmdb_id": 108381, "title": "Un Macho y Sus Puchachas", "original_title": "Un Macho y Sus Puchachas", "slug_title": "un-macho-y-sus-puchachas", "date": "1982-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Natera ()", "Diana Herrera ()"], "comments": [], "recommandations_id": []}

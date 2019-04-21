@@ -1,0 +1,1 @@
+{"tmdb_id": 575095, "title": "Acid Rain", "original_title": "Acid Rain", "slug_title": "acid-rain", "date": "2019-01-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JlC3LANSj4uOOJRPZW0AWuMz9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

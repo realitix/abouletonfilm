@@ -1,0 +1,1 @@
+{"tmdb_id": 592413, "title": "Coast Zone", "original_title": "Coast Zone", "slug_title": "coast-zone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

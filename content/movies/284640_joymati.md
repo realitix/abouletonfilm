@@ -1,0 +1,1 @@
+{"tmdb_id": 284640, "title": "Joymati", "original_title": "Joymati", "slug_title": "joymati", "date": "1935-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phanu Barua ()", "Asaideo Handige ()", "Mohini Rajkumari ()"], "comments": [], "recommandations_id": []}

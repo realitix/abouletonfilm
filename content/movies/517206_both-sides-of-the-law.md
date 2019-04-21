@@ -1,0 +1,1 @@
+{"tmdb_id": 517206, "title": "Both Sides of the Law", "original_title": "Both Sides of the Law", "slug_title": "both-sides-of-the-law", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

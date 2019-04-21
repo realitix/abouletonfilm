@@ -1,0 +1,1 @@
+{"tmdb_id": 262333, "title": "Karpagam", "original_title": "Karpagam", "slug_title": "karpagam", "date": "1963-11-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Savitri ()", "K R Vijaya ()", "R. Muthuraman ()", "M. R. Radha ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468342, "title": "The Sex of Self-Hatred", "original_title": "The Sex of Self-Hatred", "slug_title": "the-sex-of-self-hatred", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498072, "title": "Der Verfolger", "original_title": "Der Verfolger", "slug_title": "der-verfolger", "date": "1974-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kornelia Boje ()", "K\u00e4the Braun ()", "Gerd B\u00f6ckmann ()", "Kurt Raab ()"], "comments": [], "recommandations_id": []}

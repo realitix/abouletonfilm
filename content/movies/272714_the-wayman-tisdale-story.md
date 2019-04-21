@@ -1,0 +1,1 @@
+{"tmdb_id": 272714, "title": "The Wayman Tisdale Story", "original_title": "The Wayman Tisdale Story", "slug_title": "the-wayman-tisdale-story", "date": "2011-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562628, "title": "Young Girls of Good Families", "original_title": "Les Saintes-Nitouches", "slug_title": "young-girls-of-good-families", "date": "1963-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w706KrupTWZDp0c0yZ4NOCa6fBx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 544484, "title": "Elei\u00e7\u00f5es", "original_title": "Elei\u00e7\u00f5es", "slug_title": "eleicoes", "date": "2018-09-20", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Q8QnpyNjP7Gdo3nuGWPi5GUz2e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320144, "title": "Children", "original_title": "Children", "slug_title": "children", "date": "2015-12-31", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah Hagan (Sarah)", "Kate Lyn Sheil (Heidi)", "Samantha Jacober (Abbie)", "Daniel Frandson (Fishing boy)"], "comments": [], "recommandations_id": []}

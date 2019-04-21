@@ -1,0 +1,1 @@
+{"tmdb_id": 41327, "title": "Price for Peace", "original_title": "Price for Peace", "slug_title": "price-for-peace", "date": "2002-01-01", "genre": "Documentaire / Guerre / Histoire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCAg25GJ46o489DTzB6HfEefxj2.jpg", "actors": [], "comments": [], "recommandations_id": []}

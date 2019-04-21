@@ -1,0 +1,1 @@
+{"tmdb_id": 237251, "title": "A Wolf in Sheik's Clothing", "original_title": "A Wolf in Sheik's Clothing", "slug_title": "a-wolf-in-sheik-s-clothing", "date": "1948-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

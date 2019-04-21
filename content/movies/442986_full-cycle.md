@@ -1,0 +1,1 @@
+{"tmdb_id": 442986, "title": "Full Cycle", "original_title": "Full Cycle", "slug_title": "full-cycle", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

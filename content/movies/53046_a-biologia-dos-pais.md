@@ -1,0 +1,1 @@
+{"tmdb_id": 53046, "title": "A Biologia dos Pais", "original_title": "A Biologia dos Pais", "slug_title": "a-biologia-dos-pais", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

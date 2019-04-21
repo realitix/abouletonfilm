@@ -1,0 +1,1 @@
+{"tmdb_id": 558800, "title": "Das Medium ist die Botschaft", "original_title": "Das Medium ist die Botschaft", "slug_title": "das-medium-ist-die-botschaft", "date": "1997-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

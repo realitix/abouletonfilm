@@ -1,0 +1,1 @@
+{"tmdb_id": 286740, "title": "The Lives of Mount Druitt Youth", "original_title": "The Lives of Mount Druitt Youth", "slug_title": "the-lives-of-mount-druitt-youth", "date": "2010-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

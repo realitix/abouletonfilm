@@ -1,0 +1,1 @@
+{"tmdb_id": 151677, "title": "The Doctors Wife", "original_title": "The Doctors Wife", "slug_title": "the-doctors-wife", "date": "2012-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fux77mnZUsbDKGumFpNJdfK98a.jpg", "actors": [], "comments": [], "recommandations_id": []}

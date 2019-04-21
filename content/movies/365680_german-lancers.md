@@ -1,0 +1,1 @@
+{"tmdb_id": 365680, "title": "German Lancers", "original_title": "German Lancers", "slug_title": "german-lancers", "date": "1899-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

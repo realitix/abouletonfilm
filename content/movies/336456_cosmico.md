@@ -1,0 +1,1 @@
+{"tmdb_id": 336456, "title": "Cosmico", "original_title": "Cosmico", "slug_title": "cosmico", "date": "2014-06-04", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMfTgpDTdX4rgDc2egN9HOCDyrz.jpg", "actors": ["C.J. Lazaretti (Duke Cosmico I (Voice))"], "comments": [], "recommandations_id": []}

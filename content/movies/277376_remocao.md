@@ -1,0 +1,1 @@
+{"tmdb_id": 277376, "title": "Remo\u00e7\u00e3o", "original_title": "Remo\u00e7\u00e3o", "slug_title": "remocao", "date": "2014-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVrwd3TBY6prqCh9UMbqRWzl8y7.jpg", "actors": [], "comments": [], "recommandations_id": []}

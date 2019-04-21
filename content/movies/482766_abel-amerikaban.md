@@ -1,0 +1,1 @@
+{"tmdb_id": 482766, "title": "\u00c1bel Amerik\u00e1ban", "original_title": "\u00c1bel Amerik\u00e1ban", "slug_title": "abel-amerikaban", "date": "1998-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfGZGgg02C3bBdPpuMIy9Dq9S9b.jpg", "actors": [], "comments": [], "recommandations_id": []}

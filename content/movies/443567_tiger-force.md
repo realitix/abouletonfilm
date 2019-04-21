@@ -1,0 +1,1 @@
+{"tmdb_id": 443567, "title": "Tiger Force", "original_title": "Da du xiao", "slug_title": "tiger-force", "date": "1975-01-30", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gN9qs3elY6qmEM4s7ZICbFaPIou.jpg", "actors": [], "comments": [], "recommandations_id": []}

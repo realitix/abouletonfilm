@@ -1,0 +1,1 @@
+{"tmdb_id": 440332, "title": "Puberdade 1", "original_title": "Puberdade 1", "slug_title": "puberdade-1", "date": "1994-06-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mYtCZZFmV2fUA5pGg4Ahd4GMc0P.jpg", "actors": [], "comments": [], "recommandations_id": []}

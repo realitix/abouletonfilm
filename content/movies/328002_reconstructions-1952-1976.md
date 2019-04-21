@@ -1,0 +1,1 @@
+{"tmdb_id": 328002, "title": "Reconstructions 1952-1976", "original_title": "Rekonstrukcije 1952-1976", "slug_title": "reconstructions-1952-1976", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 460794, "title": "M\u00e9moires d'un jeune con", "original_title": "M\u00e9moires d'un jeune con", "slug_title": "memoires-d-un-jeune-con", "date": "1996-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLs7M0Og0BwQyIZYN8ojiikIHWV.jpg", "actors": [], "comments": [], "recommandations_id": []}

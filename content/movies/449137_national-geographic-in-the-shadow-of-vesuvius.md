@@ -1,0 +1,1 @@
+{"tmdb_id": 449137, "title": "National Geographic In the Shadow of Vesuvius", "original_title": "National Geographic In the Shadow of Vesuvius", "slug_title": "national-geographic-in-the-shadow-of-vesuvius", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

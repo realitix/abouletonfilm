@@ -1,0 +1,1 @@
+{"tmdb_id": 440979, "title": "Dent de Cuir: She's Bad", "original_title": "Dent de Cuir: She's Bad", "slug_title": "dent-de-cuir-she-s-bad", "date": "2014-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5MPHGEe2qEI80RZ3P5zAvJ5q3ke.jpg", "actors": [], "comments": [], "recommandations_id": []}

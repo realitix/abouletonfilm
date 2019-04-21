@@ -1,0 +1,1 @@
+{"tmdb_id": 361687, "title": "Baseball's Greatest Legends", "original_title": "Baseball's Greatest Legends", "slug_title": "baseball-s-greatest-legends", "date": "2009-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8lsNudsIsm1NJ2pbSXhBZLvJNGt.jpg", "actors": [], "comments": [], "recommandations_id": []}

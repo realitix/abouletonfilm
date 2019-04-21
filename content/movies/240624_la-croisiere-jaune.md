@@ -1,0 +1,1 @@
+{"tmdb_id": 240624, "title": "La croisi\u00e8re jaune", "original_title": "La croisi\u00e8re jaune", "slug_title": "la-croisiere-jaune", "date": "1933-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKEk92uDUudJoQ8oYVSaXFyG1Ne.jpg", "actors": [], "comments": [], "recommandations_id": []}

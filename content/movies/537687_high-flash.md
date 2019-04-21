@@ -1,0 +1,1 @@
+{"tmdb_id": 537687, "title": "High Flash", "original_title": "\u5f15\u7206\u9ede", "slug_title": "high-flash", "date": "2018-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9DRV8FfyFWcqv8ithMpSdL1cQd.jpg", "actors": ["Yao Yi Ti ()", "Ivy Yin ()", "Chris Wu (Chou)"], "comments": [], "recommandations_id": []}

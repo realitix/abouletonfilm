@@ -1,0 +1,1 @@
+{"tmdb_id": 371206, "title": "As\u00ed somos sin Serena", "original_title": "As\u00ed somos sin Serena", "slug_title": "asi-somos-sin-serena", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cenvrigaK8C6HsEV7pwxhfl5gL8.jpg", "actors": [], "comments": [], "recommandations_id": []}

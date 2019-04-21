@@ -1,0 +1,1 @@
+{"tmdb_id": 388465, "title": "I Don't Care", "original_title": "I Don't Care", "slug_title": "i-don-t-care", "date": "2014-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1JAJsDJwPePJmgbIcxDWJrK3rRN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 62674, "title": "SlamNation", "original_title": "SlamNation", "slug_title": "slamnation", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXEldHBAvJEtwZmzzg0sPkB5hdi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 444740, "title": "Uncle Jim's Dairy Farm", "original_title": "Uncle Jim's Dairy Farm", "slug_title": "uncle-jim-s-dairy-farm", "date": "1960-01-01", "genre": "Drame / Familial", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yexmfDSYof088LWmGB1JfOpVg1R.jpg", "actors": [], "comments": [], "recommandations_id": []}

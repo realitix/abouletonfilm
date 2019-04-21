@@ -1,0 +1,1 @@
+{"tmdb_id": 235923, "title": "Mice-capades", "original_title": "Mice-capades", "slug_title": "mice-capades", "date": "1952-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

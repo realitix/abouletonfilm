@@ -1,0 +1,1 @@
+{"tmdb_id": 335191, "title": "Story of the Spitfire", "original_title": "Story of the Spitfire", "slug_title": "story-of-the-spitfire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

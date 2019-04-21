@@ -1,0 +1,1 @@
+{"tmdb_id": 470926, "title": "Litterbugs", "original_title": "Litterbugs", "slug_title": "litterbugs", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9R08jCwjt6fTRoUHr2ezoWzJ4G.jpg", "actors": [], "comments": [], "recommandations_id": []}

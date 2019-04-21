@@ -1,0 +1,1 @@
+{"tmdb_id": 495098, "title": "Fragile, Handle With Care", "original_title": "Fragile, Handle With Care", "slug_title": "fragile-handle-with-care", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Cosby (Narrator)"], "comments": [], "recommandations_id": []}

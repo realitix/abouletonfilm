@@ -1,0 +1,1 @@
+{"tmdb_id": 214153, "title": "Triangle", "original_title": "Triangle", "slug_title": "triangle", "date": "1994-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ft2AuCuPxQH7pLlDDWdMwH9Hbn.jpg", "actors": [], "comments": [], "recommandations_id": []}

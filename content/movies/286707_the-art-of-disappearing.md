@@ -1,0 +1,1 @@
+{"tmdb_id": 286707, "title": "The Art of Disappearing", "original_title": "Sztuka Znikania", "slug_title": "the-art-of-disappearing", "date": "2013-07-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oUnPl5QR8Tl0mk77CDGmm2mfjJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 442582, "title": "The T-Shirt", "original_title": "Tri\u010dko", "slug_title": "the-t-shirt", "date": "2006-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AdL3OA7uOQnYIizIO3YV2WCewJJ.jpg", "actors": ["Mari\u00e1n Mita\u0161 (Tomas Dubcek)"], "comments": [], "recommandations_id": []}

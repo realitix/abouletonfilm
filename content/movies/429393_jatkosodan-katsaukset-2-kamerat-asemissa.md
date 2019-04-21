@@ -1,0 +1,1 @@
+{"tmdb_id": 429393, "title": "Jatkosodan Katsaukset 2 - Kamerat Asemissa", "original_title": "Jatkosodan Katsaukset 2 - Kamerat Asemissa", "slug_title": "jatkosodan-katsaukset-2-kamerat-asemissa", "date": "2009-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349927, "title": "\ud63c\uc790\ub3c4\ub294 \ubc14\ub78c\uac1c\ube44", "original_title": "\ud63c\uc790\ub3c4\ub294 \ubc14\ub78c\uac1c\ube44", "slug_title": "honjadoneun-baramgaebi", "date": "1991-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

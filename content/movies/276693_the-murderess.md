@@ -1,0 +1,1 @@
+{"tmdb_id": 276693, "title": "The Murderess", "original_title": "\u0397 \u03c6\u03cc\u03bd\u03b9\u03c3\u03c3\u03b1", "slug_title": "the-murderess", "date": "1974-06-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ifda4oI2OykfUYioKeWOoPVVbzO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588532, "title": "CUBANISSIMO", "original_title": "CUBANISSIMO", "slug_title": "cubanissimo", "date": "2004-11-30", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgcKH0rZthAbqkstGmTuGTluGim.jpg", "actors": ["Beny More ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573387, "title": "Otoko no hanamichi", "original_title": "\u7537\u306e\u82b1\u9053", "slug_title": "otoko-no-hanamichi", "date": "1941-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

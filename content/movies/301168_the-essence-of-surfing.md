@@ -1,0 +1,1 @@
+{"tmdb_id": 301168, "title": "The Essence of Surfing", "original_title": "The Essence of Surfing", "slug_title": "the-essence-of-surfing", "date": "2014-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

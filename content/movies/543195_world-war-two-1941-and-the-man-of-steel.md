@@ -1,0 +1,1 @@
+{"tmdb_id": 543195, "title": "World War Two: 1941 and the Man of Steel", "original_title": "World War Two: 1941 and the Man of Steel", "slug_title": "world-war-two-1941-and-the-man-of-steel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

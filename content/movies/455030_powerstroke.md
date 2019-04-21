@@ -1,0 +1,1 @@
+{"tmdb_id": 455030, "title": "Powerstroke", "original_title": "Powerstroke", "slug_title": "powerstroke", "date": "2012-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Caleb Colton ()", "Dario Beck ()", "Christopher Daniels ()", "Ty Roderick ()"], "comments": [], "recommandations_id": []}

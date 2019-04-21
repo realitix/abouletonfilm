@@ -1,0 +1,1 @@
+{"tmdb_id": 458099, "title": "The Daydreamer's Notebook", "original_title": "The Daydreamer's Notebook", "slug_title": "the-daydreamer-s-notebook", "date": "2017-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysT4kefZE5PMQGGOjIgJSwozaap.jpg", "actors": [], "comments": [], "recommandations_id": []}

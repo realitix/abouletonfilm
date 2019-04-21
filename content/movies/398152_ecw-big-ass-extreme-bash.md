@@ -1,0 +1,1 @@
+{"tmdb_id": 398152, "title": "ECW Big Ass Extreme Bash", "original_title": "ECW Big Ass Extreme Bash", "slug_title": "ecw-big-ass-extreme-bash", "date": "1996-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3IXodQ4xvhy49lLKuOJxmiTF62F.jpg", "actors": [], "comments": [], "recommandations_id": []}

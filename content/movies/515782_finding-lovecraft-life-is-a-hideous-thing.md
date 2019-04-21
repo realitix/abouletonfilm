@@ -1,0 +1,1 @@
+{"tmdb_id": 515782, "title": "Finding Lovecraft: Life Is A Hideous Thing", "original_title": "Finding Lovecraft: Life Is A Hideous Thing", "slug_title": "finding-lovecraft-life-is-a-hideous-thing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

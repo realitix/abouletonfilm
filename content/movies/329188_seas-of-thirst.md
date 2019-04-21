@@ -1,0 +1,1 @@
+{"tmdb_id": 329188, "title": "Seas of Thirst", "original_title": "Bihar al' Attash", "slug_title": "seas-of-thirst", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500492, "title": "Biblioteca en guerra", "original_title": "Biblioteca en guerra", "slug_title": "biblioteca-en-guerra", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3sfyWTAsR21uoz9gD4vVO3cdkW.jpg", "actors": [], "comments": [], "recommandations_id": []}

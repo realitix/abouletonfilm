@@ -1,0 +1,1 @@
+{"tmdb_id": 189736, "title": "Felix the Cat, Jack of All Trades", "original_title": "Felix the Cat, Jack of All Trades", "slug_title": "felix-the-cat-jack-of-all-trades", "date": "1927-10-06", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

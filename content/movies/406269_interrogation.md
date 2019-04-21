@@ -1,0 +1,1 @@
+{"tmdb_id": 406269, "title": "Interrogation", "original_title": "Interrogatoire", "slug_title": "interrogation", "date": "1989-01-01", "genre": "Thriller / Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 223624, "title": "Haiti. Untitled", "original_title": "Haiti. Uden titel", "slug_title": "haiti-untitled", "date": "1996-08-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4EmLqMo7GYyKxDdbTsicm82Sp17.jpg", "actors": [], "comments": [], "recommandations_id": []}

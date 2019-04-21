@@ -1,0 +1,1 @@
+{"tmdb_id": 148728, "title": "Betelnut", "original_title": "Binglang", "slug_title": "betelnut", "date": "2006-10-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wL7Gwu8TjycAmAcrFhFZcXp0sc.jpg", "actors": [], "comments": [], "recommandations_id": []}

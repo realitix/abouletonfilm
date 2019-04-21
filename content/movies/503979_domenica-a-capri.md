@@ -1,0 +1,1 @@
+{"tmdb_id": 503979, "title": "Domenica a Capri", "original_title": "Domenica a Capri", "slug_title": "domenica-a-capri", "date": "1953-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

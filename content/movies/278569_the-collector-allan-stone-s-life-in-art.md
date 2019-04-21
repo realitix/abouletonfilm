@@ -1,0 +1,1 @@
+{"tmdb_id": 278569, "title": "The Collector: Allan Stone's Life in Art", "original_title": "The Collector: Allan Stone's Life in Art", "slug_title": "the-collector-allan-stone-s-life-in-art", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

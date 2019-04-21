@@ -1,0 +1,1 @@
+{"tmdb_id": 70537, "title": "The Lion Tamer", "original_title": "The Lion Tamer", "slug_title": "the-lion-tamer", "date": "1934-02-02", "genre": "Animation / Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

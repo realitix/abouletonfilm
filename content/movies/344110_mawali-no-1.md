@@ -1,0 +1,1 @@
+{"tmdb_id": 344110, "title": "Mawali No.1", "original_title": "Mawali No.1", "slug_title": "mawali-no-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kBYF4rNIihHA0gBQRzkKSCU5jK.jpg", "actors": [], "comments": [], "recommandations_id": []}

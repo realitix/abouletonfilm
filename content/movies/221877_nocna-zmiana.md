@@ -1,0 +1,1 @@
+{"tmdb_id": 221877, "title": "Nocna zmiana", "original_title": "Nocna zmiana", "slug_title": "nocna-zmiana", "date": "1995-07-27", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AILmr8S1mpmo0ZJS35ClS5np9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

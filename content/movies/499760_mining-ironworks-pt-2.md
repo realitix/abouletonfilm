@@ -1,0 +1,1 @@
+{"tmdb_id": 499760, "title": "Mining/Ironworks, Pt. 2", "original_title": "Mining/Ironworks, Pt. 2", "slug_title": "mining-ironworks-pt-2", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

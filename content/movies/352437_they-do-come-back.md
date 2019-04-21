@@ -1,0 +1,1 @@
+{"tmdb_id": 352437, "title": "They Do Come Back", "original_title": "They Do Come Back", "slug_title": "they-do-come-back", "date": "1940-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wilma Caspar ()", "Alois Havrilla (Himself / Narrator (voice))", "Edward Mulhern ()"], "comments": [], "recommandations_id": []}

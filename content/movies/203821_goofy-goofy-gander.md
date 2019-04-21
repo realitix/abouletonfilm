@@ -1,0 +1,1 @@
+{"tmdb_id": 203821, "title": "Goofy Goofy Gander", "original_title": "Goofy Goofy Gander", "slug_title": "goofy-goofy-gander", "date": "1950-08-18", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9EdBlmuWmwIM0sgiZgDtj9CD2Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

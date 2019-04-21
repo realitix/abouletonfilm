@@ -1,0 +1,1 @@
+{"tmdb_id": 549186, "title": "The Water We Drink", "original_title": "The Water We Drink", "slug_title": "the-water-we-drink", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

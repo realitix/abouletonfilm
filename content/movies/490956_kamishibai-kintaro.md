@@ -1,0 +1,1 @@
+{"tmdb_id": 490956, "title": "Kamishibai Kintaro", "original_title": "Kamishibai Kintaro no maki", "slug_title": "kamishibai-kintaro", "date": "1934-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

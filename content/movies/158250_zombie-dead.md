@@ -1,0 +1,1 @@
+{"tmdb_id": 158250, "title": "Zombie Dead", "original_title": "Zonbi deddo", "slug_title": "zombie-dead", "date": "2008-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dURTYqTzVma8gzoMcmVHAdx4QDJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

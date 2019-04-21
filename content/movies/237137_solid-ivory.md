@@ -1,0 +1,1 @@
+{"tmdb_id": 237137, "title": "Solid Ivory", "original_title": "Solid Ivory", "slug_title": "solid-ivory", "date": "1947-08-25", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFudrpMzqJPfCKspldUOku2Ixqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

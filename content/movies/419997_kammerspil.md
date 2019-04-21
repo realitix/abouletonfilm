@@ -1,0 +1,1 @@
+{"tmdb_id": 419997, "title": "Kammerspil", "original_title": "Kammerspil", "slug_title": "kammerspil", "date": "1966-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yvonne Ingdal ()", "Henning Palner ()"], "comments": [], "recommandations_id": []}

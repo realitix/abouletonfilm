@@ -1,0 +1,1 @@
+{"tmdb_id": 540304, "title": "Bouboule 1er, roi n\u00e8gre", "original_title": "Bouboule 1er, roi n\u00e8gre", "slug_title": "bouboule-1er-roi-negre", "date": "1934-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6VaB4ZjlnFNkL0FVunCq3K7fyJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 360788, "title": "A Tale of Love, Madness and Death", "original_title": "A Tale of Love, Madness and Death", "slug_title": "a-tale-of-love-madness-and-death", "date": "2015-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

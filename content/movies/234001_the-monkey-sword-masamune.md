@@ -1,0 +1,1 @@
+{"tmdb_id": 234001, "title": "The Monkey Sword Masamune", "original_title": "\u733f\u6b63\u5b97", "slug_title": "the-monkey-sword-masamune", "date": "1930-11-07", "genre": "Animation", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5u9yetngKVGymQZMDFqghR8a3gZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

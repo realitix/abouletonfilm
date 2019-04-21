@@ -1,0 +1,1 @@
+{"tmdb_id": 501911, "title": "Collapse", "original_title": "Collapse", "slug_title": "collapse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukWBS64m80NwcDrY1NIqYjcXIVn.jpg", "actors": [], "comments": [], "recommandations_id": []}

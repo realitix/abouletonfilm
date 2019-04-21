@@ -1,0 +1,1 @@
+{"tmdb_id": 543357, "title": "A Dog Named Gucci", "original_title": "A Dog Named Gucci", "slug_title": "a-dog-named-gucci", "date": "2015-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kONQKfVoUwo3nJg1haJmRK8bLlL.jpg", "actors": ["Doug James (Himself)"], "comments": [], "recommandations_id": []}

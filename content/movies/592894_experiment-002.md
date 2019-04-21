@@ -1,0 +1,1 @@
+{"tmdb_id": 592894, "title": "Experiment 002", "original_title": "Experiment 002", "slug_title": "experiment-002", "date": "1994-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avYAdI095ifv6a1B8pewnGO0XwE.jpg", "actors": [], "comments": [], "recommandations_id": []}

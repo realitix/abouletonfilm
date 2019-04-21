@@ -1,0 +1,1 @@
+{"tmdb_id": 389735, "title": "Die! Sitter! Die! : Rupert", "original_title": "Die! Sitter! Die! : Rupert", "slug_title": "die-sitter-die-rupert", "date": "2016-04-14", "genre": "Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNpNoP6iioKyECEXZns7e87LWtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

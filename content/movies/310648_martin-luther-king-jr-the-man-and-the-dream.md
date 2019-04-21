@@ -1,0 +1,1 @@
+{"tmdb_id": 310648, "title": "Martin Luther King, Jr.: The Man and the Dream", "original_title": "Martin Luther King, Jr.: The Man and the Dream", "slug_title": "martin-luther-king-jr-the-man-and-the-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 328834, "title": "Allied Offensive, July 1918", "original_title": "Allied Offensive, July 1918", "slug_title": "allied-offensive-july-1918", "date": "1918-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 24552, "title": "The Uffe Holm Show 3", "original_title": "The Uffe Holm Show 3", "slug_title": "the-uffe-holm-show-3", "date": "2009-03-28", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uz6e2OPt6YQxBSpQlhiVwzJdTX.jpg", "actors": ["Uffe Holm (himself)"], "comments": [], "recommandations_id": []}

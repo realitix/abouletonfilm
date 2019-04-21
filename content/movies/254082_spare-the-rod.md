@@ -1,0 +1,1 @@
+{"tmdb_id": 254082, "title": "Spare the Rod", "original_title": "Spare the Rod", "slug_title": "spare-the-rod", "date": "1953-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vkmXJpLIlcwjLSN6b38izRScODG.jpg", "actors": [], "comments": [], "recommandations_id": []}

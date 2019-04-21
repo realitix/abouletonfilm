@@ -1,0 +1,1 @@
+{"tmdb_id": 393741, "title": "Hard Lovin' Woman", "original_title": "Hard Lovin' Woman", "slug_title": "hard-lovin-woman", "date": "2016-04-17", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9USw93fh8s1lG9V6jlgpJYTpIFM.jpg", "actors": ["Juliette Lewis (Herself)"], "comments": [], "recommandations_id": []}

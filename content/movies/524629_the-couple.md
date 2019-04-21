@@ -1,0 +1,1 @@
+{"tmdb_id": 524629, "title": "The Couple", "original_title": "The Couple", "slug_title": "the-couple", "date": "2005-10-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liam Horan (Cab Driver)", "Art Kearns (Husband)", "Martha Van De Bly (Wife)", "Colm Kearns (The Stranger)"], "comments": [], "recommandations_id": []}

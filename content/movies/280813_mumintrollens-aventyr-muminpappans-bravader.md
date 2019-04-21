@@ -1,0 +1,1 @@
+{"tmdb_id": 280813, "title": "Mumintrollens \u00c4ventyr - Muminpappans Bravader", "original_title": "Mumintrollens \u00c4ventyr - Muminpappans Bravader", "slug_title": "mumintrollens-aventyr-muminpappans-bravader", "date": "1982-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

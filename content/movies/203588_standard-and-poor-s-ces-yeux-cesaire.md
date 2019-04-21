@@ -1,0 +1,1 @@
+{"tmdb_id": 203588, "title": "Standard and poor's, ces yeux, C\u00e9saire", "original_title": "Standard and poor's, ces yeux, C\u00e9saire", "slug_title": "standard-and-poor-s-ces-yeux-cesaire", "date": "2013-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

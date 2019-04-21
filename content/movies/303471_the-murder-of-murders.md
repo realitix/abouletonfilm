@@ -1,0 +1,1 @@
+{"tmdb_id": 303471, "title": "The Murder of Murders", "original_title": "\u7389\u873b\u8713", "slug_title": "the-murder-of-murders", "date": "1978-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Od8BGJGkjIDXFGldV9wn0HwlbJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

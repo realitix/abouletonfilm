@@ -1,0 +1,1 @@
+{"tmdb_id": 579832, "title": "A Sock And A Hard Place", "original_title": "Held Op Sok", "slug_title": "a-sock-and-a-hard-place", "date": "2019-01-25", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FJzO4oEl9OaDKQBCYlG3mkN75e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575050, "title": "Beauty and the Beast", "original_title": "Beauty and the Beast", "slug_title": "beauty-and-the-beast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 443704, "title": "Masquerade", "original_title": "\u0d2e\u0d3e\u0d31\u0d3e\u0d1f\u0d4d\u0d1f\u0d02", "slug_title": "masquerade", "date": "1988-01-01", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKKad7DpHQUyuhGOc3CTsup15kK.jpg", "actors": [], "comments": [], "recommandations_id": []}

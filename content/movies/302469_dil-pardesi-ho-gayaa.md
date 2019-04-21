@@ -1,0 +1,1 @@
+{"tmdb_id": 302469, "title": "Dil Pardesi Ho Gayaa", "original_title": "Dil Pardesi Ho Gayaa", "slug_title": "dil-pardesi-ho-gayaa", "date": "2003-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyqAvo8GYdQTh0ngCop3Pk3lYVI.jpg", "actors": [], "comments": [], "recommandations_id": []}

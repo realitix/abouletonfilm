@@ -1,0 +1,1 @@
+{"tmdb_id": 556741, "title": "Lopez, le bandit", "original_title": "Lopez, le bandit", "slug_title": "lopez-le-bandit", "date": "1931-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

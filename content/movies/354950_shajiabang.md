@@ -1,0 +1,1 @@
+{"tmdb_id": 354950, "title": "Shajiabang", "original_title": "Shajiabang", "slug_title": "shajiabang", "date": "1974-01-01", "genre": "Guerre / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gzVbg95HsUzAdMEyuLoBdPkQLT4.jpg", "actors": [], "comments": [], "recommandations_id": []}

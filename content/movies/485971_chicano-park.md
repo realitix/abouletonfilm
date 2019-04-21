@@ -1,0 +1,1 @@
+{"tmdb_id": 485971, "title": "Chicano Park", "original_title": "Chicano Park", "slug_title": "chicano-park", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

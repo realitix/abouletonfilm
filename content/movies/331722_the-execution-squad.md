@@ -1,0 +1,1 @@
+{"tmdb_id": 331722, "title": "The Execution Squad", "original_title": "Kateebat al-I'dam", "slug_title": "the-execution-squad", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73k8xB24r7dDMNLUGFylJLR6MwJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

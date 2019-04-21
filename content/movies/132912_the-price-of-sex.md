@@ -1,0 +1,1 @@
+{"tmdb_id": 132912, "title": "The Price of Sex", "original_title": "The Price of Sex", "slug_title": "the-price-of-sex", "date": "2011-04-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNooCiEODwXTlZkTHlG28kynYt0.jpg", "actors": ["Mimi Chakarova (Voice)"], "comments": [], "recommandations_id": []}

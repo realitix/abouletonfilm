@@ -1,0 +1,1 @@
+{"tmdb_id": 501417, "title": "Selma & Sofie", "original_title": "Selma & Sofie", "slug_title": "selma-sofie", "date": "2003-10-19", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

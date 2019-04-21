@@ -1,0 +1,1 @@
+{"tmdb_id": 463007, "title": "Nucleus Ambiguous", "original_title": "Nucleus Ambiguous", "slug_title": "nucleus-ambiguous", "date": "2002-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

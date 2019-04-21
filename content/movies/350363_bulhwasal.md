@@ -1,0 +1,1 @@
+{"tmdb_id": 350363, "title": "\ubd88\ud654\uc0b4", "original_title": "\ubd88\ud654\uc0b4", "slug_title": "bulhwasal", "date": "1990-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

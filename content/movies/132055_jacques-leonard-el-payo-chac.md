@@ -1,0 +1,1 @@
+{"tmdb_id": 132055, "title": "Jacques Leonard, el payo Chac", "original_title": "Jacques Leonard, el payo Chac", "slug_title": "jacques-leonard-el-payo-chac", "date": "2011-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ub89WQl4POttwuDJJrcAc5nFvCM.jpg", "actors": [], "comments": [], "recommandations_id": []}

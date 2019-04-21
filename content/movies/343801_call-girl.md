@@ -1,0 +1,1 @@
+{"tmdb_id": 343801, "title": "Call Girl", "original_title": "Call Girl", "slug_title": "call-girl", "date": "2014-02-25", "genre": "Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhx8BJcmbTu9xIef4s3RHv7A3PR.jpg", "actors": ["Laurence R. Harvey (Ed)", "Tristan Risk (Mitzy)"], "comments": [], "recommandations_id": []}

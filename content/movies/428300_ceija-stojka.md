@@ -1,0 +1,1 @@
+{"tmdb_id": 428300, "title": "Ceija Stojka", "original_title": "Ceija Stojka", "slug_title": "ceija-stojka", "date": "2000-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEJlfBuhTiiTEe2xwlDfNcYkciQ.jpg", "actors": ["Ceija Stojka (Herself)"], "comments": [], "recommandations_id": []}

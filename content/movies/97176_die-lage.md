@@ -1,0 +1,1 @@
+{"tmdb_id": 97176, "title": "Die Lage", "original_title": "Die Lage", "slug_title": "die-lage", "date": "2012-02-15", "genre": "Documentaire", "score": "4.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kRcX6imCNIV4qxLDsfUpLiA901O.jpg", "actors": ["Pope Benedict XVI (Himself)"], "comments": [], "recommandations_id": []}

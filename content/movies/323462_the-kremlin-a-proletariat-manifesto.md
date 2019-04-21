@@ -1,0 +1,1 @@
+{"tmdb_id": 323462, "title": "The Kremlin: A Proletariat Manifesto", "original_title": "The Kremlin: A Proletariat Manifesto", "slug_title": "the-kremlin-a-proletariat-manifesto", "date": "2006-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 87468, "title": "The Shinobi Ninja", "original_title": "The Shinobi Ninja", "slug_title": "the-shinobi-ninja", "date": "1981-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSt8doIJaE8V1VDQ69tRUVS2vkm.jpg", "actors": [], "comments": [], "recommandations_id": []}

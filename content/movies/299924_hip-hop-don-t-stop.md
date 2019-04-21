@@ -1,0 +1,1 @@
+{"tmdb_id": 299924, "title": "Hip Hop Don't Stop", "original_title": "Hip Hop Don't Stop", "slug_title": "hip-hop-don-t-stop", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

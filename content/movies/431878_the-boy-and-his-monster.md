@@ -1,0 +1,1 @@
+{"tmdb_id": 431878, "title": "The Boy and His Monster", "original_title": "The Boy and His Monster", "slug_title": "the-boy-and-his-monster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Parry (Director)", "Daniel Parry ((voice))"], "comments": [], "recommandations_id": []}

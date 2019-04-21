@@ -1,0 +1,1 @@
+{"tmdb_id": 577561, "title": "Glamour Girls of 1943", "original_title": "Glamour Girls of 1943", "slug_title": "glamour-girls-of-1943", "date": "1943-09-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

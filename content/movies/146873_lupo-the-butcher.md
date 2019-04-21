@@ -1,0 +1,1 @@
+{"tmdb_id": 146873, "title": "Lupo the Butcher", "original_title": "Lupo the Butcher", "slug_title": "lupo-the-butcher", "date": "1987-11-23", "genre": "Com\u00e9die / Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVWXeY0Lj6mvn1QgVRUAqIFmi7u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425413, "title": "Cuadro por cuadro", "original_title": "Cuadro por cuadro", "slug_title": "cuadro-por-cuadro", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJG2HH0SPUSLjgTgTvFNAcZfs86.jpg", "actors": [], "comments": [], "recommandations_id": []}

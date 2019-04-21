@@ -1,0 +1,1 @@
+{"tmdb_id": 404485, "title": "Le Christ dans la cit\u00e9", "original_title": "Le Christ dans la cit\u00e9", "slug_title": "le-christ-dans-la-cite", "date": "1962-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zdryny3IZiPvVJ3WIBLampnsHLY.jpg", "actors": [], "comments": [], "recommandations_id": []}

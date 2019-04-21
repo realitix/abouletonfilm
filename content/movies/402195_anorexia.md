@@ -1,0 +1,1 @@
+{"tmdb_id": 402195, "title": "Anorexia", "original_title": "Anorexia", "slug_title": "anorexia", "date": "2010-06-14", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2X52mZicXVJZuAwTUAyAxsSUs0v.jpg", "actors": ["Almudena Gallego (Marisa)", "Javier Botet (Anorexia)"], "comments": [], "recommandations_id": []}

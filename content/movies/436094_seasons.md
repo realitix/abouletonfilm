@@ -1,0 +1,1 @@
+{"tmdb_id": 436094, "title": "Seasons", "original_title": "Seasons", "slug_title": "seasons", "date": "", "genre": "Com\u00e9die / Romance", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5pnseMrIN17JHN5ybjmqWrWBiQQ.jpg", "actors": ["Holly Ashman (Spencer)", "Tessa Kennedy (Kit)"], "comments": [], "recommandations_id": []}

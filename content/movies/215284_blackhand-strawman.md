@@ -1,0 +1,1 @@
+{"tmdb_id": 215284, "title": "Blackhand Strawman", "original_title": "Blackhand Strawman", "slug_title": "blackhand-strawman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

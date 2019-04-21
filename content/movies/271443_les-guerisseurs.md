@@ -1,0 +1,1 @@
+{"tmdb_id": 271443, "title": "Les gu\u00e9risseurs", "original_title": "Les gu\u00e9risseurs", "slug_title": "les-guerisseurs", "date": "1988-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georges Benson ()", "Pierre-Loup Rajot ()", "Nayanka Bell ()"], "comments": [], "recommandations_id": []}

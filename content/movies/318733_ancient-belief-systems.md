@@ -1,0 +1,1 @@
+{"tmdb_id": 318733, "title": "Ancient Belief Systems", "original_title": "Ancient Belief Systems", "slug_title": "ancient-belief-systems", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

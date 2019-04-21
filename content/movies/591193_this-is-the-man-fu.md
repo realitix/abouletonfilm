@@ -1,0 +1,1 @@
+{"tmdb_id": 591193, "title": "This is the Man Fu", "original_title": "\u9019\u662f\u9019\u6587\u5bcc", "slug_title": "this-is-the-man-fu", "date": "2017-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

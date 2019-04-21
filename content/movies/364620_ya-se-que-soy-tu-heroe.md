@@ -1,0 +1,1 @@
+{"tmdb_id": 364620, "title": "Ya Se Que Soy Tu H\u00e9roe", "original_title": "Ya Se Que Soy Tu H\u00e9roe", "slug_title": "ya-se-que-soy-tu-heroe", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

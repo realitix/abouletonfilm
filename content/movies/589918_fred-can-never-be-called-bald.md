@@ -1,0 +1,1 @@
+{"tmdb_id": 589918, "title": "Fred Can Never Be Called Bald", "original_title": "Fred Can Never Be Called Bald", "slug_title": "fred-can-never-be-called-bald", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

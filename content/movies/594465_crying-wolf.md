@@ -1,0 +1,1 @@
+{"tmdb_id": 594465, "title": "Crying Wolf", "original_title": "Crying Wolf", "slug_title": "crying-wolf", "date": "2004-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Shane Ferrell (Billy Joe)", "Annie L. Maleski (Tracy)", "Kevin White (the sheriff)"], "comments": [], "recommandations_id": []}

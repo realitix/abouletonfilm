@@ -1,0 +1,1 @@
+{"tmdb_id": 309375, "title": "American Soul: Vol. 1", "original_title": "American Soul: Vol. 1", "slug_title": "american-soul-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

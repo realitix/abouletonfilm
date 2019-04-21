@@ -1,0 +1,1 @@
+{"tmdb_id": 549565, "title": "Svetl\u00e9 miesto", "original_title": "Svetl\u00e9 miesto", "slug_title": "svetle-miesto", "date": "2018-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

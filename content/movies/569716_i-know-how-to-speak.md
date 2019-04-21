@@ -1,0 +1,1 @@
+{"tmdb_id": 569716, "title": "I Know How to Speak", "original_title": "I Know How to Speak", "slug_title": "i-know-how-to-speak", "date": "2018-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Hull ()", "Robert McDowell ()", "Andy Prince ()", "Tim Very ()"], "comments": [], "recommandations_id": []}

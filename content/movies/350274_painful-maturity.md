@@ -1,0 +1,1 @@
+{"tmdb_id": 350274, "title": "Painful Maturity", "original_title": "\uc544\ud508 \uc131\uc219", "slug_title": "painful-maturity", "date": "1980-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yun Sang-mi ()", "Yu In-chon ()", "Yoon Il-bong ()", "Jung Hye-sun ()", "No Jin-a ()"], "comments": [], "recommandations_id": []}

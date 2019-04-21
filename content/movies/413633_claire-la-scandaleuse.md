@@ -1,0 +1,1 @@
+{"tmdb_id": 413633, "title": "Claire La Scandaleuse", "original_title": "Claire La Scandaleuse", "slug_title": "claire-la-scandaleuse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

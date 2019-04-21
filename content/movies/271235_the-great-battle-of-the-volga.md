@@ -1,0 +1,1 @@
+{"tmdb_id": 271235, "title": "The Great Battle of the Volga", "original_title": "The Great Battle of the Volga", "slug_title": "the-great-battle-of-the-volga", "date": "1963-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

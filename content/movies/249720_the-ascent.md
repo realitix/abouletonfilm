@@ -1,0 +1,1 @@
+{"tmdb_id": 249720, "title": "The Ascent", "original_title": "Arohan", "slug_title": "the-ascent", "date": "1983-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJe4FyluNE2uwxHGB1GAzTLDiMP.jpg", "actors": ["Victor Banerjee ()", "Pankaj Kapur ()", "Om Puri ()"], "comments": [], "recommandations_id": []}

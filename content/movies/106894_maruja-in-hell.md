@@ -1,0 +1,1 @@
+{"tmdb_id": 106894, "title": "Maruja in Hell", "original_title": "Maruja en el infierno", "slug_title": "maruja-in-hell", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrwsEx94jVgSicQPsppo8dFWTjl.jpg", "actors": [], "comments": [], "recommandations_id": []}

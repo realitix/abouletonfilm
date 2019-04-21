@@ -1,0 +1,1 @@
+{"tmdb_id": 439475, "title": "Apropa ord som Kommunikation", "original_title": "Apropa ord som Kommunikation", "slug_title": "apropa-ord-som-kommunikation", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mW5qbe0DSiV81WcefUYfaeewRTa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 141899, "title": "The Fugue", "original_title": "The Fugue", "slug_title": "the-fugue", "date": "2012-09-11", "genre": "Horreur / Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCEPuknxtfcZnTkYSDM7GfT00E7.jpg", "actors": ["Aleece Jones (Alena)"], "comments": [], "recommandations_id": []}

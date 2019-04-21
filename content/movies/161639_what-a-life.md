@@ -1,0 +1,1 @@
+{"tmdb_id": 161639, "title": "What a Life", "original_title": "What a Life", "slug_title": "what-a-life", "date": "1932-03-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

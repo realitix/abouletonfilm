@@ -1,0 +1,1 @@
+{"tmdb_id": 113945, "title": "Little Claus and Big Claus", "original_title": "Le petit Claus et le grand Claus", "slug_title": "little-claus-and-big-claus", "date": "1964-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ozFZILBjqbodqMVx1ipeJkWvpVW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549624, "title": "Severance", "original_title": "Severance", "slug_title": "severance", "date": "1988-01-01", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFBMo61p8vCfdk2moJAiYGyt2uy.jpg", "actors": [], "comments": [], "recommandations_id": []}

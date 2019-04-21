@@ -1,0 +1,1 @@
+{"tmdb_id": 267235, "title": "The Butcher's Wife", "original_title": "The Butcher's Wife", "slug_title": "the-butcher-s-wife", "date": "1999-11-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlnNf6uiKoeWkN7JIiampN8mIWb.jpg", "actors": [], "comments": [], "recommandations_id": []}

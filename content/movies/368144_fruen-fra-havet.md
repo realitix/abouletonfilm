@@ -1,0 +1,1 @@
+{"tmdb_id": 368144, "title": "Fruen fra havet", "original_title": "Fruen fra havet", "slug_title": "fruen-fra-havet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

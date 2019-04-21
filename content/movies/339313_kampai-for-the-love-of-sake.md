@@ -1,0 +1,1 @@
+{"tmdb_id": 339313, "title": "Kampai! For the Love of Sake", "original_title": "Kampai! For the Love of Sake", "slug_title": "kampai-for-the-love-of-sake", "date": "2015-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eAE7HPTjknl6jrC5jY7ui3ZgQev.jpg", "actors": [], "comments": [], "recommandations_id": []}

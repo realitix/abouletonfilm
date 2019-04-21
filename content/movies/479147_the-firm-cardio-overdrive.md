@@ -1,0 +1,1 @@
+{"tmdb_id": 479147, "title": "The FIRM: Cardio Overdrive", "original_title": "The FIRM: Cardio Overdrive", "slug_title": "the-firm-cardio-overdrive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ir6dDzIRXcQjHJ5WIhUYIeJrvIm.jpg", "actors": [], "comments": [], "recommandations_id": []}

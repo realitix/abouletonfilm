@@ -1,0 +1,1 @@
+{"tmdb_id": 415304, "title": "The Fog Bowl", "original_title": "The Fog Bowl", "slug_title": "the-fog-bowl", "date": "2016-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

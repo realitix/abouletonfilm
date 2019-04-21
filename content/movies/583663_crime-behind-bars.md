@@ -1,0 +1,1 @@
+{"tmdb_id": 583663, "title": "Crime Behind Bars", "original_title": "Crimen tras las rejas", "slug_title": "crime-behind-bars", "date": "2018-11-06", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294251, "title": "Angry Kelly", "original_title": "Angry Kelly", "slug_title": "angry-kelly", "date": "2014-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

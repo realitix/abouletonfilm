@@ -1,0 +1,1 @@
+{"tmdb_id": 470157, "title": "Avanthika", "original_title": "Avanthika", "slug_title": "avanthika", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

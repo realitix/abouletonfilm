@@ -1,0 +1,1 @@
+{"tmdb_id": 505748, "title": "The Last Bad Neighborhood", "original_title": "The Last Bad Neighborhood", "slug_title": "the-last-bad-neighborhood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLkgx4MKzoMML6J9jScMe0w5TiT.jpg", "actors": [], "comments": [], "recommandations_id": []}

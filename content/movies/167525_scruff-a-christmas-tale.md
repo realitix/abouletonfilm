@@ -1,0 +1,1 @@
+{"tmdb_id": 167525, "title": "Scruff: A Christmas Tale", "original_title": "Scruff: A Christmas Tale", "slug_title": "scruff-a-christmas-tale", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/naaMewhpM4PaXWo7NuNdWZeI52F.jpg", "actors": [], "comments": [], "recommandations_id": []}

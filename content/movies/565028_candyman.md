@@ -1,0 +1,1 @@
+{"tmdb_id": 565028, "title": "Candyman", "original_title": "Candyman", "slug_title": "candyman", "date": "2020-06-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sG9Jj6OXBTEXLIIqqAQGktJ5IHF.jpg", "actors": ["Lakeith Stanfield ()", "Yahya Abdul-Mateen II ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 15540, "title": "Affliction: Banned", "original_title": "Affliction: Banned", "slug_title": "affliction-banned", "date": "2008-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5LhnyABPCcCPI86Cl0JNYHC7eL.jpg", "actors": [], "comments": [], "recommandations_id": []}

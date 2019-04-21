@@ -1,0 +1,1 @@
+{"tmdb_id": 308862, "title": "Abbasso il zio", "original_title": "Abbasso il zio", "slug_title": "abbasso-il-zio", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCQG11Wy0fSWzQniQLnSGpmNo5u.jpg", "actors": [], "comments": [], "recommandations_id": []}

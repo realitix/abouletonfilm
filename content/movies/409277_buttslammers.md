@@ -1,0 +1,1 @@
+{"tmdb_id": 409277, "title": "Buttslammers", "original_title": "Buttslammers", "slug_title": "buttslammers", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Misty Rain ()", "Victoria Paris ()", "Tiffany Mynx ()"], "comments": [], "recommandations_id": []}

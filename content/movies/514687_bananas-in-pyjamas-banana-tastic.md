@@ -1,0 +1,1 @@
+{"tmdb_id": 514687, "title": "Bananas In Pyjamas - Banana-tastic", "original_title": "Bananas In Pyjamas - Banana-tastic", "slug_title": "bananas-in-pyjamas-banana-tastic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

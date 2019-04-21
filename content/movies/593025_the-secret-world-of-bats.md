@@ -1,0 +1,1 @@
+{"tmdb_id": 593025, "title": "The Secret World Of Bats", "original_title": "The Secret World Of Bats", "slug_title": "the-secret-world-of-bats", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Merlin Tuttle (Himself)", "Stacy Keach (Host)"], "comments": [], "recommandations_id": []}

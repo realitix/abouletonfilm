@@ -1,0 +1,1 @@
+{"tmdb_id": 56359, "title": "Resident Horror", "original_title": "Resident Horror", "slug_title": "resident-horror", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

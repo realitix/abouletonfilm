@@ -1,0 +1,1 @@
+{"tmdb_id": 593965, "title": "Das Haus der Friesen", "original_title": "Das Haus der Friesen", "slug_title": "das-haus-der-friesen", "date": "1953-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 566764, "title": "My Treasure", "original_title": "Mi Tesoro", "slug_title": "my-treasure", "date": "2017-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

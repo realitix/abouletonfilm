@@ -1,0 +1,1 @@
+{"tmdb_id": 252413, "title": "All Life is Struggle", "original_title": "Alles Leben ist Kampf", "slug_title": "all-life-is-struggle", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

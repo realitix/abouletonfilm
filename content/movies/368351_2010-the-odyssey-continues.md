@@ -1,0 +1,1 @@
+{"tmdb_id": 368351, "title": "2010 : The Odyssey Continues", "original_title": "2010 : The Odyssey Continues", "slug_title": "2010-the-odyssey-continues", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

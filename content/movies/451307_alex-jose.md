@@ -1,0 +1,1 @@
+{"tmdb_id": 451307, "title": "Alex & Jos\u00e9", "original_title": "Alex & Jos\u00e9", "slug_title": "alex-jose", "date": "2007-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDu7mhU0DVReiyL2Rg3d8BkOy40.jpg", "actors": [], "comments": [], "recommandations_id": []}

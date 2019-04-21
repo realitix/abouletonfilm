@@ -1,0 +1,1 @@
+{"tmdb_id": 510873, "title": "Days on Designers", "original_title": "Diz\u00e1jneren", "slug_title": "days-on-designers", "date": "2016-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3d1oOYvaP9CkrpOCSI6yedB4H4.jpg", "actors": [], "comments": [], "recommandations_id": []}

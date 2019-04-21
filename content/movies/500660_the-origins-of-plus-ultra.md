@@ -1,0 +1,1 @@
+{"tmdb_id": 500660, "title": "The Origins of Plus Ultra", "original_title": "The Origins of Plus Ultra", "slug_title": "the-origins-of-plus-ultra", "date": "2015-04-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maurice LaMarche (Narrator)"], "comments": [], "recommandations_id": []}

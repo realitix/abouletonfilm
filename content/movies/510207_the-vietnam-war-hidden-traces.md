@@ -1,0 +1,1 @@
+{"tmdb_id": 510207, "title": "The Vietnam War: Hidden Traces", "original_title": "The Vietnam War: Hidden Traces", "slug_title": "the-vietnam-war-hidden-traces", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymSxiwi2JOKRp4i7vLXtRhHSBb7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 363250, "title": "Colonel Heeza Liar Shipwrecked", "original_title": "Colonel Heeza Liar Shipwrecked", "slug_title": "colonel-heeza-liar-shipwrecked", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

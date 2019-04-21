@@ -1,0 +1,1 @@
+{"tmdb_id": 565360, "title": "Xevious", "original_title": "\u30bc\u30d3\u30a6\u30b9", "slug_title": "xevious", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZPtg2iqsyej7kyeJAynYZNEmYx.jpg", "actors": [], "comments": [], "recommandations_id": []}

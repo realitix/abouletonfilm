@@ -1,0 +1,1 @@
+{"tmdb_id": 423889, "title": "Film Magazine of the Arts", "original_title": "Film Magazine of the Arts", "slug_title": "film-magazine-of-the-arts", "date": "1963-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWtAiq2NzJl9n977rkHO29tTWz6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422820, "title": "Gulag Barashevo", "original_title": "Gulag Barashevo", "slug_title": "gulag-barashevo", "date": "2015-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRllFubArFpbZP1JIE6MgrLyOQN.jpg", "actors": ["Tanya Raisa (Vera)", "Haydn Winston (Vlad)"], "comments": [], "recommandations_id": []}

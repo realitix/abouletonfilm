@@ -1,0 +1,1 @@
+{"tmdb_id": 590559, "title": "Proudest Girl in the World", "original_title": "Proudest Girl in the World", "slug_title": "proudest-girl-in-the-world", "date": "1944-03-25", "genre": "Musique / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

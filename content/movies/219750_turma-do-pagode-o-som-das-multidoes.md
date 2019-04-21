@@ -1,0 +1,1 @@
+{"tmdb_id": 219750, "title": "Turma do Pagode - O Som das Multidoes", "original_title": "Turma do Pagode - O Som das Multidoes", "slug_title": "turma-do-pagode-o-som-das-multidoes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

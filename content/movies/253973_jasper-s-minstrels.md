@@ -1,0 +1,1 @@
+{"tmdb_id": 253973, "title": "Jasper's Minstrels", "original_title": "Jasper's Minstrels", "slug_title": "jasper-s-minstrels", "date": "1945-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Glenn (Scarecrow (voice))"], "comments": [], "recommandations_id": []}

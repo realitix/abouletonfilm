@@ -1,0 +1,1 @@
+{"tmdb_id": 408663, "title": "A Factory Drama", "original_title": "Un drame \u00e0 l'usine", "slug_title": "a-factory-drama", "date": "1912-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

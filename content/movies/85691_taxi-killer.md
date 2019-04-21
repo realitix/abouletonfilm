@@ -1,0 +1,1 @@
+{"tmdb_id": 85691, "title": "Taxi Killer", "original_title": "Taxi Killer", "slug_title": "taxi-killer", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

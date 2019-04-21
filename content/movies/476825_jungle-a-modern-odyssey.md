@@ -1,0 +1,1 @@
+{"tmdb_id": 476825, "title": "Jungle, a Modern Odyssey", "original_title": "Jungle", "slug_title": "jungle-a-modern-odyssey", "date": "2017-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWOPNpC61j5R5OjVHLylRliCyVR.jpg", "actors": ["Majd Mardo ()", "George Tobal ()"], "comments": [], "recommandations_id": []}

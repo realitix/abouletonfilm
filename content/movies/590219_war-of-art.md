@@ -1,0 +1,1 @@
+{"tmdb_id": 590219, "title": "War of Art", "original_title": "War of Art", "slug_title": "war-of-art", "date": "2019-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

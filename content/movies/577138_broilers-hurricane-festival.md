@@ -1,0 +1,1 @@
+{"tmdb_id": 577138, "title": "Broilers - Hurricane Festival", "original_title": "Broilers - Hurricane Festival", "slug_title": "broilers-hurricane-festival", "date": "2018-06-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

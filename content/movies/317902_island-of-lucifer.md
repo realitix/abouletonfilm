@@ -1,0 +1,1 @@
+{"tmdb_id": 317902, "title": "Island of Lucifer", "original_title": "Island of Lucifer", "slug_title": "island-of-lucifer", "date": "2012-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tl7SGMH773bhxE4eMBB2ePYfB5j.jpg", "actors": [], "comments": [], "recommandations_id": []}

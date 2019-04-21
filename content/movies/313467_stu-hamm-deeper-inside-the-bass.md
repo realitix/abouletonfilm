@@ -1,0 +1,1 @@
+{"tmdb_id": 313467, "title": "Stu Hamm: Deeper Inside the Bass", "original_title": "Stu Hamm: Deeper Inside the Bass", "slug_title": "stu-hamm-deeper-inside-the-bass", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

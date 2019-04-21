@@ -1,0 +1,1 @@
+{"tmdb_id": 192312, "title": "Dysphoria", "original_title": "Dysphoria", "slug_title": "dysphoria", "date": "2013-04-30", "genre": "Thriller / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JAflv9DSolTLWYieCiFABpY6n1.jpg", "actors": ["Helena Coleman (Katie)"], "comments": [], "recommandations_id": []}

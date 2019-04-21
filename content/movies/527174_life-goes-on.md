@@ -1,0 +1,1 @@
+{"tmdb_id": 527174, "title": "Life Goes On", "original_title": "\u4f46\u9858\u4eba\u9577\u4e45", "slug_title": "life-goes-on", "date": "1989-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7pZA7njbRlllbOc5j4iIkIjzGAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

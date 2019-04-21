@@ -1,0 +1,1 @@
+{"tmdb_id": 141202, "title": "1001 Inventions and the Library of Secrets", "original_title": "1001 Inventions and the Library of Secrets", "slug_title": "1001-inventions-and-the-library-of-secrets", "date": "2010-01-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

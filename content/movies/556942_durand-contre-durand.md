@@ -1,0 +1,1 @@
+{"tmdb_id": 556942, "title": "Durand contre Durand", "original_title": "Durand contre Durand", "slug_title": "durand-contre-durand", "date": "1931-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

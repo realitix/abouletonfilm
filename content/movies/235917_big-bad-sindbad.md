@@ -1,0 +1,1 @@
+{"tmdb_id": 235917, "title": "Big Bad Sindbad", "original_title": "Big Bad Sindbad", "slug_title": "big-bad-sindbad", "date": "1952-12-12", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9S1irSpv6dtLnKFrvsToXHlfst.jpg", "actors": [], "comments": [], "recommandations_id": []}

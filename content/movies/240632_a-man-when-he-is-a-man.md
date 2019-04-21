@@ -1,0 +1,1 @@
+{"tmdb_id": 240632, "title": "A Man, When He Is a Man", "original_title": "El hombre cuando es hombre", "slug_title": "a-man-when-he-is-a-man", "date": "1982-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

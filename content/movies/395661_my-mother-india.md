@@ -1,0 +1,1 @@
+{"tmdb_id": 395661, "title": "My Mother India", "original_title": "My Mother India", "slug_title": "my-mother-india", "date": "2002-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16Slr14ljx7GQCpFnU7MPOQ6op7.jpg", "actors": [], "comments": [], "recommandations_id": []}

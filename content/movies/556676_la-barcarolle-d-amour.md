@@ -1,0 +1,1 @@
+{"tmdb_id": 556676, "title": "La barcarolle d'amour", "original_title": "La barcarolle d'amour", "slug_title": "la-barcarolle-d-amour", "date": "1930-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353837, "title": "P90X: Cardio X", "original_title": "P90X: Cardio X", "slug_title": "p90x-cardio-x", "date": "2004-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8eLSlYKbHFTNQ2nP6eNy6jDZZKJ.jpg", "actors": ["Tony Horton (Himself)"], "comments": [], "recommandations_id": []}

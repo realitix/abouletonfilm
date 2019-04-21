@@ -1,0 +1,1 @@
+{"tmdb_id": 462335, "title": "Cocoric\u00f3 - 28 clipes musicias", "original_title": "Cocoric\u00f3 - 28 clipes musicias", "slug_title": "cocorico-28-clipes-musicias", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wIKRw8WMHQY4mFZSUysu9z35xtp.jpg", "actors": [], "comments": [], "recommandations_id": []}

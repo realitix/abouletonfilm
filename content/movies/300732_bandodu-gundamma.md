@@ -1,0 +1,1 @@
+{"tmdb_id": 300732, "title": "Bandodu Gundamma", "original_title": "Bandodu Gundamma", "slug_title": "bandodu-gundamma", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

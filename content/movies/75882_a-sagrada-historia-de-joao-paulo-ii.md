@@ -1,0 +1,1 @@
+{"tmdb_id": 75882, "title": "A Sagrada Hist\u00f3ria de Jo\u00e3o Paulo II", "original_title": "A Sagrada Hist\u00f3ria de Jo\u00e3o Paulo II", "slug_title": "a-sagrada-historia-de-joao-paulo-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

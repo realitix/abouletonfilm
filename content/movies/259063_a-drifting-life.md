@@ -1,0 +1,1 @@
+{"tmdb_id": 259063, "title": "A Drifting Life", "original_title": "\u6625\u82b1\u68a6\u9732", "slug_title": "a-drifting-life", "date": "1996-05-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCh3IiMuyTvQUigx87PlSHbt7z2.jpg", "actors": ["Lee Kang-Sheng ()"], "comments": [], "recommandations_id": []}

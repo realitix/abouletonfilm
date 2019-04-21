@@ -1,0 +1,1 @@
+{"tmdb_id": 272277, "title": "Uncle Sam Magoo", "original_title": "Uncle Sam Magoo", "slug_title": "uncle-sam-magoo", "date": "1970-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

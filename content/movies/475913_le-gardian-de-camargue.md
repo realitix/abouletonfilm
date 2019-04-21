@@ -1,0 +1,1 @@
+{"tmdb_id": 475913, "title": "Le gardian de Camargue", "original_title": "Le gardian de Camargue", "slug_title": "le-gardian-de-camargue", "date": "1910-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jo\u00eb Hamman ()", "Ren\u00e9e Carl ()"], "comments": [], "recommandations_id": []}

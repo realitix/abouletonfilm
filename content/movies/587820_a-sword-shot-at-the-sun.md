@@ -1,0 +1,1 @@
+{"tmdb_id": 587820, "title": "A Sword Shot at the Sun", "original_title": "Di jian ci xiang tai yang", "slug_title": "a-sword-shot-at-the-sun", "date": "1979-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meng Fei ()", "David Chiang ()", "Jun-Jun Yang ()"], "comments": [], "recommandations_id": []}

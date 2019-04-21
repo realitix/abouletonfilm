@@ -1,0 +1,1 @@
+{"tmdb_id": 510094, "title": "Inside a Virtuoso's Brain", "original_title": "Inside a Virtuoso's Brain", "slug_title": "inside-a-virtuoso-s-brain", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nqkREscXi7Pn0q8sYlvsk6jTni.jpg", "actors": [], "comments": [], "recommandations_id": []}

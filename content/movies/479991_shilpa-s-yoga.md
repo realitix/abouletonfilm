@@ -1,0 +1,1 @@
+{"tmdb_id": 479991, "title": "Shilpa's Yoga", "original_title": "Shilpa's Yoga", "slug_title": "shilpa-s-yoga", "date": "2007-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4z38l6XdSkE4JNqkhINEBNUiePh.jpg", "actors": ["Shilpa Shetty (Herself)"], "comments": [], "recommandations_id": []}

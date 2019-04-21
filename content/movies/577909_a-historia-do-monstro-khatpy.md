@@ -1,0 +1,1 @@
+{"tmdb_id": 577909, "title": "A Hist\u00f3ria do Monstro Kh\u00e1tpy", "original_title": "Kh\u00e1tpy Ro Sujareni", "slug_title": "a-historia-do-monstro-khatpy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u169LhGHn8rylWY3L4fd0UEBHZG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 482435, "title": "The Queen of Spades", "original_title": "Pique Dame", "slug_title": "the-queen-of-spades", "date": "1927-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

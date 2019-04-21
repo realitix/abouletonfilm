@@ -1,0 +1,1 @@
+{"tmdb_id": 253699, "title": "Wild Haggis", "original_title": "Gambozinos", "slug_title": "wild-haggis", "date": "2013-10-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59DDFRgVKkGUKnH2FsLGboHgZvQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

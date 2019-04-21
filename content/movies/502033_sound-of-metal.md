@@ -1,0 +1,1 @@
+{"tmdb_id": 502033, "title": "Sound of Metal", "original_title": "Sound of Metal", "slug_title": "sound-of-metal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Riz Ahmed ()", "Olivia Cooke ()"], "comments": [], "recommandations_id": []}

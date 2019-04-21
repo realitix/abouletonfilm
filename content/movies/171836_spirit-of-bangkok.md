@@ -1,0 +1,1 @@
+{"tmdb_id": 171836, "title": "Spirit of Bangkok", "original_title": "Spirit of Bangkok", "slug_title": "spirit-of-bangkok", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

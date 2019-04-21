@@ -1,0 +1,1 @@
+{"tmdb_id": 507908, "title": "How will you die?", "original_title": "How will you die?", "slug_title": "how-will-you-die", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

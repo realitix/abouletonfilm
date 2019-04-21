@@ -1,0 +1,1 @@
+{"tmdb_id": 30445, "title": "Christmas Nightmare", "original_title": "Christmas Nightmare", "slug_title": "christmas-nightmare", "date": "2001-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CKtF4vdscPAe2W1amRCTSpt7El.jpg", "actors": [], "comments": [], "recommandations_id": []}

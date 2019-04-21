@@ -1,0 +1,1 @@
+{"tmdb_id": 444004, "title": "My Daughter Nora", "original_title": "My Daughter Nora", "slug_title": "my-daughter-nora", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

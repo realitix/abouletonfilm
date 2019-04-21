@@ -1,0 +1,1 @@
+{"tmdb_id": 267877, "title": "How The Bismarck Sank HMS Hood", "original_title": "How The Bismarck Sank HMS Hood", "slug_title": "how-the-bismarck-sank-hms-hood", "date": "2012-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

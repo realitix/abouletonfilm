@@ -1,0 +1,1 @@
+{"tmdb_id": 361445, "title": "Ivete Sangalo - Festival de Ver\u00e3o 2015", "original_title": "Ivete Sangalo - Festival de Ver\u00e3o 2015", "slug_title": "ivete-sangalo-festival-de-verao-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

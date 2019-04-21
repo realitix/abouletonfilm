@@ -1,0 +1,1 @@
+{"tmdb_id": 350987, "title": "\ucd08\ub300\ubc1b\uc740 \uc0ac\ub78c\ub4e4", "original_title": "\ucd08\ub300\ubc1b\uc740 \uc0ac\ub78c\ub4e4", "slug_title": "codaebadeun-saramdeul", "date": "1981-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

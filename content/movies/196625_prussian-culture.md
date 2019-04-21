@@ -1,0 +1,1 @@
+{"tmdb_id": 196625, "title": "Prussian Culture", "original_title": "Pruska Kultura", "slug_title": "prussian-culture", "date": "1908-05-23", "genre": "", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJfh2IvZi10CzpSnsDCsGiexuv0.jpg", "actors": [], "comments": [], "recommandations_id": [180139, 196534, 196490, 147553]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541226, "title": "My Baby is a Bike Helmet", "original_title": "My Baby is a Bike Helmet", "slug_title": "my-baby-is-a-bike-helmet", "date": "2018-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

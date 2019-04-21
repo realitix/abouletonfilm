@@ -1,0 +1,1 @@
+{"tmdb_id": 409170, "title": "Ruth Orkin: Frames of Life", "original_title": "Ruth Orkin: Frames of Life", "slug_title": "ruth-orkin-frames-of-life", "date": "1996-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

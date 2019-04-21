@@ -1,0 +1,1 @@
+{"tmdb_id": 276817, "title": "Stand Up", "original_title": "Stand Up", "slug_title": "stand-up", "date": "2008-06-02", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6EaN6JHhZWRxkcMHxxDQZ57QZy.jpg", "actors": ["Paul Putner ()", "Daniel Rigby ()", "Dominic Kinnaird ()"], "comments": [], "recommandations_id": []}

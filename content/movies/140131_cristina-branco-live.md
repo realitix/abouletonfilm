@@ -1,0 +1,1 @@
+{"tmdb_id": 140131, "title": "Cristina Branco: Live", "original_title": "Cristina Branco: Live", "slug_title": "cristina-branco-live", "date": "2006-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5gLzdUlUgNSsunTkSiNYAXazE9q.jpg", "actors": ["Cristina Branco (Herself)"], "comments": [], "recommandations_id": []}

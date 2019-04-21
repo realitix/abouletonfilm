@@ -1,0 +1,1 @@
+{"tmdb_id": 517604, "title": "Monsanto", "original_title": "Monsanto", "slug_title": "monsanto", "date": "2000-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

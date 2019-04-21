@@ -1,0 +1,1 @@
+{"tmdb_id": 426679, "title": "Nova: Killer Quake!", "original_title": "Nova: Killer Quake!", "slug_title": "nova-killer-quake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 102245, "title": "Skimatic", "original_title": "Skimatic", "slug_title": "skimatic", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhEWliQhqKZ5abtTYAxFqCpAPsN.jpg", "actors": [], "comments": [], "recommandations_id": []}

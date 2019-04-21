@@ -1,0 +1,1 @@
+{"tmdb_id": 571767, "title": "Les m\u00e9diateurs du Pacifique", "original_title": "Les m\u00e9diateurs du Pacifique", "slug_title": "les-mediateurs-du-pacifique", "date": "1997-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rrarT0NNEm6VWVvf5UcTiRTpmF9.jpg", "actors": [], "comments": [], "recommandations_id": []}

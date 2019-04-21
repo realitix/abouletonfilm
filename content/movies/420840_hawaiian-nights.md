@@ -1,0 +1,1 @@
+{"tmdb_id": 420840, "title": "Hawaiian Nights", "original_title": "Hawaiian Nights", "slug_title": "hawaiian-nights", "date": "1927-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Az3Cc2ZuSj6q9PhqD3d2HWjgDS.jpg", "actors": ["The Hawaiian Beach Scene Orchestra ()"], "comments": [], "recommandations_id": []}

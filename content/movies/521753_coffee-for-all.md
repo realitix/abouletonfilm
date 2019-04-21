@@ -1,0 +1,1 @@
+{"tmdb_id": 521753, "title": "Coffee for All", "original_title": "Caff\u00e8 Sospeso", "slug_title": "coffee-for-all", "date": "2017-01-01", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOqE6TmUecwMPw81FSAtkIAFSjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

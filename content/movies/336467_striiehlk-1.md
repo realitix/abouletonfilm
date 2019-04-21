@@ -1,0 +1,1 @@
+{"tmdb_id": 336467, "title": "\u0e2a\u0e15\u0e23\u0e35\u0e40\u0e2b\u0e25\u0e47\u0e01 1", "original_title": "\u0e2a\u0e15\u0e23\u0e35\u0e40\u0e2b\u0e25\u0e47\u0e01 1", "slug_title": "striiehlk-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 200623, "title": "December", "original_title": "\ub514\uc148\ubc84", "slug_title": "december", "date": "2013-04-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v0Ge5HA5psLJM9r5mYC5Xh8i91a.jpg", "actors": ["Shin Myung-jin ()", "Yoon Shin ()", "Oh Ah-yeon ()"], "comments": [], "recommandations_id": []}

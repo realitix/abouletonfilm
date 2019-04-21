@@ -1,0 +1,1 @@
+{"tmdb_id": 427759, "title": "Sasquatch Birth Journal 2", "original_title": "Sasquatch Birth Journal 2", "slug_title": "sasquatch-birth-journal-2", "date": "2010-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tKgnnI5FCzL59xyPtoCWffTXC2.jpg", "actors": [], "comments": [], "recommandations_id": []}

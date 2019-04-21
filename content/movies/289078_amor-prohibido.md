@@ -1,0 +1,1 @@
+{"tmdb_id": 289078, "title": "Amor Prohibido", "original_title": "Amor Prohibido", "slug_title": "amor-prohibido", "date": "1945-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Domingo Soler ()", "Lupita Gallardo ()", "Jorge Velez ()", "Tito Junco ()", "Carlos Orellana ()"], "comments": [], "recommandations_id": []}

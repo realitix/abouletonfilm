@@ -1,0 +1,1 @@
+{"tmdb_id": 145803, "title": "The Star of Bethlehem", "original_title": "Der Stern von Bethlehem", "slug_title": "the-star-of-bethlehem", "date": "1956-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oKvN1k8R3mBOO9fPAjlVKwQX2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

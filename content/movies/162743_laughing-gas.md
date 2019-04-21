@@ -1,0 +1,1 @@
+{"tmdb_id": 162743, "title": "Laughing Gas", "original_title": "Laughing Gas", "slug_title": "laughing-gas", "date": "1931-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

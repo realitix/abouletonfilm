@@ -1,0 +1,1 @@
+{"tmdb_id": 478896, "title": "No Place Like on the Road", "original_title": "No Place Like on the Road", "slug_title": "no-place-like-on-the-road", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/duua8o5uFYwAJecVdP1ShdCfqV.jpg", "actors": [], "comments": [], "recommandations_id": []}

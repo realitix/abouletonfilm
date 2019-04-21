@@ -1,0 +1,1 @@
+{"tmdb_id": 546400, "title": "Creature - CSFU", "original_title": "Creature - CSFU", "slug_title": "creature-csfu", "date": "2013-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Gravette ()", "Ryan Reyes ()", "Taylor Bingaman ()", "Truman Hooker ()"], "comments": [], "recommandations_id": []}

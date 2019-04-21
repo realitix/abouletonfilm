@@ -1,0 +1,1 @@
+{"tmdb_id": 499762, "title": "Left Handed Memories", "original_title": "Left Handed Memories", "slug_title": "left-handed-memories", "date": "1989-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0CjXvMVGhv6eqrMdr6T88BuchN.jpg", "actors": [], "comments": [], "recommandations_id": []}

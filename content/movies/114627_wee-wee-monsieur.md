@@ -1,0 +1,1 @@
+{"tmdb_id": 114627, "title": "Wee Wee Monsieur", "original_title": "Wee Wee Monsieur", "slug_title": "wee-wee-monsieur", "date": "1938-02-18", "genre": "Com\u00e9die", "score": "5.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": [115920, 115993, 115992, 115934]}

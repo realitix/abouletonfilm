@@ -1,0 +1,1 @@
+{"tmdb_id": 573503, "title": "My Friend Fela", "original_title": "Meu Amigo Fela", "slug_title": "my-friend-fela", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

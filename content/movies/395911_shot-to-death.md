@@ -1,0 +1,1 @@
+{"tmdb_id": 395911, "title": "Shot to death", "original_title": "Shot to death", "slug_title": "shot-to-death", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Sullivan (Narrator)"], "comments": [], "recommandations_id": []}

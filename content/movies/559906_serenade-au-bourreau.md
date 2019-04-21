@@ -1,0 +1,1 @@
+{"tmdb_id": 559906, "title": "S\u00e9r\u00e9nade au bourreau", "original_title": "S\u00e9r\u00e9nade au bourreau", "slug_title": "serenade-au-bourreau", "date": "1951-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLy2r4c12GGxg5nQbWl32Nyuml7.jpg", "actors": [], "comments": [], "recommandations_id": []}

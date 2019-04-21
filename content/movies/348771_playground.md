@@ -1,0 +1,1 @@
+{"tmdb_id": 348771, "title": "Playground", "original_title": "\u3042\u304d\u3061\u3042\u305d\u3073", "slug_title": "playground", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zF8AhfhbVp9Nd42WfnzLJPXIW8S.jpg", "actors": [], "comments": [], "recommandations_id": []}

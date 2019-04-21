@@ -1,0 +1,1 @@
+{"tmdb_id": 361653, "title": "Secrets of Mexico's Drug War", "original_title": "Secrets of Mexico's Drug War", "slug_title": "secrets-of-mexico-s-drug-war", "date": "2015-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Morrissey (Narrator)"], "comments": [], "recommandations_id": []}

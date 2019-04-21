@@ -1,0 +1,1 @@
+{"tmdb_id": 116659, "title": "Ortiz vs. Lopez", "original_title": "Ortiz vs. Lopez", "slug_title": "ortiz-vs-lopez", "date": "2012-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHUIRiomct6ybxYd9RumLSKThEt.jpg", "actors": ["Victor Ortiz ()", "Jos\u00e9sito L\u00f3pez ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 277051, "title": "Modern Jazz Quartet: Django", "original_title": "Modern Jazz Quartet: Django", "slug_title": "modern-jazz-quartet-django", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

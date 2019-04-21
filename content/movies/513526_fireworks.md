@@ -1,0 +1,1 @@
+{"tmdb_id": 513526, "title": "Fireworks", "original_title": "Fireworks", "slug_title": "fireworks", "date": "1976-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

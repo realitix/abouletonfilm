@@ -1,0 +1,1 @@
+{"tmdb_id": 195124, "title": "Cupid and Psyche", "original_title": "Cupid and Psyche", "slug_title": "cupid-and-psyche", "date": "1897-09-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWxww9S2eBwLNwi4lLzzrkgrvez.jpg", "actors": [], "comments": [], "recommandations_id": []}

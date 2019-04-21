@@ -1,0 +1,1 @@
+{"tmdb_id": 427195, "title": "Noi siam come le lucciole", "original_title": "Noi siam come le lucciole", "slug_title": "noi-siam-come-le-lucciole", "date": "1976-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpksCwIftYbXPMyvTtlCE3bUVMN.jpg", "actors": [], "comments": [], "recommandations_id": []}

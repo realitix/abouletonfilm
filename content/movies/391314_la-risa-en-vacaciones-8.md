@@ -1,0 +1,1 @@
+{"tmdb_id": 391314, "title": "La risa en vacaciones 8", "original_title": "La risa en vacaciones 8", "slug_title": "la-risa-en-vacaciones-8", "date": "1996-11-11", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rtBIZbs9nc1wpF2GDJlePgimvfE.jpg", "actors": [], "comments": [], "recommandations_id": []}

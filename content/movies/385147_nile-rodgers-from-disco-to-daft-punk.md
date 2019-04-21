@@ -1,0 +1,1 @@
+{"tmdb_id": 385147, "title": "Nile Rodgers: From Disco to Daft Punk", "original_title": "Nile Rodgers: From Disco to Daft Punk", "slug_title": "nile-rodgers-from-disco-to-daft-punk", "date": "2015-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

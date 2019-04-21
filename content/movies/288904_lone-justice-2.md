@@ -1,0 +1,1 @@
+{"tmdb_id": 288904, "title": "Lone Justice 2", "original_title": "Lone Justice 2", "slug_title": "lone-justice-2", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

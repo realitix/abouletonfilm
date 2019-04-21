@@ -1,0 +1,1 @@
+{"tmdb_id": 189592, "title": "Halifax Catholic Procession", "original_title": "Halifax Catholic Procession", "slug_title": "halifax-catholic-procession", "date": "1905-11-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

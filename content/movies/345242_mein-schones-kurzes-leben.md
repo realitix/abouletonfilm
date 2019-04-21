@@ -1,0 +1,1 @@
+{"tmdb_id": 345242, "title": "Mein sch\u00f6nes kurzes Leben", "original_title": "Mein sch\u00f6nes kurzes Leben", "slug_title": "mein-schones-kurzes-leben", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccez1vxYe8bGRPDJiAJPM8Z34yx.jpg", "actors": [], "comments": [], "recommandations_id": []}

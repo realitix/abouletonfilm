@@ -1,0 +1,1 @@
+{"tmdb_id": 379249, "title": "Pinkologist", "original_title": "Pinkologist", "slug_title": "pinkologist", "date": "1978-12-02", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UjHhT13Em2vbnXOwXiaBftRNTG.jpg", "actors": [], "comments": [], "recommandations_id": []}

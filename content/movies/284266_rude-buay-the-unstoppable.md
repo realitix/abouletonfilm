@@ -1,0 +1,1 @@
+{"tmdb_id": 284266, "title": "Rude Buay...The Unstoppable", "original_title": "Rude Buay...The Unstoppable", "slug_title": "rude-buay-the-unstoppable", "date": "", "genre": "Thriller / Action / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Andrews (Commissioner Baptiste)"], "comments": [], "recommandations_id": []}

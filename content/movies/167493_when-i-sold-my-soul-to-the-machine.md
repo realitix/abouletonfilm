@@ -1,0 +1,1 @@
+{"tmdb_id": 167493, "title": "When I Sold My Soul To The Machine", "original_title": "When I Sold My Soul To The Machine", "slug_title": "when-i-sold-my-soul-to-the-machine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hxONrG0PrwANEa4383nJwCw8ivx.jpg", "actors": [], "comments": [], "recommandations_id": []}

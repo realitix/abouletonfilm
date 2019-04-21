@@ -1,0 +1,1 @@
+{"tmdb_id": 487549, "title": "ANNA LA SUA VITA", "original_title": "ANNA LA SUA VITA", "slug_title": "anna-la-sua-vita", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziShyhbdkzUZP4kDCGwcTvonJt8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 392112, "title": "The Daughter-in-Law", "original_title": "A ba de qing ren", "slug_title": "the-daughter-in-law", "date": "1995-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdKpTFx2SalngX4OzftaNvwjHYP.jpg", "actors": [], "comments": [], "recommandations_id": []}

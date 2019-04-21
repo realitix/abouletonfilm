@@ -1,0 +1,1 @@
+{"tmdb_id": 54927, "title": "Das Fest des Huhnes", "original_title": "Das Fest des Huhnes", "slug_title": "das-fest-des-huhnes", "date": "1992-01-01", "genre": "Documentaire / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3UutrBkBqOaw4CIOJuYHWe8nSm3.jpg", "actors": [], "comments": [], "recommandations_id": []}

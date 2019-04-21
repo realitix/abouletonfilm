@@ -1,0 +1,1 @@
+{"tmdb_id": 73950, "title": "Eski A\u00e7\u0131k Sar\u0131 Desene", "original_title": "Eski A\u00e7\u0131k Sar\u0131 Desene", "slug_title": "eski-acik-sari-desene", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

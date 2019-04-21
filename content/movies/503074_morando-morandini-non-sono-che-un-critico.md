@@ -1,0 +1,1 @@
+{"tmdb_id": 503074, "title": "Morando Morandini, non sono che un critico", "original_title": "Morando Morandini, non sono che un critico", "slug_title": "morando-morandini-non-sono-che-un-critico", "date": "2009-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

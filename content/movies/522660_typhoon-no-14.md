@@ -1,0 +1,1 @@
+{"tmdb_id": 522660, "title": "Typhoon No. 14", "original_title": "Typhoon No. 14", "slug_title": "typhoon-no-14", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

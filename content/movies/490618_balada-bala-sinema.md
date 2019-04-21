@@ -1,0 +1,1 @@
+{"tmdb_id": 490618, "title": "Balada Bala Sinema", "original_title": "Balada Bala Sinema", "slug_title": "balada-bala-sinema", "date": "2017-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h10psAPJlVvBFypt7FuHMyweLxF.jpg", "actors": [], "comments": [], "recommandations_id": []}

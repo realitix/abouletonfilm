@@ -1,0 +1,1 @@
+{"tmdb_id": 509390, "title": "Cravo, L\u00edrio e Rosa", "original_title": "Cravo, L\u00edrio e Rosa", "slug_title": "cravo-lirio-e-rosa", "date": "2018-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wk6kYUJgLJwhvw7yGxkkTxaxNJC.jpg", "actors": [], "comments": [], "recommandations_id": []}

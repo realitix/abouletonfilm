@@ -1,0 +1,1 @@
+{"tmdb_id": 316187, "title": "Jackie Mason: Freshly Squeezed", "original_title": "Jackie Mason: Freshly Squeezed", "slug_title": "jackie-mason-freshly-squeezed", "date": "2004-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jackie Mason ()"], "comments": [], "recommandations_id": []}

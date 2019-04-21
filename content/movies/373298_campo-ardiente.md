@@ -1,0 +1,1 @@
+{"tmdb_id": 373298, "title": "Campo Ardiente", "original_title": "Campo Ardiente", "slug_title": "campo-ardiente", "date": "2005-11-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcela Rouge ()", "Priscilla Queen ()", "Fabiana Rouge ()", "Karina Blonde ()", "Brigitte Nils ()"], "comments": [], "recommandations_id": []}

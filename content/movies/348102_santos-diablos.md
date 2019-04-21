@@ -1,0 +1,1 @@
+{"tmdb_id": 348102, "title": "Santos diablos", "original_title": "Santos diablos", "slug_title": "santos-diablos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["H\u00e9ctor \u00c1lvarez ()", "Elisa Valenzuela ()", "Juan Pablo Hern\u00e1ndez ()"], "comments": [], "recommandations_id": []}

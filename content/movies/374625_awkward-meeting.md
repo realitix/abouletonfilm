@@ -1,0 +1,1 @@
+{"tmdb_id": 374625, "title": "Awkward Meeting", "original_title": "Awkward Meeting", "slug_title": "awkward-meeting", "date": "2012-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rahel Kapsaski (Girl)", "Darren Luckin (Stalker)", "Joshua Takacs (Vampire)"], "comments": [], "recommandations_id": []}

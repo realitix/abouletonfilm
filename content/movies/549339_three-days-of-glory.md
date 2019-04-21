@@ -1,0 +1,1 @@
+{"tmdb_id": 549339, "title": "Three Days of Glory", "original_title": "Three Days of Glory", "slug_title": "three-days-of-glory", "date": "2018-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82Cllkk6aeuOhw6rI6XuJBw1ZN8.jpg", "actors": [], "comments": [], "recommandations_id": []}

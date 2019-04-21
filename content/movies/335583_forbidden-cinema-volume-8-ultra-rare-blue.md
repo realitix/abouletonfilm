@@ -1,0 +1,1 @@
+{"tmdb_id": 335583, "title": "Forbidden Cinema: Volume 8: Ultra Rare Blue", "original_title": "Forbidden Cinema: Volume 8: Ultra Rare Blue", "slug_title": "forbidden-cinema-volume-8-ultra-rare-blue", "date": "2014-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

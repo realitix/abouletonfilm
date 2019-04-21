@@ -1,0 +1,1 @@
+{"tmdb_id": 566128, "title": "Mission Scientology", "original_title": "Mission Scientology", "slug_title": "mission-scientology", "date": "2008-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

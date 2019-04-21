@@ -1,0 +1,1 @@
+{"tmdb_id": 483260, "title": "07:19 La Hora del Temblor", "original_title": "07:19 La Hora del Temblor", "slug_title": "07-19-la-hora-del-temblor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/meCVzIlNS1HW7HjEoP3iwSuiWaq.jpg", "actors": [], "comments": [], "recommandations_id": []}

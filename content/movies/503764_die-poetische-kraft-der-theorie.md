@@ -1,0 +1,1 @@
+{"tmdb_id": 503764, "title": "Die poetische Kraft der Theorie", "original_title": "Die poetische Kraft der Theorie", "slug_title": "die-poetische-kraft-der-theorie", "date": "2007-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

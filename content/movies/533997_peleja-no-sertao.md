@@ -1,0 +1,1 @@
+{"tmdb_id": 533997, "title": "Peleja no Sert\u00e3o", "original_title": "Peleja no Sert\u00e3o", "slug_title": "peleja-no-sertao", "date": "2016-08-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWRAdaZgbxS4JZERGrqzzSyVmTI.jpg", "actors": [], "comments": [], "recommandations_id": []}

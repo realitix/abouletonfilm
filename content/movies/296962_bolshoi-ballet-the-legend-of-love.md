@@ -1,0 +1,1 @@
+{"tmdb_id": 296962, "title": "Bolshoi Ballet: The Legend Of Love", "original_title": "Bolshoi Ballet: The Legend Of Love", "slug_title": "bolshoi-ballet-the-legend-of-love", "date": "2014-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

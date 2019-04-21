@@ -1,0 +1,1 @@
+{"tmdb_id": 412852, "title": "The Beast", "original_title": "Zvir", "slug_title": "the-beast", "date": "2016-05-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g29Nby0MU3MAXxiHvieduSPenNP.jpg", "actors": ["Ivan Smoljo (Father)", "Marko Ban (Son)"], "comments": [], "recommandations_id": []}

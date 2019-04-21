@@ -1,0 +1,1 @@
+{"tmdb_id": 461240, "title": "Januse efekt. Baali orjad", "original_title": "Januse efekt. Baali orjad", "slug_title": "januse-efekt-baali-orjad", "date": "2015-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQzzwFVt7LSPGsvqkpxV058VMp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

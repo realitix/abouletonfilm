@@ -1,0 +1,1 @@
+{"tmdb_id": 385714, "title": "The Ring Of Truth", "original_title": "The Ring Of Truth", "slug_title": "the-ring-of-truth", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

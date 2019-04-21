@@ -1,0 +1,1 @@
+{"tmdb_id": 557371, "title": "Bau. Kaufhaus, Hotel, Museum", "original_title": "Bau. Kaufhaus, Hotel, Museum", "slug_title": "bau-kaufhaus-hotel-museum", "date": "1988-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

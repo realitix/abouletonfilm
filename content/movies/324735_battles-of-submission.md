@@ -1,0 +1,1 @@
+{"tmdb_id": 324735, "title": "Battles of Submission", "original_title": "Battles of Submission", "slug_title": "battles-of-submission", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

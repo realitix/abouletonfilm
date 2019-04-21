@@ -1,0 +1,1 @@
+{"tmdb_id": 402866, "title": "Winnipeg Cinematheque", "original_title": "Winnipeg Cinematheque", "slug_title": "winnipeg-cinematheque", "date": "2007-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

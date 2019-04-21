@@ -1,0 +1,1 @@
+{"tmdb_id": 301664, "title": "Hellenistic Sculpture and Architecture", "original_title": "Hellenistic Sculpture and Architecture", "slug_title": "hellenistic-sculpture-and-architecture", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

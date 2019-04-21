@@ -1,0 +1,1 @@
+{"tmdb_id": 537055, "title": "Wonder Woman: Bloodlines", "original_title": "Wonder Woman: Bloodlines", "slug_title": "wonder-woman-bloodlines", "date": "2019-10-22", "genre": "Animation / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tu8M3zfU2dxMsS7lBrH5efjnIBA.jpg", "actors": [], "comments": [], "recommandations_id": []}

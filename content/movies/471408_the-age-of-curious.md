@@ -1,0 +1,1 @@
+{"tmdb_id": 471408, "title": "The Age of Curious", "original_title": "The Age of Curious", "slug_title": "the-age-of-curious", "date": "2013-08-18", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ReaIeUpLx7cv5ZiyDdAz0TZEbo.jpg", "actors": [], "comments": [], "recommandations_id": []}

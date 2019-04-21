@@ -1,0 +1,1 @@
+{"tmdb_id": 364968, "title": "Quod Erat Demonstrandum", "original_title": "Quod Erat Demonstrandum", "slug_title": "quod-erat-demonstrandum", "date": "2012-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKZ8XJK2XJOWG5GuHKMt5lK7Vjo.jpg", "actors": [], "comments": [], "recommandations_id": []}

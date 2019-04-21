@@ -1,0 +1,1 @@
+{"tmdb_id": 554925, "title": "Power Up Yoga with Rodney Yee: Power Yoga Strength", "original_title": "Power Up Yoga with Rodney Yee: Power Yoga Strength", "slug_title": "power-up-yoga-with-rodney-yee-power-yoga-strength", "date": "2002-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

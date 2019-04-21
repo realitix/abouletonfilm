@@ -1,0 +1,1 @@
+{"tmdb_id": 285721, "title": "Shock Act", "original_title": "Shock Act", "slug_title": "shock-act", "date": "2004-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

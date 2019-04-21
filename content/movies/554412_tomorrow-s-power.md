@@ -1,0 +1,1 @@
+{"tmdb_id": 554412, "title": "Tomorrow's Power", "original_title": "Tomorrow's Power", "slug_title": "tomorrow-s-power", "date": "2017-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPRm2RtQaRPpZ32gBcYXbJs28gQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

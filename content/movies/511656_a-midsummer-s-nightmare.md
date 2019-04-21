@@ -1,0 +1,1 @@
+{"tmdb_id": 511656, "title": "A Midsummer's Nightmare", "original_title": "A Midsummer's Nightmare", "slug_title": "a-midsummer-s-nightmare", "date": "2008-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

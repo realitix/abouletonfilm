@@ -1,0 +1,1 @@
+{"tmdb_id": 475130, "title": "Barabaniada", "original_title": "Barabaniada", "slug_title": "barabaniada", "date": "1981-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

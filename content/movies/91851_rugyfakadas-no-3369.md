@@ -1,0 +1,1 @@
+{"tmdb_id": 91851, "title": "R\u00fcgyfakad\u00e1s No. 3369", "original_title": "R\u00fcgyfakad\u00e1s No. 3369", "slug_title": "rugyfakadas-no-3369", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

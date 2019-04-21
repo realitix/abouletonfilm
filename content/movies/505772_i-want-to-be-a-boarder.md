@@ -1,0 +1,1 @@
+{"tmdb_id": 505772, "title": "I Want to be a Boarder", "original_title": "I Want to be a Boarder", "slug_title": "i-want-to-be-a-boarder", "date": "1937-06-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leo Fuchs (Chaim)", "Yetta Zwerling (Chaim's Wife)"], "comments": [], "recommandations_id": []}

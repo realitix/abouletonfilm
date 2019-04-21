@@ -1,0 +1,1 @@
+{"tmdb_id": 534748, "title": "Intervention in einer Bank", "original_title": "Intervention in einer Bank", "slug_title": "intervention-in-einer-bank", "date": "2017-01-28", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

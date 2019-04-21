@@ -1,0 +1,1 @@
+{"tmdb_id": 510389, "title": "Enchantments", "original_title": "Enchantments", "slug_title": "enchantments", "date": "2015-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcpIUD2VquZYIxBdvl9EPN28knY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291737, "title": "Searching for Wooden Watermelons", "original_title": "Searching for Wooden Watermelons", "slug_title": "searching-for-wooden-watermelons", "date": "2003-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

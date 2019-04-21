@@ -1,0 +1,1 @@
+{"tmdb_id": 578970, "title": "Game: He Plays to Win", "original_title": "Game: He Plays to Win", "slug_title": "game-he-plays-to-win", "date": "2014-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

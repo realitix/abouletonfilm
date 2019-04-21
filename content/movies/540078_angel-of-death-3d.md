@@ -1,0 +1,1 @@
+{"tmdb_id": 540078, "title": "Angel of Death 3D", "original_title": "Angel of Death 3D", "slug_title": "angel-of-death-3d", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m60Pj3cB83qypH3hwJ3qjLWiOXh.jpg", "actors": [], "comments": [], "recommandations_id": []}

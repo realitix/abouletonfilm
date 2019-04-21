@@ -1,0 +1,1 @@
+{"tmdb_id": 488839, "title": "What Happened in Vegas", "original_title": "What Happened in Vegas", "slug_title": "what-happened-in-vegas", "date": "2017-11-24", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d8xiMpoQtF2l2cUPuF9AF4PC6NH.jpg", "actors": [], "comments": [], "recommandations_id": []}

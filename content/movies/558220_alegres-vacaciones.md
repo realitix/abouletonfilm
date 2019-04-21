@@ -1,0 +1,1 @@
+{"tmdb_id": 558220, "title": "Alegres vacaciones", "original_title": "Alegres vacaciones", "slug_title": "alegres-vacaciones", "date": "1948-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXvvtv0af4SqbDh7YRFmZ2bAnVe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 554295, "title": "CinemAbility: The Art of Inclusion", "original_title": "CinemAbility: The Art of Inclusion", "slug_title": "cinemability-the-art-of-inclusion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

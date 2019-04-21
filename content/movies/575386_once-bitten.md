@@ -1,0 +1,1 @@
+{"tmdb_id": 575386, "title": "Once Bitten", "original_title": "Once Bitten", "slug_title": "once-bitten", "date": "1999-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fjOWG0G265ZxagFed4uGmPamKJk.jpg", "actors": [], "comments": [], "recommandations_id": []}

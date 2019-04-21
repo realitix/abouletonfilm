@@ -1,0 +1,1 @@
+{"tmdb_id": 50889, "title": "Cyanide", "original_title": "Cyanide", "slug_title": "cyanide", "date": "2006-08-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8bHwKdaiOlNa47NokBqExQc1WuX.jpg", "actors": [], "comments": [], "recommandations_id": []}

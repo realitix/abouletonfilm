@@ -1,0 +1,1 @@
+{"tmdb_id": 429559, "title": "Dotremont-les-logogrammes", "original_title": "Dotremont-les-logogrammes", "slug_title": "dotremont-les-logogrammes", "date": "1972-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

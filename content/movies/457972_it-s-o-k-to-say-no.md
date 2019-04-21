@@ -1,0 +1,1 @@
+{"tmdb_id": 457972, "title": "It's O.K. To Say No!", "original_title": "It's O.K. To Say No!", "slug_title": "it-s-o-k-to-say-no", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRDIbSprx9pc8b7PoZWXegUdFcC.jpg", "actors": [], "comments": [], "recommandations_id": []}

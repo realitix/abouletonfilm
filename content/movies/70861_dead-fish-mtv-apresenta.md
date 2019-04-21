@@ -1,0 +1,1 @@
+{"tmdb_id": 70861, "title": "Dead Fish: MTV Apresenta", "original_title": "Dead Fish: MTV Apresenta", "slug_title": "dead-fish-mtv-apresenta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPKq6ijqcomtdCB92h7Te6b6IfH.jpg", "actors": [], "comments": [], "recommandations_id": []}

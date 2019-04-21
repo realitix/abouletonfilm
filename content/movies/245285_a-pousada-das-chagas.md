@@ -1,0 +1,1 @@
+{"tmdb_id": 245285, "title": "A Pousada das Chagas", "original_title": "A Pousada das Chagas", "slug_title": "a-pousada-das-chagas", "date": "1972-02-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lu\u00eds Miguel Cintra ()", "Clara Joana ()"], "comments": [], "recommandations_id": []}

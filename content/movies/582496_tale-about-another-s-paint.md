@@ -1,0 +1,1 @@
+{"tmdb_id": 582496, "title": "Tale About Another's Paint", "original_title": "Skazka pro chuzhie kraski", "slug_title": "tale-about-another-s-paint", "date": "1962-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 255338, "title": "The Joe Piscopo Special", "original_title": "The Joe Piscopo Special", "slug_title": "the-joe-piscopo-special", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Piscopo ()", "Joseph Bologna ()", "Anthony Caruso ()"], "comments": [], "recommandations_id": []}

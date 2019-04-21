@@ -1,0 +1,1 @@
+{"tmdb_id": 261533, "title": "Nojo aos C\u00e3es", "original_title": "Nojo aos C\u00e3es", "slug_title": "nojo-aos-caes", "date": "1970-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ana Leiria (Student)", "Ana Zanatti (TV Newscaster)"], "comments": [], "recommandations_id": []}

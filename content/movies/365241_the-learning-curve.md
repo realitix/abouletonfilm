@@ -1,0 +1,1 @@
+{"tmdb_id": 365241, "title": "The Learning Curve", "original_title": "The Learning Curve", "slug_title": "the-learning-curve", "date": "2014-03-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthew Gray Gubler (David Sedaris)", "Carla Renata (The Dean)"], "comments": [], "recommandations_id": []}

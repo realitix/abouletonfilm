@@ -1,0 +1,1 @@
+{"tmdb_id": 110417, "title": "My Sergei", "original_title": "My Sergei", "slug_title": "my-sergei", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ekaterina Gordeeva (Herself)", "Daria Grinkova (Herself)", "Scott Hamilton (Himself)", "Victor Petrenko (Himself)"], "comments": [], "recommandations_id": []}

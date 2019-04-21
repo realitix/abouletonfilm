@@ -1,0 +1,1 @@
+{"tmdb_id": 144445, "title": "Moroz Ivanovich", "original_title": "Moroz Ivanovich", "slug_title": "moroz-ivanovich", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6OrltoQyWEWKAhzUAcQ2et2x0H.jpg", "actors": [], "comments": [], "recommandations_id": []}

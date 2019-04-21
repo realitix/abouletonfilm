@@ -1,0 +1,1 @@
+{"tmdb_id": 273044, "title": "California Clay in the Rockies", "original_title": "California Clay in the Rockies", "slug_title": "california-clay-in-the-rockies", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

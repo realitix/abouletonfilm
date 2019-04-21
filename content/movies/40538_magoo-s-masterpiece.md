@@ -1,0 +1,1 @@
+{"tmdb_id": 40538, "title": "Magoo's Masterpiece", "original_title": "Magoo's Masterpiece", "slug_title": "magoo-s-masterpiece", "date": "1953-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

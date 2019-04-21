@@ -1,0 +1,1 @@
+{"tmdb_id": 581307, "title": "Mahalia Melts in the Rain", "original_title": "Mahalia Melts in the Rain", "slug_title": "mahalia-melts-in-the-rain", "date": "2018-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HnLKOmcidyEkIH8qz77RQiWYe9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 585232, "title": "Corkscrew!", "original_title": "Corkscrew!", "slug_title": "corkscrew", "date": "2019-03-25", "genre": "Com\u00e9die / Horreur / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3sbFRywGzznMiLnqzjrDdcnRVk.jpg", "actors": ["Michael Johnson (Michael)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587880, "title": "Position Firing", "original_title": "Position Firing", "slug_title": "position-firing", "date": "1944-03-13", "genre": "Documentaire / Animation / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Trigger Joe (voice))"], "comments": [], "recommandations_id": []}

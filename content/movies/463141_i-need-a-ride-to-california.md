@@ -1,0 +1,1 @@
+{"tmdb_id": 463141, "title": "I Need a Ride to California", "original_title": "I Need a Ride to California", "slug_title": "i-need-a-ride-to-california", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

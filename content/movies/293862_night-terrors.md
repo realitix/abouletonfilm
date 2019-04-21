@@ -1,0 +1,1 @@
+{"tmdb_id": 293862, "title": "Night Terrors", "original_title": "Night Terrors", "slug_title": "night-terrors", "date": "2013-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zpF3kJ86nqH0P9YZjbcSgQRr1D.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 235138, "title": "Too Hop to Handle", "original_title": "Too Hop to Handle", "slug_title": "too-hop-to-handle", "date": "1956-01-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9NbX9Q9x5552F9vixjrRp4EJxB5.jpg", "actors": [], "comments": [], "recommandations_id": []}

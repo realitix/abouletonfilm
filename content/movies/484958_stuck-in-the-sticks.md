@@ -1,0 +1,1 @@
+{"tmdb_id": 484958, "title": "Stuck in the Sticks", "original_title": "Stuck in the Sticks", "slug_title": "stuck-in-the-sticks", "date": "1937-03-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Sheriff Andy Clyde)"], "comments": [], "recommandations_id": []}

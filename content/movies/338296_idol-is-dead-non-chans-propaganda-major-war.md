@@ -1,0 +1,1 @@
+{"tmdb_id": 338296, "title": "Idol is Dead: Non-chan\u2019s Propaganda Major War", "original_title": "Idol is Dead: Non-chan\u2019s Propaganda Major War", "slug_title": "idol-is-dead-non-chans-propaganda-major-war", "date": "2014-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 58220, "title": "The Joy of Stats", "original_title": "The Joy of Stats", "slug_title": "the-joy-of-stats", "date": "2010-12-07", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ceppNsWNtJNo5q607hegz9B8H1S.jpg", "actors": ["Hans Rosling (Himself)"], "comments": [], "recommandations_id": []}

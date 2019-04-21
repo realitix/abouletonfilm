@@ -1,0 +1,1 @@
+{"tmdb_id": 525375, "title": "The Basque Country", "original_title": "Euskadi, hors d'\u00c9tat", "slug_title": "the-basque-country", "date": "1984-10-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBRauCGOfQmJH0BUbIZBpRDrDbd.jpg", "actors": [], "comments": [], "recommandations_id": []}

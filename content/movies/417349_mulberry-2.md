@@ -1,0 +1,1 @@
+{"tmdb_id": 417349, "title": "Mulberry 2", "original_title": "\ubf55 2", "slug_title": "mulberry-2", "date": "1988-09-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kang Moon Young (Chi-geun's wife)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 138829, "title": "The Clock", "original_title": "The Clock", "slug_title": "the-clock", "date": "2010-10-15", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6JV3cXYytm04CQ7RB4piMKZGR1.jpg", "actors": [], "comments": [], "recommandations_id": []}

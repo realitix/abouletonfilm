@@ -1,0 +1,1 @@
+{"tmdb_id": 594128, "title": "5G Apocalypse: The Extinction Event", "original_title": "5G Apocalypse: The Extinction Event", "slug_title": "5g-apocalypse-the-extinction-event", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

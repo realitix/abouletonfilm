@@ -1,0 +1,1 @@
+{"tmdb_id": 235837, "title": "There Auto Be a Law", "original_title": "There Auto Be a Law", "slug_title": "there-auto-be-a-law", "date": "1953-06-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNYKx2EyVrELbbJ6Idy0ZWYMqn6.jpg", "actors": [], "comments": [], "recommandations_id": []}

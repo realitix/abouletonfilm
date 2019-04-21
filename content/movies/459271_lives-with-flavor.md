@@ -1,0 +1,1 @@
+{"tmdb_id": 459271, "title": "Lives with Flavor", "original_title": "Lives with Flavor", "slug_title": "lives-with-flavor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gXBLhpSZbj2Fg4kF4aqW72p0Aw6.jpg", "actors": [], "comments": [], "recommandations_id": []}

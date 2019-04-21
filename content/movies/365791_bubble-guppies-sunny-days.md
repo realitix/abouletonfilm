@@ -1,0 +1,1 @@
+{"tmdb_id": 365791, "title": "Bubble Guppies Sunny Days!", "original_title": "Bubble Guppies Sunny Days!", "slug_title": "bubble-guppies-sunny-days", "date": "2013-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bcBWzkr3ynRCGL78SVQ5EPlbS8D.jpg", "actors": [], "comments": [], "recommandations_id": []}

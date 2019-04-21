@@ -1,0 +1,1 @@
+{"tmdb_id": 578632, "title": "Beach Rats of Lauderdale", "original_title": "Beach Rats of Lauderdale", "slug_title": "beach-rats-of-lauderdale", "date": "2019-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMJMTjlXLXK2wMojnhw4yOH75rj.jpg", "actors": [], "comments": [], "recommandations_id": []}

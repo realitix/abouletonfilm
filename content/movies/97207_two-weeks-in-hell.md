@@ -1,0 +1,1 @@
+{"tmdb_id": 97207, "title": "Two Weeks in Hell", "original_title": "Two Weeks in Hell", "slug_title": "two-weeks-in-hell", "date": "2009-12-20", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8Cl9CER7hhs3PAq2qfOrage6A3.jpg", "actors": [], "comments": [], "recommandations_id": [30966, 18218]}

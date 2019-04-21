@@ -1,0 +1,1 @@
+{"tmdb_id": 477017, "title": "The Intervention", "original_title": "The Intervention", "slug_title": "the-intervention", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

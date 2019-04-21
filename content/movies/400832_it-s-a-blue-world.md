@@ -1,0 +1,1 @@
+{"tmdb_id": 400832, "title": "It's a Blue World", "original_title": "It's a Blue World", "slug_title": "it-s-a-blue-world", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574057, "title": "The Tale of The Three Bears", "original_title": "The Tale of The Three Bears", "slug_title": "the-tale-of-the-three-bears", "date": "2000-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqWLn3SmsTDqgvyRKtqZ7sbFDcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

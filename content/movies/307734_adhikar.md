@@ -1,0 +1,1 @@
+{"tmdb_id": 307734, "title": "Adhikar", "original_title": "Adhikar", "slug_title": "adhikar", "date": "1971-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

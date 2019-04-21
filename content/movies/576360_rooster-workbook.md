@@ -1,0 +1,1 @@
+{"tmdb_id": 576360, "title": "Rooster Workbook", "original_title": "Rooster Workbook", "slug_title": "rooster-workbook", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kyle McCulloch (-)", "Darcy Fehr (-)"], "comments": [], "recommandations_id": []}

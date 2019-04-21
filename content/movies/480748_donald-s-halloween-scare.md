@@ -1,0 +1,1 @@
+{"tmdb_id": 480748, "title": "Donald's Halloween Scare", "original_title": "Donald's Halloween Scare", "slug_title": "donald-s-halloween-scare", "date": "2000-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

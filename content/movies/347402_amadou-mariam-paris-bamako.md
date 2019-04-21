@@ -1,0 +1,1 @@
+{"tmdb_id": 347402, "title": "Amadou & Mariam - Paris Bamako", "original_title": "Amadou & Mariam - Paris Bamako", "slug_title": "amadou-mariam-paris-bamako", "date": "2006-04-11", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9NfydijaMegw8djWU1rzrrrxcaY.jpg", "actors": [], "comments": [], "recommandations_id": []}

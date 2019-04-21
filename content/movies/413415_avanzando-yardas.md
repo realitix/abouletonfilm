@@ -1,0 +1,1 @@
+{"tmdb_id": 413415, "title": "Avanzando Yardas", "original_title": "Avanzando Yardas", "slug_title": "avanzando-yardas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

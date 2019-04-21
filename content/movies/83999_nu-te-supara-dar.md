@@ -1,0 +1,1 @@
+{"tmdb_id": 83999, "title": "Nu te supara, dar...", "original_title": "Nu te supara, dar...", "slug_title": "nu-te-supara-dar", "date": "2007-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19ZgCZlIhHMkAFBjg2GA88BfbBL.jpg", "actors": [], "comments": [], "recommandations_id": []}

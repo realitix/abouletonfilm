@@ -1,0 +1,1 @@
+{"tmdb_id": 586980, "title": "sWinG maN", "original_title": "sWinG maN", "slug_title": "swing-man", "date": "2000-10-28", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Houka Kinoshita ()", "Aoi Miyazaki ()", "Urara Awata ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284947, "title": "Lesnoi cheloviek", "original_title": "Lesnoi cheloviek", "slug_title": "lesnoi-cheloviek", "date": "1928-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499758, "title": "Money for Nothing", "original_title": "Money for Nothing", "slug_title": "money-for-nothing", "date": "1985-01-01", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8zLk5P4fWHeE4A3RxeKLSKR7vC.jpg", "actors": [], "comments": [], "recommandations_id": []}

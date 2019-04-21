@@ -1,0 +1,1 @@
+{"tmdb_id": 298071, "title": "Andy Warhol", "original_title": "Andy Warhol", "slug_title": "andy-warhol", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Warhol (Himself)"], "comments": [], "recommandations_id": []}

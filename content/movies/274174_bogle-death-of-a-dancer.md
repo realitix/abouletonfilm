@@ -1,0 +1,1 @@
+{"tmdb_id": 274174, "title": "Bogle: Death of a Dancer", "original_title": "Bogle: Death of a Dancer", "slug_title": "bogle-death-of-a-dancer", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

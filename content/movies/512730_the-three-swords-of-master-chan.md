@@ -1,0 +1,1 @@
+{"tmdb_id": 512730, "title": "The Three Swords Of Master Chan", "original_title": "The Three Swords Of Master Chan", "slug_title": "the-three-swords-of-master-chan", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

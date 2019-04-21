@@ -1,0 +1,1 @@
+{"tmdb_id": 118693, "title": "The Ambassador & Me", "original_title": "The Ambassador & Me", "slug_title": "the-ambassador-me", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

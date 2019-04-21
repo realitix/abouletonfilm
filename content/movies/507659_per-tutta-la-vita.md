@@ -1,0 +1,1 @@
+{"tmdb_id": 507659, "title": "Per tutta la vita", "original_title": "Per tutta la vita", "slug_title": "per-tutta-la-vita", "date": "2014-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLaMCV9QKO95XQ0JIhFb9P6bbXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

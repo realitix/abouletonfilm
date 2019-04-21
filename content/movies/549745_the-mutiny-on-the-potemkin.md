@@ -1,0 +1,1 @@
+{"tmdb_id": 549745, "title": "The Mutiny on the Potemkin", "original_title": "The Mutiny on the Potemkin", "slug_title": "the-mutiny-on-the-potemkin", "date": "1905-09-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

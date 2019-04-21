@@ -1,0 +1,1 @@
+{"tmdb_id": 550444, "title": "The Offering", "original_title": "The Offering", "slug_title": "the-offering", "date": "1966-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

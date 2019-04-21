@@ -1,0 +1,1 @@
+{"tmdb_id": 384642, "title": "Journey to the West - Saga", "original_title": "Journey to the West Collection (Shaw Brothers)", "slug_title": "journey-to-the-west-saga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

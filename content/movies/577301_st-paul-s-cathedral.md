@@ -1,0 +1,1 @@
+{"tmdb_id": 577301, "title": "St. Paul's Cathedral", "original_title": "St. Paul's Cathedral", "slug_title": "st-paul-s-cathedral", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Speaight (Narration (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291992, "title": "2 s\u00fcper film birden", "original_title": "2 s\u00fcper film birden", "slug_title": "2-super-film-birden", "date": "2006-09-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apm2FDwUlwiSLqFr8mnN4XdwwQ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

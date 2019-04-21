@@ -1,0 +1,1 @@
+{"tmdb_id": 370312, "title": "The Rivals", "original_title": "The Rivals", "slug_title": "the-rivals", "date": "1912-11-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Sennett (Henry)", "Mabel Normand (Mabel)", "Fred Mace (Fred)", "Ford Sterling ()"], "comments": [], "recommandations_id": []}

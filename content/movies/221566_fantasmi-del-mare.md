@@ -1,0 +1,1 @@
+{"tmdb_id": 221566, "title": "Fantasmi del mare", "original_title": "Fantasmi del mare", "slug_title": "fantasmi-del-mare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301429, "title": "Thriller Theater!", "original_title": "Thriller Theater!", "slug_title": "thriller-theater", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584936, "title": "Apolinaras", "original_title": "Apolinaras", "slug_title": "apolinaras", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

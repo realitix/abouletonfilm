@@ -1,0 +1,1 @@
+{"tmdb_id": 523737, "title": "Adam and The Ants: Live In Tokyo", "original_title": "Adam and The Ants: Live In Tokyo", "slug_title": "adam-and-the-ants-live-in-tokyo", "date": "1981-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 139885, "title": "Possumus Man", "original_title": "Possumus Man", "slug_title": "possumus-man", "date": "1996-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4ENg30woCqUlDga19GksbFNZAx.jpg", "actors": [], "comments": [], "recommandations_id": []}

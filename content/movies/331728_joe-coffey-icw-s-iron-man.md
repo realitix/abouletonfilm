@@ -1,0 +1,1 @@
+{"tmdb_id": 331728, "title": "Joe Coffey: ICW's Iron Man", "original_title": "Joe Coffey: ICW's Iron Man", "slug_title": "joe-coffey-icw-s-iron-man", "date": "2015-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

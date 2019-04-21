@@ -1,0 +1,1 @@
+{"tmdb_id": 478551, "title": "Animal Hunger", "original_title": "Fome Animal", "slug_title": "animal-hunger", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

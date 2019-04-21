@@ -1,0 +1,1 @@
+{"tmdb_id": 488121, "title": "The Deadly Volley", "original_title": "The Deadly Volley", "slug_title": "the-deadly-volley", "date": "1975-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beverly Garland ()", "William Beckley ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 143707, "title": "In the Beginning: David and Goliath", "original_title": "In the Beginning: David and Goliath", "slug_title": "in-the-beginning-david-and-goliath", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

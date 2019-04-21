@@ -1,0 +1,1 @@
+{"tmdb_id": 458471, "title": "Brat Academy", "original_title": "Brat Academy", "slug_title": "brat-academy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpyJ8v9HwvfgCQ8VCyw9yjV0TB8.jpg", "actors": [], "comments": [], "recommandations_id": []}

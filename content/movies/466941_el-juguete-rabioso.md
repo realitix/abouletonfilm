@@ -1,0 +1,1 @@
+{"tmdb_id": 466941, "title": "El Juguete Rabioso", "original_title": "El Juguete Rabioso", "slug_title": "el-juguete-rabioso", "date": "1984-10-11", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uGMYtmXzOwtTPmBlq3nV0tPysv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 448980, "title": "Araca - O Samba em Pessoa", "original_title": "Araca - O Samba em Pessoa", "slug_title": "araca-o-samba-em-pessoa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

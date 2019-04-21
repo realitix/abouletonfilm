@@ -1,0 +1,1 @@
+{"tmdb_id": 110717, "title": "Grandpa Friendly's Workshop", "original_title": "Grandpa Friendly's Workshop", "slug_title": "grandpa-friendly-s-workshop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iq1p9eLajbWxL8A5zlktNrtCuFx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 45647, "title": "Melali: The Drifter Sessions", "original_title": "Melali: The Drifter Sessions", "slug_title": "melali-the-drifter-sessions", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8n6EOjMIFx57aD3xY1vMTuk04aI.jpg", "actors": [], "comments": [], "recommandations_id": []}

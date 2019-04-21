@@ -1,0 +1,1 @@
+{"tmdb_id": 357460, "title": "Cesaria Evora - Live d' Amor", "original_title": "Cesaria Evora - Live d' Amor", "slug_title": "cesaria-evora-live-d-amor", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1JhrB2pIpmlwDH5ztJLv4qUu2y.jpg", "actors": [], "comments": [], "recommandations_id": []}

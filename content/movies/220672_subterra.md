@@ -1,0 +1,1 @@
+{"tmdb_id": 220672, "title": "Subterra", "original_title": "Subterra", "slug_title": "subterra", "date": "2003-10-02", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/91o7n68VsbOcPA2KX00mhBXefme.jpg", "actors": ["Francisco Reyes ()", "Paulina G\u00e1lvez ()"], "comments": [], "recommandations_id": []}

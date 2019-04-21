@@ -1,0 +1,1 @@
+{"tmdb_id": 236918, "title": "Lulu's Indoor Outing", "original_title": "Lulu's Indoor Outing", "slug_title": "lulu-s-indoor-outing", "date": "1944-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

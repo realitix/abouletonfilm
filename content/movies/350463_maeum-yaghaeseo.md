@@ -1,0 +1,1 @@
+{"tmdb_id": 350463, "title": "\ub9c8\uc74c \uc57d\ud574\uc11c", "original_title": "\ub9c8\uc74c \uc57d\ud574\uc11c", "slug_title": "maeum-yaghaeseo", "date": "1980-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

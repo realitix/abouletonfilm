@@ -1,0 +1,1 @@
+{"tmdb_id": 511485, "title": "Ernie's Idea", "original_title": "Ernie's Idea", "slug_title": "ernie-s-idea", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfon2eO0igsI4w3DkHxMDgGIGrM.jpg", "actors": [], "comments": [], "recommandations_id": []}

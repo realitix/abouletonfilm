@@ -1,0 +1,1 @@
+{"tmdb_id": 351427, "title": "The Seven Giants", "original_title": "The Seven Giants", "slug_title": "the-seven-giants", "date": "2013-01-01", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stefan Glowacz (Stefan Glowacz)"], "comments": [], "recommandations_id": []}

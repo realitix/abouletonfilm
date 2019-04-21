@@ -1,0 +1,1 @@
+{"tmdb_id": 199513, "title": "La danza del fuego", "original_title": "La danza del fuego", "slug_title": "la-danza-del-fuego", "date": "1949-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdeqvw5fbtoLUmZlruQ3FCOg8o2.jpg", "actors": [], "comments": [], "recommandations_id": []}

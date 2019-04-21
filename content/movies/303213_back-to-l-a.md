@@ -1,0 +1,1 @@
+{"tmdb_id": 303213, "title": "Back to L.A.", "original_title": "Back to L.A.", "slug_title": "back-to-l-a", "date": "2014-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

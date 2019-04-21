@@ -1,0 +1,1 @@
+{"tmdb_id": 366151, "title": "Rokto Pipasha (The Vampire)", "original_title": "Rokto Pipasha (The Vampire)", "slug_title": "rokto-pipasha-the-vampire", "date": "2007-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

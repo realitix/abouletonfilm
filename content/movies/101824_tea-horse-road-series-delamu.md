@@ -1,0 +1,1 @@
+{"tmdb_id": 101824, "title": "Tea-Horse Road Series: Delamu", "original_title": "Cha ma gu dao xi lie", "slug_title": "tea-horse-road-series-delamu", "date": "2004-04-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/20epTdZTJomfJUXnZQH9FhSbZLx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520412, "title": "Killjoy Was Here", "original_title": "Killjoy Was Here", "slug_title": "killjoy-was-here", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

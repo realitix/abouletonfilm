@@ -1,0 +1,1 @@
+{"tmdb_id": 236566, "title": "Sneak, Snoop and Snitch in Triple Trouble", "original_title": "Sneak, Snoop and Snitch in Triple Trouble", "slug_title": "sneak-snoop-and-snitch-in-triple-trouble", "date": "1941-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

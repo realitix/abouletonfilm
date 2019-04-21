@@ -1,0 +1,1 @@
+{"tmdb_id": 347122, "title": "Anomalous Humanite", "original_title": "Anomalous Humanite", "slug_title": "anomalous-humanite", "date": "2004-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

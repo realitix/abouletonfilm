@@ -1,0 +1,1 @@
+{"tmdb_id": 444656, "title": "Samurai Kids", "original_title": "\u6c34\u306e\u65c5\u4eba\uff0d\u4f8dKIDS\uff0d", "slug_title": "samurai-kids", "date": "1993-07-17", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikDzRbRWSUWbmSBZV4eH7nGVBjc.jpg", "actors": [], "comments": [], "recommandations_id": []}

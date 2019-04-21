@@ -1,0 +1,1 @@
+{"tmdb_id": 351244, "title": "AndoridMovieApp", "original_title": "AndoridMovieApp", "slug_title": "andoridmovieapp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

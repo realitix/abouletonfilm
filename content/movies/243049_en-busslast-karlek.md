@@ -1,0 +1,1 @@
+{"tmdb_id": 243049, "title": "En busslast k\u00e4rlek", "original_title": "En busslast k\u00e4rlek", "slug_title": "en-busslast-karlek", "date": "2010-01-01", "genre": "T\u00e9l\u00e9film", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xaI9yL9YVLvpD72qBGkQnqFWf4d.jpg", "actors": [], "comments": [], "recommandations_id": []}

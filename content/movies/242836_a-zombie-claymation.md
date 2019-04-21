@@ -1,0 +1,1 @@
+{"tmdb_id": 242836, "title": "A Zombie Claymation", "original_title": "A Zombie Claymation", "slug_title": "a-zombie-claymation", "date": "2011-05-15", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kiWLBwUpZu7XDcKlxBDw062AHT8.jpg", "actors": [], "comments": [], "recommandations_id": []}

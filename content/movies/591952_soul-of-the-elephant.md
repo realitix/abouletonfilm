@@ -1,0 +1,1 @@
+{"tmdb_id": 591952, "title": "Soul of the elephant", "original_title": "Soul of the elephant", "slug_title": "soul-of-the-elephant", "date": "2015-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beverly Joubert (Herself - Narrator)", "Dereck Joubert (Himself - Narrator)"], "comments": [], "recommandations_id": []}

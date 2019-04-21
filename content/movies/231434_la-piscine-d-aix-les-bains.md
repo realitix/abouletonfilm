@@ -1,0 +1,1 @@
+{"tmdb_id": 231434, "title": "La Piscine d'Aix-les-Bains", "original_title": "La Piscine d'Aix-les-Bains", "slug_title": "la-piscine-d-aix-les-bains", "date": "1899-10-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

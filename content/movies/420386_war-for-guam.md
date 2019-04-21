@@ -1,0 +1,1 @@
+{"tmdb_id": 420386, "title": "War for Guam", "original_title": "War for Guam", "slug_title": "war-for-guam", "date": "2015-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tl3fwyeO6T5rlaF4mNsj8PKx2zw.jpg", "actors": ["Chaske Spencer (Narrator)"], "comments": [], "recommandations_id": []}

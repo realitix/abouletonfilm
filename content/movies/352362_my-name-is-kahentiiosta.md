@@ -1,0 +1,1 @@
+{"tmdb_id": 352362, "title": "My Name Is Kahentiiosta", "original_title": "My Name Is Kahentiiosta", "slug_title": "my-name-is-kahentiiosta", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trANGappl5BtskJGNjXtbWrn1eV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304040, "title": "The Curse of Micah Rood", "original_title": "The Curse of Micah Rood", "slug_title": "the-curse-of-micah-rood", "date": "2014-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

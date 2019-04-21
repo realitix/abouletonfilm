@@ -1,0 +1,1 @@
+{"tmdb_id": 147877, "title": "A Film About Coffee", "original_title": "A Film About Coffee", "slug_title": "a-film-about-coffee", "date": "2014-11-24", "genre": "Documentaire", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5pdQEWTM6TJacLy4ip88UVCm3F.jpg", "actors": [], "comments": [], "recommandations_id": []}

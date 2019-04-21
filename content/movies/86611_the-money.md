@@ -1,0 +1,1 @@
+{"tmdb_id": 86611, "title": "The Money", "original_title": "The Money", "slug_title": "the-money", "date": "1958-03-09", "genre": "Thriller", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uZEyDOR4WJZCKNQsNFOfmktwkZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

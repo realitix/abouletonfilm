@@ -1,0 +1,1 @@
+{"tmdb_id": 343929, "title": "The other side", "original_title": "The other side", "slug_title": "the-other-side", "date": "2013-10-02", "genre": "Fantastique / Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cristina Casta\u00f1o (Mam\u00e1)", "Pedro Pablo Isla (Pap\u00e1)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525379, "title": "Mint Tea", "original_title": "Le th\u00e9 \u00e0 la menthe", "slug_title": "mint-tea", "date": "1984-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejJ9PaZwkQMtqza34bv1aDYJvrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

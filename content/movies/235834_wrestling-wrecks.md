@@ -1,0 +1,1 @@
+{"tmdb_id": 235834, "title": "Wrestling Wrecks", "original_title": "Wrestling Wrecks", "slug_title": "wrestling-wrecks", "date": "1953-07-19", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trUhJy45RFZGBDmj6PsWsBYVzTY.jpg", "actors": [], "comments": [], "recommandations_id": []}

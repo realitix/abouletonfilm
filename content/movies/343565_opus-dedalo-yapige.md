@@ -1,0 +1,1 @@
+{"tmdb_id": 343565, "title": "Opus De\u0301dalo: Ya\u0301pige", "original_title": "Opus De\u0301dalo: Ya\u0301pige", "slug_title": "opus-dedalo-yapige", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wIitdLdyW3m5OUMymrSjZ98qJdP.jpg", "actors": [], "comments": [], "recommandations_id": []}

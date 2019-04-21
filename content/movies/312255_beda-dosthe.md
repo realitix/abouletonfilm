@@ -1,0 +1,1 @@
+{"tmdb_id": 312255, "title": "Beda Dosthe", "original_title": "Beda Dosthe", "slug_title": "beda-dosthe", "date": "2006-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

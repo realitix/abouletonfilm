@@ -1,0 +1,1 @@
+{"tmdb_id": 542080, "title": "Elvis \u201968 Comeback Special", "original_title": "Elvis \u201968 Comeback Special", "slug_title": "elvis-68-comeback-special", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUEo6nBnLnowZ23lveAoyF1WXuJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

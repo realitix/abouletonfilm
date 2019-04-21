@@ -1,0 +1,1 @@
+{"tmdb_id": 163212, "title": "The Pirates of Buban", "original_title": "Buban No Kaizoku", "slug_title": "the-pirates-of-buban", "date": "1972-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sh\u014dhei Imamura (Himself)"], "comments": [], "recommandations_id": []}

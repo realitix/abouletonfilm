@@ -1,0 +1,1 @@
+{"tmdb_id": 367533, "title": "The Case of the Ghostly Rider", "original_title": "The Case of the Ghostly Rider", "slug_title": "the-case-of-the-ghostly-rider", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

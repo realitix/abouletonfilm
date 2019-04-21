@@ -1,0 +1,1 @@
+{"tmdb_id": 477351, "title": "SMART: The Documentary", "original_title": "SMART: The Documentary", "slug_title": "smart-the-documentary", "date": "2016-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ah6Lg8u6xfxO0E3UY6tUNXe1fi.jpg", "actors": [], "comments": [], "recommandations_id": []}

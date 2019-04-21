@@ -1,0 +1,1 @@
+{"tmdb_id": 551344, "title": "Sarayashiki: The Ghost Residence in Banshu", "original_title": "\u64ad\u5dde\u76bf\u5c4b\u6577", "slug_title": "sarayashiki-the-ghost-residence-in-banshu", "date": "1929-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

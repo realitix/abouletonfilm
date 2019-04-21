@@ -1,0 +1,1 @@
+{"tmdb_id": 235561, "title": "Lighthouse Mouse", "original_title": "Lighthouse Mouse", "slug_title": "lighthouse-mouse", "date": "1955-03-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeOUJ9Wo6NMrjrl0VXLCuQYNgBg.jpg", "actors": [], "comments": [], "recommandations_id": []}

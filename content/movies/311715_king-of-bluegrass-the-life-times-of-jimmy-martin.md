@@ -1,0 +1,1 @@
+{"tmdb_id": 311715, "title": "King of Bluegrass: The Life & Times of Jimmy Martin", "original_title": "King of Bluegrass: The Life & Times of Jimmy Martin", "slug_title": "king-of-bluegrass-the-life-times-of-jimmy-martin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 254062, "title": "Sex Change Hospital", "original_title": "Sex Change Hospital", "slug_title": "sex-change-hospital", "date": "2008-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 172288, "title": "The Boy Who Was A King", "original_title": "The Boy Who Was A King", "slug_title": "the-boy-who-was-a-king", "date": "2011-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4mOgWHQaqzTRlT8JiyvWcge4rc.jpg", "actors": [], "comments": [], "recommandations_id": []}

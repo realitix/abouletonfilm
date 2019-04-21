@@ -1,0 +1,1 @@
+{"tmdb_id": 331674, "title": "The Infidels", "original_title": "al-Kufrun", "slug_title": "the-infidels", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

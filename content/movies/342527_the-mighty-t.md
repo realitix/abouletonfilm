@@ -1,0 +1,1 @@
+{"tmdb_id": 342527, "title": "The Mighty T", "original_title": "The Mighty T", "slug_title": "the-mighty-t", "date": "2013-07-16", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zsK659wNoo6nRho2POK1BkVZcUw.jpg", "actors": ["Joel McHale (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 308512, "title": "Baseball's Greatest Rivalries", "original_title": "Baseball's Greatest Rivalries", "slug_title": "baseball-s-greatest-rivalries", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

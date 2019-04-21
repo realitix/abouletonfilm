@@ -1,0 +1,1 @@
+{"tmdb_id": 68950, "title": "David - He Trusted in God", "original_title": "David - He Trusted in God", "slug_title": "david-he-trusted-in-god", "date": "1997-01-01", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEsyZD2MDXemKMQkvtmPvMktf1a.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 526249, "title": "The Professional Killer", "original_title": "\u0649 \u0642\u0627\u062a\u0644 \u062d\u0631\u0641\u0648\u0649", "slug_title": "the-professional-killer", "date": "2017-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()"], "comments": [], "recommandations_id": []}

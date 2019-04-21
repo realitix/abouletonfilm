@@ -1,0 +1,1 @@
+{"tmdb_id": 107718, "title": "Der Ring des Nibelungen", "original_title": "Der Ring des Nibelungen", "slug_title": "der-ring-des-nibelungen", "date": "1980-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rPTW0Pa1FC9V4pLQQEvQuwtE4HW.jpg", "actors": [], "comments": [], "recommandations_id": []}

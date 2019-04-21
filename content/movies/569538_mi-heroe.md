@@ -1,0 +1,1 @@
+{"tmdb_id": 569538, "title": "Mi h\u00e9roe", "original_title": "Mi h\u00e9roe", "slug_title": "mi-heroe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ang\u00e9lica Mar\u00eda ()", "Dacia Gonz\u00e1lez ()", "Julio Alem\u00e1n ()"], "comments": [], "recommandations_id": []}

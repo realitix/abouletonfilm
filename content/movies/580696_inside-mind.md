@@ -1,0 +1,1 @@
+{"tmdb_id": 580696, "title": "Inside Mind", "original_title": "\u5fc3\u306e\u4e2d", "slug_title": "inside-mind", "date": "1999-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5d5jELZy2OCAwqc2pvEtDwJgvu.jpg", "actors": ["Kimihiko Abe ()", "Itsuhaku Kawamura ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307579, "title": "Pattanatthil Bhootham", "original_title": "Pattanatthil Bhootham", "slug_title": "pattanatthil-bhootham", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337810, "title": "Bad Boy Billy", "original_title": "Bad Boy Billy", "slug_title": "bad-boy-billy", "date": "1915-05-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385166, "title": "Liminal Minimal (I & II)", "original_title": "Liminal Minimal (I & II)", "slug_title": "liminal-minimal-i-ii", "date": "1977-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xtZS0ZRnScZI1qOFRuoveyW9aaa.jpg", "actors": [], "comments": [], "recommandations_id": []}

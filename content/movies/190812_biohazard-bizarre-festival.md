@@ -1,0 +1,1 @@
+{"tmdb_id": 190812, "title": "Biohazard: Bizarre Festival", "original_title": "Biohazard: Bizarre Festival", "slug_title": "biohazard-bizarre-festival", "date": "1999-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

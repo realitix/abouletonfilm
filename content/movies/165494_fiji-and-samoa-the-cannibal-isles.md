@@ -1,0 +1,1 @@
+{"tmdb_id": 165494, "title": "Fiji and Samoa, the Cannibal Isles", "original_title": "Fiji and Samoa, the Cannibal Isles", "slug_title": "fiji-and-samoa-the-cannibal-isles", "date": "1933-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

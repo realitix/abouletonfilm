@@ -1,0 +1,1 @@
+{"tmdb_id": 316538, "title": "Fizzicle Fizzle", "original_title": "Fizzicle Fizzle", "slug_title": "fizzicle-fizzle", "date": "1964-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

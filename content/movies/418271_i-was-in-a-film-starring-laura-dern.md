@@ -1,0 +1,1 @@
+{"tmdb_id": 418271, "title": "I Was in a Film Starring Laura Dern", "original_title": "I Was in a Film Starring Laura Dern", "slug_title": "i-was-in-a-film-starring-laura-dern", "date": "1995-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

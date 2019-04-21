@@ -1,0 +1,1 @@
+{"tmdb_id": 361694, "title": "5 Postcards from Capital Cities", "original_title": "5 Postcards from Capital Cities", "slug_title": "5-postcards-from-capital-cities", "date": "1967-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

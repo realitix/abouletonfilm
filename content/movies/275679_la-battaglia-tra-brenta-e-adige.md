@@ -1,0 +1,1 @@
+{"tmdb_id": 275679, "title": "La battaglia tra Brenta e Adige", "original_title": "La battaglia tra Brenta e Adige", "slug_title": "la-battaglia-tra-brenta-e-adige", "date": "1916-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

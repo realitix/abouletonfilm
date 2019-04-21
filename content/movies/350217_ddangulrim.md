@@ -1,0 +1,1 @@
+{"tmdb_id": 350217, "title": "\ub545\uc6b8\ub9bc", "original_title": "\ub545\uc6b8\ub9bc", "slug_title": "ddangulrim", "date": "1980-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

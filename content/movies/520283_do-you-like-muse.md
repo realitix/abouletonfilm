@@ -1,0 +1,1 @@
+{"tmdb_id": 520283, "title": "Do you like Muse?", "original_title": "Do you like Muse?", "slug_title": "do-you-like-muse", "date": "2017-01-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWQR2qu23xNTf50WWmBfQaiGnv0.jpg", "actors": [], "comments": [], "recommandations_id": []}

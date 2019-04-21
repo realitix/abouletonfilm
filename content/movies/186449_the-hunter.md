@@ -1,0 +1,1 @@
+{"tmdb_id": 186449, "title": "The Hunter", "original_title": "The Hunter", "slug_title": "the-hunter", "date": "1931-10-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

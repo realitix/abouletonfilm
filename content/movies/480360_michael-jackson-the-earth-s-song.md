@@ -1,0 +1,1 @@
+{"tmdb_id": 480360, "title": "Michael Jackson: The Earth's Song", "original_title": "Michael Jackson: The Earth's Song", "slug_title": "michael-jackson-the-earth-s-song", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyMYXkc3uRMF7auyfxnjBhTWYzR.jpg", "actors": [], "comments": [], "recommandations_id": []}

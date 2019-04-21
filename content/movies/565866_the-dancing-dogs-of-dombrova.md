@@ -1,0 +1,1 @@
+{"tmdb_id": 565866, "title": "The Dancing Dogs of Dombrova", "original_title": "The Dancing Dogs of Dombrova", "slug_title": "the-dancing-dogs-of-dombrova", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

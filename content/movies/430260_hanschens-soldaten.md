@@ -1,0 +1,1 @@
+{"tmdb_id": 430260, "title": "H\u00e4nschens Soldaten", "original_title": "H\u00e4nschens Soldaten", "slug_title": "hanschens-soldaten", "date": "1912-01-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

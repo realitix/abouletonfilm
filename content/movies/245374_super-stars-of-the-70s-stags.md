@@ -1,0 +1,1 @@
+{"tmdb_id": 245374, "title": "Super-Stars Of The 70s Stags", "original_title": "Super-Stars Of The 70s Stags", "slug_title": "super-stars-of-the-70s-stags", "date": "2006-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

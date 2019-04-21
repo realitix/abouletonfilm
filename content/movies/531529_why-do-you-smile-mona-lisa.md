@@ -1,0 +1,1 @@
+{"tmdb_id": 531529, "title": "Why Do You Smile, Mona Lisa?", "original_title": "Pro\u010d se usm\u00edv\u00e1\u0161, Mono Liso?", "slug_title": "why-do-you-smile-mona-lisa", "date": "1966-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

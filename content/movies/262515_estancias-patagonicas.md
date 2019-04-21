@@ -1,0 +1,1 @@
+{"tmdb_id": 262515, "title": "Estancias Patag\u00f3nicas", "original_title": "Estancias Patag\u00f3nicas", "slug_title": "estancias-patagonicas", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

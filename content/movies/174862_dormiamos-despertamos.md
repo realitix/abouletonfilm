@@ -1,0 +1,1 @@
+{"tmdb_id": 174862, "title": "Dorm\u00edamos, Despertamos", "original_title": "Dorm\u00edamos, Despertamos", "slug_title": "dormiamos-despertamos", "date": "2013-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYUUFAgTZrjTNQUdAJdcNeYf1ow.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581966, "title": "Strangulation", "original_title": "Strangulation", "slug_title": "strangulation", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFBzsNyDqjVKDxI3zdeeJeSnONd.jpg", "actors": [], "comments": [], "recommandations_id": []}

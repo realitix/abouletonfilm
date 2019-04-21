@@ -1,0 +1,1 @@
+{"tmdb_id": 484618, "title": "The Pits", "original_title": "The Pits", "slug_title": "the-pits", "date": "2017-08-03", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

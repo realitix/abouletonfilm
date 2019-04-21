@@ -1,0 +1,1 @@
+{"tmdb_id": 545465, "title": "Yzal\u00fa - Rap, feminismo e negritude", "original_title": "Yzal\u00fa - Rap, feminismo e negritude", "slug_title": "yzalu-rap-feminismo-e-negritude", "date": "2018-08-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

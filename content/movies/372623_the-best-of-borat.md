@@ -1,0 +1,1 @@
+{"tmdb_id": 372623, "title": "The Best of Borat", "original_title": "The Best of Borat", "slug_title": "the-best-of-borat", "date": "2001-01-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTxjQgcWe01DZDHjcZ3I9bgCa0u.jpg", "actors": ["Sacha Baron Cohen (Borat)"], "comments": [], "recommandations_id": []}

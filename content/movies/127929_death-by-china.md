@@ -1,0 +1,1 @@
+{"tmdb_id": 127929, "title": "Death By China", "original_title": "Death By China", "slug_title": "death-by-china", "date": "2012-08-17", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iEpxf282cpUUfx38EaBD7ICkVcC.jpg", "actors": [], "comments": [], "recommandations_id": []}

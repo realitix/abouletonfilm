@@ -1,0 +1,1 @@
+{"tmdb_id": 244482, "title": "Lang Lang: The Third Dimension at Berghain", "original_title": "Lang Lang: The Third Dimension at Berghain", "slug_title": "lang-lang-the-third-dimension-at-berghain", "date": "2010-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

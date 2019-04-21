@@ -1,0 +1,1 @@
+{"tmdb_id": 309173, "title": "Bobby Slayton: Born to Be Bobby", "original_title": "Bobby Slayton: Born to Be Bobby", "slug_title": "bobby-slayton-born-to-be-bobby", "date": "2010-03-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

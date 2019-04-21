@@ -1,0 +1,1 @@
+{"tmdb_id": 452641, "title": "Danger Diva", "original_title": "Danger Diva", "slug_title": "danger-diva", "date": "2017-04-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klxPxapGtw89MT6rdgFNcfi62X6.jpg", "actors": ["Molly Sides (Devi Danger)"], "comments": [], "recommandations_id": []}

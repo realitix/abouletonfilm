@@ -1,0 +1,1 @@
+{"tmdb_id": 550214, "title": "Amazing Stories", "original_title": "Amazing Stories", "slug_title": "amazing-stories", "date": "1983-03-24", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGfBv1ANyJRqOv8cc7EBpCkWlzS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 339704, "title": "VC BareKnuckle 1", "original_title": "VC BareKnuckle 1", "slug_title": "vc-bareknuckle-1", "date": "2015-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

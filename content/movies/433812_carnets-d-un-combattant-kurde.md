@@ -1,0 +1,1 @@
+{"tmdb_id": 433812, "title": "Carnets d'un combattant kurde", "original_title": "Carnets d'un combattant kurde", "slug_title": "carnets-d-un-combattant-kurde", "date": "2006-03-11", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

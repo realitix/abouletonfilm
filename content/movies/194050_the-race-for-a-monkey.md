@@ -1,0 +1,1 @@
+{"tmdb_id": 194050, "title": "The Race for a Monkey", "original_title": "La corsa alla scimmia", "slug_title": "the-race-for-a-monkey", "date": "1909-11-16", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVKHcWHQmg8Yzz9xH9oaSA7ovD1.jpg", "actors": [], "comments": [], "recommandations_id": []}

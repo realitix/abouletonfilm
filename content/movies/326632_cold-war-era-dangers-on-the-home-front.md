@@ -1,0 +1,1 @@
+{"tmdb_id": 326632, "title": "Cold War Era Dangers On The Home Front", "original_title": "Cold War Era Dangers On The Home Front", "slug_title": "cold-war-era-dangers-on-the-home-front", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574433, "title": "Mugshots: P. Diddy", "original_title": "Mugshots: P. Diddy", "slug_title": "mugshots-p-diddy", "date": "", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

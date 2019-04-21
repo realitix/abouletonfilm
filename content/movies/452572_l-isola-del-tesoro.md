@@ -1,0 +1,1 @@
+{"tmdb_id": 452572, "title": "L'isola del tesoro", "original_title": "L'isola del tesoro", "slug_title": "l-isola-del-tesoro", "date": "1987-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZ9H2msN6GgHPcfmfLaDralZM3a.jpg", "actors": [], "comments": [], "recommandations_id": []}

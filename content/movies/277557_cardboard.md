@@ -1,0 +1,1 @@
+{"tmdb_id": 277557, "title": "Cardboard", "original_title": "Cardboard", "slug_title": "cardboard", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wofj5SKNraA8N2AHxji1SZjSRw7.jpg", "actors": [], "comments": [], "recommandations_id": []}

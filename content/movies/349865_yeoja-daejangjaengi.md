@@ -1,0 +1,1 @@
+{"tmdb_id": 349865, "title": "\uc5ec\uc790 \ub300\uc7a5\uc7c1\uc774", "original_title": "\uc5ec\uc790 \ub300\uc7a5\uc7c1\uc774", "slug_title": "yeoja-daejangjaengi", "date": "1983-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

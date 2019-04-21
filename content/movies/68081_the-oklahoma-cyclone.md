@@ -1,0 +1,1 @@
+{"tmdb_id": 68081, "title": "The Oklahoma Cyclone", "original_title": "The Oklahoma Cyclone", "slug_title": "the-oklahoma-cyclone", "date": "1930-08-08", "genre": "Action / Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bWPNgEYflOisMzATaovcTlMLuBG.jpg", "actors": ["Bob Steele ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294523, "title": "HENDRIX ON HENDRIX", "original_title": "HENDRIX ON HENDRIX", "slug_title": "hendrix-on-hendrix", "date": "2013-07-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

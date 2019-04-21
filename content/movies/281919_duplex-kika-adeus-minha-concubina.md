@@ -1,0 +1,1 @@
+{"tmdb_id": 281919, "title": "Duplex: Kika / Adeus Minha Concubina", "original_title": "Duplex: Kika / Adeus Minha Concubina", "slug_title": "duplex-kika-adeus-minha-concubina", "date": "1993-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

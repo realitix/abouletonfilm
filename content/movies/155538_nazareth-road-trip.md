@@ -1,0 +1,1 @@
+{"tmdb_id": 155538, "title": "Nazareth: Road Trip", "original_title": "Nazareth: Road Trip", "slug_title": "nazareth-road-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1biQnw7b5I9nY30R6iolo5ZY5IB.jpg", "actors": [], "comments": [], "recommandations_id": []}

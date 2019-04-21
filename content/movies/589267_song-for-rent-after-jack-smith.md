@@ -1,0 +1,1 @@
+{"tmdb_id": 589267, "title": "Song for Rent, After Jack Smith", "original_title": "Song for Rent, After Jack Smith", "slug_title": "song-for-rent-after-jack-smith", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73P417GrRjtjA0mKe5FYu3Qe1km.jpg", "actors": [], "comments": [], "recommandations_id": []}

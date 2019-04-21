@@ -1,0 +1,1 @@
+{"tmdb_id": 345055, "title": "Apotheosis", "original_title": "Apotheosis", "slug_title": "apotheosis", "date": "1972-03-31", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icdXuXTeVJR5MQJu7McQRD65OVh.jpg", "actors": [], "comments": [], "recommandations_id": []}

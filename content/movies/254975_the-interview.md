@@ -1,0 +1,1 @@
+{"tmdb_id": 254975, "title": "The Interview", "original_title": "Die Bewerbung", "slug_title": "the-interview", "date": "1997-02-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xiLoEnFrA8ukmRYll2TSS6sl0YY.jpg", "actors": [], "comments": [], "recommandations_id": []}

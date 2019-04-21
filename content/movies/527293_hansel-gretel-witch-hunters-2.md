@@ -1,0 +1,1 @@
+{"tmdb_id": 527293, "title": "Hansel & Gretel: Witch Hunters 2", "original_title": "Hansel & Gretel: Witch Hunters 2", "slug_title": "hansel-gretel-witch-hunters-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremy Renner (Hansel)", "Gemma Arterton (Gretel)"], "comments": [], "recommandations_id": []}

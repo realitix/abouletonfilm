@@ -1,0 +1,1 @@
+{"tmdb_id": 349465, "title": "\ubbf8\uc544\ub9ac \ud14d\uc0ac\uc2a4 2", "original_title": "\ubbf8\uc544\ub9ac \ud14d\uc0ac\uc2a4 2", "slug_title": "miari-tegsaseu-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 86187, "title": "Racer Legend", "original_title": "Racer Legend", "slug_title": "racer-legend", "date": "2011-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/htzwW405Tsq86nDtUVsckFByfL7.jpg", "actors": ["Shawn Dou (Ye Haocheng)", "Wang Bo-Chieh (Wu Jiale)"], "comments": [], "recommandations_id": []}

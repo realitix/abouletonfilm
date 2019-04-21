@@ -1,0 +1,1 @@
+{"tmdb_id": 351174, "title": "A Battle Royal", "original_title": "A Battle Royal", "slug_title": "a-battle-royal", "date": "1936-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

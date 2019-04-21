@@ -1,0 +1,1 @@
+{"tmdb_id": 418539, "title": "He Who Eats Children", "original_title": "He Who Eats Children", "slug_title": "he-who-eats-children", "date": "2016-02-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecJyjajqotD1UyHcR393spTCmvf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561005, "title": "Susis Schicht", "original_title": "Susis Schicht", "slug_title": "susis-schicht", "date": "1979-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awymlbnwsBUfLFfHPqdqd77BqFd.jpg", "actors": [], "comments": [], "recommandations_id": []}

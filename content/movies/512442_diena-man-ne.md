@@ -1,0 +1,1 @@
+{"tmdb_id": 512442, "title": "Diena man ne", "original_title": "Diena man ne", "slug_title": "diena-man-ne", "date": "2018-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

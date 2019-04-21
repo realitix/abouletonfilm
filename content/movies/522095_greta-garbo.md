@@ -1,0 +1,1 @@
+{"tmdb_id": 522095, "title": "Greta Garbo", "original_title": "Greta Garbo", "slug_title": "greta-garbo", "date": "2015-10-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfjYniflOHyM3mUTcs6t3Izfqad.jpg", "actors": ["Caterina Silva ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 582878, "title": "Mano de obra", "original_title": "Mano de obra", "slug_title": "mano-de-obra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Horacio Celestino ()", "Luis Alberti ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 515315, "title": "Turbo Kid 2", "original_title": "Turbo Kid 2", "slug_title": "turbo-kid-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Munro Chambers (The Kid)"], "comments": [], "recommandations_id": []}

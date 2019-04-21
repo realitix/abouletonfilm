@@ -1,0 +1,1 @@
+{"tmdb_id": 195137, "title": "Fisherman's Luck", "original_title": "Fisherman's Luck", "slug_title": "fisherman-s-luck", "date": "1897-09-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

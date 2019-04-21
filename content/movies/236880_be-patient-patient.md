@@ -1,0 +1,1 @@
+{"tmdb_id": 236880, "title": "Be Patient, Patient", "original_title": "Be Patient, Patient", "slug_title": "be-patient-patient", "date": "1944-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

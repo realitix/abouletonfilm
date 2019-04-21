@@ -1,0 +1,1 @@
+{"tmdb_id": 70932, "title": "Insurrei\u00e7\u00e3o", "original_title": "Insurrei\u00e7\u00e3o", "slug_title": "insurreicao", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gjndXntPcxhhHY1h5ISJsTBCWZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313156, "title": "Asia: America: Live in the USA", "original_title": "Asia: America: Live in the USA", "slug_title": "asia-america-live-in-the-usa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

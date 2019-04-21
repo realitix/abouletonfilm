@@ -1,0 +1,1 @@
+{"tmdb_id": 527884, "title": "Teddy Boy", "original_title": "Teddy Boy", "slug_title": "teddy-boy", "date": "2015-05-30", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wpGKwPZOlEpVxx8XcAW4Ng25Y9.jpg", "actors": [], "comments": [], "recommandations_id": []}

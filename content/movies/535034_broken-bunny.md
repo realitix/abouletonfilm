@@ -1,0 +1,1 @@
+{"tmdb_id": 535034, "title": "Broken Bunny", "original_title": "Broken Bunny", "slug_title": "broken-bunny", "date": "2018-06-23", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vanessa Przada (Sam)", "Bracken Hanke (Katie)", "Ashley Wood (Nicole)"], "comments": [], "recommandations_id": []}

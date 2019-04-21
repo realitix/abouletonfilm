@@ -1,0 +1,1 @@
+{"tmdb_id": 82980, "title": "The Bloody Fists", "original_title": "Dang kou tan", "slug_title": "the-bloody-fists", "date": "1972-05-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3oUEj43bKKUqj1iWlx0l3HnSt5.jpg", "actors": [], "comments": [], "recommandations_id": []}

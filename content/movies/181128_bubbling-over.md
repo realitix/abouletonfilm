@@ -1,0 +1,1 @@
+{"tmdb_id": 181128, "title": "Bubbling Over", "original_title": "Bubbling Over", "slug_title": "bubbling-over", "date": "1934-04-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slLroyPpFy920mhbY71dRQFGYhb.jpg", "actors": ["Ethel Waters ()"], "comments": [], "recommandations_id": []}

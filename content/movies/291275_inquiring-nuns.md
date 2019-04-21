@@ -1,0 +1,1 @@
+{"tmdb_id": 291275, "title": "Inquiring Nuns", "original_title": "Inquiring Nuns", "slug_title": "inquiring-nuns", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXDEwdQ4hQfja2O9hRy5izZg26b.jpg", "actors": [], "comments": [], "recommandations_id": []}

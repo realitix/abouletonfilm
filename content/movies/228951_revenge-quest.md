@@ -1,0 +1,1 @@
+{"tmdb_id": 228951, "title": "Revenge Quest", "original_title": "Revenge Quest", "slug_title": "revenge-quest", "date": "1995-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Gluhak (Rick Castle)"], "comments": [], "recommandations_id": []}

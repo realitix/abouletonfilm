@@ -1,0 +1,1 @@
+{"tmdb_id": 273978, "title": "Murge: The Cold War Front", "original_title": "Murge: The Cold War Front", "slug_title": "murge-the-cold-war-front", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

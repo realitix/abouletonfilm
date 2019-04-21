@@ -1,0 +1,1 @@
+{"tmdb_id": 382920, "title": "Body & Soul: Diana & Kathy", "original_title": "Body & Soul: Diana & Kathy", "slug_title": "body-soul-diana-kathy", "date": "2007-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ce7fFpAWDNeMjJ2UxChWN6upl8b.jpg", "actors": [], "comments": [], "recommandations_id": []}

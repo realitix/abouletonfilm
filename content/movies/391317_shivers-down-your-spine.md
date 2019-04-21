@@ -1,0 +1,1 @@
+{"tmdb_id": 391317, "title": "Shivers Down Your Spine", "original_title": "Shivers Down Your Spine", "slug_title": "shivers-down-your-spine", "date": "2015-10-17", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Lp3bwjK6RKrHFwYnJH8oCMq1Wa.jpg", "actors": [], "comments": [], "recommandations_id": []}

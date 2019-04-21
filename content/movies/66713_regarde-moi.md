@@ -1,0 +1,1 @@
+{"tmdb_id": 66713, "title": "Regarde-moi", "original_title": "Regarde-moi", "slug_title": "regarde-moi", "date": "2003-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["B\u00e9atrice Kordon ()", "Sylvie Ballyot ()"], "comments": [], "recommandations_id": []}

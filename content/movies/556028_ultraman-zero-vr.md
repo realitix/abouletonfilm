@@ -1,0 +1,1 @@
+{"tmdb_id": 556028, "title": "Ultraman Zero VR", "original_title": "Ultraman Zero VR", "slug_title": "ultraman-zero-vr", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

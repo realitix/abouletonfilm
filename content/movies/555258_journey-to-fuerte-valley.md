@@ -1,0 +1,1 @@
+{"tmdb_id": 555258, "title": "Journey to Fuerte Valley", "original_title": "Journey to Fuerte Valley", "slug_title": "journey-to-fuerte-valley", "date": "2012-02-15", "genre": "Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

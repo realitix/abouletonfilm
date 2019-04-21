@@ -1,0 +1,1 @@
+{"tmdb_id": 114109, "title": "The Michael Schenker Story", "original_title": "The Michael Schenker Story", "slug_title": "the-michael-schenker-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGCBD1hIYc5Z7MWDXXcZtKx2VyT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539374, "title": "Couturier de mon coeur", "original_title": "Couturier de mon coeur", "slug_title": "couturier-de-mon-coeur", "date": "1936-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

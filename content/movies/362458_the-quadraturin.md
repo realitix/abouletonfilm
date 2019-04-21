@@ -1,0 +1,1 @@
+{"tmdb_id": 362458, "title": "The Quadraturin", "original_title": "The Quadraturin", "slug_title": "the-quadraturin", "date": "2010-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CM2SXuAFY2ROZpalogZVmu0UwP.jpg", "actors": [], "comments": [], "recommandations_id": []}

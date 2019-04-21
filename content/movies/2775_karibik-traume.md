@@ -1,0 +1,1 @@
+{"tmdb_id": 2775, "title": "Karibik Tr\u00e4ume", "original_title": "Karibik Tr\u00e4ume", "slug_title": "karibik-traume", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fcrgen Gries (Voice)"], "comments": [], "recommandations_id": []}

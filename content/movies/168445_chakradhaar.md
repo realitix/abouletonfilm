@@ -1,0 +1,1 @@
+{"tmdb_id": 168445, "title": "Chakradhaar", "original_title": "Chakradhaar", "slug_title": "chakradhaar", "date": "2012-01-01", "genre": "Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oZP4sujpQyVFEYICnkM9shp5RWX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 216437, "title": "The Militant", "original_title": "El lugar del hijo", "slug_title": "the-militant", "date": "2013-09-10", "genre": "Drame / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u70R75B9iv18VsT34sWzIzgvMwu.jpg", "actors": ["Felipe Dieste ()"], "comments": [], "recommandations_id": []}

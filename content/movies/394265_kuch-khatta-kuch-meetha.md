@@ -1,0 +1,1 @@
+{"tmdb_id": 394265, "title": "Kuch Khatta Kuch Meetha", "original_title": "Kuch Khatta Kuch Meetha", "slug_title": "kuch-khatta-kuch-meetha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

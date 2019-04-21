@@ -1,0 +1,1 @@
+{"tmdb_id": 323940, "title": "Schmitz Katze", "original_title": "Schmitz Katze", "slug_title": "schmitz-katze", "date": "2008-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6aePoT8HUEvOsaY3nDSimsKeU6v.jpg", "actors": ["Ralf Schmitz (himself)"], "comments": [], "recommandations_id": []}

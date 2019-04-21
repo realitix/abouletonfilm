@@ -1,0 +1,1 @@
+{"tmdb_id": 590023, "title": "Hex Boyfriend", "original_title": "Hex Boyfriend", "slug_title": "hex-boyfriend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

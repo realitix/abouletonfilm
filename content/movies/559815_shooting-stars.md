@@ -1,0 +1,1 @@
+{"tmdb_id": 559815, "title": "Shooting Stars", "original_title": "Shooting Stars", "slug_title": "shooting-stars", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andreas Meyer (Himself)", "Willy-Harry Grieser (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 242975, "title": "World of Kids", "original_title": "World of Kids", "slug_title": "world-of-kids", "date": "1951-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

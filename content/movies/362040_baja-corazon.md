@@ -1,0 +1,1 @@
+{"tmdb_id": 362040, "title": "Baja coraz\u00f3n", "original_title": "Baja coraz\u00f3n", "slug_title": "baja-corazon", "date": "1992-09-28", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ic\u00edar Bolla\u00edn ()", "Chus Guti\u00e9rrez ()"], "comments": [], "recommandations_id": [150034, 135137, 41528]}

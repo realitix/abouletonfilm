@@ -1,0 +1,1 @@
+{"tmdb_id": 539147, "title": "Culture et industrie du tabac en Malaisie", "original_title": "Culture et industrie du tabac en Malaisie", "slug_title": "culture-et-industrie-du-tabac-en-malaisie", "date": "1909-07-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

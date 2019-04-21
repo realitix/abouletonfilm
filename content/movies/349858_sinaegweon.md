@@ -1,0 +1,1 @@
+{"tmdb_id": 349858, "title": "\uc2e0\uc560\uad8c", "original_title": "\uc2e0\uc560\uad8c", "slug_title": "sinaegweon", "date": "1982-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

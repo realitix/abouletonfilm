@@ -1,0 +1,1 @@
+{"tmdb_id": 342543, "title": "Querido maestro", "original_title": "Querido maestro", "slug_title": "querido-maestro", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emma Su\u00e1rez (Elena)", "Imanol Arias (Mario)"], "comments": [], "recommandations_id": []}

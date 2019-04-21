@@ -1,0 +1,1 @@
+{"tmdb_id": 305886, "title": "Lagna Patrike", "original_title": "Lagna Patrike", "slug_title": "lagna-patrike", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

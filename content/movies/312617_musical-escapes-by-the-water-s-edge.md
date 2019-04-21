@@ -1,0 +1,1 @@
+{"tmdb_id": 312617, "title": "Musical Escapes: By the Water's Edge", "original_title": "Musical Escapes: By the Water's Edge", "slug_title": "musical-escapes-by-the-water-s-edge", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

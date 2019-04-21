@@ -1,0 +1,1 @@
+{"tmdb_id": 358543, "title": "Lament of the Lamb", "original_title": "Hitsuji no Uta", "slug_title": "lament-of-the-lamb", "date": "2002-03-30", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xA2ZIRYyUTT2Gdepco36skOEbXd.jpg", "actors": [], "comments": [], "recommandations_id": [88651, 141996, 352037, 126853]}

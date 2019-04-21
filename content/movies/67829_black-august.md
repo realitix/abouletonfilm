@@ -1,0 +1,1 @@
+{"tmdb_id": 67829, "title": "Black August", "original_title": "Black August", "slug_title": "black-august", "date": "2007-08-01", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drmmbHisaDbg2i4utqUFfyQAnpK.jpg", "actors": ["Gary Dourdan (George Jackson)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 452265, "title": "Ein's Summer Vacation", "original_title": "Cowboy Bebop: Ein no Natsuyasumi", "slug_title": "ein-s-summer-vacation", "date": "2012-12-21", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HWUNwQHqAKmo9Et53rMlP6QhWy.jpg", "actors": [], "comments": [], "recommandations_id": []}

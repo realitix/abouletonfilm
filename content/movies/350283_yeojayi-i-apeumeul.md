@@ -1,0 +1,1 @@
+{"tmdb_id": 350283, "title": "\uc5ec\uc790\uc758 \uc774 \uc544\ud514\uc744", "original_title": "\uc5ec\uc790\uc758 \uc774 \uc544\ud514\uc744", "slug_title": "yeojayi-i-apeumeul", "date": "1980-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

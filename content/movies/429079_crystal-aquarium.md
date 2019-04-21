@@ -1,0 +1,1 @@
+{"tmdb_id": 429079, "title": "Crystal Aquarium", "original_title": "Crystal Aquarium", "slug_title": "crystal-aquarium", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1drRtoSfcasB5MdFmACmMqgJ3TF.jpg", "actors": [], "comments": [], "recommandations_id": []}

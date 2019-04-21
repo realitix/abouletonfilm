@@ -1,0 +1,1 @@
+{"tmdb_id": 499279, "title": "Penguin: Bird of Prey", "original_title": "Penguin: Bird of Prey", "slug_title": "penguin-bird-of-prey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzFwIqB3nYEV7rxg1OgbF9qSKgr.jpg", "actors": [], "comments": [], "recommandations_id": []}

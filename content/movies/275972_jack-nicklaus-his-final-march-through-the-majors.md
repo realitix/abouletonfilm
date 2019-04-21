@@ -1,0 +1,1 @@
+{"tmdb_id": 275972, "title": "Jack Nicklaus: His Final March Through the Majors", "original_title": "Jack Nicklaus: His Final March Through the Majors", "slug_title": "jack-nicklaus-his-final-march-through-the-majors", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

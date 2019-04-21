@@ -1,0 +1,1 @@
+{"tmdb_id": 370384, "title": "Good Boy", "original_title": "Good Boy", "slug_title": "good-boy", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Lzzb3hkelgQhtJMsbqpVy3vy2x.jpg", "actors": ["Simon King (Alex)"], "comments": [], "recommandations_id": []}

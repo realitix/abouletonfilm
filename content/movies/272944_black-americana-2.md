@@ -1,0 +1,1 @@
+{"tmdb_id": 272944, "title": "Black Americana 2", "original_title": "Black Americana 2", "slug_title": "black-americana-2", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

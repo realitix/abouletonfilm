@@ -1,0 +1,1 @@
+{"tmdb_id": 271661, "title": "Who the Hell's Bonnie and Clyde?", "original_title": "Who the Hell's Bonnie and Clyde?", "slug_title": "who-the-hell-s-bonnie-and-clyde", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

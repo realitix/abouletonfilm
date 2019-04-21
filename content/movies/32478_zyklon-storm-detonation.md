@@ -1,0 +1,1 @@
+{"tmdb_id": 32478, "title": "Zyklon: Storm Detonation", "original_title": "Zyklon: Storm Detonation", "slug_title": "zyklon-storm-detonation", "date": "2006-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nk9kj1ATWs05ZjES5J8eYjC7zlY.jpg", "actors": [], "comments": [], "recommandations_id": []}

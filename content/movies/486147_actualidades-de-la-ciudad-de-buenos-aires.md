@@ -1,0 +1,1 @@
+{"tmdb_id": 486147, "title": "Actualidades de la Ciudad de Buenos Aires", "original_title": "Actualidades de la Ciudad de Buenos Aires", "slug_title": "actualidades-de-la-ciudad-de-buenos-aires", "date": "1923-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 325368, "title": "The  Ultimate Guide - Dogs", "original_title": "The  Ultimate Guide - Dogs", "slug_title": "the-ultimate-guide-dogs", "date": "1997-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98eWxtaRiEjNwUH2BDtZCD30OB6.jpg", "actors": [], "comments": [], "recommandations_id": []}

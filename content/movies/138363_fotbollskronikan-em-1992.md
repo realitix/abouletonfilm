@@ -1,0 +1,1 @@
+{"tmdb_id": 138363, "title": "Fotbollskr\u00f6nikan EM 1992", "original_title": "Fotbollskr\u00f6nikan EM 1992", "slug_title": "fotbollskronikan-em-1992", "date": "1992-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRKDs9ZiefAMrqEtPovNs3xaPHy.jpg", "actors": [], "comments": [], "recommandations_id": []}

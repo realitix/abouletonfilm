@@ -1,0 +1,1 @@
+{"tmdb_id": 369797, "title": "VH1 Divas Celebrates Soul", "original_title": "VH1 Divas Celebrates Soul", "slug_title": "vh1-divas-celebrates-soul", "date": "2011-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Boyz II Men (Themselves - Performers)"], "comments": [], "recommandations_id": []}

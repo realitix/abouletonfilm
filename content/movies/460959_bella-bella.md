@@ -1,0 +1,1 @@
+{"tmdb_id": 460959, "title": "Bella Bella", "original_title": "Bella Bella", "slug_title": "bella-bella", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sgHbiXVpNu57QLEuPXP6Ycrrvq.jpg", "actors": [], "comments": [], "recommandations_id": []}

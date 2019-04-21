@@ -1,0 +1,1 @@
+{"tmdb_id": 277731, "title": "B2K: Introducing B2K", "original_title": "B2K: Introducing B2K", "slug_title": "b2k-introducing-b2k", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 232979, "title": "Kawaita hada", "original_title": "Kawaita hada", "slug_title": "kawaita-hada", "date": "1964-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umpq1fXrLlXc6uP4VdZW4g6VjAo.jpg", "actors": ["Yukiko Mitsui ()", "Koji Satomi ()"], "comments": [], "recommandations_id": []}

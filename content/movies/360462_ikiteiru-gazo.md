@@ -1,0 +1,1 @@
+{"tmdb_id": 360462, "title": "Ikiteiru gaz\u00f4", "original_title": "Ikiteiru gaz\u00f4", "slug_title": "ikiteiru-gazo", "date": "1948-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

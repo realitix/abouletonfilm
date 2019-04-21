@@ -1,0 +1,1 @@
+{"tmdb_id": 314695, "title": "Champions Forever: The Latin Legends", "original_title": "Champions Forever: The Latin Legends", "slug_title": "champions-forever-the-latin-legends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

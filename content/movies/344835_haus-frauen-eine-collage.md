@@ -1,0 +1,1 @@
+{"tmdb_id": 344835, "title": "Haus.Frauen - Eine Collage", "original_title": "Haus.Frauen - Eine Collage", "slug_title": "haus-frauen-eine-collage", "date": "1982-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4h6yf4XgLLxmd89iTJ5arUwI9y.jpg", "actors": ["Karin Boyd ()"], "comments": [], "recommandations_id": []}

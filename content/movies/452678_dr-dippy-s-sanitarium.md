@@ -1,0 +1,1 @@
+{"tmdb_id": 452678, "title": "Dr. Dippy's Sanitarium", "original_title": "Dr. Dippy's Sanitarium", "slug_title": "dr-dippy-s-sanitarium", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

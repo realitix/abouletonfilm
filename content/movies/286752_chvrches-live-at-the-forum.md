@@ -1,0 +1,1 @@
+{"tmdb_id": 286752, "title": "CHVRCHES: Live at the Forum", "original_title": "CHVRCHES: Live at the Forum", "slug_title": "chvrches-live-at-the-forum", "date": "2014-03-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kOu1WFLTDay969go6hDgyKTW2PU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 558266, "title": "Chuang Tapestry", "original_title": "\u5e45\u50ee\u9526", "slug_title": "chuang-tapestry", "date": "1959-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/39YyJFR2j9LV3j2H8Dc2Fn3Q2p.jpg", "actors": [], "comments": [], "recommandations_id": []}

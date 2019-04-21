@@ -1,0 +1,1 @@
+{"tmdb_id": 539364, "title": "Satanic Panic", "original_title": "Satanic Panic", "slug_title": "satanic-panic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

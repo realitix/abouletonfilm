@@ -1,0 +1,1 @@
+{"tmdb_id": 428461, "title": "Going Dark: The Final Days of Film Projection", "original_title": "Going Dark: The Final Days of Film Projection", "slug_title": "going-dark-the-final-days-of-film-projection", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

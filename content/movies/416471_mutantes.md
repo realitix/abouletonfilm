@@ -1,0 +1,1 @@
+{"tmdb_id": 416471, "title": "Mutantes", "original_title": "Mutantes", "slug_title": "mutantes", "date": "1998-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georgina Borri ()", "Yamil Collazo ()", "Marco Antonio Abad ()", "Adri\u00e1n Garc\u00eda ()", "Awilda Sterling ()"], "comments": [], "recommandations_id": []}

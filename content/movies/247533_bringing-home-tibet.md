@@ -1,0 +1,1 @@
+{"tmdb_id": 247533, "title": "Bringing Home Tibet", "original_title": "Bringing Home Tibet", "slug_title": "bringing-home-tibet", "date": "2014-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsMFRSNTDO7h7gESpuIjT9GXZ25.jpg", "actors": [], "comments": [], "recommandations_id": []}

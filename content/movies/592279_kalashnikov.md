@@ -1,0 +1,1 @@
+{"tmdb_id": 592279, "title": "\u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u043e\u0432", "original_title": "\u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u043e\u0432", "slug_title": "kalashnikov", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

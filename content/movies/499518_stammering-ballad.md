@@ -1,0 +1,1 @@
+{"tmdb_id": 499518, "title": "Stammering Ballad", "original_title": "Stammering Ballad", "slug_title": "stammering-ballad", "date": "2018-01-29", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zndiGjaLdRnHKDwZE8PpiRRky0J.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 72072, "title": "Ninja Warrior", "original_title": "Ninja Warrior", "slug_title": "ninja-warrior", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xK8JqrZ1OuHKGa1iIQQqDjnsuW0.jpg", "actors": [], "comments": [], "recommandations_id": []}

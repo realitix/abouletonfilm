@@ -1,0 +1,1 @@
+{"tmdb_id": 146752, "title": "W.S.S. Thriftettes", "original_title": "W.S.S. Thriftettes", "slug_title": "w-s-s-thriftettes", "date": "1918-03-07", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ce4ZiQMYofI8d8STHTKLMssCkmN.jpg", "actors": [], "comments": [], "recommandations_id": []}

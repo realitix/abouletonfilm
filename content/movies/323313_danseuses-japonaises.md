@@ -1,0 +1,1 @@
+{"tmdb_id": 323313, "title": "Danseuses japonaises", "original_title": "Danseuses japonaises", "slug_title": "danseuses-japonaises", "date": "1898-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

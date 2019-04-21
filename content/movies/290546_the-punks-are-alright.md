@@ -1,0 +1,1 @@
+{"tmdb_id": 290546, "title": "The Punks Are Alright", "original_title": "The Punks Are Alright", "slug_title": "the-punks-are-alright", "date": "2006-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJIerbLbQIICQ1Vw8GqRaZF3KBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

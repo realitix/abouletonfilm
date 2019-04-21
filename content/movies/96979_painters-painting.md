@@ -1,0 +1,1 @@
+{"tmdb_id": 96979, "title": "Painters Painting", "original_title": "Painters Painting", "slug_title": "painters-painting", "date": "1973-03-19", "genre": "Documentaire / Histoire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFxq0k2QLrQ1IjBOfFtCs8H4nT3.jpg", "actors": [], "comments": [], "recommandations_id": []}

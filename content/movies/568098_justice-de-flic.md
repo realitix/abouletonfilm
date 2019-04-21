@@ -1,0 +1,1 @@
+{"tmdb_id": 568098, "title": "Justice de flic", "original_title": "Justice de flic", "slug_title": "justice-de-flic", "date": "1986-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohTRH5vQ5D5iH7fVgl3xZz0eXou.jpg", "actors": [], "comments": [], "recommandations_id": []}

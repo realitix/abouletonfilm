@@ -1,0 +1,1 @@
+{"tmdb_id": 363251, "title": "Abie Kabibble Outwitted His Rival", "original_title": "Abie Kabibble Outwitted His Rival", "slug_title": "abie-kabibble-outwitted-his-rival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468586, "title": "Inerrancy and the Undermining of Biblical Authority", "original_title": "Inerrancy and the Undermining of Biblical Authority", "slug_title": "inerrancy-and-the-undermining-of-biblical-authority", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

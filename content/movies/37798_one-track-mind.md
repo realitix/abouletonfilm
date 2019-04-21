@@ -1,0 +1,1 @@
+{"tmdb_id": 37798, "title": "One Track Mind", "original_title": "One Track Mind", "slug_title": "one-track-mind", "date": "", "genre": "Action / Aventure / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rrr9SRKre838nUFkfiW4aWTfOzd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332138, "title": "Chronicle of the End of the World", "original_title": "Chronicle of the End of the World", "slug_title": "chronicle-of-the-end-of-the-world", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

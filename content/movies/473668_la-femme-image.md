@@ -1,0 +1,1 @@
+{"tmdb_id": 473668, "title": "La Femme Image", "original_title": "La Femme Image", "slug_title": "la-femme-image", "date": "1960-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7udEQukNtPAG7WyUPhNPwq7qPh.jpg", "actors": [], "comments": [], "recommandations_id": []}

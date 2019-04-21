@@ -1,0 +1,1 @@
+{"tmdb_id": 412247, "title": "Crossing Borders", "original_title": "Rit over de grens", "slug_title": "crossing-borders", "date": "1994-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDYdpXM7VVDF8gI6rEve8p4O0hI.jpg", "actors": [], "comments": [], "recommandations_id": []}

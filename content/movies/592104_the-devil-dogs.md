@@ -1,0 +1,1 @@
+{"tmdb_id": 592104, "title": "The Devil Dogs", "original_title": "The Devil Dogs", "slug_title": "the-devil-dogs", "date": "2017-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYfeIXzwU3vQCUFCMCFG92CtMyX.jpg", "actors": [], "comments": [], "recommandations_id": []}

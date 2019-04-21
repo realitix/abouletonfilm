@@ -1,0 +1,1 @@
+{"tmdb_id": 393390, "title": "Geistertrio", "original_title": "Geistertrio", "slug_title": "geistertrio", "date": "1977-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3WpxkYv4gpkxUvtaIkTvDSSRE4z.jpg", "actors": ["Klaus Herm ()", "Irmgard F\u00f6rst ()"], "comments": [], "recommandations_id": []}

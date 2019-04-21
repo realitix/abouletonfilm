@@ -1,0 +1,1 @@
+{"tmdb_id": 245148, "title": "Loveria", "original_title": "Loveria", "slug_title": "loveria", "date": "2013-02-15", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQu2WQk2D4IAsxLKRLVGbsjaMpz.jpg", "actors": ["Puja Bose ()", "Soham Chakraborty ()", "Rajatabha Dutta ()"], "comments": [], "recommandations_id": []}

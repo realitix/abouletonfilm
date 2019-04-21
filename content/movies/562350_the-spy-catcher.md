@@ -1,0 +1,1 @@
+{"tmdb_id": 562350, "title": "The Spy Catcher", "original_title": "Suspense au deuxi\u00e8me bureau", "slug_title": "the-spy-catcher", "date": "1960-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/41yR4t4c2X5CYMQnfreWJPVvj4q.jpg", "actors": [], "comments": [], "recommandations_id": []}

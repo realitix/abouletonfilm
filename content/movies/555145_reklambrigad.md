@@ -1,0 +1,1 @@
+{"tmdb_id": 555145, "title": "Rekl\u00e1mbrig\u00e1d", "original_title": "Rekl\u00e1mbrig\u00e1d", "slug_title": "reklambrigad", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

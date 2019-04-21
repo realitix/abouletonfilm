@@ -1,0 +1,1 @@
+{"tmdb_id": 201049, "title": "Tokyo Giants", "original_title": "Tokyo Giants", "slug_title": "tokyo-giants", "date": "2013-01-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aAsPM5wL9rFF3A5alGz3ZjykUZm.jpg", "actors": [], "comments": [], "recommandations_id": []}

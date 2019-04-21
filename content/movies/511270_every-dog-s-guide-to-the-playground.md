@@ -1,0 +1,1 @@
+{"tmdb_id": 511270, "title": "Every Dog's Guide to the Playground", "original_title": "Every Dog's Guide to the Playground", "slug_title": "every-dog-s-guide-to-the-playground", "date": "1991-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

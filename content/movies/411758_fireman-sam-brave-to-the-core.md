@@ -1,0 +1,1 @@
+{"tmdb_id": 411758, "title": "Fireman Sam - Brave to the core", "original_title": "Fireman Sam - Brave to the core", "slug_title": "fireman-sam-brave-to-the-core", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

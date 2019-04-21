@@ -1,0 +1,1 @@
+{"tmdb_id": 415973, "title": "A Bout in 30 Years", "original_title": "30\ub144\ub9cc\uc758 \ub300\uacb0", "slug_title": "a-bout-in-30-years", "date": "1971-02-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jL6rKo1kEFJaaCmncZP30VL2HW0.jpg", "actors": [], "comments": [], "recommandations_id": []}

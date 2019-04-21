@@ -1,0 +1,1 @@
+{"tmdb_id": 574240, "title": "YouShoot: Diamond Dallas Page", "original_title": "YouShoot: Diamond Dallas Page", "slug_title": "youshoot-diamond-dallas-page", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Dallas Page (Himself)"], "comments": [], "recommandations_id": []}

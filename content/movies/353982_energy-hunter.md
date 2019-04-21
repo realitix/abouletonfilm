@@ -1,0 +1,1 @@
+{"tmdb_id": 353982, "title": "Energy Hunter", "original_title": "Energy Hunter", "slug_title": "energy-hunter", "date": "2005-11-29", "genre": "Science-Fiction / Aventure", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hub Martin (Truk)", "Ismael Fritschi (Assistant)"], "comments": [], "recommandations_id": []}

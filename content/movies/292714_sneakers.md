@@ -1,0 +1,1 @@
+{"tmdb_id": 292714, "title": "Sneakers", "original_title": "Sniikkerit", "slug_title": "sneakers", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

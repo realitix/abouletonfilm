@@ -1,0 +1,1 @@
+{"tmdb_id": 56536, "title": "Golub: Late Works Are the Catastrophes", "original_title": "Golub: Late Works Are the Catastrophes", "slug_title": "golub-late-works-are-the-catastrophes", "date": "2004-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

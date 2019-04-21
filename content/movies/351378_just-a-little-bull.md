@@ -1,0 +1,1 @@
+{"tmdb_id": 351378, "title": "Just a Little Bull", "original_title": "Just a Little Bull", "slug_title": "just-a-little-bull", "date": "1940-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

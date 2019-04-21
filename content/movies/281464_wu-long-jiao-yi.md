@@ -1,0 +1,1 @@
+{"tmdb_id": 281464, "title": "Wu long jiao yi", "original_title": "Wu long jiao yi", "slug_title": "wu-long-jiao-yi", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1OAUfDX79ihRrWKAmNzif4AQbn.jpg", "actors": [], "comments": [], "recommandations_id": []}

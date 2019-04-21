@@ -1,0 +1,1 @@
+{"tmdb_id": 116082, "title": "The Yoke's On Me", "original_title": "The Yoke's On Me", "slug_title": "the-yoke-s-on-me", "date": "1944-05-26", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

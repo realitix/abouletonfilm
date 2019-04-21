@@ -1,0 +1,1 @@
+{"tmdb_id": 85560, "title": "Scarlet Fry's Junkfood Horror fest", "original_title": "Scarlet Fry's Junkfood Horror fest", "slug_title": "scarlet-fry-s-junkfood-horror-fest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

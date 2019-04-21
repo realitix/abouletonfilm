@@ -1,0 +1,1 @@
+{"tmdb_id": 205195, "title": "Bird-Brain Bird Dog", "original_title": "Bird-Brain Bird Dog", "slug_title": "bird-brain-bird-dog", "date": "1954-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2d3Es3GeG3aqydPfTm1Pc2Ly13V.jpg", "actors": [], "comments": [], "recommandations_id": []}

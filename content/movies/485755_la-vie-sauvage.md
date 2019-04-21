@@ -1,0 +1,1 @@
+{"tmdb_id": 485755, "title": "La vie sauvage", "original_title": "La vie sauvage", "slug_title": "la-vie-sauvage", "date": "2017-01-01", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0O6neHd9JWKVDcvMks2bbK6lNr.jpg", "actors": [], "comments": [], "recommandations_id": []}

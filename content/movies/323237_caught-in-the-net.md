@@ -1,0 +1,1 @@
+{"tmdb_id": 323237, "title": "Caught in the Net", "original_title": "Caught in the Net", "slug_title": "caught-in-the-net", "date": "1960-03-31", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremy Bulloch ()", "Joanna Horlock ()", "James Luck ()", "Anthony Parker ()"], "comments": [], "recommandations_id": []}

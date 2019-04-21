@@ -1,0 +1,1 @@
+{"tmdb_id": 278418, "title": "\u2026And Plays Tricks", "original_title": "\u2026Ja teeb trikke", "slug_title": "and-plays-tricks", "date": "1978-01-01", "genre": "Com\u00e9die / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqnVGV3mIigU2I2rGTUT2iGmoN9.jpg", "actors": [], "comments": [], "recommandations_id": []}

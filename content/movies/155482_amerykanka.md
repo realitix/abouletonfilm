@@ -1,0 +1,1 @@
+{"tmdb_id": 155482, "title": "Amerykanka", "original_title": "Amerykanka", "slug_title": "amerykanka", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIPKsBNHGW97zX2ythdwxdAwMGp.jpg", "actors": ["Anna Ciepielewska (Helena Suchecka)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 306962, "title": "YAMAGOLA", "original_title": "YAMAGOLA", "slug_title": "yamagola", "date": "1977-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16jq5vwB6iX5SqCpCRiCPCXLY6m.jpg", "actors": [], "comments": [], "recommandations_id": []}

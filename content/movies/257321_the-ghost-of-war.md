@@ -1,0 +1,1 @@
+{"tmdb_id": 257321, "title": "The Ghost of War", "original_title": "The Ghost of War", "slug_title": "the-ghost-of-war", "date": "2011-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

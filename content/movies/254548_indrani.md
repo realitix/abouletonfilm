@@ -1,0 +1,1 @@
+{"tmdb_id": 254548, "title": "Indr\u0101ni", "original_title": "Indr\u0101ni", "slug_title": "indrani", "date": "1991-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5EPVBbYyZLWXzzKfMRkLIZTd8WV.jpg", "actors": ["Velta L\u012bne (Indr\u0101nu m\u0101te)"], "comments": [], "recommandations_id": []}

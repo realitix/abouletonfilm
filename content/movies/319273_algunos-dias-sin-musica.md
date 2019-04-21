@@ -1,0 +1,1 @@
+{"tmdb_id": 319273, "title": "Algunos D\u00edas sin M\u00fasica", "original_title": "Algunos D\u00edas sin M\u00fasica", "slug_title": "algunos-dias-sin-musica", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZJgxswebmOK27Ae0Wbuh25loRb.jpg", "actors": [], "comments": [], "recommandations_id": []}

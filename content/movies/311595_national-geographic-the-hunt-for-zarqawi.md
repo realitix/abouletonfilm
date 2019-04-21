@@ -1,0 +1,1 @@
+{"tmdb_id": 311595, "title": "National Geographic: The Hunt for Zarqawi", "original_title": "National Geographic: The Hunt for Zarqawi", "slug_title": "national-geographic-the-hunt-for-zarqawi", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

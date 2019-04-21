@@ -1,0 +1,1 @@
+{"tmdb_id": 219225, "title": "Wolverine: Origin", "original_title": "Wolverine: Origin", "slug_title": "wolverine-origin", "date": "2013-07-09", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKY836vUNw4Sc5vt9lfFR6sevkt.jpg", "actors": [], "comments": [], "recommandations_id": []}

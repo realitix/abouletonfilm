@@ -1,0 +1,1 @@
+{"tmdb_id": 273659, "title": "Pop Punk Zombies", "original_title": "Pop Punk Zombies", "slug_title": "pop-punk-zombies", "date": "2011-01-10", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltDd9kYBpEsQNuECcsdQIYCnRn8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311981, "title": "The Life & Legend of Bob Wall", "original_title": "The Life & Legend of Bob Wall", "slug_title": "the-life-legend-of-bob-wall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

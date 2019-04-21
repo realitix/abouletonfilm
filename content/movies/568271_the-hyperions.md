@@ -1,0 +1,1 @@
+{"tmdb_id": 568271, "title": "The Hyperions", "original_title": "The Hyperions", "slug_title": "the-hyperions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8E7UnKmFhCP7iyR3jll3JqwhLYF.jpg", "actors": ["Cary Elwes (Professor Ruckus Mandulbaum)"], "comments": [], "recommandations_id": []}

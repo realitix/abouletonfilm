@@ -1,0 +1,1 @@
+{"tmdb_id": 359669, "title": "Cat under the helm", "original_title": "Cat under the helm", "slug_title": "cat-under-the-helm", "date": "1962-01-01", "genre": "Com\u00e9die / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRdC2Yg1B4GAgTaDW3AsIv4B4Op.jpg", "actors": [], "comments": [], "recommandations_id": []}

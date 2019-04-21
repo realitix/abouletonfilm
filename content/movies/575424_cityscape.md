@@ -1,0 +1,1 @@
+{"tmdb_id": 575424, "title": "Cityscape", "original_title": "Cityscape", "slug_title": "cityscape", "date": "2019-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

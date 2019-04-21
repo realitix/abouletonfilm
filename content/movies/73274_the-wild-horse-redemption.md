@@ -1,0 +1,1 @@
+{"tmdb_id": 73274, "title": "The Wild Horse Redemption", "original_title": "The Wild Horse Redemption", "slug_title": "the-wild-horse-redemption", "date": "2007-09-09", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPCxI4yaq9n35Fat7ggmWsCwtfB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 265260, "title": "Wind Mills", "original_title": "Wind Mills", "slug_title": "wind-mills", "date": "2011-10-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgS8QQwcf8qByEPWfQYQhOrvUrd.jpg", "actors": [], "comments": [], "recommandations_id": []}

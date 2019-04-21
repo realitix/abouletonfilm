@@ -1,0 +1,1 @@
+{"tmdb_id": 389651, "title": "Magyar korridor - Vars\u00f3 1944", "original_title": "Magyar korridor - Vars\u00f3 1944", "slug_title": "magyar-korridor-varso-1944", "date": "2016-03-23", "genre": "Histoire / Documentaire / Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

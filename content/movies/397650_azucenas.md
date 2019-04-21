@@ -1,0 +1,1 @@
+{"tmdb_id": 397650, "title": "Azucenas", "original_title": "Azucenas", "slug_title": "azucenas", "date": "2012-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tvDc0VIqAuUDmhzFLuKBR1KEYFp.jpg", "actors": ["Sa\u00fal D\u00e1vila ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 151038, "title": "Bill Evans  But Beautiful", "original_title": "Bill Evans  But Beautiful", "slug_title": "bill-evans-but-beautiful", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pp87MPrxBXnbwubzPSLBkWZcU1h.jpg", "actors": ["Bill Evans (Piano)"], "comments": [], "recommandations_id": []}

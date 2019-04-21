@@ -1,0 +1,1 @@
+{"tmdb_id": 443321, "title": "Meet the Stars #5: Hollywood Meets the Navy", "original_title": "Meet the Stars #5: Hollywood Meets the Navy", "slug_title": "meet-the-stars-5-hollywood-meets-the-navy", "date": "1941-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

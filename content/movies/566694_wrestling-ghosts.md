@@ -1,0 +1,1 @@
+{"tmdb_id": 566694, "title": "Wrestling Ghosts", "original_title": "Wrestling Ghosts", "slug_title": "wrestling-ghosts", "date": "2018-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxOp3GNlhfst0UvZGquQZVnsPk1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342608, "title": "Meltdown in Chernobyl", "original_title": "Meltdown in Chernobyl", "slug_title": "meltdown-in-chernobyl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2w142prnzvKR1FAYahA8Q2zwVc2.jpg", "actors": [], "comments": [], "recommandations_id": []}

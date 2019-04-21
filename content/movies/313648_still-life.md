@@ -1,0 +1,1 @@
+{"tmdb_id": 313648, "title": "Still Life", "original_title": "Mrtva priroda", "slug_title": "still-life", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

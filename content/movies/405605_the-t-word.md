@@ -1,0 +1,1 @@
+{"tmdb_id": 405605, "title": "The T Word", "original_title": "The T Word", "slug_title": "the-t-word", "date": "2014-10-17", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laverne Cox (Herself)"], "comments": [], "recommandations_id": []}

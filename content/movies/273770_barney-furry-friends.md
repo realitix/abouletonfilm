@@ -1,0 +1,1 @@
+{"tmdb_id": 273770, "title": "Barney: Furry Friends", "original_title": "Barney: Furry Friends", "slug_title": "barney-furry-friends", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lSx5kKJKV0mCKPo2S2TbdqwIKA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

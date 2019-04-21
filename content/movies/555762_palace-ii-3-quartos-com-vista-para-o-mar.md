@@ -1,0 +1,1 @@
+{"tmdb_id": 555762, "title": "Palace II - 3 Quartos com Vista para o Mar", "original_title": "Palace II - 3 Quartos com Vista para o Mar", "slug_title": "palace-ii-3-quartos-com-vista-para-o-mar", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

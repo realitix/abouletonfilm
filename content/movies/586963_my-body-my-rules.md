@@ -1,0 +1,1 @@
+{"tmdb_id": 586963, "title": "My Body My Rules", "original_title": "My Body My Rules", "slug_title": "my-body-my-rules", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

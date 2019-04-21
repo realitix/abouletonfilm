@@ -1,0 +1,1 @@
+{"tmdb_id": 574588, "title": "um dia esse dia ser\u00e1 apenas mais outro dia", "original_title": "um dia esse dia ser\u00e1 apenas mais outro dia", "slug_title": "um-dia-esse-dia-sera-apenas-mais-outro-dia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

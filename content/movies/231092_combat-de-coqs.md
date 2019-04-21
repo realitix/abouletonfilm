@@ -1,0 +1,1 @@
+{"tmdb_id": 231092, "title": "Combat de coqs", "original_title": "Combat de coqs", "slug_title": "combat-de-coqs", "date": "1896-10-29", "genre": "", "score": "4.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [72696]}

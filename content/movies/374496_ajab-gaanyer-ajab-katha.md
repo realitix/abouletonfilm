@@ -1,0 +1,1 @@
+{"tmdb_id": 374496, "title": "Ajab Gaanyer Ajab Katha", "original_title": "Ajab Gaanyer Ajab Katha", "slug_title": "ajab-gaanyer-ajab-katha", "date": "1999-06-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rL6WAlNNzqYkGM7OJ8kfyLx3dRG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 132295, "title": "The Host", "original_title": "The Host", "slug_title": "the-host", "date": "1960-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Y49ukQaXCeTCblMkbgzUPM4BQ8.jpg", "actors": ["Sid Haig (The Fugitive)"], "comments": [], "recommandations_id": []}

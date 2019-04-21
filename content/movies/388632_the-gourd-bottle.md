@@ -1,0 +1,1 @@
+{"tmdb_id": 388632, "title": "The Gourd-Bottle", "original_title": "Hyoutan", "slug_title": "the-gourd-bottle", "date": "1976-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUcuVfTUxqLwF3Xn169VWMICH5x.jpg", "actors": [], "comments": [], "recommandations_id": []}

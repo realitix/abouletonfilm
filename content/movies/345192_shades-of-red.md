@@ -1,0 +1,1 @@
+{"tmdb_id": 345192, "title": "Shades of Red", "original_title": "Shades of Red", "slug_title": "shades-of-red", "date": "1982-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

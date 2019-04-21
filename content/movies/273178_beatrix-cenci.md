@@ -1,0 +1,1 @@
+{"tmdb_id": 273178, "title": "B\u00e9atrix Cenci", "original_title": "B\u00e9atrix Cenci", "slug_title": "beatrix-cenci", "date": "1908-01-01", "genre": "Crime / Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRYgZ3tntc1iObaWPiZavJWesbW.jpg", "actors": [], "comments": [], "recommandations_id": []}

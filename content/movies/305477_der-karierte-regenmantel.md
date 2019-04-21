@@ -1,0 +1,1 @@
+{"tmdb_id": 305477, "title": "Der karierte Regenmantel", "original_title": "Der karierte Regenmantel", "slug_title": "der-karierte-regenmantel", "date": "1917-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eugen Burg ()", "Roda Felsegg ()"], "comments": [], "recommandations_id": []}

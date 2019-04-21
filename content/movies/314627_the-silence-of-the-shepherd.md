@@ -1,0 +1,1 @@
+{"tmdb_id": 314627, "title": "The Silence of the Shepherd", "original_title": "Samt Al Rai", "slug_title": "the-silence-of-the-shepherd", "date": "2014-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

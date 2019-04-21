@@ -1,0 +1,1 @@
+{"tmdb_id": 560234, "title": "Claudia Jennings", "original_title": "Claudia Jennings", "slug_title": "claudia-jennings", "date": "1995-10-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/MofWtP2gpLjs1EgcZKHZ5b9BzF.jpg", "actors": ["Claudia Jennings ()"], "comments": [], "recommandations_id": []}

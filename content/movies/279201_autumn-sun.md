@@ -1,0 +1,1 @@
+{"tmdb_id": 279201, "title": "Autumn Sun", "original_title": "Ashnan arev", "slug_title": "autumn-sun", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anait Gukasyan ()", "Karen Dzhanibekyan ()", "Zh. Tovmasyan ()"], "comments": [], "recommandations_id": []}

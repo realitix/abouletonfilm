@@ -1,0 +1,1 @@
+{"tmdb_id": 243403, "title": "The Conquest of Light", "original_title": "The Conquest of Light", "slug_title": "the-conquest-of-light", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atpETJrqOq4pnMQm1RfFFDABuU8.jpg", "actors": ["Dennis Brennan (Himself)"], "comments": [], "recommandations_id": []}

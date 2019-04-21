@@ -1,0 +1,1 @@
+{"tmdb_id": 275710, "title": "Car of the Future: Engineering for the Environment", "original_title": "Car of the Future: Engineering for the Environment", "slug_title": "car-of-the-future-engineering-for-the-environment", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

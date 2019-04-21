@@ -1,0 +1,1 @@
+{"tmdb_id": 582705, "title": "Kunksmoor ja kapten Trumm", "original_title": "Kunksmoor ja kapten Trumm", "slug_title": "kunksmoor-ja-kapten-trumm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

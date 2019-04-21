@@ -1,0 +1,1 @@
+{"tmdb_id": 311451, "title": "The Great Animation Studios: The Fleischer Studios", "original_title": "The Great Animation Studios: The Fleischer Studios", "slug_title": "the-great-animation-studios-the-fleischer-studios", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

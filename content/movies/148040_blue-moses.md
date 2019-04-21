@@ -1,0 +1,1 @@
+{"tmdb_id": 148040, "title": "Blue Moses", "original_title": "Blue Moses", "slug_title": "blue-moses", "date": "1962-12-31", "genre": "Drame", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytNyOcxZ2nR9tmE0E14TvIkwBcD.jpg", "actors": ["Robert Benson ()"], "comments": [], "recommandations_id": [130838, 128368, 147199, 163066]}

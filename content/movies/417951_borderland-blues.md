@@ -1,0 +1,1 @@
+{"tmdb_id": 417951, "title": "Borderland Blues", "original_title": "Borderland Blues", "slug_title": "borderland-blues", "date": "2017-05-18", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5Mx8QE9pVR3YT5anYaXG6cmpJv.jpg", "actors": [], "comments": [], "recommandations_id": []}

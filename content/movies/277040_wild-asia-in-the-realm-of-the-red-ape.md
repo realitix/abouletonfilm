@@ -1,0 +1,1 @@
+{"tmdb_id": 277040, "title": "Wild Asia: In the Realm of the Red Ape", "original_title": "Wild Asia: In the Realm of the Red Ape", "slug_title": "wild-asia-in-the-realm-of-the-red-ape", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

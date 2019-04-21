@@ -1,0 +1,1 @@
+{"tmdb_id": 379201, "title": "Pink Elephant", "original_title": "Pink Elephant", "slug_title": "pink-elephant", "date": "1975-10-20", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UIrjBuUOsQGLPmknFCgScxeth2.jpg", "actors": [], "comments": [], "recommandations_id": []}

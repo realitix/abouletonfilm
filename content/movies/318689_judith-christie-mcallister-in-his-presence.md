@@ -1,0 +1,1 @@
+{"tmdb_id": 318689, "title": "Judith Christie McAllister: In His Presence", "original_title": "Judith Christie McAllister: In His Presence", "slug_title": "judith-christie-mcallister-in-his-presence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

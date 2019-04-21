@@ -1,0 +1,1 @@
+{"tmdb_id": 409663, "title": "Bored Youth", "original_title": "\u65e0\u804a\u9752\u5e74", "slug_title": "bored-youth", "date": "2000-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ci8Ypdyu3qEWmlvPdihLjqoYYvV.jpg", "actors": [], "comments": [], "recommandations_id": []}

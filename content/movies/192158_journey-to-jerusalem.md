@@ -1,0 +1,1 @@
+{"tmdb_id": 192158, "title": "Journey to Jerusalem", "original_title": "Journey to Jerusalem", "slug_title": "journey-to-jerusalem", "date": "1968-11-17", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99g0maoCH6qXD9TzPbbzE9JYva8.jpg", "actors": [], "comments": [], "recommandations_id": []}

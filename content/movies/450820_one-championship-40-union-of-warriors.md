@@ -1,0 +1,1 @@
+{"tmdb_id": 450820, "title": "ONE Championship 40: Union of Warriors", "original_title": "ONE Championship 40: Union of Warriors", "slug_title": "one-championship-40-union-of-warriors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

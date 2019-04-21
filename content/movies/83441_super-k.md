@@ -1,0 +1,1 @@
+{"tmdb_id": 83441, "title": "Super K", "original_title": "Super K", "slug_title": "super-k", "date": "2011-10-14", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bRRApu043usQS6F9sxoRQGheMJn.jpg", "actors": [], "comments": [], "recommandations_id": [180886, 28867, 62128, 58628]}

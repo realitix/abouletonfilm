@@ -1,0 +1,1 @@
+{"tmdb_id": 32472, "title": "W.A.S.P: The Sting", "original_title": "W.A.S.P: The Sting", "slug_title": "w-a-s-p-the-sting", "date": "2002-04-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7X5u9JJ4L3gh0tt2kwkyTT0FXCU.jpg", "actors": ["Steven Duren (Himself)"], "comments": [], "recommandations_id": []}

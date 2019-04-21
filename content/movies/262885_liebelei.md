@@ -1,0 +1,1 @@
+{"tmdb_id": 262885, "title": "Liebelei", "original_title": "Liebelei", "slug_title": "liebelei", "date": "1913-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

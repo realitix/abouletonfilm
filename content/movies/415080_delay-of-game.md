@@ -1,0 +1,1 @@
+{"tmdb_id": 415080, "title": "Delay of Game", "original_title": "Delay of Game", "slug_title": "delay-of-game", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

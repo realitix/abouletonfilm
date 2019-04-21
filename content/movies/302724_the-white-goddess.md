@@ -1,0 +1,1 @@
+{"tmdb_id": 302724, "title": "The White Goddess", "original_title": "A Deusa Branca", "slug_title": "the-white-goddess", "date": "2014-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5FpgNRwXEEpEqYxGgdSO8wgbcuf.jpg", "actors": [], "comments": [], "recommandations_id": []}

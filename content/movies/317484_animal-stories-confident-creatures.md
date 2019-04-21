@@ -1,0 +1,1 @@
+{"tmdb_id": 317484, "title": "Animal Stories: Confident Creatures", "original_title": "Animal Stories: Confident Creatures", "slug_title": "animal-stories-confident-creatures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 270904, "title": "The Girl and the River", "original_title": "La fille et le fleuve", "slug_title": "the-girl-and-the-river", "date": "2014-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zS0Ek9MN3whkbMbexN1nNsxRj.jpg", "actors": [], "comments": [], "recommandations_id": []}

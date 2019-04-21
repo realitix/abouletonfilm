@@ -1,0 +1,1 @@
+{"tmdb_id": 87482, "title": "The Merciful Buddha", "original_title": "A mi de dao", "slug_title": "the-merciful-buddha", "date": "1979-08-31", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jG9kfULXUv3SfdsYlZ8F643yMNB.jpg", "actors": [], "comments": [], "recommandations_id": []}

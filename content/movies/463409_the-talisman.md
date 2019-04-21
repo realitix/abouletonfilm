@@ -1,0 +1,1 @@
+{"tmdb_id": 463409, "title": "The Talisman", "original_title": "The Talisman", "slug_title": "the-talisman", "date": "1966-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ned Romero (The Indian)"], "comments": [], "recommandations_id": []}

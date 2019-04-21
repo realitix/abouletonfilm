@@ -1,0 +1,1 @@
+{"tmdb_id": 506391, "title": "Bathers", "original_title": "Louomenoi", "slug_title": "bathers", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

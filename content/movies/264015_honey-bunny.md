@@ -1,0 +1,1 @@
+{"tmdb_id": 264015, "title": "Honey Bunny", "original_title": "Honey Bunny", "slug_title": "honey-bunny", "date": "1992-06-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

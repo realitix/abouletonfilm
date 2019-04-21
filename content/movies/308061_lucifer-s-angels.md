@@ -1,0 +1,1 @@
+{"tmdb_id": 308061, "title": "Lucifer's Angels", "original_title": "Lucifer's Angels", "slug_title": "lucifer-s-angels", "date": "2015-02-17", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cqCtI1FhIAa5rdicrmPVOEnFX7w.jpg", "actors": [], "comments": [], "recommandations_id": []}

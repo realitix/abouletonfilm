@@ -1,0 +1,1 @@
+{"tmdb_id": 367962, "title": "Warriors", "original_title": "Warriors", "slug_title": "warriors", "date": "2015-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hB2aarW2unO4ARh2ByaCP4QTpgR.jpg", "actors": [], "comments": [], "recommandations_id": []}

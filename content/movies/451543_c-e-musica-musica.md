@@ -1,0 +1,1 @@
+{"tmdb_id": 451543, "title": "C'\u00e8 Musica & Musica", "original_title": "C'\u00e8 Musica & Musica", "slug_title": "c-e-musica-musica", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRxWAVEF67isxfo3IwRDJgy5mqE.jpg", "actors": ["Luciano Berio ()"], "comments": [], "recommandations_id": []}

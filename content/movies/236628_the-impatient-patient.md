@@ -1,0 +1,1 @@
+{"tmdb_id": 236628, "title": "The Impatient Patient", "original_title": "The Impatient Patient", "slug_title": "the-impatient-patient", "date": "1942-09-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhpyrbpKz10xf1XjniX8SbVKWrg.jpg", "actors": [], "comments": [], "recommandations_id": []}

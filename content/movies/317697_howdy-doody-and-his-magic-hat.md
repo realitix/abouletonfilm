@@ -1,0 +1,1 @@
+{"tmdb_id": 317697, "title": "Howdy Doody and His Magic Hat", "original_title": "Howdy Doody and His Magic Hat", "slug_title": "howdy-doody-and-his-magic-hat", "date": "1954-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

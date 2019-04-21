@@ -1,0 +1,1 @@
+{"tmdb_id": 253522, "title": "Amanecer sobre Espa\u00f1a", "original_title": "Amanecer sobre Espa\u00f1a", "slug_title": "amanecer-sobre-espana", "date": "1938-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafael G\u00f3mez 'El Gallo' (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 35935, "title": "Derrida", "original_title": "Derrida", "slug_title": "derrida", "date": "2002-03-12", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSx2GYgyoyTgGVW2jWmRZdGzucp.jpg", "actors": ["Jacques Derrida (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556879, "title": "my mother", "original_title": "my mother", "slug_title": "my-mother", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ZfHSlMm6fsBySADUbNOFyy5DAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

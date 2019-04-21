@@ -1,0 +1,1 @@
+{"tmdb_id": 201298, "title": "Joe's Apt.", "original_title": "Joe's Apt.", "slug_title": "joe-s-apt", "date": "1992-01-01", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4ifFrTwUW7M66MR6lT0t2oADvC.jpg", "actors": [], "comments": [], "recommandations_id": [50675]}

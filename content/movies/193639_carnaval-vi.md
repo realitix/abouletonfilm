@@ -1,0 +1,1 @@
+{"tmdb_id": 193639, "title": "Carnaval, [VI]", "original_title": "Carnaval, [VI]", "slug_title": "carnaval-vi", "date": "1897-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

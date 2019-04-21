@@ -1,0 +1,1 @@
+{"tmdb_id": 310623, "title": "El Bachaton de Gala", "original_title": "El Bachaton de Gala", "slug_title": "el-bachaton-de-gala", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

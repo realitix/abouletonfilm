@@ -1,0 +1,1 @@
+{"tmdb_id": 388859, "title": "Hannibal", "original_title": "Hannibal", "slug_title": "hannibal", "date": "1972-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

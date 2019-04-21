@@ -1,0 +1,1 @@
+{"tmdb_id": 276104, "title": "Willatuk: The Legend of Seattle's Sea Serpent", "original_title": "Willatuk: The Legend of Seattle's Sea Serpent", "slug_title": "willatuk-the-legend-of-seattle-s-sea-serpent", "date": "2010-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 163580, "title": "The Hollow-Eyed Ghost", "original_title": "Phi Ta Bo", "slug_title": "the-hollow-eyed-ghost", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pojed Kaenpetch ()", "Phochet ()"], "comments": [], "recommandations_id": []}

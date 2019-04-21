@@ -1,0 +1,1 @@
+{"tmdb_id": 315923, "title": "Lid\u00e9 na k\u0159e", "original_title": "Lid\u00e9 na k\u0159e", "slug_title": "lide-na-kre", "date": "1937-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 395285, "title": "Killer's Paradise", "original_title": "Killer's Paradise", "slug_title": "killer-s-paradise", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZeMRKHhN6JisXi0ltRsANjZdK5.jpg", "actors": [], "comments": [], "recommandations_id": []}

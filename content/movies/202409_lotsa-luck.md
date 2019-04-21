@@ -1,0 +1,1 @@
+{"tmdb_id": 202409, "title": "Lotsa Luck", "original_title": "Lotsa Luck", "slug_title": "lotsa-luck", "date": "1968-06-19", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/XpM5SMu5n0o5yOCRSQNAodU5h6.jpg", "actors": [], "comments": [], "recommandations_id": []}

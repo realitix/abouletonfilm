@@ -1,0 +1,1 @@
+{"tmdb_id": 355580, "title": "Teros, sue\u00f1o mundial", "original_title": "Teros, sue\u00f1o mundial", "slug_title": "teros-sueno-mundial", "date": "2015-08-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cpegrT1K74GgMbMtt9RMRDKG8Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

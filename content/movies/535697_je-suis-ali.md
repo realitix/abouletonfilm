@@ -1,0 +1,1 @@
+{"tmdb_id": 535697, "title": "Je Suis Ali", "original_title": "Je Suis Ali", "slug_title": "je-suis-ali", "date": "2018-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kjtrliw6vMGuAvGcpybM3Ogr7N.jpg", "actors": ["Ali B (Cabaretier)"], "comments": [], "recommandations_id": []}

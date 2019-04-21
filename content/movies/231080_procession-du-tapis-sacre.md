@@ -1,0 +1,1 @@
+{"tmdb_id": 231080, "title": "Procession du tapis sacr\u00e9", "original_title": "Procession du tapis sacr\u00e9", "slug_title": "procession-du-tapis-sacre", "date": "1897-10-29", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

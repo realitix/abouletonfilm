@@ -1,0 +1,1 @@
+{"tmdb_id": 544631, "title": "Parallel Imaging", "original_title": "Parallel Imaging", "slug_title": "parallel-imaging", "date": "2003-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 438240, "title": "Vicenta", "original_title": "Vicenta", "slug_title": "vicenta", "date": "2010-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

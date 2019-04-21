@@ -1,0 +1,1 @@
+{"tmdb_id": 295159, "title": "Marinksy on Screen: LA Bayadere", "original_title": "Marinksy on Screen: LA Bayadere", "slug_title": "marinksy-on-screen-la-bayadere", "date": "2014-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDNGn5a2uMyOJJLhUjzu9fv5a3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

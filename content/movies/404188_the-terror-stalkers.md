@@ -1,0 +1,1 @@
+{"tmdb_id": 404188, "title": "The Terror Stalkers", "original_title": "The Terror Stalkers", "slug_title": "the-terror-stalkers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Habermann ()", "Jean Bork ()", "Holger Delfs ()", "Yvonne W\u00f6lke ()"], "comments": [], "recommandations_id": []}

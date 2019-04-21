@@ -1,0 +1,1 @@
+{"tmdb_id": 401472, "title": "Pre-Hibernation News", "original_title": "Pre-Hibernation News", "slug_title": "pre-hibernation-news", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

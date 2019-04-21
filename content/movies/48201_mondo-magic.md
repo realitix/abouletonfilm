@@ -1,0 +1,1 @@
+{"tmdb_id": 48201, "title": "Mondo Magic", "original_title": "Magia nuda", "slug_title": "mondo-magic", "date": "1975-01-24", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmrPRZWZc1ghcJ3gaN475OkuQyT.jpg", "actors": [], "comments": [], "recommandations_id": []}

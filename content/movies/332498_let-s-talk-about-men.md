@@ -1,0 +1,1 @@
+{"tmdb_id": 332498, "title": "Let's Talk About Men", "original_title": "Let's Talk About Men", "slug_title": "let-s-talk-about-men", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

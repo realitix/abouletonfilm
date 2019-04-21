@@ -1,0 +1,1 @@
+{"tmdb_id": 532341, "title": "The Seagull", "original_title": "Pesc\u0103ru\u0219ul", "slug_title": "the-seagull", "date": "2018-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

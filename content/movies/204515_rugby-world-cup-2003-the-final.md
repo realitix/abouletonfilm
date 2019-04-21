@@ -1,0 +1,1 @@
+{"tmdb_id": 204515, "title": "Rugby World Cup 2003 The Final", "original_title": "Rugby World Cup 2003 The Final", "slug_title": "rugby-world-cup-2003-the-final", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

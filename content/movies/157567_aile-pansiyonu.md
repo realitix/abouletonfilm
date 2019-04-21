@@ -1,0 +1,1 @@
+{"tmdb_id": 157567, "title": "Aile Pansiyonu", "original_title": "Aile Pansiyonu", "slug_title": "aile-pansiyonu", "date": "1987-01-20", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

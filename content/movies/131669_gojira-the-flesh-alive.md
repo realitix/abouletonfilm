@@ -1,0 +1,1 @@
+{"tmdb_id": 131669, "title": "Gojira: The Flesh Alive", "original_title": "Gojira: The Flesh Alive", "slug_title": "gojira-the-flesh-alive", "date": "2012-07-31", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j0NuQUpv5gQ9EOHE9e6ezTuAjlC.jpg", "actors": [], "comments": [], "recommandations_id": []}

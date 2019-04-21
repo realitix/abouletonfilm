@@ -1,0 +1,1 @@
+{"tmdb_id": 487856, "title": "Fireworks Revisited", "original_title": "Fireworks Revisited", "slug_title": "fireworks-revisited", "date": "1994-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

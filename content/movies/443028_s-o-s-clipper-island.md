@@ -1,0 +1,1 @@
+{"tmdb_id": 443028, "title": "S.O.S. Clipper Island", "original_title": "S.O.S. Clipper Island", "slug_title": "s-o-s-clipper-island", "date": "1938-08-11", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mala ()"], "comments": [], "recommandations_id": []}

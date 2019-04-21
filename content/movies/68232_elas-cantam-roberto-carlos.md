@@ -1,0 +1,1 @@
+{"tmdb_id": 68232, "title": "Elas Cantam Roberto Carlos", "original_title": "Elas Cantam Roberto Carlos", "slug_title": "elas-cantam-roberto-carlos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKyC0J5vk8D48BaVSZtuJxFXmf8.jpg", "actors": [], "comments": [], "recommandations_id": []}

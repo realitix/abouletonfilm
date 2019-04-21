@@ -1,0 +1,1 @@
+{"tmdb_id": 398984, "title": "El ruise\u00f1or y la rosa", "original_title": "El ruise\u00f1or y la rosa", "slug_title": "el-ruisenor-y-la-rosa", "date": "1997-11-28", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henri Rivas (Mauricio)", "Rafael Vazquez (Gaspar)"], "comments": [], "recommandations_id": []}

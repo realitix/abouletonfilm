@@ -1,0 +1,1 @@
+{"tmdb_id": 191372, "title": "When Bearcat Went Dry", "original_title": "When Bearcat Went Dry", "slug_title": "when-bearcat-went-dry", "date": "1919-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ed Brady (Rattler Webb)", "Lon Chaney (Kindard Powers)"], "comments": [], "recommandations_id": []}

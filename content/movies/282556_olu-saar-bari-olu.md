@@ -1,0 +1,1 @@
+{"tmdb_id": 282556, "title": "Olu Saar Bari Olu", "original_title": "Olu Saar Bari Olu", "slug_title": "olu-saar-bari-olu", "date": "2003-11-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Anu Prabhakar ()", "Balraj ()", "Mohan Shankar ()"], "comments": [], "recommandations_id": []}

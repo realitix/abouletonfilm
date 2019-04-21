@@ -1,0 +1,1 @@
+{"tmdb_id": 375387, "title": "Casey at the Bat", "original_title": "Casey at the Bat", "slug_title": "casey-at-the-bat", "date": "1899-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

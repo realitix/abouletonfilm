@@ -1,0 +1,1 @@
+{"tmdb_id": 394171, "title": "The Darra Dogs", "original_title": "The Darra Dogs", "slug_title": "the-darra-dogs", "date": "1993-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGP3vUiCgMzxd4t0ZNvgv7cmbI7.jpg", "actors": ["Dennis Tupicoff (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389073, "title": "Dio: [2006] Live in Kavarna", "original_title": "Dio: [2006] Live in Kavarna", "slug_title": "dio-2006-live-in-kavarna", "date": "2006-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0TR7COtrqWLcAIQXS3vA4fx5K5.jpg", "actors": [], "comments": [], "recommandations_id": []}

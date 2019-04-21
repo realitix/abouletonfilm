@@ -1,0 +1,1 @@
+{"tmdb_id": 466794, "title": "Degrees of Limitation", "original_title": "Degrees of Limitation", "slug_title": "degrees-of-limitation", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjnXFYOBMiujsZwA9PdpW97nkUG.jpg", "actors": [], "comments": [], "recommandations_id": []}

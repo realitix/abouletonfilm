@@ -1,0 +1,1 @@
+{"tmdb_id": 384088, "title": "Cruisin'", "original_title": "Cruisin'", "slug_title": "cruisin", "date": "1973-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d8fDNPSTBrp5gXI4a5ZSgcmo0LV.jpg", "actors": [], "comments": [], "recommandations_id": []}

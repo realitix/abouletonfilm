@@ -1,0 +1,1 @@
+{"tmdb_id": 32223, "title": "American Chai", "original_title": "American Chai", "slug_title": "american-chai", "date": "2001-01-01", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aalok Mehta (Sureel)", "Sheetal Sheth (Maya)"], "comments": [], "recommandations_id": []}

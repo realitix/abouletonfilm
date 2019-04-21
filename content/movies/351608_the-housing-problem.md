@@ -1,0 +1,1 @@
+{"tmdb_id": 351608, "title": "The Housing Problem", "original_title": "The Housing Problem", "slug_title": "the-housing-problem", "date": "1946-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

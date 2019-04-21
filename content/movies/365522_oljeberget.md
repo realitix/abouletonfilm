@@ -1,0 +1,1 @@
+{"tmdb_id": 365522, "title": "Oljeberget", "original_title": "Oljeberget", "slug_title": "oljeberget", "date": "2006-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

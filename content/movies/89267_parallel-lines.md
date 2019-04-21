@@ -1,0 +1,1 @@
+{"tmdb_id": 89267, "title": "Parallel Lines", "original_title": "Parallel Lines", "slug_title": "parallel-lines", "date": "2004-03-17", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJ2iI7QKBcGs3Rei0yTn6kVC8WF.jpg", "actors": [], "comments": [], "recommandations_id": []}

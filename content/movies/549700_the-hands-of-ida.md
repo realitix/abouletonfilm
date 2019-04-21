@@ -1,0 +1,1 @@
+{"tmdb_id": 549700, "title": "The Hands of Ida", "original_title": "The Hands of Ida", "slug_title": "the-hands-of-ida", "date": "1995-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Anthony (Jason)", "Joyce Krenz (Woman 1)", "Pamela Sinha ()"], "comments": [], "recommandations_id": []}

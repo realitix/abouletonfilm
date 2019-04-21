@@ -1,0 +1,1 @@
+{"tmdb_id": 517848, "title": "Refugium", "original_title": "\u30ea\u30d5\u30b8\u30a6\u30e0", "slug_title": "refugium", "date": "2012-08-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wLysm2I70JRm8xhSiIIEsKWxq7.jpg", "actors": [], "comments": [], "recommandations_id": []}

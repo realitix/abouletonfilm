@@ -1,0 +1,1 @@
+{"tmdb_id": 311932, "title": "On Location with George Kirby", "original_title": "On Location with George Kirby", "slug_title": "on-location-with-george-kirby", "date": "1978-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Kirby (himself)"], "comments": [], "recommandations_id": []}

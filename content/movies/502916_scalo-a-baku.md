@@ -1,0 +1,1 @@
+{"tmdb_id": 502916, "title": "Scalo a Baku", "original_title": "Scalo a Baku", "slug_title": "scalo-a-baku", "date": "2003-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

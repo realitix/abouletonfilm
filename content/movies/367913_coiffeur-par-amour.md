@@ -1,0 +1,1 @@
+{"tmdb_id": 367913, "title": "Coiffeur par amour", "original_title": "Coiffeur par amour", "slug_title": "coiffeur-par-amour", "date": "1915-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder ()"], "comments": [], "recommandations_id": []}

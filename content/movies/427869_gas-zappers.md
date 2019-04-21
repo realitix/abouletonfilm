@@ -1,0 +1,1 @@
+{"tmdb_id": 427869, "title": "Gas Zappers", "original_title": "Gas Zappers", "slug_title": "gas-zappers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUIZJW0UsgtELCquudKctTiQ05n.jpg", "actors": [], "comments": [], "recommandations_id": []}

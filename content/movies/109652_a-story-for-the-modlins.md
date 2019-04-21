@@ -1,0 +1,1 @@
+{"tmdb_id": 109652, "title": "A Story for the Modlins", "original_title": "Una historia para los Modlin", "slug_title": "a-story-for-the-modlins", "date": "2012-04-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEP79h3un44mcrblfVv8sDchS8U.jpg", "actors": [], "comments": [], "recommandations_id": []}

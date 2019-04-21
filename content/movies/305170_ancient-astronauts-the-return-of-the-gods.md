@@ -1,0 +1,1 @@
+{"tmdb_id": 305170, "title": "Ancient Astronauts: The Return of The Gods", "original_title": "Ancient Astronauts: The Return of The Gods", "slug_title": "ancient-astronauts-the-return-of-the-gods", "date": "2014-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

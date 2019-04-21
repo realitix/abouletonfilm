@@ -1,0 +1,1 @@
+{"tmdb_id": 260238, "title": "The Meeting of Two Queens", "original_title": "The Meeting of Two Queens", "slug_title": "the-meeting-of-two-queens", "date": "1991-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LRaE2dt7dZBHWmKA1wQSUc9P4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

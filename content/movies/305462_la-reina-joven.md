@@ -1,0 +1,1 @@
+{"tmdb_id": 305462, "title": "La reina joven", "original_title": "La reina joven", "slug_title": "la-reina-joven", "date": "1916-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Celia Ortiz ()", "Ricardo Puga ()", "Jos\u00e9 Rivero ()", "Margarita Xirgu ()"], "comments": [], "recommandations_id": []}

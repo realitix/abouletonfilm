@@ -1,0 +1,1 @@
+{"tmdb_id": 449517, "title": "The Tiger & the Guru", "original_title": "The Tiger & the Guru", "slug_title": "the-tiger-the-guru", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6AYRdLxVx98ui9CEsu4mEd6tTcH.jpg", "actors": [], "comments": [], "recommandations_id": []}

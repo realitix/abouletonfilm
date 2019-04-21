@@ -1,0 +1,1 @@
+{"tmdb_id": 199188, "title": "La crique oubli\u00e9e", "original_title": "La caleta olvidada", "slug_title": "la-crique-oubliee", "date": "1958-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dD040RpWbq7ZzG7AGxcWbj1xij6.jpg", "actors": [], "comments": [], "recommandations_id": []}

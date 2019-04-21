@@ -1,0 +1,1 @@
+{"tmdb_id": 259889, "title": "Fordl\u00e2ndia", "original_title": "Fordl\u00e2ndia", "slug_title": "fordlandia", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6j6paSct6jE695JGyALeY0v8Bib.jpg", "actors": [], "comments": [], "recommandations_id": []}

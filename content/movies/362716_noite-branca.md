@@ -1,0 +1,1 @@
+{"tmdb_id": 362716, "title": "Noite Branca", "original_title": "Noite Branca", "slug_title": "noite-branca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raquel Strada ()"], "comments": [], "recommandations_id": []}

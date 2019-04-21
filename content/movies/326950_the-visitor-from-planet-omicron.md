@@ -1,0 +1,1 @@
+{"tmdb_id": 326950, "title": "The Visitor from Planet Omicron", "original_title": "The Visitor from Planet Omicron", "slug_title": "the-visitor-from-planet-omicron", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

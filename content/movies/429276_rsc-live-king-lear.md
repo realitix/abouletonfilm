@@ -1,0 +1,1 @@
+{"tmdb_id": 429276, "title": "RSC Live: King Lear", "original_title": "RSC Live: King Lear", "slug_title": "rsc-live-king-lear", "date": "2016-10-12", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A83cMvi7rheIhDxAgURc1JloRWI.jpg", "actors": [], "comments": [], "recommandations_id": []}

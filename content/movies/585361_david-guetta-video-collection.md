@@ -1,0 +1,1 @@
+{"tmdb_id": 585361, "title": "David Guetta Video Collection", "original_title": "David Guetta Video Collection", "slug_title": "david-guetta-video-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1sKeQcqapq8C8z5MSSuhwZaPQzK.jpg", "actors": [], "comments": [], "recommandations_id": []}

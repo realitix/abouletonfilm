@@ -1,0 +1,1 @@
+{"tmdb_id": 590117, "title": "The Good Friend", "original_title": "El Amigo", "slug_title": "the-good-friend", "date": "2017-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 227473, "title": "Bonsai-Works of Divinity", "original_title": "Bonsai-Works of Divinity", "slug_title": "bonsai-works-of-divinity", "date": "1999-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sF18bmtC6KHbZkl2f7qEBGjD3kR.jpg", "actors": [], "comments": [], "recommandations_id": []}

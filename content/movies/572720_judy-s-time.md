@@ -1,0 +1,1 @@
+{"tmdb_id": 572720, "title": "Judy's Time", "original_title": "Judy's Time", "slug_title": "judy-s-time", "date": "2000-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

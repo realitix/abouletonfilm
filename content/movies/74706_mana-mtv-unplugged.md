@@ -1,0 +1,1 @@
+{"tmdb_id": 74706, "title": "Man\u00e1 - MTV Unplugged", "original_title": "Man\u00e1 - MTV Unplugged", "slug_title": "mana-mtv-unplugged", "date": "2001-11-14", "genre": "Musique", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Fr8JBNCWwQs5BAUbZ40DRcDcZg.jpg", "actors": [], "comments": [], "recommandations_id": []}

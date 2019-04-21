@@ -1,0 +1,1 @@
+{"tmdb_id": 184487, "title": "Plain Clothes", "original_title": "Plain Clothes", "slug_title": "plain-clothes", "date": "1925-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon (The Boy)"], "comments": [], "recommandations_id": []}

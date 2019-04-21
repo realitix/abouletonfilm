@@ -1,0 +1,1 @@
+{"tmdb_id": 551630, "title": "Sounds of the Summer", "original_title": "Sounds of the Summer", "slug_title": "sounds-of-the-summer", "date": "2017-05-26", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAdCMH8tBmjND4oCEoqBIoDyX8C.jpg", "actors": [], "comments": [], "recommandations_id": []}

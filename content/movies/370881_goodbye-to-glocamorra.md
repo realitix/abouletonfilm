@@ -1,0 +1,1 @@
+{"tmdb_id": 370881, "title": "Goodbye to Glocamorra", "original_title": "Goodbye to Glocamorra", "slug_title": "goodbye-to-glocamorra", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 213178, "title": "Luis Salinas - En Vivo Teatro Cervantes", "original_title": "Luis Salinas - En Vivo Teatro Cervantes", "slug_title": "luis-salinas-en-vivo-teatro-cervantes", "date": "2002-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Salinas (Guitarra)"], "comments": [], "recommandations_id": []}

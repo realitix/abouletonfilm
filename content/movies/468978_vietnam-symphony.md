@@ -1,0 +1,1 @@
+{"tmdb_id": 468978, "title": "Vietnam Symphony", "original_title": "Vietnam Symphony", "slug_title": "vietnam-symphony", "date": "2005-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wa6Nza8yvnU5e63orjx8WFRXMag.jpg", "actors": [], "comments": [], "recommandations_id": []}

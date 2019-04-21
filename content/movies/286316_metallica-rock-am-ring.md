@@ -1,0 +1,1 @@
+{"tmdb_id": 286316, "title": "Metallica: Rock am Ring", "original_title": "Metallica: Rock am Ring", "slug_title": "metallica-rock-am-ring", "date": "2014-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/LQUpeGRaS3FUu94bvSrUxDUN1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

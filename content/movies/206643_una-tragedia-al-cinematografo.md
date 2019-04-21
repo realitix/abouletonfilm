@@ -1,0 +1,1 @@
+{"tmdb_id": 206643, "title": "Una tragedia al cinematografo", "original_title": "Una tragedia al cinematografo", "slug_title": "una-tragedia-al-cinematografo", "date": "1913-06-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

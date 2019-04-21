@@ -1,0 +1,1 @@
+{"tmdb_id": 532426, "title": "Songs for Earth & Folk", "original_title": "Songs for Earth & Folk", "slug_title": "songs-for-earth-folk", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tdaVDxfFrXHfGSUk84XK1xlhLE9.jpg", "actors": [], "comments": [], "recommandations_id": []}

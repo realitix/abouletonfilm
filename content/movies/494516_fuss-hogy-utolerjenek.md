@@ -1,0 +1,1 @@
+{"tmdb_id": 494516, "title": "Fuss, hogy utol\u00e9rjenek", "original_title": "Fuss, hogy utol\u00e9rjenek", "slug_title": "fuss-hogy-utolerjenek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

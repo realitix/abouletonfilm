@@ -1,0 +1,1 @@
+{"tmdb_id": 120754, "title": "We Women Warriors", "original_title": "Tejiendo Sabidur\u00eda", "slug_title": "we-women-warriors", "date": "2012-08-10", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/djuGF2fsOGcZWvpOmNRBhkSm6lc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 54473, "title": "Thalia: Greatest Hits", "original_title": "Thalia: Greatest Hits", "slug_title": "thalia-greatest-hits", "date": "2004-02-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AiNtY4jhnnC9Yw8G9b0kKWb8BHR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273667, "title": "Being and Becoming Chua Ek Kay", "original_title": "Being and Becoming Chua Ek Kay", "slug_title": "being-and-becoming-chua-ek-kay", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

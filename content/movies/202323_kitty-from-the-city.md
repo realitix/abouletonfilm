@@ -1,0 +1,1 @@
+{"tmdb_id": 202323, "title": "Kitty from the City", "original_title": "Kitty from the City", "slug_title": "kitty-from-the-city", "date": "1971-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1oAQKb7FjxtLz370bNfU02Me71R.jpg", "actors": [], "comments": [], "recommandations_id": []}

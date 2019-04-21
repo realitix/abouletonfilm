@@ -1,0 +1,1 @@
+{"tmdb_id": 292971, "title": "Scooter Kidz", "original_title": "Scooter Kidz", "slug_title": "scooter-kidz", "date": "2001-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8NtM3Kj6Kqf3HaMvqVu5ss9PeF.jpg", "actors": [], "comments": [], "recommandations_id": []}

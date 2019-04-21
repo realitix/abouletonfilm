@@ -1,0 +1,1 @@
+{"tmdb_id": 486706, "title": "Shave & Send", "original_title": "Shave & Send", "slug_title": "shave-send", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

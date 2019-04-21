@@ -1,0 +1,1 @@
+{"tmdb_id": 343564, "title": "\u041d\u0430\u0445\u043e\u0434\u043a\u0430", "original_title": "\u041d\u0430\u0445\u043e\u0434\u043a\u0430", "slug_title": "nakhodka", "date": "1982-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nvBZhuoULuAOQ2oRuut4xkc0flw.jpg", "actors": [], "comments": [], "recommandations_id": []}

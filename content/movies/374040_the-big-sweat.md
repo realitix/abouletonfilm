@@ -1,0 +1,1 @@
+{"tmdb_id": 374040, "title": "The Big Sweat", "original_title": "The Big Sweat", "slug_title": "the-big-sweat", "date": "1991-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9NNy0kGIjhtMoTxPa0vYSx2Qpq.jpg", "actors": ["Robert Z'Dar ()", "Ken Letner ()"], "comments": [], "recommandations_id": []}

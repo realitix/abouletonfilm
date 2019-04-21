@@ -1,0 +1,1 @@
+{"tmdb_id": 176677, "title": "Kino-week", "original_title": "\u041a\u0438\u043d\u043e-\u043d\u0435\u0434\u0435\u043b\u044f", "slug_title": "kino-week", "date": "1918-03-12", "genre": "", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tigntl0LbPfD10LVsVTI4gRzhLu.jpg", "actors": [], "comments": [], "recommandations_id": []}

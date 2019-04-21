@@ -1,0 +1,1 @@
+{"tmdb_id": 524480, "title": "The Arms", "original_title": "\u0420\u0443\u043a\u0438", "slug_title": "the-arms", "date": "2014-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbfI4aJg9RZlyg077cqoBbTGEcW.jpg", "actors": ["Oleg Artemyev (himself)"], "comments": [], "recommandations_id": []}

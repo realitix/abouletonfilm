@@ -1,0 +1,1 @@
+{"tmdb_id": 580574, "title": "Let It Burn", "original_title": "Let It Burn", "slug_title": "let-it-burn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

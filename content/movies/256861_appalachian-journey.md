@@ -1,0 +1,1 @@
+{"tmdb_id": 256861, "title": "Appalachian Journey", "original_title": "Appalachian Journey", "slug_title": "appalachian-journey", "date": "1991-07-19", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Lomax (Himself)", "Tommy Jarrell (Himself)"], "comments": [], "recommandations_id": []}

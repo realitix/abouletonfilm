@@ -1,0 +1,1 @@
+{"tmdb_id": 465702, "title": "The Wizard of Babylon", "original_title": "Der Bauer von Babylon - Rainer Werner Fassbinder dreht Querelle", "slug_title": "the-wizard-of-babylon", "date": "1992-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

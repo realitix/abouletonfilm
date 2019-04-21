@@ -1,0 +1,1 @@
+{"tmdb_id": 573260, "title": "Marins d'eau douce", "original_title": "Marins d'eau douce", "slug_title": "marins-d-eau-douce", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

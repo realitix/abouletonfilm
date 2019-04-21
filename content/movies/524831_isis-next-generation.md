@@ -1,0 +1,1 @@
+{"tmdb_id": 524831, "title": "ISIS Next Generation", "original_title": "Les lionceaux du califat", "slug_title": "isis-next-generation", "date": "", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kx5yKLaS3YXkVBht5WNeF6TmStM.jpg", "actors": [], "comments": [], "recommandations_id": []}

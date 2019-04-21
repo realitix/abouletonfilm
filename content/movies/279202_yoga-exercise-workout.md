@@ -1,0 +1,1 @@
+{"tmdb_id": 279202, "title": "Yoga Exercise Workout", "original_title": "Yoga Exercise Workout", "slug_title": "yoga-exercise-workout", "date": "1994-02-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jane Fonda (Herself)"], "comments": [], "recommandations_id": []}

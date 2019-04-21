@@ -1,0 +1,1 @@
+{"tmdb_id": 278141, "title": "Aval Mella Sirithal", "original_title": "Aval Mella Sirithal", "slug_title": "aval-mella-sirithal", "date": "1987-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Murali ()", "Seetha ()", "Madhuri ()"], "comments": [], "recommandations_id": []}

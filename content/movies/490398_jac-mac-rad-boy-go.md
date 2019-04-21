@@ -1,0 +1,1 @@
+{"tmdb_id": 490398, "title": "Jac Mac & Rad Boy Go!", "original_title": "Jac Mac & Rad Boy Go!", "slug_title": "jac-mac-rad-boy-go", "date": "1985-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ttRHMd2SKGEXejOAiZXjQcmMC8A.jpg", "actors": [], "comments": [], "recommandations_id": []}

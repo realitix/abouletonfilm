@@ -1,0 +1,1 @@
+{"tmdb_id": 387450, "title": "La terra promessa", "original_title": "La terra promessa", "slug_title": "la-terra-promessa", "date": "1913-06-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francesca Bertini ()", "Alberto Collo ()", "Emilio Ghione ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 354179, "title": "Pascal - G\u00f6del", "original_title": "Pascal - G\u00f6del", "slug_title": "pascal-godel", "date": "1986-08-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531079, "title": "My Life in Hitler's Germany", "original_title": "Ma vie en Allemagne au temps de Hitler", "slug_title": "my-life-in-hitler-s-germany", "date": "2018-06-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

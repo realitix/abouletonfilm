@@ -1,0 +1,1 @@
+{"tmdb_id": 269944, "title": "Typhoid Mary", "original_title": "Typhoid Mary", "slug_title": "typhoid-mary", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAJflyTmtZ1E22hLriWufI4glMs.jpg", "actors": [], "comments": [], "recommandations_id": []}

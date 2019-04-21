@@ -1,0 +1,1 @@
+{"tmdb_id": 476568, "title": "LE RETOUR DU TAMBOUR SACR\u00c9 (BIRMANIE)", "original_title": "LE RETOUR DU TAMBOUR SACR\u00c9 (BIRMANIE)", "slug_title": "le-retour-du-tambour-sacre-birmanie", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

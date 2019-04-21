@@ -1,0 +1,1 @@
+{"tmdb_id": 422857, "title": "Borderland", "original_title": "Borderland", "slug_title": "borderland", "date": "2016-03-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher Alvarenga (Joel)", "Rudy Lopez (Andrs)", "Rupert Reyes (Ernesto (Father))"], "comments": [], "recommandations_id": []}

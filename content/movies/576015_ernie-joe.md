@@ -1,0 +1,1 @@
+{"tmdb_id": 576015, "title": "Ernie & Joe", "original_title": "Ernie & Joe", "slug_title": "ernie-joe", "date": "2019-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

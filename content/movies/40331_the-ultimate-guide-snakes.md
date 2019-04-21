@@ -1,0 +1,1 @@
+{"tmdb_id": 40331, "title": "The Ultimate Guide: Snakes", "original_title": "The Ultimate Guide: Snakes", "slug_title": "the-ultimate-guide-snakes", "date": "1997-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g42rjIKoErPv1ZmHCpqHGQnRlNg.jpg", "actors": [], "comments": [], "recommandations_id": []}

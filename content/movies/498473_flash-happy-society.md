@@ -1,0 +1,1 @@
+{"tmdb_id": 498473, "title": "Flash Happy Society", "original_title": "Flash Happy Society", "slug_title": "flash-happy-society", "date": "2009-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

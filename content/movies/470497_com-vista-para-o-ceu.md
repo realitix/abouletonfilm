@@ -1,0 +1,1 @@
+{"tmdb_id": 470497, "title": "Com Vista Para o C\u00e9u", "original_title": "Com Vista Para o C\u00e9u", "slug_title": "com-vista-para-o-ceu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

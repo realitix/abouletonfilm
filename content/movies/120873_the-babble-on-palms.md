@@ -1,0 +1,1 @@
+{"tmdb_id": 120873, "title": "The Babble on Palms", "original_title": "The Babble on Palms", "slug_title": "the-babble-on-palms", "date": "2002-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 479831, "title": "Es war doch Liebe?", "original_title": "Es war doch Liebe?", "slug_title": "es-war-doch-liebe", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Therese Affolter ()", "Dietmar Sch\u00f6nherr ()", "Regine Lutz ()"], "comments": [], "recommandations_id": []}

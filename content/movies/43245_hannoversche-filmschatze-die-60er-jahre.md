@@ -1,0 +1,1 @@
+{"tmdb_id": 43245, "title": "Hannoversche Filmsch\u00e4tze - Die 60er Jahre", "original_title": "Hannoversche Filmsch\u00e4tze - Die 60er Jahre", "slug_title": "hannoversche-filmschatze-die-60er-jahre", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

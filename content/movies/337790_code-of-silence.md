@@ -1,0 +1,1 @@
+{"tmdb_id": 337790, "title": "Code Of Silence", "original_title": "Code Of Silence", "slug_title": "code-of-silence", "date": "1960-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

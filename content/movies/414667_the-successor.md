@@ -1,0 +1,1 @@
+{"tmdb_id": 414667, "title": "The Successor", "original_title": "The Successor", "slug_title": "the-successor", "date": "1996-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Connery (Peter Reardon)", "Laura Girling (Anna)"], "comments": [], "recommandations_id": []}

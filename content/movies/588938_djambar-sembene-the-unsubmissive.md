@@ -1,0 +1,1 @@
+{"tmdb_id": 588938, "title": "Djambar, Sembene the Unsubmissive", "original_title": "Djambar, Sembene L\u2019insoumis", "slug_title": "djambar-sembene-the-unsubmissive", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

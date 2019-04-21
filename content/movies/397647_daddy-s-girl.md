@@ -1,0 +1,1 @@
+{"tmdb_id": 397647, "title": "Daddy's Girl", "original_title": "Daddy's Girl", "slug_title": "daddy-s-girl", "date": "2016-05-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZzUIRrF35F2riKJojr6sLqJ7wZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

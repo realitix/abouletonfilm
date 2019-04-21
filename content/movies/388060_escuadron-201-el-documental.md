@@ -1,0 +1,1 @@
+{"tmdb_id": 388060, "title": "Escuadr\u00f3n 201, el documental", "original_title": "Escuadr\u00f3n 201, el documental", "slug_title": "escuadron-201-el-documental", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 558709, "title": "I'm home from School!", "original_title": "\ud559\uad50 \ub2e4\ub140\uc654\uc2b5\ub2c8\ub2e4", "slug_title": "i-m-home-from-school", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izoN6x9ZKP28fUg7MYgHEs3kYrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

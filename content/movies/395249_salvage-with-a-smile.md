@@ -1,0 +1,1 @@
+{"tmdb_id": 395249, "title": "Salvage with a Smile", "original_title": "Salvage with a Smile", "slug_title": "salvage-with-a-smile", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

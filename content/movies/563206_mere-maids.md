@@ -1,0 +1,1 @@
+{"tmdb_id": 563206, "title": "Mere Maids", "original_title": "Mere Maids", "slug_title": "mere-maids", "date": "1932-05-20", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

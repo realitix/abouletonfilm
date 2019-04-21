@@ -1,0 +1,1 @@
+{"tmdb_id": 322056, "title": "Black Ghost", "original_title": "\ud751\uadc0", "slug_title": "black-ghost", "date": "1976-05-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSbWnDE2bq7roen9tpalCDIFQxR.jpg", "actors": ["Jang Geon ()", "Ha Ok-hwa ()", "Yun Yang-ha ()"], "comments": [], "recommandations_id": []}

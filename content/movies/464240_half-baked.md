@@ -1,0 +1,1 @@
+{"tmdb_id": 464240, "title": "Half Baked", "original_title": "Half Baked", "slug_title": "half-baked", "date": "2007-10-14", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

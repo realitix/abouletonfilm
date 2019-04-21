@@ -1,0 +1,1 @@
+{"tmdb_id": 179277, "title": "Independent America: Rising from Ruins", "original_title": "Independent America: Rising from Ruins", "slug_title": "independent-america-rising-from-ruins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

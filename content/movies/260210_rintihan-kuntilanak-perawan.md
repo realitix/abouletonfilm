@@ -1,0 +1,1 @@
+{"tmdb_id": 260210, "title": "Rintihan Kuntilanak Perawan", "original_title": "Rintihan Kuntilanak Perawan", "slug_title": "rintihan-kuntilanak-perawan", "date": "2010-10-14", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71OhbGsSEHkqhlagsb3iqnKopOh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 255205, "title": "Stan Kenton and His Orchestra", "original_title": "Stan Kenton and His Orchestra", "slug_title": "stan-kenton-and-his-orchestra", "date": "1947-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

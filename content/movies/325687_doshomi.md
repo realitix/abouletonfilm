@@ -1,0 +1,1 @@
+{"tmdb_id": 325687, "title": "Doshomi", "original_title": "Doshomi", "slug_title": "doshomi", "date": "2012-09-14", "genre": "Romance / Drame", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Indraneil Sengupta ()", "Koel Mallick ()", "Pijush Ganguly ()", "Locket Chatterjee ()", "Sujoy Ghosh ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273994, "title": "David Bromberg: Unsung Treasure", "original_title": "David Bromberg: Unsung Treasure", "slug_title": "david-bromberg-unsung-treasure", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8mfOE8NZQT2XFVmsWHLQgNenzHQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

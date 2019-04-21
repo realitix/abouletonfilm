@@ -1,0 +1,1 @@
+{"tmdb_id": 228918, "title": "Man in Striped Pajamas", "original_title": "Man in Striped Pajamas", "slug_title": "man-in-striped-pajamas", "date": "2002-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Breck ()", "Johanna Cypis ()", "Jayne Amelia Larson ()"], "comments": [], "recommandations_id": []}

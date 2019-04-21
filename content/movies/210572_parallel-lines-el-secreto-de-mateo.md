@@ -1,0 +1,1 @@
+{"tmdb_id": 210572, "title": "Parallel Lines: El Secreto de Mateo", "original_title": "Parallel Lines: El Secreto de Mateo", "slug_title": "parallel-lines-el-secreto-de-mateo", "date": "2010-04-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

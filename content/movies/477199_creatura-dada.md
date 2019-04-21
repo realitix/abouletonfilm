@@ -1,0 +1,1 @@
+{"tmdb_id": 477199, "title": "Creatura Dada", "original_title": "Creatura Dada", "slug_title": "creatura-dada", "date": "2017-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xucK7Yr3vcbQVaX47Wf86PLmUQL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 419345, "title": "The Hunting Fever", "original_title": "Jagdfieber", "slug_title": "the-hunting-fever", "date": "2008-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

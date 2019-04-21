@@ -1,0 +1,1 @@
+{"tmdb_id": 275348, "title": "Light of the Future", "original_title": "Light of the Future", "slug_title": "light-of-the-future", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

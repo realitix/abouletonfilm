@@ -1,0 +1,1 @@
+{"tmdb_id": 463884, "title": "Dead Behind Bars", "original_title": "Dead Behind Bars", "slug_title": "dead-behind-bars", "date": "2014-04-24", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eWaNM6kPD8zJaDqeAXqIvBQCQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

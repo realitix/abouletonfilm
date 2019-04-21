@@ -1,0 +1,1 @@
+{"tmdb_id": 321086, "title": "Mit Licht schreiben - Photographein", "original_title": "Mit Licht schreiben - Photographein", "slug_title": "mit-licht-schreiben-photographein", "date": "1967-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549886, "title": "Ciao, Lara", "original_title": "Ciao, Lara", "slug_title": "ciao-lara", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hhLy4GEC3GcomtIpV6bix3l2OHK.jpg", "actors": ["Christine Hassan ()"], "comments": [], "recommandations_id": []}

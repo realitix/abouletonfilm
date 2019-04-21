@@ -1,0 +1,1 @@
+{"tmdb_id": 38693, "title": "Joe Kid on a Stingray", "original_title": "Joe Kid on a Stingray", "slug_title": "joe-kid-on-a-stingray", "date": "2005-01-27", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llAtNU2AqzWoAiGZ4mCahx2qvrc.jpg", "actors": [], "comments": [], "recommandations_id": []}

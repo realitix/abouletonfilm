@@ -1,0 +1,1 @@
+{"tmdb_id": 537521, "title": "Strange Adventure of New York Drummer", "original_title": "Strange Adventure of New York Drummer", "slug_title": "strange-adventure-of-new-york-drummer", "date": "1899-06-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

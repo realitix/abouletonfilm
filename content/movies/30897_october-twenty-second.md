@@ -1,0 +1,1 @@
+{"tmdb_id": 30897, "title": "October Twenty-Second", "original_title": "October Twenty-Second", "slug_title": "october-twenty-second", "date": "1998-11-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

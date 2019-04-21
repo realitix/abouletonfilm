@@ -1,0 +1,1 @@
+{"tmdb_id": 282405, "title": "Aida (Tutto Verdi)", "original_title": "Aida (Tutto Verdi)", "slug_title": "aida-tutto-verdi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

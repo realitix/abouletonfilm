@@ -1,0 +1,1 @@
+{"tmdb_id": 137779, "title": "Jay-Z: Live At Rock Am Ring", "original_title": "Jay-Z: Live At Rock Am Ring", "slug_title": "jay-z-live-at-rock-am-ring", "date": "2010-06-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fLk64EJBX8DrUcErOkj8kA9KlS.jpg", "actors": [], "comments": [], "recommandations_id": []}

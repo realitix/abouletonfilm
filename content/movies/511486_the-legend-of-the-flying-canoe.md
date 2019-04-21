@@ -1,0 +1,1 @@
+{"tmdb_id": 511486, "title": "The Legend of the Flying Canoe", "original_title": "The Legend of the Flying Canoe", "slug_title": "the-legend-of-the-flying-canoe", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

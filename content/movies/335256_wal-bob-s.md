@@ -1,0 +1,1 @@
+{"tmdb_id": 335256, "title": "Wal-Bob's", "original_title": "Wal-Bob's", "slug_title": "wal-bob-s", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

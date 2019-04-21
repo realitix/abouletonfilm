@@ -1,0 +1,1 @@
+{"tmdb_id": 319132, "title": "Il tacchino prepotente", "original_title": "Il tacchino prepotente", "slug_title": "il-tacchino-prepotente", "date": "1939-12-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

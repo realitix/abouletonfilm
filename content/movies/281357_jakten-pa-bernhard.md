@@ -1,0 +1,1 @@
+{"tmdb_id": 281357, "title": "Jakten P\u00e5 Bernhard", "original_title": "Jakten P\u00e5 Bernhard", "slug_title": "jakten-pa-bernhard", "date": "2010-01-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypuE0lkzPnoXYw74rPmHy4kZ4Ze.jpg", "actors": [], "comments": [], "recommandations_id": []}

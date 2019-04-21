@@ -1,0 +1,1 @@
+{"tmdb_id": 578025, "title": "Turbosupercharger: Flight Operation", "original_title": "Turbosupercharger: Flight Operation", "slug_title": "turbosupercharger-flight-operation", "date": "1943-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

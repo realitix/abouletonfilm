@@ -1,0 +1,1 @@
+{"tmdb_id": 456002, "title": "The Majority Never Has Right on its Side", "original_title": "The Majority Never Has Right on its Side", "slug_title": "the-majority-never-has-right-on-its-side", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

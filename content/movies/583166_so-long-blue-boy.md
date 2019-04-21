@@ -1,0 +1,1 @@
+{"tmdb_id": 583166, "title": "So Long, Blue Boy", "original_title": "So Long, Blue Boy", "slug_title": "so-long-blue-boy", "date": "1973-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

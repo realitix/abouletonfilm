@@ -1,0 +1,1 @@
+{"tmdb_id": 467950, "title": "The Gun Woman", "original_title": "The Gun Woman", "slug_title": "the-gun-woman", "date": "1918-01-27", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Texas Guinan ()", "Ed Brady ()", "Francis McDonald ()", "Walter Perkins ()"], "comments": [], "recommandations_id": []}

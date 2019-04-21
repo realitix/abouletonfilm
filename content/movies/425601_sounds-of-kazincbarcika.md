@@ -1,0 +1,1 @@
+{"tmdb_id": 425601, "title": "Sounds of Kazincbarcika", "original_title": "Sounds of Kazincbarcika", "slug_title": "sounds-of-kazincbarcika", "date": "2015-02-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

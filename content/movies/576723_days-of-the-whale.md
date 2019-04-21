@@ -1,0 +1,1 @@
+{"tmdb_id": 576723, "title": "Days of the Whale", "original_title": "Days of the Whale", "slug_title": "days-of-the-whale", "date": "", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

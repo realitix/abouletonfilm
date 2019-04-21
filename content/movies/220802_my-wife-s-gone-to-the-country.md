@@ -1,0 +1,1 @@
+{"tmdb_id": 220802, "title": "My Wife's Gone to the Country", "original_title": "My Wife's Gone to the Country", "slug_title": "my-wife-s-gone-to-the-country", "date": "1931-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

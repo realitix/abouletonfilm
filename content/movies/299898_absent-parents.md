@@ -1,0 +1,1 @@
+{"tmdb_id": 299898, "title": "Absent Parents", "original_title": "Absent Parents", "slug_title": "absent-parents", "date": "1982-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ae5K8qBHPjmWdGZ3gsQOcraS8fn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 43661, "title": "Ball of Wax", "original_title": "Ball of Wax", "slug_title": "ball-of-wax", "date": "", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkvIDAuf38uvQql2u3A7HeKjUeO.jpg", "actors": [], "comments": [], "recommandations_id": []}

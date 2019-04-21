@@ -1,0 +1,1 @@
+{"tmdb_id": 162632, "title": "The Bandmaster", "original_title": "The Bandmaster", "slug_title": "the-bandmaster", "date": "1931-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rC4THSDcyTv73Kpvqivta4Z9BKP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 412299, "title": "Lalaloopsy: Band Together", "original_title": "Lalaloopsy: Band Together", "slug_title": "lalaloopsy-band-together", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VyX3mzLqOfgVMovtSRja2E3vic.jpg", "actors": [], "comments": [], "recommandations_id": []}

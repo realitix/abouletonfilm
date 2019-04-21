@@ -1,0 +1,1 @@
+{"tmdb_id": 306764, "title": "Lady Gaga - SXSW Festival - 14-03-2014", "original_title": "Lady Gaga - SXSW Festival - 14-03-2014", "slug_title": "lady-gaga-sxsw-festival-14-03-2014", "date": "2014-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

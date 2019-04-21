@@ -1,0 +1,1 @@
+{"tmdb_id": 272024, "title": "Lettre a makura - les derniers bruxellois", "original_title": "Lettre a makura - les derniers bruxellois", "slug_title": "lettre-a-makura-les-derniers-bruxellois", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

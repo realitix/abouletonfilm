@@ -1,0 +1,1 @@
+{"tmdb_id": 485716, "title": "Shivers", "original_title": "Shivers", "slug_title": "shivers", "date": "1934-12-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon (Ichabod Somerset Crop)"], "comments": [], "recommandations_id": []}

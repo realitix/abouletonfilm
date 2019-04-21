@@ -1,0 +1,1 @@
+{"tmdb_id": 570127, "title": "Et la vie", "original_title": "Et la vie", "slug_title": "et-la-vie", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

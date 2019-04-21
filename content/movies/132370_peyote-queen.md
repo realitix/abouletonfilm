@@ -1,0 +1,1 @@
+{"tmdb_id": 132370, "title": "Peyote Queen", "original_title": "Peyote Queen", "slug_title": "peyote-queen", "date": "1965-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0AAeY2w09a5mYHfxPmXIYRStXR.jpg", "actors": [], "comments": [], "recommandations_id": [113989, 94512, 147395]}

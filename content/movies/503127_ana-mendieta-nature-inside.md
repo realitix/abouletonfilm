@@ -1,0 +1,1 @@
+{"tmdb_id": 503127, "title": "Ana Mendieta, Nature Inside", "original_title": "Ana Mendieta, Nature Inside", "slug_title": "ana-mendieta-nature-inside", "date": "2015-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ana Mendieta ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 484228, "title": "Post-Military Cinema", "original_title": "Post-Military Cinema", "slug_title": "post-military-cinema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

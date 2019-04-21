@@ -1,0 +1,1 @@
+{"tmdb_id": 569052, "title": "Beauty Queen", "original_title": "Beauty Queen", "slug_title": "beauty-queen", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397112, "title": "November Afternoon", "original_title": "November Afternoon", "slug_title": "november-afternoon", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

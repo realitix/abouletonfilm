@@ -1,0 +1,1 @@
+{"tmdb_id": 191237, "title": "Sex, Politics & Cocktails", "original_title": "Sex, Politics & Cocktails", "slug_title": "sex-politics-cocktails", "date": "2002-08-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1jOh0a9lZqJJcpubv0jzVcDJvpz.jpg", "actors": [], "comments": [], "recommandations_id": []}

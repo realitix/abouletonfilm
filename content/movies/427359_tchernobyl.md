@@ -1,0 +1,1 @@
+{"tmdb_id": 427359, "title": "Tchernobyl", "original_title": "Tchernobyl", "slug_title": "tchernobyl", "date": "2008-11-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laurent Delbecque (Ga\u00ebtan)", "Cl\u00e9mence Faure (Juliette)"], "comments": [], "recommandations_id": []}

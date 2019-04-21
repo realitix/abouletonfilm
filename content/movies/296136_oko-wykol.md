@@ -1,0 +1,1 @@
+{"tmdb_id": 296136, "title": "Oko wykol", "original_title": "Oko wykol", "slug_title": "oko-wykol", "date": "1960-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GKCPVtY2ktgA4DTTaKmCAFo3PC.jpg", "actors": ["Iwona S\u0142oczy\u0144ska ()", "Wojciech Solarz ()"], "comments": [], "recommandations_id": [45315]}

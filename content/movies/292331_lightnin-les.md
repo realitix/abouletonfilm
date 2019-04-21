@@ -1,0 +1,1 @@
+{"tmdb_id": 292331, "title": "Lightnin' Les", "original_title": "Lightnin' Les", "slug_title": "lightnin-les", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

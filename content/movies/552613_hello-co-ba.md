@@ -1,0 +1,1 @@
+{"tmdb_id": 552613, "title": "Hello C\u00f4 Ba", "original_title": "Hello C\u00f4 Ba", "slug_title": "hello-co-ba", "date": "2017-01-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uM0rvb3nMYHsRo3yP2khXDVUh8z.jpg", "actors": ["Ho\u00e0i Linh ()"], "comments": [], "recommandations_id": []}

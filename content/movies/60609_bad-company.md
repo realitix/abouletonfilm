@@ -1,0 +1,1 @@
+{"tmdb_id": 60609, "title": "Bad Company", "original_title": "Bad Company", "slug_title": "bad-company", "date": "2010-12-05", "genre": "Action / Aventure / Thriller / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

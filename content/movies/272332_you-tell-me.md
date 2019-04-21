@@ -1,0 +1,1 @@
+{"tmdb_id": 272332, "title": "You Tell Me", "original_title": "You Tell Me", "slug_title": "you-tell-me", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

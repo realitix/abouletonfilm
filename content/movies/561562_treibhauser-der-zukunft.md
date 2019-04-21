@@ -1,0 +1,1 @@
+{"tmdb_id": 561562, "title": "Treibh\u00e4user der Zukunft", "original_title": "Treibh\u00e4user der Zukunft", "slug_title": "treibhauser-der-zukunft", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

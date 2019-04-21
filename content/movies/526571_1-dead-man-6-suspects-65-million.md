@@ -1,0 +1,1 @@
+{"tmdb_id": 526571, "title": "1 Dead man, 6 Suspects, $65 Million", "original_title": "1 Dead man, 6 Suspects, $65 Million", "slug_title": "1-dead-man-6-suspects-65-million", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

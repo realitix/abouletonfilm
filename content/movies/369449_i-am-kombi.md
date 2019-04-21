@@ -1,0 +1,1 @@
+{"tmdb_id": 369449, "title": "I Am Kombi", "original_title": "I Am Kombi", "slug_title": "i-am-kombi", "date": "2012-12-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marc Barb\u00e9 ((voice))"], "comments": [], "recommandations_id": []}

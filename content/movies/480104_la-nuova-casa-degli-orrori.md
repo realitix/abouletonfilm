@@ -1,0 +1,1 @@
+{"tmdb_id": 480104, "title": "La Nuova Casa degli Orrori", "original_title": "La Nuova Casa degli Orrori", "slug_title": "la-nuova-casa-degli-orrori", "date": "", "genre": "Horreur / Myst\u00e8re", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

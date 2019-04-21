@@ -1,0 +1,1 @@
+{"tmdb_id": 368302, "title": "Why do they call it Good Friday", "original_title": "Why do they call it Good Friday", "slug_title": "why-do-they-call-it-good-friday", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 496246, "title": "Man, Monsters & Mysteries", "original_title": "Man, Monsters & Mysteries", "slug_title": "man-monsters-mysteries", "date": "1974-06-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

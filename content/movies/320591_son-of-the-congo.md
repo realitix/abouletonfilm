@@ -1,0 +1,1 @@
+{"tmdb_id": 320591, "title": "Son of the Congo", "original_title": "Son of the Congo", "slug_title": "son-of-the-congo", "date": "2015-03-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/COHTbARfnraSPBJpEQt0ax26a8.jpg", "actors": ["Serge Ibaka (Himself)"], "comments": [], "recommandations_id": []}

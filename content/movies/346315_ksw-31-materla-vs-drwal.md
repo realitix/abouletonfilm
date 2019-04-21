@@ -1,0 +1,1 @@
+{"tmdb_id": 346315, "title": "KSW 31: Materla vs Drwal", "original_title": "KSW 31: Materla vs Drwal", "slug_title": "ksw-31-materla-vs-drwal", "date": "2015-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/al1MlAUshJ5yfHQAXVYPOMrfyXQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

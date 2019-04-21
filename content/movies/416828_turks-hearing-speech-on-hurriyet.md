@@ -1,0 +1,1 @@
+{"tmdb_id": 416828, "title": "Turks' Hearing Speech on H\u00fcrriyet", "original_title": "Turci dr\u017eat govor na Huriet", "slug_title": "turks-hearing-speech-on-hurriyet", "date": "1908-09-18", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [162660, 163349]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 123548, "title": "Expensive Father", "original_title": "Drah\u00fd otec", "slug_title": "expensive-father", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ji\u0159\u00ed \u010cern\u00fd ()", "Jan Novotn\u00fd ()"], "comments": [], "recommandations_id": []}

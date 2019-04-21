@@ -1,0 +1,1 @@
+{"tmdb_id": 582848, "title": "Automobilisme et autorit\u00e9", "original_title": "Automobilisme et autorit\u00e9", "slug_title": "automobilisme-et-autorite", "date": "1899-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

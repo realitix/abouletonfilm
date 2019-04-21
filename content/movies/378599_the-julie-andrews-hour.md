@@ -1,0 +1,1 @@
+{"tmdb_id": 378599, "title": "The Julie Andrews Hour", "original_title": "The Julie Andrews Hour", "slug_title": "the-julie-andrews-hour", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bIPO1K6LM1Z6dxgl3d1AVssjy5.jpg", "actors": ["Julie Andrews ()"], "comments": [], "recommandations_id": []}

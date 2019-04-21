@@ -1,0 +1,1 @@
+{"tmdb_id": 488489, "title": "Good Salary, Prospects, Free Coffin", "original_title": "Good Salary, Prospects, Free Coffin", "slug_title": "good-salary-prospects-free-coffin", "date": "1975-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

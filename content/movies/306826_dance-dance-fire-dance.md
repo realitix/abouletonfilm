@@ -1,0 +1,1 @@
+{"tmdb_id": 306826, "title": "Dance dance fire dance", "original_title": "Dance dance fire dance", "slug_title": "dance-dance-fire-dance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

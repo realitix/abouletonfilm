@@ -1,0 +1,1 @@
+{"tmdb_id": 313498, "title": "Dionne Warwick: Live in Concert", "original_title": "Dionne Warwick: Live in Concert", "slug_title": "dionne-warwick-live-in-concert", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/douaYw5e6xNTz289x9gcmo8l8LK.jpg", "actors": [], "comments": [], "recommandations_id": []}

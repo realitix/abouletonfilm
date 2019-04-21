@@ -1,0 +1,1 @@
+{"tmdb_id": 99658, "title": "A.F. Archetypes Forces", "original_title": "A.F. Archetypes Forces", "slug_title": "a-f-archetypes-forces", "date": "2002-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w59yutAA34gQvycJc2B7EJPzDbG.jpg", "actors": [], "comments": [], "recommandations_id": []}

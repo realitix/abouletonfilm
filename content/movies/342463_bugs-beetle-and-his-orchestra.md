@@ -1,0 +1,1 @@
+{"tmdb_id": 342463, "title": "Bugs Beetle and His Orchestra", "original_title": "Bugs Beetle and His Orchestra", "slug_title": "bugs-beetle-and-his-orchestra", "date": "1937-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

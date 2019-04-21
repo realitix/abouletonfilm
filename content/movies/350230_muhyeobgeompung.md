@@ -1,0 +1,1 @@
+{"tmdb_id": 350230, "title": "\ubb34\ud611\uac80\ud48d", "original_title": "\ubb34\ud611\uac80\ud48d", "slug_title": "muhyeobgeompung", "date": "1980-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 269309, "title": "The Valley of the Lost Soul", "original_title": "Wang hun gu", "slug_title": "the-valley-of-the-lost-soul", "date": "1957-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAIU4ig4WP2omOFui97zE1e15Zi.jpg", "actors": [], "comments": [], "recommandations_id": []}

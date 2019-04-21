@@ -1,0 +1,1 @@
+{"tmdb_id": 301316, "title": "Handel: Alcina", "original_title": "Handel: Alcina", "slug_title": "handel-alcina", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

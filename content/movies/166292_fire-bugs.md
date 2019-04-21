@@ -1,0 +1,1 @@
+{"tmdb_id": 166292, "title": "Fire Bugs", "original_title": "Fire Bugs", "slug_title": "fire-bugs", "date": "1930-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

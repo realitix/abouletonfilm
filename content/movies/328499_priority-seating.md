@@ -1,0 +1,1 @@
+{"tmdb_id": 328499, "title": "Priority Seating", "original_title": "Priority Seating", "slug_title": "priority-seating", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

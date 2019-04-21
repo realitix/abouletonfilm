@@ -1,0 +1,1 @@
+{"tmdb_id": 464226, "title": "Depois da Curva", "original_title": "Depois da Curva", "slug_title": "depois-da-curva", "date": "2009-07-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nanego Lira (Ant\u00f4nio)", "Fabiano Raposo (Paulo)"], "comments": [], "recommandations_id": []}

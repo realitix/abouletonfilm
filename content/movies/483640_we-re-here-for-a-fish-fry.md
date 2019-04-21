@@ -1,0 +1,1 @@
+{"tmdb_id": 483640, "title": "We're Here for a Fish Fry!", "original_title": "We're Here for a Fish Fry!", "slug_title": "we-re-here-for-a-fish-fry", "date": "2017-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dewey Gill ()"], "comments": [], "recommandations_id": []}

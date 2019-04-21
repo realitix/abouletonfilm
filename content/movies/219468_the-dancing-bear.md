@@ -1,0 +1,1 @@
+{"tmdb_id": 219468, "title": "The Dancing Bear", "original_title": "The Dancing Bear", "slug_title": "the-dancing-bear", "date": "1937-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

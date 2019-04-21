@@ -1,0 +1,1 @@
+{"tmdb_id": 351606, "title": "The Electronic Mouse Trap", "original_title": "The Electronic Mouse Trap", "slug_title": "the-electronic-mouse-trap", "date": "1946-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzFYJfVGT5eDPcwDEEaciUHESrf.jpg", "actors": [], "comments": [], "recommandations_id": []}

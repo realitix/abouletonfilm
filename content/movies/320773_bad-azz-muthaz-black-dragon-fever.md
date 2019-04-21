@@ -1,0 +1,1 @@
+{"tmdb_id": 320773, "title": "Bad Azz Muthaz: Black Dragon Fever", "original_title": "Bad Azz Muthaz: Black Dragon Fever", "slug_title": "bad-azz-muthaz-black-dragon-fever", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 475941, "title": "A Soldier's Story", "original_title": "A Soldier's Story", "slug_title": "a-soldier-s-story", "date": "2015-09-15", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIfzX5VmG7HsAnvfzAR5Mc2zzxN.jpg", "actors": [], "comments": [], "recommandations_id": []}

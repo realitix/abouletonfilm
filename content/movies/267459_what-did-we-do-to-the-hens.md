@@ -1,0 +1,1 @@
+{"tmdb_id": 267459, "title": "What Did We Do to the Hens", "original_title": "Co jsme ud\u011blali slepic\u00edm", "slug_title": "what-did-we-do-to-the-hens", "date": "1978-01-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JSEyCLXMTUUxd1jja0KwXpsyWR.jpg", "actors": [], "comments": [], "recommandations_id": []}

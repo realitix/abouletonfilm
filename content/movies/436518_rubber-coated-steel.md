@@ -1,0 +1,1 @@
+{"tmdb_id": 436518, "title": "Rubber Coated Steel", "original_title": "Rubber Coated Steel", "slug_title": "rubber-coated-steel", "date": "2017-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgX8Hoj6nPaxGKoH77W8AvMchHr.jpg", "actors": [], "comments": [], "recommandations_id": []}

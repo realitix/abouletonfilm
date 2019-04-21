@@ -1,0 +1,1 @@
+{"tmdb_id": 349943, "title": "\uace0\ub798\uc12c \uc18c\ub3d9", "original_title": "\uace0\ub798\uc12c \uc18c\ub3d9", "slug_title": "goraeseom-sodong", "date": "1981-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

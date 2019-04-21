@@ -1,0 +1,1 @@
+{"tmdb_id": 543139, "title": "Mysterious Doctor Satan Double Cross", "original_title": "Mysterious Doctor Satan Double Cross", "slug_title": "mysterious-doctor-satan-double-cross", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

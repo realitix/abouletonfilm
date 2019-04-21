@@ -1,0 +1,1 @@
+{"tmdb_id": 197076, "title": "An All-Colored Vaudeville Show", "original_title": "An All-Colored Vaudeville Show", "slug_title": "an-all-colored-vaudeville-show", "date": "1935-06-21", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

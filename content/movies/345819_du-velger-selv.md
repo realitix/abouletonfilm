@@ -1,0 +1,1 @@
+{"tmdb_id": 345819, "title": "Du velger selv", "original_title": "Du velger selv", "slug_title": "du-velger-selv", "date": "2013-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

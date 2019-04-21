@@ -1,0 +1,1 @@
+{"tmdb_id": 245452, "title": "Arj Barker Heavy", "original_title": "Arj Barker Heavy", "slug_title": "arj-barker-heavy", "date": "2013-12-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abkDcFHvWgayipHcVRiKFpX08dl.jpg", "actors": ["Arj Barker (Himself)"], "comments": [], "recommandations_id": []}

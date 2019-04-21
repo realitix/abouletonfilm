@@ -1,0 +1,1 @@
+{"tmdb_id": 283993, "title": "Heart Attack", "original_title": "Zawa\u0142 serca", "slug_title": "heart-attack", "date": "1967-01-01", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usfpW16JNYqMnxVERD05fJv2W5D.jpg", "actors": ["W\u0142odzimierz Wiszniewski ()"], "comments": [], "recommandations_id": []}

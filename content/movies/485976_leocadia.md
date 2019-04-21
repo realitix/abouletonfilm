@@ -1,0 +1,1 @@
+{"tmdb_id": 485976, "title": "Leocadia", "original_title": "Leocadia", "slug_title": "leocadia", "date": "1964-07-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vera Tschechowa (Amanda)", "Friedrich Maurer (Der Kammerdiener)", "Hugo Lindinger (Der Wirt)"], "comments": [], "recommandations_id": []}

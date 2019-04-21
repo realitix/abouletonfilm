@@ -1,0 +1,1 @@
+{"tmdb_id": 502683, "title": "The Last Rung on the Ladder", "original_title": "The Last Rung on the Ladder", "slug_title": "the-last-rung-on-the-ladder", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

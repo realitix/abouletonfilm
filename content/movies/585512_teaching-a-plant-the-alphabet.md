@@ -1,0 +1,1 @@
+{"tmdb_id": 585512, "title": "Teaching a Plant the Alphabet", "original_title": "Teaching a Plant the Alphabet", "slug_title": "teaching-a-plant-the-alphabet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

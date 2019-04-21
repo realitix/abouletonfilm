@@ -1,0 +1,1 @@
+{"tmdb_id": 408071, "title": "Viva Cariri", "original_title": "Viva Cariri", "slug_title": "viva-cariri", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omhiUFB2bD4Nb0jZLhAXpgFTNff.jpg", "actors": ["Paulo Pontes (Narrador)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556600, "title": "healthy skin, healthy life!", "original_title": "healthy skin, healthy life!", "slug_title": "healthy-skin-healthy-life", "date": "2017-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

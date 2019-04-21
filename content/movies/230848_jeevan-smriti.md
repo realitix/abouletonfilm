@@ -1,0 +1,1 @@
+{"tmdb_id": 230848, "title": "Jeevan Smriti", "original_title": "Jeevan Smriti", "slug_title": "jeevan-smriti", "date": "2013-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sanjoy Nag ()", "Samadarshi Dutta ()", "Raima Sen ()", "Anirban Ghosh ()"], "comments": [], "recommandations_id": []}

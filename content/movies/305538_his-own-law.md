@@ -1,0 +1,1 @@
+{"tmdb_id": 305538, "title": "His Own Law", "original_title": "His Own Law", "slug_title": "his-own-law", "date": "1920-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hobart Bosworth (J.C. MacNeir)", "Rowland V. Lee (Jean Saval)", "Jean Calhoun (Sylvia)", "Frank Brownlee ()"], "comments": [], "recommandations_id": []}

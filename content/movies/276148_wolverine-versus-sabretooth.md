@@ -1,0 +1,1 @@
+{"tmdb_id": 276148, "title": "Wolverine Versus Sabretooth", "original_title": "Wolverine Versus Sabretooth", "slug_title": "wolverine-versus-sabretooth", "date": "2014-01-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zVD5bVYPqvUrz4ajQ0SYftjDV5.jpg", "actors": [], "comments": [], "recommandations_id": []}

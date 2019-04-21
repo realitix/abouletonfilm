@@ -1,0 +1,1 @@
+{"tmdb_id": 319581, "title": "Superbank: The Surf Movie", "original_title": "Superbank: The Surf Movie", "slug_title": "superbank-the-surf-movie", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

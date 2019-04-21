@@ -1,0 +1,1 @@
+{"tmdb_id": 420357, "title": "The Waiting Room Project", "original_title": "The Waiting Room Project", "slug_title": "the-waiting-room-project", "date": "2016-01-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trACELULOhvrw4QeVGg6wRCUrub.jpg", "actors": [], "comments": [], "recommandations_id": []}

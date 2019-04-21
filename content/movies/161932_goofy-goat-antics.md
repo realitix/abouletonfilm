@@ -1,0 +1,1 @@
+{"tmdb_id": 161932, "title": "Goofy Goat Antics", "original_title": "Goofy Goat Antics", "slug_title": "goofy-goat-antics", "date": "1931-05-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46soDu96TNP3IAikpyN4IyJ60yz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278577, "title": "Murder at Monkey Hill", "original_title": "Murder at Monkey Hill", "slug_title": "murder-at-monkey-hill", "date": "1976-03-11", "genre": "Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 65471, "title": "Elvis - '68 Comeback", "original_title": "Elvis - '68 Comeback", "slug_title": "elvis-68-comeback", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u6j7QFNCVE9p6b4NGo6TIU2yAg9.jpg", "actors": [], "comments": [], "recommandations_id": []}

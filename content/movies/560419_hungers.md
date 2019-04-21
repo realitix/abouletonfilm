@@ -1,0 +1,1 @@
+{"tmdb_id": 560419, "title": "Hungers", "original_title": "Hungers", "slug_title": "hungers", "date": "1987-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

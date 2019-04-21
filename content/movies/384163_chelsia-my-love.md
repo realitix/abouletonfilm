@@ -1,0 +1,1 @@
+{"tmdb_id": 384163, "title": "Chelsia My Love", "original_title": "\u79cb\u971e", "slug_title": "chelsia-my-love", "date": "1976-07-28", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chelsia Chan ()", "Kenny Bee ()", "Chu Ching ()", "Shan Kwan ()"], "comments": [], "recommandations_id": []}

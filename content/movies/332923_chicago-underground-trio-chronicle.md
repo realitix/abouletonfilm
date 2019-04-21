@@ -1,0 +1,1 @@
+{"tmdb_id": 332923, "title": "Chicago Underground Trio - Chronicle", "original_title": "Chicago Underground Trio - Chronicle", "slug_title": "chicago-underground-trio-chronicle", "date": "2015-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

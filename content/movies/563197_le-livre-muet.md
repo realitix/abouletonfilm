@@ -1,0 +1,1 @@
+{"tmdb_id": 563197, "title": "Le livre muet", "original_title": "Le livre muet", "slug_title": "le-livre-muet", "date": "1962-01-01", "genre": "Fantastique / Horreur / T\u00e9l\u00e9film / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Qiw03Axb6GbWWcka6BGMFZkn4.jpg", "actors": [], "comments": [], "recommandations_id": []}

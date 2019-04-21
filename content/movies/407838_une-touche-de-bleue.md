@@ -1,0 +1,1 @@
+{"tmdb_id": 407838, "title": "Une touche de bleue", "original_title": "Une touche de bleue", "slug_title": "une-touche-de-bleue", "date": "1988-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wLH1zDbwhFgfsErFbc7T26WuC1.jpg", "actors": [], "comments": [], "recommandations_id": []}

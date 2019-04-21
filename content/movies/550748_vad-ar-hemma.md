@@ -1,0 +1,1 @@
+{"tmdb_id": 550748, "title": "Vad \u00e4r hemma?", "original_title": "Vad \u00e4r hemma?", "slug_title": "vad-ar-hemma", "date": "2009-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrik Kalliola ()", "\u00c5sa Svensson ()"], "comments": [], "recommandations_id": []}

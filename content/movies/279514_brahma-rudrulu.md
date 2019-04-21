@@ -1,0 +1,1 @@
+{"tmdb_id": 279514, "title": "Brahma Rudrulu", "original_title": "Brahma Rudrulu", "slug_title": "brahma-rudrulu", "date": "1986-11-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Venkatesh ()", "Rajini Nivedhita ()", "Nageshwara Rao Akkineni ()", "Lakshmi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583846, "title": "Stranger coming", "original_title": "Stranger coming", "slug_title": "stranger-coming", "date": "2018-09-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uY3UD3MiqoAnwqC5iTlameE5jMc.jpg", "actors": ["Jae Hee (\uc774\ud604\uade0)"], "comments": [], "recommandations_id": []}

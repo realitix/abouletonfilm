@@ -1,0 +1,1 @@
+{"tmdb_id": 256708, "title": "The Naughty Shutter", "original_title": "The Naughty Shutter", "slug_title": "the-naughty-shutter", "date": "1963-12-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uAJuVo2dBf81Te7QJENZT6zVydn.jpg", "actors": [], "comments": [], "recommandations_id": []}

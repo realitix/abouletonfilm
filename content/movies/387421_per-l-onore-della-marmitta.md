@@ -1,0 +1,1 @@
+{"tmdb_id": 387421, "title": "Per l'onore della marmitta", "original_title": "Per l'onore della marmitta", "slug_title": "per-l-onore-della-marmitta", "date": "2016-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

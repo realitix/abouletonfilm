@@ -1,0 +1,1 @@
+{"tmdb_id": 467429, "title": "Mediums", "original_title": "Mediums", "slug_title": "mediums", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

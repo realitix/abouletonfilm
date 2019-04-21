@@ -1,0 +1,1 @@
+{"tmdb_id": 570094, "title": "Une poste \u00e0 la Courneuve", "original_title": "Une poste \u00e0 la Courneuve", "slug_title": "une-poste-a-la-courneuve", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

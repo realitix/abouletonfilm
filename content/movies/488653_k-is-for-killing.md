@@ -1,0 +1,1 @@
+{"tmdb_id": 488653, "title": "K is for Killing", "original_title": "K is for Killing", "slug_title": "k-is-for-killing", "date": "1974-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284477, "title": "Diary-Ahh of a Mad Independent Filmmaker", "original_title": "Diary-Ahh of a Mad Independent Filmmaker", "slug_title": "diary-ahh-of-a-mad-independent-filmmaker", "date": "2009-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lloyd Kaufman (Himself)"], "comments": [], "recommandations_id": []}

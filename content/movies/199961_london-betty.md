@@ -1,0 +1,1 @@
+{"tmdb_id": 199961, "title": "London Betty", "original_title": "London Betty", "slug_title": "london-betty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

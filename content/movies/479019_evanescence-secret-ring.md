@@ -1,0 +1,1 @@
+{"tmdb_id": 479019, "title": "Evanescence : Secret Ring", "original_title": "Evanescence: Secret Ring", "slug_title": "evanescence-secret-ring", "date": "2004-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9UABshNx1bonP5c5LpaAq1C3r6A.jpg", "actors": ["Amy Lee (Vocals)"], "comments": [], "recommandations_id": []}

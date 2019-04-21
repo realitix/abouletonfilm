@@ -1,0 +1,1 @@
+{"tmdb_id": 588950, "title": "College is a Nice Place", "original_title": "College is a Nice Place", "slug_title": "college-is-a-nice-place", "date": "1936-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chish\u016b Ry\u016b (Amano)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343011, "title": "Templo Cerrado", "original_title": "Templo Cerrado", "slug_title": "templo-cerrado", "date": "1982-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iuyxmTgNQzC0X4pKOGTF0kSq6Vb.jpg", "actors": [], "comments": [], "recommandations_id": []}

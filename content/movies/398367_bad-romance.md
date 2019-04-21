@@ -1,0 +1,1 @@
+{"tmdb_id": 398367, "title": "Bad Romance", "original_title": "Bad Romance", "slug_title": "bad-romance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

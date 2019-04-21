@@ -1,0 +1,1 @@
+{"tmdb_id": 191794, "title": "Cotto vs. Trout", "original_title": "Cotto vs. Trout", "slug_title": "cotto-vs-trout", "date": "2012-12-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cAeF3LANemIKh0kgXL36jQ5JCeq.jpg", "actors": [], "comments": [], "recommandations_id": []}

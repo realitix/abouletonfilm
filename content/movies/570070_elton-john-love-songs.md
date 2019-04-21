@@ -1,0 +1,1 @@
+{"tmdb_id": 570070, "title": "Elton John: Love Songs", "original_title": "Elton John: Love Songs", "slug_title": "elton-john-love-songs", "date": "", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/offgeh6mRJOfJXMC42stOmckcOf.jpg", "actors": ["Elton John (Himself)"], "comments": [], "recommandations_id": []}

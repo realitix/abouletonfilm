@@ -1,0 +1,1 @@
+{"tmdb_id": 301539, "title": "Monsters of Metal Vol. 2", "original_title": "Monsters of Metal Vol. 2", "slug_title": "monsters-of-metal-vol-2", "date": "2004-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPBUXzMrxTb6IFQaxlNtyjTYrhv.jpg", "actors": [], "comments": [], "recommandations_id": []}

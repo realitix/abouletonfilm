@@ -1,0 +1,1 @@
+{"tmdb_id": 326729, "title": "Self Portrait", "original_title": "\u7247\u540d\uff1a\u81ea\u753b\u50cf", "slug_title": "self-portrait", "date": "1988-01-01", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fK38mUo6w2julRJ1JV6RdAljGgG.jpg", "actors": [], "comments": [], "recommandations_id": []}

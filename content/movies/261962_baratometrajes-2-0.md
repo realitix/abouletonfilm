@@ -1,0 +1,1 @@
+{"tmdb_id": 261962, "title": "Baratometrajes 2.0", "original_title": "Baratometrajes 2.0", "slug_title": "baratometrajes-2-0", "date": "2014-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mU5Y5madZ1GnN2DH8djnRffeljb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 325490, "title": "The Wrecks", "original_title": "The Wrecks", "slug_title": "the-wrecks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

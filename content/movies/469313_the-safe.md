@@ -1,0 +1,1 @@
+{"tmdb_id": 469313, "title": "The Safe", "original_title": "The Safe", "slug_title": "the-safe", "date": "1930-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sam B. Wood (The Lover)", "Bill Sawyer (The Burglar)", "Phyllis Carr (The Typist)"], "comments": [], "recommandations_id": []}

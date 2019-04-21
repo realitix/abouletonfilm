@@ -1,0 +1,1 @@
+{"tmdb_id": 505721, "title": "Walking on the Wild Side", "original_title": "Walking on the Wild Side", "slug_title": "walking-on-the-wild-side", "date": "2000-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dominique Abel ()", "Fiona Gordon ()"], "comments": [], "recommandations_id": []}

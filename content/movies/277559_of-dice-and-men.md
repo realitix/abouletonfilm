@@ -1,0 +1,1 @@
+{"tmdb_id": 277559, "title": "Of Dice and Men", "original_title": "Of Dice and Men", "slug_title": "of-dice-and-men", "date": "1988-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Massey ()", "Richard Dumont ()"], "comments": [], "recommandations_id": []}

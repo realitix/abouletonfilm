@@ -1,0 +1,1 @@
+{"tmdb_id": 157810, "title": "Hollywood on Parade No. A-3", "original_title": "Hollywood on Parade No. A-3", "slug_title": "hollywood-on-parade-no-a-3", "date": "1932-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

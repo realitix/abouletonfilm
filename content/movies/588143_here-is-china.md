@@ -1,0 +1,1 @@
+{"tmdb_id": 588143, "title": "Here Is China", "original_title": "Here Is China", "slug_title": "here-is-china", "date": "1944-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clifton Fadiman (Clifton Fadiman)", "Kai-Shek Chiang ()"], "comments": [], "recommandations_id": []}

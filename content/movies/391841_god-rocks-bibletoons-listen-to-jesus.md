@@ -1,0 +1,1 @@
+{"tmdb_id": 391841, "title": "God Rocks! Bibletoons: Listen To Jesus", "original_title": "God Rocks! Bibletoons: Listen To Jesus", "slug_title": "god-rocks-bibletoons-listen-to-jesus", "date": "2007-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

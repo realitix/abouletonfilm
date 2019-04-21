@@ -1,0 +1,1 @@
+{"tmdb_id": 568303, "title": "The Tale of the Plump Bird", "original_title": "The Tale of the Plump Bird", "slug_title": "the-tale-of-the-plump-bird", "date": "2014-06-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nA5savk4rx3s3xPSfqaLcPaFZuR.jpg", "actors": [], "comments": [], "recommandations_id": []}

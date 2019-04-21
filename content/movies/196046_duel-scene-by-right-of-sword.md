@@ -1,0 +1,1 @@
+{"tmdb_id": 196046, "title": "Duel Scene, 'By Right of Sword'", "original_title": "Duel Scene, 'By Right of Sword'", "slug_title": "duel-scene-by-right-of-sword", "date": "1904-01-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

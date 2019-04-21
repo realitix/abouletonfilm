@@ -1,0 +1,1 @@
+{"tmdb_id": 551765, "title": "Virgencita", "original_title": "Virgencita", "slug_title": "virgencita", "date": "2018-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

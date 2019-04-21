@@ -1,0 +1,1 @@
+{"tmdb_id": 561391, "title": "O Vermelho do Meio-Dia", "original_title": "O Vermelho do Meio-Dia", "slug_title": "o-vermelho-do-meio-dia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

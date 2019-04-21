@@ -1,0 +1,1 @@
+{"tmdb_id": 307374, "title": "Hostel Days", "original_title": "Hostel Days", "slug_title": "hostel-days", "date": "2012-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

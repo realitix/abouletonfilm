@@ -1,0 +1,1 @@
+{"tmdb_id": 313142, "title": "Russian Painters: The Impressionist Years", "original_title": "Russian Painters: The Impressionist Years", "slug_title": "russian-painters-the-impressionist-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

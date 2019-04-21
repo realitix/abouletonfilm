@@ -1,0 +1,1 @@
+{"tmdb_id": 399462, "title": "Lava Bubbles", "original_title": "Lava Bubbles", "slug_title": "lava-bubbles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gt9odSgS7EKkOjderzpExFrIejP.jpg", "actors": [], "comments": [], "recommandations_id": []}

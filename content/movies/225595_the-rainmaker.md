@@ -1,0 +1,1 @@
+{"tmdb_id": 225595, "title": "The Rainmaker", "original_title": "Impian kemarau", "slug_title": "the-rainmaker", "date": "2004-10-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LM0qkWkgVE5kckrHgIo2BYDSuP.jpg", "actors": [], "comments": [], "recommandations_id": []}

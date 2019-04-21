@@ -1,0 +1,1 @@
+{"tmdb_id": 132520, "title": "Comrades", "original_title": "Comrades", "slug_title": "comrades", "date": "1911-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

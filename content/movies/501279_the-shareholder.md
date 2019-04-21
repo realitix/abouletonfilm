@@ -1,0 +1,1 @@
+{"tmdb_id": 501279, "title": "The Shareholder", "original_title": "\u0410\u043a\u0446\u0438\u043e\u043d\u0435\u0440", "slug_title": "the-shareholder", "date": "1963-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yGIpV93QZidzZMj9qRgr7xRaTM.jpg", "actors": [], "comments": [], "recommandations_id": []}

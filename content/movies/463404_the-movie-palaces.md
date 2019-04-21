@@ -1,0 +1,1 @@
+{"tmdb_id": 463404, "title": "The Movie Palaces", "original_title": "The Movie Palaces", "slug_title": "the-movie-palaces", "date": "1987-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzSMJH9kdc3BogB8O6pIfAXjtlU.jpg", "actors": ["Gene Kelly (Gene Kelly)"], "comments": [], "recommandations_id": []}

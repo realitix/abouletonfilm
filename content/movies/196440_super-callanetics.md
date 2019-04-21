@@ -1,0 +1,1 @@
+{"tmdb_id": 196440, "title": "Super Callanetics", "original_title": "Super Callanetics", "slug_title": "super-callanetics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJAo8gB2SoLEzZkAm2vD9Aj2GMS.jpg", "actors": [], "comments": [], "recommandations_id": []}

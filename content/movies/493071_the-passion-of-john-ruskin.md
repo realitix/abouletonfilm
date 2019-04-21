@@ -1,0 +1,1 @@
+{"tmdb_id": 493071, "title": "The Passion of John Ruskin", "original_title": "The Passion of John Ruskin", "slug_title": "the-passion-of-john-ruskin", "date": "1994-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark McKinney (John Ruskin)"], "comments": [], "recommandations_id": []}

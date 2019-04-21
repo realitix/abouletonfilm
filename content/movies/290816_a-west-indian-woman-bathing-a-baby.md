@@ -1,0 +1,1 @@
+{"tmdb_id": 290816, "title": "A West Indian Woman Bathing a Baby", "original_title": "A West Indian Woman Bathing a Baby", "slug_title": "a-west-indian-woman-bathing-a-baby", "date": "1895-01-02", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

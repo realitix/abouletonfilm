@@ -1,0 +1,1 @@
+{"tmdb_id": 310617, "title": "Dueto Voces del Rancho: Pura Raza", "original_title": "Dueto Voces del Rancho: Pura Raza", "slug_title": "dueto-voces-del-rancho-pura-raza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

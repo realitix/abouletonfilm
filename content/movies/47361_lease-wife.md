@@ -1,0 +1,1 @@
+{"tmdb_id": 47361, "title": "Lease Wife", "original_title": "Zu qi", "slug_title": "lease-wife", "date": "2006-03-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1Obik8c29sqB7N2kBu3fb7UuiH.jpg", "actors": ["Jiaxuan Li (Lily)", "Pan Yue-Ming (Guo Jiaju)"], "comments": [], "recommandations_id": []}

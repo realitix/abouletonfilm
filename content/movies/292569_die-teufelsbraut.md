@@ -1,0 +1,1 @@
+{"tmdb_id": 292569, "title": "Die Teufelsbraut", "original_title": "Die Teufelsbraut", "slug_title": "die-teufelsbraut", "date": "1977-09-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lil Dagover ()", "Klaus Schwarzkopf ()", "Udo Thomer ()", "Elert Bode ()"], "comments": [], "recommandations_id": []}

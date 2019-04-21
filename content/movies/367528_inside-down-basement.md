@@ -1,0 +1,1 @@
+{"tmdb_id": 367528, "title": "Inside Down Basement", "original_title": "Interior bajo izquierda", "slug_title": "inside-down-basement", "date": "2008-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hertha C\u00e1rdenas (Vieja)", "Carlos Gassols (Viejo)"], "comments": [], "recommandations_id": []}

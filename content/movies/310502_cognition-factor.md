@@ -1,0 +1,1 @@
+{"tmdb_id": 310502, "title": "Cognition Factor", "original_title": "Cognition Factor", "slug_title": "cognition-factor", "date": "2009-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

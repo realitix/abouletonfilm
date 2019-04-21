@@ -1,0 +1,1 @@
+{"tmdb_id": 561693, "title": "Killing Time", "original_title": "Killing Time", "slug_title": "killing-time", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQNPigb6Q7adCSvJFO1sGjH4WJe.jpg", "actors": [], "comments": [], "recommandations_id": []}

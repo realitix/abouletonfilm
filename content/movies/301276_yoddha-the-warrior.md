@@ -1,0 +1,1 @@
+{"tmdb_id": 301276, "title": "Yoddha: The Warrior", "original_title": "Yoddha: The Warrior", "slug_title": "yoddha-the-warrior", "date": "2014-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74M6ik3gqASpQUX7dUsg0Nh2R2W.jpg", "actors": ["Rahul Dev ()"], "comments": [], "recommandations_id": []}

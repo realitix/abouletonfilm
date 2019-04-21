@@ -1,0 +1,1 @@
+{"tmdb_id": 202389, "title": "Paste Makes Waste", "original_title": "Paste Makes Waste", "slug_title": "paste-makes-waste", "date": "1968-06-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9n87yuYhMHpYMlgb6isFkX7xNb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 489913, "title": "Honeymoon Blues", "original_title": "Honeymoon Blues", "slug_title": "honeymoon-blues", "date": "1946-10-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh 'Hughie' Herbert)"], "comments": [], "recommandations_id": []}

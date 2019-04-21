@@ -1,0 +1,1 @@
+{"tmdb_id": 275827, "title": "Half Pint: Live in Jamaica", "original_title": "Half Pint: Live in Jamaica", "slug_title": "half-pint-live-in-jamaica", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

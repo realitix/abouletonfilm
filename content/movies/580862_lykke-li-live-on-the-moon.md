@@ -1,0 +1,1 @@
+{"tmdb_id": 580862, "title": "Lykke Li: Live on the Moon", "original_title": "Lykke Li: Live on the Moon", "slug_title": "lykke-li-live-on-the-moon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

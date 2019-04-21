@@ -1,0 +1,1 @@
+{"tmdb_id": 579728, "title": "Seoul Machine City", "original_title": "Seoul Machine City", "slug_title": "seoul-machine-city", "date": "2017-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ga3IKXwtBorLNGy6IS9iaJid0ox.jpg", "actors": [], "comments": [], "recommandations_id": []}

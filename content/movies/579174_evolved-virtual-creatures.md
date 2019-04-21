@@ -1,0 +1,1 @@
+{"tmdb_id": 579174, "title": "Evolved Virtual Creatures", "original_title": "Evolved Virtual Creatures", "slug_title": "evolved-virtual-creatures", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

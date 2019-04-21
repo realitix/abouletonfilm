@@ -1,0 +1,1 @@
+{"tmdb_id": 238652, "title": "The Way To The West", "original_title": "O dromos pros ti Dysi", "slug_title": "the-way-to-the-west", "date": "2003-04-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7iHbklbmkCklOxyOOcK18timNF.jpg", "actors": ["Katia Yerou (Irina)"], "comments": [], "recommandations_id": []}

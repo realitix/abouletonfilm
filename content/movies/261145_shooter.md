@@ -1,0 +1,1 @@
+{"tmdb_id": 261145, "title": "Shooter", "original_title": "Shooter", "slug_title": "shooter", "date": "2009-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584813, "title": "Bolshoi Ballet: The Best Of", "original_title": "Bolshoi Ballet: The Best Of", "slug_title": "bolshoi-ballet-the-best-of", "date": "2008-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1FhyWwOF8J0JwXp70egcQxrXSR.jpg", "actors": [], "comments": [], "recommandations_id": []}

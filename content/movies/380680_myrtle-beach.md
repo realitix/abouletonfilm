@@ -1,0 +1,1 @@
+{"tmdb_id": 380680, "title": "Myrtle Beach", "original_title": "Myrtle Beach", "slug_title": "myrtle-beach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

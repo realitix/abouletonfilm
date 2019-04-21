@@ -1,0 +1,1 @@
+{"tmdb_id": 207458, "title": "Dead Girls Don't Cry", "original_title": "Dead Girls Don't Cry", "slug_title": "dead-girls-don-t-cry", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lynn Lowry ()", "Eileen Dietz (Diane Thomas)", "Stacey Dixon ()"], "comments": [], "recommandations_id": []}

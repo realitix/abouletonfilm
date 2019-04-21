@@ -1,0 +1,1 @@
+{"tmdb_id": 428963, "title": "The Red Cross Wants 25,000 Graduate Nurses", "original_title": "The Red Cross Wants 25,000 Graduate Nurses", "slug_title": "the-red-cross-wants-25000-graduate-nurses", "date": "1918-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 175902, "title": "The Red and the Black", "original_title": "Czerwone i czarne", "slug_title": "the-red-and-the-black", "date": "1964-06-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t61rasE6ZZfHrySHGHyQeFw6Sk3.jpg", "actors": [], "comments": [], "recommandations_id": []}

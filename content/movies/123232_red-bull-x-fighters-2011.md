@@ -1,0 +1,1 @@
+{"tmdb_id": 123232, "title": "Red Bull X-Fighters 2011", "original_title": "Red Bull X-Fighters 2011", "slug_title": "red-bull-x-fighters-2011", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Villa ()"], "comments": [], "recommandations_id": []}

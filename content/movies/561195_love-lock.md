@@ -1,0 +1,1 @@
+{"tmdb_id": 561195, "title": "Love Lock", "original_title": "\u60c5\u9396", "slug_title": "love-lock", "date": "1975-08-30", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Li Ching ()", "Si Wai ()", "Hua Chung ()", "Chen Ping ()", "Shan Kwan ()", "Wang Hsieh ()", "Ching Miao ()"], "comments": [], "recommandations_id": []}

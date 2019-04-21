@@ -1,0 +1,1 @@
+{"tmdb_id": 330119, "title": "Philips Demonstration Disc", "original_title": "Philips Demonstration Disc", "slug_title": "philips-demonstration-disc", "date": "2011-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfnvHbZQudcJwcFQismf5Xf5I5T.jpg", "actors": [], "comments": [], "recommandations_id": []}

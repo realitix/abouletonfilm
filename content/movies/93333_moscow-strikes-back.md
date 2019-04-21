@@ -1,0 +1,1 @@
+{"tmdb_id": 93333, "title": "Moscow Strikes Back", "original_title": "Moscow Strikes Back", "slug_title": "moscow-strikes-back", "date": "1942-02-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbA0HK1TwPPZWo9EeucaCVwtlLp.jpg", "actors": [], "comments": [], "recommandations_id": []}

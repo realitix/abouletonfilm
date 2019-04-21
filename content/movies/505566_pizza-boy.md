@@ -1,0 +1,1 @@
+{"tmdb_id": 505566, "title": "Pizza Boy", "original_title": "Pizza Boy", "slug_title": "pizza-boy", "date": "2018-02-07", "genre": "Thriller / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dillon McFarlane (The Boy)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394831, "title": "Davi Sacer - Meu Abrigo", "original_title": "Davi Sacer - Meu Abrigo", "slug_title": "davi-sacer-meu-abrigo", "date": "2015-12-18", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSlHsv8Tbax6Vgu5pxqfscuWSn0.jpg", "actors": [], "comments": [], "recommandations_id": []}

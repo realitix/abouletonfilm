@@ -1,0 +1,1 @@
+{"tmdb_id": 393442, "title": "Anthrax: [2016] Hollywood, CA", "original_title": "Anthrax: [2016] Hollywood, CA", "slug_title": "anthrax-2016-hollywood-ca", "date": "2016-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h91MIZrQpDI6PseNrbkeSRmtC5W.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481870, "title": "Meet the Devotees", "original_title": "Meet the Devotees", "slug_title": "meet-the-devotees", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366527, "title": "Av m\u00e5neskinn gror det ingenting", "original_title": "Av m\u00e5neskinn gror det ingenting", "slug_title": "av-maneskinn-gror-det-ingenting", "date": "1987-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

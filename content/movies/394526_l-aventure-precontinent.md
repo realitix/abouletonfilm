@@ -1,0 +1,1 @@
+{"tmdb_id": 394526, "title": "L'aventure Pr\u00e9continent", "original_title": "The World of Jacques-Yves Cousteau", "slug_title": "l-aventure-precontinent", "date": "1966-03-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacques-Yves Cousteau (Himself)"], "comments": [], "recommandations_id": []}

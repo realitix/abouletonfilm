@@ -1,0 +1,1 @@
+{"tmdb_id": 268363, "title": "Electronic Performers", "original_title": "Electronic Performers", "slug_title": "electronic-performers", "date": "", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

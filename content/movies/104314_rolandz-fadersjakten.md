@@ -1,0 +1,1 @@
+{"tmdb_id": 104314, "title": "Rolandz - Fadersjakten", "original_title": "Rolandz - Fadersjakten", "slug_title": "rolandz-fadersjakten", "date": "2012-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Y6ii8lxJv0Ll8E6CpLKSKWCVqY.jpg", "actors": [], "comments": [], "recommandations_id": []}

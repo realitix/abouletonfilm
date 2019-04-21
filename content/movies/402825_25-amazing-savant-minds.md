@@ -1,0 +1,1 @@
+{"tmdb_id": 402825, "title": "25 Amazing Savant Minds", "original_title": "25 Amazing Savant Minds", "slug_title": "25-amazing-savant-minds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

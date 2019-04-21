@@ -1,0 +1,1 @@
+{"tmdb_id": 527654, "title": "American Justice: Charles Starkweather", "original_title": "American Justice: Charles Starkweather", "slug_title": "american-justice-charles-starkweather", "date": "1993-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Kurtis (Narrator)"], "comments": [], "recommandations_id": []}

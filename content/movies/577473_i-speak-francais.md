@@ -1,0 +1,1 @@
+{"tmdb_id": 577473, "title": "I speak fran\u00e7ais", "original_title": "I speak fran\u00e7ais", "slug_title": "i-speak-francais", "date": "2019-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

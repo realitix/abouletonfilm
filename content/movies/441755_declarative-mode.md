@@ -1,0 +1,1 @@
+{"tmdb_id": 441755, "title": "Declarative Mode", "original_title": "Declarative Mode", "slug_title": "declarative-mode", "date": "1977-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

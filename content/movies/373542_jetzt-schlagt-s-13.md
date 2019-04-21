@@ -1,0 +1,1 @@
+{"tmdb_id": 373542, "title": "Jetzt schl\u00e4gt's 13", "original_title": "Jetzt schl\u00e4gt's 13", "slug_title": "jetzt-schlagt-s-13", "date": "1967-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Alexander ()", "Beppo Brem ()", "Hans Clarin ()"], "comments": [], "recommandations_id": []}

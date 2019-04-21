@@ -1,0 +1,1 @@
+{"tmdb_id": 585776, "title": "City Opera", "original_title": "City Opera", "slug_title": "city-opera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

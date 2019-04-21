@@ -1,0 +1,1 @@
+{"tmdb_id": 425668, "title": "Ac\u00fastico MTV", "original_title": "Ac\u00fastico MTV", "slug_title": "acustico-mtv", "date": "2000-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dinho Ouro Preto ()", "Fl\u00e1vio Lemos ()", "F\u00ea Lemos ()", "Yves Passarel ()"], "comments": [], "recommandations_id": []}

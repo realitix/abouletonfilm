@@ -1,0 +1,1 @@
+{"tmdb_id": 534098, "title": "Les mamies", "original_title": "Les mamies", "slug_title": "les-mamies", "date": "1992-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zdyW9f9JMEJJCnODxdji0vGiCxQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

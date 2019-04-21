@@ -1,0 +1,1 @@
+{"tmdb_id": 457625, "title": "Fa\u00e7o de Mim O Que Quero", "original_title": "Fa\u00e7o de Mim O Que Quero", "slug_title": "faco-de-mim-o-que-quero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

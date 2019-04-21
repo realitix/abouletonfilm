@@ -1,0 +1,1 @@
+{"tmdb_id": 556736, "title": "Le tampon du capiston", "original_title": "Le tampon du capiston", "slug_title": "le-tampon-du-capiston", "date": "1931-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 555546, "title": "Naftalina", "original_title": "Naftalina", "slug_title": "naftalina", "date": "1982-10-07", "genre": "Myst\u00e8re / Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2DTThgb2VML1xyAIYj7ifpdm7V.jpg", "actors": [], "comments": [], "recommandations_id": []}

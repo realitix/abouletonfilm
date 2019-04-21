@@ -1,0 +1,1 @@
+{"tmdb_id": 350929, "title": "Near Yet Far Away", "original_title": "\uac00\uae5d\uace0\ub3c4 \uba3c \uae38", "slug_title": "near-yet-far-away", "date": "1978-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MNRu8iXgu9AgVqeb6JxI2csEKy.jpg", "actors": [], "comments": [], "recommandations_id": []}

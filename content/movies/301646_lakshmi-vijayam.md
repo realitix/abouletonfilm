@@ -1,0 +1,1 @@
+{"tmdb_id": 301646, "title": "Lakshmi Vijayam", "original_title": "Lakshmi Vijayam", "slug_title": "lakshmi-vijayam", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

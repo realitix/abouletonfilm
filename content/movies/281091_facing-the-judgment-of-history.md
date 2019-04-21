@@ -1,0 +1,1 @@
+{"tmdb_id": 281091, "title": "Facing the Judgment of History", "original_title": "Pered sudom istorii", "slug_title": "facing-the-judgment-of-history", "date": "1965-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTKk8nxDOMWO68dEP5bfszP62O9.jpg", "actors": [], "comments": [], "recommandations_id": []}

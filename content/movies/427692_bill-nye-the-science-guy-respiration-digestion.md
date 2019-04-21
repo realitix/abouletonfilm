@@ -1,0 +1,1 @@
+{"tmdb_id": 427692, "title": "Bill Nye the Science Guy: Respiration & Digestion", "original_title": "Bill Nye the Science Guy: Respiration & Digestion", "slug_title": "bill-nye-the-science-guy-respiration-digestion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

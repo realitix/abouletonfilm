@@ -1,0 +1,1 @@
+{"tmdb_id": 312487, "title": "Negative Approach: Can't Tell No One", "original_title": "Negative Approach: Can't Tell No One", "slug_title": "negative-approach-can-t-tell-no-one", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

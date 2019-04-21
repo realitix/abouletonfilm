@@ -1,0 +1,1 @@
+{"tmdb_id": 336209, "title": "The Fight for the Freetown", "original_title": "Kampen om Staden", "slug_title": "the-fight-for-the-freetown", "date": "2005-01-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562754, "title": "Le journal d\u2019un fou", "original_title": "Le journal d\u2019un fou", "slug_title": "le-journal-dun-fou", "date": "1963-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/srnfGJHkJ4YOdyJjMErnqrwLnMj.jpg", "actors": [], "comments": [], "recommandations_id": []}

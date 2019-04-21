@@ -1,0 +1,1 @@
+{"tmdb_id": 589950, "title": "\u017donglierius", "original_title": "\u017donglierius", "slug_title": "zonglierius", "date": "2019-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

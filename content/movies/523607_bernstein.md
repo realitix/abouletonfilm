@@ -1,0 +1,1 @@
+{"tmdb_id": 523607, "title": "Bernstein", "original_title": "Bernstein", "slug_title": "bernstein", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTwWwi89OuRJb0Sfjojj9MG8ovN.jpg", "actors": ["Bradley Cooper (Leonard Bernstein)"], "comments": [], "recommandations_id": []}

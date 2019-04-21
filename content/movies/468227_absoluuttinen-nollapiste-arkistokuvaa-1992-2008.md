@@ -1,0 +1,1 @@
+{"tmdb_id": 468227, "title": "Absoluuttinen Nollapiste: Arkistokuvaa 1992\u20132008", "original_title": "Absoluuttinen Nollapiste: Arkistokuvaa 1992\u20132008", "slug_title": "absoluuttinen-nollapiste-arkistokuvaa-1992-2008", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

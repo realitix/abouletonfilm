@@ -1,0 +1,1 @@
+{"tmdb_id": 552714, "title": "Cool Baby, Lame Baby", "original_title": "Cool Baby, Lame Baby", "slug_title": "cool-baby-lame-baby", "date": "2011-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9S4b5wa0cTGpSwLv9GCnWB8VJ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

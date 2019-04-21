@@ -1,0 +1,1 @@
+{"tmdb_id": 392042, "title": "The Judy Spots", "original_title": "The Judy Spots", "slug_title": "the-judy-spots", "date": "1995-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9dxyOkv0N6yzVaxA7AfCX8MqLZc.jpg", "actors": ["Kathleen Hanna (Judy)"], "comments": [], "recommandations_id": []}

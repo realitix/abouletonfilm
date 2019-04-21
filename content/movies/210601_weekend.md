@@ -1,0 +1,1 @@
+{"tmdb_id": 210601, "title": "Weekend", "original_title": "Weekend", "slug_title": "weekend", "date": "2009-08-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c8t9gffqROYYQOF5g9aWtskhc8k.jpg", "actors": [], "comments": [], "recommandations_id": []}

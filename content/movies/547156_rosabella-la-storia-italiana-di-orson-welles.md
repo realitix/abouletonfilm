@@ -1,0 +1,1 @@
+{"tmdb_id": 547156, "title": "Rosabella: la storia italiana di Orson Welles", "original_title": "Rosabella: la storia italiana di Orson Welles", "slug_title": "rosabella-la-storia-italiana-di-orson-welles", "date": "1993-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397695, "title": "That Film About Money", "original_title": "That Film About Money", "slug_title": "that-film-about-money", "date": "2014-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

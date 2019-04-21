@@ -1,0 +1,1 @@
+{"tmdb_id": 307881, "title": "Devdasi", "original_title": "Devdasi", "slug_title": "devdasi", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

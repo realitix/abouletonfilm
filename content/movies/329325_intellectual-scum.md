@@ -1,0 +1,1 @@
+{"tmdb_id": 329325, "title": "Intellectual Scum", "original_title": "Intellectual Scum", "slug_title": "intellectual-scum", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

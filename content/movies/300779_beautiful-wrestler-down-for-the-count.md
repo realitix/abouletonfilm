@@ -1,0 +1,1 @@
+{"tmdb_id": 300779, "title": "Beautiful Wrestler: Down for the Count", "original_title": "Bish\u00f4jo puroresu: shisshin 10-byo mae", "slug_title": "beautiful-wrestler-down-for-the-count", "date": "1984-01-01", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581044, "title": "Von der Reichskanzlei bis Paraguay", "original_title": "Von der Reichskanzlei bis Paraguay", "slug_title": "von-der-reichskanzlei-bis-paraguay", "date": "1992-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

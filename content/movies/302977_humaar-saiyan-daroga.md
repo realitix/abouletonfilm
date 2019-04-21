@@ -1,0 +1,1 @@
+{"tmdb_id": 302977, "title": "Humaar Saiyan Daroga", "original_title": "Humaar Saiyan Daroga", "slug_title": "humaar-saiyan-daroga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

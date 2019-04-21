@@ -1,0 +1,1 @@
+{"tmdb_id": 369915, "title": "Bharat & Perry's adventure", "original_title": "Bharat & Perry's adventure", "slug_title": "bharat-perry-s-adventure", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sD0tylU6ysBBDW7cmvCh3cMXtBP.jpg", "actors": [], "comments": [], "recommandations_id": []}

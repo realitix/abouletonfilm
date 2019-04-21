@@ -1,0 +1,1 @@
+{"tmdb_id": 308995, "title": "Splashing", "original_title": "Splashing", "slug_title": "splashing", "date": "1966-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKXrJGFX6fNddRj0A8RuBZQ63LR.jpg", "actors": [], "comments": [], "recommandations_id": []}

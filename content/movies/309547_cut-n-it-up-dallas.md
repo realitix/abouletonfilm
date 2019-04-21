@@ -1,0 +1,1 @@
+{"tmdb_id": 309547, "title": "Cut'n It Up: Dallas", "original_title": "Cut'n It Up: Dallas", "slug_title": "cut-n-it-up-dallas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

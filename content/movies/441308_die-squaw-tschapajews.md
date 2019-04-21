@@ -1,0 +1,1 @@
+{"tmdb_id": 441308, "title": "Die Squaw Tschapajews", "original_title": "Die Squaw Tschapajews", "slug_title": "die-squaw-tschapajews", "date": "1973-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71F1bAeMUJLL6XVakX7eoHaGsct.jpg", "actors": [], "comments": [], "recommandations_id": []}

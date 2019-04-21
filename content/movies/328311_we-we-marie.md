@@ -1,0 +1,1 @@
+{"tmdb_id": 328311, "title": "We! We! Marie!", "original_title": "We! We! Marie!", "slug_title": "we-we-marie", "date": "1930-10-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Slim Summerville ()", "Eddie Gribbon ()", "Pauline Garon ()"], "comments": [], "recommandations_id": []}

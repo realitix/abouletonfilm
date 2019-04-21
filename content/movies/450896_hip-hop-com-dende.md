@@ -1,0 +1,1 @@
+{"tmdb_id": 450896, "title": "Hip Hop com Dend\u00ea", "original_title": "Hip Hop com Dend\u00ea", "slug_title": "hip-hop-com-dende", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

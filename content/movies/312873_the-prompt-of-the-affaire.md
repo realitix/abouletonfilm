@@ -1,0 +1,1 @@
+{"tmdb_id": 312873, "title": "The prompt of the Affaire", "original_title": "Le souffleur de l'affaire", "slug_title": "the-prompt-of-the-affaire", "date": "2014-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fllb6yJ6G1D8GSWFiNDZZL41zB5.jpg", "actors": [], "comments": [], "recommandations_id": []}

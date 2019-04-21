@@ -1,0 +1,1 @@
+{"tmdb_id": 24659, "title": "Master Killer", "original_title": "Master Killer", "slug_title": "master-killer", "date": "1979-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

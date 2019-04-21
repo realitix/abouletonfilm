@@ -1,0 +1,1 @@
+{"tmdb_id": 416064, "title": "Blockbuster Training Video", "original_title": "Blockbuster Training Video", "slug_title": "blockbuster-training-video", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 86991, "title": "2012 The Odyssey", "original_title": "2012 The Odyssey", "slug_title": "2012-the-odyssey", "date": "2007-08-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jose Arguelles (Himself)", "Gregg Braden (Himself)", "John Major Jenkins (Himself)"], "comments": [], "recommandations_id": []}

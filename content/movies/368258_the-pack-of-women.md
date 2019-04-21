@@ -1,0 +1,1 @@
+{"tmdb_id": 368258, "title": "The Pack of Women", "original_title": "The Pack of Women", "slug_title": "the-pack-of-women", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

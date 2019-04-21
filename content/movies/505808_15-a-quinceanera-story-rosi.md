@@ -1,0 +1,1 @@
+{"tmdb_id": 505808, "title": "15: A Quinceanera Story: Rosi", "original_title": "15: A Quinceanera Story: Rosi", "slug_title": "15-a-quinceanera-story-rosi", "date": "2017-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cPr54v9mwQEzMPayt8rl6DiTRZh.jpg", "actors": [], "comments": [], "recommandations_id": []}

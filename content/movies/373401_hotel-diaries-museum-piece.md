@@ -1,0 +1,1 @@
+{"tmdb_id": 373401, "title": "Hotel Diaries: Museum Piece", "original_title": "Hotel Diaries: Museum Piece", "slug_title": "hotel-diaries-museum-piece", "date": "2004-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QfyfbumtS1BDurfoMAQpXBJT2f.jpg", "actors": [], "comments": [], "recommandations_id": []}

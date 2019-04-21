@@ -1,0 +1,1 @@
+{"tmdb_id": 386280, "title": "The Metropolitan Opera: Elektra", "original_title": "The Metropolitan Opera: Elektra", "slug_title": "the-metropolitan-opera-elektra", "date": "2016-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/U6sGImOb43wyCSO4ledF78JhqH.jpg", "actors": [], "comments": [], "recommandations_id": []}

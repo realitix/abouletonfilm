@@ -1,0 +1,1 @@
+{"tmdb_id": 378014, "title": "Spirit Love", "original_title": "\u98db\u8d8a\u9670\u967d\u754c", "slug_title": "spirit-love", "date": "1989-06-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yang Ching-huang ()", "Joey Wong ()", "Wong Yung ()"], "comments": [], "recommandations_id": []}

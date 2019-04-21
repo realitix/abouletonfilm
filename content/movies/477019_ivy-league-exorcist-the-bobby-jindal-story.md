@@ -1,0 +1,1 @@
+{"tmdb_id": 477019, "title": "Ivy League Exorcist: The Bobby Jindal Story", "original_title": "Ivy League Exorcist: The Bobby Jindal Story", "slug_title": "ivy-league-exorcist-the-bobby-jindal-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

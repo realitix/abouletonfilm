@@ -1,0 +1,1 @@
+{"tmdb_id": 336699, "title": "Shoot Me. Kiss Me. Cut!", "original_title": "Shoot Me. Kiss Me. Cut!", "slug_title": "shoot-me-kiss-me-cut", "date": "2015-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dan Cohen (Sam)"], "comments": [], "recommandations_id": []}

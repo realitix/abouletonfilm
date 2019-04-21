@@ -1,0 +1,1 @@
+{"tmdb_id": 552966, "title": "Naduve Antaravirali", "original_title": "Naduve Antaravirali", "slug_title": "naduve-antaravirali", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aishani Shetty (Nitya)", "Prakhyath Paramesh (Sanjay)", "Chikkanna ()"], "comments": [], "recommandations_id": []}

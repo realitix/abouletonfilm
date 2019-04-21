@@ -1,0 +1,1 @@
+{"tmdb_id": 297618, "title": "Black October", "original_title": "Black October", "slug_title": "black-october", "date": "2000-01-01", "genre": "Histoire / Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnekGU8eia6ZBzF1kKcanQK9n9t.jpg", "actors": ["Terence McKenna (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 569973, "title": "E-Ticket", "original_title": "E-Ticket", "slug_title": "e-ticket", "date": "2019-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

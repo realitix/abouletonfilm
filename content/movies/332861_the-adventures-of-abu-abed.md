@@ -1,0 +1,1 @@
+{"tmdb_id": 332861, "title": "The Adventures of Abu Abed", "original_title": "Mughammarat Abu Abed", "slug_title": "the-adventures-of-abu-abed", "date": "1931-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

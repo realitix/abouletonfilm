@@ -1,0 +1,1 @@
+{"tmdb_id": 163191, "title": "Un idiot qui se croit Max Linder", "original_title": "Un idiot qui se croit Max Linder", "slug_title": "un-idiot-qui-se-croit-max-linder", "date": "1914-09-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Romeo Bosetti (Directeur)"], "comments": [], "recommandations_id": []}

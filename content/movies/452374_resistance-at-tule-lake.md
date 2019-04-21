@@ -1,0 +1,1 @@
+{"tmdb_id": 452374, "title": "Resistance at Tule Lake", "original_title": "Resistance at Tule Lake", "slug_title": "resistance-at-tule-lake", "date": "2017-07-19", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIaf5wmnxos4mQfFslih3k4bHol.jpg", "actors": [], "comments": [], "recommandations_id": []}

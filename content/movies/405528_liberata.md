@@ -1,0 +1,1 @@
+{"tmdb_id": 405528, "title": "Liberata", "original_title": "Liberata", "slug_title": "liberata", "date": "2005-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uDXXoN3NQF9PIaNJQyC2JQ7xt2d.jpg", "actors": [], "comments": [], "recommandations_id": []}

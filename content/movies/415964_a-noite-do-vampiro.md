@@ -1,0 +1,1 @@
+{"tmdb_id": 415964, "title": "A Noite do Vampiro", "original_title": "A Noite do Vampiro", "slug_title": "a-noite-do-vampiro", "date": "2006-06-06", "genre": "Animation / Com\u00e9die / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VJec4x1nswIVDXosiXIJFBr4ei.jpg", "actors": [], "comments": [], "recommandations_id": []}

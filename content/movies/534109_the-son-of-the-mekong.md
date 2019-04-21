@@ -1,0 +1,1 @@
+{"tmdb_id": 534109, "title": "The Son of the Mekong", "original_title": "Le fils du M\u00e9kong", "slug_title": "the-son-of-the-mekong", "date": "1992-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLXU3UVpUq7GBPwftOqZfRQKUps.jpg", "actors": [], "comments": [], "recommandations_id": []}

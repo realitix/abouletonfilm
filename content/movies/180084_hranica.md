@@ -1,0 +1,1 @@
+{"tmdb_id": 180084, "title": "Hranica", "original_title": "Hranica", "slug_title": "hranica", "date": "2009-01-08", "genre": "Drame / Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtbjD4LAYa7pSPjftxk5tOnwKuc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425185, "title": "Berliner Ballade", "original_title": "Berliner Ballade", "slug_title": "berliner-ballade", "date": "1990-11-08", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLVL9GTixOX839lWBw7hGCAy6Nz.jpg", "actors": [], "comments": [], "recommandations_id": []}

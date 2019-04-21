@@ -1,0 +1,1 @@
+{"tmdb_id": 63526, "title": "Standing Firm", "original_title": "Standing Firm", "slug_title": "standing-firm", "date": "2010-08-24", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/miavCCDjWLz2ZtxnBhdiC15vBZx.jpg", "actors": [], "comments": [], "recommandations_id": []}

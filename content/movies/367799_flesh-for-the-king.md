@@ -1,0 +1,1 @@
+{"tmdb_id": 367799, "title": "Flesh for the king", "original_title": "Flesh for the king", "slug_title": "flesh-for-the-king", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

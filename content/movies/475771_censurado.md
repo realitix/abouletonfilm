@@ -1,0 +1,1 @@
+{"tmdb_id": 475771, "title": "Censurado", "original_title": "Censurado", "slug_title": "censurado", "date": "2017-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOuHCcQqVKvyX6WRHl1PJbKEDiM.jpg", "actors": ["Lucio Campello (Roberto)", "Wellington Abreu (Z\u00e9 Jorge)"], "comments": [], "recommandations_id": []}

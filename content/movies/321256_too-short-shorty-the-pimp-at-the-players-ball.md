@@ -1,0 +1,1 @@
+{"tmdb_id": 321256, "title": "Too Short: Shorty the Pimp at the Players Ball", "original_title": "Too Short: Shorty the Pimp at the Players Ball", "slug_title": "too-short-shorty-the-pimp-at-the-players-ball", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

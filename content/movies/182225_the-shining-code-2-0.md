@@ -1,0 +1,1 @@
+{"tmdb_id": 182225, "title": "The Shining Code 2.0", "original_title": "The Shining Code 2.0", "slug_title": "the-shining-code-2-0", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrGahGGIQCzB7twh47qoxdVlbh7.jpg", "actors": [], "comments": [], "recommandations_id": []}

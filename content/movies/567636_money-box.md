@@ -1,0 +1,1 @@
+{"tmdb_id": 567636, "title": "Money Box", "original_title": "Money Box", "slug_title": "money-box", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

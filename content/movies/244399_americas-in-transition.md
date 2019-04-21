@@ -1,0 +1,1 @@
+{"tmdb_id": 244399, "title": "Americas in Transition", "original_title": "Americas in Transition", "slug_title": "americas-in-transition", "date": "1982-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ed Asner (Narrator)"], "comments": [], "recommandations_id": []}

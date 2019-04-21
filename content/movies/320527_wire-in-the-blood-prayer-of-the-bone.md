@@ -1,0 +1,1 @@
+{"tmdb_id": 320527, "title": "Wire in the Blood: Prayer of the Bone", "original_title": "Wire in the Blood: Prayer of the Bone", "slug_title": "wire-in-the-blood-prayer-of-the-bone", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

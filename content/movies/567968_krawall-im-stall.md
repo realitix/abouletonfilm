@@ -1,0 +1,1 @@
+{"tmdb_id": 567968, "title": "Krawall im Stall", "original_title": "Krawall im Stall", "slug_title": "krawall-im-stall", "date": "1961-07-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u3A7njKfH9bbGk9M4ZFJ1QjFC7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

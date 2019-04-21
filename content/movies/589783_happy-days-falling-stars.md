@@ -1,0 +1,1 @@
+{"tmdb_id": 589783, "title": "Happy Days: Falling Stars", "original_title": "Boldog napok, hull\u00f3 csillagok", "slug_title": "happy-days-falling-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dTAdKd9tqiXI5G5dGWbU2AuUTW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 415372, "title": "\ud0dc\ud48d\uc744 \uc77c\uc73c\ud0a8 \uc0ac\ub098\uc774", "original_title": "\ud0dc\ud48d\uc744 \uc77c\uc73c\ud0a8 \uc0ac\ub098\uc774", "slug_title": "taepungeul-ileukin-sanai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

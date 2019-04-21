@@ -1,0 +1,1 @@
+{"tmdb_id": 489290, "title": "One Answer to Cancer", "original_title": "One Answer to Cancer", "slug_title": "one-answer-to-cancer", "date": "2013-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5Hsc7HxJdSTkJVhWsTumSlMpCg.jpg", "actors": ["Tony Barry (Narrator)"], "comments": [], "recommandations_id": []}

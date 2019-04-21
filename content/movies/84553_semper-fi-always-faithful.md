@@ -1,0 +1,1 @@
+{"tmdb_id": 84553, "title": "Semper Fi: Always Faithful", "original_title": "Semper Fi: Always Faithful", "slug_title": "semper-fi-always-faithful", "date": "2011-04-21", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjdv1MfNX39AG0s8IlK0TGcXzPv.jpg", "actors": [], "comments": [], "recommandations_id": []}

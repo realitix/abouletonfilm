@@ -1,0 +1,1 @@
+{"tmdb_id": 579772, "title": "Der Fater", "original_title": "Der Fater", "slug_title": "der-fater", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28zyni7ecaOXXX70ukaaaFr33Mi.jpg", "actors": [], "comments": [], "recommandations_id": []}

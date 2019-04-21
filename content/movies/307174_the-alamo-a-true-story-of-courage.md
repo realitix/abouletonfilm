@@ -1,0 +1,1 @@
+{"tmdb_id": 307174, "title": "The Alamo: A True Story of Courage", "original_title": "The Alamo: A True Story of Courage", "slug_title": "the-alamo-a-true-story-of-courage", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

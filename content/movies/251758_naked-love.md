@@ -1,0 +1,1 @@
+{"tmdb_id": 251758, "title": "Naked Love", "original_title": "Luo Qing", "slug_title": "naked-love", "date": "1970-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314491, "title": "Director's Cut", "original_title": "\ub514\ub809\ud130\uc2a4 \ucef7", "slug_title": "director-s-cut", "date": "2014-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLnEa9XNFWmuwZJEme68pUQitZp.jpg", "actors": [], "comments": [], "recommandations_id": []}

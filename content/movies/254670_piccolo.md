@@ -1,0 +1,1 @@
+{"tmdb_id": 254670, "title": "Piccolo", "original_title": "Piccolo", "slug_title": "piccolo", "date": "1959-11-15", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1QYxsxmlS9ucYe9z6bS5eFJ8tQ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

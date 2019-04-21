@@ -1,0 +1,1 @@
+{"tmdb_id": 526167, "title": "Eclipse Predictions", "original_title": "Eclipse Predictions", "slug_title": "eclipse-predictions", "date": "1982-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MHbdBFdwAiJEOIXLzdaFCCAT25.jpg", "actors": [], "comments": [], "recommandations_id": []}

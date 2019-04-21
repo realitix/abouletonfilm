@@ -1,0 +1,1 @@
+{"tmdb_id": 522414, "title": "Let's Ask Nostradamus", "original_title": "Let's Ask Nostradamus", "slug_title": "let-s-ask-nostradamus", "date": "1953-06-06", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carey Wilson (Narrator (voice))", "John Burton (Nostradamus)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 567719, "title": "The Art of Tattooing", "original_title": "The Art of Tattooing", "slug_title": "the-art-of-tattooing", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jiatbpQZrI1agmORQXxINFwk48S.jpg", "actors": [], "comments": [], "recommandations_id": []}

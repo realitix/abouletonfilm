@@ -1,0 +1,1 @@
+{"tmdb_id": 222803, "title": "Cage Fright", "original_title": "Cage Fright", "slug_title": "cage-fright", "date": "1952-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

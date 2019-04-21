@@ -1,0 +1,1 @@
+{"tmdb_id": 360447, "title": "The Yamabiko School", "original_title": "\u5c71\u3073\u3053\u5b66\u6821", "slug_title": "the-yamabiko-school", "date": "1952-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ygKhI93xyfMqEYv2Io1F7amP4hO.jpg", "actors": [], "comments": [], "recommandations_id": []}

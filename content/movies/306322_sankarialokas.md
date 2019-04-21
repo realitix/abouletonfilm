@@ -1,0 +1,1 @@
+{"tmdb_id": 306322, "title": "Sankarialokas", "original_title": "Sankarialokas", "slug_title": "sankarialokas", "date": "1955-07-28", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273254, "title": "La Blue Girl Volume 3", "original_title": "La Blue Girl Volume 3", "slug_title": "la-blue-girl-volume-3", "date": "1993-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5FU5vTntVQvXcD5rl1S5Wu2aOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 569446, "title": "Wrapped", "original_title": "Wrapped", "slug_title": "wrapped", "date": "2018-12-18", "genre": "Horreur / Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jUgi31pxXNo1D5aVTJ2i0MIK6w6.jpg", "actors": [], "comments": [], "recommandations_id": []}

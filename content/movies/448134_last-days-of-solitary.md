@@ -1,0 +1,1 @@
+{"tmdb_id": 448134, "title": "Last Days of Solitary", "original_title": "Last Days of Solitary", "slug_title": "last-days-of-solitary", "date": "2017-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JaMneVRaxSGVzipsTR8NlYa57W.jpg", "actors": [], "comments": [], "recommandations_id": []}

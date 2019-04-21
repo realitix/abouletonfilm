@@ -1,0 +1,1 @@
+{"tmdb_id": 493031, "title": "So Long Suckers!", "original_title": "H\u00fcvasti igaveseks, v\u00e4rdjad!", "slug_title": "so-long-suckers", "date": "2003-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

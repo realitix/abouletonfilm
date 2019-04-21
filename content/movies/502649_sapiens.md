@@ -1,0 +1,1 @@
+{"tmdb_id": 502649, "title": "Sapiens", "original_title": "Sapiens", "slug_title": "sapiens", "date": "2004-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

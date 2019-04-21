@@ -1,0 +1,1 @@
+{"tmdb_id": 417312, "title": "The Story of My Life", "original_title": "\uba4b\uc9c4 \uc778\uc0dd", "slug_title": "the-story-of-my-life", "date": "2011-06-09", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Rujkp62ZZ1D5fLEDDkGsAIjR8I.jpg", "actors": [], "comments": [], "recommandations_id": []}

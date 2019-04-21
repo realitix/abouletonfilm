@@ -1,0 +1,1 @@
+{"tmdb_id": 471742, "title": "The Drinking Life", "original_title": "The Drinking Life", "slug_title": "the-drinking-life", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

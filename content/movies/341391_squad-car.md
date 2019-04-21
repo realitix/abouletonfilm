@@ -1,0 +1,1 @@
+{"tmdb_id": 341391, "title": "Squad Car", "original_title": "Squad Car", "slug_title": "squad-car", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzHt1PDlvYVec14enal4duoEUm5.jpg", "actors": ["Vici Raaf ()", "Paul Bryar ()", "Don Marlowe ()"], "comments": [], "recommandations_id": []}

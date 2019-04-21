@@ -1,0 +1,1 @@
+{"tmdb_id": 546026, "title": "In\u00e1cio Garapa, Um Matuto Sonhador", "original_title": "In\u00e1cio Garapa, Um Matuto Sonhador", "slug_title": "inacio-garapa-um-matuto-sonhador", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

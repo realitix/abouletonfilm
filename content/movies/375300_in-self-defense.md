@@ -1,0 +1,1 @@
+{"tmdb_id": 375300, "title": "In Self Defense", "original_title": "In Self Defense", "slug_title": "in-self-defense", "date": "1987-01-01", "genre": "T\u00e9l\u00e9film", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uNVAu5EBWtTgZG5WTC5JjAd1td.jpg", "actors": [], "comments": [], "recommandations_id": []}

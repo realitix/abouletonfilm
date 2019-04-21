@@ -1,0 +1,1 @@
+{"tmdb_id": 427038, "title": "Armand 15 ans l'\u00e9t\u00e9", "original_title": "Armand 15 ans l'\u00e9t\u00e9", "slug_title": "armand-15-ans-l-ete", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

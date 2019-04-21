@@ -1,0 +1,1 @@
+{"tmdb_id": 415315, "title": "\ud0c0\uc778\uc758 \uba5c\ub85c\ub514", "original_title": "\ud0c0\uc778\uc758 \uba5c\ub85c\ub514", "slug_title": "tainyi-melrodi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lzbCAxFnjSEOZJiJaaiczL41D8.jpg", "actors": [], "comments": [], "recommandations_id": []}

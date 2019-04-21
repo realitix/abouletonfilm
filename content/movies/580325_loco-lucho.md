@@ -1,0 +1,1 @@
+{"tmdb_id": 580325, "title": "Loco Lucho", "original_title": "Loco Lucho", "slug_title": "loco-lucho", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2nZeYpAevq7VfsVSUYYx7MCgHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

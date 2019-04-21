@@ -1,0 +1,1 @@
+{"tmdb_id": 320454, "title": "Gaiam: Qigong for Cleansing", "original_title": "Gaiam: Qigong for Cleansing", "slug_title": "gaiam-qigong-for-cleansing", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

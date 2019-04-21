@@ -1,0 +1,1 @@
+{"tmdb_id": 417842, "title": "Das Ra\u00edzes \u00c0s Pontas", "original_title": "Das Ra\u00edzes \u00c0s Pontas", "slug_title": "das-raizes-as-pontas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfHJkhj5XP6iFpA1oMvKDBUI9Vs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 521192, "title": "Love Bites", "original_title": "Love Bites", "slug_title": "love-bites", "date": "2015-05-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Denora (Voice)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 463817, "title": "Satan Junior", "original_title": "Satan Junior", "slug_title": "satan-junior", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Akq7IxhNX8JYUyOa4fHZBuuGUQa.jpg", "actors": [], "comments": [], "recommandations_id": []}

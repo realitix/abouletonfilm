@@ -1,0 +1,1 @@
+{"tmdb_id": 541869, "title": "The Private History of a Campaign That Failed", "original_title": "The Private History of a Campaign That Failed", "slug_title": "the-private-history-of-a-campaign-that-failed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

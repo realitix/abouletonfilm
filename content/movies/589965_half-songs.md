@@ -1,0 +1,1 @@
+{"tmdb_id": 589965, "title": "Half Songs", "original_title": "Half Songs", "slug_title": "half-songs", "date": "2018-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vartika Tiwari ()", "Emon Chatterjee ()"], "comments": [], "recommandations_id": []}

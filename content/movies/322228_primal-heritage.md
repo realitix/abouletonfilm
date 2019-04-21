@@ -1,0 +1,1 @@
+{"tmdb_id": 322228, "title": "Primal Heritage", "original_title": "Primal Heritage", "slug_title": "primal-heritage", "date": "2014-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

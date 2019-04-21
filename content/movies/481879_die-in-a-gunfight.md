@@ -1,0 +1,1 @@
+{"tmdb_id": 481879, "title": "Die in a Gunfight", "original_title": "Die in a Gunfight", "slug_title": "die-in-a-gunfight", "date": "", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kaya Scodelario (Mary)", "Josh Hutcherson (Ben)", "Olivia Munn (Barbie)", "Helen Hunt (Nancy Gibbon)"], "comments": [], "recommandations_id": []}

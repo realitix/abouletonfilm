@@ -1,0 +1,1 @@
+{"tmdb_id": 521008, "title": "A Patriot", "original_title": "A Patriot", "slug_title": "a-patriot", "date": "", "genre": "Science-Fiction / Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tim Robbins ()"], "comments": [], "recommandations_id": []}

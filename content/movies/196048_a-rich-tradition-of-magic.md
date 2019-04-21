@@ -1,0 +1,1 @@
+{"tmdb_id": 196048, "title": "A Rich Tradition of Magic", "original_title": "A Rich Tradition of Magic", "slug_title": "a-rich-tradition-of-magic", "date": "1998-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1fPi6x2Oc2W3oKvTeZ9UoMJJ7y.jpg", "actors": [], "comments": [], "recommandations_id": []}

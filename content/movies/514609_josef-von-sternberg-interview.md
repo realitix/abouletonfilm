@@ -1,0 +1,1 @@
+{"tmdb_id": 514609, "title": "Josef von Sternberg Interview", "original_title": "Josef von Sternberg Interview", "slug_title": "josef-von-sternberg-interview", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josef von Sternberg (Interviewee)"], "comments": [], "recommandations_id": []}

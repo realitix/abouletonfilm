@@ -1,0 +1,1 @@
+{"tmdb_id": 553592, "title": "Welcome to Pine Grove!", "original_title": "Welcome to Pine Grove!", "slug_title": "welcome-to-pine-grove", "date": "", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ellen Burstyn (Helen)", "James Caan (Dan)"], "comments": [], "recommandations_id": []}

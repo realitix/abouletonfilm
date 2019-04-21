@@ -1,0 +1,1 @@
+{"tmdb_id": 490634, "title": "Yamegoku: Helpline Cop", "original_title": "Yamegoku: Helpline Cop", "slug_title": "yamegoku-helpline-cop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Film Japonais de Yakuza avec Honda Tsubasa", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 546924, "title": "Der Motivationstrainer", "original_title": "Der Motivationstrainer", "slug_title": "der-motivationstrainer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSHx3hRVTvUP7czvAPZM41hkMX4.jpg", "actors": [], "comments": [], "recommandations_id": []}

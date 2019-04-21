@@ -1,0 +1,1 @@
+{"tmdb_id": 283385, "title": "The Associate", "original_title": "The Associate", "slug_title": "the-associate", "date": "", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

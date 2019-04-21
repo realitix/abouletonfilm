@@ -1,0 +1,1 @@
+{"tmdb_id": 489028, "title": "The Best Man", "original_title": "The Best Man", "slug_title": "the-best-man", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seamus Ball (Billy Maguire)", "Dennis McGowan (Jamsie McDaid)", "Mairead Mullan (Maureen McDaid)"], "comments": [], "recommandations_id": []}

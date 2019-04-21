@@ -1,0 +1,1 @@
+{"tmdb_id": 363750, "title": "Du plomb dans l'aile", "original_title": "Du plomb dans l'aile", "slug_title": "du-plomb-dans-l-aile", "date": "2015-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucien Yerbanga ()", "Lety Pardalis ()", "Rodolphe Poulain ()"], "comments": [], "recommandations_id": []}

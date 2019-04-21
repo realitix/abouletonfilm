@@ -1,0 +1,1 @@
+{"tmdb_id": 531722, "title": "Victor Fleming: Master Craftsman", "original_title": "Victor Fleming: Master Craftsman", "slug_title": "victor-fleming-master-craftsman", "date": "2009-09-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

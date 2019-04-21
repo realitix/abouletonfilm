@@ -1,0 +1,1 @@
+{"tmdb_id": 349925, "title": "\ud558\ub298\ub85c \uac00\ub294 \ubc1d\uc740 \uae38", "original_title": "\ud558\ub298\ub85c \uac00\ub294 \ubc1d\uc740 \uae38", "slug_title": "haneulro-ganeun-balgeun-gil", "date": "1982-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

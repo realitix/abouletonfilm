@@ -1,0 +1,1 @@
+{"tmdb_id": 259888, "title": "Sororal", "original_title": "Sororal", "slug_title": "sororal", "date": "2014-03-18", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLThbGbxJ3zejL3igIb9zzocN07.jpg", "actors": ["Amanda Woodhams (Cassie)"], "comments": [], "recommandations_id": []}

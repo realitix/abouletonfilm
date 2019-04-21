@@ -1,0 +1,1 @@
+{"tmdb_id": 318424, "title": "John Coltrane: A True Innovator", "original_title": "John Coltrane: A True Innovator", "slug_title": "john-coltrane-a-true-innovator", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

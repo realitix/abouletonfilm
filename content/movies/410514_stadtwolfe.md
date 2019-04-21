@@ -1,0 +1,1 @@
+{"tmdb_id": 410514, "title": "Stadtw\u00f6lfe", "original_title": "Stadtw\u00f6lfe", "slug_title": "stadtwolfe", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

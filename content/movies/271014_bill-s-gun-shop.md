@@ -1,0 +1,1 @@
+{"tmdb_id": 271014, "title": "Bill's Gun Shop", "original_title": "Bill's Gun Shop", "slug_title": "bill-s-gun-shop", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

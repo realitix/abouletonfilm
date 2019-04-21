@@ -1,0 +1,1 @@
+{"tmdb_id": 340150, "title": "Petersburg, Places and Paintings", "original_title": "Petersburg, Places and Paintings", "slug_title": "petersburg-places-and-paintings", "date": "2005-05-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

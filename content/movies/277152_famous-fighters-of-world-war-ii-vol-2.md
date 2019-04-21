@@ -1,0 +1,1 @@
+{"tmdb_id": 277152, "title": "Famous Fighters of World War II: Vol. 2", "original_title": "Famous Fighters of World War II: Vol. 2", "slug_title": "famous-fighters-of-world-war-ii-vol-2", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

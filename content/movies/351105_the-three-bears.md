@@ -1,0 +1,1 @@
+{"tmdb_id": 351105, "title": "The Three Bears", "original_title": "The Three Bears", "slug_title": "the-three-bears", "date": "1934-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

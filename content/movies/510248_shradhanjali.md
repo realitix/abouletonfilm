@@ -1,0 +1,1 @@
+{"tmdb_id": 510248, "title": "Shradhanjali", "original_title": "Shradhanjali", "slug_title": "shradhanjali", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c6A2RtrvKyrOWkLYor4MSUkXorm.jpg", "actors": [], "comments": [], "recommandations_id": []}

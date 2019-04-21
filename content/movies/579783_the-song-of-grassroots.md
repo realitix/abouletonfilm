@@ -1,0 +1,1 @@
+{"tmdb_id": 579783, "title": "The Song of Grassroots", "original_title": "Nyanyian Akar Rumput", "slug_title": "the-song-of-grassroots", "date": "2018-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJhS0BX9tt0TUiKeezRNtEiKXqM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 375619, "title": "Blossoms", "original_title": "Blossoms", "slug_title": "blossoms", "date": "2020-05-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZGDLMf7Sz7cxt5125lcbImbTqN.jpg", "actors": ["Kris Wu ()"], "comments": [], "recommandations_id": []}

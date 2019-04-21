@@ -1,0 +1,1 @@
+{"tmdb_id": 299567, "title": "Wibbel the Tailor", "original_title": "Schneider Wibbel", "slug_title": "wibbel-the-tailor", "date": "1931-01-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Henckels (Schneider Wibbel)", "Thea Grodyn (Fina)", "Fritz Odemar (Fitzke)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 308339, "title": "Natural Healing: Vol. 1", "original_title": "Natural Healing: Vol. 1", "slug_title": "natural-healing-vol-1", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

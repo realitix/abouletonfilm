@@ -1,0 +1,1 @@
+{"tmdb_id": 304779, "title": "Nimantran", "original_title": "Nimantran", "slug_title": "nimantran", "date": "1971-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nuIoVnYaXLBsQYatK50f0dK73Ck.jpg", "actors": ["Sandhya Roy ()", "Kali Bannerjee ()", "Anup Kumar ()"], "comments": [], "recommandations_id": []}

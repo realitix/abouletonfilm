@@ -1,0 +1,1 @@
+{"tmdb_id": 351188, "title": "Le bagne des gosses", "original_title": "Le bagne des gosses", "slug_title": "le-bagne-des-gosses", "date": "1907-07-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

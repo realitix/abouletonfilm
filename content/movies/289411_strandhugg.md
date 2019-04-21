@@ -1,0 +1,1 @@
+{"tmdb_id": 289411, "title": "Strandhugg", "original_title": "Strandhugg", "slug_title": "strandhugg", "date": "1950-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 161593, "title": "Fire! Fire!", "original_title": "Fire! Fire!", "slug_title": "fire-fire", "date": "1932-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

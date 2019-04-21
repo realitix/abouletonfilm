@@ -1,0 +1,1 @@
+{"tmdb_id": 181315, "title": "Casus Kiran", "original_title": "Casus Kiran", "slug_title": "casus-kiran", "date": "1968-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqAKGzdzBQPcd6Xuv7L2PgmVyJ0.jpg", "actors": ["Kiran (hero)"], "comments": [], "recommandations_id": []}

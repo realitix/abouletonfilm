@@ -1,0 +1,1 @@
+{"tmdb_id": 113298, "title": "Lord of the Ants", "original_title": "Lord of the Ants", "slug_title": "lord-of-the-ants", "date": "2008-05-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iWP5rCRro97TSVNjrmQU93VHiLC.jpg", "actors": ["Harrison Ford (Narrator)"], "comments": [], "recommandations_id": []}

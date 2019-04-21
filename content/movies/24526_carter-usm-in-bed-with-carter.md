@@ -1,0 +1,1 @@
+{"tmdb_id": 24526, "title": "Carter USM: In Bed With Carter", "original_title": "Carter USM: In Bed With Carter", "slug_title": "carter-usm-in-bed-with-carter", "date": "1991-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Les Carter (Fruitbat)", "Jim Bob Morrison (Himself)"], "comments": [], "recommandations_id": []}

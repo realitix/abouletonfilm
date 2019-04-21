@@ -1,0 +1,1 @@
+{"tmdb_id": 358842, "title": "My Week on Welfare", "original_title": "My Week on Welfare", "slug_title": "my-week-on-welfare", "date": "2015-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

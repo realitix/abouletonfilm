@@ -1,0 +1,1 @@
+{"tmdb_id": 557844, "title": "My Bad Boss", "original_title": "My Bad Boss", "slug_title": "my-bad-boss", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10pZ4ZCFwXK4AvIcz2wIw966fJw.jpg", "actors": ["Kim Jang ()", "Kim Seo-young ()"], "comments": [], "recommandations_id": []}

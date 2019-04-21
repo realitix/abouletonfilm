@@ -1,0 +1,1 @@
+{"tmdb_id": 394150, "title": "Who the F#@K Took My Daughter?", "original_title": "Who the F#@K Took My Daughter?", "slug_title": "who-the-f-k-took-my-daughter", "date": "2016-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

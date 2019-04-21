@@ -1,0 +1,1 @@
+{"tmdb_id": 254122, "title": "Another Romance of Celluloid", "original_title": "Another Romance of Celluloid", "slug_title": "another-romance-of-celluloid", "date": "1938-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

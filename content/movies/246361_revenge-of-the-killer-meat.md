@@ -1,0 +1,1 @@
+{"tmdb_id": 246361, "title": "Revenge Of The Killer Meat", "original_title": "Revenge Of The Killer Meat", "slug_title": "revenge-of-the-killer-meat", "date": "2005-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 358578, "title": "Just the Ticket", "original_title": "Just the Ticket", "slug_title": "just-the-ticket", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

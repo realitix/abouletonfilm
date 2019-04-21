@@ -1,0 +1,1 @@
+{"tmdb_id": 569580, "title": "Rhythm Inn", "original_title": "Rhythm Inn", "slug_title": "rhythm-inn", "date": "1951-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jane Frazee (Carol Denton)", "Kirby Grant (Dusty Rhodes)"], "comments": [], "recommandations_id": []}

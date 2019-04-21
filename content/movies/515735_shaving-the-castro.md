@@ -1,0 +1,1 @@
+{"tmdb_id": 515735, "title": "Shaving the Castro", "original_title": "Shaving the Castro", "slug_title": "shaving-the-castro", "date": "1996-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louie Sisneros (Himself)", "Johnny Symons (Himself)"], "comments": [], "recommandations_id": []}

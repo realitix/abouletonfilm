@@ -1,0 +1,1 @@
+{"tmdb_id": 449024, "title": "De la cuisine au parlement", "original_title": "De la cuisine au parlement", "slug_title": "de-la-cuisine-au-parlement", "date": "2012-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDkPiaEd5iIVE3WoAaQITPd2YEn.jpg", "actors": [], "comments": [], "recommandations_id": []}

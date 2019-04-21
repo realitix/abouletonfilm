@@ -1,0 +1,1 @@
+{"tmdb_id": 559939, "title": "Nostradamus", "original_title": "Nostradamus", "slug_title": "nostradamus", "date": "1938-09-24", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carey Wilson (Narrator (voice))", "John Burton (Nostradamus (uncredited))"], "comments": [], "recommandations_id": []}

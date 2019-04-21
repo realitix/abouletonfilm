@@ -1,0 +1,1 @@
+{"tmdb_id": 586503, "title": "The Owls", "original_title": "The Owls", "slug_title": "the-owls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

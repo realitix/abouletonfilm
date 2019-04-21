@@ -1,0 +1,1 @@
+{"tmdb_id": 341563, "title": "Dr. Sun Yat-sen", "original_title": "Sun Zhongshan", "slug_title": "dr-sun-yat-sen", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svgCYaCZv6mtKI2N3Ib0mJRw6b.jpg", "actors": [], "comments": [], "recommandations_id": []}

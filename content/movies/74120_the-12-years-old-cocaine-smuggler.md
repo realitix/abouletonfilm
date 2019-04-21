@@ -1,0 +1,1 @@
+{"tmdb_id": 74120, "title": "The 12 years old cocaine smuggler", "original_title": "The 12 years old cocaine smuggler", "slug_title": "the-12-years-old-cocaine-smuggler", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

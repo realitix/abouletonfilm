@@ -1,0 +1,1 @@
+{"tmdb_id": 365763, "title": "Aaghaaz", "original_title": "Aaghaaz", "slug_title": "aaghaaz", "date": "2000-10-06", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziFUDG7mXwTMNjphOiaVQbMON74.jpg", "actors": ["Sunil Shetty ()", "Sushmita Sen ()", "Namrata Shirodkar ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 543799, "title": "Licu, a romanian story", "original_title": "Licu, o poveste rom\u00e2neasc\u0103", "slug_title": "licu-a-romanian-story", "date": "2017-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fsVH4uD9yZszt4CjKIWCbW6ExrA.jpg", "actors": [], "comments": [], "recommandations_id": []}

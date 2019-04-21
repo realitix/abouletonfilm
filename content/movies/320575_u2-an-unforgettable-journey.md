@@ -1,0 +1,1 @@
+{"tmdb_id": 320575, "title": "U2: An Unforgettable Journey", "original_title": "U2: An Unforgettable Journey", "slug_title": "u2-an-unforgettable-journey", "date": "2003-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

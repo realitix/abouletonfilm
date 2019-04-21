@@ -1,0 +1,1 @@
+{"tmdb_id": 560067, "title": "Drawing. Dancing.", "original_title": "Drawing. Dancing.", "slug_title": "drawing-dancing", "date": "2018-11-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOkiN7sq0zCVXUnbcLsvFOOTdjO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 538987, "title": "The Miners' Picnic", "original_title": "The Miners' Picnic", "slug_title": "the-miners-picnic", "date": "1960-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

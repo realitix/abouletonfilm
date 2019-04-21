@@ -1,0 +1,1 @@
+{"tmdb_id": 312691, "title": "New American Bible: New & Old Testaments", "original_title": "New American Bible: New & Old Testaments", "slug_title": "new-american-bible-new-old-testaments", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

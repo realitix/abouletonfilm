@@ -1,0 +1,1 @@
+{"tmdb_id": 236485, "title": "glastonburykids", "original_title": "glastonburykids", "slug_title": "glastonburykids", "date": "2009-02-26", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

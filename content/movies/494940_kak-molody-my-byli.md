@@ -1,0 +1,1 @@
+{"tmdb_id": 494940, "title": "Kak molody my byli", "original_title": "Kak molody my byli", "slug_title": "kak-molody-my-byli", "date": "1987-01-15", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3Hy9uB11Q0w30z82HydoPI4bwL.jpg", "actors": [], "comments": [], "recommandations_id": []}

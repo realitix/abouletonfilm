@@ -1,0 +1,1 @@
+{"tmdb_id": 161869, "title": "She Done Him Right", "original_title": "She Done Him Right", "slug_title": "she-done-him-right", "date": "1933-10-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCYAfxXhSu6zm5X5Ic5u9N13uil.jpg", "actors": [], "comments": [], "recommandations_id": []}

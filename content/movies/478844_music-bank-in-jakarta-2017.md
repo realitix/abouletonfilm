@@ -1,0 +1,1 @@
+{"tmdb_id": 478844, "title": "Music Bank in Jakarta 2017", "original_title": "Music Bank in Jakarta 2017", "slug_title": "music-bank-in-jakarta-2017", "date": "2017-09-30", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utqKpn1hVnrLbaoziQD4hqFq7v8.jpg", "actors": [], "comments": [], "recommandations_id": []}

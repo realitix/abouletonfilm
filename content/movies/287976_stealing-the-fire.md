@@ -1,0 +1,1 @@
+{"tmdb_id": 287976, "title": "Stealing the Fire", "original_title": "Stealing the Fire", "slug_title": "stealing-the-fire", "date": "2002-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

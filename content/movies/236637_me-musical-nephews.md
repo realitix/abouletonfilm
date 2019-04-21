@@ -1,0 +1,1 @@
+{"tmdb_id": 236637, "title": "Me Musical Nephews", "original_title": "Me Musical Nephews", "slug_title": "me-musical-nephews", "date": "1942-12-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4w7jHO1sQAXSXoZu8g2GAFUcNtp.jpg", "actors": ["Jack Mercer (Popeye)"], "comments": [], "recommandations_id": []}

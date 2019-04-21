@@ -1,0 +1,1 @@
+{"tmdb_id": 550718, "title": "Leviathan: The Story of Hellbound: Hellraiser II", "original_title": "Leviathan: The Story of Hellbound: Hellraiser II", "slug_title": "leviathan-the-story-of-hellbound-hellraiser-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

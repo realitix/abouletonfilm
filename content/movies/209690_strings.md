@@ -1,0 +1,1 @@
+{"tmdb_id": 209690, "title": "Strings", "original_title": "Strings", "slug_title": "strings", "date": "1991-10-01", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kd5gfkhPNJjgv4D90FJBy7I0z.jpg", "actors": [], "comments": [], "recommandations_id": [47450, 85924, 163890, 139169]}

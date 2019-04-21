@@ -1,0 +1,1 @@
+{"tmdb_id": 291138, "title": "Computer Animation Magic", "original_title": "Computer Animation Magic", "slug_title": "computer-animation-magic", "date": "1986-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zVY41E6mPju0UtfLrG0QFUuA4BT.jpg", "actors": [], "comments": [], "recommandations_id": []}

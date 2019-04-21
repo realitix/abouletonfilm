@@ -1,0 +1,1 @@
+{"tmdb_id": 232058, "title": "Welding the Big Ring", "original_title": "Welding the Big Ring", "slug_title": "welding-the-big-ring", "date": "1904-04-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

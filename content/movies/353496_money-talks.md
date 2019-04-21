@@ -1,0 +1,1 @@
+{"tmdb_id": 353496, "title": "Money Talks!", "original_title": "Money Talks!", "slug_title": "money-talks", "date": "1951-01-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Humphrey Davis ()"], "comments": [], "recommandations_id": []}

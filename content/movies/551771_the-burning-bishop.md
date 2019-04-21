@@ -1,0 +1,1 @@
+{"tmdb_id": 551771, "title": "The Burning Bishop", "original_title": "Gorec\u030ci \u0161kof", "slug_title": "the-burning-bishop", "date": "2017-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z82Ch1eWgj8WFk5anvUFWejkmvT.jpg", "actors": ["Anton Vovk (Himself)"], "comments": [], "recommandations_id": []}

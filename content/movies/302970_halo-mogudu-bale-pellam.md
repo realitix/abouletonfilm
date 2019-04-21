@@ -1,0 +1,1 @@
+{"tmdb_id": 302970, "title": "Halo Mogudu Bale Pellam", "original_title": "Halo Mogudu Bale Pellam", "slug_title": "halo-mogudu-bale-pellam", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 388692, "title": "Wizja lokalna 1901", "original_title": "Wizja lokalna 1901", "slug_title": "wizja-lokalna-1901", "date": "1980-03-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRxTZsZAGCmhKiIF6FoxpgXKM6K.jpg", "actors": [], "comments": [], "recommandations_id": []}

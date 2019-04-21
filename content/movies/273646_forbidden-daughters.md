@@ -1,0 +1,1 @@
+{"tmdb_id": 273646, "title": "Forbidden Daughters", "original_title": "Forbidden Daughters", "slug_title": "forbidden-daughters", "date": "1927-06-02", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9LsGzY2ye4jm1EeMY40BOjIkNY.jpg", "actors": [], "comments": [], "recommandations_id": []}

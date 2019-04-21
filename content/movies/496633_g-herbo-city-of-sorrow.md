@@ -1,0 +1,1 @@
+{"tmdb_id": 496633, "title": "G Herbo: City of Sorrow", "original_title": "G Herbo: City of Sorrow", "slug_title": "g-herbo-city-of-sorrow", "date": "2018-01-04", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G Herbo (Himself)"], "comments": [], "recommandations_id": []}

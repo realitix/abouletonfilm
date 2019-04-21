@@ -1,0 +1,1 @@
+{"tmdb_id": 237105, "title": "The Baby Sitter", "original_title": "The Baby Sitter", "slug_title": "the-baby-sitter", "date": "1947-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 412784, "title": "Bird in a Window", "original_title": "Bird in a Window", "slug_title": "bird-in-a-window", "date": "1996-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

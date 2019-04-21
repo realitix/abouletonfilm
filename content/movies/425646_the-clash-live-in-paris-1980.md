@@ -1,0 +1,1 @@
+{"tmdb_id": 425646, "title": "The Clash: Live in Paris 1980", "original_title": "The Clash: Live in Paris 1980", "slug_title": "the-clash-live-in-paris-1980", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/baOrlgpfrFkeD68NTUFigbDVQ4P.jpg", "actors": ["The Clash ()"], "comments": [], "recommandations_id": []}

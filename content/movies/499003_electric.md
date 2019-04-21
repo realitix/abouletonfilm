@@ -1,0 +1,1 @@
+{"tmdb_id": 499003, "title": "Electric", "original_title": "Electric", "slug_title": "electric", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

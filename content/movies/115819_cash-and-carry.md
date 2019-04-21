@@ -1,0 +1,1 @@
+{"tmdb_id": 115819, "title": "Cash and Carry", "original_title": "Cash and Carry", "slug_title": "cash-and-carry", "date": "1937-09-03", "genre": "Com\u00e9die", "score": "5.4/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": [115990, 116057, 115993, 115920]}

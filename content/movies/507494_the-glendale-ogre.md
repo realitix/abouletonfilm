@@ -1,0 +1,1 @@
+{"tmdb_id": 507494, "title": "The Glendale Ogre", "original_title": "The Glendale Ogre", "slug_title": "the-glendale-ogre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xz0fFfWg4pga8lfT6Y49dNEOYp.jpg", "actors": ["Kate Donahue ()", "Kate Donahue ()"], "comments": [], "recommandations_id": []}

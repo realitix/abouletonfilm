@@ -1,0 +1,1 @@
+{"tmdb_id": 254419, "title": "Buried Treasure", "original_title": "Buried Treasure", "slug_title": "buried-treasure", "date": "1938-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIzLHubpGPLbgN7Z1OHTaPxTz8L.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504464, "title": "Ruzz and Ben", "original_title": "Ruzz et Ben", "slug_title": "ruzz-and-ben", "date": "2005-02-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Diane Lefrancois ()", "Aline Pinsonneault ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528889, "title": "Rise of the Superbombs", "original_title": "Rise of the Superbombs", "slug_title": "rise-of-the-superbombs", "date": "2018-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZlydA6aEan9rbm1Zgo3Kxe8aWF.jpg", "actors": [], "comments": [], "recommandations_id": []}

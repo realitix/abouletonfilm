@@ -1,0 +1,1 @@
+{"tmdb_id": 485129, "title": "Swing, You Swingers!", "original_title": "Swing, You Swingers!", "slug_title": "swing-you-swingers", "date": "1939-01-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557363, "title": "Avec l'assurance", "original_title": "Avec l'assurance", "slug_title": "avec-l-assurance", "date": "1932-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

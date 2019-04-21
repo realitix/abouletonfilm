@@ -1,0 +1,1 @@
+{"tmdb_id": 494582, "title": "Bandura [Berlin]: New Social Contract Series", "original_title": "Bandura [Berlin]: New Social Contract Series", "slug_title": "bandura-berlin-new-social-contract-series", "date": "2017-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

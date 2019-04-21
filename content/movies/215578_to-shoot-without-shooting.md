@@ -1,0 +1,1 @@
+{"tmdb_id": 215578, "title": "To Shoot Without Shooting", "original_title": "To Shoot Without Shooting", "slug_title": "to-shoot-without-shooting", "date": "1988-01-10", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5Xmvr0jo20v3tqU8OS8sf5EKr0.jpg", "actors": [], "comments": [], "recommandations_id": []}

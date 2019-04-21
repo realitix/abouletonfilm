@@ -1,0 +1,1 @@
+{"tmdb_id": 174565, "title": "Farmer Al Falfa Sees New York", "original_title": "Farmer Al Falfa Sees New York", "slug_title": "farmer-al-falfa-sees-new-york", "date": "1916-10-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

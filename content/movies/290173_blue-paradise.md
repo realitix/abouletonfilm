@@ -1,0 +1,1 @@
+{"tmdb_id": 290173, "title": "Blue Paradise", "original_title": "Paradiso Blu", "slug_title": "blue-paradise", "date": "1980-01-03", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Bergman (Karen)", "Dan Monahan (Peter)", "Lucia Ramirez (Inez)", "John Richardson (Kris)"], "comments": [], "recommandations_id": []}

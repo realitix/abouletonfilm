@@ -1,0 +1,1 @@
+{"tmdb_id": 462699, "title": "Abrindo o Arm\u00e1rio", "original_title": "Abrindo o Arm\u00e1rio", "slug_title": "abrindo-o-armario", "date": "2018-08-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1FKaTNxlkKcP9LnDuM44Byd1bSB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 592552, "title": "Tibet revisited", "original_title": "Tibet revisited", "slug_title": "tibet-revisited", "date": "2005-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

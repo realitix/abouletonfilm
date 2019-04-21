@@ -1,0 +1,1 @@
+{"tmdb_id": 575668, "title": "M is for Music", "original_title": "M is for Music", "slug_title": "m-is-for-music", "date": "2014-09-10", "genre": "Horreur / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TZTWYsoE4H5ol8PmwmTssCsnVL.jpg", "actors": [], "comments": [], "recommandations_id": []}

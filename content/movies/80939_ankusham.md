@@ -1,0 +1,1 @@
+{"tmdb_id": 80939, "title": "Ankusham", "original_title": "Ankusham", "slug_title": "ankusham", "date": "1990-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/orbtW9YtsOzxYnlFyjYSnpHCiaN.jpg", "actors": ["Dr. Rajasekhar (Hero)"], "comments": [], "recommandations_id": []}

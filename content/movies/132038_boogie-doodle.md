@@ -1,0 +1,1 @@
+{"tmdb_id": 132038, "title": "Boogie-Doodle", "original_title": "Boogie-Doodle", "slug_title": "boogie-doodle", "date": "1940-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40vMf9U5Lin4xdxJmqeeiSOGuY3.jpg", "actors": [], "comments": [], "recommandations_id": [257544, 247437, 196487, 187879]}

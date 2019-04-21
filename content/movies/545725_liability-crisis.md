@@ -1,0 +1,1 @@
+{"tmdb_id": 545725, "title": "Liability Crisis", "original_title": "Liability Crisis", "slug_title": "liability-crisis", "date": "1995-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mirjana Jokovi\u0107 (Dunja)", "Jim Helsinger (Paul)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351513, "title": "Everyone is Kung-Fu Fighting", "original_title": "Everyone is Kung-Fu Fighting", "slug_title": "everyone-is-kung-fu-fighting", "date": "2003-10-21", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TlKAfgKr8326MnCTfqzBYt2Xre.jpg", "actors": [], "comments": [], "recommandations_id": []}

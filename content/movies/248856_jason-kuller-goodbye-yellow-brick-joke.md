@@ -1,0 +1,1 @@
+{"tmdb_id": 248856, "title": "Jason Kuller: Goodbye Yellow Brick Joke", "original_title": "Jason Kuller: Goodbye Yellow Brick Joke", "slug_title": "jason-kuller-goodbye-yellow-brick-joke", "date": "1999-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 269593, "title": "The Way of the Strong", "original_title": "The Way of the Strong", "slug_title": "the-way-of-the-strong", "date": "1928-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alice Day (Nora)", "Margaret Livingston (Marie)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 174051, "title": "Hemv\u00e4rn och P\u00e5ssjuka", "original_title": "Hemv\u00e4rn och P\u00e5ssjuka", "slug_title": "hemvarn-och-passjuka", "date": "1997-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xb8gRXolz9obwJzgLkMCN8tQf1J.jpg", "actors": [], "comments": [], "recommandations_id": []}

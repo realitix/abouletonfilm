@@ -1,0 +1,1 @@
+{"tmdb_id": 346030, "title": "Roberto Carlos - Duetos", "original_title": "Roberto Carlos - Duetos", "slug_title": "roberto-carlos-duetos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDrBMNrrZVNt7llri9tz3mK4B4x.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 451975, "title": "Jefe en Pa\u00f1ales", "original_title": "Jefe en Pa\u00f1ales", "slug_title": "jefe-en-panales", "date": "", "genre": "", "score": "8.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

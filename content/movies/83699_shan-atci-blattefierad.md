@@ -1,0 +1,1 @@
+{"tmdb_id": 83699, "title": "Shan Atci - Blattefierad", "original_title": "Shan Atci - Blattefierad", "slug_title": "shan-atci-blattefierad", "date": "2008-08-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEOHoloJmk7eit3pzMpxy22ZIZ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512635, "title": "Forest of Demons", "original_title": "Forest of Demons", "slug_title": "forest-of-demons", "date": "2018-03-18", "genre": "Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Bickel ()", "Mehdi Boccard ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 484461, "title": "A Letter from Ifugao", "original_title": "A Letter from Ifugao", "slug_title": "a-letter-from-ifugao", "date": "2011-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maloy Tiongson (Maloy Tiongson)", "Maristela Abenojar (Maristela Abenojar)"], "comments": [], "recommandations_id": []}

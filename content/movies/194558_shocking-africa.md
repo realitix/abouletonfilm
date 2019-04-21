@@ -1,0 +1,1 @@
+{"tmdb_id": 194558, "title": "Shocking Africa", "original_title": "Shocking Africa", "slug_title": "shocking-africa", "date": "1982-11-24", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evQihPnQEaqkWrVfIGJRpAYGR3R.jpg", "actors": [], "comments": [], "recommandations_id": []}

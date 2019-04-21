@@ -1,0 +1,1 @@
+{"tmdb_id": 65196, "title": "Virgin na Kanke", "original_title": "Virgin na Kanke", "slug_title": "virgin-na-kanke", "date": "2009-01-01", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6X88qwI9klQn65EqP1E4Nga6o8i.jpg", "actors": [], "comments": [], "recommandations_id": []}

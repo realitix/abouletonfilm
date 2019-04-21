@@ -1,0 +1,1 @@
+{"tmdb_id": 474917, "title": "Fundi: The Story of Ella Baker", "original_title": "Fundi: The Story of Ella Baker", "slug_title": "fundi-the-story-of-ella-baker", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

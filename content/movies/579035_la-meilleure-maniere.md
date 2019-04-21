@@ -1,0 +1,1 @@
+{"tmdb_id": 579035, "title": "La meilleure mani\u00e8re", "original_title": "La meilleure mani\u00e8re", "slug_title": "la-meilleure-maniere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

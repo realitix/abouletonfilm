@@ -1,0 +1,1 @@
+{"tmdb_id": 468271, "title": "Plastic Girls", "original_title": "Plastic Girls", "slug_title": "plastic-girls", "date": "2017-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2joyfuubnU1SKJ4jnBxsGBZs1cO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557906, "title": "Kizil maske", "original_title": "Kizil maske", "slug_title": "kizil-maske", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irfan Atasoy ()", "Sezer G\u00fcvenirgil ()", "Suzan Avc\u0131 ()", "Yildirim Gencer ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 358443, "title": "Afghanistan, le choix des femmes", "original_title": "Afghanistan, le choix des femmes", "slug_title": "afghanistan-le-choix-des-femmes", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

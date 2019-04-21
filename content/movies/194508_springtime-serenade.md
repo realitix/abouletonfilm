@@ -1,0 +1,1 @@
+{"tmdb_id": 194508, "title": "Springtime Serenade", "original_title": "Springtime Serenade", "slug_title": "springtime-serenade", "date": "1935-05-26", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

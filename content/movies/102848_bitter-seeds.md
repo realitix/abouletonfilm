@@ -1,0 +1,1 @@
+{"tmdb_id": 102848, "title": "Bitter Seeds", "original_title": "Bitter Seeds", "slug_title": "bitter-seeds", "date": "2011-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xtfuUnkfvYGrT2xiEUmOxnzVzXH.jpg", "actors": [], "comments": [], "recommandations_id": []}

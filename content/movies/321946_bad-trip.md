@@ -1,0 +1,1 @@
+{"tmdb_id": 321946, "title": "Bad Trip", "original_title": "Bad Trip", "slug_title": "bad-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15PEJMS3hKqwfWNqieWUC4WoC65.jpg", "actors": [], "comments": [], "recommandations_id": []}

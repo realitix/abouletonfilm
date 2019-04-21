@@ -1,0 +1,1 @@
+{"tmdb_id": 334869, "title": "The Griffin", "original_title": "The Griffin", "slug_title": "the-griffin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

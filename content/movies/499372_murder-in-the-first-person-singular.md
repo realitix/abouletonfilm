@@ -1,0 +1,1 @@
+{"tmdb_id": 499372, "title": "Murder in the First Person Singular", "original_title": "Murder in the First Person Singular", "slug_title": "murder-in-the-first-person-singular", "date": "1974-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 264841, "title": "Apoptygma Berzerk - APBL2000", "original_title": "Apoptygma Berzerk - APBL2000", "slug_title": "apoptygma-berzerk-apbl2000", "date": "2001-06-18", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJHBw5dhrqiFt6fvMUlj2O5aYdf.jpg", "actors": [], "comments": [], "recommandations_id": []}

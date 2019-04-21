@@ -1,0 +1,1 @@
+{"tmdb_id": 275865, "title": "Air America: Operation Jaguar", "original_title": "Air America: Operation Jaguar", "slug_title": "air-america-operation-jaguar", "date": "2003-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zV9KmJgdc9itdkjGBXDQRySKnWV.jpg", "actors": [], "comments": [], "recommandations_id": []}

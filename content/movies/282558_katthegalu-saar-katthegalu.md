@@ -1,0 +1,1 @@
+{"tmdb_id": 282558, "title": "Katthegalu Saar Katthegalu", "original_title": "Katthegalu Saar Katthegalu", "slug_title": "katthegalu-saar-katthegalu", "date": "2003-03-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Ruthika ()"], "comments": [], "recommandations_id": []}

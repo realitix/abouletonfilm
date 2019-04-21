@@ -1,0 +1,1 @@
+{"tmdb_id": 300463, "title": "Tejo Mar", "original_title": "Tejo Mar", "slug_title": "tejo-mar", "date": "2014-03-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Welket Bungu\u00e9 ()", "Lu\u00edsa Pitta ()", "Silvana Pinto ()", "Julia Deccache ()", "Paula Durand ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317982, "title": "Dead Bunnies", "original_title": "Dead Bunnies", "slug_title": "dead-bunnies", "date": "1983-05-10", "genre": "Myst\u00e8re / Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott McKinley ()", "D.J. O'Neill ()"], "comments": [], "recommandations_id": []}

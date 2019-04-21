@@ -1,0 +1,1 @@
+{"tmdb_id": 451756, "title": "Baby Blues", "original_title": "Baby Blues", "slug_title": "baby-blues", "date": "1941-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George McFarland ()", "Robert Blake ()", "Billie Thomas ()", "Billy Laughlin ()", "Janet Burston ()"], "comments": [], "recommandations_id": []}

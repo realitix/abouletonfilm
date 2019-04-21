@@ -1,0 +1,1 @@
+{"tmdb_id": 540916, "title": "Tsunami Guanabara", "original_title": "Tsunami Guanabara", "slug_title": "tsunami-guanabara", "date": "2018-02-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8OCu3zvllno36A2SZm71YzuISxw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 285667, "title": "We Imitate; We Break Up", "original_title": "We Imitate; We Break Up", "slug_title": "we-imitate-we-break-up", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

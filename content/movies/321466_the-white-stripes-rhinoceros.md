@@ -1,0 +1,1 @@
+{"tmdb_id": 321466, "title": "The White Stripes: Rhinoceros", "original_title": "The White Stripes: Rhinoceros", "slug_title": "the-white-stripes-rhinoceros", "date": "2006-01-01", "genre": "", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

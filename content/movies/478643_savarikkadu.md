@@ -1,0 +1,1 @@
+{"tmdb_id": 478643, "title": "Savarikkadu", "original_title": "Savarikkadu", "slug_title": "savarikkadu", "date": "2017-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1NZ2K2wUZXfVLlATp0zBCG90aa.jpg", "actors": ["Soori ()", "Robo Shankar ()", "Ambani Shankar ()"], "comments": [], "recommandations_id": []}

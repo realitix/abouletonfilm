@@ -1,0 +1,1 @@
+{"tmdb_id": 96003, "title": "City of Dreamers", "original_title": "City of Dreamers", "slug_title": "city-of-dreamers", "date": "2011-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vorK7Dpsl95Tn5NZ4tb7wHWmpOZ.jpg", "actors": ["Ellen Cosgrove ()", "George Webster (Kyle)"], "comments": [], "recommandations_id": []}

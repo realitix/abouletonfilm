@@ -1,0 +1,1 @@
+{"tmdb_id": 593675, "title": "Laboratory", "original_title": "Laboratory", "slug_title": "laboratory", "date": "2018-05-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anirban Bhattacharya ()", "Darshana Banik ()", "Nandini Ghoshal ()", "Koushik Sen ()"], "comments": [], "recommandations_id": []}

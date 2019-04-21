@@ -1,0 +1,1 @@
+{"tmdb_id": 556719, "title": "\ubbf8\ub140\uc804\uc7c1", "original_title": "\ubbf8\ub140\uc804\uc7c1", "slug_title": "minyeojeonjaeng", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3bFIuu8KbaXW0I0ajmHCmKAQ99.jpg", "actors": [], "comments": [], "recommandations_id": []}

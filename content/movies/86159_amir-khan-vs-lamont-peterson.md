@@ -1,0 +1,1 @@
+{"tmdb_id": 86159, "title": "Amir Khan vs. Lamont Peterson", "original_title": "Amir Khan vs. Lamont Peterson", "slug_title": "amir-khan-vs-lamont-peterson", "date": "2011-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izClVTf5I2ShEc3ZLYYfhsmpXNw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 177964, "title": "Mason of the Mounted", "original_title": "Mason of the Mounted", "slug_title": "mason-of-the-mounted", "date": "1932-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHgug3uM9LrvVn8H945ETR7gqQ5.jpg", "actors": ["Bill Cody Jr. (Bill Mason)"], "comments": [], "recommandations_id": []}

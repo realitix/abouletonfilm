@@ -1,0 +1,1 @@
+{"tmdb_id": 125531, "title": "Pripyat", "original_title": "Pripyat", "slug_title": "pripyat", "date": "1999-09-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXEwTNsJMdpgtss018wZeRQR1ij.jpg", "actors": [], "comments": [], "recommandations_id": []}

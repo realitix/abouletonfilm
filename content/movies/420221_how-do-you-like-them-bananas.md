@@ -1,0 +1,1 @@
+{"tmdb_id": 420221, "title": "How Do You Like Them Bananas", "original_title": "How Do You Like Them Bananas", "slug_title": "how-do-you-like-them-bananas", "date": "1966-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Swede Sorenson ()", "Dean Preece ()"], "comments": [], "recommandations_id": []}

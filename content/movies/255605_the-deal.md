@@ -1,0 +1,1 @@
+{"tmdb_id": 255605, "title": "The Deal", "original_title": "The Deal", "slug_title": "the-deal", "date": "2014-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Buster Olney (Himself)", "Theo Epstein (Himself)", "Brian Cashman (Himself)"], "comments": [], "recommandations_id": []}

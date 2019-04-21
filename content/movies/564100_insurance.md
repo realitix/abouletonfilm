@@ -1,0 +1,1 @@
+{"tmdb_id": 564100, "title": "Insurance", "original_title": "Biztos\u00edt\u00e1s", "slug_title": "insurance", "date": "1998-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gy\u0151z\u0151 Szab\u00f3 ()"], "comments": [], "recommandations_id": []}

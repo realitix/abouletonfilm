@@ -1,0 +1,1 @@
+{"tmdb_id": 380053, "title": "The Grass Eater", "original_title": "The Grass Eater", "slug_title": "the-grass-eater", "date": "1961-08-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Leder ()", "Rue McClanahan ()", "Leon Schrier ()"], "comments": [], "recommandations_id": []}

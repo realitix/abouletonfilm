@@ -1,0 +1,1 @@
+{"tmdb_id": 357376, "title": "Egyptian Series", "original_title": "Egyptian Series", "slug_title": "egyptian-series", "date": "1984-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4qE9k8tSQst31tInxNTght9QOMR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302312, "title": "Trading Cities", "original_title": "As Cidades e as Trocas", "slug_title": "trading-cities", "date": "2014-07-02", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYc1ToXhHuX31hTSaCUQPNr9r4n.jpg", "actors": [], "comments": [], "recommandations_id": []}

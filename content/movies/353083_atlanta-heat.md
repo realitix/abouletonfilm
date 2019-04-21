@@ -1,0 +1,1 @@
+{"tmdb_id": 353083, "title": "Atlanta Heat", "original_title": "Atlanta Heat", "slug_title": "atlanta-heat", "date": "2012-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x6hPBXQ5Uxnijgfdli7q5IaFpz1.jpg", "actors": ["Jarneen Brown (Sadie)", "Charles Walton (Drake)"], "comments": [], "recommandations_id": []}

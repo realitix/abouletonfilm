@@ -1,0 +1,1 @@
+{"tmdb_id": 379254, "title": "Pink Bananas", "original_title": "Pink Bananas", "slug_title": "pink-bananas", "date": "1978-12-22", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbXmpRnYB5wgXjmGSwQLaxDnr22.jpg", "actors": [], "comments": [], "recommandations_id": []}

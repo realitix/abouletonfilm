@@ -1,0 +1,1 @@
+{"tmdb_id": 461732, "title": "Paris by the Sea", "original_title": "Paris sur mer", "slug_title": "paris-by-the-sea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

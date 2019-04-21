@@ -1,0 +1,1 @@
+{"tmdb_id": 202066, "title": "Dr. Faust", "original_title": "Dr. Faust", "slug_title": "dr-faust", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4mYjVzYv7Hp4MliKMS306yrt1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

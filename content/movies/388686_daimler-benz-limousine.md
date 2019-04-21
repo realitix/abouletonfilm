@@ -1,0 +1,1 @@
+{"tmdb_id": 388686, "title": "Daimler-Benz Limousine", "original_title": "Limuzyna Daimler-Benz", "slug_title": "daimler-benz-limousine", "date": "1982-03-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nW2W3i8XkUmy6NmWWs5CcC7Wl1C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320746, "title": "Menotti: The Medium: Maureen Forrester", "original_title": "Menotti: The Medium: Maureen Forrester", "slug_title": "menotti-the-medium-maureen-forrester", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

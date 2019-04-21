@@ -1,0 +1,1 @@
+{"tmdb_id": 332886, "title": "The Victor", "original_title": "al-Muntassir", "slug_title": "the-victor", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

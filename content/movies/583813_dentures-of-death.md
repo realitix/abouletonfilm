@@ -1,0 +1,1 @@
+{"tmdb_id": 583813, "title": "Dentures of Death", "original_title": "Dentures of Death", "slug_title": "dentures-of-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8CyZpBStjIoXD7g4ZyeNlVY91Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

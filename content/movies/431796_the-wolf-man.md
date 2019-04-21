@@ -1,0 +1,1 @@
+{"tmdb_id": 431796, "title": "The Wolf Man", "original_title": "The Wolf Man", "slug_title": "the-wolf-man", "date": "1999-10-31", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z965pU2KDtCZMEsfE4ZDH7ifSjH.jpg", "actors": [], "comments": [], "recommandations_id": [195578]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 551114, "title": "Djarama Bo\u00e9", "original_title": "Djarama Bo\u00e9", "slug_title": "djarama-boe", "date": "1991-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

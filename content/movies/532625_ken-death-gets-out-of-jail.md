@@ -1,0 +1,1 @@
+{"tmdb_id": 532625, "title": "Ken Death Gets Out of Jail", "original_title": "Ken Death Gets Out of Jail", "slug_title": "ken-death-gets-out-of-jail", "date": "1988-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

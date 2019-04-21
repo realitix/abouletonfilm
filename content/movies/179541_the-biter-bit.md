@@ -1,0 +1,1 @@
+{"tmdb_id": 179541, "title": "The Biter Bit", "original_title": "The Biter Bit", "slug_title": "the-biter-bit", "date": "1900-01-01", "genre": "Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wi8sxMp2kDVnleYl3o71NIDPh7q.jpg", "actors": [], "comments": [], "recommandations_id": [179534, 179539, 179535, 179544]}

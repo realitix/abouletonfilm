@@ -1,0 +1,1 @@
+{"tmdb_id": 272786, "title": "Portraits From Ground Zero", "original_title": "Portraits From Ground Zero", "slug_title": "portraits-from-ground-zero", "date": "2011-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCHYr66ZxZmzGGnH8azNL5TaYrl.jpg", "actors": [], "comments": [], "recommandations_id": []}

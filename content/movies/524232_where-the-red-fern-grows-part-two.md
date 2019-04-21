@@ -1,0 +1,1 @@
+{"tmdb_id": 524232, "title": "Where the Red Fern Grows: Part Two", "original_title": "Where the Red Fern Grows: Part Two", "slug_title": "where-the-red-fern-grows-part-two", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktetgvb4imkFwPia2MtiHBQBdq3.jpg", "actors": [], "comments": [], "recommandations_id": []}

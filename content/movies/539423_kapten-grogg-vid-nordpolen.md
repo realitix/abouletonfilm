@@ -1,0 +1,1 @@
+{"tmdb_id": 539423, "title": "Kapten Grogg vid Nordpolen", "original_title": "Kapten Grogg vid Nordpolen", "slug_title": "kapten-grogg-vid-nordpolen", "date": "1917-07-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

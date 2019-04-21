@@ -1,0 +1,1 @@
+{"tmdb_id": 372474, "title": "Poverty Bikes", "original_title": "Poverty Bikes", "slug_title": "poverty-bikes", "date": "1999-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgoAB3nEfkGeoCte4MO4oi6kBWp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574357, "title": "Other Side of the Cell", "original_title": "Other Side of the Cell", "slug_title": "other-side-of-the-cell", "date": "2006-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

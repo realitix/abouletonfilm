@@ -1,0 +1,1 @@
+{"tmdb_id": 452695, "title": "Bare with Me", "original_title": "Bare with Me", "slug_title": "bare-with-me", "date": "1964-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/velMZnCzXVs3fQZepMugtj7Zw9b.jpg", "actors": ["Marsha Jordan ()", "Kathy Fields ()", "Earl D'Eon ()"], "comments": [], "recommandations_id": []}

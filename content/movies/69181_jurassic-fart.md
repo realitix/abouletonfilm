@@ -1,0 +1,1 @@
+{"tmdb_id": 69181, "title": "Jurassic Fart", "original_title": "Jurassic Fart", "slug_title": "jurassic-fart", "date": "1996-01-01", "genre": "Animation / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CwNcGNeA1XZZ5H1hIAfVPvxBQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

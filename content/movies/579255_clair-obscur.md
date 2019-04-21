@@ -1,0 +1,1 @@
+{"tmdb_id": 579255, "title": "Clair-obscur", "original_title": "Clair-obscur", "slug_title": "clair-obscur", "date": "1963-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jules Royaards ()"], "comments": [], "recommandations_id": []}

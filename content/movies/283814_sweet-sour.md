@@ -1,0 +1,1 @@
+{"tmdb_id": 283814, "title": "Sweet & Sour", "original_title": "Sweet & Sour", "slug_title": "sweet-sour", "date": "2007-02-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

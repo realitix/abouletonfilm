@@ -1,0 +1,1 @@
+{"tmdb_id": 184018, "title": "Handbag", "original_title": "K\u00e4silaukku", "slug_title": "handbag", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

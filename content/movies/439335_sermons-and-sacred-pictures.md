@@ -1,0 +1,1 @@
+{"tmdb_id": 439335, "title": "Sermons and Sacred Pictures", "original_title": "Sermons and Sacred Pictures", "slug_title": "sermons-and-sacred-pictures", "date": "1989-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

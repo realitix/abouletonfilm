@@ -1,0 +1,1 @@
+{"tmdb_id": 399638, "title": "The Plumber's Helper", "original_title": "The Plumber's Helper", "slug_title": "the-plumber-s-helper", "date": "1924-05-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Dunn ()"], "comments": [], "recommandations_id": []}

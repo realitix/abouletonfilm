@@ -1,0 +1,1 @@
+{"tmdb_id": 337866, "title": "Man Without a Head", "original_title": "Man Without a Head", "slug_title": "man-without-a-head", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Taryn Manning (Kamila)", "Shannyn Sossamon (Hazel)", "Whitney Able (Girl #4)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345311, "title": "Du skal ikke...", "original_title": "Du skal ikke...", "slug_title": "du-skal-ikke", "date": "2005-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ingar Helge Gimle (Priest)", "Ruth Gurholt (Amelia)", "Johannes Lindbeck (Josef)"], "comments": [], "recommandations_id": []}

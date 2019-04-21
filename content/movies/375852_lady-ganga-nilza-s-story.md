@@ -1,0 +1,1 @@
+{"tmdb_id": 375852, "title": "Lady Ganga: Nilza's Story", "original_title": "Lady Ganga: Nilza's Story", "slug_title": "lady-ganga-nilza-s-story", "date": "2015-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

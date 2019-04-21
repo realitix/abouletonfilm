@@ -1,0 +1,1 @@
+{"tmdb_id": 139797, "title": "The Dwarfs", "original_title": "The Dwarfs", "slug_title": "the-dwarfs", "date": "2002-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Caplan ()", "Daisy Haggard ()", "Mark Rice-Oxley ()"], "comments": [], "recommandations_id": []}

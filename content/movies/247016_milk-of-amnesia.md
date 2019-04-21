@@ -1,0 +1,1 @@
+{"tmdb_id": 247016, "title": "Milk of Amnesia", "original_title": "Milk of Amnesia", "slug_title": "milk-of-amnesia", "date": "1992-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgiHGI8mxZ7JHIe3rVR2TgoEGGV.jpg", "actors": [], "comments": [], "recommandations_id": [145809, 150458, 383841, 128441]}

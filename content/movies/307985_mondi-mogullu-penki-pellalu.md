@@ -1,0 +1,1 @@
+{"tmdb_id": 307985, "title": "Mondi Mogullu Penki Pellalu", "original_title": "Mondi Mogullu Penki Pellalu", "slug_title": "mondi-mogullu-penki-pellalu", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

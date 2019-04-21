@@ -1,0 +1,1 @@
+{"tmdb_id": 381841, "title": "One Hell of A Ride", "original_title": "One Hell of A Ride", "slug_title": "one-hell-of-a-ride", "date": "2016-03-11", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

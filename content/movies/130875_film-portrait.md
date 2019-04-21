@@ -1,0 +1,1 @@
+{"tmdb_id": 130875, "title": "Film Portrait", "original_title": "Film Portrait", "slug_title": "film-portrait", "date": "1973-12-30", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XbskNpRIzC38HKeryo2byS9dBR.jpg", "actors": [], "comments": [], "recommandations_id": []}

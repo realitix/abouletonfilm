@@ -1,0 +1,1 @@
+{"tmdb_id": 379064, "title": "Pinky Doodle", "original_title": "Pinky Doodle", "slug_title": "pinky-doodle", "date": "1976-05-28", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HbdijO0PjnYIlGqqGefvgTRFgQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

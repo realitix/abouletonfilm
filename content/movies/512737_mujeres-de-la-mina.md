@@ -1,0 +1,1 @@
+{"tmdb_id": 512737, "title": "Mujeres de la Mina", "original_title": "Mujeres de la Mina", "slug_title": "mujeres-de-la-mina", "date": "2014-03-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

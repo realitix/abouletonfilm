@@ -1,0 +1,1 @@
+{"tmdb_id": 471007, "title": "Love and Friendship", "original_title": "Ishq wa Dosti", "slug_title": "love-and-friendship", "date": "1946-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ecvo7s9icVkR4UBMNWs52F7UJd.jpg", "actors": [], "comments": [], "recommandations_id": []}

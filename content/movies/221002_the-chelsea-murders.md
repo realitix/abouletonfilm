@@ -1,0 +1,1 @@
+{"tmdb_id": 221002, "title": "The Chelsea Murders", "original_title": "The Chelsea Murders", "slug_title": "the-chelsea-murders", "date": "1979-01-01", "genre": "Horreur / Thriller", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

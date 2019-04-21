@@ -1,0 +1,1 @@
+{"tmdb_id": 468517, "title": "Cine de Emboscada", "original_title": "Cine de Emboscada", "slug_title": "cine-de-emboscada", "date": "2017-06-26", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csZMSDjHDf89Oc4MlOHLIOAlOwK.jpg", "actors": [], "comments": [], "recommandations_id": []}

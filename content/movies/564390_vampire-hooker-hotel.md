@@ -1,0 +1,1 @@
+{"tmdb_id": 564390, "title": "Vampire Hooker Hotel", "original_title": "Vampire Hooker Hotel", "slug_title": "vampire-hooker-hotel", "date": "2018-11-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

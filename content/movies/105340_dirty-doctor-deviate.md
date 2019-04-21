@@ -1,0 +1,1 @@
+{"tmdb_id": 105340, "title": "Dirty Doctor Deviate", "original_title": "Dirty Doctor Deviate", "slug_title": "dirty-doctor-deviate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

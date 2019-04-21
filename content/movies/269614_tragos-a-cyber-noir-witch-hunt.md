@@ -1,0 +1,1 @@
+{"tmdb_id": 269614, "title": "Tragos: A Cyber-Noir Witch Hunt", "original_title": "Tragos: A Cyber-Noir Witch Hunt", "slug_title": "tragos-a-cyber-noir-witch-hunt", "date": "2000-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7xGfp2SYHCqjgFhCUPnM0AokkKN.jpg", "actors": [], "comments": [], "recommandations_id": []}

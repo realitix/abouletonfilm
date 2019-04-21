@@ -1,0 +1,1 @@
+{"tmdb_id": 356349, "title": "Chip Off the Old Block", "original_title": "Chip Off the Old Block", "slug_title": "chip-off-the-old-block", "date": "1919-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

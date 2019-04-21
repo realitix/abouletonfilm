@@ -1,0 +1,1 @@
+{"tmdb_id": 517039, "title": "Les Carnivores du Sexe", "original_title": "Les Carnivores du Sexe", "slug_title": "les-carnivores-du-sexe", "date": "1999-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jessica Drake ()", "Shanna McCullough ()", "Cheyenne Silver ()"], "comments": [], "recommandations_id": []}

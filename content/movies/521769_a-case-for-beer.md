@@ -1,0 +1,1 @@
+{"tmdb_id": 521769, "title": "A Case For Beer", "original_title": "A Case For Beer", "slug_title": "a-case-for-beer", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

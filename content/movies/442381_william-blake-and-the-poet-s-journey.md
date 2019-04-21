@@ -1,0 +1,1 @@
+{"tmdb_id": 442381, "title": "William Blake and the Poet's Journey", "original_title": "William Blake and the Poet's Journey", "slug_title": "william-blake-and-the-poet-s-journey", "date": "1979-03-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

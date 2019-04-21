@@ -1,0 +1,1 @@
+{"tmdb_id": 206057, "title": "Prescription in Blue", "original_title": "Prescription in Blue", "slug_title": "prescription-in-blue", "date": "1978-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

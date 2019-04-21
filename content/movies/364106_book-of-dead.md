@@ -1,0 +1,1 @@
+{"tmdb_id": 364106, "title": "Book of Dead", "original_title": "Book of Dead", "slug_title": "book-of-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

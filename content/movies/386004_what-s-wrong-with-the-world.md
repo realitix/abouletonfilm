@@ -1,0 +1,1 @@
+{"tmdb_id": 386004, "title": "What's Wrong With The World", "original_title": "Le monde comme il ne va pas", "slug_title": "what-s-wrong-with-the-world", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdYUFzboAMsau93qwtyVW2orKA9.jpg", "actors": [], "comments": [], "recommandations_id": []}

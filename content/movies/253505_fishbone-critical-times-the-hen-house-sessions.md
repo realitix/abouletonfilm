@@ -1,0 +1,1 @@
+{"tmdb_id": 253505, "title": "Fishbone: Critical Times - The Hen House Sessions", "original_title": "Fishbone: Critical Times - The Hen House Sessions", "slug_title": "fishbone-critical-times-the-hen-house-sessions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

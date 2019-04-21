@@ -1,0 +1,1 @@
+{"tmdb_id": 399663, "title": "The Formula", "original_title": "The Formula", "slug_title": "the-formula", "date": "2016-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f3j3lV0JNtAbgjl0qP924MXYd03.jpg", "actors": ["Sevdaliza (Zillah)", "Saman Amini (Azar)"], "comments": [], "recommandations_id": []}

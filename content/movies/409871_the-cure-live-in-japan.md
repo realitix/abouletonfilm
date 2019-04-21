@@ -1,0 +1,1 @@
+{"tmdb_id": 409871, "title": "The Cure Live in Japan", "original_title": "The Cure Live in Japan", "slug_title": "the-cure-live-in-japan", "date": "1985-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuG6W22ZfJXk2W94X579EydWa8Y.jpg", "actors": ["Robert Smith ()"], "comments": [], "recommandations_id": []}

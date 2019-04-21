@@ -1,0 +1,1 @@
+{"tmdb_id": 480576, "title": "Der Fluch", "original_title": "Der Fluch", "slug_title": "der-fluch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

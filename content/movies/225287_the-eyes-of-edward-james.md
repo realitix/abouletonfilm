@@ -1,0 +1,1 @@
+{"tmdb_id": 225287, "title": "The Eyes Of Edward James", "original_title": "The Eyes Of Edward James", "slug_title": "the-eyes-of-edward-james", "date": "2006-09-07", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSy9CYCq0q6JzEOQyot5EWITzNT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 181280, "title": "Hookers on Davie", "original_title": "Hookers on Davie", "slug_title": "hookers-on-davie", "date": "1984-04-04", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNMcjc7YaqQkYpSNfyGuEm4Lao4.jpg", "actors": [], "comments": [], "recommandations_id": []}

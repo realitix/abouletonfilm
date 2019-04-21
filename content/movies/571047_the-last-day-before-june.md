@@ -1,0 +1,1 @@
+{"tmdb_id": 571047, "title": "The last day before June", "original_title": "The last day before June", "slug_title": "the-last-day-before-june", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

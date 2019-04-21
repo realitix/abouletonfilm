@@ -1,0 +1,1 @@
+{"tmdb_id": 536947, "title": "Abunai Onna Deka", "original_title": "Abunai Onna Deka", "slug_title": "abunai-onna-deka", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZqGxfVvTmL72WrK6d0vah4aQMF.jpg", "actors": ["Ayaka Tomoda ()", "Riri Kuribayashi ()"], "comments": [], "recommandations_id": []}

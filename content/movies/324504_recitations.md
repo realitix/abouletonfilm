@@ -1,0 +1,1 @@
+{"tmdb_id": 324504, "title": "Recitations", "original_title": "Recitations", "slug_title": "recitations", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

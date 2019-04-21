@@ -1,0 +1,1 @@
+{"tmdb_id": 372143, "title": "Acorralados", "original_title": "Acorralados", "slug_title": "acorralados", "date": "1976-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valent\u00edn Trujillo ()", "Jorge Luke ()", "Ana Luisa Peluffo ()", "Bruno Rey ()", "Armando Acosta ()"], "comments": [], "recommandations_id": []}

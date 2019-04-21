@@ -1,0 +1,1 @@
+{"tmdb_id": 58991, "title": "Cheyenne", "original_title": "Cheyenne", "slug_title": "cheyenne", "date": "1996-10-15", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2cYK7LxKacAaqWqkChaI3zvVmRC.jpg", "actors": ["Bobbie Phillips (Cheyenne)"], "comments": [], "recommandations_id": []}

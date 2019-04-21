@@ -1,0 +1,1 @@
+{"tmdb_id": 512344, "title": "Bobby Dogs", "original_title": "Bobby Dogs", "slug_title": "bobby-dogs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apEw5QwjRTXfdklVXEBqufemekK.jpg", "actors": ["Mike Boland (Bobby Tucker)", "Dawn McGee (Jen Shea)"], "comments": [], "recommandations_id": []}

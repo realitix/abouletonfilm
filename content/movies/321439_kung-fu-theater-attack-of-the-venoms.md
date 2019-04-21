@@ -1,0 +1,1 @@
+{"tmdb_id": 321439, "title": "Kung Fu Theater: Attack of the Venoms", "original_title": "Kung Fu Theater: Attack of the Venoms", "slug_title": "kung-fu-theater-attack-of-the-venoms", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

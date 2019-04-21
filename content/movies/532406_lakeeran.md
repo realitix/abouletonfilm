@@ -1,0 +1,1 @@
+{"tmdb_id": 532406, "title": "Lakeeran", "original_title": "Lakeeran", "slug_title": "lakeeran", "date": "2016-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yuvika Chaudhary ()", "Shivendra Mahal ()", "B.N. Sharma ()", "Malkeet Rauni ()", "Nirmal Rishi ()", "Sukhbir Razia ()"], "comments": [], "recommandations_id": []}

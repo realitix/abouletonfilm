@@ -1,0 +1,1 @@
+{"tmdb_id": 481457, "title": "Cambodia: Year One", "original_title": "Cambodia: Year One", "slug_title": "cambodia-year-one", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjJd792EWHJdHb3wM4q2FXtFN30.jpg", "actors": [], "comments": [], "recommandations_id": []}

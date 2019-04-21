@@ -1,0 +1,1 @@
+{"tmdb_id": 190583, "title": "Joueurs de cartes arros\u00e9s", "original_title": "Joueurs de cartes arros\u00e9s", "slug_title": "joueurs-de-cartes-arroses", "date": "1896-10-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576969, "title": "Tales from the Zoo", "original_title": "Le jardin des plantes", "slug_title": "tales-from-the-zoo", "date": "1994-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uU5OAms1x5MwTA3pCKbziWKnwnF.jpg", "actors": [], "comments": [], "recommandations_id": []}

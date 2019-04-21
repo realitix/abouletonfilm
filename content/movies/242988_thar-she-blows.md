@@ -1,0 +1,1 @@
+{"tmdb_id": 242988, "title": "Thar She Blows!", "original_title": "Thar She Blows!", "slug_title": "thar-she-blows", "date": "1952-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 248159, "title": "Shopping", "original_title": "Shopping", "slug_title": "shopping", "date": "2008-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

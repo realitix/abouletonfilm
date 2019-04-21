@@ -1,0 +1,1 @@
+{"tmdb_id": 306351, "title": "Archana Teacher", "original_title": "Archana Teacher", "slug_title": "archana-teacher", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

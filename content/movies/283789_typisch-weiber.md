@@ -1,0 +1,1 @@
+{"tmdb_id": 283789, "title": "Typisch Weiber", "original_title": "Typisch Weiber", "slug_title": "typisch-weiber", "date": "1981-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wichart von Ro\u00ebll (Father)"], "comments": [], "recommandations_id": []}

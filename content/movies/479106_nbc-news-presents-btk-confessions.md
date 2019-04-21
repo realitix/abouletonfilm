@@ -1,0 +1,1 @@
+{"tmdb_id": 479106, "title": "NBC News Presents: BTK Confessions", "original_title": "NBC News Presents: BTK Confessions", "slug_title": "nbc-news-presents-btk-confessions", "date": "2006-02-14", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edie Magnus ()"], "comments": [], "recommandations_id": []}

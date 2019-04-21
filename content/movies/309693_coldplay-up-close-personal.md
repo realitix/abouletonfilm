@@ -1,0 +1,1 @@
+{"tmdb_id": 309693, "title": "Coldplay: Up Close & Personal", "original_title": "Coldplay: Up Close & Personal", "slug_title": "coldplay-up-close-personal", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

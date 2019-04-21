@@ -1,0 +1,1 @@
+{"tmdb_id": 174230, "title": "The News Parade of 1934!", "original_title": "The News Parade of 1934!", "slug_title": "the-news-parade-of-1934", "date": "1934-03-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 511630, "title": "Poviem jej to s\u00e1m", "original_title": "Poviem jej to s\u00e1m", "slug_title": "poviem-jej-to-sam", "date": "1984-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

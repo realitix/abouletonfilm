@@ -1,0 +1,1 @@
+{"tmdb_id": 562753, "title": "Le fils de Tarass Boulba", "original_title": "Le fils de Tarass Boulba", "slug_title": "le-fils-de-tarass-boulba", "date": "1964-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fB5xRfdJBTKNhwdE8ANsh1zAt1e.jpg", "actors": [], "comments": [], "recommandations_id": []}

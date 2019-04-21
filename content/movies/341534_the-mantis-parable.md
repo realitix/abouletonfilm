@@ -1,0 +1,1 @@
+{"tmdb_id": 341534, "title": "The Mantis Parable", "original_title": "The Mantis Parable", "slug_title": "the-mantis-parable", "date": "2005-05-20", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vY7tEcWjnSc0EQny17bqZbhDpv1.jpg", "actors": [], "comments": [], "recommandations_id": []}

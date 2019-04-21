@@ -1,0 +1,1 @@
+{"tmdb_id": 526419, "title": "Shikasr-i \u02bbishq", "original_title": "Shikasr-i \u02bbishq", "slug_title": "shikasr-i-ishq", "date": "2005-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()"], "comments": [], "recommandations_id": []}

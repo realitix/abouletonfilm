@@ -1,0 +1,1 @@
+{"tmdb_id": 303201, "title": "Pum Pum Power", "original_title": "Pum Pum Power", "slug_title": "pum-pum-power", "date": "2014-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

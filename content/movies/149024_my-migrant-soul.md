@@ -1,0 +1,1 @@
+{"tmdb_id": 149024, "title": "My Migrant Soul", "original_title": "My Migrant Soul", "slug_title": "my-migrant-soul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

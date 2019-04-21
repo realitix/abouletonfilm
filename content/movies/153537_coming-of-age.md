@@ -1,0 +1,1 @@
+{"tmdb_id": 153537, "title": "Coming of Age", "original_title": "Coming of Age", "slug_title": "coming-of-age", "date": "1982-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

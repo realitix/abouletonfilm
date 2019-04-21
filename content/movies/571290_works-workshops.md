@@ -1,0 +1,1 @@
+{"tmdb_id": 571290, "title": "Works & Workshops", "original_title": "M\u0171vek \u00e9s m\u0171helyek", "slug_title": "works-workshops", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

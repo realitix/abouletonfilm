@@ -1,0 +1,1 @@
+{"tmdb_id": 503694, "title": "Mystery at Malibu", "original_title": "Mystery at Malibu", "slug_title": "mystery-at-malibu", "date": "1975-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

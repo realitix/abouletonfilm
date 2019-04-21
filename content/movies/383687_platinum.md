@@ -1,0 +1,1 @@
+{"tmdb_id": 383687, "title": "Platinum", "original_title": "Platinum", "slug_title": "platinum", "date": "1997-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

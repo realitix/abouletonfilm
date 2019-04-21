@@ -1,0 +1,1 @@
+{"tmdb_id": 301371, "title": "Paranormal Hunters with Rex Gonklin", "original_title": "Paranormal Hunters with Rex Gonklin", "slug_title": "paranormal-hunters-with-rex-gonklin", "date": "2014-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

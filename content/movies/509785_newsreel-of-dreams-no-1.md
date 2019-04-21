@@ -1,0 +1,1 @@
+{"tmdb_id": 509785, "title": "Newsreel of Dreams No. 1", "original_title": "Newsreel of Dreams No. 1", "slug_title": "newsreel-of-dreams-no-1", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uiKrNjw2y9jckjNnZ2TvvMLlgtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

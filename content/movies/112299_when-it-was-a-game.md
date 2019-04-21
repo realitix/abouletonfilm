@@ -1,0 +1,1 @@
+{"tmdb_id": 112299, "title": "When It Was a Game", "original_title": "When It Was a Game", "slug_title": "when-it-was-a-game", "date": "1991-01-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ksztE37wXOSHnC3tuUNIr9od9es.jpg", "actors": [], "comments": [], "recommandations_id": []}

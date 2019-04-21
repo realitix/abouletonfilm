@@ -1,0 +1,1 @@
+{"tmdb_id": 513756, "title": "Bobrennen im Sommer", "original_title": "Bobrennen im Sommer", "slug_title": "bobrennen-im-sommer", "date": "2000-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chWImiATIAdmWE1Tic8ARauElg1.jpg", "actors": [], "comments": [], "recommandations_id": []}

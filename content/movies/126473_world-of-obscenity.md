@@ -1,0 +1,1 @@
+{"tmdb_id": 126473, "title": "World of Obscenity", "original_title": "Mondo oscenit\u00e0", "slug_title": "world-of-obscenity", "date": "1966-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62YKSlFYgdQJIdRAVPytMpy6S89.jpg", "actors": [], "comments": [], "recommandations_id": []}

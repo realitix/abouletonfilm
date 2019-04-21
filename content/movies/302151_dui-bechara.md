@@ -1,0 +1,1 @@
+{"tmdb_id": 302151, "title": "Dui Bechara", "original_title": "Dui Bechara", "slug_title": "dui-bechara", "date": "1960-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

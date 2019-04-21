@@ -1,0 +1,1 @@
+{"tmdb_id": 266836, "title": "Les mots pour le dire", "original_title": "Les mots pour le dire", "slug_title": "les-mots-pour-le-dire", "date": "1983-10-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkOtkkzUJQDLqsfI8gEcs8AywfA.jpg", "actors": [], "comments": [], "recommandations_id": []}

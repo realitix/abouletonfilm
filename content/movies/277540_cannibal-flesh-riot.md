@@ -1,0 +1,1 @@
+{"tmdb_id": 277540, "title": "Cannibal Flesh Riot", "original_title": "Cannibal Flesh Riot", "slug_title": "cannibal-flesh-riot", "date": "2007-10-07", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqOKC7nddgIxzHY2VoY4RPdJkCa.jpg", "actors": [], "comments": [], "recommandations_id": []}

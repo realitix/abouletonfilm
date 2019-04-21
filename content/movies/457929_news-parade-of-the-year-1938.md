@@ -1,0 +1,1 @@
+{"tmdb_id": 457929, "title": "News Parade of the Year, 1938", "original_title": "News Parade of the Year, 1938", "slug_title": "news-parade-of-the-year-1938", "date": "1938-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

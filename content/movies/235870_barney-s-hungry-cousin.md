@@ -1,0 +1,1 @@
+{"tmdb_id": 235870, "title": "Barney's Hungry Cousin", "original_title": "Barney's Hungry Cousin", "slug_title": "barney-s-hungry-cousin", "date": "1953-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQ8VYNZK98HvSwW0w7SDodzWz8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311829, "title": "Popeye: Giddy Gold and Other Fun Fan Favorites", "original_title": "Popeye: Giddy Gold and Other Fun Fan Favorites", "slug_title": "popeye-giddy-gold-and-other-fun-fan-favorites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

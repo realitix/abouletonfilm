@@ -1,0 +1,1 @@
+{"tmdb_id": 59526, "title": "Rassmeshit boga", "original_title": "Rassmeshit boga", "slug_title": "rassmeshit-boga", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5CuRy1py86GoikKSqKGz82B2sWO.jpg", "actors": [], "comments": [], "recommandations_id": []}

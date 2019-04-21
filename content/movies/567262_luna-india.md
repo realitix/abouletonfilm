@@ -1,0 +1,1 @@
+{"tmdb_id": 567262, "title": "Luna India", "original_title": "Luna India", "slug_title": "luna-india", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Teo Hernandez", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k1FDFEx04X49fIAX2jnxCOonSTQ.jpg", "actors": ["Ga\u00ebl Badaud ()"], "comments": [], "recommandations_id": []}

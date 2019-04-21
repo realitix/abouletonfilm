@@ -1,0 +1,1 @@
+{"tmdb_id": 552367, "title": "The Spirit of TV", "original_title": "El Esp\u00edritu de la TV", "slug_title": "the-spirit-of-tv", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oZidrYS4aYap68xNXubtMnHjMz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310049, "title": "Chocolate Rap: Rise of the B Boyz", "original_title": "Chocolate Rap: Rise of the B Boyz", "slug_title": "chocolate-rap-rise-of-the-b-boyz", "date": "2006-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

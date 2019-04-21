@@ -1,0 +1,1 @@
+{"tmdb_id": 449296, "title": "90 000 B.C: A Gorilla Odyssey", "original_title": "90 000 B.C: A Gorilla Odyssey", "slug_title": "90-000-b-c-a-gorilla-odyssey", "date": "", "genre": "Com\u00e9die / Romance", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zaid Abu Hamdan (Gorilla)", "Lydia Muijen (Alien)"], "comments": [], "recommandations_id": []}

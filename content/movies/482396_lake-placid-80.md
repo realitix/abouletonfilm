@@ -1,0 +1,1 @@
+{"tmdb_id": 482396, "title": "Lake Placid '80", "original_title": "Lake Placid '80", "slug_title": "lake-placid-80", "date": "1980-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/golUwHzE6UfKjifpywl3TWPI3E7.jpg", "actors": ["Allen Ginsberg ()"], "comments": [], "recommandations_id": []}

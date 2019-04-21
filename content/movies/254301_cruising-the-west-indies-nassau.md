@@ -1,0 +1,1 @@
+{"tmdb_id": 254301, "title": "Cruising the West Indies: Nassau", "original_title": "Cruising the West Indies: Nassau", "slug_title": "cruising-the-west-indies-nassau", "date": "1938-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

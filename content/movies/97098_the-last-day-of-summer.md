@@ -1,0 +1,1 @@
+{"tmdb_id": 97098, "title": "The Last Day of Summer", "original_title": "The Last Day of Summer", "slug_title": "the-last-day-of-summer", "date": "2010-01-01", "genre": "Drame / Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486330, "title": "The Price of Our Liberty", "original_title": "Vapautemme Hinta", "slug_title": "the-price-of-our-liberty", "date": "1991-11-10", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

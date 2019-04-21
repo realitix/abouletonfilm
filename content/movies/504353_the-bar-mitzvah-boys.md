@@ -1,0 +1,1 @@
+{"tmdb_id": 504353, "title": "The Bar Mitzvah Boys", "original_title": "The Bar Mitzvah Boys", "slug_title": "the-bar-mitzvah-boys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

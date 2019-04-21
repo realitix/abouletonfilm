@@ -1,0 +1,1 @@
+{"tmdb_id": 314745, "title": "Chris Brown: A Star Is Born: Unauthorized", "original_title": "Chris Brown: A Star Is Born: Unauthorized", "slug_title": "chris-brown-a-star-is-born-unauthorized", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470357, "title": "Crazy for You", "original_title": "Crazy for You", "slug_title": "crazy-for-you", "date": "2013-08-14", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GyrYAgfS5vyKZaykJG0duBXwDR.jpg", "actors": [], "comments": [], "recommandations_id": []}

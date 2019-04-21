@@ -1,0 +1,1 @@
+{"tmdb_id": 480508, "title": "Em nome da Am\u00e9rica", "original_title": "Em nome da Am\u00e9rica", "slug_title": "em-nome-da-america", "date": "2017-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6sUiF2WbSNZerKFIDYKobJpuiq7.jpg", "actors": [], "comments": [], "recommandations_id": []}

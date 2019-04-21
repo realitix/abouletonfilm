@@ -1,0 +1,1 @@
+{"tmdb_id": 302098, "title": "Det Svarta F\u00e5ret", "original_title": "Det Svarta F\u00e5ret", "slug_title": "det-svarta-faret", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

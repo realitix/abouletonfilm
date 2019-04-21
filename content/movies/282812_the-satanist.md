@@ -1,0 +1,1 @@
+{"tmdb_id": 282812, "title": "The Satanist", "original_title": "The Satanist", "slug_title": "the-satanist", "date": "1968-06-20", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f6YTlS2eTnc1GEukthjYkicuUyP.jpg", "actors": ["Pat Barrington ()"], "comments": [], "recommandations_id": []}

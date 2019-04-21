@@ -1,0 +1,1 @@
+{"tmdb_id": 485138, "title": "All-American Blondes", "original_title": "All-American Blondes", "slug_title": "all-american-blondes", "date": "1939-10-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

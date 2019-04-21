@@ -1,0 +1,1 @@
+{"tmdb_id": 513896, "title": "Le baiser de la sorci\u00e8re", "original_title": "Le baiser de la sorci\u00e8re", "slug_title": "le-baiser-de-la-sorciere", "date": "1907-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

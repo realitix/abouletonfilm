@@ -1,0 +1,1 @@
+{"tmdb_id": 165176, "title": "Red Hot Chili Peppers: Live At Koko", "original_title": "Red Hot Chili Peppers: Live At Koko", "slug_title": "red-hot-chili-peppers-live-at-koko", "date": "2011-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

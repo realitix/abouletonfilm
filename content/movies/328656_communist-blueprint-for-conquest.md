@@ -1,0 +1,1 @@
+{"tmdb_id": 328656, "title": "Communist Blueprint For Conquest", "original_title": "Communist Blueprint For Conquest", "slug_title": "communist-blueprint-for-conquest", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

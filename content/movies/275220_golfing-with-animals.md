@@ -1,0 +1,1 @@
+{"tmdb_id": 275220, "title": "Golfing with Animals", "original_title": "Golfing with Animals", "slug_title": "golfing-with-animals", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

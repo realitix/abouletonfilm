@@ -1,0 +1,1 @@
+{"tmdb_id": 503043, "title": "Filmstudio, mon amour", "original_title": "Filmstudio, mon amour", "slug_title": "filmstudio-mon-amour", "date": "2015-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csHWnUWwOfdxuQJ6mzq85Mb2PG6.jpg", "actors": [], "comments": [], "recommandations_id": []}

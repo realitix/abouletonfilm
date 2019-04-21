@@ -1,0 +1,1 @@
+{"tmdb_id": 217222, "title": "The Life Of A Dog", "original_title": "The Life Of A Dog", "slug_title": "the-life-of-a-dog", "date": "2013-03-09", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

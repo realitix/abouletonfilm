@@ -1,0 +1,1 @@
+{"tmdb_id": 524229, "title": "Homecoming Kids Camp Out", "original_title": "Homecoming Kids Camp Out", "slug_title": "homecoming-kids-camp-out", "date": "2005-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijmKitjp5kTMrGm5KkSYuf3HlZ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

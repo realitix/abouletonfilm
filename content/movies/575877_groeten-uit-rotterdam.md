@@ -1,0 +1,1 @@
+{"tmdb_id": 575877, "title": "Groeten uit Rotterdam", "original_title": "Groeten uit Rotterdam", "slug_title": "groeten-uit-rotterdam", "date": "1980-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aTK4a9RvDy7vDPaznyDLBcvowRd.jpg", "actors": [], "comments": [], "recommandations_id": []}

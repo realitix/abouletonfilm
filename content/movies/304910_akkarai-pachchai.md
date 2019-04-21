@@ -1,0 +1,1 @@
+{"tmdb_id": 304910, "title": "Akkarai Pachchai", "original_title": "Akkarai Pachchai", "slug_title": "akkarai-pachchai", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaishankar ()", "Ravichandran ()", "Lakshmi ()", "Nagesh ()", "Savitri ()", "Jayachitra ()"], "comments": [], "recommandations_id": []}

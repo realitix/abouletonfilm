@@ -1,0 +1,1 @@
+{"tmdb_id": 334095, "title": "Bokays and Brickbatz", "original_title": "Bokays and Brickbatz", "slug_title": "bokays-and-brickbatz", "date": "1925-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

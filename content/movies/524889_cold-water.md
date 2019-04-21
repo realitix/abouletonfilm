@@ -1,0 +1,1 @@
+{"tmdb_id": 524889, "title": "Cold Water", "original_title": "Cold Water", "slug_title": "cold-water", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

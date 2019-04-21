@@ -1,0 +1,1 @@
+{"tmdb_id": 308511, "title": "Baian the Assassin: Vol. 2", "original_title": "Baian the Assassin: Vol. 2", "slug_title": "baian-the-assassin-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

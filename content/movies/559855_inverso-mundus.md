@@ -1,0 +1,1 @@
+{"tmdb_id": 559855, "title": "Inverso Mundus", "original_title": "Inverso Mundus", "slug_title": "inverso-mundus", "date": "2015-05-07", "genre": "Fantastique / Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FG6IjyuW6uGkY9Z2NOcWLuVWks.jpg", "actors": [], "comments": [], "recommandations_id": []}

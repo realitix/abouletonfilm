@@ -1,0 +1,1 @@
+{"tmdb_id": 524106, "title": "Coil: Colour Sound Oblivion", "original_title": "Coil: Colour Sound Oblivion", "slug_title": "coil-colour-sound-oblivion", "date": "2010-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

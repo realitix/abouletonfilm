@@ -1,0 +1,1 @@
+{"tmdb_id": 487231, "title": "Isolement", "original_title": "Isolement", "slug_title": "isolement", "date": "2014-02-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pjFVu0dXTOCULEgfsPe6ifXFgz.jpg", "actors": ["Jean-Louis Aubert ()", "Michel Houellebecq ()"], "comments": [], "recommandations_id": []}

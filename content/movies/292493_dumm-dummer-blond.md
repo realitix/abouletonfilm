@@ -1,0 +1,1 @@
+{"tmdb_id": 292493, "title": "Dumm, D\u00fcmmer, Blond", "original_title": "Dumm, D\u00fcmmer, Blond", "slug_title": "dumm-dummer-blond", "date": "2004-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/H8HCY0hEqSvd4mdZnZE2BBx7qS.jpg", "actors": ["Vivian Schmitt ()"], "comments": [], "recommandations_id": []}

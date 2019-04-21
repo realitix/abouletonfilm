@@ -1,0 +1,1 @@
+{"tmdb_id": 57046, "title": "What's Up, Scarlet?", "original_title": "What's Up, Scarlet?", "slug_title": "what-s-up-scarlet", "date": "2005-05-18", "genre": "Com\u00e9die / Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A6BoL4h7ZCvauZEnFSjOadRZWT3.jpg", "actors": [], "comments": [], "recommandations_id": []}

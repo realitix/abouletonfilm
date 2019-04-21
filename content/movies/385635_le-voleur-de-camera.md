@@ -1,0 +1,1 @@
+{"tmdb_id": 385635, "title": "Le voleur de cam\u00e9ra", "original_title": "Le voleur de cam\u00e9ra", "slug_title": "le-voleur-de-camera", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

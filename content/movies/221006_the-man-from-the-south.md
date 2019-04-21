@@ -1,0 +1,1 @@
+{"tmdb_id": 221006, "title": "The Man from the South", "original_title": "The Man from the South", "slug_title": "the-man-from-the-south", "date": "1979-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

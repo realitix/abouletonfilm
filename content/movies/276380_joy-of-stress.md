@@ -1,0 +1,1 @@
+{"tmdb_id": 276380, "title": "Joy of Stress", "original_title": "Joy of Stress", "slug_title": "joy-of-stress", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

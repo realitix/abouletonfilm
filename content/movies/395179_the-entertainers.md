@@ -1,0 +1,1 @@
+{"tmdb_id": 395179, "title": "The Entertainers", "original_title": "The Entertainers", "slug_title": "the-entertainers", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

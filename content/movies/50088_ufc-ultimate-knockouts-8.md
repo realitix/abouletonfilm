@@ -1,0 +1,1 @@
+{"tmdb_id": 50088, "title": "UFC Ultimate Knockouts 8", "original_title": "UFC Ultimate Knockouts 8", "slug_title": "ufc-ultimate-knockouts-8", "date": "2011-01-25", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2262JFRAIYIvvqldCWxtXtksNa.jpg", "actors": [], "comments": [], "recommandations_id": []}

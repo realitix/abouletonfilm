@@ -1,0 +1,1 @@
+{"tmdb_id": 277780, "title": "Bushman's Secret", "original_title": "Bushman's Secret", "slug_title": "bushman-s-secret", "date": "2006-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNd52ZZ5FazLJ5PKp7byWJO8Uh9.jpg", "actors": [], "comments": [], "recommandations_id": []}

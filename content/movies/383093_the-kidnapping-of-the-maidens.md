@@ -1,0 +1,1 @@
+{"tmdb_id": 383093, "title": "The Kidnapping of the Maidens", "original_title": "Rapirea fecioarelor", "slug_title": "the-kidnapping-of-the-maidens", "date": "1968-03-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTAp6Mpf1MeZgLY7jLjMEltKFCG.jpg", "actors": [], "comments": [], "recommandations_id": []}

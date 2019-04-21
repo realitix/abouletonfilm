@@ -1,0 +1,1 @@
+{"tmdb_id": 526524, "title": "Confrontation: Paris, 1968", "original_title": "Confrontation: Paris, 1968", "slug_title": "confrontation-paris-1968", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

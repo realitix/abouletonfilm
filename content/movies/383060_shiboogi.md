@@ -1,0 +1,1 @@
+{"tmdb_id": 383060, "title": "Shiboogi", "original_title": "Shiboogi", "slug_title": "shiboogi", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7xKd3HyerCwhvd78sDgUrjiSLRZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

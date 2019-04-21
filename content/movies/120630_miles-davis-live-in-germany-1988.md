@@ -1,0 +1,1 @@
+{"tmdb_id": 120630, "title": "Miles Davis: Live in Germany 1988", "original_title": "Miles Davis: Live in Germany 1988", "slug_title": "miles-davis-live-in-germany-1988", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6QDoh5zIzSXXiVudoIelGCTR8MA.jpg", "actors": [], "comments": [], "recommandations_id": []}

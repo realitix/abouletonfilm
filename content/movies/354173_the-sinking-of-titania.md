@@ -1,0 +1,1 @@
+{"tmdb_id": 354173, "title": "The Sinking of Titania", "original_title": "Der Untergang der Titania", "slug_title": "the-sinking-of-titania", "date": "1985-08-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

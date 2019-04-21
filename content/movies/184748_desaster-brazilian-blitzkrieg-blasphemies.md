@@ -1,0 +1,1 @@
+{"tmdb_id": 184748, "title": "Desaster: Brazilian Blitzkrieg Blasphemies", "original_title": "Desaster: Brazilian Blitzkrieg Blasphemies", "slug_title": "desaster-brazilian-blitzkrieg-blasphemies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 234992, "title": "Possum Pearl", "original_title": "Possum Pearl", "slug_title": "possum-pearl", "date": "1957-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

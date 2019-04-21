@@ -1,0 +1,1 @@
+{"tmdb_id": 64006, "title": "Oswald - On-the-Go Oswald", "original_title": "Oswald - On-the-Go Oswald", "slug_title": "oswald-on-the-go-oswald", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3Mab93ScUDnildWPkovjv9DMxj.jpg", "actors": [], "comments": [], "recommandations_id": []}

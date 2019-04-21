@@ -1,0 +1,1 @@
+{"tmdb_id": 448520, "title": "Music Hall", "original_title": "Music Hall", "slug_title": "music-hall", "date": "1934-06-26", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

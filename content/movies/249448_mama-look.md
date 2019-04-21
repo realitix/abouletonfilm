@@ -1,0 +1,1 @@
+{"tmdb_id": 249448, "title": "Mama, Look", "original_title": "Mamo, zobacz", "slug_title": "mama-look", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

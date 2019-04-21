@@ -1,0 +1,1 @@
+{"tmdb_id": 309616, "title": "The French Connexion", "original_title": "The French Connexion", "slug_title": "the-french-connexion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

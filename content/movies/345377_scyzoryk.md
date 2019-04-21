@@ -1,0 +1,1 @@
+{"tmdb_id": 345377, "title": "Scyzoryk", "original_title": "Scyzoryk", "slug_title": "scyzoryk", "date": "2007-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 483225, "title": "Placebo: A New Tomorrow", "original_title": "Placebo: A New Tomorrow", "slug_title": "placebo-a-new-tomorrow", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Molko ()", "Stefan Olsdal ()", "Steve Forrest ()"], "comments": [], "recommandations_id": []}

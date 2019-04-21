@@ -1,0 +1,1 @@
+{"tmdb_id": 417470, "title": "Calling All Kids", "original_title": "Calling All Kids", "slug_title": "calling-all-kids", "date": "1943-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

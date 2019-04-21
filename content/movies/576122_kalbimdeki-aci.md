@@ -1,0 +1,1 @@
+{"tmdb_id": 576122, "title": "Kalbimdeki Ac\u0131", "original_title": "Kalbimdeki Ac\u0131", "slug_title": "kalbimdeki-aci", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kgn2EbvpXlYH2zYMc4k66CuxwhP.jpg", "actors": [], "comments": [], "recommandations_id": []}

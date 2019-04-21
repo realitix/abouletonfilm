@@ -1,0 +1,1 @@
+{"tmdb_id": 248064, "title": "The Trouble With Aid", "original_title": "The Trouble With Aid", "slug_title": "the-trouble-with-aid", "date": "2012-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366873, "title": "Campo Minado", "original_title": "Campo Minado", "slug_title": "campo-minado", "date": "2000-11-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Carlos Falc\u00f3n ()", "Nicol\u00e1s Fontaine ()", "Erto Pantoja ()"], "comments": [], "recommandations_id": []}

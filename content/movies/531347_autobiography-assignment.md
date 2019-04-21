@@ -1,0 +1,1 @@
+{"tmdb_id": 531347, "title": "Autobiography Assignment", "original_title": "Autobiography Assignment", "slug_title": "autobiography-assignment", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vV4FjGenwo13qNS5VhwWlozMFDI.jpg", "actors": [], "comments": [], "recommandations_id": []}

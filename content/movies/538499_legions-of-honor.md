@@ -1,0 +1,1 @@
+{"tmdb_id": 538499, "title": "Legions of Honor", "original_title": "L\u00e9gions d'honneur", "slug_title": "legions-of-honor", "date": "1938-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOr0qWvp2mA98ICo7ZZPV7SfBqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

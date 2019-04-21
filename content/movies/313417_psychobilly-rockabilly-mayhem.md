@@ -1,0 +1,1 @@
+{"tmdb_id": 313417, "title": "Psychobilly & Rockabilly Mayhem", "original_title": "Psychobilly & Rockabilly Mayhem", "slug_title": "psychobilly-rockabilly-mayhem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

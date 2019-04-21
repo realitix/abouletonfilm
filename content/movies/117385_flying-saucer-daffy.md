@@ -1,0 +1,1 @@
+{"tmdb_id": 117385, "title": "Flying Saucer Daffy", "original_title": "Flying Saucer Daffy", "slug_title": "flying-saucer-daffy", "date": "1958-10-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Besser (Joe)", "Larry Fine (Larry)", "Moe Howard (Moe)"], "comments": [], "recommandations_id": []}

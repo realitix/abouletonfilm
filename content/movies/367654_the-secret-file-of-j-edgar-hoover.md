@@ -1,0 +1,1 @@
+{"tmdb_id": 367654, "title": "The Secret File of J. Edgar Hoover", "original_title": "The Secret File of J. Edgar Hoover", "slug_title": "the-secret-file-of-j-edgar-hoover", "date": "1993-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

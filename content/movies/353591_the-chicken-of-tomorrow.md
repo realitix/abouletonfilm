@@ -1,0 +1,1 @@
+{"tmdb_id": 353591, "title": "The Chicken of Tomorrow", "original_title": "The Chicken of Tomorrow", "slug_title": "the-chicken-of-tomorrow", "date": "1948-01-01", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lowell Thomas ()"], "comments": [], "recommandations_id": []}

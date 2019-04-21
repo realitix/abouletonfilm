@@ -1,0 +1,1 @@
+{"tmdb_id": 174874, "title": "Wanda's Trick", "original_title": "Wanda's Trick", "slug_title": "wanda-s-trick", "date": "1918-05-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wanda Treumann ()"], "comments": [], "recommandations_id": []}

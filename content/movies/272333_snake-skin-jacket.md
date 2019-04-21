@@ -1,0 +1,1 @@
+{"tmdb_id": 272333, "title": "Snake Skin Jacket", "original_title": "Snake Skin Jacket", "slug_title": "snake-skin-jacket", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joseph Pilato (Gazzari (as Josef Pilato))"], "comments": [], "recommandations_id": []}

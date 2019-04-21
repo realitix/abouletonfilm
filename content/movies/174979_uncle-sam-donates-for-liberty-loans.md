@@ -1,0 +1,1 @@
+{"tmdb_id": 174979, "title": "Uncle Sam Donates for Liberty Loans", "original_title": "Uncle Sam Donates for Liberty Loans", "slug_title": "uncle-sam-donates-for-liberty-loans", "date": "1919-03-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

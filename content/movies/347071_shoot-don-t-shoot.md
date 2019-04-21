@@ -1,0 +1,1 @@
+{"tmdb_id": 347071, "title": "Shoot Don't Shoot", "original_title": "Shoot Don't Shoot", "slug_title": "shoot-don-t-shoot", "date": "2012-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e9TTS2VcSE1ElVEZnXUkM3Tccw5.jpg", "actors": [], "comments": [], "recommandations_id": []}

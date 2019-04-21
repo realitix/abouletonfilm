@@ -1,0 +1,1 @@
+{"tmdb_id": 571559, "title": "Stammer School", "original_title": "Stammer School", "slug_title": "stammer-school", "date": "2014-08-28", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["MyAnna Buring (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 586718, "title": "Energy Pioneers", "original_title": "Energy Pioneers", "slug_title": "energy-pioneers", "date": "2019-02-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

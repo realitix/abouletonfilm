@@ -1,0 +1,1 @@
+{"tmdb_id": 165200, "title": "My Apocalypse", "original_title": "My Apocalypse", "slug_title": "my-apocalypse", "date": "", "genre": "", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 161059, "title": "CantaJuego 7", "original_title": "CantaJuego 7", "slug_title": "cantajuego-7", "date": "2011-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmdSGyqnCJZes4NtU2V2U7MNnrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

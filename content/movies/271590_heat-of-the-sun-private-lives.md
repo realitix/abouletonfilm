@@ -1,0 +1,1 @@
+{"tmdb_id": 271590, "title": "Heat of the Sun: Private Lives", "original_title": "Heat of the Sun: Private Lives", "slug_title": "heat-of-the-sun-private-lives", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

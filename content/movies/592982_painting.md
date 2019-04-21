@@ -1,0 +1,1 @@
+{"tmdb_id": 592982, "title": "Painting...", "original_title": "Zografizontas...", "slug_title": "painting", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

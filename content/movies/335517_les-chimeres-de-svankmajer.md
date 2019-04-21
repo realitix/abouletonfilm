@@ -1,0 +1,1 @@
+{"tmdb_id": 335517, "title": "Les Chim\u00e8res de \u0160vankmajer", "original_title": "Les Chim\u00e8res de \u0160vankmajer", "slug_title": "les-chimeres-de-svankmajer", "date": "2001-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

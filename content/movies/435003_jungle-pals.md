@@ -1,0 +1,1 @@
+{"tmdb_id": 435003, "title": "Jungle Pals", "original_title": "Jungle Pals", "slug_title": "jungle-pals", "date": "1923-08-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Duffy ()"], "comments": [], "recommandations_id": []}

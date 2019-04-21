@@ -1,0 +1,1 @@
+{"tmdb_id": 350476, "title": "\ubaa9\ub9c8 \uc704\uc758 \uc5ec\uc790", "original_title": "\ubaa9\ub9c8 \uc704\uc758 \uc5ec\uc790", "slug_title": "mogma-wiyi-yeoja", "date": "1979-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 434755, "title": "The Ukes in America", "original_title": "The Ukes in America", "slug_title": "the-ukes-in-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

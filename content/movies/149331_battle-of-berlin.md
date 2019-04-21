@@ -1,0 +1,1 @@
+{"tmdb_id": 149331, "title": "Battle of Berlin", "original_title": "Schlacht um Berlin", "slug_title": "battle-of-berlin", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4J1rcrpRuE6LRdnhQxkBkhNILt.jpg", "actors": [], "comments": [], "recommandations_id": []}

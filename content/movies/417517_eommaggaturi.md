@@ -1,0 +1,1 @@
+{"tmdb_id": 417517, "title": "\uc5c4\ub9c8\uae4c\ud22c\ub9ac", "original_title": "\uc5c4\ub9c8\uae4c\ud22c\ub9ac", "slug_title": "eommaggaturi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTPjSH8ZIojpoNBbEJCP50B76lN.jpg", "actors": [], "comments": [], "recommandations_id": []}

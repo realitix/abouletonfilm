@@ -1,0 +1,1 @@
+{"tmdb_id": 77897, "title": "Wolfmother: Rock Am Ring", "original_title": "Wolfmother: Rock Am Ring", "slug_title": "wolfmother-rock-am-ring", "date": "2011-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmdezWptsezcayQu1isgVb4Roxu.jpg", "actors": [], "comments": [], "recommandations_id": []}

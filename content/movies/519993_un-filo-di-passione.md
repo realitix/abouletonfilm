@@ -1,0 +1,1 @@
+{"tmdb_id": 519993, "title": "Un filo di passione", "original_title": "Un filo di passione", "slug_title": "un-filo-di-passione", "date": "2000-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maya Sansa ()", "Pier Giorgio Bellocchio ()"], "comments": [], "recommandations_id": []}

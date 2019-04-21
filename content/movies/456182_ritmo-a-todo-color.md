@@ -1,0 +1,1 @@
+{"tmdb_id": 456182, "title": "Ritmo A Todo Color", "original_title": "Ritmo A Todo Color", "slug_title": "ritmo-a-todo-color", "date": "1980-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eweY2q8atjMndMFObZEujyiHSC.jpg", "actors": [], "comments": [], "recommandations_id": []}

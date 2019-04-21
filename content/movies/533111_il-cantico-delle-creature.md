@@ -1,0 +1,1 @@
+{"tmdb_id": 533111, "title": "Il Cantico delle creature", "original_title": "Il Cantico delle creature", "slug_title": "il-cantico-delle-creature", "date": "1943-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

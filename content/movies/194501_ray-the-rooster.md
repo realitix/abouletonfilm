@@ -1,0 +1,1 @@
+{"tmdb_id": 194501, "title": "Ray The Rooster", "original_title": "Ray The Rooster", "slug_title": "ray-the-rooster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MHS33vqMjdFacGy62EdWidAHLT.jpg", "actors": [], "comments": [], "recommandations_id": []}

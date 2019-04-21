@@ -1,0 +1,1 @@
+{"tmdb_id": 405219, "title": "The Bird and the Worm", "original_title": "Ptica i crvek", "slug_title": "the-bird-and-the-worm", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2r9eWRliGJfDfuJFlbgUac7www7.jpg", "actors": [], "comments": [], "recommandations_id": []}

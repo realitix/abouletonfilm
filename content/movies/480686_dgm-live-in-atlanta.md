@@ -1,0 +1,1 @@
+{"tmdb_id": 480686, "title": "DGM - Live In Atlanta", "original_title": "DGM - Live In Atlanta", "slug_title": "dgm-live-in-atlanta", "date": "2014-09-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e47UQGPRrw49yc6j2SAmwCDO823.jpg", "actors": [], "comments": [], "recommandations_id": []}

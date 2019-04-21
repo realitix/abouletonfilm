@@ -1,0 +1,1 @@
+{"tmdb_id": 465094, "title": "Lotte Eisner in Germany", "original_title": "Lotte Eisner in Germany", "slug_title": "lotte-eisner-in-germany", "date": "1980-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

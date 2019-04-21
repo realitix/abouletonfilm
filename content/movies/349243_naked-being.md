@@ -1,0 +1,1 @@
+{"tmdb_id": 349243, "title": "Naked Being", "original_title": "\uae4c", "slug_title": "naked-being", "date": "1998-11-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJWtIEM89A4Nsu6hcuejgC1ujbT.jpg", "actors": ["Cho Eun-sook (Eun-sook)"], "comments": [], "recommandations_id": []}

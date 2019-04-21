@@ -1,0 +1,1 @@
+{"tmdb_id": 356470, "title": "Look at Life", "original_title": "Look at Life", "slug_title": "look-at-life", "date": "1965-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmst3mBN3emNsHZWqBvC2kFqSIC.jpg", "actors": [], "comments": [], "recommandations_id": [144682, 204958, 53167, 426903]}

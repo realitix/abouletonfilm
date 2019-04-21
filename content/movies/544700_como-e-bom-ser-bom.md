@@ -1,0 +1,1 @@
+{"tmdb_id": 544700, "title": "Como \u00e9 bom ser bom?", "original_title": "Como \u00e9 bom ser bom?", "slug_title": "como-e-bom-ser-bom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

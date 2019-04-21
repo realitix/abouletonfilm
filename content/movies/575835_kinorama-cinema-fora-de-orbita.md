@@ -1,0 +1,1 @@
+{"tmdb_id": 575835, "title": "KINORAMA \u2212 Cinema Fora de \u00d3rbita", "original_title": "KINORAMA \u2212 Cinema Fora de \u00d3rbita", "slug_title": "kinorama-cinema-fora-de-orbita", "date": "2019-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

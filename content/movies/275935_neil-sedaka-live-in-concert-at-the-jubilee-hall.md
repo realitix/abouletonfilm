@@ -1,0 +1,1 @@
+{"tmdb_id": 275935, "title": "Neil Sedaka: Live in Concert at the Jubilee Hall", "original_title": "Neil Sedaka: Live in Concert at the Jubilee Hall", "slug_title": "neil-sedaka-live-in-concert-at-the-jubilee-hall", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

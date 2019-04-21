@@ -1,0 +1,1 @@
+{"tmdb_id": 568181, "title": "Dirty White Guys!!", "original_title": "Dirty White Guys!!", "slug_title": "dirty-white-guys", "date": "1996-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2YGy8N95w7IEudTGatZ42kSzWb.jpg", "actors": ["Rod Barry ()", "Billy Young ()"], "comments": [], "recommandations_id": []}

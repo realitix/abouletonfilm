@@ -1,0 +1,1 @@
+{"tmdb_id": 243029, "title": "Switzerland", "original_title": "Switzerland", "slug_title": "switzerland", "date": "1955-01-16", "genre": "Familial / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qzad4mtt0lVD7p2ftL2ppjQ38S.jpg", "actors": [], "comments": [], "recommandations_id": []}

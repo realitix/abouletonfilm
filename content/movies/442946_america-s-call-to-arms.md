@@ -1,0 +1,1 @@
+{"tmdb_id": 442946, "title": "America's Call to Arms", "original_title": "America's Call to Arms", "slug_title": "america-s-call-to-arms", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

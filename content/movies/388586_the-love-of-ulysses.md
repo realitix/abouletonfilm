@@ -1,0 +1,1 @@
+{"tmdb_id": 388586, "title": "The Love of Ulysses", "original_title": "O erotas tou Odyssea", "slug_title": "the-love-of-ulysses", "date": "1984-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znYYVWb5c9LuyTSvJGvmAFxwyVN.jpg", "actors": [], "comments": [], "recommandations_id": []}

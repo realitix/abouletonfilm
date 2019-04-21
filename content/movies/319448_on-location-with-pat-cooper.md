@@ -1,0 +1,1 @@
+{"tmdb_id": 319448, "title": "On Location with Pat Cooper", "original_title": "On Location with Pat Cooper", "slug_title": "on-location-with-pat-cooper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

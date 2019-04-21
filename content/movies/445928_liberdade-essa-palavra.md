@@ -1,0 +1,1 @@
+{"tmdb_id": 445928, "title": "Liberdade, essa palavra", "original_title": "Liberdade, essa palavra", "slug_title": "liberdade-essa-palavra", "date": "2006-06-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bhQEfGAehxUFWRsfyHl6pG1KT9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

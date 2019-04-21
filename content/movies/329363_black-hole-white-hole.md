@@ -1,0 +1,1 @@
+{"tmdb_id": 329363, "title": "Black Hole, White Hole", "original_title": "Fekete lyuk - feh\u00e9r lyuk", "slug_title": "black-hole-white-hole", "date": "2001-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rbkVbquhxlZwEI4iELNtFnmYzJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

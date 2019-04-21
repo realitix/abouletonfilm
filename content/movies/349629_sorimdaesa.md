@@ -1,0 +1,1 @@
+{"tmdb_id": 349629, "title": "\uc18c\ub9bc\ub300\uc0ac", "original_title": "\uc18c\ub9bc\ub300\uc0ac", "slug_title": "sorimdaesa", "date": "1984-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

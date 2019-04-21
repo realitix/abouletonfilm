@@ -1,0 +1,1 @@
+{"tmdb_id": 510855, "title": "Der Weg durch die Nacht", "original_title": "Der Weg durch die Nacht", "slug_title": "der-weg-durch-die-nacht", "date": "1929-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margita Alfv\u00e9n ()", "Sophie Pagay ()", "K\u00e4the von Nagy ()"], "comments": [], "recommandations_id": []}

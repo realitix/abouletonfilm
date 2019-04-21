@@ -1,0 +1,1 @@
+{"tmdb_id": 354169, "title": "NavelFable", "original_title": "NabelFabel", "slug_title": "navelfable", "date": "1984-08-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

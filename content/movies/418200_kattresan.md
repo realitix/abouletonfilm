@@ -1,0 +1,1 @@
+{"tmdb_id": 418200, "title": "Kattresan", "original_title": "Kattresan", "slug_title": "kattresan", "date": "1982-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUkM6rc1jfz4sGyuqOfuA0HhcL6.jpg", "actors": ["Margaretha Krook (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575208, "title": "Une partie de campagne", "original_title": "Une partie de campagne", "slug_title": "une-partie-de-campagne", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Teo Hernandez", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8O2Rr7arDY6WCuRwHVY3Ita5Neq.jpg", "actors": [], "comments": [], "recommandations_id": []}

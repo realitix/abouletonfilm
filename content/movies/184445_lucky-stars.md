@@ -1,0 +1,1 @@
+{"tmdb_id": 184445, "title": "Lucky Stars", "original_title": "Lucky Stars", "slug_title": "lucky-stars", "date": "1925-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon (Harry Lamb)"], "comments": [], "recommandations_id": []}

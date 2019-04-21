@@ -1,0 +1,1 @@
+{"tmdb_id": 394917, "title": "15 Faros de Puerto Rico", "original_title": "15 Faros de Puerto Rico", "slug_title": "15-faros-de-puerto-rico", "date": "2015-08-12", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l5kzbEXEiVf5gS28mNHdhJzCEgp.jpg", "actors": [], "comments": [], "recommandations_id": []}

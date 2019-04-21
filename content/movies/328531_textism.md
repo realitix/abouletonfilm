@@ -1,0 +1,1 @@
+{"tmdb_id": 328531, "title": "Textism", "original_title": "Textism", "slug_title": "textism", "date": "2003-12-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHj14YF5eRbh942JDAYp3odPOw7.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 262854, 152973]}

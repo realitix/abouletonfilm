@@ -1,0 +1,1 @@
+{"tmdb_id": 397926, "title": "Valentina", "original_title": "Valentina", "slug_title": "valentina", "date": "2016-04-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dto31mEfVidffshNvala6Ft6Rq.jpg", "actors": ["Katya Mart\u00edn (Valentina)", "Gonzalo Bouza (Salvador)"], "comments": [], "recommandations_id": []}

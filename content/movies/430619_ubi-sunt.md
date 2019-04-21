@@ -1,0 +1,1 @@
+{"tmdb_id": 430619, "title": "Ubi Sunt", "original_title": "Ubi Sunt", "slug_title": "ubi-sunt", "date": "2016-12-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVmFkQ8eJGGuBcyg0FOUpnPSQOL.jpg", "actors": ["Valdemar Santos (Man)", "Ana Moreira (Woman)"], "comments": [], "recommandations_id": []}

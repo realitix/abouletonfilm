@@ -1,0 +1,1 @@
+{"tmdb_id": 379737, "title": "Rani Kuthir Baki Itihash", "original_title": "Rani Kuthir Baki Itihash", "slug_title": "rani-kuthir-baki-itihash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

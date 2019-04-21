@@ -1,0 +1,1 @@
+{"tmdb_id": 315557, "title": "Mothers", "original_title": "\u6bcd\u305f\u3061", "slug_title": "mothers", "date": "1967-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e0fBLETWHkypmbFkZxTpQAaEGnv.jpg", "actors": ["Ky\u00f4ko Kishida ((voice))"], "comments": [], "recommandations_id": []}

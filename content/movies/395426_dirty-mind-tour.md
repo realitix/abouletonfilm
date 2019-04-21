@@ -1,0 +1,1 @@
+{"tmdb_id": 395426, "title": "Dirty Mind Tour", "original_title": "Dirty Mind Tour", "slug_title": "dirty-mind-tour", "date": "2005-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qvZiPkrBjfKSA3IVTzWyHo9zxB.jpg", "actors": [], "comments": [], "recommandations_id": []}

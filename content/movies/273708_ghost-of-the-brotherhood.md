@@ -1,0 +1,1 @@
+{"tmdb_id": 273708, "title": "Ghost of the Brotherhood", "original_title": "Ghost of the Brotherhood", "slug_title": "ghost-of-the-brotherhood", "date": "2006-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

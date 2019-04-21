@@ -1,0 +1,1 @@
+{"tmdb_id": 331633, "title": "Egypt Journal", "original_title": "Jaridat Misr", "slug_title": "egypt-journal", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550253, "title": "The Wild Bunch", "original_title": "The Wild Bunch", "slug_title": "the-wild-bunch", "date": "", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

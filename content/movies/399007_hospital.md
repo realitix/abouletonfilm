@@ -1,0 +1,1 @@
+{"tmdb_id": 399007, "title": "Hospital", "original_title": "Hospital", "slug_title": "hospital", "date": "2005-05-24", "genre": "Horreur", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJ0rNLYh3VBWViq7TZqujMmhyIp.jpg", "actors": [], "comments": [], "recommandations_id": []}

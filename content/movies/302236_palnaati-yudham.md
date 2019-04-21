@@ -1,0 +1,1 @@
+{"tmdb_id": 302236, "title": "Palnaati Yudham", "original_title": "Palnaati Yudham", "slug_title": "palnaati-yudham", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

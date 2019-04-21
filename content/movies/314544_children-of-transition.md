@@ -1,0 +1,1 @@
+{"tmdb_id": 314544, "title": "Children of Transition", "original_title": "Djeca tranzicije", "slug_title": "children-of-transition", "date": "2014-06-29", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aK24RTXDC3tWv2vK5HCPKLhRyQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

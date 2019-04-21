@@ -1,0 +1,1 @@
+{"tmdb_id": 267960, "title": "Los que se quedan", "original_title": "Los que se quedan", "slug_title": "los-que-se-quedan", "date": "2009-10-30", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4jBlsfPhLkWcZ2hXe7fTLKODto6.jpg", "actors": [], "comments": [], "recommandations_id": []}

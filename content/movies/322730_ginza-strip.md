@@ -1,0 +1,1 @@
+{"tmdb_id": 322730, "title": "Ginza Strip", "original_title": "Ginza Strip", "slug_title": "ginza-strip", "date": "2014-10-24", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tH4wYOPEJtP3KmqTqUhmxwMlAED.jpg", "actors": [], "comments": [], "recommandations_id": []}

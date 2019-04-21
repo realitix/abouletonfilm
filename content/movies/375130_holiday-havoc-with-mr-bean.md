@@ -1,0 +1,1 @@
+{"tmdb_id": 375130, "title": "Holiday Havoc with Mr. Bean", "original_title": "Holiday Havoc with Mr. Bean", "slug_title": "holiday-havoc-with-mr-bean", "date": "2011-08-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzx9St2kURaCLtICgUxLARmouSm.jpg", "actors": [], "comments": [], "recommandations_id": []}

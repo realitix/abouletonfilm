@@ -1,0 +1,1 @@
+{"tmdb_id": 488885, "title": "Lone Rider", "original_title": "Lone Rider", "slug_title": "lone-rider", "date": "2007-06-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Gyngell (The Lone Rider)", "Jim Daly (Pawn Shop Owner)", "Black Douglas (Horse)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468228, "title": "The Disney of Duivendrecht", "original_title": "De Duivendrechtse Disney", "slug_title": "the-disney-of-duivendrecht", "date": "2012-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJRZ38zJTLXrHd39VivTKY9Ywcp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562369, "title": "So You Want to Enjoy Life", "original_title": "So You Want to Enjoy Life", "slug_title": "so-you-want-to-enjoy-life", "date": "1952-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539690, "title": "Expeditions 1 \u2013 Signs of Empire", "original_title": "Expeditions 1 \u2013 Signs of Empire", "slug_title": "expeditions-1-signs-of-empire", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

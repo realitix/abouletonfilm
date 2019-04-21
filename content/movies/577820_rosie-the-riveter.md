@@ -1,0 +1,1 @@
+{"tmdb_id": 577820, "title": "Rosie the Riveter", "original_title": "Rosie the Riveter", "slug_title": "rosie-the-riveter", "date": "1943-01-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cappy Barra Boys ()", "The Smoothies Trio ()"], "comments": [], "recommandations_id": []}

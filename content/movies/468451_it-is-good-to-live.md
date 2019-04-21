@@ -1,0 +1,1 @@
+{"tmdb_id": 468451, "title": "It Is Good to Live", "original_title": "Ikiteite yokatta", "slug_title": "it-is-good-to-live", "date": "1956-07-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

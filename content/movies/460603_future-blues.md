@@ -1,0 +1,1 @@
+{"tmdb_id": 460603, "title": "Future Blues", "original_title": "Future Blues", "slug_title": "future-blues", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1CMtnQBiQ1EOBYLL4asRANtBbu.jpg", "actors": ["Yoko Kanno (Herself)", "Mai Yamane ()"], "comments": [], "recommandations_id": []}

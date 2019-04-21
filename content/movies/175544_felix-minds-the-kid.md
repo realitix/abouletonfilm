@@ -1,0 +1,1 @@
+{"tmdb_id": 175544, "title": "Felix Minds the Kid", "original_title": "Felix Minds the Kid", "slug_title": "felix-minds-the-kid", "date": "1922-10-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geGUg1JlXOYM14IP5B8akep3KSK.jpg", "actors": [], "comments": [], "recommandations_id": []}

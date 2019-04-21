@@ -1,0 +1,1 @@
+{"tmdb_id": 234382, "title": "Assault and Peppered", "original_title": "Assault and Peppered", "slug_title": "assault-and-peppered", "date": "1965-04-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/famCgVfEndhxBkZGsDKDRU0cptE.jpg", "actors": [], "comments": [], "recommandations_id": []}

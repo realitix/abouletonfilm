@@ -1,0 +1,1 @@
+{"tmdb_id": 453192, "title": "Strawberries in the Summertime", "original_title": "Strawberries in the Summertime", "slug_title": "strawberries-in-the-summertime", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMejmvfgATEtv0xJdGVv1wCsTKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

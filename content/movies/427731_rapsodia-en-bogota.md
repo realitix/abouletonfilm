@@ -1,0 +1,1 @@
+{"tmdb_id": 427731, "title": "Rapsodia en Bogot\u00e1", "original_title": "Rapsodia en Bogot\u00e1", "slug_title": "rapsodia-en-bogota", "date": "1963-04-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/culOcx3JTJ5oEAqxSMAixOoPyha.jpg", "actors": [], "comments": [], "recommandations_id": []}

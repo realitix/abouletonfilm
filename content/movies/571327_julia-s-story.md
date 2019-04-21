@@ -1,0 +1,1 @@
+{"tmdb_id": 571327, "title": "Julia's Story", "original_title": "Julia's Story", "slug_title": "julia-s-story", "date": "2005-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julia (herself)"], "comments": [], "recommandations_id": []}

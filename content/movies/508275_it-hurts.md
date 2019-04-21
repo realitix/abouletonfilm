@@ -1,0 +1,1 @@
+{"tmdb_id": 508275, "title": "It Hurts", "original_title": "Duele", "slug_title": "it-hurts", "date": "2017-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsS0YER9Q33Cvw4dWJEf2djEZpm.jpg", "actors": ["Leticia Huijara (Psychologist)", "Carla Nieto (Patient)"], "comments": [], "recommandations_id": []}

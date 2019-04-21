@@ -1,0 +1,1 @@
+{"tmdb_id": 342414, "title": "Sinister Stuff", "original_title": "Sinister Stuff", "slug_title": "sinister-stuff", "date": "1934-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

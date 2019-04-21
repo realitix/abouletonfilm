@@ -1,0 +1,1 @@
+{"tmdb_id": 560793, "title": "El coyote", "original_title": "El coyote", "slug_title": "el-coyote", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425787, "title": "Erz\u00e4hlung \u00fcber eine Liebe", "original_title": "Erz\u00e4hlung \u00fcber eine Liebe", "slug_title": "erzahlung-uber-eine-liebe", "date": "1964-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petra Kelling ()", "Armin Mechsner ()"], "comments": [], "recommandations_id": []}

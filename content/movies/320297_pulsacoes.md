@@ -1,0 +1,1 @@
+{"tmdb_id": 320297, "title": "Pulsa\u00e7\u00f5es", "original_title": "Pulsa\u00e7\u00f5es", "slug_title": "pulsacoes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

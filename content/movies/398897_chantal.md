@@ -1,0 +1,1 @@
+{"tmdb_id": 398897, "title": "Chantal", "original_title": "Chantal", "slug_title": "chantal", "date": "1968-04-12", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Damon ()"], "comments": [], "recommandations_id": []}

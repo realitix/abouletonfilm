@@ -1,0 +1,1 @@
+{"tmdb_id": 587394, "title": "Mary Silliman's War", "original_title": "Mary Silliman's War", "slug_title": "mary-silliman-s-war", "date": "1994-05-11", "genre": "Guerre / Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

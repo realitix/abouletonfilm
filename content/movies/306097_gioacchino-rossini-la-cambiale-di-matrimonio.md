@@ -1,0 +1,1 @@
+{"tmdb_id": 306097, "title": "Gioacchino Rossini: La cambiale di matrimonio", "original_title": "Gioacchino Rossini: La cambiale di matrimonio", "slug_title": "gioacchino-rossini-la-cambiale-di-matrimonio", "date": "2006-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

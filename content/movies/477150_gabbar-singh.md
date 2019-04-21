@@ -1,0 +1,1 @@
+{"tmdb_id": 477150, "title": "Gabbar Singh", "original_title": "Gabbar Singh", "slug_title": "gabbar-singh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5MITBg37YWu6AD2CKVdTmQO4C5W.jpg", "actors": [], "comments": [], "recommandations_id": []}

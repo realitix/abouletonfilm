@@ -1,0 +1,1 @@
+{"tmdb_id": 362339, "title": "Stalingrad", "original_title": "Stalingrad", "slug_title": "stalingrad", "date": "2003-10-01", "genre": "Guerre / Documentaire / Histoire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pfOtNZJL0jfos1ubQDZZg04pMGv.jpg", "actors": [], "comments": [], "recommandations_id": []}

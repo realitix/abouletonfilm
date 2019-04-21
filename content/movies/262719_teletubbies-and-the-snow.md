@@ -1,0 +1,1 @@
+{"tmdb_id": 262719, "title": "Teletubbies and the Snow", "original_title": "Teletubbies and the Snow", "slug_title": "teletubbies-and-the-snow", "date": "2000-10-31", "genre": "Familial", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mOG71nyKdJ51b3LAfSdl7RWN3K1.jpg", "actors": [], "comments": [], "recommandations_id": []}

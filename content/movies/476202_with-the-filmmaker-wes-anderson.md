@@ -1,0 +1,1 @@
+{"tmdb_id": 476202, "title": "With the Filmmaker: Wes Anderson", "original_title": "With the Filmmaker: Wes Anderson", "slug_title": "with-the-filmmaker-wes-anderson", "date": "2001-12-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wes Anderson (Interviewee)"], "comments": [], "recommandations_id": []}

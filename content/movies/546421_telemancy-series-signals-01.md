@@ -1,0 +1,1 @@
+{"tmdb_id": 546421, "title": "Telemancy Series - signals 01", "original_title": "Telemancy Series - signals 01", "slug_title": "telemancy-series-signals-01", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

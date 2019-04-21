@@ -1,0 +1,1 @@
+{"tmdb_id": 430296, "title": "Autumn is Still Far Away", "original_title": "L\u012bdz rudenim v\u0113l t\u0101lu", "slug_title": "autumn-is-still-far-away", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

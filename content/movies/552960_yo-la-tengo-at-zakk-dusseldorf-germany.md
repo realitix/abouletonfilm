@@ -1,0 +1,1 @@
+{"tmdb_id": 552960, "title": "Yo La Tengo at Zakk, Dusseldorf, Germany", "original_title": "Yo La Tengo at Zakk, Dusseldorf, Germany", "slug_title": "yo-la-tengo-at-zakk-dusseldorf-germany", "date": "2006-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381804, "title": "Libertas", "original_title": "Libertas", "slug_title": "libertas", "date": "2016-02-09", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m59TjCgEcCX0YmKm2u1rIgnI81I.jpg", "actors": [], "comments": [], "recommandations_id": []}

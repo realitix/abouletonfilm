@@ -1,0 +1,1 @@
+{"tmdb_id": 360630, "title": "How to Live with a Neurotic Dog", "original_title": "How to Live with a Neurotic Dog", "slug_title": "how-to-live-with-a-neurotic-dog", "date": "1963-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Treacher (Narrator)"], "comments": [], "recommandations_id": []}

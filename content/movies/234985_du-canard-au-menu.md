@@ -1,0 +1,1 @@
+{"tmdb_id": 234985, "title": "Du canard au menu", "original_title": "Don't Axe Me", "slug_title": "du-canard-au-menu", "date": "1958-01-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7i7fYcVbrBwNM3LBwjjACY8XoGu.jpg", "actors": [], "comments": [], "recommandations_id": []}

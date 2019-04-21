@@ -1,0 +1,1 @@
+{"tmdb_id": 317995, "title": "The Bull", "original_title": "O Touro", "slug_title": "the-bull", "date": "2015-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4WVvebZdSmL8npgMWuEvwAwOOK.jpg", "actors": ["Joana de Verona ()"], "comments": [], "recommandations_id": []}

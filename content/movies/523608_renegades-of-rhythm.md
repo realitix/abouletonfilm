@@ -1,0 +1,1 @@
+{"tmdb_id": 523608, "title": "Renegades of Rhythm", "original_title": "Renegades of Rhythm", "slug_title": "renegades-of-rhythm", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKzMrexagM9yLubEDYpu3OPxCED.jpg", "actors": ["DJ Shadow ()", "Cut Chemist ()"], "comments": [], "recommandations_id": []}

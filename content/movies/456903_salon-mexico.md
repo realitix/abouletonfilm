@@ -1,0 +1,1 @@
+{"tmdb_id": 456903, "title": "Sal\u00f3n M\u00e9xico", "original_title": "Sal\u00f3n M\u00e9xico", "slug_title": "salon-mexico", "date": "1996-02-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/89nulOLL4bGFMZ5HMUca5SCWHRb.jpg", "actors": [], "comments": [], "recommandations_id": []}

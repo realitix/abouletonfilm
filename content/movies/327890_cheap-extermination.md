@@ -1,0 +1,1 @@
+{"tmdb_id": 327890, "title": "Cheap Extermination", "original_title": "Cheap Extermination", "slug_title": "cheap-extermination", "date": "2012-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

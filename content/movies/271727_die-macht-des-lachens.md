@@ -1,0 +1,1 @@
+{"tmdb_id": 271727, "title": "Die Macht des Lachens", "original_title": "Die Macht des Lachens", "slug_title": "die-macht-des-lachens", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

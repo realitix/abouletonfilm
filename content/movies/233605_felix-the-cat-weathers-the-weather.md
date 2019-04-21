@@ -1,0 +1,1 @@
+{"tmdb_id": 233605, "title": "Felix the Cat Weathers the Weather", "original_title": "Felix the Cat Weathers the Weather", "slug_title": "felix-the-cat-weathers-the-weather", "date": "1926-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

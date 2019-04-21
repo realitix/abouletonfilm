@@ -1,0 +1,1 @@
+{"tmdb_id": 545443, "title": "Bible Black - La noche de Walpurgis", "original_title": "Bible Black - La noche de Walpurgis", "slug_title": "bible-black-la-noche-de-walpurgis", "date": "2001-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

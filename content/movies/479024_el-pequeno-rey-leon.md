@@ -1,0 +1,1 @@
+{"tmdb_id": 479024, "title": "El peque\u00f1o rey leon", "original_title": "El peque\u00f1o rey leon", "slug_title": "el-pequeno-rey-leon", "date": "2006-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

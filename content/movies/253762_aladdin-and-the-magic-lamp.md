@@ -1,0 +1,1 @@
+{"tmdb_id": 253762, "title": "Aladdin and the Magic Lamp", "original_title": "Aladdin and the Magic Lamp", "slug_title": "aladdin-and-the-magic-lamp", "date": "1936-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

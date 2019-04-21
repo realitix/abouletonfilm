@@ -1,0 +1,1 @@
+{"tmdb_id": 298761, "title": "Girls Under Glass - Focus", "original_title": "Girls Under Glass - Focus", "slug_title": "girls-under-glass-focus", "date": "2006-04-25", "genre": "Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/As4yQuhxxaWhWTfY0K1hXdHPEOm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 586575, "title": "Viacruxis", "original_title": "Viacruxis", "slug_title": "viacruxis", "date": "2018-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSL3UpawtNc5CRnD4X3HSRvpEmp.jpg", "actors": [], "comments": [], "recommandations_id": []}

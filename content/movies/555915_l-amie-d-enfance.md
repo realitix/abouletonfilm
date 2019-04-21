@@ -1,0 +1,1 @@
+{"tmdb_id": 555915, "title": "L'amie d'enfance", "original_title": "L'amie d'enfance", "slug_title": "l-amie-d-enfance", "date": "1922-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

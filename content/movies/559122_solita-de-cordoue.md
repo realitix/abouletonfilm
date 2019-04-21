@@ -1,0 +1,1 @@
+{"tmdb_id": 559122, "title": "Solita de Cordoue", "original_title": "Solita de Cordoue", "slug_title": "solita-de-cordoue", "date": "1946-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 409596, "title": "The Colors of Boulder in the Summer", "original_title": "The Colors of Boulder in the Summer", "slug_title": "the-colors-of-boulder-in-the-summer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

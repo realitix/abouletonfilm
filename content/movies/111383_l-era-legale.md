@@ -1,0 +1,1 @@
+{"tmdb_id": 111383, "title": "L'Era Legale", "original_title": "L'Era Legale", "slug_title": "l-era-legale", "date": "2011-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCFfXswA3Ni8eb0qCEgzqLm9MB6.jpg", "actors": [], "comments": [], "recommandations_id": []}

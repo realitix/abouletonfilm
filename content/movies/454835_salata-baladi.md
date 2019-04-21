@@ -1,0 +1,1 @@
+{"tmdb_id": 454835, "title": "Salata baladi", "original_title": "Salata baladi", "slug_title": "salata-baladi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

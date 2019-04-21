@@ -1,0 +1,1 @@
+{"tmdb_id": 501342, "title": "There's Something Wrong With The Cat", "original_title": "There's Something Wrong With The Cat", "slug_title": "there-s-something-wrong-with-the-cat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

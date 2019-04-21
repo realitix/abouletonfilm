@@ -1,0 +1,1 @@
+{"tmdb_id": 443939, "title": "Commodity City", "original_title": "Commodity City", "slug_title": "commodity-city", "date": "2017-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eW545VjQS862awj0SJH4VXhRuWc.jpg", "actors": [], "comments": [], "recommandations_id": []}

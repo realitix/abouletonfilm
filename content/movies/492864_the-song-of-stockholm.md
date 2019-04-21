@@ -1,0 +1,1 @@
+{"tmdb_id": 492864, "title": "The Song of Stockholm", "original_title": "The Song of Stockholm", "slug_title": "the-song-of-stockholm", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGpFTJAcExuzveYSTPZlptg0Rc6.jpg", "actors": [], "comments": [], "recommandations_id": []}

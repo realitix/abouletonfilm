@@ -1,0 +1,1 @@
+{"tmdb_id": 236441, "title": "Puttin on the Act", "original_title": "Puttin on the Act", "slug_title": "puttin-on-the-act", "date": "1940-08-29", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9U8NF3L2Z6KzngaBa1hulT9BzA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

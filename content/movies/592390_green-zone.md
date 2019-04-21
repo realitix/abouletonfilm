@@ -1,0 +1,1 @@
+{"tmdb_id": 592390, "title": "Green Zone", "original_title": "Ye\u015fil B\u00f6lge", "slug_title": "green-zone", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYMdD05y4I2UhMn4P8hGoOsp3Mv.jpg", "actors": [], "comments": [], "recommandations_id": []}

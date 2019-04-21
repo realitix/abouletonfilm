@@ -1,0 +1,1 @@
+{"tmdb_id": 277446, "title": "The Six Directions of Boxing", "original_title": "The Six Directions of Boxing", "slug_title": "the-six-directions-of-boxing", "date": "1981-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

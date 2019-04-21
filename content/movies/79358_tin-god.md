@@ -1,0 +1,1 @@
+{"tmdb_id": 79358, "title": "Tin God", "original_title": "Tin God", "slug_title": "tin-god", "date": "2012-10-23", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNx7txdrJfBVpWMKXRdowHujwqz.jpg", "actors": [], "comments": [], "recommandations_id": []}

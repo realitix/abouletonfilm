@@ -1,0 +1,1 @@
+{"tmdb_id": 294423, "title": "Pearl Pistols", "original_title": "Pearl Pistols", "slug_title": "pearl-pistols", "date": "2014-09-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eygAmuWWpd7KioNpNe7vnZPtvc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 340699, "title": "Paty chula (Short)", "original_title": "Paty chula (Short)", "slug_title": "paty-chula-short", "date": "1991-05-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sDDd70XxpzZkBSDy9Tr7kiWa3Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 502639, "title": "Tubar\u00e3o", "original_title": "Tubar\u00e3o", "slug_title": "tubarao", "date": "2013-05-12", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mo8kGc1XSAhdzlqf226gONxuRd.jpg", "actors": [], "comments": [], "recommandations_id": []}

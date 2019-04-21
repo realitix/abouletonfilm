@@ -1,0 +1,1 @@
+{"tmdb_id": 405484, "title": "Robert Mapplethorpe", "original_title": "Robert Mapplethorpe", "slug_title": "robert-mapplethorpe", "date": "1988-03-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDyHor8psnFNNPg1pPM8cMeWbdQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381981, "title": "X\u00e9nog\u00e9n\u00e8se", "original_title": "X\u00e9nog\u00e9n\u00e8se", "slug_title": "xenogenese", "date": "1981-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjODQlKAtxwPm0DaTGZHCsVHsVo.jpg", "actors": [], "comments": [], "recommandations_id": []}

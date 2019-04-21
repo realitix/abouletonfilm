@@ -1,0 +1,1 @@
+{"tmdb_id": 554215, "title": "A Closet", "original_title": "Komero", "slug_title": "a-closet", "date": "2012-11-16", "genre": "Myst\u00e8re / Drame", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matti Onnismaa ()", "Olli Rahkonen (Pekka Tiihonen)", "Rami Rusinen ()"], "comments": [], "recommandations_id": [554213, 139553, 400401, 89670]}

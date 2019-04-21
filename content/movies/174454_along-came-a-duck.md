@@ -1,0 +1,1 @@
+{"tmdb_id": 174454, "title": "Along Came a Duck", "original_title": "Along Came a Duck", "slug_title": "along-came-a-duck", "date": "1934-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

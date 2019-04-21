@@ -1,0 +1,1 @@
+{"tmdb_id": 360857, "title": "Telugabbai", "original_title": "Telugabbai", "slug_title": "telugabbai", "date": "2012-03-09", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tanish Alladi (Arun)", "Tashu Kaushik (Megha)", "Remya Nambeesan (Chandamama)", "Sona Nair ()", "Nagababu ()"], "comments": [], "recommandations_id": []}

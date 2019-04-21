@@ -1,0 +1,1 @@
+{"tmdb_id": 507364, "title": "HAZE: It's Complicated", "original_title": "HAZE: It's Complicated", "slug_title": "haze-it-s-complicated", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfdzdu7hGO1BNcSiLzsEeaPqCyf.jpg", "actors": [], "comments": [], "recommandations_id": []}

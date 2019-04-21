@@ -1,0 +1,1 @@
+{"tmdb_id": 396507, "title": "A Sand\u00e1lia de Lampi\u00e3o", "original_title": "A Sand\u00e1lia de Lampi\u00e3o", "slug_title": "a-sandalia-de-lampiao", "date": "2014-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGUNnCEs8keNTPXvlSue6a0d2cR.jpg", "actors": [], "comments": [], "recommandations_id": []}

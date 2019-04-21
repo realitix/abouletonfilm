@@ -1,0 +1,1 @@
+{"tmdb_id": 320252, "title": "McCabe Hotel - Paranormal Investigation", "original_title": "McCabe Hotel - Paranormal Investigation", "slug_title": "mccabe-hotel-paranormal-investigation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

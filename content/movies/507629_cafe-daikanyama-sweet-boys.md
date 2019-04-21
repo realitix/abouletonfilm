@@ -1,0 +1,1 @@
+{"tmdb_id": 507629, "title": "Cafe Daikanyama: Sweet Boys", "original_title": "Kafe Daikanyama: Suw\u00eeto b\u00f4izu", "slug_title": "cafe-daikanyama-sweet-boys", "date": "2008-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5XBkD54EVM9pb8e8MhsFy4p0ae.jpg", "actors": [], "comments": [], "recommandations_id": []}

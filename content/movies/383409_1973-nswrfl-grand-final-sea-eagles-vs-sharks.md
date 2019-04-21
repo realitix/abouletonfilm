@@ -1,0 +1,1 @@
+{"tmdb_id": 383409, "title": "1973 NSWRFL Grand Final: Sea Eagles vs Sharks", "original_title": "1973 NSWRFL Grand Final: Sea Eagles vs Sharks", "slug_title": "1973-nswrfl-grand-final-sea-eagles-vs-sharks", "date": "1973-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

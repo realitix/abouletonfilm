@@ -1,0 +1,1 @@
+{"tmdb_id": 510241, "title": "Ogo Bodhu Shundori", "original_title": "Ogo Bodhu Shundori", "slug_title": "ogo-bodhu-shundori", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csmCBGyK6D1VdYE0Z3vfUf4nvOJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

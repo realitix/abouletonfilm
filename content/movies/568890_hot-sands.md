@@ -1,0 +1,1 @@
+{"tmdb_id": 568890, "title": "Hot Sands", "original_title": "Hot Sands", "slug_title": "hot-sands", "date": "1931-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2NRiBSNi15onn5B6l21tFgCMOZ.jpg", "actors": ["Billy Wayne ()", "Thelma White ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487346, "title": "Aftermath", "original_title": "Aftermath", "slug_title": "aftermath", "date": "2013-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tristan Shire (James)", "Nick Wolfhard (Young James)", "Finn Wolfhard (Young Charles)"], "comments": [], "recommandations_id": []}

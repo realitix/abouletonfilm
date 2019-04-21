@@ -1,0 +1,1 @@
+{"tmdb_id": 291036, "title": "Trzy serca", "original_title": "Trzy serca", "slug_title": "trzy-serca", "date": "1939-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

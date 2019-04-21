@@ -1,0 +1,1 @@
+{"tmdb_id": 458541, "title": "Distorted \"Tele\" Vision", "original_title": "Distorted \"Tele\" Vision", "slug_title": "distorted-tele-vision", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310337, "title": "Verdi: Quattro Pezzi Sacri", "original_title": "Verdi: Quattro Pezzi Sacri", "slug_title": "verdi-quattro-pezzi-sacri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477885, "title": "An Up-To-Date Squaw", "original_title": "An Up-To-Date Squaw", "slug_title": "an-up-to-date-squaw", "date": "1911-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

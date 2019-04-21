@@ -1,0 +1,1 @@
+{"tmdb_id": 325935, "title": "Kung Pow Charlie", "original_title": "Kung Pow Charlie", "slug_title": "kung-pow-charlie", "date": "2014-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

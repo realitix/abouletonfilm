@@ -1,0 +1,1 @@
+{"tmdb_id": 475545, "title": "Quando Marcio Virou Estrela", "original_title": "Quando Marcio Virou Estrela", "slug_title": "quando-marcio-virou-estrela", "date": "2017-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

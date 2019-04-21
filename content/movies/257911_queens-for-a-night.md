@@ -1,0 +1,1 @@
+{"tmdb_id": 257911, "title": "Queens for a Night", "original_title": "Queens for a Night", "slug_title": "queens-for-a-night", "date": "2000-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99kfZwU3uE5ZA3TMXeuVQEah2Kd.jpg", "actors": ["Billie Boots (self)"], "comments": [], "recommandations_id": []}

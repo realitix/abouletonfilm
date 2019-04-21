@@ -1,0 +1,1 @@
+{"tmdb_id": 365499, "title": "Days of Wine and Roses", "original_title": "Days of Wine and Roses", "slug_title": "days-of-wine-and-roses", "date": "1958-10-02", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

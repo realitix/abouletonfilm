@@ -1,0 +1,1 @@
+{"tmdb_id": 477957, "title": "G\u00f3wnojady", "original_title": "G\u00f3wnojady", "slug_title": "gownojady", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

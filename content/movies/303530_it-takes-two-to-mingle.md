@@ -1,0 +1,1 @@
+{"tmdb_id": 303530, "title": "It Takes Two to Mingle", "original_title": "\u6469\u767b\u896f\u5bb6", "slug_title": "it-takes-two-to-mingle", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ys8YQwNYYTQOMbGdybZlmgTw0jE.jpg", "actors": ["Danny Lee Sau-Yin ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323322, "title": "Lutteurs japonais", "original_title": "Lutteurs japonais", "slug_title": "lutteurs-japonais", "date": "1898-02-20", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

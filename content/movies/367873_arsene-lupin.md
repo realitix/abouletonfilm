@@ -1,0 +1,1 @@
+{"tmdb_id": 367873, "title": "Ars\u00e9ne Lupin", "original_title": "Ars\u00e9ne Lupin", "slug_title": "arsene-lupin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

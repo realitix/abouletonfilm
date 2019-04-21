@@ -1,0 +1,1 @@
+{"tmdb_id": 572306, "title": "Bios: Vidas que marcaron la tuya Gustavo Cerati", "original_title": "Bios: Vidas que marcaron la tuya Gustavo Cerati", "slug_title": "bios-vidas-que-marcaron-la-tuya-gustavo-cerati", "date": "2018-11-25", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

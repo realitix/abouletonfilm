@@ -1,0 +1,1 @@
+{"tmdb_id": 449508, "title": "Taste of Cement", "original_title": "Taste of Cement", "slug_title": "taste-of-cement", "date": "2017-04-23", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rcK75KWx5HWrWNd6hASr8LCsXz.jpg", "actors": [], "comments": [], "recommandations_id": []}

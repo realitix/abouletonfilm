@@ -1,0 +1,1 @@
+{"tmdb_id": 539594, "title": "Happy Days", "original_title": "Les beaux jours", "slug_title": "happy-days", "date": "1935-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

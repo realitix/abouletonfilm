@@ -1,0 +1,1 @@
+{"tmdb_id": 349484, "title": "\uacc4\uc57d\ucee4\ud50c", "original_title": "\uacc4\uc57d\ucee4\ud50c", "slug_title": "gyeyagkeopeul", "date": "1994-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

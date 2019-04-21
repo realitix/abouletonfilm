@@ -1,0 +1,1 @@
+{"tmdb_id": 317562, "title": "Deep Roots Music 2: Bunny Lee Story / Black Ark", "original_title": "Deep Roots Music 2: Bunny Lee Story / Black Ark", "slug_title": "deep-roots-music-2-bunny-lee-story-black-ark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

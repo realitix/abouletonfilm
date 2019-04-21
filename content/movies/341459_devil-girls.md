@@ -1,0 +1,1 @@
+{"tmdb_id": 341459, "title": "Devil Girls", "original_title": "Devil Girls", "slug_title": "devil-girls", "date": "1987-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

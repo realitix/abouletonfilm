@@ -1,0 +1,1 @@
+{"tmdb_id": 351511, "title": "Shipyard Symphony", "original_title": "Shipyard Symphony", "slug_title": "shipyard-symphony", "date": "1943-03-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

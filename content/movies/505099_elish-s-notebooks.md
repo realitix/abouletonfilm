@@ -1,0 +1,1 @@
+{"tmdb_id": 505099, "title": "Elish's Notebooks", "original_title": "Elish's Notebooks", "slug_title": "elish-s-notebooks", "date": "2017-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bFw4P0DsoDzHHf9bi4RasfidplO.jpg", "actors": [], "comments": [], "recommandations_id": []}

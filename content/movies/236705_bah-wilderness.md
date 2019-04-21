@@ -1,0 +1,1 @@
+{"tmdb_id": 236705, "title": "Bah Wilderness", "original_title": "Bah Wilderness", "slug_title": "bah-wilderness", "date": "1943-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hVa24v4fdnmNiEV4nLZH1h4Jwv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

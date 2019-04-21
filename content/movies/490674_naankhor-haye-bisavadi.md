@@ -1,0 +1,1 @@
+{"tmdb_id": 490674, "title": "Naankhor-haye bisavadi", "original_title": "Naankhor-haye bisavadi", "slug_title": "naankhor-haye-bisavadi", "date": "1970-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvHBJpvcokqTHyZQR07RAaqTjwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458834, "title": "Nad wielka woda", "original_title": "Nad wielka woda", "slug_title": "nad-wielka-woda", "date": "1962-07-16", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bogumi\u0142 Kobiela ()", "Jakub Wr\u00f3blewski ()"], "comments": [], "recommandations_id": []}

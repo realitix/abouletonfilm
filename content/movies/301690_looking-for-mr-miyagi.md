@@ -1,0 +1,1 @@
+{"tmdb_id": 301690, "title": "Looking for Mr. Miyagi", "original_title": "Looking for Mr. Miyagi", "slug_title": "looking-for-mr-miyagi", "date": "2014-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z27wwsup2AOXqPNeMQ51rNc4GUL.jpg", "actors": [], "comments": [], "recommandations_id": []}

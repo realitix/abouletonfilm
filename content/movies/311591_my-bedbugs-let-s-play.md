@@ -1,0 +1,1 @@
+{"tmdb_id": 311591, "title": "My Bedbugs: Let's Play", "original_title": "My Bedbugs: Let's Play", "slug_title": "my-bedbugs-let-s-play", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

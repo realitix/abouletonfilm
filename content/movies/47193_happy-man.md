@@ -1,0 +1,1 @@
+{"tmdb_id": 47193, "title": "Happy Man", "original_title": "Szczesliwy czlowiek", "slug_title": "happy-man", "date": "2000-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7YUgKcR3VsCetKc6kfgSQHDC8n.jpg", "actors": [], "comments": [], "recommandations_id": []}

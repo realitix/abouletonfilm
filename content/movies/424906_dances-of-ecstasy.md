@@ -1,0 +1,1 @@
+{"tmdb_id": 424906, "title": "Dances of Ecstasy", "original_title": "Dances of Ecstasy", "slug_title": "dances-of-ecstasy", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

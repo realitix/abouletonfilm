@@ -1,0 +1,1 @@
+{"tmdb_id": 452594, "title": "Mohawk Girls", "original_title": "Mohawk Girls", "slug_title": "mohawk-girls", "date": "2005-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvQTRja41NBAGDmlmLQId7mw7EJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 431668, "title": "Chemin d'humanit\u00e9", "original_title": "Chemin d'humanit\u00e9", "slug_title": "chemin-d-humanite", "date": "1997-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Z4U7zC5b35N9EtB9lrJv2bpDEM.jpg", "actors": [], "comments": [], "recommandations_id": []}

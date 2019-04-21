@@ -1,0 +1,1 @@
+{"tmdb_id": 530796, "title": "Document Z-3", "original_title": "Document Z-3", "slug_title": "document-z-3", "date": "1943-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isa Miranda (Sandra Morini)", "Claudio Gora (Paolo Sullich)"], "comments": [], "recommandations_id": []}

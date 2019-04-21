@@ -1,0 +1,1 @@
+{"tmdb_id": 563325, "title": "Maroon 5: Rock in Rio 2017", "original_title": "Maroon 5: Rock in Rio 2017", "slug_title": "maroon-5-rock-in-rio-2017", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kwz2n3pPYFK29KCQVHoeEqTFhWS.jpg", "actors": [], "comments": [], "recommandations_id": []}

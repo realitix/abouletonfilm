@@ -1,0 +1,1 @@
+{"tmdb_id": 490994, "title": "Trouble In-Laws", "original_title": "Trouble In-Laws", "slug_title": "trouble-in-laws", "date": "1951-10-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh Herbert)"], "comments": [], "recommandations_id": []}

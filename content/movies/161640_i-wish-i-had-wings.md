@@ -1,0 +1,1 @@
+{"tmdb_id": 161640, "title": "I Wish I Had Wings", "original_title": "I Wish I Had Wings", "slug_title": "i-wish-i-had-wings", "date": "1932-10-15", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4CzcWRdgWisloNJ6qHKD6RCtomQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

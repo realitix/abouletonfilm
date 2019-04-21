@@ -1,0 +1,1 @@
+{"tmdb_id": 236245, "title": "The Tempermental Lion", "original_title": "The Tempermental Lion", "slug_title": "the-tempermental-lion", "date": "1939-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

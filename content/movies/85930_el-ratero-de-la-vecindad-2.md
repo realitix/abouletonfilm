@@ -1,0 +1,1 @@
+{"tmdb_id": 85930, "title": "El Ratero de La Vecindad 2", "original_title": "El Ratero de La Vecindad 2", "slug_title": "el-ratero-de-la-vecindad-2", "date": "1985-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u52TDj9x3PFpeaLwWWHqq7do3bk.jpg", "actors": [], "comments": [], "recommandations_id": []}

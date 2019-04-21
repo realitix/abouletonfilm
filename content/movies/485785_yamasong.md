@@ -1,0 +1,1 @@
+{"tmdb_id": 485785, "title": "Yamasong", "original_title": "Yamasong", "slug_title": "yamasong", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Langley (Flying Fish)", "Ratna Pappert (Running Bird)", "Mark Bryan Wilson (Nani)", "Victor Yerrid (Shojun)"], "comments": [], "recommandations_id": []}

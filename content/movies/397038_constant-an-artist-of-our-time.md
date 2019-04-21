@@ -1,0 +1,1 @@
+{"tmdb_id": 397038, "title": "Constant, an Artist of Our Time", "original_title": "Constant, an Artist of Our Time", "slug_title": "constant-an-artist-of-our-time", "date": "1965-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345030, "title": "Ottar Gladtvet - en norsk filmpioner", "original_title": "Ottar Gladtvet - en norsk filmpioner", "slug_title": "ottar-gladtvet-en-norsk-filmpioner", "date": "1996-06-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

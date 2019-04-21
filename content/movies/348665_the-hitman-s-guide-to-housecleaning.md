@@ -1,0 +1,1 @@
+{"tmdb_id": 348665, "title": "The Hitman's Guide to Housecleaning", "original_title": "The Hitman's Guide to Housecleaning", "slug_title": "the-hitman-s-guide-to-housecleaning", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

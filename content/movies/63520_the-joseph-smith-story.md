@@ -1,0 +1,1 @@
+{"tmdb_id": 63520, "title": "The Joseph Smith Story", "original_title": "The Joseph Smith Story", "slug_title": "the-joseph-smith-story", "date": "1988-01-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nPx6g8ssMsmV50RtDvxJKs4NDkJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

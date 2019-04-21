@@ -1,0 +1,1 @@
+{"tmdb_id": 587874, "title": "Basic Typing, Part I: Methods", "original_title": "Basic Typing, Part I: Methods", "slug_title": "basic-typing-part-i-methods", "date": "1944-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

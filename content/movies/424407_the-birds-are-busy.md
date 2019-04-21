@@ -1,0 +1,1 @@
+{"tmdb_id": 424407, "title": "The Birds are Busy", "original_title": "Os P\u00e1ssaros est\u00e3o distra\u00eddos", "slug_title": "the-birds-are-busy", "date": "2016-06-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDt396wEmSiYUQ2juUOnfJxVmAw.jpg", "actors": [], "comments": [], "recommandations_id": []}

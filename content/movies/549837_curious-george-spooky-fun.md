@@ -1,0 +1,1 @@
+{"tmdb_id": 549837, "title": "Curious George: Spooky Fun", "original_title": "Curious George: Spooky Fun", "slug_title": "curious-george-spooky-fun", "date": "2017-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/riBGqn27I0z9LNxqd45I0iuvM7w.jpg", "actors": [], "comments": [], "recommandations_id": []}

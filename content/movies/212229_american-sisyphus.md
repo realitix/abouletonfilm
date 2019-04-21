@@ -1,0 +1,1 @@
+{"tmdb_id": 212229, "title": "American Sisyphus", "original_title": "American Sisyphus", "slug_title": "american-sisyphus", "date": "2012-09-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aleksandra Myrna ()"], "comments": [], "recommandations_id": []}

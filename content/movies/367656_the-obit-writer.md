@@ -1,0 +1,1 @@
+{"tmdb_id": 367656, "title": "The Obit Writer", "original_title": "The Obit Writer", "slug_title": "the-obit-writer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

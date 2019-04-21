@@ -1,0 +1,1 @@
+{"tmdb_id": 300736, "title": "Bhakta Prahlada", "original_title": "Bhakta Prahlada", "slug_title": "bhakta-prahlada", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

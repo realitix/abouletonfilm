@@ -1,0 +1,1 @@
+{"tmdb_id": 534174, "title": "Cinema Marginal", "original_title": "Cinema Marginal", "slug_title": "cinema-marginal", "date": "2006-06-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrWJW6HBp6YYjudxRApbsr1JwGK.jpg", "actors": [], "comments": [], "recommandations_id": []}

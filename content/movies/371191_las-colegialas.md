@@ -1,0 +1,1 @@
+{"tmdb_id": 371191, "title": "Las colegialas", "original_title": "Las colegialas", "slug_title": "las-colegialas", "date": "1946-06-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00eda Elena Marqu\u00e9s ()", "Sara Guasch ()", "Gustavo Rojo ()", "Marga L\u00f3pez ()"], "comments": [], "recommandations_id": []}

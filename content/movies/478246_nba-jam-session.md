@@ -1,0 +1,1 @@
+{"tmdb_id": 478246, "title": "NBA Jam Session", "original_title": "NBA Jam Session", "slug_title": "nba-jam-session", "date": "1993-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cA1g7IA8vMz1cpyBBy6ll1pIFsu.jpg", "actors": [], "comments": [], "recommandations_id": []}

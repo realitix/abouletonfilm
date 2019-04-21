@@ -1,0 +1,1 @@
+{"tmdb_id": 323805, "title": "The Jazz Channel: Jeffrey Osborne", "original_title": "The Jazz Channel: Jeffrey Osborne", "slug_title": "the-jazz-channel-jeffrey-osborne", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

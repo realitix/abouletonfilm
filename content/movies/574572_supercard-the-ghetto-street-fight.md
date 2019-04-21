@@ -1,0 +1,1 @@
+{"tmdb_id": 574572, "title": "Supercard: The Ghetto Street Fight", "original_title": "Supercard: The Ghetto Street Fight", "slug_title": "supercard-the-ghetto-street-fight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Bruce Reed (Himself)"], "comments": [], "recommandations_id": []}

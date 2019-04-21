@@ -1,0 +1,1 @@
+{"tmdb_id": 466425, "title": "All You Can Eat", "original_title": "All You Can Eat", "slug_title": "all-you-can-eat", "date": "1993-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJhnVqZ3DajDQZ4lTl6k0gLBAhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

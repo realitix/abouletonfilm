@@ -1,0 +1,1 @@
+{"tmdb_id": 506379, "title": "Hikikomori", "original_title": "Hikikomori", "slug_title": "hikikomori", "date": "2017-06-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJKwX3xAHnl58tksEBrOxHQPC5r.jpg", "actors": ["Leroy Grant ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 542036, "title": "Evolution of Evil", "original_title": "Evolution of Evil", "slug_title": "evolution-of-evil", "date": "2018-08-07", "genre": "Thriller", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oA7oJnKZSTGuehsWFQcOjG2OzfZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 501236, "title": "The Goodiepal Equation", "original_title": "The Goodiepal Equation", "slug_title": "the-goodiepal-equation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JMPVc6Ttsd9eSTqQLMdLBHzQDG.jpg", "actors": [], "comments": [], "recommandations_id": []}

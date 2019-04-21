@@ -1,0 +1,1 @@
+{"tmdb_id": 333380, "title": "The Bends", "original_title": "The Bends", "slug_title": "the-bends", "date": "", "genre": "Thriller / Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

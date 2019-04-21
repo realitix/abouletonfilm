@@ -1,0 +1,1 @@
+{"tmdb_id": 539591, "title": "Ghost Boyfriend", "original_title": "\u7075\u754c\u57fa\u53cb", "slug_title": "ghost-boyfriend", "date": "2016-07-19", "genre": "Fantastique / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9D97RjisupPBSeCceZwKrbGl189.jpg", "actors": [], "comments": [], "recommandations_id": []}

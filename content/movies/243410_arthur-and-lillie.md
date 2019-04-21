@@ -1,0 +1,1 @@
+{"tmdb_id": 243410, "title": "Arthur and Lillie", "original_title": "Arthur and Lillie", "slug_title": "arthur-and-lillie", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRTQ7MjgrU7FdqGwj6SdQwR3gVF.jpg", "actors": [], "comments": [], "recommandations_id": []}

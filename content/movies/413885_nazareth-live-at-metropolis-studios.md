@@ -1,0 +1,1 @@
+{"tmdb_id": 413885, "title": "Nazareth.Live.at.Metropolis.Studios", "original_title": "Nazareth.Live.at.Metropolis.Studios", "slug_title": "nazareth-live-at-metropolis-studios", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

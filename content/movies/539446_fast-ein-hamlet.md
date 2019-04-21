@@ -1,0 +1,1 @@
+{"tmdb_id": 539446, "title": "Fast ein Hamlet", "original_title": "Fast ein Hamlet", "slug_title": "fast-ein-hamlet", "date": "1970-01-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudolf R\u00f6sner (Gesch\u00e4ftsmann Hansjoachim Paff)", "Klaus Maria Brandauer (Hamlet)"], "comments": [], "recommandations_id": []}

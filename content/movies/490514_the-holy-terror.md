@@ -1,0 +1,1 @@
+{"tmdb_id": 490514, "title": "The Holy Terror", "original_title": "The Holy Terror", "slug_title": "the-holy-terror", "date": "1937-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwZ9nJLEjcbEJcNn3YllQC3hLv.jpg", "actors": [], "comments": [], "recommandations_id": []}

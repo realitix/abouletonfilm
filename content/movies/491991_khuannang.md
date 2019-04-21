@@ -1,0 +1,1 @@
+{"tmdb_id": 491991, "title": "Khuannang", "original_title": "\u0e82\u0ea7\u0eb1\u0e99\u0e99\u0eb2\u0e87", "slug_title": "khuannang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

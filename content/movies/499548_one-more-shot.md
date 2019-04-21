@@ -1,0 +1,1 @@
+{"tmdb_id": 499548, "title": "One More Shot", "original_title": "One More Shot", "slug_title": "one-more-shot", "date": "2018-01-15", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3qDCwHXfa6zSbuyJ5gVrzsMLjX.jpg", "actors": [], "comments": [], "recommandations_id": []}

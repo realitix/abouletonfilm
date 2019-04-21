@@ -1,0 +1,1 @@
+{"tmdb_id": 562434, "title": "Mourir d'amour", "original_title": "Mourir d'amour", "slug_title": "mourir-d-amour", "date": "1961-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQXvqDoSTyGYLIAI87M3fTJDvrw.jpg", "actors": [], "comments": [], "recommandations_id": []}

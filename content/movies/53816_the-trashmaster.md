@@ -1,0 +1,1 @@
+{"tmdb_id": 53816, "title": "The Trashmaster", "original_title": "The Trashmaster", "slug_title": "the-trashmaster", "date": "2010-12-01", "genre": "Crime / Animation", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prl1Wv73YBEnw2V3ysz94KUsxJE.jpg", "actors": ["Matt Challands (Niko)"], "comments": [], "recommandations_id": []}

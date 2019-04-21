@@ -1,0 +1,1 @@
+{"tmdb_id": 116819, "title": "Goof On The Roof", "original_title": "Goof On The Roof", "slug_title": "goof-on-the-roof", "date": "1953-12-03", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shemp Howard (Shemp)", "Frank Mitchell (Bill)", "Moe Howard (Moe)", "Larry Fine (Larry)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579114, "title": "Jazz in the Diamond District", "original_title": "Jazz in the Diamond District", "slug_title": "jazz-in-the-diamond-district", "date": "2009-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQoo5Cnw0BHg1ie8MZVBaYH94bw.jpg", "actors": [], "comments": [], "recommandations_id": []}

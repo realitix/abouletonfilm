@@ -1,0 +1,1 @@
+{"tmdb_id": 91599, "title": "The Beauty Academy of Kabul", "original_title": "The Beauty Academy of Kabul", "slug_title": "the-beauty-academy-of-kabul", "date": "2004-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exhtGmDvVLf7rxeIKyhlRhdnIpv.jpg", "actors": [], "comments": [], "recommandations_id": []}

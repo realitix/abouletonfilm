@@ -1,0 +1,1 @@
+{"tmdb_id": 419661, "title": "On Hitler's Highway", "original_title": "On Hitler's Highway", "slug_title": "on-hitler-s-highway", "date": "2002-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yE60at56AukmFuDs0T9X8AqrBaV.jpg", "actors": [], "comments": [], "recommandations_id": []}

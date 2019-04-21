@@ -1,0 +1,1 @@
+{"tmdb_id": 329698, "title": "I Walk in the Sun", "original_title": "Ide do slonca", "slug_title": "i-walk-in-the-sun", "date": "1955-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13VVUG5MHnmeLV7AhMB9WHsR4MG.jpg", "actors": ["Xawery Dunikowski (Himself)"], "comments": [], "recommandations_id": []}

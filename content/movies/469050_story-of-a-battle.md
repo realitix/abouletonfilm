@@ -1,0 +1,1 @@
+{"tmdb_id": 469050, "title": "Story of a Battle", "original_title": "Historia de una batalla", "slug_title": "story-of-a-battle", "date": "1962-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

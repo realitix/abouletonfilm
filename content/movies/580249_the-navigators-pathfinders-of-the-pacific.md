@@ -1,0 +1,1 @@
+{"tmdb_id": 580249, "title": "The Navigators: Pathfinders of the Pacific", "original_title": "The Navigators: Pathfinders of the Pacific", "slug_title": "the-navigators-pathfinders-of-the-pacific", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

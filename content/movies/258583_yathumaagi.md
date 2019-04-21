@@ -1,0 +1,1 @@
+{"tmdb_id": 258583, "title": "Yathumaagi", "original_title": "Yathumaagi", "slug_title": "yathumaagi", "date": "2010-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojdd1cKdE3XVZT0qDVNdC4BDwHZ.jpg", "actors": ["Sachin (Anand)", "Sunaina (Annalakshmi)", "Riyaz Khan ()"], "comments": [], "recommandations_id": []}

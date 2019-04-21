@@ -1,0 +1,1 @@
+{"tmdb_id": 200990, "title": "The Hardly Boys in Hardly Gold", "original_title": "The Hardly Boys in Hardly Gold", "slug_title": "the-hardly-boys-in-hardly-gold", "date": "1995-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4heeDLzqecQUDjmaoAxGvIFygXP.jpg", "actors": [], "comments": [], "recommandations_id": []}

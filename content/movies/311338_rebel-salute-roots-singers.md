@@ -1,0 +1,1 @@
+{"tmdb_id": 311338, "title": "Rebel Salute: Roots Singers", "original_title": "Rebel Salute: Roots Singers", "slug_title": "rebel-salute-roots-singers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 365971, "title": "Mighty Lak a Goat", "original_title": "Mighty Lak a Goat", "slug_title": "mighty-lak-a-goat", "date": "1942-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4euxd9ErqpBGKdTg6fskCL4G0gL.jpg", "actors": [], "comments": [], "recommandations_id": []}

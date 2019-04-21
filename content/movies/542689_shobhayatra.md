@@ -1,0 +1,1 @@
+{"tmdb_id": 542689, "title": "Shobhayatra", "original_title": "Shobhayatra", "slug_title": "shobhayatra", "date": "2018-01-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Saini ()", "Ganesh Yadav ()"], "comments": [], "recommandations_id": []}

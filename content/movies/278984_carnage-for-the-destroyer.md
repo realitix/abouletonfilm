@@ -1,0 +1,1 @@
+{"tmdb_id": 278984, "title": "Carnage for the Destroyer", "original_title": "Carnage for the Destroyer", "slug_title": "carnage-for-the-destroyer", "date": "2006-03-03", "genre": "Horreur", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIIRvCTFqWRnXQ0d2pHmbDZjHVj.jpg", "actors": [], "comments": [], "recommandations_id": []}

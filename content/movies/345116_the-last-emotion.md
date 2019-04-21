@@ -1,0 +1,1 @@
+{"tmdb_id": 345116, "title": "The Last Emotion", "original_title": "L'Ultima Emozione", "slug_title": "the-last-emotion", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

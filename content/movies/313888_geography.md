@@ -1,0 +1,1 @@
+{"tmdb_id": 313888, "title": "Geography", "original_title": "Geografija", "slug_title": "geography", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330663, "title": "The Dress", "original_title": "Ha-Simla", "slug_title": "the-dress", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Assi Dayan ()", "Liora Rivlin ()", "Motti Barkan ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 439595, "title": "Firefly", "original_title": "Firefly", "slug_title": "firefly", "date": "2013-11-14", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tp0gXHlvEeBjckg79Sl7fpJxjSe.jpg", "actors": [], "comments": [], "recommandations_id": []}

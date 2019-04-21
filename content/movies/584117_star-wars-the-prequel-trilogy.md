@@ -1,0 +1,1 @@
+{"tmdb_id": 584117, "title": "Star Wars: The Prequel Trilogy", "original_title": "Star Wars: The Prequel Trilogy", "slug_title": "star-wars-the-prequel-trilogy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJzoOqE57TRno2vubuMuSsceu5c.jpg", "actors": [], "comments": [], "recommandations_id": []}

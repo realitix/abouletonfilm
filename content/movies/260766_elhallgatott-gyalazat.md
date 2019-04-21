@@ -1,0 +1,1 @@
+{"tmdb_id": 260766, "title": "Elhallgatott gyal\u00e1zat", "original_title": "Elhallgatott gyal\u00e1zat", "slug_title": "elhallgatott-gyalazat", "date": "2013-10-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f99M7yMkP1fDX6dQkTa6gPrO5m2.jpg", "actors": [], "comments": [], "recommandations_id": []}

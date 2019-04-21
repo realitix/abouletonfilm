@@ -1,0 +1,1 @@
+{"tmdb_id": 194579, "title": "Voitures automobiles", "original_title": "Voitures automobiles", "slug_title": "voitures-automobiles", "date": "1896-06-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

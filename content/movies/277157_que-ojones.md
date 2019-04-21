@@ -1,0 +1,1 @@
+{"tmdb_id": 277157, "title": "\u00a1Qu\u00e9 OjOnes!", "original_title": "\u00a1Qu\u00e9 OjOnes!", "slug_title": "que-ojones", "date": "2014-06-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qJHjl8ZiCTcXOrLKyi1Tinsmv8.jpg", "actors": ["Luis Ra\u00fal (Himself)"], "comments": [], "recommandations_id": []}

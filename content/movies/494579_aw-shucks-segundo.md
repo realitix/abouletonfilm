@@ -1,0 +1,1 @@
+{"tmdb_id": 494579, "title": "Aw Shucks, Segundo!", "original_title": "Aw Shucks, Segundo!", "slug_title": "aw-shucks-segundo", "date": "2015-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

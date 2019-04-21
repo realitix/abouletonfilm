@@ -1,0 +1,1 @@
+{"tmdb_id": 388871, "title": "For the Kingdom", "original_title": "Mikuni no Tame Ni", "slug_title": "for-the-kingdom", "date": "1928-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pdredYt2TcVkJfNsaBopJMMNus.jpg", "actors": [], "comments": [], "recommandations_id": []}

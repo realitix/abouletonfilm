@@ -1,0 +1,1 @@
+{"tmdb_id": 349658, "title": "\uc783\uc5b4\ubc84\ub9b0 \uc695\ub9dd", "original_title": "\uc783\uc5b4\ubc84\ub9b0 \uc695\ub9dd", "slug_title": "ilheobeorin-yogmang", "date": "1994-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

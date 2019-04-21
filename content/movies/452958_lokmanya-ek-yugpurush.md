@@ -1,0 +1,1 @@
+{"tmdb_id": 452958, "title": "Lokmanya - Ek Yugpurush", "original_title": "Lokmanya - Ek Yugpurush", "slug_title": "lokmanya-ek-yugpurush", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsXEAbDNEg7GaZd4gyIkM2zYWr9.jpg", "actors": ["Subodh Bhave (Lokmanya Tilak)"], "comments": [], "recommandations_id": []}

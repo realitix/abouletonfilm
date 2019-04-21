@@ -1,0 +1,1 @@
+{"tmdb_id": 154080, "title": "The Exhibited", "original_title": "De Udstillede", "slug_title": "the-exhibited", "date": "2000-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4nrvMDNymGIZK1v2USOuWbAdZI.jpg", "actors": ["Lars von Trier ()"], "comments": [], "recommandations_id": []}

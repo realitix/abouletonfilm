@@ -1,0 +1,1 @@
+{"tmdb_id": 109529, "title": "Left by the Ship", "original_title": "Left by the Ship", "slug_title": "left-by-the-ship", "date": "2011-05-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

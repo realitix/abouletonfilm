@@ -1,0 +1,1 @@
+{"tmdb_id": 524009, "title": "The Wicked Dolls", "original_title": "The Wicked Dolls", "slug_title": "the-wicked-dolls", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6237xk3ioJ8uDiukf7Jk1l5qfZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

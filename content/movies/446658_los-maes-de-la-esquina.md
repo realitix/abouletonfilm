@@ -1,0 +1,1 @@
+{"tmdb_id": 446658, "title": "Los maes de la esquina", "original_title": "Los maes de la esquina", "slug_title": "los-maes-de-la-esquina", "date": "2014-12-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrHZzTTzmW3mZFgMMKIMT3o2tdB.jpg", "actors": [], "comments": [], "recommandations_id": []}

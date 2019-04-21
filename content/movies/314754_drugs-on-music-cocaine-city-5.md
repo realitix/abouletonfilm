@@ -1,0 +1,1 @@
+{"tmdb_id": 314754, "title": "Drugs on Music: Cocaine City 5", "original_title": "Drugs on Music: Cocaine City 5", "slug_title": "drugs-on-music-cocaine-city-5", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313212, "title": "The Sparky Chronicles: The Map", "original_title": "The Sparky Chronicles: The Map", "slug_title": "the-sparky-chronicles-the-map", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300303, "title": "Ruby's Studio: The Safety Show", "original_title": "Ruby's Studio: The Safety Show", "slug_title": "ruby-s-studio-the-safety-show", "date": "2013-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wEoC0Ck5qS00M6EuZ9vdPGOthA.jpg", "actors": [], "comments": [], "recommandations_id": []}

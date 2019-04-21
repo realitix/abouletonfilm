@@ -1,0 +1,1 @@
+{"tmdb_id": 136703, "title": "Dudu Nobre - Ao Vivo", "original_title": "Dudu Nobre - Ao Vivo", "slug_title": "dudu-nobre-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v0nQQbpWsFqYEy5Srgn5jZSI8Yt.jpg", "actors": [], "comments": [], "recommandations_id": []}

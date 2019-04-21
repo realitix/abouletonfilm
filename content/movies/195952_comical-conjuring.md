@@ -1,0 +1,1 @@
+{"tmdb_id": 195952, "title": "Comical Conjuring", "original_title": "Jacques et Jim", "slug_title": "comical-conjuring", "date": "1903-12-11", "genre": "", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [108262, 108269, 195951, 195945]}

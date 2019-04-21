@@ -1,0 +1,1 @@
+{"tmdb_id": 319885, "title": "Paul Rodriguez: Live from the Alamo", "original_title": "Paul Rodriguez: Live from the Alamo", "slug_title": "paul-rodriguez-live-from-the-alamo", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

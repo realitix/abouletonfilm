@@ -1,0 +1,1 @@
+{"tmdb_id": 225901, "title": "Mr. Governor", "original_title": "H:r landsh\u00f6vding", "slug_title": "mr-governor", "date": "2008-12-05", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vAl2obalbNLp6X1nySFY9RI1eqG.jpg", "actors": ["Anders Bj\u00f6rck (Himself)"], "comments": [], "recommandations_id": []}

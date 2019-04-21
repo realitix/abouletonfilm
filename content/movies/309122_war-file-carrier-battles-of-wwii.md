@@ -1,0 +1,1 @@
+{"tmdb_id": 309122, "title": "War File: Carrier Battles of WWII", "original_title": "War File: Carrier Battles of WWII", "slug_title": "war-file-carrier-battles-of-wwii", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

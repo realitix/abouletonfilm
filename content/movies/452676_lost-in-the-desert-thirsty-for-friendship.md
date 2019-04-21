@@ -1,0 +1,1 @@
+{"tmdb_id": 452676, "title": "Lost in the desert, thirsty for friendship", "original_title": "Parched", "slug_title": "lost-in-the-desert-thirsty-for-friendship", "date": "2014-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TkpTqukNPgI4AVUAktPAHi5gwh.jpg", "actors": [], "comments": [], "recommandations_id": []}

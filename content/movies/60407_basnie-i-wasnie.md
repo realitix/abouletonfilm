@@ -1,0 +1,1 @@
+{"tmdb_id": 60407, "title": "Ba\u015bnie i Wa\u015bnie", "original_title": "Ba\u015bnie i Wa\u015bnie", "slug_title": "basnie-i-wasnie", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

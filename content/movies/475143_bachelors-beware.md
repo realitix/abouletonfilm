@@ -1,0 +1,1 @@
+{"tmdb_id": 475143, "title": "Bachelors Beware", "original_title": "Bachelors Beware", "slug_title": "bachelors-beware", "date": "1960-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Linda Lin Dai ()", "Chang Yang ()", "Kelly Lai Chen ()", "Enjia Liu ()"], "comments": [], "recommandations_id": []}

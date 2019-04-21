@@ -1,0 +1,1 @@
+{"tmdb_id": 554910, "title": "Blueberry", "original_title": "Blueberry", "slug_title": "blueberry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harley Bird (Daisy)", "Jay Simpson (Daddy)"], "comments": [], "recommandations_id": []}

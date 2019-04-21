@@ -1,0 +1,1 @@
+{"tmdb_id": 169648, "title": "Stations of the Elevated", "original_title": "Stations of the Elevated", "slug_title": "stations-of-the-elevated", "date": "1981-10-01", "genre": "Documentaire", "score": "8.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2BkiQHUhcgHCvXmL1l9Lrj0T3s1.jpg", "actors": [], "comments": [], "recommandations_id": []}

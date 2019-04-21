@@ -1,0 +1,1 @@
+{"tmdb_id": 462791, "title": "The Cabin", "original_title": "Kabina", "slug_title": "the-cabin", "date": "1966-06-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6p0vdhBXQFbBCn0Hnt46yhYc4o.jpg", "actors": [], "comments": [], "recommandations_id": []}

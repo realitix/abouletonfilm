@@ -1,0 +1,1 @@
+{"tmdb_id": 307203, "title": "Bhogimantalu", "original_title": "Bhogimantalu", "slug_title": "bhogimantalu", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

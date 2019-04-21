@@ -1,0 +1,1 @@
+{"tmdb_id": 563555, "title": "The Empire of C", "original_title": "The Empire of C", "slug_title": "the-empire-of-c", "date": "2018-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Sgp4n5XuCZTPwas9Rg8TT4fNQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 418099, "title": "Girls of Today", "original_title": "\u0628\u0646\u0627\u062a \u0627\u0644\u064a\u0648\u0645", "slug_title": "girls-of-today", "date": "1957-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/otdrJCuzt6iP6IzGQUmk4MdBLZZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

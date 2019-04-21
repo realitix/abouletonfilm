@@ -1,0 +1,1 @@
+{"tmdb_id": 396242, "title": "Adaptacja", "original_title": "Adaptacja", "slug_title": "adaptacja", "date": "1981-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iAFvUsVYthZGnPOgXPdPvBw3utU.jpg", "actors": [], "comments": [], "recommandations_id": []}

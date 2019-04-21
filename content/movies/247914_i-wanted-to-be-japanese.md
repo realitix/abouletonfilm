@@ -1,0 +1,1 @@
+{"tmdb_id": 247914, "title": "I Wanted to Be Japanese\u2026", "original_title": "Nihon-jin ni naritakatta", "slug_title": "i-wanted-to-be-japanese", "date": "1992-06-29", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

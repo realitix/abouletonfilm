@@ -1,0 +1,1 @@
+{"tmdb_id": 181663, "title": "TISM: Gold! Gold!! Gold!!!", "original_title": "TISM: Gold! Gold!! Gold!!!", "slug_title": "tism-gold-gold-gold", "date": "1998-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

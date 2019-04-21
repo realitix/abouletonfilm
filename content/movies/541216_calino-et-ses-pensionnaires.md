@@ -1,0 +1,1 @@
+{"tmdb_id": 541216, "title": "Calino et ses pensionnaires", "original_title": "Calino et ses pensionnaires", "slug_title": "calino-et-ses-pensionnaires", "date": "1911-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cl\u00e9ment M\u00e9g\u00e9 (Calino)", "Gaston Modot ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276686, "title": "Caravaggio and My Mother the Pope", "original_title": "Caravaggio and My Mother the Pope", "slug_title": "caravaggio-and-my-mother-the-pope", "date": "2014-09-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 365881, "title": "Jakten p\u00e5 en m\u00f6rdare", "original_title": "Jakten p\u00e5 en m\u00f6rdare", "slug_title": "jakten-pa-en-mordare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

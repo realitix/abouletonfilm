@@ -1,0 +1,1 @@
+{"tmdb_id": 197150, "title": "Primitive Pitcairn", "original_title": "Primitive Pitcairn", "slug_title": "primitive-pitcairn", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

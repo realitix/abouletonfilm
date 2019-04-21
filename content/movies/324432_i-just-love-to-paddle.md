@@ -1,0 +1,1 @@
+{"tmdb_id": 324432, "title": "I Just Love to Paddle", "original_title": "I Just Love to Paddle", "slug_title": "i-just-love-to-paddle", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

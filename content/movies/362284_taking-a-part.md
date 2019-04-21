@@ -1,0 +1,1 @@
+{"tmdb_id": 362284, "title": "Taking a Part", "original_title": "Taking a Part", "slug_title": "taking-a-part", "date": "1979-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

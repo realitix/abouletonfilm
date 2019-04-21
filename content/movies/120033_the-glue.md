@@ -1,0 +1,1 @@
+{"tmdb_id": 120033, "title": "The Glue", "original_title": "La Glu", "slug_title": "the-glue", "date": "1907-01-01", "genre": "Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQd6AJ7TiMXmn5Sej0ZzRri3twC.jpg", "actors": [], "comments": [], "recommandations_id": [127221, 190651, 119999, 120007]}

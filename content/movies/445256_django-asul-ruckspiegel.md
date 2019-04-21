@@ -1,0 +1,1 @@
+{"tmdb_id": 445256, "title": "Django As\u00fcl - R\u00fcckspiegel", "original_title": "Django As\u00fcl - R\u00fcckspiegel", "slug_title": "django-asul-ruckspiegel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zguRmMoBhvnc3YxEwuoZ68JDddE.jpg", "actors": [], "comments": [], "recommandations_id": []}

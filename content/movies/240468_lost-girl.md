@@ -1,0 +1,1 @@
+{"tmdb_id": 240468, "title": "Lost Girl", "original_title": "Lost Girl", "slug_title": "lost-girl", "date": "2009-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sH1VlFVOdKj42u9V485tfuwRKfz.jpg", "actors": [], "comments": [], "recommandations_id": []}

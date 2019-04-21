@@ -1,0 +1,1 @@
+{"tmdb_id": 532532, "title": "Amplify Her", "original_title": "Amplify Her", "slug_title": "amplify-her", "date": "2018-02-23", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AnsGSfsSS56IKHPZMdztb8ro2Rk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379133, "title": "Pink Panic", "original_title": "Pink Panic", "slug_title": "pink-panic", "date": "1967-01-11", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUVviSDHkHlrv5OzVsGUnqpG3pH.jpg", "actors": [], "comments": [], "recommandations_id": [4255]}

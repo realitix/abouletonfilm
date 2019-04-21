@@ -1,0 +1,1 @@
+{"tmdb_id": 222690, "title": "Hold the Lion Please", "original_title": "Hold the Lion Please", "slug_title": "hold-the-lion-please", "date": "1951-04-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1s5wUXZGHd681qhQwrqwumycvJr.jpg", "actors": [], "comments": [], "recommandations_id": []}

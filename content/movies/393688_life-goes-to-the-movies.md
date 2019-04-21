@@ -1,0 +1,1 @@
+{"tmdb_id": 393688, "title": "Life Goes to the Movies", "original_title": "Life Goes to the Movies", "slug_title": "life-goes-to-the-movies", "date": "1976-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taXPf29GIH0LCTAE5MQwVvtx5zx.jpg", "actors": [], "comments": [], "recommandations_id": []}

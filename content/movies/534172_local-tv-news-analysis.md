@@ -1,0 +1,1 @@
+{"tmdb_id": 534172, "title": "Local TV News Analysis", "original_title": "Local TV News Analysis", "slug_title": "local-tv-news-analysis", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSHS6tnUvBjHJCo5DEMihLrsuTq.jpg", "actors": [], "comments": [], "recommandations_id": []}

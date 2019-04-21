@@ -1,0 +1,1 @@
+{"tmdb_id": 522007, "title": "Ein Schlauchboot und Austern", "original_title": "Ein Schlauchboot und Austern", "slug_title": "ein-schlauchboot-und-austern", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQqB9iVdyTPx7EDSZKYa2QPudqr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 319589, "title": "What's New, Mr. Magoo?", "original_title": "What's New, Mr. Magoo?", "slug_title": "what-s-new-mr-magoo", "date": "1977-09-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

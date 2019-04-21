@@ -1,0 +1,1 @@
+{"tmdb_id": 588813, "title": "Ready Or Not", "original_title": "Aki b\u00fajt, aki nem", "slug_title": "ready-or-not", "date": "2018-05-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

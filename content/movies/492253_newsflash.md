@@ -1,0 +1,1 @@
+{"tmdb_id": 492253, "title": "Newsflash", "original_title": "Newsflash", "slug_title": "newsflash", "date": "2019-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seth Rogen (Walter Cronkite)"], "comments": [], "recommandations_id": []}

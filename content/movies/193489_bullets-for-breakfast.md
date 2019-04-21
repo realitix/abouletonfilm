@@ -1,0 +1,1 @@
+{"tmdb_id": 193489, "title": "Bullets for Breakfast", "original_title": "Bullets for Breakfast", "slug_title": "bullets-for-breakfast", "date": "1992-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

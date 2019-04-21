@@ -1,0 +1,1 @@
+{"tmdb_id": 242974, "title": "Danger Under the Sea", "original_title": "Danger Under the Sea", "slug_title": "danger-under-the-sea", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342203, "title": "Mit livs buk", "original_title": "Mit livs buk", "slug_title": "mit-livs-buk", "date": "2004-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipfr8rGC5zTZPPs57Zh0UOmWriN.jpg", "actors": [], "comments": [], "recommandations_id": []}

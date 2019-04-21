@@ -1,0 +1,1 @@
+{"tmdb_id": 307912, "title": "Five Cents a Copy", "original_title": "Five Cents a Copy", "slug_title": "five-cents-a-copy", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2RtbJiNgB5HgJCwqTYLs2gqnat.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 208418, "title": "America is in Real Trouble", "original_title": "America is in Real Trouble", "slug_title": "america-is-in-real-trouble", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

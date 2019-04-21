@@ -1,0 +1,1 @@
+{"tmdb_id": 387279, "title": "Rural Mexico", "original_title": "Rural Mexico", "slug_title": "rural-mexico", "date": "1935-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXkZH46ps9C7cqV8cl6SLVqpmKp.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

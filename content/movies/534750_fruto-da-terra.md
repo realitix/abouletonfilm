@@ -1,0 +1,1 @@
+{"tmdb_id": 534750, "title": "Fruto da Terra", "original_title": "Fruto da Terra", "slug_title": "fruto-da-terra", "date": "2008-06-06", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/if5ta2Ow0KJOAxbjskWMitoGjtL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573379, "title": "The Fixer", "original_title": "The Fixer", "slug_title": "the-fixer", "date": "1915-09-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Bickel ()", "Harry Watson ()", "Ben Taggart ()", "Ruby Hoffman ()", "Snitz Edwards ()"], "comments": [], "recommandations_id": []}

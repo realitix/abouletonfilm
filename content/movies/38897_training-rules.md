@@ -1,0 +1,1 @@
+{"tmdb_id": 38897, "title": "Training Rules", "original_title": "Training Rules", "slug_title": "training-rules", "date": "2009-04-04", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yTkVZG2ZvnAyVD0uV2s37uai306.jpg", "actors": [], "comments": [], "recommandations_id": []}

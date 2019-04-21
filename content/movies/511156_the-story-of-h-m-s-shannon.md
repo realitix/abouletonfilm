@@ -1,0 +1,1 @@
+{"tmdb_id": 511156, "title": "The Story of H.M.S. Shannon", "original_title": "The Story of H.M.S. Shannon", "slug_title": "the-story-of-h-m-s-shannon", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

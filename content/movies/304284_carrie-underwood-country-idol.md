@@ -1,0 +1,1 @@
+{"tmdb_id": 304284, "title": "Carrie Underwood: Country Idol", "original_title": "Carrie Underwood: Country Idol", "slug_title": "carrie-underwood-country-idol", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

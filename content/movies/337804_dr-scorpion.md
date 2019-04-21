@@ -1,0 +1,1 @@
+{"tmdb_id": 337804, "title": "Dr. Scorpion", "original_title": "Dr. Scorpion", "slug_title": "dr-scorpion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

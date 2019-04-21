@@ -1,0 +1,1 @@
+{"tmdb_id": 308311, "title": "Teesra Kaun", "original_title": "Teesra Kaun", "slug_title": "teesra-kaun", "date": "1965-01-01", "genre": "Drame / Action / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Feroz Khan (Prakash)", "Kalpana (Shobha)", "Shashikala (Lily)"], "comments": [], "recommandations_id": []}

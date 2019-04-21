@@ -1,0 +1,1 @@
+{"tmdb_id": 483320, "title": "\uc8fd\uc74c\uc758 \ub2e4\uc12f\uc190\uac00\ub77d", "original_title": "\uc8fd\uc74c\uc758 \ub2e4\uc12f\uc190\uac00\ub77d", "slug_title": "jugeumyi-daseossongarag", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

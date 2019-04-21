@@ -1,0 +1,1 @@
+{"tmdb_id": 528352, "title": "SCHMANTZ - Der Untergang der Menschheit", "original_title": "SCHMANTZ - Der Untergang der Menschheit", "slug_title": "schmantz-der-untergang-der-menschheit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

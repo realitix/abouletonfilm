@@ -1,0 +1,1 @@
+{"tmdb_id": 533314, "title": "Les stances de Dzyan", "original_title": "Les stances de Dzyan", "slug_title": "les-stances-de-dzyan", "date": "2004-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

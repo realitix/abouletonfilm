@@ -1,0 +1,1 @@
+{"tmdb_id": 421104, "title": "Untitled Van Helsing Film", "original_title": "Untitled Van Helsing Film", "slug_title": "untitled-van-helsing-film", "date": "", "genre": "Thriller / Horreur / Action / Aventure / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

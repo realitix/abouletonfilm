@@ -1,0 +1,1 @@
+{"tmdb_id": 315481, "title": "Katapusang Labok", "original_title": "Katapusang Labok", "slug_title": "katapusang-labok", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aiess Athina Alonso (Director)"], "comments": [], "recommandations_id": []}

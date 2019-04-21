@@ -1,0 +1,1 @@
+{"tmdb_id": 532112, "title": "Pac\u00edficum", "original_title": "Pac\u00edficum", "slug_title": "pacificum", "date": "2017-09-28", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzVbyBCAhry8DGJD0GgVuui5gou.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343202, "title": "Supersordo", "original_title": "Supersordo", "slug_title": "supersordo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBs4eXIOrEmbIDlAA77KQ9UusDN.jpg", "actors": [], "comments": [], "recommandations_id": []}

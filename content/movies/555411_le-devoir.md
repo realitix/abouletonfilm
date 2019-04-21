@@ -1,0 +1,1 @@
+{"tmdb_id": 555411, "title": "Le devoir", "original_title": "Le devoir", "slug_title": "le-devoir", "date": "1917-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499012, "title": "Taxidermist", "original_title": "Taxidermist", "slug_title": "taxidermist", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 590642, "title": "Leucemia", "original_title": "Leucemia", "slug_title": "leucemia", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

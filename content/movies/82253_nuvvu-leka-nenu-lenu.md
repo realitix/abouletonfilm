@@ -1,0 +1,1 @@
+{"tmdb_id": 82253, "title": "Nuvvu Leka Nenu Lenu", "original_title": "Nuvvu Leka Nenu Lenu", "slug_title": "nuvvu-leka-nenu-lenu", "date": "2002-01-14", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDetUcqzVetvFTj1mn2LOE1XG6N.jpg", "actors": [], "comments": [], "recommandations_id": []}

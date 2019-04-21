@@ -1,0 +1,1 @@
+{"tmdb_id": 323087, "title": "The Beatles London", "original_title": "The Beatles London", "slug_title": "the-beatles-london", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

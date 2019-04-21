@@ -1,0 +1,1 @@
+{"tmdb_id": 273531, "title": "Rubber Room", "original_title": "Rubber Room", "slug_title": "rubber-room", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

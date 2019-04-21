@@ -1,0 +1,1 @@
+{"tmdb_id": 475322, "title": "Tavener - Choral Ikons", "original_title": "Tavener - Choral Ikons", "slug_title": "tavener-choral-ikons", "date": "2000-07-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79vMwxvzyuA53PB6sy3NsinYGPc.jpg", "actors": [], "comments": [], "recommandations_id": []}

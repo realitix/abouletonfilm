@@ -1,0 +1,1 @@
+{"tmdb_id": 519164, "title": "Manon Lescaut", "original_title": "Manon Lescaut", "slug_title": "manon-lescaut", "date": "1998-06-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2RmQr928upSvayzQnUGmYZyWA.jpg", "actors": ["Maria Guleghina (Manon)", "Jos\u00e9 Cura ()"], "comments": [], "recommandations_id": []}

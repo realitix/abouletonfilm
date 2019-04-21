@@ -1,0 +1,1 @@
+{"tmdb_id": 319693, "title": "Arthur: Arthur Goes Crosswire", "original_title": "Arthur: Arthur Goes Crosswire", "slug_title": "arthur-arthur-goes-crosswire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

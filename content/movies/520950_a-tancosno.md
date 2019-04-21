@@ -1,0 +1,1 @@
+{"tmdb_id": 520950, "title": "A t\u00e1ncosn\u0151", "original_title": "A t\u00e1ncosn\u0151", "slug_title": "a-tancosno", "date": "1918-11-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leopoldine Konstantin ()", "Dezs\u00f5 Kert\u00e9sz ()", "Emil Fenyvessy ()"], "comments": [], "recommandations_id": []}

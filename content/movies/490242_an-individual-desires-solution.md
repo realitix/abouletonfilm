@@ -1,0 +1,1 @@
+{"tmdb_id": 490242, "title": "An Individual Desires Solution", "original_title": "An Individual Desires Solution", "slug_title": "an-individual-desires-solution", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

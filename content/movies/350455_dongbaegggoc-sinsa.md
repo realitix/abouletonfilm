@@ -1,0 +1,1 @@
+{"tmdb_id": 350455, "title": "\ub3d9\ubc31\uaf43 \uc2e0\uc0ac", "original_title": "\ub3d9\ubc31\uaf43 \uc2e0\uc0ac", "slug_title": "dongbaegggoc-sinsa", "date": "1979-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

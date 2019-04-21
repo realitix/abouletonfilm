@@ -1,0 +1,1 @@
+{"tmdb_id": 590154, "title": "The Very Best Of MTV Unplugged 3", "original_title": "The Very Best Of MTV Unplugged 3", "slug_title": "the-very-best-of-mtv-unplugged-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99L03BvxvD538SscS07EDxhUxW1.jpg", "actors": [], "comments": [], "recommandations_id": []}

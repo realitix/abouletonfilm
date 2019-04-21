@@ -1,0 +1,1 @@
+{"tmdb_id": 421018, "title": "Weed Eaters", "original_title": "Weed Eaters", "slug_title": "weed-eaters", "date": "2016-10-07", "genre": "Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isaac Akers ()", "Isaac Akers (Conner)", "Jake Brown (Jake)", "Oscar Sanchez (Oscar)"], "comments": [], "recommandations_id": []}

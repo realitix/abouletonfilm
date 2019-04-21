@@ -1,0 +1,1 @@
+{"tmdb_id": 465680, "title": "Ghandi at the Bat", "original_title": "Ghandi at the Bat", "slug_title": "ghandi-at-the-bat", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1j7F8szag5zfNl3v2sk4A2mzQhM.jpg", "actors": [], "comments": [], "recommandations_id": []}

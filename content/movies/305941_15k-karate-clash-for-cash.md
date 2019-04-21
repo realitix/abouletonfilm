@@ -1,0 +1,1 @@
+{"tmdb_id": 305941, "title": "$15K Karate Clash for Cash", "original_title": "$15K Karate Clash for Cash", "slug_title": "15k-karate-clash-for-cash", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

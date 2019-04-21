@@ -1,0 +1,1 @@
+{"tmdb_id": 316397, "title": "Crystal Gazing", "original_title": "Crystal Gazing", "slug_title": "crystal-gazing", "date": "1982-09-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lora Logic (Kim)", "Gavin Richards (Neil Holt)", "Mary Maddox (Vermilion)", "Jeff Rawle (Julian)"], "comments": [], "recommandations_id": []}

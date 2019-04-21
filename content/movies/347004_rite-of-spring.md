@@ -1,0 +1,1 @@
+{"tmdb_id": 347004, "title": "Rite of Spring", "original_title": "Rite of Spring", "slug_title": "rite-of-spring", "date": "2013-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbGEDDODYqAIXNpaYuxfOR3kgvf.jpg", "actors": [], "comments": [], "recommandations_id": []}

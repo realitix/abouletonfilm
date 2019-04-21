@@ -1,0 +1,1 @@
+{"tmdb_id": 226300, "title": "Oka Radha Iddaru Krishnula Pelli", "original_title": "Oka Radha Iddaru Krishnula Pelli", "slug_title": "oka-radha-iddaru-krishnula-pelli", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

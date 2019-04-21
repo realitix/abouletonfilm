@@ -1,0 +1,1 @@
+{"tmdb_id": 458512, "title": "Vor dem Feind", "original_title": "Vor dem Feind", "slug_title": "vor-dem-feind", "date": "1968-06-21", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christian Ziewer ()", "Dieter Aurich ()"], "comments": [], "recommandations_id": []}

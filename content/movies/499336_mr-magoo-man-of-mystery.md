@@ -1,0 +1,1 @@
+{"tmdb_id": 499336, "title": "Mr. Magoo, Man of Mystery", "original_title": "Mr. Magoo, Man of Mystery", "slug_title": "mr-magoo-man-of-mystery", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo)"], "comments": [], "recommandations_id": []}

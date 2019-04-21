@@ -1,0 +1,1 @@
+{"tmdb_id": 49101, "title": "Concert Wishes", "original_title": "Koncert \u017cycze\u0144", "slug_title": "concert-wishes", "date": "1967-01-01", "genre": "Drame", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aQBHVWZMXdIu94FVtOV3TyhOfXZ.jpg", "actors": [], "comments": [], "recommandations_id": [49107, 111154, 85923, 49112]}

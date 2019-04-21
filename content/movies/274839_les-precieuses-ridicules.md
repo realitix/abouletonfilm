@@ -1,0 +1,1 @@
+{"tmdb_id": 274839, "title": "Les pr\u00e9cieuses ridicules", "original_title": "Les pr\u00e9cieuses ridicules", "slug_title": "les-precieuses-ridicules", "date": "1997-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/laZ7WyPWpdSnsrS7DnWbMBODjza.jpg", "actors": [], "comments": [], "recommandations_id": []}

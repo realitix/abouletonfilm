@@ -1,0 +1,1 @@
+{"tmdb_id": 114405, "title": "Multi-Handicapped", "original_title": "Multi-Handicapped", "slug_title": "multi-handicapped", "date": "1986-12-04", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcwbZdLl9lkvq4TkhpKTNCks1tI.jpg", "actors": [], "comments": [], "recommandations_id": []}

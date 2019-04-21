@@ -1,0 +1,1 @@
+{"tmdb_id": 184609, "title": "Flowers for Madame", "original_title": "Flowers for Madame", "slug_title": "flowers-for-madame", "date": "1935-11-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmKWAi2Sp7JIoq5IQq7jmlc9QW3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 419413, "title": "Rotatio", "original_title": "Rotatio", "slug_title": "rotatio", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

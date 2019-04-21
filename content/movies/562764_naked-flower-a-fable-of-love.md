@@ -1,0 +1,1 @@
+{"tmdb_id": 562764, "title": "Naked Flower: A Fable of Love", "original_title": "Naked Flower: A Fable of Love", "slug_title": "naked-flower-a-fable-of-love", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

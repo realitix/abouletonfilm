@@ -1,0 +1,1 @@
+{"tmdb_id": 349300, "title": "Thief and a Poet", "original_title": "\ub3c4\ub451\uacfc \uc2dc\uc778", "slug_title": "thief-and-a-poet", "date": "1995-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Park Sang-min ()"], "comments": [], "recommandations_id": []}

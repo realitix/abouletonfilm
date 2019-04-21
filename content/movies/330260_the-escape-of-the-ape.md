@@ -1,0 +1,1 @@
+{"tmdb_id": 330260, "title": "The Escape of the Ape", "original_title": "The Escape of the Ape", "slug_title": "the-escape-of-the-ape", "date": "1908-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

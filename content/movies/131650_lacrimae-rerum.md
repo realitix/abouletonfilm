@@ -1,0 +1,1 @@
+{"tmdb_id": 131650, "title": "Lacrimae rerum", "original_title": "Lacrimae rerum", "slug_title": "lacrimae-rerum", "date": "1962-08-31", "genre": "Myst\u00e8re", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxVSQfRWOV8GaX5WvnNDZUXz8jy.jpg", "actors": [], "comments": [], "recommandations_id": [45613, 106268, 36067, 219827]}

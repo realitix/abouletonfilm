@@ -1,0 +1,1 @@
+{"tmdb_id": 446306, "title": "Blood\u2019s Up in Takadanobaba", "original_title": "\u8840\u7159\u9ad8\u7530\u99ac\u5834", "slug_title": "bloods-up-in-takadanobaba", "date": "1928-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

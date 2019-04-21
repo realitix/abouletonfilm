@@ -1,0 +1,1 @@
+{"tmdb_id": 399162, "title": "Metalogue", "original_title": "Metalogue", "slug_title": "metalogue", "date": "1996-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cWbDUvv7PNR2QZlVaC8lI8V2oXK.jpg", "actors": ["Peter Rose (Himself)"], "comments": [], "recommandations_id": []}

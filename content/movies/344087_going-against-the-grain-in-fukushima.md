@@ -1,0 +1,1 @@
+{"tmdb_id": 344087, "title": "Going against the Grain in Fukushima", "original_title": "Ten ni sakaeru mura", "slug_title": "going-against-the-grain-in-fukushima", "date": "2015-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kimiko Yo (Speaker)"], "comments": [], "recommandations_id": []}

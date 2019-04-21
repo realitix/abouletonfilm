@@ -1,0 +1,1 @@
+{"tmdb_id": 107587, "title": "The Day Silence Died", "original_title": "El d\u00eda que muri\u00f3 el Silencio", "slug_title": "the-day-silence-died", "date": "1999-07-02", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMwmxUjZrlN6zFqmRiDluUnPaVh.jpg", "actors": [], "comments": [], "recommandations_id": []}

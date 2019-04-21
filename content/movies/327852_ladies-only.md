@@ -1,0 +1,1 @@
+{"tmdb_id": 327852, "title": "Ladies Only", "original_title": "\u0639\u0631\u0628\u0629 \u0627\u0644\u0633\u064a\u062f\u0627\u062a", "slug_title": "ladies-only", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

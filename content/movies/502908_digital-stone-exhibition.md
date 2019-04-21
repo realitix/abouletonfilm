@@ -1,0 +1,1 @@
+{"tmdb_id": 502908, "title": "Digital Stone Exhibition", "original_title": "Digital Stone Exhibition", "slug_title": "digital-stone-exhibition", "date": "2008-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

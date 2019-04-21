@@ -1,0 +1,1 @@
+{"tmdb_id": 586248, "title": "every dog has its day", "original_title": "every dog has its day", "slug_title": "every-dog-has-its-day", "date": "2019-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

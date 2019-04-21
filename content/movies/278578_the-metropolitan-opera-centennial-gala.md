@@ -1,0 +1,1 @@
+{"tmdb_id": 278578, "title": "The Metropolitan Opera: Centennial Gala", "original_title": "The Metropolitan Opera: Centennial Gala", "slug_title": "the-metropolitan-opera-centennial-gala", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

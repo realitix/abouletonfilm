@@ -1,0 +1,1 @@
+{"tmdb_id": 130494, "title": "Metallica: Live in Den Bosch", "original_title": "Metallica: Live in Den Bosch", "slug_title": "metallica-live-in-den-bosch", "date": "1992-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yG2X16bwPdAEGAyiUvp46oQ5esx.jpg", "actors": [], "comments": [], "recommandations_id": []}

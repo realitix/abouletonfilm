@@ -1,0 +1,1 @@
+{"tmdb_id": 329571, "title": "The Joy of Logic", "original_title": "The Joy of Logic", "slug_title": "the-joy-of-logic", "date": "2013-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dave Cliff (Himself)"], "comments": [], "recommandations_id": []}

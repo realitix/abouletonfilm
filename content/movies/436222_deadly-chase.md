@@ -1,0 +1,1 @@
+{"tmdb_id": 436222, "title": "Deadly Chase", "original_title": "Deadly Chase", "slug_title": "deadly-chase", "date": "1992-06-01", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ofZON1AqUJyetgoZZl36I85Uv6B.jpg", "actors": ["Nicola Quilter (Tessa Hayes)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425476, "title": "Lucy's Terrace", "original_title": "Lucy's Terrace", "slug_title": "lucy-s-terrace", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LFw5ERtXDywsUD9Ath5s3mgctg.jpg", "actors": [], "comments": [], "recommandations_id": []}

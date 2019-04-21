@@ -1,0 +1,1 @@
+{"tmdb_id": 468452, "title": "Life with Video", "original_title": "Life with Video", "slug_title": "life-with-video", "date": "1972-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

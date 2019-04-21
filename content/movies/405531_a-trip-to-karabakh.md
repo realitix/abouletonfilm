@@ -1,0 +1,1 @@
+{"tmdb_id": 405531, "title": "A Trip to Karabakh", "original_title": "Gaseirneba Karabaghshi", "slug_title": "a-trip-to-karabakh", "date": "2005-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7xUJH3R6DZvnNp3vnYmFMpqrgr.jpg", "actors": [], "comments": [], "recommandations_id": []}

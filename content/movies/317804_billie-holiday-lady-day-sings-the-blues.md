@@ -1,0 +1,1 @@
+{"tmdb_id": 317804, "title": "Billie Holiday: Lady Day Sings the Blues", "original_title": "Billie Holiday: Lady Day Sings the Blues", "slug_title": "billie-holiday-lady-day-sings-the-blues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

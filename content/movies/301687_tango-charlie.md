@@ -1,0 +1,1 @@
+{"tmdb_id": 301687, "title": "Tango Charlie", "original_title": "Tango Charlie", "slug_title": "tango-charlie", "date": "2005-03-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psaaRsrqkBSgihxQIN8SZ89JgME.jpg", "actors": ["Ajay Devgn ()", "Bobby Deol ()", "Chitram Basha ()"], "comments": [], "recommandations_id": []}

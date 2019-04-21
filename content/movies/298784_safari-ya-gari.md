@@ -1,0 +1,1 @@
+{"tmdb_id": 298784, "title": "Safari Ya Gari", "original_title": "Safari Ya Gari", "slug_title": "safari-ya-gari", "date": "1961-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adLORYCAHzP54Bn1j50lF8z3eNU.jpg", "actors": [], "comments": [], "recommandations_id": []}

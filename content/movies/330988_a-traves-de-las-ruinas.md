@@ -1,0 +1,1 @@
+{"tmdb_id": 330988, "title": "A Trav\u00e9s de las Ruinas", "original_title": "A Trav\u00e9s de las Ruinas", "slug_title": "a-traves-de-las-ruinas", "date": "1982-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hedVaE9cvvJZWinYexaQGK7JXnt.jpg", "actors": [], "comments": [], "recommandations_id": []}

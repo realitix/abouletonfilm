@@ -1,0 +1,1 @@
+{"tmdb_id": 470233, "title": "Teakamamire no Tenshi The Animation 1", "original_title": "Teakamamire no Tenshi The Animation 1", "slug_title": "teakamamire-no-tenshi-the-animation-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

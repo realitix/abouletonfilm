@@ -1,0 +1,1 @@
+{"tmdb_id": 450601, "title": "Rolling Stones - The Video", "original_title": "Rolling Stones - The Video", "slug_title": "rolling-stones-the-video", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LP5wwUYa9OLpSmCHnA3vOzsP0z.jpg", "actors": [], "comments": [], "recommandations_id": []}

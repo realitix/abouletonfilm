@@ -1,0 +1,1 @@
+{"tmdb_id": 350008, "title": "\ubbf8\ub140\uc0ac\ub0e5", "original_title": "\ubbf8\ub140\uc0ac\ub0e5", "slug_title": "minyeosanyang", "date": "1991-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

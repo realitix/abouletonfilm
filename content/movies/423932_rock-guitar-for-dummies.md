@@ -1,0 +1,1 @@
+{"tmdb_id": 423932, "title": "Rock Guitar for Dummies", "original_title": "Rock Guitar for Dummies", "slug_title": "rock-guitar-for-dummies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPzcDZni4rF5DUKHoMlq21GiDM1.jpg", "actors": [], "comments": [], "recommandations_id": []}

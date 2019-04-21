@@ -1,0 +1,1 @@
+{"tmdb_id": 108963, "title": "A Little Bit of So Much Truth", "original_title": "Un poquito de tanta verdad", "slug_title": "a-little-bit-of-so-much-truth", "date": "2007-10-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mz5fDYY6ovYmuTGHKpyBmnBk3l0.jpg", "actors": [], "comments": [], "recommandations_id": []}

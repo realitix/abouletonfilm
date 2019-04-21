@@ -1,0 +1,1 @@
+{"tmdb_id": 304518, "title": "How the World \"Really\" Is", "original_title": "How the World \"Really\" Is", "slug_title": "how-the-world-really-is", "date": "2014-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

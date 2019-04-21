@@ -1,0 +1,1 @@
+{"tmdb_id": 514765, "title": "Slay Per View", "original_title": "Slay Per View", "slug_title": "slay-per-view", "date": "2017-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dan Creed ()", "Amanda Hall ()", "Sean Keller ()", "Mark Jude Sullivan ()"], "comments": [], "recommandations_id": []}

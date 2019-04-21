@@ -1,0 +1,1 @@
+{"tmdb_id": 239444, "title": "L'art d'aimer", "original_title": "L'art d'aimer", "slug_title": "l-art-d-aimer", "date": "1985-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4Tp3DP74crqd4gH4wCuNAypZPV.jpg", "actors": [], "comments": [], "recommandations_id": []}

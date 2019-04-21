@@ -1,0 +1,1 @@
+{"tmdb_id": 419356, "title": "Studie V: V\u00e4xelspel", "original_title": "Studie V: V\u00e4xelspel", "slug_title": "studie-v-vaxelspel", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Celo Pertot ()", "Ina Strandmark ()"], "comments": [], "recommandations_id": []}

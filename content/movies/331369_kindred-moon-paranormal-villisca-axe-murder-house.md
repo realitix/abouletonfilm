@@ -1,0 +1,1 @@
+{"tmdb_id": 331369, "title": "Kindred Moon Paranormal Villisca Axe Murder House", "original_title": "Kindred Moon Paranormal Villisca Axe Murder House", "slug_title": "kindred-moon-paranormal-villisca-axe-murder-house", "date": "2014-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

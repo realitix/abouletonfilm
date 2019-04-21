@@ -1,0 +1,1 @@
+{"tmdb_id": 323470, "title": "Waiting Rooms", "original_title": "Waiting Rooms", "slug_title": "waiting-rooms", "date": "2010-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

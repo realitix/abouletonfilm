@@ -1,0 +1,1 @@
+{"tmdb_id": 278561, "title": "None But My Foe / Trial of Peter Zenger", "original_title": "None But My Foe / Trial of Peter Zenger", "slug_title": "none-but-my-foe-trial-of-peter-zenger", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539941, "title": "Die sieben Leben des Elvis Presley", "original_title": "Die sieben Leben des Elvis Presley", "slug_title": "die-sieben-leben-des-elvis-presley", "date": "2018-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elvis Presley (Elvis Presley)"], "comments": [], "recommandations_id": []}

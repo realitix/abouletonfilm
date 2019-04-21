@@ -1,0 +1,1 @@
+{"tmdb_id": 580216, "title": "Bronislaw Malinowski: Off the Veranda", "original_title": "Bronislaw Malinowski: Off the Veranda", "slug_title": "bronislaw-malinowski-off-the-veranda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275583, "title": "Bigger Plans", "original_title": "Bigger Plans", "slug_title": "bigger-plans", "date": "2008-04-04", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NssxTAIrCtTBpX0nBSGYYmxh8Q.jpg", "actors": ["Karim Bakundukize (Zozo)", "Landry Nshimye (Moma)"], "comments": [], "recommandations_id": []}

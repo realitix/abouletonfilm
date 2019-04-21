@@ -1,0 +1,1 @@
+{"tmdb_id": 521984, "title": "Bieber Generation", "original_title": "Bieber Generation", "slug_title": "bieber-generation", "date": "2018-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cX258RIsmQLl5Ue1aR7GpnahMx7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 175598, "title": "Choose Your Weapons", "original_title": "Choose Your Weapons", "slug_title": "choose-your-weapons", "date": "1922-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aN4XxfljgyuBxBlodgMIULo62S6.jpg", "actors": [], "comments": [], "recommandations_id": []}

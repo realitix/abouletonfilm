@@ -1,0 +1,1 @@
+{"tmdb_id": 411920, "title": "Sun - A Film without a Camera", "original_title": "S\u0142o\u0144ce - film bez kamery", "slug_title": "sun-a-film-without-a-camera", "date": "1977-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfchJL6Vb6ervRtDYpEHo3muGbb.jpg", "actors": [], "comments": [], "recommandations_id": []}

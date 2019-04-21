@@ -1,0 +1,1 @@
+{"tmdb_id": 382141, "title": "Howard Carpendale das Finale Live", "original_title": "Howard Carpendale das Finale Live", "slug_title": "howard-carpendale-das-finale-live", "date": "2003-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

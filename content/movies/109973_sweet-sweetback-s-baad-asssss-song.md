@@ -1,0 +1,1 @@
+{"tmdb_id": 109973, "title": "Sweet Sweetback's Baad Asssss Song", "original_title": "Sweet Sweetback's Baad Asssss Song", "slug_title": "sweet-sweetback-s-baad-asssss-song", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

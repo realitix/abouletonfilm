@@ -1,0 +1,1 @@
+{"tmdb_id": 566943, "title": "Les parents ne sont pas simples cette ann\u00e9e", "original_title": "Les parents ne sont pas simples cette ann\u00e9e", "slug_title": "les-parents-ne-sont-pas-simples-cette-annee", "date": "1984-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

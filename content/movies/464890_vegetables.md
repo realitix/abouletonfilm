@@ -1,0 +1,1 @@
+{"tmdb_id": 464890, "title": "Vegetables", "original_title": "Vegetables", "slug_title": "vegetables", "date": "1989-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Quentin Tarantino ()"], "comments": [], "recommandations_id": []}

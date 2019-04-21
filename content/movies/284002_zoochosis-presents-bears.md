@@ -1,0 +1,1 @@
+{"tmdb_id": 284002, "title": "Zoochosis Presents: Bears", "original_title": "Zoochosis Presents: Bears", "slug_title": "zoochosis-presents-bears", "date": "2011-08-31", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

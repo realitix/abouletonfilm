@@ -1,0 +1,1 @@
+{"tmdb_id": 302811, "title": "Una rosa para Soler", "original_title": "Una rosa para Soler", "slug_title": "una-rosa-para-soler", "date": "2014-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdTq0nBDxVUcV1T6jf9Cl9IYo4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

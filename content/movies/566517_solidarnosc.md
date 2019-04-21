@@ -1,0 +1,1 @@
+{"tmdb_id": 566517, "title": "Solidarnosc", "original_title": "Solidarnosc", "slug_title": "solidarnosc", "date": "1981-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rRVsjqLTEq5t90IGg7emEciIE4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581151, "title": "Vidi Vici: Narrative and the death of desire", "original_title": "Vidi Vici: Narrative and the death of desire", "slug_title": "vidi-vici-narrative-and-the-death-of-desire", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

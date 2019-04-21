@@ -1,0 +1,1 @@
+{"tmdb_id": 313647, "title": "TV-Ping-Pong", "original_title": "TV-Ping-Pong", "slug_title": "tv-ping-pong", "date": "1978-01-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xPSmvE35fX1hXzCfbQlFgzHkss.jpg", "actors": [], "comments": [], "recommandations_id": []}

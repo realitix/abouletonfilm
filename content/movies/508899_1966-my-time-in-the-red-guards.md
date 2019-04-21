@@ -1,0 +1,1 @@
+{"tmdb_id": 508899, "title": "1966, My Time in the Red Guards", "original_title": "1966, My Time in the Red Guards", "slug_title": "1966-my-time-in-the-red-guards", "date": "1993-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gq7FSGwHwOcN743wLpD8gGicrCI.jpg", "actors": [], "comments": [], "recommandations_id": []}

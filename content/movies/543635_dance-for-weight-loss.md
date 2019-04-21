@@ -1,0 +1,1 @@
+{"tmdb_id": 543635, "title": "Dance For Weight Loss", "original_title": "Dance For Weight Loss", "slug_title": "dance-for-weight-loss", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eFQ5FTDQwxFLvFp4klaZi9lJ1c.jpg", "actors": [], "comments": [], "recommandations_id": []}

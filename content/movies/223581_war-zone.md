@@ -1,0 +1,1 @@
+{"tmdb_id": 223581, "title": "War Zone", "original_title": "War Zone", "slug_title": "war-zone", "date": "1998-08-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jF96DE873m9IXPsVGv1C7mvvMYO.jpg", "actors": ["Maggie Hadleigh-West (Herself)"], "comments": [], "recommandations_id": []}

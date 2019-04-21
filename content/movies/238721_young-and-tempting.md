@@ -1,0 +1,1 @@
+{"tmdb_id": 238721, "title": "Young and Tempting", "original_title": "Young and Tempting", "slug_title": "young-and-tempting", "date": "2006-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jezebelle Bond (Serena)", "Beverly Lynne (Claire)", "Mark Weiler (Sam)"], "comments": [], "recommandations_id": []}

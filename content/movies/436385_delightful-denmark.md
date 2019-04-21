@@ -1,0 +1,1 @@
+{"tmdb_id": 436385, "title": "Delightful Denmark", "original_title": "Delightful Denmark", "slug_title": "delightful-denmark", "date": "1953-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

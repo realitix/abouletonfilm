@@ -1,0 +1,1 @@
+{"tmdb_id": 572063, "title": "Arrival of Recruits", "original_title": "Dolazak regruta", "slug_title": "arrival-of-recruits", "date": "1914-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

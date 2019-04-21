@@ -1,0 +1,1 @@
+{"tmdb_id": 316477, "title": "Daddy's Little Darling", "original_title": "Daddy's Little Darling", "slug_title": "daddy-s-little-darling", "date": "1957-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

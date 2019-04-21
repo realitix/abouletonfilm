@@ -1,0 +1,1 @@
+{"tmdb_id": 42948, "title": "What's Up Lovely", "original_title": "What's Up Lovely", "slug_title": "what-s-up-lovely", "date": "2010-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMuIByYFbvHFmINx7CKB1A2TXHT.jpg", "actors": ["Jenn Dees (Luci)"], "comments": [], "recommandations_id": []}

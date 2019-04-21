@@ -1,0 +1,1 @@
+{"tmdb_id": 321627, "title": "Bay Area Block Stars", "original_title": "Bay Area Block Stars", "slug_title": "bay-area-block-stars", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 129034, "title": "Traseros de lujo", "original_title": "Traseros de lujo", "slug_title": "traseros-de-lujo", "date": "2012-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nikki Phoenix ()", "Rebeca Linares ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 340494, "title": "Kaiser Wilhelm arrival to Copenhagen 2.4", "original_title": "Kejser Wilhelms ankomst til Toldboden 2.4", "slug_title": "kaiser-wilhelm-arrival-to-copenhagen-2-4", "date": "1903-05-15", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

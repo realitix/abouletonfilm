@@ -1,0 +1,1 @@
+{"tmdb_id": 68462, "title": "Xtreme Martial Arts", "original_title": "Xtreme Martial Arts", "slug_title": "xtreme-martial-arts", "date": "2003-01-01", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLUYjqItLTtNAUyGNRZAVeMW46U.jpg", "actors": [], "comments": [], "recommandations_id": []}

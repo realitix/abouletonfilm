@@ -1,0 +1,1 @@
+{"tmdb_id": 372923, "title": "A Couple of Trouble", "original_title": "A Couple of Trouble", "slug_title": "a-couple-of-trouble", "date": "1969-04-15", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Justine D'Ore ()"], "comments": [], "recommandations_id": []}

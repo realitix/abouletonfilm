@@ -1,0 +1,1 @@
+{"tmdb_id": 350769, "title": "Lecumberri", "original_title": "Lecumberri", "slug_title": "lecumberri", "date": "1977-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/WL4I80ho5t929z4YT9rz4USm3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

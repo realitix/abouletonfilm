@@ -1,0 +1,1 @@
+{"tmdb_id": 239799, "title": "Squirmfest", "original_title": "Squirmfest", "slug_title": "squirmfest", "date": "1989-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QHbiUmGgkWtSgCfjwGKGgpfsWG.jpg", "actors": ["Asami Momoi ()"], "comments": [], "recommandations_id": []}

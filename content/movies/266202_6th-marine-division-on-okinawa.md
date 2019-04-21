@@ -1,0 +1,1 @@
+{"tmdb_id": 266202, "title": "6th Marine Division on Okinawa", "original_title": "6th Marine Division on Okinawa", "slug_title": "6th-marine-division-on-okinawa", "date": "1945-01-01", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

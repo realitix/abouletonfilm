@@ -1,0 +1,1 @@
+{"tmdb_id": 550380, "title": "Punk Royal - A Brand on the Arse", "original_title": "Punk Royal - A Brand on the Arse", "slug_title": "punk-royal-a-brand-on-the-arse", "date": "2007-01-31", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391240, "title": "Paradisa", "original_title": "Paradisa", "slug_title": "paradisa", "date": "2016-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

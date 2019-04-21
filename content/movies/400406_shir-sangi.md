@@ -1,0 +1,1 @@
+{"tmdb_id": 400406, "title": "Shir Sangi", "original_title": "Shir Sangi", "slug_title": "shir-sangi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

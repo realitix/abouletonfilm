@@ -1,0 +1,1 @@
+{"tmdb_id": 222739, "title": "The Marijuana Logues", "original_title": "The Marijuana Logues", "slug_title": "the-marijuana-logues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

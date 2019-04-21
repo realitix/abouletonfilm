@@ -1,0 +1,1 @@
+{"tmdb_id": 253107, "title": "Like a Puppet Out of Strings", "original_title": "Like a Puppet Out of Strings", "slug_title": "like-a-puppet-out-of-strings", "date": "2006-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

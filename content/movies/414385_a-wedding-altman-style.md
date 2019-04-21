@@ -1,0 +1,1 @@
+{"tmdb_id": 414385, "title": "A Wedding: Altman Style", "original_title": "A Wedding: Altman Style", "slug_title": "a-wedding-altman-style", "date": "2006-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

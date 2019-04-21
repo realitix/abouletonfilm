@@ -1,0 +1,1 @@
+{"tmdb_id": 554048, "title": "\u200fLove and Death\u200f", "original_title": "\u200fLove and Death\u200f", "slug_title": "love-and-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZIiqafz3kDwRrrKMfhclUV1SxR.jpg", "actors": [], "comments": [], "recommandations_id": []}

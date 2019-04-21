@@ -1,0 +1,1 @@
+{"tmdb_id": 422304, "title": "Bagatelle for Willard Maas", "original_title": "Bagatelle for Willard Maas", "slug_title": "bagatelle-for-willard-maas", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

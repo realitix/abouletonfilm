@@ -1,0 +1,1 @@
+{"tmdb_id": 54720, "title": "Killing Kasztner", "original_title": "Killing Kasztner", "slug_title": "killing-kasztner", "date": "2008-10-01", "genre": "Guerre / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpoqCKBa3JYq3Sj1FtsxkT04buG.jpg", "actors": [], "comments": [], "recommandations_id": []}

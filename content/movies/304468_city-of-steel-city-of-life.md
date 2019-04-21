@@ -1,0 +1,1 @@
+{"tmdb_id": 304468, "title": "City of Steel, City of Life", "original_title": "City of Steel, City of Life", "slug_title": "city-of-steel-city-of-life", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

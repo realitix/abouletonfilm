@@ -1,0 +1,1 @@
+{"tmdb_id": 485051, "title": "Bobbi Starr in Rio", "original_title": "Bobbi Starr in Rio", "slug_title": "bobbi-starr-in-rio", "date": "2010-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BjmNVA8IkvjR19zPqyjy8r7h39.jpg", "actors": ["Bobbi Starr (Herself)"], "comments": [], "recommandations_id": []}

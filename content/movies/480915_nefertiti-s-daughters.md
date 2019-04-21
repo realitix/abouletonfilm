@@ -1,0 +1,1 @@
+{"tmdb_id": 480915, "title": "Nefertiti's Daughters", "original_title": "Nefertiti's Daughters", "slug_title": "nefertiti-s-daughters", "date": "2015-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

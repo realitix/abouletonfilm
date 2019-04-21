@@ -1,0 +1,1 @@
+{"tmdb_id": 236846, "title": "Combat Report", "original_title": "Combat Report", "slug_title": "combat-report", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

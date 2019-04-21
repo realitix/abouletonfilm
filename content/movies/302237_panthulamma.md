@@ -1,0 +1,1 @@
+{"tmdb_id": 302237, "title": "Panthulamma", "original_title": "Panthulamma", "slug_title": "panthulamma", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

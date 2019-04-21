@@ -1,0 +1,1 @@
+{"tmdb_id": 372668, "title": "Solit\u00e1rio An\u00f4nimo", "original_title": "Solit\u00e1rio An\u00f4nimo", "slug_title": "solitario-anonimo", "date": "2007-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pllN3gPMGsnU0shc2x3Q23BZXjX.jpg", "actors": [], "comments": [], "recommandations_id": []}

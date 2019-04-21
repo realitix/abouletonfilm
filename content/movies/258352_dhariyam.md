@@ -1,0 +1,1 @@
+{"tmdb_id": 258352, "title": "Dhariyam", "original_title": "Dhariyam", "slug_title": "dhariyam", "date": "2005-02-12", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUB9oFsNH2f2Sy9eeyDjHgOwQTx.jpg", "actors": ["Nitin (Seenu)", "Raima Sen (Mallika)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 501746, "title": "Ernesto, mi amigo", "original_title": "Ernesto, mi amigo", "slug_title": "ernesto-mi-amigo", "date": "1998-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUBbq7f4ZNUi2ZSlJGMwNOLtQ2p.jpg", "actors": [], "comments": [], "recommandations_id": []}

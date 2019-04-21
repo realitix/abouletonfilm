@@ -1,0 +1,1 @@
+{"tmdb_id": 471477, "title": "Chronicles of Humanity: Descent", "original_title": "Chronicles of Humanity: Descent", "slug_title": "chronicles-of-humanity-descent", "date": "2011-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uOC2Ya2z4CiLS66KVt7lUC7eWnI.jpg", "actors": [], "comments": [], "recommandations_id": []}

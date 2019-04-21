@@ -1,0 +1,1 @@
+{"tmdb_id": 334582, "title": "The Other Face of the Island", "original_title": "The Other Face of the Island", "slug_title": "the-other-face-of-the-island", "date": "1969-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

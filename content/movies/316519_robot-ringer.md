@@ -1,0 +1,1 @@
+{"tmdb_id": 316519, "title": "Robot Ringer", "original_title": "Robot Ringer", "slug_title": "robot-ringer", "date": "1962-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

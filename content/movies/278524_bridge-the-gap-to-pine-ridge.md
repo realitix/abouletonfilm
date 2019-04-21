@@ -1,0 +1,1 @@
+{"tmdb_id": 278524, "title": "Bridge the Gap to Pine Ridge", "original_title": "Bridge the Gap to Pine Ridge", "slug_title": "bridge-the-gap-to-pine-ridge", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

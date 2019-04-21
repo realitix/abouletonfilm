@@ -1,0 +1,1 @@
+{"tmdb_id": 201659, "title": "Dodo, boulot, dodo", "original_title": "Tick Tock Tuckered", "slug_title": "dodo-boulot-dodo", "date": "1944-04-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cIdQAafrBQPsNZx9O6qrCYh4ay5.jpg", "actors": ["Mel Blanc (Daffy Duck, Porky Pig)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 244254, "title": "Netavi ik teatri aris?!", "original_title": "Netavi ik teatri aris?!", "slug_title": "netavi-ik-teatri-aris", "date": "2013-08-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjTFqDp7KpGiynQBhs9Simb9bkV.jpg", "actors": [], "comments": [], "recommandations_id": []}

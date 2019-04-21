@@ -1,0 +1,1 @@
+{"tmdb_id": 60480, "title": "Seksdagesl\u00f8bet", "original_title": "Seksdagesl\u00f8bet", "slug_title": "seksdageslobet", "date": "1958-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tIaIcmGIej1g5o96Pit7NLpGNH2.jpg", "actors": [], "comments": [], "recommandations_id": []}

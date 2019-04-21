@@ -1,0 +1,1 @@
+{"tmdb_id": 309867, "title": "Zed Plus", "original_title": "Zed Plus", "slug_title": "zed-plus", "date": "2014-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l24SBUdL2CfHaAwScbplCbqAFRu.jpg", "actors": ["Kulbhushan Kharbanda ()", "Mona Singh ()"], "comments": [], "recommandations_id": []}

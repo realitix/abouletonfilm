@@ -1,0 +1,1 @@
+{"tmdb_id": 453037, "title": "Madcap Magoo", "original_title": "Madcap Magoo", "slug_title": "madcap-magoo", "date": "1955-06-23", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo)", "Jerry Hausner (Waldo)"], "comments": [], "recommandations_id": []}

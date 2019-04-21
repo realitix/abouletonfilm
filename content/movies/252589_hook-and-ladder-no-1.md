@@ -1,0 +1,1 @@
+{"tmdb_id": 252589, "title": "Hook and Ladder No. 1", "original_title": "Hook and Ladder No. 1", "slug_title": "hook-and-ladder-no-1", "date": "1932-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

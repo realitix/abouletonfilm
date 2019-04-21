@@ -1,0 +1,1 @@
+{"tmdb_id": 307127, "title": "Daughters of Dolma", "original_title": "Daughters of Dolma", "slug_title": "daughters-of-dolma", "date": "2013-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

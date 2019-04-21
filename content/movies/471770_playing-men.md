@@ -1,0 +1,1 @@
+{"tmdb_id": 471770, "title": "Playing Men", "original_title": "Playing Men", "slug_title": "playing-men", "date": "2017-09-07", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QSVKMsMLJr5T4u10IsBElJdCQS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 501984, "title": "I Was a Male Yvonne De Carlo", "original_title": "I Was a Male Yvonne De Carlo", "slug_title": "i-was-a-male-yvonne-de-carlo", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Smith ()", "Ondine ()"], "comments": [], "recommandations_id": []}

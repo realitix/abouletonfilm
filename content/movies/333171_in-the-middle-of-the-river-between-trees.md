@@ -1,0 +1,1 @@
+{"tmdb_id": 333171, "title": "In the middle of the River, Between Trees", "original_title": "No meio do rio, entre as \u00e1rvores", "slug_title": "in-the-middle-of-the-river-between-trees", "date": "2015-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

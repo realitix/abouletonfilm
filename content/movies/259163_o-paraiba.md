@@ -1,0 +1,1 @@
+{"tmdb_id": 259163, "title": "O Para\u00edba", "original_title": "O Para\u00edba", "slug_title": "o-paraiba", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

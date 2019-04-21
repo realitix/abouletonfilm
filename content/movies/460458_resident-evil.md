@@ -1,0 +1,1 @@
+{"tmdb_id": 460458, "title": "Resident Evil", "original_title": "Resident Evil", "slug_title": "resident-evil", "date": "2020-12-31", "genre": "Science-Fiction / Action / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [460465, 155129, 453399, 509400]}

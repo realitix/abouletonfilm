@@ -1,0 +1,1 @@
+{"tmdb_id": 433476, "title": "The Unexpected Bar Mitzvah", "original_title": "The Unexpected Bar Mitzvah", "slug_title": "the-unexpected-bar-mitzvah", "date": "2015-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

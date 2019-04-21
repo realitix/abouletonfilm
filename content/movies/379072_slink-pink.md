@@ -1,0 +1,1 @@
+{"tmdb_id": 379072, "title": "Slink Pink", "original_title": "Slink Pink", "slug_title": "slink-pink", "date": "1969-04-01", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2Mer7877qRc6cWhrdbjdRi8Ute.jpg", "actors": [], "comments": [], "recommandations_id": []}

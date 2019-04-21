@@ -1,0 +1,1 @@
+{"tmdb_id": 310041, "title": "Bobby Darin: The Darin Invasion", "original_title": "Bobby Darin: The Darin Invasion", "slug_title": "bobby-darin-the-darin-invasion", "date": "2003-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

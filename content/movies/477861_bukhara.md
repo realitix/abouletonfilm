@@ -1,0 +1,1 @@
+{"tmdb_id": 477861, "title": "Bukhara", "original_title": "Bukhara", "slug_title": "bukhara", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

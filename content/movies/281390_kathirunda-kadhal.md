@@ -1,0 +1,1 @@
+{"tmdb_id": 281390, "title": "Kathirunda Kadhal", "original_title": "Kathirunda Kadhal", "slug_title": "kathirunda-kadhal", "date": "1997-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arun Vijay ()", "Suvalakshmi ()", "Dimple ()"], "comments": [], "recommandations_id": []}

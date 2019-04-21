@@ -1,0 +1,1 @@
+{"tmdb_id": 410243, "title": "Samadhi", "original_title": "Samadhi", "slug_title": "samadhi", "date": "1972-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOxooYFU7l3jzGft4u0jgtqNwd.jpg", "actors": ["Dharmendra ()", "Jaya Bachchan ()", "Asha Parekh ()"], "comments": [], "recommandations_id": []}

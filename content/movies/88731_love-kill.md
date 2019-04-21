@@ -1,0 +1,1 @@
+{"tmdb_id": 88731, "title": "Love & Kill", "original_title": "Love & Kill", "slug_title": "love-kill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

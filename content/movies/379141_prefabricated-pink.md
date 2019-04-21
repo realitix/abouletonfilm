@@ -1,0 +1,1 @@
+{"tmdb_id": 379141, "title": "Prefabricated Pink", "original_title": "Prefabricated Pink", "slug_title": "prefabricated-pink", "date": "1967-11-22", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kl4CAQSoCcyGLJ3cpa5MplOVuL.jpg", "actors": [], "comments": [], "recommandations_id": []}

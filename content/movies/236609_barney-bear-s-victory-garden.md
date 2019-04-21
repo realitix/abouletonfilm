@@ -1,0 +1,1 @@
+{"tmdb_id": 236609, "title": "Barney Bear's Victory Garden", "original_title": "Barney Bear's Victory Garden", "slug_title": "barney-bear-s-victory-garden", "date": "1942-12-25", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IOEr80UYRcTOUq1YH0HOcrNnhQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

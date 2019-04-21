@@ -1,0 +1,1 @@
+{"tmdb_id": 538980, "title": "Inverso", "original_title": "Inverso", "slug_title": "inverso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkaqpa9dWur8RGDj8Ku3YgTHU9u.jpg", "actors": [], "comments": [], "recommandations_id": []}

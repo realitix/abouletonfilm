@@ -1,0 +1,1 @@
+{"tmdb_id": 95695, "title": "The Artist's Dilemma", "original_title": "The Artist's Dilemma", "slug_title": "the-artist-s-dilemma", "date": "1901-12-14", "genre": "Fantastique / Com\u00e9die", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PdH9feWzjZy8qVXFRVYxLGnOfw.jpg", "actors": [], "comments": [], "recommandations_id": []}

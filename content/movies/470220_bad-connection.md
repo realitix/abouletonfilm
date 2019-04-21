@@ -1,0 +1,1 @@
+{"tmdb_id": 470220, "title": "Bad Connection", "original_title": "Bad Connection", "slug_title": "bad-connection", "date": "2014-10-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

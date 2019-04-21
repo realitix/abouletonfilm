@@ -1,0 +1,1 @@
+{"tmdb_id": 337793, "title": "Foreman on a Farm", "original_title": "Sztygar na zagrodzie", "slug_title": "foreman-on-a-farm", "date": "1978-06-21", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qxofsPWhZxdxDyVksrP45lNxwq.jpg", "actors": [], "comments": [], "recommandations_id": []}

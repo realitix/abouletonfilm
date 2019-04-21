@@ -1,0 +1,1 @@
+{"tmdb_id": 348002, "title": "Diary of a Badman", "original_title": "Diary of a Badman", "slug_title": "diary-of-a-badman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

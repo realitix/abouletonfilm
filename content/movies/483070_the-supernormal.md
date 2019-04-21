@@ -1,0 +1,1 @@
+{"tmdb_id": 483070, "title": "The Supernormal", "original_title": "Da mi xin", "slug_title": "the-supernormal", "date": "1992-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nv1QPxpdnVN7g0XGfAoC3IrS8z6.jpg", "actors": ["Edward Lee Gui-Ming ()", "Joyce Ni ()"], "comments": [], "recommandations_id": []}

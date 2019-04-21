@@ -1,0 +1,1 @@
+{"tmdb_id": 203473, "title": "A League of Their Own: The Documentary", "original_title": "A League of Their Own: The Documentary", "slug_title": "a-league-of-their-own-the-documentary", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

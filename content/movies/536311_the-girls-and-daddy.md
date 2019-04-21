@@ -1,0 +1,1 @@
+{"tmdb_id": 536311, "title": "The Girls and Daddy", "original_title": "The Girls and Daddy", "slug_title": "the-girls-and-daddy", "date": "1909-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

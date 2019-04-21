@@ -1,0 +1,1 @@
+{"tmdb_id": 173424, "title": "Blood, Sweat, and Cheers", "original_title": "Blood, Sweat, and Cheers", "slug_title": "blood-sweat-and-cheers", "date": "1987-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Ncgsm3pTSyIOc6PRU2idVbG3vq.jpg", "actors": [], "comments": [], "recommandations_id": []}

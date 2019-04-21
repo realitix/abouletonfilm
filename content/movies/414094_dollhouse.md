@@ -1,0 +1,1 @@
+{"tmdb_id": 414094, "title": "Dollhouse", "original_title": "Khelaghor", "slug_title": "dollhouse", "date": "2006-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQ6YppYq3qO38QfvRbopIXHSc6T.jpg", "actors": [], "comments": [], "recommandations_id": []}

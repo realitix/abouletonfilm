@@ -1,0 +1,1 @@
+{"tmdb_id": 307196, "title": "Asthamayam", "original_title": "Asthamayam", "slug_title": "asthamayam", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

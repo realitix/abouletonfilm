@@ -1,0 +1,1 @@
+{"tmdb_id": 574503, "title": "Back to the Territories: Mid Atlantic", "original_title": "Back to the Territories: Mid Atlantic", "slug_title": "back-to-the-territories-mid-atlantic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Cornette (Himself)", "J.J. Dillon (Himself)"], "comments": [], "recommandations_id": []}

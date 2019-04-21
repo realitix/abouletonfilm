@@ -1,0 +1,1 @@
+{"tmdb_id": 400491, "title": "Hipnosys", "original_title": "Hipnosys", "slug_title": "hipnosys", "date": "2001-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

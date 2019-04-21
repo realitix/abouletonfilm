@@ -1,0 +1,1 @@
+{"tmdb_id": 380572, "title": "City of Jade", "original_title": "\u7fe1\u7fe0\u4e4b\u57ce", "slug_title": "city-of-jade", "date": "2016-02-15", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTZWIY5yDJ3rfvOxqHYU0KtOAxx.jpg", "actors": ["Zhao De-Chin ()"], "comments": [], "recommandations_id": []}

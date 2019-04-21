@@ -1,0 +1,1 @@
+{"tmdb_id": 278151, "title": "B-17: A Mini-Epic", "original_title": "B-17: A Mini-Epic", "slug_title": "b-17-a-mini-epic", "date": "2007-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8au95Z2Wk6tnMHfkyWkgGWv6sJT.jpg", "actors": [], "comments": [], "recommandations_id": []}

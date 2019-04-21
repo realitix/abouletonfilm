@@ -1,0 +1,1 @@
+{"tmdb_id": 402691, "title": "Sacred Spaces", "original_title": "Va Tapuia", "slug_title": "sacred-spaces", "date": "2009-09-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hWoJG8pqf0eo8oUu0hMM2oY4z7z.jpg", "actors": ["Malae Lialiai ()", "Lena Rivers ()"], "comments": [], "recommandations_id": []}

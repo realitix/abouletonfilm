@@ -1,0 +1,1 @@
+{"tmdb_id": 518116, "title": "Mother Fucker", "original_title": "Mother Fucker", "slug_title": "mother-fucker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Bailey (Charles)", "Alison Fraser (Elizabeth)", "Terrence Keene (James)"], "comments": [], "recommandations_id": []}

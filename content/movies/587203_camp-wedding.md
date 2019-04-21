@@ -1,0 +1,1 @@
+{"tmdb_id": 587203, "title": "Camp wedding", "original_title": "Camp wedding", "slug_title": "camp-wedding", "date": "2019-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wyO9LHH5T6DkWqe2FPiGqsMCM6H.jpg", "actors": [], "comments": [], "recommandations_id": []}

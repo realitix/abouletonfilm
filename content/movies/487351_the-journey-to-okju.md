@@ -1,0 +1,1 @@
+{"tmdb_id": 487351, "title": "The Journey to OKJU", "original_title": "\uc625\uc8fc\uae30\ud589", "slug_title": "the-journey-to-okju", "date": "2016-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/45HOdAtsoToISADm9bgSaaKzjtR.jpg", "actors": [], "comments": [], "recommandations_id": []}

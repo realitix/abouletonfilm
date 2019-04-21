@@ -1,0 +1,1 @@
+{"tmdb_id": 429591, "title": "La Leona de Castilla", "original_title": "La Leona de Castilla", "slug_title": "la-leona-de-castilla", "date": "1951-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jdWIRkzBRn2B9Dk04ZJX8FmDcyc.jpg", "actors": ["Amparo Rivelles ()"], "comments": [], "recommandations_id": []}

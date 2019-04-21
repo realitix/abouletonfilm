@@ -1,0 +1,1 @@
+{"tmdb_id": 323835, "title": "Born to Ball: On the Hardwood", "original_title": "Born to Ball: On the Hardwood", "slug_title": "born-to-ball-on-the-hardwood", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

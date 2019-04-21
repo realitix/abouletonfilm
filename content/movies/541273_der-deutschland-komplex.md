@@ -1,0 +1,1 @@
+{"tmdb_id": 541273, "title": "Der Deutschland-Komplex", "original_title": "Der Deutschland-Komplex", "slug_title": "der-deutschland-komplex", "date": "2009-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

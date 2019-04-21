@@ -1,0 +1,1 @@
+{"tmdb_id": 520351, "title": "Tajemstv\u00ed \u010f\u00e1blovy kapsy", "original_title": "Tajemstv\u00ed \u010f\u00e1blovy kapsy", "slug_title": "tajemstvi-dablovy-kapsy", "date": "1980-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

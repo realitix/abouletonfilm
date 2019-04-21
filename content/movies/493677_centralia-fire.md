@@ -1,0 +1,1 @@
+{"tmdb_id": 493677, "title": "Centralia Fire", "original_title": "Centralia Fire", "slug_title": "centralia-fire", "date": "1982-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Sheen (Narrator)"], "comments": [], "recommandations_id": []}

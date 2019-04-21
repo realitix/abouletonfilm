@@ -1,0 +1,1 @@
+{"tmdb_id": 359999, "title": "Super Socceroos", "original_title": "Super Socceroos", "slug_title": "super-socceroos", "date": "2005-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

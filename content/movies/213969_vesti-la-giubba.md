@@ -1,0 +1,1 @@
+{"tmdb_id": 213969, "title": "Vesti La Giubba", "original_title": "Vesti La Giubba", "slug_title": "vesti-la-giubba", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

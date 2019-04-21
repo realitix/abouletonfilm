@@ -1,0 +1,1 @@
+{"tmdb_id": 577379, "title": "Girls Weekend", "original_title": "Girls Weekend", "slug_title": "girls-weekend", "date": "2019-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

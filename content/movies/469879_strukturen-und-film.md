@@ -1,0 +1,1 @@
+{"tmdb_id": 469879, "title": "Strukturen und Film", "original_title": "Strukturen und Film", "slug_title": "strukturen-und-film", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

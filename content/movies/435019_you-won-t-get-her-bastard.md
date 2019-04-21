@@ -1,0 +1,1 @@
+{"tmdb_id": 435019, "title": "You Won't Get Her, Bastard", "original_title": "No te la llevar\u00e1s, maldito", "slug_title": "you-won-t-get-her-bastard", "date": "1989-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBGwupcnCWTDADyZ46hyfRWtzjM.jpg", "actors": [], "comments": [], "recommandations_id": []}

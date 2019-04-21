@@ -1,0 +1,1 @@
+{"tmdb_id": 539495, "title": "Symbiosis", "original_title": "Symbiosis", "slug_title": "symbiosis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philip L. Clarke (Narrator)"], "comments": [], "recommandations_id": []}

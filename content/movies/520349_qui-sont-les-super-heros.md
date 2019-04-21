@@ -1,0 +1,1 @@
+{"tmdb_id": 520349, "title": "Qui sont les super-h\u00e9ros?", "original_title": "Qui sont les super-h\u00e9ros?", "slug_title": "qui-sont-les-super-heros", "date": "2012-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXTlDcbrSiExf7QbFmQYfLijyO2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 193991, "title": "Une vie gaspill\u00e9e", "original_title": "Une vie gaspill\u00e9e", "slug_title": "une-vie-gaspillee", "date": "1910-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

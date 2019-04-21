@@ -1,0 +1,1 @@
+{"tmdb_id": 272177, "title": "Black Woman's Guide to Getting Married", "original_title": "Black Woman's Guide to Getting Married", "slug_title": "black-woman-s-guide-to-getting-married", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

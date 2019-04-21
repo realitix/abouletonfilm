@@ -1,0 +1,1 @@
+{"tmdb_id": 493772, "title": "Swimming", "original_title": "Swimming", "slug_title": "swimming", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTOSTaOomqtEpD5qAxoqMjJI2ui.jpg", "actors": [], "comments": [], "recommandations_id": []}

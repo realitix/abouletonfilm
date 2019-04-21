@@ -1,0 +1,1 @@
+{"tmdb_id": 521478, "title": "Nunca Foi F\u00e1cil", "original_title": "Nunca Foi F\u00e1cil", "slug_title": "nunca-foi-facil", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrade Jr. (V\u00f4)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312571, "title": "Jacques Offenbach: Les Contes d'Hoffmann", "original_title": "Jacques Offenbach: Les Contes d'Hoffmann", "slug_title": "jacques-offenbach-les-contes-d-hoffmann", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

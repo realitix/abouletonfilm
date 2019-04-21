@@ -1,0 +1,1 @@
+{"tmdb_id": 550142, "title": "EUDAEMONIA", "original_title": "EUDAEMONIA", "slug_title": "eudaemonia", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yG3vbiJJIn6ZPkWfqTIiINL1llt.jpg", "actors": ["Amy Everson (Amy)", "Alexandra Nell (Cara)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 430037, "title": "The Wanderer", "original_title": "The Wanderer", "slug_title": "the-wanderer", "date": "1988-09-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

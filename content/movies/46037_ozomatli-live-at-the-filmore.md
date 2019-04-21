@@ -1,0 +1,1 @@
+{"tmdb_id": 46037, "title": "Ozomatli Live at the Filmore", "original_title": "Ozomatli Live at the Filmore", "slug_title": "ozomatli-live-at-the-filmore", "date": "2005-08-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z7WjGHEGVajaudsOT6EXiPqzq7C.jpg", "actors": [], "comments": [], "recommandations_id": []}

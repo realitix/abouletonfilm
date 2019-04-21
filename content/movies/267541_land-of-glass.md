@@ -1,0 +1,1 @@
+{"tmdb_id": 267541, "title": "Land of Glass", "original_title": "Stiklo salis", "slug_title": "land-of-glass", "date": "2005-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8KwOi3HNPNDmjNuqyWKFdLwmXXF.jpg", "actors": [], "comments": [], "recommandations_id": []}

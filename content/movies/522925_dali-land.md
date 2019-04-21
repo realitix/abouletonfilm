@@ -1,0 +1,1 @@
+{"tmdb_id": 522925, "title": "Dali Land", "original_title": "Dali Land", "slug_title": "dali-land", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Kingsley (Salvador Dali)", "Lesley Manville ()", "Tim Roth ()", "Frank Dillane ()", "Ezra Miller (Young Salvador Dali)"], "comments": [], "recommandations_id": []}

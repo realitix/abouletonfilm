@@ -1,0 +1,1 @@
+{"tmdb_id": 368613, "title": "CHIKARA: The Marta Complex", "original_title": "CHIKARA: The Marta Complex", "slug_title": "chikara-the-marta-complex", "date": "2015-09-27", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NHnKPGCVHDd66SBRpa6QLqLyai.jpg", "actors": [], "comments": [], "recommandations_id": []}

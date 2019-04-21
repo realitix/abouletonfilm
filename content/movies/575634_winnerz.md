@@ -1,0 +1,1 @@
+{"tmdb_id": 575634, "title": "Winnerz", "original_title": "Winnerz", "slug_title": "winnerz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5hN8lo1zcXYHBey1sqLABbsZGa.jpg", "actors": ["Christian Keyes ()", "Denyce Lawton ()", "Glenn Plummer ()"], "comments": [], "recommandations_id": []}

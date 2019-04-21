@@ -1,0 +1,1 @@
+{"tmdb_id": 225815, "title": "The Rugby Player", "original_title": "The Rugby Player", "slug_title": "the-rugby-player", "date": "2013-04-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZ66cI0hOmiCHrMg8so9CzdU2lh.jpg", "actors": [], "comments": [], "recommandations_id": []}

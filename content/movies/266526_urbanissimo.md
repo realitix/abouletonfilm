@@ -1,0 +1,1 @@
+{"tmdb_id": 266526, "title": "Urbanissimo", "original_title": "Urbanissimo", "slug_title": "urbanissimo", "date": "1967-11-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwMZ44amJBgNH24Qy9tveutx34L.jpg", "actors": [], "comments": [], "recommandations_id": []}

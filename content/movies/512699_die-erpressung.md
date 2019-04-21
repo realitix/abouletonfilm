@@ -1,0 +1,1 @@
+{"tmdb_id": 512699, "title": "Die Erpressung", "original_title": "Die Erpressung", "slug_title": "die-erpressung", "date": "1990-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dorothea Parton ()", "August Schm\u00f6lzer ()", "Kurt Sowinetz ()"], "comments": [], "recommandations_id": []}

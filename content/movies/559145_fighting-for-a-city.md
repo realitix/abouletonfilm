@@ -1,0 +1,1 @@
+{"tmdb_id": 559145, "title": "Fighting For A City", "original_title": "Fighting For A City", "slug_title": "fighting-for-a-city", "date": "", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6PudtmdQBn2GoBSfkuQEZe9hIdU.jpg", "actors": [], "comments": [], "recommandations_id": [498957, 513360, 561269, 505204]}

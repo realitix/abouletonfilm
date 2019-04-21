@@ -1,0 +1,1 @@
+{"tmdb_id": 426395, "title": "John Cage", "original_title": "John Cage", "slug_title": "john-cage", "date": "1966-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Cage ()", "Merce Cunningham ()"], "comments": [], "recommandations_id": []}

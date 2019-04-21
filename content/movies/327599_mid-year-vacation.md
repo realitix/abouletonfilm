@@ -1,0 +1,1 @@
+{"tmdb_id": 327599, "title": "Mid-Year Vacation", "original_title": "Ajazat Nisf aI-Sana", "slug_title": "mid-year-vacation", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

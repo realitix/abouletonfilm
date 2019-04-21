@@ -1,0 +1,1 @@
+{"tmdb_id": 89784, "title": "Triple Threat", "original_title": "Triple Threat", "slug_title": "triple-threat", "date": "2005-04-13", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpiZoGWseceXDT7HF2S4Qqyej4o.jpg", "actors": [], "comments": [], "recommandations_id": []}

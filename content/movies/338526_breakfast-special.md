@@ -1,0 +1,1 @@
+{"tmdb_id": 338526, "title": "Breakfast Special", "original_title": "Breakfast Special", "slug_title": "breakfast-special", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWbml52aqwKJoHkit4XuZK9Ki1D.jpg", "actors": [], "comments": [], "recommandations_id": []}

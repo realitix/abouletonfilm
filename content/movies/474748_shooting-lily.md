@@ -1,0 +1,1 @@
+{"tmdb_id": 474748, "title": "Shooting Lily", "original_title": "Shooting Lily", "slug_title": "shooting-lily", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKVJXvulP1ph4HKI4gViAytkrEq.jpg", "actors": [], "comments": [], "recommandations_id": []}

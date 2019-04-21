@@ -1,0 +1,1 @@
+{"tmdb_id": 404013, "title": "Exercise a la baionette", "original_title": "Exercise a la baionette", "slug_title": "exercise-a-la-baionette", "date": "1896-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

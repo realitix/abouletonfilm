@@ -1,0 +1,1 @@
+{"tmdb_id": 447716, "title": "The Heirs", "original_title": "Die Erben", "slug_title": "the-heirs", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

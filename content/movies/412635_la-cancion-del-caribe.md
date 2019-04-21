@@ -1,0 +1,1 @@
+{"tmdb_id": 412635, "title": "La canci\u00f3n del Caribe", "original_title": "La canci\u00f3n del Caribe", "slug_title": "la-cancion-del-caribe", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Willy Chevalier ()", "Margarita Estremera ()", "Tony Rigus ()"], "comments": [], "recommandations_id": []}

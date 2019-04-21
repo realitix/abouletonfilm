@@ -1,0 +1,1 @@
+{"tmdb_id": 216905, "title": "Oficina G3 - Depois da Guerra", "original_title": "Oficina G3 - Depois da Guerra", "slug_title": "oficina-g3-depois-da-guerra", "date": "2008-12-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odaAhPEmbHPN98oE5XM62j6su6x.jpg", "actors": [], "comments": [], "recommandations_id": []}

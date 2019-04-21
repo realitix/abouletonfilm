@@ -1,0 +1,1 @@
+{"tmdb_id": 532707, "title": "The Fjords: All In", "original_title": "The Fjords: All In", "slug_title": "the-fjords-all-in", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

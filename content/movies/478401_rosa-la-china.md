@@ -1,0 +1,1 @@
+{"tmdb_id": 478401, "title": "Rosa la China", "original_title": "Rosa la China", "slug_title": "rosa-la-china", "date": "2002-09-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eHvoITPy6UIi9rKkETvdflILOrH.jpg", "actors": [], "comments": [], "recommandations_id": []}

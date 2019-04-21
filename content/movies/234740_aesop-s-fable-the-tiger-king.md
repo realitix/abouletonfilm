@@ -1,0 +1,1 @@
+{"tmdb_id": 234740, "title": "Aesop's Fable: The Tiger King", "original_title": "Aesop's Fable: The Tiger King", "slug_title": "aesop-s-fable-the-tiger-king", "date": "1960-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

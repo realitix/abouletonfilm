@@ -1,0 +1,1 @@
+{"tmdb_id": 300842, "title": "Brian Dunkleman: American Dunkleman", "original_title": "Brian Dunkleman: American Dunkleman", "slug_title": "brian-dunkleman-american-dunkleman", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

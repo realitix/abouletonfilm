@@ -1,0 +1,1 @@
+{"tmdb_id": 524802, "title": "Cracking Life", "original_title": "Cracking Life", "slug_title": "cracking-life", "date": "2013-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

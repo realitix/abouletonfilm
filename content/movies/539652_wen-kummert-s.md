@@ -1,0 +1,1 @@
+{"tmdb_id": 539652, "title": "Wen k\u00fcmmert's?", "original_title": "Wen k\u00fcmmert's?", "slug_title": "wen-kummert-s", "date": "1960-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

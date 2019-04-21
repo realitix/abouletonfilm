@@ -1,0 +1,1 @@
+{"tmdb_id": 535030, "title": "The Neutral Zone", "original_title": "The Neutral Zone", "slug_title": "the-neutral-zone", "date": "2015-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

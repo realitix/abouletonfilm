@@ -1,0 +1,1 @@
+{"tmdb_id": 184718, "title": "Lords of Magick", "original_title": "Lords of Magick", "slug_title": "lords-of-magick", "date": "1989-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qR97xRF57YI3fyhwhXaJFz0W5VF.jpg", "actors": [], "comments": [], "recommandations_id": []}

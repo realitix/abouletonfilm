@@ -1,0 +1,1 @@
+{"tmdb_id": 573118, "title": "Planetopolis", "original_title": "Planetopolis", "slug_title": "planetopolis", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

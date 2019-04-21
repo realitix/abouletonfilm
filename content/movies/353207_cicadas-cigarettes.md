@@ -1,0 +1,1 @@
+{"tmdb_id": 353207, "title": "Cicadas & Cigarettes", "original_title": "Syrsor & Cigaretter", "slug_title": "cicadas-cigarettes", "date": "2012-06-02", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Ternheim ()", "David Ferguson ()", "Matt Sweeney ()"], "comments": [], "recommandations_id": []}

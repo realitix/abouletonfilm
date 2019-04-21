@@ -1,0 +1,1 @@
+{"tmdb_id": 274317, "title": "G\u00fcnter Wand: My Life, My Music", "original_title": "G\u00fcnter Wand: My Life, My Music", "slug_title": "gunter-wand-my-life-my-music", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00fcnter Wand ()"], "comments": [], "recommandations_id": []}

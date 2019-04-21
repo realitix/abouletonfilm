@@ -1,0 +1,1 @@
+{"tmdb_id": 585649, "title": "The Blackwell Ghost 2", "original_title": "The Blackwell Ghost 2", "slug_title": "the-blackwell-ghost-2", "date": "2018-08-04", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42NBSHB4ZP8z9Oxcbec4Fm5oLNN.jpg", "actors": ["Turner Clay ()"], "comments": [], "recommandations_id": []}

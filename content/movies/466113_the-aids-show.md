@@ -1,0 +1,1 @@
+{"tmdb_id": 466113, "title": "The AIDS Show", "original_title": "The AIDS Show", "slug_title": "the-aids-show", "date": "1986-07-12", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

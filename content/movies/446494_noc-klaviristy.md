@@ -1,0 +1,1 @@
+{"tmdb_id": 446494, "title": "Noc klav\u00edristy", "original_title": "Noc klav\u00edristy", "slug_title": "noc-klaviristy", "date": "1977-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdGgufVbiyB16m4GiEKJii3EtZb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349823, "title": "Tapestry", "original_title": "Tapestry", "slug_title": "tapestry", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LefPzglYSf2cURfpGZpLI47n4P.jpg", "actors": ["Lawrence Jordan (Himself)"], "comments": [], "recommandations_id": []}

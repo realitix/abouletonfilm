@@ -1,0 +1,1 @@
+{"tmdb_id": 154025, "title": "Love at the Twilight Motel", "original_title": "Love at the Twilight Motel", "slug_title": "love-at-the-twilight-motel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512260, "title": "John Riley - The Master Drummer", "original_title": "John Riley - The Master Drummer", "slug_title": "john-riley-the-master-drummer", "date": "2009-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwzLSmkpbQSlIONJGWVPxhU0zOV.jpg", "actors": [], "comments": [], "recommandations_id": []}

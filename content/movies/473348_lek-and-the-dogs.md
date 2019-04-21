@@ -1,0 +1,1 @@
+{"tmdb_id": 473348, "title": "Lek and the Dogs", "original_title": "Lek and the Dogs", "slug_title": "lek-and-the-dogs", "date": "2018-06-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIIlt7mbbrtl3mldlLzWpq5KMP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311551, "title": "Eminem: The Glory Years", "original_title": "Eminem: The Glory Years", "slug_title": "eminem-the-glory-years", "date": "2005-05-31", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/djibykCL09h20d1qUG8y4vlSETS.jpg", "actors": [], "comments": [], "recommandations_id": []}

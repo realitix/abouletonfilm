@@ -1,0 +1,1 @@
+{"tmdb_id": 276390, "title": "Mondays with William", "original_title": "Mondays with William", "slug_title": "mondays-with-william", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

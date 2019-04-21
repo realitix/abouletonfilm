@@ -1,0 +1,1 @@
+{"tmdb_id": 304362, "title": "Default Settings", "original_title": "Default Settings", "slug_title": "default-settings", "date": "", "genre": "", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

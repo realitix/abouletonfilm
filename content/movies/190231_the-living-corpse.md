@@ -1,0 +1,1 @@
+{"tmdb_id": 190231, "title": "The Living Corpse", "original_title": "Zhivoy trup", "slug_title": "the-living-corpse", "date": "1929-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mlDjb1Em7KJq13opq1I7D7zCDoo.jpg", "actors": [], "comments": [], "recommandations_id": []}

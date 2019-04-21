@@ -1,0 +1,1 @@
+{"tmdb_id": 361030, "title": "The Yiddisher Boy", "original_title": "The Yiddisher Boy", "slug_title": "the-yiddisher-boy", "date": "1909-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

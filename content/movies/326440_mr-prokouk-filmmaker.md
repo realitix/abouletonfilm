@@ -1,0 +1,1 @@
+{"tmdb_id": 326440, "title": "Mr. Prokouk Filmmaker", "original_title": "Pan Prokouk filmuje", "slug_title": "mr-prokouk-filmmaker", "date": "1948-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRlkR7OrNrBinTWzf5o7nTZNL6H.jpg", "actors": [], "comments": [], "recommandations_id": []}

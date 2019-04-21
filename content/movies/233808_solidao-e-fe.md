@@ -1,0 +1,1 @@
+{"tmdb_id": 233808, "title": "Solid\u00e3o e F\u00e9", "original_title": "Solid\u00e3o e F\u00e9", "slug_title": "solidao-e-fe", "date": "2011-08-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3noJu1PyuEZf8XLaXfljmiK41fR.jpg", "actors": [], "comments": [], "recommandations_id": []}

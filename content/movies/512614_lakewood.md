@@ -1,0 +1,1 @@
+{"tmdb_id": 512614, "title": "Lakewood", "original_title": "Lakewood", "slug_title": "lakewood", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

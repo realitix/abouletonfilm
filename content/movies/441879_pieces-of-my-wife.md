@@ -1,0 +1,1 @@
+{"tmdb_id": 441879, "title": "Pieces of My Wife", "original_title": "Des Morceaux de ma Femme", "slug_title": "pieces-of-my-wife", "date": "2000-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

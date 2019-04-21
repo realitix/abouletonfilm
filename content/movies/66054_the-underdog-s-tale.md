@@ -1,0 +1,1 @@
+{"tmdb_id": 66054, "title": "The Underdog's Tale", "original_title": "The Underdog's Tale", "slug_title": "the-underdog-s-tale", "date": "2007-07-16", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

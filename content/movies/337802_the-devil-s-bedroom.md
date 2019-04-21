@@ -1,0 +1,1 @@
+{"tmdb_id": 337802, "title": "The Devil's Bedroom", "original_title": "The Devil's Bedroom", "slug_title": "the-devil-s-bedroom", "date": "1964-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AqHTsqZ9OQeEfdyPx0WoTrWXwtF.jpg", "actors": [], "comments": [], "recommandations_id": []}

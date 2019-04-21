@@ -1,0 +1,1 @@
+{"tmdb_id": 404310, "title": "Chi \u00e8 Dio", "original_title": "Chi \u00e8 Dio", "slug_title": "chi-e-dio", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeErEe94eEv5S5QqSYilJj2ScbM.jpg", "actors": [], "comments": [], "recommandations_id": []}

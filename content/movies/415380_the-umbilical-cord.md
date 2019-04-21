@@ -1,0 +1,1 @@
+{"tmdb_id": 415380, "title": "The Umbilical Cord", "original_title": "\ud0ef\uc904", "slug_title": "the-umbilical-cord", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/krmvJOuGN87CA12oOP5PvHmL9tj.jpg", "actors": [], "comments": [], "recommandations_id": []}

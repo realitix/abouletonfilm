@@ -1,0 +1,1 @@
+{"tmdb_id": 532412, "title": "Tahir Live", "original_title": "Tahir Live", "slug_title": "tahir-live", "date": "2010-10-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmTpd3rBrHJr36ORvjdC73BfdJR.jpg", "actors": ["Tahir Bilgic ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588880, "title": "Joys of Waiting for the Broadway Bus #4", "original_title": "Joys of Waiting for the Broadway Bus #4", "slug_title": "joys-of-waiting-for-the-broadway-bus-4", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

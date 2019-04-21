@@ -1,0 +1,1 @@
+{"tmdb_id": 341319, "title": "The Adolescents", "original_title": "Los adolescentes", "slug_title": "the-adolescents", "date": "1968-02-02", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIWkChrZzLJKkm0pdouOomDy2NY.jpg", "actors": ["Lucy Gallardo (Lala)", "Julissa (Mar\u00eda)"], "comments": [], "recommandations_id": []}

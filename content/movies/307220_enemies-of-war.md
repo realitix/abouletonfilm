@@ -1,0 +1,1 @@
+{"tmdb_id": 307220, "title": "Enemies of War", "original_title": "Enemies of War", "slug_title": "enemies-of-war", "date": "2001-09-10", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Sheen (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471167, "title": "Frontline: The Real CSI", "original_title": "Frontline: The Real CSI", "slug_title": "frontline-the-real-csi", "date": "2012-04-17", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QvkhnWjSJZtejU0xGNfuLVDpwn.jpg", "actors": [], "comments": [], "recommandations_id": []}

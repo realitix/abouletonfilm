@@ -1,0 +1,1 @@
+{"tmdb_id": 46716, "title": "How Vietnam Was Lost", "original_title": "How Vietnam Was Lost", "slug_title": "how-vietnam-was-lost", "date": "2005-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikqFe9jQIwT2A6GD0BsQmL7TNfQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

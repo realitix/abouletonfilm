@@ -1,0 +1,1 @@
+{"tmdb_id": 312231, "title": "An Evening with Joan Sutherland and Luciano Pavarotti", "original_title": "An Evening with Joan Sutherland and Luciano Pavarotti", "slug_title": "an-evening-with-joan-sutherland-and-luciano-pavarotti", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

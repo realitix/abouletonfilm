@@ -1,0 +1,1 @@
+{"tmdb_id": 501824, "title": "Shakkei. Geborgte Landschaften", "original_title": "Shakkei. Geborgte Landschaften", "slug_title": "shakkei-geborgte-landschaften", "date": "2017-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

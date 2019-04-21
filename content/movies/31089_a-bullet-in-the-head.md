@@ -1,0 +1,1 @@
+{"tmdb_id": 31089, "title": "A Bullet in the Head", "original_title": "A Bullet in the Head", "slug_title": "a-bullet-in-the-head", "date": "1990-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nmwYv8vIGlQQo5sZCWuTo8bhFmy.jpg", "actors": ["Kathy Horner (Witch)"], "comments": [], "recommandations_id": []}

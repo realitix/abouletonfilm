@@ -1,0 +1,1 @@
+{"tmdb_id": 575841, "title": "Mock and Roll", "original_title": "Mock and Roll", "slug_title": "mock-and-roll", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

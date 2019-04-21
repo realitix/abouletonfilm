@@ -1,0 +1,1 @@
+{"tmdb_id": 557541, "title": "Le fils prodigue", "original_title": "Le fils prodigue", "slug_title": "le-fils-prodigue", "date": "1912-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

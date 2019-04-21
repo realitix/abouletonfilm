@@ -1,0 +1,1 @@
+{"tmdb_id": 255208, "title": "Shaolin Kung Fu", "original_title": "Shao Lin gong fu", "slug_title": "shaolin-kung-fu", "date": "1974-04-21", "genre": "Action", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4XKnpUrGNdAdhrYc3Z9CpWEtpP.jpg", "actors": ["Chiang-Lung Wen ()", "Lu Ping ()"], "comments": [], "recommandations_id": []}

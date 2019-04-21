@@ -1,0 +1,1 @@
+{"tmdb_id": 232162, "title": "Basket Ball, Missouri Valley College", "original_title": "Basket Ball, Missouri Valley College", "slug_title": "basket-ball-missouri-valley-college", "date": "1904-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

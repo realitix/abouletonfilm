@@ -1,0 +1,1 @@
+{"tmdb_id": 422161, "title": "Showgirls 3: London Calling", "original_title": "Showgirls 3: London Calling", "slug_title": "showgirls-3-london-calling", "date": "2015-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aU8aAeJNgRgmdxCBIgwK7I1s15b.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311714, "title": "Johnny Legend: Live on the Sunset Strip", "original_title": "Johnny Legend: Live on the Sunset Strip", "slug_title": "johnny-legend-live-on-the-sunset-strip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 476336, "title": "Leper Life Beyond Stigma", "original_title": "Leper Life Beyond Stigma", "slug_title": "leper-life-beyond-stigma", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

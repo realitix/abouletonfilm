@@ -1,0 +1,1 @@
+{"tmdb_id": 583228, "title": "For the Passion of Mankind", "original_title": "For the Passion of Mankind", "slug_title": "for-the-passion-of-mankind", "date": "2016-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

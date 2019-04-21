@@ -1,0 +1,1 @@
+{"tmdb_id": 560462, "title": "Like All Bad Men He Looks Attractive - They Say", "original_title": "Like All Bad Men He Looks Attractive - They Say", "slug_title": "like-all-bad-men-he-looks-attractive-they-say", "date": "2002-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

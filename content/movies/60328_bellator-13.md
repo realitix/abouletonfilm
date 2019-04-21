@@ -1,0 +1,1 @@
+{"tmdb_id": 60328, "title": "Bellator 13", "original_title": "Bellator 13", "slug_title": "bellator-13", "date": "2010-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dKUFze9Lxmtv6ONBFILoL0SqA8u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 521711, "title": "Um Ref\u00fagio Azul", "original_title": "Um Ref\u00fagio Azul", "slug_title": "um-refugio-azul", "date": "2017-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ph5bSVXarzvkubcMayUBlZfOWYs.jpg", "actors": ["Margarida Moreira (N\u00eddia)"], "comments": [], "recommandations_id": []}

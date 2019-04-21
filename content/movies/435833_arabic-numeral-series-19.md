@@ -1,0 +1,1 @@
+{"tmdb_id": 435833, "title": "Arabic Numeral Series 19", "original_title": "Arabic Numeral Series 19", "slug_title": "arabic-numeral-series-19", "date": "1982-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k0chfpPjfDyjA9couLPGHX8gCIj.jpg", "actors": [], "comments": [], "recommandations_id": []}

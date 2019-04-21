@@ -1,0 +1,1 @@
+{"tmdb_id": 255693, "title": "The Struggling Ants", "original_title": "\u72c2\u5954\u8682\u8681", "slug_title": "the-struggling-ants", "date": "2012-05-25", "genre": "Com\u00e9die / Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/331MLCkBe69HgUhaoUOYURNPA7n.jpg", "actors": [], "comments": [], "recommandations_id": []}

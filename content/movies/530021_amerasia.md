@@ -1,0 +1,1 @@
+{"tmdb_id": 530021, "title": "Amerasia", "original_title": "Amerasia", "slug_title": "amerasia", "date": "1985-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

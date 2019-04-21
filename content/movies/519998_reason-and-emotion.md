@@ -1,0 +1,1 @@
+{"tmdb_id": 519998, "title": "Reason and Emotion", "original_title": "Rozum a cit", "slug_title": "reason-and-emotion", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

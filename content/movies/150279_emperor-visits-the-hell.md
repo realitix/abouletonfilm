@@ -1,0 +1,1 @@
+{"tmdb_id": 150279, "title": "Emperor Visits the Hell", "original_title": "Tang huang you difu", "slug_title": "emperor-visits-the-hell", "date": "2012-10-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8B94O5BupIZPpYT2fH1IgGycyH.jpg", "actors": [], "comments": [], "recommandations_id": []}

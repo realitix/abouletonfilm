@@ -1,0 +1,1 @@
+{"tmdb_id": 73803, "title": "Murder", "original_title": "Satsujin - Murder", "slug_title": "murder", "date": "1964-01-01", "genre": "Animation / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

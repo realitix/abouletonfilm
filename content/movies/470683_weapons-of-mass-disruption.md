@@ -1,0 +1,1 @@
+{"tmdb_id": 470683, "title": "Weapons of Mass Disruption", "original_title": "Weapons of Mass Disruption", "slug_title": "weapons-of-mass-disruption", "date": "2012-08-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrE1bLduP9OVUicflW124WwjHhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

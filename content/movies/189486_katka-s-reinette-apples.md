@@ -1,0 +1,1 @@
+{"tmdb_id": 189486, "title": "Katka's Reinette Apples", "original_title": "Katka-bumazhnyy ranet", "slug_title": "katka-s-reinette-apples", "date": "1926-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zP3Mnd2F28GtQQvF0WKwTuXhSF6.jpg", "actors": [], "comments": [], "recommandations_id": []}

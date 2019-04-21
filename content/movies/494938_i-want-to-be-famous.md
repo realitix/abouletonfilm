@@ -1,0 +1,1 @@
+{"tmdb_id": 494938, "title": "I Want to Be Famous", "original_title": "I Want to Be Famous", "slug_title": "i-want-to-be-famous", "date": "1976-07-07", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1jeNMYmwontM0SMsobMO3TOrO1U.jpg", "actors": [], "comments": [], "recommandations_id": []}

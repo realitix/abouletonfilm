@@ -1,0 +1,1 @@
+{"tmdb_id": 275726, "title": "Crusty 9: Nine Lives of Crusty", "original_title": "Crusty 9: Nine Lives of Crusty", "slug_title": "crusty-9-nine-lives-of-crusty", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

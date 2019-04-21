@@ -1,0 +1,1 @@
+{"tmdb_id": 404780, "title": "Calle Uno", "original_title": "Calle Uno", "slug_title": "calle-uno", "date": "2016-04-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Esteban Ruiz ()", "Julio Ramos ()", "Jos\u00e9 Negr\u00f3n ()", "Juliana Himet ()"], "comments": [], "recommandations_id": []}

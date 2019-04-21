@@ -1,0 +1,1 @@
+{"tmdb_id": 519416, "title": "Bad Bride", "original_title": "Bad Bride", "slug_title": "bad-bride", "date": "1984-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bunny Bleu ()", "Misty Regan ()", "Misty Dawn ()", "Ron Jeremy ()", "David Sanders ()"], "comments": [], "recommandations_id": []}

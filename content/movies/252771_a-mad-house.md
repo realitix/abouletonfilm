@@ -1,0 +1,1 @@
+{"tmdb_id": 252771, "title": "A Mad House", "original_title": "A Mad House", "slug_title": "a-mad-house", "date": "1934-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

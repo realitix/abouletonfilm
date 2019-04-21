@@ -1,0 +1,1 @@
+{"tmdb_id": 316501, "title": "The Social Side of Health", "original_title": "The Social Side of Health", "slug_title": "the-social-side-of-health", "date": "1969-01-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTVtqPPBDUC8UT61EmfwX5IrVgf.jpg", "actors": [], "comments": [], "recommandations_id": []}

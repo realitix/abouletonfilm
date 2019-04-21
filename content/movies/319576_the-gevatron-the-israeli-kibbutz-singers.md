@@ -1,0 +1,1 @@
+{"tmdb_id": 319576, "title": "The Gevatron: The Israeli Kibbutz Singers", "original_title": "The Gevatron: The Israeli Kibbutz Singers", "slug_title": "the-gevatron-the-israeli-kibbutz-singers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

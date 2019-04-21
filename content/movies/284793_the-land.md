@@ -1,0 +1,1 @@
+{"tmdb_id": 284793, "title": "The Land", "original_title": "The Land", "slug_title": "the-land", "date": "1942-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h37dbewlDCEgSDXhViBvlXGrhFO.jpg", "actors": ["Robert J. Flaherty ()"], "comments": [], "recommandations_id": []}

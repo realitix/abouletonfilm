@@ -1,0 +1,1 @@
+{"tmdb_id": 18766, "title": "Ben Hogan: The Golf Swing", "original_title": "Ben Hogan: The Golf Swing", "slug_title": "ben-hogan-the-golf-swing", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ei9rDMuXWas6UmKbJ2113DTYjcj.jpg", "actors": [], "comments": [], "recommandations_id": []}

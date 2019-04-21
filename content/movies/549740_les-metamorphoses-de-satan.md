@@ -1,0 +1,1 @@
+{"tmdb_id": 549740, "title": "Les m\u00e9tamorphoses de Satan", "original_title": "Les m\u00e9tamorphoses de Satan", "slug_title": "les-metamorphoses-de-satan", "date": "1898-09-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bretteau (M\u00e9phistophel\u00e8s)"], "comments": [], "recommandations_id": []}

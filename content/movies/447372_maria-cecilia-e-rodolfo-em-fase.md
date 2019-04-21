@@ -1,0 +1,1 @@
+{"tmdb_id": 447372, "title": "MARIA CECILIA E RODOLFO EM FASE", "original_title": "MARIA CECILIA E RODOLFO EM FASE", "slug_title": "maria-cecilia-e-rodolfo-em-fase", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7J5rWMMgsXW4Tzl2aasullniLsF.jpg", "actors": [], "comments": [], "recommandations_id": []}

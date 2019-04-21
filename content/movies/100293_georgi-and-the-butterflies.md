@@ -1,0 +1,1 @@
+{"tmdb_id": 100293, "title": "Georgi and the butterflies", "original_title": "Georgi and the butterflies", "slug_title": "georgi-and-the-butterflies", "date": "2004-11-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3aGveDbFcGLzgEfAHLEb5cUr0Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

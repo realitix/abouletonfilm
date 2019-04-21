@@ -1,0 +1,1 @@
+{"tmdb_id": 518821, "title": "Caro Nanni", "original_title": "Caro Nanni", "slug_title": "caro-nanni", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nanni Moretti (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 287025, "title": "Barney: Let's Play School!", "original_title": "Barney: Let's Play School!", "slug_title": "barney-let-s-play-school", "date": "1999-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olMmBg10ymdxenkZb1FZgaGvWav.jpg", "actors": [], "comments": [], "recommandations_id": []}

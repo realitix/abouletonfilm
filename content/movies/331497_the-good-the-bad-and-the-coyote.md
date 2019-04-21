@@ -1,0 +1,1 @@
+{"tmdb_id": 331497, "title": "The Good, the Bad and the Coyote", "original_title": "The Good, the Bad and the Coyote", "slug_title": "the-good-the-bad-and-the-coyote", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

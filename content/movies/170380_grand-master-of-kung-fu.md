@@ -1,0 +1,1 @@
+{"tmdb_id": 170380, "title": "Grand Master Of Kung Fu", "original_title": "Da mo shen gong", "slug_title": "grand-master-of-kung-fu", "date": "1981-10-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LObxKK1XCEAKnJ4slRveoNShsL.jpg", "actors": ["Philip Cheung ()"], "comments": [], "recommandations_id": []}

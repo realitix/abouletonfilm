@@ -1,0 +1,1 @@
+{"tmdb_id": 555934, "title": "Shoulder to Shoulder", "original_title": "Shoulder to Shoulder", "slug_title": "shoulder-to-shoulder", "date": "2018-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

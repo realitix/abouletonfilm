@@ -1,0 +1,1 @@
+{"tmdb_id": 549913, "title": "Da qui all'eredit\u00e0", "original_title": "Da qui all'eredit\u00e0", "slug_title": "da-qui-all-eredita", "date": "1955-01-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJUBqfgqBYwYOAWE1o3QA1RMlVP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386384, "title": "349 (for Sol LeWitt)", "original_title": "349 (for Sol LeWitt)", "slug_title": "349-for-sol-lewitt", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evCf0Dr7mSGJlTC7OYTKJaduYx1.jpg", "actors": [], "comments": [], "recommandations_id": []}

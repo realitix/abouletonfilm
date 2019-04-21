@@ -1,0 +1,1 @@
+{"tmdb_id": 280709, "title": "Blagoslovennaya Bukhara", "original_title": "Blagoslovennaya Bukhara", "slug_title": "blagoslovennaya-bukhara", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ato Mukhamedzhanov ()", "Umed Sadykov ()", "Mukhammad Ali ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 416216, "title": "Derek Jarman Conversations", "original_title": "Derek Jarman conversazioni", "slug_title": "derek-jarman-conversations", "date": "1993-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Derek Jarman (Himself)"], "comments": [], "recommandations_id": []}

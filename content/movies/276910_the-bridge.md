@@ -1,0 +1,1 @@
+{"tmdb_id": 276910, "title": "The Bridge", "original_title": "The Bridge", "slug_title": "the-bridge", "date": "2014-06-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486111, "title": "Two Lies", "original_title": "Two Lies", "slug_title": "two-lies", "date": "1990-03-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sala Iwamatsu ()"], "comments": [], "recommandations_id": []}

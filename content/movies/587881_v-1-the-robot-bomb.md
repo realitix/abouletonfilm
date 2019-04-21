@@ -1,0 +1,1 @@
+{"tmdb_id": 587881, "title": "V-1: The Robot Bomb", "original_title": "V-1: The Robot Bomb", "slug_title": "v-1-the-robot-bomb", "date": "1944-11-17", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481763, "title": "The Boy & A Great River", "original_title": "Kuzuryuugawa to Shounen", "slug_title": "the-boy-a-great-river", "date": "1998-10-01", "genre": "Animation / Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

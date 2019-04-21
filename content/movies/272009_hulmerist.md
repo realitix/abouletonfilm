@@ -1,0 +1,1 @@
+{"tmdb_id": 272009, "title": "Hulmerist", "original_title": "Hulmerist", "slug_title": "hulmerist", "date": "1991-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCXJrw4mZ11FmhUoeu7md8enSTI.jpg", "actors": ["Morrissey ()"], "comments": [], "recommandations_id": []}

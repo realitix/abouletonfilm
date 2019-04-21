@@ -1,0 +1,1 @@
+{"tmdb_id": 18715, "title": "Giai Cuu Than Chet", "original_title": "Giai Cuu Than Chet", "slug_title": "giai-cuu-than-chet", "date": "2009-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFvhg3hvbcfNvXyCWBK7ametEEp.jpg", "actors": [], "comments": [], "recommandations_id": []}

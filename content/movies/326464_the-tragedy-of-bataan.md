@@ -1,0 +1,1 @@
+{"tmdb_id": 326464, "title": "The Tragedy of Bataan", "original_title": "The Tragedy of Bataan", "slug_title": "the-tragedy-of-bataan", "date": "2011-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

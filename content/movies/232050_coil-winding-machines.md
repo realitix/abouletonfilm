@@ -1,0 +1,1 @@
+{"tmdb_id": 232050, "title": "Coil Winding Machines", "original_title": "Coil Winding Machines", "slug_title": "coil-winding-machines", "date": "1904-04-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 74582, "title": "Aline Barros & Cia", "original_title": "Aline Barros & Cia", "slug_title": "aline-barros-cia", "date": "", "genre": "Musique / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bqkzo8JZmxLu8hYCpGlPKDCCEn0.jpg", "actors": [], "comments": [], "recommandations_id": []}

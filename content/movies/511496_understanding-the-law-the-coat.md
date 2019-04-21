@@ -1,0 +1,1 @@
+{"tmdb_id": 511496, "title": "Understanding the Law: The Coat", "original_title": "Understanding the Law: The Coat", "slug_title": "understanding-the-law-the-coat", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvQRi1XsZdvcAZBHVBGZBNfoflX.jpg", "actors": [], "comments": [], "recommandations_id": []}

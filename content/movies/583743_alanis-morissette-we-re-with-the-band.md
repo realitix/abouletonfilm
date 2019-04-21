@@ -1,0 +1,1 @@
+{"tmdb_id": 583743, "title": "Alanis Morissette: We're with the Band", "original_title": "Alanis Morissette: We're with the Band", "slug_title": "alanis-morissette-we-re-with-the-band", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alanis Morissette (herself)"], "comments": [], "recommandations_id": []}

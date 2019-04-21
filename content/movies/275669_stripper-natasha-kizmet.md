@@ -1,0 +1,1 @@
+{"tmdb_id": 275669, "title": "Stripper: Natasha Kizmet", "original_title": "Stripper: Natasha Kizmet", "slug_title": "stripper-natasha-kizmet", "date": "2011-07-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

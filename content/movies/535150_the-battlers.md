@@ -1,0 +1,1 @@
+{"tmdb_id": 535150, "title": "The Battlers", "original_title": "The Battlers", "slug_title": "the-battlers", "date": "1994-07-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gary Sweet (Snow)", "Jacqueline McKenzie (Dancy Grimshaw)"], "comments": [], "recommandations_id": []}

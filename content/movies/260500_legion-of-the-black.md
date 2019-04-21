@@ -1,0 +1,1 @@
+{"tmdb_id": 260500, "title": "Legion of the Black", "original_title": "Legion of the Black", "slug_title": "legion-of-the-black", "date": "2012-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tXkQeFAdWVgSeI5cSc9eQi72QC.jpg", "actors": [], "comments": [], "recommandations_id": []}

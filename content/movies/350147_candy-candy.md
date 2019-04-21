@@ -1,0 +1,1 @@
+{"tmdb_id": 350147, "title": "Candy Candy", "original_title": "\uce94\ub514 \uce94\ub514", "slug_title": "candy-candy", "date": "1981-07-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

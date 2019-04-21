@@ -1,0 +1,1 @@
+{"tmdb_id": 365334, "title": "Flowers Will Bloom In Tohoku", "original_title": "\u82b1\u306f\u54b2\u304f \u6771\u5317\u306b\u54b2\u304f", "slug_title": "flowers-will-bloom-in-tohoku", "date": "2014-09-08", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

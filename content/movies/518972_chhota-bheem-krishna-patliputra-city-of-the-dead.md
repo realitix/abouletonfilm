@@ -1,0 +1,1 @@
+{"tmdb_id": 518972, "title": "Chhota Bheem & Krishna: Patliputra- City of the Dead", "original_title": "Chhota Bheem & Krishna: Patliputra- City of the Dead", "slug_title": "chhota-bheem-krishna-patliputra-city-of-the-dead", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

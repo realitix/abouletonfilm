@@ -1,0 +1,1 @@
+{"tmdb_id": 452352, "title": "The Decade You Were Born: The 60s", "original_title": "The Decade You Were Born: The 60s", "slug_title": "the-decade-you-were-born-the-60s", "date": "2011-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

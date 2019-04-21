@@ -1,0 +1,1 @@
+{"tmdb_id": 411427, "title": "Aurelia", "original_title": "Aurelia", "slug_title": "aurelia", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQdAWhbi6LKcWboLI9LNrqe9pwC.jpg", "actors": ["Cordelia Gonz\u00e1lez ()"], "comments": [], "recommandations_id": []}

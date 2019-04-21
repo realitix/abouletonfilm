@@ -1,0 +1,1 @@
+{"tmdb_id": 180355, "title": "Hostage Crisis Massacre", "original_title": "Hostage Crisis Massacre", "slug_title": "hostage-crisis-massacre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1noSGYDy0pBLBrJpMuZ3sY1u7cm.jpg", "actors": [], "comments": [], "recommandations_id": []}

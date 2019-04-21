@@ -1,0 +1,1 @@
+{"tmdb_id": 323770, "title": "Kumbaya: The End of the Road Project", "original_title": "Kumbaya: The End of the Road Project", "slug_title": "kumbaya-the-end-of-the-road-project", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

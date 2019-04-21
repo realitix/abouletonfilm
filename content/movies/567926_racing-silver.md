@@ -1,0 +1,1 @@
+{"tmdb_id": 567926, "title": "Racing Silver", "original_title": "Racing Silver", "slug_title": "racing-silver", "date": "1985-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yN7tj3XQ2uU7PXcNMIQBBDzX7hp.jpg", "actors": ["Neville Hay (Narrator)"], "comments": [], "recommandations_id": []}

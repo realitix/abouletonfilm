@@ -1,0 +1,1 @@
+{"tmdb_id": 568405, "title": "Rol\u00ea no Centro", "original_title": "Rol\u00ea no Centro", "slug_title": "role-no-centro", "date": "2018-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

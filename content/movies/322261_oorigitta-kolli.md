@@ -1,0 +1,1 @@
+{"tmdb_id": 322261, "title": "Oorigitta Kolli", "original_title": "Oorigitta Kolli", "slug_title": "oorigitta-kolli", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

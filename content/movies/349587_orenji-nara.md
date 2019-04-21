@@ -1,0 +1,1 @@
+{"tmdb_id": 349587, "title": "\uc624\ub80c\uc9c0 \ub098\ub77c", "original_title": "\uc624\ub80c\uc9c0 \ub098\ub77c", "slug_title": "orenji-nara", "date": "1993-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

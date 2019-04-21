@@ -1,0 +1,1 @@
+{"tmdb_id": 589380, "title": "My Dads, My Moms, and Me", "original_title": "My Dads, My Moms, and Me", "slug_title": "my-dads-my-moms-and-me", "date": "2019-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ru5Kp7cnt5jwmQA1frg26H8POH3.jpg", "actors": [], "comments": [], "recommandations_id": []}

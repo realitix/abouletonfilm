@@ -1,0 +1,1 @@
+{"tmdb_id": 232223, "title": "Striptease", "original_title": "Striptease", "slug_title": "striptease", "date": "1977-06-01", "genre": "Animation / Com\u00e9die", "score": "6.4/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [90827, 360304, 224444, 227464]}

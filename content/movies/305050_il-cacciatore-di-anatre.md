@@ -1,0 +1,1 @@
+{"tmdb_id": 305050, "title": "IL CACCIATORE DI ANATRE", "original_title": "IL CACCIATORE DI ANATRE", "slug_title": "il-cacciatore-di-anatre", "date": "2010-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

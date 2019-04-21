@@ -1,0 +1,1 @@
+{"tmdb_id": 143795, "title": "War and Peace", "original_title": "War and Peace", "slug_title": "war-and-peace", "date": "2002-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A39daNNbYj3C8PL7rbQO8RCxqzz.jpg", "actors": ["Anand Patwardhan (Narrator)"], "comments": [], "recommandations_id": []}

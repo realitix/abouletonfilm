@@ -1,0 +1,1 @@
+{"tmdb_id": 398411, "title": "Jim Thompson: The Man & the Legend", "original_title": "Jim Thompson: The Man & the Legend", "slug_title": "jim-thompson-the-man-the-legend", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

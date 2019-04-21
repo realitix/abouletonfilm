@@ -1,0 +1,1 @@
+{"tmdb_id": 417777, "title": "Playing Poseidon", "original_title": "Playing Poseidon", "slug_title": "playing-poseidon", "date": "1996-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

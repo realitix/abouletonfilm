@@ -1,0 +1,1 @@
+{"tmdb_id": 553335, "title": "The String Bean", "original_title": "Le Haricot", "slug_title": "the-string-bean", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UG8jSgizNwL3qAtwwEfktUMnhW.jpg", "actors": [], "comments": [], "recommandations_id": []}

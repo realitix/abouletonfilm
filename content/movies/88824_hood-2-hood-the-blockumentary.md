@@ -1,0 +1,1 @@
+{"tmdb_id": 88824, "title": "Hood 2 Hood: The Blockumentary", "original_title": "Hood 2 Hood: The Blockumentary", "slug_title": "hood-2-hood-the-blockumentary", "date": "2005-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hyndc1jXGbNcdLsK0XF1fScf4Y3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 286009, "title": "Mi ni\u00f1o Tizoc", "original_title": "Mi ni\u00f1o Tizoc", "slug_title": "mi-nino-tizoc", "date": "1972-07-13", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oJ8zhjR3HLK2OGGEeTcGLPwo6G.jpg", "actors": [], "comments": [], "recommandations_id": []}

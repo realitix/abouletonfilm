@@ -1,0 +1,1 @@
+{"tmdb_id": 73794, "title": "Fotbollens sista prolet\u00e4rer", "original_title": "Fotbollens sista prolet\u00e4rer", "slug_title": "fotbollens-sista-proletarer", "date": "2011-04-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sL46pVKHBR35zUjfmH9UmCOUCcX.jpg", "actors": [], "comments": [], "recommandations_id": []}

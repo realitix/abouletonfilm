@@ -1,0 +1,1 @@
+{"tmdb_id": 37120, "title": "Jumping With Jussi", "original_title": "Jumping With Jussi", "slug_title": "jumping-with-jussi", "date": "2006-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFyoc0nm380TFRliFPGmoh0vBCa.jpg", "actors": ["Jussi Oksanen ()"], "comments": [], "recommandations_id": []}

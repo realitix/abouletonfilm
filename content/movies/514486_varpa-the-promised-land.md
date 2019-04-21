@@ -1,0 +1,1 @@
+{"tmdb_id": 514486, "title": "V\u0101rpa \u2013 The Promised Land", "original_title": "V\u0101rpa \u2013 The Promised Land", "slug_title": "varpa-the-promised-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oALErGyWmb8pFBJTNzrAyO7YlwG.jpg", "actors": [], "comments": [], "recommandations_id": []}

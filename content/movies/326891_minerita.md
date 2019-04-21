@@ -1,0 +1,1 @@
+{"tmdb_id": 326891, "title": "Minerita", "original_title": "Minerita", "slug_title": "minerita", "date": "2013-09-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Y5U37wTEbqeI7gDGLYoogC6DHB.jpg", "actors": [], "comments": [], "recommandations_id": []}

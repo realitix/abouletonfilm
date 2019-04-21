@@ -1,0 +1,1 @@
+{"tmdb_id": 392006, "title": "Atlantis Expedition", "original_title": "Expedici\u00f3n Atlantis", "slug_title": "atlantis-expedition", "date": "1988-05-19", "genre": "Aventure / Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

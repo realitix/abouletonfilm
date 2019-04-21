@@ -1,0 +1,1 @@
+{"tmdb_id": 297516, "title": "Sexy Beasts: Vamps, Wolves and Mutants", "original_title": "Sexy Beasts: Vamps, Wolves and Mutants", "slug_title": "sexy-beasts-vamps-wolves-and-mutants", "date": "2010-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

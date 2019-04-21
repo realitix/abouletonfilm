@@ -1,0 +1,1 @@
+{"tmdb_id": 347568, "title": "Rough and Ready Reggie", "original_title": "Rough and Ready Reggie", "slug_title": "rough-and-ready-reggie", "date": "1917-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victor Moore (Reggie)", "Emma Littlefield ()", "Davy Don ()"], "comments": [], "recommandations_id": []}

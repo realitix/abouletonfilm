@@ -1,0 +1,1 @@
+{"tmdb_id": 553390, "title": "Comando del Diablo 2", "original_title": "Comando del Diablo 2", "slug_title": "comando-del-diablo-2", "date": "2011-12-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/giW13AJUJEnsJs8yRN2pMeuMX2B.jpg", "actors": [], "comments": [], "recommandations_id": []}

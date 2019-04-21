@@ -1,0 +1,1 @@
+{"tmdb_id": 391393, "title": "Mr. Smith, Barber", "original_title": "Mr. Smith, Barber", "slug_title": "mr-smith-barber", "date": "1912-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

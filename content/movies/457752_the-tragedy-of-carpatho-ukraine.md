@@ -1,0 +1,1 @@
+{"tmdb_id": 457752, "title": "The Tragedy of Carpatho-Ukraine", "original_title": "The Tragedy of Carpatho-Ukraine", "slug_title": "the-tragedy-of-carpatho-ukraine", "date": "1940-03-01", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

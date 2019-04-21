@@ -1,0 +1,1 @@
+{"tmdb_id": 571972, "title": "Asnaviram", "original_title": "Asnaviram", "slug_title": "asnaviram", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court film de Michel Bulteau", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40uMQHytHVgZ0EAGjub1uqMEzeE.jpg", "actors": [], "comments": [], "recommandations_id": []}

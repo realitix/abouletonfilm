@@ -1,0 +1,1 @@
+{"tmdb_id": 84433, "title": "H.I.M Rock Am Ring 2010", "original_title": "H.I.M Rock Am Ring 2010", "slug_title": "h-i-m-rock-am-ring-2010", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sElNwJjboquQ7zZ90phzR8HKpdj.jpg", "actors": [], "comments": [], "recommandations_id": []}

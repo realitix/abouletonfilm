@@ -1,0 +1,1 @@
+{"tmdb_id": 248557, "title": "Zombies Reborn", "original_title": "Wu Jian Zui", "slug_title": "zombies-reborn", "date": "2012-11-01", "genre": "Horreur / Science-Fiction", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y2FLkJrVQXPkUgJYdXVQVSlt75N.jpg", "actors": [], "comments": [], "recommandations_id": []}

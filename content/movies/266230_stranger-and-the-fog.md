@@ -1,0 +1,1 @@
+{"tmdb_id": 266230, "title": "Stranger and the Fog", "original_title": "Gharibeh Va Meh", "slug_title": "stranger-and-the-fog", "date": "1976-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aDXaMB4dNBK7vSAxez1WFmjeXns.jpg", "actors": [], "comments": [], "recommandations_id": []}

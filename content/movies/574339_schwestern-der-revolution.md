@@ -1,0 +1,1 @@
+{"tmdb_id": 574339, "title": "Schwestern der Revolution", "original_title": "Schwestern der Revolution", "slug_title": "schwestern-der-revolution", "date": "1969-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carla Egerer ()", "Dietmar Kracht ()", "Werner Schroeter ()"], "comments": [], "recommandations_id": []}

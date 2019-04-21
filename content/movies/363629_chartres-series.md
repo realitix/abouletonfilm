@@ -1,0 +1,1 @@
+{"tmdb_id": 363629, "title": "Chartres Series", "original_title": "Chartres Series", "slug_title": "chartres-series", "date": "1994-06-15", "genre": "", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6mIuNTTo2Wy49TBAAlTNB1acqbU.jpg", "actors": [], "comments": [], "recommandations_id": [289849, 154815, 363496, 154410]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 222589, "title": "Thrills and Chills", "original_title": "Thrills and Chills", "slug_title": "thrills-and-chills", "date": "1938-12-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRLyQell5BbhJ7EfRhwHlGdyfFo.jpg", "actors": ["Margie Hines (Betty Boop)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 357832, "title": "The Neo-Fascist Trilogy III", "original_title": "The Neo-Fascist Trilogy III", "slug_title": "the-neo-fascist-trilogy-iii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

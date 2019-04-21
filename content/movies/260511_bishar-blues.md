@@ -1,0 +1,1 @@
+{"tmdb_id": 260511, "title": "Bishar Blues", "original_title": "Bishar Blues", "slug_title": "bishar-blues", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLIdNFHsdcRfsUHRPYGUzmRkXan.jpg", "actors": [], "comments": [], "recommandations_id": []}

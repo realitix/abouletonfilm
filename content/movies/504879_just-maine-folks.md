@@ -1,0 +1,1 @@
+{"tmdb_id": 504879, "title": "Just Maine Folks", "original_title": "Just Maine Folks", "slug_title": "just-maine-folks", "date": "1912-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Myers (Harry Lang)", "Ethel Clayton (Ethel Walters)"], "comments": [], "recommandations_id": []}

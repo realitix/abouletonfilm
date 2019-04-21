@@ -1,0 +1,1 @@
+{"tmdb_id": 555101, "title": "Obscurus Legatus", "original_title": "Obscurus Legatus", "slug_title": "obscurus-legatus", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Markus Dittrich ()", "Volker Mechta ()", "Ben Ruhland ()", "Volker Sell ()", "Marc Tom Felde ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 443225, "title": "Kikuchi", "original_title": "Kikuchi", "slug_title": "kikuchi", "date": "1991-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

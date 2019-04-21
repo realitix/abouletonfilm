@@ -1,0 +1,1 @@
+{"tmdb_id": 353078, "title": "Secrets of the Mongolian Archers", "original_title": "Secrets of the Mongolian Archers", "slug_title": "secrets-of-the-mongolian-archers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jantsan Gantugs (Himself)"], "comments": [], "recommandations_id": []}

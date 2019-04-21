@@ -1,0 +1,1 @@
+{"tmdb_id": 321725, "title": "Revenge of a Mother", "original_title": "\uc5c4\ub9c8\uc758 \ud55c", "slug_title": "revenge-of-a-mother", "date": "1970-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heo Jang-gang ()", "Kim Ji-su ()", "Kim Jung-hoon ()", "Do Kum-bong ()"], "comments": [], "recommandations_id": []}

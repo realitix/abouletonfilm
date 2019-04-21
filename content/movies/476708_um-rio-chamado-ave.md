@@ -1,0 +1,1 @@
+{"tmdb_id": 476708, "title": "Um Rio Chamado Ave", "original_title": "Um Rio Chamado Ave", "slug_title": "um-rio-chamado-ave", "date": "2012-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

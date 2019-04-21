@@ -1,0 +1,1 @@
+{"tmdb_id": 468252, "title": "Utopia Blues", "original_title": "Utopia Blues", "slug_title": "utopia-blues", "date": "2000-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwIuiMyXksDO41ZUG5vkJLhBQj6.jpg", "actors": [], "comments": [], "recommandations_id": []}

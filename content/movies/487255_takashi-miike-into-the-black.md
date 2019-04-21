@@ -1,0 +1,1 @@
+{"tmdb_id": 487255, "title": "Takashi Miike: Into the Black", "original_title": "Takashi Miike: Into the Black", "slug_title": "takashi-miike-into-the-black", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ph9wfQjGAvvbIWJNKukibgKhqka.jpg", "actors": [], "comments": [], "recommandations_id": []}

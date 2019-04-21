@@ -1,0 +1,1 @@
+{"tmdb_id": 587300, "title": "Dieux du Stade - Making of Calendar 2006", "original_title": "Dieux du Stade - Making of Calendar 2006", "slug_title": "dieux-du-stade-making-of-calendar-2006", "date": "2005-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

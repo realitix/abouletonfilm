@@ -1,0 +1,1 @@
+{"tmdb_id": 475273, "title": "Generation B", "original_title": "Generation B", "slug_title": "generation-b", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 249672, "title": "Diabolique", "original_title": "Diabolique", "slug_title": "diabolique", "date": "2014-01-01", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zP6M3Wi9sSQpO91Ku06hItz5xhk.jpg", "actors": [], "comments": [], "recommandations_id": []}

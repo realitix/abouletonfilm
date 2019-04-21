@@ -1,0 +1,1 @@
+{"tmdb_id": 488078, "title": "The Centerfold Murders", "original_title": "The Centerfold Murders", "slug_title": "the-centerfold-murders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

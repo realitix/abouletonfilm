@@ -1,0 +1,1 @@
+{"tmdb_id": 402054, "title": "Para usted jefa", "original_title": "Para usted jefa", "slug_title": "para-usted-jefa", "date": "1980-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tere Vel\u00e1zquez ()", "Mario Almada ()", "Ang\u00e9lica Chain ()", "Carlos Z\u00e1rate ()"], "comments": [], "recommandations_id": []}

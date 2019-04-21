@@ -1,0 +1,1 @@
+{"tmdb_id": 234506, "title": "Careless Caretaker", "original_title": "Careless Caretaker", "slug_title": "careless-caretaker", "date": "1962-05-28", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnznRJK2aT7fedCCCaJGBqwSeU4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 270991, "title": "A Romantic Story", "original_title": "Romantikus t\u00f6rt\u00e9net", "slug_title": "a-romantic-story", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

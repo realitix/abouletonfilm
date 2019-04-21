@@ -1,0 +1,1 @@
+{"tmdb_id": 589920, "title": "Dancing Girl", "original_title": "\u8e0a\u5b50", "slug_title": "dancing-girl", "date": "1957-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chikage Awashima ()", "Machiko Ky\u014d ()", "Eiji Funakoshi ()", "Haruo Tanaka ()", "Yoshiko Fujita ()"], "comments": [], "recommandations_id": []}

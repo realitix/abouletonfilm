@@ -1,0 +1,1 @@
+{"tmdb_id": 388415, "title": "Meat for Satan's Icebox", "original_title": "Meat for Satan's Icebox", "slug_title": "meat-for-satan-s-icebox", "date": "2004-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pnpVyeKC3bESZKMUmA7bqG65Gyb.jpg", "actors": [], "comments": [], "recommandations_id": []}

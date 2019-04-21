@@ -1,0 +1,1 @@
+{"tmdb_id": 387138, "title": "Armer Hansi", "original_title": "Armer Hansi", "slug_title": "armer-hansi", "date": "1943-10-04", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

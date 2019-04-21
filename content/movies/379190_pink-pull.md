@@ -1,0 +1,1 @@
+{"tmdb_id": 379190, "title": "Pink Pull", "original_title": "Pink Pull", "slug_title": "pink-pull", "date": "1979-06-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uprZNrURL71RPRtjljEmCyYYYMr.jpg", "actors": [], "comments": [], "recommandations_id": []}

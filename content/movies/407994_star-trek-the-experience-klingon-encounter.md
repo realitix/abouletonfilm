@@ -1,0 +1,1 @@
+{"tmdb_id": 407994, "title": "Star Trek the Experience:  Klingon Encounter", "original_title": "Star Trek the Experience:  Klingon Encounter", "slug_title": "star-trek-the-experience-klingon-encounter", "date": "2009-09-22", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

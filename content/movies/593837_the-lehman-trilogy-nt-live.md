@@ -1,0 +1,1 @@
+{"tmdb_id": 593837, "title": "The Lehman Trilogy - NT Live", "original_title": "The Lehman Trilogy - NT Live", "slug_title": "the-lehman-trilogy-nt-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5SG131zBA5VlGBxAKu65lfzEMs7.jpg", "actors": [], "comments": [], "recommandations_id": []}

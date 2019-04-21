@@ -1,0 +1,1 @@
+{"tmdb_id": 486852, "title": "Isiboshwa", "original_title": "Isiboshwa", "slug_title": "isiboshwa", "date": "1989-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Innocent Gumede ()", "Hector Manthanda ()", "Joseph Mhlongo ()"], "comments": [], "recommandations_id": []}

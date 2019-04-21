@@ -1,0 +1,1 @@
+{"tmdb_id": 304995, "title": "Kadaladu Vadaladu", "original_title": "Kadaladu Vadaladu", "slug_title": "kadaladu-vadaladu", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

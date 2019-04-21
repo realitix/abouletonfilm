@@ -1,0 +1,1 @@
+{"tmdb_id": 557128, "title": "\u8272\u66a6\u5973\u6d6e\u4e16\u7d75\u5e2b", "original_title": "\u8272\u66a6\u5973\u6d6e\u4e16\u7d75\u5e2b", "slug_title": "se-li-nu-fu-shi-hui-shi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Setsuko Ogawa ()", "Soichiro Maeno ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531536, "title": "Hucho Hucho", "original_title": "Hucho Hucho", "slug_title": "hucho-hucho", "date": "2016-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w12pbpbcqNYVukbpVcO78LmY8Nf.jpg", "actors": ["Pedro Dalton ((voice))"], "comments": [], "recommandations_id": []}

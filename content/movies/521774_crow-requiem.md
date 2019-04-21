@@ -1,0 +1,1 @@
+{"tmdb_id": 521774, "title": "Crow Requiem", "original_title": "Crow Requiem", "slug_title": "crow-requiem", "date": "2015-04-07", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

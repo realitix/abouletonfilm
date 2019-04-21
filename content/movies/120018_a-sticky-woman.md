@@ -1,0 +1,1 @@
+{"tmdb_id": 120018, "title": "A Sticky Woman", "original_title": "Une femme collante", "slug_title": "a-sticky-woman", "date": "1906-08-31", "genre": "Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UORCjsfZYmXg5bZcvSVGDcgOUZ.jpg", "actors": [], "comments": [], "recommandations_id": [120012, 119980, 120010, 119988]}

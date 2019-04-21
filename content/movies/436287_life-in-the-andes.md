@@ -1,0 +1,1 @@
+{"tmdb_id": 436287, "title": "Life in the Andes", "original_title": "Life in the Andes", "slug_title": "life-in-the-andes", "date": "1952-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

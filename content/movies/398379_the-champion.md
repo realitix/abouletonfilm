@@ -1,0 +1,1 @@
+{"tmdb_id": 398379, "title": "The Champion", "original_title": "The Champion", "slug_title": "the-champion", "date": "2015-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VXAsrOJZ1lXZblZnnVNRNteCne.jpg", "actors": [], "comments": [], "recommandations_id": []}

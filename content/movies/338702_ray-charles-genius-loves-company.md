@@ -1,0 +1,1 @@
+{"tmdb_id": 338702, "title": "Ray Charles: Genius Loves Company", "original_title": "Ray Charles: Genius Loves Company", "slug_title": "ray-charles-genius-loves-company", "date": "2007-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 514766, "title": "Nibiru - Return of the Gods", "original_title": "Nibiru - Return of the Gods", "slug_title": "nibiru-return-of-the-gods", "date": "2014-02-04", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

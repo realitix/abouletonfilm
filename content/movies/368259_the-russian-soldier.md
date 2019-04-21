@@ -1,0 +1,1 @@
+{"tmdb_id": 368259, "title": "The Russian Soldier", "original_title": "The Russian Soldier", "slug_title": "the-russian-soldier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

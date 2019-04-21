@@ -1,0 +1,1 @@
+{"tmdb_id": 196769, "title": "The Hardy Boys Unmasked", "original_title": "The Hardy Boys Unmasked", "slug_title": "the-hardy-boys-unmasked", "date": "2006-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

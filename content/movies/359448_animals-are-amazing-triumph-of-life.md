@@ -1,0 +1,1 @@
+{"tmdb_id": 359448, "title": "Animals Are Amazing: Triumph of Life", "original_title": "Animals Are Amazing: Triumph of Life", "slug_title": "animals-are-amazing-triumph-of-life", "date": "2009-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

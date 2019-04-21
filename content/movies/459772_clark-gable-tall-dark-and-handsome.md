@@ -1,0 +1,1 @@
+{"tmdb_id": 459772, "title": "Clark Gable: Tall, Dark, and Handsome", "original_title": "Clark Gable: Tall, Dark, and Handsome", "slug_title": "clark-gable-tall-dark-and-handsome", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

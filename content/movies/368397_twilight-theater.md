@@ -1,0 +1,1 @@
+{"tmdb_id": 368397, "title": "Twilight Theater", "original_title": "Twilight Theater", "slug_title": "twilight-theater", "date": "1982-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 444501, "title": "Fascinating Doll's House", "original_title": "Faszinierendes Puppenhaus", "slug_title": "fascinating-doll-s-house", "date": "1987-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hermione Zittlau ()", "Ades Zabel ()", "Uli Versum ()"], "comments": [], "recommandations_id": []}

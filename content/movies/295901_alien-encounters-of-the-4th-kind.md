@@ -1,0 +1,1 @@
+{"tmdb_id": 295901, "title": "Alien Encounters of the 4th Kind", "original_title": "Alien Encounters of the 4th Kind", "slug_title": "alien-encounters-of-the-4th-kind", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

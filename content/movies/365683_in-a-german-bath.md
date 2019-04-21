@@ -1,0 +1,1 @@
+{"tmdb_id": 365683, "title": "In a German Bath", "original_title": "In a German Bath", "slug_title": "in-a-german-bath", "date": "1902-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

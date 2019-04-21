@@ -1,0 +1,1 @@
+{"tmdb_id": 416322, "title": "A Star of Greed", "original_title": "\ud0d0\uc695\uc758 \ubcc4", "slug_title": "a-star-of-greed", "date": "2016-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Rk5LOvl8aRt5PfCos8ASHh7E46.jpg", "actors": ["Kim Eui-sung (Narrator)"], "comments": [], "recommandations_id": []}

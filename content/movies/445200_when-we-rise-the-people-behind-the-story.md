@@ -1,0 +1,1 @@
+{"tmdb_id": 445200, "title": "When We Rise: The People Behind The Story", "original_title": "When We Rise: The People Behind The Story", "slug_title": "when-we-rise-the-people-behind-the-story", "date": "2017-03-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

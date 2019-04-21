@@ -1,0 +1,1 @@
+{"tmdb_id": 298430, "title": "Erigone's Daughter", "original_title": "Erigone's Daughter", "slug_title": "erigone-s-daughter", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

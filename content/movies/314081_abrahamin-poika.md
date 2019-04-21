@@ -1,0 +1,1 @@
+{"tmdb_id": 314081, "title": "Abrahamin poika", "original_title": "Abrahamin poika", "slug_title": "abrahamin-poika", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 484364, "title": "The Violence Movie", "original_title": "The Violence Movie", "slug_title": "the-violence-movie", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5WjNa3K0WZtZLLjLipcXELVkQUx.jpg", "actors": [], "comments": [], "recommandations_id": []}

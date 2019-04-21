@@ -1,0 +1,1 @@
+{"tmdb_id": 65082, "title": "Essen im Eimer", "original_title": "Essen im Eimer", "slug_title": "essen-im-eimer", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 463831, "title": "Foreigners Pt. 1", "original_title": "Utl\u00e4nningar: Del I - B\u00e5tar och kanoner", "slug_title": "foreigners-pt-1", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

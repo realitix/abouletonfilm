@@ -1,0 +1,1 @@
+{"tmdb_id": 435216, "title": "617: The Last Days of a Vulcan Squadron", "original_title": "617: The Last Days of a Vulcan Squadron", "slug_title": "617-the-last-days-of-a-vulcan-squadron", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

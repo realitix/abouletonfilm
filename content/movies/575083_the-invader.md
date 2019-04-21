@@ -1,0 +1,1 @@
+{"tmdb_id": 575083, "title": "The Invader", "original_title": "The Invader", "slug_title": "the-invader", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

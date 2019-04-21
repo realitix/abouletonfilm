@@ -1,0 +1,1 @@
+{"tmdb_id": 556231, "title": "Ready to Go", "original_title": "Ready to Go", "slug_title": "ready-to-go", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

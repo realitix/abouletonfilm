@@ -1,0 +1,1 @@
+{"tmdb_id": 417824, "title": "Antes Que o Tempo Mude", "original_title": "Antes Que o Tempo Mude", "slug_title": "antes-que-o-tempo-mude", "date": "2003-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYnkhkoCEtYEyKG7Wlpk6ieE3Al.jpg", "actors": [], "comments": [], "recommandations_id": []}

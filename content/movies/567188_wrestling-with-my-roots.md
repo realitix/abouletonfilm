@@ -1,0 +1,1 @@
+{"tmdb_id": 567188, "title": "Wrestling With My Roots", "original_title": "Wrestling With My Roots", "slug_title": "wrestling-with-my-roots", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

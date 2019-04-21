@@ -1,0 +1,1 @@
+{"tmdb_id": 561491, "title": "La soupe \u00e0 la grimace", "original_title": "La soupe \u00e0 la grimace", "slug_title": "la-soupe-a-la-grimace", "date": "1954-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ezoWGBEiM7HnoZv5B0Z3fWdsw56.jpg", "actors": [], "comments": [], "recommandations_id": []}

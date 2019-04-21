@@ -1,0 +1,1 @@
+{"tmdb_id": 389083, "title": "Metallica: [1999] Live in Kiev", "original_title": "Metallica: [1999] Live in Kiev", "slug_title": "metallica-1999-live-in-kiev", "date": "1999-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ExyhCnZnGduqnqXpftZHToHVwk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 149604, "title": "Stop! My Ass Is on Fire! 7", "original_title": "Stop! My Ass Is on Fire! 7", "slug_title": "stop-my-ass-is-on-fire-7", "date": "2002-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9scB2gWJDySZfU0UY8DNRfNZKJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

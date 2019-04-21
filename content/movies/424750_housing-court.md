@@ -1,0 +1,1 @@
+{"tmdb_id": 424750, "title": "Housing Court", "original_title": "Housing Court", "slug_title": "housing-court", "date": "1984-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557313, "title": "S\u00e3o Lu\u00eds", "original_title": "S\u00e3o Lu\u00eds", "slug_title": "sao-luis", "date": "1974-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

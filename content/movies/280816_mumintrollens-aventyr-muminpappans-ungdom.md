@@ -1,0 +1,1 @@
+{"tmdb_id": 280816, "title": "Mumintrollens \u00c4ventyr - Muminpappans Ungdom", "original_title": "Mumintrollens \u00c4ventyr - Muminpappans Ungdom", "slug_title": "mumintrollens-aventyr-muminpappans-ungdom", "date": "1982-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

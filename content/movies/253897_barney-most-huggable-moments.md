@@ -1,0 +1,1 @@
+{"tmdb_id": 253897, "title": "Barney: Most Huggable Moments", "original_title": "Barney: Most Huggable Moments", "slug_title": "barney-most-huggable-moments", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

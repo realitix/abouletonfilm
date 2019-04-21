@@ -1,0 +1,1 @@
+{"tmdb_id": 280365, "title": "Lorry Driver", "original_title": "Lorry Driver", "slug_title": "lorry-driver", "date": "1990-07-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nandamuri Balakrishna ()", "Vijayashanti ()", "Brahmanandam ()", "Hema ()", "Sharada ()"], "comments": [], "recommandations_id": []}

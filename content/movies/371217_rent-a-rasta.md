@@ -1,0 +1,1 @@
+{"tmdb_id": 371217, "title": "Rent a Rasta", "original_title": "Rent a Rasta", "slug_title": "rent-a-rasta", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2XheO36ElqYEQ333DncAVk9wJUw.jpg", "actors": [], "comments": [], "recommandations_id": []}

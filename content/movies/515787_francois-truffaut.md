@@ -1,0 +1,1 @@
+{"tmdb_id": 515787, "title": "Fran\u00e7ois Truffaut", "original_title": "Fran\u00e7ois Truffaut", "slug_title": "francois-truffaut", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fran\u00e7ois Truffaut (Interviewee)"], "comments": [], "recommandations_id": []}

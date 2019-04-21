@@ -1,0 +1,1 @@
+{"tmdb_id": 528319, "title": "Firefighters", "original_title": "Firefighters", "slug_title": "firefighters", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [460465, 155129, 453399, 460458]}

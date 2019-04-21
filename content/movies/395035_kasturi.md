@@ -1,0 +1,1 @@
+{"tmdb_id": 395035, "title": "Kasturi", "original_title": "Kasturi", "slug_title": "kasturi", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mithun Chakraborty ()", "Parikshit Sahni ()", "Sadhu Meher ()", "Nutan ()"], "comments": [], "recommandations_id": []}

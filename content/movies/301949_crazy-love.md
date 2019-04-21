@@ -1,0 +1,1 @@
+{"tmdb_id": 301949, "title": "Crazy Love", "original_title": "Crazy Love", "slug_title": "crazy-love", "date": "1993-03-17", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4iwqzidWFRXzQLbSSzWd5odyuG.jpg", "actors": ["Loletta Lee (Jane)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 511714, "title": "Buruburu", "original_title": "Buruburu", "slug_title": "buruburu", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 285746, "title": "Futbol\u00edn 2", "original_title": "Futbol\u00edn 2", "slug_title": "futbolin-2", "date": "2016-12-31", "genre": "Action / Animation / Aventure / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309927, "title": "Gangsta Chronicles: Black Gangstas", "original_title": "Gangsta Chronicles: Black Gangstas", "slug_title": "gangsta-chronicles-black-gangstas", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

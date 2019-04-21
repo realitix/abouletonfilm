@@ -1,0 +1,1 @@
+{"tmdb_id": 209238, "title": "Ferenc se \u017een\u00ed", "original_title": "Ferenc se \u017een\u00ed", "slug_title": "ferenc-se-zeni", "date": "1918-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ferenc Futurista (himself)"], "comments": [], "recommandations_id": []}

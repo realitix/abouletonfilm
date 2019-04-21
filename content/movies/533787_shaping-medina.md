@@ -1,0 +1,1 @@
+{"tmdb_id": 533787, "title": "Shaping Medina", "original_title": "Shaping Medina", "slug_title": "shaping-medina", "date": "2014-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

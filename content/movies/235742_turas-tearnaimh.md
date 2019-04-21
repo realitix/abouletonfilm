@@ -1,0 +1,1 @@
+{"tmdb_id": 235742, "title": "Turas Tearnaimh", "original_title": "Turas Tearnaimh", "slug_title": "turas-tearnaimh", "date": "1954-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

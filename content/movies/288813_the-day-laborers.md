@@ -1,0 +1,1 @@
+{"tmdb_id": 288813, "title": "The Day Laborers", "original_title": "Los jornaleros", "slug_title": "the-day-laborers", "date": "2003-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6I1CrgrS3KVOCt2HxwzqD0RbPt.jpg", "actors": [], "comments": [], "recommandations_id": []}

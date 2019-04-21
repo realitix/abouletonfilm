@@ -1,0 +1,1 @@
+{"tmdb_id": 461878, "title": "Dalya's Other Country", "original_title": "Dalya's Other Country", "slug_title": "dalya-s-other-country", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jF4vMw8qUwvMhwyiQdqo5bBTxIw.jpg", "actors": [], "comments": [], "recommandations_id": []}

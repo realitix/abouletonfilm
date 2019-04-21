@@ -1,0 +1,1 @@
+{"tmdb_id": 225156, "title": "La chispa y la pradera", "original_title": "La chispa y la pradera", "slug_title": "la-chispa-y-la-pradera", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

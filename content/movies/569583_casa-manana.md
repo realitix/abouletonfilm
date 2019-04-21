@@ -1,0 +1,1 @@
+{"tmdb_id": 569583, "title": "Casa Manana", "original_title": "Casa Manana", "slug_title": "casa-manana", "date": "1951-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Virginia Welles ()", "Robert Clarke ()", "Robert Karns ()"], "comments": [], "recommandations_id": []}

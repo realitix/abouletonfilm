@@ -1,0 +1,1 @@
+{"tmdb_id": 544100, "title": "Die phantastische Welt des Matthew Madson", "original_title": "Die phantastische Welt des Matthew Madson", "slug_title": "die-phantastische-welt-des-matthew-madson", "date": "1974-05-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

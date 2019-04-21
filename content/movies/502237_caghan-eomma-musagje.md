@@ -1,0 +1,1 @@
+{"tmdb_id": 502237, "title": "\ucc29\ud55c \uc5c4\ub9c8 \ubb34\uc0ad\uc81c", "original_title": "\ucc29\ud55c \uc5c4\ub9c8 \ubb34\uc0ad\uc81c", "slug_title": "caghan-eomma-musagje", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

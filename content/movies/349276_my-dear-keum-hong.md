@@ -1,0 +1,1 @@
+{"tmdb_id": 349276, "title": "My Dear Keum-hong", "original_title": "\uae08\ud64d\uc544 \uae08\ud64d\uc544", "slug_title": "my-dear-keum-hong", "date": "1995-04-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bHfFibRSQeJVn3rjG3hPwb6wn9U.jpg", "actors": [], "comments": [], "recommandations_id": []}

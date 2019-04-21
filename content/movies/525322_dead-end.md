@@ -1,0 +1,1 @@
+{"tmdb_id": 525322, "title": "Dead End", "original_title": "\u0422\u0443\u043f\u0438\u043a", "slug_title": "dead-end", "date": "2010-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

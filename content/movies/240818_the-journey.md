@@ -1,0 +1,1 @@
+{"tmdb_id": 240818, "title": "The Journey", "original_title": "The Journey", "slug_title": "the-journey", "date": "2004-02-01", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

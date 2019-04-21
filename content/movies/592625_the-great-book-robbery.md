@@ -1,0 +1,1 @@
+{"tmdb_id": 592625, "title": "The Great Book Robbery", "original_title": "The Great Book Robbery", "slug_title": "the-great-book-robbery", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bYOPkCUDZlSh7pZo3JpZhJCpOC.jpg", "actors": [], "comments": [], "recommandations_id": []}

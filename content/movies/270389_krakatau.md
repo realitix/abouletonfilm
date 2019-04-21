@@ -1,0 +1,1 @@
+{"tmdb_id": 270389, "title": "Krakatau", "original_title": "Krakatau", "slug_title": "krakatau", "date": "1986-05-18", "genre": "Drame", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9t4xmsDU0A300s4yK6KgmP990J.jpg", "actors": ["Catherine Bargilowska ()"], "comments": [], "recommandations_id": []}

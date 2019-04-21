@@ -1,0 +1,1 @@
+{"tmdb_id": 442702, "title": "The Police Force of New York City", "original_title": "The Police Force of New York City", "slug_title": "the-police-force-of-new-york-city", "date": "", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

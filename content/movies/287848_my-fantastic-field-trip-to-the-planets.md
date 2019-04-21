@@ -1,0 +1,1 @@
+{"tmdb_id": 287848, "title": "My Fantastic Field Trip to the Planets", "original_title": "My Fantastic Field Trip to the Planets", "slug_title": "my-fantastic-field-trip-to-the-planets", "date": "2005-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

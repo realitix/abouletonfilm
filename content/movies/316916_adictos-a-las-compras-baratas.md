@@ -1,0 +1,1 @@
+{"tmdb_id": 316916, "title": "Adictos a Las Compras Baratas", "original_title": "Adictos a Las Compras Baratas", "slug_title": "adictos-a-las-compras-baratas", "date": "2013-05-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

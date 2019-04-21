@@ -1,0 +1,1 @@
+{"tmdb_id": 436862, "title": "QUIM:ERA", "original_title": "QUIM:ERA", "slug_title": "quim-era", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBffkHbrT5KbNd3FVWpgEDTj5WT.jpg", "actors": [], "comments": [], "recommandations_id": []}

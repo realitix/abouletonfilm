@@ -1,0 +1,1 @@
+{"tmdb_id": 366102, "title": "Stanimir Descending", "original_title": "Stanimir silazi u grad", "slug_title": "stanimir-descending", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMayzBtS5UAYRzLVhvMNn943zvT.jpg", "actors": [], "comments": [], "recommandations_id": []}

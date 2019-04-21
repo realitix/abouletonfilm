@@ -1,0 +1,1 @@
+{"tmdb_id": 327846, "title": "Bloody Destinies", "original_title": "El-akdar el-damia", "slug_title": "bloody-destinies", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

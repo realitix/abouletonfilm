@@ -1,0 +1,1 @@
+{"tmdb_id": 459394, "title": "News from the Sun", "original_title": "News from the Sun", "slug_title": "news-from-the-sun", "date": "2016-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

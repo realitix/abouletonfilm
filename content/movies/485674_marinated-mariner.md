@@ -1,0 +1,1 @@
+{"tmdb_id": 485674, "title": "Marinated Mariner", "original_title": "Marinated Mariner", "slug_title": "marinated-mariner", "date": "1950-03-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Captain Andy Clyde)"], "comments": [], "recommandations_id": []}

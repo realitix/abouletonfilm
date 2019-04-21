@@ -1,0 +1,1 @@
+{"tmdb_id": 465262, "title": "Concision: No Time for New Ideas", "original_title": "Concision: No Time for New Ideas", "slug_title": "concision-no-time-for-new-ideas", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

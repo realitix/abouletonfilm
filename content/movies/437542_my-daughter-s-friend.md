@@ -1,0 +1,1 @@
+{"tmdb_id": 437542, "title": "My Daughter's Friend", "original_title": "\ub538\uc758 \uce5c\uad6c", "slug_title": "my-daughter-s-friend", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xu5depS15T49q5yRnWM1zxQr1Bl.jpg", "actors": ["Ahn Min-sang ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 348222, "title": "A Bum Deal", "original_title": "Clo-Cloche", "slug_title": "a-bum-deal", "date": "1935-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michel Simon (Boudu)"], "comments": [], "recommandations_id": []}

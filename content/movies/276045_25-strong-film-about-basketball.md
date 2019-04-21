@@ -1,0 +1,1 @@
+{"tmdb_id": 276045, "title": "25 Strong: Film About Basketball", "original_title": "25 Strong: Film About Basketball", "slug_title": "25-strong-film-about-basketball", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

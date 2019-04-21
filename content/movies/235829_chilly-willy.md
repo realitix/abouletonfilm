@@ -1,0 +1,1 @@
+{"tmdb_id": 235829, "title": "Chilly Willy", "original_title": "Chilly Willy", "slug_title": "chilly-willy", "date": "1953-12-20", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75TVVEIKUXSVks3ZI5t1koxHc0p.jpg", "actors": [], "comments": [], "recommandations_id": []}

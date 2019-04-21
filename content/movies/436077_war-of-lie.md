@@ -1,0 +1,1 @@
+{"tmdb_id": 436077, "title": "War of Lie", "original_title": "\u5618\u306e\u6226\u4e89", "slug_title": "war-of-lie", "date": "2017-01-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

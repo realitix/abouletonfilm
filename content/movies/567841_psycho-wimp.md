@@ -1,0 +1,1 @@
+{"tmdb_id": 567841, "title": "Psycho Wimp", "original_title": "Psycho Wimp", "slug_title": "psycho-wimp", "date": "1980-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynO4ZzhE5hKPy6xgI8TY9auExOX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344025, "title": "Americanah", "original_title": "Americanah", "slug_title": "americanah", "date": "", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Oyelowo ()", "Lupita Nyong'o ()"], "comments": [], "recommandations_id": []}

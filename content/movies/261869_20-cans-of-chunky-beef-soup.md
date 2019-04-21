@@ -1,0 +1,1 @@
+{"tmdb_id": 261869, "title": "20 Cans of Chunky Beef Soup", "original_title": "20 Cans of Chunky Beef Soup", "slug_title": "20-cans-of-chunky-beef-soup", "date": "2003-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

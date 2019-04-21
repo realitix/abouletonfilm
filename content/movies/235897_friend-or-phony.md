@@ -1,0 +1,1 @@
+{"tmdb_id": 235897, "title": "Friend or Phony", "original_title": "Friend or Phony", "slug_title": "friend-or-phony", "date": "1952-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

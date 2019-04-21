@@ -1,0 +1,1 @@
+{"tmdb_id": 317833, "title": "Shades of Soul: Sweet Sensations", "original_title": "Shades of Soul: Sweet Sensations", "slug_title": "shades-of-soul-sweet-sensations", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

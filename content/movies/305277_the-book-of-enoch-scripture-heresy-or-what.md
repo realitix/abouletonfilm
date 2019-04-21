@@ -1,0 +1,1 @@
+{"tmdb_id": 305277, "title": "The Book of Enoch: Scripture, Heresy, or What?", "original_title": "The Book of Enoch: Scripture, Heresy, or What?", "slug_title": "the-book-of-enoch-scripture-heresy-or-what", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

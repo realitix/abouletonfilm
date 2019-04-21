@@ -1,0 +1,1 @@
+{"tmdb_id": 357053, "title": "Blue Spring", "original_title": "Blue Spring", "slug_title": "blue-spring", "date": "2015-09-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rares Andrici (Him)", "Catalin Bortun (Father)", "Nicoleta H\u00e2ncu (She)"], "comments": [], "recommandations_id": []}

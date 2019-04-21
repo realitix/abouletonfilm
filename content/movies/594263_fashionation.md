@@ -1,0 +1,1 @@
+{"tmdb_id": 594263, "title": "Fashionation", "original_title": "Fashionation", "slug_title": "fashionation", "date": "1977-04-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fDn3W6HLMz57taWpQcRotlQhXtu.jpg", "actors": [], "comments": [], "recommandations_id": []}

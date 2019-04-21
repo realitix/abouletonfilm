@@ -1,0 +1,1 @@
+{"tmdb_id": 282993, "title": "Antes da Coisa Toda Come\u00e7ar", "original_title": "Antes da Coisa Toda Come\u00e7ar", "slug_title": "antes-da-coisa-toda-comecar", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

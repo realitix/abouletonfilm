@@ -1,0 +1,1 @@
+{"tmdb_id": 243245, "title": "My Financial Career", "original_title": "My Financial Career", "slug_title": "my-financial-career", "date": "1962-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59PSXGlNtZKvUUV6gs7S6FJHi9u.jpg", "actors": ["Stanley Jackson (Narrator)"], "comments": [], "recommandations_id": []}

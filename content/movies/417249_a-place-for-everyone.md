@@ -1,0 +1,1 @@
+{"tmdb_id": 417249, "title": "A Place For Everyone", "original_title": "A Place For Everyone", "slug_title": "a-place-for-everyone", "date": "2014-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ooivdawn1dqf3pr5aM4ai7dhbg.jpg", "actors": [], "comments": [], "recommandations_id": []}

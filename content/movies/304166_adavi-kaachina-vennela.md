@@ -1,0 +1,1 @@
+{"tmdb_id": 304166, "title": "Adavi Kaachina Vennela", "original_title": "Adavi Kaachina Vennela", "slug_title": "adavi-kaachina-vennela", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

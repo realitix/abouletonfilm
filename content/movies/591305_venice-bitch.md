@@ -1,0 +1,1 @@
+{"tmdb_id": 591305, "title": "Venice Bitch", "original_title": "Venice Bitch", "slug_title": "venice-bitch", "date": "2018-09-18", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9hjsliv3CErrj5crB6JKguvEk9a.jpg", "actors": ["Lana Del Rey ()"], "comments": [], "recommandations_id": []}

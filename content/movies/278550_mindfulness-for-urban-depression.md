@@ -1,0 +1,1 @@
+{"tmdb_id": 278550, "title": "Mindfulness for Urban Depression", "original_title": "Mindfulness for Urban Depression", "slug_title": "mindfulness-for-urban-depression", "date": "2012-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

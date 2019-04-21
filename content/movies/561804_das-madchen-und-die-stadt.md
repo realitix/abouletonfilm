@@ -1,0 +1,1 @@
+{"tmdb_id": 561804, "title": "Das M\u00e4dchen und die Stadt", "original_title": "Das M\u00e4dchen und die Stadt", "slug_title": "das-madchen-und-die-stadt", "date": "1990-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

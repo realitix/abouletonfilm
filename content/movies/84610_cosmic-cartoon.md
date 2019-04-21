@@ -1,0 +1,1 @@
+{"tmdb_id": 84610, "title": "Cosmic Cartoon", "original_title": "Cosmic Cartoon", "slug_title": "cosmic-cartoon", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oiBGIHwujBJYlaD0tYLo9AMyYKm.jpg", "actors": [], "comments": [], "recommandations_id": []}

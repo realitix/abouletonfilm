@@ -1,0 +1,1 @@
+{"tmdb_id": 349708, "title": "\uc778\uc0ac\ub300\uc804", "original_title": "\uc778\uc0ac\ub300\uc804", "slug_title": "insadaejeon", "date": "1983-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

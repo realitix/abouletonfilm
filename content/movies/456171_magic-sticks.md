@@ -1,0 +1,1 @@
+{"tmdb_id": 456171, "title": "Magic Sticks", "original_title": "Magic Sticks", "slug_title": "magic-sticks", "date": "1987-06-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ry5hZr7AKZWCCIb6gUSnQVU6TjV.jpg", "actors": ["Samuel L. Jackson (Bum)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385198, "title": "Raoul Ruiz: A Fantastic Journey", "original_title": "Raoul Ruiz: A Fantastic Journey", "slug_title": "raoul-ruiz-a-fantastic-journey", "date": "2006-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

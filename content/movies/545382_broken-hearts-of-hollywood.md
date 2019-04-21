@@ -1,0 +1,1 @@
+{"tmdb_id": 545382, "title": "Broken Hearts of Hollywood", "original_title": "Broken Hearts of Hollywood", "slug_title": "broken-hearts-of-hollywood", "date": "1926-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

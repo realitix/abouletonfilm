@@ -1,0 +1,1 @@
+{"tmdb_id": 260160, "title": "Fire-Followers", "original_title": "Fire-Followers", "slug_title": "fire-followers", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

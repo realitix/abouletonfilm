@@ -1,0 +1,1 @@
+{"tmdb_id": 250683, "title": "The Life of Abraham Lincoln", "original_title": "The Life of Abraham Lincoln", "slug_title": "the-life-of-abraham-lincoln", "date": "1915-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank McGlynn Sr. (Abraham Lincoln)"], "comments": [], "recommandations_id": []}

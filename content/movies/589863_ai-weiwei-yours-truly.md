@@ -1,0 +1,1 @@
+{"tmdb_id": 589863, "title": "Ai Weiwei: Yours Truly", "original_title": "Ai Weiwei: Yours Truly", "slug_title": "ai-weiwei-yours-truly", "date": "2019-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

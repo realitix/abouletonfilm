@@ -1,0 +1,1 @@
+{"tmdb_id": 401228, "title": "Bye Bye Bangkok", "original_title": "Bye Bye Bangkok", "slug_title": "bye-bye-bangkok", "date": "", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

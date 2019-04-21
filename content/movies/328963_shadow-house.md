@@ -1,0 +1,1 @@
+{"tmdb_id": 328963, "title": "Shadow House", "original_title": "Shadow House", "slug_title": "shadow-house", "date": "1973-10-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Fiedler (Lou)", "Joanna Phillips (Marie)", "John Carradine (Uncle)"], "comments": [], "recommandations_id": []}

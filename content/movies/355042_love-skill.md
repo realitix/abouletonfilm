@@ -1,0 +1,1 @@
+{"tmdb_id": 355042, "title": "Love Skill", "original_title": "Love Skill", "slug_title": "love-skill", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZOo0LYxRLXfyPxTEDwXZ8adAG1.jpg", "actors": [], "comments": [], "recommandations_id": []}

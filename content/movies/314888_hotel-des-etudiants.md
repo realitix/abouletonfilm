@@ -1,0 +1,1 @@
+{"tmdb_id": 314888, "title": "H\u00f4tel des \u00e9tudiants", "original_title": "H\u00f4tel des \u00e9tudiants", "slug_title": "hotel-des-etudiants", "date": "1932-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mEOrij4CvMPEVi6jCBfqjWU8uZ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

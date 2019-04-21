@@ -1,0 +1,1 @@
+{"tmdb_id": 281547, "title": "Backgammon", "original_title": "Backgammon", "slug_title": "backgammon", "date": "2001-01-01", "genre": "Science-Fiction", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kF5xQKxkrm3e9i8dlcI7PleEzh.jpg", "actors": ["Wendy Braun (Maia)", "K.W. Miller (Rosy)"], "comments": [], "recommandations_id": []}

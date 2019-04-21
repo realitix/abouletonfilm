@@ -1,0 +1,1 @@
+{"tmdb_id": 81337, "title": "The Putin System", "original_title": "The Putin System", "slug_title": "the-putin-system", "date": "2007-11-28", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tIP5p1P8N3mrFO4WXOsp9ZARMcS.jpg", "actors": [], "comments": [], "recommandations_id": []}

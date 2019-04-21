@@ -1,0 +1,1 @@
+{"tmdb_id": 231559, "title": "A Chave da Casa", "original_title": "A Chave da Casa", "slug_title": "a-chave-da-casa", "date": "2009-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337994, "title": "Naked Terror", "original_title": "Naked Terror", "slug_title": "naked-terror", "date": "1961-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9VLa4mtNGXJUVqfrYa2AB1kf58.jpg", "actors": [], "comments": [], "recommandations_id": []}

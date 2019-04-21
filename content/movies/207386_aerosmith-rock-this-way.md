@@ -1,0 +1,1 @@
+{"tmdb_id": 207386, "title": "Aerosmith: 'Rock This Way'", "original_title": "Aerosmith: 'Rock This Way'", "slug_title": "aerosmith-rock-this-way", "date": "2009-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1WDNqjk6syeAa51q4bkj4G6GAe.jpg", "actors": [], "comments": [], "recommandations_id": []}

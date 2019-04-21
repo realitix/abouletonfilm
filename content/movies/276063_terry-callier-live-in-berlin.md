@@ -1,0 +1,1 @@
+{"tmdb_id": 276063, "title": "Terry Callier: Live in Berlin", "original_title": "Terry Callier: Live in Berlin", "slug_title": "terry-callier-live-in-berlin", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

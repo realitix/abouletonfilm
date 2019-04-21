@@ -1,0 +1,1 @@
+{"tmdb_id": 453003, "title": "Fiebre de Amor", "original_title": "Fiebre de Amor", "slug_title": "fiebre-de-amor", "date": "1985-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsZu9X5cWe4H9uXk4tm20mEAW2A.jpg", "actors": ["Luis Miguel (Luis Miguel)", "Lucero (Lucerito)"], "comments": [], "recommandations_id": []}

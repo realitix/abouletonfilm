@@ -1,0 +1,1 @@
+{"tmdb_id": 177189, "title": "Fantasia Lusitana", "original_title": "Fantasia Lusitana", "slug_title": "fantasia-lusitana", "date": "2010-04-22", "genre": "Documentaire / Histoire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Oodhaziz43KYaZaUAy8YTVzfjR.jpg", "actors": [], "comments": [], "recommandations_id": []}

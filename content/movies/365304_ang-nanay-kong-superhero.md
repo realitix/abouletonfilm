@@ -1,0 +1,1 @@
+{"tmdb_id": 365304, "title": "Ang Nanay Kong Superhero", "original_title": "Ang Nanay Kong Superhero", "slug_title": "ang-nanay-kong-superhero", "date": "2015-10-24", "genre": "Com\u00e9die / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

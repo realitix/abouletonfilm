@@ -1,0 +1,1 @@
+{"tmdb_id": 589403, "title": "Ghostbear", "original_title": "Ghostbear", "slug_title": "ghostbear", "date": "2019-01-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltQtH5rHJtSEfV3uFsibXkpYt4B.jpg", "actors": [], "comments": [], "recommandations_id": []}

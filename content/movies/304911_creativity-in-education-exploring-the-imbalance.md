@@ -1,0 +1,1 @@
+{"tmdb_id": 304911, "title": "Creativity in Education: Exploring the Imbalance.", "original_title": "Creativity in Education: Exploring the Imbalance.", "slug_title": "creativity-in-education-exploring-the-imbalance", "date": "2013-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

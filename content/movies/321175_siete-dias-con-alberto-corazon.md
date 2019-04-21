@@ -1,0 +1,1 @@
+{"tmdb_id": 321175, "title": "Siete D\u00edas Con Alberto Coraz\u00f3n", "original_title": "Siete D\u00edas Con Alberto Coraz\u00f3n", "slug_title": "siete-dias-con-alberto-corazon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alberto Coraz\u00f3n ()", "Ana Arambarri ()"], "comments": [], "recommandations_id": []}

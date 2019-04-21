@@ -1,0 +1,1 @@
+{"tmdb_id": 235151, "title": "Room and Wrath", "original_title": "Room and Wrath", "slug_title": "room-and-wrath", "date": "1956-06-03", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xpk5WcmnwAFNAHtWT6Jx3zORjQi.jpg", "actors": ["Daws Butler ((voices))"], "comments": [], "recommandations_id": []}

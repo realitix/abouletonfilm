@@ -1,0 +1,1 @@
+{"tmdb_id": 509948, "title": "Vibration in Our Heads", "original_title": "\u00c7a vibre dans nos t\u00eates", "slug_title": "vibration-in-our-heads", "date": "2007-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XNd3223wPyeht6Pt3W24nr8Acp.jpg", "actors": [], "comments": [], "recommandations_id": []}

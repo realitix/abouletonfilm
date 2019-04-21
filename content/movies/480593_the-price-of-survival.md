@@ -1,0 +1,1 @@
+{"tmdb_id": 480593, "title": "The Price of Survival", "original_title": "De prijs van overleven", "slug_title": "the-price-of-survival", "date": "2003-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

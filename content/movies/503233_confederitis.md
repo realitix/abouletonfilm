@@ -1,0 +1,1 @@
+{"tmdb_id": 503233, "title": "Confederitis", "original_title": "Confederitis", "slug_title": "confederitis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5S8Mjh6Qa7KFAPY983Q7qveAMKr.jpg", "actors": [], "comments": [], "recommandations_id": []}

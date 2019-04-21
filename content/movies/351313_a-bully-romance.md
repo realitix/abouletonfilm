@@ -1,0 +1,1 @@
+{"tmdb_id": 351313, "title": "A Bully Romance", "original_title": "A Bully Romance", "slug_title": "a-bully-romance", "date": "1939-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

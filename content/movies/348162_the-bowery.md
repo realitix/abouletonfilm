@@ -1,0 +1,1 @@
+{"tmdb_id": 348162, "title": "The Bowery", "original_title": "The Bowery", "slug_title": "the-bowery", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

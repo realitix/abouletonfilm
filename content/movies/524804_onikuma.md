@@ -1,0 +1,1 @@
+{"tmdb_id": 524804, "title": "Onikuma", "original_title": "Onikuma", "slug_title": "onikuma", "date": "2016-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarineh Garapetian ()", "Jacob Riddle ()", "Sandy Siquier ()"], "comments": [], "recommandations_id": []}

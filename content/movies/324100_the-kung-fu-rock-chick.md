@@ -1,0 +1,1 @@
+{"tmdb_id": 324100, "title": "The Kung Fu Rock Chick", "original_title": "The Kung Fu Rock Chick", "slug_title": "the-kung-fu-rock-chick", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

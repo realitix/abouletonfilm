@@ -1,0 +1,1 @@
+{"tmdb_id": 216625, "title": "A Dan\u00e7a de S\u00edsifo", "original_title": "A Dan\u00e7a de S\u00edsifo", "slug_title": "a-danca-de-sisifo", "date": "2011-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97drkXqaugqmZQCrfqCTId8CrxQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

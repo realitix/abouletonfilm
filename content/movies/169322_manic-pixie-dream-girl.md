@@ -1,0 +1,1 @@
+{"tmdb_id": 169322, "title": "Manic Pixie Dream Girl", "original_title": "Manic Pixie Dream Girl", "slug_title": "manic-pixie-dream-girl", "date": "2013-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/boOEJAOzIn3Hgkrvb1wAVxLavXZ.jpg", "actors": ["Roc\u00edo Le\u00f3n ()"], "comments": [], "recommandations_id": []}

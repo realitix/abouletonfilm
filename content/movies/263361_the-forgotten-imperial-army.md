@@ -1,0 +1,1 @@
+{"tmdb_id": 263361, "title": "The Forgotten Imperial Army", "original_title": "Wasurerareta kogun", "slug_title": "the-forgotten-imperial-army", "date": "1963-08-16", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uBlFCKSXG3xVLkkSz8skxJCrhQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

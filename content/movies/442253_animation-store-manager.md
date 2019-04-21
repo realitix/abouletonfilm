@@ -1,0 +1,1 @@
+{"tmdb_id": 442253, "title": "Animation Store Manager", "original_title": "\u30a2\u30cb\u30e1\u5e97\u9577", "slug_title": "animation-store-manager", "date": "2002-08-19", "genre": "Animation", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/SW48eh2tIG6yP9vOokbcIoyoc0.jpg", "actors": [], "comments": [], "recommandations_id": []}

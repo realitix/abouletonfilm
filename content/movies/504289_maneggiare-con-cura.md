@@ -1,0 +1,1 @@
+{"tmdb_id": 504289, "title": "Maneggiare con cura", "original_title": "Maneggiare con cura", "slug_title": "maneggiare-con-cura", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

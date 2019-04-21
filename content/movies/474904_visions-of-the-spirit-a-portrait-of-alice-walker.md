@@ -1,0 +1,1 @@
+{"tmdb_id": 474904, "title": "Visions of the Spirit: A Portrait of Alice Walker", "original_title": "Visions of the Spirit: A Portrait of Alice Walker", "slug_title": "visions-of-the-spirit-a-portrait-of-alice-walker", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

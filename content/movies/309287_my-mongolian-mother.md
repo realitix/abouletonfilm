@@ -1,0 +1,1 @@
+{"tmdb_id": 309287, "title": "My Mongolian Mother", "original_title": "\u989d\u5409", "slug_title": "my-mongolian-mother", "date": "2010-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzUnkgdEG6CbjwnVeFEiZb6h4MG.jpg", "actors": ["Na Renhua ()"], "comments": [], "recommandations_id": []}

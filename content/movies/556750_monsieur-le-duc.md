@@ -1,0 +1,1 @@
+{"tmdb_id": 556750, "title": "Monsieur le duc", "original_title": "Monsieur le duc", "slug_title": "monsieur-le-duc", "date": "1931-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

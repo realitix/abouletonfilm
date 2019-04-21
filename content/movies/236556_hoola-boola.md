@@ -1,0 +1,1 @@
+{"tmdb_id": 236556, "title": "Hoola Boola", "original_title": "Hoola Boola", "slug_title": "hoola-boola", "date": "1941-06-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikOoXGhM0l8iuL0RiJ31kWm9FsP.jpg", "actors": ["Pat McGeehan (Jim Dandy (voice))"], "comments": [], "recommandations_id": []}

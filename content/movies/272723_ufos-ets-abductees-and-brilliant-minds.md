@@ -1,0 +1,1 @@
+{"tmdb_id": 272723, "title": "UFOs, ETs, Abductees and Brilliant Minds", "original_title": "UFOs, ETs, Abductees and Brilliant Minds", "slug_title": "ufos-ets-abductees-and-brilliant-minds", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

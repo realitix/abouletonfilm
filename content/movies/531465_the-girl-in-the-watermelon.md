@@ -1,0 +1,1 @@
+{"tmdb_id": 531465, "title": "The Girl in the Watermelon", "original_title": "The Girl in the Watermelon", "slug_title": "the-girl-in-the-watermelon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

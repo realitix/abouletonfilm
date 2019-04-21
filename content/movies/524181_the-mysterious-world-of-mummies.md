@@ -1,0 +1,1 @@
+{"tmdb_id": 524181, "title": "The Mysterious World of Mummies", "original_title": "The Mysterious World of Mummies", "slug_title": "the-mysterious-world-of-mummies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lpPpmIK936sIbwtlvvFSlQTYCL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 409263, "title": "Ghost in My Room", "original_title": "Ghost in My Room", "slug_title": "ghost-in-my-room", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVZkNRAmxTH5pXh2rxWoeOJGHiW.jpg", "actors": [], "comments": [], "recommandations_id": []}

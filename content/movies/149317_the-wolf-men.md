@@ -1,0 +1,1 @@
+{"tmdb_id": 149317, "title": "The Wolf Men", "original_title": "The Wolf Men", "slug_title": "the-wolf-men", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vV9l6L0rbPD5qkcCgBf6duL8uEg.jpg", "actors": ["James Coburn (Narrator)"], "comments": [], "recommandations_id": []}

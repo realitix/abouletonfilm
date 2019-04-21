@@ -1,0 +1,1 @@
+{"tmdb_id": 386026, "title": "Summer Ends in Autumn", "original_title": "Vasara baigiasi ruden\u012f", "slug_title": "summer-ends-in-autumn", "date": "1981-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4hslTGv6ktp6FXei0jnvrFpKlw.jpg", "actors": [], "comments": [], "recommandations_id": []}

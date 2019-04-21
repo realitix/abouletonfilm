@@ -1,0 +1,1 @@
+{"tmdb_id": 300268, "title": "A Shade of Dawn", "original_title": "A Shade of Dawn", "slug_title": "a-shade-of-dawn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

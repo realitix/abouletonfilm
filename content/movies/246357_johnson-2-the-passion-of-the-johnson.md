@@ -1,0 +1,1 @@
+{"tmdb_id": 246357, "title": "Johnson 2: The Passion Of The Johnson", "original_title": "Johnson 2: The Passion Of The Johnson", "slug_title": "johnson-2-the-passion-of-the-johnson", "date": "2005-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

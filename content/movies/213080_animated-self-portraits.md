@@ -1,0 +1,1 @@
+{"tmdb_id": 213080, "title": "Animated Self-Portraits", "original_title": "Animated Self-Portraits", "slug_title": "animated-self-portraits", "date": "1989-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7USbfaPGPpOdEvjGX9O0ckbR7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

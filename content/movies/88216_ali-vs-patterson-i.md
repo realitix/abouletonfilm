@@ -1,0 +1,1 @@
+{"tmdb_id": 88216, "title": "Ali vs Patterson I", "original_title": "Ali vs Patterson I", "slug_title": "ali-vs-patterson-i", "date": "1965-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLAmyortBWidt3TShwsOoSPpd0T.jpg", "actors": [], "comments": [], "recommandations_id": []}

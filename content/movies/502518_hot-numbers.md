@@ -1,0 +1,1 @@
+{"tmdb_id": 502518, "title": "Hot Numbers", "original_title": "Hot Numbers", "slug_title": "hot-numbers", "date": "1987-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nina Hartley ()", "Tracey Adams ()", "Nikki Knights ()", "Billy Dee ()", "Buddy Love ()", "Jon Martin ()"], "comments": [], "recommandations_id": []}

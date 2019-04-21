@@ -1,0 +1,1 @@
+{"tmdb_id": 176723, "title": "Comando", "original_title": "Comando", "slug_title": "comando", "date": "2010-03-01", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8tVqEWarEcmJJkv7RZEevqQ1MY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 375316, "title": "Wenches", "original_title": "Weibsbilder", "slug_title": "wenches", "date": "1996-08-08", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q04Um5XpVtR66ZbRkCrDQ1Jn6Z4.jpg", "actors": ["Esther Schweins ()", "Hugo Egon Balder ()"], "comments": [], "recommandations_id": []}

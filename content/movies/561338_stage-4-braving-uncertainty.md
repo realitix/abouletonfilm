@@ -1,0 +1,1 @@
+{"tmdb_id": 561338, "title": "Stage 4: Braving Uncertainty", "original_title": "Stage 4: Braving Uncertainty", "slug_title": "stage-4-braving-uncertainty", "date": "2018-08-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

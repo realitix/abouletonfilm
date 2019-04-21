@@ -1,0 +1,1 @@
+{"tmdb_id": 173941, "title": "La Fid\u00e9lit\u00e9", "original_title": "La Fid\u00e9lit\u00e9", "slug_title": "la-fidelite", "date": "2006-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u00c9lodie Fr\u00e9g\u00e9 (Herself)"], "comments": [], "recommandations_id": []}

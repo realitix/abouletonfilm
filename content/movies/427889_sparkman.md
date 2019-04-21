@@ -1,0 +1,1 @@
+{"tmdb_id": 427889, "title": "Sparkman", "original_title": "Sparkman", "slug_title": "sparkman", "date": "1988-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/26T3E7peFFnKoVQOZEUaUQmTule.jpg", "actors": ["Shim Hyung-rae (Sparkman)"], "comments": [], "recommandations_id": []}

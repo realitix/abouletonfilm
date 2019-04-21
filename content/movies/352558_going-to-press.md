@@ -1,0 +1,1 @@
+{"tmdb_id": 352558, "title": "Going to Press", "original_title": "Going to Press", "slug_title": "going-to-press", "date": "1942-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

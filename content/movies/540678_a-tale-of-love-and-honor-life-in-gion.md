@@ -1,0 +1,1 @@
+{"tmdb_id": 540678, "title": "A Tale of Love and Honor: Life in Gion", "original_title": "A Tale of Love and Honor: Life in Gion", "slug_title": "a-tale-of-love-and-honor-life-in-gion", "date": "2017-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kimi Ohta (Herself)"], "comments": [], "recommandations_id": []}

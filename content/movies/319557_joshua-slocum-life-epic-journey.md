@@ -1,0 +1,1 @@
+{"tmdb_id": 319557, "title": "Joshua Slocum: Life & Epic Journey", "original_title": "Joshua Slocum: Life & Epic Journey", "slug_title": "joshua-slocum-life-epic-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 259605, "title": "A Crossroad Called Manzanar", "original_title": "A Crossroad Called Manzanar", "slug_title": "a-crossroad-called-manzanar", "date": "2010-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

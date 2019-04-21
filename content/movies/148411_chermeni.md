@@ -1,0 +1,1 @@
+{"tmdb_id": 148411, "title": "Chermeni", "original_title": "Chermeni", "slug_title": "chermeni", "date": "1970-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pg95f9hiJYcAKKdkfKR5vEFrlV4.jpg", "actors": [], "comments": [], "recommandations_id": []}

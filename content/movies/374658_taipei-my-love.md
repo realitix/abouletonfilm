@@ -1,0 +1,1 @@
+{"tmdb_id": 374658, "title": "Taipei My Love", "original_title": "\u53f0\u5317\u543e\u611b", "slug_title": "taipei-my-love", "date": "1980-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ying Tsai Ling ()", "Wang Fu-Shi ()"], "comments": [], "recommandations_id": []}

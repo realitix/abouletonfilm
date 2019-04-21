@@ -1,0 +1,1 @@
+{"tmdb_id": 328521, "title": "Alexander Hamilton- Favorite Son", "original_title": "Alexander Hamilton- Favorite Son", "slug_title": "alexander-hamilton-favorite-son", "date": "2004-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

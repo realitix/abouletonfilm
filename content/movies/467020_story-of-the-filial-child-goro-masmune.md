@@ -1,0 +1,1 @@
+{"tmdb_id": 467020, "title": "Story of the Filial Child Goro Masmune", "original_title": "Story of the Filial Child Goro Masmune", "slug_title": "story-of-the-filial-child-goro-masmune", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

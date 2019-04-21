@@ -1,0 +1,1 @@
+{"tmdb_id": 473546, "title": "Kardinal", "original_title": "Kardinal", "slug_title": "kardinal", "date": "1967-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwRu46YkOymQYAIcmhT7xfX7AuC.jpg", "actors": [], "comments": [], "recommandations_id": []}

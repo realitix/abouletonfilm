@@ -1,0 +1,1 @@
+{"tmdb_id": 568737, "title": "3 Week Boot Camp", "original_title": "3 Week Boot Camp", "slug_title": "3-week-boot-camp", "date": "2009-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLcRPXfRVlONNjwc4p5Fmrm54DW.jpg", "actors": [], "comments": [], "recommandations_id": []}

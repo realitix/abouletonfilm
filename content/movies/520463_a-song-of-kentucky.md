@@ -1,0 +1,1 @@
+{"tmdb_id": 520463, "title": "A Song of Kentucky", "original_title": "A Song of Kentucky", "slug_title": "a-song-of-kentucky", "date": "1929-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lois Moran (Lee Coleman)", "Joseph Wagstaff (Jerry Reavis)"], "comments": [], "recommandations_id": []}

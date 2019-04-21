@@ -1,0 +1,1 @@
+{"tmdb_id": 310981, "title": "Mars in the Well", "original_title": "Sao hoa noi day gieng", "slug_title": "mars-in-the-well", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

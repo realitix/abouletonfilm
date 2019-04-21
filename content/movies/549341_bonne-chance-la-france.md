@@ -1,0 +1,1 @@
+{"tmdb_id": 549341, "title": "Bonne chance, la France!", "original_title": "Bonne chance, la France!", "slug_title": "bonne-chance-la-france", "date": "1974-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

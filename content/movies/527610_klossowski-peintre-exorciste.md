@@ -1,0 +1,1 @@
+{"tmdb_id": 527610, "title": "Klossowski, peintre-exorciste", "original_title": "Klossowski, peintre-exorciste", "slug_title": "klossowski-peintre-exorciste", "date": "1988-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6En8SMe35iYMfjA2tLAPpPsTlzq.jpg", "actors": [], "comments": [], "recommandations_id": []}

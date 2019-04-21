@@ -1,0 +1,1 @@
+{"tmdb_id": 49386, "title": "Boom Festival 2004", "original_title": "Boom Festival 2004", "slug_title": "boom-festival-2004", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 262409, "title": "Mallika", "original_title": "Mallika", "slug_title": "mallika", "date": "1957-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()"], "comments": [], "recommandations_id": []}

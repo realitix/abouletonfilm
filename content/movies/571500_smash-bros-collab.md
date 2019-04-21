@@ -1,0 +1,1 @@
+{"tmdb_id": 571500, "title": "Smash Bros Collab", "original_title": "Smash Bros Collab", "slug_title": "smash-bros-collab", "date": "", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hm58pAGQH8dtRQSC6eRYxP8IT0.jpg", "actors": [], "comments": [], "recommandations_id": []}

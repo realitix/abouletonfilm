@@ -1,0 +1,1 @@
+{"tmdb_id": 274594, "title": "Computer Animation Journeys", "original_title": "Computer Animation Journeys", "slug_title": "computer-animation-journeys", "date": "2004-08-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvN8gY780IZ5wIeuAzMkvWKmE4m.jpg", "actors": [], "comments": [], "recommandations_id": []}

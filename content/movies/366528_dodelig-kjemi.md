@@ -1,0 +1,1 @@
+{"tmdb_id": 366528, "title": "D\u00f8delig kjemi", "original_title": "D\u00f8delig kjemi", "slug_title": "dodelig-kjemi", "date": "", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["H\u00e5vard Bakke (Ivar Jensen)"], "comments": [], "recommandations_id": []}

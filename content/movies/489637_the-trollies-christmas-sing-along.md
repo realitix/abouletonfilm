@@ -1,0 +1,1 @@
+{"tmdb_id": 489637, "title": "The Trollies Christmas Sing-Along", "original_title": "The Trollies Christmas Sing-Along", "slug_title": "the-trollies-christmas-sing-along", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mi8dDF2KfPwwNyeUsRAZuvxbpHL.jpg", "actors": [], "comments": [], "recommandations_id": []}

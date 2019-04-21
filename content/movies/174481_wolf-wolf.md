@@ -1,0 +1,1 @@
+{"tmdb_id": 174481, "title": "Wolf! Wolf!", "original_title": "Wolf! Wolf!", "slug_title": "wolf-wolf", "date": "1934-04-11", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jBeMoRybU8ncfrAmHqrhgQ4YET.jpg", "actors": [], "comments": [], "recommandations_id": []}

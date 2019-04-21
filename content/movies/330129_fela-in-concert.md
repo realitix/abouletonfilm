@@ -1,0 +1,1 @@
+{"tmdb_id": 330129, "title": "Fela In Concert", "original_title": "Fela In Concert", "slug_title": "fela-in-concert", "date": "2001-10-30", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZWeXc4Q02qAldcSCSq3BsOSlls.jpg", "actors": ["Fela Kuti (himself)"], "comments": [], "recommandations_id": []}

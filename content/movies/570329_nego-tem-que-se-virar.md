@@ -1,0 +1,1 @@
+{"tmdb_id": 570329, "title": "Nego Tem Que Se Virar", "original_title": "Nego Tem Que Se Virar", "slug_title": "nego-tem-que-se-virar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alana Bierk ()", "Ronald Hor\u00e1cio ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520444, "title": "Ashram in Poona", "original_title": "Ashram in Poona", "slug_title": "ashram-in-poona", "date": "1981-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tvAsjgCXtCf1PNp3a4Vsnnz3Zvg.jpg", "actors": [], "comments": [], "recommandations_id": []}

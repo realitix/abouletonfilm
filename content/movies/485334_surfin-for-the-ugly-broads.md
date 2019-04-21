@@ -1,0 +1,1 @@
+{"tmdb_id": 485334, "title": "Surfin' For The Ugly Broads", "original_title": "Surfin' For The Ugly Broads", "slug_title": "surfin-for-the-ugly-broads", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

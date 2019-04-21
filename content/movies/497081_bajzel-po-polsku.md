@@ -1,0 +1,1 @@
+{"tmdb_id": 497081, "title": "Bajzel po polsku", "original_title": "Bajzel po polsku", "slug_title": "bajzel-po-polsku", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 315195, "title": "The King's Dementia", "original_title": "The King's Dementia", "slug_title": "the-king-s-dementia", "date": "2013-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abdul Zainidi (King)"], "comments": [], "recommandations_id": []}

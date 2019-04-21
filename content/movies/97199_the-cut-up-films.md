@@ -1,0 +1,1 @@
+{"tmdb_id": 97199, "title": "The Cut Up Films", "original_title": "The Cut Up Films", "slug_title": "the-cut-up-films", "date": "2004-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mG9mbVpNE0N3dFcBHXxyuKnYNV7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 339114, "title": "Sub-Mariner", "original_title": "Sub-Mariner", "slug_title": "sub-mariner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

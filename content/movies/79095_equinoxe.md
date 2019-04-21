@@ -1,0 +1,1 @@
+{"tmdb_id": 79095, "title": "Equinoxe", "original_title": "Equinoxe", "slug_title": "equinoxe", "date": "1986-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacques Godin ()", "Ariane Fr\u00e9d\u00e9rique ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 132865, "title": "The Best Government Money Can Buy?", "original_title": "The Best Government Money Can Buy?", "slug_title": "the-best-government-money-can-buy", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

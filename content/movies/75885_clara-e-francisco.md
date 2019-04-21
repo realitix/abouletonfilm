@@ -1,0 +1,1 @@
+{"tmdb_id": 75885, "title": "Clara e Francisco", "original_title": "Clara e Francisco", "slug_title": "clara-e-francisco", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

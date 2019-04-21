@@ -1,0 +1,1 @@
+{"tmdb_id": 236558, "title": "Robinson Crusoe Jr.", "original_title": "Robinson Crusoe Jr.", "slug_title": "robinson-crusoe-jr", "date": "1941-10-24", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7NcD6MEo0ACc5lZZ2Q51Tbm0l0l.jpg", "actors": [], "comments": [], "recommandations_id": []}

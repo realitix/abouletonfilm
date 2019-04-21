@@ -1,0 +1,1 @@
+{"tmdb_id": 564425, "title": "THE FIFTH POINT OF THE COMPASS", "original_title": "THE FIFTH POINT OF THE COMPASS", "slug_title": "the-fifth-point-of-the-compass", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313874, "title": "The Perfect Human's Tomorrow", "original_title": "The Perfect Human's Tomorrow", "slug_title": "the-perfect-human-s-tomorrow", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

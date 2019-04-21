@@ -1,0 +1,1 @@
+{"tmdb_id": 520058, "title": "The Sugarcubes: The DVD", "original_title": "The Sugarcubes: The DVD", "slug_title": "the-sugarcubes-the-dvd", "date": "2004-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

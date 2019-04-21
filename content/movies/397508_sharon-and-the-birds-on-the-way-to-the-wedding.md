@@ -1,0 +1,1 @@
+{"tmdb_id": 397508, "title": "Sharon and the Birds on the Way to the Wedding", "original_title": "Sharon and the Birds on the Way to the Wedding", "slug_title": "sharon-and-the-birds-on-the-way-to-the-wedding", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

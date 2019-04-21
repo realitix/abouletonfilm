@@ -1,0 +1,1 @@
+{"tmdb_id": 257246, "title": "The Farmer and the Chef", "original_title": "The Farmer and the Chef", "slug_title": "the-farmer-and-the-chef", "date": "2014-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnza9a37R0DPVikanD14j2HAYds.jpg", "actors": [], "comments": [], "recommandations_id": []}

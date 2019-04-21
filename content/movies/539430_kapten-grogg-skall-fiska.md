@@ -1,0 +1,1 @@
+{"tmdb_id": 539430, "title": "Kapten Grogg skall fiska", "original_title": "Kapten Grogg skall fiska", "slug_title": "kapten-grogg-skall-fiska", "date": "1921-09-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

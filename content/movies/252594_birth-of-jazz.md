@@ -1,0 +1,1 @@
+{"tmdb_id": 252594, "title": "Birth of Jazz", "original_title": "Birth of Jazz", "slug_title": "birth-of-jazz", "date": "1932-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

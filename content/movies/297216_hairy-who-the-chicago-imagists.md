@@ -1,0 +1,1 @@
+{"tmdb_id": 297216, "title": "Hairy Who & The Chicago Imagists", "original_title": "Hairy Who & The Chicago Imagists", "slug_title": "hairy-who-the-chicago-imagists", "date": "2014-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

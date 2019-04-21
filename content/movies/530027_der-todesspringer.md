@@ -1,0 +1,1 @@
+{"tmdb_id": 530027, "title": "Der Todesspringer", "original_title": "Der Todesspringer", "slug_title": "der-todesspringer", "date": "1984-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 235999, "title": "The Redwood Sap", "original_title": "The Redwood Sap", "slug_title": "the-redwood-sap", "date": "1951-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTelrsoIIcoZQCf0oDP5R1UfOkt.jpg", "actors": [], "comments": [], "recommandations_id": []}

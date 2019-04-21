@@ -1,0 +1,1 @@
+{"tmdb_id": 402981, "title": "Kaiju Fury", "original_title": "Kaiju Fury", "slug_title": "kaiju-fury", "date": "2014-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rT4uMqaHMU8bhHC4yDrZ3mIikTY.jpg", "actors": [], "comments": [], "recommandations_id": []}

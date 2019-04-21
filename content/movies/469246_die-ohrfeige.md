@@ -1,0 +1,1 @@
+{"tmdb_id": 469246, "title": "Die Ohrfeige", "original_title": "Die Ohrfeige", "slug_title": "die-ohrfeige", "date": "1975-10-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Schell ()", "Gerald Schneider ()", "Erna Gro\u00dfmann ()", "Otto Wirbitzky ()"], "comments": [], "recommandations_id": []}

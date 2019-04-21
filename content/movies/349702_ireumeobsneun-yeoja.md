@@ -1,0 +1,1 @@
+{"tmdb_id": 349702, "title": "\uc774\ub984\uc5c6\ub294 \uc5ec\uc790", "original_title": "\uc774\ub984\uc5c6\ub294 \uc5ec\uc790", "slug_title": "ireumeobsneun-yeoja", "date": "1984-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

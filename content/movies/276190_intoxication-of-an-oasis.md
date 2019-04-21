@@ -1,0 +1,1 @@
+{"tmdb_id": 276190, "title": "Intoxication of an Oasis", "original_title": "Intoxication of an Oasis", "slug_title": "intoxication-of-an-oasis", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dn6SqnZlijra5qwspHZaK0Sc9kJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

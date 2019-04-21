@@ -1,0 +1,1 @@
+{"tmdb_id": 350978, "title": "\ubc31\uad6c\uc57c \ud6e8\ud6e8 \ub0a0\uc9c0\ub9c8\ub77c", "original_title": "\ubc31\uad6c\uc57c \ud6e8\ud6e8 \ub0a0\uc9c0\ub9c8\ub77c", "slug_title": "baegguya-hweolhweol-naljimara", "date": "1983-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

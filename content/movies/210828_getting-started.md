@@ -1,0 +1,1 @@
+{"tmdb_id": 210828, "title": "Getting Started", "original_title": "Getting Started", "slug_title": "getting-started", "date": "1979-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8gdJ9MRCYgKhiy5iOBCi4eGfcxn.jpg", "actors": ["Richard Condie ()", "Jay Brazeau ()"], "comments": [], "recommandations_id": []}

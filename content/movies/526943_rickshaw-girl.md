@@ -1,0 +1,1 @@
+{"tmdb_id": 526943, "title": "Rickshaw Girl", "original_title": "Rickshaw Girl", "slug_title": "rickshaw-girl", "date": "2018-12-31", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLfHxGaXAHd3RaQYf9kW8DQ5CZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

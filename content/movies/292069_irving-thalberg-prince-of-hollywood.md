@@ -1,0 +1,1 @@
+{"tmdb_id": 292069, "title": "Irving Thalberg: Prince of Hollywood", "original_title": "Irving Thalberg: Prince of Hollywood", "slug_title": "irving-thalberg-prince-of-hollywood", "date": "2005-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stanley Tucci (Narrator)"], "comments": [], "recommandations_id": []}

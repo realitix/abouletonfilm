@@ -1,0 +1,1 @@
+{"tmdb_id": 427781, "title": "Chimney Piece", "original_title": "Chimney Piece", "slug_title": "chimney-piece", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a4W0fwrEjFptHdvqnfvrNUGvNrf.jpg", "actors": [], "comments": [], "recommandations_id": []}

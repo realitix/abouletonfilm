@@ -1,0 +1,1 @@
+{"tmdb_id": 325828, "title": "The Bomb Idea", "original_title": "The Bomb Idea", "slug_title": "the-bomb-idea", "date": "1920-11-06", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

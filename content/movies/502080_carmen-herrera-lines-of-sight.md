@@ -1,0 +1,1 @@
+{"tmdb_id": 502080, "title": "Carmen Herrera. Lines of Sight", "original_title": "Carmen Herrera. Lines of Sight", "slug_title": "carmen-herrera-lines-of-sight", "date": "2017-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

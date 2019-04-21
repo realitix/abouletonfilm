@@ -1,0 +1,1 @@
+{"tmdb_id": 464896, "title": "L'enfant et le ca\u00efman", "original_title": "L'enfant et le ca\u00efman", "slug_title": "l-enfant-et-le-caiman", "date": "1999-10-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

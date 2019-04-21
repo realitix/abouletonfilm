@@ -1,0 +1,1 @@
+{"tmdb_id": 179724, "title": "Associations", "original_title": "Associations", "slug_title": "associations", "date": "1975-01-01", "genre": "", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/moYpi5E62qJJh5RYLdpSzg6B7ys.jpg", "actors": [], "comments": [], "recommandations_id": [289849, 154049, 149067, 154050]}

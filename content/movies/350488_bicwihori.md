@@ -1,0 +1,1 @@
+{"tmdb_id": 350488, "title": "\ube44\ucde8\ud638\ub9ac", "original_title": "\ube44\ucde8\ud638\ub9ac", "slug_title": "bicwihori", "date": "1979-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

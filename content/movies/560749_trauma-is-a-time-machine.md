@@ -1,0 +1,1 @@
+{"tmdb_id": 560749, "title": "Trauma is a Time Machine", "original_title": "Trauma is a Time Machine", "slug_title": "trauma-is-a-time-machine", "date": "2018-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94JCsqfCJofpyepnffdYt2IHnAl.jpg", "actors": [], "comments": [], "recommandations_id": []}

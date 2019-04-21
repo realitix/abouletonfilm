@@ -1,0 +1,1 @@
+{"tmdb_id": 240442, "title": "Samba-Mania", "original_title": "Samba-Mania", "slug_title": "samba-mania", "date": "1948-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVGzoOaE6ij9CpgpCLPHUYJOUS2.jpg", "actors": [], "comments": [], "recommandations_id": []}

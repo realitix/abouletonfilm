@@ -1,0 +1,1 @@
+{"tmdb_id": 500004, "title": "Emicem Hospital", "original_title": "Emicem Hospital", "slug_title": "emicem-hospital", "date": "2016-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxZd1AC3OAMWAxwouKO5P136GQ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

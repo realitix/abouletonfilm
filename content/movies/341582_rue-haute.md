@@ -1,0 +1,1 @@
+{"tmdb_id": 341582, "title": "Rue haute", "original_title": "Rue haute", "slug_title": "rue-haute", "date": "1976-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVwtxM5r72qbtpNd5M4QLb1aBet.jpg", "actors": ["Mort Shuman (David Reinhardt)", "Annie Cordy (Mimi)"], "comments": [], "recommandations_id": []}

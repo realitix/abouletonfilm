@@ -1,0 +1,1 @@
+{"tmdb_id": 360587, "title": "Enter The Kettlebell", "original_title": "Enter The Kettlebell", "slug_title": "enter-the-kettlebell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJcD2XEKeqCX3xv1mQv9OksJ0ko.jpg", "actors": ["Pavel Tsatsouline (Trainer)"], "comments": [], "recommandations_id": []}

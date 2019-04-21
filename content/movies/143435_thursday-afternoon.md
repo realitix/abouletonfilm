@@ -1,0 +1,1 @@
+{"tmdb_id": 143435, "title": "Thursday Afternoon", "original_title": "Thursday Afternoon", "slug_title": "thursday-afternoon", "date": "1984-08-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wpOL8jXqfE25XrQFJ45t6wB0iYb.jpg", "actors": [], "comments": [], "recommandations_id": []}

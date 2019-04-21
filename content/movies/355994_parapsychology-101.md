@@ -1,0 +1,1 @@
+{"tmdb_id": 355994, "title": "Parapsychology 101", "original_title": "Parapsychology 101", "slug_title": "parapsychology-101", "date": "2012-09-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWfrh62CmoOeET89Wt1auXvxhB8.jpg", "actors": [], "comments": [], "recommandations_id": []}

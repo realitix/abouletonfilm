@@ -1,0 +1,1 @@
+{"tmdb_id": 525769, "title": "Musiquiz", "original_title": "Musiquiz", "slug_title": "musiquiz", "date": "1952-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8qjIEMcH3oxJUFuWOZx5Ado7jk.jpg", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

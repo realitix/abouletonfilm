@@ -1,0 +1,1 @@
+{"tmdb_id": 410022, "title": "Kempinski", "original_title": "Kempinski", "slug_title": "kempinski", "date": "2007-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgi8YhmswZwMZjRP9ovfjNX6fqn.jpg", "actors": [], "comments": [], "recommandations_id": []}

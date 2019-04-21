@@ -1,0 +1,1 @@
+{"tmdb_id": 548949, "title": "Mick Foley: 20 Years of Hell", "original_title": "Mick Foley: 20 Years of Hell", "slug_title": "mick-foley-20-years-of-hell", "date": "2018-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y39FULOoVoFXgcVAM6YeraKRVb8.jpg", "actors": [], "comments": [], "recommandations_id": []}

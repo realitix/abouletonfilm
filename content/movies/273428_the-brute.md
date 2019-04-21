@@ -1,0 +1,1 @@
+{"tmdb_id": 273428, "title": "The Brute", "original_title": "The Brute", "slug_title": "the-brute", "date": "1920-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Evelyn Preer ()", "A.B. DeComathiere ()", "Sam Langford ()"], "comments": [], "recommandations_id": []}

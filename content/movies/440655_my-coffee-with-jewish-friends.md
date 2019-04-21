@@ -1,0 +1,1 @@
+{"tmdb_id": 440655, "title": "My Coffee With Jewish Friends", "original_title": "My Coffee With Jewish Friends", "slug_title": "my-coffee-with-jewish-friends", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qoXMmch8Ya3It2iSrPvLHqOOZ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 462005, "title": "The Bike Detectives", "original_title": "The Bike Detectives", "slug_title": "the-bike-detectives", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

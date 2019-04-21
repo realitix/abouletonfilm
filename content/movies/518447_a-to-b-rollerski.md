@@ -1,0 +1,1 @@
+{"tmdb_id": 518447, "title": "A to B Rollerski", "original_title": "A to B Rollerski", "slug_title": "a-to-b-rollerski", "date": "2017-05-04", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VmwJByHU5m5NNRsbiHdKYwQYFD.jpg", "actors": ["Raimonds Dombrovskis (Himself)"], "comments": [], "recommandations_id": []}

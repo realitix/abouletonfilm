@@ -1,0 +1,1 @@
+{"tmdb_id": 349888, "title": "\uce5c\uad6c\uc57c! \uce5c\uad6c\uc57c!", "original_title": "\uce5c\uad6c\uc57c! \uce5c\uad6c\uc57c!", "slug_title": "cinguya-cinguya", "date": "1990-09-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

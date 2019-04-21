@@ -1,0 +1,1 @@
+{"tmdb_id": 176442, "title": "Die Hermannschlacht", "original_title": "Die Hermannschlacht", "slug_title": "die-hermannschlacht", "date": "1924-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iISKK2m89DXkIhXoDtq07cytPPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

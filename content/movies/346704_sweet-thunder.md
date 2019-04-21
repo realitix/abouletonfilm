@@ -1,0 +1,1 @@
+{"tmdb_id": 346704, "title": "Sweet Thunder", "original_title": "Sweet Thunder", "slug_title": "sweet-thunder", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Oyelowo (Sugar Ray Robinson)"], "comments": [], "recommandations_id": []}

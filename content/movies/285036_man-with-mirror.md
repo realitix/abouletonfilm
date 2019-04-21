@@ -1,0 +1,1 @@
+{"tmdb_id": 285036, "title": "Man with Mirror", "original_title": "Man with Mirror", "slug_title": "man-with-mirror", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x3CXkV5swjBMfMSu29qu1atJbVJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

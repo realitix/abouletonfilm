@@ -1,0 +1,1 @@
+{"tmdb_id": 569836, "title": "Shimanto River", "original_title": "\u56db\u4e07\u5341\u5ddd", "slug_title": "shimanto-river", "date": "1991-12-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85a3oh4jmsh31BQ1AV6dwwKlxwI.jpg", "actors": [], "comments": [], "recommandations_id": []}

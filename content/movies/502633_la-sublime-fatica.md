@@ -1,0 +1,1 @@
+{"tmdb_id": 502633, "title": "La sublime fatica", "original_title": "La sublime fatica", "slug_title": "la-sublime-fatica", "date": "1967-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

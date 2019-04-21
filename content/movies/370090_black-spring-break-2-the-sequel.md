@@ -1,0 +1,1 @@
+{"tmdb_id": 370090, "title": "Black Spring Break 2: The Sequel", "original_title": "Black Spring Break 2: The Sequel", "slug_title": "black-spring-break-2-the-sequel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xMrUqduGSjm0eZF8LgDuQx2zHMX.jpg", "actors": [], "comments": [], "recommandations_id": []}

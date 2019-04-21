@@ -1,0 +1,1 @@
+{"tmdb_id": 324958, "title": "Filmmaking with Lia Scott Price", "original_title": "Filmmaking with Lia Scott Price", "slug_title": "filmmaking-with-lia-scott-price", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

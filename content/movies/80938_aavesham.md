@@ -1,0 +1,1 @@
+{"tmdb_id": 80938, "title": "Aavesham", "original_title": "Aavesham", "slug_title": "aavesham", "date": "1994-05-22", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jJgNKkxFNsFZtcQ1qGjR2iwM1H.jpg", "actors": ["Dr. Rajasekhar ()", "Nagma (Heroine)"], "comments": [], "recommandations_id": []}

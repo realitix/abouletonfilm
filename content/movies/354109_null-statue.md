@@ -1,0 +1,1 @@
+{"tmdb_id": 354109, "title": "Null Statue", "original_title": "Null Statue", "slug_title": "null-statue", "date": "2015-08-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

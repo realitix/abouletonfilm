@@ -1,0 +1,1 @@
+{"tmdb_id": 551441, "title": "Canale grande", "original_title": "Canale grande", "slug_title": "canale-grande", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tsGovP4xDqrlk9rIoovlBBDuoEP.jpg", "actors": ["Friederike Pezold ()"], "comments": [], "recommandations_id": []}

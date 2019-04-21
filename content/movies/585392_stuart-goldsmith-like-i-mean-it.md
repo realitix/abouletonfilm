@@ -1,0 +1,1 @@
+{"tmdb_id": 585392, "title": "Stuart Goldsmith: Like I Mean It", "original_title": "Stuart Goldsmith: Like I Mean It", "slug_title": "stuart-goldsmith-like-i-mean-it", "date": "2019-02-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stuart Goldsmith (Self)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274531, "title": "Arabs and Terrorism", "original_title": "Arabs and Terrorism", "slug_title": "arabs-and-terrorism", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

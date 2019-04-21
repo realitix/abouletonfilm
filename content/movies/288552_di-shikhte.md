@@ -1,0 +1,1 @@
+{"tmdb_id": 288552, "title": "Di shikhte", "original_title": "Di shikhte", "slug_title": "di-shikhte", "date": "1914-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

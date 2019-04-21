@@ -1,0 +1,1 @@
+{"tmdb_id": 436956, "title": "\u53e3\u88c2\u3051\u5973", "original_title": "\u53e3\u88c2\u3051\u5973", "slug_title": "kou-lie-kenu", "date": "2008-03-22", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dT2AQpveJhJowNKLp4UC6fbPhxi.jpg", "actors": [], "comments": [], "recommandations_id": []}

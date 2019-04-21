@@ -1,0 +1,1 @@
+{"tmdb_id": 376617, "title": "Samuray-S", "original_title": "Samuray-S", "slug_title": "samuray-s", "date": "2015-10-02", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92GpAlfm1pZBV73Gi5et1x8fddy.jpg", "actors": [], "comments": [], "recommandations_id": []}

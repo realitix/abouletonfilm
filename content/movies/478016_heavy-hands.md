@@ -1,0 +1,1 @@
+{"tmdb_id": 478016, "title": "Heavy Hands", "original_title": "Heavy Hands", "slug_title": "heavy-hands", "date": "2012-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

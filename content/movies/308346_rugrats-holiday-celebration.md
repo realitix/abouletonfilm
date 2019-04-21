@@ -1,0 +1,1 @@
+{"tmdb_id": 308346, "title": "Rugrats: Holiday Celebration", "original_title": "Rugrats: Holiday Celebration", "slug_title": "rugrats-holiday-celebration", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 510504, "title": "Emergency Doctor", "original_title": "Emergency Doctor", "slug_title": "emergency-doctor", "date": "1956-06-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Roberts (Narrator)"], "comments": [], "recommandations_id": []}

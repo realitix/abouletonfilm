@@ -1,0 +1,1 @@
+{"tmdb_id": 340062, "title": "Erik Rivera: I'm No Expert", "original_title": "Erik Rivera: I'm No Expert", "slug_title": "erik-rivera-i-m-no-expert", "date": "2015-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

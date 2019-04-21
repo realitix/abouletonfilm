@@ -1,0 +1,1 @@
+{"tmdb_id": 301065, "title": "Pot Country", "original_title": "Pot Country", "slug_title": "pot-country", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512375, "title": "Body Count", "original_title": "Body Count", "slug_title": "body-count", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Christian ()", "Joe Estevez ()", "Christopher Mitchum ()", "Mike Tristano ()", "Ashlie Rhey ()"], "comments": [], "recommandations_id": []}

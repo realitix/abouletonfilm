@@ -1,0 +1,1 @@
+{"tmdb_id": 500175, "title": "Neptune", "original_title": "Netuno", "slug_title": "neptune", "date": "2017-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTQUu5ewulrnSrKOGWgFop0X4DO.jpg", "actors": ["Leandro Jos\u00e9 (Maicon)", "Norval Berbari (Sandro)"], "comments": [], "recommandations_id": []}

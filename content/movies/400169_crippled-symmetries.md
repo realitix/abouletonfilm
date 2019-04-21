@@ -1,0 +1,1 @@
+{"tmdb_id": 400169, "title": "Crippled Symmetries", "original_title": "Crippled Symmetries", "slug_title": "crippled-symmetries", "date": "2016-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evGbJkWHMpwH15boiJ2nRIivCGc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 492051, "title": "The Seven Pillars of Catholic Spirituality", "original_title": "The Seven Pillars of Catholic Spirituality", "slug_title": "the-seven-pillars-of-catholic-spirituality", "date": "2012-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

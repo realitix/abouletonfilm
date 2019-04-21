@@ -1,0 +1,1 @@
+{"tmdb_id": 547412, "title": "Fritz Hauser: Sound Explorer", "original_title": "Fritz Hauser: Klangwerker", "slug_title": "fritz-hauser-sound-explorer", "date": "2011-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fritz Hauser (Himself)"], "comments": [], "recommandations_id": []}

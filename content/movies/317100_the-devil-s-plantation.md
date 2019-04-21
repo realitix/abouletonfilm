@@ -1,0 +1,1 @@
+{"tmdb_id": 317100, "title": "The Devil's Plantation", "original_title": "The Devil's Plantation", "slug_title": "the-devil-s-plantation", "date": "2013-02-23", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate Dickie ()", "Gary Lewis (Harry Bell)"], "comments": [], "recommandations_id": []}

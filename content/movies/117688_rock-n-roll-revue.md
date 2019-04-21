@@ -1,0 +1,1 @@
+{"tmdb_id": 117688, "title": "Rock 'n' Roll Revue", "original_title": "Rock 'n' Roll Revue", "slug_title": "rock-n-roll-revue", "date": "1955-10-07", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kUbFF0MtHBurpjJSvoIzVgprTOg.jpg", "actors": [], "comments": [], "recommandations_id": []}

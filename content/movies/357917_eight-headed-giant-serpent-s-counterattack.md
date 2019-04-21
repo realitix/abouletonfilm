@@ -1,0 +1,1 @@
+{"tmdb_id": 357917, "title": "Eight-Headed Giant Serpent's Counterattack", "original_title": "Eight-Headed Giant Serpent's Counterattack", "slug_title": "eight-headed-giant-serpent-s-counterattack", "date": "1985-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

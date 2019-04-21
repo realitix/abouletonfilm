@@ -1,0 +1,1 @@
+{"tmdb_id": 527927, "title": "La Valse", "original_title": "La Valse", "slug_title": "la-valse", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7yfN3IYoiaCbArbnOM8CL6lTxES.jpg", "actors": [], "comments": [], "recommandations_id": []}

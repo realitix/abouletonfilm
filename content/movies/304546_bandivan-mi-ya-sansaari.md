@@ -1,0 +1,1 @@
+{"tmdb_id": 304546, "title": "Bandivan Mi Ya Sansaari", "original_title": "Bandivan Mi Ya Sansaari", "slug_title": "bandivan-mi-ya-sansaari", "date": "1988-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302777, "title": "Mullets On Fire", "original_title": "Mullets On Fire", "slug_title": "mullets-on-fire", "date": "2014-02-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3YsZUvMRpcFfAUtV8xJfp6QUXJ.jpg", "actors": ["Bob Smiley (Himself)"], "comments": [], "recommandations_id": []}

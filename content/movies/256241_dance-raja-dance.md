@@ -1,0 +1,1 @@
+{"tmdb_id": 256241, "title": "Dance Raja Dance", "original_title": "Dance Raja Dance", "slug_title": "dance-raja-dance", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 492420, "title": "Okada vs Omega II Dominion", "original_title": "Okada vs Omega II Dominion", "slug_title": "okada-vs-omega-ii-dominion", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tyson Smith (Kenny Omega)", "Kazuchika Okada (Kazuchika Okada)"], "comments": [], "recommandations_id": []}

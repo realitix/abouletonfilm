@@ -1,0 +1,1 @@
+{"tmdb_id": 335752, "title": "Argent Liquide (Cash Flow)", "original_title": "Argent Liquide", "slug_title": "argent-liquide-cash-flow", "date": "2003-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPeBeCDRiHUmpGYdVaXMEeuhnBQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

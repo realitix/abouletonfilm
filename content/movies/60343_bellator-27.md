@@ -1,0 +1,1 @@
+{"tmdb_id": 60343, "title": "Bellator 27", "original_title": "Bellator 27", "slug_title": "bellator-27", "date": "2010-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/CgZ51QouXG8a83JEfPDe3kvbxX.jpg", "actors": [], "comments": [], "recommandations_id": []}

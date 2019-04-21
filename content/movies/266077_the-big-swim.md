@@ -1,0 +1,1 @@
+{"tmdb_id": 266077, "title": "The Big Swim", "original_title": "The Big Swim", "slug_title": "the-big-swim", "date": "1964-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMFiKIOSENf8p4wy2zdiO3cvIBd.jpg", "actors": [], "comments": [], "recommandations_id": []}

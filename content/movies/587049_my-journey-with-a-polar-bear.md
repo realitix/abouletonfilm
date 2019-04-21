@@ -1,0 +1,1 @@
+{"tmdb_id": 587049, "title": "My Journey with a Polar Bear", "original_title": "My Journey with a Polar Bear", "slug_title": "my-journey-with-a-polar-bear", "date": "2019-03-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

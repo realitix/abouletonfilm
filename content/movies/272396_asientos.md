@@ -1,0 +1,1 @@
+{"tmdb_id": 272396, "title": "Asientos", "original_title": "Asientos", "slug_title": "asientos", "date": "1996-01-02", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqCMVMFt8pwd0jN7teXsU1hMwJs.jpg", "actors": ["Samba Sow ()"], "comments": [], "recommandations_id": []}

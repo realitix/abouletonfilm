@@ -1,0 +1,1 @@
+{"tmdb_id": 591321, "title": "The Speed: Do or Die", "original_title": "The Speed: Do or Die", "slug_title": "the-speed-do-or-die", "date": "2012-05-11", "genre": "Action", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ananta Jalil ()", "nana ()", "Parveen ()"], "comments": [], "recommandations_id": []}

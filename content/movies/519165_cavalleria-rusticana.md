@@ -1,0 +1,1 @@
+{"tmdb_id": 519165, "title": "Cavalleria rusticana", "original_title": "Cavalleria rusticana", "slug_title": "cavalleria-rusticana", "date": "1996-07-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Cura (Turiddu)", "Waltraud Meier (Santuzza)"], "comments": [], "recommandations_id": []}

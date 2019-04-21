@@ -1,0 +1,1 @@
+{"tmdb_id": 454256, "title": "Aut\u00f3tort\u00fara", "original_title": "Aut\u00f3tort\u00fara", "slug_title": "autotortura", "date": "", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gy\u00f6rgy Markos ((Voice))", "Gyula Szombathy ((voice))"], "comments": [], "recommandations_id": []}

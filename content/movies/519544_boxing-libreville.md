@@ -1,0 +1,1 @@
+{"tmdb_id": 519544, "title": "Boxing Libreville", "original_title": "Boxing Libreville", "slug_title": "boxing-libreville", "date": "2018-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6OoOYQDwGLwmO3AIyyD5JTEFhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

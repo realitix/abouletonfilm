@@ -1,0 +1,1 @@
+{"tmdb_id": 577721, "title": "Superpower Dogs", "original_title": "Superpower Dogs", "slug_title": "superpower-dogs", "date": "2019-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjsLZTF9uKONegnX5lRpZ51QPg.jpg", "actors": ["Chris Evans (Narrator)"], "comments": [], "recommandations_id": []}

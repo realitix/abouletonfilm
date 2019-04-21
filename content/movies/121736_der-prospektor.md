@@ -1,0 +1,1 @@
+{"tmdb_id": 121736, "title": "Der Prospektor", "original_title": "Der Prospektor", "slug_title": "der-prospektor", "date": "2007-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

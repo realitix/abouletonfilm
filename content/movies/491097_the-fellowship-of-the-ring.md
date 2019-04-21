@@ -1,0 +1,1 @@
+{"tmdb_id": 491097, "title": "The Fellowship of the Ring", "original_title": "The Fellowship of the Ring", "slug_title": "the-fellowship-of-the-ring", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

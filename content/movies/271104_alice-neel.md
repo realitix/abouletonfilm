@@ -1,0 +1,1 @@
+{"tmdb_id": 271104, "title": "Alice Neel", "original_title": "Alice Neel", "slug_title": "alice-neel", "date": "2007-04-20", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZEwzomJnqHJfOGUHjFIP6HcWQy.jpg", "actors": ["Alice Neel (Herself (archive footage))"], "comments": [], "recommandations_id": []}

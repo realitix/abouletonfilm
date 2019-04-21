@@ -1,0 +1,1 @@
+{"tmdb_id": 390466, "title": "Composer Meets Quartet", "original_title": "Composer Meets Quartet", "slug_title": "composer-meets-quartet", "date": "1987-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54vUjmFw4bEq4YeyFcyaHetTf9j.jpg", "actors": [], "comments": [], "recommandations_id": []}

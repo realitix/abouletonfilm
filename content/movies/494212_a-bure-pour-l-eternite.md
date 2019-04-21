@@ -1,0 +1,1 @@
+{"tmdb_id": 494212, "title": "\u00c0 Bure pour l'\u00e9ternit\u00e9", "original_title": "\u00c0 Bure pour l'\u00e9ternit\u00e9", "slug_title": "a-bure-pour-l-eternite", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

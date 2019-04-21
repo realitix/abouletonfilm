@@ -1,0 +1,1 @@
+{"tmdb_id": 537612, "title": "Watermelon Eating Contest", "original_title": "Watermelon Eating Contest", "slug_title": "watermelon-eating-contest", "date": "1903-01-01", "genre": "Com\u00e9die", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

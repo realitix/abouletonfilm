@@ -1,0 +1,1 @@
+{"tmdb_id": 539060, "title": "El jazz es como las bananas", "original_title": "El jazz es como las bananas", "slug_title": "el-jazz-es-como-las-bananas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8thw8SQx9g6G2ODo2aHKuk2joIJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

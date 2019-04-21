@@ -1,0 +1,1 @@
+{"tmdb_id": 442767, "title": "Queen of Swing", "original_title": "Queen of Swing", "slug_title": "queen-of-swing", "date": "2006-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zC4ZsLcpbNI5vLV6T7JB0FBFlxC.jpg", "actors": ["Bill Cobbs (Narrator)"], "comments": [], "recommandations_id": []}

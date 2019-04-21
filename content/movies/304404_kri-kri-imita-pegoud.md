@@ -1,0 +1,1 @@
+{"tmdb_id": 304404, "title": "Kri Kri imita Pegoud", "original_title": "Kri Kri imita Pegoud", "slug_title": "kri-kri-imita-pegoud", "date": "1914-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Dandy (Kri Kri)"], "comments": [], "recommandations_id": []}

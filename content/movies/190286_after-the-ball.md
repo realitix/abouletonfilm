@@ -1,0 +1,1 @@
+{"tmdb_id": 190286, "title": "After the Ball", "original_title": "After the Ball", "slug_title": "after-the-ball", "date": "1929-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 196476, "title": "Der Traum des Bildhauers", "original_title": "Der Traum des Bildhauers", "slug_title": "der-traum-des-bildhauers", "date": "1907-05-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

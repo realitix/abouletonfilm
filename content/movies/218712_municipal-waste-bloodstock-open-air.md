@@ -1,0 +1,1 @@
+{"tmdb_id": 218712, "title": "Municipal Waste: Bloodstock Open Air", "original_title": "Municipal Waste: Bloodstock Open Air", "slug_title": "municipal-waste-bloodstock-open-air", "date": "2013-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 418531, "title": "Treasure Island: The Movie", "original_title": "Takarajima Gekijouban", "slug_title": "treasure-island-the-movie", "date": "1987-05-09", "genre": "Aventure / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vAzGZBo5sZ8R5iu2edTP6Vw4qcd.jpg", "actors": [], "comments": [], "recommandations_id": []}

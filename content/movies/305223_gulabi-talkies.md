@@ -1,0 +1,1 @@
+{"tmdb_id": 305223, "title": "Gulabi Talkies", "original_title": "Gulabi Talkies", "slug_title": "gulabi-talkies", "date": "2008-07-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kuQlhBKa2BvndgU7aZpDCeWQFzN.jpg", "actors": [], "comments": [], "recommandations_id": []}

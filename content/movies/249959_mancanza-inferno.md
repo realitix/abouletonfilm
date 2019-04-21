@@ -1,0 +1,1 @@
+{"tmdb_id": 249959, "title": "Mancanza-Inferno", "original_title": "Mancanza-Inferno", "slug_title": "mancanza-inferno", "date": "2014-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSBdrm2XIIOdaf1n1BRiH2mNmzb.jpg", "actors": [], "comments": [], "recommandations_id": []}

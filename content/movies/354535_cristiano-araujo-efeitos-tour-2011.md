@@ -1,0 +1,1 @@
+{"tmdb_id": 354535, "title": "Cristiano Araujo Efeitos Tour 2011", "original_title": "Cristiano Araujo Efeitos Tour 2011", "slug_title": "cristiano-araujo-efeitos-tour-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

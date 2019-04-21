@@ -1,0 +1,1 @@
+{"tmdb_id": 557198, "title": "Marilia Pera canta Carmen Miranda", "original_title": "Marilia Pera canta Carmen Miranda", "slug_title": "marilia-pera-canta-carmen-miranda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gyKIC06SZayzqCn0tIAYeibabFP.jpg", "actors": [], "comments": [], "recommandations_id": []}

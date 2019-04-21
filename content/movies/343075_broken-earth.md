@@ -1,0 +1,1 @@
+{"tmdb_id": 343075, "title": "Broken Earth", "original_title": "Broken Earth", "slug_title": "broken-earth", "date": "1936-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

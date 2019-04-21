@@ -1,0 +1,1 @@
+{"tmdb_id": 392327, "title": "Ignacio", "original_title": "Ignacio", "slug_title": "ignacio", "date": "1956-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w7uFYOOT0hPuZ9d0RVty50NI9jv.jpg", "actors": ["Ulpiano Mulero Rivera ()"], "comments": [], "recommandations_id": []}

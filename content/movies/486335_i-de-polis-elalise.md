@@ -1,0 +1,1 @@
+{"tmdb_id": 486335, "title": "I de polis elalise", "original_title": "I de polis elalise", "slug_title": "i-de-polis-elalise", "date": "1990-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

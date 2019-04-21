@@ -1,0 +1,1 @@
+{"tmdb_id": 320115, "title": "Fresh Skweezed", "original_title": "Fresh Skweezed", "slug_title": "fresh-skweezed", "date": "2012-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

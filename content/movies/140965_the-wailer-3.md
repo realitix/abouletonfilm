@@ -1,0 +1,1 @@
+{"tmdb_id": 140965, "title": "The Wailer 3", "original_title": "La llorona 3", "slug_title": "the-wailer-3", "date": "2012-09-01", "genre": "", "score": "2.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uiaLz7BOtsubZxFwSFhC7MJGrm4.jpg", "actors": [], "comments": [], "recommandations_id": []}

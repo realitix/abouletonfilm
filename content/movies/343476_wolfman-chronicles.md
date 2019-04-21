@@ -1,0 +1,1 @@
+{"tmdb_id": 343476, "title": "Wolfman Chronicles", "original_title": "Wolfman Chronicles", "slug_title": "wolfman-chronicles", "date": "1991-02-02", "genre": "Documentaire / Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRhpD2csSc1vD5WG1091jQTuF9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

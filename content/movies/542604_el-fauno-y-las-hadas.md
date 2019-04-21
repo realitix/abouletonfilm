@@ -1,0 +1,1 @@
+{"tmdb_id": 542604, "title": "El fauno y las hadas", "original_title": "El fauno y las hadas", "slug_title": "el-fauno-y-las-hadas", "date": "2007-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guillermo del Toro (Himself)", "Doug Jones (Himself)"], "comments": [], "recommandations_id": []}

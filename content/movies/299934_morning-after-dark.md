@@ -1,0 +1,1 @@
+{"tmdb_id": 299934, "title": "Morning After Dark", "original_title": "Morning After Dark", "slug_title": "morning-after-dark", "date": "2014-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

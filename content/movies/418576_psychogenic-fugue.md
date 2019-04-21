@@ -1,0 +1,1 @@
+{"tmdb_id": 418576, "title": "Psychogenic Fugue", "original_title": "Psychogenic Fugue", "slug_title": "psychogenic-fugue", "date": "2016-09-27", "genre": "Thriller", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxpsV6ID4dxLPcTinzjge4Uklyl.jpg", "actors": ["John Malkovich (All characters)"], "comments": [], "recommandations_id": []}

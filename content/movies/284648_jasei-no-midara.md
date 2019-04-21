@@ -1,0 +1,1 @@
+{"tmdb_id": 284648, "title": "Jasei no Midara", "original_title": "Jasei no Midara", "slug_title": "jasei-no-midara", "date": "1921-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tokihiko Okada ()", "Y\u00f4ko Benisawa ()", "Kisaburo Kurihara ()"], "comments": [], "recommandations_id": []}

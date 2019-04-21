@@ -1,0 +1,1 @@
+{"tmdb_id": 323374, "title": "Lemonade War", "original_title": "Lemonade War", "slug_title": "lemonade-war", "date": "2014-09-30", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlDL0YlchQzLfJxIuo82BWzYpwa.jpg", "actors": ["Patton Oswalt ()", "Werner Herzog ()", "Mo Collins ()"], "comments": [], "recommandations_id": []}

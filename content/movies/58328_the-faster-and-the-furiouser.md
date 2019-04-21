@@ -1,0 +1,1 @@
+{"tmdb_id": 58328, "title": "The Faster And The Furiouser", "original_title": "The Faster And The Furiouser", "slug_title": "the-faster-and-the-furiouser", "date": "", "genre": "Action / Thriller", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547679, "title": "La Merde", "original_title": "La Merde", "slug_title": "la-merde", "date": "2018-08-27", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTNcuuEAM660YfIOqNXBecYusy1.jpg", "actors": ["Eva Jane Willis (Rachel)"], "comments": [], "recommandations_id": []}

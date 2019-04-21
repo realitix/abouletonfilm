@@ -1,0 +1,1 @@
+{"tmdb_id": 292159, "title": "Alone in the Zone", "original_title": "Alone in the Zone", "slug_title": "alone-in-the-zone", "date": "2011-08-26", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jUoV205h1W088FRY6NS4acSIVwD.jpg", "actors": [], "comments": [], "recommandations_id": []}

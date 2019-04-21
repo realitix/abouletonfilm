@@ -1,0 +1,1 @@
+{"tmdb_id": 175322, "title": "Der magische G\u00fcrtel", "original_title": "Der magische G\u00fcrtel", "slug_title": "der-magische-gurtel", "date": "1920-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7XsXZyoI3KuqOmc5H4b6lUW0n6s.jpg", "actors": [], "comments": [], "recommandations_id": []}

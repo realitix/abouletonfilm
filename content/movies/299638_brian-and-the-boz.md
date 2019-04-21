@@ -1,0 +1,1 @@
+{"tmdb_id": 299638, "title": "Brian and the Boz", "original_title": "Brian and the Boz", "slug_title": "brian-and-the-boz", "date": "2014-10-28", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mtdBMyXb6Kydgj7e3sZ3rloDcqg.jpg", "actors": ["Brian Bosworth (Himself)"], "comments": [], "recommandations_id": []}

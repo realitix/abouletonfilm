@@ -1,0 +1,1 @@
+{"tmdb_id": 536257, "title": "Busby Berkeley: Going Through the Roof", "original_title": "Busby Berkeley: Going Through the Roof", "slug_title": "busby-berkeley-going-through-the-roof", "date": "1998-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

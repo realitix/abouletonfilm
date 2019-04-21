@@ -1,0 +1,1 @@
+{"tmdb_id": 472810, "title": "La bandera negra", "original_title": "La bandera negra", "slug_title": "la-bandera-negra", "date": "1956-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Mar\u00eda Seoane (Valent\u00edn)"], "comments": [], "recommandations_id": []}

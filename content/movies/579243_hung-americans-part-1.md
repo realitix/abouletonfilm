@@ -1,0 +1,1 @@
+{"tmdb_id": 579243, "title": "Hung Americans Part 1", "original_title": "Hung Americans Part 1", "slug_title": "hung-americans-part-1", "date": "2013-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prsUFqrzrlzAvAcljJFxRBq53v.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425647, "title": "Bloody Barbara", "original_title": "Bloody Barbara", "slug_title": "bloody-barbara", "date": "2016-06-20", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJelSwOuCmPzu7lmKEgNeV5bnVb.jpg", "actors": ["Atheena Frizzell (Bloody Barbara)"], "comments": [], "recommandations_id": []}

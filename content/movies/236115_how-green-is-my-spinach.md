@@ -1,0 +1,1 @@
+{"tmdb_id": 236115, "title": "How Green Is My Spinach", "original_title": "How Green Is My Spinach", "slug_title": "how-green-is-my-spinach", "date": "1950-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

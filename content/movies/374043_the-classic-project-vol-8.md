@@ -1,0 +1,1 @@
+{"tmdb_id": 374043, "title": "The Classic Project Vol. 8", "original_title": "The Classic Project Vol. 8", "slug_title": "the-classic-project-vol-8", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbngQ4EcpLYPSCMPdIE55Za9lgM.jpg", "actors": [], "comments": [], "recommandations_id": []}

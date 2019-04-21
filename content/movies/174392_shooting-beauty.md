@@ -1,0 +1,1 @@
+{"tmdb_id": 174392, "title": "Shooting Beauty", "original_title": "Shooting Beauty", "slug_title": "shooting-beauty", "date": "2009-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4u5PjzwmswyRr6PDxLWR2esFBn2.jpg", "actors": [], "comments": [], "recommandations_id": []}

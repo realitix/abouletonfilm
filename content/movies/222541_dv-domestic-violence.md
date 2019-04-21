@@ -1,0 +1,1 @@
+{"tmdb_id": 222541, "title": "DV: Domestic Violence", "original_title": "DV Domestikku Baiorensu", "slug_title": "dv-domestic-violence", "date": "2005-02-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uuhS5NigWZoQIo0ZBXtTUT5UT3.jpg", "actors": ["Ken'ichi End\u00f4 (Shogo)"], "comments": [], "recommandations_id": []}

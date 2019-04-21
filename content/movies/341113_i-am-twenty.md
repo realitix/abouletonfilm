@@ -1,0 +1,1 @@
+{"tmdb_id": 341113, "title": "I Am Twenty", "original_title": "I Am Twenty", "slug_title": "i-am-twenty", "date": "1967-04-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sRHDxuqzbHShEqQCTL9MCesoe7.jpg", "actors": [], "comments": [], "recommandations_id": []}

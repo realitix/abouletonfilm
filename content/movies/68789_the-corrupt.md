@@ -1,0 +1,1 @@
+{"tmdb_id": 68789, "title": "The Corrupt", "original_title": "Skorumpowani", "slug_title": "the-corrupt", "date": "2008-04-15", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJ6c164U6uK8AVSXmoSmlFiGdZs.jpg", "actors": [], "comments": [], "recommandations_id": []}

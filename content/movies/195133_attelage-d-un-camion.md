@@ -1,0 +1,1 @@
+{"tmdb_id": 195133, "title": "Attelage d'un camion", "original_title": "Attelage d'un camion", "slug_title": "attelage-d-un-camion", "date": "1897-05-20", "genre": "", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZdXmnuGpZMxe6hC4TYT4dbss5.jpg", "actors": [], "comments": [], "recommandations_id": [195073, 195074, 189576, 190563]}

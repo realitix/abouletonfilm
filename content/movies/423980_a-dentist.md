@@ -1,0 +1,1 @@
+{"tmdb_id": 423980, "title": "A Dentist", "original_title": "A Dentist", "slug_title": "a-dentist", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Quinn Beswick (Roy)", "Chloe Searcy (Susan)", "Alden Ehrenreich (Alan Goldenberg)"], "comments": [], "recommandations_id": []}

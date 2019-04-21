@@ -1,0 +1,1 @@
+{"tmdb_id": 152938, "title": "Hitler's Stealth Fighter", "original_title": "Hitler's Stealth Fighter", "slug_title": "hitler-s-stealth-fighter", "date": "2009-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/31126swAzIMYLhHLtPLVMidzVK7.jpg", "actors": [], "comments": [], "recommandations_id": []}

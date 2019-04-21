@@ -1,0 +1,1 @@
+{"tmdb_id": 381270, "title": "Frau bleibt Frau", "original_title": "Frau bleibt Frau", "slug_title": "frau-bleibt-frau", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sona MacDonald ()", "Lambert Hamel ()", "Peter Fricke ()", "Rita Russek ()"], "comments": [], "recommandations_id": []}

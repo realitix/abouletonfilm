@@ -1,0 +1,1 @@
+{"tmdb_id": 300099, "title": "Green Collar Comedy Show", "original_title": "Green Collar Comedy Show", "slug_title": "green-collar-comedy-show", "date": "2010-04-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1dognORUOKzucy17j2ocNfASSu.jpg", "actors": [], "comments": [], "recommandations_id": []}

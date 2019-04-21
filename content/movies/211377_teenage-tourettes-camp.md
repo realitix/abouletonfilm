@@ -1,0 +1,1 @@
+{"tmdb_id": 211377, "title": "Teenage Tourettes Camp", "original_title": "Teenage Tourettes Camp", "slug_title": "teenage-tourettes-camp", "date": "2006-01-02", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy Spall (Narrator)"], "comments": [], "recommandations_id": []}

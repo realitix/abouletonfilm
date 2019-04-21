@@ -1,0 +1,1 @@
+{"tmdb_id": 237357, "title": "A Balmy Swami", "original_title": "A Balmy Swami", "slug_title": "a-balmy-swami", "date": "1949-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

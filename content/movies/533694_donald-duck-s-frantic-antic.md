@@ -1,0 +1,1 @@
+{"tmdb_id": 533694, "title": "Donald Duck's Frantic Antic", "original_title": "Donald Duck's Frantic Antic", "slug_title": "donald-duck-s-frantic-antic", "date": "1975-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2EYVUWOuYGeMpopT0E3WVtP418.jpg", "actors": [], "comments": [], "recommandations_id": []}

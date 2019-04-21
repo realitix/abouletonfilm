@@ -1,0 +1,1 @@
+{"tmdb_id": 547125, "title": "Hip-Hop Storm", "original_title": "Hip-Hop Storm", "slug_title": "hip-hop-storm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZMsNMTsyKdPEfJo7sDdClSUKeB.jpg", "actors": [], "comments": [], "recommandations_id": []}

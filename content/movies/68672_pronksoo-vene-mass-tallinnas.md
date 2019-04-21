@@ -1,0 +1,1 @@
+{"tmdb_id": 68672, "title": "Pronks\u00f6\u00f6: Vene m\u00e4ss Tallinnas", "original_title": "Pronks\u00f6\u00f6: Vene m\u00e4ss Tallinnas", "slug_title": "pronksoo-vene-mass-tallinnas", "date": "2007-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

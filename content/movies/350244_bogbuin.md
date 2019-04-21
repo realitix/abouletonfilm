@@ -1,0 +1,1 @@
+{"tmdb_id": 350244, "title": "\ubcf5\ubd80\uc778", "original_title": "\ubcf5\ubd80\uc778", "slug_title": "bogbuin", "date": "1980-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

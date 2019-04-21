@@ -1,0 +1,1 @@
+{"tmdb_id": 349833, "title": "\uc6b0\ubb35\ubc30\ubbf8\uc758 \uc0ac\ub791", "original_title": "\uc6b0\ubb35\ubc30\ubbf8\uc758 \uc0ac\ub791", "slug_title": "umugbaemiyi-sarang", "date": "1990-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

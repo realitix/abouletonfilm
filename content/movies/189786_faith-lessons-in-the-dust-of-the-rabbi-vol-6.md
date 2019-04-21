@@ -1,0 +1,1 @@
+{"tmdb_id": 189786, "title": "Faith Lessons in the Dust of the Rabbi, Vol. 6", "original_title": "Faith Lessons in the Dust of the Rabbi, Vol. 6", "slug_title": "faith-lessons-in-the-dust-of-the-rabbi-vol-6", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

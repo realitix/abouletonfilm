@@ -1,0 +1,1 @@
+{"tmdb_id": 473199, "title": "On Rubik's Road", "original_title": "Pa Rubika Ce\u013cu", "slug_title": "on-rubik-s-road", "date": "2011-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

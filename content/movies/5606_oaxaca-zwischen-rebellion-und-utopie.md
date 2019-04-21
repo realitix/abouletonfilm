@@ -1,0 +1,1 @@
+{"tmdb_id": 5606, "title": "Oaxaca - Zwischen Rebellion und Utopie", "original_title": "Oaxaca - Zwischen Rebellion und Utopie", "slug_title": "oaxaca-zwischen-rebellion-und-utopie", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

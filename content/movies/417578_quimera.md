@@ -1,0 +1,1 @@
+{"tmdb_id": 417578, "title": "Quimera", "original_title": "Quimera", "slug_title": "quimera", "date": "2014-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Z2ESEGCVSdHc7dq47Z29HqHQjk.jpg", "actors": [], "comments": [], "recommandations_id": []}

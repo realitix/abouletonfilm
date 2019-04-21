@@ -1,0 +1,1 @@
+{"tmdb_id": 466160, "title": "White Square", "original_title": "Bel\u00f5i kvadrat", "slug_title": "white-square", "date": "2012-07-12", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anton Melnichuk (Sasha)", "Ivan Turapin ()"], "comments": [], "recommandations_id": []}

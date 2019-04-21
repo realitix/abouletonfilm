@@ -1,0 +1,1 @@
+{"tmdb_id": 323714, "title": "OMEGA: Uncommon Passion", "original_title": "OMEGA: Uncommon Passion", "slug_title": "omega-uncommon-passion", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

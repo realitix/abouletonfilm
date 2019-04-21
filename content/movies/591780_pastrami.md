@@ -1,0 +1,1 @@
+{"tmdb_id": 591780, "title": "Pastrami", "original_title": "Pastrami", "slug_title": "pastrami", "date": "2012-06-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ishai Golan (Father)", "Yan Matan Landsmann (Son)", "Tali Sharon (Mother)"], "comments": [], "recommandations_id": []}

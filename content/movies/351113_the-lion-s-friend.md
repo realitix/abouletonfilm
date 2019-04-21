@@ -1,0 +1,1 @@
+{"tmdb_id": 351113, "title": "The Lion's Friend", "original_title": "The Lion's Friend", "slug_title": "the-lion-s-friend", "date": "1934-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

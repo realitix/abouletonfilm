@@ -1,0 +1,1 @@
+{"tmdb_id": 468148, "title": "Tr\u00e4d\u00e4lskaren", "original_title": "Tr\u00e4d\u00e4lskaren", "slug_title": "tradalskaren", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVgYMqODBxPIhTY4qKjsUn4iBpA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332879, "title": "Mokhtar", "original_title": "Mokhtar", "slug_title": "mokhtar", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tarek Ben Miled ()", "Anissa Lofti ()", "Najet Mabouj ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413034, "title": "Vasen ja oikea", "original_title": "Vasen ja oikea", "slug_title": "vasen-ja-oikea", "date": "2015-01-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

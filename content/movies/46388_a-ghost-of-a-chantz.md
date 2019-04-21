@@ -1,0 +1,1 @@
+{"tmdb_id": 46388, "title": "A Ghost of A Chantz", "original_title": "A Ghost of A Chantz", "slug_title": "a-ghost-of-a-chantz", "date": "", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u1IwnMBDx7b3Hgo37bTlVbY0X0s.jpg", "actors": [], "comments": [], "recommandations_id": []}

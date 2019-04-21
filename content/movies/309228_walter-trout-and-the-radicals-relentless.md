@@ -1,0 +1,1 @@
+{"tmdb_id": 309228, "title": "Walter Trout and the Radicals: Relentless", "original_title": "Walter Trout and the Radicals: Relentless", "slug_title": "walter-trout-and-the-radicals-relentless", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

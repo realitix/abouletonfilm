@@ -1,0 +1,1 @@
+{"tmdb_id": 453332, "title": "Ministers & Church: Preaching, Singing, Baptism", "original_title": "Ministers & Church: Preaching, Singing, Baptism", "slug_title": "ministers-church-preaching-singing-baptism", "date": "2017-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

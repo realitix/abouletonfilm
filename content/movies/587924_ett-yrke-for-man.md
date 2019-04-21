@@ -1,0 +1,1 @@
+{"tmdb_id": 587924, "title": "Ett yrke f\u00f6r m\u00e4n", "original_title": "Ett yrke f\u00f6r m\u00e4n", "slug_title": "ett-yrke-for-man", "date": "1944-03-13", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bo Willners (Narrator (voice))"], "comments": [], "recommandations_id": []}

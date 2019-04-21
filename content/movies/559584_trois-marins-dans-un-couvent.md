@@ -1,0 +1,1 @@
+{"tmdb_id": 559584, "title": "Trois marins dans un couvent", "original_title": "Trois marins dans un couvent", "slug_title": "trois-marins-dans-un-couvent", "date": "1950-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edDCWmTwbTnlMA9BwWB2vgbflr6.jpg", "actors": [], "comments": [], "recommandations_id": []}

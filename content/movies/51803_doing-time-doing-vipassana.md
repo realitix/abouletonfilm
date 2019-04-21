@@ -1,0 +1,1 @@
+{"tmdb_id": 51803, "title": "Doing time, Doing Vipassana", "original_title": "Doing time, Doing Vipassana", "slug_title": "doing-time-doing-vipassana", "date": "", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z24EvB6LXIUCwijghO8fhJO9NEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

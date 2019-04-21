@@ -1,0 +1,1 @@
+{"tmdb_id": 499834, "title": "Strange Frequency 2", "original_title": "Strange Frequency 2", "slug_title": "strange-frequency-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4qwYEVlyVtnhsN1s1TgR06PlRV.jpg", "actors": [], "comments": [], "recommandations_id": []}

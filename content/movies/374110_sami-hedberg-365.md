@@ -1,0 +1,1 @@
+{"tmdb_id": 374110, "title": "Sami Hedberg - 365", "original_title": "Sami Hedberg - 365", "slug_title": "sami-hedberg-365", "date": "2015-11-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPlP8eiJK9M0UeHa4scAhv0g3AF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 577137, "title": "Broilers - Southside Festival", "original_title": "Broilers - Southside Festival", "slug_title": "broilers-southside-festival", "date": "2018-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

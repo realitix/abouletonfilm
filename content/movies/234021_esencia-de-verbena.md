@@ -1,0 +1,1 @@
+{"tmdb_id": 234021, "title": "Esencia de verbena", "original_title": "Esencia de verbena", "slug_title": "esencia-de-verbena", "date": "1930-11-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

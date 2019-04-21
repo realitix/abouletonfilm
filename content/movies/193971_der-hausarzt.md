@@ -1,0 +1,1 @@
+{"tmdb_id": 193971, "title": "Der Hausarzt", "original_title": "Der Hausarzt", "slug_title": "der-hausarzt", "date": "1910-05-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

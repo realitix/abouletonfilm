@@ -1,0 +1,1 @@
+{"tmdb_id": 398232, "title": "Entre maestros", "original_title": "Entre maestros", "slug_title": "entre-maestros", "date": "2013-09-13", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

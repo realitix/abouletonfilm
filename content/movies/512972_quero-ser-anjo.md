@@ -1,0 +1,1 @@
+{"tmdb_id": 512972, "title": "Quero Ser Anjo", "original_title": "Quero Ser Anjo", "slug_title": "quero-ser-anjo", "date": "2001-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69pl0f6qWQIigFcM9bAkwfeEYOu.jpg", "actors": [], "comments": [], "recommandations_id": []}

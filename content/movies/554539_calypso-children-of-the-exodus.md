@@ -1,0 +1,1 @@
+{"tmdb_id": 554539, "title": "Calypso: Children of the Exodus", "original_title": "Calypso: Los ni\u00f1os del \u00e9xodo", "slug_title": "calypso-children-of-the-exodus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

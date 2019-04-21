@@ -1,0 +1,1 @@
+{"tmdb_id": 326448, "title": "Shira Baam", "original_title": "Shira Baam", "slug_title": "shira-baam", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

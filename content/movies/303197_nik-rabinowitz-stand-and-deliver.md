@@ -1,0 +1,1 @@
+{"tmdb_id": 303197, "title": "Nik Rabinowitz: Stand and Deliver", "original_title": "Nik Rabinowitz: Stand and Deliver", "slug_title": "nik-rabinowitz-stand-and-deliver", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

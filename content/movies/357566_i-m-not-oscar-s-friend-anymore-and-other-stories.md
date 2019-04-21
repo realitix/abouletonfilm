@@ -1,0 +1,1 @@
+{"tmdb_id": 357566, "title": "I'm not Oscar's Friend Anymore and Other Stories", "original_title": "I'm not Oscar's Friend Anymore and Other Stories", "slug_title": "i-m-not-oscar-s-friend-anymore-and-other-stories", "date": "1985-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

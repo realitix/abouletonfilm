@@ -1,0 +1,1 @@
+{"tmdb_id": 163521, "title": "The Death Lords", "original_title": "The Death Lords", "slug_title": "the-death-lords", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRm03HRncZ86CoiWcGFPUTlOxhQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

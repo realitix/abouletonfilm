@@ -1,0 +1,1 @@
+{"tmdb_id": 360790, "title": "Bibinha, a Luta Continua!", "original_title": "Bibinha, a Luta Continua!", "slug_title": "bibinha-a-luta-continua", "date": "2013-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magno Assis ()"], "comments": [], "recommandations_id": []}

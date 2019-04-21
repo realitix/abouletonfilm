@@ -1,0 +1,1 @@
+{"tmdb_id": 587182, "title": "Paul Sanchez Is Back!", "original_title": "Paul Sanchez Is Back!", "slug_title": "paul-sanchez-is-back", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zita Hanrot (Marion)", "Idir Chender (reporter)", "Laurent Lafitte (Paul Sanchez)"], "comments": [], "recommandations_id": []}

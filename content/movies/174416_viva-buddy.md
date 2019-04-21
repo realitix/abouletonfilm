@@ -1,0 +1,1 @@
+{"tmdb_id": 174416, "title": "Viva Buddy", "original_title": "Viva Buddy", "slug_title": "viva-buddy", "date": "1934-12-11", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Gvw39xvS7v8lrSTsZqeUH5JiLy.jpg", "actors": [], "comments": [], "recommandations_id": []}

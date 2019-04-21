@@ -1,0 +1,1 @@
+{"tmdb_id": 592051, "title": "A Hist\u00f3ria do Hip-Hop Tuga", "original_title": "A Hist\u00f3ria do Hip-Hop Tuga", "slug_title": "a-historia-do-hip-hop-tuga", "date": "2019-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pPTeRMs9VTibaMLH42cjP8gDoCM.jpg", "actors": [], "comments": [], "recommandations_id": []}

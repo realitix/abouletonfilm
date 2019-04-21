@@ -1,0 +1,1 @@
+{"tmdb_id": 485535, "title": "Barbara and Her Furs", "original_title": "Barbara et ses fourrures", "slug_title": "barbara-and-her-furs", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xtlhweE6ns211Ixr83puZuRQmD.jpg", "actors": ["Barbara Steele ()"], "comments": [], "recommandations_id": []}

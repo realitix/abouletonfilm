@@ -1,0 +1,1 @@
+{"tmdb_id": 489802, "title": "Jukebox", "original_title": "Jukebox", "slug_title": "jukebox", "date": "1994-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJerpBCSB6PovxWstchM2mjGRU.jpg", "actors": [], "comments": [], "recommandations_id": []}

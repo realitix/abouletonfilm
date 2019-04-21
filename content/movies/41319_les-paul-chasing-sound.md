@@ -1,0 +1,1 @@
+{"tmdb_id": 41319, "title": "Les Paul: Chasing Sound!", "original_title": "Les Paul: Chasing Sound!", "slug_title": "les-paul-chasing-sound", "date": "2007-10-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVjFQYRiWawFmHHQZS1k9D9TVMg.jpg", "actors": [], "comments": [], "recommandations_id": []}

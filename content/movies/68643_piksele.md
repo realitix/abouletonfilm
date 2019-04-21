@@ -1,0 +1,1 @@
+{"tmdb_id": 68643, "title": "Piksele", "original_title": "Piksele", "slug_title": "piksele", "date": "2009-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1KO6SKbo7GazTNrzaioiOegdgcR.jpg", "actors": ["Anna Cie\u015blak (Alicja)"], "comments": [], "recommandations_id": []}

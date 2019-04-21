@@ -1,0 +1,1 @@
+{"tmdb_id": 273851, "title": "La violence et la d\u00e9rision", "original_title": "La violence et la d\u00e9rision", "slug_title": "la-violence-et-la-derision", "date": "2004-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

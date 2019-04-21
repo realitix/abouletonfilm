@@ -1,0 +1,1 @@
+{"tmdb_id": 309992, "title": "Shooting: The Musical", "original_title": "Shooting: The Musical", "slug_title": "shooting-the-musical", "date": "2014-12-05", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yf0ZG2Pc65hFLOK0RQjWCVCvOEl.jpg", "actors": [], "comments": [], "recommandations_id": []}

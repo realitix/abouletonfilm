@@ -1,0 +1,1 @@
+{"tmdb_id": 341718, "title": "The Invention of Love", "original_title": "A Inven\u00e7\u00e3o do Amor", "slug_title": "the-invention-of-love", "date": "1965-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bHe3rnrNXsswhJ1EeXP9eFlrks.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 144732, "title": "Cl\u00e1udia Leitte: Nega Loira", "original_title": "Cl\u00e1udia Leitte: Nega Loira", "slug_title": "claudia-leitte-nega-loira", "date": "2012-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lKd3DFFcW2zeenLojhBgzdY9WXz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 465916, "title": "ACT UP at the FDA", "original_title": "ACT UP at the FDA", "slug_title": "act-up-at-the-fda", "date": "1988-07-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

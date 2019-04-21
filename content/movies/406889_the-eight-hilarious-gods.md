@@ -1,0 +1,1 @@
+{"tmdb_id": 406889, "title": "The Eight Hilarious Gods", "original_title": "\u7b11\u516b\u4ed9", "slug_title": "the-eight-hilarious-gods", "date": "1993-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/htww962BMs6gdF97v8EwKQslOuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

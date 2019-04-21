@@ -1,0 +1,1 @@
+{"tmdb_id": 349347, "title": "Mountain Strawberries 6", "original_title": "\uc0b0\ub538\uae30 6", "slug_title": "mountain-strawberries-6", "date": "1994-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g6CdV52ey9UGZiYfsWsHGZUWtlx.jpg", "actors": [], "comments": [], "recommandations_id": []}

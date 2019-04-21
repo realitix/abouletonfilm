@@ -1,0 +1,1 @@
+{"tmdb_id": 38001, "title": "Ghosts", "original_title": "Ghosts", "slug_title": "ghosts", "date": "2006-10-25", "genre": "Thriller / Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/raOmuBbl0NqZiNsjRN4nw1Fvhhi.jpg", "actors": [], "comments": [], "recommandations_id": [263964, 296340]}

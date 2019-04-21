@@ -1,0 +1,1 @@
+{"tmdb_id": 380600, "title": "Kirare Yosabur\u00f4", "original_title": "Kirare Yosabur\u00f4", "slug_title": "kirare-yosaburo", "date": "1960-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fltGngVj4Rr2XfHLX9zkkvlPkun.jpg", "actors": [], "comments": [], "recommandations_id": []}

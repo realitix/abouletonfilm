@@ -1,0 +1,1 @@
+{"tmdb_id": 176105, "title": "Shatruvu", "original_title": "Shatruvu", "slug_title": "shatruvu", "date": "2013-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kh8WiaX99tsS9ZBjvAV3Pw7JMx.jpg", "actors": [], "comments": [], "recommandations_id": []}

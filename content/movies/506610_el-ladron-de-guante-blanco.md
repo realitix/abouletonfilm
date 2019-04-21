@@ -1,0 +1,1 @@
+{"tmdb_id": 506610, "title": "El ladr\u00f3n de guante blanco", "original_title": "El ladr\u00f3n de guante blanco", "slug_title": "el-ladron-de-guante-blanco", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Lizaran ()", "Hermann Bonn\u00edn ()", "Pau Riba ()"], "comments": [], "recommandations_id": []}

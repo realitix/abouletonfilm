@@ -1,0 +1,1 @@
+{"tmdb_id": 53147, "title": "Syracuse and the World", "original_title": "Syracuse and the World", "slug_title": "syracuse-and-the-world", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9xclNBQ2yAJHVHx72USQ5PWNrIn.jpg", "actors": [], "comments": [], "recommandations_id": []}

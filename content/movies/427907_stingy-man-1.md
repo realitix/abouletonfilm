@@ -1,0 +1,1 @@
+{"tmdb_id": 427907, "title": "Stingy Man 1", "original_title": "Stingy Man 1", "slug_title": "stingy-man-1", "date": "2016-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiJMUkvLUHcgHFm1EvOK1pXFq14.jpg", "actors": ["Nkem Owoh (Ojemba)"], "comments": [], "recommandations_id": []}

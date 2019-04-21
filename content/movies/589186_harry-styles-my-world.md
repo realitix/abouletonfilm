@@ -1,0 +1,1 @@
+{"tmdb_id": 589186, "title": "Harry Styles: My World", "original_title": "Harry Styles: My World", "slug_title": "harry-styles-my-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

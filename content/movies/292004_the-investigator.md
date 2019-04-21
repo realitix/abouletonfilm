@@ -1,0 +1,1 @@
+{"tmdb_id": 292004, "title": "The Investigator", "original_title": "The Investigator", "slug_title": "the-investigator", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 256694, "title": "El diario de Agust\u00edn", "original_title": "El diario de Agust\u00edn", "slug_title": "el-diario-de-agustin", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FkyXkZDcWj1XijhYUmg3EeadaA.jpg", "actors": [], "comments": [], "recommandations_id": []}

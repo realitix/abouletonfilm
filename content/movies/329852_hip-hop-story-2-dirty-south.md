@@ -1,0 +1,1 @@
+{"tmdb_id": 329852, "title": "Hip Hop Story 2 - Dirty South", "original_title": "Hip Hop Story 2 - Dirty South", "slug_title": "hip-hop-story-2-dirty-south", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

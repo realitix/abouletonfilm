@@ -1,0 +1,1 @@
+{"tmdb_id": 518705, "title": "Edition Inkjet 2008 Promo", "original_title": "Edition Inkjet 2008 Promo", "slug_title": "edition-inkjet-2008-promo", "date": "2008-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

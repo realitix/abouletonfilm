@@ -1,0 +1,1 @@
+{"tmdb_id": 549860, "title": "C\u00e1tia e Ivan", "original_title": "C\u00e1tia e Ivan", "slug_title": "catia-e-ivan", "date": "2013-11-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joana de Verona (C\u00e1tia)", "Afonso Pimentel (Ivan)"], "comments": [], "recommandations_id": []}

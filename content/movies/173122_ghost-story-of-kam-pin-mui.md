@@ -1,0 +1,1 @@
+{"tmdb_id": 173122, "title": "Ghost Story of Kam Pin Mui", "original_title": "Ghost Story of Kam Pin Mui", "slug_title": "ghost-story-of-kam-pin-mui", "date": "1991-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/shTNG8DFBg8OuiI2aRQTAqU5naY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275199, "title": "Barney: Egg-Cellent Adventures", "original_title": "Barney: Egg-Cellent Adventures", "slug_title": "barney-egg-cellent-adventures", "date": "2010-03-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRKH5HA3F69KmWc1oGCRy9PF9yL.jpg", "actors": [], "comments": [], "recommandations_id": []}

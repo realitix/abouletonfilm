@@ -1,0 +1,1 @@
+{"tmdb_id": 391325, "title": "El narco naco", "original_title": "El narco naco", "slug_title": "el-narco-naco", "date": "1999-04-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bS6fWtBhEZMQg0rEf6Zt7JXBTD.jpg", "actors": [], "comments": [], "recommandations_id": []}

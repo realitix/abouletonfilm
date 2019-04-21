@@ -1,0 +1,1 @@
+{"tmdb_id": 581796, "title": "La Soluci\u00f3n", "original_title": "La Soluci\u00f3n", "slug_title": "la-solucion", "date": "2017-11-29", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Tzg4z6bDexCJctSm6jQyWI16Lj.jpg", "actors": ["Mauricio Garc\u00eda V\u00e1zquez (Sujeto)"], "comments": [], "recommandations_id": []}

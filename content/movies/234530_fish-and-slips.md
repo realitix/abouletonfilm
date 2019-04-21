@@ -1,0 +1,1 @@
+{"tmdb_id": 234530, "title": "Fish and Slips", "original_title": "Fish and Slips", "slug_title": "fish-and-slips", "date": "1962-03-10", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFyCBdsgdOCi5oxdQjh7AwtqJKp.jpg", "actors": [], "comments": [], "recommandations_id": []}

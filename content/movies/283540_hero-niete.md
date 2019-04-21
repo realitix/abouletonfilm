@@ -1,0 +1,1 @@
+{"tmdb_id": 283540, "title": "Hero-Niete", "original_title": "Hero-Niete", "slug_title": "hero-niete", "date": "2004-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

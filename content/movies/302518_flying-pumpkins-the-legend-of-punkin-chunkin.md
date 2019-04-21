@@ -1,0 +1,1 @@
+{"tmdb_id": 302518, "title": "Flying Pumpkins: The Legend of Punkin Chunkin'", "original_title": "Flying Pumpkins: The Legend of Punkin Chunkin'", "slug_title": "flying-pumpkins-the-legend-of-punkin-chunkin", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

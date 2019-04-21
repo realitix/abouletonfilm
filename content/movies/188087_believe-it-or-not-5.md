@@ -1,0 +1,1 @@
+{"tmdb_id": 188087, "title": "Believe It or Not #5", "original_title": "Believe It or Not #5", "slug_title": "believe-it-or-not-5", "date": "1930-09-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert L. Ripley ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 544570, "title": "Teenagers Dream 36 - Marina und Sveta", "original_title": "Teenagers Dream 36 - Marina und Sveta", "slug_title": "teenagers-dream-36-marina-und-sveta", "date": "2018-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

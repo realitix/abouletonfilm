@@ -1,0 +1,1 @@
+{"tmdb_id": 534892, "title": "N\u00e1rodn\u00ed o\u010dista", "original_title": "N\u00e1rodn\u00ed o\u010dista", "slug_title": "narodni-ocista", "date": "2018-05-07", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

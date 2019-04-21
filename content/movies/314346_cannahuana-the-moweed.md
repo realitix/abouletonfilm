@@ -1,0 +1,1 @@
+{"tmdb_id": 314346, "title": "Cannahuana - The Moweed", "original_title": "Cannahuana - The Moweed", "slug_title": "cannahuana-the-moweed", "date": "2008-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdNTGtHHNba33pGSIh32kw2FbE3.jpg", "actors": [], "comments": [], "recommandations_id": []}

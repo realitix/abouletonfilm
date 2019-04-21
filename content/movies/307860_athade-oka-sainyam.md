@@ -1,0 +1,1 @@
+{"tmdb_id": 307860, "title": "Athade Oka Sainyam", "original_title": "Athade Oka Sainyam", "slug_title": "athade-oka-sainyam", "date": "2004-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSZd27YASAruEhD0DUJQ0p9mQjV.jpg", "actors": ["Jagapati Babu ()"], "comments": [], "recommandations_id": []}

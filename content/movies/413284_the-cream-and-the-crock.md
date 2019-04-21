@@ -1,0 +1,1 @@
+{"tmdb_id": 413284, "title": "The Cream and The Crock", "original_title": "The Cream and The Crock", "slug_title": "the-cream-and-the-crock", "date": "2003-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

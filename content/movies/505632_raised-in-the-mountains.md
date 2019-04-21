@@ -1,0 +1,1 @@
+{"tmdb_id": 505632, "title": "Raised in the mountains", "original_title": "Criados na Serra", "slug_title": "raised-in-the-mountains", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVb7bWr6Q1fo8lhjoy4rcVUt3Bg.jpg", "actors": [], "comments": [], "recommandations_id": []}

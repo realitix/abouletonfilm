@@ -1,0 +1,1 @@
+{"tmdb_id": 533917, "title": "Sushi Sushi", "original_title": "Sushi Sushi", "slug_title": "sushi-sushi", "date": "1991-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2y4WwIxjW45s0I2jbDebKz4ldHp.jpg", "actors": [], "comments": [], "recommandations_id": []}

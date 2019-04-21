@@ -1,0 +1,1 @@
+{"tmdb_id": 320583, "title": "Craig Shoemaker: Live: That's a True Story!", "original_title": "Craig Shoemaker: Live: That's a True Story!", "slug_title": "craig-shoemaker-live-that-s-a-true-story", "date": "2005-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

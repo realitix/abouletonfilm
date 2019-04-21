@@ -1,0 +1,1 @@
+{"tmdb_id": 554505, "title": "Autonomie statt Anpassung", "original_title": "Autonomie statt Anpassung", "slug_title": "autonomie-statt-anpassung", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

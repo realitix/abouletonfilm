@@ -1,0 +1,1 @@
+{"tmdb_id": 532591, "title": "Symphony of Now", "original_title": "Symphony of Now", "slug_title": "symphony-of-now", "date": "2018-07-12", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4OcRInqTZYSWuAJ9fCFotFqPokU.jpg", "actors": [], "comments": [], "recommandations_id": [525894, 577340, 576296, 141146]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351266, "title": "Play Ball", "original_title": "Play Ball", "slug_title": "play-ball", "date": "1937-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

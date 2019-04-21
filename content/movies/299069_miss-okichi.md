@@ -1,0 +1,1 @@
+{"tmdb_id": 299069, "title": "Miss Okichi", "original_title": "Oj\u00f4 Okichi", "slug_title": "miss-okichi", "date": "1935-08-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fSThavDHZ5q6YD9RVaHHoCd24y.jpg", "actors": ["Isuzu Yamada (Okichi)"], "comments": [], "recommandations_id": []}

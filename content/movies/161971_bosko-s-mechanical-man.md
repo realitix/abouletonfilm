@@ -1,0 +1,1 @@
+{"tmdb_id": 161971, "title": "Bosko's Mechanical Man", "original_title": "Bosko's Mechanical Man", "slug_title": "bosko-s-mechanical-man", "date": "1933-09-26", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhIVylZwmrg6MWX0QKZSyr3SCoU.jpg", "actors": [], "comments": [], "recommandations_id": []}

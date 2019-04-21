@@ -1,0 +1,1 @@
+{"tmdb_id": 63014, "title": "Skank ao Vivo no Mineir\u00e3o", "original_title": "Skank ao Vivo no Mineir\u00e3o", "slug_title": "skank-ao-vivo-no-mineirao", "date": "2010-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOECD69ThkrD7tcY9AXVvHfCqR1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578046, "title": "Wartime Nutrition", "original_title": "Wartime Nutrition", "slug_title": "wartime-nutrition", "date": "1943-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

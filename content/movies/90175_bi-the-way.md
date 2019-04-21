@@ -1,0 +1,1 @@
+{"tmdb_id": 90175, "title": "Bi the Way", "original_title": "Bi the Way", "slug_title": "bi-the-way", "date": "2008-06-17", "genre": "Documentaire / Romance", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aq0OBh7GyaMjNFX91dwg2aa7EUM.jpg", "actors": [], "comments": [], "recommandations_id": []}

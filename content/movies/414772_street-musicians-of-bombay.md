@@ -1,0 +1,1 @@
+{"tmdb_id": 414772, "title": "Street Musicians of Bombay", "original_title": "Street Musicians of Bombay", "slug_title": "street-musicians-of-bombay", "date": "1994-07-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qDS3lHhuntzQsSKPd12fOJfTfI.jpg", "actors": [], "comments": [], "recommandations_id": []}

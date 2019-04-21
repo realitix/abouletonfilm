@@ -1,0 +1,1 @@
+{"tmdb_id": 248577, "title": "Calling Bobcat", "original_title": "Calling Bobcat", "slug_title": "calling-bobcat", "date": "2000-12-11", "genre": "Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pA7Af22efsU7fDHU72UjzvCRWz8.jpg", "actors": ["Jayce Bartok (Darrin Marshall)"], "comments": [], "recommandations_id": []}

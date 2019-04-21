@@ -1,0 +1,1 @@
+{"tmdb_id": 561865, "title": "Good Turners", "original_title": "Good Turners", "slug_title": "good-turners", "date": "1937-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

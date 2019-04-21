@@ -1,0 +1,1 @@
+{"tmdb_id": 420653, "title": "Baustelle X", "original_title": "Baustelle X", "slug_title": "baustelle-x", "date": "1950-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 82752, "title": "Subhakankshalu", "original_title": "Subhakankshalu", "slug_title": "subhakankshalu", "date": "1998-11-23", "genre": "Com\u00e9die / Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zX0EpKHiexXN6s8LVcBv0NEmBPV.jpg", "actors": [], "comments": [], "recommandations_id": []}

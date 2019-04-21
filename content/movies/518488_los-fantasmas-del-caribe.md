@@ -1,0 +1,1 @@
+{"tmdb_id": 518488, "title": "Los Fantasmas del Caribe", "original_title": "Los Fantasmas del Caribe", "slug_title": "los-fantasmas-del-caribe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

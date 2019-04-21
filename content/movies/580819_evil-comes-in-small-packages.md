@@ -1,0 +1,1 @@
+{"tmdb_id": 580819, "title": "Evil Comes in Small Packages", "original_title": "Evil Comes in Small Packages", "slug_title": "evil-comes-in-small-packages", "date": "2008-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/un0JVEwlioB6EGaE9pLRSEhShv7.jpg", "actors": [], "comments": [], "recommandations_id": []}

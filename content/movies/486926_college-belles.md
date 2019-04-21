@@ -1,0 +1,1 @@
+{"tmdb_id": 486926, "title": "College Belles", "original_title": "College Belles", "slug_title": "college-belles", "date": "1942-10-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Durand (Terry Kelly)"], "comments": [], "recommandations_id": []}

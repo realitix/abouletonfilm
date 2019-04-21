@@ -1,0 +1,1 @@
+{"tmdb_id": 167129, "title": "Solution No. 1", "original_title": "\u0631\u0627\u0647 \u062d\u0644 \u06cc\u06a9", "slug_title": "solution-no-1", "date": "1978-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

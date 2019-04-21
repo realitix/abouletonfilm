@@ -1,0 +1,1 @@
+{"tmdb_id": 275370, "title": "The Babe & the Iron Horse: Babe Ruth & Lou Gehrig", "original_title": "The Babe & the Iron Horse: Babe Ruth & Lou Gehrig", "slug_title": "the-babe-the-iron-horse-babe-ruth-lou-gehrig", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

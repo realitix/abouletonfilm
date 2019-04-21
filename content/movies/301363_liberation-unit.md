@@ -1,0 +1,1 @@
+{"tmdb_id": 301363, "title": "Liberation Unit", "original_title": "Liberation Unit", "slug_title": "liberation-unit", "date": "2014-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

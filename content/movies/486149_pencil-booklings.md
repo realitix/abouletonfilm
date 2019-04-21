@@ -1,0 +1,1 @@
+{"tmdb_id": 486149, "title": "Pencil Booklings", "original_title": "Pencil Booklings", "slug_title": "pencil-booklings", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

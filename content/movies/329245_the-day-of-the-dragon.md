@@ -1,0 +1,1 @@
+{"tmdb_id": 329245, "title": "The Day Of The Dragon", "original_title": "Den draka", "slug_title": "the-day-of-the-dragon", "date": "2010-11-12", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

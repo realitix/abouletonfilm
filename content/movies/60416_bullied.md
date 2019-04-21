@@ -1,0 +1,1 @@
+{"tmdb_id": 60416, "title": "Bullied", "original_title": "Bullied", "slug_title": "bullied", "date": "", "genre": "Documentaire / Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ntjufc23s8CQsrFoiRXwfXG6oN.jpg", "actors": [], "comments": [], "recommandations_id": []}

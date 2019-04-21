@@ -1,0 +1,1 @@
+{"tmdb_id": 330368, "title": "Husainiyya Thugs", "original_title": "Fatawat el Husseinia", "slug_title": "husainiyya-thugs", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hoda Soltan ()", "Farid Shawqi ()", "Mahmoud el-Meliguy ()"], "comments": [], "recommandations_id": []}

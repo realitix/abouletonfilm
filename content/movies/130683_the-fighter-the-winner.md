@@ -1,0 +1,1 @@
+{"tmdb_id": 130683, "title": "The Fighter, The Winner", "original_title": "The Fighter, The Winner", "slug_title": "the-fighter-the-winner", "date": "1991-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJLB5PxEgtgJWnf8LF8tigKAewO.jpg", "actors": ["Wayne Archer ()"], "comments": [], "recommandations_id": []}

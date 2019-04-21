@@ -1,0 +1,1 @@
+{"tmdb_id": 270982, "title": "V.I.P. Very important Prisoners", "original_title": "V.I.P. Very important Prisoners", "slug_title": "v-i-p-very-important-prisoners", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

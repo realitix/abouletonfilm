@@ -1,0 +1,1 @@
+{"tmdb_id": 412900, "title": "Life in Hollywood No. 6", "original_title": "Life in Hollywood No. 6", "slug_title": "life-in-hollywood-no-6", "date": "1927-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

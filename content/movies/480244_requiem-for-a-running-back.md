@@ -1,0 +1,1 @@
+{"tmdb_id": 480244, "title": "Requiem for a Running Back", "original_title": "Requiem for a Running Back", "slug_title": "requiem-for-a-running-back", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZSUsBcuIVbmpO50JVwkCyTJ7Ko.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 380536, "title": "Spiritual Rampage", "original_title": "Spiritual Rampage", "slug_title": "spiritual-rampage", "date": "2003-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adam Rhys Dee ()", "Ben Whishaw ()", "Laura Rees ()", "Natalie Press ()"], "comments": [], "recommandations_id": []}

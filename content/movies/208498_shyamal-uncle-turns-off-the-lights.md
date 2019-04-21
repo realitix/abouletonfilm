@@ -1,0 +1,1 @@
+{"tmdb_id": 208498, "title": "Shyamal Uncle Turns Off the Lights", "original_title": "Shyamal Uncle", "slug_title": "shyamal-uncle-turns-off-the-lights", "date": "2013-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3krcGyyCvgdZFXLVoYgEpBefunK.jpg", "actors": [], "comments": [], "recommandations_id": []}

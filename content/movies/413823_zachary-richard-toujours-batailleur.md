@@ -1,0 +1,1 @@
+{"tmdb_id": 413823, "title": "Zachary Richard, toujours batailleur", "original_title": "Zachary Richard, toujours batailleur", "slug_title": "zachary-richard-toujours-batailleur", "date": "2016-08-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zachary Richard (himself)"], "comments": [], "recommandations_id": []}

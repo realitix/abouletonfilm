@@ -1,0 +1,1 @@
+{"tmdb_id": 502092, "title": "12 Silent Men", "original_title": "12 Silent Men", "slug_title": "12-silent-men", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ODpxEhUm1N5bS6B8OASOFZug8j.jpg", "actors": [], "comments": [], "recommandations_id": []}

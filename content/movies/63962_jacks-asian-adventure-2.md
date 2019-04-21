@@ -1,0 +1,1 @@
+{"tmdb_id": 63962, "title": "Jacks Asian Adventure 2", "original_title": "Jacks Asian Adventure 2", "slug_title": "jacks-asian-adventure-2", "date": "2008-10-29", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mlYU4UYM5dL3k719wvm0M711k2A.jpg", "actors": ["Shay Jordan ()"], "comments": [], "recommandations_id": []}

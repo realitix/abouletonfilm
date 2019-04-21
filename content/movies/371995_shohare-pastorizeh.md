@@ -1,0 +1,1 @@
+{"tmdb_id": 371995, "title": "Shohare Pastorizeh", "original_title": "Shohare Pastorizeh", "slug_title": "shohare-pastorizeh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nosratolah Vahdat ()"], "comments": [], "recommandations_id": []}

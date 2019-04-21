@@ -1,0 +1,1 @@
+{"tmdb_id": 434070, "title": "Nice Doggy", "original_title": "Nice Doggy", "slug_title": "nice-doggy", "date": "1952-07-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

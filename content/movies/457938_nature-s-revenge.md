@@ -1,0 +1,1 @@
+{"tmdb_id": 457938, "title": "Nature's Revenge", "original_title": "Naturens h\u00e4mnd", "slug_title": "nature-s-revenge", "date": "1983-04-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dMizmIn3zAB9xzCEEvnmy92geee.jpg", "actors": [], "comments": [], "recommandations_id": []}

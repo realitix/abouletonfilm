@@ -1,0 +1,1 @@
+{"tmdb_id": 325361, "title": "Joyce Crazy Band Live", "original_title": "Joyce Banda Maluca Ao Vivo", "slug_title": "joyce-crazy-band-live", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6HUQ0TKLr0A3E68ghYyuULVYyf.jpg", "actors": ["Joyce (Singer)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539542, "title": "M\u00f6rker och bl\u00e5b\u00e4rsris", "original_title": "M\u00f6rker och bl\u00e5b\u00e4rsris", "slug_title": "morker-och-blabarsris", "date": "1980-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

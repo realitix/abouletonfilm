@@ -1,0 +1,1 @@
+{"tmdb_id": 337099, "title": "Powderfinger Vulture Street", "original_title": "Powderfinger Vulture Street", "slug_title": "powderfinger-vulture-street", "date": "2003-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

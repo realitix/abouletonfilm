@@ -1,0 +1,1 @@
+{"tmdb_id": 64737, "title": "3D Triple Feature", "original_title": "3D Triple Feature", "slug_title": "3d-triple-feature", "date": "2010-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6FdV4kLBPTbB7IYeGrce5ouMkmh.jpg", "actors": [], "comments": [], "recommandations_id": []}

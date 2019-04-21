@@ -1,0 +1,1 @@
+{"tmdb_id": 572679, "title": "Rachayitha", "original_title": "Rachayitha", "slug_title": "rachayitha", "date": "2018-02-16", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sanchita Padukone ()", "Ramya Raj ()", "Vidya Sagar Raju ()"], "comments": [], "recommandations_id": []}

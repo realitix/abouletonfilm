@@ -1,0 +1,1 @@
+{"tmdb_id": 415223, "title": "Ligia Elena", "original_title": "Ligia Elena", "slug_title": "ligia-elena", "date": "1983-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8bX4zmDsw8nCXaPCB0WhcEHCMW.jpg", "actors": [], "comments": [], "recommandations_id": []}

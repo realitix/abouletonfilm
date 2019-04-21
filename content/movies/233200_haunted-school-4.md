@@ -1,0 +1,1 @@
+{"tmdb_id": 233200, "title": "Haunted School 4", "original_title": "\u5b66\u6821\u306e\u602a\u8ac74", "slug_title": "haunted-school-4", "date": "1999-07-10", "genre": "Horreur / Drame / Thriller", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtzho1CGtcEWfmf5eswxKnm7HcN.jpg", "actors": [], "comments": [], "recommandations_id": []}

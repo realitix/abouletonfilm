@@ -1,0 +1,1 @@
+{"tmdb_id": 197173, "title": "Audioscopiks", "original_title": "Audioscopiks", "slug_title": "audioscopiks", "date": "1935-12-26", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeIvz1PYX54CEFON5Tj6SwUksis.jpg", "actors": ["Pete Smith (Commentator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 567746, "title": "Mangertooth", "original_title": "Mangertooth", "slug_title": "mangertooth", "date": "2008-12-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

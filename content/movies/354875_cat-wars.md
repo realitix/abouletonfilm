@@ -1,0 +1,1 @@
+{"tmdb_id": 354875, "title": "Cat Wars", "original_title": "Cat Wars", "slug_title": "cat-wars", "date": "2014-08-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBAKqqslp8ZwV7kJBvehmMtGiKI.jpg", "actors": [], "comments": [], "recommandations_id": []}

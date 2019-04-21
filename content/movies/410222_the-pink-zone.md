@@ -1,0 +1,1 @@
+{"tmdb_id": 410222, "title": "The Pink Zone", "original_title": "The Pink Zone", "slug_title": "the-pink-zone", "date": "2016-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

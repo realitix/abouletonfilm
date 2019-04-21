@@ -1,0 +1,1 @@
+{"tmdb_id": 174287, "title": "Trazan Apansson & Banarne", "original_title": "Trazan Apansson & Banarne", "slug_title": "trazan-apansson-banarne", "date": "1980-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxB50sFN7pLxX8a7tonF0g7GWPA.jpg", "actors": [], "comments": [], "recommandations_id": []}

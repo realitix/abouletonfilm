@@ -1,0 +1,1 @@
+{"tmdb_id": 488914, "title": "Murder and the Computer", "original_title": "Murder and the Computer", "slug_title": "murder-and-the-computer", "date": "1973-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

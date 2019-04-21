@@ -1,0 +1,1 @@
+{"tmdb_id": 516808, "title": "Salarium", "original_title": "Salarium", "slug_title": "salarium", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

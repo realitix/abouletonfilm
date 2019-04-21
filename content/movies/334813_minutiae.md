@@ -1,0 +1,1 @@
+{"tmdb_id": 334813, "title": "Minutiae", "original_title": "Minutiae", "slug_title": "minutiae", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTQtyL1XGbHwrquT0ylSAhdy3vh.jpg", "actors": [], "comments": [], "recommandations_id": []}

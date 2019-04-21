@@ -1,0 +1,1 @@
+{"tmdb_id": 339187, "title": "Dante's Down the Hatch", "original_title": "Dante's Down the Hatch", "slug_title": "dante-s-down-the-hatch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

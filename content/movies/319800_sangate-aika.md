@@ -1,0 +1,1 @@
+{"tmdb_id": 319800, "title": "Sangate Aika", "original_title": "Sangate Aika", "slug_title": "sangate-aika", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

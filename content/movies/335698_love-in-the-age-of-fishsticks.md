@@ -1,0 +1,1 @@
+{"tmdb_id": 335698, "title": "Love in the Age of Fishsticks", "original_title": "Love in the Age of Fishsticks", "slug_title": "love-in-the-age-of-fishsticks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

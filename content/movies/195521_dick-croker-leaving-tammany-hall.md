@@ -1,0 +1,1 @@
+{"tmdb_id": 195521, "title": "Dick Croker Leaving Tammany Hall", "original_title": "Dick Croker Leaving Tammany Hall", "slug_title": "dick-croker-leaving-tammany-hall", "date": "1900-02-21", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541468, "title": "Thou Shalt Not Kill", "original_title": "Thou Shalt Not Kill", "slug_title": "thou-shalt-not-kill", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

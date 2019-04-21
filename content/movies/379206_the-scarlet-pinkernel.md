@@ -1,0 +1,1 @@
+{"tmdb_id": 379206, "title": "The Scarlet Pinkernel", "original_title": "The Scarlet Pinkernel", "slug_title": "the-scarlet-pinkernel", "date": "1975-12-30", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHRNBcoBuNKzhoNmgJHJrxv4TGd.jpg", "actors": [], "comments": [], "recommandations_id": []}

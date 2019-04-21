@@ -1,0 +1,1 @@
+{"tmdb_id": 429365, "title": "Carnival of Colours", "original_title": "Karnaval cvetov", "slug_title": "carnival-of-colours", "date": "1935-08-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9sNZMxpErM5Kzl9kgrXX6kDkej.jpg", "actors": [], "comments": [], "recommandations_id": []}

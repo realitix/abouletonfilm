@@ -1,0 +1,1 @@
+{"tmdb_id": 447953, "title": "Manifesto Glauber", "original_title": "Manifesto Glauber", "slug_title": "manifesto-glauber", "date": "2006-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gvhRlWXrHmX0cOgkjrxIrD51w62.jpg", "actors": ["Glauber Rocha ()"], "comments": [], "recommandations_id": []}

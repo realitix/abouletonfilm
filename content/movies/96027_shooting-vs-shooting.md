@@ -1,0 +1,1 @@
+{"tmdb_id": 96027, "title": "Shooting VS Shooting", "original_title": "Pethainontas Gia Tin Alitheia", "slug_title": "shooting-vs-shooting", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/X92Uq6uiBKVyIFfxMEMTEWGnnL.jpg", "actors": [], "comments": [], "recommandations_id": []}

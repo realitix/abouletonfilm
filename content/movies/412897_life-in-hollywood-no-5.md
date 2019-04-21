@@ -1,0 +1,1 @@
+{"tmdb_id": 412897, "title": "Life in Hollywood No. 5", "original_title": "Life in Hollywood No. 5", "slug_title": "life-in-hollywood-no-5", "date": "1927-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

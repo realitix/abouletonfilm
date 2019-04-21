@@ -1,0 +1,1 @@
+{"tmdb_id": 304544, "title": "Bandish", "original_title": "Bandish", "slug_title": "bandish", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

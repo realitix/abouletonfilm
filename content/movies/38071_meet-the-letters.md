@@ -1,0 +1,1 @@
+{"tmdb_id": 38071, "title": "Meet the Letters", "original_title": "Meet the Letters", "slug_title": "meet-the-letters", "date": "2005-09-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osP9OIa00OosUK41EF84sYBavp4.jpg", "actors": [], "comments": [], "recommandations_id": []}

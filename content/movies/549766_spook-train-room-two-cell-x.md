@@ -1,0 +1,1 @@
+{"tmdb_id": 549766, "title": "Spook Train: Room Two - Cell X", "original_title": "Spook Train: Room Two - Cell X", "slug_title": "spook-train-room-two-cell-x", "date": "2017-07-27", "genre": "Horreur / Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

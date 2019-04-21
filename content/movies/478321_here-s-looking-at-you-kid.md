@@ -1,0 +1,1 @@
+{"tmdb_id": 478321, "title": "Here's Looking at You, Kid", "original_title": "Here's Looking at You, Kid", "slug_title": "here-s-looking-at-you-kid", "date": "1980-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rob Cole ()", "Maggie Cole ()"], "comments": [], "recommandations_id": []}

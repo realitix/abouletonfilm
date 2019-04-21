@@ -1,0 +1,1 @@
+{"tmdb_id": 342974, "title": "Skinny the Moocher", "original_title": "Skinny the Moocher", "slug_title": "skinny-the-moocher", "date": "1939-09-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley Chase)"], "comments": [], "recommandations_id": []}

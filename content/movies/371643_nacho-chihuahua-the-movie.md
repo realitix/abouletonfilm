@@ -1,0 +1,1 @@
+{"tmdb_id": 371643, "title": "Nacho Chihuahua: The Movie", "original_title": "Nacho Chihuahua: The Movie", "slug_title": "nacho-chihuahua-the-movie", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

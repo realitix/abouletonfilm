@@ -1,0 +1,1 @@
+{"tmdb_id": 302694, "title": "Bridgend", "original_title": "Bridgend", "slug_title": "bridgend", "date": "2013-06-21", "genre": "Myst\u00e8re / Documentaire", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1srioLbGszuLdHsXsgdTvEtW5bo.jpg", "actors": [], "comments": [], "recommandations_id": [291817, 26336, 39883, 13558]}

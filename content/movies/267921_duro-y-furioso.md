@@ -1,0 +1,1 @@
+{"tmdb_id": 267921, "title": "Duro y Furioso", "original_title": "Duro y Furioso", "slug_title": "duro-y-furioso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

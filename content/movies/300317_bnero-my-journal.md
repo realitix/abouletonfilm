@@ -1,0 +1,1 @@
+{"tmdb_id": 300317, "title": "Bnero My Journal", "original_title": "Bnero My Journal", "slug_title": "bnero-my-journal", "date": "2014-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrNATDG48Wq77xnVMIzS12DgZH6.jpg", "actors": [], "comments": [], "recommandations_id": []}

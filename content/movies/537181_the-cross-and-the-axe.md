@@ -1,0 +1,1 @@
+{"tmdb_id": 537181, "title": "The Cross and the Axe", "original_title": "Krzy\u017c i Top\u00f3r", "slug_title": "the-cross-and-the-axe", "date": "1972-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soo4A3oXAW8p9HiYyiOaJifdHjc.jpg", "actors": [], "comments": [], "recommandations_id": []}

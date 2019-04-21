@@ -1,0 +1,1 @@
+{"tmdb_id": 247706, "title": "Letter to Wes Anderson", "original_title": "Letter to Wes Anderson", "slug_title": "letter-to-wes-anderson", "date": "2009-05-07", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denise Prince (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296659, "title": "Roxette Live In Zurich 1991", "original_title": "Roxette Live In Zurich 1991", "slug_title": "roxette-live-in-zurich-1991", "date": "1991-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u1Ez5AXmlMHOcveqY8I7sMTJ1sA.jpg", "actors": [], "comments": [], "recommandations_id": []}

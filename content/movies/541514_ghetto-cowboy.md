@@ -1,0 +1,1 @@
+{"tmdb_id": 541514, "title": "Ghetto Cowboy", "original_title": "Ghetto Cowboy", "slug_title": "ghetto-cowboy", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Idris Elba (Harp)"], "comments": [], "recommandations_id": []}

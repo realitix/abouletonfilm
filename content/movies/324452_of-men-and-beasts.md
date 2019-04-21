@@ -1,0 +1,1 @@
+{"tmdb_id": 324452, "title": "Of Men and Beasts", "original_title": "De hombres y bestias", "slug_title": "of-men-and-beasts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["C\u00e9sar Arellano ()", "Marco Flores ()", "Leticia Lim\u00f3n Lara ()", "Alejandra Luna Basurto ()"], "comments": [], "recommandations_id": []}

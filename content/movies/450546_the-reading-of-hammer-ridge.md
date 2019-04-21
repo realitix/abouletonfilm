@@ -1,0 +1,1 @@
+{"tmdb_id": 450546, "title": "The Reading of Hammer Ridge", "original_title": "The Reading of Hammer Ridge", "slug_title": "the-reading-of-hammer-ridge", "date": "2014-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lJlXzgIHT7oRg034wK9C2Fbg3st.jpg", "actors": [], "comments": [], "recommandations_id": []}

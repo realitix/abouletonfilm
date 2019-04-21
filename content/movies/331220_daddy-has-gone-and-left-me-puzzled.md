@@ -1,0 +1,1 @@
+{"tmdb_id": 331220, "title": "Daddy Has Gone and Left Me Puzzled", "original_title": "Pappa is weg en ik wilde nog wat vragen", "slug_title": "daddy-has-gone-and-left-me-puzzled", "date": "2007-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

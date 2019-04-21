@@ -1,0 +1,1 @@
+{"tmdb_id": 307239, "title": "Anything for Wifey", "original_title": "Anything for Wifey", "slug_title": "anything-for-wifey", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

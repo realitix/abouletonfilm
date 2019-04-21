@@ -1,0 +1,1 @@
+{"tmdb_id": 262883, "title": "The Miracle Worker", "original_title": "\u0427\u0443\u0434\u0435\u0441\u043d\u0438\u0446\u0430", "slug_title": "the-miracle-worker", "date": "1936-04-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iT1dhKpA7OmmQbOEluUCIprFXYL.jpg", "actors": [], "comments": [], "recommandations_id": []}

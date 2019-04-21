@@ -1,0 +1,1 @@
+{"tmdb_id": 562149, "title": "Bobosse", "original_title": "Bobosse", "slug_title": "bobosse", "date": "1959-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbqnEtkbv2QTjfAnzzULn9fWUEg.jpg", "actors": [], "comments": [], "recommandations_id": []}

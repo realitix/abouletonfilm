@@ -1,0 +1,1 @@
+{"tmdb_id": 469682, "title": "Pubescence 3", "original_title": "\u9752\u6625\u671f3", "slug_title": "pubescence-3", "date": "2012-06-05", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AmErLxb5GMX4hcXlsHA24FphSNE.jpg", "actors": ["Zhao YiHuan (\u7a0b\u5c0f\u96e8)"], "comments": [], "recommandations_id": []}

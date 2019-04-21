@@ -1,0 +1,1 @@
+{"tmdb_id": 555906, "title": "Rose de Nice", "original_title": "Rose de Nice", "slug_title": "rose-de-nice", "date": "1921-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

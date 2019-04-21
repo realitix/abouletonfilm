@@ -1,0 +1,1 @@
+{"tmdb_id": 568038, "title": "Mera Bhai Mera Dushman", "original_title": "Mera Bhai Mera Dushman", "slug_title": "mera-bhai-mera-dushman", "date": "1967-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shyama ()", "Rajan Haksar ()", "Kamal Kapoor ()", "Mukri ()", "Prem Nath ()"], "comments": [], "recommandations_id": []}

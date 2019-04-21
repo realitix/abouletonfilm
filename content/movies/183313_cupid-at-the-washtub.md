@@ -1,0 +1,1 @@
+{"tmdb_id": 183313, "title": "Cupid at the Washtub", "original_title": "Cupid at the Washtub", "slug_title": "cupid-at-the-washtub", "date": "1897-09-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYtOH05RDdUT6ZKPZ2rDeL2eP5x.jpg", "actors": [], "comments": [], "recommandations_id": []}

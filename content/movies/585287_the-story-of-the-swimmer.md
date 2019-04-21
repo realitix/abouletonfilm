@@ -1,0 +1,1 @@
+{"tmdb_id": 585287, "title": "The Story of the Swimmer", "original_title": "The Story of the Swimmer", "slug_title": "the-story-of-the-swimmer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

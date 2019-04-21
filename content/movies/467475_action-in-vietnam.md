@@ -1,0 +1,1 @@
+{"tmdb_id": 467475, "title": "Action in Vietnam", "original_title": "Action in Vietnam", "slug_title": "action-in-vietnam", "date": "1965-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOxpGUvXIweaHfKUDA9jchC4yXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

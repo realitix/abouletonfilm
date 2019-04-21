@@ -1,0 +1,1 @@
+{"tmdb_id": 240799, "title": "Vicente Aranda, 50 a\u00f1os de cine", "original_title": "Vicente Aranda, 50 a\u00f1os de cine", "slug_title": "vicente-aranda-50-anos-de-cine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHiZV8Ja83dCBTT3geew4Ke5Ec5.jpg", "actors": [], "comments": [], "recommandations_id": []}

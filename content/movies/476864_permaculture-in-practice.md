@@ -1,0 +1,1 @@
+{"tmdb_id": 476864, "title": "Permaculture in Practice", "original_title": "Permaculture in Practice", "slug_title": "permaculture-in-practice", "date": "1997-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

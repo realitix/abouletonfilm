@@ -1,0 +1,1 @@
+{"tmdb_id": 305232, "title": "I'm a Stripper Boylesque!", "original_title": "I'm a Stripper Boylesque!", "slug_title": "i-m-a-stripper-boylesque", "date": "2014-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

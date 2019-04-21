@@ -1,0 +1,1 @@
+{"tmdb_id": 579632, "title": "shanghai flowers", "original_title": "shanghai flowers", "slug_title": "shanghai-flowers", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMlXSBjBt0WTZMiESJ8aotG38gs.jpg", "actors": [], "comments": [], "recommandations_id": []}

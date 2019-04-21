@@ -1,0 +1,1 @@
+{"tmdb_id": 169352, "title": "Collusion", "original_title": "Collusion", "slug_title": "collusion", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 89962, "title": "Frankenpimp", "original_title": "Frankenpimp", "slug_title": "frankenpimp", "date": "2009-10-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d1Q2ZKL4zrW4sdvLOf6jhBAgGiE.jpg", "actors": [], "comments": [], "recommandations_id": []}

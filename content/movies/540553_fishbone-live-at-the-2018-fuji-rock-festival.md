@@ -1,0 +1,1 @@
+{"tmdb_id": 540553, "title": "Fishbone - Live at the 2018 Fuji Rock Festival", "original_title": "Fishbone - Live at the 2018 Fuji Rock Festival", "slug_title": "fishbone-live-at-the-2018-fuji-rock-festival", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

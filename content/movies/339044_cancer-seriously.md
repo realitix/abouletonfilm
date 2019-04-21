@@ -1,0 +1,1 @@
+{"tmdb_id": 339044, "title": "Cancer? Seriously?", "original_title": "Cancer? Seriously?", "slug_title": "cancer-seriously", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

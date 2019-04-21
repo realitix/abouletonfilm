@@ -1,0 +1,1 @@
+{"tmdb_id": 423936, "title": "China Ring", "original_title": "China Ring", "slug_title": "china-ring", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

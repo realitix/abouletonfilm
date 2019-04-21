@@ -1,0 +1,1 @@
+{"tmdb_id": 512265, "title": "Steve Smith - Drumset Technique", "original_title": "Steve Smith - Drumset Technique", "slug_title": "steve-smith-drumset-technique", "date": "2002-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uT3Jhi7yxPgA10gexbfmiZmw2tY.jpg", "actors": [], "comments": [], "recommandations_id": []}

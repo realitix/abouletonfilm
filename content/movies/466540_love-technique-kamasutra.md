@@ -1,0 +1,1 @@
+{"tmdb_id": 466540, "title": "Love Technique: Kamasutra", "original_title": "Ai no tekunikku kama sutora", "slug_title": "love-technique-kamasutra", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPljvuCWLfeY4Et5wTI0dObgxOk.jpg", "actors": [], "comments": [], "recommandations_id": []}

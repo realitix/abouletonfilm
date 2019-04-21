@@ -1,0 +1,1 @@
+{"tmdb_id": 297585, "title": "Back to Bosnia", "original_title": "Back to Bosnia", "slug_title": "back-to-bosnia", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v3yh1oNpklna9WIOHIYlWcvaqlj.jpg", "actors": [], "comments": [], "recommandations_id": []}

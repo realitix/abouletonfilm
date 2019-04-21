@@ -1,0 +1,1 @@
+{"tmdb_id": 389395, "title": "Alcatrazz: Metallic Live '84", "original_title": "Alcatrazz: Metallic Live '84", "slug_title": "alcatrazz-metallic-live-84", "date": "1984-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNW09K7Frbo4fvNNGvHCmnh0OgX.jpg", "actors": [], "comments": [], "recommandations_id": []}

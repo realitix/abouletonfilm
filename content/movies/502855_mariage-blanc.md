@@ -1,0 +1,1 @@
+{"tmdb_id": 502855, "title": "Mariage blanc", "original_title": "Mariage blanc", "slug_title": "mariage-blanc", "date": "1996-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mostafa Tabbou (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421485, "title": "Prin cenu\u0219a imperiului", "original_title": "Prin cenu\u0219a imperiului", "slug_title": "prin-cenusa-imperiului", "date": "", "genre": "Drame / Histoire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jpHVLnufXP1PP2YQx2C9H1iGSxF.jpg", "actors": [], "comments": [], "recommandations_id": []}

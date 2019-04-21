@@ -1,0 +1,1 @@
+{"tmdb_id": 298624, "title": "The Hayabusa Heist", "original_title": "The Hayabusa Heist", "slug_title": "the-hayabusa-heist", "date": "", "genre": "Action / Aventure / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 577765, "title": "Kradenoye solntse", "original_title": "Kradenoye solntse", "slug_title": "kradenoye-solntse", "date": "1943-01-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

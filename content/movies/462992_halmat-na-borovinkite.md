@@ -1,0 +1,1 @@
+{"tmdb_id": 462992, "title": "Halmat na borovinkite", "original_title": "Halmat na borovinkite", "slug_title": "halmat-na-borovinkite", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

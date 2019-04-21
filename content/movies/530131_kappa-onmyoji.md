@@ -1,0 +1,1 @@
+{"tmdb_id": 530131, "title": "Kappa & Onmyoji", "original_title": "Kappa & Onmyoji", "slug_title": "kappa-onmyoji", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpdAzrZZeEXBlA6GT9ZM58DyQn6.jpg", "actors": [], "comments": [], "recommandations_id": []}

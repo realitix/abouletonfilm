@@ -1,0 +1,1 @@
+{"tmdb_id": 373926, "title": "Something's Wrong in Kansas", "original_title": "Something's Wrong in Kansas", "slug_title": "something-s-wrong-in-kansas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kN2eaWroGJzcThIi3TY3FF71Z6e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 322485, "title": "Une journ\u00e9e avec Jean-Claude Van Damme", "original_title": "Une journ\u00e9e avec Jean-Claude Van Damme", "slug_title": "une-journee-avec-jean-claude-van-damme", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282449, "title": "Samurai: Behind the Blade", "original_title": "Samurai: Behind the Blade", "slug_title": "samurai-behind-the-blade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Rv0FVhTvHT6HX3sufpZo7RIIRi.jpg", "actors": ["Ben Weinberg (Narrator)"], "comments": [], "recommandations_id": []}

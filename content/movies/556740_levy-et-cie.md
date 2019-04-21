@@ -1,0 +1,1 @@
+{"tmdb_id": 556740, "title": "L\u00e9vy et Cie", "original_title": "L\u00e9vy et Cie", "slug_title": "levy-et-cie", "date": "1930-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

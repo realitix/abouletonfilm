@@ -1,0 +1,1 @@
+{"tmdb_id": 117388, "title": "Triple Crossed", "original_title": "Triple Crossed", "slug_title": "triple-crossed", "date": "1959-02-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Besser (Joe)", "Moe Howard (Moe)", "Larry Fine (Larry)"], "comments": [], "recommandations_id": []}

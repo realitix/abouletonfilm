@@ -1,0 +1,1 @@
+{"tmdb_id": 427915, "title": "3 Dead Trick or Treaters", "original_title": "3 Dead Trick or Treaters", "slug_title": "3-dead-trick-or-treaters", "date": "2016-11-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/serFaZpK11QqpWCMruVymnaGA8x.jpg", "actors": [], "comments": [], "recommandations_id": []}

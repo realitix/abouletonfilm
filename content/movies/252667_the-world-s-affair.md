@@ -1,0 +1,1 @@
+{"tmdb_id": 252667, "title": "The World's Affair", "original_title": "The World's Affair", "slug_title": "the-world-s-affair", "date": "1933-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

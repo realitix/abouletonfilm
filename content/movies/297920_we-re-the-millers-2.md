@@ -1,0 +1,1 @@
+{"tmdb_id": 297920, "title": "We're the Millers 2", "original_title": "We're the Millers 2", "slug_title": "we-re-the-millers-2", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

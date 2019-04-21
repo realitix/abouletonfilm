@@ -1,0 +1,1 @@
+{"tmdb_id": 129370, "title": "A Labor of Love", "original_title": "A Labor of Love", "slug_title": "a-labor-of-love", "date": "1976-01-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSHupIWqb2tPJ92Dcl1WdRyarid.jpg", "actors": [], "comments": [], "recommandations_id": []}

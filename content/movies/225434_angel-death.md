@@ -1,0 +1,1 @@
+{"tmdb_id": 225434, "title": "Angel Death", "original_title": "Angel Death", "slug_title": "angel-death", "date": "1979-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Newman (Self (Narrator))", "Joanne Woodward (Self (Narrator))"], "comments": [], "recommandations_id": []}

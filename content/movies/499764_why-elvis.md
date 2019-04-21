@@ -1,0 +1,1 @@
+{"tmdb_id": 499764, "title": "Why Elvis?", "original_title": "Why Elvis?", "slug_title": "why-elvis", "date": "2005-06-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKIOchr99zHe95A4fJvsBYAeT7w.jpg", "actors": ["Elvis Presley ()"], "comments": [], "recommandations_id": []}

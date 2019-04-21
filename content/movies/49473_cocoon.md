@@ -1,0 +1,1 @@
+{"tmdb_id": 49473, "title": "Cocoon", "original_title": "Koza", "slug_title": "cocoon", "date": "1995-05-01", "genre": "", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rHzb7ivEhuzvRwbT7XtMw0ZDjg2.jpg", "actors": [], "comments": [], "recommandations_id": [114222, 150935, 52072, 52188]}

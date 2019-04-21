@@ -1,0 +1,1 @@
+{"tmdb_id": 381044, "title": "The Bandit", "original_title": "The Bandit", "slug_title": "the-bandit", "date": "2016-03-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikcWRf4mpm2iKvIxJ6y4ytNJcXv.jpg", "actors": ["Burt Reynolds (Himself)", "Paul Williams ()"], "comments": [], "recommandations_id": []}

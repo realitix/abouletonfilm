@@ -1,0 +1,1 @@
+{"tmdb_id": 251592, "title": "Never Trust A Smiling Hippie", "original_title": "Never Trust A Smiling Hippie", "slug_title": "never-trust-a-smiling-hippie", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

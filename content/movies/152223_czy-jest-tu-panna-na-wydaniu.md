@@ -1,0 +1,1 @@
+{"tmdb_id": 152223, "title": "Czy jest tu panna na wydaniu", "original_title": "Czy jest tu panna na wydaniu", "slug_title": "czy-jest-tu-panna-na-wydaniu", "date": "1977-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

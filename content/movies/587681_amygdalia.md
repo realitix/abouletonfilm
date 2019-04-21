@@ -1,0 +1,1 @@
+{"tmdb_id": 587681, "title": "Amygdali\u00e1", "original_title": "\u0391\u03bc\u03c5\u03b3\u03b4\u03b1\u03bb\u03b9\u03ac", "slug_title": "amygdalia", "date": "2019-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ybWQg2706erLNSOiA8NRGMtJBQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332676, "title": "Bureau 06: The architects of the Eichmann Trial", "original_title": "Bureau 06: The architects of the Eichmann Trial", "slug_title": "bureau-06-the-architects-of-the-eichmann-trial", "date": "2013-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

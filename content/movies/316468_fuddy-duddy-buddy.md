@@ -1,0 +1,1 @@
+{"tmdb_id": 316468, "title": "Fuddy Duddy Buddy", "original_title": "Fuddy Duddy Buddy", "slug_title": "fuddy-duddy-buddy", "date": "1951-10-17", "genre": "Animation / Familial", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 592885, "title": "Stiff Little Fingers and U2 in Concert", "original_title": "Stiff Little Fingers and U2 in Concert", "slug_title": "stiff-little-fingers-and-u2-in-concert", "date": "1981-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

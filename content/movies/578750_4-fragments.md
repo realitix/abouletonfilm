@@ -1,0 +1,1 @@
+{"tmdb_id": 578750, "title": "4 Fragments", "original_title": "4 Fragments", "slug_title": "4-fragments", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302406, "title": "Under The Brooklyn Bridge", "original_title": "Under The Brooklyn Bridge", "slug_title": "under-the-brooklyn-bridge", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufs4S1nURnmq7yg55P3bIbuLd7n.jpg", "actors": [], "comments": [], "recommandations_id": []}

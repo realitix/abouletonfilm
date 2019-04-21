@@ -1,0 +1,1 @@
+{"tmdb_id": 300329, "title": "The Human Soul", "original_title": "The Human Soul", "slug_title": "the-human-soul", "date": "2013-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

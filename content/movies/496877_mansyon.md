@@ -1,0 +1,1 @@
+{"tmdb_id": 496877, "title": "Mansyon", "original_title": "Mansyon", "slug_title": "mansyon", "date": "2005-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ibU5VlYVC7dwhO55V4pdb3OL77.jpg", "actors": ["Roselyn Perez (Dolores)", "Marnie Lapus (Do\u00f1a Elena Manalo)"], "comments": [], "recommandations_id": []}

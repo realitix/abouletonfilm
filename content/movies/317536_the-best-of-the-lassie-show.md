@@ -1,0 +1,1 @@
+{"tmdb_id": 317536, "title": "The Best of the Lassie Show", "original_title": "The Best of the Lassie Show", "slug_title": "the-best-of-the-lassie-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

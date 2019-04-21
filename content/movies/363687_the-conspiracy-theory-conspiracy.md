@@ -1,0 +1,1 @@
+{"tmdb_id": 363687, "title": "The Conspiracy Theory Conspiracy", "original_title": "The Conspiracy Theory Conspiracy", "slug_title": "the-conspiracy-theory-conspiracy", "date": "2015-08-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Jones (Himself)"], "comments": [], "recommandations_id": []}

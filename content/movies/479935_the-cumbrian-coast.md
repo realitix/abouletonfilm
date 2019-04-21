@@ -1,0 +1,1 @@
+{"tmdb_id": 479935, "title": "The Cumbrian Coast", "original_title": "The Cumbrian Coast", "slug_title": "the-cumbrian-coast", "date": "1997-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1RoWdIRVvTcHazhtUbYdfQnWXv.jpg", "actors": [], "comments": [], "recommandations_id": []}

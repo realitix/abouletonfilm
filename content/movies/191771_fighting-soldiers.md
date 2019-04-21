@@ -1,0 +1,1 @@
+{"tmdb_id": 191771, "title": "Fighting Soldiers", "original_title": "\u6226\u3075\u5175\u968a", "slug_title": "fighting-soldiers", "date": "1939-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/laOamRuMDvjXWxusw5LjqEJ35Pu.jpg", "actors": [], "comments": [], "recommandations_id": []}

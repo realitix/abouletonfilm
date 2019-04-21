@@ -1,0 +1,1 @@
+{"tmdb_id": 81544, "title": "Glass Lips", "original_title": "Glass Lips", "slug_title": "glass-lips", "date": "2007-11-07", "genre": "Drame", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Vzx1juBiLxz6l9mV345ki5OQzB.jpg", "actors": [], "comments": [], "recommandations_id": [27095]}

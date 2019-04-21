@@ -1,0 +1,1 @@
+{"tmdb_id": 342641, "title": "Sea Battle", "original_title": "\u041c\u043e\u0440\u0441\u043a\u043e\u0439 \u0431\u043e\u0439", "slug_title": "sea-battle", "date": "2005-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5R8EPEryz87TQKx6qBlv9cYNC1b.jpg", "actors": [], "comments": [], "recommandations_id": []}

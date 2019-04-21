@@ -1,0 +1,1 @@
+{"tmdb_id": 502028, "title": "My Little Havana", "original_title": "My Little Havana", "slug_title": "my-little-havana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jsu Garcia (Jesu Matamoro)", "Kristin Bauer van Straten (Carmen)", "Ismael 'East' Carlo (Senor Grande)"], "comments": [], "recommandations_id": []}

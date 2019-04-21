@@ -1,0 +1,1 @@
+{"tmdb_id": 479591, "title": "The Wave by The FIRM: Rock it OFF!", "original_title": "The Wave by The FIRM: Rock it OFF!", "slug_title": "the-wave-by-the-firm-rock-it-off", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

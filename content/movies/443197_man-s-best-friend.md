@@ -1,0 +1,1 @@
+{"tmdb_id": 443197, "title": "Man's Best Friend", "original_title": "Man's Best Friend", "slug_title": "man-s-best-friend", "date": "1941-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pinto Colvig (Hunter (voice))"], "comments": [], "recommandations_id": []}

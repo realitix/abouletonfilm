@@ -1,0 +1,1 @@
+{"tmdb_id": 580547, "title": "Chronic", "original_title": "Chronic", "slug_title": "chronic", "date": "2017-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7topoVz0ghZSlPzdV3onYhFlMgI.jpg", "actors": [], "comments": [], "recommandations_id": []}

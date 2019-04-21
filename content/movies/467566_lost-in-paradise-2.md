@@ -1,0 +1,1 @@
+{"tmdb_id": 467566, "title": "Lost in Paradise 2", "original_title": "Hot Boy N\u1ed5i Lo\u1ea1n 2", "slug_title": "lost-in-paradise-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4VWXVPNAAS7MROOQZBifPyvLg9.jpg", "actors": [], "comments": [], "recommandations_id": []}

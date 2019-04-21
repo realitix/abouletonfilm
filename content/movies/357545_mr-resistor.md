@@ -1,0 +1,1 @@
+{"tmdb_id": 357545, "title": "Mr. Resistor", "original_title": "Mr. Resistor", "slug_title": "mr-resistor", "date": "1994-01-21", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ot8xXXOG9Ij6FLnD5IS7T2ES3H6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580480, "title": "Paulina, Franz & Maria", "original_title": "Paulina, Franz & Maria", "slug_title": "paulina-franz-maria", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7WeXw01R5qtyGurd256wFFGrqz1.jpg", "actors": [], "comments": [], "recommandations_id": []}

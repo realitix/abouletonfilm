@@ -1,0 +1,1 @@
+{"tmdb_id": 579263, "title": "Sweetwater Junction", "original_title": "Sweetwater Junction", "slug_title": "sweetwater-junction", "date": "1980-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

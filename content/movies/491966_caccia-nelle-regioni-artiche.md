@@ -1,0 +1,1 @@
+{"tmdb_id": 491966, "title": "Caccia nelle regioni artiche", "original_title": "Caccia nelle regioni artiche", "slug_title": "caccia-nelle-regioni-artiche", "date": "1926-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

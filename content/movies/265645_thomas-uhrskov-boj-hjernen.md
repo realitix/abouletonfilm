@@ -1,0 +1,1 @@
+{"tmdb_id": 265645, "title": "Thomas Uhrskov - B\u00f8j Hjernen", "original_title": "Thomas Uhrskov - B\u00f8j Hjernen", "slug_title": "thomas-uhrskov-boj-hjernen", "date": "2010-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJ1DOnYvfBmRwjcr1nmBB5tgNWd.jpg", "actors": [], "comments": [], "recommandations_id": []}

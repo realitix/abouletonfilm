@@ -1,0 +1,1 @@
+{"tmdb_id": 291299, "title": "KentuckyShow!", "original_title": "KentuckyShow!", "slug_title": "kentuckyshow", "date": "2008-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

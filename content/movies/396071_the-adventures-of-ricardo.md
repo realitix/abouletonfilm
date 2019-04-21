@@ -1,0 +1,1 @@
+{"tmdb_id": 396071, "title": "The Adventures of Ricardo", "original_title": "The Adventures of Ricardo", "slug_title": "the-adventures-of-ricardo", "date": "1993-05-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8p2vbo4BfuNPdz1PzWvUwZFAOWp.jpg", "actors": [], "comments": [], "recommandations_id": []}

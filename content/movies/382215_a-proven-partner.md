@@ -1,0 +1,1 @@
+{"tmdb_id": 382215, "title": "A Proven Partner", "original_title": "Ein Bew\u00e4hrter Partner", "slug_title": "a-proven-partner", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6gNc4G3hKyX9mDGCbIiS620Y1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

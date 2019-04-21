@@ -1,0 +1,1 @@
+{"tmdb_id": 334836, "title": "Pygmalion Event", "original_title": "Pygmalion Event", "slug_title": "pygmalion-event", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

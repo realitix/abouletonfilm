@@ -1,0 +1,1 @@
+{"tmdb_id": 66318, "title": "Sadhurangam", "original_title": "Sadhurangam", "slug_title": "sadhurangam", "date": "1978-06-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()", "Jayachitra ()", "Pandari Bai ()", "V. K. Ramasamy ()"], "comments": [], "recommandations_id": []}

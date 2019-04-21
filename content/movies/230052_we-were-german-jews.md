@@ -1,0 +1,1 @@
+{"tmdb_id": 230052, "title": "We Were German Jews", "original_title": "We Were German Jews", "slug_title": "we-were-german-jews", "date": "1981-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert Strauss (Himself)", "Lotte Strauss (Herself)"], "comments": [], "recommandations_id": []}

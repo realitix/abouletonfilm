@@ -1,0 +1,1 @@
+{"tmdb_id": 479356, "title": "Cuco's Big Adventure", "original_title": "Cuco's Big Adventure", "slug_title": "cuco-s-big-adventure", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGVu8cXaMXaRVflOjPjPtqgEUcK.jpg", "actors": [], "comments": [], "recommandations_id": []}

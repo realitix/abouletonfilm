@@ -1,0 +1,1 @@
+{"tmdb_id": 511613, "title": "Becoming Burlesque", "original_title": "Becoming Burlesque", "slug_title": "becoming-burlesque", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vY2CA38XiMdejW8ibe8oLUUKetv.jpg", "actors": [], "comments": [], "recommandations_id": []}

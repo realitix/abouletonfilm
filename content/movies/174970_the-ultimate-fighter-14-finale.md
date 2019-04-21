@@ -1,0 +1,1 @@
+{"tmdb_id": 174970, "title": "The Ultimate Fighter 14 Finale", "original_title": "The Ultimate Fighter 14 Finale", "slug_title": "the-ultimate-fighter-14-finale", "date": "2011-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v7FdmLeenNBZEm9E12I6s9ApBG4.jpg", "actors": [], "comments": [], "recommandations_id": []}

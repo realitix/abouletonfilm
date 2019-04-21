@@ -1,0 +1,1 @@
+{"tmdb_id": 212898, "title": "Automat Kalashnikov", "original_title": "Automat Kalashnikov", "slug_title": "automat-kalashnikov", "date": "2000-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548041, "title": "Tailpiece", "original_title": "Tailpiece", "slug_title": "tailpiece", "date": "2018-09-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kBy71mTPLRYqU5y0mEKj6vxBee.jpg", "actors": ["Marie-Rose Osta ()"], "comments": [], "recommandations_id": []}

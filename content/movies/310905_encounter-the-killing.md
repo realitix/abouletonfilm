@@ -1,0 +1,1 @@
+{"tmdb_id": 310905, "title": "Encounter: The Killing", "original_title": "Encounter: The Killing", "slug_title": "encounter-the-killing", "date": "2002-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

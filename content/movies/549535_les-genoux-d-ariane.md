@@ -1,0 +1,1 @@
+{"tmdb_id": 549535, "title": "Les genoux d'Ariane", "original_title": "Les genoux d'Ariane", "slug_title": "les-genoux-d-ariane", "date": "1961-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536941, "title": "Product of Fear", "original_title": "Product of Fear", "slug_title": "product-of-fear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 101035, "title": "Echoes from Chernobyl", "original_title": "Echoes from Chernobyl", "slug_title": "echoes-from-chernobyl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2omUUxsTIyfgYFsqqpr6mxYt5Qc.jpg", "actors": [], "comments": [], "recommandations_id": []}

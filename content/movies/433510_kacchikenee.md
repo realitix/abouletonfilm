@@ -1,0 +1,1 @@
+{"tmdb_id": 433510, "title": "Kacchikenee!", "original_title": "\u304b\u3063\u3061\u3051\u306d\u3047\uff01", "slug_title": "kacchikenee", "date": "2016-03-19", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nO2NXFVQI84imffj4fxyyMiFwz8.jpg", "actors": [], "comments": [], "recommandations_id": []}

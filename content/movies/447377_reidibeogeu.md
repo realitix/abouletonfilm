@@ -1,0 +1,1 @@
+{"tmdb_id": 447377, "title": "\ub808\uc774\ub514\ubc84\uadf8", "original_title": "\ub808\uc774\ub514\ubc84\uadf8", "slug_title": "reidibeogeu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

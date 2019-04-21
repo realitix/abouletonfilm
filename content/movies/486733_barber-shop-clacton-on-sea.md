@@ -1,0 +1,1 @@
+{"tmdb_id": 486733, "title": "Barber Shop: Clacton-on-Sea", "original_title": "Barber Shop: Clacton-on-Sea", "slug_title": "barber-shop-clacton-on-sea", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoA0i2886PT30DHOA65eS8J2d6f.jpg", "actors": [], "comments": [], "recommandations_id": []}

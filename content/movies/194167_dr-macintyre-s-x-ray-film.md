@@ -1,0 +1,1 @@
+{"tmdb_id": 194167, "title": "Dr. Macintyre's X-Ray Film", "original_title": "Dr. Macintyre's X-Ray Film", "slug_title": "dr-macintyre-s-x-ray-film", "date": "1896-05-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9U43YY6MMMXpboP209qrPNDB7Va.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 434055, "title": "The Collapse of Yugoslavia", "original_title": "Slom Jugoslavije", "slug_title": "the-collapse-of-yugoslavia", "date": "1941-01-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tuIW70ddFR4yJp5LxZko5JHdZmO.jpg", "actors": [], "comments": [], "recommandations_id": []}

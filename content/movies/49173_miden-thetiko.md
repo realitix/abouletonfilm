@@ -1,0 +1,1 @@
+{"tmdb_id": 49173, "title": "Miden thetiko", "original_title": "Miden thetiko", "slug_title": "miden-thetiko", "date": "2008-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

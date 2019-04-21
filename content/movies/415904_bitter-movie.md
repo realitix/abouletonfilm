@@ -1,0 +1,1 @@
+{"tmdb_id": 415904, "title": "Bitter Movie", "original_title": "\u039d\u03c4\u03b5\u03bb\u03af\u03c1\u03b9\u03bf", "slug_title": "bitter-movie", "date": "1983-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

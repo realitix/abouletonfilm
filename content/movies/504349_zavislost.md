@@ -1,0 +1,1 @@
+{"tmdb_id": 504349, "title": "Z\u00e1vislost", "original_title": "Z\u00e1vislost", "slug_title": "zavislost", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kro4xVnMUm5v79csDWfnGvzriS.jpg", "actors": [], "comments": [], "recommandations_id": []}

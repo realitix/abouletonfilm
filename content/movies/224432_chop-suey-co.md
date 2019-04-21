@@ -1,0 +1,1 @@
+{"tmdb_id": 224432, "title": "Chop Suey & Co.", "original_title": "Chop Suey & Co.", "slug_title": "chop-suey-co", "date": "1919-08-17", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Lloyd ()", "'Snub' Pollard ()", "Bebe Daniels ()"], "comments": [], "recommandations_id": []}

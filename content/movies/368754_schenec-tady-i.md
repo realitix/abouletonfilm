@@ -1,0 +1,1 @@
+{"tmdb_id": 368754, "title": "Schenec-Tady I", "original_title": "Schenec-Tady I", "slug_title": "schenec-tady-i", "date": "1973-09-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAQVMd4DBlIg6U9jd66Jl2agGCd.jpg", "actors": [], "comments": [], "recommandations_id": []}

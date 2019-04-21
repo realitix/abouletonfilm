@@ -1,0 +1,1 @@
+{"tmdb_id": 273356, "title": "Vita In Lucania", "original_title": "Vita In Lucania", "slug_title": "vita-in-lucania", "date": "1963-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hyh8xWoIQdRmLmOdL4IreeaavmI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 519746, "title": "Pink Heat", "original_title": "Pink Heat", "slug_title": "pink-heat", "date": "2015-01-01", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jordan Burgess (Elizabeth)", "Henry Frost III (Victor)"], "comments": [], "recommandations_id": []}

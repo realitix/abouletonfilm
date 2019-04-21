@@ -1,0 +1,1 @@
+{"tmdb_id": 345021, "title": "Kyssekurs", "original_title": "Kyssekurs", "slug_title": "kyssekurs", "date": "1995-05-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mina Martine Lystad ()", "Pernille Sommerfeldt Oeien ()", "Audun Sandem ()"], "comments": [], "recommandations_id": []}

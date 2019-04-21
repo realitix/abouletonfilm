@@ -1,0 +1,1 @@
+{"tmdb_id": 237645, "title": "Karma Shadub", "original_title": "Karma Shadub", "slug_title": "karma-shadub", "date": "2013-12-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgQrgNN365CjjEOpAM8la2EgM9C.jpg", "actors": ["Paul Giger (Paul Giger)"], "comments": [], "recommandations_id": []}

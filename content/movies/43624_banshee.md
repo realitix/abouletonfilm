@@ -1,0 +1,1 @@
+{"tmdb_id": 43624, "title": "Banshee!!!", "original_title": "Banshee!!!", "slug_title": "banshee", "date": "2008-01-01", "genre": "Horreur", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhWuPcBIP5IW8J6TzbX6S6lFWG5.jpg", "actors": ["Michael Barra (Bob)"], "comments": [], "recommandations_id": []}

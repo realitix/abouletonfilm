@@ -1,0 +1,1 @@
+{"tmdb_id": 284040, "title": "Demon Beast Invasion Volume 2", "original_title": "Demon Beast Invasion Volume 2", "slug_title": "demon-beast-invasion-volume-2", "date": "1991-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBOBQfLGcjJ3ZXQfncBfe6wilR6.jpg", "actors": [], "comments": [], "recommandations_id": []}

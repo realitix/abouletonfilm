@@ -1,0 +1,1 @@
+{"tmdb_id": 473495, "title": "Ho Gaya Hai Mera Dil Patanga", "original_title": "Ho Gaya Hai Mera Dil Patanga", "slug_title": "ho-gaya-hai-mera-dil-patanga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mGtyntiYtviWi5XMm2N3JE208t0.jpg", "actors": [], "comments": [], "recommandations_id": []}

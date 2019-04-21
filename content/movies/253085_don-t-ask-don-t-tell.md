@@ -1,0 +1,1 @@
+{"tmdb_id": 253085, "title": "Don't Ask Don't Tell", "original_title": "Don't Ask Don't Tell", "slug_title": "don-t-ask-don-t-tell", "date": "2002-04-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzHDOyu9vZMDlt5mXxGyso0leqB.jpg", "actors": [], "comments": [], "recommandations_id": []}

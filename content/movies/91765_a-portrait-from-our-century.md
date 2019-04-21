@@ -1,0 +1,1 @@
+{"tmdb_id": 91765, "title": "A Portrait from Our Century", "original_title": "Egy portre szazadunkbol", "slug_title": "a-portrait-from-our-century", "date": "1965-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Hr5YQD4K5trEOpLgrK4Pfl5jJ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

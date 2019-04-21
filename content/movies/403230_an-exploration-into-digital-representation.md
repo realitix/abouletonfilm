@@ -1,0 +1,1 @@
+{"tmdb_id": 403230, "title": "An Exploration into Digital Representation", "original_title": "An Exploration into Digital Representation", "slug_title": "an-exploration-into-digital-representation", "date": "2008-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

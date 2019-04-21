@@ -1,0 +1,1 @@
+{"tmdb_id": 50639, "title": "Cliburn Competition", "original_title": "Cliburn Competition", "slug_title": "cliburn-competition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6HHhVD6svKUZ14CKwbK4oKgTR18.jpg", "actors": [], "comments": [], "recommandations_id": []}

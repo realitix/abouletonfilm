@@ -1,0 +1,1 @@
+{"tmdb_id": 376833, "title": "The Nuclear Comeback", "original_title": "The Nuclear Comeback", "slug_title": "the-nuclear-comeback", "date": "2008-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r6JUKGdEt4qxjptan2einC4tss1.jpg", "actors": [], "comments": [], "recommandations_id": []}

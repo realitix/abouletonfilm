@@ -1,0 +1,1 @@
+{"tmdb_id": 318725, "title": "Wo shuo a, wo shuo", "original_title": "Wo shuo a, wo shuo", "slug_title": "wo-shuo-a-wo-shuo", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

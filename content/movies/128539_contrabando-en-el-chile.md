@@ -1,0 +1,1 @@
+{"tmdb_id": 128539, "title": "Contrabando en el Chile", "original_title": "Contrabando en el Chile", "slug_title": "contrabando-en-el-chile", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

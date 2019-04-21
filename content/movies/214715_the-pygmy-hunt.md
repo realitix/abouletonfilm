@@ -1,0 +1,1 @@
+{"tmdb_id": 214715, "title": "The Pygmy Hunt", "original_title": "The Pygmy Hunt", "slug_title": "the-pygmy-hunt", "date": "1938-08-04", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYwGIBVGVUSZXR9eS2l6LgHQAj0.jpg", "actors": [], "comments": [], "recommandations_id": []}

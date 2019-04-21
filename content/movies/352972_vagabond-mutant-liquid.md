@@ -1,0 +1,1 @@
+{"tmdb_id": 352972, "title": "Vagabond Mutant Liquid", "original_title": "Vagabond Mutant Liquid", "slug_title": "vagabond-mutant-liquid", "date": "2015-07-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTYwy3UsgSStbgVE7yJN2u6TNSf.jpg", "actors": [], "comments": [], "recommandations_id": []}

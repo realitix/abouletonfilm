@@ -1,0 +1,1 @@
+{"tmdb_id": 322698, "title": "F. Scott Fitzgerald Slept Here", "original_title": "F. Scott Fitzgerald Slept Here", "slug_title": "f-scott-fitzgerald-slept-here", "date": "2007-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

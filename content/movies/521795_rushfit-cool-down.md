@@ -1,0 +1,1 @@
+{"tmdb_id": 521795, "title": "Rushfit - Cool Down", "original_title": "Rushfit - Cool Down", "slug_title": "rushfit-cool-down", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1b4AdcRrZzhA9wAASemotn3bLd.jpg", "actors": [], "comments": [], "recommandations_id": []}

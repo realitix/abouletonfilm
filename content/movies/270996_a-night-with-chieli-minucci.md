@@ -1,0 +1,1 @@
+{"tmdb_id": 270996, "title": "A Night with Chieli Minucci", "original_title": "A Night with Chieli Minucci", "slug_title": "a-night-with-chieli-minucci", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

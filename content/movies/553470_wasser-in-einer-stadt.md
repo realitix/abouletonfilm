@@ -1,0 +1,1 @@
+{"tmdb_id": 553470, "title": "Wasser in einer Stadt", "original_title": "Wasser in einer Stadt", "slug_title": "wasser-in-einer-stadt", "date": "1979-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

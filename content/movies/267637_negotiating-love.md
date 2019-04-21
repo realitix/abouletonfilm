@@ -1,0 +1,1 @@
+{"tmdb_id": 267637, "title": "Negotiating Love", "original_title": "Beziehungsweisen", "slug_title": "negotiating-love", "date": "2012-02-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leopold Altenburg ()", "Abak Safaei-Rad ()", "Axel Hartwig ()"], "comments": [], "recommandations_id": []}

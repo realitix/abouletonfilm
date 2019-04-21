@@ -1,0 +1,1 @@
+{"tmdb_id": 576220, "title": "Seua Chanee Gayng: Freshy", "original_title": "\u0e40\u0e2a\u0e37\u0e2d \u0e0a\u0e30\u0e19\u0e35 \u0e40\u0e01\u0e49\u0e07 Freshy", "slug_title": "seua-chanee-gayng-freshy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

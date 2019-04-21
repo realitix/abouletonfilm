@@ -1,0 +1,1 @@
+{"tmdb_id": 577320, "title": "Schnick Schnack Schnuck", "original_title": "Schnick Schnack Schnuck", "slug_title": "schnick-schnack-schnuck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9cU40z4Vrt0b1WWSx3hdUggsUc2.jpg", "actors": [], "comments": [], "recommandations_id": []}

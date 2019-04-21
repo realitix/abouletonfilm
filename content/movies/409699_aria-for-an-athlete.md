@@ -1,0 +1,1 @@
+{"tmdb_id": 409699, "title": "Aria for an Athlete", "original_title": "Aria dla atlety", "slug_title": "aria-for-an-athlete", "date": "1979-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/en54Jw8qOma9EKnoCshOlLcJOT.jpg", "actors": [], "comments": [], "recommandations_id": []}

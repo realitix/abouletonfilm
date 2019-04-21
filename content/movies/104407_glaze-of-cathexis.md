@@ -1,0 +1,1 @@
+{"tmdb_id": 104407, "title": "Glaze of Cathexis", "original_title": "Glaze of Cathexis", "slug_title": "glaze-of-cathexis", "date": "1990-01-01", "genre": "", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnrvgft9H4iBD1J1SFKd25S550P.jpg", "actors": [], "comments": [], "recommandations_id": [126204, 126215, 126197, 97517]}

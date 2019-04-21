@@ -1,0 +1,1 @@
+{"tmdb_id": 316641, "title": "Going Hollywood: The War Years", "original_title": "Going Hollywood: The War Years", "slug_title": "going-hollywood-the-war-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

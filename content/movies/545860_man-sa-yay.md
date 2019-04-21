@@ -1,0 +1,1 @@
+{"tmdb_id": 545860, "title": "Man Sa Yay", "original_title": "Man Sa Yay", "slug_title": "man-sa-yay", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

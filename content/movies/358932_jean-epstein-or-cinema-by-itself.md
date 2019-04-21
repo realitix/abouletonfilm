@@ -1,0 +1,1 @@
+{"tmdb_id": 358932, "title": "Jean Epstein or Cinema by Itself", "original_title": "Jean Epstein or Cinema by Itself", "slug_title": "jean-epstein-or-cinema-by-itself", "date": "1978-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

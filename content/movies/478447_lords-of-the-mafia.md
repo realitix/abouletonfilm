@@ -1,0 +1,1 @@
+{"tmdb_id": 478447, "title": "Lords of the Mafia", "original_title": "Lords of the Mafia", "slug_title": "lords-of-the-mafia", "date": "2000-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBbvz8HiBqDxpIm4vSzWLn06shP.jpg", "actors": [], "comments": [], "recommandations_id": []}

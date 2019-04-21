@@ -1,0 +1,1 @@
+{"tmdb_id": 284025, "title": "The Praying Mantis", "original_title": "The Praying Mantis", "slug_title": "the-praying-mantis", "date": "2009-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 439750, "title": "Parem de Falar Mal da Rotina", "original_title": "Parem de Falar Mal da Rotina", "slug_title": "parem-de-falar-mal-da-rotina", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elisa Lucinda ()"], "comments": [], "recommandations_id": []}

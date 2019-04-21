@@ -1,0 +1,1 @@
+{"tmdb_id": 528454, "title": "Last Stop", "original_title": "Ultima Fermata", "slug_title": "last-stop", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mESeAPgzzUTyV75ZgFEvuoNlU4f.jpg", "actors": ["Luca Lionello ()", "Sergio Assisi ()", "Claudia Cardinale ()"], "comments": [], "recommandations_id": []}

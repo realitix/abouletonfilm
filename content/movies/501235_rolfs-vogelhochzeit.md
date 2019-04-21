@@ -1,0 +1,1 @@
+{"tmdb_id": 501235, "title": "Rolfs Vogelhochzeit", "original_title": "Rolfs Vogelhochzeit", "slug_title": "rolfs-vogelhochzeit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6LCoySCD7GQ7kDa0AZuBaH3Wmgk.jpg", "actors": [], "comments": [], "recommandations_id": []}

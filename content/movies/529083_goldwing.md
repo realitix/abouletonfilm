@@ -1,0 +1,1 @@
+{"tmdb_id": 529083, "title": "Goldwing", "original_title": "Hwang Geumnalgae 1.2.3.", "slug_title": "goldwing", "date": "1978-05-01", "genre": "Action / Aventure / Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8c6KON7lMO31u6mty7P7uP91Hlb.jpg", "actors": [], "comments": [], "recommandations_id": []}

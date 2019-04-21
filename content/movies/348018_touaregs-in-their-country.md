@@ -1,0 +1,1 @@
+{"tmdb_id": 348018, "title": "Touaregs in Their Country", "original_title": "Chez les Touaregs", "slug_title": "touaregs-in-their-country", "date": "1908-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjGUAXlB1T8KnWWyR0vYutgUHuo.jpg", "actors": [], "comments": [], "recommandations_id": []}

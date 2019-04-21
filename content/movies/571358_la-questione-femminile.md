@@ -1,0 +1,1 @@
+{"tmdb_id": 571358, "title": "La questione femminile", "original_title": "La questione femminile", "slug_title": "la-questione-femminile", "date": "1976-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ej3V3k1AC3LUGTzWi0Ep8FnwMMa.jpg", "actors": [], "comments": [], "recommandations_id": []}

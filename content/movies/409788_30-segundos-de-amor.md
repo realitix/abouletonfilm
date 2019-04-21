@@ -1,0 +1,1 @@
+{"tmdb_id": 409788, "title": "30 segundos de amor", "original_title": "30 segundos de amor", "slug_title": "30-segundos-de-amor", "date": "1947-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVgSL8wO4XjxudoRdDd78q0tWk0.jpg", "actors": [], "comments": [], "recommandations_id": []}

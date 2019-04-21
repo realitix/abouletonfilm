@@ -1,0 +1,1 @@
+{"tmdb_id": 389584, "title": "Lamb of God: [2015] Hellfest", "original_title": "Lamb of God: [2015] Hellfest", "slug_title": "lamb-of-god-2015-hellfest", "date": "2015-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9n4KgDb3Ra9M4ntgeWDEIANeZZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

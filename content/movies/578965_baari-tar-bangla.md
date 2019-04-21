@@ -1,0 +1,1 @@
+{"tmdb_id": 578965, "title": "Baari Tar Bangla", "original_title": "Baari Tar Bangla", "slug_title": "baari-tar-bangla", "date": "2014-05-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faDtNa2umPSnYRwOvZCr9JuaVGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

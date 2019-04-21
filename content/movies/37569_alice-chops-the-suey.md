@@ -1,0 +1,1 @@
+{"tmdb_id": 37569, "title": "Alice Chops the Suey", "original_title": "Alice Chops the Suey", "slug_title": "alice-chops-the-suey", "date": "1925-01-01", "genre": "Animation", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhzqzAgYsjf7zevUXKaHX3Cg3th.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 221078, "title": "Steel and America", "original_title": "Steel and America", "slug_title": "steel-and-america", "date": "1965-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtXeHuKkYGjtfrHGHh85dANAnI5.jpg", "actors": ["Clarence Nash (Donald Duck)"], "comments": [], "recommandations_id": []}

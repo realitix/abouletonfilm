@@ -1,0 +1,1 @@
+{"tmdb_id": 277332, "title": "The Best of the Bachelor", "original_title": "The Best of the Bachelor", "slug_title": "the-best-of-the-bachelor", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

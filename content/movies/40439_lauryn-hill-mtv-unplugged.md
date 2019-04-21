@@ -1,0 +1,1 @@
+{"tmdb_id": 40439, "title": "Lauryn Hill: MTV Unplugged", "original_title": "Lauryn Hill: MTV Unplugged", "slug_title": "lauryn-hill-mtv-unplugged", "date": "2001-07-21", "genre": "Musique", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xk4BMgHRi4kCfoZWzU6K2YVgoXL.jpg", "actors": [], "comments": [], "recommandations_id": []}

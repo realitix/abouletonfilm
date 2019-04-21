@@ -1,0 +1,1 @@
+{"tmdb_id": 271613, "title": "Rugrats: Reptar Returns!", "original_title": "Rugrats: Reptar Returns!", "slug_title": "rugrats-reptar-returns", "date": "2014-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

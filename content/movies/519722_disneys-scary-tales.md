@@ -1,0 +1,1 @@
+{"tmdb_id": 519722, "title": "Disney\u2019s Scary Tales", "original_title": "Disney\u2019s Scary Tales", "slug_title": "disneys-scary-tales", "date": "1985-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUA40019YXhzdbp8IoKi4OhekLT.jpg", "actors": [], "comments": [], "recommandations_id": []}

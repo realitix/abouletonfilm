@@ -1,0 +1,1 @@
+{"tmdb_id": 423328, "title": "Carbon Copy", "original_title": "Carbon Copy", "slug_title": "carbon-copy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

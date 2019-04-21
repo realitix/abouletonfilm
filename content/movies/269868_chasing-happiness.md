@@ -1,0 +1,1 @@
+{"tmdb_id": 269868, "title": "Chasing Happiness", "original_title": "Chasing Happiness", "slug_title": "chasing-happiness", "date": "2012-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 87697, "title": "Bajrangbali", "original_title": "Bajrangbali", "slug_title": "bajrangbali", "date": "1976-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85fb9e865Ot9dYmh4M2PQ1MtGsk.jpg", "actors": [], "comments": [], "recommandations_id": []}

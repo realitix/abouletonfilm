@@ -1,0 +1,1 @@
+{"tmdb_id": 48360, "title": "Killer Ice", "original_title": "Killer Ice", "slug_title": "killer-ice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

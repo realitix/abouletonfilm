@@ -1,0 +1,1 @@
+{"tmdb_id": 271098, "title": "Pinoy Power 2", "original_title": "Pinoy Power 2", "slug_title": "pinoy-power-2", "date": "2009-08-15", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8itGkO2D0otbno1aiIBkSWJjAJh.jpg", "actors": ["Nonito Donaire Jr. (himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 298126, "title": "The Take-Up", "original_title": "The Take-Up", "slug_title": "the-take-up", "date": "2014-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFkFOs2KRs75qDB98RKnhWtSzyC.jpg", "actors": [], "comments": [], "recommandations_id": []}

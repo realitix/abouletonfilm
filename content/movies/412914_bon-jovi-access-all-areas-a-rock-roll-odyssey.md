@@ -1,0 +1,1 @@
+{"tmdb_id": 412914, "title": "Bon Jovi: Access All Areas - A Rock & Roll Odyssey", "original_title": "Bon Jovi: Access All Areas - A Rock & Roll Odyssey", "slug_title": "bon-jovi-access-all-areas-a-rock-roll-odyssey", "date": "1990-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

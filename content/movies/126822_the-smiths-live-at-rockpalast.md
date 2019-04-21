@@ -1,0 +1,1 @@
+{"tmdb_id": 126822, "title": "The Smiths Live at Rockpalast", "original_title": "The Smiths Live at Rockpalast", "slug_title": "the-smiths-live-at-rockpalast", "date": "1984-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCXIxJatKSsTQhBj4iRSJRB8EIG.jpg", "actors": [], "comments": [], "recommandations_id": []}

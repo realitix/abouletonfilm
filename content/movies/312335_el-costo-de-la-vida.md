@@ -1,0 +1,1 @@
+{"tmdb_id": 312335, "title": "El costo de la vida", "original_title": "El costo de la vida", "slug_title": "el-costo-de-la-vida", "date": "1989-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 321468, "title": "Vera: Life of a Diva", "original_title": "Vera: Life of a Diva", "slug_title": "vera-life-of-a-diva", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

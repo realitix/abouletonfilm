@@ -1,0 +1,1 @@
+{"tmdb_id": 374508, "title": "Water: Friend or Enemy", "original_title": "Water: Friend or Enemy", "slug_title": "water-friend-or-enemy", "date": "1943-04-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ij8ApNk7P4ZgCGB4SGE9Km5xAf0.jpg", "actors": [], "comments": [], "recommandations_id": []}

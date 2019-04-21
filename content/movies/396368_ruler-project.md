@@ -1,0 +1,1 @@
+{"tmdb_id": 396368, "title": "ruler project", "original_title": "ruler project", "slug_title": "ruler-project", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

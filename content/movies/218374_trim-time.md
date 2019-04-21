@@ -1,0 +1,1 @@
+{"tmdb_id": 218374, "title": "Trim Time", "original_title": "Trim Time", "slug_title": "trim-time", "date": "2002-10-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

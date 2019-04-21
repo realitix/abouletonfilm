@@ -1,0 +1,1 @@
+{"tmdb_id": 330635, "title": "The Allowed and the Forbidden", "original_title": "al-Halal Wa-l-Haram", "slug_title": "the-allowed-and-the-forbidden", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

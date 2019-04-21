@@ -1,0 +1,1 @@
+{"tmdb_id": 374349, "title": "Weihnachten bei einer Gastarbeiterfamilie", "original_title": "Weihnachten bei einer Gastarbeiterfamilie", "slug_title": "weihnachten-bei-einer-gastarbeiterfamilie", "date": "1975-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

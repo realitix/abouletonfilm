@@ -1,0 +1,1 @@
+{"tmdb_id": 552502, "title": "Les courants", "original_title": "Les courants", "slug_title": "les-courants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sara Forestier (Andr\u00e9a)", "Charlotte Desert (Agnes)", "Cecilia Hornus (Sylvie)"], "comments": [], "recommandations_id": []}

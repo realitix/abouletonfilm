@@ -1,0 +1,1 @@
+{"tmdb_id": 428828, "title": "La colectiva", "original_title": "La colectiva", "slug_title": "la-colectiva", "date": "1924-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

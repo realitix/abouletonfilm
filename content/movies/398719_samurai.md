@@ -1,0 +1,1 @@
+{"tmdb_id": 398719, "title": "Samurai", "original_title": "Samurai", "slug_title": "samurai", "date": "2000-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Xinxin Ren Gudbj\u00f6rnsson (Miyoki)", "Yosuke Ueda (Koichiro)", "Ryogen Key (Ito)"], "comments": [], "recommandations_id": []}

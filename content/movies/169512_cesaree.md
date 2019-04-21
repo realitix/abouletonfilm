@@ -1,0 +1,1 @@
+{"tmdb_id": 169512, "title": "C\u00e9sar\u00e9e", "original_title": "C\u00e9sar\u00e9e", "slug_title": "cesaree", "date": "1978-08-27", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3w1jO9fkhbLezK85UUVNlVwEPR.jpg", "actors": [], "comments": [], "recommandations_id": [200905, 65722, 163378, 305485]}

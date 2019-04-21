@@ -1,0 +1,1 @@
+{"tmdb_id": 208215, "title": "Guitar Drag", "original_title": "Guitar Drag", "slug_title": "guitar-drag", "date": "2000-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/YGCGL5wPJTT1q6DWUvFsYtJSlf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 167589, "title": "D-DAY - Men and Machine", "original_title": "D-DAY - Men and Machine", "slug_title": "d-day-men-and-machine", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/shRQaAL2lB6yWD0LZsD5hhn6iHm.jpg", "actors": ["Sean Pertwee (Narrator)"], "comments": [], "recommandations_id": []}

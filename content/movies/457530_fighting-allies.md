@@ -1,0 +1,1 @@
+{"tmdb_id": 457530, "title": "Fighting Allies", "original_title": "Fighting Allies", "slug_title": "fighting-allies", "date": "1941-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

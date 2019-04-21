@@ -1,0 +1,1 @@
+{"tmdb_id": 348445, "title": "I Know What You Did Last Summer", "original_title": "I Know What You Did Last Summer", "slug_title": "i-know-what-you-did-last-summer", "date": "", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

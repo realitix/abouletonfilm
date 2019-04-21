@@ -1,0 +1,1 @@
+{"tmdb_id": 537443, "title": "Barely Managing", "original_title": "Barely Managing", "slug_title": "barely-managing", "date": "2017-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kit Leonard Dennis (Hank Saddler)", "Alysha Brady (Alyx)", "Miata Edoga (Lizzie)"], "comments": [], "recommandations_id": []}

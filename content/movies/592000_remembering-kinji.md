@@ -1,0 +1,1 @@
+{"tmdb_id": 592000, "title": "Remembering Kinji", "original_title": "Remembering Kinji", "slug_title": "remembering-kinji", "date": "2015-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kenta Fukasaku ()", "Sadao Yamane ()"], "comments": [], "recommandations_id": []}

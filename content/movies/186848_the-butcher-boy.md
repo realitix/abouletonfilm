@@ -1,0 +1,1 @@
+{"tmdb_id": 186848, "title": "The Butcher Boy", "original_title": "The Butcher Boy", "slug_title": "the-butcher-boy", "date": "1932-09-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

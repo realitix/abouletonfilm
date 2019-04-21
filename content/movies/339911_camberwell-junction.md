@@ -1,0 +1,1 @@
+{"tmdb_id": 339911, "title": "Camberwell Junction", "original_title": "Camberwell Junction", "slug_title": "camberwell-junction", "date": "1974-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdCbc0P1nIZvZqRsxX5PSoP1593.jpg", "actors": [], "comments": [], "recommandations_id": []}

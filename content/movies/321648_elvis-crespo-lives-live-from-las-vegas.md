@@ -1,0 +1,1 @@
+{"tmdb_id": 321648, "title": "Elvis Crespo Lives: Live From Las Vegas", "original_title": "Elvis Crespo Lives: Live From Las Vegas", "slug_title": "elvis-crespo-lives-live-from-las-vegas", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

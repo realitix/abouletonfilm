@@ -1,0 +1,1 @@
+{"tmdb_id": 64457, "title": "Der Kick", "original_title": "Der Kick", "slug_title": "der-kick", "date": "2006-01-01", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjeH3NymmLgtYs9f9bZsAPhhsKG.jpg", "actors": ["Susanne-Marie Wrage ()", "Markus Lerch ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 570439, "title": "Hercules: The Invincible Hero", "original_title": "Hercules: The Invincible Hero", "slug_title": "hercules-the-invincible-hero", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66rNBAAEbRsNHXhPWlTTT8Y3HQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

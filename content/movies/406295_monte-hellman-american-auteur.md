@@ -1,0 +1,1 @@
+{"tmdb_id": 406295, "title": "Monte Hellman - American Auteur", "original_title": "Monte Hellman - American Auteur", "slug_title": "monte-hellman-american-auteur", "date": "1997-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

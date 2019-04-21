@@ -1,0 +1,1 @@
+{"tmdb_id": 541498, "title": "Kingdom Comes: Rituals", "original_title": "Kingdom Comes: Rituals", "slug_title": "kingdom-comes-rituals", "date": "2014-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jY2BTLRwx4pFNLXx3mV6qkFzn5.jpg", "actors": [], "comments": [], "recommandations_id": []}

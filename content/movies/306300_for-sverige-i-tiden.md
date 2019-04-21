@@ -1,0 +1,1 @@
+{"tmdb_id": 306300, "title": "F\u00f6r Sverige i tiden", "original_title": "F\u00f6r Sverige i tiden", "slug_title": "for-sverige-i-tiden", "date": "2009-09-26", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

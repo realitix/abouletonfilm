@@ -1,0 +1,1 @@
+{"tmdb_id": 443591, "title": "Superf\u00edcie", "original_title": "Superf\u00edcie", "slug_title": "superficie", "date": "2007-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

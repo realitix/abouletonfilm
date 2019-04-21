@@ -1,0 +1,1 @@
+{"tmdb_id": 352247, "title": "A Woman's Story", "original_title": "A Woman's Story", "slug_title": "a-woman-s-story", "date": "2015-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGQDcAkiHHdqMbCURwYPtMNG4Lk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520316, "title": "Bradman", "original_title": "Bradman", "slug_title": "bradman", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynTTABoztxl19ywo2Hn4MDQRMxw.jpg", "actors": ["Donald Bradman (Himself)", "Jack Egan (Narrator)"], "comments": [], "recommandations_id": []}

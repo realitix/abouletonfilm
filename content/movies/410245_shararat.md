@@ -1,0 +1,1 @@
+{"tmdb_id": 410245, "title": "Shararat", "original_title": "Shararat", "slug_title": "shararat", "date": "1959-01-02", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meena Kumari ()", "Kishore Kumar ()"], "comments": [], "recommandations_id": []}

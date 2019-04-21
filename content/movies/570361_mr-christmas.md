@@ -1,0 +1,1 @@
+{"tmdb_id": 570361, "title": "Mr. Christmas", "original_title": "Mr. Christmas", "slug_title": "mr-christmas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugMg8dfVt6OHxN5nwrBB1v1iNXb.jpg", "actors": ["Bruce Mertz (Himself)"], "comments": [], "recommandations_id": []}

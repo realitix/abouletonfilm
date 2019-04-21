@@ -1,0 +1,1 @@
+{"tmdb_id": 365976, "title": "My Boring Zombie Apocalypse", "original_title": "My Boring Zombie Apocalypse", "slug_title": "my-boring-zombie-apocalypse", "date": "2015-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqoNVVE2WiVcZwHzZZrYriswzc3.jpg", "actors": [], "comments": [], "recommandations_id": []}

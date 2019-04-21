@@ -1,0 +1,1 @@
+{"tmdb_id": 412876, "title": "Goosebumps: Werewolf Skin", "original_title": "Goosebumps: Werewolf Skin", "slug_title": "goosebumps-werewolf-skin", "date": "1997-11-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMLbKD77L2zpZzrgziLLS4xYjUn.jpg", "actors": [], "comments": [], "recommandations_id": []}

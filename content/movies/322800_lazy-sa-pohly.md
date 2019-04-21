@@ -1,0 +1,1 @@
+{"tmdb_id": 322800, "title": "Lazy sa pohly", "original_title": "Lazy sa pohly", "slug_title": "lazy-sa-pohly", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

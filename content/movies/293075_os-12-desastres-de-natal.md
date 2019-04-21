@@ -1,0 +1,1 @@
+{"tmdb_id": 293075, "title": "Os 12 Desastres de Natal", "original_title": "Os 12 Desastres de Natal", "slug_title": "os-12-desastres-de-natal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

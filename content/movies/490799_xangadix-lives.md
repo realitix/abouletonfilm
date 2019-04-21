@@ -1,0 +1,1 @@
+{"tmdb_id": 490799, "title": "Xangadix Lives!", "original_title": "Xangadix Lives!", "slug_title": "xangadix-lives", "date": "", "genre": "Documentaire / Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNHNDpkGkYv7cf7m1KxnmoUCbJY.jpg", "actors": [], "comments": [], "recommandations_id": []}

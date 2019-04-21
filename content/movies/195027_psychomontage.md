@@ -1,0 +1,1 @@
+{"tmdb_id": 195027, "title": "Psychomontage", "original_title": "Psychomontage", "slug_title": "psychomontage", "date": "1963-12-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojRACbzxt0p4UU3C7Wtx4pWXJSW.jpg", "actors": [], "comments": [], "recommandations_id": [163102, 154818, 134321, 209731]}

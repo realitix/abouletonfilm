@@ -1,0 +1,1 @@
+{"tmdb_id": 444030, "title": "The Case of Charlie Gordon", "original_title": "The Case of Charlie Gordon", "slug_title": "the-case-of-charlie-gordon", "date": "1939-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/maFyzyotVztoCjydrHGz7yuQSkw.jpg", "actors": [], "comments": [], "recommandations_id": []}

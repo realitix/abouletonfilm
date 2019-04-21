@@ -1,0 +1,1 @@
+{"tmdb_id": 461024, "title": "The Joy of Maths", "original_title": "Au bonheur des maths", "slug_title": "the-joy-of-maths", "date": "2011-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uguiI3hwgg6dG27f1rqgMpy1kBM.jpg", "actors": [], "comments": [], "recommandations_id": []}

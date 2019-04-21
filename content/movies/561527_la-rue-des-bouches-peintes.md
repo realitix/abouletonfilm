@@ -1,0 +1,1 @@
+{"tmdb_id": 561527, "title": "La rue des bouches peintes", "original_title": "La rue des bouches peintes", "slug_title": "la-rue-des-bouches-peintes", "date": "1955-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ve4qrkSl6ssNB2VViUQCVlLdBAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382601, "title": "The Thing", "original_title": "The Thing", "slug_title": "the-thing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

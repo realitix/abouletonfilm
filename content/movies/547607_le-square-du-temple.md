@@ -1,0 +1,1 @@
+{"tmdb_id": 547607, "title": "Le square du temple", "original_title": "Le square du temple", "slug_title": "le-square-du-temple", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

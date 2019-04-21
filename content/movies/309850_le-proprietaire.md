@@ -1,0 +1,1 @@
+{"tmdb_id": 309850, "title": "Le propri\u00e9taire", "original_title": "Le propri\u00e9taire", "slug_title": "le-proprietaire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Suite \u00e0 la myst\u00e9rieuse disparition de son propri\u00e9taire, H se lance \u00e0 sa recherche.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

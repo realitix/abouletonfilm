@@ -1,0 +1,1 @@
+{"tmdb_id": 365605, "title": "Hour of Silence", "original_title": "Klusuma stunda", "slug_title": "hour-of-silence", "date": "1992-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

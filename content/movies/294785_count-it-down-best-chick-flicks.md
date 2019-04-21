@@ -1,0 +1,1 @@
+{"tmdb_id": 294785, "title": "Count It Down:Best Chick Flicks", "original_title": "Count It Down:Best Chick Flicks", "slug_title": "count-it-down-best-chick-flicks", "date": "2012-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

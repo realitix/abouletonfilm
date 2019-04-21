@@ -1,0 +1,1 @@
+{"tmdb_id": 23205, "title": "Second Skin", "original_title": "Second Skin", "slug_title": "second-skin", "date": "2009-03-07", "genre": "Documentaire", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k4vndn7r9wxU39HGPxHhPvTG7RU.jpg", "actors": [], "comments": [], "recommandations_id": [96495, 24669, 36896, 260211]}

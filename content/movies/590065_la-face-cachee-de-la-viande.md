@@ -1,0 +1,1 @@
+{"tmdb_id": 590065, "title": "La face cach\u00e9e de la viande", "original_title": "La face cach\u00e9e de la viande", "slug_title": "la-face-cachee-de-la-viande", "date": "2012-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sophie Durocher (Herself - Host)"], "comments": [], "recommandations_id": []}

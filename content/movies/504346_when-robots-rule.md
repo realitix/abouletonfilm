@@ -1,0 +1,1 @@
+{"tmdb_id": 504346, "title": "When Robots Rule", "original_title": "When Robots Rule", "slug_title": "when-robots-rule", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5N3Afgg8M7gjEncTqQ1jCt2Licm.jpg", "actors": [], "comments": [], "recommandations_id": []}

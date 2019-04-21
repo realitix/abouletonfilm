@@ -1,0 +1,1 @@
+{"tmdb_id": 313124, "title": "Championship Training: Heart of a Champion", "original_title": "Championship Training: Heart of a Champion", "slug_title": "championship-training-heart-of-a-champion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

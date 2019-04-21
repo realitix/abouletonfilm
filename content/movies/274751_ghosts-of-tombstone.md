@@ -1,0 +1,1 @@
+{"tmdb_id": 274751, "title": "Ghosts of Tombstone", "original_title": "Ghosts of Tombstone", "slug_title": "ghosts-of-tombstone", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

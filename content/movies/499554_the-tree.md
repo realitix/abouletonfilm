@@ -1,0 +1,1 @@
+{"tmdb_id": 499554, "title": "The Tree", "original_title": "A \u00c1rvore", "slug_title": "the-tree", "date": "2018-02-21", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLJzxkEIUvLy2s6sJ6LoSIJd32k.jpg", "actors": ["Petar Fradeli\u0107 ()"], "comments": [], "recommandations_id": []}

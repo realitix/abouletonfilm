@@ -1,0 +1,1 @@
+{"tmdb_id": 581040, "title": "Kribus - Krabus - Domine", "original_title": "Kribus - Krabus - Domine", "slug_title": "kribus-krabus-domine", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKuEHG6Aq7m1K1Ji053M9mFlViH.jpg", "actors": [], "comments": [], "recommandations_id": []}

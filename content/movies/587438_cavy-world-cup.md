@@ -1,0 +1,1 @@
+{"tmdb_id": 587438, "title": "Cavy World Cup", "original_title": "WK Cavia", "slug_title": "cavy-world-cup", "date": "2017-09-21", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUCgM1n5inpbbom1jOuCsUC4zCo.jpg", "actors": [], "comments": [], "recommandations_id": []}

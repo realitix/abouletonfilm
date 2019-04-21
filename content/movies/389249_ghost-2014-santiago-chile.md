@@ -1,0 +1,1 @@
+{"tmdb_id": 389249, "title": "Ghost: [2014] Santiago, Chile", "original_title": "Ghost: [2014] Santiago, Chile", "slug_title": "ghost-2014-santiago-chile", "date": "2014-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JCJUPXbzcXjaSwcvAgU0GVGdGH.jpg", "actors": [], "comments": [], "recommandations_id": []}

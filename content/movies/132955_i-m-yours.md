@@ -1,0 +1,1 @@
+{"tmdb_id": 132955, "title": "I'm Yours", "original_title": "I'm Yours", "slug_title": "i-m-yours", "date": "2012-04-20", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8P19JrVGfUeOmLv7qBgIPtzCOjo.jpg", "actors": [], "comments": [], "recommandations_id": []}

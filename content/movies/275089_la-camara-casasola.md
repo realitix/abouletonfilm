@@ -1,0 +1,1 @@
+{"tmdb_id": 275089, "title": "La c\u00e1mara Casasola", "original_title": "La c\u00e1mara Casasola", "slug_title": "la-camara-casasola", "date": "2010-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYea5G9Z7ZepB3W4GQhVistI8GA.jpg", "actors": [], "comments": [], "recommandations_id": []}

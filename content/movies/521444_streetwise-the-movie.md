@@ -1,0 +1,1 @@
+{"tmdb_id": 521444, "title": "Streetwise: The Movie", "original_title": "Streetwise: The Movie", "slug_title": "streetwise-the-movie", "date": "2007-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

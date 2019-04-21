@@ -1,0 +1,1 @@
+{"tmdb_id": 346714, "title": "I Am Gangster", "original_title": "I Am Gangster", "slug_title": "i-am-gangster", "date": "2015-06-29", "genre": "Action / Drame / Crime", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3g6Loil8LU4SXILM8hgVTxSkrnL.jpg", "actors": ["Rick Mancia (David Flores)"], "comments": [], "recommandations_id": []}

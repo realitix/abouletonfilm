@@ -1,0 +1,1 @@
+{"tmdb_id": 593149, "title": "Exchange Student Chua Swee Lin", "original_title": "Ryugakusei Chua Su\u00ee-Rin", "slug_title": "exchange-student-chua-swee-lin", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teiji \u014cmiya (Narrator)"], "comments": [], "recommandations_id": []}

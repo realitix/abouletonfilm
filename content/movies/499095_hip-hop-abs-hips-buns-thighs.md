@@ -1,0 +1,1 @@
+{"tmdb_id": 499095, "title": "Hip Hop Abs - Hips, Buns & Thighs", "original_title": "Hip Hop Abs - Hips, Buns & Thighs", "slug_title": "hip-hop-abs-hips-buns-thighs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imxJeI0ObQlT6IzmVAbFeFysZIi.jpg", "actors": [], "comments": [], "recommandations_id": []}

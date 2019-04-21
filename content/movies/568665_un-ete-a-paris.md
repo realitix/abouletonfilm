@@ -1,0 +1,1 @@
+{"tmdb_id": 568665, "title": "Un \u00e9t\u00e9 \u00e0 Paris", "original_title": "Un \u00e9t\u00e9 \u00e0 Paris", "slug_title": "un-ete-a-paris", "date": "1988-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

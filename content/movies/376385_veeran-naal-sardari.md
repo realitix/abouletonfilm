@@ -1,0 +1,1 @@
+{"tmdb_id": 376385, "title": "Veeran Naal Sardari", "original_title": "Veeran Naal Sardari", "slug_title": "veeran-naal-sardari", "date": "2014-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaspinder Cheema ()", "Rai Jujhar ()", "Sukhbir Razia ()"], "comments": [], "recommandations_id": []}

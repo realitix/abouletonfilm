@@ -1,0 +1,1 @@
+{"tmdb_id": 453793, "title": "The Swimming Class", "original_title": "The Swimming Class", "slug_title": "the-swimming-class", "date": "1904-04-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

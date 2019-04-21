@@ -1,0 +1,1 @@
+{"tmdb_id": 493163, "title": "Vita Lakamaya", "original_title": "Vita Lakamaya", "slug_title": "vita-lakamaya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Akihito Izuhara (Director)"], "comments": [], "recommandations_id": []}

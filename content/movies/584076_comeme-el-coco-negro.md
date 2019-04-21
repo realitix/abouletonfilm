@@ -1,0 +1,1 @@
+{"tmdb_id": 584076, "title": "C\u00f3meme el coco, negro", "original_title": "C\u00f3meme el coco, negro", "slug_title": "comeme-el-coco-negro", "date": "1990-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6HLOCC4AfoJ1L5xDS5rXguz7wk3.jpg", "actors": [], "comments": [], "recommandations_id": []}

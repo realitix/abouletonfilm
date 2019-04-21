@@ -1,0 +1,1 @@
+{"tmdb_id": 499049, "title": "Swaroopa", "original_title": "Swaroopa", "slug_title": "swaroopa", "date": "2014-12-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXbOwb1L2w33uK2a1A5RdWBiOhY.jpg", "actors": [], "comments": [], "recommandations_id": []}

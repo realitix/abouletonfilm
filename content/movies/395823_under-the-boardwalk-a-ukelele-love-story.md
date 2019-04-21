@@ -1,0 +1,1 @@
+{"tmdb_id": 395823, "title": "Under the Boardwalk: A Ukelele Love Story", "original_title": "Under the Boardwalk: A Ukelele Love Story", "slug_title": "under-the-boardwalk-a-ukelele-love-story", "date": "2011-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

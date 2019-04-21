@@ -1,0 +1,1 @@
+{"tmdb_id": 275796, "title": "Bishop T.D. Jakes: Follow the Star", "original_title": "Bishop T.D. Jakes: Follow the Star", "slug_title": "bishop-t-d-jakes-follow-the-star", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

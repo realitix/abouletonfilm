@@ -1,0 +1,1 @@
+{"tmdb_id": 546416, "title": "Droga wolna!", "original_title": "Droga wolna!", "slug_title": "droga-wolna", "date": "2014-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grzegorz Ruzik ()", "Tomasz Mielcarz ()", "Jaros\u0142aw Szablewski ()"], "comments": [], "recommandations_id": []}

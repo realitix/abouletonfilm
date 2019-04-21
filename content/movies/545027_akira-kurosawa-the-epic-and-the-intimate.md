@@ -1,0 +1,1 @@
+{"tmdb_id": 545027, "title": "Akira Kurosawa: The Epic and the Intimate", "original_title": "Akira Kurosawa: The Epic and the Intimate", "slug_title": "akira-kurosawa-the-epic-and-the-intimate", "date": "2010-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

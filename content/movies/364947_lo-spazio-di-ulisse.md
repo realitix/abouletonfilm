@@ -1,0 +1,1 @@
+{"tmdb_id": 364947, "title": "Lo spazio di Ulisse", "original_title": "Lo spazio di Ulisse", "slug_title": "lo-spazio-di-ulisse", "date": "2014-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

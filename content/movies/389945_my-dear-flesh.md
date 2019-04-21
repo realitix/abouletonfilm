@@ -1,0 +1,1 @@
+{"tmdb_id": 389945, "title": "My Dear Flesh", "original_title": "\u304b\u307f\u3055\u307e\u306e\u306f\u3089\u308f\u305f", "slug_title": "my-dear-flesh", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3n8lubHRKO7VLZzOMKM7mSJALpm.jpg", "actors": [], "comments": [], "recommandations_id": []}

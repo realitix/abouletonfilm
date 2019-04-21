@@ -1,0 +1,1 @@
+{"tmdb_id": 382342, "title": "Lucky Luke - Fingers", "original_title": "Lucky Luke - Fingers", "slug_title": "lucky-luke-fingers", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OqXZ9g0fwZYfq1HRuGFg0r3pGo.jpg", "actors": [], "comments": [], "recommandations_id": []}

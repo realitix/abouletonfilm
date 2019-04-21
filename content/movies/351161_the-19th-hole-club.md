@@ -1,0 +1,1 @@
+{"tmdb_id": 351161, "title": "The 19th Hole Club", "original_title": "The 19th Hole Club", "slug_title": "the-19th-hole-club", "date": "1936-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

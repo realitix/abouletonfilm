@@ -1,0 +1,1 @@
+{"tmdb_id": 293838, "title": "Polaroid Cocaine", "original_title": "Polaroid Cocaine", "slug_title": "polaroid-cocaine", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 511274, "title": "Laurence", "original_title": "Laurence", "slug_title": "laurence", "date": "2016-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k69YIPNqAOLIsy8gMLagmzMwbNH.jpg", "actors": [], "comments": [], "recommandations_id": []}

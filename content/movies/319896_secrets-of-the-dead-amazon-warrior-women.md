@@ -1,0 +1,1 @@
+{"tmdb_id": 319896, "title": "Secrets of the Dead: Amazon Warrior Women", "original_title": "Secrets of the Dead: Amazon Warrior Women", "slug_title": "secrets-of-the-dead-amazon-warrior-women", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

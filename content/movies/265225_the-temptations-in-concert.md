@@ -1,0 +1,1 @@
+{"tmdb_id": 265225, "title": "The Temptations In Concert", "original_title": "The Temptations In Concert", "slug_title": "the-temptations-in-concert", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJSGNThjTtmntG6912OWNr8yQfS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326173, "title": "Anestesia", "original_title": "Anestesia", "slug_title": "anestesia", "date": "2010-02-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["S\u00e3o Jos\u00e9 Correia (Amanda)", "Fl\u00e1via Gusm\u00e3o (Prostituta)", "Albano Jer\u00f3nimo (Tim\u00f3teo)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 99354, "title": "Prema Kavali", "original_title": "Prema Kavali", "slug_title": "prema-kavali", "date": "2011-02-25", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/koLxtx6okiBgKmjpToWDxoFC2H0.jpg", "actors": ["Aadi (hero)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 87519, "title": "Friends Forever", "original_title": "Friends Forever", "slug_title": "friends-forever", "date": "2001-01-01", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6npZM5Fnz8bC5xqyHsMNHOSIxey.jpg", "actors": [], "comments": [], "recommandations_id": []}

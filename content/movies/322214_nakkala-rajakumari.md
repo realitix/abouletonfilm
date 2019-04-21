@@ -1,0 +1,1 @@
+{"tmdb_id": 322214, "title": "Nakkala Rajakumari", "original_title": "Nakkala Rajakumari", "slug_title": "nakkala-rajakumari", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

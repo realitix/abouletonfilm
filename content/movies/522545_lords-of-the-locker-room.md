@@ -1,0 +1,1 @@
+{"tmdb_id": 522545, "title": "Lords of the Locker Room", "original_title": "Lords of the Locker Room", "slug_title": "lords-of-the-locker-room", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lw0Hjued7E8T46N5pYO8vXwFQFJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

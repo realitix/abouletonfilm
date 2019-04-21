@@ -1,0 +1,1 @@
+{"tmdb_id": 161974, "title": "Bosko's Knight-Mare", "original_title": "Bosko's Knight-Mare", "slug_title": "bosko-s-knight-mare", "date": "1933-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

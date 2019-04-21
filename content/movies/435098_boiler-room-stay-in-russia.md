@@ -1,0 +1,1 @@
+{"tmdb_id": 435098, "title": "Boiler Room | Stay in Russia", "original_title": "Boiler Room | Stay in Russia", "slug_title": "boiler-room-stay-in-russia", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

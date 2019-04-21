@@ -1,0 +1,1 @@
+{"tmdb_id": 331775, "title": "Casting Couch Confidential", "original_title": "Casting Couch Confidential", "slug_title": "casting-couch-confidential", "date": "2014-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

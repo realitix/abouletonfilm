@@ -1,0 +1,1 @@
+{"tmdb_id": 487835, "title": "C'mon Babe", "original_title": "C'mon Babe", "slug_title": "c-mon-babe", "date": "1986-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 395078, "title": "Bhadram Koduko", "original_title": "Bhadram Koduko", "slug_title": "bhadram-koduko", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Santhosh Reddy ()", "Laya ()"], "comments": [], "recommandations_id": []}

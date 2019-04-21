@@ -1,0 +1,1 @@
+{"tmdb_id": 350862, "title": "La gr\u00faa y la jirafa", "original_title": "La gr\u00faa y la jirafa", "slug_title": "la-grua-y-la-jirafa", "date": "2006-04-22", "genre": "Romance / Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

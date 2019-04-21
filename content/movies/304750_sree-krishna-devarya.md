@@ -1,0 +1,1 @@
+{"tmdb_id": 304750, "title": "Sree Krishna Devarya", "original_title": "Sree Krishna Devarya", "slug_title": "sree-krishna-devarya", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

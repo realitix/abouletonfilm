@@ -1,0 +1,1 @@
+{"tmdb_id": 305950, "title": "Janis Joplin: Get It While You Can", "original_title": "Janis Joplin: Get It While You Can", "slug_title": "janis-joplin-get-it-while-you-can", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 516302, "title": "\u00dcberraschungseier - Neues von Kuckuck und Co.", "original_title": "\u00dcberraschungseier - Neues von Kuckuck und Co.", "slug_title": "uberraschungseier-neues-von-kuckuck-und-co", "date": "2018-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

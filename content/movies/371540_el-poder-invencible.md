@@ -1,0 +1,1 @@
+{"tmdb_id": 371540, "title": "El Poder Invencible", "original_title": "El Poder Invencible", "slug_title": "el-poder-invencible", "date": "", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kD12htIMXeeq8fM2m0fRcb23LDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504457, "title": "Enduko Emo", "original_title": "Enduko Emo", "slug_title": "enduko-emo", "date": "2018-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iK7uNEAgbcsAHBpyV452WpLYQM2.jpg", "actors": ["Nandu ()", "Noel Sean ()", "Punarnavi Bhupalam ()"], "comments": [], "recommandations_id": []}

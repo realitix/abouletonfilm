@@ -1,0 +1,1 @@
+{"tmdb_id": 512960, "title": "Zerovskij - Solo per Amore", "original_title": "Zerovskij - Solo per Amore", "slug_title": "zerovskij-solo-per-amore", "date": "2018-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74QccBVYb7UNuaMuHOC11FqtF2v.jpg", "actors": ["Renato Zero ()"], "comments": [], "recommandations_id": []}

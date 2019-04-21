@@ -1,0 +1,1 @@
+{"tmdb_id": 202613, "title": "Life with Feathers", "original_title": "Life with Feathers", "slug_title": "life-with-feathers", "date": "1945-03-24", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NvGhSOMt9HJbk8CFwFPgv0hsUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274287, "title": "Amazing Fusion Concert: Ganesh & Kumaresh", "original_title": "Amazing Fusion Concert: Ganesh & Kumaresh", "slug_title": "amazing-fusion-concert-ganesh-kumaresh", "date": "2006-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

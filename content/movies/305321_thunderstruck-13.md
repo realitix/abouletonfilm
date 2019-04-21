@@ -1,0 +1,1 @@
+{"tmdb_id": 305321, "title": "Thunderstruck 13", "original_title": "Thunderstruck 13", "slug_title": "thunderstruck-13", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

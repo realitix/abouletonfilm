@@ -1,0 +1,1 @@
+{"tmdb_id": 288163, "title": "David, David", "original_title": "David, David", "slug_title": "david-david", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

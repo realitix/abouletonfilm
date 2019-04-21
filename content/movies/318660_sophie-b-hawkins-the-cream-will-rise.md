@@ -1,0 +1,1 @@
+{"tmdb_id": 318660, "title": "Sophie B. Hawkins: The Cream Will Rise", "original_title": "Sophie B. Hawkins: The Cream Will Rise", "slug_title": "sophie-b-hawkins-the-cream-will-rise", "date": "1998-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

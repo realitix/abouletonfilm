@@ -1,0 +1,1 @@
+{"tmdb_id": 307793, "title": "Badrachalam", "original_title": "Badrachalam", "slug_title": "badrachalam", "date": "2001-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

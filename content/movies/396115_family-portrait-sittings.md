@@ -1,0 +1,1 @@
+{"tmdb_id": 396115, "title": "Family Portrait Sittings", "original_title": "Family Portrait Sittings", "slug_title": "family-portrait-sittings", "date": "1975-10-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nb8YynxyBbOlw1QMyDwoMNB6QIl.jpg", "actors": [], "comments": [], "recommandations_id": []}

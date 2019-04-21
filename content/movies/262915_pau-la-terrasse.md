@@ -1,0 +1,1 @@
+{"tmdb_id": 262915, "title": "Pau : la terrasse", "original_title": "Pau : la terrasse", "slug_title": "pau-la-terrasse", "date": "1900-11-04", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

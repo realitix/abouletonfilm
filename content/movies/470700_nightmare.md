@@ -1,0 +1,1 @@
+{"tmdb_id": 470700, "title": "Nightmare", "original_title": "Mardr\u00f6m", "slug_title": "nightmare", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher Marins (Director, Writer)", "Mikael Holmstr\u00f6m (Writer)"], "comments": [], "recommandations_id": []}

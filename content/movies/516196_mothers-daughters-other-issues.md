@@ -1,0 +1,1 @@
+{"tmdb_id": 516196, "title": "Mothers, Daughters & Other Issues", "original_title": "Desmadre, fragmentos de una relacion", "slug_title": "mothers-daughters-other-issues", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 590140, "title": "Baiser d\u2019encre", "original_title": "Baiser d\u2019encre", "slug_title": "baiser-dencre", "date": "2015-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

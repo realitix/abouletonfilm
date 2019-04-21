@@ -1,0 +1,1 @@
+{"tmdb_id": 115999, "title": "National Geographic: Gang War USA", "original_title": "National Geographic: Gang War USA", "slug_title": "national-geographic-gang-war-usa", "date": "2011-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

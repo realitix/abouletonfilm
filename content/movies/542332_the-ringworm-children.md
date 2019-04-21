@@ -1,0 +1,1 @@
+{"tmdb_id": 542332, "title": "The Ringworm Children", "original_title": "The Ringworm Children", "slug_title": "the-ringworm-children", "date": "2003-01-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

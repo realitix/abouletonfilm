@@ -1,0 +1,1 @@
+{"tmdb_id": 573414, "title": "So, You Like This Girl", "original_title": "So, You Like This Girl", "slug_title": "so-you-like-this-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Lennon (Mikey)", "Joe Lo Truglio (Eddie)"], "comments": [], "recommandations_id": []}

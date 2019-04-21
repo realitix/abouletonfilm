@@ -1,0 +1,1 @@
+{"tmdb_id": 383630, "title": "Thy Father's Chair", "original_title": "Thy Father's Chair", "slug_title": "thy-father-s-chair", "date": "2016-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Y9A3ZGYgJuM8Uon7tWGpun3mg2.jpg", "actors": [], "comments": [], "recommandations_id": []}

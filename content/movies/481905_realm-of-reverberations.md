@@ -1,0 +1,1 @@
+{"tmdb_id": 481905, "title": "Realm of Reverberations", "original_title": "Can xiang shi jie", "slug_title": "realm-of-reverberations", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chou Fu-tzu ()", "Li Tien-pei ()", "Chen Tsai-tien ()", "Lan Tsai-yun ()"], "comments": [], "recommandations_id": []}

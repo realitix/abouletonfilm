@@ -1,0 +1,1 @@
+{"tmdb_id": 44984, "title": "Sasquatch: Legend Meets Science", "original_title": "Sasquatch: Legend Meets Science", "slug_title": "sasquatch-legend-meets-science", "date": "2003-01-09", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stacy Keach (Narrator)", "Jeffrey Meldrum (himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 537597, "title": "Huevo frito", "original_title": "Huevo frito", "slug_title": "huevo-frito", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v27sy3jSvOFsymIsMNAyQpm1uaD.jpg", "actors": ["Efra\u00edn Rosas (Un hombre)", "Julio Flores (Pollo)"], "comments": [], "recommandations_id": []}

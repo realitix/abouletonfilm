@@ -1,0 +1,1 @@
+{"tmdb_id": 471289, "title": "AIDA - OPERA DIFERIDO", "original_title": "AIDA - OPERA DIFERIDO", "slug_title": "aida-opera-diferido", "date": "2018-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Bil9TlE7KqKRJRXadNDfTMdEcR.jpg", "actors": [], "comments": [], "recommandations_id": []}

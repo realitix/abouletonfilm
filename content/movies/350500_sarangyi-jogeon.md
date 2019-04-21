@@ -1,0 +1,1 @@
+{"tmdb_id": 350500, "title": "\uc0ac\ub791\uc758 \uc870\uac74", "original_title": "\uc0ac\ub791\uc758 \uc870\uac74", "slug_title": "sarangyi-jogeon", "date": "1979-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549224, "title": "About a Lumberjack and the Devils", "original_title": "O drwalu i diable", "slug_title": "about-a-lumberjack-and-the-devils", "date": "2015-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HkJQLWqogdNNKBqfSXMk0rZ9Or.jpg", "actors": [], "comments": [], "recommandations_id": []}

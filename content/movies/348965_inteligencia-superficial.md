@@ -1,0 +1,1 @@
+{"tmdb_id": 348965, "title": "Inteligencia superficial", "original_title": "Inteligencia superficial", "slug_title": "inteligencia-superficial", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

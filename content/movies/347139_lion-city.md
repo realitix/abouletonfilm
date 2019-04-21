@@ -1,0 +1,1 @@
+{"tmdb_id": 347139, "title": "Lion City", "original_title": "Lion City", "slug_title": "lion-city", "date": "1960-12-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Orchid Wong (Fan En)", "Pan En (Wu Zi)"], "comments": [], "recommandations_id": []}

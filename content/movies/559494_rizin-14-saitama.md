@@ -1,0 +1,1 @@
+{"tmdb_id": 559494, "title": "Rizin 14 - Saitama", "original_title": "Rizin 14 - Saitama", "slug_title": "rizin-14-saitama", "date": "2018-12-31", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EUI5UiTEQe7u9JtV7NIEKQqXZp.jpg", "actors": [], "comments": [], "recommandations_id": []}

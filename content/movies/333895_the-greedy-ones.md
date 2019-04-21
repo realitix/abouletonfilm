@@ -1,0 +1,1 @@
+{"tmdb_id": 333895, "title": "The Greedy Ones", "original_title": "Al-tahaleb", "slug_title": "the-greedy-ones", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adnan Barakat ()", "Samir Hakim ()", "Mouna Wasef ()"], "comments": [], "recommandations_id": []}

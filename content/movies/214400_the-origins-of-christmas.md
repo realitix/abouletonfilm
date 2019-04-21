@@ -1,0 +1,1 @@
+{"tmdb_id": 214400, "title": "The Origins of Christmas", "original_title": "The Origins of Christmas", "slug_title": "the-origins-of-christmas", "date": "1999-08-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwsEaJeEg6cj6T53Sjk0G3xeGfb.jpg", "actors": [], "comments": [], "recommandations_id": []}

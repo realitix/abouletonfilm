@@ -1,0 +1,1 @@
+{"tmdb_id": 420957, "title": "Playing the Pied Piper", "original_title": "Playing the Pied Piper", "slug_title": "playing-the-pied-piper", "date": "1941-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Cat / Mouse (voice))"], "comments": [], "recommandations_id": []}

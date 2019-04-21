@@ -1,0 +1,1 @@
+{"tmdb_id": 292506, "title": "Shock: My Abstraction of Death", "original_title": "Shock: My Abstraction of Death", "slug_title": "shock-my-abstraction-of-death", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

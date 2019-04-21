@@ -1,0 +1,1 @@
+{"tmdb_id": 349595, "title": "\ub2f9\uc2e0\uc740 \ub098\uc05c \uc0ac\ub78c", "original_title": "\ub2f9\uc2e0\uc740 \ub098\uc05c \uc0ac\ub78c", "slug_title": "dangsineun-nabbeun-saram", "date": "1983-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

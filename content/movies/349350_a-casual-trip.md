@@ -1,0 +1,1 @@
+{"tmdb_id": 349350, "title": "A Casual Trip", "original_title": "\uc6b0\uc5f0\ud55c \uc5ec\ud589", "slug_title": "a-casual-trip", "date": "1994-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

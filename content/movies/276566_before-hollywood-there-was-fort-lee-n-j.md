@@ -1,0 +1,1 @@
+{"tmdb_id": 276566, "title": "Before Hollywood There Was Fort Lee, N. J.", "original_title": "Before Hollywood There Was Fort Lee, N. J.", "slug_title": "before-hollywood-there-was-fort-lee-n-j", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

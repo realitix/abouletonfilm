@@ -1,0 +1,1 @@
+{"tmdb_id": 515846, "title": "Arena Squatted", "original_title": "Arena besetzt", "slug_title": "arena-squatted", "date": "1977-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Awfmy8JOkZAM9ylHEalyx2SaVA.jpg", "actors": [], "comments": [], "recommandations_id": []}

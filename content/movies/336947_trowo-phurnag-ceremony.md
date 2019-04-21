@@ -1,0 +1,1 @@
+{"tmdb_id": 336947, "title": "Trowo Phurnag Ceremony", "original_title": "Trowo Phurnag Ceremony", "slug_title": "trowo-phurnag-ceremony", "date": "2008-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltManOwb5A6Zs2WetDq8n3u2Dvk.jpg", "actors": [], "comments": [], "recommandations_id": []}

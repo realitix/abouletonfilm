@@ -1,0 +1,1 @@
+{"tmdb_id": 119014, "title": "S\u00e5 G\u00f6r Vi i G\u00f6teborg", "original_title": "S\u00e5 G\u00f6r Vi i G\u00f6teborg", "slug_title": "sa-gor-vi-i-goteborg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 157564, "title": "Bali, the Island Paradise", "original_title": "Bali, the Island Paradise", "slug_title": "bali-the-island-paradise", "date": "1932-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvzsJbNAnTzoPEvXOLnY1ydMqn4.jpg", "actors": [], "comments": [], "recommandations_id": []}

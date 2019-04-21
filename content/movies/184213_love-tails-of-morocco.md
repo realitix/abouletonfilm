@@ -1,0 +1,1 @@
+{"tmdb_id": 184213, "title": "Love-Tails of Morocco", "original_title": "Love-Tails of Morocco", "slug_title": "love-tails-of-morocco", "date": "1931-09-05", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zion Myers (Various (voice))", "Jules White (Various (voice))"], "comments": [], "recommandations_id": []}

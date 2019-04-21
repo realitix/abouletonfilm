@@ -1,0 +1,1 @@
+{"tmdb_id": 593191, "title": "A Journey of 35", "original_title": "A Journey of 35", "slug_title": "a-journey-of-35", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

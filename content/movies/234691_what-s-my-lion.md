@@ -1,0 +1,1 @@
+{"tmdb_id": 234691, "title": "What's My Lion?", "original_title": "What's My Lion?", "slug_title": "what-s-my-lion", "date": "1961-10-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8x9yEOOBYnucZzT7aJJw17ejSnd.jpg", "actors": [], "comments": [], "recommandations_id": [234697]}

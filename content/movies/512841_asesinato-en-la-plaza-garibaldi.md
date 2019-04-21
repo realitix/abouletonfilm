@@ -1,0 +1,1 @@
+{"tmdb_id": 512841, "title": "Asesinato en la plaza Garibaldi", "original_title": "Asesinato en la plaza Garibaldi", "slug_title": "asesinato-en-la-plaza-garibaldi", "date": "1987-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

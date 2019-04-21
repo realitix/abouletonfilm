@@ -1,0 +1,1 @@
+{"tmdb_id": 316693, "title": "Artie Shaw's Class in Swing", "original_title": "Artie Shaw's Class in Swing", "slug_title": "artie-shaw-s-class-in-swing", "date": "1939-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Artie Shaw ()", "Helen Forrest ()", "Buddy Rich (himself)"], "comments": [], "recommandations_id": []}

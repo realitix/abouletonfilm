@@ -1,0 +1,1 @@
+{"tmdb_id": 274352, "title": "A Passion for Sustainability", "original_title": "A Passion for Sustainability", "slug_title": "a-passion-for-sustainability", "date": "2008-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

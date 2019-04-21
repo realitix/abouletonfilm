@@ -1,0 +1,1 @@
+{"tmdb_id": 281026, "title": "Sami Potta Mudichu", "original_title": "Sami Potta Mudichu", "slug_title": "sami-potta-mudichu", "date": "1991-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Murali ()", "Sindhu ()", "R. Sundarrajan ()", "Disco Shanti ()", "Thalapathi Dinesh ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 44816, "title": "RackGaki: Japanese Graffiti", "original_title": "RackGaki: Japanese Graffiti", "slug_title": "rackgaki-japanese-graffiti", "date": "2007-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

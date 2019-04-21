@@ -1,0 +1,1 @@
+{"tmdb_id": 522802, "title": "Rokia Traore - Live in Paris, La Cigale", "original_title": "Rokia Traore - Live in Paris, La Cigale", "slug_title": "rokia-traore-live-in-paris-la-cigale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rokia Traor\u00e9 ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 448552, "title": "Descendentes: O Destino dos Irm\u00e3os", "original_title": "Descendentes: O Destino dos Irm\u00e3os", "slug_title": "descendentes-o-destino-dos-irmaos", "date": "2017-03-25", "genre": "Aventure / Com\u00e9die / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

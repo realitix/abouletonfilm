@@ -1,0 +1,1 @@
+{"tmdb_id": 475241, "title": "Dave Smith Libertas", "original_title": "Dave Smith Libertas", "slug_title": "dave-smith-libertas", "date": "2017-09-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8bJvxcoHgAD0ehIdBnQ9jyRZYbG.jpg", "actors": [], "comments": [], "recommandations_id": []}

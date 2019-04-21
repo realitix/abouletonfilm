@@ -1,0 +1,1 @@
+{"tmdb_id": 323145, "title": "Classic Fables - Black Beauty", "original_title": "Classic Fables - Black Beauty", "slug_title": "classic-fables-black-beauty", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2lVys8BCGsnY8a2Z22g2F65U5g.jpg", "actors": [], "comments": [], "recommandations_id": []}

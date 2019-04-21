@@ -1,0 +1,1 @@
+{"tmdb_id": 79295, "title": "How to Be a SexStar", "original_title": "How to Be a SexStar", "slug_title": "how-to-be-a-sexstar", "date": "2010-05-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mL7Uf7I6j5wW9zWEr62CcOFcMjS.jpg", "actors": ["Nathan Hill (SexStar)"], "comments": [], "recommandations_id": []}

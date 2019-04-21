@@ -1,0 +1,1 @@
+{"tmdb_id": 196766, "title": "The Hardy Boys: From Dixon to Disney", "original_title": "The Hardy Boys: From Dixon to Disney", "slug_title": "the-hardy-boys-from-dixon-to-disney", "date": "2006-12-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

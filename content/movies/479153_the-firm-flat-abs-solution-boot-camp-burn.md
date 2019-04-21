@@ -1,0 +1,1 @@
+{"tmdb_id": 479153, "title": "The FIRM: Flat Abs Solution - Boot Camp Burn", "original_title": "The FIRM: Flat Abs Solution - Boot Camp Burn", "slug_title": "the-firm-flat-abs-solution-boot-camp-burn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

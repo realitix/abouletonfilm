@@ -1,0 +1,1 @@
+{"tmdb_id": 406329, "title": "Counter Plot", "original_title": "Counter Plot", "slug_title": "counter-plot", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Darryl Read (Abu)", "Ria Mills (Selima)"], "comments": [], "recommandations_id": []}

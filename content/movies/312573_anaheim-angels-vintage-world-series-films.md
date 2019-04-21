@@ -1,0 +1,1 @@
+{"tmdb_id": 312573, "title": "Anaheim Angels Vintage World Series Films", "original_title": "Anaheim Angels Vintage World Series Films", "slug_title": "anaheim-angels-vintage-world-series-films", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

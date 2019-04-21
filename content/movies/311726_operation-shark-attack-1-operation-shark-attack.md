@@ -1,0 +1,1 @@
+{"tmdb_id": 311726, "title": "Operation Shark Attack #1: Operation Shark Attack", "original_title": "Operation Shark Attack #1: Operation Shark Attack", "slug_title": "operation-shark-attack-1-operation-shark-attack", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

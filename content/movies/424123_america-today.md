@@ -1,0 +1,1 @@
+{"tmdb_id": 424123, "title": "America Today", "original_title": "America Today", "slug_title": "america-today", "date": "1934-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522002, "title": "Being Camelia", "original_title": "Being Camelia", "slug_title": "being-camelia", "date": "1994-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

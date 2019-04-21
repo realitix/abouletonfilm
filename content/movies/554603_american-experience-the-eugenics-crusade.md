@@ -1,0 +1,1 @@
+{"tmdb_id": 554603, "title": "American Experience: The Eugenics Crusade", "original_title": "American Experience: The Eugenics Crusade", "slug_title": "american-experience-the-eugenics-crusade", "date": "2018-10-16", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

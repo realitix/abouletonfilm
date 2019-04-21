@@ -1,0 +1,1 @@
+{"tmdb_id": 175298, "title": "De-Light: Making an Electric Light Bulb", "original_title": "De-Light: Making an Electric Light Bulb", "slug_title": "de-light-making-an-electric-light-bulb", "date": "1920-02-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303662, "title": "Stomatol (Tyngdlyftaren)", "original_title": "Stomatol (Tyngdlyftaren)", "slug_title": "stomatol-tyngdlyftaren", "date": "1926-11-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

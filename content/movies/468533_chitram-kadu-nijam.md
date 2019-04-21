@@ -1,0 +1,1 @@
+{"tmdb_id": 468533, "title": "Chitram Kadu Nijam", "original_title": "Chitram Kadu Nijam", "slug_title": "chitram-kadu-nijam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

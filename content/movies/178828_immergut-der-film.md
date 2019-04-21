@@ -1,0 +1,1 @@
+{"tmdb_id": 178828, "title": "Immergut - Der Film", "original_title": "Immergut - Der Film", "slug_title": "immergut-der-film", "date": "2010-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zYmaoQzVzlUe0Kd5J8r68nrQlC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504460, "title": "La Pirouette", "original_title": "La Pirouette", "slug_title": "la-pirouette", "date": "2002-02-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oGq2q3nQkceiH2JYVjv19dCMwp2.jpg", "actors": [], "comments": [], "recommandations_id": []}

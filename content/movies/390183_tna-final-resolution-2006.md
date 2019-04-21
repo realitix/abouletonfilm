@@ -1,0 +1,1 @@
+{"tmdb_id": 390183, "title": "TNA Final Resolution 2006", "original_title": "TNA Final Resolution 2006", "slug_title": "tna-final-resolution-2006", "date": "2006-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r6Zl1ie7AiyLU0mR9wpb3Xu8ivU.jpg", "actors": [], "comments": [], "recommandations_id": []}

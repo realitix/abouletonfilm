@@ -1,0 +1,1 @@
+{"tmdb_id": 188225, "title": "Chimeras", "original_title": "Chimeras", "slug_title": "chimeras", "date": "2013-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

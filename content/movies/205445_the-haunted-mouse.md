@@ -1,0 +1,1 @@
+{"tmdb_id": 205445, "title": "The Haunted Mouse", "original_title": "The Haunted Mouse", "slug_title": "the-haunted-mouse", "date": "1941-02-14", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tIvNCZy4g2AYYjB59L8mtRTlvbH.jpg", "actors": [], "comments": [], "recommandations_id": []}

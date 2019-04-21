@@ -1,0 +1,1 @@
+{"tmdb_id": 352767, "title": "Destination Barbados", "original_title": "Destination Barbados", "slug_title": "destination-barbados", "date": "1994-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

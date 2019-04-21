@@ -1,0 +1,1 @@
+{"tmdb_id": 585670, "title": "Lietuviski svingeriai", "original_title": "Lietuviski svingeriai", "slug_title": "lietuviski-svingeriai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIOt0LR3TkYg5RGVEeLVYyHuy8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

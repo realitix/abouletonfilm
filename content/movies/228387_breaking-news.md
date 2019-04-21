@@ -1,0 +1,1 @@
+{"tmdb_id": 228387, "title": "Breaking News", "original_title": "Breaking News", "slug_title": "breaking-news", "date": "1998-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 355667, "title": "She Beast In Hell", "original_title": "She Beast In Hell", "slug_title": "she-beast-in-hell", "date": "1986-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jlDKRMN95BCJdTmpX0zzd1emMCr.jpg", "actors": [], "comments": [], "recommandations_id": []}

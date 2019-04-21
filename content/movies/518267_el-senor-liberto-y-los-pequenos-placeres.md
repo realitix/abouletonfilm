@@ -1,0 +1,1 @@
+{"tmdb_id": 518267, "title": "El se\u00f1or Liberto y los peque\u00f1os placeres", "original_title": "El se\u00f1or Liberto y los peque\u00f1os placeres", "slug_title": "el-senor-liberto-y-los-pequenos-placeres", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

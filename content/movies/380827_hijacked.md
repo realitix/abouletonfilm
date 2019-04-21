@@ -1,0 +1,1 @@
+{"tmdb_id": 380827, "title": "Hijacked", "original_title": "Hijacked", "slug_title": "hijacked", "date": "2014-06-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

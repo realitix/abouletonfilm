@@ -1,0 +1,1 @@
+{"tmdb_id": 497068, "title": "Zumanji", "original_title": "Zumanji", "slug_title": "zumanji", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

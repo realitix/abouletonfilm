@@ -1,0 +1,1 @@
+{"tmdb_id": 543973, "title": "Better Times", "original_title": "Better Times", "slug_title": "better-times", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

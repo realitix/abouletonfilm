@@ -1,0 +1,1 @@
+{"tmdb_id": 576548, "title": "Ginger Snaps", "original_title": "Ginger Snaps", "slug_title": "ginger-snaps", "date": "1929-03-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Malcolm Sebastian ()", "Leon Holmes ()"], "comments": [], "recommandations_id": []}

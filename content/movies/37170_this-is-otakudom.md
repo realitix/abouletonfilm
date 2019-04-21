@@ -1,0 +1,1 @@
+{"tmdb_id": 37170, "title": "This Is Otakudom", "original_title": "This Is Otakudom", "slug_title": "this-is-otakudom", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v622DaGfvE8OKzMyq3S55pwfZgv.jpg", "actors": [], "comments": [], "recommandations_id": []}

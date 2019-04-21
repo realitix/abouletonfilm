@@ -1,0 +1,1 @@
+{"tmdb_id": 322694, "title": "Funny Kinda Guy", "original_title": "Funny Kinda Guy", "slug_title": "funny-kinda-guy", "date": "2005-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

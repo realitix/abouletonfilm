@@ -1,0 +1,1 @@
+{"tmdb_id": 253879, "title": "Barney: Perfectly Purple", "original_title": "Barney: Perfectly Purple", "slug_title": "barney-perfectly-purple", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

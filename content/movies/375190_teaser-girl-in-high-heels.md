@@ -1,0 +1,1 @@
+{"tmdb_id": 375190, "title": "Teaser Girl in High Heels", "original_title": "Teaser Girl in High Heels", "slug_title": "teaser-girl-in-high-heels", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bettie Page (Herself)"], "comments": [], "recommandations_id": []}

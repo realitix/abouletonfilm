@@ -1,0 +1,1 @@
+{"tmdb_id": 111706, "title": "Biebermania!", "original_title": "Biebermania!", "slug_title": "biebermania", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wo8SvDJO3t4CcWD5due81SlhzrQ.jpg", "actors": [], "comments": [], "recommandations_id": [76778, 229296]}

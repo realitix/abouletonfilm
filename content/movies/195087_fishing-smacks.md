@@ -1,0 +1,1 @@
+{"tmdb_id": 195087, "title": "Fishing Smacks", "original_title": "Fishing Smacks", "slug_title": "fishing-smacks", "date": "1897-10-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

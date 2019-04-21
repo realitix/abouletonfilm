@@ -1,0 +1,1 @@
+{"tmdb_id": 537661, "title": "Promise in the Shadows", "original_title": "\u9b3c\u5e73\u5916\u4f1d \u8001\u76d7\u6d41\u8ee2", "slug_title": "promise-in-the-shadows", "date": "2013-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

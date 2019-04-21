@@ -1,0 +1,1 @@
+{"tmdb_id": 570126, "title": "La Bretagne", "original_title": "La Bretagne", "slug_title": "la-bretagne", "date": "1936-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leandre Vaillat (Narrator)"], "comments": [], "recommandations_id": []}

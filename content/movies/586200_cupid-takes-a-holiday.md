@@ -1,0 +1,1 @@
+{"tmdb_id": 586200, "title": "Cupid Takes a Holiday", "original_title": "Cupid Takes a Holiday", "slug_title": "cupid-takes-a-holiday", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny Kaye (Nikolai Nikolaevich)"], "comments": [], "recommandations_id": []}

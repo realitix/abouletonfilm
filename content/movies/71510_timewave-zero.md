@@ -1,0 +1,1 @@
+{"tmdb_id": 71510, "title": "TimeWave Zero", "original_title": "TimeWave Zero", "slug_title": "timewave-zero", "date": "1994-01-01", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArhT5KtUhDvro0IOe23g91dZz6p.jpg", "actors": ["Terence McKenna (Himself)"], "comments": [], "recommandations_id": []}

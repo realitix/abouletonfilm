@@ -1,0 +1,1 @@
+{"tmdb_id": 509223, "title": "Standing Eight", "original_title": "Standing Eight", "slug_title": "standing-eight", "date": "2016-07-01", "genre": "Drame", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/72fOKUifQZYbM1UvTZ4h97exLoe.jpg", "actors": ["Kazy Tauginas (Dusty Abrams)"], "comments": [], "recommandations_id": []}

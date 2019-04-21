@@ -1,0 +1,1 @@
+{"tmdb_id": 287412, "title": "A Day in the Life of a Professional Wrestler", "original_title": "A Day in the Life of a Professional Wrestler", "slug_title": "a-day-in-the-life-of-a-professional-wrestler", "date": "2010-07-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

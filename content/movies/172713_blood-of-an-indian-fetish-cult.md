@@ -1,0 +1,1 @@
+{"tmdb_id": 172713, "title": "Blood of an Indian Fetish Cult", "original_title": "Blood of an Indian Fetish Cult", "slug_title": "blood-of-an-indian-fetish-cult", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

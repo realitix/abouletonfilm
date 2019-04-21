@@ -1,0 +1,1 @@
+{"tmdb_id": 520694, "title": "Edit The Kid from Arizona", "original_title": "Edit The Kid from Arizona", "slug_title": "edit-the-kid-from-arizona", "date": "1931-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

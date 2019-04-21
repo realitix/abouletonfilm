@@ -1,0 +1,1 @@
+{"tmdb_id": 469558, "title": "Cyborgs Amongst Us", "original_title": "C\u00edborgs Entre Nosaltres", "slug_title": "cyborgs-amongst-us", "date": "2017-06-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/45oaAwef5FBio9c9ylisRzm88Be.jpg", "actors": [], "comments": [], "recommandations_id": []}

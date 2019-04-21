@@ -1,0 +1,1 @@
+{"tmdb_id": 288279, "title": "Die Erbschaft", "original_title": "Die Erbschaft", "slug_title": "die-erbschaft", "date": "1936-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Valentin (Karl Meier)", "Liesl Karlstadt (Frau Meier)"], "comments": [], "recommandations_id": []}

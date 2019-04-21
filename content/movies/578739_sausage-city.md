@@ -1,0 +1,1 @@
+{"tmdb_id": 578739, "title": "Sausage City", "original_title": "Sausage City", "slug_title": "sausage-city", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

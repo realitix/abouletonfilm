@@ -1,0 +1,1 @@
+{"tmdb_id": 80882, "title": "Cult of Luna - Fire Was Born", "original_title": "Cult of Luna - Fire Was Born", "slug_title": "cult-of-luna-fire-was-born", "date": "2009-04-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/T90KbUVrwUPrK0zgFLwKygiGzJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

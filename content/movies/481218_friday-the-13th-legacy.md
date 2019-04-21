@@ -1,0 +1,1 @@
+{"tmdb_id": 481218, "title": "Friday the 13th: Legacy", "original_title": "Friday the 13th: Legacy", "slug_title": "friday-the-13th-legacy", "date": "2017-10-13", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19IrvOnyK0pcIcE662nu0WMPA7Z.jpg", "actors": ["Mark Justice ()"], "comments": [], "recommandations_id": []}

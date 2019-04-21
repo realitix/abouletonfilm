@@ -1,0 +1,1 @@
+{"tmdb_id": 292301, "title": "Pat Benatar and Neil Giraldo: Live", "original_title": "Pat Benatar and Neil Giraldo: Live", "slug_title": "pat-benatar-and-neil-giraldo-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

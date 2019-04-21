@@ -1,0 +1,1 @@
+{"tmdb_id": 526171, "title": "Life in the Doghouse", "original_title": "Life in the Doghouse", "slug_title": "life-in-the-doghouse", "date": "2018-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1xYWIV2DqJEzWjqNF4ihE7HNmcN.jpg", "actors": [], "comments": [], "recommandations_id": []}

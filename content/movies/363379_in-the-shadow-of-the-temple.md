@@ -1,0 +1,1 @@
+{"tmdb_id": 363379, "title": "In the Shadow of the Temple", "original_title": "In the Shadow of the Temple", "slug_title": "in-the-shadow-of-the-temple", "date": "", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dennis Lavery ((voice) narrator)"], "comments": [], "recommandations_id": []}

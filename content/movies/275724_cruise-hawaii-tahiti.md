@@ -1,0 +1,1 @@
+{"tmdb_id": 275724, "title": "Cruise Hawaii & Tahiti", "original_title": "Cruise Hawaii & Tahiti", "slug_title": "cruise-hawaii-tahiti", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

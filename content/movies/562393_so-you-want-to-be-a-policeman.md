@@ -1,0 +1,1 @@
+{"tmdb_id": 562393, "title": "So You Want to Be a Policeman", "original_title": "So You Want to Be a Policeman", "slug_title": "so-you-want-to-be-a-policeman", "date": "1955-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

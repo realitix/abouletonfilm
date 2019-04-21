@@ -1,0 +1,1 @@
+{"tmdb_id": 147180, "title": "Loserville", "original_title": "Loserville", "slug_title": "loserville", "date": "2012-03-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vm1rb8FwQOsm435wvNhASCsKota.jpg", "actors": [], "comments": [], "recommandations_id": []}

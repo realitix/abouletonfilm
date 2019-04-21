@@ -1,0 +1,1 @@
+{"tmdb_id": 487271, "title": "Heatstroke", "original_title": "Heatstroke", "slug_title": "heatstroke", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQbhs4UuFhSJKySoW17uV7xyJDK.jpg", "actors": ["Richard Locke ()", "Casey Donovan ()", "Roy Garrett ()"], "comments": [], "recommandations_id": []}

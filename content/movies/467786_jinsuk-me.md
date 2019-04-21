@@ -1,0 +1,1 @@
+{"tmdb_id": 467786, "title": "Jinsuk & Me", "original_title": "\uae54\uae54\uae54 \ud76c\ub9dd\ubc84\uc2a4", "slug_title": "jinsuk-me", "date": "2012-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AbIzfP5bbW2ln6rWgbN6eEaPTG.jpg", "actors": [], "comments": [], "recommandations_id": []}

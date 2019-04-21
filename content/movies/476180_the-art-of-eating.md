@@ -1,0 +1,1 @@
+{"tmdb_id": 476180, "title": "The Art of Eating", "original_title": "The Art of Eating", "slug_title": "the-art-of-eating", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

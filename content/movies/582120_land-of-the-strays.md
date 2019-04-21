@@ -1,0 +1,1 @@
+{"tmdb_id": 582120, "title": "Land of the Strays", "original_title": "Land of the Strays", "slug_title": "land-of-the-strays", "date": "2018-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

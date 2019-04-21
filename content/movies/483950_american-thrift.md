@@ -1,0 +1,1 @@
+{"tmdb_id": 483950, "title": "American Thrift", "original_title": "American Thrift", "slug_title": "american-thrift", "date": "1962-01-01", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vS17FYWee0KSObAHk5Hp777RekP.jpg", "actors": [], "comments": [], "recommandations_id": []}

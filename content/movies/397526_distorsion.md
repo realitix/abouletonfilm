@@ -1,0 +1,1 @@
+{"tmdb_id": 397526, "title": "Distorsi\u00f3n", "original_title": "Distorsi\u00f3n", "slug_title": "distorsion", "date": "2015-10-20", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dMBOxix00MoDxQRl7LIpmEpb2Bs.jpg", "actors": ["Kiara Zayas ()", "Jos\u00e9 V\u00e9lez ()"], "comments": [], "recommandations_id": []}

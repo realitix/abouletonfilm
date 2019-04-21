@@ -1,0 +1,1 @@
+{"tmdb_id": 557895, "title": "Awara Abdulla", "original_title": "Awara Abdulla", "slug_title": "awara-abdulla", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dara Singh ()"], "comments": [], "recommandations_id": []}

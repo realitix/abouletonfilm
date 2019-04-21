@@ -1,0 +1,1 @@
+{"tmdb_id": 478337, "title": "Cun\u00e9gonde femme coch\u00e9re", "original_title": "Cun\u00e9gonde femme coch\u00e9re", "slug_title": "cunegonde-femme-cochere", "date": "1913-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

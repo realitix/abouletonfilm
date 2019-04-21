@@ -1,0 +1,1 @@
+{"tmdb_id": 542401, "title": "A Juvenile Scientist", "original_title": "A Juvenile Scientist", "slug_title": "a-juvenile-scientist", "date": "1907-10-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

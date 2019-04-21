@@ -1,0 +1,1 @@
+{"tmdb_id": 349841, "title": "\uc18c\ub9bc\uc0ac \uc655\uc11c\ubc29", "original_title": "\uc18c\ub9bc\uc0ac \uc655\uc11c\ubc29", "slug_title": "sorimsa-wangseobang", "date": "1982-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

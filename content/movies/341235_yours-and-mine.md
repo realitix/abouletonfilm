@@ -1,0 +1,1 @@
+{"tmdb_id": 341235, "title": "Yours and Mine", "original_title": "Wo de shen jing bing", "slug_title": "yours-and-mine", "date": "1997-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vIU5Bk3ExFRxwZyv9s04q5XtY2A.jpg", "actors": [], "comments": [], "recommandations_id": []}

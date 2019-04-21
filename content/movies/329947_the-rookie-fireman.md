@@ -1,0 +1,1 @@
+{"tmdb_id": 329947, "title": "The Rookie Fireman", "original_title": "The Rookie Fireman", "slug_title": "the-rookie-fireman", "date": "1936-05-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Shirley (Narrator)"], "comments": [], "recommandations_id": []}

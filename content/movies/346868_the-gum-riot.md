@@ -1,0 +1,1 @@
+{"tmdb_id": 346868, "title": "The Gum Riot", "original_title": "The Gum Riot", "slug_title": "the-gum-riot", "date": "1920-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hank Mann ()", "Madge Kirby ()", "Vernon Dent ()"], "comments": [], "recommandations_id": []}

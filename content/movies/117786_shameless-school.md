@@ -1,0 +1,1 @@
+{"tmdb_id": 117786, "title": "Shameless School", "original_title": "\u30cf\u30ec\u30f3\u30c1\u5b66\u5712", "slug_title": "shameless-school", "date": "1970-05-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUFTWSoJ2Opvhujp1vE2jD0GB1Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

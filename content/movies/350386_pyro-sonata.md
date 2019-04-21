@@ -1,0 +1,1 @@
+{"tmdb_id": 350386, "title": "Pyro-Sonata", "original_title": "\uad11\uc5fc \uc18c\ub098\ud0c0", "slug_title": "pyro-sonata", "date": "1979-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

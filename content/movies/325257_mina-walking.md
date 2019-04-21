@@ -1,0 +1,1 @@
+{"tmdb_id": 325257, "title": "Mina Walking", "original_title": "Mina Walking", "slug_title": "mina-walking", "date": "2015-02-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cfLc8N24D453wiCzKey9bTYovM.jpg", "actors": ["Farzana Nawabi (Mina)"], "comments": [], "recommandations_id": []}

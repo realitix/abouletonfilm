@@ -1,0 +1,1 @@
+{"tmdb_id": 320937, "title": "Gu\u00e9rir notre relation au monde", "original_title": "Gu\u00e9rir notre relation au monde", "slug_title": "guerir-notre-relation-au-monde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlV8ESYJhqkUyNVNcAi4PftLm5y.jpg", "actors": [], "comments": [], "recommandations_id": []}

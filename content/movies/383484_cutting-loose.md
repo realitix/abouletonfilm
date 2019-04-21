@@ -1,0 +1,1 @@
+{"tmdb_id": 383484, "title": "Cutting Loose", "original_title": "Cutting Loose", "slug_title": "cutting-loose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

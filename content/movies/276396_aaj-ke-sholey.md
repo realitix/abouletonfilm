@@ -1,0 +1,1 @@
+{"tmdb_id": 276396, "title": "AAJ KE SHOLEY", "original_title": "AAJ KE SHOLEY", "slug_title": "aaj-ke-sholey", "date": "1985-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

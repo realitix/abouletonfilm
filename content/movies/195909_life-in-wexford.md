@@ -1,0 +1,1 @@
+{"tmdb_id": 195909, "title": "Life in Wexford", "original_title": "Life in Wexford", "slug_title": "life-in-wexford", "date": "1902-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

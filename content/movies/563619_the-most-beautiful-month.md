@@ -1,0 +1,1 @@
+{"tmdb_id": 563619, "title": "The Most Beautiful Month", "original_title": "Le mois le plus beau", "slug_title": "the-most-beautiful-month", "date": "1968-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

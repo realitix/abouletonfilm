@@ -1,0 +1,1 @@
+{"tmdb_id": 527876, "title": "Der Stein", "original_title": "Der Stein", "slug_title": "der-stein", "date": "1987-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 62250, "title": "Kunstfilm", "original_title": "Kunstfilm", "slug_title": "kunstfilm", "date": "2010-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aron R\u00f6sing (Hovedperson)", "Anton Jarlskov (Mand med ryggen til)"], "comments": [], "recommandations_id": []}

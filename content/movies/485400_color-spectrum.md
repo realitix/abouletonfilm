@@ -1,0 +1,1 @@
+{"tmdb_id": 485400, "title": "Color Spectrum", "original_title": "Espectro crom\u00e1tico", "slug_title": "color-spectrum", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTcL2Mp5WaCWq14tk7i2G2ceBn0.jpg", "actors": [], "comments": [], "recommandations_id": []}

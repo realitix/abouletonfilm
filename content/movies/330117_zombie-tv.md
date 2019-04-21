@@ -1,0 +1,1 @@
+{"tmdb_id": 330117, "title": "Zombie TV", "original_title": "Zombie TV", "slug_title": "zombie-tv", "date": "2013-12-18", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPsZX1PhaVDOsVJZZsYkZTXxGLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

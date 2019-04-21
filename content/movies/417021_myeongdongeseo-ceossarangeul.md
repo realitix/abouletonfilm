@@ -1,0 +1,1 @@
+{"tmdb_id": 417021, "title": "\uba85\ub3d9\uc5d0\uc11c \uccab\uc0ac\ub791\uc744", "original_title": "\uba85\ub3d9\uc5d0\uc11c \uccab\uc0ac\ub791\uc744", "slug_title": "myeongdongeseo-ceossarangeul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

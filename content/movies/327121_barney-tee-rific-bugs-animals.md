@@ -1,0 +1,1 @@
+{"tmdb_id": 327121, "title": "Barney: Tee-rific Bugs & Animals", "original_title": "Barney: Tee-rific Bugs & Animals", "slug_title": "barney-tee-rific-bugs-animals", "date": "2015-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

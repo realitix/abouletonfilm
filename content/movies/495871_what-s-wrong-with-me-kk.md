@@ -1,0 +1,1 @@
+{"tmdb_id": 495871, "title": "What's Wrong with Me? kk", "original_title": "\ub0b4\uac00 \uc5b4\ub54c\uc137\u314e\u314e", "slug_title": "what-s-wrong-with-me-kk", "date": "2015-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nfpiQFz49RUunNIqtTezYMFsIqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

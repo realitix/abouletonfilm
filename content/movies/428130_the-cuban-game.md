@@ -1,0 +1,1 @@
+{"tmdb_id": 428130, "title": "The Cuban Game", "original_title": "El juego de Cuba", "slug_title": "the-cuban-game", "date": "2001-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEGbXswcLjDrx4ff466tVj4Cq63.jpg", "actors": ["Fidel Castro (Himself (footage))"], "comments": [], "recommandations_id": []}

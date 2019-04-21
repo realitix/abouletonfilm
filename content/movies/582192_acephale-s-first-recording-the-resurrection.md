@@ -1,0 +1,1 @@
+{"tmdb_id": 582192, "title": "Ac\u00e8phale's First Recording / The Resurrection", "original_title": "Ac\u00e8phale's First Recording / The Resurrection", "slug_title": "acephale-s-first-recording-the-resurrection", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

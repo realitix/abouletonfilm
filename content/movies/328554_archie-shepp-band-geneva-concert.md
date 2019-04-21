@@ -1,0 +1,1 @@
+{"tmdb_id": 328554, "title": "Archie Shepp Band - Geneva Concert", "original_title": "Archie Shepp Band - Geneva Concert", "slug_title": "archie-shepp-band-geneva-concert", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

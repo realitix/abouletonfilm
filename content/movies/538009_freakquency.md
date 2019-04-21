@@ -1,0 +1,1 @@
+{"tmdb_id": 538009, "title": "Freakquency", "original_title": "Freakquency", "slug_title": "freakquency", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

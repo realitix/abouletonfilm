@@ -1,0 +1,1 @@
+{"tmdb_id": 333422, "title": "Eating Razors", "original_title": "Eating Razors", "slug_title": "eating-razors", "date": "2005-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/orIvf9bxkMlG1LXljTcKnLQQa5l.jpg", "actors": [], "comments": [], "recommandations_id": []}

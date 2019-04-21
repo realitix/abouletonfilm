@@ -1,0 +1,1 @@
+{"tmdb_id": 322940, "title": "The Stolen Plans", "original_title": "The Stolen Plans", "slug_title": "the-stolen-plans", "date": "1952-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mavis Sage ()", "Lance Secretan ()", "Peter Neil ()", "Pamela Edmunds ()"], "comments": [], "recommandations_id": []}

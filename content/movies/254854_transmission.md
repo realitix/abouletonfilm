@@ -1,0 +1,1 @@
+{"tmdb_id": 254854, "title": "Transmission", "original_title": "Transmission", "slug_title": "transmission", "date": "2012-05-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uR5X99HFLqzhGpBAvpC2BP5BhvN.jpg", "actors": ["Jared D. Weiss (QuadClops (Voice) (Uncredited))"], "comments": [], "recommandations_id": []}

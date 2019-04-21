@@ -1,0 +1,1 @@
+{"tmdb_id": 347130, "title": "Ls ni\u00f1os de Charlot", "original_title": "Ls ni\u00f1os de Charlot", "slug_title": "ls-ninos-de-charlot", "date": "2004-07-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

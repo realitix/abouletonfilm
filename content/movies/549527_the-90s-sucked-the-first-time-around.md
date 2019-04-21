@@ -1,0 +1,1 @@
+{"tmdb_id": 549527, "title": "The 90s Sucked the First Time Around", "original_title": "The 90s Sucked the First Time Around", "slug_title": "the-90s-sucked-the-first-time-around", "date": "2009-06-04", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Justin Pearson (Self)"], "comments": [], "recommandations_id": []}

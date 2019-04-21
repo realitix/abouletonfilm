@@ -1,0 +1,1 @@
+{"tmdb_id": 427808, "title": "COPS: In Hot Pursuit", "original_title": "COPS: In Hot Pursuit", "slug_title": "cops-in-hot-pursuit", "date": "1996-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxjs2oZp4v0EYwohRFGbYNPm8YN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527657, "title": "Coco Mademoiselle", "original_title": "Coco Mademoiselle", "slug_title": "coco-mademoiselle", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Keira Knightley ()", "Alberto Ammann ()"], "comments": [], "recommandations_id": []}

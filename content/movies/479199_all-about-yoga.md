@@ -1,0 +1,1 @@
+{"tmdb_id": 479199, "title": "All about Yoga", "original_title": "All about Yoga", "slug_title": "all-about-yoga", "date": "2013-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDxXDBYMTJ4wd4fcuwM2Da2ilc0.jpg", "actors": [], "comments": [], "recommandations_id": []}

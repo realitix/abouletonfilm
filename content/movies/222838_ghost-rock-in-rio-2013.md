@@ -1,0 +1,1 @@
+{"tmdb_id": 222838, "title": "Ghost Rock In Rio 2013", "original_title": "Ghost Rock In Rio 2013", "slug_title": "ghost-rock-in-rio-2013", "date": "", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKESjkNen5GRJSFAAoIdXGWDKVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

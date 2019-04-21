@@ -1,0 +1,1 @@
+{"tmdb_id": 489607, "title": "Red Shirley", "original_title": "Red Shirley", "slug_title": "red-shirley", "date": "2010-04-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5rcu97GbYTA6lWsLzXNwcLJu6S.jpg", "actors": ["Shirley Novick ()", "Lou Reed ()"], "comments": [], "recommandations_id": []}

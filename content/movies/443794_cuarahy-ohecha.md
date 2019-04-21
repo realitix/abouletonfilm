@@ -1,0 +1,1 @@
+{"tmdb_id": 443794, "title": "Cuarahy Ohecha", "original_title": "Le Soleil l\u2019a vu", "slug_title": "cuarahy-ohecha", "date": "1968-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

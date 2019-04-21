@@ -1,0 +1,1 @@
+{"tmdb_id": 195534, "title": "Champs Elysees", "original_title": "Champs Elysees", "slug_title": "champs-elysees", "date": "1900-08-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

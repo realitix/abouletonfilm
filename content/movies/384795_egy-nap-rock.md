@@ -1,0 +1,1 @@
+{"tmdb_id": 384795, "title": "Egy nap rock", "original_title": "Egy nap rock", "slug_title": "egy-nap-rock", "date": "1981-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

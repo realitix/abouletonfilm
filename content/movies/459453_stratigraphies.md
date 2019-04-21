@@ -1,0 +1,1 @@
+{"tmdb_id": 459453, "title": "Stratigraphies", "original_title": "Stratigraphies", "slug_title": "stratigraphies", "date": "2015-01-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJKWVyB8nV93wRTHJdjaZ57ZW2c.jpg", "actors": [], "comments": [], "recommandations_id": []}

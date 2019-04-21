@@ -1,0 +1,1 @@
+{"tmdb_id": 453340, "title": "Vampire Bash", "original_title": "Vampire Bash", "slug_title": "vampire-bash", "date": "2011-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

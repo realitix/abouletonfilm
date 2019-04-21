@@ -1,0 +1,1 @@
+{"tmdb_id": 401144, "title": "An Angelic Attitude", "original_title": "An Angelic Attitude", "slug_title": "an-angelic-attitude", "date": "1916-08-05", "genre": "Com\u00e9die / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Mix (Tom Miller)", "Victoria Forde (Grace)", "Joe Ryan ()"], "comments": [], "recommandations_id": []}

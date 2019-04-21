@@ -1,0 +1,1 @@
+{"tmdb_id": 310677, "title": "Teletubbies: Look! Playful Patterns and Simple Shapes", "original_title": "Teletubbies: Look! Playful Patterns and Simple Shapes", "slug_title": "teletubbies-look-playful-patterns-and-simple-shapes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

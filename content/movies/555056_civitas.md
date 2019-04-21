@@ -1,0 +1,1 @@
+{"tmdb_id": 555056, "title": "Civitas", "original_title": "Civitas", "slug_title": "civitas", "date": "2018-10-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zdG5uw4PFvfqL4wtEvlcmxmPUXC.jpg", "actors": ["Sofia Pelica ()"], "comments": [], "recommandations_id": []}

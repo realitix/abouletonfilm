@@ -1,0 +1,1 @@
+{"tmdb_id": 473494, "title": "Fair And White: Parts I, II, III and Extra", "original_title": "Fair And White: Parts I, II, III and Extra", "slug_title": "fair-and-white-parts-i-ii-iii-and-extra", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

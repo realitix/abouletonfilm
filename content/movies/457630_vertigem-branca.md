@@ -1,0 +1,1 @@
+{"tmdb_id": 457630, "title": "Vertigem Branca", "original_title": "Vertigem Branca", "slug_title": "vertigem-branca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

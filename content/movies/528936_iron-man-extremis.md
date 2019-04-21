@@ -1,0 +1,1 @@
+{"tmdb_id": 528936, "title": "Iron Man: Extremis", "original_title": "Iron Man: Extremis", "slug_title": "iron-man-extremis", "date": "2010-11-30", "genre": "Action / Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NX3LNxnvE0ATuZwHHAkY9IhJcd.jpg", "actors": [], "comments": [], "recommandations_id": []}

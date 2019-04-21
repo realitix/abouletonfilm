@@ -1,0 +1,1 @@
+{"tmdb_id": 48445, "title": "Portrait of Gina", "original_title": "Portrait of Gina", "slug_title": "portrait-of-gina", "date": "1958-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gyftgoSxKbT2vjtjHjjE0qy3k8R.jpg", "actors": [], "comments": [], "recommandations_id": []}

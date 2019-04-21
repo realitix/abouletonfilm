@@ -1,0 +1,1 @@
+{"tmdb_id": 235137, "title": "Une bien curieuse souris", "original_title": "The Slap-Hoppy Mouse", "slug_title": "une-bien-curieuse-souris", "date": "1956-09-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/W22vq8sp6RRBuW5f9DSNPuon65.jpg", "actors": [], "comments": [], "recommandations_id": []}

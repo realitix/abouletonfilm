@@ -1,0 +1,1 @@
+{"tmdb_id": 272202, "title": "Fighting Fury", "original_title": "Fighting Fury", "slug_title": "fighting-fury", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8b5avw2XxDTGCoJtY22ZiI8JlMk.jpg", "actors": [], "comments": [], "recommandations_id": []}

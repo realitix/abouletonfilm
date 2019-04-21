@@ -1,0 +1,1 @@
+{"tmdb_id": 539150, "title": "Animated Cotton", "original_title": "Animated Cotton", "slug_title": "animated-cotton", "date": "1909-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

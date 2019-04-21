@@ -1,0 +1,1 @@
+{"tmdb_id": 488675, "title": "Variant Polgar", "original_title": "Variant Polgar", "slug_title": "variant-polgar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9kMqTzlsM07E4cBGrlC3SrEefIV.jpg", "actors": [], "comments": [], "recommandations_id": []}

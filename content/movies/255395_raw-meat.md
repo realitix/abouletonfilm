@@ -1,0 +1,1 @@
+{"tmdb_id": 255395, "title": "Raw Meat", "original_title": "Raw Meat", "slug_title": "raw-meat", "date": "2013-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cory Caso (J Ho)", "Steven Lefever (Godfather aka G FO)"], "comments": [], "recommandations_id": []}

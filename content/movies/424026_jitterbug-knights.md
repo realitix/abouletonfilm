@@ -1,0 +1,1 @@
+{"tmdb_id": 424026, "title": "Jitterbug Knights", "original_title": "Jitterbug Knights", "slug_title": "jitterbug-knights", "date": "1939-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny Webb ((voice))"], "comments": [], "recommandations_id": []}

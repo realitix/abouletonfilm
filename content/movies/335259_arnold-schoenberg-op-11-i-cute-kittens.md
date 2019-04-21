@@ -1,0 +1,1 @@
+{"tmdb_id": 335259, "title": "Arnold Schoenberg, op. 11 - I - Cute Kittens", "original_title": "Arnold Schoenberg, op. 11 - I - Cute Kittens", "slug_title": "arnold-schoenberg-op-11-i-cute-kittens", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

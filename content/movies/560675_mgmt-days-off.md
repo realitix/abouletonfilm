@@ -1,0 +1,1 @@
+{"tmdb_id": 560675, "title": "MGMT @ Days Off", "original_title": "MGMT @ Days Off", "slug_title": "mgmt-days-off", "date": "2018-10-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tEx63I38DJORhWA0Cup9WNjqkzT.jpg", "actors": ["MGMT ()"], "comments": [], "recommandations_id": []}

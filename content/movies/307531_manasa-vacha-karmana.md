@@ -1,0 +1,1 @@
+{"tmdb_id": 307531, "title": "Manasa Vacha Karmana", "original_title": "Manasa Vacha Karmana", "slug_title": "manasa-vacha-karmana", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 362087, "title": "The Bloody Curse", "original_title": "Der Blutige Fluch", "slug_title": "the-bloody-curse", "date": "1987-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYx7QeO4vnWMpMR11jVrMJnYzZk.jpg", "actors": [], "comments": [], "recommandations_id": []}

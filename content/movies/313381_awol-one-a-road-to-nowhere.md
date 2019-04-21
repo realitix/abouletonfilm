@@ -1,0 +1,1 @@
+{"tmdb_id": 313381, "title": "AWOL One: A Road to Nowhere", "original_title": "AWOL One: A Road to Nowhere", "slug_title": "awol-one-a-road-to-nowhere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

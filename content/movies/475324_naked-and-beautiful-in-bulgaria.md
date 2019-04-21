@@ -1,0 +1,1 @@
+{"tmdb_id": 475324, "title": "Naked and beautiful in Bulgaria", "original_title": "Bare & Beautiful In Bulgaria", "slug_title": "naked-and-beautiful-in-bulgaria", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gSRBupIzLjNoUuzas0sjoSvH5h.jpg", "actors": [], "comments": [], "recommandations_id": []}

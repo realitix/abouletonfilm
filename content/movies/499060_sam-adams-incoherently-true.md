@@ -1,0 +1,1 @@
+{"tmdb_id": 499060, "title": "Sam Adams: Incoherently True", "original_title": "Sam Adams: Incoherently True", "slug_title": "sam-adams-incoherently-true", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jS8XGW2FMez2rSzwyNY1axRPUtO.jpg", "actors": [], "comments": [], "recommandations_id": []}

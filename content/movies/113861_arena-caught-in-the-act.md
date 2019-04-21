@@ -1,0 +1,1 @@
+{"tmdb_id": 113861, "title": "Arena : Caught in the Act", "original_title": "Arena : Caught in the Act", "slug_title": "arena-caught-in-the-act", "date": "2003-09-09", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTWVi5TlRyihBkNfDDjOASXFrZ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

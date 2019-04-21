@@ -1,0 +1,1 @@
+{"tmdb_id": 572994, "title": "Chichibu de Buchichi", "original_title": "\u3061\u3061\u3076\u3067\u3076\u3061\u3061", "slug_title": "chichibu-de-buchichi", "date": "2018-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DqaZwomt7fAfsdIsGZeFahv9OB.jpg", "actors": [], "comments": [], "recommandations_id": []}

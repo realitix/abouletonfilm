@@ -1,0 +1,1 @@
+{"tmdb_id": 536309, "title": "Gents of Leisure", "original_title": "Gents of Leisure", "slug_title": "gents-of-leisure", "date": "1931-05-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chester Conklin ()", "Vernon Dent ()"], "comments": [], "recommandations_id": []}

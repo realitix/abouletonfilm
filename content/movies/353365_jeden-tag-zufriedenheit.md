@@ -1,0 +1,1 @@
+{"tmdb_id": 353365, "title": "Jeden Tag Zufriedenheit", "original_title": "Jeden Tag Zufriedenheit", "slug_title": "jeden-tag-zufriedenheit", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

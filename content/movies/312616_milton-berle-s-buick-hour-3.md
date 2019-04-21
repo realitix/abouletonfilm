@@ -1,0 +1,1 @@
+{"tmdb_id": 312616, "title": "Milton Berle's Buick Hour #3", "original_title": "Milton Berle's Buick Hour #3", "slug_title": "milton-berle-s-buick-hour-3", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

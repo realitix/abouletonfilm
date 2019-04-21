@@ -1,0 +1,1 @@
+{"tmdb_id": 330342, "title": "The Revolutionary Palestinian", "original_title": "al-Filastini al-Tha'ir", "slug_title": "the-revolutionary-palestinian", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

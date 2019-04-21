@@ -1,0 +1,1 @@
+{"tmdb_id": 513893, "title": "Quest for Solomon's Mines", "original_title": "Quest for Solomon's Mines", "slug_title": "quest-for-solomon-s-mines", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IcYKBk1UtyenU86JnOdaqmdnPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

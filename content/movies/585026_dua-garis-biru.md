@@ -1,0 +1,1 @@
+{"tmdb_id": 585026, "title": "Dua Garis Biru", "original_title": "Dua Garis Biru", "slug_title": "dua-garis-biru", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angga Aldi Yunanda ()", "Adhisty Zara ()", "Dwi Sasono ()", "Arswendi Nasution ()", "Maisha Kanna ()"], "comments": [], "recommandations_id": []}

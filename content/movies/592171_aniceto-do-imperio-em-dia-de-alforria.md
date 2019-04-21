@@ -1,0 +1,1 @@
+{"tmdb_id": 592171, "title": "Aniceto do Imp\u00e9rio em dia de alforria", "original_title": "Aniceto do Imp\u00e9rio em dia de alforria", "slug_title": "aniceto-do-imperio-em-dia-de-alforria", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

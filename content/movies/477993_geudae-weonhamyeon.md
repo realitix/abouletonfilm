@@ -1,0 +1,1 @@
+{"tmdb_id": 477993, "title": "\uadf8\ub300 \uc6d0\ud558\uba74", "original_title": "\uadf8\ub300 \uc6d0\ud558\uba74", "slug_title": "geudae-weonhamyeon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

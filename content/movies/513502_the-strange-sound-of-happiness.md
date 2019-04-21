@@ -1,0 +1,1 @@
+{"tmdb_id": 513502, "title": "The Strange Sound of Happiness", "original_title": "The Strange Sound of Happiness", "slug_title": "the-strange-sound-of-happiness", "date": "2018-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

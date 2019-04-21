@@ -1,0 +1,1 @@
+{"tmdb_id": 479996, "title": "Alzheimer's: Every Minute Counts", "original_title": "Alzheimer's: Every Minute Counts", "slug_title": "alzheimer-s-every-minute-counts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

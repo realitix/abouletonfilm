@@ -1,0 +1,1 @@
+{"tmdb_id": 237675, "title": "The Cross", "original_title": "The Cross", "slug_title": "the-cross", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

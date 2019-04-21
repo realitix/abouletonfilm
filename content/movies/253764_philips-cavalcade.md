@@ -1,0 +1,1 @@
+{"tmdb_id": 253764, "title": "Philips Cavalcade", "original_title": "Philips Cavalcade", "slug_title": "philips-cavalcade", "date": "1934-02-02", "genre": "Animation / Musique", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uyz7dBO6Jo8CyFdbXFMx3PLcr0p.jpg", "actors": [], "comments": [], "recommandations_id": []}

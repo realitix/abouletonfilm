@@ -1,0 +1,1 @@
+{"tmdb_id": 322749, "title": "The Lala Road", "original_title": "The Lala Road", "slug_title": "the-lala-road", "date": "2012-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wA3D1oBJRnqKrfIqQKed1VjSc3s.jpg", "actors": [], "comments": [], "recommandations_id": []}

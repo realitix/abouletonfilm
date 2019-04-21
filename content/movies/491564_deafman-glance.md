@@ -1,0 +1,1 @@
+{"tmdb_id": 491564, "title": "Deafman Glance", "original_title": "Deafman Glance", "slug_title": "deafman-glance", "date": "1981-01-01", "genre": "Drame / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafael Carmona ()", "Jerry Jackson ()", "Sheryl Sutton ()"], "comments": [], "recommandations_id": []}

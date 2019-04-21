@@ -1,0 +1,1 @@
+{"tmdb_id": 415266, "title": "Bernadette", "original_title": "Bernadette", "slug_title": "bernadette", "date": "2009-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernadette Devlin (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393979, "title": "RPW: Uprising 2013", "original_title": "RPW: Uprising 2013", "slug_title": "rpw-uprising-2013", "date": "2013-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfuU02JWlOZlYQur1UqhPR9SKdq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 154698, "title": "Defiant Bras\u00edlia", "original_title": "Avenida Bras\u00edlia Formosa", "slug_title": "defiant-brasilia", "date": "2010-02-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAjtviAdfZNS3CYlo1OYxqqRHU1.jpg", "actors": [], "comments": [], "recommandations_id": []}

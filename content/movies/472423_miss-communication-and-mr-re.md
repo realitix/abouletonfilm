@@ -1,0 +1,1 @@
+{"tmdb_id": 472423, "title": "Miss Communication and Mr:Re", "original_title": "Miss Communication and Mr:Re", "slug_title": "miss-communication-and-mr-re", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Moten (Himself)", "Wu Tsang (Herself)"], "comments": [], "recommandations_id": []}

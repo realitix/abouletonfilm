@@ -1,0 +1,1 @@
+{"tmdb_id": 119430, "title": "Owned & Operated", "original_title": "Owned & Operated", "slug_title": "owned-operated", "date": "2012-07-02", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SAlinkRkke7sbVoQEpVxqr6RNs.jpg", "actors": [], "comments": [], "recommandations_id": []}

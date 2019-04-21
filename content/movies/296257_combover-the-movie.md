@@ -1,0 +1,1 @@
+{"tmdb_id": 296257, "title": "Combover: The Movie", "original_title": "Combover: The Movie", "slug_title": "combover-the-movie", "date": "2005-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkQusNJCr00WjwdJNKGFFgiRBEh.jpg", "actors": [], "comments": [], "recommandations_id": []}

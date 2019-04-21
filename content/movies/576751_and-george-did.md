@@ -1,0 +1,1 @@
+{"tmdb_id": 576751, "title": "And George Did!", "original_title": "And George Did!", "slug_title": "and-george-did", "date": "1926-12-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Syd Saylor (George)", "Dorothy Gulliver ()", "Colin Chase ()", "Madalynne Field ()"], "comments": [], "recommandations_id": []}

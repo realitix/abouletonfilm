@@ -1,0 +1,1 @@
+{"tmdb_id": 309765, "title": "Qi Gong for Beginners", "original_title": "Qi Gong for Beginners", "slug_title": "qi-gong-for-beginners", "date": "2010-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fi8ggPVGuPn5yyTrFFIEhVUJJH.jpg", "actors": [], "comments": [], "recommandations_id": []}

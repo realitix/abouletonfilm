@@ -1,0 +1,1 @@
+{"tmdb_id": 586750, "title": "We Buy, Who Pays?", "original_title": "We Buy, Who Pays?", "slug_title": "we-buy-who-pays", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSnpVbIdWZPd4lAF3eV6UF9KWMq.jpg", "actors": [], "comments": [], "recommandations_id": []}

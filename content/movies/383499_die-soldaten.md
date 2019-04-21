@@ -1,0 +1,1 @@
+{"tmdb_id": 383499, "title": "Die Soldaten", "original_title": "Die Soldaten", "slug_title": "die-soldaten", "date": "1988-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arno Assmann ()", "Ruth Hellberg ()", "Lisa Helwig ()", "Anita Lochner ()", "Siemen R\u00fchaak ()"], "comments": [], "recommandations_id": []}

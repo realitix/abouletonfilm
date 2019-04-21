@@ -1,0 +1,1 @@
+{"tmdb_id": 593693, "title": "Palau the Movie", "original_title": "Palau the Movie", "slug_title": "palau-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

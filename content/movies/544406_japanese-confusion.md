@@ -1,0 +1,1 @@
+{"tmdb_id": 544406, "title": "Japanese Confusion", "original_title": "Japanese Confusion", "slug_title": "japanese-confusion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

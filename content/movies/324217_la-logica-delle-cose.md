@@ -1,0 +1,1 @@
+{"tmdb_id": 324217, "title": "La logica delle cose", "original_title": "La logica delle cose", "slug_title": "la-logica-delle-cose", "date": "2013-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547647, "title": "The Idol", "original_title": "Idol", "slug_title": "the-idol", "date": "1989-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xg4ogWBoZq041DqHWn257b91Iob.jpg", "actors": [], "comments": [], "recommandations_id": []}

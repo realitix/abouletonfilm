@@ -1,0 +1,1 @@
+{"tmdb_id": 511507, "title": "Roses Sing on New Snow", "original_title": "Roses Sing on New Snow", "slug_title": "roses-sing-on-new-snow", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUKL3CF0tHZyB5mg7V2BHdEEEW4.jpg", "actors": [], "comments": [], "recommandations_id": []}

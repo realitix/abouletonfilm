@@ -1,0 +1,1 @@
+{"tmdb_id": 282988, "title": "Animador", "original_title": "Animador", "slug_title": "animador", "date": "2012-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernanda Chicolet ()"], "comments": [], "recommandations_id": []}

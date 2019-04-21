@@ -1,0 +1,1 @@
+{"tmdb_id": 274148, "title": "A Little Western", "original_title": "Ma\u0142y western", "slug_title": "a-little-western", "date": "1961-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVUSdcKuQr2M7DDa7jMsQX2DXd6.jpg", "actors": [], "comments": [], "recommandations_id": []}

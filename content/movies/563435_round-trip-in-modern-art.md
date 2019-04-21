@@ -1,0 +1,1 @@
+{"tmdb_id": 563435, "title": "Round Trip in Modern Art", "original_title": "Round Trip in Modern Art", "slug_title": "round-trip-in-modern-art", "date": "1949-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

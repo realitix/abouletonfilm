@@ -1,0 +1,1 @@
+{"tmdb_id": 101624, "title": "Wellness", "original_title": "Wellness", "slug_title": "wellness", "date": "2008-01-29", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rwSsejpEmgIkNBbUBMNFBnxfema.jpg", "actors": [], "comments": [], "recommandations_id": []}

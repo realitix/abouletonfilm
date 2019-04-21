@@ -1,0 +1,1 @@
+{"tmdb_id": 314742, "title": "Bo Schembechler's Michigan Wolverines", "original_title": "Bo Schembechler's Michigan Wolverines", "slug_title": "bo-schembechler-s-michigan-wolverines", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

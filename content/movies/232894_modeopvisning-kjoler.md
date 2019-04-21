@@ -1,0 +1,1 @@
+{"tmdb_id": 232894, "title": "Modeopvisning - Kjoler", "original_title": "Modeopvisning - Kjoler", "slug_title": "modeopvisning-kjoler", "date": "1908-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

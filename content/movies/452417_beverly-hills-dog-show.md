@@ -1,0 +1,1 @@
+{"tmdb_id": 452417, "title": "Beverly Hills Dog Show", "original_title": "Beverly Hills Dog Show", "slug_title": "beverly-hills-dog-show", "date": "2018-04-01", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

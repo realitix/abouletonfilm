@@ -1,0 +1,1 @@
+{"tmdb_id": 363686, "title": "Barely Dead", "original_title": "Barely Dead", "slug_title": "barely-dead", "date": "2006-01-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xcdzlnku3MSV1GVAs7i0KTeTvYr.jpg", "actors": [], "comments": [], "recommandations_id": []}

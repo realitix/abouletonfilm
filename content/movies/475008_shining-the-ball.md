@@ -1,0 +1,1 @@
+{"tmdb_id": 475008, "title": "Shining the Ball", "original_title": "Shining the Ball", "slug_title": "shining-the-ball", "date": "2005-06-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clint Dowdell (Sam)", "Aaron Winter (Arny)", "Brett Bird (Tubby)"], "comments": [], "recommandations_id": []}

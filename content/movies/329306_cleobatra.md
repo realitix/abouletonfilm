@@ -1,0 +1,1 @@
+{"tmdb_id": 329306, "title": "Cleobatra", "original_title": "Cleobatra", "slug_title": "cleobatra", "date": "1943-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amina Rizk ()", "Badr Lama ()", "Bishara Wakim ()"], "comments": [], "recommandations_id": []}

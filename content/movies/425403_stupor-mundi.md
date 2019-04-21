@@ -1,0 +1,1 @@
+{"tmdb_id": 425403, "title": "Stupor Mundi", "original_title": "Stupor Mundi", "slug_title": "stupor-mundi", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xCZ3G3CLg23lV28Iliek1ygipe.jpg", "actors": [], "comments": [], "recommandations_id": []}

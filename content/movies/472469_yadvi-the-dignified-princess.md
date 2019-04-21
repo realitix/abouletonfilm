@@ -1,0 +1,1 @@
+{"tmdb_id": 472469, "title": "YADVI: The Dignified Princess", "original_title": "YADVI: The Dignified Princess", "slug_title": "yadvi-the-dignified-princess", "date": "2017-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6inOd6Ns2TpuI0sTlEeub3UYJYN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531096, "title": "Jujuna's Dowry", "original_title": "Jujunas mzitevi", "slug_title": "jujuna-s-dowry", "date": "1934-08-23", "genre": "Com\u00e9die / Romance", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

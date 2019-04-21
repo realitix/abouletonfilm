@@ -1,0 +1,1 @@
+{"tmdb_id": 145142, "title": "Daniel Sloss Live", "original_title": "Daniel Sloss Live", "slug_title": "daniel-sloss-live", "date": "2012-11-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iB3hfLTAHLcgVcrZNH20iKnphVj.jpg", "actors": ["Daniel Sloss (Himself)"], "comments": [], "recommandations_id": []}

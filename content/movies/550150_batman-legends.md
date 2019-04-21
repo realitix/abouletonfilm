@@ -1,0 +1,1 @@
+{"tmdb_id": 550150, "title": "Batman Legends", "original_title": "Batman Legends", "slug_title": "batman-legends", "date": "2006-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l4ttqbXVdT7g4Yxf9Hef29Yqcsn.jpg", "actors": [], "comments": [], "recommandations_id": []}

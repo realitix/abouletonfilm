@@ -1,0 +1,1 @@
+{"tmdb_id": 430962, "title": "TIEU THUYET VO DUNG", "original_title": "TIEU THUYET VO DUNG", "slug_title": "tieu-thuyet-vo-dung", "date": "2015-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXEsyCFRLT4D2P7wIHuT80jaUvG.jpg", "actors": [], "comments": [], "recommandations_id": []}

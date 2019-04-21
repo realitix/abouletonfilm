@@ -1,0 +1,1 @@
+{"tmdb_id": 260650, "title": "The Golden Bird", "original_title": "Sonchidi", "slug_title": "the-golden-bird", "date": "2011-11-01", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aDJd9tlY94sBezj5oesOJ2qwzhA.jpg", "actors": ["Nitin Goel ()", "Gagan Singh Sethi ()"], "comments": [], "recommandations_id": []}

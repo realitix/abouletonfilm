@@ -1,0 +1,1 @@
+{"tmdb_id": 560426, "title": "Shojo no irezumi", "original_title": "\u51e6\u5973\u306e\u523a\u9752", "slug_title": "shojo-no-irezumi", "date": "1976-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qX7hkX2dGxSapJISnrQQ5W5ON79.jpg", "actors": ["Gensh\u00fb Hanayagi ()"], "comments": [], "recommandations_id": []}

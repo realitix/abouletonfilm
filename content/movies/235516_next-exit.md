@@ -1,0 +1,1 @@
+{"tmdb_id": 235516, "title": "Next Exit", "original_title": "Next Exit", "slug_title": "next-exit", "date": "2013-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

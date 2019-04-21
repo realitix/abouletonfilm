@@ -1,0 +1,1 @@
+{"tmdb_id": 549434, "title": "Diminuta", "original_title": "Diminuta", "slug_title": "diminuta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reynaldo Gianecchini ()", "Giancarlo Giannini ()", "Daniela Escobar ()", "Danny Gris ()", "Carlos Vereza ()", "Deborah Evelyn ()"], "comments": [], "recommandations_id": []}

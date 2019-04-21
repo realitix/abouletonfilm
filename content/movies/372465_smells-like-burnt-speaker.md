@@ -1,0 +1,1 @@
+{"tmdb_id": 372465, "title": "Smells Like Burnt Speaker", "original_title": "Smells Like Burnt Speaker", "slug_title": "smells-like-burnt-speaker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pjc9Eev3PuCtHs0hOdvRgV47UGa.jpg", "actors": [], "comments": [], "recommandations_id": []}

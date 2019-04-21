@@ -1,0 +1,1 @@
+{"tmdb_id": 320865, "title": "Ray Bradbury: An American Icon", "original_title": "Ray Bradbury: An American Icon", "slug_title": "ray-bradbury-an-american-icon", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564829, "title": "Le commando des chauds lapins", "original_title": "Le commando des chauds lapins", "slug_title": "le-commando-des-chauds-lapins", "date": "1975-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ZZLZN01HWivRo5rdmbtwoId2I1.jpg", "actors": [], "comments": [], "recommandations_id": []}

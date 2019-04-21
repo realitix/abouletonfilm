@@ -1,0 +1,1 @@
+{"tmdb_id": 387089, "title": "Kung Fu: Trailers of Fury", "original_title": "Kung Fu: Trailers of Fury", "slug_title": "kung-fu-trailers-of-fury", "date": "2016-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwrPuyk3HOCosmmM8LifPIGeJxw.jpg", "actors": [], "comments": [], "recommandations_id": []}

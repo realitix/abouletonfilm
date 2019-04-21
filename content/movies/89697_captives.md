@@ -1,0 +1,1 @@
+{"tmdb_id": 89697, "title": "Captives", "original_title": "Captives", "slug_title": "captives", "date": "1988-01-05", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvLMYLj6qA7LdseaEkruOkrPQlf.jpg", "actors": ["Lisa Cohen ()", "Linda Herman ()", "Jackie Neill ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 328819, "title": "U.N. Offensive: Combat Offensive In Korea", "original_title": "U.N. Offensive: Combat Offensive In Korea", "slug_title": "u-n-offensive-combat-offensive-in-korea", "date": "1952-01-01", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

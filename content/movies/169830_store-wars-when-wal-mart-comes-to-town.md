@@ -1,0 +1,1 @@
+{"tmdb_id": 169830, "title": "Store Wars: When Wal-Mart Comes to Town", "original_title": "Store Wars: When Wal-Mart Comes to Town", "slug_title": "store-wars-when-wal-mart-comes-to-town", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

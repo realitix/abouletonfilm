@@ -1,0 +1,1 @@
+{"tmdb_id": 304956, "title": "Stuck in Purgatory", "original_title": "Stuck in Purgatory", "slug_title": "stuck-in-purgatory", "date": "2002-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312599, "title": "Jupiter Moon: Pirates of Leda", "original_title": "Jupiter Moon: Pirates of Leda", "slug_title": "jupiter-moon-pirates-of-leda", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

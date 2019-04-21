@@ -1,0 +1,1 @@
+{"tmdb_id": 487828, "title": "The Mill Hunk Herald", "original_title": "The Mill Hunk Herald", "slug_title": "the-mill-hunk-herald", "date": "1980-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Buba (Himself)", "Stephen Pellegrino (Himself)"], "comments": [], "recommandations_id": []}

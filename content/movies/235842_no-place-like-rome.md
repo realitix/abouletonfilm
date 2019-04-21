@@ -1,0 +1,1 @@
+{"tmdb_id": 235842, "title": "No Place Like Rome", "original_title": "No Place Like Rome", "slug_title": "no-place-like-rome", "date": "1953-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

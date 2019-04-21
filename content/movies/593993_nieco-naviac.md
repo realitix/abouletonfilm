@@ -1,0 +1,1 @@
+{"tmdb_id": 593993, "title": "Nie\u010do naviac", "original_title": "Nie\u010do naviac", "slug_title": "nieco-naviac", "date": "2018-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

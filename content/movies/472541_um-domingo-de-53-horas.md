@@ -1,0 +1,1 @@
+{"tmdb_id": 472541, "title": "Um Domingo de 53 Horas", "original_title": "Um Domingo de 53 Horas", "slug_title": "um-domingo-de-53-horas", "date": "2017-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJR3qBJ2XUI3PfOjft56lKWpZat.jpg", "actors": [], "comments": [], "recommandations_id": []}

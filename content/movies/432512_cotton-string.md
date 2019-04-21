@@ -1,0 +1,1 @@
+{"tmdb_id": 432512, "title": "Cotton String", "original_title": "Cotton String", "slug_title": "cotton-string", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

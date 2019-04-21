@@ -1,0 +1,1 @@
+{"tmdb_id": 295535, "title": "Slipping: Skate's Impact on Egypt", "original_title": "Slipping: Skate's Impact on Egypt", "slug_title": "slipping-skate-s-impact-on-egypt", "date": "2012-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

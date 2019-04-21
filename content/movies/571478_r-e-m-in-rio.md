@@ -1,0 +1,1 @@
+{"tmdb_id": 571478, "title": "R.E.M. In Rio", "original_title": "R.E.M. In Rio", "slug_title": "r-e-m-in-rio", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6khoqJ4lfpSg5bu1UX0RHTmNMvK.jpg", "actors": [], "comments": [], "recommandations_id": []}

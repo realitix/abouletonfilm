@@ -1,0 +1,1 @@
+{"tmdb_id": 510681, "title": "Tak fajn", "original_title": "Tak fajn", "slug_title": "tak-fajn", "date": "2012-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7xItP80LOsUFPo5rsjZTDRSLDhd.jpg", "actors": [], "comments": [], "recommandations_id": []}

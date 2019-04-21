@@ -1,0 +1,1 @@
+{"tmdb_id": 33711, "title": "Oh Teacher", "original_title": "Oh Teacher", "slug_title": "oh-teacher", "date": "1927-09-16", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9L2YGZzNesxfE51qUpAHYgKJ4zS.jpg", "actors": [], "comments": [], "recommandations_id": [189854, 39035, 190031, 39815]}

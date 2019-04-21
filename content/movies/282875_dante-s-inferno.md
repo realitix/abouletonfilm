@@ -1,0 +1,1 @@
+{"tmdb_id": 282875, "title": "Dante's Inferno", "original_title": "L'inferno", "slug_title": "dante-s-inferno", "date": "1911-01-01", "genre": "Fantastique / Drame", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/syf1ppQ872jnz4Bk9nk9zM9kp9Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

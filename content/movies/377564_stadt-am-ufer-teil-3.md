@@ -1,0 +1,1 @@
+{"tmdb_id": 377564, "title": "Stadt am Ufer Teil 3", "original_title": "Stadt am Ufer Teil 3", "slug_title": "stadt-am-ufer-teil-3", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

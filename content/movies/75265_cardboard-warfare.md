@@ -1,0 +1,1 @@
+{"tmdb_id": 75265, "title": "Cardboard Warfare", "original_title": "Cardboard Warfare", "slug_title": "cardboard-warfare", "date": "2010-06-29", "genre": "", "score": "3.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

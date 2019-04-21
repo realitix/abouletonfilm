@@ -1,0 +1,1 @@
+{"tmdb_id": 429221, "title": "Cimarr\u00f3n", "original_title": "Cimarr\u00f3n", "slug_title": "cimarron", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

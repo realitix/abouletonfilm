@@ -1,0 +1,1 @@
+{"tmdb_id": 288159, "title": "Celebrity Habla", "original_title": "Celebrity Habla", "slug_title": "celebrity-habla", "date": "2009-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 400758, "title": "Des Bishop: Live", "original_title": "Des Bishop: Live", "slug_title": "des-bishop-live", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKkKZbuzZ9S2cLEY3eVG1YYn8ps.jpg", "actors": ["Des Bishop (Himself)"], "comments": [], "recommandations_id": []}

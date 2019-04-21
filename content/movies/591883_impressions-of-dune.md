@@ -1,0 +1,1 @@
+{"tmdb_id": 591883, "title": "Impressions Of Dune", "original_title": "Impressions Of Dune", "slug_title": "impressions-of-dune", "date": "2003-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kyle MacLachlan ()"], "comments": [], "recommandations_id": []}

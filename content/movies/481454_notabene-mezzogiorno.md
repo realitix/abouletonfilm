@@ -1,0 +1,1 @@
+{"tmdb_id": 481454, "title": "Notabene Mezzogiorno", "original_title": "Notabene Mezzogiorno", "slug_title": "notabene-mezzogiorno", "date": "1962-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

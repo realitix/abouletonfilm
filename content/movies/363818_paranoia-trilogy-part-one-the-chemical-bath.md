@@ -1,0 +1,1 @@
+{"tmdb_id": 363818, "title": "Paranoia Trilogy Part One: The Chemical Bath", "original_title": "Paranoia Trilogy Part One: The Chemical Bath", "slug_title": "paranoia-trilogy-part-one-the-chemical-bath", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

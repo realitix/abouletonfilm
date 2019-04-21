@@ -1,0 +1,1 @@
+{"tmdb_id": 226561, "title": "Duration-Landscape: Rocks", "original_title": "Paisaje-duraci\u00f3n: rocas", "slug_title": "duration-landscape-rocks", "date": "2011-08-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lZbesLBydpBoJYmdPlEJ8yJrDJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 243712, "title": "A Life Without Pain", "original_title": "A Life Without Pain", "slug_title": "a-life-without-pain", "date": "2005-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4dAPgtdepOd5KZUbcAZGbY0CK3A.jpg", "actors": [], "comments": [], "recommandations_id": []}

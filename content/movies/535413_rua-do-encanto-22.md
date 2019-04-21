@@ -1,0 +1,1 @@
+{"tmdb_id": 535413, "title": "Rua do Encanto 22", "original_title": "Rua do Encanto 22", "slug_title": "rua-do-encanto-22", "date": "2014-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agLt9g1d2WpV4RfOAQGoJ5hj7GT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 253585, "title": "Is She or Isn't He?", "original_title": "Is She or Isn't He?", "slug_title": "is-she-or-isn-t-he", "date": "2010-08-07", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5aT2h2Gn925TQTXHgbzgfZSjZ9q.jpg", "actors": [], "comments": [], "recommandations_id": []}

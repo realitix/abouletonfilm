@@ -1,0 +1,1 @@
+{"tmdb_id": 201372, "title": "Last Year in Viet Nam", "original_title": "Last Year in Viet Nam", "slug_title": "last-year-in-viet-nam", "date": "1971-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJKrwmxdaI6ieya4gsqOFBLdWBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

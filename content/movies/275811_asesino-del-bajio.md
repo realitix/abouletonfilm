@@ -1,0 +1,1 @@
+{"tmdb_id": 275811, "title": "Asesino del Bajio", "original_title": "Asesino del Bajio", "slug_title": "asesino-del-bajio", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

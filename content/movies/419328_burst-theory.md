@@ -1,0 +1,1 @@
+{"tmdb_id": 419328, "title": "Burst Theory", "original_title": "Burst Theory", "slug_title": "burst-theory", "date": "2016-10-04", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aiurb6SGe3ABO8gdZTw5rx5NYdz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491137, "title": "Trenhotel", "original_title": "Trenhotel", "slug_title": "trenhotel", "date": "2007-11-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Pierre Lorit (Olivier)", "Paulina G\u00e1lvez (Elisa)", "Natacha Lindinger (Brigitte)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408754, "title": "The Sniper of Kobani", "original_title": "The Sniper of Kobani", "slug_title": "the-sniper-of-kobani", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

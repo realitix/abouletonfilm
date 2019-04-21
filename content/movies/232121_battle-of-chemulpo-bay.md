@@ -1,0 +1,1 @@
+{"tmdb_id": 232121, "title": "Battle of Chemulpo Bay", "original_title": "Battle of Chemulpo Bay", "slug_title": "battle-of-chemulpo-bay", "date": "1904-04-19", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agRQ3kmJJJsJ814qSXG9WTnSPyo.jpg", "actors": [], "comments": [], "recommandations_id": []}

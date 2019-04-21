@@ -1,0 +1,1 @@
+{"tmdb_id": 232974, "title": "Ved Havet", "original_title": "Ved Havet", "slug_title": "ved-havet", "date": "1909-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

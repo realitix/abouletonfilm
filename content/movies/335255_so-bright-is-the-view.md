@@ -1,0 +1,1 @@
+{"tmdb_id": 335255, "title": "So Bright Is the View", "original_title": "So Bright Is the View", "slug_title": "so-bright-is-the-view", "date": "2014-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

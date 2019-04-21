@@ -1,0 +1,1 @@
+{"tmdb_id": 401196, "title": "Revenue Agent", "original_title": "Revenue Agent", "slug_title": "revenue-agent", "date": "1950-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

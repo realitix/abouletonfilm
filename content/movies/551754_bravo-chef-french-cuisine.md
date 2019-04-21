@@ -1,0 +1,1 @@
+{"tmdb_id": 551754, "title": "Bravo Chef: French Cuisine", "original_title": "Bravo Chef: French Cuisine", "slug_title": "bravo-chef-french-cuisine", "date": "2009-09-29", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAazIuWXBjtbfQH1KbPcDpJO4KR.jpg", "actors": [], "comments": [], "recommandations_id": []}

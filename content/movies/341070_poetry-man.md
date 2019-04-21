@@ -1,0 +1,1 @@
+{"tmdb_id": 341070, "title": "Poetry Man", "original_title": "Poetry Man", "slug_title": "poetry-man", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

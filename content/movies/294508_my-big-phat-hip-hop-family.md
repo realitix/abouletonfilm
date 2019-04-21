@@ -1,0 +1,1 @@
+{"tmdb_id": 294508, "title": "My Big Phat Hip Hop Family", "original_title": "My Big Phat Hip Hop Family", "slug_title": "my-big-phat-hip-hop-family", "date": "2005-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

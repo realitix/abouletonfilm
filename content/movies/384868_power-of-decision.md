@@ -1,0 +1,1 @@
+{"tmdb_id": 384868, "title": "Power of Decision", "original_title": "Power of Decision", "slug_title": "power-of-decision", "date": "1958-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

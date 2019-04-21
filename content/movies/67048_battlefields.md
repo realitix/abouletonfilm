@@ -1,0 +1,1 @@
+{"tmdb_id": 67048, "title": "Battlefields", "original_title": "Battlefields", "slug_title": "battlefields", "date": "2001-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mlEhY40Np0LKrygf0RQScS7oxdn.jpg", "actors": [], "comments": [], "recommandations_id": []}

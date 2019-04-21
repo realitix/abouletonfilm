@@ -1,0 +1,1 @@
+{"tmdb_id": 548228, "title": "Bloodrunner Zero 2", "original_title": "Bloodrunner Zero 2", "slug_title": "bloodrunner-zero-2", "date": "2018-09-16", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Fw0JjqvhWrNiB7bn5iQOQyuKxo.jpg", "actors": ["Zero Syoujyo ()"], "comments": [], "recommandations_id": []}

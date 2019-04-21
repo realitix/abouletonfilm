@@ -1,0 +1,1 @@
+{"tmdb_id": 191986, "title": "Cenerentola", "original_title": "Cenerentola", "slug_title": "cenerentola", "date": "1913-01-07", "genre": "", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

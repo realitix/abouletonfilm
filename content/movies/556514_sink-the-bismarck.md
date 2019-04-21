@@ -1,0 +1,1 @@
+{"tmdb_id": 556514, "title": "Sink the Bismarck!", "original_title": "Sink the Bismarck!", "slug_title": "sink-the-bismarck", "date": "1996-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNtMZM6eRi88tutRrX87eLXatuy.jpg", "actors": [], "comments": [], "recommandations_id": []}

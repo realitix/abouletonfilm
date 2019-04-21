@@ -1,0 +1,1 @@
+{"tmdb_id": 327435, "title": "Elvis is dead", "original_title": "O Elvis einai nekros", "slug_title": "elvis-is-dead", "date": "2013-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JOi6GJjYydGI6FKNaKBCZeMCoz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 68680, "title": "The Other Mother: A Moment of Truth Movie", "original_title": "The Other Mother: A Moment of Truth Movie", "slug_title": "the-other-mother-a-moment-of-truth-movie", "date": "1995-04-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

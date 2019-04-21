@@ -1,0 +1,1 @@
+{"tmdb_id": 346397, "title": "Europe for Sale", "original_title": "Europe for Sale", "slug_title": "europe-for-sale", "date": "2014-08-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mYgqA9keOnqOqbuKCZ0cYxYWGiC.jpg", "actors": [], "comments": [], "recommandations_id": []}

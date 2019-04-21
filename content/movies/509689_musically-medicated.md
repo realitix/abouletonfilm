@@ -1,0 +1,1 @@
+{"tmdb_id": 509689, "title": "Musically Medicated", "original_title": "Musically Medicated", "slug_title": "musically-medicated", "date": "2013-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nmoCAgAnfEAwY5iKuYVGwfPhxVU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 360207, "title": "Bill Viola and the Making of Emergence", "original_title": "Bill Viola and the Making of Emergence", "slug_title": "bill-viola-and-the-making-of-emergence", "date": "2003-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

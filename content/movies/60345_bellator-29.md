@@ -1,0 +1,1 @@
+{"tmdb_id": 60345, "title": "Bellator 29", "original_title": "Bellator 29", "slug_title": "bellator-29", "date": "2010-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ryaua5p8OErt1ibI4FcD79LYXY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413116, "title": "Sof\u00eda Ni\u00f1o de Rivera Expuesta", "original_title": "Sof\u00eda Ni\u00f1o de Rivera Expuesta", "slug_title": "sofia-nino-de-rivera-expuesta", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

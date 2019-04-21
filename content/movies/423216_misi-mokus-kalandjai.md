@@ -1,0 +1,1 @@
+{"tmdb_id": 423216, "title": "Misi M\u00f3kus kalandjai", "original_title": "Misi M\u00f3kus kalandjai", "slug_title": "misi-mokus-kalandjai", "date": "1984-01-19", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gBE19klxC2zv3H0PJJAUK1VjYyb.jpg", "actors": [], "comments": [], "recommandations_id": []}

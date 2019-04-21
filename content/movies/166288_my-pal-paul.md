@@ -1,0 +1,1 @@
+{"tmdb_id": 166288, "title": "My Pal Paul", "original_title": "My Pal Paul", "slug_title": "my-pal-paul", "date": "1930-06-15", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Whiteman (Himself)", "Pinto Colvig (Oswald the Lucky Rabbit)"], "comments": [], "recommandations_id": []}

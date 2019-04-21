@@ -1,0 +1,1 @@
+{"tmdb_id": 377903, "title": "A I U E O NN SIX FEATURES", "original_title": "A I U E O NN SIX FEATURES", "slug_title": "a-i-u-e-o-nn-six-features", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2gCV22HafDPN6xpXNdxJzgzIYNT.jpg", "actors": [], "comments": [], "recommandations_id": []}

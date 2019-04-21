@@ -1,0 +1,1 @@
+{"tmdb_id": 429573, "title": "Bedah Tong Gas", "original_title": "Bedah Tong Gas", "slug_title": "bedah-tong-gas", "date": "2011-01-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

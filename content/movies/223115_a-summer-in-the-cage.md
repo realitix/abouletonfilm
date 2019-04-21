@@ -1,0 +1,1 @@
+{"tmdb_id": 223115, "title": "A Summer in the Cage", "original_title": "A Summer in the Cage", "slug_title": "a-summer-in-the-cage", "date": "2007-10-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flqPVeexLrzlg6gZ49TB3WFAIaL.jpg", "actors": [], "comments": [], "recommandations_id": []}

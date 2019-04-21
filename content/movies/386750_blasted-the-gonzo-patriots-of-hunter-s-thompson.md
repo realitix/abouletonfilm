@@ -1,0 +1,1 @@
+{"tmdb_id": 386750, "title": "Blasted!!! The Gonzo Patriots of Hunter S. Thompson", "original_title": "Blasted!!! The Gonzo Patriots of Hunter S. Thompson", "slug_title": "blasted-the-gonzo-patriots-of-hunter-s-thompson", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

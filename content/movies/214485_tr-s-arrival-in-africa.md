@@ -1,0 +1,1 @@
+{"tmdb_id": 214485, "title": "TR's Arrival in Africa", "original_title": "TR's Arrival in Africa", "slug_title": "tr-s-arrival-in-africa", "date": "1909-08-14", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9XoXoDeDPhqOSB0WehS2su53N6.jpg", "actors": [], "comments": [], "recommandations_id": []}

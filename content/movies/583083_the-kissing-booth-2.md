@@ -1,0 +1,1 @@
+{"tmdb_id": 583083, "title": "The Kissing Booth 2", "original_title": "The Kissing Booth 2", "slug_title": "the-kissing-booth-2", "date": "", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joey King (Shelly 'Elle' Evans)", "Jacob Elordi (Noah Flynn)", "Joel Courtney (Lee Flynn)"], "comments": [], "recommandations_id": []}

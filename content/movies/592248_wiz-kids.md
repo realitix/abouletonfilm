@@ -1,0 +1,1 @@
+{"tmdb_id": 592248, "title": "Wiz Kids", "original_title": "\u00c0 nous de jouer!", "slug_title": "wiz-kids", "date": "2017-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Tti3PPt8eZrL7l5eWb3a1Geq4.jpg", "actors": [], "comments": [], "recommandations_id": []}

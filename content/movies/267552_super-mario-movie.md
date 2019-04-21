@@ -1,0 +1,1 @@
+{"tmdb_id": 267552, "title": "Super Mario Movie", "original_title": "Super Mario Movie", "slug_title": "super-mario-movie", "date": "2005-01-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/31pJxy9rvENJd4jddkNstNlX152.jpg", "actors": [], "comments": [], "recommandations_id": []}

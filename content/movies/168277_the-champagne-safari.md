@@ -1,0 +1,1 @@
+{"tmdb_id": 168277, "title": "The Champagne Safari", "original_title": "The Champagne Safari", "slug_title": "the-champagne-safari", "date": "1995-08-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUZRq3WgbnzwOexSqOm9hLOLToZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 147382, "title": "A Twist of the Wrist", "original_title": "A Twist of the Wrist", "slug_title": "a-twist-of-the-wrist", "date": "2002-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6T7rcSVMaDnZve17fIMVC3yIR2.jpg", "actors": ["Keith Code ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509232, "title": "The Swimming Club", "original_title": "The Swimming Club", "slug_title": "the-swimming-club", "date": "2016-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7YM4hLmeacfnPwwGKA1GDlbeO0.jpg", "actors": [], "comments": [], "recommandations_id": []}

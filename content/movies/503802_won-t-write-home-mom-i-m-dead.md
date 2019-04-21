@@ -1,0 +1,1 @@
+{"tmdb_id": 503802, "title": "Won't Write Home Mom, I'm Dead", "original_title": "Won't Write Home Mom, I'm Dead", "slug_title": "won-t-write-home-mom-i-m-dead", "date": "1975-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

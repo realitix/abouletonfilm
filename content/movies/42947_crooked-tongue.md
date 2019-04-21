@@ -1,0 +1,1 @@
+{"tmdb_id": 42947, "title": "Crooked Tongue", "original_title": "Crooked Tongue", "slug_title": "crooked-tongue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2J9PqLeYiI5fLw7x8AqmFDIW6y4.jpg", "actors": [], "comments": [], "recommandations_id": []}

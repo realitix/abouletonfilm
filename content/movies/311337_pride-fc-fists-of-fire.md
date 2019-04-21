@@ -1,0 +1,1 @@
+{"tmdb_id": 311337, "title": "Pride FC: Fists of Fire", "original_title": "Pride FC: Fists of Fire", "slug_title": "pride-fc-fists-of-fire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

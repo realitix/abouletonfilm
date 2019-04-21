@@ -1,0 +1,1 @@
+{"tmdb_id": 504147, "title": "Fable of the Fabrics", "original_title": "Fable of the Fabrics", "slug_title": "fable-of-the-fabrics", "date": "1942-01-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCUL2XwuO4pulITE2TFaVYyCigb.jpg", "actors": [], "comments": [], "recommandations_id": []}

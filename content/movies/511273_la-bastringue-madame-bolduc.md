@@ -1,0 +1,1 @@
+{"tmdb_id": 511273, "title": "La Bastringue Madame Bolduc", "original_title": "La Bastringue Madame Bolduc", "slug_title": "la-bastringue-madame-bolduc", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 402973, "title": "Wrestling", "original_title": "Wrestling", "slug_title": "wrestling", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

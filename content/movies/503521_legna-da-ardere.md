@@ -1,0 +1,1 @@
+{"tmdb_id": 503521, "title": "Legna da ardere", "original_title": "Legna da ardere", "slug_title": "legna-da-ardere", "date": "1969-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 455801, "title": "Gusla or the Spirits", "original_title": "Gusla or the Spirits", "slug_title": "gusla-or-the-spirits", "date": "", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLDngYNz3zPE8hcHXWTgHXctd7T.jpg", "actors": [], "comments": [], "recommandations_id": []}

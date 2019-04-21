@@ -1,0 +1,1 @@
+{"tmdb_id": 478836, "title": "The Release", "original_title": "The Release", "slug_title": "the-release", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

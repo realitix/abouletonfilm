@@ -1,0 +1,1 @@
+{"tmdb_id": 334507, "title": "The Earth is Thirsty", "original_title": "Zemlya zhazhdet", "slug_title": "the-earth-is-thirsty", "date": "1930-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Y. Agramov ()", "I. Aksyonov ()", "Kira Andronikashvili ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332261, "title": "Genesis - MTV Rockumentary", "original_title": "Genesis - MTV Rockumentary", "slug_title": "genesis-mtv-rockumentary", "date": "1992-06-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8EQzTXF1PGUbBKatSBY0V5JS6i.jpg", "actors": [], "comments": [], "recommandations_id": []}

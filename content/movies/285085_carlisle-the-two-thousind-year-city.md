@@ -1,0 +1,1 @@
+{"tmdb_id": 285085, "title": "Carlisle - The Two Thousind Year City", "original_title": "Carlisle - The Two Thousind Year City", "slug_title": "carlisle-the-two-thousind-year-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 372808, "title": "The Righteous Fist", "original_title": "The Righteous Fist", "slug_title": "the-righteous-fist", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbmxbwIkjGBVnCtUqPJEbAYiP5z.jpg", "actors": [], "comments": [], "recommandations_id": []}

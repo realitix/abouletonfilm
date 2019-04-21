@@ -1,0 +1,1 @@
+{"tmdb_id": 486122, "title": "Yumpin' Yiminy!", "original_title": "Yumpin' Yiminy!", "slug_title": "yumpin-yiminy", "date": "1941-03-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["El Brendel (Oley Brendel)"], "comments": [], "recommandations_id": []}

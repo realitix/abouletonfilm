@@ -1,0 +1,1 @@
+{"tmdb_id": 312278, "title": "The Very Best of Country Music: Goes to Europe: Vol. 2", "original_title": "The Very Best of Country Music: Goes to Europe: Vol. 2", "slug_title": "the-very-best-of-country-music-goes-to-europe-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

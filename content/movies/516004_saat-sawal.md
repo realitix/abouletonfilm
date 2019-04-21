@@ -1,0 +1,1 @@
+{"tmdb_id": 516004, "title": "Saat Sawal", "original_title": "Saat Sawal", "slug_title": "saat-sawal", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTqDyvfmieJZ1CmURlKj5EVgeNn.jpg", "actors": [], "comments": [], "recommandations_id": []}

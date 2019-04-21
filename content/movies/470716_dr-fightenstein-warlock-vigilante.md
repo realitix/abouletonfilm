@@ -1,0 +1,1 @@
+{"tmdb_id": 470716, "title": "Dr. Fightenstein: Warlock Vigilante", "original_title": "Dr. Fightenstein: Warlock Vigilante", "slug_title": "dr-fightenstein-warlock-vigilante", "date": "", "genre": "Com\u00e9die / Horreur", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

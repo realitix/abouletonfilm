@@ -1,0 +1,1 @@
+{"tmdb_id": 371144, "title": "Artikel 7 - Unser Recht!", "original_title": "Artikel 7 - Unser Recht!", "slug_title": "artikel-7-unser-recht", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

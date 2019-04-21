@@ -1,0 +1,1 @@
+{"tmdb_id": 194920, "title": "\u00c4r du d\u00e4r Lilla Charley Bj\u00f6rn?", "original_title": "\u00c4r du d\u00e4r Lilla Charley Bj\u00f6rn?", "slug_title": "ar-du-dar-lilla-charley-bjorn", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

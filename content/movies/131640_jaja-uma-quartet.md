@@ -1,0 +1,1 @@
+{"tmdb_id": 131640, "title": "Jaja uma quartet", "original_title": "Jaja uma quartet", "slug_title": "jaja-uma-quartet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

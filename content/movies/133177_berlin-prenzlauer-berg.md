@@ -1,0 +1,1 @@
+{"tmdb_id": 133177, "title": "Berlin - Prenzlauer Berg", "original_title": "Berlin - Prenzlauer Berg", "slug_title": "berlin-prenzlauer-berg", "date": "1991-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80IJh97xb3pSMGXDEoI45IvhBq2.jpg", "actors": [], "comments": [], "recommandations_id": []}

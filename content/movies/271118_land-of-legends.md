@@ -1,0 +1,1 @@
+{"tmdb_id": 271118, "title": "Land of legends", "original_title": "Land of legends", "slug_title": "land-of-legends", "date": "2010-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300653, "title": "Jake's Women", "original_title": "Jake's Women", "slug_title": "jake-s-women", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fmzFdVsSbOQF33PopTpJ8Kzwf8.jpg", "actors": ["Alan Alda ()", "Anne Archer ()", "Lolita Davidovich ()"], "comments": [], "recommandations_id": []}

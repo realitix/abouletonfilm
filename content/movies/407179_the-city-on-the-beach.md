@@ -1,0 +1,1 @@
+{"tmdb_id": 407179, "title": "The City on the Beach", "original_title": "La ciudad de la playa", "slug_title": "the-city-on-the-beach", "date": "1961-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 49118, "title": "Des majorettes dans l'espace", "original_title": "Des majorettes dans l'espace", "slug_title": "des-majorettes-dans-l-espace", "date": "1997-06-22", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFucp2neMCVcUOiNWckQZWxLHAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

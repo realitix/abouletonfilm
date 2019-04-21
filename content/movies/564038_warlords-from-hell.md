@@ -1,0 +1,1 @@
+{"tmdb_id": 564038, "title": "Warlords from Hell", "original_title": "Warlords from Hell", "slug_title": "warlords-from-hell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

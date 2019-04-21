@@ -1,0 +1,1 @@
+{"tmdb_id": 449784, "title": "Killing Game", "original_title": "Killingge-im", "slug_title": "killing-game", "date": "1996-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3egnVOMQwvlhxHa414FO1L9rjy.jpg", "actors": ["Kwang-su Lee ()", "Kim Gwang-Su ()", "Cha Ryong ()"], "comments": [], "recommandations_id": []}

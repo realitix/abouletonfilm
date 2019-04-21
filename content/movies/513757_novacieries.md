@@ -1,0 +1,1 @@
+{"tmdb_id": 513757, "title": "Novaci\u00e9ries", "original_title": "Novaci\u00e9ries", "slug_title": "novacieries", "date": "2015-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

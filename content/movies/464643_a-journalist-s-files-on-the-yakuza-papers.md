@@ -1,0 +1,1 @@
+{"tmdb_id": 464643, "title": "A Journalist's Files on The Yakuza Papers", "original_title": "A Journalist's Files on The Yakuza Papers", "slug_title": "a-journalist-s-files-on-the-yakuza-papers", "date": "2017-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556973, "title": "The Dressmaker of Luneville", "original_title": "La couturi\u00e8re de Lun\u00e9ville", "slug_title": "the-dressmaker-of-luneville", "date": "1932-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

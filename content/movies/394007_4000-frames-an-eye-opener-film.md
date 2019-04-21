@@ -1,0 +1,1 @@
+{"tmdb_id": 394007, "title": "4000 Frames, An Eye-Opener Film", "original_title": "4000 Frames, An Eye-Opener Film", "slug_title": "4000-frames-an-eye-opener-film", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

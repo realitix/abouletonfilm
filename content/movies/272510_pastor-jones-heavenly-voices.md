@@ -1,0 +1,1 @@
+{"tmdb_id": 272510, "title": "Pastor Jones: Heavenly Voices", "original_title": "Pastor Jones: Heavenly Voices", "slug_title": "pastor-jones-heavenly-voices", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

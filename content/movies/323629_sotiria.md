@@ -1,0 +1,1 @@
+{"tmdb_id": 323629, "title": "Sotiria", "original_title": "Sotiria", "slug_title": "sotiria", "date": "2011-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

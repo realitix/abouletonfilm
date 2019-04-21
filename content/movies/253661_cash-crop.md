@@ -1,0 +1,1 @@
+{"tmdb_id": 253661, "title": "Cash Crop", "original_title": "Cash Crop", "slug_title": "cash-crop", "date": "2010-10-02", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYeQ8NTo4cxxymgcTEYPrEtvKTW.jpg", "actors": [], "comments": [], "recommandations_id": []}

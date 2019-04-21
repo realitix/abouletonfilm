@@ -1,0 +1,1 @@
+{"tmdb_id": 335299, "title": "No Princ\u00edpio Era o Verbo", "original_title": "No Princ\u00edpio Era o Verbo", "slug_title": "no-principio-era-o-verbo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

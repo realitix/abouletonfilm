@@ -1,0 +1,1 @@
+{"tmdb_id": 483108, "title": "Pardon My Terror", "original_title": "Pardon My Terror", "slug_title": "pardon-my-terror", "date": "1946-09-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gus Schilling (Gus)", "Richard Lane (Dick)", "Christine McIntyre (Alice Morton)"], "comments": [], "recommandations_id": []}

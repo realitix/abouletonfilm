@@ -1,0 +1,1 @@
+{"tmdb_id": 542376, "title": "Luminous Shadow", "original_title": "Sombra luminosa", "slug_title": "luminous-shadow", "date": "2018-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbJo14jkN6GkN6kaNkS5K1xHHTg.jpg", "actors": [], "comments": [], "recommandations_id": []}

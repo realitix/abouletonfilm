@@ -1,0 +1,1 @@
+{"tmdb_id": 441666, "title": "Battle of Brains", "original_title": "Battle of Brains", "slug_title": "battle-of-brains", "date": "1941-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lorne Greene (Narrator (voice))", "Adolf Hitler (Himself (archive footage))"], "comments": [], "recommandations_id": []}

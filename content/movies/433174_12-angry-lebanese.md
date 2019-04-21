@@ -1,0 +1,1 @@
+{"tmdb_id": 433174, "title": "12 Angry Lebanese", "original_title": "12 Angry Lebanese", "slug_title": "12-angry-lebanese", "date": "2009-12-04", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7A08dP3AOe0b9joSurefZZg9qa4.jpg", "actors": ["Zeina Daccache (Herself)"], "comments": [], "recommandations_id": []}

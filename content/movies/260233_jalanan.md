@@ -1,0 +1,1 @@
+{"tmdb_id": 260233, "title": "Jalanan", "original_title": "Jalanan", "slug_title": "jalanan", "date": "2013-08-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vaQN9oYbmjgAh9hOFsB5gKfV75Q.jpg", "actors": ["Titi Juwariyah ()"], "comments": [], "recommandations_id": []}

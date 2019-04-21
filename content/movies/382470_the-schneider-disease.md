@@ -1,0 +1,1 @@
+{"tmdb_id": 382470, "title": "The Schneider Disease", "original_title": "The Schneider Disease", "slug_title": "the-schneider-disease", "date": "2008-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

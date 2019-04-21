@@ -1,0 +1,1 @@
+{"tmdb_id": 379302, "title": "Female Sensibility", "original_title": "Female Sensibility", "slug_title": "female-sensibility", "date": "1973-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561321, "title": "Boukyou", "original_title": "Boukyou", "slug_title": "boukyou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Atsushi Ito (Hamasaki Yohei)", "Gaku Hamada (Kurosaki Hirotaka)", "Ryoko Hirosue (Tomita Misato)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 295275, "title": "Tokai (street cleaner)", "original_title": "Tokai (street cleaner)", "slug_title": "tokai-street-cleaner", "date": "", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1I0GhPkNLsZrdVOJxkYawseG09.jpg", "actors": [], "comments": [], "recommandations_id": []}

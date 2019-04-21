@@ -1,0 +1,1 @@
+{"tmdb_id": 342982, "title": "The Nightshirt Bandit", "original_title": "The Nightshirt Bandit", "slug_title": "the-nightshirt-bandit", "date": "1938-10-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Professor Chase)"], "comments": [], "recommandations_id": []}

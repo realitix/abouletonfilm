@@ -1,0 +1,1 @@
+{"tmdb_id": 219464, "title": "What Ho, She Bumps", "original_title": "What Ho, She Bumps", "slug_title": "what-ho-she-bumps", "date": "1937-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491965, "title": "The Dance of Life", "original_title": "The Dance of Life", "slug_title": "the-dance-of-life", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

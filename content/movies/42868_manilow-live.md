@@ -1,0 +1,1 @@
+{"tmdb_id": 42868, "title": "Manilow Live!", "original_title": "Manilow Live!", "slug_title": "manilow-live", "date": "2000-09-26", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zS46uubxpY8eFRiHTmMRxMMqaJ.jpg", "actors": ["Barry Manilow (Vocals)"], "comments": [], "recommandations_id": []}

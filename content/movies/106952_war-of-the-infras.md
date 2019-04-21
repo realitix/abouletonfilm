@@ -1,0 +1,1 @@
+{"tmdb_id": 106952, "title": "War of the Infras", "original_title": "Shan Dian Qi Shi Da Zhan Di Yu Jun Tuan", "slug_title": "war-of-the-infras", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rDb9oLyNPYZzNoxiqLRSK1nyN3z.jpg", "actors": [], "comments": [], "recommandations_id": []}

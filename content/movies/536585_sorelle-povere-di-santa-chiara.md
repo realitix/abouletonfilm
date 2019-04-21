@@ -1,0 +1,1 @@
+{"tmdb_id": 536585, "title": "Sorelle Povere di Santa Chiara", "original_title": "Sorelle Povere di Santa Chiara", "slug_title": "sorelle-povere-di-santa-chiara", "date": "2016-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QgNDBkusAhdIrtGuSlKTm1BFlM.jpg", "actors": [], "comments": [], "recommandations_id": []}

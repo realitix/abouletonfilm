@@ -1,0 +1,1 @@
+{"tmdb_id": 586090, "title": "2019 DTS Demo Disc Vol.23", "original_title": "2019 DTS Demo Disc Vol.23", "slug_title": "2019-dts-demo-disc-vol-23", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bsMGwjq47MB7FsD5SCOsd2BjLvp.jpg", "actors": [], "comments": [], "recommandations_id": []}

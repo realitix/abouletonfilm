@@ -1,0 +1,1 @@
+{"tmdb_id": 423026, "title": "\u0160auj man\u0101 viet\u0101", "original_title": "\u0160auj man\u0101 viet\u0101", "slug_title": "sauj-mana-vieta", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

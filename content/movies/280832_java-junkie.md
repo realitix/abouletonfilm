@@ -1,0 +1,1 @@
+{"tmdb_id": 280832, "title": "Java Junkie", "original_title": "Java Junkie", "slug_title": "java-junkie", "date": "1979-03-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Aykroyd (Joe)", "Teri Garr (Waitress)", "Patty Oja ('Come have a cup of coffee Joey' woman)"], "comments": [], "recommandations_id": []}

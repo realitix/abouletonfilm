@@ -1,0 +1,1 @@
+{"tmdb_id": 545915, "title": "Stray Dogz 7", "original_title": "\u95c7\u91d1\u30c9\u30c3\u30b0\u30b97", "slug_title": "stray-dogz-7", "date": "2017-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cyXIiiWdQqUF4TXXqJHO95zqwQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

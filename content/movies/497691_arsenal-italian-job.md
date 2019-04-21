@@ -1,0 +1,1 @@
+{"tmdb_id": 497691, "title": "Arsenal - Italian Job", "original_title": "Arsenal - Italian Job", "slug_title": "arsenal-italian-job", "date": "2004-06-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ars\u00e8ne Wenger ()", "Thierry Henry ()", "Robert Pir\u00e8s ()"], "comments": [], "recommandations_id": []}

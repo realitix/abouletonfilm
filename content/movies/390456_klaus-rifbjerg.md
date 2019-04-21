@@ -1,0 +1,1 @@
+{"tmdb_id": 390456, "title": "Klaus Rifbjerg", "original_title": "Klaus Rifbjerg", "slug_title": "klaus-rifbjerg", "date": "1974-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m7ACD7yxbERBCHGCrYftqRd2Fpv.jpg", "actors": ["Klaus Rifbjerg (Himself)"], "comments": [], "recommandations_id": []}

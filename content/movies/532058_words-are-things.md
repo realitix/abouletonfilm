@@ -1,0 +1,1 @@
+{"tmdb_id": 532058, "title": "Words Are Things", "original_title": "Words Are Things", "slug_title": "words-are-things", "date": "2018-06-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50PwIHVIFRN2p33qbjG1xieKS2A.jpg", "actors": ["Maya Angelou (Narrator (voice))"], "comments": [], "recommandations_id": []}

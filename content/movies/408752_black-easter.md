@@ -1,0 +1,1 @@
+{"tmdb_id": 408752, "title": "Black Easter", "original_title": "Black Easter", "slug_title": "black-easter", "date": "1995-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Trevor Eve (Fischer)", "Shaun Dingwall (Schuster)", "Bruce Myers (Dix)", "Murray Ewan (Mann)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 437780, "title": "The Confessions of a Woman", "original_title": "Le confessioni di una donna", "slug_title": "the-confessions-of-a-woman", "date": "1928-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

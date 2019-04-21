@@ -1,0 +1,1 @@
+{"tmdb_id": 445275, "title": "Take Measure", "original_title": "Take Measure", "slug_title": "take-measure", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 395287, "title": "Coroner: [2015] Santiago, Chile", "original_title": "Coroner: [2015] Santiago, Chile", "slug_title": "coroner-2015-santiago-chile", "date": "2015-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXIPCawnIYoMkdEm4WRrTkLAKUW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 582439, "title": "The Way Steel Was Tempered", "original_title": "Tako se kalio celik", "slug_title": "the-way-steel-was-tempered", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kcsJUcF6k8oISgUnHqsdRWl55JU.jpg", "actors": [], "comments": [], "recommandations_id": []}

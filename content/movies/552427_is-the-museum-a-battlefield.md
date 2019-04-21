@@ -1,0 +1,1 @@
+{"tmdb_id": 552427, "title": "Is the Museum a Battlefield?", "original_title": "Is the Museum a Battlefield?", "slug_title": "is-the-museum-a-battlefield", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

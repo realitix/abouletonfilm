@@ -1,0 +1,1 @@
+{"tmdb_id": 236096, "title": "Sock-a-Bye Kitty", "original_title": "Sock-a-Bye Kitty", "slug_title": "sock-a-bye-kitty", "date": "1950-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

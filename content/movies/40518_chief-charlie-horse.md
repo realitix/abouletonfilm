@@ -1,0 +1,1 @@
+{"tmdb_id": 40518, "title": "Chief Charlie Horse", "original_title": "Chief Charlie Horse", "slug_title": "chief-charlie-horse", "date": "1956-05-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNOCXyOVCbauRCnppKD4FN39WxM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 518724, "title": "Poop: The Movie", "original_title": "Poop: The Movie", "slug_title": "poop-the-movie", "date": "2015-04-04", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Mtbo1yVSMGpCFvTadMlttoRS5I.jpg", "actors": [], "comments": [], "recommandations_id": []}

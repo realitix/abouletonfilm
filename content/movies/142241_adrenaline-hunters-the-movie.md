@@ -1,0 +1,1 @@
+{"tmdb_id": 142241, "title": "Adrenaline Hunters: The Movie", "original_title": "Adrenaline Hunters: The Movie", "slug_title": "adrenaline-hunters-the-movie", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Adrenaline Hunters (Themselves)"], "comments": [], "recommandations_id": []}

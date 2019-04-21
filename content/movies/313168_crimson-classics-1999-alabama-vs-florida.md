@@ -1,0 +1,1 @@
+{"tmdb_id": 313168, "title": "Crimson Classics: 1999 Alabama vs. Florida", "original_title": "Crimson Classics: 1999 Alabama vs. Florida", "slug_title": "crimson-classics-1999-alabama-vs-florida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

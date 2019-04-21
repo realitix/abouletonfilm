@@ -1,0 +1,1 @@
+{"tmdb_id": 202028, "title": "I Can't Escape from You", "original_title": "I Can't Escape from You", "slug_title": "i-can-t-escape-from-you", "date": "1936-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

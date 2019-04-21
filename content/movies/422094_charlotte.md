@@ -1,0 +1,1 @@
+{"tmdb_id": 422094, "title": "Charlotte", "original_title": "Charlotte", "slug_title": "charlotte", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4WpHYUwSMF12UUlzIwbBuYJbIJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

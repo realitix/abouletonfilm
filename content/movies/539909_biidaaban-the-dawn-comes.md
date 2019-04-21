@@ -1,0 +1,1 @@
+{"tmdb_id": 539909, "title": "Biidaaban (The Dawn Comes)", "original_title": "Biidaaban (The Dawn Comes)", "slug_title": "biidaaban-the-dawn-comes", "date": "2018-09-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AVxILAjA8PLPxlhBMg5oafwn6n.jpg", "actors": [], "comments": [], "recommandations_id": []}

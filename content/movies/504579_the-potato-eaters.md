@@ -1,0 +1,1 @@
+{"tmdb_id": 504579, "title": "The Potato Eaters", "original_title": "The Potato Eaters", "slug_title": "the-potato-eaters", "date": "2016-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bauyrhzan Nurtaiuly ()", "Zhenis Saidigani ()"], "comments": [], "recommandations_id": []}

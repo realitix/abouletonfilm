@@ -1,0 +1,1 @@
+{"tmdb_id": 256028, "title": "Entre el dictador y yo", "original_title": "Entre el dictador y yo", "slug_title": "entre-el-dictador-y-yo", "date": "2006-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

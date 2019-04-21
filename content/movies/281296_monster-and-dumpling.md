@@ -1,0 +1,1 @@
+{"tmdb_id": 281296, "title": "Monster and Dumpling", "original_title": "Monster and Dumpling", "slug_title": "monster-and-dumpling", "date": "2011-05-25", "genre": "Animation / Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYii2ZSWoRhkG6RkRRvCjs9q3gi.jpg", "actors": [], "comments": [], "recommandations_id": []}

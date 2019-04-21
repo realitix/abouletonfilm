@@ -1,0 +1,1 @@
+{"tmdb_id": 391848, "title": "God Rocks! Bibletoons: Rock-A-Bye Christmas", "original_title": "God Rocks! Bibletoons: Rock-A-Bye Christmas", "slug_title": "god-rocks-bibletoons-rock-a-bye-christmas", "date": "2006-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

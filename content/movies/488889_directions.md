@@ -1,0 +1,1 @@
+{"tmdb_id": 488889, "title": "Directions", "original_title": "Directions", "slug_title": "directions", "date": "2008-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gregory Muller (Our Man)", "Vivienne Benton (Mother)", "Lezleigh Green (Homeless Man)", "Peggy O'Shea (Old Lady)"], "comments": [], "recommandations_id": []}

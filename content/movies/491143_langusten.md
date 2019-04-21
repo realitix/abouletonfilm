@@ -1,0 +1,1 @@
+{"tmdb_id": 491143, "title": "Langusten", "original_title": "Langusten", "slug_title": "langusten", "date": "1989-12-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agnes Fink (Maria Bornemann)", "Hannes Messemer (Ernst)"], "comments": [], "recommandations_id": []}

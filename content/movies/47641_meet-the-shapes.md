@@ -1,0 +1,1 @@
+{"tmdb_id": 47641, "title": "Meet the Shapes", "original_title": "Meet the Shapes", "slug_title": "meet-the-shapes", "date": "2005-12-13", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZAsNElO0QDida9dOUAYritvKk6.jpg", "actors": [], "comments": [], "recommandations_id": []}

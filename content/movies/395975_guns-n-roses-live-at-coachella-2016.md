@@ -1,0 +1,1 @@
+{"tmdb_id": 395975, "title": "Guns N' Roses Live at Coachella 2016", "original_title": "Guns N' Roses Live at Coachella 2016", "slug_title": "guns-n-roses-live-at-coachella-2016", "date": "2016-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

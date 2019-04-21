@@ -1,0 +1,1 @@
+{"tmdb_id": 493529, "title": "Dungeons & Dragons", "original_title": "Dungeons & Dragons", "slug_title": "dungeons-dragons", "date": "2021-07-21", "genre": "Fantastique / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6o5m3UQBnHt4gYYnCrT8hTH9j1C.jpg", "actors": ["Ansel Elgort ()"], "comments": [], "recommandations_id": []}

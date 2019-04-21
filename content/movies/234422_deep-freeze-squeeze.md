@@ -1,0 +1,1 @@
+{"tmdb_id": 234422, "title": "Deep Freeze Squeeze", "original_title": "Deep Freeze Squeeze", "slug_title": "deep-freeze-squeeze", "date": "1964-03-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJnMP6lweSHX4J0oTrWqWG9O8BX.jpg", "actors": [], "comments": [], "recommandations_id": []}

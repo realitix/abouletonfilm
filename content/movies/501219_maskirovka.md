@@ -1,0 +1,1 @@
+{"tmdb_id": 501219, "title": "Maskirovka", "original_title": "Maskirovka", "slug_title": "maskirovka", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

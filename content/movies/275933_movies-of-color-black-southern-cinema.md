@@ -1,0 +1,1 @@
+{"tmdb_id": 275933, "title": "Movies of Color: Black Southern Cinema", "original_title": "Movies of Color: Black Southern Cinema", "slug_title": "movies-of-color-black-southern-cinema", "date": "2003-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

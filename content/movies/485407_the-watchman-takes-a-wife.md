@@ -1,0 +1,1 @@
+{"tmdb_id": 485407, "title": "The Watchman Takes a Wife", "original_title": "The Watchman Takes a Wife", "slug_title": "the-watchman-takes-a-wife", "date": "1941-01-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

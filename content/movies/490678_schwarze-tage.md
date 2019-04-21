@@ -1,0 +1,1 @@
+{"tmdb_id": 490678, "title": "Schwarze Tage", "original_title": "Schwarze Tage", "slug_title": "schwarze-tage", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michaela Merten (Beatrice)", "Bernhard Schir (Daniel)", "Michaela Rosen (Nora)", "Lotte Ledl ()"], "comments": [], "recommandations_id": []}

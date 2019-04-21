@@ -1,0 +1,1 @@
+{"tmdb_id": 482183, "title": "Eine Begegnung mit Marcel Reich-Ranicki", "original_title": "Eine Begegnung mit Marcel Reich-Ranicki", "slug_title": "eine-begegnung-mit-marcel-reich-ranicki", "date": "2009-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

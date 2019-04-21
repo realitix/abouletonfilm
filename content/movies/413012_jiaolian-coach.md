@@ -1,0 +1,1 @@
+{"tmdb_id": 413012, "title": "Ji\u00e0oli\u00e0n [Coach]", "original_title": "Ji\u00e0oli\u00e0n [Coach]", "slug_title": "jiaolian-coach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

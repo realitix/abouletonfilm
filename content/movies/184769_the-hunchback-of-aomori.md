@@ -1,0 +1,1 @@
+{"tmdb_id": 184769, "title": "The Hunchback of Aomori", "original_title": "Aomori ken no semushi otoko", "slug_title": "the-hunchback-of-aomori", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iZAv9b991JibFV0tWUwBvU3Iwzu.jpg", "actors": [], "comments": [], "recommandations_id": []}

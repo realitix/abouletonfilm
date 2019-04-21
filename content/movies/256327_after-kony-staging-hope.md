@@ -1,0 +1,1 @@
+{"tmdb_id": 256327, "title": "After Kony: Staging Hope", "original_title": "After Kony: Staging Hope", "slug_title": "after-kony-staging-hope", "date": "2011-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

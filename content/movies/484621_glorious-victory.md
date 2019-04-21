@@ -1,0 +1,1 @@
+{"tmdb_id": 484621, "title": "Glorious Victory", "original_title": "Glorious Victory", "slug_title": "glorious-victory", "date": "2017-04-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581101, "title": "\u9e7f\u6e2f\u60c5\u6df1", "original_title": "\u9e7f\u6e2f\u60c5\u6df1", "slug_title": "lu-gang-qing-shen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

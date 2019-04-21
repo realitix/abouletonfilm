@@ -1,0 +1,1 @@
+{"tmdb_id": 472134, "title": "Farewell", "original_title": "Pahimakas", "slug_title": "farewell", "date": "2017-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fohbjncBtpbk3DDW75Ppw6WGJFB.jpg", "actors": ["Diva Licel Sipalay ()", "Editha Cabiles-Remo ()"], "comments": [], "recommandations_id": []}

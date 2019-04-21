@@ -1,0 +1,1 @@
+{"tmdb_id": 389632, "title": "Lessons in the Language of Love", "original_title": "Lessons in the Language of Love", "slug_title": "lessons-in-the-language-of-love", "date": "1995-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

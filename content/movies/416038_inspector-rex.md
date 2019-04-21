@@ -1,0 +1,1 @@
+{"tmdb_id": 416038, "title": "Inspector Rex", "original_title": "Inspector Rex", "slug_title": "inspector-rex", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roberto Caccioppoli (Alessandro)"], "comments": [], "recommandations_id": []}

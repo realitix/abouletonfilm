@@ -1,0 +1,1 @@
+{"tmdb_id": 349606, "title": "\ubc14\ub78c\ud0c0\ub294 \ub0a8\uc790", "original_title": "\ubc14\ub78c\ud0c0\ub294 \ub0a8\uc790", "slug_title": "baramtaneun-namja", "date": "1983-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

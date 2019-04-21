@@ -1,0 +1,1 @@
+{"tmdb_id": 400309, "title": "His Master's Voice", "original_title": "His Master's Voice", "slug_title": "his-master-s-voice", "date": "2018-12-20", "genre": "Science-Fiction / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/phfe2D30ueVbp1D9c24AWSEDEG8.jpg", "actors": [], "comments": [], "recommandations_id": []}

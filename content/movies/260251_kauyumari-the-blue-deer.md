@@ -1,0 +1,1 @@
+{"tmdb_id": 260251, "title": "Kauyumari, The Blue Deer", "original_title": "Kauyumari el Venado Azul", "slug_title": "kauyumari-the-blue-deer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLTmgtLWRzuml9SrnTTUcAOtPqd.jpg", "actors": [], "comments": [], "recommandations_id": []}

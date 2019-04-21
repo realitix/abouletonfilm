@@ -1,0 +1,1 @@
+{"tmdb_id": 215595, "title": "Dadascope", "original_title": "Dadascope", "slug_title": "dadascope", "date": "1961-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOwxjxlHDSQLy5zoPGi707c5jCV.jpg", "actors": [], "comments": [], "recommandations_id": []}

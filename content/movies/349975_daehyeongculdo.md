@@ -1,0 +1,1 @@
+{"tmdb_id": 349975, "title": "\ub300\ud615\ucd9c\ub3c4", "original_title": "\ub300\ud615\ucd9c\ub3c4", "slug_title": "daehyeongculdo", "date": "1981-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

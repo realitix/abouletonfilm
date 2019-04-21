@@ -1,0 +1,1 @@
+{"tmdb_id": 236970, "title": "The Flying Bear", "original_title": "The Flying Bear", "slug_title": "the-flying-bear", "date": "1941-11-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AikUhaF8uFaeJ2S7xgE5dSvPGZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

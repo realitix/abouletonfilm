@@ -1,0 +1,1 @@
+{"tmdb_id": 463603, "title": "Skins Shorts: Effy", "original_title": "Skins Shorts: Effy", "slug_title": "skins-shorts-effy", "date": "2010-02-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecFCW0EInUe8CWT3tqSxWhUSS0u.jpg", "actors": ["Kaya Scodelario (Effy Stonem)"], "comments": [], "recommandations_id": []}

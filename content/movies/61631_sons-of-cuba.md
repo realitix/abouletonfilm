@@ -1,0 +1,1 @@
+{"tmdb_id": 61631, "title": "Sons of Cuba", "original_title": "Sons of Cuba", "slug_title": "sons-of-cuba", "date": "2009-01-01", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imQ5wra01NWN4oGDJXoVbmtDAxD.jpg", "actors": [], "comments": [], "recommandations_id": []}

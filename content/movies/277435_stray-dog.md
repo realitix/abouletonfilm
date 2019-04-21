@@ -1,0 +1,1 @@
+{"tmdb_id": 277435, "title": "Stray Dog", "original_title": "Stray Dog", "slug_title": "stray-dog", "date": "2014-06-13", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x93Gfjam9zKHJbu7tqBiqbWhKYi.jpg", "actors": ["Ronnie Hall (Himself)"], "comments": [], "recommandations_id": []}

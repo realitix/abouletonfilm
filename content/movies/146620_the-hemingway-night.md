@@ -1,0 +1,1 @@
+{"tmdb_id": 146620, "title": "The Hemingway Night", "original_title": "The Hemingway Night", "slug_title": "the-hemingway-night", "date": "2009-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jan Johnson (Leon)", "David Nordstrom (Terry)"], "comments": [], "recommandations_id": []}

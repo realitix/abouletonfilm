@@ -1,0 +1,1 @@
+{"tmdb_id": 397818, "title": "WHY CARS?-CARnage!", "original_title": "WHY CARS?-CARnage!", "slug_title": "why-cars-carnage", "date": "1979-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/43pFk3atuX813PwSAaLdqBt6dsP.jpg", "actors": [], "comments": [], "recommandations_id": []}

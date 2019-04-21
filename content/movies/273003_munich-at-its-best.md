@@ -1,0 +1,1 @@
+{"tmdb_id": 273003, "title": "Munich: At Its Best", "original_title": "Munich: At Its Best", "slug_title": "munich-at-its-best", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

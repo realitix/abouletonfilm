@@ -1,0 +1,1 @@
+{"tmdb_id": 298837, "title": "American Biker", "original_title": "American Biker", "slug_title": "american-biker", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 560966, "title": "Libertos - O Pre\u00e7o da Vida", "original_title": "Libertos - O Pre\u00e7o da Vida", "slug_title": "libertos-o-preco-da-vida", "date": "2018-11-11", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWyThskP5aSpQqHyGXPlBGQnsF3.jpg", "actors": [], "comments": [], "recommandations_id": []}

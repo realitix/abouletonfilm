@@ -1,0 +1,1 @@
+{"tmdb_id": 303703, "title": "Amiri's Child", "original_title": "Amiri's Child", "slug_title": "amiri-s-child", "date": "2014-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7sMEhyIiShjD7TCWVqX612qpGgK.jpg", "actors": ["Warren Philp (Lamonge)", "Michael Hollis (Amiri)"], "comments": [], "recommandations_id": []}

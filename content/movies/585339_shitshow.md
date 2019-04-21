@@ -1,0 +1,1 @@
+{"tmdb_id": 585339, "title": "Shitshow", "original_title": "Shitshow", "slug_title": "shitshow", "date": "2018-06-21", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xcdVjoahqXVXsuowEn8z3UlvAoY.jpg", "actors": ["Zach Hill (Zach Hill)"], "comments": [], "recommandations_id": []}

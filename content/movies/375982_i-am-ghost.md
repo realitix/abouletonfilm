@@ -1,0 +1,1 @@
+{"tmdb_id": 375982, "title": "I am GHOST", "original_title": "\uc544\uc774 \uc570 \uace0\uc2a4\ud2b8", "slug_title": "i-am-ghost", "date": "2009-10-20", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GB8DAN6VBYy7gPDaPeBdZbgoGf.jpg", "actors": [], "comments": [], "recommandations_id": []}

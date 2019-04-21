@@ -1,0 +1,1 @@
+{"tmdb_id": 185720, "title": "Samoure", "original_title": "Samoure", "slug_title": "samoure", "date": "2005-11-27", "genre": "Drame", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4eHZ7DnAGwDZNeytrWPI6EsD0qe.jpg", "actors": [], "comments": [], "recommandations_id": []}

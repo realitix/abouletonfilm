@@ -1,0 +1,1 @@
+{"tmdb_id": 476717, "title": "Tr\u00eas Semanas Em Dezembro", "original_title": "Tr\u00eas Semanas Em Dezembro", "slug_title": "tres-semanas-em-dezembro", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

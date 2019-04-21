@@ -1,0 +1,1 @@
+{"tmdb_id": 334824, "title": "Writer in Residence", "original_title": "Writer in Residence", "slug_title": "writer-in-residence", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

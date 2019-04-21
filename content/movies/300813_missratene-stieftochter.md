@@ -1,0 +1,1 @@
+{"tmdb_id": 300813, "title": "Missratene Stieft\u00f6chter", "original_title": "Missratene Stieft\u00f6chter", "slug_title": "missratene-stieftochter", "date": "2004-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7yZHLEZ71dZqdEe2HhEQh39lQ3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

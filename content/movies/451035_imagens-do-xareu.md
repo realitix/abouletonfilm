@@ -1,0 +1,1 @@
+{"tmdb_id": 451035, "title": "Imagens do Xar\u00e9u", "original_title": "Imagens do Xar\u00e9u", "slug_title": "imagens-do-xareu", "date": "2007-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lma6kTPTlkY1C315qClcV0EJgts.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278516, "title": "Avatars Offline", "original_title": "Avatars Offline", "slug_title": "avatars-offline", "date": "2002-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHwoF8ipjvgQq0YJsmrb4i72m4u.jpg", "actors": [], "comments": [], "recommandations_id": []}

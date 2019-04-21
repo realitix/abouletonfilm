@@ -1,0 +1,1 @@
+{"tmdb_id": 498623, "title": "\u5927\u602a\u7378\u53f0\u7063\u4e0a\u9678", "original_title": "\u5927\u602a\u7378\u53f0\u7063\u4e0a\u9678", "slug_title": "da-guai-shou-tai-wan-shang-lu", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

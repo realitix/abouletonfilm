@@ -1,0 +1,1 @@
+{"tmdb_id": 511610, "title": "Bir A\u015fk U\u011fruna", "original_title": "Bir A\u015fk U\u011fruna", "slug_title": "bir-ask-ugruna", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 524070, "title": "Hockey: The Lighter Side", "original_title": "Hockey: The Lighter Side", "slug_title": "hockey-the-lighter-side", "date": "1992-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

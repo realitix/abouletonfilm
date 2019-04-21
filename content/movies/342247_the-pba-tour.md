@@ -1,0 +1,1 @@
+{"tmdb_id": 342247, "title": "The PBA Tour", "original_title": "The PBA Tour", "slug_title": "the-pba-tour", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wHE6bDb1ZWblBhwIuhMMHxU302e.jpg", "actors": [], "comments": [], "recommandations_id": []}

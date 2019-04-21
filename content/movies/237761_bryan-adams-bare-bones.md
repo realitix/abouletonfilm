@@ -1,0 +1,1 @@
+{"tmdb_id": 237761, "title": "Bryan Adams: Bare Bones", "original_title": "Bryan Adams: Bare Bones", "slug_title": "bryan-adams-bare-bones", "date": "2010-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

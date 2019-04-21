@@ -1,0 +1,1 @@
+{"tmdb_id": 418497, "title": "Farewell", "original_title": "\uc791\ubcc4\ub4e4", "slug_title": "farewell", "date": "2013-05-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pgQK2fwUWgVsuG9HdgiuACRUuwr.jpg", "actors": ["Joo Da-young (Myung-hee)", "Lee Ju-seung (Yong-kyu)"], "comments": [], "recommandations_id": []}

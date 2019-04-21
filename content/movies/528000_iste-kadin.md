@@ -1,0 +1,1 @@
+{"tmdb_id": 528000, "title": "\u0130\u015fte Kad\u0131n", "original_title": "\u0130\u015fte Kad\u0131n", "slug_title": "iste-kadin", "date": "1988-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/53Qsp2PF4M0kKVWCraabqu8Bt3f.jpg", "actors": ["Serpil \u00c7akmakl\u0131 ()"], "comments": [], "recommandations_id": []}

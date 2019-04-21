@@ -1,0 +1,1 @@
+{"tmdb_id": 549972, "title": "The Value Of Teamwork", "original_title": "The Value Of Teamwork", "slug_title": "the-value-of-teamwork", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

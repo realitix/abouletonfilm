@@ -1,0 +1,1 @@
+{"tmdb_id": 135499, "title": "Anne Clark: Live", "original_title": "Anne Clark: Live", "slug_title": "anne-clark-live", "date": "2009-08-14", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4k0FiaTMXzjrodVoBURHU0laT5g.jpg", "actors": ["Anne Clark (herself)"], "comments": [], "recommandations_id": []}

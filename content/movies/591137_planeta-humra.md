@@ -1,0 +1,1 @@
+{"tmdb_id": 591137, "title": "Planeta Humra", "original_title": "Planeta Humra", "slug_title": "planeta-humra", "date": "2019-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cD3oTI7tYoTF3kKXI8Y8gDl8Q5M.jpg", "actors": [], "comments": [], "recommandations_id": []}

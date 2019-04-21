@@ -1,0 +1,1 @@
+{"tmdb_id": 232164, "title": "Lathrop School, Calisthenics, Missouri Commission", "original_title": "Lathrop School, Calisthenics, Missouri Commission", "slug_title": "lathrop-school-calisthenics-missouri-commission", "date": "1904-05-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

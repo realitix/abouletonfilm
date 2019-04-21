@@ -1,0 +1,1 @@
+{"tmdb_id": 342850, "title": "The Prince of Chess", "original_title": "The Prince of Chess", "slug_title": "the-prince-of-chess", "date": "2005-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

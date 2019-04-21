@@ -1,0 +1,1 @@
+{"tmdb_id": 518417, "title": "A Kind of Family", "original_title": "A Kind of Family", "slug_title": "a-kind-of-family", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

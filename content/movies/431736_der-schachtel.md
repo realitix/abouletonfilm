@@ -1,0 +1,1 @@
+{"tmdb_id": 431736, "title": "Der Schachtel", "original_title": "Der Schachtel", "slug_title": "der-schachtel", "date": "1968-01-01", "genre": "Musique / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 174911, "title": "Les Aventures des Pieds-Nickel\u00e9s", "original_title": "Les Aventures des Pieds-Nickel\u00e9s", "slug_title": "les-aventures-des-pieds-nickeles", "date": "1918-03-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

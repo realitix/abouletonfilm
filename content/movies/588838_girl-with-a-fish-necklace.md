@@ -1,0 +1,1 @@
+{"tmdb_id": 588838, "title": "Girl with a Fish Necklace", "original_title": "Nieiddas ja guollecikna", "slug_title": "girl-with-a-fish-necklace", "date": "2017-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539902, "title": "Le chant du destin", "original_title": "Le chant du destin", "slug_title": "le-chant-du-destin", "date": "1936-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

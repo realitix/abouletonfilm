@@ -1,0 +1,1 @@
+{"tmdb_id": 112301, "title": "When It Was a Game 2", "original_title": "When It Was a Game 2", "slug_title": "when-it-was-a-game-2", "date": "1992-01-01", "genre": "Documentaire / Histoire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5IQGt3pS2QIX6w1pTciDuD891Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

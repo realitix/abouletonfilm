@@ -1,0 +1,1 @@
+{"tmdb_id": 335654, "title": "Gun Porn", "original_title": "Gun Porn", "slug_title": "gun-porn", "date": "2013-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334149, "title": "Mrs. Bua's Carpet", "original_title": "Mrs. Bua's Carpet", "slug_title": "mrs-bua-s-carpet", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

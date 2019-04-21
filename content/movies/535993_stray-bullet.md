@@ -1,0 +1,1 @@
+{"tmdb_id": 535993, "title": "Stray Bullet", "original_title": "Stray Bullet", "slug_title": "stray-bullet", "date": "2018-07-15", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/RuKonjJ2VcyAw9rAkBFqYvBUqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

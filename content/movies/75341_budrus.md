@@ -1,0 +1,1 @@
+{"tmdb_id": 75341, "title": "Budrus", "original_title": "Budrus", "slug_title": "budrus", "date": "2010-10-08", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/L84kyjU9aMq99OSbJPBTQeDzpQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

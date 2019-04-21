@@ -1,0 +1,1 @@
+{"tmdb_id": 305264, "title": "Marie Antoinette: Queen of Versailles", "original_title": "Marie Antoinette: Queen of Versailles", "slug_title": "marie-antoinette-queen-of-versailles", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

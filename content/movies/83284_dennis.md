@@ -1,0 +1,1 @@
+{"tmdb_id": 83284, "title": "Dennis", "original_title": "Dennis", "slug_title": "dennis", "date": "2007-08-23", "genre": "", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUJMUIU7R5oYzrwA4gq6VBoFMPB.jpg", "actors": ["Kim Kold (Dennis)", "Elsebeth Steentoft (Mor)"], "comments": [], "recommandations_id": [128499, 42260, 12428, 38326]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351315, "title": "Africa Squawks", "original_title": "Africa Squawks", "slug_title": "africa-squawks", "date": "1939-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

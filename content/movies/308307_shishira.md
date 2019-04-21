@@ -1,0 +1,1 @@
+{"tmdb_id": 308307, "title": "Shishira", "original_title": "Shishira", "slug_title": "shishira", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

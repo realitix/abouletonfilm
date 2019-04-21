@@ -1,0 +1,1 @@
+{"tmdb_id": 305217, "title": "Bhagyachakram", "original_title": "Bhagyachakram", "slug_title": "bhagyachakram", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

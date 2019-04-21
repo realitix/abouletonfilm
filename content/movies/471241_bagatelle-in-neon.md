@@ -1,0 +1,1 @@
+{"tmdb_id": 471241, "title": "Bagatelle in Neon", "original_title": "Bagatelle in Neon", "slug_title": "bagatelle-in-neon", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xe80SzYmeOnoVTe2HXx52vYjqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

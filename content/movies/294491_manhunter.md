@@ -1,0 +1,1 @@
+{"tmdb_id": 294491, "title": "Manhunter", "original_title": "Manhunter", "slug_title": "manhunter", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p4CtF36p4Mp533Ttx0lYdN69f7w.jpg", "actors": ["Earl Owensby ()", "Doug Hale ()"], "comments": [], "recommandations_id": []}

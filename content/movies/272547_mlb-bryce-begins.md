@@ -1,0 +1,1 @@
+{"tmdb_id": 272547, "title": "MLB Bryce Begins", "original_title": "MLB Bryce Begins", "slug_title": "mlb-bryce-begins", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

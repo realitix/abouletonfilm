@@ -1,0 +1,1 @@
+{"tmdb_id": 114395, "title": "Juvenile Court", "original_title": "Juvenile Court", "slug_title": "juvenile-court", "date": "1973-06-04", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGDh3hMREs6b22KPVrZ8ctZ1Z23.jpg", "actors": [], "comments": [], "recommandations_id": []}

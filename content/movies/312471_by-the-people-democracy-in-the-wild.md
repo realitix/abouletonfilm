@@ -1,0 +1,1 @@
+{"tmdb_id": 312471, "title": "By the People: Democracy in the Wild", "original_title": "By the People: Democracy in the Wild", "slug_title": "by-the-people-democracy-in-the-wild", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

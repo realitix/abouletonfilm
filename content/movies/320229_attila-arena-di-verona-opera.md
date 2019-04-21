@@ -1,0 +1,1 @@
+{"tmdb_id": 320229, "title": "Attila (Arena Di Verona Opera)", "original_title": "Attila (Arena Di Verona Opera)", "slug_title": "attila-arena-di-verona-opera", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 154840, "title": "Fish Meat", "original_title": "Fish Meat", "slug_title": "fish-meat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

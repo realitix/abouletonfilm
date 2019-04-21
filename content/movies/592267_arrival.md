@@ -1,0 +1,1 @@
+{"tmdb_id": 592267, "title": "Arrival", "original_title": "Arrival", "slug_title": "arrival", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Campbell (Fugax)", "Larry Miller (Fred Nickle)", "Cheri Oteri (Doreen Nickle)", "Allison Mack (Tiffany Nickle)"], "comments": [], "recommandations_id": []}

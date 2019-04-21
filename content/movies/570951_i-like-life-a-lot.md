@@ -1,0 +1,1 @@
+{"tmdb_id": 570951, "title": "I Like Life a Lot", "original_title": "Nekem az \u00e9let teccik nagyon", "slug_title": "i-like-life-a-lot", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 507944, "title": "Music is Music", "original_title": "Music is Music", "slug_title": "music-is-music", "date": "2017-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Hannigan ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236711, "title": "The Autobiography of a 'Jeep'", "original_title": "The Autobiography of a 'Jeep'", "slug_title": "the-autobiography-of-a-jeep", "date": "1943-11-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDr4IQLYh8voW9GJPHuA6UCgyE4.jpg", "actors": [], "comments": [], "recommandations_id": []}

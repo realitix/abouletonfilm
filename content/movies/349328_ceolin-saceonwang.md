@@ -1,0 +1,1 @@
+{"tmdb_id": 349328, "title": "\ucca0\uc778 \uc0ac\ucc9c\uc655", "original_title": "\ucca0\uc778 \uc0ac\ucc9c\uc655", "slug_title": "ceolin-saceonwang", "date": "1999-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

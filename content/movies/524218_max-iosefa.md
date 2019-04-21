@@ -1,0 +1,1 @@
+{"tmdb_id": 524218, "title": "Max & Iosefa", "original_title": "Max & Iosefa", "slug_title": "max-iosefa", "date": "2016-06-26", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atgT7aFPfsp7ijlb2MZHYRERsCb.jpg", "actors": ["Jacob Elordi (Max)", "Gerick Thomsen (Iosefa)"], "comments": [], "recommandations_id": []}

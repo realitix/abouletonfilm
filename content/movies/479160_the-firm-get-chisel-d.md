@@ -1,0 +1,1 @@
+{"tmdb_id": 479160, "title": "The Firm: get chisel'd", "original_title": "The Firm: get chisel'd", "slug_title": "the-firm-get-chisel-d", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGVqvuhN6oHEjHHW2mlATIOJSlL.jpg", "actors": [], "comments": [], "recommandations_id": []}

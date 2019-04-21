@@ -1,0 +1,1 @@
+{"tmdb_id": 125929, "title": "El edificio de los Chilenos", "original_title": "El edificio de los Chilenos", "slug_title": "el-edificio-de-los-chilenos", "date": "2010-06-03", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvTY69VVqwCHxfQYQIuGM7KoTf2.jpg", "actors": [], "comments": [], "recommandations_id": []}

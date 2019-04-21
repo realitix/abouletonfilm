@@ -1,0 +1,1 @@
+{"tmdb_id": 487814, "title": "Sisters", "original_title": "Sisters", "slug_title": "sisters", "date": "2015-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cdnYlxf7J5DI7BFFgdTjc237zZ.jpg", "actors": ["Lindsay Burdge (Anastasia)", "Jade Lane (Erin)", "Ava Briglia (Esme)"], "comments": [], "recommandations_id": []}

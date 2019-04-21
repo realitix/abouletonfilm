@@ -1,0 +1,1 @@
+{"tmdb_id": 485526, "title": "All Work and No Pay", "original_title": "All Work and No Pay", "slug_title": "all-work-and-no-pay", "date": "1942-07-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

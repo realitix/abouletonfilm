@@ -1,0 +1,1 @@
+{"tmdb_id": 271024, "title": "The Dinah Girls", "original_title": "The Dinah Girls", "slug_title": "the-dinah-girls", "date": "2011-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

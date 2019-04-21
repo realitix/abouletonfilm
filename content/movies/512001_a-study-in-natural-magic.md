@@ -1,0 +1,1 @@
+{"tmdb_id": 512001, "title": "A Study in Natural Magic", "original_title": "A Study in Natural Magic", "slug_title": "a-study-in-natural-magic", "date": "2013-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fje9UlC9glBIY1CsBZ9ssajWIBV.jpg", "actors": [], "comments": [], "recommandations_id": []}

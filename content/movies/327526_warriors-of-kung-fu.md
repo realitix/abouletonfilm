@@ -1,0 +1,1 @@
+{"tmdb_id": 327526, "title": "Warriors of Kung Fu", "original_title": "Warriors of Kung Fu", "slug_title": "warriors-of-kung-fu", "date": "1984-02-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHdWbKcTGOI6oYoA9k6x6i93fyy.jpg", "actors": ["Casanova Wong (Yu Yung)"], "comments": [], "recommandations_id": []}

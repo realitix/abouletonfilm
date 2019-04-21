@@ -1,0 +1,1 @@
+{"tmdb_id": 518637, "title": "Prelude \u00e0 la Nuit", "original_title": "Prelude \u00e0 la Nuit", "slug_title": "prelude-a-la-nuit", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "L'entracte.\r Musique de Ravel.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d2IQvGJjKXrsZ1wv6JCPDfpZkzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 469006, "title": "Batidas", "original_title": "Batidas", "slug_title": "batidas", "date": "2017-08-02", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKEY0Uq7SoGTrWDo3BWOHlMQOko.jpg", "actors": ["Rafael Nog (Homem)", "Iole Godinho (Mulher)"], "comments": [], "recommandations_id": []}

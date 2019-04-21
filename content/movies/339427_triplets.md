@@ -1,0 +1,1 @@
+{"tmdb_id": 339427, "title": "Triplets", "original_title": "Triplets", "slug_title": "triplets", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arnold Schwarzenegger (Julius Benedict)", "Danny DeVito (Vincent Benedict)", "Eddie Murphy ()"], "comments": [], "recommandations_id": []}

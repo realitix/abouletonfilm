@@ -1,0 +1,1 @@
+{"tmdb_id": 552921, "title": "Let's Dance!", "original_title": "Tseadim", "slug_title": "let-s-dance", "date": "2018-10-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

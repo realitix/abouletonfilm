@@ -1,0 +1,1 @@
+{"tmdb_id": 520343, "title": "My s dedushkoy", "original_title": "My s dedushkoy", "slug_title": "my-s-dedushkoy", "date": "2014-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZUIwprMINqTJBP1RwayKmLehii.jpg", "actors": [], "comments": [], "recommandations_id": []}

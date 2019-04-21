@@ -1,0 +1,1 @@
+{"tmdb_id": 509923, "title": "A Vida em Uma Viagem", "original_title": "A Vida em Uma Viagem", "slug_title": "a-vida-em-uma-viagem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j43okwvG6zIkqLR9raArx6rrhVd.jpg", "actors": [], "comments": [], "recommandations_id": []}

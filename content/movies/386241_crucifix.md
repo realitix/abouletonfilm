@@ -1,0 +1,1 @@
+{"tmdb_id": 386241, "title": "Crucifix", "original_title": "Crucifix", "slug_title": "crucifix", "date": "2014-03-14", "genre": "Action / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JBer9Rm0WYTafOL5jX64K6j61Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

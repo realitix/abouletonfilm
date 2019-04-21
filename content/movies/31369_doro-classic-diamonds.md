@@ -1,0 +1,1 @@
+{"tmdb_id": 31369, "title": "Doro: Classic Diamonds", "original_title": "Doro: Classic Diamonds", "slug_title": "doro-classic-diamonds", "date": "2004-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtSxsR12EdzQYDo9EKqcg49mJma.jpg", "actors": ["Doro Pesch ()"], "comments": [], "recommandations_id": []}

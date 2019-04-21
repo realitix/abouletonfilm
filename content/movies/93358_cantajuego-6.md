@@ -1,0 +1,1 @@
+{"tmdb_id": 93358, "title": "CantaJuego 6", "original_title": "CantaJuego 6", "slug_title": "cantajuego-6", "date": "2010-12-07", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8o66XjTLeskyWIc2oDVyOlrhULU.jpg", "actors": [], "comments": [], "recommandations_id": []}

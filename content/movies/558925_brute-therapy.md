@@ -1,0 +1,1 @@
+{"tmdb_id": 558925, "title": "Brute Therapy", "original_title": "Brute Therapy", "slug_title": "brute-therapy", "date": "1971-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()", "Ric Lutze ()", "Charlotte Holstein ()"], "comments": [], "recommandations_id": []}

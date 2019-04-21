@@ -1,0 +1,1 @@
+{"tmdb_id": 441150, "title": "Beyonc\u00e9 live at the VMAs 2016", "original_title": "Beyonc\u00e9 live at the VMAs 2016", "slug_title": "beyonce-live-at-the-vmas-2016", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

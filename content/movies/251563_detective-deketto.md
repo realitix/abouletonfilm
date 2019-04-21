@@ -1,0 +1,1 @@
+{"tmdb_id": 251563, "title": "Detective Deketto", "original_title": "Detective Deketto", "slug_title": "detective-deketto", "date": "2013-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQ8g5KUTdKcXSo7FoESOR7Xarue.jpg", "actors": [], "comments": [], "recommandations_id": []}

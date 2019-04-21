@@ -1,0 +1,1 @@
+{"tmdb_id": 376027, "title": "Song of Ruthenia", "original_title": "P\u00edsen o Podkarpatsk\u00e9 Rusi", "slug_title": "song-of-ruthenia", "date": "1937-04-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

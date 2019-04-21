@@ -1,0 +1,1 @@
+{"tmdb_id": 262499, "title": "El asesinato de Trotsky", "original_title": "El asesinato de Trotsky", "slug_title": "el-asesinato-de-trotsky", "date": "2007-08-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

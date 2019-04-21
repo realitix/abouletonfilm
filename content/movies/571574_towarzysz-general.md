@@ -1,0 +1,1 @@
+{"tmdb_id": 571574, "title": "Towarzysz Genera\u0142", "original_title": "Towarzysz Genera\u0142", "slug_title": "towarzysz-general", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yshc84Ckhu5XDNeKUalbC5PbuNI.jpg", "actors": [], "comments": [], "recommandations_id": []}

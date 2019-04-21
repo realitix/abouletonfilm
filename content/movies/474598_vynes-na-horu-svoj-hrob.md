@@ -1,0 +1,1 @@
+{"tmdb_id": 474598, "title": "Vynes na horu svoj hrob", "original_title": "Vynes na horu svoj hrob", "slug_title": "vynes-na-horu-svoj-hrob", "date": "1979-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69tB1H4ox8qVkaLDPfBJTFPV5WS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550513, "title": "Bloody Fairy Tales", "original_title": "Krvav\u00e9 poh\u00e1dky", "slug_title": "bloody-fairy-tales", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

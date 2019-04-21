@@ -1,0 +1,1 @@
+{"tmdb_id": 516008, "title": "Parent Teacher", "original_title": "Parent Teacher", "slug_title": "parent-teacher", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZqUpfskzpeAaCcnpqURFUdWF6C.jpg", "actors": ["Dustin Hahn ()"], "comments": [], "recommandations_id": []}

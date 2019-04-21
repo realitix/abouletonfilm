@@ -1,0 +1,1 @@
+{"tmdb_id": 453646, "title": "The Case of Lena Smith", "original_title": "The Case of Lena Smith", "slug_title": "the-case-of-lena-smith", "date": "1929-01-29", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/228MlE3GSqBS4K1laS8QK7dAu6E.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 517306, "title": "Val\u00e8ria", "original_title": "Val\u00e8ria", "slug_title": "valeria", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Merc\u00e8 Ar\u00e0nega ()", "Xavier Elorriaga ()", "Bernat Quintana ()", "Julio Manrique ()"], "comments": [], "recommandations_id": []}

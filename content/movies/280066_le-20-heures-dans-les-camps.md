@@ -1,0 +1,1 @@
+{"tmdb_id": 280066, "title": "Le 20 heures dans les camps", "original_title": "Le 20 heures dans les camps", "slug_title": "le-20-heures-dans-les-camps", "date": "1993-07-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86rMm74pgthvcfAWRsJnjhd8DtC.jpg", "actors": [], "comments": [], "recommandations_id": []}

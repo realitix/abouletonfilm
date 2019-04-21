@@ -1,0 +1,1 @@
+{"tmdb_id": 55609, "title": "Mother of Rock Lillian Roxon", "original_title": "Mother of Rock Lillian Roxon", "slug_title": "mother-of-rock-lillian-roxon", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CNVxA8o8ErYSoGEx7iezXPfCul.jpg", "actors": [], "comments": [], "recommandations_id": []}

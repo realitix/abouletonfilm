@@ -1,0 +1,1 @@
+{"tmdb_id": 578864, "title": "My Best Friends", "original_title": "My Best Friends", "slug_title": "my-best-friends", "date": "1993-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMYs5JlCOKjvU7HHfyvUiBzVYjB.jpg", "actors": [], "comments": [], "recommandations_id": []}

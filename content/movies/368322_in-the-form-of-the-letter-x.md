@@ -1,0 +1,1 @@
+{"tmdb_id": 368322, "title": "In the form of the letter X", "original_title": "In the form of the letter X", "slug_title": "in-the-form-of-the-letter-x", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

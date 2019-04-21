@@ -1,0 +1,1 @@
+{"tmdb_id": 584436, "title": "The Crisis of Science", "original_title": "The Crisis of Science", "slug_title": "the-crisis-of-science", "date": "2019-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Corbett (Narrator)"], "comments": [], "recommandations_id": []}

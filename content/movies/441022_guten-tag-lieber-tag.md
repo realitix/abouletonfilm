@@ -1,0 +1,1 @@
+{"tmdb_id": 441022, "title": "Guten Tag, lieber Tag", "original_title": "Guten Tag, lieber Tag", "slug_title": "guten-tag-lieber-tag", "date": "1961-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDeFTAJeYLpLOPiRiggDhttFctt.jpg", "actors": [], "comments": [], "recommandations_id": []}

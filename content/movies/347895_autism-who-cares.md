@@ -1,0 +1,1 @@
+{"tmdb_id": 347895, "title": "Autism: Who Cares", "original_title": "Autism: Who Cares", "slug_title": "autism-who-cares", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344031, "title": "Console Wars", "original_title": "Console Wars", "slug_title": "console-wars", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

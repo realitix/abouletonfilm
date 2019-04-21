@@ -1,0 +1,1 @@
+{"tmdb_id": 368924, "title": "Plaza Man", "original_title": "Plaza Man", "slug_title": "plaza-man", "date": "2014-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYf8pFzBDxJh1u9gQzYOlq8ADQS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353689, "title": "Bump City", "original_title": "Bump City", "slug_title": "bump-city", "date": "1964-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275555, "title": "Lassie: Flight of the Cougar", "original_title": "Lassie: Flight of the Cougar", "slug_title": "lassie-flight-of-the-cougar", "date": "1967-01-01", "genre": "Action / Familial / Aventure / Drame", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

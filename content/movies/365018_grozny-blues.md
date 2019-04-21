@@ -1,0 +1,1 @@
+{"tmdb_id": 365018, "title": "Grozny Blues", "original_title": "Grozny Blues", "slug_title": "grozny-blues", "date": "2015-04-18", "genre": "Documentaire / Histoire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wj3g0mgwjGBotuDJsaWd9FXOsvg.jpg", "actors": [], "comments": [], "recommandations_id": []}

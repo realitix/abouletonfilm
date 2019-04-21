@@ -1,0 +1,1 @@
+{"tmdb_id": 280366, "title": "Guerillas In Pink Lace", "original_title": "Guerillas In Pink Lace", "slug_title": "guerillas-in-pink-lace", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k19PfrM2wU1sv3XnSTn4uecwMjK.jpg", "actors": [], "comments": [], "recommandations_id": []}

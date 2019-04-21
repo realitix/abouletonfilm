@@ -1,0 +1,1 @@
+{"tmdb_id": 174136, "title": "Colonel Heeza Liar at the Bat", "original_title": "Colonel Heeza Liar at the Bat", "slug_title": "colonel-heeza-liar-at-the-bat", "date": "1915-08-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

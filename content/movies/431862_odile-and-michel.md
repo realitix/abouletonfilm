@@ -1,0 +1,1 @@
+{"tmdb_id": 431862, "title": "Odile and Michel", "original_title": "Odile Et Michel", "slug_title": "odile-and-michel", "date": "2014-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antoine Gouy (Michel)", "Flore Bonaventura (Odile)", "Ambroise Sabbagh (Michel's friend)"], "comments": [], "recommandations_id": []}

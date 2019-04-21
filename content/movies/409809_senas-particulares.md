@@ -1,0 +1,1 @@
+{"tmdb_id": 409809, "title": "Se\u00f1as particulares", "original_title": "Se\u00f1as particulares", "slug_title": "senas-particulares", "date": "2007-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDUs7GJgSaklrg3od2EoedceAM5.jpg", "actors": [], "comments": [], "recommandations_id": []}

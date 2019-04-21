@@ -1,0 +1,1 @@
+{"tmdb_id": 362823, "title": "\u010cerno\u0161ice", "original_title": "\u010cerno\u0161ice", "slug_title": "cernosice", "date": "1913-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uaZiWobliMaKNsZZxZUMkYtBBid.jpg", "actors": [], "comments": [], "recommandations_id": []}

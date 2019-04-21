@@ -1,0 +1,1 @@
+{"tmdb_id": 184545, "title": "Buddy in Africa", "original_title": "Buddy in Africa", "slug_title": "buddy-in-africa", "date": "1935-07-05", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6IJ55S3zb4WPyr9TkwNfgqUggk.jpg", "actors": [], "comments": [], "recommandations_id": []}

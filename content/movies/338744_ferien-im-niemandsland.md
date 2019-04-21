@@ -1,0 +1,1 @@
+{"tmdb_id": 338744, "title": "Ferien im Niemandsland", "original_title": "Ferien im Niemandsland", "slug_title": "ferien-im-niemandsland", "date": "2012-12-12", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

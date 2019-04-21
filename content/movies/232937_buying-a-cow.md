@@ -1,0 +1,1 @@
+{"tmdb_id": 232937, "title": "Buying a Cow", "original_title": "Buying a Cow", "slug_title": "buying-a-cow", "date": "1908-01-04", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6oQST2ksNFnl9Vd4Ik4Gm6rCaHu.jpg", "actors": [], "comments": [], "recommandations_id": []}

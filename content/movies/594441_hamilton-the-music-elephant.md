@@ -1,0 +1,1 @@
+{"tmdb_id": 594441, "title": "Hamilton The Music Elephant", "original_title": "Hamilton The Music Elephant", "slug_title": "hamilton-the-music-elephant", "date": "1961-04-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTfNMVri02rkMkF822MArmVO3YK.jpg", "actors": [], "comments": [], "recommandations_id": []}

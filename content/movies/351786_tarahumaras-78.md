@@ -1,0 +1,1 @@
+{"tmdb_id": 351786, "title": "Tarahumaras 78", "original_title": "Tarahumaras 78", "slug_title": "tarahumaras-78", "date": "1979-04-07", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DnGCWGBL7WkfCiR6qH7a82rjhR.jpg", "actors": [], "comments": [], "recommandations_id": []}

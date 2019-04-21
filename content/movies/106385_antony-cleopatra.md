@@ -1,0 +1,1 @@
+{"tmdb_id": 106385, "title": "Antony & Cleopatra", "original_title": "Antony & Cleopatra", "slug_title": "antony-cleopatra", "date": "1981-05-08", "genre": "Drame / Histoire / Romance", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJRo0rUXQ22tY2oTfAyGFSqK64B.jpg", "actors": [], "comments": [], "recommandations_id": []}

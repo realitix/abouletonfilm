@@ -1,0 +1,1 @@
+{"tmdb_id": 354313, "title": "Ouro, Suor e Lagrimas", "original_title": "Ouro, Suor e Lagrimas", "slug_title": "ouro-suor-e-lagrimas", "date": "2015-08-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipe9afEUc9NmEt10nK2HWTYxeAS.jpg", "actors": [], "comments": [], "recommandations_id": []}

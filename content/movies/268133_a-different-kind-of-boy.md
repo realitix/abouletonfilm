@@ -1,0 +1,1 @@
+{"tmdb_id": 268133, "title": "A Different Kind of Boy", "original_title": "A Different Kind of Boy", "slug_title": "a-different-kind-of-boy", "date": "2014-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/20Fj7zcwEHz3DS0k2XJsT4z6Gj6.jpg", "actors": [], "comments": [], "recommandations_id": []}

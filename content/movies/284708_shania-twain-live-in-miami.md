@@ -1,0 +1,1 @@
+{"tmdb_id": 284708, "title": "Shania Twain Live In Miami", "original_title": "Shania Twain Live In Miami", "slug_title": "shania-twain-live-in-miami", "date": "2002-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xnWLJmvyotvpeTSY0JdCE0PXC9.jpg", "actors": [], "comments": [], "recommandations_id": []}

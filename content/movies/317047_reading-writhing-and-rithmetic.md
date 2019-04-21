@@ -1,0 +1,1 @@
+{"tmdb_id": 317047, "title": "Reading, Writhing, and Rithmetic", "original_title": "Reading, Writhing, and Rithmetic", "slug_title": "reading-writhing-and-rithmetic", "date": "1964-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

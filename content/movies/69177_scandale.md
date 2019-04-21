@@ -1,0 +1,1 @@
+{"tmdb_id": 69177, "title": "Scandale", "original_title": "Scandale", "slug_title": "scandale", "date": "1982-07-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rrJKrnbZ1OBY9clAJw6J6IWlIKK.jpg", "actors": ["Sophie Lorain ()"], "comments": [], "recommandations_id": []}

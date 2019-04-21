@@ -1,0 +1,1 @@
+{"tmdb_id": 586014, "title": "NBA Super Slams 2", "original_title": "NBA Super Slams 2", "slug_title": "nba-super-slams-2", "date": "1999-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCddAqI3PSdFuQoOPmf76dMX1mB.jpg", "actors": [], "comments": [], "recommandations_id": []}

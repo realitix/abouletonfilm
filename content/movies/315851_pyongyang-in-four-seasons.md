@@ -1,0 +1,1 @@
+{"tmdb_id": 315851, "title": "Pyongyang in Four Seasons", "original_title": "Pyongyang ui sagyedzol", "slug_title": "pyongyang-in-four-seasons", "date": "1994-01-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6atB0OX1Gi8DGGGTXmw0IvYeqxB.jpg", "actors": [], "comments": [], "recommandations_id": []}

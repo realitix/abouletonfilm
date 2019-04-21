@@ -1,0 +1,1 @@
+{"tmdb_id": 423895, "title": "Cambium", "original_title": "Cambium", "slug_title": "cambium", "date": "1983-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2DwVjO4D8VlXBcxBvPTtoK3OD3.jpg", "actors": [], "comments": [], "recommandations_id": []}

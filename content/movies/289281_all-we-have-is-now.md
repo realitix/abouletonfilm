@@ -1,0 +1,1 @@
+{"tmdb_id": 289281, "title": "All We Have is Now", "original_title": "All We Have is Now", "slug_title": "all-we-have-is-now", "date": "2014-10-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2KbRadWeXYZSJno79ZtZwvh35c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523039, "title": "La Nuit des Silhouettes", "original_title": "La Nuit des Silhouettes", "slug_title": "la-nuit-des-silhouettes", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "La Nuit des Silhouettes", "image": "/img/default-cover.png", "actors": ["Lou Gala ()"], "comments": [], "recommandations_id": []}

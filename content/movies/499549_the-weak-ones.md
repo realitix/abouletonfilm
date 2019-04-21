@@ -1,0 +1,1 @@
+{"tmdb_id": 499549, "title": "The Weak Ones", "original_title": "Los d\u00e9biles", "slug_title": "the-weak-ones", "date": "2018-02-16", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6FRhjxFz4zeJFzNJfj385QHAPYQ.jpg", "actors": ["Jose Luis Lizarraga (Victor)"], "comments": [], "recommandations_id": []}

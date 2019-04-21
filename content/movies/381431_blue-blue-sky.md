@@ -1,0 +1,1 @@
+{"tmdb_id": 381431, "title": "Blue Blue Sky", "original_title": "Blue Blue Sky", "slug_title": "blue-blue-sky", "date": "2014-09-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

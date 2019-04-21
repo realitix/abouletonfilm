@@ -1,0 +1,1 @@
+{"tmdb_id": 576689, "title": "Building the American Dream", "original_title": "Building the American Dream", "slug_title": "building-the-american-dream", "date": "2019-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

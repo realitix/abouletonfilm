@@ -1,0 +1,1 @@
+{"tmdb_id": 457611, "title": "The Mormon Dilemma", "original_title": "The Mormon Dilemma", "slug_title": "the-mormon-dilemma", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZA36ZS8nTSRf8HmO0vD4TV9GqD.jpg", "actors": [], "comments": [], "recommandations_id": []}

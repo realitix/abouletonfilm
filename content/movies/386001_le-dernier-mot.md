@@ -1,0 +1,1 @@
+{"tmdb_id": 386001, "title": "Le Dernier Mot", "original_title": "Le Dernier Mot", "slug_title": "le-dernier-mot", "date": "1988-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uY6u4WzehPM0EBoBl5mBEm9oSNp.jpg", "actors": [], "comments": [], "recommandations_id": []}

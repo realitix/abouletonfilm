@@ -1,0 +1,1 @@
+{"tmdb_id": 456753, "title": "\ucc9c\ud558\ubb34\ub9bc\uc7a5\uc0ac: \uc11d\uc6a9", "original_title": "\ucc9c\ud558\ubb34\ub9bc\uc7a5\uc0ac: \uc11d\uc6a9", "slug_title": "ceonhamurimjangsa-seogyong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

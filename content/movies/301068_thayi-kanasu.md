@@ -1,0 +1,1 @@
+{"tmdb_id": 301068, "title": "Thayi Kanasu", "original_title": "Thayi Kanasu", "slug_title": "thayi-kanasu", "date": "1984-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

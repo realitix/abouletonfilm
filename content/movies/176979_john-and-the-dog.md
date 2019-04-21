@@ -1,0 +1,1 @@
+{"tmdb_id": 176979, "title": "John and the Dog", "original_title": "Jo\u00e3o e o C\u00e3o", "slug_title": "john-and-the-dog", "date": "2008-03-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lV9dX3ZgkrE9eDd2XuOfBNmy71n.jpg", "actors": [], "comments": [], "recommandations_id": []}

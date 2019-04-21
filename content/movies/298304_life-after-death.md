@@ -1,0 +1,1 @@
+{"tmdb_id": 298304, "title": "Life After Death", "original_title": "Ubuzima Nyuma Urupfu", "slug_title": "life-after-death", "date": "2014-02-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yKBG0OEUGrBGgaeYloAAnV8wcrx.jpg", "actors": [], "comments": [], "recommandations_id": []}

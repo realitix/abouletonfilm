@@ -1,0 +1,1 @@
+{"tmdb_id": 539846, "title": "Mannequins", "original_title": "Mannequins", "slug_title": "mannequins", "date": "1933-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 90659, "title": "The American Ruling Class", "original_title": "The American Ruling Class", "slug_title": "the-american-ruling-class", "date": "2005-04-26", "genre": "Documentaire", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwlX4m62VVr0Z9oibFEE8veSsPD.jpg", "actors": [], "comments": [], "recommandations_id": []}

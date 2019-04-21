@@ -1,0 +1,1 @@
+{"tmdb_id": 350109, "title": "\uc815\ubb34\ubb38 '81", "original_title": "\uc815\ubb34\ubb38 '81", "slug_title": "jeongmumun-81", "date": "1981-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

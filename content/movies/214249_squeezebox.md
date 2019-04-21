@@ -1,0 +1,1 @@
+{"tmdb_id": 214249, "title": "Squeezebox!", "original_title": "Squeezebox!", "slug_title": "squeezebox", "date": "2008-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f21usCdOuNNGQIalnIguA2xutP4.jpg", "actors": [], "comments": [], "recommandations_id": []}

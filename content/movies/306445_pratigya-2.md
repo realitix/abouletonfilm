@@ -1,0 +1,1 @@
+{"tmdb_id": 306445, "title": "Pratigya 2", "original_title": "Pratigya 2", "slug_title": "pratigya-2", "date": "2014-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

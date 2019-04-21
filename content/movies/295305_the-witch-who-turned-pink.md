@@ -1,0 +1,1 @@
+{"tmdb_id": 295305, "title": "The Witch Who Turned Pink", "original_title": "The Witch Who Turned Pink", "slug_title": "the-witch-who-turned-pink", "date": "1989-10-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

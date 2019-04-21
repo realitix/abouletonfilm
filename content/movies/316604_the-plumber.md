@@ -1,0 +1,1 @@
+{"tmdb_id": 316604, "title": "The Plumber", "original_title": "The Plumber", "slug_title": "the-plumber", "date": "1967-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

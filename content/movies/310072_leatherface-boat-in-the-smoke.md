@@ -1,0 +1,1 @@
+{"tmdb_id": 310072, "title": "Leatherface: Boat in the Smoke", "original_title": "Leatherface: Boat in the Smoke", "slug_title": "leatherface-boat-in-the-smoke", "date": "2005-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

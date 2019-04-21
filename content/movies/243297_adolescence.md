@@ -1,0 +1,1 @@
+{"tmdb_id": 243297, "title": "Adolescence", "original_title": "Adolescence", "slug_title": "adolescence", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sonia Petrovna ()"], "comments": [], "recommandations_id": []}

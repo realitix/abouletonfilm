@@ -1,0 +1,1 @@
+{"tmdb_id": 309006, "title": "Aspects of Kirkwall 4: The Ba", "original_title": "Aspects of Kirkwall 4: The Ba", "slug_title": "aspects-of-kirkwall-4-the-ba", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eCHTpAQBT00ZqUe8OlgbimGSgHU.jpg", "actors": [], "comments": [], "recommandations_id": []}

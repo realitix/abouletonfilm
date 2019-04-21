@@ -1,0 +1,1 @@
+{"tmdb_id": 454864, "title": "Tarkovsky", "original_title": "Tarkovsky", "slug_title": "tarkovsky", "date": "2010-12-21", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQWpCNfAdcKIxKJ8OHxIdsA5TJA.jpg", "actors": ["Manolo Solo (Manager)", "Luis Zahera (Client)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579702, "title": "Diplomat", "original_title": "\u12f2\u1355\u120e\u121b\u1275", "slug_title": "diplomat", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dF5Q8Qe5852vcJ988o5u1UpH7XQ.jpg", "actors": ["Mahlet Shumete Desalegn (Kidist)"], "comments": [], "recommandations_id": []}

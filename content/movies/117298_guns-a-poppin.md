@@ -1,0 +1,1 @@
+{"tmdb_id": 117298, "title": "Guns A Poppin", "original_title": "Guns A Poppin", "slug_title": "guns-a-poppin", "date": "1957-06-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fine (Larry)", "Joe Besser (Joe)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324754, "title": "Bob De Bouwer Liftie De Ster", "original_title": "Bob De Bouwer Liftie De Ster", "slug_title": "bob-de-bouwer-liftie-de-ster", "date": "2008-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jybR3IwgUnCAYJiljgdYl2FUG0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

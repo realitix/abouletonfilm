@@ -1,0 +1,1 @@
+{"tmdb_id": 240408, "title": "College Queen", "original_title": "College Queen", "slug_title": "college-queen", "date": "1946-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

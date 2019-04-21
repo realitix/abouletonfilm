@@ -1,0 +1,1 @@
+{"tmdb_id": 258337, "title": "Rickshaw", "original_title": "Rickshaw", "slug_title": "rickshaw", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4p7zWTHN0LGLDI68xYwmqJ2anv0.jpg", "actors": [], "comments": [], "recommandations_id": []}

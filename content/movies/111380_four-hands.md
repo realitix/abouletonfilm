@@ -1,0 +1,1 @@
+{"tmdb_id": 111380, "title": "Four Hands", "original_title": "Four Hands", "slug_title": "four-hands", "date": "2011-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQbNN0cDb5J0Lgikew2iEQBC1RL.jpg", "actors": ["Wu Hsing-kuo ()"], "comments": [], "recommandations_id": []}

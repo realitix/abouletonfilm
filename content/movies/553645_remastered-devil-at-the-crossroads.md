@@ -1,0 +1,1 @@
+{"tmdb_id": 553645, "title": "ReMastered: Devil at the Crossroads", "original_title": "ReMastered: Devil at the Crossroads", "slug_title": "remastered-devil-at-the-crossroads", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

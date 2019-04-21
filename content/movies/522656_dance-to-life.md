@@ -1,0 +1,1 @@
+{"tmdb_id": 522656, "title": "Dance to Life", "original_title": "Dance to Life", "slug_title": "dance-to-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

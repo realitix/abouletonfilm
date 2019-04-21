@@ -1,0 +1,1 @@
+{"tmdb_id": 447496, "title": "Children of the Chinese Circus", "original_title": "Ma xi xue xiao", "slug_title": "children-of-the-chinese-circus", "date": "2006-01-01", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

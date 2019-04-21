@@ -1,0 +1,1 @@
+{"tmdb_id": 350366, "title": "\ud611\uac1d \uc2dc\ub77c\uc18c\ub2c8 PART 2", "original_title": "\ud611\uac1d \uc2dc\ub77c\uc18c\ub2c8 PART 2", "slug_title": "hyeobgaeg-sirasoni-part-2", "date": "1980-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

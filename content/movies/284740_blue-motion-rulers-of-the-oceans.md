@@ -1,0 +1,1 @@
+{"tmdb_id": 284740, "title": "Blue Motion - Rulers of the oceans", "original_title": "Blue Motion - Les rois des oc\u00e9ans", "slug_title": "blue-motion-rulers-of-the-oceans", "date": "2004-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

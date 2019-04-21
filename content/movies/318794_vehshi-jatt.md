@@ -1,0 +1,1 @@
+{"tmdb_id": 318794, "title": "Vehshi Jatt", "original_title": "Vehshi Jatt", "slug_title": "vehshi-jatt", "date": "1975-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

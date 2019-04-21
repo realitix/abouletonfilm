@@ -1,0 +1,1 @@
+{"tmdb_id": 361186, "title": "The Pittsburgh Drug Trials", "original_title": "The Pittsburgh Drug Trials", "slug_title": "the-pittsburgh-drug-trials", "date": "2015-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UWEfRdDyjX8jK0meVtCjQPgiI0.jpg", "actors": [], "comments": [], "recommandations_id": []}

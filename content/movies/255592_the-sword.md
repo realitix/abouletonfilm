@@ -1,0 +1,1 @@
+{"tmdb_id": 255592, "title": "The Sword", "original_title": "Jian", "slug_title": "the-sword", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sgnsnyQcFyH2TXWN7PIPvFWFT3E.jpg", "actors": ["Jimmy Wang Yu ()"], "comments": [], "recommandations_id": []}

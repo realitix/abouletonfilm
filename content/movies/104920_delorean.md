@@ -1,0 +1,1 @@
+{"tmdb_id": 104920, "title": "DeLorean", "original_title": "DeLorean", "slug_title": "delorean", "date": "1981-01-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzcCLZe9gmiKGqqhFzndr3wj672.jpg", "actors": ["John Z. DeLorean (Himself)"], "comments": [], "recommandations_id": []}

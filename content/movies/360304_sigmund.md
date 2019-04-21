@@ -1,0 +1,1 @@
+{"tmdb_id": 360304, "title": "Sigmund", "original_title": "Sigmund", "slug_title": "sigmund", "date": "1984-05-16", "genre": "Animation", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xru9kUuMTGqAH4Hiw2ilxZKVwNA.jpg", "actors": [], "comments": [], "recommandations_id": [90827, 227464, 224444, 232223]}

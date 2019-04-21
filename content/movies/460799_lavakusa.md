@@ -1,0 +1,1 @@
+{"tmdb_id": 460799, "title": "Lavakusa", "original_title": "Lavakusa", "slug_title": "lavakusa", "date": "2015-06-12", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lJqnSDj7VnYtcYiD496zotJd2wZ.jpg", "actors": ["Brahmanandam ()", "Varun Sandesh ()", "Richa Panai ()"], "comments": [], "recommandations_id": []}

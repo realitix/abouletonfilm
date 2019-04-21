@@ -1,0 +1,1 @@
+{"tmdb_id": 343563, "title": "Opus De\u0301dalo: P\u00e9rdix", "original_title": "Opus De\u0301dalo: P\u00e9rdix", "slug_title": "opus-dedalo-perdix", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hf7b18vXyqoHBf7ZD8nt1d1nUjP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 462968, "title": "Hvor isbj\u00f8rnen ferdes", "original_title": "Hvor isbj\u00f8rnen ferdes", "slug_title": "hvor-isbjornen-ferdes", "date": "1935-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

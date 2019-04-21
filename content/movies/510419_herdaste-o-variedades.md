@@ -1,0 +1,1 @@
+{"tmdb_id": 510419, "title": "Herdaste o Variedades", "original_title": "Herdaste o Variedades", "slug_title": "herdaste-o-variedades", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

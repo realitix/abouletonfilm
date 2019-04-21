@@ -1,0 +1,1 @@
+{"tmdb_id": 354111, "title": "Elizabeth Short", "original_title": "Elizabeth Short", "slug_title": "elizabeth-short", "date": "2006-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngH9v5piKkarCYuuF51irsxg9jM.jpg", "actors": [], "comments": [], "recommandations_id": []}

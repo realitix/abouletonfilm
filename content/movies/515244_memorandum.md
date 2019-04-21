@@ -1,0 +1,1 @@
+{"tmdb_id": 515244, "title": "Memor\u00e1ndum", "original_title": "Memor\u00e1ndum", "slug_title": "memorandum", "date": "2017-09-14", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUbUV9czIZPjwZzrzgqbtCunIso.jpg", "actors": [], "comments": [], "recommandations_id": []}

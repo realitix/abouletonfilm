@@ -1,0 +1,1 @@
+{"tmdb_id": 543781, "title": "Aubrac-Rushes", "original_title": "Aubrac-Rushes", "slug_title": "aubrac-rushes", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQlHH72bDhYoXjxPIVD4wgTAhaN.jpg", "actors": [], "comments": [], "recommandations_id": []}

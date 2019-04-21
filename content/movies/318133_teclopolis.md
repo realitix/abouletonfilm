@@ -1,0 +1,1 @@
+{"tmdb_id": 318133, "title": "Tecl\u00f3polis", "original_title": "Tecl\u00f3polis", "slug_title": "teclopolis", "date": "2010-06-22", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k7csHTQPWxPeY93AqjOmBrtYR7.jpg", "actors": [], "comments": [], "recommandations_id": [36878]}

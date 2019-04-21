@@ -1,0 +1,1 @@
+{"tmdb_id": 444071, "title": "Thrifty Cubs", "original_title": "Thrifty Cubs", "slug_title": "thrifty-cubs", "date": "1952-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Halee (Terry Bear (voice))", "Doug Moye (Papa Bear (voice))", "Philip A. Scheib (Terry Bear (voice))"], "comments": [], "recommandations_id": []}

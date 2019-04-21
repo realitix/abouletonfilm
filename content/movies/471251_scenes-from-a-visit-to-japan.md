@@ -1,0 +1,1 @@
+{"tmdb_id": 471251, "title": "Scenes from a Visit to Japan", "original_title": "Scenes from a Visit to Japan", "slug_title": "scenes-from-a-visit-to-japan", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cKaZQ6n3LdihBSEuQTvPBqwzA11.jpg", "actors": [], "comments": [], "recommandations_id": []}

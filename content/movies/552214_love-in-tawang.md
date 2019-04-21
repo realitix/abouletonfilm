@@ -1,0 +1,1 @@
+{"tmdb_id": 552214, "title": "Love in Tawang", "original_title": "Love in Tawang", "slug_title": "love-in-tawang", "date": "2016-03-11", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Subhash Modak ()"], "comments": [], "recommandations_id": []}

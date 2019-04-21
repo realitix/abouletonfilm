@@ -1,0 +1,1 @@
+{"tmdb_id": 195251, "title": "Major General Shafter", "original_title": "Major General Shafter", "slug_title": "major-general-shafter", "date": "1898-08-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

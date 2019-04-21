@@ -1,0 +1,1 @@
+{"tmdb_id": 414415, "title": "I Slept with Cookie Monster", "original_title": "I Slept with Cookie Monster", "slug_title": "i-slept-with-cookie-monster", "date": "2008-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KXnAKlEcZJoPFNQYQgElq1tGu7.jpg", "actors": [], "comments": [], "recommandations_id": []}

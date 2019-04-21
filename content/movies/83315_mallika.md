@@ -1,0 +1,1 @@
+{"tmdb_id": 83315, "title": "Mallika", "original_title": "Mallika", "slug_title": "mallika", "date": "2010-09-03", "genre": "Drame / Horreur / Myst\u00e8re / Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrhtKfuZCDHTZmGllXDfT9k7ilG.jpg", "actors": [], "comments": [], "recommandations_id": []}

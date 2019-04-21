@@ -1,0 +1,1 @@
+{"tmdb_id": 392041, "title": "The American Poet's Visit", "original_title": "The American Poet's Visit", "slug_title": "the-american-poet-s-visit", "date": "1969-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

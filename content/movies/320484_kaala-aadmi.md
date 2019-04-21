@@ -1,0 +1,1 @@
+{"tmdb_id": 320484, "title": "Kaala Aadmi", "original_title": "Kaala Aadmi", "slug_title": "kaala-aadmi", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rd4w7sqFT7P2dJ2lBUZoV9FaQ7.jpg", "actors": ["Sunil Dutt ()", "Saira Banu ()", "Pran ()"], "comments": [], "recommandations_id": []}

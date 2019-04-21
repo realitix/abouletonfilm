@@ -1,0 +1,1 @@
+{"tmdb_id": 487294, "title": "Get Me Dat Bread", "original_title": "Get Me Dat Bread", "slug_title": "get-me-dat-bread", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7sRu9ZFWOiJrf5C3H0HVGLy2mq.jpg", "actors": ["Ron Braunstein (Necro) (Pimp)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547390, "title": "Bi-Polaroid", "original_title": "Bi-Polaroid", "slug_title": "bi-polaroid", "date": "2018-09-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

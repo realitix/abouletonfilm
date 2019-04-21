@@ -1,0 +1,1 @@
+{"tmdb_id": 464245, "title": "Symmetry", "original_title": "Symmetry", "slug_title": "symmetry", "date": "2011-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xATDu6xleCvlbmqe99nQfuW9IfI.jpg", "actors": [], "comments": [], "recommandations_id": []}

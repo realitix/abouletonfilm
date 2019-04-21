@@ -1,0 +1,1 @@
+{"tmdb_id": 249693, "title": "The Love Charm", "original_title": "The Love Charm", "slug_title": "the-love-charm", "date": "1928-07-15", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucio Flamma (John Pevere)", "Jean Mann (John's Fiancee)", "Ann Christy (Nita)"], "comments": [], "recommandations_id": []}

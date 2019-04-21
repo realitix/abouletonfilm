@@ -1,0 +1,1 @@
+{"tmdb_id": 567842, "title": "D\u00e9votion", "original_title": "D\u00e9votion", "slug_title": "devotion", "date": "1984-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zXpC4yQt2070C67L9aNLNav3Z8.jpg", "actors": [], "comments": [], "recommandations_id": []}

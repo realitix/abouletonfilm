@@ -1,0 +1,1 @@
+{"tmdb_id": 257384, "title": "Chinese Dinner", "original_title": "Chinese Dinner", "slug_title": "chinese-dinner", "date": "2001-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uAAU32TJEcW9eyNq4xqKuEY0Zj4.jpg", "actors": ["Toshir\u014d Yanagiba ()"], "comments": [], "recommandations_id": []}

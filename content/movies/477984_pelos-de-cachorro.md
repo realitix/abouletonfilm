@@ -1,0 +1,1 @@
+{"tmdb_id": 477984, "title": "Pelos de Cachorro", "original_title": "Pelos de Cachorro", "slug_title": "pelos-de-cachorro", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

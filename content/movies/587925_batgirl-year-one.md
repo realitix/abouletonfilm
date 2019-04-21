@@ -1,0 +1,1 @@
+{"tmdb_id": 587925, "title": "Batgirl: Year One", "original_title": "Batgirl: Year One", "slug_title": "batgirl-year-one", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

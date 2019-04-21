@@ -1,0 +1,1 @@
+{"tmdb_id": 443743, "title": "The 2017 Film Independent Spirit Awards", "original_title": "The 2017 Film Independent Spirit Awards", "slug_title": "the-2017-film-independent-spirit-awards", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

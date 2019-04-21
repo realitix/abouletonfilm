@@ -1,0 +1,1 @@
+{"tmdb_id": 441412, "title": "De_Riria_Subasutaimu", "original_title": "De_Riria_Subasutaimu", "slug_title": "de-riria-subasutaimu", "date": "2014-06-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

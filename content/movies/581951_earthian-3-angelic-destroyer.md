@@ -1,0 +1,1 @@
+{"tmdb_id": 581951, "title": "Earthian 3: Angelic Destroyer", "original_title": "Earthian 3: Angelic Destroyer", "slug_title": "earthian-3-angelic-destroyer", "date": "1998-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibR6ChnrbDmF8og3w1GXps9hEn3.jpg", "actors": [], "comments": [], "recommandations_id": []}

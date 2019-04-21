@@ -1,0 +1,1 @@
+{"tmdb_id": 454833, "title": "Bear Weekend", "original_title": "Bear Weekend", "slug_title": "bear-weekend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gus Turner ()", "Bennett Anthony ()", "Colby Jansen ()", "Jaxton Wheeler ()", "Paul Canon ()", "Roman Todd ()"], "comments": [], "recommandations_id": []}

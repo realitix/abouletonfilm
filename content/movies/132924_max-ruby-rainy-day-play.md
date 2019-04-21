@@ -1,0 +1,1 @@
+{"tmdb_id": 132924, "title": "Max & Ruby: Rainy Day Play", "original_title": "Max & Ruby: Rainy Day Play", "slug_title": "max-ruby-rainy-day-play", "date": "2011-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vdvBrNwXqEVhWXOh1JfJvy8qBpD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 169554, "title": "American Mystic", "original_title": "American Mystic", "slug_title": "american-mystic", "date": "2010-04-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2lWBkmg21WXgYCe8SVHYdAmrfv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 267237, "title": "Yellow Flower", "original_title": "\ub458 \ud558\ub098 \uc139\uc2a4", "slug_title": "yellow-flower", "date": "2002-09-19", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYFeIF50CwFhRjpFEnPbRP8l10E.jpg", "actors": [], "comments": [], "recommandations_id": []}

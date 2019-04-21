@@ -1,0 +1,1 @@
+{"tmdb_id": 318893, "title": "Epileptic Seizure, No. 7", "original_title": "Epileptic Seizure, No. 7", "slug_title": "epileptic-seizure-no-7", "date": "1906-01-17", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

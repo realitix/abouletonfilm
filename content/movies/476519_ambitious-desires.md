@@ -1,0 +1,1 @@
+{"tmdb_id": 476519, "title": "Ambitious Desires", "original_title": "Ambitious Desires", "slug_title": "ambitious-desires", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abdi6qThuyr30wRHWGHljGLICSB.jpg", "actors": ["Julie Strain ()"], "comments": [], "recommandations_id": []}

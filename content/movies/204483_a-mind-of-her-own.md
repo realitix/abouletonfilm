@@ -1,0 +1,1 @@
+{"tmdb_id": 204483, "title": "A Mind Of Her Own", "original_title": "A Mind Of Her Own", "slug_title": "a-mind-of-her-own", "date": "2006-05-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZ8SNImqhqVw0leq9LOfXzELyz7.jpg", "actors": [], "comments": [], "recommandations_id": []}

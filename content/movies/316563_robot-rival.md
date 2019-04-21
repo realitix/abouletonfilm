@@ -1,0 +1,1 @@
+{"tmdb_id": 316563, "title": "Robot Rival", "original_title": "Robot Rival", "slug_title": "robot-rival", "date": "1964-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

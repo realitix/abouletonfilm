@@ -1,0 +1,1 @@
+{"tmdb_id": 569206, "title": "Le Veau d'or", "original_title": "Le Veau d'or", "slug_title": "le-veau-d-or", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Baptiste Lamy ()", "Patrice Losio ()", "Marcel Maz\u00e9 ()"], "comments": [], "recommandations_id": []}

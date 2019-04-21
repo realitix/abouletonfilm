@@ -1,0 +1,1 @@
+{"tmdb_id": 380034, "title": "Dance, Little Children", "original_title": "Dance, Little Children", "slug_title": "dance-little-children", "date": "1961-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Belove ()", "Maurice Copeland ()", "Herk Harvey ()", "Tom McGinnis ()"], "comments": [], "recommandations_id": []}

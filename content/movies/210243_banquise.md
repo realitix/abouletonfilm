@@ -1,0 +1,1 @@
+{"tmdb_id": 210243, "title": "Banquise", "original_title": "Banquise", "slug_title": "banquise", "date": "2005-01-27", "genre": "Animation", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/144kh80yEjFilRyyQ6hjBksB3BZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

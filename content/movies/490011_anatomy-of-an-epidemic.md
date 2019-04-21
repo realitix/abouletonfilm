@@ -1,0 +1,1 @@
+{"tmdb_id": 490011, "title": "Anatomy of an Epidemic", "original_title": "Anatomy of an Epidemic", "slug_title": "anatomy-of-an-epidemic", "date": "2010-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

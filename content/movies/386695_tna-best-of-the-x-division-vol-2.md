@@ -1,0 +1,1 @@
+{"tmdb_id": 386695, "title": "TNA Best of the X Division Vol. 2", "original_title": "TNA Best of the X Division Vol. 2", "slug_title": "tna-best-of-the-x-division-vol-2", "date": "2006-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

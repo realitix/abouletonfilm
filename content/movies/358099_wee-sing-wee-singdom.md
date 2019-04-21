@@ -1,0 +1,1 @@
+{"tmdb_id": 358099, "title": "Wee Sing - Wee Singdom", "original_title": "Wee Sing - Wee Singdom", "slug_title": "wee-sing-wee-singdom", "date": "1996-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tzkeI2BqQyNHrdR01QTLAwVb16H.jpg", "actors": [], "comments": [], "recommandations_id": []}

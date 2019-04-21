@@ -1,0 +1,1 @@
+{"tmdb_id": 555275, "title": "The Obsession of Vicki Stone", "original_title": "The Obsession of Vicki Stone", "slug_title": "the-obsession-of-vicki-stone", "date": "1968-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

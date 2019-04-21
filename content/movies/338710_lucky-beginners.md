@@ -1,0 +1,1 @@
+{"tmdb_id": 338710, "title": "Lucky Beginners", "original_title": "Lucky Beginners", "slug_title": "lucky-beginners", "date": "1935-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

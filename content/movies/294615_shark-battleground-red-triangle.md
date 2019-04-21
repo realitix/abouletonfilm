@@ -1,0 +1,1 @@
+{"tmdb_id": 294615, "title": "Shark Battleground: Red Triangle", "original_title": "Shark Battleground: Red Triangle", "slug_title": "shark-battleground-red-triangle", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 563635, "title": "Halloween Mind Massacre", "original_title": "Halloween Mind Massacre", "slug_title": "halloween-mind-massacre", "date": "2018-10-01", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esoCaqtY6zNR07aNRuCzr9Vm4D4.jpg", "actors": [], "comments": [], "recommandations_id": []}

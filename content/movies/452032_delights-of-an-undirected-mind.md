@@ -1,0 +1,1 @@
+{"tmdb_id": 452032, "title": "Delights of an Undirected Mind", "original_title": "Delights of an Undirected Mind", "slug_title": "delights-of-an-undirected-mind", "date": "2017-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKP4zfuOrjviKdq79DvlMUNkoun.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 519504, "title": "Inge Larsen", "original_title": "Inge Larsen", "slug_title": "inge-larsen", "date": "1924-03-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henny Porten (Inge Larsen)", "Hans Albers (gelangweilter Attach\u00e9)"], "comments": [], "recommandations_id": []}

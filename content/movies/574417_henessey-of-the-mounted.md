@@ -1,0 +1,1 @@
+{"tmdb_id": 574417, "title": "Henessey of the Mounted", "original_title": "Henessey of the Mounted", "slug_title": "henessey-of-the-mounted", "date": "1922-01-11", "genre": "Com\u00e9die / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Ovey ()", "Arby Arly ()"], "comments": [], "recommandations_id": []}

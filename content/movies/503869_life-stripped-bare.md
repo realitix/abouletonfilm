@@ -1,0 +1,1 @@
+{"tmdb_id": 503869, "title": "Life Stripped Bare", "original_title": "Life Stripped Bare", "slug_title": "life-stripped-bare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odiJzeYK9q6oh6Egafn73s8tDrR.jpg", "actors": [], "comments": [], "recommandations_id": []}

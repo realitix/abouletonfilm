@@ -1,0 +1,1 @@
+{"tmdb_id": 51150, "title": "I Grow Chronic!", "original_title": "I Grow Chronic!", "slug_title": "i-grow-chronic", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoKoJwdILqDcEApPLqrE3QXdQat.jpg", "actors": ["Mr Green (Mr Green)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 437176, "title": "The 24 Hours of Jadwiga L.", "original_title": "24 godziny Jadwigi L.", "slug_title": "the-24-hours-of-jadwiga-l", "date": "1967-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

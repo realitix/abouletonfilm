@@ -1,0 +1,1 @@
+{"tmdb_id": 328385, "title": "Sangen reddet mitt liv", "original_title": "Sangen reddet mitt liv", "slug_title": "sangen-reddet-mitt-liv", "date": "2015-03-03", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

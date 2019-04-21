@@ -1,0 +1,1 @@
+{"tmdb_id": 34699, "title": "Flugsoppan", "original_title": "Flugsoppan", "slug_title": "flugsoppan", "date": "1999-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zdsAhM61iUfCL2nJZhBJAWZXPGg.jpg", "actors": ["Roger Westberg (Narrator)"], "comments": [], "recommandations_id": []}

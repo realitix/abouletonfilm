@@ -1,0 +1,1 @@
+{"tmdb_id": 350778, "title": "Africa is a Woman's Name", "original_title": "Africa is a Woman's Name", "slug_title": "africa-is-a-woman-s-name", "date": "2009-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PF4OQUlDFoAw9sLTX2XPdI67KO.jpg", "actors": [], "comments": [], "recommandations_id": []}

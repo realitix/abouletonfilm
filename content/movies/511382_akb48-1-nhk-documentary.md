@@ -1,0 +1,1 @@
+{"tmdb_id": 511382, "title": "AKB48 +1 (NHK Documentary)", "original_title": "AKB48 +1 (NHK Documentary)", "slug_title": "akb48-1-nhk-documentary", "date": "2015-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDMrN0sXItAK4tY8phiCds04etk.jpg", "actors": [], "comments": [], "recommandations_id": []}

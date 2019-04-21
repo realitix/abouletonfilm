@@ -1,0 +1,1 @@
+{"tmdb_id": 486175, "title": "Hitsville US Eh!", "original_title": "Hitsville US Eh!", "slug_title": "hitsville-us-eh", "date": "2017-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4mpDWKkQgbkhP1ALh7puHHV9G9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 563084, "title": "X-Ray of a Killer", "original_title": "Sursis pour un espion", "slug_title": "x-ray-of-a-killer", "date": "1965-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6qrABYbFWhJFPYDWb305HtAMFw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564794, "title": "Deux imb\u00e9ciles heureux", "original_title": "Deux imb\u00e9ciles heureux", "slug_title": "deux-imbeciles-heureux", "date": "1976-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fMY3MgUZIsBHpFTSc0zyQJabIYg.jpg", "actors": [], "comments": [], "recommandations_id": []}

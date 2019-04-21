@@ -1,0 +1,1 @@
+{"tmdb_id": 235802, "title": "Gone Batty", "original_title": "Gone Batty", "slug_title": "gone-batty", "date": "1954-09-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSWIvZJw1SwsKO5awDjRboGffRQ.jpg", "actors": ["Mel Blanc (Baseball players (voice))"], "comments": [], "recommandations_id": []}

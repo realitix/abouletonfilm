@@ -1,0 +1,1 @@
+{"tmdb_id": 513754, "title": "Lauberhornrennen im Sommer", "original_title": "Lauberhornrennen im Sommer", "slug_title": "lauberhornrennen-im-sommer", "date": "2006-01-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rV4PXIKb3QlBA6GkMPqrIIAdT4O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 475538, "title": "Economic Cooperation: Noel's Lemonade Stand", "original_title": "Economic Cooperation: Noel's Lemonade Stand", "slug_title": "economic-cooperation-noel-s-lemonade-stand", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

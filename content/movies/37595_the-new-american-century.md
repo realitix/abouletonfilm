@@ -1,0 +1,1 @@
+{"tmdb_id": 37595, "title": "The New American Century", "original_title": "The New American Century", "slug_title": "the-new-american-century", "date": "2009-06-21", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PCrkKFfKKaRdNNgSAHuYAQkfrB.jpg", "actors": [], "comments": [], "recommandations_id": [37228]}

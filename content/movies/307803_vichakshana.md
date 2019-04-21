@@ -1,0 +1,1 @@
+{"tmdb_id": 307803, "title": "Vichakshana", "original_title": "Vichakshana", "slug_title": "vichakshana", "date": "2014-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410015, "title": "R\u00e9quiem por un (No)Muerto", "original_title": "R\u00e9quiem por un (No)Muerto", "slug_title": "requiem-por-un-no-muerto", "date": "2012-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fcVjcQ7A0XMhYAbCOHdzAuqjQy0.jpg", "actors": [], "comments": [], "recommandations_id": []}

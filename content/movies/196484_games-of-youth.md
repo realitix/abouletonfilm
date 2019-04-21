@@ -1,0 +1,1 @@
+{"tmdb_id": 196484, "title": "Games of Youth", "original_title": "Jugendspiele", "slug_title": "games-of-youth", "date": "1907-01-01", "genre": "Documentaire", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mBodulf2I7IHwiAZrzD9ofQVynE.jpg", "actors": [], "comments": [], "recommandations_id": [190716, 196480, 190648, 262054]}

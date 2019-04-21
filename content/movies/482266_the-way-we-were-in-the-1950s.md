@@ -1,0 +1,1 @@
+{"tmdb_id": 482266, "title": "The Way We Were in the 1950\u2019s", "original_title": "The Way We Were in the 1950\u2019s", "slug_title": "the-way-we-were-in-the-1950s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDaXPEbwnYOufMzxZVLL3iWJi2h.jpg", "actors": [], "comments": [], "recommandations_id": []}

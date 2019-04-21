@@ -1,0 +1,1 @@
+{"tmdb_id": 540124, "title": "L'amour guide", "original_title": "L'amour guide", "slug_title": "l-amour-guide", "date": "1934-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

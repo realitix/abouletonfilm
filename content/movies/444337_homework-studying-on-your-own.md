@@ -1,0 +1,1 @@
+{"tmdb_id": 444337, "title": "Homework: Studying on Your Own", "original_title": "Homework: Studying on Your Own", "slug_title": "homework-studying-on-your-own", "date": "1953-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chuck Davis (Himself)"], "comments": [], "recommandations_id": []}

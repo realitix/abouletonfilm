@@ -1,0 +1,1 @@
+{"tmdb_id": 538549, "title": "Campement 13", "original_title": "Campement 13", "slug_title": "campement-13", "date": "1940-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysMskTctUhwTLTfX6RqQLI06PCL.jpg", "actors": [], "comments": [], "recommandations_id": []}

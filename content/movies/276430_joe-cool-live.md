@@ -1,0 +1,1 @@
+{"tmdb_id": 276430, "title": "Joe Cool Live", "original_title": "Joe Cool Live", "slug_title": "joe-cool-live", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

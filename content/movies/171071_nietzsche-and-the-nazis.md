@@ -1,0 +1,1 @@
+{"tmdb_id": 171071, "title": "Nietzsche and the Nazis", "original_title": "Nietzsche and the Nazis", "slug_title": "nietzsche-and-the-nazis", "date": "2006-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYb7ofEf61fBodvagEWTs4cSAiN.jpg", "actors": ["Stephen R.C. Hicks ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 398150, "title": "ECW November to Remember 1995", "original_title": "ECW November to Remember 1995", "slug_title": "ecw-november-to-remember-1995", "date": "1995-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68aJnxwBnlLYm4Pclwddsbm7mJD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307205, "title": "Sing the Blues", "original_title": "Sing the Blues", "slug_title": "sing-the-blues", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

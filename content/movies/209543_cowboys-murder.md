@@ -1,0 +1,1 @@
+{"tmdb_id": 209543, "title": "Cowboys: Murder!", "original_title": "Cowboys: Murder!", "slug_title": "cowboys-murder", "date": "1991-01-01", "genre": "Western / Animation / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zobkYbovDFLLOwHQyjJqhZj9uv4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539193, "title": "Humberto Mauro", "original_title": "Humberto Mauro", "slug_title": "humberto-mauro", "date": "2018-08-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/veRV6PSXMdzwUuLmmHJ5yppeRFQ.jpg", "actors": ["Humberto Mauro (Ele mesmo (arquivo))"], "comments": [], "recommandations_id": []}

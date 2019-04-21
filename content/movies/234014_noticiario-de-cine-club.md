@@ -1,0 +1,1 @@
+{"tmdb_id": 234014, "title": "Noticiario de cine club", "original_title": "Noticiario de cine club", "slug_title": "noticiario-de-cine-club", "date": "1930-11-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 506568, "title": "I Can't Remember Anything About Afghanistan!", "original_title": "Roo be jaei door", "slug_title": "i-can-t-remember-anything-about-afghanistan", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

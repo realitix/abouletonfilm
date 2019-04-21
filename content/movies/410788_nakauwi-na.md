@@ -1,0 +1,1 @@
+{"tmdb_id": 410788, "title": "Nakauwi Na", "original_title": "Nakauwi Na", "slug_title": "nakauwi-na", "date": "2016-08-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zTQ3jkLgCFQenQJGNpIULXesfGd.jpg", "actors": ["Moises Magisa ()", "Himlay Payapa ()"], "comments": [], "recommandations_id": []}

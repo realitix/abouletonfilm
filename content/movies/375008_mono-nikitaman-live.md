@@ -1,0 +1,1 @@
+{"tmdb_id": 375008, "title": "Mono & Nikitaman - Live!", "original_title": "Mono & Nikitaman - Live!", "slug_title": "mono-nikitaman-live", "date": "2012-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34QJGWyVh2XD9QBDtbffezBqVuG.jpg", "actors": [], "comments": [], "recommandations_id": []}

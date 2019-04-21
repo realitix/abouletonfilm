@@ -1,0 +1,1 @@
+{"tmdb_id": 502062, "title": "Return of the Exorcists", "original_title": "Return of the Exorcists", "slug_title": "return-of-the-exorcists", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ayd8PdiMIfNFl58SPB4LKN9kywr.jpg", "actors": ["Father Francis Tiso (Narrator)"], "comments": [], "recommandations_id": []}

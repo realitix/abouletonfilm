@@ -1,0 +1,1 @@
+{"tmdb_id": 330630, "title": "Weather Forecast", "original_title": "Weather Forecast", "slug_title": "weather-forecast", "date": "1934-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySv4Ktl69EkHYHoSj3TptzFXw21.jpg", "actors": [], "comments": [], "recommandations_id": []}

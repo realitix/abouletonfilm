@@ -1,0 +1,1 @@
+{"tmdb_id": 471018, "title": "White Vertigo", "original_title": "Vertigine bianca", "slug_title": "white-vertigo", "date": "1956-12-31", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38IwfLK1LVsr4ug4Hif77UCRelh.jpg", "actors": [], "comments": [], "recommandations_id": []}

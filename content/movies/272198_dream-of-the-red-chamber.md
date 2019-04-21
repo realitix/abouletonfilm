@@ -1,0 +1,1 @@
+{"tmdb_id": 272198, "title": "Dream of the Red Chamber", "original_title": "Dream of the Red Chamber", "slug_title": "dream-of-the-red-chamber", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6u05lnmGwE9YjnuPji3641rJxkY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393381, "title": "Le cin\u00e9ma dans les yeux", "original_title": "Le cin\u00e9ma dans les yeux", "slug_title": "le-cinema-dans-les-yeux", "date": "1987-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

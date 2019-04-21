@@ -1,0 +1,1 @@
+{"tmdb_id": 108143, "title": "Harlem-Mania", "original_title": "Harlem-Mania", "slug_title": "harlem-mania", "date": "1929-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Az3Cc2ZuSj6q9PhqD3d2HWjgDS.jpg", "actors": ["The Norman Thomas Quintet (Themselves)"], "comments": [], "recommandations_id": []}

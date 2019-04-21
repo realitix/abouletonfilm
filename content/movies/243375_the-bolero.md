@@ -1,0 +1,1 @@
+{"tmdb_id": 243375, "title": "The Bolero", "original_title": "The Bolero", "slug_title": "the-bolero", "date": "1973-10-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WhLyiYCenpHNuVjKrOiBpE3xNK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580845, "title": "Sandra o Luis", "original_title": "Sandra o Luis", "slug_title": "sandra-o-luis", "date": "2005-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grCiR5Mq4KN2FtVP5FIX4OyKaou.jpg", "actors": [], "comments": [], "recommandations_id": []}

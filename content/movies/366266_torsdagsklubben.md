@@ -1,0 +1,1 @@
+{"tmdb_id": 366266, "title": "Torsdagsklubben", "original_title": "Torsdagsklubben", "slug_title": "torsdagsklubben", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

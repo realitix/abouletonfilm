@@ -1,0 +1,1 @@
+{"tmdb_id": 476756, "title": "La vita provvisoria", "original_title": "La vita provvisoria", "slug_title": "la-vita-provvisoria", "date": "1963-01-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

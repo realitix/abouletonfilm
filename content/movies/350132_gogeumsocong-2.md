@@ -1,0 +1,1 @@
+{"tmdb_id": 350132, "title": "\uace0\uae08\uc18c\ucd1d 2", "original_title": "\uace0\uae08\uc18c\ucd1d 2", "slug_title": "gogeumsocong-2", "date": "1991-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

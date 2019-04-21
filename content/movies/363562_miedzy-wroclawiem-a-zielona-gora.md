@@ -1,0 +1,1 @@
+{"tmdb_id": 363562, "title": "Miedzy Wroclawiem a Zielona G\u00f3ra", "original_title": "Miedzy Wroclawiem a Zielona G\u00f3ra", "slug_title": "miedzy-wroclawiem-a-zielona-gora", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

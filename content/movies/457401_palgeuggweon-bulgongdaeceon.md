@@ -1,0 +1,1 @@
+{"tmdb_id": 457401, "title": "\ud314\uadf9\uad8c: \ubd88\uacf5\ub300\ucc9c", "original_title": "\ud314\uadf9\uad8c: \ubd88\uacf5\ub300\ucc9c", "slug_title": "palgeuggweon-bulgongdaeceon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

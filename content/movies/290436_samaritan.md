@@ -1,0 +1,1 @@
+{"tmdb_id": 290436, "title": "Samaritan", "original_title": "Samarito", "slug_title": "samaritan", "date": "2011-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPAep4MLseEdlTcvHgDAkDwfM6A.jpg", "actors": ["Bea Garcia ()", "Nico Dabon ()"], "comments": [], "recommandations_id": []}

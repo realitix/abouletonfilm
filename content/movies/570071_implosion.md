@@ -1,0 +1,1 @@
+{"tmdb_id": 570071, "title": "Implosion", "original_title": "Implosion", "slug_title": "implosion", "date": "2009-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3zYX7qhpqRlkCBuEeDyaFJH2qr1.jpg", "actors": [], "comments": [], "recommandations_id": []}

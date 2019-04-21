@@ -1,0 +1,1 @@
+{"tmdb_id": 376804, "title": "Suet Leung", "original_title": "\u96ea\u5a18", "slug_title": "suet-leung", "date": "1969-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fI4ud5cuTKrH618ycCDWrln072q.jpg", "actors": ["Wang Mo-chou ()", "Tanny Tien-Ni ()", "Yueh Yang ()"], "comments": [], "recommandations_id": []}

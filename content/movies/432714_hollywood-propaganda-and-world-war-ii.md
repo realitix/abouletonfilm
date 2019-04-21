@@ -1,0 +1,1 @@
+{"tmdb_id": 432714, "title": "Hollywood Propaganda and World War II", "original_title": "Hollywood Propaganda and World War II", "slug_title": "hollywood-propaganda-and-world-war-ii", "date": "2013-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

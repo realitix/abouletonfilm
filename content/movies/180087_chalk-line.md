@@ -1,0 +1,1 @@
+{"tmdb_id": 180087, "title": "Chalk Line", "original_title": "Chalk Line", "slug_title": "chalk-line", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxHzaLPTyQVf9sG70gi2I2ynZi6.jpg", "actors": [], "comments": [], "recommandations_id": []}

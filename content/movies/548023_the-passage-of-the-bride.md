@@ -1,0 +1,1 @@
+{"tmdb_id": 548023, "title": "The Passage of the Bride", "original_title": "The Passage of the Bride", "slug_title": "the-passage-of-the-bride", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

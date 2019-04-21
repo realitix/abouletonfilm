@@ -1,0 +1,1 @@
+{"tmdb_id": 279748, "title": "Draft Dodgers", "original_title": "R\u00e9fractaire", "slug_title": "draft-dodgers", "date": "2009-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izS4eJXslIVgMAUVCIXPLnNA5Nw.jpg", "actors": [], "comments": [], "recommandations_id": []}

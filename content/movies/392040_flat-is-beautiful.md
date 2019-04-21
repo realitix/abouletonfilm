@@ -1,0 +1,1 @@
+{"tmdb_id": 392040, "title": "Flat Is Beautiful", "original_title": "Flat Is Beautiful", "slug_title": "flat-is-beautiful", "date": "1998-01-01", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0Hrytjo7Sf88Nztviqhd9OJmls.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 306380, "title": "Shadyantra", "original_title": "Shadyantra", "slug_title": "shadyantra", "date": "1990-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

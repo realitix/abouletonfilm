@@ -1,0 +1,1 @@
+{"tmdb_id": 318479, "title": "Outside Industry: The Story of SXSW", "original_title": "Outside Industry: The Story of SXSW", "slug_title": "outside-industry-the-story-of-sxsw", "date": "2011-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

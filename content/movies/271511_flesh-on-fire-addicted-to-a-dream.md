@@ -1,0 +1,1 @@
+{"tmdb_id": 271511, "title": "Flesh on Fire: Addicted to a Dream", "original_title": "Flesh on Fire: Addicted to a Dream", "slug_title": "flesh-on-fire-addicted-to-a-dream", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

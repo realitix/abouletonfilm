@@ -1,0 +1,1 @@
+{"tmdb_id": 379817, "title": "Nelvanimation II", "original_title": "Nelvanimation II", "slug_title": "nelvanimation-ii", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRJOXbJsko085F52ef2Qa2JI2If.jpg", "actors": [], "comments": [], "recommandations_id": []}

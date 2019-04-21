@@ -1,0 +1,1 @@
+{"tmdb_id": 215571, "title": "\u0411\u0443\u043a\u0430\u0448\u043a\u0438! 3D", "original_title": "\u0411\u0443\u043a\u0430\u0448\u043a\u0438! 3D", "slug_title": "bukashki-3d", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

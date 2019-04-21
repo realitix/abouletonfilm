@@ -1,0 +1,1 @@
+{"tmdb_id": 414396, "title": "Bar-Rac's Night Out", "original_title": "Bar-Rac's Night Out", "slug_title": "bar-rac-s-night-out", "date": "1937-02-27", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Earl Frank (Director)", "Pete Smith (Narrator)"], "comments": [], "recommandations_id": []}

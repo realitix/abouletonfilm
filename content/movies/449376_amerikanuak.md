@@ -1,0 +1,1 @@
+{"tmdb_id": 449376, "title": "Amerikanuak", "original_title": "Amerikanuak", "slug_title": "amerikanuak", "date": "2010-11-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1QvBRoevsyVSRFJTSh5TN6Y6T0n.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273065, "title": "The Minutemen", "original_title": "The Minutemen", "slug_title": "the-minutemen", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

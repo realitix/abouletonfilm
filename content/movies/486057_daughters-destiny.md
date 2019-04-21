@@ -1,0 +1,1 @@
+{"tmdb_id": 486057, "title": "Daughters' Destiny", "original_title": "Daughters' Destiny", "slug_title": "daughters-destiny", "date": "2007-11-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anita Khadka Karki ()", "Thuli Maya ()", "Savitri ()"], "comments": [], "recommandations_id": []}

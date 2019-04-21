@@ -1,0 +1,1 @@
+{"tmdb_id": 277043, "title": "Ian McLagan & the Bump Band: In Concert", "original_title": "Ian McLagan & the Bump Band: In Concert", "slug_title": "ian-mclagan-the-bump-band-in-concert", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 74124, "title": "Shinjuku Boys", "original_title": "Shinjuku Boys", "slug_title": "shinjuku-boys", "date": "1995-07-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rg6m4juHbGSu92undjYnCwQzvxM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 370292, "title": "Paradox of Praxis 5", "original_title": "Paradox of Praxis 5", "slug_title": "paradox-of-praxis-5", "date": "2015-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

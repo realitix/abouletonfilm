@@ -1,0 +1,1 @@
+{"tmdb_id": 456030, "title": "Phantasm: Genesis", "original_title": "Phantasm: Genesis", "slug_title": "phantasm-genesis", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

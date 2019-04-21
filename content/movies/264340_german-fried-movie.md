@@ -1,0 +1,1 @@
+{"tmdb_id": 264340, "title": "German Fried Movie", "original_title": "German Fried Movie", "slug_title": "german-fried-movie", "date": "1992-04-09", "genre": "Com\u00e9die", "score": "2.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucPy0k52QXCK0682OUe2EJ9rmxy.jpg", "actors": [], "comments": [], "recommandations_id": [31538, 31285]}

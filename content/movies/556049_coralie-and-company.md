@@ -1,0 +1,1 @@
+{"tmdb_id": 556049, "title": "Coralie and Company", "original_title": "Coralie et Cie", "slug_title": "coralie-and-company", "date": "1934-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

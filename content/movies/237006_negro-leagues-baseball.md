@@ -1,0 +1,1 @@
+{"tmdb_id": 237006, "title": "Negro Leagues Baseball", "original_title": "Negro Leagues Baseball", "slug_title": "negro-leagues-baseball", "date": "1946-11-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

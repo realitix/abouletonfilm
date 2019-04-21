@@ -1,0 +1,1 @@
+{"tmdb_id": 115076, "title": "The Squaw Man", "original_title": "The Squaw Man", "slug_title": "the-squaw-man", "date": "1918-12-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZmMkOn69PT0zCMhVYdOEFKRuyG.jpg", "actors": ["Elliott Dexter (Jim Wynnegate)"], "comments": [], "recommandations_id": []}

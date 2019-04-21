@@ -1,0 +1,1 @@
+{"tmdb_id": 284385, "title": "How Rastus Got His Chicken", "original_title": "How Rastus Got His Chicken", "slug_title": "how-rastus-got-his-chicken", "date": "1910-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

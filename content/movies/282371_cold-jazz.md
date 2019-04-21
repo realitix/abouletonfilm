@@ -1,0 +1,1 @@
+{"tmdb_id": 282371, "title": "Cold Jazz", "original_title": "Cold Jazz", "slug_title": "cold-jazz", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfscOBtnKTYg3Kb6JxMufQVoc2f.jpg", "actors": ["Jayne Parker ()", "Kathy Stobart ()"], "comments": [], "recommandations_id": []}

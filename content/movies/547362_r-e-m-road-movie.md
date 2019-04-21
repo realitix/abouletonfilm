@@ -1,0 +1,1 @@
+{"tmdb_id": 547362, "title": "R.E.M. Road Movie", "original_title": "R.E.M. Road Movie", "slug_title": "r-e-m-road-movie", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1MxJVOjkMrEXt6lJPXuE8VFo4Mk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320936, "title": "Symphonica - George Michael", "original_title": "Symphonica - George Michael", "slug_title": "symphonica-george-michael", "date": "2014-03-14", "genre": "Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLzFx5hINLT1fpkadhVB0WdJGMM.jpg", "actors": [], "comments": [], "recommandations_id": []}

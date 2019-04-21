@@ -1,0 +1,1 @@
+{"tmdb_id": 227602, "title": "Disk Jockey", "original_title": "Disk Jockey", "slug_title": "disk-jockey", "date": "2006-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rw9l2r8Vi1UPpO0eTRzf70KmRTH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272865, "title": "On The Trail Of Ed Wood", "original_title": "On The Trail Of Ed Wood", "slug_title": "on-the-trail-of-ed-wood", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

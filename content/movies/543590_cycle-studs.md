@@ -1,0 +1,1 @@
+{"tmdb_id": 543590, "title": "Cycle Studs", "original_title": "Cycle Studs", "slug_title": "cycle-studs", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Kahnler ()", "Kentucky Man ()", "Joey Vox ()", "Mike Stern ()"], "comments": [], "recommandations_id": []}

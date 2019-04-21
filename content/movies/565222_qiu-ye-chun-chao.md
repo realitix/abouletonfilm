@@ -1,0 +1,1 @@
+{"tmdb_id": 565222, "title": "\u79cb\u91ce\u6625\u6f6e", "original_title": "\u79cb\u91ce\u6625\u6f6e", "slug_title": "qiu-ye-chun-chao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

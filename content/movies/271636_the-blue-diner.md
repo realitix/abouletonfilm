@@ -1,0 +1,1 @@
+{"tmdb_id": 271636, "title": "The Blue Diner", "original_title": "The Blue Diner", "slug_title": "the-blue-diner", "date": "2001-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

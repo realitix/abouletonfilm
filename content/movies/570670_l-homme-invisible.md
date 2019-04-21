@@ -1,0 +1,1 @@
+{"tmdb_id": 570670, "title": "L'Homme Invisible", "original_title": "The Invisible Man", "slug_title": "l-homme-invisible", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Une nouvelle version de L'Homme Invisible.", "image": "/img/default-cover.png", "actors": ["Elisabeth Moss ()"], "comments": [], "recommandations_id": []}

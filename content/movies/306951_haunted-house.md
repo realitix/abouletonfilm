@@ -1,0 +1,1 @@
+{"tmdb_id": 306951, "title": "Haunted House", "original_title": "Haunted House", "slug_title": "haunted-house", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

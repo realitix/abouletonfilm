@@ -1,0 +1,1 @@
+{"tmdb_id": 311991, "title": "Trace Adkins: Video Hits 2", "original_title": "Trace Adkins: Video Hits 2", "slug_title": "trace-adkins-video-hits-2", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

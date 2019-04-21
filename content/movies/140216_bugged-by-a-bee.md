@@ -1,0 +1,1 @@
+{"tmdb_id": 140216, "title": "Bugged by a Bee", "original_title": "Bugged by a Bee", "slug_title": "bugged-by-a-bee", "date": "1969-07-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHQ6SLC50DnZxWdgcSg8N3qL4r5.jpg", "actors": ["Larry Storch (Cool Cat)"], "comments": [], "recommandations_id": []}

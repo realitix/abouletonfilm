@@ -1,0 +1,1 @@
+{"tmdb_id": 272239, "title": "England: Journeys of Charles Dickens", "original_title": "England: Journeys of Charles Dickens", "slug_title": "england-journeys-of-charles-dickens", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579265, "title": "Viktor et les ombres", "original_title": "Viktor et les ombres", "slug_title": "viktor-et-les-ombres", "date": "2001-01-01", "genre": "Animation / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Franck Dubois (Viktor)"], "comments": [], "recommandations_id": []}

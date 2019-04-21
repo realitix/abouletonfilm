@@ -1,0 +1,1 @@
+{"tmdb_id": 588837, "title": "Arth\u00e8me op\u00e9rateur", "original_title": "Arth\u00e8me op\u00e9rateur", "slug_title": "artheme-operateur", "date": "1914-01-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernest Serva\u00e8s (Arth\u00e8me)"], "comments": [], "recommandations_id": []}

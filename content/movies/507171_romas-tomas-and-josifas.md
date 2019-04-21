@@ -1,0 +1,1 @@
+{"tmdb_id": 507171, "title": "Romas, Tomas and Josifas", "original_title": "Romas, Tomas ir Josifas", "slug_title": "romas-tomas-and-josifas", "date": "2018-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

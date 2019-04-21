@@ -1,0 +1,1 @@
+{"tmdb_id": 352961, "title": "The Feud", "original_title": "The Feud", "slug_title": "the-feud", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kellan Lutz (Toland)"], "comments": [], "recommandations_id": []}

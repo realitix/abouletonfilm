@@ -1,0 +1,1 @@
+{"tmdb_id": 333044, "title": "The Weak Point", "original_title": "Noghteh Zaf", "slug_title": "the-weak-point", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hossein Parvaresh ()", "Javad Golpaygani ()", "Jamshid Hashempour ()"], "comments": [], "recommandations_id": []}

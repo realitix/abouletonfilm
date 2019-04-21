@@ -1,0 +1,1 @@
+{"tmdb_id": 570716, "title": "Superman: Requiem", "original_title": "Superman: Requiem", "slug_title": "superman-requiem", "date": "2011-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

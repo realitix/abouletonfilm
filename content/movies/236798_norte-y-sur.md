@@ -1,0 +1,1 @@
+{"tmdb_id": 236798, "title": "Norte y Sur", "original_title": "Norte y Sur", "slug_title": "norte-y-sur", "date": "1934-07-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8AKILlrMvMrOcW0OTbkUtIqAn7.jpg", "actors": [], "comments": [], "recommandations_id": []}

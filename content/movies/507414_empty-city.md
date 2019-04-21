@@ -1,0 +1,1 @@
+{"tmdb_id": 507414, "title": "EMPTY CITY", "original_title": "EMPTY CITY", "slug_title": "empty-city", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gKso6v8q0AydRsoYQ4S5LxqOsnm.jpg", "actors": ["M\u00c1RTON FISCHER (MARCI)"], "comments": [], "recommandations_id": []}

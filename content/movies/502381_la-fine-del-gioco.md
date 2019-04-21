@@ -1,0 +1,1 @@
+{"tmdb_id": 502381, "title": "La fine del gioco", "original_title": "La fine del gioco", "slug_title": "la-fine-del-gioco", "date": "1970-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gianni Amelio (l'accompagnatore)", "Ugo Gregoretti (l'intervistatore)"], "comments": [], "recommandations_id": []}

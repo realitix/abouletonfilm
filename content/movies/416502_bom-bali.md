@@ -1,0 +1,1 @@
+{"tmdb_id": 416502, "title": "Bom Bali", "original_title": "Bom Bali", "slug_title": "bom-bali", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlewZasq0rTLS1Ngu5DdOybGXem.jpg", "actors": [], "comments": [], "recommandations_id": []}

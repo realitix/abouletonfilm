@@ -1,0 +1,1 @@
+{"tmdb_id": 313914, "title": "The Death of Place", "original_title": "The Death of Place", "slug_title": "the-death-of-place", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

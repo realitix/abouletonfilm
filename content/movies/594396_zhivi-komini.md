@@ -1,0 +1,1 @@
+{"tmdb_id": 594396, "title": "\u0416\u0438\u0432\u0438 \u043a\u043e\u043c\u0438\u043d\u0438", "original_title": "\u0416\u0438\u0432\u0438 \u043a\u043e\u043c\u0438\u043d\u0438", "slug_title": "zhivi-komini", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

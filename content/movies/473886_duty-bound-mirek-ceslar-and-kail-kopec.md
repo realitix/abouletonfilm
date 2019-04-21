@@ -1,0 +1,1 @@
+{"tmdb_id": 473886, "title": "Duty Bound: Mirek Ceslar and Kail Kopec", "original_title": "Duty Bound: Mirek Ceslar and Kail Kopec", "slug_title": "duty-bound-mirek-ceslar-and-kail-kopec", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kail Kopec ()", "Damian Dickey ()"], "comments": [], "recommandations_id": []}

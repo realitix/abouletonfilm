@@ -1,0 +1,1 @@
+{"tmdb_id": 557525, "title": "Shadow Puppets", "original_title": "\u05e6\u05dc\u05dc\u05d9\u05d5\u05ea", "slug_title": "shadow-puppets", "date": "2013-01-01", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yehoyachin Friedlander ()", "Fira Kantor ()", "Tal Zamir ()"], "comments": [], "recommandations_id": []}

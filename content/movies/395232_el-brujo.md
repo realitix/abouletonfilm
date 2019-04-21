@@ -1,0 +1,1 @@
+{"tmdb_id": 395232, "title": "El Brujo", "original_title": "El Brujo", "slug_title": "el-brujo", "date": "2015-01-01", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMUTaAslSHR2UqB0jGJwpiip8ij.jpg", "actors": ["Bangs Garcia ()", "Gerald Anderson ()", "Jake Cuenca ()"], "comments": [], "recommandations_id": []}

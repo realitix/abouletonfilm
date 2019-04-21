@@ -1,0 +1,1 @@
+{"tmdb_id": 300283, "title": "Der Springer", "original_title": "Der Springer", "slug_title": "der-springer", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

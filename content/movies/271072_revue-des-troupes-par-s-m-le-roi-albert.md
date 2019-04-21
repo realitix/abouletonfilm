@@ -1,0 +1,1 @@
+{"tmdb_id": 271072, "title": "Revue des troupes par S.M. le roi Albert", "original_title": "Revue des troupes par S.M. le roi Albert", "slug_title": "revue-des-troupes-par-s-m-le-roi-albert", "date": "1921-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

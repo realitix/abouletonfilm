@@ -1,0 +1,1 @@
+{"tmdb_id": 284553, "title": "Japanese Sampans", "original_title": "Japanese Sampans", "slug_title": "japanese-sampans", "date": "1898-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

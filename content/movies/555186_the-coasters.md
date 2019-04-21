@@ -1,0 +1,1 @@
+{"tmdb_id": 555186, "title": "The Coasters", "original_title": "Les Coasters", "slug_title": "the-coasters", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

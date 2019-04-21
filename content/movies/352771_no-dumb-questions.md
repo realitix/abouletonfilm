@@ -1,0 +1,1 @@
+{"tmdb_id": 352771, "title": "No Dumb Questions", "original_title": "No Dumb Questions", "slug_title": "no-dumb-questions", "date": "2001-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

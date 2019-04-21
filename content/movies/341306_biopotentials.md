@@ -1,0 +1,1 @@
+{"tmdb_id": 341306, "title": "Biopotentials", "original_title": "Biopotentials", "slug_title": "biopotentials", "date": "1988-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9YG7KRFLrqmRClEGVJHnvECRLSc.jpg", "actors": [], "comments": [], "recommandations_id": []}

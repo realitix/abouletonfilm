@@ -1,0 +1,1 @@
+{"tmdb_id": 127989, "title": "The Crossroads Crash", "original_title": "The Crossroads Crash", "slug_title": "the-crossroads-crash", "date": "1973-12-31", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9MROfTb5y3ROwdJaCJTRA77yHC.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 260364, 249354, 352631]}

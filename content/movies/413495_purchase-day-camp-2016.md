@@ -1,0 +1,1 @@
+{"tmdb_id": 413495, "title": "Purchase Day Camp 2016", "original_title": "Purchase Day Camp 2016", "slug_title": "purchase-day-camp-2016", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

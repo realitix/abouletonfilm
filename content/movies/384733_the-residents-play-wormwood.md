@@ -1,0 +1,1 @@
+{"tmdb_id": 384733, "title": "The Residents Play Wormwood", "original_title": "The Residents Play Wormwood", "slug_title": "the-residents-play-wormwood", "date": "2005-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcHvzrQINdEjBl8tlcYj70adP0L.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500585, "title": "Arme kleine Sif", "original_title": "Arme kleine Sif", "slug_title": "arme-kleine-sif", "date": "1927-08-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Wegener ()", "Adele Sandrock ()", "Jakob Tiedtke ()", "Grete Mosheim ()", "Anton Pointner ()"], "comments": [], "recommandations_id": []}

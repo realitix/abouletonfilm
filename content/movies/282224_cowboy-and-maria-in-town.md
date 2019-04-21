@@ -1,0 +1,1 @@
+{"tmdb_id": 282224, "title": "Cowboy and Maria in Town", "original_title": "Cowboy and Maria in Town", "slug_title": "cowboy-and-maria-in-town", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfm5ivWG88mEBdOXKwuWkeUgYyl.jpg", "actors": [], "comments": [], "recommandations_id": []}

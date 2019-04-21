@@ -1,0 +1,1 @@
+{"tmdb_id": 349695, "title": "A Different Kind of Man", "original_title": "\uac00\uc2b4 \ub2ec\ub9b0 \ub0a8\uc790", "slug_title": "a-different-kind-of-man", "date": "1993-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

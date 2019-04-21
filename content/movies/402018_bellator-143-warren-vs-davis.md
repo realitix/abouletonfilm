@@ -1,0 +1,1 @@
+{"tmdb_id": 402018, "title": "Bellator 143: Warren vs. Davis", "original_title": "Bellator 143: Warren vs. Davis", "slug_title": "bellator-143-warren-vs-davis", "date": "2015-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qbaoE8i7ezybK2kvLWg4EQR3buR.jpg", "actors": [], "comments": [], "recommandations_id": []}

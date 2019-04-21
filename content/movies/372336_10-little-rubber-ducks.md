@@ -1,0 +1,1 @@
+{"tmdb_id": 372336, "title": "10 Little Rubber Ducks", "original_title": "10 Little Rubber Ducks", "slug_title": "10-little-rubber-ducks", "date": "2015-12-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

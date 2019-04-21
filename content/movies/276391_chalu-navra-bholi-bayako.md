@@ -1,0 +1,1 @@
+{"tmdb_id": 276391, "title": "Chalu Navra Bholi Bayako", "original_title": "Chalu Navra Bholi Bayako", "slug_title": "chalu-navra-bholi-bayako", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

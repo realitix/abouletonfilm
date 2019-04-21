@@ -1,0 +1,1 @@
+{"tmdb_id": 235843, "title": "Ten Pin Terrors", "original_title": "Ten Pin Terrors", "slug_title": "ten-pin-terrors", "date": "1953-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

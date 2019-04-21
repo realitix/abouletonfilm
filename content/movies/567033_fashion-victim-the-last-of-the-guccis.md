@@ -1,0 +1,1 @@
+{"tmdb_id": 567033, "title": "Fashion Victim: The Last of the Guccis", "original_title": "Fashion Victim: The Last of the Guccis", "slug_title": "fashion-victim-the-last-of-the-guccis", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samuel West ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 188404, "title": "Homage to Eadweard Muybridge", "original_title": "Homage to Eadweard Muybridge", "slug_title": "homage-to-eadweard-muybridge", "date": "1994-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

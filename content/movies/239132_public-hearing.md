@@ -1,0 +1,1 @@
+{"tmdb_id": 239132, "title": "Public Hearing", "original_title": "Public Hearing", "slug_title": "public-hearing", "date": "2012-12-05", "genre": "", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fgh43guojZLdycqQosme1juU5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

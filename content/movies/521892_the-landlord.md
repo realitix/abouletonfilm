@@ -1,0 +1,1 @@
+{"tmdb_id": 521892, "title": "The Landlord", "original_title": "The Landlord", "slug_title": "the-landlord", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ted McGinley ()", "Molly McCook ()", "Jack Turner ()", "Amy Arburn ()", "Ashley Santos ()"], "comments": [], "recommandations_id": []}

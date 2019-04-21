@@ -1,0 +1,1 @@
+{"tmdb_id": 585056, "title": "Table Manner", "original_title": "\ud14c\uc774\ube14 \ub9e4\ub108", "slug_title": "table-manner", "date": "2018-07-04", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGEGiLUudkjbBsEyNqW6Wxeu0so.jpg", "actors": [], "comments": [], "recommandations_id": []}

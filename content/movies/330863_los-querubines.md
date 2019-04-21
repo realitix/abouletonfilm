@@ -1,0 +1,1 @@
+{"tmdb_id": 330863, "title": "Los querubines", "original_title": "Los querubines", "slug_title": "los-querubines", "date": "2004-11-15", "genre": "Animation", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eH9SM4rDiYMrzok21A3MLoO99u.jpg", "actors": ["Salvador S\u00e1inz (Pirata Patapalo)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275910, "title": "His Master's Voice", "original_title": "La voix de son ma\u00eetre", "slug_title": "his-master-s-voice", "date": "1978-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oIzjEjAZJO8fYdor21hF3KIC4Jj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310824, "title": "Preachin' to the Sistas", "original_title": "Preachin' to the Sistas", "slug_title": "preachin-to-the-sistas", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aToibSEkNUiXIoD6Y8QfEB6PqX8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 82111, "title": "Roy Lichtenstein", "original_title": "Roy Lichtenstein", "slug_title": "roy-lichtenstein", "date": "1991-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9RoK4wXiHiVDkokKDOrBSsQSAFW.jpg", "actors": [], "comments": [], "recommandations_id": []}

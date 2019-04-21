@@ -1,0 +1,1 @@
+{"tmdb_id": 487955, "title": "Alpha: The Awakening", "original_title": "Alpha: The Awakening", "slug_title": "alpha-the-awakening", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4RfsohWmN3TSYTI2tIK2l3Dco.jpg", "actors": [], "comments": [], "recommandations_id": []}

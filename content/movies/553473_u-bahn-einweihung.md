@@ -1,0 +1,1 @@
+{"tmdb_id": 553473, "title": "U-Bahn-Einweihung", "original_title": "U-Bahn-Einweihung", "slug_title": "u-bahn-einweihung", "date": "1968-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

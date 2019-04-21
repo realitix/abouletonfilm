@@ -1,0 +1,1 @@
+{"tmdb_id": 564664, "title": "A Camp is a Wall in a Forest", "original_title": "A Camp is a Wall in a Forest", "slug_title": "a-camp-is-a-wall-in-a-forest", "date": "2017-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zy62KQuwLobme3LHZpndqzabWMD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499082, "title": "Par\u00e1zs a sz\u00edvnek", "original_title": "Par\u00e1zs a sz\u00edvnek", "slug_title": "parazs-a-szivnek", "date": "2018-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/di6E0mGOiI7wuWLLOx8Wmq9KO2F.jpg", "actors": [], "comments": [], "recommandations_id": []}

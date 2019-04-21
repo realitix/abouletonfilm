@@ -1,0 +1,1 @@
+{"tmdb_id": 435911, "title": "Home Remedy", "original_title": "Home Remedy", "slug_title": "home-remedy", "date": "1987-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seth Barrish ()"], "comments": [], "recommandations_id": []}

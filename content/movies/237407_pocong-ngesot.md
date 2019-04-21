@@ -1,0 +1,1 @@
+{"tmdb_id": 237407, "title": "Pocong Ngesot", "original_title": "Pocong Ngesot", "slug_title": "pocong-ngesot", "date": "2011-02-24", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvq50R5ZHCwpJXNmCKj7xzCRI9P.jpg", "actors": [], "comments": [], "recommandations_id": []}

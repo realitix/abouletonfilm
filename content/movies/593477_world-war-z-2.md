@@ -1,0 +1,1 @@
+{"tmdb_id": 593477, "title": "World War Z 2", "original_title": "World War Z 2", "slug_title": "world-war-z-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

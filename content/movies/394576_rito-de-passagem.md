@@ -1,0 +1,1 @@
+{"tmdb_id": 394576, "title": "Rito de Passagem", "original_title": "Rito de Passagem", "slug_title": "rito-de-passagem", "date": "2014-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juliette Yu-Ming ()"], "comments": [], "recommandations_id": []}

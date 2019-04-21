@@ -1,0 +1,1 @@
+{"tmdb_id": 319805, "title": "Secrets of the Dead: D-Day: The Ultimate Conflict", "original_title": "Secrets of the Dead: D-Day: The Ultimate Conflict", "slug_title": "secrets-of-the-dead-d-day-the-ultimate-conflict", "date": "2004-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

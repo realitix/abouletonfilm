@@ -1,0 +1,1 @@
+{"tmdb_id": 585031, "title": "Strindberg: Ett Liv", "original_title": "Strindberg: Ett Liv", "slug_title": "strindberg-ett-liv", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLghcgQYzAlDhSrJVp4qLyUjXcq.jpg", "actors": ["Thommy Berggren (August Strindberg)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 432329, "title": "Why is Difficult to make Films in Kurdistan?", "original_title": "Why is Difficult to make Films in Kurdistan?", "slug_title": "why-is-difficult-to-make-films-in-kurdistan", "date": "2017-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

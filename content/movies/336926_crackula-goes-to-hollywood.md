@@ -1,0 +1,1 @@
+{"tmdb_id": 336926, "title": "Crackula Goes To Hollywood", "original_title": "Crackula Goes To Hollywood", "slug_title": "crackula-goes-to-hollywood", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

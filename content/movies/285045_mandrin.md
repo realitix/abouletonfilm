@@ -1,0 +1,1 @@
+{"tmdb_id": 285045, "title": "Mandrin", "original_title": "Mandrin", "slug_title": "mandrin", "date": "1924-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Romuald Joub\u00e9 ()", "Johanna Sutter ()", "Hugues de Bagratide ()"], "comments": [], "recommandations_id": []}

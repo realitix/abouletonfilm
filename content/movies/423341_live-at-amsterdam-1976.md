@@ -1,0 +1,1 @@
+{"tmdb_id": 423341, "title": "Live at Amsterdam 1976", "original_title": "Live at Amsterdam 1976", "slug_title": "live-at-amsterdam-1976", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marvin Gaye (Himself)"], "comments": [], "recommandations_id": []}

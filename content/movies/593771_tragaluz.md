@@ -1,0 +1,1 @@
+{"tmdb_id": 593771, "title": "Tragaluz", "original_title": "Tragaluz", "slug_title": "tragaluz", "date": "2019-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgsiNUSLDcnElEKGR8xNqzvlRQ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

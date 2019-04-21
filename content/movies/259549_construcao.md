@@ -1,0 +1,1 @@
+{"tmdb_id": 259549, "title": "Constru\u00e7\u00e3o", "original_title": "Constru\u00e7\u00e3o", "slug_title": "construcao", "date": "2011-10-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VGPPFbJxQy1jygOtRrv5TQgD89.jpg", "actors": [], "comments": [], "recommandations_id": []}

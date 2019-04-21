@@ -1,0 +1,1 @@
+{"tmdb_id": 336274, "title": "Jurassic Prank", "original_title": "Jurassic Prank", "slug_title": "jurassic-prank", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16WdX9a2YvUyDDYjzqwJK4330s3.jpg", "actors": [], "comments": [], "recommandations_id": []}

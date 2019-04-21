@@ -1,0 +1,1 @@
+{"tmdb_id": 448206, "title": "Stadium Rock - The Anthology", "original_title": "Stadium Rock - The Anthology", "slug_title": "stadium-rock-the-anthology", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9iONn5QHzGAIgMeN3rzJgeWjc1l.jpg", "actors": [], "comments": [], "recommandations_id": []}

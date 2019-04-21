@@ -1,0 +1,1 @@
+{"tmdb_id": 485408, "title": "Yankee Doodle Andy", "original_title": "Yankee Doodle Andy", "slug_title": "yankee-doodle-andy", "date": "1941-06-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

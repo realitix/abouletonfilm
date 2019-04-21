@@ -1,0 +1,1 @@
+{"tmdb_id": 285785, "title": "Le peuple et ses fusils", "original_title": "Le peuple et ses fusils", "slug_title": "le-peuple-et-ses-fusils", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

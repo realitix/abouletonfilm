@@ -1,0 +1,1 @@
+{"tmdb_id": 571941, "title": "Horowitz: The Video Collection", "original_title": "Horowitz: The Video Collection", "slug_title": "horowitz-the-video-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3a2NSNr69Yemi604Lb26l9379v.jpg", "actors": [], "comments": [], "recommandations_id": []}

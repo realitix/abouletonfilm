@@ -1,0 +1,1 @@
+{"tmdb_id": 96053, "title": "Dirty Vida", "original_title": "Dirty Vida", "slug_title": "dirty-vida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

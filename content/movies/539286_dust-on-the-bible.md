@@ -1,0 +1,1 @@
+{"tmdb_id": 539286, "title": "Dust on the Bible", "original_title": "Dust on the Bible", "slug_title": "dust-on-the-bible", "date": "1989-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Damian Gorman (Narrator)", "Martin Donnelly (Man in car)"], "comments": [], "recommandations_id": []}

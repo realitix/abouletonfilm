@@ -1,0 +1,1 @@
+{"tmdb_id": 424589, "title": "THE LEARNING ALLIANCE", "original_title": "THE LEARNING ALLIANCE", "slug_title": "the-learning-alliance", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

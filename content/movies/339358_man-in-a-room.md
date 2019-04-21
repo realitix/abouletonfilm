@@ -1,0 +1,1 @@
+{"tmdb_id": 339358, "title": "Man in a Room", "original_title": "Man in a Room", "slug_title": "man-in-a-room", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

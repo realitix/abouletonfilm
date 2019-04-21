@@ -1,0 +1,1 @@
+{"tmdb_id": 393749, "title": "Havok: [2013] Brooklyn, New York", "original_title": "Havok: [2013] Brooklyn, New York", "slug_title": "havok-2013-brooklyn-new-york", "date": "2013-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A86fedXIWQDNFGZGbePilWkFahs.jpg", "actors": [], "comments": [], "recommandations_id": []}

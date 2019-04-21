@@ -1,0 +1,1 @@
+{"tmdb_id": 170435, "title": "Loveholic", "original_title": "Loveholic", "slug_title": "loveholic", "date": "2009-10-08", "genre": "Drame", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYJIbk2AfGIufkFJ9WMBZhKVm9k.jpg", "actors": ["Jeong Chan (Jang Myeong-Won)", "Choo Ja-hyun (Ji-heun)"], "comments": [], "recommandations_id": []}

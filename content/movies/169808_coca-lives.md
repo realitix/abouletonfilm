@@ -1,0 +1,1 @@
+{"tmdb_id": 169808, "title": "Coca Lives", "original_title": "Coca Lives", "slug_title": "coca-lives", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

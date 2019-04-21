@@ -1,0 +1,1 @@
+{"tmdb_id": 378806, "title": "The Player", "original_title": "The Player", "slug_title": "the-player", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

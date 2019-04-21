@@ -1,0 +1,1 @@
+{"tmdb_id": 55315, "title": "Loyalty", "original_title": "Loyalty", "slug_title": "loyalty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

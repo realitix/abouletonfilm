@@ -1,0 +1,1 @@
+{"tmdb_id": 495664, "title": "Blanc Uyuni", "original_title": "Blanc Uyuni", "slug_title": "blanc-uyuni", "date": "2012-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

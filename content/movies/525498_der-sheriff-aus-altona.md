@@ -1,0 +1,1 @@
+{"tmdb_id": 525498, "title": "Der Sheriff aus Altona", "original_title": "Der Sheriff aus Altona", "slug_title": "der-sheriff-aus-altona", "date": "1983-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Horst Reckers ()", "Y\u00fcksel Ugurlu ()", "Jasmin Wendnagel ()"], "comments": [], "recommandations_id": []}

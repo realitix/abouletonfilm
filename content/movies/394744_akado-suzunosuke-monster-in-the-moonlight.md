@@ -1,0 +1,1 @@
+{"tmdb_id": 394744, "title": "Akado Suzunosuke: Monster in the Moonlight", "original_title": "Akad\u00f4 Suzunosuke: Tsukiyo no kaijin", "slug_title": "akado-suzunosuke-monster-in-the-moonlight", "date": "1957-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shoji Umewaka ()"], "comments": [], "recommandations_id": []}

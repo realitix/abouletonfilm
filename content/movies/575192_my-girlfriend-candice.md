@@ -1,0 +1,1 @@
+{"tmdb_id": 575192, "title": "My Girlfriend Candice", "original_title": "My Girlfriend Candice", "slug_title": "my-girlfriend-candice", "date": "2013-01-16", "genre": "Documentaire / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Casey Neistat (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 157996, "title": "Cinema Jenin", "original_title": "Cinema Jenin", "slug_title": "cinema-jenin", "date": "2012-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bYOgTh7Dap9U7DowNlHvSCFNH7P.jpg", "actors": [], "comments": [], "recommandations_id": []}

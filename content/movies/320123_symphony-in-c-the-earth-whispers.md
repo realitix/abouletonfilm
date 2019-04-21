@@ -1,0 +1,1 @@
+{"tmdb_id": 320123, "title": "Symphony in C: The Earth Whispers", "original_title": "Symphony in C: The Earth Whispers", "slug_title": "symphony-in-c-the-earth-whispers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

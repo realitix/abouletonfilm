@@ -1,0 +1,1 @@
+{"tmdb_id": 398837, "title": "Pryings", "original_title": "Pryings", "slug_title": "pryings", "date": "1971-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9uu8MwCnoTiywH3BbzzxPgNSDMP.jpg", "actors": ["Vito Acconci ()", "Kathy Dillon ()"], "comments": [], "recommandations_id": []}

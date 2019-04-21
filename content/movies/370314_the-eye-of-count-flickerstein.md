@@ -1,0 +1,1 @@
+{"tmdb_id": 370314, "title": "The Eye of Count Flickerstein", "original_title": "The Eye of Count Flickerstein", "slug_title": "the-eye-of-count-flickerstein", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7LWnv8UiYjscPye3yNULzrjPPf.jpg", "actors": [], "comments": [], "recommandations_id": []}

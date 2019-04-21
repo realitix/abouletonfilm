@@ -1,0 +1,1 @@
+{"tmdb_id": 571862, "title": "Batman vs. Superman Hawaii", "original_title": "Batman vs. Superman Hawaii", "slug_title": "batman-vs-superman-hawaii", "date": "2016-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ks5ZqLnagPpkionTa8xGIFrxPO8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329849, "title": "The Narcissus Flowers of Katsura-shima", "original_title": "The Narcissus Flowers of Katsura-shima", "slug_title": "the-narcissus-flowers-of-katsura-shima", "date": "2012-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

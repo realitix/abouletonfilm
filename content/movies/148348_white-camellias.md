@@ -1,0 +1,1 @@
+{"tmdb_id": 148348, "title": "White Camellias", "original_title": "White Camellias", "slug_title": "white-camellias", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

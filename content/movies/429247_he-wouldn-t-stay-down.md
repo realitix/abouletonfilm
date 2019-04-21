@@ -1,0 +1,1 @@
+{"tmdb_id": 429247, "title": "He Wouldn't Stay Down", "original_title": "He Wouldn't Stay Down", "slug_title": "he-wouldn-t-stay-down", "date": "1915-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase ()", "Ford Sterling ()", "Minta Durfee ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 131280, "title": "A Conversation with God", "original_title": "\u4e0e\u795e\u5bf9\u8bdd", "slug_title": "a-conversation-with-god", "date": "2001-04-28", "genre": "Horreur", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aw7wjMOvAeWzqjTD0ixCRxUrsDy.jpg", "actors": [], "comments": [], "recommandations_id": []}

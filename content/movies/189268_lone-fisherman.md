@@ -1,0 +1,1 @@
+{"tmdb_id": 189268, "title": "Lone Fisherman", "original_title": "Lone Fisherman", "slug_title": "lone-fisherman", "date": "1896-01-01", "genre": "Com\u00e9die", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8lNK3eiryVrdWXRnCHJzcWS77a.jpg", "actors": [], "comments": [], "recommandations_id": [159907, 190727, 190636, 189810]}

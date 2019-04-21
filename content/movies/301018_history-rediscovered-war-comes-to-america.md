@@ -1,0 +1,1 @@
+{"tmdb_id": 301018, "title": "History Rediscovered: War Comes to America", "original_title": "History Rediscovered: War Comes to America", "slug_title": "history-rediscovered-war-comes-to-america", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

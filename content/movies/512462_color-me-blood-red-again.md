@@ -1,0 +1,1 @@
+{"tmdb_id": 512462, "title": "Color Me Blood Red Again", "original_title": "Color Me Blood Red Again", "slug_title": "color-me-blood-red-again", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

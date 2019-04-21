@@ -1,0 +1,1 @@
+{"tmdb_id": 114067, "title": "Ian Hunter - Strings Attached", "original_title": "Ian Hunter - Strings Attached", "slug_title": "ian-hunter-strings-attached", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wuSUXtW49F4pPIizI0tKOnx6xkk.jpg", "actors": [], "comments": [], "recommandations_id": []}

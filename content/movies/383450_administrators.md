@@ -1,0 +1,1 @@
+{"tmdb_id": 383450, "title": "Administrators", "original_title": "Administrators", "slug_title": "administrators", "date": "2006-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFNMUSGsOZQ0DX8XrhJ2Ah2BIim.jpg", "actors": [], "comments": [], "recommandations_id": []}

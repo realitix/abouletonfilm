@@ -1,0 +1,1 @@
+{"tmdb_id": 493688, "title": "Der Verdammte", "original_title": "Der Verdammte", "slug_title": "der-verdammte", "date": "1957-11-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Christian Blech (Prisoner)", "Klaus Miedel (Minister)", "Walter Ladengast ()"], "comments": [], "recommandations_id": []}

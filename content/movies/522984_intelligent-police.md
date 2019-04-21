@@ -1,0 +1,1 @@
+{"tmdb_id": 522984, "title": "INTELLIGENT POLICE", "original_title": "INTELLIGENT POLICE", "slug_title": "intelligent-police", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8WEgcxvFuMXloyHaD5VEuh5alUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

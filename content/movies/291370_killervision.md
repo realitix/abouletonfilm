@@ -1,0 +1,1 @@
+{"tmdb_id": 291370, "title": "Killervision", "original_title": "Killervision", "slug_title": "killervision", "date": "2014-07-01", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

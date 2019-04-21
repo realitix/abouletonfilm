@@ -1,0 +1,1 @@
+{"tmdb_id": 466641, "title": "Selfie Generation", "original_title": "Gente Bonita", "slug_title": "selfie-generation", "date": "2016-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHrWhIYALsoRGLylwiS7COtfcNw.jpg", "actors": [], "comments": [], "recommandations_id": []}

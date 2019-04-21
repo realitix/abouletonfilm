@@ -1,0 +1,1 @@
+{"tmdb_id": 506624, "title": "A punt de fuga", "original_title": "A punt de fuga", "slug_title": "a-punt-de-fuga", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314311, "title": "In Search Of Skiing", "original_title": "In Search Of Skiing", "slug_title": "in-search-of-skiing", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Warren Miller (Narrator (voice))"], "comments": [], "recommandations_id": []}

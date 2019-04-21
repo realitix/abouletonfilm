@@ -1,0 +1,1 @@
+{"tmdb_id": 447658, "title": "Fundacja", "original_title": "Fundacja", "slug_title": "fundacja", "date": "2006-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

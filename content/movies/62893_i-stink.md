@@ -1,0 +1,1 @@
+{"tmdb_id": 62893, "title": "I Stink!", "original_title": "I Stink!", "slug_title": "i-stink", "date": "2009-05-19", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNPuOJe3OGPtdjzapvPKnCXktlR.jpg", "actors": [], "comments": [], "recommandations_id": []}

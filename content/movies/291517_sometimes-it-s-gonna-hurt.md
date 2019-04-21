@@ -1,0 +1,1 @@
+{"tmdb_id": 291517, "title": "Sometimes It's Gonna Hurt", "original_title": "Sometimes It's Gonna Hurt", "slug_title": "sometimes-it-s-gonna-hurt", "date": "1983-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

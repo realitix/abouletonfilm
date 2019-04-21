@@ -1,0 +1,1 @@
+{"tmdb_id": 42970, "title": "The Battle of the Somme", "original_title": "The Battle of the Somme", "slug_title": "the-battle-of-the-somme", "date": "1916-08-21", "genre": "Documentaire / Guerre", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUY2FEtrmSopJsREuJyy7Q4Jt0g.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394054, "title": "50 Cent: Rap Star", "original_title": "50 Cent: Rap Star", "slug_title": "50-cent-rap-star", "date": "2016-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6EJs3aycXXK7h4gsEjB8z1XWlWn.jpg", "actors": ["50 Cent (Himself)"], "comments": [], "recommandations_id": []}

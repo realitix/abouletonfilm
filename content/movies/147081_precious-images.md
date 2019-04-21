@@ -1,0 +1,1 @@
+{"tmdb_id": 147081, "title": "Precious Images", "original_title": "Precious Images", "slug_title": "precious-images", "date": "1986-12-31", "genre": "", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edcqJHVDalMYtJWjwWSEsGHUpgd.jpg", "actors": [], "comments": [], "recommandations_id": [163370, 154645, 62839, 234523]}

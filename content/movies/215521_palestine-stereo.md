@@ -1,0 +1,1 @@
+{"tmdb_id": 215521, "title": "Palestine Stereo", "original_title": "Falastine Stereo", "slug_title": "palestine-stereo", "date": "2014-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3zWw2LpLla89TQxnSi2TQ1Zg7kQ.jpg", "actors": ["Mahmud Abu-Jazi ()", "Salah Hannoun ()"], "comments": [], "recommandations_id": []}

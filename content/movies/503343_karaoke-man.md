@@ -1,0 +1,1 @@
+{"tmdb_id": 503343, "title": "Karaoke Man", "original_title": "Karaoke Man", "slug_title": "karaoke-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Dietzen (Louis)", "Marc Evan Jackson (Marble)", "Caitlin Crosby (Glennis)"], "comments": [], "recommandations_id": []}

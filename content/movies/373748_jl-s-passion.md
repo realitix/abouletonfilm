@@ -1,0 +1,1 @@
+{"tmdb_id": 373748, "title": "JL's Passion", "original_title": "A Paix\u00e3o de JL", "slug_title": "jl-s-passion", "date": "2016-02-25", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/thAHwyarvLML8sow9nV1iGghj4N.jpg", "actors": ["Jos\u00e9 Leonilson (Voice)"], "comments": [], "recommandations_id": []}

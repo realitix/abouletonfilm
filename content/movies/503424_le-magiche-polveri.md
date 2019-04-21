@@ -1,0 +1,1 @@
+{"tmdb_id": 503424, "title": "Le magiche polveri", "original_title": "Le magiche polveri", "slug_title": "le-magiche-polveri", "date": "1970-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

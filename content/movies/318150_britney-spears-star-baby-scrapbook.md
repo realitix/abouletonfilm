@@ -1,0 +1,1 @@
+{"tmdb_id": 318150, "title": "Britney Spears: Star Baby Scrapbook", "original_title": "Britney Spears: Star Baby Scrapbook", "slug_title": "britney-spears-star-baby-scrapbook", "date": "1999-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556374, "title": "La valse de l'adieu", "original_title": "La valse de l'adieu", "slug_title": "la-valse-de-l-adieu", "date": "1928-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

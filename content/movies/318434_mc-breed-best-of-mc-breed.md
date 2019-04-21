@@ -1,0 +1,1 @@
+{"tmdb_id": 318434, "title": "MC Breed: Best of MC Breed", "original_title": "MC Breed: Best of MC Breed", "slug_title": "mc-breed-best-of-mc-breed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

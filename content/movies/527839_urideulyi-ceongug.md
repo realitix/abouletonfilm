@@ -1,0 +1,1 @@
+{"tmdb_id": 527839, "title": "\uc6b0\ub9ac\ub4e4\uc758 \ucc9c\uad6d", "original_title": "\uc6b0\ub9ac\ub4e4\uc758 \ucc9c\uad6d", "slug_title": "urideulyi-ceongug", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jo Han-sun ()", "Sung Hoon ()"], "comments": [], "recommandations_id": []}

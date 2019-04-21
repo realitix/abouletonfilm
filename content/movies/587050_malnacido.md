@@ -1,0 +1,1 @@
+{"tmdb_id": 587050, "title": "Malnacido", "original_title": "Malnacido", "slug_title": "malnacido", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jorge Clemente ()", "C\u00e9sar Mateo ()", "Alejandro Albarrac\u00edn ()"], "comments": [], "recommandations_id": []}

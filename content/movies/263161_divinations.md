@@ -1,0 +1,1 @@
+{"tmdb_id": 263161, "title": "Divinations", "original_title": "Divinations", "slug_title": "divinations", "date": "1964-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t83jgxCP1DSsGJudp3Tc4vIJyTv.jpg", "actors": [], "comments": [], "recommandations_id": []}

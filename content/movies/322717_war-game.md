@@ -1,0 +1,1 @@
+{"tmdb_id": 322717, "title": "War Game", "original_title": "Gry wojenne", "slug_title": "war-game", "date": "2009-01-23", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LRnXQuudjBG8Il0QycZ1N0n8wj.jpg", "actors": [], "comments": [], "recommandations_id": []}

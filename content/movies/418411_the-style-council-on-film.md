@@ -1,0 +1,1 @@
+{"tmdb_id": 418411, "title": "The Style Council on film", "original_title": "The Style Council on film", "slug_title": "the-style-council-on-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583668, "title": "Dank Mysteries", "original_title": "Dank Mysteries", "slug_title": "dank-mysteries", "date": "2018-12-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9CM7mQfSTUCRSMz9z7QyCtVafu.jpg", "actors": ["Dan Nufer ()"], "comments": [], "recommandations_id": []}

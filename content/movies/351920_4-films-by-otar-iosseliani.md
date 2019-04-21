@@ -1,0 +1,1 @@
+{"tmdb_id": 351920, "title": "4 films by Otar Iosseliani", "original_title": "4 films by Otar Iosseliani", "slug_title": "4-films-by-otar-iosseliani", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

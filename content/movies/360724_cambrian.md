@@ -1,0 +1,1 @@
+{"tmdb_id": 360724, "title": "Cambrian", "original_title": "Cambrian", "slug_title": "cambrian", "date": "2005-11-25", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VhtlkRnnFbQEnE9Qnefay340CY.jpg", "actors": ["Makoto Noa (Kojima Kana)"], "comments": [], "recommandations_id": []}

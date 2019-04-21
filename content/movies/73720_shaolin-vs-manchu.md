@@ -1,0 +1,1 @@
+{"tmdb_id": 73720, "title": "Shaolin vs. Manchu", "original_title": "Shaolin vs. Manchu", "slug_title": "shaolin-vs-manchu", "date": "1984-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VQXhHn61P8seRPSMrEJEuHwG4k.jpg", "actors": [], "comments": [], "recommandations_id": []}

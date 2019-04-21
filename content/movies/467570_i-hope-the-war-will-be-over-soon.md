@@ -1,0 +1,1 @@
+{"tmdb_id": 467570, "title": "I Hope the War Will Be Over Soon", "original_title": "I Hope the War Will Be Over Soon", "slug_title": "i-hope-the-war-will-be-over-soon", "date": "1988-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

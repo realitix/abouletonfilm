@@ -1,0 +1,1 @@
+{"tmdb_id": 341967, "title": "The Water's Fine", "original_title": "The Water's Fine", "slug_title": "the-water-s-fine", "date": "2013-01-01", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laura Spencer (Josi)"], "comments": [], "recommandations_id": []}

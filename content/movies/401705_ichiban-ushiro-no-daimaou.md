@@ -1,0 +1,1 @@
+{"tmdb_id": 401705, "title": "Ichiban Ushiro no Daimaou", "original_title": "Ichiban Ushiro no Daimaou", "slug_title": "ichiban-ushiro-no-daimaou", "date": "", "genre": "", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

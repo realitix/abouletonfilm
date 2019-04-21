@@ -1,0 +1,1 @@
+{"tmdb_id": 579420, "title": "3 Days on the Cross", "original_title": "3 Days on the Cross", "slug_title": "3-days-on-the-cross", "date": "2019-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

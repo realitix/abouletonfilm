@@ -1,0 +1,1 @@
+{"tmdb_id": 273385, "title": "Art City 3 A Ruling Passion", "original_title": "Art City 3 A Ruling Passion", "slug_title": "art-city-3-a-ruling-passion", "date": "2002-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/heYrdkY9qQqDWRWzmgCFW4MxOJv.jpg", "actors": [], "comments": [], "recommandations_id": []}

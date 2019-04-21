@@ -1,0 +1,1 @@
+{"tmdb_id": 405305, "title": "The Shvitz", "original_title": "The Shvitz", "slug_title": "the-shvitz", "date": "1993-10-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3OUPzoLh1WUiDt7MRhrf9pSq6l.jpg", "actors": [], "comments": [], "recommandations_id": []}

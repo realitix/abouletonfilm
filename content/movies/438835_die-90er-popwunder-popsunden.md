@@ -1,0 +1,1 @@
+{"tmdb_id": 438835, "title": "Die 90er - Popwunder & Pops\u00fcnden", "original_title": "Die 90er - Popwunder & Pops\u00fcnden", "slug_title": "die-90er-popwunder-popsunden", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

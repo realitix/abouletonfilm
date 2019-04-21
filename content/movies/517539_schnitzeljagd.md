@@ -1,0 +1,1 @@
+{"tmdb_id": 517539, "title": "Schnitzeljagd", "original_title": "Schnitzeljagd", "slug_title": "schnitzeljagd", "date": "1982-08-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ulrike Kriener (Sabine)", "Verena Plangger (Yvonne)", "Ursula von Reibnitz (Frau Sauter I)"], "comments": [], "recommandations_id": []}

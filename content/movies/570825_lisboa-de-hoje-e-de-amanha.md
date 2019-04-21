@@ -1,0 +1,1 @@
+{"tmdb_id": 570825, "title": "Lisboa de Hoje e de Amanh\u00e3", "original_title": "Lisboa de Hoje e de Amanh\u00e3", "slug_title": "lisboa-de-hoje-e-de-amanha", "date": "1948-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ant\u00f3nio Lopes Ribeiro (Narrator)"], "comments": [], "recommandations_id": []}

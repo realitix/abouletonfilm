@@ -1,0 +1,1 @@
+{"tmdb_id": 560395, "title": "Chrysalis", "original_title": "Chrysalis", "slug_title": "chrysalis", "date": "1973-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/srRdv0qcNwCqAG583kkoGTDBoOU.jpg", "actors": [], "comments": [], "recommandations_id": []}

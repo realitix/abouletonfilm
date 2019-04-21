@@ -1,0 +1,1 @@
+{"tmdb_id": 392205, "title": "Join the Empire", "original_title": "Join the Empire", "slug_title": "join-the-empire", "date": "1998-04-23", "genre": "Science-Fiction", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tnIy5NHliBGBiclZwVzTOCjPpaW.jpg", "actors": [], "comments": [], "recommandations_id": []}

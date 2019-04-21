@@ -1,0 +1,1 @@
+{"tmdb_id": 573356, "title": "\u00c1ram\u00f3taskaup 2018", "original_title": "\u00c1ram\u00f3taskaup 2018", "slug_title": "aramotaskaup-2018", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

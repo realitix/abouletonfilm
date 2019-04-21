@@ -1,0 +1,1 @@
+{"tmdb_id": 292397, "title": "Vita futurista", "original_title": "Vita futurista", "slug_title": "vita-futurista", "date": "1916-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

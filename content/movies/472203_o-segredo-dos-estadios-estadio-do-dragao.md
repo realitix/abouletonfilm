@@ -1,0 +1,1 @@
+{"tmdb_id": 472203, "title": "O Segredo dos Est\u00e1dios: Est\u00e1dio do Drag\u00e3o", "original_title": "O Segredo dos Est\u00e1dios: Est\u00e1dio do Drag\u00e3o", "slug_title": "o-segredo-dos-estadios-estadio-do-dragao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

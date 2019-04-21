@@ -1,0 +1,1 @@
+{"tmdb_id": 407780, "title": "The Erudite Dogs", "original_title": "Les Chiens savants", "slug_title": "the-erudite-dogs", "date": "1907-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

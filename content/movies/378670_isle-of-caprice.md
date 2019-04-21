@@ -1,0 +1,1 @@
+{"tmdb_id": 378670, "title": "Isle of Caprice", "original_title": "Isle of Caprice", "slug_title": "isle-of-caprice", "date": "1969-12-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnpfOyz2MxK8bZGZOJC9dKu6fDJ.jpg", "actors": ["John Byner (Ant/Aardvark (voice))"], "comments": [], "recommandations_id": []}

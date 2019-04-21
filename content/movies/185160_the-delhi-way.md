@@ -1,0 +1,1 @@
+{"tmdb_id": 185160, "title": "The Delhi Way", "original_title": "The Delhi Way", "slug_title": "the-delhi-way", "date": "1964-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lhmexOaafODqJPiThUkwx47ESrP.jpg", "actors": ["Leo Genn (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540495, "title": "Cuban Queens", "original_title": "Cuban Queens", "slug_title": "cuban-queens", "date": "2018-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

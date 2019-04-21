@@ -1,0 +1,1 @@
+{"tmdb_id": 437653, "title": "Yellow Summer", "original_title": "Amarillo verano", "slug_title": "yellow-summer", "date": "1999-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

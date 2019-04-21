@@ -1,0 +1,1 @@
+{"tmdb_id": 555775, "title": "Amaz\u00f4nia Groove", "original_title": "Amaz\u00f4nia Groove", "slug_title": "amazonia-groove", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

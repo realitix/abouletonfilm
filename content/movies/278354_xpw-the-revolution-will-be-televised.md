@@ -1,0 +1,1 @@
+{"tmdb_id": 278354, "title": "XPW: The Revolution Will Be Televised!", "original_title": "XPW: The Revolution Will Be Televised!", "slug_title": "xpw-the-revolution-will-be-televised", "date": "2001-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

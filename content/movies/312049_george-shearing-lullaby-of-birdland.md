@@ -1,0 +1,1 @@
+{"tmdb_id": 312049, "title": "George Shearing: Lullaby of Birdland", "original_title": "George Shearing: Lullaby of Birdland", "slug_title": "george-shearing-lullaby-of-birdland", "date": "2004-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578157, "title": "Quick'n'Clean", "original_title": "Quick'n'Clean", "slug_title": "quick-n-clean", "date": "2018-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

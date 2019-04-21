@@ -1,0 +1,1 @@
+{"tmdb_id": 338697, "title": "The Beatles: Love", "original_title": "The Beatles: Love", "slug_title": "the-beatles-love", "date": "2006-11-21", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqUEa8aDqMswegBzMqG0CSNJh8W.jpg", "actors": [], "comments": [], "recommandations_id": []}

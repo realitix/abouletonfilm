@@ -1,0 +1,1 @@
+{"tmdb_id": 122810, "title": "The Upgrade", "original_title": "The Upgrade", "slug_title": "the-upgrade", "date": "2000-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Minnie Driver (Constance Levine)", "Mimi Rog (The Yuppie)", "Ryan Locke ()"], "comments": [], "recommandations_id": []}

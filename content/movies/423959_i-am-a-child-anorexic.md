@@ -1,0 +1,1 @@
+{"tmdb_id": 423959, "title": "I Am a Child Anorexic", "original_title": "I Am a Child Anorexic", "slug_title": "i-am-a-child-anorexic", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

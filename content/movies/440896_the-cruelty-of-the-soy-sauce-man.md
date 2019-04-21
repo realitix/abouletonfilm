@@ -1,0 +1,1 @@
+{"tmdb_id": 440896, "title": "The Cruelty of the Soy Sauce Man", "original_title": "The Cruelty of the Soy Sauce Man", "slug_title": "the-cruelty-of-the-soy-sauce-man", "date": "2001-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

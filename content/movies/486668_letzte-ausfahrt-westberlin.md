@@ -1,0 +1,1 @@
+{"tmdb_id": 486668, "title": "Letzte Ausfahrt Westberlin", "original_title": "Letzte Ausfahrt Westberlin", "slug_title": "letzte-ausfahrt-westberlin", "date": "2006-08-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

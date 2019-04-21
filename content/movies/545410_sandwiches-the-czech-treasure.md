@@ -1,0 +1,1 @@
+{"tmdb_id": 545410, "title": "Sandwiches - The Czech Treasure", "original_title": "Chleb\u00ed\u010dky - \u010desk\u00fd unik\u00e1t", "slug_title": "sandwiches-the-czech-treasure", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

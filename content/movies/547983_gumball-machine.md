@@ -1,0 +1,1 @@
+{"tmdb_id": 547983, "title": "Gumball Machine", "original_title": "Gumball Machine", "slug_title": "gumball-machine", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

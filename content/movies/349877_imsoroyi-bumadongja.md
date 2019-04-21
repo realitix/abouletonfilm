@@ -1,0 +1,1 @@
+{"tmdb_id": 349877, "title": "\uc784\uc18c\ub85c\uc758 \ubd80\ub9c8\ub3d9\uc790", "original_title": "\uc784\uc18c\ub85c\uc758 \ubd80\ub9c8\ub3d9\uc790", "slug_title": "imsoroyi-bumadongja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

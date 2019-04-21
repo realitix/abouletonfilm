@@ -1,0 +1,1 @@
+{"tmdb_id": 454954, "title": "Rembetika", "original_title": "Rembetika", "slug_title": "rembetika", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFeu9PZrU6KAqTkKVTWqskFFGlW.jpg", "actors": ["Anthony Quinn (Narrator)"], "comments": [], "recommandations_id": []}

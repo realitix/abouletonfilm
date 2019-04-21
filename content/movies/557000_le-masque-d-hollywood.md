@@ -1,0 +1,1 @@
+{"tmdb_id": 557000, "title": "Le masque d'Hollywood", "original_title": "Le masque d'Hollywood", "slug_title": "le-masque-d-hollywood", "date": "1931-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

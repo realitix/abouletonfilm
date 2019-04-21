@@ -1,0 +1,1 @@
+{"tmdb_id": 121219, "title": "Bedroom", "original_title": "Bedroom", "slug_title": "bedroom", "date": "2012-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsLclmNHKYWwjSetcE7CfrINRHW.jpg", "actors": [], "comments": [], "recommandations_id": []}

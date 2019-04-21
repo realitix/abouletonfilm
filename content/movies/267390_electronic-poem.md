@@ -1,0 +1,1 @@
+{"tmdb_id": 267390, "title": "Electronic Poem", "original_title": "Po\u00e8me \u00c9lectronique", "slug_title": "electronic-poem", "date": "1958-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piJOAftb1ygT7ezuW3LDZ1XLoJP.jpg", "actors": [], "comments": [], "recommandations_id": []}

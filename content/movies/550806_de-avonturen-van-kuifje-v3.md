@@ -1,0 +1,1 @@
+{"tmdb_id": 550806, "title": "De avonturen van Kuifje V3", "original_title": "De avonturen van Kuifje V3", "slug_title": "de-avonturen-van-kuifje-v3", "date": "2001-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k4Ux6WBrLTNjBqFj7ppyZev5xuZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

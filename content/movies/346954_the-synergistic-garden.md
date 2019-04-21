@@ -1,0 +1,1 @@
+{"tmdb_id": 346954, "title": "The Synergistic Garden", "original_title": "The Synergistic Garden", "slug_title": "the-synergistic-garden", "date": "1995-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

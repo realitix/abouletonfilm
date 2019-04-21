@@ -1,0 +1,1 @@
+{"tmdb_id": 255566, "title": "Rolling Like a Stone", "original_title": "Rolling Like a Stone", "slug_title": "rolling-like-a-stone", "date": "2005-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

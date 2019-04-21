@@ -1,0 +1,1 @@
+{"tmdb_id": 590176, "title": "Bloody Summer", "original_title": "Verano Sangriento", "slug_title": "bloody-summer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gilberto Trujillo ()"], "comments": [], "recommandations_id": []}

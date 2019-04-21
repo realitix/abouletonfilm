@@ -1,0 +1,1 @@
+{"tmdb_id": 308797, "title": "Zombie Apocalypse", "original_title": "Zombie Apocalypse", "slug_title": "zombie-apocalypse", "date": "2012-12-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

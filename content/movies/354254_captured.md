@@ -1,0 +1,1 @@
+{"tmdb_id": 354254, "title": "Captured", "original_title": "Captured", "slug_title": "captured", "date": "2015-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Madeline Harvey (Beatrice)", "Jason Ferla (Stranger)"], "comments": [], "recommandations_id": []}

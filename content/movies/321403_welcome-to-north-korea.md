@@ -1,0 +1,1 @@
+{"tmdb_id": 321403, "title": "Welcome to North Korea!", "original_title": "V\u00edtejte v KLDR!", "slug_title": "welcome-to-north-korea", "date": "2009-01-01", "genre": "", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9f24EiVcGDUkABhLudX10TyDlJ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

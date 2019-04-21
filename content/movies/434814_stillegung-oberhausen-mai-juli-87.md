@@ -1,0 +1,1 @@
+{"tmdb_id": 434814, "title": "Stillegung. Oberhausen Mai-Juli `87", "original_title": "Stillegung. Oberhausen Mai-Juli `87", "slug_title": "stillegung-oberhausen-mai-juli-87", "date": "1987-12-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

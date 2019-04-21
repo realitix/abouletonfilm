@@ -1,0 +1,1 @@
+{"tmdb_id": 342499, "title": "The Dirdy Birdy Redux", "original_title": "The Dirdy Birdy Redux", "slug_title": "the-dirdy-birdy-redux", "date": "2015-05-30", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmMcXyzByadmpUjIYuyBQ0oP1gB.jpg", "actors": [], "comments": [], "recommandations_id": []}

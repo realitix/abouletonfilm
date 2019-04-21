@@ -1,0 +1,1 @@
+{"tmdb_id": 292527, "title": "Mama ist die beste!", "original_title": "Mama ist die beste!", "slug_title": "mama-ist-die-beste", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5cIzIz7LOiYc9meFxDngCVTxcQ.jpg", "actors": ["Vivian Schmitt (Anna B.)"], "comments": [], "recommandations_id": []}

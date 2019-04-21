@@ -1,0 +1,1 @@
+{"tmdb_id": 191994, "title": "Fricot e l'estintore", "original_title": "Fricot e l'estintore", "slug_title": "fricot-e-l-estintore", "date": "1913-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

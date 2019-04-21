@@ -1,0 +1,1 @@
+{"tmdb_id": 256534, "title": "She Was So Scared", "original_title": "Ten\u00eda tanto miedo", "slug_title": "she-was-so-scared", "date": "2013-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sof\u00eda Brihet ()", "Denise Groesman ()", "Mariano Sayavedra ()", "Katia Szechtman ()"], "comments": [], "recommandations_id": []}

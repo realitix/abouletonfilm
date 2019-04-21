@@ -1,0 +1,1 @@
+{"tmdb_id": 555045, "title": "Golden Rose", "original_title": "\u91d1\u73ab\u7470", "slug_title": "golden-rose", "date": "1972-01-20", "genre": "Thriller / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Li Li-Hua ()", "Ho Fan ()", "Tai Leung ()", "Tang Lan Hua ()"], "comments": [], "recommandations_id": []}

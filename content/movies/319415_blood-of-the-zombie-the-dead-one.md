@@ -1,0 +1,1 @@
+{"tmdb_id": 319415, "title": "Blood of the Zombie: The Dead One", "original_title": "Blood of the Zombie: The Dead One", "slug_title": "blood-of-the-zombie-the-dead-one", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

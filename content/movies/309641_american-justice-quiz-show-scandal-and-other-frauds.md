@@ -1,0 +1,1 @@
+{"tmdb_id": 309641, "title": "American Justice: Quiz Show Scandal and Other Frauds", "original_title": "American Justice: Quiz Show Scandal and Other Frauds", "slug_title": "american-justice-quiz-show-scandal-and-other-frauds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

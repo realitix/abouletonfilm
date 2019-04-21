@@ -1,0 +1,1 @@
+{"tmdb_id": 506887, "title": "Sa akin ang asawa mo", "original_title": "Sa akin ang asawa mo", "slug_title": "sa-akin-ang-asawa-mo", "date": "1992-02-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cristina Gonzales ()", "Mark Gil ()", "Eric Cayetano ()", "Vanessa Escano ()"], "comments": [], "recommandations_id": []}

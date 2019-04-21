@@ -1,0 +1,1 @@
+{"tmdb_id": 328675, "title": "Left for Dead by the Yorkshire Ripper", "original_title": "Left for Dead by the Yorkshire Ripper", "slug_title": "left-for-dead-by-the-yorkshire-ripper", "date": "2014-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janet Dibley (Narrator)"], "comments": [], "recommandations_id": []}

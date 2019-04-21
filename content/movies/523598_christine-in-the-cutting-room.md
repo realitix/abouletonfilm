@@ -1,0 +1,1 @@
+{"tmdb_id": 523598, "title": "Christine in the Cutting Room", "original_title": "Christine in the Cutting Room", "slug_title": "christine-in-the-cutting-room", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christine Jorgensen ()"], "comments": [], "recommandations_id": []}

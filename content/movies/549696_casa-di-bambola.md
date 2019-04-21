@@ -1,0 +1,1 @@
+{"tmdb_id": 549696, "title": "Casa di bambola", "original_title": "Casa di bambola", "slug_title": "casa-di-bambola", "date": "1958-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cP5GeOyIPFwHOctbsLf4AlypNmu.jpg", "actors": [], "comments": [], "recommandations_id": []}

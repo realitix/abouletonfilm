@@ -1,0 +1,1 @@
+{"tmdb_id": 551642, "title": "Trap Diary", "original_title": "Diario di tonnara", "slug_title": "trap-diary", "date": "2018-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5yfdexn87lle7BKyTZSIVVU76d.jpg", "actors": ["Ninni Ravazza (Himself - Narrator)"], "comments": [], "recommandations_id": []}

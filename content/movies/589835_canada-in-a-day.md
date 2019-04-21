@@ -1,0 +1,1 @@
+{"tmdb_id": 589835, "title": "Canada in a Day", "original_title": "Canada in a Day", "slug_title": "canada-in-a-day", "date": "2017-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5EYPTZduiLHSGVwCyKkX6mTSoG0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421945, "title": "I Am a Weapon", "original_title": "Watashi wa heiki", "slug_title": "i-am-a-weapon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

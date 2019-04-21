@@ -1,0 +1,1 @@
+{"tmdb_id": 488642, "title": "Kill Two Birds", "original_title": "Kill Two Birds", "slug_title": "kill-two-birds", "date": "1975-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

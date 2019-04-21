@@ -1,0 +1,1 @@
+{"tmdb_id": 256871, "title": "Les Chaises", "original_title": "Les Chaises", "slug_title": "les-chaises", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

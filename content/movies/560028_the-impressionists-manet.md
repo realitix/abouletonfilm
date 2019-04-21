@@ -1,0 +1,1 @@
+{"tmdb_id": 560028, "title": "The Impressionists: Manet", "original_title": "The Impressionists: Manet", "slug_title": "the-impressionists-manet", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9o69iHgKplajUAJoz2Ba8O9Mrcw.jpg", "actors": [], "comments": [], "recommandations_id": []}

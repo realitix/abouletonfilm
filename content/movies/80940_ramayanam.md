@@ -1,0 +1,1 @@
+{"tmdb_id": 80940, "title": "Ramayanam", "original_title": "Ramayanam", "slug_title": "ramayanam", "date": "1996-04-14", "genre": "Drame / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t6qOD6KFaH7HfoNyp3zWvSlmLOM.jpg", "actors": ["Jr NTR (Lord Rama)"], "comments": [], "recommandations_id": []}

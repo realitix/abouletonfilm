@@ -1,0 +1,1 @@
+{"tmdb_id": 436338, "title": "A Warrior's Dream", "original_title": "A Warrior's Dream", "slug_title": "a-warrior-s-dream", "date": "2013-10-18", "genre": "Fantastique / Animation / Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gp79OjMvZMdqRkoDRvXyaznZ4pm.jpg", "actors": [], "comments": [], "recommandations_id": []}

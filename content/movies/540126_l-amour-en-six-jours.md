@@ -1,0 +1,1 @@
+{"tmdb_id": 540126, "title": "L'amour en six jours", "original_title": "L'amour en six jours", "slug_title": "l-amour-en-six-jours", "date": "1934-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

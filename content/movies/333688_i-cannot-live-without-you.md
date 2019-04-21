@@ -1,0 +1,1 @@
+{"tmdb_id": 333688, "title": "I Cannot Live Without You", "original_title": "Sensiz yasayamam", "slug_title": "i-cannot-live-without-you", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cemal Gencer ()", "Orhan Elmas ()", "H\u00fclya Ko\u00e7yi\u011fit ()"], "comments": [], "recommandations_id": []}

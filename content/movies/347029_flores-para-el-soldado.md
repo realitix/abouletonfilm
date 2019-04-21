@@ -1,0 +1,1 @@
+{"tmdb_id": 347029, "title": "Flores para el soldado", "original_title": "Flores para el soldado", "slug_title": "flores-para-el-soldado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Cappelletti ()"], "comments": [], "recommandations_id": []}

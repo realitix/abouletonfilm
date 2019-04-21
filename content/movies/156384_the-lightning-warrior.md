@@ -1,0 +1,1 @@
+{"tmdb_id": 156384, "title": "The Lightning Warrior", "original_title": "The Lightning Warrior", "slug_title": "the-lightning-warrior", "date": "1931-12-01", "genre": "Action", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLqxvQSqzmGwjC30TBkyCT59p2g.jpg", "actors": [], "comments": [], "recommandations_id": []}

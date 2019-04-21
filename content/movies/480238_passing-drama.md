@@ -1,0 +1,1 @@
+{"tmdb_id": 480238, "title": "Passing Drama", "original_title": "Passing Drama", "slug_title": "passing-drama", "date": "1999-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282438, "title": "The Rink", "original_title": "Patinoire", "slug_title": "the-rink", "date": "1962-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohF5K0DfPXMV7lvElFosUGUTxLW.jpg", "actors": [], "comments": [], "recommandations_id": []}

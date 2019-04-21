@@ -1,0 +1,1 @@
+{"tmdb_id": 413489, "title": "Curse of the Axe", "original_title": "Curse of the Axe", "slug_title": "curse-of-the-axe", "date": "2012-07-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wolf Thomas (Antler Man)", "Robbie Robertson (Narrator)"], "comments": [], "recommandations_id": []}

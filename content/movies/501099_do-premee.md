@@ -1,0 +1,1 @@
+{"tmdb_id": 501099, "title": "Do Premee", "original_title": "Do Premee", "slug_title": "do-premee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oekBPUpAVDGMF7DOEMLSFiE9nk0.jpg", "actors": [], "comments": [], "recommandations_id": []}

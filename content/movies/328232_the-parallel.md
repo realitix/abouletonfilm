@@ -1,0 +1,1 @@
+{"tmdb_id": 328232, "title": "The Parallel", "original_title": "The Parallel", "slug_title": "the-parallel", "date": "2007-05-11", "genre": "Drame / Fantastique / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtuKymWhhlan285pebaBurPUFCK.jpg", "actors": [], "comments": [], "recommandations_id": []}

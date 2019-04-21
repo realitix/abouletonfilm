@@ -1,0 +1,1 @@
+{"tmdb_id": 15911, "title": "The Village Barbershop", "original_title": "The Village Barbershop", "slug_title": "the-village-barbershop", "date": "2008-01-01", "genre": "Com\u00e9die / Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGSIprpDM2Udi8Jic3nnMZhbNiD.jpg", "actors": [], "comments": [], "recommandations_id": []}

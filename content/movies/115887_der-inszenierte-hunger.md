@@ -1,0 +1,1 @@
+{"tmdb_id": 115887, "title": "Der inszenierte Hunger", "original_title": "Der inszenierte Hunger", "slug_title": "der-inszenierte-hunger", "date": "2011-07-28", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

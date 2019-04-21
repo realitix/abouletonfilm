@@ -1,0 +1,1 @@
+{"tmdb_id": 587536, "title": "Hoffmeyer's Legacy", "original_title": "Hoffmeyer's Legacy", "slug_title": "hoffmeyer-s-legacy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ford Sterling (Hoffmeyer)", "Mack Sennett (The Police Chief)", "Fred Mace (Hoffmeyer's wife)"], "comments": [], "recommandations_id": []}

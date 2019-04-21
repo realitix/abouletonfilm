@@ -1,0 +1,1 @@
+{"tmdb_id": 54954, "title": "Passing By", "original_title": "De Passagem", "slug_title": "passing-by", "date": "2003-08-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ifsVin1JjsRn2c8J6NyHMolgRHN.jpg", "actors": ["Rafael Garcia (Sergio)"], "comments": [], "recommandations_id": []}

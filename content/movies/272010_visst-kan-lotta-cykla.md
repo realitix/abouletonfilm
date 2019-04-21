@@ -1,0 +1,1 @@
+{"tmdb_id": 272010, "title": "Visst Kan Lotta Cykla", "original_title": "Visst Kan Lotta Cykla", "slug_title": "visst-kan-lotta-cykla", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3XKzfyGMkeecf3dn0oO7oTpALZ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

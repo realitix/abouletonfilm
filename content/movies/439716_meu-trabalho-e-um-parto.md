@@ -1,0 +1,1 @@
+{"tmdb_id": 439716, "title": "Meu Trabalho \u00e9 um Parto", "original_title": "Meu Trabalho \u00e9 um Parto", "slug_title": "meu-trabalho-e-um-parto", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Veridiana Toledo ()"], "comments": [], "recommandations_id": []}

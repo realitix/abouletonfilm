@@ -1,0 +1,1 @@
+{"tmdb_id": 488970, "title": "Recrutement", "original_title": "Recrutement", "slug_title": "recrutement", "date": "2001-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fran\u00e7ois Berl\u00e9and ()", "Claire Laroche ()", "Gersende Le Gars ((voice))"], "comments": [], "recommandations_id": []}

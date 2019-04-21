@@ -1,0 +1,1 @@
+{"tmdb_id": 509290, "title": "Max Bosshard", "original_title": "Max Bosshard", "slug_title": "max-bosshard", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApwGWcg0kIHYTieGCPVS3SDoIq4.jpg", "actors": [], "comments": [], "recommandations_id": []}

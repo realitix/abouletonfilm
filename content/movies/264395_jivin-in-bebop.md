@@ -1,0 +1,1 @@
+{"tmdb_id": 264395, "title": "Jivin' in Bebop", "original_title": "Jivin' in Bebop", "slug_title": "jivin-in-bebop", "date": "1946-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

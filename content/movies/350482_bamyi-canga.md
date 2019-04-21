@@ -1,0 +1,1 @@
+{"tmdb_id": 350482, "title": "\ubc24\uc758 \ucc2c\uac00", "original_title": "\ubc24\uc758 \ucc2c\uac00", "slug_title": "bamyi-canga", "date": "1980-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 388874, "title": "Muku no Ki no Hanashi", "original_title": "Muku no Ki no Hanashi", "slug_title": "muku-no-ki-no-hanashi", "date": "1947-09-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDdexmgAA5vGaJOSeGnRKOCCXLf.jpg", "actors": [], "comments": [], "recommandations_id": []}

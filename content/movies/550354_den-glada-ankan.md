@@ -1,0 +1,1 @@
+{"tmdb_id": 550354, "title": "Den glada \u00e4nkan", "original_title": "Den glada \u00e4nkan", "slug_title": "den-glada-ankan", "date": "1907-08-28", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emma Meissner (Hanna Glawari)", "Carl Barcklind (Danilo)"], "comments": [], "recommandations_id": []}

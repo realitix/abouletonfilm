@@ -1,0 +1,1 @@
+{"tmdb_id": 310415, "title": "MTV Unplugged: Soul of R&B", "original_title": "MTV Unplugged: Soul of R&B", "slug_title": "mtv-unplugged-soul-of-r-b", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 516338, "title": "Tritiya", "original_title": "Tritiya", "slug_title": "tritiya", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

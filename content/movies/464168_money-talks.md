@@ -1,0 +1,1 @@
+{"tmdb_id": 464168, "title": "Money Talks", "original_title": "Money Talks", "slug_title": "money-talks", "date": "1972-08-30", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5vLc7prpQvQzrHVVsrXXNN4R1I.jpg", "actors": ["Allen Funt (Self)", "Muhammad Ali (Self)"], "comments": [], "recommandations_id": []}

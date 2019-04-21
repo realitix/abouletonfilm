@@ -1,0 +1,1 @@
+{"tmdb_id": 343087, "title": "The Law's Lash", "original_title": "The Law's Lash", "slug_title": "the-law-s-lash", "date": "1928-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

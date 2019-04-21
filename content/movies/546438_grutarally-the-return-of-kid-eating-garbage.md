@@ -1,0 +1,1 @@
+{"tmdb_id": 546438, "title": "Grutarally -The Return of Kid Eating Garbage", "original_title": "Grutarally -The Return of Kid Eating Garbage", "slug_title": "grutarally-the-return-of-kid-eating-garbage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

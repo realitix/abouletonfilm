@@ -1,0 +1,1 @@
+{"tmdb_id": 545479, "title": "Diet of Sex", "original_title": "Diet of Sex", "slug_title": "diet-of-sex", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

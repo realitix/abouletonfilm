@@ -1,0 +1,1 @@
+{"tmdb_id": 504441, "title": "TH\u1ef0C T\u1eacP SINH TH\u1ea6N T\u01af\u1ee2NG", "original_title": "TH\u1ef0C T\u1eacP SINH TH\u1ea6N T\u01af\u1ee2NG", "slug_title": "thuc-tap-sinh-than-tuong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

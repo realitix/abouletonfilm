@@ -1,0 +1,1 @@
+{"tmdb_id": 45681, "title": "Coca-Cola", "original_title": "Coca-Cola", "slug_title": "coca-cola", "date": "2009-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvDDlhsnritliRmPJ6FPiEDTX5R.jpg", "actors": [], "comments": [], "recommandations_id": []}

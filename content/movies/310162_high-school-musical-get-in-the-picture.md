@@ -1,0 +1,1 @@
+{"tmdb_id": 310162, "title": "High School Musical: Get in the Picture", "original_title": "High School Musical: Get in the Picture", "slug_title": "high-school-musical-get-in-the-picture", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

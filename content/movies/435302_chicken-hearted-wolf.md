@@ -1,0 +1,1 @@
+{"tmdb_id": 435302, "title": "Chicken Hearted Wolf", "original_title": "Chicken Hearted Wolf", "slug_title": "chicken-hearted-wolf", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59YxcnnEiRaTlcqrcjkjQVgV5FN.jpg", "actors": [], "comments": [], "recommandations_id": []}

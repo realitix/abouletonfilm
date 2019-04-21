@@ -1,0 +1,1 @@
+{"tmdb_id": 314691, "title": "My Name Is Barbra", "original_title": "My Name Is Barbra", "slug_title": "my-name-is-barbra", "date": "1965-04-28", "genre": "Musique", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r23CXKTfRbbRiPyO1ukfAhhhhgE.jpg", "actors": ["Barbra Streisand (Herself)"], "comments": [], "recommandations_id": []}

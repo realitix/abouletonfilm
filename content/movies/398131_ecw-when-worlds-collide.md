@@ -1,0 +1,1 @@
+{"tmdb_id": 398131, "title": "ECW When Worlds Collide", "original_title": "ECW When Worlds Collide", "slug_title": "ecw-when-worlds-collide", "date": "1994-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Z21cTdJ5NTLIafSzVbyc5Wvqcp.jpg", "actors": [], "comments": [], "recommandations_id": []}

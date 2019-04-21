@@ -1,0 +1,1 @@
+{"tmdb_id": 269569, "title": "Butterfly", "original_title": "\u0411\u0430\u0431\u043e\u0447\u043a\u0430", "slug_title": "butterfly", "date": "1972-05-13", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bn8VMBo1utpG41EQHssvS2Y4q9u.jpg", "actors": [], "comments": [], "recommandations_id": []}

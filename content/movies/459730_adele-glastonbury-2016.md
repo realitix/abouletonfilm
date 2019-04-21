@@ -1,0 +1,1 @@
+{"tmdb_id": 459730, "title": "Adele: Glastonbury 2016", "original_title": "Adele: Glastonbury 2016", "slug_title": "adele-glastonbury-2016", "date": "2016-06-25", "genre": "Musique", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfu57AuXiGbBhDAD1El6zOrvxQc.jpg", "actors": ["Adele (singer)"], "comments": [], "recommandations_id": []}

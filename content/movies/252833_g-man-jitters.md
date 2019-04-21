@@ -1,0 +1,1 @@
+{"tmdb_id": 252833, "title": "G-Man Jitters", "original_title": "G-Man Jitters", "slug_title": "g-man-jitters", "date": "1939-03-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BNzAfQfUnbC8wqPsNs59P2phoL.jpg", "actors": ["Arthur Kay (Gandy Goose)"], "comments": [], "recommandations_id": []}

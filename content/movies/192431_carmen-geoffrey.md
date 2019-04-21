@@ -1,0 +1,1 @@
+{"tmdb_id": 192431, "title": "Carmen & Geoffrey", "original_title": "Carmen & Geoffrey", "slug_title": "carmen-geoffrey", "date": "2005-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gTvDJDU8xLGrwM97Ub0J83KwNQI.jpg", "actors": [], "comments": [], "recommandations_id": []}

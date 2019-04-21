@@ -1,0 +1,1 @@
+{"tmdb_id": 442727, "title": "Alabamy Bound", "original_title": "Alabamy Bound", "slug_title": "alabamy-bound", "date": "1941-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacky Green ()", "Four Spirits of Rhythm ()"], "comments": [], "recommandations_id": []}

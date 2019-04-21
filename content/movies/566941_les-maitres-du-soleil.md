@@ -1,0 +1,1 @@
+{"tmdb_id": 566941, "title": "Les ma\u00eetres du soleil", "original_title": "Les ma\u00eetres du soleil", "slug_title": "les-maitres-du-soleil", "date": "1984-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bCbFkN0H3MyHTx4JdVRwcHA886.jpg", "actors": [], "comments": [], "recommandations_id": []}

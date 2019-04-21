@@ -1,0 +1,1 @@
+{"tmdb_id": 389070, "title": "The Real American Sniper", "original_title": "The Real American Sniper", "slug_title": "the-real-american-sniper", "date": "2015-02-14", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

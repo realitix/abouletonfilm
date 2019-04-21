@@ -1,0 +1,1 @@
+{"tmdb_id": 279602, "title": "My New Picture", "original_title": "My New Picture", "slug_title": "my-new-picture", "date": "2007-09-12", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9tjEaLg2XEdtEhpujuzHu6trMYk.jpg", "actors": ["Sabrina Seyvecou ()"], "comments": [], "recommandations_id": []}

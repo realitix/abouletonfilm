@@ -1,0 +1,1 @@
+{"tmdb_id": 280003, "title": "Disc Jockey", "original_title": "Diskjockey", "slug_title": "disc-jockey", "date": "1980-01-01", "genre": "Animation", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfxfPzUgJkqnb8WJKBBuZ0057VO.jpg", "actors": [], "comments": [], "recommandations_id": [254268, 104342]}

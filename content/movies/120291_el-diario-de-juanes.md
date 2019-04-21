@@ -1,0 +1,1 @@
+{"tmdb_id": 120291, "title": "El Diario De Juanes", "original_title": "El Diario De Juanes", "slug_title": "el-diario-de-juanes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/putmRdI2BWPPtnKtB6nZy1PZxZv.jpg", "actors": [], "comments": [], "recommandations_id": []}

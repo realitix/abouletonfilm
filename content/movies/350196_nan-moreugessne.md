@@ -1,0 +1,1 @@
+{"tmdb_id": 350196, "title": "\ub09c \ubaa8\ub974\uaca0\ub124", "original_title": "\ub09c \ubaa8\ub974\uaca0\ub124", "slug_title": "nan-moreugessne", "date": "1980-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

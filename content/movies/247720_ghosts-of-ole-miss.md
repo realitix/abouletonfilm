@@ -1,0 +1,1 @@
+{"tmdb_id": 247720, "title": "Ghosts of Ole Miss", "original_title": "Ghosts of Ole Miss", "slug_title": "ghosts-of-ole-miss", "date": "2012-10-30", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4z1Ojkk2jg906LYkzxTxcXMCAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 187979, "title": "The Busy Bee", "original_title": "The Busy Bee", "slug_title": "the-busy-bee", "date": "1936-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

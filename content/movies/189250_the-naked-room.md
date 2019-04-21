@@ -1,0 +1,1 @@
+{"tmdb_id": 189250, "title": "The Naked Room", "original_title": "El cuarto desnudo", "slug_title": "the-naked-room", "date": "2013-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A5qOYCa48mQygJNFHtimNvKAXg6.jpg", "actors": [], "comments": [], "recommandations_id": []}

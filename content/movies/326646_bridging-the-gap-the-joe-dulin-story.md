@@ -1,0 +1,1 @@
+{"tmdb_id": 326646, "title": "Bridging The Gap: The Joe Dulin Story", "original_title": "Bridging The Gap: The Joe Dulin Story", "slug_title": "bridging-the-gap-the-joe-dulin-story", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

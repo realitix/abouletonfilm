@@ -1,0 +1,1 @@
+{"tmdb_id": 272994, "title": "Kiki and Herb: Live At the Knitting Factory", "original_title": "Kiki and Herb: Live At the Knitting Factory", "slug_title": "kiki-and-herb-live-at-the-knitting-factory", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

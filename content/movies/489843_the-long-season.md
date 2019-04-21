@@ -1,0 +1,1 @@
+{"tmdb_id": 489843, "title": "The Long Season", "original_title": "The Long Season", "slug_title": "the-long-season", "date": "2017-12-28", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n64d9WVKpK8uK3gRZmOtprKLy5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

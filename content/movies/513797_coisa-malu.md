@@ -1,0 +1,1 @@
+{"tmdb_id": 513797, "title": "Coisa-Malu", "original_title": "Coisa-Malu", "slug_title": "coisa-malu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282504, "title": "Spatiodynamisme", "original_title": "Spatiodynamisme", "slug_title": "spatiodynamisme", "date": "1958-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kN4Ucoyzzj0GXzHihrT9gVa9LGR.jpg", "actors": [], "comments": [], "recommandations_id": []}

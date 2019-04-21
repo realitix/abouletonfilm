@@ -1,0 +1,1 @@
+{"tmdb_id": 314963, "title": "CHIKARA: Smack In The Middle", "original_title": "CHIKARA: Smack In The Middle", "slug_title": "chikara-smack-in-the-middle", "date": "2012-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnScZCXyC3cLQ4YU8FDvYervOCt.jpg", "actors": [], "comments": [], "recommandations_id": []}

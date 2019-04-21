@@ -1,0 +1,1 @@
+{"tmdb_id": 465684, "title": "Fragmentos de Uma Vida", "original_title": "Fragmentos de Uma Vida", "slug_title": "fragmentos-de-uma-vida", "date": "2002-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2B3EM5VmQ7HWkN11amCxHrHUZX.jpg", "actors": [], "comments": [], "recommandations_id": []}

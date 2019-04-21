@@ -1,0 +1,1 @@
+{"tmdb_id": 557324, "title": "Harry Potter and the Cursed Child", "original_title": "Harry Potter and the Cursed Child", "slug_title": "harry-potter-and-the-cursed-child", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qx3L21fUhzsob1kbglOFJwMtgL3.jpg", "actors": [], "comments": [], "recommandations_id": []}

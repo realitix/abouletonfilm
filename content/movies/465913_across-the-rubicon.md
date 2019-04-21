@@ -1,0 +1,1 @@
+{"tmdb_id": 465913, "title": "Across the Rubicon", "original_title": "Across the Rubicon", "slug_title": "across-the-rubicon", "date": "1987-07-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pieter-Dirk Uys (Himself)"], "comments": [], "recommandations_id": []}

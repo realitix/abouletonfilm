@@ -1,0 +1,1 @@
+{"tmdb_id": 346640, "title": "Pol\u00edgono Sur", "original_title": "Pol\u00edgono Sur", "slug_title": "poligono-sur", "date": "2003-03-21", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqXk1acsWG0vWGcVWUJa61dP0uq.jpg", "actors": [], "comments": [], "recommandations_id": []}

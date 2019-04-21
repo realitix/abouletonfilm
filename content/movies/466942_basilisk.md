@@ -1,0 +1,1 @@
+{"tmdb_id": 466942, "title": "Basilisk", "original_title": "Basilisk", "slug_title": "basilisk", "date": "2013-05-06", "genre": "Aventure / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJgvpA03RuBIUgcDzTj4cFRukVb.jpg", "actors": [], "comments": [], "recommandations_id": []}

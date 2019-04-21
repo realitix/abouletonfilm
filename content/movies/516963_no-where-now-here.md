@@ -1,0 +1,1 @@
+{"tmdb_id": 516963, "title": "No Where, Now Here", "original_title": "No Where, Now Here", "slug_title": "no-where-now-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ferdi Lutviji ()", "Nurdan Lutviji ()", "Dejan Pesic ()", "Anja Kyrmyza ()", "Avgust Krsnik ()"], "comments": [], "recommandations_id": []}

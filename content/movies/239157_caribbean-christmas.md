@@ -1,0 +1,1 @@
+{"tmdb_id": 239157, "title": "Caribbean Christmas", "original_title": "Navidad Caribe\u00f1a", "slug_title": "caribbean-christmas", "date": "2001-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

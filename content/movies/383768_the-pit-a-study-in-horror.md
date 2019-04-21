@@ -1,0 +1,1 @@
+{"tmdb_id": 383768, "title": "The Pit: A Study in Horror", "original_title": "The Pit: A Study in Horror", "slug_title": "the-pit-a-study-in-horror", "date": "2013-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3mz79jgkYxmFAMMoJxl4oUTuCjW.jpg", "actors": [], "comments": [], "recommandations_id": []}

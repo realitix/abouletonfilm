@@ -1,0 +1,1 @@
+{"tmdb_id": 367883, "title": "Deminas: Two Towers", "original_title": "Deminas: dvi tvirtov\u0117s", "slug_title": "deminas-two-towers", "date": "2015-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w01TvQPoJkouwTWuZhjJR768Mym.jpg", "actors": [], "comments": [], "recommandations_id": []}

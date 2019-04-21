@@ -1,0 +1,1 @@
+{"tmdb_id": 492773, "title": "Rodamorfosis", "original_title": "Rodamorfosis", "slug_title": "rodamorfosis", "date": "1984-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMmwlXQCDO1edmMalRIrnUz0ZcM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 440272, "title": "Der Upgrader", "original_title": "Der Upgrader", "slug_title": "der-upgrader", "date": "2005-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rasmus Borowski (Der Upgrader)", "Ole Jacobsen (Dirk)"], "comments": [], "recommandations_id": []}

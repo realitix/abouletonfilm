@@ -1,0 +1,1 @@
+{"tmdb_id": 567465, "title": "3Doc: Lorde", "original_title": "3Doc: Lorde", "slug_title": "3doc-lorde", "date": "2014-06-12", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uy5wNNVqndLMcx6wLQ2rGDhmZd7.jpg", "actors": ["Lorde (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408421, "title": "Bert: The Emotion Picture", "original_title": "Bert: The Emotion Picture", "slug_title": "bert-the-emotion-picture", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pXsAxdK5vzA67wsQNBtP7GC8njV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 484347, "title": "Larga noche en Texarkana", "original_title": "Larga noche en Texarkana", "slug_title": "larga-noche-en-texarkana", "date": "2017-10-25", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xiU4a1ALcRcLe22kBHmjA9wZj3.jpg", "actors": [], "comments": [], "recommandations_id": []}

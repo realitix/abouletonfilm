@@ -1,0 +1,1 @@
+{"tmdb_id": 52191, "title": "Nosferatu. Uzhas nochi", "original_title": "Nosferatu. Uzhas nochi", "slug_title": "nosferatu-uzhas-nochi", "date": "2010-10-28", "genre": "Animation / Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aum4lNCTffGbMQEW6h1lzFK46NI.jpg", "actors": [], "comments": [], "recommandations_id": []}

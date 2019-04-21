@@ -1,0 +1,1 @@
+{"tmdb_id": 339371, "title": "Wall Street Week", "original_title": "Wall Street Week", "slug_title": "wall-street-week", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYei6htz2RjUHpeMKj2WXp5tUp5.jpg", "actors": ["Anthony Scaramucci (Host)", "Gary Kaminsky (Host)"], "comments": [], "recommandations_id": []}

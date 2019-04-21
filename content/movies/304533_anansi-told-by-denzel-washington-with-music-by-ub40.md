@@ -1,0 +1,1 @@
+{"tmdb_id": 304533, "title": "Anansi, Told by Denzel Washington with Music by UB40", "original_title": "Anansi, Told by Denzel Washington with Music by UB40", "slug_title": "anansi-told-by-denzel-washington-with-music-by-ub40", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

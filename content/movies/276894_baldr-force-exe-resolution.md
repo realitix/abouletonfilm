@@ -1,0 +1,1 @@
+{"tmdb_id": 276894, "title": "Baldr Force Exe: Resolution", "original_title": "Baldr Force Exe: Resolution", "slug_title": "baldr-force-exe-resolution", "date": "2006-12-21", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tF4N9n1Mua3YtwKpPGPtabvODbo.jpg", "actors": [], "comments": [], "recommandations_id": []}

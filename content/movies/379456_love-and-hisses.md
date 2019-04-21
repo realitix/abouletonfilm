@@ -1,0 +1,1 @@
+{"tmdb_id": 379456, "title": "Love and Hisses", "original_title": "Love and Hisses", "slug_title": "love-and-hisses", "date": "1972-08-03", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer / Elephant (voice))", "Tom Holland (Japanese Beetle (voice))"], "comments": [], "recommandations_id": []}

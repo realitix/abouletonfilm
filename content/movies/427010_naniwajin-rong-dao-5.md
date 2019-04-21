@@ -1,0 +1,1 @@
+{"tmdb_id": 427010, "title": "\u30ca\u30cb\u30ef\u91d1\u878d\u9053 5", "original_title": "\u30ca\u30cb\u30ef\u91d1\u878d\u9053 5", "slug_title": "naniwajin-rong-dao-5", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXRhog72bKp6H6ltMQVtqLtZMie.jpg", "actors": [], "comments": [], "recommandations_id": []}

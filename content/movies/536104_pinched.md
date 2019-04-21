@@ -1,0 +1,1 @@
+{"tmdb_id": 536104, "title": "Pinched", "original_title": "Pinched", "slug_title": "pinched", "date": "1921-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Perez (Tweedy)", "Dorothy Earle ()", "Pierre Collosse ()", "William F. Moran ()"], "comments": [], "recommandations_id": []}

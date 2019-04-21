@@ -1,0 +1,1 @@
+{"tmdb_id": 224988, "title": "Vingers", "original_title": "Vingers", "slug_title": "vingers", "date": "2013-07-30", "genre": "Com\u00e9die / Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ton Kas (Bernd)", "Loes Kok ()", "Ferdi Stofmeel ()", "David De Lange ()"], "comments": [], "recommandations_id": []}

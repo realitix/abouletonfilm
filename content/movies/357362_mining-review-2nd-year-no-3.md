@@ -1,0 +1,1 @@
+{"tmdb_id": 357362, "title": "Mining Review 2nd Year No 3", "original_title": "Mining Review 2nd Year No 3", "slug_title": "mining-review-2nd-year-no-3", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

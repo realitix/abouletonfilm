@@ -1,0 +1,1 @@
+{"tmdb_id": 476036, "title": "NCR: Not Criminally Responsible", "original_title": "NCR: Not Criminally Responsible", "slug_title": "ncr-not-criminally-responsible", "date": "2017-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

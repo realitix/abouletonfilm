@@ -1,0 +1,1 @@
+{"tmdb_id": 119852, "title": "Ninja Death 3", "original_title": "Ninja Death 3", "slug_title": "ninja-death-3", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usqoCNJFFekdEdyzH1wKiCIX0n4.jpg", "actors": ["Fei Meng ()", "Alexander Lo Rei  (Tiger)"], "comments": [], "recommandations_id": []}

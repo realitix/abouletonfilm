@@ -1,0 +1,1 @@
+{"tmdb_id": 300864, "title": "A Bandit's Wager", "original_title": "A Bandit's Wager", "slug_title": "a-bandit-s-wager", "date": "1916-11-05", "genre": "Western", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Ford ()", "Francis Ford (Nan's Brother / The Bandit)", "Grace Cunard (Nan Jefferson)"], "comments": [], "recommandations_id": []}

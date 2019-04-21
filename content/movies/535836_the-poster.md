@@ -1,0 +1,1 @@
+{"tmdb_id": 535836, "title": "The Poster", "original_title": "L'affiche", "slug_title": "the-poster", "date": "1924-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

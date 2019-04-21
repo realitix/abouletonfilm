@@ -1,0 +1,1 @@
+{"tmdb_id": 357599, "title": "Russell Kane Live", "original_title": "Russell Kane Live", "slug_title": "russell-kane-live", "date": "2015-11-30", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnr6Rdwt8Z2pSCDnEmAJpw8W2YB.jpg", "actors": ["Russell Kane (Himself)"], "comments": [], "recommandations_id": []}

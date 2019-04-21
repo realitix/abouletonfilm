@@ -1,0 +1,1 @@
+{"tmdb_id": 469609, "title": "Mickey's Greatest Hits", "original_title": "Mickey's Greatest Hits", "slug_title": "mickey-s-greatest-hits", "date": "1998-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xRj3ujfamSPNi6QdF9RwOed2e3.jpg", "actors": [], "comments": [], "recommandations_id": []}

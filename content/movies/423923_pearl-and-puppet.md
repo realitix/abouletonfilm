@@ -1,0 +1,1 @@
+{"tmdb_id": 423923, "title": "Pearl and Puppet", "original_title": "Pearl and Puppet", "slug_title": "pearl-and-puppet", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yllOh1vNaSaQRwdXWrXSSEhMqmj.jpg", "actors": [], "comments": [], "recommandations_id": []}

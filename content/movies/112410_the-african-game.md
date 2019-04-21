@@ -1,0 +1,1 @@
+{"tmdb_id": 112410, "title": "The African Game", "original_title": "The African Game", "slug_title": "the-african-game", "date": "2009-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zCcmdaL5oepNBCnjSAB32Mcc0S.jpg", "actors": [], "comments": [], "recommandations_id": []}

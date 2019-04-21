@@ -1,0 +1,1 @@
+{"tmdb_id": 344298, "title": "Dawn of the Dead 22 year reunion", "original_title": "Dawn of the Dead 22 year reunion", "slug_title": "dawn-of-the-dead-22-year-reunion", "date": "2000-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 423425, "title": "Beneath the Mushroom Cloud", "original_title": "Beneath the Mushroom Cloud", "slug_title": "beneath-the-mushroom-cloud", "date": "2015-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJtCr9jdqvihfCAQKPODoV8kdbF.jpg", "actors": [], "comments": [], "recommandations_id": []}

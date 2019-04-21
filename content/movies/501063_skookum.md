@@ -1,0 +1,1 @@
+{"tmdb_id": 501063, "title": "Skookum", "original_title": "Skookum", "slug_title": "skookum", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tFcD3sxHmzMPPVhsspduUDZjA7.jpg", "actors": ["Timothena The Oppressor (Cat)"], "comments": [], "recommandations_id": []}

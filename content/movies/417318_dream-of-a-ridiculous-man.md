@@ -1,0 +1,1 @@
+{"tmdb_id": 417318, "title": "Dream of a Ridiculous Man", "original_title": "Dream of a Ridiculous Man", "slug_title": "dream-of-a-ridiculous-man", "date": "2008-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carey Burtt ((voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 511516, "title": "The Magic Lion", "original_title": "The Magic Lion", "slug_title": "the-magic-lion", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

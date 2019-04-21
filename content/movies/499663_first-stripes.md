@@ -1,0 +1,1 @@
+{"tmdb_id": 499663, "title": "First Stripes", "original_title": "Premi\u00e8res armes", "slug_title": "first-stripes", "date": "2018-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1g6JAuEJPPnixwuoOVqcRs2L9Zu.jpg", "actors": [], "comments": [], "recommandations_id": []}

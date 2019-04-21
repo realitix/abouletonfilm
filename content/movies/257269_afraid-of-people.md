@@ -1,0 +1,1 @@
+{"tmdb_id": 257269, "title": "Afraid of People", "original_title": "Afraid of People", "slug_title": "afraid-of-people", "date": "2002-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qYVlNDmBrV4rqSkVGHLMj3ukDq.jpg", "actors": [], "comments": [], "recommandations_id": []}

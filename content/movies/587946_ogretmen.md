@@ -1,0 +1,1 @@
+{"tmdb_id": 587946, "title": "\u00d6\u011fretmen", "original_title": "\u00d6\u011fretmen", "slug_title": "ogretmen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pKnpFQnorCHuAg75QGF05DAXbed.jpg", "actors": [], "comments": [], "recommandations_id": []}

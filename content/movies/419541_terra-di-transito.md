@@ -1,0 +1,1 @@
+{"tmdb_id": 419541, "title": "Terra di transito", "original_title": "Terra di transito", "slug_title": "terra-di-transito", "date": "2014-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

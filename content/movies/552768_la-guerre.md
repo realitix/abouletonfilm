@@ -1,0 +1,1 @@
+{"tmdb_id": 552768, "title": "La guerre", "original_title": "La guerre", "slug_title": "la-guerre", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iP3ZEcD2Uf6FAmY93DhLnuJBlDX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301347, "title": "Chocolate Milk", "original_title": "Chocolate Milk", "slug_title": "chocolate-milk", "date": "2014-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

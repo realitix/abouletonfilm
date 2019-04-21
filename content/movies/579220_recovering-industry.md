@@ -1,0 +1,1 @@
+{"tmdb_id": 579220, "title": "Recovering Industry", "original_title": "Rekonstrukce pr\u016fmyslu", "slug_title": "recovering-industry", "date": "2015-10-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/492P6BFTMnR4YWOcLtLfZpP2mT.jpg", "actors": [], "comments": [], "recommandations_id": []}

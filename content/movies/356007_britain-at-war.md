@@ -1,0 +1,1 @@
+{"tmdb_id": 356007, "title": "Britain at War", "original_title": "Britain at War", "slug_title": "britain-at-war", "date": "1945-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

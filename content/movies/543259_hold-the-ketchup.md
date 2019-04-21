@@ -1,0 +1,1 @@
+{"tmdb_id": 543259, "title": "Hold the Ketchup", "original_title": "Hold the Ketchup", "slug_title": "hold-the-ketchup", "date": "1977-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

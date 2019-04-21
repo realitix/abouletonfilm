@@ -1,0 +1,1 @@
+{"tmdb_id": 148624, "title": "Among Men", "original_title": "W\u015br\u00f3d ludzi", "slug_title": "among-men", "date": "1960-12-31", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5nI2QoUfFGUBmgU7bX6uewo53N.jpg", "actors": [], "comments": [], "recommandations_id": [92823, 151490]}

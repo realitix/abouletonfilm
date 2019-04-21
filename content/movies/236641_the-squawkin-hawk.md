@@ -1,0 +1,1 @@
+{"tmdb_id": 236641, "title": "The Squawkin' Hawk", "original_title": "The Squawkin' Hawk", "slug_title": "the-squawkin-hawk", "date": "1942-08-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gk75vULHYXUVYMU49VBHtNqjrEy.jpg", "actors": [], "comments": [], "recommandations_id": []}

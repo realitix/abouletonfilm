@@ -1,0 +1,1 @@
+{"tmdb_id": 374342, "title": "A Morte Como Ela \u00e9", "original_title": "A Morte Como Ela \u00e9", "slug_title": "a-morte-como-ela-e", "date": "1983-12-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

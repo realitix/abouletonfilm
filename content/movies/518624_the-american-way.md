@@ -1,0 +1,1 @@
+{"tmdb_id": 518624, "title": "The American Way", "original_title": "The American Way", "slug_title": "the-american-way", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6r5FCUp6d7h8tpJXcW0lZAdy7n.jpg", "actors": [], "comments": [], "recommandations_id": []}

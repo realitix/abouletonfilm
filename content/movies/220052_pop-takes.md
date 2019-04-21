@@ -1,0 +1,1 @@
+{"tmdb_id": 220052, "title": "Pop Takes", "original_title": "Pop Takes", "slug_title": "pop-takes", "date": "2013-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310788, "title": "Celtic Crossroads: World Fusion", "original_title": "Celtic Crossroads: World Fusion", "slug_title": "celtic-crossroads-world-fusion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

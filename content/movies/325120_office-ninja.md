@@ -1,0 +1,1 @@
+{"tmdb_id": 325120, "title": "Office Ninja", "original_title": "Office Ninja", "slug_title": "office-ninja", "date": "2014-04-22", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

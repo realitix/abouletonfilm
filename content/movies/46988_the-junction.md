@@ -1,0 +1,1 @@
+{"tmdb_id": 46988, "title": "The Junction", "original_title": "Torowisko", "slug_title": "the-junction", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1pzsrCiKFxYi6DNpEYqKFgRZhu.jpg", "actors": [], "comments": [], "recommandations_id": []}

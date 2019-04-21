@@ -1,0 +1,1 @@
+{"tmdb_id": 351815, "title": "Charlie Harper, 20 Years of Chaos", "original_title": "Charlie Harper, 20 Years of Chaos", "slug_title": "charlie-harper-20-years-of-chaos", "date": "1996-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charlie Harper (Himself)"], "comments": [], "recommandations_id": []}

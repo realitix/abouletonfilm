@@ -1,0 +1,1 @@
+{"tmdb_id": 592607, "title": "Wormwood", "original_title": "Pio\u0142un", "slug_title": "wormwood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wiktoria Czeczulin ()", "Krzysztof Szczerbi\u0144ski ()", "Natalia Sikora ()"], "comments": [], "recommandations_id": []}

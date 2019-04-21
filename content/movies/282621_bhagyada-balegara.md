@@ -1,0 +1,1 @@
+{"tmdb_id": 282621, "title": "Bhagyada Balegara", "original_title": "Bhagyada Balegara", "slug_title": "bhagyada-balegara", "date": "2009-09-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()", "Navya Nair ()", "Sudha Belawadi ()", "Anu Prabhakar ()", "Sudharani ()"], "comments": [], "recommandations_id": []}

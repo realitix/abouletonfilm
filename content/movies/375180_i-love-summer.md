@@ -1,0 +1,1 @@
+{"tmdb_id": 375180, "title": "I Love Summer", "original_title": "\u6211\u611b\u590f\u5929", "slug_title": "i-love-summer", "date": "2014-12-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86AyEPoVJah7CSKTjpUoMVPUv7D.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 212555, "title": "Megadeth: [1992] Italy", "original_title": "Megadeth: [1992] Italy", "slug_title": "megadeth-1992-italy", "date": "1992-08-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQJ5knGOVQOzxYMGQfbXzGTmOtc.jpg", "actors": [], "comments": [], "recommandations_id": []}

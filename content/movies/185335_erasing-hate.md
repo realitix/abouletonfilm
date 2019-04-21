@@ -1,0 +1,1 @@
+{"tmdb_id": 185335, "title": "Erasing Hate", "original_title": "Erasing Hate", "slug_title": "erasing-hate", "date": "2011-06-26", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMtAC3h3A7pF2pRp2feo6weVswX.jpg", "actors": ["Bryon Widner (Himself)"], "comments": [], "recommandations_id": []}

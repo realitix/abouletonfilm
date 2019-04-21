@@ -1,0 +1,1 @@
+{"tmdb_id": 525757, "title": "Self-Censorship", "original_title": "\u5e76\uff1a\u63a7\u5236", "slug_title": "self-censorship", "date": "2018-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWrKfpadNunWDxRGS694bMY3WvA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549338, "title": "Crooked Beauty", "original_title": "Crooked Beauty", "slug_title": "crooked-beauty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

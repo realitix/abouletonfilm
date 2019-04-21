@@ -1,0 +1,1 @@
+{"tmdb_id": 508509, "title": "Last Act", "original_title": "Dernier Acte", "slug_title": "last-act", "date": "2016-10-31", "genre": "Animation / Drame / Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emmanuel Menard (Le Conteur)", "Hugues Martel (Hector Danglard)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 321753, "title": "La Bourse", "original_title": "La Bourse", "slug_title": "la-bourse", "date": "1896-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

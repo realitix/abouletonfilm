@@ -1,0 +1,1 @@
+{"tmdb_id": 265298, "title": "Borscht - Uma receita russa", "original_title": "Borscht - Uma receita russa", "slug_title": "borscht-uma-receita-russa", "date": "2013-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyEWge56E27zuM2fpay5NF8Hcl5.jpg", "actors": [], "comments": [], "recommandations_id": []}

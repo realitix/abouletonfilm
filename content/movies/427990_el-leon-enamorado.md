@@ -1,0 +1,1 @@
+{"tmdb_id": 427990, "title": "El le\u00f3n enamorado", "original_title": "El le\u00f3n enamorado", "slug_title": "el-leon-enamorado", "date": "1979-01-28", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WZGs4UQGznEiiPmBzHsPPyhhit.jpg", "actors": [], "comments": [], "recommandations_id": []}

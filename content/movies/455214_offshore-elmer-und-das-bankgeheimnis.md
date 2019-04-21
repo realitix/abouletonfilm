@@ -1,0 +1,1 @@
+{"tmdb_id": 455214, "title": "Offshore: Elmer und das Bankgeheimnis", "original_title": "Offshore: Elmer und das Bankgeheimnis", "slug_title": "offshore-elmer-und-das-bankgeheimnis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

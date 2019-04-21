@@ -1,0 +1,1 @@
+{"tmdb_id": 514567, "title": "War of the Ants", "original_title": "War of the Ants", "slug_title": "war-of-the-ants", "date": "2018-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgWe0lW6kkKpRAkajUkHDn0EUl7.jpg", "actors": [], "comments": [], "recommandations_id": []}

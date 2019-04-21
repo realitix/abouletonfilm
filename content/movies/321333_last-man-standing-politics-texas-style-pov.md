@@ -1,0 +1,1 @@
+{"tmdb_id": 321333, "title": "Last Man Standing: Politics - Texas Style: POV", "original_title": "Last Man Standing: Politics - Texas Style: POV", "slug_title": "last-man-standing-politics-texas-style-pov", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

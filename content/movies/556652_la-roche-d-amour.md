@@ -1,0 +1,1 @@
+{"tmdb_id": 556652, "title": "La roche d'amour", "original_title": "La roche d'amour", "slug_title": "la-roche-d-amour", "date": "1929-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

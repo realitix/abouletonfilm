@@ -1,0 +1,1 @@
+{"tmdb_id": 543147, "title": "Mysterious Doctor Satan Double Jeapordy", "original_title": "Mysterious Doctor Satan Double Jeapordy", "slug_title": "mysterious-doctor-satan-double-jeapordy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

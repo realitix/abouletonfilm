@@ -1,0 +1,1 @@
+{"tmdb_id": 419532, "title": "Who wrote the Bible?", "original_title": "Who wrote the Bible?", "slug_title": "who-wrote-the-bible", "date": "2004-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TMDex67eEc3cdPr9t93W0KbyXb.jpg", "actors": [], "comments": [], "recommandations_id": []}

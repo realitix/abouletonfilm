@@ -1,0 +1,1 @@
+{"tmdb_id": 236557, "title": "The Tangled Angler", "original_title": "The Tangled Angler", "slug_title": "the-tangled-angler", "date": "1941-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

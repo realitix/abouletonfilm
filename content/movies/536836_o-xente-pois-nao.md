@@ -1,0 +1,1 @@
+{"tmdb_id": 536836, "title": "\u00d3 Xente, Pois N\u00e3o", "original_title": "\u00d3 Xente, Pois N\u00e3o", "slug_title": "o-xente-pois-nao", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sIzr2yz5B2MB6WSOyhewL786SfT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368045, "title": "Kj\u00e6rleikens ferjereiser (The ferry fares of love)", "original_title": "Kj\u00e6rleikens ferjereiser (The ferry fares of love)", "slug_title": "kjaerleikens-ferjereiser-the-ferry-fares-of-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

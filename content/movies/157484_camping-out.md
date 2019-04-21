@@ -1,0 +1,1 @@
+{"tmdb_id": 157484, "title": "Camping Out", "original_title": "Camping Out", "slug_title": "camping-out", "date": "1932-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

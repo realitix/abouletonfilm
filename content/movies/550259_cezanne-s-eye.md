@@ -1,0 +1,1 @@
+{"tmdb_id": 550259, "title": "Cezanne's Eye", "original_title": "Cezanne's Eye", "slug_title": "cezanne-s-eye", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYMTa4CSrLSORUZ8pTWaZe9XnYG.jpg", "actors": [], "comments": [], "recommandations_id": []}

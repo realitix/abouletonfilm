@@ -1,0 +1,1 @@
+{"tmdb_id": 174915, "title": "Why Pick on Me?", "original_title": "Why Pick on Me?", "slug_title": "why-pick-on-me", "date": "1918-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Lloyd ()", "'Snub' Pollard ()", "Bebe Daniels ()"], "comments": [], "recommandations_id": []}

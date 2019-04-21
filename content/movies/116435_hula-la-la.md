@@ -1,0 +1,1 @@
+{"tmdb_id": 116435, "title": "Hula-La-La", "original_title": "Hula-La-La", "slug_title": "hula-la-la", "date": "1951-11-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shemp Howard (Shemp)", "Jean Willes (Luana)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

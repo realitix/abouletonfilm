@@ -1,0 +1,1 @@
+{"tmdb_id": 325992, "title": "Saving Africa's Giants With Yao Ming", "original_title": "Saving Africa's Giants With Yao Ming", "slug_title": "saving-africa-s-giants-with-yao-ming", "date": "2014-11-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 227049, "title": "Twisted Sister Live at Reading", "original_title": "Twisted Sister Live at Reading", "slug_title": "twisted-sister-live-at-reading", "date": "1982-08-29", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

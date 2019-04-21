@@ -1,0 +1,1 @@
+{"tmdb_id": 316270, "title": "Kevin Hart: Serve and Protect", "original_title": "Kevin Hart: Serve and Protect", "slug_title": "kevin-hart-serve-and-protect", "date": "2014-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Hart (Himself)"], "comments": [], "recommandations_id": []}

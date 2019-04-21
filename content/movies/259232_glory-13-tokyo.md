@@ -1,0 +1,1 @@
+{"tmdb_id": 259232, "title": "Glory 13: Tokyo", "original_title": "Glory 13: Tokyo", "slug_title": "glory-13-tokyo", "date": "2013-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11Y9ex9VeVtT7i4tqobFzMzuDWo.jpg", "actors": [], "comments": [], "recommandations_id": []}

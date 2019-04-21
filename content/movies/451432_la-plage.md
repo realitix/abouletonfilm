@@ -1,0 +1,1 @@
+{"tmdb_id": 451432, "title": "La plage", "original_title": "La plage", "slug_title": "la-plage", "date": "1978-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

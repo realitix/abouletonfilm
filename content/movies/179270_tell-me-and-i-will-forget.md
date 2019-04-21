@@ -1,0 +1,1 @@
+{"tmdb_id": 179270, "title": "Tell Me and I Will Forget", "original_title": "Tell Me and I Will Forget", "slug_title": "tell-me-and-i-will-forget", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDbUw5ySh9gUZCl4LKzexzQWR0q.jpg", "actors": [], "comments": [], "recommandations_id": []}

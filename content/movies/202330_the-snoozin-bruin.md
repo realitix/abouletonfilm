@@ -1,0 +1,1 @@
+{"tmdb_id": 202330, "title": "The Snoozin' Bruin'", "original_title": "The Snoozin' Bruin'", "slug_title": "the-snoozin-bruin", "date": "1971-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1D6AeY04JALiWtx59xEz787k0kl.jpg", "actors": [], "comments": [], "recommandations_id": []}

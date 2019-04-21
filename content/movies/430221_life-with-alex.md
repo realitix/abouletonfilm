@@ -1,0 +1,1 @@
+{"tmdb_id": 430221, "title": "Life With Alex", "original_title": "Life With Alex", "slug_title": "life-with-alex", "date": "2011-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPoR3xjyANCsZ5Q4SVFmchFp16Y.jpg", "actors": ["Dr. Irene Pepperberg (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 444590, "title": "Kankin Tantei", "original_title": "Kankin Tantei", "slug_title": "kankin-tantei", "date": "2013-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Takahiro Miura (Ryota)", "Natsuna Watanabe (Akane)"], "comments": [], "recommandations_id": []}

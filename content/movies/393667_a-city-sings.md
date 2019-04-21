@@ -1,0 +1,1 @@
+{"tmdb_id": 393667, "title": "A City Sings", "original_title": "A City Sings", "slug_title": "a-city-sings", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e7uNHjfuC8EnWizCloZhxrghUqK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320722, "title": "Enceinte du pesage", "original_title": "Enceinte du pesage", "slug_title": "enceinte-du-pesage", "date": "1896-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Walter Barnett (Himself)"], "comments": [], "recommandations_id": []}

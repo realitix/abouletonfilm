@@ -1,0 +1,1 @@
+{"tmdb_id": 351234, "title": "Midnight Dance", "original_title": "Midnight Dance", "slug_title": "midnight-dance", "date": "1996-07-23", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

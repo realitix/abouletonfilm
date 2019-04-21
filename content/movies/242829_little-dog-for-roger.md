@@ -1,0 +1,1 @@
+{"tmdb_id": 242829, "title": "Little Dog for Roger", "original_title": "Little Dog for Roger", "slug_title": "little-dog-for-roger", "date": "1967-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ceR37JHezzLkyDgb8GF6UajYwYS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 58212, "title": "Bruce Bruce: Live", "original_title": "Bruce Bruce: Live", "slug_title": "bruce-bruce-live", "date": "2003-08-19", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QKo1PStjebNDDTvrWzn31O0rqL.jpg", "actors": ["Bruce Bruce (Bruce Bruce)"], "comments": [], "recommandations_id": []}

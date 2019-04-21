@@ -1,0 +1,1 @@
+{"tmdb_id": 380381, "title": "The Animal Village in Trouble", "original_title": "Doubutsu Mura no Daisodou", "slug_title": "the-animal-village-in-trouble", "date": "1942-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1puUI801RSPvFWISLwb5XUhMhm.jpg", "actors": [], "comments": [], "recommandations_id": []}

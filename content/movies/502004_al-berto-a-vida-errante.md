@@ -1,0 +1,1 @@
+{"tmdb_id": 502004, "title": "Al Berto, a vida errante", "original_title": "Al Berto, a vida errante", "slug_title": "al-berto-a-vida-errante", "date": "2017-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbKkhznsWv0mtrvPtwAZpQOgf0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

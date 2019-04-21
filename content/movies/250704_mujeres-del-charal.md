@@ -1,0 +1,1 @@
+{"tmdb_id": 250704, "title": "Mujeres del Charal", "original_title": "Mujeres del Charal", "slug_title": "mujeres-del-charal", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

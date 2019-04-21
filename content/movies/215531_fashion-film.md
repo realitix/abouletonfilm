@@ -1,0 +1,1 @@
+{"tmdb_id": 215531, "title": "Fashion Film", "original_title": "Fashion Film", "slug_title": "fashion-film", "date": "2013-02-04", "genre": "Com\u00e9die", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQtJgAQUdubv2i8ykVzRYjLDK5B.jpg", "actors": ["Lizzy Caplan ()", "Chelsea Schuchman ()"], "comments": [], "recommandations_id": []}

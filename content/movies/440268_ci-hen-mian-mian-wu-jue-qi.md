@@ -1,0 +1,1 @@
+{"tmdb_id": 440268, "title": "Ci Hen Mian Mian Wu Jue Qi", "original_title": "Ci Hen Mian Mian Wu Jue Qi", "slug_title": "ci-hen-mian-mian-wu-jue-qi", "date": "1948-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

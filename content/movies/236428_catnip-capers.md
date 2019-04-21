@@ -1,0 +1,1 @@
+{"tmdb_id": 236428, "title": "Catnip Capers", "original_title": "Catnip Capers", "slug_title": "catnip-capers", "date": "1940-05-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/amiBE3lTtLQKzmPqhkWXaduwBDB.jpg", "actors": [], "comments": [], "recommandations_id": []}

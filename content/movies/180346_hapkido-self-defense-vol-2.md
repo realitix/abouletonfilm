@@ -1,0 +1,1 @@
+{"tmdb_id": 180346, "title": "Hapkido Self-Defense Vol. 2", "original_title": "Hapkido Self-Defense Vol. 2", "slug_title": "hapkido-self-defense-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 241010, "title": "Teenysaftspalten", "original_title": "Teenysaftspalten", "slug_title": "teenysaftspalten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yk6xhV9Pplod4wkWU23jxTF47uL.jpg", "actors": [], "comments": [], "recommandations_id": []}

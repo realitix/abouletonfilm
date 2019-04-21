@@ -1,0 +1,1 @@
+{"tmdb_id": 530958, "title": "N\u00famero e S\u00e9rie", "original_title": "N\u00famero e S\u00e9rie", "slug_title": "numero-e-serie", "date": "2015-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqW9DeTgUE6uOeTdq4mDQVX0A3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

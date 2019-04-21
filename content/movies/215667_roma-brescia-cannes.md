@@ -1,0 +1,1 @@
+{"tmdb_id": 215667, "title": "Roma-Brescia-Cannes", "original_title": "Roma-Brescia-Cannes", "slug_title": "roma-brescia-cannes", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eT0yID8duocLzkwycQzBJJFqwmA.jpg", "actors": [], "comments": [], "recommandations_id": []}

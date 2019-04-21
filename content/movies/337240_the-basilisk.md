@@ -1,0 +1,1 @@
+{"tmdb_id": 337240, "title": "The Basilisk", "original_title": "The Basilisk", "slug_title": "the-basilisk", "date": "1914-12-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Powers ()", "Alma Taylor ()", "William Felton ()", "Chrissie White ()", "Cyril Morton ()"], "comments": [], "recommandations_id": []}

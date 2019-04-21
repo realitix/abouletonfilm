@@ -1,0 +1,1 @@
+{"tmdb_id": 313131, "title": "Ghetto Fabulous", "original_title": "Ghetto Fabulous", "slug_title": "ghetto-fabulous", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390869, "title": "Fucking A Succubus", "original_title": "Fucking A Succubus", "slug_title": "fucking-a-succubus", "date": "2015-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephen Gurewitz ()"], "comments": [], "recommandations_id": []}

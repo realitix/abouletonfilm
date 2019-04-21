@@ -1,0 +1,1 @@
+{"tmdb_id": 523961, "title": "Accident, MD", "original_title": "Accident, MD", "slug_title": "accident-md", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eEXuh96mboebjRqVrGJlWoWvVQ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

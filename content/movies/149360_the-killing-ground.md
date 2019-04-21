@@ -1,0 +1,1 @@
+{"tmdb_id": 149360, "title": "The Killing Ground", "original_title": "The Killing Ground", "slug_title": "the-killing-ground", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioVonBLcaMLoUrGerD10RoAoCHm.jpg", "actors": ["Brit Hume ()"], "comments": [], "recommandations_id": []}

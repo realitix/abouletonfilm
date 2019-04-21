@@ -1,0 +1,1 @@
+{"tmdb_id": 563274, "title": "The Flower of All Cities", "original_title": "Zahrat Al-Madain", "slug_title": "the-flower-of-all-cities", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBmMBQJFvAkaLzcghNyShDhIB8V.jpg", "actors": [], "comments": [], "recommandations_id": []}

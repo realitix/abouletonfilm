@@ -1,0 +1,1 @@
+{"tmdb_id": 396566, "title": "Dinosaur", "original_title": "Dinosaur", "slug_title": "dinosaur", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

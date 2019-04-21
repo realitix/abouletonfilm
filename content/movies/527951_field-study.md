@@ -1,0 +1,1 @@
+{"tmdb_id": 527951, "title": "Field Study", "original_title": "Field Study", "slug_title": "field-study", "date": "2018-06-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMtOQK1OcvX6b0bQxNF2pauFbAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

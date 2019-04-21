@@ -1,0 +1,1 @@
+{"tmdb_id": 167061, "title": "Nadav Abuksis", "original_title": "Nadav Abuksis", "slug_title": "nadav-abuksis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c3tvVAYafpuoRAWCknKhhoEjAk1.jpg", "actors": ["Nadav Abuksis ()"], "comments": [], "recommandations_id": []}

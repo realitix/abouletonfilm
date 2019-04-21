@@ -1,0 +1,1 @@
+{"tmdb_id": 545306, "title": "As\u00ed o de otra manera", "original_title": "As\u00ed o de otra manera", "slug_title": "asi-o-de-otra-manera", "date": "1964-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hORrp0ZqbScfSwSoMbpoVhkHiez.jpg", "actors": [], "comments": [], "recommandations_id": []}

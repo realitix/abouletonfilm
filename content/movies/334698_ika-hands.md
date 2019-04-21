@@ -1,0 +1,1 @@
+{"tmdb_id": 334698, "title": "Ika Hands", "original_title": "Ika Hands", "slug_title": "ika-hands", "date": "1988-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

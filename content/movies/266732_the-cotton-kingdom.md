@@ -1,0 +1,1 @@
+{"tmdb_id": 266732, "title": "The Cotton Kingdom", "original_title": "The Cotton Kingdom", "slug_title": "the-cotton-kingdom", "date": "2005-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dib1CFEVo0Qo5cuWBoTPv0hWIm2.jpg", "actors": [], "comments": [], "recommandations_id": []}

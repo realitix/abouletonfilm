@@ -1,0 +1,1 @@
+{"tmdb_id": 557138, "title": "City Women", "original_title": "City Women", "slug_title": "city-women", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()", "Sandy Carey ()", "Sandy Dempsey ()", "Jill Sweete ()", "Elliot March ()", "Duane Paulsen ()", "Bill Scott ()"], "comments": [], "recommandations_id": []}

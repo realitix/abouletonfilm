@@ -1,0 +1,1 @@
+{"tmdb_id": 265327, "title": "Oyster Village", "original_title": "\uc11d\ud654\ucd0c", "slug_title": "oyster-village", "date": "1972-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3158XtIP98nCFwMzaCPPQqM9jga.jpg", "actors": [], "comments": [], "recommandations_id": []}

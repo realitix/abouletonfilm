@@ -1,0 +1,1 @@
+{"tmdb_id": 396769, "title": "Nigeria", "original_title": "Nigeria", "slug_title": "nigeria", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

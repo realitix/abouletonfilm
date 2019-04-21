@@ -1,0 +1,1 @@
+{"tmdb_id": 261061, "title": "Casa noastra ca o floare", "original_title": "Casa noastra ca o floare", "slug_title": "casa-noastra-ca-o-floare", "date": "1963-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

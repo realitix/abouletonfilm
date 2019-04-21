@@ -1,0 +1,1 @@
+{"tmdb_id": 502951, "title": "A night in the Parajanov Museum", "original_title": "A night in the Parajanov Museum", "slug_title": "a-night-in-the-parajanov-museum", "date": "1998-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

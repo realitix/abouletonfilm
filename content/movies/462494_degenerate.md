@@ -1,0 +1,1 @@
+{"tmdb_id": 462494, "title": "Degenerate", "original_title": "Degenerate", "slug_title": "degenerate", "date": "2017-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amaya Kiyoko (Iyomana)", "Evil Webby (Medieval)", "Mark Sears (Sparko De'Marco)"], "comments": [], "recommandations_id": []}

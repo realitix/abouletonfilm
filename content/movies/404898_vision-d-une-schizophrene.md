@@ -1,0 +1,1 @@
+{"tmdb_id": 404898, "title": "Vision d'une Schizophrene", "original_title": "Vision d'une Schizophrene", "slug_title": "vision-d-une-schizophrene", "date": "1990-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Fw9DbMXJCxqV6Xu1tdwsnmeQUy.jpg", "actors": [], "comments": [], "recommandations_id": []}

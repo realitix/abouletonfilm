@@ -1,0 +1,1 @@
+{"tmdb_id": 355067, "title": "The Artist's Dream Model", "original_title": "The Artist's Dream Model", "slug_title": "the-artist-s-dream-model", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faGc9qTfUxSFQeT1P1zz5vJl6um.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 417852, "title": "I lupi e gli agnelli", "original_title": "I lupi e gli agnelli", "slug_title": "i-lupi-e-gli-agnelli", "date": "1970-09-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAlKVADhrjesea3qhWGoAic6Bxl.jpg", "actors": [], "comments": [], "recommandations_id": []}

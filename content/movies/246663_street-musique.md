@@ -1,0 +1,1 @@
+{"tmdb_id": 246663, "title": "Street Musique", "original_title": "Street Musique", "slug_title": "street-musique", "date": "1972-11-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjzEfahJOZWcI7Ui5N8mbJzt7MB.jpg", "actors": [], "comments": [], "recommandations_id": [125150, 90048, 153119, 125154]}

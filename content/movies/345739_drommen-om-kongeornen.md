@@ -1,0 +1,1 @@
+{"tmdb_id": 345739, "title": "Dr\u00f8mmen om konge\u00f8rnen", "original_title": "Dr\u00f8mmen om konge\u00f8rnen", "slug_title": "drommen-om-kongeornen", "date": "2012-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

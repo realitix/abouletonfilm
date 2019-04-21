@@ -1,0 +1,1 @@
+{"tmdb_id": 536054, "title": "Alberto Giacometti: What is a Head?", "original_title": "Alberto Giacometti: What is a Head?", "slug_title": "alberto-giacometti-what-is-a-head", "date": "2000-01-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

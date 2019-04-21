@@ -1,0 +1,1 @@
+{"tmdb_id": 405336, "title": "Palatak", "original_title": "Palatak", "slug_title": "palatak", "date": "1963-06-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mC1FpbNUBJkA4jSB8IOYINrfZLw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 554254, "title": "The Write-Off", "original_title": "The Write-Off", "slug_title": "the-write-off", "date": "1970-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerald Parkes (Walter Denning)", "Cec Linder (Larry)", "Henry Ramer (Mr. X)"], "comments": [], "recommandations_id": []}

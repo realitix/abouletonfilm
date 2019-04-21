@@ -1,0 +1,1 @@
+{"tmdb_id": 381292, "title": "Michel Tel\u00f3 - ao Vivo", "original_title": "Michel Tel\u00f3 - ao Vivo", "slug_title": "michel-telo-ao-vivo", "date": "2010-02-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wndWYZEy732pkweaosnhaQ339l.jpg", "actors": [], "comments": [], "recommandations_id": []}

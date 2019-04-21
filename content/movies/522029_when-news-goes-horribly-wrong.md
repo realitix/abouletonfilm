@@ -1,0 +1,1 @@
+{"tmdb_id": 522029, "title": "When News Goes Horribly Wrong", "original_title": "When News Goes Horribly Wrong", "slug_title": "when-news-goes-horribly-wrong", "date": "2018-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

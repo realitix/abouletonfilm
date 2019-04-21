@@ -1,0 +1,1 @@
+{"tmdb_id": 510752, "title": "Something Bad", "original_title": "Something Bad", "slug_title": "something-bad", "date": "2015-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwNktsPjCeTHEapsiLnJfEVvQhf.jpg", "actors": [], "comments": [], "recommandations_id": []}

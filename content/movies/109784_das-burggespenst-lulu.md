@@ -1,0 +1,1 @@
+{"tmdb_id": 109784, "title": "Das Burggespenst L\u00fcl\u00fc", "original_title": "Das Burggespenst L\u00fcl\u00fc", "slug_title": "das-burggespenst-lulu", "date": "1993-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsl8PzltBJCRo54WnnBGxVBAAeC.jpg", "actors": [], "comments": [], "recommandations_id": []}

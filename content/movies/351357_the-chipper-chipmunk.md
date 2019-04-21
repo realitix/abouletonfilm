@@ -1,0 +1,1 @@
+{"tmdb_id": 351357, "title": "The Chipper Chipmunk", "original_title": "The Chipper Chipmunk", "slug_title": "the-chipper-chipmunk", "date": "1948-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

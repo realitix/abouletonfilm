@@ -1,0 +1,1 @@
+{"tmdb_id": 498810, "title": "P90X2: X2 Balance + Power", "original_title": "P90X2: X2 Balance + Power", "slug_title": "p90x2-x2-balance-power", "date": "2013-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iivN3k4CdRZQukO9VRRdVWMNDIu.jpg", "actors": [], "comments": [], "recommandations_id": []}

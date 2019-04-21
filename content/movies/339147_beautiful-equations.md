@@ -1,0 +1,1 @@
+{"tmdb_id": 339147, "title": "Beautiful Equations", "original_title": "Beautiful Equations", "slug_title": "beautiful-equations", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

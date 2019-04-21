@@ -1,0 +1,1 @@
+{"tmdb_id": 472000, "title": "The Magic Paintbrush", "original_title": "The Magic Paintbrush", "slug_title": "the-magic-paintbrush", "date": "2016-08-22", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5gZo4mQHN7WnXRVxdmXCgNhfhNV.jpg", "actors": [], "comments": [], "recommandations_id": []}

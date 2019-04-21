@@ -1,0 +1,1 @@
+{"tmdb_id": 492538, "title": "Turner & Hooch", "original_title": "Turner & Hooch", "slug_title": "turner-hooch", "date": "1990-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97XjgRUqnkXBJbocKU0dRAlLTXo.jpg", "actors": ["Thomas F. Wilson (Det. Scott Turner)"], "comments": [], "recommandations_id": []}

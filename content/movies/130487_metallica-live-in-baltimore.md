@@ -1,0 +1,1 @@
+{"tmdb_id": 130487, "title": "Metallica: Live in Baltimore", "original_title": "Metallica: Live in Baltimore", "slug_title": "metallica-live-in-baltimore", "date": "2000-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6YSzUNu5bUDnTwy6EYphq6lcjr.jpg", "actors": [], "comments": [], "recommandations_id": []}

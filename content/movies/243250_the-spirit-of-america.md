@@ -1,0 +1,1 @@
+{"tmdb_id": 243250, "title": "The Spirit of America", "original_title": "The Spirit of America", "slug_title": "the-spirit-of-america", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

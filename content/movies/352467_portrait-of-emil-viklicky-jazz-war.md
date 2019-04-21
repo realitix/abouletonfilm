@@ -1,0 +1,1 @@
+{"tmdb_id": 352467, "title": "Portrait of Emil Viklick\u00fd: Jazz War", "original_title": "Ocet", "slug_title": "portrait-of-emil-viklicky-jazz-war", "date": "2001-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBwW4oPTP0TiK3GtoUyTFQMrOf2.jpg", "actors": [], "comments": [], "recommandations_id": []}

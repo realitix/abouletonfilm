@@ -1,0 +1,1 @@
+{"tmdb_id": 164938, "title": "Motel For Lovers", "original_title": "Motel For Lovers", "slug_title": "motel-for-lovers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

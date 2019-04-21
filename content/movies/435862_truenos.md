@@ -1,0 +1,1 @@
+{"tmdb_id": 435862, "title": "Truenos", "original_title": "Truenos", "slug_title": "truenos", "date": "2017-01-19", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2iLhhMn56XxbQ0Od1fGVgdaZha.jpg", "actors": ["Robert Grange (Maximiliano)"], "comments": [], "recommandations_id": []}

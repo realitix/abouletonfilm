@@ -1,0 +1,1 @@
+{"tmdb_id": 497205, "title": "My Clown", "original_title": "My Clown", "slug_title": "my-clown", "date": "", "genre": "Romance / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

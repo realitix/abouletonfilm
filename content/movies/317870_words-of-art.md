@@ -1,0 +1,1 @@
+{"tmdb_id": 317870, "title": "Words Of Art", "original_title": "Words Of Art", "slug_title": "words-of-art", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9VjtJYqGqcamdSb6BfAlhcpm9x.jpg", "actors": [], "comments": [], "recommandations_id": []}

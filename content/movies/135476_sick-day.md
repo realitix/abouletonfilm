@@ -1,0 +1,1 @@
+{"tmdb_id": 135476, "title": "Sick Day", "original_title": "Sick Day", "slug_title": "sick-day", "date": "2011-10-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLz4HX2lJiWqO19xJhNCS3e1yaG.jpg", "actors": ["Evan Leone (Zed)", "Jeffrey S. Knight (Mark)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272384, "title": "Les Anneaux de Ia M\u00e9moire", "original_title": "Les Anneaux de Ia M\u00e9moire", "slug_title": "les-anneaux-de-ia-memoire", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

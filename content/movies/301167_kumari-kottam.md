@@ -1,0 +1,1 @@
+{"tmdb_id": 301167, "title": "Kumari Kottam", "original_title": "Kumari Kottam", "slug_title": "kumari-kottam", "date": "1971-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

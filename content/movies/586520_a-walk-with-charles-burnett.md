@@ -1,0 +1,1 @@
+{"tmdb_id": 586520, "title": "A Walk with Charles Burnett", "original_title": "A Walk with Charles Burnett", "slug_title": "a-walk-with-charles-burnett", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 221820, "title": "Daily Dozens", "original_title": "Daily Dozens", "slug_title": "daily-dozens", "date": "1926-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Cooper (The Janitor)", "Ethelyn Gibson (Lotta Vigor)", "John J. Richardson (Otto B. Shott)"], "comments": [], "recommandations_id": []}

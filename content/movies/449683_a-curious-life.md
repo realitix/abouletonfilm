@@ -1,0 +1,1 @@
+{"tmdb_id": 449683, "title": "A Curious Life", "original_title": "A Curious Life", "slug_title": "a-curious-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x3XAEn9VmcqDwDSQfLwvqQ2Iq6b.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 445612, "title": "O Zero N\u00e3o \u00e9 Vazio", "original_title": "O Zero N\u00e3o \u00e9 Vazio", "slug_title": "o-zero-nao-e-vazio", "date": "2005-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vB6spF4lgWUrBIbRtTUWI72dNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

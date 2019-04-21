@@ -1,0 +1,1 @@
+{"tmdb_id": 488544, "title": "U2: Rattle and Hum Outtakes", "original_title": "U2: Rattle and Hum Outtakes", "slug_title": "u2-rattle-and-hum-outtakes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yM96AGUK6ddDoTBy1TSBbES9yXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 435447, "title": "Le Cin\u00e9ma au service de l'histoire", "original_title": "Le Cin\u00e9ma au service de l'histoire", "slug_title": "le-cinema-au-service-de-l-histoire", "date": "1935-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

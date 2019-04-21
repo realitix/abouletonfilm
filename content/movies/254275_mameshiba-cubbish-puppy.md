@@ -1,0 +1,1 @@
+{"tmdb_id": 254275, "title": "Mameshiba Cubbish Puppy", "original_title": "Y\u00f4j\u00fb mameshiba", "slug_title": "mameshiba-cubbish-puppy", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebd1q31Hmqx2yUokqnqXorOuG4G.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 399675, "title": "AMA-ZONA", "original_title": "AMA-ZONA", "slug_title": "ama-zona", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c0Htcz456JaSo6czZB1PCyVhY4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

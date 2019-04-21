@@ -1,0 +1,1 @@
+{"tmdb_id": 351881, "title": "Clever Village", "original_title": "Umno Selo", "slug_title": "clever-village", "date": "1972-10-08", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgfdc7cRHvppUeMJdfNMGv0OJNY.jpg", "actors": [], "comments": [], "recommandations_id": []}

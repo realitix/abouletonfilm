@@ -1,0 +1,1 @@
+{"tmdb_id": 391344, "title": "Metallica: [1986] Quebec City", "original_title": "Metallica: [1986] Quebec City", "slug_title": "metallica-1986-quebec-city", "date": "1986-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzCn5zlCDMAXCoEVR4giAulE5jC.jpg", "actors": [], "comments": [], "recommandations_id": []}

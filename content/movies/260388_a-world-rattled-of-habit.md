@@ -1,0 +1,1 @@
+{"tmdb_id": 260388, "title": "A World Rattled of Habit", "original_title": "A World Rattled of Habit", "slug_title": "a-world-rattled-of-habit", "date": "2008-03-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wubaXT2fQXc9sYXLW8V5CVD7m5K.jpg", "actors": [], "comments": [], "recommandations_id": []}

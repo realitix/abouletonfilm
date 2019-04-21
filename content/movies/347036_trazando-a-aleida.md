@@ -1,0 +1,1 @@
+{"tmdb_id": 347036, "title": "Trazando a Aleida", "original_title": "Trazando a Aleida", "slug_title": "trazando-a-aleida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aleida Gallangos ()", "Lucio Antonio Gallangos ()"], "comments": [], "recommandations_id": []}

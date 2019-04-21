@@ -1,0 +1,1 @@
+{"tmdb_id": 422678, "title": "The Last Dance", "original_title": "The Last Dance", "slug_title": "the-last-dance", "date": "1931-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

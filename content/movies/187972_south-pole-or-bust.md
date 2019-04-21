@@ -1,0 +1,1 @@
+{"tmdb_id": 187972, "title": "South Pole or Bust", "original_title": "South Pole or Bust", "slug_title": "south-pole-or-bust", "date": "1934-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

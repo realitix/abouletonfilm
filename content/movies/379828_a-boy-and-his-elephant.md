@@ -1,0 +1,1 @@
+{"tmdb_id": 379828, "title": "A Boy and His Elephant", "original_title": "A Boy and His Elephant", "slug_title": "a-boy-and-his-elephant", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tsFCkD4Rz7g3QCfN2vs6xI1JM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

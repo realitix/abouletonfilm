@@ -1,0 +1,1 @@
+{"tmdb_id": 379198, "title": "Salmon Pink", "original_title": "Salmon Pink", "slug_title": "salmon-pink", "date": "1975-07-25", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eelUegkP84WbuyOEphwTDKtLoLL.jpg", "actors": [], "comments": [], "recommandations_id": []}

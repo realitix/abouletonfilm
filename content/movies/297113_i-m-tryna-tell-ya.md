@@ -1,0 +1,1 @@
+{"tmdb_id": 297113, "title": "I'm Tryna Tell Ya", "original_title": "I'm Tryna Tell Ya", "slug_title": "i-m-tryna-tell-ya", "date": "2014-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oar7YZartiEcIMg3hmzpecvfxna.jpg", "actors": [], "comments": [], "recommandations_id": []}

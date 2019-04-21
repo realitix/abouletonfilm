@@ -1,0 +1,1 @@
+{"tmdb_id": 371162, "title": "Eight Diagram Cudgel", "original_title": "Eight Diagram Cudgel", "slug_title": "eight-diagram-cudgel", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pnyyyoHDHTuHlMXWl8R442aqWFD.jpg", "actors": [], "comments": [], "recommandations_id": []}

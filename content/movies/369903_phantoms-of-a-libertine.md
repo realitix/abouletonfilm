@@ -1,0 +1,1 @@
+{"tmdb_id": 369903, "title": "Phantoms of a Libertine", "original_title": "Phantoms of a Libertine", "slug_title": "phantoms-of-a-libertine", "date": "2015-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

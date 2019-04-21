@@ -1,0 +1,1 @@
+{"tmdb_id": 422302, "title": "Watts with Eggs", "original_title": "Watts with Eggs", "slug_title": "watts-with-eggs", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

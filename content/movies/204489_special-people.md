@@ -1,0 +1,1 @@
+{"tmdb_id": 204489, "title": "Special People", "original_title": "Special People", "slug_title": "special-people", "date": "2008-11-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8mqHXPie86juXHtZV53DM6jVlLm.jpg", "actors": [], "comments": [], "recommandations_id": []}

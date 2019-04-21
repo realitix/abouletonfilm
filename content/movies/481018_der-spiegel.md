@@ -1,0 +1,1 @@
+{"tmdb_id": 481018, "title": "Der Spiegel", "original_title": "Der Spiegel", "slug_title": "der-spiegel", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

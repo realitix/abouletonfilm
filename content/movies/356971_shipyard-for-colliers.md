@@ -1,0 +1,1 @@
+{"tmdb_id": 356971, "title": "Shipyard for Colliers", "original_title": "Shipyard for Colliers", "slug_title": "shipyard-for-colliers", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

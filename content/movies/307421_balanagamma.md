@@ -1,0 +1,1 @@
+{"tmdb_id": 307421, "title": "Balanagamma", "original_title": "Balanagamma", "slug_title": "balanagamma", "date": "1959-10-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

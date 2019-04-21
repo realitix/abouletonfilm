@@ -1,0 +1,1 @@
+{"tmdb_id": 366118, "title": "Lectura Brossa", "original_title": "Lectura Brossa", "slug_title": "lectura-brossa", "date": "2003-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

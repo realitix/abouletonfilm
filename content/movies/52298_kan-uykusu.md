@@ -1,0 +1,1 @@
+{"tmdb_id": 52298, "title": "Kan Uykusu", "original_title": "Kan Uykusu", "slug_title": "kan-uykusu", "date": "2006-12-27", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b662SVAYsgZYW2pnv1EaS3R5FLX.jpg", "actors": ["Orhan Pamukoglu ()"], "comments": [], "recommandations_id": []}

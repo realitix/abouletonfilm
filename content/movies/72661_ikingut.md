@@ -1,0 +1,1 @@
+{"tmdb_id": 72661, "title": "Ikingut", "original_title": "Ikingut", "slug_title": "ikingut", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ygNr2841omNNyNUULQLflo0nQ1z.jpg", "actors": ["Orto Ignatiussen (Kajut)"], "comments": [], "recommandations_id": []}

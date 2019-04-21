@@ -1,0 +1,1 @@
+{"tmdb_id": 592318, "title": "Remote Control", "original_title": "Remote Control", "slug_title": "remote-control", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

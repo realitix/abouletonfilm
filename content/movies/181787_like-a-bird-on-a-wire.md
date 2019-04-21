@@ -1,0 +1,1 @@
+{"tmdb_id": 181787, "title": "Like a Bird on a Wire", "original_title": "Wie ein Vogel auf dem Draht", "slug_title": "like-a-bird-on-a-wire", "date": "1975-05-05", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aj2RWohKqstJP3Q1jKQ0kRypErW.jpg", "actors": [], "comments": [], "recommandations_id": []}

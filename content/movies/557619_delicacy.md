@@ -1,0 +1,1 @@
+{"tmdb_id": 557619, "title": "Delicacy", "original_title": "Delicacy", "slug_title": "delicacy", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIaQJJ5cTHYGyvsaIIDFAw2RmLO.jpg", "actors": ["Alice Bird (Sarah)", "Gavin Fowler (Ben)", "Kaya Yuzuki (Toni)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 436593, "title": "Saddam: America's Best Enemy", "original_title": "Saddam: America's Best Enemy", "slug_title": "saddam-america-s-best-enemy", "date": "2005-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fraser Macnaught (Narrator)"], "comments": [], "recommandations_id": []}

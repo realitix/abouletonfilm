@@ -1,0 +1,1 @@
+{"tmdb_id": 487114, "title": "I Remember Lena Svedberg", "original_title": "Jag minns Lena Svedberg", "slug_title": "i-remember-lena-svedberg", "date": "2000-01-30", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y7dLMnVtbUi8peWESEvJHGklu6y.jpg", "actors": [], "comments": [], "recommandations_id": []}

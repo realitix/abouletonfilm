@@ -1,0 +1,1 @@
+{"tmdb_id": 317409, "title": "Night Life in the Army", "original_title": "Night Life in the Army", "slug_title": "night-life-in-the-army", "date": "1942-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

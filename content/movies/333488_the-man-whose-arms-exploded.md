@@ -1,0 +1,1 @@
+{"tmdb_id": 333488, "title": "The Man Whose Arms Exploded", "original_title": "The Man Whose Arms Exploded", "slug_title": "the-man-whose-arms-exploded", "date": "2005-02-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYV0cS1umb8XxodvBGZJoAZE5Jh.jpg", "actors": [], "comments": [], "recommandations_id": []}

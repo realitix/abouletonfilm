@@ -1,0 +1,1 @@
+{"tmdb_id": 393088, "title": "On the Waves of the Adriatic", "original_title": "On the Waves of the Adriatic", "slug_title": "on-the-waves-of-the-adriatic", "date": "1991-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

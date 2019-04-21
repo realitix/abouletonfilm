@@ -1,0 +1,1 @@
+{"tmdb_id": 213553, "title": "Seamless", "original_title": "Seamless", "slug_title": "seamless", "date": "1999-01-01", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnUexMQDJqr4Adjmu4aN1hV1yRy.jpg", "actors": ["Kentaro Segal (J.B.)", "Shannon Elizabeth (Nicole)"], "comments": [], "recommandations_id": []}

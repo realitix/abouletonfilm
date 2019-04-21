@@ -1,0 +1,1 @@
+{"tmdb_id": 456975, "title": "That Tennessee Beat", "original_title": "That Tennessee Beat", "slug_title": "that-tennessee-beat", "date": "1966-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1MnXHdQB9JcbIbumDe4m59kVzdl.jpg", "actors": [], "comments": [], "recommandations_id": []}

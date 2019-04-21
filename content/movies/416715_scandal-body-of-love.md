@@ -1,0 +1,1 @@
+{"tmdb_id": 416715, "title": "Scandal: Body of Love", "original_title": "Scandal: Body of Love", "slug_title": "scandal-body-of-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

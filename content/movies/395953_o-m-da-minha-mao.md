@@ -1,0 +1,1 @@
+{"tmdb_id": 395953, "title": "O M da Minha M\u00e3o", "original_title": "O M da Minha M\u00e3o", "slug_title": "o-m-da-minha-mao", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11Tjql14d7Hn06NrwjE6JtIXuVY.jpg", "actors": [], "comments": [], "recommandations_id": []}

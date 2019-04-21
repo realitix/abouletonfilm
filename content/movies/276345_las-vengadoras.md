@@ -1,0 +1,1 @@
+{"tmdb_id": 276345, "title": "Las Vengadoras", "original_title": "Las Vengadoras", "slug_title": "las-vengadoras", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

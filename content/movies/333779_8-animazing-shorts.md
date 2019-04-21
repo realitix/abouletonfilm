@@ -1,0 +1,1 @@
+{"tmdb_id": 333779, "title": "8 Animazing Shorts", "original_title": "8 Animazing Shorts", "slug_title": "8-animazing-shorts", "date": "2015-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

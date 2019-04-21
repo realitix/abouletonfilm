@@ -1,0 +1,1 @@
+{"tmdb_id": 352496, "title": "Trash Cat", "original_title": "Trash Cat", "slug_title": "trash-cat", "date": "2015-06-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y9EGF6x5bhowl1wCPs4mMA9NCia.jpg", "actors": ["Dawn M. Bennett ()"], "comments": [], "recommandations_id": []}

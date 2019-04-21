@@ -1,0 +1,1 @@
+{"tmdb_id": 325974, "title": "10 Things Every Golfer Should Know", "original_title": "10 Things Every Golfer Should Know", "slug_title": "10-things-every-golfer-should-know", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

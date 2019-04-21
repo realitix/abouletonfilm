@@ -1,0 +1,1 @@
+{"tmdb_id": 232272, "title": "City Ninja", "original_title": "Tou qing ke", "slug_title": "city-ninja", "date": "1985-01-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBzhEYvaAXO0zqiDyddSXT4z8n9.jpg", "actors": ["Michael Chan ()", "Elaine Jin ()", "David Lo ()"], "comments": [], "recommandations_id": []}

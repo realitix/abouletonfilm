@@ -1,0 +1,1 @@
+{"tmdb_id": 205131, "title": "Dizzy Dishes", "original_title": "Dizzy Dishes", "slug_title": "dizzy-dishes", "date": "1955-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 114339, "title": "Paparazzi", "original_title": "Paparazzi", "slug_title": "paparazzi", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fe9tFYHNeIWkNfEgTHOHDviGhsJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

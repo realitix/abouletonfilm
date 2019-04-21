@@ -1,0 +1,1 @@
+{"tmdb_id": 427537, "title": "SS Panzer Grenadier", "original_title": "SS Panzer Grenadier", "slug_title": "ss-panzer-grenadier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxvRZntgz1fBNQrRAYeUPFdxmc6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337349, "title": "Lisboa Vista do Rio", "original_title": "Lisboa Vista do Rio", "slug_title": "lisboa-vista-do-rio", "date": "2014-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

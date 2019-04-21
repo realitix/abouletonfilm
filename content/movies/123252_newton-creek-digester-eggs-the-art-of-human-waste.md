@@ -1,0 +1,1 @@
+{"tmdb_id": 123252, "title": "Newton Creek Digester Eggs:  The Art of Human Waste", "original_title": "Newton Creek Digester Eggs:  The Art of Human Waste", "slug_title": "newton-creek-digester-eggs-the-art-of-human-waste", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 321735, "title": "Resistance", "original_title": "\ud5a5\uc804", "slug_title": "resistance", "date": "1972-08-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MG6b3GJQZsbV20fuJKa11hEplE.jpg", "actors": ["Kim Jin-kyu ()", "Park Ji-yeong ()"], "comments": [], "recommandations_id": []}

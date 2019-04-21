@@ -1,0 +1,1 @@
+{"tmdb_id": 584249, "title": "The Disciple", "original_title": "Posol", "slug_title": "the-disciple", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vlad Ivanov ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 205250, "title": "The Hen That Laid the Golden Eggs", "original_title": "La poule aux oeufs d'or", "slug_title": "the-hen-that-laid-the-golden-eggs", "date": "1905-12-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65WmKlan68aDyzbO63dWoKCwAcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

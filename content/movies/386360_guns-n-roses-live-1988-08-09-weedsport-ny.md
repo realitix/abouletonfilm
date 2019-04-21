@@ -1,0 +1,1 @@
+{"tmdb_id": 386360, "title": "Guns N' Roses Live 1988-08-09 Weedsport, NY", "original_title": "Guns N' Roses Live 1988-08-09 Weedsport, NY", "slug_title": "guns-n-roses-live-1988-08-09-weedsport-ny", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 447696, "title": "The Days of the Dead", "original_title": "La Ofrenda", "slug_title": "the-days-of-the-dead", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xgBxbWqPTzWxmsM8vLtPpGfffgv.jpg", "actors": [], "comments": [], "recommandations_id": []}

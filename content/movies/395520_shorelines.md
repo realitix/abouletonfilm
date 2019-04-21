@@ -1,0 +1,1 @@
+{"tmdb_id": 395520, "title": "Shorelines", "original_title": "Shorelines", "slug_title": "shorelines", "date": "1977-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geTckHoCbqmgC0EcamzvPFKLRUk.jpg", "actors": [], "comments": [], "recommandations_id": []}

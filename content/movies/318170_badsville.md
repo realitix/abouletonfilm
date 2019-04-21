@@ -1,0 +1,1 @@
+{"tmdb_id": 318170, "title": "Badsville", "original_title": "Badsville", "slug_title": "badsville", "date": "2002-05-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

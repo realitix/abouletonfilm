@@ -1,0 +1,1 @@
+{"tmdb_id": 487043, "title": "What Haunts Us", "original_title": "What Haunts Us", "slug_title": "what-haunts-us", "date": "2017-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOzg3uCRjFO4jSsJSYqVlDdf6gd.jpg", "actors": ["Eddie Fischer (Himself)"], "comments": [], "recommandations_id": []}

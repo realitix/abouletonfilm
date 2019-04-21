@@ -1,0 +1,1 @@
+{"tmdb_id": 312066, "title": "Life & Times of Pope John Paul II", "original_title": "Life & Times of Pope John Paul II", "slug_title": "life-times-of-pope-john-paul-ii", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

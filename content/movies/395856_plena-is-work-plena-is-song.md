@@ -1,0 +1,1 @@
+{"tmdb_id": 395856, "title": "Plena is Work, Plena is Song", "original_title": "Plena, canta y trabajo", "slug_title": "plena-is-work-plena-is-song", "date": "1989-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y94rsp9MRkyqek95XmLYt3bhis8.jpg", "actors": [], "comments": [], "recommandations_id": []}

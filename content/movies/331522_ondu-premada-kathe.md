@@ -1,0 +1,1 @@
+{"tmdb_id": 331522, "title": "Ondu Premada Kathe", "original_title": "Ondu Premada Kathe", "slug_title": "ondu-premada-kathe", "date": "1977-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u12To8LLnhIgu3hKxGD6igWq5lU.jpg", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": []}

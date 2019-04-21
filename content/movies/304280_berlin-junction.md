@@ -1,0 +1,1 @@
+{"tmdb_id": 304280, "title": "Berlin Junction", "original_title": "Berlin Junction", "slug_title": "berlin-junction", "date": "2013-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHXXTXN5Y68mLex6gaD1FYw1h0e.jpg", "actors": [], "comments": [], "recommandations_id": []}

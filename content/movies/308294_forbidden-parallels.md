@@ -1,0 +1,1 @@
+{"tmdb_id": 308294, "title": "Forbidden Parallels", "original_title": "Forbidden Parallels", "slug_title": "forbidden-parallels", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

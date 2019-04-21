@@ -1,0 +1,1 @@
+{"tmdb_id": 586992, "title": "Maggots", "original_title": "Maggots", "slug_title": "maggots", "date": "2019-03-08", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umso07Bbvx8tt0r4INcdEu9oKRO.jpg", "actors": [], "comments": [], "recommandations_id": []}

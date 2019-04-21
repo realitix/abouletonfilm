@@ -1,0 +1,1 @@
+{"tmdb_id": 420301, "title": "Bad mama, who cares", "original_title": "Bad mama, who cares", "slug_title": "bad-mama-who-cares", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwbVHBBOBKz1GIMaZb7tN8WqPex.jpg", "actors": ["Ren Lallatin (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367046, "title": "A Inven\u00e7\u00e3o da Noite", "original_title": "A Inven\u00e7\u00e3o da Noite", "slug_title": "a-invencao-da-noite", "date": "2015-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHqM2YaVbV7KwtE7wyiyJIQL6BN.jpg", "actors": [], "comments": [], "recommandations_id": []}

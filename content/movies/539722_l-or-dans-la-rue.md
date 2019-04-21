@@ -1,0 +1,1 @@
+{"tmdb_id": 539722, "title": "L'or dans la rue", "original_title": "L'or dans la rue", "slug_title": "l-or-dans-la-rue", "date": "1934-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
