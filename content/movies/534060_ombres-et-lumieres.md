@@ -1,0 +1,1 @@
+{"tmdb_id": 534060, "title": "Ombres et lumi\u00e8res", "original_title": "Ombres et lumi\u00e8res", "slug_title": "ombres-et-lumieres", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

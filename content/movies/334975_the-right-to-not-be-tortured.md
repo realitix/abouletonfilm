@@ -1,0 +1,1 @@
+{"tmdb_id": 334975, "title": "The Right to Not Be Tortured", "original_title": "The Right to Not Be Tortured", "slug_title": "the-right-to-not-be-tortured", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

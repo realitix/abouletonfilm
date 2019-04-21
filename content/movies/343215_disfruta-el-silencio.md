@@ -1,0 +1,1 @@
+{"tmdb_id": 343215, "title": "Disfruta el silencio", "original_title": "Disfruta el silencio", "slug_title": "disfruta-el-silencio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

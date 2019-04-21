@@ -1,0 +1,1 @@
+{"tmdb_id": 371974, "title": "Ganje Qarun", "original_title": "Ganje Qarun", "slug_title": "ganje-qarun", "date": "1965-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gp2XksAMHi6MC8hVC1IJeRRotac.jpg", "actors": ["Mohamad Ali Fardin ()", "Arman ()", "Fourouzan ()"], "comments": [], "recommandations_id": []}

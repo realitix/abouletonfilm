@@ -1,0 +1,1 @@
+{"tmdb_id": 128742, "title": "Bride of Resistor", "original_title": "Bride of Resistor", "slug_title": "bride-of-resistor", "date": "1997-01-01", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jjVlELIuOyv1BxsoAZhYA3iZl4m.jpg", "actors": [], "comments": [], "recommandations_id": []}

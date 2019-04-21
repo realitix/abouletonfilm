@@ -1,0 +1,1 @@
+{"tmdb_id": 351688, "title": "Life Is Beautiful", "original_title": "Life Is Beautiful", "slug_title": "life-is-beautiful", "date": "2013-09-30", "genre": "Drame / Animation / Com\u00e9die", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQkSibX4UyuagjPhlW0dQ67UQZh.jpg", "actors": [], "comments": [], "recommandations_id": []}

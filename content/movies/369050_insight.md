@@ -1,0 +1,1 @@
+{"tmdb_id": 369050, "title": "Insight", "original_title": "\u0418\u043d\u0441\u0430\u0439\u0442", "slug_title": "insight", "date": "2015-06-11", "genre": "Romance / Drame", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yury Loparev (foreman)", "Philip Avdeev ()", "Alla Tsukanova (social worker)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 493325, "title": "Modet att d\u00f6da", "original_title": "Modet att d\u00f6da", "slug_title": "modet-att-doda", "date": "1980-12-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Percy Brandt (The father)", "Lars Green (The son)", "Marika Lindstr\u00f6m (Radka)"], "comments": [], "recommandations_id": []}

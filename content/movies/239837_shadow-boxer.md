@@ -1,0 +1,1 @@
+{"tmdb_id": 239837, "title": "Shadow Boxer", "original_title": "Shadow Boxer", "slug_title": "shadow-boxer", "date": "2012-11-01", "genre": "Action / Com\u00e9die / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Kinsler (Joe)", "Nathalie Cox (Mervi)"], "comments": [], "recommandations_id": []}

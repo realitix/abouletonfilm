@@ -1,0 +1,1 @@
+{"tmdb_id": 82305, "title": "Hookers at the Point", "original_title": "Hookers at the Point", "slug_title": "hookers-at-the-point", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7IWlVLPVRNNy4aGYvVHg6NaGmxh.jpg", "actors": [], "comments": [], "recommandations_id": []}

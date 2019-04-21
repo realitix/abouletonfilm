@@ -1,0 +1,1 @@
+{"tmdb_id": 489873, "title": "HOSPITAL WING 8 EAST", "original_title": "HOSPITAL WING 8 EAST", "slug_title": "hospital-wing-8-east", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

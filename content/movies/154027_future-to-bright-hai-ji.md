@@ -1,0 +1,1 @@
+{"tmdb_id": 154027, "title": "Future to Bright Hai Ji", "original_title": "Future to Bright Hai Ji", "slug_title": "future-to-bright-hai-ji", "date": "2012-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6OSCH2oOL0yMwq7g6p7AkJYd67d.jpg", "actors": [], "comments": [], "recommandations_id": []}

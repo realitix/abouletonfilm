@@ -1,0 +1,1 @@
+{"tmdb_id": 561776, "title": "Picasso and Dance", "original_title": "Picasso and Dance", "slug_title": "picasso-and-dance", "date": "2006-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0YLpv6FQ7dEs8Y1jBIMqISsKqK.jpg", "actors": [], "comments": [], "recommandations_id": []}

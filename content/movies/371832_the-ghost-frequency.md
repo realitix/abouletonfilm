@@ -1,0 +1,1 @@
+{"tmdb_id": 371832, "title": "The Ghost Frequency", "original_title": "La Frequenza Fantasma", "slug_title": "the-ghost-frequency", "date": "2014-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jXlBeqfb1m2RXgN9z61N2c88Abn.jpg", "actors": [], "comments": [], "recommandations_id": []}

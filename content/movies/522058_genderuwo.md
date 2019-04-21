@@ -1,0 +1,1 @@
+{"tmdb_id": 522058, "title": "Genderuwo", "original_title": "Genderuwo", "slug_title": "genderuwo", "date": "2007-09-06", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Davina Veronica ()", "Robby Shine ()", "Indah Kirana ()"], "comments": [], "recommandations_id": []}

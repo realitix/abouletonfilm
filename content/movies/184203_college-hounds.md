@@ -1,0 +1,1 @@
+{"tmdb_id": 184203, "title": "College Hounds", "original_title": "College Hounds", "slug_title": "college-hounds", "date": "1930-04-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zion Myers (Various (voice) (uncredited))", "Jules White (Various (voice) (uncredited))"], "comments": [], "recommandations_id": []}

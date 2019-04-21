@@ -1,0 +1,1 @@
+{"tmdb_id": 484762, "title": "Blondes and Blunders", "original_title": "Blondes and Blunders", "slug_title": "blondes-and-blunders", "date": "1940-11-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Catlett (Walter)"], "comments": [], "recommandations_id": []}

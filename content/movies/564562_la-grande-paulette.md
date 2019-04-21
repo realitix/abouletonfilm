@@ -1,0 +1,1 @@
+{"tmdb_id": 564562, "title": "La grande Paulette", "original_title": "La grande Paulette", "slug_title": "la-grande-paulette", "date": "1974-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCKn91wC1cYUS4pWGUZrDfDtPRP.jpg", "actors": [], "comments": [], "recommandations_id": []}

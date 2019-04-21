@@ -1,0 +1,1 @@
+{"tmdb_id": 156684, "title": "A Man Needs a Plan", "original_title": "Mannen maken plannen", "slug_title": "a-man-needs-a-plan", "date": "1993-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eugene Bervoets (Jim)", "Fran\u00e7ois Beukelaers (Marcel)", "Amid Chakir (Larbi)"], "comments": [], "recommandations_id": []}

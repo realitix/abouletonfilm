@@ -1,0 +1,1 @@
+{"tmdb_id": 402847, "title": "Anishoara", "original_title": "Ani\u015foara", "slug_title": "anishoara", "date": "2016-06-25", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1AdxuWW5II1rNeKuFXCm8fC60cs.jpg", "actors": ["Anisoara Morari (Anisoara)"], "comments": [], "recommandations_id": []}

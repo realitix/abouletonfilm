@@ -1,0 +1,1 @@
+{"tmdb_id": 205258, "title": "The Drug Scene", "original_title": "The Drug Scene", "slug_title": "the-drug-scene", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

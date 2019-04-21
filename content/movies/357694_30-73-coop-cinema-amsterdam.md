@@ -1,0 +1,1 @@
+{"tmdb_id": 357694, "title": "30/73 Coop Cinema Amsterdam", "original_title": "30/73 Coop Cinema Amsterdam", "slug_title": "30-73-coop-cinema-amsterdam", "date": "1973-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/debGTjmYrFvBgU40G4E47ZPxH0t.jpg", "actors": [], "comments": [], "recommandations_id": []}

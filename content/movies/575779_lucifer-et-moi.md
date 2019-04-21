@@ -1,0 +1,1 @@
+{"tmdb_id": 575779, "title": "Lucifer et moi", "original_title": "Lucifer et moi", "slug_title": "lucifer-et-moi", "date": "2009-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NkIzw27ddHPC3DS8xa8kQJi7XB.jpg", "actors": [], "comments": [], "recommandations_id": []}

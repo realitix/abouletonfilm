@@ -1,0 +1,1 @@
+{"tmdb_id": 353582, "title": "El hu\u00e9sped de la niebla", "original_title": "El hu\u00e9sped de la niebla", "slug_title": "el-huesped-de-la-niebla", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Javier Vi\u00f1as (Narrator)"], "comments": [], "recommandations_id": []}

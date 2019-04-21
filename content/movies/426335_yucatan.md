@@ -1,0 +1,1 @@
+{"tmdb_id": 426335, "title": "Yucatan", "original_title": "Yucatan", "slug_title": "yucatan", "date": "1961-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrqBVLPcmAuKeZxdhumQgEA49rY.jpg", "actors": [], "comments": [], "recommandations_id": []}

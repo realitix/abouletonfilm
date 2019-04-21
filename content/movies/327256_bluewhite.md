@@ -1,0 +1,1 @@
+{"tmdb_id": 327256, "title": "Bluewhite", "original_title": "Bluewhite", "slug_title": "bluewhite", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

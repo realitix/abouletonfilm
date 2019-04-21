@@ -1,0 +1,1 @@
+{"tmdb_id": 503607, "title": "Girlfriend", "original_title": "\uc5ec\uc790\uce5c\uad6c", "slug_title": "girlfriend", "date": "2018-02-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5yv8KcqfN1LICuCOQbPLw9c0ylM.jpg", "actors": ["\u95f5\u5ea6\u5141 ()", "\u674e\u79c0 ()"], "comments": [], "recommandations_id": []}

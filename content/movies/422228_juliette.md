@@ -1,0 +1,1 @@
+{"tmdb_id": 422228, "title": "Juliette", "original_title": "Juliette", "slug_title": "juliette", "date": "1970-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87tgTzMY2ubx6gLM2TSre6Fp1OD.jpg", "actors": ["Soledad Miranda (Juliette)"], "comments": [], "recommandations_id": []}

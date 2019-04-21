@@ -1,0 +1,1 @@
+{"tmdb_id": 295617, "title": "Glow of the Firefly", "original_title": "Jonakir Alo", "slug_title": "glow-of-the-firefly", "date": "2014-09-21", "genre": "Familial / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wolqVlsRtJEPuN3zZsEEm1RXe2X.jpg", "actors": [], "comments": [], "recommandations_id": []}

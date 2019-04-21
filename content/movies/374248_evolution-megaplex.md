@@ -1,0 +1,1 @@
+{"tmdb_id": 374248, "title": "Evolution Megaplex", "original_title": "Evolution Megaplex", "slug_title": "evolution-megaplex", "date": "2012-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

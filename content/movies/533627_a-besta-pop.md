@@ -1,0 +1,1 @@
+{"tmdb_id": 533627, "title": "A Besta Pop", "original_title": "A Besta Pop", "slug_title": "a-besta-pop", "date": "2019-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lc7JzsBo0SiajLbwevDFxW15E3y.jpg", "actors": ["Leoci Medeiros (Martin)"], "comments": [], "recommandations_id": []}

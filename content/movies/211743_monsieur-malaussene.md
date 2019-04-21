@@ -1,0 +1,1 @@
+{"tmdb_id": 211743, "title": "Monsieur Malauss\u00e8ne", "original_title": "Monsieur Malauss\u00e8ne", "slug_title": "monsieur-malaussene", "date": "2001-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claudio Bisio (Benjamin Malauss\u00e9ne)"], "comments": [], "recommandations_id": []}

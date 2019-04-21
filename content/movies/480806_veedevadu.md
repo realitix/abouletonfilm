@@ -1,0 +1,1 @@
+{"tmdb_id": 480806, "title": "Veedevadu", "original_title": "Veedevadu", "slug_title": "veedevadu", "date": "2017-09-14", "genre": "Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUzrZiMFmGlSyYeKVcKF6x7nuXf.jpg", "actors": ["Esha Gupta ()", "Sachiin Joshi ()", "Vennela Kishore ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330926, "title": "V\u00e4ktare", "original_title": "V\u00e4ktare", "slug_title": "vaktare", "date": "2015-01-01", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AmYusNnPUrARXQ9qEgW6vRoZsqp.jpg", "actors": ["Arvin Kananian ()", "Christopher Wagelin ()"], "comments": [], "recommandations_id": []}

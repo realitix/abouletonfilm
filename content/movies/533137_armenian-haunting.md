@@ -1,0 +1,1 @@
+{"tmdb_id": 533137, "title": "Armenian Haunting", "original_title": "Armenian Haunting", "slug_title": "armenian-haunting", "date": "2018-04-24", "genre": "Horreur", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWx8068D4PLghuCkQ1Oh84qOirw.jpg", "actors": ["Vaneh Assadourian (Maro)"], "comments": [], "recommandations_id": []}

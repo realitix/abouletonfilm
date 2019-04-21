@@ -1,0 +1,1 @@
+{"tmdb_id": 500960, "title": "The Amazonian Angel", "original_title": "L\u2019Ange Amazonien", "slug_title": "the-amazonian-angel", "date": "1992-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9GKxvctVnuz8gw6buUJuoPJ79Wk.jpg", "actors": ["Lena Vandrey ()"], "comments": [], "recommandations_id": []}

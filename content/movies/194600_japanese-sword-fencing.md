@@ -1,0 +1,1 @@
+{"tmdb_id": 194600, "title": "Japanese Sword Fencing", "original_title": "Escrime au sabre japonais", "slug_title": "japanese-sword-fencing", "date": "1897-05-18", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mEkNh31uqcil9AA3NSAfzSh3zpb.jpg", "actors": [], "comments": [], "recommandations_id": [72696]}

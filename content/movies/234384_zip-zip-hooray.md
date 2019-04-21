@@ -1,0 +1,1 @@
+{"tmdb_id": 234384, "title": "Zip Zip Hooray!", "original_title": "Zip Zip Hooray!", "slug_title": "zip-zip-hooray", "date": "1965-11-08", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wU912Jdvzd1XE0Gu8hZwNluqFcb.jpg", "actors": [], "comments": [], "recommandations_id": [234286, 204815]}

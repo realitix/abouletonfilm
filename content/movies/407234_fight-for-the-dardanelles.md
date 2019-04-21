@@ -1,0 +1,1 @@
+{"tmdb_id": 407234, "title": "Fight for the Dardanelles", "original_title": "Fight for the Dardanelles", "slug_title": "fight-for-the-dardanelles", "date": "1915-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbzWQZ8aUlyrmE2tH1kRbPDugNW.jpg", "actors": [], "comments": [], "recommandations_id": []}

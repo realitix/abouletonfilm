@@ -1,0 +1,1 @@
+{"tmdb_id": 164305, "title": "Rocks With Wings", "original_title": "Rocks With Wings", "slug_title": "rocks-with-wings", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333235, "title": "Sabra and the Monster from the Forest", "original_title": "Sabra Wa-l Wahsh", "slug_title": "sabra-and-the-monster-from-the-forest", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386131, "title": "I Am The Blues", "original_title": "I Am The Blues", "slug_title": "i-am-the-blues", "date": "2016-03-15", "genre": "Histoire / Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tE9fc9JobdmM78Verq6iy0kDJtu.jpg", "actors": [], "comments": [], "recommandations_id": []}

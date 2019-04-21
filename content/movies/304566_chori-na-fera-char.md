@@ -1,0 +1,1 @@
+{"tmdb_id": 304566, "title": "Chori Na Fera Char", "original_title": "Chori Na Fera Char", "slug_title": "chori-na-fera-char", "date": "1989-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

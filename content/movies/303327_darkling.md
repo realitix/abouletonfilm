@@ -1,0 +1,1 @@
+{"tmdb_id": 303327, "title": "Darkling", "original_title": "Darkling", "slug_title": "darkling", "date": "2014-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

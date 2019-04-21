@@ -1,0 +1,1 @@
+{"tmdb_id": 128972, "title": "Everlast and Friends - Live in Los Angeles", "original_title": "Everlast and Friends - Live in Los Angeles", "slug_title": "everlast-and-friends-live-in-los-angeles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

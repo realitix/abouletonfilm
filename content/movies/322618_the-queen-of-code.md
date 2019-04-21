@@ -1,0 +1,1 @@
+{"tmdb_id": 322618, "title": "The Queen of Code", "original_title": "The Queen of Code", "slug_title": "the-queen-of-code", "date": "2015-01-21", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lbNQL5pW0ospIZnRsXg8fU2nLPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

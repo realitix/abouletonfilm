@@ -1,0 +1,1 @@
+{"tmdb_id": 316488, "title": "New Friends", "original_title": "New Friends", "slug_title": "new-friends", "date": "1981-01-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

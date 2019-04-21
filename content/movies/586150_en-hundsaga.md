@@ -1,0 +1,1 @@
+{"tmdb_id": 586150, "title": "En hundsaga", "original_title": "En hundsaga", "slug_title": "en-hundsaga", "date": "1988-11-19", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bNu1DB4ddSHAV0HIWZw7TpsDW5I.jpg", "actors": ["Tomas von Br\u00f6mssen ((voice))"], "comments": [], "recommandations_id": []}

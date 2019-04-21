@@ -1,0 +1,1 @@
+{"tmdb_id": 136345, "title": "Ballerina", "original_title": "Ballerina", "slug_title": "ballerina", "date": "2006-08-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cEg2INubyKA93gWleJdhMelPhAl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391250, "title": "Paper is Fire, Fire is Paper", "original_title": "Paper is Fire, Fire is Paper", "slug_title": "paper-is-fire-fire-is-paper", "date": "1973-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

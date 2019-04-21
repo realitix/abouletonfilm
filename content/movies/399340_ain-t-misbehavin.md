@@ -1,0 +1,1 @@
+{"tmdb_id": 399340, "title": "Ain't Misbehavin'", "original_title": "Ain't Misbehavin'", "slug_title": "ain-t-misbehavin", "date": "1981-05-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Z5MMyISv3B5JPSnq2adRIdxber.jpg", "actors": [], "comments": [], "recommandations_id": []}

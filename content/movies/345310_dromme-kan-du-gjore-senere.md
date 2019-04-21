@@ -1,0 +1,1 @@
+{"tmdb_id": 345310, "title": "Dr\u00f8mme kan du gj\u00f8re senere", "original_title": "Dr\u00f8mme kan du gj\u00f8re senere", "slug_title": "dromme-kan-du-gjore-senere", "date": "2005-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

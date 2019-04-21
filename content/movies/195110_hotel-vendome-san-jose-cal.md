@@ -1,0 +1,1 @@
+{"tmdb_id": 195110, "title": "Hotel Vendome, San Jose, Cal.", "original_title": "Hotel Vendome, San Jose, Cal.", "slug_title": "hotel-vendome-san-jose-cal", "date": "1897-10-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

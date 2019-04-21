@@ -1,0 +1,1 @@
+{"tmdb_id": 411087, "title": "Passion & Poetry: Sam's Favorite Film", "original_title": "Passion & Poetry: Sam's Favorite Film", "slug_title": "passion-poetry-sam-s-favorite-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

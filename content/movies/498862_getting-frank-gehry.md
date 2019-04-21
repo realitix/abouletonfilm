@@ -1,0 +1,1 @@
+{"tmdb_id": 498862, "title": "Getting Frank Gehry", "original_title": "Getting Frank Gehry", "slug_title": "getting-frank-gehry", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktSq2jMumV2pSJHPWzpFg0CnaLi.jpg", "actors": [], "comments": [], "recommandations_id": []}

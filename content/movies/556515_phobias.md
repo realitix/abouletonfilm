@@ -1,0 +1,1 @@
+{"tmdb_id": 556515, "title": "Phobias", "original_title": "Phobias", "slug_title": "phobias", "date": "2003-04-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katharine Leis (Sarah)"], "comments": [], "recommandations_id": []}

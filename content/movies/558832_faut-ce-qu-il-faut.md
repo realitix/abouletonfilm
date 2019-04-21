@@ -1,0 +1,1 @@
+{"tmdb_id": 558832, "title": "Faut ce qu'il faut", "original_title": "Faut ce qu'il faut", "slug_title": "faut-ce-qu-il-faut", "date": "1946-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

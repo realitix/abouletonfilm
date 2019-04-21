@@ -1,0 +1,1 @@
+{"tmdb_id": 563482, "title": "Leperfuck", "original_title": "Leperfuck", "slug_title": "leperfuck", "date": "2007-08-18", "genre": "Com\u00e9die / Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

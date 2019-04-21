@@ -1,0 +1,1 @@
+{"tmdb_id": 238289, "title": "NJPW: Power Struggle", "original_title": "NJPW: Power Struggle", "slug_title": "njpw-power-struggle", "date": "2013-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6aO0DEQQzZcHEjLSfGJnmcPJo5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

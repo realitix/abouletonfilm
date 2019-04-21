@@ -1,0 +1,1 @@
+{"tmdb_id": 48447, "title": "The Demons Among Us", "original_title": "The Demons Among Us", "slug_title": "the-demons-among-us", "date": "2006-07-13", "genre": "Horreur / Thriller", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4qenZz7kGy1YbNn2GMq6sRc4Gc.jpg", "actors": [], "comments": [], "recommandations_id": [42255, 16057]}

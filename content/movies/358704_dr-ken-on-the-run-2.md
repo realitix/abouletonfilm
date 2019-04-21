@@ -1,0 +1,1 @@
+{"tmdb_id": 358704, "title": "Dr. Ken on the Run 2", "original_title": "Dr. Ken on the Run 2", "slug_title": "dr-ken-on-the-run-2", "date": "2013-06-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Awurum (Dr. Ken)", "Roy De Nani ()", "Camila Mberekpe ()"], "comments": [], "recommandations_id": []}

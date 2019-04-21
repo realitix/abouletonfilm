@@ -1,0 +1,1 @@
+{"tmdb_id": 588435, "title": "The Brigands of Rattlecreek", "original_title": "The Brigands of Rattlecreek", "slug_title": "the-brigands-of-rattlecreek", "date": "", "genre": "Western / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

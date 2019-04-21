@@ -1,0 +1,1 @@
+{"tmdb_id": 564313, "title": "Death of a Jew", "original_title": "Moto Shel Yehudi", "slug_title": "death-of-a-jew", "date": "1970-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTdZ23C4L43IeVd5AwSSvlSIrqn.jpg", "actors": [], "comments": [], "recommandations_id": []}

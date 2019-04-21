@@ -1,0 +1,1 @@
+{"tmdb_id": 305255, "title": "Kirayadar", "original_title": "Kirayadar", "slug_title": "kirayadar", "date": "1986-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zjrxBePhPOAVZiBWS7LijJvfzn.jpg", "actors": ["Utpal Dutt ()", "Raj Babbar ()", "Padmini Kolhapure ()"], "comments": [], "recommandations_id": []}

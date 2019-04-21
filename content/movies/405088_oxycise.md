@@ -1,0 +1,1 @@
+{"tmdb_id": 405088, "title": "Oxycise!", "original_title": "Oxycise!", "slug_title": "oxycise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0PRcEQMopKRjuPAhYIDY869GZb.jpg", "actors": [], "comments": [], "recommandations_id": []}

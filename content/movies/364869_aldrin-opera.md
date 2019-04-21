@@ -1,0 +1,1 @@
+{"tmdb_id": 364869, "title": "Aldrin Opera", "original_title": "Aldrin \u0171ropera", "slug_title": "aldrin-opera", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/feH9p75PGSEIc0QcLB5K5cxM6M7.jpg", "actors": [], "comments": [], "recommandations_id": []}

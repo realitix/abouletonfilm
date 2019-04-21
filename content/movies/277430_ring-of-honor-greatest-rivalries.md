@@ -1,0 +1,1 @@
+{"tmdb_id": 277430, "title": "Ring of Honor: Greatest Rivalries", "original_title": "Ring of Honor: Greatest Rivalries", "slug_title": "ring-of-honor-greatest-rivalries", "date": "2008-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

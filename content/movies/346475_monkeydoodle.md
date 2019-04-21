@@ -1,0 +1,1 @@
+{"tmdb_id": 346475, "title": "Monkeydoodle", "original_title": "Monkeydoodle", "slug_title": "monkeydoodle", "date": "1931-12-31", "genre": "Fantastique / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aNnajVayEPH7Zl1dWGtQTDhAxXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

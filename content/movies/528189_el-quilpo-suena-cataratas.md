@@ -1,0 +1,1 @@
+{"tmdb_id": 528189, "title": "El Quilpo sue\u00f1a cataratas", "original_title": "El Quilpo sue\u00f1a cataratas", "slug_title": "el-quilpo-suena-cataratas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

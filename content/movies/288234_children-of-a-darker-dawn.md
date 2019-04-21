@@ -1,0 +1,1 @@
+{"tmdb_id": 288234, "title": "Children of a Darker Dawn", "original_title": "Children of a Darker Dawn", "slug_title": "children-of-a-darker-dawn", "date": "2013-11-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/plH6Cr0ceAHAkmcl359FRVd352O.jpg", "actors": [], "comments": [], "recommandations_id": []}

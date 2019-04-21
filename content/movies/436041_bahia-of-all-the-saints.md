@@ -1,0 +1,1 @@
+{"tmdb_id": 436041, "title": "Bahia of All the Saints", "original_title": "Bahia of All the Saints", "slug_title": "bahia-of-all-the-saints", "date": "1994-01-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

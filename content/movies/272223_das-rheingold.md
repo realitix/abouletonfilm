@@ -1,0 +1,1 @@
+{"tmdb_id": 272223, "title": "Das Rheingold", "original_title": "Das Rheingold", "slug_title": "das-rheingold", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

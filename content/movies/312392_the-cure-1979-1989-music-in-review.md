@@ -1,0 +1,1 @@
+{"tmdb_id": 312392, "title": "The Cure: 1979-1989: Music in Review", "original_title": "The Cure: 1979-1989: Music in Review", "slug_title": "the-cure-1979-1989-music-in-review", "date": "2005-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

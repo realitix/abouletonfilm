@@ -1,0 +1,1 @@
+{"tmdb_id": 109830, "title": "The Right Thing", "original_title": "La cosa giusta", "slug_title": "the-right-thing", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axH7lnVLa7cn6nDhs248LPixMaf.jpg", "actors": [], "comments": [], "recommandations_id": []}

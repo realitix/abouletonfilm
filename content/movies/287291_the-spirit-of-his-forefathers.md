@@ -1,0 +1,1 @@
+{"tmdb_id": 287291, "title": "The Spirit of His Forefathers", "original_title": "The Spirit of His Forefathers", "slug_title": "the-spirit-of-his-forefathers", "date": "1900-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

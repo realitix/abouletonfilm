@@ -1,0 +1,1 @@
+{"tmdb_id": 333163, "title": "Sister, Soldier", "original_title": "Sister, Soldier", "slug_title": "sister-soldier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 286109, "title": "Ah My Buddha Katsu", "original_title": "amaenaide yo Katsu", "slug_title": "ah-my-buddha-katsu", "date": "2006-01-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

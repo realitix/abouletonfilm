@@ -1,0 +1,1 @@
+{"tmdb_id": 329244, "title": "Amy Winehouse: One Shining Night", "original_title": "Amy Winehouse: One Shining Night", "slug_title": "amy-winehouse-one-shining-night", "date": "2014-03-06", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amy Winehouse ()"], "comments": [], "recommandations_id": []}

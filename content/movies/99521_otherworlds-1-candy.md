@@ -1,0 +1,1 @@
+{"tmdb_id": 99521, "title": "OTHERWORLDS #1 - Candy", "original_title": "OTHERWORLDS #1 - Candy", "slug_title": "otherworlds-1-candy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

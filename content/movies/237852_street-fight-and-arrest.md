@@ -1,0 +1,1 @@
+{"tmdb_id": 237852, "title": "Street Fight and Arrest", "original_title": "Street Fight and Arrest", "slug_title": "street-fight-and-arrest", "date": "1898-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

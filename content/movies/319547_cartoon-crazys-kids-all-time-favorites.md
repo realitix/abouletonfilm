@@ -1,0 +1,1 @@
+{"tmdb_id": 319547, "title": "Cartoon Crazys Kids' All Time Favorites", "original_title": "Cartoon Crazys Kids' All Time Favorites", "slug_title": "cartoon-crazys-kids-all-time-favorites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

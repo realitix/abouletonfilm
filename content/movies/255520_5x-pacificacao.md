@@ -1,0 +1,1 @@
+{"tmdb_id": 255520, "title": "5x Pacifica\u00e7\u00e3o", "original_title": "5x Pacifica\u00e7\u00e3o", "slug_title": "5x-pacificacao", "date": "2012-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QQn8LCNcHNqBcX8Kn5Hu7E2QHw.jpg", "actors": [], "comments": [], "recommandations_id": []}

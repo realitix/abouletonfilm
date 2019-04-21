@@ -1,0 +1,1 @@
+{"tmdb_id": 391579, "title": "Transmagnifican Dambamuality", "original_title": "Transmagnifican Dambamuality", "slug_title": "transmagnifican-dambamuality", "date": "1976-06-10", "genre": "Familial", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

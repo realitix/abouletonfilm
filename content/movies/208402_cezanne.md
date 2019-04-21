@@ -1,0 +1,1 @@
+{"tmdb_id": 208402, "title": "C\u00e9zanne", "original_title": "C\u00e9zanne", "slug_title": "cezanne", "date": "1990-04-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57xcnvKjuWuPOjLXmsOpK1x8xoR.jpg", "actors": [], "comments": [], "recommandations_id": []}

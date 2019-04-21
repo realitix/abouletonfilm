@@ -1,0 +1,1 @@
+{"tmdb_id": 473449, "title": "Champions Forever", "original_title": "Champions Forever", "slug_title": "champions-forever", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

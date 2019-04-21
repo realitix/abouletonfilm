@@ -1,0 +1,1 @@
+{"tmdb_id": 536635, "title": "Betrayal", "original_title": "Betrayal", "slug_title": "betrayal", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Roberts ()", "Jack Topalian ()", "Oleg Taktarov ()", "Scott L. Schwartz ()"], "comments": [], "recommandations_id": []}

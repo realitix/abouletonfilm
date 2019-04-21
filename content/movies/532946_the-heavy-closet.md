@@ -1,0 +1,1 @@
+{"tmdb_id": 532946, "title": "The Heavy Closet", "original_title": "A\u011f\u0131r \u015ekaf", "slug_title": "the-heavy-closet", "date": "1971-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/deuUkEJzfqEOVOf06XauhXrjNlq.jpg", "actors": ["Elchin Mammadov ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421677, "title": "Guido Weijers: V", "original_title": "Guido Weijers: V", "slug_title": "guido-weijers-v", "date": "2016-10-15", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hz9w06L2Z50WxkiFTB6VFLCHuP2.jpg", "actors": ["Guido Weijers ()"], "comments": [], "recommandations_id": []}

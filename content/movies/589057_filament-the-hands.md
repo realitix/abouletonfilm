@@ -1,0 +1,1 @@
+{"tmdb_id": 589057, "title": "Filament (The Hands)", "original_title": "Filament (The Hands)", "slug_title": "filament-the-hands", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

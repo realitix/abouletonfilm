@@ -1,0 +1,1 @@
+{"tmdb_id": 496044, "title": "Madrigal Para um Poeta Vivo", "original_title": "Madrigal Para um Poeta Vivo", "slug_title": "madrigal-para-um-poeta-vivo", "date": "2018-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vlOiO2DHj8NrmXPx6ABlJvHedU3.jpg", "actors": [], "comments": [], "recommandations_id": []}

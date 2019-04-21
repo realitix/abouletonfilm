@@ -1,0 +1,1 @@
+{"tmdb_id": 116287, "title": "Self Made Maids", "original_title": "Self Made Maids", "slug_title": "self-made-maids", "date": "1950-07-06", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shemp Howard (Shemp and Shempetta)", "Larry Fine ()", "Moe Howard ()"], "comments": [], "recommandations_id": []}

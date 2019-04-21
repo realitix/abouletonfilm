@@ -1,0 +1,1 @@
+{"tmdb_id": 391302, "title": "La punta del diablo", "original_title": "La punta del diablo", "slug_title": "la-punta-del-diablo", "date": "2006-10-05", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16Y42LBJK4FMkoXOaMSoSrm0e1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

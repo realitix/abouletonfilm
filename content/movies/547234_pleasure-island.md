@@ -1,0 +1,1 @@
+{"tmdb_id": 547234, "title": "Pleasure Island", "original_title": "Pleasure Island", "slug_title": "pleasure-island", "date": "1933-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Dugan ()", "Richard Powell ()", "Neely Edwards ()", "Hank Mann ()", "Winona Love ()"], "comments": [], "recommandations_id": []}

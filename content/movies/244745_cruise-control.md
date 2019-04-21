@@ -1,0 +1,1 @@
+{"tmdb_id": 244745, "title": "Cruise Control", "original_title": "Cruise Control", "slug_title": "cruise-control", "date": "1992-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ed Begley Jr. ()", "Sean Penn ()", "Max Perlich ()", "Harry Dean Stanton ()", "C.M. Talkington ()"], "comments": [], "recommandations_id": []}

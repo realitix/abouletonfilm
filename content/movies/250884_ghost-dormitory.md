@@ -1,0 +1,1 @@
+{"tmdb_id": 250884, "title": "Ghost Dormitory", "original_title": "\u0e2b\u0e2d\u0e1c\u0e35", "slug_title": "ghost-dormitory", "date": "2004-01-17", "genre": "Horreur", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jwWK9cV8mc2lqQhCYMp53CSYv4.jpg", "actors": ["Weerachai Hattagowit ()"], "comments": [], "recommandations_id": []}

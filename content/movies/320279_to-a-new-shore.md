@@ -1,0 +1,1 @@
+{"tmdb_id": 320279, "title": "To a New Shore", "original_title": "\u041a \u043d\u043e\u0432\u043e\u043c\u0443 \u0431\u0435\u0440\u0435\u0433\u0443", "slug_title": "to-a-new-shore", "date": "1955-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 457553, "title": "The Gaze of the Sea", "original_title": "Los ojos del mar", "slug_title": "the-gaze-of-the-sea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzqiCEdHj96zZwvZLVuSGLQ0MxM.jpg", "actors": ["Hortencia Peres Rocha ()"], "comments": [], "recommandations_id": []}

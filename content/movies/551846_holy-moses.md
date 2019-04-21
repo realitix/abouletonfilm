@@ -1,0 +1,1 @@
+{"tmdb_id": 551846, "title": "Holy Moses", "original_title": "Holy Moses", "slug_title": "holy-moses", "date": "2018-09-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philip Ettinger ()", "Amanda Seyfried ()", "Thomas Sadoski ()", "Dan Bakkedahl ()", "John Gowans ()"], "comments": [], "recommandations_id": []}

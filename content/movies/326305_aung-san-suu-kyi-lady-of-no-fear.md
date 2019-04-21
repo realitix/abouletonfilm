@@ -1,0 +1,1 @@
+{"tmdb_id": 326305, "title": "Aung San Suu Kyi - Lady of No Fear", "original_title": "Aung San Suu Kyi - Lady of No Fear", "slug_title": "aung-san-suu-kyi-lady-of-no-fear", "date": "2010-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

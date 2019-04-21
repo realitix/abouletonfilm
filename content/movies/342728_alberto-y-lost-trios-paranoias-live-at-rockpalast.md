@@ -1,0 +1,1 @@
+{"tmdb_id": 342728, "title": "Alberto Y Lost Trios Paranoias - Live At Rockpalast", "original_title": "Alberto Y Lost Trios Paranoias - Live At Rockpalast", "slug_title": "alberto-y-lost-trios-paranoias-live-at-rockpalast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

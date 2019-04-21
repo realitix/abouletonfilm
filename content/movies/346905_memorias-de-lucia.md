@@ -1,0 +1,1 @@
+{"tmdb_id": 346905, "title": "Memorias de Luc\u00eda", "original_title": "Memorias de Luc\u00eda", "slug_title": "memorias-de-lucia", "date": "2003-12-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

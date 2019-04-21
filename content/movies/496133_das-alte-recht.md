@@ -1,0 +1,1 @@
+{"tmdb_id": 496133, "title": "Das alte Recht", "original_title": "Das alte Recht", "slug_title": "das-alte-recht", "date": "1934-01-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edith Linn (Resl Waldbaur)", "Bernhard Goetzke (Johann Ruseler)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301426, "title": "The Last Word on the Assassination", "original_title": "The Last Word on the Assassination", "slug_title": "the-last-word-on-the-assassination", "date": "2014-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

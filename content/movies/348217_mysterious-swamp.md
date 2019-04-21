@@ -1,0 +1,1 @@
+{"tmdb_id": 348217, "title": "Mysterious Swamp", "original_title": "Mysterious Swamp", "slug_title": "mysterious-swamp", "date": "2013-07-10", "genre": "Com\u00e9die / Animation", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

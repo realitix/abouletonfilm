@@ -1,0 +1,1 @@
+{"tmdb_id": 384061, "title": "The Tournament", "original_title": "The Tournament", "slug_title": "the-tournament", "date": "1974-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUgE0l0zmejRynKrqXtejOeVLhn.jpg", "actors": [], "comments": [], "recommandations_id": []}

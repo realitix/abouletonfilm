@@ -1,0 +1,1 @@
+{"tmdb_id": 375500, "title": "A Filmless Festival", "original_title": "A Filmless Festival", "slug_title": "a-filmless-festival", "date": "2015-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

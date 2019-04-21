@@ -1,0 +1,1 @@
+{"tmdb_id": 165284, "title": "Coming Soon", "original_title": "Coming Soon", "slug_title": "coming-soon", "date": "1982-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPiXqroHIo6tKCe50YeBRBMQFMV.jpg", "actors": ["Jamie Lee Curtis (Herself)"], "comments": [], "recommandations_id": []}

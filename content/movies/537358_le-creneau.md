@@ -1,0 +1,1 @@
+{"tmdb_id": 537358, "title": "Le cr\u00e9neau", "original_title": "Le cr\u00e9neau", "slug_title": "le-creneau", "date": "2007-01-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emmanuelle Devos (Camille)", "Hippolyte Girardot (Herv\u00e9)", "Louis-Do de Lencquesaing (Mathias)"], "comments": [], "recommandations_id": []}

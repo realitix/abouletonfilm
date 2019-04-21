@@ -1,0 +1,1 @@
+{"tmdb_id": 320890, "title": "I Am Julia", "original_title": "I Am Julia", "slug_title": "i-am-julia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

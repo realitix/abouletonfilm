@@ -1,0 +1,1 @@
+{"tmdb_id": 262325, "title": "Kairasi", "original_title": "Kairasi", "slug_title": "kairasi", "date": "1960-10-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "K. A. Thangavelu ()", "M. R. Radha ()", "S. V. Sahasranamam ()"], "comments": [], "recommandations_id": []}

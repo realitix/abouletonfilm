@@ -1,0 +1,1 @@
+{"tmdb_id": 246251, "title": "Pudr a benzin", "original_title": "Pudr a benzin", "slug_title": "pudr-a-benzin", "date": "1931-12-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iua1U3f5QZTNEkF4bJXOYu682PM.jpg", "actors": ["Jan Werich ()", "George Voskovec ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337646, "title": "Tractatus", "original_title": "Tractatus", "slug_title": "tractatus", "date": "1992-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jGUfWVcZ3jS2AchyojXzpBjWVXC.jpg", "actors": [], "comments": [], "recommandations_id": []}

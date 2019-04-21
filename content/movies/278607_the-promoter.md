@@ -1,0 +1,1 @@
+{"tmdb_id": 278607, "title": "The Promoter", "original_title": "The Promoter", "slug_title": "the-promoter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

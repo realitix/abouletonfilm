@@ -1,0 +1,1 @@
+{"tmdb_id": 486735, "title": "Triunfo Herm\u00e9tico", "original_title": "Triunfo Herm\u00e9tico", "slug_title": "triunfo-hermetico", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

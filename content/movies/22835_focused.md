@@ -1,0 +1,1 @@
+{"tmdb_id": 22835, "title": "Focused", "original_title": "Focused", "slug_title": "focused", "date": "2003-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7hqosoq5ubtLDk4Q2pcVgTvIKXV.jpg", "actors": [], "comments": [], "recommandations_id": []}

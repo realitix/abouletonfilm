@@ -1,0 +1,1 @@
+{"tmdb_id": 148749, "title": "Lil' Bastards", "original_title": "Lil' Bastards", "slug_title": "lil-bastards", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

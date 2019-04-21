@@ -1,0 +1,1 @@
+{"tmdb_id": 412739, "title": "My Life So Far", "original_title": "My Life So Far", "slug_title": "my-life-so-far", "date": "2016-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cassandre Collins ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420237, "title": "AIDS in the Barrio: Eso no me pasa a m\u00ed", "original_title": "AIDS in the Barrio: Eso no me pasa a m\u00ed", "slug_title": "aids-in-the-barrio-eso-no-me-pasa-a-mi", "date": "1989-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

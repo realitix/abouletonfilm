@@ -1,0 +1,1 @@
+{"tmdb_id": 334819, "title": "Return to the Light", "original_title": "Return to the Light", "slug_title": "return-to-the-light", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

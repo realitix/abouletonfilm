@@ -1,0 +1,1 @@
+{"tmdb_id": 305112, "title": "John Atkins Saves Up", "original_title": "John Atkins Saves Up", "slug_title": "john-atkins-saves-up", "date": "1934-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8K80ak9mulJ9UCdYfZcCa6wgsEk.jpg", "actors": [], "comments": [], "recommandations_id": []}

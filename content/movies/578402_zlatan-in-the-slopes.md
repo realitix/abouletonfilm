@@ -1,0 +1,1 @@
+{"tmdb_id": 578402, "title": "Zlatan in the Slopes", "original_title": "Zlatan i Alperna", "slug_title": "zlatan-in-the-slopes", "date": "2019-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mD2WTU8y5mHgblMENM2sENcxJ47.jpg", "actors": [], "comments": [], "recommandations_id": []}

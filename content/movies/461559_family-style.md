@@ -1,0 +1,1 @@
+{"tmdb_id": 461559, "title": "Family Style", "original_title": "Family Style", "slug_title": "family-style", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ewan McGregor (Jimmie)", "Amelia Curtis (Julie)", "Ian Redford (Dad)", "Alan Thompson-Jones (Vicar)"], "comments": [], "recommandations_id": []}

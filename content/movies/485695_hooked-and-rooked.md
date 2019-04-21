@@ -1,0 +1,1 @@
+{"tmdb_id": 485695, "title": "Hooked and Rooked", "original_title": "Hooked and Rooked", "slug_title": "hooked-and-rooked", "date": "1952-09-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

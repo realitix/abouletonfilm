@@ -1,0 +1,1 @@
+{"tmdb_id": 298234, "title": "Bach & Friends", "original_title": "Bach & Friends", "slug_title": "bach-friends", "date": "2010-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73hXjRtEMhhEsV4DXzlXIQ9i4ql.jpg", "actors": [], "comments": [], "recommandations_id": []}

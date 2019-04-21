@@ -1,0 +1,1 @@
+{"tmdb_id": 462886, "title": "The New Yorkist", "original_title": "The New Yorkist", "slug_title": "the-new-yorkist", "date": "2008-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKePtirkA8TtM8tYDAywuRjZRrt.jpg", "actors": ["Alex Kliment (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557544, "title": "Bali: Beats of Paradise", "original_title": "Bali: Beats of Paradise", "slug_title": "bali-beats-of-paradise", "date": "2018-11-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SVtD1THsrmujvUTs678FFU8ao3.jpg", "actors": [], "comments": [], "recommandations_id": []}

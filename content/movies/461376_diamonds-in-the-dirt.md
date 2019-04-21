@@ -1,0 +1,1 @@
+{"tmdb_id": 461376, "title": "Diamonds in the Dirt", "original_title": "Diamonds in the Dirt", "slug_title": "diamonds-in-the-dirt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

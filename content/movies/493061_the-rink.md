@@ -1,0 +1,1 @@
+{"tmdb_id": 493061, "title": "The Rink", "original_title": "The Rink", "slug_title": "the-rink", "date": "2015-02-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FAoBVSuDecN0hX3f2YyEmmNeRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

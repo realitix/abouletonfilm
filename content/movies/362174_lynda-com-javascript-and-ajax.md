@@ -1,0 +1,1 @@
+{"tmdb_id": 362174, "title": "Lynda.com: JavaScript And AJAX", "original_title": "Lynda.com: JavaScript And AJAX", "slug_title": "lynda-com-javascript-and-ajax", "date": "2013-10-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUFOVX4WyJPBATsmWDQ0rfsQTjH.jpg", "actors": [], "comments": [], "recommandations_id": []}

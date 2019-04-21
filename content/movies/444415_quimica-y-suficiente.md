@@ -1,0 +1,1 @@
+{"tmdb_id": 444415, "title": "Qu\u00edmica y suficiente", "original_title": "Qu\u00edmica y suficiente", "slug_title": "quimica-y-suficiente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Coronado ()", "\u00c0lex Monner ()"], "comments": [], "recommandations_id": []}

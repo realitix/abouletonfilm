@@ -1,0 +1,1 @@
+{"tmdb_id": 291012, "title": "Lose Your Mummy Tummy", "original_title": "Lose Your Mummy Tummy", "slug_title": "lose-your-mummy-tummy", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/toLgwUvOq3vTUFQ2KSmkLpfw01D.jpg", "actors": ["Julie Tupler (Self)"], "comments": [], "recommandations_id": []}

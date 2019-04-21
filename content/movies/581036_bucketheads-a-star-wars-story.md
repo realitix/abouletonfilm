@@ -1,0 +1,1 @@
+{"tmdb_id": 581036, "title": "Bucketheads: A Star Wars Story", "original_title": "Bucketheads: A Star Wars Story", "slug_title": "bucketheads-a-star-wars-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

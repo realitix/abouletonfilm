@@ -1,0 +1,1 @@
+{"tmdb_id": 586344, "title": "Badge Of Steel", "original_title": "Placa de acero", "slug_title": "badge-of-steel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alfonso Dosal ()", "Adri\u00e1n V\u00e1zquez ()", "Costanza Andrade ()", "Adrian Yun ()", "Arnold Y. Kim ()"], "comments": [], "recommandations_id": []}

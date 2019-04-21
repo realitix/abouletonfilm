@@ -1,0 +1,1 @@
+{"tmdb_id": 282402, "title": "She Puppet", "original_title": "She Puppet", "slug_title": "she-puppet", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1bOUkhxndRXmkpPzyRk6mwBKjm.jpg", "actors": [], "comments": [], "recommandations_id": []}

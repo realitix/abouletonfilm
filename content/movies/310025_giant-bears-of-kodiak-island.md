@@ -1,0 +1,1 @@
+{"tmdb_id": 310025, "title": "Giant Bears of Kodiak Island", "original_title": "Giant Bears of Kodiak Island", "slug_title": "giant-bears-of-kodiak-island", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

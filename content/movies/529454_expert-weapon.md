@@ -1,0 +1,1 @@
+{"tmdb_id": 529454, "title": "Expert Weapon", "original_title": "Expert Weapon", "slug_title": "expert-weapon", "date": "1993-03-25", "genre": "Action / Aventure", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ian Jacklin (Adam Collins)", "Sam Jones (Janson)"], "comments": [], "recommandations_id": []}

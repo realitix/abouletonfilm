@@ -1,0 +1,1 @@
+{"tmdb_id": 259864, "title": "El Triunfo, Cloud Forest", "original_title": "El Triunfo, Bosque de Niebla", "slug_title": "el-triunfo-cloud-forest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Carlos Castro (Director de la Reserva El Triunfo)"], "comments": [], "recommandations_id": []}

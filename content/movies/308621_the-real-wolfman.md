@@ -1,0 +1,1 @@
+{"tmdb_id": 308621, "title": "The Real Wolfman", "original_title": "The Real Wolfman", "slug_title": "the-real-wolfman", "date": "2009-10-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5jln5buvIVfES7XlwOrxPZrEiv.jpg", "actors": [], "comments": [], "recommandations_id": []}

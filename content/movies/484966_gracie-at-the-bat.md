@@ -1,0 +1,1 @@
+{"tmdb_id": 484966, "title": "Gracie at the Bat", "original_title": "Gracie at the Bat", "slug_title": "gracie-at-the-bat", "date": "1937-10-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy \"Pop\" Clyde)"], "comments": [], "recommandations_id": []}

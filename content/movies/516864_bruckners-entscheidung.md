@@ -1,0 +1,1 @@
+{"tmdb_id": 516864, "title": "Bruckners Entscheidung", "original_title": "Bruckners Entscheidung", "slug_title": "bruckners-entscheidung", "date": "1995-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

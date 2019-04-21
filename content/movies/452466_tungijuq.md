@@ -1,0 +1,1 @@
+{"tmdb_id": 452466, "title": "Tungijuq", "original_title": "Tungijuq", "slug_title": "tungijuq", "date": "2009-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tanya Tagaq ()"], "comments": [], "recommandations_id": []}

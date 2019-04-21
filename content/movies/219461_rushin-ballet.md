@@ -1,0 +1,1 @@
+{"tmdb_id": 219461, "title": "Rushin' Ballet", "original_title": "Rushin' Ballet", "slug_title": "rushin-ballet", "date": "1937-04-23", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HOZQU9b1STG0mhw858OLxZqufJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

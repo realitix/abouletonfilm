@@ -1,0 +1,1 @@
+{"tmdb_id": 316178, "title": "Bix: Ain't None of Them Play Like Him Yet", "original_title": "Bix: Ain't None of Them Play Like Him Yet", "slug_title": "bix-ain-t-none-of-them-play-like-him-yet", "date": "1982-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

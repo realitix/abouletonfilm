@@ -1,0 +1,1 @@
+{"tmdb_id": 54879, "title": "Pick Up the Mic", "original_title": "Pick Up the Mic", "slug_title": "pick-up-the-mic", "date": "2006-01-01", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8O5cGLjNngzPoHsvjFkIZlvwF97.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503183, "title": "L'ultima utopia: la televisione secondo Rossellini", "original_title": "L'ultima utopia: la televisione secondo Rossellini", "slug_title": "l-ultima-utopia-la-televisione-secondo-rossellini", "date": "2005-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

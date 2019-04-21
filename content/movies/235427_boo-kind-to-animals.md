@@ -1,0 +1,1 @@
+{"tmdb_id": 235427, "title": "Boo Kind to Animals", "original_title": "Boo Kind to Animals", "slug_title": "boo-kind-to-animals", "date": "1955-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

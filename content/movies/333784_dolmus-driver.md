@@ -1,0 +1,1 @@
+{"tmdb_id": 333784, "title": "Dolmus Driver", "original_title": "Dolmus sof\u00f6r\u00fc", "slug_title": "dolmus-driver", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fatma Girik ()", "Baki Tamer ()", "\u0130zzet G\u00fcnay ()"], "comments": [], "recommandations_id": []}

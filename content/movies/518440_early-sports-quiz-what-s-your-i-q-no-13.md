@@ -1,0 +1,1 @@
+{"tmdb_id": 518440, "title": "Early Sports Quiz: What's Your I.Q. No. 13", "original_title": "Early Sports Quiz: What's Your I.Q. No. 13", "slug_title": "early-sports-quiz-what-s-your-i-q-no-13", "date": "1947-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

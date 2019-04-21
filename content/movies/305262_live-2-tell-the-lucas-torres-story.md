@@ -1,0 +1,1 @@
+{"tmdb_id": 305262, "title": "Live 2 Tell: The Lucas Torres Story", "original_title": "Live 2 Tell: The Lucas Torres Story", "slug_title": "live-2-tell-the-lucas-torres-story", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

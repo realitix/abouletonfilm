@@ -1,0 +1,1 @@
+{"tmdb_id": 314129, "title": "Hikikomori", "original_title": "Hikikomori", "slug_title": "hikikomori", "date": "2012-12-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwo640fiqPDlx4BV6X9RBFnfncW.jpg", "actors": [], "comments": [], "recommandations_id": []}

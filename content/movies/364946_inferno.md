@@ -1,0 +1,1 @@
+{"tmdb_id": 364946, "title": "Inferno", "original_title": "Inferno", "slug_title": "inferno", "date": "2008-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

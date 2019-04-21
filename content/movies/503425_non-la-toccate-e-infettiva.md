@@ -1,0 +1,1 @@
+{"tmdb_id": 503425, "title": "Non la toccate \u00e8 infettiva", "original_title": "Non la toccate \u00e8 infettiva", "slug_title": "non-la-toccate-e-infettiva", "date": "1970-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

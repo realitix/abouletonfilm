@@ -1,0 +1,1 @@
+{"tmdb_id": 170197, "title": "Return to Tarawa: The Leon Cooper Story", "original_title": "Return to Tarawa: The Leon Cooper Story", "slug_title": "return-to-tarawa-the-leon-cooper-story", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

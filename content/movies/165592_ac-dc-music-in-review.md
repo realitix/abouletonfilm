@@ -1,0 +1,1 @@
+{"tmdb_id": 165592, "title": "AC/DC: Music In Review", "original_title": "AC/DC: Music In Review", "slug_title": "ac-dc-music-in-review", "date": "2006-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nrsTx3Z10SGWNbYUWMWNakFj8D.jpg", "actors": [], "comments": [], "recommandations_id": []}

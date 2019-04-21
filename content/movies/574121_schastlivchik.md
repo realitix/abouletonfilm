@@ -1,0 +1,1 @@
+{"tmdb_id": 574121, "title": "\u0421\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u0447\u0438\u043a", "original_title": "\u0421\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u0447\u0438\u043a", "slug_title": "schastlivchik", "date": "1988-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

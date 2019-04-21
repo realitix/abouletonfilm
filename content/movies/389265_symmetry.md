@@ -1,0 +1,1 @@
+{"tmdb_id": 389265, "title": "Symmetry", "original_title": "Symmetry", "slug_title": "symmetry", "date": "1961-03-22", "genre": "Documentaire / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OuUZypjraJC0o5KdpEPuSCoMDx.jpg", "actors": [], "comments": [], "recommandations_id": []}

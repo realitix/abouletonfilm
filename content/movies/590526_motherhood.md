@@ -1,0 +1,1 @@
+{"tmdb_id": 590526, "title": "Motherhood", "original_title": "\u6bcd\u5f85\u8349", "slug_title": "motherhood", "date": "1951-08-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yaeko Mizutani ()", "Machiko Mizuhara ()", "Chieko Murata ()", "Keiko Kishi ()"], "comments": [], "recommandations_id": []}

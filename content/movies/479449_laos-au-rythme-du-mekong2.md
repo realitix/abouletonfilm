@@ -1,0 +1,1 @@
+{"tmdb_id": 479449, "title": "Laos - Au rythme du M\u00e9kong2", "original_title": "Laos - Au rythme du M\u00e9kong2", "slug_title": "laos-au-rythme-du-mekong2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Laos - Au rythme du M\u00e9kong2", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520130, "title": "Kris Bronze", "original_title": "Kris Bronze", "slug_title": "kris-bronze", "date": "2018-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YMgExKUhjbSWafKheCjKlhqswX.jpg", "actors": ["Kelly Cristina ()", "Mois\u00e9s Ferreira ()"], "comments": [], "recommandations_id": []}

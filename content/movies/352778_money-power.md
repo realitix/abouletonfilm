@@ -1,0 +1,1 @@
+{"tmdb_id": 352778, "title": "Money Power", "original_title": "Money Power", "slug_title": "money-power", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

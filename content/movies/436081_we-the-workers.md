@@ -1,0 +1,1 @@
+{"tmdb_id": 436081, "title": "We the Workers", "original_title": "We the Workers", "slug_title": "we-the-workers", "date": "2017-01-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7QfSt8tGXmaGqlcDwJpGuDILxo.jpg", "actors": [], "comments": [], "recommandations_id": []}

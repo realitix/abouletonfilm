@@ -1,0 +1,1 @@
+{"tmdb_id": 579143, "title": "Dr. Benny", "original_title": "Dr. Benny", "slug_title": "dr-benny", "date": "2003-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

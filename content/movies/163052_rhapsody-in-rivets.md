@@ -1,0 +1,1 @@
+{"tmdb_id": 163052, "title": "Rhapsody in Rivets", "original_title": "Rhapsody in Rivets", "slug_title": "rhapsody-in-rivets", "date": "1941-12-06", "genre": "", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fANsdxruKQ8XXDmUNaCiHVSdo0Y.jpg", "actors": [], "comments": [], "recommandations_id": [237292, 199750, 236114, 235472]}

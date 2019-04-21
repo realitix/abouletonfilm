@@ -1,0 +1,1 @@
+{"tmdb_id": 525244, "title": "Fight of Bulls", "original_title": "Fight of Bulls", "slug_title": "fight-of-bulls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jXY7FlXSip2AN5s0efDWwclqtAC.jpg", "actors": [], "comments": [], "recommandations_id": []}

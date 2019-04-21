@@ -1,0 +1,1 @@
+{"tmdb_id": 243909, "title": "Buli Balik", "original_title": "Buli Balik", "slug_title": "buli-balik", "date": "2006-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t6s2uROWx094Jf7Vmcyc9Ga7o6U.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504887, "title": "Teenage Stories-1-The End of Innocence", "original_title": "Romans d'Ados-1-La fin de l'innocence", "slug_title": "teenage-stories-1-the-end-of-innocence", "date": "2010-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

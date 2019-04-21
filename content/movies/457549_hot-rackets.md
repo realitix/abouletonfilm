@@ -1,0 +1,1 @@
+{"tmdb_id": 457549, "title": "Hot Rackets", "original_title": "Hot Rackets", "slug_title": "hot-rackets", "date": "1979-05-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jLlaH6i8D91frXwRFqkmqXzJ2M.jpg", "actors": ["Desiree Cousteau (Googie)", "Rhonda Jo Petty (Mona Simms)"], "comments": [], "recommandations_id": []}

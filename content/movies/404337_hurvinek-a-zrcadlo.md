@@ -1,0 +1,1 @@
+{"tmdb_id": 404337, "title": "Hurv\u00ednek a zrcadlo", "original_title": "Hurv\u00ednek a zrcadlo", "slug_title": "hurvinek-a-zrcadlo", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTEECo0T1aLvNhrmfm5BXoteiAm.jpg", "actors": [], "comments": [], "recommandations_id": []}

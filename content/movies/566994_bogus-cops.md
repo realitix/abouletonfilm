@@ -1,0 +1,1 @@
+{"tmdb_id": 566994, "title": "Bogus Cops", "original_title": "\u8d70\u4f6c\u5a01\u9f8d", "slug_title": "bogus-cops", "date": "1993-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Tsang ()", "Veronica Yip ()", "Leung Kar-Yan ()", "Michael Miu ()"], "comments": [], "recommandations_id": []}

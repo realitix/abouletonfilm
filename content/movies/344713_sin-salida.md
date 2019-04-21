@@ -1,0 +1,1 @@
+{"tmdb_id": 344713, "title": "Sin salida", "original_title": "Sin salida", "slug_title": "sin-salida", "date": "2006-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Billingsley (Man)"], "comments": [], "recommandations_id": []}

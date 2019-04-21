@@ -1,0 +1,1 @@
+{"tmdb_id": 72308, "title": "Shanghai Ghetto", "original_title": "Shanghai Ghetto", "slug_title": "shanghai-ghetto", "date": "2002-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yR9n43QVdKC6AQHmIwugjS0Ylv7.jpg", "actors": ["Martin Landau (Narrator)"], "comments": [], "recommandations_id": []}

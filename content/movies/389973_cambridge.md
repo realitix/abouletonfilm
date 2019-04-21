@@ -1,0 +1,1 @@
+{"tmdb_id": 389973, "title": "Cambridge", "original_title": "\u041a\u0435\u0439\u043c\u0431\u0440\u0438\u0434\u0436", "slug_title": "cambridge", "date": "2015-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

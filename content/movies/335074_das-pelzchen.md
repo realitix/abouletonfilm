@@ -1,0 +1,1 @@
+{"tmdb_id": 335074, "title": "Das Pelzchen", "original_title": "Das Pelzchen", "slug_title": "das-pelzchen", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522934, "title": "Charlie Johnson in the Flames", "original_title": "Charlie Johnson in the Flames", "slug_title": "charlie-johnson-in-the-flames", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liam Neeson ()"], "comments": [], "recommandations_id": []}

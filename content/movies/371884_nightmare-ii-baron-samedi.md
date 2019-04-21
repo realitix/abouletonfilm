@@ -1,0 +1,1 @@
+{"tmdb_id": 371884, "title": "Nightmare II: Baron Samedi", "original_title": "Nightmare II: Baron Samedi", "slug_title": "nightmare-ii-baron-samedi", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKmgVmCu8RI0S1QJxCSSmtHDmbM.jpg", "actors": [], "comments": [], "recommandations_id": []}

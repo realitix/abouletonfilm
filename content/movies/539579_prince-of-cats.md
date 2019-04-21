@@ -1,0 +1,1 @@
+{"tmdb_id": 539579, "title": "Prince of Cats", "original_title": "Prince of Cats", "slug_title": "prince-of-cats", "date": "", "genre": "Action / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lakeith Stanfield (Tybalt)"], "comments": [], "recommandations_id": []}

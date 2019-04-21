@@ -1,0 +1,1 @@
+{"tmdb_id": 126396, "title": "XCU: Extreme Close Up", "original_title": "XCU: Extreme Close Up", "slug_title": "xcu-extreme-close-up", "date": "2001-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esdHxjWBicpLvqRbQGyFhT31T35.jpg", "actors": [], "comments": [], "recommandations_id": []}

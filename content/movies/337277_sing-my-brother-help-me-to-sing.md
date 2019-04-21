@@ -1,0 +1,1 @@
+{"tmdb_id": 337277, "title": "Sing My Brother, Help Me to Sing", "original_title": "Canta Meu Irmao, Ajuda-Me a Cantar", "slug_title": "sing-my-brother-help-me-to-sing", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

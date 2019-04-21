@@ -1,0 +1,1 @@
+{"tmdb_id": 525466, "title": "The Man With Cartoon Eyes", "original_title": "The Man With Cartoon Eyes", "slug_title": "the-man-with-cartoon-eyes", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

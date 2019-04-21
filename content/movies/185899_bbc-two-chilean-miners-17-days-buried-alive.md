@@ -1,0 +1,1 @@
+{"tmdb_id": 185899, "title": "BBC Two - Chilean Miners: 17 Days Buried Alive", "original_title": "BBC Two - Chilean Miners: 17 Days Buried Alive", "slug_title": "bbc-two-chilean-miners-17-days-buried-alive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

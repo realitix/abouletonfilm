@@ -1,0 +1,1 @@
+{"tmdb_id": 545376, "title": "Alkohol", "original_title": "Alkohol", "slug_title": "alkohol", "date": "1920-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

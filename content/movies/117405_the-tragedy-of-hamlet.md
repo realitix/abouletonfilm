@@ -1,0 +1,1 @@
+{"tmdb_id": 117405, "title": "The Tragedy of Hamlet", "original_title": "The Tragedy of Hamlet", "slug_title": "the-tragedy-of-hamlet", "date": "2002-01-01", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/leIgzQXxyouOKFQjDzfS2XMFLTT.jpg", "actors": ["Adrian Lester (Hamlet)"], "comments": [], "recommandations_id": []}

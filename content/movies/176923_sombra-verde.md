@@ -1,0 +1,1 @@
+{"tmdb_id": 176923, "title": "Sombra Verde", "original_title": "Sombra Verde", "slug_title": "sombra-verde", "date": "1954-12-23", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AHjdTeSRIBR24dnalTTMXlgrqj.jpg", "actors": ["Ricardo Montalban (Federico Vascon)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 55696, "title": "Asansor", "original_title": "Asansor", "slug_title": "asansor", "date": "1999-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tIVEUIw7gdziDgIQFJYhfpLJj9b.jpg", "actors": ["Mustafa U\u011furlu ()", "Arzu Yanarda\u011f ()"], "comments": [], "recommandations_id": []}

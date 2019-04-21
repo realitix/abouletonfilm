@@ -1,0 +1,1 @@
+{"tmdb_id": 476454, "title": "Forty Acre Feud", "original_title": "Forty Acre Feud", "slug_title": "forty-acre-feud", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lCzZIswhLGGwhyQ5i2Tar1FbkB.jpg", "actors": [], "comments": [], "recommandations_id": []}

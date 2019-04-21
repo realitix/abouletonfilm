@@ -1,0 +1,1 @@
+{"tmdb_id": 321450, "title": "Pablo Escobar: King of Coke", "original_title": "Pablo Escobar: King of Coke", "slug_title": "pablo-escobar-king-of-coke", "date": "2007-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87ob2QPWezPSe8qB89jAU2CtqLn.jpg", "actors": [], "comments": [], "recommandations_id": []}

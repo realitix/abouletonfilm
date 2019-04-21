@@ -1,0 +1,1 @@
+{"tmdb_id": 279777, "title": "In the Shadow of the Tiger", "original_title": "In the Shadow of the Tiger", "slug_title": "in-the-shadow-of-the-tiger", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

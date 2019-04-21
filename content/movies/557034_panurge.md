@@ -1,0 +1,1 @@
+{"tmdb_id": 557034, "title": "Panurge", "original_title": "Panurge", "slug_title": "panurge", "date": "1932-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

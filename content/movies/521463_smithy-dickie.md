@@ -1,0 +1,1 @@
+{"tmdb_id": 521463, "title": "Smithy & Dickie", "original_title": "Smithy & Dickie", "slug_title": "smithy-dickie", "date": "2018-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

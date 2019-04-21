@@ -1,0 +1,1 @@
+{"tmdb_id": 384686, "title": "Restricted Area", "original_title": "Aizliegta zona", "slug_title": "restricted-area", "date": "1975-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s0pbQrgsFyV47EhdI4PB89jt0bx.jpg", "actors": [], "comments": [], "recommandations_id": []}

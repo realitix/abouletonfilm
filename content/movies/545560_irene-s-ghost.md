@@ -1,0 +1,1 @@
+{"tmdb_id": 545560, "title": "Irene's Ghost", "original_title": "Irene's Ghost", "slug_title": "irene-s-ghost", "date": "2018-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pz6WXdGx7Jgt0f4736cRQZu1oK.jpg", "actors": [], "comments": [], "recommandations_id": []}

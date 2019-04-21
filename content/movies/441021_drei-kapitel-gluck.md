@@ -1,0 +1,1 @@
+{"tmdb_id": 441021, "title": "Drei Kapitel Gl\u00fcck", "original_title": "Drei Kapitel Gl\u00fcck", "slug_title": "drei-kapitel-gluck", "date": "1961-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9u1miKWyrOxuvs6G3KeueiZT2.jpg", "actors": [], "comments": [], "recommandations_id": []}

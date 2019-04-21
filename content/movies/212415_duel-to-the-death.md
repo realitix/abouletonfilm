@@ -1,0 +1,1 @@
+{"tmdb_id": 212415, "title": "Duel to the Death", "original_title": "Duel to the Death", "slug_title": "duel-to-the-death", "date": "1898-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4es80ueoN9Iq1bHVN6ob2rap8l.jpg", "actors": [], "comments": [], "recommandations_id": []}

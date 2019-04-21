@@ -1,0 +1,1 @@
+{"tmdb_id": 264428, "title": "My Universe Inside Out", "original_title": "My Universe Inside Out", "slug_title": "my-universe-inside-out", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bFXbw6R61u2d2584kUNwlgYCke.jpg", "actors": [], "comments": [], "recommandations_id": []}

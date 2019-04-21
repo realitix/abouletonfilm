@@ -1,0 +1,1 @@
+{"tmdb_id": 282564, "title": "Hoo Anthiya Uhoo Anthiya", "original_title": "Hoo Anthiya Uhoo Anthiya", "slug_title": "hoo-anthiya-uhoo-anthiya", "date": "2000-10-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Anu Prabhakar ()"], "comments": [], "recommandations_id": []}

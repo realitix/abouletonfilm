@@ -1,0 +1,1 @@
+{"tmdb_id": 502812, "title": "Il cavaliere Sole", "original_title": "Il cavaliere Sole", "slug_title": "il-cavaliere-sole", "date": "2008-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

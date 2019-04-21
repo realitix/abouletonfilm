@@ -1,0 +1,1 @@
+{"tmdb_id": 523415, "title": "The Many Faces of Dracula", "original_title": "The Many Faces of Dracula", "slug_title": "the-many-faces-of-dracula", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

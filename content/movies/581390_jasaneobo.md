@@ -1,0 +1,1 @@
+{"tmdb_id": 581390, "title": "\uc790\uc0b0\uc5b4\ubcf4", "original_title": "\uc790\uc0b0\uc5b4\ubcf4", "slug_title": "jasaneobo", "date": "2020-12-31", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sul Kyung-gu ()", "Byun Yo-han ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480185, "title": "How to Keep Cool", "original_title": "How to Keep Cool", "slug_title": "how-to-keep-cool", "date": "1953-07-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

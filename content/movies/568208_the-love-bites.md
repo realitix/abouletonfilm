@@ -1,0 +1,1 @@
+{"tmdb_id": 568208, "title": "The Love Bites", "original_title": "The Love Bites", "slug_title": "the-love-bites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwV6h5EbsILjVUqR1zL7u7pATQ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

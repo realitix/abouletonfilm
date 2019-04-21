@@ -1,0 +1,1 @@
+{"tmdb_id": 293773, "title": "The Camera Cure", "original_title": "The Camera Cure", "slug_title": "the-camera-cure", "date": "1917-05-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Binns ()", "Maude Wayne ()", "Malcolm St. Clair ()", "Dale Fuller ()"], "comments": [], "recommandations_id": []}

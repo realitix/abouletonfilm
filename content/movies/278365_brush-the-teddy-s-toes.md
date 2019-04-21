@@ -1,0 +1,1 @@
+{"tmdb_id": 278365, "title": "Brush the Teddy's Toes", "original_title": "Brush the Teddy's Toes", "slug_title": "brush-the-teddy-s-toes", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 406415, "title": "Billy's S\u00e9ance", "original_title": "Billy's S\u00e9ance", "slug_title": "billy-s-seance", "date": "1911-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John R. Cumpson ()", "Charles Arling ()"], "comments": [], "recommandations_id": []}

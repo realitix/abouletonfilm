@@ -1,0 +1,1 @@
+{"tmdb_id": 236085, "title": "Rival Romeos", "original_title": "Rival Romeos", "slug_title": "rival-romeos", "date": "1950-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

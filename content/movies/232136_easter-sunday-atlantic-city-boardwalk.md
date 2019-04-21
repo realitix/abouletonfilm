@@ -1,0 +1,1 @@
+{"tmdb_id": 232136, "title": "Easter Sunday, Atlantic City Boardwalk", "original_title": "Easter Sunday, Atlantic City Boardwalk", "slug_title": "easter-sunday-atlantic-city-boardwalk", "date": "1904-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

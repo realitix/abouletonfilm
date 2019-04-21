@@ -1,0 +1,1 @@
+{"tmdb_id": 310786, "title": "Faded Dreams", "original_title": "Faded Dreams", "slug_title": "faded-dreams", "date": "2007-07-27", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5FbtwDjFOCNSgG65pzFrwlftZid.jpg", "actors": ["Danilo Mancinelli (Dan Milano)"], "comments": [], "recommandations_id": []}

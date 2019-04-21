@@ -1,0 +1,1 @@
+{"tmdb_id": 585400, "title": "Glancing At Power", "original_title": "El poder en la mirada", "slug_title": "glancing-at-power", "date": "2019-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDD3S8X6i8jUeRx5cG9riyEo9PV.jpg", "actors": [], "comments": [], "recommandations_id": []}

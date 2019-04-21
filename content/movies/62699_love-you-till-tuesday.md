@@ -1,0 +1,1 @@
+{"tmdb_id": 62699, "title": "Love You Till Tuesday", "original_title": "Love You Till Tuesday", "slug_title": "love-you-till-tuesday", "date": "1969-02-07", "genre": "Musique", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iSyhik1zrBENO8alSkkFSIB4bY3.jpg", "actors": ["David Bowie (Himself)"], "comments": [], "recommandations_id": []}

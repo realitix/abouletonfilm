@@ -1,0 +1,1 @@
+{"tmdb_id": 97221, "title": "Degenerate Art", "original_title": "Degenerate Art", "slug_title": "degenerate-art", "date": "1993-04-11", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9va7fN6iTij2lqkfvZdZuDbUqPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

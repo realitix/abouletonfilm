@@ -1,0 +1,1 @@
+{"tmdb_id": 83935, "title": "Corrupcion en el ejercito", "original_title": "Corrupcion en el ejercito", "slug_title": "corrupcion-en-el-ejercito", "date": "1901-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lkH4mTKIzM2CfAUvfIDmrq3paUF.jpg", "actors": [], "comments": [], "recommandations_id": []}

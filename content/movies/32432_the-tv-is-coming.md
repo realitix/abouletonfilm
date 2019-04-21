@@ -1,0 +1,1 @@
+{"tmdb_id": 32432, "title": "The TV Is Coming", "original_title": "La t\u00e9l\u00e9 arrive", "slug_title": "the-tv-is-coming", "date": "2006-01-01", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xteNKsdchgJd9JPxlLPAhjxhQkf.jpg", "actors": [], "comments": [], "recommandations_id": []}

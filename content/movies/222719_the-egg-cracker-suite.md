@@ -1,0 +1,1 @@
+{"tmdb_id": 222719, "title": "The Egg Cracker Suite", "original_title": "The Egg Cracker Suite", "slug_title": "the-egg-cracker-suite", "date": "1943-03-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdITGWiAt7Bt5szWOfOYia7PpHM.jpg", "actors": [], "comments": [], "recommandations_id": []}

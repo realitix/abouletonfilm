@@ -1,0 +1,1 @@
+{"tmdb_id": 520744, "title": "The Music That Saved My Life", "original_title": "La Musique qui m'a sauv\u00e9 la vie", "slug_title": "the-music-that-saved-my-life", "date": "1999-03-12", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548245, "title": "Justice League Dark", "original_title": "Justice League Dark", "slug_title": "justice-league-dark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cWmYSKpsnR1zUU92QT4UQMxM2fc.jpg", "actors": [], "comments": [], "recommandations_id": []}

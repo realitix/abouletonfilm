@@ -1,0 +1,1 @@
+{"tmdb_id": 377034, "title": "The Anatomy of a Pin-Up", "original_title": "The Anatomy of a Pin-Up", "slug_title": "the-anatomy-of-a-pin-up", "date": "1971-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rscOhlHbQtPW4zjxtwlf9MKHUGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

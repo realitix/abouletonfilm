@@ -1,0 +1,1 @@
+{"tmdb_id": 502867, "title": "Territorial", "original_title": "Territorial", "slug_title": "territorial", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVB4RwFlEBY5AHvOr5J88KgeVaP.jpg", "actors": [], "comments": [], "recommandations_id": []}

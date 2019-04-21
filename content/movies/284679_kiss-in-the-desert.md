@@ -1,0 +1,1 @@
+{"tmdb_id": 284679, "title": "Kiss in the Desert", "original_title": "Kubla fil Sahara", "slug_title": "kiss-in-the-desert", "date": "1928-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mahmoud el-Meliguy ()", "Yvonne Goeine ()", "Badr Lama ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 418681, "title": "Anne Frank, Then and Now", "original_title": "Anne Frank, Then and Now", "slug_title": "anne-frank-then-and-now", "date": "2014-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c08ojMzn0lZfvrQFKRL1O5SAOS6.jpg", "actors": [], "comments": [], "recommandations_id": []}

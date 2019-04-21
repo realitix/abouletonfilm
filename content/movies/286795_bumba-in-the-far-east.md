@@ -1,0 +1,1 @@
+{"tmdb_id": 286795, "title": "Bumba in The Far East", "original_title": "Bumba in de Far West", "slug_title": "bumba-in-the-far-east", "date": "2013-03-06", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxzGkwFgbimSDy56h5sCgZcXpLb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410096, "title": "Turkish Traffic", "original_title": "Turkish Traffic", "slug_title": "turkish-traffic", "date": "1998-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zC23ZlXezKeOw3BRZFxHra42EE5.jpg", "actors": [], "comments": [], "recommandations_id": []}

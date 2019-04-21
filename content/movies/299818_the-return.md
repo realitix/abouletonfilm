@@ -1,0 +1,1 @@
+{"tmdb_id": 299818, "title": "The Return", "original_title": "Tr\u1edf v\u1ec1", "slug_title": "the-return", "date": "1994-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2XNqrD2ICcDvsDIOfY0N0tCp1D.jpg", "actors": ["Thu Hien Nguyen ()", "Luc Tran ()"], "comments": [], "recommandations_id": []}

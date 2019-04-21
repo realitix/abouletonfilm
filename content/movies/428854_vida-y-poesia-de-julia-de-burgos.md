@@ -1,0 +1,1 @@
+{"tmdb_id": 428854, "title": "Vida y poes\u00eda de Julia de Burgos", "original_title": "Vida y poes\u00eda de Julia de Burgos", "slug_title": "vida-y-poesia-de-julia-de-burgos", "date": "1978-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

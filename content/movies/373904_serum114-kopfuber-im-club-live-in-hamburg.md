@@ -1,0 +1,1 @@
+{"tmdb_id": 373904, "title": "Serum114 - Kopf\u00fcber im Club - Live in Hamburg", "original_title": "Serum114 - Kopf\u00fcber im Club - Live in Hamburg", "slug_title": "serum114-kopfuber-im-club-live-in-hamburg", "date": "2015-08-21", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 325579, "title": "Diamond Ruff", "original_title": "Diamond Ruff", "slug_title": "diamond-ruff", "date": "2015-01-01", "genre": "", "score": "2.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7UmHQjkgULqjYvrhcIixCovZxmh.jpg", "actors": [], "comments": [], "recommandations_id": []}

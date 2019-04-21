@@ -1,0 +1,1 @@
+{"tmdb_id": 337644, "title": "The Afterglow", "original_title": "The Afterglow", "slug_title": "the-afterglow", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Coster (Oliver Price)", "Claudia Trujillo (Laura)", "Sarah Tyler Shaw (Helena Muray)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425798, "title": "Ready-Made", "original_title": "Ready-Made", "slug_title": "ready-made", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJ0UrGa9dGxJChqX6RYgKIa8zjr.jpg", "actors": [], "comments": [], "recommandations_id": []}

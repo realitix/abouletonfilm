@@ -1,0 +1,1 @@
+{"tmdb_id": 311723, "title": "Navy SEALs Training: The Silent Option", "original_title": "Navy SEALs Training: The Silent Option", "slug_title": "navy-seals-training-the-silent-option", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

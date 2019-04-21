@@ -1,0 +1,1 @@
+{"tmdb_id": 322979, "title": "Our Magazine No. 8", "original_title": "Our Magazine No. 8", "slug_title": "our-magazine-no-8", "date": "1954-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

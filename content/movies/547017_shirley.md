@@ -1,0 +1,1 @@
+{"tmdb_id": 547017, "title": "Shirley", "original_title": "Shirley", "slug_title": "shirley", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elisabeth Moss (Shirley Jackson)", "Michael Stuhlbarg (Stanley Hyman)", "Logan Lerman ()", "Odessa Young ()"], "comments": [], "recommandations_id": []}

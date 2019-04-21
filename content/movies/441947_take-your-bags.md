@@ -1,0 +1,1 @@
+{"tmdb_id": 441947, "title": "Take Your Bags", "original_title": "Take Your Bags", "slug_title": "take-your-bags", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

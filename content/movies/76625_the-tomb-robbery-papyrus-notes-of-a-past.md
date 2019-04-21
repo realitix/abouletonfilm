@@ -1,0 +1,1 @@
+{"tmdb_id": 76625, "title": "The Tomb Robbery Papyrus. Notes of a Past", "original_title": "The Tomb Robbery Papyrus. Notes of a Past", "slug_title": "the-tomb-robbery-papyrus-notes-of-a-past", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

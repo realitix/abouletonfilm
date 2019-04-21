@@ -1,0 +1,1 @@
+{"tmdb_id": 186476, "title": "Slayer: Live Hammersmith Odeon, London, England", "original_title": "Slayer: Live Hammersmith Odeon, London, England", "slug_title": "slayer-live-hammersmith-odeon-london-england", "date": "2008-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

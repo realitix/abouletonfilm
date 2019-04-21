@@ -1,0 +1,1 @@
+{"tmdb_id": 110096, "title": "REM: Pop Screen", "original_title": "REM: Pop Screen", "slug_title": "rem-pop-screen", "date": "1990-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gUye9zY1egRlh5Q2pMNcYDqJiv2.jpg", "actors": ["R.E.M. ()"], "comments": [], "recommandations_id": []}

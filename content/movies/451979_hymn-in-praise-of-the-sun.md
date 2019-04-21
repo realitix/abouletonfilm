@@ -1,0 +1,1 @@
+{"tmdb_id": 451979, "title": "Hymn in Praise of the Sun", "original_title": "Hymn in Praise of the Sun", "slug_title": "hymn-in-praise-of-the-sun", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qsjkQf5syY2EPNEG3CzzxmumGuB.jpg", "actors": [], "comments": [], "recommandations_id": []}

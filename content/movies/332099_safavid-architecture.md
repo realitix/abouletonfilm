@@ -1,0 +1,1 @@
+{"tmdb_id": 332099, "title": "Safavid Architecture", "original_title": "Me'mari-ye Safaviyeh", "slug_title": "safavid-architecture", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2fquDeh7JuPf9RN7LgVtyevmIP.jpg", "actors": [], "comments": [], "recommandations_id": []}

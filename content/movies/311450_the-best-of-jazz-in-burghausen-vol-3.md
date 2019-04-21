@@ -1,0 +1,1 @@
+{"tmdb_id": 311450, "title": "The Best of Jazz in Burghausen: Vol. 3", "original_title": "The Best of Jazz in Burghausen: Vol. 3", "slug_title": "the-best-of-jazz-in-burghausen-vol-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

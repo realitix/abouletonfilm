@@ -1,0 +1,1 @@
+{"tmdb_id": 252350, "title": "Bloodlust", "original_title": "Blutrausch", "slug_title": "bloodlust", "date": "1999-11-22", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exbel6b37c2mF6cznoenfxgoqBb.jpg", "actors": [], "comments": [], "recommandations_id": []}

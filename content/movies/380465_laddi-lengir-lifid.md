@@ -1,0 +1,1 @@
+{"tmdb_id": 380465, "title": "Laddi lengir l\u00edfi\u00f0", "original_title": "Laddi lengir l\u00edfi\u00f0", "slug_title": "laddi-lengir-lifid", "date": "2014-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9lxsQfNOuTqN1Y9Bpbo8GzhKbnR.jpg", "actors": [], "comments": [], "recommandations_id": []}

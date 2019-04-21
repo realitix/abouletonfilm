@@ -1,0 +1,1 @@
+{"tmdb_id": 376180, "title": "Il principe dei dinosauri", "original_title": "Il principe dei dinosauri", "slug_title": "il-principe-dei-dinosauri", "date": "2002-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vpUfaY5deOGvxYkFI7PptSVtSlL.jpg", "actors": [], "comments": [], "recommandations_id": []}

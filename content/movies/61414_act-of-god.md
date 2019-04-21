@@ -1,0 +1,1 @@
+{"tmdb_id": 61414, "title": "Act of God", "original_title": "Act of God", "slug_title": "act-of-god", "date": "1980-04-16", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RfMjwIJSgC4uKW7kfqRPerSnd8.jpg", "actors": [], "comments": [], "recommandations_id": []}

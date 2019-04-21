@@ -1,0 +1,1 @@
+{"tmdb_id": 367366, "title": "An Attempt to Smash a Bank", "original_title": "An Attempt to Smash a Bank", "slug_title": "an-attempt-to-smash-a-bank", "date": "1909-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

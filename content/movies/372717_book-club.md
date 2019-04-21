@@ -1,0 +1,1 @@
+{"tmdb_id": 372717, "title": "Book Club", "original_title": "Book Club", "slug_title": "book-club", "date": "2015-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TbA8jU6hOWsDeC6mlf1ituef9t.jpg", "actors": [], "comments": [], "recommandations_id": []}

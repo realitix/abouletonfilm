@@ -1,0 +1,1 @@
+{"tmdb_id": 409441, "title": "Owly, Who Watched TV All Day", "original_title": "Uhuka, aki eg\u00e9sz nap a t\u00e9v\u00e9t n\u00e9zte", "slug_title": "owly-who-watched-tv-all-day", "date": "1969-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

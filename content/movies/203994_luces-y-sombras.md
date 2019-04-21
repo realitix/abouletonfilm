@@ -1,0 +1,1 @@
+{"tmdb_id": 203994, "title": "Luces y sombras", "original_title": "Luces y sombras", "slug_title": "luces-y-sombras", "date": "1988-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2vbTSvE9HMm4JsgpQw0kyq5sY2n.jpg", "actors": [], "comments": [], "recommandations_id": []}

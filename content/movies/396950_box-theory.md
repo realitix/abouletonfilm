@@ -1,0 +1,1 @@
+{"tmdb_id": 396950, "title": "Box Theory", "original_title": "Box Theory", "slug_title": "box-theory", "date": "1984-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195715, "title": "Duke of York at Montreal and Quebec", "original_title": "Duke of York at Montreal and Quebec", "slug_title": "duke-of-york-at-montreal-and-quebec", "date": "1901-10-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

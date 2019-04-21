@@ -1,0 +1,1 @@
+{"tmdb_id": 593543, "title": "Hollywood Hobbies", "original_title": "Hollywood Hobbies", "slug_title": "hollywood-hobbies", "date": "1935-07-05", "genre": "Documentaire / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ted Husing (Himself, Narrator)"], "comments": [], "recommandations_id": []}

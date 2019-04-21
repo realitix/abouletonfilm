@@ -1,0 +1,1 @@
+{"tmdb_id": 433769, "title": "Miss Julie", "original_title": "Miss Julie", "slug_title": "miss-julie", "date": "1987-05-31", "genre": "Com\u00e9die / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janet McTeer (Miss Julie)", "Patrick Malahide (Jean)", "Sarah Porter (Christine)"], "comments": [], "recommandations_id": []}

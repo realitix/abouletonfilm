@@ -1,0 +1,1 @@
+{"tmdb_id": 477338, "title": "Vice or Versa", "original_title": "Vice or Versa", "slug_title": "vice-or-versa", "date": "1971-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Pdo9hpgqGeyqHAl5Vn0N7bfZ8p.jpg", "actors": ["Laura Cannon ()", "Harry Reems ()"], "comments": [], "recommandations_id": []}

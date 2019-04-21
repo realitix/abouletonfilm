@@ -1,0 +1,1 @@
+{"tmdb_id": 300935, "title": "Angkara", "original_title": "Angkara", "slug_title": "angkara", "date": "1972-01-01", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tvaHsCqOfEVgDXe7I9sgOCsjn2s.jpg", "actors": ["Ed Osmera ()", "Sarimah Ahmad ()", "Tamam Idris ()"], "comments": [], "recommandations_id": []}

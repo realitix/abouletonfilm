@@ -1,0 +1,1 @@
+{"tmdb_id": 260494, "title": "Smuglere i smoking", "original_title": "Smuglere i smoking", "slug_title": "smuglere-i-smoking", "date": "1957-01-24", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PdR9SjGwyfvR68S8xI946pZ6Kw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503723, "title": "The Norming of Jack 243", "original_title": "The Norming of Jack 243", "slug_title": "the-norming-of-jack-243", "date": "1975-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

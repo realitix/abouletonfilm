@@ -1,0 +1,1 @@
+{"tmdb_id": 482995, "title": "Scenes of Yan'An", "original_title": "Yan An nei mao", "slug_title": "scenes-of-yan-an", "date": "1941-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

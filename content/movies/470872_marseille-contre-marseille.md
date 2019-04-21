@@ -1,0 +1,1 @@
+{"tmdb_id": 470872, "title": "Marseille contre Marseille", "original_title": "Marseille contre Marseille", "slug_title": "marseille-contre-marseille", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "R\u00e9cit de la campagne des municipales \u00e0 Marseille en 1995.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

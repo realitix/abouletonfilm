@@ -1,0 +1,1 @@
+{"tmdb_id": 510911, "title": "Defectuosos", "original_title": "Defectuosos", "slug_title": "defectuosos", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

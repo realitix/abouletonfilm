@@ -1,0 +1,1 @@
+{"tmdb_id": 434561, "title": "Alexei to izumi", "original_title": "Alexei to izumi", "slug_title": "alexei-to-izumi", "date": "2002-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

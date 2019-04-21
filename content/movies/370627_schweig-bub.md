@@ -1,0 +1,1 @@
+{"tmdb_id": 370627, "title": "Schweig, Bub", "original_title": "Schweig, Bub", "slug_title": "schweig-bub", "date": "1979-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liesel Christ (Gretel)", "Lia W\u00f6hr (Tante Anna)", "Walter Flamme (Onkel Willi)"], "comments": [], "recommandations_id": []}

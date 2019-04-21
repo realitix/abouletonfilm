@@ -1,0 +1,1 @@
+{"tmdb_id": 545530, "title": "The Times of Bill Cunningham", "original_title": "The Times of Bill Cunningham", "slug_title": "the-times-of-bill-cunningham", "date": "2018-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7U2mmEBgycMzqmDuPf4PCK36tB2.jpg", "actors": [], "comments": [], "recommandations_id": []}

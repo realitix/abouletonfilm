@@ -1,0 +1,1 @@
+{"tmdb_id": 355963, "title": "Zettai ni Kowai Shashin", "original_title": "\u7d76\u5bfe\u306b\u6016\u3044\u5199\u771f", "slug_title": "zettai-ni-kowai-shashin", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqlnzCwJgjf93qfxVk4L5r4gbPu.jpg", "actors": [], "comments": [], "recommandations_id": []}

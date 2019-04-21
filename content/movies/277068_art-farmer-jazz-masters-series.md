@@ -1,0 +1,1 @@
+{"tmdb_id": 277068, "title": "Art Farmer: Jazz Masters Series", "original_title": "Art Farmer: Jazz Masters Series", "slug_title": "art-farmer-jazz-masters-series", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

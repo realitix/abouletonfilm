@@ -1,0 +1,1 @@
+{"tmdb_id": 569355, "title": "Faces of Faces", "original_title": "Faces of Faces", "slug_title": "faces-of-faces", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

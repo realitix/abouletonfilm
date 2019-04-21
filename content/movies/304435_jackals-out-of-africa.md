@@ -1,0 +1,1 @@
+{"tmdb_id": 304435, "title": "Jackals - Out of Africa", "original_title": "Jackals - Out of Africa", "slug_title": "jackals-out-of-africa", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

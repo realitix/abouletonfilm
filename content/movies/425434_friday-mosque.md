@@ -1,0 +1,1 @@
+{"tmdb_id": 425434, "title": "Friday Mosque", "original_title": "Friday Mosque", "slug_title": "friday-mosque", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZGbktSRJGEyfKxZIYxr8updSUG.jpg", "actors": [], "comments": [], "recommandations_id": []}

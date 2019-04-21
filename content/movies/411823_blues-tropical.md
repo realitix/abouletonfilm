@@ -1,0 +1,1 @@
+{"tmdb_id": 411823, "title": "Blues Tropical", "original_title": "Blues Tropical", "slug_title": "blues-tropical", "date": "1983-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

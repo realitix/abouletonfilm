@@ -1,0 +1,1 @@
+{"tmdb_id": 272574, "title": "Vannathu Poochi", "original_title": "Vannathu Poochi", "slug_title": "vannathu-poochi", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bala Singh ()", "Srilakshmi ()"], "comments": [], "recommandations_id": []}

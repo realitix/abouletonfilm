@@ -1,0 +1,1 @@
+{"tmdb_id": 344509, "title": "lynda.com: JavaScript & JSON", "original_title": "lynda.com: JavaScript & JSON", "slug_title": "lynda-com-javascript-json", "date": "2014-06-13", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pCQCB6bA0GbGmmNZbe4atRMP6Sq.jpg", "actors": [], "comments": [], "recommandations_id": []}

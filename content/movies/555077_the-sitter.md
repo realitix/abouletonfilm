@@ -1,0 +1,1 @@
+{"tmdb_id": 555077, "title": "The Sitter", "original_title": "The Sitter", "slug_title": "the-sitter", "date": "1977-01-01", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9ZsbfpGmaETvlj1mplTg2M9bFI.jpg", "actors": ["Lucia Stralser ()"], "comments": [], "recommandations_id": []}

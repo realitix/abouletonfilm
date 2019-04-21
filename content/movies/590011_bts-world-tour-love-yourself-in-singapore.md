@@ -1,0 +1,1 @@
+{"tmdb_id": 590011, "title": "BTS World Tour: Love Yourself in SINGAPORE", "original_title": "BTS World Tour: Love Yourself in SINGAPORE", "slug_title": "bts-world-tour-love-yourself-in-singapore", "date": "2019-03-21", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

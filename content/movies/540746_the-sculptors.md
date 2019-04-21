@@ -1,0 +1,1 @@
+{"tmdb_id": 540746, "title": "The Sculptors", "original_title": "Los Escultores", "slug_title": "the-sculptors", "date": "2015-01-01", "genre": "Drame / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pbsU2lwCShdZKKkR62kXik45u0y.jpg", "actors": ["Rogelio Guerra ()"], "comments": [], "recommandations_id": []}

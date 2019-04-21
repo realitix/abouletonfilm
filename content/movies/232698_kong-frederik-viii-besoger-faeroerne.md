@@ -1,0 +1,1 @@
+{"tmdb_id": 232698, "title": "Kong Frederik VIII bes\u00f8ger F\u00e6r\u00f8erne", "original_title": "Kong Frederik VIII bes\u00f8ger F\u00e6r\u00f8erne", "slug_title": "kong-frederik-viii-besoger-faeroerne", "date": "1907-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

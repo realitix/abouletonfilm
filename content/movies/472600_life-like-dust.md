@@ -1,0 +1,1 @@
+{"tmdb_id": 472600, "title": "Life Like Dust", "original_title": "Bui Dui", "slug_title": "life-like-dust", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

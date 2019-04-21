@@ -1,0 +1,1 @@
+{"tmdb_id": 273885, "title": "Beach Bar: The Movie", "original_title": "Beach Bar: The Movie", "slug_title": "beach-bar-the-movie", "date": "2012-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

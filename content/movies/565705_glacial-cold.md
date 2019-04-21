@@ -1,0 +1,1 @@
+{"tmdb_id": 565705, "title": "Glacial Cold", "original_title": "\u0414\u0443\u0431\u0430\u043a", "slug_title": "glacial-cold", "date": "2018-03-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5e2VXTYKHhhOmgwAzjefhuW30HH.jpg", "actors": [], "comments": [], "recommandations_id": []}

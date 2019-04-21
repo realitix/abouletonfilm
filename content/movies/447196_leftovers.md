@@ -1,0 +1,1 @@
+{"tmdb_id": 447196, "title": "Leftovers", "original_title": "Geride Kalanlar", "slug_title": "leftovers", "date": "2017-01-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00f6kberk Kozan (The Individual)", "Ismail Mermer (Civil Police #2)", "Erhan Sancar (Civil Police #1)"], "comments": [], "recommandations_id": []}

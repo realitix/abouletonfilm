@@ -1,0 +1,1 @@
+{"tmdb_id": 464234, "title": "Hardcover & Paperback", "original_title": "Hardcover & Paperback", "slug_title": "hardcover-paperback", "date": "2008-08-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

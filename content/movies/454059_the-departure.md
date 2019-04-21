@@ -1,0 +1,1 @@
+{"tmdb_id": 454059, "title": "The Departure", "original_title": "The Departure", "slug_title": "the-departure", "date": "2017-04-21", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWFmuRqHgU6NgXUNNpgL9R5V8lA.jpg", "actors": [], "comments": [], "recommandations_id": []}

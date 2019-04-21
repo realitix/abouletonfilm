@@ -1,0 +1,1 @@
+{"tmdb_id": 439982, "title": "good kid, m.A.A.d city", "original_title": "good kid, m.A.A.d city", "slug_title": "good-kid-m-a-a-d-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

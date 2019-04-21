@@ -1,0 +1,1 @@
+{"tmdb_id": 311375, "title": "Great Arias with Placido Domingo and Friends", "original_title": "Great Arias with Placido Domingo and Friends", "slug_title": "great-arias-with-placido-domingo-and-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

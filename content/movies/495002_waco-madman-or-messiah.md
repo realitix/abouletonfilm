@@ -1,0 +1,1 @@
+{"tmdb_id": 495002, "title": "Waco: Madman or Messiah", "original_title": "Waco: Madman or Messiah", "slug_title": "waco-madman-or-messiah", "date": "2018-01-28", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8fQ3kqHoLdHpk8eeUon4oHRrGr.jpg", "actors": [], "comments": [], "recommandations_id": []}

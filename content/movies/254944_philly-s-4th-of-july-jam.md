@@ -1,0 +1,1 @@
+{"tmdb_id": 254944, "title": "Philly's 4th of July Jam", "original_title": "Philly's 4th of July Jam", "slug_title": "philly-s-4th-of-july-jam", "date": "2011-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

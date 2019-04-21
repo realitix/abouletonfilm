@@ -1,0 +1,1 @@
+{"tmdb_id": 56571, "title": "Max & Ruby: Bunny Tales", "original_title": "Max & Ruby: Bunny Tales", "slug_title": "max-ruby-bunny-tales", "date": "2011-01-11", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bF3ypXQFZBwFouWVfzNBIJsJpYV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 231194, "title": "Carthago Nova", "original_title": "Carthago Nova", "slug_title": "carthago-nova", "date": "2011-03-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPkWiHFmgZzD2owf6l4Am3Q4iGG.jpg", "actors": [], "comments": [], "recommandations_id": []}

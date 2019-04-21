@@ -1,0 +1,1 @@
+{"tmdb_id": 460896, "title": "The Street & Modern Life, Birmingham, U.K.", "original_title": "The Street & Modern Life, Birmingham, U.K.", "slug_title": "the-street-modern-life-birmingham-u-k", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

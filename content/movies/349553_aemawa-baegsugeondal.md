@@ -1,0 +1,1 @@
+{"tmdb_id": 349553, "title": "\uc560\ub9c8\uc640 \ubc31\uc218\uac74\ub2ec", "original_title": "\uc560\ub9c8\uc640 \ubc31\uc218\uac74\ub2ec", "slug_title": "aemawa-baegsugeondal", "date": "1995-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

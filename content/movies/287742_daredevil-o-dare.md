@@ -1,0 +1,1 @@
+{"tmdb_id": 287742, "title": "Daredevil O'Dare", "original_title": "Daredevil O'Dare", "slug_title": "daredevil-o-dare", "date": "1934-08-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Blue (Elmer O'Dare)", "Shemp Howard (Butch)", "Joseph Vitale (Kovack Tomar)"], "comments": [], "recommandations_id": []}

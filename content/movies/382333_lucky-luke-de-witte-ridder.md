@@ -1,0 +1,1 @@
+{"tmdb_id": 382333, "title": "Lucky Luke - De Witte Ridder", "original_title": "Lucky Luke - De Witte Ridder", "slug_title": "lucky-luke-de-witte-ridder", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oMFEL5BEkcoIZzzoUIT18hXiuP8.jpg", "actors": [], "comments": [], "recommandations_id": []}

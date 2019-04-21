@@ -1,0 +1,1 @@
+{"tmdb_id": 552044, "title": "Miranshah Investigation", "original_title": "Miranshah Investigation", "slug_title": "miranshah-investigation", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "court-m\u00e9trage", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cWCa6BtavlgIpj7yJ1GaEP6AeNk.jpg", "actors": [], "comments": [], "recommandations_id": []}

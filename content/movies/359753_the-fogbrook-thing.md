@@ -1,0 +1,1 @@
+{"tmdb_id": 359753, "title": "The Fogbrook Thing", "original_title": "The Fogbrook Thing", "slug_title": "the-fogbrook-thing", "date": "1985-09-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6mpyaZLjl0VplYK4gXkMap2mrx1.jpg", "actors": [], "comments": [], "recommandations_id": []}

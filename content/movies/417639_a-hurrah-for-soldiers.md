@@ -1,0 +1,1 @@
+{"tmdb_id": 417639, "title": "A Hurrah for Soldiers", "original_title": "A Hurrah for Soldiers", "slug_title": "a-hurrah-for-soldiers", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

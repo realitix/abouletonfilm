@@ -1,0 +1,1 @@
+{"tmdb_id": 77134, "title": "Al_Dente", "original_title": "Al_Dente", "slug_title": "al-dente", "date": "1998-06-05", "genre": "Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etHxDNvYGga2lfuQ7yAMIeLBMZ6.jpg", "actors": ["Mike Cooper (Waiter / Cook (voice))"], "comments": [], "recommandations_id": []}

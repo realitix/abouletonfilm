@@ -1,0 +1,1 @@
+{"tmdb_id": 570354, "title": "Marilyn Monroe for Sale", "original_title": "Marilyn Monroe for Sale", "slug_title": "marilyn-monroe-for-sale", "date": "2018-12-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 510300, "title": "Nijntje heeft een leuke dag 2", "original_title": "Nijntje heeft een leuke dag 2", "slug_title": "nijntje-heeft-een-leuke-dag-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yg2R4QRXFP3HSb4Yq4N3CrhzmiE.jpg", "actors": [], "comments": [], "recommandations_id": []}

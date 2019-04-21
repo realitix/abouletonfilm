@@ -1,0 +1,1 @@
+{"tmdb_id": 169366, "title": "Cannibal Suburbia", "original_title": "Cannibal Suburbia", "slug_title": "cannibal-suburbia", "date": "2008-03-13", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e9JTP06zXJG2Xp7Wyi8FqvtSbI1.jpg", "actors": [], "comments": [], "recommandations_id": []}

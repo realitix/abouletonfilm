@@ -1,0 +1,1 @@
+{"tmdb_id": 419103, "title": "Schuldner", "original_title": "Schuldner", "slug_title": "schuldner", "date": "1971-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYTHvLUBVQ7ZEiuadfMqnuNaDeh.jpg", "actors": [], "comments": [], "recommandations_id": []}

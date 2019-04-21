@@ -1,0 +1,1 @@
+{"tmdb_id": 417266, "title": "Paranormal Yakutsk", "original_title": "Paranormal Yakutsk", "slug_title": "paranormal-yakutsk", "date": "2012-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBubV8rBLTRzaqvy8iJ0nzkupcu.jpg", "actors": [], "comments": [], "recommandations_id": []}

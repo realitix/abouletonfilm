@@ -1,0 +1,1 @@
+{"tmdb_id": 531494, "title": "The Floating World", "original_title": "The Floating World", "slug_title": "the-floating-world", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cgYHHLYOjFVarWSTfCDbrdXMGMX.jpg", "actors": [], "comments": [], "recommandations_id": []}

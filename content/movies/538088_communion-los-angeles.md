@@ -1,0 +1,1 @@
+{"tmdb_id": 538088, "title": "Communion Los Angeles", "original_title": "Communion Los Angeles", "slug_title": "communion-los-angeles", "date": "2018-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pUmwlqx89O2GsVvifOGdZqpTpo.jpg", "actors": [], "comments": [], "recommandations_id": []}

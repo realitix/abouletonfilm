@@ -1,0 +1,1 @@
+{"tmdb_id": 118256, "title": "Ksi\u0119\u017cniczka Fantaghiro", "original_title": "Fantaghiro: Quest for the Quorum", "slug_title": "ksiezniczka-fantaghiro", "date": "2004-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Zw31pKyCoOxkXalpv5F1J9bJDf.jpg", "actors": [], "comments": [], "recommandations_id": []}

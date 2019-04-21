@@ -1,0 +1,1 @@
+{"tmdb_id": 271623, "title": "Shaman Healer Sage", "original_title": "Shaman Healer Sage", "slug_title": "shaman-healer-sage", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

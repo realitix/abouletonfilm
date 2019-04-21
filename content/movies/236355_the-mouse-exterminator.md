@@ -1,0 +1,1 @@
+{"tmdb_id": 236355, "title": "The Mouse Exterminator", "original_title": "The Mouse Exterminator", "slug_title": "the-mouse-exterminator", "date": "1940-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

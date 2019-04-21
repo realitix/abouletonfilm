@@ -1,0 +1,1 @@
+{"tmdb_id": 503296, "title": "Giota's Journey", "original_title": "Giota's Journey", "slug_title": "giota-s-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

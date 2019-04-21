@@ -1,0 +1,1 @@
+{"tmdb_id": 278839, "title": "It Happened In Hualfin", "original_title": "Ocurrido en Hualf\u00edn", "slug_title": "it-happened-in-hualfin", "date": "1965-03-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9EJdNC3t6a7soBJAPOfzKY4QKQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

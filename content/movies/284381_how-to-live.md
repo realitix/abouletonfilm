@@ -1,0 +1,1 @@
+{"tmdb_id": 284381, "title": "How to Live", "original_title": "Jak \u017cy\u0107", "slug_title": "how-to-live", "date": "1981-04-03", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uk0OVVtCtFe7EuPWXtIxdhThMmz.jpg", "actors": [], "comments": [], "recommandations_id": []}

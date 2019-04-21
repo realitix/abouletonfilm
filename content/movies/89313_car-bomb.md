@@ -1,0 +1,1 @@
+{"tmdb_id": 89313, "title": "Car Bomb", "original_title": "Car Bomb", "slug_title": "car-bomb", "date": "2008-07-27", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hsGh2BDAlqJijFaPWzi8B5fx2Eh.jpg", "actors": [], "comments": [], "recommandations_id": []}

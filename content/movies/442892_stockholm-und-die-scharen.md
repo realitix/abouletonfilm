@@ -1,0 +1,1 @@
+{"tmdb_id": 442892, "title": "Stockholm und die Sch\u00e4ren", "original_title": "Stockholm und die Sch\u00e4ren", "slug_title": "stockholm-und-die-scharen", "date": "2015-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEt19SwWcCbac3KUzcNm8EftMpv.jpg", "actors": [], "comments": [], "recommandations_id": []}

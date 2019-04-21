@@ -1,0 +1,1 @@
+{"tmdb_id": 468140, "title": "Un d\u00eda perfecto", "original_title": "Un d\u00eda perfecto", "slug_title": "un-dia-perfecto", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lKlwPk0b4AID4thJc8tsD4cGEPG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 299647, "title": "Kienholz on Exhibit", "original_title": "Kienholz on Exhibit", "slug_title": "kienholz-on-exhibit", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1MbfNyDuP70mh4wPg97q3sBZXM.jpg", "actors": [], "comments": [], "recommandations_id": []}

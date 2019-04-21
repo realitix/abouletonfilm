@@ -1,0 +1,1 @@
+{"tmdb_id": 234679, "title": "Mackerel Moocher", "original_title": "Mackerel Moocher", "slug_title": "mackerel-moocher", "date": "1962-04-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nyQBUUW1QtcCKfP2zLxJXj6O6rc.jpg", "actors": [], "comments": [], "recommandations_id": []}

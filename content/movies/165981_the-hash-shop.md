@@ -1,0 +1,1 @@
+{"tmdb_id": 165981, "title": "The Hash Shop", "original_title": "The Hash Shop", "slug_title": "the-hash-shop", "date": "1930-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

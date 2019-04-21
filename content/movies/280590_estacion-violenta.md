@@ -1,0 +1,1 @@
+{"tmdb_id": 280590, "title": "Estaci\u00f3n violenta", "original_title": "Estaci\u00f3n violenta", "slug_title": "estacion-violenta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eugenia Chaverri (Violeta)"], "comments": [], "recommandations_id": []}

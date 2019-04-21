@@ -1,0 +1,1 @@
+{"tmdb_id": 326751, "title": "The Scarface Phenomenon", "original_title": "The Scarface Phenomenon", "slug_title": "the-scarface-phenomenon", "date": "2011-09-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

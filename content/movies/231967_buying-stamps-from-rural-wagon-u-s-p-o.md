@@ -1,0 +1,1 @@
+{"tmdb_id": 231967, "title": "Buying Stamps from Rural Wagon, U.S.P.O.", "original_title": "Buying Stamps from Rural Wagon, U.S.P.O.", "slug_title": "buying-stamps-from-rural-wagon-u-s-p-o", "date": "1903-08-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

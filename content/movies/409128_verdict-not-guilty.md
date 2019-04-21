@@ -1,0 +1,1 @@
+{"tmdb_id": 409128, "title": "Verdict: Not Guilty", "original_title": "Verdict: Not Guilty", "slug_title": "verdict-not-guilty", "date": "1933-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

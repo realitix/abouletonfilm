@@ -1,0 +1,1 @@
+{"tmdb_id": 561552, "title": "My Generation", "original_title": "My Generation", "slug_title": "my-generation", "date": "2010-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

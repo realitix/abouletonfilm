@@ -1,0 +1,1 @@
+{"tmdb_id": 33133, "title": "Apron Strings", "original_title": "Apron Strings", "slug_title": "apron-strings", "date": "2008-07-29", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcA434fIgzGgAi5qh3zDPlB71w9.jpg", "actors": ["Laila Rouass (Anita)", "Scott Wills (Barry)"], "comments": [], "recommandations_id": []}

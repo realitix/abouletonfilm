@@ -1,0 +1,1 @@
+{"tmdb_id": 341954, "title": "Dein Ganzk\u00f6rper-Workout", "original_title": "Dein Ganzk\u00f6rper-Workout", "slug_title": "dein-ganzkorper-workout", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jV7bbSpSta9hRBK1eogrP0gPeHR.jpg", "actors": [], "comments": [], "recommandations_id": []}

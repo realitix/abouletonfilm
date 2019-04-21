@@ -1,0 +1,1 @@
+{"tmdb_id": 554763, "title": "A Friend Turned Foe", "original_title": "A Friend Turned Foe", "slug_title": "a-friend-turned-foe", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3WCnGpOXBdT3aerOPK3wR65otR0.jpg", "actors": [], "comments": [], "recommandations_id": []}

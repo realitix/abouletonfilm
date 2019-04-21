@@ -1,0 +1,1 @@
+{"tmdb_id": 587307, "title": "Homo Botanicus", "original_title": "Homo Botanicus", "slug_title": "homo-botanicus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9H1Xy20WCRytceclAHITw03MSrA.jpg", "actors": [], "comments": [], "recommandations_id": []}

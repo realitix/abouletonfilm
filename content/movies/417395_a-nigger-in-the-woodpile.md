@@ -1,0 +1,1 @@
+{"tmdb_id": 417395, "title": "A Nigger in the Woodpile", "original_title": "A Nigger in the Woodpile", "slug_title": "a-nigger-in-the-woodpile", "date": "1904-04-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

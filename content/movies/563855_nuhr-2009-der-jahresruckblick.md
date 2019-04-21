@@ -1,0 +1,1 @@
+{"tmdb_id": 563855, "title": "Nuhr 2009 \u2013 Der Jahresr\u00fcckblick", "original_title": "Nuhr 2009 \u2013 Der Jahresr\u00fcckblick", "slug_title": "nuhr-2009-der-jahresruckblick", "date": "2009-12-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dieter Nuhr ()"], "comments": [], "recommandations_id": []}

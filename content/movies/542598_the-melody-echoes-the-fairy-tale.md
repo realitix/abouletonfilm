@@ -1,0 +1,1 @@
+{"tmdb_id": 542598, "title": "The Melody Echoes the Fairy Tale", "original_title": "The Melody Echoes the Fairy Tale", "slug_title": "the-melody-echoes-the-fairy-tale", "date": "2007-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guillermo del Toro (Himself)"], "comments": [], "recommandations_id": []}

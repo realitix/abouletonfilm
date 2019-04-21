@@ -1,0 +1,1 @@
+{"tmdb_id": 338427, "title": "O Lobinho Nunca Mente", "original_title": "O Lobinho Nunca Mente", "slug_title": "o-lobinho-nunca-mente", "date": "2007-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOZ2A1tjDQFwfpUKnSATygXYNmn.jpg", "actors": ["F\u00e1bio Porchat ()"], "comments": [], "recommandations_id": []}

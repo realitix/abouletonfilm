@@ -1,0 +1,1 @@
+{"tmdb_id": 321438, "title": "Marcus Garvey: A Giant of Black Politics", "original_title": "Marcus Garvey: A Giant of Black Politics", "slug_title": "marcus-garvey-a-giant-of-black-politics", "date": "2008-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

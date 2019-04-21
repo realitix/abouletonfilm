@@ -1,0 +1,1 @@
+{"tmdb_id": 407255, "title": "The Dragon Warrior", "original_title": "The Dragon Warrior", "slug_title": "the-dragon-warrior", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

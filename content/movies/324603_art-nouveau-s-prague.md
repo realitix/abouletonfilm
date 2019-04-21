@@ -1,0 +1,1 @@
+{"tmdb_id": 324603, "title": "Art Nouveau's Prague", "original_title": "Praha secesn\u00ed", "slug_title": "art-nouveau-s-prague", "date": "1974-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudolf Hru\u0161\u00ednsk\u00fd (vyprav\u011b\u010d)"], "comments": [], "recommandations_id": []}

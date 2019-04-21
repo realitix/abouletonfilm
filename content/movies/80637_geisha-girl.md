@@ -1,0 +1,1 @@
+{"tmdb_id": 80637, "title": "Geisha Girl", "original_title": "Geisha Girl", "slug_title": "geisha-girl", "date": "2006-01-13", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

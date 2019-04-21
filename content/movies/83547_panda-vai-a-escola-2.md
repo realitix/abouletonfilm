@@ -1,0 +1,1 @@
+{"tmdb_id": 83547, "title": "Panda vai \u00e0 escola 2", "original_title": "Panda vai \u00e0 escola 2", "slug_title": "panda-vai-a-escola-2", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6eq5LqkH7OiEI05hSAXV0RzD1Yu.jpg", "actors": [], "comments": [], "recommandations_id": []}

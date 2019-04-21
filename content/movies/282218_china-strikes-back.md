@@ -1,0 +1,1 @@
+{"tmdb_id": 282218, "title": "China Strikes Back", "original_title": "China Strikes Back", "slug_title": "china-strikes-back", "date": "1937-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teh Chu (Himself - Mao's military leader)", "Mao Zedong (Himself)"], "comments": [], "recommandations_id": []}

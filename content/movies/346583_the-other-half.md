@@ -1,0 +1,1 @@
+{"tmdb_id": 346583, "title": "The Other Half", "original_title": "L'altra met\u00e0", "slug_title": "the-other-half", "date": "2009-12-03", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ippolito Chiariello ()", "Cosimo Cinieri ()", "Piera Degli Esposti ()", "Anna Ferruzzo ()"], "comments": [], "recommandations_id": []}

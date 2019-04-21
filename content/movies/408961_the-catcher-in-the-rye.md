@@ -1,0 +1,1 @@
+{"tmdb_id": 408961, "title": "The Catcher in the Rye", "original_title": "The Catcher in the Rye", "slug_title": "the-catcher-in-the-rye", "date": "2008-02-18", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Odtg74zcjmrgERklRrulc2lb9S.jpg", "actors": [], "comments": [], "recommandations_id": []}

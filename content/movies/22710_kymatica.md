@@ -1,0 +1,1 @@
+{"tmdb_id": 22710, "title": "Kymatica", "original_title": "Kymatica", "slug_title": "kymatica", "date": "2009-02-01", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0i3XRnTi0ZeMrhO4Z3evfVpr61.jpg", "actors": ["Ben Stewart (Narrator)"], "comments": [], "recommandations_id": []}

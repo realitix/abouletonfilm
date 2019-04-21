@@ -1,0 +1,1 @@
+{"tmdb_id": 495116, "title": "\uc5c4\ub9c8\uc758 \ub9db", "original_title": "\uc5c4\ub9c8\uc758 \ub9db", "slug_title": "eommayi-mas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

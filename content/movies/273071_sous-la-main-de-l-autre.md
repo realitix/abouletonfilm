@@ -1,0 +1,1 @@
+{"tmdb_id": 273071, "title": "Sous la main de l'autre", "original_title": "Sous la main de l'autre", "slug_title": "sous-la-main-de-l-autre", "date": "2011-06-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tV4AttGzfTm2JLGeTrANzpM9Jh2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 365252, "title": "Blood Runs Black", "original_title": "Blood Runs Black", "slug_title": "blood-runs-black", "date": "2015-10-25", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6FCId1hQPFVMuOB8e4MdWPQSCxY.jpg", "actors": [], "comments": [], "recommandations_id": []}

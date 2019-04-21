@@ -1,0 +1,1 @@
+{"tmdb_id": 588782, "title": "The Leading Lady", "original_title": "Huvudrollen", "slug_title": "the-leading-lady", "date": "2005-12-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Annika Miiros (Maria)", "Marina Motaleff (Frida)", "Lisa Sj\u00f6holm (Regiassistent)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520433, "title": "Sons of Satan", "original_title": "Sons of Satan", "slug_title": "sons-of-satan", "date": "1973-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWkLoEPAGUaJvIiNoT7IlHSoRuQ.jpg", "actors": ["Ned Burke ()"], "comments": [], "recommandations_id": []}

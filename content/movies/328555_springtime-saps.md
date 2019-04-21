@@ -1,0 +1,1 @@
+{"tmdb_id": 328555, "title": "Springtime Saps", "original_title": "Springtime Saps", "slug_title": "springtime-saps", "date": "1929-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()", "Marvin Loback ()"], "comments": [], "recommandations_id": []}

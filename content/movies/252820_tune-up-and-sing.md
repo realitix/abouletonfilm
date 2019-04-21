@@ -1,0 +1,1 @@
+{"tmdb_id": 252820, "title": "Tune Up and Sing", "original_title": "Tune Up and Sing", "slug_title": "tune-up-and-sing", "date": "1934-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lanny Ross ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297627, "title": "Extreme Summer", "original_title": "Extreme Summer", "slug_title": "extreme-summer", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjgHNxEvmIeK6fNDd1meEec6BtJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

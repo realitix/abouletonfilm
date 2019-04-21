@@ -1,0 +1,1 @@
+{"tmdb_id": 300287, "title": "Pl\u00f6tzlich das M\u00e4dchen", "original_title": "Pl\u00f6tzlich das M\u00e4dchen", "slug_title": "plotzlich-das-madchen", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 515280, "title": "AntiRacist Hitler", "original_title": "AntiRacist Hitler", "slug_title": "antiracist-hitler", "date": "", "genre": "Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

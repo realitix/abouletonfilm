@@ -1,0 +1,1 @@
+{"tmdb_id": 216764, "title": "Shady Chocolate", "original_title": "Shady Chocolate", "slug_title": "shady-chocolate", "date": "2012-12-08", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IfSmJlj7LgNP8VyCMdtpt5hKbd.jpg", "actors": [], "comments": [], "recommandations_id": []}

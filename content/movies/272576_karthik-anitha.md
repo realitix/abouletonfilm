@@ -1,0 +1,1 @@
+{"tmdb_id": 272576, "title": "Karthik Anitha", "original_title": "Karthik Anitha", "slug_title": "karthik-anitha", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ratthan ()", "Manju ()", "Kota Srinivasa Rao ()"], "comments": [], "recommandations_id": []}

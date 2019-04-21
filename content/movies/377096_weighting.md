@@ -1,0 +1,1 @@
+{"tmdb_id": 377096, "title": "Weighting", "original_title": "Weighting", "slug_title": "weighting", "date": "2011-01-11", "genre": "Com\u00e9die / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t24f6mjmj87EthtWaVj8vCGQJ9B.jpg", "actors": ["Satya Bhabha (Boy)", "Brie Larson (Girl)"], "comments": [], "recommandations_id": []}

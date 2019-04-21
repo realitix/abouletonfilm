@@ -1,0 +1,1 @@
+{"tmdb_id": 545091, "title": "Clean Sheets", "original_title": "Clean Sheets", "slug_title": "clean-sheets", "date": "2016-06-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jenny Boyd (Sonia)", "Duncan Duff (Will)", "Cosima Shaw (Kat)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531098, "title": "Made in Mississippi", "original_title": "Made in Mississippi", "slug_title": "made-in-mississippi", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vxQtjdbW2T0WiUWuDCD2jBkpJ32.jpg", "actors": [], "comments": [], "recommandations_id": []}

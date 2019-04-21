@@ -1,0 +1,1 @@
+{"tmdb_id": 245383, "title": "Zwijnen", "original_title": "Zwijnen", "slug_title": "zwijnen", "date": "2004-09-23", "genre": "Drame / Thriller", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lore Dijkman ()", "Teun Kuilboer ()", "Tim Zweije ()", "Malou de Roy van Zuydewijn ()", "Kimmy Ligtvoet ()"], "comments": [], "recommandations_id": []}

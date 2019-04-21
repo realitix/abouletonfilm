@@ -1,0 +1,1 @@
+{"tmdb_id": 262660, "title": "Los \u00faltimos d\u00edas del Che", "original_title": "Los \u00faltimos d\u00edas del Che", "slug_title": "los-ultimos-dias-del-che", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

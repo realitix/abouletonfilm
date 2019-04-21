@@ -1,0 +1,1 @@
+{"tmdb_id": 490561, "title": "The Legend of Borley Rectory & Church", "original_title": "The Legend of Borley Rectory & Church", "slug_title": "the-legend-of-borley-rectory-church", "date": "2017-11-26", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Halton (Narrator)"], "comments": [], "recommandations_id": []}

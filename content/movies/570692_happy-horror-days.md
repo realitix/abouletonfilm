@@ -1,0 +1,1 @@
+{"tmdb_id": 570692, "title": "Happy Horror Days!", "original_title": "Happy Horror Days!", "slug_title": "happy-horror-days", "date": "2018-12-25", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fessenden ()"], "comments": [], "recommandations_id": []}

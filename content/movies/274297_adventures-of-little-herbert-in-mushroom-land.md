@@ -1,0 +1,1 @@
+{"tmdb_id": 274297, "title": "Adventures of Little Herbert in Mushroom Land", "original_title": "Adventures of Little Herbert in Mushroom Land", "slug_title": "adventures-of-little-herbert-in-mushroom-land", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

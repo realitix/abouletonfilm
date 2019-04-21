@@ -1,0 +1,1 @@
+{"tmdb_id": 540183, "title": "Laylat El Qabd Ala Bakiza Wa Zaghloul", "original_title": "Laylat El Qabd Ala Bakiza Wa Zaghloul", "slug_title": "laylat-el-qabd-ala-bakiza-wa-zaghloul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

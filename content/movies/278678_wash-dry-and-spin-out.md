@@ -1,0 +1,1 @@
+{"tmdb_id": 278678, "title": "Wash Dry and Spin Out", "original_title": "Wash Dry and Spin Out", "slug_title": "wash-dry-and-spin-out", "date": "2003-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

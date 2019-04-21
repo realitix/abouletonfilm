@@ -1,0 +1,1 @@
+{"tmdb_id": 312762, "title": "The Drums of the Past", "original_title": "Tourou et Bitti: Les tambours d'avant", "slug_title": "the-drums-of-the-past", "date": "1971-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6L9kc1vZkPVZsvO53V6R2Ubvbcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

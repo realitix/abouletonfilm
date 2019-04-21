@@ -1,0 +1,1 @@
+{"tmdb_id": 275927, "title": "Mickey Mantle: One of the Greatest", "original_title": "Mickey Mantle: One of the Greatest", "slug_title": "mickey-mantle-one-of-the-greatest", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351396, "title": "Washing Machine", "original_title": "La Lavadora", "slug_title": "washing-machine", "date": "2010-10-29", "genre": "Romance / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00eda Ballesteros ()", "Enrique Alcides ()", "Manuel Almaraz ()"], "comments": [], "recommandations_id": []}

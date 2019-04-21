@@ -1,0 +1,1 @@
+{"tmdb_id": 489933, "title": "The Happy Genius", "original_title": "The Happy Genius", "slug_title": "the-happy-genius", "date": "2017-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aljRbvZJIzaiiP2NvqlwxRhc7e2.jpg", "actors": [], "comments": [], "recommandations_id": []}

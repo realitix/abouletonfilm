@@ -1,0 +1,1 @@
+{"tmdb_id": 94669, "title": "The Drummer", "original_title": "The Drummer", "slug_title": "the-drummer", "date": "2008-04-19", "genre": "Drame / Action", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asmeret Ghebremichael (Ivy)", "David Ratajczak (Dave)"], "comments": [], "recommandations_id": []}

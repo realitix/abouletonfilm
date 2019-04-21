@@ -1,0 +1,1 @@
+{"tmdb_id": 579424, "title": "Women, Women", "original_title": "\uc5ec\uc790\uc5ec\uc790", "slug_title": "women-women", "date": "1985-11-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oh Su-bi ()", "Ahn So-young ()", "Yoo Dong-kun ()", "Kim Eun-yeong ()", "Seok Se-yeong ()"], "comments": [], "recommandations_id": []}

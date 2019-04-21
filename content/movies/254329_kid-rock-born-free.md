@@ -1,0 +1,1 @@
+{"tmdb_id": 254329, "title": "Kid Rock: Born Free", "original_title": "Kid Rock: Born Free", "slug_title": "kid-rock-born-free", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

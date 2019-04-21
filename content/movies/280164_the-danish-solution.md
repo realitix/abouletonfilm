@@ -1,0 +1,1 @@
+{"tmdb_id": 280164, "title": "The Danish Solution", "original_title": "The Danish Solution", "slug_title": "the-danish-solution", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llc6j2t9EtgUVQmhPI5rRcuczEm.jpg", "actors": [], "comments": [], "recommandations_id": []}

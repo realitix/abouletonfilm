@@ -1,0 +1,1 @@
+{"tmdb_id": 219964, "title": "Les enfants de France et de la guerre", "original_title": "Les enfants de France et de la guerre", "slug_title": "les-enfants-de-france-et-de-la-guerre", "date": "1918-09-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379083, "title": "Super Pink", "original_title": "Super Pink", "slug_title": "super-pink", "date": "1966-10-12", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JPaVSfM60ACc0MCVLpp7DXiyax.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 243616, "title": "Teenage Father", "original_title": "Teenage Father", "slug_title": "teenage-father", "date": "1978-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

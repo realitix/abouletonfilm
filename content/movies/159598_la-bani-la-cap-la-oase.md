@@ -1,0 +1,1 @@
+{"tmdb_id": 159598, "title": "La bani, la cap, la oase", "original_title": "La bani, la cap, la oase", "slug_title": "la-bani-la-cap-la-oase", "date": "2010-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15OTIbFMvr945MMlCzLXS3Td8rN.jpg", "actors": [], "comments": [], "recommandations_id": []}

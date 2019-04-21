@@ -1,0 +1,1 @@
+{"tmdb_id": 465401, "title": "Nova Scotia", "original_title": "Nova Scotia", "slug_title": "nova-scotia", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

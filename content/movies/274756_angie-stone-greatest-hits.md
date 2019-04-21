@@ -1,0 +1,1 @@
+{"tmdb_id": 274756, "title": "Angie Stone: Greatest Hits", "original_title": "Angie Stone: Greatest Hits", "slug_title": "angie-stone-greatest-hits", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

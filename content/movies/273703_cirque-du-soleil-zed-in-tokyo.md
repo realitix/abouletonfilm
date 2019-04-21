@@ -1,0 +1,1 @@
+{"tmdb_id": 273703, "title": "Cirque du Soleil: Zed in Tokyo", "original_title": "Cirque du Soleil: Zed in Tokyo", "slug_title": "cirque-du-soleil-zed-in-tokyo", "date": "2013-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7yeY5pfHwznNyuE11JWDQKmAMXj.jpg", "actors": [], "comments": [], "recommandations_id": []}

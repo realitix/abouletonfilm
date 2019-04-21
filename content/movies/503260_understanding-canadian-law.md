@@ -1,0 +1,1 @@
+{"tmdb_id": 503260, "title": "Understanding Canadian Law", "original_title": "Understanding Canadian Law", "slug_title": "understanding-canadian-law", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 162316, "title": "Mo'Nique: One Night Stand", "original_title": "Mo'Nique: One Night Stand", "slug_title": "mo-nique-one-night-stand", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 457783, "title": "Lili David", "original_title": "Lili David", "slug_title": "lili-david", "date": "2012-05-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyvV8ww6LDBcPBXjajyWk0lHxHg.jpg", "actors": ["Julie-Anne Roth (Lili David)"], "comments": [], "recommandations_id": []}

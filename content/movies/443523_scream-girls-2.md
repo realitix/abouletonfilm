@@ -1,0 +1,1 @@
+{"tmdb_id": 443523, "title": "Scream Girls 2", "original_title": "Shin Hikiko-san", "slug_title": "scream-girls-2", "date": "2010-02-05", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vuvbBJuZyXmwe4icMrvSwS2rPIL.jpg", "actors": [], "comments": [], "recommandations_id": []}

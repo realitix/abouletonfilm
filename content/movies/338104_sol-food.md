@@ -1,0 +1,1 @@
+{"tmdb_id": 338104, "title": "Sol Food", "original_title": "Sol Food", "slug_title": "sol-food", "date": "2015-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

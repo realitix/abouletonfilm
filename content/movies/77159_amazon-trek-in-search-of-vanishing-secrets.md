@@ -1,0 +1,1 @@
+{"tmdb_id": 77159, "title": "Amazon Trek: In Search of Vanishing Secrets", "original_title": "Amazon Trek: In Search of Vanishing Secrets", "slug_title": "amazon-trek-in-search-of-vanishing-secrets", "date": "2007-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

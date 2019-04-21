@@ -1,0 +1,1 @@
+{"tmdb_id": 539095, "title": "L'\u00e9cole des journalistes", "original_title": "L'\u00e9cole des journalistes", "slug_title": "l-ecole-des-journalistes", "date": "1936-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfyGvrQDPoSdYtKbN8AiJCEYAMt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 450188, "title": "Bali High", "original_title": "Bali High", "slug_title": "bali-high", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5L93z6RGUr6iYipAPH1cTd1eGIe.jpg", "actors": [], "comments": [], "recommandations_id": []}

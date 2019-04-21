@@ -1,0 +1,1 @@
+{"tmdb_id": 346477, "title": "PDA Massacre", "original_title": "PDA Massacre", "slug_title": "pda-massacre", "date": "2004-01-12", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

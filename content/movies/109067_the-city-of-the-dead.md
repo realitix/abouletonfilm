@@ -1,0 +1,1 @@
+{"tmdb_id": 109067, "title": "The City of the Dead", "original_title": "A Cidade dos Mortos", "slug_title": "the-city-of-the-dead", "date": "2011-04-14", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/snaBc28G1hYRvyfWo6iNr8MzLIp.jpg", "actors": [], "comments": [], "recommandations_id": []}

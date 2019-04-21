@@ -1,0 +1,1 @@
+{"tmdb_id": 328371, "title": "I Hate Myselfie", "original_title": "I Hate Myselfie", "slug_title": "i-hate-myselfie", "date": "2015-03-02", "genre": "", "score": "7.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shane Dawson (Himself)", "Gigi Lazzarato (Amber)", "Cherami Leigh (Kelly)"], "comments": [], "recommandations_id": [292483]}

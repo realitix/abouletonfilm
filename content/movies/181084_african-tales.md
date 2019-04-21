@@ -1,0 +1,1 @@
+{"tmdb_id": 181084, "title": "African Tales", "original_title": "African Tales", "slug_title": "african-tales", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iw3Uxee8LTd9oqe8bJx1sjYpoZ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

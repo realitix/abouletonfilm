@@ -1,0 +1,1 @@
+{"tmdb_id": 329293, "title": "Children of Shatila", "original_title": "Atfal Shatila", "slug_title": "children-of-shatila", "date": "1999-01-02", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltFuaCc0hXBNyR2Z3YwFdDF2ucX.jpg", "actors": [], "comments": [], "recommandations_id": []}

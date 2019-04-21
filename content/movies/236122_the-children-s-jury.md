@@ -1,0 +1,1 @@
+{"tmdb_id": 236122, "title": "The Children's Jury", "original_title": "The Children's Jury", "slug_title": "the-children-s-jury", "date": "1938-11-13", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crIjDZyqKhS3DyUDFmq2HQhufix.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 322092, "title": "Accidents Will Happen", "original_title": "Accidents Will Happen", "slug_title": "accidents-will-happen", "date": "1922-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neely Edwards (Nervy Ned)", "Bert Roach (Ned's Valet)"], "comments": [], "recommandations_id": []}

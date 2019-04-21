@@ -1,0 +1,1 @@
+{"tmdb_id": 77152, "title": "Centrifuge", "original_title": "Centrifuge", "slug_title": "centrifuge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

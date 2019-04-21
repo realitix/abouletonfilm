@@ -1,0 +1,1 @@
+{"tmdb_id": 411343, "title": "The Meaning of Tea", "original_title": "The Meaning of Tea", "slug_title": "the-meaning-of-tea", "date": "2008-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdSJ5wJGwqlNnfny4S3JQ64xqTY.jpg", "actors": ["Gordon Arkenberg ()"], "comments": [], "recommandations_id": []}

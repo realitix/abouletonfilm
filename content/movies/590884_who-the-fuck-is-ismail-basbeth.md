@@ -1,0 +1,1 @@
+{"tmdb_id": 590884, "title": "Who the fuck is Ismail Basbeth?", "original_title": "Who the fuck is Ismail Basbeth?", "slug_title": "who-the-fuck-is-ismail-basbeth", "date": "2012-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p4qRI15AIEQIuv0WTprA7hIsXVY.jpg", "actors": [], "comments": [], "recommandations_id": []}

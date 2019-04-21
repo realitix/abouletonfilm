@@ -1,0 +1,1 @@
+{"tmdb_id": 351309, "title": "Charmadi", "original_title": "Charmadi", "slug_title": "charmadi", "date": "2013-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wVhTTHpHEDA0RmsL0I48R4jYav.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310690, "title": "Trilogy of Ballet: Giselle", "original_title": "Trilogy of Ballet: Giselle", "slug_title": "trilogy-of-ballet-giselle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

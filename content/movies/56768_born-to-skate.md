@@ -1,0 +1,1 @@
+{"tmdb_id": 56768, "title": "Born to Skate", "original_title": "Born to Skate", "slug_title": "born-to-skate", "date": "2010-09-18", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfl2VEQzbXOUWIlXGfUbFH0rMtZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

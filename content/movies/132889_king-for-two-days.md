@@ -1,0 +1,1 @@
+{"tmdb_id": 132889, "title": "King for Two Days", "original_title": "King for Two Days", "slug_title": "king-for-two-days", "date": "2012-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rjiEon7OF0E1TxOcWNGXeRLiPs.jpg", "actors": [], "comments": [], "recommandations_id": []}

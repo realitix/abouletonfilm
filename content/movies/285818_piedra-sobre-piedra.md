@@ -1,0 +1,1 @@
+{"tmdb_id": 285818, "title": "Piedra sobre piedra", "original_title": "Piedra sobre piedra", "slug_title": "piedra-sobre-piedra", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jurZYlwcKVq8NfWK1296Etzyvl5.jpg", "actors": [], "comments": [], "recommandations_id": []}

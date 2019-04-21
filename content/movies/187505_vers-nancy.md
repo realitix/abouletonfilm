@@ -1,0 +1,1 @@
+{"tmdb_id": 187505, "title": "Vers Nancy", "original_title": "Vers Nancy", "slug_title": "vers-nancy", "date": "2002-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diJGCSa2zTOYIpO2V1M5qeMmYil.jpg", "actors": ["Jean-Luc Nancy ()", "Alex Descas ()", "Ana Samardzija ()"], "comments": [], "recommandations_id": []}

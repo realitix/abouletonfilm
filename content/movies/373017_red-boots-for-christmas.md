@@ -1,0 +1,1 @@
+{"tmdb_id": 373017, "title": "Red Boots for Christmas", "original_title": "Red Boots for Christmas", "slug_title": "red-boots-for-christmas", "date": "1995-10-23", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoPpyUxqfOT82qqJXNI1PSxoThs.jpg", "actors": [], "comments": [], "recommandations_id": []}

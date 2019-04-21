@@ -1,0 +1,1 @@
+{"tmdb_id": 302021, "title": "Instant Guitar", "original_title": "Instant Guitar", "slug_title": "instant-guitar", "date": "2007-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fyo7BsAz6bLcTaWHRsX9ls7kQLY.jpg", "actors": ["Sarah Price (Herself)"], "comments": [], "recommandations_id": []}

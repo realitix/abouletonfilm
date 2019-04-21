@@ -1,0 +1,1 @@
+{"tmdb_id": 432930, "title": "Yoo Hoo, I'm A Bird", "original_title": "Yoo Hoo, I'm A Bird", "slug_title": "yoo-hoo-i-m-a-bird", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNCV7e46ZmHHrkpuGc475RhDudk.jpg", "actors": [], "comments": [], "recommandations_id": []}

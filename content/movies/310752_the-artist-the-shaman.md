@@ -1,0 +1,1 @@
+{"tmdb_id": 310752, "title": "The Artist & the Shaman", "original_title": "The Artist & the Shaman", "slug_title": "the-artist-the-shaman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

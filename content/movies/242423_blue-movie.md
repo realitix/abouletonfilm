@@ -1,0 +1,1 @@
+{"tmdb_id": 242423, "title": "Blue Movie", "original_title": "Blue Movie", "slug_title": "blue-movie", "date": "1969-06-14", "genre": "Drame / Romance", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g1IKwUohQiRQtQZgjqe4f9dutwR.jpg", "actors": ["Viva (Herself)", "Louis Waldon (Himself)"], "comments": [], "recommandations_id": []}

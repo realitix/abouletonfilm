@@ -1,0 +1,1 @@
+{"tmdb_id": 271451, "title": "The Lie Do Cup", "original_title": "The Lie Do Cup", "slug_title": "the-lie-do-cup", "date": "1928-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

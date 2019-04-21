@@ -1,0 +1,1 @@
+{"tmdb_id": 257114, "title": "Life is Love", "original_title": "Life is Love", "slug_title": "life-is-love", "date": "2014-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

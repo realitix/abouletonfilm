@@ -1,0 +1,1 @@
+{"tmdb_id": 485922, "title": "Foos - History of American Foosball", "original_title": "Foos - History of American Foosball", "slug_title": "foos-history-of-american-foosball", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

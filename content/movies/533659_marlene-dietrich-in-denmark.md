@@ -1,0 +1,1 @@
+{"tmdb_id": 533659, "title": "Marlene Dietrich in Denmark", "original_title": "Marlene Dietrich in Denmark", "slug_title": "marlene-dietrich-in-denmark", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marlene Dietrich (Interviewee)"], "comments": [], "recommandations_id": []}

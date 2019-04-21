@@ -1,0 +1,1 @@
+{"tmdb_id": 582322, "title": "\u05d3\u05d5\u05d3\u05d9 \u05d5\u05e8\u05e2\u05d9", "original_title": "\u05d3\u05d5\u05d3\u05d9 \u05d5\u05e8\u05e2\u05d9", "slug_title": "dvdy-vr-y", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

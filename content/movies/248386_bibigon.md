@@ -1,0 +1,1 @@
+{"tmdb_id": 248386, "title": "\u0411\u0438\u0431\u0438\u0433\u043e\u043d", "original_title": "\u0411\u0438\u0431\u0438\u0433\u043e\u043d", "slug_title": "bibigon", "date": "1981-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uGzZHoRfUvBs6AVHLjRIsruRXFY.jpg", "actors": [], "comments": [], "recommandations_id": []}

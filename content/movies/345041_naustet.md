@@ -1,0 +1,1 @@
+{"tmdb_id": 345041, "title": "Naustet", "original_title": "Naustet", "slug_title": "naustet", "date": "1997-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Krigsvoll (Ingrid)", "J\u00f8rgen Langhelle (Atle)", "Grete Nordr\u00e5 ()", "Bj\u00f8rn Willberg Andersen (Knut)"], "comments": [], "recommandations_id": []}

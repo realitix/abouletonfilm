@@ -1,0 +1,1 @@
+{"tmdb_id": 420225, "title": "A la source, la femme aim\u00e9e", "original_title": "A la source, la femme aim\u00e9e", "slug_title": "a-la-source-la-femme-aimee", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289408, "title": "Uppbrott", "original_title": "Uppbrott", "slug_title": "uppbrott", "date": "1948-06-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMgyqDdb6BGYLqxZF7XCw0mu68X.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 156696, "title": "Diogo Nogueira Ao Vivo em Cuba", "original_title": "Diogo Nogueira Ao Vivo em Cuba", "slug_title": "diogo-nogueira-ao-vivo-em-cuba", "date": "2012-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1HJvzUSoSrKB1wzGmIaxrnDZ2wm.jpg", "actors": [], "comments": [], "recommandations_id": []}

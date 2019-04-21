@@ -1,0 +1,1 @@
+{"tmdb_id": 512727, "title": "Aaron Hernandez Uncovered Part 1", "original_title": "Aaron Hernandez Uncovered Part 1", "slug_title": "aaron-hernandez-uncovered-part-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

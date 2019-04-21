@@ -1,0 +1,1 @@
+{"tmdb_id": 273753, "title": "Art Car: The Movie", "original_title": "Art Car: The Movie", "slug_title": "art-car-the-movie", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

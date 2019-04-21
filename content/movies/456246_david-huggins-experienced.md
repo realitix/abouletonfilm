@@ -1,0 +1,1 @@
+{"tmdb_id": 456246, "title": "David Huggins: Experienced", "original_title": "David Huggins: Experienced", "slug_title": "david-huggins-experienced", "date": "2008-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lj6SAEto9qqY82Tssw5vwPWLw8x.jpg", "actors": [], "comments": [], "recommandations_id": []}

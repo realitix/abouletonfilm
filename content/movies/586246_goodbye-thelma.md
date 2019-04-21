@@ -1,0 +1,1 @@
+{"tmdb_id": 586246, "title": "Goodbye Thelma", "original_title": "Goodbye Thelma", "slug_title": "goodbye-thelma", "date": "2019-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408881, "title": "Suicide Made", "original_title": "\uae40\uad11\uc11d", "slug_title": "suicide-made", "date": "2017-08-30", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6i9sEv9cKrghF4hKMmch3agVobp.jpg", "actors": [], "comments": [], "recommandations_id": []}

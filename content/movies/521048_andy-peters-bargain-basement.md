@@ -1,0 +1,1 @@
+{"tmdb_id": 521048, "title": "Andy Peters: Bargain Basement", "original_title": "Andy Peters: Bargain Basement", "slug_title": "andy-peters-bargain-basement", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

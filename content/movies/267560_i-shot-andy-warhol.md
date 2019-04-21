@@ -1,0 +1,1 @@
+{"tmdb_id": 267560, "title": "I Shot Andy Warhol", "original_title": "I Shot Andy Warhol", "slug_title": "i-shot-andy-warhol", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iAtWmIc6nh7J1BeFSh13wNaiWPD.jpg", "actors": [], "comments": [], "recommandations_id": []}

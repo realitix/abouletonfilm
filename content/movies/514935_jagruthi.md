@@ -1,0 +1,1 @@
+{"tmdb_id": 514935, "title": "Jagruthi", "original_title": "Jagruthi", "slug_title": "jagruthi", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

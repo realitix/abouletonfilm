@@ -1,0 +1,1 @@
+{"tmdb_id": 313420, "title": "Savage Earth: The Restless Planet", "original_title": "Savage Earth: The Restless Planet", "slug_title": "savage-earth-the-restless-planet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

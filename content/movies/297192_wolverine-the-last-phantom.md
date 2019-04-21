@@ -1,0 +1,1 @@
+{"tmdb_id": 297192, "title": "Wolverine: The Last Phantom", "original_title": "Wolverine: The Last Phantom", "slug_title": "wolverine-the-last-phantom", "date": "2009-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nR9Onb4rcCAzC8o9K5eHSMPCR5u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 228229, "title": "Leaving Baghdad", "original_title": "Al Raheel Min Baghdad", "slug_title": "leaving-baghdad", "date": "2010-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

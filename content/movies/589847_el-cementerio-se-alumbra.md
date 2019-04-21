@@ -1,0 +1,1 @@
+{"tmdb_id": 589847, "title": "El cementerio se alumbra", "original_title": "El cementerio se alumbra", "slug_title": "el-cementerio-se-alumbra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

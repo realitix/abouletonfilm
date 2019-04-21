@@ -1,0 +1,1 @@
+{"tmdb_id": 372181, "title": "Krakonos a spr\u00e1vce Markvart", "original_title": "Krakonos a spr\u00e1vce Markvart", "slug_title": "krakonos-a-spravce-markvart", "date": "1977-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

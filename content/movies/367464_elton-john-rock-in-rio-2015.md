@@ -1,0 +1,1 @@
+{"tmdb_id": 367464, "title": "Elton John - Rock in Rio 2015", "original_title": "Elton John - Rock in Rio 2015", "slug_title": "elton-john-rock-in-rio-2015", "date": "2015-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A48IvUhVJuKwO87xt9yiCIz097U.jpg", "actors": [], "comments": [], "recommandations_id": []}

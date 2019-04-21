@@ -1,0 +1,1 @@
+{"tmdb_id": 346970, "title": "Chicago Corner", "original_title": "Chicago Corner", "slug_title": "chicago-corner", "date": "2009-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dIfFvJB9ITkFXg0BqQMKqulG0r.jpg", "actors": [], "comments": [], "recommandations_id": []}

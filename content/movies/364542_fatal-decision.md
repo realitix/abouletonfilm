@@ -1,0 +1,1 @@
+{"tmdb_id": 364542, "title": "Fatal Decision", "original_title": "Shengsi jueze", "slug_title": "fatal-decision", "date": "2000-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxSFvWUT7v7VO5bIv7BFajJmy82.jpg", "actors": [], "comments": [], "recommandations_id": []}

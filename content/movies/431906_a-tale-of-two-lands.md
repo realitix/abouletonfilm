@@ -1,0 +1,1 @@
+{"tmdb_id": 431906, "title": "A Tale of Two Lands", "original_title": "A Tale of Two Lands", "slug_title": "a-tale-of-two-lands", "date": "2016-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Sworh (Himself)", "Bacchus Wilson (Himself)", "David Rothschild (Himself)"], "comments": [], "recommandations_id": []}

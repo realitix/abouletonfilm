@@ -1,0 +1,1 @@
+{"tmdb_id": 280632, "title": "Byggare Bob - Klassiker", "original_title": "Byggare Bob - Klassiker", "slug_title": "byggare-bob-klassiker", "date": "1988-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/em7cHYf1FxtbuXFKviiNvxhZdkY.jpg", "actors": [], "comments": [], "recommandations_id": []}

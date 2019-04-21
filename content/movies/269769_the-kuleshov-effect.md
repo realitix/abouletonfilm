@@ -1,0 +1,1 @@
+{"tmdb_id": 269769, "title": "The Kuleshov Effect", "original_title": "The Kuleshov Effect", "slug_title": "the-kuleshov-effect", "date": "1969-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lev Kuleshov (Himself)"], "comments": [], "recommandations_id": []}

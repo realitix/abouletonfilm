@@ -1,0 +1,1 @@
+{"tmdb_id": 503294, "title": "Opre Roma: Gypsies in Canada", "original_title": "Opre Roma: Gypsies in Canada", "slug_title": "opre-roma-gypsies-in-canada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Doug Abrahams (Voice-Over (voice))"], "comments": [], "recommandations_id": []}

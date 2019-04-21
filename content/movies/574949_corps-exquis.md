@@ -1,0 +1,1 @@
+{"tmdb_id": 574949, "title": "Corps Exquis", "original_title": "Corps Exquis", "slug_title": "corps-exquis", "date": "2018-10-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2TNrkAZslQTAxt6D60IbcRTMH6C.jpg", "actors": [], "comments": [], "recommandations_id": []}

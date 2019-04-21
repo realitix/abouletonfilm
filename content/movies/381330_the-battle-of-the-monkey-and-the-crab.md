@@ -1,0 +1,1 @@
+{"tmdb_id": 381330, "title": "The Battle of the Monkey and the Crab", "original_title": "Saru to Kani no Gassen", "slug_title": "the-battle-of-the-monkey-and-the-crab", "date": "1917-05-20", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

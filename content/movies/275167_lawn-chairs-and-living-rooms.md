@@ -1,0 +1,1 @@
+{"tmdb_id": 275167, "title": "Lawn Chairs and Living Rooms", "original_title": "Lawn Chairs and Living Rooms", "slug_title": "lawn-chairs-and-living-rooms", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

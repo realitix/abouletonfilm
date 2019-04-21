@@ -1,0 +1,1 @@
+{"tmdb_id": 427445, "title": "Daddy Made Me a Mommy", "original_title": "Daddy Made Me a Mommy", "slug_title": "daddy-made-me-a-mommy", "date": "2015-06-05", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ftPRtmozBqN4zUvi6vdvNimpcr.jpg", "actors": ["Sierra Simmons ()"], "comments": [], "recommandations_id": []}

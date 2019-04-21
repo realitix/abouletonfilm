@@ -1,0 +1,1 @@
+{"tmdb_id": 414836, "title": "Lasiurus", "original_title": "Lasiurus", "slug_title": "lasiurus", "date": "2016-04-12", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q7DTopePf4UfbqVhbmfLR8ktqRf.jpg", "actors": [], "comments": [], "recommandations_id": []}

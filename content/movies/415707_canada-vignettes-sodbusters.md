@@ -1,0 +1,1 @@
+{"tmdb_id": 415707, "title": "Canada Vignettes: Sodbusters", "original_title": "Canada Vignettes: Sodbusters", "slug_title": "canada-vignettes-sodbusters", "date": "1978-09-22", "genre": "Drame / Animation / Western", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

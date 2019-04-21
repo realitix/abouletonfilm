@@ -1,0 +1,1 @@
+{"tmdb_id": 589263, "title": "Elizabeth Rex", "original_title": "Elizabeth Rex", "slug_title": "elizabeth-rex", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dianne D'Aquila (Elizabeth Rex)", "Brent Carver (Ned Lowenscroft)", "Peter Hutt (Will Shakespeare)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425938, "title": "I Am Nightmare", "original_title": "I Am Nightmare", "slug_title": "i-am-nightmare", "date": "2014-11-29", "genre": "Animation / Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vG1yVqG7JCZtfmO8lzaHYmPdi6t.jpg", "actors": [], "comments": [], "recommandations_id": []}

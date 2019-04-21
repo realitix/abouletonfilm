@@ -1,0 +1,1 @@
+{"tmdb_id": 357780, "title": "Kino Pulveriso", "original_title": "Kino Pulveriso", "slug_title": "kino-pulveriso", "date": "1993-01-02", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/riLhqNQfbA8FbbVVfSsyH8I9qvo.jpg", "actors": [], "comments": [], "recommandations_id": []}

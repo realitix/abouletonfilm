@@ -1,0 +1,1 @@
+{"tmdb_id": 561285, "title": "Talk Louder", "original_title": "Govori glasneje", "slug_title": "talk-louder", "date": "2018-11-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4O16aWsV6LYEznSr87F0WRMBeGO.jpg", "actors": ["Jernej \u0160ugman (Himself)"], "comments": [], "recommandations_id": []}

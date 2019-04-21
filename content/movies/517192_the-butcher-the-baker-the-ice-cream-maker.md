@@ -1,0 +1,1 @@
+{"tmdb_id": 517192, "title": "The Butcher, the Baker, the Ice Cream Maker", "original_title": "The Butcher, the Baker, the Ice Cream Maker", "slug_title": "the-butcher-the-baker-the-ice-cream-maker", "date": "1955-06-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 331329, "title": "Kindred Moon Paranormal Sallie's House", "original_title": "Kindred Moon Paranormal Sallie's House", "slug_title": "kindred-moon-paranormal-sallie-s-house", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520279, "title": "Model Worker", "original_title": "Model Worker", "slug_title": "model-worker", "date": "2014-03-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

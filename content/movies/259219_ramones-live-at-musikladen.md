@@ -1,0 +1,1 @@
+{"tmdb_id": 259219, "title": "Ramones: Live at Musikladen", "original_title": "Ramones: Live at Musikladen", "slug_title": "ramones-live-at-musikladen", "date": "1978-09-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uelOOWxm3nwLzt02PN8VPCF0Lp.jpg", "actors": [], "comments": [], "recommandations_id": []}

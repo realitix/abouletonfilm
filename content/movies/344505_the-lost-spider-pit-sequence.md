@@ -1,0 +1,1 @@
+{"tmdb_id": 344505, "title": "The Lost Spider Pit Sequence", "original_title": "The Lost Spider Pit Sequence", "slug_title": "the-lost-spider-pit-sequence", "date": "2005-11-22", "genre": "Thriller / Horreur / Science-Fiction", "score": "7.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

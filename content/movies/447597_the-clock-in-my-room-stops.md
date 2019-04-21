@@ -1,0 +1,1 @@
+{"tmdb_id": 447597, "title": "The clock in my room stops", "original_title": "The clock in my room stops", "slug_title": "the-clock-in-my-room-stops", "date": "2016-12-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jiechan Zhang ()", "India Stewart (Voiceover)"], "comments": [], "recommandations_id": []}

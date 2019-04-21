@@ -1,0 +1,1 @@
+{"tmdb_id": 228130, "title": "It's Black Entertainment", "original_title": "It's Black Entertainment", "slug_title": "it-s-black-entertainment", "date": "2002-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1sjHrusGVFhJ53QDq5U4EoQ1gB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 479745, "title": "Cast Iron Can't Be Welded", "original_title": "Potyster Sweis Nie", "slug_title": "cast-iron-can-t-be-welded", "date": "2017-08-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

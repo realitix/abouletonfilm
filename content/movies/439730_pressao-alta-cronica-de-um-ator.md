@@ -1,0 +1,1 @@
+{"tmdb_id": 439730, "title": "Press\u00e3o Alta - Cr\u00f4nica de um Ator", "original_title": "Press\u00e3o Alta - Cr\u00f4nica de um Ator", "slug_title": "pressao-alta-cronica-de-um-ator", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raul Gazolla ()"], "comments": [], "recommandations_id": []}

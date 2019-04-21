@@ -1,0 +1,1 @@
+{"tmdb_id": 387296, "title": "Visiting Vera Cruz", "original_title": "Visiting Vera Cruz", "slug_title": "visiting-vera-cruz", "date": "1946-03-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

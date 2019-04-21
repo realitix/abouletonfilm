@@ -1,0 +1,1 @@
+{"tmdb_id": 575787, "title": "Una Banda de Chicas", "original_title": "Una Banda de Chicas", "slug_title": "una-banda-de-chicas", "date": "2019-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMAlMHOI5x1lfU9B4hP2Io7EBXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

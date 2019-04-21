@@ -1,0 +1,1 @@
+{"tmdb_id": 553808, "title": "Antal Imre - Kabar\u00e9tr\u00e9f\u00e1k", "original_title": "Antal Imre - Kabar\u00e9tr\u00e9f\u00e1k", "slug_title": "antal-imre-kabaretrefak", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Imre Antal ()"], "comments": [], "recommandations_id": []}

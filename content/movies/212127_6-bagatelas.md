@@ -1,0 +1,1 @@
+{"tmdb_id": 212127, "title": "6 Bagatelas", "original_title": "6 Bagatelas", "slug_title": "6-bagatelas", "date": "2001-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rk7yfHFAoq4m243hsRjyvduOca.jpg", "actors": ["Jean-Marie Straub ()", "Dani\u00e8le Huillet ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 260394, "title": "Hermes Bird", "original_title": "Hermes Bird", "slug_title": "hermes-bird", "date": "1979-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e7gwFsOEqY0ss4FYfh0qddaXhiU.jpg", "actors": ["James Broughton (Narration)"], "comments": [], "recommandations_id": []}

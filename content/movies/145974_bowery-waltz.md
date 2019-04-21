@@ -1,0 +1,1 @@
+{"tmdb_id": 145974, "title": "Bowery Waltz", "original_title": "Bowery Waltz", "slug_title": "bowery-waltz", "date": "1897-08-31", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwVENtkc3gUo8q6xuJfzCxzhORV.jpg", "actors": ["James T. Kelley ()", "Dorothy Kent ()"], "comments": [], "recommandations_id": []}

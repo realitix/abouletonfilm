@@ -1,0 +1,1 @@
+{"tmdb_id": 59525, "title": "Crime & Punishment", "original_title": "Prestuplenie i nakazanie", "slug_title": "crime-punishment", "date": "2007-12-03", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjcXna2aHmUyD0SiZw8ISM3yUt4.jpg", "actors": [], "comments": [], "recommandations_id": []}

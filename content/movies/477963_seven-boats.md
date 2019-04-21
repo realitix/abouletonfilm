@@ -1,0 +1,1 @@
+{"tmdb_id": 477963, "title": "Seven Boats", "original_title": "Seven Boats", "slug_title": "seven-boats", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

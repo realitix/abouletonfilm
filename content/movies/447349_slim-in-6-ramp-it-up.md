@@ -1,0 +1,1 @@
+{"tmdb_id": 447349, "title": "Slim in 6: Ramp It Up!", "original_title": "Slim in 6: Ramp It Up!", "slug_title": "slim-in-6-ramp-it-up", "date": "2010-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u1blj6PvfXZIhJl3Ip6WjvWIIF3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 86009, "title": "Gatti vs. Ward I", "original_title": "Gatti vs. Ward I", "slug_title": "gatti-vs-ward-i", "date": "2002-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v8uPTKj8zeYeVQhjrfHeNQPujBj.jpg", "actors": [], "comments": [], "recommandations_id": []}

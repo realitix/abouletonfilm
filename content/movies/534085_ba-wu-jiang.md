@@ -1,0 +1,1 @@
+{"tmdb_id": 534085, "title": "\u516b\u6b66\u5c06", "original_title": "\u516b\u6b66\u5c06", "slug_title": "ba-wu-jiang", "date": "2017-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oOzvBBvayF3uqNNeSWd8gG8Trkc.jpg", "actors": [], "comments": [], "recommandations_id": []}

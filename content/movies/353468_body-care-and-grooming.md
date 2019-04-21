@@ -1,0 +1,1 @@
+{"tmdb_id": 353468, "title": "Body Care and Grooming", "original_title": "Body Care and Grooming", "slug_title": "body-care-and-grooming", "date": "1947-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7PJSDUHybWE2jqLroEenHeokE43.jpg", "actors": [], "comments": [], "recommandations_id": []}

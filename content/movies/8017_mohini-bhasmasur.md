@@ -1,0 +1,1 @@
+{"tmdb_id": 8017, "title": "Mohini Bhasmasur", "original_title": "Mohini Bhasmasur", "slug_title": "mohini-bhasmasur", "date": "1913-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Durgabai (N.A.)", "Kamala (N.A.)"], "comments": [], "recommandations_id": []}

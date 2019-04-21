@@ -1,0 +1,1 @@
+{"tmdb_id": 519268, "title": "Egypte, cit\u00e9 des morts", "original_title": "Egypte, cit\u00e9 des morts", "slug_title": "egypte-cite-des-morts", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

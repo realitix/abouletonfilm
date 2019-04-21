@@ -1,0 +1,1 @@
+{"tmdb_id": 541802, "title": "What Troubles the Peace at Brandenburg?", "original_title": "What Troubles the Peace at Brandenburg?", "slug_title": "what-troubles-the-peace-at-brandenburg", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

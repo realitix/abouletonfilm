@@ -1,0 +1,1 @@
+{"tmdb_id": 272534, "title": "Jake Lassiter: Justice on the Bayou", "original_title": "Jake Lassiter: Justice on the Bayou", "slug_title": "jake-lassiter-justice-on-the-bayou", "date": "1995-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Tasker (Nurse Ingram)"], "comments": [], "recommandations_id": []}

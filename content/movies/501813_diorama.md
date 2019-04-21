@@ -1,0 +1,1 @@
+{"tmdb_id": 501813, "title": "Diorama", "original_title": "Diorama", "slug_title": "diorama", "date": "2017-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

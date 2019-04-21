@@ -1,0 +1,1 @@
+{"tmdb_id": 254796, "title": "Bellringer", "original_title": "Bellringer", "slug_title": "bellringer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

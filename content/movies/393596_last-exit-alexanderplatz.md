@@ -1,0 +1,1 @@
+{"tmdb_id": 393596, "title": "Last Exit Alexanderplatz", "original_title": "Last Exit Alexanderplatz", "slug_title": "last-exit-alexanderplatz", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

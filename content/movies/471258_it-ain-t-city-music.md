@@ -1,0 +1,1 @@
+{"tmdb_id": 471258, "title": "It Ain't City Music", "original_title": "It Ain't City Music", "slug_title": "it-ain-t-city-music", "date": "1972-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omUTCT5biBP2yFC6KiQMCWlRwjQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 340158, "title": "Nikita Khrushchev: Vzglyad Iz-Za Bugra", "original_title": "Nikita Khrushchev: Vzglyad Iz-Za Bugra", "slug_title": "nikita-khrushchev-vzglyad-iz-za-bugra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

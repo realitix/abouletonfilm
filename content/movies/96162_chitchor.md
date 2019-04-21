@@ -1,0 +1,1 @@
+{"tmdb_id": 96162, "title": "Chitchor", "original_title": "Chitchor", "slug_title": "chitchor", "date": "1976-01-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yr8OcQBjomrHsOI0QnBIYceikNw.jpg", "actors": ["Amol Palekar (Vinod)"], "comments": [], "recommandations_id": []}

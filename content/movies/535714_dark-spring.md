@@ -1,0 +1,1 @@
+{"tmdb_id": 535714, "title": "Dark Spring", "original_title": "Dark Spring", "slug_title": "dark-spring", "date": "1970-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

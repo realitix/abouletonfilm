@@ -1,0 +1,1 @@
+{"tmdb_id": 328818, "title": "U.N. Forces Cross The 38th Parallel", "original_title": "U.N. Forces Cross The 38th Parallel", "slug_title": "u-n-forces-cross-the-38th-parallel", "date": "1951-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

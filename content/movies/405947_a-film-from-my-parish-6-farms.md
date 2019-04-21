@@ -1,0 +1,1 @@
+{"tmdb_id": 405947, "title": "A Film from My Parish: 6 Farms", "original_title": "A Film from My Parish: 6 Farms", "slug_title": "a-film-from-my-parish-6-farms", "date": "2010-10-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Quirke (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312330, "title": "Brazen Abbot: A Decade of Brazen Abbot Live", "original_title": "Brazen Abbot: A Decade of Brazen Abbot Live", "slug_title": "brazen-abbot-a-decade-of-brazen-abbot-live", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

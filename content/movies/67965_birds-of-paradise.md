@@ -1,0 +1,1 @@
+{"tmdb_id": 67965, "title": "Birds of Paradise", "original_title": "Birds of Paradise", "slug_title": "birds-of-paradise", "date": "2010-01-06", "genre": "Documentaire", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8kaxQq2ieGlS6iBC0MHk1KPC3C.jpg", "actors": [], "comments": [], "recommandations_id": [28030]}

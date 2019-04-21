@@ -1,0 +1,1 @@
+{"tmdb_id": 531088, "title": "Grandmother's Lamp", "original_title": "La lampada della nonna", "slug_title": "grandmother-s-lamp", "date": "1913-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

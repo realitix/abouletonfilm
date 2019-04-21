@@ -1,0 +1,1 @@
+{"tmdb_id": 276867, "title": "Los demonios", "original_title": "Los demonios", "slug_title": "los-demonios", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernando Tielbe ()", "Javier B\u00f3dalo ()", "Adri\u00e1n Viador ()"], "comments": [], "recommandations_id": []}

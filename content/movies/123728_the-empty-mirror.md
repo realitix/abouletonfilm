@@ -1,0 +1,1 @@
+{"tmdb_id": 123728, "title": "The Empty Mirror", "original_title": "The Empty Mirror", "slug_title": "the-empty-mirror", "date": "1996-04-09", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AuZeZsLUO5AaeByvhse3CH4qG7V.jpg", "actors": [], "comments": [], "recommandations_id": []}

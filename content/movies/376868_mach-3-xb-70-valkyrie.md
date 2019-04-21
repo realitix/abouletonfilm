@@ -1,0 +1,1 @@
+{"tmdb_id": 376868, "title": "MACH 3 XB-70 Valkyrie", "original_title": "MACH 3 XB-70 Valkyrie", "slug_title": "mach-3-xb-70-valkyrie", "date": "2005-01-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DlvPtqYjut3Ye6OXv2CeYjhGwu.jpg", "actors": [], "comments": [], "recommandations_id": []}

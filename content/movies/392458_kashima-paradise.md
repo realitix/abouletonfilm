@@ -1,0 +1,1 @@
+{"tmdb_id": 392458, "title": "Kashima Paradise", "original_title": "Kashima Paradise", "slug_title": "kashima-paradise", "date": "1973-04-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnw3Rkdk5FjipcMKUDUl0NWXoAf.jpg", "actors": [], "comments": [], "recommandations_id": []}

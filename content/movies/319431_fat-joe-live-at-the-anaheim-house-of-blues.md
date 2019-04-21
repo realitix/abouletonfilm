@@ -1,0 +1,1 @@
+{"tmdb_id": 319431, "title": "Fat Joe: Live at the Anaheim House of Blues", "original_title": "Fat Joe: Live at the Anaheim House of Blues", "slug_title": "fat-joe-live-at-the-anaheim-house-of-blues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

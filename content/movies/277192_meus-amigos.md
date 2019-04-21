@@ -1,0 +1,1 @@
+{"tmdb_id": 277192, "title": "Meus Amigos", "original_title": "Meus Amigos", "slug_title": "meus-amigos", "date": "1974-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAPMJJBvhERF9oU9DjC5MBDAPyG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579753, "title": "Civil War", "original_title": "\u062d\u0631\u0628 \u0623\u0647\u0644\u064a\u0629", "slug_title": "civil-war", "date": "2002-02-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPQcwueOfcnCLjqUiQS8LgCOwsy.jpg", "actors": [], "comments": [], "recommandations_id": []}

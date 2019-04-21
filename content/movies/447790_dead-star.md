@@ -1,0 +1,1 @@
+{"tmdb_id": 447790, "title": "Dead Star", "original_title": "Vyhasl\u00e1 hv\u011bzda", "slug_title": "dead-star", "date": "1974-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

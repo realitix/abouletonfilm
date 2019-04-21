@@ -1,0 +1,1 @@
+{"tmdb_id": 386366, "title": "Latajace wlosy", "original_title": "Latajace wlosy", "slug_title": "latajace-wlosy", "date": "1984-01-01", "genre": "Romance / Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

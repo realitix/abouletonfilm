@@ -1,0 +1,1 @@
+{"tmdb_id": 429414, "title": "Sovereign", "original_title": "Sovereign", "slug_title": "sovereign", "date": "", "genre": "Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mahershala Ali ()", "Joseph Gordon-Levitt ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367681, "title": "Letter to my killer", "original_title": "Letter to my killer", "slug_title": "letter-to-my-killer", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

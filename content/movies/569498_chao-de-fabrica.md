@@ -1,0 +1,1 @@
+{"tmdb_id": 569498, "title": "Ch\u00e3o de F\u00e1brica", "original_title": "Ch\u00e3o de F\u00e1brica", "slug_title": "chao-de-fabrica", "date": "2018-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4cZRCn7DRZ0tA3JWs9SJBQx1xB.jpg", "actors": [], "comments": [], "recommandations_id": []}

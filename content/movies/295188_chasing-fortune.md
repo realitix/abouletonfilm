@@ -1,0 +1,1 @@
+{"tmdb_id": 295188, "title": "Chasing Fortune", "original_title": "Chasing Fortune", "slug_title": "chasing-fortune", "date": "2013-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysYsYtTyBY8YPGJ1lRl4tDM7pU.jpg", "actors": ["J.D. Fortune (Himself)"], "comments": [], "recommandations_id": []}

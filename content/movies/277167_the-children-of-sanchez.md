@@ -1,0 +1,1 @@
+{"tmdb_id": 277167, "title": "The Children of Sanchez", "original_title": "The Children of Sanchez", "slug_title": "the-children-of-sanchez", "date": "1978-06-16", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lnOxu2iy8JNDSm4u4V8aL49pc88.jpg", "actors": [], "comments": [], "recommandations_id": []}

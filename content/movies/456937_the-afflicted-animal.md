@@ -1,0 +1,1 @@
+{"tmdb_id": 456937, "title": "The Afflicted Animal", "original_title": "Giksa\u0161uvvon Ealli", "slug_title": "the-afflicted-animal", "date": "2015-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qpCHkJwjXlfALoOjWl7ybkX4iND.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 193071, "title": "The Team", "original_title": "The Team", "slug_title": "the-team", "date": "2005-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37j8rQkdS9Iv9xHGPGOJg1UYEHF.jpg", "actors": ["Gernot Koenig (the team guide)"], "comments": [], "recommandations_id": []}

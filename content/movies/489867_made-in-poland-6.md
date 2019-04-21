@@ -1,0 +1,1 @@
+{"tmdb_id": 489867, "title": "Made in Poland 6", "original_title": "Made in Poland 6", "slug_title": "made-in-poland-6", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

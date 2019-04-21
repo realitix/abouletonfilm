@@ -1,0 +1,1 @@
+{"tmdb_id": 466716, "title": "Love It Like a Fool", "original_title": "Love It Like a Fool", "slug_title": "love-it-like-a-fool", "date": "1977-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hbhN4omkk44OPaXXo1v0W8vxyj5.jpg", "actors": ["Malvina Reynolds (herself)"], "comments": [], "recommandations_id": []}

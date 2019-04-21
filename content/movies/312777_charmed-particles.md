@@ -1,0 +1,1 @@
+{"tmdb_id": 312777, "title": "Charmed Particles", "original_title": "Charmed Particles", "slug_title": "charmed-particles", "date": "1979-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBtkbWFMFyToRmBRIb73KMvGeMF.jpg", "actors": [], "comments": [], "recommandations_id": []}

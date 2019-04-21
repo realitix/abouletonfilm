@@ -1,0 +1,1 @@
+{"tmdb_id": 319570, "title": "Shehzada", "original_title": "Shehzada", "slug_title": "shehzada", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajesh Khanna ()", "Rakhee Gulzar ()", "Veena ()", "Madan Puri ()"], "comments": [], "recommandations_id": []}

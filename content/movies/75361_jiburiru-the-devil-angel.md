@@ -1,0 +1,1 @@
+{"tmdb_id": 75361, "title": "Jiburiru - The Devil Angel", "original_title": "Jiburiru - The Devil Angel", "slug_title": "jiburiru-the-devil-angel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

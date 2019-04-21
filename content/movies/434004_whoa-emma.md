@@ -1,0 +1,1 @@
+{"tmdb_id": 434004, "title": "Whoa, Emma!", "original_title": "Whoa, Emma!", "slug_title": "whoa-emma", "date": "1926-03-14", "genre": "Western / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmie Adams ()", "Molly Malone ()", "Hank Mann ()", "Trixie the Horse (Emma)"], "comments": [], "recommandations_id": []}

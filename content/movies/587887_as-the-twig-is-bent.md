@@ -1,0 +1,1 @@
+{"tmdb_id": 587887, "title": "As the Twig Is Bent", "original_title": "As the Twig Is Bent", "slug_title": "as-the-twig-is-bent", "date": "1944-03-13", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

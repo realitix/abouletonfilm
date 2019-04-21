@@ -1,0 +1,1 @@
+{"tmdb_id": 317614, "title": "Safety Spin", "original_title": "Safety Spin", "slug_title": "safety-spin", "date": "1953-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

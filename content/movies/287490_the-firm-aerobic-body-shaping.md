@@ -1,0 +1,1 @@
+{"tmdb_id": 287490, "title": "The Firm - Aerobic Body Shaping", "original_title": "The Firm - Aerobic Body Shaping", "slug_title": "the-firm-aerobic-body-shaping", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOmrWgaalSLZE5PveI55MMSS4B8.jpg", "actors": [], "comments": [], "recommandations_id": []}

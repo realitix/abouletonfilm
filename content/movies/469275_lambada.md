@@ -1,0 +1,1 @@
+{"tmdb_id": 469275, "title": "Lambada", "original_title": "Lambada", "slug_title": "lambada", "date": "1990-03-23", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yATRIzwNYOYKzrEWO099txqnk7M.jpg", "actors": ["Vya Negromonte (Regina)"], "comments": [], "recommandations_id": []}

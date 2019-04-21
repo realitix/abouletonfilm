@@ -1,0 +1,1 @@
+{"tmdb_id": 487663, "title": "Why We Men Love Technology That Much", "original_title": "Why We Men Love Technology That Much", "slug_title": "why-we-men-love-technology-that-much", "date": "1985-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

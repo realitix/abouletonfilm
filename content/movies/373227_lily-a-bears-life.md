@@ -1,0 +1,1 @@
+{"tmdb_id": 373227, "title": "Lily - A Bears life", "original_title": "Lily - A Bears life", "slug_title": "lily-a-bears-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

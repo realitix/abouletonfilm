@@ -1,0 +1,1 @@
+{"tmdb_id": 408454, "title": "Hands of Justice", "original_title": "Hands of Justice", "slug_title": "hands-of-justice", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

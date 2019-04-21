@@ -1,0 +1,1 @@
+{"tmdb_id": 489276, "title": "Good Hot Stuff", "original_title": "Good Hot Stuff", "slug_title": "good-hot-stuff", "date": "1975-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArcU1SGxpiGjaIVorlRli4hCcer.jpg", "actors": ["Jack Deveau (Himself)", "Peter de Rome (Himself)"], "comments": [], "recommandations_id": []}

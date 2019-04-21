@@ -1,0 +1,1 @@
+{"tmdb_id": 38253, "title": "City of Gold", "original_title": "City of Gold", "slug_title": "city-of-gold", "date": "2010-04-23", "genre": "Drame / Crime", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEwZzZlNjRjarpugxLSTdcEPv9o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584638, "title": "Sikreto Ni Kuya", "original_title": "Sikreto Ni Kuya", "slug_title": "sikreto-ni-kuya", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6nzPEhWrMjFhCuslCspMyAME7qT.jpg", "actors": [], "comments": [], "recommandations_id": []}

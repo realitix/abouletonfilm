@@ -1,0 +1,1 @@
+{"tmdb_id": 508103, "title": "The Panda Candy", "original_title": "The Panda Candy", "slug_title": "the-panda-candy", "date": "2009-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fF3OdovKGxFjeLkBziT4jnHBeEb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 357781, "title": "B-B-B Bom and Life Storm", "original_title": "B-B-B Bom and Life Storm", "slug_title": "b-b-b-bom-and-life-storm", "date": "1990-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9uQxaPlH100awFQnGKs7WLVgSxR.jpg", "actors": [], "comments": [], "recommandations_id": []}

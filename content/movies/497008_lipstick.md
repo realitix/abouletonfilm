@@ -1,0 +1,1 @@
+{"tmdb_id": 497008, "title": "Lipstick", "original_title": "Lipstick", "slug_title": "lipstick", "date": "2013-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ellie Dadd ()", "Rosalie Jorda ()", "Rosalie Jorda ()"], "comments": [], "recommandations_id": []}

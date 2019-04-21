@@ -1,0 +1,1 @@
+{"tmdb_id": 236110, "title": "His Bitter Half", "original_title": "His Bitter Half", "slug_title": "his-bitter-half", "date": "1950-05-19", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csUuy1ViypvsSZsFC30gdRPeyTb.jpg", "actors": [], "comments": [], "recommandations_id": []}

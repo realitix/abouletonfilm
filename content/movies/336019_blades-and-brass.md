@@ -1,0 +1,1 @@
+{"tmdb_id": 336019, "title": "Blades and Brass", "original_title": "Blades and Brass", "slug_title": "blades-and-brass", "date": "1967-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPjem2Hcl7LmW7Yu4XhzxPhUNqb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504877, "title": "The Summer Ski Movie", "original_title": "The Summer Ski Movie", "slug_title": "the-summer-ski-movie", "date": "", "genre": "Documentaire / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iv8ZZsL0FP3MmxnMaVxpwFpFv9b.jpg", "actors": [], "comments": [], "recommandations_id": []}

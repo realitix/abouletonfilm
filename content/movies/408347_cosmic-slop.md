@@ -1,0 +1,1 @@
+{"tmdb_id": 408347, "title": "Cosmic Slop", "original_title": "Cosmic Slop", "slug_title": "cosmic-slop", "date": "1994-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mxGqOo526raSPpCPfczGTeCISa2.jpg", "actors": ["George Clinton ()"], "comments": [], "recommandations_id": []}

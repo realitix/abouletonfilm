@@ -1,0 +1,1 @@
+{"tmdb_id": 581152, "title": "Weak Bodies and Strong Wills", "original_title": "Weak Bodies and Strong Wills", "slug_title": "weak-bodies-and-strong-wills", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

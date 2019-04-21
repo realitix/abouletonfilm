@@ -1,0 +1,1 @@
+{"tmdb_id": 426248, "title": "Quelques activities de Christian B.", "original_title": "Quelques activities de Christian B.", "slug_title": "quelques-activities-de-christian-b", "date": "1970-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

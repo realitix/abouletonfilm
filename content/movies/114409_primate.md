@@ -1,0 +1,1 @@
+{"tmdb_id": 114409, "title": "Primate", "original_title": "Primate", "slug_title": "primate", "date": "1974-06-03", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Mmc1QfAoA7CFfb7dGWIH0a7905.jpg", "actors": [], "comments": [], "recommandations_id": []}

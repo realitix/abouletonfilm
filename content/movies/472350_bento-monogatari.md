@@ -1,0 +1,1 @@
+{"tmdb_id": 472350, "title": "Bento Monogatari", "original_title": "Bento Monogatari", "slug_title": "bento-monogatari", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bea Duchateau (Yvonne)", "Dirk Lavryssen (Frank)", "Bram van Outryve (Gunther)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296445, "title": "Chainsaw Richard", "original_title": "Chainsaw Richard", "slug_title": "chainsaw-richard", "date": "2014-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

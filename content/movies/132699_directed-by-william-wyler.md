@@ -1,0 +1,1 @@
+{"tmdb_id": 132699, "title": "Directed by William Wyler", "original_title": "Directed by William Wyler", "slug_title": "directed-by-william-wyler", "date": "1986-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFf55gUzpEOgU2Vcyyndi0dnFgB.jpg", "actors": [], "comments": [], "recommandations_id": []}

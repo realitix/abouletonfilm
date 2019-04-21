@@ -1,0 +1,1 @@
+{"tmdb_id": 554582, "title": "El Hombre de Negro", "original_title": "El Hombre de Negro", "slug_title": "el-hombre-de-negro", "date": "2011-03-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/otoP1PvGKmInNpOQkCkxTYDn42g.jpg", "actors": [], "comments": [], "recommandations_id": []}

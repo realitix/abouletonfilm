@@ -1,0 +1,1 @@
+{"tmdb_id": 258616, "title": "2002: A Sex Odyssey", "original_title": "2002: A Sex Odyssey", "slug_title": "2002-a-sex-odyssey", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

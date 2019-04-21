@@ -1,0 +1,1 @@
+{"tmdb_id": 46566, "title": "The Shoot", "original_title": "The Shoot", "slug_title": "the-shoot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Addison Meynell (Himself)", "Alex Gilbert (Himself)", "Brigham Meynell (Himself)"], "comments": [], "recommandations_id": []}

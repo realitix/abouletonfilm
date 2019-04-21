@@ -1,0 +1,1 @@
+{"tmdb_id": 443679, "title": "L'Air du Temps", "original_title": "\u6642\u4ee3\u4e4b\u98a8", "slug_title": "l-air-du-temps", "date": "1990-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ida Chan ()", "Yang Ching-huang ()", "Chang Kuo-Chu ()", "Ya-yun Cheng ()"], "comments": [], "recommandations_id": []}

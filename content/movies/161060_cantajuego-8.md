@@ -1,0 +1,1 @@
+{"tmdb_id": 161060, "title": "CantaJuego 8", "original_title": "CantaJuego 8", "slug_title": "cantajuego-8", "date": "2012-09-17", "genre": "Musique / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uP1a6uJjgGOqp1i71F39o9JiVT.jpg", "actors": [], "comments": [], "recommandations_id": []}

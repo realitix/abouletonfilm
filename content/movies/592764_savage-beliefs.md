@@ -1,0 +1,1 @@
+{"tmdb_id": 592764, "title": "Savage Beliefs", "original_title": "Savage Beliefs", "slug_title": "savage-beliefs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Morrison (Whitaker)"], "comments": [], "recommandations_id": []}

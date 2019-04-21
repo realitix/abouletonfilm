@@ -1,0 +1,1 @@
+{"tmdb_id": 34999, "title": "Crude Impact", "original_title": "Crude Impact", "slug_title": "crude-impact", "date": "2006-11-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/KLjtnMQocEVfoUvb4Uq5NV2FwZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

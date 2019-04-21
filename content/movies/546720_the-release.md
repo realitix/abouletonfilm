@@ -1,0 +1,1 @@
+{"tmdb_id": 546720, "title": "The Release", "original_title": "The Release", "slug_title": "the-release", "date": "2016-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephen Kim (Himself)"], "comments": [], "recommandations_id": []}

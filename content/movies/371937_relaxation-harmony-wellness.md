@@ -1,0 +1,1 @@
+{"tmdb_id": 371937, "title": "Relaxation - Harmony & Wellness", "original_title": "Relaxation - Harmony & Wellness", "slug_title": "relaxation-harmony-wellness", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pazzfkKC3Kymi5kDavE9V7AUHk3.jpg", "actors": [], "comments": [], "recommandations_id": []}

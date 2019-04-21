@@ -1,0 +1,1 @@
+{"tmdb_id": 503434, "title": "AC/DC: Live at the Apollo Glasgow, Scotland 1978", "original_title": "AC/DC: Live at the Apollo Glasgow, Scotland 1978", "slug_title": "ac-dc-live-at-the-apollo-glasgow-scotland-1978", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 134013, "title": "Father Is a Dog", "original_title": "\uc544\ubc84\uc9c0\ub294 \uac1c\ub2e4", "slug_title": "father-is-a-dog", "date": "2012-04-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/waiLEFE2C06ICbhZgdVv7KejlwV.jpg", "actors": [], "comments": [], "recommandations_id": []}

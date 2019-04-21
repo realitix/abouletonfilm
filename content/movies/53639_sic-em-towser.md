@@ -1,0 +1,1 @@
+{"tmdb_id": 53639, "title": "Sic 'Em, Towser", "original_title": "Sic 'Em, Towser", "slug_title": "sic-em-towser", "date": "1918-06-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Lloyd ()", "'Snub' Pollard ()", "Bebe Daniels ()"], "comments": [], "recommandations_id": []}

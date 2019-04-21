@@ -1,0 +1,1 @@
+{"tmdb_id": 435916, "title": "Are you good ?", "original_title": "Bagunnara", "slug_title": "are-you-good", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vadde Naveen ()", "Priya Gill ()", "Srihari ()", "Giri Babu ()"], "comments": [], "recommandations_id": []}

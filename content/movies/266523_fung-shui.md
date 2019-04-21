@@ -1,0 +1,1 @@
+{"tmdb_id": 266523, "title": "Fung Shui", "original_title": "Fung Shui", "slug_title": "fung-shui", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fmV8Qw2kHWbebhG7sr2XCYqapOi.jpg", "actors": [], "comments": [], "recommandations_id": []}

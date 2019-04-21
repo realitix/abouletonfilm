@@ -1,0 +1,1 @@
+{"tmdb_id": 65520, "title": "Shot at The Empire", "original_title": "Shot at The Empire", "slug_title": "shot-at-the-empire", "date": "2004-01-01", "genre": "Com\u00e9die", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6b2zpZQgt0cn666sdt4xpzr9rQi.jpg", "actors": ["Glen Foster (Comedian)"], "comments": [], "recommandations_id": []}

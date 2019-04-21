@@ -1,0 +1,1 @@
+{"tmdb_id": 564110, "title": "Cromartie High School", "original_title": "Cromartie High School", "slug_title": "cromartie-high-school", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fap9ADMD1xVnz62rmnQerxzmFoy.jpg", "actors": [], "comments": [], "recommandations_id": []}

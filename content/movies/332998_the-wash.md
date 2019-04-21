@@ -1,0 +1,1 @@
+{"tmdb_id": 332998, "title": "The Wash", "original_title": "The Wash", "slug_title": "the-wash", "date": "2009-02-09", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hkmOzvkSorQ6MmobSMqs6jfZfty.jpg", "actors": [], "comments": [], "recommandations_id": []}

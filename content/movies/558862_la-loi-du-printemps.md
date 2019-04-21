@@ -1,0 +1,1 @@
+{"tmdb_id": 558862, "title": "La loi du printemps", "original_title": "La loi du printemps", "slug_title": "la-loi-du-printemps", "date": "1942-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LP1sTX90riM40wTgGhlYXUFFjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

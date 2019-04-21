@@ -1,0 +1,1 @@
+{"tmdb_id": 448177, "title": "Cinegiornale del movimento studentesco n. 1", "original_title": "Cinegiornale del movimento studentesco n. 1", "slug_title": "cinegiornale-del-movimento-studentesco-n-1", "date": "1968-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

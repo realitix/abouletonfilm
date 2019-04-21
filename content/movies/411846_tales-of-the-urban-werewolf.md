@@ -1,0 +1,1 @@
+{"tmdb_id": 411846, "title": "Tales of the Urban Werewolf", "original_title": "Tales of the Urban Werewolf", "slug_title": "tales-of-the-urban-werewolf", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16buWi71fE0WRdvTaVzwgvSS5cR.jpg", "actors": [], "comments": [], "recommandations_id": []}

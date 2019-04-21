@@ -1,0 +1,1 @@
+{"tmdb_id": 270784, "title": "The Maltese Cross", "original_title": "The Maltese Cross", "slug_title": "the-maltese-cross", "date": "2007-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

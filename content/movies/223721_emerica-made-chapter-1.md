@@ -1,0 +1,1 @@
+{"tmdb_id": 223721, "title": "Emerica MADE Chapter 1", "original_title": "Emerica MADE Chapter 1", "slug_title": "emerica-made-chapter-1", "date": "2013-08-23", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwcfp5kBGTzcJn6Cy9Wg0tMPxvF.jpg", "actors": [], "comments": [], "recommandations_id": []}

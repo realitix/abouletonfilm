@@ -1,0 +1,1 @@
+{"tmdb_id": 316516, "title": "Fiddlin' Around", "original_title": "Fiddlin' Around", "slug_title": "fiddlin-around", "date": "1962-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

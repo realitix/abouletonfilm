@@ -1,0 +1,1 @@
+{"tmdb_id": 415784, "title": "Bells Are Ringing: Just in Time", "original_title": "Bells Are Ringing: Just in Time", "slug_title": "bells-are-ringing-just-in-time", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

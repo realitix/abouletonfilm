@@ -1,0 +1,1 @@
+{"tmdb_id": 350917, "title": "\ud3ed\ud48d\uc744 \uc7a1\ub294 \uc0ac\ub098\uc774", "original_title": "\ud3ed\ud48d\uc744 \uc7a1\ub294 \uc0ac\ub098\uc774", "slug_title": "pogpungeul-jabneun-sanai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

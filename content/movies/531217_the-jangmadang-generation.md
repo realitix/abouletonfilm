@@ -1,0 +1,1 @@
+{"tmdb_id": 531217, "title": "The Jangmadang Generation", "original_title": "The Jangmadang Generation", "slug_title": "the-jangmadang-generation", "date": "2017-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

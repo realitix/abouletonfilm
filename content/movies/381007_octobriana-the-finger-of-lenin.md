@@ -1,0 +1,1 @@
+{"tmdb_id": 381007, "title": "Octobriana & the Finger of Lenin", "original_title": "Octobriana & the Finger of Lenin", "slug_title": "octobriana-the-finger-of-lenin", "date": "2003-03-08", "genre": "Action / Aventure", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

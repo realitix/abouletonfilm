@@ -1,0 +1,1 @@
+{"tmdb_id": 317187, "title": "Pet Shop Boys: Television", "original_title": "Pet Shop Boys: Television", "slug_title": "pet-shop-boys-television", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neil Tennant ()", "Chris Lowe ()"], "comments": [], "recommandations_id": []}

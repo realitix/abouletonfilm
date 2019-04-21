@@ -1,0 +1,1 @@
+{"tmdb_id": 147278, "title": "The Chosen One", "original_title": "The Chosen One", "slug_title": "the-chosen-one", "date": "2009-09-22", "genre": "Myst\u00e8re / Fantastique / Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lFggSDlc6tCcPku8d0dx2aBVR2.jpg", "actors": [], "comments": [], "recommandations_id": []}

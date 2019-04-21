@@ -1,0 +1,1 @@
+{"tmdb_id": 457033, "title": "Souvenirs d'Othello", "original_title": "Souvenirs d'Othello", "slug_title": "souvenirs-d-othello", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suzanne Cloutier (Interviewee)"], "comments": [], "recommandations_id": []}

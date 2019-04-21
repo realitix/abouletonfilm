@@ -1,0 +1,1 @@
+{"tmdb_id": 436378, "title": "Pretoria to Durban", "original_title": "Pretoria to Durban", "slug_title": "pretoria-to-durban", "date": "1952-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

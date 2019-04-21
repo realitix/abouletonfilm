@@ -1,0 +1,1 @@
+{"tmdb_id": 536757, "title": "Cuerda de presos", "original_title": "Cuerda de presos", "slug_title": "cuerda-de-presos", "date": "1996-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jesus Quintero (Himself)"], "comments": [], "recommandations_id": []}

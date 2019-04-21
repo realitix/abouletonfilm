@@ -1,0 +1,1 @@
+{"tmdb_id": 312584, "title": "Frank Aguiar: 10 Anos Ao Vivo", "original_title": "Frank Aguiar: 10 Anos Ao Vivo", "slug_title": "frank-aguiar-10-anos-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

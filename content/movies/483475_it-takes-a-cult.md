@@ -1,0 +1,1 @@
+{"tmdb_id": 483475, "title": "It Takes a Cult", "original_title": "It Takes a Cult", "slug_title": "it-takes-a-cult", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

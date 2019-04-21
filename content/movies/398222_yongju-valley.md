@@ -1,0 +1,1 @@
+{"tmdb_id": 398222, "title": "Yongju Valley", "original_title": "\uc6a9\uc8fc\uace8", "slug_title": "yongju-valley", "date": "2015-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5nVVtHBDr4QjjOWybpmjQlLgbs.jpg", "actors": ["Lee Chae-dam ()", "Lee Sin-ho ()"], "comments": [], "recommandations_id": []}

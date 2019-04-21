@@ -1,0 +1,1 @@
+{"tmdb_id": 492828, "title": "Coragem! - As muitas vidas de Dom Paulo Evaristo Arns", "original_title": "Coragem! - As muitas vidas de Dom Paulo Evaristo Arns", "slug_title": "coragem-as-muitas-vidas-de-dom-paulo-evaristo-arns", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

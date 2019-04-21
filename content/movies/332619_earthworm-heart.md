@@ -1,0 +1,1 @@
+{"tmdb_id": 332619, "title": "Earthworm Heart", "original_title": "Earthworm Heart", "slug_title": "earthworm-heart", "date": "2014-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMwmWaygtPH5k2YmGabsY5GNpW4.jpg", "actors": [], "comments": [], "recommandations_id": []}

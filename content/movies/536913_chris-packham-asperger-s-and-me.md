@@ -1,0 +1,1 @@
+{"tmdb_id": 536913, "title": "Chris Packham: Asperger's and Me", "original_title": "Chris Packham: Asperger's and Me", "slug_title": "chris-packham-asperger-s-and-me", "date": "2017-10-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Packham (Himself)"], "comments": [], "recommandations_id": []}

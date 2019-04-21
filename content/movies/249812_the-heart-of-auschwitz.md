@@ -1,0 +1,1 @@
+{"tmdb_id": 249812, "title": "The Heart of Auschwitz", "original_title": "The Heart of Auschwitz", "slug_title": "the-heart-of-auschwitz", "date": "2011-05-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/maxvMepudMaXekqWTTowfHI5Gjq.jpg", "actors": [], "comments": [], "recommandations_id": []}

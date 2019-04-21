@@ -1,0 +1,1 @@
+{"tmdb_id": 212211, "title": "The Worst Day Ever", "original_title": "The Worst Day Ever", "slug_title": "the-worst-day-ever", "date": "2012-08-27", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ingo M. Holst (Father)", "Helen Camisa (Miss Madeline)", "Jakob Davies (Bernard)"], "comments": [], "recommandations_id": []}

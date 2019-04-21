@@ -1,0 +1,1 @@
+{"tmdb_id": 170548, "title": "Crosstrap", "original_title": "Crosstrap", "slug_title": "crosstrap", "date": "1962-01-01", "genre": "Crime", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laurence Payne (Duke)", "Jill Adams (Sally)", "Gary Cockrell (Geoff)", "Zena Marshall (Rina)", "Bill Nagy (Gaunt)"], "comments": [], "recommandations_id": []}

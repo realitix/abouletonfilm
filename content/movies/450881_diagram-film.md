@@ -1,0 +1,1 @@
+{"tmdb_id": 450881, "title": "Diagram Film", "original_title": "Diagram Film", "slug_title": "diagram-film", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dlrgTRem4uhHVZ8xE90JkNkd8yt.jpg", "actors": [], "comments": [], "recommandations_id": []}

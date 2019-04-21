@@ -1,0 +1,1 @@
+{"tmdb_id": 354223, "title": "Shaolin Long Arm", "original_title": "\u5510\u5c71\u529f\u592b", "slug_title": "shaolin-long-arm", "date": "1974-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lin Feng-jiao ()", "Feng Shih ()", "Lung Hua Le ()", "Leslie Sun ()", "Kiang Chang ()"], "comments": [], "recommandations_id": []}

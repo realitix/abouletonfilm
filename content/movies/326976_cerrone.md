@@ -1,0 +1,1 @@
+{"tmdb_id": 326976, "title": "Cerrone", "original_title": "Cerrone", "slug_title": "cerrone", "date": "2015-02-23", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marc Cerrone ()", "Nile Rodgers ()", "Bob Sinclar ()", "Dave Haslam ()"], "comments": [], "recommandations_id": []}

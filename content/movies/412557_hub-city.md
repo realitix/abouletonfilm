@@ -1,0 +1,1 @@
+{"tmdb_id": 412557, "title": "Hub City", "original_title": "Hub City", "slug_title": "hub-city", "date": "1997-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 48332, "title": "The Hit List", "original_title": "The Hit List", "slug_title": "the-hit-list", "date": "2005-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eX5W23ie6UannA2to9yz1YCZZRU.jpg", "actors": [], "comments": [], "recommandations_id": []}

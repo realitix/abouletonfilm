@@ -1,0 +1,1 @@
+{"tmdb_id": 262367, "title": "Enna Mudalali Sowkiyama", "original_title": "Enna Mudalali Sowkiyama", "slug_title": "enna-mudalali-sowkiyama", "date": "1972-02-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "K R Vijaya ()", "Major Sundarrajan ()"], "comments": [], "recommandations_id": []}

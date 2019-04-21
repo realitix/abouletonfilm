@@ -1,0 +1,1 @@
+{"tmdb_id": 396446, "title": "According to My Glass Eye", "original_title": "Secondo il mio occhio di vetro", "slug_title": "according-to-my-glass-eye", "date": "1972-05-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kn7610vJkk6yUNZLxqXmSzjOOcj.jpg", "actors": [], "comments": [], "recommandations_id": []}

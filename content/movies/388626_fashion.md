@@ -1,0 +1,1 @@
+{"tmdb_id": 388626, "title": "Fashion", "original_title": "Fashion", "slug_title": "fashion", "date": "1960-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJYSP15NvNYWjH4nlESoFGXbP6.jpg", "actors": [], "comments": [], "recommandations_id": []}

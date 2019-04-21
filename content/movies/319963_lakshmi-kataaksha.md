@@ -1,0 +1,1 @@
+{"tmdb_id": 319963, "title": "Lakshmi Kataaksha", "original_title": "Lakshmi Kataaksha", "slug_title": "lakshmi-kataaksha", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

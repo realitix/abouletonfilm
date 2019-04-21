@@ -1,0 +1,1 @@
+{"tmdb_id": 299346, "title": "Dragons 3D", "original_title": "Dragons 3D", "slug_title": "dragons-3d", "date": "2013-06-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzhFrypKDxXassISFhUdgsrWKjt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 572334, "title": "El chincol y la bandada", "original_title": "El chincol y la bandada", "slug_title": "el-chincol-y-la-bandada", "date": "2017-08-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7zdqQrI7cN2MzAUO7oOQhoAtL0V.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307984, "title": "Demonen", "original_title": "Demonen", "slug_title": "demonen", "date": "2013-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agnes Hargne Wallander (The Girl)", "Ida Gyllensten (The Demon)"], "comments": [], "recommandations_id": []}

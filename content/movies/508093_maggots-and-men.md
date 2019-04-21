@@ -1,0 +1,1 @@
+{"tmdb_id": 508093, "title": "Maggots and Men", "original_title": "Maggots and Men", "slug_title": "maggots-and-men", "date": "2009-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3rFIKkQlkrhvv7HQzG1NHB5JxAn.jpg", "actors": [], "comments": [], "recommandations_id": []}

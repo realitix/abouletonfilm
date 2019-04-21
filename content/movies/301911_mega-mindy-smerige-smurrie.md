@@ -1,0 +1,1 @@
+{"tmdb_id": 301911, "title": "Mega Mindy - Smerige Smurrie", "original_title": "Mega Mindy - Smerige Smurrie", "slug_title": "mega-mindy-smerige-smurrie", "date": "2014-06-10", "genre": "Familial", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wv6r34nESxDBXucWFHZs3bRupt.jpg", "actors": [], "comments": [], "recommandations_id": []}

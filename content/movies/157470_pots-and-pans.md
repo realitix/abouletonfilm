@@ -1,0 +1,1 @@
+{"tmdb_id": 157470, "title": "Pots and Pans", "original_title": "Pots and Pans", "slug_title": "pots-and-pans", "date": "1932-05-13", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t7ZIfZHBZYIaMwmNMd8ZbuRZ2U5.jpg", "actors": [], "comments": [], "recommandations_id": []}

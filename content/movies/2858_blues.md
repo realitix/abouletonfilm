@@ -1,0 +1,1 @@
+{"tmdb_id": 2858, "title": "Blues", "original_title": "Blues", "slug_title": "blues", "date": "2009-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Kowa (Die Frau)"], "comments": [], "recommandations_id": []}

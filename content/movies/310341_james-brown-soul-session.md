@@ -1,0 +1,1 @@
+{"tmdb_id": 310341, "title": "James Brown: Soul Session", "original_title": "James Brown: Soul Session", "slug_title": "james-brown-soul-session", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

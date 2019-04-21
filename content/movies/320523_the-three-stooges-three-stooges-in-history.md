@@ -1,0 +1,1 @@
+{"tmdb_id": 320523, "title": "The Three Stooges: Three Stooges in History", "original_title": "The Three Stooges: Three Stooges in History", "slug_title": "the-three-stooges-three-stooges-in-history", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

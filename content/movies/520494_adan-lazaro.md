@@ -1,0 +1,1 @@
+{"tmdb_id": 520494, "title": "Adan Lazaro", "original_title": "Adan Lazaro", "slug_title": "adan-lazaro", "date": "1996-01-18", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roi Vinzon ()", "Roldan Aquino ()", "Sunshine Cruz ()", "Tony Ferrer ()", "Berting Labra ()"], "comments": [], "recommandations_id": []}

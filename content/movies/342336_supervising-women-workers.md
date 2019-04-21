@@ -1,0 +1,1 @@
+{"tmdb_id": 342336, "title": "Supervising Women Workers", "original_title": "Supervising Women Workers", "slug_title": "supervising-women-workers", "date": "1944-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2K3vfHAIcLXnw4dsMKWNLmRPpSo.jpg", "actors": [], "comments": [], "recommandations_id": []}

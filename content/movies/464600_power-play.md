@@ -1,0 +1,1 @@
+{"tmdb_id": 464600, "title": "Power Play", "original_title": "Power Play", "slug_title": "power-play", "date": "1994-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGEElUCvFIsoC5qAO6UD2znx0Dm.jpg", "actors": [], "comments": [], "recommandations_id": []}

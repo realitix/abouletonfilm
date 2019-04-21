@@ -1,0 +1,1 @@
+{"tmdb_id": 341277, "title": "Copernicus", "original_title": "Kopernik", "slug_title": "copernicus", "date": "1973-02-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RZoR9Vzhb32QuDodxcfFtsQXnD.jpg", "actors": ["Andrzej Kopiczy\u0144ski (Miko\u0142aj Kopernik)"], "comments": [], "recommandations_id": []}

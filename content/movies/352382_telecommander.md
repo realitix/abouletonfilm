@@ -1,0 +1,1 @@
+{"tmdb_id": 352382, "title": "Telecommander", "original_title": "Telekommando", "slug_title": "telecommander", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

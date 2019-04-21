@@ -1,0 +1,1 @@
+{"tmdb_id": 552245, "title": "Ruff and Tuff", "original_title": "Ruff and Tuff", "slug_title": "ruff-and-tuff", "date": "2017-03-24", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qPBHPUaNaMuNl22rsS721zspAvw.jpg", "actors": ["Gargi Kristi ()"], "comments": [], "recommandations_id": []}

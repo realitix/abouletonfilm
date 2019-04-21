@@ -1,0 +1,1 @@
+{"tmdb_id": 185447, "title": "Dewars Scotch Whiskey", "original_title": "Dewars Scotch Whiskey", "slug_title": "dewars-scotch-whiskey", "date": "1897-01-01", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJ8FhdI2rVd9qajQImllOJIkV2l.jpg", "actors": [], "comments": [], "recommandations_id": []}

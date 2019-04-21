@@ -1,0 +1,1 @@
+{"tmdb_id": 137582, "title": "I Shoot Myself", "original_title": "I Shoot Myself", "slug_title": "i-shoot-myself", "date": "1998-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/naqrqNKflCXrHvB3vR6L4PyoMnw.jpg", "actors": [], "comments": [], "recommandations_id": []}

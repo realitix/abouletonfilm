@@ -1,0 +1,1 @@
+{"tmdb_id": 448332, "title": "Beary Tales", "original_title": "Beary Tales", "slug_title": "beary-tales", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2o16DQjq0gOAzzfGNNTqovWMywq.jpg", "actors": ["Angelika Sigl (Director)"], "comments": [], "recommandations_id": []}

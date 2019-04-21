@@ -1,0 +1,1 @@
+{"tmdb_id": 570415, "title": "Mohamed Bertrand-Duval", "original_title": "Mohamed Bertrand-Duval", "slug_title": "mohamed-bertrand-duval", "date": "1991-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRgceYMowlx7Q3dVKMaUS2aDJKu.jpg", "actors": [], "comments": [], "recommandations_id": []}

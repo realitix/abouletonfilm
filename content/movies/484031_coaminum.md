@@ -1,0 +1,1 @@
+{"tmdb_id": 484031, "title": "Coaminum", "original_title": "Coaminum", "slug_title": "coaminum", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 81022, "title": "Widows", "original_title": "Viudas", "slug_title": "widows", "date": "2011-08-18", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBsDEI2sL0GLZlQRLVCJsLW4FK0.jpg", "actors": ["Graciela Borges (Elena)", "Valeria Bertuccelli (Adela)"], "comments": [], "recommandations_id": [408544]}

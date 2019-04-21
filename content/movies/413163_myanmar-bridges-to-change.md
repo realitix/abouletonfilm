@@ -1,0 +1,1 @@
+{"tmdb_id": 413163, "title": "Myanmar: Bridges to Change", "original_title": "Myanmar: Bridges to Change", "slug_title": "myanmar-bridges-to-change", "date": "2014-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hIQVPYCzYMiWwoLPxuufJyf8BIk.jpg", "actors": [], "comments": [], "recommandations_id": []}

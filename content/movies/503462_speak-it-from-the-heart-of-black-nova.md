@@ -1,0 +1,1 @@
+{"tmdb_id": 503462, "title": "Speak It! From the Heart of Black Nova", "original_title": "Speak It! From the Heart of Black Nova", "slug_title": "speak-it-from-the-heart-of-black-nova", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386321, "title": "Kino to ashita no aida", "original_title": "Kino to ashita no aida", "slug_title": "kino-to-ashita-no-aida", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Koji Tsuruta ()"], "comments": [], "recommandations_id": []}

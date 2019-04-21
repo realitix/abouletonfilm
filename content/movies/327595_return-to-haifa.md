@@ -1,0 +1,1 @@
+{"tmdb_id": 327595, "title": "Return to Haifa", "original_title": "A'id Ilia Haifa", "slug_title": "return-to-haifa", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

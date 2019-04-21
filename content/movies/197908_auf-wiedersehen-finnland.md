@@ -1,0 +1,1 @@
+{"tmdb_id": 197908, "title": "Auf wiedersehen Finnland", "original_title": "Auf wiedersehen Finnland", "slug_title": "auf-wiedersehen-finnland", "date": "2010-03-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

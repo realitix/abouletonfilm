@@ -1,0 +1,1 @@
+{"tmdb_id": 430207, "title": "Balifilm", "original_title": "Balifilm", "slug_title": "balifilm", "date": "1997-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

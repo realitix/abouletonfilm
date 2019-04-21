@@ -1,0 +1,1 @@
+{"tmdb_id": 183564, "title": "CELEBRARE - Dance+", "original_title": "CELEBRARE - Dance+", "slug_title": "celebrare-dance", "date": "2009-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6CkCSCHSMJOtOLuZ2DNW75bJHzh.jpg", "actors": [], "comments": [], "recommandations_id": []}

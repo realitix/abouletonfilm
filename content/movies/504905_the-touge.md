@@ -1,0 +1,1 @@
+{"tmdb_id": 504905, "title": "The Touge", "original_title": "\u30b6 \u5ce0", "slug_title": "the-touge", "date": "1987-01-01", "genre": "Action / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kLxFyY3s0yNBKQxzBkA6sHIqBG.jpg", "actors": ["Keiichi Tsuchiya ()"], "comments": [], "recommandations_id": []}

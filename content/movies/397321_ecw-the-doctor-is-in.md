@@ -1,0 +1,1 @@
+{"tmdb_id": 397321, "title": "ECW The Doctor Is In", "original_title": "ECW The Doctor Is In", "slug_title": "ecw-the-doctor-is-in", "date": "1996-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eX0hHEgDe2UIBO1SH82uwx8NGQ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

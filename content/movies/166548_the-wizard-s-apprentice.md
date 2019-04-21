@@ -1,0 +1,1 @@
+{"tmdb_id": 166548, "title": "The Wizard's Apprentice", "original_title": "The Wizard's Apprentice", "slug_title": "the-wizard-s-apprentice", "date": "1930-02-07", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

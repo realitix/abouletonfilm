@@ -1,0 +1,1 @@
+{"tmdb_id": 379792, "title": "Corporate Bonding", "original_title": "Corporate Bonding", "slug_title": "corporate-bonding", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

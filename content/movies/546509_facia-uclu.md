@@ -1,0 +1,1 @@
+{"tmdb_id": 546509, "title": "Facia \u00dc\u00e7l\u00fc", "original_title": "Facia \u00dc\u00e7l\u00fc", "slug_title": "facia-uclu", "date": "2018-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSZHtM32MPLjyFw6JR7EhwRZXre.jpg", "actors": [], "comments": [], "recommandations_id": []}

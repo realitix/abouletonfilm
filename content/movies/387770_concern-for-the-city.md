@@ -1,0 +1,1 @@
+{"tmdb_id": 387770, "title": "Concern For The City", "original_title": "Concern For The City", "slug_title": "concern-for-the-city", "date": "1986-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 283173, "title": "La Discapacidad Invisible", "original_title": "La Discapacidad Invisible", "slug_title": "la-discapacidad-invisible", "date": "2014-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

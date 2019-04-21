@@ -1,0 +1,1 @@
+{"tmdb_id": 481012, "title": "Egyszer\u0171 t\u00f6rt\u00e9net", "original_title": "Egyszer\u0171 t\u00f6rt\u00e9net", "slug_title": "egyszeru-tortenet", "date": "1976-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cMvT7MLs2ePus5aYPW5W61Z3JA.jpg", "actors": [], "comments": [], "recommandations_id": []}

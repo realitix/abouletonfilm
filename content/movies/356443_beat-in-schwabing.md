@@ -1,0 +1,1 @@
+{"tmdb_id": 356443, "title": "Beat in Schwabing", "original_title": "Beat in Schwabing", "slug_title": "beat-in-schwabing", "date": "1965-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s37RUmUoEjfGdEE5v2Bd77wR3ED.jpg", "actors": [], "comments": [], "recommandations_id": []}

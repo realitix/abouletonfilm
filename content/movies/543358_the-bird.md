@@ -1,0 +1,1 @@
+{"tmdb_id": 543358, "title": "The Bird", "original_title": "The Bird", "slug_title": "the-bird", "date": "2014-04-13", "genre": "Com\u00e9die / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wyLLIJ2eTHqHEXFl5UYmOPYLkQI.jpg", "actors": ["Julia Davis (Mother)", "Alastair Roberts (Son)"], "comments": [], "recommandations_id": []}

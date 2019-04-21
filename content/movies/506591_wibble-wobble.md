@@ -1,0 +1,1 @@
+{"tmdb_id": 506591, "title": "Wibble Wobble", "original_title": "Wibble Wobble", "slug_title": "wibble-wobble", "date": "2017-02-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Chilton (Alex)", "Edward Chalmers (Edward)", "Daphne Do (Daphne)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 209921, "title": "Slimtime", "original_title": "Slimtime", "slug_title": "slimtime", "date": "2010-10-01", "genre": "Com\u00e9die / Animation", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fpTQ3KaUUsshfNuWF9O46STmf8.jpg", "actors": [], "comments": [], "recommandations_id": [208175, 148605, 141528, 200481]}

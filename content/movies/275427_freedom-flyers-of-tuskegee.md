@@ -1,0 +1,1 @@
+{"tmdb_id": 275427, "title": "Freedom Flyers of Tuskegee", "original_title": "Freedom Flyers of Tuskegee", "slug_title": "freedom-flyers-of-tuskegee", "date": "2014-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

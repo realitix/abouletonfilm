@@ -1,0 +1,1 @@
+{"tmdb_id": 202311, "title": "Chili Con Corny", "original_title": "Chili Con Corny", "slug_title": "chili-con-corny", "date": "1972-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bq0OD6WkKRf4W0VdDD5u5yUjszY.jpg", "actors": [], "comments": [], "recommandations_id": []}

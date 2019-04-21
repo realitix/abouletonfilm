@@ -1,0 +1,1 @@
+{"tmdb_id": 302113, "title": "La champignonne", "original_title": "La champignonne", "slug_title": "la-champignonne", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Kou5Z1S4ivK5nwEezSRjucRrq5.jpg", "actors": ["Marie-Elisabeth Prouvost ()"], "comments": [], "recommandations_id": []}

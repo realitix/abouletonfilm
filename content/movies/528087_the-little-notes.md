@@ -1,0 +1,1 @@
+{"tmdb_id": 528087, "title": "The Little Notes", "original_title": "Catatan Kecil", "slug_title": "the-little-notes", "date": "2017-06-07", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0E3ShtWjE4rnaM1IQpJapWTWjk.jpg", "actors": ["Henky Solaiman ()"], "comments": [], "recommandations_id": []}

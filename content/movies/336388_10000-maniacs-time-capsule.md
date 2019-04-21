@@ -1,0 +1,1 @@
+{"tmdb_id": 336388, "title": "10,000 Maniacs Time Capsule", "original_title": "10,000 Maniacs Time Capsule", "slug_title": "10000-maniacs-time-capsule", "date": "2004-07-06", "genre": "Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NZjKDFjFq15mFTaTt80w2sEBPu.jpg", "actors": [], "comments": [], "recommandations_id": []}

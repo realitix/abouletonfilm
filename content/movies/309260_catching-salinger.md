@@ -1,0 +1,1 @@
+{"tmdb_id": 309260, "title": "Catching Salinger", "original_title": "Catching Salinger", "slug_title": "catching-salinger", "date": "2009-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

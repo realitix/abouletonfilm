@@ -1,0 +1,1 @@
+{"tmdb_id": 321173, "title": "Compa\u00f1eros de viaje", "original_title": "Compa\u00f1eros de viaje", "slug_title": "companeros-de-viaje", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

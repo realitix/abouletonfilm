@@ -1,0 +1,1 @@
+{"tmdb_id": 143273, "title": "The Haunted: Caught on Tape", "original_title": "The Haunted: Caught on Tape", "slug_title": "the-haunted-caught-on-tape", "date": "2000-07-28", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4kWTdOYgVCiPEqtcEknC4s4i5P.jpg", "actors": [], "comments": [], "recommandations_id": []}

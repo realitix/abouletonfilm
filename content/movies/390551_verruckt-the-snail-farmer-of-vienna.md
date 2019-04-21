@@ -1,0 +1,1 @@
+{"tmdb_id": 390551, "title": "Verr\u00fcckt: The Snail Farmer of Vienna", "original_title": "Verr\u00fcckt: The Snail Farmer of Vienna", "slug_title": "verruckt-the-snail-farmer-of-vienna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

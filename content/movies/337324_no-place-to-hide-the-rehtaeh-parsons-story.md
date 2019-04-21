@@ -1,0 +1,1 @@
+{"tmdb_id": 337324, "title": "No Place to Hide: The Rehtaeh Parsons Story", "original_title": "No Place to Hide: The Rehtaeh Parsons Story", "slug_title": "no-place-to-hide-the-rehtaeh-parsons-story", "date": "2015-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

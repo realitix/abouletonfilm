@@ -1,0 +1,1 @@
+{"tmdb_id": 402171, "title": "Ski Movie: Second Nature", "original_title": "Ski Movie: Second Nature", "slug_title": "ski-movie-second-nature", "date": "1998-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 174047, "title": "Nazi Temple of Doom", "original_title": "Nazi Temple of Doom", "slug_title": "nazi-temple-of-doom", "date": "2012-08-30", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2FmplAPCX2eryzdpS9SKzI6HMZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

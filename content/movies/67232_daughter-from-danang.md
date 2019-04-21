@@ -1,0 +1,1 @@
+{"tmdb_id": 67232, "title": "Daughter from Danang", "original_title": "Daughter from Danang", "slug_title": "daughter-from-danang", "date": "2002-01-11", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckFeaBWzZcxUFRYnO6TCqxkzSM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571258, "title": "Bir Sabah", "original_title": "Bir Sabah", "slug_title": "bir-sabah", "date": "2017-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yTUkxidRhlUATTe3tQ15ZXsdzXp.jpg", "actors": [], "comments": [], "recommandations_id": []}

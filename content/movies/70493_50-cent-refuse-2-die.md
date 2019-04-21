@@ -1,0 +1,1 @@
+{"tmdb_id": 70493, "title": "50 Cent: Refuse 2 Die", "original_title": "50 Cent: Refuse 2 Die", "slug_title": "50-cent-refuse-2-die", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3j4z8re9yKnPUfuiwCIBIYlWbaD.jpg", "actors": [], "comments": [], "recommandations_id": []}

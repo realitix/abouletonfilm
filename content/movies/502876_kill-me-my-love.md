@@ -1,0 +1,1 @@
+{"tmdb_id": 502876, "title": "Kill me, my love", "original_title": "Kill me, my love", "slug_title": "kill-me-my-love", "date": "2018-06-03", "genre": "Thriller / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alejandro C\u00e1ceres (He)", "Claudia Vicu\u00f1a (She)"], "comments": [], "recommandations_id": []}

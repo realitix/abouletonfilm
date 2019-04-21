@@ -1,0 +1,1 @@
+{"tmdb_id": 584493, "title": "It Hasn't Happened To Us Yet. Safe Haven", "original_title": "It Hasn't Happened To Us Yet. Safe Haven", "slug_title": "it-hasn-t-happened-to-us-yet-safe-haven", "date": "2016-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

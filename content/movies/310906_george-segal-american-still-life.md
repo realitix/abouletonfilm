@@ -1,0 +1,1 @@
+{"tmdb_id": 310906, "title": "George Segal: American Still Life", "original_title": "George Segal: American Still Life", "slug_title": "george-segal-american-still-life", "date": "2001-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

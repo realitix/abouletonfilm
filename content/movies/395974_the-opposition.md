@@ -1,0 +1,1 @@
+{"tmdb_id": 395974, "title": "The Opposition", "original_title": "The Opposition", "slug_title": "the-opposition", "date": "2017-06-10", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpY88KCEqFPY7x1opGV7da6vPG.jpg", "actors": [], "comments": [], "recommandations_id": []}

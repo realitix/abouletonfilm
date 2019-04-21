@@ -1,0 +1,1 @@
+{"tmdb_id": 428172, "title": "Vizioneer Films", "original_title": "Vizioneer Films", "slug_title": "vizioneer-films", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

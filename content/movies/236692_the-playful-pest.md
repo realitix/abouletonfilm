@@ -1,0 +1,1 @@
+{"tmdb_id": 236692, "title": "The Playful Pest", "original_title": "The Playful Pest", "slug_title": "the-playful-pest", "date": "1943-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

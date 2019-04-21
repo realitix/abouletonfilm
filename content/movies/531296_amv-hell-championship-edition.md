@@ -1,0 +1,1 @@
+{"tmdb_id": 531296, "title": "AMV Hell: Championship Edition", "original_title": "AMV Hell: Championship Edition", "slug_title": "amv-hell-championship-edition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

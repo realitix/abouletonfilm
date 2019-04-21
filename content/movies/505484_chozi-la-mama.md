@@ -1,0 +1,1 @@
+{"tmdb_id": 505484, "title": "Chozi la Mama", "original_title": "Chozi la Mama", "slug_title": "chozi-la-mama", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xv3aMnTmcem8uBhBZh5v8AjPhr4.jpg", "actors": [], "comments": [], "recommandations_id": []}

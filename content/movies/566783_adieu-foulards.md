@@ -1,0 +1,1 @@
+{"tmdb_id": 566783, "title": "Adieu foulards", "original_title": "Adieu foulards", "slug_title": "adieu-foulards", "date": "1983-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nr7H1ywrMgrJQj9AebovVbWojq5.jpg", "actors": [], "comments": [], "recommandations_id": []}

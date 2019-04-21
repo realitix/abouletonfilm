@@ -1,0 +1,1 @@
+{"tmdb_id": 444344, "title": "Another Mirror", "original_title": "Another Mirror", "slug_title": "another-mirror", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/548YhlEXfhYx93io4gSJKYXwUDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

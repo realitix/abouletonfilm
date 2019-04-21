@@ -1,0 +1,1 @@
+{"tmdb_id": 220423, "title": "Looking for a Thrill: An Anthology of Inspiration", "original_title": "Looking for a Thrill: An Anthology of Inspiration", "slug_title": "looking-for-a-thrill-an-anthology-of-inspiration", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 535597, "title": "Captives", "original_title": "Captives", "slug_title": "captives", "date": "2015-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 270248, "title": "Assassination of Russia", "original_title": "Assassination of Russia", "slug_title": "assassination-of-russia", "date": "2002-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k92tvSoO2u4O9HjpQghNV4QPN24.jpg", "actors": [], "comments": [], "recommandations_id": []}

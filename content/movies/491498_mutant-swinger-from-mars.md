@@ -1,0 +1,1 @@
+{"tmdb_id": 491498, "title": "Mutant Swinger From Mars", "original_title": "Mutant Swinger From Mars", "slug_title": "mutant-swinger-from-mars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4CN3BpaojaFoib4WJ2FPPGo9c0K.jpg", "actors": [], "comments": [], "recommandations_id": []}

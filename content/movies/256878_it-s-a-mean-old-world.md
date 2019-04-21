@@ -1,0 +1,1 @@
+{"tmdb_id": 256878, "title": "It's A Mean Old World", "original_title": "It's A Mean Old World", "slug_title": "it-s-a-mean-old-world", "date": "1977-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

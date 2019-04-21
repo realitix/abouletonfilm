@@ -1,0 +1,1 @@
+{"tmdb_id": 564157, "title": "Values: Understanding Ourselves", "original_title": "Values: Understanding Ourselves", "slug_title": "values-understanding-ourselves", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

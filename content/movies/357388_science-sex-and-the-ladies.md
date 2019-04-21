@@ -1,0 +1,1 @@
+{"tmdb_id": 357388, "title": "Science, Sex and the Ladies", "original_title": "Science, Sex and the Ladies", "slug_title": "science-sex-and-the-ladies", "date": "2014-09-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJJIsnb803mVOR9fOCkQENux1ue.jpg", "actors": [], "comments": [], "recommandations_id": []}

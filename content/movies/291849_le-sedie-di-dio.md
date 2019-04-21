@@ -1,0 +1,1 @@
+{"tmdb_id": 291849, "title": "Le Sedie di Dio", "original_title": "Le Sedie di Dio", "slug_title": "le-sedie-di-dio", "date": "2014-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Massimiliano Frateschi (Ignazio)"], "comments": [], "recommandations_id": []}

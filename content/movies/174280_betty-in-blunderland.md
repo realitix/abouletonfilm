@@ -1,0 +1,1 @@
+{"tmdb_id": 174280, "title": "Betty in Blunderland", "original_title": "Betty in Blunderland", "slug_title": "betty-in-blunderland", "date": "1934-04-05", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvMoBgWze67GC9D5nhky8NXgUdA.jpg", "actors": [], "comments": [], "recommandations_id": []}

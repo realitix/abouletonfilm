@@ -1,0 +1,1 @@
+{"tmdb_id": 506282, "title": "Devil\u2019s Den", "original_title": "Devil\u2019s Den", "slug_title": "devils-den", "date": "2013-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/raoCH6axKMHd1IADQq4JI7oAAyz.jpg", "actors": [], "comments": [], "recommandations_id": []}

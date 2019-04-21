@@ -1,0 +1,1 @@
+{"tmdb_id": 314770, "title": "Great Gridiron Rivalries: Oklahoma vs. Nebraska", "original_title": "Great Gridiron Rivalries: Oklahoma vs. Nebraska", "slug_title": "great-gridiron-rivalries-oklahoma-vs-nebraska", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

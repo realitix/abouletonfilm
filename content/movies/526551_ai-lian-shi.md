@@ -1,0 +1,1 @@
+{"tmdb_id": 526551, "title": "\u611b\u6200\u4e8b", "original_title": "\u611b\u6200\u4e8b", "slug_title": "ai-lian-shi", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

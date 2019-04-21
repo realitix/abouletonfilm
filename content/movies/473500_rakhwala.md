@@ -1,0 +1,1 @@
+{"tmdb_id": 473500, "title": "Rakhwala", "original_title": "Rakhwala", "slug_title": "rakhwala", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

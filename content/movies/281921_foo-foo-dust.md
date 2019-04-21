@@ -1,0 +1,1 @@
+{"tmdb_id": 281921, "title": "Foo-Foo Dust", "original_title": "Foo-Foo Dust", "slug_title": "foo-foo-dust", "date": "2003-06-19", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMLtEFhRuK1OwYaJ1F3eBWn2EvN.jpg", "actors": [], "comments": [], "recommandations_id": []}

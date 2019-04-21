@@ -1,0 +1,1 @@
+{"tmdb_id": 375493, "title": "Placebo In Concert", "original_title": "Placebo In Concert", "slug_title": "placebo-in-concert", "date": "2013-12-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFcnd7qgX1EqWJg4MRAQUbIiqAT.jpg", "actors": ["Placebo (Band)"], "comments": [], "recommandations_id": []}

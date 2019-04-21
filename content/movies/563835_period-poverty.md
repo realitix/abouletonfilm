@@ -1,0 +1,1 @@
+{"tmdb_id": 563835, "title": "Period Poverty", "original_title": "Period Poverty", "slug_title": "period-poverty", "date": "2018-11-17", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJItcpp6YZVCvtmQCiwpqnXsfMC.jpg", "actors": [], "comments": [], "recommandations_id": []}

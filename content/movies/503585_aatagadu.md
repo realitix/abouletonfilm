@@ -1,0 +1,1 @@
+{"tmdb_id": 503585, "title": "Aatagadu", "original_title": "Aatagadu", "slug_title": "aatagadu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3S1ggdKoOTDsZTohwDbTjlAqpQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

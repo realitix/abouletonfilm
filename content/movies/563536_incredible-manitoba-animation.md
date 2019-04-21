@@ -1,0 +1,1 @@
+{"tmdb_id": 563536, "title": "Incredible Manitoba Animation", "original_title": "Incredible Manitoba Animation", "slug_title": "incredible-manitoba-animation", "date": "1989-05-04", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

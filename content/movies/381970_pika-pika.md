@@ -1,0 +1,1 @@
+{"tmdb_id": 381970, "title": "PiKA PiKA", "original_title": "PiKA PiKA", "slug_title": "pika-pika", "date": "2006-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIrgAC5GOkIhkvn5gfk1mn4qqsr.jpg", "actors": [], "comments": [], "recommandations_id": []}

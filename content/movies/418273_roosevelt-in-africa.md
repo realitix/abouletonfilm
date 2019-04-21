@@ -1,0 +1,1 @@
+{"tmdb_id": 418273, "title": "Roosevelt in Africa", "original_title": "Roosevelt in Africa", "slug_title": "roosevelt-in-africa", "date": "1910-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dqxXDSwmy918VNw9omNbUCXc7mI.jpg", "actors": ["Theodore Roosevelt ()"], "comments": [], "recommandations_id": []}

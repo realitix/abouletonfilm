@@ -1,0 +1,1 @@
+{"tmdb_id": 402708, "title": "Portrait", "original_title": "Portret", "slug_title": "portrait", "date": "1915-01-01", "genre": "Horreur", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9W8DS3o6z7sLU8ZBsLeRz3wKgAW.jpg", "actors": ["Andrej Gromov ()", "Ivan Lazarev ()"], "comments": [], "recommandations_id": []}

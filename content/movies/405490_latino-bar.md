@@ -1,0 +1,1 @@
+{"tmdb_id": 405490, "title": "Latino Bar", "original_title": "Latino Bar", "slug_title": "latino-bar", "date": "1992-04-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3kXIGYgfK4Sg9UTW6gZmc6adEu.jpg", "actors": [], "comments": [], "recommandations_id": []}

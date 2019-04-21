@@ -1,0 +1,1 @@
+{"tmdb_id": 484608, "title": "Elmer Steps Out", "original_title": "Elmer Steps Out", "slug_title": "elmer-steps-out", "date": "1934-02-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Catlett (Elmer)", "Betty Grable ()"], "comments": [], "recommandations_id": []}

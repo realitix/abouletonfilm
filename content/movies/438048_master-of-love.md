@@ -1,0 +1,1 @@
+{"tmdb_id": 438048, "title": "Master of Love", "original_title": "Der Herr der Liebe", "slug_title": "master-of-love", "date": "1919-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

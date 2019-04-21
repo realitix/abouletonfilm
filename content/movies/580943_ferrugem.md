@@ -1,0 +1,1 @@
+{"tmdb_id": 580943, "title": "Ferrugem", "original_title": "Ferrugem", "slug_title": "ferrugem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

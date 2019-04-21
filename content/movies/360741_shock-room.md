@@ -1,0 +1,1 @@
+{"tmdb_id": 360741, "title": "Shock Room", "original_title": "Shock Room", "slug_title": "shock-room", "date": "2015-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wPqhDvvfvF18FVX0XraafpIhzU.jpg", "actors": [], "comments": [], "recommandations_id": []}

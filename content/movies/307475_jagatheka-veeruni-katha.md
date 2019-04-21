@@ -1,0 +1,1 @@
+{"tmdb_id": 307475, "title": "Jagatheka Veeruni Katha", "original_title": "Jagatheka Veeruni Katha", "slug_title": "jagatheka-veeruni-katha", "date": "1961-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

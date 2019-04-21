@@ -1,0 +1,1 @@
+{"tmdb_id": 424676, "title": "C - La casa del fuoco", "original_title": "C - La casa del fuoco", "slug_title": "c-la-casa-del-fuoco", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

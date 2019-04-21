@@ -1,0 +1,1 @@
+{"tmdb_id": 109996, "title": "Robin Ince is as Dumb as You", "original_title": "Robin Ince is as Dumb as You", "slug_title": "robin-ince-is-as-dumb-as-you", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puadpvHyUJOq86Mm8uID8njokjy.jpg", "actors": [], "comments": [], "recommandations_id": []}

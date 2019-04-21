@@ -1,0 +1,1 @@
+{"tmdb_id": 476134, "title": "Next Summer", "original_title": "N\u00e6ste Sommer", "slug_title": "next-summer", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

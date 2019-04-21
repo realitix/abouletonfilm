@@ -1,0 +1,1 @@
+{"tmdb_id": 588936, "title": "American F\u00fatbol", "original_title": "American F\u00fatbol", "slug_title": "american-futbol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x23f5Z1UrdLEVSv1nvym6EJCjky.jpg", "actors": [], "comments": [], "recommandations_id": []}

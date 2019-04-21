@@ -1,0 +1,1 @@
+{"tmdb_id": 452055, "title": "Yami Douga 11", "original_title": "Yami Douga 11", "slug_title": "yami-douga-11", "date": "2014-05-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9JGJXGwsoxGVxsU70yR3k2JHlES.jpg", "actors": [], "comments": [], "recommandations_id": []}

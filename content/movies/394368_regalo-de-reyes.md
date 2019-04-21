@@ -1,0 +1,1 @@
+{"tmdb_id": 394368, "title": "Regalo de reyes", "original_title": "Regalo de reyes", "slug_title": "regalo-de-reyes", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2guLDLgyFSosk9odmW9Dl0HYoLq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 475040, "title": "Paul s'en va", "original_title": "Paul s'en va", "slug_title": "paul-s-en-va", "date": "2004-01-28", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWlrTH9tEHyi5lIYL8v1S54r2xm.jpg", "actors": [], "comments": [], "recommandations_id": []}

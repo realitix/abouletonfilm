@@ -1,0 +1,1 @@
+{"tmdb_id": 498287, "title": "Panda e os Caricas 4", "original_title": "Panda e os Caricas 4", "slug_title": "panda-e-os-caricas-4", "date": "2017-11-01", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1dzHfccoSxDVDfAU7NwK9Nx25DJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

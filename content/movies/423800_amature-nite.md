@@ -1,0 +1,1 @@
+{"tmdb_id": 423800, "title": "Amature Nite", "original_title": "Amature Nite", "slug_title": "amature-nite", "date": "1930-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553657, "title": "Kathmandu Blues", "original_title": "Kathmandu Blues", "slug_title": "kathmandu-blues", "date": "2009-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

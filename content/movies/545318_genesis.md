@@ -1,0 +1,1 @@
+{"tmdb_id": 545318, "title": "Genesis", "original_title": "S\u00f4seiki", "slug_title": "genesis", "date": "1991-01-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lqPiFqWzEcLQE0IQu2hGH91UBGl.jpg", "actors": ["Shoko Asahara (Himself)"], "comments": [], "recommandations_id": []}

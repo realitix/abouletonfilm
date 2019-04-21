@@ -1,0 +1,1 @@
+{"tmdb_id": 522109, "title": "Female Lion", "original_title": "Singa Betina", "slug_title": "female-lion", "date": "1987-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sherly Sarita (Maini)"], "comments": [], "recommandations_id": []}

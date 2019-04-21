@@ -1,0 +1,1 @@
+{"tmdb_id": 120623, "title": "Bobo - Bobo is jarig", "original_title": "Bobo - Bobo is jarig", "slug_title": "bobo-bobo-is-jarig", "date": "2011-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aLM51MbtqzaoWlqbb6ObBPIqUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

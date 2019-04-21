@@ -1,0 +1,1 @@
+{"tmdb_id": 284988, "title": "The conjuror in the town", "original_title": "Machi no tejinashi", "slug_title": "the-conjuror-in-the-town", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

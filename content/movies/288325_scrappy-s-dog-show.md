@@ -1,0 +1,1 @@
+{"tmdb_id": 288325, "title": "Scrappy's Dog Show", "original_title": "Scrappy's Dog Show", "slug_title": "scrappy-s-dog-show", "date": "1934-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

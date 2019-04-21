@@ -1,0 +1,1 @@
+{"tmdb_id": 512493, "title": "Curse of Dracula", "original_title": "Curse of Dracula", "slug_title": "curse-of-dracula", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

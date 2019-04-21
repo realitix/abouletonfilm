@@ -1,0 +1,1 @@
+{"tmdb_id": 409980, "title": "Wenn man vierzehn ist", "original_title": "Wenn man vierzehn ist", "slug_title": "wenn-man-vierzehn-ist", "date": "1970-03-06", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rUYdri6FOriizeBg9IUYURS9aow.jpg", "actors": [], "comments": [], "recommandations_id": []}

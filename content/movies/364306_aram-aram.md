@@ -1,0 +1,1 @@
+{"tmdb_id": 364306, "title": "Aram, Aram", "original_title": "Aram, Aram", "slug_title": "aram-aram", "date": "2015-10-01", "genre": "Drame", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1seGAeB43GhiLO22mcCgxWGoWH.jpg", "actors": ["John Roohinian (Arsen)"], "comments": [], "recommandations_id": [201666, 318852, 270648, 423197]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382617, "title": "Hi-Red Centre Shelter Plan", "original_title": "Hi-Red Centre Shelter Plan", "slug_title": "hi-red-centre-shelter-plan", "date": "1964-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSGXAR36i0I7A4YqeWriCQ1EzIi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387216, "title": "Calimero verzamelbox DVD-2", "original_title": "Calimero verzamelbox DVD-2", "slug_title": "calimero-verzamelbox-dvd-2", "date": "", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93kZ9XW87ZZG1HO3DTK170ZSj86.jpg", "actors": [], "comments": [], "recommandations_id": []}

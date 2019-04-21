@@ -1,0 +1,1 @@
+{"tmdb_id": 416888, "title": "In the Wake of a Stranger", "original_title": "In the Wake of a Stranger", "slug_title": "in-the-wake-of-a-stranger", "date": "1959-06-30", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

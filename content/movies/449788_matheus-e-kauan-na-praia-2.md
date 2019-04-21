@@ -1,0 +1,1 @@
+{"tmdb_id": 449788, "title": "Matheus e Kauan - na Praia 2", "original_title": "Matheus e Kauan - na Praia 2", "slug_title": "matheus-e-kauan-na-praia-2", "date": "2017-03-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6yfgtaxozbfoJCvuOsMGZnge2s.jpg", "actors": [], "comments": [], "recommandations_id": []}

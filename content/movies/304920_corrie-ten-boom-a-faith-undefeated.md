@@ -1,0 +1,1 @@
+{"tmdb_id": 304920, "title": "Corrie ten Boom: A Faith Undefeated", "original_title": "Corrie ten Boom: A Faith Undefeated", "slug_title": "corrie-ten-boom-a-faith-undefeated", "date": "2013-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481443, "title": "Trimata glupatzi", "original_title": "Trimata glupatzi", "slug_title": "trimata-glupatzi", "date": "1970-12-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mr4IIhbsaGv8JGXg5moWtAJ8BP2.jpg", "actors": [], "comments": [], "recommandations_id": []}

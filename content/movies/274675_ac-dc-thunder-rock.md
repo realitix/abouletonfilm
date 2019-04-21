@@ -1,0 +1,1 @@
+{"tmdb_id": 274675, "title": "AC/DC: Thunder Rock", "original_title": "AC/DC: Thunder Rock", "slug_title": "ac-dc-thunder-rock", "date": "2006-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

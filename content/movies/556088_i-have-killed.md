@@ -1,0 +1,1 @@
+{"tmdb_id": 556088, "title": "I Have Killed", "original_title": "J'ai tu\u00e9!", "slug_title": "i-have-killed", "date": "1924-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 248163, "title": "Praise Band: The Movie", "original_title": "Praise Band: The Movie", "slug_title": "praise-band-the-movie", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

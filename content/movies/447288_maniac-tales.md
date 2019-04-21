@@ -1,0 +1,1 @@
+{"tmdb_id": 447288, "title": "Maniac Tales", "original_title": "Maniac Tales", "slug_title": "maniac-tales", "date": "2016-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vip9ZUxodFLm5z6jualNkvOSGZM.jpg", "actors": [], "comments": [], "recommandations_id": []}

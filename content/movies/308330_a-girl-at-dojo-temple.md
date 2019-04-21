@@ -1,0 +1,1 @@
+{"tmdb_id": 308330, "title": "A Girl At Dojo Temple", "original_title": "Musume D\u00f4j\u00f4ji", "slug_title": "a-girl-at-dojo-temple", "date": "1946-10-01", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ommCxPKxKGLgP0IwdEU2px3iVQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

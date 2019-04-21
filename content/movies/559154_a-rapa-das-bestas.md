@@ -1,0 +1,1 @@
+{"tmdb_id": 559154, "title": "A rapa das bestas", "original_title": "A rapa das bestas", "slug_title": "a-rapa-das-bestas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

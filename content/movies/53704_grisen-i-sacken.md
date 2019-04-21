@@ -1,0 +1,1 @@
+{"tmdb_id": 53704, "title": "Grisen i s\u00e4cken", "original_title": "Grisen i s\u00e4cken", "slug_title": "grisen-i-sacken", "date": "1992-12-05", "genre": "Com\u00e9die", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yq5H2cPygVTwuBEAoxfPj9gfqX9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 363109, "title": "Ritorno di Haircut", "original_title": "Ritorno di Haircut", "slug_title": "ritorno-di-haircut", "date": "2013-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

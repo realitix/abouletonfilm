@@ -1,0 +1,1 @@
+{"tmdb_id": 564022, "title": "Le d\u00e9butant", "original_title": "Le d\u00e9butant", "slug_title": "le-debutant", "date": "1969-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

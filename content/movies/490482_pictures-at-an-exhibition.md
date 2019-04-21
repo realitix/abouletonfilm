@@ -1,0 +1,1 @@
+{"tmdb_id": 490482, "title": "Pictures at an Exhibition", "original_title": "Pictures at an Exhibition", "slug_title": "pictures-at-an-exhibition", "date": "2008-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

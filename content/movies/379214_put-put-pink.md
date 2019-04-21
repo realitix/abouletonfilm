@@ -1,0 +1,1 @@
+{"tmdb_id": 379214, "title": "Put-Put, Pink", "original_title": "Put-Put, Pink", "slug_title": "put-put-pink", "date": "1968-04-13", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3mKa6X3DmZLpdMtJD2ditikAipx.jpg", "actors": [], "comments": [], "recommandations_id": []}

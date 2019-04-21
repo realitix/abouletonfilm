@@ -1,0 +1,1 @@
+{"tmdb_id": 551112, "title": "Die Reise von Petersburg nach Moskau", "original_title": "Die Reise von Petersburg nach Moskau", "slug_title": "die-reise-von-petersburg-nach-moskau", "date": "1992-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

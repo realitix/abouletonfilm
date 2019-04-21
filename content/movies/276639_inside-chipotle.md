@@ -1,0 +1,1 @@
+{"tmdb_id": 276639, "title": "Inside: Chipotle", "original_title": "Inside: Chipotle", "slug_title": "inside-chipotle", "date": "2014-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

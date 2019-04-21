@@ -1,0 +1,1 @@
+{"tmdb_id": 183775, "title": "As Can\u00e7\u00f5es da Maria", "original_title": "As Can\u00e7\u00f5es da Maria", "slug_title": "as-cancoes-da-maria", "date": "2012-09-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6tZQ8bxrpaiZaEsWbbrSg1khqQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

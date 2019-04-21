@@ -1,0 +1,1 @@
+{"tmdb_id": 227654, "title": "8 Million Dollars", "original_title": "8 Million Dollars", "slug_title": "8-million-dollars", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArgkwZdp7At5fmztF46e0VSUeox.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 490787, "title": "The Last Vedette", "original_title": "La \u00faltima vedette", "slug_title": "the-last-vedette", "date": "2017-12-07", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

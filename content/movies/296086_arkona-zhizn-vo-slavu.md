@@ -1,0 +1,1 @@
+{"tmdb_id": 296086, "title": "Arkona: Zhizn Vo Slavu", "original_title": "Arkona: Zhizn Vo Slavu", "slug_title": "arkona-zhizn-vo-slavu", "date": "2006-06-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98Mx8uH4HFayEcHz9UJPVdDQ9Zo.jpg", "actors": ["Maria Arkhipova ()"], "comments": [], "recommandations_id": []}

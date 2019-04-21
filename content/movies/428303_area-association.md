@@ -1,0 +1,1 @@
+{"tmdb_id": 428303, "title": "Area Association", "original_title": "Area Association", "slug_title": "area-association", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vito Acconci (Himself)", "Mel Waterman (Himself)"], "comments": [], "recommandations_id": []}

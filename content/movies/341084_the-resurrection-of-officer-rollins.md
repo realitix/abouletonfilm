@@ -1,0 +1,1 @@
+{"tmdb_id": 341084, "title": "The Resurrection of Officer Rollins", "original_title": "The Resurrection of Officer Rollins", "slug_title": "the-resurrection-of-officer-rollins", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

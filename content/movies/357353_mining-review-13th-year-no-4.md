@@ -1,0 +1,1 @@
+{"tmdb_id": 357353, "title": "Mining Review 13th Year No 4", "original_title": "Mining Review 13th Year No 4", "slug_title": "mining-review-13th-year-no-4", "date": "1959-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

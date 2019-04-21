@@ -1,0 +1,1 @@
+{"tmdb_id": 438308, "title": "Pacarku Anak Koruptor", "original_title": "Pacarku Anak Koruptor", "slug_title": "pacarku-anak-koruptor", "date": "2016-05-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7K7VgSKLKqJkQBAxEjJY8k1X77h.jpg", "actors": [], "comments": [], "recommandations_id": []}

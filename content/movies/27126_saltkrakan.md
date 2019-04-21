@@ -1,0 +1,1 @@
+{"tmdb_id": 27126, "title": "Saltkr\u00e5kan", "original_title": "Saltkr\u00e5kan", "slug_title": "saltkrakan", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

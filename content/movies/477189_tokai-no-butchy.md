@@ -1,0 +1,1 @@
+{"tmdb_id": 477189, "title": "Tokai no Butchy", "original_title": "Tokai no Butchy", "slug_title": "tokai-no-butchy", "date": "1995-06-29", "genre": "Animation / Romance / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qi34HWU3ZOGXpgWN5VHIdED7pxy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587187, "title": "Fika - the Swedish Break", "original_title": "Fika - Sveriges paus", "slug_title": "fika-the-swedish-break", "date": "2002-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UqKmDZCoR6noxuwvFoFPGWBH8m.jpg", "actors": [], "comments": [], "recommandations_id": []}

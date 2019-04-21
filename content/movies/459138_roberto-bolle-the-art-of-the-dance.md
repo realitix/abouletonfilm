@@ -1,0 +1,1 @@
+{"tmdb_id": 459138, "title": "Roberto Bolle:  The Art of the Dance", "original_title": "Roberto Bolle:  The Art of the Dance", "slug_title": "roberto-bolle-the-art-of-the-dance", "date": "2017-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roberto Bolle (Himself)"], "comments": [], "recommandations_id": []}

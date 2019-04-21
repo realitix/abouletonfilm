@@ -1,0 +1,1 @@
+{"tmdb_id": 275383, "title": "Dynasty: The New York Yankees", "original_title": "Dynasty: The New York Yankees", "slug_title": "dynasty-the-new-york-yankees", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

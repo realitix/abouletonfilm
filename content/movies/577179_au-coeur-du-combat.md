@@ -1,0 +1,1 @@
+{"tmdb_id": 577179, "title": "Au coeur du combat", "original_title": "Au coeur du combat", "slug_title": "au-coeur-du-combat", "date": "2012-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4zSGqIRpFRHQg9sQoY7gR3aucx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330625, "title": "The Saint Katherine Doctor", "original_title": "Hakim Sant Katrin", "slug_title": "the-saint-katherine-doctor", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

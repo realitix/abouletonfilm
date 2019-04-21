@@ -1,0 +1,1 @@
+{"tmdb_id": 366243, "title": "Kapitein Zeppos", "original_title": "Kapitein Zeppos", "slug_title": "kapitein-zeppos", "date": "1964-01-01", "genre": "Familial / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Senne Rouffaer (Kapitein Zeppos)"], "comments": [], "recommandations_id": []}

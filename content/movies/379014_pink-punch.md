@@ -1,0 +1,1 @@
+{"tmdb_id": 379014, "title": "Pink Punch", "original_title": "Pink Punch", "slug_title": "pink-punch", "date": "1966-02-21", "genre": "Animation", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oN7tEBZN2qs8pvxy7a6BTA9Sj7u.jpg", "actors": ["Mel Blanc (Pink Panther Effects (voice))"], "comments": [], "recommandations_id": []}

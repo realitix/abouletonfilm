@@ -1,0 +1,1 @@
+{"tmdb_id": 484680, "title": "filament studies", "original_title": "filament studies", "slug_title": "filament-studies", "date": "2017-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

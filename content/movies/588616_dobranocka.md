@@ -1,0 +1,1 @@
+{"tmdb_id": 588616, "title": "Dobranocka", "original_title": "Dobranocka", "slug_title": "dobranocka", "date": "1997-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

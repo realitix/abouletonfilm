@@ -1,0 +1,1 @@
+{"tmdb_id": 42895, "title": "The Indie Pendant", "original_title": "The Indie Pendant", "slug_title": "the-indie-pendant", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

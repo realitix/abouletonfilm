@@ -1,0 +1,1 @@
+{"tmdb_id": 443325, "title": "Mao Tse-Tung: The Greatest Revolutionary of Our Time", "original_title": "Mao Tse-Tung: The Greatest Revolutionary of Our Time", "slug_title": "mao-tse-tung-the-greatest-revolutionary-of-our-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480006, "title": "Hantu Sei Ladi", "original_title": "Hantu Sei Ladi", "slug_title": "hantu-sei-ladi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8fDJimalHC7xV3aC4b7srQYN6T7.jpg", "actors": [], "comments": [], "recommandations_id": []}

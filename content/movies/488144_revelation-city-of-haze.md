@@ -1,0 +1,1 @@
+{"tmdb_id": 488144, "title": "Revelation: City of Haze", "original_title": "Revelation: City of Haze", "slug_title": "revelation-city-of-haze", "date": "", "genre": "Drame / Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

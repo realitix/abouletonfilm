@@ -1,0 +1,1 @@
+{"tmdb_id": 376126, "title": "Action Time Vision: Punk and the DIY Revolution", "original_title": "Action Time Vision: Punk and the DIY Revolution", "slug_title": "action-time-vision-punk-and-the-diy-revolution", "date": "2005-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

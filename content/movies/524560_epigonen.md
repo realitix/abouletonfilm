@@ -1,0 +1,1 @@
+{"tmdb_id": 524560, "title": "Epigonen", "original_title": "Epigonen", "slug_title": "epigonen", "date": "2018-05-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

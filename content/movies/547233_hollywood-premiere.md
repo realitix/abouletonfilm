@@ -1,0 +1,1 @@
+{"tmdb_id": 547233, "title": "Hollywood Premiere", "original_title": "Hollywood Premiere", "slug_title": "hollywood-premiere", "date": "1933-02-04", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phyllis Barry ()", "Eddie Garr ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 582962, "title": "Domestic Accident", "original_title": "Domestic Accident", "slug_title": "domestic-accident", "date": "2018-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chima Precious (Tega)"], "comments": [], "recommandations_id": []}

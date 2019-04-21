@@ -1,0 +1,1 @@
+{"tmdb_id": 379694, "title": "How to fight terrorism", "original_title": "Terror", "slug_title": "how-to-fight-terrorism", "date": "2012-12-03", "genre": "Histoire / Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iM0kHI8Tt6owzHDfRdH2NuWUHuk.jpg", "actors": [], "comments": [], "recommandations_id": []}

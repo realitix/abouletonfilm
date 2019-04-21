@@ -1,0 +1,1 @@
+{"tmdb_id": 558054, "title": "Da ist nirgends nichts gewesen au\u00dfer hier", "original_title": "Da ist nirgends nichts gewesen au\u00dfer hier", "slug_title": "da-ist-nirgends-nichts-gewesen-ausser-hier", "date": "1983-04-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 519211, "title": "Rematado", "original_title": "Rematado", "slug_title": "rematado", "date": "2012-04-19", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Precious Lara Quigaman ()", "Shaina Magdayao ()", "Zanjoe Marudo ()"], "comments": [], "recommandations_id": []}

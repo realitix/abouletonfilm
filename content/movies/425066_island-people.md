@@ -1,0 +1,1 @@
+{"tmdb_id": 425066, "title": "Island People", "original_title": "Island People", "slug_title": "island-people", "date": "1940-11-07", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

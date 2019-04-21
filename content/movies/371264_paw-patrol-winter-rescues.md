@@ -1,0 +1,1 @@
+{"tmdb_id": 371264, "title": "Paw Patrol: Winter Rescues", "original_title": "Paw Patrol: Winter Rescues", "slug_title": "paw-patrol-winter-rescues", "date": "2014-10-07", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hxYBHql3P6cRxmEFLWqFiJLkbrH.jpg", "actors": [], "comments": [], "recommandations_id": []}

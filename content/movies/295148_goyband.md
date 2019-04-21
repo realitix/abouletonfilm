@@ -1,0 +1,1 @@
+{"tmdb_id": 295148, "title": "Goyband", "original_title": "Goyband", "slug_title": "goyband", "date": "2009-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

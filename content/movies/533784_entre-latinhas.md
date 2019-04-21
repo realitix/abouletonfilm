@@ -1,0 +1,1 @@
+{"tmdb_id": 533784, "title": "Entre latinhas", "original_title": "Entre latinhas", "slug_title": "entre-latinhas", "date": "2013-07-11", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

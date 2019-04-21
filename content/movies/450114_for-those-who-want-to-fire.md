@@ -1,0 +1,1 @@
+{"tmdb_id": 450114, "title": "For Those Who Want to Fire", "original_title": "For Those Who Want to Fire", "slug_title": "for-those-who-want-to-fire", "date": "2017-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

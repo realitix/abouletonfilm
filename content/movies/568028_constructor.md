@@ -1,0 +1,1 @@
+{"tmdb_id": 568028, "title": "Constructor", "original_title": "Konstruktor", "slug_title": "constructor", "date": "2016-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10vlli7CTKBc0U5Nxz22rdBYIPs.jpg", "actors": ["Aleksandra Hamka\u0142o (Eve)", "Marek Bukowski (Viktor)"], "comments": [], "recommandations_id": []}

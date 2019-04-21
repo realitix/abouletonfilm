@@ -1,0 +1,1 @@
+{"tmdb_id": 309072, "title": "WWII: Combat Chronicles", "original_title": "WWII: Combat Chronicles", "slug_title": "wwii-combat-chronicles", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

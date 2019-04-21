@@ -1,0 +1,1 @@
+{"tmdb_id": 513069, "title": "Andy Hendrickson: Left Field", "original_title": "Andy Hendrickson: Left Field", "slug_title": "andy-hendrickson-left-field", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

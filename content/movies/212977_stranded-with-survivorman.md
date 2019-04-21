@@ -1,0 +1,1 @@
+{"tmdb_id": 212977, "title": "Stranded with Survivorman", "original_title": "Stranded with Survivorman", "slug_title": "stranded-with-survivorman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvtvNErYTIAKEWCmMYGfoJvho3b.jpg", "actors": [], "comments": [], "recommandations_id": []}

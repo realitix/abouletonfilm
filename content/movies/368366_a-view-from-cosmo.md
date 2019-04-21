@@ -1,0 +1,1 @@
+{"tmdb_id": 368366, "title": "A View from Cosmo", "original_title": "A View from Cosmo", "slug_title": "a-view-from-cosmo", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helen Gurley Brown (Herself - Host)"], "comments": [], "recommandations_id": []}

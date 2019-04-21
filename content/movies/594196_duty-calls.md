@@ -1,0 +1,1 @@
+{"tmdb_id": 594196, "title": "Duty Calls", "original_title": "Duty Calls", "slug_title": "duty-calls", "date": "2016-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

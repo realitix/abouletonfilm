@@ -1,0 +1,1 @@
+{"tmdb_id": 514418, "title": "Abduction Diaries", "original_title": "Abduction Diaries", "slug_title": "abduction-diaries", "date": "2002-03-27", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

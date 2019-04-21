@@ -1,0 +1,1 @@
+{"tmdb_id": 437585, "title": "Rihanna: The Videos", "original_title": "Rihanna: The Videos", "slug_title": "rihanna-the-videos", "date": "2008-01-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhRUfd4TNMM6o6bIFJR7Ge5HdoN.jpg", "actors": [], "comments": [], "recommandations_id": []}

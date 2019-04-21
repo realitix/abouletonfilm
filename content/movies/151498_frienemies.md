@@ -1,0 +1,1 @@
+{"tmdb_id": 151498, "title": "Frienemies", "original_title": "Frienemies", "slug_title": "frienemies", "date": "2011-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzCxMiBznU3L9lkrEmvweZKalB9.jpg", "actors": [], "comments": [], "recommandations_id": []}

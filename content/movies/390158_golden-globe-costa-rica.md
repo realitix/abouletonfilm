@@ -1,0 +1,1 @@
+{"tmdb_id": 390158, "title": "Golden Globe - Costa Rica", "original_title": "Golden Globe - Costa Rica", "slug_title": "golden-globe-costa-rica", "date": "2011-08-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJ5JkevzMgWIfyN4JQaRqBDiBS0.jpg", "actors": [], "comments": [], "recommandations_id": []}

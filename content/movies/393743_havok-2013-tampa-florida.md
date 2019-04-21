@@ -1,0 +1,1 @@
+{"tmdb_id": 393743, "title": "Havok: [2013] Tampa, Florida", "original_title": "Havok: [2013] Tampa, Florida", "slug_title": "havok-2013-tampa-florida", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltB3I9V2ajCsKA9X0MiuFsEddeN.jpg", "actors": [], "comments": [], "recommandations_id": []}

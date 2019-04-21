@@ -1,0 +1,1 @@
+{"tmdb_id": 360506, "title": "Urimaikkural", "original_title": "Urimaikkural", "slug_title": "urimaikkural", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Latha Sethupathi ()", "M. N. Nambiar ()", "M. G. Ramachandran ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394295, "title": "2Doc: Poetins Kus", "original_title": "2Doc: Poetins Kus", "slug_title": "2doc-poetins-kus", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CyTkwpdDYCTTaFAFn6U9Ian6mO.jpg", "actors": [], "comments": [], "recommandations_id": []}

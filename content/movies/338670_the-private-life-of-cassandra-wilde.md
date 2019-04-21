@@ -1,0 +1,1 @@
+{"tmdb_id": 338670, "title": "The Private Life of Cassandra Wilde", "original_title": "The Private Life of Cassandra Wilde", "slug_title": "the-private-life-of-cassandra-wilde", "date": "2001-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cassandra Wild ()"], "comments": [], "recommandations_id": []}

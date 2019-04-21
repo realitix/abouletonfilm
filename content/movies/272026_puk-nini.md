@@ -1,0 +1,1 @@
+{"tmdb_id": 272026, "title": "Puk Nini", "original_title": "Puk Nini", "slug_title": "puk-nini", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antoinette Dacosta ()", "Aminata Diallo ()", "Abdoulaye Komboudri ()"], "comments": [], "recommandations_id": []}

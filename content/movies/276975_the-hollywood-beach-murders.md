@@ -1,0 +1,1 @@
+{"tmdb_id": 276975, "title": "The Hollywood Beach Murders", "original_title": "The Hollywood Beach Murders", "slug_title": "the-hollywood-beach-murders", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

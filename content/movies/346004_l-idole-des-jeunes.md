@@ -1,0 +1,1 @@
+{"tmdb_id": 346004, "title": "L'idole des jeunes", "original_title": "L'idole des jeunes", "slug_title": "l-idole-des-jeunes", "date": "1976-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

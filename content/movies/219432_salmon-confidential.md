@@ -1,0 +1,1 @@
+{"tmdb_id": 219432, "title": "Salmon Confidential", "original_title": "Salmon Confidential", "slug_title": "salmon-confidential", "date": "2013-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2RreJpuIVLbPbJBDpDkfiEyXd1k.jpg", "actors": [], "comments": [], "recommandations_id": []}

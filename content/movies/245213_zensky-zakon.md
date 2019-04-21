@@ -1,0 +1,1 @@
+{"tmdb_id": 245213, "title": "\u017densk\u00fd z\u00e1kon", "original_title": "\u017densk\u00fd z\u00e1kon", "slug_title": "zensky-zakon", "date": "1967-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8H1o43m76Lf2mcvwMS0RHBS5uua.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 570585, "title": "A Christmassy Ted", "original_title": "A Christmassy Ted", "slug_title": "a-christmassy-ted", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGNjYr5VAmQtWQQ0XvaZszfomKj.jpg", "actors": [], "comments": [], "recommandations_id": []}

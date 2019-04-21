@@ -1,0 +1,1 @@
+{"tmdb_id": 460393, "title": "\u03a4\u0391 \u03a3\u0391\u0399\u039d\u0399\u0391", "original_title": "\u03a4\u0391 \u03a3\u0391\u0399\u039d\u0399\u0391", "slug_title": "ta-sainia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

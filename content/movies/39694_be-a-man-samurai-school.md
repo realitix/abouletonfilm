@@ -1,0 +1,1 @@
+{"tmdb_id": 39694, "title": "Be a Man Samurai School", "original_title": "Be a Man Samurai School", "slug_title": "be-a-man-samurai-school", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

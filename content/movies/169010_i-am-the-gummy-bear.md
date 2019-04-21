@@ -1,0 +1,1 @@
+{"tmdb_id": 169010, "title": "I am the gummy bear", "original_title": "Eu sou o Gummy Bear", "slug_title": "i-am-the-gummy-bear", "date": "2012-01-01", "genre": "Animation / Musique / Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0IGlnzmmoJ3bGizWM1durM6A0h.jpg", "actors": [], "comments": [], "recommandations_id": []}

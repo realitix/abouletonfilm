@@ -1,0 +1,1 @@
+{"tmdb_id": 348876, "title": "Essence of Terror", "original_title": "Essence of Terror", "slug_title": "essence-of-terror", "date": "1998-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLtd7zchqZZHqZ6q0xCe8JvcbGz.jpg", "actors": [], "comments": [], "recommandations_id": []}

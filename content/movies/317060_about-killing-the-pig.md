@@ -1,0 +1,1 @@
+{"tmdb_id": 317060, "title": "About Killing the Pig", "original_title": "Dell'ammazzare il maiale", "slug_title": "about-killing-the-pig", "date": "2011-01-11", "genre": "", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axar1oPPXWl0knCN1FOmiMq6Q0F.jpg", "actors": [], "comments": [], "recommandations_id": []}

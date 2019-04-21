@@ -1,0 +1,1 @@
+{"tmdb_id": 486594, "title": "\uc720\uc2e0\uc758 \ubbf8\ud559", "original_title": "\uc720\uc2e0\uc758 \ubbf8\ud559", "slug_title": "yusinyi-mihag", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gZcOJzrEPWUVzyC5NLvEE1cPTr.jpg", "actors": [], "comments": [], "recommandations_id": []}

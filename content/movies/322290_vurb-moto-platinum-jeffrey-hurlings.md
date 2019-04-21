@@ -1,0 +1,1 @@
+{"tmdb_id": 322290, "title": "Vurb Moto Platinum: Jeffrey Hurlings", "original_title": "Vurb Moto Platinum: Jeffrey Hurlings", "slug_title": "vurb-moto-platinum-jeffrey-hurlings", "date": "2014-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

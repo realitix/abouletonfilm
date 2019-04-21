@@ -1,0 +1,1 @@
+{"tmdb_id": 313503, "title": "Utopia: Redux '92: Live in Japan", "original_title": "Utopia: Redux '92: Live in Japan", "slug_title": "utopia-redux-92-live-in-japan", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

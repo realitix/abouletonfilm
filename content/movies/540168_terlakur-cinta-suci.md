@@ -1,0 +1,1 @@
+{"tmdb_id": 540168, "title": "Terlakur Cinta Suci", "original_title": "Terlakur Cinta Suci", "slug_title": "terlakur-cinta-suci", "date": "2018-07-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

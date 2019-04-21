@@ -1,0 +1,1 @@
+{"tmdb_id": 261425, "title": "1:1 Thierry Henry", "original_title": "1:1 Thierry Henry", "slug_title": "1-1-thierry-henry", "date": "2011-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGsoJRrd6tpFhIr9ECKpwHwaQ2o.jpg", "actors": ["Thierry Henry (as himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 409902, "title": "Arena: Salvador Dali.", "original_title": "Arena: Salvador Dali.", "slug_title": "arena-salvador-dali", "date": "1986-11-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fENOkZjEw3n8Nf0yqDwYTJ37DDa.jpg", "actors": [], "comments": [], "recommandations_id": []}

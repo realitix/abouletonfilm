@@ -1,0 +1,1 @@
+{"tmdb_id": 34017, "title": "Aar Ya Paar", "original_title": "Aar Ya Paar", "slug_title": "aar-ya-paar", "date": "1997-05-31", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Js2zpUfGNkctpwY27ZEToJoGfz.jpg", "actors": ["Jackie Shroff (Shekhar Khosla)", "Deepa Sahi (Anu)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344027, "title": "Beautiful Ruins", "original_title": "Beautiful Ruins", "slug_title": "beautiful-ruins", "date": "", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

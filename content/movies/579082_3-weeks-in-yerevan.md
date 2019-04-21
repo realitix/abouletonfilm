@@ -1,0 +1,1 @@
+{"tmdb_id": 579082, "title": "3 Weeks in Yerevan", "original_title": "3 Weeks in Yerevan", "slug_title": "3-weeks-in-yerevan", "date": "2016-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qNK3TDnCwc2qMOjyzHAJP0X666v.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 43628, "title": "Our Brand Is Crisis", "original_title": "Our Brand Is Crisis", "slug_title": "our-brand-is-crisis", "date": "2005-03-12", "genre": "Documentaire / Thriller", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMy4deCplMiwmCD5dA8ibJGiLam.jpg", "actors": [], "comments": [], "recommandations_id": [50100, 18046]}

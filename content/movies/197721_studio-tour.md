@@ -1,0 +1,1 @@
+{"tmdb_id": 197721, "title": "Studio Tour", "original_title": "Studio Tour", "slug_title": "studio-tour", "date": "2002-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

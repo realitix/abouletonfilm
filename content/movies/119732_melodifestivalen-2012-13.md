@@ -1,0 +1,1 @@
+{"tmdb_id": 119732, "title": "Melodifestivalen 2012-13", "original_title": "Melodifestivalen 2012-13", "slug_title": "melodifestivalen-2012-13", "date": "2013-02-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fazXjETYB9HKDodBBU8KxIa9Gf.jpg", "actors": [], "comments": [], "recommandations_id": []}

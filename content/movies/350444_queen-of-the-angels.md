@@ -1,0 +1,1 @@
+{"tmdb_id": 350444, "title": "Queen of the Angels", "original_title": "Kr\u00f3lowa aniol\u00f3w", "slug_title": "queen-of-the-angels", "date": "1999-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ac9khA8s1uEt4JQXfO6kcPQUAJs.jpg", "actors": [], "comments": [], "recommandations_id": []}

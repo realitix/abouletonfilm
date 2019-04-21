@@ -1,0 +1,1 @@
+{"tmdb_id": 245062, "title": "Opening Speech", "original_title": "Opening Speech", "slug_title": "opening-speech", "date": "1961-01-01", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j2WPabYeum6AXQrJNi0SBnY0dZK.jpg", "actors": ["Norman McLaren (Himself)"], "comments": [], "recommandations_id": []}

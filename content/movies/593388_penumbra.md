@@ -1,0 +1,1 @@
+{"tmdb_id": 593388, "title": "Penumbra", "original_title": "Penumbra", "slug_title": "penumbra", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4Z7MqFEwsiY1K5j9kFuaVvYj7G.jpg", "actors": ["Neil Summerville (Wyatt)", "Emal Sa\u00effi (Jamal Baqri)"], "comments": [], "recommandations_id": []}

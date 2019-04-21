@@ -1,0 +1,1 @@
+{"tmdb_id": 300034, "title": "Gangland Wire", "original_title": "Gangland Wire", "slug_title": "gangland-wire", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

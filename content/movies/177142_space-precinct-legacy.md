@@ -1,0 +1,1 @@
+{"tmdb_id": 177142, "title": "Space Precinct Legacy", "original_title": "Space Precinct Legacy", "slug_title": "space-precinct-legacy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJWXiQMINpqLqM61uA2XrV1z9jR.jpg", "actors": [], "comments": [], "recommandations_id": []}

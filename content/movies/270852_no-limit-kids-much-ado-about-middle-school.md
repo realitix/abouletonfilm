@@ -1,0 +1,1 @@
+{"tmdb_id": 270852, "title": "No Limit Kids - Much Ado About Middle School", "original_title": "No Limit Kids - Much Ado About Middle School", "slug_title": "no-limit-kids-much-ado-about-middle-school", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

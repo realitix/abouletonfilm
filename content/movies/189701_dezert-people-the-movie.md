@@ -1,0 +1,1 @@
+{"tmdb_id": 189701, "title": "Dezert People - The Movie", "original_title": "Dezert People - The Movie", "slug_title": "dezert-people-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

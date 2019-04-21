@@ -1,0 +1,1 @@
+{"tmdb_id": 223555, "title": "Electro Shaabi", "original_title": "Electro Chaabi", "slug_title": "electro-shaabi", "date": "2013-10-11", "genre": "Documentaire / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGMqjmlqyZOMnAb3LFLYdFaQ8cy.jpg", "actors": [], "comments": [], "recommandations_id": []}

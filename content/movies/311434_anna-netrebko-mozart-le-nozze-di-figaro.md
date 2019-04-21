@@ -1,0 +1,1 @@
+{"tmdb_id": 311434, "title": "Anna Netrebko: Mozart: Le Nozze di Figaro", "original_title": "Anna Netrebko: Mozart: Le Nozze di Figaro", "slug_title": "anna-netrebko-mozart-le-nozze-di-figaro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

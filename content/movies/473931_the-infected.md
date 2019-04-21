@@ -1,0 +1,1 @@
+{"tmdb_id": 473931, "title": "The Infected", "original_title": "Los infectados", "slug_title": "the-infected", "date": "2011-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cO8OeDZR0zwlU0rb50DHDuVtKzD.jpg", "actors": ["Marcos Duarte (Marcos)"], "comments": [], "recommandations_id": []}

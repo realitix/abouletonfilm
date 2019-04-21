@@ -1,0 +1,1 @@
+{"tmdb_id": 559610, "title": "The Naked Woman", "original_title": "La femme nue", "slug_title": "the-naked-woman", "date": "1950-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rc4UGrv1eXITPl9nuBmk4cUUcJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 290609, "title": "The Telephone Girl", "original_title": "Telephone Ni Taruni", "slug_title": "the-telephone-girl", "date": "1926-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruby Mayer ()", "Gohar ()", "Khalil ()"], "comments": [], "recommandations_id": []}

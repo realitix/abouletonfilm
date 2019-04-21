@@ -1,0 +1,1 @@
+{"tmdb_id": 522988, "title": "Amoli : Documentary film", "original_title": "Amoli : Documentary film", "slug_title": "amoli-documentary-film", "date": "2018-05-05", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hEnH71kucWGxtR7yfL1pAmoxlRu.jpg", "actors": [], "comments": [], "recommandations_id": []}

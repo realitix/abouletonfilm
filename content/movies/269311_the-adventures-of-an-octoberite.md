@@ -1,0 +1,1 @@
+{"tmdb_id": 269311, "title": "The Adventures of an Octoberite", "original_title": "Pokhozhdeniya Oktyabriny", "slug_title": "the-adventures-of-an-octoberite", "date": "1924-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

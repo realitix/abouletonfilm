@@ -1,0 +1,1 @@
+{"tmdb_id": 433886, "title": "Super-Coming", "original_title": "\u30b9\u30fc\u30d1\u30fc\u30ab\u30df\u30f3\u30b0", "slug_title": "super-coming", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9z8ISEioIGYrXqtQTuGCW8sSjOH.jpg", "actors": [], "comments": [], "recommandations_id": []}

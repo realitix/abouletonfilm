@@ -1,0 +1,1 @@
+{"tmdb_id": 32326, "title": "The Cruise", "original_title": "The Cruise", "slug_title": "the-cruise", "date": "1998-10-23", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnN5hvuB0ZK8TUZORe4Q5ipHiLH.jpg", "actors": ["Timothy \"Speed\" Levitch (Himself)"], "comments": [], "recommandations_id": [53198]}

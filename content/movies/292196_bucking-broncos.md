@@ -1,0 +1,1 @@
+{"tmdb_id": 292196, "title": "Bucking Broncos", "original_title": "Bucking Broncos", "slug_title": "bucking-broncos", "date": "1904-04-30", "genre": "Western / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

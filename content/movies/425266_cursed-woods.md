@@ -1,0 +1,1 @@
+{"tmdb_id": 425266, "title": "Cursed Woods", "original_title": "Cursed Woods", "slug_title": "cursed-woods", "date": "1983-01-01", "genre": "Thriller / Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dcoO9mLj2pi2BjxS29JyLSWw3zt.jpg", "actors": [], "comments": [], "recommandations_id": []}

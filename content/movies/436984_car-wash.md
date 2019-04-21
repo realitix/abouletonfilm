@@ -1,0 +1,1 @@
+{"tmdb_id": 436984, "title": "car wash", "original_title": "car wash", "slug_title": "car-wash", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424418, "title": "120 Minuten merkw\u00fcrdig", "original_title": "120 Minuten merkw\u00fcrdig", "slug_title": "120-minuten-merkwurdig", "date": "1982-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wrlE28yJyOg1of5OAhpdCagjRHE.jpg", "actors": [], "comments": [], "recommandations_id": []}

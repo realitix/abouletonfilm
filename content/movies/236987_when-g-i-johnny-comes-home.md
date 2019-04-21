@@ -1,0 +1,1 @@
+{"tmdb_id": 236987, "title": "When G.I. Johnny Comes Home", "original_title": "When G.I. Johnny Comes Home", "slug_title": "when-g-i-johnny-comes-home", "date": "1945-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9cQbKfAuQ4SF4T0EP48cBcz7fm.jpg", "actors": [], "comments": [], "recommandations_id": []}

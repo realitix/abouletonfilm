@@ -1,0 +1,1 @@
+{"tmdb_id": 275999, "title": "The Legend of Cryin' Ryan", "original_title": "The Legend of Cryin' Ryan", "slug_title": "the-legend-of-cryin-ryan", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 510150, "title": "Waiting for Elephants", "original_title": "Waiting for Elephants", "slug_title": "waiting-for-elephants", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hp2vHsCx3otDimBlqUtPwenmKpH.jpg", "actors": [], "comments": [], "recommandations_id": []}

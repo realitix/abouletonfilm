@@ -1,0 +1,1 @@
+{"tmdb_id": 534707, "title": "Clawhammer Banjo - DVD 1", "original_title": "Clawhammer Banjo - DVD 1", "slug_title": "clawhammer-banjo-dvd-1", "date": "1997-07-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Holt (David Holt)"], "comments": [], "recommandations_id": []}

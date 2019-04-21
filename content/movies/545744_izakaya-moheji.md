@@ -1,0 +1,1 @@
+{"tmdb_id": 545744, "title": "Izakaya Moheji", "original_title": "\u5c45\u9152\u5c4b\u3082\u3078\u3058", "slug_title": "izakaya-moheji", "date": "2011-09-25", "genre": "Com\u00e9die / Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yutaka Mizutani ()"], "comments": [], "recommandations_id": []}

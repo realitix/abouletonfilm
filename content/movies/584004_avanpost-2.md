@@ -1,0 +1,1 @@
+{"tmdb_id": 584004, "title": "\u0410\u0432\u0430\u043d\u043f\u043e\u0441\u0442 2", "original_title": "\u0410\u0432\u0430\u043d\u043f\u043e\u0441\u0442 2", "slug_title": "avanpost-2", "date": "2020-05-09", "genre": "Action / Thriller / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

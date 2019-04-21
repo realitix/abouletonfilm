@@ -1,0 +1,1 @@
+{"tmdb_id": 196471, "title": "Eine Moderne Ehe", "original_title": "Eine Moderne Ehe", "slug_title": "eine-moderne-ehe", "date": "1907-05-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

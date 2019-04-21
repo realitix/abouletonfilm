@@ -1,0 +1,1 @@
+{"tmdb_id": 429102, "title": "The Art of Listening", "original_title": "The Art of Listening", "slug_title": "the-art-of-listening", "date": "2016-06-02", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngNOaI0JXXFnUWgUS453Gg3TgyR.jpg", "actors": [], "comments": [], "recommandations_id": []}

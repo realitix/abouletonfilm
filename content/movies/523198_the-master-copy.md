@@ -1,0 +1,1 @@
+{"tmdb_id": 523198, "title": "The Master Copy", "original_title": "The Master Copy", "slug_title": "the-master-copy", "date": "1970-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

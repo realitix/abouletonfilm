@@ -1,0 +1,1 @@
+{"tmdb_id": 399264, "title": "Growing Up Coy", "original_title": "Growing Up Coy", "slug_title": "growing-up-coy", "date": "2016-06-16", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ygI1QrjUz3qqWDuXnIcUyH74xF9.jpg", "actors": [], "comments": [], "recommandations_id": [404994, 362092, 421002, 424992]}

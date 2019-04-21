@@ -1,0 +1,1 @@
+{"tmdb_id": 349980, "title": "Late Autumn", "original_title": "\ub9cc\ucd94", "slug_title": "late-autumn", "date": "1966-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRwLnNLeVfUnHqVzVusUqr3REkw.jpg", "actors": ["Shin Seong-il ()", "Moon Jung-suk ()", "Kim Jung-chul ()"], "comments": [], "recommandations_id": []}

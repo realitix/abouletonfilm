@@ -1,0 +1,1 @@
+{"tmdb_id": 562481, "title": "Player Two", "original_title": "Player Two", "slug_title": "player-two", "date": "2016-04-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AeaCpP35IC298j4KMPFIZ4TQro.jpg", "actors": [], "comments": [], "recommandations_id": []}

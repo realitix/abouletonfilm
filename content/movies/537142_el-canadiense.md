@@ -1,0 +1,1 @@
+{"tmdb_id": 537142, "title": "El canadiense", "original_title": "El canadiense", "slug_title": "el-canadiense", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avzZWhLKXlNo7Rc80K1Y1QnJg9Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547706, "title": "Inadequada", "original_title": "Inadequada", "slug_title": "inadequada", "date": "2018-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 75193, "title": "A Buddha", "original_title": "Un Buda", "slug_title": "a-buddha", "date": "2005-07-14", "genre": "Drame", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mklhqpyVE1t6ybFh5TJsQ8QAE5o.jpg", "actors": ["Diego Rafecas (Rafael)", "Carolina Fal (Laura)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333099, "title": "Dream/Killer", "original_title": "Dream/Killer", "slug_title": "dream-killer", "date": "2015-04-19", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imIjqPLpXKGNJRbP2jzecSZCdcV.jpg", "actors": [], "comments": [], "recommandations_id": [489137, 362439, 382088, 28450]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 48939, "title": "Vedi Napoli e poi muori", "original_title": "Vedi Napoli e poi muori", "slug_title": "vedi-napoli-e-poi-muori", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJepvt3cRmSQ97OufXSXvE7zQkF.jpg", "actors": [], "comments": [], "recommandations_id": []}

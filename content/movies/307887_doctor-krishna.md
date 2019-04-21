@@ -1,0 +1,1 @@
+{"tmdb_id": 307887, "title": "Doctor Krishna", "original_title": "Doctor Krishna", "slug_title": "doctor-krishna", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

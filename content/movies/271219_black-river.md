@@ -1,0 +1,1 @@
+{"tmdb_id": 271219, "title": "Black River", "original_title": "Black River", "slug_title": "black-river", "date": "1994-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jblOUfoVYqLSDZgZ0WWldl3AYY.jpg", "actors": ["John Pringle (Judge Grey)", "John Pringle (Judge Grey)"], "comments": [], "recommandations_id": []}

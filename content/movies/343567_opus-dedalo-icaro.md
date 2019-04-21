@@ -1,0 +1,1 @@
+{"tmdb_id": 343567, "title": "Opus De\u0301dalo: \u00cdcaro", "original_title": "Opus De\u0301dalo: \u00cdcaro", "slug_title": "opus-dedalo-icaro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypn5Fccd7mXUmDTR0OrEnOxZ8Gn.jpg", "actors": [], "comments": [], "recommandations_id": []}

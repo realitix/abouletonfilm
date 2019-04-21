@@ -1,0 +1,1 @@
+{"tmdb_id": 40648, "title": "Travel: The Pacific", "original_title": "Travel: The Pacific", "slug_title": "travel-the-pacific", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559974, "title": "Shock Wave 2", "original_title": "Shock Wave 2", "slug_title": "shock-wave-2", "date": "2020-02-20", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRNjpQHrt6gYewmI1mqV2UIHiBs.jpg", "actors": ["Andy Lau ()"], "comments": [], "recommandations_id": []}

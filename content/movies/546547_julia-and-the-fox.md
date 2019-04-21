@@ -1,0 +1,1 @@
+{"tmdb_id": 546547, "title": "Julia and the Fox", "original_title": "Julia y el zorro", "slug_title": "julia-and-the-fox", "date": "2018-09-26", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/448NeWdT5urVSomMkvM3fydLFW3.jpg", "actors": [], "comments": [], "recommandations_id": []}

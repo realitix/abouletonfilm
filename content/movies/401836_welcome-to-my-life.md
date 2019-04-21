@@ -1,0 +1,1 @@
+{"tmdb_id": 401836, "title": "Welcome to My Life", "original_title": "Welcome to My Life", "slug_title": "welcome-to-my-life", "date": "2015-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEQsifOGR5CQbkzmCCXMvu5HKNU.jpg", "actors": [], "comments": [], "recommandations_id": []}

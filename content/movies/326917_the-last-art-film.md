@@ -1,0 +1,1 @@
+{"tmdb_id": 326917, "title": "The Last Art Film", "original_title": "The Last Art Film", "slug_title": "the-last-art-film", "date": "2012-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

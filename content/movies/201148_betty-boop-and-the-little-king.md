@@ -1,0 +1,1 @@
+{"tmdb_id": 201148, "title": "Betty Boop and the Little King", "original_title": "Betty Boop and the Little King", "slug_title": "betty-boop-and-the-little-king", "date": "1936-01-31", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGur6z6pGhZc2cm6lviRBXktUZ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

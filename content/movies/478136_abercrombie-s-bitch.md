@@ -1,0 +1,1 @@
+{"tmdb_id": 478136, "title": "Abercrombie's Bitch", "original_title": "Abercrombie's Bitch", "slug_title": "abercrombie-s-bitch", "date": "2001-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Branch (Master)", "Brad Brantley (Slave)"], "comments": [], "recommandations_id": []}

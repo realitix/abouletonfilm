@@ -1,0 +1,1 @@
+{"tmdb_id": 537503, "title": "Melodrama", "original_title": "Melodrama", "slug_title": "melodrama", "date": "1996-09-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ver\u00f3nica L\u00f3pez ()", "Carlos Cruz  ()", "Mar\u00eda Isabel D\u00edaz ()", "Humberto P\u00e1ez ()"], "comments": [], "recommandations_id": []}

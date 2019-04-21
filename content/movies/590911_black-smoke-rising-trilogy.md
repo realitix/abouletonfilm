@@ -1,0 +1,1 @@
+{"tmdb_id": 590911, "title": "Black Smoke Rising Trilogy", "original_title": "Black Smoke Rising Trilogy", "slug_title": "black-smoke-rising-trilogy", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

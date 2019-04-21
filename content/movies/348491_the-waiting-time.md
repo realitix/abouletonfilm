@@ -1,0 +1,1 @@
+{"tmdb_id": 348491, "title": "The Waiting Time", "original_title": "The Waiting Time", "slug_title": "the-waiting-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9kKjdNLG4jTROt52gqHnHfaOWVx.jpg", "actors": [], "comments": [], "recommandations_id": []}

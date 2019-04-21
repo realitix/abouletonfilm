@@ -1,0 +1,1 @@
+{"tmdb_id": 575487, "title": "Sac de Merde", "original_title": "Sac de Merde", "slug_title": "sac-de-merde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

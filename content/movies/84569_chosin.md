@@ -1,0 +1,1 @@
+{"tmdb_id": 84569, "title": "Chosin", "original_title": "Chosin", "slug_title": "chosin", "date": "2010-09-10", "genre": "Histoire / Documentaire / Drame / Guerre", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/voi5DD7kpFvLUoRk8lwbMg0KZ8e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 365988, "title": "Across Arctic Ungava", "original_title": "Across Arctic Ungava", "slug_title": "across-arctic-ungava", "date": "1949-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

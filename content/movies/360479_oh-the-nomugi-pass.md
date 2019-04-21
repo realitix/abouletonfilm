@@ -1,0 +1,1 @@
+{"tmdb_id": 360479, "title": "Oh! The Nomugi Pass", "original_title": "Ah! Nomugi toge", "slug_title": "oh-the-nomugi-pass", "date": "1979-06-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v7gMFCAwWQu2kVQtxNXohgLpBib.jpg", "actors": [], "comments": [], "recommandations_id": []}

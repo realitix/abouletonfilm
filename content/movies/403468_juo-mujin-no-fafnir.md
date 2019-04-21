@@ -1,0 +1,1 @@
+{"tmdb_id": 403468, "title": "J\u016b\u014d Mujin no Fafnir", "original_title": "J\u016b\u014d Mujin no Fafnir", "slug_title": "juo-mujin-no-fafnir", "date": "2014-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukNS3Z0wMGo6Cpta3qbArDzQnWB.jpg", "actors": [], "comments": [], "recommandations_id": []}

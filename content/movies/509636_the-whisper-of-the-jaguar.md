@@ -1,0 +1,1 @@
+{"tmdb_id": 509636, "title": "The Whisper of the Jaguar", "original_title": "O Sussurro do Jaguar", "slug_title": "the-whisper-of-the-jaguar", "date": "2018-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNyJhoOGaFDE874zlXwu3qVatG0.jpg", "actors": [], "comments": [], "recommandations_id": []}

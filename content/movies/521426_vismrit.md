@@ -1,0 +1,1 @@
+{"tmdb_id": 521426, "title": "Vismrit", "original_title": "Vismrit", "slug_title": "vismrit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTLLrwbX1b6PmQaBly5TuoQ7rsJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

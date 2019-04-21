@@ -1,0 +1,1 @@
+{"tmdb_id": 307809, "title": "Chantigadu", "original_title": "Chantigadu", "slug_title": "chantigadu", "date": "2003-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

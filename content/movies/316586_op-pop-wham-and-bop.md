@@ -1,0 +1,1 @@
+{"tmdb_id": 316586, "title": "Op, Pop, Wham, and Bop", "original_title": "Op, Pop, Wham, and Bop", "slug_title": "op-pop-wham-and-bop", "date": "1966-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

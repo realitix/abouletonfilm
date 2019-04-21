@@ -1,0 +1,1 @@
+{"tmdb_id": 563958, "title": "Tes\u00e3o de Vaca", "original_title": "Tes\u00e3o de Vaca", "slug_title": "tesao-de-vaca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

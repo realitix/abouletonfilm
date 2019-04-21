@@ -1,0 +1,1 @@
+{"tmdb_id": 498490, "title": "The Streets Are Ours: Two Lives Cross in Karachi", "original_title": "The Streets Are Ours: Two Lives Cross in Karachi", "slug_title": "the-streets-are-ours-two-lives-cross-in-karachi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

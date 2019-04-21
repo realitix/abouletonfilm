@@ -1,0 +1,1 @@
+{"tmdb_id": 300659, "title": "Dakar Trottoirs", "original_title": "Dakar Trottoirs", "slug_title": "dakar-trottoirs", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Correa (Sirou)", "Prudence Maidu (Salla)", "Eriq Ebouaney (Maitre)"], "comments": [], "recommandations_id": []}

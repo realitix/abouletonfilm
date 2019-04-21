@@ -1,0 +1,1 @@
+{"tmdb_id": 428154, "title": "Cyber War", "original_title": "Cyber War", "slug_title": "cyber-war", "date": "2016-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

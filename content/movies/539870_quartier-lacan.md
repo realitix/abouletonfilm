@@ -1,0 +1,1 @@
+{"tmdb_id": 539870, "title": "Quartier Lacan", "original_title": "Quartier Lacan", "slug_title": "quartier-lacan", "date": "2001-11-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gqNWa4U6M2c441nL02eRYjcepit.jpg", "actors": ["Jacques Lacan ()"], "comments": [], "recommandations_id": []}

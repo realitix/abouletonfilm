@@ -1,0 +1,1 @@
+{"tmdb_id": 336662, "title": "Blind Luck", "original_title": "Pitik Bulag", "slug_title": "blind-luck", "date": "2009-07-01", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atpu4LSKYu6qTiEJmXektb1YQnH.jpg", "actors": ["Marco Alcaraz ()", "Victor Neri ()"], "comments": [], "recommandations_id": []}

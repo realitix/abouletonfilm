@@ -1,0 +1,1 @@
+{"tmdb_id": 255958, "title": "Avalokitesvara", "original_title": "\u4e0d\u80af\u53bb\u89c2\u97f3", "slug_title": "avalokitesvara", "date": "2013-07-26", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r6RCQZ7qv6eKGSAzK1pkuOMFqg1.jpg", "actors": [], "comments": [], "recommandations_id": []}

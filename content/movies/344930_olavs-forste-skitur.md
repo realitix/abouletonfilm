@@ -1,0 +1,1 @@
+{"tmdb_id": 344930, "title": "Olavs f\u00f8rste skitur", "original_title": "Olavs f\u00f8rste skitur", "slug_title": "olavs-forste-skitur", "date": "1991-06-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Minken Fosheim (Narrator (voice))"], "comments": [], "recommandations_id": []}

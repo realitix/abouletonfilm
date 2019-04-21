@@ -1,0 +1,1 @@
+{"tmdb_id": 295906, "title": "The English Potter", "original_title": "The English Potter", "slug_title": "the-english-potter", "date": "1933-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4b3hBXMsFG4oB0dyWzcj35KWwru.jpg", "actors": [], "comments": [], "recommandations_id": []}

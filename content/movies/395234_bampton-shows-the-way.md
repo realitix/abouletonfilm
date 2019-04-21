@@ -1,0 +1,1 @@
+{"tmdb_id": 395234, "title": "Bampton Shows the Way", "original_title": "Bampton Shows the Way", "slug_title": "bampton-shows-the-way", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

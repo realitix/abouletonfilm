@@ -1,0 +1,1 @@
+{"tmdb_id": 263817, "title": "Cyclops", "original_title": "\u0426\u0438\u043a\u043b\u043e\u043f\u044a\u0442", "slug_title": "cyclops", "date": "1976-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjFs3fnCIUdh1Ctj1YxQBXN6NIG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 524758, "title": "Carnets D'ateliers", "original_title": "Carnets D'ateliers", "slug_title": "carnets-d-ateliers", "date": "2016-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

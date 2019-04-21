@@ -1,0 +1,1 @@
+{"tmdb_id": 543270, "title": "Crossings and Meetings", "original_title": "Crossings and Meetings", "slug_title": "crossings-and-meetings", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryLFRLrvv9gAgi1ozLlGlRGuHTL.jpg", "actors": [], "comments": [], "recommandations_id": []}

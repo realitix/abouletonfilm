@@ -1,0 +1,1 @@
+{"tmdb_id": 379070, "title": "Pink Pest Control", "original_title": "Pink Pest Control", "slug_title": "pink-pest-control", "date": "1969-02-12", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GGUkQ3lnB0VxHSQdOCzuvooQGx.jpg", "actors": [], "comments": [], "recommandations_id": []}

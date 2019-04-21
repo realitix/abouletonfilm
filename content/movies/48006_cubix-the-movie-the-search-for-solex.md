@@ -1,0 +1,1 @@
+{"tmdb_id": 48006, "title": "Cubix the Movie: The Search For Solex", "original_title": "Kombock the Movie", "slug_title": "cubix-the-movie-the-search-for-solex", "date": "2004-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 592936, "title": "Mom lover 2", "original_title": "\uc5c4\ub9c8\uc560\uc7782", "slug_title": "mom-lover-2", "date": "2019-01-24", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgtg0D6jgTBmrJKYgC4PEhf6IHK.jpg", "actors": ["Lee Eun-mi-I ()", "Kim Su-ji ()"], "comments": [], "recommandations_id": []}

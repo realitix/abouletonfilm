@@ -1,0 +1,1 @@
+{"tmdb_id": 475919, "title": "Le feu \u00e0 la mine", "original_title": "Le feu \u00e0 la mine", "slug_title": "le-feu-a-la-mine", "date": "1911-10-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["L\u00e9once Perret ()"], "comments": [], "recommandations_id": []}

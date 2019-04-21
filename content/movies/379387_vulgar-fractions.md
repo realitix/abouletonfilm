@@ -1,0 +1,1 @@
+{"tmdb_id": 379387, "title": "Vulgar Fractions", "original_title": "Vulgar Fractions", "slug_title": "vulgar-fractions", "date": "2011-06-03", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/835oI8YwFIn3O5ft0uvZfXKb2r9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 405705, "title": "Justimus esitt\u00e4\u00e4: Fuck the Police", "original_title": "Justimus esitt\u00e4\u00e4: Fuck the Police", "slug_title": "justimus-esittaa-fuck-the-police", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

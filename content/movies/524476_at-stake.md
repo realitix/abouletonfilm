@@ -1,0 +1,1 @@
+{"tmdb_id": 524476, "title": "At Stake", "original_title": "Pertaruhan", "slug_title": "at-stake", "date": "2008-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZp4VtLv5ujaGMA9p3qEhXIppWb.jpg", "actors": [], "comments": [], "recommandations_id": []}

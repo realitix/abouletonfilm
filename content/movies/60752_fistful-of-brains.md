@@ -1,0 +1,1 @@
+{"tmdb_id": 60752, "title": "Fistful of Brains", "original_title": "Fistful of Brains", "slug_title": "fistful-of-brains", "date": "2008-10-10", "genre": "Western / Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DRrfE3oayItuv2zv7TbgvjCpkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

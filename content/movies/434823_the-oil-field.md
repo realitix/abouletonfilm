@@ -1,0 +1,1 @@
+{"tmdb_id": 434823, "title": "The Oil Field", "original_title": "Het olieveld", "slug_title": "the-oil-field", "date": "1954-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

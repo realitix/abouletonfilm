@@ -1,0 +1,1 @@
+{"tmdb_id": 371128, "title": "The Dialogue: An Interview with Screenwriter Jim Uhls", "original_title": "The Dialogue: An Interview with Screenwriter Jim Uhls", "slug_title": "the-dialogue-an-interview-with-screenwriter-jim-uhls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

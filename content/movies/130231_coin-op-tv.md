@@ -1,0 +1,1 @@
+{"tmdb_id": 130231, "title": "Coin-Op TV", "original_title": "Coin-Op TV", "slug_title": "coin-op-tv", "date": "2007-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXTCGX2DjIhRL4uXUkvuBx8WkOJ.jpg", "actors": ["Robert Welkner (Himself)", "Hailey Bright (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237847, "title": "President Roosevelt's Homecoming", "original_title": "President Roosevelt's Homecoming", "slug_title": "president-roosevelt-s-homecoming", "date": "1904-11-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

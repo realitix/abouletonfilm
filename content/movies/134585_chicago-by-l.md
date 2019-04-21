@@ -1,0 +1,1 @@
+{"tmdb_id": 134585, "title": "Chicago by L", "original_title": "Chicago by L", "slug_title": "chicago-by-l", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1x97tR73NJK1yskIR5UKw6UPMP.jpg", "actors": ["Geoffrey Baer (Himself / Presenter)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291706, "title": "Rachel's Man", "original_title": "Rachel's Man", "slug_title": "rachel-s-man", "date": "1976-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

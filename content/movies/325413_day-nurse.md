@@ -1,0 +1,1 @@
+{"tmdb_id": 325413, "title": "Day Nurse", "original_title": "Day Nurse", "slug_title": "day-nurse", "date": "1932-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

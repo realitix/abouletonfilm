@@ -1,0 +1,1 @@
+{"tmdb_id": 386064, "title": "It's a wonderful knife", "original_title": "It's a wonderful knife", "slug_title": "it-s-a-wonderful-knife", "date": "2014-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QuZycMTPbKEf9bsygyKfp71dYh.jpg", "actors": [], "comments": [], "recommandations_id": []}

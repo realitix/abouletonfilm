@@ -1,0 +1,1 @@
+{"tmdb_id": 40492, "title": "Lulu Santos - MTV ao Vivo", "original_title": "Lulu Santos - MTV ao Vivo", "slug_title": "lulu-santos-mtv-ao-vivo", "date": "2004-03-24", "genre": "Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYsMJ0TQMcuxha8YKwqwosS4zVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

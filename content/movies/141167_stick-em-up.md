@@ -1,0 +1,1 @@
+{"tmdb_id": 141167, "title": "Stick Em Up", "original_title": "Stick Em Up", "slug_title": "stick-em-up", "date": "2009-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/veUxIx8yhGqekgM6IRR8oU28zdO.jpg", "actors": [], "comments": [], "recommandations_id": []}

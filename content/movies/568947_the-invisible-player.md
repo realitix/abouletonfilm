@@ -1,0 +1,1 @@
+{"tmdb_id": 568947, "title": "The Invisible Player", "original_title": "Il calciatore invisibile", "slug_title": "the-invisible-player", "date": "2018-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyFDAnHPdoVjlSYjB5xTFhwRO8A.jpg", "actors": [], "comments": [], "recommandations_id": []}

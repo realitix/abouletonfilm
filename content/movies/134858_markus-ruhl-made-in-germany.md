@@ -1,0 +1,1 @@
+{"tmdb_id": 134858, "title": "Markus R\u00fchl Made In Germany", "original_title": "Markus R\u00fchl Made In Germany", "slug_title": "markus-ruhl-made-in-germany", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/31VnqnrRBNBMU1xoRDuy984oBWl.jpg", "actors": [], "comments": [], "recommandations_id": []}

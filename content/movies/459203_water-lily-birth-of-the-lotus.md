@@ -1,0 +1,1 @@
+{"tmdb_id": 459203, "title": "Water Lily - Birth of the Lotus", "original_title": "Water Lily - Birth of the Lotus", "slug_title": "water-lily-birth-of-the-lotus", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5Kj88OyueI6ttkYjKUqLBEtREJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

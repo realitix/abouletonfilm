@@ -1,0 +1,1 @@
+{"tmdb_id": 569476, "title": "C\u00f3mo Es Posible Que A Mi Lado", "original_title": "C\u00f3mo Es Posible Que A Mi Lado", "slug_title": "como-es-posible-que-a-mi-lado", "date": "1996-12-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Miguel ()"], "comments": [], "recommandations_id": []}

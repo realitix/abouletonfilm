@@ -1,0 +1,1 @@
+{"tmdb_id": 588962, "title": "The Revengeful Spirit of Eros", "original_title": "Erogami no onry\u00f4", "slug_title": "the-revengeful-spirit-of-eros", "date": "1930-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tatsuo Sait\u00f4 ()", "Hikaru Hoshi ()", "Satoko Date ()"], "comments": [], "recommandations_id": []}

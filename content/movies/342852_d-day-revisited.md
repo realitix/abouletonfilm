@@ -1,0 +1,1 @@
+{"tmdb_id": 342852, "title": "D-Day Revisited", "original_title": "D-Day Revisited", "slug_title": "d-day-revisited", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejli0hRkRiWlzjsyV8rvX7dfbEi.jpg", "actors": ["Darryl F. Zanuck (Himself)"], "comments": [], "recommandations_id": []}

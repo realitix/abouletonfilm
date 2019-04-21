@@ -1,0 +1,1 @@
+{"tmdb_id": 516129, "title": "Russ Nagel: Uncle of Anarchy", "original_title": "Russ Nagel: Uncle of Anarchy", "slug_title": "russ-nagel-uncle-of-anarchy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

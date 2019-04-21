@@ -1,0 +1,1 @@
+{"tmdb_id": 137130, "title": "Nadie por encima de la ley", "original_title": "Nadie por encima de la ley", "slug_title": "nadie-por-encima-de-la-ley", "date": "2007-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eleazar Garc\u00eda Jr. ()", "Amaranta Ruiz ()"], "comments": [], "recommandations_id": []}

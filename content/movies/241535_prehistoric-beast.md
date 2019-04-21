@@ -1,0 +1,1 @@
+{"tmdb_id": 241535, "title": "Prehistoric Beast", "original_title": "Prehistoric Beast", "slug_title": "prehistoric-beast", "date": "1985-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlksb4LPqfdGi10vnB0KOwvZcoY.jpg", "actors": [], "comments": [], "recommandations_id": []}

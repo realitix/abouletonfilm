@@ -1,0 +1,1 @@
+{"tmdb_id": 307339, "title": "Industry", "original_title": "Industry", "slug_title": "industry", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSX0QJCD6P3DG11oKLezRkGmwst.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334614, "title": "Art of Darkness", "original_title": "Art of Darkness", "slug_title": "art-of-darkness", "date": "2014-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNqFlsqWcy0xImv9wJ2DVq0To5R.jpg", "actors": [], "comments": [], "recommandations_id": []}

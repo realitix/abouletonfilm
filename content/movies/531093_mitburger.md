@@ -1,0 +1,1 @@
+{"tmdb_id": 531093, "title": "Mitb\u00fcrger", "original_title": "Mitb\u00fcrger", "slug_title": "mitburger", "date": "1974-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZKHnRdqHQ4sDNpOlZeO15itjY7.jpg", "actors": [], "comments": [], "recommandations_id": []}

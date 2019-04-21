@@ -1,0 +1,1 @@
+{"tmdb_id": 584898, "title": "Rumble Strip", "original_title": "Rumble Strip", "slug_title": "rumble-strip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

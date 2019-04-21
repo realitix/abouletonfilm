@@ -1,0 +1,1 @@
+{"tmdb_id": 151838, "title": "Wake Up the Gypsy in Me", "original_title": "Wake Up the Gypsy in Me", "slug_title": "wake-up-the-gypsy-in-me", "date": "1933-05-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sO3OrpGkQND2NpZMzIEfaAwd8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

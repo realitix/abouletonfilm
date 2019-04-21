@@ -1,0 +1,1 @@
+{"tmdb_id": 428148, "title": "Paris, Love, Cut", "original_title": "Paris, Love, Cut", "slug_title": "paris-love-cut", "date": "2016-11-29", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEKnoe4KCTrgfKyEf4xgtELOOVO.jpg", "actors": [], "comments": [], "recommandations_id": []}

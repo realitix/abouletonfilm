@@ -1,0 +1,1 @@
+{"tmdb_id": 328945, "title": "Kansas City Murder Factory", "original_title": "Kansas City Murder Factory", "slug_title": "kansas-city-murder-factory", "date": "2011-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

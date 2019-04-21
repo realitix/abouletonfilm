@@ -1,0 +1,1 @@
+{"tmdb_id": 329082, "title": "Bamba kasher", "original_title": "\u0628\u0645\u0628\u0629 \u0643\u0634\u0631", "slug_title": "bamba-kasher", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nadia El Gendy ()", "Samir Sabri ()", "Emad Hamdy ()"], "comments": [], "recommandations_id": []}

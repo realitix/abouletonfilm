@@ -1,0 +1,1 @@
+{"tmdb_id": 40583, "title": "RPM - MTV ao Vivo", "original_title": "RPM - MTV ao Vivo", "slug_title": "rpm-mtv-ao-vivo", "date": "2002-03-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IbFuCSFu5p6bQh8uMNB07wSfuE.jpg", "actors": ["Paulo Ricardo ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 355532, "title": "Man on Parallel Bars", "original_title": "Man on Parallel Bars", "slug_title": "man-on-parallel-bars", "date": "1892-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

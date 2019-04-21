@@ -1,0 +1,1 @@
+{"tmdb_id": 319522, "title": "Pet Alien: Lighter Side of Doom", "original_title": "Pet Alien: Lighter Side of Doom", "slug_title": "pet-alien-lighter-side-of-doom", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

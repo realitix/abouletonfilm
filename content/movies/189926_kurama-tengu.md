@@ -1,0 +1,1 @@
+{"tmdb_id": 189926, "title": "Kurama Tengu", "original_title": "\u978d\u99ac\u5929\u72d7", "slug_title": "kurama-tengu", "date": "1928-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/be1ptgPttzNCBhND5HUu6h6epdx.jpg", "actors": [], "comments": [], "recommandations_id": []}

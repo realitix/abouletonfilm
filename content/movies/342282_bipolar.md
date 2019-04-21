@@ -1,0 +1,1 @@
+{"tmdb_id": 342282, "title": "Bipolar", "original_title": "Bipolar", "slug_title": "bipolar", "date": "2015-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiXdKzGCdVyIcToW7lQSUUKg6G0.jpg", "actors": [], "comments": [], "recommandations_id": []}

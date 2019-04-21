@@ -1,0 +1,1 @@
+{"tmdb_id": 65988, "title": "Love Education", "original_title": "Love Education", "slug_title": "love-education", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 203536, "title": "Mr. Mari's Girls", "original_title": "Mr. Mari's Girls", "slug_title": "mr-mari-s-girls", "date": "1967-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFcH7k1gCRKZn4uxEmJn6DbMIPT.jpg", "actors": ["Sharon Kent ()"], "comments": [], "recommandations_id": []}

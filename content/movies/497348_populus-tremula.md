@@ -1,0 +1,1 @@
+{"tmdb_id": 497348, "title": "Populus Tremula", "original_title": "Populus Tremula", "slug_title": "populus-tremula", "date": "2010-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

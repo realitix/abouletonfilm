@@ -1,0 +1,1 @@
+{"tmdb_id": 444468, "title": "The Junk King", "original_title": "The Junk King", "slug_title": "the-junk-king", "date": "2012-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vince Hannemann (Self)", "Vince Hannemann (Self)"], "comments": [], "recommandations_id": []}

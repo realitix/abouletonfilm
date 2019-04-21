@@ -1,0 +1,1 @@
+{"tmdb_id": 527528, "title": "El Stand De Los Besos", "original_title": "El Stand De Los Besos", "slug_title": "el-stand-de-los-besos", "date": "", "genre": "", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 280743, "title": "Eastern Conference All Stars", "original_title": "Eastern Conference All Stars", "slug_title": "eastern-conference-all-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

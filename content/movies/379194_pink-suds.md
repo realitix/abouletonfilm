@@ -1,0 +1,1 @@
+{"tmdb_id": 379194, "title": "Pink Suds", "original_title": "Pink Suds", "slug_title": "pink-suds", "date": "1979-12-19", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QV6XMW7EfT6pnlpxn7i51oPhSP.jpg", "actors": [], "comments": [], "recommandations_id": []}

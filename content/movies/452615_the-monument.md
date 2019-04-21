@@ -1,0 +1,1 @@
+{"tmdb_id": 452615, "title": "The Monument", "original_title": "Das Monument", "slug_title": "the-monument", "date": "1990-03-23", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jLXw2keJgvlKuil9Vnt95xfI6Dh.jpg", "actors": [], "comments": [], "recommandations_id": []}

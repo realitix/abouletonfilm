@@ -1,0 +1,1 @@
+{"tmdb_id": 556125, "title": "Paul et Virginie", "original_title": "Paul et Virginie", "slug_title": "paul-et-virginie", "date": "1924-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

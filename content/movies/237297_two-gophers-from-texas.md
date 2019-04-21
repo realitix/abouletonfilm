@@ -1,0 +1,1 @@
+{"tmdb_id": 237297, "title": "Two Gophers from Texas", "original_title": "Two Gophers from Texas", "slug_title": "two-gophers-from-texas", "date": "1948-12-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aon19Aom786wA6K75dkKbLBGrin.jpg", "actors": [], "comments": [], "recommandations_id": []}

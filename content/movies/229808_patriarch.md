@@ -1,0 +1,1 @@
+{"tmdb_id": 229808, "title": "Patriarch", "original_title": "Patriarch", "slug_title": "patriarch", "date": "2012-12-31", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWMQVryI8tCWU7QA8I3dVG48JRb.jpg", "actors": ["Ansu Kabia ()", "Trevor Laird ()", "Kareem Onyiukah ()"], "comments": [], "recommandations_id": []}

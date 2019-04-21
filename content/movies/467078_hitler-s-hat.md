@@ -1,0 +1,1 @@
+{"tmdb_id": 467078, "title": "Hitler's Hat", "original_title": "Hitler's Hat", "slug_title": "hitler-s-hat", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bddmDtlkDam5hepMrguJNgBcB2I.jpg", "actors": [], "comments": [], "recommandations_id": []}

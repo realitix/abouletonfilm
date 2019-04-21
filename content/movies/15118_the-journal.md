@@ -1,0 +1,1 @@
+{"tmdb_id": 15118, "title": "The Journal", "original_title": "The Journal", "slug_title": "the-journal", "date": "2008-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0KaISB2DTA5brTfus6NKOac93K.jpg", "actors": [], "comments": [], "recommandations_id": []}

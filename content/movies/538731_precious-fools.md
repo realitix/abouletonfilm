@@ -1,0 +1,1 @@
+{"tmdb_id": 538731, "title": "Precious Fools", "original_title": "Les chevaliers de la cloche", "slug_title": "precious-fools", "date": "1938-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AqF2GZElw5vrAiAjT1gPQLzq4Ua.jpg", "actors": [], "comments": [], "recommandations_id": []}

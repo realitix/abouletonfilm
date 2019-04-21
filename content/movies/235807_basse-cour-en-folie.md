@@ -1,0 +1,1 @@
+{"tmdb_id": 235807, "title": "Basse-cour en folie", "original_title": "Fowl Weather", "slug_title": "basse-cour-en-folie", "date": "1953-04-03", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJtRlujtntk8EozZAbH0tMsQkb5.jpg", "actors": [], "comments": [], "recommandations_id": [219507]}

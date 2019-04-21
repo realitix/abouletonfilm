@@ -1,0 +1,1 @@
+{"tmdb_id": 162333, "title": "Gow the Killer", "original_title": "Gow the Killer", "slug_title": "gow-the-killer", "date": "1931-04-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6pyCO7iendc2I3Ah4qOAFycl1Aa.jpg", "actors": [], "comments": [], "recommandations_id": []}

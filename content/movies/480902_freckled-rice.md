@@ -1,0 +1,1 @@
+{"tmdb_id": 480902, "title": "Freckled Rice", "original_title": "Freckled Rice", "slug_title": "freckled-rice", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J. P. Wing (Joe)"], "comments": [], "recommandations_id": []}

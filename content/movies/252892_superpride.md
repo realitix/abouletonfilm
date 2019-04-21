@@ -1,0 +1,1 @@
+{"tmdb_id": 252892, "title": "Superpride", "original_title": "O Maior Grupo de Le\u00f5es", "slug_title": "superpride", "date": "2008-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1ZPLC0zMADb2aIpuqdro1OZkCH.jpg", "actors": ["Lance Lewman (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486129, "title": "En un pingo pagar\u00e9", "original_title": "En un pingo pagar\u00e9", "slug_title": "en-un-pingo-pagare", "date": "1922-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

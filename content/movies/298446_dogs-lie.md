@@ -1,0 +1,1 @@
+{"tmdb_id": 298446, "title": "Dogs Lie", "original_title": "Dogs Lie", "slug_title": "dogs-lie", "date": "2012-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSXLk0Rogx3LIfZ2ooeJejrVJgL.jpg", "actors": [], "comments": [], "recommandations_id": []}

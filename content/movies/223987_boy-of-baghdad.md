@@ -1,0 +1,1 @@
+{"tmdb_id": 223987, "title": "Boy of Baghdad", "original_title": "Boy of Baghdad", "slug_title": "boy-of-baghdad", "date": "2004-01-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fDJEkBdPEK9ULtd78QMJ2TPRA8W.jpg", "actors": ["Kheer Allah (Himself)"], "comments": [], "recommandations_id": []}

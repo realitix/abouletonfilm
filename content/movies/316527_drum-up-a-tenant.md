@@ -1,0 +1,1 @@
+{"tmdb_id": 316527, "title": "Drum Up a Tenant", "original_title": "Drum Up a Tenant", "slug_title": "drum-up-a-tenant", "date": "1963-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

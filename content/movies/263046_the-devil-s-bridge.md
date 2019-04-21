@@ -1,0 +1,1 @@
+{"tmdb_id": 263046, "title": "The Devil's Bridge", "original_title": "Shaytan k\u00f6p\u00fcr\u00f6", "slug_title": "the-devil-s-bridge", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXOMHIrmnybjgyi9URFD4vBP2cF.jpg", "actors": [], "comments": [], "recommandations_id": []}

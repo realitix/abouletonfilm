@@ -1,0 +1,1 @@
+{"tmdb_id": 530124, "title": "Find Yourself", "original_title": "Find Yourself", "slug_title": "find-yourself", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFUjj2NHV7sUMMUhC1VwrNkXuKr.jpg", "actors": [], "comments": [], "recommandations_id": []}

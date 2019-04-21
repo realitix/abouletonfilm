@@ -1,0 +1,1 @@
+{"tmdb_id": 386295, "title": "A Warm Reception in L.A.", "original_title": "A Warm Reception in L.A.", "slug_title": "a-warm-reception-in-l-a", "date": "1988-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

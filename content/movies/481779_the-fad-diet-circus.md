@@ -1,0 +1,1 @@
+{"tmdb_id": 481779, "title": "The Fad Diet Circus", "original_title": "The Fad Diet Circus", "slug_title": "the-fad-diet-circus", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrIeaSy9eSDr4Xp5wd7tCqbrsbq.jpg", "actors": ["Robert Atkins (Himself)"], "comments": [], "recommandations_id": []}

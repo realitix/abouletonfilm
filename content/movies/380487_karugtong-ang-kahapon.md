@@ -1,0 +1,1 @@
+{"tmdb_id": 380487, "title": "Karugtong Ang Kahapon", "original_title": "Karugtong Ang Kahapon", "slug_title": "karugtong-ang-kahapon", "date": "1975-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56PIlYQnyTGeQNH2UzfrAU4YdCR.jpg", "actors": [], "comments": [], "recommandations_id": []}

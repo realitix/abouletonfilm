@@ -1,0 +1,1 @@
+{"tmdb_id": 443200, "title": "Salt Water Daffy", "original_title": "Salt Water Daffy", "slug_title": "salt-water-daffy", "date": "1941-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Navy Captain / Sailors / Admiral (voice))", "Robert C. Bruce (Narrator (voice))"], "comments": [], "recommandations_id": []}

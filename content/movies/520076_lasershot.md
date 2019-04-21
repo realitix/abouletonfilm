@@ -1,0 +1,1 @@
+{"tmdb_id": 520076, "title": "Lasershot", "original_title": "Lasershot", "slug_title": "lasershot", "date": "2007-01-16", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Raymond Lim (Man in Black)", "Yoh Suzuki (Man in Red)"], "comments": [], "recommandations_id": []}

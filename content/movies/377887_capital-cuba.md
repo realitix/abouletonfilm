@@ -1,0 +1,1 @@
+{"tmdb_id": 377887, "title": "Capital Cuba", "original_title": "Capital Cuba", "slug_title": "capital-cuba", "date": "2015-01-17", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jXhHiT57HNxV3crtyXQET1tNdvH.jpg", "actors": [], "comments": [], "recommandations_id": []}

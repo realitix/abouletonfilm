@@ -1,0 +1,1 @@
+{"tmdb_id": 309560, "title": "Hype: The Obama Effect", "original_title": "Hype: The Obama Effect", "slug_title": "hype-the-obama-effect", "date": "2008-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPwfipGUE6h4iQSQ9FUP7TDbf4z.jpg", "actors": [], "comments": [], "recommandations_id": []}

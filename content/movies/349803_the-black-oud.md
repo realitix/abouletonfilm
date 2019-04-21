@@ -1,0 +1,1 @@
+{"tmdb_id": 349803, "title": "The Black Oud", "original_title": "The Black Oud", "slug_title": "the-black-oud", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5W9wEq5zwj21sgsuXQftV4fShRs.jpg", "actors": ["Joanna McClure ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 267689, "title": "Billa Ranga", "original_title": "Billa Ranga", "slug_title": "billa-ranga", "date": "1982-10-15", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiranjeevi ()", "Mohan Babu ()", "Swapna ()", "Syamala Gouri ()", "Prabhakar ()", "Thiagarajan ()"], "comments": [], "recommandations_id": []}

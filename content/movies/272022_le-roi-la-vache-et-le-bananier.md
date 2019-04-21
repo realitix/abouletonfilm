@@ -1,0 +1,1 @@
+{"tmdb_id": 272022, "title": "Le roi, la vache et le bananier", "original_title": "Le roi, la vache et le bananier", "slug_title": "le-roi-la-vache-et-le-bananier", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

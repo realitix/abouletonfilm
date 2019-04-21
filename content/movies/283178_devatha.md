@@ -1,0 +1,1 @@
+{"tmdb_id": 283178, "title": "Devatha", "original_title": "Devatha", "slug_title": "devatha", "date": "1941-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chittor V. Nagaiah ()", "Kumari ()", "Mudigonda Lingamurthy ()"], "comments": [], "recommandations_id": []}

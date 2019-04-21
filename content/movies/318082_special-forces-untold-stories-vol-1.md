@@ -1,0 +1,1 @@
+{"tmdb_id": 318082, "title": "Special Forces: Untold Stories: Vol. 1", "original_title": "Special Forces: Untold Stories: Vol. 1", "slug_title": "special-forces-untold-stories-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

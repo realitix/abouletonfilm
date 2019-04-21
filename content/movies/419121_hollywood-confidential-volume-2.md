@@ -1,0 +1,1 @@
+{"tmdb_id": 419121, "title": "Hollywood Confidential: Volume 2", "original_title": "Hollywood Confidential: Volume 2", "slug_title": "hollywood-confidential-volume-2", "date": "2015-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

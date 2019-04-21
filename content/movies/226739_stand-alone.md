@@ -1,0 +1,1 @@
+{"tmdb_id": 226739, "title": "Stand Alone", "original_title": "Stand Alone", "slug_title": "stand-alone", "date": "1985-09-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nazmIthlLYrma3yUcQ0WQw6HiqE.jpg", "actors": ["Charles Durning ()", "Pam Grier ()", "James Keach ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 77811, "title": "Ganja Queen", "original_title": "Ganja Queen", "slug_title": "ganja-queen", "date": "2007-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yCFpa90bJSMvFgSiOaxTbVy0bL.jpg", "actors": [], "comments": [], "recommandations_id": []}

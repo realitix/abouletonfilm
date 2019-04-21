@@ -1,0 +1,1 @@
+{"tmdb_id": 529435, "title": "Mortal Contact", "original_title": "Mortal Contact", "slug_title": "mortal-contact", "date": "1995-04-06", "genre": "Action / T\u00e9l\u00e9film", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herve Guillon (Michael Reeves)", "Pat Bend (Marina Stone)"], "comments": [], "recommandations_id": []}

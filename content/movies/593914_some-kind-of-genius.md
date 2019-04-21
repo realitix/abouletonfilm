@@ -1,0 +1,1 @@
+{"tmdb_id": 593914, "title": "Some Kind of Genius", "original_title": "Some Kind of Genius", "slug_title": "some-kind-of-genius", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dennis Hopper (Himself)"], "comments": [], "recommandations_id": []}

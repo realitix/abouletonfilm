@@ -1,0 +1,1 @@
+{"tmdb_id": 154077, "title": "The Purified", "original_title": "De Lutrede", "slug_title": "the-purified", "date": "2003-01-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lars von Trier (Himself)"], "comments": [], "recommandations_id": []}

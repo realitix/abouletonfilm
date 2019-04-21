@@ -1,0 +1,1 @@
+{"tmdb_id": 418534, "title": "Fortune Seekers", "original_title": "Fortune Seekers", "slug_title": "fortune-seekers", "date": "1956-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Hite (Narrator (voice))"], "comments": [], "recommandations_id": []}

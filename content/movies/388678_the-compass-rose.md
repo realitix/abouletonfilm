@@ -1,0 +1,1 @@
+{"tmdb_id": 388678, "title": "The Compass Rose", "original_title": "La rosa de los vientos", "slug_title": "the-compass-rose", "date": "1983-03-19", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/poEmhClRzgh5WETrHxFWSTbfzj9.jpg", "actors": [], "comments": [], "recommandations_id": []}

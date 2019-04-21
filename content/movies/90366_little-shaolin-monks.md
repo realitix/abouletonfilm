@@ -1,0 +1,1 @@
+{"tmdb_id": 90366, "title": "Little Shaolin Monks", "original_title": "Little Shaolin Monks", "slug_title": "little-shaolin-monks", "date": "2007-01-16", "genre": "Action / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iciHASA8tcDfGyiQgWekwz6pGPD.jpg", "actors": [], "comments": [], "recommandations_id": []}

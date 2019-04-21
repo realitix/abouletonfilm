@@ -1,0 +1,1 @@
+{"tmdb_id": 113626, "title": "Dr. Curry", "original_title": "Dr. Curry", "slug_title": "dr-curry", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

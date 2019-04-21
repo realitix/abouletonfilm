@@ -1,0 +1,1 @@
+{"tmdb_id": 273910, "title": "Robert Wise: American Filmmaker", "original_title": "Robert Wise: American Filmmaker", "slug_title": "robert-wise-american-filmmaker", "date": "2013-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

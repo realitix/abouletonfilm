@@ -1,0 +1,1 @@
+{"tmdb_id": 302672, "title": "Nice Bombs", "original_title": "Nice Bombs", "slug_title": "nice-bombs", "date": "2013-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

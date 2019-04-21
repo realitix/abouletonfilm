@@ -1,0 +1,1 @@
+{"tmdb_id": 182728, "title": "B.B. King: Blues Summit", "original_title": "B.B. King: Blues Summit", "slug_title": "b-b-king-blues-summit", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8itIQtCVEJpbOY6hgLgrGQl5wsL.jpg", "actors": ["B.B. King ()", "Ruth Brown ()"], "comments": [], "recommandations_id": []}

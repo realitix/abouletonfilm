@@ -1,0 +1,1 @@
+{"tmdb_id": 565252, "title": "As N\u00fapcias de Dr\u00e1cula", "original_title": "As N\u00fapcias de Dr\u00e1cula", "slug_title": "as-nupcias-de-dracula", "date": "2018-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jn6Hq8NTZgBuC1ykWYpjnpNimEo.jpg", "actors": [], "comments": [], "recommandations_id": []}

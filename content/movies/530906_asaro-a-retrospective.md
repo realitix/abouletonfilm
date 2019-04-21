@@ -1,0 +1,1 @@
+{"tmdb_id": 530906, "title": "Asaro: A Retrospective", "original_title": "Asaro: A Retrospective", "slug_title": "asaro-a-retrospective", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

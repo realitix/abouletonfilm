@@ -1,0 +1,1 @@
+{"tmdb_id": 246793, "title": "Roulement, rouerie, aubage", "original_title": "Roulement, rouerie, aubage", "slug_title": "roulement-rouerie-aubage", "date": "1978-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kY2kDUi5sYLFfIR5a2zg722TNi9.jpg", "actors": [], "comments": [], "recommandations_id": []}

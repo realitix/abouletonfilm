@@ -1,0 +1,1 @@
+{"tmdb_id": 561295, "title": "Kadaram Kondan", "original_title": "Kadaram Kondan", "slug_title": "kadaram-kondan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6HGrhMvhq6tYJV4nb2ktNZWXCn.jpg", "actors": ["Vikram ()", "Akshara Haasan ()"], "comments": [], "recommandations_id": []}

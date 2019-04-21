@@ -1,0 +1,1 @@
+{"tmdb_id": 265516, "title": "Almost a Vision", "original_title": "Almost a Vision", "slug_title": "almost-a-vision", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Keith Barron ()", "Jill Bennett ()", "Tom Harrison ()"], "comments": [], "recommandations_id": []}

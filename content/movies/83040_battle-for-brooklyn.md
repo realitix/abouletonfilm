@@ -1,0 +1,1 @@
+{"tmdb_id": 83040, "title": "Battle for Brooklyn", "original_title": "Battle for Brooklyn", "slug_title": "battle-for-brooklyn", "date": "2011-06-17", "genre": "Documentaire / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7cneGgvWxAEmQ5oBMYBNCdClQAU.jpg", "actors": [], "comments": [], "recommandations_id": []}

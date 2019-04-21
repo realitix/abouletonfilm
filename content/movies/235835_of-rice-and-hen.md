@@ -1,0 +1,1 @@
+{"tmdb_id": 235835, "title": "Of Rice and Hen", "original_title": "Of Rice and Hen", "slug_title": "of-rice-and-hen", "date": "1953-11-13", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hf7V1d0Qc7oBvxq6F0AJDzpHdLu.jpg", "actors": [], "comments": [], "recommandations_id": [204020, 226810]}

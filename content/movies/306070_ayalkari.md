@@ -1,0 +1,1 @@
+{"tmdb_id": 306070, "title": "Ayalkari", "original_title": "Ayalkari", "slug_title": "ayalkari", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 335784, "title": "Killing Time", "original_title": "Killing Time", "slug_title": "killing-time", "date": "2015-03-22", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ppVo7mSXAl8GcSiebZ38ZAz3Vlt.jpg", "actors": [], "comments": [], "recommandations_id": []}

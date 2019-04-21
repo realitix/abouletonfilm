@@ -1,0 +1,1 @@
+{"tmdb_id": 459831, "title": "Leviathan Cycle, Episode 2: Yasmine", "original_title": "Leviathan Cycle, Episode 2: Yasmine", "slug_title": "leviathan-cycle-episode-2-yasmine", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

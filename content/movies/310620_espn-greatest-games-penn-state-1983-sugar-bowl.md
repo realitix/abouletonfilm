@@ -1,0 +1,1 @@
+{"tmdb_id": 310620, "title": "ESPN Greatest Games: Penn State 1983 Sugar Bowl", "original_title": "ESPN Greatest Games: Penn State 1983 Sugar Bowl", "slug_title": "espn-greatest-games-penn-state-1983-sugar-bowl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

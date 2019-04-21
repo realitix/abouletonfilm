@@ -1,0 +1,1 @@
+{"tmdb_id": 592862, "title": "Tie Pat Kai Kawin", "original_title": "Tie Pat Kai Kawin", "slug_title": "tie-pat-kai-kawin", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6mUqaPU3GdG9B06ShYTgjTG8yFI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382044, "title": "Steve: Death Collector", "original_title": "Steve: Death Collector", "slug_title": "steve-death-collector", "date": "2015-02-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

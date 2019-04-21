@@ -1,0 +1,1 @@
+{"tmdb_id": 470034, "title": "Hot Chicks", "original_title": "Hot Chicks", "slug_title": "hot-chicks", "date": "2006-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJkOXzlHNGxHBZU2Q6AvUoZ4dlG.jpg", "actors": [], "comments": [], "recommandations_id": []}

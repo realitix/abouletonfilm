@@ -1,0 +1,1 @@
+{"tmdb_id": 560668, "title": "The Subversion Agency", "original_title": "The Subversion Agency", "slug_title": "the-subversion-agency", "date": "2003-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Labat (El Jefe)"], "comments": [], "recommandations_id": []}

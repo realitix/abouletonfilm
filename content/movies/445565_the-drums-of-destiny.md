@@ -1,0 +1,1 @@
+{"tmdb_id": 445565, "title": "The Drums of Destiny", "original_title": "The Drums of Destiny", "slug_title": "the-drums-of-destiny", "date": "1962-08-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

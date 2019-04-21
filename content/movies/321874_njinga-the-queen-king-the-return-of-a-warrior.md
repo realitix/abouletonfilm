@@ -1,0 +1,1 @@
+{"tmdb_id": 321874, "title": "Njinga The Queen King; The Return Of A Warrior", "original_title": "Njinga The Queen King; The Return Of A Warrior", "slug_title": "njinga-the-queen-king-the-return-of-a-warrior", "date": "2010-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

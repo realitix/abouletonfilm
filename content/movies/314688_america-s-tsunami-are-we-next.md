@@ -1,0 +1,1 @@
+{"tmdb_id": 314688, "title": "America's Tsunami: Are We Next?", "original_title": "America's Tsunami: Are We Next?", "slug_title": "america-s-tsunami-are-we-next", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

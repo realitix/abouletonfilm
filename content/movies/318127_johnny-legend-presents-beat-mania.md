@@ -1,0 +1,1 @@
+{"tmdb_id": 318127, "title": "Johnny Legend Presents: Beat Mania!", "original_title": "Johnny Legend Presents: Beat Mania!", "slug_title": "johnny-legend-presents-beat-mania", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

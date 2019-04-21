@@ -1,0 +1,1 @@
+{"tmdb_id": 515788, "title": "That is not me", "original_title": "\u042d\u0442\u043e \u043d\u0435 \u044f", "slug_title": "that-is-not-me", "date": "2015-04-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vFACnHAzACcIFvp2VUDmOVxtUm9.jpg", "actors": ["Nikita Kukushkin ()"], "comments": [], "recommandations_id": []}

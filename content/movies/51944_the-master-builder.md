@@ -1,0 +1,1 @@
+{"tmdb_id": 51944, "title": "The Master Builder", "original_title": "The Master Builder", "slug_title": "the-master-builder", "date": "1960-03-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qeeItzy7BITx3G3yL8JaUKscDX4.jpg", "actors": [], "comments": [], "recommandations_id": []}

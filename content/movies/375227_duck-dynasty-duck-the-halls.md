@@ -1,0 +1,1 @@
+{"tmdb_id": 375227, "title": "Duck Dynasty: Duck the Halls", "original_title": "Duck Dynasty: Duck the Halls", "slug_title": "duck-dynasty-duck-the-halls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

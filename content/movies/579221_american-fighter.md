@@ -1,0 +1,1 @@
+{"tmdb_id": 579221, "title": "American Fighter", "original_title": "American Fighter", "slug_title": "american-fighter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Patrick Flanery (Duke)"], "comments": [], "recommandations_id": []}

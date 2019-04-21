@@ -1,0 +1,1 @@
+{"tmdb_id": 390375, "title": "Batman vs. Terminator", "original_title": "Batman vs. Terminator", "slug_title": "batman-vs-terminator", "date": "2016-03-22", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRu8bpVkWuVvZVU9MVbZd6ZTXGs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 71109, "title": "High School Musical Remix", "original_title": "High School Musical Remix", "slug_title": "high-school-musical-remix", "date": "", "genre": "", "score": "8.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HeYFdpHF5RoGChEzCcDxGjWJhV.jpg", "actors": [], "comments": [], "recommandations_id": []}

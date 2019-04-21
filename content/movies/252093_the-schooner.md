@@ -1,0 +1,1 @@
+{"tmdb_id": 252093, "title": "The Schooner", "original_title": "The Schooner", "slug_title": "the-schooner", "date": "1983-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

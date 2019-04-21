@@ -1,0 +1,1 @@
+{"tmdb_id": 311556, "title": "Father G and the Homeboys", "original_title": "Father G and the Homeboys", "slug_title": "father-g-and-the-homeboys", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

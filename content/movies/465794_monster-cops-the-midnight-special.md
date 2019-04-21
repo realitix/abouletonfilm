@@ -1,0 +1,1 @@
+{"tmdb_id": 465794, "title": "Monster Cops: The Midnight Special", "original_title": "Monster Cops: The Midnight Special", "slug_title": "monster-cops-the-midnight-special", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

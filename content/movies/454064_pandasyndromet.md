@@ -1,0 +1,1 @@
+{"tmdb_id": 454064, "title": "Pandasyndromet", "original_title": "Pandasyndromet", "slug_title": "pandasyndromet", "date": "2004-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omiWXJUK5klUWZd456ohBmtkaNw.jpg", "actors": [], "comments": [], "recommandations_id": []}

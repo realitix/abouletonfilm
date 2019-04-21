@@ -1,0 +1,1 @@
+{"tmdb_id": 534293, "title": "Sous les pieds des femmes", "original_title": "Sous les pieds des femmes", "slug_title": "sous-les-pieds-des-femmes", "date": "1997-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHLNpLRZY09kkZhsNxLl8qtD9c3.jpg", "actors": [], "comments": [], "recommandations_id": []}

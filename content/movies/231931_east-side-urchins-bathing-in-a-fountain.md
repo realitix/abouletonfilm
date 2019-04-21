@@ -1,0 +1,1 @@
+{"tmdb_id": 231931, "title": "East Side Urchins Bathing in a Fountain", "original_title": "East Side Urchins Bathing in a Fountain", "slug_title": "east-side-urchins-bathing-in-a-fountain", "date": "1903-10-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

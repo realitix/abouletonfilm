@@ -1,0 +1,1 @@
+{"tmdb_id": 444508, "title": "In Search of History: The Night Tulsa Burned", "original_title": "In Search of History: The Night Tulsa Burned", "slug_title": "in-search-of-history-the-night-tulsa-burned", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

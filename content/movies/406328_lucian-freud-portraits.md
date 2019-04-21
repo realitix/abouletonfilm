@@ -1,0 +1,1 @@
+{"tmdb_id": 406328, "title": "Lucian Freud: Portraits", "original_title": "Lucian Freud: Portraits", "slug_title": "lucian-freud-portraits", "date": "2004-06-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v20akkXxPl54VgXlB4onZnDWD6b.jpg", "actors": [], "comments": [], "recommandations_id": []}

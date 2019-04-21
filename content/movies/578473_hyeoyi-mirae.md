@@ -1,0 +1,1 @@
+{"tmdb_id": 578473, "title": "\ud600\uc758 \ubbf8\ub798", "original_title": "\ud600\uc758 \ubbf8\ub798", "slug_title": "hyeoyi-mirae", "date": "2014-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeong Ga-young ()", "\uc774\uc2b9\ucc2c ()"], "comments": [], "recommandations_id": []}

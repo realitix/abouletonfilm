@@ -1,0 +1,1 @@
+{"tmdb_id": 463623, "title": "Bukan Cinta Monyet", "original_title": "Bukan Cinta Monyet", "slug_title": "bukan-cinta-monyet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

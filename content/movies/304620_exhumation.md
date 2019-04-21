@@ -1,0 +1,1 @@
+{"tmdb_id": 304620, "title": "Exhumation", "original_title": "Exhumation", "slug_title": "exhumation", "date": "2013-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274764, "title": "Jet Bombers", "original_title": "Jet Bombers", "slug_title": "jet-bombers", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

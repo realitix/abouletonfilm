@@ -1,0 +1,1 @@
+{"tmdb_id": 116360, "title": "Inauguration", "original_title": "H\u00eddavat\u00e1s", "slug_title": "inauguration", "date": "1969-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ods7dHj7mc3ZmWaggz4z5EXd94f.jpg", "actors": [], "comments": [], "recommandations_id": []}

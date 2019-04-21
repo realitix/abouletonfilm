@@ -1,0 +1,1 @@
+{"tmdb_id": 560881, "title": "Dawning", "original_title": "Dagen br\u00e4cks", "slug_title": "dawning", "date": "1986-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nH2XlvYszcj2KymENDoQVGz0Fbs.jpg", "actors": [], "comments": [], "recommandations_id": []}

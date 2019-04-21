@@ -1,0 +1,1 @@
+{"tmdb_id": 574583, "title": "White Line Fever", "original_title": "White Line Fever", "slug_title": "white-line-fever", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

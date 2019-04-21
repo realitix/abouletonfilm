@@ -1,0 +1,1 @@
+{"tmdb_id": 552365, "title": "They All Came Back", "original_title": "Todas Vuelven", "slug_title": "they-all-came-back", "date": "2018-10-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magaly Solier ()", "Javiera Contador ()", "Emilia Ossand\u00f3n ()"], "comments": [], "recommandations_id": []}

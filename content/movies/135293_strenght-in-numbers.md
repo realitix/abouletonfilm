@@ -1,0 +1,1 @@
+{"tmdb_id": 135293, "title": "Strenght in Numbers", "original_title": "Strenght in Numbers", "slug_title": "strenght-in-numbers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

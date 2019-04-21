@@ -1,0 +1,1 @@
+{"tmdb_id": 112218, "title": "Polaroid Song", "original_title": "Polaroid Song", "slug_title": "polaroid-song", "date": "2012-11-14", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 160327, "title": "Happy Sushi", "original_title": "Happy Sushi", "slug_title": "happy-sushi", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

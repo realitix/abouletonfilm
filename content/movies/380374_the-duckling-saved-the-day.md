@@ -1,0 +1,1 @@
+{"tmdb_id": 380374, "title": "The Duckling Saved the Day", "original_title": "Ahiru no Otegara", "slug_title": "the-duckling-saved-the-day", "date": "1931-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tIIrG4yjiicRVKgq6uzFtsU41S.jpg", "actors": [], "comments": [], "recommandations_id": []}

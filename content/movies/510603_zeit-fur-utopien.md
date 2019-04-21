@@ -1,0 +1,1 @@
+{"tmdb_id": 510603, "title": "Zeit f\u00fcr Utopien", "original_title": "Zeit f\u00fcr Utopien", "slug_title": "zeit-fur-utopien", "date": "2018-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gvfqRSRALzv6PEkunNBX4uzZKtE.jpg", "actors": [], "comments": [], "recommandations_id": []}

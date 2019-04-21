@@ -1,0 +1,1 @@
+{"tmdb_id": 421636, "title": "Sea Travels", "original_title": "Sea Travels", "slug_title": "sea-travels", "date": "1978-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410840, "title": "Like Father, Like Son", "original_title": "Like Father, Like Son", "slug_title": "like-father-like-son", "date": "2016-08-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qukEzi5ego6aunMV1gqGrA27aaU.jpg", "actors": [], "comments": [], "recommandations_id": []}

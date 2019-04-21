@@ -1,0 +1,1 @@
+{"tmdb_id": 208005, "title": "The Solar Film", "original_title": "The Solar Film", "slug_title": "the-solar-film", "date": "1980-10-14", "genre": "Animation / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OooxuJ7JQUMKIhVJgsPQQb0CXB.jpg", "actors": ["Robert Millar (Himself)"], "comments": [], "recommandations_id": []}

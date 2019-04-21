@@ -1,0 +1,1 @@
+{"tmdb_id": 105776, "title": "MIS Human Secret Weapon", "original_title": "MIS Human Secret Weapon", "slug_title": "mis-human-secret-weapon", "date": "2012-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dG0wlXVkF4JbpUPufO25Dfm1iOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

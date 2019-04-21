@@ -1,0 +1,1 @@
+{"tmdb_id": 310848, "title": "Super Robot Wars", "original_title": "Super Robot Wars", "slug_title": "super-robot-wars", "date": "2005-05-27", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4baxNGvxzSVqQzFAcHI4RAUzosz.jpg", "actors": [], "comments": [], "recommandations_id": []}

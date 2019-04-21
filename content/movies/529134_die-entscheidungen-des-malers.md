@@ -1,0 +1,1 @@
+{"tmdb_id": 529134, "title": "Die Entscheidungen des Malers", "original_title": "Die Entscheidungen des Malers", "slug_title": "die-entscheidungen-des-malers", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

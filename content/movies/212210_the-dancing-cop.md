@@ -1,0 +1,1 @@
+{"tmdb_id": 212210, "title": "The Dancing Cop", "original_title": "The Dancing Cop", "slug_title": "the-dancing-cop", "date": "", "genre": "Drame / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Belleau (Travers)", "Ranjit Samra (Clerk)", "Mikal Grant (Wallace)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 472635, "title": "15 Minuten Intensiv Training", "original_title": "15 Minuten Intensiv Training", "slug_title": "15-minuten-intensiv-training", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

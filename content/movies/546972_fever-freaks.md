@@ -1,0 +1,1 @@
+{"tmdb_id": 546972, "title": "Fever Freaks", "original_title": "Fever Freaks", "slug_title": "fever-freaks", "date": "2017-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bi8JOYC6WKhtQmPIGuoqizN95Cr.jpg", "actors": [], "comments": [], "recommandations_id": []}

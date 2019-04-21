@@ -1,0 +1,1 @@
+{"tmdb_id": 511476, "title": "Lida Vanda Liusia", "original_title": "Lida Vanda Liusia", "slug_title": "lida-vanda-liusia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

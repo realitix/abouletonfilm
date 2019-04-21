@@ -1,0 +1,1 @@
+{"tmdb_id": 566977, "title": "Whipping Boy", "original_title": "Whipping Boy", "slug_title": "whipping-boy", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

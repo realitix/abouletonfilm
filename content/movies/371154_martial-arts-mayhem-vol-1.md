@@ -1,0 +1,1 @@
+{"tmdb_id": 371154, "title": "Martial Arts Mayhem Vol. 1", "original_title": "Martial Arts Mayhem Vol. 1", "slug_title": "martial-arts-mayhem-vol-1", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

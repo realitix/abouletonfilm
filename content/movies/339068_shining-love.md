@@ -1,0 +1,1 @@
+{"tmdb_id": 339068, "title": "Shining Love", "original_title": "Kagayaku ai", "slug_title": "shining-love", "date": "1931-05-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shoichi Nodera ()", "Teruyo Hayami ()", "Shoichi Kofujita ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 476209, "title": "T\u00e4ltprojektet 2004", "original_title": "T\u00e4ltprojektet 2004", "slug_title": "taltprojektet-2004", "date": "2004-09-17", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2rKIZWWWxIjndFL5o5CbGRqnta.jpg", "actors": [], "comments": [], "recommandations_id": []}

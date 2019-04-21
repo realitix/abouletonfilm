@@ -1,0 +1,1 @@
+{"tmdb_id": 284239, "title": "The strain", "original_title": "The strain", "slug_title": "the-strain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503052, "title": "Il grande paese d\u2019acciaio", "original_title": "Il grande paese d\u2019acciaio", "slug_title": "il-grande-paese-dacciaio", "date": "1960-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

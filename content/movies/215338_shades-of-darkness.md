@@ -1,0 +1,1 @@
+{"tmdb_id": 215338, "title": "Shades of Darkness", "original_title": "Shades of Darkness", "slug_title": "shades-of-darkness", "date": "2000-10-16", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37qfBHid2NNTGInbkau2meLIhOP.jpg", "actors": [], "comments": [], "recommandations_id": []}

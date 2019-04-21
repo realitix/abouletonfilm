@@ -1,0 +1,1 @@
+{"tmdb_id": 316480, "title": "Clobber's Ballet Ache", "original_title": "Clobber's Ballet Ache", "slug_title": "clobber-s-ballet-ache", "date": "1959-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

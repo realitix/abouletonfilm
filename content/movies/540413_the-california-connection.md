@@ -1,0 +1,1 @@
+{"tmdb_id": 540413, "title": "The California Connection", "original_title": "The California Connection", "slug_title": "the-california-connection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 373595, "title": "In Two Minds", "original_title": "In Two Minds", "slug_title": "in-two-minds", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

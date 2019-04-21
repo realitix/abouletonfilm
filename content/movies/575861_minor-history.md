@@ -1,0 +1,1 @@
+{"tmdb_id": 575861, "title": "Minor History", "original_title": "Minor History", "slug_title": "minor-history", "date": "2019-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

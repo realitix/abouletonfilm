@@ -1,0 +1,1 @@
+{"tmdb_id": 478371, "title": "Who The Fuck Is Jett Rebel", "original_title": "Who The Fuck Is Jett Rebel", "slug_title": "who-the-fuck-is-jett-rebel", "date": "2014-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jett Rebel ()"], "comments": [], "recommandations_id": []}

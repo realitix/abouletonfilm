@@ -1,0 +1,1 @@
+{"tmdb_id": 385082, "title": "Bellator 150: Kongo vs. Spartan", "original_title": "Bellator 150: Kongo vs. Spartan", "slug_title": "bellator-150-kongo-vs-spartan", "date": "2016-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vF95gPWYu9myQDFVoiuK8aV2tUN.jpg", "actors": [], "comments": [], "recommandations_id": []}

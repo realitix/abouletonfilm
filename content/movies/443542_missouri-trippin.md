@@ -1,0 +1,1 @@
+{"tmdb_id": 443542, "title": "Missouri Trippin'", "original_title": "Missouri Trippin'", "slug_title": "missouri-trippin", "date": "2016-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdtUwK32M07KsSFy9BJShbAeh3e.jpg", "actors": ["Caleb Harris (Stoney)"], "comments": [], "recommandations_id": []}

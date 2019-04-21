@@ -1,0 +1,1 @@
+{"tmdb_id": 271532, "title": "Cantors: A Faith in Song", "original_title": "Cantors: A Faith in Song", "slug_title": "cantors-a-faith-in-song", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

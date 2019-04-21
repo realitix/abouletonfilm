@@ -1,0 +1,1 @@
+{"tmdb_id": 77441, "title": "Sam Cade", "original_title": "Sam Cade", "slug_title": "sam-cade", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bX4qriCpABYMWIiLnL5Q1HiZyF.jpg", "actors": ["Glenn Ford (Sam Cade)", "Peter Ustinov ()"], "comments": [], "recommandations_id": []}

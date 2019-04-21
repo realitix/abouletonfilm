@@ -1,0 +1,1 @@
+{"tmdb_id": 317492, "title": "Dog the Bounty Hunter: Crime Is on the Run", "original_title": "Dog the Bounty Hunter: Crime Is on the Run", "slug_title": "dog-the-bounty-hunter-crime-is-on-the-run", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

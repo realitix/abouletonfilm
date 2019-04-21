@@ -1,0 +1,1 @@
+{"tmdb_id": 558077, "title": "Superman", "original_title": "Superman", "slug_title": "superman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny Sidak ()", "Nuton ()", "Antora ()"], "comments": [], "recommandations_id": []}

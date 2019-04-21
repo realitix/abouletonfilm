@@ -1,0 +1,1 @@
+{"tmdb_id": 592004, "title": "Terrible Things", "original_title": "Terrible Things", "slug_title": "terrible-things", "date": "2010-03-04", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

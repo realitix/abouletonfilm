@@ -1,0 +1,1 @@
+{"tmdb_id": 181069, "title": "Israel's Secret Weapon", "original_title": "Israel's Secret Weapon", "slug_title": "israel-s-secret-weapon", "date": "2003-03-27", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6pH3vZ6gxNtyacyj9pnFrz3MOBQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

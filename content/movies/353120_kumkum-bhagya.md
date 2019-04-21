@@ -1,0 +1,1 @@
+{"tmdb_id": 353120, "title": "Kumkum Bhagya", "original_title": "Kumkum Bhagya", "slug_title": "kumkum-bhagya", "date": "2015-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shriti Jha (Pragya Sharma)", "Shabbir Ahluwalia (Abhishek)"], "comments": [], "recommandations_id": []}

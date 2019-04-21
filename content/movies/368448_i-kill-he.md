@@ -1,0 +1,1 @@
+{"tmdb_id": 368448, "title": "I Kill He", "original_title": "Je tue il", "slug_title": "i-kill-he", "date": "1982-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkGXmBSEx3tFsProDxVa9uHZFLg.jpg", "actors": [], "comments": [], "recommandations_id": []}

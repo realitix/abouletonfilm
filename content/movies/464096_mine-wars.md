@@ -1,0 +1,1 @@
+{"tmdb_id": 464096, "title": "Mine Wars", "original_title": "Mine Wars", "slug_title": "mine-wars", "date": "2016-01-12", "genre": "Documentaire / Histoire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ZmFWeEjxDIsgVitjHK1lb05IM0.jpg", "actors": [], "comments": [], "recommandations_id": []}

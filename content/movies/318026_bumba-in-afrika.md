@@ -1,0 +1,1 @@
+{"tmdb_id": 318026, "title": "Bumba - In Afrika", "original_title": "Bumba - In Afrika", "slug_title": "bumba-in-afrika", "date": "2010-04-14", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nA57PukaBayXusazTMsnV0LdDb4.jpg", "actors": [], "comments": [], "recommandations_id": []}

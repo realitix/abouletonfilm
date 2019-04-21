@@ -1,0 +1,1 @@
+{"tmdb_id": 471755, "title": "The Manipulated Living", "original_title": "The Manipulated Living", "slug_title": "the-manipulated-living", "date": "2012-08-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6byhSq3K7FjcOXIZumVz8Z3A69.jpg", "actors": [], "comments": [], "recommandations_id": []}

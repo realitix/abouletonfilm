@@ -1,0 +1,1 @@
+{"tmdb_id": 584413, "title": "Mooshak e Kaghazi", "original_title": "Mooshak e Kaghazi", "slug_title": "mooshak-e-kaghazi", "date": "1997-01-01", "genre": "Drame / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

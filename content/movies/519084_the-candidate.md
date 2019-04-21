@@ -1,0 +1,1 @@
+{"tmdb_id": 519084, "title": "The Candidate", "original_title": "The Candidate", "slug_title": "the-candidate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

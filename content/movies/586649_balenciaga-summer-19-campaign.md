@@ -1,0 +1,1 @@
+{"tmdb_id": 586649, "title": "Balenciaga Summer 19 Campaign", "original_title": "Balenciaga Summer 19 Campaign", "slug_title": "balenciaga-summer-19-campaign", "date": "2019-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

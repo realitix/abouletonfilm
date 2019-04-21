@@ -1,0 +1,1 @@
+{"tmdb_id": 293185, "title": "A Stranger Waits", "original_title": "A Stranger Waits", "slug_title": "a-stranger-waits", "date": "1987-03-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIpkcsKMQwaz4wRk1jOMLPglXeS.jpg", "actors": ["Suzanne Pleshette ()", "Tom Atkins ()"], "comments": [], "recommandations_id": []}

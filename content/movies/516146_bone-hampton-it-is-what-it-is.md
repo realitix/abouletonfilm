@@ -1,0 +1,1 @@
+{"tmdb_id": 516146, "title": "Bone Hampton: It Is What It Is", "original_title": "Bone Hampton: It Is What It Is", "slug_title": "bone-hampton-it-is-what-it-is", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

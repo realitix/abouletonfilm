@@ -1,0 +1,1 @@
+{"tmdb_id": 330257, "title": "Treasure Seekers: The Silk Road", "original_title": "Treasure Seekers: The Silk Road", "slug_title": "treasure-seekers-the-silk-road", "date": "2001-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

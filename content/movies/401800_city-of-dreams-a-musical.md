@@ -1,0 +1,1 @@
+{"tmdb_id": 401800, "title": "City of Dreams: A Musical", "original_title": "City of Dreams: A Musical", "slug_title": "city-of-dreams-a-musical", "date": "2016-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

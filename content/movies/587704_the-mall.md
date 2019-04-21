@@ -1,0 +1,1 @@
+{"tmdb_id": 587704, "title": "The Mall", "original_title": "The Mall", "slug_title": "the-mall", "date": "1982-08-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znwB4kUUmjhxy8VDUAnfgUk0hPt.jpg", "actors": ["Charles Kuralt ()"], "comments": [], "recommandations_id": []}

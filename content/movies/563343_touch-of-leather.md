@@ -1,0 +1,1 @@
+{"tmdb_id": 563343, "title": "Touch Of Leather", "original_title": "Touch Of Leather", "slug_title": "touch-of-leather", "date": "1968-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

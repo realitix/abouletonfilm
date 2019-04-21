@@ -1,0 +1,1 @@
+{"tmdb_id": 309500, "title": "Malcolm X: A Search for Identity", "original_title": "Malcolm X: A Search for Identity", "slug_title": "malcolm-x-a-search-for-identity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

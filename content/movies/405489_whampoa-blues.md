@@ -1,0 +1,1 @@
+{"tmdb_id": 405489, "title": "Whampoa Blues", "original_title": "\u58ef\u5fd7\u8c6a\u60c5", "slug_title": "whampoa-blues", "date": "1989-10-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cN5GUBwPwGtwabU0lKiNOlL2Cf.jpg", "actors": [], "comments": [], "recommandations_id": []}

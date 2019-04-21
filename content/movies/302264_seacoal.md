@@ -1,0 +1,1 @@
+{"tmdb_id": 302264, "title": "Seacoal", "original_title": "Seacoal", "slug_title": "seacoal", "date": "1985-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amber Styles (Betty)", "Ray Stubbs (Ray)", "Corrina Stubbs (Corrina)"], "comments": [], "recommandations_id": []}

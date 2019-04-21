@@ -1,0 +1,1 @@
+{"tmdb_id": 147582, "title": "The Potemkin League", "original_title": "The Potemkin League", "slug_title": "the-potemkin-league", "date": "2010-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dC0iefL8AtYAnbk8rAFGCxF85dH.jpg", "actors": [], "comments": [], "recommandations_id": []}

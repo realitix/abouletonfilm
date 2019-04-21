@@ -1,0 +1,1 @@
+{"tmdb_id": 466333, "title": "Talitha Koum", "original_title": "\ud0c8\ub9ac\ud0c0 \ucff0", "slug_title": "talitha-koum", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mBMRE03khalOTTWcAS3NDhehtRO.jpg", "actors": ["Park Hyun-young ()"], "comments": [], "recommandations_id": []}

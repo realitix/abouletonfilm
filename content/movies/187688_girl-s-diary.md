@@ -1,0 +1,1 @@
+{"tmdb_id": 187688, "title": "Girl's Diary", "original_title": "Girl's Diary", "slug_title": "girl-s-diary", "date": "1975-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ai Ti ()"], "comments": [], "recommandations_id": []}

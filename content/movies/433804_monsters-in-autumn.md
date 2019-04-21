@@ -1,0 +1,1 @@
+{"tmdb_id": 433804, "title": "Monsters in Autumn", "original_title": "Monsters in Autumn", "slug_title": "monsters-in-autumn", "date": "2007-05-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herb Best (Dracula)", "Ken Byrnes (Frankenstein's Monster)", "Wayne Hilinski (The Wolfman)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 298460, "title": "The Looking Glass", "original_title": "The Looking Glass", "slug_title": "the-looking-glass", "date": "2011-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 108172, "title": "The Final 2007 Rugby World Cup", "original_title": "The Final 2007 Rugby World Cup", "slug_title": "the-final-2007-rugby-world-cup", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlgl6HXlRSKIvq7Xx2fEcx9RykC.jpg", "actors": [], "comments": [], "recommandations_id": []}

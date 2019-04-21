@@ -1,0 +1,1 @@
+{"tmdb_id": 306090, "title": "Long Live the Dead Zombie Anthology", "original_title": "Long Live the Dead Zombie Anthology", "slug_title": "long-live-the-dead-zombie-anthology", "date": "2013-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

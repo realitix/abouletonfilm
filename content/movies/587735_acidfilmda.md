@@ -1,0 +1,1 @@
+{"tmdb_id": 587735, "title": "Acidfilmda", "original_title": "Acidfilmda", "slug_title": "acidfilmda", "date": "1992-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vrmR1dszkznpEhdnIvWyQrCm4BD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 441747, "title": "Miskitu", "original_title": "Miskitu", "slug_title": "miskitu", "date": "2014-08-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uQ0ICZPT5MKOZSQdVPNRnEjV4n.jpg", "actors": [], "comments": [], "recommandations_id": []}

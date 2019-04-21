@@ -1,0 +1,1 @@
+{"tmdb_id": 379146, "title": "A Fly in the Pink", "original_title": "A Fly in the Pink", "slug_title": "a-fly-in-the-pink", "date": "1971-06-23", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oLwpueWNWG97FlySLIVr0KQdN9t.jpg", "actors": [], "comments": [], "recommandations_id": [379226]}

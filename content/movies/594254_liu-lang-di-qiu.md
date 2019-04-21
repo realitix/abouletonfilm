@@ -1,0 +1,1 @@
+{"tmdb_id": 594254, "title": "\u6d41\u6d6a\u5730\u7403", "original_title": "\u6d41\u6d6a\u5730\u7403", "slug_title": "liu-lang-di-qiu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

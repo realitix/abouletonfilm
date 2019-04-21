@@ -1,0 +1,1 @@
+{"tmdb_id": 495138, "title": "Cup Piece", "original_title": "Tassenst\u00fcck", "slug_title": "cup-piece", "date": "1976-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acG85W7alLFCT691pnPAlDTg1Zg.jpg", "actors": [], "comments": [], "recommandations_id": []}

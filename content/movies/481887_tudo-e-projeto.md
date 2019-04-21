@@ -1,0 +1,1 @@
+{"tmdb_id": 481887, "title": "Tudo \u00e9 Projeto", "original_title": "Tudo \u00e9 Projeto", "slug_title": "tudo-e-projeto", "date": "2017-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4qpxwZqKuI1TUturFq6wai5KaO6.jpg", "actors": [], "comments": [], "recommandations_id": []}

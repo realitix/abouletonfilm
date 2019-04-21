@@ -1,0 +1,1 @@
+{"tmdb_id": 345152, "title": "The Dance", "original_title": "Los del baile", "slug_title": "the-dance", "date": "1965-06-17", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qpzffQePbOPfkU08USg91xa9ki.jpg", "actors": [], "comments": [], "recommandations_id": []}

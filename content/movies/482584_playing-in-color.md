@@ -1,0 +1,1 @@
+{"tmdb_id": 482584, "title": "Playing in Color", "original_title": "\uc0c9\uc5d0 \ub180\ub2e4", "slug_title": "playing-in-color", "date": "2017-01-01", "genre": "Thriller / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dan4HBXOceH7cAX9kLwUb6yqxHR.jpg", "actors": [], "comments": [], "recommandations_id": []}

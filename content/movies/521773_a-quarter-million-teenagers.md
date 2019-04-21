@@ -1,0 +1,1 @@
+{"tmdb_id": 521773, "title": "A Quarter Million Teenagers", "original_title": "A Quarter Million Teenagers", "slug_title": "a-quarter-million-teenagers", "date": "1964-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

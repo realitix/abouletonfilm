@@ -1,0 +1,1 @@
+{"tmdb_id": 592085, "title": "Son of Kashmir: Burhan", "original_title": "Son of Kashmir: Burhan", "slug_title": "son-of-kashmir-burhan", "date": "2019-08-14", "genre": "Action / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wyuVzy7U3BY1tUGCJ1BgI7KEwG8.jpg", "actors": [], "comments": [], "recommandations_id": []}

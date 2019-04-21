@@ -1,0 +1,1 @@
+{"tmdb_id": 579401, "title": "Meu Rio Vermelho", "original_title": "Meu Rio Vermelho", "slug_title": "meu-rio-vermelho", "date": "2016-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDHAz9sLZssP8yviSvEaP1VuIiB.jpg", "actors": [], "comments": [], "recommandations_id": []}

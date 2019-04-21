@@ -1,0 +1,1 @@
+{"tmdb_id": 385331, "title": "The Legacy of Frida Kahlo", "original_title": "The Legacy of Frida Kahlo", "slug_title": "the-legacy-of-frida-kahlo", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NGAKbXATt0Jwz4DzTHyiNSMAeI.jpg", "actors": [], "comments": [], "recommandations_id": []}

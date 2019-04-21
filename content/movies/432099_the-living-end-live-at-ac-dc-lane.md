@@ -1,0 +1,1 @@
+{"tmdb_id": 432099, "title": "The Living End: Live at AC/DC Lane", "original_title": "The Living End: Live at AC/DC Lane", "slug_title": "the-living-end-live-at-ac-dc-lane", "date": "2008-07-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

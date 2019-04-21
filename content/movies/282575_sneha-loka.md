@@ -1,0 +1,1 @@
+{"tmdb_id": 282575, "title": "Sneha Loka", "original_title": "Sneha Loka", "slug_title": "sneha-loka", "date": "1999-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashikumar ()", "Anu Prabhakar ()", "Ramesh Aravind ()", "Vinod Raj ()"], "comments": [], "recommandations_id": []}

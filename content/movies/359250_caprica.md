@@ -1,0 +1,1 @@
+{"tmdb_id": 359250, "title": "Caprica", "original_title": "Caprica", "slug_title": "caprica", "date": "2009-04-21", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Vh10u6c6dpVL0j4qAW8H5WkjEe.jpg", "actors": [], "comments": [], "recommandations_id": []}

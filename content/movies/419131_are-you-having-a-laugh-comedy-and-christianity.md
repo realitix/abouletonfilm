@@ -1,0 +1,1 @@
+{"tmdb_id": 419131, "title": "Are You Having a Laugh? Comedy and Christianity", "original_title": "Are You Having a Laugh? Comedy and Christianity", "slug_title": "are-you-having-a-laugh-comedy-and-christianity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

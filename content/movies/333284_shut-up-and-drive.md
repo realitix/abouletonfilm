@@ -1,0 +1,1 @@
+{"tmdb_id": 333284, "title": "Shut Up and Drive", "original_title": "Shut Up and Drive", "slug_title": "shut-up-and-drive", "date": "2015-04-16", "genre": "Aventure / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

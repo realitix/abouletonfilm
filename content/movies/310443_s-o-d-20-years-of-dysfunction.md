@@ -1,0 +1,1 @@
+{"tmdb_id": 310443, "title": "S.O.D.: 20 Years of Dysfunction", "original_title": "S.O.D.: 20 Years of Dysfunction", "slug_title": "s-o-d-20-years-of-dysfunction", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

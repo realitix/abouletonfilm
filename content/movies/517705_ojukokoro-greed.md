@@ -1,0 +1,1 @@
+{"tmdb_id": 517705, "title": "Ojukokoro (Greed)", "original_title": "Ojukokoro (Greed)", "slug_title": "ojukokoro-greed", "date": "2016-11-17", "genre": "Action / Com\u00e9die / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hP9s4hulPSdrIRcPlPvUjOEq0Zz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 8394, "title": "Brigadistas", "original_title": "Brigadistas", "slug_title": "brigadistas", "date": "2007-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

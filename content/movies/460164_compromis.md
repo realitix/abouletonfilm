@@ -1,0 +1,1 @@
+{"tmdb_id": 460164, "title": "Compromis", "original_title": "Compromis", "slug_title": "compromis", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "Court m\u00e9trage avec Vincent Cassel", "image": "/img/default-cover.png", "actors": ["Vincent Cassel (Le jeune premier)"], "comments": [], "recommandations_id": []}

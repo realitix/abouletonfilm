@@ -1,0 +1,1 @@
+{"tmdb_id": 545709, "title": "Jugoslavija za mlade", "original_title": "Jugoslavija za mlade", "slug_title": "jugoslavija-za-mlade", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

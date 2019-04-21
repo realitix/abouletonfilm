@@ -1,0 +1,1 @@
+{"tmdb_id": 441858, "title": "Searching for Augusta", "original_title": "Searching for Augusta", "slug_title": "searching-for-augusta", "date": "2014-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mtMhnEeQqAvCEYrdJC8FJk2K3L7.jpg", "actors": [], "comments": [], "recommandations_id": []}

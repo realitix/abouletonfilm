@@ -1,0 +1,1 @@
+{"tmdb_id": 584479, "title": "Fashion Photographers Exposed", "original_title": "Fashion Photographers Exposed", "slug_title": "fashion-photographers-exposed", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

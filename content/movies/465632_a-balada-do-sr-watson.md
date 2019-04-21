@@ -1,0 +1,1 @@
+{"tmdb_id": 465632, "title": "A Balada do Sr. Watson", "original_title": "A Balada do Sr. Watson", "slug_title": "a-balada-do-sr-watson", "date": "2017-10-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQLUpg0VW2exTQ9HsK0RuvxN8Sm.jpg", "actors": [], "comments": [], "recommandations_id": []}

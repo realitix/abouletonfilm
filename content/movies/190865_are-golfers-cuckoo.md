@@ -1,0 +1,1 @@
+{"tmdb_id": 190865, "title": "Are Golfers Cuckoo?", "original_title": "Are Golfers Cuckoo?", "slug_title": "are-golfers-cuckoo", "date": "1926-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gene Layman (Fatty)", "Charles Dorety (Cholly)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531043, "title": "Criminal Skin", "original_title": "Criminal Skin", "slug_title": "criminal-skin", "date": "", "genre": "Drame / Thriller / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

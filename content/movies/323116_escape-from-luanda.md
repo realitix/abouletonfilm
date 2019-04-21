@@ -1,0 +1,1 @@
+{"tmdb_id": 323116, "title": "Escape from Luanda", "original_title": "Escape from Luanda", "slug_title": "escape-from-luanda", "date": "2007-11-20", "genre": "Guerre / Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFB75J6EKQGvUV2VXUChJDmd0kK.jpg", "actors": [], "comments": [], "recommandations_id": []}

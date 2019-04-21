@@ -1,0 +1,1 @@
+{"tmdb_id": 593974, "title": "Bukashki", "original_title": "Bukashki", "slug_title": "bukashki", "date": "2002-04-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ahgKTRUx4ABspoX4CnJxxDQA9w3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 545167, "title": "Um Lugar ao Sul", "original_title": "Um Lugar ao Sul", "slug_title": "um-lugar-ao-sul", "date": "2018-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kXeBA5F6PAmBhBp9ekv4JUc1PFI.jpg", "actors": [], "comments": [], "recommandations_id": []}

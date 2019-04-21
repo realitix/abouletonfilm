@@ -1,0 +1,1 @@
+{"tmdb_id": 330903, "title": "When We Ruled H-Town", "original_title": "When We Ruled H-Town", "slug_title": "when-we-ruled-h-town", "date": "2012-08-02", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

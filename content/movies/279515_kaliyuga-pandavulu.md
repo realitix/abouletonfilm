@@ -1,0 +1,1 @@
+{"tmdb_id": 279515, "title": "Kaliyuga Pandavulu", "original_title": "Kaliyuga Pandavulu", "slug_title": "kaliyuga-pandavulu", "date": "1986-08-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Venkatesh (Vijay)", "Khushboo (Bharathi)", "Rao Gopal Rao (Chakrapani)", "Chitti Babu ()"], "comments": [], "recommandations_id": []}

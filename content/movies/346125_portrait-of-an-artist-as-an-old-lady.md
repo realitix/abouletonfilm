@@ -1,0 +1,1 @@
+{"tmdb_id": 346125, "title": "Portrait of an Artist as an Old Lady", "original_title": "Portrait of an Artist as an Old Lady", "slug_title": "portrait-of-an-artist-as-an-old-lady", "date": "1982-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Germaine Greer (Narrator)"], "comments": [], "recommandations_id": []}

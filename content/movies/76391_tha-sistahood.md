@@ -1,0 +1,1 @@
+{"tmdb_id": 76391, "title": "Tha Sistahood", "original_title": "Tha Sistahood", "slug_title": "tha-sistahood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter 'Big Walt' Anderson (Big Brother Nasty Dawg)"], "comments": [], "recommandations_id": []}

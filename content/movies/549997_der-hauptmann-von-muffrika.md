@@ -1,0 +1,1 @@
+{"tmdb_id": 549997, "title": "Der Hauptmann von Muffrika", "original_title": "Der Hauptmann von Muffrika", "slug_title": "der-hauptmann-von-muffrika", "date": "1996-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/weEOx4sLNiqOGXRurOVu3dNNy4y.jpg", "actors": [], "comments": [], "recommandations_id": []}

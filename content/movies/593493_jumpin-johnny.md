@@ -1,0 +1,1 @@
+{"tmdb_id": 593493, "title": "Jumpin' Johnny", "original_title": "Jumpin' Johnny", "slug_title": "jumpin-johnny", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320563, "title": "Superman vs. Nature & War", "original_title": "Superman vs. Nature & War", "slug_title": "superman-vs-nature-war", "date": "2002-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

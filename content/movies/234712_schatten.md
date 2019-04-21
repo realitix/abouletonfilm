@@ -1,0 +1,1 @@
+{"tmdb_id": 234712, "title": "Schatten", "original_title": "Schatten", "slug_title": "schatten", "date": "1960-11-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

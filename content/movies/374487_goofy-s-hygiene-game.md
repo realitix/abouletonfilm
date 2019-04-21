@@ -1,0 +1,1 @@
+{"tmdb_id": 374487, "title": "Goofy's Hygiene Game", "original_title": "Goofy's Hygiene Game", "slug_title": "goofy-s-hygiene-game", "date": "1987-08-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehfhooMt0j2sN6stIKppYIRG9rY.jpg", "actors": [], "comments": [], "recommandations_id": []}

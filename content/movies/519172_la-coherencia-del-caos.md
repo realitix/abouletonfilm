@@ -1,0 +1,1 @@
+{"tmdb_id": 519172, "title": "La coherencia del caos", "original_title": "La coherencia del caos", "slug_title": "la-coherencia-del-caos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

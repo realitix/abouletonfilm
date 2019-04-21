@@ -1,0 +1,1 @@
+{"tmdb_id": 333608, "title": "Jiro Visits the Dentist", "original_title": "Jiro Visits the Dentist", "slug_title": "jiro-visits-the-dentist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

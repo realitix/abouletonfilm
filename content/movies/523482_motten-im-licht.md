@@ -1,0 +1,1 @@
+{"tmdb_id": 523482, "title": "Motten im Licht", "original_title": "Motten im Licht", "slug_title": "motten-im-licht", "date": "1989-01-27", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ivan Desny ()", "Kurt Raab ()", "Ren\u00e9e Soutendijk ()"], "comments": [], "recommandations_id": []}

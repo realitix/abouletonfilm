@@ -1,0 +1,1 @@
+{"tmdb_id": 496094, "title": "Praise the Lard", "original_title": "Praise the Lard", "slug_title": "praise-the-lard", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

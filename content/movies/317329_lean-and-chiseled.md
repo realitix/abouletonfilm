@@ -1,0 +1,1 @@
+{"tmdb_id": 317329, "title": "Lean and Chiseled", "original_title": "Lean and Chiseled", "slug_title": "lean-and-chiseled", "date": "2011-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pKoayakuAyijeWCF7n8eIzJbhQq.jpg", "actors": ["Andrea Rogers (Actor)"], "comments": [], "recommandations_id": []}

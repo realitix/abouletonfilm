@@ -1,0 +1,1 @@
+{"tmdb_id": 192795, "title": "Glissade sur la neige", "original_title": "Glissade sur la neige", "slug_title": "glissade-sur-la-neige", "date": "1901-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

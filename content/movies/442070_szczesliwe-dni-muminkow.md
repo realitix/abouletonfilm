@@ -1,0 +1,1 @@
+{"tmdb_id": 442070, "title": "Szczesliwe dni Muminkow", "original_title": "Szczesliwe dni Muminkow", "slug_title": "szczesliwe-dni-muminkow", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A0Qwypd2JE1eEJMAR6rizmSLBJv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564514, "title": "Field Study", "original_title": "Field Study", "slug_title": "field-study", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

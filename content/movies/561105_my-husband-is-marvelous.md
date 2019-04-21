@@ -1,0 +1,1 @@
+{"tmdb_id": 561105, "title": "My Husband Is Marvelous", "original_title": "Mon mari est merveilleux", "slug_title": "my-husband-is-marvelous", "date": "1953-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dkmXGiKzQJ81JRIbxIBiodjazS3.jpg", "actors": [], "comments": [], "recommandations_id": []}

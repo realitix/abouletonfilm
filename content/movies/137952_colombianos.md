@@ -1,0 +1,1 @@
+{"tmdb_id": 137952, "title": "Colombianos", "original_title": "Colombianos", "slug_title": "colombianos", "date": "2012-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

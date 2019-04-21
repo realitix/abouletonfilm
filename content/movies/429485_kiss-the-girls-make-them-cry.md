@@ -1,0 +1,1 @@
+{"tmdb_id": 429485, "title": "Kiss the Girls: Make them Cry", "original_title": "Kiss the Girls: Make them Cry", "slug_title": "kiss-the-girls-make-them-cry", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

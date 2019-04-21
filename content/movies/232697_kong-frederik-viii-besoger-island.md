@@ -1,0 +1,1 @@
+{"tmdb_id": 232697, "title": "Kong Frederik VIII bes\u00f8ger Island", "original_title": "Kong Frederik VIII bes\u00f8ger Island", "slug_title": "kong-frederik-viii-besoger-island", "date": "1907-11-03", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

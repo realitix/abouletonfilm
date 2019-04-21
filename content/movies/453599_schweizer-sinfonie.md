@@ -1,0 +1,1 @@
+{"tmdb_id": 453599, "title": "Schweizer Sinfonie", "original_title": "Schweizer Sinfonie", "slug_title": "schweizer-sinfonie", "date": "1939-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

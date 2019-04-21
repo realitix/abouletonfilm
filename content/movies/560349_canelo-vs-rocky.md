@@ -1,0 +1,1 @@
+{"tmdb_id": 560349, "title": "Canelo Vs. Rocky", "original_title": "Canelo Vs. Rocky", "slug_title": "canelo-vs-rocky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jk78GpsWHIWHBYhGRNIECMHtGVA.jpg", "actors": [], "comments": [], "recommandations_id": []}

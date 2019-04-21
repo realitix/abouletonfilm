@@ -1,0 +1,1 @@
+{"tmdb_id": 323511, "title": "Buzzkill: Is There Life After Coffee?", "original_title": "Buzzkill: Is There Life After Coffee?", "slug_title": "buzzkill-is-there-life-after-coffee", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552524, "title": "Lilo & Stitch", "original_title": "Lilo & Stitch", "slug_title": "lilo-stitch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

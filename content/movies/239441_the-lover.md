@@ -1,0 +1,1 @@
+{"tmdb_id": 239441, "title": "The Lover", "original_title": "L'amateur", "slug_title": "the-lover", "date": "1996-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MLI1AJ9P2S3eEJjL2YsRiz0OzD.jpg", "actors": [], "comments": [], "recommandations_id": [166092, 69916, 214157, 49176]}

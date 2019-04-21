@@ -1,0 +1,1 @@
+{"tmdb_id": 540045, "title": "The Kidnapping", "original_title": "\u7ed1\u67b6\u6bdb\u4e4e\u4e4e", "slug_title": "the-kidnapping", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

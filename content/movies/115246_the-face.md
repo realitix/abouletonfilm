@@ -1,0 +1,1 @@
+{"tmdb_id": 115246, "title": "The Face", "original_title": "Twarz", "slug_title": "the-face", "date": "1966-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8P98Qrq8uwsH5Jh05L78PxvMgQ.jpg", "actors": ["Krzysztof Kie\u015blowski (The Artist)"], "comments": [], "recommandations_id": []}

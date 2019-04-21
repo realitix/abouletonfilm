@@ -1,0 +1,1 @@
+{"tmdb_id": 515961, "title": "Das M\u00e4dchen aus Frisco", "original_title": "Das M\u00e4dchen aus Frisco", "slug_title": "das-madchen-aus-frisco", "date": "1927-12-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudolf Klein-Rogge ()", "Hermann Picha ()", "Egon von Jordan ()"], "comments": [], "recommandations_id": []}

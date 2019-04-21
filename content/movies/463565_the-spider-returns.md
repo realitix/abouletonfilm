@@ -1,0 +1,1 @@
+{"tmdb_id": 463565, "title": "The Spider Returns", "original_title": "The Spider Returns", "slug_title": "the-spider-returns", "date": "1943-05-05", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Warren Hull ()", "Mary Ainslee ()"], "comments": [], "recommandations_id": []}

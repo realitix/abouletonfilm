@@ -1,0 +1,1 @@
+{"tmdb_id": 390424, "title": "The Missing Bus", "original_title": "Kay\u0131p Otob\u00fcs", "slug_title": "the-missing-bus", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44pWXA3Uex9mvbE617LqGrlkcsP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 144988, "title": "Snowman's Dilemma", "original_title": "Snezhniyat chovek", "slug_title": "snowman-s-dilemma", "date": "1960-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HoX0xpUOxF94Cr4LFj1c5enTsN.jpg", "actors": [], "comments": [], "recommandations_id": []}

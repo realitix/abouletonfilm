@@ -1,0 +1,1 @@
+{"tmdb_id": 131345, "title": "Radium City", "original_title": "Radium City", "slug_title": "radium-city", "date": "1987-09-26", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVKkG9wzJppmAlKmanZIrsAcyMy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581431, "title": "Telemundo", "original_title": "Telemundo", "slug_title": "telemundo", "date": "2018-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnIQX1zbLqYkxDz9rMDIy4MJvzV.jpg", "actors": ["James Benning (Himself)", "Sofia Brito (Herself)"], "comments": [], "recommandations_id": []}

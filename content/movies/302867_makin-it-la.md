@@ -1,0 +1,1 @@
+{"tmdb_id": 302867, "title": "Makin' It LA", "original_title": "Makin' It LA", "slug_title": "makin-it-la", "date": "2014-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

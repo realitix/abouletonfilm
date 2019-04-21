@@ -1,0 +1,1 @@
+{"tmdb_id": 315551, "title": "The Weavers of Nishijin", "original_title": "\u897f\u9663", "slug_title": "the-weavers-of-nishijin", "date": "1962-01-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKI20PHJkUulZBC8o61QVxzLqxp.jpg", "actors": [], "comments": [], "recommandations_id": []}

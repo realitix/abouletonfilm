@@ -1,0 +1,1 @@
+{"tmdb_id": 518519, "title": "A Elipse do Tempo", "original_title": "A Elipse do Tempo", "slug_title": "a-elipse-do-tempo", "date": "2018-04-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

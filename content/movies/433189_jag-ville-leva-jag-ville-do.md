@@ -1,0 +1,1 @@
+{"tmdb_id": 433189, "title": "Jag ville leva, jag ville d\u00f6...", "original_title": "Jag ville leva, jag ville d\u00f6...", "slug_title": "jag-ville-leva-jag-ville-do", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

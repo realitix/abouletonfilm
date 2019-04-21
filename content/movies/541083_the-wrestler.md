@@ -1,0 +1,1 @@
+{"tmdb_id": 541083, "title": "The Wrestler", "original_title": "Painija", "slug_title": "the-wrestler", "date": "1985-09-26", "genre": "Com\u00e9die / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sqc479ZwNP1IZdFMnGkjaazYlm.jpg", "actors": ["Esko Hukkanen (Painija)"], "comments": [], "recommandations_id": []}

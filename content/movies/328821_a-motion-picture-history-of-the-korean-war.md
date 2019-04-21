@@ -1,0 +1,1 @@
+{"tmdb_id": 328821, "title": "A Motion Picture History Of The Korean War", "original_title": "A Motion Picture History Of The Korean War", "slug_title": "a-motion-picture-history-of-the-korean-war", "date": "1953-01-01", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

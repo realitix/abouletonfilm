@@ -1,0 +1,1 @@
+{"tmdb_id": 338242, "title": "Afife Jale", "original_title": "Afife Jale", "slug_title": "afife-jale", "date": "1987-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQSzfNSmaXeBKdYvyJBQup1eg9d.jpg", "actors": [], "comments": [], "recommandations_id": []}

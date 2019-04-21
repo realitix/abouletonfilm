@@ -1,0 +1,1 @@
+{"tmdb_id": 433572, "title": "The Phantom Enthusiast", "original_title": "The Phantom Enthusiast", "slug_title": "the-phantom-enthusiast", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0kXUq8YL3KZKeqBBVSxycHCu4b.jpg", "actors": [], "comments": [], "recommandations_id": []}

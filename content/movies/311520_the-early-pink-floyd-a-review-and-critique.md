@@ -1,0 +1,1 @@
+{"tmdb_id": 311520, "title": "The Early Pink Floyd: A Review and Critique", "original_title": "The Early Pink Floyd: A Review and Critique", "slug_title": "the-early-pink-floyd-a-review-and-critique", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

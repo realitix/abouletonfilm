@@ -1,0 +1,1 @@
+{"tmdb_id": 139641, "title": "A Kind of Alaska", "original_title": "A Kind of Alaska", "slug_title": "a-kind-of-alaska", "date": "1984-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Scofield (Dr. Hornby)", "Dorothy Tutin ()", "Susan Engel ()"], "comments": [], "recommandations_id": []}

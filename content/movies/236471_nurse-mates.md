@@ -1,0 +1,1 @@
+{"tmdb_id": 236471, "title": "Nurse-Mates", "original_title": "Nurse-Mates", "slug_title": "nurse-mates", "date": "1940-06-19", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qG0ITy2oJgXFFl7ltnJ7KR3rj52.jpg", "actors": [], "comments": [], "recommandations_id": []}

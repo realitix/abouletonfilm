@@ -1,0 +1,1 @@
+{"tmdb_id": 162644, "title": "A Swiss Trick", "original_title": "A Swiss Trick", "slug_title": "a-swiss-trick", "date": "1931-12-18", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVQkjeQgEN35CQO8wykvCq5PWkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

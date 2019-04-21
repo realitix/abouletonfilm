@@ -1,0 +1,1 @@
+{"tmdb_id": 305054, "title": "La piccola vedetta lombarda", "original_title": "La piccola vedetta lombarda", "slug_title": "la-piccola-vedetta-lombarda", "date": "1915-11-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Gf4NIUGFrNXK8H5AiaETgoFXX6.jpg", "actors": [], "comments": [], "recommandations_id": []}

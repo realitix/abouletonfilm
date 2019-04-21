@@ -1,0 +1,1 @@
+{"tmdb_id": 211084, "title": "Ignasi M.", "original_title": "Ignasi M.", "slug_title": "ignasi-m", "date": "2014-01-31", "genre": "Documentaire", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tvjIhAsVtl8xlLfWuEUMh7uLUnX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 361095, "title": "The Story Of: A Rodeo Cowboy", "original_title": "The Story Of: A Rodeo Cowboy", "slug_title": "the-story-of-a-rodeo-cowboy", "date": "1963-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8w6tVSsFfMbXjZuwTPBhRM1S2t3.jpg", "actors": [], "comments": [], "recommandations_id": []}

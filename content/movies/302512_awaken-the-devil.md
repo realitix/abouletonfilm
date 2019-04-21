@@ -1,0 +1,1 @@
+{"tmdb_id": 302512, "title": "Awaken the Devil", "original_title": "Awaken the Devil", "slug_title": "awaken-the-devil", "date": "2015-05-19", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uducCd6iOb5eBaQm18ouZ6aRlmM.jpg", "actors": [], "comments": [], "recommandations_id": []}

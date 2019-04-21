@@ -1,0 +1,1 @@
+{"tmdb_id": 579137, "title": "Klezmer on Fish Street", "original_title": "Klezmer on Fish Street", "slug_title": "klezmer-on-fish-street", "date": "2004-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 454629, "title": "Girl on Fire", "original_title": "Girl on Fire", "slug_title": "girl-on-fire", "date": "2010-09-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

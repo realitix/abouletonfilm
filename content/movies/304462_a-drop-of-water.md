@@ -1,0 +1,1 @@
+{"tmdb_id": 304462, "title": "A Drop of Water", "original_title": "A Drop of Water", "slug_title": "a-drop-of-water", "date": "2013-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

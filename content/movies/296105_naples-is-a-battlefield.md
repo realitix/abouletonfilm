@@ -1,0 +1,1 @@
+{"tmdb_id": 296105, "title": "Naples Is a Battlefield", "original_title": "Naples Is a Battlefield", "slug_title": "naples-is-a-battlefield", "date": "1944-09-01", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpfk0dNSbFSvS78S3BTUd7Iz57s.jpg", "actors": [], "comments": [], "recommandations_id": []}

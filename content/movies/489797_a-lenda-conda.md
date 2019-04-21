@@ -1,0 +1,1 @@
+{"tmdb_id": 489797, "title": "A Lenda Cond\u00e1", "original_title": "A Lenda Cond\u00e1", "slug_title": "a-lenda-conda", "date": "2017-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUL4bx1QTNaKtH4BKmt3lhYXrYh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 526033, "title": "Leitis in Waiting", "original_title": "Leitis in Waiting", "slug_title": "leitis-in-waiting", "date": "2018-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cdEJqmHzaUZz3hmUcmrE7BQlla.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 558864, "title": "Super hu\u00eetre", "original_title": "Super hu\u00eetre", "slug_title": "super-huitre", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "Pamphlet politique d\u00e9lur\u00e9.", "image": "/img/default-cover.png", "actors": ["Bonbon ()", "Roland Lethem ()"], "comments": [], "recommandations_id": []}

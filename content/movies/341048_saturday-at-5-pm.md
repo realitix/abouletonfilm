@@ -1,0 +1,1 @@
+{"tmdb_id": 341048, "title": "Saturday at 5 PM", "original_title": "Sonnabend, 17 Uhr", "slug_title": "saturday-at-5-pm", "date": "1966-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcam7As3Fk7T9JFxCngbL4sOE98.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 316875, "title": "Rumpole's Return", "original_title": "Rumpole's Return", "slug_title": "rumpole-s-return", "date": "1980-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jyIDETbvJpPBEalN4MHdkkPfTM.jpg", "actors": ["Leo McKern (Horace Rumpole)"], "comments": [], "recommandations_id": []}

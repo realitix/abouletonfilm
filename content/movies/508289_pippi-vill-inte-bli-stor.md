@@ -1,0 +1,1 @@
+{"tmdb_id": 508289, "title": "Pippi vill inte bli stor", "original_title": "Pippi vill inte bli stor", "slug_title": "pippi-vill-inte-bli-stor", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXVFRx4AYzU8CKSVIRbLgUmMSX2.jpg", "actors": [], "comments": [], "recommandations_id": []}

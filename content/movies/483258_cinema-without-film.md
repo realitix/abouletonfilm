@@ -1,0 +1,1 @@
+{"tmdb_id": 483258, "title": "Cinema Without Film", "original_title": "Cinema Without Film", "slug_title": "cinema-without-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

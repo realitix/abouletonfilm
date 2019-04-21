@@ -1,0 +1,1 @@
+{"tmdb_id": 410935, "title": "Raising Bertie", "original_title": "Raising Bertie", "slug_title": "raising-bertie", "date": "2017-06-09", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXioy5OesJxyneW7nHOaT1tQE7D.jpg", "actors": [], "comments": [], "recommandations_id": []}

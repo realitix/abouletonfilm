@@ -1,0 +1,1 @@
+{"tmdb_id": 548796, "title": "\uccad\ub3d9\uacc4\ub2e8", "original_title": "\uccad\ub3d9\uacc4\ub2e8", "slug_title": "ceongdonggyedan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

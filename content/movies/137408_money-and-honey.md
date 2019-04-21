@@ -1,0 +1,1 @@
+{"tmdb_id": 137408, "title": "Money and Honey", "original_title": "Money and Honey", "slug_title": "money-and-honey", "date": "2011-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cd7Q8aYVsDQmfwojIaLyRVfBhTD.jpg", "actors": [], "comments": [], "recommandations_id": []}

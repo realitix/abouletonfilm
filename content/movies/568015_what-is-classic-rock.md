@@ -1,0 +1,1 @@
+{"tmdb_id": 568015, "title": "What is Classic Rock?", "original_title": "What is Classic Rock?", "slug_title": "what-is-classic-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

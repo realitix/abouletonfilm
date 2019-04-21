@@ -1,0 +1,1 @@
+{"tmdb_id": 429786, "title": "Wanda - Amore meine Stadt", "original_title": "Wanda - Amore meine Stadt", "slug_title": "wanda-amore-meine-stadt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kxhTOhP5G4IJ7fReFtR2jF4JNdV.jpg", "actors": [], "comments": [], "recommandations_id": []}

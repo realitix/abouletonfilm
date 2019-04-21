@@ -1,0 +1,1 @@
+{"tmdb_id": 505489, "title": "Ibisigi", "original_title": "Ibisigi", "slug_title": "ibisigi", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3eT3qghzWTWxAFNcRec0rbReex.jpg", "actors": [], "comments": [], "recommandations_id": []}

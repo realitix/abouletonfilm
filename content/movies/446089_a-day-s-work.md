@@ -1,0 +1,1 @@
+{"tmdb_id": 446089, "title": "A Day's Work", "original_title": "A Day's Work", "slug_title": "a-day-s-work", "date": "2016-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benjamin Hernandez (Self)", "Alba Hernandez (Self)"], "comments": [], "recommandations_id": []}

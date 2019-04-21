@@ -1,0 +1,1 @@
+{"tmdb_id": 248838, "title": "The Adventures of Edson Jean", "original_title": "The Adventures of Edson Jean", "slug_title": "the-adventures-of-edson-jean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

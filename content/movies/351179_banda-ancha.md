@@ -1,0 +1,1 @@
+{"tmdb_id": 351179, "title": "Banda Ancha", "original_title": "Banda Ancha", "slug_title": "banda-ancha", "date": "2012-01-14", "genre": "Crime / Com\u00e9die / Thriller", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mariano Andr\u00e9s (Customer)", "Mikel Bustamante ()", "Sergio Lombard\u00eda ()"], "comments": [], "recommandations_id": []}

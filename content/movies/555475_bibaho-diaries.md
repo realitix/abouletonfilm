@@ -1,0 +1,1 @@
+{"tmdb_id": 555475, "title": "Bibaho Diaries", "original_title": "Bibaho Diaries", "slug_title": "bibaho-diaries", "date": "2017-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7keecPXnR1tgQo3dDH8jikGY4cI.jpg", "actors": [], "comments": [], "recommandations_id": []}

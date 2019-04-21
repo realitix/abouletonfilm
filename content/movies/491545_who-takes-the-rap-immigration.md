@@ -1,0 +1,1 @@
+{"tmdb_id": 491545, "title": "Who Takes the Rap \u2013 Immigration", "original_title": "Who Takes the Rap \u2013 Immigration", "slug_title": "who-takes-the-rap-immigration", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

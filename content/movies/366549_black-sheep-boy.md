@@ -1,0 +1,1 @@
+{"tmdb_id": 366549, "title": "Black Sheep Boy", "original_title": "Black Sheep Boy", "slug_title": "black-sheep-boy", "date": "1995-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taI3PhoqWu3v4euzkB6CYpCSYkD.jpg", "actors": [], "comments": [], "recommandations_id": []}

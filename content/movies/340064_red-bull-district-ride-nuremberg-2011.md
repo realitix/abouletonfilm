@@ -1,0 +1,1 @@
+{"tmdb_id": 340064, "title": "Red Bull District Ride Nuremberg 2011", "original_title": "Red Bull District Ride Nuremberg 2011", "slug_title": "red-bull-district-ride-nuremberg-2011", "date": "2012-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

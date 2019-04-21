@@ -1,0 +1,1 @@
+{"tmdb_id": 548868, "title": "Chow Fun", "original_title": "Chow Fun", "slug_title": "chow-fun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

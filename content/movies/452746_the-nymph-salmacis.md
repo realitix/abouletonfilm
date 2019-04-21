@@ -1,0 +1,1 @@
+{"tmdb_id": 452746, "title": "The Nymph Salmacis", "original_title": "Nimfa Salmaka", "slug_title": "the-nymph-salmacis", "date": "1992-01-01", "genre": "Animation", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uimh9UALfddlLRVLeBhFg2mMX1.jpg", "actors": [], "comments": [], "recommandations_id": []}

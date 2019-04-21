@@ -1,0 +1,1 @@
+{"tmdb_id": 310264, "title": "Donizetti: Maria Stuarda", "original_title": "Donizetti: Maria Stuarda", "slug_title": "donizetti-maria-stuarda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 463343, "title": "Der letzte Coiffeur vor der Wettsteinbr\u00fccke", "original_title": "Der letzte Coiffeur vor der Wettsteinbr\u00fccke", "slug_title": "der-letzte-coiffeur-vor-der-wettsteinbrucke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

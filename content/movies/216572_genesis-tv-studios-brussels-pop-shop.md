@@ -1,0 +1,1 @@
+{"tmdb_id": 216572, "title": "Genesis - TV Studios, Brussels \u201cPop Shop\u201d", "original_title": "Genesis - TV Studios, Brussels \u201cPop Shop\u201d", "slug_title": "genesis-tv-studios-brussels-pop-shop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

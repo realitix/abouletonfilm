@@ -1,0 +1,1 @@
+{"tmdb_id": 280781, "title": "Chemical Ko-Ko", "original_title": "Chemical Ko-Ko", "slug_title": "chemical-ko-ko", "date": "1929-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

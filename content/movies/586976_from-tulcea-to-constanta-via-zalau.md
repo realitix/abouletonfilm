@@ -1,0 +1,1 @@
+{"tmdb_id": 586976, "title": "From Tulcea to Constanta via Zalau", "original_title": "From Tulcea to Constanta via Zalau", "slug_title": "from-tulcea-to-constanta-via-zalau", "date": "2007-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

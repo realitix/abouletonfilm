@@ -1,0 +1,1 @@
+{"tmdb_id": 349696, "title": "\uc6d0\ud55c\uc758 \uacf5\ub3d9\ubb18\uc9c0", "original_title": "\uc6d0\ud55c\uc758 \uacf5\ub3d9\ubb18\uc9c0", "slug_title": "weonhanyi-gongdongmyoji", "date": "1983-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

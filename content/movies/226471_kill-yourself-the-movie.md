@@ -1,0 +1,1 @@
+{"tmdb_id": 226471, "title": "Kill Yourself: The Movie", "original_title": "Kill Yourself: The Movie", "slug_title": "kill-yourself-the-movie", "date": "2001-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmfI7NwwKoVDHkDN1eqvJUWNpKM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 161962, "title": "Hooks and Jabs", "original_title": "Hooks and Jabs", "slug_title": "hooks-and-jabs", "date": "1933-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon ()", "Vernon Dent ()"], "comments": [], "recommandations_id": []}

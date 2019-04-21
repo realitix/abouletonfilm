@@ -1,0 +1,1 @@
+{"tmdb_id": 477754, "title": "Rojo Tropical No. 2", "original_title": "Rojo Tropical No. 2", "slug_title": "rojo-tropical-no-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

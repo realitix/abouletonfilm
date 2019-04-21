@@ -1,0 +1,1 @@
+{"tmdb_id": 578178, "title": "The Final Kick", "original_title": "The Final Kick", "slug_title": "the-final-kick", "date": "1995-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uEuSXhr17gOSyjJv8Tn7cDXOie.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 363098, "title": "H.M.S. Pinafore", "original_title": "H.M.S. Pinafore", "slug_title": "h-m-s-pinafore", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2k4eVqehJv9hTUvuuHF8tUhtxy.jpg", "actors": [], "comments": [], "recommandations_id": []}

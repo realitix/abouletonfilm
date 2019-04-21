@@ -1,0 +1,1 @@
+{"tmdb_id": 567095, "title": "Personality Parade", "original_title": "Personality Parade", "slug_title": "personality-parade", "date": "1938-01-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmie Fidler (Himself)"], "comments": [], "recommandations_id": []}

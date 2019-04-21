@@ -1,0 +1,1 @@
+{"tmdb_id": 579885, "title": "Trinity Sunday", "original_title": "\u0422\u0440\u043e\u0438\u0446\u0430", "slug_title": "trinity-sunday", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yang Ge (Margo)", "Georgy Blik (Anton)", "Andrey Kurganov (Georgy)"], "comments": [], "recommandations_id": []}

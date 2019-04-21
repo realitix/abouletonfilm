@@ -1,0 +1,1 @@
+{"tmdb_id": 302003, "title": "Mushroom Growing Made Easy", "original_title": "Mushroom Growing Made Easy", "slug_title": "mushroom-growing-made-easy", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gktPUwEMKHJRle5TUJa8RGYJte8.jpg", "actors": [], "comments": [], "recommandations_id": []}

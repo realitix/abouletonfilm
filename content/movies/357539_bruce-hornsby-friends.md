@@ -1,0 +1,1 @@
+{"tmdb_id": 357539, "title": "Bruce Hornsby + Friends", "original_title": "Bruce Hornsby + Friends", "slug_title": "bruce-hornsby-friends", "date": "2004-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vM94jj37lKvojnTRilS1XQQaFR.jpg", "actors": [], "comments": [], "recommandations_id": []}

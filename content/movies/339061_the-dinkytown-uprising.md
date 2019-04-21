@@ -1,0 +1,1 @@
+{"tmdb_id": 339061, "title": "The Dinkytown Uprising", "original_title": "The Dinkytown Uprising", "slug_title": "the-dinkytown-uprising", "date": "2015-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFeFulOcC1vDn88LHjdf4Bm0CW4.jpg", "actors": [], "comments": [], "recommandations_id": []}

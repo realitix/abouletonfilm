@@ -1,0 +1,1 @@
+{"tmdb_id": 272302, "title": "Jeff Healey and the Jazz Wizards: Beautiful Noise", "original_title": "Jeff Healey and the Jazz Wizards: Beautiful Noise", "slug_title": "jeff-healey-and-the-jazz-wizards-beautiful-noise", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

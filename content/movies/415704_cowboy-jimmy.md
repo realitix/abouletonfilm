@@ -1,0 +1,1 @@
+{"tmdb_id": 415704, "title": "Cowboy Jimmy", "original_title": "Cowboy Jimmy", "slug_title": "cowboy-jimmy", "date": "1957-03-31", "genre": "Animation / Com\u00e9die / Western", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNz5VtqnjwWN1nMx6zs1RzTj0s8.jpg", "actors": [], "comments": [], "recommandations_id": []}

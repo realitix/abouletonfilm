@@ -1,0 +1,1 @@
+{"tmdb_id": 451222, "title": "Accidents Waiting to Happen", "original_title": "Accidents Waiting to Happen", "slug_title": "accidents-waiting-to-happen", "date": "2017-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h95sHkQeAXWDKiqkEpCD3GH4xfM.jpg", "actors": [], "comments": [], "recommandations_id": []}

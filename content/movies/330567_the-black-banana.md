@@ -1,0 +1,1 @@
+{"tmdb_id": 330567, "title": "The Black Banana", "original_title": "Ha-Banana Hashehora", "slug_title": "the-black-banana", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nazim Jabrin ()", "Danny Kinrot ()", "Genia Maimon ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 49098, "title": "Talking Heads", "original_title": "Gadaj\u0105ce g\u0142owy", "slug_title": "talking-heads", "date": "1980-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ux4lshjPRSje6VBlY08x18Gnddc.jpg", "actors": [], "comments": [], "recommandations_id": [148661, 45738, 112501, 128442]}

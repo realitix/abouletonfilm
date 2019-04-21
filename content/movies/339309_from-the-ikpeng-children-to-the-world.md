@@ -1,0 +1,1 @@
+{"tmdb_id": 339309, "title": "From the Ikpeng Children to the World", "original_title": "Marangmotxingmo Mirang - Das Crian\u00e7as Ikpeng Para o Mundo", "slug_title": "from-the-ikpeng-children-to-the-world", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

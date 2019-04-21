@@ -1,0 +1,1 @@
+{"tmdb_id": 526256, "title": "P\u00e1ssaros", "original_title": "P\u00e1ssaros", "slug_title": "passaros", "date": "2009-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86Q2G5mrWzj2NDToUlJ5aM5AcHN.jpg", "actors": [], "comments": [], "recommandations_id": []}

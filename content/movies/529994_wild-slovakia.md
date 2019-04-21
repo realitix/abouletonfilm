@@ -1,0 +1,1 @@
+{"tmdb_id": 529994, "title": "Wild Slovakia", "original_title": "Wilde Slowakei", "slug_title": "wild-slovakia", "date": "2015-09-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dePFto74pZX4om0klSLR90iqf5l.jpg", "actors": [], "comments": [], "recommandations_id": []}

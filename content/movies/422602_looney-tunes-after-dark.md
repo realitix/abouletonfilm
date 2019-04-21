@@ -1,0 +1,1 @@
+{"tmdb_id": 422602, "title": "Looney Tunes: After Dark", "original_title": "Looney Tunes: After Dark", "slug_title": "looney-tunes-after-dark", "date": "1992-03-02", "genre": "", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p28cUxEJvcAcaMkFtGzSxKLfm1Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

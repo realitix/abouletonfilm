@@ -1,0 +1,1 @@
+{"tmdb_id": 65177, "title": "Lady Ninja Kasumi 7", "original_title": "Lady Ninja Kasumi 7", "slug_title": "lady-ninja-kasumi-7", "date": "2009-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vcQx7jlvlDT8oFvqmkeYpM7lRLX.jpg", "actors": [], "comments": [], "recommandations_id": []}

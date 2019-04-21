@@ -1,0 +1,1 @@
+{"tmdb_id": 457411, "title": "Stray Dogs", "original_title": "Stray Dogs", "slug_title": "stray-dogs", "date": "2002-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBL28lMdIrroY9t8JV1sUdgJRti.jpg", "actors": [], "comments": [], "recommandations_id": []}

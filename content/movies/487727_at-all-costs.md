@@ -1,0 +1,1 @@
+{"tmdb_id": 487727, "title": "At All Costs", "original_title": "Co\u00fbte que co\u00fbte", "slug_title": "at-all-costs", "date": "1995-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gUB3cviVO2FeyjpwX4QYZm8cNp.jpg", "actors": [], "comments": [], "recommandations_id": []}

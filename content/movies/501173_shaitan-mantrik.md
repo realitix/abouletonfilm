@@ -1,0 +1,1 @@
+{"tmdb_id": 501173, "title": "Shaitan Mantrik", "original_title": "Shaitan Mantrik", "slug_title": "shaitan-mantrik", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slLEjSf1CO6QjCMPmHarHiZ23PW.jpg", "actors": [], "comments": [], "recommandations_id": []}

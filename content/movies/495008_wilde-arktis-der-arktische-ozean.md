@@ -1,0 +1,1 @@
+{"tmdb_id": 495008, "title": "Wilde Arktis - Der Arktische Ozean", "original_title": "Wilde Arktis - Der Arktische Ozean", "slug_title": "wilde-arktis-der-arktische-ozean", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

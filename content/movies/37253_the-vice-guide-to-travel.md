@@ -1,0 +1,1 @@
+{"tmdb_id": 37253, "title": "The Vice Guide to Travel", "original_title": "The Vice Guide to Travel", "slug_title": "the-vice-guide-to-travel", "date": "2006-10-03", "genre": "Documentaire", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdJBUv2QPw3TwXb6PS8T2rJ88Gz.jpg", "actors": [], "comments": [], "recommandations_id": []}

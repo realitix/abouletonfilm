@@ -1,0 +1,1 @@
+{"tmdb_id": 22873, "title": "Novastar - Almost Bangor", "original_title": "Novastar - Almost Bangor", "slug_title": "novastar-almost-bangor", "date": "2009-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

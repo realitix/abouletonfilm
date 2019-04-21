@@ -1,0 +1,1 @@
+{"tmdb_id": 392457, "title": "\u3042\u3044\u679c\u5b9f", "original_title": "\u3042\u3044\u679c\u5b9f", "slug_title": "aiguo-shi", "date": "2010-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nj5VWTU1Qthm30ef8HlN4v7x0q7.jpg", "actors": ["Aika (Herself)"], "comments": [], "recommandations_id": []}

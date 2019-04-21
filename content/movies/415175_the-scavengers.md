@@ -1,0 +1,1 @@
+{"tmdb_id": 415175, "title": "The Scavengers", "original_title": "The Scavengers", "slug_title": "the-scavengers", "date": "1987-01-10", "genre": "Documentaire / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4u10AcyF5CcKItYJHZqbHG3LMAr.jpg", "actors": [], "comments": [], "recommandations_id": []}

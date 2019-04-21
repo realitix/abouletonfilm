@@ -1,0 +1,1 @@
+{"tmdb_id": 428129, "title": "Thala My Love", "original_title": "Thala mon amour", "slug_title": "thala-my-love", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/20xNkNLvif1Xkdi03J4ImLyAc54.jpg", "actors": ["Najla Ben Abdallah ()"], "comments": [], "recommandations_id": []}

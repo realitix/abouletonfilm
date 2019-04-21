@@ -1,0 +1,1 @@
+{"tmdb_id": 368449, "title": "A dedicated man", "original_title": "A dedicated man", "slug_title": "a-dedicated-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

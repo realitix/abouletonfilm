@@ -1,0 +1,1 @@
+{"tmdb_id": 275217, "title": "How a People Live", "original_title": "How a People Live", "slug_title": "how-a-people-live", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

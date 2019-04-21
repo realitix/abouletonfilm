@@ -1,0 +1,1 @@
+{"tmdb_id": 410034, "title": "Den tid vi har", "original_title": "Den tid vi har", "slug_title": "den-tid-vi-har", "date": "2011-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWzwpJD1Y9rKFjfvr5SAe4zthtN.jpg", "actors": [], "comments": [], "recommandations_id": []}

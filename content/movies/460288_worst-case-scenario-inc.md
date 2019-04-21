@@ -1,0 +1,1 @@
+{"tmdb_id": 460288, "title": "Worst-Case Scenario, Inc.", "original_title": "Worst-Case Scenario, Inc.", "slug_title": "worst-case-scenario-inc", "date": "2016-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOy7ME5445ipcQfOwMGfmfd4kMt.jpg", "actors": [], "comments": [], "recommandations_id": []}

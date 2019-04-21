@@ -1,0 +1,1 @@
+{"tmdb_id": 586035, "title": "The War on Whores", "original_title": "The War on Whores", "slug_title": "the-war-on-whores", "date": "2019-03-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1KZrHduFHB1oZRseXtbxUN8Wvvn.jpg", "actors": ["Maggie McNeill (Herself)"], "comments": [], "recommandations_id": []}

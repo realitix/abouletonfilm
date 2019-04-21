@@ -1,0 +1,1 @@
+{"tmdb_id": 66990, "title": "Pra Sempre Cazuza", "original_title": "Pra Sempre Cazuza", "slug_title": "pra-sempre-cazuza", "date": "2008-01-01", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8DbRdsfRRyr1J3VNeCglRe3QMx7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 49108, "title": "King of Swords", "original_title": "King of Swords", "slug_title": "king-of-swords", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joey Tuccio (Hugo)", "Richard Courtney (Brett)"], "comments": [], "recommandations_id": []}

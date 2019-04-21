@@ -1,0 +1,1 @@
+{"tmdb_id": 411495, "title": "The Paris Syndrome", "original_title": "The Paris Syndrome", "slug_title": "the-paris-syndrome", "date": "2016-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/K3HfiWDo7hh1Bxwh6Kd8Ip4Xmn.jpg", "actors": [], "comments": [], "recommandations_id": []}

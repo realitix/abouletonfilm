@@ -1,0 +1,1 @@
+{"tmdb_id": 420532, "title": "BlackMailing Bryci", "original_title": "BlackMailing Bryci", "slug_title": "blackmailing-bryci", "date": "2016-09-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DICJsbFT8Mcgswqa75T8QESTsl.jpg", "actors": ["Bryci ()", "Jo Bella ()"], "comments": [], "recommandations_id": []}

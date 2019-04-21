@@ -1,0 +1,1 @@
+{"tmdb_id": 280656, "title": "Byggare Bob  - Kranis, Kv\u00e4llens Stj\u00e4rna", "original_title": "Byggare Bob  - Kranis, Kv\u00e4llens Stj\u00e4rna", "slug_title": "byggare-bob-kranis-kvallens-stjarna", "date": "2005-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

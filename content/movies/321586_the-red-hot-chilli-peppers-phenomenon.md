@@ -1,0 +1,1 @@
+{"tmdb_id": 321586, "title": "The Red Hot Chilli Peppers Phenomenon", "original_title": "The Red Hot Chilli Peppers Phenomenon", "slug_title": "the-red-hot-chilli-peppers-phenomenon", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

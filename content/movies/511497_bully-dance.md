@@ -1,0 +1,1 @@
+{"tmdb_id": 511497, "title": "Bully Dance", "original_title": "Bully Dance", "slug_title": "bully-dance", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

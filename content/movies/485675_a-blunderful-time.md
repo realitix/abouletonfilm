@@ -1,0 +1,1 @@
+{"tmdb_id": 485675, "title": "A Blunderful Time", "original_title": "A Blunderful Time", "slug_title": "a-blunderful-time", "date": "1950-09-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

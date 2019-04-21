@@ -1,0 +1,1 @@
+{"tmdb_id": 572551, "title": "Shu Qi: True Woman", "original_title": "Shu Qi: True Woman", "slug_title": "shu-qi-true-woman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VXFdBg3zFzcawI7kNN5Iyicjra.jpg", "actors": ["Shu Qi (Herself)"], "comments": [], "recommandations_id": []}

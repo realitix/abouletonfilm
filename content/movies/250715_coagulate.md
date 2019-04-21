@@ -1,0 +1,1 @@
+{"tmdb_id": 250715, "title": "Coagulate", "original_title": "Coagulate", "slug_title": "coagulate", "date": "2008-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

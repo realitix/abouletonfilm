@@ -1,0 +1,1 @@
+{"tmdb_id": 374648, "title": "Banjo Gyro!", "original_title": "Banjo Gyro!", "slug_title": "banjo-gyro", "date": "2000-01-01", "genre": "Animation / Com\u00e9die / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7c9qCQndYmYkOiCXhIkxFyBSN8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312089, "title": "A Dream of Color in Black and White", "original_title": "A Dream of Color in Black and White", "slug_title": "a-dream-of-color-in-black-and-white", "date": "2005-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

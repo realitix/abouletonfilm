@@ -1,0 +1,1 @@
+{"tmdb_id": 205232, "title": "Drama at the Bottom of the Sea", "original_title": "Un drame au fond de la mer", "slug_title": "drama-at-the-bottom-of-the-sea", "date": "1901-07-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65WmKlan68aDyzbO63dWoKCwAcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

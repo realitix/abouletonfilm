@@ -1,0 +1,1 @@
+{"tmdb_id": 520630, "title": "Strictly for the Birds", "original_title": "Strictly for the Birds", "slug_title": "strictly-for-the-birds", "date": "1964-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

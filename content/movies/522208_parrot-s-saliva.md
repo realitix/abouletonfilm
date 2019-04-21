@@ -1,0 +1,1 @@
+{"tmdb_id": 522208, "title": "Parrot's Saliva", "original_title": "Baba de perico", "slug_title": "parrot-s-saliva", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

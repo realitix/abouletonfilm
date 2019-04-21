@@ -1,0 +1,1 @@
+{"tmdb_id": 159859, "title": "Nos Vemos, Pap\u00e1", "original_title": "Nos Vemos, Pap\u00e1", "slug_title": "nos-vemos-papa", "date": "2013-01-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/om4KyWtDpYHsTWq4rNhmU2HiLNA.jpg", "actors": ["Cecilia Su\u00e1rez (Pilar)"], "comments": [], "recommandations_id": []}

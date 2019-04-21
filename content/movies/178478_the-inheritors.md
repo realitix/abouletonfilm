@@ -1,0 +1,1 @@
+{"tmdb_id": 178478, "title": "The Inheritors", "original_title": "Los Herederos", "slug_title": "the-inheritors", "date": "2011-09-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKng4408OjlnwpwjFglRnQYIEkb.jpg", "actors": [], "comments": [], "recommandations_id": []}

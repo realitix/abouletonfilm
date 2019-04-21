@@ -1,0 +1,1 @@
+{"tmdb_id": 290331, "title": "Wiener Liebschaften", "original_title": "Wiener Liebschaften", "slug_title": "wiener-liebschaften", "date": "1931-03-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georg Alexander (Georg)", "Betty Bird (Gretel)", "Fritz Spira (Bankier M\u00fcller)"], "comments": [], "recommandations_id": []}

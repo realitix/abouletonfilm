@@ -1,0 +1,1 @@
+{"tmdb_id": 284003, "title": "Souko, cin\u00e9matographe en carton", "original_title": "Souko, cin\u00e9matographe en carton", "slug_title": "souko-cinematographe-en-carton", "date": "1998-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

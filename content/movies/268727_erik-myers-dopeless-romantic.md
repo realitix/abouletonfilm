@@ -1,0 +1,1 @@
+{"tmdb_id": 268727, "title": "Erik Myers: Dopeless Romantic", "original_title": "Erik Myers: Dopeless Romantic", "slug_title": "erik-myers-dopeless-romantic", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

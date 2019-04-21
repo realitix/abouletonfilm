@@ -1,0 +1,1 @@
+{"tmdb_id": 537202, "title": "Follower", "original_title": "Follower", "slug_title": "follower", "date": "2018-09-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristin Kumria (Clara Reichert)", "Leon Amadeus Singer (Patrick Quast)"], "comments": [], "recommandations_id": []}

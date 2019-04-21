@@ -1,0 +1,1 @@
+{"tmdb_id": 353835, "title": "P90X: Ab Ripper X", "original_title": "P90X: Ab Ripper X", "slug_title": "p90x-ab-ripper-x", "date": "2004-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MLMD3HGs7Dp0nvZxCc3LRCSN48.jpg", "actors": ["Tony Horton (Himself)"], "comments": [], "recommandations_id": []}

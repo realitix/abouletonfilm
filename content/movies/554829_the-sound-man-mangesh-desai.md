@@ -1,0 +1,1 @@
+{"tmdb_id": 554829, "title": "The Sound Man Mangesh Desai", "original_title": "The Sound Man Mangesh Desai", "slug_title": "the-sound-man-mangesh-desai", "date": "2018-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mangesh Desai (Himself (Archive))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587492, "title": "Redemption Blues", "original_title": "Redemption Blues", "slug_title": "redemption-blues", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

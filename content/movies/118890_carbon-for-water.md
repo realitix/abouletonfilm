@@ -1,0 +1,1 @@
+{"tmdb_id": 118890, "title": "Carbon for Water", "original_title": "Carbon for Water", "slug_title": "carbon-for-water", "date": "2011-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63K81LDOtZhd90Jm8jPkAYOnlEo.jpg", "actors": [], "comments": [], "recommandations_id": []}

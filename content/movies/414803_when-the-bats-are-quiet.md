@@ -1,0 +1,1 @@
+{"tmdb_id": 414803, "title": "When the Bats are Quiet", "original_title": "Quando os Morcegos Se Calam", "slug_title": "when-the-bats-are-quiet", "date": "1986-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmORI99reYRe1kgq8yu3sArCJUM.jpg", "actors": [], "comments": [], "recommandations_id": []}

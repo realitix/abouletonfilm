@@ -1,0 +1,1 @@
+{"tmdb_id": 268218, "title": "Kirk kulok siri", "original_title": "Kirk kulok siri", "slug_title": "kirk-kulok-siri", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bMnZ3zfAm8jTQlihzoUVoCMnmJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

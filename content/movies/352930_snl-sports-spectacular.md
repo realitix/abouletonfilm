@@ -1,0 +1,1 @@
+{"tmdb_id": 352930, "title": "SNL Sports Spectacular", "original_title": "SNL Sports Spectacular", "slug_title": "snl-sports-spectacular", "date": "2014-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

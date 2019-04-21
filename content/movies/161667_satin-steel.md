@@ -1,0 +1,1 @@
+{"tmdb_id": 161667, "title": "Satin Steel", "original_title": "Chung kam juk", "slug_title": "satin-steel", "date": "1994-03-10", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNS7fRSOS9KFWnmXNAjllFApunY.jpg", "actors": ["Jade Leung ()"], "comments": [], "recommandations_id": []}

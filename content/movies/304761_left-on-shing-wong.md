@@ -1,0 +1,1 @@
+{"tmdb_id": 304761, "title": "Left on Shing Wong", "original_title": "Left on Shing Wong", "slug_title": "left-on-shing-wong", "date": "2014-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

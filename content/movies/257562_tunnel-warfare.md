@@ -1,0 +1,1 @@
+{"tmdb_id": 257562, "title": "Tunnel Warfare", "original_title": "Di dao zhan", "slug_title": "tunnel-warfare", "date": "1965-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhMP07uQBqWzl6QZaPnrup4BLRL.jpg", "actors": ["Guodong Han ()"], "comments": [], "recommandations_id": []}

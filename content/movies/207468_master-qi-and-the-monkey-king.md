@@ -1,0 +1,1 @@
+{"tmdb_id": 207468, "title": "Master Qi and the Monkey King", "original_title": "Master Qi and the Monkey King", "slug_title": "master-qi-and-the-monkey-king", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

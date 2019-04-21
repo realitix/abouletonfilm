@@ -1,0 +1,1 @@
+{"tmdb_id": 515409, "title": "Armed to the Teeth", "original_title": "Hasta los dientes", "slug_title": "armed-to-the-teeth", "date": "2018-05-04", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3akk93FMnTiB1xFp8UnO10OjBq.jpg", "actors": [], "comments": [], "recommandations_id": []}

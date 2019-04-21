@@ -1,0 +1,1 @@
+{"tmdb_id": 524620, "title": "The Chance of Striking Gold", "original_title": "The Chance of Striking Gold", "slug_title": "the-chance-of-striking-gold", "date": "2011-05-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher Samuel Carroll (Ben)", "Colm Kearns (Andrew)"], "comments": [], "recommandations_id": []}

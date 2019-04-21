@@ -1,0 +1,1 @@
+{"tmdb_id": 520124, "title": "Lady Inger of Ostrat", "original_title": "Fru Inger til \u00d8str\u00e5t", "slug_title": "lady-inger-of-ostrat", "date": "1975-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h69wbhqwULdXLuShgvpllIwqiaV.jpg", "actors": [], "comments": [], "recommandations_id": []}

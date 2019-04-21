@@ -1,0 +1,1 @@
+{"tmdb_id": 278420, "title": "Kaduvakkunnil Kuruvachan", "original_title": "Kaduvakkunnil Kuruvachan", "slug_title": "kaduvakkunnil-kuruvachan", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

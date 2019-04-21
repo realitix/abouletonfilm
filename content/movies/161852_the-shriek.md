@@ -1,0 +1,1 @@
+{"tmdb_id": 161852, "title": "The Shriek", "original_title": "The Shriek", "slug_title": "the-shriek", "date": "1933-02-27", "genre": "Horreur / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llHP3pnWVwSeiphKnCthGO8lm4.jpg", "actors": ["Bernice Hansen ()"], "comments": [], "recommandations_id": []}

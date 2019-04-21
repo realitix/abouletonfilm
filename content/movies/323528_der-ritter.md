@@ -1,0 +1,1 @@
+{"tmdb_id": 323528, "title": "Der Ritter", "original_title": "Der Ritter", "slug_title": "der-ritter", "date": "2014-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481011, "title": "Istenmezej\u00e9n 1972-73-ban", "original_title": "Istenmezej\u00e9n 1972-73-ban", "slug_title": "istenmezejen-1972-73-ban", "date": "1975-01-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

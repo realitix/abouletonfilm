@@ -1,0 +1,1 @@
+{"tmdb_id": 516807, "title": "Jack of all Trades", "original_title": "Jack of all Trades", "slug_title": "jack-of-all-trades", "date": "2018-03-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sno4NWBFBq9cofAvI2Mqu29V8Dt.jpg", "actors": ["Stuart Stone (Himself)"], "comments": [], "recommandations_id": []}

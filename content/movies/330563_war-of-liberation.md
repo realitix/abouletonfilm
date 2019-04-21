@@ -1,0 +1,1 @@
+{"tmdb_id": 330563, "title": "War of Liberation", "original_title": "Guerre de lib\u00e9ration", "slug_title": "war-of-liberation", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

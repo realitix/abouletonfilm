@@ -1,0 +1,1 @@
+{"tmdb_id": 568988, "title": "The Queens", "original_title": "The Queens", "slug_title": "the-queens", "date": "2018-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qRghyOE1Ll0jsEmpdxKueXckWM.jpg", "actors": [], "comments": [], "recommandations_id": []}

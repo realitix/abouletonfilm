@@ -1,0 +1,1 @@
+{"tmdb_id": 299371, "title": "Universal Ninjas", "original_title": "Universal Ninjas", "slug_title": "universal-ninjas", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

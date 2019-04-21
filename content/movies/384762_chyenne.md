@@ -1,0 +1,1 @@
+{"tmdb_id": 384762, "title": "Chyenne", "original_title": "Chyenne", "slug_title": "chyenne", "date": "2004-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMZXwwnVRB6E1BjdeEOh2WmP1Hn.jpg", "actors": ["Daleila Piasko ()"], "comments": [], "recommandations_id": []}

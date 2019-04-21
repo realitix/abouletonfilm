@@ -1,0 +1,1 @@
+{"tmdb_id": 450195, "title": "A Little Hawaiian Style", "original_title": "A Little Hawaiian Style", "slug_title": "a-little-hawaiian-style", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xn3kvAysqzSNc85gApwi3bXNTCL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413818, "title": "Hooker on Campus", "original_title": "Hooker on Campus", "slug_title": "hooker-on-campus", "date": "2007-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lena Dunham (Hooker)"], "comments": [], "recommandations_id": []}

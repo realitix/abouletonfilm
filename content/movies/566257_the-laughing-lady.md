@@ -1,0 +1,1 @@
+{"tmdb_id": 566257, "title": "The Laughing Lady", "original_title": "The Laughing Lady", "slug_title": "the-laughing-lady", "date": "1946-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Ziegler (Denise Tremayne)", "Webster Booth (Andre)", "Peter Graves (Prince of Wales)"], "comments": [], "recommandations_id": []}

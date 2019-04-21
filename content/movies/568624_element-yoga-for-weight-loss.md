@@ -1,0 +1,1 @@
+{"tmdb_id": 568624, "title": "Element: Yoga For Weight Loss", "original_title": "Element: Yoga For Weight Loss", "slug_title": "element-yoga-for-weight-loss", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bK49r5yJPOBlJemZr1rQYVJ9KU.jpg", "actors": [], "comments": [], "recommandations_id": []}

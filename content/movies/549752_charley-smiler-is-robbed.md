@@ -1,0 +1,1 @@
+{"tmdb_id": 549752, "title": "Charley Smiler Is Robbed", "original_title": "Charley Smiler Is Robbed", "slug_title": "charley-smiler-is-robbed", "date": "1911-08-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Evans (Charley Smiler)"], "comments": [], "recommandations_id": []}

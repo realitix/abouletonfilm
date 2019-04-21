@@ -1,0 +1,1 @@
+{"tmdb_id": 529920, "title": "Gym Lesson", "original_title": "Gym Lesson", "slug_title": "gym-lesson", "date": "2008-01-01", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

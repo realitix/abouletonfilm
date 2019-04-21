@@ -1,0 +1,1 @@
+{"tmdb_id": 523068, "title": "Ghost Nets", "original_title": "Ghost Nets", "slug_title": "ghost-nets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 19818, "title": "Faites entrer l'accus\u00e9", "original_title": "Faites entrer l'accus\u00e9", "slug_title": "faites-entrer-l-accuse", "date": "2000-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

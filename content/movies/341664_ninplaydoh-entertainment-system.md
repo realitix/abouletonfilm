@@ -1,0 +1,1 @@
+{"tmdb_id": 341664, "title": "NinPlayDoh Entertainment System", "original_title": "NinPlayDoh Entertainment System", "slug_title": "ninplaydoh-entertainment-system", "date": "2013-05-24", "genre": "Com\u00e9die / Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

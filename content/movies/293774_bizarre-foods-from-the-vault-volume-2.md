@@ -1,0 +1,1 @@
+{"tmdb_id": 293774, "title": "Bizarre Foods From the Vault: Volume 2", "original_title": "Bizarre Foods From the Vault: Volume 2", "slug_title": "bizarre-foods-from-the-vault-volume-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

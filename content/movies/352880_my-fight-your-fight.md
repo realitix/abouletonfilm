@@ -1,0 +1,1 @@
+{"tmdb_id": 352880, "title": "My Fight/Your Fight", "original_title": "My Fight/Your Fight", "slug_title": "my-fight-your-fight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ronda Jean Rousey (Herself)"], "comments": [], "recommandations_id": []}

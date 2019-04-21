@@ -1,0 +1,1 @@
+{"tmdb_id": 501315, "title": "Relativ eigenst\u00e4ndig", "original_title": "Relativ eigenst\u00e4ndig", "slug_title": "relativ-eigenstandig", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

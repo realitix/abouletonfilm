@@ -1,0 +1,1 @@
+{"tmdb_id": 292725, "title": "L\u00e4vist\u00e4j\u00e4", "original_title": "L\u00e4vist\u00e4j\u00e4", "slug_title": "lavistaja", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

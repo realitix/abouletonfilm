@@ -1,0 +1,1 @@
+{"tmdb_id": 195645, "title": "Bombardment of Taku Forts, by the Allied Fleets", "original_title": "Bombardment of Taku Forts, by the Allied Fleets", "slug_title": "bombardment-of-taku-forts-by-the-allied-fleets", "date": "1900-08-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

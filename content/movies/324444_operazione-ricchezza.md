@@ -1,0 +1,1 @@
+{"tmdb_id": 324444, "title": "Operazione Ricchezza", "original_title": "Operazione Ricchezza", "slug_title": "operazione-ricchezza", "date": "1983-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgogrd0oJaiC4zofbswBoYzdXj6.jpg", "actors": [], "comments": [], "recommandations_id": []}

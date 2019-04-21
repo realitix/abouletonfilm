@@ -1,0 +1,1 @@
+{"tmdb_id": 235140, "title": "Park Avenue Pussycat", "original_title": "Park Avenue Pussycat", "slug_title": "park-avenue-pussycat", "date": "1956-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

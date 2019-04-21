@@ -1,0 +1,1 @@
+{"tmdb_id": 300374, "title": "We Are Alive! The Fight to Save Braddock Hospital", "original_title": "We Are Alive! The Fight to Save Braddock Hospital", "slug_title": "we-are-alive-the-fight-to-save-braddock-hospital", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

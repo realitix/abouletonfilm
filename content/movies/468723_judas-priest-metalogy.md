@@ -1,0 +1,1 @@
+{"tmdb_id": 468723, "title": "Judas Priest - Metalogy", "original_title": "Judas Priest - Metalogy", "slug_title": "judas-priest-metalogy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLMuDhiFHkwKVq6uSg4YhedodqL.jpg", "actors": [], "comments": [], "recommandations_id": []}

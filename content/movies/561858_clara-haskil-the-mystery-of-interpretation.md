@@ -1,0 +1,1 @@
+{"tmdb_id": 561858, "title": "Clara Haskil - the mystery of interpretation", "original_title": "Clara Haskil - Der Zauber der Interpretation", "slug_title": "clara-haskil-the-mystery-of-interpretation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

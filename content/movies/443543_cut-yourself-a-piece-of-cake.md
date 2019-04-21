@@ -1,0 +1,1 @@
+{"tmdb_id": 443543, "title": "Cut Yourself a Piece of Cake", "original_title": "Cut Yourself a Piece of Cake", "slug_title": "cut-yourself-a-piece-of-cake", "date": "1928-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Val Stanton ()", "Ernie Stanton ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 188232, "title": "Poetry and Truth", "original_title": "Dichtung und Wahrheit", "slug_title": "poetry-and-truth", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7a8nFsHAj6K0pKbt9QFT9L66Zmi.jpg", "actors": [], "comments": [], "recommandations_id": []}

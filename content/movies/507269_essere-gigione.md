@@ -1,0 +1,1 @@
+{"tmdb_id": 507269, "title": "Essere Gigione", "original_title": "Essere Gigione", "slug_title": "essere-gigione", "date": "2018-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/91yYy0lk7tDbOzA5BVvzdRWUqx.jpg", "actors": ["Gigione (Himself)", "Jo Donatello (Himself)"], "comments": [], "recommandations_id": []}

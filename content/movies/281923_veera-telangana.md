@@ -1,0 +1,1 @@
+{"tmdb_id": 281923, "title": "Veera Telangana", "original_title": "Veera Telangana", "slug_title": "veera-telangana", "date": "2010-07-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hsokbYF46X6itzfb0z9d43hKbul.jpg", "actors": ["R. Narayana Murthy ()"], "comments": [], "recommandations_id": []}

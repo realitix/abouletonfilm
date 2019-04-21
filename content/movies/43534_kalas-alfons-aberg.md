@@ -1,0 +1,1 @@
+{"tmdb_id": 43534, "title": "Kalas, Alfons \u00c5berg!", "original_title": "Kalas, Alfons \u00c5berg!", "slug_title": "kalas-alfons-aberg", "date": "1994-04-01", "genre": "Familial / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1XsF6LGkSVs809k0BVr0h3OeAfy.jpg", "actors": [], "comments": [], "recommandations_id": []}

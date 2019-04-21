@@ -1,0 +1,1 @@
+{"tmdb_id": 311843, "title": "Slaughter and the Dogs: Cranked Up Really High", "original_title": "Slaughter and the Dogs: Cranked Up Really High", "slug_title": "slaughter-and-the-dogs-cranked-up-really-high", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

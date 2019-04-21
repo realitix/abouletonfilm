@@ -1,0 +1,1 @@
+{"tmdb_id": 302417, "title": "Sodom and Gomorrah, NY, 10036", "original_title": "Sodom and Gomorrah, NY, 10036", "slug_title": "sodom-and-gomorrah-ny-10036", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQ1qRphdkisUXyiJb6mgY2AZgIh.jpg", "actors": [], "comments": [], "recommandations_id": []}

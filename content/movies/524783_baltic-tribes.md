@@ -1,0 +1,1 @@
+{"tmdb_id": 524783, "title": "Baltic Tribes", "original_title": "Baltu Ciltis", "slug_title": "baltic-tribes", "date": "2018-05-16", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MgXjQ7MRjLbqM4M0JondeYzwEm.jpg", "actors": [], "comments": [], "recommandations_id": []}

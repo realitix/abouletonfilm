@@ -1,0 +1,1 @@
+{"tmdb_id": 583886, "title": "MFO Akustik", "original_title": "MFO Akustik", "slug_title": "mfo-akustik", "date": "2018-12-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uzxCJI9FfWfyNiDvJg72KKt49UI.jpg", "actors": [], "comments": [], "recommandations_id": []}

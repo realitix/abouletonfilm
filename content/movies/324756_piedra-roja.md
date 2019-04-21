@@ -1,0 +1,1 @@
+{"tmdb_id": 324756, "title": "Piedra Roja", "original_title": "Piedra Roja", "slug_title": "piedra-roja", "date": "2011-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

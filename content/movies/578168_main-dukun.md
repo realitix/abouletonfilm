@@ -1,0 +1,1 @@
+{"tmdb_id": 578168, "title": "Main Dukun", "original_title": "Main Dukun", "slug_title": "main-dukun", "date": "2014-06-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lddc5NQefwtr790g8JD8kpfPiLU.jpg", "actors": ["Julia Perez ()", "Baby Margaretha ()"], "comments": [], "recommandations_id": []}

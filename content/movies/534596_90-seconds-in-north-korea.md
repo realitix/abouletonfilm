@@ -1,0 +1,1 @@
+{"tmdb_id": 534596, "title": "90 Seconds in North Korea", "original_title": "90 Seconds in North Korea", "slug_title": "90-seconds-in-north-korea", "date": "2018-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGXMMPPYqtXP0wVlNwFOZe5KyKJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

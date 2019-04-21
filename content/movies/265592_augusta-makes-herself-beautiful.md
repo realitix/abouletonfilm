@@ -1,0 +1,1 @@
+{"tmdb_id": 265592, "title": "Augusta Makes Herself Beautiful", "original_title": "Auguszta szepitkezik", "slug_title": "augusta-makes-herself-beautiful", "date": "1983-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

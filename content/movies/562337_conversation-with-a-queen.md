@@ -1,0 +1,1 @@
+{"tmdb_id": 562337, "title": "Conversation with a Queen", "original_title": "Saruna ar karalieni", "slug_title": "conversation-with-a-queen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

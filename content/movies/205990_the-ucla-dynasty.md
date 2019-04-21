@@ -1,0 +1,1 @@
+{"tmdb_id": 205990, "title": "The UCLA Dynasty", "original_title": "The UCLA Dynasty", "slug_title": "the-ucla-dynasty", "date": "2007-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35HrxIWMoZQt2Kw9h7LbM6T9YW5.jpg", "actors": [], "comments": [], "recommandations_id": []}

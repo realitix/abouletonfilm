@@ -1,0 +1,1 @@
+{"tmdb_id": 422237, "title": "Paththini", "original_title": "Paththini", "slug_title": "paththini", "date": "2016-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsgsO0y1gYszQifrn2tzEJdcDKI.jpg", "actors": ["Pooja Umashankar (Kannaki)", "Uddika Premarathna (Kovalan)"], "comments": [], "recommandations_id": []}

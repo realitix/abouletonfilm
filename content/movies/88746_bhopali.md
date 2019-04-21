@@ -1,0 +1,1 @@
+{"tmdb_id": 88746, "title": "Bhopali", "original_title": "Bhopali", "slug_title": "bhopali", "date": "2011-01-23", "genre": "Histoire / Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMD15Sz56c05F1hCvksYMBeX77U.jpg", "actors": [], "comments": [], "recommandations_id": []}

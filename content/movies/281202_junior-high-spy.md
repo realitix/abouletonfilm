@@ -1,0 +1,1 @@
+{"tmdb_id": 281202, "title": "Junior High Spy", "original_title": "Junior High Spy", "slug_title": "junior-high-spy", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

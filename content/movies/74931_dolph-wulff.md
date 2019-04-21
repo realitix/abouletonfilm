@@ -1,0 +1,1 @@
+{"tmdb_id": 74931, "title": "Dolph & Wulff", "original_title": "Dolph & Wulff", "slug_title": "dolph-wulff", "date": "2006-03-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2wjQbc7EdivoYjRw5nJRqdwkgH.jpg", "actors": [], "comments": [], "recommandations_id": []}

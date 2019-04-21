@@ -1,0 +1,1 @@
+{"tmdb_id": 561946, "title": "Permission to Operate", "original_title": "Det g\u00e5r att operera", "slug_title": "permission-to-operate", "date": "2015-09-16", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/botTTH5x11CLKSqsbYEx8hH546q.jpg", "actors": [], "comments": [], "recommandations_id": []}

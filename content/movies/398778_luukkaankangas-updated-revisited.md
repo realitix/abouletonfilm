@@ -1,0 +1,1 @@
+{"tmdb_id": 398778, "title": "Luukkaankangas - Updated, Revisited", "original_title": "Luukkaankangas - Updated, Revisited", "slug_title": "luukkaankangas-updated-revisited", "date": "2004-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

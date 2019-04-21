@@ -1,0 +1,1 @@
+{"tmdb_id": 282442, "title": "Marinetti", "original_title": "Marinetti", "slug_title": "marinetti", "date": "1969-06-19", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tOgq4Yfri2sLXKsHdKdpxKpxCCN.jpg", "actors": [], "comments": [], "recommandations_id": []}

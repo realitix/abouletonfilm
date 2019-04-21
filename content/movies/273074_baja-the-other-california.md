@@ -1,0 +1,1 @@
+{"tmdb_id": 273074, "title": "Baja: The Other California", "original_title": "Baja: The Other California", "slug_title": "baja-the-other-california", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

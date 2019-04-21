@@ -1,0 +1,1 @@
+{"tmdb_id": 237157, "title": "Cat Trouble", "original_title": "Cat Trouble", "slug_title": "cat-trouble", "date": "1947-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

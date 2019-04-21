@@ -1,0 +1,1 @@
+{"tmdb_id": 528853, "title": "Die Urlauber", "original_title": "Die Urlauber", "slug_title": "die-urlauber", "date": "1978-05-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00f6rg Gudzuhn (Fitzlar)", "Dieter Mann (Burger)", "J\u00fcrgen Reuter (Dr. Kohlmann)"], "comments": [], "recommandations_id": []}

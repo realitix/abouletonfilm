@@ -1,0 +1,1 @@
+{"tmdb_id": 419780, "title": "Koko the Barber", "original_title": "Koko the Barber", "slug_title": "koko-the-barber", "date": "1925-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

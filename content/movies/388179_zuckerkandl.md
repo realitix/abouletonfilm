@@ -1,0 +1,1 @@
+{"tmdb_id": 388179, "title": "Zuckerkandl!", "original_title": "Zuckerkandl!", "slug_title": "zuckerkandl", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Maynard Hutchins ()", "Phil Leida ()"], "comments": [], "recommandations_id": []}

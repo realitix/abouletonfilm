@@ -1,0 +1,1 @@
+{"tmdb_id": 116286, "title": "Love at First Bite", "original_title": "Love at First Bite", "slug_title": "love-at-first-bite", "date": "1950-05-04", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shemp Howard (Shemp)", "Marie Monteil (Maria)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

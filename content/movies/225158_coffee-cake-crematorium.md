@@ -1,0 +1,1 @@
+{"tmdb_id": 225158, "title": "Coffee, Cake & Crematorium", "original_title": "Kaffeefahrt ins Krematorium", "slug_title": "coffee-cake-crematorium", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

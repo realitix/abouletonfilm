@@ -1,0 +1,1 @@
+{"tmdb_id": 536258, "title": "California Election News No. 1", "original_title": "California Election News No. 1", "slug_title": "california-election-news-no-1", "date": "1934-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

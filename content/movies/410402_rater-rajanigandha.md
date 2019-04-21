@@ -1,0 +1,1 @@
+{"tmdb_id": 410402, "title": "Rater Rajanigandha", "original_title": "Rater Rajanigandha", "slug_title": "rater-rajanigandha", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bAWEw3p0nn68fbmNOC4GnYNs2pQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

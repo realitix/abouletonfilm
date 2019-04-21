@@ -1,0 +1,1 @@
+{"tmdb_id": 509230, "title": "Bullies Are A Pain In The Brain", "original_title": "Bullies Are A Pain In The Brain", "slug_title": "bullies-are-a-pain-in-the-brain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVG2c4YKVyXj42wfkWCGrnzVfGL.jpg", "actors": [], "comments": [], "recommandations_id": []}

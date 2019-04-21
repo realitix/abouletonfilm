@@ -1,0 +1,1 @@
+{"tmdb_id": 544976, "title": "Dead American Woman", "original_title": "Dead American Woman", "slug_title": "dead-american-woman", "date": "2013-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

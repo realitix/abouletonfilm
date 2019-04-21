@@ -1,0 +1,1 @@
+{"tmdb_id": 497301, "title": "The American Akira", "original_title": "The American Akira", "slug_title": "the-american-akira", "date": "2008-10-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

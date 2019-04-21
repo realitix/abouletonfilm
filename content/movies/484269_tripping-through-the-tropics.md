@@ -1,0 +1,1 @@
+{"tmdb_id": 484269, "title": "Tripping Through the Tropics", "original_title": "Tripping Through the Tropics", "slug_title": "tripping-through-the-tropics", "date": "1934-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Albertson (Jack)", "Lois January (Sally)"], "comments": [], "recommandations_id": []}

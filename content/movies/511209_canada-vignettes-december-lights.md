@@ -1,0 +1,1 @@
+{"tmdb_id": 511209, "title": "Canada Vignettes: December Lights", "original_title": "Canada Vignettes: December Lights", "slug_title": "canada-vignettes-december-lights", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

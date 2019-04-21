@@ -1,0 +1,1 @@
+{"tmdb_id": 528242, "title": "Nel nome di Antea", "original_title": "Nel nome di Antea", "slug_title": "nel-nome-di-antea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Letizia Ciampa ()", "Massimo Wertm\u00fcller ()"], "comments": [], "recommandations_id": []}

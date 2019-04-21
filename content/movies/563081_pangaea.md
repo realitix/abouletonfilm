@@ -1,0 +1,1 @@
+{"tmdb_id": 563081, "title": "Pangaea", "original_title": "Pangaea", "slug_title": "pangaea", "date": "2015-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZR8tnBZ2YtCC264FKvQc9FJ9Jv.jpg", "actors": ["Minca Muftic (Pangaea)"], "comments": [], "recommandations_id": []}

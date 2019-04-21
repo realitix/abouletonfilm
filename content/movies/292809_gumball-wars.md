@@ -1,0 +1,1 @@
+{"tmdb_id": 292809, "title": "Gumball Wars", "original_title": "Gumball Wars", "slug_title": "gumball-wars", "date": "2014-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303324, "title": "DIshes: A Documentary About Collecting Fiesta", "original_title": "DIshes: A Documentary About Collecting Fiesta", "slug_title": "dishes-a-documentary-about-collecting-fiesta", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

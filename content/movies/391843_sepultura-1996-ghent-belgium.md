@@ -1,0 +1,1 @@
+{"tmdb_id": 391843, "title": "Sepultura: [1996] Ghent, Belgium", "original_title": "Sepultura: [1996] Ghent, Belgium", "slug_title": "sepultura-1996-ghent-belgium", "date": "1996-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dasAHNGubUJKNwdNCuDZvvD196O.jpg", "actors": [], "comments": [], "recommandations_id": []}

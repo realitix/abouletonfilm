@@ -1,0 +1,1 @@
+{"tmdb_id": 516423, "title": "Das goldene Haar", "original_title": "Das goldene Haar", "slug_title": "das-goldene-haar", "date": "1923-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hermann Picha ()", "Erika von Thellmann ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 144992, "title": "Burial Path", "original_title": "Burial Path", "slug_title": "burial-path", "date": "1978-12-31", "genre": "", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92b28xVsLgxRqZ50IGsw4b2A7w6.jpg", "actors": [], "comments": [], "recommandations_id": [212097, 148040, 147199, 148626]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 68203, "title": "Blondie: Live!", "original_title": "Blondie: Live!", "slug_title": "blondie-live", "date": "1999-01-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9RwyUnaiPkiY7AoCVXQsme8HRe.jpg", "actors": ["Debbie Harry (Herself)"], "comments": [], "recommandations_id": []}

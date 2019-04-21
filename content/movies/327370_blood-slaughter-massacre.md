@@ -1,0 +1,1 @@
+{"tmdb_id": 327370, "title": "Blood Slaughter Massacre", "original_title": "Blood Slaughter Massacre", "slug_title": "blood-slaughter-massacre", "date": "2013-05-19", "genre": "Horreur", "score": "2.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2R2fzuF1SKa5ZVhc9srNnIe6BzX.jpg", "actors": [], "comments": [], "recommandations_id": []}

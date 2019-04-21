@@ -1,0 +1,1 @@
+{"tmdb_id": 272231, "title": "Die Walk\u00fcre", "original_title": "Die Walk\u00fcre", "slug_title": "die-walkure", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

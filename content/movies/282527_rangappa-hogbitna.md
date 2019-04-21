@@ -1,0 +1,1 @@
+{"tmdb_id": 282527, "title": "Rangappa Hogbitna", "original_title": "Rangappa Hogbitna", "slug_title": "rangappa-hogbitna", "date": "2011-02-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Sanjjanaa Galrani ()"], "comments": [], "recommandations_id": []}

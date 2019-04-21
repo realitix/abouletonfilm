@@ -1,0 +1,1 @@
+{"tmdb_id": 273711, "title": "Sneakers & Soul", "original_title": "Sneakers & Soul", "slug_title": "sneakers-soul", "date": "2010-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

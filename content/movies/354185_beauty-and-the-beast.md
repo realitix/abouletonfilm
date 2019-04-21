@@ -1,0 +1,1 @@
+{"tmdb_id": 354185, "title": "Beauty and the Beast", "original_title": "Der Sch\u00f6ne, die Biest", "slug_title": "beauty-and-the-beast", "date": "1993-08-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

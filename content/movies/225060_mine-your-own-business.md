@@ -1,0 +1,1 @@
+{"tmdb_id": 225060, "title": "Mine Your Own Business", "original_title": "Mine Your Own Business", "slug_title": "mine-your-own-business", "date": "2006-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odHbb6ISCiP7hnQYOrpptqP3rl3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540043, "title": "Kalleby e o Som das Ruas", "original_title": "Kalleby e o Som das Ruas", "slug_title": "kalleby-e-o-som-das-ruas", "date": "2017-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjZkhZZNUqnjN8P59LdXJlBbWhY.jpg", "actors": [], "comments": [], "recommandations_id": []}

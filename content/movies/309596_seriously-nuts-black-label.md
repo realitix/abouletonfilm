@@ -1,0 +1,1 @@
+{"tmdb_id": 309596, "title": "Seriously Nuts: Black Label", "original_title": "Seriously Nuts: Black Label", "slug_title": "seriously-nuts-black-label", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

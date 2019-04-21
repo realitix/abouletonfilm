@@ -1,0 +1,1 @@
+{"tmdb_id": 433844, "title": "Les dessous des accords de Munich", "original_title": "Les dessous des accords de Munich", "slug_title": "les-dessous-des-accords-de-munich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "documentaire relatant les accords de munich", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

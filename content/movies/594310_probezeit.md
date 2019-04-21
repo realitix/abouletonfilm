@@ -1,0 +1,1 @@
+{"tmdb_id": 594310, "title": "Probezeit", "original_title": "Probezeit", "slug_title": "probezeit", "date": "1978-03-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mariele Millowitsch (Gerda Gro\u00df)", "Hans K\u00fcnster (Heinz Gro\u00df)", "Peter Schmitz (Horst Issel)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195218, "title": "Cuban Volunteers Embarking", "original_title": "Cuban Volunteers Embarking", "slug_title": "cuban-volunteers-embarking", "date": "1898-06-20", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

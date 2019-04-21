@@ -1,0 +1,1 @@
+{"tmdb_id": 297856, "title": "Chaplinesque, My Life and Hard Times", "original_title": "Chaplinesque, My Life and Hard Times", "slug_title": "chaplinesque-my-life-and-hard-times", "date": "1972-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

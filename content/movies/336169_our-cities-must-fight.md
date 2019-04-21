@@ -1,0 +1,1 @@
+{"tmdb_id": 336169, "title": "Our Cities Must Fight", "original_title": "Our Cities Must Fight", "slug_title": "our-cities-must-fight", "date": "1951-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFnbfM2whcPspxu1wPrufyj0Bgf.jpg", "actors": [], "comments": [], "recommandations_id": []}

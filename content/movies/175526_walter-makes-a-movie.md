@@ -1,0 +1,1 @@
+{"tmdb_id": 175526, "title": "Walter Makes a Movie", "original_title": "Walter Makes a Movie", "slug_title": "walter-makes-a-movie", "date": "1922-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2oK7H122u1iNJRVDExv4ZdMUUy.jpg", "actors": [], "comments": [], "recommandations_id": []}

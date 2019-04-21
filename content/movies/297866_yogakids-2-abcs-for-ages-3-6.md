@@ -1,0 +1,1 @@
+{"tmdb_id": 297866, "title": "YogaKids 2: ABCs for Ages 3-6", "original_title": "YogaKids 2: ABCs for Ages 3-6", "slug_title": "yogakids-2-abcs-for-ages-3-6", "date": "2004-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p50EWfQZb7KKwAvmwbIOScT5psl.jpg", "actors": [], "comments": [], "recommandations_id": []}

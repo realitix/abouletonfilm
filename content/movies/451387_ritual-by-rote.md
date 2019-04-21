@@ -1,0 +1,1 @@
+{"tmdb_id": 451387, "title": "Ritual by Rote", "original_title": "Ritual by Rote", "slug_title": "ritual-by-rote", "date": "2001-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2qlDRqaM7Z5NmvMJONnlslYXoRm.jpg", "actors": [], "comments": [], "recommandations_id": []}

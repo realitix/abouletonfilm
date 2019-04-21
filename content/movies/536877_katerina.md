@@ -1,0 +1,1 @@
+{"tmdb_id": 536877, "title": "Katerina", "original_title": "Katerina", "slug_title": "katerina", "date": "", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

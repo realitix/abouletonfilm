@@ -1,0 +1,1 @@
+{"tmdb_id": 497684, "title": "The Young Rebel", "original_title": "Biswaprakash", "slug_title": "the-young-rebel", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

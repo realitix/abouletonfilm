@@ -1,0 +1,1 @@
+{"tmdb_id": 329450, "title": "Shadow of the Pharaoh", "original_title": "L'ombre du pharaon", "slug_title": "shadow-of-the-pharaoh", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adil Abdelwahab ()", "Yasmine Benbarka ()", "Helmut Berger ()"], "comments": [], "recommandations_id": []}

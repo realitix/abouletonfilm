@@ -1,0 +1,1 @@
+{"tmdb_id": 285128, "title": "El Retorn den Sopa", "original_title": "El Retorn den Sopa", "slug_title": "el-retorn-den-sopa", "date": "2011-08-04", "genre": "Fantastique / Com\u00e9die / Aventure", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGS6FSCkkJm86ACQAQlPPDsKJ7m.jpg", "actors": [], "comments": [], "recommandations_id": []}

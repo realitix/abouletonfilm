@@ -1,0 +1,1 @@
+{"tmdb_id": 503698, "title": "The Next Victim", "original_title": "The Next Victim", "slug_title": "the-next-victim", "date": "1975-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r93JMQQDyBXUeCQCfZGoaAbXC5j.jpg", "actors": [], "comments": [], "recommandations_id": []}

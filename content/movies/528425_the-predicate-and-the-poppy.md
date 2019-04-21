@@ -1,0 +1,1 @@
+{"tmdb_id": 528425, "title": "The Predicate and the Poppy", "original_title": "Le C.O.D. et le coquelicot", "slug_title": "the-predicate-and-the-poppy", "date": "2017-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5HyTLOTvJLPSaRMDxcLG4ndA3TP.jpg", "actors": [], "comments": [], "recommandations_id": []}

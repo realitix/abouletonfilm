@@ -1,0 +1,1 @@
+{"tmdb_id": 588538, "title": "Closing Time", "original_title": "Z\u00e1r\u00e1s", "slug_title": "closing-time", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

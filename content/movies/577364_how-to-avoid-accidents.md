@@ -1,0 +1,1 @@
+{"tmdb_id": 577364, "title": "How to Avoid Accidents", "original_title": "How to Avoid Accidents", "slug_title": "how-to-avoid-accidents", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 189142, "title": "General Invincible", "original_title": "\u64a2\u6b66\u9580", "slug_title": "general-invincible", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljCbcdYTAYSf3TSRXRalXc8PBz0.jpg", "actors": ["Chang Ling ()", "Adam Cheng ()"], "comments": [], "recommandations_id": []}

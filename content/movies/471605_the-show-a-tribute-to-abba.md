@@ -1,0 +1,1 @@
+{"tmdb_id": 471605, "title": "The Show a Tribute to ABBA", "original_title": "The Show a Tribute to ABBA", "slug_title": "the-show-a-tribute-to-abba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oL8YCW7JUUczqTCJ0UI9NDid7wm.jpg", "actors": [], "comments": [], "recommandations_id": []}

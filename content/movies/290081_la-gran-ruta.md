@@ -1,0 +1,1 @@
+{"tmdb_id": 290081, "title": "La gran ruta", "original_title": "La gran ruta", "slug_title": "la-gran-ruta", "date": "1971-10-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQlQniTNCThpCeAl6gQhOKMsr9w.jpg", "actors": ["Mim\u00ed Pons (Vilma)"], "comments": [], "recommandations_id": []}

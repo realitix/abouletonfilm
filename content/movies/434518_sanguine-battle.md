@@ -1,0 +1,1 @@
+{"tmdb_id": 434518, "title": "Sanguine Battle", "original_title": "Tenka no igagoe: akatsuki no kessen", "slug_title": "sanguine-battle", "date": "1959-10-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7rNpW0Vc21isFy8vzwvCHGyA1YX.jpg", "actors": [], "comments": [], "recommandations_id": []}

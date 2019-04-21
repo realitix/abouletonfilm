@@ -1,0 +1,1 @@
+{"tmdb_id": 133778, "title": "A Technicolor Dream", "original_title": "A Technicolor Dream", "slug_title": "a-technicolor-dream", "date": "2008-08-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mUsoDuWfYoblObstPJD6kcOWcKp.jpg", "actors": [], "comments": [], "recommandations_id": []}

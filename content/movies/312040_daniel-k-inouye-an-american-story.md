@@ -1,0 +1,1 @@
+{"tmdb_id": 312040, "title": "Daniel K. Inouye: An American Story", "original_title": "Daniel K. Inouye: An American Story", "slug_title": "daniel-k-inouye-an-american-story", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

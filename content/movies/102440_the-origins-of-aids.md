@@ -1,0 +1,1 @@
+{"tmdb_id": 102440, "title": "The Origins of AIDS", "original_title": "Les origines du SIDA", "slug_title": "the-origins-of-aids", "date": "2004-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnpAd5hW14NGxhZ9VQ9eHUpBO7c.jpg", "actors": [], "comments": [], "recommandations_id": []}

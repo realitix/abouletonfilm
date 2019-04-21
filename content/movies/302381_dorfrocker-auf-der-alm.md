@@ -1,0 +1,1 @@
+{"tmdb_id": 302381, "title": "Dorfrocker - Auf der Alm", "original_title": "Dorfrocker - Auf der Alm", "slug_title": "dorfrocker-auf-der-alm", "date": "2011-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

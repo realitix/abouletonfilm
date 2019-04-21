@@ -1,0 +1,1 @@
+{"tmdb_id": 235520, "title": "Lux Aeterna", "original_title": "Lux Aeterna", "slug_title": "lux-aeterna", "date": "2013-11-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

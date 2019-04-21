@@ -1,0 +1,1 @@
+{"tmdb_id": 574221, "title": "YouShoot: New Jack", "original_title": "YouShoot: New Jack", "slug_title": "youshoot-new-jack", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Jerome Young (Himself)"], "comments": [], "recommandations_id": []}

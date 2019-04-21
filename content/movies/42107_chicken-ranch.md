@@ -1,0 +1,1 @@
+{"tmdb_id": 42107, "title": "Chicken Ranch", "original_title": "Chicken Ranch", "slug_title": "chicken-ranch", "date": "1983-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0LBlgtBvS2KlYzSE1ARyiF2bHC.jpg", "actors": [], "comments": [], "recommandations_id": []}

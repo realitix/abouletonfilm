@@ -1,0 +1,1 @@
+{"tmdb_id": 539880, "title": "Les aventures du roi Pausole", "original_title": "Les aventures du roi Pausole", "slug_title": "les-aventures-du-roi-pausole", "date": "1933-12-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0CNFiNssRfReZ1QBolinkD66OF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 517832, "title": "Aikewara", "original_title": "Aikew\u00e1ra. A ressurrei\u00e7\u00e3o de um povo", "slug_title": "aikewara", "date": "2017-12-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WvMLVQ8wiZ2BqIihhknCPjHEah.jpg", "actors": [], "comments": [], "recommandations_id": []}

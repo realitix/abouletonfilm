@@ -1,0 +1,1 @@
+{"tmdb_id": 353603, "title": "Esta no es la vida privada de Javier Krahe", "original_title": "Esta no es la vida privada de Javier Krahe", "slug_title": "esta-no-es-la-vida-privada-de-javier-krahe", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

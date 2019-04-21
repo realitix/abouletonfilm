@@ -1,0 +1,1 @@
+{"tmdb_id": 374038, "title": "This Is My Show", "original_title": "This Is My Show", "slug_title": "this-is-my-show", "date": "2010-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 443224, "title": "L\u2019Amour Fou", "original_title": "L\u2019Amour Fou", "slug_title": "lamour-fou", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

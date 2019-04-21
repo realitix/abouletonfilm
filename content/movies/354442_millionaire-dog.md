@@ -1,0 +1,1 @@
+{"tmdb_id": 354442, "title": "Millionaire Dog", "original_title": "Millionaire Dog", "slug_title": "millionaire-dog", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQNL2US4ui3m2areqDnOLjUVMRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

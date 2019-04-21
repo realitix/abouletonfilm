@@ -1,0 +1,1 @@
+{"tmdb_id": 222329, "title": "Schweitzer", "original_title": "Schweitzer", "slug_title": "schweitzer", "date": "1990-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Malcolm McDowell ()", "Martin Adamiel ()", "John Carson ()"], "comments": [], "recommandations_id": []}

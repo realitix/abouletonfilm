@@ -1,0 +1,1 @@
+{"tmdb_id": 465085, "title": "Capul de zimbru", "original_title": "Capul de zimbru", "slug_title": "capul-de-zimbru", "date": "1996-01-01", "genre": "Drame / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qNRAdBYSUmX4i1N3DzNl0t0WXLm.jpg", "actors": [], "comments": [], "recommandations_id": []}

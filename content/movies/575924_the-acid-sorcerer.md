@@ -1,0 +1,1 @@
+{"tmdb_id": 575924, "title": "The Acid Sorcerer", "original_title": "The Acid Sorcerer", "slug_title": "the-acid-sorcerer", "date": "2017-06-10", "genre": "Horreur / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dakota Ray (Smoke)"], "comments": [], "recommandations_id": []}

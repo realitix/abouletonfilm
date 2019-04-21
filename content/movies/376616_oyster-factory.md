@@ -1,0 +1,1 @@
+{"tmdb_id": 376616, "title": "Oyster Factory", "original_title": "Kaki Kouba", "slug_title": "oyster-factory", "date": "2015-08-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yybaT5dy4u9T5ITGIfgUQsfywvb.jpg", "actors": [], "comments": [], "recommandations_id": []}

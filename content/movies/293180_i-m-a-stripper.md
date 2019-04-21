@@ -1,0 +1,1 @@
+{"tmdb_id": 293180, "title": "I'm a Stripper", "original_title": "I'm a Stripper", "slug_title": "i-m-a-stripper", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

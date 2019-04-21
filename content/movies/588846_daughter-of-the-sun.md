@@ -1,0 +1,1 @@
+{"tmdb_id": 588846, "title": "Daughter of the Sun", "original_title": "Beaivvi nieida", "slug_title": "daughter-of-the-sun", "date": "2017-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubvUttm9bdnLneVry9U46ChI1le.jpg", "actors": [], "comments": [], "recommandations_id": []}

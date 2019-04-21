@@ -1,0 +1,1 @@
+{"tmdb_id": 273890, "title": "Twelve Chairs", "original_title": "Zw\u00f6lf St\u00fchle", "slug_title": "twelve-chairs", "date": "2004-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1n5ay7Y9Wgz6D8C2bdM5SYGNdW.jpg", "actors": [], "comments": [], "recommandations_id": []}

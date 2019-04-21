@@ -1,0 +1,1 @@
+{"tmdb_id": 518841, "title": "Scarce: Days Like These", "original_title": "Scarce: Days Like These", "slug_title": "scarce-days-like-these", "date": "2009-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

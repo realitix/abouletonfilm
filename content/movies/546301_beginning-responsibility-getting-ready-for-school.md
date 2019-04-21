@@ -1,0 +1,1 @@
+{"tmdb_id": 546301, "title": "Beginning Responsibility: Getting Ready For School", "original_title": "Beginning Responsibility: Getting Ready For School", "slug_title": "beginning-responsibility-getting-ready-for-school", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

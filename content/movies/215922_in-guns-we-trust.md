@@ -1,0 +1,1 @@
+{"tmdb_id": 215922, "title": "In Guns We Trust", "original_title": "In Guns We Trust", "slug_title": "in-guns-we-trust", "date": "2013-09-09", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9Q5jKuW467CWjxsUfJRGq45tOi.jpg", "actors": [], "comments": [], "recommandations_id": []}

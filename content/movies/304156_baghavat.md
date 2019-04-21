@@ -1,0 +1,1 @@
+{"tmdb_id": 304156, "title": "Baghavat", "original_title": "Baghavat", "slug_title": "baghavat", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3pgPdami6JZA7gi9uGghL4BmWjX.jpg", "actors": ["Dharmendra ()", "Hema Malini ()", "Reena Roy ()", "Amjad Khan ()"], "comments": [], "recommandations_id": []}

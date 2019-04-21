@@ -1,0 +1,1 @@
+{"tmdb_id": 450664, "title": "Ein Tagebuch f\u00fcr Anne Frank", "original_title": "Ein Tagebuch f\u00fcr Anne Frank", "slug_title": "ein-tagebuch-fur-anne-frank", "date": "1959-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

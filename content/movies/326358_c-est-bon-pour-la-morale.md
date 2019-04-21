@@ -1,0 +1,1 @@
+{"tmdb_id": 326358, "title": "C'est bon pour la morale", "original_title": "C'est bon pour la morale", "slug_title": "c-est-bon-pour-la-morale", "date": "2005-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0sLlYSVpS5ApPDfGL2lHauJHiu.jpg", "actors": [], "comments": [], "recommandations_id": []}

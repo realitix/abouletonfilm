@@ -1,0 +1,1 @@
+{"tmdb_id": 373037, "title": "The Taking of Ezra Bodine", "original_title": "The Taking of Ezra Bodine", "slug_title": "the-taking-of-ezra-bodine", "date": "2015-09-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

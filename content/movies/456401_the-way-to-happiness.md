@@ -1,0 +1,1 @@
+{"tmdb_id": 456401, "title": "The Way to Happiness", "original_title": "The Way to Happiness", "slug_title": "the-way-to-happiness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqodzVWp5yD9z62qj6hhQTAjVUz.jpg", "actors": [], "comments": [], "recommandations_id": []}

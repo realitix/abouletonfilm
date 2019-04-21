@@ -1,0 +1,1 @@
+{"tmdb_id": 266226, "title": "Himeyuri", "original_title": "\u3072\u3081\u3086\u308a", "slug_title": "himeyuri", "date": "2012-06-23", "genre": "Animation / Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2W6SnFv7zsWKCKJjTRDR79SChD.jpg", "actors": ["Karen Asato (Narrator)"], "comments": [], "recommandations_id": []}

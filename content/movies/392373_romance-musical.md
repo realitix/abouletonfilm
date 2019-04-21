@@ -1,0 +1,1 @@
+{"tmdb_id": 392373, "title": "Romance musical", "original_title": "Romance musical", "slug_title": "romance-musical", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZWb2hIPPpddcZwyQ7v4N3rVz1V.jpg", "actors": [], "comments": [], "recommandations_id": []}

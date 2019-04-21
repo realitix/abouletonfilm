@@ -1,0 +1,1 @@
+{"tmdb_id": 505507, "title": "Zawadi ya Bahari", "original_title": "Zawadi ya Bahari", "slug_title": "zawadi-ya-bahari", "date": "", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enoZlP55r384DaAL5IxqJGoxlqt.jpg", "actors": [], "comments": [], "recommandations_id": []}

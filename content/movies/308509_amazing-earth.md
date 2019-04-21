@@ -1,0 +1,1 @@
+{"tmdb_id": 308509, "title": "Amazing Earth", "original_title": "Amazing Earth", "slug_title": "amazing-earth", "date": "1998-12-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmtWCIcnYIzG1XFPpPk8Wh1b2t0.jpg", "actors": ["Patrick Stewart ()"], "comments": [], "recommandations_id": []}

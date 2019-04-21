@@ -1,0 +1,1 @@
+{"tmdb_id": 491516, "title": "Beartrap", "original_title": "Beartrap", "slug_title": "beartrap", "date": "2009-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

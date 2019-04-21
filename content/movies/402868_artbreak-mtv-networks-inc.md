@@ -1,0 +1,1 @@
+{"tmdb_id": 402868, "title": "Artbreak, MTV Networks, Inc.", "original_title": "Artbreak, MTV Networks, Inc.", "slug_title": "artbreak-mtv-networks-inc", "date": "1987-06-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFb4q2N1Snw46Qgzh4a5vmvu3SM.jpg", "actors": [], "comments": [], "recommandations_id": []}

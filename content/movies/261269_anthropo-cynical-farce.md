@@ -1,0 +1,1 @@
+{"tmdb_id": 261269, "title": "Anthropo-Cynical Farce", "original_title": "Kenju giga", "slug_title": "anthropo-cynical-farce", "date": "1970-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/luE5vSr3RGQAo88tym11EbmAZs7.jpg", "actors": ["Nicolas Bataille (Voice)"], "comments": [], "recommandations_id": []}

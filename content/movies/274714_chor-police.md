@@ -1,0 +1,1 @@
+{"tmdb_id": 274714, "title": "Chor Police", "original_title": "Chor Police", "slug_title": "chor-police", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

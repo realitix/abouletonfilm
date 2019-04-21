@@ -1,0 +1,1 @@
+{"tmdb_id": 317715, "title": "Camp Clobber", "original_title": "Camp Clobber", "slug_title": "camp-clobber", "date": "1958-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

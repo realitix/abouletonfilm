@@ -1,0 +1,1 @@
+{"tmdb_id": 277554, "title": "An Odd Little Opus", "original_title": "An Odd Little Opus", "slug_title": "an-odd-little-opus", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zwOdEUUmmp2UsTu30Zyj5lRDaI.jpg", "actors": [], "comments": [], "recommandations_id": []}

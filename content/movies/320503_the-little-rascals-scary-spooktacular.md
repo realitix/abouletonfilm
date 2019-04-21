@@ -1,0 +1,1 @@
+{"tmdb_id": 320503, "title": "The Little Rascals: Scary Spooktacular", "original_title": "The Little Rascals: Scary Spooktacular", "slug_title": "the-little-rascals-scary-spooktacular", "date": "2011-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

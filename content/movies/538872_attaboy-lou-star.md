@@ -1,0 +1,1 @@
+{"tmdb_id": 538872, "title": "Attaboy Lou Star!", "original_title": "Attaboy Lou Star!", "slug_title": "attaboy-lou-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rapha\u00ebl Scali ()"], "comments": [], "recommandations_id": []}

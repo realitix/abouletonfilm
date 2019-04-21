@@ -1,0 +1,1 @@
+{"tmdb_id": 506436, "title": "A Space Dogyssey", "original_title": "A Space Dogyssey", "slug_title": "a-space-dogyssey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2b3nrahGmiTmf9jqgp5oKao0wFR.jpg", "actors": [], "comments": [], "recommandations_id": []}

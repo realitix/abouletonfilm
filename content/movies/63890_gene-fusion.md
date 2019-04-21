@@ -1,0 +1,1 @@
+{"tmdb_id": 63890, "title": "Gene Fusion", "original_title": "Gene Fusion", "slug_title": "gene-fusion", "date": "2011-05-10", "genre": "Animation / Science-Fiction", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3muxMP0kPThQgpe5ADHgRuO32VG.jpg", "actors": [], "comments": [], "recommandations_id": []}

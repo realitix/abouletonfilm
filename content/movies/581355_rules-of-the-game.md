@@ -1,0 +1,1 @@
+{"tmdb_id": 581355, "title": "Rules of the Game", "original_title": "Rules of the Game", "slug_title": "rules-of-the-game", "date": "1998-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bRQJOaxwru6bvGQHGncuukbvzi2.jpg", "actors": [], "comments": [], "recommandations_id": []}

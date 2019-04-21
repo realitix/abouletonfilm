@@ -1,0 +1,1 @@
+{"tmdb_id": 488890, "title": "Promenaden", "original_title": "Promenaden", "slug_title": "promenaden", "date": "1988-11-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qX9RPvAMZUtZE1WPL6GMGTtjHUu.jpg", "actors": [], "comments": [], "recommandations_id": []}

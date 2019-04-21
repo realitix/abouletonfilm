@@ -1,0 +1,1 @@
+{"tmdb_id": 551786, "title": "Black Wednesday", "original_title": "Black Wednesday", "slug_title": "black-wednesday", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

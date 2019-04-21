@@ -1,0 +1,1 @@
+{"tmdb_id": 454906, "title": "Man Spaghetti", "original_title": "Man Spaghetti", "slug_title": "man-spaghetti", "date": "2011-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UC2SnvjlfC6SrwHfhYLNB74M5g.jpg", "actors": [], "comments": [], "recommandations_id": []}

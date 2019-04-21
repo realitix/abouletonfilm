@@ -1,0 +1,1 @@
+{"tmdb_id": 501919, "title": "Taiga Tale", "original_title": "Taezhnaja Skazk", "slug_title": "taiga-tale", "date": "1951-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7IuvR2G4eOnwxdC10Ab45PTqrrX.jpg", "actors": [], "comments": [], "recommandations_id": []}

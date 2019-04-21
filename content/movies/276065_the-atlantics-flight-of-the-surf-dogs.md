@@ -1,0 +1,1 @@
+{"tmdb_id": 276065, "title": "The Atlantics: Flight of the Surf Dogs", "original_title": "The Atlantics: Flight of the Surf Dogs", "slug_title": "the-atlantics-flight-of-the-surf-dogs", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

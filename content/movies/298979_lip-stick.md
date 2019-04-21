@@ -1,0 +1,1 @@
+{"tmdb_id": 298979, "title": "Lip Stick", "original_title": "Lip Stick", "slug_title": "lip-stick", "date": "2010-07-17", "genre": "Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jC5VMZrAPv4OqVQHDXrvbbv04ir.jpg", "actors": ["Shannon Lark ()"], "comments": [], "recommandations_id": []}

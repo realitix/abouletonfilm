@@ -1,0 +1,1 @@
+{"tmdb_id": 176369, "title": "Every Man for Himself", "original_title": "Every Man for Himself", "slug_title": "every-man-for-himself", "date": "1924-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

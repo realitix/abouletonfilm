@@ -1,0 +1,1 @@
+{"tmdb_id": 325010, "title": "Chitrangada: The Crowning Wish", "original_title": "Chitrangada: The Crowning Wish", "slug_title": "chitrangada-the-crowning-wish", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

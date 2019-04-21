@@ -1,0 +1,1 @@
+{"tmdb_id": 561500, "title": "Pas de coup dur pour Johnny", "original_title": "Pas de coup dur pour Johnny", "slug_title": "pas-de-coup-dur-pour-johnny", "date": "1955-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w7AHEE6qokAZ28D13F714l59JAa.jpg", "actors": [], "comments": [], "recommandations_id": []}

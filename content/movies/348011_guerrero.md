@@ -1,0 +1,1 @@
+{"tmdb_id": 348011, "title": "Guerrero", "original_title": "Guerrero", "slug_title": "guerrero", "date": "", "genre": "", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["F\u00e9lix Salgado Macedonio ()", "Lina Santos ()", "Jorge Reynoso ()", "Manuel Ojeda ()"], "comments": [], "recommandations_id": []}

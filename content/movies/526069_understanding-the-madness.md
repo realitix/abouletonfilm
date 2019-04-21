@@ -1,0 +1,1 @@
+{"tmdb_id": 526069, "title": "Understanding the Madness", "original_title": "Understanding the Madness", "slug_title": "understanding-the-madness", "date": "2009-03-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

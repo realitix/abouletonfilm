@@ -1,0 +1,1 @@
+{"tmdb_id": 481391, "title": "Shootfighter Tekken", "original_title": "Koukou Tekken-den Tough", "slug_title": "shootfighter-tekken", "date": "2002-04-26", "genre": "Action / Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kV8Jvq3YiAbclsGc1jeIkl3HF1S.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 446067, "title": "8 Essen III", "original_title": "8 Essen III", "slug_title": "8-essen-iii", "date": "1996-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernhard Marsch ()", "Rainer Knepperges ()", "Markus Mischkowski ()", "Thomas Hermel ()"], "comments": [], "recommandations_id": []}

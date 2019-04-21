@@ -1,0 +1,1 @@
+{"tmdb_id": 430066, "title": "Piccole Scosse", "original_title": "Piccole Scosse", "slug_title": "piccole-scosse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helena Sujecka ()", "Agnieszka Pawe\u0142kiewicz ()", "Helena Sujecka (Asia)", "Agnieszka Pawe\u0142kiewicz (Kasia)"], "comments": [], "recommandations_id": []}

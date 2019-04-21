@@ -1,0 +1,1 @@
+{"tmdb_id": 543229, "title": "Inside: Medical Marijuana", "original_title": "Inside: Medical Marijuana", "slug_title": "inside-medical-marijuana", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gBwv0IYViuDPaAlTULTHqSBbAHh.jpg", "actors": [], "comments": [], "recommandations_id": []}

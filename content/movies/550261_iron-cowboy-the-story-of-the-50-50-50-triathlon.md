@@ -1,0 +1,1 @@
+{"tmdb_id": 550261, "title": "Iron Cowboy: The Story of the 50.50.50 Triathlon", "original_title": "Iron Cowboy: The Story of the 50.50.50 Triathlon", "slug_title": "iron-cowboy-the-story-of-the-50-50-50-triathlon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

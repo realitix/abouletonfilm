@@ -1,0 +1,1 @@
+{"tmdb_id": 555142, "title": "Halloweenie", "original_title": "Halloweenie", "slug_title": "halloweenie", "date": "1986-01-01", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bvEIfWuvnKpzmHez5KGsyFshoA0.jpg", "actors": ["Bob Lyss ()"], "comments": [], "recommandations_id": []}

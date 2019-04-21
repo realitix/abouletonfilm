@@ -1,0 +1,1 @@
+{"tmdb_id": 562194, "title": "The Price of Flesh", "original_title": "D\u00e9tournement de mineures", "slug_title": "the-price-of-flesh", "date": "1959-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4NeqDXt0dR4E3LFzUCWjIxaIkU3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425040, "title": "J-Girls Ink", "original_title": "J-Girls Ink", "slug_title": "j-girls-ink", "date": "2009-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ff5pzUwTfx3qr3N8khvYA8ipsH.jpg", "actors": [], "comments": [], "recommandations_id": []}

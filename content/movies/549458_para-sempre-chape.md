@@ -1,0 +1,1 @@
+{"tmdb_id": 549458, "title": "Para Sempre Chape", "original_title": "Para Sempre Chape", "slug_title": "para-sempre-chape", "date": "2018-08-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1mU5Si42yrJy0LrL6M72fgNhFR.jpg", "actors": [], "comments": [], "recommandations_id": []}

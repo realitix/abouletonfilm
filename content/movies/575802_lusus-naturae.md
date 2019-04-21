@@ -1,0 +1,1 @@
+{"tmdb_id": 575802, "title": "Lusus Naturae", "original_title": "Lusus Naturae", "slug_title": "lusus-naturae", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paige Martin (Emma)", "Alex Schloemer (Carson)", "Steven Portoles (Dark Stalker)", "Logan Miller (Dead Body)"], "comments": [], "recommandations_id": []}

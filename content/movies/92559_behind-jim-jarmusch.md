@@ -1,0 +1,1 @@
+{"tmdb_id": 92559, "title": "Behind Jim Jarmusch", "original_title": "Behind Jim Jarmusch", "slug_title": "behind-jim-jarmusch", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d9d29TIPQdIfQxB5p0sviZQ42hP.jpg", "actors": [], "comments": [], "recommandations_id": []}

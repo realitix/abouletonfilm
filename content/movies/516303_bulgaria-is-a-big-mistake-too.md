@@ -1,0 +1,1 @@
+{"tmdb_id": 516303, "title": "BULGARIA IS A BIG MISTAKE TOO", "original_title": "BULGARIA IS A BIG MISTAKE TOO", "slug_title": "bulgaria-is-a-big-mistake-too", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

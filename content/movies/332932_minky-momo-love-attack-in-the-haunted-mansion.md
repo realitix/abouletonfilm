@@ -1,0 +1,1 @@
+{"tmdb_id": 332932, "title": "Minky Momo: Love Attack in the Haunted Mansion", "original_title": "Minky Momo: Love Attack in the Haunted Mansion", "slug_title": "minky-momo-love-attack-in-the-haunted-mansion", "date": "2015-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

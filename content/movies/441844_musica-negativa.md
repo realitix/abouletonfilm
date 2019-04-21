@@ -1,0 +1,1 @@
+{"tmdb_id": 441844, "title": "M\u00fasica Negativa", "original_title": "M\u00fasica Negativa", "slug_title": "musica-negativa", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjH9f7ol33oYGXBY3KCBmCRpHPk.jpg", "actors": [], "comments": [], "recommandations_id": []}

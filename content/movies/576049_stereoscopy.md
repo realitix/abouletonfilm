@@ -1,0 +1,1 @@
+{"tmdb_id": 576049, "title": "Stereoscopy", "original_title": "Estereoscop\u00eda", "slug_title": "stereoscopy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1Tm749ZMoMgdhl5zRsXQfIuxOx.jpg", "actors": ["Vicente de Souza (Emilio)"], "comments": [], "recommandations_id": []}

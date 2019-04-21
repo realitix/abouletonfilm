@@ -1,0 +1,1 @@
+{"tmdb_id": 236940, "title": "It's Nifty to Be Thrifty", "original_title": "It's Nifty to Be Thrifty", "slug_title": "it-s-nifty-to-be-thrifty", "date": "1944-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYMYhAZS4sr9wXFQlEiVVSrfvUY.jpg", "actors": [], "comments": [], "recommandations_id": []}

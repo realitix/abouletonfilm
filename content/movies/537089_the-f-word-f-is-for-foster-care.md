@@ -1,0 +1,1 @@
+{"tmdb_id": 537089, "title": "The F Word: F Is for Foster Care", "original_title": "The F Word: F Is for Foster Care", "slug_title": "the-f-word-f-is-for-foster-care", "date": "2018-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicole Opperis ()", "Kristan Cassady ()"], "comments": [], "recommandations_id": []}

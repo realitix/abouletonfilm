@@ -1,0 +1,1 @@
+{"tmdb_id": 462955, "title": "The Magic Weed", "original_title": "The Magic Weed", "slug_title": "the-magic-weed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

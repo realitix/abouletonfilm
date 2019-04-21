@@ -1,0 +1,1 @@
+{"tmdb_id": 253653, "title": "Prisioneros de guerra", "original_title": "Prisioneros de guerra", "slug_title": "prisioneros-de-guerra", "date": "1938-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joaqu\u00edn Reig (Voice)"], "comments": [], "recommandations_id": []}

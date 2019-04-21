@@ -1,0 +1,1 @@
+{"tmdb_id": 234883, "title": "A Chilly Reception", "original_title": "A Chilly Reception", "slug_title": "a-chilly-reception", "date": "1958-08-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/30MamCYVBSDvm7OpqWDCSgFBoiF.jpg", "actors": ["Daws Butler ((voices))"], "comments": [], "recommandations_id": []}

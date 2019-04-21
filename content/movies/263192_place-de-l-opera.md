@@ -1,0 +1,1 @@
+{"tmdb_id": 263192, "title": "Place de l'Op\u00e9ra", "original_title": "Place de l'Op\u00e9ra", "slug_title": "place-de-l-opera", "date": "1897-12-31", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [193647, 190587, 178756]}

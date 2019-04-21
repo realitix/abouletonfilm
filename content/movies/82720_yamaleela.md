@@ -1,0 +1,1 @@
+{"tmdb_id": 82720, "title": "Yamaleela", "original_title": "\u0c2f\u0c2e\u0c32\u0c40\u0c32", "slug_title": "yamaleela", "date": "1994-04-24", "genre": "Com\u00e9die / Drame / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDTbZiqH518Kq57thTHS67PhEo8.jpg", "actors": [], "comments": [], "recommandations_id": []}

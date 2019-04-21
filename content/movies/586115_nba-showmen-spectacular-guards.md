@@ -1,0 +1,1 @@
+{"tmdb_id": 586115, "title": "NBA Showmen Spectacular Guards", "original_title": "NBA Showmen Spectacular Guards", "slug_title": "nba-showmen-spectacular-guards", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/phP8winbaDG69nEUsgYBf9hnvs0.jpg", "actors": [], "comments": [], "recommandations_id": []}

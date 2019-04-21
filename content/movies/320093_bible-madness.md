@@ -1,0 +1,1 @@
+{"tmdb_id": 320093, "title": "Bible Madness!", "original_title": "Bible Madness!", "slug_title": "bible-madness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

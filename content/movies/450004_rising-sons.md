@@ -1,0 +1,1 @@
+{"tmdb_id": 450004, "title": "Rising Sons", "original_title": "Rising Sons", "slug_title": "rising-sons", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Esther Ntoto ()", "Camille Ntoto ()"], "comments": [], "recommandations_id": []}

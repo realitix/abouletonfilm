@@ -1,0 +1,1 @@
+{"tmdb_id": 314743, "title": "Bob Dylan: Gotta Do My Time", "original_title": "Bob Dylan: Gotta Do My Time", "slug_title": "bob-dylan-gotta-do-my-time", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

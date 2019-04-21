@@ -1,0 +1,1 @@
+{"tmdb_id": 301620, "title": "College Ranga", "original_title": "College Ranga", "slug_title": "college-ranga", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

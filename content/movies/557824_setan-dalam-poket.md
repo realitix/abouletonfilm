@@ -1,0 +1,1 @@
+{"tmdb_id": 557824, "title": "Setan Dalam Poket", "original_title": "Setan Dalam Poket", "slug_title": "setan-dalam-poket", "date": "2018-10-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uMxQ6MDJmZQ4BGkeyxknHjSrsF.jpg", "actors": [], "comments": [], "recommandations_id": []}

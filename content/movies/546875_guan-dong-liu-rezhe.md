@@ -1,0 +1,1 @@
+{"tmdb_id": 546875, "title": "\u95a2\u6771\u6d41\u308c\u8005", "original_title": "\u95a2\u6771\u6d41\u308c\u8005", "slug_title": "guan-dong-liu-rezhe", "date": "1971-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

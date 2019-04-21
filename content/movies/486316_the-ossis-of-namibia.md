@@ -1,0 +1,1 @@
+{"tmdb_id": 486316, "title": "The Ossis of Namibia", "original_title": "Die Ossis von Namibia", "slug_title": "the-ossis-of-namibia", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p892Sg2WAnhnzWh88ObuO2xs25Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

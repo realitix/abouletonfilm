@@ -1,0 +1,1 @@
+{"tmdb_id": 222807, "title": "Frightday the 13th", "original_title": "Frightday the 13th", "slug_title": "frightday-the-13th", "date": "1953-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

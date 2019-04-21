@@ -1,0 +1,1 @@
+{"tmdb_id": 498757, "title": "Destined", "original_title": "Destined", "slug_title": "destined", "date": "2017-06-16", "genre": "Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vannessa Vasquez (Lina)", "Aric Hendrix (Ben Smith)", "E.R. Ruiz (Tyrant's Colonel)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 254889, "title": "Capitalism: Slavery", "original_title": "Capitalism: Slavery", "slug_title": "capitalism-slavery", "date": "2006-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1ENqlGWL0Pw9aefOAddaQOk5IU.jpg", "actors": [], "comments": [], "recommandations_id": [357606, 146665, 436282, 142191]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 434304, "title": "Duration-Landscape: Road", "original_title": "Paisaje-Duraci\u00f3n: Carretera", "slug_title": "duration-landscape-road", "date": "2012-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9H8KUp7Xcx2iPnfxI2YgnOOpEtZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

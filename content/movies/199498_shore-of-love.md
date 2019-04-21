@@ -1,0 +1,1 @@
+{"tmdb_id": 199498, "title": "Shore of Love", "original_title": "Shati el gharam", "slug_title": "shore-of-love", "date": "1950-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GPrwyu8mCjiIQECuDvJlpU0uRj.jpg", "actors": [], "comments": [], "recommandations_id": []}

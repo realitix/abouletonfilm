@@ -1,0 +1,1 @@
+{"tmdb_id": 228078, "title": "Shopping Mall", "original_title": "Shopping Mall", "slug_title": "shopping-mall", "date": "2010-11-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a27DqOKdNfxVA4alZqRm1fsyBMx.jpg", "actors": ["Anjali (Rani)"], "comments": [], "recommandations_id": []}

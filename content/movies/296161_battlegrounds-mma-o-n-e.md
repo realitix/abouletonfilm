@@ -1,0 +1,1 @@
+{"tmdb_id": 296161, "title": "Battlegrounds MMA: O.N.E", "original_title": "Battlegrounds MMA: O.N.E", "slug_title": "battlegrounds-mma-o-n-e", "date": "2014-10-05", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQS0inqEgvitt82eeY7LWzTjQOj.jpg", "actors": [], "comments": [], "recommandations_id": []}

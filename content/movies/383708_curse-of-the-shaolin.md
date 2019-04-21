@@ -1,0 +1,1 @@
+{"tmdb_id": 383708, "title": "Curse of the Shaolin", "original_title": "Curse of the Shaolin", "slug_title": "curse-of-the-shaolin", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8lXbXzIcDIgfww48Ru1MP9EVfQD.jpg", "actors": [], "comments": [], "recommandations_id": []}

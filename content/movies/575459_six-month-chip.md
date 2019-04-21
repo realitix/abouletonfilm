@@ -1,0 +1,1 @@
+{"tmdb_id": 575459, "title": "Six Month Chip", "original_title": "Six Month Chip", "slug_title": "six-month-chip", "date": "2018-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOft7NW2q61djqkTSFUhjvXeK2o.jpg", "actors": ["Matthew Leonard (Joel)"], "comments": [], "recommandations_id": []}

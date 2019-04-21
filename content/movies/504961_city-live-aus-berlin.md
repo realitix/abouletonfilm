@@ -1,0 +1,1 @@
+{"tmdb_id": 504961, "title": "City - Live aus Berlin", "original_title": "City - Live aus Berlin", "slug_title": "city-live-aus-berlin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ooO9fFVSCyhBhFU6vz87woYFL0L.jpg", "actors": [], "comments": [], "recommandations_id": []}

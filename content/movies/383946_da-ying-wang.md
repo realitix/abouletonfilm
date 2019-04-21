@@ -1,0 +1,1 @@
+{"tmdb_id": 383946, "title": "Da ying wang", "original_title": "Da ying wang", "slug_title": "da-ying-wang", "date": "1979-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vfBZQruJdnfooV3PkSmf1XMsNAd.jpg", "actors": [], "comments": [], "recommandations_id": []}

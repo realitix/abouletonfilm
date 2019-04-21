@@ -1,0 +1,1 @@
+{"tmdb_id": 511366, "title": "26 de Diciembre", "original_title": "26 de Diciembre", "slug_title": "26-de-diciembre", "date": "2017-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daLCiivr8iiSqfX3gXH6UhKdByQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

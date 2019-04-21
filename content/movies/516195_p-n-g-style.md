@@ -1,0 +1,1 @@
+{"tmdb_id": 516195, "title": "P.N.G Style", "original_title": "P.N.G Style", "slug_title": "p-n-g-style", "date": "2018-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

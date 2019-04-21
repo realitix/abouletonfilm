@@ -1,0 +1,1 @@
+{"tmdb_id": 61504, "title": "Tips From Bertil", "original_title": "Tips Fr\u00e5n Bertil", "slug_title": "tips-from-bertil", "date": "2006-05-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7T2oyYvYSQUXhWFOY45OhsYZcY3.jpg", "actors": ["Robert Gustafsson ()"], "comments": [], "recommandations_id": []}

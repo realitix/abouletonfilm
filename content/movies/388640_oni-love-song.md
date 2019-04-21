@@ -1,0 +1,1 @@
+{"tmdb_id": 388640, "title": "Oni Love Song", "original_title": "Ki Rennka", "slug_title": "oni-love-song", "date": "1971-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efOrzR4Zvalcn6zNbn4pxTiaNk6.jpg", "actors": [], "comments": [], "recommandations_id": []}

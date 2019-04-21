@@ -1,0 +1,1 @@
+{"tmdb_id": 494219, "title": "The Comic Strip: Bad News", "original_title": "The Comic Strip: Bad News", "slug_title": "the-comic-strip-bad-news", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eVNs4KZKFuh3o3Vwa2CN78UXnZQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

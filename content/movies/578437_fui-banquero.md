@@ -1,0 +1,1 @@
+{"tmdb_id": 578437, "title": "Fui banquero", "original_title": "Fui banquero", "slug_title": "fui-banquero", "date": "2016-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/itNVPIUMgWxGgeYIilVMc5qwVmc.jpg", "actors": [], "comments": [], "recommandations_id": []}

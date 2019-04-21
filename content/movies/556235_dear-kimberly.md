@@ -1,0 +1,1 @@
+{"tmdb_id": 556235, "title": "Dear Kimberly", "original_title": "Dear Kimberly", "slug_title": "dear-kimberly", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

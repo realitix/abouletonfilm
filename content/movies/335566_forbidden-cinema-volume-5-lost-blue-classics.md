@@ -1,0 +1,1 @@
+{"tmdb_id": 335566, "title": "Forbidden Cinema: Volume 5: Lost Blue Classics", "original_title": "Forbidden Cinema: Volume 5: Lost Blue Classics", "slug_title": "forbidden-cinema-volume-5-lost-blue-classics", "date": "2014-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

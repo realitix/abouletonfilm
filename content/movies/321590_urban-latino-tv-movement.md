@@ -1,0 +1,1 @@
+{"tmdb_id": 321590, "title": "Urban Latino TV: Movement", "original_title": "Urban Latino TV: Movement", "slug_title": "urban-latino-tv-movement", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

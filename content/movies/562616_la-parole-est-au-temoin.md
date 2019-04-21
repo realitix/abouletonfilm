@@ -1,0 +1,1 @@
+{"tmdb_id": 562616, "title": "La parole est au t\u00e9moin", "original_title": "La parole est au t\u00e9moin", "slug_title": "la-parole-est-au-temoin", "date": "1963-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

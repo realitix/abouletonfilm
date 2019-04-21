@@ -1,0 +1,1 @@
+{"tmdb_id": 55340, "title": "Frances: Bedtime for Frances", "original_title": "Frances: Bedtime for Frances", "slug_title": "frances-bedtime-for-frances", "date": "", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsEeI9yAOg3fSNiP6t2OcUawnv3.jpg", "actors": [], "comments": [], "recommandations_id": []}

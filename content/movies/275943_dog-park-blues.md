@@ -1,0 +1,1 @@
+{"tmdb_id": 275943, "title": "Dog Park Blues", "original_title": "Dog Park Blues", "slug_title": "dog-park-blues", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

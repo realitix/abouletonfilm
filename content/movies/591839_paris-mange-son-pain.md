@@ -1,0 +1,1 @@
+{"tmdb_id": 591839, "title": "Paris mange son pain", "original_title": "Paris mange son pain", "slug_title": "paris-mange-son-pain", "date": "1958-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

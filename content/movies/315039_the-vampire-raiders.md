@@ -1,0 +1,1 @@
+{"tmdb_id": 315039, "title": "The Vampire Raiders", "original_title": "The Vampire Raiders", "slug_title": "the-vampire-raiders", "date": "1988-01-01", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/plixeRCtDLP14kdHmjqn0T3Robd.jpg", "actors": ["Agnes Chan Mei-Ling ()"], "comments": [], "recommandations_id": []}

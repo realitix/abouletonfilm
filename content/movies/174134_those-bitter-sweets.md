@@ -1,0 +1,1 @@
+{"tmdb_id": 174134, "title": "Those Bitter Sweets", "original_title": "Those Bitter Sweets", "slug_title": "those-bitter-sweets", "date": "1915-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry McCoy (The Suitor)", "Mae Busch (The Sweetheart)", "Dell Henderson (The Rival)"], "comments": [], "recommandations_id": []}

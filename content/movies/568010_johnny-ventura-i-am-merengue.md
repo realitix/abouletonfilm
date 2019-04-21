@@ -1,0 +1,1 @@
+{"tmdb_id": 568010, "title": "Johnny Ventura: I am Merengue", "original_title": "Johnny Ventura: Yo soy merengue", "slug_title": "johnny-ventura-i-am-merengue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSlxVRzgVZOjX65A3cCk4BgnjUd.jpg", "actors": [], "comments": [], "recommandations_id": []}

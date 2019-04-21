@@ -1,0 +1,1 @@
+{"tmdb_id": 408871, "title": "Flo's Discipline", "original_title": "Flo's Discipline", "slug_title": "flo-s-discipline", "date": "1912-09-19", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florence Lawrence (Florence Dow)", "Owen Moore (Jack Doyle - Assistant Principal)"], "comments": [], "recommandations_id": []}

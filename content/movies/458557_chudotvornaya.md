@@ -1,0 +1,1 @@
+{"tmdb_id": 458557, "title": "Chudotvornaya", "original_title": "Chudotvornaya", "slug_title": "chudotvornaya", "date": "1960-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hRtVHI1nBQaLt1gahUoDouRO8g5.jpg", "actors": [], "comments": [], "recommandations_id": []}

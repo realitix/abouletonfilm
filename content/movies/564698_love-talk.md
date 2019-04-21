@@ -1,0 +1,1 @@
+{"tmdb_id": 564698, "title": "Love Talk", "original_title": "Love Talk", "slug_title": "love-talk", "date": "2018-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v0uzSbRxsWm5ugIX5DXLY2QsPpG.jpg", "actors": [], "comments": [], "recommandations_id": []}

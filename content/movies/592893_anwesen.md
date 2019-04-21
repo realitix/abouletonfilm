@@ -1,0 +1,1 @@
+{"tmdb_id": 592893, "title": "Anwesen", "original_title": "Anwesen", "slug_title": "anwesen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dz0O6iK2qHDyuhFIwazHSEjfhOb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 442785, "title": "The Machine: Master or Slave?", "original_title": "The Machine: Master or Slave?", "slug_title": "the-machine-master-or-slave", "date": "1941-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Don Goddard (Narrator)"], "comments": [], "recommandations_id": []}

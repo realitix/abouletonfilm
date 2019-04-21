@@ -1,0 +1,1 @@
+{"tmdb_id": 382497, "title": "Plop en de Muziekkampioen", "original_title": "Plop en de Muziekkampioen", "slug_title": "plop-en-de-muziekkampioen", "date": "2008-10-10", "genre": "Familial", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTrbluqyYjOhd7i7SZFYXThcodt.jpg", "actors": [], "comments": [], "recommandations_id": []}

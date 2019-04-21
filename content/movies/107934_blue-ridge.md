@@ -1,0 +1,1 @@
+{"tmdb_id": 107934, "title": "Blue Ridge", "original_title": "Blue Ridge", "slug_title": "blue-ridge", "date": "2012-06-07", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e9zLgHMDbXrzK0s9DlETkli72JU.jpg", "actors": [], "comments": [], "recommandations_id": [399786, 130002, 41324, 327781]}

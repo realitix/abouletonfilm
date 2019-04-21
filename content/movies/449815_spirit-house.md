@@ -1,0 +1,1 @@
+{"tmdb_id": 449815, "title": "Spirit House", "original_title": "Spirit House", "slug_title": "spirit-house", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgTf0N7xpqojQy5P3ekRREfIj1W.jpg", "actors": [], "comments": [], "recommandations_id": []}

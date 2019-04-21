@@ -1,0 +1,1 @@
+{"tmdb_id": 461815, "title": "La marca del muerto", "original_title": "La marca del muerto", "slug_title": "la-marca-del-muerto", "date": "1961-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scRzTdcHJmWHLcHxi04XUdO5a9B.jpg", "actors": [], "comments": [], "recommandations_id": []}

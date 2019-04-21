@@ -1,0 +1,1 @@
+{"tmdb_id": 590815, "title": "Durdesh", "original_title": "Durdesh", "slug_title": "durdesh", "date": "1983-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Parveen Babi ()", "Sharmila Tagore ()", "Raj Babbar ()", "Nadeem Baig ()", "Bobita ()", "David Abraham ()"], "comments": [], "recommandations_id": []}

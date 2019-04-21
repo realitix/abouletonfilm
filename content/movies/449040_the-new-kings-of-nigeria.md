@@ -1,0 +1,1 @@
+{"tmdb_id": 449040, "title": "The New Kings of Nigeria", "original_title": "The New Kings of Nigeria", "slug_title": "the-new-kings-of-nigeria", "date": "2010-05-31", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Taylaur (Himself)"], "comments": [], "recommandations_id": []}

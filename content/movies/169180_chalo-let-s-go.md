@@ -1,0 +1,1 @@
+{"tmdb_id": 169180, "title": "Chalo Let's Go", "original_title": "Chalo Let's Go", "slug_title": "chalo-let-s-go", "date": "2008-06-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxT9lF0qs5V8KrsNprgKDZfkDdV.jpg", "actors": [], "comments": [], "recommandations_id": []}

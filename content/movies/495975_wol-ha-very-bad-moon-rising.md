@@ -1,0 +1,1 @@
+{"tmdb_id": 495975, "title": "Wol-ha: Very Bad Moon Rising", "original_title": "\uc6d4\ud558", "slug_title": "wol-ha-very-bad-moon-rising", "date": "2017-12-20", "genre": "Myst\u00e8re / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bhB14RezI8zpsOrBAPHHGvRm94J.jpg", "actors": [], "comments": [], "recommandations_id": []}

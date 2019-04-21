@@ -1,0 +1,1 @@
+{"tmdb_id": 331533, "title": "Thappida Thala", "original_title": "Thappida Thala", "slug_title": "thappida-thala", "date": "1978-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZIVFKw3zAZaaaCVk9Optzcur84.jpg", "actors": ["Rajinikanth ()", "Kamal Haasan ()"], "comments": [], "recommandations_id": []}

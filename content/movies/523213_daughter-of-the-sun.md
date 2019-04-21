@@ -1,0 +1,1 @@
+{"tmdb_id": 523213, "title": "Daughter of the Sun", "original_title": "Daughter of the Sun", "slug_title": "daughter-of-the-sun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

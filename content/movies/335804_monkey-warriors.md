@@ -1,0 +1,1 @@
+{"tmdb_id": 335804, "title": "Monkey Warriors", "original_title": "Monkey Warriors", "slug_title": "monkey-warriors", "date": "2015-04-07", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Ckkif62h3sYSbZ0N8rQ4RpE69X.jpg", "actors": [], "comments": [], "recommandations_id": []}

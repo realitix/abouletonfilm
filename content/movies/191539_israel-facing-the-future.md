@@ -1,0 +1,1 @@
+{"tmdb_id": 191539, "title": "Israel: Facing The Future", "original_title": "Israel: Facing The Future", "slug_title": "israel-facing-the-future", "date": "2013-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Ware ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 433096, "title": "The Workers Cup", "original_title": "The Workers Cup", "slug_title": "the-workers-cup", "date": "2017-01-19", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DXDW72lvOSGMHPgcLPV2AjUhIL.jpg", "actors": [], "comments": [], "recommandations_id": []}

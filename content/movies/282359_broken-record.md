@@ -1,0 +1,1 @@
+{"tmdb_id": 282359, "title": "Broken Record", "original_title": "Broken Record", "slug_title": "broken-record", "date": "1994-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joseph Dohring ()", "Katie Johnston ()", "Chauncey Leopardi ()"], "comments": [], "recommandations_id": []}

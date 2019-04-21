@@ -1,0 +1,1 @@
+{"tmdb_id": 269272, "title": "Telesme schekast\u00e9", "original_title": "Telesme schekast\u00e9", "slug_title": "telesme-schekaste", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7oiO65xaDfrVXmKkbeaeouhbHvd.jpg", "actors": [], "comments": [], "recommandations_id": []}

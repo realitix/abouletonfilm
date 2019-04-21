@@ -1,0 +1,1 @@
+{"tmdb_id": 420608, "title": "Pour Vous, Mesdames", "original_title": "Pour Vous, Mesdames", "slug_title": "pour-vous-mesdames", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tdCrhMLt5EM2LwkAMxh0iRN4eYu.jpg", "actors": ["Jean Tissier (Jean Tissier)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276824, "title": "Metamoris 3 - The Rematch", "original_title": "Metamoris 3 - The Rematch", "slug_title": "metamoris-3-the-rematch", "date": "2014-03-29", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLpWAuOB5Md5IpmYV91iZFfVwdj.jpg", "actors": [], "comments": [], "recommandations_id": []}

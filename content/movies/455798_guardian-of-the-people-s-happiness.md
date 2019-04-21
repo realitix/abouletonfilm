@@ -1,0 +1,1 @@
+{"tmdb_id": 455798, "title": "Guardian of the People's Happiness", "original_title": "Guardian of the People's Happiness", "slug_title": "guardian-of-the-people-s-happiness", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

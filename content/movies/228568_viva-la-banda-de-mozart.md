@@ -1,0 +1,1 @@
+{"tmdb_id": 228568, "title": "Viva la banda de Mozart", "original_title": "Viva la banda de Mozart", "slug_title": "viva-la-banda-de-mozart", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gD06DyJ3tye0F98NNUXk997q0BQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

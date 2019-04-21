@@ -1,0 +1,1 @@
+{"tmdb_id": 451670, "title": "Rabbi Wolff", "original_title": "Rabbi Wolff", "slug_title": "rabbi-wolff", "date": "2016-04-14", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQ3yqjm8iNbfRIAwmDoEFMKAM9z.jpg", "actors": ["William Wolff (Himself)"], "comments": [], "recommandations_id": []}

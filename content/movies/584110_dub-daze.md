@@ -1,0 +1,1 @@
+{"tmdb_id": 584110, "title": "Dub Daze", "original_title": "Dub Daze", "slug_title": "dub-daze", "date": "2019-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wea8AXzFLbDxLz9muggz8CoAxKO.jpg", "actors": [], "comments": [], "recommandations_id": []}

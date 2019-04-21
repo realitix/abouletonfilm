@@ -1,0 +1,1 @@
+{"tmdb_id": 594005, "title": "The Lower Plateau", "original_title": "The Lower Plateau", "slug_title": "the-lower-plateau", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FTjsSim62wd8H2aTdyMekXUHj4.jpg", "actors": [], "comments": [], "recommandations_id": []}

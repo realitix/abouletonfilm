@@ -1,0 +1,1 @@
+{"tmdb_id": 235154, "title": "Police Dogged", "original_title": "Police Dogged", "slug_title": "police-dogged", "date": "1956-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

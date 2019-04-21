@@ -1,0 +1,1 @@
+{"tmdb_id": 496781, "title": "Perfektion", "original_title": "Perfektion", "slug_title": "perfektion", "date": "2018-05-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acUXyC2KjNG2ozywYPT05BFNvPc.jpg", "actors": ["Cody McDowell (Leo)", "Trisha Marie Miller (Grace)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471441, "title": "When Emirs Die", "original_title": "\u041a\u043e\u0433\u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u044e\u0442 \u044d\u043c\u0438\u0440\u044b", "slug_title": "when-emirs-die", "date": "1932-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486489, "title": "Best Of E.O.F.T. No. 13", "original_title": "Best Of E.O.F.T. No. 13", "slug_title": "best-of-e-o-f-t-no-13", "date": "2017-05-11", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmzxIRDsKMUij7RpShpxnOUMUbY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271941, "title": "Glenafooka: Glen of the Ghost", "original_title": "Glenafooka: Glen of the Ghost", "slug_title": "glenafooka-glen-of-the-ghost", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyGYTd8R9mf1XsLc05nfUxskJUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

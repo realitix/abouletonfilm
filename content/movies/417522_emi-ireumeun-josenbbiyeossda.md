@@ -1,0 +1,1 @@
+{"tmdb_id": 417522, "title": "\uc5d0\ubbf8 \uc774\ub984\uc740 \uc870\uc13c\uc090\uc600\ub2e4", "original_title": "\uc5d0\ubbf8 \uc774\ub984\uc740 \uc870\uc13c\uc090\uc600\ub2e4", "slug_title": "emi-ireumeun-josenbbiyeossda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

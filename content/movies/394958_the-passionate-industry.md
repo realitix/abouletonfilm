@@ -1,0 +1,1 @@
+{"tmdb_id": 394958, "title": "The Passionate Industry", "original_title": "The Passionate Industry", "slug_title": "the-passionate-industry", "date": "1971-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

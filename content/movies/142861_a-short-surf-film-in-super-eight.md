@@ -1,0 +1,1 @@
+{"tmdb_id": 142861, "title": "A Short Surf Film in Super Eight", "original_title": "A Short Surf Film in Super Eight", "slug_title": "a-short-surf-film-in-super-eight", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

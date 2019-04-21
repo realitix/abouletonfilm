@@ -1,0 +1,1 @@
+{"tmdb_id": 143164, "title": "Janis Joplin - Live", "original_title": "Janis Joplin - Live", "slug_title": "janis-joplin-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpXfDHuMjacqF2P6FCPGThZm4l.jpg", "actors": ["Janis Joplin ()"], "comments": [], "recommandations_id": []}

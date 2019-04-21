@@ -1,0 +1,1 @@
+{"tmdb_id": 132355, "title": "Pirate Radio USA", "original_title": "Pirate Radio USA", "slug_title": "pirate-radio-usa", "date": "2006-07-31", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bB10Smqfk4ZU3KTyATDuhmKsYzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

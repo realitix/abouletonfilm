@@ -1,0 +1,1 @@
+{"tmdb_id": 467014, "title": "\uc6b0\ub2f4\ubc14\ub77c", "original_title": "\uc6b0\ub2f4\ubc14\ub77c", "slug_title": "udambara", "date": "1989-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UTtrUwa8N22XvuUjqFY7uIc7jH.jpg", "actors": [], "comments": [], "recommandations_id": []}

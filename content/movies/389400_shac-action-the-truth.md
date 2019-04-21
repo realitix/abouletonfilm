@@ -1,0 +1,1 @@
+{"tmdb_id": 389400, "title": "SHAC Action & The Truth", "original_title": "SHAC Action & The Truth", "slug_title": "shac-action-the-truth", "date": "2008-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQsT4GFyuab2X1Joo3FWlncyMA2.jpg", "actors": [], "comments": [], "recommandations_id": []}

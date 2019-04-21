@@ -1,0 +1,1 @@
+{"tmdb_id": 555369, "title": "The Horrors of War", "original_title": "L'apprentie", "slug_title": "the-horrors-of-war", "date": "1914-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

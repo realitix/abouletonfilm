@@ -1,0 +1,1 @@
+{"tmdb_id": 468468, "title": "The Art of Swordsmith", "original_title": "Nipponto Monogatari", "slug_title": "the-art-of-swordsmith", "date": "1957-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

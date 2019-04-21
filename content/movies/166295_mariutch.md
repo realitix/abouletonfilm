@@ -1,0 +1,1 @@
+{"tmdb_id": 166295, "title": "Mariutch", "original_title": "Mariutch", "slug_title": "mariutch", "date": "1930-11-14", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

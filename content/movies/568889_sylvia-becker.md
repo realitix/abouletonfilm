@@ -1,0 +1,1 @@
+{"tmdb_id": 568889, "title": "Sylvia Becker", "original_title": "Sylvia Becker", "slug_title": "sylvia-becker", "date": "1963-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sylvia Becker ()"], "comments": [], "recommandations_id": []}

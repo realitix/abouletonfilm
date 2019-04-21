@@ -1,0 +1,1 @@
+{"tmdb_id": 527603, "title": "The Action Records Story: Chased By Nuns", "original_title": "The Action Records Story: Chased By Nuns", "slug_title": "the-action-records-story-chased-by-nuns", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 348171, "title": "Fazendo a festa", "original_title": "Fazendo a festa", "slug_title": "fazendo-a-festa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

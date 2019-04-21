@@ -1,0 +1,1 @@
+{"tmdb_id": 346606, "title": "Manifestation", "original_title": "Manifestation", "slug_title": "manifestation", "date": "2016-09-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oh8bsa3lsnDE39dsB4kZTOfO0BL.jpg", "actors": ["Jessica Felice (Anna)", "John Wells (Bob)"], "comments": [], "recommandations_id": []}

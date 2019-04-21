@@ -1,0 +1,1 @@
+{"tmdb_id": 301624, "title": "Devara Kannu", "original_title": "Devara Kannu", "slug_title": "devara-kannu", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

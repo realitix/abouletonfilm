@@ -1,0 +1,1 @@
+{"tmdb_id": 486153, "title": "Ace of Light", "original_title": "Ace of Light", "slug_title": "ace-of-light", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2dn91jLzIRJcnHe4BODi1u1zbNP.jpg", "actors": [], "comments": [], "recommandations_id": []}

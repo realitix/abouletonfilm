@@ -1,0 +1,1 @@
+{"tmdb_id": 275415, "title": "Counter Balance: 208 Productions", "original_title": "Counter Balance: 208 Productions", "slug_title": "counter-balance-208-productions", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 145234, "title": "The Night Stalker", "original_title": "The Night Stalker", "slug_title": "the-night-stalker", "date": "2012-01-01", "genre": "Crime / Myst\u00e8re / Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

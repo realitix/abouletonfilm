@@ -1,0 +1,1 @@
+{"tmdb_id": 352966, "title": "The Internship Games", "original_title": "The Internship Games", "slug_title": "the-internship-games", "date": "2015-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHA1hJrUQHJeclZMiAjJAPTMj3J.jpg", "actors": [], "comments": [], "recommandations_id": []}

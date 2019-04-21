@@ -1,0 +1,1 @@
+{"tmdb_id": 396123, "title": "Burning Safari", "original_title": "Burning Safari", "slug_title": "burning-safari", "date": "2006-05-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBGooWChlAyhJC2VArTWzSGM3La.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386445, "title": "Yankee Doodle Goes to Town", "original_title": "Yankee Doodle Goes to Town", "slug_title": "yankee-doodle-goes-to-town", "date": "1939-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPpEY99QjevfKmSLlek2Z3MQiBD.jpg", "actors": [], "comments": [], "recommandations_id": []}

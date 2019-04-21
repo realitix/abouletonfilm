@@ -1,0 +1,1 @@
+{"tmdb_id": 561183, "title": "Le diamant", "original_title": "Le diamant", "slug_title": "le-diamant", "date": "1948-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

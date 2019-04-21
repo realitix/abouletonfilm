@@ -1,0 +1,1 @@
+{"tmdb_id": 549629, "title": "Golden Goals of the AFL", "original_title": "Golden Goals of the AFL", "slug_title": "golden-goals-of-the-afl", "date": "2002-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3z4uIlUDaen5knuB2VTiXCrhSD6.jpg", "actors": [], "comments": [], "recommandations_id": []}

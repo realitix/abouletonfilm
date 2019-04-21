@@ -1,0 +1,1 @@
+{"tmdb_id": 528148, "title": "petit ours", "original_title": "petit ours", "slug_title": "petit-ours", "date": "1995-06-05", "genre": "Animation", "score": "0.0/10", "synopsis": "D\u2019apr\u00e8s le chef-d'oeuvre de Maurice Sendak", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pN8bhXPimnEYi1awX5Y1d0Ywunv.jpg", "actors": [], "comments": [], "recommandations_id": []}

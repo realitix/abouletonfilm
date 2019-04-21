@@ -1,0 +1,1 @@
+{"tmdb_id": 471836, "title": "Path of Cessation", "original_title": "Path of Cessation", "slug_title": "path-of-cessation", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diFXYBG1yCSxFk6KfXhrXBy3fIY.jpg", "actors": [], "comments": [], "recommandations_id": []}

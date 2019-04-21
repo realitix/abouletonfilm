@@ -1,0 +1,1 @@
+{"tmdb_id": 103993, "title": "Giddyap", "original_title": "Giddyap", "slug_title": "giddyap", "date": "1950-07-27", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

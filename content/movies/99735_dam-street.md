@@ -1,0 +1,1 @@
+{"tmdb_id": 99735, "title": "Dam Street", "original_title": "Hong Yan", "slug_title": "dam-street", "date": "2005-09-13", "genre": "Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3fRzXlJ66NBoUPAHiKIm2NfXcA.jpg", "actors": ["Li Kechun ()"], "comments": [], "recommandations_id": []}

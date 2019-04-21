@@ -1,0 +1,1 @@
+{"tmdb_id": 247983, "title": "The African Dodger", "original_title": "The African Dodger", "slug_title": "the-african-dodger", "date": "1931-05-04", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Howard ()", "Joe Lyon ()", "Edward Gargan ()"], "comments": [], "recommandations_id": []}

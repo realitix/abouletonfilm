@@ -1,0 +1,1 @@
+{"tmdb_id": 564868, "title": "My Husband, His Mistress and I", "original_title": "La rivale", "slug_title": "my-husband-his-mistress-and-i", "date": "1974-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybnm5dsdUkVbqaDPiQrLDSF3AXN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 456222, "title": "Strange Bird", "original_title": "Strange Bird", "slug_title": "strange-bird", "date": "2017-04-23", "genre": "Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w90nNqWMazNp2Pwku4O3XHS712i.jpg", "actors": ["Preslee Bishop (Carrie Sane)"], "comments": [], "recommandations_id": []}

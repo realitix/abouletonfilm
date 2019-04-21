@@ -1,0 +1,1 @@
+{"tmdb_id": 393903, "title": "Bush: [1996] New York, NY", "original_title": "Bush: [1996] New York, NY", "slug_title": "bush-1996-new-york-ny", "date": "1996-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGNZ6Tsan3HproWEE03TmmIz80o.jpg", "actors": [], "comments": [], "recommandations_id": []}

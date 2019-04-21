@@ -1,0 +1,1 @@
+{"tmdb_id": 299971, "title": "The Blueprint for a Perfect Church", "original_title": "The Blueprint for a Perfect Church", "slug_title": "the-blueprint-for-a-perfect-church", "date": "2013-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

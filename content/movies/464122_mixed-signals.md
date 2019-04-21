@@ -1,0 +1,1 @@
+{"tmdb_id": 464122, "title": "Mixed Signals", "original_title": "Mixed Signals", "slug_title": "mixed-signals", "date": "1997-09-19", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Rp49m6Zm5lfUHRkpJI8Q3wVrHh.jpg", "actors": ["Jason London (Alex)", "Brooke Langton (Judy)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304445, "title": "Rock Rods 4", "original_title": "Rock Rods 4", "slug_title": "rock-rods-4", "date": "2014-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 247114, "title": "Clouds of Glass", "original_title": "Sklen\u011bn\u00e1 oblaka", "slug_title": "clouds-of-glass", "date": "1957-03-02", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOohjhvxPmDUrKvylKUbAMKJASi.jpg", "actors": ["Anton\u00edn Z\u00edb ()"], "comments": [], "recommandations_id": []}

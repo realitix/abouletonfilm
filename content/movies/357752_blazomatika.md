@@ -1,0 +1,1 @@
+{"tmdb_id": 357752, "title": "Blazomatika", "original_title": "Blazomatika", "slug_title": "blazomatika", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mluIrXjKsm1K5z5wtVn4mZTqJUJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

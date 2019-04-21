@@ -1,0 +1,1 @@
+{"tmdb_id": 578432, "title": "Birbal trilogy", "original_title": "Birbal trilogy", "slug_title": "birbal-trilogy", "date": "2019-01-18", "genre": "Thriller / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M.G. Srinivas (Mahesh Das)", "Rukmini Vasanth ()"], "comments": [], "recommandations_id": []}

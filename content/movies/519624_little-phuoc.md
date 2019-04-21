@@ -1,0 +1,1 @@
+{"tmdb_id": 519624, "title": "Little Phuoc", "original_title": "Em Ph\u01b0\u1edbc", "slug_title": "little-phuoc", "date": "1966-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCQpNifM9UnERo9fo0tk4b8t4Om.jpg", "actors": [], "comments": [], "recommandations_id": []}

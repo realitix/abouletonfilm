@@ -1,0 +1,1 @@
+{"tmdb_id": 518208, "title": "The Ghost of Bellamy Bridge", "original_title": "The Ghost of Bellamy Bridge", "slug_title": "the-ghost-of-bellamy-bridge", "date": "2015-10-29", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dale Cox (Himself)"], "comments": [], "recommandations_id": []}

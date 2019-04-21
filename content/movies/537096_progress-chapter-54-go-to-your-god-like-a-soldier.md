@@ -1,0 +1,1 @@
+{"tmdb_id": 537096, "title": "PROGRESS Chapter 54: Go To Your God Like A Soldier", "original_title": "PROGRESS Chapter 54: Go To Your God Like A Soldier", "slug_title": "progress-chapter-54-go-to-your-god-like-a-soldier", "date": "2017-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

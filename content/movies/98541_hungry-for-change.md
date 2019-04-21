@@ -1,0 +1,1 @@
+{"tmdb_id": 98541, "title": "Hungry for Change", "original_title": "Hungry for Change", "slug_title": "hungry-for-change", "date": "2012-01-01", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oe4eRlrGldunubcU5cwufWPegG7.jpg", "actors": [], "comments": [], "recommandations_id": [302818, 394689, 91930, 396126]}

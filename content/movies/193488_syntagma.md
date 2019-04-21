@@ -1,0 +1,1 @@
+{"tmdb_id": 193488, "title": "Syntagma", "original_title": "Syntagma", "slug_title": "syntagma", "date": "1983-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPBxat1YYeOT69oeeQzCDozbUZb.jpg", "actors": ["Irmilin Hofer ()"], "comments": [], "recommandations_id": []}

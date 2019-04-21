@@ -1,0 +1,1 @@
+{"tmdb_id": 444854, "title": "Cartoon Craze Presents: Bugs Bunny: Falling Hare", "original_title": "Cartoon Craze Presents: Bugs Bunny: Falling Hare", "slug_title": "cartoon-craze-presents-bugs-bunny-falling-hare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

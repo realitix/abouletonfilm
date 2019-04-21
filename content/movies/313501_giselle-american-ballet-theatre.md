@@ -1,0 +1,1 @@
+{"tmdb_id": 313501, "title": "Giselle (American Ballet Theatre)", "original_title": "Giselle (American Ballet Theatre)", "slug_title": "giselle-american-ballet-theatre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

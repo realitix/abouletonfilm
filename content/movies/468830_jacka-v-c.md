@@ -1,0 +1,1 @@
+{"tmdb_id": 468830, "title": "Jacka V.C.", "original_title": "Jacka V.C.", "slug_title": "jacka-v-c", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mE44nlKrjQlVuhXSKhbSOsIAB0N.jpg", "actors": [], "comments": [], "recommandations_id": []}

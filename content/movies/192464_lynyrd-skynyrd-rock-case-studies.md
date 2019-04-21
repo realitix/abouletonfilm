@@ -1,0 +1,1 @@
+{"tmdb_id": 192464, "title": "Lynyrd Skynyrd - Rock Case Studies", "original_title": "Lynyrd Skynyrd - Rock Case Studies", "slug_title": "lynyrd-skynyrd-rock-case-studies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wb2fnTgfrR3P0egtXyoia5I4Up1.jpg", "actors": [], "comments": [], "recommandations_id": []}

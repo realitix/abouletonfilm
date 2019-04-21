@@ -1,0 +1,1 @@
+{"tmdb_id": 530841, "title": "Other Voices: Creating 'The Terminator'", "original_title": "Other Voices: Creating 'The Terminator'", "slug_title": "other-voices-creating-the-terminator", "date": "2001-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

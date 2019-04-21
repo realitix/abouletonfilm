@@ -1,0 +1,1 @@
+{"tmdb_id": 253790, "title": "Picasso", "original_title": "Picasso", "slug_title": "picasso", "date": "1985-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aG9nj7YJXqkh0rWhCA1KBfdEHDm.jpg", "actors": ["F\u00e9odor Atkine (Narrator)"], "comments": [], "recommandations_id": []}

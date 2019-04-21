@@ -1,0 +1,1 @@
+{"tmdb_id": 521334, "title": "A Film About Poo", "original_title": "A Film About Poo", "slug_title": "a-film-about-poo", "date": "2009-10-13", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDGlXR0vGLqlNkPx7iC9nBU8WHk.jpg", "actors": [], "comments": [], "recommandations_id": []}

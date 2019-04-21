@@ -1,0 +1,1 @@
+{"tmdb_id": 520139, "title": "The Legendary Pink Dots \u200e\u2013 Live At La Luna", "original_title": "The Legendary Pink Dots \u200e\u2013 Live At La Luna", "slug_title": "the-legendary-pink-dots-live-at-la-luna", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

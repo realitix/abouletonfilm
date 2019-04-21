@@ -1,0 +1,1 @@
+{"tmdb_id": 348705, "title": "O Espectador", "original_title": "O Espectador", "slug_title": "o-espectador", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

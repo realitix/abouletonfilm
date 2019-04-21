@@ -1,0 +1,1 @@
+{"tmdb_id": 214113, "title": "A Place Called Lovely", "original_title": "A Place Called Lovely", "slug_title": "a-place-called-lovely", "date": "1991-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yEJ4gyKrhBd0kWKoFrbPn7RdLSb.jpg", "actors": ["Sadie Benning ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425394, "title": "Exclaim Her Limitless Wisdom", "original_title": "Exclaim Her Limitless Wisdom", "slug_title": "exclaim-her-limitless-wisdom", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NuBZFN0UQEbcmPxhEjYSzukjIU.jpg", "actors": [], "comments": [], "recommandations_id": []}

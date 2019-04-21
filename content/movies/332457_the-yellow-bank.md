@@ -1,0 +1,1 @@
+{"tmdb_id": 332457, "title": "The Yellow Bank", "original_title": "The Yellow Bank", "slug_title": "the-yellow-bank", "date": "2010-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iOuxfobVpAXVsHFu4l9rZKXRCQr.jpg", "actors": ["J.P. Sniadecki (Director)"], "comments": [], "recommandations_id": []}

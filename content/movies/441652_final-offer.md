@@ -1,0 +1,1 @@
+{"tmdb_id": 441652, "title": "Final Offer", "original_title": "Final Offer", "slug_title": "final-offer", "date": "1985-11-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2M1hqpQ3FOvER5220xvrvxjfwWW.jpg", "actors": [], "comments": [], "recommandations_id": []}

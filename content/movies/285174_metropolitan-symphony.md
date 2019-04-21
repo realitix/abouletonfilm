@@ -1,0 +1,1 @@
+{"tmdb_id": 285174, "title": "Metropolitan Symphony", "original_title": "Tokai kokyogaku", "slug_title": "metropolitan-symphony", "date": "1929-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isamu Kosugi ()", "Eiji Takagi ()", "Kaichi Yamamoto ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337508, "title": "The Medicine Game", "original_title": "The Medicine Game", "slug_title": "the-medicine-game", "date": "2014-03-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDAmVHpac9TsbL41dAtccbI9qDe.jpg", "actors": [], "comments": [], "recommandations_id": []}

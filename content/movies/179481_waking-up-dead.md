@@ -1,0 +1,1 @@
+{"tmdb_id": 179481, "title": "Waking Up Dead", "original_title": "Waking Up Dead", "slug_title": "waking-up-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1PD2slbg1UGNTaK81lJuOFWyix.jpg", "actors": [], "comments": [], "recommandations_id": []}

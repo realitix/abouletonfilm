@@ -1,0 +1,1 @@
+{"tmdb_id": 561802, "title": "Si le roi savait \u00e7a", "original_title": "Si le roi savait \u00e7a", "slug_title": "si-le-roi-savait-ca", "date": "1958-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dHPvWNIKn8HlikAV1CvwzFa9h9J.jpg", "actors": [], "comments": [], "recommandations_id": []}

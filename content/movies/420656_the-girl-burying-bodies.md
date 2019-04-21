@@ -1,0 +1,1 @@
+{"tmdb_id": 420656, "title": "The Girl Burying Bodies", "original_title": "\uc2dc\uccb4\uc90d\ub294 \uc18c\ub144", "slug_title": "the-girl-burying-bodies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odmBjBiZzyrk0HjIQJ77lLgipNy.jpg", "actors": [], "comments": [], "recommandations_id": []}

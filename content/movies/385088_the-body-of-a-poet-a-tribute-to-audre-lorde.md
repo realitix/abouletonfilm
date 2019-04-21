@@ -1,0 +1,1 @@
+{"tmdb_id": 385088, "title": "The Body of a Poet: A Tribute to Audre Lorde", "original_title": "The Body of a Poet: A Tribute to Audre Lorde", "slug_title": "the-body-of-a-poet-a-tribute-to-audre-lorde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

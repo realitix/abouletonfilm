@@ -1,0 +1,1 @@
+{"tmdb_id": 456212, "title": "Poison the Cure", "original_title": "Poison the Cure", "slug_title": "poison-the-cure", "date": "2017-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

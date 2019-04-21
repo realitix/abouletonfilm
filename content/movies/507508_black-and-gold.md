@@ -1,0 +1,1 @@
+{"tmdb_id": 507508, "title": "Black and Gold", "original_title": "Black and Gold", "slug_title": "black-and-gold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

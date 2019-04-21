@@ -1,0 +1,1 @@
+{"tmdb_id": 179365, "title": "Plagued", "original_title": "Plagued", "slug_title": "plagued", "date": "2009-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

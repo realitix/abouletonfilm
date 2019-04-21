@@ -1,0 +1,1 @@
+{"tmdb_id": 429758, "title": "Barmbek: Der Aufstand wird abgebrochen", "original_title": "Barmbek: Der Aufstand wird abgebrochen", "slug_title": "barmbek-der-aufstand-wird-abgebrochen", "date": "1989-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

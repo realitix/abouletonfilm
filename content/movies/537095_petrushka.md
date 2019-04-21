@@ -1,0 +1,1 @@
+{"tmdb_id": 537095, "title": "Petrushka", "original_title": "Petrushka", "slug_title": "petrushka", "date": "2003-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rDVukBs0ks4CtFtvNbKjTCjSXEq.jpg", "actors": ["Nina Ananiashvili ()", "Andris Liepa ()"], "comments": [], "recommandations_id": []}

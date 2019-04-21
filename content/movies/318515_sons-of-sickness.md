@@ -1,0 +1,1 @@
+{"tmdb_id": 318515, "title": "Sons of Sickness", "original_title": "Sons of Sickness", "slug_title": "sons-of-sickness", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

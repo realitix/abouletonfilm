@@ -1,0 +1,1 @@
+{"tmdb_id": 174950, "title": "The Lost Battalion", "original_title": "The Lost Battalion", "slug_title": "the-lost-battalion", "date": "1919-07-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

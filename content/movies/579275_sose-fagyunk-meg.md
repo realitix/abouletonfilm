@@ -1,0 +1,1 @@
+{"tmdb_id": 579275, "title": "Sose fagyunk meg", "original_title": "Sose fagyunk meg", "slug_title": "sose-fagyunk-meg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["S\u00e1ndor Suka ()", "Gyula Szombathy ()", "Ila Sch\u00fctz ()", "Ervin Kib\u00e9di ()"], "comments": [], "recommandations_id": []}

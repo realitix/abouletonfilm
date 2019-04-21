@@ -1,0 +1,1 @@
+{"tmdb_id": 459829, "title": "Michael Jackson: The Ultimate Icon", "original_title": "Michael Jackson: The Ultimate Icon", "slug_title": "michael-jackson-the-ultimate-icon", "date": "2017-05-29", "genre": "Documentaire / Musique / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

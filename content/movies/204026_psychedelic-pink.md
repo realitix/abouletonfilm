@@ -1,0 +1,1 @@
+{"tmdb_id": 204026, "title": "Psychedelic Pink", "original_title": "Psychedelic Pink", "slug_title": "psychedelic-pink", "date": "1968-03-13", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3vv4jbLOdVR0uD5MZhilanO7f6V.jpg", "actors": [], "comments": [], "recommandations_id": []}

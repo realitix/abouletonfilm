@@ -1,0 +1,1 @@
+{"tmdb_id": 284549, "title": "Taking Shelter", "original_title": "Taking Shelter", "slug_title": "taking-shelter", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqOW4qmPj7C4AcFKVjkisnV4Avl.jpg", "actors": [], "comments": [], "recommandations_id": []}

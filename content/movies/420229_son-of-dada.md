@@ -1,0 +1,1 @@
+{"tmdb_id": 420229, "title": "Son of Dada", "original_title": "Son of Dada", "slug_title": "son-of-dada", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

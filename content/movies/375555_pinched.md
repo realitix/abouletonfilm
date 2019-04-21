@@ -1,0 +1,1 @@
+{"tmdb_id": 375555, "title": "Pinched", "original_title": "Pinched", "slug_title": "pinched", "date": "1917-09-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Lloyd ()", "'Snub' Pollard ()", "Bebe Daniels ()", "William Blaisdell ()", "Sammy Brooks ()"], "comments": [], "recommandations_id": []}

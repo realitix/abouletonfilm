@@ -1,0 +1,1 @@
+{"tmdb_id": 514165, "title": "Revenge of the Pizza King", "original_title": "Revenge of the Pizza King", "slug_title": "revenge-of-the-pizza-king", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394586, "title": "Dirty Baby Does Fire Island", "original_title": "Dirty Baby Does Fire Island", "slug_title": "dirty-baby-does-fire-island", "date": "1998-06-11", "genre": "Animation / Com\u00e9die", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

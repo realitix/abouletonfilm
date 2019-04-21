@@ -1,0 +1,1 @@
+{"tmdb_id": 422030, "title": "Nuestra olimpiada en La Habana", "original_title": "Nuestra olimpiada en La Habana", "slug_title": "nuestra-olimpiada-en-la-habana", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

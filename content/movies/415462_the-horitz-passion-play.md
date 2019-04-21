@@ -1,0 +1,1 @@
+{"tmdb_id": 415462, "title": "The Horitz Passion Play", "original_title": "The Horitz Passion Play", "slug_title": "the-horitz-passion-play", "date": "1897-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

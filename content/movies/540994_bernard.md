@@ -1,0 +1,1 @@
+{"tmdb_id": 540994, "title": "Bernard", "original_title": "Bernard", "slug_title": "bernard", "date": "2014-03-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFEOBkLYkCXx2YvsGKugLzXKYyG.jpg", "actors": ["Thomas Wander (Bernard van de Wiele)"], "comments": [], "recommandations_id": []}

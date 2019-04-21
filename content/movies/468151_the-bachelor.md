@@ -1,0 +1,1 @@
+{"tmdb_id": 468151, "title": "The Bachelor", "original_title": "O ergenis", "slug_title": "the-bachelor", "date": "1997-01-01", "genre": "Romance / Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irx4quZPJhhcbjSMDlddn2QoPX8.jpg", "actors": [], "comments": [], "recommandations_id": []}

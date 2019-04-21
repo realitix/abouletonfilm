@@ -1,0 +1,1 @@
+{"tmdb_id": 297367, "title": "Titanes en el Ring Contraataca", "original_title": "Titanes en el Ring Contraataca", "slug_title": "titanes-en-el-ring-contraataca", "date": "1984-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

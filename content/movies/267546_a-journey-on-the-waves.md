@@ -1,0 +1,1 @@
+{"tmdb_id": 267546, "title": "A Journey on the Waves", "original_title": "A Journey on the Waves", "slug_title": "a-journey-on-the-waves", "date": "2015-06-05", "genre": "Aventure / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

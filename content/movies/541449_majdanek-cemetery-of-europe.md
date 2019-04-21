@@ -1,0 +1,1 @@
+{"tmdb_id": 541449, "title": "Majdanek - Cemetery of Europe", "original_title": "Majdanek - cmentarzysko Europy", "slug_title": "majdanek-cemetery-of-europe", "date": "1945-06-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

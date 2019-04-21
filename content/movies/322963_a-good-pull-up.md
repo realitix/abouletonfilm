@@ -1,0 +1,1 @@
+{"tmdb_id": 322963, "title": "A Good Pull-Up", "original_title": "A Good Pull-Up", "slug_title": "a-good-pull-up", "date": "1953-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Butterworth ()", "John Levitt ()", "Humphrey Kent ()", "Kurt Wagener ()"], "comments": [], "recommandations_id": []}

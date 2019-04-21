@@ -1,0 +1,1 @@
+{"tmdb_id": 237346, "title": "Hula Hula Land", "original_title": "Hula Hula Land", "slug_title": "hula-hula-land", "date": "1949-06-21", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kUP8Cv5mb95EjoChHf90sBGHrnR.jpg", "actors": [], "comments": [], "recommandations_id": []}

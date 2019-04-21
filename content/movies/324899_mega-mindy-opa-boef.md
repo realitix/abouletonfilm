@@ -1,0 +1,1 @@
+{"tmdb_id": 324899, "title": "Mega Mindy - Opa Boef", "original_title": "Mega Mindy - Opa Boef", "slug_title": "mega-mindy-opa-boef", "date": "2010-03-24", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUNn1VhfWAu3ZVYwgfdUbX47FgP.jpg", "actors": [], "comments": [], "recommandations_id": []}

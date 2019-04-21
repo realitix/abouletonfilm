@@ -1,0 +1,1 @@
+{"tmdb_id": 542227, "title": "They Hear It", "original_title": "They Hear It", "slug_title": "they-hear-it", "date": "2018-06-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bm3waqhtCMZLAeafdTcNkQVndFD.jpg", "actors": ["Brey Chanadet (Jack)", "Aria Walters (Annie)"], "comments": [], "recommandations_id": []}

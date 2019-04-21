@@ -1,0 +1,1 @@
+{"tmdb_id": 532310, "title": "Sem Drogas - A Jornada De Um Fisiculturista Natural", "original_title": "Sem Drogas - A Jornada De Um Fisiculturista Natural", "slug_title": "sem-drogas-a-jornada-de-um-fisiculturista-natural", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

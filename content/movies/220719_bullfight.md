@@ -1,0 +1,1 @@
+{"tmdb_id": 220719, "title": "Bullfight", "original_title": "Bullfight", "slug_title": "bullfight", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cLMmaW6PifZa45pSxUgOi78CswR.jpg", "actors": [], "comments": [], "recommandations_id": []}

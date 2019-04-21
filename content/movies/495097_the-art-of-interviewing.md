@@ -1,0 +1,1 @@
+{"tmdb_id": 495097, "title": "The Art of Interviewing", "original_title": "The Art of Interviewing", "slug_title": "the-art-of-interviewing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Warwick (Alan Greenwood)", "Paul Clarkson (Evans)"], "comments": [], "recommandations_id": []}

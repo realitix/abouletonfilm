@@ -1,0 +1,1 @@
+{"tmdb_id": 159012, "title": "Narco Cultura", "original_title": "Narco Cultura", "slug_title": "narco-cultura", "date": "2013-11-22", "genre": "Crime / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jEnzEThFH7hdh2l88IdkPz62NOq.jpg", "actors": [], "comments": [], "recommandations_id": [221418, 285869, 131220, 44412]}

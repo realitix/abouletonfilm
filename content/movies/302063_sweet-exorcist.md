@@ -1,0 +1,1 @@
+{"tmdb_id": 302063, "title": "Sweet Exorcist", "original_title": "Lamento da Vida Jovem", "slug_title": "sweet-exorcist", "date": "2012-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yurxEgiT3uKJ4cPmfippZkAjwBM.jpg", "actors": ["Ventura (Ventura)"], "comments": [], "recommandations_id": []}

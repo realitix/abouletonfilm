@@ -1,0 +1,1 @@
+{"tmdb_id": 157717, "title": "Pericolo Negli Abissi", "original_title": "Pericolo Negli Abissi", "slug_title": "pericolo-negli-abissi", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2JR8IgtqHX4f0t6iGngoEgKrrF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562191, "title": "El casco blanco", "original_title": "El casco blanco", "slug_title": "el-casco-blanco", "date": "1959-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8aT9ukwNUGpU8xWD1Xwxtu6Ge7H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509637, "title": "Masters Of The Mind", "original_title": "Masters Of The Mind", "slug_title": "masters-of-the-mind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

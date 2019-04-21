@@ -1,0 +1,1 @@
+{"tmdb_id": 106704, "title": "Aloha, the Little Vampire", "original_title": "Ling huan qi xiao bao", "slug_title": "aloha-the-little-vampire", "date": "1987-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fR5ffPHVjn9iF2mErE9f5zKYEk8.jpg", "actors": [], "comments": [], "recommandations_id": []}

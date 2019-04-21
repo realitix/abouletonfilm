@@ -1,0 +1,1 @@
+{"tmdb_id": 565198, "title": "Arany\u00f3ra", "original_title": "Arany\u00f3ra", "slug_title": "aranyora", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gyula G\u00f3zon ()", "\u00c9va Sz\u00f6r\u00e9nyi ()", "Zolt\u00e1n V\u00e1rkonyi ()", "Tivadar Bilicsi ()"], "comments": [], "recommandations_id": []}

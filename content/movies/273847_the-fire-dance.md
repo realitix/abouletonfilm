@@ -1,0 +1,1 @@
+{"tmdb_id": 273847, "title": "The Fire Dance", "original_title": "H'Biba M'Sika", "slug_title": "the-fire-dance", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Souad Amidou ()", "Raouf Ben Amor ()", "F\u00e9odor Atkine ()", "N\u00e9jib Belkadhi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387195, "title": "Urameshi Denwa", "original_title": "Urameshi Denwa", "slug_title": "urameshi-denwa", "date": "1975-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xaCCOfYcEvIQFggULgubrx2BKT3.jpg", "actors": [], "comments": [], "recommandations_id": []}

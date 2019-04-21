@@ -1,0 +1,1 @@
+{"tmdb_id": 309434, "title": "Psychotic Connections", "original_title": "Psychotic Connections", "slug_title": "psychotic-connections", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

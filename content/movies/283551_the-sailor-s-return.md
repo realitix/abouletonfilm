@@ -1,0 +1,1 @@
+{"tmdb_id": 283551, "title": "The Sailor's Return", "original_title": "The Sailor's Return", "slug_title": "the-sailor-s-return", "date": "1978-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shope Shodeinde ()", "Tom Bell ()"], "comments": [], "recommandations_id": []}

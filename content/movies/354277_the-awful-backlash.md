@@ -1,0 +1,1 @@
+{"tmdb_id": 354277, "title": "The Awful Backlash", "original_title": "The Awful Backlash", "slug_title": "the-awful-backlash", "date": "1967-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aegGn8pEoUM5lSYcwUmaZgXmWJd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593023, "title": "Bad Haggis with Ruben Blades", "original_title": "Bad Haggis with Ruben Blades", "slug_title": "bad-haggis-with-ruben-blades", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

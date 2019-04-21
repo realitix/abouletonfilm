@@ -1,0 +1,1 @@
+{"tmdb_id": 442156, "title": "My Room Mate from Hell", "original_title": "My Room Mate from Hell", "slug_title": "my-room-mate-from-hell", "date": "2017-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott Rivers (Simon James)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 354137, "title": "Benefit for the Living Dead", "original_title": "Benefit for the Living Dead", "slug_title": "benefit-for-the-living-dead", "date": "2005-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGYkCoGwU33nr2PU8sR9JWDyQUo.jpg", "actors": [], "comments": [], "recommandations_id": []}

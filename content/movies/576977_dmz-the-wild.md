@@ -1,0 +1,1 @@
+{"tmdb_id": 576977, "title": "DMZ, The Wild", "original_title": "DMZ, \ub354 \uc640\uc77c\ub4dc", "slug_title": "dmz-the-wild", "date": "2017-04-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfy9tlNCrKf1LmZ9wjnv3Rik7iv.jpg", "actors": ["Lee Min-ho (Narrator)"], "comments": [], "recommandations_id": []}

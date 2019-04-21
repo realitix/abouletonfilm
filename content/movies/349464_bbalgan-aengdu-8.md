@@ -1,0 +1,1 @@
+{"tmdb_id": 349464, "title": "\ube68\uac04 \uc575\ub450 8", "original_title": "\ube68\uac04 \uc575\ub450 8", "slug_title": "bbalgan-aengdu-8", "date": "1994-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

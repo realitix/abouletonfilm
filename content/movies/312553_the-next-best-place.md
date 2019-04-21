@@ -1,0 +1,1 @@
+{"tmdb_id": 312553, "title": "The Next Best Place", "original_title": "The Next Best Place", "slug_title": "the-next-best-place", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

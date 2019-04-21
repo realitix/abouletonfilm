@@ -1,0 +1,1 @@
+{"tmdb_id": 313001, "title": "Abbandono", "original_title": "Abbandono", "slug_title": "abbandono", "date": "1970-12-08", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8fuKIQglO8WwkOdrnesXVa1IGYl.jpg", "actors": ["Dore O. ()"], "comments": [], "recommandations_id": []}

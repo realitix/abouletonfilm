@@ -1,0 +1,1 @@
+{"tmdb_id": 537513, "title": "Smell the Flowers", "original_title": "Smell the Flowers", "slug_title": "smell-the-flowers", "date": "1996-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

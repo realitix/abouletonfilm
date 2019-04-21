@@ -1,0 +1,1 @@
+{"tmdb_id": 38072, "title": "Divinyls Live", "original_title": "Divinyls Live", "slug_title": "divinyls-live", "date": "1993-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/somodFnMsXdfcd5JosC6FvAKs6j.jpg", "actors": ["Chrissie Amphlett ()"], "comments": [], "recommandations_id": []}

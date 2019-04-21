@@ -1,0 +1,1 @@
+{"tmdb_id": 54079, "title": "Cock o' the Walk", "original_title": "Cock o' the Walk", "slug_title": "cock-o-the-walk", "date": "1935-11-30", "genre": "Animation", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1GiBnk8iaGXl8go1wpNKM2dKXn.jpg", "actors": [], "comments": [], "recommandations_id": [66822, 93718, 57222, 66826]}

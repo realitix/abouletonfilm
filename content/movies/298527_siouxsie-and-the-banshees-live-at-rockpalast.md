@@ -1,0 +1,1 @@
+{"tmdb_id": 298527, "title": "Siouxsie and the Banshees: Live at Rockpalast", "original_title": "Siouxsie and the Banshees: Live at Rockpalast", "slug_title": "siouxsie-and-the-banshees-live-at-rockpalast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548634, "title": "Let the Bell Ring", "original_title": "Let the Bell Ring", "slug_title": "let-the-bell-ring", "date": "2018-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

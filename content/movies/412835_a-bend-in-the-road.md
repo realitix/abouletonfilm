@@ -1,0 +1,1 @@
+{"tmdb_id": 412835, "title": "A Bend in the Road", "original_title": "A Bend in the Road", "slug_title": "a-bend-in-the-road", "date": "2012-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fffyeFdcoLwIY9SSSihy6W90g8W.jpg", "actors": [], "comments": [], "recommandations_id": []}

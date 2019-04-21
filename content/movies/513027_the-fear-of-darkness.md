@@ -1,0 +1,1 @@
+{"tmdb_id": 513027, "title": "The Fear of Darkness", "original_title": "The Fear of Darkness", "slug_title": "the-fear-of-darkness", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BHcRWYLndZ5SSGSO25kMmM0vv7.jpg", "actors": ["Lj Ugarte (Hershel)"], "comments": [], "recommandations_id": []}

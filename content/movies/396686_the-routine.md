@@ -1,0 +1,1 @@
+{"tmdb_id": 396686, "title": "The Routine", "original_title": "The Routine", "slug_title": "the-routine", "date": "2014-04-12", "genre": "Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btC1BRSapwVrs7sCJrkFYWVJlKc.jpg", "actors": [], "comments": [], "recommandations_id": []}

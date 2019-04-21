@@ -1,0 +1,1 @@
+{"tmdb_id": 558772, "title": "Die Legende vom Potsdamer Platz", "original_title": "Die Legende vom Potsdamer Platz", "slug_title": "die-legende-vom-potsdamer-platz", "date": "2001-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

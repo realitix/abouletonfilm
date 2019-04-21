@@ -1,0 +1,1 @@
+{"tmdb_id": 394124, "title": "Lord of the Bush", "original_title": "Lord of the Bush", "slug_title": "lord-of-the-bush", "date": "1990-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJQoZrjQR3PwJXU8QwA17WK1Uk5.jpg", "actors": [], "comments": [], "recommandations_id": []}

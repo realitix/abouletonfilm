@@ -1,0 +1,1 @@
+{"tmdb_id": 243813, "title": "Pestilent City", "original_title": "Pestilent City", "slug_title": "pestilent-city", "date": "1965-10-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uO4CCXbiYIAX8a2Ip7sVGEv0lO5.jpg", "actors": [], "comments": [], "recommandations_id": []}

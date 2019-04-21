@@ -1,0 +1,1 @@
+{"tmdb_id": 507692, "title": "Efter attentaten", "original_title": "Efter attentaten", "slug_title": "efter-attentaten", "date": "2016-11-08", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

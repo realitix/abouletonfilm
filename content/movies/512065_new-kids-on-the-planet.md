@@ -1,0 +1,1 @@
+{"tmdb_id": 512065, "title": "New Kids on the Planet", "original_title": "New Kids on the Planet", "slug_title": "new-kids-on-the-planet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

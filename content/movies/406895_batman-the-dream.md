@@ -1,0 +1,1 @@
+{"tmdb_id": 406895, "title": "Batman: The Dream", "original_title": "Batman: The Dream", "slug_title": "batman-the-dream", "date": "2016-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUm0wKC81iVnEKh4hIxlHBtUPxW.jpg", "actors": [], "comments": [], "recommandations_id": []}

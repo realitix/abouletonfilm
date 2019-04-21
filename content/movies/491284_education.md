@@ -1,0 +1,1 @@
+{"tmdb_id": 491284, "title": "Education", "original_title": "Nauka", "slug_title": "education", "date": "2016-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3XRRWQCEXlydXruXyKPE6B3rJd1.jpg", "actors": [], "comments": [], "recommandations_id": []}

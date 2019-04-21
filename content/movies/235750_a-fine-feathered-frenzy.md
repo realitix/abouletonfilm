@@ -1,0 +1,1 @@
+{"tmdb_id": 235750, "title": "A Fine Feathered Frenzy", "original_title": "A Fine Feathered Frenzy", "slug_title": "a-fine-feathered-frenzy", "date": "1954-10-24", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dP8NiYQbaQ6oBOuWyfcyhdOCyRG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 399145, "title": "Mouvement in the Inside of My Left Hand", "original_title": "Mouvement in the Inside of My Left Hand", "slug_title": "mouvement-in-the-inside-of-my-left-hand", "date": "1978-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

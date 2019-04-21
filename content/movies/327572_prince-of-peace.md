@@ -1,0 +1,1 @@
+{"tmdb_id": 327572, "title": "Prince of Peace", "original_title": "Prince of Peace", "slug_title": "prince-of-peace", "date": "1993-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/me3UB95jF1yqO58RPVfZhARtZlI.jpg", "actors": [], "comments": [], "recommandations_id": []}

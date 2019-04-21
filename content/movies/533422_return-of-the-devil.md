@@ -1,0 +1,1 @@
+{"tmdb_id": 533422, "title": "Return of the Devil", "original_title": "Return of the Devil", "slug_title": "return-of-the-devil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 399448, "title": "VJWorld Visuals \"Revolutions\"", "original_title": "VJWorld Visuals \"Revolutions\"", "slug_title": "vjworld-visuals-revolutions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omp8pzX6Oq2a8DilIfYueAU0nwx.jpg", "actors": [], "comments": [], "recommandations_id": []}

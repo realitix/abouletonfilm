@@ -1,0 +1,1 @@
+{"tmdb_id": 433195, "title": "Vatten, tro, champagne", "original_title": "Vatten, tro, champagne", "slug_title": "vatten-tro-champagne", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

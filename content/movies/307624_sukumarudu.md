@@ -1,0 +1,1 @@
+{"tmdb_id": 307624, "title": "Sukumarudu", "original_title": "Sukumarudu", "slug_title": "sukumarudu", "date": "2013-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4x0pb2e7q5fwXCmKvCTBKQZDLtx.jpg", "actors": ["Aadi (hero)", "Nisha Agarwal ()"], "comments": [], "recommandations_id": []}

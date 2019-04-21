@@ -1,0 +1,1 @@
+{"tmdb_id": 268967, "title": "Darkroom", "original_title": "Darkroom", "slug_title": "darkroom", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

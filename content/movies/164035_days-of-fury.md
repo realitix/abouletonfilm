@@ -1,0 +1,1 @@
+{"tmdb_id": 164035, "title": "Days of Fury", "original_title": "Days of Fury", "slug_title": "days-of-fury", "date": "1980-03-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xvWybymKGQ3iXVsDFRAezHcYqve.jpg", "actors": ["Vincent Price ()"], "comments": [], "recommandations_id": []}

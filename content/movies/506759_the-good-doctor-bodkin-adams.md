@@ -1,0 +1,1 @@
+{"tmdb_id": 506759, "title": "The Good Doctor Bodkin-Adams", "original_title": "The Good Doctor Bodkin-Adams", "slug_title": "the-good-doctor-bodkin-adams", "date": "1986-10-12", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy West (Dr John Bodkin Adams)"], "comments": [], "recommandations_id": []}

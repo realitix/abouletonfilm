@@ -1,0 +1,1 @@
+{"tmdb_id": 527846, "title": "Outliers: Calgary's Queer History", "original_title": "Outliers: Calgary's Queer History", "slug_title": "outliers-calgary-s-queer-history", "date": "2018-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 162490, "title": "Epoch of Lotus", "original_title": "Epoch of Lotus", "slug_title": "epoch-of-lotus", "date": "2000-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ho-Sung Pak (Mortis)", "T.J. Storm (Officer)", "Maria Eberline (Jocasta)"], "comments": [], "recommandations_id": []}

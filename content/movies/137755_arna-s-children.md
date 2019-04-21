@@ -1,0 +1,1 @@
+{"tmdb_id": 137755, "title": "Arna's Children", "original_title": "Arna's Children", "slug_title": "arna-s-children", "date": "2004-06-20", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l6Yqu35v35Uc9otL8Sl51qEbwWG.jpg", "actors": ["Arna Mer-Kh (Herself)"], "comments": [], "recommandations_id": []}

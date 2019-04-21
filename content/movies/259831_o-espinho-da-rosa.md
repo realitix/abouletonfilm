@@ -1,0 +1,1 @@
+{"tmdb_id": 259831, "title": "O Espinho Da Rosa", "original_title": "O Espinho Da Rosa", "slug_title": "o-espinho-da-rosa", "date": "2013-11-19", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmRyqqkNJdtosndI2DVecC2hLw.jpg", "actors": [], "comments": [], "recommandations_id": []}

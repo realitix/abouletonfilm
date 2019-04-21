@@ -1,0 +1,1 @@
+{"tmdb_id": 589144, "title": "Alicudi 1 Bella", "original_title": "Alicudi 1 Bella", "slug_title": "alicudi-1-bella", "date": "2011-04-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Arnaud ()", "G\u00e9rard Courant ()", "Marco Tagliaro ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323898, "title": "The Hunt for Hogzilla", "original_title": "The Hunt for Hogzilla", "slug_title": "the-hunt-for-hogzilla", "date": "2014-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

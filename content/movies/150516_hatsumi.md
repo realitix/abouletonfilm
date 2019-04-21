@@ -1,0 +1,1 @@
+{"tmdb_id": 150516, "title": "Hatsumi", "original_title": "Hatsumi", "slug_title": "hatsumi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

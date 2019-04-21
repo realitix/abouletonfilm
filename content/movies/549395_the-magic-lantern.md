@@ -1,0 +1,1 @@
+{"tmdb_id": 549395, "title": "The Magic Lantern", "original_title": "The Magic Lantern", "slug_title": "the-magic-lantern", "date": "2018-09-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

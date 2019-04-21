@@ -1,0 +1,1 @@
+{"tmdb_id": 316504, "title": "All Teed Off", "original_title": "All Teed Off", "slug_title": "all-teed-off", "date": "1968-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

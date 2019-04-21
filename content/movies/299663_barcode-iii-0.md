@@ -1,0 +1,1 @@
+{"tmdb_id": 299663, "title": "Barcode III.0", "original_title": "Barcode III.0", "slug_title": "barcode-iii-0", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

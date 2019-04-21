@@ -1,0 +1,1 @@
+{"tmdb_id": 329844, "title": "Hip Hop Story 3: Coast To Coast", "original_title": "Hip Hop Story 3: Coast To Coast", "slug_title": "hip-hop-story-3-coast-to-coast", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540458, "title": "Mon cur\u00e9 chez les riches", "original_title": "Mon cur\u00e9 chez les riches", "slug_title": "mon-cure-chez-les-riches", "date": "1932-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 444399, "title": "Dynamite Wolf", "original_title": "\u304a\u3063\u3055\u3093\u306e\u30b1\u30fc\u30d5\u30a7\u30a4", "slug_title": "dynamite-wolf", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5MtwWsj0J1QRwvHflF8SySwnchI.jpg", "actors": [], "comments": [], "recommandations_id": []}

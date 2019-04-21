@@ -1,0 +1,1 @@
+{"tmdb_id": 479163, "title": "The FIRM: hi-def sculpt", "original_title": "The FIRM: hi-def sculpt", "slug_title": "the-firm-hi-def-sculpt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrJCsqPHuS9ypyzg53feHy8uZSy.jpg", "actors": [], "comments": [], "recommandations_id": []}

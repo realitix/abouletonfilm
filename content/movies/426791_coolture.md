@@ -1,0 +1,1 @@
+{"tmdb_id": 426791, "title": "Coolture", "original_title": "Coolt\u00fara", "slug_title": "coolture", "date": "2016-10-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7wkft8Q6hTEh1BNZSq7QwBVFHD.jpg", "actors": ["Zuzana Fialov\u00e1 ()", "Matej Landl ()"], "comments": [], "recommandations_id": []}

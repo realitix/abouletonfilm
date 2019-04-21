@@ -1,0 +1,1 @@
+{"tmdb_id": 583085, "title": "The Banker's Daughter", "original_title": "The Banker's Daughter", "slug_title": "the-banker-s-daughter", "date": "1933-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philip A. Scheib (Himself)"], "comments": [], "recommandations_id": []}

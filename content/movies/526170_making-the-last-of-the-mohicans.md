@@ -1,0 +1,1 @@
+{"tmdb_id": 526170, "title": "Making the 'Last of the Mohicans'", "original_title": "Making the 'Last of the Mohicans'", "slug_title": "making-the-last-of-the-mohicans", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

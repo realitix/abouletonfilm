@@ -1,0 +1,1 @@
+{"tmdb_id": 387494, "title": "The Freakshow Apocalypse", "original_title": "The Freakshow Apocalypse", "slug_title": "the-freakshow-apocalypse", "date": "2007-10-01", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pKMhLBQEGy5YyL6ogvjZ6Dxa1Ha.jpg", "actors": [], "comments": [], "recommandations_id": []}

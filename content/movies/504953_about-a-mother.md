@@ -1,0 +1,1 @@
+{"tmdb_id": 504953, "title": "About a Mother", "original_title": "Pro mamu", "slug_title": "about-a-mother", "date": "2015-02-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

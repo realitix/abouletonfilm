@@ -1,0 +1,1 @@
+{"tmdb_id": 582178, "title": "Alvar Aalto", "original_title": "Alvar Aalto", "slug_title": "alvar-aalto", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alvar Aalto (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382255, "title": "Clue VCR Mystery Game I and II", "original_title": "Clue VCR Mystery Game I and II", "slug_title": "clue-vcr-mystery-game-i-and-ii", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

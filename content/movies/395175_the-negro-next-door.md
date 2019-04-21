@@ -1,0 +1,1 @@
+{"tmdb_id": 395175, "title": "The Negro Next Door", "original_title": "The Negro Next Door", "slug_title": "the-negro-next-door", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386605, "title": "Erich Lusmann", "original_title": "Erich Lusmann", "slug_title": "erich-lusmann", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ulrich Mannes (Erich Lusmann)"], "comments": [], "recommandations_id": []}

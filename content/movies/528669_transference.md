@@ -1,0 +1,1 @@
+{"tmdb_id": 528669, "title": "Transference", "original_title": "Transference", "slug_title": "transference", "date": "2011-02-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNAcp3RFNdNK1YmqidBYuhZEp3Z.jpg", "actors": ["Edward Nelson (Lucas)", "Vanessa Spiro (Rachel)"], "comments": [], "recommandations_id": []}

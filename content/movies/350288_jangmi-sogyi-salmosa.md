@@ -1,0 +1,1 @@
+{"tmdb_id": 350288, "title": "\uc7a5\ubbf8 \uc18d\uc758 \uc0b4\ubaa8\uc0ac", "original_title": "\uc7a5\ubbf8 \uc18d\uc758 \uc0b4\ubaa8\uc0ac", "slug_title": "jangmi-sogyi-salmosa", "date": "1989-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

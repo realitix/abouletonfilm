@@ -1,0 +1,1 @@
+{"tmdb_id": 360101, "title": "The Katherine Reed Story", "original_title": "The Katherine Reed Story", "slug_title": "the-katherine-reed-story", "date": "1965-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVfBId9boI58MMJcIxg1sGefqAE.jpg", "actors": [], "comments": [], "recommandations_id": []}

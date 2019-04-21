@@ -1,0 +1,1 @@
+{"tmdb_id": 281080, "title": "Stiff Sheets", "original_title": "Stiff Sheets", "slug_title": "stiff-sheets", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420815, "title": "Prince Charming", "original_title": "Prince Charming", "slug_title": "prince-charming", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330979, "title": "Sword of the Empire", "original_title": "Una spada per l'impero", "slug_title": "sword-of-the-empire", "date": "1964-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjsZUsCsyUv1mhGjfEEWrbzcPJo.jpg", "actors": [], "comments": [], "recommandations_id": []}

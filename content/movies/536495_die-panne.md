@@ -1,0 +1,1 @@
+{"tmdb_id": 536495, "title": "Die Panne", "original_title": "Die Panne", "slug_title": "die-panne", "date": "1990-02-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lxIMmuao1k5Gnny8JHZPI65mv4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

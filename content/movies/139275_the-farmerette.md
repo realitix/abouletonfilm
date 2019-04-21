@@ -1,0 +1,1 @@
+{"tmdb_id": 139275, "title": "The Farmerette", "original_title": "The Farmerette", "slug_title": "the-farmerette", "date": "1932-06-11", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

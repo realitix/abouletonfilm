@@ -1,0 +1,1 @@
+{"tmdb_id": 272053, "title": "When Rock Goes Acoustic", "original_title": "When Rock Goes Acoustic", "slug_title": "when-rock-goes-acoustic", "date": "2011-09-02", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFNXp0mNp93Tz45r0kc4qTofSKg.jpg", "actors": [], "comments": [], "recommandations_id": []}

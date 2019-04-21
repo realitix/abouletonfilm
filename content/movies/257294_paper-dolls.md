@@ -1,0 +1,1 @@
+{"tmdb_id": 257294, "title": "Paper Dolls", "original_title": "Bubot Niyar", "slug_title": "paper-dolls", "date": "2006-10-26", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o24DqzTVCmCGI2Ctn3xJC0zIUyX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421475, "title": "Bach to Bach", "original_title": "Bach to Bach", "slug_title": "bach-to-bach", "date": "1967-09-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

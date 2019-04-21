@@ -1,0 +1,1 @@
+{"tmdb_id": 362787, "title": "The Banker", "original_title": "The Banker", "slug_title": "the-banker", "date": "2004-11-19", "genre": "Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0BFKp2QQDsiAKWAoMOHQ6ucphE.jpg", "actors": ["Michael Sheen (The Banker)"], "comments": [], "recommandations_id": []}

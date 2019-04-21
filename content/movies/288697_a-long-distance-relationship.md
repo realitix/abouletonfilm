@@ -1,0 +1,1 @@
+{"tmdb_id": 288697, "title": "A Long Distance Relationship", "original_title": "A Long Distance Relationship", "slug_title": "a-long-distance-relationship", "date": "2010-01-01", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jane Jieun Kim (Girl)", "Saeil Kim (Guy)"], "comments": [], "recommandations_id": []}

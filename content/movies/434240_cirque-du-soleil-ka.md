@@ -1,0 +1,1 @@
+{"tmdb_id": 434240, "title": "Cirque du Soleil: K\u00c0", "original_title": "Cirque du Soleil: K\u00c0", "slug_title": "cirque-du-soleil-ka", "date": "2007-12-28", "genre": "Musique / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lWByhYNwsm4vX4skXVT28RaeQ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

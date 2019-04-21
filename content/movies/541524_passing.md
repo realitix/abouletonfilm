@@ -1,0 +1,1 @@
+{"tmdb_id": 541524, "title": "Passing", "original_title": "Passing", "slug_title": "passing", "date": "", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth Negga (Clare Kendry)", "Tessa Thompson (Irene Redfield)"], "comments": [], "recommandations_id": []}

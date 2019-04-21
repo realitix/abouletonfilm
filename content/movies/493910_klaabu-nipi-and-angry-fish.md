@@ -1,0 +1,1 @@
+{"tmdb_id": 493910, "title": "Klaabu, Nipi and Angry Fish", "original_title": "Klaabu, Nipi ja tige kala", "slug_title": "klaabu-nipi-and-angry-fish", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

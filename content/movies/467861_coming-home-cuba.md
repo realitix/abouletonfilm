@@ -1,0 +1,1 @@
+{"tmdb_id": 467861, "title": "Coming Home: Cuba", "original_title": "Coming Home: Cuba", "slug_title": "coming-home-cuba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422859, "title": "Nature in the Wrong", "original_title": "Nature in the Wrong", "slug_title": "nature-in-the-wrong", "date": "1933-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley Chase)", "Muriel Evans (Muriel)", "Carlton Griffin (Ronnie)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391846, "title": "God Rocks! Bibletoons: Rez The Rock That Rolled!", "original_title": "God Rocks! Bibletoons: Rez The Rock That Rolled!", "slug_title": "god-rocks-bibletoons-rez-the-rock-that-rolled", "date": "2007-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

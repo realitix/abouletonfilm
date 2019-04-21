@@ -1,0 +1,1 @@
+{"tmdb_id": 579950, "title": "Love and the Epiphanists: Chapter One", "original_title": "Love and the Epiphanists: Chapter One", "slug_title": "love-and-the-epiphanists-chapter-one", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

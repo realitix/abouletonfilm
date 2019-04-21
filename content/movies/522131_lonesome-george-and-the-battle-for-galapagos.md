@@ -1,0 +1,1 @@
+{"tmdb_id": 522131, "title": "Lonesome George and the Battle for Galapagos", "original_title": "Lonesome George and the Battle for Galapagos", "slug_title": "lonesome-george-and-the-battle-for-galapagos", "date": "2006-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342184, "title": "Punk: The Early Years", "original_title": "Punk: The Early Years", "slug_title": "punk-the-early-years", "date": "2003-10-28", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e7iA3chDPD0VEOnJzXGIRVPlkRw.jpg", "actors": [], "comments": [], "recommandations_id": []}

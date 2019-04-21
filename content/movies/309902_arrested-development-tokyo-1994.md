@@ -1,0 +1,1 @@
+{"tmdb_id": 309902, "title": "Arrested Development: Tokyo, 1994", "original_title": "Arrested Development: Tokyo, 1994", "slug_title": "arrested-development-tokyo-1994", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

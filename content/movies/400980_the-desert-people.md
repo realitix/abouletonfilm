@@ -1,0 +1,1 @@
+{"tmdb_id": 400980, "title": "The Desert People", "original_title": "The Desert People", "slug_title": "the-desert-people", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

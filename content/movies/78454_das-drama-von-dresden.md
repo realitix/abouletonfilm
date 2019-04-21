@@ -1,0 +1,1 @@
+{"tmdb_id": 78454, "title": "Das Drama von Dresden", "original_title": "Das Drama von Dresden", "slug_title": "das-drama-von-dresden", "date": "2005-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0cgFsjTJr77kQDIxqkTGJ59Hnj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 328468, "title": "Cancel That KungFu Flick", "original_title": "Cancel That KungFu Flick", "slug_title": "cancel-that-kungfu-flick", "date": "2014-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 222673, "title": "Treasure Hunting", "original_title": "\u305f\u304b\u3089\u3055\u304c\u3057", "slug_title": "treasure-hunting", "date": "2011-06-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/km2LwylLROXY0ksQyZeEwMwjjTh.jpg", "actors": [], "comments": [], "recommandations_id": []}

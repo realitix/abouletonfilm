@@ -1,0 +1,1 @@
+{"tmdb_id": 347918, "title": "As Asas Invis\u00edveis do Padre Renzo", "original_title": "As Asas Invis\u00edveis do Padre Renzo", "slug_title": "as-asas-invisiveis-do-padre-renzo", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Renzo Rossi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 203931, "title": "A Girl and a Gun", "original_title": "A Girl and a Gun", "slug_title": "a-girl-and-a-gun", "date": "2013-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

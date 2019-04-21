@@ -1,0 +1,1 @@
+{"tmdb_id": 544068, "title": "Ka-Ching! Pokie Nation", "original_title": "Ka-Ching! Pokie Nation", "slug_title": "ka-ching-pokie-nation", "date": "2016-05-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adJJMruk0ZD7rOJ6Lu1Nuhat33Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

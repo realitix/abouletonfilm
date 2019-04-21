@@ -1,0 +1,1 @@
+{"tmdb_id": 538850, "title": "Lustful Ladies and Dirty Men", "original_title": "Lustful Ladies and Dirty Men", "slug_title": "lustful-ladies-and-dirty-men", "date": "2009-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

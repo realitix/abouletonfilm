@@ -1,0 +1,1 @@
+{"tmdb_id": 404217, "title": "The Shower", "original_title": "La Ducha", "slug_title": "the-shower", "date": "2011-02-09", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIG3eQ7wRztvZOTeh0xSTw17pPu.jpg", "actors": ["Luz Croxatto ()", "Manuela Oyarz\u00fan ()"], "comments": [], "recommandations_id": []}

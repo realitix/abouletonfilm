@@ -1,0 +1,1 @@
+{"tmdb_id": 473729, "title": "The Other Gods", "original_title": "The Other Gods", "slug_title": "the-other-gods", "date": "2006-10-06", "genre": "Animation / Horreur", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Fo9k3pJgtS7y2eU6Xm28MKcwOg.jpg", "actors": [], "comments": [], "recommandations_id": []}

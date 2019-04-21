@@ -1,0 +1,1 @@
+{"tmdb_id": 274765, "title": "Celtic Legends: Scottish Legends", "original_title": "Celtic Legends: Scottish Legends", "slug_title": "celtic-legends-scottish-legends", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

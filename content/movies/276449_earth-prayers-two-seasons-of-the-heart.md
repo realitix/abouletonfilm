@@ -1,0 +1,1 @@
+{"tmdb_id": 276449, "title": "Earth Prayers Two: Seasons of the Heart", "original_title": "Earth Prayers Two: Seasons of the Heart", "slug_title": "earth-prayers-two-seasons-of-the-heart", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

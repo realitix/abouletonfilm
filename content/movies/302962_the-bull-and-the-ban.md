@@ -1,0 +1,1 @@
+{"tmdb_id": 302962, "title": "The Bull and The Ban", "original_title": "The Bull and The Ban", "slug_title": "the-bull-and-the-ban", "date": "2013-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

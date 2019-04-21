@@ -1,0 +1,1 @@
+{"tmdb_id": 343691, "title": "Pinewood: 80 Years of Movie Magic", "original_title": "Pinewood: 80 Years of Movie Magic", "slug_title": "pinewood-80-years-of-movie-magic", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Ross ()"], "comments": [], "recommandations_id": []}

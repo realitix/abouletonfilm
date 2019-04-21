@@ -1,0 +1,1 @@
+{"tmdb_id": 309586, "title": "Ride in the Wake", "original_title": "Ride in the Wake", "slug_title": "ride-in-the-wake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

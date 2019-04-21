@@ -1,0 +1,1 @@
+{"tmdb_id": 365441, "title": "A Plague So Pleasant", "original_title": "A Plague So Pleasant", "slug_title": "a-plague-so-pleasant", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OA5buy5iIFGGArR2R2kBI6a40W.jpg", "actors": [], "comments": [], "recommandations_id": []}

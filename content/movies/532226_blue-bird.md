@@ -1,0 +1,1 @@
+{"tmdb_id": 532226, "title": "Blue Bird", "original_title": "Blue Bird", "slug_title": "blue-bird", "date": "2013-06-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Irvine (The Doctor)", "Sarah Bishop (Fiona Bird)"], "comments": [], "recommandations_id": []}

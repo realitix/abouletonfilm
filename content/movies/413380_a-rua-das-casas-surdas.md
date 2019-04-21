@@ -1,0 +1,1 @@
+{"tmdb_id": 413380, "title": "A Rua das Casas Surdas", "original_title": "A Rua das Casas Surdas", "slug_title": "a-rua-das-casas-surdas", "date": "2016-11-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSDhRWThq0vSHEuPnDOKlVV4rsR.jpg", "actors": [], "comments": [], "recommandations_id": []}

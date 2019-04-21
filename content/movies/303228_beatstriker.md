@@ -1,0 +1,1 @@
+{"tmdb_id": 303228, "title": "Beatstriker", "original_title": "Beatstriker", "slug_title": "beatstriker", "date": "2014-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

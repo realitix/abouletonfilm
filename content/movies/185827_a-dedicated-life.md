@@ -1,0 +1,1 @@
+{"tmdb_id": 185827, "title": "A Dedicated Life", "original_title": "Zenshin shosetsuka", "slug_title": "a-dedicated-life", "date": "1994-09-22", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLtXBdJSNFJPSdDVo1aVxZLzbCl.jpg", "actors": ["Mitsuharu Inoue (Himself)"], "comments": [], "recommandations_id": []}

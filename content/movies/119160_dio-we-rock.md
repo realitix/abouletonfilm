@@ -1,0 +1,1 @@
+{"tmdb_id": 119160, "title": "Dio - We Rock", "original_title": "Dio - We Rock", "slug_title": "dio-we-rock", "date": "2005-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4W4Wof4GvKyp7BWRV3d4zpE7YAI.jpg", "actors": ["Ronnie James Dio (Himself)"], "comments": [], "recommandations_id": []}

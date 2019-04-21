@@ -1,0 +1,1 @@
+{"tmdb_id": 415932, "title": "American Songbook - Patina Miller in Concert", "original_title": "American Songbook - Patina Miller in Concert", "slug_title": "american-songbook-patina-miller-in-concert", "date": "2014-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

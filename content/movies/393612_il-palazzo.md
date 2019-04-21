@@ -1,0 +1,1 @@
+{"tmdb_id": 393612, "title": "Il palazzo", "original_title": "Il palazzo", "slug_title": "il-palazzo", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

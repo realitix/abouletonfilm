@@ -1,0 +1,1 @@
+{"tmdb_id": 557546, "title": "Son excellence le Bouif", "original_title": "Son excellence le Bouif", "slug_title": "son-excellence-le-bouif", "date": "1922-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

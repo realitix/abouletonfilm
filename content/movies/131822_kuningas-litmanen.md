@@ -1,0 +1,1 @@
+{"tmdb_id": 131822, "title": "Kuningas Litmanen", "original_title": "Kuningas Litmanen", "slug_title": "kuningas-litmanen", "date": "2012-09-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c91PHxGJ69GQDOtBuNo8sbzxCXk.jpg", "actors": ["Jari Litmanen (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 398797, "title": "American Videoart Anthology Vol. 2", "original_title": "American Videoart Anthology Vol. 2", "slug_title": "american-videoart-anthology-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tf4E3k7vmRpHU6fVBGq932QGpov.jpg", "actors": [], "comments": [], "recommandations_id": []}

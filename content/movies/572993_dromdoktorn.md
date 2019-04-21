@@ -1,0 +1,1 @@
+{"tmdb_id": 572993, "title": "Dr\u00f6mdoktorn", "original_title": "Dr\u00f6mdoktorn", "slug_title": "dromdoktorn", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

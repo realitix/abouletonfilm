@@ -1,0 +1,1 @@
+{"tmdb_id": 594420, "title": "Recruit", "original_title": "\u0420\u0435\u043a\u0440\u0443\u0442", "slug_title": "recruit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lev Semashkov ()", "Nikita Cherepanov ()"], "comments": [], "recommandations_id": []}

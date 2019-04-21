@@ -1,0 +1,1 @@
+{"tmdb_id": 94357, "title": "Betty White: Champion for Animals", "original_title": "Betty White: Champion for Animals", "slug_title": "betty-white-champion-for-animals", "date": "2012-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betty White (Herself)"], "comments": [], "recommandations_id": []}

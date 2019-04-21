@@ -1,0 +1,1 @@
+{"tmdb_id": 267147, "title": "The Woman Haters", "original_title": "The Woman Haters", "slug_title": "the-woman-haters", "date": "1913-12-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (1st Old Tar)", "Nick Cogley (2nd Old Tar)"], "comments": [], "recommandations_id": []}

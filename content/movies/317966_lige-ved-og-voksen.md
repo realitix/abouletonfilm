@@ -1,0 +1,1 @@
+{"tmdb_id": 317966, "title": "Lige Ved Og Voksen", "original_title": "Lige Ved Og Voksen", "slug_title": "lige-ved-og-voksen", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anders Fjelsted (Anders Fjelsted)"], "comments": [], "recommandations_id": []}

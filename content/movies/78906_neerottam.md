@@ -1,0 +1,1 @@
+{"tmdb_id": 78906, "title": "Neerottam", "original_title": "Neerottam", "slug_title": "neerottam", "date": "1980-07-04", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Sathyaraj ()", "Padmapriya (Kanmani)"], "comments": [], "recommandations_id": []}

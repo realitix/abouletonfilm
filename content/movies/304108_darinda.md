@@ -1,0 +1,1 @@
+{"tmdb_id": 304108, "title": "Darinda", "original_title": "Darinda", "slug_title": "darinda", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

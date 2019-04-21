@@ -1,0 +1,1 @@
+{"tmdb_id": 514522, "title": "The Story of a Pioneering Sock", "original_title": "The Story of a Pioneering Sock", "slug_title": "the-story-of-a-pioneering-sock", "date": "2014-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

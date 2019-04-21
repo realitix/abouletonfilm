@@ -1,0 +1,1 @@
+{"tmdb_id": 589036, "title": "High Voltage Electricians", "original_title": "Penja\u010di", "slug_title": "high-voltage-electricians", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

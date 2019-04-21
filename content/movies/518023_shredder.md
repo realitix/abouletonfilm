@@ -1,0 +1,1 @@
+{"tmdb_id": 518023, "title": "Shredder", "original_title": "Shredder", "slug_title": "shredder", "date": "", "genre": "Com\u00e9die / Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

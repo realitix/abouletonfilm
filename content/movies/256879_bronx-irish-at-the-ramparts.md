@@ -1,0 +1,1 @@
+{"tmdb_id": 256879, "title": "Bronx Irish at the Ramparts", "original_title": "Bronx Irish at the Ramparts", "slug_title": "bronx-irish-at-the-ramparts", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

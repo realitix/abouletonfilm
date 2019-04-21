@@ -1,0 +1,1 @@
+{"tmdb_id": 442796, "title": "Ten Tips for Tackling Tanks", "original_title": "Ten Tips for Tackling Tanks", "slug_title": "ten-tips-for-tackling-tanks", "date": "1941-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

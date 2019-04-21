@@ -1,0 +1,1 @@
+{"tmdb_id": 589172, "title": "Bad Vegan and the Teleportation Machine", "original_title": "Bad Vegan and the Teleportation Machine", "slug_title": "bad-vegan-and-the-teleportation-machine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

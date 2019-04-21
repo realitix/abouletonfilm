@@ -1,0 +1,1 @@
+{"tmdb_id": 222851, "title": "Sawbones", "original_title": "Sawbones", "slug_title": "sawbones", "date": "1995-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9eXBHrP0euyiLO0PmwRBm30ZWJ.jpg", "actors": ["Adam Baldwin ()", "Nina Siemaszko ()", "Barbara Carrera ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 202379, "title": "Ciall Cheannaigh", "original_title": "Ciall Cheannaigh", "slug_title": "ciall-cheannaigh", "date": "1969-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

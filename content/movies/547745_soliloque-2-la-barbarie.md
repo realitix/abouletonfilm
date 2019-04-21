@@ -1,0 +1,1 @@
+{"tmdb_id": 547745, "title": "Soliloque 2 / La Barbarie", "original_title": "Soliloque 2 / La Barbarie", "slug_title": "soliloque-2-la-barbarie", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

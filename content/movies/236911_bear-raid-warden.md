@@ -1,0 +1,1 @@
+{"tmdb_id": 236911, "title": "Bear Raid Warden", "original_title": "Bear Raid Warden", "slug_title": "bear-raid-warden", "date": "1944-08-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dAm58fLKI4q9Ol3PurTGrrFnMO.jpg", "actors": ["Billy Bletcher (Barney Bear)"], "comments": [], "recommandations_id": []}

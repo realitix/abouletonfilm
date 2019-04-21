@@ -1,0 +1,1 @@
+{"tmdb_id": 350472, "title": "\uc2dc\ube44\uc2dc\ube44", "original_title": "\uc2dc\ube44\uc2dc\ube44", "slug_title": "sibisibi", "date": "1992-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

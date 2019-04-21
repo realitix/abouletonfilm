@@ -1,0 +1,1 @@
+{"tmdb_id": 283182, "title": "Dharmatma", "original_title": "Dharmatma", "slug_title": "dharmatma", "date": "1935-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bal Gandharva ()", "Ratnaprabha ()", "K. Narayan Kale ()"], "comments": [], "recommandations_id": []}

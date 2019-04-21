@@ -1,0 +1,1 @@
+{"tmdb_id": 338765, "title": "Shadowman", "original_title": "Shadowman", "slug_title": "shadowman", "date": "2017-04-21", "genre": "Documentaire", "score": "2.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1o8LogVr0ltsXkOFRPDyzfZV0L.jpg", "actors": ["Richard Hambleton (Himself)"], "comments": [], "recommandations_id": []}

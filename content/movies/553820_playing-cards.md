@@ -1,0 +1,1 @@
+{"tmdb_id": 553820, "title": "Playing Cards", "original_title": "Playing Cards", "slug_title": "playing-cards", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

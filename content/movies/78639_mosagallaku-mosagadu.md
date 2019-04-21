@@ -1,0 +1,1 @@
+{"tmdb_id": 78639, "title": "Mosagallaku Mosagadu", "original_title": "Mosagallaku Mosagadu", "slug_title": "mosagallaku-mosagadu", "date": "2010-07-09", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R. Sarathkumar ()", "Namitha ()", "Vadivelu ()", "R. Thyagarajan ()"], "comments": [], "recommandations_id": []}

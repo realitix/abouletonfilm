@@ -1,0 +1,1 @@
+{"tmdb_id": 540770, "title": "Mesmo com Tanta Agonia", "original_title": "Mesmo com Tanta Agonia", "slug_title": "mesmo-com-tanta-agonia", "date": "2018-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rk69KLasYWVtxHNehEDTM6QR6gt.jpg", "actors": [], "comments": [], "recommandations_id": []}

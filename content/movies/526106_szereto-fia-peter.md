@@ -1,0 +1,1 @@
+{"tmdb_id": 526106, "title": "Szeret\u0151 fia, P\u00e9ter", "original_title": "Szeret\u0151 fia, P\u00e9ter", "slug_title": "szereto-fia-peter", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

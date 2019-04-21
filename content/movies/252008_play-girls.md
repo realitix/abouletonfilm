@@ -1,0 +1,1 @@
+{"tmdb_id": 252008, "title": "Play! Girls", "original_title": "Play! Girls", "slug_title": "play-girls", "date": "1937-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe May (Band Leader Joe May)", "June Earle (June)", "Jean O'Neill ()"], "comments": [], "recommandations_id": []}

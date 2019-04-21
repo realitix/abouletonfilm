@@ -1,0 +1,1 @@
+{"tmdb_id": 277017, "title": "Bow Wow: Dog Tag & Papers Included", "original_title": "Bow Wow: Dog Tag & Papers Included", "slug_title": "bow-wow-dog-tag-papers-included", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

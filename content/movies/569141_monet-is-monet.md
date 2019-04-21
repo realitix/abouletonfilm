@@ -1,0 +1,1 @@
+{"tmdb_id": 569141, "title": "Monet is Monet", "original_title": "Monet is Monet", "slug_title": "monet-is-monet", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un essai de peinture avec une cam\u00e9ra.\r J'ai voulu faire une toile quoi...!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

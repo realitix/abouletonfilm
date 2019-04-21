@@ -1,0 +1,1 @@
+{"tmdb_id": 336413, "title": "Two Smart", "original_title": "Two Smart", "slug_title": "two-smart", "date": "2015-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

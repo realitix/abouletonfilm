@@ -1,0 +1,1 @@
+{"tmdb_id": 318328, "title": "Kung Fu Theater: Invincible Hero", "original_title": "Kung Fu Theater: Invincible Hero", "slug_title": "kung-fu-theater-invincible-hero", "date": "2006-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564373, "title": "Documenta 5", "original_title": "Documenta 5", "slug_title": "documenta-5", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

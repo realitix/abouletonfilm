@@ -1,0 +1,1 @@
+{"tmdb_id": 486515, "title": "The Gruesome Twosome", "original_title": "The Gruesome Twosome", "slug_title": "the-gruesome-twosome", "date": "1989-11-01", "genre": "Com\u00e9die / Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

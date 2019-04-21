@@ -1,0 +1,1 @@
+{"tmdb_id": 250283, "title": "Zanj Revolution", "original_title": "Zanj Revolution", "slug_title": "zanj-revolution", "date": "2013-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 305789, "title": "PurePoint Golf Full Swing", "original_title": "PurePoint Golf Full Swing", "slug_title": "purepoint-golf-full-swing", "date": "2011-11-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzdrMAQFoBWpjB2cfnBhrK0VkOz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428908, "title": "La poule merveilleuse", "original_title": "La poule merveilleuse", "slug_title": "la-poule-merveilleuse", "date": "1902-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ferdinand Zecca (Magician)"], "comments": [], "recommandations_id": []}

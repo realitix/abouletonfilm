@@ -1,0 +1,1 @@
+{"tmdb_id": 75270, "title": "Cardboard Warfare 2", "original_title": "Cardboard Warfare 2", "slug_title": "cardboard-warfare-2", "date": "2011-09-24", "genre": "Action", "score": "3.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

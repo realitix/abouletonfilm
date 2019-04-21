@@ -1,0 +1,1 @@
+{"tmdb_id": 70285, "title": "Biblos und der teppich", "original_title": "Biblos und der teppich", "slug_title": "biblos-und-der-teppich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

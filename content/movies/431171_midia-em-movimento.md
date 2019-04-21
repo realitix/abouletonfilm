@@ -1,0 +1,1 @@
+{"tmdb_id": 431171, "title": "M\u00eddia em Movimento", "original_title": "M\u00eddia em Movimento", "slug_title": "midia-em-movimento", "date": "2016-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

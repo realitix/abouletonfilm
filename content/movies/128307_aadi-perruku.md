@@ -1,0 +1,1 @@
+{"tmdb_id": 128307, "title": "Aadi Perruku", "original_title": "Aadi Perrukku", "slug_title": "aadi-perruku", "date": "1962-08-15", "genre": "", "score": "7.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan (Raja)", "B. Saroja Devi (Padma)", "Devika ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351149, "title": "Southern Horse-pitality", "original_title": "Southern Horse-pitality", "slug_title": "southern-horse-pitality", "date": "1935-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

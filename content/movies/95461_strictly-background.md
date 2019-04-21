@@ -1,0 +1,1 @@
+{"tmdb_id": 95461, "title": "Strictly Background", "original_title": "Strictly Background", "slug_title": "strictly-background", "date": "2007-03-23", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Rcdk5wHx8cvDIi6JgStRsN6Nii.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302982, "title": "Economic Freedom in Action: Changing Lives", "original_title": "Economic Freedom in Action: Changing Lives", "slug_title": "economic-freedom-in-action-changing-lives", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

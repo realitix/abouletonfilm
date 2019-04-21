@@ -1,0 +1,1 @@
+{"tmdb_id": 353920, "title": "Mysterious Journey", "original_title": "Mysterious Journey", "slug_title": "mysterious-journey", "date": "1997-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

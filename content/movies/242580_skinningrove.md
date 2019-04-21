@@ -1,0 +1,1 @@
+{"tmdb_id": 242580, "title": "Skinningrove", "original_title": "Skinningrove", "slug_title": "skinningrove", "date": "2013-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgS2dybHpSO8X6ghtP1fbG1SK5e.jpg", "actors": ["Chris Killip ()"], "comments": [], "recommandations_id": []}

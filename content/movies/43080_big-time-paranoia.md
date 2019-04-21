@@ -1,0 +1,1 @@
+{"tmdb_id": 43080, "title": "Big Time Paranoia", "original_title": "Big Time Paranoia", "slug_title": "big-time-paranoia", "date": "2007-11-05", "genre": "Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zEGUV3WnerkAXydgkhLdbwMui6l.jpg", "actors": ["Jan Gintberg (Himself)"], "comments": [], "recommandations_id": []}

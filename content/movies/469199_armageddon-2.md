@@ -1,0 +1,1 @@
+{"tmdb_id": 469199, "title": "Armageddon 2", "original_title": "Armageddon 2", "slug_title": "armageddon-2", "date": "2017-08-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhcaWqP6mOVL7DAHq8z3r6uxg6E.jpg", "actors": [], "comments": [], "recommandations_id": []}

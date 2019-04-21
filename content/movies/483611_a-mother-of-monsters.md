@@ -1,0 +1,1 @@
+{"tmdb_id": 483611, "title": "A Mother of Monsters", "original_title": "A Mother of Monsters", "slug_title": "a-mother-of-monsters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

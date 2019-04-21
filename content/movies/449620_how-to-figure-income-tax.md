@@ -1,0 +1,1 @@
+{"tmdb_id": 449620, "title": "How to Figure Income Tax", "original_title": "How to Figure Income Tax", "slug_title": "how-to-figure-income-tax", "date": "1938-03-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley (Joe Doakes)"], "comments": [], "recommandations_id": []}

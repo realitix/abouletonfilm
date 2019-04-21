@@ -1,0 +1,1 @@
+{"tmdb_id": 500651, "title": "Bilderberg: The Movie", "original_title": "Bilderberg: The Movie", "slug_title": "bilderberg-the-movie", "date": "2014-09-17", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denis Healey (Himself)", "Michael Meacher (Himself)"], "comments": [], "recommandations_id": []}

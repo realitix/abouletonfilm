@@ -1,0 +1,1 @@
+{"tmdb_id": 508748, "title": "time for sushi", "original_title": "time for sushi", "slug_title": "time-for-sushi", "date": "2017-06-22", "genre": "Animation / Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhtFyHjpScTtJHGDhHS3nqZqwIU.jpg", "actors": [], "comments": [], "recommandations_id": []}

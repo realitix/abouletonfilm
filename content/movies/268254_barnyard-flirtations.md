@@ -1,0 +1,1 @@
+{"tmdb_id": 268254, "title": "Barnyard Flirtations", "original_title": "Barnyard Flirtations", "slug_title": "barnyard-flirtations", "date": "1914-03-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (The Cop)"], "comments": [], "recommandations_id": []}

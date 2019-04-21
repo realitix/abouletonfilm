@@ -1,0 +1,1 @@
+{"tmdb_id": 52828, "title": "Slaves", "original_title": "Slaves", "slug_title": "slaves", "date": "2003-04-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3Opdxe3bdCDD0LzFJ45hEpMSLa.jpg", "actors": [], "comments": [], "recommandations_id": []}

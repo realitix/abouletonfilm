@@ -1,0 +1,1 @@
+{"tmdb_id": 383092, "title": "Trivium: [2013] Wacken Open Air", "original_title": "Trivium: [2013] Wacken Open Air", "slug_title": "trivium-2013-wacken-open-air", "date": "2013-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qm5hWDTvnq1jcykuBOESu67bqWQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

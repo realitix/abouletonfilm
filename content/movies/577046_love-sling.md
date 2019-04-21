@@ -1,0 +1,1 @@
+{"tmdb_id": 577046, "title": "LOVE SLING", "original_title": "LOVE SLING", "slug_title": "love-sling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578166, "title": "North Cape", "original_title": "North Cape", "slug_title": "north-cape", "date": "1997-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qAEVUbRajhR6lKdX8b1SaRN3K8.jpg", "actors": ["Bj\u00f8rn Sundquist (Forteller / Narrator)"], "comments": [], "recommandations_id": []}

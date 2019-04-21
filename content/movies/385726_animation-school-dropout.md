@@ -1,0 +1,1 @@
+{"tmdb_id": 385726, "title": "Animation School Dropout", "original_title": "Animation School Dropout", "slug_title": "animation-school-dropout", "date": "2014-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BJ9iJ9HivecxrWt0t8MWWhVq4i.jpg", "actors": [], "comments": [], "recommandations_id": []}

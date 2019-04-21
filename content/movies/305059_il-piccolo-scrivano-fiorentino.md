@@ -1,0 +1,1 @@
+{"tmdb_id": 305059, "title": "Il piccolo scrivano fiorentino", "original_title": "Il piccolo scrivano fiorentino", "slug_title": "il-piccolo-scrivano-fiorentino", "date": "1915-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

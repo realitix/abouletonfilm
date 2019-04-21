@@ -1,0 +1,1 @@
+{"tmdb_id": 374148, "title": "Alice the Collegiate", "original_title": "Alice the Collegiate", "slug_title": "alice-the-collegiate", "date": "1927-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

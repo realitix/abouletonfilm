@@ -1,0 +1,1 @@
+{"tmdb_id": 584258, "title": "Shine Bright", "original_title": "Shine Bright", "slug_title": "shine-bright", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gjtsQP1EDG3UjGSYuLux7cU7Nt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 55570, "title": "spot goes to the farm", "original_title": "spot goes to the farm", "slug_title": "spot-goes-to-the-farm", "date": "2006-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAvBYT5njRiTDKhe2koU9ezg1BW.jpg", "actors": [], "comments": [], "recommandations_id": []}

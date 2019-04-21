@@ -1,0 +1,1 @@
+{"tmdb_id": 440295, "title": "Ensino Vocacional", "original_title": "Ensino Vocacional", "slug_title": "ensino-vocacional", "date": "1969-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9szbq9A676fnq82gUbGcwMPZck.jpg", "actors": [], "comments": [], "recommandations_id": []}

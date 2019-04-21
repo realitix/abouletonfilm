@@ -1,0 +1,1 @@
+{"tmdb_id": 316548, "title": "Highway Slobbery", "original_title": "Highway Slobbery", "slug_title": "highway-slobbery", "date": "1964-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

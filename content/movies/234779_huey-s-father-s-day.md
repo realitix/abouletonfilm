@@ -1,0 +1,1 @@
+{"tmdb_id": 234779, "title": "Huey's Father's Day", "original_title": "Huey's Father's Day", "slug_title": "huey-s-father-s-day", "date": "1959-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

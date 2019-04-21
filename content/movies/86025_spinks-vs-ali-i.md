@@ -1,0 +1,1 @@
+{"tmdb_id": 86025, "title": "Spinks vs. Ali I", "original_title": "Spinks vs. Ali I", "slug_title": "spinks-vs-ali-i", "date": "1978-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hkAjE5BxZITqEXVQ195EGRQCRoM.jpg", "actors": [], "comments": [], "recommandations_id": []}

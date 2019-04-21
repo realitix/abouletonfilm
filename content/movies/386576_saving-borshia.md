@@ -1,0 +1,1 @@
+{"tmdb_id": 386576, "title": "Saving Borshia", "original_title": "Saving Borshia", "slug_title": "saving-borshia", "date": "2016-03-05", "genre": "Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emma Jean Delia (Greta)", "Dennis Brito (Sam Saxon)", "Kurt Grube (Glen Gary)"], "comments": [], "recommandations_id": []}

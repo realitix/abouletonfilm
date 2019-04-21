@@ -1,0 +1,1 @@
+{"tmdb_id": 118350, "title": "Cops: Caught in the Act", "original_title": "Cops: Caught in the Act", "slug_title": "cops-caught-in-the-act", "date": "2004-03-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWGUI17Udu9usm22pmSqD6xPNtd.jpg", "actors": [], "comments": [], "recommandations_id": []}

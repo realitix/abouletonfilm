@@ -1,0 +1,1 @@
+{"tmdb_id": 392897, "title": "Blunderball, or from Dr. Nofinger with Hate", "original_title": "Blunderball, or from Dr. Nofinger with Hate", "slug_title": "blunderball-or-from-dr-nofinger-with-hate", "date": "1966-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

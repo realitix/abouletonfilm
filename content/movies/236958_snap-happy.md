@@ -1,0 +1,1 @@
+{"tmdb_id": 236958, "title": "Snap Happy", "original_title": "Snap Happy", "slug_title": "snap-happy", "date": "1945-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

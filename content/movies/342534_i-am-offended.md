@@ -1,0 +1,1 @@
+{"tmdb_id": 342534, "title": "I Am Offended", "original_title": "I Am Offended", "slug_title": "i-am-offended", "date": "2015-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

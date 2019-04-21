@@ -1,0 +1,1 @@
+{"tmdb_id": 588756, "title": "How to Stop Being Korean", "original_title": "\ud55c\uad6d\uc778\uc744 \uad00\ub450\ub294 \ubc95", "slug_title": "how-to-stop-being-korean", "date": "2019-03-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

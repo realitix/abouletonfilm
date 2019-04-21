@@ -1,0 +1,1 @@
+{"tmdb_id": 368732, "title": "Bi'r al-herman", "original_title": "Bi'r al-herman", "slug_title": "bi-r-al-herman", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

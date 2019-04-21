@@ -1,0 +1,1 @@
+{"tmdb_id": 543151, "title": "Mysterious Doctor Satan Disguised", "original_title": "Mysterious Doctor Satan Disguised", "slug_title": "mysterious-doctor-satan-disguised", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300586, "title": "Mater Dolorosa", "original_title": "Mater Dolorosa", "slug_title": "mater-dolorosa", "date": "2014-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria de F\u00e1tima da Silva (Herself)"], "comments": [], "recommandations_id": []}

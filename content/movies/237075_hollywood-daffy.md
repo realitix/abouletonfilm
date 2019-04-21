@@ -1,0 +1,1 @@
+{"tmdb_id": 237075, "title": "Hollywood Daffy", "original_title": "Hollywood Daffy", "slug_title": "hollywood-daffy", "date": "1946-06-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xrXIqI6rCfcQvGP9oiJhLZYeHg.jpg", "actors": ["Mel Blanc (Daffy Duck)"], "comments": [], "recommandations_id": [201641]}

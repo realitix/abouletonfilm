@@ -1,0 +1,1 @@
+{"tmdb_id": 326668, "title": "Luna di miele", "original_title": "Luna di miele", "slug_title": "luna-di-miele", "date": "1941-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Assia Noris ()", "Aldo Fiorelli ()", "Luigi Cimara ()", "Carlo Campanini ()"], "comments": [], "recommandations_id": []}

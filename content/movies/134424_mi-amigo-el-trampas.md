@@ -1,0 +1,1 @@
+{"tmdb_id": 134424, "title": "Mi amigo el trampas", "original_title": "Mi amigo el trampas", "slug_title": "mi-amigo-el-trampas", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Almada ()", "Valente Pastor ()", "Lina Santos ()"], "comments": [], "recommandations_id": []}

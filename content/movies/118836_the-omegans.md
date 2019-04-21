@@ -1,0 +1,1 @@
+{"tmdb_id": 118836, "title": "The Omegans", "original_title": "The Omegans", "slug_title": "the-omegans", "date": "1968-02-18", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/FBch2ddHTk5OsEiVHgub6r64R6.jpg", "actors": ["Keith Larsen (Chuck)", "Ingrid Pitt (Linda)"], "comments": [], "recommandations_id": []}

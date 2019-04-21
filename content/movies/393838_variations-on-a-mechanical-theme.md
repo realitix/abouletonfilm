@@ -1,0 +1,1 @@
+{"tmdb_id": 393838, "title": "Variations on a Mechanical Theme", "original_title": "Variations on a Mechanical Theme", "slug_title": "variations-on-a-mechanical-theme", "date": "1959-04-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

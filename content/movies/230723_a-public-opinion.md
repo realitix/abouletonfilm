@@ -1,0 +1,1 @@
+{"tmdb_id": 230723, "title": "A Public Opinion", "original_title": "A Opini\u00e3o P\u00fablica", "slug_title": "a-public-opinion", "date": "1967-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HXEEPvKS0FPqQsEvw4DjmjsuYF.jpg", "actors": [], "comments": [], "recommandations_id": []}

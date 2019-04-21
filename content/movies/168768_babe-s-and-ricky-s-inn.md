@@ -1,0 +1,1 @@
+{"tmdb_id": 168768, "title": "Babe's and Ricky's Inn", "original_title": "Babe's and Ricky's Inn", "slug_title": "babe-s-and-ricky-s-inn", "date": "2013-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 72303, "title": "Berlin", "original_title": "Berlin", "slug_title": "berlin", "date": "2007-09-04", "genre": "Documentaire / Musique", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x3SC9oORFaI4smkAgnUCgxQH3CQ.jpg", "actors": ["Lou Reed (Himself)"], "comments": [], "recommandations_id": []}

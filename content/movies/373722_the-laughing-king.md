@@ -1,0 +1,1 @@
+{"tmdb_id": 373722, "title": "The Laughing King", "original_title": "The Laughing King", "slug_title": "the-laughing-king", "date": "2016-01-12", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PiLuZSoONVApceWLNcfrMAdS1Z.jpg", "actors": ["Colin Morgan (Jake)", "Kerrie Hayes ()"], "comments": [], "recommandations_id": []}

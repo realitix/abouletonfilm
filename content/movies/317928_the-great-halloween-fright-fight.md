@@ -1,0 +1,1 @@
+{"tmdb_id": 317928, "title": "The Great Halloween Fright Fight", "original_title": "The Great Halloween Fright Fight", "slug_title": "the-great-halloween-fright-fight", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

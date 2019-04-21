@@ -1,0 +1,1 @@
+{"tmdb_id": 551957, "title": "Disintegration", "original_title": "Disintegration", "slug_title": "disintegration", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEobpyn0RRvctl2rkMY5vAFh0Qp.jpg", "actors": [], "comments": [], "recommandations_id": []}

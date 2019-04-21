@@ -1,0 +1,1 @@
+{"tmdb_id": 97102, "title": "Jo Koy: Lights Out", "original_title": "Jo Koy: Lights Out", "slug_title": "jo-koy-lights-out", "date": "2012-04-03", "genre": "Com\u00e9die", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mO5awIh7YxUfODh7oeA19wIvWGY.jpg", "actors": ["Jo Koy (Himself)"], "comments": [], "recommandations_id": []}

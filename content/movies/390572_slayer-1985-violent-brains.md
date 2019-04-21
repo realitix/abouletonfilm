@@ -1,0 +1,1 @@
+{"tmdb_id": 390572, "title": "Slayer: [1985] Violent Brains", "original_title": "Slayer: [1985] Violent Brains", "slug_title": "slayer-1985-violent-brains", "date": "1985-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZtwg4AAJxc8ViLXTwGWpbnqWVN.jpg", "actors": [], "comments": [], "recommandations_id": []}

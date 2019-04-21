@@ -1,0 +1,1 @@
+{"tmdb_id": 460090, "title": "When Bette Met Mae", "original_title": "When Bette Met Mae", "slug_title": "when-bette-met-mae", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

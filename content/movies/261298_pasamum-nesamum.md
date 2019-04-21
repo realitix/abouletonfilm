@@ -1,0 +1,1 @@
+{"tmdb_id": 261298, "title": "Pasamum Nesamum", "original_title": "Pasamum Nesamum", "slug_title": "pasamum-nesamum", "date": "1964-01-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()"], "comments": [], "recommandations_id": []}

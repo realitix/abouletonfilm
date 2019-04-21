@@ -1,0 +1,1 @@
+{"tmdb_id": 580259, "title": "La piadina assassina", "original_title": "La piadina assassina", "slug_title": "la-piadina-assassina", "date": "1998-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2VwmbKTrxPTxYQyoP9FoOG878R.jpg", "actors": [], "comments": [], "recommandations_id": []}

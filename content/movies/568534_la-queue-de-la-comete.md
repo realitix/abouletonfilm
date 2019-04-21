@@ -1,0 +1,1 @@
+{"tmdb_id": 568534, "title": "La queue de la com\u00e8te", "original_title": "La queue de la com\u00e8te", "slug_title": "la-queue-de-la-comete", "date": "1988-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

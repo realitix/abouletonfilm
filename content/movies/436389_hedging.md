@@ -1,0 +1,1 @@
+{"tmdb_id": 436389, "title": "Hedging", "original_title": "Hedging", "slug_title": "hedging", "date": "1942-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cgDWVth3vji12cgIBN3bLd9Y4dM.jpg", "actors": ["Roy Hay (Narrator)", "Roy Hay (Narrator)"], "comments": [], "recommandations_id": []}

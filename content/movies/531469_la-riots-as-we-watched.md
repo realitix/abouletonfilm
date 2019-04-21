@@ -1,0 +1,1 @@
+{"tmdb_id": 531469, "title": "LA Riots: As We Watched", "original_title": "LA Riots: As We Watched", "slug_title": "la-riots-as-we-watched", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1A64fkOMXFxBSNdqVLDTK27tKwS.jpg", "actors": [], "comments": [], "recommandations_id": []}

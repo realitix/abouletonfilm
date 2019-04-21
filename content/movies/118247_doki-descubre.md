@@ -1,0 +1,1 @@
+{"tmdb_id": 118247, "title": "Doki Descubre", "original_title": "Doki Descubre", "slug_title": "doki-descubre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

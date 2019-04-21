@@ -1,0 +1,1 @@
+{"tmdb_id": 281540, "title": "American Rap Stars", "original_title": "American Rap Stars", "slug_title": "american-rap-stars", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

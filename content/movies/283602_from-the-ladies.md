@@ -1,0 +1,1 @@
+{"tmdb_id": 283602, "title": "From the Ladies", "original_title": "From the Ladies", "slug_title": "from-the-ladies", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 406178, "title": "Izri Kra Goudm Ankra 2", "original_title": "Izri Kra Goudm Ankra 2", "slug_title": "izri-kra-goudm-ankra-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Mzouda Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8BltIX6QDm5e3UNPiRItejb1ZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

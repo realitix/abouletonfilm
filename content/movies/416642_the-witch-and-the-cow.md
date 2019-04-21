@@ -1,0 +1,1 @@
+{"tmdb_id": 416642, "title": "The Witch and the Cow", "original_title": "The Witch and the Cow", "slug_title": "the-witch-and-the-cow", "date": "1991-01-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lhlisQEvtJVyYYzW2SRJ1v3oqCi.jpg", "actors": [], "comments": [], "recommandations_id": []}

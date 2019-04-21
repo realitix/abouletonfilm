@@ -1,0 +1,1 @@
+{"tmdb_id": 513894, "title": "Les chrysanth\u00e8mes", "original_title": "Les chrysanth\u00e8mes", "slug_title": "les-chrysanthemes", "date": "1911-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

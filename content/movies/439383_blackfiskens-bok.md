@@ -1,0 +1,1 @@
+{"tmdb_id": 439383, "title": "Bl\u00e4ckfiskens bok", "original_title": "Bl\u00e4ckfiskens bok", "slug_title": "blackfiskens-bok", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqXMD1qBjkbdIaSLkE7Xh3pwi0c.jpg", "actors": [], "comments": [], "recommandations_id": []}

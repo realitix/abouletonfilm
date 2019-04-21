@@ -1,0 +1,1 @@
+{"tmdb_id": 205101, "title": "Couch & Potatoes", "original_title": "Couch & Potatoes", "slug_title": "couch-potatoes", "date": "2012-06-17", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

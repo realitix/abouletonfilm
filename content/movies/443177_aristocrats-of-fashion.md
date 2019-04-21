@@ -1,0 +1,1 @@
+{"tmdb_id": 443177, "title": "Aristocrats of Fashion", "original_title": "Aristocrats of Fashion", "slug_title": "aristocrats-of-fashion", "date": "1939-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

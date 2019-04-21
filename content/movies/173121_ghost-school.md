@@ -1,0 +1,1 @@
+{"tmdb_id": 173121, "title": "Ghost School", "original_title": "Ghost School", "slug_title": "ghost-school", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

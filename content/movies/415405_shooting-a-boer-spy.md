@@ -1,0 +1,1 @@
+{"tmdb_id": 415405, "title": "Shooting a Boer Spy", "original_title": "Shooting a Boer Spy", "slug_title": "shooting-a-boer-spy", "date": "1899-11-01", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

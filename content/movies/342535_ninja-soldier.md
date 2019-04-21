@@ -1,0 +1,1 @@
+{"tmdb_id": 342535, "title": "Ninja & Soldier", "original_title": "\u82f1\u8a9e + \u65e5\u672c\u8a9e\u8aac\u660e", "slug_title": "ninja-soldier", "date": "2013-03-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bktQQXB1EA5ix3qWDMgoWS0rtnW.jpg", "actors": [], "comments": [], "recommandations_id": []}

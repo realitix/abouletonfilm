@@ -1,0 +1,1 @@
+{"tmdb_id": 467153, "title": "\u0391\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2", "original_title": "\u0391\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2", "slug_title": "aggelos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

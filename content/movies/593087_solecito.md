@@ -1,0 +1,1 @@
+{"tmdb_id": 593087, "title": "Solecito", "original_title": "Solecito", "slug_title": "solecito", "date": "2013-05-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPokgO8HPktRNcawWO7gMgSrvia.jpg", "actors": [], "comments": [], "recommandations_id": []}

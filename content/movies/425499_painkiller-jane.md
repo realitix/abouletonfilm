@@ -1,0 +1,1 @@
+{"tmdb_id": 425499, "title": "Painkiller Jane", "original_title": "Painkiller Jane", "slug_title": "painkiller-jane", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xo32M9Ffqazog0PCenE4Mk7HGsC.jpg", "actors": [], "comments": [], "recommandations_id": []}

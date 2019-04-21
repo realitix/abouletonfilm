@@ -1,0 +1,1 @@
+{"tmdb_id": 336248, "title": "Hands Scraping", "original_title": "Hands Scraping", "slug_title": "hands-scraping", "date": "1968-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ePPUqi13UA9FvuHDhkJGZJpEmT8.jpg", "actors": ["Richard Serra ()"], "comments": [], "recommandations_id": []}

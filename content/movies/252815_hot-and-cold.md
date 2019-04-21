@@ -1,0 +1,1 @@
+{"tmdb_id": 252815, "title": "Hot and Cold", "original_title": "Hot and Cold", "slug_title": "hot-and-cold", "date": "1933-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

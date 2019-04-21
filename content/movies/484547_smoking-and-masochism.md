@@ -1,0 +1,1 @@
+{"tmdb_id": 484547, "title": "Smoking and Masochism", "original_title": "Smoking and Masochism", "slug_title": "smoking-and-masochism", "date": "2012-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angelina Prendergast (Mimi)", "Juan Amador ()"], "comments": [], "recommandations_id": []}

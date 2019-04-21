@@ -1,0 +1,1 @@
+{"tmdb_id": 555134, "title": "Insatiable Cravings", "original_title": "Insatiable Cravings", "slug_title": "insatiable-cravings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

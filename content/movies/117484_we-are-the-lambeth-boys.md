@@ -1,0 +1,1 @@
+{"tmdb_id": 117484, "title": "We Are the Lambeth Boys", "original_title": "We Are the Lambeth Boys", "slug_title": "we-are-the-lambeth-boys", "date": "1959-03-18", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJwmIJeY1x0LxtwT3QUuE04vZiu.jpg", "actors": [], "comments": [], "recommandations_id": [152131]}

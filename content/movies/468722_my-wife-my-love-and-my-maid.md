@@ -1,0 +1,1 @@
+{"tmdb_id": 468722, "title": "My Wife, My Love and My Maid", "original_title": "\u4e00\u5b0c\u4e8c\u4fcf\u4e09\u66f4\u5999", "slug_title": "my-wife-my-love-and-my-maid", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

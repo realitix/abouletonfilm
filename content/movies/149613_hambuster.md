@@ -1,0 +1,1 @@
+{"tmdb_id": 149613, "title": "Hambuster", "original_title": "Hambuster", "slug_title": "hambuster", "date": "2011-05-22", "genre": "Animation / Com\u00e9die / Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zkwh7dYC5XMiIKKOFVU7PlKqi0.jpg", "actors": [], "comments": [], "recommandations_id": []}

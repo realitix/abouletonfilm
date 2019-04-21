@@ -1,0 +1,1 @@
+{"tmdb_id": 556602, "title": "A Remedy for Lost Time", "original_title": "A Remedy for Lost Time", "slug_title": "a-remedy-for-lost-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

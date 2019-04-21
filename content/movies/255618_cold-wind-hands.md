@@ -1,0 +1,1 @@
+{"tmdb_id": 255618, "title": "Cold Wind Hands", "original_title": "Han feng shou", "slug_title": "cold-wind-hands", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yeVI1w5dRCiO4BsTu6uGEnNZBnK.jpg", "actors": [], "comments": [], "recommandations_id": []}

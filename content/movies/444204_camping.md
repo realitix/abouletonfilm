@@ -1,0 +1,1 @@
+{"tmdb_id": 444204, "title": "Camping", "original_title": "\ucea0\ud551", "slug_title": "camping", "date": "2016-09-01", "genre": "Romance / Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQfYrEc32tgCXPfATLlS4gCNkdo.jpg", "actors": ["\uae40\uc218\uc544 ()"], "comments": [], "recommandations_id": []}

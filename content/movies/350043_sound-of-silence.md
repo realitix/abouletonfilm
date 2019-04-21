@@ -1,0 +1,1 @@
+{"tmdb_id": 350043, "title": "Sound of Silence", "original_title": "Sound of Silence", "slug_title": "sound-of-silence", "date": "2013-01-25", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

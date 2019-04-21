@@ -1,0 +1,1 @@
+{"tmdb_id": 276301, "title": "The Paris Opera Ballet: Six Ballets", "original_title": "The Paris Opera Ballet: Six Ballets", "slug_title": "the-paris-opera-ballet-six-ballets", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

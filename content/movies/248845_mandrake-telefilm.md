@@ -1,0 +1,1 @@
+{"tmdb_id": 248845, "title": "Mandrake Telefilm", "original_title": "Mandrake Telefilm", "slug_title": "mandrake-telefilm", "date": "2013-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

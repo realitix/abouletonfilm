@@ -1,0 +1,1 @@
+{"tmdb_id": 443003, "title": "Hallo Oslo!", "original_title": "Hallo Oslo!", "slug_title": "hallo-oslo", "date": "1932-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67Focpp5qffssJ5egKiAyoaB7PW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 339839, "title": "SammyClassicSonicFan's Adventure", "original_title": "SammyClassicSonicFan's Adventure", "slug_title": "sammyclassicsonicfan-s-adventure", "date": "2013-07-26", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sammy Harbors (SammyClassicSonicFan)"], "comments": [], "recommandations_id": []}

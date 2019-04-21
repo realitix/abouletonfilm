@@ -1,0 +1,1 @@
+{"tmdb_id": 344029, "title": "Untitled Stanley Cup Project", "original_title": "Untitled Stanley Cup Project", "slug_title": "untitled-stanley-cup-project", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Melissa McCarthy ()"], "comments": [], "recommandations_id": []}

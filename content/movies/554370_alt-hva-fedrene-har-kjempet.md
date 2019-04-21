@@ -1,0 +1,1 @@
+{"tmdb_id": 554370, "title": "Alt hva fedrene har kjempet", "original_title": "Alt hva fedrene har kjempet", "slug_title": "alt-hva-fedrene-har-kjempet", "date": "2018-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl-Fredrik Figenschou (Himself)"], "comments": [], "recommandations_id": []}

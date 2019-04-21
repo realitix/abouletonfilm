@@ -1,0 +1,1 @@
+{"tmdb_id": 334678, "title": "A Life Alone", "original_title": "A Life Alone", "slug_title": "a-life-alone", "date": "2009-05-15", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

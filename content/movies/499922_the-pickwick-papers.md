@@ -1,0 +1,1 @@
+{"tmdb_id": 499922, "title": "The Pickwick Papers", "original_title": "The Pickwick Papers", "slug_title": "the-pickwick-papers", "date": "1985-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbVc2a7D937iJ3wHWxyfDJ3FTQn.jpg", "actors": [], "comments": [], "recommandations_id": []}

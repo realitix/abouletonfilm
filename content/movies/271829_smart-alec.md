@@ -1,0 +1,1 @@
+{"tmdb_id": 271829, "title": "Smart Alec", "original_title": "Smart Alec", "slug_title": "smart-alec", "date": "1951-01-01", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Candy Barr (The Girl)"], "comments": [], "recommandations_id": [162691, 146670, 147819, 164127]}

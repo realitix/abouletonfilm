@@ -1,0 +1,1 @@
+{"tmdb_id": 345679, "title": "Farukhs Mynt", "original_title": "Farukhs Mynt", "slug_title": "farukhs-mynt", "date": "2011-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mustapha Rachidi (Farukh)", "Boubker Ait El Caid (Hassan)", "Hildegun Riise (Jorunn)"], "comments": [], "recommandations_id": []}

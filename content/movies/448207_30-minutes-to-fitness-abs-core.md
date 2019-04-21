@@ -1,0 +1,1 @@
+{"tmdb_id": 448207, "title": "30 Minutes to Fitness Abs & Core", "original_title": "30 Minutes to Fitness Abs & Core", "slug_title": "30-minutes-to-fitness-abs-core", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4McT0K18L8dTY45rGZsux33DTcE.jpg", "actors": [], "comments": [], "recommandations_id": []}

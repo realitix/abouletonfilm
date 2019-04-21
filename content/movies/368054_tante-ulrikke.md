@@ -1,0 +1,1 @@
+{"tmdb_id": 368054, "title": "Tante Ulrikke", "original_title": "Tante Ulrikke", "slug_title": "tante-ulrikke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

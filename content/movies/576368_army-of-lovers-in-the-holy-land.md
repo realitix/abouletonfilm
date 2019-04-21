@@ -1,0 +1,1 @@
+{"tmdb_id": 576368, "title": "Army of Lovers in the Holy Land", "original_title": "Army of Lovers in the Holy Land", "slug_title": "army-of-lovers-in-the-holy-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

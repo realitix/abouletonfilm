@@ -1,0 +1,1 @@
+{"tmdb_id": 253438, "title": "A Bridge Life: Finding Our Way Home", "original_title": "A Bridge Life: Finding Our Way Home", "slug_title": "a-bridge-life-finding-our-way-home", "date": "2009-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

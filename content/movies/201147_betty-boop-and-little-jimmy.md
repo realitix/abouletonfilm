@@ -1,0 +1,1 @@
+{"tmdb_id": 201147, "title": "Betty Boop and Little Jimmy", "original_title": "Betty Boop and Little Jimmy", "slug_title": "betty-boop-and-little-jimmy", "date": "1936-03-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sy7jDM8PtB5Uv0X9IQ424teZnnM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353910, "title": "Show Leader", "original_title": "Show Leader", "slug_title": "show-leader", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 130502, "title": "Metallica: Live in Korea", "original_title": "Metallica: Live in Korea", "slug_title": "metallica-live-in-korea", "date": "1998-04-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/U75bP79dc3nUApm3WVGnYc142I.jpg", "actors": [], "comments": [], "recommandations_id": []}

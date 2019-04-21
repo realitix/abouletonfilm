@@ -1,0 +1,1 @@
+{"tmdb_id": 397015, "title": "The Things I Cannot Change", "original_title": "The Things I Cannot Change", "slug_title": "the-things-i-cannot-change", "date": "1967-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

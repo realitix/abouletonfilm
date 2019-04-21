@@ -1,0 +1,1 @@
+{"tmdb_id": 267362, "title": "Coisa de Algu\u00e9m", "original_title": "Coisa de Algu\u00e9m", "slug_title": "coisa-de-alguem", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vIwZB3NWTp8FrLH0BBOOgcIEgMV.jpg", "actors": [], "comments": [], "recommandations_id": []}

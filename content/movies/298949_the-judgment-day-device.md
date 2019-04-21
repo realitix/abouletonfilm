@@ -1,0 +1,1 @@
+{"tmdb_id": 298949, "title": "The Judgment Day Device", "original_title": "The Judgment Day Device", "slug_title": "the-judgment-day-device", "date": "2014-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 306242, "title": "Conversation with Myself", "original_title": "Conversation with Myself", "slug_title": "conversation-with-myself", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Watts (Himself)"], "comments": [], "recommandations_id": []}

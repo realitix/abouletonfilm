@@ -1,0 +1,1 @@
+{"tmdb_id": 213764, "title": "The Man Who Can't Stop Hiccupping", "original_title": "The Man Who Can't Stop Hiccupping", "slug_title": "the-man-who-can-t-stop-hiccupping", "date": "2010-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher Sands ()"], "comments": [], "recommandations_id": []}

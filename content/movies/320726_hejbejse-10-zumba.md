@@ -1,0 +1,1 @@
+{"tmdb_id": 320726, "title": "Hejbejse 10 - Zumba", "original_title": "Hejbejse 10 - Zumba", "slug_title": "hejbejse-10-zumba", "date": "2011-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/niK4xws82IWMzr2yI8uixC1cu2I.jpg", "actors": ["Hanka Kynychov\u00e1 ()"], "comments": [], "recommandations_id": []}

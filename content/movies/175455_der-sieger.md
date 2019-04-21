@@ -1,0 +1,1 @@
+{"tmdb_id": 175455, "title": "Der Sieger", "original_title": "Der Sieger", "slug_title": "der-sieger", "date": "1921-03-08", "genre": "Animation", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hu6dKP9gQHmmQXOD3XeUkwQYfcH.jpg", "actors": [], "comments": [], "recommandations_id": [189943, 165985, 193487, 190085]}

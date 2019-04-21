@@ -1,0 +1,1 @@
+{"tmdb_id": 265354, "title": "Dooratwa", "original_title": "\u09a6\u09c2\u09b0\u09a4\u09cd\u09ac", "slug_title": "dooratwa", "date": "1979-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t7W2ovYGPnGADpnShK8c5L3zH9X.jpg", "actors": [], "comments": [], "recommandations_id": []}

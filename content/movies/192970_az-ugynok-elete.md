@@ -1,0 +1,1 @@
+{"tmdb_id": 192970, "title": "Az \u00fcgyn\u00f6k \u00e9lete", "original_title": "Az \u00fcgyn\u00f6k \u00e9lete", "slug_title": "az-ugynok-elete", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSSCkzA8n1YgbqKpWoGywcDMhbx.jpg", "actors": [], "comments": [], "recommandations_id": []}

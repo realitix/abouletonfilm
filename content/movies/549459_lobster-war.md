@@ -1,0 +1,1 @@
+{"tmdb_id": 549459, "title": "Lobster War", "original_title": "Lobster War", "slug_title": "lobster-war", "date": "2018-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6L0YRCFvkXUBppY32xkyzfPqmw.jpg", "actors": [], "comments": [], "recommandations_id": []}

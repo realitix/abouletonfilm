@@ -1,0 +1,1 @@
+{"tmdb_id": 592629, "title": "The Old Stripper", "original_title": "The Old Stripper", "slug_title": "the-old-stripper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 383852, "title": "White Bird", "original_title": "Bai niao", "slug_title": "white-bird", "date": "2016-02-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSYcTCXiPXxsh58ZRykzeLIRJLb.jpg", "actors": ["Luo Tianqing (Luo)", "Zhu Huanxue (Cousin visiting China)"], "comments": [], "recommandations_id": []}

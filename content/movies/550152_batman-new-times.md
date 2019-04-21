@@ -1,0 +1,1 @@
+{"tmdb_id": 550152, "title": "Batman: New Times", "original_title": "Batman: New Times", "slug_title": "batman-new-times", "date": "2005-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHwJLxyyO1ewVIi0f31Buvob3D0.jpg", "actors": [], "comments": [], "recommandations_id": []}

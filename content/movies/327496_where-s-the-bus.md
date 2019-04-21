@@ -1,0 +1,1 @@
+{"tmdb_id": 327496, "title": "Where's the Bus?", "original_title": "Where's the Bus?", "slug_title": "where-s-the-bus", "date": "1966-02-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teri Garr (Girl)"], "comments": [], "recommandations_id": []}

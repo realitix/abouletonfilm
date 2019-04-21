@@ -1,0 +1,1 @@
+{"tmdb_id": 211813, "title": "Devil Doll", "original_title": "Devil Doll", "slug_title": "devil-doll", "date": "1999-01-03", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

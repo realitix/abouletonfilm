@@ -1,0 +1,1 @@
+{"tmdb_id": 233789, "title": "Wrestling", "original_title": "La lutte", "slug_title": "wrestling", "date": "1961-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRYwJSkZL9bzyRPE29fFmjZQDj8.jpg", "actors": ["\u00c9douard Carpentier (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579792, "title": "Cindy of Monterrey", "original_title": "Cindy La Regia", "slug_title": "cindy-of-monterrey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cassandra S\u00e1nchez Navarro (Cindy)", "Diana Bovio ()", "Regina Bland\u00f3n ()", "Giuseppe Gamba ()"], "comments": [], "recommandations_id": []}

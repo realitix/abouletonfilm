@@ -1,0 +1,1 @@
+{"tmdb_id": 339943, "title": "Girl Gone Bad", "original_title": "Girl Gone Bad", "slug_title": "girl-gone-bad", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

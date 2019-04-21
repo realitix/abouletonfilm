@@ -1,0 +1,1 @@
+{"tmdb_id": 320308, "title": "Swan Song", "original_title": "Juexiang", "slug_title": "swan-song", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

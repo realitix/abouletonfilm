@@ -1,0 +1,1 @@
+{"tmdb_id": 443566, "title": "Yodaka's Star", "original_title": "\u3088\u3060\u304b\u306e\u307b\u3057", "slug_title": "yodaka-s-star", "date": "2012-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bz88uNK0x7IpYTegdhKkicBbtRm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 270661, "title": "No Bright Lights", "original_title": "No Bright Lights", "slug_title": "no-bright-lights", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

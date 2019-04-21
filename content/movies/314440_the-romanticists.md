@@ -1,0 +1,1 @@
+{"tmdb_id": 314440, "title": "The Romanticists", "original_title": "The Romanticists", "slug_title": "the-romanticists", "date": "2014-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

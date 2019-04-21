@@ -1,0 +1,1 @@
+{"tmdb_id": 194597, "title": "Munich, Maximilianeum", "original_title": "Munich, Maximilianeum", "slug_title": "munich-maximilianeum", "date": "1896-05-18", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

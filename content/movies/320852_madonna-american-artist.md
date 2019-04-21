@@ -1,0 +1,1 @@
+{"tmdb_id": 320852, "title": "Madonna: American Artist", "original_title": "Madonna: American Artist", "slug_title": "madonna-american-artist", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

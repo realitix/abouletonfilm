@@ -1,0 +1,1 @@
+{"tmdb_id": 403990, "title": "Bobby Bumps Gets a Substitute", "original_title": "Bobby Bumps Gets a Substitute", "slug_title": "bobby-bumps-gets-a-substitute", "date": "1916-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

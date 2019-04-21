@@ -1,0 +1,1 @@
+{"tmdb_id": 549863, "title": "It's Tough to Be a Bug", "original_title": "It's Tough to Be a Bug", "slug_title": "it-s-tough-to-be-a-bug", "date": "1998-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/957DL90Z76viWUwQZi5kuWLYwwr.jpg", "actors": [], "comments": [], "recommandations_id": []}

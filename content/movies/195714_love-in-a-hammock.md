@@ -1,0 +1,1 @@
+{"tmdb_id": 195714, "title": "Love in a Hammock", "original_title": "Love in a Hammock", "slug_title": "love-in-a-hammock", "date": "1901-01-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329721, "title": "Kalighaat Fetish", "original_title": "Kulighat Atikatha", "slug_title": "kalighaat-fetish", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ACCTvZ553EjDKRosFSICXHa2uG.jpg", "actors": [], "comments": [], "recommandations_id": []}

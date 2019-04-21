@@ -1,0 +1,1 @@
+{"tmdb_id": 293286, "title": "The Opium War", "original_title": "\u963f\u7247\u6226\u4e89", "slug_title": "the-opium-war", "date": "1943-01-14", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqSjR0gydavMImGe3Uo37yjPsN6.jpg", "actors": [], "comments": [], "recommandations_id": []}

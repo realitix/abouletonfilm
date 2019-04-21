@@ -1,0 +1,1 @@
+{"tmdb_id": 137150, "title": "Se Me Arrug\u00f3 de Miedo", "original_title": "Se Me Arrug\u00f3 de Miedo", "slug_title": "se-me-arrugo-de-miedo", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Almada ()", "Carlos Samperio ()", "Yesenia Espezzia ()"], "comments": [], "recommandations_id": []}

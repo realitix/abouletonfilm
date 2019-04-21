@@ -1,0 +1,1 @@
+{"tmdb_id": 486501, "title": "Josephine", "original_title": "Josephine", "slug_title": "josephine", "date": "2016-10-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yzqvrc7TxgM8I1KIptV4tLps4kk.jpg", "actors": [], "comments": [], "recommandations_id": []}

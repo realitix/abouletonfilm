@@ -1,0 +1,1 @@
+{"tmdb_id": 293647, "title": "Plastic", "original_title": "Pl\u00e1stico", "slug_title": "plastic", "date": "2015-07-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juPSBdcB5Yn3OpbugvMlw2cZDQC.jpg", "actors": ["Fernando \u00c1lvarez Rebeil ()", "Florencia R\u00edos ()"], "comments": [], "recommandations_id": []}

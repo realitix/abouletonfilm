@@ -1,0 +1,1 @@
+{"tmdb_id": 521879, "title": "Enak Tho Zamanku, Piye Kabare", "original_title": "Enak Tho Zamanku, Piye Kabare", "slug_title": "enak-tho-zamanku-piye-kabare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mgRbZNQkgoCqmIAnA2TidKrlQTk.jpg", "actors": [], "comments": [], "recommandations_id": []}

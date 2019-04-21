@@ -1,0 +1,1 @@
+{"tmdb_id": 561761, "title": "L'inspecteur aime la bagarre", "original_title": "L'inspecteur aime la bagarre", "slug_title": "l-inspecteur-aime-la-bagarre", "date": "1957-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5z6BJWotALh0ugUMPzDsT4DtWxh.jpg", "actors": [], "comments": [], "recommandations_id": []}

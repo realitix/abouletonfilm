@@ -1,0 +1,1 @@
+{"tmdb_id": 313157, "title": "Bellini: I Puritani: The Metropolitan Opera", "original_title": "Bellini: I Puritani: The Metropolitan Opera", "slug_title": "bellini-i-puritani-the-metropolitan-opera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

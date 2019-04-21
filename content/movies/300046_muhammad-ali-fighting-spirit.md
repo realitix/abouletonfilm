@@ -1,0 +1,1 @@
+{"tmdb_id": 300046, "title": "Muhammad Ali: Fighting Spirit", "original_title": "Muhammad Ali: Fighting Spirit", "slug_title": "muhammad-ali-fighting-spirit", "date": "2009-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izoGcogmpZqIiXMyKFiGOlJ8jfJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

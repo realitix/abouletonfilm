@@ -1,0 +1,1 @@
+{"tmdb_id": 253658, "title": "Inkerin vanhaa tekniikkaa", "original_title": "Inkerin vanhaa tekniikkaa", "slug_title": "inkerin-vanhaa-tekniikkaa", "date": "1938-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

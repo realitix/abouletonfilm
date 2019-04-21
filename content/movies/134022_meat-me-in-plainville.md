@@ -1,0 +1,1 @@
+{"tmdb_id": 134022, "title": "Meat Me in Plainville", "original_title": "Meat Me in Plainville", "slug_title": "meat-me-in-plainville", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jgkH4Aaa1FmLXgeMZ5QVeno7AG.jpg", "actors": [], "comments": [], "recommandations_id": []}

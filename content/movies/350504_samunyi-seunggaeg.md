@@ -1,0 +1,1 @@
+{"tmdb_id": 350504, "title": "\uc0ac\ubb38\uc758 \uc2b9\uac1d", "original_title": "\uc0ac\ubb38\uc758 \uc2b9\uac1d", "slug_title": "samunyi-seunggaeg", "date": "1979-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

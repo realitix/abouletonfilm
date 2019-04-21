@@ -1,0 +1,1 @@
+{"tmdb_id": 424030, "title": "Queens of Harmony", "original_title": "Queens of Harmony", "slug_title": "queens-of-harmony", "date": "1937-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phil Spitalny ()", "Evelyn Kaye Klein ()", "Maxine Moore ()", "Rochelle and Lola ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578757, "title": "Trekking on Tradition", "original_title": "Trekking on Tradition", "slug_title": "trekking-on-tradition", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487567, "title": "Mendel lebt", "original_title": "Mendel lebt", "slug_title": "mendel-lebt", "date": "1999-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fCTmUqrEuKo0ojx7O6WUniWfDnM.jpg", "actors": [], "comments": [], "recommandations_id": []}

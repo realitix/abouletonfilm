@@ -1,0 +1,1 @@
+{"tmdb_id": 583808, "title": "My Generation", "original_title": "My Generation", "slug_title": "my-generation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o13brsxXnhc3ve6NyjZ60VxukEs.jpg", "actors": [], "comments": [], "recommandations_id": []}

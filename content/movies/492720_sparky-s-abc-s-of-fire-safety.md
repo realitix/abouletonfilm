@@ -1,0 +1,1 @@
+{"tmdb_id": 492720, "title": "Sparky's ABC's of Fire Safety", "original_title": "Sparky's ABC's of Fire Safety", "slug_title": "sparky-s-abc-s-of-fire-safety", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3tMb9RtHWmWwhvCcehH880xgLIE.jpg", "actors": [], "comments": [], "recommandations_id": []}

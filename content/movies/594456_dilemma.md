@@ -1,0 +1,1 @@
+{"tmdb_id": 594456, "title": "Dilemma", "original_title": "Dilemma", "slug_title": "dilemma", "date": "1981-01-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTfNMVri02rkMkF822MArmVO3YK.jpg", "actors": [], "comments": [], "recommandations_id": []}

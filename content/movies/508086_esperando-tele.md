@@ -1,0 +1,1 @@
+{"tmdb_id": 508086, "title": "Esperando Tel\u00ea", "original_title": "Esperando Tel\u00ea", "slug_title": "esperando-tele", "date": "2010-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

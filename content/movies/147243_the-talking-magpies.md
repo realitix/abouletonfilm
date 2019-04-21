@@ -1,0 +1,1 @@
+{"tmdb_id": 147243, "title": "The Talking Magpies", "original_title": "The Talking Magpies", "slug_title": "the-talking-magpies", "date": "1946-01-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cn1JSMVOoS2rS5qlkDyN5Vf9KTi.jpg", "actors": [], "comments": [], "recommandations_id": []}

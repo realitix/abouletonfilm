@@ -1,0 +1,1 @@
+{"tmdb_id": 593557, "title": "Not That Kind of Christian!", "original_title": "Not That Kind of Christian!", "slug_title": "not-that-kind-of-christian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

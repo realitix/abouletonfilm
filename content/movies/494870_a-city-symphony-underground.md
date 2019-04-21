@@ -1,0 +1,1 @@
+{"tmdb_id": 494870, "title": "A City Symphony Underground", "original_title": "A City Symphony Underground", "slug_title": "a-city-symphony-underground", "date": "2010-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

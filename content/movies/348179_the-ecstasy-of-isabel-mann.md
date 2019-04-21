@@ -1,0 +1,1 @@
+{"tmdb_id": 348179, "title": "The Ecstasy of Isabel Mann", "original_title": "The Ecstasy of Isabel Mann", "slug_title": "the-ecstasy-of-isabel-mann", "date": "2012-12-20", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/26nesMx4j9OK7aaOoaaXESDU3p5.jpg", "actors": [], "comments": [], "recommandations_id": []}

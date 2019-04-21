@@ -1,0 +1,1 @@
+{"tmdb_id": 455926, "title": "Stampcafe\u0301", "original_title": "Stampcafe\u0301", "slug_title": "stampcafe", "date": "1972-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMh4Fv5NLvxhzgSp5fwmb3fmn73.jpg", "actors": [], "comments": [], "recommandations_id": []}

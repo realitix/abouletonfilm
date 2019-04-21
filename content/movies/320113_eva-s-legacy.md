@@ -1,0 +1,1 @@
+{"tmdb_id": 320113, "title": "Eva's Legacy", "original_title": "Eva's Legacy", "slug_title": "eva-s-legacy", "date": "2015-01-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

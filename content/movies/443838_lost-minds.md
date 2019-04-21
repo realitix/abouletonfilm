@@ -1,0 +1,1 @@
+{"tmdb_id": 443838, "title": "Lost Minds", "original_title": "\u5931\u5fc3\u8005", "slug_title": "lost-minds", "date": "2016-12-23", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0PTDpKG6DXL2u0FB4IgolN8zqL.jpg", "actors": [], "comments": [], "recommandations_id": []}

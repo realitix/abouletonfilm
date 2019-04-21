@@ -1,0 +1,1 @@
+{"tmdb_id": 395533, "title": "Hitler's Death Army", "original_title": "Das Reich", "slug_title": "hitler-s-death-army", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80Ta8NQt04vmzJGcYmPn8Vc8agn.jpg", "actors": [], "comments": [], "recommandations_id": []}

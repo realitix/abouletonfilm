@@ -1,0 +1,1 @@
+{"tmdb_id": 187882, "title": "Jazz Mad", "original_title": "Jazz Mad", "slug_title": "jazz-mad", "date": "1931-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

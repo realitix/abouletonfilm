@@ -1,0 +1,1 @@
+{"tmdb_id": 105305, "title": "Panoramic View of the Morecambe Sea Front", "original_title": "Panoramic View of the Morecambe Sea Front", "slug_title": "panoramic-view-of-the-morecambe-sea-front", "date": "1901-01-01", "genre": "Documentaire", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294386, "title": "Writing Kung Fu", "original_title": "\u6587\u6253", "slug_title": "writing-kung-fu", "date": "1979-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yw37KiBUTt1m8C00p4mOFuCXE5B.jpg", "actors": [], "comments": [], "recommandations_id": []}

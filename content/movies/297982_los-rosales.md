@@ -1,0 +1,1 @@
+{"tmdb_id": 297982, "title": "Los Rosales", "original_title": "Los Rosales", "slug_title": "los-rosales", "date": "2013-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a5ujrTbRNNIEVLTRjmSuvknOBYn.jpg", "actors": [], "comments": [], "recommandations_id": []}

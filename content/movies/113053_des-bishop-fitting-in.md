@@ -1,0 +1,1 @@
+{"tmdb_id": 113053, "title": "Des Bishop: Fitting In", "original_title": "Des Bishop: Fitting In", "slug_title": "des-bishop-fitting-in", "date": "2006-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDjPOTBc3JIxOoaBSPNzoUQwgrp.jpg", "actors": ["Des Bishop (Himself)"], "comments": [], "recommandations_id": []}

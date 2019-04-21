@@ -1,0 +1,1 @@
+{"tmdb_id": 332748, "title": "Very Semi-Serious", "original_title": "Very Semi-Serious", "slug_title": "very-semi-serious", "date": "2015-04-19", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1HO8H2Gs9AiuxaJrz8Lym2cAybf.jpg", "actors": ["Bob Mankoff (Himself)"], "comments": [], "recommandations_id": []}

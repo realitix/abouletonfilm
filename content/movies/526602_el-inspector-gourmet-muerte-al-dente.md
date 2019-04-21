@@ -1,0 +1,1 @@
+{"tmdb_id": 526602, "title": "El Inspector Gourmet: Muerte al dente", "original_title": "El Inspector Gourmet: Muerte al dente", "slug_title": "el-inspector-gourmet-muerte-al-dente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

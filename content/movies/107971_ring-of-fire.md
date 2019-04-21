@@ -1,0 +1,1 @@
+{"tmdb_id": 107971, "title": "Ring of Fire", "original_title": "Ring of Fire", "slug_title": "ring-of-fire", "date": "2000-10-01", "genre": "Action / Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbifTuRKJZrOgoaHaZjTtmY3TIu.jpg", "actors": ["David Michael Williamson ()"], "comments": [], "recommandations_id": []}

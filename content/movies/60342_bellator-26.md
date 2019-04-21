@@ -1,0 +1,1 @@
+{"tmdb_id": 60342, "title": "Bellator 26", "original_title": "Bellator 26", "slug_title": "bellator-26", "date": "2010-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b4bADZzgFmnhlMwwOlSNb88Ykc7.jpg", "actors": [], "comments": [], "recommandations_id": []}

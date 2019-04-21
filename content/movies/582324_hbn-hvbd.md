@@ -1,0 +1,1 @@
+{"tmdb_id": 582324, "title": "\u05d4\u05d1\u05df \u05d4\u05d0\u05d5\u05d1\u05d3", "original_title": "\u05d4\u05d1\u05df \u05d4\u05d0\u05d5\u05d1\u05d3", "slug_title": "hbn-hvbd", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 98288, "title": "Destroyer:  Forged in Steel", "original_title": "Destroyer:  Forged in Steel", "slug_title": "destroyer-forged-in-steel", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oelSBubodOQa6b5XyloWGnYYaA7.jpg", "actors": [], "comments": [], "recommandations_id": []}

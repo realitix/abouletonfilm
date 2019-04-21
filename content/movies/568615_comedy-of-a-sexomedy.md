@@ -1,0 +1,1 @@
+{"tmdb_id": 568615, "title": "Comedy of a Sexomedy", "original_title": "Comedy of a Sexomedy", "slug_title": "comedy-of-a-sexomedy", "date": "2011-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

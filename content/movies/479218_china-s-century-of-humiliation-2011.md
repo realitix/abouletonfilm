@@ -1,0 +1,1 @@
+{"tmdb_id": 479218, "title": "China's Century of Humiliation (2011)", "original_title": "China's Century Of Humiliation", "slug_title": "china-s-century-of-humiliation-2011", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

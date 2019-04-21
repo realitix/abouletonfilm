@@ -1,0 +1,1 @@
+{"tmdb_id": 510961, "title": "Cachoeira/ De'a", "original_title": "Cachoeira/ De'a", "slug_title": "cachoeira-de-a", "date": "2010-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wp44RTFJohGmyVB9RKJBSkaz6U.jpg", "actors": ["Beg\u00ea Muniz ()", "Anderson Tikuna ()"], "comments": [], "recommandations_id": []}

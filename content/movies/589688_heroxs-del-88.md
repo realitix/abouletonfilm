@@ -1,0 +1,1 @@
+{"tmdb_id": 589688, "title": "H\u00e9roxs del 88", "original_title": "H\u00e9roxs del 88", "slug_title": "heroxs-del-88", "date": "2019-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

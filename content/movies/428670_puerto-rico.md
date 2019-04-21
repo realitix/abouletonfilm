@@ -1,0 +1,1 @@
+{"tmdb_id": 428670, "title": "Puerto Rico", "original_title": "Puerto Rico", "slug_title": "puerto-rico", "date": "1975-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BB2oTVRtxMShY6YwoZMMGb7m6n.jpg", "actors": [], "comments": [], "recommandations_id": []}

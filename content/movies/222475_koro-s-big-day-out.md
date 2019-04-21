@@ -1,0 +1,1 @@
+{"tmdb_id": 222475, "title": "Koro's Big Day Out", "original_title": "\u30b3\u30ed\u306e\u5927\u3055\u3093\u307d", "slug_title": "koro-s-big-day-out", "date": "2002-01-01", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9Vpa93BBX7zjAOZoSgUIKmGWSF.jpg", "actors": [], "comments": [], "recommandations_id": []}

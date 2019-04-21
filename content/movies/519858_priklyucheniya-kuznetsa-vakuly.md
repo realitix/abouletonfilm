@@ -1,0 +1,1 @@
+{"tmdb_id": 519858, "title": "Priklyucheniya kuznetsa Vakuly", "original_title": "Priklyucheniya kuznetsa Vakuly", "slug_title": "priklyucheniya-kuznetsa-vakuly", "date": "", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

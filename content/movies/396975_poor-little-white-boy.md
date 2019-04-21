@@ -1,0 +1,1 @@
+{"tmdb_id": 396975, "title": "Poor Little White Boy", "original_title": "Poor Little White Boy", "slug_title": "poor-little-white-boy", "date": "2003-10-29", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rocky Moore (Token White Boy)", "Bleu Black ()"], "comments": [], "recommandations_id": []}

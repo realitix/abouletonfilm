@@ -1,0 +1,1 @@
+{"tmdb_id": 298692, "title": "The Tiger's Mind", "original_title": "The Tiger's Mind", "slug_title": "the-tiger-s-mind", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7soBc2Odx6imOMa0Xoz6HY1mYFn.jpg", "actors": [], "comments": [], "recommandations_id": []}

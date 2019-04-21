@@ -1,0 +1,1 @@
+{"tmdb_id": 393016, "title": "Armageddon or The End", "original_title": "Armagedon ili kraj", "slug_title": "armageddon-or-the-end", "date": "1964-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzAOnbCA2nbQ1mtGAGs8SbuU7DF.jpg", "actors": [], "comments": [], "recommandations_id": []}

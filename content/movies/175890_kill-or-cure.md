@@ -1,0 +1,1 @@
+{"tmdb_id": 175890, "title": "Kill or Cure", "original_title": "Kill or Cure", "slug_title": "kill-or-cure", "date": "1923-07-14", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPB9OuFCpmk0Orkjr8plnbme9jU.jpg", "actors": ["Stan Laurel ()"], "comments": [], "recommandations_id": []}

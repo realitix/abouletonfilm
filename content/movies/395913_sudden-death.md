@@ -1,0 +1,1 @@
+{"tmdb_id": 395913, "title": "Sudden Death", "original_title": "Sudden Death", "slug_title": "sudden-death", "date": "1995-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1dTcjZWRnD3LSLVZHVCN9kxu8d.jpg", "actors": ["Mark Sullivan (Narrator)"], "comments": [], "recommandations_id": []}

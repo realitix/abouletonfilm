@@ -1,0 +1,1 @@
+{"tmdb_id": 336608, "title": "Auto Antics", "original_title": "Auto Antics", "slug_title": "auto-antics", "date": "1939-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

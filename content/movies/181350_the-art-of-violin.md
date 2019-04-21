@@ -1,0 +1,1 @@
+{"tmdb_id": 181350, "title": "The Art of Violin", "original_title": "The Art of Violin", "slug_title": "the-art-of-violin", "date": "2000-12-03", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kqPJ8Nsh6JhM86WqOmZY1VMk23O.jpg", "actors": [], "comments": [], "recommandations_id": []}

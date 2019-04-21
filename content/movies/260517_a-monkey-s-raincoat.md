@@ -1,0 +1,1 @@
+{"tmdb_id": 260517, "title": "A Monkey's Raincoat", "original_title": "A Monkey's Raincoat", "slug_title": "a-monkey-s-raincoat", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

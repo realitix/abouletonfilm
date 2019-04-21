@@ -1,0 +1,1 @@
+{"tmdb_id": 565445, "title": "Return of the Monster Maker", "original_title": "Return of the Monster Maker", "slug_title": "return-of-the-monster-maker", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86Toz92PDXMXG9QbSKKIQGZFka4.jpg", "actors": [], "comments": [], "recommandations_id": []}

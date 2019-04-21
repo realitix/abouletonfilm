@@ -1,0 +1,1 @@
+{"tmdb_id": 114511, "title": "Journey into Self", "original_title": "Journey into Self", "slug_title": "journey-into-self", "date": "1969-03-20", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8wpcaNstC2b9gXT7nu8A0XvBfg.jpg", "actors": ["Carl Rogers (Himself)"], "comments": [], "recommandations_id": []}

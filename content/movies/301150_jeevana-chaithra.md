@@ -1,0 +1,1 @@
+{"tmdb_id": 301150, "title": "Jeevana Chaithra", "original_title": "Jeevana Chaithra", "slug_title": "jeevana-chaithra", "date": "1992-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366006, "title": "Insurance", "original_title": "Insurance", "slug_title": "insurance", "date": "1930-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Cantor (Sidney B. Zwieback)"], "comments": [], "recommandations_id": []}

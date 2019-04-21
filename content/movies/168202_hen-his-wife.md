@@ -1,0 +1,1 @@
+{"tmdb_id": 168202, "title": "Hen, His Wife", "original_title": "Yego zhena kuritsa", "slug_title": "hen-his-wife", "date": "1990-05-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysEH9Rs3Xn95qdSGjpSKhBMaDJP.jpg", "actors": [], "comments": [], "recommandations_id": [277677, 224382, 118792, 69328]}

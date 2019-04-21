@@ -1,0 +1,1 @@
+{"tmdb_id": 336783, "title": "Ruler of the Roost", "original_title": "Ruler of the Roost", "slug_title": "ruler-of-the-roost", "date": "2014-08-18", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mqYZUcVOFJ0kpC75t4odRaICD1.jpg", "actors": [], "comments": [], "recommandations_id": []}

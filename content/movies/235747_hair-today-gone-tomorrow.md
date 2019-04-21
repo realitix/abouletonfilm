@@ -1,0 +1,1 @@
+{"tmdb_id": 235747, "title": "Hair Today, Gone Tomorrow", "original_title": "Hair Today, Gone Tomorrow", "slug_title": "hair-today-gone-tomorrow", "date": "1954-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

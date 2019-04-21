@@ -1,0 +1,1 @@
+{"tmdb_id": 346876, "title": "A Schoolhouse Scandal", "original_title": "A Schoolhouse Scandal", "slug_title": "a-schoolhouse-scandal", "date": "1919-12-07", "genre": "Fantastique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polly Moran ()", "Slim Summerville ()", "Jack Cooper ()"], "comments": [], "recommandations_id": []}

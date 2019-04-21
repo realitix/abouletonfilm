@@ -1,0 +1,1 @@
+{"tmdb_id": 382339, "title": "Lucky Luke - Dr. Doxey's Elixir", "original_title": "Lucky Luke - Dr. Doxey's Elixir", "slug_title": "lucky-luke-dr-doxey-s-elixir", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wehHOzIkhcZWffCnwnPu2vuaZKt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 170901, "title": "Death Diploma", "original_title": "Death Diploma", "slug_title": "death-diploma", "date": "1987-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnXspCNTJfMHl0B7JWhQMz5ZnnT.jpg", "actors": [], "comments": [], "recommandations_id": []}

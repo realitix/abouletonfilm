@@ -1,0 +1,1 @@
+{"tmdb_id": 348575, "title": "El Contrato", "original_title": "El Contrato", "slug_title": "el-contrato", "date": "2003-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria del Mar (Narrator)"], "comments": [], "recommandations_id": []}

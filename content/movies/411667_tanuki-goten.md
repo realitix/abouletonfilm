@@ -1,0 +1,1 @@
+{"tmdb_id": 411667, "title": "Tanuki goten", "original_title": "Tanuki goten", "slug_title": "tanuki-goten", "date": "1939-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ry\u00f4nosuke Azuma ()", "Tar\u00f4 Band\u00f4 ()", "Shunzaburo Iba ()", "Fujine Kaori ()", "Matsuko Miho ()"], "comments": [], "recommandations_id": []}

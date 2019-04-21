@@ -1,0 +1,1 @@
+{"tmdb_id": 64121, "title": "Kostbare Augenblicke", "original_title": "Kostbare Augenblicke", "slug_title": "kostbare-augenblicke", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aJ2l3QBhBMl79NyPsylqh028PX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 196429, "title": "Sarang kuntilanak", "original_title": "Sarang kuntilanak", "slug_title": "sarang-kuntilanak", "date": "2008-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ixuEPT1U4KgYlEZSj5rD2kYQEN2.jpg", "actors": [], "comments": [], "recommandations_id": []}

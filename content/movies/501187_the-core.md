@@ -1,0 +1,1 @@
+{"tmdb_id": 501187, "title": "The Core", "original_title": "The Core", "slug_title": "the-core", "date": "2005-03-24", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2cfazG61QD8Ro0kHJNJChEAwDy.jpg", "actors": ["Dean Potter ()"], "comments": [], "recommandations_id": []}

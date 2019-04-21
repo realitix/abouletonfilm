@@ -1,0 +1,1 @@
+{"tmdb_id": 366211, "title": "Cruise Patrol", "original_title": "Cruise Patrol", "slug_title": "cruise-patrol", "date": "2015-06-06", "genre": "Science-Fiction / Animation / Action / Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3REbQzNFP0pXhzxeNc8H1NoUUWl.jpg", "actors": [], "comments": [], "recommandations_id": []}

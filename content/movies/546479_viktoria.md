@@ -1,0 +1,1 @@
+{"tmdb_id": 546479, "title": "Viktor\u00eda", "original_title": "Viktor\u00eda", "slug_title": "viktoria", "date": "2018-09-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hImQhlwhu4LBYwV2sp4byEAUndt.jpg", "actors": ["Ingrid J\u00f3nsd\u00f3ttir (Viktor\u00eda)"], "comments": [], "recommandations_id": []}

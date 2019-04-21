@@ -1,0 +1,1 @@
+{"tmdb_id": 392226, "title": "Barbie - P\u00e4rlprincessan", "original_title": "Barbie - P\u00e4rlprincessan", "slug_title": "barbie-parlprincessan", "date": "2014-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

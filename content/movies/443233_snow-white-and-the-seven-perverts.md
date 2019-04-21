@@ -1,0 +1,1 @@
+{"tmdb_id": 443233, "title": "Snow White and the Seven Perverts", "original_title": "Snow White and the Seven Perverts", "slug_title": "snow-white-and-the-seven-perverts", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

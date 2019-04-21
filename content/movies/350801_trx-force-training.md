@@ -1,0 +1,1 @@
+{"tmdb_id": 350801, "title": "TRX Force Training", "original_title": "TRX Force Training", "slug_title": "trx-force-training", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

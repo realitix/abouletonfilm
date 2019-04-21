@@ -1,0 +1,1 @@
+{"tmdb_id": 305163, "title": "Polidor diventa forte", "original_title": "Polidor diventa forte", "slug_title": "polidor-diventa-forte", "date": "1916-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polidor (Polidor)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 447011, "title": "Computer Game", "original_title": "Computer Game", "slug_title": "computer-game", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bHIhCOCos8BdYdms9IbbkIgqksH.jpg", "actors": [], "comments": [], "recommandations_id": []}

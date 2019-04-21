@@ -1,0 +1,1 @@
+{"tmdb_id": 529453, "title": "Vera and Erzika", "original_title": "Vera i Er\u017eika", "slug_title": "vera-and-erzika", "date": "1981-06-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7vzpUdLZmnhuDq2qFsdJ5doRp2.jpg", "actors": [], "comments": [], "recommandations_id": []}

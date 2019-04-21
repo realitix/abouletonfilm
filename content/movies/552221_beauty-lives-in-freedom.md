@@ -1,0 +1,1 @@
+{"tmdb_id": 552221, "title": "Beauty Lives in Freedom", "original_title": "Beauty Lives in Freedom", "slug_title": "beauty-lives-in-freedom", "date": "2018-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drSBSOcxWdSWXm4wQJ7JFAqyHZ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

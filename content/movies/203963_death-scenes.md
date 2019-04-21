@@ -1,0 +1,1 @@
+{"tmdb_id": 203963, "title": "Death Scenes", "original_title": "Death Scenes", "slug_title": "death-scenes", "date": "1989-01-01", "genre": "Documentaire / Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pjiB8uxkUiF7hiYODWGGCQWSP49.jpg", "actors": ["Anton LaVey (Himself)"], "comments": [], "recommandations_id": []}

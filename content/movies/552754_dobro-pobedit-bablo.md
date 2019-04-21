@@ -1,0 +1,1 @@
+{"tmdb_id": 552754, "title": "DOBRO POBEDIT BABLO ?/.", "original_title": "DOBRO POBEDIT BABLO ?/.", "slug_title": "dobro-pobedit-bablo", "date": "2018-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40kqHOvdiWFrpu74o3cJGxMW1WD.jpg", "actors": [], "comments": [], "recommandations_id": []}

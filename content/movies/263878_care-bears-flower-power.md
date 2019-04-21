@@ -1,0 +1,1 @@
+{"tmdb_id": 263878, "title": "Care Bears: Flower Power", "original_title": "Care Bears: Flower Power", "slug_title": "care-bears-flower-power", "date": "2011-06-07", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyoUSj4gfJJewWjXI0CqGDKyPdw.jpg", "actors": [], "comments": [], "recommandations_id": []}

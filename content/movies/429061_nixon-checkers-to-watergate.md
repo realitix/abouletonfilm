@@ -1,0 +1,1 @@
+{"tmdb_id": 429061, "title": "Nixon: Checkers to Watergate", "original_title": "Nixon: Checkers to Watergate", "slug_title": "nixon-checkers-to-watergate", "date": "1976-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Nixon ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 418425, "title": "Eiyuu Gaiden Mozaicka", "original_title": "Eiyuu Gaiden Mozaicka", "slug_title": "eiyuu-gaiden-mozaicka", "date": "1991-11-21", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fpYMLxItW4ZdeLTrnWxR5vAHRAQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

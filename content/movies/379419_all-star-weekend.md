@@ -1,0 +1,1 @@
+{"tmdb_id": 379419, "title": "All Star Weekend", "original_title": "All Star Weekend", "slug_title": "all-star-weekend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jyMloT8Iu3dil7u1b1NafiyPKWZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

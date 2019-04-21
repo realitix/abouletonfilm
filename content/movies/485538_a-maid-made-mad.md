@@ -1,0 +1,1 @@
+{"tmdb_id": 485538, "title": "A Maid Made Mad", "original_title": "A Maid Made Mad", "slug_title": "a-maid-made-mad", "date": "1943-03-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde, owner of Women's Clothing Store)"], "comments": [], "recommandations_id": []}

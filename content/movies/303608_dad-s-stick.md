@@ -1,0 +1,1 @@
+{"tmdb_id": 303608, "title": "Dad's Stick", "original_title": "Dad's Stick", "slug_title": "dad-s-stick", "date": "2012-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yYTt8kX9HQkUcZTcsZkgZyeplRt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 357596, "title": "Boy Bishop of Berden", "original_title": "Boy Bishop of Berden", "slug_title": "boy-bishop-of-berden", "date": "1927-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

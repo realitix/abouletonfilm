@@ -1,0 +1,1 @@
+{"tmdb_id": 546354, "title": "Love, Cecy", "original_title": "Love, Cecy", "slug_title": "love-cecy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

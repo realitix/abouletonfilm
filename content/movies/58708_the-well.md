@@ -1,0 +1,1 @@
+{"tmdb_id": 58708, "title": "The Well", "original_title": "The Well", "slug_title": "the-well", "date": "1997-05-14", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kssi4xWi186tvAvwK0H9x3mTaHu.jpg", "actors": ["Pamela Rabe (Hester)", "Miranda Otto (Katherine)"], "comments": [], "recommandations_id": [130822, 117882]}

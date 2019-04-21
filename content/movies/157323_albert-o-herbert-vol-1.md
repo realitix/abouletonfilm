@@ -1,0 +1,1 @@
+{"tmdb_id": 157323, "title": "Albert o Herbert vol 1", "original_title": "Albert o Herbert vol 1", "slug_title": "albert-o-herbert-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

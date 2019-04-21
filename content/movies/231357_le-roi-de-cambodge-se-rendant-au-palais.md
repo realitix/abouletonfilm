@@ -1,0 +1,1 @@
+{"tmdb_id": 231357, "title": "Le roi de Cambodge se rendant au Palais", "original_title": "Le roi de Cambodge se rendant au Palais", "slug_title": "le-roi-de-cambodge-se-rendant-au-palais", "date": "1902-10-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

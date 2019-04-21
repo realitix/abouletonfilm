@@ -1,0 +1,1 @@
+{"tmdb_id": 559874, "title": "Le bagnard", "original_title": "Le bagnard", "slug_title": "le-bagnard", "date": "1951-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNM7iFboT0iAP3AZXIDQGrcM83z.jpg", "actors": [], "comments": [], "recommandations_id": []}

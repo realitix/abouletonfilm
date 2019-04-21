@@ -1,0 +1,1 @@
+{"tmdb_id": 547552, "title": "StoryCorps Shorts: Detective Simmons", "original_title": "StoryCorps Shorts: Detective Simmons", "slug_title": "storycorps-shorts-detective-simmons", "date": "2018-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

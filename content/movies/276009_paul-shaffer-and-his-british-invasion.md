@@ -1,0 +1,1 @@
+{"tmdb_id": 276009, "title": "Paul Shaffer and His British Invasion", "original_title": "Paul Shaffer and His British Invasion", "slug_title": "paul-shaffer-and-his-british-invasion", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

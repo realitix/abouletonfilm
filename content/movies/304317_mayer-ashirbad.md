@@ -1,0 +1,1 @@
+{"tmdb_id": 304317, "title": "Mayer Ashirbad", "original_title": "Mayer Ashirbad", "slug_title": "mayer-ashirbad", "date": "1982-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

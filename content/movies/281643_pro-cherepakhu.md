@@ -1,0 +1,1 @@
+{"tmdb_id": 281643, "title": "\u041f\u0440\u043e \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0443", "original_title": "\u041f\u0440\u043e \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0443", "slug_title": "pro-cherepakhu", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

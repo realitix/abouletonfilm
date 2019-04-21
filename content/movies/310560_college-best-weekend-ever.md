@@ -1,0 +1,1 @@
+{"tmdb_id": 310560, "title": "College - Best. Weekend. Ever.", "original_title": "College - Best. Weekend. Ever.", "slug_title": "college-best-weekend-ever", "date": "2008-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90Vy52ryvE0rbIZ6jeNyMuwcBdp.jpg", "actors": [], "comments": [], "recommandations_id": []}

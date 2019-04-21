@@ -1,0 +1,1 @@
+{"tmdb_id": 416043, "title": "Hwang-gu", "original_title": "\ud669\uad6c", "slug_title": "hwang-gu", "date": "2014-10-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkrluiLeXxBpnumoOLx5HGiy2nl.jpg", "actors": ["Kwon So-hyun (Mi-su)"], "comments": [], "recommandations_id": []}

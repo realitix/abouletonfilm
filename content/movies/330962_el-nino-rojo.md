@@ -1,0 +1,1 @@
+{"tmdb_id": 330962, "title": "El Ni\u00f1o Rojo", "original_title": "El Ni\u00f1o Rojo", "slug_title": "el-nino-rojo", "date": "2014-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/39g7besYGxqb4rHw9DYqFMWcNmH.jpg", "actors": [], "comments": [], "recommandations_id": []}

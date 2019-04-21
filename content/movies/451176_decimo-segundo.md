@@ -1,0 +1,1 @@
+{"tmdb_id": 451176, "title": "D\u00e9cimo Segundo", "original_title": "D\u00e9cimo Segundo", "slug_title": "decimo-segundo", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3FUKmzz4UR7yZkMWRiG9LMTPjP.jpg", "actors": ["Irandhir Santos ()", "Rita Carelli ()"], "comments": [], "recommandations_id": []}

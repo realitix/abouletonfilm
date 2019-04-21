@@ -1,0 +1,1 @@
+{"tmdb_id": 565868, "title": "C'est dingue... mais on y va", "original_title": "C'est dingue... mais on y va", "slug_title": "c-est-dingue-mais-on-y-va", "date": "1979-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ilpksQmoV7zr488ofvCD2HMJEp0.jpg", "actors": [], "comments": [], "recommandations_id": []}

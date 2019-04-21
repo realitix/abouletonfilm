@@ -1,0 +1,1 @@
+{"tmdb_id": 542539, "title": "Chemical Wedding", "original_title": "Chemical Wedding", "slug_title": "chemical-wedding", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yEV459l6sy2r5T85i6IW5x7a5uI.jpg", "actors": [], "comments": [], "recommandations_id": []}

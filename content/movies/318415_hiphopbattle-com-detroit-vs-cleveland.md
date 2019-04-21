@@ -1,0 +1,1 @@
+{"tmdb_id": 318415, "title": "Hiphopbattle.com: Detroit vs. Cleveland", "original_title": "Hiphopbattle.com: Detroit vs. Cleveland", "slug_title": "hiphopbattle-com-detroit-vs-cleveland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

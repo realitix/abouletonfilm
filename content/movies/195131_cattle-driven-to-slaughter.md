@@ -1,0 +1,1 @@
+{"tmdb_id": 195131, "title": "Cattle Driven to Slaughter", "original_title": "Cattle Driven to Slaughter", "slug_title": "cattle-driven-to-slaughter", "date": "1897-07-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yyq2lNX8Dz70RohBTZexJz7cb0.jpg", "actors": [], "comments": [], "recommandations_id": []}

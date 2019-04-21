@@ -1,0 +1,1 @@
+{"tmdb_id": 72498, "title": "Lucky Dog", "original_title": "Er Duo Da You Fu", "slug_title": "lucky-dog", "date": "2008-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/IcylA7i4txYluuzjep0kSXSdf7.jpg", "actors": ["Fan Wei ()", "Shubo Cheng ()", "Jibo Zhang ()"], "comments": [], "recommandations_id": []}

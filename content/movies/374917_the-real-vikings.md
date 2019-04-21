@@ -1,0 +1,1 @@
+{"tmdb_id": 374917, "title": "The Real Vikings", "original_title": "The Real Vikings", "slug_title": "the-real-vikings", "date": "2013-09-09", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wP1Gvzl2047fdCqMujm4atKGG0.jpg", "actors": [], "comments": [], "recommandations_id": []}

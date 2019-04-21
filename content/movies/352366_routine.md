@@ -1,0 +1,1 @@
+{"tmdb_id": 352366, "title": "Routine", "original_title": "Routine", "slug_title": "routine", "date": "2015-08-02", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwuvESkXm8BwTeIQdhZiB51j1Y3.jpg", "actors": [], "comments": [], "recommandations_id": []}

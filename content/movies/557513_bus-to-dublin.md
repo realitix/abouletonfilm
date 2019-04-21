@@ -1,0 +1,1 @@
+{"tmdb_id": 557513, "title": "Bus to Dublin", "original_title": "Bus to Dublin", "slug_title": "bus-to-dublin", "date": "2018-10-29", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hMeXDaXJ5T99Ab6IBlMk7fx5Fx.jpg", "actors": [], "comments": [], "recommandations_id": []}

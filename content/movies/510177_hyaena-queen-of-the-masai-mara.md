@@ -1,0 +1,1 @@
+{"tmdb_id": 510177, "title": "Hyaena: Queen Of The Masai Mara", "original_title": "Hyaena: Queen Of The Masai Mara", "slug_title": "hyaena-queen-of-the-masai-mara", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3hNCZkBSckIxyLvpCamJBMmdnXC.jpg", "actors": [], "comments": [], "recommandations_id": []}

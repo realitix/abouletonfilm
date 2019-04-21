@@ -1,0 +1,1 @@
+{"tmdb_id": 253917, "title": "Souvenirs un amour", "original_title": "Souvenirs un amour", "slug_title": "souvenirs-un-amour", "date": "2007-01-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julia Henkel (Woman)", "Jonas M\u00fcller-Liljestr\u00f6m (Man)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 372358, "title": "The Dark Room", "original_title": "The Dark Room", "slug_title": "the-dark-room", "date": "1982-07-01", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjtYUPd5OqWZVmf8958rVVdvfqa.jpg", "actors": ["Alan Cassell (Ray Sangster)"], "comments": [], "recommandations_id": []}

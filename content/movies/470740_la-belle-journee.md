@@ -1,0 +1,1 @@
+{"tmdb_id": 470740, "title": "La Belle journ\u00e9e", "original_title": "La Belle journ\u00e9e", "slug_title": "la-belle-journee", "date": "2010-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

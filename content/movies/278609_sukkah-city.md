@@ -1,0 +1,1 @@
+{"tmdb_id": 278609, "title": "Sukkah City", "original_title": "Sukkah City", "slug_title": "sukkah-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

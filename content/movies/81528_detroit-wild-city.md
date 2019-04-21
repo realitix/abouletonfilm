@@ -1,0 +1,1 @@
+{"tmdb_id": 81528, "title": "Detroit: Wild City", "original_title": "Detroit: Ville Sauvage", "slug_title": "detroit-wild-city", "date": "2010-11-29", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTOafyNbZl4UzL3eot7lIZgdZGq.jpg", "actors": [], "comments": [], "recommandations_id": []}

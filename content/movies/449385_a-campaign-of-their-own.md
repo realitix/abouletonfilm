@@ -1,0 +1,1 @@
+{"tmdb_id": 449385, "title": "A Campaign of Their Own", "original_title": "A Campaign of Their Own", "slug_title": "a-campaign-of-their-own", "date": "2017-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yFCKojka14GQQADXMLGxf9hhiJv.jpg", "actors": [], "comments": [], "recommandations_id": []}

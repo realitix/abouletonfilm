@@ -1,0 +1,1 @@
+{"tmdb_id": 480745, "title": "Spooky Wooky", "original_title": "Spooky Wooky", "slug_title": "spooky-wooky", "date": "1950-12-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol ()", "Dorothy Granger ()", "Wendy Waldron ()", "Ralph Hodges ()", "Edward Gargan ()"], "comments": [], "recommandations_id": []}

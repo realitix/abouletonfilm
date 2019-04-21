@@ -1,0 +1,1 @@
+{"tmdb_id": 335816, "title": "Silvesternacht - Ein Dialog", "original_title": "Silvesternacht - Ein Dialog", "slug_title": "silvesternacht-ein-dialog", "date": "1978-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christian Berkel ()", "Hanna Schygulla ()"], "comments": [], "recommandations_id": []}

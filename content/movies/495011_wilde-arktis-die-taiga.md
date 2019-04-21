@@ -1,0 +1,1 @@
+{"tmdb_id": 495011, "title": "Wilde Arktis - Die Taiga", "original_title": "Wilde Arktis - Die Taiga", "slug_title": "wilde-arktis-die-taiga", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

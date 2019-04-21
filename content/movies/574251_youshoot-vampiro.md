@@ -1,0 +1,1 @@
+{"tmdb_id": 574251, "title": "YouShoot: Vampiro", "original_title": "YouShoot: Vampiro", "slug_title": "youshoot-vampiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Ian Hodgkinson (Himself)"], "comments": [], "recommandations_id": []}

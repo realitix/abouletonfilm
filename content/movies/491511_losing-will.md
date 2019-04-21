@@ -1,0 +1,1 @@
+{"tmdb_id": 491511, "title": "Losing Will", "original_title": "Losing Will", "slug_title": "losing-will", "date": "2008-05-04", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

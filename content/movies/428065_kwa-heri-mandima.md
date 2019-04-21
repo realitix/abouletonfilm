@@ -1,0 +1,1 @@
+{"tmdb_id": 428065, "title": "Kwa Heri Mandima", "original_title": "Kwa Heri Mandima", "slug_title": "kwa-heri-mandima", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0jueZAgyS6uaIg0f8OSpPKm9Wy.jpg", "actors": [], "comments": [], "recommandations_id": []}

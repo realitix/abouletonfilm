@@ -1,0 +1,1 @@
+{"tmdb_id": 172778, "title": "The Cruel Kind", "original_title": "The Cruel Kind", "slug_title": "the-cruel-kind", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fFwKR47TYEZWet7VVUyqHkUXuyV.jpg", "actors": ["Chang Kuo-Chu ()"], "comments": [], "recommandations_id": []}

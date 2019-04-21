@@ -1,0 +1,1 @@
+{"tmdb_id": 586932, "title": "Er Zi Has a Little Hotel", "original_title": "\u4e8c\u5b50\u5f00\u5e97", "slug_title": "er-zi-has-a-little-hotel", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

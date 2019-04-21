@@ -1,0 +1,1 @@
+{"tmdb_id": 565003, "title": "Ship Cafe", "original_title": "Ship Cafe", "slug_title": "ship-cafe", "date": "1935-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl Brisson (Chris Anderson)", "Mady Christians (Countess Boranoff)", "Arline Judge (Ruby)"], "comments": [], "recommandations_id": []}

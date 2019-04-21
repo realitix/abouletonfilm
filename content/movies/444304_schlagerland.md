@@ -1,0 +1,1 @@
+{"tmdb_id": 444304, "title": "Schlagerland", "original_title": "Schlagerland", "slug_title": "schlagerland", "date": "2017-02-22", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fcrgen Drews ()", "Roland Kaiser ()", "Andreas Gabalier ()", "Ralph Siegel ()"], "comments": [], "recommandations_id": []}

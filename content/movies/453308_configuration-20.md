@@ -1,0 +1,1 @@
+{"tmdb_id": 453308, "title": "Configuration 20", "original_title": "Configuration 20", "slug_title": "configuration-20", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHN0FZKgIn3E9YHHvFj2ZmksvVW.jpg", "actors": [], "comments": [], "recommandations_id": []}

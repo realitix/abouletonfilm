@@ -1,0 +1,1 @@
+{"tmdb_id": 52341, "title": "AC/DC -  Electrified in Toronto", "original_title": "AC/DC -  Electrified in Toronto", "slug_title": "ac-dc-electrified-in-toronto", "date": "2003-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unzJHDWnCSf9Py58CZ6oYbZ0HM0.jpg", "actors": [], "comments": [], "recommandations_id": []}

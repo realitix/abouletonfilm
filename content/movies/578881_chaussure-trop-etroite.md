@@ -1,0 +1,1 @@
+{"tmdb_id": 578881, "title": "Chaussure trop \u00e9troite", "original_title": "Chaussure trop \u00e9troite", "slug_title": "chaussure-trop-etroite", "date": "1907-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)"], "comments": [], "recommandations_id": []}

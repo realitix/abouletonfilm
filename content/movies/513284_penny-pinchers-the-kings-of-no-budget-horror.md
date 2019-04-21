@@ -1,0 +1,1 @@
+{"tmdb_id": 513284, "title": "Penny Pinchers: The Kings of No-Budget Horror", "original_title": "Penny Pinchers: The Kings of No-Budget Horror", "slug_title": "penny-pinchers-the-kings-of-no-budget-horror", "date": "2017-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

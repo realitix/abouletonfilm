@@ -1,0 +1,1 @@
+{"tmdb_id": 494253, "title": "Partners", "original_title": "Partners", "slug_title": "partners", "date": "1976-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTfOlnqbKZX2Tvw5hyRachUtMIq.jpg", "actors": ["Judith Gault (Barbara)", "Judith Gault (Paul Howard)"], "comments": [], "recommandations_id": []}

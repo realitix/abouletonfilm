@@ -1,0 +1,1 @@
+{"tmdb_id": 452194, "title": "Whitlam: The Power and the Passion", "original_title": "Whitlam: The Power and the Passion", "slug_title": "whitlam-the-power-and-the-passion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fBhhLPyonflu1mnDQWiU6It8mLU.jpg", "actors": [], "comments": [], "recommandations_id": []}

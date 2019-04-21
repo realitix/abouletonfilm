@@ -1,0 +1,1 @@
+{"tmdb_id": 328900, "title": "The Arnold Palmer", "original_title": "The Arnold Palmer", "slug_title": "the-arnold-palmer", "date": "2012-11-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5vb6uyltf4nKb2SpKVPJW5CkXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

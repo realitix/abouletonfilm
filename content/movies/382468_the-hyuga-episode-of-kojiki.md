@@ -1,0 +1,1 @@
+{"tmdb_id": 382468, "title": "The Hyuga Episode of Kojiki", "original_title": "\u53e4\u4e8b\u8a18 \u65e5\u5411\u7bc7", "slug_title": "the-hyuga-episode-of-kojiki", "date": "2013-01-01", "genre": "Animation / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

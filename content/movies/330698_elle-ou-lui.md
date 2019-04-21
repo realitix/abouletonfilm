@@ -1,0 +1,1 @@
+{"tmdb_id": 330698, "title": "Elle ou lui", "original_title": "Elle ou lui", "slug_title": "elle-ou-lui", "date": "2000-09-24", "genre": "Romance", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Mlodziawkoski ()", "Benoit Clerc (Benoit)", "Julie Gouppy ()"], "comments": [], "recommandations_id": []}

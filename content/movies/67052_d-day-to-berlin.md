@@ -1,0 +1,1 @@
+{"tmdb_id": 67052, "title": "D-Day to Berlin", "original_title": "D-Day to Berlin", "slug_title": "d-day-to-berlin", "date": "2004-01-01", "genre": "Documentaire / Histoire / Guerre", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSype3U8rFmX9xDDf2JAHMOnn3L.jpg", "actors": [], "comments": [], "recommandations_id": []}

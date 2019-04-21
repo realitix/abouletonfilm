@@ -1,0 +1,1 @@
+{"tmdb_id": 231744, "title": "Charge of the Boer Cavalry", "original_title": "Charge of the Boer Cavalry", "slug_title": "charge-of-the-boer-cavalry", "date": "1900-10-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

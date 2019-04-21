@@ -1,0 +1,1 @@
+{"tmdb_id": 590399, "title": "Thalaivi", "original_title": "Thalaivi", "slug_title": "thalaivi", "date": "", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kangana Ranaut (Jayalalithaa aka Amma)"], "comments": [], "recommandations_id": []}

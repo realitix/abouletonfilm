@@ -1,0 +1,1 @@
+{"tmdb_id": 377762, "title": "The Red-Headed Monkey", "original_title": "The Red-Headed Monkey", "slug_title": "the-red-headed-monkey", "date": "1950-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

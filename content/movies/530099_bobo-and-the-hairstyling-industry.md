@@ -1,0 +1,1 @@
+{"tmdb_id": 530099, "title": "Bobo and the Hairstyling Industry", "original_title": "Bobo and the Hairstyling Industry", "slug_title": "bobo-and-the-hairstyling-industry", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

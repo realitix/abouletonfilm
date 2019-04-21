@@ -1,0 +1,1 @@
+{"tmdb_id": 536483, "title": "Ser de Faro \u00e9 Ser Farense", "original_title": "Ser de Faro \u00e9 Ser Farense", "slug_title": "ser-de-faro-e-ser-farense", "date": "2018-04-26", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

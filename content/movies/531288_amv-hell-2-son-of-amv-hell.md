@@ -1,0 +1,1 @@
+{"tmdb_id": 531288, "title": "AMV Hell 2: Son of AMV Hell", "original_title": "AMV Hell 2: Son of AMV Hell", "slug_title": "amv-hell-2-son-of-amv-hell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

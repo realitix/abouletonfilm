@@ -1,0 +1,1 @@
+{"tmdb_id": 304534, "title": "Dalai Lama: Harmony In Diversity", "original_title": "Dalai Lama: Harmony In Diversity", "slug_title": "dalai-lama-harmony-in-diversity", "date": "1997-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

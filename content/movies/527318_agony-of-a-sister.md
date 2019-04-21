@@ -1,0 +1,1 @@
+{"tmdb_id": 527318, "title": "Agony of a Sister", "original_title": "Agony of a Sister", "slug_title": "agony-of-a-sister", "date": "2018-01-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel K. Daniel ()", "Ngozi Ezeonu ()", "Queen Nwokoye ()", "Chinenye Ubah ()"], "comments": [], "recommandations_id": []}

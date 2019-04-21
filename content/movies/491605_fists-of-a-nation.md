@@ -1,0 +1,1 @@
+{"tmdb_id": 491605, "title": "Fists of a Nation", "original_title": "Los pu\u00f1os de una naci\u00f3n", "slug_title": "fists-of-a-nation", "date": "2005-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roberto Dur\u00e1n (himself)"], "comments": [], "recommandations_id": []}

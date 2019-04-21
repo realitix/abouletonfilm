@@ -1,0 +1,1 @@
+{"tmdb_id": 112487, "title": "Vaitheki", "original_title": "Vaitheki", "slug_title": "vaitheki", "date": "2009-05-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/MrgnDkSEJgMsrMSYO1QVGLPIkC.jpg", "actors": ["Prithvirajan (Actor)", "Karthika Adaikalam (Actress)"], "comments": [], "recommandations_id": []}

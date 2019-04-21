@@ -1,0 +1,1 @@
+{"tmdb_id": 456731, "title": "Everyone is Disposable. Everyone!", "original_title": "Everyone is Disposable. Everyone!", "slug_title": "everyone-is-disposable-everyone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

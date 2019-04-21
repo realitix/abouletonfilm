@@ -1,0 +1,1 @@
+{"tmdb_id": 83309, "title": "Korn: Who Then Now?", "original_title": "Korn: Who Then Now?", "slug_title": "korn-who-then-now", "date": "1997-03-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7et6kWTtOFemixNem7B4EWXutgn.jpg", "actors": [], "comments": [], "recommandations_id": []}

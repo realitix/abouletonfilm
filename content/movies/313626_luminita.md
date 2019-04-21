@@ -1,0 +1,1 @@
+{"tmdb_id": 313626, "title": "Luminita", "original_title": "Luminita", "slug_title": "luminita", "date": "2013-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9k1T8ilFjRo00MEFo6D8Df6Hsej.jpg", "actors": ["Drago\u0219 Bucur (Gabriel)", "Damian Oancea (Emil)"], "comments": [], "recommandations_id": []}

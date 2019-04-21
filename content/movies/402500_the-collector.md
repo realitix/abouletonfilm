@@ -1,0 +1,1 @@
+{"tmdb_id": 402500, "title": "The Collector", "original_title": "The Collector", "slug_title": "the-collector", "date": "2006-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnPK2cHjmTlL4udNGUrhUiFX76p.jpg", "actors": [], "comments": [], "recommandations_id": []}

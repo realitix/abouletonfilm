@@ -1,0 +1,1 @@
+{"tmdb_id": 348506, "title": "Water Path", "original_title": "Water Path", "slug_title": "water-path", "date": "2015-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

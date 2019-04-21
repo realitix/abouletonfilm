@@ -1,0 +1,1 @@
+{"tmdb_id": 254374, "title": "Manila: Queen City of the Pacific", "original_title": "Manila: Queen City of the Pacific", "slug_title": "manila-queen-city-of-the-pacific", "date": "1938-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

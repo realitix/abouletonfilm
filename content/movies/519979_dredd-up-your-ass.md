@@ -1,0 +1,1 @@
+{"tmdb_id": 519979, "title": "Dredd Up Your Ass", "original_title": "Dredd Up Your Ass", "slug_title": "dredd-up-your-ass", "date": "2018-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Romi Rain ()", "Zoey Monroe ()", "Kate England ()", "Ashley Fires ()", "Dredd ()"], "comments": [], "recommandations_id": []}

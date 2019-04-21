@@ -1,0 +1,1 @@
+{"tmdb_id": 173519, "title": "The Ultimate Fighter 4 Finale", "original_title": "The Ultimate Fighter 4 Finale", "slug_title": "the-ultimate-fighter-4-finale", "date": "2006-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/deaikQzu7laMW8VmIX6iwAPIefG.jpg", "actors": [], "comments": [], "recommandations_id": []}

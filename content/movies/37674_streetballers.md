@@ -1,0 +1,1 @@
+{"tmdb_id": 37674, "title": "Streetballers", "original_title": "Streetballers", "slug_title": "streetballers", "date": "2009-08-21", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4paVrqPio2yGro2Np93whgnyfIC.jpg", "actors": [], "comments": [], "recommandations_id": []}

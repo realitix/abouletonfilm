@@ -1,0 +1,1 @@
+{"tmdb_id": 568612, "title": "Star Trek: To Boldly Go", "original_title": "Star Trek: To Boldly Go", "slug_title": "star-trek-to-boldly-go", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

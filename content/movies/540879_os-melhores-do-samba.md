@@ -1,0 +1,1 @@
+{"tmdb_id": 540879, "title": "Os Melhores do Samba", "original_title": "Os Melhores do Samba", "slug_title": "os-melhores-do-samba", "date": "2004-11-18", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bmRVuyjlnZMee6fOZPkH9cTulEb.jpg", "actors": [], "comments": [], "recommandations_id": []}

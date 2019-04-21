@@ -1,0 +1,1 @@
+{"tmdb_id": 436860, "title": "Tarahumaras 2003, La f\u00ealure du temps - Enfance", "original_title": "Tarahumaras 2003, La f\u00ealure du temps - Enfance", "slug_title": "tarahumaras-2003-la-felure-du-temps-enfance", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

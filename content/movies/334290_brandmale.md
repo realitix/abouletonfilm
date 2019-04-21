@@ -1,0 +1,1 @@
+{"tmdb_id": 334290, "title": "Brandmale", "original_title": "Brandmale", "slug_title": "brandmale", "date": "1983-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Bennent (Angela)", "Gila von Weitershausen (Bettina)", "Dieter Schidor ()", "Isolde Barth ()"], "comments": [], "recommandations_id": []}

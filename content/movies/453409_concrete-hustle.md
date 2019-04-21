@@ -1,0 +1,1 @@
+{"tmdb_id": 453409, "title": "Concrete Hustle", "original_title": "Concrete Hustle", "slug_title": "concrete-hustle", "date": "", "genre": "Action", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMiBkXZ9iMhmzFMwdCzgvjTR4M2.jpg", "actors": [], "comments": [], "recommandations_id": []}

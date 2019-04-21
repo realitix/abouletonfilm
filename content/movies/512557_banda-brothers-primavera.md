@@ -1,0 +1,1 @@
+{"tmdb_id": 512557, "title": "Banda Brothers- Primavera", "original_title": "Banda Brothers- Primavera", "slug_title": "banda-brothers-primavera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

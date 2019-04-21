@@ -1,0 +1,1 @@
+{"tmdb_id": 318006, "title": "Fighting Fists of Bruce Lee", "original_title": "Fighting Fists of Bruce Lee", "slug_title": "fighting-fists-of-bruce-lee", "date": "2003-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svgjTv1YTxazFWBKfzoXJpRLIHg.jpg", "actors": [], "comments": [], "recommandations_id": []}

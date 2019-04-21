@@ -1,0 +1,1 @@
+{"tmdb_id": 178123, "title": "The Fantastic Sword", "original_title": "The Fantastic Sword", "slug_title": "the-fantastic-sword", "date": "1975-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fpXpfsfVWnAQTn1n5R9C958h5a0.jpg", "actors": [], "comments": [], "recommandations_id": []}

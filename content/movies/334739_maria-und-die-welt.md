@@ -1,0 +1,1 @@
+{"tmdb_id": 334739, "title": "Maria und die Welt", "original_title": "Maria und die Welt", "slug_title": "maria-und-die-welt", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l68tPvPzCv2rDHiJRCKKjJ9EOEU.jpg", "actors": ["Maria Lang (herself)"], "comments": [], "recommandations_id": []}

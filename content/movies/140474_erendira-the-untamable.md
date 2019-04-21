@@ -1,0 +1,1 @@
+{"tmdb_id": 140474, "title": "Er\u00e9ndira the Untamable", "original_title": "Erendira Ikikunari", "slug_title": "erendira-the-untamable", "date": "2006-10-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13B7BbY1Bf1JeU9YJsW900pHuG1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367213, "title": "I Can't... I Can't...", "original_title": "I Can't... I Can't...", "slug_title": "i-can-t-i-can-t", "date": "1969-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

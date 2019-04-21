@@ -1,0 +1,1 @@
+{"tmdb_id": 300119, "title": "The P-38 Pilot", "original_title": "The P-38 Pilot", "slug_title": "the-p-38-pilot", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAybQNgk7Kb200unh45m0oca6vm.jpg", "actors": [], "comments": [], "recommandations_id": []}

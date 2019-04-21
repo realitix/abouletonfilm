@@ -1,0 +1,1 @@
+{"tmdb_id": 344300, "title": "Holy Smoke", "original_title": "Holy Smoke", "slug_title": "holy-smoke", "date": "1921-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmie Adams ()", "Elinor Lynn ()", "Charles Gorman ()", "Lige Conley ()"], "comments": [], "recommandations_id": []}

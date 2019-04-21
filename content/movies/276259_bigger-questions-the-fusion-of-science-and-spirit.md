@@ -1,0 +1,1 @@
+{"tmdb_id": 276259, "title": "Bigger Questions: The Fusion of Science and Spirit", "original_title": "Bigger Questions: The Fusion of Science and Spirit", "slug_title": "bigger-questions-the-fusion-of-science-and-spirit", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

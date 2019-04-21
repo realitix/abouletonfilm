@@ -1,0 +1,1 @@
+{"tmdb_id": 289290, "title": "Johnny Baker Champion Marksman", "original_title": "Johnny Baker Champion Marksman", "slug_title": "johnny-baker-champion-marksman", "date": "", "genre": "Western / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

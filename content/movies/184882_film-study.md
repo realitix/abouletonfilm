@@ -1,0 +1,1 @@
+{"tmdb_id": 184882, "title": "Film Study", "original_title": "Filmstudie", "slug_title": "film-study", "date": "1926-05-21", "genre": "", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1dBKcm1uBDqh2ovz2VRLe9Pktm.jpg", "actors": [], "comments": [], "recommandations_id": [190085, 174298, 189943, 190081]}

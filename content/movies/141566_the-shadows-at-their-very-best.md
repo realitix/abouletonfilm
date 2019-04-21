@@ -1,0 +1,1 @@
+{"tmdb_id": 141566, "title": "The Shadows: At Their Very Best", "original_title": "The Shadows: At Their Very Best", "slug_title": "the-shadows-at-their-very-best", "date": "1989-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OnQXLRTJmCKTuJQ9xNpfbipUkb.jpg", "actors": [], "comments": [], "recommandations_id": []}

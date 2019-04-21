@@ -1,0 +1,1 @@
+{"tmdb_id": 252579, "title": "Bluegrass Country Soul", "original_title": "Bluegrass Country Soul", "slug_title": "bluegrass-country-soul", "date": "1972-07-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVugE6eoQjHDSzEpbG97WpmBtMQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

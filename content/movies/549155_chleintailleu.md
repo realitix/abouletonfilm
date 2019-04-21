@@ -1,0 +1,1 @@
+{"tmdb_id": 549155, "title": "Ch\u2019l\u2019eintailleu", "original_title": "Ch\u2019l\u2019eintailleu", "slug_title": "chleintailleu", "date": "2014-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Pierre Facquier (Himself)"], "comments": [], "recommandations_id": []}

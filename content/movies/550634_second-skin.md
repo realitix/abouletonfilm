@@ -1,0 +1,1 @@
+{"tmdb_id": 550634, "title": "Second Skin", "original_title": "Les deux vies du serpent", "slug_title": "second-skin", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 497894, "title": "J\u00e1no\u0161\u00edk I.", "original_title": "J\u00e1no\u0161\u00edk I.", "slug_title": "janosik-i", "date": "1963-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wa32mj8bzAa6Mq2XwuhA11y3iGO.jpg", "actors": [], "comments": [], "recommandations_id": []}

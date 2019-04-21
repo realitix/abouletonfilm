@@ -1,0 +1,1 @@
+{"tmdb_id": 453242, "title": "Eight Seasons", "original_title": "\u00c5tta \u00e5rstider", "slug_title": "eight-seasons", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sofia Jannok (Herself)", "Monica Edmondson (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428861, "title": ".hack//Quantum", "original_title": ".hack//Quantum", "slug_title": "hack-quantum", "date": "2012-07-09", "genre": "Myst\u00e8re / Animation / Drame / Fantastique", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pNVzHxvzjPJeWpodZAMvDveaQX.jpg", "actors": [], "comments": [], "recommandations_id": []}

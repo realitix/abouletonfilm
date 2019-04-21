@@ -1,0 +1,1 @@
+{"tmdb_id": 441075, "title": "The Singer", "original_title": "\u6b4c\u624b", "slug_title": "the-singer", "date": "1997-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/voU62wanv89qG02blPI1W36zL0p.jpg", "actors": ["Li Yapeng ()", "He Qing ()", "Hu Jun ()", "Yang Mi ()"], "comments": [], "recommandations_id": []}

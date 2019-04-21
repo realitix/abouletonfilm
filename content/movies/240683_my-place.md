@@ -1,0 +1,1 @@
+{"tmdb_id": 240683, "title": "My Place", "original_title": "\ub9c8\uc774 \ud50c\ub808\uc774\uc2a4", "slug_title": "my-place", "date": "2014-01-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8M7tYSxvv2HYMlKe1c1fzmY5IC0.jpg", "actors": ["Emmanuel Moonchil Park ()"], "comments": [], "recommandations_id": []}

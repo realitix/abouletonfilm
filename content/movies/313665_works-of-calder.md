@@ -1,0 +1,1 @@
+{"tmdb_id": 313665, "title": "Works of Calder", "original_title": "Works of Calder", "slug_title": "works-of-calder", "date": "1950-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Calder (Himself)", "Burgess Meredith (Narrator)"], "comments": [], "recommandations_id": []}

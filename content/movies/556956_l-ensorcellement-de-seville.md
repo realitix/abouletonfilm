@@ -1,0 +1,1 @@
+{"tmdb_id": 556956, "title": "L'ensorcellement de S\u00e9ville", "original_title": "L'ensorcellement de S\u00e9ville", "slug_title": "l-ensorcellement-de-seville", "date": "1931-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

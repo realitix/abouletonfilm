@@ -1,0 +1,1 @@
+{"tmdb_id": 313901, "title": "Seven Seals", "original_title": "\u0421\u0435\u0434\u0443\u043c \u043f\u0435\u0447\u0430\u0442\u0438", "slug_title": "seven-seals", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

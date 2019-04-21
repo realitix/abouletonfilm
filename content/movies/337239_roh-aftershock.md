@@ -1,0 +1,1 @@
+{"tmdb_id": 337239, "title": "ROH: Aftershock", "original_title": "ROH: Aftershock", "slug_title": "roh-aftershock", "date": "2014-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHlXfs0j8psPfNIVat6pXO3411l.jpg", "actors": [], "comments": [], "recommandations_id": []}

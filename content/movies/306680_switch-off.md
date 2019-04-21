@@ -1,0 +1,1 @@
+{"tmdb_id": 306680, "title": "Switch off", "original_title": "Apaga y v\u00e1monos", "slug_title": "switch-off", "date": "2005-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmFBAx88gsXKh7jZge0hKyvf57r.jpg", "actors": [], "comments": [], "recommandations_id": []}

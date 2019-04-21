@@ -1,0 +1,1 @@
+{"tmdb_id": 460417, "title": "Minor/Major", "original_title": "Minor/Major", "slug_title": "minor-major", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

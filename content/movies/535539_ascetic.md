@@ -1,0 +1,1 @@
+{"tmdb_id": 535539, "title": "Ascetic", "original_title": "\uae08\uc695", "slug_title": "ascetic", "date": "1976-03-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJ9NHKeqi0p55YK37LEQtpKrY6P.jpg", "actors": ["Lee Young-ok ()", "Shin Seong-il ()", "Han Mun-jeong ()"], "comments": [], "recommandations_id": []}

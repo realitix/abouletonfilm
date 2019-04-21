@@ -1,0 +1,1 @@
+{"tmdb_id": 580290, "title": "Chickens, Hugh and Tesco Too", "original_title": "Chickens, Hugh and Tesco Too", "slug_title": "chickens-hugh-and-tesco-too", "date": "2009-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Fearnley-Whittingstall (Himself - Presenter)"], "comments": [], "recommandations_id": []}

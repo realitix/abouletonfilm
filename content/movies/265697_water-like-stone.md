@@ -1,0 +1,1 @@
+{"tmdb_id": 265697, "title": "Water Like Stone", "original_title": "Water Like Stone", "slug_title": "water-like-stone", "date": "2012-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

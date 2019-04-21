@@ -1,0 +1,1 @@
+{"tmdb_id": 78896, "title": "Veettukku Oru Kannagai", "original_title": "Veettukku Oru Kannagai", "slug_title": "veettukku-oru-kannagai", "date": "1984-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Sujatha ()", "Ilavarasi ()", "Jayamalini ()", "Nalini ()"], "comments": [], "recommandations_id": []}

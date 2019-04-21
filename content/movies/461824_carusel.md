@@ -1,0 +1,1 @@
+{"tmdb_id": 461824, "title": "Carusel", "original_title": "Carusel", "slug_title": "carusel", "date": "2016-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

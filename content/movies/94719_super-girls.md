@@ -1,0 +1,1 @@
+{"tmdb_id": 94719, "title": "Super, Girls!", "original_title": "Super, Girls!", "slug_title": "super-girls", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHxrSETcbjX2N3VzbhugAZMJzaq.jpg", "actors": [], "comments": [], "recommandations_id": []}

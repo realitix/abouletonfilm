@@ -1,0 +1,1 @@
+{"tmdb_id": 306741, "title": "Wounds and Other Absent Objects", "original_title": "Wounds and Other Absent Objects", "slug_title": "wounds-and-other-absent-objects", "date": "1997-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

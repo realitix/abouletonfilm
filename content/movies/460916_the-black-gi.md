@@ -1,0 +1,1 @@
+{"tmdb_id": 460916, "title": "The Black GI", "original_title": "The Black GI", "slug_title": "the-black-gi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 248990, "title": "Lumberjack", "original_title": "\u041b\u0435\u0441\u043e\u0440\u0443\u0431", "slug_title": "lumberjack", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6hjxqB3vHMYei3yiSHSgGAgD43.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 279256, "title": "Zombie Werewolves Attack!", "original_title": "Zombie Werewolves Attack!", "slug_title": "zombie-werewolves-attack", "date": "2009-10-03", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3rVnmxV32n5ZttNzVUBIHb4Y0hO.jpg", "actors": [], "comments": [], "recommandations_id": []}

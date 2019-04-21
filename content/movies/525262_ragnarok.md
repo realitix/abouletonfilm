@@ -1,0 +1,1 @@
+{"tmdb_id": 525262, "title": "Ragnarok", "original_title": "Ragnarok", "slug_title": "ragnarok", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

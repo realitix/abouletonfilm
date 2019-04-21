@@ -1,0 +1,1 @@
+{"tmdb_id": 309530, "title": "Wishbone Ash: The Live Broadcasts", "original_title": "Wishbone Ash: The Live Broadcasts", "slug_title": "wishbone-ash-the-live-broadcasts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

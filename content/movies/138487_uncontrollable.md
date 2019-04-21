@@ -1,0 +1,1 @@
+{"tmdb_id": 138487, "title": "Uncontrollable", "original_title": "Uncontrollable", "slug_title": "uncontrollable", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eugine Garcia (Daniel Delgado)", "Romano Orzari (Richard)"], "comments": [], "recommandations_id": []}

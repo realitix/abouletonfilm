@@ -1,0 +1,1 @@
+{"tmdb_id": 190697, "title": "Rube and Mandy at Coney Island", "original_title": "Rube and Mandy at Coney Island", "slug_title": "rube-and-mandy-at-coney-island", "date": "1903-08-12", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

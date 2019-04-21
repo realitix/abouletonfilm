@@ -1,0 +1,1 @@
+{"tmdb_id": 577563, "title": "Good Health to Scotland", "original_title": "Good Health to Scotland", "slug_title": "good-health-to-scotland", "date": "1943-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James McKechnie (Himself - Commentator)"], "comments": [], "recommandations_id": []}

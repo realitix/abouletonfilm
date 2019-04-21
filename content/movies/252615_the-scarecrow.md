@@ -1,0 +1,1 @@
+{"tmdb_id": 252615, "title": "The Scarecrow", "original_title": "The Scarecrow", "slug_title": "the-scarecrow", "date": "2000-08-26", "genre": "Animation", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5X5bmOQpew3Bf8nvBBwiyaGeK5z.jpg", "actors": [], "comments": [], "recommandations_id": []}

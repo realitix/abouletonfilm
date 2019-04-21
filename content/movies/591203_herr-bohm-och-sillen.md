@@ -1,0 +1,1 @@
+{"tmdb_id": 591203, "title": "Herr Bohm och sillen", "original_title": "Herr Bohm och sillen", "slug_title": "herr-bohm-och-sillen", "date": "1988-03-25", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00f6sta Ekman (Narrator (voice))"], "comments": [], "recommandations_id": []}

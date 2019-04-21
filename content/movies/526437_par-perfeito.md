@@ -1,0 +1,1 @@
+{"tmdb_id": 526437, "title": "Par Perfeito", "original_title": "Par Perfeito", "slug_title": "par-perfeito", "date": "2018-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFYdt6lCDaAtcStXrk55xaZ9DqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

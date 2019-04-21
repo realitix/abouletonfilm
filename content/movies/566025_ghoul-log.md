@@ -1,0 +1,1 @@
+{"tmdb_id": 566025, "title": "Ghoul Log", "original_title": "Ghoul Log", "slug_title": "ghoul-log", "date": "2018-12-01", "genre": "Horreur / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDAZUQ4XiHcIW1kocfBN3h9wVnx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 493555, "title": "\uc778\uc5b4\ud560\uba38\ub2c8\uc640 \uc120\uc7a5", "original_title": "\uc778\uc5b4\ud560\uba38\ub2c8\uc640 \uc120\uc7a5", "slug_title": "ineohalmeoniwa-seonjang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

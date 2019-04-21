@@ -1,0 +1,1 @@
+{"tmdb_id": 534717, "title": "Land of the Homeless", "original_title": "Ziemia bezdomnych", "slug_title": "land-of-the-homeless", "date": "2017-10-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

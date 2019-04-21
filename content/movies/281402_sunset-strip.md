@@ -1,0 +1,1 @@
+{"tmdb_id": 281402, "title": "Sunset Strip", "original_title": "Sunset Strip", "slug_title": "sunset-strip", "date": "2012-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

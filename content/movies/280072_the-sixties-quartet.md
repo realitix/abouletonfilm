@@ -1,0 +1,1 @@
+{"tmdb_id": 280072, "title": "The Sixties Quartet", "original_title": "The Sixties Quartet", "slug_title": "the-sixties-quartet", "date": "1999-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bkwaRJiAKAZQwiNpPQMnvALkZM.jpg", "actors": [], "comments": [], "recommandations_id": []}

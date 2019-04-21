@@ -1,0 +1,1 @@
+{"tmdb_id": 123892, "title": "Pretty Maid Caf\u00e9", "original_title": "Koisuru Meido Caf\u00e9", "slug_title": "pretty-maid-cafe", "date": "2006-07-26", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/929bogiuoymtQ1I7EcIsOV1fcVe.jpg", "actors": [], "comments": [], "recommandations_id": []}

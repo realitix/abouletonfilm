@@ -1,0 +1,1 @@
+{"tmdb_id": 387497, "title": "The Bom-baz-tic Son", "original_title": "The Bom-baz-tic Son", "slug_title": "the-bom-baz-tic-son", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Bazira (Fraser)"], "comments": [], "recommandations_id": []}

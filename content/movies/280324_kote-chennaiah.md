@@ -1,0 +1,1 @@
+{"tmdb_id": 280324, "title": "Kote Chennaiah", "original_title": "Kote Chennaiah", "slug_title": "kote-chennaiah", "date": "2006-04-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shekhar ()", "Nandamuri Balakrishna ()"], "comments": [], "recommandations_id": []}

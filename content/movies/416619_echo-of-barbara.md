@@ -1,0 +1,1 @@
+{"tmdb_id": 416619, "title": "Echo of Barbara", "original_title": "Echo of Barbara", "slug_title": "echo-of-barbara", "date": "1961-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

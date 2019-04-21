@@ -1,0 +1,1 @@
+{"tmdb_id": 318778, "title": "Rishta Ho to Aisa", "original_title": "Rishta Ho to Aisa", "slug_title": "rishta-ho-to-aisa", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 292647, "title": "Wildcat of Bombay", "original_title": "Wildcat of Bombay", "slug_title": "wildcat-of-bombay", "date": "1927-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruby Mayer ()", "Dinshaw Bilimoria ()", "Jamshedji ()"], "comments": [], "recommandations_id": []}

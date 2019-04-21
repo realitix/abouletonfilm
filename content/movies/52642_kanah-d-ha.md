@@ -1,0 +1,1 @@
+{"tmdb_id": 52642, "title": "Kanah D'ha", "original_title": "Kanah D'ha", "slug_title": "kanah-d-ha", "date": "2010-07-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m7Vv63sDfHMzZPwPL1mgRpWYVoK.jpg", "actors": ["R\u00e9al B\u00e9land ()"], "comments": [], "recommandations_id": []}

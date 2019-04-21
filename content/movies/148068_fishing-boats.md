@@ -1,0 +1,1 @@
+{"tmdb_id": 148068, "title": "Fishing Boats", "original_title": "Pescherecci", "slug_title": "fishing-boats", "date": "1958-06-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9RXKoOuCwBBib8fSD6IRNDgMnr2.jpg", "actors": [], "comments": [], "recommandations_id": [147159, 153173, 147306, 239428]}

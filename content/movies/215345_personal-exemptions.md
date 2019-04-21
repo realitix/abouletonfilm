@@ -1,0 +1,1 @@
+{"tmdb_id": 215345, "title": "Personal Exemptions", "original_title": "Personal Exemptions", "slug_title": "personal-exemptions", "date": "1989-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpwHHJIcUkaNa94pGdOdJ6FfTgG.jpg", "actors": ["Nanette Fabray ()"], "comments": [], "recommandations_id": []}

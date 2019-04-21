@@ -1,0 +1,1 @@
+{"tmdb_id": 356554, "title": "Jads & Jadson - ao Vivo", "original_title": "Jads & Jadson - ao Vivo", "slug_title": "jads-jadson-ao-vivo", "date": "2013-08-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zp2TI8lOKNdeNLOv7E4CTQyY5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

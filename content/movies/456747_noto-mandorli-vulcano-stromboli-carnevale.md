@@ -1,0 +1,1 @@
+{"tmdb_id": 456747, "title": "Noto, mandorli, Vulcano, Stromboli, carnevale", "original_title": "Noto, mandorli, Vulcano, Stromboli, carnevale", "slug_title": "noto-mandorli-vulcano-stromboli-carnevale", "date": "1992-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

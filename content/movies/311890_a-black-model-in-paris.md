@@ -1,0 +1,1 @@
+{"tmdb_id": 311890, "title": "A Black Model in Paris", "original_title": "A Black Model in Paris", "slug_title": "a-black-model-in-paris", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 513459, "title": "Uma Alegria Selvagem", "original_title": "Uma Alegria Selvagem", "slug_title": "uma-alegria-selvagem", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t94MUDEaID0ZAsL9Y3DkjZZwOw4.jpg", "actors": [], "comments": [], "recommandations_id": []}

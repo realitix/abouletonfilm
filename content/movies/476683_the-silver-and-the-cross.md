@@ -1,0 +1,1 @@
+{"tmdb_id": 476683, "title": "The Silver and the Cross", "original_title": "Das Silber und das Kreuz", "slug_title": "the-silver-and-the-cross", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

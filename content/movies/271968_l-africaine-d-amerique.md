@@ -1,0 +1,1 @@
+{"tmdb_id": 271968, "title": "L'Africaine d'Amerique", "original_title": "L'Africaine d'Amerique", "slug_title": "l-africaine-d-amerique", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

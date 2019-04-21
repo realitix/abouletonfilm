@@ -1,0 +1,1 @@
+{"tmdb_id": 519908, "title": "Cover Girl", "original_title": "Cover Girl", "slug_title": "cover-girl", "date": "2018-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YKXaMWuIkuEWLYtjnGwmS9lInP.jpg", "actors": [], "comments": [], "recommandations_id": []}

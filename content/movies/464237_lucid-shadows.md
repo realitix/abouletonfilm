@@ -1,0 +1,1 @@
+{"tmdb_id": 464237, "title": "Lucid Shadows", "original_title": "Lucid Shadows", "slug_title": "lucid-shadows", "date": "2011-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rami Al-Otaibi ()", "Deema Dabis ()", "Robert Keser ()", "Dareen Sallam ()"], "comments": [], "recommandations_id": []}

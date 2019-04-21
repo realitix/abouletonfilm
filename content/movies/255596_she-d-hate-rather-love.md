@@ -1,0 +1,1 @@
+{"tmdb_id": 255596, "title": "She'd Hate Rather Love", "original_title": "Ci man wang", "slug_title": "she-d-hate-rather-love", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2vqtTCyluaqaLM2QiDovpSqKumO.jpg", "actors": [], "comments": [], "recommandations_id": []}

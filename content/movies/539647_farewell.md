@@ -1,0 +1,1 @@
+{"tmdb_id": 539647, "title": "Farewell", "original_title": "La chanson de l'adieu", "slug_title": "farewell", "date": "1934-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

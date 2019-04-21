@@ -1,0 +1,1 @@
+{"tmdb_id": 404040, "title": "June, Adrift", "original_title": "June, Adrift", "slug_title": "june-adrift", "date": "2014-06-28", "genre": "Drame / Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wS66LyxC763sxa5184Q7i5plBGc.jpg", "actors": [], "comments": [], "recommandations_id": []}

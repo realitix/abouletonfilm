@@ -1,0 +1,1 @@
+{"tmdb_id": 50314, "title": "My Architect", "original_title": "My Architect", "slug_title": "my-architect", "date": "2003-11-12", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flpuP2Y2qUkVGghsOYkxj0HkgB9.jpg", "actors": [], "comments": [], "recommandations_id": [106222, 27453, 25099, 30265]}

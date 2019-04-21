@@ -1,0 +1,1 @@
+{"tmdb_id": 268311, "title": "The Growler Story", "original_title": "The Growler Story", "slug_title": "the-growler-story", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/976O6YSMKklFY1hQXxkmkQm9sWN.jpg", "actors": ["Ken Curtis ()", "Ward Bond ()"], "comments": [], "recommandations_id": []}

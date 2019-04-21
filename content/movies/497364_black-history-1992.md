@@ -1,0 +1,1 @@
+{"tmdb_id": 497364, "title": "Black History 1992", "original_title": "Black History 1992", "slug_title": "black-history-1992", "date": "1992-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9zKVds5J0BurZMZ4VvhcjT39QVC.jpg", "actors": [], "comments": [], "recommandations_id": []}

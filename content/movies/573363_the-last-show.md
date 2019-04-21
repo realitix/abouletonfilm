@@ -1,0 +1,1 @@
+{"tmdb_id": 573363, "title": "The Last Show", "original_title": "The Last Show", "slug_title": "the-last-show", "date": "2014-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jennifer Weller (Samantha)", "Franziska Benz (Cherry)", "Daniel Friedl (Nerd)"], "comments": [], "recommandations_id": []}

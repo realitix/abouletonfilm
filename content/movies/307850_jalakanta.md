@@ -1,0 +1,1 @@
+{"tmdb_id": 307850, "title": "Jalakanta", "original_title": "Jalakanta", "slug_title": "jalakanta", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

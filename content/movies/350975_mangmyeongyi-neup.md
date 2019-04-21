@@ -1,0 +1,1 @@
+{"tmdb_id": 350975, "title": "\ub9dd\uba85\uc758 \ub2aa", "original_title": "\ub9dd\uba85\uc758 \ub2aa", "slug_title": "mangmyeongyi-neup", "date": "1978-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

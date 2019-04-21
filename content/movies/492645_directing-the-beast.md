@@ -1,0 +1,1 @@
+{"tmdb_id": 492645, "title": "Directing the Beast", "original_title": "Directing the Beast", "slug_title": "directing-the-beast", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Annett (Himself)"], "comments": [], "recommandations_id": []}

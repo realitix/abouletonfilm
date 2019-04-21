@@ -1,0 +1,1 @@
+{"tmdb_id": 178922, "title": "Secundaria", "original_title": "Secundaria", "slug_title": "secundaria", "date": "2014-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7U1bZltfZYSrrH2SV1dAeg3pE1J.jpg", "actors": [], "comments": [], "recommandations_id": []}

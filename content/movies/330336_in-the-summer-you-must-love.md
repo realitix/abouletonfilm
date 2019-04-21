@@ -1,0 +1,1 @@
+{"tmdb_id": 330336, "title": "In the Summer You Must Love", "original_title": "Fi-l-Sayf Lazzim Tuhhib", "slug_title": "in-the-summer-you-must-love", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

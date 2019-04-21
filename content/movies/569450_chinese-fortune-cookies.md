@@ -1,0 +1,1 @@
+{"tmdb_id": 569450, "title": "Chinese Fortune Cookies", "original_title": "Chinese Fortune Cookies", "slug_title": "chinese-fortune-cookies", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PLDOr3aVMMNcKW7qfpvhWR7UxM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350535, "title": "\uc601\uc6d0\ud55c \uc720\uc0b0", "original_title": "\uc601\uc6d0\ud55c \uc720\uc0b0", "slug_title": "yeongweonhan-yusan", "date": "1980-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

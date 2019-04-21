@@ -1,0 +1,1 @@
+{"tmdb_id": 548224, "title": "Four-eyes", "original_title": "Four-eyes", "slug_title": "four-eyes", "date": "1972-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kubanychbek Alybayev ()", "Bermet Malikova ()", "Andrei Sopuyev ()"], "comments": [], "recommandations_id": []}

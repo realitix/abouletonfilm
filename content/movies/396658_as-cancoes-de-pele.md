@@ -1,0 +1,1 @@
+{"tmdb_id": 396658, "title": "As Can\u00e7\u00f5es De Pele", "original_title": "As Can\u00e7\u00f5es De Pele", "slug_title": "as-cancoes-de-pele", "date": "2013-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGUMt4fyFTRGbdagZk39tHjZtTr.jpg", "actors": [], "comments": [], "recommandations_id": []}

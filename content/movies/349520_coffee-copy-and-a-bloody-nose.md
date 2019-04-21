@@ -1,0 +1,1 @@
+{"tmdb_id": 349520, "title": "Coffee, Copy and a Bloody Nose", "original_title": "\ucee4\ud53c \uce74\ud53c \ucf54\ud53c", "slug_title": "coffee-copy-and-a-bloody-nose", "date": "1994-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 299776, "title": "Kamienne tablice", "original_title": "Kamienne tablice", "slug_title": "kamienne-tablice", "date": "1984-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302505, "title": "The War on Humans", "original_title": "The War on Humans", "slug_title": "the-war-on-humans", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

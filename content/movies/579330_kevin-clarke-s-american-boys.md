@@ -1,0 +1,1 @@
+{"tmdb_id": 579330, "title": "Kevin Clarke's American Boys", "original_title": "Kevin Clarke's American Boys", "slug_title": "kevin-clarke-s-american-boys", "date": "2006-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgk4k8AwpQQA9U53Ov3GET6rzzs.jpg", "actors": [], "comments": [], "recommandations_id": []}

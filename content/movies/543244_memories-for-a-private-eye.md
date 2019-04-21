@@ -1,0 +1,1 @@
+{"tmdb_id": 543244, "title": "Memories for a Private Eye", "original_title": "Zikrayat Li Moufatish Khass", "slug_title": "memories-for-a-private-eye", "date": "2015-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

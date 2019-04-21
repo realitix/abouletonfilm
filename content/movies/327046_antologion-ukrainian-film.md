@@ -1,0 +1,1 @@
+{"tmdb_id": 327046, "title": "Antologion (Ukrainian Film)", "original_title": "Antologion (Ukrainian Film)", "slug_title": "antologion-ukrainian-film", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMSHOnl6P5xQCVjIUR4EODa2WUo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 217728, "title": "Coming Attractions", "original_title": "Coming Attractions", "slug_title": "coming-attractions", "date": "2010-09-03", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3TM0n8NB3JKoMIp29tCRieKjIL.jpg", "actors": [], "comments": [], "recommandations_id": []}

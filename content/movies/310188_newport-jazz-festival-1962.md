@@ -1,0 +1,1 @@
+{"tmdb_id": 310188, "title": "Newport Jazz Festival 1962", "original_title": "Newport Jazz Festival 1962", "slug_title": "newport-jazz-festival-1962", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

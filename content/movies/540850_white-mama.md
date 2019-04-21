@@ -1,0 +1,1 @@
+{"tmdb_id": 540850, "title": "White Mama", "original_title": "\u0411\u0435\u043b\u0430\u044f \u043c\u0430\u043c\u0430", "slug_title": "white-mama", "date": "2018-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQSGOu6ifaZPEvBvDIuC2snP9R2.jpg", "actors": [], "comments": [], "recommandations_id": []}

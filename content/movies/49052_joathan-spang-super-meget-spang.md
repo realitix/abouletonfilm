@@ -1,0 +1,1 @@
+{"tmdb_id": 49052, "title": "Joathan Spang: Super meget Spang", "original_title": "Joathan Spang: Super meget Spang", "slug_title": "joathan-spang-super-meget-spang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlhYfWK2U89JZBk5L0CeNakMZcf.jpg", "actors": [], "comments": [], "recommandations_id": []}

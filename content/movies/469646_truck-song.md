@@ -1,0 +1,1 @@
+{"tmdb_id": 469646, "title": "Truck Song", "original_title": "Truck Song", "slug_title": "truck-song", "date": "1988-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jP5gbcFRXX8hZalPz9p3dR3ETn8.jpg", "actors": [], "comments": [], "recommandations_id": []}

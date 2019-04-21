@@ -1,0 +1,1 @@
+{"tmdb_id": 293159, "title": "Institutional Quality", "original_title": "Institutional Quality", "slug_title": "institutional-quality", "date": "1969-01-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1oFYqKOYHZ9YRduEp75h3hFGREI.jpg", "actors": [], "comments": [], "recommandations_id": []}

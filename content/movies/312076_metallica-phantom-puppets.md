@@ -1,0 +1,1 @@
+{"tmdb_id": 312076, "title": "Metallica: Phantom Puppets", "original_title": "Metallica: Phantom Puppets", "slug_title": "metallica-phantom-puppets", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnf0j3natVOEQiCTVSyLaFLN58K.jpg", "actors": [], "comments": [], "recommandations_id": []}

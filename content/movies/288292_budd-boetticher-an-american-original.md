@@ -1,0 +1,1 @@
+{"tmdb_id": 288292, "title": "Budd Boetticher: An American Original", "original_title": "Budd Boetticher: An American Original", "slug_title": "budd-boetticher-an-american-original", "date": "2005-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

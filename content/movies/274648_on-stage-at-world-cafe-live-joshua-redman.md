@@ -1,0 +1,1 @@
+{"tmdb_id": 274648, "title": "On Stage at World Cafe Live: Joshua Redman", "original_title": "On Stage at World Cafe Live: Joshua Redman", "slug_title": "on-stage-at-world-cafe-live-joshua-redman", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

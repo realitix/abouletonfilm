@@ -1,0 +1,1 @@
+{"tmdb_id": 425449, "title": "De Luce 1: Vegetare", "original_title": "De Luce 1: Vegetare", "slug_title": "de-luce-1-vegetare", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzWjnpO3LebyPcpAM7jpjo5HiRA.jpg", "actors": [], "comments": [], "recommandations_id": []}

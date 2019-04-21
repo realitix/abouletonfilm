@@ -1,0 +1,1 @@
+{"tmdb_id": 470742, "title": "4th of July on Quileute Tribal Lands", "original_title": "4th of July on Quileute Tribal Lands", "slug_title": "4th-of-july-on-quileute-tribal-lands", "date": "2015-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

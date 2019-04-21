@@ -1,0 +1,1 @@
+{"tmdb_id": 252769, "title": "Mice in Council", "original_title": "Mice in Council", "slug_title": "mice-in-council", "date": "1934-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

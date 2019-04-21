@@ -1,0 +1,1 @@
+{"tmdb_id": 519635, "title": "Striptease", "original_title": "Striptease", "slug_title": "striptease", "date": "1985-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tara Aire ()", "Colleen Brennan ()", "Tanya Lawson ()", "Lisa Lake ()", "Ron Jeremy ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367608, "title": "\u041a\u043e\u043f\u0438\u043b\u043a\u0430", "original_title": "\u041a\u043e\u043f\u0438\u043b\u043a\u0430", "slug_title": "kopilka", "date": "1989-01-01", "genre": "Familial / Animation / Science-Fiction", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 418698, "title": "Just a Clown", "original_title": "Just a Clown", "slug_title": "just-a-clown", "date": "2004-01-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Friedman (Himself)"], "comments": [], "recommandations_id": []}

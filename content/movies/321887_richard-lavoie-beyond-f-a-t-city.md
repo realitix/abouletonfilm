@@ -1,0 +1,1 @@
+{"tmdb_id": 321887, "title": "Richard Lavoie: Beyond F.A.T. City", "original_title": "Richard Lavoie: Beyond F.A.T. City", "slug_title": "richard-lavoie-beyond-f-a-t-city", "date": "2005-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

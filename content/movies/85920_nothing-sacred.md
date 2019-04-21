@@ -1,0 +1,1 @@
+{"tmdb_id": 85920, "title": "Nothing Sacred", "original_title": "Nothing Sacred", "slug_title": "nothing-sacred", "date": "2000-11-09", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

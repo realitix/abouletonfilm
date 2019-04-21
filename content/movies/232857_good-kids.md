@@ -1,0 +1,1 @@
+{"tmdb_id": 232857, "title": "Good Kids", "original_title": "Good Kids", "slug_title": "good-kids", "date": "2014-01-15", "genre": "Crime / Drame", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8yxwliQAufHC57r3XgskaCpX1c.jpg", "actors": ["Angela Ray (Mom)", "Vince Tula (Dad)"], "comments": [], "recommandations_id": []}

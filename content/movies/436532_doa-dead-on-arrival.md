@@ -1,0 +1,1 @@
+{"tmdb_id": 436532, "title": "DOA (Dead on Arrival)", "original_title": "DOA (Dead on Arrival)", "slug_title": "doa-dead-on-arrival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

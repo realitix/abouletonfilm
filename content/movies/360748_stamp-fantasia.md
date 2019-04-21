@@ -1,0 +1,1 @@
+{"tmdb_id": 360748, "title": "Stamp Fantasia", "original_title": "Kitte no Gensou", "slug_title": "stamp-fantasia", "date": "1961-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8MYZoITgYKPvQydIBL5nDs9E3o.jpg", "actors": [], "comments": [], "recommandations_id": []}

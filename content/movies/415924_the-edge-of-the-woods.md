@@ -1,0 +1,1 @@
+{"tmdb_id": 415924, "title": "The Edge of the Woods", "original_title": "The Edge of the Woods", "slug_title": "the-edge-of-the-woods", "date": "2014-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Bridgers (Dad)", "Maria Dizzia (Daughter)", "Maria Dizzia (Mom)"], "comments": [], "recommandations_id": []}

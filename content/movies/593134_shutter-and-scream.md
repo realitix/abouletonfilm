@@ -1,0 +1,1 @@
+{"tmdb_id": 593134, "title": "Shutter and Scream", "original_title": "Shutter and Scream", "slug_title": "shutter-and-scream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8JSIxSwFVFCxYphVxu17HLaCBm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478489, "title": "Pelos Trilhos do Andarilho", "original_title": "Pelos Trilhos do Andarilho", "slug_title": "pelos-trilhos-do-andarilho", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBcteinJ0ETvuuTTfTIsQsKPDtM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 254671, "title": "The Interview", "original_title": "The Interview", "slug_title": "the-interview", "date": "1960-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Jacobs (Shorty Petterstein (voice))", "Woodrow Leafer (Interviewer (voice))"], "comments": [], "recommandations_id": []}

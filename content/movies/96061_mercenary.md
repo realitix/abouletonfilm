@@ -1,0 +1,1 @@
+{"tmdb_id": 96061, "title": "Mercenary", "original_title": "El guerrero sin nombre", "slug_title": "mercenary", "date": "2005-11-04", "genre": "Animation / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8q5KoyCreopZljQl6z3mJPkVW4z.jpg", "actors": [], "comments": [], "recommandations_id": []}

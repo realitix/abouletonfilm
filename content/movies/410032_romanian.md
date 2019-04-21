@@ -1,0 +1,1 @@
+{"tmdb_id": 410032, "title": "Romanian", "original_title": "Romanian", "slug_title": "romanian", "date": "2014-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xowG5diyQG0Sj4aQGX0srC7MPmx.jpg", "actors": ["Constantin Lupu (Dr. Constantin Lupu)"], "comments": [], "recommandations_id": []}

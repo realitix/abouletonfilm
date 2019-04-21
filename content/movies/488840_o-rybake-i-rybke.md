@@ -1,0 +1,1 @@
+{"tmdb_id": 488840, "title": "O rybake i rybke", "original_title": "O rybake i rybke", "slug_title": "o-rybake-i-rybke", "date": "2002-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMjgxlVJPw1WaV9au5q4cKusvxr.jpg", "actors": [], "comments": [], "recommandations_id": []}

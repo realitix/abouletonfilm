@@ -1,0 +1,1 @@
+{"tmdb_id": 306148, "title": "Dil Ne Pukara", "original_title": "Dil Ne Pukara", "slug_title": "dil-ne-pukara", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Sanjay Khan ()", "Rajshree ()", "Mehmood ()", "Helen ()"], "comments": [], "recommandations_id": []}

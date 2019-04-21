@@ -1,0 +1,1 @@
+{"tmdb_id": 554069, "title": "T de Antoni Tapies - Documental", "original_title": "T de Antoni Tapies - Documental", "slug_title": "t-de-antoni-tapies-documental", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2xqOvRJUnWRq9ZfQknIesl2P2y.jpg", "actors": [], "comments": [], "recommandations_id": []}

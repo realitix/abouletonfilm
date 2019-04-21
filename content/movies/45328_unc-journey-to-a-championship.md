@@ -1,0 +1,1 @@
+{"tmdb_id": 45328, "title": "UNC Journey To A Championship", "original_title": "UNC Journey To A Championship", "slug_title": "unc-journey-to-a-championship", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

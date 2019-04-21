@@ -1,0 +1,1 @@
+{"tmdb_id": 552395, "title": "Case of Cherie", "original_title": "\u0414\u0435\u043b\u043e \u0428\u0435\u0440\u0438", "slug_title": "case-of-cherie", "date": "2018-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crX0iivAFbRZf3K5xmJF3ZGPhPk.jpg", "actors": [], "comments": [], "recommandations_id": []}

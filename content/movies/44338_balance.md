@@ -1,0 +1,1 @@
+{"tmdb_id": 44338, "title": "Balance", "original_title": "Balance", "slug_title": "balance", "date": "1989-05-25", "genre": "Drame / Animation", "score": "7.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ov2bqOH8GGyQsJzTe7c0FNVxxyr.jpg", "actors": [], "comments": [], "recommandations_id": [36129, 114444, 143801, 134757]}

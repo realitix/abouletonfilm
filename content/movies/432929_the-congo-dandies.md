@@ -1,0 +1,1 @@
+{"tmdb_id": 432929, "title": "The Congo Dandies", "original_title": "The Congo Dandies", "slug_title": "the-congo-dandies", "date": "2015-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y28e46Smj928OTJD8QAkgYXR1G5.jpg", "actors": ["Maxime Pivot (Himself)"], "comments": [], "recommandations_id": []}

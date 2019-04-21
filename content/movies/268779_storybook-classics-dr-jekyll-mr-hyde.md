@@ -1,0 +1,1 @@
+{"tmdb_id": 268779, "title": "Storybook Classics: Dr. Jekyll & Mr. Hyde", "original_title": "Storybook Classics: Dr. Jekyll & Mr. Hyde", "slug_title": "storybook-classics-dr-jekyll-mr-hyde", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 150334, "title": "Mazeppa", "original_title": "Mazeppa", "slug_title": "mazeppa", "date": "1993-10-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mk4MIj8S0Tv1ZFKm19pnVXvexcq.jpg", "actors": [], "comments": [], "recommandations_id": []}

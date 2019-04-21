@@ -1,0 +1,1 @@
+{"tmdb_id": 295284, "title": "The Next Life", "original_title": "\u6d3b\u7740", "slug_title": "the-next-life", "date": "2012-05-15", "genre": "Familial / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTtQd26Q6xj3aSbLBrlxbUDEfKa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 514964, "title": "Anna Karina", "original_title": "Anna Karina", "slug_title": "anna-karina", "date": "2017-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6NMq8Ed20W1vYoMp36dEuoaXFy.jpg", "actors": [], "comments": [], "recommandations_id": []}

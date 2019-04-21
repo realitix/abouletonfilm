@@ -1,0 +1,1 @@
+{"tmdb_id": 406211, "title": "Dio: [2000] Detroit, MI", "original_title": "Dio: [2000] Detroit, MI", "slug_title": "dio-2000-detroit-mi", "date": "2000-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Lropz8qtSKddXxeozFZYuDN7vD.jpg", "actors": [], "comments": [], "recommandations_id": []}

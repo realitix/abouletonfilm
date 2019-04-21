@@ -1,0 +1,1 @@
+{"tmdb_id": 547395, "title": "The Bird & The Whale", "original_title": "The Bird & The Whale", "slug_title": "the-bird-the-whale", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yeNjJ2LeaaP88AazZ4BXAC9sF76.jpg", "actors": [], "comments": [], "recommandations_id": []}

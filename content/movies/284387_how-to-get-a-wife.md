@@ -1,0 +1,1 @@
+{"tmdb_id": 284387, "title": "How to Get a Wife", "original_title": "Zhui qi ji", "slug_title": "how-to-get-a-wife", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chi Chou ()", "Luquan Gao ()", "Geung Chung-Ping ()"], "comments": [], "recommandations_id": []}

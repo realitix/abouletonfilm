@@ -1,0 +1,1 @@
+{"tmdb_id": 436519, "title": "Sakhisona", "original_title": "Sakhisona", "slug_title": "sakhisona", "date": "2017-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Y4hj4zpQiKQZRJjalNUlRjmAcd.jpg", "actors": [], "comments": [], "recommandations_id": []}

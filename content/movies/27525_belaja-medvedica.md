@@ -1,0 +1,1 @@
+{"tmdb_id": 27525, "title": "Belaja medvedica", "original_title": "Belaja medvedica", "slug_title": "belaja-medvedica", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8LoyPYb5BHaY76CIQJGGVDLR3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

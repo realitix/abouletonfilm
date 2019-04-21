@@ -1,0 +1,1 @@
+{"tmdb_id": 252818, "title": "Let's All Sing Like the Birdies Sing", "original_title": "Let's All Sing Like the Birdies Sing", "slug_title": "let-s-all-sing-like-the-birdies-sing", "date": "1934-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Artie Dunn ()", "Les Reis ()"], "comments": [], "recommandations_id": []}

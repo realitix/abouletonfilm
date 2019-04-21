@@ -1,0 +1,1 @@
+{"tmdb_id": 124674, "title": "Ah-Chung", "original_title": "Zhong zi", "slug_title": "ah-chung", "date": "1996-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJzmpcDxvwQxDZeTg7ghiJbA5NF.jpg", "actors": [], "comments": [], "recommandations_id": []}

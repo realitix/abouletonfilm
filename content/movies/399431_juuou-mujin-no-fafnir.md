@@ -1,0 +1,1 @@
+{"tmdb_id": 399431, "title": "Juuou Mujin no Fafnir", "original_title": "Juuou Mujin no Fafnir", "slug_title": "juuou-mujin-no-fafnir", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sY9X8ylfFcwhy1D28Qdt8qttd9G.jpg", "actors": [], "comments": [], "recommandations_id": []}

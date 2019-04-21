@@ -1,0 +1,1 @@
+{"tmdb_id": 394053, "title": "Viva Les Amis", "original_title": "Viva Les Amis", "slug_title": "viva-les-amis", "date": "2005-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

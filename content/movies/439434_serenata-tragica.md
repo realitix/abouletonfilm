@@ -1,0 +1,1 @@
+{"tmdb_id": 439434, "title": "Serenata tragica", "original_title": "Serenata tragica", "slug_title": "serenata-tragica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345023, "title": "Stuperen", "original_title": "Stuperen", "slug_title": "stuperen", "date": "1996-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kasper Rasmussen ()", "Ida Solvang ()"], "comments": [], "recommandations_id": []}

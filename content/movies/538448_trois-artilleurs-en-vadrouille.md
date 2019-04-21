@@ -1,0 +1,1 @@
+{"tmdb_id": 538448, "title": "Trois artilleurs en vadrouille", "original_title": "Trois artilleurs en vadrouille", "slug_title": "trois-artilleurs-en-vadrouille", "date": "1938-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBrW7wHeegS4ViiRLWewSXQ80zF.jpg", "actors": [], "comments": [], "recommandations_id": []}

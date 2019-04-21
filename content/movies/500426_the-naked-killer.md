@@ -1,0 +1,1 @@
+{"tmdb_id": 500426, "title": "The Naked Killer", "original_title": "L'assassino nudo", "slug_title": "the-naked-killer", "date": "1984-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

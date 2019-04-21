@@ -1,0 +1,1 @@
+{"tmdb_id": 292814, "title": "Forma Otwarta - Ulica i Trybuna przed PKiN", "original_title": "Forma Otwarta - Ulica i Trybuna przed PKiN", "slug_title": "forma-otwarta-ulica-i-trybuna-przed-pkin", "date": "1971-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

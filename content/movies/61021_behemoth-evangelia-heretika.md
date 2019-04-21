@@ -1,0 +1,1 @@
+{"tmdb_id": 61021, "title": "Behemoth: Evangelia Heretika", "original_title": "Behemoth: Evangelia Heretika", "slug_title": "behemoth-evangelia-heretika", "date": "2010-11-05", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eH6lHXVxiPZARkiHlBWiBYv59Uh.jpg", "actors": [], "comments": [], "recommandations_id": []}

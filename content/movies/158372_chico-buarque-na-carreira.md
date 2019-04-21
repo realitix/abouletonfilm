@@ -1,0 +1,1 @@
+{"tmdb_id": 158372, "title": "Chico Buarque - Na Carreira", "original_title": "Chico Buarque - Na Carreira", "slug_title": "chico-buarque-na-carreira", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piVelIF9a7at7Smkw89KXXtj1zi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 186475, "title": "Lions for Sale", "original_title": "Lions for Sale", "slug_title": "lions-for-sale", "date": "1941-08-09", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

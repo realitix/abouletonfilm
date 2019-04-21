@@ -1,0 +1,1 @@
+{"tmdb_id": 575598, "title": "Bloodrome", "original_title": "Bloodrome", "slug_title": "bloodrome", "date": "2019-02-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzH4NlW7PnPz7DfjQWwesakUBec.jpg", "actors": ["Chiyo Shinomiya ()"], "comments": [], "recommandations_id": []}

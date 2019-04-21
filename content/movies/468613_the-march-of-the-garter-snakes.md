@@ -1,0 +1,1 @@
+{"tmdb_id": 468613, "title": "The March of the Garter Snakes", "original_title": "The March of the Garter Snakes", "slug_title": "the-march-of-the-garter-snakes", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

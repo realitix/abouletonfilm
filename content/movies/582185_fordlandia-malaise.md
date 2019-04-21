@@ -1,0 +1,1 @@
+{"tmdb_id": 582185, "title": "Fordlandia Malaise", "original_title": "Fordlandia Malaise", "slug_title": "fordlandia-malaise", "date": "2019-02-13", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6iHGOWInDlhOuEMSS59u2RuM4Aj.jpg", "actors": [], "comments": [], "recommandations_id": []}

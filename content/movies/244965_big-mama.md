@@ -1,0 +1,1 @@
+{"tmdb_id": 244965, "title": "Big Mama", "original_title": "Big Mama", "slug_title": "big-mama", "date": "2001-05-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWsKjQ84yYIjUWdgwf7XsY0feSw.jpg", "actors": ["Viola Dees (Herself)"], "comments": [], "recommandations_id": []}

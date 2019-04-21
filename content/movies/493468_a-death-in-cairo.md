@@ -1,0 +1,1 @@
+{"tmdb_id": 493468, "title": "A Death In Cairo", "original_title": "A Death In Cairo", "slug_title": "a-death-in-cairo", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSZgI8L5E9VWzhDGRidCanOdWPK.jpg", "actors": ["Sally Zein (Woman)"], "comments": [], "recommandations_id": []}

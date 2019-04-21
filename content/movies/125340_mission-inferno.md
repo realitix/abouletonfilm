@@ -1,0 +1,1 @@
+{"tmdb_id": 125340, "title": "Mission Inferno", "original_title": "Mission Inferno", "slug_title": "mission-inferno", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPIsV7EgTzP6YFWkjKevRNhTqNz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498196, "title": "Capital Letters", "original_title": "Capital Letters", "slug_title": "capital-letters", "date": "2004-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4v6P5Me5SPyUlLh8H6l7WiUUFzp.jpg", "actors": [], "comments": [], "recommandations_id": []}

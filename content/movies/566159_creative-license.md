@@ -1,0 +1,1 @@
+{"tmdb_id": 566159, "title": "Creative License", "original_title": "Creative License", "slug_title": "creative-license", "date": "2016-06-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cathy Azanza ()", "Topper Fabregas ()"], "comments": [], "recommandations_id": []}

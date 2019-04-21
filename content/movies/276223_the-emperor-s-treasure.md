@@ -1,0 +1,1 @@
+{"tmdb_id": 276223, "title": "The Emperor's Treasure", "original_title": "The Emperor's Treasure", "slug_title": "the-emperor-s-treasure", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

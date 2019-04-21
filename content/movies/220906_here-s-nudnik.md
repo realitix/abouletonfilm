@@ -1,0 +1,1 @@
+{"tmdb_id": 220906, "title": "Here's Nudnik", "original_title": "Here's Nudnik", "slug_title": "here-s-nudnik", "date": "1965-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56oBShDzkS4O1SzVyUGN0KZPqqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

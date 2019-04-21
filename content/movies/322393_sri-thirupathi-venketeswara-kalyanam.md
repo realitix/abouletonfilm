@@ -1,0 +1,1 @@
+{"tmdb_id": 322393, "title": "Sri Thirupathi Venketeswara Kalyanam", "original_title": "Sri Thirupathi Venketeswara Kalyanam", "slug_title": "sri-thirupathi-venketeswara-kalyanam", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313474, "title": "The Wonderful World of Louis Armstrong", "original_title": "The Wonderful World of Louis Armstrong", "slug_title": "the-wonderful-world-of-louis-armstrong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

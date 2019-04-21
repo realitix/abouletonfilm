@@ -1,0 +1,1 @@
+{"tmdb_id": 236489, "title": "The Rookie Bear", "original_title": "The Rookie Bear", "slug_title": "the-rookie-bear", "date": "1941-11-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tYuYndtUJ6TEZyo1hckUFep4n.jpg", "actors": [], "comments": [], "recommandations_id": []}

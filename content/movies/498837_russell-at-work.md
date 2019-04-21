@@ -1,0 +1,1 @@
+{"tmdb_id": 498837, "title": "Russell at Work", "original_title": "Russell at Work", "slug_title": "russell-at-work", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ken Russell ()", "Victoria Russell ()"], "comments": [], "recommandations_id": []}

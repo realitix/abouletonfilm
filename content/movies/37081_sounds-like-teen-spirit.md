@@ -1,0 +1,1 @@
+{"tmdb_id": 37081, "title": "Sounds Like Teen Spirit", "original_title": "Sounds Like Teen Spirit", "slug_title": "sounds-like-teen-spirit", "date": "2008-09-09", "genre": "Documentaire / Musique", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiVW5e3UuzjINU3cEyp0LINTpJV.jpg", "actors": [], "comments": [], "recommandations_id": []}

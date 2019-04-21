@@ -1,0 +1,1 @@
+{"tmdb_id": 327955, "title": "The Adventures of Marshall Art 2", "original_title": "The Adventures of Marshall Art 2", "slug_title": "the-adventures-of-marshall-art-2", "date": "2004-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rob Fishbook (Marshall Art)"], "comments": [], "recommandations_id": []}

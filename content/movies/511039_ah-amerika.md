@@ -1,0 +1,1 @@
+{"tmdb_id": 511039, "title": "Ah, Amerika!", "original_title": "Ah, Amerika!", "slug_title": "ah-amerika", "date": "1984-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21YQdE6f6xWk3KhIcWoHRSXO4l5.jpg", "actors": [], "comments": [], "recommandations_id": []}

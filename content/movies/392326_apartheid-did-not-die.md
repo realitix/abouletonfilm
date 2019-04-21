@@ -1,0 +1,1 @@
+{"tmdb_id": 392326, "title": "Apartheid Did Not Die", "original_title": "Apartheid Did Not Die", "slug_title": "apartheid-did-not-die", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jP3BpcDW7G82JkihEDMcsWdL7AU.jpg", "actors": ["John Pilger ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410479, "title": "I soldati di Allah", "original_title": "I soldati di Allah", "slug_title": "i-soldati-di-allah", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

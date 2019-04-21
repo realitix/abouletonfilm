@@ -1,0 +1,1 @@
+{"tmdb_id": 592502, "title": "Acid Rain", "original_title": "Acid Rain", "slug_title": "acid-rain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kimberly Harsch  (Mrs. Connor)", "Collin Kittrell (Benjamin Connor)", "Devon Murphy (Courtney Harrison)"], "comments": [], "recommandations_id": []}

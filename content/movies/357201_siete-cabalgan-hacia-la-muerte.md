@@ -1,0 +1,1 @@
+{"tmdb_id": 357201, "title": "Siete cabalgan hacia la muerte", "original_title": "Siete cabalgan hacia la muerte", "slug_title": "siete-cabalgan-hacia-la-muerte", "date": "", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asumpta Serena ()", "George Grandson ()", "Luis Rosillo ()"], "comments": [], "recommandations_id": []}

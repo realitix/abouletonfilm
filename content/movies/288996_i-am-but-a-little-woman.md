@@ -1,0 +1,1 @@
+{"tmdb_id": 288996, "title": "I Am But a Little Woman", "original_title": "I Am But a Little Woman", "slug_title": "i-am-but-a-little-woman", "date": "2010-06-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

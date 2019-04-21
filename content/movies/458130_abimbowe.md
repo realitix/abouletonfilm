@@ -1,0 +1,1 @@
+{"tmdb_id": 458130, "title": "Abimbow\u00e9", "original_title": "Abimbow\u00e9", "slug_title": "abimbowe", "date": "2008-01-18", "genre": "Drame / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CZBW3U3wdT2Y5W4uD1QWbC9zeU.jpg", "actors": ["Irene Anula (Mar\u00eda)"], "comments": [], "recommandations_id": []}

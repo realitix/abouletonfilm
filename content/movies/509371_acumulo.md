@@ -1,0 +1,1 @@
+{"tmdb_id": 509371, "title": "Ac\u00famulo", "original_title": "Ac\u00famulo", "slug_title": "acumulo", "date": "2018-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0bL4EWWz6kaiLcBsVkQp6W4ypD.jpg", "actors": ["L\u00e9a Garcia ()"], "comments": [], "recommandations_id": []}

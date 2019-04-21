@@ -1,0 +1,1 @@
+{"tmdb_id": 592929, "title": "Krik Tishiny", "original_title": "Krik Tishiny", "slug_title": "krik-tishiny", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zajkI4g7yo8hubojOg7SYoAskXY.jpg", "actors": [], "comments": [], "recommandations_id": []}

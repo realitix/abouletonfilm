@@ -1,0 +1,1 @@
+{"tmdb_id": 218769, "title": "The Hangman", "original_title": "The Hangman", "slug_title": "the-hangman", "date": "1964-01-01", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edpHwgHavcUn1fN0HCSFx4WWs1o.jpg", "actors": ["Herschel Bernardi (Narrator)"], "comments": [], "recommandations_id": []}

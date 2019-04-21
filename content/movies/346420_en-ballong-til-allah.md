@@ -1,0 +1,1 @@
+{"tmdb_id": 346420, "title": "En ballong til Allah", "original_title": "En ballong til Allah", "slug_title": "en-ballong-til-allah", "date": "2011-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTdMAMnNxwRXKYRKTensrH7IMyS.jpg", "actors": ["Nefise \u00d6zkal Lorentzen ()"], "comments": [], "recommandations_id": []}

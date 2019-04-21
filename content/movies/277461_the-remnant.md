@@ -1,0 +1,1 @@
+{"tmdb_id": 277461, "title": "The Remnant", "original_title": "The Remnant", "slug_title": "the-remnant", "date": "2001-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XKmatpo3t5ha0T1WskTgoBOiL5.jpg", "actors": [], "comments": [], "recommandations_id": []}

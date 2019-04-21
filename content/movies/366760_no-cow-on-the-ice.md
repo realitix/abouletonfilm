@@ -1,0 +1,1 @@
+{"tmdb_id": 366760, "title": "No Cow On the Ice", "original_title": "Ingen ko p\u00e5 isen", "slug_title": "no-cow-on-the-ice", "date": "2015-11-05", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fsZ9nZl9CGfygIVSh3ZmnzDe49A.jpg", "actors": [], "comments": [], "recommandations_id": []}

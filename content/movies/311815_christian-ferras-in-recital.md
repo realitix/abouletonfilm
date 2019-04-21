@@ -1,0 +1,1 @@
+{"tmdb_id": 311815, "title": "Christian Ferras in Recital", "original_title": "Christian Ferras in Recital", "slug_title": "christian-ferras-in-recital", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

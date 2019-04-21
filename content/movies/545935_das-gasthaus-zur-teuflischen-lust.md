@@ -1,0 +1,1 @@
+{"tmdb_id": 545935, "title": "Das Gasthaus zur teuflischen Lust", "original_title": "Das Gasthaus zur teuflischen Lust", "slug_title": "das-gasthaus-zur-teuflischen-lust", "date": "", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

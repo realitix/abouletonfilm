@@ -1,0 +1,1 @@
+{"tmdb_id": 309267, "title": "Ego\u00efste: Lotti Latrous", "original_title": "Ego\u00efste: Lotti Latrous", "slug_title": "egoiste-lotti-latrous", "date": "2007-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

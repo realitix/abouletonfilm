@@ -1,0 +1,1 @@
+{"tmdb_id": 528705, "title": "K-1 Fight Night '98", "original_title": "K-1 Fight Night '98", "slug_title": "k-1-fight-night-98", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368399, "title": "The Pink Ladies", "original_title": "The Pink Ladies", "slug_title": "the-pink-ladies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

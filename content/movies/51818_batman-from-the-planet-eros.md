@@ -1,0 +1,1 @@
+{"tmdb_id": 51818, "title": "Batman from the Planet Eros", "original_title": "Batman from the Planet Eros", "slug_title": "batman-from-the-planet-eros", "date": "1982-04-16", "genre": "Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2UdOvYKgTQ5gyylWkxyTTbTPRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

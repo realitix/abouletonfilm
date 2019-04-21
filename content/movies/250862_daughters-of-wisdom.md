@@ -1,0 +1,1 @@
+{"tmdb_id": 250862, "title": "Daughters of Wisdom", "original_title": "Daughters of Wisdom", "slug_title": "daughters-of-wisdom", "date": "2007-06-03", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKdQYbZGl2dtaUuKBBRl13kH9Bw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387313, "title": "Snoopy Snippets", "original_title": "Snoopy Snippets", "slug_title": "snoopy-snippets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

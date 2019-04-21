@@ -1,0 +1,1 @@
+{"tmdb_id": 55079, "title": "Sabbath", "original_title": "Sabbath", "slug_title": "sabbath", "date": "2008-02-05", "genre": "Horreur", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1x9yz3tXKcuWRa94f8dvbEBC1f9.jpg", "actors": ["David Crawford (Reverend)"], "comments": [], "recommandations_id": []}

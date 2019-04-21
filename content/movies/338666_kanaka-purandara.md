@@ -1,0 +1,1 @@
+{"tmdb_id": 338666, "title": "Kanaka Purandara", "original_title": "Kanaka Purandara", "slug_title": "kanaka-purandara", "date": "1988-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzBevniK3cvGg6CUwl7gYnphx25.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 545432, "title": "\uc6b0\uc8fc\uc758 \uc740\uc720", "original_title": "\uc6b0\uc8fc\uc758 \uc740\uc720", "slug_title": "ujuyi-eunyu", "date": "2016-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

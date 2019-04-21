@@ -1,0 +1,1 @@
+{"tmdb_id": 368824, "title": "An Crann", "original_title": "An Crann", "slug_title": "an-crann", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bairbre N\u00ed Chaoimh (Aisling)", "Liam Burke (Brendan)", "Nichola MacEvilly (The Woman)"], "comments": [], "recommandations_id": []}

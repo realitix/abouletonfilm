@@ -1,0 +1,1 @@
+{"tmdb_id": 576610, "title": "Paul McCartney: Who Cares", "original_title": "Paul McCartney: Who Cares", "slug_title": "paul-mccartney-who-cares", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

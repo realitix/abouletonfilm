@@ -1,0 +1,1 @@
+{"tmdb_id": 502800, "title": "Shadows in Mind", "original_title": "Shadows in Mind", "slug_title": "shadows-in-mind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pano Tsaklas ()"], "comments": [], "recommandations_id": []}

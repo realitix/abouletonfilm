@@ -1,0 +1,1 @@
+{"tmdb_id": 300986, "title": "Tortured Females", "original_title": "Tortured Females", "slug_title": "tortured-females", "date": "1965-10-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIi9I6sSLU0kO9TfZ3d14jmQZwq.jpg", "actors": ["Denine Dubois (Helen)", "Jud Barry (Karl)"], "comments": [], "recommandations_id": []}

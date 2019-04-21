@@ -1,0 +1,1 @@
+{"tmdb_id": 512753, "title": "Dazed in Doon", "original_title": "Dazed in Doon", "slug_title": "dazed-in-doon", "date": "2010-10-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfO68DjUlUj3b7UFtoBXsgVXquO.jpg", "actors": ["Sookrit Malik (Howly)"], "comments": [], "recommandations_id": []}

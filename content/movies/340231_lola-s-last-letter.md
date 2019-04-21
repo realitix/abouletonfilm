@@ -1,0 +1,1 @@
+{"tmdb_id": 340231, "title": "Lola's Last Letter", "original_title": "Lola's Last Letter", "slug_title": "lola-s-last-letter", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

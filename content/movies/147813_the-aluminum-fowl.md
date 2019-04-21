@@ -1,0 +1,1 @@
+{"tmdb_id": 147813, "title": "The Aluminum Fowl", "original_title": "The Aluminum Fowl", "slug_title": "the-aluminum-fowl", "date": "2006-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bADaecgUJtICwjd0dQYWnrd0hMw.jpg", "actors": [], "comments": [], "recommandations_id": []}

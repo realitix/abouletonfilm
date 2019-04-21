@@ -1,0 +1,1 @@
+{"tmdb_id": 477874, "title": "Comment j\u2019ai mang\u00e9 du pain K.K", "original_title": "Comment j\u2019ai mang\u00e9 du pain K.K", "slug_title": "comment-jai-mange-du-pain-k-k", "date": "1915-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

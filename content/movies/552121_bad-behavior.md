@@ -1,0 +1,1 @@
+{"tmdb_id": 552121, "title": "Bad Behavior", "original_title": "Bad Behavior", "slug_title": "bad-behavior", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351169, "title": "Barnyard Amateurs", "original_title": "Barnyard Amateurs", "slug_title": "barnyard-amateurs", "date": "1936-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

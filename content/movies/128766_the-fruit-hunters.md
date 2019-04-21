@@ -1,0 +1,1 @@
+{"tmdb_id": 128766, "title": "The Fruit Hunters", "original_title": "The Fruit Hunters", "slug_title": "the-fruit-hunters", "date": "2012-11-23", "genre": "Documentaire", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2qDwJRG86zDmUId8PUEB2Yi8WFM.jpg", "actors": ["Bill Pullman (Himself)"], "comments": [], "recommandations_id": []}

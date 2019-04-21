@@ -1,0 +1,1 @@
+{"tmdb_id": 327872, "title": "Mermaid", "original_title": "Arousset el bahr", "slug_title": "mermaid", "date": "1947-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

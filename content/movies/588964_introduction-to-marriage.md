@@ -1,0 +1,1 @@
+{"tmdb_id": 588964, "title": "Introduction to Marriage", "original_title": "Kekkongaku ny\u00fbmon", "slug_title": "introduction-to-marriage", "date": "1930-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tatsuo Sait\u00f4 ()", "Mitsuko Yoshikawa ()", "Sumiko Kurishima ()"], "comments": [], "recommandations_id": []}

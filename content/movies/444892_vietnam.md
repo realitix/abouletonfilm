@@ -1,0 +1,1 @@
+{"tmdb_id": 444892, "title": "Vietnam", "original_title": "Vietnam", "slug_title": "vietnam", "date": "2016-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joJNGpvYiUoom8xvp5MQyEIxSZa.jpg", "actors": [], "comments": [], "recommandations_id": []}

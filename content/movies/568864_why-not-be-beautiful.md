@@ -1,0 +1,1 @@
+{"tmdb_id": 568864, "title": "Why Not Be Beautiful?", "original_title": "Why Not Be Beautiful?", "slug_title": "why-not-be-beautiful", "date": "1969-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

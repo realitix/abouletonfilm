@@ -1,0 +1,1 @@
+{"tmdb_id": 80904, "title": "Die Lampelgasse", "original_title": "Die Lampelgasse", "slug_title": "die-lampelgasse", "date": "1928-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Igo Sym ()", "Mary Kid ()", "Hans Moser ()"], "comments": [], "recommandations_id": []}

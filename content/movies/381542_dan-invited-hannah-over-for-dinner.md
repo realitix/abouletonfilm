@@ -1,0 +1,1 @@
+{"tmdb_id": 381542, "title": "Dan Invited Hannah over for Dinner", "original_title": "Dan Invited Hannah over for Dinner", "slug_title": "dan-invited-hannah-over-for-dinner", "date": "2012-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

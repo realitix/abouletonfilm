@@ -1,0 +1,1 @@
+{"tmdb_id": 106575, "title": "ABC: It's Easy for Me", "original_title": "ABC: It's Easy for Me", "slug_title": "abc-it-s-easy-for-me", "date": "", "genre": "Familial", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

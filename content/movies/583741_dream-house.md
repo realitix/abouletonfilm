@@ -1,0 +1,1 @@
+{"tmdb_id": 583741, "title": "Dream House", "original_title": "Dream House", "slug_title": "dream-house", "date": "1981-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marilu Henner (Laura Griffith)", "Michael Gross (Julius 'J.J.' Jacobson)", "John Schneider (Charley Cross)"], "comments": [], "recommandations_id": []}

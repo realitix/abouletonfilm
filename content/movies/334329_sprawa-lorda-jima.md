@@ -1,0 +1,1 @@
+{"tmdb_id": 334329, "title": "Sprawa lorda Jima", "original_title": "Sprawa lorda Jima", "slug_title": "sprawa-lorda-jima", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xpPDXE8YOlM1IxhY7fsH6Ovbk82.jpg", "actors": [], "comments": [], "recommandations_id": []}

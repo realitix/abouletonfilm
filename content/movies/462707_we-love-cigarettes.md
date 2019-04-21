@@ -1,0 +1,1 @@
+{"tmdb_id": 462707, "title": "We Love Cigarettes", "original_title": "We Love Cigarettes", "slug_title": "we-love-cigarettes", "date": "2006-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xRRVMYjCijnXligZk1Xnoa9jH1.jpg", "actors": ["Bill Nighy (Narrator)"], "comments": [], "recommandations_id": []}

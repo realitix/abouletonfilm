@@ -1,0 +1,1 @@
+{"tmdb_id": 517097, "title": "Hasil Adkins: Rock & Roll House Party", "original_title": "Hasil Adkins: Rock & Roll House Party", "slug_title": "hasil-adkins-rock-roll-house-party", "date": "1986-12-09", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hasil Adkins (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310556, "title": "Wild Canada", "original_title": "Wild Canada", "slug_title": "wild-canada", "date": "2014-11-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6W27hpSETOkwWHTVGHgk7uQXyI7.jpg", "actors": [], "comments": [], "recommandations_id": []}

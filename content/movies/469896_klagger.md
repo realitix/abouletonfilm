@@ -1,0 +1,1 @@
+{"tmdb_id": 469896, "title": "Klagger", "original_title": "Klagger", "slug_title": "klagger", "date": "2010-09-04", "genre": "Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0eHeSLCzwflx5WusfMMgCM43Uo.jpg", "actors": ["Matthew Aycock (Perry)", "Matt Willis (Klagger)"], "comments": [], "recommandations_id": []}

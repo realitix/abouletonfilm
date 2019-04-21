@@ -1,0 +1,1 @@
+{"tmdb_id": 263330, "title": "Lala's Gun", "original_title": "\u6eda\u62c9\u62c9\u7684\u67aa", "slug_title": "lala-s-gun", "date": "2008-09-28", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9FximV8BWccxVvNZe7kd2fVhBpJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

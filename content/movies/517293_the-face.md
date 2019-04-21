@@ -1,0 +1,1 @@
+{"tmdb_id": 517293, "title": "The Face", "original_title": "The Face", "slug_title": "the-face", "date": "2008-04-19", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Clifford (Poe)", "Jonathan Gordon (Sek)", "Alexandra Panzer (Mel)", "Liz Rothman (Lea)"], "comments": [], "recommandations_id": []}

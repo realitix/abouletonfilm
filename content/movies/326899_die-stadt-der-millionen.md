@@ -1,0 +1,1 @@
+{"tmdb_id": 326899, "title": "Die Stadt der Millionen", "original_title": "Die Stadt der Millionen", "slug_title": "die-stadt-der-millionen", "date": "1925-05-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5II0LaYOtyirmkUOBXZu74D0EtK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 54747, "title": "Without Bias", "original_title": "Without Bias", "slug_title": "without-bias", "date": "2009-11-03", "genre": "Documentaire", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPVvjR0gnXamkEjDCBjPDQZ7Ejp.jpg", "actors": [], "comments": [], "recommandations_id": [54685, 54680, 54684, 54740]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477170, "title": "El rey de los Gitanos", "original_title": "El rey de los Gitanos", "slug_title": "el-rey-de-los-gitanos", "date": "1933-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

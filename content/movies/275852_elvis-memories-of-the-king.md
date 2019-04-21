@@ -1,0 +1,1 @@
+{"tmdb_id": 275852, "title": "Elvis: Memories of the King", "original_title": "Elvis: Memories of the King", "slug_title": "elvis-memories-of-the-king", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKwBxTzfDcaQ0pJWnn5cdH8WMP0.jpg", "actors": [], "comments": [], "recommandations_id": []}

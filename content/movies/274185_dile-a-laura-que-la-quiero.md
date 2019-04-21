@@ -1,0 +1,1 @@
+{"tmdb_id": 274185, "title": "Dile a Laura Que La Quiero", "original_title": "Dile a Laura Que La Quiero", "slug_title": "dile-a-laura-que-la-quiero", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7e9dKw68GzIVkW7Z5lgFssbhTeX.jpg", "actors": [], "comments": [], "recommandations_id": []}

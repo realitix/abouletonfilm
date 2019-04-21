@@ -1,0 +1,1 @@
+{"tmdb_id": 398877, "title": "Parshuramer Kuthar", "original_title": "Parshuramer Kuthar", "slug_title": "parshuramer-kuthar", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Q2Y2HxRtLUlcfAeZ5211D2uB4u.jpg", "actors": ["Sreelekha Mukherji ()"], "comments": [], "recommandations_id": []}

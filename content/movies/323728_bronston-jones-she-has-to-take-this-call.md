@@ -1,0 +1,1 @@
+{"tmdb_id": 323728, "title": "Bronston Jones: She Has to Take this Call", "original_title": "Bronston Jones: She Has to Take this Call", "slug_title": "bronston-jones-she-has-to-take-this-call", "date": "2013-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

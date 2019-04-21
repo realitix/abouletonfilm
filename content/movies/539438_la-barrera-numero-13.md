@@ -1,0 +1,1 @@
+{"tmdb_id": 539438, "title": "La Barrera n\u00famero 13", "original_title": "La Barrera n\u00famero 13", "slug_title": "la-barrera-numero-13", "date": "1913-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324896, "title": "Mega Mindy - De Pinguinjas", "original_title": "Mega Mindy - De Pinguinjas", "slug_title": "mega-mindy-de-pinguinjas", "date": "2008-04-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1ORIzwQVP9nAnS26nhv1eId4wa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 348649, "title": "Fotbollskr\u00f6nikan VM 2014", "original_title": "Fotbollskr\u00f6nikan VM 2014", "slug_title": "fotbollskronikan-vm-2014", "date": "2014-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iIJBaui2rXrsCQ1ICAq4eDXpG8U.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576922, "title": "\u0413\u0443\u043b\u044f\u0439, \u0412\u0430\u0441\u044f 2", "original_title": "\u0413\u0443\u043b\u044f\u0439, \u0412\u0430\u0441\u044f 2", "slug_title": "guliai-vasia-2", "date": "2020-02-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

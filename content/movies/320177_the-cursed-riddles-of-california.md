@@ -1,0 +1,1 @@
+{"tmdb_id": 320177, "title": "The Cursed Riddles of California", "original_title": "The Cursed Riddles of California", "slug_title": "the-cursed-riddles-of-california", "date": "2014-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

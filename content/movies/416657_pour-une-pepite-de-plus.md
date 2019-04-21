@@ -1,0 +1,1 @@
+{"tmdb_id": 416657, "title": "Pour Une Pepite de Plus", "original_title": "Pour Une Pepite de Plus", "slug_title": "pour-une-pepite-de-plus", "date": "2011-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Augustin Jacob (Voice)", "Antoine Kinget (Voice)"], "comments": [], "recommandations_id": []}

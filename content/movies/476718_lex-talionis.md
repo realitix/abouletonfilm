@@ -1,0 +1,1 @@
+{"tmdb_id": 476718, "title": "Lex Talionis", "original_title": "Lex Talionis", "slug_title": "lex-talionis", "date": "2016-05-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sahil Vaid (Sawant)", "Anya Singh (Wife)", "Akash Dhar (Ajay)", "Aditya Tarnach (Gopal)"], "comments": [], "recommandations_id": []}

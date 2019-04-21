@@ -1,0 +1,1 @@
+{"tmdb_id": 253972, "title": "Hot Lips Jasper", "original_title": "Hot Lips Jasper", "slug_title": "hot-lips-jasper", "date": "1945-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 231148, "title": "Exercices de Ski", "original_title": "Exercices de Ski", "slug_title": "exercices-de-ski", "date": "1904-10-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 147130, "title": "M\u00e4dchen in der Sauna", "original_title": "M\u00e4dchen in der Sauna", "slug_title": "madchen-in-der-sauna", "date": "1967-01-01", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 546946, "title": "A Rock and a Hard Place", "original_title": "A Rock and a Hard Place", "slug_title": "a-rock-and-a-hard-place", "date": "1999-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nsvk0XZsmumnLlHClrs7EpNxU2V.jpg", "actors": [], "comments": [], "recommandations_id": []}

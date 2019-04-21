@@ -1,0 +1,1 @@
+{"tmdb_id": 50097, "title": "War of the Servers", "original_title": "War of the Servers", "slug_title": "war-of-the-servers", "date": "2007-06-29", "genre": "Action / Drame / Thriller", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMg48r3zMz6HMez4ksNEeOcrVV1.jpg", "actors": [], "comments": [], "recommandations_id": []}

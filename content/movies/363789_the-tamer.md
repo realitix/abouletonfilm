@@ -1,0 +1,1 @@
+{"tmdb_id": 363789, "title": "The Tamer", "original_title": "El domador", "slug_title": "the-tamer", "date": "1978-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rac09wMAKJzIc5bKtwQr7BMBMS.jpg", "actors": [], "comments": [], "recommandations_id": [162660, 163349]}

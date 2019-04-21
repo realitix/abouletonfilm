@@ -1,0 +1,1 @@
+{"tmdb_id": 163204, "title": "Les Halles centrales", "original_title": "Les Halles centrales", "slug_title": "les-halles-centrales", "date": "1927-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

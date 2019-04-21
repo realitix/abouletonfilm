@@ -1,0 +1,1 @@
+{"tmdb_id": 582890, "title": "Tijuana Bible", "original_title": "Tijuana Bible", "slug_title": "tijuana-bible", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Anderson ()", "No\u00e9 Hern\u00e1ndez ()", "Adriana Paz ()", "Giancarlo Ruiz ()"], "comments": [], "recommandations_id": []}

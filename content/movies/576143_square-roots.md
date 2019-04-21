@@ -1,0 +1,1 @@
+{"tmdb_id": 576143, "title": "Square Roots", "original_title": "Square Roots", "slug_title": "square-roots", "date": "2006-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 462319, "title": "Monkeylove", "original_title": "Monkeylove", "slug_title": "monkeylove", "date": "2005-06-18", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hiroaki Muragishi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584187, "title": "A Girl From Mogadishu", "original_title": "A Girl From Mogadishu", "slug_title": "a-girl-from-mogadishu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

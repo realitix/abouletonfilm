@@ -1,0 +1,1 @@
+{"tmdb_id": 585946, "title": "Absolute Film", "original_title": "Absolute Film", "slug_title": "absolute-film", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

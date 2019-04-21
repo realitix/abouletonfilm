@@ -1,0 +1,1 @@
+{"tmdb_id": 75632, "title": "Norske Nybegynnere 10", "original_title": "Norske Nybegynnere 10", "slug_title": "norske-nybegynnere-10", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2onBpMyX5t4dPhXweOIPQx8jILT.jpg", "actors": [], "comments": [], "recommandations_id": []}

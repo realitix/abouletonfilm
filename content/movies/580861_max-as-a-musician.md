@@ -1,0 +1,1 @@
+{"tmdb_id": 580861, "title": "Max as a Musician", "original_title": "Max virtuose", "slug_title": "max-as-a-musician", "date": "1913-12-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)"], "comments": [], "recommandations_id": []}

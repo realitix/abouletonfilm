@@ -1,0 +1,1 @@
+{"tmdb_id": 344208, "title": "Le bapt\u00eame de Calino", "original_title": "Le bapt\u00eame de Calino", "slug_title": "le-bapteme-de-calino", "date": "1910-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cl\u00e9ment M\u00e9g\u00e9 (Calino)", "Gaston Modot ()"], "comments": [], "recommandations_id": []}

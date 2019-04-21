@@ -1,0 +1,1 @@
+{"tmdb_id": 350709, "title": "For a Young Filmmaker", "original_title": "Pour une jeune Cineaste", "slug_title": "for-a-young-filmmaker", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLzkRSVPsmlGWBK9RrdpZ2HBPuV.jpg", "actors": [], "comments": [], "recommandations_id": []}

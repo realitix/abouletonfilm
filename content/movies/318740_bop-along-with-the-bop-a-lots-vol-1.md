@@ -1,0 +1,1 @@
+{"tmdb_id": 318740, "title": "Bop-Along with the Bop-A-Lots: Vol. 1", "original_title": "Bop-Along with the Bop-A-Lots: Vol. 1", "slug_title": "bop-along-with-the-bop-a-lots-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

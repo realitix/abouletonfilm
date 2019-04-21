@@ -1,0 +1,1 @@
+{"tmdb_id": 502041, "title": "Incidence of Catastrophe", "original_title": "Incidence of Catastrophe", "slug_title": "incidence-of-catastrophe", "date": "1988-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

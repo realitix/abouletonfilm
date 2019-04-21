@@ -1,0 +1,1 @@
+{"tmdb_id": 120450, "title": "Sarah Geronimo: The Next One", "original_title": "Sarah Geronimo: The Next One", "slug_title": "sarah-geronimo-the-next-one", "date": "2008-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah Geronimo (herself)"], "comments": [], "recommandations_id": []}

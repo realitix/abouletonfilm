@@ -1,0 +1,1 @@
+{"tmdb_id": 479686, "title": "Sharp Tools", "original_title": "Sharp Tools", "slug_title": "sharp-tools", "date": "1928-09-12", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ethel Grey Terry ()", "William B. Davidson ()", "Carl Gerard ()", "Eddie Sturgis ()"], "comments": [], "recommandations_id": []}

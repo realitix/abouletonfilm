@@ -1,0 +1,1 @@
+{"tmdb_id": 486288, "title": "Adriano Celentano", "original_title": "Adriano Celentano", "slug_title": "adriano-celentano", "date": "2012-10-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awnZ8vxWuS2aI7sguKXCcQ4dxNU.jpg", "actors": [], "comments": [], "recommandations_id": []}

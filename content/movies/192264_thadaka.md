@@ -1,0 +1,1 @@
+{"tmdb_id": 192264, "title": "Thadaka", "original_title": "Thadaka", "slug_title": "thadaka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xM57u2bUb14GRU1KRvz8Uoi5ZCC.jpg", "actors": [], "comments": [], "recommandations_id": []}

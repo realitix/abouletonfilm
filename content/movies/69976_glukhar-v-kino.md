@@ -1,0 +1,1 @@
+{"tmdb_id": 69976, "title": "Glukhar v kino", "original_title": "Glukhar v kino", "slug_title": "glukhar-v-kino", "date": "2010-05-06", "genre": "", "score": "4.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vW6feGrSTPWCvRMN966znoUSrgk.jpg", "actors": [], "comments": [], "recommandations_id": [238869]}

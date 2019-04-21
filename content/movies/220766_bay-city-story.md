@@ -1,0 +1,1 @@
+{"tmdb_id": 220766, "title": "Bay City Story", "original_title": "Bay City Story", "slug_title": "bay-city-story", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Russ ()", "Cheryl Pollak ()", "Paul Regina ()", "Kimberly Foster (Ellen Brattle)"], "comments": [], "recommandations_id": []}

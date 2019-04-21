@@ -1,0 +1,1 @@
+{"tmdb_id": 589962, "title": "Vardaniya, Beti Ek Vardaan", "original_title": "Vardaniya, Beti Ek Vardaan", "slug_title": "vardaniya-beti-ek-vardaan", "date": "2018-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

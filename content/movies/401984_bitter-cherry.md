@@ -1,0 +1,1 @@
+{"tmdb_id": 401984, "title": "Bitter Cherry", "original_title": "Bitter Cherry", "slug_title": "bitter-cherry", "date": "1983-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roger Daltrey ()", "Denis Lawson ()"], "comments": [], "recommandations_id": []}

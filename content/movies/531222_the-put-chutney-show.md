@@ -1,0 +1,1 @@
+{"tmdb_id": 531222, "title": "The Put Chutney Show", "original_title": "The Put Chutney Show", "slug_title": "the-put-chutney-show", "date": "2018-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

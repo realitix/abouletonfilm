@@ -1,0 +1,1 @@
+{"tmdb_id": 415605, "title": "Silueta Sangrienta", "original_title": "Silueta Sangrienta", "slug_title": "silueta-sangrienta", "date": "1975-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qA1IBSGjYa7IbaPQHy2D9q0v8o4.jpg", "actors": [], "comments": [], "recommandations_id": []}

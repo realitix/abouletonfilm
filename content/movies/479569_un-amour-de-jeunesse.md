@@ -1,0 +1,1 @@
+{"tmdb_id": 479569, "title": "Un amour de jeunesse", "original_title": "Un amour de jeunesse", "slug_title": "un-amour-de-jeunesse", "date": "1977-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

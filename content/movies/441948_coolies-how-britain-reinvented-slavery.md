@@ -1,0 +1,1 @@
+{"tmdb_id": 441948, "title": "Coolies: How Britain Reinvented Slavery", "original_title": "Coolies: How Britain Reinvented Slavery", "slug_title": "coolies-how-britain-reinvented-slavery", "date": "2002-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

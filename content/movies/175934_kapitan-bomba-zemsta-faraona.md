@@ -1,0 +1,1 @@
+{"tmdb_id": 175934, "title": "Kapitan Bomba - Zemsta Faraona", "original_title": "Kapitan Bomba - Zemsta Faraona", "slug_title": "kapitan-bomba-zemsta-faraona", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

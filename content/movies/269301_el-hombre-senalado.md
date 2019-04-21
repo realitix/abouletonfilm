@@ -1,0 +1,1 @@
+{"tmdb_id": 269301, "title": "El hombre se\u00f1alado", "original_title": "El hombre se\u00f1alado", "slug_title": "el-hombre-senalado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1KjCz9KojQnFTF5kobSTaoJBKxq.jpg", "actors": [], "comments": [], "recommandations_id": []}

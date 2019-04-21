@@ -1,0 +1,1 @@
+{"tmdb_id": 268190, "title": "Svullo Grisar Vidare", "original_title": "Svullo Grisar Vidare", "slug_title": "svullo-grisar-vidare", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2v875uKeNFat2HvN5uEhJR4SnYU.jpg", "actors": ["Micke Dubois (Svullo)"], "comments": [], "recommandations_id": []}

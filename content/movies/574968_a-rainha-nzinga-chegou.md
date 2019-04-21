@@ -1,0 +1,1 @@
+{"tmdb_id": 574968, "title": "A Rainha Nzinga Chegou", "original_title": "A Rainha Nzinga Chegou", "slug_title": "a-rainha-nzinga-chegou", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dBLb4E7cRheH2OfiFAv7BjSvMn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422066, "title": "China Girl", "original_title": "China Girl", "slug_title": "china-girl", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tZ2Q22yuJXteE1QF737W1DH7W.jpg", "actors": [], "comments": [], "recommandations_id": []}

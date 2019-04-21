@@ -1,0 +1,1 @@
+{"tmdb_id": 503511, "title": "Buio in sala", "original_title": "Buio in sala", "slug_title": "buio-in-sala", "date": "1950-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

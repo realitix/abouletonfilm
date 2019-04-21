@@ -1,0 +1,1 @@
+{"tmdb_id": 319413, "title": "Behind the Hatred: Mortal Enemies", "original_title": "Behind the Hatred: Mortal Enemies", "slug_title": "behind-the-hatred-mortal-enemies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

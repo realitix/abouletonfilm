@@ -1,0 +1,1 @@
+{"tmdb_id": 235099, "title": "The Bridge", "original_title": "Die Br\u00fccke", "slug_title": "the-bridge", "date": "1957-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lv5em0uPaFAs5PwDiL8Zj3BSsAi.jpg", "actors": ["Maja Maisch ()"], "comments": [], "recommandations_id": []}

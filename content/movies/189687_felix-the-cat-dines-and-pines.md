@@ -1,0 +1,1 @@
+{"tmdb_id": 189687, "title": "Felix the Cat Dines and Pines", "original_title": "Felix the Cat Dines and Pines", "slug_title": "felix-the-cat-dines-and-pines", "date": "1927-01-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

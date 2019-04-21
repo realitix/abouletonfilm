@@ -1,0 +1,1 @@
+{"tmdb_id": 486981, "title": "Gro\u00dfe Gef\u00fchle", "original_title": "Gro\u00dfe Gef\u00fchle", "slug_title": "grosse-gefuhle", "date": "2000-01-27", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manuela Biedermann (Sybil)", "Delia Mayer ()"], "comments": [], "recommandations_id": []}

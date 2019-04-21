@@ -1,0 +1,1 @@
+{"tmdb_id": 425268, "title": "The Exhumation", "original_title": "The Exhumation", "slug_title": "the-exhumation", "date": "1986-01-01", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qYNXJy9zQOXGi6ntmwyafNkU80.jpg", "actors": [], "comments": [], "recommandations_id": []}

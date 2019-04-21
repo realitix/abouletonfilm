@@ -1,0 +1,1 @@
+{"tmdb_id": 363717, "title": "The Munsters - Family Portrait", "original_title": "The Munsters - Family Portrait", "slug_title": "the-munsters-family-portrait", "date": "2008-10-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67xiZZAw0Gmp0k7AUMy3NfTxwRb.jpg", "actors": [], "comments": [], "recommandations_id": []}

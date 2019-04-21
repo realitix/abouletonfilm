@@ -1,0 +1,1 @@
+{"tmdb_id": 525835, "title": "The Human Hambone", "original_title": "The Human Hambone", "slug_title": "the-human-hambone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

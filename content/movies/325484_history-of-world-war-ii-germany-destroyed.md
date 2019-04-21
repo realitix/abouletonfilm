@@ -1,0 +1,1 @@
+{"tmdb_id": 325484, "title": "History Of World War II Germany Destroyed", "original_title": "History Of World War II Germany Destroyed", "slug_title": "history-of-world-war-ii-germany-destroyed", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

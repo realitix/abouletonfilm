@@ -1,0 +1,1 @@
+{"tmdb_id": 213118, "title": "The Musicians", "original_title": "Muzykanci", "slug_title": "the-musicians", "date": "1960-03-04", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKfnyEmeQi3agVhQ9Tyqcpv0box.jpg", "actors": [], "comments": [], "recommandations_id": [163223, 46983, 57657, 126202]}

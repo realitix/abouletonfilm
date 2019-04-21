@@ -1,0 +1,1 @@
+{"tmdb_id": 405619, "title": "The Bully", "original_title": "The Bully", "slug_title": "the-bully", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Shotwell (Kelly Daigle)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 233297, "title": "Yuganda j\u00f4yoku", "original_title": "Yuganda j\u00f4yoku", "slug_title": "yuganda-joyoku", "date": "1967-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPTi2eerMU8HnCL1jEKG1c7k8wv.jpg", "actors": [], "comments": [], "recommandations_id": []}

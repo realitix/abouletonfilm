@@ -1,0 +1,1 @@
+{"tmdb_id": 213799, "title": "Up for Rent", "original_title": "Up for Rent", "slug_title": "up-for-rent", "date": "2006-02-07", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hW24EKpRVZiiRfyYNYxwVGAKruO.jpg", "actors": [], "comments": [], "recommandations_id": []}

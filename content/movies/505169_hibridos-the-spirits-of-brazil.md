@@ -1,0 +1,1 @@
+{"tmdb_id": 505169, "title": "H\u00edbridos, the Spirits of Brazil", "original_title": "H\u00edbridos, the Spirits of Brazil", "slug_title": "hibridos-the-spirits-of-brazil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

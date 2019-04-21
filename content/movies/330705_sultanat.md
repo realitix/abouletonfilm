@@ -1,0 +1,1 @@
+{"tmdb_id": 330705, "title": "Sultanat", "original_title": "Sultanat", "slug_title": "sultanat", "date": "2014-07-29", "genre": "Action / Drame / Romance", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhaxEKO4Y58PsDbHevLnKg7GC5t.jpg", "actors": [], "comments": [], "recommandations_id": []}

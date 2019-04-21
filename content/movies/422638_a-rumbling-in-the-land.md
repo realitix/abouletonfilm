@@ -1,0 +1,1 @@
+{"tmdb_id": 422638, "title": "A Rumbling in the Land", "original_title": "A Rumbling in the Land", "slug_title": "a-rumbling-in-the-land", "date": "1969-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMRU3eRZ30bLUxRgkcFxhypdjzD.jpg", "actors": [], "comments": [], "recommandations_id": []}

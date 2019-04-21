@@ -1,0 +1,1 @@
+{"tmdb_id": 579892, "title": "Artifices d'acier", "original_title": "Artifices d'acier", "slug_title": "artifices-d-acier", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olivier Strebelle (Himself)"], "comments": [], "recommandations_id": []}

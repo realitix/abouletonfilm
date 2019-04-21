@@ -1,0 +1,1 @@
+{"tmdb_id": 360919, "title": "Celebrity Guide to Wine", "original_title": "Celebrity Guide to Wine", "slug_title": "celebrity-guide-to-wine", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

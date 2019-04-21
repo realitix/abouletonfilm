@@ -1,0 +1,1 @@
+{"tmdb_id": 449309, "title": "Les Outils du Jeu", "original_title": "Les Outils du Jeu", "slug_title": "les-outils-du-jeu", "date": "2017-02-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 479916, "title": "Soul Inn", "original_title": "\u82b1\u82b1\u4e16\u754c\u7075\u9b42\u5ba2", "slug_title": "soul-inn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zheng Yi (Director)"], "comments": [], "recommandations_id": []}

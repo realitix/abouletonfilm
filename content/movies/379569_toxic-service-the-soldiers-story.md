@@ -1,0 +1,1 @@
+{"tmdb_id": 379569, "title": "Toxic Service: The Soldiers Story", "original_title": "Toxic Service: The Soldiers Story", "slug_title": "toxic-service-the-soldiers-story", "date": "2015-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["pam simmons (self)"], "comments": [], "recommandations_id": []}

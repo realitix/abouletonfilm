@@ -1,0 +1,1 @@
+{"tmdb_id": 446009, "title": "The Ghost Paintings 3", "original_title": "The Ghost Paintings 3", "slug_title": "the-ghost-paintings-3", "date": "2002-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 238102, "title": "All Out of Bullets", "original_title": "All Out of Bullets", "slug_title": "all-out-of-bullets", "date": "2012-02-13", "genre": "Documentaire", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dolph Lundgren ()"], "comments": [], "recommandations_id": []}

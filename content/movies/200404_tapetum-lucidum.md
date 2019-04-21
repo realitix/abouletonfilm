@@ -1,0 +1,1 @@
+{"tmdb_id": 200404, "title": "Tapetum Lucidum", "original_title": "Tapetum Lucidum", "slug_title": "tapetum-lucidum", "date": "2013-06-05", "genre": "Drame", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgbEGhuPpGkVTGLWqQoPBZXIvuA.jpg", "actors": ["M\u00f3nica Torres ()"], "comments": [], "recommandations_id": []}

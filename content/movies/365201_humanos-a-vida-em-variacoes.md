@@ -1,0 +1,1 @@
+{"tmdb_id": 365201, "title": "Humanos - A Vida em Varia\u00e7\u00f5es", "original_title": "Humanos - A Vida em Varia\u00e7\u00f5es", "slug_title": "humanos-a-vida-em-variacoes", "date": "2006-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528731, "title": "Lee Fields: The Film", "original_title": "Lee Fields: The Film", "slug_title": "lee-fields-the-film", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

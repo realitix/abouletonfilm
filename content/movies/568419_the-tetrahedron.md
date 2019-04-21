@@ -1,0 +1,1 @@
+{"tmdb_id": 568419, "title": "The Tetrahedron", "original_title": "The Tetrahedron", "slug_title": "the-tetrahedron", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 182037, "title": "Rock & Roll Won't Wait", "original_title": "Rock & Roll Won't Wait", "slug_title": "rock-roll-won-t-wait", "date": "2004-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nU5KinPZxFcBi8ux1Ua2fN6Nou8.jpg", "actors": [], "comments": [], "recommandations_id": []}

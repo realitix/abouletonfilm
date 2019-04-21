@@ -1,0 +1,1 @@
+{"tmdb_id": 87065, "title": "Louie Bluie", "original_title": "Louie Bluie", "slug_title": "louie-bluie", "date": "1985-01-01", "genre": "Documentaire", "score": "8.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4oUtPyhRdaYKGI6u077g2HqzIx.jpg", "actors": [], "comments": [], "recommandations_id": []}

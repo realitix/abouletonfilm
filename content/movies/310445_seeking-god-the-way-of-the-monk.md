@@ -1,0 +1,1 @@
+{"tmdb_id": 310445, "title": "Seeking God: The Way of the Monk", "original_title": "Seeking God: The Way of the Monk", "slug_title": "seeking-god-the-way-of-the-monk", "date": "2007-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

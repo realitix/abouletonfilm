@@ -1,0 +1,1 @@
+{"tmdb_id": 337993, "title": "Rituals", "original_title": "Rituelen", "slug_title": "rituals", "date": "1989-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Derek de Lint (Inni Wintrop)", "Thom Hoffman (Philip Taads)"], "comments": [], "recommandations_id": []}

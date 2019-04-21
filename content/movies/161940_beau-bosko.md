@@ -1,0 +1,1 @@
+{"tmdb_id": 161940, "title": "Beau Bosko", "original_title": "Beau Bosko", "slug_title": "beau-bosko", "date": "1933-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLYbteaqbnkerXnYBkB2leOunwA.jpg", "actors": [], "comments": [], "recommandations_id": []}

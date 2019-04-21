@@ -1,0 +1,1 @@
+{"tmdb_id": 479368, "title": "Bon Appetit", "original_title": "Bon Appetit", "slug_title": "bon-appetit", "date": "2017-07-12", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Pn24RytMVaaoLYNz8Bl0VopqWf.jpg", "actors": ["Arben Bajraktaraj ()", "Ema Andrea ()"], "comments": [], "recommandations_id": []}

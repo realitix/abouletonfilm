@@ -1,0 +1,1 @@
+{"tmdb_id": 551705, "title": "Swingers' Serenade", "original_title": "Swingers' Serenade", "slug_title": "swingers-serenade", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hS7G27x2EzWP6ZAFG2P7hSbXg2Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

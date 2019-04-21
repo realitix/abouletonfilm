@@ -1,0 +1,1 @@
+{"tmdb_id": 362938, "title": "Hercules: Lion Cubs", "original_title": "Hercules: Lion Cubs", "slug_title": "hercules-lion-cubs", "date": "1956-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwBVEwitYBo5OFk5JDZXh9noNEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

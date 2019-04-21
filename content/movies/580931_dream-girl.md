@@ -1,0 +1,1 @@
+{"tmdb_id": 580931, "title": "Dream Girl", "original_title": "Dream Girl", "slug_title": "dream-girl", "date": "2019-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hchpZMnhMFHn5e8zfLIxbRKW4Q5.jpg", "actors": ["Andrea Sanchez ()", "Matthew Cash ()"], "comments": [], "recommandations_id": []}

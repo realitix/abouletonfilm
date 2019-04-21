@@ -1,0 +1,1 @@
+{"tmdb_id": 571374, "title": "91:an och generalernas fnatt", "original_title": "91:an och generalernas fnatt", "slug_title": "91-an-och-generalernas-fnatt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82Rvb82Fwqp8W0JGcTyUqsosB21.jpg", "actors": [], "comments": [], "recommandations_id": []}

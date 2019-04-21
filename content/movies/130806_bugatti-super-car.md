@@ -1,0 +1,1 @@
+{"tmdb_id": 130806, "title": "Bugatti Super Car", "original_title": "Bugatti Super Car", "slug_title": "bugatti-super-car", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471642, "title": "When Should Grown-Ups Stop Fights?", "original_title": "When Should Grown-Ups Stop Fights?", "slug_title": "when-should-grown-ups-stop-fights", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lawrence Joseph Stone (Narration)"], "comments": [], "recommandations_id": []}

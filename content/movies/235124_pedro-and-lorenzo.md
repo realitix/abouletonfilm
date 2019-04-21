@@ -1,0 +1,1 @@
+{"tmdb_id": 235124, "title": "Pedro and Lorenzo", "original_title": "Pedro and Lorenzo", "slug_title": "pedro-and-lorenzo", "date": "1956-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

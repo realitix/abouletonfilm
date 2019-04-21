@@ -1,0 +1,1 @@
+{"tmdb_id": 541220, "title": "Ed Motta em DVD", "original_title": "Ed Motta em DVD", "slug_title": "ed-motta-em-dvd", "date": "2003-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pALnFg7PgEaxNNrnwV4VfdcfVng.jpg", "actors": [], "comments": [], "recommandations_id": []}

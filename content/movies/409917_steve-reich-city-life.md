@@ -1,0 +1,1 @@
+{"tmdb_id": 409917, "title": "Steve Reich: City Life", "original_title": "Steve Reich: City Life", "slug_title": "steve-reich-city-life", "date": "1995-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpFcHRrZjpwOiaWL7Ssgg6cu8wc.jpg", "actors": [], "comments": [], "recommandations_id": []}

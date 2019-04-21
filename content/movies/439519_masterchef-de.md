@@ -1,0 +1,1 @@
+{"tmdb_id": 439519, "title": "MasterChef (DE)", "original_title": "MasterChef (DE)", "slug_title": "masterchef-de", "date": "2016-11-03", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9G1fO7AMFZwHlrFlrmE1q1E88tV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329167, "title": "Crossing Bridges", "original_title": "Crossing Bridges", "slug_title": "crossing-bridges", "date": "2014-08-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RZOZRaMM8YYar7NsTsUD2WGUrh.jpg", "actors": [], "comments": [], "recommandations_id": []}

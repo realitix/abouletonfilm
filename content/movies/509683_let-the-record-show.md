@@ -1,0 +1,1 @@
+{"tmdb_id": 509683, "title": "Let the Record Show", "original_title": "Let the Record Show", "slug_title": "let-the-record-show", "date": "2013-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oOH8ARATmOqxrOR1rLbt6lC8UNS.jpg", "actors": [], "comments": [], "recommandations_id": []}

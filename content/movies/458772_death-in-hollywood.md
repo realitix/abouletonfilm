@@ -1,0 +1,1 @@
+{"tmdb_id": 458772, "title": "Death In Hollywood", "original_title": "Death In Hollywood", "slug_title": "death-in-hollywood", "date": "1990-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HdVeCJPPvDUrC0TKKolOdhUJH4.jpg", "actors": ["Kip King (Narrator)"], "comments": [], "recommandations_id": []}

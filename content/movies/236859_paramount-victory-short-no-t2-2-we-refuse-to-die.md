@@ -1,0 +1,1 @@
+{"tmdb_id": 236859, "title": "Paramount Victory Short No. T2-2: We Refuse to Die", "original_title": "Paramount Victory Short No. T2-2: We Refuse to Die", "slug_title": "paramount-victory-short-no-t2-2-we-refuse-to-die", "date": "1942-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349626, "title": "\uc0ac\ub77c\uc758 \uacc4\uc808", "original_title": "\uc0ac\ub77c\uc758 \uacc4\uc808", "slug_title": "sarayi-gyejeol", "date": "1993-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

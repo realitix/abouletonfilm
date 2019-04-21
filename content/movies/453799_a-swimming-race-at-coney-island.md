@@ -1,0 +1,1 @@
+{"tmdb_id": 453799, "title": "A Swimming Race at Coney Island", "original_title": "A Swimming Race at Coney Island", "slug_title": "a-swimming-race-at-coney-island", "date": "1904-04-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

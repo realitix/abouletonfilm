@@ -1,0 +1,1 @@
+{"tmdb_id": 502686, "title": "Jungle Madness", "original_title": "Jungle Madness", "slug_title": "jungle-madness", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

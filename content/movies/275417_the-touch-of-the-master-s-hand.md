@@ -1,0 +1,1 @@
+{"tmdb_id": 275417, "title": "The Touch of the Master's Hand", "original_title": "The Touch of the Master's Hand", "slug_title": "the-touch-of-the-master-s-hand", "date": "1987-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5YyIBNEKQn7YJq5trkK2XpoVYBe.jpg", "actors": [], "comments": [], "recommandations_id": []}

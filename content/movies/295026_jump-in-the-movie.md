@@ -1,0 +1,1 @@
+{"tmdb_id": 295026, "title": "Jump In: The Movie", "original_title": "Jump In: The Movie", "slug_title": "jump-in-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 157118, "title": "Duel Of The Tough", "original_title": "Shen tui mi zong shou", "slug_title": "duel-of-the-tough", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4pnAF5061t37rpZ7fKD2NNnjBn8.jpg", "actors": [], "comments": [], "recommandations_id": []}

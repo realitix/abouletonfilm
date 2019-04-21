@@ -1,0 +1,1 @@
+{"tmdb_id": 310696, "title": "Sachch\u00e9 K\u00e1 Bol-B\u00e1l\u00e1", "original_title": "Sachch\u00e9 K\u00e1 Bol-B\u00e1l\u00e1", "slug_title": "sachche-ka-bol-bala", "date": "1989-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

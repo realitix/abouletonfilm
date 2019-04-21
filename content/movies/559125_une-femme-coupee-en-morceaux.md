@@ -1,0 +1,1 @@
+{"tmdb_id": 559125, "title": "Une femme coup\u00e9e en morceaux", "original_title": "Une femme coup\u00e9e en morceaux", "slug_title": "une-femme-coupee-en-morceaux", "date": "1946-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

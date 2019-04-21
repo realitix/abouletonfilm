@@ -1,0 +1,1 @@
+{"tmdb_id": 285260, "title": "The Dance Begets the Dance", "original_title": "The Dance Begets the Dance", "slug_title": "the-dance-begets-the-dance", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

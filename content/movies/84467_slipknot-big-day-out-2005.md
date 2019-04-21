@@ -1,0 +1,1 @@
+{"tmdb_id": 84467, "title": "Slipknot: Big Day Out 2005", "original_title": "Slipknot: Big Day Out 2005", "slug_title": "slipknot-big-day-out-2005", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3eJPk7GXnFglgWHNDtCCOAXBvF.jpg", "actors": [], "comments": [], "recommandations_id": []}

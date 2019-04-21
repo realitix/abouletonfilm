@@ -1,0 +1,1 @@
+{"tmdb_id": 386665, "title": "House of the Haunted Hooker", "original_title": "House of the Haunted Hooker", "slug_title": "house-of-the-haunted-hooker", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcie Bolen ()", "Lara Goetzl (A Dame)", "Jessica Marie ()"], "comments": [], "recommandations_id": []}

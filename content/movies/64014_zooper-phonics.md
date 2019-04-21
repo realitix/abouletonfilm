@@ -1,0 +1,1 @@
+{"tmdb_id": 64014, "title": "Zooper Phonics", "original_title": "Zooper Phonics", "slug_title": "zooper-phonics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJ6vjqRLQ66Ek58kcFo6DkhC7vJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

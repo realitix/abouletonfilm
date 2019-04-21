@@ -1,0 +1,1 @@
+{"tmdb_id": 589732, "title": "The Ting", "original_title": "The Ting", "slug_title": "the-ting", "date": "2013-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vDOej7l5EDXYFa01qRo8hrARPP.jpg", "actors": [], "comments": [], "recommandations_id": []}

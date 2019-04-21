@@ -1,0 +1,1 @@
+{"tmdb_id": 463628, "title": "Inventory", "original_title": "Inventaire", "slug_title": "inventory", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olivier Assayas (Interviewee)"], "comments": [], "recommandations_id": []}

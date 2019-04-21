@@ -1,0 +1,1 @@
+{"tmdb_id": 117226, "title": "Lovable", "original_title": "Lovable", "slug_title": "lovable", "date": "2007-04-23", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zuOs1tL09hP5WJdi7e3lc8MEJU8.jpg", "actors": ["Alan Zweig (Himself)"], "comments": [], "recommandations_id": []}

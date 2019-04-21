@@ -1,0 +1,1 @@
+{"tmdb_id": 480192, "title": "The Timid Scarecrow", "original_title": "The Timid Scarecrow", "slug_title": "the-timid-scarecrow", "date": "1953-08-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

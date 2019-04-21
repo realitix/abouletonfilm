@@ -1,0 +1,1 @@
+{"tmdb_id": 443360, "title": "Ligabue - Primo tempo", "original_title": "Ligabue - Primo tempo", "slug_title": "ligabue-primo-tempo", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hUfGyfa4vnJx9Ez8maKjW8yIIO.jpg", "actors": ["Luciano Ligabue (song writer)"], "comments": [], "recommandations_id": []}

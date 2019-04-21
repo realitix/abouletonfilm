@@ -1,0 +1,1 @@
+{"tmdb_id": 272592, "title": "Submarine Warfare", "original_title": "Submarine Warfare", "slug_title": "submarine-warfare", "date": "1944-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 517108, "title": "Julia Blue", "original_title": "Julia Blue", "slug_title": "julia-blue", "date": "", "genre": "Drame / Romance / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dima Yaroshenko (Julia)"], "comments": [], "recommandations_id": []}

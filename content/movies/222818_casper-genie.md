@@ -1,0 +1,1 @@
+{"tmdb_id": 222818, "title": "Casper Genie", "original_title": "Casper Genie", "slug_title": "casper-genie", "date": "1954-05-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

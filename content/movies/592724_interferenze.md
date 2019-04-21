@@ -1,0 +1,1 @@
+{"tmdb_id": 592724, "title": "Interferenze", "original_title": "Interferenze", "slug_title": "interferenze", "date": "2007-10-08", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xy1Z1syRZo9bVRlGKRIZne66mG0.jpg", "actors": [], "comments": [], "recommandations_id": []}

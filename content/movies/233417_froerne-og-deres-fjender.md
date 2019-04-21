@@ -1,0 +1,1 @@
+{"tmdb_id": 233417, "title": "Fr\u00f8erne og deres Fjender", "original_title": "Fr\u00f8erne og deres Fjender", "slug_title": "froerne-og-deres-fjender", "date": "1921-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

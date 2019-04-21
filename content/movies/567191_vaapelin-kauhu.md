@@ -1,0 +1,1 @@
+{"tmdb_id": 567191, "title": "V\u00e4\u00e4pelin kauhu", "original_title": "V\u00e4\u00e4pelin kauhu", "slug_title": "vaapelin-kauhu", "date": "1957-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

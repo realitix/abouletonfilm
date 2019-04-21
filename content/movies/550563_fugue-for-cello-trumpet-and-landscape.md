@@ -1,0 +1,1 @@
+{"tmdb_id": 550563, "title": "Fugue for Cello, Trumpet and Landscape", "original_title": "Fuga na wiolonczele, trabke i pejzaz", "slug_title": "fugue-for-cello-trumpet-and-landscape", "date": "2014-05-27", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

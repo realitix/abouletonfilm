@@ -1,0 +1,1 @@
+{"tmdb_id": 550398, "title": "The Officer's Conduct", "original_title": "Pona\u0161anje stare\u0161ine", "slug_title": "the-officer-s-conduct", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GvcfSPxNDNJZMRCWnDW552FxhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

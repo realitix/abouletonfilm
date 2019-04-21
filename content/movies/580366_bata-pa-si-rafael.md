@@ -1,0 +1,1 @@
+{"tmdb_id": 580366, "title": "Bata pa si Rafael", "original_title": "Bata pa si Rafael", "slug_title": "bata-pa-si-rafael", "date": "2011-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

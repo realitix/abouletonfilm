@@ -1,0 +1,1 @@
+{"tmdb_id": 576442, "title": "The Elephant's Elbows", "original_title": "The Elephant's Elbows", "slug_title": "the-elephant-s-elbows", "date": "1928-08-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Janney (Johnny Smith)", "Paralee Coleman (Demi-Tasse)"], "comments": [], "recommandations_id": []}

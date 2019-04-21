@@ -1,0 +1,1 @@
+{"tmdb_id": 239403, "title": "Cine Cocoric\u00f3: As Aventuras na Cidade", "original_title": "Cine Cocoric\u00f3: As Aventuras na Cidade", "slug_title": "cine-cocorico-as-aventuras-na-cidade", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

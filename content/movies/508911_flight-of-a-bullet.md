@@ -1,0 +1,1 @@
+{"tmdb_id": 508911, "title": "Flight of a Bullet", "original_title": "Flight of a Bullet", "slug_title": "flight-of-a-bullet", "date": "2017-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

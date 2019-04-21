@@ -1,0 +1,1 @@
+{"tmdb_id": 310482, "title": "After Hours at Art's Place", "original_title": "After Hours at Art's Place", "slug_title": "after-hours-at-art-s-place", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

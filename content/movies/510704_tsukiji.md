@@ -1,0 +1,1 @@
+{"tmdb_id": 510704, "title": "Tsukiji", "original_title": "Tsukiji", "slug_title": "tsukiji", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNiXcwtu7dRLcOiGYgO0v7JqVs6.jpg", "actors": [], "comments": [], "recommandations_id": []}

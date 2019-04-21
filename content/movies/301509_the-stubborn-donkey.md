@@ -1,0 +1,1 @@
+{"tmdb_id": 301509, "title": "The Stubborn Donkey", "original_title": "Mariza", "slug_title": "the-stubborn-donkey", "date": "2008-11-12", "genre": "Com\u00e9die / Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edtA6VsdPcgsQZTiFaKglJvO2iT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274267, "title": "The History of the Sons of Hawaii", "original_title": "The History of the Sons of Hawaii", "slug_title": "the-history-of-the-sons-of-hawaii", "date": "2004-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

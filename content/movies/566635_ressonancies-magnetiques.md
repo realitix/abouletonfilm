@@ -1,0 +1,1 @@
+{"tmdb_id": 566635, "title": "Resson\u00e0ncies magn\u00e8tiques", "original_title": "Resson\u00e0ncies magn\u00e8tiques", "slug_title": "ressonancies-magnetiques", "date": "2003-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

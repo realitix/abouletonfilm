@@ -1,0 +1,1 @@
+{"tmdb_id": 364364, "title": "Silver Surfer", "original_title": "Silver Surfer", "slug_title": "silver-surfer", "date": "1972-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xoaDWu4OH5dlHeEyEY4Tq5xs7qf.jpg", "actors": [], "comments": [], "recommandations_id": []}

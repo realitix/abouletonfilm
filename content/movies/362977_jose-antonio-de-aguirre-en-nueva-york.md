@@ -1,0 +1,1 @@
+{"tmdb_id": 362977, "title": "Jose Antonio de Aguirre en Nueva York", "original_title": "Jose Antonio de Aguirre en Nueva York", "slug_title": "jose-antonio-de-aguirre-en-nueva-york", "date": "1942-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

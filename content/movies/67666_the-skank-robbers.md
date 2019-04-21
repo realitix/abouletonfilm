@@ -1,0 +1,1 @@
+{"tmdb_id": 67666, "title": "The Skank Robbers", "original_title": "The Skank Robbers", "slug_title": "the-skank-robbers", "date": "", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Foxx (Wanda Wayne)", "Martin Lawrence (Sheneneh Jenkins)"], "comments": [], "recommandations_id": []}

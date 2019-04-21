@@ -1,0 +1,1 @@
+{"tmdb_id": 68217, "title": "Bearing Witness", "original_title": "Bearing Witness", "slug_title": "bearing-witness", "date": "2005-01-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qj7WuWSnuK3kCWjnhPWBt71NYVL.jpg", "actors": [], "comments": [], "recommandations_id": []}

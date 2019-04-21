@@ -1,0 +1,1 @@
+{"tmdb_id": 382023, "title": "The Wheel", "original_title": "Chaka", "slug_title": "the-wheel", "date": "1993-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuVgqiubqNJongr2211qztDfUh5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344456, "title": "El Fantasma de la Opereta", "original_title": "El Fantasma de la Opereta", "slug_title": "el-fantasma-de-la-opereta", "date": "1955-06-24", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhCu3abdlR0PO4U6o76gstazVfv.jpg", "actors": [], "comments": [], "recommandations_id": []}

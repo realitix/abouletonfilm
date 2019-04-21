@@ -1,0 +1,1 @@
+{"tmdb_id": 412705, "title": "Film-Wipe-Film", "original_title": "Film-Wipe-Film", "slug_title": "film-wipe-film", "date": "1984-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NPrHWCZYdOjzJPtDmDVZxBGhiL.jpg", "actors": [], "comments": [], "recommandations_id": []}

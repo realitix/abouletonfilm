@@ -1,0 +1,1 @@
+{"tmdb_id": 571816, "title": "Eddie Bravo Invitational 18: The Female Strawweights", "original_title": "Eddie Bravo Invitational 18: The Female Strawweights", "slug_title": "eddie-bravo-invitational-18-the-female-strawweights", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

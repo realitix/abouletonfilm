@@ -1,0 +1,1 @@
+{"tmdb_id": 542593, "title": "Fluorescent Girl", "original_title": "Fluorescent Girl", "slug_title": "fluorescent-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 292776, "title": "The Dobermann Brothers", "original_title": "Br\u00f6derna Dobermann", "slug_title": "the-dobermann-brothers", "date": "2005-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZ1gQezYEO2ftBVTVAdLfs2tT8e.jpg", "actors": [], "comments": [], "recommandations_id": []}

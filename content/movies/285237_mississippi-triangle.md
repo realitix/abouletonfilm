@@ -1,0 +1,1 @@
+{"tmdb_id": 285237, "title": "Mississippi Triangle", "original_title": "Mississippi Triangle", "slug_title": "mississippi-triangle", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

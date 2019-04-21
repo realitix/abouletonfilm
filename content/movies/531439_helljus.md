@@ -1,0 +1,1 @@
+{"tmdb_id": 531439, "title": "Helljus", "original_title": "Helljus", "slug_title": "helljus", "date": "2015-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbaou6Fbn9dKfTL96kDgWlJB48e.jpg", "actors": [], "comments": [], "recommandations_id": []}

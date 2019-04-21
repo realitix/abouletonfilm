@@ -1,0 +1,1 @@
+{"tmdb_id": 406359, "title": "The Valley of Ghosts", "original_title": "The Valley of Ghosts", "slug_title": "the-valley-of-ghosts", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Darryl Read (Abu)", "Ria Mills (Selima)"], "comments": [], "recommandations_id": []}

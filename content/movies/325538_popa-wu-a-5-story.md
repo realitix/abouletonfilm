@@ -1,0 +1,1 @@
+{"tmdb_id": 325538, "title": "Popa Wu: A 5% Story", "original_title": "Popa Wu: A 5% Story", "slug_title": "popa-wu-a-5-story", "date": "2014-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 22179, "title": "Aamras", "original_title": "Aamras", "slug_title": "aamras", "date": "2009-09-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7CrqtzPRYIAu24Id1cgAffAle5f.jpg", "actors": [], "comments": [], "recommandations_id": []}

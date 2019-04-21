@@ -1,0 +1,1 @@
+{"tmdb_id": 327404, "title": "Salt Cellar", "original_title": "Salt Cellar", "slug_title": "salt-cellar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

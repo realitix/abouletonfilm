@@ -1,0 +1,1 @@
+{"tmdb_id": 263355, "title": "Bankomatt", "original_title": "Bankomatt", "slug_title": "bankomatt", "date": "1989-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jfSgmNQh7FqURg9NViFlFfVlmK9.jpg", "actors": [], "comments": [], "recommandations_id": []}

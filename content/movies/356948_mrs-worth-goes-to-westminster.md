@@ -1,0 +1,1 @@
+{"tmdb_id": 356948, "title": "Mrs. Worth Goes to Westminster", "original_title": "Mrs. Worth Goes to Westminster", "slug_title": "mrs-worth-goes-to-westminster", "date": "1949-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237190, "title": "The Big Drip", "original_title": "The Big Drip", "slug_title": "the-big-drip", "date": "1949-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OUAoRcZPjgfqcR0OcI0PbdhUxD.jpg", "actors": [], "comments": [], "recommandations_id": []}

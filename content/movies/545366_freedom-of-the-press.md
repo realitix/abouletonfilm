@@ -1,0 +1,1 @@
+{"tmdb_id": 545366, "title": "Freedom of the Press", "original_title": "Freedom of the Press", "slug_title": "freedom-of-the-press", "date": "1928-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

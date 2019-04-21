@@ -1,0 +1,1 @@
+{"tmdb_id": 574506, "title": "Back to the Territories: AWA", "original_title": "Back to the Territories: AWA", "slug_title": "back-to-the-territories-awa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Cornette (Himself)", "Greg Gagne (Himself)"], "comments": [], "recommandations_id": []}

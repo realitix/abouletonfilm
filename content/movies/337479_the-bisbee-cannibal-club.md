@@ -1,0 +1,1 @@
+{"tmdb_id": 337479, "title": "The Bisbee Cannibal Club", "original_title": "The Bisbee Cannibal Club", "slug_title": "the-bisbee-cannibal-club", "date": "2002-07-13", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3zvrEc0h4gWIG8tZ47oxm0vO6cX.jpg", "actors": [], "comments": [], "recommandations_id": []}

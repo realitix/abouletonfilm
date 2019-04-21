@@ -1,0 +1,1 @@
+{"tmdb_id": 299968, "title": "The Art of Peacemaking: The Gun Sculpture", "original_title": "The Art of Peacemaking: The Gun Sculpture", "slug_title": "the-art-of-peacemaking-the-gun-sculpture", "date": "2002-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

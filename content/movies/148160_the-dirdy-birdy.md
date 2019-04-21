@@ -1,0 +1,1 @@
+{"tmdb_id": 148160, "title": "The Dirdy Birdy", "original_title": "The Dirdy Birdy", "slug_title": "the-dirdy-birdy", "date": "1994-09-09", "genre": "", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jjxoh0NWeTSbgLBwpGWhcgwYrwY.jpg", "actors": [], "comments": [], "recommandations_id": [187879, 291100, 174066, 348799]}

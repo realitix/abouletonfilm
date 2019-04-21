@@ -1,0 +1,1 @@
+{"tmdb_id": 485444, "title": "Capitalism", "original_title": "Capitalism", "slug_title": "capitalism", "date": "2014-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYzhbZmEvpxud3QAkjxZs5Jv6I1.jpg", "actors": [], "comments": [], "recommandations_id": []}

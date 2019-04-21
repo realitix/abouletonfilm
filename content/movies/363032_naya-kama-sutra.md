@@ -1,0 +1,1 @@
+{"tmdb_id": 363032, "title": "Naya Kama Sutra", "original_title": "Naya Kama Sutra", "slug_title": "naya-kama-sutra", "date": "2000-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yadhakrishan ()", "Ramesi ()", "Kalarani ()", "Kaushik ()", "Shiva ()", "Priya ()", "Delyo ()"], "comments": [], "recommandations_id": []}

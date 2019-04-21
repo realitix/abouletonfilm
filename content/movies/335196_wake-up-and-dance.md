@@ -1,0 +1,1 @@
+{"tmdb_id": 335196, "title": "Wake Up and Dance", "original_title": "Wake Up and Dance", "slug_title": "wake-up-and-dance", "date": "1950-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

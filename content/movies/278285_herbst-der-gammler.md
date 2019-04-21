@@ -1,0 +1,1 @@
+{"tmdb_id": 278285, "title": "Herbst der Gammler", "original_title": "Herbst der Gammler", "slug_title": "herbst-der-gammler", "date": "1967-08-31", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7xmwAZZuR8OGrb3VZ4gDFJlfxNS.jpg", "actors": [], "comments": [], "recommandations_id": []}

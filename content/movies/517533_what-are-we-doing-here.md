@@ -1,0 +1,1 @@
+{"tmdb_id": 517533, "title": "What Are We Doing Here?", "original_title": "What Are We Doing Here?", "slug_title": "what-are-we-doing-here", "date": "2013-08-05", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctFvnuXe0fKimIqgfA3JCNc3So3.jpg", "actors": [], "comments": [], "recommandations_id": []}

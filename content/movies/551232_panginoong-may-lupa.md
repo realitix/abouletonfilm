@@ -1,0 +1,1 @@
+{"tmdb_id": 551232, "title": "Panginoong May Lupa", "original_title": "Panginoong May Lupa", "slug_title": "panginoong-may-lupa", "date": "2018-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

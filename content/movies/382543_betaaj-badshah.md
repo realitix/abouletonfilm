@@ -1,0 +1,1 @@
+{"tmdb_id": 382543, "title": "Betaaj Badshah", "original_title": "Betaaj Badshah", "slug_title": "betaaj-badshah", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9e4hNuE6Io17CX8hbJypr5mj9TT.jpg", "actors": [], "comments": [], "recommandations_id": []}

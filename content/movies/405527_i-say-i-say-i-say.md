@@ -1,0 +1,1 @@
+{"tmdb_id": 405527, "title": "I Say I Say I Say", "original_title": "I Say I Say I Say", "slug_title": "i-say-i-say-i-say", "date": "1964-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Sellers ()", "Britt Ekland ()", "Princess Margaret ()"], "comments": [], "recommandations_id": []}

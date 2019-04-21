@@ -1,0 +1,1 @@
+{"tmdb_id": 349315, "title": "Be a Wicked Woman", "original_title": "\ucc9c\uc0ac\uc5ec \uc545\ub140\uac00 \ub418\ub77c", "slug_title": "be-a-wicked-woman", "date": "1990-09-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9i7g3LGLxoHVDTAnIYrFzOwl2JV.jpg", "actors": [], "comments": [], "recommandations_id": []}

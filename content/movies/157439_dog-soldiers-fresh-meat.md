@@ -1,0 +1,1 @@
+{"tmdb_id": 157439, "title": "Dog Soldiers: Fresh Meat", "original_title": "Dog Soldiers: Fresh Meat", "slug_title": "dog-soldiers-fresh-meat", "date": "", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mF8TAcnWXezTwIB1UOr3k6cnktH.jpg", "actors": [], "comments": [], "recommandations_id": []}

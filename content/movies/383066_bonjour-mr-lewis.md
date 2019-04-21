@@ -1,0 +1,1 @@
+{"tmdb_id": 383066, "title": "Bonjour Mr Lewis", "original_title": "Bonjour Mr Lewis", "slug_title": "bonjour-mr-lewis", "date": "1982-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jerry Lewis (Himself)"], "comments": [], "recommandations_id": []}

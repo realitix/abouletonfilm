@@ -1,0 +1,1 @@
+{"tmdb_id": 493643, "title": "Don't Drink the Devil's Blood", "original_title": "Don't Drink the Devil's Blood", "slug_title": "don-t-drink-the-devil-s-blood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

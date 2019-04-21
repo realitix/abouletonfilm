@@ -1,0 +1,1 @@
+{"tmdb_id": 586052, "title": "The Monologue", "original_title": "\uc790\uc720\uc5f0\uae30", "slug_title": "the-monologue", "date": "2018-05-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gang Mal-geum (Ji-yeon)"], "comments": [], "recommandations_id": []}

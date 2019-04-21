@@ -1,0 +1,1 @@
+{"tmdb_id": 142144, "title": "The Other City", "original_title": "The Other City", "slug_title": "the-other-city", "date": "2010-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Pp1IxQfquXqTEEw6gsDq40A7gp.jpg", "actors": [], "comments": [], "recommandations_id": []}

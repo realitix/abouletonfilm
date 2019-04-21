@@ -1,0 +1,1 @@
+{"tmdb_id": 307503, "title": "Bhimavaram Bullodu", "original_title": "Bhimavaram Bullodu", "slug_title": "bhimavaram-bullodu", "date": "2014-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

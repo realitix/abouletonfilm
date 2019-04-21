@@ -1,0 +1,1 @@
+{"tmdb_id": 550989, "title": "El proceso", "original_title": "El proceso", "slug_title": "el-proceso", "date": "1955-09-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

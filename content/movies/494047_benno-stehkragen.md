@@ -1,0 +1,1 @@
+{"tmdb_id": 494047, "title": "Benno Stehkragen", "original_title": "Benno Stehkragen", "slug_title": "benno-stehkragen", "date": "1927-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["K\u00e4the Haack ()", "Kurt Gerron ()", "Hans Mierendorff ()"], "comments": [], "recommandations_id": []}

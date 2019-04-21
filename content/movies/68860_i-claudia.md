@@ -1,0 +1,1 @@
+{"tmdb_id": 68860, "title": "I, Claudia", "original_title": "I, Claudia", "slug_title": "i-claudia", "date": "2004-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Sl3X7NH03jrs4pZg81Pm7bck0u.jpg", "actors": [], "comments": [], "recommandations_id": []}

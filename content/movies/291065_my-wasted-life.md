@@ -1,0 +1,1 @@
+{"tmdb_id": 291065, "title": "My Wasted Life", "original_title": "My Wasted Life", "slug_title": "my-wasted-life", "date": "2000-06-23", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2YAk5VxXMk61OFvVNh3XhKASO8A.jpg", "actors": [], "comments": [], "recommandations_id": []}

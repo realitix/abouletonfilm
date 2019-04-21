@@ -1,0 +1,1 @@
+{"tmdb_id": 253912, "title": "Summer of the Chew Toy Soul", "original_title": "Summer of the Chew Toy Soul", "slug_title": "summer-of-the-chew-toy-soul", "date": "2011-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

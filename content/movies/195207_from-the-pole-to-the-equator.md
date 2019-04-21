@@ -1,0 +1,1 @@
+{"tmdb_id": 195207, "title": "From the Pole to the Equator", "original_title": "Dal polo all'equatore", "slug_title": "from-the-pole-to-the-equator", "date": "1987-09-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zU8dr92BOnuYd4T0zwQnoS2xACU.jpg", "actors": [], "comments": [], "recommandations_id": []}

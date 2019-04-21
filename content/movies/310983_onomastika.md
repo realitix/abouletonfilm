@@ -1,0 +1,1 @@
+{"tmdb_id": 310983, "title": "Onomastika", "original_title": "Onomastika", "slug_title": "onomastika", "date": "2014-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

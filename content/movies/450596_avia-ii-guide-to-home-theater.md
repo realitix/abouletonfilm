@@ -1,0 +1,1 @@
+{"tmdb_id": 450596, "title": "Avia II Guide to Home Theater", "original_title": "Avia II Guide to Home Theater", "slug_title": "avia-ii-guide-to-home-theater", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ay2OdTkfyVY61eckD5gvrk5qTf.jpg", "actors": [], "comments": [], "recommandations_id": []}

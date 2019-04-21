@@ -1,0 +1,1 @@
+{"tmdb_id": 519684, "title": "Two Images for a Computer Piece with an Interlude", "original_title": "Two Images for a Computer Piece with an Interlude", "slug_title": "two-images-for-a-computer-piece-with-an-interlude", "date": "1969-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

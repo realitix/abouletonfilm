@@ -1,0 +1,1 @@
+{"tmdb_id": 307350, "title": "Drag Me: A Urban Music Tale", "original_title": "Drag Me: A Urban Music Tale", "slug_title": "drag-me-a-urban-music-tale", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g0M4fSl95Ggyrc9b3ZUr4govvtu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 162569, "title": "Oh, My Operation", "original_title": "Oh, My Operation", "slug_title": "oh-my-operation", "date": "1931-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Burns ()", "Gracie Allen ()"], "comments": [], "recommandations_id": []}

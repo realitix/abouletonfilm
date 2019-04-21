@@ -1,0 +1,1 @@
+{"tmdb_id": 388396, "title": "Charlie & Carl", "original_title": "Charlie & Carl", "slug_title": "charlie-carl", "date": "2011-09-28", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank-Markus Barwasser (Carl)", "Jaymes Butler (Charlie)"], "comments": [], "recommandations_id": []}

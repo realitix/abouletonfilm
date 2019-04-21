@@ -1,0 +1,1 @@
+{"tmdb_id": 588349, "title": "Princess", "original_title": "Rajkumari", "slug_title": "princess", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uttam Kumar ()", "Tanuja ()", "Chhaya Devi ()", "Bhanu Bannerjee ()", "Pahari Sanyal ()"], "comments": [], "recommandations_id": []}

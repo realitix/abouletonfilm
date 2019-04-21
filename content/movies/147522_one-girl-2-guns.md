@@ -1,0 +1,1 @@
+{"tmdb_id": 147522, "title": "One Girl, 2 Guns", "original_title": "One Girl, 2 Guns", "slug_title": "one-girl-2-guns", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

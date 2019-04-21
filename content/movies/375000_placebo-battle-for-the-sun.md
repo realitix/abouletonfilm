@@ -1,0 +1,1 @@
+{"tmdb_id": 375000, "title": "Placebo - Battle For The Sun", "original_title": "Placebo - Battle For The Sun", "slug_title": "placebo-battle-for-the-sun", "date": "2009-06-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ex3UL1UYB0zX4CwaD2HDVp9iknz.jpg", "actors": [], "comments": [], "recommandations_id": []}

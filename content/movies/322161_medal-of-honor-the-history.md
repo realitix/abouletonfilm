@@ -1,0 +1,1 @@
+{"tmdb_id": 322161, "title": "Medal of Honor: The History", "original_title": "Medal of Honor: The History", "slug_title": "medal-of-honor-the-history", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

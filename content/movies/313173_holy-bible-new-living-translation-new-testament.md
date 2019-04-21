@@ -1,0 +1,1 @@
+{"tmdb_id": 313173, "title": "Holy Bible: New Living Translation: New Testament", "original_title": "Holy Bible: New Living Translation: New Testament", "slug_title": "holy-bible-new-living-translation-new-testament", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 267923, "title": "Explosive Mission", "original_title": "Misi\u00f3n Explosiva", "slug_title": "explosive-mission", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruben Lara (Comandante Lara)", "Rojo Grau ()", "Rams\u00e9s Soto ()", "Hugo Stiglitz ()"], "comments": [], "recommandations_id": []}

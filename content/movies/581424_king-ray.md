@@ -1,0 +1,1 @@
+{"tmdb_id": 581424, "title": "King Ray", "original_title": "King Ray", "slug_title": "king-ray", "date": "2019-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ram\u00f3n Torres (Ray) (Ram\u00f3n Torres (Ray))"], "comments": [], "recommandations_id": []}

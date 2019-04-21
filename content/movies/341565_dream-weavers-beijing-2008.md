@@ -1,0 +1,1 @@
+{"tmdb_id": 341565, "title": "Dream Weavers: Beijing 2008", "original_title": "Zhu meng", "slug_title": "dream-weavers-beijing-2008", "date": "2008-06-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t40G5Xiwsw5cuAKAKHvf5jBNw36.jpg", "actors": [], "comments": [], "recommandations_id": []}

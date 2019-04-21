@@ -1,0 +1,1 @@
+{"tmdb_id": 52488, "title": "A More Perfect Union", "original_title": "A More Perfect Union", "slug_title": "a-more-perfect-union", "date": "1989-01-07", "genre": "Documentaire / Histoire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IC8h2V9L9Ns608kFT9UXz8lACt.jpg", "actors": [], "comments": [], "recommandations_id": []}

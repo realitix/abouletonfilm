@@ -1,0 +1,1 @@
+{"tmdb_id": 411743, "title": "Underwater Blues", "original_title": "Underwater Blues", "slug_title": "underwater-blues", "date": "1981-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

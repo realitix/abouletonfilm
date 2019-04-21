@@ -1,0 +1,1 @@
+{"tmdb_id": 468973, "title": "Baby Rush", "original_title": "Baby Rush", "slug_title": "baby-rush", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5pGDBlwfQRvGaMCM69BszHRNALL.jpg", "actors": [], "comments": [], "recommandations_id": []}

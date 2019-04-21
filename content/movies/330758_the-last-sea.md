@@ -1,0 +1,1 @@
+{"tmdb_id": 330758, "title": "The Last Sea", "original_title": "Ha-Yam Ha'Aharon", "slug_title": "the-last-sea", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

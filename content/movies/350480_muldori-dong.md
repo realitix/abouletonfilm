@@ -1,0 +1,1 @@
+{"tmdb_id": 350480, "title": "\ubb3c\ub3c4\ub9ac \ub3d9", "original_title": "\ubb3c\ub3c4\ub9ac \ub3d9", "slug_title": "muldori-dong", "date": "1979-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

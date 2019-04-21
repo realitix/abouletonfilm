@@ -1,0 +1,1 @@
+{"tmdb_id": 514192, "title": "Wishology! Part 2: The Exciting Middle Part", "original_title": "Wishology! Part 2: The Exciting Middle Part", "slug_title": "wishology-part-2-the-exciting-middle-part", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

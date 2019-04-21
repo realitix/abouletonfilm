@@ -1,0 +1,1 @@
+{"tmdb_id": 550814, "title": "De avonturen van Kuifje V7", "original_title": "De avonturen van Kuifje V7", "slug_title": "de-avonturen-van-kuifje-v7", "date": "2001-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/liGocGNlwPsjdSRMvCVV2mxVHiY.jpg", "actors": [], "comments": [], "recommandations_id": []}

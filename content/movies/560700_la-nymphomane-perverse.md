@@ -1,0 +1,1 @@
+{"tmdb_id": 560700, "title": "La Nymphomane perverse", "original_title": "La Nymphomane perverse", "slug_title": "la-nymphomane-perverse", "date": "1977-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gilbert Servien ()", "Edwige Davis ()", "Laurence Jarry ()"], "comments": [], "recommandations_id": []}

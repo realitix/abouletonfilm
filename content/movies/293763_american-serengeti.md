@@ -1,0 +1,1 @@
+{"tmdb_id": 293763, "title": "American Serengeti", "original_title": "American Serengeti", "slug_title": "american-serengeti", "date": "2010-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

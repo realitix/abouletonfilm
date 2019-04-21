@@ -1,0 +1,1 @@
+{"tmdb_id": 40547, "title": "O Ba\u00fa do Raul", "original_title": "O Ba\u00fa do Raul", "slug_title": "o-bau-do-raul", "date": "2004-01-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PfpcDA758hU7LJnv2fxkmnynaq.jpg", "actors": [], "comments": [], "recommandations_id": []}

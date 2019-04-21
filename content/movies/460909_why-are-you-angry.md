@@ -1,0 +1,1 @@
+{"tmdb_id": 460909, "title": "Why Are You Angry?", "original_title": "Why Are You Angry?", "slug_title": "why-are-you-angry", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

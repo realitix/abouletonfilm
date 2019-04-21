@@ -1,0 +1,1 @@
+{"tmdb_id": 520147, "title": "Current 93 \u200e\u2013 Moscow,Ikra,12 April 2008", "original_title": "Current 93 \u200e\u2013 Moscow,Ikra,12 April 2008", "slug_title": "current-93-moscow-ikra-12-april-2008", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

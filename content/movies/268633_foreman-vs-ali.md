@@ -1,0 +1,1 @@
+{"tmdb_id": 268633, "title": "Foreman vs. Ali", "original_title": "Foreman vs. Ali", "slug_title": "foreman-vs-ali", "date": "1974-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25R6SCHUTtf46xS443PuNeCcGC.jpg", "actors": [], "comments": [], "recommandations_id": []}

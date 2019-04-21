@@ -1,0 +1,1 @@
+{"tmdb_id": 458990, "title": "Estrela de Oito Pontas", "original_title": "Estrela de Oito Pontas", "slug_title": "estrela-de-oito-pontas", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/updIkdptxWOodTThupz0p1U7te2.jpg", "actors": [], "comments": [], "recommandations_id": []}

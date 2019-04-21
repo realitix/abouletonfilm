@@ -1,0 +1,1 @@
+{"tmdb_id": 189022, "title": "Awesome 80's Vol.6", "original_title": "Awesome 80's Vol.6", "slug_title": "awesome-80-s-vol-6", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avMIjpbEzAdHO8a9E7vl2g3dVsz.jpg", "actors": [], "comments": [], "recommandations_id": []}

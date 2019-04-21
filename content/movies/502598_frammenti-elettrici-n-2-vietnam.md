@@ -1,0 +1,1 @@
+{"tmdb_id": 502598, "title": "Frammenti elettrici N. 2 - Vietnam", "original_title": "Frammenti elettrici N. 2 - Vietnam", "slug_title": "frammenti-elettrici-n-2-vietnam", "date": "2002-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

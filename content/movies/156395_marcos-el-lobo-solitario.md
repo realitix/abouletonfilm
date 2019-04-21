@@ -1,0 +1,1 @@
+{"tmdb_id": 156395, "title": "Marcos, el lobo solitario", "original_title": "Marcos, el lobo solitario", "slug_title": "marcos-el-lobo-solitario", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mbDC0xSvgVVjvQyXuiq6vDT9MI8.jpg", "actors": [], "comments": [], "recommandations_id": []}

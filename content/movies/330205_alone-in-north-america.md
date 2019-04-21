@@ -1,0 +1,1 @@
+{"tmdb_id": 330205, "title": "Alone in North America", "original_title": "Alone in North America", "slug_title": "alone-in-north-america", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

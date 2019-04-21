@@ -1,0 +1,1 @@
+{"tmdb_id": 165971, "title": "Na Sybir", "original_title": "Na Sybir", "slug_title": "na-sybir", "date": "1930-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxS6CFPThZnzX3nxFDepq2OJ3m6.jpg", "actors": [], "comments": [], "recommandations_id": []}

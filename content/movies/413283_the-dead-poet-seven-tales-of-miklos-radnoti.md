@@ -1,0 +1,1 @@
+{"tmdb_id": 413283, "title": "The Dead Poet: Seven Tales of Miklos Radnoti", "original_title": "The Dead Poet: Seven Tales of Miklos Radnoti", "slug_title": "the-dead-poet-seven-tales-of-miklos-radnoti", "date": "2016-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

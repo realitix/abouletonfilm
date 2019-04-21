@@ -1,0 +1,1 @@
+{"tmdb_id": 351001, "title": "Monkey Meat", "original_title": "Monkey Meat", "slug_title": "monkey-meat", "date": "1930-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

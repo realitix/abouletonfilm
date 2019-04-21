@@ -1,0 +1,1 @@
+{"tmdb_id": 447596, "title": "Jerusalem Cuts", "original_title": "Jerusalem Cuts", "slug_title": "jerusalem-cuts", "date": "2008-04-01", "genre": "Histoire / T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Padwa (Himself)"], "comments": [], "recommandations_id": []}

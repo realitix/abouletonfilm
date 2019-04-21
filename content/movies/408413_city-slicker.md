@@ -1,0 +1,1 @@
+{"tmdb_id": 408413, "title": "City Slicker", "original_title": "City Slicker", "slug_title": "city-slicker", "date": "1951-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

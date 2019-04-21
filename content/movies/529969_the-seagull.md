@@ -1,0 +1,1 @@
+{"tmdb_id": 529969, "title": "The Seagull", "original_title": "\u0427\u0430\u0439\u043a\u0430", "slug_title": "the-seagull", "date": "2012-12-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asan Amanov ()", "Aidana Sadykbekova ()", "Yunus Tekche ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 542908, "title": "TRABALHO", "original_title": "TRABALHO", "slug_title": "trabalho", "date": "2017-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHLdv5AoDzpGXMwlHaGb84e8yBs.jpg", "actors": ["Formigas (elas mesmas)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 501000, "title": "In The Spirit of Laxmi", "original_title": "In The Spirit of Laxmi", "slug_title": "in-the-spirit-of-laxmi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275522, "title": "Storybook Classics: Ivanhoe", "original_title": "Storybook Classics: Ivanhoe", "slug_title": "storybook-classics-ivanhoe", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

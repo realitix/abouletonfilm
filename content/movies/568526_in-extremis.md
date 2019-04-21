@@ -1,0 +1,1 @@
+{"tmdb_id": 568526, "title": "In extremis", "original_title": "In extremis", "slug_title": "in-extremis", "date": "1988-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scFJSQ1rBgbjbPkJd4zdYuPgowK.jpg", "actors": ["Sophie Duez ()", "Philippe Caroit ()", "Julien Maurel ()"], "comments": [], "recommandations_id": []}

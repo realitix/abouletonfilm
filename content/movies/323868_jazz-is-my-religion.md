@@ -1,0 +1,1 @@
+{"tmdb_id": 323868, "title": "Jazz Is My Religion", "original_title": "Jazz Is My Religion", "slug_title": "jazz-is-my-religion", "date": "2006-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kXRcz8PCYCNBUm9UfIRv7t7DM14.jpg", "actors": [], "comments": [], "recommandations_id": []}

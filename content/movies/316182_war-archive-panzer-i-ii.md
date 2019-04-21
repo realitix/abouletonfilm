@@ -1,0 +1,1 @@
+{"tmdb_id": 316182, "title": "War Archive - Panzer I & II", "original_title": "War Archive - Panzer I & II", "slug_title": "war-archive-panzer-i-ii", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

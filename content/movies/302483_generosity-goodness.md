@@ -1,0 +1,1 @@
+{"tmdb_id": 302483, "title": "Generosity & Goodness", "original_title": "Generosity & Goodness", "slug_title": "generosity-goodness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

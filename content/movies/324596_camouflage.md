@@ -1,0 +1,1 @@
+{"tmdb_id": 324596, "title": "Camouflage", "original_title": "Camouflage", "slug_title": "camouflage", "date": "1918-11-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Perez (Twede-Dan)", "Nilde Baracchi (Miss Babette)"], "comments": [], "recommandations_id": []}

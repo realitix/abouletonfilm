@@ -1,0 +1,1 @@
+{"tmdb_id": 184543, "title": "Summertime", "original_title": "Summertime", "slug_title": "summertime", "date": "1935-06-14", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2YC3VS2X1XcITztIX2gYmLEL9x2.jpg", "actors": [], "comments": [], "recommandations_id": []}

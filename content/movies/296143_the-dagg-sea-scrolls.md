@@ -1,0 +1,1 @@
+{"tmdb_id": 296143, "title": "The Dagg Sea Scrolls", "original_title": "The Dagg Sea Scrolls", "slug_title": "the-dagg-sea-scrolls", "date": "2006-03-06", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Clarke (Fred Dagg)"], "comments": [], "recommandations_id": []}

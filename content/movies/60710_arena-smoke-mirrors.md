@@ -1,0 +1,1 @@
+{"tmdb_id": 60710, "title": "Arena - Smoke & Mirrors", "original_title": "Arena - Smoke & Mirrors", "slug_title": "arena-smoke-mirrors", "date": "2007-02-09", "genre": "Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRB2l3wwUkIqDSHoAKcdhjJdNG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 201671, "title": "Chicken a La Carte", "original_title": "Chicken a La Carte", "slug_title": "chicken-a-la-carte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

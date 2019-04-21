@@ -1,0 +1,1 @@
+{"tmdb_id": 314815, "title": "Stop the Presses", "original_title": "Stop the Presses", "slug_title": "stop-the-presses", "date": "2008-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

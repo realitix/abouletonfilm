@@ -1,0 +1,1 @@
+{"tmdb_id": 266598, "title": "La legende des 47 toutous ronins", "original_title": "Wanwan chuushingura", "slug_title": "la-legende-des-47-toutous-ronins", "date": "1963-12-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/isVQf2Txb100Hw33gCjrSevx1lF.jpg", "actors": [], "comments": [], "recommandations_id": []}

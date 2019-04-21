@@ -1,0 +1,1 @@
+{"tmdb_id": 414333, "title": "Coffee Coloured Children", "original_title": "Coffee Coloured Children", "slug_title": "coffee-coloured-children", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4d1cK8IT9T7vlu3JzUstO8bRsLb.jpg", "actors": [], "comments": [], "recommandations_id": []}

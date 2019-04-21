@@ -1,0 +1,1 @@
+{"tmdb_id": 561450, "title": "Alc\u00e2ntara: Ghost Town", "original_title": "Alc\u00e2ntara: Cidade Morta", "slug_title": "alcantara-ghost-town", "date": "1968-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uOx32Xz0X0gZ1859mLQPcZlauHy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275499, "title": "Hangovers from Hell", "original_title": "Hangovers from Hell", "slug_title": "hangovers-from-hell", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

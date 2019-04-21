@@ -1,0 +1,1 @@
+{"tmdb_id": 567198, "title": "The Debater", "original_title": "The Debater", "slug_title": "the-debater", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAsM0yVn7qj7XsMEph5GyFjkCsC.jpg", "actors": [], "comments": [], "recommandations_id": []}

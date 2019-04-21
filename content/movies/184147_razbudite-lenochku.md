@@ -1,0 +1,1 @@
+{"tmdb_id": 184147, "title": "Razbudite Lenochku", "original_title": "Razbudite Lenochku", "slug_title": "razbudite-lenochku", "date": "1934-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2KGfoySmzCXeRQ0zGEixngyO0l.jpg", "actors": [], "comments": [], "recommandations_id": []}

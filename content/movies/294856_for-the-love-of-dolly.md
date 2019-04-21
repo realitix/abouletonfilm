@@ -1,0 +1,1 @@
+{"tmdb_id": 294856, "title": "For the Love of Dolly", "original_title": "For the Love of Dolly", "slug_title": "for-the-love-of-dolly", "date": "2006-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJGUuJH5YagoCsnUqy9CHEtoxhK.jpg", "actors": [], "comments": [], "recommandations_id": []}

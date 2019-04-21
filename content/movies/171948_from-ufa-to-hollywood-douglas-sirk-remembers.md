@@ -1,0 +1,1 @@
+{"tmdb_id": 171948, "title": "From UFA to Hollywood: Douglas Sirk Remembers", "original_title": "From UFA to Hollywood: Douglas Sirk Remembers", "slug_title": "from-ufa-to-hollywood-douglas-sirk-remembers", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

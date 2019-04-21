@@ -1,0 +1,1 @@
+{"tmdb_id": 442183, "title": "Rockin Ramona", "original_title": "Rockin Ramona", "slug_title": "rockin-ramona", "date": "1991-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztsmgOnVXwS4RO0acgnmxsgsVSF.jpg", "actors": [], "comments": [], "recommandations_id": []}

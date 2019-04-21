@@ -1,0 +1,1 @@
+{"tmdb_id": 467704, "title": "Fantastic Man", "original_title": "Fantastic Man", "slug_title": "fantastic-man", "date": "2003-12-25", "genre": "", "score": "0.0/10", "synopsis": "Film de super h\u00e9ros", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chfSU3Vj7cKV4LLAOfYcddpFbJU.jpg", "actors": ["Vic Sotto ()"], "comments": [], "recommandations_id": []}

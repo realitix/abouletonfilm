@@ -1,0 +1,1 @@
+{"tmdb_id": 357487, "title": "The Balance", "original_title": "The Balance", "slug_title": "the-balance", "date": "1947-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

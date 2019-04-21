@@ -1,0 +1,1 @@
+{"tmdb_id": 157536, "title": "Frankenstein", "original_title": "Frankenstein", "slug_title": "frankenstein", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

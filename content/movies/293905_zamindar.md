@@ -1,0 +1,1 @@
+{"tmdb_id": 293905, "title": "Zamindar", "original_title": "Zamindar", "slug_title": "zamindar", "date": "1942-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Akhtar ()", "Anwari ()", "Shanta Apte ()"], "comments": [], "recommandations_id": []}

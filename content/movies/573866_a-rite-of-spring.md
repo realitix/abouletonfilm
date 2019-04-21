@@ -1,0 +1,1 @@
+{"tmdb_id": 573866, "title": "A Rite of Spring", "original_title": "A Rite of Spring", "slug_title": "a-rite-of-spring", "date": "1955-12-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7RChmo3ZlBqPiGoyMT62Xadi7z.jpg", "actors": ["Jim Huntley ()"], "comments": [], "recommandations_id": []}

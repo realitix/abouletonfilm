@@ -1,0 +1,1 @@
+{"tmdb_id": 498767, "title": "La marea", "original_title": "La marea", "slug_title": "la-marea", "date": "2006-11-07", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

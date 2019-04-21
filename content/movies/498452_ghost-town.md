@@ -1,0 +1,1 @@
+{"tmdb_id": 498452, "title": "Ghost Town", "original_title": "Ghost Town", "slug_title": "ghost-town", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5C20NW0uxKJmvPSPiz9XOE6OO3.jpg", "actors": [], "comments": [], "recommandations_id": []}

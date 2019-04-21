@@ -1,0 +1,1 @@
+{"tmdb_id": 310607, "title": "Cartoon Crazys: Spooky Toons", "original_title": "Cartoon Crazys: Spooky Toons", "slug_title": "cartoon-crazys-spooky-toons", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pxXwYhnn6USzK1ApDRVFgspc0dR.jpg", "actors": [], "comments": [], "recommandations_id": []}

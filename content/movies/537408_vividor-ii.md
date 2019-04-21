@@ -1,0 +1,1 @@
+{"tmdb_id": 537408, "title": "Vividor II", "original_title": "Vividor II", "slug_title": "vividor-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

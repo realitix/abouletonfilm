@@ -1,0 +1,1 @@
+{"tmdb_id": 68030, "title": "Tabaluga - Der Weihnachtsfilm", "original_title": "Tabaluga - Der Weihnachtsfilm", "slug_title": "tabaluga-der-weihnachtsfilm", "date": "2003-10-06", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7F6nGp2hZxxZhqf8XNKVdAmkouO.jpg", "actors": [], "comments": [], "recommandations_id": []}

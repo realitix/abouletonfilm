@@ -1,0 +1,1 @@
+{"tmdb_id": 446907, "title": "The Claim", "original_title": "The Claim", "slug_title": "the-claim", "date": "", "genre": "Thriller", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

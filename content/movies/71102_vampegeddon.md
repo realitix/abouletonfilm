@@ -1,0 +1,1 @@
+{"tmdb_id": 71102, "title": "Vampegeddon", "original_title": "Vampegeddon", "slug_title": "vampegeddon", "date": "2010-05-05", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYxEixBru8aZLp5ZQzLfKbPiiw0.jpg", "actors": [], "comments": [], "recommandations_id": []}

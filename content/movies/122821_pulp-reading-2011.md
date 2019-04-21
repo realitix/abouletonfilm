@@ -1,0 +1,1 @@
+{"tmdb_id": 122821, "title": "Pulp: Reading 2011", "original_title": "Pulp: Reading 2011", "slug_title": "pulp-reading-2011", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSGvpyRBTD98RBRrf5daTjwhhKe.jpg", "actors": ["Pulp (Band)"], "comments": [], "recommandations_id": []}

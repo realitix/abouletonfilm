@@ -1,0 +1,1 @@
+{"tmdb_id": 549303, "title": "The Atlas", "original_title": "Atlas", "slug_title": "the-atlas", "date": "2017-06-19", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magdalena Pociecha ()", "Tomasz Kot ()", "Kinga Ciesielska ()", "Marian Opania ()"], "comments": [], "recommandations_id": []}

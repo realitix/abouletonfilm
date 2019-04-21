@@ -1,0 +1,1 @@
+{"tmdb_id": 328910, "title": "Marina Monster", "original_title": "Marina Monster", "slug_title": "marina-monster", "date": "2008-05-27", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJwttgEVA5kZp9lqtqVW4TM5E1s.jpg", "actors": ["Tom Cooper (Victim)"], "comments": [], "recommandations_id": []}

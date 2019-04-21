@@ -1,0 +1,1 @@
+{"tmdb_id": 574691, "title": "Second and Lee", "original_title": "Second and Lee", "slug_title": "second-and-lee", "date": "2009-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

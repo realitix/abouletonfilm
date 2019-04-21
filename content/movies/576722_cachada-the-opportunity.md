@@ -1,0 +1,1 @@
+{"tmdb_id": 576722, "title": "Cachada: The Opportunity", "original_title": "Cachada: The Opportunity", "slug_title": "cachada-the-opportunity", "date": "2019-03-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TYSHCNRKr1ONEgOLeWLy7yhvHt.jpg", "actors": [], "comments": [], "recommandations_id": []}

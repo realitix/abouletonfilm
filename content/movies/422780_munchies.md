@@ -1,0 +1,1 @@
+{"tmdb_id": 422780, "title": "Munchies", "original_title": "Munchies", "slug_title": "munchies", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dD8eP2xTqykOa0EHzNNSH7JHnGO.jpg", "actors": [], "comments": [], "recommandations_id": []}

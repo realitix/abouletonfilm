@@ -1,0 +1,1 @@
+{"tmdb_id": 497677, "title": "Du regard comme objet", "original_title": "Du regard comme objet", "slug_title": "du-regard-comme-objet", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wt8ZqBOc978esnnPQAxdZBiu4Ql.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 519358, "title": "La vita militare", "original_title": "La vita militare", "slug_title": "la-vita-militare", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

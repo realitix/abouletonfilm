@@ -1,0 +1,1 @@
+{"tmdb_id": 377802, "title": "All People Is Plastic", "original_title": "All People Is Plastic", "slug_title": "all-people-is-plastic", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

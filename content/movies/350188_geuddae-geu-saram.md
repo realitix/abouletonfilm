@@ -1,0 +1,1 @@
+{"tmdb_id": 350188, "title": "\uadf8\ub54c \uadf8 \uc0ac\ub78c", "original_title": "\uadf8\ub54c \uadf8 \uc0ac\ub78c", "slug_title": "geuddae-geu-saram", "date": "1980-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

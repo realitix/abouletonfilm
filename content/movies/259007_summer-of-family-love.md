@@ -1,0 +1,1 @@
+{"tmdb_id": 259007, "title": "Summer of (Family) Love", "original_title": "Summer of (Family) Love", "slug_title": "summer-of-family-love", "date": "2014-01-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kirsten Dirksen (Herself)"], "comments": [], "recommandations_id": []}

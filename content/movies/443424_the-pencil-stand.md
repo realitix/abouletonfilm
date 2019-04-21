@@ -1,0 +1,1 @@
+{"tmdb_id": 443424, "title": "The Pencil Stand", "original_title": "The Pencil Stand", "slug_title": "the-pencil-stand", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

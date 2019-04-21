@@ -1,0 +1,1 @@
+{"tmdb_id": 513788, "title": "The Rabbit Squad", "original_title": "The Rabbit Squad", "slug_title": "the-rabbit-squad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

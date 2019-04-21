@@ -1,0 +1,1 @@
+{"tmdb_id": 578281, "title": "De wereld volgens Amazon", "original_title": "De wereld volgens Amazon", "slug_title": "de-wereld-volgens-amazon", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 383319, "title": "Fangs of Darkness: Vengeance", "original_title": "Shin Gokinzo Yaburi", "slug_title": "fangs-of-darkness-vengeance", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g6c7rtkXLIbIZUbyXx3kvTBdTfX.jpg", "actors": [], "comments": [], "recommandations_id": []}

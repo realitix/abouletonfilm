@@ -1,0 +1,1 @@
+{"tmdb_id": 409513, "title": "Fine, Thanks", "original_title": "Dakujem, dobre", "slug_title": "fine-thanks", "date": "2013-02-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6iW0gLpx7rSaiqWso2a4xEdQHe.jpg", "actors": [], "comments": [], "recommandations_id": []}

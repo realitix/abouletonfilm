@@ -1,0 +1,1 @@
+{"tmdb_id": 522003, "title": "How Bitter My Sweet", "original_title": "How Bitter My Sweet", "slug_title": "how-bitter-my-sweet", "date": "2009-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

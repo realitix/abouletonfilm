@@ -1,0 +1,1 @@
+{"tmdb_id": 580844, "title": "Uda Aida", "original_title": "Uda Aida", "slug_title": "uda-aida", "date": "2019-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tarsem Jassar ()", "Neeru Bajwa ()", "Poppy Jabbal ()", "Ansh Tejpal ()", "Gurpreet Ghuggi ()"], "comments": [], "recommandations_id": []}

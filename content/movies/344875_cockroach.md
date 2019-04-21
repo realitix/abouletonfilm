@@ -1,0 +1,1 @@
+{"tmdb_id": 344875, "title": "Cockroach", "original_title": "Cockroach", "slug_title": "cockroach", "date": "2010-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnMnLVP9kZAjCGUyCKnWxdUi8KG.jpg", "actors": ["Damon Gameau (Charlie)", "Brooke Harmon (Sera)"], "comments": [], "recommandations_id": []}

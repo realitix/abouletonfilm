@@ -1,0 +1,1 @@
+{"tmdb_id": 349917, "title": "\uce5c\uad6c\uc560\uc778", "original_title": "\uce5c\uad6c\uc560\uc778", "slug_title": "cinguaein", "date": "1983-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

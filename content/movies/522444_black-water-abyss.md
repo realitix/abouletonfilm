@@ -1,0 +1,1 @@
+{"tmdb_id": 522444, "title": "Black Water: Abyss", "original_title": "Black Water: Abyss", "slug_title": "black-water-abyss", "date": "2019-12-31", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/guPG0zbyiuBFEmQFiRbdykBKEt3.jpg", "actors": [], "comments": [], "recommandations_id": []}

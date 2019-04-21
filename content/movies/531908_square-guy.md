@@ -1,0 +1,1 @@
+{"tmdb_id": 531908, "title": "Square Guy", "original_title": "Square Guy", "slug_title": "square-guy", "date": "2018-03-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Ms52A5cemWU2xE1d69xmRvlf02.jpg", "actors": [], "comments": [], "recommandations_id": []}

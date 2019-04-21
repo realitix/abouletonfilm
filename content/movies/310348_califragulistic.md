@@ -1,0 +1,1 @@
+{"tmdb_id": 310348, "title": "Califragulistic", "original_title": "Califragulistic", "slug_title": "califragulistic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

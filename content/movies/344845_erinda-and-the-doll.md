@@ -1,0 +1,1 @@
+{"tmdb_id": 344845, "title": "Erinda and the Doll", "original_title": "Erinda dhe kukulla", "slug_title": "erinda-and-the-doll", "date": "1979-05-10", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osjTROBrL7v8TuaobhNi9lSfvVs.jpg", "actors": [], "comments": [], "recommandations_id": []}

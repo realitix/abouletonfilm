@@ -1,0 +1,1 @@
+{"tmdb_id": 190479, "title": "L'Apprenti sorcier", "original_title": "L'Apprenti sorcier", "slug_title": "l-apprenti-sorcier", "date": "1933-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

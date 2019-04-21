@@ -1,0 +1,1 @@
+{"tmdb_id": 468758, "title": "Sensei Redenshon", "original_title": "Sensei Redenshon", "slug_title": "sensei-redenshon", "date": "2013-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ol5wiMzuFvMkzSWaSUCvaCZvZo9.jpg", "actors": [], "comments": [], "recommandations_id": []}

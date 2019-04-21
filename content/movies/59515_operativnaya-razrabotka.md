@@ -1,0 +1,1 @@
+{"tmdb_id": 59515, "title": "Operativnaya razrabotka", "original_title": "Operativnaya razrabotka", "slug_title": "operativnaya-razrabotka", "date": "2007-01-01", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1AUJ0lGxqitWtNXMF34mBA64yM5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498859, "title": "The Witcher: First Hunt", "original_title": "The Witcher: First Hunt", "slug_title": "the-witcher-first-hunt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGRuHuxbk81pArmOxTUUNhU7mN8.jpg", "actors": [], "comments": [], "recommandations_id": []}

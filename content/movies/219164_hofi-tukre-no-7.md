@@ -1,0 +1,1 @@
+{"tmdb_id": 219164, "title": "Hofi t\u00fckre No.7", "original_title": "Hofi t\u00fckre No.7", "slug_title": "hofi-tukre-no-7", "date": "2008-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZFY1qLNBKDchhWLQWCa7ptlhwv.jpg", "actors": [], "comments": [], "recommandations_id": []}

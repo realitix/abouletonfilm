@@ -1,0 +1,1 @@
+{"tmdb_id": 88186, "title": "Papageno", "original_title": "Papageno", "slug_title": "papageno", "date": "1935-08-11", "genre": "Animation / Musique", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/itvrjEMOClH184uqolyMZY0KfAA.jpg", "actors": [], "comments": [], "recommandations_id": [162528, 162186, 126128, 127981]}

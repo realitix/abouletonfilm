@@ -1,0 +1,1 @@
+{"tmdb_id": 563515, "title": "Maria Rosa", "original_title": "Maria Rosa", "slug_title": "maria-rosa", "date": "1916-05-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geraldine Farrar (Maria Rosa)", "Wallace Reid (Andreas)"], "comments": [], "recommandations_id": []}

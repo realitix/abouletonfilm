@@ -1,0 +1,1 @@
+{"tmdb_id": 418716, "title": "The Goodness Regime", "original_title": "The Goodness Regime", "slug_title": "the-goodness-regime", "date": "2013-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Ubl40synbom6Rl7zDET8a1veUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

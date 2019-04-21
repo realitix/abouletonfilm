@@ -1,0 +1,1 @@
+{"tmdb_id": 220994, "title": "Mrs. Bixby and the Colonel's Coat", "original_title": "Mrs. Bixby and the Colonel's Coat", "slug_title": "mrs-bixby-and-the-colonel-s-coat", "date": "1979-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

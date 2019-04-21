@@ -1,0 +1,1 @@
+{"tmdb_id": 302883, "title": "Gaddaar", "original_title": "Gaddaar", "slug_title": "gaddaar", "date": "1995-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCwZYsotRI3HSuKgeS7Bd3qJXSR.jpg", "actors": [], "comments": [], "recommandations_id": []}

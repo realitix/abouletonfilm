@@ -1,0 +1,1 @@
+{"tmdb_id": 48326, "title": "Gone Bad", "original_title": "Gone Bad", "slug_title": "gone-bad", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

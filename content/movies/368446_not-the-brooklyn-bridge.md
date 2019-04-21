@@ -1,0 +1,1 @@
+{"tmdb_id": 368446, "title": "Not the Brooklyn Bridge", "original_title": "Nie Brooklinski Most", "slug_title": "not-the-brooklyn-bridge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

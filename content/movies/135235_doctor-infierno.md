@@ -1,0 +1,1 @@
+{"tmdb_id": 135235, "title": "Doctor Infierno", "original_title": "Doctor Infierno", "slug_title": "doctor-infierno", "date": "2007-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x3xLeKqDQSzNc7kt01jX7NY5eig.jpg", "actors": ["Arturo De Bobadilla (Doctor Infierno)"], "comments": [], "recommandations_id": []}

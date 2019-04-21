@@ -1,0 +1,1 @@
+{"tmdb_id": 441313, "title": "Das Raubtier", "original_title": "Das Raubtier", "slug_title": "das-raubtier", "date": "1978-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ytGlBEXllSN4VJ7ibnwwoLsKYA.jpg", "actors": [], "comments": [], "recommandations_id": []}

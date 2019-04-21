@@ -1,0 +1,1 @@
+{"tmdb_id": 564266, "title": "Nuvvante Nakistam", "original_title": "Nuvvante Nakistam", "slug_title": "nuvvante-nakistam", "date": "2005-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aryan Rajesh (Yuvaraj)", "Allari Naresh (Devudu)", "Anuradha Mehta (Radha)", "Ali ()"], "comments": [], "recommandations_id": []}

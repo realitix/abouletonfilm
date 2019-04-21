@@ -1,0 +1,1 @@
+{"tmdb_id": 417036, "title": "Una Pazza Crociera", "original_title": "Una Pazza Crociera", "slug_title": "una-pazza-crociera", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJel279wRKa2F4mnNpdJG7gCc9C.jpg", "actors": ["Michael Grossman (regista)"], "comments": [], "recommandations_id": []}

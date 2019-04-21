@@ -1,0 +1,1 @@
+{"tmdb_id": 414457, "title": "Ghost Town: The Story of Fort Lee", "original_title": "Ghost Town: The Story of Fort Lee", "slug_title": "ghost-town-the-story-of-fort-lee", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

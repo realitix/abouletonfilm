@@ -1,0 +1,1 @@
+{"tmdb_id": 300340, "title": "The States of Arizona", "original_title": "The States of Arizona", "slug_title": "the-states-of-arizona", "date": "2014-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

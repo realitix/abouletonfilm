@@ -1,0 +1,1 @@
+{"tmdb_id": 389634, "title": "The Poison Tasters", "original_title": "The Poison Tasters", "slug_title": "the-poison-tasters", "date": "1995-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jUdeVPdJTuRqgP1PDRU31D0JJul.jpg", "actors": [], "comments": [], "recommandations_id": []}

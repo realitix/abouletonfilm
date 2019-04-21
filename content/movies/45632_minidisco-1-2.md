@@ -1,0 +1,1 @@
+{"tmdb_id": 45632, "title": "Minidisco 1 & 2", "original_title": "Minidisco 1 & 2", "slug_title": "minidisco-1-2", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3S4bJZU6CIk8lVIo7W29oaxlu99.jpg", "actors": [], "comments": [], "recommandations_id": []}

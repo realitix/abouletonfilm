@@ -1,0 +1,1 @@
+{"tmdb_id": 538796, "title": "The Violin Maker of Cremona", "original_title": "Le luthier de Cr\u00e9mone", "slug_title": "the-violin-maker-of-cremona", "date": "1909-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2TLYsxPxWncUvi2SdOGpoUyR39M.jpg", "actors": [], "comments": [], "recommandations_id": []}

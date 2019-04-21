@@ -1,0 +1,1 @@
+{"tmdb_id": 166301, "title": "Strike Up the Band", "original_title": "Strike Up the Band", "slug_title": "strike-up-the-band", "date": "1930-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

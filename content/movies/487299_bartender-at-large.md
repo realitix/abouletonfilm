@@ -1,0 +1,1 @@
+{"tmdb_id": 487299, "title": "Bartender At Large", "original_title": "Bartender At Large", "slug_title": "bartender-at-large", "date": "2017-10-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p87RRiZ487ay6zlIw9WTc1mllA7.jpg", "actors": ["Erick Castro (himself)"], "comments": [], "recommandations_id": []}

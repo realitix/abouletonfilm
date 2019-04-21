@@ -1,0 +1,1 @@
+{"tmdb_id": 233719, "title": "Mathusalem", "original_title": "Mathusalem", "slug_title": "mathusalem", "date": "1927-11-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonin Artaud ()", "Marcel Barencey ()", "Henri Marchand ()", "Jean Painlev\u00e9 ()"], "comments": [], "recommandations_id": []}

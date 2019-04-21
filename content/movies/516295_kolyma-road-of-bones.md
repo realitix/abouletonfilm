@@ -1,0 +1,1 @@
+{"tmdb_id": 516295, "title": "Kolyma: Road of Bones", "original_title": "Kolyma - Stra\u00dfe der Knochen", "slug_title": "kolyma-road-of-bones", "date": "2017-11-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KaSxNpgo5ZB0fUx92iDFLxABI8.jpg", "actors": [], "comments": [], "recommandations_id": []}

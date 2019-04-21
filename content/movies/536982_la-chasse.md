@@ -1,0 +1,1 @@
+{"tmdb_id": 536982, "title": "La Chasse", "original_title": "La Chasse", "slug_title": "la-chasse", "date": "2018-07-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

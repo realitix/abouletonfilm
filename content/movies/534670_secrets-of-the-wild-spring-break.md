@@ -1,0 +1,1 @@
+{"tmdb_id": 534670, "title": "Secrets of the Wild: Spring Break", "original_title": "Secrets of the Wild: Spring Break", "slug_title": "secrets-of-the-wild-spring-break", "date": "2017-04-05", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

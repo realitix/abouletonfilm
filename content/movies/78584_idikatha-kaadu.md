@@ -1,0 +1,1 @@
+{"tmdb_id": 78584, "title": "Idikatha Kaadu", "original_title": "Idikatha Kaadu", "slug_title": "idikatha-kaadu", "date": "1979-06-29", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarath Babu ()", "Jayasudha ()", "Chiranjeevi ()", "Kamal Haasan ()", "Rama Prabha ()", "Saritha ()"], "comments": [], "recommandations_id": []}

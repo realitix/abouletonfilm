@@ -1,0 +1,1 @@
+{"tmdb_id": 243772, "title": "Yami Douga 6", "original_title": "Yami Douga 6", "slug_title": "yami-douga-6", "date": "2013-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AVTs4b7CaKkuTkNG6Nm4ezkDjt.jpg", "actors": [], "comments": [], "recommandations_id": []}

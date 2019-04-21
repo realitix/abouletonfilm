@@ -1,0 +1,1 @@
+{"tmdb_id": 434293, "title": "Furac\u00e3o Elis", "original_title": "Furac\u00e3o Elis", "slug_title": "furacao-elis", "date": "1985-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00edlia Gabriela (Herself)"], "comments": [], "recommandations_id": []}

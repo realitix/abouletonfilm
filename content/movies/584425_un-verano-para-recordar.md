@@ -1,0 +1,1 @@
+{"tmdb_id": 584425, "title": "Un Verano Para Recordar", "original_title": "Un Verano Para Recordar", "slug_title": "un-verano-para-recordar", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

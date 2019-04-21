@@ -1,0 +1,1 @@
+{"tmdb_id": 32606, "title": "Mihai si Cristina", "original_title": "Mihai si Cristina", "slug_title": "mihai-si-cristina", "date": "2001-12-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aurelian Barbieru (Mihai)", "Raluca Botez (Cristina)"], "comments": [], "recommandations_id": []}

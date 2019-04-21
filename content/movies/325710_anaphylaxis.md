@@ -1,0 +1,1 @@
+{"tmdb_id": 325710, "title": "Anaphylaxis", "original_title": "Anaphylaxis", "slug_title": "anaphylaxis", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

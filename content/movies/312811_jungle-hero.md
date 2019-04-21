@@ -1,0 +1,1 @@
+{"tmdb_id": 312811, "title": "Jungle Hero", "original_title": "Jungle Hero", "slug_title": "jungle-hero", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

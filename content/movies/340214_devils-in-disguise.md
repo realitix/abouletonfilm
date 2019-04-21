@@ -1,0 +1,1 @@
+{"tmdb_id": 340214, "title": "Devils in Disguise", "original_title": "Devils in Disguise", "slug_title": "devils-in-disguise", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIeiCnVz14JTIZ2RYLduUFhz4Qa.jpg", "actors": [], "comments": [], "recommandations_id": []}

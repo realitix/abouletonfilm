@@ -1,0 +1,1 @@
+{"tmdb_id": 443526, "title": "Lang Tong", "original_title": "\u9753\u6c64", "slug_title": "lang-tong", "date": "2015-08-05", "genre": "Thriller", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMubsi8VaDPcicAFI4jCetZkciJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

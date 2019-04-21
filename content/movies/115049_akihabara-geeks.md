@@ -1,0 +1,1 @@
+{"tmdb_id": 115049, "title": "Akihabara Geeks", "original_title": "Akihabara Geeks", "slug_title": "akihabara-geeks", "date": "2006-08-02", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8jOnX3p2TUveHtr0sIn3R6SS9H.jpg", "actors": [], "comments": [], "recommandations_id": []}

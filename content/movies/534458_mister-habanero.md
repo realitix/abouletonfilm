@@ -1,0 +1,1 @@
+{"tmdb_id": 534458, "title": "Mister Habanero", "original_title": "Mister Habanero", "slug_title": "mister-habanero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

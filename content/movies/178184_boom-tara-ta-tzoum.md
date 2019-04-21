@@ -1,0 +1,1 @@
+{"tmdb_id": 178184, "title": "Boom, tara!!! Ta tzoum!!!", "original_title": "Boom, tara!!! Ta tzoum!!!", "slug_title": "boom-tara-ta-tzoum", "date": "1972-09-29", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ft4d6NAypZUr1WRKo3DogGzvYG.jpg", "actors": [], "comments": [], "recommandations_id": []}

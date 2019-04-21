@@ -1,0 +1,1 @@
+{"tmdb_id": 555350, "title": "Ki Kore Toke Bolbo", "original_title": "Ki Kore Toke Bolbo", "slug_title": "ki-kore-toke-bolbo", "date": "2016-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wnWt5O1DVmGuhVthBNcyBYupTX.jpg", "actors": [], "comments": [], "recommandations_id": []}

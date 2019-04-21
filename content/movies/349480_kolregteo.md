@@ -1,0 +1,1 @@
+{"tmdb_id": 349480, "title": "\ucf5c\ub809\ud130", "original_title": "\ucf5c\ub809\ud130", "slug_title": "kolregteo", "date": "1996-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

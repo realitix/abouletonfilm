@@ -1,0 +1,1 @@
+{"tmdb_id": 578173, "title": "Taman Langsat Mayestik", "original_title": "Taman Langsat Mayestik", "slug_title": "taman-langsat-mayestik", "date": "2014-08-21", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSv0TPZxRynyIfJYUHXWxO56T7v.jpg", "actors": ["Ki Joko Bodo ()"], "comments": [], "recommandations_id": []}

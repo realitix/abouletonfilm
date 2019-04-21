@@ -1,0 +1,1 @@
+{"tmdb_id": 326083, "title": "What's For Dinner?", "original_title": "What's For Dinner?", "slug_title": "what-s-for-dinner", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

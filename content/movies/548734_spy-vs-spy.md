@@ -1,0 +1,1 @@
+{"tmdb_id": 548734, "title": "Spy vs. Spy", "original_title": "Spy vs. Spy", "slug_title": "spy-vs-spy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

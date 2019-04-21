@@ -1,0 +1,1 @@
+{"tmdb_id": 199349, "title": "Light Reading", "original_title": "Light Reading", "slug_title": "light-reading", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jUdJ9K2QWDB4a5LVLfAOliic1eP.jpg", "actors": [], "comments": [], "recommandations_id": []}

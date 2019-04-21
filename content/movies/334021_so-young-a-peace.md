@@ -1,0 +1,1 @@
+{"tmdb_id": 334021, "title": "So Young a Peace", "original_title": "Al-salam al-walid", "slug_title": "so-young-a-peace", "date": "1965-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mustapha Bela\u00efd ()", "Ali Larabi ()", "Fawzi Djeffel ()", "Mustapha Zerouki ()"], "comments": [], "recommandations_id": []}

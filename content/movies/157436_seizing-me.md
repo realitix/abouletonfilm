@@ -1,0 +1,1 @@
+{"tmdb_id": 157436, "title": "Seizing Me", "original_title": "Seizing Me", "slug_title": "seizing-me", "date": "2003-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i46tM3NMkPeXHmIZKohNXCVcrrR.jpg", "actors": ["Lisa Keller ()"], "comments": [], "recommandations_id": []}

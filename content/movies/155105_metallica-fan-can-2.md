@@ -1,0 +1,1 @@
+{"tmdb_id": 155105, "title": "Metallica: Fan Can 2", "original_title": "Metallica: Fan Can 2", "slug_title": "metallica-fan-can-2", "date": "1997-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHT4lcSqqLeFNHrYW8cYfylrmOM.jpg", "actors": [], "comments": [], "recommandations_id": []}

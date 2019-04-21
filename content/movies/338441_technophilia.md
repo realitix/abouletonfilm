@@ -1,0 +1,1 @@
+{"tmdb_id": 338441, "title": "Technophilia", "original_title": "Technophilia", "slug_title": "technophilia", "date": "2014-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUjiHX5MI9wkp5qCRJu4nUKCO3X.jpg", "actors": [], "comments": [], "recommandations_id": []}

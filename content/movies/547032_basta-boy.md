@@ -1,0 +1,1 @@
+{"tmdb_id": 547032, "title": "Basta Boy", "original_title": "Basta Boy", "slug_title": "basta-boy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

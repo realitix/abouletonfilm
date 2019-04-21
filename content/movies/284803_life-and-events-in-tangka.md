@@ -1,0 +1,1 @@
+{"tmdb_id": 284803, "title": "Life and Events in Tangka", "original_title": "Leben und Treiben in Tangka", "slug_title": "life-and-events-in-tangka", "date": "1909-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

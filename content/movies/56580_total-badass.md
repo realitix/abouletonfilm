@@ -1,0 +1,1 @@
+{"tmdb_id": 56580, "title": "Total Badass", "original_title": "Total Badass", "slug_title": "total-badass", "date": "2010-11-19", "genre": "Documentaire / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uH4juTlT7MIsrTCdDIRtxNWrvLF.jpg", "actors": ["Chad Holt (Himself)"], "comments": [], "recommandations_id": []}

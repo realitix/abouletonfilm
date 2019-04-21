@@ -1,0 +1,1 @@
+{"tmdb_id": 521793, "title": "Stringless", "original_title": "Snaarloos", "slug_title": "stringless", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

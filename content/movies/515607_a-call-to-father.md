@@ -1,0 +1,1 @@
+{"tmdb_id": 515607, "title": "A Call to Father", "original_title": "\u00c4kege qo\u00f1\u0131raw \u015falw", "slug_title": "a-call-to-father", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

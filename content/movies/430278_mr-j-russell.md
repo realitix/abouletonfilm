@@ -1,0 +1,1 @@
+{"tmdb_id": 430278, "title": "Mr. J. Russell", "original_title": "Mr. J. Russell", "slug_title": "mr-j-russell", "date": "2003-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMHXe1LizQ4toaP5RlX1JVl4EKr.jpg", "actors": [], "comments": [], "recommandations_id": []}

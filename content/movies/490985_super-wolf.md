@@ -1,0 +1,1 @@
+{"tmdb_id": 490985, "title": "Super-Wolf", "original_title": "Super-Wolf", "slug_title": "super-wolf", "date": "1949-10-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Aunt Fanny / Dave McGurk alias Dave the Drip)"], "comments": [], "recommandations_id": []}

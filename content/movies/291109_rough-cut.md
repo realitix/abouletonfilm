@@ -1,0 +1,1 @@
+{"tmdb_id": 291109, "title": "Rough Cut", "original_title": "Rough Cut", "slug_title": "rough-cut", "date": "2009-05-19", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtqS9P6B2CTgJySwzGUQqPIHE44.jpg", "actors": [], "comments": [], "recommandations_id": []}

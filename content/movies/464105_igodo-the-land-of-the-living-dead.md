@@ -1,0 +1,1 @@
+{"tmdb_id": 464105, "title": "Igodo: The Land of the Living Dead", "original_title": "Igodo: The Land of the Living Dead", "slug_title": "igodo-the-land-of-the-living-dead", "date": "1999-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

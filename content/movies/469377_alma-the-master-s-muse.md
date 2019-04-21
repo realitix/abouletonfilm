@@ -1,0 +1,1 @@
+{"tmdb_id": 469377, "title": "Alma: The Master's Muse", "original_title": "Alma: The Master's Muse", "slug_title": "alma-the-master-s-muse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

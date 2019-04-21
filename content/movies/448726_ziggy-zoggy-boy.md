@@ -1,0 +1,1 @@
+{"tmdb_id": 448726, "title": "Ziggy Zoggy Boy", "original_title": "Ziggy Zoggy Boy", "slug_title": "ziggy-zoggy-boy", "date": "2017-01-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJB44Rhf7upkh1xEhrQRB6OZSvm.jpg", "actors": ["Dan Licata ()", "Andrew Tisher ()"], "comments": [], "recommandations_id": []}

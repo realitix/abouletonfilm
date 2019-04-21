@@ -1,0 +1,1 @@
+{"tmdb_id": 501022, "title": "Hard as Indie", "original_title": "Hard as Indie", "slug_title": "hard-as-indie", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrdkHdozr99SjXNFZlLVtGbMcmT.jpg", "actors": [], "comments": [], "recommandations_id": []}

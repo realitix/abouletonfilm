@@ -1,0 +1,1 @@
+{"tmdb_id": 517476, "title": "Alaska DGAF", "original_title": "Alaska DGAF", "slug_title": "alaska-dgaf", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

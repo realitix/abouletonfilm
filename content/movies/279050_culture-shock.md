@@ -1,0 +1,1 @@
+{"tmdb_id": 279050, "title": "Culture Shock", "original_title": "Culture Shock", "slug_title": "culture-shock", "date": "2013-05-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5BA6JG8NzJed2nysHHZswelB32.jpg", "actors": ["Damien Gerard (Inspector Dawson)"], "comments": [], "recommandations_id": []}

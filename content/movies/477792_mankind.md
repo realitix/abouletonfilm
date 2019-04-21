@@ -1,0 +1,1 @@
+{"tmdb_id": 477792, "title": "Mankind", "original_title": "Mankind", "slug_title": "mankind", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

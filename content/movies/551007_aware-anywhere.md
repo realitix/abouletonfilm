@@ -1,0 +1,1 @@
+{"tmdb_id": 551007, "title": "Aware, Anywhere", "original_title": "Aware, Anywhere", "slug_title": "aware-anywhere", "date": "2017-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristen Stewart (Herself)", "Kent Jones (Himself)", "Olivier Assayas (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385096, "title": "Taylor Chain I: A Story in a Union Local", "original_title": "Taylor Chain I: A Story in a Union Local", "slug_title": "taylor-chain-i-a-story-in-a-union-local", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

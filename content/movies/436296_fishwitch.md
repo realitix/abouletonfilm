@@ -1,0 +1,1 @@
+{"tmdb_id": 436296, "title": "FishWitch", "original_title": "FishWitch", "slug_title": "fishwitch", "date": "2016-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8eQkpMdFhNwC3Y6NQjaqWA2D9xU.jpg", "actors": ["Sam Apley (Derek)", "Natalia Tena (Tootega)"], "comments": [], "recommandations_id": []}

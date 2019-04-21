@@ -1,0 +1,1 @@
+{"tmdb_id": 331732, "title": "The Greek Myths: The Nature of the Myth", "original_title": "The Greek Myths: The Nature of the Myth", "slug_title": "the-greek-myths-the-nature-of-the-myth", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

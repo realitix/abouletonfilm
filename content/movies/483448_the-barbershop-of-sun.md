@@ -1,0 +1,1 @@
+{"tmdb_id": 483448, "title": "The Barbershop of Sun", "original_title": "Arayeshgah-e aftab", "slug_title": "the-barbershop-of-sun", "date": "1967-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZyffKzqXSelkOnHaZ3JAe8BXH4.jpg", "actors": [], "comments": [], "recommandations_id": []}

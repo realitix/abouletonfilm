@@ -1,0 +1,1 @@
+{"tmdb_id": 465434, "title": "Mystery Clinic", "original_title": "Mystery Clinic", "slug_title": "mystery-clinic", "date": "2012-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2tuRayrXtOOf9oCE8hkpQr0gFE.jpg", "actors": ["Paige Turnah ()", "Kathy Campbel ()"], "comments": [], "recommandations_id": []}

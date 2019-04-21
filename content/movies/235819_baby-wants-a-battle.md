@@ -1,0 +1,1 @@
+{"tmdb_id": 235819, "title": "Baby Wants a Battle", "original_title": "Baby Wants a Battle", "slug_title": "baby-wants-a-battle", "date": "1953-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

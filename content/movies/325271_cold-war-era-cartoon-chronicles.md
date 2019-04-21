@@ -1,0 +1,1 @@
+{"tmdb_id": 325271, "title": "Cold War Era Cartoon Chronicles", "original_title": "Cold War Era Cartoon Chronicles", "slug_title": "cold-war-era-cartoon-chronicles", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

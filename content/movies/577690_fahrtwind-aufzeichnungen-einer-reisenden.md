@@ -1,0 +1,1 @@
+{"tmdb_id": 577690, "title": "Fahrtwind - Aufzeichnungen einer Reisenden", "original_title": "Fahrtwind - Aufzeichnungen einer Reisenden", "slug_title": "fahrtwind-aufzeichnungen-einer-reisenden", "date": "2013-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

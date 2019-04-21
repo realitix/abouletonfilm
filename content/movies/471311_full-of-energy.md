@@ -1,0 +1,1 @@
+{"tmdb_id": 471311, "title": "Full of Energy", "original_title": "Full of Energy", "slug_title": "full-of-energy", "date": "2004-06-01", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susan Nalwoga (Night)", "Wilberforce Muteta ()", "Patrick Birungi ()"], "comments": [], "recommandations_id": []}

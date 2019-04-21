@@ -1,0 +1,1 @@
+{"tmdb_id": 545010, "title": "Osaka Violence", "original_title": "\u5927\u962a\u5916\u9053", "slug_title": "osaka-violence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5BvjaqWnsyP5JH5jpW05t1JKlAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

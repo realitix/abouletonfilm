@@ -1,0 +1,1 @@
+{"tmdb_id": 69305, "title": "The Prodigal Son", "original_title": "The Prodigal Son", "slug_title": "the-prodigal-son", "date": "1988-06-01", "genre": "Familial / Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHMM3HWR7SZpEe3mNwPq4i85Z6S.jpg", "actors": [], "comments": [], "recommandations_id": []}

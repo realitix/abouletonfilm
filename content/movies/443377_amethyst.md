@@ -1,0 +1,1 @@
+{"tmdb_id": 443377, "title": "Amethyst", "original_title": "Amethyst", "slug_title": "amethyst", "date": "", "genre": "Horreur / Aventure / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VDcFgqGjIzCSLnBFAXC3jT7UNn.jpg", "actors": ["Grace Klich (Amethyst)"], "comments": [], "recommandations_id": []}

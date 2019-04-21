@@ -1,0 +1,1 @@
+{"tmdb_id": 477742, "title": "A Trip to the Country", "original_title": "Vacances au pays", "slug_title": "a-trip-to-the-country", "date": "2000-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sAix7otZHsOtDX2XzPJnyXLGGZ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

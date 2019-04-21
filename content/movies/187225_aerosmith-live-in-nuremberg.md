@@ -1,0 +1,1 @@
+{"tmdb_id": 187225, "title": "Aerosmith: Live in Nuremberg", "original_title": "Aerosmith: Live in Nuremberg", "slug_title": "aerosmith-live-in-nuremberg", "date": "1997-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcqtn6c1adTsUkVPQ3MFg0NJbNZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

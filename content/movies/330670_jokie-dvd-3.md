@@ -1,0 +1,1 @@
+{"tmdb_id": 330670, "title": "Jokie DVD 3", "original_title": "Jokie DVD 3", "slug_title": "jokie-dvd-3", "date": "2013-09-24", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9POOeXS9QF3R8Jf9cU34i6a9FXa.jpg", "actors": [], "comments": [], "recommandations_id": []}

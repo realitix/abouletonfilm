@@ -1,0 +1,1 @@
+{"tmdb_id": 312585, "title": "GBH: Live in L.A. / Live at Victoria Hall", "original_title": "GBH: Live in L.A. / Live at Victoria Hall", "slug_title": "gbh-live-in-l-a-live-at-victoria-hall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

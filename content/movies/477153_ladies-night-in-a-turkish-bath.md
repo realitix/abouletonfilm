@@ -1,0 +1,1 @@
+{"tmdb_id": 477153, "title": "Ladies' Night in a Turkish Bath", "original_title": "Ladies' Night in a Turkish Bath", "slug_title": "ladies-night-in-a-turkish-bath", "date": "1928-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

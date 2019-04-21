@@ -1,0 +1,1 @@
+{"tmdb_id": 73721, "title": "Swordsman With an Umbrella", "original_title": "Swordsman With an Umbrella", "slug_title": "swordsman-with-an-umbrella", "date": "1970-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stuY6Zc8hq4kTayYLuLaYrSFlj7.jpg", "actors": [], "comments": [], "recommandations_id": []}

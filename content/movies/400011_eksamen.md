@@ -1,0 +1,1 @@
+{"tmdb_id": 400011, "title": "Eksamen", "original_title": "Eksamen", "slug_title": "eksamen", "date": "1993-01-01", "genre": "Com\u00e9die / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QaUakKSNEVMaBsvVPUpYGrdMNk.jpg", "actors": ["Tomas Villum Jensen (Student)"], "comments": [], "recommandations_id": []}

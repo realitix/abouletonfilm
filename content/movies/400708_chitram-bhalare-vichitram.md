@@ -1,0 +1,1 @@
+{"tmdb_id": 400708, "title": "Chitram Bhalare Vichitram", "original_title": "Chitram Bhalare Vichitram", "slug_title": "chitram-bhalare-vichitram", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

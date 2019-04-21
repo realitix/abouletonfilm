@@ -1,0 +1,1 @@
+{"tmdb_id": 213245, "title": "Flyin' Cut Sleeves", "original_title": "Flyin' Cut Sleeves", "slug_title": "flyin-cut-sleeves", "date": "1993-02-05", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEGO7OioN0SCuD83SIBhwzR1sBi.jpg", "actors": [], "comments": [], "recommandations_id": []}

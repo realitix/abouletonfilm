@@ -1,0 +1,1 @@
+{"tmdb_id": 507455, "title": "Be-Boy Kidnapp'n Idol", "original_title": "Be-Boy Kidnapp'n Idol", "slug_title": "be-boy-kidnapp-n-idol", "date": "1989-12-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dMWCKgTY6z7T4ykMtUmZlwH568A.jpg", "actors": [], "comments": [], "recommandations_id": []}

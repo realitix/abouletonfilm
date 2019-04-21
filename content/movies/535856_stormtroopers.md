@@ -1,0 +1,1 @@
+{"tmdb_id": 535856, "title": "Stormtroopers", "original_title": "Stormtroopers", "slug_title": "stormtroopers", "date": "2018-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l6E5SD4rzPZhir7tOQ9sLNiB9Rd.jpg", "actors": [], "comments": [], "recommandations_id": []}

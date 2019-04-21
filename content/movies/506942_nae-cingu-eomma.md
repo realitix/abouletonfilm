@@ -1,0 +1,1 @@
+{"tmdb_id": 506942, "title": "\ub0b4 \uce5c\uad6c \uc5c4\ub9c8", "original_title": "\ub0b4 \uce5c\uad6c \uc5c4\ub9c8", "slug_title": "nae-cingu-eomma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

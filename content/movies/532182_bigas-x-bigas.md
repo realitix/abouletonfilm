@@ -1,0 +1,1 @@
+{"tmdb_id": 532182, "title": "Bigas x Bigas", "original_title": "Bigas x Bigas", "slug_title": "bigas-x-bigas", "date": "2017-02-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZwI35mnpyDMqneM5EfdVIc6gOU.jpg", "actors": [], "comments": [], "recommandations_id": []}

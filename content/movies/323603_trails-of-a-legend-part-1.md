@@ -1,0 +1,1 @@
+{"tmdb_id": 323603, "title": "Trails of a Legend Part 1", "original_title": "Trails of a Legend Part 1", "slug_title": "trails-of-a-legend-part-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

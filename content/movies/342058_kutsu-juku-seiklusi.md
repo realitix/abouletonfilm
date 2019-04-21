@@ -1,0 +1,1 @@
+{"tmdb_id": 342058, "title": "Kutsu-Juku seiklusi", "original_title": "Kutsu-Juku seiklusi", "slug_title": "kutsu-juku-seiklusi", "date": "1931-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

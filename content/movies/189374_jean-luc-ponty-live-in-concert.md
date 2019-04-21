@@ -1,0 +1,1 @@
+{"tmdb_id": 189374, "title": "Jean-Luc Ponty Live in Concert", "original_title": "Jean-Luc Ponty Live in Concert", "slug_title": "jean-luc-ponty-live-in-concert", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qIem2k50eMByBHgz8LZ87AVCasT.jpg", "actors": [], "comments": [], "recommandations_id": []}

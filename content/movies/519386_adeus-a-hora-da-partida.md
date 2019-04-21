@@ -1,0 +1,1 @@
+{"tmdb_id": 519386, "title": "Adeus a Hora da Partida", "original_title": "Adeus a Hora da Partida", "slug_title": "adeus-a-hora-da-partida", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

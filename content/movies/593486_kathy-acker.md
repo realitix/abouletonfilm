@@ -1,0 +1,1 @@
+{"tmdb_id": 593486, "title": "Kathy Acker", "original_title": "Kathy Acker", "slug_title": "kathy-acker", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/phvJ22aOwgpSAxXe8JySpfuXkfG.jpg", "actors": ["Kathy Acker (Herself)"], "comments": [], "recommandations_id": []}

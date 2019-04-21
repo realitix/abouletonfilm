@@ -1,0 +1,1 @@
+{"tmdb_id": 441187, "title": "\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u044f", "original_title": "\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u044f", "slug_title": "garmoniia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

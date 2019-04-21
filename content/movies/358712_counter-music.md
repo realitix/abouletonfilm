@@ -1,0 +1,1 @@
+{"tmdb_id": 358712, "title": "Counter-Music", "original_title": "Counter-Music", "slug_title": "counter-music", "date": "2004-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mblHcGQHj0hRZcAjSLr44yG2dia.jpg", "actors": [], "comments": [], "recommandations_id": []}

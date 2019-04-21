@@ -1,0 +1,1 @@
+{"tmdb_id": 285112, "title": "Javier Guzman: Por Dios", "original_title": "Javier Guzman: Por Dios", "slug_title": "javier-guzman-por-dios", "date": "2014-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iErStRmmKaS3yqwfbdJWKwLrTsu.jpg", "actors": [], "comments": [], "recommandations_id": []}

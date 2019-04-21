@@ -1,0 +1,1 @@
+{"tmdb_id": 522271, "title": "Bezm-i Ezel", "original_title": "Bezm-i Ezel", "slug_title": "bezm-i-ezel", "date": "", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AZsyJ3uw9BXzEEGJSEemyIjUkC.jpg", "actors": [], "comments": [], "recommandations_id": []}

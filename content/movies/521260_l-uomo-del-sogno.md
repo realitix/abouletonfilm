@@ -1,0 +1,1 @@
+{"tmdb_id": 521260, "title": "L'uomo del sogno", "original_title": "L'uomo del sogno", "slug_title": "l-uomo-del-sogno", "date": "1993-08-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [" Simona Caramelli ()", "Brigitte Christensen ()", "Marco Di Stefano ()"], "comments": [], "recommandations_id": []}

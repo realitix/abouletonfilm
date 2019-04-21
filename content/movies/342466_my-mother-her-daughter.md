@@ -1,0 +1,1 @@
+{"tmdb_id": 342466, "title": "My Mother Her Daughter", "original_title": "My Mother Her Daughter", "slug_title": "my-mother-her-daughter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5FWHXtCQaILwSQwRZTGQ3m3wNPA.jpg", "actors": [], "comments": [], "recommandations_id": []}

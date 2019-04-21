@@ -1,0 +1,1 @@
+{"tmdb_id": 98151, "title": "Vampire Resurrection", "original_title": "Vampire Resurrection", "slug_title": "vampire-resurrection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

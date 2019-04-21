@@ -1,0 +1,1 @@
+{"tmdb_id": 488493, "title": "i\u2019ve got the blues", "original_title": "\u6c34\u5e95\u884c\u8d70\u7684\u4eba", "slug_title": "ive-got-the-blues", "date": "2018-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmTZ9UmhQHbRliOpap5xbfttwKP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311830, "title": "Pops Staples: Live In Concert", "original_title": "Pops Staples: Live In Concert", "slug_title": "pops-staples-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

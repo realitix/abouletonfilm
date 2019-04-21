@@ -1,0 +1,1 @@
+{"tmdb_id": 312858, "title": "Ballerina", "original_title": "Ballerina", "slug_title": "ballerina", "date": "2007-12-31", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1dYN4hSsEo7Adqi5GirMncElKJ2.jpg", "actors": [], "comments": [], "recommandations_id": [313543, 359115, 271115, 458128]}

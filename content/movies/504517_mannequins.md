@@ -1,0 +1,1 @@
+{"tmdb_id": 504517, "title": "Mannequins", "original_title": "Mannequinerne", "slug_title": "mannequins", "date": "2017-09-30", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

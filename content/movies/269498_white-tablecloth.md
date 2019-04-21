@@ -1,0 +1,1 @@
+{"tmdb_id": 269498, "title": "White Tablecloth", "original_title": "Shiroi t\u00eaburu kurosu", "slug_title": "white-tablecloth", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18k7xEtQ38auGSqPkZSjImqzyUN.jpg", "actors": [], "comments": [], "recommandations_id": []}

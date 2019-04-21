@@ -1,0 +1,1 @@
+{"tmdb_id": 346457, "title": "Matagatos", "original_title": "Matagatos", "slug_title": "matagatos", "date": "2010-10-26", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oscar Ortega ()", "Ra\u00fal Gomez ()"], "comments": [], "recommandations_id": []}

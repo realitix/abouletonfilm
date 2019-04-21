@@ -1,0 +1,1 @@
+{"tmdb_id": 428416, "title": "Fierce Friend", "original_title": "Fierce Friend", "slug_title": "fierce-friend", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Patrick Kelly (Patrick Aiken)", "Les Borsay (Bobby Lindsay)", "Kelly Pendygraft (April Cooper)"], "comments": [], "recommandations_id": []}

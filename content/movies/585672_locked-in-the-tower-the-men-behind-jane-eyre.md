@@ -1,0 +1,1 @@
+{"tmdb_id": 585672, "title": "Locked in the Tower: The Men Behind 'Jane Eyre'", "original_title": "Locked in the Tower: The Men Behind 'Jane Eyre'", "slug_title": "locked-in-the-tower-the-men-behind-jane-eyre", "date": "2007-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

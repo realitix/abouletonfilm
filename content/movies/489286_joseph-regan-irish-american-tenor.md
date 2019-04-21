@@ -1,0 +1,1 @@
+{"tmdb_id": 489286, "title": "Joseph Regan: Irish American Tenor", "original_title": "Joseph Regan: Irish American Tenor", "slug_title": "joseph-regan-irish-american-tenor", "date": "1928-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

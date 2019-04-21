@@ -1,0 +1,1 @@
+{"tmdb_id": 463522, "title": "AC/DC Clipped", "original_title": "AC/DC Clipped", "slug_title": "ac-dc-clipped", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9F2ZRlMfLalQYZSLQ59PLuAe9f.jpg", "actors": [], "comments": [], "recommandations_id": []}

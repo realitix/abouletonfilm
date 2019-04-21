@@ -1,0 +1,1 @@
+{"tmdb_id": 246312, "title": "Los Huayra. Vivo", "original_title": "Los Huayra. Vivo", "slug_title": "los-huayra-vivo", "date": "2013-12-22", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxYseT2FuDlrcTpIGJpWb01aa9k.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318285, "title": "Metal Munching Maniacs: Robot Club & Grille MAYhem", "original_title": "Metal Munching Maniacs: Robot Club & Grille MAYhem", "slug_title": "metal-munching-maniacs-robot-club-grille-mayhem", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

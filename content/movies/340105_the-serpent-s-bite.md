@@ -1,0 +1,1 @@
+{"tmdb_id": 340105, "title": "The Serpent's Bite", "original_title": "The Serpent's Bite", "slug_title": "the-serpent-s-bite", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Camp (Courtney Temple)"], "comments": [], "recommandations_id": []}

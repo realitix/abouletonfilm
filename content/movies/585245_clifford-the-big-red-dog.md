@@ -1,0 +1,1 @@
+{"tmdb_id": 585245, "title": "Clifford the Big Red Dog", "original_title": "Clifford the Big Red Dog", "slug_title": "clifford-the-big-red-dog", "date": "2020-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

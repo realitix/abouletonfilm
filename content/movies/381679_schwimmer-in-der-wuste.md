@@ -1,0 +1,1 @@
+{"tmdb_id": 381679, "title": "Schwimmer in der W\u00fcste", "original_title": "Schwimmer in der W\u00fcste", "slug_title": "schwimmer-in-der-wuste", "date": "2001-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIdM3MEulEOCoUoyD3aeqeV1rrO.jpg", "actors": [], "comments": [], "recommandations_id": []}

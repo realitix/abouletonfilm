@@ -1,0 +1,1 @@
+{"tmdb_id": 351055, "title": "The Trumouse Show", "original_title": "The Trumouse Show", "slug_title": "the-trumouse-show", "date": "2003-09-04", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

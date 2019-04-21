@@ -1,0 +1,1 @@
+{"tmdb_id": 288736, "title": "Bumba - Pantuf", "original_title": "Bumba - Pantuf", "slug_title": "bumba-pantuf", "date": "2008-10-29", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bOrllcDPeTSg8ByougpgYoGgUOD.jpg", "actors": [], "comments": [], "recommandations_id": []}

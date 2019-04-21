@@ -1,0 +1,1 @@
+{"tmdb_id": 419043, "title": "Easter Rising: Voice of a Rebel", "original_title": "Easter Rising: Voice of a Rebel", "slug_title": "easter-rising-voice-of-a-rebel", "date": "2016-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1nh8MeCH6qYZej4TbBFYcgeQp5.jpg", "actors": [], "comments": [], "recommandations_id": []}

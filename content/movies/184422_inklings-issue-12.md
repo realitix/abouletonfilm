@@ -1,0 +1,1 @@
+{"tmdb_id": 184422, "title": "Inklings, Issue 12", "original_title": "Inklings, Issue 12", "slug_title": "inklings-issue-12", "date": "1925-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mK1zkLCBnvRZHVFJhSPMi9ABxqC.jpg", "actors": [], "comments": [], "recommandations_id": []}

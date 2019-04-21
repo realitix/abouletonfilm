@@ -1,0 +1,1 @@
+{"tmdb_id": 592420, "title": "Por Dentro do Funk 150 BPM", "original_title": "Por Dentro do Funk 150 BPM", "slug_title": "por-dentro-do-funk-150-bpm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

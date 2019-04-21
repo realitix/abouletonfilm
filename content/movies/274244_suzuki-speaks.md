@@ -1,0 +1,1 @@
+{"tmdb_id": 274244, "title": "Suzuki Speaks", "original_title": "Suzuki Speaks", "slug_title": "suzuki-speaks", "date": "2004-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

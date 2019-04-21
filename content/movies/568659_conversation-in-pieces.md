@@ -1,0 +1,1 @@
+{"tmdb_id": 568659, "title": "Conversation in Pieces", "original_title": "Conversation in Pieces", "slug_title": "conversation-in-pieces", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

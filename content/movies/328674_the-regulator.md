@@ -1,0 +1,1 @@
+{"tmdb_id": 328674, "title": "The Regulator", "original_title": "Le R\u00e9gulateur", "slug_title": "the-regulator", "date": "2004-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

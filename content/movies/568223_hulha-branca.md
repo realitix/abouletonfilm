@@ -1,0 +1,1 @@
+{"tmdb_id": 568223, "title": "Hulha Branca", "original_title": "Hulha Branca", "slug_title": "hulha-branca", "date": "1932-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dcAviNHb7jzJLQJZPjfdKkAN9LC.jpg", "actors": [], "comments": [], "recommandations_id": []}

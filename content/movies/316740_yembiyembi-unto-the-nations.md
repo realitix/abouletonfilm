@@ -1,0 +1,1 @@
+{"tmdb_id": 316740, "title": "YembiYembi: Unto The Nations", "original_title": "YembiYembi: Unto The Nations", "slug_title": "yembiyembi-unto-the-nations", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

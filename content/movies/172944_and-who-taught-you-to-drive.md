@@ -1,0 +1,1 @@
+{"tmdb_id": 172944, "title": "And Who Taught You to Drive?", "original_title": "And Who Taught You to Drive?", "slug_title": "and-who-taught-you-to-drive", "date": "2012-10-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGrggv3dw1Jk7QEp2cd2R9lmKEd.jpg", "actors": [], "comments": [], "recommandations_id": []}

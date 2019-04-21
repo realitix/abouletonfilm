@@ -1,0 +1,1 @@
+{"tmdb_id": 484891, "title": "Roadkill", "original_title": "Roadkill", "slug_title": "roadkill", "date": "2015-10-25", "genre": "Com\u00e9die / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Wallstr\u00f6m ()"], "comments": [], "recommandations_id": []}

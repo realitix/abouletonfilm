@@ -1,0 +1,1 @@
+{"tmdb_id": 379655, "title": "Danger Has Two Faces", "original_title": "Danger Has Two Faces", "slug_title": "danger-has-two-faces", "date": "1968-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNzOW73is3VRRNHtkhNQ7lxqaxk.jpg", "actors": ["Robert Lansing (Peter Murphy)"], "comments": [], "recommandations_id": []}

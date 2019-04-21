@@ -1,0 +1,1 @@
+{"tmdb_id": 517639, "title": "Dirty Deeds", "original_title": "Dirty Deeds", "slug_title": "dirty-deeds", "date": "2016-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d8ItxXrMtjaL3NqtV3dNl6ngZxt.jpg", "actors": [], "comments": [], "recommandations_id": []}

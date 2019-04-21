@@ -1,0 +1,1 @@
+{"tmdb_id": 514691, "title": "Irupuram: Two Sides", "original_title": "Irupuram: Two Sides", "slug_title": "irupuram-two-sides", "date": "2017-08-11", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6pKnUIcmr98eVVIbjcgLFB06hZ5.jpg", "actors": ["Krishnan Potti ()"], "comments": [], "recommandations_id": []}

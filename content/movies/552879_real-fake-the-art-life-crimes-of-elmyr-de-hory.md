@@ -1,0 +1,1 @@
+{"tmdb_id": 552879, "title": "Real Fake: The Art, Life & Crimes of Elmyr De Hory", "original_title": "Real Fake: The Art, Life & Crimes of Elmyr De Hory", "slug_title": "real-fake-the-art-life-crimes-of-elmyr-de-hory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

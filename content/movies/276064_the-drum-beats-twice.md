@@ -1,0 +1,1 @@
+{"tmdb_id": 276064, "title": "The Drum Beats Twice", "original_title": "The Drum Beats Twice", "slug_title": "the-drum-beats-twice", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

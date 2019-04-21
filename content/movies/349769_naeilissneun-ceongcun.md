@@ -1,0 +1,1 @@
+{"tmdb_id": 349769, "title": "\ub0b4\uc77c\uc788\ub294 \uccad\ucd98", "original_title": "\ub0b4\uc77c\uc788\ub294 \uccad\ucd98", "slug_title": "naeilissneun-ceongcun", "date": "1982-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

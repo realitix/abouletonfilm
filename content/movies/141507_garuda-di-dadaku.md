@@ -1,0 +1,1 @@
+{"tmdb_id": 141507, "title": "Garuda Di Dadaku", "original_title": "Garuda Di Dadaku", "slug_title": "garuda-di-dadaku", "date": "2009-06-18", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzLLNy9pLE0Qy1oK3HcyIJkxfyk.jpg", "actors": [], "comments": [], "recommandations_id": []}

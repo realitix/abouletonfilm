@@ -1,0 +1,1 @@
+{"tmdb_id": 460670, "title": "Shiren & Ragi", "original_title": "\u30b7\u30ec\u30f3\u3068\u30e9\u30ae", "slug_title": "shiren-ragi", "date": "2013-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tT3fOzvbhpWK08yUPt4Jdb1O6DC.jpg", "actors": [], "comments": [], "recommandations_id": []}

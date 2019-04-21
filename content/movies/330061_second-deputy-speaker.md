@@ -1,0 +1,1 @@
+{"tmdb_id": 330061, "title": "Second Deputy Speaker", "original_title": "Punkt 9: Val av andre vice talman", "slug_title": "second-deputy-speaker", "date": "2015-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMXQ4U5f0SQhcVO4wRavSxMx3MS.jpg", "actors": [], "comments": [], "recommandations_id": []}

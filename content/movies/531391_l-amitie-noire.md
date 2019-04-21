@@ -1,0 +1,1 @@
+{"tmdb_id": 531391, "title": "L'amiti\u00e9 noire", "original_title": "L'amiti\u00e9 noire", "slug_title": "l-amitie-noire", "date": "1946-07-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Cocteau (Narrator)"], "comments": [], "recommandations_id": []}

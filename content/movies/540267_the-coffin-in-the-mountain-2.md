@@ -1,0 +1,1 @@
+{"tmdb_id": 540267, "title": "The Coffin in the Mountain 2", "original_title": "\u5fc3\u8ff7\u5bab2", "slug_title": "the-coffin-in-the-mountain-2", "date": "", "genre": "Thriller / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314807, "title": "A Dancer", "original_title": "A Dancer", "slug_title": "a-dancer", "date": "1991-08-11", "genre": "Drame / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luise Rainer (Anna)", "Thomas Desny (Thomas)"], "comments": [], "recommandations_id": []}

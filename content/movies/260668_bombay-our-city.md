@@ -1,0 +1,1 @@
+{"tmdb_id": 260668, "title": "Bombay, Our City", "original_title": "Bombay, Our City", "slug_title": "bombay-our-city", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n70SeTKV7sPDupv3uPit5j19JqG.jpg", "actors": [], "comments": [], "recommandations_id": []}

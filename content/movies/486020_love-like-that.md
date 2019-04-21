@@ -1,0 +1,1 @@
+{"tmdb_id": 486020, "title": "Love Like That", "original_title": "Love Like That", "slug_title": "love-like-that", "date": "1972-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anita Fredin ()", "Gustav Wiklund ()", "Barbara Scott ()"], "comments": [], "recommandations_id": []}

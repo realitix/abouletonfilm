@@ -1,0 +1,1 @@
+{"tmdb_id": 204641, "title": "Rosalinda", "original_title": "Rosalinda", "slug_title": "rosalinda", "date": "2010-06-15", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lA06paOybwb58vkVVF9IgufiYqs.jpg", "actors": ["Mar\u00eda Villar (Rosalinda / Luisa)"], "comments": [], "recommandations_id": []}

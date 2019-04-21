@@ -1,0 +1,1 @@
+{"tmdb_id": 367895, "title": "Max fait du ski", "original_title": "Max fait du ski", "slug_title": "max-fait-du-ski", "date": "1910-07-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Gabrielle Lange ()"], "comments": [], "recommandations_id": []}

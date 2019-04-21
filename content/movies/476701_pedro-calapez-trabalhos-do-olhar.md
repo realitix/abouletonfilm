@@ -1,0 +1,1 @@
+{"tmdb_id": 476701, "title": "Pedro Calapez: Trabalhos do Olhar", "original_title": "Pedro Calapez: Trabalhos do Olhar", "slug_title": "pedro-calapez-trabalhos-do-olhar", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

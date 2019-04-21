@@ -1,0 +1,1 @@
+{"tmdb_id": 335147, "title": "The Bolivian Case", "original_title": "The Bolivian Case", "slug_title": "the-bolivian-case", "date": "2015-04-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qJieh1hYUVTmFKU5yvPpiEiOJoJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

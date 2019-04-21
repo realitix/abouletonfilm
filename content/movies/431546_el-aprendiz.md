@@ -1,0 +1,1 @@
+{"tmdb_id": 431546, "title": "El Aprendiz", "original_title": "El Aprendiz", "slug_title": "el-aprendiz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1rFipeqB5exUc4DofghPXF25NN.jpg", "actors": [], "comments": [], "recommandations_id": []}

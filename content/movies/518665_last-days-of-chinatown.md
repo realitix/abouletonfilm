@@ -1,0 +1,1 @@
+{"tmdb_id": 518665, "title": "Last Days of Chinatown", "original_title": "Last Days of Chinatown", "slug_title": "last-days-of-chinatown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7eMD3Ib8Xm5z4YVhyqaQjXowuRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

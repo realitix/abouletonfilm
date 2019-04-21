@@ -1,0 +1,1 @@
+{"tmdb_id": 314670, "title": "24 heures sur place", "original_title": "24 heures sur place", "slug_title": "24-heures-sur-place", "date": "2014-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 398825, "title": "Three Adaptation Studies", "original_title": "Three Adaptation Studies", "slug_title": "three-adaptation-studies", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vito Acconci (Himself)"], "comments": [], "recommandations_id": []}

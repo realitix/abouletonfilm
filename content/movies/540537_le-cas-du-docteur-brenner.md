@@ -1,0 +1,1 @@
+{"tmdb_id": 540537, "title": "Le cas du docteur Brenner", "original_title": "Le cas du docteur Brenner", "slug_title": "le-cas-du-docteur-brenner", "date": "1933-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

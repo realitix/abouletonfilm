@@ -1,0 +1,1 @@
+{"tmdb_id": 305890, "title": "Manjari Opera", "original_title": "Manjari Opera", "slug_title": "manjari-opera", "date": "1970-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

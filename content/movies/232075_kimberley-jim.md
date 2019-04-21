@@ -1,0 +1,1 @@
+{"tmdb_id": 232075, "title": "Kimberley Jim", "original_title": "Kimberley Jim", "slug_title": "kimberley-jim", "date": "1963-09-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxgOS4NKxAeC34mddTomJvoP9gS.jpg", "actors": ["Jim Reeves (Jim Madison)"], "comments": [], "recommandations_id": []}

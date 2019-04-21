@@ -1,0 +1,1 @@
+{"tmdb_id": 20042, "title": "Six Thugs", "original_title": "Six Thugs", "slug_title": "six-thugs", "date": "2006-11-14", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qPAuIJQpODUYQO86ykcqjRHnK3d.jpg", "actors": [], "comments": [], "recommandations_id": []}

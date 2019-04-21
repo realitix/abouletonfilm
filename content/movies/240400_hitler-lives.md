@@ -1,0 +1,1 @@
+{"tmdb_id": 240400, "title": "Hitler Lives", "original_title": "Hitler Lives", "slug_title": "hitler-lives", "date": "1945-12-29", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJaqxzfCRycTzEAt4pYwLR1vRsm.jpg", "actors": ["Knox Manning (Narrator (voice))"], "comments": [], "recommandations_id": []}

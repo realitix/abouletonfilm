@@ -1,0 +1,1 @@
+{"tmdb_id": 193836, "title": "Max and the Statue", "original_title": "Max et la statue", "slug_title": "max-and-the-statue", "date": "1912-12-20", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f3hwNqbMCR7tJpElQMNMLdCLqvy.jpg", "actors": ["Max Linder (Max)"], "comments": [], "recommandations_id": []}

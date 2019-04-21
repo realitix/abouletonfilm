@@ -1,0 +1,1 @@
+{"tmdb_id": 313432, "title": "Beanland: Rising from the Riverbed", "original_title": "Beanland: Rising from the Riverbed", "slug_title": "beanland-rising-from-the-riverbed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

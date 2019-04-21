@@ -1,0 +1,1 @@
+{"tmdb_id": 143202, "title": "Frisky Frolics", "original_title": "Frisky Frolics", "slug_title": "frisky-frolics", "date": "1932-11-20", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QJ3AXi8icqTDS8yux8fnVs1qyi.jpg", "actors": [], "comments": [], "recommandations_id": []}

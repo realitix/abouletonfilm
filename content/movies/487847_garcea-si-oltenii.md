@@ -1,0 +1,1 @@
+{"tmdb_id": 487847, "title": "Garcea si oltenii", "original_title": "Garcea si oltenii", "slug_title": "garcea-si-oltenii", "date": "2001-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

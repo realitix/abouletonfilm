@@ -1,0 +1,1 @@
+{"tmdb_id": 366379, "title": "Star Lives II", "original_title": "Star Lives II", "slug_title": "star-lives-ii", "date": "2016-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fKo9CcqMEZGdD2WtOGQZkY2JJEp.jpg", "actors": [], "comments": [], "recommandations_id": []}

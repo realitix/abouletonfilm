@@ -1,0 +1,1 @@
+{"tmdb_id": 382410, "title": "Short Stay", "original_title": "Short Stay", "slug_title": "short-stay", "date": "2016-02-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbnmDdnCsdctNmi5zA3E4qZfyMC.jpg", "actors": ["Mike MacCherone (Mike)"], "comments": [], "recommandations_id": []}

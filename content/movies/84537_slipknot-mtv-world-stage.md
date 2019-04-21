@@ -1,0 +1,1 @@
+{"tmdb_id": 84537, "title": "Slipknot: MTV World Stage", "original_title": "Slipknot: MTV World Stage", "slug_title": "slipknot-mtv-world-stage", "date": "2008-12-08", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gnnCZ4wvsMl28WH4ah3ya84SGs.jpg", "actors": ["Slipknot (Band)"], "comments": [], "recommandations_id": []}

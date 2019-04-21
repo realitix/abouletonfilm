@@ -1,0 +1,1 @@
+{"tmdb_id": 399303, "title": "Una novia de Shanghai", "original_title": "Una novia de Shanghai", "slug_title": "una-novia-de-shanghai", "date": "2016-04-24", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iq8ePo4RPiB2g14Elc2dCXT652p.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 551998, "title": "All That Is Solid", "original_title": "All That Is Solid", "slug_title": "all-that-is-solid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margaret Cameron ()", "Paul Davies ()", "Nicos Lathouris ()"], "comments": [], "recommandations_id": []}

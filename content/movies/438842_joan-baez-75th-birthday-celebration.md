@@ -1,0 +1,1 @@
+{"tmdb_id": 438842, "title": "Joan Baez: 75th Birthday Celebration", "original_title": "Joan Baez: 75th Birthday Celebration", "slug_title": "joan-baez-75th-birthday-celebration", "date": "2016-05-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joan Baez ()"], "comments": [], "recommandations_id": []}

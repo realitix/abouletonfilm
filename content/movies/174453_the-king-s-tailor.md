@@ -1,0 +1,1 @@
+{"tmdb_id": 174453, "title": "The King's Tailor", "original_title": "The King's Tailor", "slug_title": "the-king-s-tailor", "date": "1934-10-28", "genre": "Familial / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rU41tf5lwkNOVqbPOAU9IrFo80.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195319, "title": "Admiral Dewey Landing at Gibraltar", "original_title": "Admiral Dewey Landing at Gibraltar", "slug_title": "admiral-dewey-landing-at-gibraltar", "date": "1899-10-20", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

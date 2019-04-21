@@ -1,0 +1,1 @@
+{"tmdb_id": 236959, "title": "Shape Ahoy", "original_title": "Shape Ahoy", "slug_title": "shape-ahoy", "date": "1945-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

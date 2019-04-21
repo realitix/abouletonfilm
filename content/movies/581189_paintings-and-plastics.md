@@ -1,0 +1,1 @@
+{"tmdb_id": 581189, "title": "Paintings and Plastics", "original_title": "Paintings and Plastics", "slug_title": "paintings-and-plastics", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

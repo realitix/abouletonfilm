@@ -1,0 +1,1 @@
+{"tmdb_id": 572775, "title": "The Black Dude Lives!", "original_title": "The Black Dude Lives!", "slug_title": "the-black-dude-lives", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

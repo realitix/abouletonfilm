@@ -1,0 +1,1 @@
+{"tmdb_id": 423309, "title": "An American in Sophiatown", "original_title": "An American in Sophiatown", "slug_title": "an-american-in-sophiatown", "date": "2007-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lionel Rogosin (Himself)"], "comments": [], "recommandations_id": []}

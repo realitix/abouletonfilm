@@ -1,0 +1,1 @@
+{"tmdb_id": 594113, "title": "Rick Derringer: Live at Sturgis", "original_title": "Rick Derringer: Live at Sturgis", "slug_title": "rick-derringer-live-at-sturgis", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rick Derringer (vocals, guitar)"], "comments": [], "recommandations_id": []}

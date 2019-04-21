@@ -1,0 +1,1 @@
+{"tmdb_id": 528039, "title": "Mystery of the Haunted House", "original_title": "Mystery of the Haunted House", "slug_title": "mystery-of-the-haunted-house", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

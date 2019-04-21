@@ -1,0 +1,1 @@
+{"tmdb_id": 542941, "title": "My Summer as a Goth", "original_title": "My Summer as a Goth", "slug_title": "my-summer-as-a-goth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogC6wy529L7om9RyeBqswvZAz2P.jpg", "actors": [], "comments": [], "recommandations_id": []}

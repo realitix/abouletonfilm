@@ -1,0 +1,1 @@
+{"tmdb_id": 252469, "title": "The Firefly", "original_title": "Ang alitaptap", "slug_title": "the-firefly", "date": "2013-07-31", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6aaeMh6VjS14ZCRnOXxZQ3sR6Rl.jpg", "actors": ["Hazel Orencio (Voice)"], "comments": [], "recommandations_id": []}

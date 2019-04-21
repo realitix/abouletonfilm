@@ -1,0 +1,1 @@
+{"tmdb_id": 295296, "title": "Nothing", "original_title": "Nani mo Nai", "slug_title": "nothing", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u79eYqijTw428zrMgfeaUkXJUt2.jpg", "actors": [], "comments": [], "recommandations_id": []}

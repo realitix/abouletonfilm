@@ -1,0 +1,1 @@
+{"tmdb_id": 389114, "title": "Weekends", "original_title": "\uc704\ucf04\uc988", "slug_title": "weekends", "date": "2016-12-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3zROvyIpkEEHOq6e7FlBeUmEAW2.jpg", "actors": [], "comments": [], "recommandations_id": []}

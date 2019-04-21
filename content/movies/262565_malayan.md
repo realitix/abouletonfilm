@@ -1,0 +1,1 @@
+{"tmdb_id": 262565, "title": "Malayan", "original_title": "Malayan", "slug_title": "malayan", "date": "2009-07-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karan ()", "Udhayathara ()", "Shammu ()", "Sarath Babu ()", "Mayilsamy ()", "Bala Singh ()"], "comments": [], "recommandations_id": []}

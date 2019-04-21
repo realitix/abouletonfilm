@@ -1,0 +1,1 @@
+{"tmdb_id": 329466, "title": "The Chickens", "original_title": "\u0627\u0644\u062f\u062c\u0627\u062c", "slug_title": "the-chickens", "date": "1977-01-02", "genre": "Documentaire / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzpLed48aCQ2ku7KopkHBWJQt22.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 493921, "title": "Era di marzo", "original_title": "Era di marzo", "slug_title": "era-di-marzo", "date": "2017-06-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Biancamaria D'Amato (Nunzia)", "Jacopo Gangheri (Aitano)", "Yari Gugliucci (Don Rafaele)"], "comments": [], "recommandations_id": []}

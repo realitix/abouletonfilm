@@ -1,0 +1,1 @@
+{"tmdb_id": 297490, "title": "The Dark Path Chronicles", "original_title": "The Dark Path Chronicles", "slug_title": "the-dark-path-chronicles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 437240, "title": "Oh, Sammy!", "original_title": "Oh, Sammy!", "slug_title": "oh-sammy", "date": "1913-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Dillon (Sammy Goldberg)", "Louise Orth (Sammy's Sweetheart)", "Charles Murray (Papa Einstein)"], "comments": [], "recommandations_id": []}

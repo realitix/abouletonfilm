@@ -1,0 +1,1 @@
+{"tmdb_id": 556220, "title": "\u4e00\u5982\u5f80\u5e38", "original_title": "\u4e00\u5982\u5f80\u5e38", "slug_title": "yi-ru-wang-chang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

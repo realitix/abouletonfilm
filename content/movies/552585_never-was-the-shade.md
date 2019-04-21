@@ -1,0 +1,1 @@
+{"tmdb_id": 552585, "title": "Never Was The Shade", "original_title": "Never Was The Shade", "slug_title": "never-was-the-shade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTgF46S84GjpEOqWOal6P7GlD57.jpg", "actors": ["Steve Yap ()", "Pablo Amirul ()"], "comments": [], "recommandations_id": []}

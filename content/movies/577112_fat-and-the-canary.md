@@ -1,0 +1,1 @@
+{"tmdb_id": 577112, "title": "Fat and the Canary", "original_title": "Fat and the Canary", "slug_title": "fat-and-the-canary", "date": "1927-11-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The McDougall Kids ()"], "comments": [], "recommandations_id": []}

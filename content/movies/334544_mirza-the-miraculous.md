@@ -1,0 +1,1 @@
+{"tmdb_id": 334544, "title": "Mirza the Miraculous", "original_title": "Mirza the Miraculous", "slug_title": "mirza-the-miraculous", "date": "2015-04-05", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Soileau (Dr. Leopold Rundy)"], "comments": [], "recommandations_id": []}

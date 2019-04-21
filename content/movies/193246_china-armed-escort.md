@@ -1,0 +1,1 @@
+{"tmdb_id": 193246, "title": "China Armed Escort", "original_title": "\u4fdd\u9463", "slug_title": "china-armed-escort", "date": "1976-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nS7XU2wn0Pscq7GL1UDZw13cLic.jpg", "actors": ["Chang Ling ()", "Yeung Chung-Man ()"], "comments": [], "recommandations_id": []}

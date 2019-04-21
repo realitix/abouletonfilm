@@ -1,0 +1,1 @@
+{"tmdb_id": 544069, "title": "Bagnolo - Dorf zwischen schwarz und rot", "original_title": "Bagnolo - Dorf zwischen schwarz und rot", "slug_title": "bagnolo-dorf-zwischen-schwarz-und-rot", "date": "1964-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 542895, "title": "STALKER", "original_title": "STALKER", "slug_title": "stalker", "date": "2018-06-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Fernando Polheim (Fernando)", "Gustavo Karsten (O Stalker)"], "comments": [], "recommandations_id": []}

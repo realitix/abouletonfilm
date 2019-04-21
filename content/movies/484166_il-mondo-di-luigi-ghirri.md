@@ -1,0 +1,1 @@
+{"tmdb_id": 484166, "title": "Il mondo di Luigi Ghirri", "original_title": "Il mondo di Luigi Ghirri", "slug_title": "il-mondo-di-luigi-ghirri", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gianni Celati ()"], "comments": [], "recommandations_id": []}

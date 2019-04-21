@@ -1,0 +1,1 @@
+{"tmdb_id": 264108, "title": "Any Given Wednesday", "original_title": "Any Given Wednesday", "slug_title": "any-given-wednesday", "date": "2000-02-02", "genre": "Com\u00e9die", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samuel L. Jackson (Willie Nutter)", "Chris Kattan (Al Pacino)"], "comments": [], "recommandations_id": []}

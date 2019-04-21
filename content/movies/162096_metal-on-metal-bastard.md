@@ -1,0 +1,1 @@
+{"tmdb_id": 162096, "title": "Metal on Metal 'Bastard'", "original_title": "Metal on Metal 'Bastard'", "slug_title": "metal-on-metal-bastard", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

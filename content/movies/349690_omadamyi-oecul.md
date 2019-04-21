@@ -1,0 +1,1 @@
+{"tmdb_id": 349690, "title": "\uc624\ub9c8\ub2f4\uc758 \uc678\ucd9c", "original_title": "\uc624\ub9c8\ub2f4\uc758 \uc678\ucd9c", "slug_title": "omadamyi-oecul", "date": "1983-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

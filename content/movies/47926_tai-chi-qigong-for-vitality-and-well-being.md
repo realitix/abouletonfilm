@@ -1,0 +1,1 @@
+{"tmdb_id": 47926, "title": "Tai Chi - Qigong For Vitality And Well Being", "original_title": "Tai Chi - Qigong For Vitality And Well Being", "slug_title": "tai-chi-qigong-for-vitality-and-well-being", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

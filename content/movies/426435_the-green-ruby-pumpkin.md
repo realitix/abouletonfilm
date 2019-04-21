@@ -1,0 +1,1 @@
+{"tmdb_id": 426435, "title": "The Green Ruby Pumpkin", "original_title": "The Green Ruby Pumpkin", "slug_title": "the-green-ruby-pumpkin", "date": "2012-10-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kaitlyn Marie Rose (The Bride of Frankenstein)"], "comments": [], "recommandations_id": []}

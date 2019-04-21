@@ -1,0 +1,1 @@
+{"tmdb_id": 454701, "title": "Our Husband", "original_title": "Our Husband", "slug_title": "our-husband", "date": "2017-04-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5hQlvIbiAwoaw9zhM6ggsJV1th.jpg", "actors": ["Mercy Johnson ()", "Emem Ufot ()", "Ada Ameh ()"], "comments": [], "recommandations_id": []}

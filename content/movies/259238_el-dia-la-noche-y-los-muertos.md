@@ -1,0 +1,1 @@
+{"tmdb_id": 259238, "title": "El d\u00eda, la noche y los muertos", "original_title": "El d\u00eda, la noche y los muertos", "slug_title": "el-dia-la-noche-y-los-muertos", "date": "1997-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

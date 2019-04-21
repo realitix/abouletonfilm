@@ -1,0 +1,1 @@
+{"tmdb_id": 389926, "title": "23 Degrees, 5 Minutes", "original_title": "23 Degrees, 5 Minutes", "slug_title": "23-degrees-5-minutes", "date": "2011-07-09", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Hurt (Professor Orit)", "Stuart Townsend (Babbage)"], "comments": [], "recommandations_id": []}

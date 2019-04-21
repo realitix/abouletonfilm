@@ -1,0 +1,1 @@
+{"tmdb_id": 320254, "title": "Folie Bergere", "original_title": "Folie Bergere", "slug_title": "folie-bergere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

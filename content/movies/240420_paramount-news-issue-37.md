@@ -1,0 +1,1 @@
+{"tmdb_id": 240420, "title": "Paramount News Issue #37", "original_title": "Paramount News Issue #37", "slug_title": "paramount-news-issue-37", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 107064, "title": "The Emperor of Peru", "original_title": "The Emperor of Peru", "slug_title": "the-emperor-of-peru", "date": "1982-12-09", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bBzBSY4V9Tf8w74eynL5VSEaCk.jpg", "actors": ["Mickey Rooney (The Engineer)"], "comments": [], "recommandations_id": []}

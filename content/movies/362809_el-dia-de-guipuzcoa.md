@@ -1,0 +1,1 @@
+{"tmdb_id": 362809, "title": "El dia de Guipuzcoa", "original_title": "El dia de Guipuzcoa", "slug_title": "el-dia-de-guipuzcoa", "date": "1924-03-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

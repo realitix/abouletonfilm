@@ -1,0 +1,1 @@
+{"tmdb_id": 120975, "title": "Fate of Graduates", "original_title": "Taoli jie", "slug_title": "fate-of-graduates", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuzgN9BBQWHVrl2xgkSX8bUFf4s.jpg", "actors": ["Yuan Muzhi ()"], "comments": [], "recommandations_id": []}

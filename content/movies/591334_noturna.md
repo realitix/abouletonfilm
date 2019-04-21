@@ -1,0 +1,1 @@
+{"tmdb_id": 591334, "title": "Noturna", "original_title": "Noturna", "slug_title": "noturna", "date": "2014-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/CTKYYXPrPuP035xA5tFAn4TA7L.jpg", "actors": ["Lorena Barbosa ()"], "comments": [], "recommandations_id": []}

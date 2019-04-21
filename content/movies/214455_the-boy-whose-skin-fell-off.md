@@ -1,0 +1,1 @@
+{"tmdb_id": 214455, "title": "The Boy Whose Skin Fell Off", "original_title": "The Boy Whose Skin Fell Off", "slug_title": "the-boy-whose-skin-fell-off", "date": "2004-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

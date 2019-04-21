@@ -1,0 +1,1 @@
+{"tmdb_id": 195115, "title": "Buffalo Police on Parade", "original_title": "Buffalo Police on Parade", "slug_title": "buffalo-police-on-parade", "date": "1897-07-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

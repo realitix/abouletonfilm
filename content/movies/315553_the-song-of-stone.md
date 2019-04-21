@@ -1,0 +1,1 @@
+{"tmdb_id": 315553, "title": "The Song of Stone", "original_title": "Ishi no uta", "slug_title": "the-song-of-stone", "date": "1963-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dvaJIitvnjKv5RDYpkLQLb1siTq.jpg", "actors": [], "comments": [], "recommandations_id": []}

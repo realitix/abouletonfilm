@@ -1,0 +1,1 @@
+{"tmdb_id": 303099, "title": "Karuninchina Kanakadurga", "original_title": "Karuninchina Kanakadurga", "slug_title": "karuninchina-kanakadurga", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

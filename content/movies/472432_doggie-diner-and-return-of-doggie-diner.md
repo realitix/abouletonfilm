@@ -1,0 +1,1 @@
+{"tmdb_id": 472432, "title": "Doggie Diner and Return of Doggie Diner", "original_title": "Doggie Diner and Return of Doggie Diner", "slug_title": "doggie-diner-and-return-of-doggie-diner", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408455, "title": "The Far Shore", "original_title": "The Far Shore", "slug_title": "the-far-shore", "date": "1976-07-28", "genre": "Romance / Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJYcSHet4BODijHkj1sOrXATAkR.jpg", "actors": [], "comments": [], "recommandations_id": []}

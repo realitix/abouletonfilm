@@ -1,0 +1,1 @@
+{"tmdb_id": 201927, "title": "Let's Get Frank", "original_title": "Let's Get Frank", "slug_title": "let-s-get-frank", "date": "2003-03-27", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

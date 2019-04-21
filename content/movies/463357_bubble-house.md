@@ -1,0 +1,1 @@
+{"tmdb_id": 463357, "title": "Bubble House", "original_title": "Bubble House", "slug_title": "bubble-house", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ru1l1BdAgHz5yCgnKgocsRqG62k.jpg", "actors": [], "comments": [], "recommandations_id": []}

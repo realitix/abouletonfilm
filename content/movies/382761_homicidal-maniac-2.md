@@ -1,0 +1,1 @@
+{"tmdb_id": 382761, "title": "Homicidal Maniac 2", "original_title": "Homicidal Maniac 2", "slug_title": "homicidal-maniac-2", "date": "2016-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xC2rZ1EKkboOzPgOxpGtgXxNTTd.jpg", "actors": ["Lindsay Baker ()", "Xeno Zoltar ()"], "comments": [], "recommandations_id": []}

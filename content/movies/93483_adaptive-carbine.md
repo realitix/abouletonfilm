@@ -1,0 +1,1 @@
+{"tmdb_id": 93483, "title": "Adaptive Carbine", "original_title": "Adaptive Carbine", "slug_title": "adaptive-carbine", "date": "2011-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8mdC43I9dQ52NxIIOCKpxbIDN5e.jpg", "actors": ["Travis Haley (Himself)"], "comments": [], "recommandations_id": []}

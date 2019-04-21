@@ -1,0 +1,1 @@
+{"tmdb_id": 382282, "title": "Lucky Luke - Billy The Kid", "original_title": "Lucky Luke - Billy The Kid", "slug_title": "lucky-luke-billy-the-kid", "date": "1980-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLxkYoKBD359dY3RKN8Sip4udKb.jpg", "actors": [], "comments": [], "recommandations_id": []}

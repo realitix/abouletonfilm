@@ -1,0 +1,1 @@
+{"tmdb_id": 572845, "title": "Katho Upanishad", "original_title": "Katho Upanishad", "slug_title": "katho-upanishad", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suvrat Joshi (Nachiketa)", "Ram Gopal Bajaj (Yama)"], "comments": [], "recommandations_id": []}

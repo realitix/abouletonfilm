@@ -1,0 +1,1 @@
+{"tmdb_id": 443335, "title": "Queen Cotton", "original_title": "Queen Cotton", "slug_title": "queen-cotton", "date": "1941-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

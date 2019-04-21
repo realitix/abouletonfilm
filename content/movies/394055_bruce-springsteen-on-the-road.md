@@ -1,0 +1,1 @@
+{"tmdb_id": 394055, "title": "Bruce Springsteen: On the Road", "original_title": "Bruce Springsteen: On the Road", "slug_title": "bruce-springsteen-on-the-road", "date": "2016-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Springsteen (Himself)"], "comments": [], "recommandations_id": []}

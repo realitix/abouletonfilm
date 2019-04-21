@@ -1,0 +1,1 @@
+{"tmdb_id": 357942, "title": "15 D\u00edas en la Playa", "original_title": "15 D\u00edas en la Playa", "slug_title": "15-dias-en-la-playa", "date": "2014-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

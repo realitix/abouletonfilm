@@ -1,0 +1,1 @@
+{"tmdb_id": 409768, "title": "Dear Fidel: Marita's Story", "original_title": "Lieber Fidel - Maritas Geschichte", "slug_title": "dear-fidel-marita-s-story", "date": "2001-11-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5fb9s1BzJ0vxnVEfYYWihswoJy.jpg", "actors": [], "comments": [], "recommandations_id": []}

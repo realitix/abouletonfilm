@@ -1,0 +1,1 @@
+{"tmdb_id": 322966, "title": "Mardi and the Monkey", "original_title": "Mardi and the Monkey", "slug_title": "mardi-and-the-monkey", "date": "1953-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wasmin (Mardi)"], "comments": [], "recommandations_id": []}

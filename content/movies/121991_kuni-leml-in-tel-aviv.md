@@ -1,0 +1,1 @@
+{"tmdb_id": 121991, "title": "Kuni Leml in Tel Aviv", "original_title": "Kuni Leml in Tel Aviv", "slug_title": "kuni-leml-in-tel-aviv", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AdoQAQt79Ir33hiH0J0hxAcyczT.jpg", "actors": ["Mike Burstyn (Kuni Leml)"], "comments": [], "recommandations_id": []}

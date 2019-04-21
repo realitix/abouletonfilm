@@ -1,0 +1,1 @@
+{"tmdb_id": 323425, "title": "The Backward Class", "original_title": "The Backward Class", "slug_title": "the-backward-class", "date": "2015-02-06", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acl6GziKqOQ2krcQrSFCkQ2AoUG.jpg", "actors": [], "comments": [], "recommandations_id": []}

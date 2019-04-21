@@ -1,0 +1,1 @@
+{"tmdb_id": 279337, "title": "Simhapoori Simham", "original_title": "Simhapoori Simham", "slug_title": "simhapoori-simham", "date": "1983-10-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiranjeevi ()", "Radhika Sarathkumar ()", "Madhavi ()", "Gollapudi Maruti Rao ()"], "comments": [], "recommandations_id": []}

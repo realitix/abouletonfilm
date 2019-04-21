@@ -1,0 +1,1 @@
+{"tmdb_id": 263481, "title": "The Sanitarium", "original_title": "The Sanitarium", "slug_title": "the-sanitarium", "date": "1910-10-10", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (Charley Wise)", "Nick Cogley ()", "George Hernandez ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520633, "title": "Gadget Trips/Mindscapes", "original_title": "Gadget Trips/Mindscapes", "slug_title": "gadget-trips-mindscapes", "date": "1998-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIE7IlsijMgfKisgEiWKSqtK63f.jpg", "actors": [], "comments": [], "recommandations_id": []}

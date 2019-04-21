@@ -1,0 +1,1 @@
+{"tmdb_id": 582552, "title": "Freddy's World", "original_title": "Freddy's World", "slug_title": "freddy-s-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

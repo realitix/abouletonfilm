@@ -1,0 +1,1 @@
+{"tmdb_id": 437579, "title": "Ruminate", "original_title": "Ruminate", "slug_title": "ruminate", "date": "2014-11-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Hall (Gemma)", "Chandru Bhojwani (Dr. Jay)", "Lucy Eaton (Best Friend)", "Teresa Jennings (Nurse)"], "comments": [], "recommandations_id": []}

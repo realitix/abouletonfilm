@@ -1,0 +1,1 @@
+{"tmdb_id": 382905, "title": "Umphrey's McGee: Wakarusa 2010", "original_title": "Umphrey's McGee: Wakarusa 2010", "slug_title": "umphrey-s-mcgee-wakarusa-2010", "date": "2010-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3x2BgwRKOkXpvA66BjbsT5ZWVIp.jpg", "actors": [], "comments": [], "recommandations_id": []}

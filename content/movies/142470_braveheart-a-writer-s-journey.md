@@ -1,0 +1,1 @@
+{"tmdb_id": 142470, "title": "Braveheart: A Writer's Journey", "original_title": "Braveheart: A Writer's Journey", "slug_title": "braveheart-a-writer-s-journey", "date": "2007-12-18", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Randall Wallace (Himself)"], "comments": [], "recommandations_id": []}

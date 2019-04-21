@@ -1,0 +1,1 @@
+{"tmdb_id": 577119, "title": "Public School", "original_title": "Public School", "slug_title": "public-school", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fran Morrison (Herself - Reporter)", "Daisy Goodwin (Herself)"], "comments": [], "recommandations_id": []}

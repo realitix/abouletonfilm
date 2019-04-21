@@ -1,0 +1,1 @@
+{"tmdb_id": 354174, "title": "Ballhead: Ode to IBM", "original_title": "Kugelkopf: Ode an IBM", "slug_title": "ballhead-ode-to-ibm", "date": "1985-08-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

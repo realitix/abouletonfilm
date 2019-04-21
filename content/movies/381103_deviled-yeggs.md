@@ -1,0 +1,1 @@
+{"tmdb_id": 381103, "title": "Deviled Yeggs", "original_title": "Deviled Yeggs", "slug_title": "deviled-yeggs", "date": "1974-12-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather / Pug (voice))", "Frank Welker (Charlie the Singer (voice))"], "comments": [], "recommandations_id": []}

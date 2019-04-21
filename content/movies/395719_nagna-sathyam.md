@@ -1,0 +1,1 @@
+{"tmdb_id": 395719, "title": "Nagna Sathyam", "original_title": "Nagna Sathyam", "slug_title": "nagna-sathyam", "date": "1979-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramprasad ()", "Krishnaveni ()"], "comments": [], "recommandations_id": []}

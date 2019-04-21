@@ -1,0 +1,1 @@
+{"tmdb_id": 479096, "title": "Disney Animation Classics vol.7", "original_title": "Disney Animation Classics vol.7", "slug_title": "disney-animation-classics-vol-7", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RMRpDPDB5gMkQZCpjjTeTfaVW9.jpg", "actors": [], "comments": [], "recommandations_id": []}

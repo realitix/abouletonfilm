@@ -1,0 +1,1 @@
+{"tmdb_id": 360336, "title": "Inferno no Gama", "original_title": "Inferno no Gama", "slug_title": "inferno-no-gama", "date": "1993-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vfMRbAttTAD3lNYzxZPzUU7i5jT.jpg", "actors": ["Claudete Joubert ()", "Affonso Brazza ()"], "comments": [], "recommandations_id": []}

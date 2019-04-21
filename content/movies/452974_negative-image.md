@@ -1,0 +1,1 @@
+{"tmdb_id": 452974, "title": "Negative Image", "original_title": "Negative Image", "slug_title": "negative-image", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kenneth McGregor ()", "Bonnie Beck ()"], "comments": [], "recommandations_id": []}

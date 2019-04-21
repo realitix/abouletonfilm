@@ -1,0 +1,1 @@
+{"tmdb_id": 540113, "title": "L'illustre Maurin", "original_title": "L'illustre Maurin", "slug_title": "l-illustre-maurin", "date": "1933-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

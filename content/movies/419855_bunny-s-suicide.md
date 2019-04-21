@@ -1,0 +1,1 @@
+{"tmdb_id": 419855, "title": "Bunny's Suicide", "original_title": "Bunny's Suicide", "slug_title": "bunny-s-suicide", "date": "1912-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Bunny (John Spink)", "Flora Finch (Mrs. Spink)"], "comments": [], "recommandations_id": []}

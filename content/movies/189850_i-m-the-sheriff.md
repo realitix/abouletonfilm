@@ -1,0 +1,1 @@
+{"tmdb_id": 189850, "title": "I'm the Sheriff", "original_title": "I'm the Sheriff", "slug_title": "i-m-the-sheriff", "date": "1927-03-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Murphy (Andy Gump)", "Fay Tincher (Min Gump)", "Billy Butts (Chester Gump)"], "comments": [], "recommandations_id": []}

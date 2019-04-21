@@ -1,0 +1,1 @@
+{"tmdb_id": 463867, "title": "Song of Solomon", "original_title": "Song of Solomon", "slug_title": "song-of-solomon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

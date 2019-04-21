@@ -1,0 +1,1 @@
+{"tmdb_id": 168771, "title": "Soccer City", "original_title": "Soccer City", "slug_title": "soccer-city", "date": "2011-11-04", "genre": "Documentaire / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCqFUmWhyOffGgE8tmeSNt1XdMx.jpg", "actors": [], "comments": [], "recommandations_id": [417257, 364306, 295962, 426224]}

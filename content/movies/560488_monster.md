@@ -1,0 +1,1 @@
+{"tmdb_id": 560488, "title": "Monster", "original_title": "\u602a\u517d", "slug_title": "monster", "date": "2018-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JPlQpvlYcKHvq9ujpQl3FdBH6j.jpg", "actors": ["Su Yang ()", "Ye Lu ()", "Han Yanbo ()"], "comments": [], "recommandations_id": []}

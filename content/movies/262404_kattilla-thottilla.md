@@ -1,0 +1,1 @@
+{"tmdb_id": 262404, "title": "Kattilla Thottilla", "original_title": "Kattilla Thottilla", "slug_title": "kattilla-thottilla", "date": "1973-09-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Bhanumathi ()", "Nagesh ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 194953, "title": "The Ellington Kid", "original_title": "The Ellington Kid", "slug_title": "the-ellington-kid", "date": "2012-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYrIqyZ3A7GQAfTTgcquAFXbsoB.jpg", "actors": [], "comments": [], "recommandations_id": []}

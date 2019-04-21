@@ -1,0 +1,1 @@
+{"tmdb_id": 360785, "title": "Oslo's Rose", "original_title": "Oslo's Rose", "slug_title": "oslo-s-rose", "date": "2015-09-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Sporadic Film Collective (Cast)"], "comments": [], "recommandations_id": []}

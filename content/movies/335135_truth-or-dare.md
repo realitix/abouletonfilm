@@ -1,0 +1,1 @@
+{"tmdb_id": 335135, "title": "Truth or Dare", "original_title": "Truth or Dare", "slug_title": "truth-or-dare", "date": "1994-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

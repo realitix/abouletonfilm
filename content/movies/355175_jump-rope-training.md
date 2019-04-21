@@ -1,0 +1,1 @@
+{"tmdb_id": 355175, "title": "Jump Rope Training", "original_title": "Jump Rope Training", "slug_title": "jump-rope-training", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/alwB1VPJcobe8z5pigMnSa2TVc1.jpg", "actors": ["Buddy Lee ()"], "comments": [], "recommandations_id": []}

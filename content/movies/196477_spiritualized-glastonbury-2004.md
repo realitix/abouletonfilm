@@ -1,0 +1,1 @@
+{"tmdb_id": 196477, "title": "Spiritualized: Glastonbury 2004", "original_title": "Spiritualized: Glastonbury 2004", "slug_title": "spiritualized-glastonbury-2004", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

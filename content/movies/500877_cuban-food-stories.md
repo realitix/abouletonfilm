@@ -1,0 +1,1 @@
+{"tmdb_id": 500877, "title": "Cuban Food Stories", "original_title": "Cuban Food Stories", "slug_title": "cuban-food-stories", "date": "2018-02-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIr93lLmcDNQALtdayBa37wHVRN.jpg", "actors": [], "comments": [], "recommandations_id": []}

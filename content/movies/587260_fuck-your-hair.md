@@ -1,0 +1,1 @@
+{"tmdb_id": 587260, "title": "Fuck Your Hair", "original_title": "Chinga Tu Pelo", "slug_title": "fuck-your-hair", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

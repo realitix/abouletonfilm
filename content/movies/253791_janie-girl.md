@@ -1,0 +1,1 @@
+{"tmdb_id": 253791, "title": "Janie Girl", "original_title": "Janie Girl", "slug_title": "janie-girl", "date": "2014-03-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sandra E. Williams (Janie)", "Ryan H. Hodzic (James)"], "comments": [], "recommandations_id": []}

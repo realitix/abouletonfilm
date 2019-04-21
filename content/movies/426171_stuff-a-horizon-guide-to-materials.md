@@ -1,0 +1,1 @@
+{"tmdb_id": 426171, "title": "Stuff: A Horizon Guide to Materials", "original_title": "Stuff: A Horizon Guide to Materials", "slug_title": "stuff-a-horizon-guide-to-materials", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

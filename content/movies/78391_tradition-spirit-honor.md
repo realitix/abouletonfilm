@@ -1,0 +1,1 @@
+{"tmdb_id": 78391, "title": "Tradition, Spirit, Honor", "original_title": "Tradition, Spirit, Honor", "slug_title": "tradition-spirit-honor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rTAmlGcx4JlaJG2BtSdyskBsPkL.jpg", "actors": ["Bronco Mendenhall (Himself)"], "comments": [], "recommandations_id": []}

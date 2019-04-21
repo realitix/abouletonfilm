@@ -1,0 +1,1 @@
+{"tmdb_id": 487960, "title": "Superheroes", "original_title": "Superheroes", "slug_title": "superheroes", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pub7SCxjS0O7ltKdCqj1pw5MPtP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 435891, "title": "\u591c\u660e\u3051\u544a\u3052\u308b\u30eb\u30fc\u306e\u3046\u305f", "original_title": "\u591c\u660e\u3051\u544a\u3052\u308b\u30eb\u30fc\u306e\u3046\u305f", "slug_title": "ye-ming-kegao-gerurunouta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

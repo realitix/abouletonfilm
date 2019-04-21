@@ -1,0 +1,1 @@
+{"tmdb_id": 543711, "title": "Carmen - Met Opera Live", "original_title": "Carmen - Met Opera Live", "slug_title": "carmen-met-opera-live", "date": "2019-02-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GVvyyjF4HwX3M4NQ3KIUi92a8w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564275, "title": "Ave nacional con dibujo", "original_title": "Ave nacional con dibujo", "slug_title": "ave-nacional-con-dibujo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

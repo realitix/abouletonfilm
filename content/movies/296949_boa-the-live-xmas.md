@@ -1,0 +1,1 @@
+{"tmdb_id": 296949, "title": "BoA: The Live X\u2019mas", "original_title": "BoA: The Live X\u2019mas", "slug_title": "boa-the-live-xmas", "date": "2008-03-26", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ECbO5kyc4pSvyAW3gbWPPmo0PF.jpg", "actors": ["BoA ()"], "comments": [], "recommandations_id": []}

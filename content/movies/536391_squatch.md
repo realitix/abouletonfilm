@@ -1,0 +1,1 @@
+{"tmdb_id": 536391, "title": "Squatch", "original_title": "Squatch", "slug_title": "squatch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

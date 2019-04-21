@@ -1,0 +1,1 @@
+{"tmdb_id": 194931, "title": "Guest of Cindy Sherman", "original_title": "Guest of Cindy Sherman", "slug_title": "guest-of-cindy-sherman", "date": "2008-04-08", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9FyiYnTxfXwvF6vl90MdTVXNIQI.jpg", "actors": [], "comments": [], "recommandations_id": [55014, 47912]}

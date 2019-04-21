@@ -1,0 +1,1 @@
+{"tmdb_id": 46610, "title": "Spitfire Women", "original_title": "Spitfire Women", "slug_title": "spitfire-women", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

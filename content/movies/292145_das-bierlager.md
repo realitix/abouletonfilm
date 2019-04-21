@@ -1,0 +1,1 @@
+{"tmdb_id": 292145, "title": "Das Bierlager", "original_title": "Das Bierlager", "slug_title": "das-bierlager", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2VxyPcJAxcweOPJTZNIhhA5pogK.jpg", "actors": ["Vivian Schmitt (Candy Moore)"], "comments": [], "recommandations_id": []}

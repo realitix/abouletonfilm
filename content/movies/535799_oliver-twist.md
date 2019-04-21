@@ -1,0 +1,1 @@
+{"tmdb_id": 535799, "title": "Oliver Twist", "original_title": "Oliver Twist", "slug_title": "oliver-twist", "date": "1982-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vIRUM7iwUbuFzb0epYmY9oN94pC.jpg", "actors": [], "comments": [], "recommandations_id": []}

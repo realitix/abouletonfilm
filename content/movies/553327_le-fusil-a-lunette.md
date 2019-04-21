@@ -1,0 +1,1 @@
+{"tmdb_id": 553327, "title": "Le fusil \u00e0 lunette", "original_title": "Le fusil \u00e0 lunette", "slug_title": "le-fusil-a-lunette", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVjv1UApFRTgqTVcXIBdWEjIV8W.jpg", "actors": [], "comments": [], "recommandations_id": []}

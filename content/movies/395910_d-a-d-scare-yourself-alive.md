@@ -1,0 +1,1 @@
+{"tmdb_id": 395910, "title": "D-A-D: Scare Yourself Alive", "original_title": "D-A-D: Scare Yourself Alive", "slug_title": "d-a-d-scare-yourself-alive", "date": "2005-07-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uaLe9zDGopm627oTfVyHBVbkftQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

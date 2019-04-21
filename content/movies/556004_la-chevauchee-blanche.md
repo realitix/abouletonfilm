@@ -1,0 +1,1 @@
+{"tmdb_id": 556004, "title": "La chevauch\u00e9e blanche", "original_title": "La chevauch\u00e9e blanche", "slug_title": "la-chevauchee-blanche", "date": "1924-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349373, "title": "Crazy Dance", "original_title": "\ud06c\ub808\uc774\uc9c0 \ub304\uc2a4", "slug_title": "crazy-dance", "date": "1997-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 488495, "title": "The Haunting of Penthouse D", "original_title": "The Haunting of Penthouse D", "slug_title": "the-haunting-of-penthouse-d", "date": "1974-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

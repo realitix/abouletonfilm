@@ -1,0 +1,1 @@
+{"tmdb_id": 491679, "title": "24 Frames per Second", "original_title": "24 Frames per Second", "slug_title": "24-frames-per-second", "date": "1975-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wHCF380Zwpol0tu4vuDBIgeBN30.jpg", "actors": [], "comments": [], "recommandations_id": []}

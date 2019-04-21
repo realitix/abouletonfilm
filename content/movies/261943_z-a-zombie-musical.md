@@ -1,0 +1,1 @@
+{"tmdb_id": 261943, "title": "Z: A Zombie Musical", "original_title": "Z: A Zombie Musical", "slug_title": "z-a-zombie-musical", "date": "2007-10-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgWztr9Br7J6mL6arUGW8yNV4wo.jpg", "actors": [], "comments": [], "recommandations_id": []}

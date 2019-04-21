@@ -1,0 +1,1 @@
+{"tmdb_id": 579028, "title": "I GOT MY THINGS AND LEFT", "original_title": "I GOT MY THINGS AND LEFT", "slug_title": "i-got-my-things-and-left", "date": "2019-01-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8t1D0n29qRZutbJcBxdJNQdsWe.jpg", "actors": [], "comments": [], "recommandations_id": []}

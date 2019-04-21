@@ -1,0 +1,1 @@
+{"tmdb_id": 477084, "title": "O Encontro", "original_title": "O Encontro", "slug_title": "o-encontro", "date": "2002-05-09", "genre": "Romance / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v2iHDu4wWEp4ecQwfbbEH0lNPCp.jpg", "actors": ["Malu Bierrenbach ()", "Lui Strassburger ()"], "comments": [], "recommandations_id": []}

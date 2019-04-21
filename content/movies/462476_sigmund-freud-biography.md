@@ -1,0 +1,1 @@
+{"tmdb_id": 462476, "title": "SIGMUND FREUD:BIOGRAPHY", "original_title": "SIGMUND FREUD:BIOGRAPHY", "slug_title": "sigmund-freud-biography", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjJINc6RU8kAd6KF6unjmofsX24.jpg", "actors": [], "comments": [], "recommandations_id": []}

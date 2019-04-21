@@ -1,0 +1,1 @@
+{"tmdb_id": 342990, "title": "The Wrong Miss Wright", "original_title": "The Wrong Miss Wright", "slug_title": "the-wrong-miss-wright", "date": "1937-06-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley Chase)", "John T. Murray (Silas Wright)"], "comments": [], "recommandations_id": []}

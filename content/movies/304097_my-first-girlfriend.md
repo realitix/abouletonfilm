@@ -1,0 +1,1 @@
+{"tmdb_id": 304097, "title": "My First Girlfriend", "original_title": "Mi Primera Novia", "slug_title": "my-first-girlfriend", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

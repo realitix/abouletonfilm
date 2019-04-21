@@ -1,0 +1,1 @@
+{"tmdb_id": 168543, "title": "Trading on Thin Air", "original_title": "Trading on Thin Air", "slug_title": "trading-on-thin-air", "date": "2010-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCfAYyRye4vza2JNfVtbKMI6qUe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 99572, "title": "Bomber", "original_title": "Bomber", "slug_title": "bomber", "date": "1941-10-03", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvyeCd8tnSEDHD17ct9E2XCdQDl.jpg", "actors": [], "comments": [], "recommandations_id": []}

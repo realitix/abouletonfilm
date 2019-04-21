@@ -1,0 +1,1 @@
+{"tmdb_id": 64855, "title": "Ghost Stories", "original_title": "Ghost Stories", "slug_title": "ghost-stories", "date": "1987-12-05", "genre": "Animation / Familial", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5mqaZK30Rn3744iTfIXPMgBi1kJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

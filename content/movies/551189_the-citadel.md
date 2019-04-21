@@ -1,0 +1,1 @@
+{"tmdb_id": 551189, "title": "The Citadel", "original_title": "The Citadel", "slug_title": "the-citadel", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

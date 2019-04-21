@@ -1,0 +1,1 @@
+{"tmdb_id": 374950, "title": "Ja Gut, Ich Sach Mal ...", "original_title": "Ja Gut, Ich Sach Mal ...", "slug_title": "ja-gut-ich-sach-mal", "date": "2004-05-11", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oXRkH1rsM5zYRLw8Uspnlh0JTA.jpg", "actors": [], "comments": [], "recommandations_id": []}

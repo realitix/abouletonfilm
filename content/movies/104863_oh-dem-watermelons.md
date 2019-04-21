@@ -1,0 +1,1 @@
+{"tmdb_id": 104863, "title": "Oh Dem Watermelons", "original_title": "Oh Dem Watermelons", "slug_title": "oh-dem-watermelons", "date": "1965-09-16", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cray1bUFH1ctMlfomV0j3JQ3S3Q.jpg", "actors": [], "comments": [], "recommandations_id": [144615, 83909, 122479, 144943]}

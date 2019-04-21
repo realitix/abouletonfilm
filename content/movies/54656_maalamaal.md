@@ -1,0 +1,1 @@
+{"tmdb_id": 54656, "title": "Maalamaal", "original_title": "Maalamaal", "slug_title": "maalamaal", "date": "1988-11-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aNkHFlzB0b8n9gUFXjxPtUqPM8T.jpg", "actors": ["Naseeruddin Shah ()", "Poonam Dhillon ()", "Aditya Pancholi ()"], "comments": [], "recommandations_id": []}

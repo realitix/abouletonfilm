@@ -1,0 +1,1 @@
+{"tmdb_id": 466880, "title": "O Violeiro Fantasma", "original_title": "O Violeiro Fantasma", "slug_title": "o-violeiro-fantasma", "date": "2017-08-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/quDI8bmAOcx1Zcf2ege4lHGgfqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

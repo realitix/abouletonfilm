@@ -1,0 +1,1 @@
+{"tmdb_id": 155040, "title": "Sebastian Bach: Forever Wild", "original_title": "Sebastian Bach: Forever Wild", "slug_title": "sebastian-bach-forever-wild", "date": "2004-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bL7siQUHwV9F6XOsOuOridjlZvQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

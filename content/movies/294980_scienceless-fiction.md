@@ -1,0 +1,1 @@
+{"tmdb_id": 294980, "title": "Scienceless Fiction", "original_title": "Scienceless Fiction", "slug_title": "scienceless-fiction", "date": "2014-01-01", "genre": "", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7m5hDADRiYAIzLlPJCdu8mgW50.jpg", "actors": [], "comments": [], "recommandations_id": []}

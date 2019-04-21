@@ -1,0 +1,1 @@
+{"tmdb_id": 379396, "title": "Hoi Trang Ram", "original_title": "Hoi Trang Ram", "slug_title": "hoi-trang-ram", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jM7o33EBeQE8Wd2anzXlZAP8o7R.jpg", "actors": [], "comments": [], "recommandations_id": []}

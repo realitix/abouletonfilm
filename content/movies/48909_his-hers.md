@@ -1,0 +1,1 @@
+{"tmdb_id": 48909, "title": "His & Hers", "original_title": "His & Hers", "slug_title": "his-hers", "date": "2009-01-01", "genre": "Familial / Documentaire / Romance", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdbdnW7tJ66GQOqokpBlSCs339v.jpg", "actors": [], "comments": [], "recommandations_id": []}

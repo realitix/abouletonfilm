@@ -1,0 +1,1 @@
+{"tmdb_id": 575852, "title": "Memento Stella", "original_title": "Memento Stella", "slug_title": "memento-stella", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjDZJrExq0ILGnfHgAt3S3bXBE0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 457792, "title": "The Genesis Solution", "original_title": "The Genesis Solution", "slug_title": "the-genesis-solution", "date": "1987-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwdE2PfX8mRW6fCzlRMRVfDCUc0.jpg", "actors": ["Ken Ham (Himself)"], "comments": [], "recommandations_id": []}

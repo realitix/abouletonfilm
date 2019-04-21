@@ -1,0 +1,1 @@
+{"tmdb_id": 518051, "title": "Araucan\u00eda herida", "original_title": "Araucan\u00eda herida", "slug_title": "araucania-herida", "date": "2014-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alejandra Carrasco (Herself / Narrator)"], "comments": [], "recommandations_id": []}

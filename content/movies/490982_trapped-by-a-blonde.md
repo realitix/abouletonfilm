@@ -1,0 +1,1 @@
+{"tmdb_id": 490982, "title": "Trapped by a Blonde", "original_title": "Trapped by a Blonde", "slug_title": "trapped-by-a-blonde", "date": "1949-04-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a04I7X1O5sD3C1cgVsUeZO2qqtK.jpg", "actors": ["Hugh Herbert (Hugh)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 427250, "title": "Arriv\u00e9e de 'La Champagne'", "original_title": "Arriv\u00e9e de 'La Champagne'", "slug_title": "arrivee-de-la-champagne", "date": "1899-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

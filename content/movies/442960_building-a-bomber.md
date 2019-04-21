@@ -1,0 +1,1 @@
+{"tmdb_id": 442960, "title": "Building a Bomber", "original_title": "Building a Bomber", "slug_title": "building-a-bomber", "date": "1941-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278960, "title": "Illegal Use of Joe Zopp", "original_title": "Illegal Use of Joe Zopp", "slug_title": "illegal-use-of-joe-zopp", "date": "2008-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

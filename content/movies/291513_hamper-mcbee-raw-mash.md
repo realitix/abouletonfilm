@@ -1,0 +1,1 @@
+{"tmdb_id": 291513, "title": "Hamper McBee: Raw Mash", "original_title": "Hamper McBee: Raw Mash", "slug_title": "hamper-mcbee-raw-mash", "date": "1978-01-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hamper McBee (Himself)"], "comments": [], "recommandations_id": []}

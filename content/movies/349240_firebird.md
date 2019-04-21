@@ -1,0 +1,1 @@
+{"tmdb_id": 349240, "title": "Firebird", "original_title": "\ubd88\uc0c8", "slug_title": "firebird", "date": "1997-02-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Jung-jae ()", "Son Chang-min ()", "Oh Yeon-soo ()", "Yu In-chon ()", "Kwon Nam-hee ()", "Song Geum-sik ()"], "comments": [], "recommandations_id": []}

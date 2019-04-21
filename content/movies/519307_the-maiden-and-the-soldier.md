@@ -1,0 +1,1 @@
+{"tmdb_id": 519307, "title": "The Maiden and the Soldier", "original_title": "Tytt\u00f6 ja sotamies", "slug_title": "the-maiden-and-the-soldier", "date": "1995-01-01", "genre": "Animation / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMHefdaTBx1kiwhL8SKUPjqvNDc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 369717, "title": "Portrait of Greece", "original_title": "Portrait of Greece", "slug_title": "portrait-of-greece", "date": "1927-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

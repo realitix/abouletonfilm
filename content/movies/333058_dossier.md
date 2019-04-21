@@ -1,0 +1,1 @@
+{"tmdb_id": 333058, "title": "Dossier", "original_title": "Parvandh", "slug_title": "dossier", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

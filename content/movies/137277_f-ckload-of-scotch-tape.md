@@ -1,0 +1,1 @@
+{"tmdb_id": 137277, "title": "F*ckload of Scotch Tape", "original_title": "F*ckload of Scotch Tape", "slug_title": "f-ckload-of-scotch-tape", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqRJIC7dWQTNlHGQKufy4SnbsQu.jpg", "actors": ["Louie Lawless (Chuck)"], "comments": [], "recommandations_id": []}

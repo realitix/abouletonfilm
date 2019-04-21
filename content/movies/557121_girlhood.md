@@ -1,0 +1,1 @@
+{"tmdb_id": 557121, "title": "Girlhood", "original_title": "Girlhood", "slug_title": "girlhood", "date": "2016-12-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jI4uBsV37p10BiPf2T24yFES97t.jpg", "actors": [], "comments": [], "recommandations_id": []}

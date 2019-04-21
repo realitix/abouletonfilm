@@ -1,0 +1,1 @@
+{"tmdb_id": 244931, "title": "Charell", "original_title": "Charell", "slug_title": "charell", "date": "2006-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Michel F\u00eate (Daniel)", "Marc Barb\u00e9 (Alain Charell)", "Anic\u00e9e Alvina (Suzanne)", "Marie Kremer ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401072, "title": "Planet of the Arabs", "original_title": "Planet of the Arabs", "slug_title": "planet-of-the-arabs", "date": "2005-01-26", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyNMNsxj7xit5iYmZgsRQksLH8f.jpg", "actors": [], "comments": [], "recommandations_id": []}

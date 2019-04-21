@@ -1,0 +1,1 @@
+{"tmdb_id": 88272, "title": "Clancy", "original_title": "Clancy", "slug_title": "clancy", "date": "2009-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSKl35RXfjwVYAhygnMZwsnoZ5I.jpg", "actors": [], "comments": [], "recommandations_id": []}

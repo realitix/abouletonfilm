@@ -1,0 +1,1 @@
+{"tmdb_id": 502684, "title": "Wake Up, Helsinki!", "original_title": "Her\u00e4\u00e4 Helsinki!", "slug_title": "wake-up-helsinki", "date": "1939-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

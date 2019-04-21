@@ -1,0 +1,1 @@
+{"tmdb_id": 162117, "title": "Secrets of Life", "original_title": "Secrets of Life", "slug_title": "secrets-of-life", "date": "1956-11-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTkosRXmoZGZiWOMri6rYRwxLxj.jpg", "actors": ["Winston Hibler (Narrator)"], "comments": [], "recommandations_id": []}

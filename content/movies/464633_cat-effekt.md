@@ -1,0 +1,1 @@
+{"tmdb_id": 464633, "title": "Cat Effekt", "original_title": "Cat Effekt", "slug_title": "cat-effekt", "date": "2011-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5vssJ5wVDHfJO47Wnm0jrAVjRB.jpg", "actors": ["Tatyana Derbenyova ()", "Daria Gordeeva ()"], "comments": [], "recommandations_id": []}

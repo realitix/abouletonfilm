@@ -1,0 +1,1 @@
+{"tmdb_id": 86165, "title": "Muhammad Ali vs. Joe Frazier II", "original_title": "Muhammad Ali vs. Joe Frazier II", "slug_title": "muhammad-ali-vs-joe-frazier-ii", "date": "1974-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHErzJ7YpUCQoNOkWKRy107LL9w.jpg", "actors": [], "comments": [], "recommandations_id": []}

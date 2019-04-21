@@ -1,0 +1,1 @@
+{"tmdb_id": 211643, "title": "Africa: America's New Oil Target", "original_title": "Africa: America's New Oil Target", "slug_title": "africa-america-s-new-oil-target", "date": "2005-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

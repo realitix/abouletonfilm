@@ -1,0 +1,1 @@
+{"tmdb_id": 96042, "title": "NY Export: Opus Jazz", "original_title": "NY Export: Opus Jazz", "slug_title": "ny-export-opus-jazz", "date": "2010-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d1hGL6O1M4AbNJjtWoc7potEMN9.jpg", "actors": [], "comments": [], "recommandations_id": []}

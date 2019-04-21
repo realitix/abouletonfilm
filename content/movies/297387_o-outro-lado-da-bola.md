@@ -1,0 +1,1 @@
+{"tmdb_id": 297387, "title": "O Outro Lado da Bola", "original_title": "O Outro Lado da Bola", "slug_title": "o-outro-lado-da-bola", "date": "2012-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 42353, "title": "Cash and Curry", "original_title": "Cash and Curry", "slug_title": "cash-and-curry", "date": "2008-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OrMSUnvPYNsCKHl0PY0lwx0kiF.jpg", "actors": [], "comments": [], "recommandations_id": []}

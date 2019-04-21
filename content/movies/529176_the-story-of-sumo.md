@@ -1,0 +1,1 @@
+{"tmdb_id": 529176, "title": "The Story of Sumo", "original_title": "The Story of Sumo", "slug_title": "the-story-of-sumo", "date": "2005-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JSiC1ZE5sGXjYk2KeiGzik3Iwv.jpg", "actors": [], "comments": [], "recommandations_id": []}

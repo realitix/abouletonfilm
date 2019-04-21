@@ -1,0 +1,1 @@
+{"tmdb_id": 504907, "title": "Metal of Honor: The Ironworkers of 9/11", "original_title": "Metal of Honor: The Ironworkers of 9/11", "slug_title": "metal-of-honor-the-ironworkers-of-9-11", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

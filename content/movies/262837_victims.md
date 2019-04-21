@@ -1,0 +1,1 @@
+{"tmdb_id": 262837, "title": "Victims", "original_title": "Victims", "slug_title": "victims", "date": "1982-07-01", "genre": "Thriller / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZYH59ZAwVrBK6SKMbO0obtwp3D.jpg", "actors": ["Lois Adams (Paula)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 445863, "title": "Junge Hunde", "original_title": "Junge Hunde", "slug_title": "junge-hunde", "date": "1993-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernhard Marsch (Bernhard)"], "comments": [], "recommandations_id": []}

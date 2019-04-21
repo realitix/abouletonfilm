@@ -1,0 +1,1 @@
+{"tmdb_id": 122356, "title": "Goshogaoka", "original_title": "Goshogaoka", "slug_title": "goshogaoka", "date": "1998-03-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kXI0JXuaPRrWTj0dog7VBMIRdZp.jpg", "actors": [], "comments": [], "recommandations_id": []}

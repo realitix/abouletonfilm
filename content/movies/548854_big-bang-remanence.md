@@ -1,0 +1,1 @@
+{"tmdb_id": 548854, "title": "Big Bang R\u00e9manence", "original_title": "Big Bang R\u00e9manence", "slug_title": "big-bang-remanence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271639, "title": "The Last Beekeeper", "original_title": "The Last Beekeeper", "slug_title": "the-last-beekeeper", "date": "2009-03-14", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FE73YAME4BgeGGJWRQbRm2UrWf.jpg", "actors": [], "comments": [], "recommandations_id": []}

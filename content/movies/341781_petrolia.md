@@ -1,0 +1,1 @@
+{"tmdb_id": 341781, "title": "Petrolia", "original_title": "Petrolia", "slug_title": "petrolia", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rWB1hX4EHb4mlHre0ZGbhHApQDm.jpg", "actors": [], "comments": [], "recommandations_id": []}

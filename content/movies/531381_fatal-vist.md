@@ -1,0 +1,1 @@
+{"tmdb_id": 531381, "title": "Fatal Vist", "original_title": "\u8056\u8377\u897f\u8b00\u6bba\u6848", "slug_title": "fatal-vist", "date": "", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oy2eFxHhL4uPgyvLnhKP0KX47Yq.jpg", "actors": [], "comments": [], "recommandations_id": []}

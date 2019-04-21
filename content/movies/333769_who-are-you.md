@@ -1,0 +1,1 @@
+{"tmdb_id": 333769, "title": "Who are you?", "original_title": "Siz kim siz?", "slug_title": "who-are-you", "date": "1989-01-02", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mikhail Kaminsky ()", "Elyer Nasyrov ()", "Tulkun Tadzhiyev ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477539, "title": "Les malices de L\u00e9ontine", "original_title": "Les malices de L\u00e9ontine", "slug_title": "les-malices-de-leontine", "date": "1911-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 363967, "title": "Co to konia obchodzi", "original_title": "Co to konia obchodzi", "slug_title": "co-to-konia-obchodzi", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

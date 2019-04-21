@@ -1,0 +1,1 @@
+{"tmdb_id": 352363, "title": "The Code", "original_title": "El Codigo", "slug_title": "the-code", "date": "2006-07-30", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manuel Tallaf\u00e9 (Leonardo Da Vinci)"], "comments": [], "recommandations_id": []}

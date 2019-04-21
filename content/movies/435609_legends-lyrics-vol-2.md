@@ -1,0 +1,1 @@
+{"tmdb_id": 435609, "title": "Legends & Lyrics Vol. 2", "original_title": "Legends & Lyrics Vol. 2", "slug_title": "legends-lyrics-vol-2", "date": "2009-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

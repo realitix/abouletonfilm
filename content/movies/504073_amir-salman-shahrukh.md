@@ -1,0 +1,1 @@
+{"tmdb_id": 504073, "title": "Amir Salman Shahrukh", "original_title": "Amir Salman Shahrukh", "slug_title": "amir-salman-shahrukh", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

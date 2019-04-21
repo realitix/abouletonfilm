@@ -1,0 +1,1 @@
+{"tmdb_id": 571408, "title": "Kotha Poradu", "original_title": "Kotha Poradu", "slug_title": "kotha-poradu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12aThZ0RTYFhBgDYUUxf1lNrchP.jpg", "actors": ["Anvesh Michael ()"], "comments": [], "recommandations_id": []}

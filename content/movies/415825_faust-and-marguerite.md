@@ -1,0 +1,1 @@
+{"tmdb_id": 415825, "title": "Faust and Marguerite", "original_title": "Faust et Marguerite", "slug_title": "faust-and-marguerite", "date": "1897-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeanne d'Alcy ()"], "comments": [], "recommandations_id": []}

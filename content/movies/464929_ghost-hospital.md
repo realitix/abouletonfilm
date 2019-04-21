@@ -1,0 +1,1 @@
+{"tmdb_id": 464929, "title": "Ghost Hospital", "original_title": "Ghost Hospital", "slug_title": "ghost-hospital", "date": "", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

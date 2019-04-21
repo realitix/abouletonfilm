@@ -1,0 +1,1 @@
+{"tmdb_id": 421349, "title": "Ghost Bell", "original_title": "\u0e23\u0e30\u0e06\u0e31\u0e07\u0e1c\u0e35", "slug_title": "ghost-bell", "date": "1968-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mr38eS22q9yFKmkktehgYla6yTp.jpg", "actors": [], "comments": [], "recommandations_id": []}

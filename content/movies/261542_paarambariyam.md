@@ -1,0 +1,1 @@
+{"tmdb_id": 261542, "title": "Paarambariyam", "original_title": "Paarambariyam", "slug_title": "paarambariyam", "date": "1993-11-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "B. Saroja Devi ()", "Pandiyan ()", "Senthil ()", "Chithra ()", "Nirosha ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 495885, "title": "Ocean Wave of Stars", "original_title": "Ocean Wave of Stars", "slug_title": "ocean-wave-of-stars", "date": "1996-11-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZq3pvVoN7uXpvHFBAGpox88aiI.jpg", "actors": [], "comments": [], "recommandations_id": []}

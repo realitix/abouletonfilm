@@ -1,0 +1,1 @@
+{"tmdb_id": 545462, "title": "Pagar 4 Nunca Mai$", "original_title": "Pagar 4 Nunca Mai$", "slug_title": "pagar-4-nunca-mai", "date": "2018-08-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

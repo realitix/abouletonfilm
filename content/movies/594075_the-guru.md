@@ -1,0 +1,1 @@
+{"tmdb_id": 594075, "title": "The Guru", "original_title": "El Guru", "slug_title": "the-guru", "date": "2019-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 446260, "title": "I Dare Ya", "original_title": "I Dare Ya", "slug_title": "i-dare-ya", "date": "1986-10-09", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQiSTOQ1O0SD6hjGGFTTCjGWqvx.jpg", "actors": [], "comments": [], "recommandations_id": []}

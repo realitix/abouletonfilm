@@ -1,0 +1,1 @@
+{"tmdb_id": 577865, "title": "B.B. King - Live at the North Sea Jazz Festival 2009", "original_title": "B.B. King - Live at the North Sea Jazz Festival 2009", "slug_title": "b-b-king-live-at-the-north-sea-jazz-festival-2009", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351129, "title": "Why Mules Leave Home", "original_title": "Why Mules Leave Home", "slug_title": "why-mules-leave-home", "date": "1934-09-06", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFPfAcgBI7aHCdSvMQY2zxsj1aN.jpg", "actors": [], "comments": [], "recommandations_id": []}

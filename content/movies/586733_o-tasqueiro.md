@@ -1,0 +1,1 @@
+{"tmdb_id": 586733, "title": "O Tasqueiro", "original_title": "O Tasqueiro", "slug_title": "o-tasqueiro", "date": "2012-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yFjRWYuuA1A8XfCdUv3ZvgS2ZML.jpg", "actors": ["Ilkka Koivula (Barman)"], "comments": [], "recommandations_id": []}

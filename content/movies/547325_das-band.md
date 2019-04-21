@@ -1,0 +1,1 @@
+{"tmdb_id": 547325, "title": "Das Band", "original_title": "Das Band", "slug_title": "das-band", "date": "1963-12-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christian Doermer (der Richter)", "Paul Edwin Roth (der Baron)", "Klaus M\u00fcnster (der Drescher)"], "comments": [], "recommandations_id": []}

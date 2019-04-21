@@ -1,0 +1,1 @@
+{"tmdb_id": 276949, "title": "Los Traficantes", "original_title": "Los Traficantes", "slug_title": "los-traficantes", "date": "2012-10-18", "genre": "Drame / Crime", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osWmrA6GSJQea12w7KyLA989Xim.jpg", "actors": [], "comments": [], "recommandations_id": []}

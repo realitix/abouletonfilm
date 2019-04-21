@@ -1,0 +1,1 @@
+{"tmdb_id": 377592, "title": "Bridge over the Wadi", "original_title": "Bridge over the Wadi", "slug_title": "bridge-over-the-wadi", "date": "2006-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

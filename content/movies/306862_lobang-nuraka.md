@@ -1,0 +1,1 @@
+{"tmdb_id": 306862, "title": "Lobang Nuraka", "original_title": "Lobang Nuraka", "slug_title": "lobang-nuraka", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8IZp7zvnFQPU3zhgHy3h1UtS1Vi.jpg", "actors": [], "comments": [], "recommandations_id": []}

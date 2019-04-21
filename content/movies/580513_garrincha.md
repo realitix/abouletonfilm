@@ -1,0 +1,1 @@
+{"tmdb_id": 580513, "title": "Garrincha", "original_title": "Garrincha", "slug_title": "garrincha", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nrkETOglbGWpOTIru14o8TAJmwJ.jpg", "actors": ["Kevin Luarca ()", "Andres Alfaro ()"], "comments": [], "recommandations_id": []}

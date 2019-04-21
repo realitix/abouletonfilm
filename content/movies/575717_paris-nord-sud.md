@@ -1,0 +1,1 @@
+{"tmdb_id": 575717, "title": "Paris Nord Sud", "original_title": "Paris Nord Sud", "slug_title": "paris-nord-sud", "date": "2008-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chWrXU4piSJlgygTeS9K1WOZ5mb.jpg", "actors": [], "comments": [], "recommandations_id": []}

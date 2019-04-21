@@ -1,0 +1,1 @@
+{"tmdb_id": 277144, "title": "Amos Lee: Live from Austin TX", "original_title": "Amos Lee: Live from Austin TX", "slug_title": "amos-lee-live-from-austin-tx", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

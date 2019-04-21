@@ -1,0 +1,1 @@
+{"tmdb_id": 174954, "title": "The Ultimate Fighter 9 Finale", "original_title": "The Ultimate Fighter 9 Finale", "slug_title": "the-ultimate-fighter-9-finale", "date": "2009-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tU8M9iUjTq2Ij8WI5edHf2zxMn2.jpg", "actors": [], "comments": [], "recommandations_id": []}

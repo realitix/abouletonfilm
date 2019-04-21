@@ -1,0 +1,1 @@
+{"tmdb_id": 581491, "title": "Wind Versus Polygamy", "original_title": "Wind Versus Polygamy", "slug_title": "wind-versus-polygamy", "date": "1968-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Earl Cameron (Chief Ozuomba)"], "comments": [], "recommandations_id": []}

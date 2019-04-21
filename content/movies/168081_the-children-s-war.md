@@ -1,0 +1,1 @@
+{"tmdb_id": 168081, "title": "The Children's War", "original_title": "The Children's War", "slug_title": "the-children-s-war", "date": "2010-01-01", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xL7swBiq9Akq3QQ6sYzwG6OF7ak.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 328771, "title": "The Sweat Solution", "original_title": "The Sweat Solution", "slug_title": "the-sweat-solution", "date": "2015-01-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3eGYoOpbmrV94OnGFdCAxTx9hAh.jpg", "actors": [], "comments": [], "recommandations_id": []}

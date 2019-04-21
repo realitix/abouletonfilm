@@ -1,0 +1,1 @@
+{"tmdb_id": 70055, "title": "Four Corners", "original_title": "Four Corners", "slug_title": "four-corners", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

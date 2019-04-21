@@ -1,0 +1,1 @@
+{"tmdb_id": 508113, "title": "Kanchhi", "original_title": "Kanchhi", "slug_title": "kanchhi", "date": "2018-02-16", "genre": "Romance / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1qG6zE5OyutBmDQASpesnjNNz4.jpg", "actors": ["Dayahang Rai (Hira)", "Sweta Khadka (Kanchhi)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561770, "title": "La joyeuse prison", "original_title": "La joyeuse prison", "slug_title": "la-joyeuse-prison", "date": "1956-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJEtXOwdGemVmQgyxMzPIYgnLuh.jpg", "actors": [], "comments": [], "recommandations_id": []}

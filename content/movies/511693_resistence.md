@@ -1,0 +1,1 @@
+{"tmdb_id": 511693, "title": "Resistence", "original_title": "Resistence", "slug_title": "resistence", "date": "", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julia Ormond ()", "Bill Paxton ()", "Sandrine Bonnaire ()"], "comments": [], "recommandations_id": []}

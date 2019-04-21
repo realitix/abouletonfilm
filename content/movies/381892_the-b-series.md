@@ -1,0 +1,1 @@
+{"tmdb_id": 381892, "title": "The 'b' Series", "original_title": "The 'b' Series", "slug_title": "the-b-series", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

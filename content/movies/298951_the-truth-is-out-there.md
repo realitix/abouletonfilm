@@ -1,0 +1,1 @@
+{"tmdb_id": 298951, "title": "The Truth Is Out There", "original_title": "The Truth Is Out There", "slug_title": "the-truth-is-out-there", "date": "2011-05-21", "genre": "Documentaire / Myst\u00e8re / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dean Haglund (Himself)"], "comments": [], "recommandations_id": []}

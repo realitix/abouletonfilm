@@ -1,0 +1,1 @@
+{"tmdb_id": 557450, "title": "The Torment of Laurie Ann Cullom", "original_title": "The Torment of Laurie Ann Cullom", "slug_title": "the-torment-of-laurie-ann-cullom", "date": "2014-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shannon Scott (Laurie)"], "comments": [], "recommandations_id": []}

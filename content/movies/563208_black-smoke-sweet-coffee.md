@@ -1,0 +1,1 @@
+{"tmdb_id": 563208, "title": "Black Smoke, Sweet Coffee", "original_title": "Black Smoke, Sweet Coffee", "slug_title": "black-smoke-sweet-coffee", "date": "2016-12-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVtPAUug5ESL8PIiYNjpj9HIhrx.jpg", "actors": [], "comments": [], "recommandations_id": []}

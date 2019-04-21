@@ -1,0 +1,1 @@
+{"tmdb_id": 366994, "title": "Mar de Fogo", "original_title": "Mar de Fogo", "slug_title": "mar-de-fogo", "date": "2014-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GIO8YBoWc8BbsveoDnJvw6u09Z.jpg", "actors": ["M\u00e1rio Peixoto (Ele mesmo (arquivo))"], "comments": [], "recommandations_id": []}

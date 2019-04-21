@@ -1,0 +1,1 @@
+{"tmdb_id": 283553, "title": "Silver Fang 5", "original_title": "Silver Fang 5", "slug_title": "silver-fang-5", "date": "2006-10-03", "genre": "Animation / Action / Aventure", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a6KOecHzh0viAbqmAcwf0ZR6gdv.jpg", "actors": [], "comments": [], "recommandations_id": []}

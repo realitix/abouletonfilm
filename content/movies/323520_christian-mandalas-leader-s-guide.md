@@ -1,0 +1,1 @@
+{"tmdb_id": 323520, "title": "Christian Mandalas Leader's Guide", "original_title": "Christian Mandalas Leader's Guide", "slug_title": "christian-mandalas-leader-s-guide", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

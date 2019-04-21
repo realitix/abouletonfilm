@@ -1,0 +1,1 @@
+{"tmdb_id": 517302, "title": "Birds of a Feather", "original_title": "Pahanhautoja", "slug_title": "birds-of-a-feather", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

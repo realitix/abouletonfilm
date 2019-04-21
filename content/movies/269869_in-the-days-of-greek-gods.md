@@ -1,0 +1,1 @@
+{"tmdb_id": 269869, "title": "In the Days of Greek Gods", "original_title": "In the Days of Greek Gods", "slug_title": "in-the-days-of-greek-gods", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

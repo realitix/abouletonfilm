@@ -1,0 +1,1 @@
+{"tmdb_id": 311484, "title": "Frank Shamrock: Return of the Legend", "original_title": "Frank Shamrock: Return of the Legend", "slug_title": "frank-shamrock-return-of-the-legend", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

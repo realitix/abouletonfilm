@@ -1,0 +1,1 @@
+{"tmdb_id": 347620, "title": "The Destroyer", "original_title": "The Destroyer", "slug_title": "the-destroyer", "date": "", "genre": "Aventure / Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

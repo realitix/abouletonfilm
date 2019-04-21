@@ -1,0 +1,1 @@
+{"tmdb_id": 516236, "title": "Zain's Summer: From Refugee to American Boy", "original_title": "Zain's Summer: From Refugee to American Boy", "slug_title": "zain-s-summer-from-refugee-to-american-boy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

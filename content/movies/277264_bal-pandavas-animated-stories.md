@@ -1,0 +1,1 @@
+{"tmdb_id": 277264, "title": "Bal Pandavas: Animated Stories", "original_title": "Bal Pandavas: Animated Stories", "slug_title": "bal-pandavas-animated-stories", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237875, "title": "Tetesan Darah Perawan", "original_title": "Tetesan Darah Perawan", "slug_title": "tetesan-darah-perawan", "date": "2008-12-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RTae9R1gjcgFWSJ2Bh3aCymXkU.jpg", "actors": [], "comments": [], "recommandations_id": []}

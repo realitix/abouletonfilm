@@ -1,0 +1,1 @@
+{"tmdb_id": 424929, "title": "Vajont, Una Tragedia Italiana", "original_title": "Vajont, Una Tragedia Italiana", "slug_title": "vajont-una-tragedia-italiana", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

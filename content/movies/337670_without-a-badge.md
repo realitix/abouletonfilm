@@ -1,0 +1,1 @@
+{"tmdb_id": 337670, "title": "Without a Badge", "original_title": "Without a Badge", "slug_title": "without-a-badge", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["ashana cover (Rachel Fox)", "Lewis DaCosta III (Lucifer)", "Mike E. Pringle (The snitch)"], "comments": [], "recommandations_id": []}

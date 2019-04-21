@@ -1,0 +1,1 @@
+{"tmdb_id": 56940, "title": "Bubber Og BS P\u00e5 Afveje (Afrika)", "original_title": "Bubber Og BS P\u00e5 Afveje (Afrika)", "slug_title": "bubber-og-bs-pa-afveje-afrika", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9QaoFEVt5UwPwrmGtyX8q7X3RZv.jpg", "actors": [], "comments": [], "recommandations_id": []}

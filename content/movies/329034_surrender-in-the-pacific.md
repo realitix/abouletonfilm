@@ -1,0 +1,1 @@
+{"tmdb_id": 329034, "title": "Surrender In The Pacific", "original_title": "Surrender In The Pacific", "slug_title": "surrender-in-the-pacific", "date": "1945-01-01", "genre": "Histoire / Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

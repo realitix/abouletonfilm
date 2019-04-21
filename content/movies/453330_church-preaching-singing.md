@@ -1,0 +1,1 @@
+{"tmdb_id": 453330, "title": "Church: Preaching & Singing", "original_title": "Church: Preaching & Singing", "slug_title": "church-preaching-singing", "date": "2017-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

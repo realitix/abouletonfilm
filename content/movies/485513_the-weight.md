@@ -1,0 +1,1 @@
+{"tmdb_id": 485513, "title": "The Weight", "original_title": "The Weight", "slug_title": "the-weight", "date": "2017-01-01", "genre": "Thriller / Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

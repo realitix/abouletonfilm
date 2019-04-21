@@ -1,0 +1,1 @@
+{"tmdb_id": 356011, "title": "The Characteristics of C-Minor", "original_title": "The Characteristics of C-Minor", "slug_title": "the-characteristics-of-c-minor", "date": "2014-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Knox (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 354171, "title": "Cerolax II", "original_title": "Cerolax II", "slug_title": "cerolax-ii", "date": "1985-08-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

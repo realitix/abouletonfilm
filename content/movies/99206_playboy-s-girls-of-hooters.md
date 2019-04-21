@@ -1,0 +1,1 @@
+{"tmdb_id": 99206, "title": "Playboy's Girls of Hooters", "original_title": "Playboy's Girls of Hooters", "slug_title": "playboy-s-girls-of-hooters", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bonnita McCourt (Herself)"], "comments": [], "recommandations_id": []}

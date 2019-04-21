@@ -1,0 +1,1 @@
+{"tmdb_id": 373216, "title": "Strangulation Blues", "original_title": "Strangulation Blues", "slug_title": "strangulation-blues", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u00c9ric Frey ()", "Hans Meyer ()", "Anne Petit-Lagrange ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351735, "title": "Wild Dog", "original_title": "Bloedhond", "slug_title": "wild-dog", "date": "2014-09-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9IRpjPVJvlKtTQachwpZFidCC.jpg", "actors": ["Tycho Posthumus (Gijs)"], "comments": [], "recommandations_id": []}

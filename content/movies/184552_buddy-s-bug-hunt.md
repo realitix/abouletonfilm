@@ -1,0 +1,1 @@
+{"tmdb_id": 184552, "title": "Buddy's Bug Hunt", "original_title": "Buddy's Bug Hunt", "slug_title": "buddy-s-bug-hunt", "date": "1935-06-21", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBFurUWf26H1dZtD8aD8LQRYW24.jpg", "actors": [], "comments": [], "recommandations_id": []}

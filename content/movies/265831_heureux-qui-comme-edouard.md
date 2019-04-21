@@ -1,0 +1,1 @@
+{"tmdb_id": 265831, "title": "Heureux qui comme Edouard", "original_title": "Heureux qui comme Edouard", "slug_title": "heureux-qui-comme-edouard", "date": "2008-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Boris Vigneron ()", "J\u00e9r\u00f4me Bruno ()", "Patrick de Valette ()"], "comments": [], "recommandations_id": []}

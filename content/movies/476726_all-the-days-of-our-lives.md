@@ -1,0 +1,1 @@
+{"tmdb_id": 476726, "title": "All the Days of Our Lives", "original_title": "Todos os Dias da Nossa Vida", "slug_title": "all-the-days-of-our-lives", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

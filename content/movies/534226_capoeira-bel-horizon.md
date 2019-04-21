@@ -1,0 +1,1 @@
+{"tmdb_id": 534226, "title": "Capoeira, Bel Horizon", "original_title": "Capoeira, Bel Horizon", "slug_title": "capoeira-bel-horizon", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

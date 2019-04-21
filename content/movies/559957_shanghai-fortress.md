@@ -1,0 +1,1 @@
+{"tmdb_id": 559957, "title": "Shanghai Fortress", "original_title": "Shanghai Fortress", "slug_title": "shanghai-fortress", "date": "2019-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfvIvKJchzDF04WendKKaQXNyUL.jpg", "actors": ["Shu Qi ()", "Lu Han ()"], "comments": [], "recommandations_id": []}

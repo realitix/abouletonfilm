@@ -1,0 +1,1 @@
+{"tmdb_id": 155574, "title": "Brzydkie kaczatko", "original_title": "Brzydkie kaczatko", "slug_title": "brzydkie-kaczatko", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXxQtgekFHHSwsTA8jtuAw3bG6t.jpg", "actors": ["Leonard Pietraszak (Pilot)"], "comments": [], "recommandations_id": []}

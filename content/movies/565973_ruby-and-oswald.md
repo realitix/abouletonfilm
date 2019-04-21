@@ -1,0 +1,1 @@
+{"tmdb_id": 565973, "title": "Ruby and Oswald", "original_title": "Ruby and Oswald", "slug_title": "ruby-and-oswald", "date": "1978-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Lerner (Jack Ruby)", "Frederic Forrest (Lee Harvey Oswald)"], "comments": [], "recommandations_id": []}

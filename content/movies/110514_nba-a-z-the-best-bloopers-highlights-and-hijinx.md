@@ -1,0 +1,1 @@
+{"tmdb_id": 110514, "title": "NBA A-Z: The Best Bloopers, Highlights and Hijinx", "original_title": "NBA A-Z: The Best Bloopers, Highlights and Hijinx", "slug_title": "nba-a-z-the-best-bloopers-highlights-and-hijinx", "date": "2010-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

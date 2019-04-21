@@ -1,0 +1,1 @@
+{"tmdb_id": 63254, "title": "Tibet: A Buddhist Trilogy", "original_title": "Tibet: A Buddhist Trilogy", "slug_title": "tibet-a-buddhist-trilogy", "date": "1984-05-03", "genre": "", "score": "8.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goAwgIBoHqboo0NPoKf458OCKFQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

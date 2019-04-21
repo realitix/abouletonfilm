@@ -1,0 +1,1 @@
+{"tmdb_id": 246999, "title": "Trigger Happy", "original_title": "Trigger Happy", "slug_title": "trigger-happy", "date": "1997-01-01", "genre": "Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQWT6LeOHlaJQ9SxOjgaeEFh1Ad.jpg", "actors": [], "comments": [], "recommandations_id": []}

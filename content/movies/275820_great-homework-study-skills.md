@@ -1,0 +1,1 @@
+{"tmdb_id": 275820, "title": "Great Homework & Study Skills", "original_title": "Great Homework & Study Skills", "slug_title": "great-homework-study-skills", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309179, "title": "Nitty Gritty Dirt Band: Greatest Hits Live", "original_title": "Nitty Gritty Dirt Band: Greatest Hits Live", "slug_title": "nitty-gritty-dirt-band-greatest-hits-live", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

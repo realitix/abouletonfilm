@@ -1,0 +1,1 @@
+{"tmdb_id": 312517, "title": "Del Rey and the Sun Kings: Battleship Potemkin", "original_title": "Del Rey and the Sun Kings: Battleship Potemkin", "slug_title": "del-rey-and-the-sun-kings-battleship-potemkin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

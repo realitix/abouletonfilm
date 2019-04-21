@@ -1,0 +1,1 @@
+{"tmdb_id": 481829, "title": "Pipe Man", "original_title": "Pipe Man", "slug_title": "pipe-man", "date": "2017-06-06", "genre": "Science-Fiction / Myst\u00e8re", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4hiuGCeLjhFu81kid2GZuzLldnW.jpg", "actors": ["Miguel Teixeira (Pipe Man)"], "comments": [], "recommandations_id": []}

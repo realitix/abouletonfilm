@@ -1,0 +1,1 @@
+{"tmdb_id": 511989, "title": "Johnny Beehner: The Flamingo Special", "original_title": "Johnny Beehner: The Flamingo Special", "slug_title": "johnny-beehner-the-flamingo-special", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

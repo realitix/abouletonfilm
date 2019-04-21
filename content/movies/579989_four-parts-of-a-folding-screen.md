@@ -1,0 +1,1 @@
+{"tmdb_id": 579989, "title": "Four Parts of a Folding Screen", "original_title": "Four Parts of a Folding Screen", "slug_title": "four-parts-of-a-folding-screen", "date": "", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

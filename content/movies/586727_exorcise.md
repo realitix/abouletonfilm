@@ -1,0 +1,1 @@
+{"tmdb_id": 586727, "title": "Exorcise", "original_title": "Exorcise", "slug_title": "exorcise", "date": "2000-01-07", "genre": "Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u00c7i\u011fdem Vitrinel (Girl)", "Mehmet Tok (Hodja)"], "comments": [], "recommandations_id": []}

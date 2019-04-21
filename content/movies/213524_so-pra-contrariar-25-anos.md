@@ -1,0 +1,1 @@
+{"tmdb_id": 213524, "title": "S\u00f3 Pra Contrariar: 25 Anos", "original_title": "S\u00f3 Pra Contrariar 25 Anos", "slug_title": "so-pra-contrariar-25-anos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XpeTX5iaY4rCgoEuv3z5i02x4F.jpg", "actors": [], "comments": [], "recommandations_id": []}

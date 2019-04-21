@@ -1,0 +1,1 @@
+{"tmdb_id": 177349, "title": "The Dirt Gang", "original_title": "The Dirt Gang", "slug_title": "the-dirt-gang", "date": "1972-11-01", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s8g02dPR3c9SuCi3dhNu2BhQsha.jpg", "actors": [], "comments": [], "recommandations_id": []}

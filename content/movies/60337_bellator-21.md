@@ -1,0 +1,1 @@
+{"tmdb_id": 60337, "title": "Bellator 21", "original_title": "Bellator 21", "slug_title": "bellator-21", "date": "2010-06-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/624usuCtL0e5ZZxdJrTPlgYEjeJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

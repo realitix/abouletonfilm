@@ -1,0 +1,1 @@
+{"tmdb_id": 379077, "title": "Therapeutic Pink", "original_title": "Therapeutic Pink", "slug_title": "therapeutic-pink", "date": "1977-04-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjjSnAqxBAtfTJLti5o4PZkKCW2.jpg", "actors": [], "comments": [], "recommandations_id": []}

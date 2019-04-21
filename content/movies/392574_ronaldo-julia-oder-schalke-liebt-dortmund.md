@@ -1,0 +1,1 @@
+{"tmdb_id": 392574, "title": "Ronaldo & Julia oder Schalke liebt Dortmund", "original_title": "Ronaldo & Julia oder Schalke liebt Dortmund", "slug_title": "ronaldo-julia-oder-schalke-liebt-dortmund", "date": "2016-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

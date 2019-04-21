@@ -1,0 +1,1 @@
+{"tmdb_id": 328664, "title": "The 24th Infantry Division In Korea", "original_title": "The 24th Infantry Division In Korea", "slug_title": "the-24th-infantry-division-in-korea", "date": "1954-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

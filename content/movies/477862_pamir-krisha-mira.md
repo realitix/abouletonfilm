@@ -1,0 +1,1 @@
+{"tmdb_id": 477862, "title": "Pamir. Krisha mira", "original_title": "Pamir. Krisha mira", "slug_title": "pamir-krisha-mira", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

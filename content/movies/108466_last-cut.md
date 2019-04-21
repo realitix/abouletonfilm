@@ -1,0 +1,1 @@
+{"tmdb_id": 108466, "title": "Last Cut", "original_title": "Ultimo Taglio", "slug_title": "last-cut", "date": "1997-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5v9SXvVOocGtdulHAODwHioYsw.jpg", "actors": ["John Savage ()", "Helmut Berger ()", "Tomas Arana ()"], "comments": [], "recommandations_id": []}

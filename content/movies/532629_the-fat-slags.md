@@ -1,0 +1,1 @@
+{"tmdb_id": 532629, "title": "The Fat Slags", "original_title": "The Fat Slags", "slug_title": "the-fat-slags", "date": "1992-01-01", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j40JCDbVbREqvhGohmflVYQZM5Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

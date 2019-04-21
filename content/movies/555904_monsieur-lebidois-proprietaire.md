@@ -1,0 +1,1 @@
+{"tmdb_id": 555904, "title": "Monsieur Lebidois propri\u00e9taire", "original_title": "Monsieur Lebidois propri\u00e9taire", "slug_title": "monsieur-lebidois-proprietaire", "date": "1923-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

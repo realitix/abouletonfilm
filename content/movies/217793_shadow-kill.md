@@ -1,0 +1,1 @@
+{"tmdb_id": 217793, "title": "Shadow Kill", "original_title": "Shadow Kill", "slug_title": "shadow-kill", "date": "2004-09-10", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laureta Meci (Shadow Operative)", "Peter Conboy (FBI Agent Peter Parker Jr.)"], "comments": [], "recommandations_id": []}

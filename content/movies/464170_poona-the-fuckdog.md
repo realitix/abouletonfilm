@@ -1,0 +1,1 @@
+{"tmdb_id": 464170, "title": "Poona the Fuckdog", "original_title": "Poona the Fuckdog", "slug_title": "poona-the-fuckdog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVkGz8UUtomP4KHFKYvbMbcZ5aa.jpg", "actors": [], "comments": [], "recommandations_id": []}

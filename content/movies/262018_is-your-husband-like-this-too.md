@@ -1,0 +1,1 @@
+{"tmdb_id": 262018, "title": "Is Your Husband Like This Too?", "original_title": "\ub301\uc758 \uc544\ube60\ub3c4 \uc774\ub807\uc2b5\ub2c8\uae4c", "slug_title": "is-your-husband-like-this-too", "date": "1971-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shin Seong-il ()"], "comments": [], "recommandations_id": []}

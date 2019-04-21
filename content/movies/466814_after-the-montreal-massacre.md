@@ -1,0 +1,1 @@
+{"tmdb_id": 466814, "title": "After the Montreal Massacre", "original_title": "After the Montreal Massacre", "slug_title": "after-the-montreal-massacre", "date": "1990-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/SDTw6i8XA90CLDPP811wFVpHiL.jpg", "actors": [], "comments": [], "recommandations_id": []}

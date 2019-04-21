@@ -1,0 +1,1 @@
+{"tmdb_id": 395846, "title": "A Wedding in Ramallah", "original_title": "A Wedding in Ramallah", "slug_title": "a-wedding-in-ramallah", "date": "2002-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLJ2pUtFMWq6EEmnqeNKtkdGwSb.jpg", "actors": [], "comments": [], "recommandations_id": []}

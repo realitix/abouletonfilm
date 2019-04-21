@@ -1,0 +1,1 @@
+{"tmdb_id": 337495, "title": "Inside Islam: What a Billion Muslims Really Think", "original_title": "Inside Islam: What a Billion Muslims Really Think", "slug_title": "inside-islam-what-a-billion-muslims-really-think", "date": "2014-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

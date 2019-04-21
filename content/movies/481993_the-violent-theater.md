@@ -1,0 +1,1 @@
+{"tmdb_id": 481993, "title": "The Violent Theater", "original_title": "Det Voldelige Teater", "slug_title": "the-violent-theater", "date": "2017-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Fynne (Himself)", "Christian Vester (Himself)"], "comments": [], "recommandations_id": []}

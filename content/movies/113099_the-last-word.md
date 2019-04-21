@@ -1,0 +1,1 @@
+{"tmdb_id": 113099, "title": "The Last Word", "original_title": "The Last Word", "slug_title": "the-last-word", "date": "2008-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYCvjrAOapHX7waZtUR7CAg24Zc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 287466, "title": "Jake Bugg At Pinkpop", "original_title": "Jake Bugg At Pinkpop", "slug_title": "jake-bugg-at-pinkpop", "date": "2014-06-09", "genre": "Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7svwAXroMGMGSMXQOlqHv1E80rw.jpg", "actors": ["Jake Bugg (Himself)"], "comments": [], "recommandations_id": []}

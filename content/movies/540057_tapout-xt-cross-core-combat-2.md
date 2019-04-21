@@ -1,0 +1,1 @@
+{"tmdb_id": 540057, "title": "Tapout XT - Cross Core Combat 2", "original_title": "Tapout XT - Cross Core Combat 2", "slug_title": "tapout-xt-cross-core-combat-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gjG52RhejXj7wSLj4QruwkHytsV.jpg", "actors": [], "comments": [], "recommandations_id": []}

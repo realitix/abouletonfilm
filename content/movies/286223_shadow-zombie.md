@@ -1,0 +1,1 @@
+{"tmdb_id": 286223, "title": "Shadow Zombie", "original_title": "Shadow Zombie", "slug_title": "shadow-zombie", "date": "2013-10-04", "genre": "Romance / Horreur", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l4HNNjVGmPSTdqVmrna7Vw3OUb0.jpg", "actors": ["Kim Filth (Kim)"], "comments": [], "recommandations_id": []}

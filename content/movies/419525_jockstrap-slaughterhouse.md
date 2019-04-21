@@ -1,0 +1,1 @@
+{"tmdb_id": 419525, "title": "Jockstrap Slaughterhouse", "original_title": "Jockstrap Slaughterhouse", "slug_title": "jockstrap-slaughterhouse", "date": "2016-10-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 374372, "title": "Thumbs Down", "original_title": "Thumbs Down", "slug_title": "thumbs-down", "date": "1968-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

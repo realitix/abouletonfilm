@@ -1,0 +1,1 @@
+{"tmdb_id": 339106, "title": "Diagnosing Difference", "original_title": "Diagnosing Difference", "slug_title": "diagnosing-difference", "date": "2009-06-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCd7BosCeA4n7afJgXzrKWySERi.jpg", "actors": [], "comments": [], "recommandations_id": []}

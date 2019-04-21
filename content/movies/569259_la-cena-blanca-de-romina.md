@@ -1,0 +1,1 @@
+{"tmdb_id": 569259, "title": "La cena blanca de Romina", "original_title": "La cena blanca de Romina", "slug_title": "la-cena-blanca-de-romina", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296589, "title": "Anima Mundi Brasil: Amor e \u00d3dio", "original_title": "Anima Mundi Brasil: Amor e \u00d3dio", "slug_title": "anima-mundi-brasil-amor-e-odio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

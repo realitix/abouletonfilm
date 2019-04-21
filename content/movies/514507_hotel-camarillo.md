@@ -1,0 +1,1 @@
+{"tmdb_id": 514507, "title": "Hotel Camarillo", "original_title": "Hotel Camarillo", "slug_title": "hotel-camarillo", "date": "", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574920, "title": "La Saga Warner", "original_title": "La Saga Warner", "slug_title": "la-saga-warner", "date": "2014-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

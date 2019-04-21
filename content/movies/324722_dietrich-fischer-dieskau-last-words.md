@@ -1,0 +1,1 @@
+{"tmdb_id": 324722, "title": "Dietrich Fischer-Dieskau: Last Words", "original_title": "Dietrich Fischer-Dieskau: Last Words", "slug_title": "dietrich-fischer-dieskau-last-words", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

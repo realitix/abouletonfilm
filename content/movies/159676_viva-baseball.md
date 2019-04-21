@@ -1,0 +1,1 @@
+{"tmdb_id": 159676, "title": "Viva Baseball", "original_title": "Viva Baseball", "slug_title": "viva-baseball", "date": "2012-08-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRSb2Nt6rMivW4duXy3ZyxS46c4.jpg", "actors": ["Chang Han ()"], "comments": [], "recommandations_id": []}

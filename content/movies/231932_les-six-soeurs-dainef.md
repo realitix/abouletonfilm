@@ -1,0 +1,1 @@
+{"tmdb_id": 231932, "title": "Les Six s\u0153urs Dainef", "original_title": "Les Six s\u0153urs Dainef", "slug_title": "les-six-soeurs-dainef", "date": "1903-04-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

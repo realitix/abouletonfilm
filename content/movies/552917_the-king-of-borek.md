@@ -1,0 +1,1 @@
+{"tmdb_id": 552917, "title": "The King of B\u00f6rek", "original_title": "The King of B\u00f6rek", "slug_title": "the-king-of-borek", "date": "2018-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgwnxZPWEylvASPwwZjMR4NDk42.jpg", "actors": [], "comments": [], "recommandations_id": []}

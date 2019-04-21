@@ -1,0 +1,1 @@
+{"tmdb_id": 480235, "title": "Prehistory of the Partisans", "original_title": "Paruchizan Zenshi", "slug_title": "prehistory-of-the-partisans", "date": "1969-10-08", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0OxgRubU5938QjD20kk1zkPIBR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421224, "title": "The Naked Poet", "original_title": "The Naked Poet", "slug_title": "the-naked-poet", "date": "2016-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mCFERFsEz60DZlMHACndm0949Cu.jpg", "actors": [], "comments": [], "recommandations_id": []}

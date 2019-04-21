@@ -1,0 +1,1 @@
+{"tmdb_id": 348144, "title": "Sukalde kontuak", "original_title": "Sukalde kontuak", "slug_title": "sukalde-kontuak", "date": "2009-05-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ram\u00f3n Agirre ()", "Eva Argui\u00f1ano ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583524, "title": "New York Girls TV: The Movie", "original_title": "New York Girls TV: The Movie", "slug_title": "new-york-girls-tv-the-movie", "date": "2017-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yeqMbOALPJpjr0jp16BuCaEJNAt.jpg", "actors": [], "comments": [], "recommandations_id": []}

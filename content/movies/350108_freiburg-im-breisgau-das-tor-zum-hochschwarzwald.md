@@ -1,0 +1,1 @@
+{"tmdb_id": 350108, "title": "Freiburg im Breisgau, das Tor zum Hochschwarzwald", "original_title": "Freiburg im Breisgau, das Tor zum Hochschwarzwald", "slug_title": "freiburg-im-breisgau-das-tor-zum-hochschwarzwald", "date": "1936-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 201199, "title": "Bug Crawls", "original_title": "Bug Crawls", "slug_title": "bug-crawls", "date": "2007-01-30", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0lo5paUzr1XMlVyJDPd5zGxIdu.jpg", "actors": [], "comments": [], "recommandations_id": [368825, 108451, 271115, 210833]}

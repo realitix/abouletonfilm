@@ -1,0 +1,1 @@
+{"tmdb_id": 234025, "title": "Semidokyumento henshitsu-sha", "original_title": "Semidokyumento henshitsu-sha", "slug_title": "semidokyumento-henshitsu-sha", "date": "1973-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rbY5pPbfDZ3TSZYal1kSOIffeMd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 74556, "title": "Monster Squad Forever!", "original_title": "Monster Squad Forever!", "slug_title": "monster-squad-forever", "date": "2007-07-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWFEnOBgoOEUPDuPw3lWJJOQTuk.jpg", "actors": [], "comments": [], "recommandations_id": []}

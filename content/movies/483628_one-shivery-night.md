@@ -1,0 +1,1 @@
+{"tmdb_id": 483628, "title": "One Shivery Night", "original_title": "One Shivery Night", "slug_title": "one-shivery-night", "date": "1950-07-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh)", "Dudley Dickerson (Julius)"], "comments": [], "recommandations_id": []}

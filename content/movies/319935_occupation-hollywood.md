@@ -1,0 +1,1 @@
+{"tmdb_id": 319935, "title": "Occupation: Hollywood", "original_title": "Occupation: Hollywood", "slug_title": "occupation-hollywood", "date": "2008-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

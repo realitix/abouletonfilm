@@ -1,0 +1,1 @@
+{"tmdb_id": 333085, "title": "The Murderess", "original_title": "Al-Qatila", "slug_title": "the-murderess", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

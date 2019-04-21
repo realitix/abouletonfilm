@@ -1,0 +1,1 @@
+{"tmdb_id": 45445, "title": "Hot Cop in the City", "original_title": "Hot Cop in the City", "slug_title": "hot-cop-in-the-city", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

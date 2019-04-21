@@ -1,0 +1,1 @@
+{"tmdb_id": 78050, "title": "Loaded Guns: The Movie", "original_title": "Loaded Guns: The Movie", "slug_title": "loaded-guns-the-movie", "date": "", "genre": "Com\u00e9die", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtgjXCrLiWAYTHYeM0EB3ayN3on.jpg", "actors": [], "comments": [], "recommandations_id": []}

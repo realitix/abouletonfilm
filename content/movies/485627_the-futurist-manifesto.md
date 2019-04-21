@@ -1,0 +1,1 @@
+{"tmdb_id": 485627, "title": "The Futurist Manifesto", "original_title": "The Futurist Manifesto", "slug_title": "the-futurist-manifesto", "date": "2012-01-08", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVvsoJNPnpPQAYr0dtvvvyrXrHH.jpg", "actors": [], "comments": [], "recommandations_id": []}

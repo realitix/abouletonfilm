@@ -1,0 +1,1 @@
+{"tmdb_id": 552254, "title": "La gente resta", "original_title": "La gente resta", "slug_title": "la-gente-resta", "date": "2015-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35q2ZiQnyBnQ69AxoJz7jWsUXQx.jpg", "actors": [], "comments": [], "recommandations_id": []}

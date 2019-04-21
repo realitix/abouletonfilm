@@ -1,0 +1,1 @@
+{"tmdb_id": 308577, "title": "Axl Rose: The Prettiest Star", "original_title": "Axl Rose: The Prettiest Star", "slug_title": "axl-rose-the-prettiest-star", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 319069, "title": "Censored Voices", "original_title": "Censored Voices", "slug_title": "censored-voices", "date": "2015-01-24", "genre": "Histoire / Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmKiGwo30QdsWQ6EwzGeU3NfTh8.jpg", "actors": ["Amos Oz ()"], "comments": [], "recommandations_id": []}

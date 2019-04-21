@@ -1,0 +1,1 @@
+{"tmdb_id": 558625, "title": "Bike Fucking, Polo", "original_title": "Bike Fucking, Polo", "slug_title": "bike-fucking-polo", "date": "2012-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["ReMac ()", "Pepper ()"], "comments": [], "recommandations_id": []}

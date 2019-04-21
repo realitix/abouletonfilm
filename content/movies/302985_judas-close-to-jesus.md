@@ -1,0 +1,1 @@
+{"tmdb_id": 302985, "title": "Judas: Close to Jesus", "original_title": "Judas: Close to Jesus", "slug_title": "judas-close-to-jesus", "date": "2001-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPJl3o8KAh0zMFSWccGj0yE2E0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

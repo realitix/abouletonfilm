@@ -1,0 +1,1 @@
+{"tmdb_id": 573912, "title": "Coraz\u00f3n de Roca con Sangre", "original_title": "Coraz\u00f3n de Roca con Sangre", "slug_title": "corazon-de-roca-con-sangre", "date": "1975-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gSs39TnKBdB68HzhHji9fmqSn0p.jpg", "actors": [], "comments": [], "recommandations_id": []}

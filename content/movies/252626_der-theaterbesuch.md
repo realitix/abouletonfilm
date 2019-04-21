@@ -1,0 +1,1 @@
+{"tmdb_id": 252626, "title": "Der Theaterbesuch", "original_title": "Der Theaterbesuch", "slug_title": "der-theaterbesuch", "date": "1934-04-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liesl Karlstadt (Fanny)", "Karl Valentin (Fanny's Husband)"], "comments": [], "recommandations_id": []}

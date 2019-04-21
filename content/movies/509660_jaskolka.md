@@ -1,0 +1,1 @@
+{"tmdb_id": 509660, "title": "Jask\u00f3\u0142ka", "original_title": "Jask\u00f3\u0142ka", "slug_title": "jaskolka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/am9jxvkAHdBwGW9rRg6plsMykef.jpg", "actors": [], "comments": [], "recommandations_id": []}

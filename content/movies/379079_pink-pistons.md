@@ -1,0 +1,1 @@
+{"tmdb_id": 379079, "title": "Pink Pistons", "original_title": "Pink Pistons", "slug_title": "pink-pistons", "date": "1966-03-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oUO9VRmH4XqFhFxwrPAus49fed.jpg", "actors": [], "comments": [], "recommandations_id": []}

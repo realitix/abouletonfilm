@@ -1,0 +1,1 @@
+{"tmdb_id": 592635, "title": "Works of the Fish Man", "original_title": "Edoko hanj\u00f4ki", "slug_title": "works-of-the-fish-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

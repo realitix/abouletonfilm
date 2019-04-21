@@ -1,0 +1,1 @@
+{"tmdb_id": 556844, "title": "Product Wars", "original_title": "Product Wars", "slug_title": "product-wars", "date": "2018-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aA1sWZTI4pAx6At2AqPJVCnC3g9.jpg", "actors": [], "comments": [], "recommandations_id": []}

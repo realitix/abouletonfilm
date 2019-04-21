@@ -1,0 +1,1 @@
+{"tmdb_id": 569526, "title": "Chronicles", "original_title": "Chronicles", "slug_title": "chronicles", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Kuchar ()", "Mike Kuchar ()", "Bob Cowan ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300248, "title": "NBA Courtside Comedy", "original_title": "NBA Courtside Comedy", "slug_title": "nba-courtside-comedy", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9p6RGDlFXzne4GG3fjNtVS3sOY.jpg", "actors": [], "comments": [], "recommandations_id": []}

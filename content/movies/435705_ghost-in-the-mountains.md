@@ -1,0 +1,1 @@
+{"tmdb_id": 435705, "title": "Ghost in the Mountains", "original_title": "Kong shan yi ke", "slug_title": "ghost-in-the-mountains", "date": "2017-02-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aQuyhAG6utx8NjpkWFtT6hwc5Hn.jpg", "actors": [], "comments": [], "recommandations_id": []}

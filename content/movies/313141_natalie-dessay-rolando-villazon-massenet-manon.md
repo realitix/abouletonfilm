@@ -1,0 +1,1 @@
+{"tmdb_id": 313141, "title": "Natalie Dessay & Rolando Villazon: Massenet: Manon", "original_title": "Natalie Dessay & Rolando Villazon: Massenet: Manon", "slug_title": "natalie-dessay-rolando-villazon-massenet-manon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

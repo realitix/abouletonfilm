@@ -1,0 +1,1 @@
+{"tmdb_id": 531803, "title": "Gumby's Christmas Capers", "original_title": "Gumby's Christmas Capers", "slug_title": "gumby-s-christmas-capers", "date": "2015-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dC47zSiiREJLVbciLp8kNt0jaMd.jpg", "actors": [], "comments": [], "recommandations_id": []}

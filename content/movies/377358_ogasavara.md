@@ -1,0 +1,1 @@
+{"tmdb_id": 377358, "title": "Ogasavara", "original_title": "Ogasavara", "slug_title": "ogasavara", "date": "2015-10-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 88856, "title": "Black Lion", "original_title": "Kuro no shishi", "slug_title": "black-lion", "date": "1992-11-21", "genre": "Animation / Action / Aventure", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3NHXZ8evo9IbvkFtat9F9HY8ll.jpg", "actors": [], "comments": [], "recommandations_id": [19738, 15227]}

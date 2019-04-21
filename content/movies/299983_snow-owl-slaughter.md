@@ -1,0 +1,1 @@
+{"tmdb_id": 299983, "title": "Snow Owl Slaughter", "original_title": "Snow Owl Slaughter", "slug_title": "snow-owl-slaughter", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

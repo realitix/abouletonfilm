@@ -1,0 +1,1 @@
+{"tmdb_id": 503113, "title": "Manifestoon", "original_title": "Manifestoon", "slug_title": "manifestoon", "date": "1995-02-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

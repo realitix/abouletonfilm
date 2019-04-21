@@ -1,0 +1,1 @@
+{"tmdb_id": 350166, "title": "\uaca8\uc6b8\uc0ac\ub791", "original_title": "\uaca8\uc6b8\uc0ac\ub791", "slug_title": "gyeoulsarang", "date": "1980-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

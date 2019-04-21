@@ -1,0 +1,1 @@
+{"tmdb_id": 269432, "title": "The Madman and The Cathedral", "original_title": "Catedral", "slug_title": "the-madman-and-the-cathedral", "date": "2009-01-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

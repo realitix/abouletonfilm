@@ -1,0 +1,1 @@
+{"tmdb_id": 240636, "title": "Rhinoceros", "original_title": "Die Nash\u00f6rner", "slug_title": "rhinoceros", "date": "1964-02-01", "genre": "Animation", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m7iVm8qCKo7pxsvwmmWQWWbpygH.jpg", "actors": [], "comments": [], "recommandations_id": [250686, 401224, 511, 91515]}

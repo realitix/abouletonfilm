@@ -1,0 +1,1 @@
+{"tmdb_id": 341345, "title": "Mary & Johnny", "original_title": "Mary & Johnny", "slug_title": "mary-johnny", "date": "2012-07-05", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/me0gZze8QMAqM9Tad1s6bsVpYEV.jpg", "actors": [], "comments": [], "recommandations_id": []}

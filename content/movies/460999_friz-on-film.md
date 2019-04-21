@@ -1,0 +1,1 @@
+{"tmdb_id": 460999, "title": "Friz on Film", "original_title": "Friz on Film", "slug_title": "friz-on-film", "date": "2006-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ac7sSzRRzDBO9a6fkXP26v8mDJN.jpg", "actors": ["Friz Freleng (Himself)"], "comments": [], "recommandations_id": []}

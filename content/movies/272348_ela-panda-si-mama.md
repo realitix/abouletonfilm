@@ -1,0 +1,1 @@
+{"tmdb_id": 272348, "title": "Ela, Panda, si Mama", "original_title": "Ela, Panda, si Mama", "slug_title": "ela-panda-si-mama", "date": "2014-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

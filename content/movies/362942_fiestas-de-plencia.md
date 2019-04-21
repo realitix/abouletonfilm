@@ -1,0 +1,1 @@
+{"tmdb_id": 362942, "title": "Fiestas de Plencia", "original_title": "Fiestas de Plencia", "slug_title": "fiestas-de-plencia", "date": "1927-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

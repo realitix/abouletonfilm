@@ -1,0 +1,1 @@
+{"tmdb_id": 458429, "title": "Dia de Vaquejada", "original_title": "Dia de Vaquejada", "slug_title": "dia-de-vaquejada", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512069, "title": "Stilettos for Shanghai", "original_title": "Stilettos for Shanghai", "slug_title": "stilettos-for-shanghai", "date": "2017-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lkmCrReBfH7lGyx336IFwRhDQ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

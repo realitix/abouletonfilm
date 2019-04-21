@@ -1,0 +1,1 @@
+{"tmdb_id": 456726, "title": "Struggle", "original_title": "Struggle", "slug_title": "struggle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

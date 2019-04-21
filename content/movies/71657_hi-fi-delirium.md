@@ -1,0 +1,1 @@
+{"tmdb_id": 71657, "title": "Hi-Fi Delirium", "original_title": "Hi-Fi Delirium", "slug_title": "hi-fi-delirium", "date": "2003-11-08", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOilFVcqjKOdPaoSY9NrpBbt6m2.jpg", "actors": [], "comments": [], "recommandations_id": []}

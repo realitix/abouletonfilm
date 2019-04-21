@@ -1,0 +1,1 @@
+{"tmdb_id": 179143, "title": "The Haunted Lantern", "original_title": "Otsuyu: Kaidan botan-d\u00f4r\u00f4", "slug_title": "the-haunted-lantern", "date": "1998-04-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VtgjrcXbwLHkPcXPzUDxcu88Ax.jpg", "actors": [], "comments": [], "recommandations_id": []}

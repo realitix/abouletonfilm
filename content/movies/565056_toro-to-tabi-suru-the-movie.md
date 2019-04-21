@@ -1,0 +1,1 @@
+{"tmdb_id": 565056, "title": "Toro to Tabi Suru: The Movie", "original_title": "\u30c8\u30ed\u3068\u65c5\u3059\u308bTHE MOVIE", "slug_title": "toro-to-tabi-suru-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jV4PGILtyML3qCY8LdR97yReApN.jpg", "actors": [], "comments": [], "recommandations_id": []}

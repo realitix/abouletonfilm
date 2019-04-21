@@ -1,0 +1,1 @@
+{"tmdb_id": 334542, "title": "Professor Goudet Lessons", "original_title": "La le\u00e7on du professeur Goudet", "slug_title": "professor-goudet-lessons", "date": "2013-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["St\u00e9phane Goudet ()"], "comments": [], "recommandations_id": []}

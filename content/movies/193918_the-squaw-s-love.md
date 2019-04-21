@@ -1,0 +1,1 @@
+{"tmdb_id": 193918, "title": "The Squaw's Love", "original_title": "The Squaw's Love", "slug_title": "the-squaw-s-love", "date": "1911-09-13", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXaubYzAgQXxLWPDem7vmegasaX.jpg", "actors": ["Mabel Normand (Wild Flower)"], "comments": [], "recommandations_id": []}

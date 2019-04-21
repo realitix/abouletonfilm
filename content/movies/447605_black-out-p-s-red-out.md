@@ -1,0 +1,1 @@
+{"tmdb_id": 447605, "title": "Black Out p.s. Red Out", "original_title": "Black Out p.s. Red Out", "slug_title": "black-out-p-s-red-out", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

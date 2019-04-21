@@ -1,0 +1,1 @@
+{"tmdb_id": 368293, "title": "Schwarz und ohne sucker", "original_title": "Schwarz und ohne sucker", "slug_title": "schwarz-und-ohne-sucker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

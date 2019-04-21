@@ -1,0 +1,1 @@
+{"tmdb_id": 550351, "title": "Les \u00e9l\u00e9phants de l'Inde", "original_title": "Les \u00e9l\u00e9phants de l'Inde", "slug_title": "les-elephants-de-l-inde", "date": "1907-12-14", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

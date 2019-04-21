@@ -1,0 +1,1 @@
+{"tmdb_id": 305061, "title": "Shot Up & Shot Down", "original_title": "Shot Up & Shot Down", "slug_title": "shot-up-shot-down", "date": "2013-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

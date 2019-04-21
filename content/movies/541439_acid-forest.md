@@ -1,0 +1,1 @@
+{"tmdb_id": 541439, "title": "Acid Forest", "original_title": "R\u016bg\u0161tus mi\u0161kas", "slug_title": "acid-forest", "date": "2018-08-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stQQyo7bPsp9B30DIPVH6f0W5EQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

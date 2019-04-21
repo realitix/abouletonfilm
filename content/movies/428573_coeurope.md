@@ -1,0 +1,1 @@
+{"tmdb_id": 428573, "title": "C\u0153urope", "original_title": "C\u0153urope", "slug_title": "coeurope", "date": "2016-11-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

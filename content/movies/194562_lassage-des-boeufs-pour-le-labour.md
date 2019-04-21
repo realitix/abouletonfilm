@@ -1,0 +1,1 @@
+{"tmdb_id": 194562, "title": "Lassage des boeufs pour le labour", "original_title": "Lassage des boeufs pour le labour", "slug_title": "lassage-des-boeufs-pour-le-labour", "date": "1896-05-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 502301, "title": "Paris la belle", "original_title": "Paris la belle", "slug_title": "paris-la-belle", "date": "1960-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

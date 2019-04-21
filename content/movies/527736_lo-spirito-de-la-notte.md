@@ -1,0 +1,1 @@
+{"tmdb_id": 527736, "title": "Lo Spirito de La Notte", "original_title": "Lo Spirito de La Notte", "slug_title": "lo-spirito-de-la-notte", "date": "2018-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTi110VWi5KmVlnktAYWGYU36dE.jpg", "actors": [], "comments": [], "recommandations_id": []}

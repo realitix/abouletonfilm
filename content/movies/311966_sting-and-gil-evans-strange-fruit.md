@@ -1,0 +1,1 @@
+{"tmdb_id": 311966, "title": "Sting and Gil Evans: Strange Fruit", "original_title": "Sting and Gil Evans: Strange Fruit", "slug_title": "sting-and-gil-evans-strange-fruit", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

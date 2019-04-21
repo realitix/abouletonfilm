@@ -1,0 +1,1 @@
+{"tmdb_id": 526800, "title": "Giant Beavers of Southern Sri Lanka", "original_title": "Giant Beavers of Southern Sri Lanka", "slug_title": "giant-beavers-of-southern-sri-lanka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

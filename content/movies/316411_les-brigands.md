@@ -1,0 +1,1 @@
+{"tmdb_id": 316411, "title": "Les Brigands", "original_title": "Les Brigands", "slug_title": "les-brigands", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

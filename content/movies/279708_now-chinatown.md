@@ -1,0 +1,1 @@
+{"tmdb_id": 279708, "title": "Now Chinatown", "original_title": "Now Chinatown", "slug_title": "now-chinatown", "date": "2000-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307260, "title": "A Dog's Pal", "original_title": "A Dog's Pal", "slug_title": "a-dog-s-pal", "date": "1927-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jerry Madden ()"], "comments": [], "recommandations_id": []}

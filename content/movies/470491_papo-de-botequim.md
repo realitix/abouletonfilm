@@ -1,0 +1,1 @@
+{"tmdb_id": 470491, "title": "Papo de Botequim", "original_title": "Papo de Botequim", "slug_title": "papo-de-botequim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

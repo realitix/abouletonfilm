@@ -1,0 +1,1 @@
+{"tmdb_id": 512856, "title": "Bel\u00e9m do Par\u00e1", "original_title": "Bel\u00e9m do Par\u00e1", "slug_title": "belem-do-para", "date": "1966-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/krJ6V8w550KaBqAnhbmXOAL0lud.jpg", "actors": [], "comments": [], "recommandations_id": []}

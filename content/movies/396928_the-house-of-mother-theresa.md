@@ -1,0 +1,1 @@
+{"tmdb_id": 396928, "title": "The House of Mother Theresa", "original_title": "D\u016fm Matky Terezy", "slug_title": "the-house-of-mother-theresa", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7i7JuEP8fqz6U1ldhaC7oHYA23k.jpg", "actors": [], "comments": [], "recommandations_id": []}

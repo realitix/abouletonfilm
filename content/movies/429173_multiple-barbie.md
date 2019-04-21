@@ -1,0 +1,1 @@
+{"tmdb_id": 429173, "title": "Multiple Barbie", "original_title": "Multiple Barbie", "slug_title": "multiple-barbie", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Gibbons ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593592, "title": "\u4eac\u90fd\u592a\u79e6\u7269\u8a9e", "original_title": "\u4eac\u90fd\u592a\u79e6\u7269\u8a9e", "slug_title": "jing-du-tai-qin-wu-yu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/As7ZmPSpejLhj2AB6FSoV3MaPJm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 568346, "title": "P\u00e9kin Central", "original_title": "P\u00e9kin Central", "slug_title": "pekin-central", "date": "1986-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gF9lgqagSBZSW73FZINGQ7ePXC2.jpg", "actors": [], "comments": [], "recommandations_id": []}

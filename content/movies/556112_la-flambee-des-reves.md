@@ -1,0 +1,1 @@
+{"tmdb_id": 556112, "title": "La flamb\u00e9e des r\u00eaves", "original_title": "La flamb\u00e9e des r\u00eaves", "slug_title": "la-flambee-des-reves", "date": "1924-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

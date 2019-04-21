@@ -1,0 +1,1 @@
+{"tmdb_id": 62942, "title": "The Doors - Dance On Fire", "original_title": "The Doors - Dance On Fire", "slug_title": "the-doors-dance-on-fire", "date": "1985-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mM3nBT7KZOWfsCB7D3Dq4B7JLM6.jpg", "actors": [], "comments": [], "recommandations_id": []}

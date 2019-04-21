@@ -1,0 +1,1 @@
+{"tmdb_id": 390938, "title": "Deleting Dad", "original_title": "Borrando a pap\u00e1", "slug_title": "deleting-dad", "date": "2014-08-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPvnHQQBs4wG6k5W1gAAv34Gyqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

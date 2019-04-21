@@ -1,0 +1,1 @@
+{"tmdb_id": 434367, "title": "Mystery of Room 13 - 1938", "original_title": "Mystery of Room 13 - 1938", "slug_title": "mystery-of-room-13-1938", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

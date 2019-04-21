@@ -1,0 +1,1 @@
+{"tmdb_id": 265142, "title": "Alle Reicht\u00fcmer der Welt", "original_title": "Alle Reicht\u00fcmer der Welt", "slug_title": "alle-reichtumer-der-welt", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Reyer ()", "Ursula Lingen ()", "K\u00e4the Gold ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271018, "title": "Burma Displaced", "original_title": "Burma Displaced", "slug_title": "burma-displaced", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

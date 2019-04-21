@@ -1,0 +1,1 @@
+{"tmdb_id": 236086, "title": "Riot in Rhythm", "original_title": "Riot in Rhythm", "slug_title": "riot-in-rhythm", "date": "1950-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

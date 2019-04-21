@@ -1,0 +1,1 @@
+{"tmdb_id": 256716, "title": "Last Call", "original_title": "Last Call", "slug_title": "last-call", "date": "2013-08-18", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ameztOLvrYWY2QmlLUidqMKm0Sh.jpg", "actors": ["Mariann Flores ()", "Bryan Santos ()"], "comments": [], "recommandations_id": []}

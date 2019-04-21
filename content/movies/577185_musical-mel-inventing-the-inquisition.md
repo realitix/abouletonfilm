@@ -1,0 +1,1 @@
+{"tmdb_id": 577185, "title": "Musical Mel: Inventing The Inquisition", "original_title": "Musical Mel: Inventing The Inquisition", "slug_title": "musical-mel-inventing-the-inquisition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

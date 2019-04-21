@@ -1,0 +1,1 @@
+{"tmdb_id": 590425, "title": "Up North", "original_title": "Up North", "slug_title": "up-north", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

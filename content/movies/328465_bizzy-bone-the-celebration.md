@@ -1,0 +1,1 @@
+{"tmdb_id": 328465, "title": "Bizzy Bone - The Celebration", "original_title": "Bizzy Bone - The Celebration", "slug_title": "bizzy-bone-the-celebration", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ithnougQek05ZtqDdyauFAUBNYL.jpg", "actors": [], "comments": [], "recommandations_id": []}

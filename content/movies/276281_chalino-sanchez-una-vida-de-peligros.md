@@ -1,0 +1,1 @@
+{"tmdb_id": 276281, "title": "Chalino Sanchez: Una vida de peligros", "original_title": "Chalino Sanchez: Una vida de peligros", "slug_title": "chalino-sanchez-una-vida-de-peligros", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

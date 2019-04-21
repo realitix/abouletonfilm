@@ -1,0 +1,1 @@
+{"tmdb_id": 556142, "title": "L'abb\u00e9 Constantin", "original_title": "L'abb\u00e9 Constantin", "slug_title": "l-abbe-constantin", "date": "1925-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

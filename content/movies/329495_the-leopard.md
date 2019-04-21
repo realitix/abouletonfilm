@@ -1,0 +1,1 @@
+{"tmdb_id": 329495, "title": "The Leopard", "original_title": "\u0627\u0644\u0641\u0647\u062f", "slug_title": "the-leopard", "date": "1972-01-02", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0f5zA15iImtRqYfMmCe1PHgih8.jpg", "actors": ["Ahmad Addas ()", "Khaled Taja ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 285377, "title": "On the Far Shore", "original_title": "Na dalyokom beregu", "slug_title": "on-the-far-shore", "date": "1927-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 268625, "title": "Diana: A Life Through a Lens", "original_title": "Diana: A Life Through a Lens", "slug_title": "diana-a-life-through-a-lens", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

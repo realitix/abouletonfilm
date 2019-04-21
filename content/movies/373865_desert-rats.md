@@ -1,0 +1,1 @@
+{"tmdb_id": 373865, "title": "Desert Rats", "original_title": "Desert Rats", "slug_title": "desert-rats", "date": "1988-08-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott Plank (Joshua Bodeen)", "Scott Paulin (Bones)", "Diedrich Bader (Mort)", "Mark Thomas Miller (Owen)"], "comments": [], "recommandations_id": []}

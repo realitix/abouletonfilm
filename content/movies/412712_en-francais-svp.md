@@ -1,0 +1,1 @@
+{"tmdb_id": 412712, "title": "En Francais SVP", "original_title": "En Francais SVP", "slug_title": "en-francais-svp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

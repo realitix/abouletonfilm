@@ -1,0 +1,1 @@
+{"tmdb_id": 152574, "title": "Seeds of Resiliency", "original_title": "Seeds of Resiliency", "slug_title": "seeds-of-resiliency", "date": "2012-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

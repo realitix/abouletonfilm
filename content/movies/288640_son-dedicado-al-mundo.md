@@ -1,0 +1,1 @@
+{"tmdb_id": 288640, "title": "Son dedicado al mundo", "original_title": "Son dedicado al mundo", "slug_title": "son-dedicado-al-mundo", "date": "1972-01-01", "genre": "Musique", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whvwbqONfMVqtJidvPpmQ2DNtMa.jpg", "actors": [], "comments": [], "recommandations_id": []}

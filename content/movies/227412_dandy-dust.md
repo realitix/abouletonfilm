@@ -1,0 +1,1 @@
+{"tmdb_id": 227412, "title": "Dandy Dust", "original_title": "Dandy Dust", "slug_title": "dandy-dust", "date": "1998-08-14", "genre": "Science-Fiction", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/teyv4kdTYl0Nks2fVi5FxFOT9a8.jpg", "actors": [], "comments": [], "recommandations_id": []}

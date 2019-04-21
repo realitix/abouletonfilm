@@ -1,0 +1,1 @@
+{"tmdb_id": 206869, "title": "Fightland", "original_title": "Fightland", "slug_title": "fightland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qN1AMztlmirRqqQWTUh2uqIpuL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 490603, "title": "Magic Moments at Memorial Stadium", "original_title": "Magic Moments at Memorial Stadium", "slug_title": "magic-moments-at-memorial-stadium", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

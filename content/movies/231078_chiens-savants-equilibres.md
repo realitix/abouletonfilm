@@ -1,0 +1,1 @@
+{"tmdb_id": 231078, "title": "Chiens savants: Equilibres", "original_title": "Chiens savants: Equilibres", "slug_title": "chiens-savants-equilibres", "date": "1899-10-28", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

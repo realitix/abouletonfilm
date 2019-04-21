@@ -1,0 +1,1 @@
+{"tmdb_id": 333781, "title": "Halil the Bandit", "original_title": "Eskiya Halil", "slug_title": "halil-the-bandit", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

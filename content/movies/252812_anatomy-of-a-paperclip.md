@@ -1,0 +1,1 @@
+{"tmdb_id": 252812, "title": "Anatomy of a Paperclip", "original_title": "Yamamori clip koujo no atari", "slug_title": "anatomy-of-a-paperclip", "date": "2013-10-02", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckFNKEhCRONa8Bi6wYCyUjbdIOa.jpg", "actors": [], "comments": [], "recommandations_id": []}

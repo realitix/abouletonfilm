@@ -1,0 +1,1 @@
+{"tmdb_id": 485705, "title": "Scratch Scratch Scratch", "original_title": "Scratch Scratch Scratch", "slug_title": "scratch-scratch-scratch", "date": "1955-04-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Sheriff Andy Clyde)"], "comments": [], "recommandations_id": []}

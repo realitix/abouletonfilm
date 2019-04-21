@@ -1,0 +1,1 @@
+{"tmdb_id": 492416, "title": "Lovebites", "original_title": "Lovebites", "slug_title": "lovebites", "date": "2015-01-09", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gjvmQtQBCBthArkSozFRowmUc7q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504931, "title": "The Strange Life and Death of Dr Turing", "original_title": "The Strange Life and Death of Dr Turing", "slug_title": "the-strange-life-and-death-of-dr-turing", "date": "1992-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 259751, "title": "Domrabotnitsa", "original_title": "Domrabotnitsa", "slug_title": "domrabotnitsa", "date": "2011-03-20", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZRN2n7Z4FRpTZO0w4dfdCJ8ykq.jpg", "actors": [], "comments": [], "recommandations_id": []}

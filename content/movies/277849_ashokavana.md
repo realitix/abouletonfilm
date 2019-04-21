@@ -1,0 +1,1 @@
+{"tmdb_id": 277849, "title": "Ashokavana", "original_title": "Ashokavana", "slug_title": "ashokavana", "date": "2014-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohan ()", "Tejaswini Prakash ()", "Komal Kumar ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 416447, "title": "East Coast Grow", "original_title": "East Coast Grow", "slug_title": "east-coast-grow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 485760, "title": "Kabale und Liebe", "original_title": "Kabale und Liebe", "slug_title": "kabale-und-liebe", "date": "1976-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erich Auer ()", "Klaus Maria Brandauer ()", "Gertraud Jesserer ()", "Johanna Matz ()"], "comments": [], "recommandations_id": []}

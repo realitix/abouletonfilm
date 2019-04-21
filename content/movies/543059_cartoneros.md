@@ -1,0 +1,1 @@
+{"tmdb_id": 543059, "title": "Cartoneros", "original_title": "Cartoneros", "slug_title": "cartoneros", "date": "2006-08-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yUFFkwzJp3L7prWXoG3fy8j7Z8B.jpg", "actors": ["Ernesto Livon-Grosman ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 84241, "title": "Avenged Sevenfold: All Excess", "original_title": "Avenged Sevenfold: All Excess", "slug_title": "avenged-sevenfold-all-excess", "date": "2007-07-17", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lsDSycc3Ce7DU9v6wTcKLcVC68p.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 306245, "title": "Work as Play", "original_title": "Work as Play", "slug_title": "work-as-play", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Watts (Himself)"], "comments": [], "recommandations_id": []}

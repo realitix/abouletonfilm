@@ -1,0 +1,1 @@
+{"tmdb_id": 423027, "title": "Creature from under the Bridge", "original_title": "Creature from under the Bridge", "slug_title": "creature-from-under-the-bridge", "date": "2016-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5ISMVohNIgadlYFqGOUGbi06fU.jpg", "actors": [], "comments": [], "recommandations_id": []}

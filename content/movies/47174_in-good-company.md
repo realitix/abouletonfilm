@@ -1,0 +1,1 @@
+{"tmdb_id": 47174, "title": "In Good Company", "original_title": "In Good Company", "slug_title": "in-good-company", "date": "2008-02-05", "genre": "Com\u00e9die / Musique / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eHKCuF842RnGKPDPcWN2zskzgw1.jpg", "actors": ["Josh Ritter ()"], "comments": [], "recommandations_id": []}

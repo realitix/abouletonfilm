@@ -1,0 +1,1 @@
+{"tmdb_id": 543154, "title": "Mysterious Doctor Satan Doctor Satan Strikes", "original_title": "Mysterious Doctor Satan Doctor Satan Strikes", "slug_title": "mysterious-doctor-satan-doctor-satan-strikes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576894, "title": "\u00d6yle ya da B\u00f6yle", "original_title": "\u00d6yle ya da B\u00f6yle", "slug_title": "oyle-ya-da-boyle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57KUh3ezLJxLLwmGaF7EB81cUF7.jpg", "actors": [], "comments": [], "recommandations_id": []}

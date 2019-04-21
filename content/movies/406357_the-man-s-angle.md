@@ -1,0 +1,1 @@
+{"tmdb_id": 406357, "title": "The Man's Angle", "original_title": "The Man's Angle", "slug_title": "the-man-s-angle", "date": "1942-08-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wrNzg9OzXffKK0d7PF5px7XwMS.jpg", "actors": [], "comments": [], "recommandations_id": []}

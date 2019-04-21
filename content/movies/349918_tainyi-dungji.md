@@ -1,0 +1,1 @@
+{"tmdb_id": 349918, "title": "\ud0c0\uc778\uc758 \ub465\uc9c0", "original_title": "\ud0c0\uc778\uc758 \ub465\uc9c0", "slug_title": "tainyi-dungji", "date": "1982-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

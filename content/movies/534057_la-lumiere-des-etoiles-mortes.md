@@ -1,0 +1,1 @@
+{"tmdb_id": 534057, "title": "La lumi\u00e8re des \u00e9toiles mortes", "original_title": "La lumi\u00e8re des \u00e9toiles mortes", "slug_title": "la-lumiere-des-etoiles-mortes", "date": "1994-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

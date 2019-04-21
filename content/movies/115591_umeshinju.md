@@ -1,0 +1,1 @@
+{"tmdb_id": 115591, "title": "Umeshinju", "original_title": "Umeshinju", "slug_title": "umeshinju", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

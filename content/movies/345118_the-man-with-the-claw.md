@@ -1,0 +1,1 @@
+{"tmdb_id": 345118, "title": "The Man with the Claw", "original_title": "L'Uomo dall'Artiglio", "slug_title": "the-man-with-the-claw", "date": "1931-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

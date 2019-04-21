@@ -1,0 +1,1 @@
+{"tmdb_id": 276286, "title": "Dand Nayak", "original_title": "Dand Nayak", "slug_title": "dand-nayak", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

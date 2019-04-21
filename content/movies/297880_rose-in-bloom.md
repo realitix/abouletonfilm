@@ -1,0 +1,1 @@
+{"tmdb_id": 297880, "title": "Rose in Bloom", "original_title": "Rose in Bloom", "slug_title": "rose-in-bloom", "date": "2014-10-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8q9CkyNP5YBKi60OsncFQcMBx27.jpg", "actors": ["Diana Fraser (Rose)"], "comments": [], "recommandations_id": []}

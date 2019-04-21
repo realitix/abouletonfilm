@@ -1,0 +1,1 @@
+{"tmdb_id": 184342, "title": "The Lazarus Effect", "original_title": "The Lazarus Effect", "slug_title": "the-lazarus-effect", "date": "2010-02-09", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9JnLDihXeR4b0Ko7u4oVRYOCBG.jpg", "actors": [], "comments": [], "recommandations_id": []}

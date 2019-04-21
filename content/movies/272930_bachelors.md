@@ -1,0 +1,1 @@
+{"tmdb_id": 272930, "title": "Bachelors", "original_title": "Bachelors", "slug_title": "bachelors", "date": "2008-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

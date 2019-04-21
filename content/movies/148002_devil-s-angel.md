@@ -1,0 +1,1 @@
+{"tmdb_id": 148002, "title": "Devil's Angel", "original_title": "Devil's Angel", "slug_title": "devil-s-angel", "date": "2010-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wO2LKNYwit5pjXWntihucHc4m0.jpg", "actors": [], "comments": [], "recommandations_id": []}

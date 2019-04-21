@@ -1,0 +1,1 @@
+{"tmdb_id": 237214, "title": "Duniyadari", "original_title": "Duniyadari", "slug_title": "duniyadari", "date": "2014-07-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prvn3tboXu0n93NTVSUMjbLfAS6.jpg", "actors": [], "comments": [], "recommandations_id": []}

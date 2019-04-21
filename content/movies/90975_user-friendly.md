@@ -1,0 +1,1 @@
+{"tmdb_id": 90975, "title": "User Friendly", "original_title": "User Friendly", "slug_title": "user-friendly", "date": "1990-03-18", "genre": "Com\u00e9die / Science-Fiction", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1MLzsfq05qjSgNNZuTiaRwmDEOa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422650, "title": "A Peleja do Cordel", "original_title": "A Peleja do Cordel", "slug_title": "a-peleja-do-cordel", "date": "2011-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pL9lBKG265XeM41zmBvDdW31NJb.jpg", "actors": ["Gustavo Dourado ()"], "comments": [], "recommandations_id": []}

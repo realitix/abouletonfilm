@@ -1,0 +1,1 @@
+{"tmdb_id": 522459, "title": "Alter Ego", "original_title": "Alter Ego", "slug_title": "alter-ego", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uS3CpZjHE9ego8NI9cV5UOa3QT3.jpg", "actors": ["Omotola Jalade-Ekeinde ()"], "comments": [], "recommandations_id": []}

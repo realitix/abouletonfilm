@@ -1,0 +1,1 @@
+{"tmdb_id": 508088, "title": "Mem\u00f3ria Cubana", "original_title": "Mem\u00f3ria Cubana", "slug_title": "memoria-cubana", "date": "2010-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

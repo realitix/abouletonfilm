@@ -1,0 +1,1 @@
+{"tmdb_id": 271329, "title": "Stories from the Black Tradition", "original_title": "Stories from the Black Tradition", "slug_title": "stories-from-the-black-tradition", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

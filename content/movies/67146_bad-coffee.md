@@ -1,0 +1,1 @@
+{"tmdb_id": 67146, "title": "Bad Coffee", "original_title": "Bad Coffee", "slug_title": "bad-coffee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Verch (Complainer)", "Payce Yeomans (Fed Up Guy)", "Jessica Morrow (Waitress)", "Jesse Brown (Disgraced Owner)"], "comments": [], "recommandations_id": []}

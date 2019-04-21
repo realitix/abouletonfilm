@@ -1,0 +1,1 @@
+{"tmdb_id": 306875, "title": "Strega Nona", "original_title": "Strega Nona", "slug_title": "strega-nona", "date": "1977-01-01", "genre": "Familial / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBs9ywBbIpG98psnoSzJTlfHkl7.jpg", "actors": [], "comments": [], "recommandations_id": []}

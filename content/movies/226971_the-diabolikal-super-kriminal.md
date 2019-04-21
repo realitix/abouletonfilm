@@ -1,0 +1,1 @@
+{"tmdb_id": 226971, "title": "The Diabolikal Super-Kriminal", "original_title": "The Diabolikal Super-Kriminal", "slug_title": "the-diabolikal-super-kriminal", "date": "2007-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBTS6sw3GImYSegFyU2VE9BHyFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

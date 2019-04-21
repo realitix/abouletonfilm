@@ -1,0 +1,1 @@
+{"tmdb_id": 236821, "title": "A Place to Live", "original_title": "A Place to Live", "slug_title": "a-place-to-live", "date": "1941-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

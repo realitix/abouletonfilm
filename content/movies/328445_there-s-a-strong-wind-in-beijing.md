@@ -1,0 +1,1 @@
+{"tmdb_id": 328445, "title": "There's a Strong Wind in Beijing", "original_title": "Beijing de feng hen da", "slug_title": "there-s-a-strong-wind-in-beijing", "date": "2000-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/coMkT3m1QxTaBhhvINEM8vjmA0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

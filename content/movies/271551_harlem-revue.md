@@ -1,0 +1,1 @@
+{"tmdb_id": 271551, "title": "Harlem Revue", "original_title": "Harlem Revue", "slug_title": "harlem-revue", "date": "1932-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Brown Sisters ()", "Bill Powers ()", "Zazzy ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 448218, "title": "30 Minutes to Fitness Lift", "original_title": "30 Minutes to Fitness Lift", "slug_title": "30-minutes-to-fitness-lift", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfy0AcCVQXl0wTcGWTjEV1A10mv.jpg", "actors": [], "comments": [], "recommandations_id": []}

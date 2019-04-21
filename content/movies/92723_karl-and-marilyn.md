@@ -1,0 +1,1 @@
+{"tmdb_id": 92723, "title": "Karl and Marilyn", "original_title": "Karl Ja Marilyn", "slug_title": "karl-and-marilyn", "date": "2003-05-29", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4oJoHAfPxow5qwBWuPvor00balf.jpg", "actors": [], "comments": [], "recommandations_id": []}

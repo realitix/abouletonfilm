@@ -1,0 +1,1 @@
+{"tmdb_id": 568735, "title": "The Videoton Story", "original_title": "A Videoton sztori", "slug_title": "the-videoton-story", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

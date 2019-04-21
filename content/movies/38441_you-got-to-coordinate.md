@@ -1,0 +1,1 @@
+{"tmdb_id": 38441, "title": "You Got to Coordinate", "original_title": "You Got to Coordinate", "slug_title": "you-got-to-coordinate", "date": "2008-03-28", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tC5DcPrklwlrrsprycgQ37o30fB.jpg", "actors": ["John Witherspoon (Self)"], "comments": [], "recommandations_id": []}

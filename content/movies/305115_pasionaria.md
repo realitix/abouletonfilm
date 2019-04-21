@@ -1,0 +1,1 @@
+{"tmdb_id": 305115, "title": "Pasionaria", "original_title": "Pasionaria", "slug_title": "pasionaria", "date": "1915-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerardo Pe\u00f1a ()", "T\u00f3rtola Valencia ()"], "comments": [], "recommandations_id": []}

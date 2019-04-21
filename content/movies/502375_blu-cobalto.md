@@ -1,0 +1,1 @@
+{"tmdb_id": 502375, "title": "Blu cobalto", "original_title": "Blu cobalto", "slug_title": "blu-cobalto", "date": "1985-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

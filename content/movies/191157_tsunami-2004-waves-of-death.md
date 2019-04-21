@@ -1,0 +1,1 @@
+{"tmdb_id": 191157, "title": "Tsunami 2004: Waves of Death", "original_title": "Tsunami 2004: Waves of Death", "slug_title": "tsunami-2004-waves-of-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYoApc6nSXvKQZYBMCNyw4JXPKv.jpg", "actors": [], "comments": [], "recommandations_id": []}

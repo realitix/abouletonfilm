@@ -1,0 +1,1 @@
+{"tmdb_id": 349862, "title": "\uc5b4\ub460\uc758 \ub538\ub4e4", "original_title": "\uc5b4\ub460\uc758 \ub538\ub4e4", "slug_title": "eodumyi-ddaldeul", "date": "1982-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

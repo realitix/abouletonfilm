@@ -1,0 +1,1 @@
+{"tmdb_id": 240444, "title": "Symphony of a City", "original_title": "M\u00e4nniskor i stad", "slug_title": "symphony-of-a-city", "date": "1947-08-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkovISWizwgHRtIe4EdvPVp9c5v.jpg", "actors": [], "comments": [], "recommandations_id": []}

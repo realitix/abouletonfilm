@@ -1,0 +1,1 @@
+{"tmdb_id": 474823, "title": "When Hitler Invaded America", "original_title": "When Hitler Invaded America", "slug_title": "when-hitler-invaded-america", "date": "2001-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9k0nIFZyZERfLys9VJcaPBBKFXu.jpg", "actors": [], "comments": [], "recommandations_id": []}

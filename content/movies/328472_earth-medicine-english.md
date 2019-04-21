@@ -1,0 +1,1 @@
+{"tmdb_id": 328472, "title": "Earth Medicine, English", "original_title": "Earth Medicine, English", "slug_title": "earth-medicine-english", "date": "2014-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

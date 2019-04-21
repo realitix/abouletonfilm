@@ -1,0 +1,1 @@
+{"tmdb_id": 353550, "title": "Allegoria", "original_title": "Allegoria", "slug_title": "allegoria", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCf6QlSgLjSq4RO1U8MQPnSH6My.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 148293, "title": "Pekko ja poika", "original_title": "Pekko ja poika", "slug_title": "pekko-ja-poika", "date": "1994-10-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRolIxvQqvS4zkNj12D9gkrRIKg.jpg", "actors": [], "comments": [], "recommandations_id": []}

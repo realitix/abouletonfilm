@@ -1,0 +1,1 @@
+{"tmdb_id": 468589, "title": "Hotdog Hustle", "original_title": "Hotdog Hustle", "slug_title": "hotdog-hustle", "date": "2011-08-12", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grEoJoiMRcMoQZH2scsAyoDN6lp.jpg", "actors": [], "comments": [], "recommandations_id": []}

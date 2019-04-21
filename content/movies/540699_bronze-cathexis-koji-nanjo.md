@@ -1,0 +1,1 @@
+{"tmdb_id": 540699, "title": "Bronze: Cathexis Koji Nanjo", "original_title": "BRONZE KoJI NANJo cathexis", "slug_title": "bronze-cathexis-koji-nanjo", "date": "1994-07-06", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

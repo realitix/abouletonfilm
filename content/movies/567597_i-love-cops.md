@@ -1,0 +1,1 @@
+{"tmdb_id": 567597, "title": "I Love Cops", "original_title": "I Love Cops", "slug_title": "i-love-cops", "date": "2008-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Duran (Himself)", "Al Cantu (Himself)", "Rico Roman (Himself)"], "comments": [], "recommandations_id": []}

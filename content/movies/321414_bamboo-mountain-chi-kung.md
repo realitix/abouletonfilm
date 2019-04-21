@@ -1,0 +1,1 @@
+{"tmdb_id": 321414, "title": "Bamboo Mountain Chi Kung", "original_title": "Bamboo Mountain Chi Kung", "slug_title": "bamboo-mountain-chi-kung", "date": "2006-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

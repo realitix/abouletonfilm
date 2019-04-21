@@ -1,0 +1,1 @@
+{"tmdb_id": 232154, "title": "Auto Boat Race on the Hudson", "original_title": "Auto Boat Race on the Hudson", "slug_title": "auto-boat-race-on-the-hudson", "date": "1904-06-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541427, "title": "The Flock of the Lord", "original_title": "Die Herde des Herrn", "slug_title": "the-flock-of-the-lord", "date": "2011-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

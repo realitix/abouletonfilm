@@ -1,0 +1,1 @@
+{"tmdb_id": 277042, "title": "Love Rome", "original_title": "Love Rome", "slug_title": "love-rome", "date": "2004-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

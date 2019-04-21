@@ -1,0 +1,1 @@
+{"tmdb_id": 64251, "title": "Jamarama Live! Kidsfest", "original_title": "Jamarama Live! Kidsfest", "slug_title": "jamarama-live-kidsfest", "date": "", "genre": "Familial / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dS7RO6YOjCTYWsbEnL6MqNm6V6t.jpg", "actors": [], "comments": [], "recommandations_id": []}

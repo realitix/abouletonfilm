@@ -1,0 +1,1 @@
+{"tmdb_id": 545613, "title": "Akira Kurosawa: It Is Wonderful to Create: Ran", "original_title": "Akira Kurosawa: It Is Wonderful to Create: Ran", "slug_title": "akira-kurosawa-it-is-wonderful-to-create-ran", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

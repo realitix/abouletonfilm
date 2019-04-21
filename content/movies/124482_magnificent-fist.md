@@ -1,0 +1,1 @@
+{"tmdb_id": 124482, "title": "Magnificent Fist", "original_title": "Tie dan ying xiong", "slug_title": "magnificent-fist", "date": "1978-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DoZtFlh3YiXAdHfI2zk5CgYDEh.jpg", "actors": ["Carter Wong ()"], "comments": [], "recommandations_id": []}

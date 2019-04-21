@@ -1,0 +1,1 @@
+{"tmdb_id": 479812, "title": "OETA's On The Record: Ken Burns", "original_title": "OETA's On The Record: Ken Burns", "slug_title": "oeta-s-on-the-record-ken-burns", "date": "2014-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ken Burns ()"], "comments": [], "recommandations_id": []}

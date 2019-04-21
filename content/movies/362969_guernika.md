@@ -1,0 +1,1 @@
+{"tmdb_id": 362969, "title": "Guernika", "original_title": "Guernika", "slug_title": "guernika", "date": "1937-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

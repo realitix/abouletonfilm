@@ -1,0 +1,1 @@
+{"tmdb_id": 64021, "title": "Max & Ruby's Halloween", "original_title": "Max & Ruby's Halloween", "slug_title": "max-ruby-s-halloween", "date": "2006-01-01", "genre": "Familial / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Pq4d2rHhrehSllrITjCZDvCQDr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 555996, "title": "L'aventurier", "original_title": "L'aventurier", "slug_title": "l-aventurier", "date": "1924-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

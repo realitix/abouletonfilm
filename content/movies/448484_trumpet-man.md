@@ -1,0 +1,1 @@
+{"tmdb_id": 448484, "title": "Trumpet Man", "original_title": "Trumpet Man", "slug_title": "trumpet-man", "date": "2016-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nz2PhhuWFRDBX4v2p74oI19xSWd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 111932, "title": "The Columbia River", "original_title": "The Columbia River", "slug_title": "the-columbia-river", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

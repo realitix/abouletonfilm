@@ -1,0 +1,1 @@
+{"tmdb_id": 389823, "title": "Barry Manilow: Live From Paris Las Vegas", "original_title": "Barry Manilow: Live From Paris Las Vegas", "slug_title": "barry-manilow-live-from-paris-las-vegas", "date": "2004-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barry Manilow (self)"], "comments": [], "recommandations_id": []}

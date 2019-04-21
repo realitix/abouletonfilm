@@ -1,0 +1,1 @@
+{"tmdb_id": 517537, "title": "Deutschland-Tournee", "original_title": "Deutschland-Tournee", "slug_title": "deutschland-tournee", "date": "1984-06-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ulrike Kriener (Gudrun)", "Verena Plangger (Krabbe)", "Hans Richter (Robert)"], "comments": [], "recommandations_id": []}

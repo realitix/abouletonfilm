@@ -1,0 +1,1 @@
+{"tmdb_id": 564707, "title": "Higuchi Ichiyo Monogatari", "original_title": "Higuchi Ichiyo Monogatari", "slug_title": "higuchi-ichiyo-monogatari", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uchiyama Rina (Higuchi Natsu (Ichiyo))", "Masaru Nagai ()", "Noguchi Goro ()"], "comments": [], "recommandations_id": []}

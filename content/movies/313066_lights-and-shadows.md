@@ -1,0 +1,1 @@
+{"tmdb_id": 313066, "title": "Lights and Shadows", "original_title": "Lights and Shadows", "slug_title": "lights-and-shadows", "date": "2013-02-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvHCVl5gl7vcMrzGRz9HLzuErAF.jpg", "actors": [], "comments": [], "recommandations_id": []}

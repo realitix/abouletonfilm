@@ -1,0 +1,1 @@
+{"tmdb_id": 317256, "title": "Judo Kudos", "original_title": "Judo Kudos", "slug_title": "judo-kudos", "date": "1968-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

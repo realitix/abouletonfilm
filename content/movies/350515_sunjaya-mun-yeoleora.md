@@ -1,0 +1,1 @@
+{"tmdb_id": 350515, "title": "\uc21c\uc790\uc57c \ubb38 \uc5f4\uc5b4\ub77c", "original_title": "\uc21c\uc790\uc57c \ubb38 \uc5f4\uc5b4\ub77c", "slug_title": "sunjaya-mun-yeoleora", "date": "1979-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

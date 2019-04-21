@@ -1,0 +1,1 @@
+{"tmdb_id": 524440, "title": "Legion of the Doomed", "original_title": "Legion of the Doomed", "slug_title": "legion-of-the-doomed", "date": "1958-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z3MCfhdE0D6MUUwfUSOTEqX3w6G.jpg", "actors": [], "comments": [], "recommandations_id": []}

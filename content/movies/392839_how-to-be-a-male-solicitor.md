@@ -1,0 +1,1 @@
+{"tmdb_id": 392839, "title": "How to be a Male Solicitor", "original_title": "How to be a Male Solicitor", "slug_title": "how-to-be-a-male-solicitor", "date": "2016-04-14", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nap Burke (Himself)"], "comments": [], "recommandations_id": []}

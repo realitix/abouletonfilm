@@ -1,0 +1,1 @@
+{"tmdb_id": 277607, "title": "Lucky Dog", "original_title": "Lucky Dog", "slug_title": "lucky-dog", "date": "2014-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdxtBvCoUlEAHPeEes1VQkaFRZP.jpg", "actors": [], "comments": [], "recommandations_id": []}

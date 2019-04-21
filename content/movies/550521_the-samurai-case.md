@@ -1,0 +1,1 @@
+{"tmdb_id": 550521, "title": "The Samurai case", "original_title": "Med D\u00f8den Til F\u00f8lge", "slug_title": "the-samurai-case", "date": "2011-03-16", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

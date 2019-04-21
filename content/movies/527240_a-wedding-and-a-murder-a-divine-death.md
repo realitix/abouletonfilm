@@ -1,0 +1,1 @@
+{"tmdb_id": 527240, "title": "A Wedding and a Murder: A Divine Death", "original_title": "A Wedding and a Murder: A Divine Death", "slug_title": "a-wedding-and-a-murder-a-divine-death", "date": "", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

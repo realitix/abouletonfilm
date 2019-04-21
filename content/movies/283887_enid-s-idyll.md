@@ -1,0 +1,1 @@
+{"tmdb_id": 283887, "title": "Enid's Idyll", "original_title": "Enid's Idyll", "slug_title": "enid-s-idyll", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJmqMFdkBvGTXDolwm7c47Opofk.jpg", "actors": [], "comments": [], "recommandations_id": []}

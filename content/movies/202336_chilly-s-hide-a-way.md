@@ -1,0 +1,1 @@
+{"tmdb_id": 202336, "title": "Chilly's Hide-a-Way", "original_title": "Chilly's Hide-a-Way", "slug_title": "chilly-s-hide-a-way", "date": "1971-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnjWQgnyOS3qxruN3hlJcIKuMXl.jpg", "actors": [], "comments": [], "recommandations_id": []}

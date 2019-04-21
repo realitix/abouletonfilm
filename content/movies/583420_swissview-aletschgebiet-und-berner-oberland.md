@@ -1,0 +1,1 @@
+{"tmdb_id": 583420, "title": "SwissView - Aletschgebiet und Berner Oberland", "original_title": "SwissView - Aletschgebiet und Berner Oberland", "slug_title": "swissview-aletschgebiet-und-berner-oberland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

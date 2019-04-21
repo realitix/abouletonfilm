@@ -1,0 +1,1 @@
+{"tmdb_id": 106058, "title": "Mr. Rossi Goes Skiing", "original_title": "Il Signor Rossi va a Sciare", "slug_title": "mr-rossi-goes-skiing", "date": "1963-01-01", "genre": "Animation / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zc2e0Lxsrh029aKdrC9sm7dMZfy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394130, "title": "Picasso: The Man and His Work Part 2 (1937-1973)", "original_title": "Picasso: The Man and His Work Part 2 (1937-1973)", "slug_title": "picasso-the-man-and-his-work-part-2-1937-1973", "date": "1976-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

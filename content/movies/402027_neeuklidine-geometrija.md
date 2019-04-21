@@ -1,0 +1,1 @@
+{"tmdb_id": 402027, "title": "Neeuklidine geometrija", "original_title": "Neeuklidine geometrija", "slug_title": "neeuklidine-geometrija", "date": "2014-07-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

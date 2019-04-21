@@ -1,0 +1,1 @@
+{"tmdb_id": 472357, "title": "Bj\u00f6rk - Vessel", "original_title": "Bj\u00f6rk - Vessel", "slug_title": "bjork-vessel", "date": "2003-01-13", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mN1wubGrFH6LX7jC9qrPUn8bQ7V.jpg", "actors": [], "comments": [], "recommandations_id": []}

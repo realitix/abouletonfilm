@@ -1,0 +1,1 @@
+{"tmdb_id": 141590, "title": "Binding Silence", "original_title": "Binding Silence", "slug_title": "binding-silence", "date": "2006-10-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

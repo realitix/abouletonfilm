@@ -1,0 +1,1 @@
+{"tmdb_id": 482630, "title": "Bassidji", "original_title": "Bassidji", "slug_title": "bassidji", "date": "2009-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d69adp0alZTIXugFD3yxUquf8Ex.jpg", "actors": [], "comments": [], "recommandations_id": []}

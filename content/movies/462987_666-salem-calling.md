@@ -1,0 +1,1 @@
+{"tmdb_id": 462987, "title": "666: Salem Calling", "original_title": "666: Salem Calling", "slug_title": "666-salem-calling", "date": "2017-02-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1atozeuH2CgQGPvK21PGt7q5ABL.jpg", "actors": [], "comments": [], "recommandations_id": []}

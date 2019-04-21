@@ -1,0 +1,1 @@
+{"tmdb_id": 436923, "title": "Cindy Goes to a Party", "original_title": "Cindy Goes to a Party", "slug_title": "cindy-goes-to-a-party", "date": "1955-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

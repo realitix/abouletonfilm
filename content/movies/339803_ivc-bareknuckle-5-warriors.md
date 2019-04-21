@@ -1,0 +1,1 @@
+{"tmdb_id": 339803, "title": "IVC Bareknuckle 5: Warriors", "original_title": "IVC Bareknuckle 5: Warriors", "slug_title": "ivc-bareknuckle-5-warriors", "date": "2015-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

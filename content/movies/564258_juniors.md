@@ -1,0 +1,1 @@
+{"tmdb_id": 564258, "title": "Juniors", "original_title": "Juniors", "slug_title": "juniors", "date": "2003-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allari Naresh (Mahesh)", "Sherin Shringar (Pooja)", "Tanikella Bharani ()", "Prakash Raj ()"], "comments": [], "recommandations_id": []}

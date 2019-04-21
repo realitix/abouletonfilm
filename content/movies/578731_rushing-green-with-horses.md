@@ -1,0 +1,1 @@
+{"tmdb_id": 578731, "title": "Rushing Green with Horses", "original_title": "Rasendes Gr\u00fcn mit Pferden", "slug_title": "rushing-green-with-horses", "date": "2019-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iKZ5w6b4jCj85ZwpH6qfkD4auL.jpg", "actors": [], "comments": [], "recommandations_id": []}

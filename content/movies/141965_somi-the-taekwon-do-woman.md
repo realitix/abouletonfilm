@@ -1,0 +1,1 @@
+{"tmdb_id": 141965, "title": "Somi, The Taekwon-Do Woman", "original_title": "Somi, The Taekwon-Do Woman", "slug_title": "somi-the-taekwon-do-woman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

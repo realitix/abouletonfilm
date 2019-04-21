@@ -1,0 +1,1 @@
+{"tmdb_id": 347362, "title": "Butcher's Hook", "original_title": "Butcher's Hook", "slug_title": "butcher-s-hook", "date": "1995-07-02", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fsfibE05Un42MOGDm8Mlx3PLK5w.jpg", "actors": ["Barrie Houghton (Taxidermist)"], "comments": [], "recommandations_id": []}

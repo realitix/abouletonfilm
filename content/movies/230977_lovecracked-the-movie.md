@@ -1,0 +1,1 @@
+{"tmdb_id": 230977, "title": "LovecraCked! The Movie", "original_title": "LovecraCked! The Movie", "slug_title": "lovecracked-the-movie", "date": "2006-07-24", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Zhz7bx0rNSV04rYkO7HxZoDGpx.jpg", "actors": [], "comments": [], "recommandations_id": []}

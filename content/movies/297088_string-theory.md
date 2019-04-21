@@ -1,0 +1,1 @@
+{"tmdb_id": 297088, "title": "String Theory", "original_title": "Teor\u00eda de cuerdas", "slug_title": "string-theory", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pcL4eJJNzvK8ylYuUy3FrQmbbTp.jpg", "actors": [], "comments": [], "recommandations_id": []}

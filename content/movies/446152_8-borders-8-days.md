@@ -1,0 +1,1 @@
+{"tmdb_id": 446152, "title": "8 Borders, 8 Days", "original_title": "8 Borders, 8 Days", "slug_title": "8-borders-8-days", "date": "2017-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aV2lEKI14owKYs2v8dhsuuwHUba.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 407062, "title": "Mahou Shoujo Lalabel: Umi ga Yobu Natsuyasumi", "original_title": "Mahou Shoujo Lalabel: Umi ga Yobu Natsuyasumi", "slug_title": "mahou-shoujo-lalabel-umi-ga-yobu-natsuyasumi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

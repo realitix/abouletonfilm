@@ -1,0 +1,1 @@
+{"tmdb_id": 387488, "title": "Rose and Rose Elaine", "original_title": "Rose and Rose Elaine", "slug_title": "rose-and-rose-elaine", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

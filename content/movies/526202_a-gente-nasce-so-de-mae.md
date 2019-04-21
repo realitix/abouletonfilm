@@ -1,0 +1,1 @@
+{"tmdb_id": 526202, "title": "A gente nasce s\u00f3 de m\u00e3e", "original_title": "A gente nasce s\u00f3 de m\u00e3e", "slug_title": "a-gente-nasce-so-de-mae", "date": "2017-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2hWlO5LVnIQ2dBySOgl5vQNmkdr.jpg", "actors": [], "comments": [], "recommandations_id": []}

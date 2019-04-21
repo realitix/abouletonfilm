@@ -1,0 +1,1 @@
+{"tmdb_id": 401953, "title": "I'd Rather Be in Paris", "original_title": "I'd Rather Be in Paris", "slug_title": "i-d-rather-be-in-paris", "date": "1982-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ku6O62jb3bPbxqGdraBRuTYjkuR.jpg", "actors": [], "comments": [], "recommandations_id": []}

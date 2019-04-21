@@ -1,0 +1,1 @@
+{"tmdb_id": 437686, "title": "Film Print", "original_title": "Film Print", "slug_title": "film-print", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mxX44TohQpxqKIWMph0j2302QFm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539288, "title": "Juliet dans Paris", "original_title": "Juliet dans Paris", "slug_title": "juliet-dans-paris", "date": "1967-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIgaESZ9H2ubn7lGyVIC5fDLCar.jpg", "actors": ["Juliet Berto ()"], "comments": [], "recommandations_id": []}

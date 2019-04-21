@@ -1,0 +1,1 @@
+{"tmdb_id": 326432, "title": "Lo Chiamavamo Vicky", "original_title": "Lo Chiamavamo Vicky", "slug_title": "lo-chiamavamo-vicky", "date": "2011-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

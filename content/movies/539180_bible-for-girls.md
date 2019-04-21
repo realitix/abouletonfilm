@@ -1,0 +1,1 @@
+{"tmdb_id": 539180, "title": "Bible for Girls", "original_title": "Nu'er jing", "slug_title": "bible-for-girls", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Butterfly Wu ()", "Gao Zhan-Fei ()", "Yuexian Yan ()", "Xuan Jinglin ()", "Xiaoqiu Zheng ()"], "comments": [], "recommandations_id": []}

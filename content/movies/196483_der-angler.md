@@ -1,0 +1,1 @@
+{"tmdb_id": 196483, "title": "Der Angler", "original_title": "Der Angler", "slug_title": "der-angler", "date": "1907-05-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

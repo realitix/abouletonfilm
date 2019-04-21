@@ -1,0 +1,1 @@
+{"tmdb_id": 120035, "title": "The Fur Hat", "original_title": "Le Bonnet \u00e0 poil", "slug_title": "the-fur-hat", "date": "1907-01-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rLeCibyGRET3Ndi8lpuuPn21K3.jpg", "actors": [], "comments": [], "recommandations_id": [120012, 119980, 120010, 119988]}

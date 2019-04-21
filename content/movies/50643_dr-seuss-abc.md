@@ -1,0 +1,1 @@
+{"tmdb_id": 50643, "title": "Dr. Seuss' ABC", "original_title": "Dr. Seuss' ABC", "slug_title": "dr-seuss-abc", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Jl1LbCCi03EdjdYdldlPrkRfjc.jpg", "actors": [], "comments": [], "recommandations_id": []}

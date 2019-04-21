@@ -1,0 +1,1 @@
+{"tmdb_id": 501826, "title": "Stockholm", "original_title": "Stockholm", "slug_title": "stockholm", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maika Monroe ()", "Emory Cohen ()"], "comments": [], "recommandations_id": []}

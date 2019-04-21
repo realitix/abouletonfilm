@@ -1,0 +1,1 @@
+{"tmdb_id": 488940, "title": "September September", "original_title": "September September", "slug_title": "september-september", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tJCWXNcpEmCkpos4vBr9N8EJms.jpg", "actors": [], "comments": [], "recommandations_id": []}

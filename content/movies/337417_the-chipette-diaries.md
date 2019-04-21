@@ -1,0 +1,1 @@
+{"tmdb_id": 337417, "title": "The Chipette Diaries", "original_title": "The Chipette Diaries", "slug_title": "the-chipette-diaries", "date": "2012-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7lpmabbEyIqNSEVu9NprZMAESAk.jpg", "actors": [], "comments": [], "recommandations_id": []}

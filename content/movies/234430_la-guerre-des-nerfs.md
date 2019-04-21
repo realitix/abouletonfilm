@@ -1,0 +1,1 @@
+{"tmdb_id": 234430, "title": "La Guerre des nerfs", "original_title": "War and Pieces", "slug_title": "la-guerre-des-nerfs", "date": "1964-06-06", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9WAkxNOsKmlag1mVueB4JmvwSi.jpg", "actors": [], "comments": [], "recommandations_id": [223029, 223022]}

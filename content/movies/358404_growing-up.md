@@ -1,0 +1,1 @@
+{"tmdb_id": 358404, "title": "Growing Up", "original_title": "Growing Up", "slug_title": "growing-up", "date": "1971-01-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tRXfzcyYoNn6UdhOqCyYraOPkyn.jpg", "actors": ["Martin Cole (Himself - Narrator)"], "comments": [], "recommandations_id": []}

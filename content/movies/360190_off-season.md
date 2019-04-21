@@ -1,0 +1,1 @@
+{"tmdb_id": 360190, "title": "Off Season", "original_title": "\u00c9poca Baixa", "slug_title": "off-season", "date": "2014-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUV4VkWvccN8xVepSsHnm7rnWQV.jpg", "actors": [], "comments": [], "recommandations_id": []}

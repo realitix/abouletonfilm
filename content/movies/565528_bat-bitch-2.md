@@ -1,0 +1,1 @@
+{"tmdb_id": 565528, "title": "Bat Bitch 2", "original_title": "Bat Bitch 2", "slug_title": "bat-bitch-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacqueline ()", "Lauren Brice ()", "Tianna Taylor ()", "Marc Wallice ()", "Randy Spears ()"], "comments": [], "recommandations_id": []}

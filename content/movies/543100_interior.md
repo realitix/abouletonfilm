@@ -1,0 +1,1 @@
+{"tmdb_id": 543100, "title": "Interior", "original_title": "Interi\u00f8r", "slug_title": "interior", "date": "2018-09-06", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Al8vgDk4O4w37ueGyKAhcEjcVLN.jpg", "actors": ["Ane Dahl Torp ()", "Jens Ask\u00e6r Iversen ()"], "comments": [], "recommandations_id": []}

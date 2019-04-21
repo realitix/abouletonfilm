@@ -1,0 +1,1 @@
+{"tmdb_id": 584860, "title": "Kvelaferi Adamianebs", "original_title": "Kvelaferi Adamianebs", "slug_title": "kvelaferi-adamianebs", "date": "", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

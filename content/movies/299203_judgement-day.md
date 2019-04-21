@@ -1,0 +1,1 @@
+{"tmdb_id": 299203, "title": "Judgement Day", "original_title": "Judgement Day", "slug_title": "judgement-day", "date": "1983-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [250320, 315736, 306216, 166707]}

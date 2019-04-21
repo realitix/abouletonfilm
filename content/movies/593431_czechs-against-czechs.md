@@ -1,0 +1,1 @@
+{"tmdb_id": 593431, "title": "Czechs Against Czechs", "original_title": "\u010ce\u0161i proti \u010cech\u016fm", "slug_title": "czechs-against-czechs", "date": "2015-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9L9b4T71ed9djU9mFkZMUdziOL.jpg", "actors": [], "comments": [], "recommandations_id": []}

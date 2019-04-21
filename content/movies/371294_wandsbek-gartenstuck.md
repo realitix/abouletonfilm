@@ -1,0 +1,1 @@
+{"tmdb_id": 371294, "title": "Wandsbek Gartenst\u00fcck", "original_title": "Wandsbek Gartenst\u00fcck", "slug_title": "wandsbek-gartenstuck", "date": "1976-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

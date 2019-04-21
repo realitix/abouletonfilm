@@ -1,0 +1,1 @@
+{"tmdb_id": 317883, "title": "DMX: The Dark Prince", "original_title": "DMX: The Dark Prince", "slug_title": "dmx-the-dark-prince", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

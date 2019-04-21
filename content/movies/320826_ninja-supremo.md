@@ -1,0 +1,1 @@
+{"tmdb_id": 320826, "title": "Ninja Supremo", "original_title": "Ninja Supremo", "slug_title": "ninja-supremo", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528067, "title": "Chantmania", "original_title": "Chantmania", "slug_title": "chantmania", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3p3y5JAGSbfaf3YcarOzvnkJIC.jpg", "actors": [], "comments": [], "recommandations_id": []}

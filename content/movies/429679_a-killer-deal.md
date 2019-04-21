@@ -1,0 +1,1 @@
+{"tmdb_id": 429679, "title": "A Killer Deal", "original_title": "A Killer Deal", "slug_title": "a-killer-deal", "date": "2016-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uHBi37b7W6NMftMudRLxdCSfRcB.jpg", "actors": ["Lola LeSoleil (Charlie Powers)"], "comments": [], "recommandations_id": []}

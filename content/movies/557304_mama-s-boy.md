@@ -1,0 +1,1 @@
+{"tmdb_id": 557304, "title": "Mama's Boy", "original_title": "Mama's Boy", "slug_title": "mama-s-boy", "date": "1992-09-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Lee McLain (Ernie)"], "comments": [], "recommandations_id": []}

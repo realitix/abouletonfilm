@@ -1,0 +1,1 @@
+{"tmdb_id": 424562, "title": "The Artists", "original_title": "Die K\u00fcnstler", "slug_title": "the-artists", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTvhSThfCur1MPk6C2On3FT2Lhp.jpg", "actors": [], "comments": [], "recommandations_id": []}

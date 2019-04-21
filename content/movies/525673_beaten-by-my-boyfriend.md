@@ -1,0 +1,1 @@
+{"tmdb_id": 525673, "title": "Beaten by My Boyfriend", "original_title": "Beaten by My Boyfriend", "slug_title": "beaten-by-my-boyfriend", "date": "2015-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stacey Dooley (Herself - Presenter)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 86358, "title": "Simplemente Ruben Dario", "original_title": "Simplemente Ruben Dario", "slug_title": "simplemente-ruben-dario", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

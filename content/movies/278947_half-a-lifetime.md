@@ -1,0 +1,1 @@
+{"tmdb_id": 278947, "title": "Half a Lifetime", "original_title": "Half a Lifetime", "slug_title": "half-a-lifetime", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

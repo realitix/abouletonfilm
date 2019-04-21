@@ -1,0 +1,1 @@
+{"tmdb_id": 345185, "title": "Cimarrones", "original_title": "Cimarrones", "slug_title": "cimarrones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rigoberto Cueto ()", "Justine Guadalupe ()"], "comments": [], "recommandations_id": []}

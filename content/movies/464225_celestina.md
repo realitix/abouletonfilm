@@ -1,0 +1,1 @@
+{"tmdb_id": 464225, "title": "Celestina", "original_title": "Celestina", "slug_title": "celestina", "date": "2006-08-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

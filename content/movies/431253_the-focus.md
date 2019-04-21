@@ -1,0 +1,1 @@
+{"tmdb_id": 431253, "title": "The Focus", "original_title": "Fokus", "slug_title": "the-focus", "date": "1967-01-01", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aO4pBlrEBK3x5xHBDwfuVZVFc6N.jpg", "actors": [], "comments": [], "recommandations_id": []}

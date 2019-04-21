@@ -1,0 +1,1 @@
+{"tmdb_id": 270740, "title": "The Lessons of Polish Cinema", "original_title": "Lekcja polskiego kina", "slug_title": "the-lessons-of-polish-cinema", "date": "2002-04-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3JGRFx3YMwju8CBBK1xBWQqvpm.jpg", "actors": [], "comments": [], "recommandations_id": []}

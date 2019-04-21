@@ -1,0 +1,1 @@
+{"tmdb_id": 284390, "title": "Huang bao mei", "original_title": "Huang bao mei", "slug_title": "huang-bao-mei", "date": "1958-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mxcoi8pFnnpZMHFmPujodSa7ls.jpg", "actors": [], "comments": [], "recommandations_id": []}

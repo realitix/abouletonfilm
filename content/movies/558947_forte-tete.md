@@ -1,0 +1,1 @@
+{"tmdb_id": 558947, "title": "Forte t\u00eate", "original_title": "Forte t\u00eate", "slug_title": "forte-tete", "date": "1942-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJwg0RrabXBVDJRPX2PdZm8deyD.jpg", "actors": [], "comments": [], "recommandations_id": []}

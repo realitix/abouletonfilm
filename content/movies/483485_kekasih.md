@@ -1,0 +1,1 @@
+{"tmdb_id": 483485, "title": "Kekasih", "original_title": "Kekasih", "slug_title": "kekasih", "date": "2014-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

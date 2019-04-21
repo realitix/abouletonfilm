@@ -1,0 +1,1 @@
+{"tmdb_id": 532225, "title": "The Shed", "original_title": "The Shed", "slug_title": "the-shed", "date": "2012-05-11", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wArv9HrcV8YYZTKRanX2Fx5PrRO.jpg", "actors": ["Jamie Irvine (Al)", "Benedict Samuel (Creature)"], "comments": [], "recommandations_id": []}

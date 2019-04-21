@@ -1,0 +1,1 @@
+{"tmdb_id": 148998, "title": "Alcione - Ao Vivo", "original_title": "Alcione - Ao Vivo", "slug_title": "alcione-ao-vivo", "date": "2010-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2er00jSifGjJn3abD7u2BdEU5Yb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 315203, "title": "Amok Assault Video", "original_title": "Amok Assault Video", "slug_title": "amok-assault-video", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nrLr2eVkkE1AFs8SmKs0t0u8Ody.jpg", "actors": [], "comments": [], "recommandations_id": []}

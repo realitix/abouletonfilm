@@ -1,0 +1,1 @@
+{"tmdb_id": 345251, "title": "Que ser\u00e1, ser\u00e1", "original_title": "Que ser\u00e1, ser\u00e1", "slug_title": "que-sera-sera", "date": "2002-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Solveig Kloppen ()", "Robert Skj\u00e6rstad ()", "Espen Torkildsen ()"], "comments": [], "recommandations_id": []}

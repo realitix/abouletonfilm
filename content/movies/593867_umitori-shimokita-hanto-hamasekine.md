@@ -1,0 +1,1 @@
+{"tmdb_id": 593867, "title": "Umitori - Shimokita hanto Hamasekine", "original_title": "Umitori - Shimokita hanto Hamasekine", "slug_title": "umitori-shimokita-hanto-hamasekine", "date": "1984-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

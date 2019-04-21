@@ -1,0 +1,1 @@
+{"tmdb_id": 366870, "title": "El Asesino Entre Nosotros", "original_title": "El Asesino Entre Nosotros", "slug_title": "el-asesino-entre-nosotros", "date": "2015-11-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Esteban Arjel ()", "Rodrigo Gonz\u00e1lez ()", "Pilar Loyola ()"], "comments": [], "recommandations_id": []}

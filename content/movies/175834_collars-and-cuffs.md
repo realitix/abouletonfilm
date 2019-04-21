@@ -1,0 +1,1 @@
+{"tmdb_id": 175834, "title": "Collars and Cuffs", "original_title": "Collars and Cuffs", "slug_title": "collars-and-cuffs", "date": "1923-07-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJB2eHZ0rIodrfYQaOIa05wCuM9.jpg", "actors": ["Stan Laurel ()"], "comments": [], "recommandations_id": []}

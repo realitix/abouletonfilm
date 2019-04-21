@@ -1,0 +1,1 @@
+{"tmdb_id": 367991, "title": "Adonis XIV", "original_title": "\u0410\u0434\u043e\u043d\u0438\u0441 XIV", "slug_title": "adonis-xiv", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPISBKwOn2HRcshufYHgB5FOJ4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

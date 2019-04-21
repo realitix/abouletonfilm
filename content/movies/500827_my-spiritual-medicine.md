@@ -1,0 +1,1 @@
+{"tmdb_id": 500827, "title": "My Spiritual Medicine", "original_title": "My Spiritual Medicine", "slug_title": "my-spiritual-medicine", "date": "2011-11-11", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

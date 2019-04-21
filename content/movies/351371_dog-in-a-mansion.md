@@ -1,0 +1,1 @@
+{"tmdb_id": 351371, "title": "Dog in a Mansion", "original_title": "Dog in a Mansion", "slug_title": "dog-in-a-mansion", "date": "1940-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

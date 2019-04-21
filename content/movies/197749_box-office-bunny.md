@@ -1,0 +1,1 @@
+{"tmdb_id": 197749, "title": "Box-Office Bunny", "original_title": "Box-Office Bunny", "slug_title": "box-office-bunny", "date": "1990-05-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f7JELqKundYj64u9eikGxWBBsWK.jpg", "actors": [], "comments": [], "recommandations_id": []}

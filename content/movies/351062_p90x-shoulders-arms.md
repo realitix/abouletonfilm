@@ -1,0 +1,1 @@
+{"tmdb_id": 351062, "title": "P90X: Shoulders & Arms", "original_title": "P90X: Shoulders & Arms", "slug_title": "p90x-shoulders-arms", "date": "2004-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4JeGceYboqzs3Ss4Rokej8aOj7.jpg", "actors": ["Tony Horton (Himself)"], "comments": [], "recommandations_id": []}

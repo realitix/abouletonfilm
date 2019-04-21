@@ -1,0 +1,1 @@
+{"tmdb_id": 379467, "title": "Aches and Snakes", "original_title": "Aches and Snakes", "slug_title": "aches-and-snakes", "date": "1973-08-10", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer / Crazylegs Crane (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 306869, "title": "In the Reign of Electric Lightbulbs", "original_title": "Sa Paghahari ng mga Ilaw-Dagitab", "slug_title": "in-the-reign-of-electric-lightbulbs", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

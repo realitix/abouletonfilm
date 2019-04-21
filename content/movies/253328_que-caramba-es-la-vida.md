@@ -1,0 +1,1 @@
+{"tmdb_id": 253328, "title": "Que caramba es la vida", "original_title": "Que caramba es la vida", "slug_title": "que-caramba-es-la-vida", "date": "2014-03-11", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MPrrAgTvPc4hXBk9o4nicJ9Q4T.jpg", "actors": [], "comments": [], "recommandations_id": []}

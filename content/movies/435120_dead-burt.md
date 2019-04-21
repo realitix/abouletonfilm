@@ -1,0 +1,1 @@
+{"tmdb_id": 435120, "title": "Dead Burt", "original_title": "Dead Burt", "slug_title": "dead-burt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michalina Olsza\u0144ska ()"], "comments": [], "recommandations_id": []}

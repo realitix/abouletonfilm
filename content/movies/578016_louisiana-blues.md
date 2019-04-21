@@ -1,0 +1,1 @@
+{"tmdb_id": 578016, "title": "Louisiana Blues", "original_title": "Louisiana Blues", "slug_title": "louisiana-blues", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

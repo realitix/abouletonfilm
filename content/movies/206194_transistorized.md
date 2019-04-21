@@ -1,0 +1,1 @@
+{"tmdb_id": 206194, "title": "Transistorized!", "original_title": "Transistorized!", "slug_title": "transistorized", "date": "1998-12-31", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpDgQqFh1wpKvAW2YzBmxUa5Zoy.jpg", "actors": [], "comments": [], "recommandations_id": []}

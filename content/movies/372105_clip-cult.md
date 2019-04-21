@@ -1,0 +1,1 @@
+{"tmdb_id": 372105, "title": "Clip Cult", "original_title": "Clip Cult", "slug_title": "clip-cult", "date": "1999-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

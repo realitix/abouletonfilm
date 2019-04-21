@@ -1,0 +1,1 @@
+{"tmdb_id": 575948, "title": "W is for Wish", "original_title": "W is for Wish", "slug_title": "w-is-for-wish", "date": "2014-09-18", "genre": "Horreur / Science-Fiction / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kJV4RyDfyRpv5O0iFhXnQw5qA5.jpg", "actors": [], "comments": [], "recommandations_id": []}

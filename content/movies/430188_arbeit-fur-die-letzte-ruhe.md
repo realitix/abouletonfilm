@@ -1,0 +1,1 @@
+{"tmdb_id": 430188, "title": "Arbeit f\u00fcr die letzte Ruhe", "original_title": "Arbeit f\u00fcr die letzte Ruhe", "slug_title": "arbeit-fur-die-letzte-ruhe", "date": "1977-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

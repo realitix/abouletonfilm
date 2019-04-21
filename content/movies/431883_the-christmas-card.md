@@ -1,0 +1,1 @@
+{"tmdb_id": 431883, "title": "The Christmas Card", "original_title": "The Christmas Card", "slug_title": "the-christmas-card", "date": "1968-12-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pg7jC8lWrNWGivyKnEPDl9PkEgW.jpg", "actors": [], "comments": [], "recommandations_id": []}

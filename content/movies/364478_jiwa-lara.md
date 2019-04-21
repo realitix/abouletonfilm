@@ -1,0 +1,1 @@
+{"tmdb_id": 364478, "title": "Jiwa Lara", "original_title": "Jiwa Lara", "slug_title": "jiwa-lara", "date": "1952-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXClhv15uinu0isDATvYQFhV73L.jpg", "actors": ["Rokiah Jaafar ()", "Neng Yatimah ()", "Osman Gumanti  ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 331534, "title": "Iddaru Asadhyule", "original_title": "Iddaru Asadhyule", "slug_title": "iddaru-asadhyule", "date": "1979-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509830, "title": "I am Bonnie", "original_title": "I am Bonnie", "slug_title": "i-am-bonnie", "date": "2014-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5SSHJA9WCbUk9u9JBkiCXtcTl8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

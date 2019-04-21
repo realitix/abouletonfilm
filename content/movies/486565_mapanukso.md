@@ -1,0 +1,1 @@
+{"tmdb_id": 486565, "title": "Mapanukso", "original_title": "Mapanukso", "slug_title": "mapanukso", "date": "2003-11-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerald Lauron (Carlo)", "Emilio Garcia (Jerome)", "Ester Moreno ()", "Marilou Ver ()", "Tracy Torres (Donna)"], "comments": [], "recommandations_id": []}

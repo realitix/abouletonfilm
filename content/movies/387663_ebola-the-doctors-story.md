@@ -1,0 +1,1 @@
+{"tmdb_id": 387663, "title": "Ebola: The Doctors' Story", "original_title": "Ebola: The Doctors' Story", "slug_title": "ebola-the-doctors-story", "date": "2016-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8pvF9NUWnhcIw09rvNKjlkZ7Fu.jpg", "actors": [], "comments": [], "recommandations_id": []}

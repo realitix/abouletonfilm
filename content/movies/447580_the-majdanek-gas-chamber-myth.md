@@ -1,0 +1,1 @@
+{"tmdb_id": 447580, "title": "The Majdanek Gas Chamber Myth", "original_title": "The Majdanek Gas Chamber Myth", "slug_title": "the-majdanek-gas-chamber-myth", "date": "2014-12-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMq3i329ylS9djNsQOTCcrJUV5Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

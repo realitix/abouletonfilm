@@ -1,0 +1,1 @@
+{"tmdb_id": 276475, "title": "A Quiet Inquisition", "original_title": "A Quiet Inquisition", "slug_title": "a-quiet-inquisition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lVWzZ1djRgPMnCuDA5kcKHzYFp4.jpg", "actors": [], "comments": [], "recommandations_id": []}

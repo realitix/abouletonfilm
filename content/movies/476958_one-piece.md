@@ -1,0 +1,1 @@
+{"tmdb_id": 476958, "title": "One Piece!", "original_title": "One Piece!", "slug_title": "one-piece", "date": "1999-09-20", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

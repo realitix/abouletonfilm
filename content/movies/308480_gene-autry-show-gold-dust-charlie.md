@@ -1,0 +1,1 @@
+{"tmdb_id": 308480, "title": "Gene Autry Show: Gold Dust Charlie", "original_title": "Gene Autry Show: Gold Dust Charlie", "slug_title": "gene-autry-show-gold-dust-charlie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

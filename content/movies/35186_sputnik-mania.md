@@ -1,0 +1,1 @@
+{"tmdb_id": 35186, "title": "Sputnik Mania", "original_title": "Sputnik Mania", "slug_title": "sputnik-mania", "date": "2007-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HUPtvi6rO060BRk1b1QmDze9f9.jpg", "actors": [], "comments": [], "recommandations_id": []}

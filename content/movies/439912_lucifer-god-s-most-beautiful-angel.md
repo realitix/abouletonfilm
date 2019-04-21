@@ -1,0 +1,1 @@
+{"tmdb_id": 439912, "title": "Lucifer, God's Most Beautiful Angel", "original_title": "Lucifer, God's Most Beautiful Angel", "slug_title": "lucifer-god-s-most-beautiful-angel", "date": "1991-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

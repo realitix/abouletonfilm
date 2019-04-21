@@ -1,0 +1,1 @@
+{"tmdb_id": 284474, "title": "Three Directions in Pop Music", "original_title": "Three Directions in Pop Music", "slug_title": "three-directions-in-pop-music", "date": "1972-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEdy1owNaN0eYMg0jcOmsXTshkj.jpg", "actors": [], "comments": [], "recommandations_id": []}

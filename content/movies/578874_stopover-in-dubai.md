@@ -1,0 +1,1 @@
+{"tmdb_id": 578874, "title": "Stopover in Dubai", "original_title": "Stopover in Dubai", "slug_title": "stopover-in-dubai", "date": "2011-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qbcdsS2AaQwWKVCJTVlvWsD9iO.jpg", "actors": [], "comments": [], "recommandations_id": []}

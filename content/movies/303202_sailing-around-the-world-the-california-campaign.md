@@ -1,0 +1,1 @@
+{"tmdb_id": 303202, "title": "Sailing Around the World - The California Campaign", "original_title": "Sailing Around the World - The California Campaign", "slug_title": "sailing-around-the-world-the-california-campaign", "date": "2013-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

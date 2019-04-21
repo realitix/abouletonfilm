@@ -1,0 +1,1 @@
+{"tmdb_id": 305049, "title": "Violent Femmes", "original_title": "Violent Femmes", "slug_title": "violent-femmes", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Catherine Robbe-Grillet ()"], "comments": [], "recommandations_id": []}

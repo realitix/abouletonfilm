@@ -1,0 +1,1 @@
+{"tmdb_id": 330624, "title": "aI-Hakim al-'Am", "original_title": "aI-Hakim al-'Am", "slug_title": "ai-hakim-al-am", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

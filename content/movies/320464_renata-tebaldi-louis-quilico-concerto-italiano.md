@@ -1,0 +1,1 @@
+{"tmdb_id": 320464, "title": "Renata Tebaldi & Louis Quilico: Concerto Italiano", "original_title": "Renata Tebaldi & Louis Quilico: Concerto Italiano", "slug_title": "renata-tebaldi-louis-quilico-concerto-italiano", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

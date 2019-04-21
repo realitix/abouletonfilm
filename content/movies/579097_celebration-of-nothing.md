@@ -1,0 +1,1 @@
+{"tmdb_id": 579097, "title": "Celebration of Nothing", "original_title": "Celebration of Nothing", "slug_title": "celebration-of-nothing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588288, "title": "Abe Gunderson Reporting", "original_title": "Abe Gunderson Reporting", "slug_title": "abe-gunderson-reporting", "date": "", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjsfV60eLp23n6LS8DIXhipqAjO.jpg", "actors": [], "comments": [], "recommandations_id": []}

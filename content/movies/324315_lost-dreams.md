@@ -1,0 +1,1 @@
+{"tmdb_id": 324315, "title": "Lost dreams", "original_title": "Lost dreams", "slug_title": "lost-dreams", "date": "2003-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

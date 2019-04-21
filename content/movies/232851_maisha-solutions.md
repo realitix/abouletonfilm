@@ -1,0 +1,1 @@
+{"tmdb_id": 232851, "title": "Maisha Solutions", "original_title": "Maisha Solutions", "slug_title": "maisha-solutions", "date": "2009-11-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flC7Db1Fk3O5iNuZveWRPKhX6v3.jpg", "actors": [], "comments": [], "recommandations_id": []}

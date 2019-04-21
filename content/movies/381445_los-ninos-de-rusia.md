@@ -1,0 +1,1 @@
+{"tmdb_id": 381445, "title": "Los ni\u00f1os de Rusia", "original_title": "Los ni\u00f1os de Rusia", "slug_title": "los-ninos-de-rusia", "date": "2001-11-30", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjaGj5j7AWAZ2GVyXfb5wzQIT2v.jpg", "actors": [], "comments": [], "recommandations_id": []}

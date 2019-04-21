@@ -1,0 +1,1 @@
+{"tmdb_id": 524805, "title": "The Lolita Story", "original_title": "The Lolita Story", "slug_title": "the-lolita-story", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adrian Lyne (Himself)", "Jeremy Irons (Himself)"], "comments": [], "recommandations_id": []}

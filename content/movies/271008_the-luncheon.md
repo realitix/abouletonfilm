@@ -1,0 +1,1 @@
+{"tmdb_id": 271008, "title": "The Luncheon", "original_title": "Az eb\u00e9d (kedvesem f\u0151z)", "slug_title": "the-luncheon", "date": "1980-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 356772, "title": "True Law", "original_title": "True Law", "slug_title": "true-law", "date": "2015-08-25", "genre": "Drame", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hz1BrH1KuGXthtpCNLtr0AF4PsB.jpg", "actors": [], "comments": [], "recommandations_id": []}

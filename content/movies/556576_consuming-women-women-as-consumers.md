@@ -1,0 +1,1 @@
+{"tmdb_id": 556576, "title": "Consuming Women (Women As Consumers)", "original_title": "Consuming Women (Women As Consumers)", "slug_title": "consuming-women-women-as-consumers", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

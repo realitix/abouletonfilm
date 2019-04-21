@@ -1,0 +1,1 @@
+{"tmdb_id": 250046, "title": "An Otter Study", "original_title": "An Otter Study", "slug_title": "an-otter-study", "date": "1912-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

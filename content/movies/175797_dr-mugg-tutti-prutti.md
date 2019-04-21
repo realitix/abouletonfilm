@@ -1,0 +1,1 @@
+{"tmdb_id": 175797, "title": "Dr Mugg Tutti Prutti", "original_title": "Dr Mugg Tutti Prutti", "slug_title": "dr-mugg-tutti-prutti", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j2PDsWeCJn2Wo11rNPrNIpdiR9p.jpg", "actors": [], "comments": [], "recommandations_id": []}

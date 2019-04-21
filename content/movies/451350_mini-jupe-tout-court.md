@@ -1,0 +1,1 @@
+{"tmdb_id": 451350, "title": "Mini-jupe, tout court !", "original_title": "Mini-jupe, tout court !", "slug_title": "mini-jupe-tout-court", "date": "2011-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wUxLROxtKQqdzVmYGdJDo3gN9al.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 246958, "title": "Carving Magic", "original_title": "Carving Magic", "slug_title": "carving-magic", "date": "1959-01-02", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martha Logan (Herself)", "William Kerwin (Charlie)", "Harvey Korman (Al)"], "comments": [], "recommandations_id": []}

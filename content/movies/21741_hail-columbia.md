@@ -1,0 +1,1 @@
+{"tmdb_id": 21741, "title": "Hail Columbia!", "original_title": "Hail Columbia!", "slug_title": "hail-columbia", "date": "1982-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdCQIlSx9dPDPiri3xvixpqyo8Q.jpg", "actors": ["James Whitmore (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275825, "title": "Greg Stump's Foursome: P-Tex, Lies & Duct Tape", "original_title": "Greg Stump's Foursome: P-Tex, Lies & Duct Tape", "slug_title": "greg-stump-s-foursome-p-tex-lies-duct-tape", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

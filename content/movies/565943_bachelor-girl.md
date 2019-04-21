@@ -1,0 +1,1 @@
+{"tmdb_id": 565943, "title": "Bachelor Girl", "original_title": "Bachelor Girl", "slug_title": "bachelor-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

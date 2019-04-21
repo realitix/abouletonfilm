@@ -1,0 +1,1 @@
+{"tmdb_id": 300324, "title": "Collin Moulton: Chicken Stupid", "original_title": "Collin Moulton: Chicken Stupid", "slug_title": "collin-moulton-chicken-stupid", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pHY69GLYvy2i7pU94bKvmlic4yd.jpg", "actors": [], "comments": [], "recommandations_id": []}

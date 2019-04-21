@@ -1,0 +1,1 @@
+{"tmdb_id": 294533, "title": "Baldessari Sings LeWitt", "original_title": "Baldessari Sings LeWitt", "slug_title": "baldessari-sings-lewitt", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Baldessari (Himself)"], "comments": [], "recommandations_id": []}

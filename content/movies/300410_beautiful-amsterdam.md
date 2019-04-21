@@ -1,0 +1,1 @@
+{"tmdb_id": 300410, "title": "Beautiful Amsterdam", "original_title": "Beautiful Amsterdam", "slug_title": "beautiful-amsterdam", "date": "1927-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/R8ObEi1WDz5jnW8fIATXvhTMcP.jpg", "actors": [], "comments": [], "recommandations_id": []}

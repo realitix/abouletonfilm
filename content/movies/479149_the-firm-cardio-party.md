@@ -1,0 +1,1 @@
+{"tmdb_id": 479149, "title": "The FIRM: Cardio Party", "original_title": "The FIRM: Cardio Party", "slug_title": "the-firm-cardio-party", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fpjtmjP8nwMxXZSYlAlZnxoDpyj.jpg", "actors": [], "comments": [], "recommandations_id": []}

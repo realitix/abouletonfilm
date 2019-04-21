@@ -1,0 +1,1 @@
+{"tmdb_id": 112274, "title": "Terminal Bar", "original_title": "Terminal Bar", "slug_title": "terminal-bar", "date": "2003-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pi6xVt1jLxtIwun4GoPXbLbFVrc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 415709, "title": "La parole en deux", "original_title": "La parole en deux", "slug_title": "la-parole-en-deux", "date": "1973-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4A7bF6Cf1kPewlhmb3BzuVKfB8.jpg", "actors": [], "comments": [], "recommandations_id": []}

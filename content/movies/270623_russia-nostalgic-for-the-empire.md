@@ -1,0 +1,1 @@
+{"tmdb_id": 270623, "title": "Russia, Nostalgic for the Empire", "original_title": "Russia, Nostalgic for the Empire", "slug_title": "russia-nostalgic-for-the-empire", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

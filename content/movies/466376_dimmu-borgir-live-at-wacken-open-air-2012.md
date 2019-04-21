@@ -1,0 +1,1 @@
+{"tmdb_id": 466376, "title": "Dimmu Borgir: Live at Wacken Open Air 2012", "original_title": "Dimmu Borgir: Live at Wacken Open Air 2012", "slug_title": "dimmu-borgir-live-at-wacken-open-air-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

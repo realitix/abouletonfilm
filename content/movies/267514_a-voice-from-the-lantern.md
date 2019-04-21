@@ -1,0 +1,1 @@
+{"tmdb_id": 267514, "title": "A Voice from the Lantern", "original_title": "A Voice from the Lantern", "slug_title": "a-voice-from-the-lantern", "date": "2009-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Masami Teramoto ()", "Pandora Boxx ()", "Richard Hughson ()"], "comments": [], "recommandations_id": []}

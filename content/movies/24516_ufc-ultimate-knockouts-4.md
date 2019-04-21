@@ -1,0 +1,1 @@
+{"tmdb_id": 24516, "title": "UFC Ultimate Knockouts 4", "original_title": "UFC Ultimate Knockouts 4", "slug_title": "ufc-ultimate-knockouts-4", "date": "2006-06-22", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7IGVjBGM3TgT2f8eiEslMggYa6.jpg", "actors": [], "comments": [], "recommandations_id": []}

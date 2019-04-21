@@ -1,0 +1,1 @@
+{"tmdb_id": 384827, "title": "Childhood Friends", "original_title": "Tong nian de peng you", "slug_title": "childhood-friends", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxCoBGRhCpPSHanzdbY2MbbloYJ.jpg", "actors": ["L\u00fc Liping ()", "Kaimin Guo ()"], "comments": [], "recommandations_id": []}

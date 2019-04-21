@@ -1,0 +1,1 @@
+{"tmdb_id": 294597, "title": "To Dance Like a Man", "original_title": "To Dance Like a Man", "slug_title": "to-dance-like-a-man", "date": "2012-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

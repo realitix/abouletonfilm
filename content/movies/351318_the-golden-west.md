@@ -1,0 +1,1 @@
+{"tmdb_id": 351318, "title": "The Golden West", "original_title": "The Golden West", "slug_title": "the-golden-west", "date": "1939-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 357673, "title": "Kodomo no Omocha", "original_title": "Kodomo no Omocha", "slug_title": "kodomo-no-omocha", "date": "1995-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AI1br79KxHrK6A64dt13B8FqnP.jpg", "actors": [], "comments": [], "recommandations_id": []}

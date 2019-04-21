@@ -1,0 +1,1 @@
+{"tmdb_id": 560996, "title": "L'\u00e9trange amazone", "original_title": "L'\u00e9trange amazone", "slug_title": "l-etrange-amazone", "date": "1953-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/PgpWLzNXutApB2HoMYISKIRbRE.jpg", "actors": [], "comments": [], "recommandations_id": []}

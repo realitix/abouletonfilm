@@ -1,0 +1,1 @@
+{"tmdb_id": 531022, "title": "Puppchen", "original_title": "Puppchen", "slug_title": "puppchen", "date": "1918-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hedda Vernon ()", "Hans Salten ()", "Ferry Sikla ()", "Emmy Wyda ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 16339, "title": "Barney: Let's Go To The Farm", "original_title": "Barney: Let's Go To The Farm", "slug_title": "barney-let-s-go-to-the-farm", "date": "2005-03-01", "genre": "Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCsa8brslx9Bu9bkiNsCUrZhm3N.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576744, "title": "A Man's Size Pet", "original_title": "A Man's Size Pet", "slug_title": "a-man-s-size-pet", "date": "1926-10-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Corbett (Dirtyshirt Jones)", "Gilbert Holmes (Magpie Simpkins)"], "comments": [], "recommandations_id": []}

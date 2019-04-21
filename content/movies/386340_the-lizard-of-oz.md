@@ -1,0 +1,1 @@
+{"tmdb_id": 386340, "title": "The Lizard of OZ", "original_title": "The Lizard of OZ", "slug_title": "the-lizard-of-oz", "date": "2013-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jGcbDr866BRkA0H1JmVGQENXmMQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

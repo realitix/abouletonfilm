@@ -1,0 +1,1 @@
+{"tmdb_id": 321626, "title": "B-24: Bombers Over Normandy: The Victory Bombers", "original_title": "B-24: Bombers Over Normandy: The Victory Bombers", "slug_title": "b-24-bombers-over-normandy-the-victory-bombers", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 524936, "title": "Wintering", "original_title": "\u0417\u0438\u043c\u043e\u0432\u043a\u0430", "slug_title": "wintering", "date": "2010-12-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Mx4hCblRkHRsciwpclyfrlhmiw.jpg", "actors": [], "comments": [], "recommandations_id": []}

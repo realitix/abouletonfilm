@@ -1,0 +1,1 @@
+{"tmdb_id": 183510, "title": "Dilek\u00e7e", "original_title": "Dilek\u00e7e", "slug_title": "dilekce", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aydemir Akba\u015f ()", "Asuman Arsan ()"], "comments": [], "recommandations_id": []}

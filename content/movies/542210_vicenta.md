@@ -1,0 +1,1 @@
+{"tmdb_id": 542210, "title": "Vicenta", "original_title": "Vicenta", "slug_title": "vicenta", "date": "1920-05-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Musidora ()"], "comments": [], "recommandations_id": []}

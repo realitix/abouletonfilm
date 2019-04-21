@@ -1,0 +1,1 @@
+{"tmdb_id": 297389, "title": "Sous bois", "original_title": "Sous bois", "slug_title": "sous-bois", "date": "2013-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Noah Ledbegue ()", "Fr\u00e9d\u00e9ric Pierre ()", "Luc Proulx ()"], "comments": [], "recommandations_id": []}

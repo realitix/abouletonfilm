@@ -1,0 +1,1 @@
+{"tmdb_id": 193824, "title": "An Interrupted Elopement", "original_title": "An Interrupted Elopement", "slug_title": "an-interrupted-elopement", "date": "1912-08-14", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Dillon (Bob)", "Mabel Normand (Alice, Bob's Sweetheart)"], "comments": [], "recommandations_id": []}

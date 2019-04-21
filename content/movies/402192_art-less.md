@@ -1,0 +1,1 @@
+{"tmdb_id": 402192, "title": "Art Less", "original_title": "Art Less", "slug_title": "art-less", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

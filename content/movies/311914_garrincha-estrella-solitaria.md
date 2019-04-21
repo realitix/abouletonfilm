@@ -1,0 +1,1 @@
+{"tmdb_id": 311914, "title": "Garrincha, Estrella Solitaria", "original_title": "Garrincha, Estrella Solitaria", "slug_title": "garrincha-estrella-solitaria", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

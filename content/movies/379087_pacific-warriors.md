@@ -1,0 +1,1 @@
+{"tmdb_id": 379087, "title": "Pacific Warriors", "original_title": "Pacific Warriors", "slug_title": "pacific-warriors", "date": "2015-09-10", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHiSE2VObt6l6mGi5ebNIHMgRkp.jpg", "actors": ["Brian Cox (Narrator)"], "comments": [], "recommandations_id": []}

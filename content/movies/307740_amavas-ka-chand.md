@@ -1,0 +1,1 @@
+{"tmdb_id": 307740, "title": "Amavas Ka Chand", "original_title": "Amavas Ka Chand", "slug_title": "amavas-ka-chand", "date": "1979-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 441496, "title": "Vi Bryr Oss Egentligen Inte Om Midsommar", "original_title": "Vi Bryr Oss Egentligen Inte Om Midsommar", "slug_title": "vi-bryr-oss-egentligen-inte-om-midsommar", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

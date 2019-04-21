@@ -1,0 +1,1 @@
+{"tmdb_id": 591881, "title": "The Fur Coat Club", "original_title": "The Fur Coat Club", "slug_title": "the-fur-coat-club", "date": "1973-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1RZDp4KBa0UgRfG1D6geR2v2bS.jpg", "actors": ["Emily Chase ()", "Claudia Silver ()"], "comments": [], "recommandations_id": []}

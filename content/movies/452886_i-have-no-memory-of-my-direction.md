@@ -1,0 +1,1 @@
+{"tmdb_id": 452886, "title": "I have no memory of my direction", "original_title": "I have no memory of my direction", "slug_title": "i-have-no-memory-of-my-direction", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

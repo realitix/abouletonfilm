@@ -1,0 +1,1 @@
+{"tmdb_id": 436075, "title": "El seco y el mojao", "original_title": "El seco y el mojao", "slug_title": "el-seco-y-el-mojao", "date": "2013-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIw35GYGETPfx6sonsgG6YpfPU7.jpg", "actors": [], "comments": [], "recommandations_id": []}

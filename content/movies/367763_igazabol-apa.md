@@ -1,0 +1,1 @@
+{"tmdb_id": 367763, "title": "Igaz\u00e1b\u00f3l apa", "original_title": "Igaz\u00e1b\u00f3l apa", "slug_title": "igazabol-apa", "date": "2010-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509061, "title": "Stopping and Starting", "original_title": "Stopping and Starting", "slug_title": "stopping-and-starting", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

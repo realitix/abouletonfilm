@@ -1,0 +1,1 @@
+{"tmdb_id": 308559, "title": "Torn Boots", "original_title": "\u0420\u0432\u0430\u043d\u044b\u0435 \u0431\u0430\u0448\u043c\u0430\u043a\u0438", "slug_title": "torn-boots", "date": "1933-12-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mikhail Klimov ()", "Klavdiya Polovikova ()"], "comments": [], "recommandations_id": []}

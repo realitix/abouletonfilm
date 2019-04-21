@@ -1,0 +1,1 @@
+{"tmdb_id": 280747, "title": "Ele, My Friend", "original_title": "Ele, My Friend", "slug_title": "ele-my-friend", "date": "1992-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

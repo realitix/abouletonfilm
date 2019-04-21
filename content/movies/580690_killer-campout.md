@@ -1,0 +1,1 @@
+{"tmdb_id": 580690, "title": "Killer Campout", "original_title": "Killer Campout", "slug_title": "killer-campout", "date": "2005-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZtmzCVUcBoli7qgiCcpU0WAMR6.jpg", "actors": ["Jillian Swanson (Cindy)"], "comments": [], "recommandations_id": []}

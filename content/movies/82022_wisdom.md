@@ -1,0 +1,1 @@
+{"tmdb_id": 82022, "title": "Wisdom", "original_title": "Wisdom", "slug_title": "wisdom", "date": "2008-10-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1ub8n8ep0c9DryVH43gE941tsF.jpg", "actors": [], "comments": [], "recommandations_id": []}

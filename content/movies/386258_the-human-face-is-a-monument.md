@@ -1,0 +1,1 @@
+{"tmdb_id": 386258, "title": "The Human Face Is a Monument", "original_title": "The Human Face Is a Monument", "slug_title": "the-human-face-is-a-monument", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

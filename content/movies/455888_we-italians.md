@@ -1,0 +1,1 @@
+{"tmdb_id": 455888, "title": "We Italians", "original_title": "Siamo italiani", "slug_title": "we-italians", "date": "1964-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSU82Lvsrj19LL2yJJd737ctkEB.jpg", "actors": [], "comments": [], "recommandations_id": []}

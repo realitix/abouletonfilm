@@ -1,0 +1,1 @@
+{"tmdb_id": 193877, "title": "Max Sets the Fashion", "original_title": "Max lance la mode", "slug_title": "max-sets-the-fashion", "date": "1912-01-05", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Stacia Napierkowska ()", "Jane Renouardt ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284661, "title": "Estocolmo", "original_title": "Estocolmo", "slug_title": "estocolmo", "date": "2011-03-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebeca Sala ()", "Manolo Solo (Claudio)"], "comments": [], "recommandations_id": []}

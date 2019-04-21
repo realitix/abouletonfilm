@@ -1,0 +1,1 @@
+{"tmdb_id": 343574, "title": "La casa helada", "original_title": "La casa helada", "slug_title": "la-casa-helada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498709, "title": "Batman V Arrow", "original_title": "Batman V Arrow", "slug_title": "batman-v-arrow", "date": "2016-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxSeICH75OGzzzxcDsfnVEuLMVC.jpg", "actors": [], "comments": [], "recommandations_id": []}

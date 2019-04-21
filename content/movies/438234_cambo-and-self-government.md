@@ -1,0 +1,1 @@
+{"tmdb_id": 438234, "title": "Camb\u00f3 and self-government", "original_title": "Camb\u00f3 i l\u2019autonomia", "slug_title": "cambo-and-self-government", "date": "1918-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

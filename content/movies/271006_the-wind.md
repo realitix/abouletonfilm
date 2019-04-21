@@ -1,0 +1,1 @@
+{"tmdb_id": 271006, "title": "The Wind", "original_title": "A sz\u00e9l", "slug_title": "the-wind", "date": "1986-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cE5mKEgaocIr9lMEz989MZhUG1P.jpg", "actors": [], "comments": [], "recommandations_id": []}

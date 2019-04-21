@@ -1,0 +1,1 @@
+{"tmdb_id": 279670, "title": "The Doomsday Clock", "original_title": "The Doomsday Clock", "slug_title": "the-doomsday-clock", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utG6MmLIo50hb1K1SpgRayenv38.jpg", "actors": ["Beau Weaver (Narrator (voice))"], "comments": [], "recommandations_id": []}

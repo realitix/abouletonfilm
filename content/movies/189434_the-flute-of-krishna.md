@@ -1,0 +1,1 @@
+{"tmdb_id": 189434, "title": "The Flute of Krishna", "original_title": "The Flute of Krishna", "slug_title": "the-flute-of-krishna", "date": "1926-05-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

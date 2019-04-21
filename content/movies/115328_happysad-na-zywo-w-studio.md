@@ -1,0 +1,1 @@
+{"tmdb_id": 115328, "title": "Happysad Na \u017cywo w studio", "original_title": "Happysad Na \u017cywo w studio", "slug_title": "happysad-na-zywo-w-studio", "date": "2008-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/asMCUmSBU7CrNHKPdy2mt0cKFPk.jpg", "actors": [], "comments": [], "recommandations_id": []}

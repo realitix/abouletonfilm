@@ -1,0 +1,1 @@
+{"tmdb_id": 392600, "title": "V\u00e9rtice V\u00f3rtice", "original_title": "V\u00e9rtice V\u00f3rtice", "slug_title": "vertice-vortice", "date": "2002-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

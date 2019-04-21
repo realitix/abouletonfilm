@@ -1,0 +1,1 @@
+{"tmdb_id": 315305, "title": "The Set Up", "original_title": "The Set Up", "slug_title": "the-set-up", "date": "1963-01-01", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maurice Denham ()", "John Carson ()", "Maria Corvin ()", "Brian Peck ()"], "comments": [], "recommandations_id": []}

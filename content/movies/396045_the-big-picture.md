@@ -1,0 +1,1 @@
+{"tmdb_id": 396045, "title": "The Big Picture", "original_title": "The Big Picture", "slug_title": "the-big-picture", "date": "2013-08-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzVAtRNTlWI5LdMGlBI0EDA1cTR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 121748, "title": "Jungle Rudy", "original_title": "Jungle Rudy", "slug_title": "jungle-rudy", "date": "2006-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

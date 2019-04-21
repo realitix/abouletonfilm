@@ -1,0 +1,1 @@
+{"tmdb_id": 476795, "title": "Slap Happy", "original_title": "Slap Happy", "slug_title": "slap-happy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pId843Q7pZLPhO97dkNMsR2GKyk.jpg", "actors": [], "comments": [], "recommandations_id": []}

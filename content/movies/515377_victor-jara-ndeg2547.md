@@ -1,0 +1,1 @@
+{"tmdb_id": 515377, "title": "Victor Jara, N\u00b02547", "original_title": "Victor Jara, N\u00b02547", "slug_title": "victor-jara-ndeg2547", "date": "2013-09-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nzS2SSxmoCQmbpR6ifHFHvmkSK.jpg", "actors": [], "comments": [], "recommandations_id": []}

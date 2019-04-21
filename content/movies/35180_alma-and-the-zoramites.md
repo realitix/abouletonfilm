@@ -1,0 +1,1 @@
+{"tmdb_id": 35180, "title": "Alma and the Zoramites", "original_title": "Alma and the Zoramites", "slug_title": "alma-and-the-zoramites", "date": "1991-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZcQSEHZOO0ids2N0w53bO2TIPD.jpg", "actors": [], "comments": [], "recommandations_id": []}

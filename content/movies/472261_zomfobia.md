@@ -1,0 +1,1 @@
+{"tmdb_id": 472261, "title": "Zomfobia", "original_title": "Zomfobia", "slug_title": "zomfobia", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnITRmAZSxmCpfrRFn0H6SaAfG5.jpg", "actors": ["Jon Berggren ()", "Hans Andersson ()", "Niklas Hinders ()"], "comments": [], "recommandations_id": []}

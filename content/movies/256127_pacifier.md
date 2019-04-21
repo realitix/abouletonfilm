@@ -1,0 +1,1 @@
+{"tmdb_id": 256127, "title": "Pacifier", "original_title": "\u041f\u0443\u0441\u0442\u044b\u0448\u043a\u0430", "slug_title": "pacifier", "date": "1995-01-01", "genre": "Com\u00e9die", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3fP11BJhaUwNRkdOo3dNlzuMtA2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393017, "title": "My Life As An Actor", "original_title": "My Life As An Actor", "slug_title": "my-life-as-an-actor", "date": "2015-12-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

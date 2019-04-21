@@ -1,0 +1,1 @@
+{"tmdb_id": 594043, "title": "Shoot One, Please", "original_title": "Shoot One, Please", "slug_title": "shoot-one-please", "date": "2013-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUBN5ML5CX5AB69IQNgRGi1PxUW.jpg", "actors": [], "comments": [], "recommandations_id": []}

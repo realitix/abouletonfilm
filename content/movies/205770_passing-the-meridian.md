@@ -1,0 +1,1 @@
+{"tmdb_id": 205770, "title": "Passing the Meridian", "original_title": "Pasado el meridiano", "slug_title": "passing-the-meridian", "date": "1967-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdOgyt5p34f09WMkwOwBOp3kPPF.jpg", "actors": [], "comments": [], "recommandations_id": []}

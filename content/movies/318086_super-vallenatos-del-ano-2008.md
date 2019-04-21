@@ -1,0 +1,1 @@
+{"tmdb_id": 318086, "title": "Super Vallenatos del A\u00f1o 2008", "original_title": "Super Vallenatos del A\u00f1o 2008", "slug_title": "super-vallenatos-del-ano-2008", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

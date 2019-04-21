@@ -1,0 +1,1 @@
+{"tmdb_id": 476235, "title": "Paradise Gowns", "original_title": "Atelje 'Rojaus Drabuziai'", "slug_title": "paradise-gowns", "date": "2016-03-31", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xH85X9jNhD35YfjKnH2BXW5cIEG.jpg", "actors": [], "comments": [], "recommandations_id": []}

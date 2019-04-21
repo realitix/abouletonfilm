@@ -1,0 +1,1 @@
+{"tmdb_id": 115573, "title": "Naked of Defenses", "original_title": "Muboubi", "slug_title": "naked-of-defenses", "date": "2008-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qITrn9EERPvWRMK491f85bF1vSN.jpg", "actors": [], "comments": [], "recommandations_id": []}

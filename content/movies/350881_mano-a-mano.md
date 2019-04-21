@@ -1,0 +1,1 @@
+{"tmdb_id": 350881, "title": "Mano a Mano", "original_title": "Mano a Mano", "slug_title": "mano-a-mano", "date": "2013-11-22", "genre": "Romance / Com\u00e9die / Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Est\u00edbaliz Gabilondo ()", "Adam Quintero ()"], "comments": [], "recommandations_id": []}

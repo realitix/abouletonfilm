@@ -1,0 +1,1 @@
+{"tmdb_id": 234972, "title": "Sick, Sick Sidney", "original_title": "Sick, Sick Sidney", "slug_title": "sick-sick-sidney", "date": "1958-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

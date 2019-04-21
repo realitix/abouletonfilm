@@ -1,0 +1,1 @@
+{"tmdb_id": 438306, "title": "Carmen's tragedy", "original_title": "La trag\u00e9die de Carmen", "slug_title": "carmen-s-tragedy", "date": "1983-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZGzBA6CTwK5FXqosKhw2VbpcMy.jpg", "actors": [], "comments": [], "recommandations_id": []}

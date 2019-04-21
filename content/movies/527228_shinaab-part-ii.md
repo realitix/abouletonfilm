@@ -1,0 +1,1 @@
+{"tmdb_id": 527228, "title": "Shinaab, Part II", "original_title": "Shinaab, Part II", "slug_title": "shinaab-part-ii", "date": "2019-01-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ajuawak Kapashesit (The Shinaab)", "Diana Wilde ()"], "comments": [], "recommandations_id": []}

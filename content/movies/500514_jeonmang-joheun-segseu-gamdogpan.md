@@ -1,0 +1,1 @@
+{"tmdb_id": 500514, "title": "\uc804\ub9dd \uc88b\uc740 \uc139\uc2a4-\uac10\ub3c5\ud310", "original_title": "\uc804\ub9dd \uc88b\uc740 \uc139\uc2a4-\uac10\ub3c5\ud310", "slug_title": "jeonmang-joheun-segseu-gamdogpan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

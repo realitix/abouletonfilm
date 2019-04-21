@@ -1,0 +1,1 @@
+{"tmdb_id": 93988, "title": "Primus - Videoplasty", "original_title": "Primus - Videoplasty", "slug_title": "primus-videoplasty", "date": "1998-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zsJyaf0tbU1gpuqocte78eZaUgU.jpg", "actors": [], "comments": [], "recommandations_id": []}

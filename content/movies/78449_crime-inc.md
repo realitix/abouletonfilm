@@ -1,0 +1,1 @@
+{"tmdb_id": 78449, "title": "Crime Inc.", "original_title": "Crime Inc.", "slug_title": "crime-inc", "date": "1984-07-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7h3MuLoEBGa7fkb37ffp0wHl4Tb.jpg", "actors": ["Martin Short (Narrator (voice))"], "comments": [], "recommandations_id": []}

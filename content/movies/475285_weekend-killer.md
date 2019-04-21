@@ -1,0 +1,1 @@
+{"tmdb_id": 475285, "title": "Weekend Killer", "original_title": "Weekend Killer", "slug_title": "weekend-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

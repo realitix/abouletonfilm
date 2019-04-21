@@ -1,0 +1,1 @@
+{"tmdb_id": 284355, "title": "O Cinema dos Meus Olhos", "original_title": "O Cinema dos Meus Olhos", "slug_title": "o-cinema-dos-meus-olhos", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d8A94zFzaaJajzdfSXZdyWvxLe7.jpg", "actors": [], "comments": [], "recommandations_id": []}

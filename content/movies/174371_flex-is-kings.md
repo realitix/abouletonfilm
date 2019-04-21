@@ -1,0 +1,1 @@
+{"tmdb_id": 174371, "title": "Flex Is Kings", "original_title": "Flex Is Kings", "slug_title": "flex-is-kings", "date": "2013-04-18", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3iTyQkrAUCkOfRfQDs4XuAOioQp.jpg", "actors": [], "comments": [], "recommandations_id": []}

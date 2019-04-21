@@ -1,0 +1,1 @@
+{"tmdb_id": 446424, "title": "Insanity: Cardio Abs", "original_title": "Insanity: Cardio Abs", "slug_title": "insanity-cardio-abs", "date": "2009-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojohU93tctMlEScSn3qeCZHVzVf.jpg", "actors": ["Shaun T. (Himself)"], "comments": [], "recommandations_id": []}

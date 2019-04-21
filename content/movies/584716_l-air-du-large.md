@@ -1,0 +1,1 @@
+{"tmdb_id": 584716, "title": "L'air du large", "original_title": "L'air du large", "slug_title": "l-air-du-large", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xM5ePIMXMwppfpMa6zoD2I1ikPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

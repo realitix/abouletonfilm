@@ -1,0 +1,1 @@
+{"tmdb_id": 31904, "title": "Arj Barker: Live", "original_title": "Arj Barker: Live", "slug_title": "arj-barker-live", "date": "2006-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXPP8Uy6ZSts6R3qo2XWHdlkjJ3.jpg", "actors": ["Arj Barker (Himself)"], "comments": [], "recommandations_id": []}

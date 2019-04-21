@@ -1,0 +1,1 @@
+{"tmdb_id": 219442, "title": "Early Amateur Sound Film", "original_title": "Early Amateur Sound Film", "slug_title": "early-amateur-sound-film", "date": "1937-09-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJflZLxjSjp3BdsMTaeEp05Mk5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

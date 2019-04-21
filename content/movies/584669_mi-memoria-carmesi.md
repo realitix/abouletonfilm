@@ -1,0 +1,1 @@
+{"tmdb_id": 584669, "title": "Mi Memoria Carmes\u00ed", "original_title": "Mi Memoria Carmes\u00ed", "slug_title": "mi-memoria-carmesi", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 293281, "title": "What's Wrong with This Picture? 2", "original_title": "What's Wrong with This Picture? 2", "slug_title": "what-s-wrong-with-this-picture-2", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

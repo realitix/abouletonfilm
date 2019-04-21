@@ -1,0 +1,1 @@
+{"tmdb_id": 374053, "title": "Log\u00edstica", "original_title": "Log\u00edstica", "slug_title": "logistica", "date": "2015-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yd5yJMqqCJ8EkVQbedJKyJlYIVX.jpg", "actors": [], "comments": [], "recommandations_id": []}

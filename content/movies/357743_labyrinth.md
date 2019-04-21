@@ -1,0 +1,1 @@
+{"tmdb_id": 357743, "title": "Labyrinth", "original_title": "Labirint", "slug_title": "labyrinth", "date": "1993-09-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1xFEhb9ijIvG2FalzkZyRPmPtN6.jpg", "actors": [], "comments": [], "recommandations_id": []}

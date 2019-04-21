@@ -1,0 +1,1 @@
+{"tmdb_id": 396074, "title": "The F.E.D.S.", "original_title": "The F.E.D.S.", "slug_title": "the-f-e-d-s", "date": "2002-05-04", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A5rFbdjYLwDSE21raGO4uTSNYlg.jpg", "actors": ["John Harvie Morris ()"], "comments": [], "recommandations_id": []}

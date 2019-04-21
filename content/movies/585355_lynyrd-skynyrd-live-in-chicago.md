@@ -1,0 +1,1 @@
+{"tmdb_id": 585355, "title": "Lynyrd Skynyrd Live In Chicago", "original_title": "Lynyrd Skynyrd Live In Chicago", "slug_title": "lynyrd-skynyrd-live-in-chicago", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYSbKYKvY26wEsTdE5MgdznJ9sy.jpg", "actors": [], "comments": [], "recommandations_id": []}

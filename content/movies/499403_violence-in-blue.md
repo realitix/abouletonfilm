@@ -1,0 +1,1 @@
+{"tmdb_id": 499403, "title": "Violence in Blue", "original_title": "Violence in Blue", "slug_title": "violence-in-blue", "date": "1975-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574806, "title": "Minimum Max", "original_title": "Minimum Max", "slug_title": "minimum-max", "date": "2015-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joshua Ovalle (Max)"], "comments": [], "recommandations_id": []}

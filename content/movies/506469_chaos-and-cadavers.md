@@ -1,0 +1,1 @@
+{"tmdb_id": 506469, "title": "Chaos and Cadavers", "original_title": "Chaos and Cadavers", "slug_title": "chaos-and-cadavers", "date": "2003-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

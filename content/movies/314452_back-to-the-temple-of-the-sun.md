@@ -1,0 +1,1 @@
+{"tmdb_id": 314452, "title": "Back to the Temple of the Sun", "original_title": "Back to the Temple of the Sun", "slug_title": "back-to-the-temple-of-the-sun", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOtRdUcrVBHG3DN875595ueAs0C.jpg", "actors": [], "comments": [], "recommandations_id": []}

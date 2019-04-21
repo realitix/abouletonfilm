@@ -1,0 +1,1 @@
+{"tmdb_id": 350144, "title": "\uce5c\uad6c\uc5ec \uc870\uc6a9\ud788 \uac00\ub2e4\uc624", "original_title": "\uce5c\uad6c\uc5ec \uc870\uc6a9\ud788 \uac00\ub2e4\uc624", "slug_title": "cinguyeo-joyonghi-gadao", "date": "1982-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

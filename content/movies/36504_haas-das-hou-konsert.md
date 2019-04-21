@@ -1,0 +1,1 @@
+{"tmdb_id": 36504, "title": "Haas Das Hou Konsert", "original_title": "Haas Das Hou Konsert", "slug_title": "haas-das-hou-konsert", "date": "2007-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420044, "title": "Mark Tobey", "original_title": "Mark Tobey", "slug_title": "mark-tobey", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmsyHfLhHKFVoEvy0Rw46VKeauS.jpg", "actors": [], "comments": [], "recommandations_id": []}

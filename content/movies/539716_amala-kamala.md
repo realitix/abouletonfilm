@@ -1,0 +1,1 @@
+{"tmdb_id": 539716, "title": "Amala, Kamala", "original_title": "Amala, Kamala", "slug_title": "amala-kamala", "date": "1971-05-09", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zT49xsQ0upC5By2LZ6PjYibufmR.jpg", "actors": [], "comments": [], "recommandations_id": []}

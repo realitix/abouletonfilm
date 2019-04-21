@@ -1,0 +1,1 @@
+{"tmdb_id": 47483, "title": "Yeah No Definitely", "original_title": "Yeah No Definitely", "slug_title": "yeah-no-definitely", "date": "2007-07-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Piazza (Cam)", "Alan Barnes Netherton (Kiff)"], "comments": [], "recommandations_id": []}

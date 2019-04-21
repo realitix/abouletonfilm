@@ -1,0 +1,1 @@
+{"tmdb_id": 174476, "title": "Hell's Fire", "original_title": "Hell's Fire", "slug_title": "hell-s-fire", "date": "1934-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svtpgA2DuckY1HmpiPDONOrEzsy.jpg", "actors": [], "comments": [], "recommandations_id": []}

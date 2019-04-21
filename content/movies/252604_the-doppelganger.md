@@ -1,0 +1,1 @@
+{"tmdb_id": 252604, "title": "The Doppelganger", "original_title": "Der Doppelg\u00e4nger", "slug_title": "the-doppelganger", "date": "2010-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aljoscha Stadelmann ()", "Annika Ernst ()", "Heide Simon ()"], "comments": [], "recommandations_id": []}

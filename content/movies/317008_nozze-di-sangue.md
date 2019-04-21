@@ -1,0 +1,1 @@
+{"tmdb_id": 317008, "title": "Nozze di sangue", "original_title": "Nozze di sangue", "slug_title": "nozze-di-sangue", "date": "1941-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/duV9cuWeIGTWYlEtLPoB5jqdqUT.jpg", "actors": [], "comments": [], "recommandations_id": []}

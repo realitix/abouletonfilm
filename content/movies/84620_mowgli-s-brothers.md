@@ -1,0 +1,1 @@
+{"tmdb_id": 84620, "title": "Mowgli's Brothers", "original_title": "Mowgli's Brothers", "slug_title": "mowgli-s-brothers", "date": "1976-02-11", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzq8xcmW2O1hqp1rPxumclGnRUF.jpg", "actors": [], "comments": [], "recommandations_id": []}

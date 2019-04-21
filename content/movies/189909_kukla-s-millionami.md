@@ -1,0 +1,1 @@
+{"tmdb_id": 189909, "title": "Kukla s millionami", "original_title": "Kukla s millionami", "slug_title": "kukla-s-millionami", "date": "1928-04-29", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rkRPk2Ra0K5TRXmzIxISVMN9fKn.jpg", "actors": [], "comments": [], "recommandations_id": []}

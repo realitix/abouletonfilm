@@ -1,0 +1,1 @@
+{"tmdb_id": 545019, "title": "La \u00daltima Noticia", "original_title": "La \u00daltima Noticia", "slug_title": "la-ultima-noticia", "date": "2015-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lwRzPagErNZbZcrrDjsiRSeJu6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 524313, "title": "The Bell, the Digger, and the Tropical Pharmacy", "original_title": "The Bell, the Digger, and the Tropical Pharmacy", "slug_title": "the-bell-the-digger-and-the-tropical-pharmacy", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564670, "title": "La temp\u00eate", "original_title": "La temp\u00eate", "slug_title": "la-tempete", "date": "2018-08-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4t6XnAekfDRUZzsI5EAHF52z8pF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 73732, "title": "Gachiban Ultimate", "original_title": "Gachiban Ultimate", "slug_title": "gachiban-ultimate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eD0Fl83z32MNLupnyqsF0Pfmcgk.jpg", "actors": [], "comments": [], "recommandations_id": []}

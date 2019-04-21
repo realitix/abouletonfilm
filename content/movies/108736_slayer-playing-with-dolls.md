@@ -1,0 +1,1 @@
+{"tmdb_id": 108736, "title": "Slayer: Playing With Dolls", "original_title": "Slayer: Playing With Dolls", "slug_title": "slayer-playing-with-dolls", "date": "2009-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uDK89jqyxuhFy2O9jlEkJ9oo8Ze.jpg", "actors": [], "comments": [], "recommandations_id": []}

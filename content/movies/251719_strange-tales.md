@@ -1,0 +1,1 @@
+{"tmdb_id": 251719, "title": "Strange Tales", "original_title": "Strange Tales", "slug_title": "strange-tales", "date": "1986-01-21", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ew7BRDADiT2Drx3kWZ7tjgSuElx.jpg", "actors": [], "comments": [], "recommandations_id": []}

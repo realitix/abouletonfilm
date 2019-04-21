@@ -1,0 +1,1 @@
+{"tmdb_id": 79799, "title": "Bhargava", "original_title": "Bhargava", "slug_title": "bhargava", "date": "2008-03-08", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bharath Niwas ()", "Kajal Agarwal ()", "Khushboo ()", "M. S. Bhaskar ()", "Raj Kapoor ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310354, "title": "Elite XC: Uprising: Rua vs. Lawler", "original_title": "Elite XC: Uprising: Rua vs. Lawler", "slug_title": "elite-xc-uprising-rua-vs-lawler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

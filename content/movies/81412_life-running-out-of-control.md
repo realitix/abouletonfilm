@@ -1,0 +1,1 @@
+{"tmdb_id": 81412, "title": "Life Running Out of Control", "original_title": "Leben au\u00dfer Kontrolle", "slug_title": "life-running-out-of-control", "date": "2004-07-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mjtCvyXEIipFPC11B3SxHrivlt.jpg", "actors": [], "comments": [], "recommandations_id": []}

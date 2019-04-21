@@ -1,0 +1,1 @@
+{"tmdb_id": 117383, "title": "Pies And Guys", "original_title": "Pies And Guys", "slug_title": "pies-and-guys", "date": "1958-06-12", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fine (Larry)", "Joe Besser (Joe)", "Greta Thyssen (Miss Lulu)", "Moe Howard (Moe)"], "comments": [], "recommandations_id": []}

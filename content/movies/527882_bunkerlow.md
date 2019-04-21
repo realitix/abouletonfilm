@@ -1,0 +1,1 @@
+{"tmdb_id": 527882, "title": "Bunkerlow", "original_title": "Bunkerlow", "slug_title": "bunkerlow", "date": "1992-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

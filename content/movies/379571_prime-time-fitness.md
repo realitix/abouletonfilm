@@ -1,0 +1,1 @@
+{"tmdb_id": 379571, "title": "Prime Time Fitness", "original_title": "Prime Time Fitness", "slug_title": "prime-time-fitness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8GbZk95fLxEDFntpp0ByodtyOr.jpg", "actors": [], "comments": [], "recommandations_id": []}

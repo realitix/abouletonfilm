@@ -1,0 +1,1 @@
+{"tmdb_id": 406308, "title": "Il manocchio", "original_title": "Il manocchio", "slug_title": "il-manocchio", "date": "1996-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNKuwPjQYpFApmxsBlFX0mW6RfP.jpg", "actors": [], "comments": [], "recommandations_id": []}

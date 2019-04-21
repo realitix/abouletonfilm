@@ -1,0 +1,1 @@
+{"tmdb_id": 469119, "title": "Mitt folk \u00e4r icke ditt", "original_title": "Mitt folk \u00e4r icke ditt", "slug_title": "mitt-folk-ar-icke-ditt", "date": "1944-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

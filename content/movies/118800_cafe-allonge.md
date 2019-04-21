@@ -1,0 +1,1 @@
+{"tmdb_id": 118800, "title": "Caf\u00e9 allong\u00e9", "original_title": "Caf\u00e9 allong\u00e9", "slug_title": "cafe-allonge", "date": "", "genre": "Animation / Drame / Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2qJbn68nweQTjedhsmCvYZJrnI.jpg", "actors": [], "comments": [], "recommandations_id": []}

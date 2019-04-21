@@ -1,0 +1,1 @@
+{"tmdb_id": 86292, "title": "The Philosopher Kings", "original_title": "The Philosopher Kings", "slug_title": "the-philosopher-kings", "date": "2009-03-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bQxItHXGjVZeT3O8LeuWGGUnhn.jpg", "actors": [], "comments": [], "recommandations_id": []}

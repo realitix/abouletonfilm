@@ -1,0 +1,1 @@
+{"tmdb_id": 312234, "title": "Aska: Japanese Drum", "original_title": "Aska: Japanese Drum", "slug_title": "aska-japanese-drum", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

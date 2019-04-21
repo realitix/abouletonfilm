@@ -1,0 +1,1 @@
+{"tmdb_id": 163208, "title": "The Director's Cut", "original_title": "The Director's Cut", "slug_title": "the-director-s-cut", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sIRnbgigYMf2duF728A5nGa8VMx.jpg", "actors": [], "comments": [], "recommandations_id": []}

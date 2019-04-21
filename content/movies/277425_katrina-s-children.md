@@ -1,0 +1,1 @@
+{"tmdb_id": 277425, "title": "Katrina's Children", "original_title": "Katrina's Children", "slug_title": "katrina-s-children", "date": "2008-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

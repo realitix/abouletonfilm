@@ -1,0 +1,1 @@
+{"tmdb_id": 213573, "title": "Na sua companhia", "original_title": "Na sua companhia", "slug_title": "na-sua-companhia", "date": "2011-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/975q2T2NxHCH32KN6xUyQTz5pyH.jpg", "actors": [], "comments": [], "recommandations_id": []}

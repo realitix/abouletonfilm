@@ -1,0 +1,1 @@
+{"tmdb_id": 307046, "title": "One Dog Day", "original_title": "One Dog Day", "slug_title": "one-dog-day", "date": "1997-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

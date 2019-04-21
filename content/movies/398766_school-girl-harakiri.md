@@ -1,0 +1,1 @@
+{"tmdb_id": 398766, "title": "School Girl: Harakiri", "original_title": "Jogakusei: harakiri", "slug_title": "school-girl-harakiri", "date": "1990-01-01", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cy98HTe1DvhhKuFds1tmsvjYtOM.jpg", "actors": ["Hiromi Saotome ()"], "comments": [], "recommandations_id": []}

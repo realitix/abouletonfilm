@@ -1,0 +1,1 @@
+{"tmdb_id": 350194, "title": "\ucd94\uc5b5\uc758 \uc774\ub984\uc73c\ub85c", "original_title": "\ucd94\uc5b5\uc758 \uc774\ub984\uc73c\ub85c", "slug_title": "cueogyi-ireumeuro", "date": "1989-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

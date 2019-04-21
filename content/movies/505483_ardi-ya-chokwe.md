@@ -1,0 +1,1 @@
+{"tmdb_id": 505483, "title": "Ardi ya Chokwe", "original_title": "Ardi ya Chokwe", "slug_title": "ardi-ya-chokwe", "date": "", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSRtkNzNZomK7ruW7l6FKSTWZzV.jpg", "actors": [], "comments": [], "recommandations_id": []}

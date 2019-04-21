@@ -1,0 +1,1 @@
+{"tmdb_id": 237147, "title": "Wotta Knight", "original_title": "Wotta Knight", "slug_title": "wotta-knight", "date": "1947-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AimzTnHSQ4e1mVYJuAHsI1GVWx.jpg", "actors": [], "comments": [], "recommandations_id": []}

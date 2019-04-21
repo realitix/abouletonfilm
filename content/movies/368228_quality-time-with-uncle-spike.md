@@ -1,0 +1,1 @@
+{"tmdb_id": 368228, "title": "Quality Time with Uncle Spike", "original_title": "Quality Time with Uncle Spike", "slug_title": "quality-time-with-uncle-spike", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

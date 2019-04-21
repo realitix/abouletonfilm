@@ -1,0 +1,1 @@
+{"tmdb_id": 411392, "title": "How to Kill a Human Being", "original_title": "How to Kill a Human Being", "slug_title": "how-to-kill-a-human-being", "date": "2008-01-15", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w22PKXnoB7cReiYI4KkJ6Suf5qh.jpg", "actors": [], "comments": [], "recommandations_id": []}

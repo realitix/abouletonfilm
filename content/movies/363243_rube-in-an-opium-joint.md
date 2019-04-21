@@ -1,0 +1,1 @@
+{"tmdb_id": 363243, "title": "Rube in an Opium Joint", "original_title": "Rube in an Opium Joint", "slug_title": "rube-in-an-opium-joint", "date": "1905-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

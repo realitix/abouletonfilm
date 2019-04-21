@@ -1,0 +1,1 @@
+{"tmdb_id": 192977, "title": "Osuofia in London 2", "original_title": "Osuofia in London 2", "slug_title": "osuofia-in-london-2", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nkem Owoh (Osuofia)"], "comments": [], "recommandations_id": []}

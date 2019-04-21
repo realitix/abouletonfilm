@@ -1,0 +1,1 @@
+{"tmdb_id": 331715, "title": "Hard Side of the Rock", "original_title": "Hard Side of the Rock", "slug_title": "hard-side-of-the-rock", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

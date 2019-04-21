@@ -1,0 +1,1 @@
+{"tmdb_id": 329281, "title": "Les Casablancais", "original_title": "Les Casablancais", "slug_title": "les-casablancais", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aziz Sa\u00e2dallah ()", "Khadija Assas ()", "Salah Benmoussa ()"], "comments": [], "recommandations_id": []}

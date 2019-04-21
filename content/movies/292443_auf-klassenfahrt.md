@@ -1,0 +1,1 @@
+{"tmdb_id": 292443, "title": "Auf Klassenfahrt", "original_title": "Auf Klassenfahrt", "slug_title": "auf-klassenfahrt", "date": "2004-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQfoG5gcmNwMjoLT5i3JqAWwg3j.jpg", "actors": ["Vivian Schmitt (Anna B.)"], "comments": [], "recommandations_id": []}

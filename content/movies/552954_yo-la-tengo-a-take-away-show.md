@@ -1,0 +1,1 @@
+{"tmdb_id": 552954, "title": "Yo La Tengo A Take Away Show", "original_title": "Yo La Tengo A Take Away Show", "slug_title": "yo-la-tengo-a-take-away-show", "date": "2009-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

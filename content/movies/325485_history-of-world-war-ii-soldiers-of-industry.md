@@ -1,0 +1,1 @@
+{"tmdb_id": 325485, "title": "History Of World War II Soldiers Of Industry", "original_title": "History Of World War II Soldiers Of Industry", "slug_title": "history-of-world-war-ii-soldiers-of-industry", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

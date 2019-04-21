@@ -1,0 +1,1 @@
+{"tmdb_id": 52865, "title": "Oil Smoke and Mirrors", "original_title": "Oil Smoke and Mirrors", "slug_title": "oil-smoke-and-mirrors", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5j1ZJArbkfTSdZzPwy23oJ9UakV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273079, "title": "This Happened: Claudia Brucken Live at the Scala", "original_title": "This Happened: Claudia Brucken Live at the Scala", "slug_title": "this-happened-claudia-brucken-live-at-the-scala", "date": "2012-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 495976, "title": "Spiders in Love: An Arachnogasmic Musical", "original_title": "Spiders in Love: An Arachnogasmic Musical", "slug_title": "spiders-in-love-an-arachnogasmic-musical", "date": "1999-08-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

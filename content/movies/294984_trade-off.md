@@ -1,0 +1,1 @@
+{"tmdb_id": 294984, "title": "Trade Off", "original_title": "Trade Off", "slug_title": "trade-off", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

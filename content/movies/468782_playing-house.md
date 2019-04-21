@@ -1,0 +1,1 @@
+{"tmdb_id": 468782, "title": "Playing House", "original_title": "Evcilik", "slug_title": "playing-house", "date": "2017-07-08", "genre": "Com\u00e9die / Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctRHYHFzNLh9SgT1Qv01T90TzV7.jpg", "actors": [], "comments": [], "recommandations_id": []}

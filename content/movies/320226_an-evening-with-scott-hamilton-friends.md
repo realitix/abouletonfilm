@@ -1,0 +1,1 @@
+{"tmdb_id": 320226, "title": "An Evening with Scott Hamilton & Friends", "original_title": "An Evening with Scott Hamilton & Friends", "slug_title": "an-evening-with-scott-hamilton-friends", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311891, "title": "Ahmad Jamal: Live in Baalbeck", "original_title": "Ahmad Jamal: Live in Baalbeck", "slug_title": "ahmad-jamal-live-in-baalbeck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

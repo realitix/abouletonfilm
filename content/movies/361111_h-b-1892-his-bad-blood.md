@@ -1,0 +1,1 @@
+{"tmdb_id": 361111, "title": "H.B. 1892 (his bad bl\u00f6Od)", "original_title": "H.B. 1892 (his bad bl\u00f6Od)", "slug_title": "h-b-1892-his-bad-blood", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nQFeUON3OPNjeT9dNe13GfRIgi.jpg", "actors": [], "comments": [], "recommandations_id": []}

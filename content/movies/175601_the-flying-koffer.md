@@ -1,0 +1,1 @@
+{"tmdb_id": 175601, "title": "The Flying Koffer", "original_title": "Der fliegende Koffer", "slug_title": "the-flying-koffer", "date": "1921-09-01", "genre": "Animation / Fantastique", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27kaCc3BoHouXn31Q8Gr86NT5Wl.jpg", "actors": [], "comments": [], "recommandations_id": [88158]}

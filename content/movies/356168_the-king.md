@@ -1,0 +1,1 @@
+{"tmdb_id": 356168, "title": "The King", "original_title": "O Rei", "slug_title": "the-king", "date": "2014-10-02", "genre": "Fantastique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hhOd0EZTamHRkERKVbPKneqDCk.jpg", "actors": ["Miguel Seabra Lopes ()", "Joana de Verona ()"], "comments": [], "recommandations_id": []}

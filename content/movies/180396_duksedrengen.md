@@ -1,0 +1,1 @@
+{"tmdb_id": 180396, "title": "Duksedrengen", "original_title": "Duksedrengen", "slug_title": "duksedrengen", "date": "1989-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apGROD3T2DrZtyQBJHkRCEJet48.jpg", "actors": [], "comments": [], "recommandations_id": []}

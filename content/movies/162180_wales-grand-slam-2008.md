@@ -1,0 +1,1 @@
+{"tmdb_id": 162180, "title": "Wales - Grand Slam 2008", "original_title": "Wales - Grand Slam 2008", "slug_title": "wales-grand-slam-2008", "date": "2008-05-31", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xTTxdCkFnCRYwkNKSWINxQFV2nD.jpg", "actors": [], "comments": [], "recommandations_id": []}

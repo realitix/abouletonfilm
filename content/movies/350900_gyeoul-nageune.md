@@ -1,0 +1,1 @@
+{"tmdb_id": 350900, "title": "\uaca8\uc6b8 \ub098\uadf8\ub124", "original_title": "\uaca8\uc6b8 \ub098\uadf8\ub124", "slug_title": "gyeoul-nageune", "date": "1986-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

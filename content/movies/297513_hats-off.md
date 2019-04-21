@@ -1,0 +1,1 @@
+{"tmdb_id": 297513, "title": "Hats Off", "original_title": "Hats Off", "slug_title": "hats-off", "date": "2008-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

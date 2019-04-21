@@ -1,0 +1,1 @@
+{"tmdb_id": 191991, "title": "Un duello allo schrapnell", "original_title": "Un duello allo schrapnell", "slug_title": "un-duello-allo-schrapnell", "date": "1913-09-11", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

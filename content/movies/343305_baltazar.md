@@ -1,0 +1,1 @@
+{"tmdb_id": 343305, "title": "Baltazar", "original_title": "Baltazar", "slug_title": "baltazar", "date": "1975-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXHj5J8poQL9R4SXtB19QZf6SsQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

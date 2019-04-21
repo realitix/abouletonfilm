@@ -1,0 +1,1 @@
+{"tmdb_id": 439889, "title": "Sonho de um Homem Rid\u00edculo", "original_title": "Sonho de um Homem Rid\u00edculo", "slug_title": "sonho-de-um-homem-ridiculo", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Celso Frateschi ()"], "comments": [], "recommandations_id": []}

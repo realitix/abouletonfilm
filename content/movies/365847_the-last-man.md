@@ -1,0 +1,1 @@
+{"tmdb_id": 365847, "title": "The Last Man", "original_title": "The Last Man", "slug_title": "the-last-man", "date": "2014-08-23", "genre": "Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNDfy3ZKgkHA1GU3HucxeZbP6K9.jpg", "actors": ["Richard Glover (Sergeant Jacob Stanton)"], "comments": [], "recommandations_id": []}

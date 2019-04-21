@@ -1,0 +1,1 @@
+{"tmdb_id": 355936, "title": "Le prince de Galles", "original_title": "Le prince de Galles", "slug_title": "le-prince-de-galles", "date": "1892-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["King Edward VII (Himself (King Edward VII))"], "comments": [], "recommandations_id": []}

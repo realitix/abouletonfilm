@@ -1,0 +1,1 @@
+{"tmdb_id": 417322, "title": "DIY Country", "original_title": "DIY Country", "slug_title": "diy-country", "date": "2016-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4bnYWCYEoIx3LNlYZMse5qgB72.jpg", "actors": [], "comments": [], "recommandations_id": []}

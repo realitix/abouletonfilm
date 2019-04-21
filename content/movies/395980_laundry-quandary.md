@@ -1,0 +1,1 @@
+{"tmdb_id": 395980, "title": "Laundry Quandary", "original_title": "Laundry Quandary", "slug_title": "laundry-quandary", "date": "2014-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

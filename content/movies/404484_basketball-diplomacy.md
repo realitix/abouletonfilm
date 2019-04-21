@@ -1,0 +1,1 @@
+{"tmdb_id": 404484, "title": "Basketball Diplomacy", "original_title": "Basketball Diplomacy", "slug_title": "basketball-diplomacy", "date": "2013-06-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5gViqhKPqXdxXeiXH2BFW3QPwp.jpg", "actors": [], "comments": [], "recommandations_id": []}

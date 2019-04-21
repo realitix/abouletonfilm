@@ -1,0 +1,1 @@
+{"tmdb_id": 337079, "title": "Jungle Fighters", "original_title": "Jungle Fighters", "slug_title": "jungle-fighters", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

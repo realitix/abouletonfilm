@@ -1,0 +1,1 @@
+{"tmdb_id": 526697, "title": "Eu sou o Super-Homem", "original_title": "Eu sou o Super-Homem", "slug_title": "eu-sou-o-super-homem", "date": "2017-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uA4IJbNlexTm6IKczILzsP0cEqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

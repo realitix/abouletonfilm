@@ -1,0 +1,1 @@
+{"tmdb_id": 138550, "title": "The Star Making Machine", "original_title": "La m\u00e1quina que hace estrellas", "slug_title": "the-star-making-machine", "date": "2012-08-30", "genre": "", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojDZgZZND2RZmAcBD1Yhnu77lX0.jpg", "actors": [], "comments": [], "recommandations_id": []}

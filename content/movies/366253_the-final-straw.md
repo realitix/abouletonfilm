@@ -1,0 +1,1 @@
+{"tmdb_id": 366253, "title": "The Final Straw", "original_title": "The Final Straw", "slug_title": "the-final-straw", "date": "2013-08-10", "genre": "Com\u00e9die / Animation / Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bP11v3Bq5Ot4UvKOKsRP1c9PMDy.jpg", "actors": [], "comments": [], "recommandations_id": []}

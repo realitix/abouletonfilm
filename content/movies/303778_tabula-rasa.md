@@ -1,0 +1,1 @@
+{"tmdb_id": 303778, "title": "Tabula Rasa", "original_title": "Tabula Rasa", "slug_title": "tabula-rasa", "date": "2005-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aa6HzNBGdBi39m47PGgwZ3ojxrV.jpg", "actors": [], "comments": [], "recommandations_id": []}

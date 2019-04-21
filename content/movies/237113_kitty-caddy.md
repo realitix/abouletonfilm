@@ -1,0 +1,1 @@
+{"tmdb_id": 237113, "title": "Kitty Caddy", "original_title": "Kitty Caddy", "slug_title": "kitty-caddy", "date": "1947-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 380578, "title": "Tulisan ng Pasong Musang", "original_title": "Tulisan ng Pasong Musang", "slug_title": "tulisan-ng-pasong-musang", "date": "1982-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMYT45B4LtPA4woHLtbUrCKLBYh.jpg", "actors": [], "comments": [], "recommandations_id": []}

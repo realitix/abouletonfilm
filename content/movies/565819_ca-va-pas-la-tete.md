@@ -1,0 +1,1 @@
+{"tmdb_id": 565819, "title": "\u00c7a va pas la t\u00eate", "original_title": "\u00c7a va pas la t\u00eate", "slug_title": "ca-va-pas-la-tete", "date": "1978-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVJKdTq07Rv1mGrdyRzb5hvCRBc.jpg", "actors": [], "comments": [], "recommandations_id": []}

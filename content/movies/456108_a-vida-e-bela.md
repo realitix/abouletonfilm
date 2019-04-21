@@ -1,0 +1,1 @@
+{"tmdb_id": 456108, "title": "A Vida \u00c9 Bela?!", "original_title": "A Vida \u00c9 Bela?!", "slug_title": "a-vida-e-bela", "date": "1982-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2Xq05X37BUhUW8ExC6kAXnFgFZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

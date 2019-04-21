@@ -1,0 +1,1 @@
+{"tmdb_id": 469466, "title": "Dziennik z podr\u00f3zy", "original_title": "Dziennik z podr\u00f3zy", "slug_title": "dziennik-z-podrozy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

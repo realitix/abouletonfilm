@@ -1,0 +1,1 @@
+{"tmdb_id": 421641, "title": "Going Out of Business", "original_title": "Going Out of Business", "slug_title": "going-out-of-business", "date": "1978-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

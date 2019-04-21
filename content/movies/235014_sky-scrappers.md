@@ -1,0 +1,1 @@
+{"tmdb_id": 235014, "title": "Sky Scrappers", "original_title": "Sky Scrappers", "slug_title": "sky-scrappers", "date": "1957-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

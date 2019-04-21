@@ -1,0 +1,1 @@
+{"tmdb_id": 314848, "title": "The Perfect Sacrifice: When Heaven Comes To Earth", "original_title": "The Perfect Sacrifice: When Heaven Comes To Earth", "slug_title": "the-perfect-sacrifice-when-heaven-comes-to-earth", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

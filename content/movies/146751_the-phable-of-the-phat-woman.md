@@ -1,0 +1,1 @@
+{"tmdb_id": 146751, "title": "The Phable of the Phat Woman", "original_title": "The Phable of the Phat Woman", "slug_title": "the-phable-of-the-phat-woman", "date": "1916-01-14", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

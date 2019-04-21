@@ -1,0 +1,1 @@
+{"tmdb_id": 516066, "title": "Trzy Siostry T", "original_title": "Trzy Siostry T", "slug_title": "trzy-siostry-t", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

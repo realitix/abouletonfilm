@@ -1,0 +1,1 @@
+{"tmdb_id": 348561, "title": "Ningu\u00e9m \u00e9 Black Bloc", "original_title": "Ningu\u00e9m \u00e9 Black Bloc", "slug_title": "ninguem-e-black-bloc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

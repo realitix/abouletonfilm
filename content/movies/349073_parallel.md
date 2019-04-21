@@ -1,0 +1,1 @@
+{"tmdb_id": 349073, "title": "Parallel", "original_title": "Parallel", "slug_title": "parallel", "date": "2016-09-08", "genre": "Aventure / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Holzier (Seth Forset)", "Brady Martin (Kyle Manor)"], "comments": [], "recommandations_id": []}

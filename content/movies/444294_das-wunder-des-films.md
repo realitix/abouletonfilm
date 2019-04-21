@@ -1,0 +1,1 @@
+{"tmdb_id": 444294, "title": "Das Wunder des Films", "original_title": "Das Wunder des Films", "slug_title": "das-wunder-des-films", "date": "1955-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

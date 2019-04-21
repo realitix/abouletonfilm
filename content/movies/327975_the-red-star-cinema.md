@@ -1,0 +1,1 @@
+{"tmdb_id": 327975, "title": "The Red Star Cinema", "original_title": "Kino Crvena zvijezda", "slug_title": "the-red-star-cinema", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34nrOV5iCEHkkCOn532CqrnuDZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

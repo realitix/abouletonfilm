@@ -1,0 +1,1 @@
+{"tmdb_id": 249802, "title": "Dental Follies", "original_title": "Dental Follies", "slug_title": "dental-follies", "date": "1937-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Waldridge ()", "Aileen Cook ()", "The Eltons ()", "Mary Sutherland ()", "Pinky Lee ()"], "comments": [], "recommandations_id": []}

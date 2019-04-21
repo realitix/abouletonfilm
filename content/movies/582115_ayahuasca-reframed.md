@@ -1,0 +1,1 @@
+{"tmdb_id": 582115, "title": "Ayahuasca Reframed", "original_title": "Ayahuasca Reframed", "slug_title": "ayahuasca-reframed", "date": "2017-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

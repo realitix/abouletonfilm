@@ -1,0 +1,1 @@
+{"tmdb_id": 441677, "title": "Acid Is Groovy Kill the Pigs", "original_title": "Acid Is Groovy Kill the Pigs", "slug_title": "acid-is-groovy-kill-the-pigs", "date": "1993-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yYgrVcSzCFJoNVvOm8g1kT5ZpVQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 403949, "title": "The two faces of money", "original_title": "La double face de la monnaie", "slug_title": "the-two-faces-of-money", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yu9qJVkkUGS3YKXd2zEjc9U3Yp3.jpg", "actors": [], "comments": [], "recommandations_id": []}

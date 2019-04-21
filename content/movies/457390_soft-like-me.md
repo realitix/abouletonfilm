@@ -1,0 +1,1 @@
+{"tmdb_id": 457390, "title": "Soft Like Me", "original_title": "Soft Like Me", "slug_title": "soft-like-me", "date": "1996-03-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMLtaVWh3e6KF2PLHg82sY3XOLn.jpg", "actors": ["Marc Ducusin (Linus)"], "comments": [], "recommandations_id": []}

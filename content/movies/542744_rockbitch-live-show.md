@@ -1,0 +1,1 @@
+{"tmdb_id": 542744, "title": "Rockbitch Live Show", "original_title": "Rockbitch Live Show", "slug_title": "rockbitch-live-show", "date": "1998-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0pmRhIJeaGPllLkzUwasSAik8B.jpg", "actors": [], "comments": [], "recommandations_id": []}

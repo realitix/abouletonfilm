@@ -1,0 +1,1 @@
+{"tmdb_id": 545114, "title": "The Making of MA in Ryoan-ji", "original_title": "The Making of MA in Ryoan-ji", "slug_title": "the-making-of-ma-in-ryoan-ji", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LQwpbO1DzW2M2oqP5X2KYDBk4y.jpg", "actors": [], "comments": [], "recommandations_id": []}

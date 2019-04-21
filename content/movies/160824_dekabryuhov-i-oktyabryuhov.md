@@ -1,0 +1,1 @@
+{"tmdb_id": 160824, "title": "Dekabryuhov i oktyabryuhov", "original_title": "Dekabryuhov i oktyabryuhov", "slug_title": "dekabryuhov-i-oktyabryuhov", "date": "1928-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

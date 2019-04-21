@@ -1,0 +1,1 @@
+{"tmdb_id": 456410, "title": "School for Swing", "original_title": "School for Swing", "slug_title": "school-for-swing", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593775, "title": "RWBY: Volume 1", "original_title": "RWBY: Volume 1", "slug_title": "rwby-volume-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

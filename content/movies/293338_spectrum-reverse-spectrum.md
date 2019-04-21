@@ -1,0 +1,1 @@
+{"tmdb_id": 293338, "title": "Spectrum Reverse Spectrum", "original_title": "Spectrum Reverse Spectrum", "slug_title": "spectrum-reverse-spectrum", "date": "2014-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRGNhCqEKDHcLe86rb0hNrS2roJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

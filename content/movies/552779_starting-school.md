@@ -1,0 +1,1 @@
+{"tmdb_id": 552779, "title": "Starting School", "original_title": "Starting School", "slug_title": "starting-school", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313155, "title": "Alberta Hunter: Jazz Masters Series", "original_title": "Alberta Hunter: Jazz Masters Series", "slug_title": "alberta-hunter-jazz-masters-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

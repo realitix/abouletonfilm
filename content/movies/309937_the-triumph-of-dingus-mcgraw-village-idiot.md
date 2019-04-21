@@ -1,0 +1,1 @@
+{"tmdb_id": 309937, "title": "The Triumph of Dingus McGraw: Village Idiot", "original_title": "The Triumph of Dingus McGraw: Village Idiot", "slug_title": "the-triumph-of-dingus-mcgraw-village-idiot", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

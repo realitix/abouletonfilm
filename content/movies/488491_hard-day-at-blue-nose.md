@@ -1,0 +1,1 @@
+{"tmdb_id": 488491, "title": "Hard Day at Blue Nose", "original_title": "Hard Day at Blue Nose", "slug_title": "hard-day-at-blue-nose", "date": "1974-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Astin ()", "Patty Duke ()"], "comments": [], "recommandations_id": []}

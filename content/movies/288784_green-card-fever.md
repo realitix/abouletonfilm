@@ -1,0 +1,1 @@
+{"tmdb_id": 288784, "title": "Green Card Fever", "original_title": "Green Card Fever", "slug_title": "green-card-fever", "date": "2003-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tqY5gc3SdMneJjjWotwXpPLmwx.jpg", "actors": ["Robert Lin (Chen)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 455658, "title": "Un nouveau Dreyfus?", "original_title": "Un nouveau Dreyfus?", "slug_title": "un-nouveau-dreyfus", "date": "2017-02-28", "genre": "Documentaire / Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTFqtkUGCkzWzGVDbqLZqovf8Cs.jpg", "actors": [], "comments": [], "recommandations_id": []}

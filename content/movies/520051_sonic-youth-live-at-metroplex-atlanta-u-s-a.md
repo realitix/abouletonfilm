@@ -1,0 +1,1 @@
+{"tmdb_id": 520051, "title": "Sonic Youth - Live At Metroplex, Atlanta, U.S.A.", "original_title": "Sonic Youth - Live At Metroplex, Atlanta, U.S.A.", "slug_title": "sonic-youth-live-at-metroplex-atlanta-u-s-a", "date": "1987-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

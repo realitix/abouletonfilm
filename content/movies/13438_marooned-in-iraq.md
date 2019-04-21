@@ -1,0 +1,1 @@
+{"tmdb_id": 13438, "title": "Marooned in Iraq", "original_title": "Gomgashtei dar Aragh", "slug_title": "marooned-in-iraq", "date": "2002-05-22", "genre": "Drame", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5Ka8lvqyTF3m61H3DDX6IadGIu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390725, "title": "Un gar\u00e7on plein d'avenir", "original_title": "Un gar\u00e7on plein d'avenir", "slug_title": "un-garcon-plein-d-avenir", "date": "1965-01-01", "genre": "Documentaire / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

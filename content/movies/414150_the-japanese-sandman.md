@@ -1,0 +1,1 @@
+{"tmdb_id": 414150, "title": "The Japanese Sandman", "original_title": "The Japanese Sandman", "slug_title": "the-japanese-sandman", "date": "2008-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaIDVcO8wfKIlbzkpSO3fee8RuC.jpg", "actors": [], "comments": [], "recommandations_id": []}

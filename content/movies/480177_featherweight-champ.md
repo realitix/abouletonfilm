@@ -1,0 +1,1 @@
+{"tmdb_id": 480177, "title": "Featherweight Champ", "original_title": "Featherweight Champ", "slug_title": "featherweight-champ", "date": "1953-02-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329129, "title": "Beit Shean: Seret Milhama", "original_title": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df: \u05e1\u05e8\u05d8 \u05de\u05dc\u05d7\u05de\u05d4", "slug_title": "beit-shean-seret-milhama", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

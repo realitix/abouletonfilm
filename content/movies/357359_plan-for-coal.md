@@ -1,0 +1,1 @@
+{"tmdb_id": 357359, "title": "Plan for Coal", "original_title": "Plan for Coal", "slug_title": "plan-for-coal", "date": "1952-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Goodliffe ()", "Howard Marion-Crawford ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 335971, "title": "Frenemy of the State", "original_title": "Frenemy of the State", "slug_title": "frenemy-of-the-state", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

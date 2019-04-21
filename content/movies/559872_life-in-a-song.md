@@ -1,0 +1,1 @@
+{"tmdb_id": 559872, "title": "Life in a Song", "original_title": "La vie chant\u00e9e", "slug_title": "life-in-a-song", "date": "1951-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKf7i2i3CyjGoAjw3ocfcigNOH2.jpg", "actors": [], "comments": [], "recommandations_id": []}

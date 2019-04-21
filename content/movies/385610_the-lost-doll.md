@@ -1,0 +1,1 @@
+{"tmdb_id": 385610, "title": "The Lost Doll", "original_title": "Ztracen\u00e1 panenka", "slug_title": "the-lost-doll", "date": "1959-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdg7ndP6SdIpa18PcQ7xMpKdwiM.jpg", "actors": [], "comments": [], "recommandations_id": []}

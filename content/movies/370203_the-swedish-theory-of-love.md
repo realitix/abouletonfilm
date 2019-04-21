@@ -1,0 +1,1 @@
+{"tmdb_id": 370203, "title": "The Swedish Theory of Love", "original_title": "The Swedish Theory of Love", "slug_title": "the-swedish-theory-of-love", "date": "2015-11-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkHGxfOrGPKYFFg5V89EDvBOldD.jpg", "actors": [], "comments": [], "recommandations_id": []}

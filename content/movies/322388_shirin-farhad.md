@@ -1,0 +1,1 @@
+{"tmdb_id": 322388, "title": "Shirin Farhad", "original_title": "Shirin Farhad", "slug_title": "shirin-farhad", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

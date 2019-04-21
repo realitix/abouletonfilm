@@ -1,0 +1,1 @@
+{"tmdb_id": 253433, "title": "Friction", "original_title": "Friction", "slug_title": "friction", "date": "2010-02-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ivz40rhwylF1QPnSmiqTLSyKCOx.jpg", "actors": [], "comments": [], "recommandations_id": []}

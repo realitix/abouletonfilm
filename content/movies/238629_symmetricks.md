@@ -1,0 +1,1 @@
+{"tmdb_id": 238629, "title": "Symmetricks", "original_title": "Symmetricks", "slug_title": "symmetricks", "date": "1972-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LfbeBcTGdb73JBNAMekBPa7omI.jpg", "actors": [], "comments": [], "recommandations_id": []}

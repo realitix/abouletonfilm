@@ -1,0 +1,1 @@
+{"tmdb_id": 555822, "title": "L'Infante \u00e0 la rose", "original_title": "L'Infante \u00e0 la rose", "slug_title": "l-infante-a-la-rose", "date": "1923-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

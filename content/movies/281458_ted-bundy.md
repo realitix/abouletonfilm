@@ -1,0 +1,1 @@
+{"tmdb_id": 281458, "title": "Ted Bundy", "original_title": "Ted Bundy", "slug_title": "ted-bundy", "date": "2009-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

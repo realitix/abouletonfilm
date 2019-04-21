@@ -1,0 +1,1 @@
+{"tmdb_id": 528893, "title": "Victor Hugo: Les Contemplations (Livres V et VI)", "original_title": "Victor Hugo: Les Contemplations (Livres V et VI)", "slug_title": "victor-hugo-les-contemplations-livres-v-et-vi", "date": "1966-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

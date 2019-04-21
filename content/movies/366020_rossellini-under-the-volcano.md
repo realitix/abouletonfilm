@@ -1,0 +1,1 @@
+{"tmdb_id": 366020, "title": "Rossellini Under the Volcano", "original_title": "Rossellini sotto il vulcano", "slug_title": "rossellini-under-the-volcano", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

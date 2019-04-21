@@ -1,0 +1,1 @@
+{"tmdb_id": 156513, "title": "Chinese Jinks", "original_title": "Chinese Jinks", "slug_title": "chinese-jinks", "date": "1932-07-22", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

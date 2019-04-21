@@ -1,0 +1,1 @@
+{"tmdb_id": 268623, "title": "Diamondz n da Ruff", "original_title": "Diamondz n da Ruff", "slug_title": "diamondz-n-da-ruff", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

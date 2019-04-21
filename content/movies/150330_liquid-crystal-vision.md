@@ -1,0 +1,1 @@
+{"tmdb_id": 150330, "title": "Liquid Crystal Vision", "original_title": "Liquid Crystal Vision", "slug_title": "liquid-crystal-vision", "date": "2002-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/guhhcEg7OIehmTQtO1VelxfWAiV.jpg", "actors": [], "comments": [], "recommandations_id": []}

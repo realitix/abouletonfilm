@@ -1,0 +1,1 @@
+{"tmdb_id": 317243, "title": "Chris Columbo", "original_title": "Chris Columbo", "slug_title": "chris-columbo", "date": "1938-08-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531227, "title": "\u0130lk G\u00f6kt\u00fcrk", "original_title": "\u0130lk G\u00f6kt\u00fcrk", "slug_title": "ilk-gokturk", "date": "2019-01-01", "genre": "Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJMYFJjTh8MFLps4VoZy7uwNCDx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 533072, "title": "Pay With Your Soul", "original_title": "Bajar Dengan Djiwa", "slug_title": "pay-with-your-soul", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYvRF3fjd1EE4SEgY4eyTPYGW3c.jpg", "actors": [], "comments": [], "recommandations_id": []}

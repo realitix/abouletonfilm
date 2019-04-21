@@ -1,0 +1,1 @@
+{"tmdb_id": 493781, "title": "Chickens", "original_title": "Chickens", "slug_title": "chickens", "date": "2017-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ITTDOCVFaPdtaeX7Tstc0JPjMq.jpg", "actors": [], "comments": [], "recommandations_id": []}

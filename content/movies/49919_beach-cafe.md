@@ -1,0 +1,1 @@
+{"tmdb_id": 49919, "title": "Beach Caf\u00e9", "original_title": "Caf\u00e9 de la plage", "slug_title": "beach-cafe", "date": "2001-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tPMbCOs4qg1f2VlTFmkPr9wl3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 68268, "title": "Festival do Panda", "original_title": "Festival do Panda", "slug_title": "festival-do-panda", "date": "2011-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7EcDAUvR5oNzZtM5MYLI7cXWxsC.jpg", "actors": [], "comments": [], "recommandations_id": []}

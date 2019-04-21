@@ -1,0 +1,1 @@
+{"tmdb_id": 435855, "title": "Balzac: Hatred Lies Deep Inside", "original_title": "Balzac: Hatred Lies Deep Inside", "slug_title": "balzac-hatred-lies-deep-inside", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

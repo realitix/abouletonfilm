@@ -1,0 +1,1 @@
+{"tmdb_id": 579269, "title": "L'enfant terrible", "original_title": "L'enfant terrible", "slug_title": "l-enfant-terrible", "date": "1993-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

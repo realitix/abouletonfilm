@@ -1,0 +1,1 @@
+{"tmdb_id": 592918, "title": "Edulcoraci\u00f3n", "original_title": "Edulcoraci\u00f3n", "slug_title": "edulcoracion", "date": "2019-03-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCFoGcX6WWJXxa2aZRQVTFDTFip.jpg", "actors": ["Pedro \u00c1lvarez (Sugar Man)"], "comments": [], "recommandations_id": []}

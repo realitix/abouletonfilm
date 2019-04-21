@@ -1,0 +1,1 @@
+{"tmdb_id": 561555, "title": "LA BAYADERE BALLET 2018", "original_title": "LA BAYADERE BALLET 2018", "slug_title": "la-bayadere-ballet-2018", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Jkqe17rw3pRKWhe45GV8t5g9db.jpg", "actors": [], "comments": [], "recommandations_id": []}

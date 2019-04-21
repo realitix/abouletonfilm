@@ -1,0 +1,1 @@
+{"tmdb_id": 539352, "title": "RipT90 Fit - Dead Lift Killer", "original_title": "RipT90 Fit - Dead Lift Killer", "slug_title": "ript90-fit-dead-lift-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoTl0HM63Lz08CStv1eR2QpK8oW.jpg", "actors": [], "comments": [], "recommandations_id": []}

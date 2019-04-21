@@ -1,0 +1,1 @@
+{"tmdb_id": 555119, "title": "Sugar Sisters", "original_title": "Sugar Sisters", "slug_title": "sugar-sisters", "date": "2016-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/KvOp2kJrTS9cKMfo9OoneLxpno.jpg", "actors": [], "comments": [], "recommandations_id": []}

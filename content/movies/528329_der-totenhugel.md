@@ -1,0 +1,1 @@
+{"tmdb_id": 528329, "title": "Der Totenh\u00fcgel", "original_title": "Der Totenh\u00fcgel", "slug_title": "der-totenhugel", "date": "1994-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gw54gLiJgTmL67nxsHw6ZhQOkPS.jpg", "actors": [], "comments": [], "recommandations_id": []}

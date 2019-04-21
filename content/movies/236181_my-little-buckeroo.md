@@ -1,0 +1,1 @@
+{"tmdb_id": 236181, "title": "My Little Buckeroo", "original_title": "My Little Buckeroo", "slug_title": "my-little-buckeroo", "date": "1938-01-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQeVMi2dekvcugDmmaByR3W35mU.jpg", "actors": [], "comments": [], "recommandations_id": []}

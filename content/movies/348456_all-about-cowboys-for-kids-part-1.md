@@ -1,0 +1,1 @@
+{"tmdb_id": 348456, "title": "All About Cowboys For Kids Part 1", "original_title": "All About Cowboys For Kids Part 1", "slug_title": "all-about-cowboys-for-kids-part-1", "date": "2004-09-20", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

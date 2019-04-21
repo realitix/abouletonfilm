@@ -1,0 +1,1 @@
+{"tmdb_id": 75283, "title": "Czech Peace", "original_title": "\u010cesk\u00fd m\u00edr", "slug_title": "czech-peace", "date": "2010-05-06", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tyCgu936lzOgOyBgAOQhLnIG4Ih.jpg", "actors": [], "comments": [], "recommandations_id": [75287]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 514300, "title": "The Taking of Savannah", "original_title": "The Taking of Savannah", "slug_title": "the-taking-of-savannah", "date": "2011-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Krystal Heib (Savannah)"], "comments": [], "recommandations_id": []}

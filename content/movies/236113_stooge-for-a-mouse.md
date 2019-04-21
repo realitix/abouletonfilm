@@ -1,0 +1,1 @@
+{"tmdb_id": 236113, "title": "Stooge for a Mouse", "original_title": "Stooge for a Mouse", "slug_title": "stooge-for-a-mouse", "date": "1950-10-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5paCVbgMkY5vhhDzMxPufHi9Rsr.jpg", "actors": [], "comments": [], "recommandations_id": []}

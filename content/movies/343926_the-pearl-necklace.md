@@ -1,0 +1,1 @@
+{"tmdb_id": 343926, "title": "The Pearl Necklace", "original_title": "Yichuan zhenzhu", "slug_title": "the-pearl-necklace", "date": "1926-02-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

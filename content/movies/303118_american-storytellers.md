@@ -1,0 +1,1 @@
+{"tmdb_id": 303118, "title": "American Storytellers", "original_title": "American Storytellers", "slug_title": "american-storytellers", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

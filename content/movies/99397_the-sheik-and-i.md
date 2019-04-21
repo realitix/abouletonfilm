@@ -1,0 +1,1 @@
+{"tmdb_id": 99397, "title": "The Sheik and I", "original_title": "The Sheik and I", "slug_title": "the-sheik-and-i", "date": "2012-12-07", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4PPyxBFspcG7diWyO6eoinNxOL.jpg", "actors": [], "comments": [], "recommandations_id": []}

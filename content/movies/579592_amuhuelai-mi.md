@@ -1,0 +1,1 @@
+{"tmdb_id": 579592, "title": "Amuhuelai-mi", "original_title": "Amuhuelai-mi", "slug_title": "amuhuelai-mi", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70jiXfjIIGXndwVAf25LamZX0E6.jpg", "actors": [], "comments": [], "recommandations_id": []}

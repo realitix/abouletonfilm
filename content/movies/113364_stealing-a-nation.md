@@ -1,0 +1,1 @@
+{"tmdb_id": 113364, "title": "Stealing a Nation", "original_title": "Stealing a Nation", "slug_title": "stealing-a-nation", "date": "2004-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3EJeDLsxeSzk0hrmrPvbcxyCECY.jpg", "actors": ["John Pilger (Himself)"], "comments": [], "recommandations_id": []}

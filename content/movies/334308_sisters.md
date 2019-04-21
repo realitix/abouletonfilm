@@ -1,0 +1,1 @@
+{"tmdb_id": 334308, "title": "Sisters", "original_title": "Doghi", "slug_title": "sisters", "date": "1995-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJtUTjj7DHMQYdBwN3XtoFKaDaZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

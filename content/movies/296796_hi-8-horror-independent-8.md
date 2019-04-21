@@ -1,0 +1,1 @@
+{"tmdb_id": 296796, "title": "Hi-8 (Horror Independent 8)", "original_title": "Hi-8 (Horror Independent 8)", "slug_title": "hi-8-horror-independent-8", "date": "2014-12-16", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCTgmbml4uUeMvdGdiDfQ6cdbBj.jpg", "actors": [], "comments": [], "recommandations_id": []}

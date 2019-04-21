@@ -1,0 +1,1 @@
+{"tmdb_id": 270448, "title": "Bubblepac", "original_title": "Bubblepac", "slug_title": "bubblepac", "date": "1998-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

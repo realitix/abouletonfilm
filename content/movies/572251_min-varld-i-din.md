@@ -1,0 +1,1 @@
+{"tmdb_id": 572251, "title": "Min v\u00e4rld i din", "original_title": "Min v\u00e4rld i din", "slug_title": "min-varld-i-din", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amina Szecs\u00f6dy Olsson (Stella)", "Amina Szecs\u00f6dy Olsson (Shams)"], "comments": [], "recommandations_id": []}

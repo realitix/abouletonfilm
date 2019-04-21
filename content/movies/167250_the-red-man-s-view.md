@@ -1,0 +1,1 @@
+{"tmdb_id": 167250, "title": "The Red Man's View", "original_title": "The Red Man's View", "slug_title": "the-red-man-s-view", "date": "1909-12-09", "genre": "Western", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkS2O2cn2zjhr58etRV92lju9Ww.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 207396, "title": "Colossus", "original_title": "Colossus", "slug_title": "colossus", "date": "2013-07-19", "genre": "Drame", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhqvbLc8Euf6M3mcJgGAfk2MQJW.jpg", "actors": ["Elena Dudina ()"], "comments": [], "recommandations_id": []}

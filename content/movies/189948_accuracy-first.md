@@ -1,0 +1,1 @@
+{"tmdb_id": 189948, "title": "Accuracy First", "original_title": "Accuracy First", "slug_title": "accuracy-first", "date": "1928-04-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

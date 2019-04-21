@@ -1,0 +1,1 @@
+{"tmdb_id": 409379, "title": "Elementalors", "original_title": "Elementalors", "slug_title": "elementalors", "date": "1995-04-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMUTxBSEMlVHFl7IQ9lDt0xEr1l.jpg", "actors": [], "comments": [], "recommandations_id": []}

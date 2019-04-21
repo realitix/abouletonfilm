@@ -1,0 +1,1 @@
+{"tmdb_id": 278900, "title": "Amour et carburateur", "original_title": "Amour et carburateur", "slug_title": "amour-et-carburateur", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Alerme ()", "Paulette Berger ()", "Albert Broquin ()"], "comments": [], "recommandations_id": []}

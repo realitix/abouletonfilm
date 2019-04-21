@@ -1,0 +1,1 @@
+{"tmdb_id": 566343, "title": "S'il vous pla\u00eet... la mer?", "original_title": "S'il vous pla\u00eet... la mer?", "slug_title": "s-il-vous-plait-la-mer", "date": "1979-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

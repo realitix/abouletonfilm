@@ -1,0 +1,1 @@
+{"tmdb_id": 261134, "title": "The Deposition of Lou Bagetta", "original_title": "The Deposition of Lou Bagetta", "slug_title": "the-deposition-of-lou-bagetta", "date": "2009-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

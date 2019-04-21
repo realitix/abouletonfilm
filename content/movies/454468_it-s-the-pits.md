@@ -1,0 +1,1 @@
+{"tmdb_id": 454468, "title": "It's the Pits", "original_title": "It's the Pits", "slug_title": "it-s-the-pits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ashton McKay ()"], "comments": [], "recommandations_id": []}

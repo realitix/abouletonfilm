@@ -1,0 +1,1 @@
+{"tmdb_id": 381595, "title": "Chidiyaghar", "original_title": "Chidiyaghar", "slug_title": "chidiyaghar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401625, "title": "Je suis Pierre Rivi\u00e8re", "original_title": "Je suis Pierre Rivi\u00e8re", "slug_title": "je-suis-pierre-riviere", "date": "1976-04-07", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lsYtFW3SD0i2cSYDfOMXSI8olVN.jpg", "actors": [], "comments": [], "recommandations_id": []}

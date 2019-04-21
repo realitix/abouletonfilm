@@ -1,0 +1,1 @@
+{"tmdb_id": 464777, "title": "Iraq: God, Love, War and Madness", "original_title": "Iraq: God, Love, War and Madness", "slug_title": "iraq-god-love-war-and-madness", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 463042, "title": "Jake and the Giants", "original_title": "Jake and the Giants", "slug_title": "jake-and-the-giants", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486140, "title": "Plastic Saints", "original_title": "Plastic Saints", "slug_title": "plastic-saints", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

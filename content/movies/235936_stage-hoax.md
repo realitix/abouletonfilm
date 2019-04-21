@@ -1,0 +1,1 @@
+{"tmdb_id": 235936, "title": "Stage Hoax", "original_title": "Stage Hoax", "slug_title": "stage-hoax", "date": "1952-04-20", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2z4sMSX21SEsAL3eoDa56OgrRu8.jpg", "actors": [], "comments": [], "recommandations_id": []}

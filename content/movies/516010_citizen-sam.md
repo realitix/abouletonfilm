@@ -1,0 +1,1 @@
+{"tmdb_id": 516010, "title": "Citizen Sam", "original_title": "Citizen Sam", "slug_title": "citizen-sam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

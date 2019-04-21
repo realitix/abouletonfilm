@@ -1,0 +1,1 @@
+{"tmdb_id": 498201, "title": "Zombie Decadence II", "original_title": "Zombie Decadence II", "slug_title": "zombie-decadence-ii", "date": "2017-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k7WwwtmeTUNijUEubAamnQbomit.jpg", "actors": [], "comments": [], "recommandations_id": []}

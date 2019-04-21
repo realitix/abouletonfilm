@@ -1,0 +1,1 @@
+{"tmdb_id": 312018, "title": "Bob Dylan: In Performance", "original_title": "Bob Dylan: In Performance", "slug_title": "bob-dylan-in-performance", "date": "2007-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278457, "title": "Chicken Real", "original_title": "Chicken Real", "slug_title": "chicken-real", "date": "1970-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8W7be3DZjyCK4y5GrmTGYwgB7v5.jpg", "actors": [], "comments": [], "recommandations_id": []}

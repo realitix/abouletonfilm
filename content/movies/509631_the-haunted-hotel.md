@@ -1,0 +1,1 @@
+{"tmdb_id": 509631, "title": "The Haunted Hotel", "original_title": "The Haunted Hotel", "slug_title": "the-haunted-hotel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teddy Chin ()", "Li Chuan ()", "Sushar Manaying ()", "Mu-Si Ni ()"], "comments": [], "recommandations_id": []}

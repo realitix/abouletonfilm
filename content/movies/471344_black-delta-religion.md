@@ -1,0 +1,1 @@
+{"tmdb_id": 471344, "title": "Black Delta Religion", "original_title": "Black Delta Religion", "slug_title": "black-delta-religion", "date": "1972-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zyKCFdF9qtmUwfIGArpmEgPrwrl.jpg", "actors": [], "comments": [], "recommandations_id": []}

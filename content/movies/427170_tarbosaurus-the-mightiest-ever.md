@@ -1,0 +1,1 @@
+{"tmdb_id": 427170, "title": "Tarbosaurus, The Mightiest Ever", "original_title": "\ud55c\ubc18\ub3c4\uc758 \uacf5\ub8e1", "slug_title": "tarbosaurus-the-mightiest-ever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

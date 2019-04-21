@@ -1,0 +1,1 @@
+{"tmdb_id": 342568, "title": "Eternal Champion", "original_title": "Eterna campeona", "slug_title": "eternal-champion", "date": "2011-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4P2u6gqiNjVPxHY3wQ6d75S1RH.jpg", "actors": ["Lola Gonzales (Herself)"], "comments": [], "recommandations_id": []}

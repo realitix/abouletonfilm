@@ -1,0 +1,1 @@
+{"tmdb_id": 558044, "title": "The Met: Live in HD Carmen", "original_title": "The Met: Live in HD Carmen", "slug_title": "the-met-live-in-hd-carmen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9k4qVk1a2GQabvo14jsHlmMBiuh.jpg", "actors": [], "comments": [], "recommandations_id": []}

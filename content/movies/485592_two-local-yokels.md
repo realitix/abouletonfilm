@@ -1,0 +1,1 @@
+{"tmdb_id": 485592, "title": "Two Local Yokels", "original_title": "Two Local Yokels", "slug_title": "two-local-yokels", "date": "1945-03-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde ()"], "comments": [], "recommandations_id": []}

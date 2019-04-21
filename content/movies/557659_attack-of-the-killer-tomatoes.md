@@ -1,0 +1,1 @@
+{"tmdb_id": 557659, "title": "Attack of the Killer Tomatoes", "original_title": "Attack of the Killer Tomatoes", "slug_title": "attack-of-the-killer-tomatoes", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

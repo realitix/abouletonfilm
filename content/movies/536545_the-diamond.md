@@ -1,0 +1,1 @@
+{"tmdb_id": 536545, "title": "The Diamond", "original_title": "Le diamant", "slug_title": "the-diamond", "date": "1970-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291057, "title": "Stranger", "original_title": "Der Umbakanter", "slug_title": "stranger", "date": "1913-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zina Goldsztejn ()", "Regina Kaminska ()", "Gershon Weissman ()"], "comments": [], "recommandations_id": []}

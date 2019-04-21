@@ -1,0 +1,1 @@
+{"tmdb_id": 152630, "title": "Chico Rey & Paran\u00e1", "original_title": "Chico Rey & Paran\u00e1", "slug_title": "chico-rey-parana", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goVG5tBETdaHpP60M0lqBv5kI90.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 114763, "title": "Angry Joe Bass", "original_title": "Angry Joe Bass", "slug_title": "angry-joe-bass", "date": "1976-01-01", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nfG92PQ99DOQxffsMhwAG5z2MsE.jpg", "actors": ["Henry Bal (Joe Bass)"], "comments": [], "recommandations_id": []}

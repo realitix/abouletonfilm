@@ -1,0 +1,1 @@
+{"tmdb_id": 256376, "title": "Alfred Dorfer - Ohne Netz", "original_title": "Alfred Dorfer - Ohne Netz", "slug_title": "alfred-dorfer-ohne-netz", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUVSmYWJRgdBIyrofi9QmpjUsod.jpg", "actors": ["Alfred Dorfer ()"], "comments": [], "recommandations_id": []}

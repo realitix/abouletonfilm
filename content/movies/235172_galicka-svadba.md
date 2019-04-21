@@ -1,0 +1,1 @@
+{"tmdb_id": 235172, "title": "Galicka Svadba", "original_title": "Galicka Svadba", "slug_title": "galicka-svadba", "date": "1955-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tACycCFHBelz2VOK2fFvaup2pfr.jpg", "actors": [], "comments": [], "recommandations_id": []}

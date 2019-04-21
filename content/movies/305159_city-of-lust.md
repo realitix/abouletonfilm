@@ -1,0 +1,1 @@
+{"tmdb_id": 305159, "title": "City of Lust", "original_title": "City of Lust", "slug_title": "city-of-lust", "date": "2014-07-01", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUk82ojsGh3NlfHT1Yk24d5qitc.jpg", "actors": [], "comments": [], "recommandations_id": []}

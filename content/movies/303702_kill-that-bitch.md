@@ -1,0 +1,1 @@
+{"tmdb_id": 303702, "title": "Kill That Bitch", "original_title": "Kill That Bitch", "slug_title": "kill-that-bitch", "date": "2014-02-04", "genre": "", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJHZbS8vpTrq2tQZv6bXmgLjz2P.jpg", "actors": ["Haley Madison ()"], "comments": [], "recommandations_id": []}

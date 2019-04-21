@@ -1,0 +1,1 @@
+{"tmdb_id": 435553, "title": "De r\u00f6da h\u00e4starna", "original_title": "De r\u00f6da h\u00e4starna", "slug_title": "de-roda-hastarna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

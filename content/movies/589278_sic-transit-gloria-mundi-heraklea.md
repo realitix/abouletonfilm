@@ -1,0 +1,1 @@
+{"tmdb_id": 589278, "title": "Sic Transit Gloria Mundi/Heraklea", "original_title": "Sic Transit Gloria Mundi/Heraklea", "slug_title": "sic-transit-gloria-mundi-heraklea", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

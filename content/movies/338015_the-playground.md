@@ -1,0 +1,1 @@
+{"tmdb_id": 338015, "title": "The Playground", "original_title": "The Playground", "slug_title": "the-playground", "date": "1965-10-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rees Vaughn ()", "Inger Stratton ()", "Edmon Ryan ()", "Andrea Blayne ()", "Loretta Leversee ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 269014, "title": "Ladies of the Church", "original_title": "Ladies of the Church", "slug_title": "ladies-of-the-church", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

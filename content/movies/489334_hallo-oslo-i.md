@@ -1,0 +1,1 @@
+{"tmdb_id": 489334, "title": "Hallo Oslo! I", "original_title": "Hallo Oslo! I", "slug_title": "hallo-oslo-i", "date": "1931-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

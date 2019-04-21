@@ -1,0 +1,1 @@
+{"tmdb_id": 537429, "title": "V\u00edctor Erice: Paris-Madrid allers-retours", "original_title": "V\u00edctor Erice: Paris-Madrid allers-retours", "slug_title": "victor-erice-paris-madrid-allers-retours", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["V\u00edctor Erice ()"], "comments": [], "recommandations_id": []}

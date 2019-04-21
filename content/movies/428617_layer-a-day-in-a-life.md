@@ -1,0 +1,1 @@
+{"tmdb_id": 428617, "title": "Layer: A Day in a Life", "original_title": "Layer: A Day in a Life", "slug_title": "layer-a-day-in-a-life", "date": "2015-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

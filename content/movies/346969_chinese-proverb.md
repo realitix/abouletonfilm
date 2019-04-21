@@ -1,0 +1,1 @@
+{"tmdb_id": 346969, "title": "Chinese proverb", "original_title": "Proverbio Chino", "slug_title": "chinese-proverb", "date": "2006-05-30", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sergio Calder\u00f3n ()", "Hui Chi Chiu ()", "Alba G\u00e1rate ()", "Juan Khun ()"], "comments": [], "recommandations_id": []}

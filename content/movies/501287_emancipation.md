@@ -1,0 +1,1 @@
+{"tmdb_id": 501287, "title": "Emancipation", "original_title": "Emancipation", "slug_title": "emancipation", "date": "2011-03-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uMMKbAGivPpNg4FRWhDolme5vA.jpg", "actors": [], "comments": [], "recommandations_id": []}

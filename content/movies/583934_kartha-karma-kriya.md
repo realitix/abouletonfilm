@@ -1,0 +1,1 @@
+{"tmdb_id": 583934, "title": "Kartha karma kriya", "original_title": "Kartha karma kriya", "slug_title": "kartha-karma-kriya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9pgW83kvYBFgbwCgcrViwvV4zwH.jpg", "actors": [], "comments": [], "recommandations_id": []}

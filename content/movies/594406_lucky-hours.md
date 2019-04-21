@@ -1,0 +1,1 @@
+{"tmdb_id": 594406, "title": "Lucky Hours", "original_title": "Les Heures heureuses", "slug_title": "lucky-hours", "date": "2019-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

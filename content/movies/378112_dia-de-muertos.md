@@ -1,0 +1,1 @@
+{"tmdb_id": 378112, "title": "D\u00eda de muertos", "original_title": "D\u00eda de muertos", "slug_title": "dia-de-muertos", "date": "2018-11-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvs0HXW5vI29cUhtTKuACBAoss7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 373380, "title": "Tsunami - Killer Wave", "original_title": "Tsunami - Killer Wave", "slug_title": "tsunami-killer-wave", "date": "2005-02-22", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/domIz0Ha5taH45fr7iss9h5Sk20.jpg", "actors": [], "comments": [], "recommandations_id": []}

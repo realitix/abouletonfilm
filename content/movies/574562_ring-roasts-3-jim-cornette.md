@@ -1,0 +1,1 @@
+{"tmdb_id": 574562, "title": "Ring Roasts 3: Jim Cornette", "original_title": "Ring Roasts 3: Jim Cornette", "slug_title": "ring-roasts-3-jim-cornette", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Cornette (Himself)"], "comments": [], "recommandations_id": []}

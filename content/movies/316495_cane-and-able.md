@@ -1,0 +1,1 @@
+{"tmdb_id": 316495, "title": "Cane and Able", "original_title": "Cane and Able", "slug_title": "cane-and-able", "date": "1961-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

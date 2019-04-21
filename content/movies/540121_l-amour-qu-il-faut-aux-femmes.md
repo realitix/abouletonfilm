@@ -1,0 +1,1 @@
+{"tmdb_id": 540121, "title": "L'amour qu'il faut aux femmes", "original_title": "L'amour qu'il faut aux femmes", "slug_title": "l-amour-qu-il-faut-aux-femmes", "date": "1934-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

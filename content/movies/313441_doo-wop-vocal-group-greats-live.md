@@ -1,0 +1,1 @@
+{"tmdb_id": 313441, "title": "Doo Wop: Vocal Group Greats Live", "original_title": "Doo Wop: Vocal Group Greats Live", "slug_title": "doo-wop-vocal-group-greats-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

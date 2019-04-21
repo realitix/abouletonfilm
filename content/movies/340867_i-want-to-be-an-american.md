@@ -1,0 +1,1 @@
+{"tmdb_id": 340867, "title": "I Want To Be An American", "original_title": "I Want To Be An American", "slug_title": "i-want-to-be-an-american", "date": "2013-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UmjWUzhBTBKMIOabGrtc5PtNQS.jpg", "actors": [], "comments": [], "recommandations_id": []}

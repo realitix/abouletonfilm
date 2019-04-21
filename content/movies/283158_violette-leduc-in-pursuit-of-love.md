@@ -1,0 +1,1 @@
+{"tmdb_id": 283158, "title": "Violette Leduc, in Pursuit of Love", "original_title": "Violette Leduc, la chasse \u00e0 l\u2019amour", "slug_title": "violette-leduc-in-pursuit-of-love", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

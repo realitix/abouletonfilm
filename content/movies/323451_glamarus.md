@@ -1,0 +1,1 @@
+{"tmdb_id": 323451, "title": "Glamarus", "original_title": "Glamarus", "slug_title": "glamarus", "date": "2014-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 494720, "title": "Te\u0101tris. Filmas arheolo\u0123ija", "original_title": "Te\u0101tris. Filmas arheolo\u0123ija", "slug_title": "teatris-filmas-arheologija", "date": "2015-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330361, "title": "Kv\u00e4llspressen", "original_title": "Kv\u00e4llspressen", "slug_title": "kvallspressen", "date": "1992-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hN08cKTCOowGmk25hGQ8cdOtHAl.jpg", "actors": [], "comments": [], "recommandations_id": []}

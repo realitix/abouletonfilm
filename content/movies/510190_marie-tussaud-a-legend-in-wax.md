@@ -1,0 +1,1 @@
+{"tmdb_id": 510190, "title": "Marie Tussaud: A Legend In Wax", "original_title": "Marie Tussaud: A Legend In Wax", "slug_title": "marie-tussaud-a-legend-in-wax", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nR3Awdw3ONSpz1gApxera15M8W1.jpg", "actors": [], "comments": [], "recommandations_id": []}

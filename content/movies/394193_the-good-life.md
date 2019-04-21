@@ -1,0 +1,1 @@
+{"tmdb_id": 394193, "title": "The good life", "original_title": "The good life", "slug_title": "the-good-life", "date": "2014-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJAkcFuBZrW1XEz6CsQwL8gJ2lA.jpg", "actors": [], "comments": [], "recommandations_id": []}

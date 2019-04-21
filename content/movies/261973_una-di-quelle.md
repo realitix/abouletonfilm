@@ -1,0 +1,1 @@
+{"tmdb_id": 261973, "title": "Una di quelle", "original_title": "Una di quelle", "slug_title": "una-di-quelle", "date": "1953-01-01", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iC1RqhYoBsQCllExSMS0oeGiqoq.jpg", "actors": ["Tot\u00f2 ()", "Peppino De Filippo ()"], "comments": [], "recommandations_id": []}

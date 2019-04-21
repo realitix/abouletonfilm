@@ -1,0 +1,1 @@
+{"tmdb_id": 562189, "title": "Jean-Luc Cinema Godard", "original_title": "Jean-Luc Cinema Godard", "slug_title": "jean-luc-cinema-godard", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

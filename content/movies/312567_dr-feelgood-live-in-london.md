@@ -1,0 +1,1 @@
+{"tmdb_id": 312567, "title": "Dr. Feelgood: Live in London", "original_title": "Dr. Feelgood: Live in London", "slug_title": "dr-feelgood-live-in-london", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

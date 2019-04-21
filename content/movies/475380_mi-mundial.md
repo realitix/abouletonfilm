@@ -1,0 +1,1 @@
+{"tmdb_id": 475380, "title": "Mi Mundial", "original_title": "Mi Mundial", "slug_title": "mi-mundial", "date": "2017-06-22", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/VkqE2TQiuzlxGEVy17W1ARGxYH.jpg", "actors": [], "comments": [], "recommandations_id": [559145, 561269, 513360, 368386]}

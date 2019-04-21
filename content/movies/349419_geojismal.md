@@ -1,0 +1,1 @@
+{"tmdb_id": 349419, "title": "\uac70\uc9d3\ub9d0", "original_title": "\uac70\uc9d3\ub9d0", "slug_title": "geojismal", "date": "2000-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

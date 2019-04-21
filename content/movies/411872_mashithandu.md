@@ -1,0 +1,1 @@
+{"tmdb_id": 411872, "title": "Mashithandu", "original_title": "Mashithandu", "slug_title": "mashithandu", "date": "2015-01-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seema G Nair ()", "Murukan Kattakkada ()", "Balachandran Chullikkadu ()", "Dr MK Muneer ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 124311, "title": "Road Scholar", "original_title": "Road Scholar", "slug_title": "road-scholar", "date": "1993-07-16", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lbF7PlWxzXDVa8p5ubnlDXO97D.jpg", "actors": ["Andrei Codescru (Himself)"], "comments": [], "recommandations_id": []}

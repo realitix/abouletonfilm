@@ -1,0 +1,1 @@
+{"tmdb_id": 564914, "title": "The Kings of Christmas", "original_title": "The Kings of Christmas", "slug_title": "the-kings-of-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uSJoDm44ctuOQn2bHqewtG6maLx.jpg", "actors": [], "comments": [], "recommandations_id": []}

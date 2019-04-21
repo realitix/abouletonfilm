@@ -1,0 +1,1 @@
+{"tmdb_id": 543211, "title": "Paw Patrol - Sea Patrol", "original_title": "Paw Patrol - Sea Patrol", "slug_title": "paw-patrol-sea-patrol", "date": "2018-03-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zj23rGn6cdCD5NIBM5QuWgoDrPE.jpg", "actors": [], "comments": [], "recommandations_id": []}

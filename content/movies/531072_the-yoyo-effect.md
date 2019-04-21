@@ -1,0 +1,1 @@
+{"tmdb_id": 531072, "title": "The YOYO Effect", "original_title": "The YOYO Effect", "slug_title": "the-yoyo-effect", "date": "2018-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

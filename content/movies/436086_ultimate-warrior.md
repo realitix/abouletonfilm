@@ -1,0 +1,1 @@
+{"tmdb_id": 436086, "title": "Ultimate Warrior", "original_title": "Ultimate Warrior", "slug_title": "ultimate-warrior", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q55l8KlbQUMujNo5xREUMX2WotM.jpg", "actors": [], "comments": [], "recommandations_id": []}

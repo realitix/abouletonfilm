@@ -1,0 +1,1 @@
+{"tmdb_id": 486367, "title": "The Kink of the Campus", "original_title": "The Kink of the Campus", "slug_title": "the-kink-of-the-campus", "date": "1941-12-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Durand (Terry Kelly)", "Yvonne De Carlo (Kitty O'Hara)"], "comments": [], "recommandations_id": []}

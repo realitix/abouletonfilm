@@ -1,0 +1,1 @@
+{"tmdb_id": 318144, "title": "Romeo et Juliette: Les Ballets de Monte-Carlo", "original_title": "Romeo et Juliette: Les Ballets de Monte-Carlo", "slug_title": "romeo-et-juliette-les-ballets-de-monte-carlo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

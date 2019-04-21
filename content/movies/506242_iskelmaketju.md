@@ -1,0 +1,1 @@
+{"tmdb_id": 506242, "title": "Iskelm\u00e4ketju", "original_title": "Iskelm\u00e4ketju", "slug_title": "iskelmaketju", "date": "1959-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYNSPDxc6PPETVmOuo5AVOXTzIm.jpg", "actors": [], "comments": [], "recommandations_id": []}

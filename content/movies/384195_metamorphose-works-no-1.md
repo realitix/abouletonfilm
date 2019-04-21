@@ -1,0 +1,1 @@
+{"tmdb_id": 384195, "title": "Metamorphose Works No.1", "original_title": "Henkei Sakuhin Dai 1 Ban", "slug_title": "metamorphose-works-no-1", "date": "1984-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urw0SwexSKWfznQJxXkY3qvRsom.jpg", "actors": [], "comments": [], "recommandations_id": []}

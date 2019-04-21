@@ -1,0 +1,1 @@
+{"tmdb_id": 280178, "title": "Freedom", "original_title": "Freedom", "slug_title": "freedom", "date": "1982-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b85RVhE6LMAerx5y3lrjrVasyl0.jpg", "actors": [], "comments": [], "recommandations_id": []}

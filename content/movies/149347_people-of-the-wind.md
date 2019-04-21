@@ -1,0 +1,1 @@
+{"tmdb_id": 149347, "title": "People of the Wind", "original_title": "People of the Wind", "slug_title": "people-of-the-wind", "date": "1976-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2p1NPyjbVKWkL2oUJS9NPtxqf0.jpg", "actors": [], "comments": [], "recommandations_id": []}

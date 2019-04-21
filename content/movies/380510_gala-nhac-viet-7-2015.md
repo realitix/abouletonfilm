@@ -1,0 +1,1 @@
+{"tmdb_id": 380510, "title": "Gala Nhac Viet 7 - 2015", "original_title": "Gala Nhac Viet 7 - 2015", "slug_title": "gala-nhac-viet-7-2015", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKKQev5LGt6hLi0Iuy20QE5B19d.jpg", "actors": [], "comments": [], "recommandations_id": []}

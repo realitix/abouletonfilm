@@ -1,0 +1,1 @@
+{"tmdb_id": 327797, "title": "Pillar of Fire", "original_title": "Amud Ha'Esh", "slug_title": "pillar-of-fire", "date": "1963-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

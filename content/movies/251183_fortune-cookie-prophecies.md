@@ -1,0 +1,1 @@
+{"tmdb_id": 251183, "title": "Fortune Cookie Prophecies", "original_title": "Fortune Cookie Prophecies", "slug_title": "fortune-cookie-prophecies", "date": "2011-02-01", "genre": "Drame / Horreur / Myst\u00e8re", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

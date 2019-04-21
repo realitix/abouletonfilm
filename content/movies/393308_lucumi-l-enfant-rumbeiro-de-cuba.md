@@ -1,0 +1,1 @@
+{"tmdb_id": 393308, "title": "Lucumi, l'enfant rumbeiro de Cuba", "original_title": "Lucumi, l'enfant rumbeiro de Cuba", "slug_title": "lucumi-l-enfant-rumbeiro-de-cuba", "date": "1995-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

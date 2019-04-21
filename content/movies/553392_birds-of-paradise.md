@@ -1,0 +1,1 @@
+{"tmdb_id": 553392, "title": "Birds of Paradise", "original_title": "Birds of Paradise", "slug_title": "birds-of-paradise", "date": "2003-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmkcxMA04AC4j2QsYhK8yHBOnO0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410045, "title": "Friday Night Fever", "original_title": "Friday Night Fever", "slug_title": "friday-night-fever", "date": "2004-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vlY89R3gDFhstW1aosLAlUtRmhR.jpg", "actors": [], "comments": [], "recommandations_id": []}

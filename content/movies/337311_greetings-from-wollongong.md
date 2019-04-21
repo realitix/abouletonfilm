@@ -1,0 +1,1 @@
+{"tmdb_id": 337311, "title": "Greetings from Wollongong", "original_title": "Greetings from Wollongong", "slug_title": "greetings-from-wollongong", "date": "1982-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fjEl2iR9UGe6rEET83L1sZUKIHY.jpg", "actors": [], "comments": [], "recommandations_id": []}

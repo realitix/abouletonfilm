@@ -1,0 +1,1 @@
+{"tmdb_id": 142940, "title": "Salamandras y Salamandros", "original_title": "Salamandras y Salamandros", "slug_title": "salamandras-y-salamandros", "date": "2012-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/del0A9AE6eTQffsopb6SVO9McWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

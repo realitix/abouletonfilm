@@ -1,0 +1,1 @@
+{"tmdb_id": 500078, "title": "De grotzepuur", "original_title": "De grotzepuur", "slug_title": "de-grotzepuur", "date": "1975-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walo L\u00fc\u00f6nd (Schaeggel der Knecht)", "Walter Morath ()"], "comments": [], "recommandations_id": []}

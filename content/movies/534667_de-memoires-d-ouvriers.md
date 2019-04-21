@@ -1,0 +1,1 @@
+{"tmdb_id": 534667, "title": "De m\u00e9moires d'ouvriers", "original_title": "De m\u00e9moires d'ouvriers", "slug_title": "de-memoires-d-ouvriers", "date": "2012-02-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5tPKm3k6HKKsCR3IZYTNrV3LfD.jpg", "actors": [], "comments": [], "recommandations_id": []}

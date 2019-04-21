@@ -1,0 +1,1 @@
+{"tmdb_id": 115521, "title": "Infinitivamente Guiomar Novaes", "original_title": "Infinitivamente Guiomar Novaes", "slug_title": "infinitivamente-guiomar-novaes", "date": "2003-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNf5UA5QGSV8fCKlhsXHXV0SyLk.jpg", "actors": [], "comments": [], "recommandations_id": []}

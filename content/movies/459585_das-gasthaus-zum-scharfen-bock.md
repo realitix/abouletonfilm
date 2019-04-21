@@ -1,0 +1,1 @@
+{"tmdb_id": 459585, "title": "Das Gasthaus zum scharfen Bock", "original_title": "Das Gasthaus zum scharfen Bock", "slug_title": "das-gasthaus-zum-scharfen-bock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8My8xdJdiHbbcGQ40N63HXh6PwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

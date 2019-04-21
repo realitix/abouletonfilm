@@ -1,0 +1,1 @@
+{"tmdb_id": 63521, "title": "Joseph in Egypt", "original_title": "Joseph in Egypt", "slug_title": "joseph-in-egypt", "date": "1992-01-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37XKdo7csNdvwJXRIJGJK0DUzLR.jpg", "actors": [], "comments": [], "recommandations_id": []}

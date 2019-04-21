@@ -1,0 +1,1 @@
+{"tmdb_id": 536021, "title": "Foods That Cure Disease", "original_title": "Foods That Cure Disease", "slug_title": "foods-that-cure-disease", "date": "2018-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3WkEqcnGXjIqJDGykxMBexSBRX.jpg", "actors": [], "comments": [], "recommandations_id": []}

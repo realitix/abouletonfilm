@@ -1,0 +1,1 @@
+{"tmdb_id": 188337, "title": "Prom Night in Kansas City", "original_title": "Prom Night in Kansas City", "slug_title": "prom-night-in-kansas-city", "date": "2002-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

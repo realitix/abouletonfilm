@@ -1,0 +1,1 @@
+{"tmdb_id": 234404, "title": "Kisser Plant", "original_title": "Kisser Plant", "slug_title": "kisser-plant", "date": "1964-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

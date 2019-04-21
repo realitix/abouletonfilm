@@ -1,0 +1,1 @@
+{"tmdb_id": 332047, "title": "Crazy of You", "original_title": "Majnunak: On Men, Sex and the City", "slug_title": "crazy-of-you", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

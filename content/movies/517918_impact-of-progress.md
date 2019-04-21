@@ -1,0 +1,1 @@
+{"tmdb_id": 517918, "title": "Impact of Progress", "original_title": "Impact of Progress", "slug_title": "impact-of-progress", "date": "2002-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Godfrey Reggio (Interviewee)", "Philip Glass (Interviewee)"], "comments": [], "recommandations_id": []}

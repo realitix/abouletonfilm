@@ -1,0 +1,1 @@
+{"tmdb_id": 399621, "title": "Kalashnikov", "original_title": "Kalashnikov", "slug_title": "kalashnikov", "date": "2014-02-10", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lEOA1Hy9mpmRNeufKGCsz6CM3Cx.jpg", "actors": [], "comments": [], "recommandations_id": []}

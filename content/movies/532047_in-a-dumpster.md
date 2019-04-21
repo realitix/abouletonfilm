@@ -1,0 +1,1 @@
+{"tmdb_id": 532047, "title": "In a Dumpster", "original_title": "V popelnici", "slug_title": "in-a-dumpster", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkBSLFd4DomMgUjk5FDjal0uRLq.jpg", "actors": [], "comments": [], "recommandations_id": []}

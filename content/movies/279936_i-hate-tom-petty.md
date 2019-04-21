@@ -1,0 +1,1 @@
+{"tmdb_id": 279936, "title": "I Hate Tom Petty", "original_title": "I Hate Tom Petty", "slug_title": "i-hate-tom-petty", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYTYsh1Gf1cyfZq04hIC5yEAWwx.jpg", "actors": [], "comments": [], "recommandations_id": []}

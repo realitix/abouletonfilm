@@ -1,0 +1,1 @@
+{"tmdb_id": 531228, "title": "K\u0131rk G\u00f6kt\u00fcrk", "original_title": "K\u0131rk G\u00f6kt\u00fcrk", "slug_title": "kirk-gokturk", "date": "2022-01-01", "genre": "Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eju5tqNwAlC1LlsYpfafCVrTukc.jpg", "actors": [], "comments": [], "recommandations_id": []}

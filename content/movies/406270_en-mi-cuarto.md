@@ -1,0 +1,1 @@
+{"tmdb_id": 406270, "title": "En mi cuarto", "original_title": "En mi cuarto", "slug_title": "en-mi-cuarto", "date": "2011-11-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marjorie Massa (Alexandra)", "Yadiliz Barbosa (Diana)", "Vanessa V\u00e9lez (Carmen)"], "comments": [], "recommandations_id": []}

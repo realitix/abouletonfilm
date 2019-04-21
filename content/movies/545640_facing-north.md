@@ -1,0 +1,1 @@
+{"tmdb_id": 545640, "title": "Facing North", "original_title": "Bukiikakkono", "slug_title": "facing-north", "date": "2018-09-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cissy Nansera (Jane)", "Rehema Nanfuka (Stella)"], "comments": [], "recommandations_id": []}

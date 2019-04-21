@@ -1,0 +1,1 @@
+{"tmdb_id": 263856, "title": "Cock Fight", "original_title": "Cock Fight", "slug_title": "cock-fight", "date": "1896-12-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

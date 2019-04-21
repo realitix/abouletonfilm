@@ -1,0 +1,1 @@
+{"tmdb_id": 91839, "title": "Mirror Images", "original_title": "T\u00fck\u00f6rk\u00e9pek", "slug_title": "mirror-images", "date": "1964-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJdZemJTNKkaA2PxKKr8OzeRR5h.jpg", "actors": [], "comments": [], "recommandations_id": []}

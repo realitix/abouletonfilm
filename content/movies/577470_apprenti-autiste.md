@@ -1,0 +1,1 @@
+{"tmdb_id": 577470, "title": "Apprenti autiste", "original_title": "Apprenti autiste", "slug_title": "apprenti-autiste", "date": "2019-02-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis T (Himself)"], "comments": [], "recommandations_id": []}

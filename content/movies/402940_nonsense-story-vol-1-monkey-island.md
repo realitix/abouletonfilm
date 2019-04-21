@@ -1,0 +1,1 @@
+{"tmdb_id": 402940, "title": "Nonsense Story, Vol.1: Monkey Island", "original_title": "Nansensu monogatari dai ippen: Sarugashima", "slug_title": "nonsense-story-vol-1-monkey-island", "date": "1931-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318777, "title": "One for the Money: The Birth of Rock & Roll", "original_title": "One for the Money: The Birth of Rock & Roll", "slug_title": "one-for-the-money-the-birth-of-rock-roll", "date": "2006-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

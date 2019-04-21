@@ -1,0 +1,1 @@
+{"tmdb_id": 569906, "title": "Xi bu kuang wu", "original_title": "Xi bu kuang wu", "slug_title": "xi-bu-kuang-wu", "date": "1988-01-01", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xk3BMU5SFaxIm86XOGX2kZTQa5t.jpg", "actors": ["Nayi Tu'erxun (Paxia)"], "comments": [], "recommandations_id": []}

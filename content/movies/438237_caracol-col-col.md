@@ -1,0 +1,1 @@
+{"tmdb_id": 438237, "title": "Caracol, col, col", "original_title": "Caracol, col, col", "slug_title": "caracol-col-col", "date": "1995-01-30", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

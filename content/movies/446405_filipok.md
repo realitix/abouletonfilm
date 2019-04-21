@@ -1,0 +1,1 @@
+{"tmdb_id": 446405, "title": "\u0424\u0438\u043b\u0438\u043f\u043e\u043a", "original_title": "\u0424\u0438\u043b\u0438\u043f\u043e\u043a", "slug_title": "filipok", "date": "1982-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3cDBFfXH5t3GZLBYSLBxqi8zcx.jpg", "actors": [], "comments": [], "recommandations_id": []}

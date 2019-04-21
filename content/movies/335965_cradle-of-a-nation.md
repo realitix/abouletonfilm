@@ -1,0 +1,1 @@
+{"tmdb_id": 335965, "title": "Cradle of a Nation", "original_title": "Cradle of a Nation", "slug_title": "cradle-of-a-nation", "date": "1947-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

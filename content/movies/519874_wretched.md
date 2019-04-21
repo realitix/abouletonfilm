@@ -1,0 +1,1 @@
+{"tmdb_id": 519874, "title": "Wretched", "original_title": "Wretched", "slug_title": "wretched", "date": "", "genre": "Horreur / Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ueFfQsucVjIVTl04dKzIjBWRhfD.jpg", "actors": [], "comments": [], "recommandations_id": []}

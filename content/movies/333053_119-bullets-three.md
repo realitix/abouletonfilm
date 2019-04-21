@@ -1,0 +1,1 @@
+{"tmdb_id": 333053, "title": "119 Bullets + Three", "original_title": "119 Kadurim + Shlosha", "slug_title": "119-bullets-three", "date": "1996-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

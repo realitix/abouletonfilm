@@ -1,0 +1,1 @@
+{"tmdb_id": 311465, "title": "Ask a Ninja", "original_title": "Ask a Ninja", "slug_title": "ask-a-ninja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

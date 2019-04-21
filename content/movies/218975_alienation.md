@@ -1,0 +1,1 @@
+{"tmdb_id": 218975, "title": "Alienation", "original_title": "Otchuzhdenie", "slug_title": "alienation", "date": "2013-09-01", "genre": "", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zgwyUz2CqtZjkotYY7gHattanfa.jpg", "actors": ["Christos Stergioglou ()"], "comments": [], "recommandations_id": []}

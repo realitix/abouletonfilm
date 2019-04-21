@@ -1,0 +1,1 @@
+{"tmdb_id": 288556, "title": "Renukadevi Mahatyam", "original_title": "Renukadevi Mahatyam", "slug_title": "renukadevi-mahatyam", "date": "1960-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kongara Jaggaiah ()", "G. Varalakshmi ()", "Gummadi ()", "Mikkilineni ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422672, "title": "Believe It or Not #10", "original_title": "Believe It or Not #10", "slug_title": "believe-it-or-not-10", "date": "1931-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert L. Ripley (Himself - Presenter)"], "comments": [], "recommandations_id": []}

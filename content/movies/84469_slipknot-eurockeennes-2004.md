@@ -1,0 +1,1 @@
+{"tmdb_id": 84469, "title": "Slipknot: Eurock\u00e9ennes 2004", "original_title": "Slipknot: Eurock\u00e9ennes 2004", "slug_title": "slipknot-eurockeennes-2004", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nCMXSYxLVlCsIQeMJ56z21DiCn.jpg", "actors": [], "comments": [], "recommandations_id": []}

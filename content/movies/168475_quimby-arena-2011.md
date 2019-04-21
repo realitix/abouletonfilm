@@ -1,0 +1,1 @@
+{"tmdb_id": 168475, "title": "Quimby: Ar\u00e9na 2011", "original_title": "Quimby: Ar\u00e9na 2011", "slug_title": "quimby-arena-2011", "date": "2012-11-29", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bWlrgk0M4PbCtPthtMC5BAIFZkR.jpg", "actors": ["Quimby ()"], "comments": [], "recommandations_id": []}

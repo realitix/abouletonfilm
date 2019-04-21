@@ -1,0 +1,1 @@
+{"tmdb_id": 279212, "title": "Babi\u010dka", "original_title": "Babi\u010dka", "slug_title": "babicka", "date": "1922-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ludmila Innemannov\u00e1 ()", "A. Alesov\u00e1 ()", "Ruzena Maturov\u00e1 ()"], "comments": [], "recommandations_id": []}

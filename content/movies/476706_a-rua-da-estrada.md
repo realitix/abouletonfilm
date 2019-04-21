@@ -1,0 +1,1 @@
+{"tmdb_id": 476706, "title": "A Rua da Estrada", "original_title": "A Rua da Estrada", "slug_title": "a-rua-da-estrada", "date": "2012-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

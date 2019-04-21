@@ -1,0 +1,1 @@
+{"tmdb_id": 312624, "title": "Punk Rawk: Taking Back the Airwaves", "original_title": "Punk Rawk: Taking Back the Airwaves", "slug_title": "punk-rawk-taking-back-the-airwaves", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

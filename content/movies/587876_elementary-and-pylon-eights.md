@@ -1,0 +1,1 @@
+{"tmdb_id": 587876, "title": "Elementary and Pylon Eights", "original_title": "Elementary and Pylon Eights", "slug_title": "elementary-and-pylon-eights", "date": "1944-03-13", "genre": "Documentaire / Animation / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Seay (Instructor)"], "comments": [], "recommandations_id": []}

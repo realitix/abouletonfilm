@@ -1,0 +1,1 @@
+{"tmdb_id": 496753, "title": "Bicycle Dreams", "original_title": "Bicycle Dreams", "slug_title": "bicycle-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csQTJbICvWEIK5i0bjgG8NExEsC.jpg", "actors": ["Bibek Shrestha ()", "Ishwar Balami ()"], "comments": [], "recommandations_id": []}

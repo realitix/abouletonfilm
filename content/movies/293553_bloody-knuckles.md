@@ -1,0 +1,1 @@
+{"tmdb_id": 293553, "title": "Bloody Knuckles", "original_title": "Bloody Knuckles", "slug_title": "bloody-knuckles", "date": "2014-07-27", "genre": "Horreur / Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cj5chtD32TA7ZL42qug8ShMYnDA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352055, "title": "Revel in the Chaos", "original_title": "Revel in the Chaos", "slug_title": "revel-in-the-chaos", "date": "2015-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoILezXQwSLKBASBy1vg1BVriYu.jpg", "actors": [], "comments": [], "recommandations_id": []}

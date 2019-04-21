@@ -1,0 +1,1 @@
+{"tmdb_id": 233671, "title": "Megaphone", "original_title": "Megaphone", "slug_title": "megaphone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

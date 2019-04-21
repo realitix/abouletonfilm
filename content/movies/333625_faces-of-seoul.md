@@ -1,0 +1,1 @@
+{"tmdb_id": 333625, "title": "Faces of Seoul", "original_title": "Faces of Seoul", "slug_title": "faces-of-seoul", "date": "2009-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izDZKhxN7aMpIR5wV4UBFndyAy3.jpg", "actors": [], "comments": [], "recommandations_id": []}

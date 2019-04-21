@@ -1,0 +1,1 @@
+{"tmdb_id": 51192, "title": "Dennis Miller: All In", "original_title": "Dennis Miller: All In", "slug_title": "dennis-miller-all-in", "date": "2006-01-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKiQ9u30ABpKVLsfMPf7yJ2I0cB.jpg", "actors": ["Dennis Miller ()"], "comments": [], "recommandations_id": []}

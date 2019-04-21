@@ -1,0 +1,1 @@
+{"tmdb_id": 49122, "title": "S Is for Sexy", "original_title": "S Is for Sexy", "slug_title": "s-is-for-sexy", "date": "2008-06-03", "genre": "Drame / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCsyRu0N5ifgImfrNc1G67JKpTx.jpg", "actors": [], "comments": [], "recommandations_id": []}

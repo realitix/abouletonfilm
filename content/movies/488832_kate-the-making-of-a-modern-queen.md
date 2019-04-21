@@ -1,0 +1,1 @@
+{"tmdb_id": 488832, "title": "Kate: The Making of a Modern Queen", "original_title": "Kate: The Making of a Modern Queen", "slug_title": "kate-the-making-of-a-modern-queen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

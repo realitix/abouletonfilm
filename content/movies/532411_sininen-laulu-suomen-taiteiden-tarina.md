@@ -1,0 +1,1 @@
+{"tmdb_id": 532411, "title": "Sininen laulu - Suomen taiteiden tarina", "original_title": "Sininen laulu - Suomen taiteiden tarina", "slug_title": "sininen-laulu-suomen-taiteiden-tarina", "date": "2003-12-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

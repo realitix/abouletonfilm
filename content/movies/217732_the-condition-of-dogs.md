@@ -1,0 +1,1 @@
+{"tmdb_id": 217732, "title": "The Condition of Dogs", "original_title": "Gou de zhuangkuang", "slug_title": "the-condition-of-dogs", "date": "2001-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKQ1BFKbs8Y5wQ84ryDoZELfj4B.jpg", "actors": [], "comments": [], "recommandations_id": []}

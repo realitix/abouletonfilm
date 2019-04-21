@@ -1,0 +1,1 @@
+{"tmdb_id": 502602, "title": "The Skin", "original_title": "The Skin", "slug_title": "the-skin", "date": "2015-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Pfefferkorn (Otis)", "Elizabeth Paige (Sarah)", "Claudine Quadrat (Lena)"], "comments": [], "recommandations_id": []}

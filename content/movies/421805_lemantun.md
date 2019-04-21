@@ -1,0 +1,1 @@
+{"tmdb_id": 421805, "title": "Lemantun", "original_title": "Lemantun", "slug_title": "lemantun", "date": "2014-09-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BxF8njLqWvbx41pGjiJiLJTCxj.jpg", "actors": ["Freddy Rotterdam (Tri)"], "comments": [], "recommandations_id": []}

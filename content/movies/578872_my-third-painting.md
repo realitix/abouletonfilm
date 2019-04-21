@@ -1,0 +1,1 @@
+{"tmdb_id": 578872, "title": "My Third Painting", "original_title": "My Third Painting", "slug_title": "my-third-painting", "date": "2009-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

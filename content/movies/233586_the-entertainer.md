@@ -1,0 +1,1 @@
+{"tmdb_id": 233586, "title": "The Entertainer", "original_title": "The Entertainer", "slug_title": "the-entertainer", "date": "1993-12-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Gambon (Archie Rice)"], "comments": [], "recommandations_id": []}

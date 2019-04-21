@@ -1,0 +1,1 @@
+{"tmdb_id": 129869, "title": "Sergio Sollima: Face to Face", "original_title": "Sergio Sollima: Face to Face", "slug_title": "sergio-sollima-face-to-face", "date": "2005-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sergio Sollima (Himself)"], "comments": [], "recommandations_id": []}

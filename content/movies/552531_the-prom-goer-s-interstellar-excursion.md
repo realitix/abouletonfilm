@@ -1,0 +1,1 @@
+{"tmdb_id": 552531, "title": "The Prom Goer's Interstellar Excursion", "original_title": "The Prom Goer's Interstellar Excursion", "slug_title": "the-prom-goer-s-interstellar-excursion", "date": "", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

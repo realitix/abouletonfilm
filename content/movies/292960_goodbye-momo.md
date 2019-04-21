@@ -1,0 +1,1 @@
+{"tmdb_id": 292960, "title": "Goodbye Momo", "original_title": "Goodbye Momo", "slug_title": "goodbye-momo", "date": "2007-02-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NqFA9UxjwSd4tcILRzFh1HTum3.jpg", "actors": ["Mathias Acu\u00f1a (actor)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349649, "title": "\uc5f0\uc778\ub4e4\uc758 \uba5c\ub85c\ub514", "original_title": "\uc5f0\uc778\ub4e4\uc758 \uba5c\ub85c\ub514", "slug_title": "yeonindeulyi-melrodi", "date": "1993-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

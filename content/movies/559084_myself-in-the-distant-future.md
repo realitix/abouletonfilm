@@ -1,0 +1,1 @@
+{"tmdb_id": 559084, "title": "Myself in the distant future", "original_title": "Meon hunareui naeui moseub", "slug_title": "myself-in-the-distant-future", "date": "1997-11-04", "genre": "Drame / Romance / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Hye-gyong ()", "Kim Myong-mun ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 37154, "title": "Bebe Mais: Natureza", "original_title": "Bebe Mais: Natureza", "slug_title": "bebe-mais-natureza", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVmx8vBqH0TLQFt6uwwWvRrFLWp.jpg", "actors": [], "comments": [], "recommandations_id": []}

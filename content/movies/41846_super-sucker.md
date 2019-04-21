@@ -1,0 +1,1 @@
+{"tmdb_id": 41846, "title": "Super Sucker", "original_title": "Super Sucker", "slug_title": "super-sucker", "date": "2002-01-01", "genre": "Com\u00e9die", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hEHxmqpkmhbGKt9Dsy9ocwnRrCY.jpg", "actors": ["Jeff Daniels (Fred Barlow)"], "comments": [], "recommandations_id": []}

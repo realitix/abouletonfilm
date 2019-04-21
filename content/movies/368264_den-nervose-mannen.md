@@ -1,0 +1,1 @@
+{"tmdb_id": 368264, "title": "Den nerv\u00f8se mannen", "original_title": "Den nerv\u00f8se mannen", "slug_title": "den-nervose-mannen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

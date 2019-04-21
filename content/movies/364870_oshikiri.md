@@ -1,0 +1,1 @@
+{"tmdb_id": 364870, "title": "Oshikiri", "original_title": "Oshikiri", "slug_title": "oshikiri", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6m3YtjMs4MJFgmt9i7dMumcDjgt.jpg", "actors": [], "comments": [], "recommandations_id": []}

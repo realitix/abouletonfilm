@@ -1,0 +1,1 @@
+{"tmdb_id": 81756, "title": "Doing Life", "original_title": "Doing Life", "slug_title": "doing-life", "date": "1986-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bh46FtTcWiR9tbgTHaW3p6EfTJT.jpg", "actors": ["Tony Danza (Jerry Rosenberg)", "Jon DeVries (Warden Felber)"], "comments": [], "recommandations_id": []}

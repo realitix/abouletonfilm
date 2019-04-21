@@ -1,0 +1,1 @@
+{"tmdb_id": 350118, "title": "\ub370\ub4dc\ub79c\uc988: \ub354 \ub77c\uc774\uc9d5", "original_title": "\ub370\ub4dc\ub79c\uc988: \ub354 \ub77c\uc774\uc9d5", "slug_title": "dedeuraenjeu-deo-raijing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525699, "title": "Solutions", "original_title": "Solutions", "slug_title": "solutions", "date": "2017-08-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David P.B. Stephens (Derek Price)", "Oise Ohiwerei (Damon Price)"], "comments": [], "recommandations_id": []}

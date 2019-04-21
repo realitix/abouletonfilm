@@ -1,0 +1,1 @@
+{"tmdb_id": 496028, "title": "Khamoshi", "original_title": "Silence", "slug_title": "khamoshi", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tamanna Bhatia ()", "Prabhu Deva ()", "Bhumika Chawla ()", "Prabhas (Cameo)"], "comments": [], "recommandations_id": []}

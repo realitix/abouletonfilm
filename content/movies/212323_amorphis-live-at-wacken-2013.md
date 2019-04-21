@@ -1,0 +1,1 @@
+{"tmdb_id": 212323, "title": "Amorphis: Live at Wacken 2013", "original_title": "Amorphis: Live at Wacken 2013", "slug_title": "amorphis-live-at-wacken-2013", "date": "2013-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qq9nFYvO1yPyTkIiGvvc2VDQLg.jpg", "actors": [], "comments": [], "recommandations_id": []}

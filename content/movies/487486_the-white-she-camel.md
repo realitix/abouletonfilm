@@ -1,0 +1,1 @@
+{"tmdb_id": 487486, "title": "The White She-Camel", "original_title": "La chamelle blanche", "slug_title": "the-white-she-camel", "date": "2006-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

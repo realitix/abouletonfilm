@@ -1,0 +1,1 @@
+{"tmdb_id": 306152, "title": "Weird Tales 1: Death Valley's Ancient Underground", "original_title": "Weird Tales 1: Death Valley's Ancient Underground", "slug_title": "weird-tales-1-death-valley-s-ancient-underground", "date": "2007-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

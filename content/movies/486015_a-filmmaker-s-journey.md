@@ -1,0 +1,1 @@
+{"tmdb_id": 486015, "title": "A Filmmaker's Journey", "original_title": "A Filmmaker's Journey", "slug_title": "a-filmmaker-s-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u9aDByLa1sbgsjjptWrTvZqOlI.jpg", "actors": [], "comments": [], "recommandations_id": []}

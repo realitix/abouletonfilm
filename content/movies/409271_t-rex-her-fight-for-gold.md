@@ -1,0 +1,1 @@
+{"tmdb_id": 409271, "title": "T-Rex: Her Fight for Gold", "original_title": "T-Rex: Her Fight for Gold", "slug_title": "t-rex-her-fight-for-gold", "date": "2016-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Un3vu7erXDCIu2aglBw0VLdNqA.jpg", "actors": [], "comments": [], "recommandations_id": []}

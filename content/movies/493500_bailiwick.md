@@ -1,0 +1,1 @@
+{"tmdb_id": 493500, "title": "Bailiwick", "original_title": "Bailiwick", "slug_title": "bailiwick", "date": "2017-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2mNzoVPmxXdLujHVvRGYTbRRRzA.jpg", "actors": ["Tim Krueger (Brian)", "Suzy Brack (Nicoletta)"], "comments": [], "recommandations_id": []}

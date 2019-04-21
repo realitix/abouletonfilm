@@ -1,0 +1,1 @@
+{"tmdb_id": 209242, "title": "Opou\u0161t\u00edme r\u00e1j", "original_title": "Opou\u0161t\u00edme r\u00e1j", "slug_title": "opoustime-raj", "date": "2007-01-01", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pavel Bezou\u0161ka (himself)"], "comments": [], "recommandations_id": []}

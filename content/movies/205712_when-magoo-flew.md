@@ -1,0 +1,1 @@
+{"tmdb_id": 205712, "title": "When Magoo Flew", "original_title": "When Magoo Flew", "slug_title": "when-magoo-flew", "date": "1954-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AoqUaO1wlMz1HnEXV62OA0ADVEe.jpg", "actors": ["Jim Backus (Mr. Magoo (voice))"], "comments": [], "recommandations_id": []}

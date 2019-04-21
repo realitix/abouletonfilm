@@ -1,0 +1,1 @@
+{"tmdb_id": 495842, "title": "Way Stations in Space", "original_title": "Way Stations in Space", "slug_title": "way-stations-in-space", "date": "1960-01-02", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428677, "title": "Romeo and Juliet", "original_title": "Romeo and Juliet", "slug_title": "romeo-and-juliet", "date": "1900-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emilio Cossira (Romeo)"], "comments": [], "recommandations_id": []}

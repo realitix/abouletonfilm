@@ -1,0 +1,1 @@
+{"tmdb_id": 547398, "title": "Bulimia Purpura", "original_title": "Bulimia Purpura", "slug_title": "bulimia-purpura", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miguel Camarero (Mann)"], "comments": [], "recommandations_id": []}

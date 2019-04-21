@@ -1,0 +1,1 @@
+{"tmdb_id": 378469, "title": "Barney's Round and Round We Go", "original_title": "Barney's Round and Round We Go", "slug_title": "barney-s-round-and-round-we-go", "date": "2002-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhs2FGOhEtOWXQPj0LllpMPvVGS.jpg", "actors": [], "comments": [], "recommandations_id": []}

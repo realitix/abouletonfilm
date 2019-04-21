@@ -1,0 +1,1 @@
+{"tmdb_id": 537467, "title": "Everything Everywhere Again Alive", "original_title": "Everything Everywhere Again Alive", "slug_title": "everything-everywhere-again-alive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

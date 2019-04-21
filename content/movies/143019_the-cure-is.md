@@ -1,0 +1,1 @@
+{"tmdb_id": 143019, "title": "The Cure Is....", "original_title": "The Cure Is....", "slug_title": "the-cure-is", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 239577, "title": "Hers To Lose", "original_title": "Hers To Lose", "slug_title": "hers-to-lose", "date": "2013-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

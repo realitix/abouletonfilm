@@ -1,0 +1,1 @@
+{"tmdb_id": 292835, "title": "K\u00f6nigsberg is Dead", "original_title": "K\u00f6nigsberg is Dead", "slug_title": "konigsberg-is-dead", "date": "2004-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oajnc8Ionqs9DpOO5Q1zNUS8TU2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 199424, "title": "Calendrier de femmes", "original_title": "Onna no koyomi", "slug_title": "calendrier-de-femmes", "date": "1954-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kinuyo Tanaka ()", "Hisao Toake ()", "Y\u00f4ko Sugi ()", "Ky\u00f4ko Kagawa ()"], "comments": [], "recommandations_id": []}

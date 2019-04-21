@@ -1,0 +1,1 @@
+{"tmdb_id": 434125, "title": "Roga Howar Sohoj Upay", "original_title": "Roga Howar Sohoj Upay", "slug_title": "roga-howar-sohoj-upay", "date": "2015-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Parambrata Chatterjee ()", "Biswanath Basu ()", "Rudranil Ghosh ()"], "comments": [], "recommandations_id": []}

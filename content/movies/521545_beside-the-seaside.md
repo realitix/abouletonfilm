@@ -1,0 +1,1 @@
+{"tmdb_id": 521545, "title": "Beside the Seaside", "original_title": "Beside the Seaside", "slug_title": "beside-the-seaside", "date": "1948-01-01", "genre": "Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLJXwr8PY902NwpaJDZ9PB4DRZv.jpg", "actors": [], "comments": [], "recommandations_id": []}

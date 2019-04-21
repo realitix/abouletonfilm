@@ -1,0 +1,1 @@
+{"tmdb_id": 541897, "title": "Rosalie", "original_title": "Rosalie", "slug_title": "rosalie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

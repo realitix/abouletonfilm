@@ -1,0 +1,1 @@
+{"tmdb_id": 418011, "title": "Black Plus X", "original_title": "Black Plus X", "slug_title": "black-plus-x", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yabivRcOsVueFOstggR8616OMp2.jpg", "actors": [], "comments": [], "recommandations_id": []}

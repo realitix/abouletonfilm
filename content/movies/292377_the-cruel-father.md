@@ -1,0 +1,1 @@
+{"tmdb_id": 292377, "title": "The Cruel Father", "original_title": "Der Vilder mensh", "slug_title": "the-cruel-father", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herman Sieracki ()", "Zina Goldshteyn ()"], "comments": [], "recommandations_id": []}

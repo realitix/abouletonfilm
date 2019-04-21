@@ -1,0 +1,1 @@
+{"tmdb_id": 489941, "title": "El Coraz\u00f3n de una Naci\u00f3n", "original_title": "El Coraz\u00f3n de una Naci\u00f3n", "slug_title": "el-corazon-de-una-nacion", "date": "1928-11-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

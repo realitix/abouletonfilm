@@ -1,0 +1,1 @@
+{"tmdb_id": 65473, "title": "Patsy Cline - Sweet Dreams Still", "original_title": "Patsy Cline - Sweet Dreams Still", "slug_title": "patsy-cline-sweet-dreams-still", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exoSSSNbGhq5lnsv4l1IqAbm4MG.jpg", "actors": [], "comments": [], "recommandations_id": []}

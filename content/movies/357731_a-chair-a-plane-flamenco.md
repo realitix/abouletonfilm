@@ -1,0 +1,1 @@
+{"tmdb_id": 357731, "title": "A Chair-a-plane Flamenco", "original_title": "A Chair-a-plane Flamenco", "slug_title": "a-chair-a-plane-flamenco", "date": "2005-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

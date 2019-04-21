@@ -1,0 +1,1 @@
+{"tmdb_id": 209100, "title": "In Bed with Ulysses", "original_title": "In Bed with Ulysses", "slug_title": "in-bed-with-ulysses", "date": "2012-06-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erJkUYKqiBcFqRfABG1QB0N8ZjT.jpg", "actors": [], "comments": [], "recommandations_id": []}

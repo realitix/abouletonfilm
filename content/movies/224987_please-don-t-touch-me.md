@@ -1,0 +1,1 @@
+{"tmdb_id": 224987, "title": "Please Don't Touch Me!", "original_title": "Please Don't Touch Me!", "slug_title": "please-don-t-touch-me", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ygUB2eBHBAiwimAgKlNclGb9UbM.jpg", "actors": ["Lash La Rue (Bill)"], "comments": [], "recommandations_id": []}

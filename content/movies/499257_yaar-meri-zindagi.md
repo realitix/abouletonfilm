@@ -1,0 +1,1 @@
+{"tmdb_id": 499257, "title": "Yaar Meri Zindagi", "original_title": "Yaar Meri Zindagi", "slug_title": "yaar-meri-zindagi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

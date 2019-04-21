@@ -1,0 +1,1 @@
+{"tmdb_id": 184630, "title": "Buddy's Lost World", "original_title": "Buddy's Lost World", "slug_title": "buddy-s-lost-world", "date": "1935-05-17", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y2syTY0lD9qUFMDmq98cfZKbe6Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

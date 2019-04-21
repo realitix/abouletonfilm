@@ -1,0 +1,1 @@
+{"tmdb_id": 449129, "title": "Socotra, the Land of Djinns", "original_title": "Socotra, the Land of Djinns", "slug_title": "socotra-the-land-of-djinns", "date": "2016-10-14", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3vNdnuuEUzxRgur1jjBHPs9jaOu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588232, "title": "No Help Needed", "original_title": "No Help Needed", "slug_title": "no-help-needed", "date": "1940-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

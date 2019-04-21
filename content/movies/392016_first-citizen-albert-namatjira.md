@@ -1,0 +1,1 @@
+{"tmdb_id": 392016, "title": "First Citizen: Albert Namatjira", "original_title": "First Citizen: Albert Namatjira", "slug_title": "first-citizen-albert-namatjira", "date": "1989-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kZiZJyCNIo0wgszAmXsF1RxDxs.jpg", "actors": [], "comments": [], "recommandations_id": []}

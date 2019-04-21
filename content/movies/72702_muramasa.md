@@ -1,0 +1,1 @@
+{"tmdb_id": 72702, "title": "Muramasa", "original_title": "Muramasa", "slug_title": "muramasa", "date": "1987-08-21", "genre": "Animation", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vxBd0S5k1AFhYSGNsQ0beEiPxV.jpg", "actors": [], "comments": [], "recommandations_id": []}

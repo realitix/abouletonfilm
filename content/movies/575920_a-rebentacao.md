@@ -1,0 +1,1 @@
+{"tmdb_id": 575920, "title": "A Rebenta\u00e7\u00e3o", "original_title": "A Rebenta\u00e7\u00e3o", "slug_title": "a-rebentacao", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1h5uBAnCCek014L314177l3xrhW.jpg", "actors": [], "comments": [], "recommandations_id": []}

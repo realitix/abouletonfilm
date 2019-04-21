@@ -1,0 +1,1 @@
+{"tmdb_id": 417811, "title": "The Gate Of Truth", "original_title": "\uc9c4\uc2e4\uc758 \ubb38", "slug_title": "the-gate-of-truth", "date": "2004-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

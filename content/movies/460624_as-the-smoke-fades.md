@@ -1,0 +1,1 @@
+{"tmdb_id": 460624, "title": "As the Smoke Fades", "original_title": "As the Smoke Fades", "slug_title": "as-the-smoke-fades", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZKhAgyKLSBFJCkMdFT8pjcFuKq.jpg", "actors": [], "comments": [], "recommandations_id": []}

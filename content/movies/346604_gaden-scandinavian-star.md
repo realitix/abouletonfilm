@@ -1,0 +1,1 @@
+{"tmdb_id": 346604, "title": "G\u00e5den Scandinavian Star", "original_title": "G\u00e5den Scandinavian Star", "slug_title": "gaden-scandinavian-star", "date": "2000-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

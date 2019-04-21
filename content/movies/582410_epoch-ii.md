@@ -1,0 +1,1 @@
+{"tmdb_id": 582410, "title": "Epoch II", "original_title": "Epoch II", "slug_title": "epoch-ii", "date": "2019-01-23", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2Lyp7Xr7dhrYESIjEpEg0fEhHo.jpg", "actors": [], "comments": [], "recommandations_id": []}

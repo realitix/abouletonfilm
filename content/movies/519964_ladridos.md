@@ -1,0 +1,1 @@
+{"tmdb_id": 519964, "title": "Ladridos", "original_title": "Ladridos", "slug_title": "ladridos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562126, "title": "La pipe satire", "original_title": "La pipe satire", "slug_title": "la-pipe-satire", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

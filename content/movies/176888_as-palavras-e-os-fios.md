@@ -1,0 +1,1 @@
+{"tmdb_id": 176888, "title": "As Palavras e os Fios", "original_title": "As Palavras e os Fios", "slug_title": "as-palavras-e-os-fios", "date": "1962-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86LMfFIKYJ7idLKFT69Xlty0czJ.jpg", "actors": ["Jacinto Ramos (Narrador)"], "comments": [], "recommandations_id": []}

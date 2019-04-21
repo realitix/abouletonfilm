@@ -1,0 +1,1 @@
+{"tmdb_id": 326463, "title": "The Quest for Local Honey", "original_title": "The Quest for Local Honey", "slug_title": "the-quest-for-local-honey", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

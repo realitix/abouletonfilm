@@ -1,0 +1,1 @@
+{"tmdb_id": 388830, "title": "UFC 13 Preliminary Fights", "original_title": "UFC 13 Preliminary Fights", "slug_title": "ufc-13-preliminary-fights", "date": "1997-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZ9dmOdnafcLPk5xQ8OYKwAH7S1.jpg", "actors": [], "comments": [], "recommandations_id": []}

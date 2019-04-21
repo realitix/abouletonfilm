@@ -1,0 +1,1 @@
+{"tmdb_id": 312325, "title": "Britta Fastfr\u00fchling", "original_title": "Britta Fastfr\u00fchling", "slug_title": "britta-fastfruhling", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

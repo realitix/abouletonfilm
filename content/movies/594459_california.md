@@ -1,0 +1,1 @@
+{"tmdb_id": 594459, "title": "California", "original_title": "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f", "slug_title": "california", "date": "2018-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aldar Kogaev ()", "Alaybek Toychubekov ()", "Zhanyl Asanbekova ()"], "comments": [], "recommandations_id": []}

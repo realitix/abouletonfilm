@@ -1,0 +1,1 @@
+{"tmdb_id": 403959, "title": "Bird Flu", "original_title": "Linnugripp", "slug_title": "bird-flu", "date": "2016-06-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

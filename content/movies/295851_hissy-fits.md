@@ -1,0 +1,1 @@
+{"tmdb_id": 295851, "title": "Hissy Fits", "original_title": "Hissy Fits", "slug_title": "hissy-fits", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4dExx3VQICxtdZJaxEOFRF4dRi.jpg", "actors": [], "comments": [], "recommandations_id": []}

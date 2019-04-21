@@ -1,0 +1,1 @@
+{"tmdb_id": 91251, "title": "Os Monarcas - Ao vivo", "original_title": "Os Monarcas - Ao vivo", "slug_title": "os-monarcas-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ag4iVOicjQ5F0AoHXXbu7bpdybx.jpg", "actors": [], "comments": [], "recommandations_id": []}

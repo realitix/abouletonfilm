@@ -1,0 +1,1 @@
+{"tmdb_id": 320148, "title": "Who Killed Alex Spourdalakis?", "original_title": "Who Killed Alex Spourdalakis?", "slug_title": "who-killed-alex-spourdalakis", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

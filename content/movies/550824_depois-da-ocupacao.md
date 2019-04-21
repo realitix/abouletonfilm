@@ -1,0 +1,1 @@
+{"tmdb_id": 550824, "title": "Depois da Ocupa\u00e7\u00e3o", "original_title": "Depois da Ocupa\u00e7\u00e3o", "slug_title": "depois-da-ocupacao", "date": "2019-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lI1TI0YQ9sWIpHiEiGX5jR3S02m.jpg", "actors": [], "comments": [], "recommandations_id": []}

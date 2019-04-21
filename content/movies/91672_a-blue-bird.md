@@ -1,0 +1,1 @@
+{"tmdb_id": 91672, "title": "A Blue Bird", "original_title": "\u0421\u0438\u043d\u044f\u044f \u043f\u0442\u0438\u0446\u0430", "slug_title": "a-blue-bird", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85a7PeyX1rWL5gUCAhMyOFUjOQi.jpg", "actors": [], "comments": [], "recommandations_id": []}

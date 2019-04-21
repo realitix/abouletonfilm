@@ -1,0 +1,1 @@
+{"tmdb_id": 206617, "title": "Afghan Stories", "original_title": "Afghan Stories", "slug_title": "afghan-stories", "date": "2003-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

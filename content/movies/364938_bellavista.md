@@ -1,0 +1,1 @@
+{"tmdb_id": 364938, "title": "Bellavista", "original_title": "Bellavista", "slug_title": "bellavista", "date": "2006-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

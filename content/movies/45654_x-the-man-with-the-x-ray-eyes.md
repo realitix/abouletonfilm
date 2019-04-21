@@ -1,0 +1,1 @@
+{"tmdb_id": 45654, "title": "X: The Man with the X-Ray Eyes", "original_title": "X: The Man with the X-Ray Eyes", "slug_title": "x-the-man-with-the-x-ray-eyes", "date": "", "genre": "Horreur / Science-Fiction / Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

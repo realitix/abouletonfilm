@@ -1,0 +1,1 @@
+{"tmdb_id": 136762, "title": "So Is This", "original_title": "So Is This", "slug_title": "so-is-this", "date": "1983-12-31", "genre": "Documentaire / Com\u00e9die", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3H8wySqNFhOYgUvbBM6CaF8T74l.jpg", "actors": [], "comments": [], "recommandations_id": [137891, 151336, 198569, 211209]}

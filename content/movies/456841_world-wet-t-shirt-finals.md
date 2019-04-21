@@ -1,0 +1,1 @@
+{"tmdb_id": 456841, "title": "World Wet T-Shirt Finals", "original_title": "World Wet T-Shirt Finals", "slug_title": "world-wet-t-shirt-finals", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Lh1XLkApf7cCa8p256g5fVCT74.jpg", "actors": [], "comments": [], "recommandations_id": []}

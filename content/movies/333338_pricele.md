@@ -1,0 +1,1 @@
+{"tmdb_id": 333338, "title": "Pricele$$", "original_title": "Pricele$$", "slug_title": "pricele", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

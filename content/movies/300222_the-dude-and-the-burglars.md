@@ -1,0 +1,1 @@
+{"tmdb_id": 300222, "title": "The Dude and the Burglars", "original_title": "The Dude and the Burglars", "slug_title": "the-dude-and-the-burglars", "date": "1903-07-30", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 507510, "title": "A Case for the Bass", "original_title": "A Case for the Bass", "slug_title": "a-case-for-the-bass", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

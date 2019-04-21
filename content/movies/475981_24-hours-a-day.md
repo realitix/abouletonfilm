@@ -1,0 +1,1 @@
+{"tmdb_id": 475981, "title": "24 Hours a Day", "original_title": "24 Hours a Day", "slug_title": "24-hours-a-day", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

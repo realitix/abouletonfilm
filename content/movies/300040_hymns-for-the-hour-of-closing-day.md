@@ -1,0 +1,1 @@
+{"tmdb_id": 300040, "title": "Hymns for the Hour of Closing Day", "original_title": "Hymns for the Hour of Closing Day", "slug_title": "hymns-for-the-hour-of-closing-day", "date": "2013-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

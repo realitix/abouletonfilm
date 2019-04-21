@@ -1,0 +1,1 @@
+{"tmdb_id": 494956, "title": "A Football Life - Bruce Arians", "original_title": "A Football Life - Bruce Arians", "slug_title": "a-football-life-bruce-arians", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g6jHC51GRcNjoLHXeZtu2IrpTGj.jpg", "actors": [], "comments": [], "recommandations_id": []}

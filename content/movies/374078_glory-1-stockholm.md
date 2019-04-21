@@ -1,0 +1,1 @@
+{"tmdb_id": 374078, "title": "Glory 1: Stockholm", "original_title": "Glory 1: Stockholm", "slug_title": "glory-1-stockholm", "date": "2012-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Semmy Schilt ()", "Errol Zimmerman ()"], "comments": [], "recommandations_id": []}

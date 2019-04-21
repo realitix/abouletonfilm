@@ -1,0 +1,1 @@
+{"tmdb_id": 568147, "title": "Adieu, je t'aime", "original_title": "Adieu, je t'aime", "slug_title": "adieu-je-t-aime", "date": "1988-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njlRSewiTYVBq0UI3yH42RHIBLE.jpg", "actors": [], "comments": [], "recommandations_id": []}

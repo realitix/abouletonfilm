@@ -1,0 +1,1 @@
+{"tmdb_id": 306360, "title": "The Independent Game", "original_title": "The Independent Game", "slug_title": "the-independent-game", "date": "2014-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

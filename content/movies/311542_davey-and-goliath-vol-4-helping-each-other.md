@@ -1,0 +1,1 @@
+{"tmdb_id": 311542, "title": "Davey and Goliath: Vol. 4: Helping Each Other", "original_title": "Davey and Goliath: Vol. 4: Helping Each Other", "slug_title": "davey-and-goliath-vol-4-helping-each-other", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491631, "title": "Bomb Murugesan", "original_title": "Vedigundu Murugesan", "slug_title": "bomb-murugesan", "date": "2000-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vadivelu ()", "Jyothirmayi ()", "Unni Mary ()", "Pasupathy Masilamani ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 551624, "title": "Pride FC Grand Prix 2000 Opening Round Volume 1", "original_title": "Pride FC Grand Prix 2000 Opening Round Volume 1", "slug_title": "pride-fc-grand-prix-2000-opening-round-volume-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

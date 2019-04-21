@@ -1,0 +1,1 @@
+{"tmdb_id": 238808, "title": "Much Better Now", "original_title": "Much Better Now", "slug_title": "much-better-now", "date": "2012-04-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxNdPsTkU54N5EJVTUffZNtaTqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

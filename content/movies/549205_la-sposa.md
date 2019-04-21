@@ -1,0 +1,1 @@
+{"tmdb_id": 549205, "title": "La Sposa", "original_title": "La Sposa", "slug_title": "la-sposa", "date": "1992-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w453ykf5AY2MGJ9X7GqwApJPCRU.jpg", "actors": [], "comments": [], "recommandations_id": []}

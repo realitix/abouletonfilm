@@ -1,0 +1,1 @@
+{"tmdb_id": 277391, "title": "The Wasp and the Queen", "original_title": "La vespa e la regina", "slug_title": "the-wasp-and-the-queen", "date": "1999-03-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9L4RXOdNZ3RGseDNq4XQgx34xk.jpg", "actors": ["Claudia Gerini (Ginevra)"], "comments": [], "recommandations_id": []}

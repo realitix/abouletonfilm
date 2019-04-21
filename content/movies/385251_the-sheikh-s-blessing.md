@@ -1,0 +1,1 @@
+{"tmdb_id": 385251, "title": "The Sheikh's Blessing", "original_title": "Barakat Al-Sheikh", "slug_title": "the-sheikh-s-blessing", "date": "1998-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qNsStTWex8XYO9OA5UjSGhzLwyG.jpg", "actors": [], "comments": [], "recommandations_id": []}

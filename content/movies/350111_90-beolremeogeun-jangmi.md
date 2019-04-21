@@ -1,0 +1,1 @@
+{"tmdb_id": 350111, "title": "'90 \ubc8c\ub808\uba39\uc740 \uc7a5\ubbf8", "original_title": "'90 \ubc8c\ub808\uba39\uc740 \uc7a5\ubbf8", "slug_title": "90-beolremeogeun-jangmi", "date": "1990-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

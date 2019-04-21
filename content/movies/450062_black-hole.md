@@ -1,0 +1,1 @@
+{"tmdb_id": 450062, "title": "Black Hole", "original_title": "Black Hole", "slug_title": "black-hole", "date": "2019-12-31", "genre": "Thriller / Science-Fiction / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

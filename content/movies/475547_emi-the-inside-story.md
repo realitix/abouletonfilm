@@ -1,0 +1,1 @@
+{"tmdb_id": 475547, "title": "EMI: The Inside Story", "original_title": "EMI: The Inside Story", "slug_title": "emi-the-inside-story", "date": "2016-05-20", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whQAW6V6STp0saB6RuTZs9FB7Qj.jpg", "actors": [], "comments": [], "recommandations_id": []}

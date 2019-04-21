@@ -1,0 +1,1 @@
+{"tmdb_id": 569581, "title": "Hurt Locker Hero", "original_title": "Hurt Locker Hero", "slug_title": "hurt-locker-hero", "date": "2018-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

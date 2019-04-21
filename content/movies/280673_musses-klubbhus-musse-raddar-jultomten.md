@@ -1,0 +1,1 @@
+{"tmdb_id": 280673, "title": "Musses klubbhus - Musse r\u00e4ddar jultomten", "original_title": "Musses klubbhus - Musse r\u00e4ddar jultomten", "slug_title": "musses-klubbhus-musse-raddar-jultomten", "date": "2007-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

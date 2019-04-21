@@ -1,0 +1,1 @@
+{"tmdb_id": 502373, "title": "Non \u00e8 giusto", "original_title": "Non \u00e8 giusto", "slug_title": "non-e-giusto", "date": "2001-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

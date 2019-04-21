@@ -1,0 +1,1 @@
+{"tmdb_id": 477872, "title": "Daleko na sever", "original_title": "Daleko na sever", "slug_title": "daleko-na-sever", "date": "1932-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

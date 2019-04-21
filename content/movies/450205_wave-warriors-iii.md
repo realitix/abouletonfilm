@@ -1,0 +1,1 @@
+{"tmdb_id": 450205, "title": "Wave Warriors III", "original_title": "Wave Warriors III", "slug_title": "wave-warriors-iii", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kF3OKLRMrudoC0rYovMtEPSSTEu.jpg", "actors": [], "comments": [], "recommandations_id": []}

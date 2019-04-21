@@ -1,0 +1,1 @@
+{"tmdb_id": 474932, "title": "Umoja: The Tiger and the Big Wind", "original_title": "Umoja: The Tiger and the Big Wind", "slug_title": "umoja-the-tiger-and-the-big-wind", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

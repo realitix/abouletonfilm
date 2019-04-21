@@ -1,0 +1,1 @@
+{"tmdb_id": 341081, "title": "The Camera and Christopher Merk", "original_title": "The Camera and Christopher Merk", "slug_title": "the-camera-and-christopher-merk", "date": "2010-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

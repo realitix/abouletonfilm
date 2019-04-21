@@ -1,0 +1,1 @@
+{"tmdb_id": 210793, "title": "The Teacher", "original_title": "The Teacher", "slug_title": "the-teacher", "date": "2010-04-17", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andre Diniz (Conner)", "Joyce Feurring (Marian)", "Max Rhyser (Bartender)", "Cadden Jones (Young Marian)"], "comments": [], "recommandations_id": []}

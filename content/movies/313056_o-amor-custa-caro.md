@@ -1,0 +1,1 @@
+{"tmdb_id": 313056, "title": "O amor custa caro", "original_title": "O amor custa caro", "slug_title": "o-amor-custa-caro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Cassiano ()", "Lu\u00edza Curvo ()"], "comments": [], "recommandations_id": []}

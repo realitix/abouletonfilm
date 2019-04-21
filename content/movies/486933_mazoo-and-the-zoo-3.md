@@ -1,0 +1,1 @@
+{"tmdb_id": 486933, "title": "Mazoo and the Zoo 3", "original_title": "Mazoo and the Zoo 3", "slug_title": "mazoo-and-the-zoo-3", "date": "", "genre": "Animation / Musique / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uJ3UDFbN7iOd7twK4fjAWiCz9n.jpg", "actors": [], "comments": [], "recommandations_id": []}

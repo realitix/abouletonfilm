@@ -1,0 +1,1 @@
+{"tmdb_id": 231441, "title": "La Plage et l'Etablissement", "original_title": "La Plage et l'Etablissement", "slug_title": "la-plage-et-l-etablissement", "date": "1901-10-30", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

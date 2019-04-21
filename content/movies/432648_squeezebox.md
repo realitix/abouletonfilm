@@ -1,0 +1,1 @@
+{"tmdb_id": 432648, "title": "Squeezebox", "original_title": "Squeezebox", "slug_title": "squeezebox", "date": "2003-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathon Paul (Brad)", "Mary Margaret O'Hara (Vivienne)"], "comments": [], "recommandations_id": []}

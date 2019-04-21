@@ -1,0 +1,1 @@
+{"tmdb_id": 262721, "title": "Teletubbies: Big Hug!", "original_title": "Teletubbies: Big Hug!", "slug_title": "teletubbies-big-hug", "date": "2004-09-15", "genre": "Familial", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0GcBcwlV5OGWHj1scQwEoIuhZc.jpg", "actors": [], "comments": [], "recommandations_id": []}

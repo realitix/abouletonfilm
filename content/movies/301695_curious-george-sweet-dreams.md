@@ -1,0 +1,1 @@
+{"tmdb_id": 301695, "title": "Curious George Sweet Dreams", "original_title": "Curious George Sweet Dreams", "slug_title": "curious-george-sweet-dreams", "date": "2014-11-08", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6S88fw9W3PNVhMPbsFCfCFQvPi.jpg", "actors": [], "comments": [], "recommandations_id": []}

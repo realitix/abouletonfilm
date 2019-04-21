@@ -1,0 +1,1 @@
+{"tmdb_id": 327014, "title": "A Decade Of Havoc", "original_title": "A Decade Of Havoc", "slug_title": "a-decade-of-havoc", "date": "1991-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

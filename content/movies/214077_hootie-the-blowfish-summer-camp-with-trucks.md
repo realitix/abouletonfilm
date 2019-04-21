@@ -1,0 +1,1 @@
+{"tmdb_id": 214077, "title": "Hootie & the Blowfish: Summer Camp with Trucks", "original_title": "Hootie & the Blowfish: Summer Camp with Trucks", "slug_title": "hootie-the-blowfish-summer-camp-with-trucks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

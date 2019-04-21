@@ -1,0 +1,1 @@
+{"tmdb_id": 565010, "title": "Campy Christmas Curiosities", "original_title": "Campy Christmas Curiosities", "slug_title": "campy-christmas-curiosities", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wiRmJGlga5KT5WHm7WSkh4L48bv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593387, "title": "A Tribute to Black Women (They Don't Get a Chance)", "original_title": "A Tribute to Black Women (They Don't Get a Chance)", "slug_title": "a-tribute-to-black-women-they-don-t-get-a-chance", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

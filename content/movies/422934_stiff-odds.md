@@ -1,0 +1,1 @@
+{"tmdb_id": 422934, "title": "Stiff Odds", "original_title": "Stiff Odds", "slug_title": "stiff-odds", "date": "2004-01-01", "genre": "Fantastique / Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iAvcUizngK8L68Przhxtw54fUlD.jpg", "actors": [], "comments": [], "recommandations_id": []}

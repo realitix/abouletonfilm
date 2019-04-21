@@ -1,0 +1,1 @@
+{"tmdb_id": 304124, "title": "Yari Dushmani", "original_title": "Yari Dushmani", "slug_title": "yari-dushmani", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

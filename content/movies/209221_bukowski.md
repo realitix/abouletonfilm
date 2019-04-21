@@ -1,0 +1,1 @@
+{"tmdb_id": 209221, "title": "Bukowski", "original_title": "Bukowski", "slug_title": "bukowski", "date": "1973-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1ltcSvAHtUqV0UqHwBbukAFi3x.jpg", "actors": ["Charles Bukowski ()"], "comments": [], "recommandations_id": []}

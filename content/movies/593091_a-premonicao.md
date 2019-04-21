@@ -1,0 +1,1 @@
+{"tmdb_id": 593091, "title": "A Premoni\u00e7\u00e3o", "original_title": "A Premoni\u00e7\u00e3o", "slug_title": "a-premonicao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3r0AKRwCjBEIY33jwMwnNmq9O9U.jpg", "actors": [], "comments": [], "recommandations_id": []}

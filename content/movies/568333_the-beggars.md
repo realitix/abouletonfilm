@@ -1,0 +1,1 @@
+{"tmdb_id": 568333, "title": "The Beggars", "original_title": "Les mendiants", "slug_title": "the-beggars", "date": "1988-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

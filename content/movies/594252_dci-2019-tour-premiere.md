@@ -1,0 +1,1 @@
+{"tmdb_id": 594252, "title": "DCI 2019 Tour Premiere", "original_title": "DCI 2019 Tour Premiere", "slug_title": "dci-2019-tour-premiere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

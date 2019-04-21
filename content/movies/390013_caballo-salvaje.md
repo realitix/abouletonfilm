@@ -1,0 +1,1 @@
+{"tmdb_id": 390013, "title": "Caballo salvaje", "original_title": "Caballo salvaje", "slug_title": "caballo-salvaje", "date": "1983-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joaqu\u00edn Cort\u00e9s ()"], "comments": [], "recommandations_id": []}

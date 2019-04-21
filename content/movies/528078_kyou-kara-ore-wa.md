@@ -1,0 +1,1 @@
+{"tmdb_id": 528078, "title": "Kyou kara Ore wa!!", "original_title": "Kyou kara Ore wa!!", "slug_title": "kyou-kara-ore-wa", "date": "1993-01-04", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gy2IjOYMvzSVMRfV43GfW2kmss5.jpg", "actors": [], "comments": [], "recommandations_id": []}

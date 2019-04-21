@@ -1,0 +1,1 @@
+{"tmdb_id": 513724, "title": "Brasil - FEB na It\u00e1lia", "original_title": "Brasil - FEB na It\u00e1lia", "slug_title": "brasil-feb-na-italia", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQgNjCM10COksm8cffO4PIfaLlX.jpg", "actors": [], "comments": [], "recommandations_id": []}

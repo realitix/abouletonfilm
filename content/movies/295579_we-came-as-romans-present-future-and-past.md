@@ -1,0 +1,1 @@
+{"tmdb_id": 295579, "title": "We Came as Romans: Present, Future and Past", "original_title": "We Came as Romans: Present, Future and Past", "slug_title": "we-came-as-romans-present-future-and-past", "date": "2014-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

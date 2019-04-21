@@ -1,0 +1,1 @@
+{"tmdb_id": 501048, "title": "Shaihu Umar", "original_title": "Shaihu Umar", "slug_title": "shaihu-umar", "date": "1976-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lL0MJTNpBRcrT8VLJH3s9LVVy9J.jpg", "actors": [], "comments": [], "recommandations_id": []}

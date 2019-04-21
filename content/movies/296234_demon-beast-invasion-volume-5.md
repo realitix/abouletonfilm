@@ -1,0 +1,1 @@
+{"tmdb_id": 296234, "title": "Demon Beast Invasion Volume 5", "original_title": "Demon Beast Invasion Volume 5", "slug_title": "demon-beast-invasion-volume-5", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VtkcTGxpARMPazZwfDK6NTEjkV.jpg", "actors": [], "comments": [], "recommandations_id": []}

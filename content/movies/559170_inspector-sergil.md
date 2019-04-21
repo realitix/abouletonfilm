@@ -1,0 +1,1 @@
+{"tmdb_id": 559170, "title": "Inspector Sergil", "original_title": "Inspecteur Sergil", "slug_title": "inspector-sergil", "date": "1947-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63fwnhQCleKzkpznnYaV7Za7zud.jpg", "actors": [], "comments": [], "recommandations_id": []}

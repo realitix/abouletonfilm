@@ -1,0 +1,1 @@
+{"tmdb_id": 306880, "title": "Lubalang Daik", "original_title": "Lubalang Daik", "slug_title": "lubalang-daik", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5AFuGt26tMVWdrzp9yj6phqw0L.jpg", "actors": [], "comments": [], "recommandations_id": []}

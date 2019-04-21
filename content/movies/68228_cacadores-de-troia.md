@@ -1,0 +1,1 @@
+{"tmdb_id": 68228, "title": "Ca\u00e7adores de Tr\u00f3ia", "original_title": "Ca\u00e7adores de Tr\u00f3ia", "slug_title": "cacadores-de-troia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLF4Du1tqgIJZj7B9iYWKW14QXz.jpg", "actors": [], "comments": [], "recommandations_id": []}

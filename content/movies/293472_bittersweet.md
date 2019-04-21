@@ -1,0 +1,1 @@
+{"tmdb_id": 293472, "title": "Bittersweet", "original_title": "Bittersweet", "slug_title": "bittersweet", "date": "2014-10-02", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YiEqqJlo4RFBlExJBU2ajLWRs.jpg", "actors": ["Lucia Rijker ()", "Diana Prazak ()"], "comments": [], "recommandations_id": []}

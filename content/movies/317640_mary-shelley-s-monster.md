@@ -1,0 +1,1 @@
+{"tmdb_id": 317640, "title": "Mary Shelley's Monster", "original_title": "Mary Shelley's Monster", "slug_title": "mary-shelley-s-monster", "date": "2015-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

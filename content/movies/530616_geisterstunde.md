@@ -1,0 +1,1 @@
+{"tmdb_id": 530616, "title": "Geisterstunde", "original_title": "Geisterstunde", "slug_title": "geisterstunde", "date": "1967-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nsOrRLoA9O6NxR2piy5zxyWWqMN.jpg", "actors": [], "comments": [], "recommandations_id": []}

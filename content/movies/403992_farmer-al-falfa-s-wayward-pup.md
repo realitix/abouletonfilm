@@ -1,0 +1,1 @@
+{"tmdb_id": 403992, "title": "Farmer Al Falfa's Wayward Pup", "original_title": "Farmer Al Falfa's Wayward Pup", "slug_title": "farmer-al-falfa-s-wayward-pup", "date": "1917-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

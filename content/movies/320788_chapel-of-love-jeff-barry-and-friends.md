@@ -1,0 +1,1 @@
+{"tmdb_id": 320788, "title": "Chapel of Love: Jeff Barry and Friends", "original_title": "Chapel of Love: Jeff Barry and Friends", "slug_title": "chapel-of-love-jeff-barry-and-friends", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

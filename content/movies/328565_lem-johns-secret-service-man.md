@@ -1,0 +1,1 @@
+{"tmdb_id": 328565, "title": "Lem Johns: Secret Service Man", "original_title": "Lem Johns: Secret Service Man", "slug_title": "lem-johns-secret-service-man", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353317, "title": "Amuse-Gueule #3: All Shook Up", "original_title": "Amuse-Gueule #3: All Shook Up", "slug_title": "amuse-gueule-3-all-shook-up", "date": "2013-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527361, "title": "Do You Know Where Your Man Is", "original_title": "Do You Know Where Your Man Is", "slug_title": "do-you-know-where-your-man-is", "date": "2013-04-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Farley Jackson ()", "Jessica A. Caesar (Sheryl)"], "comments": [], "recommandations_id": []}

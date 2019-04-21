@@ -1,0 +1,1 @@
+{"tmdb_id": 589568, "title": "La coupure", "original_title": "La coupure", "slug_title": "la-coupure", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

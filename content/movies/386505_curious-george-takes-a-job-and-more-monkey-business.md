@@ -1,0 +1,1 @@
+{"tmdb_id": 386505, "title": "Curious George: Takes a Job and More Monkey Business!", "original_title": "Curious George: Takes a Job and More Monkey Business!", "slug_title": "curious-george-takes-a-job-and-more-monkey-business", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

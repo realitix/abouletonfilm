@@ -1,0 +1,1 @@
+{"tmdb_id": 564410, "title": "Babysitting From Hell", "original_title": "Gardiennage de l'Enfer", "slug_title": "babysitting-from-hell", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

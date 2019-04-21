@@ -1,0 +1,1 @@
+{"tmdb_id": 450444, "title": "Nylon Coffee Roasters", "original_title": "Nylon Coffee Roasters", "slug_title": "nylon-coffee-roasters", "date": "2013-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/weaTHPbNbCHO3zB0kUybvbVeo4a.jpg", "actors": [], "comments": [], "recommandations_id": []}

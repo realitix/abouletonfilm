@@ -1,0 +1,1 @@
+{"tmdb_id": 476794, "title": "Hajwala", "original_title": "Hajwala", "slug_title": "hajwala", "date": "2016-09-29", "genre": "Drame / Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNosDBLKywMYXmCxtxCWrwunCPG.jpg", "actors": [], "comments": [], "recommandations_id": []}

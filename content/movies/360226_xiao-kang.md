@@ -1,0 +1,1 @@
+{"tmdb_id": 360226, "title": "Xiao Kang", "original_title": "Xiao Kang", "slug_title": "xiao-kang", "date": "2015-09-15", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dD17uZ5EST729JEf8bNXeI8F7VB.jpg", "actors": ["Lee Kang-Sheng (Xiao Kang)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 565748, "title": "Demolition Girl", "original_title": "Demolition Girl", "slug_title": "demolition-girl", "date": "2019-01-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aya Kitai ()", "Hiroki Ino ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 340949, "title": "Bike City, Great City", "original_title": "Bike City, Great City", "slug_title": "bike-city-great-city", "date": "2013-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

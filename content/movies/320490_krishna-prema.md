@@ -1,0 +1,1 @@
+{"tmdb_id": 320490, "title": "Krishna Prema", "original_title": "Krishna Prema", "slug_title": "krishna-prema", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

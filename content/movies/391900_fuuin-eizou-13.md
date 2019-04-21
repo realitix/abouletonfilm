@@ -1,0 +1,1 @@
+{"tmdb_id": 391900, "title": "Fuuin Eizou 13", "original_title": "\u5c01\u5370\u6620\u50cf 13 \u9ed2\u96fb\u8a71\u306e\u546a\u6587", "slug_title": "fuuin-eizou-13", "date": "2013-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vE9ySbB3gakAYPjMr2wGK2Zw0Wn.jpg", "actors": [], "comments": [], "recommandations_id": []}

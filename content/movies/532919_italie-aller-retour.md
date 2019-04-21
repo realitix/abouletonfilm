@@ -1,0 +1,1 @@
+{"tmdb_id": 532919, "title": "Italie aller retour", "original_title": "Italie aller retour", "slug_title": "italie-aller-retour", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne De Broca (Clotilde)", "Patrick Karl (Richard)", "Laura Di Marchi (Sofia)"], "comments": [], "recommandations_id": []}

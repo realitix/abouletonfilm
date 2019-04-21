@@ -1,0 +1,1 @@
+{"tmdb_id": 532618, "title": "Sweekar", "original_title": "Sweekar", "slug_title": "sweekar", "date": "2018-08-09", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMXSaWi2DjQqqLPadCnZ4EsBr7P.jpg", "actors": ["Rui Unas (Himself)"], "comments": [], "recommandations_id": []}

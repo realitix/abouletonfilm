@@ -1,0 +1,1 @@
+{"tmdb_id": 542196, "title": "Wolf Hound", "original_title": "Wolf Hound", "slug_title": "wolf-hound", "date": "", "genre": "Guerre / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Maslow (Captain David Holden)", "Trevor Donovan (Major Erich Roth)"], "comments": [], "recommandations_id": []}

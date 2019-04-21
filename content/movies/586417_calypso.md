@@ -1,0 +1,1 @@
+{"tmdb_id": 586417, "title": "Calypso", "original_title": "Calypso", "slug_title": "calypso", "date": "2019-01-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFccgG2JzZiLmR5X0fsRHewihOt.jpg", "actors": ["Nathalie Merchant (Calypso)", "Alexander Roberts (Ulysses)"], "comments": [], "recommandations_id": []}

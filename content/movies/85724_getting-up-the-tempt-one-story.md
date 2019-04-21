@@ -1,0 +1,1 @@
+{"tmdb_id": 85724, "title": "Getting Up: The TEMPT ONE Story", "original_title": "Getting Up: The TEMPT ONE Story", "slug_title": "getting-up-the-tempt-one-story", "date": "2012-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

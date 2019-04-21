@@ -1,0 +1,1 @@
+{"tmdb_id": 550635, "title": "La dinde", "original_title": "La dinde", "slug_title": "la-dinde", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

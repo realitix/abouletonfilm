@@ -1,0 +1,1 @@
+{"tmdb_id": 293058, "title": "La baraque \u00e0 frites", "original_title": "La baraque \u00e0 frites", "slug_title": "la-baraque-a-frites", "date": "2010-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

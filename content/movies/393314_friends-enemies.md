@@ -1,0 +1,1 @@
+{"tmdb_id": 393314, "title": "Friends & Enemies", "original_title": "Friends & Enemies", "slug_title": "friends-enemies", "date": "1987-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojqWQyK3CTZET382MOQ6J6lL9Bi.jpg", "actors": [], "comments": [], "recommandations_id": []}

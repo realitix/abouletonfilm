@@ -1,0 +1,1 @@
+{"tmdb_id": 539173, "title": "Patsy's Jim", "original_title": "Patsy's Jim", "slug_title": "patsy-s-jim", "date": "1921-08-15", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irving Cummings (Cpl. Jim Campbell, N.W.M.P.)"], "comments": [], "recommandations_id": []}

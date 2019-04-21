@@ -1,0 +1,1 @@
+{"tmdb_id": 38892, "title": "Gene Vincent And His Blue Caps", "original_title": "Gene Vincent And His Blue Caps", "slug_title": "gene-vincent-and-his-blue-caps", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

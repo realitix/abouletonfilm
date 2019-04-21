@@ -1,0 +1,1 @@
+{"tmdb_id": 371455, "title": "Seikai g\u00fbdo mooningu!!", "original_title": "Seikai g\u00fbdo mooningu!!", "slug_title": "seikai-gudo-mooningu", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

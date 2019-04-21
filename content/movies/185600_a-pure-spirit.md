@@ -1,0 +1,1 @@
+{"tmdb_id": 185600, "title": "A Pure Spirit", "original_title": "Un Pur Esprit", "slug_title": "a-pure-spirit", "date": "2004-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hER35SAw9IlEeb66GduUYIpUcv.jpg", "actors": [], "comments": [], "recommandations_id": []}

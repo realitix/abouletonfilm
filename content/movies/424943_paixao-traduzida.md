@@ -1,0 +1,1 @@
+{"tmdb_id": 424943, "title": "Paix\u00e3o Traduzida", "original_title": "Paix\u00e3o Traduzida", "slug_title": "paixao-traduzida", "date": "2013-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYL6Q7VW9VrcKBmWluBq4meqgRc.jpg", "actors": ["Andr\u00e9 Ribeiro ()"], "comments": [], "recommandations_id": []}

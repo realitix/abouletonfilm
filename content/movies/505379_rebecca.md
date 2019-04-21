@@ -1,0 +1,1 @@
+{"tmdb_id": 505379, "title": "Rebecca", "original_title": "Rebecca", "slug_title": "rebecca", "date": "2020-12-31", "genre": "Romance / Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Armie Hammer (George Fortescue Maximilian \"Maxim\" de Winter)", "Lily James (Mrs. de Winter)"], "comments": [], "recommandations_id": []}

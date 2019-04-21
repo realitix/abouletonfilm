@@ -1,0 +1,1 @@
+{"tmdb_id": 594146, "title": "My Psychoanalytic Notes", "original_title": "My Psychoanalytic Notes", "slug_title": "my-psychoanalytic-notes", "date": "2012-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

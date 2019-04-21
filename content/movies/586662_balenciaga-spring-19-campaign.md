@@ -1,0 +1,1 @@
+{"tmdb_id": 586662, "title": "Balenciaga Spring 19 Campaign", "original_title": "Balenciaga Spring 19 Campaign", "slug_title": "balenciaga-spring-19-campaign", "date": "2018-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

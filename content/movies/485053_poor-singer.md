@@ -1,0 +1,1 @@
+{"tmdb_id": 485053, "title": "Poor Singer", "original_title": "Pobre del cantor", "slug_title": "poor-singer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

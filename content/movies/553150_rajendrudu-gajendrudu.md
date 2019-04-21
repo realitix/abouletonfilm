@@ -1,0 +1,1 @@
+{"tmdb_id": 553150, "title": "Rajendrudu Gajendrudu", "original_title": "Rajendrudu Gajendrudu", "slug_title": "rajendrudu-gajendrudu", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e7bFTIJZTle5lj7mFtWo5dwdCxF.jpg", "actors": ["Rajendra Prasad ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312380, "title": "Romeo & Juliet with Fonteyn & Nureyev", "original_title": "Romeo & Juliet with Fonteyn & Nureyev", "slug_title": "romeo-juliet-with-fonteyn-nureyev", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

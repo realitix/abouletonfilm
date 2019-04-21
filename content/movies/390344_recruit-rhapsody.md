@@ -1,0 +1,1 @@
+{"tmdb_id": 390344, "title": "Recruit Rhapsody", "original_title": "\u5c31\u6d3b\u72c2\u60f3\u66f2", "slug_title": "recruit-rhapsody", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhLohDFZVlbPZAj9Lwewr8D9DFp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552430, "title": "Evangeline", "original_title": "Evangeline", "slug_title": "evangeline", "date": "1908-02-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2X2WWfG6JDFqGO8lasMQNPlNQNE.jpg", "actors": ["Gene Gauntier (Evangeline)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 143711, "title": "In the Beginning: The Release from Babylon", "original_title": "In the Beginning: The Release from Babylon", "slug_title": "in-the-beginning-the-release-from-babylon", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

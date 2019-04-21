@@ -1,0 +1,1 @@
+{"tmdb_id": 305968, "title": "Extol: Of Light and Shade", "original_title": "Extol: Of Light and Shade", "slug_title": "extol-of-light-and-shade", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2qJlqy2Q61Npzlgqb1Ge5icR7g4.jpg", "actors": [], "comments": [], "recommandations_id": []}

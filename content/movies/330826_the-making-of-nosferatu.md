@@ -1,0 +1,1 @@
+{"tmdb_id": 330826, "title": "The Making of 'Nosferatu'", "original_title": "The Making of 'Nosferatu'", "slug_title": "the-making-of-nosferatu", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

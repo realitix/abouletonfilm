@@ -1,0 +1,1 @@
+{"tmdb_id": 524095, "title": "Picknick", "original_title": "Picknick", "slug_title": "picknick", "date": "1977-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87Hxj37gSQIKxgbuIqt9wQNg5yz.jpg", "actors": [], "comments": [], "recommandations_id": []}

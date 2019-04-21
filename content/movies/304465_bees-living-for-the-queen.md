@@ -1,0 +1,1 @@
+{"tmdb_id": 304465, "title": "Bees - Living for the Queen", "original_title": "Bees - Living for the Queen", "slug_title": "bees-living-for-the-queen", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349078, "title": "Todavia Cantamos: Coro Quiero Retruco", "original_title": "Todavia Cantamos: Coro Quiero Retruco", "slug_title": "todavia-cantamos-coro-quiero-retruco", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

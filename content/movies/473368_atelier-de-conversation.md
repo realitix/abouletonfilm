@@ -1,0 +1,1 @@
+{"tmdb_id": 473368, "title": "Atelier de conversation", "original_title": "Atelier de conversation", "slug_title": "atelier-de-conversation", "date": "2017-02-02", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LpL9eoyUOjqR1kqvmKeAfJSE3.jpg", "actors": [], "comments": [], "recommandations_id": []}

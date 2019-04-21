@@ -1,0 +1,1 @@
+{"tmdb_id": 472687, "title": "Jamaica Man", "original_title": "Jamaica Man", "slug_title": "jamaica-man", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGDEf7wnign8YpFTMVO2RHcOBeX.jpg", "actors": [], "comments": [], "recommandations_id": []}

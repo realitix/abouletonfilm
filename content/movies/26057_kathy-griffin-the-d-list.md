@@ -1,0 +1,1 @@
+{"tmdb_id": 26057, "title": "Kathy Griffin: The D-List", "original_title": "Kathy Griffin: The D-List", "slug_title": "kathy-griffin-the-d-list", "date": "2004-03-24", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathy Griffin (Self)"], "comments": [], "recommandations_id": [522440, 26017, 26019, 550464]}

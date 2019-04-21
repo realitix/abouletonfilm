@@ -1,0 +1,1 @@
+{"tmdb_id": 305833, "title": "Mr. Romeo", "original_title": "Mr. Romeo", "slug_title": "mr-romeo", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Rinku Jaiswal ()", "Kiran Kumar ()", "Sarita ()", "Utpal Dutt ()", "Ranjeet ()"], "comments": [], "recommandations_id": []}

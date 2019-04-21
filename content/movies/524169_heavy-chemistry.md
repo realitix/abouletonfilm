@@ -1,0 +1,1 @@
+{"tmdb_id": 524169, "title": "Heavy Chemistry", "original_title": "Heavy Chemistry", "slug_title": "heavy-chemistry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

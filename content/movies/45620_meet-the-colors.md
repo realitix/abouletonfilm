@@ -1,0 +1,1 @@
+{"tmdb_id": 45620, "title": "Meet the Colors", "original_title": "Meet the Colors", "slug_title": "meet-the-colors", "date": "2006-12-21", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGg5f5ZvrfZyFmbvNoRZCRWqlot.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578888, "title": "Max \u00e9mule de Tartarin", "original_title": "Max \u00e9mule de Tartarin", "slug_title": "max-emule-de-tartarin", "date": "1912-08-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Stacia Napierkowska (Mona)"], "comments": [], "recommandations_id": []}

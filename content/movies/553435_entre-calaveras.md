@@ -1,0 +1,1 @@
+{"tmdb_id": 553435, "title": "Entre Calaveras", "original_title": "Entre Calaveras", "slug_title": "entre-calaveras", "date": "2013-02-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxtQrR81ppDxZ0xSrLiXqoHsvPX.jpg", "actors": [], "comments": [], "recommandations_id": []}

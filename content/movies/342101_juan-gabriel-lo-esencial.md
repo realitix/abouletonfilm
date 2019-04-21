@@ -1,0 +1,1 @@
+{"tmdb_id": 342101, "title": "Juan Gabriel: Lo Esencial", "original_title": "Juan Gabriel: Lo Esencial", "slug_title": "juan-gabriel-lo-esencial", "date": "2008-05-16", "genre": "", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Gabriel (Himself)"], "comments": [], "recommandations_id": []}

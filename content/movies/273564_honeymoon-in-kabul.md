@@ -1,0 +1,1 @@
+{"tmdb_id": 273564, "title": "Honeymoon in Kabul", "original_title": "Honeymoon in Kabul", "slug_title": "honeymoon-in-kabul", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

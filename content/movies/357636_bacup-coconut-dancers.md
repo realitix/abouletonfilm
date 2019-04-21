@@ -1,0 +1,1 @@
+{"tmdb_id": 357636, "title": "Bacup Coconut Dancers", "original_title": "Bacup Coconut Dancers", "slug_title": "bacup-coconut-dancers", "date": "1930-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

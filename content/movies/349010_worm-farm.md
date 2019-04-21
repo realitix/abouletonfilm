@@ -1,0 +1,1 @@
+{"tmdb_id": 349010, "title": "Worm Farm", "original_title": "Worm Farm", "slug_title": "worm-farm", "date": "2012-07-16", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

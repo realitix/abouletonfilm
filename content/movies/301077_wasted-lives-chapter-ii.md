@@ -1,0 +1,1 @@
+{"tmdb_id": 301077, "title": "Wasted Lives Chapter II", "original_title": "Wasted Lives Chapter II", "slug_title": "wasted-lives-chapter-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

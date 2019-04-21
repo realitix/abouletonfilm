@@ -1,0 +1,1 @@
+{"tmdb_id": 308562, "title": "The Idiot", "original_title": "The Idiot", "slug_title": "the-idiot", "date": "2014-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7p5kP509UmRpSAQtzA7nMcK5EUA.jpg", "actors": [], "comments": [], "recommandations_id": []}

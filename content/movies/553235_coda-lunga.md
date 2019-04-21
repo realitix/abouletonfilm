@@ -1,0 +1,1 @@
+{"tmdb_id": 553235, "title": "Coda Lunga", "original_title": "Coda Lunga", "slug_title": "coda-lunga", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

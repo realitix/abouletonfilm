@@ -1,0 +1,1 @@
+{"tmdb_id": 585562, "title": "The Blue Revolution", "original_title": "\u9752\u8272\u9769\u547d", "slug_title": "the-blue-revolution", "date": "1953-06-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Koreya Senda ()", "Sadako Sawamura ()", "Hiroshi Tachikawa ()"], "comments": [], "recommandations_id": []}

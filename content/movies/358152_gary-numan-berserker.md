@@ -1,0 +1,1 @@
+{"tmdb_id": 358152, "title": "Gary Numan: Berserker", "original_title": "Gary Numan: Berserker", "slug_title": "gary-numan-berserker", "date": "1984-12-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aa8v9KUAzx2kVjF1wyygY533mtx.jpg", "actors": ["Gary Numan ()"], "comments": [], "recommandations_id": []}

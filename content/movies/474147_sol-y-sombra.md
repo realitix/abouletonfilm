@@ -1,0 +1,1 @@
+{"tmdb_id": 474147, "title": "Sol y sombra", "original_title": "Sol y sombra", "slug_title": "sol-y-sombra", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZaxwqDvJUlbsQbxMhXf4nJMMJo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 388693, "title": "Half & Half", "original_title": "Half & Half", "slug_title": "half-half", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUpnu5Kttd4uEMGgCGI66MjgXxc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317865, "title": "Luciano Pavarotti: Recital in Barcelona", "original_title": "Luciano Pavarotti: Recital in Barcelona", "slug_title": "luciano-pavarotti-recital-in-barcelona", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

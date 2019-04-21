@@ -1,0 +1,1 @@
+{"tmdb_id": 533131, "title": "Det underbara m\u00f6tet", "original_title": "Det underbara m\u00f6tet", "slug_title": "det-underbara-motet", "date": "1949-10-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEfYxmwSQBGuu1AC8RHKv6phnIb.jpg", "actors": ["Hans Dahlberg ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 164243, "title": "Pazarlar\u0131 Hi\u00e7 Sevmem", "original_title": "Pazarlar\u0131 Hi\u00e7 Sevmem", "slug_title": "pazarlari-hic-sevmem", "date": "2012-04-26", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnV0xeknLlqMVQtLG22ERgRz3hD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 558480, "title": "The Johan Camitz Diesel Ads", "original_title": "The Johan Camitz Diesel Ads", "slug_title": "the-johan-camitz-diesel-ads", "date": "1995-08-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gH7SYAWlj0MWrUaERHtHCtQ6dFj.jpg", "actors": [], "comments": [], "recommandations_id": []}

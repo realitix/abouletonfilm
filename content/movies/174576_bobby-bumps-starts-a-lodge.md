@@ -1,0 +1,1 @@
+{"tmdb_id": 174576, "title": "Bobby Bumps Starts a Lodge", "original_title": "Bobby Bumps Starts a Lodge", "slug_title": "bobby-bumps-starts-a-lodge", "date": "1916-09-27", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346393, "title": "Med rett til \u00e5 kapre", "original_title": "Med rett til \u00e5 kapre", "slug_title": "med-rett-til-a-kapre", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

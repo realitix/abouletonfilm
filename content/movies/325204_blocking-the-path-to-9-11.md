@@ -1,0 +1,1 @@
+{"tmdb_id": 325204, "title": "Blocking the Path to 9/11", "original_title": "Blocking the Path to 9/11", "slug_title": "blocking-the-path-to-9-11", "date": "2008-09-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwRcGx8qlYWL61uXJd1qWQeSFtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

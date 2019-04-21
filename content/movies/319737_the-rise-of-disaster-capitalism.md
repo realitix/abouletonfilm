@@ -1,0 +1,1 @@
+{"tmdb_id": 319737, "title": "The Rise of Disaster Capitalism", "original_title": "The Rise of Disaster Capitalism", "slug_title": "the-rise-of-disaster-capitalism", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

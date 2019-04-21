@@ -1,0 +1,1 @@
+{"tmdb_id": 318139, "title": "Richard Tuttle: Never Not an Artist", "original_title": "Richard Tuttle: Never Not an Artist", "slug_title": "richard-tuttle-never-not-an-artist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

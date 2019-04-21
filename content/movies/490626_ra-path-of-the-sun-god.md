@@ -1,0 +1,1 @@
+{"tmdb_id": 490626, "title": "Ra: Path of the Sun God", "original_title": "Ra: Path of the Sun God", "slug_title": "ra-path-of-the-sun-god", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9z9d3mCN9m6MWUoDu803EtZLPf7.jpg", "actors": [], "comments": [], "recommandations_id": []}

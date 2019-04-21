@@ -1,0 +1,1 @@
+{"tmdb_id": 291430, "title": "Joachim's Dictionary", "original_title": "Le dictionnaire de Joachim", "slug_title": "joachim-s-dictionary", "date": "1965-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIYFhwrPWzDDmzvXtjLOpoku540.jpg", "actors": [], "comments": [], "recommandations_id": []}

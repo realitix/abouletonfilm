@@ -1,0 +1,1 @@
+{"tmdb_id": 318114, "title": "Fields of Glory: Georgia", "original_title": "Fields of Glory: Georgia", "slug_title": "fields-of-glory-georgia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

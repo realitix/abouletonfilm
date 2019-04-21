@@ -1,0 +1,1 @@
+{"tmdb_id": 20904, "title": "Prince - The Gold Experience", "original_title": "Prince - The Gold Experience", "slug_title": "prince-the-gold-experience", "date": "1995-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

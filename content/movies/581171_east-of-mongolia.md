@@ -1,0 +1,1 @@
+{"tmdb_id": 581171, "title": "East of Mongolia", "original_title": "\ubabd\uace0\uc758 \ub3d9\ucabd", "slug_title": "east-of-mongolia", "date": "1964-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heo Jang-gang ()", "Hwang Hae ()", "Tae Hyun-sil ()", "Kim Hye-jeong ()"], "comments": [], "recommandations_id": []}

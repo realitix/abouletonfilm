@@ -1,0 +1,1 @@
+{"tmdb_id": 423396, "title": "Electrocute Your Stars", "original_title": "Electrocute Your Stars", "slug_title": "electrocute-your-stars", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gXaUaBhOoKpPK32mCqODVn2Fn.jpg", "actors": ["George Kuchar ()"], "comments": [], "recommandations_id": []}

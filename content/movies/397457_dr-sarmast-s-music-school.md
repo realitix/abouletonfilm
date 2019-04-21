@@ -1,0 +1,1 @@
+{"tmdb_id": 397457, "title": "Dr Sarmast's Music School", "original_title": "Dr Sarmast's Music School", "slug_title": "dr-sarmast-s-music-school", "date": "2012-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xHfpKY9rKAoLgJIVB51GtvxZVA5.jpg", "actors": [], "comments": [], "recommandations_id": []}

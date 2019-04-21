@@ -1,0 +1,1 @@
+{"tmdb_id": 101999, "title": "BBS: The Documentary", "original_title": "BBS: The Documentary", "slug_title": "bbs-the-documentary", "date": "2005-05-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssutWWyugkptn7kHei9JB7jIFVl.jpg", "actors": [], "comments": [], "recommandations_id": []}

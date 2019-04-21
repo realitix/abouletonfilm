@@ -1,0 +1,1 @@
+{"tmdb_id": 429027, "title": "Static Odyssey", "original_title": "Static Odyssey", "slug_title": "static-odyssey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

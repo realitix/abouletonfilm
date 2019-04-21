@@ -1,0 +1,1 @@
+{"tmdb_id": 319815, "title": "Streetball", "original_title": "Streetball", "slug_title": "streetball", "date": "2010-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

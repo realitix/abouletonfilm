@@ -1,0 +1,1 @@
+{"tmdb_id": 586118, "title": "NBA Furious Finishes", "original_title": "NBA Furious Finishes", "slug_title": "nba-furious-finishes", "date": "1997-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ra43OZsU0LKFMlZT09zR3wRtcMh.jpg", "actors": [], "comments": [], "recommandations_id": []}

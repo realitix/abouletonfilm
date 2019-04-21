@@ -1,0 +1,1 @@
+{"tmdb_id": 338020, "title": "Return Of The Terror", "original_title": "Return Of The Terror", "slug_title": "return-of-the-terror", "date": "1934-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cPhbYPa3zrUI0mkgQ0N5BpQMJ5g.jpg", "actors": [], "comments": [], "recommandations_id": []}

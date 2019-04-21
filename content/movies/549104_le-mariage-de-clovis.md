@@ -1,0 +1,1 @@
+{"tmdb_id": 549104, "title": "Le mariage de Clovis", "original_title": "Le mariage de Clovis", "slug_title": "le-mariage-de-clovis", "date": "1969-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

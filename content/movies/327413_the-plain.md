@@ -1,0 +1,1 @@
+{"tmdb_id": 327413, "title": "The Plain", "original_title": "A Chj\u00e0na", "slug_title": "the-plain", "date": "2011-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYl0mgTjy6KnLBRfauojphvaGRp.jpg", "actors": ["Koudous Seihon ()", "Cheik Baily Kane ()"], "comments": [], "recommandations_id": []}

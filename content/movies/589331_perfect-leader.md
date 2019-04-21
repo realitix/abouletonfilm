@@ -1,0 +1,1 @@
+{"tmdb_id": 589331, "title": "Perfect Leader", "original_title": "Perfect Leader", "slug_title": "perfect-leader", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

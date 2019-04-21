@@ -1,0 +1,1 @@
+{"tmdb_id": 416063, "title": "Kamchatka - The Cure for Hatred", "original_title": "Kamchatka - The Cure for Hatred", "slug_title": "kamchatka-the-cure-for-hatred", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

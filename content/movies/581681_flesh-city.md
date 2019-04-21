@@ -1,0 +1,1 @@
+{"tmdb_id": 581681, "title": "Flesh City", "original_title": "Flesh City", "slug_title": "flesh-city", "date": "2019-02-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5X3lBh1EVReSaVk6Zc2ZMYZCWjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

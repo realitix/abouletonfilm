@@ -1,0 +1,1 @@
+{"tmdb_id": 165387, "title": "Chain Reaction 3", "original_title": "Chain Reaction 3", "slug_title": "chain-reaction-3", "date": "2002-01-11", "genre": "Documentaire / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j4B5oR6I3FfbtBJXqVrsgrPvO8U.jpg", "actors": [], "comments": [], "recommandations_id": []}

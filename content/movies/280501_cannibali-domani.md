@@ -1,0 +1,1 @@
+{"tmdb_id": 280501, "title": "Cannibali domani", "original_title": "Cannibali domani", "slug_title": "cannibali-domani", "date": "1983-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkJQcjxbFKvAzXkWQhKCP8L2uRT.jpg", "actors": [], "comments": [], "recommandations_id": []}

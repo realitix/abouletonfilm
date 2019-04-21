@@ -1,0 +1,1 @@
+{"tmdb_id": 194003, "title": "Max Is Stuck Up", "original_title": "Max ne se mariera pas", "slug_title": "max-is-stuck-up", "date": "1910-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Gabrielle Lange ()"], "comments": [], "recommandations_id": []}

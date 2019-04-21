@@ -1,0 +1,1 @@
+{"tmdb_id": 393252, "title": "Detective Naani", "original_title": "Detective Naani", "slug_title": "detective-naani", "date": "2009-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 339067, "title": "The Speech of Prime Minister Tanaka", "original_title": "Seiyukai sosai Tanaka Giichi-shi enzetsu", "slug_title": "the-speech-of-prime-minister-tanaka", "date": "1928-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

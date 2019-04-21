@@ -1,0 +1,1 @@
+{"tmdb_id": 521743, "title": "Afghanistan: Fighting the Forever War", "original_title": "Afghanistan: Fighting the Forever War", "slug_title": "afghanistan-fighting-the-forever-war", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 514996, "title": "Paradoxical", "original_title": "Paradoxical", "slug_title": "paradoxical", "date": "2018-07-06", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOEzuVWUa36AqZrNpyQQHCdD8Ak.jpg", "actors": ["Aleks Glenn (Wilder)", "Matthew Straw (V)"], "comments": [], "recommandations_id": []}

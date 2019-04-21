@@ -1,0 +1,1 @@
+{"tmdb_id": 396883, "title": "Kola Mass", "original_title": "Kola Mass", "slug_title": "kola-mass", "date": "2016-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ribejuNfndm56tkMtUrWcCB5P4z.jpg", "actors": ["Amir Niyas ()", "Ashkar Soudhan ()", "Dharmajan Bolgatty ()"], "comments": [], "recommandations_id": []}

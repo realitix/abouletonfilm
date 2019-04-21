@@ -1,0 +1,1 @@
+{"tmdb_id": 108332, "title": "Burger Town", "original_title": "Burger Town", "slug_title": "burger-town", "date": "1998-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68Uci0M4gKlCnqvsDYU6B5JxLjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

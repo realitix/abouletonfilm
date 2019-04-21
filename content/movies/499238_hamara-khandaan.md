@@ -1,0 +1,1 @@
+{"tmdb_id": 499238, "title": "Hamara Khandaan", "original_title": "Hamara Khandaan", "slug_title": "hamara-khandaan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

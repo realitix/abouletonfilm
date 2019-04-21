@@ -1,0 +1,1 @@
+{"tmdb_id": 24661, "title": "The Prodigy", "original_title": "The Prodigy", "slug_title": "the-prodigy", "date": "2009-07-07", "genre": "Aventure / Animation / Familial", "score": "1.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7Xi7MXWiKBAdhG94RmlBufrs2k.jpg", "actors": [], "comments": [], "recommandations_id": []}

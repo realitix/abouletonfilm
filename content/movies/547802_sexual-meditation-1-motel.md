@@ -1,0 +1,1 @@
+{"tmdb_id": 547802, "title": "Sexual Meditation #1: Motel", "original_title": "Sexual Meditation #1: Motel", "slug_title": "sexual-meditation-1-motel", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

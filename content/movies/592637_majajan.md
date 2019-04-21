@@ -1,0 +1,1 @@
+{"tmdb_id": 592637, "title": "Majajan", "original_title": "Majajan", "slug_title": "majajan", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

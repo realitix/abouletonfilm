@@ -1,0 +1,1 @@
+{"tmdb_id": 174032, "title": "A Helpful Sisterhood", "original_title": "A Helpful Sisterhood", "slug_title": "a-helpful-sisterhood", "date": "1914-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norma Talmadge (Mary)"], "comments": [], "recommandations_id": []}

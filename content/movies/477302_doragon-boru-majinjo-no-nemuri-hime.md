@@ -1,0 +1,1 @@
+{"tmdb_id": 477302, "title": "Doragon b\u00f4ru: Majinj\u00f4 no nemuri hime", "original_title": "Doragon b\u00f4ru: Majinj\u00f4 no nemuri hime", "slug_title": "doragon-boru-majinjo-no-nemuri-hime", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

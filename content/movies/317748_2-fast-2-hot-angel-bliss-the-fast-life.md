@@ -1,0 +1,1 @@
+{"tmdb_id": 317748, "title": "2 Fast 2 Hot: Angel Bliss / The Fast Life", "original_title": "2 Fast 2 Hot: Angel Bliss / The Fast Life", "slug_title": "2-fast-2-hot-angel-bliss-the-fast-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

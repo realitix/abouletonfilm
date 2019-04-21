@@ -1,0 +1,1 @@
+{"tmdb_id": 77199, "title": "Aantharya", "original_title": "Aantharya", "slug_title": "aantharya", "date": "2012-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jfUOclAPx6KSRzqHWcaYYhUX3iR.jpg", "actors": ["Sakalakala Praveen ()", "Jai Jagadish ()", "Apsara ()"], "comments": [], "recommandations_id": []}

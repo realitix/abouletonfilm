@@ -1,0 +1,1 @@
+{"tmdb_id": 558309, "title": "Rattle Snake", "original_title": "Rattle Snake", "slug_title": "rattle-snake", "date": "1995-05-05", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Okechukwu Igwe ()", "Nkem Owoh ()", "Francis Duru ()", "Austin Awulonu ()", "Ebele Uzochukwu ()"], "comments": [], "recommandations_id": []}

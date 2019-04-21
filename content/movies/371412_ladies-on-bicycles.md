@@ -1,0 +1,1 @@
+{"tmdb_id": 371412, "title": "Ladies on Bicycles", "original_title": "Ladies on Bicycles", "slug_title": "ladies-on-bicycles", "date": "1899-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

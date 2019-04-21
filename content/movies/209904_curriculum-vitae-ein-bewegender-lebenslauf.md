@@ -1,0 +1,1 @@
+{"tmdb_id": 209904, "title": "Curriculum Vitae \u2013 ein bewegender Lebenslauf", "original_title": "Curriculum Vitae \u2013 ein bewegender Lebenslauf", "slug_title": "curriculum-vitae-ein-bewegender-lebenslauf", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

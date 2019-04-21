@@ -1,0 +1,1 @@
+{"tmdb_id": 276549, "title": "Adolescents: Live at the House of Blues", "original_title": "Adolescents: Live at the House of Blues", "slug_title": "adolescents-live-at-the-house-of-blues", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

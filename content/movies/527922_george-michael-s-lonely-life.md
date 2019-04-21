@@ -1,0 +1,1 @@
+{"tmdb_id": 527922, "title": "George Michael's Lonely Life", "original_title": "George Michael's Lonely Life", "slug_title": "george-michael-s-lonely-life", "date": "2018-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

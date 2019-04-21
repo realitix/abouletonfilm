@@ -1,0 +1,1 @@
+{"tmdb_id": 484033, "title": "Pink Shirts", "original_title": "Pink Shirts", "slug_title": "pink-shirts", "date": "1936-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

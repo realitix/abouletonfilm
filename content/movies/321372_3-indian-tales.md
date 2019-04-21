@@ -1,0 +1,1 @@
+{"tmdb_id": 321372, "title": "3 Indian Tales", "original_title": "3 histoires d'Indiens", "slug_title": "3-indian-tales", "date": "2014-04-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSwG5w9vJCPznGrvjtEOR2Sat6P.jpg", "actors": [], "comments": [], "recommandations_id": []}

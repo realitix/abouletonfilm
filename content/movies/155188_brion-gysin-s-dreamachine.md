@@ -1,0 +1,1 @@
+{"tmdb_id": 155188, "title": "Brion Gysin's Dreamachine", "original_title": "Brion Gysin's Dreamachine", "slug_title": "brion-gysin-s-dreamachine", "date": "1990-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Wary11uZTW60NBzreEBwXwVhMp.jpg", "actors": [], "comments": [], "recommandations_id": []}

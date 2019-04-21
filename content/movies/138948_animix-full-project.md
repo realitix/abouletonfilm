@@ -1,0 +1,1 @@
+{"tmdb_id": 138948, "title": "AniMix - Full project", "original_title": "AniMix - Full project", "slug_title": "animix-full-project", "date": "2004-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRMyQfERLlPb9GuPLYXaqecNgkS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 159687, "title": "Damned If You Don't", "original_title": "Damned If You Don't", "slug_title": "damned-if-you-don-t", "date": "1987-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sojIAf26dAgPGaqPvIvF9jovo8M.jpg", "actors": [], "comments": [], "recommandations_id": []}

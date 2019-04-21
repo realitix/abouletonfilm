@@ -1,0 +1,1 @@
+{"tmdb_id": 485546, "title": "Shearing Animation", "original_title": "Shearing Animation", "slug_title": "shearing-animation", "date": "1961-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nt7UkTOdOCSMMvHrR7cXTLEyQlU.jpg", "actors": [], "comments": [], "recommandations_id": []}

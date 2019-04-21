@@ -1,0 +1,1 @@
+{"tmdb_id": 561070, "title": "The Love Seeker", "original_title": "The Love Seeker", "slug_title": "the-love-seeker", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

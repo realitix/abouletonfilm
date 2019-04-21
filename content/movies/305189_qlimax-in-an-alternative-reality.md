@@ -1,0 +1,1 @@
+{"tmdb_id": 305189, "title": "Qlimax in an Alternative Reality", "original_title": "Qlimax in an Alternative Reality", "slug_title": "qlimax-in-an-alternative-reality", "date": "2010-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

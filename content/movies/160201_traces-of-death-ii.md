@@ -1,0 +1,1 @@
+{"tmdb_id": 160201, "title": "Traces of Death II", "original_title": "Traces of Death II", "slug_title": "traces-of-death-ii", "date": "1994-01-01", "genre": "Horreur / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziaRzsuPya4a2uWaXJSDKlSuklf.jpg", "actors": [], "comments": [], "recommandations_id": []}

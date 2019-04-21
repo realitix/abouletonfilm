@@ -1,0 +1,1 @@
+{"tmdb_id": 271348, "title": "Three Cheers for Catherine the Great", "original_title": "Three Cheers for Catherine the Great", "slug_title": "three-cheers-for-catherine-the-great", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

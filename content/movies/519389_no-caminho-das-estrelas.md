@@ -1,0 +1,1 @@
+{"tmdb_id": 519389, "title": "No caminho das estrelas", "original_title": "No caminho das estrelas", "slug_title": "no-caminho-das-estrelas", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rNqeQ0UBN3iDZhfLnRWPUqLihU.jpg", "actors": [], "comments": [], "recommandations_id": []}

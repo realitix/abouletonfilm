@@ -1,0 +1,1 @@
+{"tmdb_id": 440899, "title": "The Curse of the Hedgehog", "original_title": "The Curse of the Hedgehog", "slug_title": "the-curse-of-the-hedgehog", "date": "2004-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 243931, "title": "Zamboanga", "original_title": "Zamboanga", "slug_title": "zamboanga", "date": "1937-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9H1w0MYgh6stRyFt7IjlXTbWVPU.jpg", "actors": ["Fernando Poe (Danoa)", "Rosa Del Rosario (Minda Moro)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 403410, "title": "Bye, Felicia", "original_title": "Bye, Felicia", "slug_title": "bye-felicia", "date": "2015-11-15", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

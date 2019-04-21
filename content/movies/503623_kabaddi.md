@@ -1,0 +1,1 @@
+{"tmdb_id": 503623, "title": "Kabaddi", "original_title": "Kabaddi", "slug_title": "kabaddi", "date": "2016-05-01", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Diana Khan ()", "Raza Murad ()", "Ishrat Khan ()", "Urmila Sharma ()"], "comments": [], "recommandations_id": []}

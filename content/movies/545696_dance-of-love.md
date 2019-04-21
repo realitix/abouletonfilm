@@ -1,0 +1,1 @@
+{"tmdb_id": 545696, "title": "Dance of Love", "original_title": "Ples ljubezni", "slug_title": "dance-of-love", "date": "2018-08-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miro \u010cernic (\u0110ulo)"], "comments": [], "recommandations_id": []}

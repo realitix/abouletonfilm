@@ -1,0 +1,1 @@
+{"tmdb_id": 468991, "title": "Mixture", "original_title": "\u0637\u0628\u064a\u0637\u0647", "slug_title": "mixture", "date": "1994-05-21", "genre": "Com\u00e9die / Fantastique", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mahmoud Abdel Aziz ()", "Magda Zaki ()", "Salah Abdallah ()"], "comments": [], "recommandations_id": []}

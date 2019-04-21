@@ -1,0 +1,1 @@
+{"tmdb_id": 301953, "title": "Life Life", "original_title": "Life Life", "slug_title": "life-life", "date": "2014-11-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

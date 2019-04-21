@@ -1,0 +1,1 @@
+{"tmdb_id": 406382, "title": "A Morning Without Coffee", "original_title": "A Morning Without Coffee", "slug_title": "a-morning-without-coffee", "date": "2015-09-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6rn7AEQzytDpbBmeeggdcCzIPB.jpg", "actors": [], "comments": [], "recommandations_id": []}

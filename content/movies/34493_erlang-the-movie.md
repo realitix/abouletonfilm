@@ -1,0 +1,1 @@
+{"tmdb_id": 34493, "title": "Erlang: The Movie", "original_title": "Erlang: The Movie", "slug_title": "erlang-the-movie", "date": "1990-01-01", "genre": "", "score": "8.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Williams (Mike)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 45331, "title": "Kontraste", "original_title": "Kontraste", "slug_title": "kontraste", "date": "1982-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwapk1cb2PtKpsvzSLakI4zucAM.jpg", "actors": [], "comments": [], "recommandations_id": []}

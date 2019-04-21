@@ -1,0 +1,1 @@
+{"tmdb_id": 21340, "title": "Baby Mozart", "original_title": "Baby Mozart", "slug_title": "baby-mozart", "date": "2000-06-08", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qivtOdQPSmAojOm45Ixo5PmIJHS.jpg", "actors": ["Julie Aigner-Clark (Characters)"], "comments": [], "recommandations_id": []}

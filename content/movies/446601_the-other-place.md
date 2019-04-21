@@ -1,0 +1,1 @@
+{"tmdb_id": 446601, "title": "The Other Place", "original_title": "The Other Place", "slug_title": "the-other-place", "date": "2016-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1w2LQ5MrbiXJZzigoMOuwiE67Vh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540115, "title": "L'h\u00e9ritier du Bal Tabarin", "original_title": "L'h\u00e9ritier du Bal Tabarin", "slug_title": "l-heritier-du-bal-tabarin", "date": "1933-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

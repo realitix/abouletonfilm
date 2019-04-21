@@ -1,0 +1,1 @@
+{"tmdb_id": 391587, "title": "I Think I Was an Alcoholic", "original_title": "I Think I Was an Alcoholic", "slug_title": "i-think-i-was-an-alcoholic", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Callahan (Himself)"], "comments": [], "recommandations_id": []}

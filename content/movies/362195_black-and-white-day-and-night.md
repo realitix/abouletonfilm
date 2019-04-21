@@ -1,0 +1,1 @@
+{"tmdb_id": 362195, "title": "Black and White, Day and Night", "original_title": "Black and White, Day and Night", "slug_title": "black-and-white-day-and-night", "date": "1960-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQ56sO4ijn5WrSBTUqKU4nBt9gq.jpg", "actors": [], "comments": [], "recommandations_id": []}

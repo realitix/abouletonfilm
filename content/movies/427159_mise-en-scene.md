@@ -1,0 +1,1 @@
+{"tmdb_id": 427159, "title": "Mise-en-scene", "original_title": "Mise-en-scene", "slug_title": "mise-en-scene", "date": "1991-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rainer Huff ()", "Hanns Zischler ()", "Brigitte Karbjinski ()", "Horst-G\u00fcnter Marx ()"], "comments": [], "recommandations_id": []}

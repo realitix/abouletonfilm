@@ -1,0 +1,1 @@
+{"tmdb_id": 586175, "title": "Zaklyuchonnye", "original_title": "Zaklyuchonnye", "slug_title": "zaklyuchonnye", "date": "1936-12-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mikhail Astangov (Kostya)"], "comments": [], "recommandations_id": []}

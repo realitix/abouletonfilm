@@ -1,0 +1,1 @@
+{"tmdb_id": 241495, "title": "The Hard Nut", "original_title": "The Hard Nut", "slug_title": "the-hard-nut", "date": "1992-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQ9frV1iEcW8OnCqFdw1MDIlwu9.jpg", "actors": [], "comments": [], "recommandations_id": []}

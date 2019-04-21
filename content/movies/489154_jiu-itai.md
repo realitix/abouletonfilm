@@ -1,0 +1,1 @@
+{"tmdb_id": 489154, "title": "\u6551\u3044\u305f\u3044", "original_title": "\u6551\u3044\u305f\u3044", "slug_title": "jiu-itai", "date": "2014-11-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yE40Gyeznp8fGlXu7r17EEODRaD.jpg", "actors": [], "comments": [], "recommandations_id": []}

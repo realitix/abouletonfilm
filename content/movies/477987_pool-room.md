@@ -1,0 +1,1 @@
+{"tmdb_id": 477987, "title": "Pool Room", "original_title": "Pool Room", "slug_title": "pool-room", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

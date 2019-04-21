@@ -1,0 +1,1 @@
+{"tmdb_id": 571456, "title": "Book of Joe", "original_title": "Book of Joe", "slug_title": "book-of-joe", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clyde Talley II (J.C.)", "Judy Tatum (Eve Gardener)", "Barbara Tuller (Mary Able)", "Rob Zapple (Joseph Able)"], "comments": [], "recommandations_id": []}

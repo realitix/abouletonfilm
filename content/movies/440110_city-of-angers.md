@@ -1,0 +1,1 @@
+{"tmdb_id": 440110, "title": "City of Angers", "original_title": "City of Angers", "slug_title": "city-of-angers", "date": "2010-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chana Carol (Leilani Porter)", "Shaela Cook (Anya)"], "comments": [], "recommandations_id": []}

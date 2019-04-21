@@ -1,0 +1,1 @@
+{"tmdb_id": 345285, "title": "Bare en kvist", "original_title": "Bare en kvist", "slug_title": "bare-en-kvist", "date": "2004-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Holme Gundersen ()", "Cato Jensen ()", "Andreas Friis J\u00f8rgensen ()", "Eirik Nome ()"], "comments": [], "recommandations_id": []}

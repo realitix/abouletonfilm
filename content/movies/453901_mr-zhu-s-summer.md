@@ -1,0 +1,1 @@
+{"tmdb_id": 453901, "title": "Mr. Zhu's Summer", "original_title": "\u732a\u592a\u72fc\u7684\u590f\u5929", "slug_title": "mr-zhu-s-summer", "date": "2017-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwaHY9hhNLRnlBL3AF3uwap9f7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

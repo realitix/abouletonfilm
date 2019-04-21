@@ -1,0 +1,1 @@
+{"tmdb_id": 436533, "title": "Whipping Zombie", "original_title": "Whipping Zombie", "slug_title": "whipping-zombie", "date": "2017-01-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggdmzsVMmzIk718caWjgfKHYi1n.jpg", "actors": [], "comments": [], "recommandations_id": []}

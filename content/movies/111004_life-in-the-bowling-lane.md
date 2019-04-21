@@ -1,0 +1,1 @@
+{"tmdb_id": 111004, "title": "Life in the Bowling Lane", "original_title": "Life in the Bowling Lane", "slug_title": "life-in-the-bowling-lane", "date": "2005-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

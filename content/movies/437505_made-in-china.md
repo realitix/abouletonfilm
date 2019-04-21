@@ -1,0 +1,1 @@
+{"tmdb_id": 437505, "title": "Made in China", "original_title": "Made in China", "slug_title": "made-in-china", "date": "2005-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jia Zhangke (Self)"], "comments": [], "recommandations_id": []}

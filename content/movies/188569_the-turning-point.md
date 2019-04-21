@@ -1,0 +1,1 @@
+{"tmdb_id": 188569, "title": "The Turning Point", "original_title": "The Turning Point", "slug_title": "the-turning-point", "date": "2012-11-04", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kFhx1MwIct4mqS1O6pYHKLl8yJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 429810, "title": "Fuck You Kiss Me", "original_title": "Fuck You Kiss Me", "slug_title": "fuck-you-kiss-me", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

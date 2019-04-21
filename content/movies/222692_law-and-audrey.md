@@ -1,0 +1,1 @@
+{"tmdb_id": 222692, "title": "Law and Audrey", "original_title": "Law and Audrey", "slug_title": "law-and-audrey", "date": "1952-05-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

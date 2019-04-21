@@ -1,0 +1,1 @@
+{"tmdb_id": 264071, "title": "Warrior Assassin", "original_title": "Warrior Assassin", "slug_title": "warrior-assassin", "date": "2013-11-22", "genre": "Action", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CPw5DJWJ6D2vI0lPAJvbpZPPEJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

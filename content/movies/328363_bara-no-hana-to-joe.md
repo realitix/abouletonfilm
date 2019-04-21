@@ -1,0 +1,1 @@
+{"tmdb_id": 328363, "title": "Bara no Hana to Joe", "original_title": "Bara no Hana to Joe", "slug_title": "bara-no-hana-to-joe", "date": "1977-03-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gnJ7vpo2zURzl1b2qHNp8AgcLQE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 270099, "title": "Rocking Gold in the Klondike", "original_title": "Rocking Gold in the Klondike", "slug_title": "rocking-gold-in-the-klondike", "date": "1901-05-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

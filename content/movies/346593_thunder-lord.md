@@ -1,0 +1,1 @@
+{"tmdb_id": 346593, "title": "Thunder Lord", "original_title": "Thunder Lord", "slug_title": "thunder-lord", "date": "2016-11-10", "genre": "Science-Fiction / Action / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meggie Maddock (Empress Taletha Rel)", "John Wells (Dick Cockney)"], "comments": [], "recommandations_id": []}

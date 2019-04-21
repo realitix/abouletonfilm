@@ -1,0 +1,1 @@
+{"tmdb_id": 78787, "title": "The J-K Conspiracy", "original_title": "The J-K Conspiracy", "slug_title": "the-j-k-conspiracy", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dave Rickards (As Himself)", "Shelly Desai (As herself)"], "comments": [], "recommandations_id": []}

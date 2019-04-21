@@ -1,0 +1,1 @@
+{"tmdb_id": 574043, "title": "Acceptable Damage", "original_title": "Acceptable Damage", "slug_title": "acceptable-damage", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

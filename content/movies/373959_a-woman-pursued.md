@@ -1,0 +1,1 @@
+{"tmdb_id": 373959, "title": "A Woman Pursued", "original_title": "\uadf8 \uc5ec\uc790\ub97c \ucad3\uc544\ub77c", "slug_title": "a-woman-pursued", "date": "1970-07-25", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jang Dong-hwi ()", "Yoon Jeong-hee ()", "Kim Hee-ra ()"], "comments": [], "recommandations_id": []}

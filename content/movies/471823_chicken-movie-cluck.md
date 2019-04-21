@@ -1,0 +1,1 @@
+{"tmdb_id": 471823, "title": "Chicken Movie. Cluck!", "original_title": "Chicken Movie. Cluck!", "slug_title": "chicken-movie-cluck", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rPDczDuCf8hTOuZqb9CzBz2Ia5K.jpg", "actors": [], "comments": [], "recommandations_id": []}

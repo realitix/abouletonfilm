@@ -1,0 +1,1 @@
+{"tmdb_id": 275800, "title": "Aimee Mayo: This One's for the Girls", "original_title": "Aimee Mayo: This One's for the Girls", "slug_title": "aimee-mayo-this-one-s-for-the-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

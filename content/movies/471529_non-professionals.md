@@ -1,0 +1,1 @@
+{"tmdb_id": 471529, "title": "Non-Professionals", "original_title": "Neprofessionaly", "slug_title": "non-professionals", "date": "1987-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/631dzZj5ZbNNLaoRXvZss3YhL1p.jpg", "actors": [], "comments": [], "recommandations_id": []}

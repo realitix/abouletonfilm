@@ -1,0 +1,1 @@
+{"tmdb_id": 382021, "title": "MPB-4 - Adivinha o Que \u00c9", "original_title": "MPB-4 - Adivinha o Que \u00c9", "slug_title": "mpb-4-adivinha-o-que-e", "date": "2014-02-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvFGOBMT4bfTe4IikMF5DQmXlUj.jpg", "actors": [], "comments": [], "recommandations_id": []}

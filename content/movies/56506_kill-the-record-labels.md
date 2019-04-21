@@ -1,0 +1,1 @@
+{"tmdb_id": 56506, "title": "KILL THE RECORD LABELS", "original_title": "KILL THE RECORD LABELS", "slug_title": "kill-the-record-labels", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JDeqdC33Dp9pN07XiW1doavBiX.jpg", "actors": [], "comments": [], "recommandations_id": []}

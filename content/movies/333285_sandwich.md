@@ -1,0 +1,1 @@
+{"tmdb_id": 333285, "title": "Sandwich", "original_title": "Sandwich", "slug_title": "sandwich", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

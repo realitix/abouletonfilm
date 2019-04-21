@@ -1,0 +1,1 @@
+{"tmdb_id": 576900, "title": "1937: Soldier Field Winter Sporting Event", "original_title": "1937: Soldier Field Winter Sporting Event", "slug_title": "1937-soldier-field-winter-sporting-event", "date": "1937-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

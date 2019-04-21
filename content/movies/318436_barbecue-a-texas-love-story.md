@@ -1,0 +1,1 @@
+{"tmdb_id": 318436, "title": "Barbecue: A Texas Love Story", "original_title": "Barbecue: A Texas Love Story", "slug_title": "barbecue-a-texas-love-story", "date": "2004-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

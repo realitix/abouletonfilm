@@ -1,0 +1,1 @@
+{"tmdb_id": 464310, "title": "Kinu'ach", "original_title": "Kinu'ach", "slug_title": "kinu-ach", "date": "2000-07-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yehuda Efroni (Ze'ev)", "Ruth Farhi (Malka)", "Yair Nesher (Meir)"], "comments": [], "recommandations_id": []}

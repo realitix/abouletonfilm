@@ -1,0 +1,1 @@
+{"tmdb_id": 404923, "title": "Mythica: The Necromancer", "original_title": "Mythica: The Necromancer", "slug_title": "mythica-the-necromancer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

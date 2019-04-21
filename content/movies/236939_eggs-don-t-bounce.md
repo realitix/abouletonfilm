@@ -1,0 +1,1 @@
+{"tmdb_id": 236939, "title": "Eggs Don't Bounce", "original_title": "Eggs Don't Bounce", "slug_title": "eggs-don-t-bounce", "date": "1944-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pcKPO6yyf3z5szPcenpYVwichb6.jpg", "actors": [], "comments": [], "recommandations_id": []}

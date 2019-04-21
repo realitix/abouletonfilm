@@ -1,0 +1,1 @@
+{"tmdb_id": 284895, "title": "Openminds", "original_title": "Openminds", "slug_title": "openminds", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFQTo7pcrc2kNTAz1RUwbHx1sB3.jpg", "actors": [], "comments": [], "recommandations_id": []}

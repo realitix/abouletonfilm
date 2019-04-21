@@ -1,0 +1,1 @@
+{"tmdb_id": 351383, "title": "Rupert the Runt", "original_title": "Rupert the Runt", "slug_title": "rupert-the-runt", "date": "1940-07-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fvH3q4ZTjN8QL04sAOM3eMMxd1F.jpg", "actors": [], "comments": [], "recommandations_id": []}

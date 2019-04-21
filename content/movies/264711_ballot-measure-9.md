@@ -1,0 +1,1 @@
+{"tmdb_id": 264711, "title": "Ballot Measure 9", "original_title": "Ballot Measure 9", "slug_title": "ballot-measure-9", "date": "1995-07-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nCF0dR17QUhWXzwwoSSprrVcv4r.jpg", "actors": [], "comments": [], "recommandations_id": []}

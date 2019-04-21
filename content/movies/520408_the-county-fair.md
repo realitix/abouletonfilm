@@ -1,0 +1,1 @@
+{"tmdb_id": 520408, "title": "The County Fair", "original_title": "The County Fair", "slug_title": "the-county-fair", "date": "1932-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hobart Bosworth (Col. Ainsworth)", "Marion Shilling (Alice Ainsworth)"], "comments": [], "recommandations_id": []}

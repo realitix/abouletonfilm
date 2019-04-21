@@ -1,0 +1,1 @@
+{"tmdb_id": 442314, "title": "Spookers", "original_title": "Spookers", "slug_title": "spookers", "date": "2017-10-26", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJ64JGOwr53sJMfwJZmHuZByUzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

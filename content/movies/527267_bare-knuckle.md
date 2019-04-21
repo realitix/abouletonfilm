@@ -1,0 +1,1 @@
+{"tmdb_id": 527267, "title": "Bare Knuckle", "original_title": "Bare Knuckle", "slug_title": "bare-knuckle", "date": "", "genre": "", "score": "7.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [438751, 521963, 460571, 522758]}

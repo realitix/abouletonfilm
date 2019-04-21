@@ -1,0 +1,1 @@
+{"tmdb_id": 243193, "title": "Day of the Painter", "original_title": "Day of the Painter", "slug_title": "day-of-the-painter", "date": "1960-09-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

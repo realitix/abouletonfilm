@@ -1,0 +1,1 @@
+{"tmdb_id": 269302, "title": "Campaign: The Making of a Candidate", "original_title": "Campaign: The Making of a Candidate", "slug_title": "campaign-the-making-of-a-candidate", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

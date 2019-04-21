@@ -1,0 +1,1 @@
+{"tmdb_id": 55406, "title": "Kyl\u00e4raittien kuningas", "original_title": "Kyl\u00e4raittien kuningas", "slug_title": "kylaraittien-kuningas", "date": "1945-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVi8f0aAvKONZk7ZJ6x99zysPGs.jpg", "actors": [], "comments": [], "recommandations_id": []}

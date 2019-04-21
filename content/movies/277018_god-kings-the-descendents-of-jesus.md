@@ -1,0 +1,1 @@
+{"tmdb_id": 277018, "title": "God Kings: The Descendents of Jesus", "original_title": "God Kings: The Descendents of Jesus", "slug_title": "god-kings-the-descendents-of-jesus", "date": "2014-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

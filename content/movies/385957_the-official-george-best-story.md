@@ -1,0 +1,1 @@
+{"tmdb_id": 385957, "title": "The Official George Best Story", "original_title": "The Official George Best Story", "slug_title": "the-official-george-best-story", "date": "2001-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Best (Himself)"], "comments": [], "recommandations_id": []}

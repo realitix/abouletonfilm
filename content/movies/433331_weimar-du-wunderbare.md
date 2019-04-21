@@ -1,0 +1,1 @@
+{"tmdb_id": 433331, "title": "Weimar, du Wunderbare", "original_title": "Weimar, du Wunderbare", "slug_title": "weimar-du-wunderbare", "date": "1979-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 335274, "title": "Papagaio (Djambi)", "original_title": "Papagaio (Djambi)", "slug_title": "papagaio-djambi", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIAa9X86W0sq8VMq4HH3aLVaSpi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276027, "title": "S.W.A.T.: L.A., Las Vegas and Detroit", "original_title": "S.W.A.T.: L.A., Las Vegas and Detroit", "slug_title": "s-w-a-t-l-a-las-vegas-and-detroit", "date": "2001-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

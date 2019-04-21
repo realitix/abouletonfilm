@@ -1,0 +1,1 @@
+{"tmdb_id": 234326, "title": "Practical Yolk", "original_title": "Practical Yolk", "slug_title": "practical-yolk", "date": "1966-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8DWjcJ4Mhy70dZPWMUI4UM08eAR.jpg", "actors": [], "comments": [], "recommandations_id": []}

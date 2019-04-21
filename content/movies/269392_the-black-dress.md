@@ -1,0 +1,1 @@
+{"tmdb_id": 269392, "title": "The Black Dress", "original_title": "Czarna suknia", "slug_title": "the-black-dress", "date": "1967-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QYAqzAQMWIrTCBQW4jAT0nTHsR.jpg", "actors": [], "comments": [], "recommandations_id": []}

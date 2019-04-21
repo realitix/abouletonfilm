@@ -1,0 +1,1 @@
+{"tmdb_id": 59894, "title": "No Sweat", "original_title": "No Sweat", "slug_title": "no-sweat", "date": "2010-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kgnmIffmznkXc5lq2mg0uIgokjU.jpg", "actors": [], "comments": [], "recommandations_id": []}

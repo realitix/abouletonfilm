@@ -1,0 +1,1 @@
+{"tmdb_id": 551051, "title": "Ich war ein gl\u00fccklicher Mensch", "original_title": "Ich war ein gl\u00fccklicher Mensch", "slug_title": "ich-war-ein-glucklicher-mensch", "date": "1990-11-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

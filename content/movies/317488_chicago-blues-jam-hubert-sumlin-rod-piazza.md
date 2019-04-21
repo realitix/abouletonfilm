@@ -1,0 +1,1 @@
+{"tmdb_id": 317488, "title": "Chicago Blues Jam: Hubert Sumlin / Rod Piazza", "original_title": "Chicago Blues Jam: Hubert Sumlin / Rod Piazza", "slug_title": "chicago-blues-jam-hubert-sumlin-rod-piazza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

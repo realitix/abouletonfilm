@@ -1,0 +1,1 @@
+{"tmdb_id": 311720, "title": "Master of Flying Daggers / Drunken Sword", "original_title": "Master of Flying Daggers / Drunken Sword", "slug_title": "master-of-flying-daggers-drunken-sword", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

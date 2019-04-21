@@ -1,0 +1,1 @@
+{"tmdb_id": 506716, "title": "The Stranger in Apartment 9F", "original_title": "The Stranger in Apartment 9F", "slug_title": "the-stranger-in-apartment-9f", "date": "1998-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/romnYmmVdKlaRg4VteYZoQLSyKk.jpg", "actors": [], "comments": [], "recommandations_id": []}

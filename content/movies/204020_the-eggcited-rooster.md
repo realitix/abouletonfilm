@@ -1,0 +1,1 @@
+{"tmdb_id": 204020, "title": "The EGGcited Rooster", "original_title": "The EGGcited Rooster", "slug_title": "the-eggcited-rooster", "date": "1952-10-04", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLbWLw7j20HKrRlj4WSsPCOEmGl.jpg", "actors": [], "comments": [], "recommandations_id": []}

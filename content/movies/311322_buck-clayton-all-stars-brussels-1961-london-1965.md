@@ -1,0 +1,1 @@
+{"tmdb_id": 311322, "title": "Buck Clayton All Stars: Brussels 1961 & London 1965", "original_title": "Buck Clayton All Stars: Brussels 1961 & London 1965", "slug_title": "buck-clayton-all-stars-brussels-1961-london-1965", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

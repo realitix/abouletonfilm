@@ -1,0 +1,1 @@
+{"tmdb_id": 477901, "title": "Buzzard Hollow Beef", "original_title": "Buzzard Hollow Beef", "slug_title": "buzzard-hollow-beef", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0gCuqQN2TFFSVPsfJzvO1BhQ8a.jpg", "actors": [], "comments": [], "recommandations_id": []}

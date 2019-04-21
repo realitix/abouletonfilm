@@ -1,0 +1,1 @@
+{"tmdb_id": 417223, "title": "\uc815\ubb34\uc2e0\uad8c", "original_title": "\uc815\ubb34\uc2e0\uad8c", "slug_title": "jeongmusingweon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

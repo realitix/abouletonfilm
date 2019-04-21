@@ -1,0 +1,1 @@
+{"tmdb_id": 344349, "title": "From Cartier to Confederation", "original_title": "From Cartier to Confederation", "slug_title": "from-cartier-to-confederation", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

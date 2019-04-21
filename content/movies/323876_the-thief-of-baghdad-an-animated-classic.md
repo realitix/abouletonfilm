@@ -1,0 +1,1 @@
+{"tmdb_id": 323876, "title": "The Thief of Baghdad: An Animated Classic", "original_title": "The Thief of Baghdad: An Animated Classic", "slug_title": "the-thief-of-baghdad-an-animated-classic", "date": "2014-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

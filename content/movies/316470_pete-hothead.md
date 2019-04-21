@@ -1,0 +1,1 @@
+{"tmdb_id": 316470, "title": "Pete Hothead", "original_title": "Pete Hothead", "slug_title": "pete-hothead", "date": "1952-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jerry Hausner (Pete Hothead (voice))"], "comments": [], "recommandations_id": []}

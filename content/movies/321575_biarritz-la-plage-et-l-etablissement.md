@@ -1,0 +1,1 @@
+{"tmdb_id": 321575, "title": "Biarritz : la plage et l'\u00e9tablissement", "original_title": "Biarritz : la plage et l'\u00e9tablissement", "slug_title": "biarritz-la-plage-et-l-etablissement", "date": "1901-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

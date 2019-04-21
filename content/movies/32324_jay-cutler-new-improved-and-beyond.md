@@ -1,0 +1,1 @@
+{"tmdb_id": 32324, "title": "Jay Cutler: New, Improved and Beyond", "original_title": "Jay Cutler: New, Improved and Beyond", "slug_title": "jay-cutler-new-improved-and-beyond", "date": "2004-03-04", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jay Cutler (Himself)"], "comments": [], "recommandations_id": []}

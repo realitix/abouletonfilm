@@ -1,0 +1,1 @@
+{"tmdb_id": 435368, "title": "Going it Alone", "original_title": "Yksinteoin", "slug_title": "going-it-alone", "date": "1990-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Uv8SL73GarYaBWE8M8AVA2RLEq.jpg", "actors": ["Jussi Parviainen (Himself)"], "comments": [], "recommandations_id": []}

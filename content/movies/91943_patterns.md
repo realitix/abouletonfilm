@@ -1,0 +1,1 @@
+{"tmdb_id": 91943, "title": "Patterns", "original_title": "Patterns", "slug_title": "patterns", "date": "1999-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Engel (Tommy)", "Joshua Gregory McCarthy (Jimmy)", "Jayne Snow (Kathleen)", "Martin Maguire (Frank)"], "comments": [], "recommandations_id": []}

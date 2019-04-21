@@ -1,0 +1,1 @@
+{"tmdb_id": 291134, "title": "Head Shrinkers of the Amazon", "original_title": "Head Shrinkers of the Amazon", "slug_title": "head-shrinkers-of-the-amazon", "date": "2009-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

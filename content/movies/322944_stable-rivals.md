@@ -1,0 +1,1 @@
+{"tmdb_id": 322944, "title": "Stable Rivals", "original_title": "Stable Rivals", "slug_title": "stable-rivals", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sheila Muir ()", "Kerrin Masterman ()", "Kim Pickup ()", "Gerald Pring ()", "Geoffrey Denys ()"], "comments": [], "recommandations_id": []}

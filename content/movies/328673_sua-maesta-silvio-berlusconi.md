@@ -1,0 +1,1 @@
+{"tmdb_id": 328673, "title": "Sua Maest\u00e0 Silvio Berlusconi", "original_title": "Sua Maest\u00e0 Silvio Berlusconi", "slug_title": "sua-maesta-silvio-berlusconi", "date": "2003-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

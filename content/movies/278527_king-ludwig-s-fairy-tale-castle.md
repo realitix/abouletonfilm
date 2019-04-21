@@ -1,0 +1,1 @@
+{"tmdb_id": 278527, "title": "King Ludwig's Fairy Tale Castle", "original_title": "King Ludwig's Fairy Tale Castle", "slug_title": "king-ludwig-s-fairy-tale-castle", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345810, "title": "Den magiske tiden", "original_title": "Den magiske tiden", "slug_title": "den-magiske-tiden", "date": "2013-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jER5LZO8IyYvEpeUNc8McIsybKF.jpg", "actors": [], "comments": [], "recommandations_id": []}

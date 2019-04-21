@@ -1,0 +1,1 @@
+{"tmdb_id": 478704, "title": "Bin Laden Shoot to Kill", "original_title": "Bin Laden Shoot to Kill", "slug_title": "bin-laden-shoot-to-kill", "date": "2011-09-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eAagGaP2ElyvjCG5keH7kHiGo2.jpg", "actors": [], "comments": [], "recommandations_id": []}

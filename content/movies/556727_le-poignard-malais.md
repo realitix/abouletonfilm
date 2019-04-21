@@ -1,0 +1,1 @@
+{"tmdb_id": 556727, "title": "Le poignard malais", "original_title": "Le poignard malais", "slug_title": "le-poignard-malais", "date": "1931-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

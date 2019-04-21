@@ -1,0 +1,1 @@
+{"tmdb_id": 355365, "title": "Teach Me How to Do It", "original_title": "Teach Me How to Do It", "slug_title": "teach-me-how-to-do-it", "date": "1967-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janet Banzet ()", "Bob February ()", "Bob Davis ()", "Ingrid Larsen ()"], "comments": [], "recommandations_id": []}

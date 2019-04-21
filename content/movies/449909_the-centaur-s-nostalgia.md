@@ -1,0 +1,1 @@
+{"tmdb_id": 449909, "title": "The Centaur's Nostalgia", "original_title": "La nostalgia del centauro", "slug_title": "the-centaur-s-nostalgia", "date": "2017-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dbsKfhmcMgc44X48KMVAcDPrXmg.jpg", "actors": [], "comments": [], "recommandations_id": []}

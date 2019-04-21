@@ -1,0 +1,1 @@
+{"tmdb_id": 329636, "title": "Sector Sarajevo", "original_title": "Sector Sarajevo", "slug_title": "sector-sarajevo", "date": "2013-11-10", "genre": "Guerre / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

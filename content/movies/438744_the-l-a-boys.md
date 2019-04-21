@@ -1,0 +1,1 @@
+{"tmdb_id": 438744, "title": "The L.A Boys", "original_title": "The L.A Boys", "slug_title": "the-l-a-boys", "date": "2016-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guy Mariano (Himself)", "Gabriel Rodriguez (Himself)", "Paulo Diaz (Himself)", "Rudy Johnson (Himself)"], "comments": [], "recommandations_id": []}

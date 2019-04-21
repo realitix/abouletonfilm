@@ -1,0 +1,1 @@
+{"tmdb_id": 308010, "title": "Detective Naarada", "original_title": "Detective Naarada", "slug_title": "detective-naarada", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

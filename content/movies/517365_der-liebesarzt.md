@@ -1,0 +1,1 @@
+{"tmdb_id": 517365, "title": "Der Liebesarzt", "original_title": "Der Liebesarzt", "slug_title": "der-liebesarzt", "date": "1931-02-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Liedtke (Harry Mortimer)", "Ernst Pittschau ()", "Else Reval ()", "Eugen Rex (Fox)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 188034, "title": "Goofy Movies Number Three", "original_title": "Goofy Movies Number Three", "slug_title": "goofy-movies-number-three", "date": "1934-03-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

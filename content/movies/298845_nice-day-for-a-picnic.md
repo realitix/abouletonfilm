@@ -1,0 +1,1 @@
+{"tmdb_id": 298845, "title": "Nice Day for a Picnic", "original_title": "Nice Day for a Picnic", "slug_title": "nice-day-for-a-picnic", "date": "2008-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d2LR2642S6n6vBwBV1TUDdaS0N7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559543, "title": "Met Opera: Carmen", "original_title": "Met Opera: Carmen", "slug_title": "met-opera-carmen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1NLBmeDmfSZr02vXtfySpLGmhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 377733, "title": "Apartmen", "original_title": "Apartmen", "slug_title": "apartmen", "date": "2015-12-31", "genre": "Horreur", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySsJOaXgKoDAe5kvLTgIlf0anLl.jpg", "actors": ["Kamal adli ()", "Naqia Nasution ()", "Bil Azali ()"], "comments": [], "recommandations_id": []}

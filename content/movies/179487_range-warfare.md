@@ -1,0 +1,1 @@
+{"tmdb_id": 179487, "title": "Range Warfare", "original_title": "Range Warfare", "slug_title": "range-warfare", "date": "1934-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zNU1VF1BTGwC6JZu1x7Co7pYtfI.jpg", "actors": ["Reb Russell (Reb Russell, aka The Whistler)"], "comments": [], "recommandations_id": []}

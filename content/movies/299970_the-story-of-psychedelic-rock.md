@@ -1,0 +1,1 @@
+{"tmdb_id": 299970, "title": "The Story of Psychedelic Rock", "original_title": "The Story of Psychedelic Rock", "slug_title": "the-story-of-psychedelic-rock", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

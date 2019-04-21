@@ -1,0 +1,1 @@
+{"tmdb_id": 522386, "title": "Calcutta: A Doomed City", "original_title": "Calcutta: A Doomed City", "slug_title": "calcutta-a-doomed-city", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

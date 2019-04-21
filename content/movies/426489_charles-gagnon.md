@@ -1,0 +1,1 @@
+{"tmdb_id": 426489, "title": "Charles Gagnon", "original_title": "Charles Gagnon", "slug_title": "charles-gagnon", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Gagnon (Himself)", "Robert Comeau (Himself)"], "comments": [], "recommandations_id": []}

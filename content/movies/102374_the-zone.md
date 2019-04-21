@@ -1,0 +1,1 @@
+{"tmdb_id": 102374, "title": "The Zone", "original_title": "Zonen", "slug_title": "the-zone", "date": "2003-07-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

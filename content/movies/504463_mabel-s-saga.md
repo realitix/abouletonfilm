@@ -1,0 +1,1 @@
+{"tmdb_id": 504463, "title": "Mabel's Saga", "original_title": "Mabel's Saga", "slug_title": "mabel-s-saga", "date": "2004-02-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MA0dSiRI3UYwjF00KUo4xfL2aM.jpg", "actors": [], "comments": [], "recommandations_id": []}

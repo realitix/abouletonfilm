@@ -1,0 +1,1 @@
+{"tmdb_id": 290453, "title": "TNA Turning Point 2004", "original_title": "TNA Turning Point 2004", "slug_title": "tna-turning-point-2004", "date": "2004-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bhosRtz7htn5igJmJ7vTFkHYp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

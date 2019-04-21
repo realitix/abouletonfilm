@@ -1,0 +1,1 @@
+{"tmdb_id": 244452, "title": "Spaces: The Architecture of Paul Rudolph", "original_title": "Spaces: The Architecture of Paul Rudolph", "slug_title": "spaces-the-architecture-of-paul-rudolph", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

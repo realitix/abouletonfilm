@@ -1,0 +1,1 @@
+{"tmdb_id": 156709, "title": "C Eriksson MAX", "original_title": "C Eriksson MAX", "slug_title": "c-eriksson-max", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3m59op6oZV1umQhbTCzmOA5n2w.jpg", "actors": ["Claes Eriksson ()"], "comments": [], "recommandations_id": []}

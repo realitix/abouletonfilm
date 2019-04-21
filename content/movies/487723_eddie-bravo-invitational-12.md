@@ -1,0 +1,1 @@
+{"tmdb_id": 487723, "title": "Eddie Bravo Invitational 12", "original_title": "Eddie Bravo Invitational 12", "slug_title": "eddie-bravo-invitational-12", "date": "2017-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

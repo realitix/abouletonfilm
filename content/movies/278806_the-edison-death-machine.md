@@ -1,0 +1,1 @@
+{"tmdb_id": 278806, "title": "The Edison Death Machine", "original_title": "The Edison Death Machine", "slug_title": "the-edison-death-machine", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

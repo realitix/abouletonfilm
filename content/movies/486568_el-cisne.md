@@ -1,0 +1,1 @@
+{"tmdb_id": 486568, "title": "El Cisne", "original_title": "El Cisne", "slug_title": "el-cisne", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

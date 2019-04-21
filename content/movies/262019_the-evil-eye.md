@@ -1,0 +1,1 @@
+{"tmdb_id": 262019, "title": "The Evil Eye", "original_title": "Het kwade oog", "slug_title": "the-evil-eye", "date": "1937-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lisDhItaMzFO4pCIgRZfpkIF7I7.jpg", "actors": [], "comments": [], "recommandations_id": []}

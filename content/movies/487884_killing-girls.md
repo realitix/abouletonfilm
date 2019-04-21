@@ -1,0 +1,1 @@
+{"tmdb_id": 487884, "title": "Killing Girls", "original_title": "Killing Girls", "slug_title": "killing-girls", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TAwXl6fcwhva8uAyBmy4DUWpZH.jpg", "actors": [], "comments": [], "recommandations_id": []}

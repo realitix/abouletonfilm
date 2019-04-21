@@ -1,0 +1,1 @@
+{"tmdb_id": 587919, "title": "Engineering Principles of Refrigeration", "original_title": "Engineering Principles of Refrigeration", "slug_title": "engineering-principles-of-refrigeration", "date": "1944-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

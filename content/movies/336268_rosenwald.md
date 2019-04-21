@@ -1,0 +1,1 @@
+{"tmdb_id": 336268, "title": "Rosenwald", "original_title": "Rosenwald", "slug_title": "rosenwald", "date": "2015-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnJKCyJvxxCHGwgDOCwSr8VlHLi.jpg", "actors": [], "comments": [], "recommandations_id": []}

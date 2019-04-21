@@ -1,0 +1,1 @@
+{"tmdb_id": 362311, "title": "Di Melo, o Imorr\u00edvel", "original_title": "Di Melo, o Imorr\u00edvel", "slug_title": "di-melo-o-imorrivel", "date": "2011-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/122hzAIKeBYNRVUBQ8RFiPo9BoO.jpg", "actors": ["Di Melo ()"], "comments": [], "recommandations_id": []}

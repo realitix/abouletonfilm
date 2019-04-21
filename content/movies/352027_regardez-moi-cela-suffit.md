@@ -1,0 +1,1 @@
+{"tmdb_id": 352027, "title": "Regardez moi cela suffit", "original_title": "Regardez moi cela suffit", "slug_title": "regardez-moi-cela-suffit", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXjqXI9an7YMuvT5km5BBgUwRED.jpg", "actors": ["Ben Vautier ()"], "comments": [], "recommandations_id": []}

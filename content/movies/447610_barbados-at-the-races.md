@@ -1,0 +1,1 @@
+{"tmdb_id": 447610, "title": "Barbados at the Races", "original_title": "Barbados at the Races", "slug_title": "barbados-at-the-races", "date": "2010-01-01", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

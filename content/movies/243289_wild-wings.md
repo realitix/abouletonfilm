@@ -1,0 +1,1 @@
+{"tmdb_id": 243289, "title": "Wild Wings", "original_title": "Wild Wings", "slug_title": "wild-wings", "date": "1965-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eOf5VKxRnb7OqfYT0Pvii5mlltZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

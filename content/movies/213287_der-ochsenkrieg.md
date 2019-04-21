@@ -1,0 +1,1 @@
+{"tmdb_id": 213287, "title": "Der Ochsenkrieg", "original_title": "Der Ochsenkrieg", "slug_title": "der-ochsenkrieg", "date": "1920-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

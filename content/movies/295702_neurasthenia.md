@@ -1,0 +1,1 @@
+{"tmdb_id": 295702, "title": "Neurasthenia", "original_title": "\u0646\u0648\u0631\u0627\u0633\u062a\u0646\u06cc", "slug_title": "neurasthenia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2M9yxUfwlEmq9Ib7Co74GZrCpg6.jpg", "actors": ["Omid Tootoonchi (Director)"], "comments": [], "recommandations_id": []}

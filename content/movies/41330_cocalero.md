@@ -1,0 +1,1 @@
+{"tmdb_id": 41330, "title": "Cocalero", "original_title": "Cocalero", "slug_title": "cocalero", "date": "2007-01-22", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65V3aWIiij3qBfiGCEVmY28CEMc.jpg", "actors": ["Evo Morales (Himself)"], "comments": [], "recommandations_id": [73525, 108307]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 511481, "title": "The New Schoolhouse", "original_title": "The New Schoolhouse", "slug_title": "the-new-schoolhouse", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

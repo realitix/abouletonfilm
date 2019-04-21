@@ -1,0 +1,1 @@
+{"tmdb_id": 188073, "title": "Not Yet Begun to Fight", "original_title": "Not Yet Begun to Fight", "slug_title": "not-yet-begun-to-fight", "date": "2012-11-14", "genre": "Documentaire / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjUE55kTI9ZacT0EZd4R6oIKoU2.jpg", "actors": [], "comments": [], "recommandations_id": []}

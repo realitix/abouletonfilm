@@ -1,0 +1,1 @@
+{"tmdb_id": 378508, "title": "Inside the Chinese Closet", "original_title": "Inside the Chinese Closet", "slug_title": "inside-the-chinese-closet", "date": "2015-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aayXnJrAagAXkc3fi8182kt9tgh.jpg", "actors": [], "comments": [], "recommandations_id": []}

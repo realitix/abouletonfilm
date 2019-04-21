@@ -1,0 +1,1 @@
+{"tmdb_id": 486166, "title": "Barravento Novo", "original_title": "Barravento Novo", "slug_title": "barravento-novo", "date": "2017-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xREkkdxsINAhArJy21YGplCVn8a.jpg", "actors": ["Ant\u00f4nio Pitanga ()", "Camila Pitanga ()"], "comments": [], "recommandations_id": []}

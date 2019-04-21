@@ -1,0 +1,1 @@
+{"tmdb_id": 294367, "title": "The Biggest Loser: Weight Loss Yoga with Bob Harper", "original_title": "The Biggest Loser: Weight Loss Yoga with Bob Harper", "slug_title": "the-biggest-loser-weight-loss-yoga-with-bob-harper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

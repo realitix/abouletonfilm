@@ -1,0 +1,1 @@
+{"tmdb_id": 457068, "title": "Ganz gro\u00dfe Oper", "original_title": "Ganz gro\u00dfe Oper", "slug_title": "ganz-grosse-oper", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGamLAtWCNYpn6z8bl25vefOVJF.jpg", "actors": [], "comments": [], "recommandations_id": []}

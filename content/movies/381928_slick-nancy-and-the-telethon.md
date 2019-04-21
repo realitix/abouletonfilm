@@ -1,0 +1,1 @@
+{"tmdb_id": 381928, "title": "Slick, Nancy, and the Telethon", "original_title": "Slick, Nancy, and the Telethon", "slug_title": "slick-nancy-and-the-telethon", "date": "2016-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

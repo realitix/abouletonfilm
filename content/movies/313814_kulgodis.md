@@ -1,0 +1,1 @@
+{"tmdb_id": 313814, "title": "Kulgodis", "original_title": "Kulgodis", "slug_title": "kulgodis", "date": "2012-10-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yt0SJkzUlYCd7kGyCSFva9tQsHD.jpg", "actors": ["Robert Gustafsson ()"], "comments": [], "recommandations_id": []}

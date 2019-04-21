@@ -1,0 +1,1 @@
+{"tmdb_id": 576448, "title": "Details of Pollock's White Light", "original_title": "Details of Pollock's White Light", "slug_title": "details-of-pollock-s-white-light", "date": "2019-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

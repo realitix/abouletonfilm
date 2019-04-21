@@ -1,0 +1,1 @@
+{"tmdb_id": 468365, "title": "Nascita di un culto", "original_title": "Nascita di un culto", "slug_title": "nascita-di-un-culto", "date": "1968-08-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klW3pgJbsBCSPzBEZcFMqFfGO9p.jpg", "actors": [], "comments": [], "recommandations_id": []}

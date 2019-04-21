@@ -1,0 +1,1 @@
+{"tmdb_id": 519591, "title": "Wendy's Shabbat", "original_title": "Wendy's Shabbat", "slug_title": "wendy-s-shabbat", "date": "2017-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6wOBMZZIdO0gE7Y2Q0vbfPh9ij7.jpg", "actors": [], "comments": [], "recommandations_id": []}

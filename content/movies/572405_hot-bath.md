@@ -1,0 +1,1 @@
+{"tmdb_id": 572405, "title": "Hot Bath", "original_title": "Hot Bath", "slug_title": "hot-bath", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()"], "comments": [], "recommandations_id": []}

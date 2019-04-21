@@ -1,0 +1,1 @@
+{"tmdb_id": 550005, "title": "The Hoffnung Maestro", "original_title": "The Hoffnung Maestro", "slug_title": "the-hoffnung-maestro", "date": "1965-09-22", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

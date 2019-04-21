@@ -1,0 +1,1 @@
+{"tmdb_id": 334236, "title": "Chronicle of a Normal Life", "original_title": "Waqai'a Min Hayat Adia", "slug_title": "chronicle-of-a-normal-life", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

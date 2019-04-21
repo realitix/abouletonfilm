@@ -1,0 +1,1 @@
+{"tmdb_id": 557926, "title": "A Bird in the hand", "original_title": "A Bird in the hand", "slug_title": "a-bird-in-the-hand", "date": "1911-12-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

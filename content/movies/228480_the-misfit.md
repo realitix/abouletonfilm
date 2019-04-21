@@ -1,0 +1,1 @@
+{"tmdb_id": 228480, "title": "The Misfit", "original_title": "The Misfit", "slug_title": "the-misfit", "date": "1924-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clyde Cook (The Henpecked Husband)", "Blanche Payson (The Domineering Wife)", "Joe Roberts (The Drill Master)"], "comments": [], "recommandations_id": []}

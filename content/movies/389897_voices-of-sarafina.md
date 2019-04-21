@@ -1,0 +1,1 @@
+{"tmdb_id": 389897, "title": "Voices of Sarafina!", "original_title": "Voices of Sarafina!", "slug_title": "voices-of-sarafina", "date": "1988-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwFQXu10AczYlBZeMl8kL7xjYhB.jpg", "actors": [], "comments": [], "recommandations_id": []}

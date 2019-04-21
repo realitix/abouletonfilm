@@ -1,0 +1,1 @@
+{"tmdb_id": 236139, "title": "Pudgy and the Lost Kitten", "original_title": "Pudgy and the Lost Kitten", "slug_title": "pudgy-and-the-lost-kitten", "date": "1938-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

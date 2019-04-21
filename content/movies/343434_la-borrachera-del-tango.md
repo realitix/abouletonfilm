@@ -1,0 +1,1 @@
+{"tmdb_id": 343434, "title": "La borrachera del tango", "original_title": "La borrachera del tango", "slug_title": "la-borrachera-del-tango", "date": "1928-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Dux ()", "Felipe Farah ()", "Nedda Francy ()", "Eduardo Morera ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 328530, "title": "Hollywood Goes Back to Story", "original_title": "Hollywood Goes Back to Story", "slug_title": "hollywood-goes-back-to-story", "date": "2013-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

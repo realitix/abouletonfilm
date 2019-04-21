@@ -1,0 +1,1 @@
+{"tmdb_id": 79601, "title": "Slapdash", "original_title": "Slapdash", "slug_title": "slapdash", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeffrey Weissman (Mosley)", "David Fine (Galdez)", "Larry Laverty (Laslo)", "Stephen Pawley (Mac)", "Judy Cerda (Bonnie)"], "comments": [], "recommandations_id": []}

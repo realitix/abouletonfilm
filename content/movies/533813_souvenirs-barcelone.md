@@ -1,0 +1,1 @@
+{"tmdb_id": 533813, "title": "Souvenirs/Barcelone", "original_title": "Souvenirs/Barcelone", "slug_title": "souvenirs-barcelone", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GpoG2mj12hA3smstxhxeEe2LpY.jpg", "actors": [], "comments": [], "recommandations_id": []}

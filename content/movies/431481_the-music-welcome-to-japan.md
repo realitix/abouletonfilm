@@ -1,0 +1,1 @@
+{"tmdb_id": 431481, "title": "The Music - Welcome To Japan", "original_title": "The Music - Welcome To Japan", "slug_title": "the-music-welcome-to-japan", "date": "2005-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7G7jC0Xze2TtnksL5YAHdpWNNHO.jpg", "actors": [], "comments": [], "recommandations_id": []}

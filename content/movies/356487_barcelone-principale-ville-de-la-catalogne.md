@@ -1,0 +1,1 @@
+{"tmdb_id": 356487, "title": "Barcelone, principale ville de la Catalogne", "original_title": "Barcelone, principale ville de la Catalogne", "slug_title": "barcelone-principale-ville-de-la-catalogne", "date": "1912-08-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

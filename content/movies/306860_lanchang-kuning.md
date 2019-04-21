@@ -1,0 +1,1 @@
+{"tmdb_id": 306860, "title": "Lanchang Kuning", "original_title": "Lanchang Kuning", "slug_title": "lanchang-kuning", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGCT95t4NHzgskWDvRuQiFxFFYO.jpg", "actors": [], "comments": [], "recommandations_id": []}

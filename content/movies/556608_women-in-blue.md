@@ -1,0 +1,1 @@
+{"tmdb_id": 556608, "title": "Women In Blue", "original_title": "Women In Blue", "slug_title": "women-in-blue", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

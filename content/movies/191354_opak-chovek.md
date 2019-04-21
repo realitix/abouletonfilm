@@ -1,0 +1,1 @@
+{"tmdb_id": 191354, "title": "Opak chovek", "original_title": "Opak chovek", "slug_title": "opak-chovek", "date": "1973-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

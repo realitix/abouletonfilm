@@ -1,0 +1,1 @@
+{"tmdb_id": 347614, "title": "Whip Smart", "original_title": "Whip Smart", "slug_title": "whip-smart", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

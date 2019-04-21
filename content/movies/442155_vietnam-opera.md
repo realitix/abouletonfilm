@@ -1,0 +1,1 @@
+{"tmdb_id": 442155, "title": "Vietnam Opera", "original_title": "Vietnam Opera", "slug_title": "vietnam-opera", "date": "1973-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pAX52cm4Yghu4P3oSEDFZSnkmC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 565432, "title": "Diplodocus at Large", "original_title": "Diplodocus at Large", "slug_title": "diplodocus-at-large", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

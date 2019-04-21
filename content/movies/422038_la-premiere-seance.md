@@ -1,0 +1,1 @@
+{"tmdb_id": 422038, "title": "La premi\u00e8re s\u00e9ance", "original_title": "La premi\u00e8re s\u00e9ance", "slug_title": "la-premiere-seance", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

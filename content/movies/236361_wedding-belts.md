@@ -1,0 +1,1 @@
+{"tmdb_id": 236361, "title": "Wedding Belts", "original_title": "Wedding Belts", "slug_title": "wedding-belts", "date": "1940-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

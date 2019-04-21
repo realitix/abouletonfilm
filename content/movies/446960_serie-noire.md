@@ -1,0 +1,1 @@
+{"tmdb_id": 446960, "title": "S\u00e9rie noire", "original_title": "S\u00e9rie noire", "slug_title": "serie-noire", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yIdKMBYREG0vL3lxyQD2cnSzZdq.jpg", "actors": [], "comments": [], "recommandations_id": []}

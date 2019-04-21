@@ -1,0 +1,1 @@
+{"tmdb_id": 333867, "title": "The Blind Boys of Alabama: How Sweet the Sound", "original_title": "The Blind Boys of Alabama: How Sweet the Sound", "slug_title": "the-blind-boys-of-alabama-how-sweet-the-sound", "date": "2015-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

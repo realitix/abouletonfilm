@@ -1,0 +1,1 @@
+{"tmdb_id": 347256, "title": "The Well", "original_title": "Jing", "slug_title": "the-well", "date": "1988-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98qtKbxmHejyHSLi2IJ5gTwL9dJ.jpg", "actors": ["Xiaoshu He ()", "Zhiyu Li ()", "Pan Hong ()"], "comments": [], "recommandations_id": []}

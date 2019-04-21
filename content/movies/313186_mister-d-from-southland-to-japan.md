@@ -1,0 +1,1 @@
+{"tmdb_id": 313186, "title": "Mister D: From Southland to Japan", "original_title": "Mister D: From Southland to Japan", "slug_title": "mister-d-from-southland-to-japan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587420, "title": "The Hidden Life of Handicraft", "original_title": "La vida oculta de la artesan\u00eda", "slug_title": "the-hidden-life-of-handicraft", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

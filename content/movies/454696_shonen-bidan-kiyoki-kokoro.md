@@ -1,0 +1,1 @@
+{"tmdb_id": 454696, "title": "Sh\u00f4nen bidan: Kiyoki kokoro", "original_title": "Sh\u00f4nen bidan: Kiyoki kokoro", "slug_title": "shonen-bidan-kiyoki-kokoro", "date": "1925-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJuOqyZqPdEH9bRsQi9lNFqqI27.jpg", "actors": [], "comments": [], "recommandations_id": []}

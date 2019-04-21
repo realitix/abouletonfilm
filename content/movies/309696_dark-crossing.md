@@ -1,0 +1,1 @@
+{"tmdb_id": 309696, "title": "Dark Crossing", "original_title": "Dark Crossing", "slug_title": "dark-crossing", "date": "2010-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kayla Christine Arellano (Mexican Bus - Poor child)"], "comments": [], "recommandations_id": []}

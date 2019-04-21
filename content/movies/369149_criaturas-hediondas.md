@@ -1,0 +1,1 @@
+{"tmdb_id": 369149, "title": "Criaturas Hediondas", "original_title": "Criaturas Hediondas", "slug_title": "criaturas-hediondas", "date": "1993-11-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvOK8L9h3Cyri4ooz4jEc5rjyeX.jpg", "actors": [], "comments": [], "recommandations_id": []}

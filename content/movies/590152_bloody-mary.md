@@ -1,0 +1,1 @@
+{"tmdb_id": 590152, "title": "Bloody Mary", "original_title": "Bloody Mary", "slug_title": "bloody-mary", "date": "2018-03-19", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ndu5hKDp1FfMOLOfzswLm0afNpX.jpg", "actors": ["Chaitra Gowda ()", "Ajay Kumar ()"], "comments": [], "recommandations_id": []}

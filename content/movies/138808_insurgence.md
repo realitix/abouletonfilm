@@ -1,0 +1,1 @@
+{"tmdb_id": 138808, "title": "Insurgence", "original_title": "Insurgence", "slug_title": "insurgence", "date": "2012-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

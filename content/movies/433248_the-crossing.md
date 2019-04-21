@@ -1,0 +1,1 @@
+{"tmdb_id": 433248, "title": "The Crossing", "original_title": "La Travers\u00e9e", "slug_title": "the-crossing", "date": "2005-05-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xFQGJvJ4HonEk9wz2zBN6XHUiRS.jpg", "actors": ["Yann Tiersen (himself)"], "comments": [], "recommandations_id": []}

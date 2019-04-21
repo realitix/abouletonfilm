@@ -1,0 +1,1 @@
+{"tmdb_id": 307408, "title": "Chanukya Chandragupta", "original_title": "Chanukya Chandragupta", "slug_title": "chanukya-chandragupta", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1wN4HFpndsNI8afixxaB3ciUPIA.jpg", "actors": [], "comments": [], "recommandations_id": []}

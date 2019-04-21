@@ -1,0 +1,1 @@
+{"tmdb_id": 525068, "title": "Prema Nakshatram", "original_title": "Prema Nakshatram", "slug_title": "prema-nakshatram", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngbuW0ZHeHzOjGZSK8r41M5ZQB5.jpg", "actors": [], "comments": [], "recommandations_id": []}

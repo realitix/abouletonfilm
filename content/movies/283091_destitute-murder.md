@@ -1,0 +1,1 @@
+{"tmdb_id": 283091, "title": "Destitute Murder", "original_title": "Zab\u00f3jca z nedzy", "slug_title": "destitute-murder", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

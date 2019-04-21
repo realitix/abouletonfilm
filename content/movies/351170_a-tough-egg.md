@@ -1,0 +1,1 @@
+{"tmdb_id": 351170, "title": "A Tough Egg", "original_title": "A Tough Egg", "slug_title": "a-tough-egg", "date": "1936-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

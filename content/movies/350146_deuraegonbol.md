@@ -1,0 +1,1 @@
+{"tmdb_id": 350146, "title": "\ub4dc\ub798\uace4\ubcfc", "original_title": "\ub4dc\ub798\uace4\ubcfc", "slug_title": "deuraegonbol", "date": "1990-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

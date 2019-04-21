@@ -1,0 +1,1 @@
+{"tmdb_id": 184660, "title": "Three Lazy Mice", "original_title": "Three Lazy Mice", "slug_title": "three-lazy-mice", "date": "1935-06-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8uV4CeUxbKzke2RL4r9464OKVGe.jpg", "actors": [], "comments": [], "recommandations_id": []}

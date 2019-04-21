@@ -1,0 +1,1 @@
+{"tmdb_id": 241839, "title": "Amnesia", "original_title": "Amnesia", "slug_title": "amnesia", "date": "2014-01-09", "genre": "Drame / Thriller", "score": "4.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySTfdRGDbByKwb9oAxIF84wvgXK.jpg", "actors": ["Pia Tjelta (Kathrine)", "Christian Rubeck (Thomas)"], "comments": [], "recommandations_id": []}

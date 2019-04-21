@@ -1,0 +1,1 @@
+{"tmdb_id": 194567, "title": "Repas des chats", "original_title": "Repas des chats", "slug_title": "repas-des-chats", "date": "1896-10-04", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

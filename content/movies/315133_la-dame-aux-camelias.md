@@ -1,0 +1,1 @@
+{"tmdb_id": 315133, "title": "La dame aux cam\u00e9lias", "original_title": "La dame aux cam\u00e9lias", "slug_title": "la-dame-aux-camelias", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AnClY4jkqt6mfdC7IvzhTOlLkgi.jpg", "actors": [], "comments": [], "recommandations_id": []}

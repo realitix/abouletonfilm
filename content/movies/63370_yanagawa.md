@@ -1,0 +1,1 @@
+{"tmdb_id": 63370, "title": "Yanagawa", "original_title": "Yanagawa", "slug_title": "yanagawa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

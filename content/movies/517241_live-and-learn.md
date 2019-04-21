@@ -1,0 +1,1 @@
+{"tmdb_id": 517241, "title": "Live and Learn", "original_title": "Live and Learn", "slug_title": "live-and-learn", "date": "1951-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

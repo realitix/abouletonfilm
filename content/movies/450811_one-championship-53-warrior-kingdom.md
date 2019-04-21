@@ -1,0 +1,1 @@
+{"tmdb_id": 450811, "title": "ONE Championship 53: Warrior Kingdom", "original_title": "ONE Championship 53: Warrior Kingdom", "slug_title": "one-championship-53-warrior-kingdom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

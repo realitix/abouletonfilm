@@ -1,0 +1,1 @@
+{"tmdb_id": 462670, "title": "The Tyranny of Consciousness", "original_title": "The Tyranny of Consciousness", "slug_title": "the-tyranny-of-consciousness", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Lady Bunny (Herself)"], "comments": [], "recommandations_id": []}

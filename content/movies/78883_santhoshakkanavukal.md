@@ -1,0 +1,1 @@
+{"tmdb_id": 78883, "title": "Santhoshakkanavukal", "original_title": "Santhoshakkanavukal", "slug_title": "santhoshakkanavukal", "date": "1985-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Nalini ()", "Sathyaraj ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552895, "title": "Stars on Horseback", "original_title": "Stars on Horseback", "slug_title": "stars-on-horseback", "date": "1943-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lou Marcelle (Narrator)", "George Garfield (Himself)"], "comments": [], "recommandations_id": []}

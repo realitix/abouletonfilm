@@ -1,0 +1,1 @@
+{"tmdb_id": 417564, "title": "O Ex-M\u00e1gico", "original_title": "O Ex-M\u00e1gico", "slug_title": "o-ex-magico", "date": "2016-09-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3hbH2jFgA0HiBXnOjU5o9ZfIKM.jpg", "actors": [], "comments": [], "recommandations_id": []}

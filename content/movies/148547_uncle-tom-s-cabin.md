@@ -1,0 +1,1 @@
+{"tmdb_id": 148547, "title": "Uncle Tom's Cabin", "original_title": "Uncle Tom's Cabin", "slug_title": "uncle-tom-s-cabin", "date": "1903-07-30", "genre": "", "score": "4.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSR0GJdLCZAqIboW9EyyReJvAJV.jpg", "actors": [], "comments": [], "recommandations_id": [147553, 147723, 180139, 148511]}

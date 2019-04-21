@@ -1,0 +1,1 @@
+{"tmdb_id": 570572, "title": "Shuttlecock", "original_title": "Shuttlecock", "slug_title": "shuttlecock", "date": "1993-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znCk2fEWNCqYjek5EB7LhEjQtXE.jpg", "actors": [], "comments": [], "recommandations_id": []}

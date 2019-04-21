@@ -1,0 +1,1 @@
+{"tmdb_id": 364531, "title": "After the Final Battle", "original_title": "Jue zhan zhi hou", "slug_title": "after-the-final-battle", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

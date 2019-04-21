@@ -1,0 +1,1 @@
+{"tmdb_id": 524981, "title": "Le Moteur de l'Action (A.M.D)", "original_title": "Le Moteur de l'Action (A.M.D)", "slug_title": "le-moteur-de-l-action-a-m-d", "date": "1985-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

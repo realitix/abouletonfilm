@@ -1,0 +1,1 @@
+{"tmdb_id": 151686, "title": "Fan of the Dead", "original_title": "Fan of the Dead", "slug_title": "fan-of-the-dead", "date": "2007-08-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjJyMcDjycGXOuogKLaMm5zncis.jpg", "actors": [], "comments": [], "recommandations_id": []}

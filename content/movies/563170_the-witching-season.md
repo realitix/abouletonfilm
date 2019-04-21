@@ -1,0 +1,1 @@
+{"tmdb_id": 563170, "title": "The Witching Season", "original_title": "The Witching Season", "slug_title": "the-witching-season", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 102347, "title": "Rain Dogs", "original_title": "Tai Yang Yue", "slug_title": "rain-dogs", "date": "2006-10-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hN1I3GOBtko7ezkj1t6SnALFs4z.jpg", "actors": ["Choon Wai Kuan (Tung)", "Wing-Hong Cheung (Hong)"], "comments": [], "recommandations_id": []}

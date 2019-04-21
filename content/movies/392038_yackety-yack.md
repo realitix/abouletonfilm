@@ -1,0 +1,1 @@
+{"tmdb_id": 392038, "title": "Yackety Yack", "original_title": "Yackety Yack", "slug_title": "yackety-yack", "date": "1974-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

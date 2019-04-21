@@ -1,0 +1,1 @@
+{"tmdb_id": 585922, "title": "Deliye Her G\u00fcn Bayram", "original_title": "Deliye Her G\u00fcn Bayram", "slug_title": "deliye-her-gun-bayram", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gKKbAkvOHrrSyYM32X6l9qHp4hQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

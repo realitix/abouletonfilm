@@ -1,0 +1,1 @@
+{"tmdb_id": 562352, "title": "Lay Off Blondes", "original_title": "Touchez pas aux blondes", "slug_title": "lay-off-blondes", "date": "1960-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRfH7u3bq3s5jaA0U5cnz4Pe9aS.jpg", "actors": [], "comments": [], "recommandations_id": []}

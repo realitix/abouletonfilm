@@ -1,0 +1,1 @@
+{"tmdb_id": 480002, "title": "The Cornfield", "original_title": "The Cornfield", "slug_title": "the-cornfield", "date": "2017-10-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eS53ZhsSo1RaMy9PJudVxsyPDJB.jpg", "actors": ["George Bonilla ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309907, "title": "Birdmen: Tribute to Charlie Parker", "original_title": "Birdmen: Tribute to Charlie Parker", "slug_title": "birdmen-tribute-to-charlie-parker", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

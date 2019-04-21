@@ -1,0 +1,1 @@
+{"tmdb_id": 329501, "title": "The Person Who Lost His Memory", "original_title": "Faqid al-Dhakira", "slug_title": "the-person-who-lost-his-memory", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

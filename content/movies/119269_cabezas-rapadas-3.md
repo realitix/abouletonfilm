@@ -1,0 +1,1 @@
+{"tmdb_id": 119269, "title": "Cabezas Rapadas 3", "original_title": "Cabezas Rapadas 3", "slug_title": "cabezas-rapadas-3", "date": "2002-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Gatica ()", "Carlos Samperio ()", "Jorge Victoria ()"], "comments": [], "recommandations_id": []}

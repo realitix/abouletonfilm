@@ -1,0 +1,1 @@
+{"tmdb_id": 302023, "title": "Follow Follow", "original_title": "Follow Follow", "slug_title": "follow-follow", "date": "2012-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

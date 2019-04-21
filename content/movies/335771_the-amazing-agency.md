@@ -1,0 +1,1 @@
+{"tmdb_id": 335771, "title": "The Amazing Agency", "original_title": "The Amazing Agency", "slug_title": "the-amazing-agency", "date": "2014-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

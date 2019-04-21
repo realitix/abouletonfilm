@@ -1,0 +1,1 @@
+{"tmdb_id": 109501, "title": "Electro Ghetto", "original_title": "Electro Ghetto", "slug_title": "electro-ghetto", "date": "2004-10-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elyas M\u2019Barek ()", "Bushido ()", "Moritz Bleibtreu ()", "Karoline Schuch ()"], "comments": [], "recommandations_id": []}

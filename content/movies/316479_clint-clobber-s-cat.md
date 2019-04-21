@@ -1,0 +1,1 @@
+{"tmdb_id": 316479, "title": "Clint Clobber's Cat", "original_title": "Clint Clobber's Cat", "slug_title": "clint-clobber-s-cat", "date": "1957-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

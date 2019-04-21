@@ -1,0 +1,1 @@
+{"tmdb_id": 554695, "title": "Existence", "original_title": "\u5b58\u5728", "slug_title": "existence", "date": "2017-08-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1FqiwsG5b1QzFonhu8tmT1pF2Go.jpg", "actors": ["Wang Feng ()", "Zhang Ziyi (Herself)"], "comments": [], "recommandations_id": []}

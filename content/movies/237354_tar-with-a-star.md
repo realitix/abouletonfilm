@@ -1,0 +1,1 @@
+{"tmdb_id": 237354, "title": "Tar with a Star", "original_title": "Tar with a Star", "slug_title": "tar-with-a-star", "date": "1949-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 279051, "title": "Andrey Svislotskiy", "original_title": "Andrey Svislotskiy", "slug_title": "andrey-svislotskiy", "date": "1991-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ygwu5AwJMm8rPripcTIAVXBCcZE.jpg", "actors": [], "comments": [], "recommandations_id": []}

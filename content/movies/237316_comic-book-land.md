@@ -1,0 +1,1 @@
+{"tmdb_id": 237316, "title": "Comic Book Land", "original_title": "Comic Book Land", "slug_title": "comic-book-land", "date": "1949-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

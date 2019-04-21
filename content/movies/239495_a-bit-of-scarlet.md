@@ -1,0 +1,1 @@
+{"tmdb_id": 239495, "title": "A Bit Of Scarlet", "original_title": "A Bit Of Scarlet", "slug_title": "a-bit-of-scarlet", "date": "1997-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHBpXwfSjS76XSTRKb0F6AbUWkW.jpg", "actors": ["Ian McKellen (Narrator)"], "comments": [], "recommandations_id": []}

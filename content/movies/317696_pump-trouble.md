@@ -1,0 +1,1 @@
+{"tmdb_id": 317696, "title": "Pump Trouble", "original_title": "Pump Trouble", "slug_title": "pump-trouble", "date": "1954-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

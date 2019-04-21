@@ -1,0 +1,1 @@
+{"tmdb_id": 91376, "title": "Mister Wolf", "original_title": "\u041c\u0438\u0441\u0442\u0435\u0440 \u0423\u043e\u043b\u043a", "slug_title": "mister-wolf", "date": "1949-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qJw80HHUHrwXYmFwKmhsyBVnxv2.jpg", "actors": [], "comments": [], "recommandations_id": []}

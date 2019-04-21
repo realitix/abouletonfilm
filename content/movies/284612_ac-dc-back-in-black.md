@@ -1,0 +1,1 @@
+{"tmdb_id": 284612, "title": "AC/DC Back in Black", "original_title": "AC/DC Back in Black", "slug_title": "ac-dc-back-in-black", "date": "2009-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xk4sJH7AYSV468XkjMFCv6YcU2e.jpg", "actors": [], "comments": [], "recommandations_id": []}

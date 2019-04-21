@@ -1,0 +1,1 @@
+{"tmdb_id": 523725, "title": "Skinny Puppy: Head Trauma - Live In Holland 1988", "original_title": "Skinny Puppy: Head Trauma - Live In Holland 1988", "slug_title": "skinny-puppy-head-trauma-live-in-holland-1988", "date": "1988-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

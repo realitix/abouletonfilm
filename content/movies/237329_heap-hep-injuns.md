@@ -1,0 +1,1 @@
+{"tmdb_id": 237329, "title": "Heap Hep Injuns", "original_title": "Heap Hep Injuns", "slug_title": "heap-hep-injuns", "date": "1949-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNizwwqbHi4mCpMxdFpjrmIhzwB.jpg", "actors": [], "comments": [], "recommandations_id": []}

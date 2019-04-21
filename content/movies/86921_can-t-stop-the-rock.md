@@ -1,0 +1,1 @@
+{"tmdb_id": 86921, "title": "Can't Stop The Rock", "original_title": "Can't Stop The Rock", "slug_title": "can-t-stop-the-rock", "date": "2007-10-31", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jPvDiMI7JRn7GvL2IDxXnkyck9.jpg", "actors": ["Rocky Nelson (Himself)"], "comments": [], "recommandations_id": []}

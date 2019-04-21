@@ -1,0 +1,1 @@
+{"tmdb_id": 577308, "title": "Best Picture Fest 2019: Day 2", "original_title": "Best Picture Fest 2019: Day 2", "slug_title": "best-picture-fest-2019-day-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hS8rlVNt0rKNuB4jpxTJGymPvwt.jpg", "actors": [], "comments": [], "recommandations_id": []}

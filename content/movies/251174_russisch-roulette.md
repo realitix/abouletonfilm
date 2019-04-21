@@ -1,0 +1,1 @@
+{"tmdb_id": 251174, "title": "Russisch Roulette", "original_title": "Russisch Roulette", "slug_title": "russisch-roulette", "date": "2012-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

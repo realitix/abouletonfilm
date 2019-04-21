@@ -1,0 +1,1 @@
+{"tmdb_id": 467601, "title": "Clara Gibbings", "original_title": "Clara Gibbings", "slug_title": "clara-gibbings", "date": "1934-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNw1wEvJf7wOyZyt2fHGvVyFEzF.jpg", "actors": ["Dorothy Brunton (Clara Gibbings)"], "comments": [], "recommandations_id": []}

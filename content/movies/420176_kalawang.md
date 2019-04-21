@@ -1,0 +1,1 @@
+{"tmdb_id": 420176, "title": "Kalawang", "original_title": "Kalawang", "slug_title": "kalawang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 218384, "title": "Slave Queen", "original_title": "Slave Queen", "slug_title": "slave-queen", "date": "2013-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZwZR4UHdxP5UhdqcOfE6qYfc8B.jpg", "actors": ["Masud Akhond (Self)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 241951, "title": "Holiday from Rules?", "original_title": "Holiday from Rules?", "slug_title": "holiday-from-rules", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

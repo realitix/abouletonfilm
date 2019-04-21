@@ -1,0 +1,1 @@
+{"tmdb_id": 320854, "title": "Sincerely, Joe P. Bear", "original_title": "Sincerely, Joe P. Bear", "slug_title": "sincerely-joe-p-bear", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

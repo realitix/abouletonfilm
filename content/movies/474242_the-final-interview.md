@@ -1,0 +1,1 @@
+{"tmdb_id": 474242, "title": "The Final Interview", "original_title": "The Final Interview", "slug_title": "the-final-interview", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grainger Hines (Oliver Ross)", "Diane Franklin (Rhonda)", "Damien A. Maruscak (Darius Tidman)"], "comments": [], "recommandations_id": []}

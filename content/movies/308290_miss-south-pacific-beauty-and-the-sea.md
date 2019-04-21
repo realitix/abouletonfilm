@@ -1,0 +1,1 @@
+{"tmdb_id": 308290, "title": "Miss South Pacific: Beauty and the Sea", "original_title": "Miss South Pacific: Beauty and the Sea", "slug_title": "miss-south-pacific-beauty-and-the-sea", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

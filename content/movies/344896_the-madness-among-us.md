@@ -1,0 +1,1 @@
+{"tmdb_id": 344896, "title": "The Madness Among Us", "original_title": "A Loucura Entre N\u00f3s", "slug_title": "the-madness-among-us", "date": "2016-08-04", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Q31r7J0pUDaWHALgIuqrNkT4m8.jpg", "actors": [], "comments": [], "recommandations_id": []}

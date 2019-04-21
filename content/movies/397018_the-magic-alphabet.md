@@ -1,0 +1,1 @@
+{"tmdb_id": 397018, "title": "The Magic Alphabet", "original_title": "The Magic Alphabet", "slug_title": "the-magic-alphabet", "date": "1942-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5csVsA0vh8SGoUKM080KOqWxez.jpg", "actors": [], "comments": [], "recommandations_id": []}

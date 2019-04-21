@@ -1,0 +1,1 @@
+{"tmdb_id": 541511, "title": "Song of the Canefields", "original_title": "\u3055\u3068\u3046\u304d\u3073\u7551\u306e\u5504", "slug_title": "song-of-the-canefields", "date": "2003-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnzVZyA4fQGUvGROM0F3TndcThC.jpg", "actors": [], "comments": [], "recommandations_id": []}

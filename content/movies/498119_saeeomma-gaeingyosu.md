@@ -1,0 +1,1 @@
+{"tmdb_id": 498119, "title": "\uc0c8\uc5c4\ub9c8:\uac1c\uc778\uad50\uc218", "original_title": "\uc0c8\uc5c4\ub9c8:\uac1c\uc778\uad50\uc218", "slug_title": "saeeomma-gaeingyosu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

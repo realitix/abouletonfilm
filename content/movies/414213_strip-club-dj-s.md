@@ -1,0 +1,1 @@
+{"tmdb_id": 414213, "title": "Strip Club Dj's", "original_title": "Strip Club Dj's", "slug_title": "strip-club-dj-s", "date": "2003-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/paF0D5r8SxlluVxcvPPOPZyZXAk.jpg", "actors": [], "comments": [], "recommandations_id": []}

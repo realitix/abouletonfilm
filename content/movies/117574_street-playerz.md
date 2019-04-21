@@ -1,0 +1,1 @@
+{"tmdb_id": 117574, "title": "Street Playerz", "original_title": "Street Playerz", "slug_title": "street-playerz", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4xaI3X745bn6uHPL2jWP77jbKJ6.jpg", "actors": ["Davis Choh (Leon)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334758, "title": "We Are KMFDM", "original_title": "We Are KMFDM", "slug_title": "we-are-kmfdm", "date": "2015-04-05", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4ATfpish41jxDaGOi1vDypWjyC.jpg", "actors": [], "comments": [], "recommandations_id": []}

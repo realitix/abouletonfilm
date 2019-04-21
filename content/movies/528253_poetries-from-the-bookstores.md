@@ -1,0 +1,1 @@
+{"tmdb_id": 528253, "title": "Poetries from the Bookstores", "original_title": "\u66f8\u5e97\u88e1\u7684\u5f71\u50cf\u8a69", "slug_title": "poetries-from-the-bookstores", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2cxOnpRdUBZcAhbenvg7bPu3bc5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 139811, "title": "Become Jehovah's Friend", "original_title": "Become Jehovah's Friend", "slug_title": "become-jehovah-s-friend", "date": "2012-08-08", "genre": "Animation", "score": "7.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0Lg2B2SvE1BCyTbgWWcLaH1IDF.jpg", "actors": [], "comments": [], "recommandations_id": [45992, 68948]}

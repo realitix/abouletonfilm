@@ -1,0 +1,1 @@
+{"tmdb_id": 504465, "title": "Inner City", "original_title": "La cit\u00e9 entre les murs", "slug_title": "inner-city", "date": "2011-02-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFEJuBB4G0d7JDgXNdFtWGKKfhy.jpg", "actors": ["Jean Cummings ()"], "comments": [], "recommandations_id": []}

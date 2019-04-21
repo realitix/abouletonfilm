@@ -1,0 +1,1 @@
+{"tmdb_id": 512951, "title": "Sleazemania!", "original_title": "Sleazemania!", "slug_title": "sleazemania", "date": "1985-03-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPwy7yPx3Ba9MpdpyUL5n83fq9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

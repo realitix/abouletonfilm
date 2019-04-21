@@ -1,0 +1,1 @@
+{"tmdb_id": 481605, "title": "Who is B\u00e1rbara Virginia?", "original_title": "Quem \u00e9 B\u00e1rbara Virginia?", "slug_title": "who-is-barbara-virginia", "date": "2017-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87p6YZvWtOflIZjjOEnyhj8oN41.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470190, "title": "Buried on Sunday", "original_title": "Buried on Sunday", "slug_title": "buried-on-sunday", "date": "1992-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hEaWNUAJ4Omz5e3fMQsQqoFqpF0.jpg", "actors": ["Paul Gross (Augustus Knickel)"], "comments": [], "recommandations_id": []}

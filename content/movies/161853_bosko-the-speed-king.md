@@ -1,0 +1,1 @@
+{"tmdb_id": 161853, "title": "Bosko the Speed King", "original_title": "Bosko the Speed King", "slug_title": "bosko-the-speed-king", "date": "1933-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

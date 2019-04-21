@@ -1,0 +1,1 @@
+{"tmdb_id": 559150, "title": "Don't Be a Dick About It", "original_title": "Don't Be a Dick About It", "slug_title": "don-t-be-a-dick-about-it", "date": "2018-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yu6NX1gMMYAwoz5bDtf8SMrw5H7.jpg", "actors": [], "comments": [], "recommandations_id": []}

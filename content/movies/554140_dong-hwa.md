@@ -1,0 +1,1 @@
+{"tmdb_id": 554140, "title": "Dong-hwa", "original_title": "\ub3d9\ud654", "slug_title": "dong-hwa", "date": "2018-10-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmpVCzfPU5Ukbjc7XgG4OmLKjFn.jpg", "actors": ["Seo Young-Joo (Dong-hwa)", "Han Bo-bae (Eun-jeong)"], "comments": [], "recommandations_id": []}

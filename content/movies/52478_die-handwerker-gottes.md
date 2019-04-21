@@ -1,0 +1,1 @@
+{"tmdb_id": 52478, "title": "Die Handwerker Gottes", "original_title": "Die Handwerker Gottes", "slug_title": "die-handwerker-gottes", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

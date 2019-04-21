@@ -1,0 +1,1 @@
+{"tmdb_id": 314586, "title": "The Liar", "original_title": "\uac70\uc9d3\ub9d0", "slug_title": "the-liar", "date": "2014-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdcTq6Ssv1VN6CMM91fTU4f7Jzl.jpg", "actors": ["Kim Kkobbi (Ayoung)", "Jeon Sin-hwan (Taeho)"], "comments": [], "recommandations_id": []}

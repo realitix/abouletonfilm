@@ -1,0 +1,1 @@
+{"tmdb_id": 423641, "title": "Ang\u00e9lica. Una tragedia", "original_title": "Ang\u00e9lica. Una tragedia", "slug_title": "angelica-una-tragedia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eGF1mO4HoNZHfOVLBRUe8zZzmW.jpg", "actors": [], "comments": [], "recommandations_id": []}

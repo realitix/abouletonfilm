@@ -1,0 +1,1 @@
+{"tmdb_id": 464922, "title": "Heirs of the Beast", "original_title": "Heirs of the Beast", "slug_title": "heirs-of-the-beast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

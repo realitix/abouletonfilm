@@ -1,0 +1,1 @@
+{"tmdb_id": 310680, "title": "Men Cry in the Dark", "original_title": "Men Cry in the Dark", "slug_title": "men-cry-in-the-dark", "date": "2003-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

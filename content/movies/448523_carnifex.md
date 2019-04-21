@@ -1,0 +1,1 @@
+{"tmdb_id": 448523, "title": "Carnifex", "original_title": "Carnifex", "slug_title": "carnifex", "date": "2016-10-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

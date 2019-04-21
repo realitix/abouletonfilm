@@ -1,0 +1,1 @@
+{"tmdb_id": 292221, "title": "Lock N Load with R. Lee Emery", "original_title": "Lock N Load with R. Lee Emery", "slug_title": "lock-n-load-with-r-lee-emery", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

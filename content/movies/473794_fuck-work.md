@@ -1,0 +1,1 @@
+{"tmdb_id": 473794, "title": "Fuck Work", "original_title": "Fuck Work", "slug_title": "fuck-work", "date": "2015-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Audrey Kovar (Stefanie)", "Julianna Schley (Mary)"], "comments": [], "recommandations_id": []}

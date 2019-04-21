@@ -1,0 +1,1 @@
+{"tmdb_id": 528057, "title": "East is Red", "original_title": "\u6771\u65b9\u7d05", "slug_title": "east-is-red", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

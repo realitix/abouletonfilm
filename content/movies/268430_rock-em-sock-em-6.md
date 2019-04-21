@@ -1,0 +1,1 @@
+{"tmdb_id": 268430, "title": "Rock'em Sock'em 6", "original_title": "Rock'em Sock'em 6", "slug_title": "rock-em-sock-em-6", "date": "1994-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hR3jgSgV8J8MwJiL4uK18zOGJKM.jpg", "actors": ["Don Cherry (Himself)"], "comments": [], "recommandations_id": []}

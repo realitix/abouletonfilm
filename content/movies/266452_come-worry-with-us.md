@@ -1,0 +1,1 @@
+{"tmdb_id": 266452, "title": "Come Worry with Us!", "original_title": "Come Worry with Us!", "slug_title": "come-worry-with-us", "date": "2013-11-21", "genre": "Documentaire / Musique", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nCCV4UkHBemiwCUGLWhRoPdVE3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509373, "title": "A Mulher do Fim do Mundo", "original_title": "A Mulher do Fim do Mundo", "slug_title": "a-mulher-do-fim-do-mundo", "date": "2018-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y09zFuPamAdsqVNVgrhzjP5s6HF.jpg", "actors": [], "comments": [], "recommandations_id": []}

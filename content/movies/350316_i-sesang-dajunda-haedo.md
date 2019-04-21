@@ -1,0 +1,1 @@
+{"tmdb_id": 350316, "title": "\uc774 \uc138\uc0c1 \ub2e4\uc900\ub2e4 \ud574\ub3c4", "original_title": "\uc774 \uc138\uc0c1 \ub2e4\uc900\ub2e4 \ud574\ub3c4", "slug_title": "i-sesang-dajunda-haedo", "date": "1981-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

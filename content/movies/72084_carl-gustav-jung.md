@@ -1,0 +1,1 @@
+{"tmdb_id": 72084, "title": "Carl Gustav Jung", "original_title": "Carl Gustav Jung", "slug_title": "carl-gustav-jung", "date": "2007-12-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imP5bPqvhTz8YE0pFQ2vzTAnXQX.jpg", "actors": ["Carl Jung (Himself)"], "comments": [], "recommandations_id": []}

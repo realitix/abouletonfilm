@@ -1,0 +1,1 @@
+{"tmdb_id": 484456, "title": "Hold Your Temper", "original_title": "Hold Your Temper", "slug_title": "hold-your-temper", "date": "1933-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol (Leon Errol)", "Dorothy Granger (Mrs. Errol)"], "comments": [], "recommandations_id": []}

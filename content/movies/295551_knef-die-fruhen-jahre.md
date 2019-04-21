@@ -1,0 +1,1 @@
+{"tmdb_id": 295551, "title": "Knef - Die fr\u00fchen Jahre", "original_title": "Knef - Die fr\u00fchen Jahre", "slug_title": "knef-die-fruhen-jahre", "date": "2005-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKF9aXAKAKyTD2VnbXC0QWuuI6F.jpg", "actors": [], "comments": [], "recommandations_id": []}

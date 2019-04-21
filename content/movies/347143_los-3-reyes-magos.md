@@ -1,0 +1,1 @@
+{"tmdb_id": 347143, "title": "Los 3 reyes magos", "original_title": "Los 3 reyes magos", "slug_title": "los-3-reyes-magos", "date": "1976-06-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVdOQKDDPfAVibQmJ9s6LkN734M.jpg", "actors": [], "comments": [], "recommandations_id": []}

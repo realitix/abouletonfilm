@@ -1,0 +1,1 @@
+{"tmdb_id": 528820, "title": "La Bacchante", "original_title": "La Bacchante", "slug_title": "la-bacchante", "date": "2010-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7DGSZ6vnnu75EhXoCEyJNfEVEZ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

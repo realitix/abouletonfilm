@@ -1,0 +1,1 @@
+{"tmdb_id": 288790, "title": "Double Di Trouble", "original_title": "Double Di Trouble", "slug_title": "double-di-trouble", "date": "2014-08-29", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awsdR8jsXemewSzrKozznexdDAJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

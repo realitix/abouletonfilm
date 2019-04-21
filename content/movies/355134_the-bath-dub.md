@@ -1,0 +1,1 @@
+{"tmdb_id": 355134, "title": "The Bath Dub", "original_title": "The Bath Dub", "slug_title": "the-bath-dub", "date": "1921-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Franey ()"], "comments": [], "recommandations_id": []}

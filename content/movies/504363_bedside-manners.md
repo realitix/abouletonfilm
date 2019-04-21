@@ -1,0 +1,1 @@
+{"tmdb_id": 504363, "title": "Bedside Manners", "original_title": "Bedside Manners", "slug_title": "bedside-manners", "date": "2016-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m8Fby7m0lDIMPoWpCt7EPfPMMEA.jpg", "actors": ["Carmen Soo ()", "Jerrica Lai ()"], "comments": [], "recommandations_id": []}

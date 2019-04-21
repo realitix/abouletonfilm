@@ -1,0 +1,1 @@
+{"tmdb_id": 419228, "title": "And the Devil Makes Three", "original_title": "And the Devil Makes Three", "slug_title": "and-the-devil-makes-three", "date": "2016-09-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhfWVtYIUqiL5p5niCTn2iIIagI.jpg", "actors": [], "comments": [], "recommandations_id": []}

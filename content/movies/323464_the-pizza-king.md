@@ -1,0 +1,1 @@
+{"tmdb_id": 323464, "title": "The Pizza King", "original_title": "The Pizza King", "slug_title": "the-pizza-king", "date": "2008-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 497577, "title": "Okie Dokie", "original_title": "Okie Dokie", "slug_title": "okie-dokie", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ca2Mj6mgtw8e9diOzfQN7oOiEI.jpg", "actors": ["Lloyd Kaufman ()", "Vietnam Ron ()", "Maryanne Spychalski ()"], "comments": [], "recommandations_id": []}

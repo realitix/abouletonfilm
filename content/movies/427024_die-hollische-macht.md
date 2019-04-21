@@ -1,0 +1,1 @@
+{"tmdb_id": 427024, "title": "Die h\u00f6llische Macht", "original_title": "Die h\u00f6llische Macht", "slug_title": "die-hollische-macht", "date": "1922-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thea Kasten ()", "Emil Lind ()", "Ossip Runitsch ()", "Hans Schweikart ()"], "comments": [], "recommandations_id": []}

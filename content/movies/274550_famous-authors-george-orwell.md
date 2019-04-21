@@ -1,0 +1,1 @@
+{"tmdb_id": 274550, "title": "Famous Authors: George Orwell", "original_title": "Famous Authors: George Orwell", "slug_title": "famous-authors-george-orwell", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

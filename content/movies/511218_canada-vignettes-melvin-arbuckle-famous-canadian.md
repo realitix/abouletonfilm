@@ -1,0 +1,1 @@
+{"tmdb_id": 511218, "title": "Canada Vignettes: Melvin Arbuckle, Famous Canadian", "original_title": "Canada Vignettes: Melvin Arbuckle, Famous Canadian", "slug_title": "canada-vignettes-melvin-arbuckle-famous-canadian", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

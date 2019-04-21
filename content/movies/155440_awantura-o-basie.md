@@ -1,0 +1,1 @@
+{"tmdb_id": 155440, "title": "Awantura o Basi\u0119", "original_title": "Awantura o Basi\u0119", "slug_title": "awantura-o-basie", "date": "1959-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pENybJ6o4cfXSTxheYFocBrmCUA.jpg", "actors": [], "comments": [], "recommandations_id": []}

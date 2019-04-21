@@ -1,0 +1,1 @@
+{"tmdb_id": 525612, "title": "Cuba: The Forgotten Revolution", "original_title": "Cuba: The Forgotten Revolution", "slug_title": "cuba-the-forgotten-revolution", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

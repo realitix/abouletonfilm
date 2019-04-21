@@ -1,0 +1,1 @@
+{"tmdb_id": 536513, "title": "Erlebnisse der Puppe", "original_title": "Erlebnisse der Puppe", "slug_title": "erlebnisse-der-puppe", "date": "1966-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEmvET4qtXbVQPKe0h5g0YjEh05.jpg", "actors": [], "comments": [], "recommandations_id": []}

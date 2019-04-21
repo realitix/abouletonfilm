@@ -1,0 +1,1 @@
+{"tmdb_id": 368604, "title": "CHIKARA: A New Start", "original_title": "CHIKARA: A New Start", "slug_title": "chikara-a-new-start", "date": "2015-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0UyQsRSLsb5vdvDtifVeUqE9gv.jpg", "actors": [], "comments": [], "recommandations_id": []}

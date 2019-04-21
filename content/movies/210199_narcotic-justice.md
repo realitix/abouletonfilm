@@ -1,0 +1,1 @@
+{"tmdb_id": 210199, "title": "Narcotic Justice", "original_title": "Narcotic Justice", "slug_title": "narcotic-justice", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUP4lUEF72rcvC80dRy9eNWuoZs.jpg", "actors": [], "comments": [], "recommandations_id": []}

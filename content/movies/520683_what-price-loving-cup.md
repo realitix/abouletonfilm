@@ -1,0 +1,1 @@
+{"tmdb_id": 520683, "title": "What Price Loving Cup?", "original_title": "What Price Loving Cup?", "slug_title": "what-price-loving-cup", "date": "1923-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 582144, "title": "Gringo Shamans", "original_title": "Gringo Shamans", "slug_title": "gringo-shamans", "date": "2016-03-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

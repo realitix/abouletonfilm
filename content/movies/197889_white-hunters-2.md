@@ -1,0 +1,1 @@
+{"tmdb_id": 197889, "title": "White Hunters 2", "original_title": "White Hunters 2", "slug_title": "white-hunters-2", "date": "2010-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ini Edo (Tabita)", "Mercy Johnson (Pamela)", "Funke Akindele ()"], "comments": [], "recommandations_id": []}

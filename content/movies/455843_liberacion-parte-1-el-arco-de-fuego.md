@@ -1,0 +1,1 @@
+{"tmdb_id": 455843, "title": "Liberaci\u00f3n Parte 1 - El arco de fuego", "original_title": "Liberaci\u00f3n Parte 1 - El arco de fuego", "slug_title": "liberacion-parte-1-el-arco-de-fuego", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

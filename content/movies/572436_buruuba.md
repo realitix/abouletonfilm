@@ -1,0 +1,1 @@
+{"tmdb_id": 572436, "title": "Buruuba", "original_title": "Buruuba", "slug_title": "buruuba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

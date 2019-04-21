@@ -1,0 +1,1 @@
+{"tmdb_id": 564551, "title": "The Joy of AI", "original_title": "The Joy of AI", "slug_title": "the-joy-of-ai", "date": "2018-09-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cnJokOmYMaXXlrgN5Zh0NvH9lnO.jpg", "actors": [], "comments": [], "recommandations_id": []}

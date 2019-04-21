@@ -1,0 +1,1 @@
+{"tmdb_id": 221005, "title": "The Landlady", "original_title": "The Landlady", "slug_title": "the-landlady", "date": "1979-04-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

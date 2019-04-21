@@ -1,0 +1,1 @@
+{"tmdb_id": 519838, "title": "Babysitter", "original_title": "Babysitter", "slug_title": "babysitter", "date": "1983-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danielle ()", "Tara Aire ()", "Rhonda Jo Petty ()", "carmen de la torre ()", "Kevin James ()", "Billy (the Kid) ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 417232, "title": "Novio cubano", "original_title": "Novio cubano", "slug_title": "novio-cubano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

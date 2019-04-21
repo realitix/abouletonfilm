@@ -1,0 +1,1 @@
+{"tmdb_id": 375601, "title": "Triptosane", "original_title": "Triptosane", "slug_title": "triptosane", "date": "2010-01-02", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPUVUKgTrY5otf052xnCI82mAPo.jpg", "actors": [], "comments": [], "recommandations_id": []}

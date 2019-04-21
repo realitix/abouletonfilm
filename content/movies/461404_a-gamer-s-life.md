@@ -1,0 +1,1 @@
+{"tmdb_id": 461404, "title": "A Gamer's Life", "original_title": "A Gamer's Life", "slug_title": "a-gamer-s-life", "date": "2016-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atq1MeCO6nwJtqMLxjkSMcpwn5p.jpg", "actors": [], "comments": [], "recommandations_id": []}

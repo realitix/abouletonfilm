@@ -1,0 +1,1 @@
+{"tmdb_id": 307031, "title": "Deathstyles", "original_title": "Deathstyles", "slug_title": "deathstyles", "date": "1971-11-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

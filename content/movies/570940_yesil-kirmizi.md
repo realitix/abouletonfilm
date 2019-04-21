@@ -1,0 +1,1 @@
+{"tmdb_id": 570940, "title": "Yes\u0327il Kirmizi", "original_title": "Yes\u0327il Kirmizi", "slug_title": "yesil-kirmizi", "date": "2016-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWHm2cHtWicd0QIZ8oshQqG3cSR.jpg", "actors": [], "comments": [], "recommandations_id": []}

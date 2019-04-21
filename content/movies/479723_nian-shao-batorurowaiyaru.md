@@ -1,0 +1,1 @@
+{"tmdb_id": 479723, "title": "\u5e74\u5c11\u30d0\u30c8\u30eb\u30ed\u30ef\u30a4\u30e4\u30eb", "original_title": "\u5e74\u5c11\u30d0\u30c8\u30eb\u30ed\u30ef\u30a4\u30e4\u30eb", "slug_title": "nian-shao-batorurowaiyaru", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

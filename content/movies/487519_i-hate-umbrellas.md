@@ -1,0 +1,1 @@
+{"tmdb_id": 487519, "title": "I hate umbrellas", "original_title": "I hate umbrellas", "slug_title": "i-hate-umbrellas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

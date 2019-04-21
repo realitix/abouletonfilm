@@ -1,0 +1,1 @@
+{"tmdb_id": 345545, "title": "Med livet som flyttelass", "original_title": "Med livet som flyttelass", "slug_title": "med-livet-som-flyttelass", "date": "2009-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

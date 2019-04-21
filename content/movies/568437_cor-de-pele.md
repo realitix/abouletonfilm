@@ -1,0 +1,1 @@
+{"tmdb_id": 568437, "title": "Cor de Pele", "original_title": "Cor de Pele", "slug_title": "cor-de-pele", "date": "2018-01-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7prjnb9WLHeI6fOPU0ffl7OfhNL.jpg", "actors": [], "comments": [], "recommandations_id": []}

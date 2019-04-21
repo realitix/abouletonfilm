@@ -1,0 +1,1 @@
+{"tmdb_id": 236925, "title": "Hullaba-Lulu", "original_title": "Hullaba-Lulu", "slug_title": "hullaba-lulu", "date": "1944-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

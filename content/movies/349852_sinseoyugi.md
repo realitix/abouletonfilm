@@ -1,0 +1,1 @@
+{"tmdb_id": 349852, "title": "\uc2e0\uc11c\uc720\uae30", "original_title": "\uc2e0\uc11c\uc720\uae30", "slug_title": "sinseoyugi", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

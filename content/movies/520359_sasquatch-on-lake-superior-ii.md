@@ -1,0 +1,1 @@
+{"tmdb_id": 520359, "title": "Sasquatch on Lake Superior II", "original_title": "Sasquatch on Lake Superior II", "slug_title": "sasquatch-on-lake-superior-ii", "date": "2018-05-07", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

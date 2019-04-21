@@ -1,0 +1,1 @@
+{"tmdb_id": 313878, "title": "On the Coast", "original_title": "Bu Sahilde", "slug_title": "on-the-coast", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JNhLn2iuPMf7GYkR328VMckXPj.jpg", "actors": [], "comments": [], "recommandations_id": []}

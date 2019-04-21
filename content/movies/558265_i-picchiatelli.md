@@ -1,0 +1,1 @@
+{"tmdb_id": 558265, "title": "I picchiatelli", "original_title": "I picchiatelli", "slug_title": "i-picchiatelli", "date": "1958-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

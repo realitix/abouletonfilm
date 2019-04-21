@@ -1,0 +1,1 @@
+{"tmdb_id": 406947, "title": "Introduction to Oobieland", "original_title": "Introduction to Oobieland", "slug_title": "introduction-to-oobieland", "date": "1969-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8IeCUweENsnHpIKPCUOvbO3d4b4.jpg", "actors": [], "comments": [], "recommandations_id": []}

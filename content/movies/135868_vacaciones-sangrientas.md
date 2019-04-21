@@ -1,0 +1,1 @@
+{"tmdb_id": 135868, "title": "Vacaciones Sangrientas", "original_title": "Vacaciones Sangrientas", "slug_title": "vacaciones-sangrientas", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosenda Bernal ()", "Jorge Aldama ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550678, "title": "I Am Fear", "original_title": "I Am Fear", "slug_title": "i-am-fear", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eoin Macken (Joshua)", "Kristina Klebe (Sara Brown)", "William Forsythe (Marco)", "Bill Moseley (Steve Mccreedy)"], "comments": [], "recommandations_id": []}

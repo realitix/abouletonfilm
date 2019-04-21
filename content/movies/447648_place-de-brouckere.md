@@ -1,0 +1,1 @@
+{"tmdb_id": 447648, "title": "Place de Brouck\u00e8re", "original_title": "Place de Brouck\u00e8re", "slug_title": "place-de-brouckere", "date": "1897-03-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509212, "title": "Chanaika", "original_title": "Chanaika", "slug_title": "chanaika", "date": "2007-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUSYen4iVUZOXkJMIjNj29pBEfG.jpg", "actors": [], "comments": [], "recommandations_id": []}

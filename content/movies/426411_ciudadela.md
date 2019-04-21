@@ -1,0 +1,1 @@
+{"tmdb_id": 426411, "title": "Ciudadela", "original_title": "Ciudadela", "slug_title": "ciudadela", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

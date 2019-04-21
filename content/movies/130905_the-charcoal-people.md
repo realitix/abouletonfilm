@@ -1,0 +1,1 @@
+{"tmdb_id": 130905, "title": "The Charcoal People", "original_title": "Os Carvoeiros", "slug_title": "the-charcoal-people", "date": "2001-03-10", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVufGl5xxTswac6Dgyw6VFJN5J2.jpg", "actors": [], "comments": [], "recommandations_id": []}

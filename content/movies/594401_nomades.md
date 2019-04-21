@@ -1,0 +1,1 @@
+{"tmdb_id": 594401, "title": "Nomades", "original_title": "Nomades", "slug_title": "nomades", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 396387, "title": "Pugoy - Hostage Davao", "original_title": "Pugoy - Hostage Davao", "slug_title": "pugoy-hostage-davao", "date": "1992-06-15", "genre": "Action / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2n4wsx9uXWHd475a1MjADfhW4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

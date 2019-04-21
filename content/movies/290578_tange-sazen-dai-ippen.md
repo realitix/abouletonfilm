@@ -1,0 +1,1 @@
+{"tmdb_id": 290578, "title": "Tange Sazen - Dai-ippen", "original_title": "Tange Sazen - Dai-ippen", "slug_title": "tange-sazen-dai-ippen", "date": "1933-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denjir\u00f4 \u00d4k\u00f4chi ()"], "comments": [], "recommandations_id": []}

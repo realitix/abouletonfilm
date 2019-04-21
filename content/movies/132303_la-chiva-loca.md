@@ -1,0 +1,1 @@
+{"tmdb_id": 132303, "title": "La chiva loca", "original_title": "La chiva loca", "slug_title": "la-chiva-loca", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manuel 'Flaco' Ib\u00e1\u00f1ez ()", "Sergio Ramos ()"], "comments": [], "recommandations_id": []}

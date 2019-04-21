@@ -1,0 +1,1 @@
+{"tmdb_id": 436375, "title": "Ancient India", "original_title": "Ancient India", "slug_title": "ancient-india", "date": "1952-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

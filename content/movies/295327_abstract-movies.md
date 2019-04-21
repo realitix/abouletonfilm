@@ -1,0 +1,1 @@
+{"tmdb_id": 295327, "title": "Abstract Movies", "original_title": "Abstract Movies", "slug_title": "abstract-movies", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qgjGm2v4rYPNIyObsnAZ7gkgq6L.jpg", "actors": [], "comments": [], "recommandations_id": []}

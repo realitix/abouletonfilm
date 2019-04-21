@@ -1,0 +1,1 @@
+{"tmdb_id": 508459, "title": "My African Diary", "original_title": "My African Diary", "slug_title": "my-african-diary", "date": "1999-12-17", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZ0p0sZWmqc2jRCICSbKIYv05SO.jpg", "actors": [], "comments": [], "recommandations_id": []}

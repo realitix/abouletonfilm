@@ -1,0 +1,1 @@
+{"tmdb_id": 193648, "title": "Repas d'indiens", "original_title": "Repas d'indiens", "slug_title": "repas-d-indiens", "date": "1896-11-13", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxu34khA0oq7VCj7qrNFLdz3xGk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312426, "title": "L'inaugurazione del campanile di San Marco", "original_title": "L'inaugurazione del campanile di San Marco", "slug_title": "l-inaugurazione-del-campanile-di-san-marco", "date": "1912-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

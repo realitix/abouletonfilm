@@ -1,0 +1,1 @@
+{"tmdb_id": 587576, "title": "Batra & Robin", "original_title": "Batra & Robin", "slug_title": "batra-robin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0wBf81QCamXmhpb3bHRkwWpAmP.jpg", "actors": ["David Batra ()", "Robin Paulsson ()"], "comments": [], "recommandations_id": []}

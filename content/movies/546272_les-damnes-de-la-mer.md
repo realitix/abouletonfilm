@@ -1,0 +1,1 @@
+{"tmdb_id": 546272, "title": "Les damn\u00e9s de la mer", "original_title": "Les damn\u00e9s de la mer", "slug_title": "les-damnes-de-la-mer", "date": "2008-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPE6deux1A18CNCIg5DykOKJbj5.jpg", "actors": [], "comments": [], "recommandations_id": []}

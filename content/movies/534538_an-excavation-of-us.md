@@ -1,0 +1,1 @@
+{"tmdb_id": 534538, "title": "An Excavation of Us", "original_title": "An Excavation of Us", "slug_title": "an-excavation-of-us", "date": "2017-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75545FeD1aBP2Hq7z1XzVnybAfy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424413, "title": "Revolver", "original_title": "Revolver", "slug_title": "revolver", "date": "1991-10-01", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccrHT616hViqJV5H4hoLOqKE3Ti.jpg", "actors": ["Liam Neeson (Man)", "Elaine Proctor (Woman)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480717, "title": "NJPW King of Pro Wrestling 2017", "original_title": "NJPW King of Pro Wrestling 2017", "slug_title": "njpw-king-of-pro-wrestling-2017", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/glCUB6o0WmBJZLlwZ1kJIcqv0dL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 211673, "title": "Multipotam-3. A Taste", "original_title": "Multipotam-3. Na Zubok", "slug_title": "multipotam-3-a-taste", "date": "2006-11-24", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uPfh7Jsloqdx93ILQhqDzYiaJ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

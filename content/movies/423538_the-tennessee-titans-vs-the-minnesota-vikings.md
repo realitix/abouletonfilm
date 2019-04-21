@@ -1,0 +1,1 @@
+{"tmdb_id": 423538, "title": "The Tennessee Titans vs the Minnesota Vikings", "original_title": "The Tennessee Titans vs the Minnesota Vikings", "slug_title": "the-tennessee-titans-vs-the-minnesota-vikings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

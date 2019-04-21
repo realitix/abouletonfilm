@@ -1,0 +1,1 @@
+{"tmdb_id": 479168, "title": "The Lawyer", "original_title": "El Abogado", "slug_title": "the-lawyer", "date": "2016-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bnsn8LUnc2J0gyAKwUDXuFlYWkJ.jpg", "actors": ["Jordi Cadellans ()", "Jes\u00fas Luis Jim\u00e9nez ()"], "comments": [], "recommandations_id": []}

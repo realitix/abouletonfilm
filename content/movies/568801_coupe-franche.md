@@ -1,0 +1,1 @@
+{"tmdb_id": 568801, "title": "Coupe-franche", "original_title": "Coupe-franche", "slug_title": "coupe-franche", "date": "1989-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQt5XhjulvnIXu2YcFa7et69dRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

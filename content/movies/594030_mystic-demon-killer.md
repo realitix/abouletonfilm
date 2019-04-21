@@ -1,0 +1,1 @@
+{"tmdb_id": 594030, "title": "Mystic Demon Killer", "original_title": "Mystic Demon Killer", "slug_title": "mystic-demon-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

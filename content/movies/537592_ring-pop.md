@@ -1,0 +1,1 @@
+{"tmdb_id": 537592, "title": "Ring Pop", "original_title": "Ring Pop", "slug_title": "ring-pop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZX9xuCzpZbd5rQBDgnFopfj90Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

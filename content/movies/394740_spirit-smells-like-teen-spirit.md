@@ -1,0 +1,1 @@
+{"tmdb_id": 394740, "title": "Spirit (Smells Like Teen Spirit)", "original_title": "Spirit (Smells Like Teen Spirit)", "slug_title": "spirit-smells-like-teen-spirit", "date": "2007-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

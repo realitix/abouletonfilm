@@ -1,0 +1,1 @@
+{"tmdb_id": 317779, "title": "Noam Chomsky: The Mafia Principle of Global Hegemony", "original_title": "Noam Chomsky: The Mafia Principle of Global Hegemony", "slug_title": "noam-chomsky-the-mafia-principle-of-global-hegemony", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

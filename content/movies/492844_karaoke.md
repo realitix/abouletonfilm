@@ -1,0 +1,1 @@
+{"tmdb_id": 492844, "title": "Karaoke", "original_title": "Karaoke", "slug_title": "karaoke", "date": "2017-12-15", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bB4fnd6HijGt5oCT2R4WJr06GO.jpg", "actors": ["Amy Shelley (Vanessa)"], "comments": [], "recommandations_id": []}

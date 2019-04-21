@@ -1,0 +1,1 @@
+{"tmdb_id": 83590, "title": "The Red Cell", "original_title": "The Red Cell", "slug_title": "the-red-cell", "date": "2008-04-08", "genre": "Horreur / Thriller", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/likfV67oZ5xmGSjsFAs1MtMYnUz.jpg", "actors": [], "comments": [], "recommandations_id": [27826]}

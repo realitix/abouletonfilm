@@ -1,0 +1,1 @@
+{"tmdb_id": 292306, "title": "Sasu Numbri Jawai Dus Numbri", "original_title": "Sasu Numbri Jawai Dus Numbri", "slug_title": "sasu-numbri-jawai-dus-numbri", "date": "2008-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

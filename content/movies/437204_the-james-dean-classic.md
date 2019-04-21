@@ -1,0 +1,1 @@
+{"tmdb_id": 437204, "title": "The James Dean Classic", "original_title": "The James Dean Classic", "slug_title": "the-james-dean-classic", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4tcX1qTVtwGmOQCcGGn6lya8gb.jpg", "actors": [], "comments": [], "recommandations_id": []}

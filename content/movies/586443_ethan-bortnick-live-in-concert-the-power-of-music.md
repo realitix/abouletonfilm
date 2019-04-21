@@ -1,0 +1,1 @@
+{"tmdb_id": 586443, "title": "Ethan Bortnick Live in Concert: The Power of Music", "original_title": "Ethan Bortnick Live in Concert: The Power of Music", "slug_title": "ethan-bortnick-live-in-concert-the-power-of-music", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

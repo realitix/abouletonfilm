@@ -1,0 +1,1 @@
+{"tmdb_id": 570001, "title": "Ascending", "original_title": "Izranjanje", "slug_title": "ascending", "date": "2018-08-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lidija Kordi\u0107 (Sajra (credit only))"], "comments": [], "recommandations_id": []}

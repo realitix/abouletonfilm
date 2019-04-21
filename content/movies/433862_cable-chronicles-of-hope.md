@@ -1,0 +1,1 @@
+{"tmdb_id": 433862, "title": "Cable: Chronicles of Hope", "original_title": "Cable: Chronicles of Hope", "slug_title": "cable-chronicles-of-hope", "date": "2016-10-30", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36arfWDjWpIBEG6tFK2xj02HBm5.jpg", "actors": [], "comments": [], "recommandations_id": []}

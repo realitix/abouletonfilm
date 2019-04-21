@@ -1,0 +1,1 @@
+{"tmdb_id": 325546, "title": "O Saber Tradicional", "original_title": "O Saber Tradicional", "slug_title": "o-saber-tradicional", "date": "2003-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twCX600QPsC6Y2o10eZI5oYcfs3.jpg", "actors": [], "comments": [], "recommandations_id": []}

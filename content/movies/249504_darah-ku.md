@@ -1,0 +1,1 @@
+{"tmdb_id": 249504, "title": "Darah Ku", "original_title": "Darah Ku", "slug_title": "darah-ku", "date": "1963-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIVrpldJ5sc4PJN7z0CEg9uPrSN.jpg", "actors": ["Maria Menado ()", "Malek selamat ()"], "comments": [], "recommandations_id": []}

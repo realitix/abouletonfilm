@@ -1,0 +1,1 @@
+{"tmdb_id": 476914, "title": "Bhooth Haveli", "original_title": "Bhooth Haveli", "slug_title": "bhooth-haveli", "date": "2000-09-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTNjrvpls99ThqySLMDmfC2zq9l.jpg", "actors": ["Indrajit ()", "Lailasree ()", "Ram Mohan ()"], "comments": [], "recommandations_id": []}

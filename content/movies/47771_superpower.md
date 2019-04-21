@@ -1,0 +1,1 @@
+{"tmdb_id": 47771, "title": "Superpower", "original_title": "Superpower", "slug_title": "superpower", "date": "2008-08-28", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dAIVChdo4bGEdDD72yJG00H47Mt.jpg", "actors": [], "comments": [], "recommandations_id": []}

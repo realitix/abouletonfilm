@@ -1,0 +1,1 @@
+{"tmdb_id": 343132, "title": "Rudi Schokker huilt niet meer", "original_title": "Rudi Schokker huilt niet meer", "slug_title": "rudi-schokker-huilt-niet-meer", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

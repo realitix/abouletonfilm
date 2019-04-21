@@ -1,0 +1,1 @@
+{"tmdb_id": 353185, "title": "The Fairy of the Black Rocks", "original_title": "La f\u00e9e des roches noires", "slug_title": "the-fairy-of-the-black-rocks", "date": "1902-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

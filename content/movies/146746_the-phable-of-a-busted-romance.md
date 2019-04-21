@@ -1,0 +1,1 @@
+{"tmdb_id": 146746, "title": "The Phable of a Busted Romance", "original_title": "The Phable of a Busted Romance", "slug_title": "the-phable-of-a-busted-romance", "date": "1916-01-07", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

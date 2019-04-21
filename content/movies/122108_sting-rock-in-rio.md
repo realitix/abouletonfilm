@@ -1,0 +1,1 @@
+{"tmdb_id": 122108, "title": "Sting Rock In Rio", "original_title": "Sting Rock In Rio", "slug_title": "sting-rock-in-rio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

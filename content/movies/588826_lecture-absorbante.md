@@ -1,0 +1,1 @@
+{"tmdb_id": 588826, "title": "Lecture absorbante", "original_title": "Lecture absorbante", "slug_title": "lecture-absorbante", "date": "1911-03-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

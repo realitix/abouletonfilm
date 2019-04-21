@@ -1,0 +1,1 @@
+{"tmdb_id": 335656, "title": "Pure Bloodlines: Bloods Thicker Than Water", "original_title": "Pure Bloodlines: Bloods Thicker Than Water", "slug_title": "pure-bloodlines-bloods-thicker-than-water", "date": "2014-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

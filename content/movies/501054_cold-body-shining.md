@@ -1,0 +1,1 @@
+{"tmdb_id": 501054, "title": "Cold Body Shining", "original_title": "Cold Body Shining", "slug_title": "cold-body-shining", "date": "2017-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

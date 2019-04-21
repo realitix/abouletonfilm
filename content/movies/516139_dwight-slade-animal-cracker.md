@@ -1,0 +1,1 @@
+{"tmdb_id": 516139, "title": "Dwight Slade: Animal Cracker", "original_title": "Dwight Slade: Animal Cracker", "slug_title": "dwight-slade-animal-cracker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 99528, "title": "OTHERWORLDS #1 - DIMENSIONAL MELTDOWN", "original_title": "OTHERWORLDS #1 - DIMENSIONAL MELTDOWN", "slug_title": "otherworlds-1-dimensional-meltdown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

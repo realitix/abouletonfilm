@@ -1,0 +1,1 @@
+{"tmdb_id": 477140, "title": "The Gay Caballero", "original_title": "The Gay Caballero", "slug_title": "the-gay-caballero", "date": "1932-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

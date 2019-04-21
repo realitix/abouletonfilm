@@ -1,0 +1,1 @@
+{"tmdb_id": 72392, "title": "Bongja", "original_title": "\ubd09\uc790", "slug_title": "bongja", "date": "2000-11-25", "genre": "Com\u00e9die / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tzMbJZBXHEi9zb696kXAMha7TER.jpg", "actors": ["Seo Gap-suk (Park Bong-ja)", "Shim Yi-Young ()"], "comments": [], "recommandations_id": []}

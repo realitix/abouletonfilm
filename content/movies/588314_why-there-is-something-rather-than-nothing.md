@@ -1,0 +1,1 @@
+{"tmdb_id": 588314, "title": "Why there is something rather than nothing", "original_title": "Why there is something rather than nothing", "slug_title": "why-there-is-something-rather-than-nothing", "date": "2019-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

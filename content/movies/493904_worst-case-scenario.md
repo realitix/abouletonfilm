@@ -1,0 +1,1 @@
+{"tmdb_id": 493904, "title": "Worst-Case Scenario", "original_title": "Worst-Case Scenario", "slug_title": "worst-case-scenario", "date": "2014-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

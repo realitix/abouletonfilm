@@ -1,0 +1,1 @@
+{"tmdb_id": 432635, "title": "Terrafirma 2", "original_title": "Terrafirma 2", "slug_title": "terrafirma-2", "date": "1995-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0OI5Q9eo21iUmt4TACRf3glIKS.jpg", "actors": [], "comments": [], "recommandations_id": []}

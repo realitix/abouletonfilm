@@ -1,0 +1,1 @@
+{"tmdb_id": 55211, "title": "The Flirting Club", "original_title": "The Flirting Club", "slug_title": "the-flirting-club", "date": "2010-01-01", "genre": "Com\u00e9die", "score": "2.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjETmSjkdqSBHCUTRzAwdei4jDD.jpg", "actors": ["Richard Di Gregorio (Jamie)"], "comments": [], "recommandations_id": []}

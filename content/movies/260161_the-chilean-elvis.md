@@ -1,0 +1,1 @@
+{"tmdb_id": 260161, "title": "The Chilean Elvis", "original_title": "El Chilean Elvis", "slug_title": "the-chilean-elvis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

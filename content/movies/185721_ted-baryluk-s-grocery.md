@@ -1,0 +1,1 @@
+{"tmdb_id": 185721, "title": "Ted Baryluk's Grocery", "original_title": "Ted Baryluk's Grocery", "slug_title": "ted-baryluk-s-grocery", "date": "1982-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

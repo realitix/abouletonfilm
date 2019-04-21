@@ -1,0 +1,1 @@
+{"tmdb_id": 310656, "title": "It Happened By Chance Vol 6", "original_title": "It Happened By Chance Vol 6", "slug_title": "it-happened-by-chance-vol-6", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wH3y6IO1T3V5n5TUzL11PemWAzJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

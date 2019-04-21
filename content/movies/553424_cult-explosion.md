@@ -1,0 +1,1 @@
+{"tmdb_id": 553424, "title": "Cult Explosion", "original_title": "Cult Explosion", "slug_title": "cult-explosion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTA43mrWoHFg3zI9j4qLxUmqAqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

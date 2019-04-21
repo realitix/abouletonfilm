@@ -1,0 +1,1 @@
+{"tmdb_id": 397013, "title": "Cesar's Bark Canoe", "original_title": "C\u00e9sar et son canot d'\u00e9corce", "slug_title": "cesar-s-bark-canoe", "date": "1971-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 403935, "title": "Blackbird", "original_title": "Blackbird", "slug_title": "blackbird", "date": "2016-05-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ambyr Childers (Rose)", "Angela Sarafyan (Angel)", "Nick Caballero (Travis)"], "comments": [], "recommandations_id": []}

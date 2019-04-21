@@ -1,0 +1,1 @@
+{"tmdb_id": 420894, "title": "Tamara, La femme d'or", "original_title": "Tamara, La femme d'or", "slug_title": "tamara-la-femme-d-or", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isabel Russinova ()", "Sara Platania ()"], "comments": [], "recommandations_id": []}

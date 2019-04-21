@@ -1,0 +1,1 @@
+{"tmdb_id": 504154, "title": "Animation Has Changed", "original_title": "Animation Has Changed", "slug_title": "animation-has-changed", "date": "1971-01-02", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FiCgyROLVsdKABJEKMfnJfSHRe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 402203, "title": "Hercules the Human Bear", "original_title": "Hercules the Human Bear", "slug_title": "hercules-the-human-bear", "date": "2013-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qFsthV5vvf689RVTcqxJVQZIAH.jpg", "actors": [], "comments": [], "recommandations_id": []}

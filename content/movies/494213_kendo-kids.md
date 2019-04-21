@@ -1,0 +1,1 @@
+{"tmdb_id": 494213, "title": "Kendo Kids", "original_title": "\u7af9\u528d\u5c11\u5e74", "slug_title": "kendo-kids", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIV18pMjTq9o7Y0Hspwe5Jb6eUR.jpg", "actors": ["Lily Tien ()", "Yi Lung Lu ()"], "comments": [], "recommandations_id": []}

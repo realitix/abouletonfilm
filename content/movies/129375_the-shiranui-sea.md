@@ -1,0 +1,1 @@
+{"tmdb_id": 129375, "title": "The Shiranui Sea", "original_title": "Shiranuikai", "slug_title": "the-shiranui-sea", "date": "1975-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sdiMWBvI1zr9esSMYPdgVWb0Yhg.jpg", "actors": [], "comments": [], "recommandations_id": []}

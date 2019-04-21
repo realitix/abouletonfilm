@@ -1,0 +1,1 @@
+{"tmdb_id": 324597, "title": "Lyrical Doubt", "original_title": "Lyrical Doubt", "slug_title": "lyrical-doubt", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

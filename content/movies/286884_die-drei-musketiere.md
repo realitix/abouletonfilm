@@ -1,0 +1,1 @@
+{"tmdb_id": 286884, "title": "Die drei Musketiere", "original_title": "Die drei Musketiere", "slug_title": "die-drei-musketiere", "date": "1992-11-11", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyPmI04dD5vsgEH9rOB28bfd2FY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236267, "title": "Believe It or Else", "original_title": "Believe It or Else", "slug_title": "believe-it-or-else", "date": "1939-06-03", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnequRYbvn3zOx7ITT5hLqe7iL5.jpg", "actors": [], "comments": [], "recommandations_id": []}

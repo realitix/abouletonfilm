@@ -1,0 +1,1 @@
+{"tmdb_id": 463812, "title": "Scampolo", "original_title": "Scampolo", "slug_title": "scampolo", "date": "1928-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195578, "title": "Fumerie d'opium", "original_title": "Fumerie d'opium", "slug_title": "fumerie-d-opium", "date": "1901-01-01", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJR79Th25q883MgGdffKHx8HW0P.jpg", "actors": [], "comments": [], "recommandations_id": [193621, 231354, 194617, 195565]}

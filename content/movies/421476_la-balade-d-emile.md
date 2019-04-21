@@ -1,0 +1,1 @@
+{"tmdb_id": 421476, "title": "La Balade d'Emile", "original_title": "La Balade d'Emile", "slug_title": "la-balade-d-emile", "date": "1967-09-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

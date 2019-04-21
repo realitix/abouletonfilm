@@ -1,0 +1,1 @@
+{"tmdb_id": 94220, "title": "Disco Biscuits Live at Red Rocks Amphitheatre", "original_title": "Disco Biscuits Live at Red Rocks Amphitheatre", "slug_title": "disco-biscuits-live-at-red-rocks-amphitheatre", "date": "2010-05-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

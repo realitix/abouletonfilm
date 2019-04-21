@@ -1,0 +1,1 @@
+{"tmdb_id": 524548, "title": "The Case of: Caylee Anthony", "original_title": "The Case of: Caylee Anthony", "slug_title": "the-case-of-caylee-anthony", "date": "2018-05-19", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odRGjagOBSCOJBu2bRPB0kiyaQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

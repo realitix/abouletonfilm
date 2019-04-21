@@ -1,0 +1,1 @@
+{"tmdb_id": 355777, "title": "Woman In The Box 2", "original_title": "Woman In The Box 2", "slug_title": "woman-in-the-box-2", "date": "1988-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l5OA6mkfATwJcSORahfKvGZl3y9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 461539, "title": "Best Of Havoc #1", "original_title": "Best Of Havoc #1", "slug_title": "best-of-havoc-1", "date": "2001-06-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JL53bxFRARLewpXdbo7DIRQhps.jpg", "actors": ["Richard Nichols (Comentator)"], "comments": [], "recommandations_id": []}

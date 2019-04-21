@@ -1,0 +1,1 @@
+{"tmdb_id": 314827, "title": "Bitter Art", "original_title": "Bitter Art", "slug_title": "bitter-art", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

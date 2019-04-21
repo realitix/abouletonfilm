@@ -1,0 +1,1 @@
+{"tmdb_id": 579014, "title": "Die Frau am Pranger", "original_title": "Die Frau am Pranger", "slug_title": "die-frau-am-pranger", "date": "1962-01-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karla Runkehl (Katrin)", "Hilmar Thate (Alexej)"], "comments": [], "recommandations_id": []}

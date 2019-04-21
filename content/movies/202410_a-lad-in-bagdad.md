@@ -1,0 +1,1 @@
+{"tmdb_id": 202410, "title": "A Lad in Bagdad", "original_title": "A Lad in Bagdad", "slug_title": "a-lad-in-bagdad", "date": "1968-08-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4K1D6Mu7E36hJ472QjLbgQczBZ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

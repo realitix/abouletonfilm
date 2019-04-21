@@ -1,0 +1,1 @@
+{"tmdb_id": 553964, "title": "Dailies from Dumpland", "original_title": "Dailies from Dumpland", "slug_title": "dailies-from-dumpland", "date": "2018-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

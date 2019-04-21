@@ -1,0 +1,1 @@
+{"tmdb_id": 561513, "title": "Ce sacr\u00e9 Am\u00e9d\u00e9e", "original_title": "Ce sacr\u00e9 Am\u00e9d\u00e9e", "slug_title": "ce-sacre-amedee", "date": "1957-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdxR3EXkzACVuSfpYeAG8Cytz9a.jpg", "actors": [], "comments": [], "recommandations_id": []}

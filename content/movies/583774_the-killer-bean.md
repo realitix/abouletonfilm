@@ -1,0 +1,1 @@
+{"tmdb_id": 583774, "title": "The Killer Bean", "original_title": "The Killer Bean", "slug_title": "the-killer-bean", "date": "1996-02-21", "genre": "Animation / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

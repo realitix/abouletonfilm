@@ -1,0 +1,1 @@
+{"tmdb_id": 440074, "title": "Otona ni natta natsu", "original_title": "Otona ni natta natsu", "slug_title": "otona-ni-natta-natsu", "date": "2012-06-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iMMPsGYF6JzO1uZr6gTLXN4me4f.jpg", "actors": [], "comments": [], "recommandations_id": []}

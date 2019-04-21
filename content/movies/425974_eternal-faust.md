@@ -1,0 +1,1 @@
+{"tmdb_id": 425974, "title": "Eternal Faust", "original_title": "M\u016b\u017e\u012bgais Fausts", "slug_title": "eternal-faust", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

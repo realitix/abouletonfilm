@@ -1,0 +1,1 @@
+{"tmdb_id": 97651, "title": "Sweetheart of the Fleet", "original_title": "Sweetheart of the Fleet", "slug_title": "sweetheart-of-the-fleet", "date": "1942-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fwrggS6A0Zp7wyI0Oh0Iz1ZxO2t.jpg", "actors": [], "comments": [], "recommandations_id": []}

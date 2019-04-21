@@ -1,0 +1,1 @@
+{"tmdb_id": 36128, "title": "24 Hours Berlin", "original_title": "24 h Berlin - Ein Tag im Leben", "slug_title": "24-hours-berlin", "date": "2009-09-05", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pZfAKpalUlcuXLf8LKp7OJesMp6.jpg", "actors": [], "comments": [], "recommandations_id": []}

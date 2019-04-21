@@ -1,0 +1,1 @@
+{"tmdb_id": 219374, "title": "\u00c1kos: Ar\u00e9nakoncert 2011", "original_title": "\u00c1kos: Ar\u00e9nakoncert 2011", "slug_title": "akos-arenakoncert-2011", "date": "", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3VIIY5ooxC7cc7dcjBtjdubmvm.jpg", "actors": [], "comments": [], "recommandations_id": []}

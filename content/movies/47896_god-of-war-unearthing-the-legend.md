@@ -1,0 +1,1 @@
+{"tmdb_id": 47896, "title": "God Of War: Unearthing the Legend", "original_title": "God Of War: Unearthing the Legend", "slug_title": "god-of-war-unearthing-the-legend", "date": "2010-03-16", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

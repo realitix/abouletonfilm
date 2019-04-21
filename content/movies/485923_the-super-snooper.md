@@ -1,0 +1,1 @@
+{"tmdb_id": 485923, "title": "The Super Snooper", "original_title": "The Super Snooper", "slug_title": "the-super-snooper", "date": "1937-02-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["El Brendel ()", "Monte Collins ()"], "comments": [], "recommandations_id": []}

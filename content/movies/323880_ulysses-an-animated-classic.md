@@ -1,0 +1,1 @@
+{"tmdb_id": 323880, "title": "Ulysses: An Animated Classic", "original_title": "Ulysses: An Animated Classic", "slug_title": "ulysses-an-animated-classic", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

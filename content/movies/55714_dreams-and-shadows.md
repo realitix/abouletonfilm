@@ -1,0 +1,1 @@
+{"tmdb_id": 55714, "title": "Dreams and Shadows", "original_title": "Dreams and Shadows", "slug_title": "dreams-and-shadows", "date": "2009-10-02", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bH6NOcwPsXjXfhTcmC7MVcIwyaW.jpg", "actors": [], "comments": [], "recommandations_id": []}

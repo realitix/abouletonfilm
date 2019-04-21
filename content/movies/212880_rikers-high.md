@@ -1,0 +1,1 @@
+{"tmdb_id": 212880, "title": "Rikers High", "original_title": "Rikers High", "slug_title": "rikers-high", "date": "2005-04-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmbKshnRiSbqdyzCaHNgrMrLQbN.jpg", "actors": [], "comments": [], "recommandations_id": []}

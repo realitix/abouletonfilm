@@ -1,0 +1,1 @@
+{"tmdb_id": 546818, "title": "Ryoanji", "original_title": "Ryoanji", "slug_title": "ryoanji", "date": "1990-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

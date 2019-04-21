@@ -1,0 +1,1 @@
+{"tmdb_id": 371372, "title": "Kyutai Panic Adventure Returns!", "original_title": "Kyutai Panic Adventure Returns!", "slug_title": "kyutai-panic-adventure-returns", "date": "2004-01-01", "genre": "Action / Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 467024, "title": "Kantou daishin taika jikkyou", "original_title": "Kantou daishin taika jikkyou", "slug_title": "kantou-daishin-taika-jikkyou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

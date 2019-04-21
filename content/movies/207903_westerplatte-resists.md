@@ -1,0 +1,1 @@
+{"tmdb_id": 207903, "title": "Westerplatte Resists", "original_title": "Westerplatte", "slug_title": "westerplatte-resists", "date": "1967-08-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kilBBhtjnaHluKIY8Biuo7rzapC.jpg", "actors": [], "comments": [], "recommandations_id": []}

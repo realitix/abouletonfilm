@@ -1,0 +1,1 @@
+{"tmdb_id": 568681, "title": "La Bala de Sandoval", "original_title": "La Bala de Sandoval", "slug_title": "la-bala-de-sandoval", "date": "2019-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bumNay4QzI4rOTc0WMUHo3Xuut7.jpg", "actors": [], "comments": [], "recommandations_id": []}

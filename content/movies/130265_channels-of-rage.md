@@ -1,0 +1,1 @@
+{"tmdb_id": 130265, "title": "Channels of Rage", "original_title": "Arotzim Shel Za'am", "slug_title": "channels-of-rage", "date": "2003-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

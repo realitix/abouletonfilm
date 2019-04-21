@@ -1,0 +1,1 @@
+{"tmdb_id": 564754, "title": "Personal Trainer", "original_title": "Personal Trainer", "slug_title": "personal-trainer", "date": "2011-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lY8SkRurmVJskemCWOCNru57dpK.jpg", "actors": ["Tyler St.James ()", "Tyr Alexander ()"], "comments": [], "recommandations_id": []}

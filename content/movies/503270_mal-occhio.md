@@ -1,0 +1,1 @@
+{"tmdb_id": 503270, "title": "Mal'Occhio", "original_title": "Mal'Occhio", "slug_title": "mal-occhio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471341, "title": "Day of Days", "original_title": "Day of Days", "slug_title": "day-of-days", "date": "2017-08-15", "genre": "Drame", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tj6v8SCbxHr6Zisas9luJqtPw9O.jpg", "actors": ["Tom Skerritt (Walter)", "Claudia Zevallos (Marisol)"], "comments": [], "recommandations_id": []}

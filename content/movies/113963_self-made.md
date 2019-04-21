@@ -1,0 +1,1 @@
+{"tmdb_id": 113963, "title": "Self Made", "original_title": "Self Made", "slug_title": "self-made", "date": "2011-09-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AkIBtUFUzQJ7ml68DivzhntjMW8.jpg", "actors": [], "comments": [], "recommandations_id": []}

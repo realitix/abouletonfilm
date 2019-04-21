@@ -1,0 +1,1 @@
+{"tmdb_id": 464935, "title": "Cantantes en Guerra", "original_title": "Cantantes en Guerra", "slug_title": "cantantes-en-guerra", "date": "2017-07-13", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iHUW1tUUy5QRbko8Btm14uboGFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

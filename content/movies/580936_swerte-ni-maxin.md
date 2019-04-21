@@ -1,0 +1,1 @@
+{"tmdb_id": 580936, "title": "Swerte Ni Maxin", "original_title": "Swerte Ni Maxin", "slug_title": "swerte-ni-maxin", "date": "2011-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCy51ZXFxZOPaSt68pwZtkg1XXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

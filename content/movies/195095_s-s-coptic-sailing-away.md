@@ -1,0 +1,1 @@
+{"tmdb_id": 195095, "title": "S.S. 'Coptic' Sailing Away", "original_title": "S.S. 'Coptic' Sailing Away", "slug_title": "s-s-coptic-sailing-away", "date": "1897-09-30", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tnXUOB2It3eC5juEjIu3XYX32Pp.jpg", "actors": [], "comments": [], "recommandations_id": []}

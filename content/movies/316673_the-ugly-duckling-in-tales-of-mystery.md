@@ -1,0 +1,1 @@
+{"tmdb_id": 316673, "title": "The Ugly Duckling in Tales of Mystery", "original_title": "The Ugly Duckling in Tales of Mystery", "slug_title": "the-ugly-duckling-in-tales-of-mystery", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

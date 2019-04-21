@@ -1,0 +1,1 @@
+{"tmdb_id": 124215, "title": "Bamses Gemme-\u00e6ske", "original_title": "Bamses Gemme-\u00e6ske", "slug_title": "bamses-gemme-aeske", "date": "2006-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GM9jUQqs0pMGBdgAdN3t4TZqNT.jpg", "actors": [], "comments": [], "recommandations_id": []}

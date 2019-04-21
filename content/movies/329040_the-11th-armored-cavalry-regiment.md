@@ -1,0 +1,1 @@
+{"tmdb_id": 329040, "title": "The 11th Armored Cavalry Regiment", "original_title": "The 11th Armored Cavalry Regiment", "slug_title": "the-11th-armored-cavalry-regiment", "date": "1969-01-01", "genre": "Histoire / Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

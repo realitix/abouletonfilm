@@ -1,0 +1,1 @@
+{"tmdb_id": 325465, "title": "JUGGS Live: Going a Little Blue / Balls to the Wal", "original_title": "JUGGS Live: Going a Little Blue / Balls to the Wal", "slug_title": "juggs-live-going-a-little-blue-balls-to-the-wal", "date": "2014-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

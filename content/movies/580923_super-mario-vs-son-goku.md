@@ -1,0 +1,1 @@
+{"tmdb_id": 580923, "title": "Super Mario vs. Son Goku", "original_title": "Si Mario at Si Goko", "slug_title": "super-mario-vs-son-goku", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMCc0hdC7KxiuYrfLE144pezngS.jpg", "actors": [], "comments": [], "recommandations_id": []}

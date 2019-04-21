@@ -1,0 +1,1 @@
+{"tmdb_id": 531576, "title": "Bad Peter", "original_title": "Bad Peter", "slug_title": "bad-peter", "date": "2018-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKeWKNmzZwr2HcMAtEY5UYIiFVw.jpg", "actors": ["Frankie Shaw (Rachel)", "Ross Partridge (Peter (voice))"], "comments": [], "recommandations_id": []}

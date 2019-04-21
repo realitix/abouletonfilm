@@ -1,0 +1,1 @@
+{"tmdb_id": 398210, "title": "Il lato Sbagliato del Ponte", "original_title": "Il lato Sbagliato del Ponte", "slug_title": "il-lato-sbagliato-del-ponte", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

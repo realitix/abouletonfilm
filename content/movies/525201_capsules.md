@@ -1,0 +1,1 @@
+{"tmdb_id": 525201, "title": "Capsules", "original_title": "Capsules", "slug_title": "capsules", "date": "2017-08-15", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDaMa4EBvjEuoxznq2bg4V7SdU8.jpg", "actors": [], "comments": [], "recommandations_id": []}

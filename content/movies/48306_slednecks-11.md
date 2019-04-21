@@ -1,0 +1,1 @@
+{"tmdb_id": 48306, "title": "Slednecks 11", "original_title": "Slednecks 11", "slug_title": "slednecks-11", "date": "2008-01-01", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uSxsosCOg65j78FB4Ik2h8edSme.jpg", "actors": [], "comments": [], "recommandations_id": []}

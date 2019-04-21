@@ -1,0 +1,1 @@
+{"tmdb_id": 511160, "title": "Population Explosion", "original_title": "Population Explosion", "slug_title": "population-explosion", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

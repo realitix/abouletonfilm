@@ -1,0 +1,1 @@
+{"tmdb_id": 415445, "title": "The Glass Coffin", "original_title": "El ata\u00fad de cristal", "slug_title": "the-glass-coffin", "date": "2016-09-30", "genre": "Thriller", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VnpOHSFxAZjmIMiNMLhUzVAcIT.jpg", "actors": ["Paola Bontempi ()"], "comments": [], "recommandations_id": []}

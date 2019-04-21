@@ -1,0 +1,1 @@
+{"tmdb_id": 315701, "title": "Killer Presentation Skills Second Edition", "original_title": "Killer Presentation Skills Second Edition", "slug_title": "killer-presentation-skills-second-edition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

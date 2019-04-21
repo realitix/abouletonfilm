@@ -1,0 +1,1 @@
+{"tmdb_id": 304980, "title": "Goodu Putani", "original_title": "Goodu Putani", "slug_title": "goodu-putani", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

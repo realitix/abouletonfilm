@@ -1,0 +1,1 @@
+{"tmdb_id": 455273, "title": "Babe, I Hate To Go", "original_title": "Babe, I Hate To Go", "slug_title": "babe-i-hate-to-go", "date": "2017-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

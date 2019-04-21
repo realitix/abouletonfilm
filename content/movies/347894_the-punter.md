@@ -1,0 +1,1 @@
+{"tmdb_id": 347894, "title": "The Punter", "original_title": "The Punter", "slug_title": "the-punter", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

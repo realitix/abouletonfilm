@@ -1,0 +1,1 @@
+{"tmdb_id": 285779, "title": "Pelikula", "original_title": "Pelikula", "slug_title": "pelikula", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Red ()"], "comments": [], "recommandations_id": []}

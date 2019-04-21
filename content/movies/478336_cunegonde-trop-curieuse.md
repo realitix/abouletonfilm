@@ -1,0 +1,1 @@
+{"tmdb_id": 478336, "title": "Cun\u00e9gonde trop curieuse", "original_title": "Cun\u00e9gonde trop curieuse", "slug_title": "cunegonde-trop-curieuse", "date": "1912-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

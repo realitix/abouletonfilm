@@ -1,0 +1,1 @@
+{"tmdb_id": 389656, "title": "Le silence de l'\u00e9t\u00e9", "original_title": "Le silence de l'\u00e9t\u00e9", "slug_title": "le-silence-de-l-ete", "date": "1993-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amira Casar ()"], "comments": [], "recommandations_id": []}

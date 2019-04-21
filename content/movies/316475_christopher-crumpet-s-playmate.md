@@ -1,0 +1,1 @@
+{"tmdb_id": 316475, "title": "Christopher Crumpet's Playmate", "original_title": "Christopher Crumpet's Playmate", "slug_title": "christopher-crumpet-s-playmate", "date": "1955-09-07", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 551678, "title": "The Plaits", "original_title": "Pletenice", "slug_title": "the-plaits", "date": "1974-01-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83UGK34iQ4a1RCP1vLYE7K4q2Bm.jpg", "actors": [], "comments": [], "recommandations_id": []}

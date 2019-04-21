@@ -1,0 +1,1 @@
+{"tmdb_id": 458839, "title": "Jezebel", "original_title": "Jezebel", "slug_title": "jezebel", "date": "1979-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQC6BWYDERtSUvQjC8ECbj9UH4e.jpg", "actors": ["Pat Manning (Jezebel)", "Maria Tortuga (Gypsy)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522641, "title": "Battle of The Bikes", "original_title": "Battle of The Bikes", "slug_title": "battle-of-the-bikes", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

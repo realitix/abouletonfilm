@@ -1,0 +1,1 @@
+{"tmdb_id": 317633, "title": "Chhoti Bahu", "original_title": "Chhoti Bahu", "slug_title": "chhoti-bahu", "date": "1971-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2FBr1dqdmS1uw2PtljjGiitFs4.jpg", "actors": ["Rajesh Khanna ()", "Sharmila Tagore ()", "Nirupa Roy ()"], "comments": [], "recommandations_id": []}

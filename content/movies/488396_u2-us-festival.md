@@ -1,0 +1,1 @@
+{"tmdb_id": 488396, "title": "U2- US Festival", "original_title": "U2- US Festival", "slug_title": "u2-us-festival", "date": "1983-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5nmPsRh2bvI7Itq59ElEPoMiMoW.jpg", "actors": [], "comments": [], "recommandations_id": []}

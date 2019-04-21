@@ -1,0 +1,1 @@
+{"tmdb_id": 318833, "title": "The South Bank Show: Werner Herzog", "original_title": "The South Bank Show: Werner Herzog", "slug_title": "the-south-bank-show-werner-herzog", "date": "1982-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Werner Herzog ()", "Lotte Eisner ()"], "comments": [], "recommandations_id": []}

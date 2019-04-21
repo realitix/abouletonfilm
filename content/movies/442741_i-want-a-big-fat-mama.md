@@ -1,0 +1,1 @@
+{"tmdb_id": 442741, "title": "I Want a Big Fat Mama", "original_title": "I Want a Big Fat Mama", "slug_title": "i-want-a-big-fat-mama", "date": "1941-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucky Millinder (Himself / Bandleader)"], "comments": [], "recommandations_id": []}

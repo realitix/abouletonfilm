@@ -1,0 +1,1 @@
+{"tmdb_id": 213461, "title": "Hard Problems", "original_title": "Hard Problems", "slug_title": "hard-problems", "date": "2008-01-08", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7DMyCf9e9IR2awpdopWXg6Lz6G6.jpg", "actors": [], "comments": [], "recommandations_id": []}

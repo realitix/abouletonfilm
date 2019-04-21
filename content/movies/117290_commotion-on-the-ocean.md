@@ -1,0 +1,1 @@
+{"tmdb_id": 117290, "title": "Commotion On The Ocean", "original_title": "Commotion On The Ocean", "slug_title": "commotion-on-the-ocean", "date": "1956-11-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fine (Larry)", "Shemp Howard (Shemp)", "Moe Howard ()"], "comments": [], "recommandations_id": []}

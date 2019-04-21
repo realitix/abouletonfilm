@@ -1,0 +1,1 @@
+{"tmdb_id": 504762, "title": "The Rise and Fall of El Chapo", "original_title": "The Rise and Fall of El Chapo", "slug_title": "the-rise-and-fall-of-el-chapo", "date": "2016-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

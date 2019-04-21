@@ -1,0 +1,1 @@
+{"tmdb_id": 562256, "title": "Dinosaurs", "original_title": "Dinosaurs", "slug_title": "dinosaurs", "date": "2018-12-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jtT0YIZ5AxmMf2eBALU8oCVoBbB.jpg", "actors": [], "comments": [], "recommandations_id": []}

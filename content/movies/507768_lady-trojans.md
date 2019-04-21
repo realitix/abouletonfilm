@@ -1,0 +1,1 @@
+{"tmdb_id": 507768, "title": "Lady Trojans", "original_title": "Lady Trojans", "slug_title": "lady-trojans", "date": "2008-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrTnUtz0z34UyQzOLiH9RTAVHkz.jpg", "actors": [], "comments": [], "recommandations_id": []}

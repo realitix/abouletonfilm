@@ -1,0 +1,1 @@
+{"tmdb_id": 594150, "title": "L.A. Tea Time", "original_title": "L.A. Tea Time", "slug_title": "l-a-tea-time", "date": "2019-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

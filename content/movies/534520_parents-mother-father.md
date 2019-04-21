@@ -1,0 +1,1 @@
+{"tmdb_id": 534520, "title": "Parents (Mother/Father)", "original_title": "Parents (Mother/Father)", "slug_title": "parents-mother-father", "date": "1999-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

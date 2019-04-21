@@ -1,0 +1,1 @@
+{"tmdb_id": 364472, "title": "The Best of Cinerama", "original_title": "The Best of Cinerama", "slug_title": "the-best-of-cinerama", "date": "1963-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7aeV69RuPhAi3K679xcFJKTVXd.jpg", "actors": ["Lowell Thomas (Narrator)"], "comments": [], "recommandations_id": []}

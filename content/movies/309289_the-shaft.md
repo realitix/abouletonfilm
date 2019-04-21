@@ -1,0 +1,1 @@
+{"tmdb_id": 309289, "title": "The Shaft", "original_title": "\u5730\u4e0b\u7684\u5929\u7a7a", "slug_title": "the-shaft", "date": "2008-07-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2L4uYdgsruCFw8ueLTFdx7NyMdM.jpg", "actors": ["Huang Xuan (Jingsheng)"], "comments": [], "recommandations_id": []}

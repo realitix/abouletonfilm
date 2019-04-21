@@ -1,0 +1,1 @@
+{"tmdb_id": 235039, "title": "Coming Out Under Fire", "original_title": "Coming Out Under Fire", "slug_title": "coming-out-under-fire", "date": "1994-01-01", "genre": "Documentaire / Guerre", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLjrSIGD4HHROVaCLmUfyoTz4Ov.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 417310, "title": "He Knows Gwanghwamun Well", "original_title": "\uad11\ud654\ubb38\ud1b5 \uc544\uc774", "slug_title": "he-knows-gwanghwamun-well", "date": "1977-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

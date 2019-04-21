@@ -1,0 +1,1 @@
+{"tmdb_id": 345049, "title": "Mis-Takes", "original_title": "Mis-Takes", "slug_title": "mis-takes", "date": "1972-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dNtpHpd6kQHHw0Hh1PmqPHf7KW.jpg", "actors": [], "comments": [], "recommandations_id": []}

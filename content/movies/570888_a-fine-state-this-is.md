@@ -1,0 +1,1 @@
+{"tmdb_id": 570888, "title": "A Fine State This Is", "original_title": "A Fine State This Is", "slug_title": "a-fine-state-this-is", "date": "2003-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Deborah Fargo Whitman (Self)"], "comments": [], "recommandations_id": []}

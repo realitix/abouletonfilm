@@ -1,0 +1,1 @@
+{"tmdb_id": 272517, "title": "Rich in Spirit", "original_title": "Rich in Spirit", "slug_title": "rich-in-spirit", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

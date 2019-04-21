@@ -1,0 +1,1 @@
+{"tmdb_id": 174898, "title": "Policy and Pie", "original_title": "Policy and Pie", "slug_title": "policy-and-pie", "date": "1918-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

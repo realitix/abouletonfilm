@@ -1,0 +1,1 @@
+{"tmdb_id": 288541, "title": "She Even Chewed Tobacco", "original_title": "She Even Chewed Tobacco", "slug_title": "she-even-chewed-tobacco", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

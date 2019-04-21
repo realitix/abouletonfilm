@@ -1,0 +1,1 @@
+{"tmdb_id": 118569, "title": "Men of the City", "original_title": "Men of the City", "slug_title": "men-of-the-city", "date": "2009-10-24", "genre": "Documentaire / Drame", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g1ufIQeXs3JVEFkXsy7RDKKQJqH.jpg", "actors": [], "comments": [], "recommandations_id": []}

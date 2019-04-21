@@ -1,0 +1,1 @@
+{"tmdb_id": 264528, "title": "Istanbul Chorus", "original_title": "Istanbul Chorus", "slug_title": "istanbul-chorus", "date": "2011-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rWL8Nx364fw8jbYcNFuGIOXO6j.jpg", "actors": [], "comments": [], "recommandations_id": []}

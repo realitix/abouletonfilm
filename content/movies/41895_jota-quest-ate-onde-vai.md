@@ -1,0 +1,1 @@
+{"tmdb_id": 41895, "title": "Jota Quest - At\u00e9 Onde Vai", "original_title": "Jota Quest - At\u00e9 Onde Vai", "slug_title": "jota-quest-ate-onde-vai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GiyiakpFez6CkUBb13dMTgP3k2.jpg", "actors": [], "comments": [], "recommandations_id": []}

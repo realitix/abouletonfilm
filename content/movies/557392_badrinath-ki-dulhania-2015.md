@@ -1,0 +1,1 @@
+{"tmdb_id": 557392, "title": "Badrinath Ki Dulhania 2015", "original_title": "Badrinath Ki Dulhania 2015", "slug_title": "badrinath-ki-dulhania-2015", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

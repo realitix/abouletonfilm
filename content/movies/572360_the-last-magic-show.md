@@ -1,0 +1,1 @@
+{"tmdb_id": 572360, "title": "The Last Magic Show", "original_title": "The Last Magic Show", "slug_title": "the-last-magic-show", "date": "2019-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3e7KpHHJlfsiyQUEfMt1b0kAOJ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

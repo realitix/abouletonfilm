@@ -1,0 +1,1 @@
+{"tmdb_id": 389825, "title": "Accidental Waltz", "original_title": "Sluchaynyy Vals", "slug_title": "accidental-waltz", "date": "1990-03-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdDnqp7Rjv47DL5hyis5FDvfxO2.jpg", "actors": [], "comments": [], "recommandations_id": []}

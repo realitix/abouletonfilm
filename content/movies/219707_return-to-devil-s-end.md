@@ -1,0 +1,1 @@
+{"tmdb_id": 219707, "title": "Return to Devil's End", "original_title": "Return to Devil's End", "slug_title": "return-to-devil-s-end", "date": "1993-01-30", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EJJGxIddyn4ge5zXJpaZ4GYRCQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

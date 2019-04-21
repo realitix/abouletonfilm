@@ -1,0 +1,1 @@
+{"tmdb_id": 325374, "title": "Baghdad Twist", "original_title": "Baghdad Twist", "slug_title": "baghdad-twist", "date": "2008-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

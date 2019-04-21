@@ -1,0 +1,1 @@
+{"tmdb_id": 291774, "title": "Kenya 3D: Animal Kingdom", "original_title": "Kenya 3D: Animal Kingdom", "slug_title": "kenya-3d-animal-kingdom", "date": "2013-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVFQh76LcMZT9c9X8GXf7etWVjk.jpg", "actors": [], "comments": [], "recommandations_id": []}

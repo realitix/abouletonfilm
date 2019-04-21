@@ -1,0 +1,1 @@
+{"tmdb_id": 530383, "title": "Can't Nobody Else Love You", "original_title": "Can't Nobody Else Love You", "slug_title": "can-t-nobody-else-love-you", "date": "2018-05-14", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXmioD0GOaPquOLvRIQvgLYDYzq.jpg", "actors": [], "comments": [], "recommandations_id": []}

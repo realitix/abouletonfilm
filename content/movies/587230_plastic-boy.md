@@ -1,0 +1,1 @@
+{"tmdb_id": 587230, "title": "Plastic Boy", "original_title": "Plastic Boy", "slug_title": "plastic-boy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

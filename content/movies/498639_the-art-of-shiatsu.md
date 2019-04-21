@@ -1,0 +1,1 @@
+{"tmdb_id": 498639, "title": "The Art of Shiatsu", "original_title": "The Art of Shiatsu", "slug_title": "the-art-of-shiatsu", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

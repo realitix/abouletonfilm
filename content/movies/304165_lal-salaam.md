@@ -1,0 +1,1 @@
+{"tmdb_id": 304165, "title": "Lal Salaam", "original_title": "Lal Salaam", "slug_title": "lal-salaam", "date": "2002-05-03", "genre": "Action / Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

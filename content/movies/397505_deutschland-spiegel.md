@@ -1,0 +1,1 @@
+{"tmdb_id": 397505, "title": "Deutschland Spiegel", "original_title": "Deutschland Spiegel", "slug_title": "deutschland-spiegel", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nimbus Couzin ()"], "comments": [], "recommandations_id": []}

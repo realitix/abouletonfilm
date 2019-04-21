@@ -1,0 +1,1 @@
+{"tmdb_id": 285951, "title": "The Beautiful Leukanida", "original_title": "Prekrasnaya Lyukanida", "slug_title": "the-beautiful-leukanida", "date": "1912-04-25", "genre": "Drame / Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1g0wvz9XvEa4lx0ksH2faRLEPHD.jpg", "actors": [], "comments": [], "recommandations_id": []}

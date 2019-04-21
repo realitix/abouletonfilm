@@ -1,0 +1,1 @@
+{"tmdb_id": 202553, "title": "Els oblidats dels oblidats", "original_title": "Els oblidats dels oblidats", "slug_title": "els-oblidats-dels-oblidats", "date": "2011-11-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seGyZVsPf21QKTZmEI3llHOYtc3.jpg", "actors": [], "comments": [], "recommandations_id": []}

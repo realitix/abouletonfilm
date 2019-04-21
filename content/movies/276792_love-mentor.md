@@ -1,0 +1,1 @@
+{"tmdb_id": 276792, "title": "Love Mentor", "original_title": "\ub7ec\ube0c\uba58\ud1a0", "slug_title": "love-mentor", "date": "2014-04-17", "genre": "Romance / Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s1EjLGVBRhNK2iFJeLGSXbn23Ov.jpg", "actors": [], "comments": [], "recommandations_id": []}

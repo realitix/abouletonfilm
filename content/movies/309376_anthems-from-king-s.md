@@ -1,0 +1,1 @@
+{"tmdb_id": 309376, "title": "Anthems from King's", "original_title": "Anthems from King's", "slug_title": "anthems-from-king-s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

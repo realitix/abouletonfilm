@@ -1,0 +1,1 @@
+{"tmdb_id": 149620, "title": "Musical Mutiny", "original_title": "Musical Mutiny", "slug_title": "musical-mutiny", "date": "1970-05-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o49D6plp9pUbLB68TxGj7FeBFfA.jpg", "actors": ["Iron Butterfly ()", "Brad F. Grinter ()"], "comments": [], "recommandations_id": []}

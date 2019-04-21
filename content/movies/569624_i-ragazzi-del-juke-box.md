@@ -1,0 +1,1 @@
+{"tmdb_id": 569624, "title": "I ragazzi del juke-box", "original_title": "I ragazzi del juke-box", "slug_title": "i-ragazzi-del-juke-box", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkNOZ850Dt7Otx2PAIhz206kWY8.jpg", "actors": [], "comments": [], "recommandations_id": []}

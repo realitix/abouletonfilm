@@ -1,0 +1,1 @@
+{"tmdb_id": 108780, "title": "Mrs. Amworth", "original_title": "Mrs. Amworth", "slug_title": "mrs-amworth", "date": "2007-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tN8otyUxfNanQtgQPiwNF6D1vyu.jpg", "actors": [], "comments": [], "recommandations_id": []}

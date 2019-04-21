@@ -1,0 +1,1 @@
+{"tmdb_id": 531792, "title": "The Da Vinci Cup", "original_title": "The Da Vinci Cup", "slug_title": "the-da-vinci-cup", "date": "2006-01-01", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBFDCv9DCos6H3vwrRswlVAlWeN.jpg", "actors": [], "comments": [], "recommandations_id": []}

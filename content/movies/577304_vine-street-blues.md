@@ -1,0 +1,1 @@
+{"tmdb_id": 577304, "title": "Vine Street Blues", "original_title": "Vine Street Blues", "slug_title": "vine-street-blues", "date": "1943-01-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wingy Manone (Himself / Bandleader / Trumpeter / Singer)", "Ann Lee (Herself / Singer)"], "comments": [], "recommandations_id": []}

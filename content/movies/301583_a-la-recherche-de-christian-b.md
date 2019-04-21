@@ -1,0 +1,1 @@
+{"tmdb_id": 301583, "title": "\u00c0 la recherche de Christian B.", "original_title": "\u00c0 la recherche de Christian B.", "slug_title": "a-la-recherche-de-christian-b", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

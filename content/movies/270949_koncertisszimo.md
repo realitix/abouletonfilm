@@ -1,0 +1,1 @@
+{"tmdb_id": 270949, "title": "Koncertisszimo", "original_title": "Koncertisszimo", "slug_title": "koncertisszimo", "date": "1968-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vljSt7MM1llIkrrzECgtUNbOD9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

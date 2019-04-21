@@ -1,0 +1,1 @@
+{"tmdb_id": 475878, "title": "The Legionnaire", "original_title": "Il legionario", "slug_title": "the-legionnaire", "date": "2017-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Germano Gentile ()", "Federico Lima Roque ()", "Francesco Acquaroli ()"], "comments": [], "recommandations_id": []}

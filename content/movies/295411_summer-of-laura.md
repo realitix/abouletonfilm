@@ -1,0 +1,1 @@
+{"tmdb_id": 295411, "title": "Summer of Laura", "original_title": "Summer of Laura", "slug_title": "summer-of-laura", "date": "1976-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dl84ml1Btw8kbneZJS7nnXZ3dv.jpg", "actors": ["Marsha Moon (Laura)", "Eric Edwards (Gene)"], "comments": [], "recommandations_id": []}

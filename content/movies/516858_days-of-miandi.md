@@ -1,0 +1,1 @@
+{"tmdb_id": 516858, "title": "Days of Miandi", "original_title": "Days of Miandi", "slug_title": "days-of-miandi", "date": "1996-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

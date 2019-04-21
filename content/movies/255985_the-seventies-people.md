@@ -1,0 +1,1 @@
+{"tmdb_id": 255985, "title": "The Seventies People", "original_title": "70'ernes folk", "slug_title": "the-seventies-people", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEQT15fkXsL7jYL7AXFZQhPxl0s.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512521, "title": "Rivi\u00e8re 0 / River 0", "original_title": "Rivi\u00e8re 0 / River 0", "slug_title": "riviere-0-river-0", "date": "2002-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9r6JQCRTj9CtJp32BLRar4vMkb5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 439514, "title": "Amazona", "original_title": "Amazona", "slug_title": "amazona", "date": "2016-11-18", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fLVryft8Bu4CGurGc04lWUtuSe.jpg", "actors": ["Clare Weiskopf (Herself)", "Valerie Meikel (Herself)"], "comments": [], "recommandations_id": []}

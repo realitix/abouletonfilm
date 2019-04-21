@@ -1,0 +1,1 @@
+{"tmdb_id": 398598, "title": "Deszczowy zolnierz", "original_title": "Deszczowy zolnierz", "slug_title": "deszczowy-zolnierz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

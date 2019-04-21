@@ -1,0 +1,1 @@
+{"tmdb_id": 525761, "title": "Prisonnier", "original_title": "Prisonnier", "slug_title": "prisonnier", "date": "2004-11-12", "genre": "", "score": "0.0/10", "synopsis": "Un jeune homme garde prisonnier dans le grenier celui dont il est amoureux.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

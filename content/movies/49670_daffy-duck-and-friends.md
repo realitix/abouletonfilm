@@ -1,0 +1,1 @@
+{"tmdb_id": 49670, "title": "Daffy Duck and Friends", "original_title": "Daffy Duck and Friends", "slug_title": "daffy-duck-and-friends", "date": "2000-01-01", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

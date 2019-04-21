@@ -1,0 +1,1 @@
+{"tmdb_id": 314805, "title": "Lola & Virginia (volume 1)", "original_title": "Lola & Virginia (volume 1)", "slug_title": "lola-virginia-volume-1", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

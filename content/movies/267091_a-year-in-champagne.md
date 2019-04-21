@@ -1,0 +1,1 @@
+{"tmdb_id": 267091, "title": "A Year in Champagne", "original_title": "A Year in Champagne", "slug_title": "a-year-in-champagne", "date": "2014-02-01", "genre": "Documentaire", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMK7nD2fEpVLXc6geZ1JTJ3YqTs.jpg", "actors": [], "comments": [], "recommandations_id": [130410]}

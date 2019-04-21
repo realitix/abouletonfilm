@@ -1,0 +1,1 @@
+{"tmdb_id": 317372, "title": "A Tree Is a Tree Is a Tree?", "original_title": "A Tree Is a Tree Is a Tree?", "slug_title": "a-tree-is-a-tree-is-a-tree", "date": "1962-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500367, "title": "A Plane from Budapest", "original_title": "Samolot z Budapesztu", "slug_title": "a-plane-from-budapest", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWebOZianTUEKm32lGU9fMI8bFb.jpg", "actors": [], "comments": [], "recommandations_id": []}

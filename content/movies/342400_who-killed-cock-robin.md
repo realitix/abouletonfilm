@@ -1,0 +1,1 @@
+{"tmdb_id": 342400, "title": "Who Killed Cock-Robin", "original_title": "Who Killed Cock-Robin", "slug_title": "who-killed-cock-robin", "date": "1933-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

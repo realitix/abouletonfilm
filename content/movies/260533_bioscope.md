@@ -1,0 +1,1 @@
+{"tmdb_id": 260533, "title": "Bioscope", "original_title": "Bioscope", "slug_title": "bioscope", "date": "2008-07-16", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1FNu8uDBG5ot0F697G6qmmrOwUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531552, "title": "Accordion Song", "original_title": "P\u00edse\u0148 o harmonice", "slug_title": "accordion-song", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

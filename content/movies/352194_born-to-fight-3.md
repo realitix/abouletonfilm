@@ -1,0 +1,1 @@
+{"tmdb_id": 352194, "title": "Born to Fight 3", "original_title": "Gerd Ma Lui 3", "slug_title": "born-to-fight-3", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4hGmnGMzRrCb8kSVYtlP5uDwUKW.jpg", "actors": ["Panna Rittikrai ()"], "comments": [], "recommandations_id": []}

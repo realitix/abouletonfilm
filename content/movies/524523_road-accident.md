@@ -1,0 +1,1 @@
+{"tmdb_id": 524523, "title": "Road Accident", "original_title": "\u0414\u0422\u041f", "slug_title": "road-accident", "date": "2018-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Zaikova ()", "Bakhtiyar Badenov ()", "Dmitry Kulichkov ()", "Dmitri Rudkov ()"], "comments": [], "recommandations_id": []}

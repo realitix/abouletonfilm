@@ -1,0 +1,1 @@
+{"tmdb_id": 211160, "title": "Brush of Baphomet", "original_title": "Brush of Baphomet", "slug_title": "brush-of-baphomet", "date": "2009-03-19", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0qlnMR641rryILtaQNIXMsh8ko.jpg", "actors": [], "comments": [], "recommandations_id": []}

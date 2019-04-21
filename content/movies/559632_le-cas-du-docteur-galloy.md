@@ -1,0 +1,1 @@
+{"tmdb_id": 559632, "title": "Le cas du docteur Galloy", "original_title": "Le cas du docteur Galloy", "slug_title": "le-cas-du-docteur-galloy", "date": "1951-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIggzR3w7NYl2RFCfDwVKr8vyiP.jpg", "actors": [], "comments": [], "recommandations_id": []}

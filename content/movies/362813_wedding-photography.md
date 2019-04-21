@@ -1,0 +1,1 @@
+{"tmdb_id": 362813, "title": "Wedding Photography", "original_title": "\uc794\ud5a5", "slug_title": "wedding-photography", "date": "2015-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/viPpOyV0DqNLg3O0dhpedEFIkFv.jpg", "actors": [], "comments": [], "recommandations_id": []}

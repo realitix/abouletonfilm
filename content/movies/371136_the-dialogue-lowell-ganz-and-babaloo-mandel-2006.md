@@ -1,0 +1,1 @@
+{"tmdb_id": 371136, "title": "The Dialogue: Lowell Ganz and Babaloo Mandel 2006", "original_title": "The Dialogue: Lowell Ganz and Babaloo Mandel 2006", "slug_title": "the-dialogue-lowell-ganz-and-babaloo-mandel-2006", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

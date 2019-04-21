@@ -1,0 +1,1 @@
+{"tmdb_id": 311486, "title": "Hood 2 Hood: Down South: Chopped & Screwed", "original_title": "Hood 2 Hood: Down South: Chopped & Screwed", "slug_title": "hood-2-hood-down-south-chopped-screwed", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350519, "title": "\uc2e0\uad81", "original_title": "\uc2e0\uad81", "slug_title": "singung", "date": "1979-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

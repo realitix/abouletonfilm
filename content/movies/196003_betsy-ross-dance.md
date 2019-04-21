@@ -1,0 +1,1 @@
+{"tmdb_id": 196003, "title": "Betsy Ross Dance", "original_title": "Betsy Ross Dance", "slug_title": "betsy-ross-dance", "date": "1903-06-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

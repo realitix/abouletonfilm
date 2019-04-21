@@ -1,0 +1,1 @@
+{"tmdb_id": 333477, "title": "Stew & Punch", "original_title": "Stew & Punch", "slug_title": "stew-punch", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AgdgOV5bMOEh9dNnlkKOYy4oWKp.jpg", "actors": [], "comments": [], "recommandations_id": []}

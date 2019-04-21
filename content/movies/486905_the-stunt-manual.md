@@ -1,0 +1,1 @@
+{"tmdb_id": 486905, "title": "The Stunt Manual", "original_title": "The Stunt Manual", "slug_title": "the-stunt-manual", "date": "2016-10-26", "genre": "Action / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrSaS6YEwZXqgqPVnCfED7PjSVH.jpg", "actors": ["Ben Fernandez (Voice)"], "comments": [], "recommandations_id": []}

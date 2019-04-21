@@ -1,0 +1,1 @@
+{"tmdb_id": 318900, "title": "Mano Destra", "original_title": "Mano Destra", "slug_title": "mano-destra", "date": "1986-02-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6T8ncMMQ582FM6MXLx51JHjMiwx.jpg", "actors": ["Cleo Uebelmann (Dominatrix)"], "comments": [], "recommandations_id": []}

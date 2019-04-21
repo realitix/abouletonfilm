@@ -1,0 +1,1 @@
+{"tmdb_id": 486134, "title": "Melenita de oro", "original_title": "Melenita de oro", "slug_title": "melenita-de-oro", "date": "1923-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alvaro Escobar ()", "Jorge Lafuente ()", "Lidia Liss ()", "Jos\u00e9 Pl\u00e1 ()"], "comments": [], "recommandations_id": []}

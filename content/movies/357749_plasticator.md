@@ -1,0 +1,1 @@
+{"tmdb_id": 357749, "title": "Plasticator", "original_title": "Plasticator", "slug_title": "plasticator", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9uU1LOr3jbxSsiT9uHxW1IRipBI.jpg", "actors": [], "comments": [], "recommandations_id": []}

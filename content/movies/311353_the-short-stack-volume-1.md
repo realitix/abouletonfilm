@@ -1,0 +1,1 @@
+{"tmdb_id": 311353, "title": "The Short Stack: Volume 1", "original_title": "The Short Stack: Volume 1", "slug_title": "the-short-stack-volume-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

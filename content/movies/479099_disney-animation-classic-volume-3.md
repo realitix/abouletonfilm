@@ -1,0 +1,1 @@
+{"tmdb_id": 479099, "title": "Disney Animation Classic: Volume 3", "original_title": "Disney Animation Classic: Volume 3", "slug_title": "disney-animation-classic-volume-3", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVwSrdntGhG5CxsTby8fddSwjUf.jpg", "actors": [], "comments": [], "recommandations_id": []}

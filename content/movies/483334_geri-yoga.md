@@ -1,0 +1,1 @@
+{"tmdb_id": 483334, "title": "Geri Yoga", "original_title": "Geri Yoga", "slug_title": "geri-yoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZuHH3PnBDTAd655uUrj5ymVhHr.jpg", "actors": [], "comments": [], "recommandations_id": []}

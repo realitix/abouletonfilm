@@ -1,0 +1,1 @@
+{"tmdb_id": 235832, "title": "Herman the Catoonist", "original_title": "Herman the Catoonist", "slug_title": "herman-the-catoonist", "date": "1953-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

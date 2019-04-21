@@ -1,0 +1,1 @@
+{"tmdb_id": 285274, "title": "Yoga Burn", "original_title": "Yoga Burn", "slug_title": "yoga-burn", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/K95gfU79JyYDk5HuwGbLzZGJXo.jpg", "actors": ["Rodney Yee (Himself)"], "comments": [], "recommandations_id": []}

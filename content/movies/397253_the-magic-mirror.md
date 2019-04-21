@@ -1,0 +1,1 @@
+{"tmdb_id": 397253, "title": "The Magic Mirror", "original_title": "Le miroir magique", "slug_title": "the-magic-mirror", "date": "1908-05-12", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAxIgtVgxNJxNydKAByAEsh4nQl.jpg", "actors": ["Julienne Mathieu (Woman)"], "comments": [], "recommandations_id": []}

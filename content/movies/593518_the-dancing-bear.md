@@ -1,0 +1,1 @@
+{"tmdb_id": 593518, "title": "The Dancing Bear", "original_title": "The Dancing Bear", "slug_title": "the-dancing-bear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApBpqsfwuaW1cjSW07hYwVlaKzc.jpg", "actors": [], "comments": [], "recommandations_id": []}

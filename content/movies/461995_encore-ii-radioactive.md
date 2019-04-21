@@ -1,0 +1,1 @@
+{"tmdb_id": 461995, "title": "Encore II (Radioactive)", "original_title": "Encore II (Radioactive)", "slug_title": "encore-ii-radioactive", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

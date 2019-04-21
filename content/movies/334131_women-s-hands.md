@@ -1,0 +1,1 @@
+{"tmdb_id": 334131, "title": "Women's Hands", "original_title": "Noi kezekben", "slug_title": "women-s-hands", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marietta M\u00e9hes ()", "T\u00f6r\u0151csik Mari ()", "J\u00e1nos Xantus ()", "Andor Luk\u00e1ts ()"], "comments": [], "recommandations_id": []}

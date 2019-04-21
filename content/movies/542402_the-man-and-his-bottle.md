@@ -1,0 +1,1 @@
+{"tmdb_id": 542402, "title": "The Man and His Bottle", "original_title": "The Man and His Bottle", "slug_title": "the-man-and-his-bottle", "date": "1908-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thurston Harris (Drunkard)"], "comments": [], "recommandations_id": []}

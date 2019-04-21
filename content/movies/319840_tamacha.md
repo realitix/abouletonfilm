@@ -1,0 +1,1 @@
+{"tmdb_id": 319840, "title": "Tamacha", "original_title": "Tamacha", "slug_title": "tamacha", "date": "1988-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7WL12bPGHYrDQMMGnroiex1QoPc.jpg", "actors": ["Rajinikanth (Vicky)", "Jeetendra (Raju)"], "comments": [], "recommandations_id": []}

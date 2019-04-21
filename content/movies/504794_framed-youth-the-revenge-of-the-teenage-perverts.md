@@ -1,0 +1,1 @@
+{"tmdb_id": 504794, "title": "Framed Youth: The Revenge of the Teenage Perverts", "original_title": "Framed Youth: The Revenge of the Teenage Perverts", "slug_title": "framed-youth-the-revenge-of-the-teenage-perverts", "date": "1983-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

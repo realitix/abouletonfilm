@@ -1,0 +1,1 @@
+{"tmdb_id": 577550, "title": "Strauss - Elektra", "original_title": "Strauss - Elektra", "slug_title": "strauss-elektra", "date": "2006-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TbRJhe3UkhOt2AXs7OltwxiVjE.jpg", "actors": [], "comments": [], "recommandations_id": []}

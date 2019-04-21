@@ -1,0 +1,1 @@
+{"tmdb_id": 340695, "title": "La vida conyugal", "original_title": "La vida conyugal", "slug_title": "la-vida-conyugal", "date": "1993-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bKs2nWpjMSPCPGl5m2VhhSEFiE.jpg", "actors": [], "comments": [], "recommandations_id": []}

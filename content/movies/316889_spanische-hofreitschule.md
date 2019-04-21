@@ -1,0 +1,1 @@
+{"tmdb_id": 316889, "title": "Spanische Hofreitschule", "original_title": "Spanische Hofreitschule", "slug_title": "spanische-hofreitschule", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bRV6ELYRc3SGJ9TCKdulvH45CyN.jpg", "actors": [], "comments": [], "recommandations_id": []}

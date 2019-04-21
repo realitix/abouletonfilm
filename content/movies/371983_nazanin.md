@@ -1,0 +1,1 @@
+{"tmdb_id": 371983, "title": "Nazanin", "original_title": "Nazanin", "slug_title": "nazanin", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Googoosh ()", "Changiz Vossoughi ()", "Reza Karam Rezai ()", "Reza Atayi ()"], "comments": [], "recommandations_id": []}

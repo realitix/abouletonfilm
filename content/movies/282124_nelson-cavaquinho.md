@@ -1,0 +1,1 @@
+{"tmdb_id": 282124, "title": "Nelson Cavaquinho", "original_title": "Nelson Cavaquinho", "slug_title": "nelson-cavaquinho", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enU7wOZ9xiTK6GC6zfOfLnSRcZu.jpg", "actors": ["Nelson Cavaquinho (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474789, "title": "Telephone For Help", "original_title": "Telephone For Help", "slug_title": "telephone-for-help", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

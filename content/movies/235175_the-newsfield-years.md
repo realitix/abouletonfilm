@@ -1,0 +1,1 @@
+{"tmdb_id": 235175, "title": "The Newsfield Years", "original_title": "The Newsfield Years", "slug_title": "the-newsfield-years", "date": "2010-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oi8I7CfvXEop2D2QUawyQv7Pb7s.jpg", "actors": [], "comments": [], "recommandations_id": []}

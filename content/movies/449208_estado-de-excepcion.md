@@ -1,0 +1,1 @@
+{"tmdb_id": 449208, "title": "Estado de excepci\u00f3n", "original_title": "Estado de excepci\u00f3n", "slug_title": "estado-de-excepcion", "date": "1976-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

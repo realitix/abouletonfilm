@@ -1,0 +1,1 @@
+{"tmdb_id": 305074, "title": "Return of the Pirates", "original_title": "Return of the Pirates", "slug_title": "return-of-the-pirates", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

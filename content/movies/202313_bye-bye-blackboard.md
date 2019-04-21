@@ -1,0 +1,1 @@
+{"tmdb_id": 202313, "title": "Bye, Bye, Blackboard", "original_title": "Bye, Bye, Blackboard", "slug_title": "bye-bye-blackboard", "date": "1972-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZaCdFR0Of6DgWbyGy88X3EfExZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

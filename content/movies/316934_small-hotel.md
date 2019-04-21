@@ -1,0 +1,1 @@
+{"tmdb_id": 316934, "title": "Small Hotel", "original_title": "Piccolo hotel", "slug_title": "small-hotel", "date": "1939-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

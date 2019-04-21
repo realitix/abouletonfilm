@@ -1,0 +1,1 @@
+{"tmdb_id": 251148, "title": "Master Class", "original_title": "Master Class", "slug_title": "master-class", "date": "2014-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Faye Dunaway ()", "Liam Dunaway O'Neill ()", "Lee Perkins ()"], "comments": [], "recommandations_id": []}

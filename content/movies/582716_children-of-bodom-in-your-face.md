@@ -1,0 +1,1 @@
+{"tmdb_id": 582716, "title": "Children Of Bodom - In Your Face", "original_title": "Children Of Bodom - In Your Face", "slug_title": "children-of-bodom-in-your-face", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2AFISsXNO4NMrp2CzRwukJ55A5.jpg", "actors": [], "comments": [], "recommandations_id": []}

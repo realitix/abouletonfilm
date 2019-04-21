@@ -1,0 +1,1 @@
+{"tmdb_id": 360848, "title": "Minions: Movie Auditions", "original_title": "Minions: Movie Auditions", "slug_title": "minions-movie-auditions", "date": "2013-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lS6ek8S3xDPhoG7dAUVANrmpkVs.jpg", "actors": [], "comments": [], "recommandations_id": [375186, 54553, 54551]}

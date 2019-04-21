@@ -1,0 +1,1 @@
+{"tmdb_id": 318260, "title": "Guns of the Wehrmacht: 1933-1945", "original_title": "Guns of the Wehrmacht: 1933-1945", "slug_title": "guns-of-the-wehrmacht-1933-1945", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

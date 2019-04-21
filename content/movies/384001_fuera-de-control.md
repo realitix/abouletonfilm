@@ -1,0 +1,1 @@
+{"tmdb_id": 384001, "title": "Fuera de control", "original_title": "Fuera de control", "slug_title": "fuera-de-control", "date": "2011-11-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaime Contreras (Elmiro)", "Jos\u00e9 Gregorio Pulido (Manuel)"], "comments": [], "recommandations_id": []}

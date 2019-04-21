@@ -1,0 +1,1 @@
+{"tmdb_id": 585114, "title": "Aslanlarin \u00f6l\u00fcm\u00fc", "original_title": "Aslanlarin \u00f6l\u00fcm\u00fc", "slug_title": "aslanlarin-olumu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73pPAiXRsXgA3cZzbYYDTRVsHeZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

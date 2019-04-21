@@ -1,0 +1,1 @@
+{"tmdb_id": 357082, "title": "Beer and Skittles", "original_title": "Beer and Skittles", "slug_title": "beer-and-skittles", "date": "1954-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDy4zCPDhhIXNZ4I8sT51dimxtW.jpg", "actors": [], "comments": [], "recommandations_id": []}

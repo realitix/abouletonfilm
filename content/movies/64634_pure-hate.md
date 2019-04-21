@@ -1,0 +1,1 @@
+{"tmdb_id": 64634, "title": "Pure Hate", "original_title": "Pure Hate", "slug_title": "pure-hate", "date": "2004-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wISuTMYs6sNlP5e9V6JbRWuj2ed.jpg", "actors": [], "comments": [], "recommandations_id": []}

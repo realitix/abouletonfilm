@@ -1,0 +1,1 @@
+{"tmdb_id": 379161, "title": "Gong with the Pink", "original_title": "Gong with the Pink", "slug_title": "gong-with-the-pink", "date": "1971-10-20", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGJuep1i75x6KL0mFzPXTxZfJgJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

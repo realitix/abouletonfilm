@@ -1,0 +1,1 @@
+{"tmdb_id": 551600, "title": "The Paracosmic Document", "original_title": "Dokument Parakozmik", "slug_title": "the-paracosmic-document", "date": "2018-09-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPmfApdZmF1OymY6uAERTLndQBr.jpg", "actors": [], "comments": [], "recommandations_id": []}

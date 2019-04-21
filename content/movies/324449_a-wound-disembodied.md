@@ -1,0 +1,1 @@
+{"tmdb_id": 324449, "title": "A Wound Disembodied", "original_title": "Herida sin cuerpo", "slug_title": "a-wound-disembodied", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

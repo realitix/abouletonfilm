@@ -1,0 +1,1 @@
+{"tmdb_id": 448052, "title": "The Hobbit Enigma", "original_title": "The Hobbit Enigma", "slug_title": "the-hobbit-enigma", "date": "2008-11-04", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9hj86UrhjmIKMZuCJKYlgDL91S.jpg", "actors": [], "comments": [], "recommandations_id": []}

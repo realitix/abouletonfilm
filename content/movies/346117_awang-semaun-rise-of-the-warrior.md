@@ -1,0 +1,1 @@
+{"tmdb_id": 346117, "title": "Awang Semaun: Rise of the Warrior", "original_title": "Awang Semaun: Rise of the Warrior", "slug_title": "awang-semaun-rise-of-the-warrior", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

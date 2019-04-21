@@ -1,0 +1,1 @@
+{"tmdb_id": 348519, "title": "I Am Monster", "original_title": "I Am Monster", "slug_title": "i-am-monster", "date": "2014-02-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6m7kUiytl5STppJ61Isupa2HIVb.jpg", "actors": ["Shannon Lark (Vivienne)"], "comments": [], "recommandations_id": []}

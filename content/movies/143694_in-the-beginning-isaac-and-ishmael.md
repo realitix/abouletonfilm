@@ -1,0 +1,1 @@
+{"tmdb_id": 143694, "title": "In the Beginning: Isaac and Ishmael", "original_title": "In the Beginning: Isaac and Ishmael", "slug_title": "in-the-beginning-isaac-and-ishmael", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 472229, "title": "A M\u00edstica do Glorioso: Quem Ama Sabe", "original_title": "A M\u00edstica do Glorioso: Quem Ama Sabe", "slug_title": "a-mistica-do-glorioso-quem-ama-sabe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

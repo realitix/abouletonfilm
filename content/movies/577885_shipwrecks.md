@@ -1,0 +1,1 @@
+{"tmdb_id": 577885, "title": "Shipwrecks", "original_title": "\u00c9paves", "slug_title": "shipwrecks", "date": "1946-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacques-Yves Cousteau ()", "Fr\u00e9d\u00e9ric Dumas ()", "Philippe Taillez ()"], "comments": [], "recommandations_id": []}

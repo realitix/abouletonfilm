@@ -1,0 +1,1 @@
+{"tmdb_id": 568667, "title": "The Good Exorcist", "original_title": "The Good Exorcist", "slug_title": "the-good-exorcist", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPaNytJ8a1FuKHQrSn2V64USZL7.jpg", "actors": [], "comments": [], "recommandations_id": []}

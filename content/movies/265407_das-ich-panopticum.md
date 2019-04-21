@@ -1,0 +1,1 @@
+{"tmdb_id": 265407, "title": "Das Ich - Panopticum", "original_title": "Das Ich - Panopticum", "slug_title": "das-ich-panopticum", "date": "2006-03-31", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tlGCNB4tu4VBdKKGKSdPGJsEBR3.jpg", "actors": [], "comments": [], "recommandations_id": []}

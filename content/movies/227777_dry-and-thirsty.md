@@ -1,0 +1,1 @@
+{"tmdb_id": 227777, "title": "Dry and Thirsty", "original_title": "Dry and Thirsty", "slug_title": "dry-and-thirsty", "date": "1920-02-15", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Bletcher (Horace Radish)", "Vera Reynolds (Mrs. Tryan)", "John Dempsey (William Allways Tryan)"], "comments": [], "recommandations_id": []}

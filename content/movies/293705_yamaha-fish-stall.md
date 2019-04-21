@@ -1,0 +1,1 @@
+{"tmdb_id": 293705, "title": "Yamaha fish stall", "original_title": "\u96c5\u9a6c\u54c8\u9c7c\u6863", "slug_title": "yamaha-fish-stall", "date": "1984-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpZDRWKSPGAr8kPYUhe1iobSC1p.jpg", "actors": [], "comments": [], "recommandations_id": []}

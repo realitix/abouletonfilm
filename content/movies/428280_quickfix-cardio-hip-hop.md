@@ -1,0 +1,1 @@
+{"tmdb_id": 428280, "title": "QuickFIX: Cardio Hip-Hop", "original_title": "QuickFIX: Cardio Hip-Hop", "slug_title": "quickfix-cardio-hip-hop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9GeOk6Zn0kuVJyuHj8PBUB6C6M.jpg", "actors": [], "comments": [], "recommandations_id": []}

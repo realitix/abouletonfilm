@@ -1,0 +1,1 @@
+{"tmdb_id": 395003, "title": "The Grizzlies", "original_title": "The Grizzlies", "slug_title": "the-grizzlies", "date": "1987-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijj7kM6W9VwM4yXUxqrcVcx0Tae.jpg", "actors": [], "comments": [], "recommandations_id": []}

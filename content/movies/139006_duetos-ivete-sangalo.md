@@ -1,0 +1,1 @@
+{"tmdb_id": 139006, "title": "Duetos - Ivete Sangalo", "original_title": "Duetos - Ivete Sangalo", "slug_title": "duetos-ivete-sangalo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZ8IhO3nOfTfXVxK2Lo0PSXHXLB.jpg", "actors": [], "comments": [], "recommandations_id": []}

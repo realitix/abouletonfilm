@@ -1,0 +1,1 @@
+{"tmdb_id": 228950, "title": "Nego Fugido", "original_title": "Nego Fugido", "slug_title": "nego-fugido", "date": "2009-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vbGPtzcZdW4utiUln0J7Z8Lb4Q.jpg", "actors": ["Leonardo Fran\u00e7a ()", "Paula Carneiro ()"], "comments": [], "recommandations_id": []}

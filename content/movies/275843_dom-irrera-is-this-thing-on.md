@@ -1,0 +1,1 @@
+{"tmdb_id": 275843, "title": "Dom Irrera: Is This Thing On?", "original_title": "Dom Irrera: Is This Thing On?", "slug_title": "dom-irrera-is-this-thing-on", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

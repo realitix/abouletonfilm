@@ -1,0 +1,1 @@
+{"tmdb_id": 104988, "title": "The Nine Muses", "original_title": "The Nine Muses", "slug_title": "the-nine-muses", "date": "2010-09-01", "genre": "Documentaire / Histoire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAWP4VjYhz96FiaI6FNyW9ajyLy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 187865, "title": "Volcano Devils", "original_title": "Volcano Devils", "slug_title": "volcano-devils", "date": "2011-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

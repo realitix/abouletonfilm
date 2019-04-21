@@ -1,0 +1,1 @@
+{"tmdb_id": 463181, "title": "Charminar", "original_title": "Charminar", "slug_title": "charminar", "date": "2013-02-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n10dM58MOulJ5mJFpNhEcXGfqEw.jpg", "actors": ["Prem Kumar (Mohana)", "Meghana Gaonkar (Radha)"], "comments": [], "recommandations_id": []}

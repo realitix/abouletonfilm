@@ -1,0 +1,1 @@
+{"tmdb_id": 343113, "title": "Teenage Kicks", "original_title": "Teenage Kicks", "slug_title": "teenage-kicks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 202861, "title": "L'eredit\u00e0 di Caino", "original_title": "L'eredit\u00e0 di Caino", "slug_title": "l-eredita-di-caino", "date": "2005-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LjK2H0kHeJjEQuqmfJC1bxMx6R.jpg", "actors": ["Filippo Timi (Him)"], "comments": [], "recommandations_id": []}

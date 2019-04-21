@@ -1,0 +1,1 @@
+{"tmdb_id": 531057, "title": "Black Wave", "original_title": "Black Wave", "slug_title": "black-wave", "date": "2018-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLiqba6y8DijGMsopYXnYbFvHce.jpg", "actors": [], "comments": [], "recommandations_id": []}

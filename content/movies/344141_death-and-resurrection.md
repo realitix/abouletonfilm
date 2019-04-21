@@ -1,0 +1,1 @@
+{"tmdb_id": 344141, "title": "Death and Resurrection", "original_title": "Death and Resurrection", "slug_title": "death-and-resurrection", "date": "2006-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIIPy77z658smLu3xRoPT8TnIl7.jpg", "actors": [], "comments": [], "recommandations_id": []}

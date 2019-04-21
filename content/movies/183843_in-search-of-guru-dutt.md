@@ -1,0 +1,1 @@
+{"tmdb_id": 183843, "title": "In Search of Guru Dutt", "original_title": "In Search of Guru Dutt", "slug_title": "in-search-of-guru-dutt", "date": "1989-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecuGaEgAVg8CLvk2yox9TKxKbp5.jpg", "actors": [], "comments": [], "recommandations_id": []}

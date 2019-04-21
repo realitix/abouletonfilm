@@ -1,0 +1,1 @@
+{"tmdb_id": 341467, "title": "Tarotsphere", "original_title": "Tarotsphere", "slug_title": "tarotsphere", "date": "2013-02-15", "genre": "Com\u00e9die / Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeffery X. Martin (Tarot Reader (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578603, "title": "Mondays", "original_title": "Mondays", "slug_title": "mondays", "date": "2011-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

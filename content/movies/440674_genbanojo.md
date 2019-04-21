@@ -1,0 +1,1 @@
+{"tmdb_id": 440674, "title": "Genbanoj\u014d", "original_title": "\u7384\u8543\u4e4b\u4e1e\u72d0", "slug_title": "genbanojo", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIGjnZKI2c0Hx88F0JVTPtWLMwn.jpg", "actors": [], "comments": [], "recommandations_id": []}

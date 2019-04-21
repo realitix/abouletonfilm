@@ -1,0 +1,1 @@
+{"tmdb_id": 584132, "title": "Eminem VEVO: The Movie", "original_title": "Eminem VEVO: The Movie", "slug_title": "eminem-vevo-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

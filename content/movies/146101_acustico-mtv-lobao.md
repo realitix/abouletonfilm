@@ -1,0 +1,1 @@
+{"tmdb_id": 146101, "title": "Ac\u00fastico MTV - Lob\u00e3o", "original_title": "Ac\u00fastico MTV - Lob\u00e3o", "slug_title": "acustico-mtv-lobao", "date": "2006-12-07", "genre": "Musique", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8mAMr1jhWKedvVW5epjmbBiuiRI.jpg", "actors": [], "comments": [], "recommandations_id": []}

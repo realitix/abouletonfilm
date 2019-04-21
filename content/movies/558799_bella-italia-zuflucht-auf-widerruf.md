@@ -1,0 +1,1 @@
+{"tmdb_id": 558799, "title": "Bella Italia - Zuflucht auf Widerruf", "original_title": "Bella Italia - Zuflucht auf Widerruf", "slug_title": "bella-italia-zuflucht-auf-widerruf", "date": "1996-07-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

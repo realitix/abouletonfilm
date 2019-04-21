@@ -1,0 +1,1 @@
+{"tmdb_id": 318292, "title": "Physical Geography: Geologic Time", "original_title": "Physical Geography: Geologic Time", "slug_title": "physical-geography-geologic-time", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

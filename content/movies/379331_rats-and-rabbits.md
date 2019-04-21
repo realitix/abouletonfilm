@@ -1,0 +1,1 @@
+{"tmdb_id": 379331, "title": "Rats And Rabbits", "original_title": "Rats And Rabbits", "slug_title": "rats-and-rabbits", "date": "2000-04-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cn2JPuqbMqIk5DFju2GYo5pU7xa.jpg", "actors": [], "comments": [], "recommandations_id": []}

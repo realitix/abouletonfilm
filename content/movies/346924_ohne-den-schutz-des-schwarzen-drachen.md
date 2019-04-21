@@ -1,0 +1,1 @@
+{"tmdb_id": 346924, "title": "Ohne den Schutz des schwarzen Drachen", "original_title": "Ohne den Schutz des schwarzen Drachen", "slug_title": "ohne-den-schutz-des-schwarzen-drachen", "date": "2011-12-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

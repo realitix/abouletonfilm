@@ -1,0 +1,1 @@
+{"tmdb_id": 580846, "title": "Katherine Ryan: Glitter Room", "original_title": "Katherine Ryan: Glitter Room", "slug_title": "katherine-ryan-glitter-room", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katherine Ryan (Herself)"], "comments": [], "recommandations_id": []}

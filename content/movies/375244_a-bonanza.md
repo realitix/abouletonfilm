@@ -1,0 +1,1 @@
+{"tmdb_id": 375244, "title": "A Bonanza", "original_title": "Nodaji", "slug_title": "a-bonanza", "date": "1961-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gCN2UQFWtiOZKFX2FpxLM1BbZgb.jpg", "actors": [], "comments": [], "recommandations_id": []}

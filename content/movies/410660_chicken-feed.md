@@ -1,0 +1,1 @@
+{"tmdb_id": 410660, "title": "Chicken Feed", "original_title": "Chicken Feed", "slug_title": "chicken-feed", "date": "1927-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Cobb (Joe)", "Jackie Condon (Jackie)", "Allen 'Farina' Hoskins (Farina)"], "comments": [], "recommandations_id": []}

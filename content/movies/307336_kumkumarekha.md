@@ -1,0 +1,1 @@
+{"tmdb_id": 307336, "title": "Kumkumarekha", "original_title": "Kumkumarekha", "slug_title": "kumkumarekha", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

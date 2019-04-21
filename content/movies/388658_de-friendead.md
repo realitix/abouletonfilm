@@ -1,0 +1,1 @@
+{"tmdb_id": 388658, "title": "De-frienDEAD", "original_title": "De-frienDEAD", "slug_title": "de-friendead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cheyn Cole (Katie)", "Sam Evans (Tommy)"], "comments": [], "recommandations_id": []}

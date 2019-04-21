@@ -1,0 +1,1 @@
+{"tmdb_id": 282139, "title": "Une discussion politique", "original_title": "Une discussion politique", "slug_title": "une-discussion-politique", "date": "1901-12-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o60GrTvkHQTvIOkpIoMtQGoyBuN.jpg", "actors": [], "comments": [], "recommandations_id": []}

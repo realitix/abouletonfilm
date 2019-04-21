@@ -1,0 +1,1 @@
+{"tmdb_id": 472919, "title": "A Parideira", "original_title": "A Parideira", "slug_title": "a-parideira", "date": "2011-03-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Diogo Morgado ()", "Ana Moreira (Margarida)", "Jos\u00e9 Pinto ()"], "comments": [], "recommandations_id": []}

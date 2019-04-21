@@ -1,0 +1,1 @@
+{"tmdb_id": 470014, "title": "Varsity", "original_title": "Varsity", "slug_title": "varsity", "date": "1930-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geoffrey Beaumont (Jack)", "J. Evans Hunter (Bill)", "Barbara Lee (Marjorie)", "Ren\u00e9 Ray (Iris)"], "comments": [], "recommandations_id": []}

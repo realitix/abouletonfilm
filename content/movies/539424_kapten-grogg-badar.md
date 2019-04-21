@@ -1,0 +1,1 @@
+{"tmdb_id": 539424, "title": "Kapten Grogg badar", "original_title": "Kapten Grogg badar", "slug_title": "kapten-grogg-badar", "date": "1919-10-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

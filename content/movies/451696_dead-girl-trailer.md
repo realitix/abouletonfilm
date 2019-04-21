@@ -1,0 +1,1 @@
+{"tmdb_id": 451696, "title": "Dead Girl Trailer", "original_title": "Dead Girl Trailer", "slug_title": "dead-girl-trailer", "date": "2011-05-22", "genre": "Horreur / Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

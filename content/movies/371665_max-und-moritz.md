@@ -1,0 +1,1 @@
+{"tmdb_id": 371665, "title": "Max und Moritz", "original_title": "Max und Moritz", "slug_title": "max-und-moritz", "date": "1978-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bLAq9dpxt1WDJ3g7j7IjUh8MKgG.jpg", "actors": ["Heinz R\u00fchmann (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320022, "title": "Golden Mannequins", "original_title": "Golden Mannequins", "slug_title": "golden-mannequins", "date": "", "genre": "Aventure / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Krung Srivilai ()"], "comments": [], "recommandations_id": []}

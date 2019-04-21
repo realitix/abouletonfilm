@@ -1,0 +1,1 @@
+{"tmdb_id": 545871, "title": "Latextrem - Die Gummiklinik", "original_title": "Latextrem - Die Gummiklinik", "slug_title": "latextrem-die-gummiklinik", "date": "2009-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lady Stella ()", "Lady Carmen ()"], "comments": [], "recommandations_id": []}

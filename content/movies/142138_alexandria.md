@@ -1,0 +1,1 @@
+{"tmdb_id": 142138, "title": "Alexandria", "original_title": "Alexandria", "slug_title": "alexandria", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bettany Hughes ()"], "comments": [], "recommandations_id": []}

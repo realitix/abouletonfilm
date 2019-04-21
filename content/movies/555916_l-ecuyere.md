@@ -1,0 +1,1 @@
+{"tmdb_id": 555916, "title": "L'\u00e9cuy\u00e8re", "original_title": "L'\u00e9cuy\u00e8re", "slug_title": "l-ecuyere", "date": "1922-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

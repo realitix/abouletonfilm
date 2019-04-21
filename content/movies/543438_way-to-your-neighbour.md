@@ -1,0 +1,1 @@
+{"tmdb_id": 543438, "title": "Way to Your Neighbour", "original_title": "Put k susjedu", "slug_title": "way-to-your-neighbour", "date": "1983-02-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/frl8O72dU73S0azZHYsFn88qZYy.jpg", "actors": [], "comments": [], "recommandations_id": []}

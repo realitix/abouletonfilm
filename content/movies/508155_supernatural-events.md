@@ -1,0 +1,1 @@
+{"tmdb_id": 508155, "title": "Supernatural Events", "original_title": "Supernatural Events", "slug_title": "supernatural-events", "date": "2017-10-10", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uSzceQYQTloihTOelRWyyyFvqR.jpg", "actors": ["Yusi Peng ()"], "comments": [], "recommandations_id": []}

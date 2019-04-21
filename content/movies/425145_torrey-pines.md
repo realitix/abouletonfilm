@@ -1,0 +1,1 @@
+{"tmdb_id": 425145, "title": "Torrey Pines", "original_title": "Torrey Pines", "slug_title": "torrey-pines", "date": "2016-10-18", "genre": "Aventure / Animation / Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AteeC6ZgEVXjh0FolaMwErYOVvO.jpg", "actors": [], "comments": [], "recommandations_id": []}

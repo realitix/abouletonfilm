@@ -1,0 +1,1 @@
+{"tmdb_id": 378919, "title": "Diana\u2019s Child", "original_title": "Diana\u2019s Child", "slug_title": "dianas-child", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shmil Ben Ari ()", "Neta Moran ()", "Levana Finkelstein ()", "hila feldman ()"], "comments": [], "recommandations_id": []}

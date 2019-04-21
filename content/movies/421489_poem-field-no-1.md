@@ -1,0 +1,1 @@
+{"tmdb_id": 421489, "title": "Poem Field No. 1", "original_title": "Poem Field No. 1", "slug_title": "poem-field-no-1", "date": "1968-09-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

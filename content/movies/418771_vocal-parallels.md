@@ -1,0 +1,1 @@
+{"tmdb_id": 418771, "title": "Vocal Parallels", "original_title": "Vokaldy paralelder", "slug_title": "vocal-parallels", "date": "2006-11-16", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uU2noi7aifh3OJVur5yRVLDCrm.jpg", "actors": ["Renata Litvinova ()"], "comments": [], "recommandations_id": [130544]}

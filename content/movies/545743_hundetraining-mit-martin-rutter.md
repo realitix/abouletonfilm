@@ -1,0 +1,1 @@
+{"tmdb_id": 545743, "title": "Hundetraining mit Martin R\u00fctter", "original_title": "Hundetraining mit Martin R\u00fctter", "slug_title": "hundetraining-mit-martin-rutter", "date": "2018-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294569, "title": "I FLUNKED SUNDAY SCHOOL", "original_title": "I FLUNKED SUNDAY SCHOOL", "slug_title": "i-flunked-sunday-school", "date": "2006-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

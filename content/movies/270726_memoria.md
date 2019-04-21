@@ -1,0 +1,1 @@
+{"tmdb_id": 270726, "title": "Memoria", "original_title": "Memoria", "slug_title": "memoria", "date": "2013-09-27", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDFOwzK0ShgZ6QlTj1awjgNHlSU.jpg", "actors": [], "comments": [], "recommandations_id": []}

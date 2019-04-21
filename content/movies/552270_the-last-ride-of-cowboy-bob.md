@@ -1,0 +1,1 @@
+{"tmdb_id": 552270, "title": "The Last Ride of Cowboy Bob", "original_title": "The Last Ride of Cowboy Bob", "slug_title": "the-last-ride-of-cowboy-bob", "date": "", "genre": "Western / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

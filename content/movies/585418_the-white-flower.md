@@ -1,0 +1,1 @@
+{"tmdb_id": 585418, "title": "The White Flower", "original_title": "Shiroi Hana", "slug_title": "the-white-flower", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Toru Inamura (The doctor)", "Dan Zhu (The young woman)", "Kong Pahurak (The filmmaker)"], "comments": [], "recommandations_id": []}

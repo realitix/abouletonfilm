@@ -1,0 +1,1 @@
+{"tmdb_id": 329467, "title": "Dzhambul", "original_title": "Dzhambul", "slug_title": "dzhambul", "date": "1953-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

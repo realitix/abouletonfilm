@@ -1,0 +1,1 @@
+{"tmdb_id": 449965, "title": "Group II: Water/Contemplating", "original_title": "Group II: Water/Contemplating", "slug_title": "group-ii-water-contemplating", "date": "1969-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pASlXY9OADzEALsYi5UxZsDMILD.jpg", "actors": [], "comments": [], "recommandations_id": []}

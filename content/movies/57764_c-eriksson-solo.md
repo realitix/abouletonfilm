@@ -1,0 +1,1 @@
+{"tmdb_id": 57764, "title": "C Eriksson solo", "original_title": "C Eriksson solo", "slug_title": "c-eriksson-solo", "date": "2007-09-27", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claes Eriksson (Himself)"], "comments": [], "recommandations_id": []}

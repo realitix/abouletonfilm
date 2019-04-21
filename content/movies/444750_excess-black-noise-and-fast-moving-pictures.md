@@ -1,0 +1,1 @@
+{"tmdb_id": 444750, "title": "Excess, Black Noise, and Fast Moving Pictures", "original_title": "Excess, Black Noise, and Fast Moving Pictures", "slug_title": "excess-black-noise-and-fast-moving-pictures", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

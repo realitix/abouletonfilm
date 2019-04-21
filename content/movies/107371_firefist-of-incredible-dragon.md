@@ -1,0 +1,1 @@
+{"tmdb_id": 107371, "title": "Firefist of Incredible Dragon", "original_title": "Solimsa jucheongwidong", "slug_title": "firefist-of-incredible-dragon", "date": "1982-06-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2anxLhOdW0InrbuZACdZ7PGxVMZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

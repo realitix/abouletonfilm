@@ -1,0 +1,1 @@
+{"tmdb_id": 556388, "title": "Le baiser qui tue", "original_title": "Le baiser qui tue", "slug_title": "le-baiser-qui-tue", "date": "1928-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

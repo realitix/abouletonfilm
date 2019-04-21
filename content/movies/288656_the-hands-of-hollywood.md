@@ -1,0 +1,1 @@
+{"tmdb_id": 288656, "title": "The Hands Of Hollywood", "original_title": "The Hands Of Hollywood", "slug_title": "the-hands-of-hollywood", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Hershon (Himself)"], "comments": [], "recommandations_id": []}

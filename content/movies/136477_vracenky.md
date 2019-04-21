@@ -1,0 +1,1 @@
+{"tmdb_id": 136477, "title": "Vracenky", "original_title": "Vracenky", "slug_title": "vracenky", "date": "1991-11-01", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHfB2N5UnV0PvT6oIEtQHNpbVFJ.jpg", "actors": ["Jakub Cih\u00e1k (Lededer)"], "comments": [], "recommandations_id": []}

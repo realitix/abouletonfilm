@@ -1,0 +1,1 @@
+{"tmdb_id": 165350, "title": "The Way of the Little Dragon", "original_title": "The Way of the Little Dragon", "slug_title": "the-way-of-the-little-dragon", "date": "1997-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olHQDwyMGSo9CobH7Kh1v2kEe3D.jpg", "actors": [], "comments": [], "recommandations_id": []}

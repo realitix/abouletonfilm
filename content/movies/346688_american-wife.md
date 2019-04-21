@@ -1,0 +1,1 @@
+{"tmdb_id": 346688, "title": "American Wife", "original_title": "American Wife", "slug_title": "american-wife", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

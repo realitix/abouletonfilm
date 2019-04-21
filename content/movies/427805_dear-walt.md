@@ -1,0 +1,1 @@
+{"tmdb_id": 427805, "title": "Dear Walt", "original_title": "Dear Walt", "slug_title": "dear-walt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/53kA3A6iFoilhzoHUiOnKleogcY.jpg", "actors": [], "comments": [], "recommandations_id": []}

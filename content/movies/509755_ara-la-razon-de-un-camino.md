@@ -1,0 +1,1 @@
+{"tmdb_id": 509755, "title": "ARA, La raz\u00f3n de un camino", "original_title": "ARA, La raz\u00f3n de un camino", "slug_title": "ara-la-razon-de-un-camino", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

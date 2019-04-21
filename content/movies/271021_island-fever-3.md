@@ -1,0 +1,1 @@
+{"tmdb_id": 271021, "title": "Island Fever 3", "original_title": "Island Fever 3", "slug_title": "island-fever-3", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

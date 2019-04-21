@@ -1,0 +1,1 @@
+{"tmdb_id": 522014, "title": "Sound Cage: A Portrait of Katalin Ladik", "original_title": "Sound Cage: A Portrait of Katalin Ladik", "slug_title": "sound-cage-a-portrait-of-katalin-ladik", "date": "2015-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

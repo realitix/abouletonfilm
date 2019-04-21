@@ -1,0 +1,1 @@
+{"tmdb_id": 416390, "title": "Dugma: The Button", "original_title": "Dugma: The Button", "slug_title": "dugma-the-button", "date": "2016-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzYUWQsglBn53Ejg5l1lJES2CTB.jpg", "actors": [], "comments": [], "recommandations_id": []}

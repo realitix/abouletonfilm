@@ -1,0 +1,1 @@
+{"tmdb_id": 544925, "title": "UVERworld: Live at Kyocera Dome Osaka", "original_title": "UVERworld: Live at Kyocera Dome Osaka", "slug_title": "uverworld-live-at-kyocera-dome-osaka", "date": "2015-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

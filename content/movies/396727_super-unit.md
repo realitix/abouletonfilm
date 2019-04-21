@@ -1,0 +1,1 @@
+{"tmdb_id": 396727, "title": "Super Unit", "original_title": "Superjednostka", "slug_title": "super-unit", "date": "2014-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9KK2BqWqrIFmE5G6LHBQetHnG3O.jpg", "actors": [], "comments": [], "recommandations_id": []}

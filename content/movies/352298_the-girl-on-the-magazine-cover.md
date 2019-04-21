@@ -1,0 +1,1 @@
+{"tmdb_id": 352298, "title": "The Girl on the Magazine Cover", "original_title": "The Girl on the Magazine Cover", "slug_title": "the-girl-on-the-magazine-cover", "date": "1940-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Millard Mitchell (Photographer)"], "comments": [], "recommandations_id": []}

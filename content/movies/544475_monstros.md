@@ -1,0 +1,1 @@
+{"tmdb_id": 544475, "title": "Monstros", "original_title": "Monstros", "slug_title": "monstros", "date": "2018-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

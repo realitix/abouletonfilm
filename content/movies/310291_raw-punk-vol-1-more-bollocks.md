@@ -1,0 +1,1 @@
+{"tmdb_id": 310291, "title": "Raw Punk: Vol. 1: More Bollocks", "original_title": "Raw Punk: Vol. 1: More Bollocks", "slug_title": "raw-punk-vol-1-more-bollocks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297700, "title": "Richard Hamilton", "original_title": "Richard Hamilton", "slug_title": "richard-hamilton", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Hamilton ()"], "comments": [], "recommandations_id": []}

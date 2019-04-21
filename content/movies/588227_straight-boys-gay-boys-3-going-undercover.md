@@ -1,0 +1,1 @@
+{"tmdb_id": 588227, "title": "Straight Boys, Gay Boys 3: Going Undercover", "original_title": "Straight Boys, Gay Boys 3: Going Undercover", "slug_title": "straight-boys-gay-boys-3-going-undercover", "date": "2010-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

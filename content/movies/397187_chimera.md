@@ -1,0 +1,1 @@
+{"tmdb_id": 397187, "title": "Chimera", "original_title": "Chimera", "slug_title": "chimera", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQhAh78iKNG3gXVGRC2rLDnuvf.jpg", "actors": [], "comments": [], "recommandations_id": []}

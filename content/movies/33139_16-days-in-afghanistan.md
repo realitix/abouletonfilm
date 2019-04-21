@@ -1,0 +1,1 @@
+{"tmdb_id": 33139, "title": "16 Days in Afghanistan", "original_title": "16 Days in Afghanistan", "slug_title": "16-days-in-afghanistan", "date": "2007-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioS3cRWAcmbDbkHfDhUArWv5m7w.jpg", "actors": [], "comments": [], "recommandations_id": []}

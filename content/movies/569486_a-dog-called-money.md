@@ -1,0 +1,1 @@
+{"tmdb_id": 569486, "title": "A Dog Called Money", "original_title": "A Dog Called Money", "slug_title": "a-dog-called-money", "date": "2019-02-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ixOIkilzi3xFvzAgtenISNY2BL.jpg", "actors": ["P.J. Harvey (Herself)"], "comments": [], "recommandations_id": []}

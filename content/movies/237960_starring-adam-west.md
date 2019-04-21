@@ -1,0 +1,1 @@
+{"tmdb_id": 237960, "title": "Starring Adam West", "original_title": "Starring Adam West", "slug_title": "starring-adam-west", "date": "2013-03-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZJNtek5g01ECeTEkOxfnl2ve0Y.jpg", "actors": ["Adam West (Himself)"], "comments": [], "recommandations_id": []}

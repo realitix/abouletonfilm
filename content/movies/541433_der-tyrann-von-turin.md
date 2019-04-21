@@ -1,0 +1,1 @@
+{"tmdb_id": 541433, "title": "Der Tyrann von Turin", "original_title": "Der Tyrann von Turin", "slug_title": "der-tyrann-von-turin", "date": "1994-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 280599, "title": "Presence of Darkness", "original_title": "Presence of Darkness", "slug_title": "presence-of-darkness", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janell Kelley (Melissa)", "Ronni Lea (Courtney)"], "comments": [], "recommandations_id": []}

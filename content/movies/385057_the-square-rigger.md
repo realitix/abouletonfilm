@@ -1,0 +1,1 @@
+{"tmdb_id": 385057, "title": "The Square Rigger", "original_title": "The Square Rigger", "slug_title": "the-square-rigger", "date": "1932-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

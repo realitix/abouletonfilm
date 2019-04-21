@@ -1,0 +1,1 @@
+{"tmdb_id": 507529, "title": "The Fuzz", "original_title": "The Fuzz", "slug_title": "the-fuzz", "date": "2017-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOr7e8mSVDlxJDAaMo84OMI9t8U.jpg", "actors": ["Dee Wallace (Dawn Lockwood)"], "comments": [], "recommandations_id": []}

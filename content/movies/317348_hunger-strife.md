@@ -1,0 +1,1 @@
+{"tmdb_id": 317348, "title": "Hunger Strife", "original_title": "Hunger Strife", "slug_title": "hunger-strife", "date": "1960-08-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cqHdwEx7KjfCjiD36jAc6f0T2iq.jpg", "actors": [], "comments": [], "recommandations_id": []}

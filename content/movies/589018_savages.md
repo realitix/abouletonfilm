@@ -1,0 +1,1 @@
+{"tmdb_id": 589018, "title": "Savages!", "original_title": "Savages!", "slug_title": "savages", "date": "", "genre": "Aventure / Animation / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i7f7fAF6BU6iVvfES8ZfTuoQyWc.jpg", "actors": [], "comments": [], "recommandations_id": []}

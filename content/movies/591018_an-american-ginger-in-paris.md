@@ -1,0 +1,1 @@
+{"tmdb_id": 591018, "title": "An American Ginger In Paris", "original_title": "An American Ginger In Paris", "slug_title": "an-american-ginger-in-paris", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tK4F6FGYPYYpSLc1oUCjoipmD2F.jpg", "actors": [], "comments": [], "recommandations_id": []}

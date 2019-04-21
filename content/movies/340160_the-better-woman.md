@@ -1,0 +1,1 @@
+{"tmdb_id": 340160, "title": "The Better Woman", "original_title": "The Better Woman", "slug_title": "the-better-woman", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

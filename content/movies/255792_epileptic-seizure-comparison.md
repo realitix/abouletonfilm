@@ -1,0 +1,1 @@
+{"tmdb_id": 255792, "title": "Epileptic Seizure Comparison", "original_title": "Epileptic Seizure Comparison", "slug_title": "epileptic-seizure-comparison", "date": "1976-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVUiwhBF7E6GA5cLMdXDXrlSABF.jpg", "actors": [], "comments": [], "recommandations_id": []}

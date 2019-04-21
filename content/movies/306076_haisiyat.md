@@ -1,0 +1,1 @@
+{"tmdb_id": 306076, "title": "Haisiyat", "original_title": "Haisiyat", "slug_title": "haisiyat", "date": "1984-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehBPMC6TVd6Mln1AfW0AbEdAfRA.jpg", "actors": [], "comments": [], "recommandations_id": []}

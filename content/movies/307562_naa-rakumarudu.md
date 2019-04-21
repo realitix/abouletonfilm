@@ -1,0 +1,1 @@
+{"tmdb_id": 307562, "title": "Naa Rakumarudu", "original_title": "Naa Rakumarudu", "slug_title": "naa-rakumarudu", "date": "2013-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJQHQM6DkWPxlqWHyWWEnvBD8Ny.jpg", "actors": [], "comments": [], "recommandations_id": []}

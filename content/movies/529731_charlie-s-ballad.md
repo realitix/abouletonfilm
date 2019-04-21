@@ -1,0 +1,1 @@
+{"tmdb_id": 529731, "title": "Charlie's Ballad", "original_title": "Charlie's Ballad", "slug_title": "charlie-s-ballad", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWCw7byv3OmLitsVUsboXLWYOEn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 281974, "title": "The Real Charlotte", "original_title": "The Real Charlotte", "slug_title": "the-real-charlotte", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeananne Crowley (Charlotte Mullen)", "Patrick Bergin (Roderick Lambert)"], "comments": [], "recommandations_id": []}

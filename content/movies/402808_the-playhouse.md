@@ -1,0 +1,1 @@
+{"tmdb_id": 402808, "title": "The Playhouse", "original_title": "The Playhouse", "slug_title": "the-playhouse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8l3rJ0OZzYrm5yhQop9iIMdnqBy.jpg", "actors": [], "comments": [], "recommandations_id": []}

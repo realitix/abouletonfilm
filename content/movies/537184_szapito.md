@@ -1,0 +1,1 @@
+{"tmdb_id": 537184, "title": "Szapito", "original_title": "Szapito", "slug_title": "szapito", "date": "1984-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soo4A3oXAW8p9HiYyiOaJifdHjc.jpg", "actors": [], "comments": [], "recommandations_id": []}

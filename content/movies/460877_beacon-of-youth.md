@@ -1,0 +1,1 @@
+{"tmdb_id": 460877, "title": "Beacon of Youth", "original_title": "Feng huo shao nian", "slug_title": "beacon-of-youth", "date": "1975-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kFxUULP7SUSblaWSyQQlsegX0.jpg", "actors": ["Fang Ma ()", "Jingwu Ma ()", "Shijun Niu ()"], "comments": [], "recommandations_id": []}

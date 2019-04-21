@@ -1,0 +1,1 @@
+{"tmdb_id": 476214, "title": "The Taste of Life", "original_title": "Der Geschmack des Lebens", "slug_title": "the-taste-of-life", "date": "1979-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uHpSIliTdzSMRCAQgHerxcpvDGE.jpg", "actors": [], "comments": [], "recommandations_id": []}

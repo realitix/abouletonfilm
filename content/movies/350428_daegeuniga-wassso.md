@@ -1,0 +1,1 @@
+{"tmdb_id": 350428, "title": "\ub300\uadfc\uc774\uac00 \uc654\uc18c", "original_title": "\ub300\uadfc\uc774\uac00 \uc654\uc18c", "slug_title": "daegeuniga-wassso", "date": "1979-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

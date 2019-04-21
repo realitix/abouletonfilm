@@ -1,0 +1,1 @@
+{"tmdb_id": 300048, "title": "Silenci", "original_title": "Silenci", "slug_title": "silenci", "date": "2007-04-13", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rA2NbfFrVnj45Cs4W6hRTljs4OW.jpg", "actors": [], "comments": [], "recommandations_id": []}

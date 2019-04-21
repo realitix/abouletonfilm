@@ -1,0 +1,1 @@
+{"tmdb_id": 349923, "title": "\ubbf8\uce5c \uc0ac\ub791\uc758 \ub178\ub798", "original_title": "\ubbf8\uce5c \uc0ac\ub791\uc758 \ub178\ub798", "slug_title": "micin-sarangyi-norae", "date": "1990-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

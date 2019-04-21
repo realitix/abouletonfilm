@@ -1,0 +1,1 @@
+{"tmdb_id": 537472, "title": "Utz Li Gutz Li - The musical", "original_title": "Utz Li Gutz Li - The musical", "slug_title": "utz-li-gutz-li-the-musical", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkA9ENEHMjPvie2h28XYwUhenme.jpg", "actors": [], "comments": [], "recommandations_id": []}

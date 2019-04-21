@@ -1,0 +1,1 @@
+{"tmdb_id": 531834, "title": "Chronic Tonic", "original_title": "Chronic Tonic", "slug_title": "chronic-tonic", "date": "2017-09-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPz2mbVhNxXmFQ7CwlBCtm1n7xw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 295311, "title": "EvaBridged 3.0: Rei Is (Not) Pleased", "original_title": "EvaBridged 3.0: Rei Is (Not) Pleased", "slug_title": "evabridged-3-0-rei-is-not-pleased", "date": "2013-06-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

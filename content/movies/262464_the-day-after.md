@@ -1,0 +1,1 @@
+{"tmdb_id": 262464, "title": "The Day After", "original_title": "\uc5b4\ub5a4 \uac1c\uc778 \ub0a0", "slug_title": "the-day-after", "date": "2009-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRId8nYVipnr213np5f67pHSWde.jpg", "actors": ["Kim Do-young (Bo-young)"], "comments": [], "recommandations_id": []}

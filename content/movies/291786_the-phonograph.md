@@ -1,0 +1,1 @@
+{"tmdb_id": 291786, "title": "The Phonograph", "original_title": "Le phonographe", "slug_title": "the-phonograph", "date": "1969-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvnrUk5JiAX2Fr5nGgOS9U65dCU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296926, "title": "Black & Blue", "original_title": "Black & Blue", "slug_title": "black-blue", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

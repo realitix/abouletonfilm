@@ -1,0 +1,1 @@
+{"tmdb_id": 337697, "title": "Be Good, Smile Pretty", "original_title": "Be Good, Smile Pretty", "slug_title": "be-good-smile-pretty", "date": "2003-06-11", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

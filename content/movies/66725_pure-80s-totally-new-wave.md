@@ -1,0 +1,1 @@
+{"tmdb_id": 66725, "title": "Pure 80s: Totally New Wave", "original_title": "Pure 80s: Totally New Wave", "slug_title": "pure-80s-totally-new-wave", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MjNF1fkteAVNgqTep1ZQO7ow9x.jpg", "actors": [], "comments": [], "recommandations_id": []}

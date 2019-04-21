@@ -1,0 +1,1 @@
+{"tmdb_id": 312465, "title": "Archie & Friends: Archie's Classic Cartoons", "original_title": "Archie & Friends: Archie's Classic Cartoons", "slug_title": "archie-friends-archie-s-classic-cartoons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 495651, "title": "Kim Larsen Og Kjukken Live Aalborg Moonshine", "original_title": "Kim Larsen Og Kjukken Live Aalborg Moonshine", "slug_title": "kim-larsen-og-kjukken-live-aalborg-moonshine", "date": "2017-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

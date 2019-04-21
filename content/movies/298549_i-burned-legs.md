@@ -1,0 +1,1 @@
+{"tmdb_id": 298549, "title": "I Burned Legs", "original_title": "Palio sam noge", "slug_title": "i-burned-legs", "date": "1993-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOuOoC4EjYZbJ8RRYuHiljzJ9tv.jpg", "actors": ["Sr\u0111an Vuleti\u0107 (Himself)"], "comments": [], "recommandations_id": []}

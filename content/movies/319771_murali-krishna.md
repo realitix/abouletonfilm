@@ -1,0 +1,1 @@
+{"tmdb_id": 319771, "title": "Murali Krishna", "original_title": "Murali Krishna", "slug_title": "murali-krishna", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

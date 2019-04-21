@@ -1,0 +1,1 @@
+{"tmdb_id": 156529, "title": "La cartomancienne", "original_title": "La cartomancienne", "slug_title": "la-cartomancienne", "date": "1932-04-17", "genre": "Romance / Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [184519, 184522, 77851, 162612]}

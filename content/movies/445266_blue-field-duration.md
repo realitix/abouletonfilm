@@ -1,0 +1,1 @@
+{"tmdb_id": 445266, "title": "Blue Field Duration", "original_title": "Blue Field Duration", "slug_title": "blue-field-duration", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

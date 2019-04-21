@@ -1,0 +1,1 @@
+{"tmdb_id": 460733, "title": "Elles \u00e9taient trois", "original_title": "Elles \u00e9taient trois", "slug_title": "elles-etaient-trois", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Viard (Karin)", "Luc Lavandier (Luc)", "Sophie Simon (Sophie)"], "comments": [], "recommandations_id": []}

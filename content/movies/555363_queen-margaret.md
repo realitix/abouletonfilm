@@ -1,0 +1,1 @@
+{"tmdb_id": 555363, "title": "Queen Margaret", "original_title": "La reine Margot", "slug_title": "queen-margaret", "date": "1914-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

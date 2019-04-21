@@ -1,0 +1,1 @@
+{"tmdb_id": 309895, "title": "Pittsburgh Line Blues", "original_title": "Pittsburgh Line Blues", "slug_title": "pittsburgh-line-blues", "date": "1998-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUgGoZKBT8Z3G9cKH58JQyJuOyl.jpg", "actors": [], "comments": [], "recommandations_id": []}

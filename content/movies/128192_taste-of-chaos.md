@@ -1,0 +1,1 @@
+{"tmdb_id": 128192, "title": "Taste of Chaos", "original_title": "Taste of Chaos", "slug_title": "taste-of-chaos", "date": "2005-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80eButiyREejyH7rfoC3x5vmgBR.jpg", "actors": [], "comments": [], "recommandations_id": []}

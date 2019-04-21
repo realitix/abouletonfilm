@@ -1,0 +1,1 @@
+{"tmdb_id": 572157, "title": "Cour interdite", "original_title": "Cour interdite", "slug_title": "cour-interdite", "date": "1999-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7x0C7ejL3XllXOgQXvHafDOtV1r.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349882, "title": "\ub0a8\uc790\uc2dc\uc7a5", "original_title": "\ub0a8\uc790\uc2dc\uc7a5", "slug_title": "namjasijang", "date": "1990-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

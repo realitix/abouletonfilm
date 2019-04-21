@@ -1,0 +1,1 @@
+{"tmdb_id": 491342, "title": "Hot Chili", "original_title": "Hot Chili", "slug_title": "hot-chili", "date": "2004-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Moabi Mogorosi ()", "Seingwaeng Kgafela ()", "Kabo Ditlhakeng ()"], "comments": [], "recommandations_id": []}

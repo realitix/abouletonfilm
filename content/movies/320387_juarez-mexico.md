@@ -1,0 +1,1 @@
+{"tmdb_id": 320387, "title": "Juarez, Mexico", "original_title": "Juarez, Mexico", "slug_title": "juarez-mexico", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hpT8F1u5gq6tHVJVOseC0YNNHE.jpg", "actors": [], "comments": [], "recommandations_id": []}

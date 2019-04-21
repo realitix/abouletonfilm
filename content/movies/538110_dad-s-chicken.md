@@ -1,0 +1,1 @@
+{"tmdb_id": 538110, "title": "Dad's Chicken", "original_title": "Dad's Chicken", "slug_title": "dad-s-chicken", "date": "2003-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOeXBCnlgLkFfqGR6zKrQhiiZ3q.jpg", "actors": [], "comments": [], "recommandations_id": []}

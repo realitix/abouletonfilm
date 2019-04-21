@@ -1,0 +1,1 @@
+{"tmdb_id": 555791, "title": "\u00c2mes corses", "original_title": "\u00c2mes corses", "slug_title": "ames-corses", "date": "1919-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

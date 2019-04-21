@@ -1,0 +1,1 @@
+{"tmdb_id": 139074, "title": "Sebastian Klein: Afrikas \u00f8je", "original_title": "Sebastian Klein: Afrikas \u00f8je", "slug_title": "sebastian-klein-afrikas-oje", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6WcxKcJtsfzAHV92EMMI4J26M3a.jpg", "actors": [], "comments": [], "recommandations_id": []}

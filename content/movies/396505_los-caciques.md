@@ -1,0 +1,1 @@
+{"tmdb_id": 396505, "title": "Los caciques", "original_title": "Los caciques", "slug_title": "los-caciques", "date": "1975-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z7ol5XqQTuR6T4oeBbEIeGIt6TR.jpg", "actors": ["Jorge Rivero ()", "Pedro Armend\u00e1riz Jr. ()"], "comments": [], "recommandations_id": []}

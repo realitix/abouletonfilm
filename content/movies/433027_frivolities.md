@@ -1,0 +1,1 @@
+{"tmdb_id": 433027, "title": "Frivolities", "original_title": "Frivolit\u00e9s", "slug_title": "frivolities", "date": "1929-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Genevi\u00e8ve Cargese ()", "Nilda Duclos ()", "Manuel Raaby ()"], "comments": [], "recommandations_id": []}

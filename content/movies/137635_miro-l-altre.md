@@ -1,0 +1,1 @@
+{"tmdb_id": 137635, "title": "Mir\u00f3, l'altre", "original_title": "Mir\u00f3, l'altre", "slug_title": "miro-l-altre", "date": "1969-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fuhuBmzejZjOUimDyGQWUJToUKy.jpg", "actors": [], "comments": [], "recommandations_id": []}

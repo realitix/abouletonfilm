@@ -1,0 +1,1 @@
+{"tmdb_id": 429024, "title": "Le marchand de statues", "original_title": "Le marchand de statues", "slug_title": "le-marchand-de-statues", "date": "1903-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

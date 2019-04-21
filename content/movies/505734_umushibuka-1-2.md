@@ -1,0 +1,1 @@
+{"tmdb_id": 505734, "title": "Umushibuka 1&2", "original_title": "Umushibuka 1&2", "slug_title": "umushibuka-1-2", "date": "", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pAG0AYFuuEVBqOPp2pce0IMbEYE.jpg", "actors": [], "comments": [], "recommandations_id": []}

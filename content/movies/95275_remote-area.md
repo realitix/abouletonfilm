@@ -1,0 +1,1 @@
+{"tmdb_id": 95275, "title": "Remote Area", "original_title": "Durchfahrtsland", "slug_title": "remote-area", "date": "2005-09-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cnjNgh1yAT3bxpX8ehQrcPg8ONY.jpg", "actors": [], "comments": [], "recommandations_id": []}

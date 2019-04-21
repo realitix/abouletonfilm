@@ -1,0 +1,1 @@
+{"tmdb_id": 555837, "title": "La t\u00eda Helga", "original_title": "La t\u00eda Helga", "slug_title": "la-tia-helga", "date": "2014-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDmwtqpXGjPMR447GYz99PlDDuB.jpg", "actors": [], "comments": [], "recommandations_id": []}

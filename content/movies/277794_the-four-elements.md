@@ -1,0 +1,1 @@
+{"tmdb_id": 277794, "title": "The Four Elements", "original_title": "The Four Elements", "slug_title": "the-four-elements", "date": "1966-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Yq4bOWRqDLlhvqc7hT5RWC6bW1.jpg", "actors": [], "comments": [], "recommandations_id": []}

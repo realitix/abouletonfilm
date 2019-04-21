@@ -1,0 +1,1 @@
+{"tmdb_id": 202592, "title": "Rites of Passage", "original_title": "Rites of Passage", "slug_title": "rites-of-passage", "date": "1983-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPJBAlffSFxtgEveNysJ4YrUX90.jpg", "actors": ["Roderick Harrison ()", "Richard Stanley ()"], "comments": [], "recommandations_id": []}

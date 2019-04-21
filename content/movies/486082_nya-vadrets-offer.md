@@ -1,0 +1,1 @@
+{"tmdb_id": 486082, "title": "Nya v\u00e4drets offer", "original_title": "Nya v\u00e4drets offer", "slug_title": "nya-vadrets-offer", "date": "2009-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfbQluuomHa5QmA1SYf3QoVD2KI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580440, "title": "Policing the Plains", "original_title": "Policing the Plains", "slug_title": "policing-the-plains", "date": "1927-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

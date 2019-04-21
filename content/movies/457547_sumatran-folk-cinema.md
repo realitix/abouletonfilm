@@ -1,0 +1,1 @@
+{"tmdb_id": 457547, "title": "Sumatran Folk Cinema", "original_title": "Sumatran Folk Cinema", "slug_title": "sumatran-folk-cinema", "date": "2008-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vrOMYCFLJnz6uVBVHiQ95VIRaE.jpg", "actors": [], "comments": [], "recommandations_id": []}

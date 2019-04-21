@@ -1,0 +1,1 @@
+{"tmdb_id": 442955, "title": "Arteries of New York City", "original_title": "Arteries of New York City", "slug_title": "arteries-of-new-york-city", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

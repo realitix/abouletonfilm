@@ -1,0 +1,1 @@
+{"tmdb_id": 249221, "title": "Bawal Boy", "original_title": "Bawal Boy", "slug_title": "bawal-boy", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8B3TNOJnNrjqbozqrG3Zql7b9EY.jpg", "actors": [], "comments": [], "recommandations_id": []}

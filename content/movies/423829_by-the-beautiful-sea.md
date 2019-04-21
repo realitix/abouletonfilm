@@ -1,0 +1,1 @@
+{"tmdb_id": 423829, "title": "By the Beautiful Sea", "original_title": "By the Beautiful Sea", "slug_title": "by-the-beautiful-sea", "date": "1931-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

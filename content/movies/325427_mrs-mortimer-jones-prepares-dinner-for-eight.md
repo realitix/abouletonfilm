@@ -1,0 +1,1 @@
+{"tmdb_id": 325427, "title": "Mrs. Mortimer Jones Prepares \"Dinner for Eight\"", "original_title": "Mrs. Mortimer Jones Prepares \"Dinner for Eight\"", "slug_title": "mrs-mortimer-jones-prepares-dinner-for-eight", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

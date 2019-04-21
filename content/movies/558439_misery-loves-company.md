@@ -1,0 +1,1 @@
+{"tmdb_id": 558439, "title": "Misery Loves Company", "original_title": "Misery Loves Company", "slug_title": "misery-loves-company", "date": "2018-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XfLkvfy8DdmsJY3yEwfIw1r3zd.jpg", "actors": ["Josh Mendez ()"], "comments": [], "recommandations_id": []}

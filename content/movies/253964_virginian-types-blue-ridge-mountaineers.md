@@ -1,0 +1,1 @@
+{"tmdb_id": 253964, "title": "Virginian Types: Blue Ridge Mountaineers", "original_title": "Virginian Types: Blue Ridge Mountaineers", "slug_title": "virginian-types-blue-ridge-mountaineers", "date": "1926-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

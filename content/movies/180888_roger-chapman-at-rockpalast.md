@@ -1,0 +1,1 @@
+{"tmdb_id": 180888, "title": "Roger Chapman at Rockpalast", "original_title": "Roger Chapman at Rockpalast", "slug_title": "roger-chapman-at-rockpalast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

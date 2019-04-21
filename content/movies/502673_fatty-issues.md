@@ -1,0 +1,1 @@
+{"tmdb_id": 502673, "title": "Fatty Issues", "original_title": "Fatty Issues", "slug_title": "fatty-issues", "date": "1990-10-03", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah Ann Kennedy ()", "Matthew Dennis ()"], "comments": [], "recommandations_id": []}

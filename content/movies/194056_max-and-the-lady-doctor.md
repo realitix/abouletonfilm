@@ -1,0 +1,1 @@
+{"tmdb_id": 194056, "title": "Max and the Lady Doctor", "original_title": "Max et la doctoresse", "slug_title": "max-and-the-lady-doctor", "date": "1909-05-16", "genre": "Romance / Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Lucy d'Orbel ()", "Georges Gorby ()"], "comments": [], "recommandations_id": []}

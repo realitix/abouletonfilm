@@ -1,0 +1,1 @@
+{"tmdb_id": 455233, "title": "Kids Who Knew Too Much", "original_title": "Kids Who Knew Too Much", "slug_title": "kids-who-knew-too-much", "date": "1980-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/teSMcImVp42qP1RlRgBpxX2nqNF.jpg", "actors": [], "comments": [], "recommandations_id": []}

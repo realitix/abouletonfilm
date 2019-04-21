@@ -1,0 +1,1 @@
+{"tmdb_id": 467792, "title": "24 Hour Comic", "original_title": "24 Hour Comic", "slug_title": "24-hour-comic", "date": "2017-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gynl9bvlS2ni8zMEMpGbuJlUvp0.jpg", "actors": [], "comments": [], "recommandations_id": []}

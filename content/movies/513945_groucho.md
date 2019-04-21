@@ -1,0 +1,1 @@
+{"tmdb_id": 513945, "title": "Groucho", "original_title": "Groucho", "slug_title": "groucho", "date": "1982-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gabe Kaplan (Groucho Marx)", "Connie Danese ()", "Michael Tucci (Chico Marx)"], "comments": [], "recommandations_id": []}

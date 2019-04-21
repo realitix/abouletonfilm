@@ -1,0 +1,1 @@
+{"tmdb_id": 272327, "title": "Remote Viewing", "original_title": "Remote Viewing", "slug_title": "remote-viewing", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

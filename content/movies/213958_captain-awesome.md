@@ -1,0 +1,1 @@
+{"tmdb_id": 213958, "title": "Captain Awesome", "original_title": "Captain Awesome", "slug_title": "captain-awesome", "date": "2011-01-01", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myDUt76bRl0ztN6dv2Rp503KfFn.jpg", "actors": [], "comments": [], "recommandations_id": []}

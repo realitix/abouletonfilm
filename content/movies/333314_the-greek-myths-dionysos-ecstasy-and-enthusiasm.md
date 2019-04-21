@@ -1,0 +1,1 @@
+{"tmdb_id": 333314, "title": "The Greek Myths: Dionysos: Ecstasy and Enthusiasm", "original_title": "The Greek Myths: Dionysos: Ecstasy and Enthusiasm", "slug_title": "the-greek-myths-dionysos-ecstasy-and-enthusiasm", "date": "2014-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

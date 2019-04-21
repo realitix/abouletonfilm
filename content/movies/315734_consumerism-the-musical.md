@@ -1,0 +1,1 @@
+{"tmdb_id": 315734, "title": "Consumerism! The Musical", "original_title": "Consumerism! The Musical", "slug_title": "consumerism-the-musical", "date": "2007-07-07", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390152, "title": "Golden Globe - Brasilien", "original_title": "Golden Globe - Brasilien", "slug_title": "golden-globe-brasilien", "date": "2004-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSrNa0Pr0wMSc7M5wVJMde1Z8re.jpg", "actors": [], "comments": [], "recommandations_id": []}

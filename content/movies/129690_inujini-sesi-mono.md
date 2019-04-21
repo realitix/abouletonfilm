@@ -1,0 +1,1 @@
+{"tmdb_id": 129690, "title": "Inujini sesi mono", "original_title": "\u72ac\u6b7b\u306b\u305b\u3057\u3082\u306e", "slug_title": "inujini-sesi-mono", "date": "1986-04-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18esQjG5WlfKK3Ipj6LqTDrHSXy.jpg", "actors": [], "comments": [], "recommandations_id": []}

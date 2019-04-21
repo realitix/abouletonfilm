@@ -1,0 +1,1 @@
+{"tmdb_id": 420536, "title": "Katie Banks", "original_title": "Katie Banks", "slug_title": "katie-banks", "date": "2016-08-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oleWDTTkyO5fyBoIfy1PQBfwNEP.jpg", "actors": ["Katie Banks ()", "Tc Davidson ()"], "comments": [], "recommandations_id": []}

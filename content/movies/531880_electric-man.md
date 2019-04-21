@@ -1,0 +1,1 @@
+{"tmdb_id": 531880, "title": "Electric Man", "original_title": "hombre el\u00e9ctrico", "slug_title": "electric-man", "date": "2016-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jHsiGwNIermDPB7QpwFwdGdNRFd.jpg", "actors": [], "comments": [], "recommandations_id": []}

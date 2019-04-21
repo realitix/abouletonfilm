@@ -1,0 +1,1 @@
+{"tmdb_id": 434296, "title": "Chuttalabbai", "original_title": "Chuttalabbai", "slug_title": "chuttalabbai", "date": "2016-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8idspFniV0ZZCU9EiSsZob4J1rG.jpg", "actors": [], "comments": [], "recommandations_id": []}

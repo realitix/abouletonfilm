@@ -1,0 +1,1 @@
+{"tmdb_id": 316334, "title": "The Room of Bones", "original_title": "El cuarto de los huesos", "slug_title": "the-room-of-bones", "date": "2015-10-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8nnXh16X7iuImd6fcgx5t7iiLV.jpg", "actors": [], "comments": [], "recommandations_id": []}

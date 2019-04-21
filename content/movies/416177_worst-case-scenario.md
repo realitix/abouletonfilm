@@ -1,0 +1,1 @@
+{"tmdb_id": 416177, "title": "Worst Case Scenario", "original_title": "Worst Case Scenario", "slug_title": "worst-case-scenario", "date": "2003-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lfblmeNBF7bTj8dqrMhhwtxDVDn.jpg", "actors": [], "comments": [], "recommandations_id": []}

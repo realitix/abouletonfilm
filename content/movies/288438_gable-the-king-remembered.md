@@ -1,0 +1,1 @@
+{"tmdb_id": 288438, "title": "Gable: The King Remembered", "original_title": "Gable: The King Remembered", "slug_title": "gable-the-king-remembered", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

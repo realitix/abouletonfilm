@@ -1,0 +1,1 @@
+{"tmdb_id": 190348, "title": "Ko-Ko's Hypnotism", "original_title": "Ko-Ko's Hypnotism", "slug_title": "ko-ko-s-hypnotism", "date": "1929-07-13", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8czKeSMtmKHOkOg2SxlIcRJKXQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 419382, "title": "Shejari", "original_title": "Shejari", "slug_title": "shejari", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXkGK9KQZZAWV63ulRJXFNdsouu.jpg", "actors": ["Keshavrao Date ()", "Gajanan Jagirdar ()"], "comments": [], "recommandations_id": []}

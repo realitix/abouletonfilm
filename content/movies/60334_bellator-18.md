@@ -1,0 +1,1 @@
+{"tmdb_id": 60334, "title": "Bellator 18", "original_title": "Bellator 18", "slug_title": "bellator-18", "date": "2010-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FU308Ra7h5xWpMe0PC9XfO7jK7.jpg", "actors": [], "comments": [], "recommandations_id": []}

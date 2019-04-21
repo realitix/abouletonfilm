@@ -1,0 +1,1 @@
+{"tmdb_id": 105024, "title": "Stone Reader", "original_title": "Stone Reader", "slug_title": "stone-reader", "date": "2002-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fDKt9Wls42MCa7uYLXSdrdiB0bF.jpg", "actors": [], "comments": [], "recommandations_id": []}

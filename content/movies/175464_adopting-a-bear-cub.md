@@ -1,0 +1,1 @@
+{"tmdb_id": 175464, "title": "Adopting a Bear Cub", "original_title": "Adopting a Bear Cub", "slug_title": "adopting-a-bear-cub", "date": "1921-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

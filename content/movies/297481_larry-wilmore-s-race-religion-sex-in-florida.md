@@ -1,0 +1,1 @@
+{"tmdb_id": 297481, "title": "Larry Wilmore's Race, Religion & Sex in Florida", "original_title": "Larry Wilmore's Race, Religion & Sex in Florida", "slug_title": "larry-wilmore-s-race-religion-sex-in-florida", "date": "2012-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

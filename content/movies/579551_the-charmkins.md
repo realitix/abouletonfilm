@@ -1,0 +1,1 @@
+{"tmdb_id": 579551, "title": "The Charmkins", "original_title": "The Charmkins", "slug_title": "the-charmkins", "date": "1982-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3r38ddklkhq8qaGQ42n1hgvD7XS.jpg", "actors": [], "comments": [], "recommandations_id": []}

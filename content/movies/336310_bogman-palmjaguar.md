@@ -1,0 +1,1 @@
+{"tmdb_id": 336310, "title": "Bogman Palmjaguar", "original_title": "Bogman Palmjaguar", "slug_title": "bogman-palmjaguar", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXrLUzGLICNk9Ql2JjNFU0VUlYZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

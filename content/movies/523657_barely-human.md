@@ -1,0 +1,1 @@
+{"tmdb_id": 523657, "title": "Barely Human", "original_title": "Barely Human", "slug_title": "barely-human", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

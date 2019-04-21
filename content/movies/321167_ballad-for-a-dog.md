@@ -1,0 +1,1 @@
+{"tmdb_id": 321167, "title": "Ballad for a Dog", "original_title": "Ballade pour un chien", "slug_title": "ballad-for-a-dog", "date": "1969-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vG2KX76nBAIwM8vVg6mCBhUY72V.jpg", "actors": [], "comments": [], "recommandations_id": []}

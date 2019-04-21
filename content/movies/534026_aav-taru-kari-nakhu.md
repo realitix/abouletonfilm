@@ -1,0 +1,1 @@
+{"tmdb_id": 534026, "title": "Aav Taru Kari Nakhu", "original_title": "Aav Taru Kari Nakhu", "slug_title": "aav-taru-kari-nakhu", "date": "2017-06-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rX7DpAMpqISGiiGFQZeGOf3Ty8g.jpg", "actors": [], "comments": [], "recommandations_id": []}

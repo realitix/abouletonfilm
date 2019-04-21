@@ -1,0 +1,1 @@
+{"tmdb_id": 432624, "title": "Alan Yates Uncovered", "original_title": "Alan Yates Uncovered", "slug_title": "alan-yates-uncovered", "date": "2005-10-25", "genre": "Horreur / Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl Gabriel Yorke (Himself)", "Sage Stallone (himself)"], "comments": [], "recommandations_id": []}

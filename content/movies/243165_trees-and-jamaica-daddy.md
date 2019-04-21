@@ -1,0 +1,1 @@
+{"tmdb_id": 243165, "title": "Trees and Jamaica Daddy", "original_title": "Trees and Jamaica Daddy", "slug_title": "trees-and-jamaica-daddy", "date": "1957-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

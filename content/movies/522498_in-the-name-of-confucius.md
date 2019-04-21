@@ -1,0 +1,1 @@
+{"tmdb_id": 522498, "title": "In the Name of Confucius", "original_title": "In the Name of Confucius", "slug_title": "in-the-name-of-confucius", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

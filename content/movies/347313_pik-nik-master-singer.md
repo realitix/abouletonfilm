@@ -1,0 +1,1 @@
+{"tmdb_id": 347313, "title": "Pik-Nik Master Singer", "original_title": "Pik Nik ha il do di petto", "slug_title": "pik-nik-master-singer", "date": "1911-11-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

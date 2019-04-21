@@ -1,0 +1,1 @@
+{"tmdb_id": 234281, "title": "Comic Relief Zero", "original_title": "Comic Relief Zero", "slug_title": "comic-relief-zero", "date": "2013-11-05", "genre": "Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ghsPCzzDxqyOWmrcbS97iKyWgP4.jpg", "actors": [], "comments": [], "recommandations_id": []}

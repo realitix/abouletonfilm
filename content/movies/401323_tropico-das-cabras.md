@@ -1,0 +1,1 @@
+{"tmdb_id": 401323, "title": "Tr\u00f3pico das Cabras", "original_title": "Tr\u00f3pico das Cabras", "slug_title": "tropico-das-cabras", "date": "2007-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["V\u00edctor Hugo Carrizo ()", "Larissa Salgado ()"], "comments": [], "recommandations_id": []}

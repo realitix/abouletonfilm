@@ -1,0 +1,1 @@
+{"tmdb_id": 470855, "title": "A Sentimental Education", "original_title": "A Sentimental Education", "slug_title": "a-sentimental-education", "date": "2015-11-14", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xryfOyjlPmaclBujW1vltKodMSv.jpg", "actors": [], "comments": [], "recommandations_id": []}

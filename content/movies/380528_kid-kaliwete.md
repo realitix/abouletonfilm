@@ -1,0 +1,1 @@
+{"tmdb_id": 380528, "title": "Kid Kaliwete", "original_title": "Kid Kaliwete", "slug_title": "kid-kaliwete", "date": "1978-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ig0WfjOZncPYeocbZxwqtTwBYmo.jpg", "actors": [], "comments": [], "recommandations_id": []}

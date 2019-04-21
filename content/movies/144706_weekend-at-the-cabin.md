@@ -1,0 +1,1 @@
+{"tmdb_id": 144706, "title": "Weekend At The Cabin", "original_title": "Weekend At The Cabin", "slug_title": "weekend-at-the-cabin", "date": "", "genre": "", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Atq3HZS9tjVocauASGMGso9i0nv.jpg", "actors": [], "comments": [], "recommandations_id": []}

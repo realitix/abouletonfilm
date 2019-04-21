@@ -1,0 +1,1 @@
+{"tmdb_id": 582843, "title": "Browning 9mm", "original_title": "Venganza de Policia", "slug_title": "browning-9mm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 308547, "title": "Grand Canyon", "original_title": "Grand Canyon", "slug_title": "grand-canyon", "date": "1949-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

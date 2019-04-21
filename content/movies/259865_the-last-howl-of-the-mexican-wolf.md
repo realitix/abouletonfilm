@@ -1,0 +1,1 @@
+{"tmdb_id": 259865, "title": "The Last Howl of the Mexican Wolf", "original_title": "El \u00faltimo aullido del lobo mexicano", "slug_title": "the-last-howl-of-the-mexican-wolf", "date": "2013-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

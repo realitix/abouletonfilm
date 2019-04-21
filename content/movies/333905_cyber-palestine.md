@@ -1,0 +1,1 @@
+{"tmdb_id": 333905, "title": "Cyber Palestine", "original_title": "Cyber Palestine", "slug_title": "cyber-palestine", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

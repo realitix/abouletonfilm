@@ -1,0 +1,1 @@
+{"tmdb_id": 418262, "title": "The Twister", "original_title": "The Twister", "slug_title": "the-twister", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsoi6gBYo0ENoFzyn3m0wycQgrb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573968, "title": "Prince of Thieves", "original_title": "\u8cca\u738b\u5b50", "slug_title": "prince-of-thieves", "date": "1958-01-01", "genre": "Fantastique / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ho Fei-Fan ()", "Mui Yee ()", "Lam Kau ()", "Lee Bo-ying ()"], "comments": [], "recommandations_id": []}

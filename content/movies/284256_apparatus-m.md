@@ -1,0 +1,1 @@
+{"tmdb_id": 284256, "title": "Apparatus M", "original_title": "\u30ae\u30fb\u88c5\u7f6e\uff2d", "slug_title": "apparatus-m", "date": "1996-07-29", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJhraeYDyFv8fWg4FfLR9UaHq0f.jpg", "actors": ["Yasumasa Morimura ()"], "comments": [], "recommandations_id": []}

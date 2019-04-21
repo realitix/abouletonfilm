@@ -1,0 +1,1 @@
+{"tmdb_id": 312605, "title": "Lynn Anderson: Live at the Renaissance Center", "original_title": "Lynn Anderson: Live at the Renaissance Center", "slug_title": "lynn-anderson-live-at-the-renaissance-center", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

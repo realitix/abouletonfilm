@@ -1,0 +1,1 @@
+{"tmdb_id": 566906, "title": "Charles", "original_title": "Charles", "slug_title": "charles", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 196304, "title": "Ouch Television My Brain Hurts", "original_title": "Ouch Television My Brain Hurts", "slug_title": "ouch-television-my-brain-hurts", "date": "1996-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8D1CPeTmFZNjQtWXb96Aj9eSc5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

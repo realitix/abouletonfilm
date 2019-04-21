@@ -1,0 +1,1 @@
+{"tmdb_id": 527397, "title": "The Silent Wife", "original_title": "The Silent Wife", "slug_title": "the-silent-wife", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicole Kidman (Jodi)"], "comments": [], "recommandations_id": []}

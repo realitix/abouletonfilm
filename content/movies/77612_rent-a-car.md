@@ -1,0 +1,1 @@
+{"tmdb_id": 77612, "title": "Rent a Car", "original_title": "Rent a Car", "slug_title": "rent-a-car", "date": "2010-12-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9r0rHf42TL2D1AAaDZlMOGPhV5w.jpg", "actors": [], "comments": [], "recommandations_id": []}

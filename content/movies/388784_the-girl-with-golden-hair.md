@@ -1,0 +1,1 @@
+{"tmdb_id": 388784, "title": "The Girl with Golden Hair", "original_title": "Chrissomaloussa", "slug_title": "the-girl-with-golden-hair", "date": "1979-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522582, "title": "Himitsu Spark", "original_title": "HIMITSU\u30b9\u30d1\u30fc\u30af", "slug_title": "himitsu-spark", "date": "2014-12-19", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJrn25ptHOS10xizJYON1RhJKw.jpg", "actors": [], "comments": [], "recommandations_id": []}

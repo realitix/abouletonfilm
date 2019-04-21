@@ -1,0 +1,1 @@
+{"tmdb_id": 308177, "title": "Goodbye Marilyn Part 2", "original_title": "Goodbye Marilyn Part 2", "slug_title": "goodbye-marilyn-part-2", "date": "2012-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Oom8kQ08TfmpHDh6XSOYFs37Ln.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314962, "title": "CHIKARA: The Foggiest Notion", "original_title": "CHIKARA: The Foggiest Notion", "slug_title": "chikara-the-foggiest-notion", "date": "2012-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIYShcBb0hdPeOq3pQwqxgIxMn7.jpg", "actors": [], "comments": [], "recommandations_id": []}

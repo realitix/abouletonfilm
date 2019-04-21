@@ -1,0 +1,1 @@
+{"tmdb_id": 281609, "title": "Brief History", "original_title": "Scurta Istorie", "slug_title": "brief-history", "date": "1956-01-02", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVEXnjnxADsF4V5NygiZ3QV5cYa.jpg", "actors": [], "comments": [], "recommandations_id": []}

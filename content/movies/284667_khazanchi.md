@@ -1,0 +1,1 @@
+{"tmdb_id": 284667, "title": "Khazanchi", "original_title": "Khazanchi", "slug_title": "khazanchi", "date": "1941-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRZwBrfpXY7s7luyjoxJZuJnkW6.jpg", "actors": ["M. Ismail ()", "Ramala Devi ()", "S.D. Narang ()"], "comments": [], "recommandations_id": []}

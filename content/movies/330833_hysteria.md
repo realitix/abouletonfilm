@@ -1,0 +1,1 @@
+{"tmdb_id": 330833, "title": "Hysteria", "original_title": "Hysteria", "slug_title": "hysteria", "date": "1998-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

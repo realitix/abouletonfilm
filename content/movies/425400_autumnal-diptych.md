@@ -1,0 +1,1 @@
+{"tmdb_id": 425400, "title": "Autumnal Diptych", "original_title": "Autumnal Diptych", "slug_title": "autumnal-diptych", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oOHgsoV5YyldxSneoS6GnAr0pUH.jpg", "actors": [], "comments": [], "recommandations_id": []}

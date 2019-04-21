@@ -1,0 +1,1 @@
+{"tmdb_id": 252565, "title": "Life Is Strange", "original_title": "Life Is Strange", "slug_title": "life-is-strange", "date": "2014-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxlpESUfCoIaKfqR4iyyzI2dEle.jpg", "actors": [], "comments": [], "recommandations_id": []}

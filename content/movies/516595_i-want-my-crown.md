@@ -1,0 +1,1 @@
+{"tmdb_id": 516595, "title": "I Want My Crown", "original_title": "I Want My Crown", "slug_title": "i-want-my-crown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

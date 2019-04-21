@@ -1,0 +1,1 @@
+{"tmdb_id": 26575, "title": "Carl Barron: Live", "original_title": "Carl Barron: Live", "slug_title": "carl-barron-live", "date": "2005-08-01", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5W6JAN5C1GsYq3LJIn5paBHDuu.jpg", "actors": ["Carl Barron (Carl Barron)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 532696, "title": "The Strange and Eerie Memoirs of Billy Wuthergloom", "original_title": "The Strange and Eerie Memoirs of Billy Wuthergloom", "slug_title": "the-strange-and-eerie-memoirs-of-billy-wuthergloom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

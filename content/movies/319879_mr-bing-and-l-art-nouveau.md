@@ -1,0 +1,1 @@
+{"tmdb_id": 319879, "title": "Mr. Bing and L'Art Nouveau", "original_title": "Mr. Bing and L'Art Nouveau", "slug_title": "mr-bing-and-l-art-nouveau", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

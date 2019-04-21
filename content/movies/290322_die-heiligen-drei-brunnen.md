@@ -1,0 +1,1 @@
+{"tmdb_id": 290322, "title": "Die heiligen drei Brunnen", "original_title": "Die heiligen drei Brunnen", "slug_title": "die-heiligen-drei-brunnen", "date": "1930-04-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Trenker (Christomanus)", "Betty Bird (Pia)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 22906, "title": "American Blackout", "original_title": "American Blackout", "slug_title": "american-blackout", "date": "2006-01-27", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zVp9YAv5hiX2Ogtsahy3IDqXLk.jpg", "actors": [], "comments": [], "recommandations_id": [26370, 36678, 34389, 41303]}

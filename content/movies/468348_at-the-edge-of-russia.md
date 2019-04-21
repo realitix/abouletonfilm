@@ -1,0 +1,1 @@
+{"tmdb_id": 468348, "title": "At the Edge of Russia", "original_title": "Koniec Rosji", "slug_title": "at-the-edge-of-russia", "date": "2010-01-01", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fK7uDdXttbSnYxZGw7IygibPnuZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 494397, "title": "The Rose and The Ring", "original_title": "The Rose and The Ring", "slug_title": "the-rose-and-the-ring", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

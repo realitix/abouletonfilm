@@ -1,0 +1,1 @@
+{"tmdb_id": 351362, "title": "The Feudin' Hillbillies", "original_title": "The Feudin' Hillbillies", "slug_title": "the-feudin-hillbillies", "date": "1948-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JLebbxiBwEhoNWEv7oXB0TpX7E.jpg", "actors": [], "comments": [], "recommandations_id": []}

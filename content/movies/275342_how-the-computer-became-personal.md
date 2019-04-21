@@ -1,0 +1,1 @@
+{"tmdb_id": 275342, "title": "How the Computer Became Personal", "original_title": "How the Computer Became Personal", "slug_title": "how-the-computer-became-personal", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

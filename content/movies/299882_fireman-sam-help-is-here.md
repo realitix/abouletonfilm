@@ -1,0 +1,1 @@
+{"tmdb_id": 299882, "title": "Fireman Sam: Help Is Here!", "original_title": "Fireman Sam: Help Is Here!", "slug_title": "fireman-sam-help-is-here", "date": "2009-08-25", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dR8f6iDc75o9DDlnjROVD8eCSPh.jpg", "actors": [], "comments": [], "recommandations_id": []}

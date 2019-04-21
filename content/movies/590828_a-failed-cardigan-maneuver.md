@@ -1,0 +1,1 @@
+{"tmdb_id": 590828, "title": "A Failed Cardigan Maneuver", "original_title": "A Failed Cardigan Maneuver", "slug_title": "a-failed-cardigan-maneuver", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

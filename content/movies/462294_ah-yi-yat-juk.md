@@ -1,0 +1,1 @@
+{"tmdb_id": 462294, "title": "Ah yi yat juk", "original_title": "Ah yi yat juk", "slug_title": "ah-yi-yat-juk", "date": "1992-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dLUgpPF5YhfllNCEMvXIIGDldl.jpg", "actors": [], "comments": [], "recommandations_id": []}

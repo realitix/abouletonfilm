@@ -1,0 +1,1 @@
+{"tmdb_id": 582502, "title": "O Lobo e os Sete Cabritinhos", "original_title": "O Lobo e os Sete Cabritinhos", "slug_title": "o-lobo-e-os-sete-cabritinhos", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVsSP4xAvB0dFSpm2E0twQAEK7F.jpg", "actors": [], "comments": [], "recommandations_id": []}

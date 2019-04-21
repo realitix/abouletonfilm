@@ -1,0 +1,1 @@
+{"tmdb_id": 275797, "title": "The War Zone: Eva Braun: Hitler's Mistress", "original_title": "The War Zone: Eva Braun: Hitler's Mistress", "slug_title": "the-war-zone-eva-braun-hitler-s-mistress", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

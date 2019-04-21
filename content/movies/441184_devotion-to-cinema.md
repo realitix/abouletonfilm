@@ -1,0 +1,1 @@
+{"tmdb_id": 441184, "title": "Devotion to Cinema", "original_title": "\u30ad\u30cd\u30de\u7d14\u60c5", "slug_title": "devotion-to-cinema", "date": "2016-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jAyRgfN98id2Jk0qc7elAHSAos.jpg", "actors": [], "comments": [], "recommandations_id": []}

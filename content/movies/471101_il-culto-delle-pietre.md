@@ -1,0 +1,1 @@
+{"tmdb_id": 471101, "title": "Il culto delle pietre", "original_title": "Il culto delle pietre", "slug_title": "il-culto-delle-pietre", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wAStQ5dUyC4wWt1FNsc6sjqOGJr.jpg", "actors": [], "comments": [], "recommandations_id": []}

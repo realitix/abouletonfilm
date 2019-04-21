@@ -1,0 +1,1 @@
+{"tmdb_id": 297493, "title": "Mystery of the Carpathian Sphinx", "original_title": "Mystery of the Carpathian Sphinx", "slug_title": "mystery-of-the-carpathian-sphinx", "date": "2013-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

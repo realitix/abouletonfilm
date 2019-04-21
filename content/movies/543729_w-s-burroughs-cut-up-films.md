@@ -1,0 +1,1 @@
+{"tmdb_id": 543729, "title": "W.S. Burroughs Cut-Up Films", "original_title": "W.S. Burroughs Cut-Up Films", "slug_title": "w-s-burroughs-cut-up-films", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rrUhPU2IdXBHMvYGglbDEY1MuU.jpg", "actors": [], "comments": [], "recommandations_id": []}

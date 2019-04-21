@@ -1,0 +1,1 @@
+{"tmdb_id": 475091, "title": "Hacked Horror Film Massacre", "original_title": "Hacked Horror Film Massacre", "slug_title": "hacked-horror-film-massacre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 196602, "title": "Le costume blanc", "original_title": "Le costume blanc", "slug_title": "le-costume-blanc", "date": "1908-01-01", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwrcoo9mgUtRAL6sXO1kS4blBqH.jpg", "actors": ["Andr\u00e9 Deed ()"], "comments": [], "recommandations_id": []}

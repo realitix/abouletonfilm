@@ -1,0 +1,1 @@
+{"tmdb_id": 185414, "title": "Jerry and Me", "original_title": "Jerry and Me", "slug_title": "jerry-and-me", "date": "2012-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOHXY1qjGNMDt0BXUNPuy4Pm5JH.jpg", "actors": [], "comments": [], "recommandations_id": []}

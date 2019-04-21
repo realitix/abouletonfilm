@@ -1,0 +1,1 @@
+{"tmdb_id": 551626, "title": "A Batalha da Maria Ant\u00f4nia", "original_title": "A Batalha da Maria Ant\u00f4nia", "slug_title": "a-batalha-da-maria-antonia", "date": "2014-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

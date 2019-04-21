@@ -1,0 +1,1 @@
+{"tmdb_id": 577218, "title": "Psycho-lettes", "original_title": "Psycho-lettes", "slug_title": "psycho-lettes", "date": "1996-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/33xFdfOSAJlN6WB6swfypvQhqcv.jpg", "actors": [], "comments": [], "recommandations_id": []}

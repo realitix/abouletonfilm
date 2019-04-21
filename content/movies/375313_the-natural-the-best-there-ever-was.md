@@ -1,0 +1,1 @@
+{"tmdb_id": 375313, "title": "The Natural: The Best There Ever Was", "original_title": "The Natural: The Best There Ever Was", "slug_title": "the-natural-the-best-there-ever-was", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

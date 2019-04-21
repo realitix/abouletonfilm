@@ -1,0 +1,1 @@
+{"tmdb_id": 311895, "title": "Brent Jones & The T.P. Mobb: The Ultimate Weekend", "original_title": "Brent Jones & The T.P. Mobb: The Ultimate Weekend", "slug_title": "brent-jones-the-t-p-mobb-the-ultimate-weekend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

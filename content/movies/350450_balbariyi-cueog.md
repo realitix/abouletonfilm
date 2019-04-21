@@ -1,0 +1,1 @@
+{"tmdb_id": 350450, "title": "\ubc1c\ubc14\ub9ac\uc758 \ucd94\uc5b5", "original_title": "\ubc1c\ubc14\ub9ac\uc758 \ucd94\uc5b5", "slug_title": "balbariyi-cueog", "date": "1989-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

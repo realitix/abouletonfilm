@@ -1,0 +1,1 @@
+{"tmdb_id": 342459, "title": "Pink Elephants", "original_title": "Pink Elephants", "slug_title": "pink-elephants", "date": "1937-07-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

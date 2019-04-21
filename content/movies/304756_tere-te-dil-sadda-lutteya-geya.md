@@ -1,0 +1,1 @@
+{"tmdb_id": 304756, "title": "Tere Te Dil Sadda Lutteya Geya", "original_title": "Tere Te Dil Sadda Lutteya Geya", "slug_title": "tere-te-dil-sadda-lutteya-geya", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

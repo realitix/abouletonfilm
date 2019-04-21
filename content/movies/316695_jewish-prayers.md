@@ -1,0 +1,1 @@
+{"tmdb_id": 316695, "title": "Jewish Prayers", "original_title": "Jewish Prayers", "slug_title": "jewish-prayers", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

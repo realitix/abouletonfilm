@@ -1,0 +1,1 @@
+{"tmdb_id": 361105, "title": "Worker\u2019s Weekend", "original_title": "Worker\u2019s Weekend", "slug_title": "workers-weekend", "date": "1943-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

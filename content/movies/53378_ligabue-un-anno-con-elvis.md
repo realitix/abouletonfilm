@@ -1,0 +1,1 @@
+{"tmdb_id": 53378, "title": "Ligabue Un anno Con Elvis", "original_title": "Ligabue Un anno Con Elvis", "slug_title": "ligabue-un-anno-con-elvis", "date": "1996-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXA2SWspVWFkEsiKacdF1wfWorg.jpg", "actors": [], "comments": [], "recommandations_id": []}

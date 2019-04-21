@@ -1,0 +1,1 @@
+{"tmdb_id": 528326, "title": "Bittere Pillen", "original_title": "Bittere Pillen", "slug_title": "bittere-pillen", "date": "1974-05-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Renate Rennhack (Helga Zander)", "Renate Kr\u00f6\u00dfner (Karin Zornemann)", "Steffie Spira ()"], "comments": [], "recommandations_id": []}

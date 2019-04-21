@@ -1,0 +1,1 @@
+{"tmdb_id": 143457, "title": "My Nightmare", "original_title": "My Nightmare", "slug_title": "my-nightmare", "date": "1993-09-03", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cw8zJRnJBTGvZEuHuNLyFFJiud.jpg", "actors": ["Richard Kern ()", "Susan McNamara ()"], "comments": [], "recommandations_id": []}

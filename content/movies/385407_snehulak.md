@@ -1,0 +1,1 @@
+{"tmdb_id": 385407, "title": "Sn\u011bhul\u00e1k", "original_title": "Sn\u011bhul\u00e1k", "slug_title": "snehulak", "date": "1966-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKl3fgv8sw6tUbwWrlG0BPFk06I.jpg", "actors": [], "comments": [], "recommandations_id": []}

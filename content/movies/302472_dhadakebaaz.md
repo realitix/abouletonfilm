@@ -1,0 +1,1 @@
+{"tmdb_id": 302472, "title": "Dhadakebaaz", "original_title": "Dhadakebaaz", "slug_title": "dhadakebaaz", "date": "1990-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laxmikant Berde (Lakshya)", "Ashwini Bhave ()", "Mahesh Kothare ()", "Deepak Shirke ()"], "comments": [], "recommandations_id": []}

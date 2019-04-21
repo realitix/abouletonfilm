@@ -1,0 +1,1 @@
+{"tmdb_id": 313662, "title": "Sweet Friday", "original_title": "Sweet Friday", "slug_title": "sweet-friday", "date": "1975-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJ0NBUR6WCgrMdflEPagB7MQ26p.jpg", "actors": [], "comments": [], "recommandations_id": []}

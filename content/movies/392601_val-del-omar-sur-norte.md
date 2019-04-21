@@ -1,0 +1,1 @@
+{"tmdb_id": 392601, "title": "Val del Omar Sur-Norte", "original_title": "Val del Omar Sur-Norte", "slug_title": "val-del-omar-sur-norte", "date": "1974-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

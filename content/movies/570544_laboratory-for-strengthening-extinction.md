@@ -1,0 +1,1 @@
+{"tmdb_id": 570544, "title": "Laboratory for Strengthening Extinction", "original_title": "Laboratory for Strengthening Extinction", "slug_title": "laboratory-for-strengthening-extinction", "date": "2018-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

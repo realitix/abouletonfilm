@@ -1,0 +1,1 @@
+{"tmdb_id": 512349, "title": "A Paz Ainda Vir\u00e1 Nesta Vida", "original_title": "A Paz Ainda Vir\u00e1 Nesta Vida", "slug_title": "a-paz-ainda-vira-nesta-vida", "date": "2017-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u75CYHogfc9m348J3wrcrSgKGPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

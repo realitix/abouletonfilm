@@ -1,0 +1,1 @@
+{"tmdb_id": 242012, "title": "Slednecks 1", "original_title": "Slednecks 1", "slug_title": "slednecks-1", "date": "1998-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hAnINUZYfxsaBf3rqhPdofD0ADn.jpg", "actors": [], "comments": [], "recommandations_id": []}

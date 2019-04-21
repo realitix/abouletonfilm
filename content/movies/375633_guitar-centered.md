@@ -1,0 +1,1 @@
+{"tmdb_id": 375633, "title": "Guitar Centered", "original_title": "Guitar Centered", "slug_title": "guitar-centered", "date": "2014-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfSnd4P34XqE055Fp3NwKyPvboH.jpg", "actors": [], "comments": [], "recommandations_id": []}

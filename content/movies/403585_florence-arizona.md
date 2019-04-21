@@ -1,0 +1,1 @@
+{"tmdb_id": 403585, "title": "Florence, Arizona", "original_title": "Florence, Arizona", "slug_title": "florence-arizona", "date": "2015-04-09", "genre": "Western / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

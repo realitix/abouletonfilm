@@ -1,0 +1,1 @@
+{"tmdb_id": 577704, "title": "Vipercops", "original_title": "Vipercops", "slug_title": "vipercops", "date": "2007-01-01", "genre": "Thriller / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwBSvASZhKBgooISSBbupzu3OGW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 265628, "title": "Prinsesa", "original_title": "Prinsesa", "slug_title": "prinsesa", "date": "2014-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9U8hP5MS0e30ssuBY2Ki9j0Ep1.jpg", "actors": [], "comments": [], "recommandations_id": []}

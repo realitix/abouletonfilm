@@ -1,0 +1,1 @@
+{"tmdb_id": 222808, "title": "Spook No Evil", "original_title": "Spook No Evil", "slug_title": "spook-no-evil", "date": "1953-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 535187, "title": "Exemple : Etretat", "original_title": "Exemple : Etretat", "slug_title": "exemple-etretat", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

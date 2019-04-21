@@ -1,0 +1,1 @@
+{"tmdb_id": 427468, "title": "Danses plastiques", "original_title": "Danses plastiques", "slug_title": "danses-plastiques", "date": "1904-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 526932, "title": "Der Reichstag", "original_title": "Der Reichstag", "slug_title": "der-reichstag", "date": "2017-12-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dominik Bender (Graf von Westarp)", "Beat Marti (Paul Wallot)", "Mats Reinhardt (Philipp Scheidemann)"], "comments": [], "recommandations_id": []}

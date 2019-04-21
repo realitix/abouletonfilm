@@ -1,0 +1,1 @@
+{"tmdb_id": 334756, "title": "The Pocketbook", "original_title": "The Pocketbook", "slug_title": "the-pocketbook", "date": "1980-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljtEMtEGwKivxNMDGxmfgiHiqye.jpg", "actors": [], "comments": [], "recommandations_id": []}

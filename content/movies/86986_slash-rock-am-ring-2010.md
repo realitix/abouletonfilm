@@ -1,0 +1,1 @@
+{"tmdb_id": 86986, "title": "Slash: Rock Am Ring 2010", "original_title": "Slash: Rock Am Ring 2010", "slug_title": "slash-rock-am-ring-2010", "date": "2010-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79sOAlgSk27v704Mbvw2Ubcmsmd.jpg", "actors": ["Slash (Guitarist)"], "comments": [], "recommandations_id": []}

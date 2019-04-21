@@ -1,0 +1,1 @@
+{"tmdb_id": 584112, "title": "Sign\u00e9 Chanel", "original_title": "Sign\u00e9 Chanel", "slug_title": "signe-chanel", "date": "2005-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1PVYgl6GChoZPcdxB45lRmxBAcJ.jpg", "actors": ["Karl Lagerfeld (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 535384, "title": "cine, Dioses Y Billetes", "original_title": "cine, Dioses Y Billetes", "slug_title": "cine-dioses-y-billetes", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2hXmuXigWboHrfNfIPWcDMai3R9.jpg", "actors": [], "comments": [], "recommandations_id": []}

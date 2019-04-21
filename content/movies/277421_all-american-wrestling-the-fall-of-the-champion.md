@@ -1,0 +1,1 @@
+{"tmdb_id": 277421, "title": "All American Wrestling: The Fall of the Champion", "original_title": "All American Wrestling: The Fall of the Champion", "slug_title": "all-american-wrestling-the-fall-of-the-champion", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

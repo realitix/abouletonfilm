@@ -1,0 +1,1 @@
+{"tmdb_id": 528542, "title": "Streaks of the Spirit", "original_title": "Streaks of the Spirit", "slug_title": "streaks-of-the-spirit", "date": "2018-06-05", "genre": "Documentaire / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kM9wshu3Dwo2egO7Oq24GJGanLU.jpg", "actors": [], "comments": [], "recommandations_id": []}

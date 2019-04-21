@@ -1,0 +1,1 @@
+{"tmdb_id": 215680, "title": "A MAL GAM A", "original_title": "A MAL GAM A", "slug_title": "a-mal-gam-a", "date": "1976-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6yBUZT0gau801h1vxtm5umaxQ3e.jpg", "actors": [], "comments": [], "recommandations_id": []}

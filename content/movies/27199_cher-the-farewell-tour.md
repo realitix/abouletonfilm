@@ -1,0 +1,1 @@
+{"tmdb_id": 27199, "title": "Cher: The Farewell Tour", "original_title": "Cher: The Farewell Tour", "slug_title": "cher-the-farewell-tour", "date": "2003-04-08", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvLdduSyVeqTxHY1USROAnTwFJh.jpg", "actors": ["Cher (Herself)"], "comments": [], "recommandations_id": []}

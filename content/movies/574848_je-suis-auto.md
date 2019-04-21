@@ -1,0 +1,1 @@
+{"tmdb_id": 574848, "title": "Je Suis Auto", "original_title": "Je Suis Auto", "slug_title": "je-suis-auto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312326, "title": "La Hija de la Hiena", "original_title": "La Hija de la Hiena", "slug_title": "la-hija-de-la-hiena", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574801, "title": "H\u00e9ros sous le choc", "original_title": "H\u00e9ros sous le choc", "slug_title": "heros-sous-le-choc", "date": "2014-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claude Legault (Himself)"], "comments": [], "recommandations_id": []}

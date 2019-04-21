@@ -1,0 +1,1 @@
+{"tmdb_id": 326407, "title": "The Mighty Humble Blueberry", "original_title": "The Mighty Humble Blueberry", "slug_title": "the-mighty-humble-blueberry", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

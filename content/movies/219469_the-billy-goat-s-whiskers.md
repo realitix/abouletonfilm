@@ -1,0 +1,1 @@
+{"tmdb_id": 219469, "title": "The Billy Goat's Whiskers", "original_title": "The Billy Goat's Whiskers", "slug_title": "the-billy-goat-s-whiskers", "date": "1937-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

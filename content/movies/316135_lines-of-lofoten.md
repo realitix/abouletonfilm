@@ -1,0 +1,1 @@
+{"tmdb_id": 316135, "title": "Lines of Lofoten", "original_title": "Lines of Lofoten", "slug_title": "lines-of-lofoten", "date": "2014-03-07", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OxK0PZrDTPH8PIlUFEmoKGYTds.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 412617, "title": "As Taras de Todos N\u00f3s", "original_title": "As Taras de Todos N\u00f3s", "slug_title": "as-taras-de-todos-nos", "date": "1982-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matilde Mastrangi ()", "Roberto Miranda ()", "Neide Ribeiro ()"], "comments": [], "recommandations_id": []}

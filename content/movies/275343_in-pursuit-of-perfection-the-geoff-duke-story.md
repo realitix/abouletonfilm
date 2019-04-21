@@ -1,0 +1,1 @@
+{"tmdb_id": 275343, "title": "In Pursuit of Perfection: The Geoff Duke Story", "original_title": "In Pursuit of Perfection: The Geoff Duke Story", "slug_title": "in-pursuit-of-perfection-the-geoff-duke-story", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

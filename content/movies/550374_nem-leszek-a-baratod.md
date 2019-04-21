@@ -1,0 +1,1 @@
+{"tmdb_id": 550374, "title": "Nem leszek a bar\u00e1tod", "original_title": "Nem leszek a bar\u00e1tod", "slug_title": "nem-leszek-a-baratod", "date": "2009-01-31", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

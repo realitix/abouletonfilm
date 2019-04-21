@@ -1,0 +1,1 @@
+{"tmdb_id": 396097, "title": "Stallion", "original_title": "Hingsten", "slug_title": "stallion", "date": "2015-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Moa Kourmadias (Adena)", "Alexej Manvelov (David)", "Jonathan Tufvesson Larsson (Peter)"], "comments": [], "recommandations_id": []}

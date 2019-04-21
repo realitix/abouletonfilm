@@ -1,0 +1,1 @@
+{"tmdb_id": 576925, "title": "My Sweet Monster", "original_title": "\u0411\u0443\u043a\u0430", "slug_title": "my-sweet-monster", "date": "2020-01-23", "genre": "Animation / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrcwgVQ20zlPWxbfeMoSm5iZO29.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 223928, "title": "Maestra", "original_title": "Maestra", "slug_title": "maestra", "date": "2012-03-15", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkC8aPIclGk9pIIXBmQ9ytTXfTX.jpg", "actors": [], "comments": [], "recommandations_id": []}

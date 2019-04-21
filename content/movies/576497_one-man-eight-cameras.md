@@ -1,0 +1,1 @@
+{"tmdb_id": 576497, "title": "One Man, Eight Cameras", "original_title": "One Man, Eight Cameras", "slug_title": "one-man-eight-cameras", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJ3tUqZnHBXvKoxfsCKfJcNmtuh.jpg", "actors": [], "comments": [], "recommandations_id": []}

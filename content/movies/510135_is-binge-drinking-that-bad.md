@@ -1,0 +1,1 @@
+{"tmdb_id": 510135, "title": "Is Binge Drinking That Bad?", "original_title": "Is Binge Drinking That Bad?", "slug_title": "is-binge-drinking-that-bad", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJYy4as6slp5UXjGn9CMhyFtWFP.jpg", "actors": [], "comments": [], "recommandations_id": []}

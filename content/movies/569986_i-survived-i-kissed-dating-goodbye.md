@@ -1,0 +1,1 @@
+{"tmdb_id": 569986, "title": "I Survived I Kissed Dating Goodbye", "original_title": "I Survived I Kissed Dating Goodbye", "slug_title": "i-survived-i-kissed-dating-goodbye", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

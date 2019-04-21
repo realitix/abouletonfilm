@@ -1,0 +1,1 @@
+{"tmdb_id": 269703, "title": "Jon Imber's Left Hand", "original_title": "Jon Imber's Left Hand", "slug_title": "jon-imber-s-left-hand", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

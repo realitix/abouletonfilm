@@ -1,0 +1,1 @@
+{"tmdb_id": 416707, "title": "\ub3cc\uc1e0 \ubc14\ub78c", "original_title": "\ub3cc\uc1e0 \ubc14\ub78c", "slug_title": "dolsoe-baram", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

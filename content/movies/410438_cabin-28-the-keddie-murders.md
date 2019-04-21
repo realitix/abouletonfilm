@@ -1,0 +1,1 @@
+{"tmdb_id": 410438, "title": "Cabin 28: The Keddie Murders", "original_title": "Cabin 28: The Keddie Murders", "slug_title": "cabin-28-the-keddie-murders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mD6HS21iRFlkVTNQayL6tipNK2w.jpg", "actors": [], "comments": [], "recommandations_id": []}

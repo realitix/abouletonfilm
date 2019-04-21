@@ -1,0 +1,1 @@
+{"tmdb_id": 362830, "title": "Last Summer by the Seaside", "original_title": "Last Summer by the Seaside", "slug_title": "last-summer-by-the-seaside", "date": "1964-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

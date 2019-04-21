@@ -1,0 +1,1 @@
+{"tmdb_id": 501912, "title": "Cristaux", "original_title": "Cristaux", "slug_title": "cristaux", "date": "1978-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhP8KGc5SbngSWz0OmiPqeQFEfm.jpg", "actors": ["Ga\u00ebl Badaud ()", "Michel Nedjar ()"], "comments": [], "recommandations_id": []}

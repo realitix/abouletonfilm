@@ -1,0 +1,1 @@
+{"tmdb_id": 572453, "title": "Dead Celebrities", "original_title": "Dead Celebrities", "slug_title": "dead-celebrities", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Fausti (Mick)"], "comments": [], "recommandations_id": []}

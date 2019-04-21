@@ -1,0 +1,1 @@
+{"tmdb_id": 474055, "title": "Essential Magic Conference 2011", "original_title": "Essential Magic Conference 2011", "slug_title": "essential-magic-conference-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

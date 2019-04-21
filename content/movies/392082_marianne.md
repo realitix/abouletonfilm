@@ -1,0 +1,1 @@
+{"tmdb_id": 392082, "title": "Marianne", "original_title": "Marianne", "slug_title": "marianne", "date": "2015-12-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqzk6Oq7045tKhoduwo1XT73dUr.jpg", "actors": ["H\u00e9l\u00e8ne Kuhn ()", "Alexandre Desrousseaux ()"], "comments": [], "recommandations_id": []}

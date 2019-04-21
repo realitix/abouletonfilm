@@ -1,0 +1,1 @@
+{"tmdb_id": 322073, "title": "Ham and the Jitney Bus", "original_title": "Ham and the Jitney Bus", "slug_title": "ham-and-the-jitney-bus", "date": "1915-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lloyd Hamilton (Ham - the Chauffeur)", "Bud Duncan (Bud - the Conductor)"], "comments": [], "recommandations_id": []}

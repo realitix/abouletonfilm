@@ -1,0 +1,1 @@
+{"tmdb_id": 527403, "title": "The Coffin Club", "original_title": "The Coffin Club", "slug_title": "the-coffin-club", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

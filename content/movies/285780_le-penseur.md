@@ -1,0 +1,1 @@
+{"tmdb_id": 285780, "title": "Le penseur", "original_title": "Le penseur", "slug_title": "le-penseur", "date": "1920-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Nox ()", "Marguerite Madys ()", "Jane Even ()"], "comments": [], "recommandations_id": []}

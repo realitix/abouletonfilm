@@ -1,0 +1,1 @@
+{"tmdb_id": 343137, "title": "The Dewberry Empire", "original_title": "The Dewberry Empire", "slug_title": "the-dewberry-empire", "date": "2013-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v8Jxv83jijB5GzeUEc1Evuv13xO.jpg", "actors": [], "comments": [], "recommandations_id": []}

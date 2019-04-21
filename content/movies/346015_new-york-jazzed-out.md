@@ -1,0 +1,1 @@
+{"tmdb_id": 346015, "title": "New York Jazzed Out", "original_title": "New York Jazzed Out", "slug_title": "new-york-jazzed-out", "date": "2011-04-12", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 445520, "title": "Canzone d'amore", "original_title": "Canzone d'amore", "slug_title": "canzone-d-amore", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDDga3RLGUGJVnAhvs5hLAarADF.jpg", "actors": ["Claudio Villa (Sandro)", "Maria Fiore (Lidia)"], "comments": [], "recommandations_id": []}

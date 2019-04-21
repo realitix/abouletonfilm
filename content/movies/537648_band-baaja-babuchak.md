@@ -1,0 +1,1 @@
+{"tmdb_id": 537648, "title": "Band Baaja Babuchak", "original_title": "Band Baaja Babuchak", "slug_title": "band-baaja-babuchak", "date": "2018-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iz0RcRaCKwXOO5XC7XWbyTCp1ZK.jpg", "actors": [], "comments": [], "recommandations_id": []}

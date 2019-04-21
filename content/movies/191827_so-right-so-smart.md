@@ -1,0 +1,1 @@
+{"tmdb_id": 191827, "title": "So Right So Smart", "original_title": "So Right So Smart", "slug_title": "so-right-so-smart", "date": "2009-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

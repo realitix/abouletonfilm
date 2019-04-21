@@ -1,0 +1,1 @@
+{"tmdb_id": 23523, "title": "McLibel", "original_title": "McLibel", "slug_title": "mclibel", "date": "2005-05-20", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iWV6ADCiDikpMLbuTEc9cLLa5GW.jpg", "actors": [], "comments": [], "recommandations_id": [31661, 23965, 56224, 13065]}

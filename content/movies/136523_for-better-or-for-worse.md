@@ -1,0 +1,1 @@
+{"tmdb_id": 136523, "title": "For Better or for Worse", "original_title": "For Better or for Worse", "slug_title": "for-better-or-for-worse", "date": "1993-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uPPrZUq25gSOHAHW80Xy8aMR2J.jpg", "actors": [], "comments": [], "recommandations_id": []}

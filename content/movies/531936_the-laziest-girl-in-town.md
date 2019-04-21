@@ -1,0 +1,1 @@
+{"tmdb_id": 531936, "title": "The Laziest Girl in Town", "original_title": "The Laziest Girl in Town", "slug_title": "the-laziest-girl-in-town", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

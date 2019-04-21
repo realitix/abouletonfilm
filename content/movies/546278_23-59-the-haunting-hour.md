@@ -1,0 +1,1 @@
+{"tmdb_id": 546278, "title": "23:59: The Haunting Hour", "original_title": "23:59: The Haunting Hour", "slug_title": "23-59-the-haunting-hour", "date": "2018-08-09", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4USzmHxkWmxm3UDJvpdjGEahN5l.jpg", "actors": [], "comments": [], "recommandations_id": []}

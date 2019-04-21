@@ -1,0 +1,1 @@
+{"tmdb_id": 502771, "title": "Chromosome Sweetheart", "original_title": "Chromosome Sweetheart", "slug_title": "chromosome-sweetheart", "date": "2017-07-17", "genre": "Romance / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BRPlKjmgd4a7EgwgQoOlQhofxC.jpg", "actors": [], "comments": [], "recommandations_id": []}

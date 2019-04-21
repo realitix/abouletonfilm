@@ -1,0 +1,1 @@
+{"tmdb_id": 142143, "title": "A Chess Dispute", "original_title": "A Chess Dispute", "slug_title": "a-chess-dispute", "date": "1903-01-01", "genre": "", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlWDZzcMRbAdmZiq7FRgaFHHdDB.jpg", "actors": [], "comments": [], "recommandations_id": [179537, 180139, 144490, 179539]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580273, "title": "Luka Bloom - The Man is Alive", "original_title": "Luka Bloom - The Man is Alive", "slug_title": "luka-bloom-the-man-is-alive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sIAB788TwOlWyWAnlDubFxH0hDU.jpg", "actors": [], "comments": [], "recommandations_id": []}

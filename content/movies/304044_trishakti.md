@@ -1,0 +1,1 @@
+{"tmdb_id": 304044, "title": "Trishakti", "original_title": "Trishakti", "slug_title": "trishakti", "date": "1999-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

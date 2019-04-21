@@ -1,0 +1,1 @@
+{"tmdb_id": 319514, "title": "Opera Australia: The Turn of the Screw", "original_title": "Opera Australia: The Turn of the Screw", "slug_title": "opera-australia-the-turn-of-the-screw", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

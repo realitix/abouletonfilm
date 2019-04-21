@@ -1,0 +1,1 @@
+{"tmdb_id": 524249, "title": "Glo friends. The Quest", "original_title": "Glo friends. The Quest", "slug_title": "glo-friends-the-quest", "date": "1985-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPMEk07v8bZD698klAceKSKaQFD.jpg", "actors": [], "comments": [], "recommandations_id": []}

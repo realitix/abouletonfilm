@@ -1,0 +1,1 @@
+{"tmdb_id": 266241, "title": "Gaming in Color", "original_title": "Gaming in Color", "slug_title": "gaming-in-color", "date": "2014-04-23", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i59I888XIWTbSlkHh1fVkdmsiUz.jpg", "actors": [], "comments": [], "recommandations_id": [290858, 180886, 62128, 28867]}

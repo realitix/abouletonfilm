@@ -1,0 +1,1 @@
+{"tmdb_id": 503103, "title": "Education Education", "original_title": "Education Education", "slug_title": "education-education", "date": "2012-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

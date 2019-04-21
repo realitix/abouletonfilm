@@ -1,0 +1,1 @@
+{"tmdb_id": 499407, "title": "So What?! Friedrich Gulda", "original_title": "So What?! Friedrich Gulda", "slug_title": "so-what-friedrich-gulda", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Friedrich Gulda (Friedrich Gulda)"], "comments": [], "recommandations_id": []}

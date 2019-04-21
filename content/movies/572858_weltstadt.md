@@ -1,0 +1,1 @@
+{"tmdb_id": 572858, "title": "Weltstadt", "original_title": "Weltstadt", "slug_title": "weltstadt", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JTaJYlO4cPkBbkJdJ1ojZXVWsg.jpg", "actors": ["Florian Bartholom\u00e4i (Till)"], "comments": [], "recommandations_id": []}

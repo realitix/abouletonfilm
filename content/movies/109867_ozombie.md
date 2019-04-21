@@ -1,0 +1,1 @@
+{"tmdb_id": 109867, "title": "Ozombie", "original_title": "Ozombie", "slug_title": "ozombie", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQNZ223Wqjm0C4nIhFl2IQSWOUj.jpg", "actors": [], "comments": [], "recommandations_id": []}

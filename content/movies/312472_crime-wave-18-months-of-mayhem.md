@@ -1,0 +1,1 @@
+{"tmdb_id": 312472, "title": "Crime Wave: 18 Months of Mayhem", "original_title": "Crime Wave: 18 Months of Mayhem", "slug_title": "crime-wave-18-months-of-mayhem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pr4vQs9hSkAPw9XLeVOiqEBHzoU.jpg", "actors": [], "comments": [], "recommandations_id": []}

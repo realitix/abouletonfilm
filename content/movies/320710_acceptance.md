@@ -1,0 +1,1 @@
+{"tmdb_id": 320710, "title": "Acceptance", "original_title": "Acceptance", "slug_title": "acceptance", "date": "2013-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

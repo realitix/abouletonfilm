@@ -1,0 +1,1 @@
+{"tmdb_id": 56650, "title": "Barney's Christmas Star", "original_title": "Barney's Christmas Star", "slug_title": "barney-s-christmas-star", "date": "2002-10-22", "genre": "Familial", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9xV1awXprw8Za9tent9bEHaMQf9.jpg", "actors": [], "comments": [], "recommandations_id": []}

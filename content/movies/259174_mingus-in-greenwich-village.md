@@ -1,0 +1,1 @@
+{"tmdb_id": 259174, "title": "Mingus in Greenwich Village", "original_title": "Mingus in Greenwich Village", "slug_title": "mingus-in-greenwich-village", "date": "1968-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2eg1ZayXxWu5T69oIcHUzgxJEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

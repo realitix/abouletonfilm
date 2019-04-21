@@ -1,0 +1,1 @@
+{"tmdb_id": 475779, "title": "Portraits of Two Artists", "original_title": "Portraits of Two Artists", "slug_title": "portraits-of-two-artists", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQlRcwPdjQHD21k9Z9zWzFW2sRA.jpg", "actors": [], "comments": [], "recommandations_id": []}

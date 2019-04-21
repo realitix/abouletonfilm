@@ -1,0 +1,1 @@
+{"tmdb_id": 486182, "title": "A Rookie's Cookie", "original_title": "A Rookie's Cookie", "slug_title": "a-rookie-s-cookie", "date": "1943-10-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["El Brendel (Ole - Rookie Policeman)"], "comments": [], "recommandations_id": []}

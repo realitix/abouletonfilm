@@ -1,0 +1,1 @@
+{"tmdb_id": 441861, "title": "Caderno de Poesias", "original_title": "Caderno de Poesias", "slug_title": "caderno-de-poesias", "date": "", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWkCV31mQeapphQ7zf3t9nxDNgY.jpg", "actors": ["Maria Beth\u00e2nia ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 476962, "title": "Semmelweis", "original_title": "Semmelweis", "slug_title": "semmelweis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fritz Michel (Dr. Ignaz Semmelweis)"], "comments": [], "recommandations_id": []}

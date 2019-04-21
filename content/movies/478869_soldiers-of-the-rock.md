@@ -1,0 +1,1 @@
+{"tmdb_id": 478869, "title": "Soldiers of the Rock", "original_title": "Soldiers of the Rock", "slug_title": "soldiers-of-the-rock", "date": "2003-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iujwFBdX7nik8VFmv8lQDuV3s25.jpg", "actors": [], "comments": [], "recommandations_id": []}

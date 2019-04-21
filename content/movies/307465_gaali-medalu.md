@@ -1,0 +1,1 @@
+{"tmdb_id": 307465, "title": "Gaali Medalu", "original_title": "Gaali Medalu", "slug_title": "gaali-medalu", "date": "1962-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

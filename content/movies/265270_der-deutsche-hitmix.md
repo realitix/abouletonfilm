@@ -1,0 +1,1 @@
+{"tmdb_id": 265270, "title": "Der deutsche Hitmix", "original_title": "Der deutsche Hitmix", "slug_title": "der-deutsche-hitmix", "date": "2012-01-20", "genre": "Musique / T\u00e9l\u00e9film", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwhMbNkmyY2P1Kd7QDvDeTSaaea.jpg", "actors": [], "comments": [], "recommandations_id": []}

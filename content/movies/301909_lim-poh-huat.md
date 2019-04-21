@@ -1,0 +1,1 @@
+{"tmdb_id": 301909, "title": "Lim Poh Huat", "original_title": "Lim Poh Huat", "slug_title": "lim-poh-huat", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lim Poh Huat (Himself)"], "comments": [], "recommandations_id": []}

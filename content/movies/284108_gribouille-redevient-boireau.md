@@ -1,0 +1,1 @@
+{"tmdb_id": 284108, "title": "Gribouille redevient Boireau", "original_title": "Gribouille redevient Boireau", "slug_title": "gribouille-redevient-boireau", "date": "1912-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Deed ()", "Valentina Frascaroli ()"], "comments": [], "recommandations_id": []}

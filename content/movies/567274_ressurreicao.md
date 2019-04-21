@@ -1,0 +1,1 @@
+{"tmdb_id": 567274, "title": "Ressurrei\u00e7\u00e3o", "original_title": "Ressurrei\u00e7\u00e3o", "slug_title": "ressurreicao", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmjxEJlaeei6BBnB1oUVzXIp7Jy.jpg", "actors": [], "comments": [], "recommandations_id": []}

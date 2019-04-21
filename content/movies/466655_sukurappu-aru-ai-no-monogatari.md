@@ -1,0 +1,1 @@
+{"tmdb_id": 466655, "title": "Sukurappu: Aru ai no monogatari", "original_title": "Sukurappu: Aru ai no monogatari", "slug_title": "sukurappu-aru-ai-no-monogatari", "date": "1984-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dJ3ckKaikfdqN4P8lkUjAdKKuk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 513228, "title": "Chris Rea: Baloise session", "original_title": "Chris Rea: Baloise session", "slug_title": "chris-rea-baloise-session", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Chris Rea en concert \u00e0 la Baloise session en 2017", "image": "/img/default-cover.png", "actors": ["Chris Rea ()"], "comments": [], "recommandations_id": []}

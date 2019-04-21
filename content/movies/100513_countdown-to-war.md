@@ -1,0 +1,1 @@
+{"tmdb_id": 100513, "title": "Countdown to War", "original_title": "Countdown to War", "slug_title": "countdown-to-war", "date": "1989-04-07", "genre": "Drame / Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GreTJ9XJ6sMXct9Xabu11gX4SR.jpg", "actors": [], "comments": [], "recommandations_id": []}

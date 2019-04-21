@@ -1,0 +1,1 @@
+{"tmdb_id": 562368, "title": "So You Want to Get It Wholesale", "original_title": "So You Want to Get It Wholesale", "slug_title": "so-you-want-to-get-it-wholesale", "date": "1952-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

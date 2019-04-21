@@ -1,0 +1,1 @@
+{"tmdb_id": 549839, "title": "Bundled", "original_title": "Wo jiao A-Ming la", "slug_title": "bundled", "date": "2001-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5NSEZnlNXvVLlXQJzXnkTXVXcM.jpg", "actors": ["Yu-Wei Chang ()", "Pinky Juan ()", "Mu-Tsuen Yen ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 354477, "title": "Panic in the Wilderness", "original_title": "Panic in the Wilderness", "slug_title": "panic-in-the-wilderness", "date": "1975-01-01", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

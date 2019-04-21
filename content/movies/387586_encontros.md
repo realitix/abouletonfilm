@@ -1,0 +1,1 @@
+{"tmdb_id": 387586, "title": "Encontros", "original_title": "Encontros", "slug_title": "encontros", "date": "2006-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myHRFetL38vVHsmD2xkV5jIP7ZD.jpg", "actors": ["Paulo Rocha ()", "Virg\u00ednia Dias ()"], "comments": [], "recommandations_id": []}

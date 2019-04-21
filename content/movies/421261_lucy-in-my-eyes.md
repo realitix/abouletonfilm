@@ -1,0 +1,1 @@
+{"tmdb_id": 421261, "title": "Lucy in My Eyes", "original_title": "Lucy in My Eyes", "slug_title": "lucy-in-my-eyes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

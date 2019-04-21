@@ -1,0 +1,1 @@
+{"tmdb_id": 404017, "title": "Lassage d'un cheval sauvage", "original_title": "Lassage d'un cheval sauvage", "slug_title": "lassage-d-un-cheval-sauvage", "date": "1896-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 438389, "title": "Fish Never Sleep", "original_title": "Fish Never Sleep", "slug_title": "fish-never-sleep", "date": "2004-05-06", "genre": "Animation", "score": "0.0/10", "synopsis": "Une femme raconte une histoire car elle ne peut pas dormir.", "image": "/img/default-cover.png", "actors": ["Caroline Bresard (Naoko)"], "comments": [], "recommandations_id": []}

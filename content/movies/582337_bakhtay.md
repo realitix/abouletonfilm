@@ -1,0 +1,1 @@
+{"tmdb_id": 582337, "title": "Bakhtay", "original_title": "Bakhtay", "slug_title": "bakhtay", "date": "2018-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

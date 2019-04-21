@@ -1,0 +1,1 @@
+{"tmdb_id": 575621, "title": "O Cangaceiro", "original_title": "O Cangaceiro", "slug_title": "o-cangaceiro", "date": "2012-07-03", "genre": "Animation / Fantastique / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dZ5WapieQNWGXcqpinZYQKL6ktP.jpg", "actors": [], "comments": [], "recommandations_id": []}

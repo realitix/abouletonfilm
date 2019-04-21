@@ -1,0 +1,1 @@
+{"tmdb_id": 319794, "title": "Rechukka Pagati Chukka", "original_title": "Rechukka Pagati Chukka", "slug_title": "rechukka-pagati-chukka", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

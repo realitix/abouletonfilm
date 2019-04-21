@@ -1,0 +1,1 @@
+{"tmdb_id": 306180, "title": "Parivar", "original_title": "Parivar", "slug_title": "parivar", "date": "1956-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kishore Kumar ()", "Usha Kiran ()", "Durga Khote ()", "Sajjan ()", "Bipin Gupta ()", "Ali Asgar ()"], "comments": [], "recommandations_id": []}

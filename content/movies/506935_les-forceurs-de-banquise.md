@@ -1,0 +1,1 @@
+{"tmdb_id": 506935, "title": "Les forceurs de banquise", "original_title": "Les forceurs de banquise", "slug_title": "les-forceurs-de-banquise", "date": "1953-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

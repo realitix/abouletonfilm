@@ -1,0 +1,1 @@
+{"tmdb_id": 310249, "title": "Betty Ford: The Real Deal", "original_title": "Betty Ford: The Real Deal", "slug_title": "betty-ford-the-real-deal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

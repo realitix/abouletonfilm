@@ -1,0 +1,1 @@
+{"tmdb_id": 341052, "title": "Der Anschlag", "original_title": "Der Anschlag", "slug_title": "der-anschlag", "date": "1984-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcam7As3Fk7T9JFxCngbL4sOE98.jpg", "actors": ["Klaus Bueb ()", "Pia Frankenberg ()"], "comments": [], "recommandations_id": []}

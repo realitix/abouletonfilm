@@ -1,0 +1,1 @@
+{"tmdb_id": 235908, "title": "House Busters", "original_title": "House Busters", "slug_title": "house-busters", "date": "1952-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

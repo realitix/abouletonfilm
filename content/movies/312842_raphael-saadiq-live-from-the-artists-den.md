@@ -1,0 +1,1 @@
+{"tmdb_id": 312842, "title": "Raphael Saadiq: Live from the Artists Den", "original_title": "Raphael Saadiq: Live from the Artists Den", "slug_title": "raphael-saadiq-live-from-the-artists-den", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

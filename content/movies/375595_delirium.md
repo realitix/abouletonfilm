@@ -1,0 +1,1 @@
+{"tmdb_id": 375595, "title": "Delirium", "original_title": "Delirium", "slug_title": "delirium", "date": "1993-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

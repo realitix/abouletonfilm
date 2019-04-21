@@ -1,0 +1,1 @@
+{"tmdb_id": 208241, "title": "Like Wow!", "original_title": "Like Wow!", "slug_title": "like-wow", "date": "1962-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Dzv0VRy8RAOM1ZIkOsnZSwlJAE.jpg", "actors": [], "comments": [], "recommandations_id": []}

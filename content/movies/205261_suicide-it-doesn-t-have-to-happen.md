@@ -1,0 +1,1 @@
+{"tmdb_id": 205261, "title": "Suicide: It Doesn't Have to Happen", "original_title": "Suicide: It Doesn't Have to Happen", "slug_title": "suicide-it-doesn-t-have-to-happen", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

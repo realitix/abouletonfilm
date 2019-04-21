@@ -1,0 +1,1 @@
+{"tmdb_id": 274006, "title": "The Search for Mengele", "original_title": "The Search for Mengele", "slug_title": "the-search-for-mengele", "date": "1985-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90RmOcb1iNMPtAJH0XCyEtw7rOy.jpg", "actors": [], "comments": [], "recommandations_id": []}

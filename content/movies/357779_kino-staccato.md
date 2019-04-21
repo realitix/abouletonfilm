@@ -1,0 +1,1 @@
+{"tmdb_id": 357779, "title": "Kino Staccato", "original_title": "Kino Staccato", "slug_title": "kino-staccato", "date": "1999-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kqhXBzgv0VUMqsSlAWIDFKbIbRE.jpg", "actors": [], "comments": [], "recommandations_id": []}

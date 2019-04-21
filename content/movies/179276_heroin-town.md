@@ -1,0 +1,1 @@
+{"tmdb_id": 179276, "title": "Heroin Town", "original_title": "Heroin Town", "slug_title": "heroin-town", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

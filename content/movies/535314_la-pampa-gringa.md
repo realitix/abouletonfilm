@@ -1,0 +1,1 @@
+{"tmdb_id": 535314, "title": "La Pampa Gringa", "original_title": "La Pampa Gringa", "slug_title": "la-pampa-gringa", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

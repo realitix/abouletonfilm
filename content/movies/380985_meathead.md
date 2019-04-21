@@ -1,0 +1,1 @@
+{"tmdb_id": 380985, "title": "Meathead", "original_title": "Meathead", "slug_title": "meathead", "date": "2011-05-21", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

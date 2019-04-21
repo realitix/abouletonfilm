@@ -1,0 +1,1 @@
+{"tmdb_id": 536578, "title": "Zlat\u00e1 p\u0159adlena", "original_title": "Zlat\u00e1 p\u0159adlena", "slug_title": "zlata-pradlena", "date": "1975-01-01", "genre": "Familial / T\u00e9l\u00e9film / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

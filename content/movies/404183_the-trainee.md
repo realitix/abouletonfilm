@@ -1,0 +1,1 @@
+{"tmdb_id": 404183, "title": "The Trainee", "original_title": "The Trainee", "slug_title": "the-trainee", "date": "2008-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pilvi Takala (Johanna Takala)"], "comments": [], "recommandations_id": []}

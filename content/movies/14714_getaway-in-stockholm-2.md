@@ -1,0 +1,1 @@
+{"tmdb_id": 14714, "title": "Getaway in Stockholm 2", "original_title": "Getaway in Stockholm 2", "slug_title": "getaway-in-stockholm-2", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hcw4pn04VbNFeuxTo6qhb73DrsX.jpg", "actors": [], "comments": [], "recommandations_id": []}

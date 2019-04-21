@@ -1,0 +1,1 @@
+{"tmdb_id": 210125, "title": "A Christmas Carl", "original_title": "A Christmas Carl", "slug_title": "a-christmas-carl", "date": "2008-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdZyCgmGyY4wH0SL3eHJdrIrmSw.jpg", "actors": [], "comments": [], "recommandations_id": []}

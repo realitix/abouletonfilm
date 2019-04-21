@@ -1,0 +1,1 @@
+{"tmdb_id": 386217, "title": "Exclamation Mark", "original_title": "Wykrzyknik", "slug_title": "exclamation-mark", "date": "1968-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOsXfuHbA6BL2KqqkFt9QTLuZLx.jpg", "actors": [], "comments": [], "recommandations_id": []}

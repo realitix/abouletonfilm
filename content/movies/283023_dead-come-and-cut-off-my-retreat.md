@@ -1,0 +1,1 @@
+{"tmdb_id": 283023, "title": "Dead, Come and Cut Off My Retreat", "original_title": "Shishayo kitarite waga tairo o tate", "slug_title": "dead-come-and-cut-off-my-retreat", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

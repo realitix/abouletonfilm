@@ -1,0 +1,1 @@
+{"tmdb_id": 591127, "title": "Le memorie di Giorgio Vasari", "original_title": "Le memorie di Giorgio Vasari", "slug_title": "le-memorie-di-giorgio-vasari", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brutius Selby ()", "Douglas Dean ()", "Clive Riche ()"], "comments": [], "recommandations_id": []}

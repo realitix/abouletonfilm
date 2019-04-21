@@ -1,0 +1,1 @@
+{"tmdb_id": 104425, "title": "Legend of Chupacabra", "original_title": "Legend of Chupacabra", "slug_title": "legend-of-chupacabra", "date": "2000-01-01", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6FCg4ityQ2vs4OHVWDrThSXlVuM.jpg", "actors": [], "comments": [], "recommandations_id": []}

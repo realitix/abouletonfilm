@@ -1,0 +1,1 @@
+{"tmdb_id": 33836, "title": "Puede ser divertido", "original_title": "Puede ser divertido", "slug_title": "puede-ser-divertido", "date": "1995-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

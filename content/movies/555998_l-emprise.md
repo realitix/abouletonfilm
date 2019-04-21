@@ -1,0 +1,1 @@
+{"tmdb_id": 555998, "title": "L'emprise", "original_title": "L'emprise", "slug_title": "l-emprise", "date": "1924-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470698, "title": "Wild Adapter", "original_title": "Wild Adapter", "slug_title": "wild-adapter", "date": "2015-09-30", "genre": "Drame / Animation / Action / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42s77Q9aywP0URaENGg9gaM27tR.jpg", "actors": [], "comments": [], "recommandations_id": []}

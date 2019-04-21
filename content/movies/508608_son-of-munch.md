@@ -1,0 +1,1 @@
+{"tmdb_id": 508608, "title": "Son of Munch", "original_title": "Son of Munch", "slug_title": "son-of-munch", "date": "2019-01-19", "genre": "Com\u00e9die / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDtWi4DAYkLTl2NpOfVFjlBoDBM.jpg", "actors": [], "comments": [], "recommandations_id": []}

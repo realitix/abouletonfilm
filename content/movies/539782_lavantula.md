@@ -1,0 +1,1 @@
+{"tmdb_id": 539782, "title": "Lavantula", "original_title": "Lavantula", "slug_title": "lavantula", "date": "2015-07-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSfybMYZYnwZk3Sjk4QcXyzMqvw.jpg", "actors": [], "comments": [], "recommandations_id": []}

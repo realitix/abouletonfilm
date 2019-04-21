@@ -1,0 +1,1 @@
+{"tmdb_id": 451913, "title": "Yami Douga 8", "original_title": "Yami Douga 8", "slug_title": "yami-douga-8", "date": "2013-12-06", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jeHJszmSV1ByAOnrifrmQOqRD3Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

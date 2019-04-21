@@ -1,0 +1,1 @@
+{"tmdb_id": 561404, "title": "El Eco de las Canciones", "original_title": "El Eco de las Canciones", "slug_title": "el-eco-de-las-canciones", "date": "2012-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eRwL0ELYmsBBoLfdZs9A1ZsS6p.jpg", "actors": [], "comments": [], "recommandations_id": []}

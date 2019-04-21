@@ -1,0 +1,1 @@
+{"tmdb_id": 434748, "title": "Along the Road", "original_title": "Para Dige", "slug_title": "along-the-road", "date": "1980-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Indira Abeysena ()", "Vasanthi Chathurani ()", "Wijaya Kumaratunga (Chandare)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593345, "title": "Nerdental", "original_title": "Nerdental", "slug_title": "nerdental", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

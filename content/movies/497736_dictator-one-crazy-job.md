@@ -1,0 +1,1 @@
+{"tmdb_id": 497736, "title": "Dictator: One Crazy Job", "original_title": "Dictator: One Crazy Job", "slug_title": "dictator-one-crazy-job", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59NNAZFRyZIhuGjr4jjD2Oy0r4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

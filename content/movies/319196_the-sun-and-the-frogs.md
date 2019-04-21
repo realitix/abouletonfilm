@@ -1,0 +1,1 @@
+{"tmdb_id": 319196, "title": "The Sun and the Frogs", "original_title": "Ohisama to kaeru", "slug_title": "the-sun-and-the-frogs", "date": "1936-01-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4mViIDU8ijzGZSp7Ow2YxN7RHY.jpg", "actors": [], "comments": [], "recommandations_id": []}

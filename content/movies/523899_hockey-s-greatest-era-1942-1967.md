@@ -1,0 +1,1 @@
+{"tmdb_id": 523899, "title": "Hockey's Greatest Era: 1942-1967", "original_title": "Hockey's Greatest Era: 1942-1967", "slug_title": "hockey-s-greatest-era-1942-1967", "date": "2005-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 423149, "title": "Whisperin' Bill", "original_title": "Whisperin' Bill", "slug_title": "whisperin-bill", "date": "1933-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles 'Chic' Sale (Mr. Bowman)"], "comments": [], "recommandations_id": []}

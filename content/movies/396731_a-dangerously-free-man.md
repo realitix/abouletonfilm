@@ -1,0 +1,1 @@
+{"tmdb_id": 396731, "title": "A Dangerously Free Man", "original_title": "A Dangerously Free Man", "slug_title": "a-dangerously-free-man", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sergei Parajanov (himself)"], "comments": [], "recommandations_id": []}

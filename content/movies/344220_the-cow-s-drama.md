@@ -1,0 +1,1 @@
+{"tmdb_id": 344220, "title": "The Cow's Drama", "original_title": "The Cow's Drama", "slug_title": "the-cow-s-drama", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rXxI8siDWEl8FkODHbSD8z76bs2.jpg", "actors": [], "comments": [], "recommandations_id": []}

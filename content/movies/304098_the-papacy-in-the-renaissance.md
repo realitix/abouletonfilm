@@ -1,0 +1,1 @@
+{"tmdb_id": 304098, "title": "The Papacy in the Renaissance", "original_title": "The Papacy in the Renaissance", "slug_title": "the-papacy-in-the-renaissance", "date": "2014-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

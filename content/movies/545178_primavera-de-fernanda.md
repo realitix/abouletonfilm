@@ -1,0 +1,1 @@
+{"tmdb_id": 545178, "title": "Primavera de Fernanda", "original_title": "Primavera de Fernanda", "slug_title": "primavera-de-fernanda", "date": "2018-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kyKCk8tE0yM29AqPNeqmijse2X.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 384571, "title": "Megadeth: Rusted Pieces", "original_title": "Megadeth: Rusted Pieces", "slug_title": "megadeth-rusted-pieces", "date": "2000-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNg7HSXwhMPhzQQUPsPbI8KEIkJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334837, "title": "Songs for Rent", "original_title": "Songs for Rent", "slug_title": "songs-for-rent", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jHxXOlPsLdIgzZe7Z68X9pOvvqQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

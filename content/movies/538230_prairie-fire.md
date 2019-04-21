@@ -1,0 +1,1 @@
+{"tmdb_id": 538230, "title": "Prairie Fire", "original_title": "Prairie Fire", "slug_title": "prairie-fire", "date": "1977-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

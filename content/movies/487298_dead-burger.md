@@ -1,0 +1,1 @@
+{"tmdb_id": 487298, "title": "Dead Burger", "original_title": "Dead Burger", "slug_title": "dead-burger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

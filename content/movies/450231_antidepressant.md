@@ -1,0 +1,1 @@
+{"tmdb_id": 450231, "title": "Antidepressant", "original_title": "Antidepressant", "slug_title": "antidepressant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

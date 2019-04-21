@@ -1,0 +1,1 @@
+{"tmdb_id": 230257, "title": "Bury The Hatchet", "original_title": "Bury The Hatchet", "slug_title": "bury-the-hatchet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

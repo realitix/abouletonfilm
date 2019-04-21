@@ -1,0 +1,1 @@
+{"tmdb_id": 257121, "title": "Parallel Maze", "original_title": "Parallel Maze", "slug_title": "parallel-maze", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Xiang Bin ()", "YaShu Zhan ()", "Run Zhang ()", "Ya Shu Zhan ()", "Qi Yu Yang ()"], "comments": [], "recommandations_id": []}

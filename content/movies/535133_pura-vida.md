@@ -1,0 +1,1 @@
+{"tmdb_id": 535133, "title": "Pura Vida", "original_title": "Pura Vida", "slug_title": "pura-vida", "date": "2013-01-01", "genre": "Drame / Romance", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anita Anthonj (Lucia)", "David Melissaratos (Max)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 215064, "title": "The Rule of Law", "original_title": "The Rule of Law", "slug_title": "the-rule-of-law", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephanie Betesh ()", "Andrew Blood ()", "J.J. Brewer ()", "John Brody. ()"], "comments": [], "recommandations_id": []}

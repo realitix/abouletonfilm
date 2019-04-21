@@ -1,0 +1,1 @@
+{"tmdb_id": 234665, "title": "Voo-Doo Boo-Boo", "original_title": "Voo-Doo Boo-Boo", "slug_title": "voo-doo-boo-boo", "date": "1961-08-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8be6hkHQtdOkRedaG42hwlqoQul.jpg", "actors": [], "comments": [], "recommandations_id": []}

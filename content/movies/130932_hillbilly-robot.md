@@ -1,0 +1,1 @@
+{"tmdb_id": 130932, "title": "Hillbilly Robot", "original_title": "Hillbilly Robot", "slug_title": "hillbilly-robot", "date": "2001-10-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uAI4KewW9pDyoduWKGQMaN2rskb.jpg", "actors": [], "comments": [], "recommandations_id": []}

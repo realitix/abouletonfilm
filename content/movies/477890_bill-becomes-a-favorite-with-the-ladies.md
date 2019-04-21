@@ -1,0 +1,1 @@
+{"tmdb_id": 477890, "title": "Bill Becomes a Favorite with the Ladies", "original_title": "Patouillard a une femme jalouse", "slug_title": "bill-becomes-a-favorite-with-the-ladies", "date": "1912-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

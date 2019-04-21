@@ -1,0 +1,1 @@
+{"tmdb_id": 395843, "title": "In the Shadow of the Palms", "original_title": "In the Shadow of the Palms", "slug_title": "in-the-shadow-of-the-palms", "date": "2005-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pl3TxtuaV7wcTsha41mPya6eZzv.jpg", "actors": [], "comments": [], "recommandations_id": []}

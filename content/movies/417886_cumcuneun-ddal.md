@@ -1,0 +1,1 @@
+{"tmdb_id": 417886, "title": "\ucda4\ucd94\ub294 \ub538", "original_title": "\ucda4\ucd94\ub294 \ub538", "slug_title": "cumcuneun-ddal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

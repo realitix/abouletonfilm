@@ -1,0 +1,1 @@
+{"tmdb_id": 65206, "title": "The Sensualist", "original_title": "\u597d\u8272\u4e00\u4ee3\u7537", "slug_title": "the-sensualist", "date": "1991-01-18", "genre": "Animation / Drame / Romance", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uACfbjbWrVaPnNASDEpYao5Op82.jpg", "actors": [], "comments": [], "recommandations_id": []}

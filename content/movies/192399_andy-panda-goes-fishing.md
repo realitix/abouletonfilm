@@ -1,0 +1,1 @@
+{"tmdb_id": 192399, "title": "Andy Panda Goes Fishing", "original_title": "Andy Panda Goes Fishing", "slug_title": "andy-panda-goes-fishing", "date": "1940-05-09", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntDUe91rio9qPpk7CXtpsIGfp0K.jpg", "actors": [], "comments": [], "recommandations_id": []}

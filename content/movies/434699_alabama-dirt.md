@@ -1,0 +1,1 @@
+{"tmdb_id": 434699, "title": "Alabama Dirt", "original_title": "Alabama Dirt", "slug_title": "alabama-dirt", "date": "2016-01-16", "genre": "Familial / Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47y1U7NrhBKCipZLFD5xh0vccWH.jpg", "actors": [], "comments": [], "recommandations_id": []}

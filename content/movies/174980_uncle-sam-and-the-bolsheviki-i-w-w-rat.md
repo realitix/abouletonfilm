@@ -1,0 +1,1 @@
+{"tmdb_id": 174980, "title": "Uncle Sam and the Bolsheviki \u2013 I.W.W. Rat", "original_title": "Uncle Sam and the Bolsheviki \u2013 I.W.W. Rat", "slug_title": "uncle-sam-and-the-bolsheviki-i-w-w-rat", "date": "1919-03-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350271, "title": "\uc721\ub2f4\uad6c\ub2f4", "original_title": "\uc721\ub2f4\uad6c\ub2f4", "slug_title": "yugdamgudam", "date": "1989-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

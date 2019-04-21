@@ -1,0 +1,1 @@
+{"tmdb_id": 384176, "title": "Mob Daze", "original_title": "Mob Daze", "slug_title": "mob-daze", "date": "2002-09-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EJA3CAjVrKFziG5WhU55DPfBI3.jpg", "actors": ["Robert Z'Dar (Bobby)", "Joe Estevez (Uncle Mel)"], "comments": [], "recommandations_id": []}

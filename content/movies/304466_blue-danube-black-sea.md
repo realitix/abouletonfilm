@@ -1,0 +1,1 @@
+{"tmdb_id": 304466, "title": "Blue Danube, Black Sea", "original_title": "Blue Danube, Black Sea", "slug_title": "blue-danube-black-sea", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

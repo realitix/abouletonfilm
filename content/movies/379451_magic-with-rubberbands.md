@@ -1,0 +1,1 @@
+{"tmdb_id": 379451, "title": "Magic with Rubberbands", "original_title": "Magic with Rubberbands", "slug_title": "magic-with-rubberbands", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcH1QFrk5pclNtehrf0dhLstJqQ.jpg", "actors": ["Dan Harlan ()"], "comments": [], "recommandations_id": []}

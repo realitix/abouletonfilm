@@ -1,0 +1,1 @@
+{"tmdb_id": 72647, "title": "\u8ca1\u795e\u5ba2\u68e7", "original_title": "\u8ca1\u795e\u5ba2\u68e7", "slug_title": "cai-shen-ke-zhan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

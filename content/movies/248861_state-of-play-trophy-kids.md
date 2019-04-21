@@ -1,0 +1,1 @@
+{"tmdb_id": 248861, "title": "State of Play: Trophy Kids", "original_title": "State of Play: Trophy Kids", "slug_title": "state-of-play-trophy-kids", "date": "2013-12-05", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGB8w4DNEKDWln2pbPyfz4pJGHX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397108, "title": "A cut above", "original_title": "A cut above", "slug_title": "a-cut-above", "date": "2006-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v3Gg9DJDrDffuImdWDVbVAXC9Zn.jpg", "actors": [], "comments": [], "recommandations_id": []}

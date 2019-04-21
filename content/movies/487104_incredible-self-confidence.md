@@ -1,0 +1,1 @@
+{"tmdb_id": 487104, "title": "Incredible Self Confidence", "original_title": "Incredible Self Confidence", "slug_title": "incredible-self-confidence", "date": "1987-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

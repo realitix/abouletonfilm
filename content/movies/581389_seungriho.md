@@ -1,0 +1,1 @@
+{"tmdb_id": 581389, "title": "\uc2b9\ub9ac\ud638", "original_title": "\uc2b9\ub9ac\ud638", "slug_title": "seungriho", "date": "2020-12-31", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Song Joong-ki ()"], "comments": [], "recommandations_id": []}

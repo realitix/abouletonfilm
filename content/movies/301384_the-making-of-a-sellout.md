@@ -1,0 +1,1 @@
+{"tmdb_id": 301384, "title": "The Making of a Sellout", "original_title": "The Making of a Sellout", "slug_title": "the-making-of-a-sellout", "date": "2014-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

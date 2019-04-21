@@ -1,0 +1,1 @@
+{"tmdb_id": 503950, "title": "Gott ist ein toter Fisch", "original_title": "Gott ist ein toter Fisch", "slug_title": "gott-ist-ein-toter-fisch", "date": "2001-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

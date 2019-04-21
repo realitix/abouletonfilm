@@ -1,0 +1,1 @@
+{"tmdb_id": 522527, "title": "ABER \u2013 Saken", "original_title": "ABER \u2013 Saken", "slug_title": "aber-saken", "date": "1984-02-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 510216, "title": "Hitler's Miracle Weapons", "original_title": "Hitler's Miracle Weapons", "slug_title": "hitler-s-miracle-weapons", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8SPij0SzCSGPHT7ezFvoVJrOmW.jpg", "actors": [], "comments": [], "recommandations_id": []}

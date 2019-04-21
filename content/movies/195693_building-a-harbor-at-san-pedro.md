@@ -1,0 +1,1 @@
+{"tmdb_id": 195693, "title": "Building a Harbor at San Pedro", "original_title": "Building a Harbor at San Pedro", "slug_title": "building-a-harbor-at-san-pedro", "date": "1901-12-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581818, "title": "Chimera", "original_title": "Chimera", "slug_title": "chimera", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Griffin Crase (Chris)", "Curran McDaniel (Sean)"], "comments": [], "recommandations_id": []}

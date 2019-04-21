@@ -1,0 +1,1 @@
+{"tmdb_id": 279511, "title": "Vijetha Vikram", "original_title": "Vijetha Vikram", "slug_title": "vijetha-vikram", "date": "1987-08-14", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Venkatesh ()", "Farha Naaz ()", "Poornima Bhagyaraj ()"], "comments": [], "recommandations_id": []}

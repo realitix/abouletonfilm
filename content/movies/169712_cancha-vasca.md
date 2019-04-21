@@ -1,0 +1,1 @@
+{"tmdb_id": 169712, "title": "Cancha vasca", "original_title": "Cancha vasca", "slug_title": "cancha-vasca", "date": "1955-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjCiODjN98yF2vEOGu9sEaS9BHK.jpg", "actors": ["Mar\u00eda Asquerino ()"], "comments": [], "recommandations_id": []}

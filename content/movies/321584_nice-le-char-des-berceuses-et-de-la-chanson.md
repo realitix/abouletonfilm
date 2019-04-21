@@ -1,0 +1,1 @@
+{"tmdb_id": 321584, "title": "Nice : le char des berceuses et de la chanson", "original_title": "Nice : le char des berceuses et de la chanson", "slug_title": "nice-le-char-des-berceuses-et-de-la-chanson", "date": "1900-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

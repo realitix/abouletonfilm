@@ -1,0 +1,1 @@
+{"tmdb_id": 333067, "title": "Posledniye kanikuly", "original_title": "Posledniye kanikuly", "slug_title": "posledniye-kanikuly", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

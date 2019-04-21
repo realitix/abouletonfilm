@@ -1,0 +1,1 @@
+{"tmdb_id": 131643, "title": "Hokuro Kyodai Full Throttle!!!!", "original_title": "Hokuro Kyodai Full Throttle!!!!", "slug_title": "hokuro-kyodai-full-throttle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/boGHJhgb4atIUWyOm9FwR7Wqaov.jpg", "actors": [], "comments": [], "recommandations_id": []}

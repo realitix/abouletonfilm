@@ -1,0 +1,1 @@
+{"tmdb_id": 534142, "title": "The Making of 'Be Kind Rewind'", "original_title": "The Making of 'Be Kind Rewind'", "slug_title": "the-making-of-be-kind-rewind", "date": "2008-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

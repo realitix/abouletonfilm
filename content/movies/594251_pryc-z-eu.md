@@ -1,0 +1,1 @@
+{"tmdb_id": 594251, "title": "Pry\u010d z EU", "original_title": "Pry\u010d z EU", "slug_title": "pryc-z-eu", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cv2UiG7TEBPHnBGZfdQ2YiHF5a4.jpg", "actors": [], "comments": [], "recommandations_id": []}

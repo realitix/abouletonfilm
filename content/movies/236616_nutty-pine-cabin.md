@@ -1,0 +1,1 @@
+{"tmdb_id": 236616, "title": "Nutty Pine Cabin", "original_title": "Nutty Pine Cabin", "slug_title": "nutty-pine-cabin", "date": "1942-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvfYnhy7d9V0tSTc18j49FX1jLF.jpg", "actors": [], "comments": [], "recommandations_id": []}

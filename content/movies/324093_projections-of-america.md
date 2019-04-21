@@ -1,0 +1,1 @@
+{"tmdb_id": 324093, "title": "Projections of America", "original_title": "Projections of America", "slug_title": "projections-of-america", "date": "2014-09-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BFn4cRmv4jcAZVRsczqv7FpTAJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 146777, "title": "The Spirit World of Tidikawa", "original_title": "The Spirit World of Tidikawa", "slug_title": "the-spirit-world-of-tidikawa", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rE4b8tNiLBSwaic6xfsIc9wmZFf.jpg", "actors": [], "comments": [], "recommandations_id": []}

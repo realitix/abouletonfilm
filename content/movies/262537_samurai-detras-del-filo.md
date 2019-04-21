@@ -1,0 +1,1 @@
+{"tmdb_id": 262537, "title": "Samurai: Detr\u00e1s del filo", "original_title": "Samurai: Detr\u00e1s del filo", "slug_title": "samurai-detras-del-filo", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

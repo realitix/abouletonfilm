@@ -1,0 +1,1 @@
+{"tmdb_id": 283014, "title": "Day of the Fox - The Legend of Shakaru", "original_title": "Day of the Fox - The Legend of Shakaru", "slug_title": "day-of-the-fox-the-legend-of-shakaru", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

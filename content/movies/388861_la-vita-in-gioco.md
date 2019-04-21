@@ -1,0 +1,1 @@
+{"tmdb_id": 388861, "title": "La vita in gioco", "original_title": "La vita in gioco", "slug_title": "la-vita-in-gioco", "date": "1972-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aa4q0y0LIwV0qUA7PObHRMO91c3.jpg", "actors": [], "comments": [], "recommandations_id": []}

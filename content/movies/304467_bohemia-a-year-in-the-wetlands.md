@@ -1,0 +1,1 @@
+{"tmdb_id": 304467, "title": "Bohemia - A Year in the Wetlands", "original_title": "Bohemia - A Year in the Wetlands", "slug_title": "bohemia-a-year-in-the-wetlands", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

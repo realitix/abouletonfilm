@@ -1,0 +1,1 @@
+{"tmdb_id": 453178, "title": "The Ball", "original_title": "The Ball", "slug_title": "the-ball", "date": "2010-01-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalie Garner (Amy)"], "comments": [], "recommandations_id": []}

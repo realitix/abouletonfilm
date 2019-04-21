@@ -1,0 +1,1 @@
+{"tmdb_id": 536, "title": "Stuttgart Shanghai", "original_title": "Stuttgart Shanghai", "slug_title": "stuttgart-shanghai", "date": "2007-03-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

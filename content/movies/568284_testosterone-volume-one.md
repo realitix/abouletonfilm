@@ -1,0 +1,1 @@
+{"tmdb_id": 568284, "title": "Testosterone: Volume One", "original_title": "Testosterone: Volume One", "slug_title": "testosterone-volume-one", "date": "2017-10-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXUhQWgSt9C6AxAiPjCdCAuOEZ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

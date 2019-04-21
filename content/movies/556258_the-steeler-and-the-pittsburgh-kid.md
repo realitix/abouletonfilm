@@ -1,0 +1,1 @@
+{"tmdb_id": 556258, "title": "The Steeler and the Pittsburgh Kid", "original_title": "The Steeler and the Pittsburgh Kid", "slug_title": "the-steeler-and-the-pittsburgh-kid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

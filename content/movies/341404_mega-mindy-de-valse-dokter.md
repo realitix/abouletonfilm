@@ -1,0 +1,1 @@
+{"tmdb_id": 341404, "title": "Mega Mindy  de Valse Dokter", "original_title": "Mega Mindy  de Valse Dokter", "slug_title": "mega-mindy-de-valse-dokter", "date": "2007-08-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u1GzPZtORZ6L5vl8PaXyuWOGNrw.jpg", "actors": [], "comments": [], "recommandations_id": []}

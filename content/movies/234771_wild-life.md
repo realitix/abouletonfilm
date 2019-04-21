@@ -1,0 +1,1 @@
+{"tmdb_id": 234771, "title": "Wild Life", "original_title": "Wild Life", "slug_title": "wild-life", "date": "1959-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

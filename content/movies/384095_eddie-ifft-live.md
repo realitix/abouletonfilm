@@ -1,0 +1,1 @@
+{"tmdb_id": 384095, "title": "Eddie Ifft: Live", "original_title": "Eddie Ifft: Live", "slug_title": "eddie-ifft-live", "date": "2011-02-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCBvx7AgLpOCGsQe4Bz8Lou7HXC.jpg", "actors": ["Eddie Ifft (Eddie Ifft)"], "comments": [], "recommandations_id": []}

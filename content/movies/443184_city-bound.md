@@ -1,0 +1,1 @@
+{"tmdb_id": 443184, "title": "City Bound", "original_title": "City Bound", "slug_title": "city-bound", "date": "1941-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

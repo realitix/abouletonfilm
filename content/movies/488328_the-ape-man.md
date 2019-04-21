@@ -1,0 +1,1 @@
+{"tmdb_id": 488328, "title": "The Ape Man", "original_title": "The Ape Man", "slug_title": "the-ape-man", "date": "2017-10-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ENtzUrtWVjQfEoBrjNL07ctjqe.jpg", "actors": [], "comments": [], "recommandations_id": []}

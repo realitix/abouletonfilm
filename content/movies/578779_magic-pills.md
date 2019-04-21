@@ -1,0 +1,1 @@
+{"tmdb_id": 578779, "title": "Magic Pills", "original_title": "Magic Pills", "slug_title": "magic-pills", "date": "2017-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

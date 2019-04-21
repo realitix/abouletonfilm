@@ -1,0 +1,1 @@
+{"tmdb_id": 414227, "title": "CPCPCPCPCP", "original_title": "CPCPCPCPCP", "slug_title": "cpcpcpcpcp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 68059, "title": "Senta a Pua!", "original_title": "Senta a Pua!", "slug_title": "senta-a-pua", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uSfsQIFhHfbTkMKh7vqxNNkp58s.jpg", "actors": [], "comments": [], "recommandations_id": []}

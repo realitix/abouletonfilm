@@ -1,0 +1,1 @@
+{"tmdb_id": 174965, "title": "The Ultimate Fighter 12 Finale", "original_title": "The Ultimate Fighter 12 Finale", "slug_title": "the-ultimate-fighter-12-finale", "date": "2010-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkLVWdc6D7PNdnWryGNuKsbV95m.jpg", "actors": [], "comments": [], "recommandations_id": []}

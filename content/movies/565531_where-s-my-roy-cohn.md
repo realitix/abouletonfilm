@@ -1,0 +1,1 @@
+{"tmdb_id": 565531, "title": "Where's My Roy Cohn?", "original_title": "Where's My Roy Cohn?", "slug_title": "where-s-my-roy-cohn", "date": "2019-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

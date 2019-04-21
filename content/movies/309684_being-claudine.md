@@ -1,0 +1,1 @@
+{"tmdb_id": 309684, "title": "Being Claudine", "original_title": "Being Claudine", "slug_title": "being-claudine", "date": "2002-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

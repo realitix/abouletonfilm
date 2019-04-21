@@ -1,0 +1,1 @@
+{"tmdb_id": 350261, "title": "\uc0c9\uae54\uc788\ub294 \uc5ec\uc790", "original_title": "\uc0c9\uae54\uc788\ub294 \uc5ec\uc790", "slug_title": "saegggalissneun-yeoja", "date": "1981-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

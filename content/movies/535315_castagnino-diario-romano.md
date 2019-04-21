@@ -1,0 +1,1 @@
+{"tmdb_id": 535315, "title": "Castagnino Diario Romano", "original_title": "Castagnino Diario Romano", "slug_title": "castagnino-diario-romano", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

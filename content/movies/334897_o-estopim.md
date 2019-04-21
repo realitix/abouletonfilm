@@ -1,0 +1,1 @@
+{"tmdb_id": 334897, "title": "O Estopim", "original_title": "O Estopim", "slug_title": "o-estopim", "date": "2014-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c77bS4n0E4YfOGfNDlLFRS7gS9.jpg", "actors": ["Bruno Rodrigues (Amarildo)"], "comments": [], "recommandations_id": []}

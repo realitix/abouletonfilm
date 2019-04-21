@@ -1,0 +1,1 @@
+{"tmdb_id": 72395, "title": "Team Umizoomi", "original_title": "Team Umizoomi", "slug_title": "team-umizoomi", "date": "2011-06-28", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eRCCl7N5rModxM2hh8E7J4DKyG.jpg", "actors": [], "comments": [], "recommandations_id": []}

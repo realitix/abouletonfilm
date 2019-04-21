@@ -1,0 +1,1 @@
+{"tmdb_id": 476998, "title": "The Spring Lake", "original_title": "\u7fe0\u6e56\u5bd2", "slug_title": "the-spring-lake", "date": "1978-06-24", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lin Feng-jiao ()", "Chin Han ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 357656, "title": "Georgica", "original_title": "Georgica", "slug_title": "georgica", "date": "2014-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

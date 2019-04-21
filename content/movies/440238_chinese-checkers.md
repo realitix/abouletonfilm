@@ -1,0 +1,1 @@
+{"tmdb_id": 440238, "title": "Chinese Checkers", "original_title": "Chinese Checkers", "slug_title": "chinese-checkers", "date": "1965-02-07", "genre": "Romance", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r61yRWXdly157PnfOQphCGFnylb.jpg", "actors": ["Beverly Grant ()", "Joan Adler ()"], "comments": [], "recommandations_id": []}

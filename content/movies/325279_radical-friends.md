@@ -1,0 +1,1 @@
+{"tmdb_id": 325279, "title": "Radical Friends", "original_title": "Radical Friends", "slug_title": "radical-friends", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498314, "title": "Are Our Kids Tough Enough?: Chinese School", "original_title": "Are Our Kids Tough Enough?: Chinese School", "slug_title": "are-our-kids-tough-enough-chinese-school", "date": "2015-08-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

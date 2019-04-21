@@ -1,0 +1,1 @@
+{"tmdb_id": 148364, "title": "Mei luan tou jia", "original_title": "Boss No Balls", "slug_title": "mei-luan-tou-jia", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/43TVASa7acd1nD1uo3AzPE0Jc4A.jpg", "actors": [], "comments": [], "recommandations_id": []}

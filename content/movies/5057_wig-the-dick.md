@@ -1,0 +1,1 @@
+{"tmdb_id": 5057, "title": "Wig the Dick", "original_title": "Wig the Dick", "slug_title": "wig-the-dick", "date": "2005-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andre Schneider (Junger Mann)", "Rainer-Maria Wittenauer (Mann vorm Club)"], "comments": [], "recommandations_id": []}

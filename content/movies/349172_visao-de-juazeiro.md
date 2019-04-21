@@ -1,0 +1,1 @@
+{"tmdb_id": 349172, "title": "Vis\u00e3o de Juazeiro", "original_title": "Vis\u00e3o de Juazeiro", "slug_title": "visao-de-juazeiro", "date": "1970-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJ07Wxfea1bsGvXfiDljzl5lkd8.jpg", "actors": [], "comments": [], "recommandations_id": []}

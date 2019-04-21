@@ -1,0 +1,1 @@
+{"tmdb_id": 461829, "title": "Mankiller", "original_title": "Mankiller", "slug_title": "mankiller", "date": "2017-06-19", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qe6z8FRuja7WWQ3SeqEvADNt8rz.jpg", "actors": [], "comments": [], "recommandations_id": []}

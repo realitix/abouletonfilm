@@ -1,0 +1,1 @@
+{"tmdb_id": 301994, "title": "Eating Well for Optimum Health", "original_title": "Eating Well for Optimum Health", "slug_title": "eating-well-for-optimum-health", "date": "2000-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Weil (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 395297, "title": "VeggieTales: Growing Confident Kids", "original_title": "VeggieTales: Growing Confident Kids", "slug_title": "veggietales-growing-confident-kids", "date": "2010-12-29", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phil Vischer ()"], "comments": [], "recommandations_id": []}

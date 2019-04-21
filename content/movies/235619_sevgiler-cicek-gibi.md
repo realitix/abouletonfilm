@@ -1,0 +1,1 @@
+{"tmdb_id": 235619, "title": "Sevgiler \u00c7i\u00e7ek Gibi", "original_title": "Sevgiler \u00c7i\u00e7ek Gibi", "slug_title": "sevgiler-cicek-gibi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nPqgLAcEMCzux7A4wSXpa21OCvc.jpg", "actors": [], "comments": [], "recommandations_id": []}

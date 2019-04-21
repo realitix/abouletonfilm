@@ -1,0 +1,1 @@
+{"tmdb_id": 78933, "title": "Om Sakthi", "original_title": "Om Sakthi", "slug_title": "om-sakthi", "date": "1982-05-25", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Menaka Suresh ()", "Jaishankara ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 325043, "title": "Monsters Behind the Iron Curtain", "original_title": "Monsters Behind the Iron Curtain", "slug_title": "monsters-behind-the-iron-curtain", "date": "2014-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

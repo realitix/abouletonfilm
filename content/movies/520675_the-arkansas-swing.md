@@ -1,0 +1,1 @@
+{"tmdb_id": 520675, "title": "The Arkansas Swing", "original_title": "The Arkansas Swing", "slug_title": "the-arkansas-swing", "date": "1948-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478355, "title": "Explosion Ma Baby", "original_title": "Explosion Ma Baby", "slug_title": "explosion-ma-baby", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6zG5f7Rp4mVuZLAX1QXmHjSDhY.jpg", "actors": [], "comments": [], "recommandations_id": []}

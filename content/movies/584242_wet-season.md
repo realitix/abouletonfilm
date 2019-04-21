@@ -1,0 +1,1 @@
+{"tmdb_id": 584242, "title": "Wet Season", "original_title": "Wet Season", "slug_title": "wet-season", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478819, "title": "Zombie Lust", "original_title": "Zombie Lust", "slug_title": "zombie-lust", "date": "2002-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl J. Sukenick ()", "Evelyn Sukenick ()", "Fred Bliven ()", "Debbie Rochon ()", "Sara Victor ()"], "comments": [], "recommandations_id": []}

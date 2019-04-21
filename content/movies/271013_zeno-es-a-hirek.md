@@ -1,0 +1,1 @@
+{"tmdb_id": 271013, "title": "Z\u00e9n\u00f3 \u00e9s a H\u00edrek", "original_title": "Z\u00e9n\u00f3 \u00e9s a H\u00edrek", "slug_title": "zeno-es-a-hirek", "date": "1985-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

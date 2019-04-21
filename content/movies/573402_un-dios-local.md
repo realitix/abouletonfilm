@@ -1,0 +1,1 @@
+{"tmdb_id": 573402, "title": "Un Dios local", "original_title": "Un Dios local", "slug_title": "un-dios-local", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

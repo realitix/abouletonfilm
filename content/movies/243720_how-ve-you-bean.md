@@ -1,0 +1,1 @@
+{"tmdb_id": 243720, "title": "How've You Bean?", "original_title": "How've You Bean?", "slug_title": "how-ve-you-bean", "date": "1933-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle ()", "Mildred Van Dorn (The Bride)", "Fritz Hubert (Willie)"], "comments": [], "recommandations_id": []}

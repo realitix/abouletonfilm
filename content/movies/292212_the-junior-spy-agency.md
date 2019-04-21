@@ -1,0 +1,1 @@
+{"tmdb_id": 292212, "title": "The Junior Spy Agency", "original_title": "The Junior Spy Agency", "slug_title": "the-junior-spy-agency", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

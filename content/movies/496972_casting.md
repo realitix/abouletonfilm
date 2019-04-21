@@ -1,0 +1,1 @@
+{"tmdb_id": 496972, "title": "Casting", "original_title": "Casting", "slug_title": "casting", "date": "2011-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ra\u00fal Ar\u00e9valo ()", "Juanra Bonet ()", "Cr\u00edspulo Cabezas ()"], "comments": [], "recommandations_id": []}

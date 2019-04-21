@@ -1,0 +1,1 @@
+{"tmdb_id": 5655, "title": "Dairy of Terror", "original_title": "Dairy of Terror", "slug_title": "dairy-of-terror", "date": "2007-11-25", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

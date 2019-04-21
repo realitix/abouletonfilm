@@ -1,0 +1,1 @@
+{"tmdb_id": 429434, "title": "The Pitch", "original_title": "The Pitch", "slug_title": "the-pitch", "date": "1998-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

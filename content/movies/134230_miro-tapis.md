@@ -1,0 +1,1 @@
+{"tmdb_id": 134230, "title": "Mir\u00f3 Tap\u00eds", "original_title": "Mir\u00f3 Tap\u00eds", "slug_title": "miro-tapis", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4c8Yw9BfsuAe9kb5VKmx30fFY7A.jpg", "actors": [], "comments": [], "recommandations_id": []}

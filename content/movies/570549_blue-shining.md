@@ -1,0 +1,1 @@
+{"tmdb_id": 570549, "title": "Blue Shining", "original_title": "Blue Shining", "slug_title": "blue-shining", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

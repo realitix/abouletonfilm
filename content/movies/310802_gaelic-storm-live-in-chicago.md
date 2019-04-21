@@ -1,0 +1,1 @@
+{"tmdb_id": 310802, "title": "Gaelic Storm: Live in Chicago", "original_title": "Gaelic Storm: Live in Chicago", "slug_title": "gaelic-storm-live-in-chicago", "date": "2006-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxu4pJo8AxFNZAwhaHh53KwIMty.jpg", "actors": [], "comments": [], "recommandations_id": []}

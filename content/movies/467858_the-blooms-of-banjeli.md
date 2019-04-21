@@ -1,0 +1,1 @@
+{"tmdb_id": 467858, "title": "The Blooms Of Banjeli", "original_title": "The Blooms Of Banjeli", "slug_title": "the-blooms-of-banjeli", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrJIllqBlzgG1tbmiPOLipbRLUh.jpg", "actors": [], "comments": [], "recommandations_id": []}

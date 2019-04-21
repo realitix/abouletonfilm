@@ -1,0 +1,1 @@
+{"tmdb_id": 448196, "title": "\u041b\u0438\u043c\u043f\u043e\u043f\u043e", "original_title": "\u041b\u0438\u043c\u043f\u043e\u043f\u043e", "slug_title": "limpopo", "date": "1939-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5yjPyrFb2emFO6IC4eOyHUe3Exa.jpg", "actors": [], "comments": [], "recommandations_id": []}

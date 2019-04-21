@@ -1,0 +1,1 @@
+{"tmdb_id": 177470, "title": "Handel's Last Chance", "original_title": "Handel's Last Chance", "slug_title": "handel-s-last-chance", "date": "1996-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRbSMh9H8H5OJo27dxLk7lz9vMj.jpg", "actors": [], "comments": [], "recommandations_id": []}

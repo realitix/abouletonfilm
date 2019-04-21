@@ -1,0 +1,1 @@
+{"tmdb_id": 508775, "title": "Hitler\u00b4s forgers", "original_title": "Hitler\u00b4s forgers", "slug_title": "hitlers-forgers", "date": "2010-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jpGuut3W384FBN5YL3WsDE71msO.jpg", "actors": [], "comments": [], "recommandations_id": []}

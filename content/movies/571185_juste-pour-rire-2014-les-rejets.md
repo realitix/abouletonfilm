@@ -1,0 +1,1 @@
+{"tmdb_id": 571185, "title": "Juste pour rire 2014 - Les Rejets", "original_title": "Juste pour rire 2014 - Les Rejets", "slug_title": "juste-pour-rire-2014-les-rejets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSkextbett2qDGNCXPwje18oDyU.jpg", "actors": [], "comments": [], "recommandations_id": []}

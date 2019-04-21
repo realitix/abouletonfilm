@@ -1,0 +1,1 @@
+{"tmdb_id": 243103, "title": "Imany - Concert a Manosque", "original_title": "Imany - Concert a Manosque", "slug_title": "imany-concert-a-manosque", "date": "2011-09-19", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Imany (Herself)"], "comments": [], "recommandations_id": []}

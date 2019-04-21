@@ -1,0 +1,1 @@
+{"tmdb_id": 303211, "title": "American Legacy", "original_title": "American Legacy", "slug_title": "american-legacy", "date": "2013-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

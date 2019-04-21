@@ -1,0 +1,1 @@
+{"tmdb_id": 280069, "title": "Blue Helmet", "original_title": "Casque bleu", "slug_title": "blue-helmet", "date": "1995-07-03", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDPMg392uopHqihs9LGbbU8wf7W.jpg", "actors": [], "comments": [], "recommandations_id": []}

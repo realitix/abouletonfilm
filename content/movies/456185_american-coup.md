@@ -1,0 +1,1 @@
+{"tmdb_id": 456185, "title": "American Coup", "original_title": "American Coup", "slug_title": "american-coup", "date": "2010-11-09", "genre": "Histoire / Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ervand Abrahamian (Himself)", "Ehsan Yarshater (Himself)"], "comments": [], "recommandations_id": []}

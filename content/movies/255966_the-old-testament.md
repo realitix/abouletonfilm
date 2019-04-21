@@ -1,0 +1,1 @@
+{"tmdb_id": 255966, "title": "The Old Testament", "original_title": "\u65e7\u7ea6", "slug_title": "the-old-testament", "date": "2001-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trnYnzLgn185UdxZtpIHKlmgdfA.jpg", "actors": ["Yu Bo ()", "Yu Xiaoyu ()"], "comments": [], "recommandations_id": []}

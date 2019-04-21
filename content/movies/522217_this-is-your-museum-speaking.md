@@ -1,0 +1,1 @@
+{"tmdb_id": 522217, "title": "This Is Your Museum Speaking", "original_title": "This Is Your Museum Speaking", "slug_title": "this-is-your-museum-speaking", "date": "1979-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

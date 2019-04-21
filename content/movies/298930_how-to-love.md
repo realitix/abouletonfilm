@@ -1,0 +1,1 @@
+{"tmdb_id": 298930, "title": "How to Love", "original_title": "How to Love", "slug_title": "how-to-love", "date": "2014-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

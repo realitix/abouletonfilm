@@ -1,0 +1,1 @@
+{"tmdb_id": 581893, "title": "Resolving Power", "original_title": "Resolving Power", "slug_title": "resolving-power", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ay8JSK9h0i6Plg7h9ToYpd2Ilhz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 433813, "title": "Henri Georges Clouzot: An Enlightened Tyrant", "original_title": "Henri-Georges Clouzot: Le tyran eclaire", "slug_title": "henri-georges-clouzot-an-enlightened-tyrant", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

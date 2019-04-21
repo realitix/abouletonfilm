@@ -1,0 +1,1 @@
+{"tmdb_id": 298809, "title": "One Wall: Kings of Coney Island", "original_title": "One Wall: Kings of Coney Island", "slug_title": "one-wall-kings-of-coney-island", "date": "2013-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVFR4RRsee5oEBlj9OpasbV4ZfM.jpg", "actors": [], "comments": [], "recommandations_id": []}

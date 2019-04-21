@@ -1,0 +1,1 @@
+{"tmdb_id": 592694, "title": "Chinatown", "original_title": "Kineserna Kommer", "slug_title": "chinatown", "date": "2011-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmVn50efKD9cF8YOOBkKylBbUFX.jpg", "actors": [], "comments": [], "recommandations_id": []}

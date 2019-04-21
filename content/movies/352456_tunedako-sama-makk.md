@@ -1,0 +1,1 @@
+{"tmdb_id": 352456, "title": "Tunedako sama Makk", "original_title": "Tunedako sama Makk", "slug_title": "tunedako-sama-makk", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zHky0QC6osv9CtrMg5pBEk0pKf.jpg", "actors": [], "comments": [], "recommandations_id": []}

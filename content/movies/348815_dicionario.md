@@ -1,0 +1,1 @@
+{"tmdb_id": 348815, "title": "Dicion\u00e1rio", "original_title": "Dicion\u00e1rio", "slug_title": "dicionario", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ivo M\u00fcller ()"], "comments": [], "recommandations_id": []}

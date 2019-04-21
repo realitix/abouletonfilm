@@ -1,0 +1,1 @@
+{"tmdb_id": 530201, "title": "The Cowards", "original_title": "\u05d4\u05e4\u05d7\u05d3\u05e0\u05d9\u05dd", "slug_title": "the-cowards", "date": "1980-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybiYMz0KHyH7xJERfbeDNbXoeKn.jpg", "actors": [], "comments": [], "recommandations_id": []}

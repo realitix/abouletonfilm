@@ -1,0 +1,1 @@
+{"tmdb_id": 439226, "title": "Bulb in the Head", "original_title": "Bulb in the Head", "slug_title": "bulb-in-the-head", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/giFjIwOasw886VpQqc5YjOS5mQH.jpg", "actors": [], "comments": [], "recommandations_id": []}

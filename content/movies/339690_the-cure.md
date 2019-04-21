@@ -1,0 +1,1 @@
+{"tmdb_id": 339690, "title": "The Cure", "original_title": "The Cure", "slug_title": "the-cure", "date": "2013-07-01", "genre": "Thriller / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

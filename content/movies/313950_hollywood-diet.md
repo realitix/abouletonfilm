@@ -1,0 +1,1 @@
+{"tmdb_id": 313950, "title": "Hollywood Diet", "original_title": "Hollywood Diet", "slug_title": "hollywood-diet", "date": "1932-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

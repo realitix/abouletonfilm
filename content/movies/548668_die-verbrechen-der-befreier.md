@@ -1,0 +1,1 @@
+{"tmdb_id": 548668, "title": "Die Verbrechen der Befreier", "original_title": "Die Verbrechen der Befreier", "slug_title": "die-verbrechen-der-befreier", "date": "2015-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

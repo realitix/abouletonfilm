@@ -1,0 +1,1 @@
+{"tmdb_id": 399470, "title": "Vajra Cymaticon", "original_title": "Vajra Cymaticon", "slug_title": "vajra-cymaticon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVHUk860jYVnbF6j8rYA3MqU6sp.jpg", "actors": [], "comments": [], "recommandations_id": []}

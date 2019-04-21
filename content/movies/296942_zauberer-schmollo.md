@@ -1,0 +1,1 @@
+{"tmdb_id": 296942, "title": "Zauberer Schmollo", "original_title": "Zauberer Schmollo", "slug_title": "zauberer-schmollo", "date": "1994-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6wviNcEmi3jABjGqsSL4GEsFBWE.jpg", "actors": [], "comments": [], "recommandations_id": []}

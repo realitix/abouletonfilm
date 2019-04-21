@@ -1,0 +1,1 @@
+{"tmdb_id": 522944, "title": "Shock Therapy", "original_title": "Shock Therapy", "slug_title": "shock-therapy", "date": "2017-04-14", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAQAgwME0M998sq2h0hG3n79nDN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309251, "title": "Baby Bash: What's Really", "original_title": "Baby Bash: What's Really", "slug_title": "baby-bash-what-s-really", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

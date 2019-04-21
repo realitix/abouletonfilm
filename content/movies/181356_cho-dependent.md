@@ -1,0 +1,1 @@
+{"tmdb_id": 181356, "title": "Cho Dependent", "original_title": "Cho Dependent", "slug_title": "cho-dependent", "date": "2011-06-16", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pDm9UZWjfxavx53AksG18YBYh64.jpg", "actors": ["Margaret Cho (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503956, "title": "Who was Alice Miller?", "original_title": "Hvem var Alice Miller?", "slug_title": "who-was-alice-miller", "date": "2015-05-13", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alice Miller (Alice Miller)", "Martin Miller (Martin Miller)"], "comments": [], "recommandations_id": []}

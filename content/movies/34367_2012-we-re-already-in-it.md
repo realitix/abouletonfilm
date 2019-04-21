@@ -1,0 +1,1 @@
+{"tmdb_id": 34367, "title": "2012: We're Already In It", "original_title": "2012: We're Already In It", "slug_title": "2012-we-re-already-in-it", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

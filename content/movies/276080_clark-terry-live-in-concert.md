@@ -1,0 +1,1 @@
+{"tmdb_id": 276080, "title": "Clark Terry: Live in Concert", "original_title": "Clark Terry: Live in Concert", "slug_title": "clark-terry-live-in-concert", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g72U0codjaIiY12LCAPJR15tn9L.jpg", "actors": [], "comments": [], "recommandations_id": []}

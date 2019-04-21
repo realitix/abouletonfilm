@@ -1,0 +1,1 @@
+{"tmdb_id": 434652, "title": "Vogulys", "original_title": "Vogulys", "slug_title": "vogulys", "date": "2016-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TdWd6OAIyg9S4idx3qM3pqocxW.jpg", "actors": ["Jonas Vogulys ()"], "comments": [], "recommandations_id": []}

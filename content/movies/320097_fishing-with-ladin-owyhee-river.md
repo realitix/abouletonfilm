@@ -1,0 +1,1 @@
+{"tmdb_id": 320097, "title": "Fishing with Ladin: Owyhee River", "original_title": "Fishing with Ladin: Owyhee River", "slug_title": "fishing-with-ladin-owyhee-river", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

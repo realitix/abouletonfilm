@@ -1,0 +1,1 @@
+{"tmdb_id": 537459, "title": "Rue Daguerre in 2005", "original_title": "La Rue Daguerre en 2005", "slug_title": "rue-daguerre-in-2005", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bD9JfW8vETP2Z5fnwpYjQOtRk3S.jpg", "actors": [], "comments": [], "recommandations_id": []}

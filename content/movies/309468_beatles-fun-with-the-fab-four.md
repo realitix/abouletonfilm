@@ -1,0 +1,1 @@
+{"tmdb_id": 309468, "title": "Beatles: Fun with the Fab Four", "original_title": "Beatles: Fun with the Fab Four", "slug_title": "beatles-fun-with-the-fab-four", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

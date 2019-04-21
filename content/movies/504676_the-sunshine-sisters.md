@@ -1,0 +1,1 @@
+{"tmdb_id": 504676, "title": "The Sunshine Sisters", "original_title": "The Sunshine Sisters", "slug_title": "the-sunshine-sisters", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

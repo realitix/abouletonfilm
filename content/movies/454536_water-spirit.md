@@ -1,0 +1,1 @@
+{"tmdb_id": 454536, "title": "Water Spirit", "original_title": "Mizu no Sei", "slug_title": "water-spirit", "date": "1998-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

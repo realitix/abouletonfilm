@@ -1,0 +1,1 @@
+{"tmdb_id": 421696, "title": "Lembusura", "original_title": "Lembusura", "slug_title": "lembusura", "date": "2015-02-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pMECfDjir0h5CfZkYdXQTXBn0Sz.jpg", "actors": ["Yohanes Budyambara (Lembusura demon)"], "comments": [], "recommandations_id": []}

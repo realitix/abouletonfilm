@@ -1,0 +1,1 @@
+{"tmdb_id": 334002, "title": "Alex: The Spirit of a Champion", "original_title": "Alex: The Spirit of a Champion", "slug_title": "alex-the-spirit-of-a-champion", "date": "1993-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1pvrQwnurYqNMRN7mPOPWwevtM.jpg", "actors": [], "comments": [], "recommandations_id": []}

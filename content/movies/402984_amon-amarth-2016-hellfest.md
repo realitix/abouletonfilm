@@ -1,0 +1,1 @@
+{"tmdb_id": 402984, "title": "Amon Amarth: [2016] Hellfest", "original_title": "Amon Amarth: [2016] Hellfest", "slug_title": "amon-amarth-2016-hellfest", "date": "2016-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78ql0QDVSBHmsIzdIox5GuivcJv.jpg", "actors": [], "comments": [], "recommandations_id": []}

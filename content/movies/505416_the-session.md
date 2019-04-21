@@ -1,0 +1,1 @@
+{"tmdb_id": 505416, "title": "The Session", "original_title": "The Session", "slug_title": "the-session", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brandon Scott (Alan Burton)", "Regina Williams (Peggy)"], "comments": [], "recommandations_id": []}

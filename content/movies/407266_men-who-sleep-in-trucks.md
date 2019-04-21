@@ -1,0 +1,1 @@
+{"tmdb_id": 407266, "title": "Men Who Sleep in Trucks", "original_title": "Men Who Sleep in Trucks", "slug_title": "men-who-sleep-in-trucks", "date": "2016-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQibhomIUsoQm6bMcyjtCl1iUer.jpg", "actors": [], "comments": [], "recommandations_id": []}

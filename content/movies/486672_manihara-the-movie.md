@@ -1,0 +1,1 @@
+{"tmdb_id": 486672, "title": "Manihara - The movie", "original_title": "Manihara - The movie", "slug_title": "manihara-the-movie", "date": "2015-07-10", "genre": "Drame / Myst\u00e8re / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/89jMQd8GXlSuEbHcDwrxwzcOGmh.jpg", "actors": [], "comments": [], "recommandations_id": []}

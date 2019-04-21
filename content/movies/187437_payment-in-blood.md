@@ -1,0 +1,1 @@
+{"tmdb_id": 187437, "title": "Payment in Blood", "original_title": "Payment in Blood", "slug_title": "payment-in-blood", "date": "1973-07-12", "genre": "Crime", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uOgwNvYWhWeLbclAerDiWrnUsSA.jpg", "actors": [], "comments": [], "recommandations_id": []}

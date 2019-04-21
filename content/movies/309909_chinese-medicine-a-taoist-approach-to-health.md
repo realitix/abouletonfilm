@@ -1,0 +1,1 @@
+{"tmdb_id": 309909, "title": "Chinese Medicine: A Taoist Approach to Health", "original_title": "Chinese Medicine: A Taoist Approach to Health", "slug_title": "chinese-medicine-a-taoist-approach-to-health", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

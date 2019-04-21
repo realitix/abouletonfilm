@@ -1,0 +1,1 @@
+{"tmdb_id": 123664, "title": "My Father, the Bomb and Me", "original_title": "My Father, the Bomb and Me", "slug_title": "my-father-the-bomb-and-me", "date": "2009-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisa Jardine (Presenter)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 262322, "title": "Bhagya Lakshmi", "original_title": "Bhagya Lakshmi", "slug_title": "bhagya-lakshmi", "date": "1961-11-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Sowcar Janaki ()", "E. V. Saroja ()"], "comments": [], "recommandations_id": []}

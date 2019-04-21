@@ -1,0 +1,1 @@
+{"tmdb_id": 19837, "title": "Beer Wars", "original_title": "Beer Wars", "slug_title": "beer-wars", "date": "2009-04-16", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3F38bPjg1nPu0Xc56uEHpuSO6j7.jpg", "actors": [], "comments": [], "recommandations_id": [5745, 19319, 60415, 94532]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337271, "title": "Kokkens Fidus", "original_title": "Kokkens Fidus", "slug_title": "kokkens-fidus", "date": "1939-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

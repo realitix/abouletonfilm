@@ -1,0 +1,1 @@
+{"tmdb_id": 28756, "title": "Hackers Are People Too", "original_title": "Hackers Are People Too", "slug_title": "hackers-are-people-too", "date": "2008-08-08", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioKT5NSXM9bWR38TQZkWqt9vEmv.jpg", "actors": [], "comments": [], "recommandations_id": [15554, 32013]}

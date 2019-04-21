@@ -1,0 +1,1 @@
+{"tmdb_id": 243294, "title": "The Pink Blueprint", "original_title": "The Pink Blueprint", "slug_title": "the-pink-blueprint", "date": "1966-05-25", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vu0H1BAJEoEcjcXDbWENgN5ozBb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 358422, "title": "Partners In Prosperity", "original_title": "Partners In Prosperity", "slug_title": "partners-in-prosperity", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCCe3eydG9679wyHWEhwlMB3ojz.jpg", "actors": [], "comments": [], "recommandations_id": []}

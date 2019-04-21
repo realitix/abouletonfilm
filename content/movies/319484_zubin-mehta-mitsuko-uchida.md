@@ -1,0 +1,1 @@
+{"tmdb_id": 319484, "title": "Zubin Mehta & Mitsuko Uchida", "original_title": "Zubin Mehta & Mitsuko Uchida", "slug_title": "zubin-mehta-mitsuko-uchida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XaUooDeTFyTEFpHkKal7dDHBMe.jpg", "actors": [], "comments": [], "recommandations_id": []}

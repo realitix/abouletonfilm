@@ -1,0 +1,1 @@
+{"tmdb_id": 457292, "title": "Ray Charles - The genius", "original_title": "Ray Charles - The genius", "slug_title": "ray-charles-the-genius", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iqxFqXnQMKPUll1FcSnY7L8Asb.jpg", "actors": [], "comments": [], "recommandations_id": []}

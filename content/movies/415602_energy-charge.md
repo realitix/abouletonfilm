@@ -1,0 +1,1 @@
+{"tmdb_id": 415602, "title": "Energy Charge", "original_title": "Energy Charge", "slug_title": "energy-charge", "date": "1975-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDEjr4N2tnxjpCF9gJpmY9knesB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 46455, "title": "Bar Wars V The Final Judgement", "original_title": "Bar Wars V The Final Judgement", "slug_title": "bar-wars-v-the-final-judgement", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pWeZAUsC2yVI8GPSKpePsDuVDG.jpg", "actors": [], "comments": [], "recommandations_id": [872]}

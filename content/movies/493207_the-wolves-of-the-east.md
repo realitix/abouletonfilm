@@ -1,0 +1,1 @@
+{"tmdb_id": 493207, "title": "The Wolves of the East", "original_title": "Higashi no ohkami", "slug_title": "the-wolves-of-the-east", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tatsuya Fuji ()", "Shima Ohnishi ()", "Masahiro Kobori ()"], "comments": [], "recommandations_id": []}

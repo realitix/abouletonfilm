@@ -1,0 +1,1 @@
+{"tmdb_id": 507517, "title": "Citizen Nawi", "original_title": "Citizen Nawi", "slug_title": "citizen-nawi", "date": "2007-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jz4kHew6UD39F159YUWkqEj1mQi.jpg", "actors": [], "comments": [], "recommandations_id": []}

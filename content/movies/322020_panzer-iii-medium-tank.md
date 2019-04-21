@@ -1,0 +1,1 @@
+{"tmdb_id": 322020, "title": "Panzer III: Medium Tank", "original_title": "Panzer III: Medium Tank", "slug_title": "panzer-iii-medium-tank", "date": "2005-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536002, "title": "Hamburger the motion picture", "original_title": "Hamburger the motion picture", "slug_title": "hamburger-the-motion-picture", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 70474, "title": "The Greatest Artists 2 - ABBA", "original_title": "The Greatest Artists 2 - ABBA", "slug_title": "the-greatest-artists-2-abba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2sSJk6PgY0JzYEnmF1biVugQ0o.jpg", "actors": [], "comments": [], "recommandations_id": []}

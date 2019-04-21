@@ -1,0 +1,1 @@
+{"tmdb_id": 304292, "title": "Children of the Camps", "original_title": "Children of the Camps", "slug_title": "children-of-the-camps", "date": "1999-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

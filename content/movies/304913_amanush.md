@@ -1,0 +1,1 @@
+{"tmdb_id": 304913, "title": "Amanush", "original_title": "Amanush", "slug_title": "amanush", "date": "1975-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYRtvHZvQCJFlZ0qLSuqEHGIWCx.jpg", "actors": [], "comments": [], "recommandations_id": []}

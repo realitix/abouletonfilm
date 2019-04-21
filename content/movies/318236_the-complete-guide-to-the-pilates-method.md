@@ -1,0 +1,1 @@
+{"tmdb_id": 318236, "title": "The Complete Guide to the Pilates Method", "original_title": "The Complete Guide to the Pilates Method", "slug_title": "the-complete-guide-to-the-pilates-method", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

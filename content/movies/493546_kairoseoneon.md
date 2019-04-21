@@ -1,0 +1,1 @@
+{"tmdb_id": 493546, "title": "\uce74\uc774\ub85c\uc120\uc5b8", "original_title": "\uce74\uc774\ub85c\uc120\uc5b8", "slug_title": "kairoseoneon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

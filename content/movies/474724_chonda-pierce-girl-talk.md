@@ -1,0 +1,1 @@
+{"tmdb_id": 474724, "title": "Chonda Pierce: Girl Talk", "original_title": "Chonda Pierce: Girl Talk", "slug_title": "chonda-pierce-girl-talk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQRCEDCzPvMq1b63RDzMggs0Jpa.jpg", "actors": ["Chonda Pierce (herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 565910, "title": "Power\u2019s War", "original_title": "Power\u2019s War", "slug_title": "powers-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

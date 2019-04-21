@@ -1,0 +1,1 @@
+{"tmdb_id": 524316, "title": "Il caso Zanfretta", "original_title": "Il caso Zanfretta", "slug_title": "il-caso-zanfretta", "date": "2011-12-17", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pier Fortunato Zanfretta (Himself)", "Rino Di Stefano (Himself)"], "comments": [], "recommandations_id": []}

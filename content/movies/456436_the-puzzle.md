@@ -1,0 +1,1 @@
+{"tmdb_id": 456436, "title": "The Puzzle", "original_title": "The Puzzle", "slug_title": "the-puzzle", "date": "1923-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Fleischer (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 56486, "title": "Loss Is to Be Expected", "original_title": "Mit Verlust ist zu rechnen", "slug_title": "loss-is-to-be-expected", "date": "1992-02-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQpKVLMI3fJd0rBCKCfw0UKLM9H.jpg", "actors": [], "comments": [], "recommandations_id": []}

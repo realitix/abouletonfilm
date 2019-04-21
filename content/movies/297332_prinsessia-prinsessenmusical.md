@@ -1,0 +1,1 @@
+{"tmdb_id": 297332, "title": "Prinsessia: Prinsessenmusical", "original_title": "Prinsessia: Prinsessenmusical", "slug_title": "prinsessia-prinsessenmusical", "date": "2014-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmEG0B1a74KmiGQL1lGI7Zzqo5q.jpg", "actors": [], "comments": [], "recommandations_id": []}

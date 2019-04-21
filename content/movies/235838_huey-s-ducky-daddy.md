@@ -1,0 +1,1 @@
+{"tmdb_id": 235838, "title": "Huey's Ducky Daddy", "original_title": "Huey's Ducky Daddy", "slug_title": "huey-s-ducky-daddy", "date": "1953-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

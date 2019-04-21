@@ -1,0 +1,1 @@
+{"tmdb_id": 304268, "title": "Slapstick", "original_title": "Slapstick", "slug_title": "slapstick", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

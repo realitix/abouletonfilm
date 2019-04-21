@@ -1,0 +1,1 @@
+{"tmdb_id": 412980, "title": "Ludovic - The Snow Gift", "original_title": "Ludovic - The Snow Gift", "slug_title": "ludovic-the-snow-gift", "date": "2002-08-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hShjto33SwVClOEaMPmlPa9sq4r.jpg", "actors": [], "comments": [], "recommandations_id": []}

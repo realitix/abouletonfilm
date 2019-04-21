@@ -1,0 +1,1 @@
+{"tmdb_id": 169525, "title": "Mister Rogers & Me", "original_title": "Mister Rogers & Me", "slug_title": "mister-rogers-me", "date": "2010-03-20", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHzby1HI1dn7b9x3S7HJu6i5kqz.jpg", "actors": ["Fred Rogers (Himself)"], "comments": [], "recommandations_id": []}

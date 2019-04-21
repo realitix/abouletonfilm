@@ -1,0 +1,1 @@
+{"tmdb_id": 540543, "title": "La terreur de la pampa", "original_title": "La terreur de la pampa", "slug_title": "la-terreur-de-la-pampa", "date": "1933-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3gMoxfN8yb9FGnBMiQiuHzrUtoL.jpg", "actors": [], "comments": [], "recommandations_id": []}

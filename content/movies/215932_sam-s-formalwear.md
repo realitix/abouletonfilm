@@ -1,0 +1,1 @@
+{"tmdb_id": 215932, "title": "Sam's Formalwear", "original_title": "Sam's Formalwear", "slug_title": "sam-s-formalwear", "date": "2013-09-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judah Katz ()", "Kristina Nicoll ()", "Kenny Robinson ()", "Sofie Uretsky (Shannon Parish)"], "comments": [], "recommandations_id": []}

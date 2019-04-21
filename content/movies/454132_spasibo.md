@@ -1,0 +1,1 @@
+{"tmdb_id": 454132, "title": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e", "original_title": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e", "slug_title": "spasibo", "date": "1973-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4chFK7orG7AXDFrmFzafSmsQYV7.jpg", "actors": [], "comments": [], "recommandations_id": []}

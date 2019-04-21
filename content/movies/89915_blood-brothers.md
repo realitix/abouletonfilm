@@ -1,0 +1,1 @@
+{"tmdb_id": 89915, "title": "Blood Brothers", "original_title": "Blood Brothers", "slug_title": "blood-brothers", "date": "1995-01-15", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bHATwslsh1Liq4Yw9cWT9fiZc7T.jpg", "actors": ["Bruce Springsteen (Himself)"], "comments": [], "recommandations_id": []}

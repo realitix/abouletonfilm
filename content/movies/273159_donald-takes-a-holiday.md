@@ -1,0 +1,1 @@
+{"tmdb_id": 273159, "title": "Donald Takes a Holiday", "original_title": "Donald Takes a Holiday", "slug_title": "donald-takes-a-holiday", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhz2x65vm7tZSdCJQT4yThp2qD2.jpg", "actors": [], "comments": [], "recommandations_id": []}

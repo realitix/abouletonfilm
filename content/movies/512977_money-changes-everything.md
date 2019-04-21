@@ -1,0 +1,1 @@
+{"tmdb_id": 512977, "title": "Money Changes Everything", "original_title": "Money Changes Everything", "slug_title": "money-changes-everything", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

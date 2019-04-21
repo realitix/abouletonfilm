@@ -1,0 +1,1 @@
+{"tmdb_id": 348726, "title": "In the Month of Crickets", "original_title": "In the Month of Crickets", "slug_title": "in-the-month-of-crickets", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

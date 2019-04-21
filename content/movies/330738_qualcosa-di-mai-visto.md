@@ -1,0 +1,1 @@
+{"tmdb_id": 330738, "title": "Qualcosa Di Mai Visto", "original_title": "Qualcosa Di Mai Visto", "slug_title": "qualcosa-di-mai-visto", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

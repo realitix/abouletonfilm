@@ -1,0 +1,1 @@
+{"tmdb_id": 405546, "title": "King Lear", "original_title": "King Lear", "slug_title": "king-lear", "date": "1999-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Blessed (King Lear)", "Hildegard Neil (The Fool)", "Jason Riddington (Edmund)", "Phillipa Peak (Cordelia)"], "comments": [], "recommandations_id": []}

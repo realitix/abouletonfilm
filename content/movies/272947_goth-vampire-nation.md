@@ -1,0 +1,1 @@
+{"tmdb_id": 272947, "title": "Goth Vampire Nation", "original_title": "Goth Vampire Nation", "slug_title": "goth-vampire-nation", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

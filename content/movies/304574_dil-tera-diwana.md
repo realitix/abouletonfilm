@@ -1,0 +1,1 @@
+{"tmdb_id": 304574, "title": "Dil Tera Diwana", "original_title": "Dil Tera Diwana", "slug_title": "dil-tera-diwana", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2vayV5jIQRNFVQcAkQk9NRQWdSM.jpg", "actors": [], "comments": [], "recommandations_id": []}

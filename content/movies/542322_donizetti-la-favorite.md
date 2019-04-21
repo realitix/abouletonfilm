@@ -1,0 +1,1 @@
+{"tmdb_id": 542322, "title": "Donizetti - La Favorite", "original_title": "Donizetti - La Favorite", "slug_title": "donizetti-la-favorite", "date": "2015-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/audiWhmdSV5q6C6256PJe9gBs6R.jpg", "actors": [], "comments": [], "recommandations_id": []}

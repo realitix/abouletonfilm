@@ -1,0 +1,1 @@
+{"tmdb_id": 414911, "title": "Gharwali Baharwali", "original_title": "Gharwali Baharwali", "slug_title": "gharwali-baharwali", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1bQ9SNwy5jdFfaf9oCrqijJS9j.jpg", "actors": ["Farooq Shaikh ()", "Anita Raj ()"], "comments": [], "recommandations_id": []}

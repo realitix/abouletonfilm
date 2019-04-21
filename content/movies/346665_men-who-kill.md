@@ -1,0 +1,1 @@
+{"tmdb_id": 346665, "title": "Men Who Kill", "original_title": "Men Who Kill", "slug_title": "men-who-kill", "date": "", "genre": "Thriller / Action", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael B. Jordan ()"], "comments": [], "recommandations_id": []}

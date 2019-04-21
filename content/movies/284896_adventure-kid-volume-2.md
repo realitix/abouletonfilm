@@ -1,0 +1,1 @@
+{"tmdb_id": 284896, "title": "Adventure Kid Volume 2", "original_title": "Adventure Kid Volume 2", "slug_title": "adventure-kid-volume-2", "date": "1993-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGLoCxywNTQfV17EX5qsqWdZVQ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

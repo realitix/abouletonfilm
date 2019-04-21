@@ -1,0 +1,1 @@
+{"tmdb_id": 466212, "title": "Men and Their Megapodes", "original_title": "Men and Their Megapodes", "slug_title": "men-and-their-megapodes", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 370698, "title": "Der Fotograf vor der Kamera", "original_title": "Der Fotograf vor der Kamera", "slug_title": "der-fotograf-vor-der-kamera", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

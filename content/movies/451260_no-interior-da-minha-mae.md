@@ -1,0 +1,1 @@
+{"tmdb_id": 451260, "title": "No Interior da Minha M\u00e3e", "original_title": "No Interior da Minha M\u00e3e", "slug_title": "no-interior-da-minha-mae", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

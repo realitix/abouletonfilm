@@ -1,0 +1,1 @@
+{"tmdb_id": 524446, "title": "Bernadette", "original_title": "Bernadette", "slug_title": "bernadette", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSjIEKiMruQy2KhgMfEAlqJbrbU.jpg", "actors": [], "comments": [], "recommandations_id": []}

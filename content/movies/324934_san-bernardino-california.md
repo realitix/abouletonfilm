@@ -1,0 +1,1 @@
+{"tmdb_id": 324934, "title": "San Bernardino, California", "original_title": "San Bernardino, California", "slug_title": "san-bernardino-california", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

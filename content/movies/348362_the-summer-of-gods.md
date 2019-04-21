@@ -1,0 +1,1 @@
+{"tmdb_id": 348362, "title": "The Summer of Gods", "original_title": "The Summer of Gods", "slug_title": "the-summer-of-gods", "date": "2014-01-01", "genre": "Fantastique / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

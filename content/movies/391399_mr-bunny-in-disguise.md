@@ -1,0 +1,1 @@
+{"tmdb_id": 391399, "title": "Mr. Bunny in Disguise", "original_title": "Mr. Bunny in Disguise", "slug_title": "mr-bunny-in-disguise", "date": "1914-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Bunny (Mr. Bunny)"], "comments": [], "recommandations_id": []}

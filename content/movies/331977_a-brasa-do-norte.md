@@ -1,0 +1,1 @@
+{"tmdb_id": 331977, "title": "A Brasa do Norte", "original_title": "A Brasa do Norte", "slug_title": "a-brasa-do-norte", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxK9WsxthUCw2nrOU45TknoWiA3.jpg", "actors": ["Jackson do Pandeiro ()"], "comments": [], "recommandations_id": []}

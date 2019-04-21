@@ -1,0 +1,1 @@
+{"tmdb_id": 411900, "title": "Caribbean Nights: The Bob Marley Story", "original_title": "Caribbean Nights: The Bob Marley Story", "slug_title": "caribbean-nights-the-bob-marley-story", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

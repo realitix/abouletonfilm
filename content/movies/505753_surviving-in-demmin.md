@@ -1,0 +1,1 @@
+{"tmdb_id": 505753, "title": "Surviving in Demmin", "original_title": "\u00dcber Leben in Demmin", "slug_title": "surviving-in-demmin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGAmgjZ3KwZXj8jmP0ceev6I4PT.jpg", "actors": [], "comments": [], "recommandations_id": []}

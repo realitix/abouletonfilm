@@ -1,0 +1,1 @@
+{"tmdb_id": 316685, "title": "Fight Like a Girl", "original_title": "Fight Like a Girl", "slug_title": "fight-like-a-girl", "date": "2013-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s8N8IQauFgoEgwEkDUjXls03oCf.jpg", "actors": [], "comments": [], "recommandations_id": []}

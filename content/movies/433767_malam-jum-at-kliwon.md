@@ -1,0 +1,1 @@
+{"tmdb_id": 433767, "title": "Malam Jum'at Kliwon", "original_title": "Malam Jum'at Kliwon", "slug_title": "malam-jum-at-kliwon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

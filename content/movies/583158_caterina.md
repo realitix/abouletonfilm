@@ -1,0 +1,1 @@
+{"tmdb_id": 583158, "title": "Caterina", "original_title": "Caterina", "slug_title": "caterina", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wuMCSUt71lo7fNyovWBaWyVaaxl.jpg", "actors": [], "comments": [], "recommandations_id": []}

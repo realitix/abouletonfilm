@@ -1,0 +1,1 @@
+{"tmdb_id": 116060, "title": "Liquid Rising", "original_title": "Liquid Rising", "slug_title": "liquid-rising", "date": "2012-08-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMDcIWYLjgDQ5FFPy791HHBNMbU.jpg", "actors": [], "comments": [], "recommandations_id": []}

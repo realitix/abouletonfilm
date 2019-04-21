@@ -1,0 +1,1 @@
+{"tmdb_id": 522762, "title": "Shattered Dreams", "original_title": "Shattered Dreams", "slug_title": "shattered-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349684, "title": "\uafc8\uc758 \uc815\uc0ac", "original_title": "\uafc8\uc758 \uc815\uc0ac", "slug_title": "ggumyi-jeongsa", "date": "1993-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

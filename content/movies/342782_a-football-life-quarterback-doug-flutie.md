@@ -1,0 +1,1 @@
+{"tmdb_id": 342782, "title": "A Football Life: Quarterback Doug Flutie", "original_title": "A Football Life: Quarterback Doug Flutie", "slug_title": "a-football-life-quarterback-doug-flutie", "date": "2014-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 77037, "title": "Maavichiguru", "original_title": "Maavichiguru", "slug_title": "maavichiguru", "date": "1996-05-30", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2YlvX8wCuTcJY9LSu1kvHZ7LSrB.jpg", "actors": ["Jagapati Babu ()", "Aamani ()"], "comments": [], "recommandations_id": []}

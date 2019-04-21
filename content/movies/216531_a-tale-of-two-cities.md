@@ -1,0 +1,1 @@
+{"tmdb_id": 216531, "title": "A Tale of Two Cities", "original_title": "A Tale of Two Cities", "slug_title": "a-tale-of-two-cities", "date": "2007-10-23", "genre": "", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [216519, 142657, 208084]}

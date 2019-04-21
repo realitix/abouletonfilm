@@ -1,0 +1,1 @@
+{"tmdb_id": 52046, "title": "Haunted Changi", "original_title": "Haunted Changi", "slug_title": "haunted-changi", "date": "2010-09-02", "genre": "", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bRstt2lCfDp85Ad8IKfZAyfR1mT.jpg", "actors": [], "comments": [], "recommandations_id": [254010, 386621, 259246, 77127]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 376348, "title": "The Curse", "original_title": "The Curse", "slug_title": "the-curse", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

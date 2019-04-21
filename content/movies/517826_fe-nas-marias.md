@@ -1,0 +1,1 @@
+{"tmdb_id": 517826, "title": "F\u00e9 nas Marias", "original_title": "F\u00e9 nas Marias", "slug_title": "fe-nas-marias", "date": "2016-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/azjvF9Tf7p1KiCXuJzgWMYU6NN4.jpg", "actors": ["Maria Fernanda C\u00e2ndido ()"], "comments": [], "recommandations_id": []}

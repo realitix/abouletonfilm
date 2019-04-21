@@ -1,0 +1,1 @@
+{"tmdb_id": 253783, "title": "Die Bauten Adolf Hitlers", "original_title": "Die Bauten Adolf Hitlers", "slug_title": "die-bauten-adolf-hitlers", "date": "1938-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YGw8wg0kMladhqlpcYteXU3N8v.jpg", "actors": [], "comments": [], "recommandations_id": []}

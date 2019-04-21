@@ -1,0 +1,1 @@
+{"tmdb_id": 582046, "title": "Wosa (Coyote's Burden Basket)", "original_title": "Wosa (Coyote's Burden Basket)", "slug_title": "wosa-coyote-s-burden-basket", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

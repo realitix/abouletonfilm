@@ -1,0 +1,1 @@
+{"tmdb_id": 324577, "title": "Valley of the Stereos", "original_title": "Valley of the Stereos", "slug_title": "valley-of-the-stereos", "date": "1992-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyBuZ59EWzGMrZcRaYNQckFznxV.jpg", "actors": [], "comments": [], "recommandations_id": []}

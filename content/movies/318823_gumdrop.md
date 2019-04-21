@@ -1,0 +1,1 @@
+{"tmdb_id": 318823, "title": "Gumdrop", "original_title": "Gumdrop", "slug_title": "gumdrop", "date": "2012-11-19", "genre": "Science-Fiction", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fey6qfR1yIOykwepQlpqTUcU8Gv.jpg", "actors": ["Venti Hristova (Gumdrop (voice))"], "comments": [], "recommandations_id": []}

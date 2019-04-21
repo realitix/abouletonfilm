@@ -1,0 +1,1 @@
+{"tmdb_id": 484794, "title": "Elvis Presley Concert in Omaha", "original_title": "Elvis Presley Concert in Omaha", "slug_title": "elvis-presley-concert-in-omaha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YyQuA2EOccMo7cqsMayb9P7iyn.jpg", "actors": [], "comments": [], "recommandations_id": []}

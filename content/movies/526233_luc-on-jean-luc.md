@@ -1,0 +1,1 @@
+{"tmdb_id": 526233, "title": "Luc on Jean-Luc", "original_title": "Luc on Jean-Luc", "slug_title": "luc-on-jean-luc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

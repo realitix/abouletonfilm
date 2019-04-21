@@ -1,0 +1,1 @@
+{"tmdb_id": 308974, "title": "A Day of Horror", "original_title": "A Day of Horror", "slug_title": "a-day-of-horror", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

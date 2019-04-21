@@ -1,0 +1,1 @@
+{"tmdb_id": 77706, "title": "Karalu Miriyalu", "original_title": "Karalu Miriyalu", "slug_title": "karalu-miriyalu", "date": "2011-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wtxfDmtbLt1O4myfJNcnqXRwK2g.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561554, "title": "For the love of dogs", "original_title": "For the love of dogs", "slug_title": "for-the-love-of-dogs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 228781, "title": "A Wireless Whirl", "original_title": "A Wireless Whirl", "slug_title": "a-wireless-whirl", "date": "1926-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRkUe2YpfAFLBOs6QdmGn0AJUPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

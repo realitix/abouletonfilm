@@ -1,0 +1,1 @@
+{"tmdb_id": 48788, "title": "Victor", "original_title": "Victor", "slug_title": "victor", "date": "1993-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xTRd36PenIFpTQfau5XJM6iJMkP.jpg", "actors": [], "comments": [], "recommandations_id": []}

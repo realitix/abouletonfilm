@@ -1,0 +1,1 @@
+{"tmdb_id": 33400, "title": "The Ore", "original_title": "The Ore", "slug_title": "the-ore", "date": "2006-01-01", "genre": "Science-Fiction", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jXxzzKq0cwkyRCfEARo76Kd9zox.jpg", "actors": ["Shaula Chambliss (Elsa)", "Jeff Doba (Maven Varkaus)"], "comments": [], "recommandations_id": []}

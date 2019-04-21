@@ -1,0 +1,1 @@
+{"tmdb_id": 114998, "title": "The Last Projectionist", "original_title": "The Last Projectionist", "slug_title": "the-last-projectionist", "date": "2012-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMOt2NEqWkMddIvLTKPIwebMai5.jpg", "actors": [], "comments": [], "recommandations_id": []}

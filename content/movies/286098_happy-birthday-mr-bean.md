@@ -1,0 +1,1 @@
+{"tmdb_id": 286098, "title": "Happy Birthday Mr Bean", "original_title": "Happy Birthday Mr Bean", "slug_title": "happy-birthday-mr-bean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333588, "title": "D\u00fcringer ab 4,99", "original_title": "D\u00fcringer ab 4,99", "slug_title": "duringer-ab-499", "date": "2007-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apL6kN3YV0kHnInP6Nf4RePBdvk.jpg", "actors": ["Roland D\u00fcringer ()"], "comments": [], "recommandations_id": []}

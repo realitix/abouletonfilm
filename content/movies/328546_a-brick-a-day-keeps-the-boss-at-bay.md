@@ -1,0 +1,1 @@
+{"tmdb_id": 328546, "title": "A Brick a Day Keeps the Boss at Bay", "original_title": "A Brick a Day Keeps the Boss at Bay", "slug_title": "a-brick-a-day-keeps-the-boss-at-bay", "date": "2015-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

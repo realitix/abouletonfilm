@@ -1,0 +1,1 @@
+{"tmdb_id": 213250, "title": "Cosy Cool", "original_title": "Cosy Cool", "slug_title": "cosy-cool", "date": "1977-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8BjgdqRNbZNWTisDTQEOUUu3Ja.jpg", "actors": [], "comments": [], "recommandations_id": []}

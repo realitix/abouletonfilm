@@ -1,0 +1,1 @@
+{"tmdb_id": 535869, "title": "Karde\u015fim Benim", "original_title": "Karde\u015fim Benim", "slug_title": "kardesim-benim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

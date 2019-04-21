@@ -1,0 +1,1 @@
+{"tmdb_id": 522335, "title": "The Haunted", "original_title": "Zaklet\u00fd", "slug_title": "the-haunted", "date": "2017-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zotUwLgw1JlTpQX5YG4aFRWYCmG.jpg", "actors": [], "comments": [], "recommandations_id": []}

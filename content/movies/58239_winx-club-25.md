@@ -1,0 +1,1 @@
+{"tmdb_id": 58239, "title": "Winx Club 25", "original_title": "Winx Club 25", "slug_title": "winx-club-25", "date": "2010-07-13", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2zLN8zdqmyAVRVWsGadL1PhiLq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309489, "title": "Hoodz: Street Armageddon", "original_title": "Hoodz: Street Armageddon", "slug_title": "hoodz-street-armageddon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

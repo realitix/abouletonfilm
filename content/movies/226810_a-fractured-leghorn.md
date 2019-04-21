@@ -1,0 +1,1 @@
+{"tmdb_id": 226810, "title": "A Fractured Leghorn", "original_title": "A Fractured Leghorn", "slug_title": "a-fractured-leghorn", "date": "1950-09-16", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXyv22JZ9owqZAGGyAoxC4EvRuo.jpg", "actors": [], "comments": [], "recommandations_id": [236696, 204020, 166513, 174517]}

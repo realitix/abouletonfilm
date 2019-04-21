@@ -1,0 +1,1 @@
+{"tmdb_id": 343573, "title": "Laberinto", "original_title": "Laberinto", "slug_title": "laberinto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dlhD6L70eyWv5toKuBDyrtcDIlp.jpg", "actors": [], "comments": [], "recommandations_id": []}

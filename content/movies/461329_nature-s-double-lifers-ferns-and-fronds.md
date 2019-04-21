@@ -1,0 +1,1 @@
+{"tmdb_id": 461329, "title": "Nature's Double Lifers - Ferns and Fronds", "original_title": "Nature's Double Lifers - Ferns and Fronds", "slug_title": "nature-s-double-lifers-ferns-and-fronds", "date": "1932-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 25094, "title": "Premonition", "original_title": "Premonition", "slug_title": "premonition", "date": "1998-01-01", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iK3smV1kE5M8t4s7hC9Ec7Ostld.jpg", "actors": ["John Fogerty (Himself)"], "comments": [], "recommandations_id": []}

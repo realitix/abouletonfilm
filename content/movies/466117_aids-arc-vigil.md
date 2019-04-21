@@ -1,0 +1,1 @@
+{"tmdb_id": 466117, "title": "AIDS/ARC Vigil", "original_title": "AIDS/ARC Vigil", "slug_title": "aids-arc-vigil", "date": "1986-07-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 469797, "title": "Climate: A Few Degrees Less", "original_title": "Climate: A Few Degrees Less", "slug_title": "climate-a-few-degrees-less", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uEQ2d9iozspDqDr1SvulvidIis.jpg", "actors": [], "comments": [], "recommandations_id": []}

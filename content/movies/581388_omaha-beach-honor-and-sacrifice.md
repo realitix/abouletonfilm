@@ -1,0 +1,1 @@
+{"tmdb_id": 581388, "title": "Omaha Beach: Honor and Sacrifice", "original_title": "Omaha Beach: Honor and Sacrifice", "slug_title": "omaha-beach-honor-and-sacrifice", "date": "2014-11-09", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

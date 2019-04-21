@@ -1,0 +1,1 @@
+{"tmdb_id": 312613, "title": "Jetboy: The Glam Years Movie", "original_title": "Jetboy: The Glam Years Movie", "slug_title": "jetboy-the-glam-years-movie", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

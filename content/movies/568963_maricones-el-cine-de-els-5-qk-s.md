@@ -1,0 +1,1 @@
+{"tmdb_id": 568963, "title": "Maricones: el cine de Els 5 QK's", "original_title": "Maricones: el cine de Els 5 QK's", "slug_title": "maricones-el-cine-de-els-5-qk-s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cyi7hvIB2xUL4S51pPgq5Cb5734.jpg", "actors": [], "comments": [], "recommandations_id": []}

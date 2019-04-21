@@ -1,0 +1,1 @@
+{"tmdb_id": 443767, "title": "Barnet dom s\u00e4ger \u00e4r v\u00e5rt", "original_title": "Barnet dom s\u00e4ger \u00e4r v\u00e5rt", "slug_title": "barnet-dom-sager-ar-vart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

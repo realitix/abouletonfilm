@@ -1,0 +1,1 @@
+{"tmdb_id": 438226, "title": "Minotauromachy: Pablo in the Labyrinth", "original_title": "Minotauromaquia: Pablo en el Laberinto", "slug_title": "minotauromachy-pablo-in-the-labyrinth", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

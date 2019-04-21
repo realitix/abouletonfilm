@@ -1,0 +1,1 @@
+{"tmdb_id": 145559, "title": "Megadeth: A Secret Place", "original_title": "Megadeth: A Secret Place", "slug_title": "megadeth-a-secret-place", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktYmMPbh79iVs2733bKgb1oCVYL.jpg", "actors": ["Dave Mustaine ()"], "comments": [], "recommandations_id": []}

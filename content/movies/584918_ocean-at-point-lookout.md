@@ -1,0 +1,1 @@
+{"tmdb_id": 584918, "title": "Ocean at Point Lookout", "original_title": "Ocean at Point Lookout", "slug_title": "ocean-at-point-lookout", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

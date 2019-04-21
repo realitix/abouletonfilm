@@ -1,0 +1,1 @@
+{"tmdb_id": 86439, "title": "Mike Tyson vs Larry Holmes", "original_title": "Mike Tyson vs Larry Holmes", "slug_title": "mike-tyson-vs-larry-holmes", "date": "1988-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flQUPIfsy9xABcJ2w8ZbvArLkje.jpg", "actors": [], "comments": [], "recommandations_id": []}

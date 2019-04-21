@@ -1,0 +1,1 @@
+{"tmdb_id": 234369, "title": "The Itch", "original_title": "The Itch", "slug_title": "the-itch", "date": "1965-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

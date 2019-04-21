@@ -1,0 +1,1 @@
+{"tmdb_id": 469357, "title": "Los hijos del carnaval", "original_title": "Los hijos del carnaval", "slug_title": "los-hijos-del-carnaval", "date": "2017-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

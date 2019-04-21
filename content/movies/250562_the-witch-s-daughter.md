@@ -1,0 +1,1 @@
+{"tmdb_id": 250562, "title": "The Witch's Daughter", "original_title": "The Witch's Daughter", "slug_title": "the-witch-s-daughter", "date": "1996-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffIYA9jIzCdnuTl5hGkTbOVIhq2.jpg", "actors": [], "comments": [], "recommandations_id": []}

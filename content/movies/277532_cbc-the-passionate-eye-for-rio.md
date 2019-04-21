@@ -1,0 +1,1 @@
+{"tmdb_id": 277532, "title": "CBC THE PASSIONATE EYE FOR RIO", "original_title": "CBC THE PASSIONATE EYE FOR RIO", "slug_title": "cbc-the-passionate-eye-for-rio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

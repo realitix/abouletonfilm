@@ -1,0 +1,1 @@
+{"tmdb_id": 334262, "title": "Jump! Ghost Qtaro - Ghost's Master Plan", "original_title": "Obake No Qtaro - Tobidase! BakeBake Dai Sakusen", "slug_title": "jump-ghost-qtaro-ghost-s-master-plan", "date": "1969-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

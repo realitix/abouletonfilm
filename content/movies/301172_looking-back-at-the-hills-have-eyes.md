@@ -1,0 +1,1 @@
+{"tmdb_id": 301172, "title": "Looking Back at 'The Hills Have Eyes'", "original_title": "Looking Back at 'The Hills Have Eyes'", "slug_title": "looking-back-at-the-hills-have-eyes", "date": "2003-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390033, "title": "Scho\u0308nefeld Boulevard", "original_title": "Scho\u0308nefeld Boulevard", "slug_title": "schonefeld-boulevard", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

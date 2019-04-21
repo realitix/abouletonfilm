@@ -1,0 +1,1 @@
+{"tmdb_id": 334816, "title": "Stong Sory", "original_title": "Stong Sory", "slug_title": "stong-sory", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

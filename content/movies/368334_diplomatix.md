@@ -1,0 +1,1 @@
+{"tmdb_id": 368334, "title": "Diplomatix", "original_title": "Diplomatix", "slug_title": "diplomatix", "date": "1985-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Trond Kirkvaag (Various)", "Lars Mj\u00f8en (Various)", "Knut Lystad (Various)", "Peter Cook (Narrator)"], "comments": [], "recommandations_id": []}

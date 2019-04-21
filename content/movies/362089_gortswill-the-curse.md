@@ -1,0 +1,1 @@
+{"tmdb_id": 362089, "title": "Gortswill: The Curse", "original_title": "Gortswill's Der Fluch", "slug_title": "gortswill-the-curse", "date": "1991-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

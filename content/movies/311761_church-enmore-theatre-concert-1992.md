@@ -1,0 +1,1 @@
+{"tmdb_id": 311761, "title": "Church: Enmore Theatre Concert 1992", "original_title": "Church: Enmore Theatre Concert 1992", "slug_title": "church-enmore-theatre-concert-1992", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

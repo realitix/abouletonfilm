@@ -1,0 +1,1 @@
+{"tmdb_id": 292054, "title": "Suckerfish", "original_title": "Suckerfish", "slug_title": "suckerfish", "date": "1999-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

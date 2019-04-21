@@ -1,0 +1,1 @@
+{"tmdb_id": 517901, "title": "Setting Up a Room", "original_title": "Setting Up a Room", "slug_title": "setting-up-a-room", "date": "1967-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkdxDt2iKhRuUhBUKeqVOfGRf7A.jpg", "actors": [], "comments": [], "recommandations_id": []}

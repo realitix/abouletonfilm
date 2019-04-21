@@ -1,0 +1,1 @@
+{"tmdb_id": 3514, "title": "Selbstportrait 1", "original_title": "Selbstportrait 1", "slug_title": "selbstportrait-1", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ingo J. Biermann (er selbst)"], "comments": [], "recommandations_id": []}

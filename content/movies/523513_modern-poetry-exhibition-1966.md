@@ -1,0 +1,1 @@
+{"tmdb_id": 523513, "title": "Modern Poetry Exhibition/1966", "original_title": "\u73fe\u4ee3\u8a69\u5c55/1966", "slug_title": "modern-poetry-exhibition-1966", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

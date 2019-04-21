@@ -1,0 +1,1 @@
+{"tmdb_id": 545154, "title": "Brinquedo Novo", "original_title": "Brinquedo Novo", "slug_title": "brinquedo-novo", "date": "2017-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWnzXnbGeSOambzxebVRTwLUojH.jpg", "actors": [], "comments": [], "recommandations_id": []}

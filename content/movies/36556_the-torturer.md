@@ -1,0 +1,1 @@
+{"tmdb_id": 36556, "title": "The Torturer", "original_title": "The Torturer", "slug_title": "the-torturer", "date": "2008-01-01", "genre": "Horreur / Drame / Myst\u00e8re / Thriller", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOSCos14s17DF4xPexOTvHQapxZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

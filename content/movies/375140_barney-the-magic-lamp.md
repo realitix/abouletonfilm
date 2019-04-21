@@ -1,0 +1,1 @@
+{"tmdb_id": 375140, "title": "Barney: The Magic Lamp", "original_title": "Barney: The Magic Lamp", "slug_title": "barney-the-magic-lamp", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0s2R0UR8grRnqp7BXS9ipJ3eOt.jpg", "actors": [], "comments": [], "recommandations_id": []}

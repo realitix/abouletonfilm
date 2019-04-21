@@ -1,0 +1,1 @@
+{"tmdb_id": 347165, "title": "Love and Science", "original_title": "Amour et science", "slug_title": "love-and-science", "date": "1912-05-30", "genre": "Science-Fiction / Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u00c9mile Dehelly ()", "Ren\u00e9e Sylvaire ()"], "comments": [], "recommandations_id": []}

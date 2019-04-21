@@ -1,0 +1,1 @@
+{"tmdb_id": 237806, "title": "Generator", "original_title": "Gennhtria", "slug_title": "generator", "date": "2013-09-09", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cAGIQo8ISPgrVZ9nkWdeX0gWeTS.jpg", "actors": ["Manolis Mavromatakis (Savvas)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291555, "title": "I Got the Feelin': James Brown in the 60s", "original_title": "I Got the Feelin': James Brown in the 60s", "slug_title": "i-got-the-feelin-james-brown-in-the-60s", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

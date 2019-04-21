@@ -1,0 +1,1 @@
+{"tmdb_id": 538343, "title": "Waiting for News", "original_title": "Menunggu Kabar", "slug_title": "waiting-for-news", "date": "2014-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0sNZNoAUDWQH9XCQ7yUIZFfAFl.jpg", "actors": [], "comments": [], "recommandations_id": []}

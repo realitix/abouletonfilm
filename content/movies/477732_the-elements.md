@@ -1,0 +1,1 @@
+{"tmdb_id": 477732, "title": "The Elements", "original_title": "The Elements", "slug_title": "the-elements", "date": "1968-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

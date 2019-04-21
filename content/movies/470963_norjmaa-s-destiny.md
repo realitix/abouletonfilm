@@ -1,0 +1,1 @@
+{"tmdb_id": 470963, "title": "Norjmaa's Destiny", "original_title": "Norjmaagiin Zam", "slug_title": "norjmaa-s-destiny", "date": "1938-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

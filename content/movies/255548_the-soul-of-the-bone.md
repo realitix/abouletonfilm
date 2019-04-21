@@ -1,0 +1,1 @@
+{"tmdb_id": 255548, "title": "The Soul of the Bone", "original_title": "A Alma do Osso", "slug_title": "the-soul-of-the-bone", "date": "2004-01-22", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rD4j8CDzHgpew0LQx53MWHoM1a7.jpg", "actors": [], "comments": [], "recommandations_id": []}

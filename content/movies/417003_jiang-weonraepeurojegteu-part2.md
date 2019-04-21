@@ -1,0 +1,1 @@
+{"tmdb_id": 417003, "title": "\u6c5f, \uc6d0\ub798\ud504\ub85c\uc81d\ud2b8 Part2", "original_title": "\u6c5f, \uc6d0\ub798\ud504\ub85c\uc81d\ud2b8 Part2", "slug_title": "jiang-weonraepeurojegteu-part2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

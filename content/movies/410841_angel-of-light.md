@@ -1,0 +1,1 @@
+{"tmdb_id": 410841, "title": "Angel of Light", "original_title": "Angel of Light", "slug_title": "angel-of-light", "date": "1986-06-15", "genre": "Horreur / Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janice Van Dyke (Susan)", "Lynn Miller ()", "Marijane Vandivier (Gloria)"], "comments": [], "recommandations_id": []}

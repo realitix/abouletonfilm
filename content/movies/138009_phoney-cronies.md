@@ -1,0 +1,1 @@
+{"tmdb_id": 138009, "title": "Phoney Cronies", "original_title": "Phoney Cronies", "slug_title": "phoney-cronies", "date": "1942-08-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["El Brendel (Oley)"], "comments": [], "recommandations_id": []}

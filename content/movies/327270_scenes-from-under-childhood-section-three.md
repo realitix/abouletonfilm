@@ -1,0 +1,1 @@
+{"tmdb_id": 327270, "title": "Scenes from Under Childhood, Section Three", "original_title": "Scenes from Under Childhood, Section Three", "slug_title": "scenes-from-under-childhood-section-three", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

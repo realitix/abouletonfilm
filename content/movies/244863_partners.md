@@ -1,0 +1,1 @@
+{"tmdb_id": 244863, "title": "Partners", "original_title": "Partners", "slug_title": "partners", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Graham Beckel ()", "Ed Begley Jr. ()", "Seymour Cassel ()", "Joseph Gordon-Levitt ()"], "comments": [], "recommandations_id": []}

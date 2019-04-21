@@ -1,0 +1,1 @@
+{"tmdb_id": 236644, "title": "The Sheepish Wolf", "original_title": "The Sheepish Wolf", "slug_title": "the-sheepish-wolf", "date": "1942-10-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k0nH2eHklbOMFCtPapprl7y4EaE.jpg", "actors": [], "comments": [], "recommandations_id": []}

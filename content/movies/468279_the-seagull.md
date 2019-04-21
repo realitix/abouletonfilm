@@ -1,0 +1,1 @@
+{"tmdb_id": 468279, "title": "The Seagull", "original_title": "Marti", "slug_title": "the-seagull", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Jk0RDgCYDzJ78TKYkpocubohyI.jpg", "actors": [], "comments": [], "recommandations_id": []}

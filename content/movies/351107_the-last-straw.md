@@ -1,0 +1,1 @@
+{"tmdb_id": 351107, "title": "The Last Straw", "original_title": "The Last Straw", "slug_title": "the-last-straw", "date": "1934-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

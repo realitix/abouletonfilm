@@ -1,0 +1,1 @@
+{"tmdb_id": 96015, "title": "Green-Eyed Monster", "original_title": "Green-Eyed Monster", "slug_title": "green-eyed-monster", "date": "2002-08-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emma Fielding (Marni McGuire)", "Fay Ripley (Deanna)", "Hugo Speer (Ray)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318428, "title": "Kenny the Shark: Vol. 1: Feeding Frenzy", "original_title": "Kenny the Shark: Vol. 1: Feeding Frenzy", "slug_title": "kenny-the-shark-vol-1-feeding-frenzy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

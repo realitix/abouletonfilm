@@ -1,0 +1,1 @@
+{"tmdb_id": 238536, "title": "Mother, Mine", "original_title": "Mother, Mine", "slug_title": "mother-mine", "date": "2008-08-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kelly Harrison (Alison)", "Barbara Marten (Margaret)", "David Fleeshman (Graham)"], "comments": [], "recommandations_id": []}

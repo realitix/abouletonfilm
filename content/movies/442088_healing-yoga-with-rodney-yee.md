@@ -1,0 +1,1 @@
+{"tmdb_id": 442088, "title": "Healing Yoga with Rodney Yee", "original_title": "Healing Yoga with Rodney Yee", "slug_title": "healing-yoga-with-rodney-yee", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70o5mqFkqOYPYZ5cnLNUIUYiFe.jpg", "actors": [], "comments": [], "recommandations_id": []}

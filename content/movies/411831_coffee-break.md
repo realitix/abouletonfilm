@@ -1,0 +1,1 @@
+{"tmdb_id": 411831, "title": "Coffee Break", "original_title": "Coffee Break", "slug_title": "coffee-break", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

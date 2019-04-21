@@ -1,0 +1,1 @@
+{"tmdb_id": 381611, "title": "Iga Ryu Ninjutsu Empty Hands", "original_title": "Iga Ryu Ninjutsu Empty Hands", "slug_title": "iga-ryu-ninjutsu-empty-hands", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntXfQIrJrQrXPmcRCg6NlYn7YZi.jpg", "actors": [], "comments": [], "recommandations_id": []}

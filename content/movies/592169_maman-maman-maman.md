@@ -1,0 +1,1 @@
+{"tmdb_id": 592169, "title": "Maman Maman Maman", "original_title": "Maman Maman Maman", "slug_title": "maman-maman-maman", "date": "2019-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evMoR7zKEu4NSb74vxnvwpEFf6x.jpg", "actors": [], "comments": [], "recommandations_id": []}

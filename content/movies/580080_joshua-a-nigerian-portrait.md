@@ -1,0 +1,1 @@
+{"tmdb_id": 580080, "title": "Joshua: A Nigerian Portrait", "original_title": "Joshua: A Nigerian Portrait", "slug_title": "joshua-a-nigerian-portrait", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wole Soyinka (Narrator)"], "comments": [], "recommandations_id": []}

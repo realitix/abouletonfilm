@@ -1,0 +1,1 @@
+{"tmdb_id": 235397, "title": "Mouse Trapeze", "original_title": "Mouse Trapeze", "slug_title": "mouse-trapeze", "date": "1955-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

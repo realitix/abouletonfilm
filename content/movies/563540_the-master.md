@@ -1,0 +1,1 @@
+{"tmdb_id": 563540, "title": "The Master", "original_title": "The Master", "slug_title": "the-master", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TW8AIhIA9YLzIz1155ylu4hQcg.jpg", "actors": [], "comments": [], "recommandations_id": []}

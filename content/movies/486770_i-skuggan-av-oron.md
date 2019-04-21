@@ -1,0 +1,1 @@
+{"tmdb_id": 486770, "title": "I skuggan av oron", "original_title": "I skuggan av oron", "slug_title": "i-skuggan-av-oron", "date": "2016-01-30", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMbkO4ZunLmbBHLyM16f3qWWsC4.jpg", "actors": [], "comments": [], "recommandations_id": []}

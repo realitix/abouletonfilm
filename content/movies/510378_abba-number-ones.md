@@ -1,0 +1,1 @@
+{"tmdb_id": 510378, "title": "ABBA: Number Ones", "original_title": "ABBA: Number Ones", "slug_title": "abba-number-ones", "date": "2006-12-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8u5Dy2KezSzw5acEHT8V0zjXS2.jpg", "actors": [], "comments": [], "recommandations_id": []}

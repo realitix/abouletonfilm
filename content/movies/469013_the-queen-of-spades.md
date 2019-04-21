@@ -1,0 +1,1 @@
+{"tmdb_id": 469013, "title": "The Queen of Spades", "original_title": "Pique Dame", "slug_title": "the-queen-of-spades", "date": "1960-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6GKmchROJxP3FWEroSOjFDdNFU.jpg", "actors": [], "comments": [], "recommandations_id": []}

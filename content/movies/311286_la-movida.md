@@ -1,0 +1,1 @@
+{"tmdb_id": 311286, "title": "La Movida", "original_title": "La Movida", "slug_title": "la-movida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

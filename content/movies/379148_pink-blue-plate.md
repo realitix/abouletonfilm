@@ -1,0 +1,1 @@
+{"tmdb_id": 379148, "title": "Pink Blue Plate", "original_title": "Pink Blue Plate", "slug_title": "pink-blue-plate", "date": "1971-07-18", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcNFOPXbCNAF3WSxsq4QYLVvzks.jpg", "actors": [], "comments": [], "recommandations_id": []}

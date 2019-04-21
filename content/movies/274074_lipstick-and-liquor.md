@@ -1,0 +1,1 @@
+{"tmdb_id": 274074, "title": "Lipstick and Liquor", "original_title": "Lipstick and Liquor", "slug_title": "lipstick-and-liquor", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sghvBTAulRzLs7gcUMslmby7Cdk.jpg", "actors": [], "comments": [], "recommandations_id": []}

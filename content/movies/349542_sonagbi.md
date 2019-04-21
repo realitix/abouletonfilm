@@ -1,0 +1,1 @@
+{"tmdb_id": 349542, "title": "\uc18c\ub099\ube44", "original_title": "\uc18c\ub099\ube44", "slug_title": "sonagbi", "date": "1995-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520601, "title": "Bridal Fever", "original_title": "Bridal Fever", "slug_title": "bridal-fever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNNo5PYYk3aUBykKwFs8uFvdaSd.jpg", "actors": ["Nicolette McKeown ()"], "comments": [], "recommandations_id": []}

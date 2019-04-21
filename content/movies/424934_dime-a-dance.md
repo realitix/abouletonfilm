@@ -1,0 +1,1 @@
+{"tmdb_id": 424934, "title": "Dime a Dance", "original_title": "Dime a Dance", "slug_title": "dime-a-dance", "date": "1937-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Imogene Coca (Esmeralda)", "Danny Kaye (Eddie)", "June Allyson (Harriet)"], "comments": [], "recommandations_id": []}

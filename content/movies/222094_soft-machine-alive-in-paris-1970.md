@@ -1,0 +1,1 @@
+{"tmdb_id": 222094, "title": "Soft Machine - Alive in Paris 1970", "original_title": "Soft Machine - Alive in Paris 1970", "slug_title": "soft-machine-alive-in-paris-1970", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

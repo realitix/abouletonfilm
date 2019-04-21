@@ -1,0 +1,1 @@
+{"tmdb_id": 583536, "title": "Coming Out Polish Style", "original_title": "Coming out po polsku", "slug_title": "coming-out-polish-style", "date": "2011-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82sD8C7mKzDnMT3YT6NitzGuXaP.jpg", "actors": [], "comments": [], "recommandations_id": []}

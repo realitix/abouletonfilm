@@ -1,0 +1,1 @@
+{"tmdb_id": 243627, "title": "Squires of San Quentin", "original_title": "Squires of San Quentin", "slug_title": "squires-of-san-quentin", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

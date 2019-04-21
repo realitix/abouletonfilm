@@ -1,0 +1,1 @@
+{"tmdb_id": 293639, "title": "Mr. Hoover and I", "original_title": "Mr. Hoover and I", "slug_title": "mr-hoover-and-i", "date": "1989-09-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziPatFu5qfNFQnOc7XZOTTVp9Qa.jpg", "actors": ["Emile de Antonio ()", "John Cage ()"], "comments": [], "recommandations_id": []}

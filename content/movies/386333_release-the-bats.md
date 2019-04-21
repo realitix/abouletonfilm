@@ -1,0 +1,1 @@
+{"tmdb_id": 386333, "title": "Release the Bats", "original_title": "Release the Bats", "slug_title": "release-the-bats", "date": "2005-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cWjPuKjXNZSxQ2RYUAoeZxYtGXv.jpg", "actors": [], "comments": [], "recommandations_id": []}

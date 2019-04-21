@@ -1,0 +1,1 @@
+{"tmdb_id": 189875, "title": "Angel City", "original_title": "Angel City", "slug_title": "angel-city", "date": "1977-10-18", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXzx3hPjOXNVIwIoF8q6rKxBctt.jpg", "actors": [], "comments": [], "recommandations_id": []}

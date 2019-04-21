@@ -1,0 +1,1 @@
+{"tmdb_id": 11105, "title": "Lucie & Maintenant", "original_title": "Lucie & Maintenant", "slug_title": "lucie-maintenant", "date": "2007-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

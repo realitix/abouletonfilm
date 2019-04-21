@@ -1,0 +1,1 @@
+{"tmdb_id": 295032, "title": "Los Tentados", "original_title": "Los Tentados", "slug_title": "los-tentados", "date": "2013-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

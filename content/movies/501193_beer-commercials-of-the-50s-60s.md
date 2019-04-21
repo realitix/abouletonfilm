@@ -1,0 +1,1 @@
+{"tmdb_id": 501193, "title": "Beer Commercials Of The 50s & 60s", "original_title": "Beer Commercials Of The 50s & 60s", "slug_title": "beer-commercials-of-the-50s-60s", "date": "2015-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

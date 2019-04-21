@@ -1,0 +1,1 @@
+{"tmdb_id": 77709, "title": "Mayagadu", "original_title": "Mayagadu", "slug_title": "mayagadu", "date": "2011-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/849tb6U63A1HCzhphQaAY4CQmLZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

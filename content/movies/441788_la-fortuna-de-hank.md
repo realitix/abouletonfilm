@@ -1,0 +1,1 @@
+{"tmdb_id": 441788, "title": "La Fortuna de Hank", "original_title": "La Fortuna de Hank", "slug_title": "la-fortuna-de-hank", "date": "2016-05-27", "genre": "Action / Aventure", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rwaAkm6iXn6qqNNYCm8ilJ393K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 395715, "title": "Harischandrudu", "original_title": "Harischandrudu", "slug_title": "harischandrudu", "date": "1980-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Prabhakar Reddy ()", "Jayachitra ()", "Savitri ()"], "comments": [], "recommandations_id": []}

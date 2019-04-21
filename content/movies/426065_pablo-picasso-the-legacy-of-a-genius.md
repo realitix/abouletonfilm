@@ -1,0 +1,1 @@
+{"tmdb_id": 426065, "title": "Pablo Picasso: The Legacy of a Genius", "original_title": "Pablo Picasso: The Legacy of a Genius", "slug_title": "pablo-picasso-the-legacy-of-a-genius", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

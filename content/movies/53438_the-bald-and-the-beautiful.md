@@ -1,0 +1,1 @@
+{"tmdb_id": 53438, "title": "The Bald and the Beautiful", "original_title": "The Bald and the Beautiful", "slug_title": "the-bald-and-the-beautiful", "date": "2010-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2TY9Uolyn4SJhCYIFIw9o3au3Je.jpg", "actors": [], "comments": [], "recommandations_id": []}

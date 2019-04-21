@@ -1,0 +1,1 @@
+{"tmdb_id": 420793, "title": "My Room, Via Ancona 21", "original_title": "My Room, Via Ancona 21", "slug_title": "my-room-via-ancona-21", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pa07PTxRDILhOclqRAXWdQdCsED.jpg", "actors": [], "comments": [], "recommandations_id": []}

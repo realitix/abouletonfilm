@@ -1,0 +1,1 @@
+{"tmdb_id": 265680, "title": "Living Stars", "original_title": "Living Stars", "slug_title": "living-stars", "date": "2014-01-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehKnN7GpVp33zQVgbAApS4RGlxX.jpg", "actors": [], "comments": [], "recommandations_id": []}

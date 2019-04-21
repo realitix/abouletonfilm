@@ -1,0 +1,1 @@
+{"tmdb_id": 270135, "title": "Boxing Fever", "original_title": "Boxing Fever", "slug_title": "boxing-fever", "date": "1909-08-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gb2v2a4wcrp1nLEraqrCl0vinKL.jpg", "actors": ["A.E. Coleby ()"], "comments": [], "recommandations_id": []}

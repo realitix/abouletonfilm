@@ -1,0 +1,1 @@
+{"tmdb_id": 77033, "title": "Jagapathi", "original_title": "Jagapathi", "slug_title": "jagapathi", "date": "2005-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/24RB3pFLyhmziP7OOvRPTw5Lh4y.jpg", "actors": ["Jagapati Babu ()", "Navaneet Kaur ()", "Rakshita ()"], "comments": [], "recommandations_id": []}

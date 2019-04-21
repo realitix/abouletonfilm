@@ -1,0 +1,1 @@
+{"tmdb_id": 488597, "title": "Plankare", "original_title": "Plankare", "slug_title": "plankare", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

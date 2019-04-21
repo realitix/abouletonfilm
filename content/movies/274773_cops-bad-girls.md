@@ -1,0 +1,1 @@
+{"tmdb_id": 274773, "title": "Cops: Bad Girls", "original_title": "Cops: Bad Girls", "slug_title": "cops-bad-girls", "date": "2004-01-01", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6jOug23kNxDXH3xMSVbAc5p21AI.jpg", "actors": [], "comments": [], "recommandations_id": []}

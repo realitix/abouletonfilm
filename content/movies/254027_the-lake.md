@@ -1,0 +1,1 @@
+{"tmdb_id": 254027, "title": "The Lake", "original_title": "Mizuumi wa Hito wo Nomikomu", "slug_title": "the-lake", "date": "2013-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

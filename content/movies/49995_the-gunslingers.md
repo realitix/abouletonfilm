@@ -1,0 +1,1 @@
+{"tmdb_id": 49995, "title": "The Gunslingers", "original_title": "The Gunslingers", "slug_title": "the-gunslingers", "date": "2009-06-17", "genre": "Action / Western", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jF1ZTGc1a1kjZapCLIhk29TI6NU.jpg", "actors": ["Narisa Suzuki (Akemi)"], "comments": [], "recommandations_id": []}

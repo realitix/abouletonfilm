@@ -1,0 +1,1 @@
+{"tmdb_id": 287535, "title": "Cientistas Brasileiros", "original_title": "Cientistas Brasileiros", "slug_title": "cientistas-brasileiros", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

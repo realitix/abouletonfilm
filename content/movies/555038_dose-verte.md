@@ -1,0 +1,1 @@
+{"tmdb_id": 555038, "title": "Dose verte", "original_title": "Dose verte", "slug_title": "dose-verte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Dieu cr\u00e9a l'Homme. l'homme cr\u00e9e \u00e0 Sion. Paon !", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

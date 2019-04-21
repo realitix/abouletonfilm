@@ -1,0 +1,1 @@
+{"tmdb_id": 321385, "title": "An Irish Vampire in Hollywood", "original_title": "An Irish Vampire in Hollywood", "slug_title": "an-irish-vampire-in-hollywood", "date": "2007-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/foNxJpmG9zbyXXT25u2aSx0o1ZQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

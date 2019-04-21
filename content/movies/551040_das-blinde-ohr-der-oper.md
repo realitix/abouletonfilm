@@ -1,0 +1,1 @@
+{"tmdb_id": 551040, "title": "Das blinde Ohr der Oper", "original_title": "Das blinde Ohr der Oper", "slug_title": "das-blinde-ohr-der-oper", "date": "1990-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

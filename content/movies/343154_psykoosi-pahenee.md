@@ -1,0 +1,1 @@
+{"tmdb_id": 343154, "title": "Psykoosi pahenee", "original_title": "Psykoosi pahenee", "slug_title": "psykoosi-pahenee", "date": "2015-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

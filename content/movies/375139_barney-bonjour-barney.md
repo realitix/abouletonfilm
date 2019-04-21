@@ -1,0 +1,1 @@
+{"tmdb_id": 375139, "title": "Barney: Bonjour Barney!", "original_title": "Barney: Bonjour Barney!", "slug_title": "barney-bonjour-barney", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIr01vt5cxP2hXgwCrZZo9z7qsi.jpg", "actors": [], "comments": [], "recommandations_id": []}

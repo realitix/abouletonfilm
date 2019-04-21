@@ -1,0 +1,1 @@
+{"tmdb_id": 429149, "title": "Polanski par Polanski", "original_title": "Polanski par Polanski", "slug_title": "polanski-par-polanski", "date": "2006-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roman Polanski (Himself)"], "comments": [], "recommandations_id": []}

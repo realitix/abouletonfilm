@@ -1,0 +1,1 @@
+{"tmdb_id": 243402, "title": "Angel and Big Joe", "original_title": "Angel and Big Joe", "slug_title": "angel-and-big-joe", "date": "1975-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRKOfhb4pKhhOChyPfkGna1Yxka.jpg", "actors": ["Paul Sorvino ()"], "comments": [], "recommandations_id": []}

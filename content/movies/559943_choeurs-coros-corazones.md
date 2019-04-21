@@ -1,0 +1,1 @@
+{"tmdb_id": 559943, "title": "Choeurs : Coros / Corazones", "original_title": "Choeurs : Coros / Corazones", "slug_title": "choeurs-coros-corazones", "date": "2012-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

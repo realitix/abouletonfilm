@@ -1,0 +1,1 @@
+{"tmdb_id": 230631, "title": "The Day Jimmy's Boa Ate the Wash", "original_title": "The Day Jimmy's Boa Ate the Wash", "slug_title": "the-day-jimmy-s-boa-ate-the-wash", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

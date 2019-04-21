@@ -1,0 +1,1 @@
+{"tmdb_id": 289299, "title": "Battle of Summit Springs", "original_title": "Battle of Summit Springs", "slug_title": "battle-of-summit-springs", "date": "", "genre": "Western / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

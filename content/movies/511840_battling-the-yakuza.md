@@ -1,0 +1,1 @@
+{"tmdb_id": 511840, "title": "Battling the Yakuza", "original_title": "Battling the Yakuza", "slug_title": "battling-the-yakuza", "date": "2012-08-18", "genre": "Documentaire / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WQLiiurAHAwiIszmuJYUqTcM4P.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 577840, "title": "The Colour of Chips", "original_title": "The Colour of Chips", "slug_title": "the-colour-of-chips", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9A8t4J4QcE051PrYbcsm2QVjBYq.jpg", "actors": [], "comments": [], "recommandations_id": []}

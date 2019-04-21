@@ -1,0 +1,1 @@
+{"tmdb_id": 280731, "title": "Destruction Kings", "original_title": "Destruction Kings", "slug_title": "destruction-kings", "date": "2006-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFjOF3a7IlOQnDz8AVGEWNjOtei.jpg", "actors": [], "comments": [], "recommandations_id": []}

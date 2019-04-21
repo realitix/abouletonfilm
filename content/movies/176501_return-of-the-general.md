@@ -1,0 +1,1 @@
+{"tmdb_id": 176501, "title": "Return of the General", "original_title": "Return of the General", "slug_title": "return-of-the-general", "date": "1962-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOPsyDK2ZnUErmUIgO57M2WxOFE.jpg", "actors": [], "comments": [], "recommandations_id": []}

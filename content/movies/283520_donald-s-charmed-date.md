@@ -1,0 +1,1 @@
+{"tmdb_id": 283520, "title": "Donald's Charmed Date", "original_title": "Donald's Charmed Date", "slug_title": "donald-s-charmed-date", "date": "2001-01-27", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lcfKlWQYaKdhLUOGfgVDHIfOXr7.jpg", "actors": [], "comments": [], "recommandations_id": []}

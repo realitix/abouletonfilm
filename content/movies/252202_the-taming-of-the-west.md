@@ -1,0 +1,1 @@
+{"tmdb_id": 252202, "title": "The Taming of the West", "original_title": "The Taming of the West", "slug_title": "the-taming-of-the-west", "date": "1939-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daBXg55HU87S31eNGVc5uGnI8c6.jpg", "actors": [], "comments": [], "recommandations_id": []}

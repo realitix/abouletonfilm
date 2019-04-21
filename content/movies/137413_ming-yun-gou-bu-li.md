@@ -1,0 +1,1 @@
+{"tmdb_id": 137413, "title": "\u547d\u904b\u72d7\u4e0d\u7406", "original_title": "\u547d\u904b\u72d7\u4e0d\u7406", "slug_title": "ming-yun-gou-bu-li", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

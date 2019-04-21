@@ -1,0 +1,1 @@
+{"tmdb_id": 111198, "title": "Cipher in the Snow", "original_title": "Cipher in the Snow", "slug_title": "cipher-in-the-snow", "date": "1974-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSk0A1MLOYgTg8Dm9kXfNZLzPol.jpg", "actors": [], "comments": [], "recommandations_id": []}

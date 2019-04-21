@@ -1,0 +1,1 @@
+{"tmdb_id": 267326, "title": "Twixt Love and Fire", "original_title": "Twixt Love and Fire", "slug_title": "twixt-love-and-fire", "date": "1914-02-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (The Iceman)", "Peggy Pearce ()", "Harold Lloyd ()"], "comments": [], "recommandations_id": []}

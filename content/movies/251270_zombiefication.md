@@ -1,0 +1,1 @@
+{"tmdb_id": 251270, "title": "Zombiefication", "original_title": "Zombiefication", "slug_title": "zombiefication", "date": "2010-08-31", "genre": "Horreur / Com\u00e9die / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

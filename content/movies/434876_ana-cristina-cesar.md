@@ -1,0 +1,1 @@
+{"tmdb_id": 434876, "title": "Ana Cristina Cesar", "original_title": "Ana Cristina Cesar", "slug_title": "ana-cristina-cesar", "date": "1990-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xHdIWJp8DPPaD5bWHkjVhyQXYdD.jpg", "actors": [], "comments": [], "recommandations_id": []}

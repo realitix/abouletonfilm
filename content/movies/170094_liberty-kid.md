@@ -1,0 +1,1 @@
+{"tmdb_id": 170094, "title": "Liberty Kid", "original_title": "Liberty Kid", "slug_title": "liberty-kid", "date": "2007-06-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sdxUgRQ0WnP3mQIWXScIbUf0Dg1.jpg", "actors": [], "comments": [], "recommandations_id": [19083, 18652, 13164]}

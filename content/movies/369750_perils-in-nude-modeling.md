@@ -1,0 +1,1 @@
+{"tmdb_id": 369750, "title": "Perils in Nude Modeling", "original_title": "Perils in Nude Modeling", "slug_title": "perils-in-nude-modeling", "date": "2003-10-11", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

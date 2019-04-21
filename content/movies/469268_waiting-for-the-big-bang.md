@@ -1,0 +1,1 @@
+{"tmdb_id": 469268, "title": "Waiting For the Big Bang", "original_title": "Waiting For the Big Bang", "slug_title": "waiting-for-the-big-bang", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmhXYDny6cWfG3Ehvyj0NMElDtR.jpg", "actors": [], "comments": [], "recommandations_id": []}

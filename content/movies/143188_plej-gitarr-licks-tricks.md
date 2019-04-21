@@ -1,0 +1,1 @@
+{"tmdb_id": 143188, "title": "Plej! Gitarr Licks & Tricks", "original_title": "Plej! Gitarr Licks & Tricks", "slug_title": "plej-gitarr-licks-tricks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

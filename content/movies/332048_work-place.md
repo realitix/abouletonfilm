@@ -1,0 +1,1 @@
+{"tmdb_id": 332048, "title": "Work, Place", "original_title": "Makom, Avoda", "slug_title": "work-place", "date": "1998-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

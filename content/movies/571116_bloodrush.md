@@ -1,0 +1,1 @@
+{"tmdb_id": 571116, "title": "Bloodrush", "original_title": "Bloodrush", "slug_title": "bloodrush", "date": "1997-01-01", "genre": "Horreur / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJGXtHrSZO8ZQop2rq0NY79vXNc.jpg", "actors": [], "comments": [], "recommandations_id": []}

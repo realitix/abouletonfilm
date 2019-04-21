@@ -1,0 +1,1 @@
+{"tmdb_id": 243131, "title": "Claycat's The Thing", "original_title": "Claycat's The Thing", "slug_title": "claycat-s-the-thing", "date": "2012-04-12", "genre": "Animation / Horreur", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkG4Higy98JvFLdSDX3E8t3L8XM.jpg", "actors": [], "comments": [], "recommandations_id": []}

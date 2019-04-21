@@ -1,0 +1,1 @@
+{"tmdb_id": 219567, "title": "Chiller Dillers", "original_title": "Chiller Dillers", "slug_title": "chiller-dillers", "date": "1967-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qq67gNDzQJNfyjW0wC12HfTqegr.jpg", "actors": [], "comments": [], "recommandations_id": []}

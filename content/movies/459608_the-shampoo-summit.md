@@ -1,0 +1,1 @@
+{"tmdb_id": 459608, "title": "The Shampoo Summit", "original_title": "The Shampoo Summit", "slug_title": "the-shampoo-summit", "date": "2016-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

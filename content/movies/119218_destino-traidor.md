@@ -1,0 +1,1 @@
+{"tmdb_id": 119218, "title": "Destino Traidor", "original_title": "Destino Traidor", "slug_title": "destino-traidor", "date": "1997-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ra\u00fal Araiza ()", "Edna Bolkan ()", "Claudio B\u00e1ez ()", "Susana Contreras ()"], "comments": [], "recommandations_id": []}

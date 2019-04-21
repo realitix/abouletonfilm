@@ -1,0 +1,1 @@
+{"tmdb_id": 588872, "title": "Mi Norte es el Sur", "original_title": "Mi Norte es el Sur", "slug_title": "mi-norte-es-el-sur", "date": "2018-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jb54gDgU6qIgHjQWbIRUHXUH1id.jpg", "actors": [], "comments": [], "recommandations_id": []}

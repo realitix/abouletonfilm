@@ -1,0 +1,1 @@
+{"tmdb_id": 507504, "title": "Bombadeira", "original_title": "Bombadeira", "slug_title": "bombadeira", "date": "2007-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dowPgXAM9BGZ43T4hSavT3wV93g.jpg", "actors": [], "comments": [], "recommandations_id": []}

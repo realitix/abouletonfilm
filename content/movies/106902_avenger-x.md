@@ -1,0 +1,1 @@
+{"tmdb_id": 106902, "title": "Avenger X", "original_title": "Avenger X", "slug_title": "avenger-x", "date": "1967-05-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gv1kyWTSq5Y4ySKJi7XT2dMeDOk.jpg", "actors": [], "comments": [], "recommandations_id": []}

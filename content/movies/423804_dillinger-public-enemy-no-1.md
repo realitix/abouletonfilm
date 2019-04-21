@@ -1,0 +1,1 @@
+{"tmdb_id": 423804, "title": "Dillinger: Public Enemy No. 1", "original_title": "Dillinger: Public Enemy No. 1", "slug_title": "dillinger-public-enemy-no-1", "date": "1934-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Dillinger ()", "Melvin Purvis ()"], "comments": [], "recommandations_id": []}

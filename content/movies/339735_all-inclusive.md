@@ -1,0 +1,1 @@
+{"tmdb_id": 339735, "title": "All Inclusive", "original_title": "All Inclusive", "slug_title": "all-inclusive", "date": "2010-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

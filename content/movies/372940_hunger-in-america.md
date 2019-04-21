@@ -1,0 +1,1 @@
+{"tmdb_id": 372940, "title": "Hunger in America", "original_title": "Hunger in America", "slug_title": "hunger-in-america", "date": "2014-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWnlZTrC4RXXeIADFxpw5srwLYA.jpg", "actors": ["James Denton (Narrator)"], "comments": [], "recommandations_id": []}

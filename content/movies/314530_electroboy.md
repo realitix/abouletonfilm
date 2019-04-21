@@ -1,0 +1,1 @@
+{"tmdb_id": 314530, "title": "Electroboy", "original_title": "Electroboy", "slug_title": "electroboy", "date": "2014-08-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prGKG3w3d5C92obi4Hinxn3a8sd.jpg", "actors": ["Florian Burkhardt (himself)"], "comments": [], "recommandations_id": []}

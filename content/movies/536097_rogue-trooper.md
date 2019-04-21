@@ -1,0 +1,1 @@
+{"tmdb_id": 536097, "title": "Rogue Trooper", "original_title": "Rogue Trooper", "slug_title": "rogue-trooper", "date": "", "genre": "Science-Fiction / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

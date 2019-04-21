@@ -1,0 +1,1 @@
+{"tmdb_id": 312552, "title": "Flesh for Lulu: Roman Candle Live", "original_title": "Flesh for Lulu: Roman Candle Live", "slug_title": "flesh-for-lulu-roman-candle-live", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499291, "title": "The Entertainer", "original_title": "The Entertainer", "slug_title": "the-entertainer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

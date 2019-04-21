@@ -1,0 +1,1 @@
+{"tmdb_id": 226245, "title": "Ates Parcasi", "original_title": "Ates Parcasi", "slug_title": "ates-parcasi", "date": "1971-10-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d68RI0q3r9rLN2nkRsZ0OCaVW7a.jpg", "actors": ["Kartal Tibet (Kartal)"], "comments": [], "recommandations_id": []}

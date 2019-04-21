@@ -1,0 +1,1 @@
+{"tmdb_id": 314938, "title": "CHIKARA: Green Ice", "original_title": "CHIKARA: Green Ice", "slug_title": "chikara-green-ice", "date": "2012-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0b9OFHmZ82MwfdN2Biilp0XpWg.jpg", "actors": [], "comments": [], "recommandations_id": []}

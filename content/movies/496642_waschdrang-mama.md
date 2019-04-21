@@ -1,0 +1,1 @@
+{"tmdb_id": 496642, "title": "Waschdrang Mama", "original_title": "Waschdrang Mama", "slug_title": "waschdrang-mama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

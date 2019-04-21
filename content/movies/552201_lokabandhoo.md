@@ -1,0 +1,1 @@
+{"tmdb_id": 552201, "title": "Lokabandhoo", "original_title": "Lokabandhoo", "slug_title": "lokabandhoo", "date": "2016-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rPzQdqf2zHDhb2BPbyhb5wtiKtX.jpg", "actors": ["Pranjal Saikia ()", "Nishita Goswami ()"], "comments": [], "recommandations_id": []}

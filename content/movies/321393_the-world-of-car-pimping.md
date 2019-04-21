@@ -1,0 +1,1 @@
+{"tmdb_id": 321393, "title": "The World of Car Pimping", "original_title": "The World of Car Pimping", "slug_title": "the-world-of-car-pimping", "date": "2009-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 533080, "title": "Kampen om Mard\u00f8la", "original_title": "Kampen om Mard\u00f8la", "slug_title": "kampen-om-mardola", "date": "1972-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2kGA8IwmB60ERPc8o1VcEoz1Sy.jpg", "actors": [], "comments": [], "recommandations_id": []}

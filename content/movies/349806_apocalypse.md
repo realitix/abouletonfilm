@@ -1,0 +1,1 @@
+{"tmdb_id": 349806, "title": "Apocalypse", "original_title": "\ud734\uac70", "slug_title": "apocalypse", "date": "1990-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

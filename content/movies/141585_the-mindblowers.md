@@ -1,0 +1,1 @@
+{"tmdb_id": 141585, "title": "The Mindblowers", "original_title": "The Mindblowers", "slug_title": "the-mindblowers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

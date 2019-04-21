@@ -1,0 +1,1 @@
+{"tmdb_id": 473612, "title": "Bevisb\u00f6rdan", "original_title": "Bevisb\u00f6rdan", "slug_title": "bevisbordan", "date": "1978-01-10", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roland Hedlund (Martin Bendix)"], "comments": [], "recommandations_id": []}

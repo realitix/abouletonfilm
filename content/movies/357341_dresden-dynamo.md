@@ -1,0 +1,1 @@
+{"tmdb_id": 357341, "title": "Dresden Dynamo", "original_title": "Dresden Dynamo", "slug_title": "dresden-dynamo", "date": "1971-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lk0AvQoo99cUU3oaYpb7jMCLs4y.jpg", "actors": [], "comments": [], "recommandations_id": []}

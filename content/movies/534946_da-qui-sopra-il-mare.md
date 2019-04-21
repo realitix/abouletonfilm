@@ -1,0 +1,1 @@
+{"tmdb_id": 534946, "title": "Da qui sopra il mare", "original_title": "Da qui sopra il mare", "slug_title": "da-qui-sopra-il-mare", "date": "2003-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nynB9is2kbX14EdP4IBxY9bYASb.jpg", "actors": [], "comments": [], "recommandations_id": []}

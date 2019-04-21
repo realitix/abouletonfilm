@@ -1,0 +1,1 @@
+{"tmdb_id": 577512, "title": "Food for Fighters", "original_title": "Food for Fighters", "slug_title": "food-for-fighters", "date": "1943-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

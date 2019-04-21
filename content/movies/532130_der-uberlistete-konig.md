@@ -1,0 +1,1 @@
+{"tmdb_id": 532130, "title": "Der \u00fcberlistete K\u00f6nig", "original_title": "Der \u00fcberlistete K\u00f6nig", "slug_title": "der-uberlistete-konig", "date": "1971-01-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Werner Ehrlicher ()", "Rolf Ripperger ()", "Uta Schorn ()"], "comments": [], "recommandations_id": []}

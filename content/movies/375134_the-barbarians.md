@@ -1,0 +1,1 @@
+{"tmdb_id": 375134, "title": "The Barbarians", "original_title": "Les barbares", "slug_title": "the-barbarians", "date": "2010-09-03", "genre": "Guerre / Documentaire / Crime / Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Xavier Thibault ((voice))"], "comments": [], "recommandations_id": []}

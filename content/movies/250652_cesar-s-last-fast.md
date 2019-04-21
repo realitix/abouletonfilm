@@ -1,0 +1,1 @@
+{"tmdb_id": 250652, "title": "Cesar's Last Fast", "original_title": "Cesar's Last Fast", "slug_title": "cesar-s-last-fast", "date": "2014-04-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhOZ1MyyA1zkGKPMWmEwWvdiNAo.jpg", "actors": [], "comments": [], "recommandations_id": []}

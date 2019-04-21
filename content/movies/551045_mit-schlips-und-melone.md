@@ -1,0 +1,1 @@
+{"tmdb_id": 551045, "title": "Mit Schlips und Melone", "original_title": "Mit Schlips und Melone", "slug_title": "mit-schlips-und-melone", "date": "1990-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

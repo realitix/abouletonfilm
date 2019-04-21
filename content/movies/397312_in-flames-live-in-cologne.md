@@ -1,0 +1,1 @@
+{"tmdb_id": 397312, "title": "In Flames - Live in Cologne", "original_title": "In Flames - Live in Cologne", "slug_title": "in-flames-live-in-cologne", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

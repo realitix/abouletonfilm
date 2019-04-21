@@ -1,0 +1,1 @@
+{"tmdb_id": 480884, "title": "Traffic", "original_title": "Traffic", "slug_title": "traffic", "date": "2014-11-30", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpKwseS35j4SeZ8BGkhkKV5scbt.jpg", "actors": [], "comments": [], "recommandations_id": []}

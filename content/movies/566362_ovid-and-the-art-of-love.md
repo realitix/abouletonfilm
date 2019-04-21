@@ -1,0 +1,1 @@
+{"tmdb_id": 566362, "title": "Ovid and the Art of Love", "original_title": "Ovid and the Art of Love", "slug_title": "ovid-and-the-art-of-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

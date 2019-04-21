@@ -1,0 +1,1 @@
+{"tmdb_id": 260543, "title": "Lobotomy", "original_title": "\u041b\u043e\u0431\u043e\u0442\u043e\u043c\u0438\u044f", "slug_title": "lobotomy", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSWwOQl2BhkHMuI3ajnZzccSCtQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

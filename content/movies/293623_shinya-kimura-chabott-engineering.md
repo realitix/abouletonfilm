@@ -1,0 +1,1 @@
+{"tmdb_id": 293623, "title": "Shinya Kimura @ Chabott Engineering", "original_title": "Shinya Kimura @ Chabott Engineering", "slug_title": "shinya-kimura-chabott-engineering", "date": "2011-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

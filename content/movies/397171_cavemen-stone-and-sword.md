@@ -1,0 +1,1 @@
+{"tmdb_id": 397171, "title": "Cavemen - Stone and Sword", "original_title": "Los Cavernicolas - Piedra y Espada", "slug_title": "cavemen-stone-and-sword", "date": "2014-12-08", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

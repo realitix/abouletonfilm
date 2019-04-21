@@ -1,0 +1,1 @@
+{"tmdb_id": 201488, "title": "A Curing Ceremony", "original_title": "A Curing Ceremony", "slug_title": "a-curing-ceremony", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tuR5193PyvRk447Ha4XmM8jUAfO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 526876, "title": "Our Bodies Our Doctors", "original_title": "Our Bodies Our Doctors", "slug_title": "our-bodies-our-doctors", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vFVevGFoV8HO9ykgitplUXqWCth.jpg", "actors": [], "comments": [], "recommandations_id": []}

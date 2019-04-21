@@ -1,0 +1,1 @@
+{"tmdb_id": 494514, "title": "Ember a h\u00edd alatt", "original_title": "Ember a h\u00edd alatt", "slug_title": "ember-a-hid-alatt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 305594, "title": "Elizabeth Ekadashi", "original_title": "Elizabeth Ekadashi", "slug_title": "elizabeth-ekadashi", "date": "2014-11-14", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9l7KoCqmCggZYaZrJuD13LW9nl.jpg", "actors": [], "comments": [], "recommandations_id": []}

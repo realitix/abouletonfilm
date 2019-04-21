@@ -1,0 +1,1 @@
+{"tmdb_id": 540931, "title": "City of Angels", "original_title": "City of Angels", "slug_title": "city-of-angels", "date": "1983-01-01", "genre": "Documentaire / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

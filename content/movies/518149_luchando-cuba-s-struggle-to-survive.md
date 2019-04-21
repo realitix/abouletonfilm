@@ -1,0 +1,1 @@
+{"tmdb_id": 518149, "title": "Luchando! Cuba's Struggle to Survive", "original_title": "Luchando! Cuba's Struggle to Survive", "slug_title": "luchando-cuba-s-struggle-to-survive", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 225906, "title": "Mondo Collecto", "original_title": "Mondo Collecto", "slug_title": "mondo-collecto", "date": "2006-09-17", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5aXXXyQxLWR7GGX6JOqNNzgg8W0.jpg", "actors": [], "comments": [], "recommandations_id": []}

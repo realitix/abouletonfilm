@@ -1,0 +1,1 @@
+{"tmdb_id": 475388, "title": "La fuga de Artigas", "original_title": "La fuga de Artigas", "slug_title": "la-fuga-de-artigas", "date": "2017-09-07", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mfti08EGxyCnpPhSQXTj0N0c4hp.jpg", "actors": [], "comments": [], "recommandations_id": []}

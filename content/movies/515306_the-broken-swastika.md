@@ -1,0 +1,1 @@
+{"tmdb_id": 515306, "title": "The Broken Swastika", "original_title": "The Broken Swastika", "slug_title": "the-broken-swastika", "date": "1932-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

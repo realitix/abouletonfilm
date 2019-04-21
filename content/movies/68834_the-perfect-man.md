@@ -1,0 +1,1 @@
+{"tmdb_id": 68834, "title": "The Perfect Man", "original_title": "The Perfect Man", "slug_title": "the-perfect-man", "date": "1997-01-01", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIfYbwPeT5tLt8dSiiTwD5SROPv.jpg", "actors": [], "comments": [], "recommandations_id": []}

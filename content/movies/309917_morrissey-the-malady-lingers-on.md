@@ -1,0 +1,1 @@
+{"tmdb_id": 309917, "title": "Morrissey: The Malady Lingers On", "original_title": "Morrissey: The Malady Lingers On", "slug_title": "morrissey-the-malady-lingers-on", "date": "1993-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

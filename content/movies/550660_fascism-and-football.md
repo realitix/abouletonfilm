@@ -1,0 +1,1 @@
+{"tmdb_id": 550660, "title": "Fascism and Football", "original_title": "Fascism and Football", "slug_title": "fascism-and-football", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573369, "title": "Un voyage entre amis", "original_title": "Un voyage entre amis", "slug_title": "un-voyage-entre-amis", "date": "2001-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6E9JLLteZrruaLBpKKJD8vxwaR.jpg", "actors": [], "comments": [], "recommandations_id": []}

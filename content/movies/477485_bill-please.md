@@ -1,0 +1,1 @@
+{"tmdb_id": 477485, "title": "Bill, Please!", "original_title": "Bill, Please!", "slug_title": "bill-please", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

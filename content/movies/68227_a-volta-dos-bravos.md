@@ -1,0 +1,1 @@
+{"tmdb_id": 68227, "title": "A Volta dos Bravos", "original_title": "A Volta dos Bravos", "slug_title": "a-volta-dos-bravos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lkgVBHVULprpPuQOd99T0ZBMku.jpg", "actors": [], "comments": [], "recommandations_id": []}

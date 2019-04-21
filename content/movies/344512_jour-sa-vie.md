@@ -1,0 +1,1 @@
+{"tmdb_id": 344512, "title": "Jour Sa Vie", "original_title": "Jour Sa Vie", "slug_title": "jour-sa-vie", "date": "1982-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anatoly Carpov ()", "Fernando Arrabal (Himself)"], "comments": [], "recommandations_id": []}

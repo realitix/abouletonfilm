@@ -1,0 +1,1 @@
+{"tmdb_id": 275862, "title": "Britney Spears: Innocent Beauty", "original_title": "Britney Spears: Innocent Beauty", "slug_title": "britney-spears-innocent-beauty", "date": "2004-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJSaXRXwPTlLjGUhpJcBhevRhXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

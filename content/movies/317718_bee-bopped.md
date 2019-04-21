@@ -1,0 +1,1 @@
+{"tmdb_id": 317718, "title": "Bee Bopped", "original_title": "Bee Bopped", "slug_title": "bee-bopped", "date": "1959-06-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9UgUSEya0odOfVuQ8hNt0nzl8TC.jpg", "actors": ["Daws Butler ((voices))"], "comments": [], "recommandations_id": []}

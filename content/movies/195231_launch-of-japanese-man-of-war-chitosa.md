@@ -1,0 +1,1 @@
+{"tmdb_id": 195231, "title": "Launch of Japanese Man-of-War 'Chitosa'", "original_title": "Launch of Japanese Man-of-War 'Chitosa'", "slug_title": "launch-of-japanese-man-of-war-chitosa", "date": "1898-03-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

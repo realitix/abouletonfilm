@@ -1,0 +1,1 @@
+{"tmdb_id": 238287, "title": "Call Center", "original_title": "Call Center", "slug_title": "call-center", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aris Alvarado (Rico)", "Brian Kimmet (fred)", "Sunil Malhotra (Tony)"], "comments": [], "recommandations_id": []}

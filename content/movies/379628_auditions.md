@@ -1,0 +1,1 @@
+{"tmdb_id": 379628, "title": "Auditions", "original_title": "Auditions", "slug_title": "auditions", "date": "1980-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

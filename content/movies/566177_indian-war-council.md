@@ -1,0 +1,1 @@
+{"tmdb_id": 566177, "title": "Indian War Council", "original_title": "Indian War Council", "slug_title": "indian-war-council", "date": "1894-12-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

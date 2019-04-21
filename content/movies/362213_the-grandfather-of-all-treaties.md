@@ -1,0 +1,1 @@
+{"tmdb_id": 362213, "title": "The Grandfather of All Treaties", "original_title": "The Grandfather of All Treaties", "slug_title": "the-grandfather-of-all-treaties", "date": "2015-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

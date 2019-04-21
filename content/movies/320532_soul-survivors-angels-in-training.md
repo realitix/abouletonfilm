@@ -1,0 +1,1 @@
+{"tmdb_id": 320532, "title": "Soul Survivors: Angels in Training", "original_title": "Soul Survivors: Angels in Training", "slug_title": "soul-survivors-angels-in-training", "date": "2014-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 430461, "title": "A la 3era SIDA", "original_title": "A la 3era SIDA", "slug_title": "a-la-3era-sida", "date": "2013-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRRMnRlugTXBtcM8qcSXGnBMlVN.jpg", "actors": ["Cordelia Gonz\u00e1lez (Narrator)"], "comments": [], "recommandations_id": []}

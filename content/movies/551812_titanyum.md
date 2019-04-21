@@ -1,0 +1,1 @@
+{"tmdb_id": 551812, "title": "Titanyum", "original_title": "Titanyum", "slug_title": "titanyum", "date": "2018-08-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dbudzMOPBOG7yZpZW0YckNMdRN4.jpg", "actors": ["Ece Se\u00e7er (Zeynep)", "Sanem \u00d6ge (Coach)"], "comments": [], "recommandations_id": []}

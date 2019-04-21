@@ -1,0 +1,1 @@
+{"tmdb_id": 419950, "title": "Fatal Fury L'Int\u00e9grale", "original_title": "Fatal Fury", "slug_title": "fatal-fury-l-integrale", "date": "2011-12-06", "genre": "Action / Animation", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

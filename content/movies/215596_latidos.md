@@ -1,0 +1,1 @@
+{"tmdb_id": 215596, "title": "Latidos", "original_title": "Latidos", "slug_title": "latidos", "date": "2006-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosana Pastor (\u00c1ngela)", "Miquel Sitjar (Bruno)", "Antonio Mourelos ()", "Fina Rius ()"], "comments": [], "recommandations_id": []}

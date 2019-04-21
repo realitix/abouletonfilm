@@ -1,0 +1,1 @@
+{"tmdb_id": 190736, "title": "Panorama Exterior Westinghouse Works", "original_title": "Panorama Exterior Westinghouse Works", "slug_title": "panorama-exterior-westinghouse-works", "date": "1904-05-14", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

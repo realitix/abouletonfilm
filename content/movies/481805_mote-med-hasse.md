@@ -1,0 +1,1 @@
+{"tmdb_id": 481805, "title": "M\u00f6te med Hasse", "original_title": "M\u00f6te med Hasse", "slug_title": "mote-med-hasse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

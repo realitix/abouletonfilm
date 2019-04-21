@@ -1,0 +1,1 @@
+{"tmdb_id": 60348, "title": "Bellator 32", "original_title": "Bellator 32", "slug_title": "bellator-32", "date": "2010-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4o26NxIyVW1AtsdEHIGi0Wz8ep.jpg", "actors": [], "comments": [], "recommandations_id": []}

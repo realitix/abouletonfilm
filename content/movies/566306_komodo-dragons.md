@@ -1,0 +1,1 @@
+{"tmdb_id": 566306, "title": "Komodo Dragons", "original_title": "Warany z Komodo", "slug_title": "komodo-dragons", "date": "2018-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

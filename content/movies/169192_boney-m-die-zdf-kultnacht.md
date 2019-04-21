@@ -1,0 +1,1 @@
+{"tmdb_id": 169192, "title": "Boney M - Die ZDF-Kultnacht", "original_title": "Boney M - Die ZDF-Kultnacht", "slug_title": "boney-m-die-zdf-kultnacht", "date": "2011-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4qS1KEsnbDkopTtpMbiEYiE9u5.jpg", "actors": [], "comments": [], "recommandations_id": []}

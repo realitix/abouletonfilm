@@ -1,0 +1,1 @@
+{"tmdb_id": 399701, "title": "Vampirisme", "original_title": "Vampirisme", "slug_title": "vampirisme", "date": "1967-10-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9T7cL4XcoyztdslGBSoOh6bhva6.jpg", "actors": [], "comments": [], "recommandations_id": []}

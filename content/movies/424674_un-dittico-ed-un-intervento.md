@@ -1,0 +1,1 @@
+{"tmdb_id": 424674, "title": "Un dittico ed un intervento", "original_title": "Un dittico ed un intervento", "slug_title": "un-dittico-ed-un-intervento", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

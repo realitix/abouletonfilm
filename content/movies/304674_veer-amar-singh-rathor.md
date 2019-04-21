@@ -1,0 +1,1 @@
+{"tmdb_id": 304674, "title": "Veer Amar Singh Rathor", "original_title": "Veer Amar Singh Rathor", "slug_title": "veer-amar-singh-rathor", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

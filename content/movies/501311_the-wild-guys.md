@@ -1,0 +1,1 @@
+{"tmdb_id": 501311, "title": "The Wild Guys", "original_title": "The Wild Guys", "slug_title": "the-wild-guys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ei5ZOdswDbMljf1ruHNbSfIXxCI.jpg", "actors": [], "comments": [], "recommandations_id": []}

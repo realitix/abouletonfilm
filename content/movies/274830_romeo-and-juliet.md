@@ -1,0 +1,1 @@
+{"tmdb_id": 274830, "title": "Romeo and Juliet", "original_title": "Romeo and Juliet", "slug_title": "romeo-and-juliet", "date": "1947-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anwar Hussain ()", "Nazir Kashmiri ()", "Nargis ()"], "comments": [], "recommandations_id": []}

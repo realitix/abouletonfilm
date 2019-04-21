@@ -1,0 +1,1 @@
+{"tmdb_id": 354958, "title": "Arts Exit: Saving the Creative Kid", "original_title": "Arts Exit: Saving the Creative Kid", "slug_title": "arts-exit-saving-the-creative-kid", "date": "2015-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

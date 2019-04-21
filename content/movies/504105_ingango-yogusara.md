@@ -1,0 +1,1 @@
+{"tmdb_id": 504105, "title": "Ingango yogusara", "original_title": "Ingango yogusara", "slug_title": "ingango-yogusara", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37CipKrdGOLSNgT6Py1kuAkBhQY.jpg", "actors": [], "comments": [], "recommandations_id": []}

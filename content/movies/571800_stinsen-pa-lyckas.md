@@ -1,0 +1,1 @@
+{"tmdb_id": 571800, "title": "Stinsen p\u00e5 Lyck\u00e5s", "original_title": "Stinsen p\u00e5 Lyck\u00e5s", "slug_title": "stinsen-pa-lyckas", "date": "1942-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

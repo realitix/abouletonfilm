@@ -1,0 +1,1 @@
+{"tmdb_id": 174252, "title": "Shake Your Powder Puff", "original_title": "Shake Your Powder Puff", "slug_title": "shake-your-powder-puff", "date": "1934-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXqmbmZAPOAOWyFOSixZzxzsSmf.jpg", "actors": [], "comments": [], "recommandations_id": []}

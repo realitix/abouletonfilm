@@ -1,0 +1,1 @@
+{"tmdb_id": 311731, "title": "Shadow Project: And Then There Was Death", "original_title": "Shadow Project: And Then There Was Death", "slug_title": "shadow-project-and-then-there-was-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

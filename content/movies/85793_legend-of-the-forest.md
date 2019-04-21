@@ -1,0 +1,1 @@
+{"tmdb_id": 85793, "title": "Legend of the Forest", "original_title": "Mori no densetsu", "slug_title": "legend-of-the-forest", "date": "1987-12-18", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LqtMhgTjEiYobHoODYjrlNVQrO.jpg", "actors": [], "comments": [], "recommandations_id": []}

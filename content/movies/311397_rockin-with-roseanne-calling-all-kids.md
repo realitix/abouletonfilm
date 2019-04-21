@@ -1,0 +1,1 @@
+{"tmdb_id": 311397, "title": "Rockin' with Roseanne: Calling All Kids", "original_title": "Rockin' with Roseanne: Calling All Kids", "slug_title": "rockin-with-roseanne-calling-all-kids", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

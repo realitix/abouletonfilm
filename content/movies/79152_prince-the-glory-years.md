@@ -1,0 +1,1 @@
+{"tmdb_id": 79152, "title": "Prince - The Glory Years", "original_title": "Prince - The Glory Years", "slug_title": "prince-the-glory-years", "date": "2008-04-08", "genre": "Documentaire / Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n50fvRmTJqOC5mdVfzPROb7EPxG.jpg", "actors": [], "comments": [], "recommandations_id": []}

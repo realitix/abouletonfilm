@@ -1,0 +1,1 @@
+{"tmdb_id": 149283, "title": "Alvorada", "original_title": "Alvorada", "slug_title": "alvorada", "date": "1962-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/owrO5IVDvwxLLJrJWYamsfcYMWf.jpg", "actors": ["Hugo Niebeling (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 396649, "title": "Realms of Light", "original_title": "Realms of Light", "slug_title": "realms-of-light", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gfjWF0RIc8JftHhP12rxnSfi2s.jpg", "actors": [], "comments": [], "recommandations_id": []}

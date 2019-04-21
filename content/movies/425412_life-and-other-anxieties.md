@@ -1,0 +1,1 @@
+{"tmdb_id": 425412, "title": "Life and Other Anxieties", "original_title": "Life and Other Anxieties", "slug_title": "life-and-other-anxieties", "date": "1978-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

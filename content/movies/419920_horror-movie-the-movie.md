@@ -1,0 +1,1 @@
+{"tmdb_id": 419920, "title": "Horror Movie: The Movie", "original_title": "Horror Movie: The Movie", "slug_title": "horror-movie-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

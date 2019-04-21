@@ -1,0 +1,1 @@
+{"tmdb_id": 408845, "title": "A Good Man", "original_title": "\uad7f \ub9e8", "slug_title": "a-good-man", "date": "2016-07-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gong Hyung-jin ()", "Lee Si-Won ()", "Song Jae-rim ()"], "comments": [], "recommandations_id": []}

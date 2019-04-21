@@ -1,0 +1,1 @@
+{"tmdb_id": 280808, "title": "O Demoninho de Olhos Pretos", "original_title": "O Demoninho de Olhos Pretos", "slug_title": "o-demoninho-de-olhos-pretos", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Camilo Bevilacqua ()", "Lafayete Galv\u00e3o ()", "Rafael Silva ()"], "comments": [], "recommandations_id": []}

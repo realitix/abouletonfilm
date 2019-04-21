@@ -1,0 +1,1 @@
+{"tmdb_id": 563276, "title": "Palestine in the Eye", "original_title": "Filastin fi al-Ayn", "slug_title": "palestine-in-the-eye", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNOfrAyntSxvB8349v7kd93AjWF.jpg", "actors": [], "comments": [], "recommandations_id": []}

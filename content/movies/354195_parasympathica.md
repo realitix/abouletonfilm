@@ -1,0 +1,1 @@
+{"tmdb_id": 354195, "title": "Parasympathica", "original_title": "Parasympathica", "slug_title": "parasympathica", "date": "1986-08-13", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

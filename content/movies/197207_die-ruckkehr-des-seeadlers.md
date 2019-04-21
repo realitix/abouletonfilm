@@ -1,0 +1,1 @@
+{"tmdb_id": 197207, "title": "Die R\u00fcckkehr des Seeadlers", "original_title": "Die R\u00fcckkehr des Seeadlers", "slug_title": "die-ruckkehr-des-seeadlers", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528185, "title": "Vay Ba\u015f\u0131ma Gelenler 2,5", "original_title": "Vay Ba\u015f\u0131ma Gelenler 2,5", "slug_title": "vay-basima-gelenler-25", "date": "2014-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4O07J8TxBFYnba8u8nYAp2QfKgf.jpg", "actors": [], "comments": [], "recommandations_id": []}

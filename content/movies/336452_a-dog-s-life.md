@@ -1,0 +1,1 @@
+{"tmdb_id": 336452, "title": "A Dog's Life", "original_title": "A Dog's Life", "slug_title": "a-dog-s-life", "date": "2013-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMLCRKHB8gAxjXTB9o4zQSbNp28.jpg", "actors": [], "comments": [], "recommandations_id": []}

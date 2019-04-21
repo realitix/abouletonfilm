@@ -1,0 +1,1 @@
+{"tmdb_id": 358562, "title": "Wash and Brush Up", "original_title": "Wash and Brush Up", "slug_title": "wash-and-brush-up", "date": "1953-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijz2Tr6SVXk3QfLfMsVEif2LF0r.jpg", "actors": [], "comments": [], "recommandations_id": []}

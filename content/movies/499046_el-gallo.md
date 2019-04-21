@@ -1,0 +1,1 @@
+{"tmdb_id": 499046, "title": "El Gallo", "original_title": "El Gallo", "slug_title": "el-gallo", "date": "2018-01-16", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TnatPJjR82lsMwIbwktDV9YgRG.jpg", "actors": [], "comments": [], "recommandations_id": []}

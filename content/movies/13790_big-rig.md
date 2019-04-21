@@ -1,0 +1,1 @@
+{"tmdb_id": 13790, "title": "Big Rig", "original_title": "Big Rig", "slug_title": "big-rig", "date": "2007-03-10", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tOnr69y5Y4u1Dec8sMHdkPmhRRd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 362050, "title": "Sitting", "original_title": "Sitting", "slug_title": "sitting", "date": "1977-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9O7Rbug9xl1Ft5DZYXtLtStVXZ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

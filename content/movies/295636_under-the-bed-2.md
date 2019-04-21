@@ -1,0 +1,1 @@
+{"tmdb_id": 295636, "title": "Under the Bed 2", "original_title": "Chu\u00e1ngxi\u00e0 y\u01d2ur\u00e9n 2", "slug_title": "under-the-bed-2", "date": "2014-08-22", "genre": "Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bbHfxp5co2OzfLNDN3YCO4pTMDX.jpg", "actors": [], "comments": [], "recommandations_id": []}

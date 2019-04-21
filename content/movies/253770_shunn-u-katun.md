@@ -1,0 +1,1 @@
+{"tmdb_id": 253770, "title": "Shunn u Katun", "original_title": "Shunn u Katun", "slug_title": "shunn-u-katun", "date": "1938-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

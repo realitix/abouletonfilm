@@ -1,0 +1,1 @@
+{"tmdb_id": 496763, "title": "Jabardast Premika", "original_title": "Jabardast Premika", "slug_title": "jabardast-premika", "date": "2016-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mihir Das ()", "Jhilik Bhattacharya ()", "Babusan ()"], "comments": [], "recommandations_id": []}

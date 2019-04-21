@@ -1,0 +1,1 @@
+{"tmdb_id": 490947, "title": "The Bear Brothers", "original_title": "Kyodai koguma", "slug_title": "the-bear-brothers", "date": "1932-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

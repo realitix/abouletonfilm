@@ -1,0 +1,1 @@
+{"tmdb_id": 384181, "title": "Point Dume", "original_title": "Point Dume", "slug_title": "point-dume", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Cassini ()", "Joe Estevez ()", "Robert Z'Dar ()", "Monique Parent ()"], "comments": [], "recommandations_id": []}

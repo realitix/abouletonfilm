@@ -1,0 +1,1 @@
+{"tmdb_id": 122826, "title": "Witch Madness", "original_title": "Witch Madness", "slug_title": "witch-madness", "date": "2000-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/luWcBbN7PWciBhS1OVgyduRJoOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

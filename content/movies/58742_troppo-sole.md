@@ -1,0 +1,1 @@
+{"tmdb_id": 58742, "title": "Troppo sole", "original_title": "Troppo sole", "slug_title": "troppo-sole", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynX68Gsp47qQ8PcmboRzFEDO7RH.jpg", "actors": ["Sabina Guzzanti (14 personaggi)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 435076, "title": "Rhode Island Red", "original_title": "Rhode Island Red", "slug_title": "rhode-island-red", "date": "1968-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271637, "title": "The Golden Scallop", "original_title": "The Golden Scallop", "slug_title": "the-golden-scallop", "date": "2013-01-01", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

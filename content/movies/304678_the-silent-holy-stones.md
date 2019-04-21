@@ -1,0 +1,1 @@
+{"tmdb_id": 304678, "title": "The Silent Holy Stones", "original_title": "Lhing vjags kyi ma ni rdo vbum", "slug_title": "the-silent-holy-stones", "date": "2005-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unVpRQUG4K5FDEUHu98jSHJAW3f.jpg", "actors": [], "comments": [], "recommandations_id": []}

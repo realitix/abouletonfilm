@@ -1,0 +1,1 @@
+{"tmdb_id": 543058, "title": "Ballada o \u015bcinaniu drzewa", "original_title": "Ballada o \u015bcinaniu drzewa", "slug_title": "ballada-o-scinaniu-drzewa", "date": "1974-02-10", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

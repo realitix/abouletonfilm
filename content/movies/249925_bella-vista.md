@@ -1,0 +1,1 @@
+{"tmdb_id": 249925, "title": "Bella Vista", "original_title": "Bella Vista", "slug_title": "bella-vista", "date": "2014-01-29", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVvAiJvGJ5SPBPbLjPyxgX00UdB.jpg", "actors": ["Kathleen Wise (Doris)", "Hiroka Matsushima (Yuri)"], "comments": [], "recommandations_id": []}

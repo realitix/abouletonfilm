@@ -1,0 +1,1 @@
+{"tmdb_id": 501294, "title": "The spirit chaser", "original_title": "The spirit chaser", "slug_title": "the-spirit-chaser", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8Xen9FDqc1SdXUd5Dry8xbt7wb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296930, "title": "Camera, Camera", "original_title": "Camera, Camera", "slug_title": "camera-camera", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

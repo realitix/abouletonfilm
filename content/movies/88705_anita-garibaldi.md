@@ -1,0 +1,1 @@
+{"tmdb_id": 88705, "title": "Anita Garibaldi", "original_title": "Anita Garibaldi", "slug_title": "anita-garibaldi", "date": "1910-09-01", "genre": "Histoire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOQFNExepBQ6uT6GQPhMDuJl3UL.jpg", "actors": ["Maria Caserini ()"], "comments": [], "recommandations_id": []}

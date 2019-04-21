@@ -1,0 +1,1 @@
+{"tmdb_id": 275151, "title": "The Odds of Recovery", "original_title": "The Odds of Recovery", "slug_title": "the-odds-of-recovery", "date": "2002-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fePdNZi5rLhhICJrish37YhH1xv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366747, "title": "Andiamo: Love, from Italy", "original_title": "Andiamo: Love, from Italy", "slug_title": "andiamo-love-from-italy", "date": "2007-11-05", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nCAxGYi07MLpfIk47nwhQ1qQWYT.jpg", "actors": [], "comments": [], "recommandations_id": []}

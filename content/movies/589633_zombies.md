@@ -1,0 +1,1 @@
+{"tmdb_id": 589633, "title": "Zombies", "original_title": "Zombies", "slug_title": "zombies", "date": "2010-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bYTQDyKgZJWIlvvqDe4zjuNBOiA.jpg", "actors": ["Sara G. ()", "Dri Mondaray ()"], "comments": [], "recommandations_id": []}

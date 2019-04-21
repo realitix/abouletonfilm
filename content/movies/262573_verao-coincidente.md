@@ -1,0 +1,1 @@
+{"tmdb_id": 262573, "title": "Ver\u00e3o Coincidente", "original_title": "Ver\u00e3o Coincidente", "slug_title": "verao-coincidente", "date": "1963-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carmen Dolores (Narrator (voice))"], "comments": [], "recommandations_id": []}

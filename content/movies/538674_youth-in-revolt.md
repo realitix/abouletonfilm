@@ -1,0 +1,1 @@
+{"tmdb_id": 538674, "title": "Youth in Revolt", "original_title": "Altitude 3.200", "slug_title": "youth-in-revolt", "date": "1938-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56jaHPsCAAnv5sAyyEU9BfH3SID.jpg", "actors": [], "comments": [], "recommandations_id": []}

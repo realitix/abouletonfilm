@@ -1,0 +1,1 @@
+{"tmdb_id": 231718, "title": "Wounded Soldiers Embarking in Row Boats", "original_title": "Wounded Soldiers Embarking in Row Boats", "slug_title": "wounded-soldiers-embarking-in-row-boats", "date": "1898-07-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

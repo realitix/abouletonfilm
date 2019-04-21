@@ -1,0 +1,1 @@
+{"tmdb_id": 325725, "title": "Barely A Chance", "original_title": "Barely A Chance", "slug_title": "barely-a-chance", "date": "2008-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

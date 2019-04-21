@@ -1,0 +1,1 @@
+{"tmdb_id": 586664, "title": "Paw Patrol - Animal Adventures", "original_title": "Paw Patrol - Animal Adventures", "slug_title": "paw-patrol-animal-adventures", "date": "2017-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1LldXEgpqI5GV1rrDc0PMaoEST.jpg", "actors": [], "comments": [], "recommandations_id": []}

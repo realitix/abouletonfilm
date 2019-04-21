@@ -1,0 +1,1 @@
+{"tmdb_id": 371423, "title": "Mi querida Espa\u00f1a", "original_title": "Mi querida Espa\u00f1a", "slug_title": "mi-querida-espana", "date": "2015-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Tudc7foOfhfZ94kKJCmaaLWZSc.jpg", "actors": ["Jesus Quintero (Himself)"], "comments": [], "recommandations_id": []}

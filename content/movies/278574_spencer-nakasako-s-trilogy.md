@@ -1,0 +1,1 @@
+{"tmdb_id": 278574, "title": "Spencer Nakasako's Trilogy", "original_title": "Spencer Nakasako's Trilogy", "slug_title": "spencer-nakasako-s-trilogy", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

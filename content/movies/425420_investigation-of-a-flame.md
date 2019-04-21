@@ -1,0 +1,1 @@
+{"tmdb_id": 425420, "title": "Investigation of a Flame", "original_title": "Investigation of a Flame", "slug_title": "investigation-of-a-flame", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ymQmHY4vl9a2yCV4rvrLIY07xz.jpg", "actors": [], "comments": [], "recommandations_id": []}

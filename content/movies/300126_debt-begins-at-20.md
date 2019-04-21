@@ -1,0 +1,1 @@
+{"tmdb_id": 300126, "title": "Debt Begins at 20", "original_title": "Debt Begins at 20", "slug_title": "debt-begins-at-20", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRtoTVT6MG9KchY722ephApOZTv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349493, "title": "\ucc9c\ud558\ub300\uc7a5\uad70", "original_title": "\ucc9c\ud558\ub300\uc7a5\uad70", "slug_title": "ceonhadaejanggun", "date": "1994-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

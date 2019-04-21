@@ -1,0 +1,1 @@
+{"tmdb_id": 520690, "title": "Heebie Gee-Gees", "original_title": "Heebie Gee-Gees", "slug_title": "heebie-gee-gees", "date": "1952-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wally Vernon (Wally)", "Eddie Quillan (Eddie)"], "comments": [], "recommandations_id": []}

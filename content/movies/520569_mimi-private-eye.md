@@ -1,0 +1,1 @@
+{"tmdb_id": 520569, "title": "Mimi Private Eye", "original_title": "Mimi Private Eye", "slug_title": "mimi-private-eye", "date": "1965-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

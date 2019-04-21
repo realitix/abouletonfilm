@@ -1,0 +1,1 @@
+{"tmdb_id": 564352, "title": "Tumuc Humac", "original_title": "Tumuc Humac", "slug_title": "tumuc-humac", "date": "1971-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ot0RNhmIrzxh3eSdKlasIdVlGyt.jpg", "actors": [], "comments": [], "recommandations_id": []}

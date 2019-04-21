@@ -1,0 +1,1 @@
+{"tmdb_id": 511248, "title": "Concerto Grosso Modo", "original_title": "Concerto Grosso Modo", "slug_title": "concerto-grosso-modo", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qIdR31oKDSjO0cvL4MFBma9jTog.jpg", "actors": [], "comments": [], "recommandations_id": []}

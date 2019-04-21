@@ -1,0 +1,1 @@
+{"tmdb_id": 544711, "title": "Benito Tilmann: O Pior Cineasta do Mundo", "original_title": "Benito Tilmann: O Pior Cineasta do Mundo", "slug_title": "benito-tilmann-o-pior-cineasta-do-mundo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

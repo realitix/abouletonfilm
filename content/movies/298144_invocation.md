@@ -1,0 +1,1 @@
+{"tmdb_id": 298144, "title": "Invocation", "original_title": "Invocation", "slug_title": "invocation", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

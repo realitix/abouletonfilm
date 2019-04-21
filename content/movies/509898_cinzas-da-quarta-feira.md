@@ -1,0 +1,1 @@
+{"tmdb_id": 509898, "title": "Cinzas da Quarta Feira", "original_title": "Cinzas da Quarta Feira", "slug_title": "cinzas-da-quarta-feira", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qyF72vvp70m8oteDkMYIMf0vZav.jpg", "actors": [], "comments": [], "recommandations_id": []}

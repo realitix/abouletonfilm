@@ -1,0 +1,1 @@
+{"tmdb_id": 320220, "title": "Rethink Afghanistan", "original_title": "Rethink Afghanistan", "slug_title": "rethink-afghanistan", "date": "2009-10-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rXg8RfQYrL9peFmiyO0pzIbJwOI.jpg", "actors": [], "comments": [], "recommandations_id": []}

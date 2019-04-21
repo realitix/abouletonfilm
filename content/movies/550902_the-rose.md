@@ -1,0 +1,1 @@
+{"tmdb_id": 550902, "title": "The Rose", "original_title": "The Rose", "slug_title": "the-rose", "date": "2011-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5tsR7oixX5Lf44KiLIUaQ6lsLZV.jpg", "actors": [], "comments": [], "recommandations_id": []}

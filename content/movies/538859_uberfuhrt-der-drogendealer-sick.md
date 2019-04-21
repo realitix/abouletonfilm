@@ -1,0 +1,1 @@
+{"tmdb_id": 538859, "title": "\u00dcberf\u00fchrt: Der Drogendealer Sick", "original_title": "\u00dcberf\u00fchrt: Der Drogendealer Sick", "slug_title": "uberfuhrt-der-drogendealer-sick", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Bausch (Joe Bausch)"], "comments": [], "recommandations_id": []}

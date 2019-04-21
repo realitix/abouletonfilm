@@ -1,0 +1,1 @@
+{"tmdb_id": 295030, "title": "The Way of Love", "original_title": "The Way of Love", "slug_title": "the-way-of-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

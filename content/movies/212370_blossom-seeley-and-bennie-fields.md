@@ -1,0 +1,1 @@
+{"tmdb_id": 212370, "title": "Blossom Seeley and Bennie Fields", "original_title": "Blossom Seeley and Bennie Fields", "slug_title": "blossom-seeley-and-bennie-fields", "date": "1928-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

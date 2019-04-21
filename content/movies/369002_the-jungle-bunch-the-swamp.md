@@ -1,0 +1,1 @@
+{"tmdb_id": 369002, "title": "The Jungle Bunch The Swamp", "original_title": "The Jungle Bunch The Swamp", "slug_title": "the-jungle-bunch-the-swamp", "date": "2013-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zu7FNARv3IrW0KyprE9nRm5rNYL.jpg", "actors": [], "comments": [], "recommandations_id": []}

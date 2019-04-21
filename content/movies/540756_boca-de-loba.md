@@ -1,0 +1,1 @@
+{"tmdb_id": 540756, "title": "Boca de Loba", "original_title": "Boca de Loba", "slug_title": "boca-de-loba", "date": "2018-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3fRBt3wcj6eBhiXRvoQpjVgZk1J.jpg", "actors": [], "comments": [], "recommandations_id": []}

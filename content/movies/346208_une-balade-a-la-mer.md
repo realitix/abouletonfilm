@@ -1,0 +1,1 @@
+{"tmdb_id": 346208, "title": "Une balade \u00e0 la mer", "original_title": "Une balade \u00e0 la mer", "slug_title": "une-balade-a-la-mer", "date": "2014-03-23", "genre": "Aventure / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibqt72x2gp3zbwTkexPficasInN.jpg", "actors": [], "comments": [], "recommandations_id": []}

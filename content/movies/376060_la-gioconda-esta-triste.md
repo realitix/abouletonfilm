@@ -1,0 +1,1 @@
+{"tmdb_id": 376060, "title": "La Gioconda est\u00e1 triste", "original_title": "La Gioconda est\u00e1 triste", "slug_title": "la-gioconda-esta-triste", "date": "1977-02-02", "genre": "Science-Fiction / Fantastique", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

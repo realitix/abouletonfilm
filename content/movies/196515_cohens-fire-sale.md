@@ -1,0 +1,1 @@
+{"tmdb_id": 196515, "title": "Cohen\u2019s Fire Sale", "original_title": "Cohen\u2019s Fire Sale", "slug_title": "cohens-fire-sale", "date": "1907-06-29", "genre": "", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1XJO4OTZTnFepeKGgtiGfqiOK8f.jpg", "actors": [], "comments": [], "recommandations_id": [120012, 119980, 120010, 119988]}

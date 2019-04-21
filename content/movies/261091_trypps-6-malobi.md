@@ -1,0 +1,1 @@
+{"tmdb_id": 261091, "title": "Trypps #6 (Malobi)", "original_title": "Trypps #6 (Malobi)", "slug_title": "trypps-6-malobi", "date": "2009-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZGkQYY6b2cHcVBzWELNQBE3X2Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

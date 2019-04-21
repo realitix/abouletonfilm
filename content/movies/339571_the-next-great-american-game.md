@@ -1,0 +1,1 @@
+{"tmdb_id": 339571, "title": "The Next Great American Game", "original_title": "The Next Great American Game", "slug_title": "the-next-great-american-game", "date": "2015-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mAcuavA4uodD2JuyHnrZByWks97.jpg", "actors": [], "comments": [], "recommandations_id": []}

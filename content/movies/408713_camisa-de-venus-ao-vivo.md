@@ -1,0 +1,1 @@
+{"tmdb_id": 408713, "title": "Camisa de V\u00eanus - Ao Vivo", "original_title": "Camisa de V\u00eanus - Ao Vivo", "slug_title": "camisa-de-venus-ao-vivo", "date": "2004-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txZp9I0C4V9Z36GUN4Uvm5ViAcJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

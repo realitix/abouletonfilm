@@ -1,0 +1,1 @@
+{"tmdb_id": 426775, "title": "Ma\u00edz, copal y candela", "original_title": "Ma\u00edz, copal y candela", "slug_title": "maiz-copal-y-candela", "date": "1984-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

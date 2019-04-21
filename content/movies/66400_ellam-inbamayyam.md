@@ -1,0 +1,1 @@
+{"tmdb_id": 66400, "title": "Ellam Inbamayyam", "original_title": "Ellam Inbamayyam", "slug_title": "ellam-inbamayyam", "date": "1981-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal Haasan ()", "Madhavi ()", "Jaishankar ()", "Y. G. Mahendran ()", "Thengai Srinivasan ()"], "comments": [], "recommandations_id": []}

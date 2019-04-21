@@ -1,0 +1,1 @@
+{"tmdb_id": 236508, "title": "I'll Never Crow Again", "original_title": "I'll Never Crow Again", "slug_title": "i-ll-never-crow-again", "date": "1941-09-18", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Oq1qWiaByZca0QmTNv6CGso0rm.jpg", "actors": [], "comments": [], "recommandations_id": []}

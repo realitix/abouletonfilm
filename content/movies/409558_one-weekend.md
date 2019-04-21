@@ -1,0 +1,1 @@
+{"tmdb_id": 409558, "title": "One Weekend", "original_title": "One Weekend", "slug_title": "one-weekend", "date": "2014-10-04", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHvXxZZduRIqK1h3o0ergyh7WNp.jpg", "actors": ["Gabriel Freilich ()"], "comments": [], "recommandations_id": []}

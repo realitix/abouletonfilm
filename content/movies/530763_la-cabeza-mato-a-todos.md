@@ -1,0 +1,1 @@
+{"tmdb_id": 530763, "title": "La cabeza mat\u00f3 a todos", "original_title": "La cabeza mat\u00f3 a todos", "slug_title": "la-cabeza-mato-a-todos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

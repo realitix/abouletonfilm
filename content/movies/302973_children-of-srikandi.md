@@ -1,0 +1,1 @@
+{"tmdb_id": 302973, "title": "Children of Srikandi", "original_title": "Anak-Anak Srikandi", "slug_title": "children-of-srikandi", "date": "2012-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omTFBrlENoDgWYSvzyKenPlU9fk.jpg", "actors": [], "comments": [], "recommandations_id": []}

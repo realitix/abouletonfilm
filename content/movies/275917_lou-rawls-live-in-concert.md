@@ -1,0 +1,1 @@
+{"tmdb_id": 275917, "title": "Lou Rawls: Live in Concert", "original_title": "Lou Rawls: Live in Concert", "slug_title": "lou-rawls-live-in-concert", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

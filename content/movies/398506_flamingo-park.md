@@ -1,0 +1,1 @@
+{"tmdb_id": 398506, "title": "Flamingo Park", "original_title": "Flamingo Park", "slug_title": "flamingo-park", "date": "1980-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

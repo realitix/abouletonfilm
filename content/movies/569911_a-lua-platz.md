@@ -1,0 +1,1 @@
+{"tmdb_id": 569911, "title": "A Lua Platz", "original_title": "A Lua Platz", "slug_title": "a-lua-platz", "date": "2018-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Ntn9uyc3YfEYl3wuvqNZzpVVET.jpg", "actors": [], "comments": [], "recommandations_id": []}

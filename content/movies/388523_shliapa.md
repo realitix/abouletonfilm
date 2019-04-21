@@ -1,0 +1,1 @@
+{"tmdb_id": 388523, "title": "\u0428\u043b\u044f\u043f\u0430", "original_title": "\u0428\u043b\u044f\u043f\u0430", "slug_title": "shliapa", "date": "1981-03-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYZmZUcgTlIrDwBFsizuciaRApn.jpg", "actors": ["Oleg Yankovskiy ()"], "comments": [], "recommandations_id": []}

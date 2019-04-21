@@ -1,0 +1,1 @@
+{"tmdb_id": 436163, "title": "Boli Bana", "original_title": "Boli Bana", "slug_title": "boli-bana", "date": "2017-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTYXGJbWdu1Vyu3mrxDbQh7qWtA.jpg", "actors": [], "comments": [], "recommandations_id": []}

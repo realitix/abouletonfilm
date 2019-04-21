@@ -1,0 +1,1 @@
+{"tmdb_id": 311427, "title": "Roy Jones Jr.'s Greatest Power Shots", "original_title": "Roy Jones Jr.'s Greatest Power Shots", "slug_title": "roy-jones-jr-s-greatest-power-shots", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

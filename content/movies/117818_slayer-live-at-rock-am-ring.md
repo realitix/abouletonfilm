@@ -1,0 +1,1 @@
+{"tmdb_id": 117818, "title": "Slayer: Live at Rock am Ring", "original_title": "Slayer: Live at Rock am Ring", "slug_title": "slayer-live-at-rock-am-ring", "date": "2007-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5tR1Unj1mWim24QIOlfcilunrtX.jpg", "actors": [], "comments": [], "recommandations_id": []}

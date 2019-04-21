@@ -1,0 +1,1 @@
+{"tmdb_id": 354468, "title": "Casting Couch Confidential: Volume 2", "original_title": "Casting Couch Confidential: Volume 2", "slug_title": "casting-couch-confidential-volume-2", "date": "2014-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236683, "title": "The Boy and the Wolf", "original_title": "The Boy and the Wolf", "slug_title": "the-boy-and-the-wolf", "date": "1943-04-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWcI5rBVOV2PTxuSr8vWkNkV2KK.jpg", "actors": [], "comments": [], "recommandations_id": []}

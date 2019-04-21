@@ -1,0 +1,1 @@
+{"tmdb_id": 414285, "title": "Arbuckle & Keaton Vol. 1", "original_title": "Arbuckle & Keaton Vol. 1", "slug_title": "arbuckle-keaton-vol-1", "date": "2001-09-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/itgpMYw0ECQxSkoCVWP7o5Hu2F1.jpg", "actors": [], "comments": [], "recommandations_id": []}

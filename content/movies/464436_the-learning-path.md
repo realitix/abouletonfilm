@@ -1,0 +1,1 @@
+{"tmdb_id": 464436, "title": "The Learning Path", "original_title": "The Learning Path", "slug_title": "the-learning-path", "date": "1991-07-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

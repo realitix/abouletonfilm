@@ -1,0 +1,1 @@
+{"tmdb_id": 137759, "title": "Harmonia do Samba - Ao Vivo", "original_title": "Harmonia do Samba - Ao Vivo", "slug_title": "harmonia-do-samba-ao-vivo", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lGiGlS3OfjOATDn7kOPHJgZzJsB.jpg", "actors": [], "comments": [], "recommandations_id": []}

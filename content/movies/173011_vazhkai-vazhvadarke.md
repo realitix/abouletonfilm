@@ -1,0 +1,1 @@
+{"tmdb_id": 173011, "title": "Vazhkai Vazhvadarke", "original_title": "Vazhkai Vazhvadarke", "slug_title": "vazhkai-vazhvadarke", "date": "1964-02-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "S. A. Asokan ()"], "comments": [], "recommandations_id": []}

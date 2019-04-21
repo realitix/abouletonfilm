@@ -1,0 +1,1 @@
+{"tmdb_id": 234421, "title": "Le chat et le psychanalyste", "original_title": "Freudy Cat", "slug_title": "le-chat-et-le-psychanalyste", "date": "1964-03-13", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdd88RuShtMOgJpGeyeV69WidS9.jpg", "actors": [], "comments": [], "recommandations_id": []}

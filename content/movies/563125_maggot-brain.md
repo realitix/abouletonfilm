@@ -1,0 +1,1 @@
+{"tmdb_id": 563125, "title": "Maggot Brain", "original_title": "Maggot Brain", "slug_title": "maggot-brain", "date": "2018-02-19", "genre": "Drame / Fantastique / Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Gay (Protagonist)", "Edward Gay (Protagonist's Duplicate)"], "comments": [], "recommandations_id": []}

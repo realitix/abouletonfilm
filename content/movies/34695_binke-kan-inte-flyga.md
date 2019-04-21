@@ -1,0 +1,1 @@
+{"tmdb_id": 34695, "title": "Binke kan inte flyga", "original_title": "Binke kan inte flyga", "slug_title": "binke-kan-inte-flyga", "date": "1993-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zdsAhM61iUfCL2nJZhBJAWZXPGg.jpg", "actors": [], "comments": [], "recommandations_id": []}

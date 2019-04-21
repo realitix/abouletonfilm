@@ -1,0 +1,1 @@
+{"tmdb_id": 506937, "title": "\ucf8c\ub77d\uc758 \ubc00\uc2e4", "original_title": "\ucf8c\ub77d\uc758 \ubc00\uc2e4", "slug_title": "kwaeragyi-milsil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRofogQPdGWPunxzg3vRbtou9Yg.jpg", "actors": [], "comments": [], "recommandations_id": []}

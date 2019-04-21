@@ -1,0 +1,1 @@
+{"tmdb_id": 253110, "title": "Charlie White", "original_title": "Charlie White", "slug_title": "charlie-white", "date": "2004-12-07", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex McGettigan (Charlie White)", "Lucy McCall (Miriam)", "Danny George (Daniel Forte-Fleming)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307067, "title": "Eenterrar y callar", "original_title": "Eenterrar y callar", "slug_title": "eenterrar-y-callar", "date": "2014-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

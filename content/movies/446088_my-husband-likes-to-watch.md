@@ -1,0 +1,1 @@
+{"tmdb_id": 446088, "title": "My Husband Likes to Watch", "original_title": "My Husband Likes to Watch", "slug_title": "my-husband-likes-to-watch", "date": "2017-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gWCGK2B67ICMhKlngfxal1Wd1FV.jpg", "actors": [], "comments": [], "recommandations_id": []}

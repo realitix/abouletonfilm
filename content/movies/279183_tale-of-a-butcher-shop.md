@@ -1,0 +1,1 @@
+{"tmdb_id": 279183, "title": "Tale of a Butcher Shop", "original_title": "Aru Seinikuten no Hanashi", "slug_title": "tale-of-a-butcher-shop", "date": "2013-11-29", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Al2spcoMKfDd813Cx35R1uMojxp.jpg", "actors": [], "comments": [], "recommandations_id": []}

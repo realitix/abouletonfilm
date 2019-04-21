@@ -1,0 +1,1 @@
+{"tmdb_id": 350125, "title": "\ubcf4\ud1b5\uc5ec\uc790\uc2dc\ub300", "original_title": "\ubcf4\ud1b5\uc5ec\uc790\uc2dc\ub300", "slug_title": "botongyeojasidae", "date": "1990-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

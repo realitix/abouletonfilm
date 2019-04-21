@@ -1,0 +1,1 @@
+{"tmdb_id": 272310, "title": "Luisa Fernanda", "original_title": "Luisa Fernanda", "slug_title": "luisa-fernanda", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8JbsR1UkpZNa0gb2QpN3KrRVoM.jpg", "actors": ["Pl\u00e1cido Domingo ()", "Nancy Herrera ()"], "comments": [], "recommandations_id": []}

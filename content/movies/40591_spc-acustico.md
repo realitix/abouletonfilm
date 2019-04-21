@@ -1,0 +1,1 @@
+{"tmdb_id": 40591, "title": "SPC - Ac\u00fastico", "original_title": "SPC - Ac\u00fastico", "slug_title": "spc-acustico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a4Td1VuZ5YEjoPkyYt7rEDiwXWw.jpg", "actors": [], "comments": [], "recommandations_id": []}

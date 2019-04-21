@@ -1,0 +1,1 @@
+{"tmdb_id": 416321, "title": "\uc815\uae00 \ud53c\uc26c 2", "original_title": "\uc815\uae00 \ud53c\uc26c 2", "slug_title": "jeonggeul-piswi-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

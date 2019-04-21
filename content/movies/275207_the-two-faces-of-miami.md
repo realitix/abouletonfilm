@@ -1,0 +1,1 @@
+{"tmdb_id": 275207, "title": "The Two Faces of Miami", "original_title": "The Two Faces of Miami", "slug_title": "the-two-faces-of-miami", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

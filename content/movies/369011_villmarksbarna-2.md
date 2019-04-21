@@ -1,0 +1,1 @@
+{"tmdb_id": 369011, "title": "Villmarksbarna 2", "original_title": "Villmarksbarna 2", "slug_title": "villmarksbarna-2", "date": "2015-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2skJC7zHcPA8m5b7irJI3zWujtZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

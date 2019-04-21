@@ -1,0 +1,1 @@
+{"tmdb_id": 568819, "title": "Guru Da Banda", "original_title": "Guru Da Banda", "slug_title": "guru-da-banda", "date": "2018-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

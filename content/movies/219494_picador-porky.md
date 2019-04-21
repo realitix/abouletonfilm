@@ -1,0 +1,1 @@
+{"tmdb_id": 219494, "title": "Picador Porky", "original_title": "Picador Porky", "slug_title": "picador-porky", "date": "1937-02-26", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4KWYrGsG6U5IC9aHfDwsZYJrqxN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 419653, "title": "The Master and the Giant", "original_title": "De meester en de Reus", "slug_title": "the-master-and-the-giant", "date": "1980-02-28", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMYYayx0CwJSn45R1aRf5uh87MD.jpg", "actors": [], "comments": [], "recommandations_id": []}

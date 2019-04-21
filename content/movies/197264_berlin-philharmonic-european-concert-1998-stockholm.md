@@ -1,0 +1,1 @@
+{"tmdb_id": 197264, "title": "Berlin Philharmonic European Concert 1998 Stockholm", "original_title": "Berlin Philharmonic European Concert 1998 Stockholm", "slug_title": "berlin-philharmonic-european-concert-1998-stockholm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

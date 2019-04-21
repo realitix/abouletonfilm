@@ -1,0 +1,1 @@
+{"tmdb_id": 533076, "title": "Le bal des pantins", "original_title": "Le bal des pantins", "slug_title": "le-bal-des-pantins", "date": "2000-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

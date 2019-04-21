@@ -1,0 +1,1 @@
+{"tmdb_id": 352674, "title": "Den Of Dominance", "original_title": "Den Of Dominance", "slug_title": "den-of-dominance", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

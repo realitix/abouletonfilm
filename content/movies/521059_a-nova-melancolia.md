@@ -1,0 +1,1 @@
+{"tmdb_id": 521059, "title": "A Nova Melancolia", "original_title": "A Nova Melancolia", "slug_title": "a-nova-melancolia", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQjQCVg9zJQpGIf5jspckd05HSr.jpg", "actors": [], "comments": [], "recommandations_id": []}

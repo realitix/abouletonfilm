@@ -1,0 +1,1 @@
+{"tmdb_id": 241199, "title": "Der Potsdamer Telegrafenberg", "original_title": "Der Potsdamer Telegrafenberg", "slug_title": "der-potsdamer-telegrafenberg", "date": "2013-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

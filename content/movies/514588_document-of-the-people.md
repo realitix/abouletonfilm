@@ -1,0 +1,1 @@
+{"tmdb_id": 514588, "title": "Document of the People", "original_title": "Documenta der Leute", "slug_title": "document-of-the-people", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

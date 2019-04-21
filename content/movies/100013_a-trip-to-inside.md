@@ -1,0 +1,1 @@
+{"tmdb_id": 100013, "title": "A Trip to Inside", "original_title": "A Trip to Inside", "slug_title": "a-trip-to-inside", "date": "2009-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus John (himself)", "Stanislav Grof (himself)", "Christina Grof (herself)"], "comments": [], "recommandations_id": []}

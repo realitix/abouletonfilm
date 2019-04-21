@@ -1,0 +1,1 @@
+{"tmdb_id": 298740, "title": "Gato negro", "original_title": "Gato negro", "slug_title": "gato-negro", "date": "2014-04-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eymYlhEiDL3iV9GFcW110oRiMBd.jpg", "actors": ["Guillermo Arengo ()", "Luciano C\u00e1ceres ()"], "comments": [], "recommandations_id": []}

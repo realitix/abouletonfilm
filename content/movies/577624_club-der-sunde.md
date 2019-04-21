@@ -1,0 +1,1 @@
+{"tmdb_id": 577624, "title": "Club der S\u00fcnde", "original_title": "Club der S\u00fcnde", "slug_title": "club-der-sunde", "date": "2011-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lena Nitro ()", "Markus Waxenegger ()"], "comments": [], "recommandations_id": []}

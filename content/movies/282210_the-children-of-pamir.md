@@ -1,0 +1,1 @@
+{"tmdb_id": 282210, "title": "The Children of Pamir", "original_title": "Deti Pamira", "slug_title": "the-children-of-pamir", "date": "1963-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljs4uYUPGTWh7sMYFdjhavTsnJ9.jpg", "actors": ["Oleg Tulayev ()"], "comments": [], "recommandations_id": []}

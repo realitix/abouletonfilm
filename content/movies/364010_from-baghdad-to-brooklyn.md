@@ -1,0 +1,1 @@
+{"tmdb_id": 364010, "title": "From Baghdad to Brooklyn", "original_title": "From Baghdad to Brooklyn", "slug_title": "from-baghdad-to-brooklyn", "date": "2015-10-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztSOKUoQEeBZzV8j7zma4Zqkm1U.jpg", "actors": [], "comments": [], "recommandations_id": []}

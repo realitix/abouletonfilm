@@ -1,0 +1,1 @@
+{"tmdb_id": 534096, "title": "My Wife's Girlfriends", "original_title": "Les amies de ma femme", "slug_title": "my-wife-s-girlfriends", "date": "1992-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i7fLskS3sqESGHBt1zSsyWflA0t.jpg", "actors": [], "comments": [], "recommandations_id": []}

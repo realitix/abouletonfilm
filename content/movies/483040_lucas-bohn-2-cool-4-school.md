@@ -1,0 +1,1 @@
+{"tmdb_id": 483040, "title": "Lucas Bohn: 2 Cool 4 School", "original_title": "Lucas Bohn: 2 Cool 4 School", "slug_title": "lucas-bohn-2-cool-4-school", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kS9mtmaZ2DZEdn1D3IkvLwDpg6.jpg", "actors": [], "comments": [], "recommandations_id": []}

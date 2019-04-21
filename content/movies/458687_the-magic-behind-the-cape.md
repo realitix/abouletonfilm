@@ -1,0 +1,1 @@
+{"tmdb_id": 458687, "title": "The Magic Behind the Cape", "original_title": "The Magic Behind the Cape", "slug_title": "the-magic-behind-the-cape", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Field (Himself)", "Marc McClure (Himself)"], "comments": [], "recommandations_id": []}

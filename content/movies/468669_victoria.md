@@ -1,0 +1,1 @@
+{"tmdb_id": 468669, "title": "Victoria", "original_title": "Viktorija", "slug_title": "victoria", "date": "1988-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DSTZnAlFvAp26ElI8WWbWIN9Il.jpg", "actors": ["Maija Alpine ()", "J\u0101nis Reinis ()", "Tatyana Kuznetsova ()"], "comments": [], "recommandations_id": []}

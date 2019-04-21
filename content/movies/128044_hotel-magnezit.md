@@ -1,0 +1,1 @@
+{"tmdb_id": 128044, "title": "Hotel Magnezit", "original_title": "Hotel Magnezit", "slug_title": "hotel-magnezit", "date": "1978-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [114246]}

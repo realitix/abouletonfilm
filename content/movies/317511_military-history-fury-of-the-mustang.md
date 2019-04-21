@@ -1,0 +1,1 @@
+{"tmdb_id": 317511, "title": "Military History: Fury of the Mustang", "original_title": "Military History: Fury of the Mustang", "slug_title": "military-history-fury-of-the-mustang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

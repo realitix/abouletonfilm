@@ -1,0 +1,1 @@
+{"tmdb_id": 338968, "title": "Ripley's Believe It or Not!", "original_title": "Ripley's Believe It or Not!", "slug_title": "ripley-s-believe-it-or-not", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

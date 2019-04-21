@@ -1,0 +1,1 @@
+{"tmdb_id": 568547, "title": "Honeybee Season Has Passed", "original_title": "Honeybee Season Has Passed", "slug_title": "honeybee-season-has-passed", "date": "1972-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

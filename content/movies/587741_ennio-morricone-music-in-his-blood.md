@@ -1,0 +1,1 @@
+{"tmdb_id": 587741, "title": "Ennio Morricone: Music in His Blood", "original_title": "Ennio Morricone: La Musique au corps", "slug_title": "ennio-morricone-music-in-his-blood", "date": "2010-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ennio Morricone (Interviewee)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 325688, "title": "Hungarian Rhapsody", "original_title": "Hungarian Rhapsody", "slug_title": "hungarian-rhapsody", "date": "1930-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Fix (Young Gypsy)", "Michael Visaroff (Gypsy King)"], "comments": [], "recommandations_id": []}

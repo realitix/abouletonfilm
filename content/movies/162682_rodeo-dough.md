@@ -1,0 +1,1 @@
+{"tmdb_id": 162682, "title": "Rodeo Dough", "original_title": "Rodeo Dough", "slug_title": "rodeo-dough", "date": "1931-02-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

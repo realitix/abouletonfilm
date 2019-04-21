@@ -1,0 +1,1 @@
+{"tmdb_id": 224044, "title": "The Music Mice-Tro", "original_title": "The Music Mice-Tro", "slug_title": "the-music-mice-tro", "date": "1967-05-26", "genre": "Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDIIDzakm0yZ365Zj9UakCInBgM.jpg", "actors": [], "comments": [], "recommandations_id": []}

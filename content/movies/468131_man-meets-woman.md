@@ -1,0 +1,1 @@
+{"tmdb_id": 468131, "title": "Man Meets Woman", "original_title": "Muzhchina vstrechaet zhenshchinu", "slug_title": "man-meets-woman", "date": "2014-01-01", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p86P5q2m0ihwTWEjjOuGcBRLUUE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 443504, "title": "How do I love thee?", "original_title": "How do I love thee?", "slug_title": "how-do-i-love-thee", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

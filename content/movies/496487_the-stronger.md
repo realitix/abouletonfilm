@@ -1,0 +1,1 @@
+{"tmdb_id": 496487, "title": "The Stronger", "original_title": "The Stronger", "slug_title": "the-stronger", "date": "2007-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clare Higgins ()", "Fiona O'Shaughnessy ()"], "comments": [], "recommandations_id": []}

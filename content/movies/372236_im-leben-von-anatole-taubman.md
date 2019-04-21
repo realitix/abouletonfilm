@@ -1,0 +1,1 @@
+{"tmdb_id": 372236, "title": "Im Leben von  Anatole Taubman", "original_title": "Im Leben von  Anatole Taubman", "slug_title": "im-leben-von-anatole-taubman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7cAlbIx1yC67rrJ6lBx7hG0g5p.jpg", "actors": [], "comments": [], "recommandations_id": []}

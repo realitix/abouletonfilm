@@ -1,0 +1,1 @@
+{"tmdb_id": 74275, "title": "Santa Fe", "original_title": "Santa Fe", "slug_title": "santa-fe", "date": "1997-01-01", "genre": "Drame", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/is0YkKNRVapjRL2mW85azKla3s8.jpg", "actors": ["Tina Majorino (Crystal Thomas)", "Gary Cole (Paul Thomas)"], "comments": [], "recommandations_id": []}

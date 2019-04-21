@@ -1,0 +1,1 @@
+{"tmdb_id": 440463, "title": "Barbed Wire and Mandolins", "original_title": "Barbed Wire and Mandolins", "slug_title": "barbed-wire-and-mandolins", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

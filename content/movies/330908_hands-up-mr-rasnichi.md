@@ -1,0 +1,1 @@
+{"tmdb_id": 330908, "title": "Hands Up Mr. Rasnichi", "original_title": "Hands Up Mr. Rasnichi", "slug_title": "hands-up-mr-rasnichi", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

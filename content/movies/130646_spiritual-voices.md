@@ -1,0 +1,1 @@
+{"tmdb_id": 130646, "title": "Spiritual Voices", "original_title": "Spiritual Voices", "slug_title": "spiritual-voices", "date": "1995-08-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwMdsyJJFEEGOt6eeTcD7rE6wmY.jpg", "actors": [], "comments": [], "recommandations_id": [152970, 49099, 48268]}

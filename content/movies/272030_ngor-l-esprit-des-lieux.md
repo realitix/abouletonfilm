@@ -1,0 +1,1 @@
+{"tmdb_id": 272030, "title": "Ngor, l'esprit des lieux", "original_title": "Ngor, l'esprit des lieux", "slug_title": "ngor-l-esprit-des-lieux", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

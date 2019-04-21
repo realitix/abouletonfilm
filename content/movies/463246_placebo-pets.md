@@ -1,0 +1,1 @@
+{"tmdb_id": 463246, "title": "Placebo Pets", "original_title": "Placebo Pets", "slug_title": "placebo-pets", "date": "2016-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRPZ6EwdmKCmLZTfTEpWgev3Kty.jpg", "actors": ["Gigi Hadid ()", "Lauren Devine ()", "Kendall Jenner ()"], "comments": [], "recommandations_id": []}

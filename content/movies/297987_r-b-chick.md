@@ -1,0 +1,1 @@
+{"tmdb_id": 297987, "title": "R&B Chick", "original_title": "R&B Chick", "slug_title": "r-b-chick", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509031, "title": "Strawberry Fields", "original_title": "Die doppelte Welt", "slug_title": "strawberry-fields", "date": "1985-01-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beate Jensen ()", "Rolf Zacher ()", "Thomas Sch\u00fccke ()", "Lisa Kreuzer ()"], "comments": [], "recommandations_id": []}

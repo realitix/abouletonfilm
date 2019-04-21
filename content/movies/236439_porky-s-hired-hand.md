@@ -1,0 +1,1 @@
+{"tmdb_id": 236439, "title": "Porky's Hired Hand", "original_title": "Porky's Hired Hand", "slug_title": "porky-s-hired-hand", "date": "1940-11-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1XiH7HlhrZ3WOgrJHDddxIAwZmu.jpg", "actors": [], "comments": [], "recommandations_id": []}

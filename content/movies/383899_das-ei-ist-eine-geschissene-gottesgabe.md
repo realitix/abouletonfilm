@@ -1,0 +1,1 @@
+{"tmdb_id": 383899, "title": "Das Ei ist eine geschissene Gottesgabe", "original_title": "Das Ei ist eine geschissene Gottesgabe", "slug_title": "das-ei-ist-eine-geschissene-gottesgabe", "date": "1993-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

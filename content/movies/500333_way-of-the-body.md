@@ -1,0 +1,1 @@
+{"tmdb_id": 500333, "title": "Way of the Body", "original_title": "Yukcheui kil", "slug_title": "way-of-the-body", "date": "1959-08-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Seung-ho ()", "Kim Ji-mee ()", "Kyeong-hie Lee ()", "Choi Moo-ryong ()"], "comments": [], "recommandations_id": []}

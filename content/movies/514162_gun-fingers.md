@@ -1,0 +1,1 @@
+{"tmdb_id": 514162, "title": "Gun Fingers", "original_title": "Gun Fingers", "slug_title": "gun-fingers", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

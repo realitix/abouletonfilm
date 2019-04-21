@@ -1,0 +1,1 @@
+{"tmdb_id": 543349, "title": "\u30a2\u30eb\u30d3\u30ce\u306e\u6728", "original_title": "\u30a2\u30eb\u30d3\u30ce\u306e\u6728", "slug_title": "arubinonomu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z68zJdjAQLc5K2jY4Zt3D60OF9d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 158831, "title": "Killer Commandos", "original_title": "Killer Commandos", "slug_title": "killer-commandos", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rDCzOF2GGxDljL6Eo5NKjxTEmgc.jpg", "actors": ["Cameron Mitchell ()", "Robert Dix ()"], "comments": [], "recommandations_id": []}

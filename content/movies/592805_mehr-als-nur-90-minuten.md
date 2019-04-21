@@ -1,0 +1,1 @@
+{"tmdb_id": 592805, "title": "Mehr als nur 90 Minuten", "original_title": "Mehr als nur 90 Minuten", "slug_title": "mehr-als-nur-90-minuten", "date": "2018-11-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uzSzfBYZugy5dz2YQ7BmJR5Qzb.jpg", "actors": [], "comments": [], "recommandations_id": []}

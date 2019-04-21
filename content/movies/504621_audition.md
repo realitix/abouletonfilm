@@ -1,0 +1,1 @@
+{"tmdb_id": 504621, "title": "Audition", "original_title": "Audition", "slug_title": "audition", "date": "2017-11-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shaquita Lopez (Shaquita)", "Nezih Lopez (Nezih)"], "comments": [], "recommandations_id": []}

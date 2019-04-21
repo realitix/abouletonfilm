@@ -1,0 +1,1 @@
+{"tmdb_id": 303260, "title": "Attintlo Adde Mogudu", "original_title": "Attintlo Adde Mogudu", "slug_title": "attintlo-adde-mogudu", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2XYOu8XXTr7Lu2Pg16ibTtN2NYn.jpg", "actors": [], "comments": [], "recommandations_id": []}

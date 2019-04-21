@@ -1,0 +1,1 @@
+{"tmdb_id": 282436, "title": "The Forbidden Team", "original_title": "Det forbudte landshold", "slug_title": "the-forbidden-team", "date": "2003-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

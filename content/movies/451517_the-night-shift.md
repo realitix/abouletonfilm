@@ -1,0 +1,1 @@
+{"tmdb_id": 451517, "title": "The Night Shift", "original_title": "The Night Shift", "slug_title": "the-night-shift", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephen Cloyes ()", "Kirsten Eileen Dwyer ()", "Haley Goldstein ()", "Dan McNamara ()"], "comments": [], "recommandations_id": []}

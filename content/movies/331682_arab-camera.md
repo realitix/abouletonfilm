@@ -1,0 +1,1 @@
+{"tmdb_id": 331682, "title": "Arab Camera", "original_title": "Cam\u00e9ra arabe", "slug_title": "arab-camera", "date": "1987-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bomdNXQcqJxwvLjPvoMvEcTHmZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

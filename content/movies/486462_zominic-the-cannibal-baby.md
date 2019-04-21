@@ -1,0 +1,1 @@
+{"tmdb_id": 486462, "title": "Zominic the Cannibal Baby", "original_title": "Zominic the Cannibal Baby", "slug_title": "zominic-the-cannibal-baby", "date": "2017-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/499K46ZXrlarOMuAL4pH5CyDjNG.jpg", "actors": [], "comments": [], "recommandations_id": []}

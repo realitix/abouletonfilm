@@ -1,0 +1,1 @@
+{"tmdb_id": 473959, "title": "Pimento and Hot Pepper - The Mento Story", "original_title": "Pimento and Hot Pepper - The Mento Story", "slug_title": "pimento-and-hot-pepper-the-mento-story", "date": "2017-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

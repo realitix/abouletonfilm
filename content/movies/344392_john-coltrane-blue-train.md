@@ -1,0 +1,1 @@
+{"tmdb_id": 344392, "title": "John Coltrane: Blue Train", "original_title": "John Coltrane: Blue Train", "slug_title": "john-coltrane-blue-train", "date": "2015-05-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUPHmmigfuhj6VnhvzGOXdllvWc.jpg", "actors": [], "comments": [], "recommandations_id": []}

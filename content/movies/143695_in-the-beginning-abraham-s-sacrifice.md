@@ -1,0 +1,1 @@
+{"tmdb_id": 143695, "title": "In the Beginning: Abraham's Sacrifice", "original_title": "In the Beginning: Abraham's Sacrifice", "slug_title": "in-the-beginning-abraham-s-sacrifice", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 529330, "title": "Model of a Hand", "original_title": "Model of a Hand", "slug_title": "model-of-a-hand", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

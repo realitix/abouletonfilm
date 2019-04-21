@@ -1,0 +1,1 @@
+{"tmdb_id": 343272, "title": "Brel, un cri", "original_title": "Brel, un cri", "slug_title": "brel-un-cri", "date": "1985-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacques Brel (Himself)"], "comments": [], "recommandations_id": []}

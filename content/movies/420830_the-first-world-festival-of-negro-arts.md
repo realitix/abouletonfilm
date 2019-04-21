@@ -1,0 +1,1 @@
+{"tmdb_id": 420830, "title": "The First World Festival of Negro Arts", "original_title": "The First World Festival of Negro Arts", "slug_title": "the-first-world-festival-of-negro-arts", "date": "1966-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 110521, "title": "We Are the Marines", "original_title": "We Are the Marines", "slug_title": "we-are-the-marines", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VYD5m23oZK1ZcJOeqHJyj2yFyD.jpg", "actors": ["Westbrook Van Voorhis (Narrator)"], "comments": [], "recommandations_id": []}

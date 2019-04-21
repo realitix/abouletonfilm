@@ -1,0 +1,1 @@
+{"tmdb_id": 515379, "title": "Capital", "original_title": "Capital", "slug_title": "capital", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7aufnf9TbdtX6DowZigytQPv2DW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 263384, "title": "Teo the Redhead", "original_title": "Teo el pelirrojo", "slug_title": "teo-the-redhead", "date": "1986-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGUEh2lNY0bw4bgrD2KBgG5Rvrs.jpg", "actors": [], "comments": [], "recommandations_id": []}

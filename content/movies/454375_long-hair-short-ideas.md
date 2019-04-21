@@ -1,0 +1,1 @@
+{"tmdb_id": 454375, "title": "Long Hair, Short Ideas", "original_title": "Long Hair, Short Ideas", "slug_title": "long-hair-short-ideas", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

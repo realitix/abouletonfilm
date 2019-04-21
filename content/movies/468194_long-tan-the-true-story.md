@@ -1,0 +1,1 @@
+{"tmdb_id": 468194, "title": "Long Tan: The True Story", "original_title": "Long Tan: The True Story", "slug_title": "long-tan-the-true-story", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPhPAd3sxhDWMsr2lg7p4PadwJQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

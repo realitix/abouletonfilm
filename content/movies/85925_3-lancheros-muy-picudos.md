@@ -1,0 +1,1 @@
+{"tmdb_id": 85925, "title": "3 Lancheros Muy Picudos", "original_title": "3 Lancheros Muy Picudos", "slug_title": "3-lancheros-muy-picudos", "date": "1989-08-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/viZPoJcboGeJLg2XOulb3UtoHh3.jpg", "actors": [], "comments": [], "recommandations_id": []}

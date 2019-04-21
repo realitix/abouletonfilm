@@ -1,0 +1,1 @@
+{"tmdb_id": 518745, "title": "Dynamic Field Series", "original_title": "Dynamic Field Series", "slug_title": "dynamic-field-series", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zb9noeTxEILMtaFtz3Anz4K0xzB.jpg", "actors": [], "comments": [], "recommandations_id": []}

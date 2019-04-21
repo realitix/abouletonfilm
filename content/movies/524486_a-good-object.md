@@ -1,0 +1,1 @@
+{"tmdb_id": 524486, "title": "A Good Object", "original_title": "A Good Object", "slug_title": "a-good-object", "date": "2015-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

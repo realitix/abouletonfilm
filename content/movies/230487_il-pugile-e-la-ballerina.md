@@ -1,0 +1,1 @@
+{"tmdb_id": 230487, "title": "Il pugile e la ballerina", "original_title": "Il pugile e la ballerina", "slug_title": "il-pugile-e-la-ballerina", "date": "2007-04-17", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iouSW2AhFJyKwDNTouYrZWWgDUZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

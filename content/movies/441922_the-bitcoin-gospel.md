@@ -1,0 +1,1 @@
+{"tmdb_id": 441922, "title": "The Bitcoin Gospel", "original_title": "The Bitcoin Gospel", "slug_title": "the-bitcoin-gospel", "date": "2015-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrzABcvCnTG1kPyWMI5oYO9oz3v.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389817, "title": "World Poker Players Conference 2004", "original_title": "World Poker Players Conference 2004", "slug_title": "world-poker-players-conference-2004", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

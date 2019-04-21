@@ -1,0 +1,1 @@
+{"tmdb_id": 556779, "title": "War Paint", "original_title": "War Paint", "slug_title": "war-paint", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

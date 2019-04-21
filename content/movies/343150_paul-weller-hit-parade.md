@@ -1,0 +1,1 @@
+{"tmdb_id": 343150, "title": "Paul Weller \u200e\u2013 Hit Parade", "original_title": "Paul Weller \u200e\u2013 Hit Parade", "slug_title": "paul-weller-hit-parade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

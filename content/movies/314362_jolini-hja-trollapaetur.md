@@ -1,0 +1,1 @@
+{"tmdb_id": 314362, "title": "J\u00f3lini hj\u00e1 tr\u00f8llap\u00e6tur", "original_title": "J\u00f3lini hj\u00e1 tr\u00f8llap\u00e6tur", "slug_title": "jolini-hja-trollapaetur", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

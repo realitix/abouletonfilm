@@ -1,0 +1,1 @@
+{"tmdb_id": 450616, "title": "Dodder Flowers", "original_title": "\u83df\u7d72\u82b1", "slug_title": "dodder-flowers", "date": "1965-09-25", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wang Ling ()", "Helen Li Mei ()", "Peter Yang Kwan ()", "Liu Wei-Bin ()", "Chu Mu ()"], "comments": [], "recommandations_id": []}

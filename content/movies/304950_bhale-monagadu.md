@@ -1,0 +1,1 @@
+{"tmdb_id": 304950, "title": "Bhale Monagadu", "original_title": "Bhale Monagadu", "slug_title": "bhale-monagadu", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

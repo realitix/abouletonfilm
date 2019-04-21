@@ -1,0 +1,1 @@
+{"tmdb_id": 422642, "title": "Fantastic Beasts 5", "original_title": "Fantastic Beasts 5", "slug_title": "fantastic-beasts-5", "date": "2024-12-31", "genre": "Aventure / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Redmayne (Newt Scamander)"], "comments": [], "recommandations_id": []}

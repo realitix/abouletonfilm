@@ -1,0 +1,1 @@
+{"tmdb_id": 284636, "title": "Un jour dans la mort de Sarajevo", "original_title": "Un jour dans la mort de Sarajevo", "slug_title": "un-jour-dans-la-mort-de-sarajevo", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 154195, "title": "RoboDoc Dissected: The Making of RoboDoc", "original_title": "RoboDoc Dissected: The Making of RoboDoc", "slug_title": "robodoc-dissected-the-making-of-robodoc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

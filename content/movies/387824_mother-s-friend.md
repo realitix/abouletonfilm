@@ -1,0 +1,1 @@
+{"tmdb_id": 387824, "title": "Mother's Friend", "original_title": "\uc5c4\ub9c8\uce5c\uad6c", "slug_title": "mother-s-friend", "date": "2015-08-20", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHaHz1H2d0ia35wu5gxHfMqrTxQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

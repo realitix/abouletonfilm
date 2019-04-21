@@ -1,0 +1,1 @@
+{"tmdb_id": 304840, "title": "Bagdad after Midnite", "original_title": "Bagdad after Midnite", "slug_title": "bagdad-after-midnite", "date": "1954-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

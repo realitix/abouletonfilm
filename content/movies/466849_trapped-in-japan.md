@@ -1,0 +1,1 @@
+{"tmdb_id": 466849, "title": "Trapped in Japan", "original_title": "Atrapados en Jap\u00f3n", "slug_title": "trapped-in-japan", "date": "2015-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyzrJhEDKdHeo3pm9qzurju4NYf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 376427, "title": "10 Minute Trainer: Lower Body", "original_title": "10 Minute Trainer: Lower Body", "slug_title": "10-minute-trainer-lower-body", "date": "2007-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h06k6tObkO3bbKeDQgwrDA0EWeP.jpg", "actors": [], "comments": [], "recommandations_id": []}

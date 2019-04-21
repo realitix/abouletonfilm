@@ -1,0 +1,1 @@
+{"tmdb_id": 309116, "title": "Daulat Ke Dushman", "original_title": "Daulat Ke Dushman", "slug_title": "daulat-ke-dushman", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

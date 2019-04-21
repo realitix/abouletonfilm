@@ -1,0 +1,1 @@
+{"tmdb_id": 292984, "title": "Stay Tuned For Murder", "original_title": "Stay Tuned For Murder", "slug_title": "stay-tuned-for-murder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

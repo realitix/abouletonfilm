@@ -1,0 +1,1 @@
+{"tmdb_id": 527848, "title": "Bastards of Young", "original_title": "Bastards of Young", "slug_title": "bastards-of-young", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruvAFdKLZt1S4DK1aRTY7nN0inn.jpg", "actors": [], "comments": [], "recommandations_id": []}

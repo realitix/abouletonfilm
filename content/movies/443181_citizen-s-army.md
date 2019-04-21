@@ -1,0 +1,1 @@
+{"tmdb_id": 443181, "title": "Citizen's Army", "original_title": "Citizen's Army", "slug_title": "citizen-s-army", "date": "1941-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

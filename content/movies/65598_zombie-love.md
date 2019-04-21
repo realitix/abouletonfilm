@@ -1,0 +1,1 @@
+{"tmdb_id": 65598, "title": "Zombie Love", "original_title": "Zombie Love", "slug_title": "zombie-love", "date": "2007-04-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5obJptTJvs0BIS5NxwVTbdlR9P8.jpg", "actors": [], "comments": [], "recommandations_id": []}

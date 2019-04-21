@@ -1,0 +1,1 @@
+{"tmdb_id": 31783, "title": "WEC 1: Princes of Pain", "original_title": "WEC 1: Princes of Pain", "slug_title": "wec-1-princes-of-pain", "date": "2001-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

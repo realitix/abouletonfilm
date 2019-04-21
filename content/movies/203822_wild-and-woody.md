@@ -1,0 +1,1 @@
+{"tmdb_id": 203822, "title": "Wild and Woody!", "original_title": "Wild and Woody!", "slug_title": "wild-and-woody", "date": "1948-12-31", "genre": "Animation", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/np4BQbnZoYemstz4W8RZAv90Klf.jpg", "actors": [], "comments": [], "recommandations_id": [87206, 73690, 61447, 234760]}

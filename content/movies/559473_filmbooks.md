@@ -1,0 +1,1 @@
+{"tmdb_id": 559473, "title": "Filmbooks", "original_title": "Filmb\u00fccher", "slug_title": "filmbooks", "date": "1986-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564576, "title": "Beggars and Proud Ones", "original_title": "Mendiants et orgueilleux", "slug_title": "beggars-and-proud-ones", "date": "1972-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sPVVnCsT4AdIioyMbMJszYd5oq5.jpg", "actors": [], "comments": [], "recommandations_id": []}

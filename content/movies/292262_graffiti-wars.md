@@ -1,0 +1,1 @@
+{"tmdb_id": 292262, "title": "Graffiti Wars", "original_title": "Graffiti Wars", "slug_title": "graffiti-wars", "date": "2011-08-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzVdvyEKC7iAa8jJvFW0T1mp5u9.jpg", "actors": ["Kenneth Cranham (Narrator (Voice))"], "comments": [], "recommandations_id": []}

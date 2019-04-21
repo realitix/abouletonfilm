@@ -1,0 +1,1 @@
+{"tmdb_id": 137074, "title": "The Ethnographer", "original_title": "El etn\u00f3grafo", "slug_title": "the-ethnographer", "date": "2012-04-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scDayoy2dYDyeFNkvxBn3VL7w0I.jpg", "actors": [], "comments": [], "recommandations_id": []}

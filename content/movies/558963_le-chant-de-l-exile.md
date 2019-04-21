@@ -1,0 +1,1 @@
+{"tmdb_id": 558963, "title": "Le chant de l'exil\u00e9", "original_title": "Le chant de l'exil\u00e9", "slug_title": "le-chant-de-l-exile", "date": "1943-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Jv0lyMzlLUOsm9kokBZGnwsRko.jpg", "actors": [], "comments": [], "recommandations_id": []}

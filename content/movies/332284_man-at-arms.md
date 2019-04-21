@@ -1,0 +1,1 @@
+{"tmdb_id": 332284, "title": "Man at Arms", "original_title": "Man at Arms", "slug_title": "man-at-arms", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

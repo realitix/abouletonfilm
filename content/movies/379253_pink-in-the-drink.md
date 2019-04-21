@@ -1,0 +1,1 @@
+{"tmdb_id": 379253, "title": "Pink in the Drink", "original_title": "Pink in the Drink", "slug_title": "pink-in-the-drink", "date": "1978-12-20", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlSYrjuS2jt3vYWb3QgZMqhOFDe.jpg", "actors": [], "comments": [], "recommandations_id": []}

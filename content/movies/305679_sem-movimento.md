@@ -1,0 +1,1 @@
+{"tmdb_id": 305679, "title": "Sem Movimento", "original_title": "Sem Movimento", "slug_title": "sem-movimento", "date": "2000-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isabel Abreu ()", "Dinarte Branco ()", "Ricardo Gross ()", "Ant\u00f3nio Pedroso ()"], "comments": [], "recommandations_id": []}

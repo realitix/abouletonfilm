@@ -1,0 +1,1 @@
+{"tmdb_id": 537710, "title": "Ten Bullets", "original_title": "Ten Bullets", "slug_title": "ten-bullets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

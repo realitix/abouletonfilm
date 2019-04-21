@@ -1,0 +1,1 @@
+{"tmdb_id": 431818, "title": "El baile", "original_title": "El baile", "slug_title": "el-baile", "date": "1983-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j33ZeyTqxxx1wrENeKfBQ02NVOj.jpg", "actors": ["Humberto Luna ()"], "comments": [], "recommandations_id": []}

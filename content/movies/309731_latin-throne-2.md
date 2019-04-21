@@ -1,0 +1,1 @@
+{"tmdb_id": 309731, "title": "Latin Throne 2", "original_title": "Latin Throne 2", "slug_title": "latin-throne-2", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

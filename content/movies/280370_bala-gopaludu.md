@@ -1,0 +1,1 @@
+{"tmdb_id": 280370, "title": "Bala Gopaludu", "original_title": "Bala Gopaludu", "slug_title": "bala-gopaludu", "date": "1989-09-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nandamuri Balakrishna ()", "Suhasini Maniratnam ()", "Mohan Babu ()", "Hema ()"], "comments": [], "recommandations_id": []}

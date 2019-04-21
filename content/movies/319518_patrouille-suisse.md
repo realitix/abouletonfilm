@@ -1,0 +1,1 @@
+{"tmdb_id": 319518, "title": "Patrouille Suisse", "original_title": "Patrouille Suisse", "slug_title": "patrouille-suisse", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

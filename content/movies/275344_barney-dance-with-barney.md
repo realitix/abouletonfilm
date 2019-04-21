@@ -1,0 +1,1 @@
+{"tmdb_id": 275344, "title": "Barney: Dance With Barney", "original_title": "Barney: Dance With Barney", "slug_title": "barney-dance-with-barney", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

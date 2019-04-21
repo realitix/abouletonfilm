@@ -1,0 +1,1 @@
+{"tmdb_id": 139648, "title": "We Are the Mods", "original_title": "We Are the Mods", "slug_title": "we-are-the-mods", "date": "2009-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ifwHVwX5f0DAXI9rvZkm6gk6PsZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

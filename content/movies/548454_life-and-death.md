@@ -1,0 +1,1 @@
+{"tmdb_id": 548454, "title": "Life and Death", "original_title": "Shengsi tongxin", "slug_title": "life-and-death", "date": "1936-11-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daUL8NBchzUHurmXKd8ioTYjnLN.jpg", "actors": [], "comments": [], "recommandations_id": []}

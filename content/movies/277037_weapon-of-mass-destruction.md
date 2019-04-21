@@ -1,0 +1,1 @@
+{"tmdb_id": 277037, "title": "Weapon of Mass Destruction", "original_title": "Weapon of Mass Destruction", "slug_title": "weapon-of-mass-destruction", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

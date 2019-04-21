@@ -1,0 +1,1 @@
+{"tmdb_id": 382197, "title": "The Colonial Misunderstanding", "original_title": "Le malentendu colonial", "slug_title": "the-colonial-misunderstanding", "date": "2004-11-18", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6X7uLXJAQfcbaK7Oui0eNT5wVNK.jpg", "actors": [], "comments": [], "recommandations_id": []}

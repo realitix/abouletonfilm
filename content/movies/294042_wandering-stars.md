@@ -1,0 +1,1 @@
+{"tmdb_id": 294042, "title": "Wandering Stars", "original_title": "Bluzhdayushchie zvyozdy", "slug_title": "wandering-stars", "date": "1928-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M. Leorov ()", "I. Dubravim ()", "R. Rami-Shor ()"], "comments": [], "recommandations_id": []}

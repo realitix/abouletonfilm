@@ -1,0 +1,1 @@
+{"tmdb_id": 283456, "title": "Maneki Neko", "original_title": "Maneki Neko", "slug_title": "maneki-neko", "date": "2010-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Javier Lomas ()", "Laura Pomar ()"], "comments": [], "recommandations_id": []}

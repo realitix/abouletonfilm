@@ -1,0 +1,1 @@
+{"tmdb_id": 294749, "title": "Gusto Nang Umuwi ni Joy", "original_title": "Gusto Nang Umuwi ni Joy", "slug_title": "gusto-nang-umuwi-ni-joy", "date": "2014-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGRNNYVeThUlcp7pfovsBmxN2kZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

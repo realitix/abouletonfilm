@@ -1,0 +1,1 @@
+{"tmdb_id": 176220, "title": "Sorrows of the Forbidden City", "original_title": "Qing gong mi shi", "slug_title": "sorrows-of-the-forbidden-city", "date": "1948-11-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9xGbYJRZ09yzS8luWVAUiybSJi.jpg", "actors": [], "comments": [], "recommandations_id": []}

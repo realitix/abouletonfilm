@@ -1,0 +1,1 @@
+{"tmdb_id": 284197, "title": "Helveticus", "original_title": "Helveticus", "slug_title": "helveticus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

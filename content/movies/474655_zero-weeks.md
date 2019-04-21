@@ -1,0 +1,1 @@
+{"tmdb_id": 474655, "title": "Zero Weeks", "original_title": "Zero Weeks", "slug_title": "zero-weeks", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5t6k4LlHLdI32nGS2NsIefllM9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

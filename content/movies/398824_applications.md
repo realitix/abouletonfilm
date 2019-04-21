@@ -1,0 +1,1 @@
+{"tmdb_id": 398824, "title": "Applications", "original_title": "Applications", "slug_title": "applications", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

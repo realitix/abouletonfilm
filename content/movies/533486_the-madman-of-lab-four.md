@@ -1,0 +1,1 @@
+{"tmdb_id": 533486, "title": "The Madman of Lab Four", "original_title": "Le fou du labo IV", "slug_title": "the-madman-of-lab-four", "date": "1967-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VaIyb21rFB2XRZ9bWdG6ah6Ide.jpg", "actors": [], "comments": [], "recommandations_id": []}

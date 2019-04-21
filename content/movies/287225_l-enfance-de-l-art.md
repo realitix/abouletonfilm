@@ -1,0 +1,1 @@
+{"tmdb_id": 287225, "title": "L'Enfance de l'art", "original_title": "L'Enfance de l'art", "slug_title": "l-enfance-de-l-art", "date": "1992-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aYLWrofb3jGQaW5LD2HCDgGUez.jpg", "actors": [], "comments": [], "recommandations_id": []}

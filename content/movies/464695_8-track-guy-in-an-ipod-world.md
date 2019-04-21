@@ -1,0 +1,1 @@
+{"tmdb_id": 464695, "title": "8-Track Guy in an iPod World", "original_title": "8-Track Guy in an iPod World", "slug_title": "8-track-guy-in-an-ipod-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dennis Swanberg (Himself)"], "comments": [], "recommandations_id": []}

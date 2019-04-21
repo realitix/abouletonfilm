@@ -1,0 +1,1 @@
+{"tmdb_id": 143934, "title": "Jorn: Live in Black", "original_title": "Jorn: Live in Black", "slug_title": "jorn-live-in-black", "date": "2011-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuXq08uFcCu4B4UT5DymKebuCWY.jpg", "actors": [], "comments": [], "recommandations_id": []}

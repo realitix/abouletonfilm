@@ -1,0 +1,1 @@
+{"tmdb_id": 100216, "title": "Wilco: Shake It Off", "original_title": "Wilco: Shake It Off", "slug_title": "wilco-shake-it-off", "date": "2007-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gh5sOJi3OUlefZ55Eu8OycIOdwz.jpg", "actors": [], "comments": [], "recommandations_id": []}

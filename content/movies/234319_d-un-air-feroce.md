@@ -1,0 +1,1 @@
+{"tmdb_id": 234319, "title": "D'un air f\u00e9roce", "original_title": "Shot and Bothered", "slug_title": "d-un-air-feroce", "date": "1966-01-08", "genre": "Animation", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xeB71Mx7VczLQy8JMFglDpA356D.jpg", "actors": [], "comments": [], "recommandations_id": []}

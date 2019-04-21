@@ -1,0 +1,1 @@
+{"tmdb_id": 309491, "title": "Jamie Foxx Presents: America's Funniest Comics: Vol. 4", "original_title": "Jamie Foxx Presents: America's Funniest Comics: Vol. 4", "slug_title": "jamie-foxx-presents-america-s-funniest-comics-vol-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 374586, "title": "Seafood", "original_title": "Haixian", "slug_title": "seafood", "date": "2001-09-28", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4xIb7SWpWEqvJNBLGt8CejZkuJw.jpg", "actors": ["Zi Jin ()", "Cheng Taishen ()"], "comments": [], "recommandations_id": []}

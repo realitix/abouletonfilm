@@ -1,0 +1,1 @@
+{"tmdb_id": 314038, "title": "The Prince of Whales", "original_title": "The Prince of Whales", "slug_title": "the-prince-of-whales", "date": "1927-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

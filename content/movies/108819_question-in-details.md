@@ -1,0 +1,1 @@
+{"tmdb_id": 108819, "title": "Question in Details", "original_title": "K\u00f6nt\u00f6rfalak", "slug_title": "question-in-details", "date": "2010-02-11", "genre": "Drame / Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goqd4aQko9cQBb0ZoKj5iFpSe2h.jpg", "actors": [], "comments": [], "recommandations_id": []}

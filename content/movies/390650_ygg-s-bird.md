@@ -1,0 +1,1 @@
+{"tmdb_id": 390650, "title": "Ygg's Bird", "original_title": "\u30e6\u30c3\u30b0\u306e\u9ce5", "slug_title": "ygg-s-bird", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPvJCDV7zZGx0NOSHNnVTMKno77.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498798, "title": "P90X2: Chest, Back & Balance", "original_title": "P90X2: Chest, Back & Balance", "slug_title": "p90x2-chest-back-balance", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81YPCnKkVlWO0v9U7NvZhMVMKnD.jpg", "actors": [], "comments": [], "recommandations_id": []}

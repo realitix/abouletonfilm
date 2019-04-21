@@ -1,0 +1,1 @@
+{"tmdb_id": 302748, "title": "Jai Karoli Maa", "original_title": "Jai Karoli Maa", "slug_title": "jai-karoli-maa", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

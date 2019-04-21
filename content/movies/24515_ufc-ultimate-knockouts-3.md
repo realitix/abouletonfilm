@@ -1,0 +1,1 @@
+{"tmdb_id": 24515, "title": "UFC Ultimate Knockouts 3", "original_title": "UFC Ultimate Knockouts 3", "slug_title": "ufc-ultimate-knockouts-3", "date": "2004-12-14", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bNdEDA1lVpbT7XhmwoCPY9q05w4.jpg", "actors": [], "comments": [], "recommandations_id": []}

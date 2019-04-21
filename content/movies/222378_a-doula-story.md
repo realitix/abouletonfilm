@@ -1,0 +1,1 @@
+{"tmdb_id": 222378, "title": "A Doula Story", "original_title": "A Doula Story", "slug_title": "a-doula-story", "date": "2005-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQvBvkIQjcDc3HH4GuBIBe2Y4T3.jpg", "actors": [], "comments": [], "recommandations_id": []}

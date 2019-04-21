@@ -1,0 +1,1 @@
+{"tmdb_id": 71424, "title": "K1 World MAX 2007 Japan Tournament", "original_title": "K1 World MAX 2007 Japan Tournament", "slug_title": "k1-world-max-2007-japan-tournament", "date": "", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5e1BQRGP3N2cj5bfpYVt9hV9zA.jpg", "actors": [], "comments": [], "recommandations_id": []}

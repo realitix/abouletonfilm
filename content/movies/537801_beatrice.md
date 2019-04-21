@@ -1,0 +1,1 @@
+{"tmdb_id": 537801, "title": "Beatrice", "original_title": "Beatrice", "slug_title": "beatrice", "date": "2017-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aN9ZXulJRDzPYgvvwd8S9ZDilDC.jpg", "actors": ["Beatrice Vio ()"], "comments": [], "recommandations_id": []}

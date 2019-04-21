@@ -1,0 +1,1 @@
+{"tmdb_id": 501266, "title": "The CLR James Lectures", "original_title": "The CLR James Lectures", "slug_title": "the-clr-james-lectures", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["CLR James (Himself)"], "comments": [], "recommandations_id": []}

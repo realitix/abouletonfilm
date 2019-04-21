@@ -1,0 +1,1 @@
+{"tmdb_id": 285808, "title": "Petersburg Slums", "original_title": "Peterburgskiye trushchobi", "slug_title": "petersburg-slums", "date": "1915-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vladimir Maksimov ()", "Ivan Mosjoukine ()", "Olga Preobrazhenskaya ()"], "comments": [], "recommandations_id": []}

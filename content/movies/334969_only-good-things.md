@@ -1,0 +1,1 @@
+{"tmdb_id": 334969, "title": "Only Good Things", "original_title": "Only Good Things", "slug_title": "only-good-things", "date": "2010-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

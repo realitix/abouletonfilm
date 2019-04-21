@@ -1,0 +1,1 @@
+{"tmdb_id": 297312, "title": "Svet-Ake", "original_title": "Svet-Ake", "slug_title": "svet-ake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aktan Arym Kubat (Svet-Ake)"], "comments": [], "recommandations_id": []}

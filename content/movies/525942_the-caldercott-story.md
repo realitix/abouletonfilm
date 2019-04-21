@@ -1,0 +1,1 @@
+{"tmdb_id": 525942, "title": "The Caldercott Story", "original_title": "The Caldercott Story", "slug_title": "the-caldercott-story", "date": "1985-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

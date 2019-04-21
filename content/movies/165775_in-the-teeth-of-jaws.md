@@ -1,0 +1,1 @@
+{"tmdb_id": 165775, "title": "In the Teeth of Jaws", "original_title": "In the Teeth of Jaws", "slug_title": "in-the-teeth-of-jaws", "date": "1997-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQVliR427cuRrrgo8fCsHldVCnf.jpg", "actors": [], "comments": [], "recommandations_id": []}

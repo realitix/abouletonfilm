@@ -1,0 +1,1 @@
+{"tmdb_id": 161694, "title": "The Voice of John", "original_title": "The Voice of John", "slug_title": "the-voice-of-john", "date": "2012-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

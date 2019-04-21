@@ -1,0 +1,1 @@
+{"tmdb_id": 390503, "title": "Spots Spots", "original_title": "Spots Spots", "slug_title": "spots-spots", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4i6d3BIfHsYeeuiCkE8kof3NsG7.jpg", "actors": [], "comments": [], "recommandations_id": []}

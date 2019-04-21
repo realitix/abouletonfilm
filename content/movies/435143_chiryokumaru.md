@@ -1,0 +1,1 @@
+{"tmdb_id": 435143, "title": "Chiryokumaru", "original_title": "Chiryokumaru", "slug_title": "chiryokumaru", "date": "2016-11-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVYIJ6oQF4i5MY7V2nbY2IzIZ36.jpg", "actors": [], "comments": [], "recommandations_id": []}

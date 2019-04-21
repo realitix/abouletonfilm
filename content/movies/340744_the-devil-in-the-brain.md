@@ -1,0 +1,1 @@
+{"tmdb_id": 340744, "title": "The Devil in the Brain", "original_title": "Il demonio nel cervello", "slug_title": "the-devil-in-the-brain", "date": "1976-01-01", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Maimone ()", "Christiana Borghi ()", "Piero Fabiani ()"], "comments": [], "recommandations_id": []}

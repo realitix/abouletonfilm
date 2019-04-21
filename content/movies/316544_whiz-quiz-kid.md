@@ -1,0 +1,1 @@
+{"tmdb_id": 316544, "title": "Whiz Quiz Kid", "original_title": "Whiz Quiz Kid", "slug_title": "whiz-quiz-kid", "date": "1964-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

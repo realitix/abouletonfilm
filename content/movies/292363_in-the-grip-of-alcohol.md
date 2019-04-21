@@ -1,0 +1,1 @@
+{"tmdb_id": 292363, "title": "In the Grip of Alcohol", "original_title": "Victimes de l'alcoolisme", "slug_title": "in-the-grip-of-alcohol", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gabrielle Lange ()", "Jacques Normand ()", "Pierre Pradier ()"], "comments": [], "recommandations_id": []}

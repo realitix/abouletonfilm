@@ -1,0 +1,1 @@
+{"tmdb_id": 340974, "title": "Churchill's Desert War: The Road to El Alamein", "original_title": "Churchill's Desert War: The Road to El Alamein", "slug_title": "churchill-s-desert-war-the-road-to-el-alamein", "date": "2012-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

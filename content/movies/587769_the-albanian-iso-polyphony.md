@@ -1,0 +1,1 @@
+{"tmdb_id": 587769, "title": "The Albanian Iso Polyphony", "original_title": "The Albanian Iso Polyphony", "slug_title": "the-albanian-iso-polyphony", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 513218, "title": "Vit\u00e9z L\u00e1szl\u00f3 \u00e9s a t\u00f6bbiek 1", "original_title": "Vit\u00e9z L\u00e1szl\u00f3 \u00e9s a t\u00f6bbiek 1", "slug_title": "vitez-laszlo-es-a-tobbiek-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

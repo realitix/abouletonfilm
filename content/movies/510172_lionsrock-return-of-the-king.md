@@ -1,0 +1,1 @@
+{"tmdb_id": 510172, "title": "Lionsrock: Return Of The King", "original_title": "Lionsrock: Return Of The King", "slug_title": "lionsrock-return-of-the-king", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/je6ca4RmMeTYU5Heyumj2Hx0B6A.jpg", "actors": [], "comments": [], "recommandations_id": []}

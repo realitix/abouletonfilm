@@ -1,0 +1,1 @@
+{"tmdb_id": 551393, "title": "The Lady Oscar Story", "original_title": "The Lady Oscar Story", "slug_title": "the-lady-oscar-story", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9JV9msXNfbVQCozFKgD4ApYsfY.jpg", "actors": [], "comments": [], "recommandations_id": []}

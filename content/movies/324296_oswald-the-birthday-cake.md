@@ -1,0 +1,1 @@
+{"tmdb_id": 324296, "title": "Oswald - The Birthday Cake", "original_title": "Oswald - The Birthday Cake", "slug_title": "oswald-the-birthday-cake", "date": "2007-04-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cg86no0xqkeTNgF3CNzjzGjzhil.jpg", "actors": [], "comments": [], "recommandations_id": []}

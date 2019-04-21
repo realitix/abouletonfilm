@@ -1,0 +1,1 @@
+{"tmdb_id": 298611, "title": "O samba que mora em mim", "original_title": "O samba que mora em mim", "slug_title": "o-samba-que-mora-em-mim", "date": "2010-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timbaca ()", "Cosminho ()", "Lili ()", "V\u00f3 Luciola ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 417272, "title": "Quando Morremos \u00e0 Noite", "original_title": "Quando Morremos \u00e0 Noite", "slug_title": "quando-morremos-a-noite", "date": "2011-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

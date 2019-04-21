@@ -1,0 +1,1 @@
+{"tmdb_id": 310925, "title": "The Run of His Life: The People v. O.J. Simpson", "original_title": "The Run of His Life: The People v. O.J. Simpson", "slug_title": "the-run-of-his-life-the-people-v-o-j-simpson", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

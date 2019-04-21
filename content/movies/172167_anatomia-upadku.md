@@ -1,0 +1,1 @@
+{"tmdb_id": 172167, "title": "Anatomia upadku", "original_title": "Anatomia upadku", "slug_title": "anatomia-upadku", "date": "2013-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNcx5becIJgyNQqTp5g24HTnMBC.jpg", "actors": [], "comments": [], "recommandations_id": []}

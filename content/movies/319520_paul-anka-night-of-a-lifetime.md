@@ -1,0 +1,1 @@
+{"tmdb_id": 319520, "title": "Paul Anka: Night of a Lifetime", "original_title": "Paul Anka: Night of a Lifetime", "slug_title": "paul-anka-night-of-a-lifetime", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vp5nal9kc78pMGCBPoYJo0OWeLm.jpg", "actors": [], "comments": [], "recommandations_id": []}

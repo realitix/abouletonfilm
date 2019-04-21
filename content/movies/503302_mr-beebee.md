@@ -1,0 +1,1 @@
+{"tmdb_id": 503302, "title": "Mr. Beebee", "original_title": "Mr. Beebee", "slug_title": "mr-beebee", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Hh9RSoESfuUJ15hwHAGaaezW0m.jpg", "actors": ["Ernie Hudson (Wayne Proctor)"], "comments": [], "recommandations_id": []}

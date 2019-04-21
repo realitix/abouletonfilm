@@ -1,0 +1,1 @@
+{"tmdb_id": 482727, "title": "Being Bucky", "original_title": "Being Bucky", "slug_title": "being-bucky", "date": "2009-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cAvTmBQrHNdJeYVuac9i8jLeGJI.jpg", "actors": [], "comments": [], "recommandations_id": []}

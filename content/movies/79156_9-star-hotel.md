@@ -1,0 +1,1 @@
+{"tmdb_id": 79156, "title": "9 Star Hotel", "original_title": "Malon 9 Kochavim", "slug_title": "9-star-hotel", "date": "2007-07-22", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nPJZKttGEU6xPj2mZAs5AO4OCJR.jpg", "actors": [], "comments": [], "recommandations_id": []}

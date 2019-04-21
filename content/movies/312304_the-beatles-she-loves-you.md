@@ -1,0 +1,1 @@
+{"tmdb_id": 312304, "title": "The Beatles: She Loves You", "original_title": "The Beatles: She Loves You", "slug_title": "the-beatles-she-loves-you", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

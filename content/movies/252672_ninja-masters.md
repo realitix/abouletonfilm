@@ -1,0 +1,1 @@
+{"tmdb_id": 252672, "title": "Ninja Masters", "original_title": "Ninja Masters", "slug_title": "ninja-masters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

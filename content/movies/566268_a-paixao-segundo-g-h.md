@@ -1,0 +1,1 @@
+{"tmdb_id": 566268, "title": "A Paix\u00e3o Segundo G.H.", "original_title": "A Paix\u00e3o Segundo G.H.", "slug_title": "a-paixao-segundo-g-h", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Fernanda C\u00e2ndido (G.H.)"], "comments": [], "recommandations_id": []}

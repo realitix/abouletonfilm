@@ -1,0 +1,1 @@
+{"tmdb_id": 575955, "title": "Uncle Bingo", "original_title": "Uncle Bingo", "slug_title": "uncle-bingo", "date": "2018-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zzBik6XQNfTFQyB9QUe1cgR9sCH.jpg", "actors": ["Reuben Cain ()", "John Delacour ()"], "comments": [], "recommandations_id": []}

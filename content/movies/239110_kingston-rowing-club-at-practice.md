@@ -1,0 +1,1 @@
+{"tmdb_id": 239110, "title": "Kingston Rowing Club at Practice", "original_title": "Kingston Rowing Club at Practice", "slug_title": "kingston-rowing-club-at-practice", "date": "1902-11-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

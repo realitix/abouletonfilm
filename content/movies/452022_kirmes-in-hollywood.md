@@ -1,0 +1,1 @@
+{"tmdb_id": 452022, "title": "Kirmes in Hollywood", "original_title": "Kirmes in Hollywood", "slug_title": "kirmes-in-hollywood", "date": "1929-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

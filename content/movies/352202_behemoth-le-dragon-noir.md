@@ -1,0 +1,1 @@
+{"tmdb_id": 352202, "title": "Behemoth - Le dragon noir", "original_title": "\u60b2\u516e\u9b54\u517d", "slug_title": "behemoth-le-dragon-noir", "date": "2015-11-11", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aoomIXBtZUZgge8qcV0yHmEhIV1.jpg", "actors": [], "comments": [], "recommandations_id": [36615]}

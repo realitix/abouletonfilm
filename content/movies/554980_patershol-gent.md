@@ -1,0 +1,1 @@
+{"tmdb_id": 554980, "title": "Patershol, Gent", "original_title": "Patershol, Gent", "slug_title": "patershol-gent", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

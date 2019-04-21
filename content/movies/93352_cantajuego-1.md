@@ -1,0 +1,1 @@
+{"tmdb_id": 93352, "title": "CantaJuego 1", "original_title": "CantaJuego 1", "slug_title": "cantajuego-1", "date": "2004-01-01", "genre": "Musique / Familial", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tald9cGhhUAmp9WrxFIjd8tKaSt.jpg", "actors": [], "comments": [], "recommandations_id": []}

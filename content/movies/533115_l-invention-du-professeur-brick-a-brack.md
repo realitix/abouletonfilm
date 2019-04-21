@@ -1,0 +1,1 @@
+{"tmdb_id": 533115, "title": "L'invention du professeur Brick-\u00e0-Brack", "original_title": "L'invention du professeur Brick-\u00e0-Brack", "slug_title": "l-invention-du-professeur-brick-a-brack", "date": "1908-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

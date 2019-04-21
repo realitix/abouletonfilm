@@ -1,0 +1,1 @@
+{"tmdb_id": 240530, "title": "Fishing in Greenland", "original_title": "Fiskeri ved Gr\u00f8nland", "slug_title": "fishing-in-greenland", "date": "1932-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15tg13Db5VVFUCLtMYTDdZfKo9h.jpg", "actors": [], "comments": [], "recommandations_id": []}

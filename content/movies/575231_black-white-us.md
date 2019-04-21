@@ -1,0 +1,1 @@
+{"tmdb_id": 575231, "title": "Black, White & Us", "original_title": "Black, White & Us", "slug_title": "black-white-us", "date": "2019-01-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzLyurt9UUkAIdbuEaYGydP41k.jpg", "actors": [], "comments": [], "recommandations_id": []}

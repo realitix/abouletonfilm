@@ -1,0 +1,1 @@
+{"tmdb_id": 201996, "title": "Little Cheeser", "original_title": "Little Cheeser", "slug_title": "little-cheeser", "date": "1936-11-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJVntxtS8SiBmw4oTWvoon8Qngh.jpg", "actors": ["Bernice Hansen (Little Cheeser)"], "comments": [], "recommandations_id": []}

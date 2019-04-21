@@ -1,0 +1,1 @@
+{"tmdb_id": 549652, "title": "\u901f\u6c42\u5171\u7720", "original_title": "\u901f\u6c42\u5171\u7720", "slug_title": "su-qiu-gong-mian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

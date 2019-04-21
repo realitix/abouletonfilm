@@ -1,0 +1,1 @@
+{"tmdb_id": 258012, "title": "The Minister of State", "original_title": "Stol p\u00e5 ministeren", "slug_title": "the-minister-of-state", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A42cWVhaRo3ZwiPGE5LKry0aMvq.jpg", "actors": ["Mikkel Gaup (Ante)"], "comments": [], "recommandations_id": []}

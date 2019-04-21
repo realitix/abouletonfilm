@@ -1,0 +1,1 @@
+{"tmdb_id": 539151, "title": "A Trip to the White Sea Fisheries", "original_title": "A Trip to the White Sea Fisheries", "slug_title": "a-trip-to-the-white-sea-fisheries", "date": "1909-07-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

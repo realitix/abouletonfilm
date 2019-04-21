@@ -1,0 +1,1 @@
+{"tmdb_id": 550981, "title": "La l\u00e1grima del diablo", "original_title": "La l\u00e1grima del diablo", "slug_title": "la-lagrima-del-diablo", "date": "1960-09-28", "genre": "Fantastique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

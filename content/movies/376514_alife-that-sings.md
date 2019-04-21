@@ -1,0 +1,1 @@
+{"tmdb_id": 376514, "title": "\uff21Life That Sings", "original_title": "\u5982\u6b4c\u7684\u884c\u677f", "slug_title": "alife-that-sings", "date": "2014-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0sIMUItLddgnOa9zBTglvuiCCo.jpg", "actors": [], "comments": [], "recommandations_id": []}

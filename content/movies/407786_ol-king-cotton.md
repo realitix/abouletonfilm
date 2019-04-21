@@ -1,0 +1,1 @@
+{"tmdb_id": 407786, "title": "Ol' King Cotton", "original_title": "Ol' King Cotton", "slug_title": "ol-king-cotton", "date": "1930-01-01", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjeLK2UwYX6JifT908Ur2ou5fBL.jpg", "actors": ["George Dewey Washington (George)"], "comments": [], "recommandations_id": []}

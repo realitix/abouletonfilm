@@ -1,0 +1,1 @@
+{"tmdb_id": 445585, "title": "The Photographer", "original_title": "\ud3ec\ud1a0\uadf8\ub798\ud37c", "slug_title": "the-photographer", "date": "2017-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlwRMHq36xITPNmzmyPYHaaaPvi.jpg", "actors": [], "comments": [], "recommandations_id": []}

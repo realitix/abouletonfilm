@@ -1,0 +1,1 @@
+{"tmdb_id": 504797, "title": "Picasso et les photographes", "original_title": "Picasso et les photographes", "slug_title": "picasso-et-les-photographes", "date": "2013-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

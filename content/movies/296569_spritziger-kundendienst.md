@@ -1,0 +1,1 @@
+{"tmdb_id": 296569, "title": "Spritziger Kundendienst", "original_title": "Spritziger Kundendienst", "slug_title": "spritziger-kundendienst", "date": "2003-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8gXf4NiXkVC9K8AcWeUf9kkhZE.jpg", "actors": [], "comments": [], "recommandations_id": []}

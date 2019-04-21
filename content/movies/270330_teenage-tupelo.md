@@ -1,0 +1,1 @@
+{"tmdb_id": 270330, "title": "Teenage Tupelo", "original_title": "Teenage Tupelo", "slug_title": "teenage-tupelo", "date": "1995-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mziI0y7iabSI5QVEVDzKbfTXhq6.jpg", "actors": [], "comments": [], "recommandations_id": []}

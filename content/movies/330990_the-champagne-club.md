@@ -1,0 +1,1 @@
+{"tmdb_id": 330990, "title": "The Champagne Club", "original_title": "The Champagne Club", "slug_title": "the-champagne-club", "date": "2005-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

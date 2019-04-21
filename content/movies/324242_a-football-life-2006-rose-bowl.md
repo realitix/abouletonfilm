@@ -1,0 +1,1 @@
+{"tmdb_id": 324242, "title": "A Football Life: 2006 Rose Bowl", "original_title": "A Football Life: 2006 Rose Bowl", "slug_title": "a-football-life-2006-rose-bowl", "date": "2015-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

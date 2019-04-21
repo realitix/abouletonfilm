@@ -1,0 +1,1 @@
+{"tmdb_id": 294142, "title": "Made in Honduras", "original_title": "Made in Honduras", "slug_title": "made-in-honduras", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

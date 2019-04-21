@@ -1,0 +1,1 @@
+{"tmdb_id": 350528, "title": "\uc544\uce68\uc5d0 \ud1f4\uadfc\ud558\ub294 \uc5ec\uc790", "original_title": "\uc544\uce68\uc5d0 \ud1f4\uadfc\ud558\ub294 \uc5ec\uc790", "slug_title": "acime-toegeunhaneun-yeoja", "date": "1979-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

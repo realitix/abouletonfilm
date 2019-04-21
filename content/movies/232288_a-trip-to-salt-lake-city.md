@@ -1,0 +1,1 @@
+{"tmdb_id": 232288, "title": "A Trip to Salt Lake City", "original_title": "A Trip to Salt Lake City", "slug_title": "a-trip-to-salt-lake-city", "date": "1905-01-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wh2AbZQtAkTDGDsEjkYSYI9ZoaJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

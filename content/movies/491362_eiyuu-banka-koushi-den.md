@@ -1,0 +1,1 @@
+{"tmdb_id": 491362, "title": "Eiyuu Banka Koushi-den", "original_title": "Eiyuu Banka Koushi-den", "slug_title": "eiyuu-banka-koushi-den", "date": "1996-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6wStLJE5RAeEuayBNveKZELJs31.jpg", "actors": [], "comments": [], "recommandations_id": []}

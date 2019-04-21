@@ -1,0 +1,1 @@
+{"tmdb_id": 492895, "title": "Second Best", "original_title": "Second Best", "slug_title": "second-best", "date": "1972-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victoria Ward (Fran)", "Annette Widdowson (Anne)", "Alan Bates (Tom)"], "comments": [], "recommandations_id": []}

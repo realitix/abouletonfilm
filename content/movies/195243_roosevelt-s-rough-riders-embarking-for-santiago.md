@@ -1,0 +1,1 @@
+{"tmdb_id": 195243, "title": "Roosevelt's Rough Riders Embarking for Santiago", "original_title": "Roosevelt's Rough Riders Embarking for Santiago", "slug_title": "roosevelt-s-rough-riders-embarking-for-santiago", "date": "1898-06-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

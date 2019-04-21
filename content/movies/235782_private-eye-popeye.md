@@ -1,0 +1,1 @@
+{"tmdb_id": 235782, "title": "Private Eye Popeye", "original_title": "Private Eye Popeye", "slug_title": "private-eye-popeye", "date": "1954-11-12", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tw6Rl3lbMbLOAP1iC1WFALmvERM.jpg", "actors": [], "comments": [], "recommandations_id": []}

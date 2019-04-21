@@ -1,0 +1,1 @@
+{"tmdb_id": 354040, "title": "Persian Series #12", "original_title": "Persian Series #12", "slug_title": "persian-series-12", "date": "2000-08-11", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/woIcuEYGH6W3vwVbvTc7Hm9Tywa.jpg", "actors": [], "comments": [], "recommandations_id": [357795, 357798, 357802, 354030]}

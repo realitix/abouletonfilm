@@ -1,0 +1,1 @@
+{"tmdb_id": 412653, "title": "Ultimate Sessions", "original_title": "Ultimate Sessions", "slug_title": "ultimate-sessions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g20LpVTvqZbJA3mxf5xvrAaE6VZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

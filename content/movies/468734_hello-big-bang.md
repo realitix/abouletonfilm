@@ -1,0 +1,1 @@
+{"tmdb_id": 468734, "title": "Hello Big Bang", "original_title": "Hello Big Bang", "slug_title": "hello-big-bang", "date": "2011-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h19waQMkhvVUGTB4izHd7Rb8q0J.jpg", "actors": [], "comments": [], "recommandations_id": []}

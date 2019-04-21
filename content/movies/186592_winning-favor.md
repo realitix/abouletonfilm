@@ -1,0 +1,1 @@
+{"tmdb_id": 186592, "title": "Winning Favor", "original_title": "Winning Favor", "slug_title": "winning-favor", "date": "2012-01-01", "genre": "Familial", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kuGeodRnatqEh8Ly1Tq7ndLj6Yu.jpg", "actors": [], "comments": [], "recommandations_id": []}

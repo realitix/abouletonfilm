@@ -1,0 +1,1 @@
+{"tmdb_id": 401393, "title": "Trying Not To Explode", "original_title": "Trying Not To Explode", "slug_title": "trying-not-to-explode", "date": "2015-04-16", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Braden Lynch (Leonard)", "Ivy Khan (Joan)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390972, "title": "Ker\u0161tas", "original_title": "Zevango", "slug_title": "kerstas", "date": "2005-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

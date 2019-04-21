@@ -1,0 +1,1 @@
+{"tmdb_id": 191448, "title": "Warrior Marks", "original_title": "Warrior Marks", "slug_title": "warrior-marks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

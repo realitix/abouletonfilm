@@ -1,0 +1,1 @@
+{"tmdb_id": 425076, "title": "Sharp Edge Blunt", "original_title": "Sharp Edge Blunt", "slug_title": "sharp-edge-blunt", "date": "2010-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPwmQ0WZmfHHRTRbHSWio8rn9e8.jpg", "actors": [], "comments": [], "recommandations_id": []}

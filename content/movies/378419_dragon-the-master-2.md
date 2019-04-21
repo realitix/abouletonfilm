@@ -1,0 +1,1 @@
+{"tmdb_id": 378419, "title": "Dragon the Master 2", "original_title": "\u6230\u9f8d 2", "slug_title": "dragon-the-master-2", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ghPQbVLacWbLDY3mHAejVIGJB17.jpg", "actors": [], "comments": [], "recommandations_id": []}

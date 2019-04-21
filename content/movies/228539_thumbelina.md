@@ -1,0 +1,1 @@
+{"tmdb_id": 228539, "title": "Thumbelina", "original_title": "Thumbelina", "slug_title": "thumbelina", "date": "1993-06-09", "genre": "Familial / Aventure / Animation", "score": "4.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdNu4KSfpwGuABLHb7NpkxYihff.jpg", "actors": [], "comments": [], "recommandations_id": [88651, 141996, 66044, 106973]}

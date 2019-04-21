@@ -1,0 +1,1 @@
+{"tmdb_id": 503253, "title": "Bitter Spring", "original_title": "Pranver\u00eb e hidhur", "slug_title": "bitter-spring", "date": "1985-02-08", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUzGaIDHl4rEs5MUhIkoLJNs6WN.jpg", "actors": ["Rikard Ljarja (Fotografi)"], "comments": [], "recommandations_id": []}

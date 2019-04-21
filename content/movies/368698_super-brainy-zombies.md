@@ -1,0 +1,1 @@
+{"tmdb_id": 368698, "title": "Super Brainy Zombies", "original_title": "Super Brainy Zombies", "slug_title": "super-brainy-zombies", "date": "2014-01-22", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juOONm5RDVUgWE6oZYpXcaYAs4W.jpg", "actors": [], "comments": [], "recommandations_id": []}

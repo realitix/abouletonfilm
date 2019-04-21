@@ -1,0 +1,1 @@
+{"tmdb_id": 236689, "title": "Spinach Fer Britain", "original_title": "Spinach Fer Britain", "slug_title": "spinach-fer-britain", "date": "1943-01-21", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aD0zwnm8MAxQw7SIfB4NdE7SkX8.jpg", "actors": ["Jack Mercer (Popeye)"], "comments": [], "recommandations_id": []}

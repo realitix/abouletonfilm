@@ -1,0 +1,1 @@
+{"tmdb_id": 192449, "title": "All Characters Are Imaginary", "original_title": "Shob Charitro Kalponik", "slug_title": "all-characters-are-imaginary", "date": "2009-04-01", "genre": "", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHXiuZCMrsy55lEfkSiq1HbdEpg.jpg", "actors": [], "comments": [], "recommandations_id": []}

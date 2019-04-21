@@ -1,0 +1,1 @@
+{"tmdb_id": 297149, "title": "Six Daughters", "original_title": "Paldogangsan", "slug_title": "six-daughters", "date": "1967-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvdQ2MYdIDNzZbvBAbTgjOP8WTi.jpg", "actors": [], "comments": [], "recommandations_id": []}

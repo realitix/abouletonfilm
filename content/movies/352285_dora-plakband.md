@@ -1,0 +1,1 @@
+{"tmdb_id": 352285, "title": "Dora - Plakband", "original_title": "Dora - Plakband", "slug_title": "dora-plakband", "date": "2005-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/303LV8c3j0wclfX5hYGO3wqzUkF.jpg", "actors": [], "comments": [], "recommandations_id": []}

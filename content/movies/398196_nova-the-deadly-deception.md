@@ -1,0 +1,1 @@
+{"tmdb_id": 398196, "title": "Nova: The Deadly Deception", "original_title": "Nova: The Deadly Deception", "slug_title": "nova-the-deadly-deception", "date": "1993-05-19", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 582126, "title": "Alamid: Ang Alamat", "original_title": "Alamid: Ang Alamat", "slug_title": "alamid-ang-alamat", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lito Lapid ()", "Dan Alvaro ()", "Bernard Bonnin ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 453523, "title": "#OCUPA\u00c7\u00c3O", "original_title": "#OCUPA\u00c7\u00c3O", "slug_title": "ocupacao", "date": "2017-04-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssnAuRAewfFBzztbMWZYvExwXqG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 494787, "title": "A Christian in Communist China", "original_title": "A Christian in Communist China", "slug_title": "a-christian-in-communist-china", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fq9x0AfR0fK4aqzI4cuBF5zYkyI.jpg", "actors": [], "comments": [], "recommandations_id": []}

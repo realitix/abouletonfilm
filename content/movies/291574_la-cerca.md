@@ -1,0 +1,1 @@
+{"tmdb_id": 291574, "title": "La Cerca", "original_title": "La Cerca", "slug_title": "la-cerca", "date": "2005-05-04", "genre": "Western / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward James Olmos (Narrator / Old Ni\u00f1o)"], "comments": [], "recommandations_id": []}

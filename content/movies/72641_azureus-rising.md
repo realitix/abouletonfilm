@@ -1,0 +1,1 @@
+{"tmdb_id": 72641, "title": "Azureus Rising", "original_title": "Azureus Rising", "slug_title": "azureus-rising", "date": "2010-04-06", "genre": "Science-Fiction / Animation", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pp5ocSYvU8XnmqkbUHyBfvCzY8k.jpg", "actors": [], "comments": [], "recommandations_id": []}

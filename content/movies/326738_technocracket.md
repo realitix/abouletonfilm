@@ -1,0 +1,1 @@
+{"tmdb_id": 326738, "title": "Technocracket", "original_title": "Technocracket", "slug_title": "technocracket", "date": "1933-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

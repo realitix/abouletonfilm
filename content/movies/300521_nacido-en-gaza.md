@@ -1,0 +1,1 @@
+{"tmdb_id": 300521, "title": "Nacido en Gaza", "original_title": "Nacido en Gaza", "slug_title": "nacido-en-gaza", "date": "2014-12-12", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fDxwIXJvOrlHxelwHF9OkahMiNb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503111, "title": "Chris and Bernie", "original_title": "Chris and Bernie", "slug_title": "chris-and-bernie", "date": "1975-02-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XbPOoEUsivPpLsIcjnKyJczDT0.jpg", "actors": [], "comments": [], "recommandations_id": []}

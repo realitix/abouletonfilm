@@ -1,0 +1,1 @@
+{"tmdb_id": 366393, "title": "Qaid Mein Hai Bulbul", "original_title": "Qaid Mein Hai Bulbul", "slug_title": "qaid-mein-hai-bulbul", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eNqGe4ZsOyxl7aPo8IbksTLwhDp.jpg", "actors": [], "comments": [], "recommandations_id": []}

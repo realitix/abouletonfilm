@@ -1,0 +1,1 @@
+{"tmdb_id": 397418, "title": "Freedom", "original_title": "Freedom", "slug_title": "freedom", "date": "1957-08-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bs7XJM2BnBcINtbJXqpSdiA91Ac.jpg", "actors": [], "comments": [], "recommandations_id": []}

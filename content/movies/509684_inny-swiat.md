@@ -1,0 +1,1 @@
+{"tmdb_id": 509684, "title": "Inny \u015bwiat", "original_title": "Inny \u015bwiat", "slug_title": "inny-swiat", "date": "2013-05-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMxfr5mmjQ9ddz9WLrRwX8f4Bx7.jpg", "actors": ["Danuta Szaflarska (Herself)"], "comments": [], "recommandations_id": []}

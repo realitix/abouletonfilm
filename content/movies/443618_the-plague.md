@@ -1,0 +1,1 @@
+{"tmdb_id": 443618, "title": "The Plague", "original_title": "The Plague", "slug_title": "the-plague", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

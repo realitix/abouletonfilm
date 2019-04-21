@@ -1,0 +1,1 @@
+{"tmdb_id": 578621, "title": "Magnetism", "original_title": "Magnetism", "slug_title": "magnetism", "date": "2019-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHqpmTxgiMWbRsglrdG75F1IISg.jpg", "actors": ["Landon Conrad ()", "Armond Rizzo ()"], "comments": [], "recommandations_id": []}

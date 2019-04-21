@@ -1,0 +1,1 @@
+{"tmdb_id": 201211, "title": "Fishin' Fever", "original_title": "Fishin' Fever", "slug_title": "fishin-fever", "date": "1924-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

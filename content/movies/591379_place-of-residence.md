@@ -1,0 +1,1 @@
+{"tmdb_id": 591379, "title": "Place of Residence", "original_title": "Miejsce zamieszkania", "slug_title": "place-of-residence", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

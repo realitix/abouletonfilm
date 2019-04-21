@@ -1,0 +1,1 @@
+{"tmdb_id": 333798, "title": "William Shakespeare: The Life and Times Of", "original_title": "William Shakespeare: The Life and Times Of", "slug_title": "william-shakespeare-the-life-and-times-of", "date": "2015-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

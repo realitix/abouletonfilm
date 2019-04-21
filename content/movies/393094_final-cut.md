@@ -1,0 +1,1 @@
+{"tmdb_id": 393094, "title": "Final Cut", "original_title": "Final Cut", "slug_title": "final-cut", "date": "1980-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Er3GwJ2QCD2Hw6paQBhCPqUoRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

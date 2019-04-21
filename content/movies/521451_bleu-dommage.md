@@ -1,0 +1,1 @@
+{"tmdb_id": 521451, "title": "Bleu Dommage", "original_title": "Bleu Dommage", "slug_title": "bleu-dommage", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["St\u00e9phane Briz\u00e9 ()", "H\u00e9l\u00e8ne M\u00e9digue ()", "Rosario Luigi y La Pampa ()"], "comments": [], "recommandations_id": []}

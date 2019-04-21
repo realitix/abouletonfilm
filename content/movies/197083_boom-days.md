@@ -1,0 +1,1 @@
+{"tmdb_id": 197083, "title": "Boom Days", "original_title": "Boom Days", "slug_title": "boom-days", "date": "1935-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

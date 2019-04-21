@@ -1,0 +1,1 @@
+{"tmdb_id": 562405, "title": "La pendule \u00e0 Salomon", "original_title": "La pendule \u00e0 Salomon", "slug_title": "la-pendule-a-salomon", "date": "1961-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

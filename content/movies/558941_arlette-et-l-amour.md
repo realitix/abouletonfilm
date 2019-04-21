@@ -1,0 +1,1 @@
+{"tmdb_id": 558941, "title": "Arlette et l'amour", "original_title": "Arlette et l'amour", "slug_title": "arlette-et-l-amour", "date": "1943-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

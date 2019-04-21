@@ -1,0 +1,1 @@
+{"tmdb_id": 182882, "title": "Classic Sonny Chiba Movies", "original_title": "Classic Sonny Chiba Movies", "slug_title": "classic-sonny-chiba-movies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4d3X8HIYkQtrdblL5FY1ikoZQXv.jpg", "actors": ["Sonny Chiba ()"], "comments": [], "recommandations_id": []}

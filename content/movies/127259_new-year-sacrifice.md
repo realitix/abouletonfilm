@@ -1,0 +1,1 @@
+{"tmdb_id": 127259, "title": "New Year Sacrifice", "original_title": "\u795d\u798f", "slug_title": "new-year-sacrifice", "date": "1956-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVjOzv2lnDE6IiC5FogxfRP54eS.jpg", "actors": [], "comments": [], "recommandations_id": []}

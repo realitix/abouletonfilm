@@ -1,0 +1,1 @@
+{"tmdb_id": 305384, "title": "Polidor cambia sesso", "original_title": "Polidor cambia sesso", "slug_title": "polidor-cambia-sesso", "date": "1918-05-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polidor (Polidor)", "Matilde Guillaume ()", "Olga Capri ()"], "comments": [], "recommandations_id": []}

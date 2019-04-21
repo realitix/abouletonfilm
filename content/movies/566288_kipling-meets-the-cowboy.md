@@ -1,0 +1,1 @@
+{"tmdb_id": 566288, "title": "Kipling Meets the Cowboy", "original_title": "Kipling Meets the Cowboy", "slug_title": "kipling-meets-the-cowboy", "date": "1985-04-01", "genre": "Com\u00e9die / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

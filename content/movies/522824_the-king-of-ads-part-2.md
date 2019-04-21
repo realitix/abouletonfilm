@@ -1,0 +1,1 @@
+{"tmdb_id": 522824, "title": "The King of Ads, Part 2", "original_title": "The King of Ads, Part 2", "slug_title": "the-king-of-ads-part-2", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carole Bouquet (Herself)"], "comments": [], "recommandations_id": []}

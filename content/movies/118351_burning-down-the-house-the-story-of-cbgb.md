@@ -1,0 +1,1 @@
+{"tmdb_id": 118351, "title": "Burning Down the House: The Story of CBGB", "original_title": "Burning Down the House: The Story of CBGB", "slug_title": "burning-down-the-house-the-story-of-cbgb", "date": "2009-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

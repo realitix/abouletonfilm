@@ -1,0 +1,1 @@
+{"tmdb_id": 217698, "title": "Intervals", "original_title": "Intervals", "slug_title": "intervals", "date": "1969-01-01", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irxLRo2SCLLf4RWPWUsjBgJWPQ3.jpg", "actors": [], "comments": [], "recommandations_id": [219827, 408436, 143810, 88463]}

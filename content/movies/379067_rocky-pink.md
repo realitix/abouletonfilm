@@ -1,0 +1,1 @@
+{"tmdb_id": 379067, "title": "Rocky Pink", "original_title": "Rocky Pink", "slug_title": "rocky-pink", "date": "1976-07-09", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kkl2El3a9ZzvrWZjDQttCn1ZsI.jpg", "actors": [], "comments": [], "recommandations_id": []}

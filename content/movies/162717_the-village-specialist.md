@@ -1,0 +1,1 @@
+{"tmdb_id": 162717, "title": "The Village Specialist", "original_title": "The Village Specialist", "slug_title": "the-village-specialist", "date": "1931-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

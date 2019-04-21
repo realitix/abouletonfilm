@@ -1,0 +1,1 @@
+{"tmdb_id": 144552, "title": "Kamikaze Girls Vol. 71", "original_title": "Kamikaze Girls Vol. 71", "slug_title": "kamikaze-girls-vol-71", "date": "2009-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ihPWfkOZHpq2XQOsvQUxsa2X6JD.jpg", "actors": [], "comments": [], "recommandations_id": []}

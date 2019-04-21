@@ -1,0 +1,1 @@
+{"tmdb_id": 174558, "title": "The Five Cent War", "original_title": "The Five Cent War", "slug_title": "the-five-cent-war", "date": "2003-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

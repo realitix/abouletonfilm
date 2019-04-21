@@ -1,0 +1,1 @@
+{"tmdb_id": 273474, "title": "Bilder ur en gr\u00e5 vardag", "original_title": "Bilder ur en gr\u00e5 vardag", "slug_title": "bilder-ur-en-gra-vardag", "date": "2009-07-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

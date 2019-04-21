@@ -1,0 +1,1 @@
+{"tmdb_id": 424024, "title": "Zulu Meets Jazz", "original_title": "Zulu Meets Jazz", "slug_title": "zulu-meets-jazz", "date": "2008-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paolo Fresu ()", "Theo Bophela ()", "Roger Lucey ()", "Ndikho Xaba ()"], "comments": [], "recommandations_id": []}

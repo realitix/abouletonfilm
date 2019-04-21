@@ -1,0 +1,1 @@
+{"tmdb_id": 274701, "title": "Bombs, Bullets and Fraud", "original_title": "Bombs, Bullets and Fraud", "slug_title": "bombs-bullets-and-fraud", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1l57vWBNbfKzSZxVrDMXFJOfFJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

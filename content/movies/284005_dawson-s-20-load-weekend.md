@@ -1,0 +1,1 @@
+{"tmdb_id": 284005, "title": "Dawson's 20 Load Weekend", "original_title": "Dawson's 20 Load Weekend", "slug_title": "dawson-s-20-load-weekend", "date": "2004-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MIfpNA6Qtcw7QI9D7fj4S63uNy.jpg", "actors": [], "comments": [], "recommandations_id": []}

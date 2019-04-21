@@ -1,0 +1,1 @@
+{"tmdb_id": 359756, "title": "Exercise in Direct Cinema", "original_title": "Exercise in Direct Cinema", "slug_title": "exercise-in-direct-cinema", "date": "1962-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 190, "title": "Das Dorf der Freundschaft", "original_title": "Das Dorf der Freundschaft", "slug_title": "das-dorf-der-freundschaft", "date": "2001-08-25", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

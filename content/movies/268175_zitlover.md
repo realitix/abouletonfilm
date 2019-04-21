@@ -1,0 +1,1 @@
+{"tmdb_id": 268175, "title": "Zitlover", "original_title": "Zitlover", "slug_title": "zitlover", "date": "2000-08-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

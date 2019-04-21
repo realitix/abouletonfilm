@@ -1,0 +1,1 @@
+{"tmdb_id": 589743, "title": "Somewhere in Between", "original_title": "\uad6d\ub3c4\uadf9\uc7a5", "slug_title": "somewhere-in-between", "date": "2019-05-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Dong-hwi ()", "Lee Han-wi ()", "Shin Shin-Ae ()"], "comments": [], "recommandations_id": []}

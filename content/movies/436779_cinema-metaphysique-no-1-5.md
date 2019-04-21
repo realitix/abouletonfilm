@@ -1,0 +1,1 @@
+{"tmdb_id": 436779, "title": "Cinema Metaphysique No. 1-5", "original_title": "Cinema Metaphysique No. 1-5", "slug_title": "cinema-metaphysique-no-1-5", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sOEOpw1u4O7iM1PFFsyz21pdGn.jpg", "actors": [], "comments": [], "recommandations_id": []}

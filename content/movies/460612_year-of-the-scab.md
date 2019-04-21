@@ -1,0 +1,1 @@
+{"tmdb_id": 460612, "title": "Year of the Scab", "original_title": "Year of the Scab", "slug_title": "year-of-the-scab", "date": "2017-06-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnmF6fxoIGbrRSjeN1xwxNDhNHz.jpg", "actors": [], "comments": [], "recommandations_id": []}

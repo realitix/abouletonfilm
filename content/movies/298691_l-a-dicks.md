@@ -1,0 +1,1 @@
+{"tmdb_id": 298691, "title": "L.A. Dicks", "original_title": "L.A. Dicks", "slug_title": "l-a-dicks", "date": "2007-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

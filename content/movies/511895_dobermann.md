@@ -1,0 +1,1 @@
+{"tmdb_id": 511895, "title": "Dobermann", "original_title": "Dobermann", "slug_title": "dobermann", "date": "1999-12-12", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philipp Kewenig (Der Mann)"], "comments": [], "recommandations_id": []}

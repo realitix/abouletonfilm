@@ -1,0 +1,1 @@
+{"tmdb_id": 433366, "title": "Mori no Densetsu: Dai Ni Gakushou", "original_title": "Mori no Densetsu: Dai Ni Gakushou", "slug_title": "mori-no-densetsu-dai-ni-gakushou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1AolmIGz7hEs01nclJv0FPSpKP.jpg", "actors": [], "comments": [], "recommandations_id": []}

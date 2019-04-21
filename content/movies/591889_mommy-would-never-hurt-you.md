@@ -1,0 +1,1 @@
+{"tmdb_id": 591889, "title": "Mommy Would Never Hurt You", "original_title": "Mommy Would Never Hurt You", "slug_title": "mommy-would-never-hurt-you", "date": "2019-03-29", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HfzidJPWjeAN9D5Fd8E2pddxPC.jpg", "actors": [], "comments": [], "recommandations_id": []}

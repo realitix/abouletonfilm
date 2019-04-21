@@ -1,0 +1,1 @@
+{"tmdb_id": 174501, "title": "Wax Works", "original_title": "Wax Works", "slug_title": "wax-works", "date": "1934-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

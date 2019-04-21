@@ -1,0 +1,1 @@
+{"tmdb_id": 541581, "title": "Slumber", "original_title": "Slumber", "slug_title": "slumber", "date": "2015-09-28", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dirk Gunther Mohr (Ronald Peterson)", "Tom de Jong (Daniel Richter)", "Am\u00e9lie Onzon (Carol)"], "comments": [], "recommandations_id": []}

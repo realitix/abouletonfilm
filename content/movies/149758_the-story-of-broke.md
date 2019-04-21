@@ -1,0 +1,1 @@
+{"tmdb_id": 149758, "title": "The Story of Broke", "original_title": "The Story of Broke", "slug_title": "the-story-of-broke", "date": "2011-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 253761, "title": "The Magic Atlas", "original_title": "The Magic Atlas", "slug_title": "the-magic-atlas", "date": "1935-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

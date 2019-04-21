@@ -1,0 +1,1 @@
+{"tmdb_id": 275855, "title": "Encyclopedia of Modern Armor: The Medium Tank", "original_title": "Encyclopedia of Modern Armor: The Medium Tank", "slug_title": "encyclopedia-of-modern-armor-the-medium-tank", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

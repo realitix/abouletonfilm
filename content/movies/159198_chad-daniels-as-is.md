@@ -1,0 +1,1 @@
+{"tmdb_id": 159198, "title": "Chad Daniels: As Is", "original_title": "Chad Daniels: As Is", "slug_title": "chad-daniels-as-is", "date": "2012-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3t7mPvQQ8fLZfxb0v9W03MPFLx.jpg", "actors": ["Chad Daniels (Himself)"], "comments": [], "recommandations_id": []}

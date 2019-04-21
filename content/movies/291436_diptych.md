@@ -1,0 +1,1 @@
+{"tmdb_id": 291436, "title": "Diptych", "original_title": "Diptyque", "slug_title": "diptych", "date": "1967-06-01", "genre": "Musique / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mChnLw7cDAU9iEhpS5uwLuswJUs.jpg", "actors": ["Leon Boyer (Himself)"], "comments": [], "recommandations_id": []}

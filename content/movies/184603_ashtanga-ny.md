@@ -1,0 +1,1 @@
+{"tmdb_id": 184603, "title": "Ashtanga, NY", "original_title": "Ashtanga, NY", "slug_title": "ashtanga-ny", "date": "2003-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zppyvwwjoEb0ZuVUQUHN0Z0PRnh.jpg", "actors": [], "comments": [], "recommandations_id": []}

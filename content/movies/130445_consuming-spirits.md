@@ -1,0 +1,1 @@
+{"tmdb_id": 130445, "title": "Consuming Spirits", "original_title": "Consuming Spirits", "slug_title": "consuming-spirits", "date": "2012-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bFhedw3N3a7RmEDUP2mJDbh5owF.jpg", "actors": [], "comments": [], "recommandations_id": []}

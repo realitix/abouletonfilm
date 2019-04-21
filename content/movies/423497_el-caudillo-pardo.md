@@ -1,0 +1,1 @@
+{"tmdb_id": 423497, "title": "El caudillo pardo", "original_title": "El caudillo pardo", "slug_title": "el-caudillo-pardo", "date": "2005-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62EdrDSDLB7I791r5lpSbA4JYjb.jpg", "actors": ["Jorge Pohorylec (Himself)"], "comments": [], "recommandations_id": []}

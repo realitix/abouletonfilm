@@ -1,0 +1,1 @@
+{"tmdb_id": 193917, "title": "Manhattan Trade School for Girls", "original_title": "Manhattan Trade School for Girls", "slug_title": "manhattan-trade-school-for-girls", "date": "1911-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

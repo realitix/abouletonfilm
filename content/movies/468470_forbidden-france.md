@@ -1,0 +1,1 @@
+{"tmdb_id": 468470, "title": "Forbidden France", "original_title": "La France interdite", "slug_title": "forbidden-france", "date": "1984-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uAP1m8Pa8hNUjBAf0nkFhEjLuE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302476, "title": "RAW Visions: Art of Survival", "original_title": "RAW Visions: Art of Survival", "slug_title": "raw-visions-art-of-survival", "date": "2005-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

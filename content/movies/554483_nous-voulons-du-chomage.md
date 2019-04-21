@@ -1,0 +1,1 @@
+{"tmdb_id": 554483, "title": "Nous voulons du ch\u00f4mage", "original_title": "Nous voulons du ch\u00f4mage", "slug_title": "nous-voulons-du-chomage", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "un film de Pierre Merejkowsky", "image": "/img/default-cover.png", "actors": ["Pierre Merejkowsky ()"], "comments": [], "recommandations_id": []}

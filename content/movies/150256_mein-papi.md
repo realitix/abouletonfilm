@@ -1,0 +1,1 @@
+{"tmdb_id": 150256, "title": "Mein Papi", "original_title": "Mein Papi", "slug_title": "mein-papi", "date": "1982-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJupvqKOY5szXH6SGLC0iO99npc.jpg", "actors": ["Erich Buttgereit ()", "J\u00f6rg Buttgereit ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 554692, "title": "DR. BENDERFAX", "original_title": "DR. BENDERFAX", "slug_title": "dr-benderfax", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tk3wyB4WwVwv50UcQPeCD2yQpS7.jpg", "actors": [], "comments": [], "recommandations_id": []}

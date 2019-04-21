@@ -1,0 +1,1 @@
+{"tmdb_id": 313883, "title": "A Game of String", "original_title": "A Game of String", "slug_title": "a-game-of-string", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2jlxw44FABuQ4lM715IahpzXbZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

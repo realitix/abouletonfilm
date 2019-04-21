@@ -1,0 +1,1 @@
+{"tmdb_id": 550185, "title": "The Flintstones: Jogging Fever", "original_title": "The Flintstones: Jogging Fever", "slug_title": "the-flintstones-jogging-fever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

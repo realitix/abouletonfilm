@@ -1,0 +1,1 @@
+{"tmdb_id": 390268, "title": "Deep Awakening", "original_title": "\u5bae\u5d0e\u3057\u305a\u304b", "slug_title": "deep-awakening", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mw640Nq2y06vgigF0l15qmdutdD.jpg", "actors": [], "comments": [], "recommandations_id": []}

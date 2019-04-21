@@ -1,0 +1,1 @@
+{"tmdb_id": 342073, "title": "\u00c7\u0131raklar", "original_title": "\u00c7\u0131raklar", "slug_title": "ciraklar", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ss5HRWdJt25iGJRnZWGSUaM85s5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 235660, "title": "Sword Fishing", "original_title": "Sword Fishing", "slug_title": "sword-fishing", "date": "1939-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

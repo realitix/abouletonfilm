@@ -1,0 +1,1 @@
+{"tmdb_id": 523731, "title": "Current 93: Live In Osaka, Japan", "original_title": "Current 93: Live In Osaka, Japan", "slug_title": "current-93-live-in-osaka-japan", "date": "1989-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

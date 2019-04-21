@@ -1,0 +1,1 @@
+{"tmdb_id": 474263, "title": "Digital Amnesia", "original_title": "Digital Amnesia", "slug_title": "digital-amnesia", "date": "2014-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHXJ1VVe0MxYc3PsUGuqzpXzR6g.jpg", "actors": [], "comments": [], "recommandations_id": []}

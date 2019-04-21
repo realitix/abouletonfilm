@@ -1,0 +1,1 @@
+{"tmdb_id": 316260, "title": "Geniusz sceny", "original_title": "Geniusz sceny", "slug_title": "geniusz-sceny", "date": "1939-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kGeDKOst8thD5mm2rTTjsSbRq6U.jpg", "actors": [], "comments": [], "recommandations_id": []}

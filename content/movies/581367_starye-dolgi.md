@@ -1,0 +1,1 @@
+{"tmdb_id": 581367, "title": "\u0421\u0442\u0430\u0440\u044b\u0435 \u0434\u043e\u043b\u0433\u0438", "original_title": "\u0421\u0442\u0430\u0440\u044b\u0435 \u0434\u043e\u043b\u0433\u0438", "slug_title": "starye-dolgi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

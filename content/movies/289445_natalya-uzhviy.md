@@ -1,0 +1,1 @@
+{"tmdb_id": 289445, "title": "Natalya Uzhviy", "original_title": "Natalya Uzhviy", "slug_title": "natalya-uzhviy", "date": "1957-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLTfdZcD2t0szCtydTloy96lClV.jpg", "actors": [], "comments": [], "recommandations_id": []}

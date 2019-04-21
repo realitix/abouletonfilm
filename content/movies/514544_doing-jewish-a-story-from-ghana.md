@@ -1,0 +1,1 @@
+{"tmdb_id": 514544, "title": "Doing Jewish: A Story From Ghana", "original_title": "Doing Jewish: A Story From Ghana", "slug_title": "doing-jewish-a-story-from-ghana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

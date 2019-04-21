@@ -1,0 +1,1 @@
+{"tmdb_id": 431321, "title": "Ciudades a contraluz", "original_title": "Ciudades a contraluz", "slug_title": "ciudades-a-contraluz", "date": "2016-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5Wt0DzEDlc1uXf53ZgRyJt4lLH.jpg", "actors": [], "comments": [], "recommandations_id": []}

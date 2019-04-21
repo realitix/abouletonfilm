@@ -1,0 +1,1 @@
+{"tmdb_id": 560385, "title": "Art Scene USA", "original_title": "Art Scene USA", "slug_title": "art-scene-usa", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

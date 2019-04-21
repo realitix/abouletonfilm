@@ -1,0 +1,1 @@
+{"tmdb_id": 347214, "title": "The Age Of Aluminium", "original_title": "Die Akte Aluminium", "slug_title": "the-age-of-aluminium", "date": "2013-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1gyNwxvV41mQXawAkYDrAMctre7.jpg", "actors": [], "comments": [], "recommandations_id": []}

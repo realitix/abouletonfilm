@@ -1,0 +1,1 @@
+{"tmdb_id": 360564, "title": "Magic of the Mountains", "original_title": "Magic of the Mountains", "slug_title": "magic-of-the-mountains", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

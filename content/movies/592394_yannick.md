@@ -1,0 +1,1 @@
+{"tmdb_id": 592394, "title": "Yannick", "original_title": "Yannick", "slug_title": "yannick", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yannick N\u00e9zet-S\u00e9guin ()"], "comments": [], "recommandations_id": []}

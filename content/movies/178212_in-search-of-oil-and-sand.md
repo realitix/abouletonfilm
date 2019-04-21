@@ -1,0 +1,1 @@
+{"tmdb_id": 178212, "title": "In Search of Oil and Sand", "original_title": "In Search of Oil and Sand", "slug_title": "in-search-of-oil-and-sand", "date": "2012-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVgqs9D48RnFeo9Kc9p3kBVovu.jpg", "actors": [], "comments": [], "recommandations_id": []}

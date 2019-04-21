@@ -1,0 +1,1 @@
+{"tmdb_id": 571704, "title": "Tr\u00e1gicas", "original_title": "Tr\u00e1gicas", "slug_title": "tragicas", "date": "2019-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bBkLjg4vCHNPqrYzu5mSJgldRl.jpg", "actors": [], "comments": [], "recommandations_id": []}

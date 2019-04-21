@@ -1,0 +1,1 @@
+{"tmdb_id": 195740, "title": "B\u00fav\u00e1rkod\u00e1s", "original_title": "B\u00fav\u00e1rkod\u00e1s", "slug_title": "buvarkodas", "date": "2005-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a6SyJnDb2ZTyo4MpwraUkjwCoNl.jpg", "actors": [], "comments": [], "recommandations_id": []}

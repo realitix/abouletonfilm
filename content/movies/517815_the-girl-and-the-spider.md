@@ -1,0 +1,1 @@
+{"tmdb_id": 517815, "title": "The Girl and the Spider", "original_title": "Das M\u00e4dchen und die Spinne", "slug_title": "the-girl-and-the-spider", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

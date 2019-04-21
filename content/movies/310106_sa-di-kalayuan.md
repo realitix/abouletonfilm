@@ -1,0 +1,1 @@
+{"tmdb_id": 310106, "title": "Sa 'Di Kalayuan", "original_title": "Sa 'Di Kalayuan", "slug_title": "sa-di-kalayuan", "date": "2014-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5yCF1qz671x7rtMy2obBUuGMNW.jpg", "actors": ["Mariel Urbiztondo ()", "Xzyron Dumabok ()"], "comments": [], "recommandations_id": []}

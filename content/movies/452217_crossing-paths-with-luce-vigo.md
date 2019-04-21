@@ -1,0 +1,1 @@
+{"tmdb_id": 452217, "title": "Crossing Paths with Luce Vigo", "original_title": "Crossing Paths with Luce Vigo", "slug_title": "crossing-paths-with-luce-vigo", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

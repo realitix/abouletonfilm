@@ -1,0 +1,1 @@
+{"tmdb_id": 557170, "title": "Die auf die N\u00fcsse gehn", "original_title": "Die auf die N\u00fcsse gehn", "slug_title": "die-auf-die-nusse-gehn", "date": "1992-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

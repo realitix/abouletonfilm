@@ -1,0 +1,1 @@
+{"tmdb_id": 392596, "title": "Tabula Rasa", "original_title": "Tabula Rasa", "slug_title": "tabula-rasa", "date": "2012-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claire Boucher ()", "Martin Dubreuil ()"], "comments": [], "recommandations_id": []}

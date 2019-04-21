@@ -1,0 +1,1 @@
+{"tmdb_id": 542278, "title": "The AA Movie", "original_title": "The AA Movie", "slug_title": "the-aa-movie", "date": "", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCZjFmq80WaaWdFg92cb6v8yIy0.jpg", "actors": ["Ananda Acharya (Andy)", "Federico Pinna (Himself)"], "comments": [], "recommandations_id": []}

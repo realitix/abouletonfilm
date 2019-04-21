@@ -1,0 +1,1 @@
+{"tmdb_id": 527405, "title": "O Pre\u00e7o da Ilus\u00e3o", "original_title": "O Pre\u00e7o da Ilus\u00e3o", "slug_title": "o-preco-da-ilusao", "date": "1957-06-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bAXOzSRHmtlIfsyE8T0BXNggv0h.jpg", "actors": [], "comments": [], "recommandations_id": []}

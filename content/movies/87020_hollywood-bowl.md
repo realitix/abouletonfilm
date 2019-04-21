@@ -1,0 +1,1 @@
+{"tmdb_id": 87020, "title": "Hollywood Bowl", "original_title": "Hollywood Bowl", "slug_title": "hollywood-bowl", "date": "1938-10-04", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7IQq1wLezb5d0n5pztZ163OX2TE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237220, "title": "Spinach vs Hamburgers", "original_title": "Spinach vs Hamburgers", "slug_title": "spinach-vs-hamburgers", "date": "1948-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

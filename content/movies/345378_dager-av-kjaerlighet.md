@@ -1,0 +1,1 @@
+{"tmdb_id": 345378, "title": "Dager av kj\u00e6rlighet", "original_title": "Dager av kj\u00e6rlighet", "slug_title": "dager-av-kjaerlighet", "date": "2007-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harald Kolaas ()", "Martha Kj\u00f8rven ()"], "comments": [], "recommandations_id": []}

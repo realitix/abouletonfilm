@@ -1,0 +1,1 @@
+{"tmdb_id": 489914, "title": "Hot Heir", "original_title": "Hot Heir", "slug_title": "hot-heir", "date": "1947-02-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh Herbert)"], "comments": [], "recommandations_id": []}

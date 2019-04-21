@@ -1,0 +1,1 @@
+{"tmdb_id": 247690, "title": "Strokkur", "original_title": "Strokkur", "slug_title": "strokkur", "date": "2011-07-07", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xm7SRPvDw6EQZfky8CwbdoqoymK.jpg", "actors": ["Norberto Lobo ()"], "comments": [], "recommandations_id": []}

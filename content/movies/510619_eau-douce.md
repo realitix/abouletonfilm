@@ -1,0 +1,1 @@
+{"tmdb_id": 510619, "title": "Eau douce", "original_title": "Eau douce", "slug_title": "eau-douce", "date": "1997-01-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCljyhzGlCBoo0DBIn71ESR1y0H.jpg", "actors": ["Nathalie Richard (Marianne)", "Antoine Chappey (Paul)"], "comments": [], "recommandations_id": []}

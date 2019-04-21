@@ -1,0 +1,1 @@
+{"tmdb_id": 274880, "title": "Pencil Face", "original_title": "Pencil Face", "slug_title": "pencil-face", "date": "2008-05-15", "genre": "Fantastique / Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bRtiFgcYMUKG8zCaP5Hl9YLWTB.jpg", "actors": ["Logan Link (Girl)"], "comments": [], "recommandations_id": []}

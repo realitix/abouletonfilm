@@ -1,0 +1,1 @@
+{"tmdb_id": 300854, "title": "Who are the Chinese?", "original_title": "Who are the Chinese?", "slug_title": "who-are-the-chinese", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

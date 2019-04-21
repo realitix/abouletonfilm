@@ -1,0 +1,1 @@
+{"tmdb_id": 361246, "title": "Glassk\u00e5r", "original_title": "Glassk\u00e5r", "slug_title": "glasskar", "date": "2002-02-15", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67nZgCr1CP8b2XZVNtUnJo3Uyi8.jpg", "actors": [], "comments": [], "recommandations_id": []}

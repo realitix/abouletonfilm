@@ -1,0 +1,1 @@
+{"tmdb_id": 208789, "title": "Holidays with Pay", "original_title": "Holidays with Pay", "slug_title": "holidays-with-pay", "date": "1948-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Randle (Jack Rogers)", "Tessie O'Shea (Pansy Rogers)", "Sally Barnes (Pamela Rogers)"], "comments": [], "recommandations_id": []}

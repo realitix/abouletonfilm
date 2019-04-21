@@ -1,0 +1,1 @@
+{"tmdb_id": 563503, "title": "Miss Sarajevo", "original_title": "Miss Sarajevo", "slug_title": "miss-sarajevo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

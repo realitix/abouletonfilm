@@ -1,0 +1,1 @@
+{"tmdb_id": 378842, "title": "Marie und der Wolf", "original_title": "Marie und der Wolf", "slug_title": "marie-und-der-wolf", "date": "2004-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

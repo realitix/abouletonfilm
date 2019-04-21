@@ -1,0 +1,1 @@
+{"tmdb_id": 213257, "title": "Der feldgraue Groschen", "original_title": "Der feldgraue Groschen", "slug_title": "der-feldgraue-groschen", "date": "1917-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["K\u00e4the Haack ()", "Margarete Kupfer ()", "Edith Meller ()", "Frida Richard ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346248, "title": "The Spag", "original_title": "The Spag", "slug_title": "the-spag", "date": "1962-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbfw6QadHQQttrRnnDIYhGeNpkU.jpg", "actors": [], "comments": [], "recommandations_id": []}

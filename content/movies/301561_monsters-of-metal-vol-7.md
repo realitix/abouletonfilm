@@ -1,0 +1,1 @@
+{"tmdb_id": 301561, "title": "Monsters of Metal Vol. 7", "original_title": "Monsters of Metal Vol. 7", "slug_title": "monsters-of-metal-vol-7", "date": "2009-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/reW6rBswZl2tIt90GuebZZMwH4z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 565765, "title": "Shoulder", "original_title": "Shoulder", "slug_title": "shoulder", "date": "1964-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucinda Childs (Shoulder)"], "comments": [], "recommandations_id": []}

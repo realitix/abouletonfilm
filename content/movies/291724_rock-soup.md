@@ -1,0 +1,1 @@
+{"tmdb_id": 291724, "title": "Rock Soup", "original_title": "Rock Soup", "slug_title": "rock-soup", "date": "1992-01-19", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCn4cN87WJvcT1DXtzHaOFXEcIC.jpg", "actors": [], "comments": [], "recommandations_id": []}

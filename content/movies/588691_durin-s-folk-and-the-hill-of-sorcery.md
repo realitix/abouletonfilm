@@ -1,0 +1,1 @@
+{"tmdb_id": 588691, "title": "Durin's Folk and the Hill of Sorcery", "original_title": "Durin's Folk and the Hill of Sorcery", "slug_title": "durin-s-folk-and-the-hill-of-sorcery", "date": "2015-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 200202, "title": "Hotdogs for Gauguin", "original_title": "Hotdogs for Gauguin", "slug_title": "hotdogs-for-gauguin", "date": "1972-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny DeVito (Adrian)", "Rhea Perlman ()", "Martin Brest ()", "William Duff-Griffin ()"], "comments": [], "recommandations_id": []}

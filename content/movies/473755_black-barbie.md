@@ -1,0 +1,1 @@
+{"tmdb_id": 473755, "title": "Black Barbie", "original_title": "Black Barbie", "slug_title": "black-barbie", "date": "2016-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnJpQHQeRwu1W9c4OKDH8QtcFz7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 232153, "title": "Personal", "original_title": "Personal", "slug_title": "personal", "date": "1904-11-01", "genre": "Com\u00e9die", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwxYzWRWhZFaypr4InPJFH4O681.jpg", "actors": [], "comments": [], "recommandations_id": []}

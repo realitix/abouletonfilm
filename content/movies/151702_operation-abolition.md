@@ -1,0 +1,1 @@
+{"tmdb_id": 151702, "title": "Operation Abolition", "original_title": "Operation Abolition", "slug_title": "operation-abolition", "date": "1960-12-31", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xUZmdf5bYWbUbfFtostxJCqhNC.jpg", "actors": ["Fulton Lewis III (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503515, "title": "Apostle of Ruins", "original_title": "Griuv\u0117si\u0173 apa\u0161talas", "slug_title": "apostle-of-ruins", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTujG86GrUM17WJUWCN8UIXqkdC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 70610, "title": "This Aint Cops XXX", "original_title": "This Aint Cops XXX", "slug_title": "this-aint-cops-xxx", "date": "2010-08-20", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nkApgHGsDfUtArFhNVf2V1EeMQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

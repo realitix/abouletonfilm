@@ -1,0 +1,1 @@
+{"tmdb_id": 413660, "title": "Fire Under the Snow", "original_title": "Fire Under the Snow", "slug_title": "fire-under-the-snow", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/meX89fx8oBjRiypvBKkIoqnMGet.jpg", "actors": ["Palden Gyatso (himself)"], "comments": [], "recommandations_id": []}

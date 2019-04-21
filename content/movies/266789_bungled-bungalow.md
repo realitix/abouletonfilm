@@ -1,0 +1,1 @@
+{"tmdb_id": 266789, "title": "Bungled Bungalow", "original_title": "Bungled Bungalow", "slug_title": "bungled-bungalow", "date": "1951-01-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6M1NEtGUsEjD9GNY3JBqdSDcRbc.jpg", "actors": ["Jim Backus (Mr. Magoo)"], "comments": [], "recommandations_id": []}

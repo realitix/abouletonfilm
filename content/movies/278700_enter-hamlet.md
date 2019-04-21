@@ -1,0 +1,1 @@
+{"tmdb_id": 278700, "title": "Enter Hamlet", "original_title": "Enter Hamlet", "slug_title": "enter-hamlet", "date": "1965-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Sn12vYzmP47z7wCAm7OTMcsf33.jpg", "actors": ["Maurice Evans (Hamlet)"], "comments": [], "recommandations_id": []}

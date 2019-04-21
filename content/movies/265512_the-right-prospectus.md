@@ -1,0 +1,1 @@
+{"tmdb_id": 265512, "title": "The Right Prospectus", "original_title": "The Right Prospectus", "slug_title": "the-right-prospectus", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Cole ()", "Elvi Hale ()", "Allan Warren ()"], "comments": [], "recommandations_id": []}

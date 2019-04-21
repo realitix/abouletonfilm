@@ -1,0 +1,1 @@
+{"tmdb_id": 420566, "title": "Ludzie bez jutra", "original_title": "Ludzie bez jutra", "slug_title": "ludzie-bez-jutra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

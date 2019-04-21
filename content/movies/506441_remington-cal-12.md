@@ -1,0 +1,1 @@
+{"tmdb_id": 506441, "title": "Remington Cal. 12", "original_title": "Remington Cal. 12", "slug_title": "remington-cal-12", "date": "1972-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/teDfhVa6a3T9LG2dj1hi8r2EB5o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 495532, "title": "P\u00e1n a hvezd\u00e1r", "original_title": "P\u00e1n a hvezd\u00e1r", "slug_title": "pan-a-hvezdar", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DRFUc9pf8IoZxMpOb8dsvPeeFK.jpg", "actors": [], "comments": [], "recommandations_id": []}

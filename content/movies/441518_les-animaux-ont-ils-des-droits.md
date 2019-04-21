@@ -1,0 +1,1 @@
+{"tmdb_id": 441518, "title": "Les animaux ont ils des droits?", "original_title": "Les animaux ont ils des droits?", "slug_title": "les-animaux-ont-ils-des-droits", "date": "2016-12-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

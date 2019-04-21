@@ -1,0 +1,1 @@
+{"tmdb_id": 347471, "title": "A Studio Rube", "original_title": "A Studio Rube", "slug_title": "a-studio-rube", "date": "1922-03-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Al St. John ()", "Billy Engle ()", "Marvin Loback ()"], "comments": [], "recommandations_id": []}

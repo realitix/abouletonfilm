@@ -1,0 +1,1 @@
+{"tmdb_id": 480183, "title": "The Haircut", "original_title": "The Haircut", "slug_title": "the-haircut", "date": "2017-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

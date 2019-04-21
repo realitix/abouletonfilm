@@ -1,0 +1,1 @@
+{"tmdb_id": 366358, "title": "Hot dogs on the Run", "original_title": "Hot dogs on the Run", "slug_title": "hot-dogs-on-the-run", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Al8mDQY0PExJ2SaKZ58EKRDVVQU.jpg", "actors": [], "comments": [], "recommandations_id": []}

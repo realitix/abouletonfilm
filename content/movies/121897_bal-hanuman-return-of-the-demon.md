@@ -1,0 +1,1 @@
+{"tmdb_id": 121897, "title": "Bal Hanuman - Return of the Demon", "original_title": "Bal Hanuman - Return of the Demon", "slug_title": "bal-hanuman-return-of-the-demon", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKhWhIJbPhrOpiEkBL9PAT19k2k.jpg", "actors": [], "comments": [], "recommandations_id": []}

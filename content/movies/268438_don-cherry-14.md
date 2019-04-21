@@ -1,0 +1,1 @@
+{"tmdb_id": 268438, "title": "Don Cherry #14", "original_title": "Don Cherry #14", "slug_title": "don-cherry-14", "date": "2002-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dMGILOJlBQi4owBDxYO0Di0kqFZ.jpg", "actors": ["Don Cherry (Himself)"], "comments": [], "recommandations_id": []}

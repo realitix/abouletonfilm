@@ -1,0 +1,1 @@
+{"tmdb_id": 287457, "title": "Dirt Devil", "original_title": "Dirt Devil", "slug_title": "dirt-devil", "date": "2007-02-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rodrigo Cort\u00e9s ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487469, "title": "Multiple Man", "original_title": "Multiple Man", "slug_title": "multiple-man", "date": "", "genre": "Drame / Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Franco (Jamie Madrox / Multiple Man)"], "comments": [], "recommandations_id": []}

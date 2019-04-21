@@ -1,0 +1,1 @@
+{"tmdb_id": 406823, "title": "M\u00e1sf\u00e9lmilli\u00f3 l\u00e9p\u00e9s Magyarorsz\u00e1gon", "original_title": "M\u00e1sf\u00e9lmilli\u00f3 l\u00e9p\u00e9s Magyarorsz\u00e1gon", "slug_title": "masfelmillio-lepes-magyarorszagon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

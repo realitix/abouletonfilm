@@ -1,0 +1,1 @@
+{"tmdb_id": 337576, "title": "Turbo Jam: 20 Minute Workout", "original_title": "Turbo Jam: 20 Minute Workout", "slug_title": "turbo-jam-20-minute-workout", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKFjk2NrsEsRqLaiiwqd0Y5ABn4.jpg", "actors": [], "comments": [], "recommandations_id": []}

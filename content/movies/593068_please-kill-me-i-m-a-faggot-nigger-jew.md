@@ -1,0 +1,1 @@
+{"tmdb_id": 593068, "title": "'Please Kill Me, I'm a Faggot Nigger Jew'", "original_title": "'Please Kill Me, I'm a Faggot Nigger Jew'", "slug_title": "please-kill-me-i-m-a-faggot-nigger-jew", "date": "1996-07-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

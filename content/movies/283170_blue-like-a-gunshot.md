@@ -1,0 +1,1 @@
+{"tmdb_id": 283170, "title": "Blue Like a Gunshot", "original_title": "Blue Like a Gunshot", "slug_title": "blue-like-a-gunshot", "date": "2003-07-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dENlz8gSOhhXIj8Af8Qvxc8VLNp.jpg", "actors": [], "comments": [], "recommandations_id": []}

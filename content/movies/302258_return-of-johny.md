@@ -1,0 +1,1 @@
+{"tmdb_id": 302258, "title": "Return of Johny", "original_title": "Return of Johny", "slug_title": "return-of-johny", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

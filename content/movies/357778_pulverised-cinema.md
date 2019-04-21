@@ -1,0 +1,1 @@
+{"tmdb_id": 357778, "title": "Pulverised Cinema", "original_title": "Pulverised Cinema", "slug_title": "pulverised-cinema", "date": "1990-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbwGeQ3kdP3KWhEIkp2dvUYHYAX.jpg", "actors": ["Tom Fowke (Silverhead)"], "comments": [], "recommandations_id": []}

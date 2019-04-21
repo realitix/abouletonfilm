@@ -1,0 +1,1 @@
+{"tmdb_id": 288891, "title": "Cerro Pelado", "original_title": "Cerro Pelado", "slug_title": "cerro-pelado", "date": "1966-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gFjQndV0lc6vFa4uF0MaRuUOrSP.jpg", "actors": [], "comments": [], "recommandations_id": []}

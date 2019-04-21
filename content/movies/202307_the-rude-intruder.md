@@ -1,0 +1,1 @@
+{"tmdb_id": 202307, "title": "The Rude Intruder", "original_title": "The Rude Intruder", "slug_title": "the-rude-intruder", "date": "1972-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/igEVJ5ch0eZDuGj9DlcLR4xbIcy.jpg", "actors": [], "comments": [], "recommandations_id": []}

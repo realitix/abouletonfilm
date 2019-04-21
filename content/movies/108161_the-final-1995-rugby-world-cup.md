@@ -1,0 +1,1 @@
+{"tmdb_id": 108161, "title": "The Final 1995 Rugby World Cup", "original_title": "The Final 1995 Rugby World Cup", "slug_title": "the-final-1995-rugby-world-cup", "date": "1995-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v8jclJ2h4bUlZ5tLBPamuQy9WqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

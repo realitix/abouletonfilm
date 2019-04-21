@@ -1,0 +1,1 @@
+{"tmdb_id": 275932, "title": "Boy! What a Girl!", "original_title": "Boy! What a Girl!", "slug_title": "boy-what-a-girl", "date": "1947-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gaeIRi1nWE9gengAcxUYo4qqILf.jpg", "actors": [], "comments": [], "recommandations_id": []}

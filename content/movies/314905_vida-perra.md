@@ -1,0 +1,1 @@
+{"tmdb_id": 314905, "title": "Vida/Perra", "original_title": "Vida/Perra", "slug_title": "vida-perra", "date": "1982-09-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5VAtkQ5mLiJcgyKRNwO2lfuKbr.jpg", "actors": ["Esperanza Roy ()"], "comments": [], "recommandations_id": []}

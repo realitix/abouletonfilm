@@ -1,0 +1,1 @@
+{"tmdb_id": 361910, "title": "Europe & Italy", "original_title": "Europe & Italy", "slug_title": "europe-italy", "date": "1999-09-28", "genre": "Com\u00e9die / Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLo7zt29X6dMm38UqB2kNebWvvB.jpg", "actors": [], "comments": [], "recommandations_id": []}

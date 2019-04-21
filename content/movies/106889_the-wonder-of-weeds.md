@@ -1,0 +1,1 @@
+{"tmdb_id": 106889, "title": "The Wonder of Weeds", "original_title": "The Wonder of Weeds", "slug_title": "the-wonder-of-weeds", "date": "2011-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRwQ7HQnfSYRUwuNDhFs1ASfuxF.jpg", "actors": [], "comments": [], "recommandations_id": []}

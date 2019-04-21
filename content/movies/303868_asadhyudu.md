@@ -1,0 +1,1 @@
+{"tmdb_id": 303868, "title": "Asadhyudu", "original_title": "Asadhyudu", "slug_title": "asadhyudu", "date": "2006-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbc2pHCMsJhyfap553zh7e64pD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491903, "title": "The Summer Walkers", "original_title": "The Summer Walkers", "slug_title": "the-summer-walkers", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

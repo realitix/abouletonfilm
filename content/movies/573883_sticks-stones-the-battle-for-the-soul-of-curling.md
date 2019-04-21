@@ -1,0 +1,1 @@
+{"tmdb_id": 573883, "title": "Sticks & Stones: The Battle for the Soul of Curling", "original_title": "Sticks & Stones: The Battle for the Soul of Curling", "slug_title": "sticks-stones-the-battle-for-the-soul-of-curling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

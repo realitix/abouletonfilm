@@ -1,0 +1,1 @@
+{"tmdb_id": 487379, "title": "Bitch & Butch", "original_title": "Bitch & Butch", "slug_title": "bitch-butch", "date": "2003-03-30", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Camilla Carlsson ()", "Sara Lindkvist ()", "Mia Engberg ()"], "comments": [], "recommandations_id": []}

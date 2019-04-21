@@ -1,0 +1,1 @@
+{"tmdb_id": 573490, "title": "Island in the Sun", "original_title": "Island in the Sun", "slug_title": "island-in-the-sun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

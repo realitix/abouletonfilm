@@ -1,0 +1,1 @@
+{"tmdb_id": 512725, "title": "Second Thoughts", "original_title": "Second Thoughts", "slug_title": "second-thoughts", "date": "2017-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Jarocki (Vincent Samuels)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294299, "title": "Degenerate", "original_title": "Degenerate", "slug_title": "degenerate", "date": "2012-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

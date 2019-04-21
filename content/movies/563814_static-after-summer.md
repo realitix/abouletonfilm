@@ -1,0 +1,1 @@
+{"tmdb_id": 563814, "title": "Static After Summer", "original_title": "Static After Summer", "slug_title": "static-after-summer", "date": "2019-12-09", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5T4s5IOvGu8nznKNWLT5FtyNeW9.jpg", "actors": [], "comments": [], "recommandations_id": []}

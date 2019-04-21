@@ -1,0 +1,1 @@
+{"tmdb_id": 79803, "title": "Premiste", "original_title": "Premiste", "slug_title": "premiste", "date": "2005-10-12", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bharath Niwas ()", "Sandhya ()", "Kadhal Sukumar ()", "Kadhal Thandapani ()"], "comments": [], "recommandations_id": []}

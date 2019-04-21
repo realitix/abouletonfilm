@@ -1,0 +1,1 @@
+{"tmdb_id": 465341, "title": "City Experience", "original_title": "\ub3c4\uc2dc\uccb4\ud5d8", "slug_title": "city-experience", "date": "2017-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

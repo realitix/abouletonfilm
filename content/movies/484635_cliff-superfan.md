@@ -1,0 +1,1 @@
+{"tmdb_id": 484635, "title": "Cliff, Superfan!", "original_title": "Cliff, Superfan!", "slug_title": "cliff-superfan", "date": "2017-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

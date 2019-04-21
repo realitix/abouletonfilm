@@ -1,0 +1,1 @@
+{"tmdb_id": 374344, "title": "Bevor der Strip stirbt", "original_title": "Bevor der Strip stirbt", "slug_title": "bevor-der-strip-stirbt", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nadja Capuciene ()", "Carmen Caprice ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 589506, "title": "La fleur et le fusil", "original_title": "La fleur et le fusil", "slug_title": "la-fleur-et-le-fusil", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

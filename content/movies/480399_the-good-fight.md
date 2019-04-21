@@ -1,0 +1,1 @@
+{"tmdb_id": 480399, "title": "The Good Fight", "original_title": "A vida \u00e9 uma luta", "slug_title": "the-good-fight", "date": "2017-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Duarte (Himself)"], "comments": [], "recommandations_id": []}

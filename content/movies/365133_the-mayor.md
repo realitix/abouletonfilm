@@ -1,0 +1,1 @@
+{"tmdb_id": 365133, "title": "The Mayor", "original_title": "O Prefeito", "slug_title": "the-mayor", "date": "2015-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYlNtmOwChA48A7SKSlV0n7n7pm.jpg", "actors": ["Nizo Neto ()", "Djin Sganzerla ()", "Gustavo Novaes ()"], "comments": [], "recommandations_id": []}

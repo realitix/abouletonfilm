@@ -1,0 +1,1 @@
+{"tmdb_id": 191477, "title": "A Fantasista", "original_title": "A Fantasista", "slug_title": "a-fantasista", "date": "2003-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ewfRwt1Au2Ot5t32MUKjnejMJUZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

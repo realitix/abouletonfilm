@@ -1,0 +1,1 @@
+{"tmdb_id": 387386, "title": "Pearls and Savages", "original_title": "Pearls and Savages", "slug_title": "pearls-and-savages", "date": "1921-12-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 484692, "title": "axe giant: wrath of paul bunyan", "original_title": "axe giant: wrath of paul bunyan", "slug_title": "axe-giant-wrath-of-paul-bunyan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

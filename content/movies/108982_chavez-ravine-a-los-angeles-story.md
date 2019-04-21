@@ -1,0 +1,1 @@
+{"tmdb_id": 108982, "title": "Chavez Ravine: A Los Angeles Story", "original_title": "Chavez Ravine: A Los Angeles Story", "slug_title": "chavez-ravine-a-los-angeles-story", "date": "2003-07-30", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cheech Marin (Narrator)"], "comments": [], "recommandations_id": []}

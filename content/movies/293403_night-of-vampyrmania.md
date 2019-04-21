@@ -1,0 +1,1 @@
+{"tmdb_id": 293403, "title": "Night of Vampyrmania", "original_title": "Night of Vampyrmania", "slug_title": "night-of-vampyrmania", "date": "1993-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apEluZndY2gO6BuwF9MSEIZ9z8Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

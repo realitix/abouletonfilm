@@ -1,0 +1,1 @@
+{"tmdb_id": 329200, "title": "A Girl Called Mahmud", "original_title": "Bint Wa Ismaha Mahmoud", "slug_title": "a-girl-called-mahmud", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samir Sabri ()", "Mohamed Reda ()", "Suhair Ramzi ()"], "comments": [], "recommandations_id": []}

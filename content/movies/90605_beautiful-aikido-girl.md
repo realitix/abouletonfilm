@@ -1,0 +1,1 @@
+{"tmdb_id": 90605, "title": "Beautiful Aikido Girl", "original_title": "Beautiful Aikido Girl", "slug_title": "beautiful-aikido-girl", "date": "2009-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jun Natsumi (Herself)", "Urara Sano (Herself)"], "comments": [], "recommandations_id": []}

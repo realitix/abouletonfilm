@@ -1,0 +1,1 @@
+{"tmdb_id": 275969, "title": "Poochini: Coffee Dog", "original_title": "Poochini: Coffee Dog", "slug_title": "poochini-coffee-dog", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

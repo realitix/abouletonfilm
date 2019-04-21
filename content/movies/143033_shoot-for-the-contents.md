@@ -1,0 +1,1 @@
+{"tmdb_id": 143033, "title": "Shoot for the Contents", "original_title": "Shoot for the Contents", "slug_title": "shoot-for-the-contents", "date": "1991-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6E7zKqhMVS9jbllKZpRnKngBl3Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

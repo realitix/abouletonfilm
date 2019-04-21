@@ -1,0 +1,1 @@
+{"tmdb_id": 307908, "title": "Hosa Belaku", "original_title": "Hosa Belaku", "slug_title": "hosa-belaku", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

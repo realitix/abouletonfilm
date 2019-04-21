@@ -1,0 +1,1 @@
+{"tmdb_id": 237338, "title": "Campus Capers", "original_title": "Campus Capers", "slug_title": "campus-capers", "date": "1949-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnCVZccS7nLVFKKqS57xnXqB2OJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

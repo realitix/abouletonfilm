@@ -1,0 +1,1 @@
+{"tmdb_id": 493640, "title": "Barbe bleue", "original_title": "Barbe bleue", "slug_title": "barbe-bleue", "date": "1898-12-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274559, "title": "Karajan - Beauty as I see it", "original_title": "Karajan - Sch\u00f6nheit wie ich sie sehe", "slug_title": "karajan-beauty-as-i-see-it", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

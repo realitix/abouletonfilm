@@ -1,0 +1,1 @@
+{"tmdb_id": 74312, "title": "Between Two Fires", "original_title": "Dwa ognie", "slug_title": "between-two-fires", "date": "2010-10-13", "genre": "Drame / Romance / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95ruB4gEylnGGbmsWGmC6sE08SF.jpg", "actors": [], "comments": [], "recommandations_id": []}

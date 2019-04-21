@@ -1,0 +1,1 @@
+{"tmdb_id": 385626, "title": "High School", "original_title": "Terza liceo", "slug_title": "high-school", "date": "1954-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ugo Amaldi (Franco)", "Giulia Rubini (Camilla)", "Ilaria Occhini (Isabella)", "Anna-Maria Sandri (Teresa)"], "comments": [], "recommandations_id": []}

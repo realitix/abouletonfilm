@@ -1,0 +1,1 @@
+{"tmdb_id": 418972, "title": "La escribana de uraba", "original_title": "La escribana de uraba", "slug_title": "la-escribana-de-uraba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

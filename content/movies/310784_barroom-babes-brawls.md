@@ -1,0 +1,1 @@
+{"tmdb_id": 310784, "title": "Barroom Babes & Brawls", "original_title": "Barroom Babes & Brawls", "slug_title": "barroom-babes-brawls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

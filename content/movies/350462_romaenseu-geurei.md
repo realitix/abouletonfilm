@@ -1,0 +1,1 @@
+{"tmdb_id": 350462, "title": "\ub85c\ub9e8\uc2a4 \uadf8\ub808\uc774", "original_title": "\ub85c\ub9e8\uc2a4 \uadf8\ub808\uc774", "slug_title": "romaenseu-geurei", "date": "1979-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

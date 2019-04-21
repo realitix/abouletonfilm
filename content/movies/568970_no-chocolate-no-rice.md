@@ -1,0 +1,1 @@
+{"tmdb_id": 568970, "title": "No Chocolate, No Rice", "original_title": "No Chocolate, No Rice", "slug_title": "no-chocolate-no-rice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHAHEFSQCVEPvAp37WtQ8PShOBl.jpg", "actors": [], "comments": [], "recommandations_id": []}

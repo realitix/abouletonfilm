@@ -1,0 +1,1 @@
+{"tmdb_id": 305882, "title": "Pyar Ke Do Chaar Din", "original_title": "Pyar Ke Do Chaar Din", "slug_title": "pyar-ke-do-chaar-din", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

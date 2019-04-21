@@ -1,0 +1,1 @@
+{"tmdb_id": 269233, "title": "Glamorous Youth", "original_title": "Ming mei shiguang", "slug_title": "glamorous-youth", "date": "2009-09-24", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yrSIoGDBw4avrcbC4LTTz4pjU4b.jpg", "actors": ["Po Tai ()"], "comments": [], "recommandations_id": []}

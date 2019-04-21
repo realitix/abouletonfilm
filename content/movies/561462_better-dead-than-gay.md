@@ -1,0 +1,1 @@
+{"tmdb_id": 561462, "title": "Better Dead Than Gay", "original_title": "Better Dead Than Gay", "slug_title": "better-dead-than-gay", "date": "1996-06-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

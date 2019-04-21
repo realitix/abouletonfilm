@@ -1,0 +1,1 @@
+{"tmdb_id": 590216, "title": "Raman Raghav - A City, A Killer", "original_title": "Raman Raghav - A City, A Killer", "slug_title": "raman-raghav-a-city-a-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raghubir Yadav (Raman Raghav)"], "comments": [], "recommandations_id": []}

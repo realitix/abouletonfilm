@@ -1,0 +1,1 @@
+{"tmdb_id": 134316, "title": "Alice Cooper: Bonnaroo 2012", "original_title": "Alice Cooper: Bonnaroo 2012", "slug_title": "alice-cooper-bonnaroo-2012", "date": "2012-07-04", "genre": "Musique", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nNa7UyjF84Mose7EEvgJF4VubN.jpg", "actors": [], "comments": [], "recommandations_id": []}

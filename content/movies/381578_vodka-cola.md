@@ -1,0 +1,1 @@
+{"tmdb_id": 381578, "title": "Vodka Cola", "original_title": "Vodka Cola", "slug_title": "vodka-cola", "date": "1980-07-22", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swLdCbne9Tqzub36UHxvMYFcaiM.jpg", "actors": ["Charles Levinson (Himself)"], "comments": [], "recommandations_id": []}

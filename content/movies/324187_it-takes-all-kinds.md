@@ -1,0 +1,1 @@
+{"tmdb_id": 324187, "title": "It Takes All Kinds", "original_title": "It Takes All Kinds", "slug_title": "it-takes-all-kinds", "date": "1950-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

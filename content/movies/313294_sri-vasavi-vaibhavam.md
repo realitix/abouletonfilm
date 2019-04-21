@@ -1,0 +1,1 @@
+{"tmdb_id": 313294, "title": "Sri Vasavi Vaibhavam", "original_title": "Sri Vasavi Vaibhavam", "slug_title": "sri-vasavi-vaibhavam", "date": "2013-06-04", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meena ()", "Sai Kiran ()", "Nagababu ()", "Suman Talwar ()"], "comments": [], "recommandations_id": []}

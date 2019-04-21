@@ -1,0 +1,1 @@
+{"tmdb_id": 437969, "title": "Dem\u00f4nios da Garoa no Est\u00fadio Somlivre", "original_title": "Dem\u00f4nios da Garoa no Est\u00fadio Somlivre", "slug_title": "demonios-da-garoa-no-estudio-somlivre", "date": "2016-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

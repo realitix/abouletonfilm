@@ -1,0 +1,1 @@
+{"tmdb_id": 507711, "title": "The Women's Kingdom", "original_title": "The Women's Kingdom", "slug_title": "the-women-s-kingdom", "date": "2006-06-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uELgAYzq6GPog3GwLsqiDGLSO75.jpg", "actors": [], "comments": [], "recommandations_id": []}

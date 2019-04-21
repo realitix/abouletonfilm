@@ -1,0 +1,1 @@
+{"tmdb_id": 343572, "title": "Mala Onda 20 a\u00f1os", "original_title": "Mala Onda 20 a\u00f1os", "slug_title": "mala-onda-20-anos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

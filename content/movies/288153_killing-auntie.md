@@ -1,0 +1,1 @@
+{"tmdb_id": 288153, "title": "Killing Auntie", "original_title": "Zabicie ciotki", "slug_title": "killing-auntie", "date": "1985-09-20", "genre": "Com\u00e9die / Crime / Thriller / Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aI73Uy6NLAj7TdJHyMEA4Lhqcix.jpg", "actors": [], "comments": [], "recommandations_id": []}

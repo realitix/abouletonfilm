@@ -1,0 +1,1 @@
+{"tmdb_id": 466795, "title": "A Mother Of Monsters", "original_title": "M\u00e3e dos Monstros", "slug_title": "a-mother-of-monsters", "date": "2017-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqoXR5KG1Fq4FfKBDtFxfV8B7IY.jpg", "actors": ["Laura Hickmann ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386755, "title": "Die Seele des Geldes", "original_title": "Die Seele des Geldes", "slug_title": "die-seele-des-geldes", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

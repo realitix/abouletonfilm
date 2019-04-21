@@ -1,0 +1,1 @@
+{"tmdb_id": 423743, "title": "Efpsychi", "original_title": "Efpsychi", "slug_title": "efpsychi", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AlrhwUmvOzfRKI1U3KvP0z1S1zd.jpg", "actors": ["Vassili Tsindoukidis ()"], "comments": [], "recommandations_id": []}

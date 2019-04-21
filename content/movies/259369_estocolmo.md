@@ -1,0 +1,1 @@
+{"tmdb_id": 259369, "title": "Estocolmo", "original_title": "Estocolmo", "slug_title": "estocolmo", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

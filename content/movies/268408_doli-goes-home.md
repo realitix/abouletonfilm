@@ -1,0 +1,1 @@
+{"tmdb_id": 268408, "title": "Doli Goes Home", "original_title": "Doli Vuelve a Casa", "slug_title": "doli-goes-home", "date": "1986-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bJOrLC5ynjdoPDfAM3OOT418bb.jpg", "actors": [], "comments": [], "recommandations_id": []}

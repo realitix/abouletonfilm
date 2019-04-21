@@ -1,0 +1,1 @@
+{"tmdb_id": 277489, "title": "Chihuly in the Light of Jerusalem", "original_title": "Chihuly in the Light of Jerusalem", "slug_title": "chihuly-in-the-light-of-jerusalem", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

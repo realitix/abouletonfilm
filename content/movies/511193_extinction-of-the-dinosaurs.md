@@ -1,0 +1,1 @@
+{"tmdb_id": 511193, "title": "Extinction of the Dinosaurs", "original_title": "Extinction of the Dinosaurs", "slug_title": "extinction-of-the-dinosaurs", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

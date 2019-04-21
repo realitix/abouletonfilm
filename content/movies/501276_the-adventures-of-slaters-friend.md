@@ -1,0 +1,1 @@
+{"tmdb_id": 501276, "title": "The Adventures of Slater\u2019s Friend", "original_title": "The Adventures of Slater\u2019s Friend", "slug_title": "the-adventures-of-slaters-friend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

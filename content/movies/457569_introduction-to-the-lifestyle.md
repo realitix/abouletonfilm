@@ -1,0 +1,1 @@
+{"tmdb_id": 457569, "title": "Introduction To The Lifestyle", "original_title": "Introduction To The Lifestyle", "slug_title": "introduction-to-the-lifestyle", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ABJliP1ntm7DVyeiVCmk5SLmFE.jpg", "actors": [], "comments": [], "recommandations_id": []}

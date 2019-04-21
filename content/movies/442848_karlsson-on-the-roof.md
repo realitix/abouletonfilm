@@ -1,0 +1,1 @@
+{"tmdb_id": 442848, "title": "Karlsson-on-the-Roof", "original_title": "V\u00e4ikevend ja Karlsson katuselt", "slug_title": "karlsson-on-the-roof", "date": "1988-01-20", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anu Lamp (Karlsson)", "Jaan Laugam\u00f5t (V\u00e4ikevend)"], "comments": [], "recommandations_id": []}

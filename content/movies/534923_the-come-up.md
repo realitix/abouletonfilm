@@ -1,0 +1,1 @@
+{"tmdb_id": 534923, "title": "The Come Up", "original_title": "The Come Up", "slug_title": "the-come-up", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jermaine Fowler ()", "LilRel Howery ()", "Keith Lucas ()", "Kenneth Lucas ()"], "comments": [], "recommandations_id": []}

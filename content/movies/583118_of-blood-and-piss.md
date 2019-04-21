@@ -1,0 +1,1 @@
+{"tmdb_id": 583118, "title": "Of Blood and Piss", "original_title": "De sang et d'urine", "slug_title": "of-blood-and-piss", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

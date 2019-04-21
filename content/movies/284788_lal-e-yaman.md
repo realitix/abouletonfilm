@@ -1,0 +1,1 @@
+{"tmdb_id": 284788, "title": "Lal-e-Yaman", "original_title": "Lal-e-Yaman", "slug_title": "lal-e-yaman", "date": "1933-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jal Khambatta ()", "Karimja ()", "Padma ()"], "comments": [], "recommandations_id": []}

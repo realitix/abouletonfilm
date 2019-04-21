@@ -1,0 +1,1 @@
+{"tmdb_id": 46120, "title": "Green River Killer", "original_title": "Green River Killer", "slug_title": "green-river-killer", "date": "2006-02-03", "genre": "", "score": "2.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQR1lQQ8HkOQd8ElwrZ3QC7Md1d.jpg", "actors": [], "comments": [], "recommandations_id": [200953, 44935]}

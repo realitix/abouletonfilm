@@ -1,0 +1,1 @@
+{"tmdb_id": 575979, "title": "A Few Great Bakeries", "original_title": "A Few Great Bakeries", "slug_title": "a-few-great-bakeries", "date": "2015-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mBfdZJeeph72cqfunEmCw7PxvTS.jpg", "actors": [], "comments": [], "recommandations_id": []}

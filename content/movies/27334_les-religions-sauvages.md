@@ -1,0 +1,1 @@
+{"tmdb_id": 27334, "title": "Les Religions Sauvages", "original_title": "Les Religions Sauvages", "slug_title": "les-religions-sauvages", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugw0jl6APeb0c2ehsobJVN0V7ye.jpg", "actors": [], "comments": [], "recommandations_id": []}

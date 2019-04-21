@@ -1,0 +1,1 @@
+{"tmdb_id": 543290, "title": "Who is afraid of ideology? Part I", "original_title": "Who is afraid of ideology? Part I", "slug_title": "who-is-afraid-of-ideology-part-i", "date": "2017-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

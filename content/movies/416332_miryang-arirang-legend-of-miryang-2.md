@@ -1,0 +1,1 @@
+{"tmdb_id": 416332, "title": "Miryang Arirang - Legend of Miryang 2", "original_title": "Miryang Arirang - Legend of Miryang 2", "slug_title": "miryang-arirang-legend-of-miryang-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

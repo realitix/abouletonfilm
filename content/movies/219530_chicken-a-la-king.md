@@ -1,0 +1,1 @@
+{"tmdb_id": 219530, "title": "Chicken a La King", "original_title": "Chicken a La King", "slug_title": "chicken-a-la-king", "date": "1937-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ud5F5ZNNxABPJCJmuSJlFg78DI.jpg", "actors": ["Jack Mercer (Ducky Wucky / Chickens)"], "comments": [], "recommandations_id": []}

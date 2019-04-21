@@ -1,0 +1,1 @@
+{"tmdb_id": 447292, "title": "Jhing Chik Jhing", "original_title": "Jhing Chik Jhing", "slug_title": "jhing-chik-jhing", "date": "2009-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5g7DLomIxCFYds8jkecXyuVaxz.jpg", "actors": [], "comments": [], "recommandations_id": []}

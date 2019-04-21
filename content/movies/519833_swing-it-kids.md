@@ -1,0 +1,1 @@
+{"tmdb_id": 519833, "title": "Swing It Kids", "original_title": "Swing It Kids", "slug_title": "swing-it-kids", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7K5IzeR9HpErBC17xSi9dq5FfW.jpg", "actors": [], "comments": [], "recommandations_id": []}

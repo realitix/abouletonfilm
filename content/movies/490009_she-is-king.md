@@ -1,0 +1,1 @@
+{"tmdb_id": 490009, "title": "She Is King", "original_title": "She Is King", "slug_title": "she-is-king", "date": "2017-06-01", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1neQDCpUt1fe0KyEaklAO3i06eP.jpg", "actors": [], "comments": [], "recommandations_id": []}

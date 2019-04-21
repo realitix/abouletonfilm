@@ -1,0 +1,1 @@
+{"tmdb_id": 377654, "title": "Lost Words", "original_title": "Izpusnati Dumi", "slug_title": "lost-words", "date": "2010-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysHmr68ANkODxTcVBfBKIyWcKbk.jpg", "actors": ["Koyna Ruseva ()", "Georgi Vachev ()"], "comments": [], "recommandations_id": []}

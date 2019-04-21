@@ -1,0 +1,1 @@
+{"tmdb_id": 566802, "title": "O Celular", "original_title": "O Celular", "slug_title": "o-celular", "date": "2018-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruno R.M ()", "Arthur Mota ()"], "comments": [], "recommandations_id": []}

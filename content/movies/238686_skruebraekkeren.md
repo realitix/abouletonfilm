@@ -1,0 +1,1 @@
+{"tmdb_id": 238686, "title": "Skruebr\u00e6kkeren", "original_title": "Skruebr\u00e6kkeren", "slug_title": "skruebraekkeren", "date": "1919-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oscar Stribolt (Mr. Basse)", "Carl Schenstr\u00f8m ()"], "comments": [], "recommandations_id": []}

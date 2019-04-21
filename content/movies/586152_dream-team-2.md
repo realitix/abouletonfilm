@@ -1,0 +1,1 @@
+{"tmdb_id": 586152, "title": "Dream Team 2", "original_title": "Dream Team 2", "slug_title": "dream-team-2", "date": "1994-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhc6T7A0qUl7itUELWNYLpmSALi.jpg", "actors": [], "comments": [], "recommandations_id": []}

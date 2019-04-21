@@ -1,0 +1,1 @@
+{"tmdb_id": 455814, "title": "Sam Roma: We Are Gypsies", "original_title": "Sam Roma: Eimaste Tsigganoi", "slug_title": "sam-roma-we-are-gypsies", "date": "", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iAPUPUUXa1lCeBOeXdv5Va0FcJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 507715, "title": "Kryptonite", "original_title": "Kryptonite", "slug_title": "kryptonite", "date": "2018-02-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/maILXJsSGlnUhDDJiuLJIuiMSDD.jpg", "actors": ["Alex Valdes (The Man)"], "comments": [], "recommandations_id": []}

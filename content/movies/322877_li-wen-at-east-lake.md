@@ -1,0 +1,1 @@
+{"tmdb_id": 322877, "title": "Li Wen at East Lake", "original_title": "Li Wen man you Dong Hu", "slug_title": "li-wen-at-east-lake", "date": "2015-01-22", "genre": "Documentaire / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bcMNthcfpb1xTm8pVvqGT2NjLHb.jpg", "actors": ["Li Wen ()"], "comments": [], "recommandations_id": []}

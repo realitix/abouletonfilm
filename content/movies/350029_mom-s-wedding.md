@@ -1,0 +1,1 @@
+{"tmdb_id": 350029, "title": "Mom's Wedding", "original_title": "\uc5c4\ub9c8 \uacb0\ud63c\uc2dd", "slug_title": "mom-s-wedding", "date": "1982-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Choi Yun-seok ()", "Jeong Hee ()", "Kim Min-hee ()", "Lee Hye-young ()"], "comments": [], "recommandations_id": []}

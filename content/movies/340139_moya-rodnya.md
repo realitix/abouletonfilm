@@ -1,0 +1,1 @@
+{"tmdb_id": 340139, "title": "Moya Rodnya", "original_title": "Moya Rodnya", "slug_title": "moya-rodnya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

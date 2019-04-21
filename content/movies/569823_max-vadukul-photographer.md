@@ -1,0 +1,1 @@
+{"tmdb_id": 569823, "title": "Max Vadukul: Photographer", "original_title": "Max Vadukul: Photographer", "slug_title": "max-vadukul-photographer", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4zFKnThzxwikkM0ogfNS7cXxKo.jpg", "actors": [], "comments": [], "recommandations_id": []}

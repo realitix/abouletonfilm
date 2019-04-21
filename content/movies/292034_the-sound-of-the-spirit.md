@@ -1,0 +1,1 @@
+{"tmdb_id": 292034, "title": "The Sound of the Spirit", "original_title": "The Sound of the Spirit", "slug_title": "the-sound-of-the-spirit", "date": "2012-06-12", "genre": "Familial / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqcSusEdfpmHuHvcyO1WPIHE0b5.jpg", "actors": [], "comments": [], "recommandations_id": []}

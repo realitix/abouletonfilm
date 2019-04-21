@@ -1,0 +1,1 @@
+{"tmdb_id": 522532, "title": "Accordion Dreams", "original_title": "Accordion Dreams", "slug_title": "accordion-dreams", "date": "", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zt3ICsUPqE3wOXCPfSHLHNvNEPu.jpg", "actors": [], "comments": [], "recommandations_id": []}

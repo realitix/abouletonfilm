@@ -1,0 +1,1 @@
+{"tmdb_id": 558834, "title": "Ils \u00e9taient cinq permissionnaires", "original_title": "Ils \u00e9taient cinq permissionnaires", "slug_title": "ils-etaient-cinq-permissionnaires", "date": "1945-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

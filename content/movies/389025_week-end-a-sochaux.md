@@ -1,0 +1,1 @@
+{"tmdb_id": 389025, "title": "Week-end \u00e0 Sochaux", "original_title": "Week-end \u00e0 Sochaux", "slug_title": "week-end-a-sochaux", "date": "1972-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xN07rXmyiFOkLOk6bSG7d6G0j9.jpg", "actors": [], "comments": [], "recommandations_id": []}

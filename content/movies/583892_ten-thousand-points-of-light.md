@@ -1,0 +1,1 @@
+{"tmdb_id": 583892, "title": "Ten Thousand Points of Light", "original_title": "Ten Thousand Points of Light", "slug_title": "ten-thousand-points-of-light", "date": "1991-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gn9qI2pjD4zl0i5WktbdHGc0W2W.jpg", "actors": [], "comments": [], "recommandations_id": []}

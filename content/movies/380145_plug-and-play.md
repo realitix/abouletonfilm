@@ -1,0 +1,1 @@
+{"tmdb_id": 380145, "title": "Plug and Play", "original_title": "Plug and Play", "slug_title": "plug-and-play", "date": "2013-02-28", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fm7j4RJW0xVIFNBe9a4Y3lm1nHU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 570446, "title": "O conto do Coruja", "original_title": "O conto do Coruja", "slug_title": "o-conto-do-coruja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

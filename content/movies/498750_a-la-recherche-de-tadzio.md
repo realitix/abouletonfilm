@@ -1,0 +1,1 @@
+{"tmdb_id": 498750, "title": "A la recherche de Tadzio", "original_title": "A la recherche de Tadzio", "slug_title": "a-la-recherche-de-tadzio", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bj\u00f6rn Andr\u00e9sen (Himself)"], "comments": [], "recommandations_id": []}

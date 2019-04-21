@@ -1,0 +1,1 @@
+{"tmdb_id": 387400, "title": "Time Bomb", "original_title": "Time Bomb", "slug_title": "time-bomb", "date": "2014-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

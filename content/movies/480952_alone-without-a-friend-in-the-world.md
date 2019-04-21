@@ -1,0 +1,1 @@
+{"tmdb_id": 480952, "title": "Alone: Without a Friend in the World", "original_title": "Alone: Without a Friend in the World", "slug_title": "alone-without-a-friend-in-the-world", "date": "2007-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389657, "title": "Predchuvstviye", "original_title": "Predchuvstviye", "slug_title": "predchuvstviye", "date": "1992-03-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugYBm2UvASa5yHj415s8pEbjQNV.jpg", "actors": ["Maria Ploae ()"], "comments": [], "recommandations_id": []}

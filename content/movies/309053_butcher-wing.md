@@ -1,0 +1,1 @@
+{"tmdb_id": 309053, "title": "Butcher Wing", "original_title": "\u8c6c\u8089\u69ae", "slug_title": "butcher-wing", "date": "1979-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeXmJrLsyvzcxXO6ouHP3xsgGbX.jpg", "actors": [], "comments": [], "recommandations_id": []}

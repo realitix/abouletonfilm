@@ -1,0 +1,1 @@
+{"tmdb_id": 295974, "title": "The Vampyr: A Soap Opera", "original_title": "The Vampyr: A Soap Opera", "slug_title": "the-vampyr-a-soap-opera", "date": "1992-12-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cjK7l8xg4L1Ka2bYQAUvHulUEq5.jpg", "actors": [], "comments": [], "recommandations_id": []}

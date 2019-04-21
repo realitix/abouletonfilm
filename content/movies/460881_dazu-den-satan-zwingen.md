@@ -1,0 +1,1 @@
+{"tmdb_id": 460881, "title": "Dazu den Satan zwingen", "original_title": "Dazu den Satan zwingen", "slug_title": "dazu-den-satan-zwingen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

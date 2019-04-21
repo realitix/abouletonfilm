@@ -1,0 +1,1 @@
+{"tmdb_id": 80726, "title": "WordWorld: Bear's Masterpiece", "original_title": "WordWorld: Bear's Masterpiece", "slug_title": "wordworld-bear-s-masterpiece", "date": "2010-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBtMp7dd7VdqoTwExYRTqWRwwsb.jpg", "actors": [], "comments": [], "recommandations_id": []}

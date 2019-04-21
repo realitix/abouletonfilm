@@ -1,0 +1,1 @@
+{"tmdb_id": 207464, "title": "Sex, Drugs and Money", "original_title": "Sex, Drugs and Money", "slug_title": "sex-drugs-and-money", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard A. Rose (Director)"], "comments": [], "recommandations_id": []}

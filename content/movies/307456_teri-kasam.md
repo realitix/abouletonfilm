@@ -1,0 +1,1 @@
+{"tmdb_id": 307456, "title": "Teri Kasam", "original_title": "Teri Kasam", "slug_title": "teri-kasam", "date": "1982-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 141916, "title": "Teenage Rebellion", "original_title": "Teenage Rebellion", "slug_title": "teenage-rebellion", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2YNMTZnYKTDol2GgDubpNuQHqmx.jpg", "actors": [], "comments": [], "recommandations_id": []}

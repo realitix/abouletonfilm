@@ -1,0 +1,1 @@
+{"tmdb_id": 484816, "title": "Repeater", "original_title": "Repeater", "slug_title": "repeater", "date": "2017-11-24", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYs3InkpbICLgVWsuuqF73pQ4gc.jpg", "actors": ["P.J. Marshall (Repeater)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 87524, "title": "Mondo Cane 2", "original_title": "Mondo Cane 2", "slug_title": "mondo-cane-2", "date": "1963-11-30", "genre": "Documentaire", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQ7Xt9ZXTPRtrdmFXWIyhQEB83p.jpg", "actors": [], "comments": [], "recommandations_id": [32688, 3541]}

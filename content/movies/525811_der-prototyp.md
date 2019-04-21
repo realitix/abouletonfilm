@@ -1,0 +1,1 @@
+{"tmdb_id": 525811, "title": "Der Prototyp", "original_title": "Der Prototyp", "slug_title": "der-prototyp", "date": "1975-12-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthias Habich (Wolf D. Steiner)", "Lydia Kreibohm (Isabell Wember)", "Claus-Dieter Reents (Ed)"], "comments": [], "recommandations_id": []}

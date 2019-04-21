@@ -1,0 +1,1 @@
+{"tmdb_id": 511184, "title": "Man: The Polluter", "original_title": "Man: The Polluter", "slug_title": "man-the-polluter", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/maM1Nk0UHAy3T8iNHiuCV3ArOLD.jpg", "actors": ["Fred H. Knelman ()"], "comments": [], "recommandations_id": []}

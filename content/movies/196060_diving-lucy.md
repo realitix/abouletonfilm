@@ -1,0 +1,1 @@
+{"tmdb_id": 196060, "title": "Diving Lucy", "original_title": "Diving Lucy", "slug_title": "diving-lucy", "date": "1903-01-12", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jR56PWd1NjUy2Nf5r0tQojnATyn.jpg", "actors": [], "comments": [], "recommandations_id": []}

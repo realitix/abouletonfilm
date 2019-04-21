@@ -1,0 +1,1 @@
+{"tmdb_id": 300112, "title": "Playing God: Human Cloning", "original_title": "Playing God: Human Cloning", "slug_title": "playing-god-human-cloning", "date": "2001-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

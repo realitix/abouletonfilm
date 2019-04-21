@@ -1,0 +1,1 @@
+{"tmdb_id": 468881, "title": "Mai's America", "original_title": "Mai's America", "slug_title": "mai-s-america", "date": "2002-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pCRN5Ra1ejmFQgJCb4hPtM8JXts.jpg", "actors": [], "comments": [], "recommandations_id": []}

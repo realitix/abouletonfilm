@@ -1,0 +1,1 @@
+{"tmdb_id": 514253, "title": "Not Yo Mama's Movement", "original_title": "De Paris \u00e0 Ferguson: coupables d\u2019\u00eatre noirs", "slug_title": "not-yo-mama-s-movement", "date": "2016-10-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

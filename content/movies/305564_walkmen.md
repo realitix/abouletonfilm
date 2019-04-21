@@ -1,0 +1,1 @@
+{"tmdb_id": 305564, "title": "Walkmen", "original_title": "Walkmen", "slug_title": "walkmen", "date": "2002-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xv8I8QvxwBOgUY8TOfSf1PPJxjw.jpg", "actors": [], "comments": [], "recommandations_id": []}

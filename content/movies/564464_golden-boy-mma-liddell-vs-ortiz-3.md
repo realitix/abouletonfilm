@@ -1,0 +1,1 @@
+{"tmdb_id": 564464, "title": "Golden Boy MMA Liddell vs Ortiz 3", "original_title": "Golden Boy MMA Liddell vs Ortiz 3", "slug_title": "golden-boy-mma-liddell-vs-ortiz-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

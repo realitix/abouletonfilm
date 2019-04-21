@@ -1,0 +1,1 @@
+{"tmdb_id": 471417, "title": "A New Economy", "original_title": "A New Economy", "slug_title": "a-new-economy", "date": "2017-02-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRQUBkX4G5cd016yfYtTnNCAFon.jpg", "actors": [], "comments": [], "recommandations_id": []}

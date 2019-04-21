@@ -1,0 +1,1 @@
+{"tmdb_id": 557433, "title": "The Pearl", "original_title": "La perle", "slug_title": "the-pearl", "date": "1932-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

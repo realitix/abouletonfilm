@@ -1,0 +1,1 @@
+{"tmdb_id": 275919, "title": "Manchali", "original_title": "Manchali", "slug_title": "manchali", "date": "1973-10-26", "genre": "Musique / Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sanjeev Kumar (Sushil Kumar)", "Leena Chandavarkar (Leena)", "Nirupa Roy (Chachi)"], "comments": [], "recommandations_id": []}

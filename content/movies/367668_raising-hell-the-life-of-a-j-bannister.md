@@ -1,0 +1,1 @@
+{"tmdb_id": 367668, "title": "Raising Hell the Life of A.J. Bannister", "original_title": "Raising Hell the Life of A.J. Bannister", "slug_title": "raising-hell-the-life-of-a-j-bannister", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477191, "title": "Shadow Nettes", "original_title": "Shadow Nettes", "slug_title": "shadow-nettes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

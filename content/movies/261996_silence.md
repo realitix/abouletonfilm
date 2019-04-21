@@ -1,0 +1,1 @@
+{"tmdb_id": 261996, "title": "Silence", "original_title": "Cisza", "slug_title": "silence", "date": "2010-10-28", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edyta Olsz\u00f3wka (Alicja Domaga\u0142a)", "Pawel Kr\u00f3likowski (Robert)", "Ma\u0142gorzata Kochan (Matka Oli)"], "comments": [], "recommandations_id": []}

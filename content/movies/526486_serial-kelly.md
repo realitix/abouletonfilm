@@ -1,0 +1,1 @@
+{"tmdb_id": 526486, "title": "Serial Kelly", "original_title": "Serial Kelly", "slug_title": "serial-kelly", "date": "2018-10-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gaby Amarantos (Kelly)"], "comments": [], "recommandations_id": []}

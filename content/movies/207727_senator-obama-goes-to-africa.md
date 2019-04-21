@@ -1,0 +1,1 @@
+{"tmdb_id": 207727, "title": "Senator Obama Goes to Africa", "original_title": "Senator Obama Goes to Africa", "slug_title": "senator-obama-goes-to-africa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553409, "title": "Anima Exhalare", "original_title": "Anima Exhalare", "slug_title": "anima-exhalare", "date": "2018-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odhgLEJ6mmYBunfedGAtiTa0EZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

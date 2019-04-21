@@ -1,0 +1,1 @@
+{"tmdb_id": 384495, "title": "A.K.A Nadia", "original_title": "A.K.A Nadia", "slug_title": "a-k-a-nadia", "date": "2015-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJhAiNacYbRSMfP6Ll7zWCUjjme.jpg", "actors": [], "comments": [], "recommandations_id": []}

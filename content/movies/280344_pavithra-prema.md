@@ -1,0 +1,1 @@
+{"tmdb_id": 280344, "title": "Pavithra Prema", "original_title": "Pavithra Prema", "slug_title": "pavithra-prema", "date": "1998-06-04", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nandamuri Balakrishna ()", "Laila ()", "Roshini ()", "Ponnambalam ()", "Ali ()"], "comments": [], "recommandations_id": []}

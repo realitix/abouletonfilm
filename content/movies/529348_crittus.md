@@ -1,0 +1,1 @@
+{"tmdb_id": 529348, "title": "Crittus", "original_title": "Crittus", "slug_title": "crittus", "date": "2018-02-06", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Felipe Abib (Sean)"], "comments": [], "recommandations_id": []}

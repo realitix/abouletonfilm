@@ -1,0 +1,1 @@
+{"tmdb_id": 321186, "title": "A Transi\u00e7\u00e3o", "original_title": "A Transi\u00e7\u00e3o", "slug_title": "a-transicao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

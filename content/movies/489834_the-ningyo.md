@@ -1,0 +1,1 @@
+{"tmdb_id": 489834, "title": "The Ningyo", "original_title": "The Ningyo", "slug_title": "the-ningyo", "date": "2017-11-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGAoM9QQr5g23nGZraZ0XjVlLbk.jpg", "actors": [], "comments": [], "recommandations_id": []}

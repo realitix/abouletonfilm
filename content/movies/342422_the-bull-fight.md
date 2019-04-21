@@ -1,0 +1,1 @@
+{"tmdb_id": 342422, "title": "The Bull Fight", "original_title": "The Bull Fight", "slug_title": "the-bull-fight", "date": "1935-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

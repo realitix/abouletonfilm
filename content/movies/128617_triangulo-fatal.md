@@ -1,0 +1,1 @@
+{"tmdb_id": 128617, "title": "Tri\u00e1ngulo Fatal", "original_title": "Tri\u00e1ngulo Fatal", "slug_title": "triangulo-fatal", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

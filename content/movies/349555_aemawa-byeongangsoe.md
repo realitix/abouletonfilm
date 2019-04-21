@@ -1,0 +1,1 @@
+{"tmdb_id": 349555, "title": "\uc560\ub9c8\uc640 \ubcc0\uac15\uc1e0", "original_title": "\uc560\ub9c8\uc640 \ubcc0\uac15\uc1e0", "slug_title": "aemawa-byeongangsoe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

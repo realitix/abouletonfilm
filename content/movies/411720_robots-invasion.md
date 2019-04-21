@@ -1,0 +1,1 @@
+{"tmdb_id": 411720, "title": "Robots Invasion", "original_title": "Robots Invasion", "slug_title": "robots-invasion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "r\u00e9alis\u00e9 par Masha Vasyukova", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWY51Zk1x6RjLL5vjJDQpdvgbqy.jpg", "actors": ["Lou Gala ()"], "comments": [], "recommandations_id": []}

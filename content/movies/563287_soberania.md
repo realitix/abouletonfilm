@@ -1,0 +1,1 @@
+{"tmdb_id": 563287, "title": "Soberania", "original_title": "Soberania", "slug_title": "soberania", "date": "2018-07-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wB3ET1admhao51eTlL99kfJoVP0.jpg", "actors": [], "comments": [], "recommandations_id": []}

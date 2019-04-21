@@ -1,0 +1,1 @@
+{"tmdb_id": 401307, "title": "Collision", "original_title": "Collision", "slug_title": "collision", "date": "2005-06-08", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4KG0gyvTA9HPLSpEgOQKZDqJjF.jpg", "actors": [], "comments": [], "recommandations_id": []}

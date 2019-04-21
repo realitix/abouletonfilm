@@ -1,0 +1,1 @@
+{"tmdb_id": 481542, "title": "\ubd81\ucabd\uc5d0\uc11c \uc628 \uc5ec\ud589\uc790", "original_title": "\ubd81\ucabd\uc5d0\uc11c \uc628 \uc5ec\ud589\uc790", "slug_title": "bugjjogeseo-on-yeohaengja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

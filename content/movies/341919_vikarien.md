@@ -1,0 +1,1 @@
+{"tmdb_id": 341919, "title": "Vikarien", "original_title": "Vikarien", "slug_title": "vikarien", "date": "2006-03-31", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBnc36ZNKRjpD4QfUgQ8tK9j4Bs.jpg", "actors": ["Max Wejstorp (Himself)", "Folke Silv\u00e9n (Himself)"], "comments": [], "recommandations_id": []}

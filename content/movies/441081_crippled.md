@@ -1,0 +1,1 @@
+{"tmdb_id": 441081, "title": "Crippled", "original_title": "Crippled", "slug_title": "crippled", "date": "1992-03-06", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4R4VgYNHmwINvMF7aUoC1BaijGX.jpg", "actors": ["Nanzi Regalia ()", "Margaret Petrov ()", "Joe Christ ()"], "comments": [], "recommandations_id": []}

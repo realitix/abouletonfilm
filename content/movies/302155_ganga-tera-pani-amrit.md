@@ -1,0 +1,1 @@
+{"tmdb_id": 302155, "title": "Ganga Tera Pani Amrit", "original_title": "Ganga Tera Pani Amrit", "slug_title": "ganga-tera-pani-amrit", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

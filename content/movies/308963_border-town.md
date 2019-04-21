@@ -1,0 +1,1 @@
+{"tmdb_id": 308963, "title": "Border Town", "original_title": "Bian cheng", "slug_title": "border-town", "date": "1984-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0FyGgKzoAszZnmIMMAFb0lRLRe.jpg", "actors": ["Feng Jin ()", "Liu Hanpu ()", "Feng Hanyuan ()"], "comments": [], "recommandations_id": []}

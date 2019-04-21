@@ -1,0 +1,1 @@
+{"tmdb_id": 325916, "title": "Jim Lauderdale: The King of Broken Hearts", "original_title": "Jim Lauderdale: The King of Broken Hearts", "slug_title": "jim-lauderdale-the-king-of-broken-hearts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

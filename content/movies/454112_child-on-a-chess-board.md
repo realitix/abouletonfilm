@@ -1,0 +1,1 @@
+{"tmdb_id": 454112, "title": "Child on a Chess Board", "original_title": "Child on a Chess Board", "slug_title": "child-on-a-chess-board", "date": "1979-04-23", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLQjWaT0jhSbeeMoYZOj291jaCx.jpg", "actors": [], "comments": [], "recommandations_id": []}

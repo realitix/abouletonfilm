@@ -1,0 +1,1 @@
+{"tmdb_id": 37341, "title": "Boom Festival 2008 - We Are All", "original_title": "Boom Festival 2008 - We Are All", "slug_title": "boom-festival-2008-we-are-all", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

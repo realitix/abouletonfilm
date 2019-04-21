@@ -1,0 +1,1 @@
+{"tmdb_id": 284664, "title": "Kemira: Diary of a Strike", "original_title": "Kemira: Diary of a Strike", "slug_title": "kemira-diary-of-a-strike", "date": "1984-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMteqsnCVb38WU7pDymP5FxnH5d.jpg", "actors": [], "comments": [], "recommandations_id": []}

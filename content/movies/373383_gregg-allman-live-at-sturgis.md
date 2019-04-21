@@ -1,0 +1,1 @@
+{"tmdb_id": 373383, "title": "Gregg Allman LIVE at Sturgis", "original_title": "Gregg Allman LIVE at Sturgis", "slug_title": "gregg-allman-live-at-sturgis", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gregg Allman ()"], "comments": [], "recommandations_id": []}

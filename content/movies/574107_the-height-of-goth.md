@@ -1,0 +1,1 @@
+{"tmdb_id": 574107, "title": "The Height of Goth", "original_title": "The Height of Goth", "slug_title": "the-height-of-goth", "date": "1984-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

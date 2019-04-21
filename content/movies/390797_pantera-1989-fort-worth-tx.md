@@ -1,0 +1,1 @@
+{"tmdb_id": 390797, "title": "Pantera: [1989] Fort Worth, TX", "original_title": "Pantera: [1989] Fort Worth, TX", "slug_title": "pantera-1989-fort-worth-tx", "date": "1989-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ma2Wq6cNn5tTM4KBHeWKupYfpvD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 59047, "title": "Je m'appelle Morando - Alfabeto Morandini", "original_title": "Je m'appelle Morando - Alfabeto Morandini", "slug_title": "je-m-appelle-morando-alfabeto-morandini", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Morando Morandini ()"], "comments": [], "recommandations_id": []}

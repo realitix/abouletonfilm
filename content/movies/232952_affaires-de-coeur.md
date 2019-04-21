@@ -1,0 +1,1 @@
+{"tmdb_id": 232952, "title": "Affaires de c\u0153ur", "original_title": "Affaires de c\u0153ur", "slug_title": "affaires-de-coeur", "date": "1909-11-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mS3lGPtP1Eguz3GKDuUN1odfBEH.jpg", "actors": [], "comments": [], "recommandations_id": [142194]}

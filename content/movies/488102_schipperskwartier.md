@@ -1,0 +1,1 @@
+{"tmdb_id": 488102, "title": "Schipperskwartier", "original_title": "Schipperskwartier", "slug_title": "schipperskwartier", "date": "1953-06-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XhevYnoUdYx5AlEzdjsdiiXMv0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 255735, "title": "New York Eye and Ear Control", "original_title": "New York Eye and Ear Control", "slug_title": "new-york-eye-and-ear-control", "date": "1964-01-01", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2b2Tz1z2oK0gD4MiZ7HJ7G8nBJL.jpg", "actors": [], "comments": [], "recommandations_id": []}

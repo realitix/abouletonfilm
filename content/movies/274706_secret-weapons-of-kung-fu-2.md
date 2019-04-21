@@ -1,0 +1,1 @@
+{"tmdb_id": 274706, "title": "Secret Weapons of Kung Fu 2", "original_title": "Secret Weapons of Kung Fu 2", "slug_title": "secret-weapons-of-kung-fu-2", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

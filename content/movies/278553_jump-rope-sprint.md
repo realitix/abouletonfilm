@@ -1,0 +1,1 @@
+{"tmdb_id": 278553, "title": "Jump Rope Sprint", "original_title": "Jump Rope Sprint", "slug_title": "jump-rope-sprint", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruKm74TJbBDNFOJnYFzSKSqRqbX.jpg", "actors": [], "comments": [], "recommandations_id": []}

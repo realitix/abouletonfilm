@@ -1,0 +1,1 @@
+{"tmdb_id": 294216, "title": "The Forbidden Castle", "original_title": "Binan-jo", "slug_title": "the-forbidden-castle", "date": "1959-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dftb87f0jFDDcCCfSaJhz8m4dvw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276189, "title": "Messa per Rossini", "original_title": "Messa per Rossini", "slug_title": "messa-per-rossini", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

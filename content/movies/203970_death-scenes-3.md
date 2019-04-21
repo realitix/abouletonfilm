@@ -1,0 +1,1 @@
+{"tmdb_id": 203970, "title": "Death Scenes 3", "original_title": "Death Scenes 3", "slug_title": "death-scenes-3", "date": "1993-01-01", "genre": "Documentaire / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sftcLlGCtmIefGVmoKimrKwFrFP.jpg", "actors": [], "comments": [], "recommandations_id": []}

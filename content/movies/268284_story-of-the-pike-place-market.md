@@ -1,0 +1,1 @@
+{"tmdb_id": 268284, "title": "Story of the Pike Place Market", "original_title": "Story of the Pike Place Market", "slug_title": "story-of-the-pike-place-market", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

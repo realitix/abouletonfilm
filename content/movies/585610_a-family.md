@@ -1,0 +1,1 @@
+{"tmdb_id": 585610, "title": "A Family", "original_title": "En familj", "slug_title": "a-family", "date": "2004-08-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aida Gordon (Ariana)", "Ulf Friberg (Tomas)", "Filip Amvon ()", "Siri Wickman (Tanja)"], "comments": [], "recommandations_id": []}

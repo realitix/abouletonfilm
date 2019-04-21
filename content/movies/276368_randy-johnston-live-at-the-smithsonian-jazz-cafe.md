@@ -1,0 +1,1 @@
+{"tmdb_id": 276368, "title": "Randy Johnston: Live at the Smithsonian Jazz Cafe", "original_title": "Randy Johnston: Live at the Smithsonian Jazz Cafe", "slug_title": "randy-johnston-live-at-the-smithsonian-jazz-cafe", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

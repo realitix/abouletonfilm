@@ -1,0 +1,1 @@
+{"tmdb_id": 316394, "title": "The Lonely Shore", "original_title": "The Lonely Shore", "slug_title": "the-lonely-shore", "date": "1962-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Church (Narrator)"], "comments": [], "recommandations_id": []}

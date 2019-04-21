@@ -1,0 +1,1 @@
+{"tmdb_id": 348810, "title": "Number One Fan", "original_title": "Number One Fan", "slug_title": "number-one-fan", "date": "1997-01-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn Fitzgerald (Abel)", "Aleksa Palladino (Sadie)", "Katy Petty (Selma)", "C.M. Talkington (Nash)"], "comments": [], "recommandations_id": []}

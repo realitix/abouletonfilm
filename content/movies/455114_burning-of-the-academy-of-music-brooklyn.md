@@ -1,0 +1,1 @@
+{"tmdb_id": 455114, "title": "Burning of the Academy of Music, Brooklyn", "original_title": "Burning of the Academy of Music, Brooklyn", "slug_title": "burning-of-the-academy-of-music-brooklyn", "date": "1903-12-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

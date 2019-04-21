@@ -1,0 +1,1 @@
+{"tmdb_id": 290767, "title": "Hunting Buddies", "original_title": "Hunting Buddies", "slug_title": "hunting-buddies", "date": "2009-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

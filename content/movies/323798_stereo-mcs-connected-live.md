@@ -1,0 +1,1 @@
+{"tmdb_id": 323798, "title": "Stereo MCs: Connected Live", "original_title": "Stereo MCs: Connected Live", "slug_title": "stereo-mcs-connected-live", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

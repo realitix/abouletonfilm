@@ -1,0 +1,1 @@
+{"tmdb_id": 237109, "title": "Smoked Hams", "original_title": "Smoked Hams", "slug_title": "smoked-hams", "date": "1947-04-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Y6wMAXyQ7LWlqBcjliGdi4pVYF.jpg", "actors": [], "comments": [], "recommandations_id": []}

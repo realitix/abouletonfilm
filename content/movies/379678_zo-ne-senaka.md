@@ -1,0 +1,1 @@
+{"tmdb_id": 379678, "title": "Zo ne senaka", "original_title": "Zo ne senaka", "slug_title": "zo-ne-senaka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

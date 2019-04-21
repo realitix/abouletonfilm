@@ -1,0 +1,1 @@
+{"tmdb_id": 113836, "title": "Talibanistan", "original_title": "Talibanistan", "slug_title": "talibanistan", "date": "2010-06-08", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykR2uylSrsNoT9IesQ8qJ3qpIgq.jpg", "actors": [], "comments": [], "recommandations_id": []}

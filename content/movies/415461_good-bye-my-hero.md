@@ -1,0 +1,1 @@
+{"tmdb_id": 415461, "title": "Good Bye My Hero", "original_title": "\uc548\ub155 \ud788\uc5b4\ub85c", "slug_title": "good-bye-my-hero", "date": "2017-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZQ7skOeoAYFtQS0tC291KwiO6W.jpg", "actors": [], "comments": [], "recommandations_id": []}

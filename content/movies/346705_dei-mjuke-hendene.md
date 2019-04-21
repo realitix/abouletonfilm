@@ -1,0 +1,1 @@
+{"tmdb_id": 346705, "title": "Dei mjuke hendene", "original_title": "Dei mjuke hendene", "slug_title": "dei-mjuke-hendene", "date": "1998-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFQblLD0rjdoEF0Qesz7bVrsoES.jpg", "actors": [], "comments": [], "recommandations_id": []}

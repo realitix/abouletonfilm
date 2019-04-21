@@ -1,0 +1,1 @@
+{"tmdb_id": 492381, "title": "Happy Go Wacky", "original_title": "Happy Go Wacky", "slug_title": "happy-go-wacky", "date": "1952-02-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Jo Allen (Vera Vague (as Vera Vague))"], "comments": [], "recommandations_id": []}

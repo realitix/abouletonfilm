@@ -1,0 +1,1 @@
+{"tmdb_id": 582749, "title": "Lancaster International", "original_title": "Lancaster International", "slug_title": "lancaster-international", "date": "2019-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgkAC79gUrWgajKlXFMoSWkwnUi.jpg", "actors": [], "comments": [], "recommandations_id": []}

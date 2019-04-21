@@ -1,0 +1,1 @@
+{"tmdb_id": 414295, "title": "Darkness at High Noon: The Carl Foreman Documents", "original_title": "Darkness at High Noon: The Carl Foreman Documents", "slug_title": "darkness-at-high-noon-the-carl-foreman-documents", "date": "2002-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

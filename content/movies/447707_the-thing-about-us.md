@@ -1,0 +1,1 @@
+{"tmdb_id": 447707, "title": "The Thing About Us", "original_title": "The Thing About Us", "slug_title": "the-thing-about-us", "date": "2016-07-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Drew Denny (Clem)", "Alexandra Roxo (Jules)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351864, "title": "Gypsy Blood", "original_title": "Gypsy Blood", "slug_title": "gypsy-blood", "date": "", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344455, "title": "Messaoud", "original_title": "Messaoud", "slug_title": "messaoud", "date": "2007-06-15", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leila Fadili (Fatima)", "Jamal Lababsi (Ba Omar)", "Hatim Seddiki (Messaoud)"], "comments": [], "recommandations_id": []}

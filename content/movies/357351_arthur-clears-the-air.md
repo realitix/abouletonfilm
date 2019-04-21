@@ -1,0 +1,1 @@
+{"tmdb_id": 357351, "title": "Arthur Clears the Air", "original_title": "Arthur Clears the Air", "slug_title": "arthur-clears-the-air", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philip Guard ()", "John Harvey ()"], "comments": [], "recommandations_id": []}

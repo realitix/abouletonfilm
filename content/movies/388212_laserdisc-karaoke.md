@@ -1,0 +1,1 @@
+{"tmdb_id": 388212, "title": "Laserdisc Karaoke", "original_title": "Laserdisc Karaoke", "slug_title": "laserdisc-karaoke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nCL17SAHKaLj4wZnswaUFkNsMjI.jpg", "actors": [], "comments": [], "recommandations_id": []}

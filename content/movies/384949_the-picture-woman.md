@@ -1,0 +1,1 @@
+{"tmdb_id": 384949, "title": "The Picture Woman", "original_title": "The Picture Woman", "slug_title": "the-picture-woman", "date": "1998-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

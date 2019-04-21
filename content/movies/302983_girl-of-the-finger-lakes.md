@@ -1,0 +1,1 @@
+{"tmdb_id": 302983, "title": "Girl of the Finger Lakes", "original_title": "Girl of the Finger Lakes", "slug_title": "girl-of-the-finger-lakes", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 219522, "title": "Little Ol' Bosko and the Cannibals", "original_title": "Little Ol' Bosko and the Cannibals", "slug_title": "little-ol-bosko-and-the-cannibals", "date": "1937-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

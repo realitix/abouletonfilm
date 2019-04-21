@@ -1,0 +1,1 @@
+{"tmdb_id": 494419, "title": "Chicken Movie, Chicken Piece", "original_title": "Chicken Movie, Chicken Piece", "slug_title": "chicken-movie-chicken-piece", "date": "1972-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVU4ejgtzHujhL1QDPvDuGLZTKz.jpg", "actors": [], "comments": [], "recommandations_id": []}

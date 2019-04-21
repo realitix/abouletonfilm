@@ -1,0 +1,1 @@
+{"tmdb_id": 308003, "title": "Raftaar", "original_title": "Raftaar", "slug_title": "raftaar", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

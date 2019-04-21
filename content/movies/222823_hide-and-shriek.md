@@ -1,0 +1,1 @@
+{"tmdb_id": 222823, "title": "Hide and Shriek", "original_title": "Hide and Shriek", "slug_title": "hide-and-shriek", "date": "1955-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

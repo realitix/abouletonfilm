@@ -1,0 +1,1 @@
+{"tmdb_id": 569983, "title": "Skull Island: Blood of the Kong", "original_title": "Skull Island: Blood of the Kong", "slug_title": "skull-island-blood-of-the-kong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

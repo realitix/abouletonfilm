@@ -1,0 +1,1 @@
+{"tmdb_id": 492064, "title": "The Last Whisky", "original_title": "Le dernier whisky", "slug_title": "the-last-whisky", "date": "1963-12-10", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R. Gomez ()", "Parviz Kimiavi (The Indian)"], "comments": [], "recommandations_id": []}

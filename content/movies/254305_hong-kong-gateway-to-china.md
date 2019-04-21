@@ -1,0 +1,1 @@
+{"tmdb_id": 254305, "title": "Hong Kong: Gateway to China", "original_title": "Hong Kong: Gateway to China", "slug_title": "hong-kong-gateway-to-china", "date": "1938-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

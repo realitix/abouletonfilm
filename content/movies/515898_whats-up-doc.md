@@ -1,0 +1,1 @@
+{"tmdb_id": 515898, "title": "What\u2019s Up Doc?", "original_title": "What\u2019s Up Doc?", "slug_title": "whats-up-doc", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

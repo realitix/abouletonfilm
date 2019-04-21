@@ -1,0 +1,1 @@
+{"tmdb_id": 545194, "title": "Quan ji shou", "original_title": "\u62f3\u51fb\u624b", "slug_title": "quan-ji-shou", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haSNKkFPIEHsvgzY3LSCJiR4nzU.jpg", "actors": [], "comments": [], "recommandations_id": []}

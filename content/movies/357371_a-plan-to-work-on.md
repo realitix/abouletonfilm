@@ -1,0 +1,1 @@
+{"tmdb_id": 357371, "title": "A Plan to Work On", "original_title": "A Plan to Work On", "slug_title": "a-plan-to-work-on", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

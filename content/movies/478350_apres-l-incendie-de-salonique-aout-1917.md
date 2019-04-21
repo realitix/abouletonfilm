@@ -1,0 +1,1 @@
+{"tmdb_id": 478350, "title": "Apr\u00e9s l'incendie de Salonique, ao\u00fct 1917", "original_title": "Apr\u00e9s l'incendie de Salonique, ao\u00fct 1917", "slug_title": "apres-l-incendie-de-salonique-aout-1917", "date": "1917-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

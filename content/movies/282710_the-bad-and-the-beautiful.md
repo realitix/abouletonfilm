@@ -1,0 +1,1 @@
+{"tmdb_id": 282710, "title": "The Bad and the Beautiful", "original_title": "The Bad and the Beautiful", "slug_title": "the-bad-and-the-beautiful", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

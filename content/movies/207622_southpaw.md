@@ -1,0 +1,1 @@
+{"tmdb_id": 207622, "title": "Southpaw", "original_title": "Southpaw", "slug_title": "southpaw", "date": "2000-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

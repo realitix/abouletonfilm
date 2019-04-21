@@ -1,0 +1,1 @@
+{"tmdb_id": 549069, "title": "My Pleasure", "original_title": "My Pleasure", "slug_title": "my-pleasure", "date": "2018-09-18", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7vyhuSwuAGkZOrKH37JzHTeu2mz.jpg", "actors": ["Pamela Adamik (Ada)"], "comments": [], "recommandations_id": []}

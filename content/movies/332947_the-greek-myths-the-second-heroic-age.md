@@ -1,0 +1,1 @@
+{"tmdb_id": 332947, "title": "The Greek Myths: The Second Heroic Age", "original_title": "The Greek Myths: The Second Heroic Age", "slug_title": "the-greek-myths-the-second-heroic-age", "date": "2014-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

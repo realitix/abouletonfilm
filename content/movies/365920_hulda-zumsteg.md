@@ -1,0 +1,1 @@
+{"tmdb_id": 365920, "title": "Hulda Zumsteg", "original_title": "Hulda Zumsteg", "slug_title": "hulda-zumsteg", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hulda Zumsteg (Herself)"], "comments": [], "recommandations_id": []}

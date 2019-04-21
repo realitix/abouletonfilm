@@ -1,0 +1,1 @@
+{"tmdb_id": 519512, "title": "Touching Concrete", "original_title": "Touching Concrete", "slug_title": "touching-concrete", "date": "2017-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lc6udyB2RGON99bKsKBOTzTyOXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

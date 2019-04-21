@@ -1,0 +1,1 @@
+{"tmdb_id": 105335, "title": "The Fight of Reporters", "original_title": "L'affaire Dreyfus, bagarre entre journalistes", "slug_title": "the-fight-of-reporters", "date": "1899-01-01", "genre": "", "score": "4.9/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [105330, 105327, 105338, 105332]}

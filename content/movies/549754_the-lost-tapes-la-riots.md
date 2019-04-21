@@ -1,0 +1,1 @@
+{"tmdb_id": 549754, "title": "The Lost Tapes: LA Riots", "original_title": "The Lost Tapes: LA Riots", "slug_title": "the-lost-tapes-la-riots", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/da36KDiVHdG9RWNSnymle07mTkP.jpg", "actors": [], "comments": [], "recommandations_id": []}

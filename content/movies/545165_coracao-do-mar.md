@@ -1,0 +1,1 @@
+{"tmdb_id": 545165, "title": "Cora\u00e7\u00e3o do Mar", "original_title": "Cora\u00e7\u00e3o do Mar", "slug_title": "coracao-do-mar", "date": "2018-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jS4GcKVljgiBPbdqf0NLRodoCO.jpg", "actors": [], "comments": [], "recommandations_id": []}

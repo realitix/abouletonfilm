@@ -1,0 +1,1 @@
+{"tmdb_id": 575985, "title": "Marge & Walter", "original_title": "Marge & Walter", "slug_title": "marge-walter", "date": "1990-11-30", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marge Lewandowski (Herself)", "Walter Lewandowski (Himself)"], "comments": [], "recommandations_id": []}

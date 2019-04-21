@@ -1,0 +1,1 @@
+{"tmdb_id": 366720, "title": "Za p\u011bt minut sedm", "original_title": "Za p\u011bt minut sedm", "slug_title": "za-pet-minut-sedm", "date": "1965-03-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VaDJlPmIdQcvfY5xDLg60imSvH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477457, "title": "Time Takes a Cigarette", "original_title": "Time Takes a Cigarette", "slug_title": "time-takes-a-cigarette", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Wiertz (Woman)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527227, "title": "La Casa De Beatriz", "original_title": "La Casa De Beatriz", "slug_title": "la-casa-de-beatriz", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

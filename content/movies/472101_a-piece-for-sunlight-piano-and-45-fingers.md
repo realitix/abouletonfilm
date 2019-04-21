@@ -1,0 +1,1 @@
+{"tmdb_id": 472101, "title": "A Piece For Sunlight, Piano and 45 Fingers", "original_title": "A Piece For Sunlight, Piano and 45 Fingers", "slug_title": "a-piece-for-sunlight-piano-and-45-fingers", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317067, "title": "Les fr\u00e8res Bouquinquant", "original_title": "Les fr\u00e8res Bouquinquant", "slug_title": "les-freres-bouquinquant", "date": "1948-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8sRqCYxFoJshjo0pKFXzfmttcSp.jpg", "actors": [], "comments": [], "recommandations_id": []}

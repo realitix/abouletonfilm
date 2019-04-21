@@ -1,0 +1,1 @@
+{"tmdb_id": 487361, "title": "Ma m\u00e8re, david et moi", "original_title": "Ma m\u00e8re, david et moi", "slug_title": "ma-mere-david-et-moi", "date": "2012-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRTD26k4qOKiJ8IKe7IfK3eD8kW.jpg", "actors": [], "comments": [], "recommandations_id": []}

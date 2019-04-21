@@ -1,0 +1,1 @@
+{"tmdb_id": 298786, "title": "The Vortex: Gate to Armegeddon", "original_title": "The Vortex: Gate to Armegeddon", "slug_title": "the-vortex-gate-to-armegeddon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

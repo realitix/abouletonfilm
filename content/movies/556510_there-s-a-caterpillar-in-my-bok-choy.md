@@ -1,0 +1,1 @@
+{"tmdb_id": 556510, "title": "There's a Caterpillar in My Bok Choy", "original_title": "There's a Caterpillar in My Bok Choy", "slug_title": "there-s-a-caterpillar-in-my-bok-choy", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katharine Leis (Delilah)"], "comments": [], "recommandations_id": []}

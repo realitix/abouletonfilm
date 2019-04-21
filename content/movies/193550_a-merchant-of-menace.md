@@ -1,0 +1,1 @@
+{"tmdb_id": 193550, "title": "A Merchant of Menace", "original_title": "A Merchant of Menace", "slug_title": "a-merchant-of-menace", "date": "1933-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Kennedy (Edgar)"], "comments": [], "recommandations_id": []}

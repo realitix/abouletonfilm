@@ -1,0 +1,1 @@
+{"tmdb_id": 318286, "title": "Paquita", "original_title": "Paquita", "slug_title": "paquita", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 64210, "title": "Barb\u00e8s", "original_title": "Barb\u00e8s", "slug_title": "barbes", "date": "2000-11-22", "genre": "Drame", "score": "7.0/10", "synopsis": "Dans la fi\u00e8vre des ghettos d\u2019Abidjan.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rERwUnxIYIIZNgNcUaeXoOSb7CD.jpg", "actors": [], "comments": [], "recommandations_id": []}

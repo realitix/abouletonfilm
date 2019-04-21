@@ -1,0 +1,1 @@
+{"tmdb_id": 593199, "title": "Mauvais \u00e9l\u00e8ves", "original_title": "Mauvais \u00e9l\u00e8ves", "slug_title": "mauvais-eleves", "date": "2017-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7NlHrCuT9CpPdbyEtN7tmo5eigT.jpg", "actors": [], "comments": [], "recommandations_id": []}

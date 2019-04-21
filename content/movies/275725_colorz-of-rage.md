@@ -1,0 +1,1 @@
+{"tmdb_id": 275725, "title": "Colorz of Rage", "original_title": "Colorz of Rage", "slug_title": "colorz-of-rage", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

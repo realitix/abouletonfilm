@@ -1,0 +1,1 @@
+{"tmdb_id": 531306, "title": "Rim of the World", "original_title": "Rim of the World", "slug_title": "rim-of-the-world", "date": "", "genre": "Science-Fiction / Aventure", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

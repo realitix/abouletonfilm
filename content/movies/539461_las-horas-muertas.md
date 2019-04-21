@@ -1,0 +1,1 @@
+{"tmdb_id": 539461, "title": "Las horas muertas", "original_title": "Las horas muertas", "slug_title": "las-horas-muertas", "date": "2007-11-23", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Sx72rdd9op2Zw26OvMnHaEa1ps.jpg", "actors": [], "comments": [], "recommandations_id": []}

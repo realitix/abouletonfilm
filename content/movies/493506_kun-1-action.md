@@ -1,0 +1,1 @@
+{"tmdb_id": 493506, "title": "kun 1: Action", "original_title": "kun 1: \u884c\u52a8", "slug_title": "kun-1-action", "date": "2009-03-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tHhKO3cR6C9S2o9AoVxwfVhyKT.jpg", "actors": ["Wu Haohao (Himself)"], "comments": [], "recommandations_id": []}

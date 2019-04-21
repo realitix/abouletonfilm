@@ -1,0 +1,1 @@
+{"tmdb_id": 535744, "title": "Finding Life", "original_title": "Finding Life", "slug_title": "finding-life", "date": "2016-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m28MZII5bugEG6beNDo7O0iSri3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468402, "title": "Lucky Luke 11 - Mississipi", "original_title": "Lucky Luke 11 - Mississipi", "slug_title": "lucky-luke-11-mississipi", "date": "2006-07-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlOmdnnLV3i6Pgyw3INqSIvck8r.jpg", "actors": [], "comments": [], "recommandations_id": []}

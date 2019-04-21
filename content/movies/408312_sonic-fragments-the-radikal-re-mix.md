@@ -1,0 +1,1 @@
+{"tmdb_id": 408312, "title": "Sonic Fragments: The Radikal-Re:Mix", "original_title": "Sonic Fragments: The Radikal-Re:Mix", "slug_title": "sonic-fragments-the-radikal-re-mix", "date": "2000-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

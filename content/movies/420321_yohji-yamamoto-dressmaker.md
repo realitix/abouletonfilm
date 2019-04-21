@@ -1,0 +1,1 @@
+{"tmdb_id": 420321, "title": "Yohji Yamamoto | Dressmaker", "original_title": "Yohji Yamamoto | Dressmaker", "slug_title": "yohji-yamamoto-dressmaker", "date": "2016-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sq1gS2dtpLANfxLjxxEPhzvgolV.jpg", "actors": [], "comments": [], "recommandations_id": []}

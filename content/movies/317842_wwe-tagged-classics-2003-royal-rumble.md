@@ -1,0 +1,1 @@
+{"tmdb_id": 317842, "title": "WWE Tagged Classics 2003: Royal Rumble", "original_title": "WWE Tagged Classics 2003: Royal Rumble", "slug_title": "wwe-tagged-classics-2003-royal-rumble", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

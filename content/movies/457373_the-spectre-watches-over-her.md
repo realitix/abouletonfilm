@@ -1,0 +1,1 @@
+{"tmdb_id": 457373, "title": "The Spectre Watches Over Her", "original_title": "The Spectre Watches Over Her", "slug_title": "the-spectre-watches-over-her", "date": "2017-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575401, "title": "My Kid And Me", "original_title": "My Kid And Me", "slug_title": "my-kid-and-me", "date": "2014-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Casey Neistat (Himself)", "Owen Neistat (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310396, "title": "The Adventures of Fu Manchu", "original_title": "The Adventures of Fu Manchu", "slug_title": "the-adventures-of-fu-manchu", "date": "1923-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

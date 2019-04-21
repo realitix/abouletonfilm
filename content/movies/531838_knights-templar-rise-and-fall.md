@@ -1,0 +1,1 @@
+{"tmdb_id": 531838, "title": "Knights Templar: Rise and Fall", "original_title": "Knights Templar: Rise and Fall", "slug_title": "knights-templar-rise-and-fall", "date": "2017-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFtfsKk4JcNGrR7EkxpuI3VJw6o.jpg", "actors": [], "comments": [], "recommandations_id": []}

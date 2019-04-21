@@ -1,0 +1,1 @@
+{"tmdb_id": 341907, "title": "O Ataque das Araras", "original_title": "O Ataque das Araras", "slug_title": "o-ataque-das-araras", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

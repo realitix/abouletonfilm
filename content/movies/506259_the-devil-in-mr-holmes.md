@@ -1,0 +1,1 @@
+{"tmdb_id": 506259, "title": "The Devil in Mr. Holmes", "original_title": "The Devil in Mr. Holmes", "slug_title": "the-devil-in-mr-holmes", "date": "1987-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Holmes ()", "Amber Lynn ()", "Ginger Lynn Allen ()", "Tracey Adams ()"], "comments": [], "recommandations_id": []}

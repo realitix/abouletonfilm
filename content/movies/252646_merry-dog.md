@@ -1,0 +1,1 @@
+{"tmdb_id": 252646, "title": "Merry Dog", "original_title": "Merry Dog", "slug_title": "merry-dog", "date": "1933-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ps4Rr965UvzySqZVmyoum6JHIoM.jpg", "actors": [], "comments": [], "recommandations_id": []}

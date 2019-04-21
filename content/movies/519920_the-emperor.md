@@ -1,0 +1,1 @@
+{"tmdb_id": 519920, "title": "The Emperor", "original_title": "The Emperor", "slug_title": "the-emperor", "date": "2001-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pr8M58VRDeCeheD1aFv7KFldLmM.jpg", "actors": [], "comments": [], "recommandations_id": []}

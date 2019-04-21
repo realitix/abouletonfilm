@@ -1,0 +1,1 @@
+{"tmdb_id": 519280, "title": "\u015eairi\u015fi \u011eura", "original_title": "\u015eairi\u015fi \u011eura", "slug_title": "sairisi-gura", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aob7luDLhqJxgRdd0oOABZfJdSZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

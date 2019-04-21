@@ -1,0 +1,1 @@
+{"tmdb_id": 550251, "title": "Once Upon a Time", "original_title": "\uc61b\ub0a0 \uc61b\uc801\uc5d0 \ud6e0\uc5b4\uc774 \ud6e0\uc774", "slug_title": "once-upon-a-time", "date": "1978-10-19", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Baek Il-seob (A Sadal)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300277, "title": "Beautiful Monster", "original_title": "Beautiful Monster", "slug_title": "beautiful-monster", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

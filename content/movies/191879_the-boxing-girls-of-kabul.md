@@ -1,0 +1,1 @@
+{"tmdb_id": 191879, "title": "The Boxing Girls of Kabul", "original_title": "The Boxing Girls of Kabul", "slug_title": "the-boxing-girls-of-kabul", "date": "2012-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLO6TYx4OsSXArJm3s2uiNKmxp6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 319732, "title": "Remembering Jacqueline Du Pre", "original_title": "Remembering Jacqueline Du Pre", "slug_title": "remembering-jacqueline-du-pre", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 150520, "title": "\u4ea1\u547d\u5feb\u9012", "original_title": "\u4ea1\u547d\u5feb\u9012", "slug_title": "wang-ming-kuai-di", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

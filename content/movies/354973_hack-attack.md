@@ -1,0 +1,1 @@
+{"tmdb_id": 354973, "title": "Hack Attack", "original_title": "Hack Attack", "slug_title": "hack-attack", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

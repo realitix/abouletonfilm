@@ -1,0 +1,1 @@
+{"tmdb_id": 331696, "title": "al-Kanfoudi", "original_title": "al-Kanfoudi", "slug_title": "al-kanfoudi", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

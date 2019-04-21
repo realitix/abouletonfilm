@@ -1,0 +1,1 @@
+{"tmdb_id": 589182, "title": "Hawaii Underwater Paradise", "original_title": "Hawaii Underwater Paradise", "slug_title": "hawaii-underwater-paradise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

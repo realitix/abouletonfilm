@@ -1,0 +1,1 @@
+{"tmdb_id": 580624, "title": "Advertising at the Edge of the Apocalypse", "original_title": "Advertising at the Edge of the Apocalypse", "slug_title": "advertising-at-the-edge-of-the-apocalypse", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sut Jhally ()"], "comments": [], "recommandations_id": []}

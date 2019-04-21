@@ -1,0 +1,1 @@
+{"tmdb_id": 245197, "title": "The Making of Scientific Method", "original_title": "The Making of Scientific Method", "slug_title": "the-making-of-scientific-method", "date": "2012-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

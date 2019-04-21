@@ -1,0 +1,1 @@
+{"tmdb_id": 522336, "title": "La Candidata: S\u00f3lo nos salva la bruja", "original_title": "La Candidata: S\u00f3lo nos salva la bruja", "slug_title": "la-candidata-solo-nos-salva-la-bruja", "date": "2018-05-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

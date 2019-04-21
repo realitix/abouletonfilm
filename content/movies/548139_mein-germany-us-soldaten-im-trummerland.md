@@ -1,0 +1,1 @@
+{"tmdb_id": 548139, "title": "Mein Germany: US Soldaten im Tr\u00fcmmerland", "original_title": "Mein Germany: US Soldaten im Tr\u00fcmmerland", "slug_title": "mein-germany-us-soldaten-im-trummerland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 560263, "title": "The Yankee Doodler", "original_title": "The Yankee Doodler", "slug_title": "the-yankee-doodler", "date": "1942-11-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Frawley ()"], "comments": [], "recommandations_id": []}

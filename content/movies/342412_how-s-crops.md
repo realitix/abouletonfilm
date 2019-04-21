@@ -1,0 +1,1 @@
+{"tmdb_id": 342412, "title": "How's Crops", "original_title": "How's Crops", "slug_title": "how-s-crops", "date": "1934-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311625, "title": "David Copperfield", "original_title": "David Copperfield", "slug_title": "david-copperfield", "date": "1911-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

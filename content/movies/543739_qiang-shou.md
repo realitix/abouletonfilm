@@ -1,0 +1,1 @@
+{"tmdb_id": 543739, "title": "\u67aa\u624b", "original_title": "\u67aa\u624b", "slug_title": "qiang-shou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 218134, "title": "Indulgence: 1000 Miles Under the Colorado Sky", "original_title": "Indulgence: 1000 Miles Under the Colorado Sky", "slug_title": "indulgence-1000-miles-under-the-colorado-sky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

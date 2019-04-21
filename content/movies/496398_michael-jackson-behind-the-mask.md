@@ -1,0 +1,1 @@
+{"tmdb_id": 496398, "title": "Michael Jackson - Behind the Mask", "original_title": "Michael Jackson - Behind the Mask", "slug_title": "michael-jackson-behind-the-mask", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

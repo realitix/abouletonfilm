@@ -1,0 +1,1 @@
+{"tmdb_id": 88760, "title": "Mamono hant\u00e2 Y\u00f4ko", "original_title": "Mamono hant\u00e2 Y\u00f4ko", "slug_title": "mamono-hanta-yoko", "date": "1991-05-01", "genre": "Animation / Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9TukEHYglEagXoz9Dwe8QDlOn21.jpg", "actors": [], "comments": [], "recommandations_id": []}

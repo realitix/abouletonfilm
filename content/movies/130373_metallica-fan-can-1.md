@@ -1,0 +1,1 @@
+{"tmdb_id": 130373, "title": "Metallica: Fan Can 1", "original_title": "Metallica: Fan Can 1", "slug_title": "metallica-fan-can-1", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqCnkWCId9mNtrpH8KUaB40aaZT.jpg", "actors": [], "comments": [], "recommandations_id": []}

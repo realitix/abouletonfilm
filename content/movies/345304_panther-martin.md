@@ -1,0 +1,1 @@
+{"tmdb_id": 345304, "title": "Panther Martin", "original_title": "Panther Martin", "slug_title": "panther-martin", "date": "2005-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fridtjov S\u00e5heim (Father)", "Henrik Gi\u00e6ver (Martin)"], "comments": [], "recommandations_id": []}

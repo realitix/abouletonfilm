@@ -1,0 +1,1 @@
+{"tmdb_id": 120635, "title": "America's Lost H Bomb", "original_title": "America's Lost H Bomb", "slug_title": "america-s-lost-h-bomb", "date": "2007-08-19", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vhZHnpYD3hzkkU2FV1hm1ZXMGSY.jpg", "actors": [], "comments": [], "recommandations_id": []}

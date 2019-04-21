@@ -1,0 +1,1 @@
+{"tmdb_id": 365327, "title": "Zenaida", "original_title": "Zenaida", "slug_title": "zenaida", "date": "2015-11-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvxS2znM3x5rFSNfCUlVgsBqlA4.jpg", "actors": ["Maria Stefanidou ()", "Yorgos Noussis ()"], "comments": [], "recommandations_id": []}

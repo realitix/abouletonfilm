@@ -1,0 +1,1 @@
+{"tmdb_id": 425023, "title": "Wastewater", "original_title": "Wastewater", "slug_title": "wastewater", "date": "2014-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3Z9EPkMVWWU3IwSa7JgVbr7qME.jpg", "actors": [], "comments": [], "recommandations_id": []}

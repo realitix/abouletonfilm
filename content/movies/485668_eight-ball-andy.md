@@ -1,0 +1,1 @@
+{"tmdb_id": 485668, "title": "Eight-Ball Andy", "original_title": "Eight-Ball Andy", "slug_title": "eight-ball-andy", "date": "1948-03-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

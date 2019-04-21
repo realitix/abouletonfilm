@@ -1,0 +1,1 @@
+{"tmdb_id": 219329, "title": "Zulu Comedy Galla 2013", "original_title": "Zulu Comedy Galla 2013", "slug_title": "zulu-comedy-galla-2013", "date": "2013-08-31", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nsI6jdaS11s1NvBx6gwYNTQTg08.jpg", "actors": [], "comments": [], "recommandations_id": []}

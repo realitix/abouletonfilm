@@ -1,0 +1,1 @@
+{"tmdb_id": 574568, "title": "Supercard: Royal Rumble 88", "original_title": "Supercard: Royal Rumble 88", "slug_title": "supercard-royal-rumble-88", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "James Edward Duggan Jr (Himself)"], "comments": [], "recommandations_id": []}

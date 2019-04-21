@@ -1,0 +1,1 @@
+{"tmdb_id": 536092, "title": "The Betrayed Wife", "original_title": "The Betrayed Wife", "slug_title": "the-betrayed-wife", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kris Bernal (Rachel)"], "comments": [], "recommandations_id": []}

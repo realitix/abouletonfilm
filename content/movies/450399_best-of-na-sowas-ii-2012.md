@@ -1,0 +1,1 @@
+{"tmdb_id": 450399, "title": "Best Of Na Sowas II - 2012", "original_title": "Best Of Na Sowas II - 2012", "slug_title": "best-of-na-sowas-ii-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQN8Z18WCv5xhj013bfgf2Y1oDT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 327332, "title": "Dia de Alforria", "original_title": "Dia de Alforria", "slug_title": "dia-de-alforria", "date": "1981-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYJ22aCWSh2mma1nKBrCJTVKt5T.jpg", "actors": ["Aniceto do Imp\u00e9rio ()"], "comments": [], "recommandations_id": []}

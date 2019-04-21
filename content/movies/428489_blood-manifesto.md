@@ -1,0 +1,1 @@
+{"tmdb_id": 428489, "title": "Blood Manifesto", "original_title": "Blood Manifesto", "slug_title": "blood-manifesto", "date": "2015-09-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gH74RmSZUz5zj2muebVeRG4a9eC.jpg", "actors": ["Theodore Ushev ((voice))"], "comments": [], "recommandations_id": []}

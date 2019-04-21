@@ -1,0 +1,1 @@
+{"tmdb_id": 351522, "title": "All About Dogs", "original_title": "All About Dogs", "slug_title": "all-about-dogs", "date": "1942-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

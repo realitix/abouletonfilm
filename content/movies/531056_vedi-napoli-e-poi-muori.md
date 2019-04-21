@@ -1,0 +1,1 @@
+{"tmdb_id": 531056, "title": "Vedi Napoli e poi muori", "original_title": "Vedi Napoli e poi muori", "slug_title": "vedi-napoli-e-poi-muori", "date": "1924-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leda Gys (Pupatella)", "Livio Pavanelli ()"], "comments": [], "recommandations_id": []}

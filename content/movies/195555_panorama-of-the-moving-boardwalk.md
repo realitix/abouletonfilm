@@ -1,0 +1,1 @@
+{"tmdb_id": 195555, "title": "Panorama of the Moving Boardwalk", "original_title": "Panorama of the Moving Boardwalk", "slug_title": "panorama-of-the-moving-boardwalk", "date": "1900-05-21", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284008, "title": "HBO Boxing: Golovkin vs. Geale", "original_title": "HBO Boxing: Golovkin vs. Geale", "slug_title": "hbo-boxing-golovkin-vs-geale", "date": "2014-07-26", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zp8SDiPm4EqT0Rjuk6xFzabw4WR.jpg", "actors": [], "comments": [], "recommandations_id": []}

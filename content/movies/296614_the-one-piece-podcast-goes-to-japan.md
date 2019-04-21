@@ -1,0 +1,1 @@
+{"tmdb_id": 296614, "title": "The One Piece Podcast Goes To Japan", "original_title": "The One Piece Podcast Goes To Japan", "slug_title": "the-one-piece-podcast-goes-to-japan", "date": "2014-10-03", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

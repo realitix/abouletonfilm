@@ -1,0 +1,1 @@
+{"tmdb_id": 191106, "title": "Maiorul Mura", "original_title": "Maiorul Mura", "slug_title": "maiorul-mura", "date": "1927-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

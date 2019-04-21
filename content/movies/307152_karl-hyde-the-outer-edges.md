@@ -1,0 +1,1 @@
+{"tmdb_id": 307152, "title": "Karl Hyde-The Outer Edges", "original_title": "Karl Hyde-The Outer Edges", "slug_title": "karl-hyde-the-outer-edges", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

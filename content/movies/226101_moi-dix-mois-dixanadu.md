@@ -1,0 +1,1 @@
+{"tmdb_id": 226101, "title": "Moi dix Mois: DIXANADU", "original_title": "Moi dix Mois: DIXANADU", "slug_title": "moi-dix-mois-dixanadu", "date": "2009-01-24", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6G9pZda9GwvSuCLqu3KFbQsf0Cc.jpg", "actors": ["Mana ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525391, "title": "Not A Carwash", "original_title": "S'\u00cbsht\u00eb Lavazh", "slug_title": "not-a-carwash", "date": "2012-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uY33GWb8mme21laI5bc3YBvHgrY.jpg", "actors": [], "comments": [], "recommandations_id": []}

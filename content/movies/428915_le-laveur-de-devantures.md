@@ -1,0 +1,1 @@
+{"tmdb_id": 428915, "title": "Le laveur de devantures", "original_title": "Le laveur de devantures", "slug_title": "le-laveur-de-devantures", "date": "1902-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

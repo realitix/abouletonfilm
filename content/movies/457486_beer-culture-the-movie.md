@@ -1,0 +1,1 @@
+{"tmdb_id": 457486, "title": "Beer Culture The Movie", "original_title": "Beer Culture The Movie", "slug_title": "beer-culture-the-movie", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w00ECRmpMmrO8qhuslThQ4xZ6Ae.jpg", "actors": [], "comments": [], "recommandations_id": []}

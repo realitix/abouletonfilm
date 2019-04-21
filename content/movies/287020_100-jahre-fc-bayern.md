@@ -1,0 +1,1 @@
+{"tmdb_id": 287020, "title": "100 Jahre FC Bayern", "original_title": "100 Jahre FC Bayern", "slug_title": "100-jahre-fc-bayern", "date": "2000-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Vr1WQ3V2uY64EuT7Gp39W4tLWW.jpg", "actors": [], "comments": [], "recommandations_id": []}

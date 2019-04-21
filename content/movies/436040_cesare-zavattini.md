@@ -1,0 +1,1 @@
+{"tmdb_id": 436040, "title": "Cesare Zavattini", "original_title": "Cesare Zavattini", "slug_title": "cesare-zavattini", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cesare Zavattini (Interviewee)"], "comments": [], "recommandations_id": []}

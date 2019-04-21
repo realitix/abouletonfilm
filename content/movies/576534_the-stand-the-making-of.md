@@ -1,0 +1,1 @@
+{"tmdb_id": 576534, "title": "The Stand: The Making of...", "original_title": "The Stand: The Making of...", "slug_title": "the-stand-the-making-of", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

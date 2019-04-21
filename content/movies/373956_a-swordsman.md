@@ -1,0 +1,1 @@
+{"tmdb_id": 373956, "title": "A Swordsman", "original_title": "\ud48d\uc6b4\uc758 \uac80\uac1d", "slug_title": "a-swordsman", "date": "1967-10-11", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nam Koong Won ()", "Nam Jeong-im ()"], "comments": [], "recommandations_id": []}

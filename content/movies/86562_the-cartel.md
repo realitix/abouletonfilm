@@ -1,0 +1,1 @@
+{"tmdb_id": 86562, "title": "The Cartel", "original_title": "The Cartel", "slug_title": "the-cartel", "date": "2009-05-30", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8O3DwdOvAXyD1c638FfQHLDhHee.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 123334, "title": "TV Junkie", "original_title": "TV Junkie", "slug_title": "tv-junkie", "date": "2006-08-03", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ar4TOH7lHFbMIm8IjbjByx4cPD.jpg", "actors": ["Rick Kirkham (Himself)"], "comments": [], "recommandations_id": [80019, 76040]}

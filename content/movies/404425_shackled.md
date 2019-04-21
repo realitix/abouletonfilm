@@ -1,0 +1,1 @@
+{"tmdb_id": 404425, "title": "Shackled", "original_title": "Shackled", "slug_title": "shackled", "date": "2012-08-10", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rHDXU1Hj8QkVWAjU7zbFPfF7sND.jpg", "actors": ["Emilia Clarke (Malu)"], "comments": [], "recommandations_id": []}

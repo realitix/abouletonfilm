@@ -1,0 +1,1 @@
+{"tmdb_id": 485809, "title": "Zombie Bite", "original_title": "Zombie Bite", "slug_title": "zombie-bite", "date": "2017-11-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdJlgLScCNDdH0LFhqWLFrURh94.jpg", "actors": ["King Jeff (Jack Romero)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574849, "title": "I Want My MTV (Video 1996)", "original_title": "I Want My MTV (Video 1996)", "slug_title": "i-want-my-mtv-video-1996", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWidWm8htZivcevMrmm7LQLio8F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500440, "title": "Allis med is", "original_title": "Allis med is", "slug_title": "allis-med-is", "date": "1993-12-14", "genre": "Drame / Familial / Romance", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9QRAoA5CbBaAFBKwv5pqwKHDwe.jpg", "actors": ["Emelie Rosenqvist (Allis)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 516903, "title": "Dixie Carter's Unworkout", "original_title": "Dixie Carter's Unworkout", "slug_title": "dixie-carter-s-unworkout", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dixie Carter (Herself)"], "comments": [], "recommandations_id": []}

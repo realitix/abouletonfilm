@@ -1,0 +1,1 @@
+{"tmdb_id": 300175, "title": "The Seawolves of Vietnam", "original_title": "The Seawolves of Vietnam", "slug_title": "the-seawolves-of-vietnam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

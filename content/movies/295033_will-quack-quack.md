@@ -1,0 +1,1 @@
+{"tmdb_id": 295033, "title": "Will Quack Quack", "original_title": "Will Quack Quack", "slug_title": "will-quack-quack", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

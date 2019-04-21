@@ -1,0 +1,1 @@
+{"tmdb_id": 80396, "title": "No Fun City", "original_title": "No Fun City", "slug_title": "no-fun-city", "date": "2010-05-10", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

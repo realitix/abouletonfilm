@@ -1,0 +1,1 @@
+{"tmdb_id": 236012, "title": "Un canard envahissant", "original_title": "The Prize Pest", "slug_title": "un-canard-envahissant", "date": "1951-12-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zTm3q21nA7Bs82q08sE0grv4dtp.jpg", "actors": ["Mel Blanc (Daffy Duck, Porky Pig)"], "comments": [], "recommandations_id": []}

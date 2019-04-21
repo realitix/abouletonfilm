@@ -1,0 +1,1 @@
+{"tmdb_id": 67945, "title": "Hitting the Nuts", "original_title": "Hitting the Nuts", "slug_title": "hitting-the-nuts", "date": "2010-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e0DtJ9SDbaL9audyDRe25drVCkL.jpg", "actors": [], "comments": [], "recommandations_id": []}

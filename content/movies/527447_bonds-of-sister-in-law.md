@@ -1,0 +1,1 @@
+{"tmdb_id": 527447, "title": "Bonds of Sister-in-Law", "original_title": "Ane o aishi ta ototo", "slug_title": "bonds-of-sister-in-law", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mei Kawamura ()", "Aikawa Saki ()"], "comments": [], "recommandations_id": []}

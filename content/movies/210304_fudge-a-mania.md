@@ -1,0 +1,1 @@
+{"tmdb_id": 210304, "title": "Fudge-a-mania", "original_title": "Fudge-a-mania", "slug_title": "fudge-a-mania", "date": "1995-01-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uBlXyZLQzStB5jGrqzaY5ZAvJJn.jpg", "actors": ["Luke Tarsitano (Fudge)", "Jake Richardson (Peter)"], "comments": [], "recommandations_id": []}

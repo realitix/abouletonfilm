@@ -1,0 +1,1 @@
+{"tmdb_id": 318194, "title": "The Karlton Hines Story", "original_title": "The Karlton Hines Story", "slug_title": "the-karlton-hines-story", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

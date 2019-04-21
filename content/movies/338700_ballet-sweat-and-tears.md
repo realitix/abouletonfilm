@@ -1,0 +1,1 @@
+{"tmdb_id": 338700, "title": "Ballet, Sweat and Tears", "original_title": "Ballet, Sweat and Tears", "slug_title": "ballet-sweat-and-tears", "date": "2013-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXP1dxLfPm6ssmncMO60Wuiwvqy.jpg", "actors": [], "comments": [], "recommandations_id": []}

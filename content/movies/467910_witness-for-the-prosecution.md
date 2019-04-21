@@ -1,0 +1,1 @@
+{"tmdb_id": 467910, "title": "Witness for the Prosecution", "original_title": "Witness for the Prosecution", "slug_title": "witness-for-the-prosecution", "date": "2019-06-01", "genre": "Myst\u00e8re / Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Affleck ()"], "comments": [], "recommandations_id": []}

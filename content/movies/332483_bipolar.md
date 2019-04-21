@@ -1,0 +1,1 @@
+{"tmdb_id": 332483, "title": "BiPolar", "original_title": "BiPolar", "slug_title": "bipolar", "date": "2009-08-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKESB63xuq80wiLJRZbqWxAtJB1.jpg", "actors": [], "comments": [], "recommandations_id": []}

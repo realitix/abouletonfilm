@@ -1,0 +1,1 @@
+{"tmdb_id": 484462, "title": "Operation Prutas", "original_title": "Operation Prutas", "slug_title": "operation-prutas", "date": "2015-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chai Fonacier (Kawatan 1)", "Ronyel Compra (Kawatan 2)", "Alex Ilaya (Jaguar)"], "comments": [], "recommandations_id": []}

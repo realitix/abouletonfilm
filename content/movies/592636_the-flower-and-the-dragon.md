@@ -1,0 +1,1 @@
+{"tmdb_id": 592636, "title": "The Flower and the Dragon", "original_title": "Hana to ryu", "slug_title": "the-flower-and-the-dragon", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oX0L35KbbriP8Sqc5rk2W9F9Ht.jpg", "actors": [], "comments": [], "recommandations_id": []}

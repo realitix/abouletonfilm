@@ -1,0 +1,1 @@
+{"tmdb_id": 574639, "title": "Hello Bill", "original_title": "Hello Bill", "slug_title": "hello-bill", "date": "1923-12-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy West ()", "Emily Gerdes ()"], "comments": [], "recommandations_id": []}

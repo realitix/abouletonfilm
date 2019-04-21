@@ -1,0 +1,1 @@
+{"tmdb_id": 486311, "title": "Victoria Blue", "original_title": "Victoria Blue", "slug_title": "victoria-blue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udYwjuUHJl6alwTnPx5dksMklJh.jpg", "actors": ["Sheila Rossi ()", "Pamela Cortes Bruna ()"], "comments": [], "recommandations_id": []}

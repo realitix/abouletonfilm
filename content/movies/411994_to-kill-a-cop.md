@@ -1,0 +1,1 @@
+{"tmdb_id": 411994, "title": "To Kill a Cop", "original_title": "To Kill a Cop", "slug_title": "to-kill-a-cop", "date": "1978-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

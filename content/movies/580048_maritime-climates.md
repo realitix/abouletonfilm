@@ -1,0 +1,1 @@
+{"tmdb_id": 580048, "title": "Maritime Climates", "original_title": "Maritime Climates", "slug_title": "maritime-climates", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qO2o4qpeRrdPfG0NNZbTLYJx1o.jpg", "actors": [], "comments": [], "recommandations_id": []}

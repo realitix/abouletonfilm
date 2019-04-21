@@ -1,0 +1,1 @@
+{"tmdb_id": 77023, "title": "Pati Patni", "original_title": "Pati Patni", "slug_title": "pati-patni", "date": "1966-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dD7A0N4fF4rFrR3yMaN6RGhqJ3g.jpg", "actors": ["Sanjeev Kumar (Amar)"], "comments": [], "recommandations_id": []}

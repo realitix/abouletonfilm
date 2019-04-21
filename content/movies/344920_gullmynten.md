@@ -1,0 +1,1 @@
+{"tmdb_id": 344920, "title": "Gullmynten", "original_title": "Gullmynten", "slug_title": "gullmynten", "date": "1971-06-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

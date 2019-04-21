@@ -1,0 +1,1 @@
+{"tmdb_id": 366364, "title": "I'm Not Fascinating", "original_title": "I'm Not Fascinating", "slug_title": "i-m-not-fascinating", "date": "1996-02-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKzrsizvthDgJkazdBRWVQI7x2i.jpg", "actors": [], "comments": [], "recommandations_id": []}

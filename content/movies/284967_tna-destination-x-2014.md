@@ -1,0 +1,1 @@
+{"tmdb_id": 284967, "title": "TNA Destination X 2014", "original_title": "TNA Destination X 2014", "slug_title": "tna-destination-x-2014", "date": "2014-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

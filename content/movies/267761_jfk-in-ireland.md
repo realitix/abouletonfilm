@@ -1,0 +1,1 @@
+{"tmdb_id": 267761, "title": "JFK in Ireland", "original_title": "JFK in Ireland", "slug_title": "jfk-in-ireland", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6EeCMAIWDWrS9HIOHmKdq1h2ly9.jpg", "actors": [], "comments": [], "recommandations_id": []}

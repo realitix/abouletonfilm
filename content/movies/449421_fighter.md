@@ -1,0 +1,1 @@
+{"tmdb_id": 449421, "title": "Fighter", "original_title": "Fighter", "slug_title": "fighter", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Randy Couture ()", "Victoria Schiltz ()"], "comments": [], "recommandations_id": []}

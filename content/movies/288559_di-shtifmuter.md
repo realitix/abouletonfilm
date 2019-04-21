@@ -1,0 +1,1 @@
+{"tmdb_id": 288559, "title": "Di shtifmuter", "original_title": "Di shtifmuter", "slug_title": "di-shtifmuter", "date": "1914-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

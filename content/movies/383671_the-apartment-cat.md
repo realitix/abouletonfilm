@@ -1,0 +1,1 @@
+{"tmdb_id": 383671, "title": "The Apartment Cat", "original_title": "Le Chat d'Apparement", "slug_title": "the-apartment-cat", "date": "2000-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9n5cfEgtKevoiTzHpnv53oVssoH.jpg", "actors": [], "comments": [], "recommandations_id": []}

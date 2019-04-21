@@ -1,0 +1,1 @@
+{"tmdb_id": 182535, "title": "Kung Fu Joe", "original_title": "Kung Fu Joe", "slug_title": "kung-fu-joe", "date": "2012-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

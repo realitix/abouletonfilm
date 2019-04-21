@@ -1,0 +1,1 @@
+{"tmdb_id": 573826, "title": "Supernova [Experience #1]", "original_title": "Supernova [Exp\u00e9rience #1]", "slug_title": "supernova-experience-1", "date": "2003-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8G0yIWjoCmxwDAwlHitmm3Jw1mg.jpg", "actors": [], "comments": [], "recommandations_id": []}

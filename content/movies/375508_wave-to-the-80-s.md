@@ -1,0 +1,1 @@
+{"tmdb_id": 375508, "title": "Wave To The 80's", "original_title": "Wave To The 80's", "slug_title": "wave-to-the-80-s", "date": "2001-10-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kGb0mGOOY7VxkQomzNowD7OR8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

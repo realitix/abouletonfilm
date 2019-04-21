@@ -1,0 +1,1 @@
+{"tmdb_id": 346487, "title": "In Defense of Lemmings", "original_title": "In Defense of Lemmings", "slug_title": "in-defense-of-lemmings", "date": "2004-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

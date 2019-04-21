@@ -1,0 +1,1 @@
+{"tmdb_id": 527182, "title": "Die Generalprobe", "original_title": "Die Generalprobe", "slug_title": "die-generalprobe", "date": "1954-08-13", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luitgard Im (Julie)", "Harald Leipnitz ()", "Hans Reiser ()"], "comments": [], "recommandations_id": []}

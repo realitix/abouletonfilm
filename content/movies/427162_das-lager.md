@@ -1,0 +1,1 @@
+{"tmdb_id": 427162, "title": "Das Lager", "original_title": "Das Lager", "slug_title": "das-lager", "date": "1984-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

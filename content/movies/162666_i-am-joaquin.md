@@ -1,0 +1,1 @@
+{"tmdb_id": 162666, "title": "I Am Joaquin", "original_title": "I Am Joaquin", "slug_title": "i-am-joaquin", "date": "1969-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q3P66G0Vu6SJlI9UkbmzzM0dLQd.jpg", "actors": [], "comments": [], "recommandations_id": [144788, 119767, 144615, 132159]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 361535, "title": "The River of Life", "original_title": "Shengming De Heliu", "slug_title": "the-river-of-life", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fDRhDzTQhYrox6N2xFIi8wvS5I.jpg", "actors": [], "comments": [], "recommandations_id": []}

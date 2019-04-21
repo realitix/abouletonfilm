@@ -1,0 +1,1 @@
+{"tmdb_id": 562541, "title": "Man Wants to Live", "original_title": "Les hommes veulent vivre", "slug_title": "man-wants-to-live", "date": "1961-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmpMXebs4uzpfHo6ScZ6SbhxS2g.jpg", "actors": [], "comments": [], "recommandations_id": []}

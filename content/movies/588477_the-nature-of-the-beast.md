@@ -1,0 +1,1 @@
+{"tmdb_id": 588477, "title": "The Nature of the Beast", "original_title": "The Nature of the Beast", "slug_title": "the-nature-of-the-beast", "date": "1994-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bonnie Jean Foreshaw (Herself)"], "comments": [], "recommandations_id": []}

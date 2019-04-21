@@ -1,0 +1,1 @@
+{"tmdb_id": 301450, "title": "Eat Spirit Eat", "original_title": "Eat Spirit Eat", "slug_title": "eat-spirit-eat", "date": "2014-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 534090, "title": "Comprarsi la vita", "original_title": "Comprarsi la vita", "slug_title": "comprarsi-la-vita", "date": "1991-09-11", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mB3llYcTkulxYkEgvKcJbAvJLio.jpg", "actors": [], "comments": [], "recommandations_id": []}

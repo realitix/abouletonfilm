@@ -1,0 +1,1 @@
+{"tmdb_id": 287004, "title": "Avatar: Production Materials", "original_title": "Avatar: Production Materials", "slug_title": "avatar-production-materials", "date": "2009-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQ6qSfC8IoiS71swcleUrpDMjt3.jpg", "actors": [], "comments": [], "recommandations_id": []}

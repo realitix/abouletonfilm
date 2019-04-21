@@ -1,0 +1,1 @@
+{"tmdb_id": 482844, "title": "Filhos da Lua na Terra do Sol", "original_title": "Filhos da Lua na Terra do Sol", "slug_title": "filhos-da-lua-na-terra-do-sol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

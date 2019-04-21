@@ -1,0 +1,1 @@
+{"tmdb_id": 434776, "title": "The Joy of the Bee Gees", "original_title": "The Joy of the Bee Gees", "slug_title": "the-joy-of-the-bee-gees", "date": "2014-12-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pHZYBcdltun7DwCt6TmCTo0FaFm.jpg", "actors": [], "comments": [], "recommandations_id": []}

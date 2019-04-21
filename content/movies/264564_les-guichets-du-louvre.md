@@ -1,0 +1,1 @@
+{"tmdb_id": 264564, "title": "Les guichets du Louvre", "original_title": "Les guichets du Louvre", "slug_title": "les-guichets-du-louvre", "date": "1974-01-04", "genre": "Histoire / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1B5xSuNNtJSJC5gtKdUELsF1R7.jpg", "actors": [], "comments": [], "recommandations_id": []}

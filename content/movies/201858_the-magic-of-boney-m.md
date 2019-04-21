@@ -1,0 +1,1 @@
+{"tmdb_id": 201858, "title": "The Magic of Boney M.", "original_title": "The Magic of Boney M.", "slug_title": "the-magic-of-boney-m", "date": "2006-12-26", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoH7ctoSy1QlMR30PEmZFtHhy98.jpg", "actors": [], "comments": [], "recommandations_id": []}

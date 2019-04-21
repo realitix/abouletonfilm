@@ -1,0 +1,1 @@
+{"tmdb_id": 248881, "title": "Mann v. Ford", "original_title": "Mann v. Ford", "slug_title": "mann-v-ford", "date": "2011-06-03", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQGUd1vgWWgipdBAb3RRRpXgsHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282513, "title": "La tendresse du maudit", "original_title": "La tendresse du maudit", "slug_title": "la-tendresse-du-maudit", "date": "1980-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

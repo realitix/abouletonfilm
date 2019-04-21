@@ -1,0 +1,1 @@
+{"tmdb_id": 502864, "title": "Sennen-Ballade", "original_title": "Sennen-Ballade", "slug_title": "sennen-ballade", "date": "1996-02-03", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sovB3IiwqaKEAbs6ms2iBv7f9TX.jpg", "actors": [], "comments": [], "recommandations_id": []}

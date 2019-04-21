@@ -1,0 +1,1 @@
+{"tmdb_id": 383410, "title": "1976 NSWRFL Grand Final: Sea Eagles vs Eels", "original_title": "1976 NSWRFL Grand Final: Sea Eagles vs Eels", "slug_title": "1976-nswrfl-grand-final-sea-eagles-vs-eels", "date": "1976-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

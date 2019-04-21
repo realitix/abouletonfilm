@@ -1,0 +1,1 @@
+{"tmdb_id": 355274, "title": "Singelklubben", "original_title": "Singelklubben", "slug_title": "singelklubben", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

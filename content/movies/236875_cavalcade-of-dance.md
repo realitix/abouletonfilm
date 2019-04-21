@@ -1,0 +1,1 @@
+{"tmdb_id": 236875, "title": "Cavalcade of Dance", "original_title": "Cavalcade of Dance", "slug_title": "cavalcade-of-dance", "date": "1943-10-03", "genre": "Musique / Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Veloz ()", "Yolanda ()", "Art Gilmore (Narrator)"], "comments": [], "recommandations_id": []}

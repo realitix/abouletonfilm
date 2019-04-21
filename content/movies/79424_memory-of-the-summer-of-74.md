@@ -1,0 +1,1 @@
+{"tmdb_id": 79424, "title": "Memory of the Summer of \u201974", "original_title": "A 74-es ny\u00e1r eml\u00e9ke", "slug_title": "memory-of-the-summer-of-74", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ztOZszBGvSWkDlFfxdrQbxj32O.jpg", "actors": [], "comments": [], "recommandations_id": []}

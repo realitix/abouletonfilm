@@ -1,0 +1,1 @@
+{"tmdb_id": 286667, "title": "The Blues and the Birds", "original_title": "The Blues and the Birds", "slug_title": "the-blues-and-the-birds", "date": "2005-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

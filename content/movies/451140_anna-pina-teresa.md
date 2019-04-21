@@ -1,0 +1,1 @@
+{"tmdb_id": 451140, "title": "Anna Pina Teresa", "original_title": "Anna Pina Teresa", "slug_title": "anna-pina-teresa", "date": "2015-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1o77yqMkDKmGdhF0DBOiRxQC5QL.jpg", "actors": [], "comments": [], "recommandations_id": []}

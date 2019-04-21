@@ -1,0 +1,1 @@
+{"tmdb_id": 519006, "title": "Manila paloma blanca", "original_title": "Manila paloma blanca", "slug_title": "manila-paloma-blanca", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Ki4vHit03xZJgKaKZhW0uo0skE.jpg", "actors": [], "comments": [], "recommandations_id": []}

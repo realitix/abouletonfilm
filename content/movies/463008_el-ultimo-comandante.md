@@ -1,0 +1,1 @@
+{"tmdb_id": 463008, "title": "El \u00faltimo comandante", "original_title": "El \u00faltimo comandante", "slug_title": "el-ultimo-comandante", "date": "2010-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnJ03HjlwB882sSa4IXowbYW8aD.jpg", "actors": [], "comments": [], "recommandations_id": []}

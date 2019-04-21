@@ -1,0 +1,1 @@
+{"tmdb_id": 575627, "title": "Serrote do Gado Brabo", "original_title": "Serrote do Gado Brabo", "slug_title": "serrote-do-gado-brabo", "date": "2015-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hvxzWPT1sJBT40hvRsu3eg8l7I.jpg", "actors": [], "comments": [], "recommandations_id": []}

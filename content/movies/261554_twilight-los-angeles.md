@@ -1,0 +1,1 @@
+{"tmdb_id": 261554, "title": "Twilight: Los Angeles", "original_title": "Twilight: Los Angeles", "slug_title": "twilight-los-angeles", "date": "2000-09-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2T6CPa7UjM2GSRqMJNjYe4hc6gR.jpg", "actors": ["Anna Deavere Smith ()"], "comments": [], "recommandations_id": []}

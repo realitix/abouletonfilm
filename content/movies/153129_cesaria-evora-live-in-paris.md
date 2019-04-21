@@ -1,0 +1,1 @@
+{"tmdb_id": 153129, "title": "Cesaria Evora: Live in Paris", "original_title": "Cesaria Evora: Live in Paris", "slug_title": "cesaria-evora-live-in-paris", "date": "2001-01-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cesaria Evora ()"], "comments": [], "recommandations_id": []}

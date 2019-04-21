@@ -1,0 +1,1 @@
+{"tmdb_id": 488392, "title": "U2: Zoo TV Washington 1992", "original_title": "U2: Zoo TV Washington 1992", "slug_title": "u2-zoo-tv-washington-1992", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRCf50wNLnDdQrcvlPJeDzeBJ2A.jpg", "actors": [], "comments": [], "recommandations_id": []}

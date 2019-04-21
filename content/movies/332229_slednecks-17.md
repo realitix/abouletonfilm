@@ -1,0 +1,1 @@
+{"tmdb_id": 332229, "title": "Slednecks 17", "original_title": "Slednecks 17", "slug_title": "slednecks-17", "date": "2014-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99Hf8SWzRTRKlzLSTJ3ptH0tTf6.jpg", "actors": ["Chris Burandt ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 398534, "title": "A Visit to the Seaside", "original_title": "A Visit to the Seaside", "slug_title": "a-visit-to-the-seaside", "date": "1908-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVqAF5xHOWfpW2QgVurb3KAEIiI.jpg", "actors": [], "comments": [], "recommandations_id": []}

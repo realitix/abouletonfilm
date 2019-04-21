@@ -1,0 +1,1 @@
+{"tmdb_id": 55391, "title": "Blue Sky", "original_title": "\u84bc\u7a7a", "slug_title": "blue-sky", "date": "2008-09-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32ae6QJRwhCIYfJFl0uKSZywtjU.jpg", "actors": ["Sora Aoi (Shiori)", "Kazuki Muranaka (Tetsu)"], "comments": [], "recommandations_id": []}

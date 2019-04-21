@@ -1,0 +1,1 @@
+{"tmdb_id": 582397, "title": "Rhythmical Calculations", "original_title": "Rhythmical Calculations", "slug_title": "rhythmical-calculations", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 179206, "title": "Porr i skandalskolan", "original_title": "Porr i skandalskolan", "slug_title": "porr-i-skandalskolan", "date": "1958-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 517693, "title": "I Am My Own Mother", "original_title": "I Am My Own Mother", "slug_title": "i-am-my-own-mother", "date": "2018-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WG2d6B77M5MHRZOLYHiOd2IOzB.jpg", "actors": [], "comments": [], "recommandations_id": []}

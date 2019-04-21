@@ -1,0 +1,1 @@
+{"tmdb_id": 549772, "title": "Girltalk", "original_title": "Girltalk", "slug_title": "girltalk", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/npvtvbcCrhZKsfAgJgXnqRH7iO8.jpg", "actors": [], "comments": [], "recommandations_id": []}

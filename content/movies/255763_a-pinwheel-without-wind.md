@@ -1,0 +1,1 @@
+{"tmdb_id": 255763, "title": "A Pinwheel Without Wind", "original_title": "\u70df\u96e8\u7ea2\u989c", "slug_title": "a-pinwheel-without-wind", "date": "2002-02-26", "genre": "Drame / Romance", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zhou Xun (Zhao Ningjing)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 464460, "title": "Let It Be", "original_title": "\u7121\u7c73\u6a02", "slug_title": "let-it-be", "date": "2005-07-03", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQpgWRUuVpU7KVVNvj3xJ5Kemdf.jpg", "actors": [], "comments": [], "recommandations_id": []}

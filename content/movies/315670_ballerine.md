@@ -1,0 +1,1 @@
+{"tmdb_id": 315670, "title": "Ballerine", "original_title": "Ballerine", "slug_title": "ballerine", "date": "1936-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

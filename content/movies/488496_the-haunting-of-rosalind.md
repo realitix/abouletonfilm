@@ -1,0 +1,1 @@
+{"tmdb_id": 488496, "title": "The Haunting of Rosalind", "original_title": "The Haunting of Rosalind", "slug_title": "the-haunting-of-rosalind", "date": "1973-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

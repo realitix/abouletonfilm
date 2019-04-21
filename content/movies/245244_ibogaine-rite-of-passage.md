@@ -1,0 +1,1 @@
+{"tmdb_id": 245244, "title": "Ibogaine: Rite of Passage", "original_title": "Ibogaine: Rite of Passage", "slug_title": "ibogaine-rite-of-passage", "date": "2004-09-27", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxC2CsU6AcluWHIEVyqF1t90x2V.jpg", "actors": [], "comments": [], "recommandations_id": []}

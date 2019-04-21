@@ -1,0 +1,1 @@
+{"tmdb_id": 576219, "title": "Pillow Fight", "original_title": "Pillow Fight", "slug_title": "pillow-fight", "date": "2019-01-18", "genre": "Action / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dalton Schiffler (Dalton)", "Lajuan Miles (Lajuan)", "Brendan Sheardy (Brendan)"], "comments": [], "recommandations_id": []}

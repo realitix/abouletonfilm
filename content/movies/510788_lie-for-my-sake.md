@@ -1,0 +1,1 @@
+{"tmdb_id": 510788, "title": "Lie for My Sake", "original_title": "La\u017ei mene radi", "slug_title": "lie-for-my-sake", "date": "1923-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irena Novak ()", "Aleksandar 'Aca' Stankovi\u0107 ()"], "comments": [], "recommandations_id": []}

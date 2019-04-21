@@ -1,0 +1,1 @@
+{"tmdb_id": 108643, "title": "Big Bag of $", "original_title": "Big Bag of $", "slug_title": "big-bag-of", "date": "2009-01-01", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0ZA9bw9yRb4wGqy1V2sdjXZSOR.jpg", "actors": [], "comments": [], "recommandations_id": []}

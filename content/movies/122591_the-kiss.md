@@ -1,0 +1,1 @@
+{"tmdb_id": 122591, "title": "The Kiss", "original_title": "Il Bacio", "slug_title": "the-kiss", "date": "2002-06-05", "genre": "Drame / Romance", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eugenio Chicano ()", "Marina Furlani ()"], "comments": [], "recommandations_id": []}

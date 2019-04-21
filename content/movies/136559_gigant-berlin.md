@@ -1,0 +1,1 @@
+{"tmdb_id": 136559, "title": "Gigant Berlin", "original_title": "Gigant Berlin", "slug_title": "gigant-berlin", "date": "1964-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Elp9iZbfC2tiC9pATDHRfL4orX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379207, "title": "Pink Campaign", "original_title": "Pink Campaign", "slug_title": "pink-campaign", "date": "1975-12-30", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZV2s5aNVtutfKEhjYS6CllXH8w.jpg", "actors": [], "comments": [], "recommandations_id": []}

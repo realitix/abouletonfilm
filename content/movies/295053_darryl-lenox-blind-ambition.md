@@ -1,0 +1,1 @@
+{"tmdb_id": 295053, "title": "Darryl Lenox: Blind Ambition", "original_title": "Darryl Lenox: Blind Ambition", "slug_title": "darryl-lenox-blind-ambition", "date": "2012-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

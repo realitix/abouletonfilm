@@ -1,0 +1,1 @@
+{"tmdb_id": 425762, "title": "All Day Yoga for Beginners", "original_title": "All Day Yoga for Beginners", "slug_title": "all-day-yoga-for-beginners", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2EBl7XlsoB5xVaBUTR4iF57Th2a.jpg", "actors": [], "comments": [], "recommandations_id": []}

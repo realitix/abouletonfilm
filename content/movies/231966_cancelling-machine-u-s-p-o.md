@@ -1,0 +1,1 @@
+{"tmdb_id": 231966, "title": "Cancelling Machine, U.S.P.O.", "original_title": "Cancelling Machine, U.S.P.O.", "slug_title": "cancelling-machine-u-s-p-o", "date": "1903-08-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

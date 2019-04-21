@@ -1,0 +1,1 @@
+{"tmdb_id": 332955, "title": "The Waterfall Hunter: In Maui", "original_title": "The Waterfall Hunter: In Maui", "slug_title": "the-waterfall-hunter-in-maui", "date": "2014-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

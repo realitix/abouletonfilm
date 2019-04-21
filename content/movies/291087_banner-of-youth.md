@@ -1,0 +1,1 @@
+{"tmdb_id": 291087, "title": "Banner of Youth", "original_title": "Sztandar M\u0142odych", "slug_title": "banner-of-youth", "date": "1957-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Gjp8wtW2hZaudJUiqeeMbwAtLy.jpg", "actors": [], "comments": [], "recommandations_id": [243023]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553634, "title": "Public Money", "original_title": "Public Money", "slug_title": "public-money", "date": "2018-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yElsZw41WbwJOMauEQ7SSu6hPCW.jpg", "actors": [], "comments": [], "recommandations_id": []}

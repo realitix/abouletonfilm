@@ -1,0 +1,1 @@
+{"tmdb_id": 158110, "title": "You can be a Ballet Dancer", "original_title": "You can be a Ballet Dancer", "slug_title": "you-can-be-a-ballet-dancer", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5gIxVjPlqrSPBA2Shxab3c6Es8Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

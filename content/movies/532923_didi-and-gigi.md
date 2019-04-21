@@ -1,0 +1,1 @@
+{"tmdb_id": 532923, "title": "Didi and Gigi", "original_title": "Didi et Gigi", "slug_title": "didi-and-gigi", "date": "2008-06-30", "genre": "Crime / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mbaya Ndaya Christelle ()", "Bruno Djiba ()", "Madani Ka ()", "Roger Sambou ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 453579, "title": "Evil Cult", "original_title": "Evil Cult", "slug_title": "evil-cult", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a4KpKITEjNrKFxboHKY25ySuF5e.jpg", "actors": ["Rob Taylor (Neil Stryker)"], "comments": [], "recommandations_id": []}

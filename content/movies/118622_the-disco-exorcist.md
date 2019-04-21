@@ -1,0 +1,1 @@
+{"tmdb_id": 118622, "title": "The Disco Exorcist", "original_title": "The Disco Exorcist", "slug_title": "the-disco-exorcist", "date": "2011-10-14", "genre": "Horreur", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zT258Jr3XzsHedWxTUer0RC3Ri1.jpg", "actors": ["Michael Reed (Rex Romanski)"], "comments": [], "recommandations_id": []}

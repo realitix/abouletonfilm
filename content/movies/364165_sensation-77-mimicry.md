@@ -1,0 +1,1 @@
+{"tmdb_id": 364165, "title": "Sensation '77: Mimicry", "original_title": "Sensaci\u00f3n 77: Mimetismo", "slug_title": "sensation-77-mimicry", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie Louise Alemann ()"], "comments": [], "recommandations_id": []}

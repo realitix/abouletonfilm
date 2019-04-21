@@ -1,0 +1,1 @@
+{"tmdb_id": 350754, "title": "The Other Face of K2", "original_title": "The Other Face of K2", "slug_title": "the-other-face-of-k2", "date": "2005-12-31", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jordi Corominas ()", "Oscar Cadiach ()", "Manel de la Matta ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 235892, "title": "City Kitty", "original_title": "City Kitty", "slug_title": "city-kitty", "date": "1952-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

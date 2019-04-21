@@ -1,0 +1,1 @@
+{"tmdb_id": 335104, "title": "Yeti: The Last Witness", "original_title": "Yeti: The Last Witness", "slug_title": "yeti-the-last-witness", "date": "2014-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

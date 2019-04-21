@@ -1,0 +1,1 @@
+{"tmdb_id": 234792, "title": "Robinson Gruesome", "original_title": "Robinson Gruesome", "slug_title": "robinson-gruesome", "date": "1959-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exuxawifrZHDGEUgFqZf6Y2zHGj.jpg", "actors": ["Daws Butler ((voices))"], "comments": [], "recommandations_id": []}

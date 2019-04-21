@@ -1,0 +1,1 @@
+{"tmdb_id": 367798, "title": "Valerie & Sid", "original_title": "Valerie & Sid", "slug_title": "valerie-sid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

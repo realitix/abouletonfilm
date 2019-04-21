@@ -1,0 +1,1 @@
+{"tmdb_id": 435845, "title": "Italiques: Roland Topor", "original_title": "Italiques: Roland Topor", "slug_title": "italiques-roland-topor", "date": "1974-08-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

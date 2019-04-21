@@ -1,0 +1,1 @@
+{"tmdb_id": 351011, "title": "Aladdin's Lamp", "original_title": "Aladdin's Lamp", "slug_title": "aladdin-s-lamp", "date": "1931-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

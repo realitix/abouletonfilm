@@ -1,0 +1,1 @@
+{"tmdb_id": 588499, "title": "Rustam Tay Khan", "original_title": "Rustam Tay Khan", "slug_title": "rustam-tay-khan", "date": "1983-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

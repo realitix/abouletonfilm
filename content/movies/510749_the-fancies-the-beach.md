@@ -1,0 +1,1 @@
+{"tmdb_id": 510749, "title": "The Fancies: The Beach", "original_title": "The Fancies: The Beach", "slug_title": "the-fancies-the-beach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

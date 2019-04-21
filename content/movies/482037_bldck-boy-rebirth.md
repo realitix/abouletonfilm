@@ -1,0 +1,1 @@
+{"tmdb_id": 482037, "title": "Bl\u0394ck Boy Rebirth", "original_title": "Bl\u0394ck Boy Rebirth", "slug_title": "bldck-boy-rebirth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUwlUBv8fyhdZLuUIeht0x3uUiD.jpg", "actors": [], "comments": [], "recommandations_id": []}

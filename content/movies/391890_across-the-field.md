@@ -1,0 +1,1 @@
+{"tmdb_id": 391890, "title": "Across the Field", "original_title": "Across the Field", "slug_title": "across-the-field", "date": "1992-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

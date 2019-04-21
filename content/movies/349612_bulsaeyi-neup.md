@@ -1,0 +1,1 @@
+{"tmdb_id": 349612, "title": "\ubd88\uc0c8\uc758 \ub2aa", "original_title": "\ubd88\uc0c8\uc758 \ub2aa", "slug_title": "bulsaeyi-neup", "date": "1984-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559541, "title": "Met Opera: Die Walk\u00fcre", "original_title": "Met Opera: Die Walk\u00fcre", "slug_title": "met-opera-die-walkure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axNzsL8nqXRPNOYS0AtQnarz9kd.jpg", "actors": [], "comments": [], "recommandations_id": []}

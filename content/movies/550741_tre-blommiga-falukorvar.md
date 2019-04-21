@@ -1,0 +1,1 @@
+{"tmdb_id": 550741, "title": "Tre blommiga falukorvar", "original_title": "Tre blommiga falukorvar", "slug_title": "tre-blommiga-falukorvar", "date": "1988-10-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Alfredson (Speaker)"], "comments": [], "recommandations_id": []}

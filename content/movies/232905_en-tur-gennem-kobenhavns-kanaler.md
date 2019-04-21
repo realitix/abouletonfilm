@@ -1,0 +1,1 @@
+{"tmdb_id": 232905, "title": "En Tur gennem K\u00f8benhavns Kanaler", "original_title": "En Tur gennem K\u00f8benhavns Kanaler", "slug_title": "en-tur-gennem-kobenhavns-kanaler", "date": "1908-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

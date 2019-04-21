@@ -1,0 +1,1 @@
+{"tmdb_id": 426844, "title": "Element: YOGA For Energy", "original_title": "Element: YOGA For Energy", "slug_title": "element-yoga-for-energy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKwtbu08hgHzbf5TStEEVzbajrk.jpg", "actors": [], "comments": [], "recommandations_id": []}

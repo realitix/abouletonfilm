@@ -1,0 +1,1 @@
+{"tmdb_id": 572711, "title": "Kino, ki je preve\u010d videl", "original_title": "Kino, ki je preve\u010d videl", "slug_title": "kino-ki-je-prevec-videl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

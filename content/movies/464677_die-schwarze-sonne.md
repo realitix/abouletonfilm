@@ -1,0 +1,1 @@
+{"tmdb_id": 464677, "title": "Die schwarze Sonne", "original_title": "Die schwarze Sonne", "slug_title": "die-schwarze-sonne", "date": "1992-10-23", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hakan Baykal ()", "Eva Maria Klauser ()"], "comments": [], "recommandations_id": []}

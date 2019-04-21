@@ -1,0 +1,1 @@
+{"tmdb_id": 86077, "title": "4 Elements", "original_title": "4 Elements", "slug_title": "4-elements", "date": "2006-11-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xEBt7cc4lCX397QwWIY2qo3QjHM.jpg", "actors": [], "comments": [], "recommandations_id": []}

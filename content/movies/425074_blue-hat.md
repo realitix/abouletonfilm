@@ -1,0 +1,1 @@
+{"tmdb_id": 425074, "title": "Blue Hat", "original_title": "Blue Hat", "slug_title": "blue-hat", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tD0QzHJEyH8RIxX7GKQDuSn77Sg.jpg", "actors": [], "comments": [], "recommandations_id": []}

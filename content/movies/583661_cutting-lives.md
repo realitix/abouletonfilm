@@ -1,0 +1,1 @@
+{"tmdb_id": 583661, "title": "Cutting Lives", "original_title": "Cutting Lives", "slug_title": "cutting-lives", "date": "2018-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

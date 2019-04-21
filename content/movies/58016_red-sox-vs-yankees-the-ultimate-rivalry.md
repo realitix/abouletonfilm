@@ -1,0 +1,1 @@
+{"tmdb_id": 58016, "title": "Red Sox vs. Yankees: The Ultimate Rivalry", "original_title": "Red Sox vs. Yankees: The Ultimate Rivalry", "slug_title": "red-sox-vs-yankees-the-ultimate-rivalry", "date": "2006-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

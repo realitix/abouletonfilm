@@ -1,0 +1,1 @@
+{"tmdb_id": 104512, "title": "Bucky O'Hare and the Toad Wars!", "original_title": "Bucky O'Hare and the Toad Wars!", "slug_title": "bucky-o-hare-and-the-toad-wars", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

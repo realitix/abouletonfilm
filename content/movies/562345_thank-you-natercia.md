@@ -1,0 +1,1 @@
+{"tmdb_id": 562345, "title": "Thank You, Natercia", "original_title": "Merci Natercia!", "slug_title": "thank-you-natercia", "date": "1964-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUpsmpx6C4eYgEULPaiV27BWgIM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323009, "title": "ESK\u00dcV\u0150-Melinda&P\u00e9ter 1", "original_title": "ESK\u00dcV\u0150-Melinda&P\u00e9ter 1", "slug_title": "eskuvo-melinda-peter-1", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0VP5tWAE0ZOCgxwhE2xKcF3Ygi.jpg", "actors": [], "comments": [], "recommandations_id": []}

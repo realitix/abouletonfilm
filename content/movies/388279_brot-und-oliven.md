@@ -1,0 +1,1 @@
+{"tmdb_id": 388279, "title": "Brot und Oliven", "original_title": "Brot und Oliven", "slug_title": "brot-und-oliven", "date": "2015-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anastasis Kolovos ()", "Antonis Karistinos ()", "Antonis Kafetzopoulos ()"], "comments": [], "recommandations_id": []}

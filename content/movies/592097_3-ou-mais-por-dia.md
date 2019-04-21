@@ -1,0 +1,1 @@
+{"tmdb_id": 592097, "title": "3 ou mais por dia", "original_title": "3 ou mais por dia", "slug_title": "3-ou-mais-por-dia", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uyyQTSmnCjVc6MDRbBseakAnIHI.jpg", "actors": [], "comments": [], "recommandations_id": []}

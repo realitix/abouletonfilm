@@ -1,0 +1,1 @@
+{"tmdb_id": 188223, "title": "Mosaik im Vertrauen", "original_title": "Mosaik im Vertrauen", "slug_title": "mosaik-im-vertrauen", "date": "1955-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8DeCwBA3TcM3a9lWnbxk8FD7iGc.jpg", "actors": [], "comments": [], "recommandations_id": [306216, 155003, 211209, 190060]}

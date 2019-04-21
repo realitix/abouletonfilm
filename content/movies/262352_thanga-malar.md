@@ -1,0 +1,1 @@
+{"tmdb_id": 262352, "title": "Thanga Malar", "original_title": "Thanga Malar", "slug_title": "thanga-malar", "date": "1969-01-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "M. R. Radha ()"], "comments": [], "recommandations_id": []}

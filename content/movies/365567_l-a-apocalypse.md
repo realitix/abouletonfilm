@@ -1,0 +1,1 @@
+{"tmdb_id": 365567, "title": "L.A. Apocalypse", "original_title": "L.A. Apocalypse", "slug_title": "l-a-apocalypse", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

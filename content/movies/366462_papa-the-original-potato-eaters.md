@@ -1,0 +1,1 @@
+{"tmdb_id": 366462, "title": "Papa (The Original Potato Eaters)", "original_title": "Papa (The Original Potato Eaters)", "slug_title": "papa-the-original-potato-eaters", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

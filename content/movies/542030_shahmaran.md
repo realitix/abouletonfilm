@@ -1,0 +1,1 @@
+{"tmdb_id": 542030, "title": "SHAHMARAN", "original_title": "SHAHMARAN", "slug_title": "shahmaran", "date": "2018-07-31", "genre": "Science-Fiction", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ZRNIs9XeZj2bYMVD47WWwIF7Su.jpg", "actors": ["Sevdaliza ()", "Anunnaki The Great ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 252198, "title": "Yes: Classic Artists", "original_title": "Yes: Classic Artists", "slug_title": "yes-classic-artists", "date": "2007-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpMdwuHVe6JcoBX4AggjnCCXdcw.jpg", "actors": [], "comments": [], "recommandations_id": []}

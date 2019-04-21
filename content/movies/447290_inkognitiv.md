@@ -1,0 +1,1 @@
+{"tmdb_id": 447290, "title": "Inkognitiv", "original_title": "Inkognitiv", "slug_title": "inkognitiv", "date": "2012-11-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5M5QIcyL3QyBZD8vYRUC5964vwU.jpg", "actors": ["Morten Rud\u00e5 (Trond)"], "comments": [], "recommandations_id": []}

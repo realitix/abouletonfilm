@@ -1,0 +1,1 @@
+{"tmdb_id": 351953, "title": "Hemingway: Winner Take Nothing", "original_title": "Hemingway: Winner Take Nothing", "slug_title": "hemingway-winner-take-nothing", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

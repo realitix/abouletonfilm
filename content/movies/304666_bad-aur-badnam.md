@@ -1,0 +1,1 @@
+{"tmdb_id": 304666, "title": "Bad Aur Badnam", "original_title": "Bad Aur Badnam", "slug_title": "bad-aur-badnam", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 319554, "title": "Great Day in Havana", "original_title": "Great Day in Havana", "slug_title": "great-day-in-havana", "date": "2001-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6BUxwjasqUkmZU2dTkicaPG1YRV.jpg", "actors": [], "comments": [], "recommandations_id": []}

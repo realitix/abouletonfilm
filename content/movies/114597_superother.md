@@ -1,0 +1,1 @@
+{"tmdb_id": 114597, "title": "SuperOther", "original_title": "SuperOutro", "slug_title": "superother", "date": "1989-09-27", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJdowM9Ba4pqwSQcWP8ppHjj9OY.jpg", "actors": ["Bertrand Duarte ()", "Nilda Spencer ()"], "comments": [], "recommandations_id": []}

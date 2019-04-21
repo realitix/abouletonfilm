@@ -1,0 +1,1 @@
+{"tmdb_id": 493295, "title": "The Artist's Friend", "original_title": "The Artist's Friend", "slug_title": "the-artist-s-friend", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

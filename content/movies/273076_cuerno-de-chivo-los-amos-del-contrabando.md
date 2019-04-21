@@ -1,0 +1,1 @@
+{"tmdb_id": 273076, "title": "Cuerno de Chivo, Los Amos del Contrabando", "original_title": "Cuerno de Chivo, Los Amos del Contrabando", "slug_title": "cuerno-de-chivo-los-amos-del-contrabando", "date": "2012-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

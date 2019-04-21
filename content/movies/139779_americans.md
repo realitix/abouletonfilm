@@ -1,0 +1,1 @@
+{"tmdb_id": 139779, "title": "Americans", "original_title": "Americans", "slug_title": "americans", "date": "2012-10-10", "genre": "", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1NEVbwGiiI0uynA0CHzlISMvYL.jpg", "actors": ["Sean Penn (Commie)", "Kid Rock (Troglodyte)"], "comments": [], "recommandations_id": []}

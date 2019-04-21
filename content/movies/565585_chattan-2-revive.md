@@ -1,0 +1,1 @@
+{"tmdb_id": 565585, "title": "Chattan 2 Revive", "original_title": "Chattan 2 Revive", "slug_title": "chattan-2-revive", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3D70rpE6oaDTBfvUeBSwEzQbzw.jpg", "actors": ["Jeet Upendra ()", "Tej Sapru ()"], "comments": [], "recommandations_id": []}

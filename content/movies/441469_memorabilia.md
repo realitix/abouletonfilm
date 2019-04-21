@@ -1,0 +1,1 @@
+{"tmdb_id": 441469, "title": "Memorabilia", "original_title": "Memorabilia", "slug_title": "memorabilia", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

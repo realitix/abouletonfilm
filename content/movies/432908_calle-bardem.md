@@ -1,0 +1,1 @@
+{"tmdb_id": 432908, "title": "Calle Bardem", "original_title": "Calle Bardem", "slug_title": "calle-bardem", "date": "2005-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Garc\u00eda Berlanga (Interviewee)", "Florentino Soria (Interviewee)"], "comments": [], "recommandations_id": []}

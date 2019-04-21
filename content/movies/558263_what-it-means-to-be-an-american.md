@@ -1,0 +1,1 @@
+{"tmdb_id": 558263, "title": "What It Means To Be An American", "original_title": "What It Means To Be An American", "slug_title": "what-it-means-to-be-an-american", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

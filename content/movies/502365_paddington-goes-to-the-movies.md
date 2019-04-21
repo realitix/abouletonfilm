@@ -1,0 +1,1 @@
+{"tmdb_id": 502365, "title": "Paddington Goes to the Movies", "original_title": "Paddington Goes to the Movies", "slug_title": "paddington-goes-to-the-movies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9CIDa1WXPcAovq6G4P66hZ12IFq.jpg", "actors": [], "comments": [], "recommandations_id": []}

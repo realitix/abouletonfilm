@@ -1,0 +1,1 @@
+{"tmdb_id": 278146, "title": "Hot Wings", "original_title": "Hot Wings", "slug_title": "hot-wings", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

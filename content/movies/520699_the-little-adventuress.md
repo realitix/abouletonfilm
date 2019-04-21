@@ -1,0 +1,1 @@
+{"tmdb_id": 520699, "title": "The Little Adventuress", "original_title": "The Little Adventuress", "slug_title": "the-little-adventuress", "date": "1938-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["D. Ross Lederman (Director)"], "comments": [], "recommandations_id": []}

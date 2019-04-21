@@ -1,0 +1,1 @@
+{"tmdb_id": 276354, "title": "Crunk Comedy All-Stars", "original_title": "Crunk Comedy All-Stars", "slug_title": "crunk-comedy-all-stars", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

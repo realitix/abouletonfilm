@@ -1,0 +1,1 @@
+{"tmdb_id": 319827, "title": "Tiger Ramudu", "original_title": "Tiger Ramudu", "slug_title": "tiger-ramudu", "date": "1962-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bAW0D03q9ddMuW71TfdGy2rL29V.jpg", "actors": [], "comments": [], "recommandations_id": []}

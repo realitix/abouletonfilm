@@ -1,0 +1,1 @@
+{"tmdb_id": 360907, "title": "Cindy Savalas", "original_title": "Cindy Savalas", "slug_title": "cindy-savalas", "date": "2015-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tek17nAGa6MShJvIhrAikqFOOs0.jpg", "actors": ["Blue LoLan ()", "Kyle Beechey ()"], "comments": [], "recommandations_id": []}

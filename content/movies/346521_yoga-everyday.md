@@ -1,0 +1,1 @@
+{"tmdb_id": 346521, "title": "Yoga Everyday", "original_title": "Yoga Everyday", "slug_title": "yoga-everyday", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

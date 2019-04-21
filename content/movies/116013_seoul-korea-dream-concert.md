@@ -1,0 +1,1 @@
+{"tmdb_id": 116013, "title": "Seoul Korea Dream Concert", "original_title": "Seoul Korea Dream Concert", "slug_title": "seoul-korea-dream-concert", "date": "2010-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysQIgRCuVEgUfUlGgpLShcTsC1w.jpg", "actors": [], "comments": [], "recommandations_id": []}

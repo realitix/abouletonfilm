@@ -1,0 +1,1 @@
+{"tmdb_id": 202354, "title": "Chilly's Ice Folly", "original_title": "Chilly's Ice Folly", "slug_title": "chilly-s-ice-folly", "date": "1970-06-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rk626Gsp5DpxCOTydWqF4fuMPOl.jpg", "actors": [], "comments": [], "recommandations_id": []}

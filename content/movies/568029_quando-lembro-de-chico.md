@@ -1,0 +1,1 @@
+{"tmdb_id": 568029, "title": "Quando Lembro de Chico", "original_title": "Quando Lembro de Chico", "slug_title": "quando-lembro-de-chico", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

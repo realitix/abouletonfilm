@@ -1,0 +1,1 @@
+{"tmdb_id": 416991, "title": "Bellator 161: Kongo vs. Johnson", "original_title": "Bellator 161: Kongo vs. Johnson", "slug_title": "bellator-161-kongo-vs-johnson", "date": "2016-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/toMf0vnYgg3pf5954Xwx65zCVST.jpg", "actors": [], "comments": [], "recommandations_id": []}

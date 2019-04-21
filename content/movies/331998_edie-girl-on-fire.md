@@ -1,0 +1,1 @@
+{"tmdb_id": 331998, "title": "Edie: Girl on Fire", "original_title": "Edie: Girl on Fire", "slug_title": "edie-girl-on-fire", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 369628, "title": "Control X", "original_title": "Control X", "slug_title": "control-x", "date": "2007-07-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRm1w9f3wASURbutW73xUcLx8GG.jpg", "actors": [], "comments": [], "recommandations_id": []}

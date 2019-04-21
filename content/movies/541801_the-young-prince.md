@@ -1,0 +1,1 @@
+{"tmdb_id": 541801, "title": "The Young Prince", "original_title": "The Young Prince", "slug_title": "the-young-prince", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 494757, "title": "Skinny and Fatty: the Story of Yard Birds", "original_title": "Skinny and Fatty: the Story of Yard Birds", "slug_title": "skinny-and-fatty-the-story-of-yard-birds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

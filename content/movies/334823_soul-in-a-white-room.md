@@ -1,0 +1,1 @@
+{"tmdb_id": 334823, "title": "Soul in a White Room", "original_title": "Soul in a White Room", "slug_title": "soul-in-a-white-room", "date": "1968-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWLUWnFJR4Ik81ODNK9dVKKhPPE.jpg", "actors": [], "comments": [], "recommandations_id": []}

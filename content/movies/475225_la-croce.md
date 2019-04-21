@@ -1,0 +1,1 @@
+{"tmdb_id": 475225, "title": "La croce", "original_title": "La croce", "slug_title": "la-croce", "date": "1960-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3x5vkb4xYReqyWYstlBviod3f9f.jpg", "actors": [], "comments": [], "recommandations_id": []}

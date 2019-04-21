@@ -1,0 +1,1 @@
+{"tmdb_id": 411610, "title": "Pistulya", "original_title": "Pistulya", "slug_title": "pistulya", "date": "2010-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

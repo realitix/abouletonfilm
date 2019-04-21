@@ -1,0 +1,1 @@
+{"tmdb_id": 421026, "title": "They Are Their Own Gifts", "original_title": "They Are Their Own Gifts", "slug_title": "they-are-their-own-gifts", "date": "1978-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Muriel Rukeyser (Self)", "Alice Neel (Self)", "Anna Sokolow (Self)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562388, "title": "Hold-up \u00e0 Saint-Trop\u2019", "original_title": "Hold-up \u00e0 Saint-Trop\u2019", "slug_title": "hold-up-a-saint-trop", "date": "1963-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBrSSIAOD0zPtJaU2cm1RSnmeZX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353107, "title": "Lazos de sangre", "original_title": "Lazos de sangre", "slug_title": "lazos-de-sangre", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jorge Monje (Miguel)", "Cintia Mart\u00edn (M\u00f3nica)", "Mar\u00eda Jos\u00e9 Alfonso (Rosa)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320086, "title": "The very best of Tweety", "original_title": "The very best of Tweety", "slug_title": "the-very-best-of-tweety", "date": "2005-06-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XYWSBDlqCNF2zdDFLzET3vwA8O.jpg", "actors": [], "comments": [], "recommandations_id": []}

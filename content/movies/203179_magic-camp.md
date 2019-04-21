@@ -1,0 +1,1 @@
+{"tmdb_id": 203179, "title": "Magic Camp", "original_title": "Magic Camp", "slug_title": "magic-camp", "date": "2012-04-28", "genre": "Documentaire / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56470ftssBqicKym3Sub7QH5nTx.jpg", "actors": [], "comments": [], "recommandations_id": []}

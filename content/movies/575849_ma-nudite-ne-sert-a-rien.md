@@ -1,0 +1,1 @@
+{"tmdb_id": 575849, "title": "Ma nudit\u00e9 ne sert \u00e0 rien", "original_title": "Ma nudit\u00e9 ne sert \u00e0 rien", "slug_title": "ma-nudite-ne-sert-a-rien", "date": "2019-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522511, "title": "Yap! Bun Bun", "original_title": "Hoero! Bun Bun", "slug_title": "yap-bun-bun", "date": "1987-04-04", "genre": "Animation / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIDMwPrlIBrgMcuQEnliJ0or548.jpg", "actors": [], "comments": [], "recommandations_id": []}

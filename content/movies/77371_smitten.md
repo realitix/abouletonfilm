@@ -1,0 +1,1 @@
+{"tmdb_id": 77371, "title": "Smitten", "original_title": "Smitten", "slug_title": "smitten", "date": "2011-07-23", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXFBFBTggdAruhYzWirTNvNl6tJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

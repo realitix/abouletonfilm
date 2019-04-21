@@ -1,0 +1,1 @@
+{"tmdb_id": 579055, "title": "The Doors", "original_title": "The Doors", "slug_title": "the-doors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

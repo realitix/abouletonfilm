@@ -1,0 +1,1 @@
+{"tmdb_id": 561187, "title": "Silence Broken: Korean Comfort Women", "original_title": "Silence Broken: Korean Comfort Women", "slug_title": "silence-broken-korean-comfort-women", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

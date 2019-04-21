@@ -1,0 +1,1 @@
+{"tmdb_id": 285988, "title": "Reason Over Passion", "original_title": "La raison avant la passion", "slug_title": "reason-over-passion", "date": "1969-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKusc4bXMnvelr41FipLmp8cx1L.jpg", "actors": ["Pierre Trudeau ()"], "comments": [], "recommandations_id": []}

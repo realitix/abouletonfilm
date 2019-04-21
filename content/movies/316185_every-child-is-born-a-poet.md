@@ -1,0 +1,1 @@
+{"tmdb_id": 316185, "title": "Every Child is Born a Poet", "original_title": "Every Child is Born a Poet", "slug_title": "every-child-is-born-a-poet", "date": "2002-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 266992, "title": "The hungry games", "original_title": "The hungry games", "slug_title": "the-hungry-games", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Mu0aejKTBt1DIs955TgLohB3RL.jpg", "actors": [], "comments": [], "recommandations_id": []}

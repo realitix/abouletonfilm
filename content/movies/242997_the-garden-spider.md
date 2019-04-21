@@ -1,0 +1,1 @@
+{"tmdb_id": 242997, "title": "The Garden Spider", "original_title": "Epeira Diadema", "slug_title": "the-garden-spider", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

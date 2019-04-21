@@ -1,0 +1,1 @@
+{"tmdb_id": 52655, "title": "Shooters", "original_title": "Shooters", "slug_title": "shooters", "date": "2001-11-17", "genre": "Action / Crime / Thriller", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKnhCjGX3tw35KV1he3dX0mc4R3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531956, "title": "Hamburger Gitter", "original_title": "Hamburger Gitter", "slug_title": "hamburger-gitter", "date": "2018-06-22", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGe4RMqecpDonFSaVhmgWukhD0z.jpg", "actors": [], "comments": [], "recommandations_id": [508780, 448804, 585213, 578715]}

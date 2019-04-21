@@ -1,0 +1,1 @@
+{"tmdb_id": 388238, "title": "Die Herrgottsgrenadiere", "original_title": "Die Herrgottsgrenadiere", "slug_title": "die-herrgottsgrenadiere", "date": "1932-12-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gustav Diessl (Faletti)", "Kurt Horwitz (Direktor Timmler)"], "comments": [], "recommandations_id": []}

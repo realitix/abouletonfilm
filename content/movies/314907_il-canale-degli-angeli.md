@@ -1,0 +1,1 @@
+{"tmdb_id": 314907, "title": "Il canale degli angeli", "original_title": "Il canale degli angeli", "slug_title": "il-canale-degli-angeli", "date": "1934-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yKp4QorWiyEB0iLykEmNoVLC61I.jpg", "actors": [], "comments": [], "recommandations_id": []}

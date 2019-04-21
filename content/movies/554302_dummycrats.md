@@ -1,0 +1,1 @@
+{"tmdb_id": 554302, "title": "Dummycrats", "original_title": "Dummycrats", "slug_title": "dummycrats", "date": "2018-10-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1eTC9RBKRpUhFhcRsKustZyUKl.jpg", "actors": [], "comments": [], "recommandations_id": []}

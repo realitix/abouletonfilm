@@ -1,0 +1,1 @@
+{"tmdb_id": 265335, "title": "The Winning Spirit", "original_title": "Esp\u00edritu de triunfo", "slug_title": "the-winning-spirit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tcMC8GWbGCU0YlucJjFrgoUxu4.jpg", "actors": [], "comments": [], "recommandations_id": []}

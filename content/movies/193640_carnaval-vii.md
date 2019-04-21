@@ -1,0 +1,1 @@
+{"tmdb_id": 193640, "title": "Carnaval, [VII]", "original_title": "Carnaval, [VII]", "slug_title": "carnaval-vii", "date": "1897-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

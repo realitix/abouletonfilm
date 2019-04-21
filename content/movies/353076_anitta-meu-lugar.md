@@ -1,0 +1,1 @@
+{"tmdb_id": 353076, "title": "Anitta - Meu Lugar", "original_title": "Anitta - Meu Lugar", "slug_title": "anitta-meu-lugar", "date": "2014-06-04", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8lUB4Hs7wW3MB1UOcmcJv8c2imw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349706, "title": "\ubf55\ub760", "original_title": "\ubf55\ub760", "slug_title": "bbongddi", "date": "1993-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

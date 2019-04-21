@@ -1,0 +1,1 @@
+{"tmdb_id": 193466, "title": "The Leather Necker", "original_title": "The Leather Necker", "slug_title": "the-leather-necker", "date": "1935-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon ()", "Wade Boteler ()", "Bud Jamison ()"], "comments": [], "recommandations_id": []}

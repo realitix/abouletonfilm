@@ -1,0 +1,1 @@
+{"tmdb_id": 144987, "title": "Snow Foolin'", "original_title": "Snow Foolin'", "slug_title": "snow-foolin", "date": "1949-12-16", "genre": "Animation", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQSkeUt1RcXfvWPSDzAe2l4D2B2.jpg", "actors": [], "comments": [], "recommandations_id": []}

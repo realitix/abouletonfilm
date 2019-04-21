@@ -1,0 +1,1 @@
+{"tmdb_id": 430823, "title": "Chi-Town Ass Up Trip!", "original_title": "Chi-Town Ass Up Trip!", "slug_title": "chi-town-ass-up-trip", "date": "2006-05-03", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2TIr6sMI8F5sKhfiQL3mANNtFLk.jpg", "actors": ["Rico Strong ()"], "comments": [], "recommandations_id": []}

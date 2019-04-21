@@ -1,0 +1,1 @@
+{"tmdb_id": 486123, "title": "Ready, Willing but Unable", "original_title": "Ready, Willing but Unable", "slug_title": "ready-willing-but-unable", "date": "1941-05-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["El Brendel (Olley Olsen)"], "comments": [], "recommandations_id": []}

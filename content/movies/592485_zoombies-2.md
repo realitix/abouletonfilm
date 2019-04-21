@@ -1,0 +1,1 @@
+{"tmdb_id": 592485, "title": "Zoombies 2", "original_title": "Zoombies 2", "slug_title": "zoombies-2", "date": "2019-03-26", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lBpua9Ot0kZObPnXVKKAuyk7Kr.jpg", "actors": [], "comments": [], "recommandations_id": []}

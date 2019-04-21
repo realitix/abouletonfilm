@@ -1,0 +1,1 @@
+{"tmdb_id": 485909, "title": "Lighting the 7th Fire", "original_title": "Lighting the 7th Fire", "slug_title": "lighting-the-7th-fire", "date": "1995-07-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

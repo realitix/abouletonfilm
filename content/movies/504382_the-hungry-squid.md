@@ -1,0 +1,1 @@
+{"tmdb_id": 504382, "title": "The Hungry Squid", "original_title": "The Hungry Squid", "slug_title": "the-hungry-squid", "date": "2002-02-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwU1WHUfFOOG308oZh7QAOD4VBd.jpg", "actors": ["Derek McGrath (Narrator)"], "comments": [], "recommandations_id": []}

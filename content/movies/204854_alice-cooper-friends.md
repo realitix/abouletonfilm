@@ -1,0 +1,1 @@
+{"tmdb_id": 204854, "title": "Alice Cooper & Friends", "original_title": "Alice Cooper & Friends", "slug_title": "alice-cooper-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

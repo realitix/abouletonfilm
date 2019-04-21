@@ -1,0 +1,1 @@
+{"tmdb_id": 530724, "title": "The Manifesto", "original_title": "The Manifesto", "slug_title": "the-manifesto", "date": "2018-06-17", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/py5lNuzSq9X3VcbTrqSFKZiyo67.jpg", "actors": [], "comments": [], "recommandations_id": []}

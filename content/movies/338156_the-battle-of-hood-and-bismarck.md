@@ -1,0 +1,1 @@
+{"tmdb_id": 338156, "title": "The Battle of Hood and Bismarck", "original_title": "The Battle of Hood and Bismarck", "slug_title": "the-battle-of-hood-and-bismarck", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

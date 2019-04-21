@@ -1,0 +1,1 @@
+{"tmdb_id": 444736, "title": "What Made Sammy Speed?", "original_title": "What Made Sammy Speed?", "slug_title": "what-made-sammy-speed", "date": "1957-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Felshaw (Sammy)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343529, "title": "Historias cotidianas", "original_title": "Historias cotidianas", "slug_title": "historias-cotidianas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

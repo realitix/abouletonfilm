@@ -1,0 +1,1 @@
+{"tmdb_id": 467023, "title": "The Upstart", "original_title": "Narikin", "slug_title": "the-upstart", "date": "1921-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

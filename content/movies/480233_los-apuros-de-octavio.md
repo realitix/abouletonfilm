@@ -1,0 +1,1 @@
+{"tmdb_id": 480233, "title": "Los apuros de Octavio", "original_title": "Los apuros de Octavio", "slug_title": "los-apuros-de-octavio", "date": "1926-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Secundino Fern\u00e1ndez ()"], "comments": [], "recommandations_id": []}

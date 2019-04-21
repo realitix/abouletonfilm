@@ -1,0 +1,1 @@
+{"tmdb_id": 390092, "title": "Damage Done: The Drug War Odyssey", "original_title": "Damage Done: The Drug War Odyssey", "slug_title": "damage-done-the-drug-war-odyssey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HyVwBhehnIhc27PxW8psxvdfRh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397468, "title": "Drumb and Drumber", "original_title": "Drumb and Drumber", "slug_title": "drumb-and-drumber", "date": "2003-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hyaZhvufJOOSkHTpgs1NLq0mX6G.jpg", "actors": ["Michel Gondry (himself)"], "comments": [], "recommandations_id": []}

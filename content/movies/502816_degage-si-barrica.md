@@ -1,0 +1,1 @@
+{"tmdb_id": 502816, "title": "Degage! Si barrica", "original_title": "Degage! Si barrica", "slug_title": "degage-si-barrica", "date": "2014-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

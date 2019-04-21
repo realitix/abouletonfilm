@@ -1,0 +1,1 @@
+{"tmdb_id": 319451, "title": "Pro Wrestling's Extreme Measures", "original_title": "Pro Wrestling's Extreme Measures", "slug_title": "pro-wrestling-s-extreme-measures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

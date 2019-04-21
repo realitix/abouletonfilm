@@ -1,0 +1,1 @@
+{"tmdb_id": 406433, "title": "Some Kind of Hero", "original_title": "Some Kind of Hero", "slug_title": "some-kind-of-hero", "date": "1972-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Garrick Hagon ()", "Mary Larkin ()", "Bernard Horsfall ()", "David Lodge ()"], "comments": [], "recommandations_id": []}

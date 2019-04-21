@@ -1,0 +1,1 @@
+{"tmdb_id": 296069, "title": "Nuclear Family", "original_title": "Nuclear Family", "slug_title": "nuclear-family", "date": "2001-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8u2W6JiqZ5pIVhwr3JlF9WS4mbJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

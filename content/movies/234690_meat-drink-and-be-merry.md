@@ -1,0 +1,1 @@
+{"tmdb_id": 234690, "title": "Meat, Drink, and Be Merry", "original_title": "Meat, Drink, and Be Merry", "slug_title": "meat-drink-and-be-merry", "date": "1961-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

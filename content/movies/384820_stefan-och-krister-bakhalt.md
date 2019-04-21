@@ -1,0 +1,1 @@
+{"tmdb_id": 384820, "title": "Stefan och Krister - Bakhalt", "original_title": "Stefan och Krister - Bakhalt", "slug_title": "stefan-och-krister-bakhalt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKSFx9vHciXR7wAHlq9wxbMlr3f.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 371403, "title": "Genossinnen", "original_title": "Genossinnen", "slug_title": "genossinnen", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

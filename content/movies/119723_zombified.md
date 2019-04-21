@@ -1,0 +1,1 @@
+{"tmdb_id": 119723, "title": "Zombified", "original_title": "Zombified", "slug_title": "zombified", "date": "2012-06-07", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/E6bywTbVVvqnouAT8QVDQAZgsK.jpg", "actors": [], "comments": [], "recommandations_id": []}

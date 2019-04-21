@@ -1,0 +1,1 @@
+{"tmdb_id": 566603, "title": "Madhuri", "original_title": "Madhuri", "slug_title": "madhuri", "date": "2018-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQLIKcoThgFwrTUlofGsJy7WQaG.jpg", "actors": ["Sonali Kulkarni (Madhuri)", "Sharad Kelkar (Dr. Tushar)"], "comments": [], "recommandations_id": []}

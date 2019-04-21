@@ -1,0 +1,1 @@
+{"tmdb_id": 350955, "title": "\uaf43\uc21c\uc774\ub97c \uc544\uc2dc\ub098\uc694", "original_title": "\uaf43\uc21c\uc774\ub97c \uc544\uc2dc\ub098\uc694", "slug_title": "ggocsunireul-asinayo", "date": "1979-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

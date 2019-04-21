@@ -1,0 +1,1 @@
+{"tmdb_id": 556415, "title": "Hara-Kiri", "original_title": "Hara-Kiri", "slug_title": "hara-kiri", "date": "1928-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

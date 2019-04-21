@@ -1,0 +1,1 @@
+{"tmdb_id": 126208, "title": "Stellar", "original_title": "Stellar", "slug_title": "stellar", "date": "1993-01-01", "genre": "", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4iHDo11JXatCFfZ6IHCZesSjWA.jpg", "actors": [], "comments": [], "recommandations_id": [126215, 126216, 104407, 126189]}

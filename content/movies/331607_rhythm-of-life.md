@@ -1,0 +1,1 @@
+{"tmdb_id": 331607, "title": "Rhythm of Life", "original_title": "Iqa' al-Haya", "slug_title": "rhythm-of-life", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

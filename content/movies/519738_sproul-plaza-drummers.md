@@ -1,0 +1,1 @@
+{"tmdb_id": 519738, "title": "Sproul Plaza Drummers", "original_title": "Sproul Plaza Drummers", "slug_title": "sproul-plaza-drummers", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jHFG3gUnUUbvwezUfXbPTguhDMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

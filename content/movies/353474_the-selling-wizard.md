@@ -1,0 +1,1 @@
+{"tmdb_id": 353474, "title": "The Selling Wizard", "original_title": "The Selling Wizard", "slug_title": "the-selling-wizard", "date": "1954-01-01", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386005, "title": "What Did You Eat Today? Rose Lowder", "original_title": "What Did You Eat Today? Rose Lowder", "slug_title": "what-did-you-eat-today-rose-lowder", "date": "2005-03-06", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rose Lowder ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289954, "title": "Showman Olli Schulz", "original_title": "Showman Olli Schulz", "slug_title": "showman-olli-schulz", "date": "2012-04-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2uUt6h4ZD5NnfNLrqUOEDXpkvZ.jpg", "actors": ["Olli Schulz (Himself)"], "comments": [], "recommandations_id": []}

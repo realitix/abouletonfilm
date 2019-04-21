@@ -1,0 +1,1 @@
+{"tmdb_id": 237156, "title": "The Stupidstitious Cat", "original_title": "The Stupidstitious Cat", "slug_title": "the-stupidstitious-cat", "date": "1947-04-24", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rH2zwGEDN835eifLdMIK0t02Rzk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317806, "title": "Da' T.R.U.T.H. & Friends: Live!", "original_title": "Da' T.R.U.T.H. & Friends: Live!", "slug_title": "da-t-r-u-t-h-friends-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301346, "title": "Bowser Makes a Movie", "original_title": "Bowser Makes a Movie", "slug_title": "bowser-makes-a-movie", "date": "2005-07-09", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ai8nsJ5YOyd6Uk00lbAzN5wGMq0.jpg", "actors": [], "comments": [], "recommandations_id": [496189, 511186]}

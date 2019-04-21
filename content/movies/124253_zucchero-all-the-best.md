@@ -1,0 +1,1 @@
+{"tmdb_id": 124253, "title": "Zucchero - All the Best", "original_title": "Zucchero - All the Best", "slug_title": "zucchero-all-the-best", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrAICHvA2ZO1Xrz9PCBZ9CH4X63.jpg", "actors": ["Zucchero Fornaciari ()"], "comments": [], "recommandations_id": []}

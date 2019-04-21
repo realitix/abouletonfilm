@@ -1,0 +1,1 @@
+{"tmdb_id": 540828, "title": "Industrial Relations Bill", "original_title": "Industrial Relations Bill", "slug_title": "industrial-relations-bill", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCyqdqHphHMH2Pd0cSrU3Bx7WTn.jpg", "actors": [], "comments": [], "recommandations_id": []}

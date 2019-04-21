@@ -1,0 +1,1 @@
+{"tmdb_id": 252661, "title": "Being Mariano Rivera", "original_title": "Being Mariano Rivera", "slug_title": "being-mariano-rivera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

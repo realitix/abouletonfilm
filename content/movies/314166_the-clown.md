@@ -1,0 +1,1 @@
+{"tmdb_id": 314166, "title": "The Clown", "original_title": "The Clown", "slug_title": "the-clown", "date": "1931-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

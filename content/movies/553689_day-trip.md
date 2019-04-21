@@ -1,0 +1,1 @@
+{"tmdb_id": 553689, "title": "Day Trip", "original_title": "Day Trip", "slug_title": "day-trip", "date": "2010-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

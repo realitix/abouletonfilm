@@ -1,0 +1,1 @@
+{"tmdb_id": 316121, "title": "God Is Bad at Bowling", "original_title": "God Is Bad at Bowling", "slug_title": "god-is-bad-at-bowling", "date": "2014-08-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

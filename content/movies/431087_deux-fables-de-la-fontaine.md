@@ -1,0 +1,1 @@
+{"tmdb_id": 431087, "title": "Deux fables de La Fontaine", "original_title": "Deux fables de La Fontaine", "slug_title": "deux-fables-de-la-fontaine", "date": "1932-01-01", "genre": "Fantastique / Animation", "score": "7.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

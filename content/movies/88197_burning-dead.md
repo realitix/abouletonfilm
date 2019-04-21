@@ -1,0 +1,1 @@
+{"tmdb_id": 88197, "title": "Burning Dead", "original_title": "Burning Dead", "slug_title": "burning-dead", "date": "2004-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8uIN2xMLeo2AbA9AV50s0FUa0qT.jpg", "actors": ["D. Vincent Ashby ()", "Cindy Pain ()", "Brian Canada ()"], "comments": [], "recommandations_id": []}

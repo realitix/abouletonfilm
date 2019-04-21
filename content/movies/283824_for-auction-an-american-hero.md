@@ -1,0 +1,1 @@
+{"tmdb_id": 283824, "title": "For Auction: An American Hero", "original_title": "For Auction: An American Hero", "slug_title": "for-auction-an-american-hero", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

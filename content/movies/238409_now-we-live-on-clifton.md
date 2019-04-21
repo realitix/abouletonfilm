@@ -1,0 +1,1 @@
+{"tmdb_id": 238409, "title": "Now We Live on Clifton", "original_title": "Now We Live on Clifton", "slug_title": "now-we-live-on-clifton", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

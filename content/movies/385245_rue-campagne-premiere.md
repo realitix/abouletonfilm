@@ -1,0 +1,1 @@
+{"tmdb_id": 385245, "title": "Rue Campagne-Premi\u00e8re", "original_title": "Rue Campagne-Premi\u00e8re", "slug_title": "rue-campagne-premiere", "date": "1923-01-29", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHW9NaGTYIF6ImPMXx3QH49SN0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

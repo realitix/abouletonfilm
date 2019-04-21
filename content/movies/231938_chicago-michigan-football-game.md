@@ -1,0 +1,1 @@
+{"tmdb_id": 231938, "title": "Chicago-Michigan Football Game", "original_title": "Chicago-Michigan Football Game", "slug_title": "chicago-michigan-football-game", "date": "1903-10-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574278, "title": "The Boy with Divine Powers", "original_title": "The Boy with Divine Powers", "slug_title": "the-boy-with-divine-powers", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWS9gGS8kFhauuVnwxspufkYQt8.jpg", "actors": [], "comments": [], "recommandations_id": []}

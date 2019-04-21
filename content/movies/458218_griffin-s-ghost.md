@@ -1,0 +1,1 @@
+{"tmdb_id": 458218, "title": "Griffin's Ghost", "original_title": "Griffin's Ghost", "slug_title": "griffin-s-ghost", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rEPBNuyLvl993XgVHDisyaLdit.jpg", "actors": [], "comments": [], "recommandations_id": []}

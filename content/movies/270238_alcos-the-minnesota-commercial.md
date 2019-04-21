@@ -1,0 +1,1 @@
+{"tmdb_id": 270238, "title": "Alcos & The Minnesota Commercial", "original_title": "Alcos & The Minnesota Commercial", "slug_title": "alcos-the-minnesota-commercial", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

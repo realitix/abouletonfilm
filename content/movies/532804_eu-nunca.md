@@ -1,0 +1,1 @@
+{"tmdb_id": 532804, "title": "Eu Nunca", "original_title": "Eu Nunca", "slug_title": "eu-nunca", "date": "2018-06-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dKLRdOcx5tj4iV5lWC1Y4d0y8fR.jpg", "actors": ["Jackson Nephew (Teo)"], "comments": [], "recommandations_id": []}

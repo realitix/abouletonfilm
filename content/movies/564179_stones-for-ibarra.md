@@ -1,0 +1,1 @@
+{"tmdb_id": 564179, "title": "Stones for Ibarra", "original_title": "Stones for Ibarra", "slug_title": "stones-for-ibarra", "date": "1988-01-29", "genre": "T\u00e9l\u00e9film / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn Close (Sara Everton)", "Keith Carradine (Richard Everton)"], "comments": [], "recommandations_id": []}

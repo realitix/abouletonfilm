@@ -1,0 +1,1 @@
+{"tmdb_id": 396433, "title": "DBADGED", "original_title": "DBADGED", "slug_title": "dbadged", "date": "2006-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nSiz0uk8ZCbNvEvX1rXd8pPxJ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

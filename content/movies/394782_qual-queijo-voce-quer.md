@@ -1,0 +1,1 @@
+{"tmdb_id": 394782, "title": "Qual Queijo Voc\u00ea Quer?", "original_title": "Qual Queijo Voc\u00ea Quer?", "slug_title": "qual-queijo-voce-quer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

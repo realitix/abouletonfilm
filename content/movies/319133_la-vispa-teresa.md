@@ -1,0 +1,1 @@
+{"tmdb_id": 319133, "title": "La vispa Teresa", "original_title": "La vispa Teresa", "slug_title": "la-vispa-teresa", "date": "1939-12-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJrQqt9W2H6Ibvtmpmq6L2V02Rr.jpg", "actors": [], "comments": [], "recommandations_id": []}

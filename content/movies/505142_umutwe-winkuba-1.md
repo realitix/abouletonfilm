@@ -1,0 +1,1 @@
+{"tmdb_id": 505142, "title": "Umutwe Winkuba 1", "original_title": "Umutwe Winkuba 1", "slug_title": "umutwe-winkuba-1", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ja0z9i5Ws0MggB1LB6aPfRBNzUZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

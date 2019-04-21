@@ -1,0 +1,1 @@
+{"tmdb_id": 388800, "title": "The Earth Is Flat", "original_title": "Jorden er flad", "slug_title": "the-earth-is-flat", "date": "1977-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

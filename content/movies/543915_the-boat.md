@@ -1,0 +1,1 @@
+{"tmdb_id": 543915, "title": "The Boat", "original_title": "The Boat", "slug_title": "the-boat", "date": "2018-09-22", "genre": "Thriller / Horreur", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yTdOPLEjHHiFdsDD3yOCSsViKbo.jpg", "actors": ["Joe Azzopardi (Sailor)"], "comments": [], "recommandations_id": []}

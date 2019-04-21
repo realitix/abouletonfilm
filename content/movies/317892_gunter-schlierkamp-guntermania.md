@@ -1,0 +1,1 @@
+{"tmdb_id": 317892, "title": "Gunter Schlierkamp: Guntermania", "original_title": "Gunter Schlierkamp: Guntermania", "slug_title": "gunter-schlierkamp-guntermania", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

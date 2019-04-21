@@ -1,0 +1,1 @@
+{"tmdb_id": 317054, "title": "Resistant Soul", "original_title": "Animo Resistente", "slug_title": "resistant-soul", "date": "2013-01-11", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkLVuqJukvPE53Ty5BdEcp737aq.jpg", "actors": [], "comments": [], "recommandations_id": []}

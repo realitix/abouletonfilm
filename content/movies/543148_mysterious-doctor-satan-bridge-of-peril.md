@@ -1,0 +1,1 @@
+{"tmdb_id": 543148, "title": "Mysterious Doctor Satan Bridge of Peril", "original_title": "Mysterious Doctor Satan Bridge of Peril", "slug_title": "mysterious-doctor-satan-bridge-of-peril", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

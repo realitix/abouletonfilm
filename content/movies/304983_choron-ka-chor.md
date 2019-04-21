@@ -1,0 +1,1 @@
+{"tmdb_id": 304983, "title": "Choron Ka Chor", "original_title": "Choron Ka Chor", "slug_title": "choron-ka-chor", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

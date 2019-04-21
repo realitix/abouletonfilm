@@ -1,0 +1,1 @@
+{"tmdb_id": 445924, "title": "Palos y risas", "original_title": "Palos y risas", "slug_title": "palos-y-risas", "date": "2016-12-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOn9GmiMiFEEgmHtGhpiQ4aT49m.jpg", "actors": [], "comments": [], "recommandations_id": []}

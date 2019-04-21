@@ -1,0 +1,1 @@
+{"tmdb_id": 587786, "title": "In a Stranger's House", "original_title": "In a Stranger's House", "slug_title": "in-a-stranger-s-house", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 441581, "title": "Domination and the Everyday", "original_title": "Domination and the Everyday", "slug_title": "domination-and-the-everyday", "date": "1978-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLCsenqTv1BHy5s1F9dNDVvEmXU.jpg", "actors": [], "comments": [], "recommandations_id": []}

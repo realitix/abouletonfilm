@@ -1,0 +1,1 @@
+{"tmdb_id": 394893, "title": "Dear Mama", "original_title": "Dear Mama", "slug_title": "dear-mama", "date": "2016-05-08", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

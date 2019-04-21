@@ -1,0 +1,1 @@
+{"tmdb_id": 274180, "title": "Chaliapin: The Enchanter", "original_title": "Chaliapin: The Enchanter", "slug_title": "chaliapin-the-enchanter", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

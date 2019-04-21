@@ -1,0 +1,1 @@
+{"tmdb_id": 535172, "title": "Ravi Teja-Theri Remake", "original_title": "Ravi Teja-Theri Remake", "slug_title": "ravi-teja-theri-remake", "date": "", "genre": "Action / Thriller / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ravi Teja (Shiva IPS)", "Kajal Agarwal ()", "Catherine Tresa ()"], "comments": [], "recommandations_id": []}

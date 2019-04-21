@@ -1,0 +1,1 @@
+{"tmdb_id": 289938, "title": "Manhattan Waterfront", "original_title": "Manhattan Waterfront", "slug_title": "manhattan-waterfront", "date": "1937-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alois Havrilla (Narrator (voice))"], "comments": [], "recommandations_id": []}

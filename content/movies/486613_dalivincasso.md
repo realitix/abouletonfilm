@@ -1,0 +1,1 @@
+{"tmdb_id": 486613, "title": "Dalivincasso", "original_title": "Dalivincasso", "slug_title": "dalivincasso", "date": "2013-01-07", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MiHRDOwO8Ep4sphNtIoG5eTHz6.jpg", "actors": [], "comments": [], "recommandations_id": []}

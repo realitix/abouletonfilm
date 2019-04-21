@@ -1,0 +1,1 @@
+{"tmdb_id": 515002, "title": "Magnetic Resonance", "original_title": "Magnetic Resonance", "slug_title": "magnetic-resonance", "date": "2016-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

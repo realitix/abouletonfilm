@@ -1,0 +1,1 @@
+{"tmdb_id": 196954, "title": "Symposium: Ladder of Love", "original_title": "Symposium: Ladder of Love", "slug_title": "symposium-ladder-of-love", "date": "1996-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fe7gYWpgz2sFisCVNUtHkxdwXIk.jpg", "actors": [], "comments": [], "recommandations_id": []}

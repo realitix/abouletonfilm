@@ -1,0 +1,1 @@
+{"tmdb_id": 368932, "title": "Elimination Dance", "original_title": "Elimination Dance", "slug_title": "elimination-dance", "date": "1998-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Don McKellar ()", "Tracy Wright ()"], "comments": [], "recommandations_id": []}

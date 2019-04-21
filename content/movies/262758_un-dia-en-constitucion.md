@@ -1,0 +1,1 @@
+{"tmdb_id": 262758, "title": "Un d\u00eda en constituci\u00f3n", "original_title": "Un d\u00eda en constituci\u00f3n", "slug_title": "un-dia-en-constitucion", "date": "2011-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

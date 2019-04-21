@@ -1,0 +1,1 @@
+{"tmdb_id": 101826, "title": "Hot Spot", "original_title": "Hot Spot", "slug_title": "hot-spot", "date": "1945-07-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Pvt. Snafu / Camel (voice))", "Harold Peary (The Devil (voice))"], "comments": [], "recommandations_id": []}

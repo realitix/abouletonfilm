@@ -1,0 +1,1 @@
+{"tmdb_id": 480674, "title": "Fram f\u00f6r lilla Terra", "original_title": "Fram f\u00f6r lilla Terra", "slug_title": "fram-for-lilla-terra", "date": "1948-10-10", "genre": "Thriller / Drame / Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

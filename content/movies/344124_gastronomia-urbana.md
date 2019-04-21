@@ -1,0 +1,1 @@
+{"tmdb_id": 344124, "title": "Gastronomia Urbana", "original_title": "Gastronomia Urbana", "slug_title": "gastronomia-urbana", "date": "2014-01-01", "genre": "Drame / Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

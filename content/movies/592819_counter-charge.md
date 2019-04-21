@@ -1,0 +1,1 @@
+{"tmdb_id": 592819, "title": "Counter-Charge", "original_title": "Counter-Charge", "slug_title": "counter-charge", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/LHvxtNhq8CUhUf8rGsp5jMbrb3.jpg", "actors": [], "comments": [], "recommandations_id": []}

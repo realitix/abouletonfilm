@@ -1,0 +1,1 @@
+{"tmdb_id": 511581, "title": "My Heart Attack", "original_title": "My Heart Attack", "slug_title": "my-heart-attack", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HmeNR05G22RSq1hINciPYOczhn.jpg", "actors": [], "comments": [], "recommandations_id": []}

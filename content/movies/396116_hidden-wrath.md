@@ -1,0 +1,1 @@
+{"tmdb_id": 396116, "title": "Hidden Wrath", "original_title": "Hidden Wrath", "slug_title": "hidden-wrath", "date": "2015-11-03", "genre": "Horreur / Thriller", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/39U95LCupkaKqCGLc0s9q9jyaCw.jpg", "actors": [], "comments": [], "recommandations_id": []}

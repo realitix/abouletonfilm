@@ -1,0 +1,1 @@
+{"tmdb_id": 281704, "title": "Behind the Redwood Curtain", "original_title": "Behind the Redwood Curtain", "slug_title": "behind-the-redwood-curtain", "date": "2013-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gyhTGkO9fyGzq9dNOzlQzboWOx1.jpg", "actors": [], "comments": [], "recommandations_id": []}

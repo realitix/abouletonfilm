@@ -1,0 +1,1 @@
+{"tmdb_id": 202356, "title": "Hi-Rise Wise Guys", "original_title": "Hi-Rise Wise Guys", "slug_title": "hi-rise-wise-guys", "date": "1970-08-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wpHwQrOxZu2DL2oNAw6UsBjlagy.jpg", "actors": [], "comments": [], "recommandations_id": []}

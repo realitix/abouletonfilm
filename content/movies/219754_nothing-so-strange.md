@@ -1,0 +1,1 @@
+{"tmdb_id": 219754, "title": "Nothing So Strange", "original_title": "Nothing So Strange", "slug_title": "nothing-so-strange", "date": "2002-01-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74XXNixLWyQHZEfkn0MYMMbNzXQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

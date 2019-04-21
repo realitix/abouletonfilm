@@ -1,0 +1,1 @@
+{"tmdb_id": 133139, "title": "One Night Stand", "original_title": "\uc6d0 \ub098\uc787 \uc2a4\ud0e0\ub4dc", "slug_title": "one-night-stand", "date": "2010-05-04", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w03j2T05O4FsHJMFOpDoNCNmxGi.jpg", "actors": ["Lee Ju-seung ()"], "comments": [], "recommandations_id": []}

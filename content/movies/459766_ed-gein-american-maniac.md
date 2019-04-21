@@ -1,0 +1,1 @@
+{"tmdb_id": 459766, "title": "Ed Gein: American Maniac", "original_title": "Ed Gein: American Maniac", "slug_title": "ed-gein-american-maniac", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRZ9M2wlsBJcsPOzLkxBma9rGsJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

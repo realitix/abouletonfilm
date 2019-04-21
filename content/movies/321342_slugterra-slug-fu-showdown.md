@@ -1,0 +1,1 @@
+{"tmdb_id": 321342, "title": "Slugterra: Slug Fu Showdown", "original_title": "Slugterra: Slug Fu Showdown", "slug_title": "slugterra-slug-fu-showdown", "date": "2015-02-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnhQg7MiOsdP3aBTBPMGov1NibB.jpg", "actors": [], "comments": [], "recommandations_id": []}

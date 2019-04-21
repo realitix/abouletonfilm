@@ -1,0 +1,1 @@
+{"tmdb_id": 304495, "title": "The Incredible Hulik and His Beavers", "original_title": "The Incredible Hulik and His Beavers", "slug_title": "the-incredible-hulik-and-his-beavers", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

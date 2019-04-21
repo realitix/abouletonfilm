@@ -1,0 +1,1 @@
+{"tmdb_id": 260993, "title": "Teletubbies: What's That?", "original_title": "Teletubbies: What's That?", "slug_title": "teletubbies-what-s-that", "date": "1996-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hny3ZbhsT9ZvGRGxS0AaSB5UBu7.jpg", "actors": [], "comments": [], "recommandations_id": []}

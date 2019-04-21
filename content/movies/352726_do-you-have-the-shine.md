@@ -1,0 +1,1 @@
+{"tmdb_id": 352726, "title": "Do You Have the Shine?", "original_title": "Do You Have the Shine?", "slug_title": "do-you-have-the-shine", "date": "2003-01-02", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHubWTtXu89htkwk8rzxfQmPFqC.jpg", "actors": [], "comments": [], "recommandations_id": []}

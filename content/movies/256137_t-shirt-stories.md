@@ -1,0 +1,1 @@
+{"tmdb_id": 256137, "title": "T-Shirt Stories", "original_title": "T-Shirt Stories", "slug_title": "t-shirt-stories", "date": "2011-06-29", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ELLPj8GZt1DsK4lYx20VGgZYJz.jpg", "actors": [], "comments": [], "recommandations_id": []}

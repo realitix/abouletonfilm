@@ -1,0 +1,1 @@
+{"tmdb_id": 459357, "title": "XX/88, Pelczyn", "original_title": "XX/88, Pelczyn", "slug_title": "xx-88-pelczyn", "date": "1988-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

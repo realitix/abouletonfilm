@@ -1,0 +1,1 @@
+{"tmdb_id": 330345, "title": "The Film has Ended", "original_title": "Filim Bitti", "slug_title": "the-film-has-ended", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kadir Inanir ()", "Halil Erg\u00fcn ()", "Meral O\u011fuz ()"], "comments": [], "recommandations_id": []}

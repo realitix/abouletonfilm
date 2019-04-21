@@ -1,0 +1,1 @@
+{"tmdb_id": 438008, "title": "Roping a Bride", "original_title": "Roping a Bride", "slug_title": "roping-a-bride", "date": "1915-02-09", "genre": "Com\u00e9die / Romance / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Mix (Tom)"], "comments": [], "recommandations_id": []}

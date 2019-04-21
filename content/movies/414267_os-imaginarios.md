@@ -1,0 +1,1 @@
+{"tmdb_id": 414267, "title": "Os Imagin\u00e1rios", "original_title": "Os Imagin\u00e1rios", "slug_title": "os-imaginarios", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FUNeN9GV1zalodJHD67Ku6IBKS.jpg", "actors": ["Othon Bastos (Narrador)"], "comments": [], "recommandations_id": []}

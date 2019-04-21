@@ -1,0 +1,1 @@
+{"tmdb_id": 164180, "title": "Art in the Raw", "original_title": "Art in the Raw", "slug_title": "art-in-the-raw", "date": "1933-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Kennedy ()", "Florence Lake ()", "Franklin Pangborn ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 469049, "title": "Cuba, a People Armed", "original_title": "Cuba, pueblo armado", "slug_title": "cuba-a-people-armed", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

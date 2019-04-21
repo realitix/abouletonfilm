@@ -1,0 +1,1 @@
+{"tmdb_id": 376462, "title": "Lupo mannaro", "original_title": "Lupo mannaro", "slug_title": "lupo-mannaro", "date": "2000-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

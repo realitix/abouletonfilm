@@ -1,0 +1,1 @@
+{"tmdb_id": 308067, "title": "Pavitra Prema", "original_title": "Pavitra Prema", "slug_title": "pavitra-prema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

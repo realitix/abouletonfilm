@@ -1,0 +1,1 @@
+{"tmdb_id": 317437, "title": "Mighty Mouse and the Magician", "original_title": "Mighty Mouse and the Magician", "slug_title": "mighty-mouse-and-the-magician", "date": "1948-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEyyoZG80UHRdH2PFr31lwiGGdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

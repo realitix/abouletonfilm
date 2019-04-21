@@ -1,0 +1,1 @@
+{"tmdb_id": 290101, "title": "Sobrevivi ao Holocausto", "original_title": "Sobrevivi ao Holocausto", "slug_title": "sobrevivi-ao-holocausto", "date": "2014-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julio Gartner ()", "Marina Kagan ()"], "comments": [], "recommandations_id": []}

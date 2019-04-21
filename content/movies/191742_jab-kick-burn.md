@@ -1,0 +1,1 @@
+{"tmdb_id": 191742, "title": "Jab, Kick & Burn", "original_title": "Jab, Kick & Burn", "slug_title": "jab-kick-burn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoLBwIL0LC5UON5sxBiFMT3etgc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588886, "title": "Cidade \u00c1spera", "original_title": "Cidade \u00c1spera", "slug_title": "cidade-aspera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKScTBlbk6R7lGWTWQmHgOaz4hI.jpg", "actors": [], "comments": [], "recommandations_id": []}

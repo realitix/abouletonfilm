@@ -1,0 +1,1 @@
+{"tmdb_id": 552995, "title": "Scottish Antarctic Expedition", "original_title": "Scottish Antarctic Expedition", "slug_title": "scottish-antarctic-expedition", "date": "1904-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

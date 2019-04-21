@@ -1,0 +1,1 @@
+{"tmdb_id": 418791, "title": "Santa Cruz del Islote", "original_title": "Santa Cruz del Islote", "slug_title": "santa-cruz-del-islote", "date": "2014-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lIdeYUE7uxLYI53Ap6cvH0BJtRv.jpg", "actors": [], "comments": [], "recommandations_id": []}

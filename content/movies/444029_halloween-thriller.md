@@ -1,0 +1,1 @@
+{"tmdb_id": 444029, "title": "Halloween Thriller", "original_title": "Halloween Thriller", "slug_title": "halloween-thriller", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

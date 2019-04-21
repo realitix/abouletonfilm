@@ -1,0 +1,1 @@
+{"tmdb_id": 481231, "title": "\u6700\u719f\u6089\u7684\u964c\u751f\u4eba", "original_title": "\u6700\u719f\u6089\u7684\u964c\u751f\u4eba", "slug_title": "zui-shou-xi-de-mo-sheng-ren", "date": "2007-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

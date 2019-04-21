@@ -1,0 +1,1 @@
+{"tmdb_id": 446436, "title": "19 Scenes Relating to a Trip to Japan", "original_title": "19 Scenes Relating to a Trip to Japan", "slug_title": "19-scenes-relating-to-a-trip-to-japan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

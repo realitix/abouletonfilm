@@ -1,0 +1,1 @@
+{"tmdb_id": 349687, "title": "\ubb3c\ub7ad\ub8e8\uc988", "original_title": "\ubb3c\ub7ad\ub8e8\uc988", "slug_title": "mulraengrujeu", "date": "1993-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

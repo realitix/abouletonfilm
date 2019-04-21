@@ -1,0 +1,1 @@
+{"tmdb_id": 563945, "title": "Hanoi Bride", "original_title": "\ud558\ub178\uc774 \uc2e0\ubd80", "slug_title": "hanoi-bride", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Dong-wook (Park Eun Woo)", "Kim Ok-bin (Ly Thi Vu)", "Kang Boo-Ja (Park Eun Woo's mother)"], "comments": [], "recommandations_id": []}

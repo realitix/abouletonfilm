@@ -1,0 +1,1 @@
+{"tmdb_id": 575735, "title": "Le Monde de Leonor Fini", "original_title": "Le Monde de Leonor Fini", "slug_title": "le-monde-de-leonor-fini", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonor Fini ()", "Stanislao Lepri ()", "Konstanty Jele\u0144ski ()"], "comments": [], "recommandations_id": []}

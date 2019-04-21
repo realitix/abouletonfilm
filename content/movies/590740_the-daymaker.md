@@ -1,0 +1,1 @@
+{"tmdb_id": 590740, "title": "The Daymaker", "original_title": "The Daymaker", "slug_title": "the-daymaker", "date": "1982-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMJQApXt9mhqfyxsMktBsn0PXbZ.jpg", "actors": ["Aram Avakian (Sol (voice))"], "comments": [], "recommandations_id": []}

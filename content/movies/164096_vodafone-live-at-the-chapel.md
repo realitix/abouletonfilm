@@ -1,0 +1,1 @@
+{"tmdb_id": 164096, "title": "Vodafone Live At The Chapel", "original_title": "Vodafone Live At The Chapel", "slug_title": "vodafone-live-at-the-chapel", "date": "2006-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4N03F4zqUyZvibBAz4gZdBSthcT.jpg", "actors": [], "comments": [], "recommandations_id": []}

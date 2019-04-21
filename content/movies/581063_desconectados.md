@@ -1,0 +1,1 @@
+{"tmdb_id": 581063, "title": "Desconectados", "original_title": "Desconectados", "slug_title": "desconectados", "date": "2014-12-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

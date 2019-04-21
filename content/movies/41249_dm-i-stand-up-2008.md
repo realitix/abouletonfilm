@@ -1,0 +1,1 @@
+{"tmdb_id": 41249, "title": "DM i stand-up 2008", "original_title": "DM i stand-up 2008", "slug_title": "dm-i-stand-up-2008", "date": "2009-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wyUCSCyKRkB3MV1NaAAujCRMbS.jpg", "actors": ["Anders Fjelsted (Himself)"], "comments": [], "recommandations_id": []}

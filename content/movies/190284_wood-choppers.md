@@ -1,0 +1,1 @@
+{"tmdb_id": 190284, "title": "Wood Choppers", "original_title": "Wood Choppers", "slug_title": "wood-choppers", "date": "1929-06-08", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

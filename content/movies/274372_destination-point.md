@@ -1,0 +1,1 @@
+{"tmdb_id": 274372, "title": "Destination Point", "original_title": "Destination Point", "slug_title": "destination-point", "date": "2006-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

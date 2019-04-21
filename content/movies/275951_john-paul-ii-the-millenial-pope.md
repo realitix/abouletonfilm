@@ -1,0 +1,1 @@
+{"tmdb_id": 275951, "title": "JOHN PAUL II: THE MILLENIAL POPE", "original_title": "JOHN PAUL II: THE MILLENIAL POPE", "slug_title": "john-paul-ii-the-millenial-pope", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

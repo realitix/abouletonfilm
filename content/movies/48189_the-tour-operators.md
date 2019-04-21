@@ -1,0 +1,1 @@
+{"tmdb_id": 48189, "title": "The Tour Operators", "original_title": "The Tour Operators", "slug_title": "the-tour-operators", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7CfCA7guPPFBY8mqoeass9PkJ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

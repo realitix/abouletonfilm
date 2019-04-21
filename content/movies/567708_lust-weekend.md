@@ -1,0 +1,1 @@
+{"tmdb_id": 567708, "title": "Lust Weekend", "original_title": "Lust Weekend", "slug_title": "lust-weekend", "date": "1967-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

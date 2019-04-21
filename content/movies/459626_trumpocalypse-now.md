@@ -1,0 +1,1 @@
+{"tmdb_id": 459626, "title": "Trumpocalypse Now!", "original_title": "Trumpocalypse Now!", "slug_title": "trumpocalypse-now", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h68YFO3yn7yq7aFd6nJvFrYupR.jpg", "actors": [], "comments": [], "recommandations_id": []}

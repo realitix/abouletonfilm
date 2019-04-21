@@ -1,0 +1,1 @@
+{"tmdb_id": 216059, "title": "Disp\u00e1renle a matar", "original_title": "Disp\u00e1renle a matar", "slug_title": "disparenle-a-matar", "date": "1989-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

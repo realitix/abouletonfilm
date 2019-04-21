@@ -1,0 +1,1 @@
+{"tmdb_id": 310808, "title": "Hurricane Katrina: The Storm That Drowned a City", "original_title": "Hurricane Katrina: The Storm That Drowned a City", "slug_title": "hurricane-katrina-the-storm-that-drowned-a-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

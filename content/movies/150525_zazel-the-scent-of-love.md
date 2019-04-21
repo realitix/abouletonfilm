@@ -1,0 +1,1 @@
+{"tmdb_id": 150525, "title": "Zazel: The Scent of Love", "original_title": "Zazel: The Scent of Love", "slug_title": "zazel-the-scent-of-love", "date": "1996-01-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypErY8wcKQQdERAXtMhNhKcx55S.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 489984, "title": "The Devil We Know", "original_title": "The Devil We Know", "slug_title": "the-devil-we-know", "date": "2018-01-21", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eLww3wkI2x1RjDqHf0xfyxiNaM.jpg", "actors": [], "comments": [], "recommandations_id": []}

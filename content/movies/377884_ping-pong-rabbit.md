@@ -1,0 +1,1 @@
+{"tmdb_id": 377884, "title": "Ping Pong Rabbit", "original_title": "Ping Pong Rabbit", "slug_title": "ping-pong-rabbit", "date": "2016-07-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v2tgF35SCL8dvbnfzUDcsQHD6bQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

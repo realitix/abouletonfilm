@@ -1,0 +1,1 @@
+{"tmdb_id": 443572, "title": "The Last Hotspot", "original_title": "The Last Hotspot", "slug_title": "the-last-hotspot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Kruthaupt (Character 1)", "Taylor Kilgore (Character 2)"], "comments": [], "recommandations_id": []}

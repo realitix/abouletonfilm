@@ -1,0 +1,1 @@
+{"tmdb_id": 174446, "title": "Buddy's Garage", "original_title": "Buddy's Garage", "slug_title": "buddy-s-garage", "date": "1934-04-13", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQsAlvScRW10Fz8HwhsqBqIRW9.jpg", "actors": [], "comments": [], "recommandations_id": []}

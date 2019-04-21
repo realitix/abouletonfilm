@@ -1,0 +1,1 @@
+{"tmdb_id": 529840, "title": "Der goldene K\u00e4fig", "original_title": "Der goldene K\u00e4fig", "slug_title": "der-goldene-kafig", "date": "1986-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556998, "title": "Polish Jew", "original_title": "Le juif polonais", "slug_title": "polish-jew", "date": "1931-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

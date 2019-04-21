@@ -1,0 +1,1 @@
+{"tmdb_id": 533712, "title": "Irish and Proud of It", "original_title": "Irish and Proud of It", "slug_title": "irish-and-proud-of-it", "date": "1936-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351370, "title": "The Wooden Indian", "original_title": "The Wooden Indian", "slug_title": "the-wooden-indian", "date": "1948-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

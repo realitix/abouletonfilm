@@ -1,0 +1,1 @@
+{"tmdb_id": 392866, "title": "The Romance of the Far Fur Country", "original_title": "The Romance of the Far Fur Country", "slug_title": "the-romance-of-the-far-fur-country", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TySmtWflBxreQlNz1qL4NRcJFx.jpg", "actors": [], "comments": [], "recommandations_id": []}

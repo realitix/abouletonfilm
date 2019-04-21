@@ -1,0 +1,1 @@
+{"tmdb_id": 195230, "title": "Cake Walk", "original_title": "Cake Walk", "slug_title": "cake-walk", "date": "1898-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

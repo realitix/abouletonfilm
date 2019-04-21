@@ -1,0 +1,1 @@
+{"tmdb_id": 314731, "title": "A Good Life: The Joe Grushecky Story", "original_title": "A Good Life: The Joe Grushecky Story", "slug_title": "a-good-life-the-joe-grushecky-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

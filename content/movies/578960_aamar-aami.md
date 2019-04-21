@@ -1,0 +1,1 @@
+{"tmdb_id": 578960, "title": "Aamar Aami", "original_title": "Aamar Aami", "slug_title": "aamar-aami", "date": "2014-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

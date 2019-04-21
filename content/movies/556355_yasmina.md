@@ -1,0 +1,1 @@
+{"tmdb_id": 556355, "title": "Yasmina", "original_title": "Yasmina", "slug_title": "yasmina", "date": "1927-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

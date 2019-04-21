@@ -1,0 +1,1 @@
+{"tmdb_id": 293849, "title": "Bittersweet", "original_title": "Matok Ve'Mar", "slug_title": "bittersweet", "date": "2008-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

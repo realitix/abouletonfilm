@@ -1,0 +1,1 @@
+{"tmdb_id": 309248, "title": "Amazing Fusion Concert: Rahul Sharma", "original_title": "Amazing Fusion Concert: Rahul Sharma", "slug_title": "amazing-fusion-concert-rahul-sharma", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

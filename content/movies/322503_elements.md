@@ -1,0 +1,1 @@
+{"tmdb_id": 322503, "title": "Elements", "original_title": "Elements", "slug_title": "elements", "date": "2011-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523546, "title": "Letters O, P, and R", "original_title": "Letters O, P, and R", "slug_title": "letters-o-p-and-r", "date": "1992-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmf5hDXwWDQqNDI4ME9Y2CCk1Z5.jpg", "actors": [], "comments": [], "recommandations_id": []}

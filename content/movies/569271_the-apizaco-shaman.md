@@ -1,0 +1,1 @@
+{"tmdb_id": 569271, "title": "The Apizaco Shaman", "original_title": "El Brujo de Apizaco", "slug_title": "the-apizaco-shaman", "date": "2017-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmGmresKgAnemCtyP3bzMN4yw5V.jpg", "actors": ["Rodolfo Rodr\u00edguez ()"], "comments": [], "recommandations_id": []}

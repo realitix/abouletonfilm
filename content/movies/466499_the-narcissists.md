@@ -1,0 +1,1 @@
+{"tmdb_id": 466499, "title": "The Narcissists", "original_title": "The Narcissists", "slug_title": "the-narcissists", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Quincy Rose (Oliver)", "Jessica DiGiovanni (Cassi)", "Zack Tiegen (Max)", "Augie Duke (Letty)"], "comments": [], "recommandations_id": []}

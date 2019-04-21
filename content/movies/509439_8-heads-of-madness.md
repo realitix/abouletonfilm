@@ -1,0 +1,1 @@
+{"tmdb_id": 509439, "title": "8 Heads of Madness", "original_title": "8 hlav \u0161\u00edlenstv\u00ed", "slug_title": "8-heads-of-madness", "date": "2017-10-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nrTb2GcYyOQvkApBR0HrW2UPrw1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 516143, "title": "Christian Pieper: Glutton for Punishment", "original_title": "Christian Pieper: Glutton for Punishment", "slug_title": "christian-pieper-glutton-for-punishment", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309223, "title": "Ultramaniac", "original_title": "Ultramaniac", "slug_title": "ultramaniac", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 360410, "title": "The Herbivore", "original_title": "The Herbivore", "slug_title": "the-herbivore", "date": "1997-04-19", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7zoghLtURq5TfaK9ptp1TeymV1.jpg", "actors": ["Brian Genk (The Herbivore)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389654, "title": "Charlie and the Doctor", "original_title": "Charlie and the Doctor", "slug_title": "charlie-and-the-doctor", "date": "1993-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

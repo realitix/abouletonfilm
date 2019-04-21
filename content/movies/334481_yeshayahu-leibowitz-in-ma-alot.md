@@ -1,0 +1,1 @@
+{"tmdb_id": 334481, "title": "Yeshayahu Leibowitz in Ma'alot", "original_title": "Yeshayahu Leibowitz in Ma'alot", "slug_title": "yeshayahu-leibowitz-in-ma-alot", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 281195, "title": "Resonance", "original_title": "Resonance", "slug_title": "resonance", "date": "1993-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6AIpJUvpeBGjIC49zFACMRYC7Yl.jpg", "actors": [], "comments": [], "recommandations_id": []}

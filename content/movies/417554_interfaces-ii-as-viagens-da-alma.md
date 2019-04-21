@@ -1,0 +1,1 @@
+{"tmdb_id": 417554, "title": "Interfaces II \u2013 As viagens da alma", "original_title": "Interfaces II \u2013 As viagens da alma", "slug_title": "interfaces-ii-as-viagens-da-alma", "date": "2016-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

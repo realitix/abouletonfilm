@@ -1,0 +1,1 @@
+{"tmdb_id": 358392, "title": "Pulau Hantu (Ghost Island)", "original_title": "Pulau Hantu (Ghost Island)", "slug_title": "pulau-hantu-ghost-island", "date": "2008-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

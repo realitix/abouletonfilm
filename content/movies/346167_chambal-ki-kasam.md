@@ -1,0 +1,1 @@
+{"tmdb_id": 346167, "title": "Chambal Ki Kasam", "original_title": "Chambal Ki Kasam", "slug_title": "chambal-ki-kasam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0D0amzFhguVU4AEoetcWkahVKW.jpg", "actors": [], "comments": [], "recommandations_id": []}

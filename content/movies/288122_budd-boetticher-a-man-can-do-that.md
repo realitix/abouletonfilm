@@ -1,0 +1,1 @@
+{"tmdb_id": 288122, "title": "Budd Boetticher: A Man Can Do That", "original_title": "Budd Boetticher: A Man Can Do That", "slug_title": "budd-boetticher-a-man-can-do-that", "date": "2005-12-02", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

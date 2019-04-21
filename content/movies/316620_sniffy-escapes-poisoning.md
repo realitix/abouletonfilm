@@ -1,0 +1,1 @@
+{"tmdb_id": 316620, "title": "Sniffy Escapes Poisoning", "original_title": "Sniffy Escapes Poisoning", "slug_title": "sniffy-escapes-poisoning", "date": "1967-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

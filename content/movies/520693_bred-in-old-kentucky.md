@@ -1,0 +1,1 @@
+{"tmdb_id": 520693, "title": "Bred in Old Kentucky", "original_title": "Bred in Old Kentucky", "slug_title": "bred-in-old-kentucky", "date": "1926-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

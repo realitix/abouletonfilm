@@ -1,0 +1,1 @@
+{"tmdb_id": 236884, "title": "The Cat Came Back", "original_title": "The Cat Came Back", "slug_title": "the-cat-came-back", "date": "1944-08-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50JxvAy1srsY2VFF4aK1qwjX0qv.jpg", "actors": [], "comments": [], "recommandations_id": []}

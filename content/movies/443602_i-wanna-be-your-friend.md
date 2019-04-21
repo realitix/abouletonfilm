@@ -1,0 +1,1 @@
+{"tmdb_id": 443602, "title": "I Wanna Be Your Friend", "original_title": "I Wanna Be Your Friend", "slug_title": "i-wanna-be-your-friend", "date": "2016-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsyn7aK506rm5fasCWK31mIhZdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

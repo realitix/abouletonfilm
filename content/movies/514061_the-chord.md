@@ -1,0 +1,1 @@
+{"tmdb_id": 514061, "title": "The Chord", "original_title": "\u0627\u0644\u0648\u062a\u0631", "slug_title": "the-chord", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fKSbwp1NVMmJQUNhwHkj6puYG2A.jpg", "actors": [], "comments": [], "recommandations_id": []}

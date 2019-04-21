@@ -1,0 +1,1 @@
+{"tmdb_id": 244587, "title": "Wannabe Macks", "original_title": "Wannabe Macks", "slug_title": "wannabe-macks", "date": "2011-05-20", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cory Monteith (Stu)", "Dustin Milligan (CJ)", "Melanie Papalia (Mia)"], "comments": [], "recommandations_id": []}

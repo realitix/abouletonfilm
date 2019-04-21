@@ -1,0 +1,1 @@
+{"tmdb_id": 545400, "title": "Cannabis to Save My Life", "original_title": "Cannabis to Save My Life", "slug_title": "cannabis-to-save-my-life", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WLR3vK5uFtjn3bIoNjvdMmpq9f.jpg", "actors": [], "comments": [], "recommandations_id": []}

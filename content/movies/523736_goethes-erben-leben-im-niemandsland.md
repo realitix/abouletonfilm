@@ -1,0 +1,1 @@
+{"tmdb_id": 523736, "title": "Goethes Erben: Leben Im Niemandsland", "original_title": "Goethes Erben: Leben Im Niemandsland", "slug_title": "goethes-erben-leben-im-niemandsland", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

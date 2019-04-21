@@ -1,0 +1,1 @@
+{"tmdb_id": 399216, "title": "The Specimen", "original_title": "The Specimen", "slug_title": "the-specimen", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

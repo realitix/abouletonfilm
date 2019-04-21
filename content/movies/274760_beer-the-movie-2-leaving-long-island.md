@@ -1,0 +1,1 @@
+{"tmdb_id": 274760, "title": "Beer: The Movie 2: Leaving Long Island", "original_title": "Beer: The Movie 2: Leaving Long Island", "slug_title": "beer-the-movie-2-leaving-long-island", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

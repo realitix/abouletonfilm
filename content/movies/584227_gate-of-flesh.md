@@ -1,0 +1,1 @@
+{"tmdb_id": 584227, "title": "Gate of Flesh", "original_title": "\u8089\u4f53\u306e\u9580", "slug_title": "gate-of-flesh", "date": "1948-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

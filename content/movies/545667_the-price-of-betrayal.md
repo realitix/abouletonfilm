@@ -1,0 +1,1 @@
+{"tmdb_id": 545667, "title": "The Price of Betrayal", "original_title": "Judaspengar", "slug_title": "the-price-of-betrayal", "date": "1915-12-13", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u3LxNUyXjySMgySy6Of0ubDkEvD.jpg", "actors": ["Gabriel Alw ()", "Stina Berg ()"], "comments": [], "recommandations_id": []}

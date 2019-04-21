@@ -1,0 +1,1 @@
+{"tmdb_id": 244194, "title": "Junk Films", "original_title": "Junk Films", "slug_title": "junk-films", "date": "2007-01-02", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nOXbO0jdSaQd5vXD3l7BSSA8IWa.jpg", "actors": [], "comments": [], "recommandations_id": []}

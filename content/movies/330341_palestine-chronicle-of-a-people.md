@@ -1,0 +1,1 @@
+{"tmdb_id": 330341, "title": "Palestine: Chronicle of a People", "original_title": "Filastin: Sijil Sha'b", "slug_title": "palestine-chronicle-of-a-people", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

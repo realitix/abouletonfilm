@@ -1,0 +1,1 @@
+{"tmdb_id": 446461, "title": "Jason Thunder: Legends", "original_title": "Jason Thunder: Legends", "slug_title": "jason-thunder-legends", "date": "2016-11-20", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUkE6ERqu01bRbAoJ746VYJwLNw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458858, "title": "Closed District", "original_title": "Closed District", "slug_title": "closed-district", "date": "2004-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yBQ2I1lvomqrtLgFCbvgMBHN6oV.jpg", "actors": [], "comments": [], "recommandations_id": []}

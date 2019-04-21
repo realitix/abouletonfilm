@@ -1,0 +1,1 @@
+{"tmdb_id": 544605, "title": "Di Dasar Segalanya", "original_title": "Di Dasar Segalanya", "slug_title": "di-dasar-segalanya", "date": "2010-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Primawan Luqman Hakim (Victim)", "Kartika Jahja ()", "Teuku Rifnu Wikana ()"], "comments": [], "recommandations_id": []}

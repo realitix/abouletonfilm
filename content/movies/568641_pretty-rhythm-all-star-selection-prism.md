@@ -1,0 +1,1 @@
+{"tmdb_id": 568641, "title": "Pretty Rhythm All-Star Selection: Prism", "original_title": "Pretty Rhythm All-Star Selection: Prism", "slug_title": "pretty-rhythm-all-star-selection-prism", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

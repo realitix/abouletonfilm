@@ -1,0 +1,1 @@
+{"tmdb_id": 362900, "title": "Strange Factories", "original_title": "Strange Factories", "slug_title": "strange-factories", "date": "2013-10-26", "genre": "Horreur / Drame / Thriller", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVDvejI4MFaDDdZbCEAPTsDEQ2l.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580339, "title": "Was It Only A Paper Moon?", "original_title": "Was It Only A Paper Moon?", "slug_title": "was-it-only-a-paper-moon", "date": "", "genre": "Documentaire / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

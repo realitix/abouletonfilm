@@ -1,0 +1,1 @@
+{"tmdb_id": 347353, "title": "Hunters", "original_title": "Cazadores", "slug_title": "hunters", "date": "1997-07-03", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

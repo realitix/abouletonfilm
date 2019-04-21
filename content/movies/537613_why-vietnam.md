@@ -1,0 +1,1 @@
+{"tmdb_id": 537613, "title": "Why Vietnam?", "original_title": "Why Vietnam?", "slug_title": "why-vietnam", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282055, "title": "Taxi Driver", "original_title": "Taxi Driver", "slug_title": "taxi-driver", "date": "2011-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eVlAf40ocqPi0QL9gFfDnccc1n4.jpg", "actors": [], "comments": [], "recommandations_id": []}

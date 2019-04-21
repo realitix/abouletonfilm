@@ -1,0 +1,1 @@
+{"tmdb_id": 52082, "title": "The Big Sellout", "original_title": "Der gro\u00dfe Ausverkauf", "slug_title": "the-big-sellout", "date": "2007-05-17", "genre": "Documentaire", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2gNJkhNlMJEmDn0X116xLIMRmIc.jpg", "actors": [], "comments": [], "recommandations_id": []}

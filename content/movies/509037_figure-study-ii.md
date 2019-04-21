@@ -1,0 +1,1 @@
+{"tmdb_id": 509037, "title": "Figure Study II", "original_title": "Figure Study II", "slug_title": "figure-study-ii", "date": "2018-03-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7PZjt9gFD5lkltLUqXCIZiPMqhP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 521308, "title": "Real Zombi Revolver", "original_title": "Real Zombi Revolver", "slug_title": "real-zombi-revolver", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561337, "title": "The Serpent Wisdom", "original_title": "Sarpatatwam", "slug_title": "the-serpent-wisdom", "date": "2018-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

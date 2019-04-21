@@ -1,0 +1,1 @@
+{"tmdb_id": 397578, "title": "Versailles", "original_title": "Versailles", "slug_title": "versailles", "date": "2013-07-12", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJMFuCejHeZRhsQcupvf536FsUj.jpg", "actors": ["Jo\u00e3o Arrais ()", "Isabel Ruth ()"], "comments": [], "recommandations_id": []}

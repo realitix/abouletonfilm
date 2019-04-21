@@ -1,0 +1,1 @@
+{"tmdb_id": 325036, "title": "Nueva Argir\u00f3polis", "original_title": "Nueva Argir\u00f3polis", "slug_title": "nueva-argiropolis", "date": "2010-08-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/licAOgTEdDRG3S8lEtLLIJFDDtm.jpg", "actors": [], "comments": [], "recommandations_id": []}

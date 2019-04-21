@@ -1,0 +1,1 @@
+{"tmdb_id": 176968, "title": "Pr\u00f3xima Paragem", "original_title": "Pr\u00f3xima Paragem", "slug_title": "proxima-paragem", "date": "2009-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0p65FIPMM57yNZnxWXeU76BZ5X.jpg", "actors": [], "comments": [], "recommandations_id": []}

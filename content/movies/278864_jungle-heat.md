@@ -1,0 +1,1 @@
+{"tmdb_id": 278864, "title": "Jungle Heat", "original_title": "Jungle Heat", "slug_title": "jungle-heat", "date": "1985-05-25", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zcdO04JdxCXYz05qWsfERodtul.jpg", "actors": [], "comments": [], "recommandations_id": []}

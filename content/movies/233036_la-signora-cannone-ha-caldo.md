@@ -1,0 +1,1 @@
+{"tmdb_id": 233036, "title": "La signora Cannone ha caldo", "original_title": "La signora Cannone ha caldo", "slug_title": "la-signora-cannone-ha-caldo", "date": "1910-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

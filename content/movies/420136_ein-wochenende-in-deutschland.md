@@ -1,0 +1,1 @@
+{"tmdb_id": 420136, "title": "Ein Wochenende in Deutschland", "original_title": "Ein Wochenende in Deutschland", "slug_title": "ein-wochenende-in-deutschland", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

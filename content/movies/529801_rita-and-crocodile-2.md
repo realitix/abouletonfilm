@@ -1,0 +1,1 @@
+{"tmdb_id": 529801, "title": "Rita and Crocodile 2", "original_title": "Rita og Krokodille 2", "slug_title": "rita-and-crocodile-2", "date": "2018-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNmg6DRCV3P0FRNxPZ620g5km3o.jpg", "actors": ["Lux Parser ((voice-over))"], "comments": [], "recommandations_id": []}

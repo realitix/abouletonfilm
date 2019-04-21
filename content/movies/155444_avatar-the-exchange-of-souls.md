@@ -1,0 +1,1 @@
+{"tmdb_id": 155444, "title": "Avatar: The Exchange of Souls", "original_title": "Awatar czyli zamiana dusz", "slug_title": "avatar-the-exchange-of-souls", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ouzDYbXBVDDBsZ1iNWRRaTGF3Ay.jpg", "actors": [], "comments": [], "recommandations_id": []}

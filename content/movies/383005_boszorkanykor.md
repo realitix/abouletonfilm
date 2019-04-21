@@ -1,0 +1,1 @@
+{"tmdb_id": 383005, "title": "Boszork\u00e1nyk\u00f6r", "original_title": "Boszork\u00e1nyk\u00f6r", "slug_title": "boszorkanykor", "date": "2009-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lc8Iran5mrclOOtjiL9aTzfMatv.jpg", "actors": ["Zsolt Trill ()"], "comments": [], "recommandations_id": []}

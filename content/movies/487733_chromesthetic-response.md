@@ -1,0 +1,1 @@
+{"tmdb_id": 487733, "title": "Chromesthetic Response", "original_title": "Chromesthetic Response", "slug_title": "chromesthetic-response", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

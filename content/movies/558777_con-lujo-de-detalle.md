@@ -1,0 +1,1 @@
+{"tmdb_id": 558777, "title": "Con lujo de detalle", "original_title": "Con lujo de detalle", "slug_title": "con-lujo-de-detalle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

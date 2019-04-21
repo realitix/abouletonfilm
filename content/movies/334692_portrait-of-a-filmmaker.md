@@ -1,0 +1,1 @@
+{"tmdb_id": 334692, "title": "Portrait of a Filmmaker", "original_title": "Portrait of a Filmmaker", "slug_title": "portrait-of-a-filmmaker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

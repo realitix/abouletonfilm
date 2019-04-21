@@ -1,0 +1,1 @@
+{"tmdb_id": 374156, "title": "Alice's Picnic", "original_title": "Alice's Picnic", "slug_title": "alice-s-picnic", "date": "1927-05-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lois Hardwick (Alice)"], "comments": [], "recommandations_id": []}

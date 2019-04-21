@@ -1,0 +1,1 @@
+{"tmdb_id": 481498, "title": "The Man from the West", "original_title": "The Man from the West", "slug_title": "the-man-from-the-west", "date": "1996-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsRWYEVw0aMeFNlFzfItxSQsgNP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 145682, "title": "Morena Clara", "original_title": "Morena Clara", "slug_title": "morena-clara", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGkVXh1LUXiobcwnuIQJX9HkLpP.jpg", "actors": [], "comments": [], "recommandations_id": []}

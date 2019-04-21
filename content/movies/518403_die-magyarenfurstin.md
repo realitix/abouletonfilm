@@ -1,0 +1,1 @@
+{"tmdb_id": 518403, "title": "Die Magyarenf\u00fcrstin", "original_title": "Die Magyarenf\u00fcrstin", "slug_title": "die-magyarenfurstin", "date": "1923-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Pohl ()", "Adele Sandrock ()", "Margarete Schlegel ()", "Eugen Rex ()"], "comments": [], "recommandations_id": []}

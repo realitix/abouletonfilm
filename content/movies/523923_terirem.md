@@ -1,0 +1,1 @@
+{"tmdb_id": 523923, "title": "Terirem", "original_title": "\u03a4\u03b5\u03c1\u03b9\u03c1\u03ad\u03bc", "slug_title": "terirem", "date": "1987-10-04", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

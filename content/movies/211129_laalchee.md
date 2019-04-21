@@ -1,0 +1,1 @@
+{"tmdb_id": 211129, "title": "Laalchee", "original_title": "\u0932\u093e\u0932\u091a\u0940", "slug_title": "laalchee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

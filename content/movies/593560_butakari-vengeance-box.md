@@ -1,0 +1,1 @@
+{"tmdb_id": 593560, "title": "Butakari: Vengeance Box", "original_title": "Butakari: Vengeance Box", "slug_title": "butakari-vengeance-box", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

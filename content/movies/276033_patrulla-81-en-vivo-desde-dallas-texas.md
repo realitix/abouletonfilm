@@ -1,0 +1,1 @@
+{"tmdb_id": 276033, "title": "Patrulla 81: En Vivo Desde Dallas, Texas", "original_title": "Patrulla 81: En Vivo Desde Dallas, Texas", "slug_title": "patrulla-81-en-vivo-desde-dallas-texas", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

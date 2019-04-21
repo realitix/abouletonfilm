@@ -1,0 +1,1 @@
+{"tmdb_id": 487633, "title": "Kings of Baxter", "original_title": "Kings of Baxter", "slug_title": "kings-of-baxter", "date": "2017-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bJKDtI7ld422FF9F1Rr5RaZk2B.jpg", "actors": [], "comments": [], "recommandations_id": []}

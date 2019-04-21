@@ -1,0 +1,1 @@
+{"tmdb_id": 474271, "title": "The Alaska Effect", "original_title": "The Alaska Effect", "slug_title": "the-alaska-effect", "date": "2017-08-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLVfjbTocckULPRVHreEHKDVnqs.jpg", "actors": [], "comments": [], "recommandations_id": []}

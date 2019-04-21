@@ -1,0 +1,1 @@
+{"tmdb_id": 553991, "title": "Selfportrait", "original_title": "Selfportrait", "slug_title": "selfportrait", "date": "1971-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jADiNEXA6dwlJkL4oSXlEkS67Rq.jpg", "actors": [], "comments": [], "recommandations_id": []}

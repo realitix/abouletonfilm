@@ -1,0 +1,1 @@
+{"tmdb_id": 221803, "title": "Cinerama Adventure", "original_title": "Cinerama Adventure", "slug_title": "cinerama-adventure", "date": "2002-08-30", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBv5ZMfkkkJ5s6ZN3zYuOKMRBAW.jpg", "actors": [], "comments": [], "recommandations_id": []}

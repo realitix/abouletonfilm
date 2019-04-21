@@ -1,0 +1,1 @@
+{"tmdb_id": 147983, "title": "Passing Days", "original_title": "Idu dani", "slug_title": "passing-days", "date": "1969-12-06", "genre": "Animation", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a21rwKrHXSLssQq9ygnX2NcEFVj.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 262854, 152973]}

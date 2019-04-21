@@ -1,0 +1,1 @@
+{"tmdb_id": 230854, "title": "Exhibits or Stories from the Castle", "original_title": "Expon\u00e1ty Alebo Pr\u00edbeny Z Ka\u0161tie\u013ea", "slug_title": "exhibits-or-stories-from-the-castle", "date": "2013-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

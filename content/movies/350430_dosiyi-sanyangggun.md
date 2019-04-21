@@ -1,0 +1,1 @@
+{"tmdb_id": 350430, "title": "\ub3c4\uc2dc\uc758 \uc0ac\ub0e5\uafbc", "original_title": "\ub3c4\uc2dc\uc758 \uc0ac\ub0e5\uafbc", "slug_title": "dosiyi-sanyangggun", "date": "1979-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

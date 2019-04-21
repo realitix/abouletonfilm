@@ -1,0 +1,1 @@
+{"tmdb_id": 593776, "title": "RWBY: Volume 2", "original_title": "RWBY: Volume 2", "slug_title": "rwby-volume-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

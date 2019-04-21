@@ -1,0 +1,1 @@
+{"tmdb_id": 298440, "title": "How to Make Money Religiously", "original_title": "How to Make Money Religiously", "slug_title": "how-to-make-money-religiously", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44WxFWIlw8kohJMiS0mWzI9kEZf.jpg", "actors": [], "comments": [], "recommandations_id": []}

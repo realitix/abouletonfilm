@@ -1,0 +1,1 @@
+{"tmdb_id": 591390, "title": "Island of Great Hopes", "original_title": "Wyspa wielkiej nadziei", "slug_title": "island-of-great-hopes", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

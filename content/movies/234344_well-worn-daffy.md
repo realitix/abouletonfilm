@@ -1,0 +1,1 @@
+{"tmdb_id": 234344, "title": "Well Worn Daffy", "original_title": "Well Worn Daffy", "slug_title": "well-worn-daffy", "date": "1965-05-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOPqb0rXanWzZKAwtgRopzASZQy.jpg", "actors": [], "comments": [], "recommandations_id": []}

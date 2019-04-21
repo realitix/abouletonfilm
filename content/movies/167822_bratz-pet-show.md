@@ -1,0 +1,1 @@
+{"tmdb_id": 167822, "title": "Bratz Pet Show", "original_title": "Bratz Pet Show", "slug_title": "bratz-pet-show", "date": "2008-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNKbDxYVI2m3nTrRLIvJxNrEmNm.jpg", "actors": [], "comments": [], "recommandations_id": []}

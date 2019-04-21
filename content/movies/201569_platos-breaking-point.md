@@ -1,0 +1,1 @@
+{"tmdb_id": 201569, "title": "platos breaking point", "original_title": "platos breaking point", "slug_title": "platos-breaking-point", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eXYAYYng57rnBN8YLxoo3FTcNPe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 473913, "title": "Zumba 3-Day Shakedown", "original_title": "Zumba 3-Day Shakedown", "slug_title": "zumba-3-day-shakedown", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUe0huTKM2UT9AyD39I1s4PaS05.jpg", "actors": [], "comments": [], "recommandations_id": []}

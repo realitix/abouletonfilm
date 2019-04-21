@@ -1,0 +1,1 @@
+{"tmdb_id": 5818, "title": "De Stedeling", "original_title": "De Stedeling", "slug_title": "de-stedeling", "date": "1984-01-01", "genre": "Myst\u00e8re", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29EhBPWyaLcE301PjWE156ZAIzw.jpg", "actors": ["Alex van Warmerdam (De Stedeling)"], "comments": [], "recommandations_id": []}

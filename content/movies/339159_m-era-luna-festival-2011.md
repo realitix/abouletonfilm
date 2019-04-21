@@ -1,0 +1,1 @@
+{"tmdb_id": 339159, "title": "M'era Luna Festival 2011", "original_title": "M'era Luna Festival 2011", "slug_title": "m-era-luna-festival-2011", "date": "2011-08-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aC8o0XUq7bQ2HTEN7tLkNw6zlsE.jpg", "actors": [], "comments": [], "recommandations_id": []}

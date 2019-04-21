@@ -1,0 +1,1 @@
+{"tmdb_id": 476780, "title": "What Are You Up To, Barbet Schroeder?", "original_title": "What Are You Up To, Barbet Schroeder?", "slug_title": "what-are-you-up-to-barbet-schroeder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

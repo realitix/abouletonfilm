@@ -1,0 +1,1 @@
+{"tmdb_id": 540832, "title": "Rakijada", "original_title": "Rakijada", "slug_title": "rakijada", "date": "2016-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tL0Yhil0hRhfNsw7bJjxLdutbBk.jpg", "actors": [], "comments": [], "recommandations_id": []}

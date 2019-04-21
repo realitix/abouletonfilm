@@ -1,0 +1,1 @@
+{"tmdb_id": 470964, "title": "The Loyal 47 Ronin", "original_title": "Ch\u00fbshingura", "slug_title": "the-loyal-47-ronin", "date": "1911-01-01", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

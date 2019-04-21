@@ -1,0 +1,1 @@
+{"tmdb_id": 232643, "title": "Badende damer paa Badeanstalt", "original_title": "Badende damer paa Badeanstalt", "slug_title": "badende-damer-paa-badeanstalt", "date": "1901-11-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 572701, "title": "My Husband Has Booked Our Funeral", "original_title": "My Husband Has Booked Our Funeral", "slug_title": "my-husband-has-booked-our-funeral", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

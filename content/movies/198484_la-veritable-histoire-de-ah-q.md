@@ -1,0 +1,1 @@
+{"tmdb_id": 198484, "title": "La v\u00e9ritable histoire de Ah Q", "original_title": "Ah Q zheng zhuan", "slug_title": "la-veritable-histoire-de-ah-q", "date": "1982-06-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMsvkxGfEJvy14mMOyPHXoJ2kDd.jpg", "actors": [], "comments": [], "recommandations_id": []}

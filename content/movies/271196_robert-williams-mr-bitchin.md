@@ -1,0 +1,1 @@
+{"tmdb_id": 271196, "title": "Robert Williams Mr. Bitchin'", "original_title": "Robert Williams Mr. Bitchin'", "slug_title": "robert-williams-mr-bitchin", "date": "2013-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBEa8DbsuJPfyfOcpfetMEgJ31Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

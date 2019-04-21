@@ -1,0 +1,1 @@
+{"tmdb_id": 413871, "title": "All Shook Up", "original_title": "All Shook Up", "slug_title": "all-shook-up", "date": "2003-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maeve Dermody (Billy)", "Ilan Kidron (Beau)"], "comments": [], "recommandations_id": []}

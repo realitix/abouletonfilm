@@ -1,0 +1,1 @@
+{"tmdb_id": 282573, "title": "Arunodaya", "original_title": "Arunodaya", "slug_title": "arunodaya", "date": "1999-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Vijayalakshmi ()", "Shilpa ()"], "comments": [], "recommandations_id": []}

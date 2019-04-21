@@ -1,0 +1,1 @@
+{"tmdb_id": 530424, "title": "Sweep it Up, Swig it Down", "original_title": "Kehrein, kehraus", "slug_title": "sweep-it-up-swig-it-down", "date": "1997-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYSaMfvmFVYMHyX0nALlVn9PW4z.jpg", "actors": [], "comments": [], "recommandations_id": []}

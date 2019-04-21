@@ -1,0 +1,1 @@
+{"tmdb_id": 358134, "title": "Children of the City", "original_title": "Children of the City", "slug_title": "children-of-the-city", "date": "1944-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unamVX3vEezw5lifYybdp3cZv0B.jpg", "actors": [], "comments": [], "recommandations_id": []}

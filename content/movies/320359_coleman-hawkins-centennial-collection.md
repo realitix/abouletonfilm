@@ -1,0 +1,1 @@
+{"tmdb_id": 320359, "title": "Coleman Hawkins: Centennial Collection", "original_title": "Coleman Hawkins: Centennial Collection", "slug_title": "coleman-hawkins-centennial-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

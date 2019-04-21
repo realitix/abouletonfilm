@@ -1,0 +1,1 @@
+{"tmdb_id": 240760, "title": "The Ghosts of San Berillo", "original_title": "I fantasmi di San Berillo", "slug_title": "the-ghosts-of-san-berillo", "date": "2013-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Me39bAdB5rCdWhmFLei1x6SGz8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 589338, "title": "The Gambler", "original_title": "The Gambler", "slug_title": "the-gambler", "date": "2000-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Rendall (Himself)"], "comments": [], "recommandations_id": []}

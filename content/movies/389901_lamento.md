@@ -1,0 +1,1 @@
+{"tmdb_id": 389901, "title": "Lamento", "original_title": "Lamento", "slug_title": "lamento", "date": "1988-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monique Chaumette ()", "Dominique Faysse ()"], "comments": [], "recommandations_id": []}

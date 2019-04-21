@@ -1,0 +1,1 @@
+{"tmdb_id": 125502, "title": "End of the Century", "original_title": "\uc138\uae30\ub9d0", "slug_title": "end-of-the-century", "date": "1999-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFaMTLM5EekPzFBMXGCa866w0fS.jpg", "actors": ["Cha Seung-won ()", "Kim Kap-soo ()"], "comments": [], "recommandations_id": []}

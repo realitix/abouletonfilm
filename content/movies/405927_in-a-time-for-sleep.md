@@ -1,0 +1,1 @@
+{"tmdb_id": 405927, "title": "In a Time for Sleep", "original_title": "Bir Uyku Vakti", "slug_title": "in-a-time-for-sleep", "date": "2016-05-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Goknur Danishik (Layla)", "Mehmet Fatih G\u00fcven (Arda)"], "comments": [], "recommandations_id": []}

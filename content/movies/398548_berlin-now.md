@@ -1,0 +1,1 @@
+{"tmdb_id": 398548, "title": "Berlin Now", "original_title": "Berlin Now", "slug_title": "berlin-now", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9q5SMqLl17yHm2verOBfRfl0mB.jpg", "actors": ["Blixa Bargeld (Himself)", "Alexander Hacke (Himself)"], "comments": [], "recommandations_id": []}

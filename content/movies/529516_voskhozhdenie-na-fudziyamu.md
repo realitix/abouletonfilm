@@ -1,0 +1,1 @@
+{"tmdb_id": 529516, "title": "Voskhozhdenie na Fudziyamu", "original_title": "Voskhozhdenie na Fudziyamu", "slug_title": "voskhozhdenie-na-fudziyamu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

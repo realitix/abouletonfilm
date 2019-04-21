@@ -1,0 +1,1 @@
+{"tmdb_id": 226461, "title": "Blind Intersections", "original_title": "\u0642\u0635\u0629 \u062b\u0648\u0627\u0646\u064a", "slug_title": "blind-intersections", "date": "2013-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pss0rM69iVHDv7TUhwPl09F5Fxw.jpg", "actors": [], "comments": [], "recommandations_id": []}

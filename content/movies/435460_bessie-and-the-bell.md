@@ -1,0 +1,1 @@
+{"tmdb_id": 435460, "title": "Bessie and the Bell", "original_title": "Bessie and the Bell", "slug_title": "bessie-and-the-bell", "date": "2001-01-01", "genre": "T\u00e9l\u00e9film / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pam Ferris (Bessie)"], "comments": [], "recommandations_id": []}

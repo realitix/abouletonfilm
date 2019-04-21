@@ -1,0 +1,1 @@
+{"tmdb_id": 165450, "title": "Jungle Jazz", "original_title": "Jungle Jazz", "slug_title": "jungle-jazz", "date": "1930-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

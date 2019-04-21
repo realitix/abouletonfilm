@@ -1,0 +1,1 @@
+{"tmdb_id": 572057, "title": "Kuumat kundit", "original_title": "Kuumat kundit", "slug_title": "kuumat-kundit", "date": "1976-11-19", "genre": "Documentaire / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4VYXjFlCRwhFuikZR9QKIDcd3Di.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 24345, "title": "Pride 12: Cold Fury", "original_title": "Pride 12: Cold Fury", "slug_title": "pride-12-cold-fury", "date": "2000-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jbWq30C6ZqzkHqssZ8bd80vDZ4Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

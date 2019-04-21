@@ -1,0 +1,1 @@
+{"tmdb_id": 273581, "title": "Nosotros, Lucifer", "original_title": "Nosotros, Lucifer", "slug_title": "nosotros-lucifer", "date": "2014-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

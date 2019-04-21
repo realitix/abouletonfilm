@@ -1,0 +1,1 @@
+{"tmdb_id": 422315, "title": "Jonah Hex: Motion Comics", "original_title": "Jonah Hex: Motion Comics", "slug_title": "jonah-hex-motion-comics", "date": "2010-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4As2iVQJFnQmdaS6bEzIPlzAwfI.jpg", "actors": [], "comments": [], "recommandations_id": []}

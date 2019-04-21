@@ -1,0 +1,1 @@
+{"tmdb_id": 544706, "title": "Escamas em C\u00e1rcere", "original_title": "Escamas em C\u00e1rcere", "slug_title": "escamas-em-carcere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

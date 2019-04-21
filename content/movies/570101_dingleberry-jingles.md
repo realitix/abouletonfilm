@@ -1,0 +1,1 @@
+{"tmdb_id": 570101, "title": "Dingleberry Jingles", "original_title": "Dingleberry Jingles", "slug_title": "dingleberry-jingles", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

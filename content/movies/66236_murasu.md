@@ -1,0 +1,1 @@
+{"tmdb_id": 66236, "title": "Murasu", "original_title": "\u0bae\u0bc1\u0bb0\u0b9a\u0bc1", "slug_title": "murasu", "date": "2012-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bharath Niwas ()"], "comments": [], "recommandations_id": []}

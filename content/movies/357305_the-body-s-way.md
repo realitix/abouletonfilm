@@ -1,0 +1,1 @@
+{"tmdb_id": 357305, "title": "The Body's Way", "original_title": "Yukcheui kil", "slug_title": "the-body-s-way", "date": "1968-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

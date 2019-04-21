@@ -1,0 +1,1 @@
+{"tmdb_id": 575597, "title": "Happy family", "original_title": "L\u00f5bus perekond", "slug_title": "happy-family", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kZ1RrEbm6yMTcYi6jugfC51HLb.jpg", "actors": ["Saara Kadak (Ingrid)", "Armen Arushanyan (Artur)"], "comments": [], "recommandations_id": []}

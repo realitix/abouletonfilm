@@ -1,0 +1,1 @@
+{"tmdb_id": 357700, "title": "40/81 Breakfast im Grauen", "original_title": "40/81 Breakfast im Grauen", "slug_title": "40-81-breakfast-im-grauen", "date": "1981-09-03", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehDipVepryun8xUKe4YtdYRSFeS.jpg", "actors": [], "comments": [], "recommandations_id": []}

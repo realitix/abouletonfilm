@@ -1,0 +1,1 @@
+{"tmdb_id": 187713, "title": "Peace Love & Beats", "original_title": "Peace Love & Beats", "slug_title": "peace-love-beats", "date": "2004-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Annalee Stone (Herself, Reporter)", "Terryn Westbrook (Herself)"], "comments": [], "recommandations_id": []}

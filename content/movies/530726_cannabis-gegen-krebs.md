@@ -1,0 +1,1 @@
+{"tmdb_id": 530726, "title": "Cannabis gegen Krebs", "original_title": "Cannabis gegen Krebs", "slug_title": "cannabis-gegen-krebs", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSYhdLmWKgBVqvHoUWZL93SoCX1.jpg", "actors": [], "comments": [], "recommandations_id": []}

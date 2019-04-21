@@ -1,0 +1,1 @@
+{"tmdb_id": 564826, "title": "Raging Fists", "original_title": "La Rage au poing", "slug_title": "raging-fists", "date": "1975-02-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hM3PwTO3kVk0FAbBlGzexZAOWDF.jpg", "actors": ["Pierre Belfond ()"], "comments": [], "recommandations_id": []}

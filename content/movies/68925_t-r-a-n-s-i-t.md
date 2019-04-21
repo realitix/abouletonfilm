@@ -1,0 +1,1 @@
+{"tmdb_id": 68925, "title": "T.R.A.N.S.I.T.", "original_title": "T.R.A.N.S.I.T.", "slug_title": "t-r-a-n-s-i-t", "date": "1998-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUi3Q6cP3A9jADKfrZUD2apcNd5.jpg", "actors": [], "comments": [], "recommandations_id": []}

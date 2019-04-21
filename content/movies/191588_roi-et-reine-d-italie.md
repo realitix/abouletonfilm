@@ -1,0 +1,1 @@
+{"tmdb_id": 191588, "title": "Roi et Reine d'Italie", "original_title": "Roi et Reine d'Italie", "slug_title": "roi-et-reine-d-italie", "date": "1896-12-20", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Umberto I (Himself)", "Margherita of Savoy (Herself)"], "comments": [], "recommandations_id": []}

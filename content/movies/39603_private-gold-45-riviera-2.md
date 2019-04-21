@@ -1,0 +1,1 @@
+{"tmdb_id": 39603, "title": "Private Gold 45: Riviera 2", "original_title": "Private Gold 45: Riviera 2", "slug_title": "private-gold-45-riviera-2", "date": "2000-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dsYQsEGvVViVzTGXLD04We5c1Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

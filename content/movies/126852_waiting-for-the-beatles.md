@@ -1,0 +1,1 @@
+{"tmdb_id": 126852, "title": "Waiting for the Beatles", "original_title": "Esperando a los Bitles", "slug_title": "waiting-for-the-beatles", "date": "2012-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXyLe0x7r6hilRLUwTT9wSNFHbr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579107, "title": "Metal Messiah", "original_title": "Metal Messiah", "slug_title": "metal-messiah", "date": "2010-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eeSzxxS0ukmf7GsAVp4OUdPf7Vc.jpg", "actors": [], "comments": [], "recommandations_id": []}

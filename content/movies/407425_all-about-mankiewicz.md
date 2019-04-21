@@ -1,0 +1,1 @@
+{"tmdb_id": 407425, "title": "All About Mankiewicz", "original_title": "All About Mankiewicz", "slug_title": "all-about-mankiewicz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 414505, "title": "Drafted in the Depot", "original_title": "Drafted in the Depot", "slug_title": "drafted-in-the-depot", "date": "1940-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Kennedy (Edgar Kennedy)", "Vivien Oakland (Vivien Kennedy)"], "comments": [], "recommandations_id": []}

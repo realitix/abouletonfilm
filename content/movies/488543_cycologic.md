@@ -1,0 +1,1 @@
+{"tmdb_id": 488543, "title": "Cycologic", "original_title": "Cycologic", "slug_title": "cycologic", "date": "2016-08-17", "genre": "Aventure / Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amanda Ngabirano (Herself)", "Ayebale Marion (Herself)"], "comments": [], "recommandations_id": []}

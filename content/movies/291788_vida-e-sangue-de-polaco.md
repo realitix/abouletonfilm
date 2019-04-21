@@ -1,0 +1,1 @@
+{"tmdb_id": 291788, "title": "Vida e Sangue de Polaco", "original_title": "Vida e Sangue de Polaco", "slug_title": "vida-e-sangue-de-polaco", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffUgmu2M6cAxFWyOZDV9XHcUXQ6.jpg", "actors": ["Paulo Leminski ()"], "comments": [], "recommandations_id": []}

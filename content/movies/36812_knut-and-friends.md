@@ -1,0 +1,1 @@
+{"tmdb_id": 36812, "title": "Knut And Friends", "original_title": "Knut und seine Freunde", "slug_title": "knut-and-friends", "date": "2008-03-06", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93ca1UHu26jLVZkARdXFLQ8gOPW.jpg", "actors": [], "comments": [], "recommandations_id": []}

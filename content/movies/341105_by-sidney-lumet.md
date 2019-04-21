@@ -1,0 +1,1 @@
+{"tmdb_id": 341105, "title": "By Sidney Lumet", "original_title": "By Sidney Lumet", "slug_title": "by-sidney-lumet", "date": "2015-07-13", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uAAcUpPRB4fKgwlClj7MdTNTwx.jpg", "actors": ["Sidney Lumet (Himself)"], "comments": [], "recommandations_id": []}

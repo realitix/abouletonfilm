@@ -1,0 +1,1 @@
+{"tmdb_id": 318238, "title": "Famous Authors: Edgar Allen Poe", "original_title": "Famous Authors: Edgar Allen Poe", "slug_title": "famous-authors-edgar-allen-poe", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

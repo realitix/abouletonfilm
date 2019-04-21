@@ -1,0 +1,1 @@
+{"tmdb_id": 332596, "title": "Chosen Family", "original_title": "Chosen Family", "slug_title": "chosen-family", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

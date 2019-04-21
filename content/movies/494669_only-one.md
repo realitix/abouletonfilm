@@ -1,0 +1,1 @@
+{"tmdb_id": 494669, "title": "Only One", "original_title": "Only One", "slug_title": "only-one", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geraldine Hakewill (Alex)", "Eve White (Lex)", "Sandy Gore (Consultant)"], "comments": [], "recommandations_id": []}

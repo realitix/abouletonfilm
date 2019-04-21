@@ -1,0 +1,1 @@
+{"tmdb_id": 488131, "title": "Wig Shop", "original_title": "Wig Shop", "slug_title": "wig-shop", "date": "", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emily Mortimer (Chaya)", "Adina Porter (Tippy)", "Rachel Keller (Shoshana)", "Yelena Shmulenson (Miriam)"], "comments": [], "recommandations_id": []}

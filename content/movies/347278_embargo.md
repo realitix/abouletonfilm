@@ -1,0 +1,1 @@
+{"tmdb_id": 347278, "title": "EMBARGO", "original_title": "EMBARGO", "slug_title": "embargo", "date": "2014-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1NbSSy6QaetLZe6bpWpUGH6bV2.jpg", "actors": [], "comments": [], "recommandations_id": []}

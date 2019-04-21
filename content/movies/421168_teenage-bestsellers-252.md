@@ -1,0 +1,1 @@
+{"tmdb_id": 421168, "title": "Teenage Bestsellers  252", "original_title": "Teenage Bestsellers  252", "slug_title": "teenage-bestsellers-252", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2888USMYtLtGhVmRh3W2RT82ZD.jpg", "actors": ["Tiny Tove ()"], "comments": [], "recommandations_id": []}

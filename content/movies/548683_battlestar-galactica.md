@@ -1,0 +1,1 @@
+{"tmdb_id": 548683, "title": "Battlestar Galactica", "original_title": "Battlestar Galactica", "slug_title": "battlestar-galactica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

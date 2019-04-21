@@ -1,0 +1,1 @@
+{"tmdb_id": 107003, "title": "Car Cemetery", "original_title": "Le cimeti\u00e8re des voitures", "slug_title": "car-cemetery", "date": "1983-04-30", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoEOGDnXYbIZMallaSYKhSOW3Ak.jpg", "actors": ["Juliet Berto ()"], "comments": [], "recommandations_id": []}

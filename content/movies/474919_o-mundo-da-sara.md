@@ -1,0 +1,1 @@
+{"tmdb_id": 474919, "title": "O mundo da Sara", "original_title": "O mundo da Sara", "slug_title": "o-mundo-da-sara", "date": "2016-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jjinSWVQ6myAjbp0mTnhOK6deil.jpg", "actors": [], "comments": [], "recommandations_id": []}

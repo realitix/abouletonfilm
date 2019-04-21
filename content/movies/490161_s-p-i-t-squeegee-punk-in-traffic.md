@@ -1,0 +1,1 @@
+{"tmdb_id": 490161, "title": "S.P.I.T.: Squeegee Punk In Traffic", "original_title": "S.P.I.T.: Squeegee Punk In Traffic", "slug_title": "s-p-i-t-squeegee-punk-in-traffic", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Denis (Himself)"], "comments": [], "recommandations_id": []}

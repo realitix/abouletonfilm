@@ -1,0 +1,1 @@
+{"tmdb_id": 177130, "title": "C\u00e2ndido", "original_title": "C\u00e2ndido", "slug_title": "candido", "date": "2007-03-14", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bw2b9Gm8z1ZxzC25iZgvj1nXXD5.jpg", "actors": [], "comments": [], "recommandations_id": []}

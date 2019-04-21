@@ -1,0 +1,1 @@
+{"tmdb_id": 298861, "title": "Meshuggah - The Ophidian Trek", "original_title": "Meshuggah - The Ophidian Trek", "slug_title": "meshuggah-the-ophidian-trek", "date": "2014-09-26", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsy2l5SfWxWn07km7uycr7aQZxq.jpg", "actors": [], "comments": [], "recommandations_id": []}

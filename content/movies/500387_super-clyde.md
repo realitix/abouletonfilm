@@ -1,0 +1,1 @@
+{"tmdb_id": 500387, "title": "Super Clyde", "original_title": "Super Clyde", "slug_title": "super-clyde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5yYFgEMdMmyqHSj1nnFTM1Z7DBg.jpg", "actors": [], "comments": [], "recommandations_id": []}

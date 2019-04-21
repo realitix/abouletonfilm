@@ -1,0 +1,1 @@
+{"tmdb_id": 477486, "title": "Faces of Israel 1966", "original_title": "Faces of Israel 1966", "slug_title": "faces-of-israel-1966", "date": "1967-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

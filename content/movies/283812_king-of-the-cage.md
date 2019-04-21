@@ -1,0 +1,1 @@
+{"tmdb_id": 283812, "title": "King of the Cage", "original_title": "King of the Cage", "slug_title": "king-of-the-cage", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/88dXFKljW2dkgiAHGuzZ0ogtwHf.jpg", "actors": [], "comments": [], "recommandations_id": []}

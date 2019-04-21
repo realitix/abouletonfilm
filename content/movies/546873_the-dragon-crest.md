@@ -1,0 +1,1 @@
+{"tmdb_id": 546873, "title": "The Dragon Crest", "original_title": "\u7d9a\u3000\u7537\u306e\u7d0b\u7ae0", "slug_title": "the-dragon-crest", "date": "1963-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hideki Takahashi ()", "Masako Izumi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 453931, "title": "194. US, Children of the Camp", "original_title": "194. Nahna, wlad al moukhayyam", "slug_title": "194-us-children-of-the-camp", "date": "2017-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

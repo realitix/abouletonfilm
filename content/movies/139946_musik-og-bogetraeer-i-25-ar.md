@@ -1,0 +1,1 @@
+{"tmdb_id": 139946, "title": "Musik og b\u00f8getr\u00e6er i 25 \u00e5r", "original_title": "Musik og b\u00f8getr\u00e6er i 25 \u00e5r", "slug_title": "musik-og-bogetraeer-i-25-ar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

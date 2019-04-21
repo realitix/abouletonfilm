@@ -1,0 +1,1 @@
+{"tmdb_id": 362566, "title": "Autumn in Rome", "original_title": "Autumn in Rome", "slug_title": "autumn-in-rome", "date": "1954-05-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patti Page ()"], "comments": [], "recommandations_id": []}

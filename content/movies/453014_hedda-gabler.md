@@ -1,0 +1,1 @@
+{"tmdb_id": 453014, "title": "Hedda Gabler", "original_title": "Hedda Gabler", "slug_title": "hedda-gabler", "date": "1920-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Italia Almirante-Manzini ()"], "comments": [], "recommandations_id": []}

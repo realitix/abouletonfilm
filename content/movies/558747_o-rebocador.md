@@ -1,0 +1,1 @@
+{"tmdb_id": 558747, "title": "O Rebocador", "original_title": "O Rebocador", "slug_title": "o-rebocador", "date": "", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adriano Luz (Rebocador)", "Jaime Freitas (Passageiro)"], "comments": [], "recommandations_id": []}

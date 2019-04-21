@@ -1,0 +1,1 @@
+{"tmdb_id": 572941, "title": "Asesino Nocturno", "original_title": "Asesino Nocturno", "slug_title": "asesino-nocturno", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

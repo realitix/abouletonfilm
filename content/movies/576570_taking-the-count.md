@@ -1,0 +1,1 @@
+{"tmdb_id": 576570, "title": "Taking the Count", "original_title": "Taking the Count", "slug_title": "taking-the-count", "date": "1929-05-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Turpin ()", "Leo White ()", "Addie McPhail ()"], "comments": [], "recommandations_id": []}

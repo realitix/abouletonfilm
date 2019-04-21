@@ -1,0 +1,1 @@
+{"tmdb_id": 112820, "title": "Sweet Angel Mine", "original_title": "Sweet Angel Mine", "slug_title": "sweet-angel-mine", "date": "1996-09-17", "genre": "Thriller", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sAnLHWG8ih2QT04PtVIm4Epbfui.jpg", "actors": [], "comments": [], "recommandations_id": []}

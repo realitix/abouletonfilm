@@ -1,0 +1,1 @@
+{"tmdb_id": 383546, "title": "The Roaming Monk", "original_title": "You fang he shang", "slug_title": "the-roaming-monk", "date": "1980-03-15", "genre": "Action", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rdahU7Gc2z7UDTuk9xqtjlgo1D0.jpg", "actors": [], "comments": [], "recommandations_id": []}

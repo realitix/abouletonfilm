@@ -1,0 +1,1 @@
+{"tmdb_id": 310268, "title": "European Concert from Istanbul", "original_title": "European Concert from Istanbul", "slug_title": "european-concert-from-istanbul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

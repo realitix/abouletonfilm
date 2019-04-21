@@ -1,0 +1,1 @@
+{"tmdb_id": 405642, "title": "Haunted Theater", "original_title": "Haunted Theater", "slug_title": "haunted-theater", "date": "2014-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erika Momotani ()"], "comments": [], "recommandations_id": []}

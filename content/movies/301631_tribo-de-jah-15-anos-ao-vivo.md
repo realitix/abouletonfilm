@@ -1,0 +1,1 @@
+{"tmdb_id": 301631, "title": "Tribo de Jah: 15 Anos Ao Vivo", "original_title": "Tribo de Jah: 15 Anos Ao Vivo", "slug_title": "tribo-de-jah-15-anos-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eAkL1cJk02gOSFrEgNhKTWwFzVF.jpg", "actors": [], "comments": [], "recommandations_id": []}

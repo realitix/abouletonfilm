@@ -1,0 +1,1 @@
+{"tmdb_id": 304172, "title": "Die Macht der Finsternis", "original_title": "Die Macht der Finsternis", "slug_title": "die-macht-der-finsternis", "date": "1924-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petr Sharov (Nikita)"], "comments": [], "recommandations_id": []}

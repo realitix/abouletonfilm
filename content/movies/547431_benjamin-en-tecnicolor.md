@@ -1,0 +1,1 @@
+{"tmdb_id": 547431, "title": "Benjam\u00edn en tecnicolor", "original_title": "Benjam\u00edn en tecnicolor", "slug_title": "benjamin-en-tecnicolor", "date": "2011-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZLyw5zQWInaSuORFxVUcU4YtdO.jpg", "actors": [], "comments": [], "recommandations_id": []}

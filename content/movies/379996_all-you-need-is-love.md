@@ -1,0 +1,1 @@
+{"tmdb_id": 379996, "title": "All You Need Is Love", "original_title": "All You Need Is Love", "slug_title": "all-you-need-is-love", "date": "1997-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

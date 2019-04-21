@@ -1,0 +1,1 @@
+{"tmdb_id": 344539, "title": "Rapstar", "original_title": "Rapstar", "slug_title": "rapstar", "date": "2015-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c1CgZGtR4d3V2bF9QRtedf6MjId.jpg", "actors": ["Adam Glenn (S.A.M.)", "Peter Angelinas (DDBF)"], "comments": [], "recommandations_id": []}

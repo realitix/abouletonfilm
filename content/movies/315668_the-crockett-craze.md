@@ -1,0 +1,1 @@
+{"tmdb_id": 315668, "title": "The Crockett Craze", "original_title": "The Crockett Craze", "slug_title": "the-crockett-craze", "date": "2001-12-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Maltin ()", "Paul F. Anderson ()"], "comments": [], "recommandations_id": []}

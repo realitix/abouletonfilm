@@ -1,0 +1,1 @@
+{"tmdb_id": 590765, "title": "Hand Drawn", "original_title": "Hand Drawn", "slug_title": "hand-drawn", "date": "2020-06-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gBBrsPzhQnFYoT6zkUbf606U5h.jpg", "actors": [], "comments": [], "recommandations_id": []}

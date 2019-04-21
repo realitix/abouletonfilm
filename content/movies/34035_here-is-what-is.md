@@ -1,0 +1,1 @@
+{"tmdb_id": 34035, "title": "Here Is What Is", "original_title": "Here Is What Is", "slug_title": "here-is-what-is", "date": "2007-09-09", "genre": "Documentaire / Musique", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/YHfPjReNbmazpGyrgTnLucLrbv.jpg", "actors": ["Daniel Lanois (self)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310719, "title": "Figure Skating Superstars: Katarina Witt and Friends", "original_title": "Figure Skating Superstars: Katarina Witt and Friends", "slug_title": "figure-skating-superstars-katarina-witt-and-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

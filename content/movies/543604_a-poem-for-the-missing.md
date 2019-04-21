@@ -1,0 +1,1 @@
+{"tmdb_id": 543604, "title": "A Poem For The Missing", "original_title": "Isang Tula Para sa Nawawala", "slug_title": "a-poem-for-the-missing", "date": "2018-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mmoo6yBwhQUkfxYSc9A41XRyK64.jpg", "actors": [], "comments": [], "recommandations_id": []}

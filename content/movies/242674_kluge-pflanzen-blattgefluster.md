@@ -1,0 +1,1 @@
+{"tmdb_id": 242674, "title": "Kluge Pflanzen - Blattgefl\u00fcster", "original_title": "Kluge Pflanzen - Blattgefl\u00fcster", "slug_title": "kluge-pflanzen-blattgefluster", "date": "2010-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

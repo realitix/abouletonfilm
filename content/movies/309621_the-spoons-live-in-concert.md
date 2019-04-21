@@ -1,0 +1,1 @@
+{"tmdb_id": 309621, "title": "The Spoons: Live in Concert", "original_title": "The Spoons: Live in Concert", "slug_title": "the-spoons-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

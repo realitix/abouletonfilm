@@ -1,0 +1,1 @@
+{"tmdb_id": 463475, "title": "Dear Director", "original_title": "Dear Director", "slug_title": "dear-director", "date": "2015-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kazzrie Jaxen (Kazzrie Jaxen)", "Thomas Bosket (Thomas Bosket)"], "comments": [], "recommandations_id": []}

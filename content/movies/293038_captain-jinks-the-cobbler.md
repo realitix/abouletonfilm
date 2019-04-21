@@ -1,0 +1,1 @@
+{"tmdb_id": 293038, "title": "Captain Jinks, the Cobbler", "original_title": "Captain Jinks, the Cobbler", "slug_title": "captain-jinks-the-cobbler", "date": "1916-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Daniels (Captain Jinks)", "Mildred Manning ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553262, "title": "Nirvana", "original_title": "Nirvana", "slug_title": "nirvana", "date": "2018-09-07", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAqv4Yk1tTJhESAVEeRI8xmJivR.jpg", "actors": [], "comments": [], "recommandations_id": []}

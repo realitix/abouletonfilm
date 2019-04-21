@@ -1,0 +1,1 @@
+{"tmdb_id": 60325, "title": "Bellator 11", "original_title": "Bellator 11", "slug_title": "bellator-11", "date": "2009-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4OppqmAEYti66Bhk8DP8msQaerw.jpg", "actors": [], "comments": [], "recommandations_id": []}

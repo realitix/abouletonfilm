@@ -1,0 +1,1 @@
+{"tmdb_id": 367628, "title": "The Dakota Conflict", "original_title": "The Dakota Conflict", "slug_title": "the-dakota-conflict", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

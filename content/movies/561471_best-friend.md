@@ -1,0 +1,1 @@
+{"tmdb_id": 561471, "title": "Best Friend", "original_title": "Best Friend", "slug_title": "best-friend", "date": "2018-11-08", "genre": "Animation / Science-Fiction", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIreNAiIFOfPdsV6SXtc5RL8W5T.jpg", "actors": [], "comments": [], "recommandations_id": []}

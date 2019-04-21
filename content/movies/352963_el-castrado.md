@@ -1,0 +1,1 @@
+{"tmdb_id": 352963, "title": "El castrado", "original_title": "El castrado", "slug_title": "el-castrado", "date": "1995-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agust\u00edn Bernal ()", "Manuel Ojeda ()"], "comments": [], "recommandations_id": []}

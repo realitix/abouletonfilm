@@ -1,0 +1,1 @@
+{"tmdb_id": 585515, "title": "The Paper Towel", "original_title": "The Paper Towel", "slug_title": "the-paper-towel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

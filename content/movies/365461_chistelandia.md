@@ -1,0 +1,1 @@
+{"tmdb_id": 365461, "title": "Chistelandia", "original_title": "Chistelandia", "slug_title": "chistelandia", "date": "1958-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Humberto Cahuich ()", "Pancho C\u00f3rdova ()", "Eulalio Gonz\u00e1lez ()"], "comments": [], "recommandations_id": []}

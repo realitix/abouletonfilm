@@ -1,0 +1,1 @@
+{"tmdb_id": 243385, "title": "Four Stones for Kanemitsu", "original_title": "Four Stones for Kanemitsu", "slug_title": "four-stones-for-kanemitsu", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

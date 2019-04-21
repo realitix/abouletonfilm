@@ -1,0 +1,1 @@
+{"tmdb_id": 40017, "title": "Kalyug", "original_title": "Kalyug", "slug_title": "kalyug", "date": "2005-12-09", "genre": "Thriller", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvs6wuMCdn0zTe3U7yeXboiHjin.jpg", "actors": [], "comments": [], "recommandations_id": [33146, 180853, 46371, 165979]}

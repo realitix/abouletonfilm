@@ -1,0 +1,1 @@
+{"tmdb_id": 274520, "title": "15 Minutes of Fame", "original_title": "15 Minutes of Fame", "slug_title": "15-minutes-of-fame", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

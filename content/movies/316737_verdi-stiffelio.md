@@ -1,0 +1,1 @@
+{"tmdb_id": 316737, "title": "Verdi - Stiffelio", "original_title": "Verdi - Stiffelio", "slug_title": "verdi-stiffelio", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

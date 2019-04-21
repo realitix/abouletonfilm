@@ -1,0 +1,1 @@
+{"tmdb_id": 72320, "title": "The Bicycle Race", "original_title": "The Bicycle Race", "slug_title": "the-bicycle-race", "date": "1920-04-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

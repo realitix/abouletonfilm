@@ -1,0 +1,1 @@
+{"tmdb_id": 392015, "title": "Namatjira the Painter", "original_title": "Namatjira the Painter", "slug_title": "namatjira-the-painter", "date": "1947-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ZqiFuyJJzae5M5m74z5g98SE7f.jpg", "actors": [], "comments": [], "recommandations_id": []}

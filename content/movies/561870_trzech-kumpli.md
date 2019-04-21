@@ -1,0 +1,1 @@
+{"tmdb_id": 561870, "title": "Trzech kumpli", "original_title": "Trzech kumpli", "slug_title": "trzech-kumpli", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 242552, "title": "Hamster Hell", "original_title": "Hamster Hell", "slug_title": "hamster-hell", "date": "2012-06-12", "genre": "Com\u00e9die / Animation / Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFZZaJmourS2mD0IIZnlisaNB8T.jpg", "actors": [], "comments": [], "recommandations_id": []}

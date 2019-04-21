@@ -1,0 +1,1 @@
+{"tmdb_id": 394616, "title": "Dreamers", "original_title": "Dr\u00f8mmere", "slug_title": "dreamers", "date": "2002-08-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7IRdjJjCczPM3Qki0qckWoA5FR.jpg", "actors": [], "comments": [], "recommandations_id": []}

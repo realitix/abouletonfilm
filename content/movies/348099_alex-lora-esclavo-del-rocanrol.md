@@ -1,0 +1,1 @@
+{"tmdb_id": 348099, "title": "Alex Lora, Esclavo del Rocanrol", "original_title": "Alex Lora, Esclavo del Rocanrol", "slug_title": "alex-lora-esclavo-del-rocanrol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Lora ()"], "comments": [], "recommandations_id": []}

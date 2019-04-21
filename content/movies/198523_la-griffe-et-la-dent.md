@@ -1,0 +1,1 @@
+{"tmdb_id": 198523, "title": "La griffe et la dent", "original_title": "La griffe et la dent", "slug_title": "la-griffe-et-la-dent", "date": "1976-06-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nOT43PapdTkC2XlKPFhtaUe1bf2.jpg", "actors": [], "comments": [], "recommandations_id": []}

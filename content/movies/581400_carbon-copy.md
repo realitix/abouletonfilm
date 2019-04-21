@@ -1,0 +1,1 @@
+{"tmdb_id": 581400, "title": "Carbon Copy", "original_title": "Carbon Copy", "slug_title": "carbon-copy", "date": "1975-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Don Warrington (Albert Sharpe II)", "Judy Campbell (Margaret Bott)", "Simon Lack (John Bott)"], "comments": [], "recommandations_id": []}

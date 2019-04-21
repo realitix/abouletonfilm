@@ -1,0 +1,1 @@
+{"tmdb_id": 344172, "title": "Det g\u00e6lder din frihed", "original_title": "Det g\u00e6lder din frihed", "slug_title": "det-gaelder-din-frihed", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

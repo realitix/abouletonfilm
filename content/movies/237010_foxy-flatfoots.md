@@ -1,0 +1,1 @@
+{"tmdb_id": 237010, "title": "Foxy Flatfoots", "original_title": "Foxy Flatfoots", "slug_title": "foxy-flatfoots", "date": "1946-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

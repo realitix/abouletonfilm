@@ -1,0 +1,1 @@
+{"tmdb_id": 228419, "title": "Portinari do Brasil", "original_title": "Portinari do Brasil", "slug_title": "portinari-do-brasil", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hi3t0olBK9mbJ0ShLzH9YqkRrLG.jpg", "actors": [], "comments": [], "recommandations_id": []}

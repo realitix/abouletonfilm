@@ -1,0 +1,1 @@
+{"tmdb_id": 113642, "title": "Gringo Wedding", "original_title": "Gringo Wedding", "slug_title": "gringo-wedding", "date": "2006-06-25", "genre": "Drame / Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svfsBwxwGKEvPRszUK4Y6gTGTiS.jpg", "actors": [], "comments": [], "recommandations_id": []}

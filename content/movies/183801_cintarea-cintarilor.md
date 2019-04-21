@@ -1,0 +1,1 @@
+{"tmdb_id": 183801, "title": "C\u00eentarea c\u00eentarilor", "original_title": "C\u00eentarea c\u00eentarilor", "slug_title": "cintarea-cintarilor", "date": "1993-04-06", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

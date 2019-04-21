@@ -1,0 +1,1 @@
+{"tmdb_id": 461737, "title": "Fighting Fluid", "original_title": "Fighting Fluid", "slug_title": "fighting-fluid", "date": "1925-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase ()", "Pierre Couderc ()", "Jules Mendel ()", "Marie Mosquini ()"], "comments": [], "recommandations_id": []}

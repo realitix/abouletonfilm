@@ -1,0 +1,1 @@
+{"tmdb_id": 550318, "title": "Dubbla verkligheter", "original_title": "Dubbla verkligheter", "slug_title": "dubbla-verkligheter", "date": "1995-05-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric M. Nilsson (Himself)"], "comments": [], "recommandations_id": []}

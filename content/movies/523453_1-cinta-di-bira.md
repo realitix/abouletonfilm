@@ -1,0 +1,1 @@
+{"tmdb_id": 523453, "title": "1 Cinta di Bira", "original_title": "1 Cinta di Bira", "slug_title": "1-cinta-di-bira", "date": "2016-04-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPHLI0vPBjrxyEW9C6TnFwYjK4q.jpg", "actors": ["Faizan Nasrul ()", "Cinta Rarung ()"], "comments": [], "recommandations_id": []}

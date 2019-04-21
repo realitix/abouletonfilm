@@ -1,0 +1,1 @@
+{"tmdb_id": 520187, "title": "[\u02c8d\u028a\u014bkl\u0329\u02ccd\u0254\u026a\u032f\u02a7lant]", "original_title": "[\u02c8d\u028a\u014bkl\u0329\u02ccd\u0254\u026a\u032f\u02a7lant]", "slug_title": "dungkl-doitslant", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

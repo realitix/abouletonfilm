@@ -1,0 +1,1 @@
+{"tmdb_id": 442032, "title": "Shinsetsu kachikachi yama", "original_title": "Shinsetsu kachikachi yama", "slug_title": "shinsetsu-kachikachi-yama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

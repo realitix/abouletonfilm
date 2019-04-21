@@ -1,0 +1,1 @@
+{"tmdb_id": 236273, "title": "Chicken Jitters", "original_title": "Chicken Jitters", "slug_title": "chicken-jitters", "date": "1939-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q7JicuygKZsw9x9tvzlooGCR15k.jpg", "actors": [], "comments": [], "recommandations_id": []}

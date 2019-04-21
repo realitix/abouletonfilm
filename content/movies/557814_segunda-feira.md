@@ -1,0 +1,1 @@
+{"tmdb_id": 557814, "title": "Segunda-Feira", "original_title": "Segunda-Feira", "slug_title": "segunda-feira", "date": "2018-11-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["S\u00edlvia Pfeifer (Helena)", "Adriano Toloza (Bruno)", "Priska Nunes (Valentina)"], "comments": [], "recommandations_id": []}

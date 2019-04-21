@@ -1,0 +1,1 @@
+{"tmdb_id": 81842, "title": "Bill Bo und seine Kumpane", "original_title": "Bill Bo und seine Kumpane", "slug_title": "bill-bo-und-seine-kumpane", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pAsKZwz5K55msO8W0o3DXGPh2bK.jpg", "actors": [], "comments": [], "recommandations_id": []}

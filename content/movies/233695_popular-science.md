@@ -1,0 +1,1 @@
+{"tmdb_id": 233695, "title": "Popular Science", "original_title": "Popular Science", "slug_title": "popular-science", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

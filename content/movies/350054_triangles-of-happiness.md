@@ -1,0 +1,1 @@
+{"tmdb_id": 350054, "title": "Triangles of Happiness", "original_title": "Trekanter af lykke", "slug_title": "triangles-of-happiness", "date": "2014-03-28", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1o4k51APF6wnT5ow9nRv4ffcPVl.jpg", "actors": [], "comments": [], "recommandations_id": []}

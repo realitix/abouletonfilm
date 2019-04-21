@@ -1,0 +1,1 @@
+{"tmdb_id": 462021, "title": "My Girlfriend's Abroad", "original_title": "My Girlfriend's Abroad", "slug_title": "my-girlfriend-s-abroad", "date": "2006-04-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny DeVito (Uncle Rick (uncredited))"], "comments": [], "recommandations_id": []}

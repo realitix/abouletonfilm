@@ -1,0 +1,1 @@
+{"tmdb_id": 277724, "title": "Better Housekeeping", "original_title": "Better Housekeeping", "slug_title": "better-housekeeping", "date": "2000-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Al Schuermann (Joe)", "Bob Jay Mills (Don)", "Tacey Adams (Marion)", "Zia Harris (Chuck)"], "comments": [], "recommandations_id": []}

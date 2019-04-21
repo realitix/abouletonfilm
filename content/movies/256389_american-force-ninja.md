@@ -1,0 +1,1 @@
+{"tmdb_id": 256389, "title": "American Force Ninja", "original_title": "American Force Ninja", "slug_title": "american-force-ninja", "date": "1987-01-01", "genre": "Action", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fap1gkDRSEH3hLWVcbT4kWbjmL.jpg", "actors": [], "comments": [], "recommandations_id": []}

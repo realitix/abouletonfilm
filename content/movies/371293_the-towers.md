@@ -1,0 +1,1 @@
+{"tmdb_id": 371293, "title": "The Towers", "original_title": "The Towers", "slug_title": "the-towers", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

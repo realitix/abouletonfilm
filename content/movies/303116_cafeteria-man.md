@@ -1,0 +1,1 @@
+{"tmdb_id": 303116, "title": "Cafeteria Man", "original_title": "Cafeteria Man", "slug_title": "cafeteria-man", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

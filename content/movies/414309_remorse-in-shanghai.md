@@ -1,0 +1,1 @@
+{"tmdb_id": 414309, "title": "Remorse in Shanghai", "original_title": "\u72fc\u706b\u306f\u4e0a\u6d77\u306b\u63da\u308b", "slug_title": "remorse-in-shanghai", "date": "1944-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6b0qAaV1jdeC6W19GWt0RUvrSpz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512229, "title": "Psychomagic", "original_title": "Psicomagia", "slug_title": "psychomagic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTxOgdcFCebPnGuaeSRB0pU1FyC.jpg", "actors": [], "comments": [], "recommandations_id": []}

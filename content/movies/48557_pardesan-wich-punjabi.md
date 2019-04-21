@@ -1,0 +1,1 @@
+{"tmdb_id": 48557, "title": "Pardesan Wich Punjabi", "original_title": "Pardesan Wich Punjabi", "slug_title": "pardesan-wich-punjabi", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fcUC7t9oHMyZbDXU4Ea73U3tgdE.jpg", "actors": [], "comments": [], "recommandations_id": []}

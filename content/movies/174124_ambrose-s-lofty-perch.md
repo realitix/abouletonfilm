@@ -1,0 +1,1 @@
+{"tmdb_id": 174124, "title": "Ambrose's Lofty Perch", "original_title": "Ambrose's Lofty Perch", "slug_title": "ambrose-s-lofty-perch", "date": "1915-04-02", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Swain (Ambrose)", "Louise Fazenda ()"], "comments": [], "recommandations_id": []}

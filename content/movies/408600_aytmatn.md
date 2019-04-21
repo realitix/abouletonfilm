@@ -1,0 +1,1 @@
+{"tmdb_id": 408600, "title": "Aytmatn", "original_title": "Aytmatn", "slug_title": "aytmatn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Ayouz Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/azJ7GlZ0Ybuncncuo3fZsjzSDGS.jpg", "actors": [], "comments": [], "recommandations_id": []}

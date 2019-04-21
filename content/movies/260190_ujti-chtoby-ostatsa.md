@@ -1,0 +1,1 @@
+{"tmdb_id": 260190, "title": "Ujti chtoby ostatsa", "original_title": "Ujti chtoby ostatsa", "slug_title": "ujti-chtoby-ostatsa", "date": "2013-12-21", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AutaD6yyFNoApYhYoWWBAfG6hdx.jpg", "actors": [], "comments": [], "recommandations_id": []}

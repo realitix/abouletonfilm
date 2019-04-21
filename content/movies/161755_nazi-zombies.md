@@ -1,0 +1,1 @@
+{"tmdb_id": 161755, "title": "Nazi Zombies", "original_title": "Nazi Zombies", "slug_title": "nazi-zombies", "date": "2012-07-09", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67sPc5aDlZTvZRbMKz6TVXjp7Kv.jpg", "actors": [], "comments": [], "recommandations_id": []}

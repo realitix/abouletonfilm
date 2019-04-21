@@ -1,0 +1,1 @@
+{"tmdb_id": 414802, "title": "Charlie Brown Clears the Air", "original_title": "Charlie Brown Clears the Air", "slug_title": "charlie-brown-clears-the-air", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

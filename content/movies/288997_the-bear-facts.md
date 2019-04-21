@@ -1,0 +1,1 @@
+{"tmdb_id": 288997, "title": "The Bear Facts", "original_title": "The Bear Facts", "slug_title": "the-bear-facts", "date": "2010-06-01", "genre": "Com\u00e9die / Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

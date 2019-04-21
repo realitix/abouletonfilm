@@ -1,0 +1,1 @@
+{"tmdb_id": 58566, "title": "Baghdad ER", "original_title": "Baghdad ER", "slug_title": "baghdad-er", "date": "2006-11-16", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKtbdM1JLdYWH8Iuv614oi87q1S.jpg", "actors": [], "comments": [], "recommandations_id": []}

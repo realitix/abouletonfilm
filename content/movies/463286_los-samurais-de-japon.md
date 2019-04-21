@@ -1,0 +1,1 @@
+{"tmdb_id": 463286, "title": "Los samurais de Japon", "original_title": "Los samurais de Japon", "slug_title": "los-samurais-de-japon", "date": "2003-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7u4Ssm3RssKL3Cv1qr983jYYCFk.jpg", "actors": [], "comments": [], "recommandations_id": []}

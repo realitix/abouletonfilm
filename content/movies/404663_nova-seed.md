@@ -1,0 +1,1 @@
+{"tmdb_id": 404663, "title": "Nova Seed", "original_title": "Nova Seed", "slug_title": "nova-seed", "date": "2016-04-23", "genre": "Animation / Fantastique / Science-Fiction", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdZsnbAglFrJUbSmIVDkw8CGeu6.jpg", "actors": [], "comments": [], "recommandations_id": []}

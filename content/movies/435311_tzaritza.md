@@ -1,0 +1,1 @@
+{"tmdb_id": 435311, "title": "Tzaritza", "original_title": "Tzaritza", "slug_title": "tzaritza", "date": "2007-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nt1ZuUHMBqhJIJSZYY7lF0oCu0M.jpg", "actors": [], "comments": [], "recommandations_id": []}

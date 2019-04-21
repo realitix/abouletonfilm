@@ -1,0 +1,1 @@
+{"tmdb_id": 337917, "title": "Journey to Freedom", "original_title": "Journey to Freedom", "slug_title": "journey-to-freedom", "date": "1957-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeIQn7dNyYB4AdUZZf3NldEh1Xi.jpg", "actors": [], "comments": [], "recommandations_id": []}

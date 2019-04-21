@@ -1,0 +1,1 @@
+{"tmdb_id": 364172, "title": "The Jazz In Us", "original_title": "The Jazz In Us", "slug_title": "the-jazz-in-us", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

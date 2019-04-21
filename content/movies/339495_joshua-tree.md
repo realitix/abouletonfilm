@@ -1,0 +1,1 @@
+{"tmdb_id": 339495, "title": "Joshua Tree", "original_title": "Joshua Tree", "slug_title": "joshua-tree", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZi1LiCyA7OEM72uasLpWiX0a3s.jpg", "actors": [], "comments": [], "recommandations_id": []}

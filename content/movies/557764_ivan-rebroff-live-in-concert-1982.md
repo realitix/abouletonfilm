@@ -1,0 +1,1 @@
+{"tmdb_id": 557764, "title": "Ivan Rebroff. Live In Concert 1982", "original_title": "Ivan Rebroff. Live In Concert 1982", "slug_title": "ivan-rebroff-live-in-concert-1982", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/quwKF3yCpJt10KmkzDts4vZROqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

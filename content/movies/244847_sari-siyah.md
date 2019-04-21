@@ -1,0 +1,1 @@
+{"tmdb_id": 244847, "title": "Sar\u0131 Siyah", "original_title": "Sar\u0131 Siyah", "slug_title": "sari-siyah", "date": "2013-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lNzCYXnbcD72qc8HjZHdIiINfcl.jpg", "actors": [], "comments": [], "recommandations_id": []}

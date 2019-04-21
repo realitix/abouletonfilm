@@ -1,0 +1,1 @@
+{"tmdb_id": 299705, "title": "The trip to Ragnar", "original_title": "Resan till Ragnar", "slug_title": "the-trip-to-ragnar", "date": "1996-03-21", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ragnar Dahlberg (Himself)"], "comments": [], "recommandations_id": []}

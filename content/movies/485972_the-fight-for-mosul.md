@@ -1,0 +1,1 @@
+{"tmdb_id": 485972, "title": "The Fight for Mosul", "original_title": "The Fight for Mosul", "slug_title": "the-fight-for-mosul", "date": "2017-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKNKo0Wdkc3ofvraAV3whNsO74z.jpg", "actors": [], "comments": [], "recommandations_id": []}

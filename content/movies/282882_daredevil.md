@@ -1,0 +1,1 @@
+{"tmdb_id": 282882, "title": "Daredevil", "original_title": "Smelchak", "slug_title": "daredevil", "date": "1919-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alperov ()", "Vladimir Gardin ()", "Mikhail Narokov ()"], "comments": [], "recommandations_id": []}

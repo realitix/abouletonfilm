@@ -1,0 +1,1 @@
+{"tmdb_id": 477536, "title": "Betty's Apprenticeship", "original_title": "L\u00e9ontine en apprentissage", "slug_title": "betty-s-apprenticeship", "date": "1910-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

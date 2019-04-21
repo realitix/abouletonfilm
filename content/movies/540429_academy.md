@@ -1,0 +1,1 @@
+{"tmdb_id": 540429, "title": "Academy", "original_title": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u044f", "slug_title": "academy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFUXHHNbVweWx0SnbSO65eC079s.jpg", "actors": [], "comments": [], "recommandations_id": []}

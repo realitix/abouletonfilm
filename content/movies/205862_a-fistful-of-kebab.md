@@ -1,0 +1,1 @@
+{"tmdb_id": 205862, "title": "A Fistful of Kebab", "original_title": "A Fistful of Kebab", "slug_title": "a-fistful-of-kebab", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

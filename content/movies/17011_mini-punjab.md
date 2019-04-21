@@ -1,0 +1,1 @@
+{"tmdb_id": 17011, "title": "Mini Punjab", "original_title": "Mini Punjab", "slug_title": "mini-punjab", "date": "2009-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dAAmlOqQ0uyrdIkxLdTW7r1CPYk.jpg", "actors": ["Gurdas Mann (Prem)", "Jividha Astha ()", "Manav Vij ()"], "comments": [], "recommandations_id": []}

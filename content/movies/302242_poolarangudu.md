@@ -1,0 +1,1 @@
+{"tmdb_id": 302242, "title": "Poolarangudu", "original_title": "Poolarangudu", "slug_title": "poolarangudu", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

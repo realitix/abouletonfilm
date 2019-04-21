@@ -1,0 +1,1 @@
+{"tmdb_id": 316261, "title": "The Gossiper", "original_title": "La chismosa", "slug_title": "the-gossiper", "date": "1938-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

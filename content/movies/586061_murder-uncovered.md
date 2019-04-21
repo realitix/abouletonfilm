@@ -1,0 +1,1 @@
+{"tmdb_id": 586061, "title": "Murder Uncovered", "original_title": "Murder Uncovered", "slug_title": "murder-uncovered", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

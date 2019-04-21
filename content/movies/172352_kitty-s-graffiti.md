@@ -1,0 +1,1 @@
+{"tmdb_id": 172352, "title": "Kitty's Graffiti", "original_title": "Koneko no rakugaki", "slug_title": "kitty-s-graffiti", "date": "1957-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNQoBRvlbN0fPMVD3xeL6J4U9Fz.jpg", "actors": [], "comments": [], "recommandations_id": []}

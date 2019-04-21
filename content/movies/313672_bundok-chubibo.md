@@ -1,0 +1,1 @@
+{"tmdb_id": 313672, "title": "Bundok Chubibo", "original_title": "Bundok Chubibo", "slug_title": "bundok-chubibo", "date": "2014-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hibWsYpbruM2GYxr3B9o7tr88zG.jpg", "actors": ["Ryan Camacho (as)", "Erika Cruz (as)"], "comments": [], "recommandations_id": []}

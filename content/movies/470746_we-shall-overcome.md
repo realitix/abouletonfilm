@@ -1,0 +1,1 @@
+{"tmdb_id": 470746, "title": "We Shall Overcome", "original_title": "Ikusaba na tudumi", "slug_title": "we-shall-overcome", "date": "2015-07-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nupMdTbOWiRo0Dd6HpwsG1tCsob.jpg", "actors": ["Cocco (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 354235, "title": "Korridor", "original_title": "Korridor", "slug_title": "korridor", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kuzZHiMqceFYeO5GqwFqD02Lfld.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307837, "title": "Yamla Jatt", "original_title": "Yamla Jatt", "slug_title": "yamla-jatt", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

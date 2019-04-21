@@ -1,0 +1,1 @@
+{"tmdb_id": 157250, "title": "The Angel and the Soldier Boy", "original_title": "The Angel and the Soldier Boy", "slug_title": "the-angel-and-the-soldier-boy", "date": "1989-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5cfivPN0VKN4iZOyH9YfEuC9ELw.jpg", "actors": [], "comments": [], "recommandations_id": []}

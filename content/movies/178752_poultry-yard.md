@@ -1,0 +1,1 @@
+{"tmdb_id": 178752, "title": "Poultry-Yard", "original_title": "Basse-cour", "slug_title": "poultry-yard", "date": "1896-01-01", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9mVgVtp7pQmTSy3bBwO46SXIAt5.jpg", "actors": [], "comments": [], "recommandations_id": [152456, 163112, 178757, 152457]}

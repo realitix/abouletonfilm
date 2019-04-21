@@ -1,0 +1,1 @@
+{"tmdb_id": 323637, "title": "The Cooler Bandits", "original_title": "The Cooler Bandits", "slug_title": "the-cooler-bandits", "date": "2014-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330427, "title": "Good or Bad, Black and White", "original_title": "Yihye Tov, Yihye Lo Tov", "slug_title": "good-or-bad-black-and-white", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

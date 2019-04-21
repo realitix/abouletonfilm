@@ -1,0 +1,1 @@
+{"tmdb_id": 526626, "title": "Shikast-i \u02bbishq", "original_title": "Shikast-i \u02bbishq", "slug_title": "shikast-i-ishq", "date": "2006-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()"], "comments": [], "recommandations_id": []}

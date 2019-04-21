@@ -1,0 +1,1 @@
+{"tmdb_id": 346459, "title": "Canciones para un amigo", "original_title": "Canciones para un amigo", "slug_title": "canciones-para-un-amigo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxqlkoGOA38KDowKxXKSdf8z3qd.jpg", "actors": ["Pablo Abitia ()"], "comments": [], "recommandations_id": []}

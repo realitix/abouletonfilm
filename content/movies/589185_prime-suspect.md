@@ -1,0 +1,1 @@
+{"tmdb_id": 589185, "title": "Prime Suspect", "original_title": "Prime Suspect", "slug_title": "prime-suspect", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helen Mirren ()"], "comments": [], "recommandations_id": []}

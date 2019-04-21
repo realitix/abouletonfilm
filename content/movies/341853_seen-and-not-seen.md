@@ -1,0 +1,1 @@
+{"tmdb_id": 341853, "title": "Seen and Not Seen", "original_title": "Seen and Not Seen", "slug_title": "seen-and-not-seen", "date": "2016-05-26", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

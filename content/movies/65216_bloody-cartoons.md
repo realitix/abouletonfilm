@@ -1,0 +1,1 @@
+{"tmdb_id": 65216, "title": "Bloody Cartoons", "original_title": "Bloody Cartoons", "slug_title": "bloody-cartoons", "date": "2007-10-16", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333511, "title": "Minispectacles 9 x Solo, Duo, Trio, Quartet", "original_title": "Minispectacles 9 x Solo, Duo, Trio, Quartet", "slug_title": "minispectacles-9-x-solo-duo-trio-quartet", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

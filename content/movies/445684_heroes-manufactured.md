@@ -1,0 +1,1 @@
+{"tmdb_id": 445684, "title": "Heroes Manufactured", "original_title": "Heroes Manufactured", "slug_title": "heroes-manufactured", "date": "2017-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bU2XTyTsfsmeALhkdb0n5ON9Kdo.jpg", "actors": [], "comments": [], "recommandations_id": []}

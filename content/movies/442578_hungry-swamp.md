@@ -1,0 +1,1 @@
+{"tmdb_id": 442578, "title": "Hungry Swamp", "original_title": "\u00c9hes ingov\u00e1ny", "slug_title": "hungry-swamp", "date": "1988-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJVsyRYLijB9J3HyLgE8wC49KrE.jpg", "actors": ["Mikl\u00f3s \u00c1cs ()", "Andrea Rinyu ()"], "comments": [], "recommandations_id": []}

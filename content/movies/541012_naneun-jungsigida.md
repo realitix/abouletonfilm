@@ -1,0 +1,1 @@
+{"tmdb_id": 541012, "title": "\ub098\ub294 \uc911\uc2dd\uc774\ub2e4", "original_title": "\ub098\ub294 \uc911\uc2dd\uc774\ub2e4", "slug_title": "naneun-jungsigida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

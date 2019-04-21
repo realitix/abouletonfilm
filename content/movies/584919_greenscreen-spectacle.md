@@ -1,0 +1,1 @@
+{"tmdb_id": 584919, "title": "Greenscreen Spectacle", "original_title": "Greenscreen Spectacle", "slug_title": "greenscreen-spectacle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

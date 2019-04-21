@@ -1,0 +1,1 @@
+{"tmdb_id": 438636, "title": "Gloria Estefan: The Best of", "original_title": "Gloria Estefan: The Best of", "slug_title": "gloria-estefan-the-best-of", "date": "1997-02-17", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gloria Estefan (cantante, actriz y compositora)"], "comments": [], "recommandations_id": []}

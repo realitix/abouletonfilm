@@ -1,0 +1,1 @@
+{"tmdb_id": 459843, "title": "A Brilliant Spectacle", "original_title": "\u842c\u7d2b\u5343\u7d05", "slug_title": "a-brilliant-spectacle", "date": "1974-07-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

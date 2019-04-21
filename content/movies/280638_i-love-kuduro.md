@@ -1,0 +1,1 @@
+{"tmdb_id": 280638, "title": "I Love Kuduro", "original_title": "I Love Kuduro", "slug_title": "i-love-kuduro", "date": "2014-09-18", "genre": "Com\u00e9die / Documentaire / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sksBgxm6M8ZoETKqnhBC4C7Xwxt.jpg", "actors": [], "comments": [], "recommandations_id": []}

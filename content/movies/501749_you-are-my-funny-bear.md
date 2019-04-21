@@ -1,0 +1,1 @@
+{"tmdb_id": 501749, "title": "you are my funny bear", "original_title": "you are my funny bear", "slug_title": "you-are-my-funny-bear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

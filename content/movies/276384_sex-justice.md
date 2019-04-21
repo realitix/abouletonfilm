@@ -1,0 +1,1 @@
+{"tmdb_id": 276384, "title": "Sex & Justice", "original_title": "Sex & Justice", "slug_title": "sex-justice", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

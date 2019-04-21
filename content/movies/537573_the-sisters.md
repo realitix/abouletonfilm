@@ -1,0 +1,1 @@
+{"tmdb_id": 537573, "title": "The Sisters", "original_title": "Siostry", "slug_title": "the-sisters", "date": "2018-06-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlpny0WmFzhjFSln6j0g3WfNmNk.jpg", "actors": [], "comments": [], "recommandations_id": []}

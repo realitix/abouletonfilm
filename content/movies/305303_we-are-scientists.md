@@ -1,0 +1,1 @@
+{"tmdb_id": 305303, "title": "We Are Scientists", "original_title": "We Are Scientists", "slug_title": "we-are-scientists", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

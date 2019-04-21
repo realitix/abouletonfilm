@@ -1,0 +1,1 @@
+{"tmdb_id": 131852, "title": "The Kumamoto Dormitory", "original_title": "The Kumamoto Dormitory", "slug_title": "the-kumamoto-dormitory", "date": "2012-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

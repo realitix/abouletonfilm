@@ -1,0 +1,1 @@
+{"tmdb_id": 446004, "title": "The Ghost Paintings", "original_title": "The Ghost Paintings", "slug_title": "the-ghost-paintings", "date": "1986-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

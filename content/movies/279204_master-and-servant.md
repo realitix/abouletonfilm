@@ -1,0 +1,1 @@
+{"tmdb_id": 279204, "title": "Master and Servant", "original_title": "Tern u tzaran", "slug_title": "master-and-servant", "date": "1962-01-02", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

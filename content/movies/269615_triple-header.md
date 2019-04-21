@@ -1,0 +1,1 @@
+{"tmdb_id": 269615, "title": "Triple Header", "original_title": "Triple Header", "slug_title": "triple-header", "date": "2013-11-09", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qAY9JH3LAzwqRJMLz5qsTlentI.jpg", "actors": ["Nonito Donaire Jr. (himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 497228, "title": "The Couple in the Cage", "original_title": "The Couple in the Cage", "slug_title": "the-couple-in-the-cage", "date": "1993-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbwGNRcZtFJ1JU685ra2ku52tWn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 435200, "title": "Una novia de Shangai", "original_title": "Una novia de Shangai", "slug_title": "una-novia-de-shangai", "date": "2016-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntt7o9rybLfcRP4I9GhqnBsOY9F.jpg", "actors": [], "comments": [], "recommandations_id": []}

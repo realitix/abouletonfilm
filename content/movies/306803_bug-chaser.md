@@ -1,0 +1,1 @@
+{"tmdb_id": 306803, "title": "Bug Chaser", "original_title": "Bug Chaser", "slug_title": "bug-chaser", "date": "2012-10-07", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1OM8am3Lr6VLeyNyoRo0WYrO5vw.jpg", "actors": ["Brenden Gregory (Nathan)", "James Arthur M. (Ryan)"], "comments": [], "recommandations_id": []}

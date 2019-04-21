@@ -1,0 +1,1 @@
+{"tmdb_id": 237255, "title": "Taming the Cat", "original_title": "Taming the Cat", "slug_title": "taming-the-cat", "date": "1948-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

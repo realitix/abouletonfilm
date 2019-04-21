@@ -1,0 +1,1 @@
+{"tmdb_id": 455770, "title": "Pokus o vra\u017edu", "original_title": "Pokus o vra\u017edu", "slug_title": "pokus-o-vrazdu", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfqQU12bArBSfzJUeF2q47W182.jpg", "actors": [], "comments": [], "recommandations_id": []}

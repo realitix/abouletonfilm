@@ -1,0 +1,1 @@
+{"tmdb_id": 129635, "title": "Ke$ha - Live Rock in Rio", "original_title": "Ke$ha - Live Rock in Rio", "slug_title": "ke-ha-live-rock-in-rio", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZIdsSFcjsF98SJ3RpAM8l0mwTZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

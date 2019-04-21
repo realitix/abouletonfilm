@@ -1,0 +1,1 @@
+{"tmdb_id": 568273, "title": "Twelve Days of Black Mass", "original_title": "Twelve Days of Black Mass", "slug_title": "twelve-days-of-black-mass", "date": "2008-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

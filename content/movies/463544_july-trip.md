@@ -1,0 +1,1 @@
+{"tmdb_id": 463544, "title": "July Trip", "original_title": "July Trip", "slug_title": "july-trip", "date": "2006-06-04", "genre": "Guerre / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

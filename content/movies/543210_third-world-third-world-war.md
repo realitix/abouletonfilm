@@ -1,0 +1,1 @@
+{"tmdb_id": 543210, "title": "Third World, Third World War", "original_title": "Tercer mundo, tercera guerra mundial", "slug_title": "third-world-third-world-war", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2c34E9hMgW8NEoK8yNs20uEKTcx.jpg", "actors": [], "comments": [], "recommandations_id": []}

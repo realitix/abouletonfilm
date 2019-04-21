@@ -1,0 +1,1 @@
+{"tmdb_id": 557216, "title": "Under the Leather Helmet", "original_title": "Sous le casque de cuir", "slug_title": "under-the-leather-helmet", "date": "1932-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

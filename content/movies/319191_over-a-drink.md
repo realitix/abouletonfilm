@@ -1,0 +1,1 @@
+{"tmdb_id": 319191, "title": "Over a Drink", "original_title": "Izakaya no ichiya", "slug_title": "over-a-drink", "date": "1936-06-05", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mE9Oi7mgjXin8h1RSvtUzFg4xZh.jpg", "actors": [], "comments": [], "recommandations_id": []}

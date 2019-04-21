@@ -1,0 +1,1 @@
+{"tmdb_id": 267178, "title": "Mad As Hell", "original_title": "Mad As Hell", "slug_title": "mad-as-hell", "date": "2014-04-29", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yd8i3pLhEyoBghUCkxQZLrlR7XK.jpg", "actors": ["Cenk Uygur (Himself)"], "comments": [], "recommandations_id": []}

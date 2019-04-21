@@ -1,0 +1,1 @@
+{"tmdb_id": 396645, "title": "Clockshower", "original_title": "Clockshower", "slug_title": "clockshower", "date": "1973-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

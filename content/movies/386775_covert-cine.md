@@ -1,0 +1,1 @@
+{"tmdb_id": 386775, "title": "Covert Cin\u00e9", "original_title": "Covert Cin\u00e9", "slug_title": "covert-cine", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

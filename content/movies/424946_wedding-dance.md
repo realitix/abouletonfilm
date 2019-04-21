@@ -1,0 +1,1 @@
+{"tmdb_id": 424946, "title": "Wedding Dance", "original_title": "Kasap Havas\u0131", "slug_title": "wedding-dance", "date": "2016-11-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kxj3T2ftqOKGXAhJ49i0o5MZjGL.jpg", "actors": [], "comments": [], "recommandations_id": []}

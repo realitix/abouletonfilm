@@ -1,0 +1,1 @@
+{"tmdb_id": 69322, "title": "Gugara", "original_title": "Gugara", "slug_title": "gugara", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

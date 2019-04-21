@@ -1,0 +1,1 @@
+{"tmdb_id": 417352, "title": "The Foolish Duckling", "original_title": "The Foolish Duckling", "slug_title": "the-foolish-duckling", "date": "1952-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

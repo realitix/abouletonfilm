@@ -1,0 +1,1 @@
+{"tmdb_id": 444087, "title": "Elmo the Musical", "original_title": "Elmo the Musical", "slug_title": "elmo-the-musical", "date": "2013-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPUURp2XYyNM9tiAB4FVgJGzlk7.jpg", "actors": ["Kevin Clash ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 354552, "title": "Abattoirs (Mattatoi)", "original_title": "Abattoirs (Mattatoi)", "slug_title": "abattoirs-mattatoi", "date": "1987-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

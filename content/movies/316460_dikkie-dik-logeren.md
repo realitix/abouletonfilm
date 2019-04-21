@@ -1,0 +1,1 @@
+{"tmdb_id": 316460, "title": "Dikkie Dik - Logeren", "original_title": "Dikkie Dik - Logeren", "slug_title": "dikkie-dik-logeren", "date": "2008-05-01", "genre": "Animation / Familial / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ekVRcKKDrXJflHtN27YVTEfwBKZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

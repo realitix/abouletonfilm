@@ -1,0 +1,1 @@
+{"tmdb_id": 581629, "title": "Supercharged: The Grand Prix Car 1924-1939", "original_title": "Supercharged: The Grand Prix Car 1924-1939", "slug_title": "supercharged-the-grand-prix-car-1924-1939", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

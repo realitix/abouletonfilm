@@ -1,0 +1,1 @@
+{"tmdb_id": 579043, "title": "Dear Rock", "original_title": "Dear Rock", "slug_title": "dear-rock", "date": "1993-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tL7PGrssFyKAtWdPaWdMCnuKUY.jpg", "actors": [], "comments": [], "recommandations_id": []}

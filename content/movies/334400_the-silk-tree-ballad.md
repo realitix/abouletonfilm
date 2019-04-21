@@ -1,0 +1,1 @@
+{"tmdb_id": 334400, "title": "The Silk Tree Ballad", "original_title": "Nemuno-ki no uta", "slug_title": "the-silk-tree-ballad", "date": "1974-01-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fd5xCGy2fxxwM1fg4iC0u84M4k.jpg", "actors": [], "comments": [], "recommandations_id": []}

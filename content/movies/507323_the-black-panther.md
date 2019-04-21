@@ -1,0 +1,1 @@
+{"tmdb_id": 507323, "title": "The Black Panther", "original_title": "The Black Panther", "slug_title": "the-black-panther", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

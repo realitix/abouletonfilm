@@ -1,0 +1,1 @@
+{"tmdb_id": 494865, "title": "Sarajevo: City Symphony", "original_title": "Sarajevo: City Symphony", "slug_title": "sarajevo-city-symphony", "date": "2012-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

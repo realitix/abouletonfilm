@@ -1,0 +1,1 @@
+{"tmdb_id": 318101, "title": "A Reiki Prosperity Attunement", "original_title": "A Reiki Prosperity Attunement", "slug_title": "a-reiki-prosperity-attunement", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

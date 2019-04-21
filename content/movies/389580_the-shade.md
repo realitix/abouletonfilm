@@ -1,0 +1,1 @@
+{"tmdb_id": 389580, "title": "The Shade", "original_title": "The Shade", "slug_title": "the-shade", "date": "1999-03-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hVo6Qf5f21sEJ4jKxLx8ZnuljUh.jpg", "actors": [], "comments": [], "recommandations_id": []}

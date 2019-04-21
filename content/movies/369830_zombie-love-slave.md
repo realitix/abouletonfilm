@@ -1,0 +1,1 @@
+{"tmdb_id": 369830, "title": "Zombie Love Slave", "original_title": "Zombie Love Slave", "slug_title": "zombie-love-slave", "date": "1999-01-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/luLkRSyYePSM8oJkzPfYigctUCd.jpg", "actors": [], "comments": [], "recommandations_id": []}

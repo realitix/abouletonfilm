@@ -1,0 +1,1 @@
+{"tmdb_id": 252370, "title": "Let\u2019s go Hot Spring", "original_title": "Let\u2019s go Hot Spring", "slug_title": "lets-go-hot-spring", "date": "2010-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r04yEEMI5TPal0bSebXA84tr6bp.jpg", "actors": [], "comments": [], "recommandations_id": []}

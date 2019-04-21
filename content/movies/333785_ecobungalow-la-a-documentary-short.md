@@ -1,0 +1,1 @@
+{"tmdb_id": 333785, "title": "EcoBungalow-LA: a documentary short", "original_title": "EcoBungalow-LA: a documentary short", "slug_title": "ecobungalow-la-a-documentary-short", "date": "2014-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

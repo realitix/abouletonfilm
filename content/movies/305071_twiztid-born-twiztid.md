@@ -1,0 +1,1 @@
+{"tmdb_id": 305071, "title": "Twiztid: Born Twiztid", "original_title": "Twiztid: Born Twiztid", "slug_title": "twiztid-born-twiztid", "date": "2001-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsJBK4h53xvrgL2DfwBHn80zjtW.jpg", "actors": [], "comments": [], "recommandations_id": []}

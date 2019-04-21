@@ -1,0 +1,1 @@
+{"tmdb_id": 303953, "title": "Prenatal Vinyasa Yoga", "original_title": "Prenatal Vinyasa Yoga", "slug_title": "prenatal-vinyasa-yoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337592, "title": "I Know What It's Like To Be Dead", "original_title": "I Know What It's Like To Be Dead", "slug_title": "i-know-what-it-s-like-to-be-dead", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

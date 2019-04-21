@@ -1,0 +1,1 @@
+{"tmdb_id": 276348, "title": "Go Dragons! A Rugby Story", "original_title": "Go Dragons! A Rugby Story", "slug_title": "go-dragons-a-rugby-story", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

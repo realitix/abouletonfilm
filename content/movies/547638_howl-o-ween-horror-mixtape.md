@@ -1,0 +1,1 @@
+{"tmdb_id": 547638, "title": "Howl-O-Ween Horror Mixtape!", "original_title": "Howl-O-Ween Horror Mixtape!", "slug_title": "howl-o-ween-horror-mixtape", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

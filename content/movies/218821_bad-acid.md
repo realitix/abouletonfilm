@@ -1,0 +1,1 @@
+{"tmdb_id": 218821, "title": "Bad Acid", "original_title": "Bad Acid", "slug_title": "bad-acid", "date": "2005-08-07", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96fr1HySy6384SNnJSYLlCOIGCz.jpg", "actors": [], "comments": [], "recommandations_id": []}

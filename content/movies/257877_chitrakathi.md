@@ -1,0 +1,1 @@
+{"tmdb_id": 257877, "title": "Chitrakathi", "original_title": "Chitrakathi", "slug_title": "chitrakathi", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j0XKiyW5PMhtovV7xxaie1f68Kz.jpg", "actors": [], "comments": [], "recommandations_id": []}

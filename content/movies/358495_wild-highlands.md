@@ -1,0 +1,1 @@
+{"tmdb_id": 358495, "title": "Wild Highlands", "original_title": "Wild Highlands", "slug_title": "wild-highlands", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

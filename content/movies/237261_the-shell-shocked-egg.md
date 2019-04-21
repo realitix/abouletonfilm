@@ -1,0 +1,1 @@
+{"tmdb_id": 237261, "title": "The Shell Shocked Egg", "original_title": "The Shell Shocked Egg", "slug_title": "the-shell-shocked-egg", "date": "1948-07-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9TUgxV9nL17GOOYEO2Dy1sjfjy.jpg", "actors": [], "comments": [], "recommandations_id": []}

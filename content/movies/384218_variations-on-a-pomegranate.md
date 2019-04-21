@@ -1,0 +1,1 @@
+{"tmdb_id": 384218, "title": "Variations on a Pomegranate", "original_title": "Variaciones sobre una granada", "slug_title": "variations-on-a-pomegranate", "date": "1975-02-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Yvc32DrWwQzHBwZ68YDCJDHi1G.jpg", "actors": [], "comments": [], "recommandations_id": []}

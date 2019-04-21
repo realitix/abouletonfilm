@@ -1,0 +1,1 @@
+{"tmdb_id": 435762, "title": "Ars gratia artis", "original_title": "Ars gratia artis", "slug_title": "ars-gratia-artis", "date": "1970-01-01", "genre": "Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dSU86jwJr43wnUNveJ96QApqeHP.jpg", "actors": [], "comments": [], "recommandations_id": []}

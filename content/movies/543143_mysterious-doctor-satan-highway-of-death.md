@@ -1,0 +1,1 @@
+{"tmdb_id": 543143, "title": "Mysterious Doctor Satan Highway of Death", "original_title": "Mysterious Doctor Satan Highway of Death", "slug_title": "mysterious-doctor-satan-highway-of-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

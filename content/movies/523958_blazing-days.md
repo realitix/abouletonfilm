@@ -1,0 +1,1 @@
+{"tmdb_id": 523958, "title": "Blazing Days", "original_title": "Blazing Days", "slug_title": "blazing-days", "date": "1927-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

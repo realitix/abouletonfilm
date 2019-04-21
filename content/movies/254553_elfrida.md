@@ -1,0 +1,1 @@
+{"tmdb_id": 254553, "title": "Elfrida", "original_title": "Elfrida", "slug_title": "elfrida", "date": "2013-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Al4yMkszvo5zCYPXwVc3JV4wNfU.jpg", "actors": [], "comments": [], "recommandations_id": []}

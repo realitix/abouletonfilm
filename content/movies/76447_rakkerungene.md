@@ -1,0 +1,1 @@
+{"tmdb_id": 76447, "title": "Rakkerungene", "original_title": "Rakkerungene", "slug_title": "rakkerungene", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1wyY67xQVOixxMlS5oPIFpAkVSf.jpg", "actors": [], "comments": [], "recommandations_id": []}

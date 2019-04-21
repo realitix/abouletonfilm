@@ -1,0 +1,1 @@
+{"tmdb_id": 471834, "title": "An Egg with No Shell", "original_title": "An Egg with No Shell", "slug_title": "an-egg-with-no-shell", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLlSOy8BvdxXwUsBqUPdGMGCcPa.jpg", "actors": [], "comments": [], "recommandations_id": []}

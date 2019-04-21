@@ -1,0 +1,1 @@
+{"tmdb_id": 523976, "title": "Terra do Mar", "original_title": "Terra do Mar", "slug_title": "terra-do-mar", "date": "1998-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0mCjT40n3VsCqH6Qg7yYJsQAnU.jpg", "actors": [], "comments": [], "recommandations_id": []}

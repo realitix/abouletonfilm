@@ -1,0 +1,1 @@
+{"tmdb_id": 306438, "title": "Belli Moda", "original_title": "Belli Moda", "slug_title": "belli-moda", "date": "1966-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSP5qtvgLKWiK2qza0SSWLAyo4e.jpg", "actors": [], "comments": [], "recommandations_id": []}

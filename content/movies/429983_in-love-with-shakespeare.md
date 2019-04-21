@@ -1,0 +1,1 @@
+{"tmdb_id": 429983, "title": "In Love with Shakespeare", "original_title": "In Love with Shakespeare", "slug_title": "in-love-with-shakespeare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwZ4XyZL5CaHaDkSie6ggpc03yu.jpg", "actors": ["Gianluca Bianco ()"], "comments": [], "recommandations_id": []}

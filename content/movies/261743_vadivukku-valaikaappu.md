@@ -1,0 +1,1 @@
+{"tmdb_id": 261743, "title": "Vadivukku Valaikaappu", "original_title": "Vadivukku Valaikaappu", "slug_title": "vadivukku-valaikaappu", "date": "1962-07-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Savitri ()", "V. K. Ramasamy ()"], "comments": [], "recommandations_id": []}

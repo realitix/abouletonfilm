@@ -1,0 +1,1 @@
+{"tmdb_id": 410898, "title": "Drawing Wishes", "original_title": "Negai wo hiku", "slug_title": "drawing-wishes", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEZ99HhhCUOQ62RQnQYLPiiD2UI.jpg", "actors": [], "comments": [], "recommandations_id": []}

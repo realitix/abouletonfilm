@@ -1,0 +1,1 @@
+{"tmdb_id": 86429, "title": "Holyfield vs Bowe I", "original_title": "Holyfield vs Bowe I", "slug_title": "holyfield-vs-bowe-i", "date": "1992-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRgtyAjYMRZPEgar1B3SYzrX6vB.jpg", "actors": [], "comments": [], "recommandations_id": []}

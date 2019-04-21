@@ -1,0 +1,1 @@
+{"tmdb_id": 322398, "title": "Suvasinichi Hi Satvapariksha", "original_title": "Suvasinichi Hi Satvapariksha", "slug_title": "suvasinichi-hi-satvapariksha", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470718, "title": "Mutant Apocalypse in Drugfuck Deathcamp", "original_title": "Mutant Apocalypse in Drugfuck Deathcamp", "slug_title": "mutant-apocalypse-in-drugfuck-deathcamp", "date": "", "genre": "Com\u00e9die / Action / Horreur", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

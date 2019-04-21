@@ -1,0 +1,1 @@
+{"tmdb_id": 320422, "title": "The Jackson Southernaires: Live & Anointed", "original_title": "The Jackson Southernaires: Live & Anointed", "slug_title": "the-jackson-southernaires-live-anointed", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

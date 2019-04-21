@@ -1,0 +1,1 @@
+{"tmdb_id": 513058, "title": "Ultimate Pet Shop Boys", "original_title": "Ultimate Pet Shop Boys", "slug_title": "ultimate-pet-shop-boys", "date": "2010-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j4YQCrWmhNXFoutZPVyux82kzbc.jpg", "actors": [], "comments": [], "recommandations_id": []}

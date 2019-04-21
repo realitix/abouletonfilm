@@ -1,0 +1,1 @@
+{"tmdb_id": 590968, "title": "Part 21: Seminar Room, Edit Room", "original_title": "Part 21: Seminar Room, Edit Room", "slug_title": "part-21-seminar-room-edit-room", "date": "2019-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

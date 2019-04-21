@@ -1,0 +1,1 @@
+{"tmdb_id": 425879, "title": "Zlat\u00e1 priadka", "original_title": "Zlat\u00e1 priadka", "slug_title": "zlata-priadka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

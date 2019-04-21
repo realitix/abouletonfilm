@@ -1,0 +1,1 @@
+{"tmdb_id": 588113, "title": "The Price of Rendova", "original_title": "The Price of Rendova", "slug_title": "the-price-of-rendova", "date": "1944-01-06", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

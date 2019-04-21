@@ -1,0 +1,1 @@
+{"tmdb_id": 310695, "title": "Washington, D.C.: Our Nation's Capital", "original_title": "Washington, D.C.: Our Nation's Capital", "slug_title": "washington-d-c-our-nation-s-capital", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

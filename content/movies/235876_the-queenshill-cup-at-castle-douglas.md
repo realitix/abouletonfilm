@@ -1,0 +1,1 @@
+{"tmdb_id": 235876, "title": "The Queenshill Cup at Castle Douglas", "original_title": "The Queenshill Cup at Castle Douglas", "slug_title": "the-queenshill-cup-at-castle-douglas", "date": "1952-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

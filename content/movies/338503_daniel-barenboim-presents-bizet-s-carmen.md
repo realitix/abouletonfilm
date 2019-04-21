@@ -1,0 +1,1 @@
+{"tmdb_id": 338503, "title": "Daniel Barenboim Presents Bizet's Carmen", "original_title": "Daniel Barenboim Presents Bizet's Carmen", "slug_title": "daniel-barenboim-presents-bizet-s-carmen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

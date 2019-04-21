@@ -1,0 +1,1 @@
+{"tmdb_id": 52994, "title": "Jak \u017cy\u0107", "original_title": "Jak \u017cy\u0107", "slug_title": "jak-zyc", "date": "2008-07-18", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTMHMMbggyXU6ckv9OaAXg3gcN3.jpg", "actors": [], "comments": [], "recommandations_id": []}

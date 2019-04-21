@@ -1,0 +1,1 @@
+{"tmdb_id": 300390, "title": "Getting Dirty", "original_title": "\u9ed1", "slug_title": "getting-dirty", "date": "2014-07-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fXULW8exZNEibS9hBmn7aFvgxa.jpg", "actors": [], "comments": [], "recommandations_id": []}

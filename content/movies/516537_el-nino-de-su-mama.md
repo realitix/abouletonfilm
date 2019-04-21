@@ -1,0 +1,1 @@
+{"tmdb_id": 516537, "title": "El ni\u00f1o de su mam\u00e1", "original_title": "El ni\u00f1o de su mam\u00e1", "slug_title": "el-nino-de-su-mama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Silvia Pinal ()", "Juan Rib\u00f3 ()", "Florinda Chico ()", "Victoria Vera ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 570668, "title": "The Green Hornet", "original_title": "The Green Hornet", "slug_title": "the-green-hornet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

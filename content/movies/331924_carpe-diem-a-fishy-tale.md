@@ -1,0 +1,1 @@
+{"tmdb_id": 331924, "title": "Carpe Diem: A Fishy Tale", "original_title": "Carpe Diem: A Fishy Tale", "slug_title": "carpe-diem-a-fishy-tale", "date": "2013-10-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7A9ly9SMBwkPsap4fCd4sZUgo00.jpg", "actors": [], "comments": [], "recommandations_id": []}

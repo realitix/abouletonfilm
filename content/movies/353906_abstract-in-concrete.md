@@ -1,0 +1,1 @@
+{"tmdb_id": 353906, "title": "Abstract in Concrete", "original_title": "Abstract in Concrete", "slug_title": "abstract-in-concrete", "date": "1952-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XxQ1d3Nd4nzBKzqe7eS34L3C2U.jpg", "actors": [], "comments": [], "recommandations_id": []}

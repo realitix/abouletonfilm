@@ -1,0 +1,1 @@
+{"tmdb_id": 576580, "title": "Arroz y f\u00f3sforos", "original_title": "Arroz y f\u00f3sforos", "slug_title": "arroz-y-fosforos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

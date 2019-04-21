@@ -1,0 +1,1 @@
+{"tmdb_id": 232901, "title": "Berlingske Tidende", "original_title": "Berlingske Tidende", "slug_title": "berlingske-tidende", "date": "1916-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

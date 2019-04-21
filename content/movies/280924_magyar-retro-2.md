@@ -1,0 +1,1 @@
+{"tmdb_id": 280924, "title": "Magyar retr\u00f3 2.", "original_title": "Magyar retr\u00f3 2.", "slug_title": "magyar-retro-2", "date": "2014-01-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7wHmb7xOtRv8qUXgbOcUsAMhaY.jpg", "actors": [], "comments": [], "recommandations_id": []}

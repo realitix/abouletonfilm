@@ -1,0 +1,1 @@
+{"tmdb_id": 592464, "title": "Hell Spit Flexion", "original_title": "Hell Spit Flexion", "slug_title": "hell-spit-flexion", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

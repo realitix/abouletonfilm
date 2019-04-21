@@ -1,0 +1,1 @@
+{"tmdb_id": 128990, "title": "Cooking up dreams", "original_title": "De ollas y sue\u00f1os", "slug_title": "cooking-up-dreams", "date": "2009-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y4okM4bKc2UsSfufivbJZDv2PZR.jpg", "actors": ["Gaston Acurio (Himself)"], "comments": [], "recommandations_id": []}

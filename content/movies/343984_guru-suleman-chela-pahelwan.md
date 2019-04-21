@@ -1,0 +1,1 @@
+{"tmdb_id": 343984, "title": "Guru Suleman Chela Pahelwan", "original_title": "Guru Suleman Chela Pahelwan", "slug_title": "guru-suleman-chela-pahelwan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/VFJuQXIonfX2ZiQQ6lQxS6Y9AB.jpg", "actors": [], "comments": [], "recommandations_id": []}

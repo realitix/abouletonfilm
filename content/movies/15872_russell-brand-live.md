@@ -1,0 +1,1 @@
+{"tmdb_id": 15872, "title": "Russell Brand: Live", "original_title": "Russell Brand: Live", "slug_title": "russell-brand-live", "date": "2006-11-20", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukhVL7j79Bln5Rm9BbStdkJj0MW.jpg", "actors": ["Russell Brand (Himself)"], "comments": [], "recommandations_id": []}

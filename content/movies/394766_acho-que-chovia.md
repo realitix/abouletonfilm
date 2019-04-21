@@ -1,0 +1,1 @@
+{"tmdb_id": 394766, "title": "Acho que Chovia", "original_title": "Acho que Chovia", "slug_title": "acho-que-chovia", "date": "2011-04-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eduardo Climachauska (Joao)", "Marina Person (Mira)"], "comments": [], "recommandations_id": []}

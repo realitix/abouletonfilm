@@ -1,0 +1,1 @@
+{"tmdb_id": 453947, "title": "Dusk Chorus", "original_title": "Dusk Chorus", "slug_title": "dusk-chorus", "date": "2017-04-25", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZafROfo8GxTpdv0i5cgeuW2X7K.jpg", "actors": [], "comments": [], "recommandations_id": []}

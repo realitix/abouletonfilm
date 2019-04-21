@@ -1,0 +1,1 @@
+{"tmdb_id": 388712, "title": "All Rights Reserved", "original_title": "All Rights Reserved", "slug_title": "all-rights-reserved", "date": "2015-01-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

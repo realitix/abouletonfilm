@@ -1,0 +1,1 @@
+{"tmdb_id": 185607, "title": "The Dying Rooms", "original_title": "The Dying Rooms", "slug_title": "the-dying-rooms", "date": "1995-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ptX9FjyAhz9DKLg68ofu4zyfyVg.jpg", "actors": [], "comments": [], "recommandations_id": []}

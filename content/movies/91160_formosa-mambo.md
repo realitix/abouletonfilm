@@ -1,0 +1,1 @@
+{"tmdb_id": 91160, "title": "Formosa Mambo", "original_title": "Formosa Mambo", "slug_title": "formosa-mambo", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9K0YJwOWBemcSoXaNXoxASjKSQD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413911, "title": "Kalakaar", "original_title": "Kalakaar", "slug_title": "kalakaar", "date": "1983-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8cF3HTqS4v7IYOr9fQ3q3tIK3TP.jpg", "actors": ["Kunal Goswami ()", "Sridevi ()", "Rakesh Bedi ()"], "comments": [], "recommandations_id": []}

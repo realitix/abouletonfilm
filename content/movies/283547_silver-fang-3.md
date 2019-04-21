@@ -1,0 +1,1 @@
+{"tmdb_id": 283547, "title": "Silver Fang 3", "original_title": "Silver Fang 3", "slug_title": "silver-fang-3", "date": "2006-10-03", "genre": "Action / Animation / Aventure", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fYr0YmwF54ElodTi18rVCzSmqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 488638, "title": "A Killer With Two Faces", "original_title": "A Killer With Two Faces", "slug_title": "a-killer-with-two-faces", "date": "1974-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnq3LbXKQk8MS36cW0LTKmR3cjq.jpg", "actors": [], "comments": [], "recommandations_id": []}

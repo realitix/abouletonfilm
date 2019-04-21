@@ -1,0 +1,1 @@
+{"tmdb_id": 268698, "title": "Cinema Libertad", "original_title": "Cinema Libertad", "slug_title": "cinema-libertad", "date": "2010-03-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xuIktP5pWGeXdIpIPhSE00DvYrc.jpg", "actors": ["Salvador Sol\u00eds ()"], "comments": [], "recommandations_id": []}

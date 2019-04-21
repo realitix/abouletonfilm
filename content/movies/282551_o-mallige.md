@@ -1,0 +1,1 @@
+{"tmdb_id": 282551, "title": "O Mallige", "original_title": "O Mallige", "slug_title": "o-mallige", "date": "1997-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Charulatha ()", "V. Manohar ()", "Umesh ()", "Jayamma ()", "Zulfi Syed (Nacchi)"], "comments": [], "recommandations_id": []}

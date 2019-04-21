@@ -1,0 +1,1 @@
+{"tmdb_id": 238945, "title": "Stop Driving Us Crazy", "original_title": "Stop Driving Us Crazy", "slug_title": "stop-driving-us-crazy", "date": "1961-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8vJtN03KWUH6p39fegSVL3eknkL.jpg", "actors": ["Howard Morris ()"], "comments": [], "recommandations_id": []}

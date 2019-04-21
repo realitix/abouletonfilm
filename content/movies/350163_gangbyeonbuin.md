@@ -1,0 +1,1 @@
+{"tmdb_id": 350163, "title": "\uac15\ubcc0\ubd80\uc778", "original_title": "\uac15\ubcc0\ubd80\uc778", "slug_title": "gangbyeonbuin", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

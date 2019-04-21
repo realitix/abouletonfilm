@@ -1,0 +1,1 @@
+{"tmdb_id": 468358, "title": "La pierre, l'eau", "original_title": "La pierre, l'eau", "slug_title": "la-pierre-l-eau", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 489076, "title": "Bomba Queen", "original_title": "Bomba Queen", "slug_title": "bomba-queen", "date": "1985-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdDfzEmIXiwvPchmkGeAr3ZwQIM.jpg", "actors": ["Rita Gomez ()", "Myra Manibog ()", "Sarsi Emmanuelle ()"], "comments": [], "recommandations_id": []}

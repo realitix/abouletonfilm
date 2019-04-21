@@ -1,0 +1,1 @@
+{"tmdb_id": 267381, "title": "Romie-0 and Julie-8", "original_title": "Romie-0 and Julie-8", "slug_title": "romie-0-and-julie-8", "date": "1979-04-29", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/suMTfxBXl6sOcYZaFelxboR7c3L.jpg", "actors": ["Max Ferguson ()"], "comments": [], "recommandations_id": []}

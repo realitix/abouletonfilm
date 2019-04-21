@@ -1,0 +1,1 @@
+{"tmdb_id": 432835, "title": "Explosions: How We Shook the World", "original_title": "Explosions: How We Shook the World", "slug_title": "explosions-how-we-shook-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nPUW74z4aiez4CZXrP590v4ipLB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401394, "title": "Hands of Destiny", "original_title": "Hands of Destiny", "slug_title": "hands-of-destiny", "date": "1954-06-11", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josef Ranald (Himself / The Palm Reader)", "Hilda Fenemore (Mrs. Kane)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 404797, "title": "Numenera: Strand", "original_title": "Numenera: Strand", "slug_title": "numenera-strand", "date": "2015-11-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DUgEgOXudL0owMBob1T9zd4YGY.jpg", "actors": [], "comments": [], "recommandations_id": []}

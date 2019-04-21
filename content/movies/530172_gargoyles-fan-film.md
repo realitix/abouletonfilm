@@ -1,0 +1,1 @@
+{"tmdb_id": 530172, "title": "Gargoyles: Fan Film", "original_title": "Gargoyles: Fan Film", "slug_title": "gargoyles-fan-film", "date": "2018-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDPMqLbIx3e6NGrLy5lpFntnSkj.jpg", "actors": [], "comments": [], "recommandations_id": []}

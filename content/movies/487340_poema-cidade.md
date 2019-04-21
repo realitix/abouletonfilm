@@ -1,0 +1,1 @@
+{"tmdb_id": 487340, "title": "Poema: Cidade", "original_title": "Poema: Cidade", "slug_title": "poema-cidade", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284094, "title": "De Ganzenhoedster", "original_title": "The Goose Girl", "slug_title": "de-ganzenhoedster", "date": "1990-01-02", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZXgnAO6rf9fNFvYdWZSqu2coiJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

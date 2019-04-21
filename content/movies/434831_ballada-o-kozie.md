@@ -1,0 +1,1 @@
+{"tmdb_id": 434831, "title": "Ballada o kozie", "original_title": "Ballada o kozie", "slug_title": "ballada-o-kozie", "date": "2004-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5WxlULrzMGvBk9P2AK56DPbVHar.jpg", "actors": [], "comments": [], "recommandations_id": []}

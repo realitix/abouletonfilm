@@ -1,0 +1,1 @@
+{"tmdb_id": 467947, "title": "Amblyopia", "original_title": "Amblyopia", "slug_title": "amblyopia", "date": "1994-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

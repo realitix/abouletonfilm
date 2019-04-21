@@ -1,0 +1,1 @@
+{"tmdb_id": 537793, "title": "La Lectora", "original_title": "La Lectora", "slug_title": "la-lectora", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 356676, "title": "Teahupoo: CODE RED", "original_title": "Teahupoo: CODE RED", "slug_title": "teahupoo-code-red", "date": "2012-04-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

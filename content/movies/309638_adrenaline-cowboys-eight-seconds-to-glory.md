@@ -1,0 +1,1 @@
+{"tmdb_id": 309638, "title": "Adrenaline Cowboys: Eight Seconds to Glory", "original_title": "Adrenaline Cowboys: Eight Seconds to Glory", "slug_title": "adrenaline-cowboys-eight-seconds-to-glory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

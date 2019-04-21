@@ -1,0 +1,1 @@
+{"tmdb_id": 174339, "title": "The Project", "original_title": "The Project", "slug_title": "the-project", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

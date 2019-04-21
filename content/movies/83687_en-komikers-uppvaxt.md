@@ -1,0 +1,1 @@
+{"tmdb_id": 83687, "title": "En Komikers Uppv\u00e4xt", "original_title": "En Komikers Uppv\u00e4xt", "slug_title": "en-komikers-uppvaxt", "date": "1992-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjO4NlFaOi4GzMggduywn1DZVV6.jpg", "actors": [], "comments": [], "recommandations_id": []}

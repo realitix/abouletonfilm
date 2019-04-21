@@ -1,0 +1,1 @@
+{"tmdb_id": 369970, "title": "Hatobue wo Fuku Onna", "original_title": "Hatobue wo Fuku Onna", "slug_title": "hatobue-wo-fuku-onna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 221044, "title": "Phantom Kung Fu", "original_title": "You ling shen", "slug_title": "phantom-kung-fu", "date": "1979-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jGtONEDNPjW6nEpE3QkIaRVdAw7.jpg", "actors": ["Don Wong ()", "Chang Yi ()"], "comments": [], "recommandations_id": []}

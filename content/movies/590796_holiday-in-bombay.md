@@ -1,0 +1,1 @@
+{"tmdb_id": 590796, "title": "Holiday in Bombay", "original_title": "Holiday in Bombay", "slug_title": "holiday-in-bombay", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Rajendra Nath ()", "Naseem Banu ()", "Dhumal ()"], "comments": [], "recommandations_id": []}

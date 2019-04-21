@@ -1,0 +1,1 @@
+{"tmdb_id": 443901, "title": "F\u00e9f\u00e9 Limb\u00e9", "original_title": "F\u00e9f\u00e9 Limb\u00e9", "slug_title": "fefe-limbe", "date": "2016-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Valcy (F\u00e9f\u00e9)", "Eric Cilirie (Eric)", "Chantale Jacobson (Suzie)"], "comments": [], "recommandations_id": []}

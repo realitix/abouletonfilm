@@ -1,0 +1,1 @@
+{"tmdb_id": 488930, "title": "GETEBUTSU", "original_title": "GETEBUTSU", "slug_title": "getebutsu", "date": "2017-11-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

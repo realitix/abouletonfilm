@@ -1,0 +1,1 @@
+{"tmdb_id": 544280, "title": "Duarte, Traici\u00f3n y Gloria", "original_title": "Duarte, Traici\u00f3n y Gloria", "slug_title": "duarte-traicion-y-gloria", "date": "2014-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38L5CFTzWBe6D5mH0YUglwRunJ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

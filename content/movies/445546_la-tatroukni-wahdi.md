@@ -1,0 +1,1 @@
+{"tmdb_id": 445546, "title": "La tatroukni wahdi", "original_title": "La tatroukni wahdi", "slug_title": "la-tatroukni-wahdi", "date": "1975-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQx25KuuHqnGG9nqmMUVjeXDp6Z.jpg", "actors": ["Mervat Amin ()", "Ezzat El Alaili ()"], "comments": [], "recommandations_id": []}

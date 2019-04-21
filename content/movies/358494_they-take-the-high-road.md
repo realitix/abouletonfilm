@@ -1,0 +1,1 @@
+{"tmdb_id": 358494, "title": "They Take the High Road", "original_title": "They Take the High Road", "slug_title": "they-take-the-high-road", "date": "1960-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

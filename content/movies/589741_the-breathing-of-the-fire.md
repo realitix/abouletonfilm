@@ -1,0 +1,1 @@
+{"tmdb_id": 589741, "title": "The Breathing of the Fire", "original_title": "\ubd88\uc228", "slug_title": "the-breathing-of-the-fire", "date": "2019-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

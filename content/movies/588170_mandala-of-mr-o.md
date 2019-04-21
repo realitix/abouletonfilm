@@ -1,0 +1,1 @@
+{"tmdb_id": 588170, "title": "Mandala of Mr O", "original_title": "\uff2f\u6c0f\u306e\u66fc\u837c\u7f85", "slug_title": "mandala-of-mr-o", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kazuo Ohno ()"], "comments": [], "recommandations_id": []}

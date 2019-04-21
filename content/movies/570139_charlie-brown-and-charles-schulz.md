@@ -1,0 +1,1 @@
+{"tmdb_id": 570139, "title": "Charlie Brown and Charles Schulz", "original_title": "Charlie Brown and Charles Schulz", "slug_title": "charlie-brown-and-charles-schulz", "date": "1969-05-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

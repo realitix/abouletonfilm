@@ -1,0 +1,1 @@
+{"tmdb_id": 244652, "title": "Doctor De Soto", "original_title": "Doctor De Soto", "slug_title": "doctor-de-soto", "date": "1984-01-05", "genre": "Animation / Familial", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3UjssByJr1ZWdXhcrPokHKZIrN.jpg", "actors": ["Ian Thompson (Narrator)"], "comments": [], "recommandations_id": []}

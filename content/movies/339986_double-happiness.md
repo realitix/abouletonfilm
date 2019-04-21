@@ -1,0 +1,1 @@
+{"tmdb_id": 339986, "title": "Double Happiness", "original_title": "Double Happiness", "slug_title": "double-happiness", "date": "2014-04-01", "genre": "Histoire / Documentaire / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yakira Cang (Chinese Girl)"], "comments": [], "recommandations_id": []}

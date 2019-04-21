@@ -1,0 +1,1 @@
+{"tmdb_id": 57750, "title": "Kabaret Dudek: 10 Lat Kabaretu Dudek", "original_title": "Kabaret Dudek: 10 Lat Kabaretu Dudek", "slug_title": "kabaret-dudek-10-lat-kabaretu-dudek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

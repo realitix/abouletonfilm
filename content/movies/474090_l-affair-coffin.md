@@ -1,0 +1,1 @@
+{"tmdb_id": 474090, "title": "L'affair Coffin", "original_title": "L'affair Coffin", "slug_title": "l-affair-coffin", "date": "1980-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Micheline Lanct\u00f4t ()"], "comments": [], "recommandations_id": []}

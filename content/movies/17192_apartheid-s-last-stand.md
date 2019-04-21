@@ -1,0 +1,1 @@
+{"tmdb_id": 17192, "title": "Apartheid's Last Stand", "original_title": "Apartheid's Last Stand", "slug_title": "apartheid-s-last-stand", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lo4hgRuowbaQjSTuCx9H5skIm7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

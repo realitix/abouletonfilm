@@ -1,0 +1,1 @@
+{"tmdb_id": 418172, "title": "Crimen en las salinas", "original_title": "Crimen en las salinas", "slug_title": "crimen-en-las-salinas", "date": "2016-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5uyx6iKYANNBlPQ1iCRblQSZeC.jpg", "actors": [], "comments": [], "recommandations_id": []}

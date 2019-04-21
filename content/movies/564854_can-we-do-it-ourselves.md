@@ -1,0 +1,1 @@
+{"tmdb_id": 564854, "title": "Can We Do It Ourselves?", "original_title": "Can We Do It Ourselves?", "slug_title": "can-we-do-it-ourselves", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydSGhjVx0TrcjJJfD71fLg0kImw.jpg", "actors": [], "comments": [], "recommandations_id": []}

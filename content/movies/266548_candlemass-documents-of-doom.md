@@ -1,0 +1,1 @@
+{"tmdb_id": 266548, "title": "Candlemass - Documents of Doom", "original_title": "Candlemass - Documents of Doom", "slug_title": "candlemass-documents-of-doom", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q9PGUqzApFkKK9mfIy5VcYIMtfr.jpg", "actors": [], "comments": [], "recommandations_id": []}

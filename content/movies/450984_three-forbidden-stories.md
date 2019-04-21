@@ -1,0 +1,1 @@
+{"tmdb_id": 450984, "title": "Three Forbidden Stories", "original_title": "Tre storie proibite", "slug_title": "three-forbidden-stories", "date": "1952-10-29", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hhD2pq2oo7KRRSQj7DkwS2sP0lE.jpg", "actors": [], "comments": [], "recommandations_id": []}

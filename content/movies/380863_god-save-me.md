@@ -1,0 +1,1 @@
+{"tmdb_id": 380863, "title": "God... Save Me!", "original_title": "God... Save Me!", "slug_title": "god-save-me", "date": "1985-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtZXPVouWAaBAaMe3ijqA1UxXh5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531184, "title": "NGUYENing: The Lee Nguyen Story", "original_title": "NGUYENing: The Lee Nguyen Story", "slug_title": "nguyening-the-lee-nguyen-story", "date": "2017-10-20", "genre": "Documentaire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Nguyen (Himself)"], "comments": [], "recommandations_id": []}

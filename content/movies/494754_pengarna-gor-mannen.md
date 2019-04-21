@@ -1,0 +1,1 @@
+{"tmdb_id": 494754, "title": "Pengarna g\u00f6r mannen", "original_title": "Pengarna g\u00f6r mannen", "slug_title": "pengarna-gor-mannen", "date": "1984-09-26", "genre": "T\u00e9l\u00e9film / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Lindstedt (Hjalle Hjalmarsson)"], "comments": [], "recommandations_id": []}

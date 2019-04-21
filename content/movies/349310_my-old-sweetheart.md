@@ -1,0 +1,1 @@
+{"tmdb_id": 349310, "title": "My Old Sweetheart", "original_title": "\uc544\ucc0c \uc544\ube60", "slug_title": "my-old-sweetheart", "date": "1995-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vXQN43Yvj7INTiwHuMooKLVvwEL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352628, "title": "Sara K. - Made in the shade", "original_title": "Sara K. - Made in the shade", "slug_title": "sara-k-made-in-the-shade", "date": "2009-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pi5GRhDl2EnjqLcyDjpq3lKrCcr.jpg", "actors": ["Sara K. ()"], "comments": [], "recommandations_id": []}

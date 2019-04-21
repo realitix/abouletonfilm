@@ -1,0 +1,1 @@
+{"tmdb_id": 318426, "title": "Johnnie Taylor: Live in Dallas", "original_title": "Johnnie Taylor: Live in Dallas", "slug_title": "johnnie-taylor-live-in-dallas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

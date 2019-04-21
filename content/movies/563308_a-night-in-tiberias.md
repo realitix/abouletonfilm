@@ -1,0 +1,1 @@
+{"tmdb_id": 563308, "title": "A Night in Tiberias", "original_title": "Un soir \u00e0 Tib\u00e9riade", "slug_title": "a-night-in-tiberias", "date": "1966-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mwZlR0u9DN7fThl6qK6Y04vCSs.jpg", "actors": [], "comments": [], "recommandations_id": []}

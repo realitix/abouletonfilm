@@ -1,0 +1,1 @@
+{"tmdb_id": 451558, "title": "Mika and Seijun", "original_title": "\u307f\u304b\u3068\u305b\u3044\u3058\u3085\u3093", "slug_title": "mika-and-seijun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

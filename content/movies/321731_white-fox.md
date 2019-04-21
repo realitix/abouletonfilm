@@ -1,0 +1,1 @@
+{"tmdb_id": 321731, "title": "White Fox", "original_title": "\uf981\u5a18", "slug_title": "white-fox", "date": "1971-08-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dAYT5Les9TOTH89NPcImAeKFnJh.jpg", "actors": ["O Yu-gyeong ()", "Kim Hee-ra ()"], "comments": [], "recommandations_id": []}

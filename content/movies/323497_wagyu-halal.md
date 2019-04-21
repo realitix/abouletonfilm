@@ -1,0 +1,1 @@
+{"tmdb_id": 323497, "title": "Wagyu Halal", "original_title": "Wagyu Halal", "slug_title": "wagyu-halal", "date": "2014-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

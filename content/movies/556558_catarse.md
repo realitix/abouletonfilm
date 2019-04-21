@@ -1,0 +1,1 @@
+{"tmdb_id": 556558, "title": "Catarse", "original_title": "Catarse", "slug_title": "catarse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["In\u00eas Munhoz (Flavia)"], "comments": [], "recommandations_id": []}

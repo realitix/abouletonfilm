@@ -1,0 +1,1 @@
+{"tmdb_id": 184566, "title": "A Little Soap and Water", "original_title": "A Little Soap and Water", "slug_title": "a-little-soap-and-water", "date": "1935-06-20", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nf2sxbFv1lsbxlANPU3HGkY6wZm.jpg", "actors": [], "comments": [], "recommandations_id": []}

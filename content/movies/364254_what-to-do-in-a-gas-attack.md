@@ -1,0 +1,1 @@
+{"tmdb_id": 364254, "title": "What to Do in a Gas Attack", "original_title": "What to Do in a Gas Attack", "slug_title": "what-to-do-in-a-gas-attack", "date": "1942-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crpBeaXIeYiNXU8VNQDBNNi3ze6.jpg", "actors": [], "comments": [], "recommandations_id": []}

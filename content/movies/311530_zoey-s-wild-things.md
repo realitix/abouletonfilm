@@ -1,0 +1,1 @@
+{"tmdb_id": 311530, "title": "Zoey's Wild Things", "original_title": "Zoey's Wild Things", "slug_title": "zoey-s-wild-things", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

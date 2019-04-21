@@ -1,0 +1,1 @@
+{"tmdb_id": 561694, "title": "My Sweets", "original_title": "My Sweets", "slug_title": "my-sweets", "date": "2013-10-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

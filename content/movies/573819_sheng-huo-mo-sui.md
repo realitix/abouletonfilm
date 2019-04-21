@@ -1,0 +1,1 @@
+{"tmdb_id": 573819, "title": "\u751f\u6d3b\u4e07\u5c81", "original_title": "\u751f\u6d3b\u4e07\u5c81", "slug_title": "sheng-huo-mo-sui", "date": "2018-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8j5540qq3pWNBf59zvHrrS73emR.jpg", "actors": [], "comments": [], "recommandations_id": []}

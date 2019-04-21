@@ -1,0 +1,1 @@
+{"tmdb_id": 256188, "title": "Charlemagne 2: Piltzer", "original_title": "Charlemagne 2: Piltzer", "slug_title": "charlemagne-2-piltzer", "date": "2002-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFvB2B0AgW9z9XkoxC6pAcu9BcQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 150320, "title": "Scorsese on Scorsese", "original_title": "Scorsese on Scorsese", "slug_title": "scorsese-on-scorsese", "date": "2004-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c1u7gudDHDvJzlXkZMm40ZTEkis.jpg", "actors": ["Martin Scorsese (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344350, "title": "The War for Men's Minds", "original_title": "The War for Men's Minds", "slug_title": "the-war-for-men-s-minds", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

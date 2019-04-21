@@ -1,0 +1,1 @@
+{"tmdb_id": 392379, "title": "Video Essentials", "original_title": "Video Essentials", "slug_title": "video-essentials", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/is7OiE8RUp8cyEZiNAGWmKsWal2.jpg", "actors": [], "comments": [], "recommandations_id": []}

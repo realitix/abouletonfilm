@@ -1,0 +1,1 @@
+{"tmdb_id": 430323, "title": "Bruno e Gina", "original_title": "Bruno e Gina", "slug_title": "bruno-e-gina", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

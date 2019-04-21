@@ -1,0 +1,1 @@
+{"tmdb_id": 237282, "title": "The Rattled Rooster", "original_title": "The Rattled Rooster", "slug_title": "the-rattled-rooster", "date": "1948-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgkZoKwPnaGgfNYwa41zOk5qj7h.jpg", "actors": [], "comments": [], "recommandations_id": []}

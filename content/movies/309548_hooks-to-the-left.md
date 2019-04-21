@@ -1,0 +1,1 @@
+{"tmdb_id": 309548, "title": "Hooks to the Left", "original_title": "Hooks to the Left", "slug_title": "hooks-to-the-left", "date": "2006-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73tOX3qvQOvAdxrlNjwURDf6Ccx.jpg", "actors": [], "comments": [], "recommandations_id": []}

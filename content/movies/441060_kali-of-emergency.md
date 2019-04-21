@@ -1,0 +1,1 @@
+{"tmdb_id": 441060, "title": "Kali of Emergency", "original_title": "Aapothkalin Trikalika", "slug_title": "kali-of-emergency", "date": "2017-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruma Poddar ()", "Saswati Biswas ()", "Shamistha Nag ()", "Siddhartha Banerjee ()"], "comments": [], "recommandations_id": []}

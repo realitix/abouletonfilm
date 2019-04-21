@@ -1,0 +1,1 @@
+{"tmdb_id": 196342, "title": "The Icelandic Althing Visits Copenhagen", "original_title": "Islands Altings bes\u00f6g i K\u00f6benhavn", "slug_title": "the-icelandic-althing-visits-copenhagen", "date": "1906-05-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

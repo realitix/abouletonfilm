@@ -1,0 +1,1 @@
+{"tmdb_id": 396400, "title": "The Biggest Fist", "original_title": "The Biggest Fist", "slug_title": "the-biggest-fist", "date": "1983-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389472, "title": "Il re della moda", "original_title": "Il re della moda", "slug_title": "il-re-della-moda", "date": "1914-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giuseppe Gambardella (Checco)", "Lorenzo Soderini (Checco's Wife)"], "comments": [], "recommandations_id": []}

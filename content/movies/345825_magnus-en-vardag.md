@@ -1,0 +1,1 @@
+{"tmdb_id": 345825, "title": "Magnus - en v\u00e5rdag", "original_title": "Magnus - en v\u00e5rdag", "slug_title": "magnus-en-vardag", "date": "2013-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magnus Lilleberg ()"], "comments": [], "recommandations_id": []}

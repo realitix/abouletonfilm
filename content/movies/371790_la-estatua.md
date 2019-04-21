@@ -1,0 +1,1 @@
+{"tmdb_id": 371790, "title": "La estatua", "original_title": "La estatua", "slug_title": "la-estatua", "date": "1961-12-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pollino 'Romero' ()", "Gregorio Aguado ()", "Juan\u00edn Aguado ()", "Alicia Altabella ()", "Javier Armet ()"], "comments": [], "recommandations_id": []}

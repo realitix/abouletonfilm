@@ -1,0 +1,1 @@
+{"tmdb_id": 446521, "title": "B\u00f6gj\u00e4vlar", "original_title": "B\u00f6gj\u00e4vlar", "slug_title": "bogjavlar", "date": "1977-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7L1NKnCnIkJ1Bud5yBYSAPNy0ob.jpg", "actors": [], "comments": [], "recommandations_id": []}

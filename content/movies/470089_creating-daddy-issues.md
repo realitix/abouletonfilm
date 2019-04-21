@@ -1,0 +1,1 @@
+{"tmdb_id": 470089, "title": "Creating Daddy Issues", "original_title": "Creating Daddy Issues", "slug_title": "creating-daddy-issues", "date": "2017-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/on6bfAoebfIAIip5Adl9IcDQ1c4.jpg", "actors": ["Camille Black ()"], "comments": [], "recommandations_id": []}

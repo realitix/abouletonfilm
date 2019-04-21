@@ -1,0 +1,1 @@
+{"tmdb_id": 480567, "title": "Pitchfork and the Devil", "original_title": "Pitchfork and the Devil", "slug_title": "pitchfork-and-the-devil", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qB4QS5tByg3uRodkPDuvNTyBNTP.jpg", "actors": [], "comments": [], "recommandations_id": []}

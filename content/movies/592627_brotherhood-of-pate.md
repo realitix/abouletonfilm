@@ -1,0 +1,1 @@
+{"tmdb_id": 592627, "title": "Brotherhood of Pate", "original_title": "Pa\u0161teto Brolija", "slug_title": "brotherhood-of-pate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

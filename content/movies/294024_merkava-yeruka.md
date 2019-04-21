@@ -1,0 +1,1 @@
+{"tmdb_id": 294024, "title": "Merkava Yeruka", "original_title": "Merkava Yeruka", "slug_title": "merkava-yeruka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

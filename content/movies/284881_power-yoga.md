@@ -1,0 +1,1 @@
+{"tmdb_id": 284881, "title": "Power Yoga", "original_title": "Power Yoga", "slug_title": "power-yoga", "date": "2010-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4NeDlfayctSE3nGsEBWLFwuUza1.jpg", "actors": [], "comments": [], "recommandations_id": []}

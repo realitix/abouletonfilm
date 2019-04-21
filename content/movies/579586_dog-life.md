@@ -1,0 +1,1 @@
+{"tmdb_id": 579586, "title": "Dog Life", "original_title": "Vida Perra", "slug_title": "dog-life", "date": "2019-01-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIm2vRJDWE3w4Zz8PnZgTy8La5T.jpg", "actors": [], "comments": [], "recommandations_id": []}

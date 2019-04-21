@@ -1,0 +1,1 @@
+{"tmdb_id": 303313, "title": "Seenu Gadu Chiranjeevi Fan", "original_title": "Seenu Gadu Chiranjeevi Fan", "slug_title": "seenu-gadu-chiranjeevi-fan", "date": "2005-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

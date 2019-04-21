@@ -1,0 +1,1 @@
+{"tmdb_id": 548969, "title": "Quick Constant and Solid Instant", "original_title": "Quick Constant and Solid Instant", "slug_title": "quick-constant-and-solid-instant", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

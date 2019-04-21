@@ -1,0 +1,1 @@
+{"tmdb_id": 338969, "title": "The Toxic Avenger", "original_title": "The Toxic Avenger", "slug_title": "the-toxic-avenger", "date": "", "genre": "Action / Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

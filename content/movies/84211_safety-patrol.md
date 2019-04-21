@@ -1,0 +1,1 @@
+{"tmdb_id": 84211, "title": "Safety Patrol", "original_title": "Safety Patrol", "slug_title": "safety-patrol", "date": "1998-03-29", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yorGDqYCzZeBDsbrW15LE09lzn.jpg", "actors": [], "comments": [], "recommandations_id": [88651, 106973, 123615, 79876]}

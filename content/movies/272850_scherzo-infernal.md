@@ -1,0 +1,1 @@
+{"tmdb_id": 272850, "title": "Scherzo Infernal", "original_title": "Scherzo Infernal", "slug_title": "scherzo-infernal", "date": "1984-01-01", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u81bQM1MD0oHeDAIV8r2DmikRCV.jpg", "actors": ["Yves Robert (Narrator)"], "comments": [], "recommandations_id": [281156]}

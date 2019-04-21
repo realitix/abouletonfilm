@@ -1,0 +1,1 @@
+{"tmdb_id": 317671, "title": "Shakespeare 4 Kidz: Macbeth", "original_title": "Shakespeare 4 Kidz: Macbeth", "slug_title": "shakespeare-4-kidz-macbeth", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TQYHdYmKlcGbmgBJc3a3jWChld.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391831, "title": "God Rocks! Bibletoons: Grow in the Lord", "original_title": "God Rocks! Bibletoons: Grow in the Lord", "slug_title": "god-rocks-bibletoons-grow-in-the-lord", "date": "2006-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

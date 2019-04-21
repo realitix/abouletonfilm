@@ -1,0 +1,1 @@
+{"tmdb_id": 506696, "title": "Medusa\u2019s Gaze", "original_title": "Medusa\u2019s Gaze", "slug_title": "medusas-gaze", "date": "2010-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwa7ObvCjlRNNfTtJCV4vVDXQ1x.jpg", "actors": [], "comments": [], "recommandations_id": []}

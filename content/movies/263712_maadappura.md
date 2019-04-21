@@ -1,0 +1,1 @@
+{"tmdb_id": 263712, "title": "Maadappura", "original_title": "Maadappura", "slug_title": "maadappura", "date": "1962-02-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbMsVZEgYas2vsHAbDyC8NXzMaX.jpg", "actors": ["M. G. Ramachandran ()", "B. Saroja Devi ()", "Nagesh ()"], "comments": [], "recommandations_id": []}

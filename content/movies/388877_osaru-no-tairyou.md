@@ -1,0 +1,1 @@
+{"tmdb_id": 388877, "title": "Osaru no Tairyou", "original_title": "Osaru no Tairyou", "slug_title": "osaru-no-tairyou", "date": "1933-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJVnb3i9OHUplzJs00yJScqAsfb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478876, "title": "Vanilla Cake with Strawberry Filling", "original_title": "Vanilla Cake with Strawberry Filling", "slug_title": "vanilla-cake-with-strawberry-filling", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

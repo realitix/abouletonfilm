@@ -1,0 +1,1 @@
+{"tmdb_id": 351958, "title": "Project Re: Brief", "original_title": "Project Re: Brief", "slug_title": "project-re-brief", "date": "2012-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oiCFQOEQY9r76fw7Qew53FUKdzY.jpg", "actors": [], "comments": [], "recommandations_id": []}

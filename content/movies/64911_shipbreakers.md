@@ -1,0 +1,1 @@
+{"tmdb_id": 64911, "title": "Shipbreakers", "original_title": "Shipbreakers", "slug_title": "shipbreakers", "date": "2004-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jR2TlCfmt8aHJP2TKvSHJxYpxnl.jpg", "actors": [], "comments": [], "recommandations_id": []}

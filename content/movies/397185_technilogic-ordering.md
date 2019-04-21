@@ -1,0 +1,1 @@
+{"tmdb_id": 397185, "title": "Technilogic Ordering", "original_title": "Technilogic Ordering", "slug_title": "technilogic-ordering", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZSmTrivs0oFT2VciYJEWzvjMGI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347721, "title": "Walls, Coats, Shadows", "original_title": "Zidovi, pla\u0161\u010di, sence", "slug_title": "walls-coats-shadows", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

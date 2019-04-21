@@ -1,0 +1,1 @@
+{"tmdb_id": 284784, "title": "Ky\u00f4ya erimise", "original_title": "Ky\u00f4ya erimise", "slug_title": "kyoya-erimise", "date": "1922-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hideo Fujino ()", "Kichiya \u00d4i ()", "Atsushi Arai ()"], "comments": [], "recommandations_id": []}

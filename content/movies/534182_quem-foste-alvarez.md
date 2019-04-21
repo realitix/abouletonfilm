@@ -1,0 +1,1 @@
+{"tmdb_id": 534182, "title": "Quem Foste, Alvarez?", "original_title": "Quem Foste, Alvarez?", "slug_title": "quem-foste-alvarez", "date": "1988-11-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVsaPSwi1JCSHvuEYAwueEMSAjX.jpg", "actors": [], "comments": [], "recommandations_id": []}

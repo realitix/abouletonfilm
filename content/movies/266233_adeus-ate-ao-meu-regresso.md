@@ -1,0 +1,1 @@
+{"tmdb_id": 266233, "title": "Adeus, At\u00e9 ao Meu Regresso", "original_title": "Adeus, At\u00e9 ao Meu Regresso", "slug_title": "adeus-ate-ao-meu-regresso", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNYrBgPXiO1TLxpw5KwB3EeH7qa.jpg", "actors": [], "comments": [], "recommandations_id": []}

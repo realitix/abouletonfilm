@@ -1,0 +1,1 @@
+{"tmdb_id": 496625, "title": "The Child Soldier's New Job", "original_title": "The Child Soldier's New Job", "slug_title": "the-child-soldier-s-new-job", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

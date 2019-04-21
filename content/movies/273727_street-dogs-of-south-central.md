@@ -1,0 +1,1 @@
+{"tmdb_id": 273727, "title": "Street Dogs of South Central", "original_title": "Street Dogs of South Central", "slug_title": "street-dogs-of-south-central", "date": "2013-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

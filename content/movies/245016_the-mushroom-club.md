@@ -1,0 +1,1 @@
+{"tmdb_id": 245016, "title": "The Mushroom Club", "original_title": "The Mushroom Club", "slug_title": "the-mushroom-club", "date": "2005-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXpNjKsHFNtBOrd2DfzKVs2gi00.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 505215, "title": "Il profeta della bassa", "original_title": "Il profeta della bassa", "slug_title": "il-profeta-della-bassa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

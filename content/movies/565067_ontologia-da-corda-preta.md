@@ -1,0 +1,1 @@
+{"tmdb_id": 565067, "title": "Ontologia da Corda Preta", "original_title": "Ontologia da Corda Preta", "slug_title": "ontologia-da-corda-preta", "date": "2018-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anton Hack ()", "Alvimar Braga ()", "Daniel Jaber ()", "S\u00e1vio Leite ()"], "comments": [], "recommandations_id": []}

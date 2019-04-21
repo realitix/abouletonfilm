@@ -1,0 +1,1 @@
+{"tmdb_id": 280369, "title": "Aduththaduththu", "original_title": "Aduththaduththu", "slug_title": "aduththaduththu", "date": "1984-07-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

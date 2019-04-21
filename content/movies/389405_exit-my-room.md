@@ -1,0 +1,1 @@
+{"tmdb_id": 389405, "title": "Exit My Room", "original_title": "\u304a\u3067\u304b\u3051", "slug_title": "exit-my-room", "date": "2014-05-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/biuk546HEwxSweDYgE0Y4L5TfGo.jpg", "actors": [], "comments": [], "recommandations_id": []}

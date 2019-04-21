@@ -1,0 +1,1 @@
+{"tmdb_id": 357316, "title": "Rabbit Ears - The Monkey People", "original_title": "Rabbit Ears - The Monkey People", "slug_title": "rabbit-ears-the-monkey-people", "date": "1990-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nm4FQKwxRPNzIzsQ2HX3ihleEXL.jpg", "actors": [], "comments": [], "recommandations_id": []}

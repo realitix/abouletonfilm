@@ -1,0 +1,1 @@
+{"tmdb_id": 318271, "title": "Mystikal: Mardi-Raw: Up Close & Uncensored", "original_title": "Mystikal: Mardi-Raw: Up Close & Uncensored", "slug_title": "mystikal-mardi-raw-up-close-uncensored", "date": "2001-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323455, "title": "Samurai Johnny Frankenstein Black and White", "original_title": "Samurai Johnny Frankenstein Black and White", "slug_title": "samurai-johnny-frankenstein-black-and-white", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

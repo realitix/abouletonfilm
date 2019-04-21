@@ -1,0 +1,1 @@
+{"tmdb_id": 302111, "title": "Grab a Hunk of Lightning", "original_title": "Grab a Hunk of Lightning", "slug_title": "grab-a-hunk-of-lightning", "date": "2014-08-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

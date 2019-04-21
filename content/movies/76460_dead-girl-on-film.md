@@ -1,0 +1,1 @@
+{"tmdb_id": 76460, "title": "Dead Girl on Film", "original_title": "Dead Girl on Film", "slug_title": "dead-girl-on-film", "date": "2010-01-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

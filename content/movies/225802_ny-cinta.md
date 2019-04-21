@@ -1,0 +1,1 @@
+{"tmdb_id": 225802, "title": "NY Cinta", "original_title": "NY Cinta", "slug_title": "ny-cinta", "date": "2013-09-24", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9G5qpoPf1F57BpK9gfjlNTg0zwW.jpg", "actors": ["Liyana Jasmay ()", "Bront Palarae ()"], "comments": [], "recommandations_id": []}

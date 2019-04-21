@@ -1,0 +1,1 @@
+{"tmdb_id": 377285, "title": "The Secret Weapon", "original_title": "The Secret Weapon", "slug_title": "the-secret-weapon", "date": "1963-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1h2vxyNDCk8YjxYGK3Ddv6j7H9.jpg", "actors": ["Paul Frees (Voices)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323985, "title": "Israel: Shlomo Chaim In Israel", "original_title": "Israel: Shlomo Chaim In Israel", "slug_title": "israel-shlomo-chaim-in-israel", "date": "2007-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

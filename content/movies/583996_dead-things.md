@@ -1,0 +1,1 @@
+{"tmdb_id": 583996, "title": "Dead Things", "original_title": "Dead Things", "slug_title": "dead-things", "date": "1986-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

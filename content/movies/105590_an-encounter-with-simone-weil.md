@@ -1,0 +1,1 @@
+{"tmdb_id": 105590, "title": "An Encounter With Simone Weil", "original_title": "An Encounter With Simone Weil", "slug_title": "an-encounter-with-simone-weil", "date": "2012-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Jc9oUXXOKBBmDDceYv3s2VTVEs.jpg", "actors": [], "comments": [], "recommandations_id": []}

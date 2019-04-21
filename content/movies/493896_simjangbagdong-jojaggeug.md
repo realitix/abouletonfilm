@@ -1,0 +1,1 @@
+{"tmdb_id": 493896, "title": "\uc2ec\uc7a5\ubc15\ub3d9 \uc870\uc791\uadf9", "original_title": "\uc2ec\uc7a5\ubc15\ub3d9 \uc870\uc791\uadf9", "slug_title": "simjangbagdong-jojaggeug", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

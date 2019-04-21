@@ -1,0 +1,1 @@
+{"tmdb_id": 419015, "title": "Il finish delle figure", "original_title": "Il finish delle figure", "slug_title": "il-finish-delle-figure", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPEmUWRk6K1IaAQbmc80gLpufMJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

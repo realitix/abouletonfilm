@@ -1,0 +1,1 @@
+{"tmdb_id": 538307, "title": "Le m\u00e9pris n'aura qu'un temps", "original_title": "Le m\u00e9pris n'aura qu'un temps", "slug_title": "le-mepris-n-aura-qu-un-temps", "date": "1977-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

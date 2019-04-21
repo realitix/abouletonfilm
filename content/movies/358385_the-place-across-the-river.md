@@ -1,0 +1,1 @@
+{"tmdb_id": 358385, "title": "The Place Across the River", "original_title": "The Place Across the River", "slug_title": "the-place-across-the-river", "date": "1977-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

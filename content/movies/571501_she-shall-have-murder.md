@@ -1,0 +1,1 @@
+{"tmdb_id": 571501, "title": "She Shall Have Murder", "original_title": "She Shall Have Murder", "slug_title": "she-shall-have-murder", "date": "1950-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosamund John (Jane Hamish)", "Derrick De Marney (Dagobert Brown)"], "comments": [], "recommandations_id": []}

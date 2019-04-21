@@ -1,0 +1,1 @@
+{"tmdb_id": 547772, "title": "The Woman with the Torch : Elsie Inglis's War", "original_title": "The Woman with the Torch : Elsie Inglis's War", "slug_title": "the-woman-with-the-torch-elsie-inglis-s-war", "date": "", "genre": "Drame / Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

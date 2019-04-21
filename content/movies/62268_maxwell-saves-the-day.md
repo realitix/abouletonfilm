@@ -1,0 +1,1 @@
+{"tmdb_id": 62268, "title": "Maxwell Saves the Day", "original_title": "Maxwell Saves the Day", "slug_title": "maxwell-saves-the-day", "date": "2005-02-22", "genre": "Familial", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCGsfXeuEJwkmL3lhrdOH0X1M6V.jpg", "actors": [], "comments": [], "recommandations_id": []}

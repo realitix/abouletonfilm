@@ -1,0 +1,1 @@
+{"tmdb_id": 300075, "title": "A Clinical Theory of Everything", "original_title": "A Clinical Theory of Everything", "slug_title": "a-clinical-theory-of-everything", "date": "2013-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

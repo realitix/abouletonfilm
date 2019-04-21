@@ -1,0 +1,1 @@
+{"tmdb_id": 533564, "title": "KiyaKiya", "original_title": "KiyaKiya", "slug_title": "kiyakiya", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEmCg9pgN2PPSsLkAADrrP3Kl35.jpg", "actors": [], "comments": [], "recommandations_id": []}

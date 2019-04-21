@@ -1,0 +1,1 @@
+{"tmdb_id": 365158, "title": "Damnation of Faust Trilogy", "original_title": "Damnation of Faust Trilogy", "slug_title": "damnation-of-faust-trilogy", "date": "1987-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

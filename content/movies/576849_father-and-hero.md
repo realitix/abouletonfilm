@@ -1,0 +1,1 @@
+{"tmdb_id": 576849, "title": "Father and Hero", "original_title": "\u4fa0\u8def\u76f8\u9022", "slug_title": "father-and-hero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5sAPfsYcLcYyrwdS79Up5TjWtA3.jpg", "actors": ["Jiang Wu ()", "Shao Bing ()", "Rao Yao ()"], "comments": [], "recommandations_id": []}

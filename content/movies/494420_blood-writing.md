@@ -1,0 +1,1 @@
+{"tmdb_id": 494420, "title": "Blood Writing", "original_title": "Blood Writing", "slug_title": "blood-writing", "date": "1974-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61cpSHlXZe042veCf0xdK1OJYRp.jpg", "actors": [], "comments": [], "recommandations_id": []}

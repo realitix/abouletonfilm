@@ -1,0 +1,1 @@
+{"tmdb_id": 197302, "title": "The Sacred Science", "original_title": "The Sacred Science", "slug_title": "the-sacred-science", "date": "2011-05-26", "genre": "Documentaire / Aventure / Drame", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDLDEJSFdDbL8rLEt0a9hIizZT4.jpg", "actors": [], "comments": [], "recommandations_id": []}

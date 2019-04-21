@@ -1,0 +1,1 @@
+{"tmdb_id": 568144, "title": "Swing troubadour", "original_title": "Swing troubadour", "slug_title": "swing-troubadour", "date": "1991-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjO2rQM2VL3Aljhs2UQxoEZz6Gu.jpg", "actors": [], "comments": [], "recommandations_id": []}

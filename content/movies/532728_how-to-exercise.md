@@ -1,0 +1,1 @@
+{"tmdb_id": 532728, "title": "How to Exercise?", "original_title": "How to Exercise?", "slug_title": "how-to-exercise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

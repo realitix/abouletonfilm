@@ -1,0 +1,1 @@
+{"tmdb_id": 465629, "title": "Solitaire", "original_title": "Solitaire", "slug_title": "solitaire", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kehli O'Byrne (Deidra)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 216057, "title": "Bienvenido/Welcome 2", "original_title": "Bienvenido/Welcome 2", "slug_title": "bienvenido-welcome-2", "date": "2006-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vYVfDZn9IJlsi0y5sNLMVfVSOo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344700, "title": "Kimi Kabuki", "original_title": "Kimi Kabuki", "slug_title": "kimi-kabuki", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwAissIeoXIm9nyfoTk1IskD2tM.jpg", "actors": ["Jo Mei (Kimi Kabuki)"], "comments": [], "recommandations_id": []}

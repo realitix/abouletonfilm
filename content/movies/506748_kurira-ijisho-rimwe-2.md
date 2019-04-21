@@ -1,0 +1,1 @@
+{"tmdb_id": 506748, "title": "Kurira ijisho rimwe 2", "original_title": "Kurira ijisho rimwe 2", "slug_title": "kurira-ijisho-rimwe-2", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkl5fWKZnIQG2ufurHdoyzhfznG.jpg", "actors": [], "comments": [], "recommandations_id": []}

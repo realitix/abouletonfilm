@@ -1,0 +1,1 @@
+{"tmdb_id": 389167, "title": "\u00bfNi vencedores ni vencidos?", "original_title": "\u00bfNi vencedores ni vencidos?", "slug_title": "ni-vencedores-ni-vencidos", "date": "1972-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

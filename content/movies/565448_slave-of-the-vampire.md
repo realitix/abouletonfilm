@@ -1,0 +1,1 @@
+{"tmdb_id": 565448, "title": "Slave of the Vampire", "original_title": "Slave of the Vampire", "slug_title": "slave-of-the-vampire", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anNrB3BVKWxoOCihFcEFXFKN2VK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 184513, "title": "One-Room Schoolhouses", "original_title": "One-Room Schoolhouses", "slug_title": "one-room-schoolhouses", "date": "1935-04-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 405100, "title": "David Hockney - Joiner Photographs", "original_title": "David Hockney - Joiner Photographs", "slug_title": "david-hockney-joiner-photographs", "date": "1983-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

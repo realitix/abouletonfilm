@@ -1,0 +1,1 @@
+{"tmdb_id": 252644, "title": "God's Precious Jewels", "original_title": "God's Precious Jewels", "slug_title": "god-s-precious-jewels", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

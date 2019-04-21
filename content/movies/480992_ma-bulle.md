@@ -1,0 +1,1 @@
+{"tmdb_id": 480992, "title": "Ma bulle", "original_title": "Ma bulle", "slug_title": "ma-bulle", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

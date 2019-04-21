@@ -1,0 +1,1 @@
+{"tmdb_id": 551039, "title": "A Legend of Parts", "original_title": "A Legend of Parts", "slug_title": "a-legend-of-parts", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s72UOpQDcArXZKGuNwG6MjY9ptr.jpg", "actors": [], "comments": [], "recommandations_id": []}

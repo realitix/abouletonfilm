@@ -1,0 +1,1 @@
+{"tmdb_id": 348008, "title": "Yoga for Beginners and Beyond", "original_title": "Yoga for Beginners and Beyond", "slug_title": "yoga-for-beginners-and-beyond", "date": "2010-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QFFKCiobCXP8M4vIvK3QbLNhsH.jpg", "actors": [], "comments": [], "recommandations_id": []}

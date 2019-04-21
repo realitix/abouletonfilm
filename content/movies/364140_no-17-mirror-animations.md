@@ -1,0 +1,1 @@
+{"tmdb_id": 364140, "title": "No. 17: Mirror Animations", "original_title": "No. 17: Mirror Animations", "slug_title": "no-17-mirror-animations", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

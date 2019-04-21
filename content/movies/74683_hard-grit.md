@@ -1,0 +1,1 @@
+{"tmdb_id": 74683, "title": "Hard Grit", "original_title": "Hard Grit", "slug_title": "hard-grit", "date": "1998-10-06", "genre": "Drame / Action", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqOtrwJUBVcmjRyiT0e3MpCM1tJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

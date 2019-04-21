@@ -1,0 +1,1 @@
+{"tmdb_id": 340897, "title": "Goodbye for Tomorrow", "original_title": "Ashita", "slug_title": "goodbye-for-tomorrow", "date": "1995-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxjJVWv3SVYDlbF38Ffg57F0fKk.jpg", "actors": ["Miyoko Akaza (Megumi's Mother)"], "comments": [], "recommandations_id": []}

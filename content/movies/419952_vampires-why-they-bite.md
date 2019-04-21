@@ -1,0 +1,1 @@
+{"tmdb_id": 419952, "title": "Vampires: Why They Bite", "original_title": "Vampires: Why They Bite", "slug_title": "vampires-why-they-bite", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

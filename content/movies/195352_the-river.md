@@ -1,0 +1,1 @@
+{"tmdb_id": 195352, "title": "The River", "original_title": "\u0420\u0435\u043a\u0430", "slug_title": "the-river", "date": "2002-01-16", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49FMbKBYZyxo1qDPOtSoKKBLubd.jpg", "actors": ["Vasily Borisov ()", "Anna Flegontova ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 464529, "title": "Divertimento", "original_title": "Divertimento", "slug_title": "divertimento", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQTSZT4l2jWr2ZTkAWlIL0oP65H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539433, "title": "Kapten Grogg har blivit fet", "original_title": "Kapten Grogg har blivit fet", "slug_title": "kapten-grogg-har-blivit-fet", "date": "1922-07-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

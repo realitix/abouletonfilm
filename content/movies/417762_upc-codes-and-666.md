@@ -1,0 +1,1 @@
+{"tmdb_id": 417762, "title": "UPC Codes and 666", "original_title": "UPC Codes and 666", "slug_title": "upc-codes-and-666", "date": "1994-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVtUzZGZC4tPM9inSY1BbrHCslu.jpg", "actors": ["Rev. John Shepherd ()"], "comments": [], "recommandations_id": []}

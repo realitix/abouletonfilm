@@ -1,0 +1,1 @@
+{"tmdb_id": 341233, "title": "Heroic Pioneers", "original_title": "Tangshan guo Taiwan", "slug_title": "heroic-pioneers", "date": "1986-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2BnoGGiJR8pEOnSq2wdF7Nxqves.jpg", "actors": [], "comments": [], "recommandations_id": []}

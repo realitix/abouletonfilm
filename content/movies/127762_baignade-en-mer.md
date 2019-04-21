@@ -1,0 +1,1 @@
+{"tmdb_id": 127762, "title": "Baignade en Mer", "original_title": "Baignade en Mer", "slug_title": "baignade-en-mer", "date": "1895-12-28", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jt7xCKXBAJSZG1FtwEgD0FM1ExY.jpg", "actors": [], "comments": [], "recommandations_id": [127764, 127777, 208234, 127792]}

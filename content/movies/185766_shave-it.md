@@ -1,0 +1,1 @@
+{"tmdb_id": 185766, "title": "Shave It", "original_title": "Shave It", "slug_title": "shave-it", "date": "2012-07-26", "genre": "Fantastique", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Udb4NhvKYSMP6ft1LFLmrU4IRO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289298, "title": "Buffalo Bill", "original_title": "Buffalo Bill", "slug_title": "buffalo-bill", "date": "1894-06-17", "genre": "Western / Documentaire", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William F. Cody (Himself)"], "comments": [], "recommandations_id": []}

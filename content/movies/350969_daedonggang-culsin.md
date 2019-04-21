@@ -1,0 +1,1 @@
+{"tmdb_id": 350969, "title": "\ub300\ub3d9\uac15 \ucd9c\uc2e0", "original_title": "\ub300\ub3d9\uac15 \ucd9c\uc2e0", "slug_title": "daedonggang-culsin", "date": "1978-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

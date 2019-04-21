@@ -1,0 +1,1 @@
+{"tmdb_id": 288580, "title": "Aldo Lima Pior que Estragado", "original_title": "Aldo Lima Pior que Estragado", "slug_title": "aldo-lima-pior-que-estragado", "date": "2006-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

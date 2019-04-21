@@ -1,0 +1,1 @@
+{"tmdb_id": 496511, "title": "Name of the Game, Sports Tales and Tunes", "original_title": "Name of the Game, Sports Tales and Tunes", "slug_title": "name-of-the-game-sports-tales-and-tunes", "date": "1994-08-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

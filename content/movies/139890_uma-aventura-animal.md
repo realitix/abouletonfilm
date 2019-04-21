@@ -1,0 +1,1 @@
+{"tmdb_id": 139890, "title": "Uma Aventura Animal", "original_title": "Uma Aventura Animal", "slug_title": "uma-aventura-animal", "date": "", "genre": "Animation / Aventure / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oAZTxWE873I7i8aIeCEFY53EW4V.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 292671, "title": "A Withered Tree Meets Spring", "original_title": "Kumu fengchun", "slug_title": "a-withered-tree-meets-spring", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

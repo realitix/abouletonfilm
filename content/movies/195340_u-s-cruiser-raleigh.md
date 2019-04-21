@@ -1,0 +1,1 @@
+{"tmdb_id": 195340, "title": "U.S. Cruiser 'Raleigh'", "original_title": "U.S. Cruiser 'Raleigh'", "slug_title": "u-s-cruiser-raleigh", "date": "1899-04-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345072, "title": "The Accidental Detective", "original_title": "Detective x Caso", "slug_title": "the-accidental-detective", "date": "2003-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

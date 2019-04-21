@@ -1,0 +1,1 @@
+{"tmdb_id": 41879, "title": "Built Upon the Rock", "original_title": "Built Upon the Rock", "slug_title": "built-upon-the-rock", "date": "2004-06-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unnO58AXSrbwzSOVXJt36r7m77p.jpg", "actors": [], "comments": [], "recommandations_id": []}

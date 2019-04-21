@@ -1,0 +1,1 @@
+{"tmdb_id": 115818, "title": "Goofs and Saddles", "original_title": "Goofs and Saddles", "slug_title": "goofs-and-saddles", "date": "1937-07-02", "genre": "Com\u00e9die / Western", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Larry Fine ()", "Moe Howard ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413772, "title": "la Ciencia del P\u00e1nico", "original_title": "la Ciencia del P\u00e1nico", "slug_title": "la-ciencia-del-panico", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLFTKiwp75PAd9tyvJES49Z16vs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 128348, "title": "Le Prigioniere dell'isola del diavolo", "original_title": "Le Prigioniere dell'isola del diavolo", "slug_title": "le-prigioniere-dell-isola-del-diavolo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 483940, "title": "Squareworld", "original_title": "Sukueawaarudo", "slug_title": "squareworld", "date": "1995-10-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natsuyo Kanahama (The Victim)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 292635, "title": "White Handkerchief", "original_title": "Beyaz mendil", "slug_title": "white-handkerchief", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fikret Hakan ()", "Ruth Elizabeth ()", "Sadik Akarsu ()"], "comments": [], "recommandations_id": []}

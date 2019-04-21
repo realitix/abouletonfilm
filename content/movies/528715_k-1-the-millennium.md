@@ -1,0 +1,1 @@
+{"tmdb_id": 528715, "title": "K-1 The Millennium", "original_title": "K-1 The Millennium", "slug_title": "k-1-the-millennium", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

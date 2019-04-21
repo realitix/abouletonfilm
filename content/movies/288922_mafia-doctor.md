@@ -1,0 +1,1 @@
+{"tmdb_id": 288922, "title": "Mafia Doctor", "original_title": "Mafia Doctor", "slug_title": "mafia-doctor", "date": "2003-03-15", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

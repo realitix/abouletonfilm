@@ -1,0 +1,1 @@
+{"tmdb_id": 332085, "title": "Death to Imperialism", "original_title": "Marg Bar Amperalism", "slug_title": "death-to-imperialism", "date": "1979-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

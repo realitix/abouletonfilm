@@ -1,0 +1,1 @@
+{"tmdb_id": 117565, "title": "Water and Power", "original_title": "Water and Power", "slug_title": "water-and-power", "date": "1989-10-01", "genre": "Documentaire", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btgZdrxvApQzD0kpLQB9kph9y0b.jpg", "actors": [], "comments": [], "recommandations_id": [132171, 115022, 209680, 164592]}

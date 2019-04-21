@@ -1,0 +1,1 @@
+{"tmdb_id": 29943, "title": "The Journey from the 20th Century", "original_title": "Reise aus dem 23. Jahrhundert", "slug_title": "the-journey-from-the-20th-century", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curt Lowens (-)", "Linnea Quigley (-)"], "comments": [], "recommandations_id": []}

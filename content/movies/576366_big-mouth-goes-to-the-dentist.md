@@ -1,0 +1,1 @@
+{"tmdb_id": 576366, "title": "Big Mouth Goes to the Dentist", "original_title": "Big Mouth Goes to the Dentist", "slug_title": "big-mouth-goes-to-the-dentist", "date": "1980-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 513673, "title": "The Ponce Sisters", "original_title": "The Ponce Sisters", "slug_title": "the-ponce-sisters", "date": "1928-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 71925, "title": "Tequila Body Shots", "original_title": "Tequila Body Shots", "slug_title": "tequila-body-shots", "date": "1999-05-07", "genre": "Thriller / Horreur / Com\u00e9die", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vtB0BssE9zx04wzTdffmaObJw9r.jpg", "actors": [], "comments": [], "recommandations_id": [62962]}

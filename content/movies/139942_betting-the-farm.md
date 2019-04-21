@@ -1,0 +1,1 @@
+{"tmdb_id": 139942, "title": "Betting the Farm", "original_title": "Betting the Farm", "slug_title": "betting-the-farm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

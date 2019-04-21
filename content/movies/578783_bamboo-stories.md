@@ -1,0 +1,1 @@
+{"tmdb_id": 578783, "title": "Bamboo Stories", "original_title": "Bamboo Stories", "slug_title": "bamboo-stories", "date": "2019-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

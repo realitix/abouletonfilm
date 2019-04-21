@@ -1,0 +1,1 @@
+{"tmdb_id": 583175, "title": "Neiata sti laspi", "original_title": "Neiata sti laspi", "slug_title": "neiata-sti-laspi", "date": "1984-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bNSW8AbQxBoNtx29nxVWbjbzAgL.jpg", "actors": [], "comments": [], "recommandations_id": []}

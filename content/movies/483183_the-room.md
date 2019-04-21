@@ -1,0 +1,1 @@
+{"tmdb_id": 483183, "title": "The Room", "original_title": "The Room", "slug_title": "the-room", "date": "1998-01-01", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7pcWU8hUnj0r4FGBOQ2JP1OZ5QM.jpg", "actors": ["Doug Walker ()"], "comments": [], "recommandations_id": []}

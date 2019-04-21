@@ -1,0 +1,1 @@
+{"tmdb_id": 216928, "title": "Los \u00faltimos cristeros", "original_title": "Los \u00faltimos cristeros", "slug_title": "los-ultimos-cristeros", "date": "2011-09-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oD8Io4sucG4lanQvtJNFkCpLLxt.jpg", "actors": [], "comments": [], "recommandations_id": []}

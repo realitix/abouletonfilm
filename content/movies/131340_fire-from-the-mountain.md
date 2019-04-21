@@ -1,0 +1,1 @@
+{"tmdb_id": 131340, "title": "Fire from the Mountain", "original_title": "Fire from the Mountain", "slug_title": "fire-from-the-mountain", "date": "1987-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vAQ8Qa3yjFlHi7i3xyHiz0E8hzu.jpg", "actors": ["Omar Cabezas (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491800, "title": "30-Minutes to Fitness Kickboxing", "original_title": "30-Minutes to Fitness Kickboxing", "slug_title": "30-minutes-to-fitness-kickboxing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/128nOwqirnMMnmQhk521zXR7mQo.jpg", "actors": [], "comments": [], "recommandations_id": []}

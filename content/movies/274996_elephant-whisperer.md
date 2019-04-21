@@ -1,0 +1,1 @@
+{"tmdb_id": 274996, "title": "Elephant Whisperer", "original_title": "Elephant Whisperer", "slug_title": "elephant-whisperer", "date": "2012-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

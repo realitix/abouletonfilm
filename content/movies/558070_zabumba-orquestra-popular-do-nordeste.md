@@ -1,0 +1,1 @@
+{"tmdb_id": 558070, "title": "Zabumba, Orquestra Popular do Nordeste", "original_title": "Zabumba, Orquestra Popular do Nordeste", "slug_title": "zabumba-orquestra-popular-do-nordeste", "date": "1974-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

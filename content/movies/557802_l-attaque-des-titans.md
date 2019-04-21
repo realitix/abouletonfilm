@@ -1,0 +1,1 @@
+{"tmdb_id": 557802, "title": "L'Attaque des Titans", "original_title": "L'Attaque des Titans", "slug_title": "l-attaque-des-titans", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Adaptation am\u00e9ricaine du manga \"L'Attaque des Titans\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

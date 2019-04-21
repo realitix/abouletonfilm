@@ -1,0 +1,1 @@
+{"tmdb_id": 533993, "title": "Hello Kitty - Hello Kitty Tells Fairy Tales", "original_title": "Hello Kitty - Hello Kitty Tells Fairy Tales", "slug_title": "hello-kitty-hello-kitty-tells-fairy-tales", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

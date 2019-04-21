@@ -1,0 +1,1 @@
+{"tmdb_id": 310882, "title": "Basketball Man", "original_title": "Basketball Man", "slug_title": "basketball-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

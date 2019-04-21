@@ -1,0 +1,1 @@
+{"tmdb_id": 593695, "title": "Halloween: Michael Myers Comes Home From Space Camp", "original_title": "Halloween: Michael Myers Comes Home From Space Camp", "slug_title": "halloween-michael-myers-comes-home-from-space-camp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

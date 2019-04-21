@@ -1,0 +1,1 @@
+{"tmdb_id": 175324, "title": "For You, Poland", "original_title": "Dla ciebie, Polsko", "slug_title": "for-you-poland", "date": "1920-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

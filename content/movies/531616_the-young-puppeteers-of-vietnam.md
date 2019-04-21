@@ -1,0 +1,1 @@
+{"tmdb_id": 531616, "title": "The Young Puppeteers of Vietnam", "original_title": "The Young Puppeteers of Vietnam", "slug_title": "the-young-puppeteers-of-vietnam", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

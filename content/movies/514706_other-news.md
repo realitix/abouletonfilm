@@ -1,0 +1,1 @@
+{"tmdb_id": 514706, "title": "Other News", "original_title": "Other News", "slug_title": "other-news", "date": "2017-12-02", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

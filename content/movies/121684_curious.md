@@ -1,0 +1,1 @@
+{"tmdb_id": 121684, "title": "Curious", "original_title": "Curious", "slug_title": "curious", "date": "2006-01-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXlpgyXNv1C0G2lgdTxvRFsaIEB.jpg", "actors": ["Tristan Hamilton (Ryan)", "Libby Butler (Beth)"], "comments": [], "recommandations_id": []}

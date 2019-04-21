@@ -1,0 +1,1 @@
+{"tmdb_id": 467849, "title": "Dungoona", "original_title": "Dungoona", "slug_title": "dungoona", "date": "2009-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natasha Bassett (Gemma)", "Darin Berlin (Mr. Berlin)", "Joseph Kernahan (Chad)", "Alex Rowe (Jared)", "Kat Stewart (Trish)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 292252, "title": "The National: Live From Eurockeennes Festival 2005", "original_title": "The National: Live From Eurockeennes Festival 2005", "slug_title": "the-national-live-from-eurockeennes-festival-2005", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

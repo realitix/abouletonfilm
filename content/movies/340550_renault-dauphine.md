@@ -1,0 +1,1 @@
+{"tmdb_id": 340550, "title": "Renault Dauphine", "original_title": "Renault Dauphine", "slug_title": "renault-dauphine", "date": "1959-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZFVOT24j8CsRXulTLQUKKXzpa4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471907, "title": "Clown Ferdinand will schlafen", "original_title": "Clown Ferdinand will schlafen", "slug_title": "clown-ferdinand-will-schlafen", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jir\u00ed Vrst\u00e1la (Clown Ferdinand)"], "comments": [], "recommandations_id": []}

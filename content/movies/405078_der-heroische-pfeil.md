@@ -1,0 +1,1 @@
+{"tmdb_id": 405078, "title": "Der heroische Pfeil", "original_title": "Der heroische Pfeil", "slug_title": "der-heroische-pfeil", "date": "1972-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mOjx4pXqtm5vdAOIeJSPmhzVRdA.jpg", "actors": [], "comments": [], "recommandations_id": []}

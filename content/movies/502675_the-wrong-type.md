@@ -1,0 +1,1 @@
+{"tmdb_id": 502675, "title": "The Wrong Type", "original_title": "The Wrong Type", "slug_title": "the-wrong-type", "date": "1990-01-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah Ann Kennedy ()", "Elizabeth Rider ()", "Rob Brydon ()"], "comments": [], "recommandations_id": []}

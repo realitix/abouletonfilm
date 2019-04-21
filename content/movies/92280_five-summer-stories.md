@@ -1,0 +1,1 @@
+{"tmdb_id": 92280, "title": "Five Summer Stories", "original_title": "Five Summer Stories", "slug_title": "five-summer-stories", "date": "1972-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5PQ0RH69fJhqUA62jAbLq0pZ5M5.jpg", "actors": [], "comments": [], "recommandations_id": []}

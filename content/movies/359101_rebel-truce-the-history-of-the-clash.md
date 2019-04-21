@@ -1,0 +1,1 @@
+{"tmdb_id": 359101, "title": "Rebel Truce, the History of the Clash", "original_title": "Rebel Truce, the History of the Clash", "slug_title": "rebel-truce-the-history-of-the-clash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

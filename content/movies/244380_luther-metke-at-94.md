@@ -1,0 +1,1 @@
+{"tmdb_id": 244380, "title": "Luther Metke at 94", "original_title": "Luther Metke at 94", "slug_title": "luther-metke-at-94", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4G5OXmh9Tbb89xOCI9IqxpMSwsB.jpg", "actors": [], "comments": [], "recommandations_id": []}

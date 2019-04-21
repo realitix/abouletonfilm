@@ -1,0 +1,1 @@
+{"tmdb_id": 441711, "title": "Hitler's Mein Kampf: A Dangerous Book", "original_title": "Hitler's Mein Kampf: A Dangerous Book", "slug_title": "hitler-s-mein-kampf-a-dangerous-book", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Zehnpfennig (Herself)"], "comments": [], "recommandations_id": []}

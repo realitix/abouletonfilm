@@ -1,0 +1,1 @@
+{"tmdb_id": 551721, "title": "The Dog Was Running", "original_title": "Bezhala Sobaka", "slug_title": "the-dog-was-running", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

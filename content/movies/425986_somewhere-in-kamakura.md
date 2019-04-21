@@ -1,0 +1,1 @@
+{"tmdb_id": 425986, "title": "Somewhere in Kamakura", "original_title": "Somewhere in Kamakura", "slug_title": "somewhere-in-kamakura", "date": "2016-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

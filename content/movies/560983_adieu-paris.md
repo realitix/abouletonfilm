@@ -1,0 +1,1 @@
+{"tmdb_id": 560983, "title": "Adieu Paris", "original_title": "Adieu Paris", "slug_title": "adieu-paris", "date": "1952-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrZn4FF6FlcAjOHWGdgw9kqebdz.jpg", "actors": [], "comments": [], "recommandations_id": []}

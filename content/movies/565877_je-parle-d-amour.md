@@ -1,0 +1,1 @@
+{"tmdb_id": 565877, "title": "Je parle d'amour", "original_title": "Je parle d'amour", "slug_title": "je-parle-d-amour", "date": "1979-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 456627, "title": "Ghetto Fights 3", "original_title": "Ghetto Fights 3", "slug_title": "ghetto-fights-3", "date": "2006-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvc9UnuVkbkczGQRt5rgUIaA3fl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 456546, "title": "The Story of Bubbleboy", "original_title": "The Story of Bubbleboy", "slug_title": "the-story-of-bubbleboy", "date": "2006-02-26", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82GJzY54eWOAN7SGnaLncxCnDnA.jpg", "actors": [], "comments": [], "recommandations_id": []}

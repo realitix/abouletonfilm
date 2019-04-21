@@ -1,0 +1,1 @@
+{"tmdb_id": 113284, "title": "The Farm: Angola, USA", "original_title": "The Farm: Angola, USA", "slug_title": "the-farm-angola-usa", "date": "1998-01-17", "genre": "Documentaire", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8OdfzA8aWqeKjrUzBs69rG8mkIg.jpg", "actors": [], "comments": [], "recommandations_id": []}

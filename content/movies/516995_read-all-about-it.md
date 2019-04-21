@@ -1,0 +1,1 @@
+{"tmdb_id": 516995, "title": "Read All About It", "original_title": "Read All About It", "slug_title": "read-all-about-it", "date": "1945-04-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Laurie (John - Ex-Newspaper Editor)"], "comments": [], "recommandations_id": []}

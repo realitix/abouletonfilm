@@ -1,0 +1,1 @@
+{"tmdb_id": 484544, "title": "Blood Bath", "original_title": "Blood Bath", "slug_title": "blood-bath", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xiAJ6AKLWiJy1OhJMcPyYwqDbm2.jpg", "actors": ["Angelina Prendergast (The doll)"], "comments": [], "recommandations_id": []}

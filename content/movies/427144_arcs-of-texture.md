@@ -1,0 +1,1 @@
+{"tmdb_id": 427144, "title": "Arcs of Texture", "original_title": "Arcs of Texture", "slug_title": "arcs-of-texture", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSek6Qd9lceTjyY9LiBENcypDre.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366239, "title": "Als die Igel gr\u00f6\u00dfer wurden", "original_title": "Als die Igel gr\u00f6\u00dfer wurden", "slug_title": "als-die-igel-grosser-wurden", "date": "1981-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

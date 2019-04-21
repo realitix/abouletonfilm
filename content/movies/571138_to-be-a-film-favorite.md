@@ -1,0 +1,1 @@
+{"tmdb_id": 571138, "title": "To Be... A Film Favorite", "original_title": "To Be... A Film Favorite", "slug_title": "to-be-a-film-favorite", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Dante ()"], "comments": [], "recommandations_id": []}

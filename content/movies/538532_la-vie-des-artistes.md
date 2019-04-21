@@ -1,0 +1,1 @@
+{"tmdb_id": 538532, "title": "La vie des artistes", "original_title": "La vie des artistes", "slug_title": "la-vie-des-artistes", "date": "1938-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2prf7VG0z5nvVgBXNdAhAqfHqt.jpg", "actors": [], "comments": [], "recommandations_id": []}

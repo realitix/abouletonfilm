@@ -1,0 +1,1 @@
+{"tmdb_id": 379480, "title": "Party Doll A Go- Go!", "original_title": "Party Doll A Go- Go!", "slug_title": "party-doll-a-go-go", "date": "1991-06-13", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rv4UGp4OZjy6ill4UgnQR4feNm0.jpg", "actors": [], "comments": [], "recommandations_id": []}

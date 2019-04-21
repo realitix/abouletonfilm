@@ -1,0 +1,1 @@
+{"tmdb_id": 539299, "title": "The Dirigible Los Angeles", "original_title": "The Dirigible Los Angeles", "slug_title": "the-dirigible-los-angeles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

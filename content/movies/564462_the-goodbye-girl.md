@@ -1,0 +1,1 @@
+{"tmdb_id": 564462, "title": "The Goodbye Girl", "original_title": "The Goodbye Girl", "slug_title": "the-goodbye-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jodelle Ferland (Molly)", "Jessica Harmon (Sylvia Rose)"], "comments": [], "recommandations_id": []}

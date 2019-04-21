@@ -1,0 +1,1 @@
+{"tmdb_id": 383658, "title": "Dura Lex", "original_title": "Dura Lex", "slug_title": "dura-lex", "date": "2013-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fA2CakpnfKvrGA1BK5Y14q3mVhe.jpg", "actors": [], "comments": [], "recommandations_id": []}

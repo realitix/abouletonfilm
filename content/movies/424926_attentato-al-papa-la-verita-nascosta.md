@@ -1,0 +1,1 @@
+{"tmdb_id": 424926, "title": "Attentato al Papa - La verit\u00e0 nascosta", "original_title": "Attentato al Papa - La verit\u00e0 nascosta", "slug_title": "attentato-al-papa-la-verita-nascosta", "date": "2015-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

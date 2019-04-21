@@ -1,0 +1,1 @@
+{"tmdb_id": 86007, "title": "Joe Calzaghe vs. Roy Jones Jr", "original_title": "Joe Calzaghe vs. Roy Jones Jr", "slug_title": "joe-calzaghe-vs-roy-jones-jr", "date": "2008-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/brEg8RBkHmxK2jVpptTV5BaCRBw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486448, "title": "Hasses dagbok", "original_title": "Hasses dagbok", "slug_title": "hasses-dagbok", "date": "1991-11-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZ7MEVUtPmh9u9EhUMrxP8J5yTT.jpg", "actors": ["Ola Elsnert ((voice))"], "comments": [], "recommandations_id": []}

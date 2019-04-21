@@ -1,0 +1,1 @@
+{"tmdb_id": 485654, "title": "Baghdad Blogger", "original_title": "Baghdad Blogger", "slug_title": "baghdad-blogger", "date": "2005-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

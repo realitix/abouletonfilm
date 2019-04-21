@@ -1,0 +1,1 @@
+{"tmdb_id": 572106, "title": "Not-So Amazing", "original_title": "Not-So Amazing", "slug_title": "not-so-amazing", "date": "2019-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5yB8z12HIeF2YAfTvXLL6IDZjdb.jpg", "actors": ["Calob Robinson (Sam)", "Gage Clift (Marc)"], "comments": [], "recommandations_id": []}

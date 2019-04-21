@@ -1,0 +1,1 @@
+{"tmdb_id": 203464, "title": "Killing a Pig Without Mao", "original_title": "\u6c38\u7121\u5b81\u65e5", "slug_title": "killing-a-pig-without-mao", "date": "2013-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOgFUrRt5N0r5yxugq1CHXQkMD3.jpg", "actors": [], "comments": [], "recommandations_id": []}

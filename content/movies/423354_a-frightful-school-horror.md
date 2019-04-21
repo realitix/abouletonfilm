@@ -1,0 +1,1 @@
+{"tmdb_id": 423354, "title": "A Frightful School Horror", "original_title": "Ky\u00f4fu gakuen", "slug_title": "a-frightful-school-horror", "date": "2001-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZFA5EFZjo07IKuAkrjhUUaH2zY.jpg", "actors": [], "comments": [], "recommandations_id": []}

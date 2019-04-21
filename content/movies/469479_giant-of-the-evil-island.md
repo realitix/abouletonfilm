@@ -1,0 +1,1 @@
+{"tmdb_id": 469479, "title": "Giant of the Evil Island", "original_title": "Il mistero dell'isola maledetta", "slug_title": "giant-of-the-evil-island", "date": "1965-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Lupus (Pedro Valverde)"], "comments": [], "recommandations_id": []}

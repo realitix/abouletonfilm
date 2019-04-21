@@ -1,0 +1,1 @@
+{"tmdb_id": 593533, "title": "Atlantic Trawler", "original_title": "Atlantic Trawler", "slug_title": "atlantic-trawler", "date": "1944-04-08", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

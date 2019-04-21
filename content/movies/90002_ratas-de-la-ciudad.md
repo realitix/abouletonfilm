@@ -1,0 +1,1 @@
+{"tmdb_id": 90002, "title": "Ratas de la ciudad", "original_title": "Ratas de la ciudad", "slug_title": "ratas-de-la-ciudad", "date": "1986-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRxm944cpWCusudjkhy4JBj3230.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 463705, "title": "From Damascus to Chicago", "original_title": "From Damascus to Chicago", "slug_title": "from-damascus-to-chicago", "date": "2017-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50PzDIKYJqCydBHxKOUXuTZSXS1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527008, "title": "Lion Dancing 2", "original_title": "\u9435\u7345\u7389\u73b2\u74cf2", "slug_title": "lion-dancing-2", "date": "2015-02-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqzirAjBed9DwuWMNAYh0zWo56J.jpg", "actors": [], "comments": [], "recommandations_id": []}

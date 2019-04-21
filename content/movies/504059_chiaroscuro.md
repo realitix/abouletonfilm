@@ -1,0 +1,1 @@
+{"tmdb_id": 504059, "title": "Chiaroscuro", "original_title": "Chiaroscuro", "slug_title": "chiaroscuro", "date": "2015-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjGR7crPZDE9YhNKjyz5ZT2lLrR.jpg", "actors": [], "comments": [], "recommandations_id": []}

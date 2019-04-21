@@ -1,0 +1,1 @@
+{"tmdb_id": 345013, "title": "Beat-poetane", "original_title": "Beat-poetane", "slug_title": "beat-poetane", "date": "1993-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

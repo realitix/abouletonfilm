@@ -1,0 +1,1 @@
+{"tmdb_id": 504998, "title": "Buying The Band", "original_title": "Buying The Band", "slug_title": "buying-the-band", "date": "2017-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/skIw5ejzi9Ba3zmYCeURYW1akWV.jpg", "actors": [], "comments": [], "recommandations_id": []}

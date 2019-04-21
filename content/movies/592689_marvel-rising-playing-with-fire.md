@@ -1,0 +1,1 @@
+{"tmdb_id": 592689, "title": "Marvel Rising: Playing with Fire", "original_title": "Marvel Rising: Playing with Fire", "slug_title": "marvel-rising-playing-with-fire", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

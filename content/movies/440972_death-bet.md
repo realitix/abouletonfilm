@@ -1,0 +1,1 @@
+{"tmdb_id": 440972, "title": "Death Bet", "original_title": "Death Bet", "slug_title": "death-bet", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZNFAvQ7ONKCskHj715pr52uGkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

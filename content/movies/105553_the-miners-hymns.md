@@ -1,0 +1,1 @@
+{"tmdb_id": 105553, "title": "The Miners' Hymns", "original_title": "The Miners' Hymns", "slug_title": "the-miners-hymns", "date": "2010-07-24", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rb0wgfXoUSVWQUcdB5t6czcXenM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294351, "title": "Love & Plutonium", "original_title": "Love & Plutonium", "slug_title": "love-plutonium", "date": "2005-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

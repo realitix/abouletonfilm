@@ -1,0 +1,1 @@
+{"tmdb_id": 583278, "title": "Be a Good Mommy to Me", "original_title": "Be a Good Mommy to Me", "slug_title": "be-a-good-mommy-to-me", "date": "2016-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ow8LgfWJpeXA9s1RQdVBYuymZoc.jpg", "actors": [], "comments": [], "recommandations_id": []}

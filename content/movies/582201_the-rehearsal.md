@@ -1,0 +1,1 @@
+{"tmdb_id": 582201, "title": "The Rehearsal", "original_title": "O Ensaio", "slug_title": "the-rehearsal", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isab\u00e9l Zuaa ()", "Germano Melo ()", "Camila Mota ()", "Julia Ianina ()"], "comments": [], "recommandations_id": []}

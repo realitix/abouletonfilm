@@ -1,0 +1,1 @@
+{"tmdb_id": 235391, "title": "Poop Goes the Weasel", "original_title": "Poop Goes the Weasel", "slug_title": "poop-goes-the-weasel", "date": "1955-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

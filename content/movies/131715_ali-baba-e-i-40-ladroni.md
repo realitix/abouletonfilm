@@ -1,0 +1,1 @@
+{"tmdb_id": 131715, "title": "Ali Bab\u00e0 e i 40 ladroni", "original_title": "Ali Bab\u00e0 e i 40 ladroni", "slug_title": "ali-baba-e-i-40-ladroni", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

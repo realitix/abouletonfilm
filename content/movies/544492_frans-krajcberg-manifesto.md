@@ -1,0 +1,1 @@
+{"tmdb_id": 544492, "title": "Frans Krajcberg: Manifesto", "original_title": "Frans Krajcberg: Manifesto", "slug_title": "frans-krajcberg-manifesto", "date": "2018-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGsDXZxon8OTZ8KlDe2vpmAeCJk.jpg", "actors": [], "comments": [], "recommandations_id": []}

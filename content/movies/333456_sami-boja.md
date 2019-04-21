@@ -1,0 +1,1 @@
+{"tmdb_id": 333456, "title": "S\u00e1mi Boj\u00e1", "original_title": "S\u00e1mi Boj\u00e1", "slug_title": "sami-boja", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UFhAg1kuMceZaBMZQSjCiyDaEl.jpg", "actors": [], "comments": [], "recommandations_id": []}

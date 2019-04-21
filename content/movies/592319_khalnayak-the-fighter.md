@@ -1,0 +1,1 @@
+{"tmdb_id": 592319, "title": "Khalnayak: The Fighter", "original_title": "Khalnayak: The Fighter", "slug_title": "khalnayak-the-fighter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

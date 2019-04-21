@@ -1,0 +1,1 @@
+{"tmdb_id": 300297, "title": "Raven Rick's Deadly Adventure", "original_title": "Raven Rick's Deadly Adventure", "slug_title": "raven-rick-s-deadly-adventure", "date": "2014-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

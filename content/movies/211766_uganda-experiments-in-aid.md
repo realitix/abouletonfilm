@@ -1,0 +1,1 @@
+{"tmdb_id": 211766, "title": "Uganda: Experiments in Aid", "original_title": "Uganda: Experiments in Aid", "slug_title": "uganda-experiments-in-aid", "date": "2011-07-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nCEsowHdHKiEu9HNXNCwArMw8rx.jpg", "actors": [], "comments": [], "recommandations_id": []}

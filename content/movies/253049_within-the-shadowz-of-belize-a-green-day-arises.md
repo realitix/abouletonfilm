@@ -1,0 +1,1 @@
+{"tmdb_id": 253049, "title": "Within the Shadowz of Belize: A Green Day Arises", "original_title": "Within the Shadowz of Belize: A Green Day Arises", "slug_title": "within-the-shadowz-of-belize-a-green-day-arises", "date": "2012-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

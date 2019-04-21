@@ -1,0 +1,1 @@
+{"tmdb_id": 444785, "title": "The Mountain Kings", "original_title": "The Mountain Kings", "slug_title": "the-mountain-kings", "date": "2016-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9tggZIxigFXCyEQmIJMVf5UMznI.jpg", "actors": [], "comments": [], "recommandations_id": []}

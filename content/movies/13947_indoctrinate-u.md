@@ -1,0 +1,1 @@
+{"tmdb_id": 13947, "title": "Indoctrinate U", "original_title": "Indoctrinate U", "slug_title": "indoctrinate-u", "date": "2007-09-26", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSCdm9iTsoBxkrjteXvQCV7VUT1.jpg", "actors": ["Evan Coyne Maloney (Himself)"], "comments": [], "recommandations_id": []}

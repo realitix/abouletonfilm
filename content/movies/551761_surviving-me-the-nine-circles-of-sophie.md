@@ -1,0 +1,1 @@
+{"tmdb_id": 551761, "title": "Surviving Me: The Nine Circles of Sophie", "original_title": "Surviving Me: The Nine Circles of Sophie", "slug_title": "surviving-me-the-nine-circles-of-sophie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

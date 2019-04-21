@@ -1,0 +1,1 @@
+{"tmdb_id": 188604, "title": "Volbeat: Rocksound", "original_title": "Volbeat: Rocksound", "slug_title": "volbeat-rocksound", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

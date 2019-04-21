@@ -1,0 +1,1 @@
+{"tmdb_id": 304516, "title": "Prema Paasam", "original_title": "Prema Paasam", "slug_title": "prema-paasam", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

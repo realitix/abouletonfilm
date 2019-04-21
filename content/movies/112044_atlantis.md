@@ -1,0 +1,1 @@
+{"tmdb_id": 112044, "title": "Atlantis", "original_title": "Atlantis", "slug_title": "atlantis", "date": "2008-09-19", "genre": "Drame / Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7a8nGhpBbP8lJ693Nq54DscEq8.jpg", "actors": ["Pitou Nicolaes (Xenia)"], "comments": [], "recommandations_id": []}

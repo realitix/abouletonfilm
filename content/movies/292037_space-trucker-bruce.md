@@ -1,0 +1,1 @@
+{"tmdb_id": 292037, "title": "Space Trucker Bruce", "original_title": "Space Trucker Bruce", "slug_title": "space-trucker-bruce", "date": "2014-03-01", "genre": "", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jnLgLeoma8fCen89crb3s3japb.jpg", "actors": [], "comments": [], "recommandations_id": []}

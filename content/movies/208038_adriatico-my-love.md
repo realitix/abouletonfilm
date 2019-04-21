@@ -1,0 +1,1 @@
+{"tmdb_id": 208038, "title": "Adriatico My Love", "original_title": "Adriatico My Love", "slug_title": "adriatico-my-love", "date": "2013-07-19", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wS7fluojFCD2C0GCMt6Qr1cFHm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 254104, "title": "Turkey Mourns Kemal Ataturk", "original_title": "Turkey Mourns Kemal Ataturk", "slug_title": "turkey-mourns-kemal-ataturk", "date": "1938-11-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mustafa Kemal Atat\u00fcrk ()", "Ismet In\u00f6n\u00fc ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 524744, "title": "Divorce", "original_title": "\u0420\u0430\u0437\u0432\u043e\u0434", "slug_title": "divorce", "date": "2018-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mariya Shalaeva ()", "Mikhail Evlanov ()", "Manana Totibadze ()", "Andrei Piskarev ()"], "comments": [], "recommandations_id": []}

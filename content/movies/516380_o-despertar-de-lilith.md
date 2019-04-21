@@ -1,0 +1,1 @@
+{"tmdb_id": 516380, "title": "O Despertar de Lilith", "original_title": "O Despertar de Lilith", "slug_title": "o-despertar-de-lilith", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WBG6Dv54cBz4iRaSbwDeuFJrlz.jpg", "actors": [], "comments": [], "recommandations_id": []}

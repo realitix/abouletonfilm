@@ -1,0 +1,1 @@
+{"tmdb_id": 558623, "title": "A Caged Bird Sings", "original_title": "A Caged Bird Sings", "slug_title": "a-caged-bird-sings", "date": "2018-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5PUwPblXEJjccziyHxzkjcixXD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548270, "title": "The Anthrax Files", "original_title": "The Anthrax Files", "slug_title": "the-anthrax-files", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

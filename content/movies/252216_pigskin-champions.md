@@ -1,0 +1,1 @@
+{"tmdb_id": 252216, "title": "Pigskin Champions", "original_title": "Pigskin Champions", "slug_title": "pigskin-champions", "date": "1937-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

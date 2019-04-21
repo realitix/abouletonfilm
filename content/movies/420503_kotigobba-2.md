@@ -1,0 +1,1 @@
+{"tmdb_id": 420503, "title": "Kotigobba 2", "original_title": "Kotigobba 2", "slug_title": "kotigobba-2", "date": "2016-08-12", "genre": "Thriller / Action / Drame / Romance", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lAl9pxFnDUTD1ql1vSAgMsqNCC.jpg", "actors": [], "comments": [], "recommandations_id": []}

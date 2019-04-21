@@ -1,0 +1,1 @@
+{"tmdb_id": 414445, "title": "\uc88b\uc544\uc11c \ub9cc\ub4e0 \uc601\ud654", "original_title": "\uc88b\uc544\uc11c \ub9cc\ub4e0 \uc601\ud654", "slug_title": "johaseo-mandeun-yeonghwa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

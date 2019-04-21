@@ -1,0 +1,1 @@
+{"tmdb_id": 310934, "title": "Randy Weston: Live in St. Lucia", "original_title": "Randy Weston: Live in St. Lucia", "slug_title": "randy-weston-live-in-st-lucia", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

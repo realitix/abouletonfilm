@@ -1,0 +1,1 @@
+{"tmdb_id": 236056, "title": "Pale of Settlement", "original_title": "Pale of Settlement", "slug_title": "pale-of-settlement", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

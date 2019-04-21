@@ -1,0 +1,1 @@
+{"tmdb_id": 516805, "title": "The Ghost Knows", "original_title": "The Ghost Knows", "slug_title": "the-ghost-knows", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

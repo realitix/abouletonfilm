@@ -1,0 +1,1 @@
+{"tmdb_id": 339227, "title": "Rivers and My Father", "original_title": "Rivers and My Father", "slug_title": "rivers-and-my-father", "date": "2010-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

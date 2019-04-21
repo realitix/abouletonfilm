@@ -1,0 +1,1 @@
+{"tmdb_id": 325727, "title": "Burning Passion", "original_title": "Burning Passion", "slug_title": "burning-passion", "date": "1999-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

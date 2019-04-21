@@ -1,0 +1,1 @@
+{"tmdb_id": 351372, "title": "Edgar Runs Again", "original_title": "Edgar Runs Again", "slug_title": "edgar-runs-again", "date": "1940-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

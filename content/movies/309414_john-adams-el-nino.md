@@ -1,0 +1,1 @@
+{"tmdb_id": 309414, "title": "John Adams: El Ni\u00f1o", "original_title": "John Adams: El Ni\u00f1o", "slug_title": "john-adams-el-nino", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

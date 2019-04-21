@@ -1,0 +1,1 @@
+{"tmdb_id": 268659, "title": "ABC do Amor", "original_title": "ABC do Amor", "slug_title": "abc-do-amor", "date": "1967-09-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

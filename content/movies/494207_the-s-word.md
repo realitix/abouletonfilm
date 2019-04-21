@@ -1,0 +1,1 @@
+{"tmdb_id": 494207, "title": "The S Word", "original_title": "The S Word", "slug_title": "the-s-word", "date": "2014-07-26", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ChKhhKtjUTnTJ4NzfO9kZANF6J.jpg", "actors": [], "comments": [], "recommandations_id": []}

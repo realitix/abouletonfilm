@@ -1,0 +1,1 @@
+{"tmdb_id": 209677, "title": "Gymnop\u00e9dies", "original_title": "Gymnop\u00e9dies", "slug_title": "gymnopedies", "date": "1965-01-01", "genre": "Animation / Musique", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Jze0bJOE5gvsZPvM4zWBbc1SIJ.jpg", "actors": [], "comments": [], "recommandations_id": [315647, 188417, 243278, 31338]}

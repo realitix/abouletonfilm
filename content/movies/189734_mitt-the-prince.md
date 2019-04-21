@@ -1,0 +1,1 @@
+{"tmdb_id": 189734, "title": "Mitt The Prince", "original_title": "Mitt The Prince", "slug_title": "mitt-the-prince", "date": "1927-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()"], "comments": [], "recommandations_id": []}

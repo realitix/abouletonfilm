@@ -1,0 +1,1 @@
+{"tmdb_id": 308874, "title": "Fadeaway", "original_title": "Qng Pangacupas Ning Matingcad Cung Cule", "slug_title": "fadeaway", "date": "2014-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fuo7mgCmYVweKGwrZ0qJIUVljlZ.jpg", "actors": ["Joe Galang ()", "VJ Tacliad ()"], "comments": [], "recommandations_id": []}

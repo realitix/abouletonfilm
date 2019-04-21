@@ -1,0 +1,1 @@
+{"tmdb_id": 151823, "title": "Crime and Punishment", "original_title": "Zbrodnia i kara", "slug_title": "crime-and-punishment", "date": "2000-01-01", "genre": "", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYPdjG2Rsugzlo8YuRDewUz4ufk.jpg", "actors": [], "comments": [], "recommandations_id": [215160, 175503, 143278, 143810]}

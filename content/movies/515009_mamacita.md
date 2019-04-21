@@ -1,0 +1,1 @@
+{"tmdb_id": 515009, "title": "Mamacita", "original_title": "Mamacita", "slug_title": "mamacita", "date": "2018-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hTcKZtbtu061p69zIr4AKtZ8Pj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587507, "title": "Dockers", "original_title": "Dockers", "slug_title": "dockers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manu Ruizarte ()", "Pep Ricart ()", "Ferran Gadea ()", "Ximo Solano ()", "Xusa Arrufat ()"], "comments": [], "recommandations_id": []}

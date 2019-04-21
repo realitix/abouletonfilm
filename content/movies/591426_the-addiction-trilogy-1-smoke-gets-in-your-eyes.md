@@ -1,0 +1,1 @@
+{"tmdb_id": 591426, "title": "The Addiction Trilogy #1 Smoke Gets in Your Eyes", "original_title": "The Addiction Trilogy #1 Smoke Gets in Your Eyes", "slug_title": "the-addiction-trilogy-1-smoke-gets-in-your-eyes", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

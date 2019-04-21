@@ -1,0 +1,1 @@
+{"tmdb_id": 520755, "title": "Exterminate All the Brutes", "original_title": "Exterminate All the Brutes", "slug_title": "exterminate-all-the-brutes", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

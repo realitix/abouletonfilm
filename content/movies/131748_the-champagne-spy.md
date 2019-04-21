@@ -1,0 +1,1 @@
+{"tmdb_id": 131748, "title": "The Champagne Spy", "original_title": "Meragel Ha-Shampaniya", "slug_title": "the-champagne-spy", "date": "2007-05-31", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6sE8o4kCIVeHp1mnYfYHsGHJA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

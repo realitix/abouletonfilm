@@ -1,0 +1,1 @@
+{"tmdb_id": 264449, "title": "Savage World Today", "original_title": "Mondo cane oggi - L'orrore continua", "slug_title": "savage-world-today", "date": "1985-08-24", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzQrt3zaU1KXrrO67aBhegUh6jD.jpg", "actors": [], "comments": [], "recommandations_id": []}

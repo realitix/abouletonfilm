@@ -1,0 +1,1 @@
+{"tmdb_id": 390332, "title": "Ukiyodoko", "original_title": "\u6d6e\u4e16\u5e8a", "slug_title": "ukiyodoko", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flCdUj8Sgj3CtlfDwjfgmjiV9Mj.jpg", "actors": [], "comments": [], "recommandations_id": []}

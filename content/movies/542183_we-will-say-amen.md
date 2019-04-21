@@ -1,0 +1,1 @@
+{"tmdb_id": 542183, "title": "We Will Say Amen", "original_title": "We Will Say Amen", "slug_title": "we-will-say-amen", "date": "2012-08-13", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZNZdm7E1S8i8FAzmDR4MOE0L9g.jpg", "actors": [], "comments": [], "recommandations_id": []}

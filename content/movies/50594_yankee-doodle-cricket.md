@@ -1,0 +1,1 @@
+{"tmdb_id": 50594, "title": "Yankee Doodle Cricket", "original_title": "Yankee Doodle Cricket", "slug_title": "yankee-doodle-cricket", "date": "1975-01-16", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hopGdO79LqwHc0RbazvEkCRXo59.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379461, "title": "Wham and Eggs", "original_title": "Wham and Eggs", "slug_title": "wham-and-eggs", "date": "1973-02-18", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer (voice))", "Bob Holt (Dragon (voice))"], "comments": [], "recommandations_id": []}

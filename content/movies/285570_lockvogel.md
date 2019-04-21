@@ -1,0 +1,1 @@
+{"tmdb_id": 285570, "title": "Lockv\u00f6gel", "original_title": "Lockv\u00f6gel", "slug_title": "lockvogel", "date": "1989-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Winfried Glatzeder (Michael Sellner)", "Krista Posch (Rena Bergner)", "Hans Beerhenke (Falkner Bergner)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 429960, "title": "Remnants", "original_title": "Remnants", "slug_title": "remnants", "date": "2016-12-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcuWlyWVVEyWXhres3Xo02Tp82q.jpg", "actors": [], "comments": [], "recommandations_id": []}

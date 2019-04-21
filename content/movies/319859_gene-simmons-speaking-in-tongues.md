@@ -1,0 +1,1 @@
+{"tmdb_id": 319859, "title": "Gene Simmons: Speaking in Tongues", "original_title": "Gene Simmons: Speaking in Tongues", "slug_title": "gene-simmons-speaking-in-tongues", "date": "2004-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

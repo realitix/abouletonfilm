@@ -1,0 +1,1 @@
+{"tmdb_id": 417355, "title": "Little Anglers", "original_title": "Little Anglers", "slug_title": "little-anglers", "date": "1952-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Halee (Terry Bear (voice))", "Doug Moye (Papa Bear (voice))", "Philip A. Scheib (Terry Bear (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273002, "title": "The Battle of Aiken", "original_title": "The Battle of Aiken", "slug_title": "the-battle-of-aiken", "date": "2005-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

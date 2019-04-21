@@ -1,0 +1,1 @@
+{"tmdb_id": 476682, "title": "Paris monopole", "original_title": "Paris monopole", "slug_title": "paris-monopole", "date": "2010-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

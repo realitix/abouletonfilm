@@ -1,0 +1,1 @@
+{"tmdb_id": 321592, "title": "The Temple Mount Dilemma - Bible Prophecy Revealed", "original_title": "The Temple Mount Dilemma - Bible Prophecy Revealed", "slug_title": "the-temple-mount-dilemma-bible-prophecy-revealed", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

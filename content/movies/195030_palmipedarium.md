@@ -1,0 +1,1 @@
+{"tmdb_id": 195030, "title": "Palmipedarium", "original_title": "Palmip\u00e9darium", "slug_title": "palmipedarium", "date": "2012-09-14", "genre": "Animation / Drame", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hRGy4sLJUQyMqGmLrFeQtOezMDE.jpg", "actors": [], "comments": [], "recommandations_id": []}

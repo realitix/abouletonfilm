@@ -1,0 +1,1 @@
+{"tmdb_id": 349009, "title": "Le Ballet", "original_title": "Le Ballet", "slug_title": "le-ballet", "date": "2012-07-16", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

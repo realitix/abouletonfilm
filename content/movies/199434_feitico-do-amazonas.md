@@ -1,0 +1,1 @@
+{"tmdb_id": 199434, "title": "Feiti\u00e7o do Amazonas", "original_title": "Feiti\u00e7o do Amazonas", "slug_title": "feitico-do-amazonas", "date": "1954-05-14", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqP7k39eMWB9wCUaqhcfORaiOH7.jpg", "actors": [], "comments": [], "recommandations_id": []}

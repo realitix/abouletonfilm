@@ -1,0 +1,1 @@
+{"tmdb_id": 567336, "title": "Les idoles", "original_title": "Les idoles", "slug_title": "les-idoles", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

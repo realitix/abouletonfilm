@@ -1,0 +1,1 @@
+{"tmdb_id": 300319, "title": "The Clash The Ultimate Review", "original_title": "The Clash The Ultimate Review", "slug_title": "the-clash-the-ultimate-review", "date": "2012-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Clash ()"], "comments": [], "recommandations_id": []}

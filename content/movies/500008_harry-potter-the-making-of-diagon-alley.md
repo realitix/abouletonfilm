@@ -1,0 +1,1 @@
+{"tmdb_id": 500008, "title": "Harry Potter: The Making of Diagon Alley", "original_title": "Harry Potter: The Making of Diagon Alley", "slug_title": "harry-potter-the-making-of-diagon-alley", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531450, "title": "Wrong Kind of War", "original_title": "Wrong Kind of War", "slug_title": "wrong-kind-of-war", "date": "2018-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbGHammjuN7O5CLbKpeLrsLY5xY.jpg", "actors": [], "comments": [], "recommandations_id": []}

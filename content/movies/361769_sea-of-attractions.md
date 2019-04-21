@@ -1,0 +1,1 @@
+{"tmdb_id": 361769, "title": "Sea of Attractions", "original_title": "Piej\u016bra", "slug_title": "sea-of-attractions", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiGlNCRWuzSFA7oAl26P8Nonwax.jpg", "actors": [], "comments": [], "recommandations_id": []}

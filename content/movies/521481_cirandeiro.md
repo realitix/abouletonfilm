@@ -1,0 +1,1 @@
+{"tmdb_id": 521481, "title": "Cirandeiro", "original_title": "Cirandeiro", "slug_title": "cirandeiro", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amir Haddad (Ele mesmo)"], "comments": [], "recommandations_id": []}

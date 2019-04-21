@@ -1,0 +1,1 @@
+{"tmdb_id": 581091, "title": "Cause of Death: Homophobia", "original_title": "Sibat Hamavet: Homofobia", "slug_title": "cause-of-death-homophobia", "date": "2003-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f7isF2UVcSSmqVZ8qW0r3q37KTZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

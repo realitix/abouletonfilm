@@ -1,0 +1,1 @@
+{"tmdb_id": 552139, "title": "My Skin, My Rules", "original_title": "My Skin, My Rules", "slug_title": "my-skin-my-rules", "date": "2018-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anAf0EinvVZ55BMXeqYe4yQY7Eo.jpg", "actors": ["Ivan Zaytsev (Himself)"], "comments": [], "recommandations_id": []}

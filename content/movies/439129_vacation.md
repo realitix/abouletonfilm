@@ -1,0 +1,1 @@
+{"tmdb_id": 439129, "title": "Vacation", "original_title": "Vak\u00e1ci\u00f3", "slug_title": "vacation", "date": "2011-04-08", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZbgQBD0ODPLEBXg3QT2Mzm4TJc.jpg", "actors": ["Barnab\u00e1s Botond Nagy (Dani)"], "comments": [], "recommandations_id": []}

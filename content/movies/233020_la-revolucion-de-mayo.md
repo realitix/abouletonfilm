@@ -1,0 +1,1 @@
+{"tmdb_id": 233020, "title": "La revoluci\u00f3n de Mayo", "original_title": "La revoluci\u00f3n de Mayo", "slug_title": "la-revolucion-de-mayo", "date": "1910-11-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eliseo Guti\u00e9rrez ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342928, "title": "When the Dust Settles", "original_title": "When the Dust Settles", "slug_title": "when-the-dust-settles", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4pQrUOKUPsGd9Rw4sSZZHeMTJbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

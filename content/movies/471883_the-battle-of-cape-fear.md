@@ -1,0 +1,1 @@
+{"tmdb_id": 471883, "title": "The Battle of Cape Fear", "original_title": "The Battle of Cape Fear", "slug_title": "the-battle-of-cape-fear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

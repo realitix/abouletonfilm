@@ -1,0 +1,1 @@
+{"tmdb_id": 521605, "title": "Imbi\u00df spezial", "original_title": "Imbi\u00df spezial", "slug_title": "imbiss-spezial", "date": "1990-11-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

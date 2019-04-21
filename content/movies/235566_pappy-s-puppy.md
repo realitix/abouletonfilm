@@ -1,0 +1,1 @@
+{"tmdb_id": 235566, "title": "Pappy's Puppy", "original_title": "Pappy's Puppy", "slug_title": "pappy-s-puppy", "date": "1955-12-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dWqCZeq5VupKrKMu8n3PanpoVC.jpg", "actors": [], "comments": [], "recommandations_id": []}

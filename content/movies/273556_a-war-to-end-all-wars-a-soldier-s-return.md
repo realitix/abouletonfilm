@@ -1,0 +1,1 @@
+{"tmdb_id": 273556, "title": "A War To End All Wars: A Soldier's Return", "original_title": "A War To End All Wars: A Soldier's Return", "slug_title": "a-war-to-end-all-wars-a-soldier-s-return", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

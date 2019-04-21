@@ -1,0 +1,1 @@
+{"tmdb_id": 381154, "title": "Unleashed! A Dog Dancing Story", "original_title": "Unleashed! A Dog Dancing Story", "slug_title": "unleashed-a-dog-dancing-story", "date": "2014-02-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/upmB1bZ0BsKOXfQGitXwqaM577X.jpg", "actors": [], "comments": [], "recommandations_id": []}

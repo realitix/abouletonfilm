@@ -1,0 +1,1 @@
+{"tmdb_id": 262975, "title": "The Necktie", "original_title": "Le noeud cravate", "slug_title": "the-necktie", "date": "2008-08-28", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9MRBnLZQ0rnTxCKMZstYBguiZx.jpg", "actors": [], "comments": [], "recommandations_id": []}

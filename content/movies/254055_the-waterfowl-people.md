@@ -1,0 +1,1 @@
+{"tmdb_id": 254055, "title": "The Waterfowl People", "original_title": "Veelinnurahvas", "slug_title": "the-waterfowl-people", "date": "1972-02-04", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVwxKIaYOR1O1vgcTZ2l17UCbeP.jpg", "actors": [], "comments": [], "recommandations_id": []}

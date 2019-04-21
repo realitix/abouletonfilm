@@ -1,0 +1,1 @@
+{"tmdb_id": 133445, "title": "Accession", "original_title": "Accession", "slug_title": "accession", "date": "2012-10-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/es7hjNJ2nSRzN960jvEQfdBQ7FU.jpg", "actors": ["Pethro Themba Mbole (John)", "Vusumuzi Ndumo (Sibu)"], "comments": [], "recommandations_id": []}

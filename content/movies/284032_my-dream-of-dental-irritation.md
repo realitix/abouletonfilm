@@ -1,0 +1,1 @@
+{"tmdb_id": 284032, "title": "My Dream of Dental Irritation", "original_title": "My Dream of Dental Irritation", "slug_title": "my-dream-of-dental-irritation", "date": "2009-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

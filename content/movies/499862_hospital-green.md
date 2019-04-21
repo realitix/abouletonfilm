@@ -1,0 +1,1 @@
+{"tmdb_id": 499862, "title": "Hospital Green", "original_title": "Hospital Green", "slug_title": "hospital-green", "date": "2017-01-01", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lena Gora (Katherine)", "Kane Ritchotte (Dante)"], "comments": [], "recommandations_id": []}

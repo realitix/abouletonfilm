@@ -1,0 +1,1 @@
+{"tmdb_id": 439594, "title": "The Ghost Tales", "original_title": "Bian Yang Ji", "slug_title": "the-ghost-tales", "date": "2012-01-01", "genre": "Drame / Fantastique / Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rImchOhtidb7Kw8Jc1Ug776LDGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

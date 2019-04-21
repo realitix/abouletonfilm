@@ -1,0 +1,1 @@
+{"tmdb_id": 441818, "title": "L'italiana in Algeri", "original_title": "L'italiana in Algeri", "slug_title": "l-italiana-in-algeri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

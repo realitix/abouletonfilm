@@ -1,0 +1,1 @@
+{"tmdb_id": 353681, "title": "Karoler", "original_title": "Karoler", "slug_title": "karoler", "date": "2009-10-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RGWRJjvckYJCxlobOgKuWYdIkc.jpg", "actors": ["Hector Macaso ()", "Fourth Sablayan ()"], "comments": [], "recommandations_id": []}

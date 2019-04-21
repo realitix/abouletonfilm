@@ -1,0 +1,1 @@
+{"tmdb_id": 197687, "title": "Megadeth: Monsters Of Rock", "original_title": "Megadeth: Monsters Of Rock", "slug_title": "megadeth-monsters-of-rock", "date": "1995-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1H6ih1Z55WNCeNQDZ9sHrkoGWgj.jpg", "actors": [], "comments": [], "recommandations_id": []}

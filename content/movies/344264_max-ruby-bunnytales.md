@@ -1,0 +1,1 @@
+{"tmdb_id": 344264, "title": "Max & Ruby: BunnyTales", "original_title": "Max & Ruby: BunnyTales", "slug_title": "max-ruby-bunnytales", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhWbbQJqOIMqKFPeuZFe9Z3xOkJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

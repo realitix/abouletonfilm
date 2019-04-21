@@ -1,0 +1,1 @@
+{"tmdb_id": 331007, "title": "Blood Reunion 3: Hunters", "original_title": "Blood Reunion 3: Hunters", "slug_title": "blood-reunion-3-hunters", "date": "2015-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

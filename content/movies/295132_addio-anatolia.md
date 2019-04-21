@@ -1,0 +1,1 @@
+{"tmdb_id": 295132, "title": "Addio Anatolia", "original_title": "Addio Anatolia", "slug_title": "addio-anatolia", "date": "1976-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lKt5wCH53mJXSxBwxJerjq0603t.jpg", "actors": [], "comments": [], "recommandations_id": []}

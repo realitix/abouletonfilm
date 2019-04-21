@@ -1,0 +1,1 @@
+{"tmdb_id": 543780, "title": "Coins d'atelier", "original_title": "Coins d'atelier", "slug_title": "coins-d-atelier", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRiu92PptIgKaqRBLjjdUiB4Sxl.jpg", "actors": [], "comments": [], "recommandations_id": []}

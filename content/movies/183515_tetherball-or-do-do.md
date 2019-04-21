@@ -1,0 +1,1 @@
+{"tmdb_id": 183515, "title": "Tetherball, or Do-Do", "original_title": "Tetherball, or Do-Do", "slug_title": "tetherball-or-do-do", "date": "1898-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2CEpRZv9RFlU0DAYVun4IwvZvq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 120542, "title": "The Lady From the Sea", "original_title": "The Lady From the Sea", "slug_title": "the-lady-from-the-sea", "date": "1974-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f14u2Xr9otmLoXOlC8CmNCikQev.jpg", "actors": [], "comments": [], "recommandations_id": []}

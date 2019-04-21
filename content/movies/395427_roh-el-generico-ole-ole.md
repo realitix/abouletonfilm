@@ -1,0 +1,1 @@
+{"tmdb_id": 395427, "title": "ROH: El Generico: Ole! Ole!", "original_title": "ROH: El Generico: Ole! Ole!", "slug_title": "roh-el-generico-ole-ole", "date": "2012-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/djbkIvYboXylnn10BOm9V9Sbcon.jpg", "actors": [], "comments": [], "recommandations_id": []}

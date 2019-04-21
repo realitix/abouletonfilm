@@ -1,0 +1,1 @@
+{"tmdb_id": 424577, "title": "Flesh And Dust", "original_title": "Carne e Polvere", "slug_title": "flesh-and-dust", "date": "2015-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5FqskStZPZYVRKjXcviHW6ZFDOi.jpg", "actors": ["Giovanni La Camera ()"], "comments": [], "recommandations_id": []}

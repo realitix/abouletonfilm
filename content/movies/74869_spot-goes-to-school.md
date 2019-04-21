@@ -1,0 +1,1 @@
+{"tmdb_id": 74869, "title": "Spot Goes to School", "original_title": "Spot Goes to School", "slug_title": "spot-goes-to-school", "date": "2011-08-02", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqFgJxPqTe6VUzFlsSspE51Z1vs.jpg", "actors": [], "comments": [], "recommandations_id": []}

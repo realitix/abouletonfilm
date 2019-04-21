@@ -1,0 +1,1 @@
+{"tmdb_id": 453896, "title": "Across Brooklyn Bridge", "original_title": "Across Brooklyn Bridge", "slug_title": "across-brooklyn-bridge", "date": "1899-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

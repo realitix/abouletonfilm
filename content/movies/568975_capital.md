@@ -1,0 +1,1 @@
+{"tmdb_id": 568975, "title": "Capital", "original_title": "Capital", "slug_title": "capital", "date": "2010-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

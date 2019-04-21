@@ -1,0 +1,1 @@
+{"tmdb_id": 448063, "title": "Nightmare", "original_title": "\u0e20\u0e31\u0e22\u0e21\u0e37\u0e14", "slug_title": "nightmare", "date": "1976-01-01", "genre": "Myst\u00e8re / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMCfdrhvticIbCbmGRS5k8DU8uT.jpg", "actors": [], "comments": [], "recommandations_id": []}

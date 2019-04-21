@@ -1,0 +1,1 @@
+{"tmdb_id": 449730, "title": "Krux - Live", "original_title": "Krux - Live", "slug_title": "krux-live", "date": "2003-11-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OD0w937s1G8aB0RKrTsRzurkrU.jpg", "actors": [], "comments": [], "recommandations_id": []}

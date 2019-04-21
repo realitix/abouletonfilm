@@ -1,0 +1,1 @@
+{"tmdb_id": 184457, "title": "The Leopard's Spots", "original_title": "The Leopard's Spots", "slug_title": "the-leopard-s-spots", "date": "1925-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

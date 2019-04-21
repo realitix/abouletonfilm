@@ -1,0 +1,1 @@
+{"tmdb_id": 581166, "title": "Treatment", "original_title": "Kuracja", "slug_title": "treatment", "date": "2001-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bart\u0142omiej Topa ()", "Jerzy \u0141api\u0144ski ()", "Krzysztof Pieczy\u0144ski ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276974, "title": "Oxbow: The Luxury Of Empire", "original_title": "Oxbow: The Luxury Of Empire", "slug_title": "oxbow-the-luxury-of-empire", "date": "2011-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njUPO7095PsWYWDPCzWqyJINpH6.jpg", "actors": [], "comments": [], "recommandations_id": []}

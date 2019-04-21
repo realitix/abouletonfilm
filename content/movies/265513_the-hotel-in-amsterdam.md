@@ -1,0 +1,1 @@
+{"tmdb_id": 265513, "title": "The Hotel in Amsterdam", "original_title": "The Hotel in Amsterdam", "slug_title": "the-hotel-in-amsterdam", "date": "1971-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jill Bennett ()", "Michael Craig ()", "Isabel Dean ()", "Paul Scofield ()"], "comments": [], "recommandations_id": []}

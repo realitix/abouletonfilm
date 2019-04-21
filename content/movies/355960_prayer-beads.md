@@ -1,0 +1,1 @@
+{"tmdb_id": 355960, "title": "Prayer Beads", "original_title": "Prayer Beads", "slug_title": "prayer-beads", "date": "2004-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLK9Htmqfnh4Er1hlaoXVoO2eGD.jpg", "actors": ["Jun Haichi ()", "Mieko Konya ()", "Joe Odagiri ()"], "comments": [], "recommandations_id": []}

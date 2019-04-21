@@ -1,0 +1,1 @@
+{"tmdb_id": 569324, "title": "La lumi\u00e8re du lac", "original_title": "La lumi\u00e8re du lac", "slug_title": "la-lumiere-du-lac", "date": "1988-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9dwQdZzmVgH9D06ieEAPGaQldHY.jpg", "actors": [], "comments": [], "recommandations_id": []}

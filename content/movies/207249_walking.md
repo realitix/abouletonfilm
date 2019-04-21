@@ -1,0 +1,1 @@
+{"tmdb_id": 207249, "title": "Walking", "original_title": "En marchant", "slug_title": "walking", "date": "1968-10-01", "genre": "Animation", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wALzlq442bRZX7n2oBPiReB6zgR.jpg", "actors": [], "comments": [], "recommandations_id": [84886, 386435, 315647, 215160]}

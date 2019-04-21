@@ -1,0 +1,1 @@
+{"tmdb_id": 436279, "title": "The Citizen", "original_title": "Az \u00e1llampolg\u00e1r", "slug_title": "the-citizen", "date": "2017-01-26", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eR7GuRgJVQU9RgKFqoftJ7bfuBz.jpg", "actors": [], "comments": [], "recommandations_id": []}

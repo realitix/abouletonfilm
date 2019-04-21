@@ -1,0 +1,1 @@
+{"tmdb_id": 527470, "title": "From Under the Rubble", "original_title": "From Under the Rubble", "slug_title": "from-under-the-rubble", "date": "2017-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMWc1yNleaqyGVH3vIycgikNCm2.jpg", "actors": [], "comments": [], "recommandations_id": []}

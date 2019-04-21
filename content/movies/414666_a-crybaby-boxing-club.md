@@ -1,0 +1,1 @@
+{"tmdb_id": 414666, "title": "A Crybaby Boxing Club", "original_title": "\uc6b8\ubcf4 \uad8c\ud22c\ubd80", "slug_title": "a-crybaby-boxing-club", "date": "2015-10-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMlvUMFi9lWpZKfbM3q3SiUCYmX.jpg", "actors": [], "comments": [], "recommandations_id": []}

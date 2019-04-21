@@ -1,0 +1,1 @@
+{"tmdb_id": 511087, "title": "Waste no.3 Boom", "original_title": "Waste no.3 Boom", "slug_title": "waste-no-3-boom", "date": "2018-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 354739, "title": "Finding Traction", "original_title": "Finding Traction", "slug_title": "finding-traction", "date": "2014-08-04", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruW3UnjpuwkbiyiUGiHtfOoqmMU.jpg", "actors": ["Nikki Kimball (Herself)"], "comments": [], "recommandations_id": []}

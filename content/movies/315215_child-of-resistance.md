@@ -1,0 +1,1 @@
+{"tmdb_id": 315215, "title": "Child of Resistance", "original_title": "Child of Resistance", "slug_title": "child-of-resistance", "date": "1973-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wL4fHwfqdB646pA95nqkk2giIKw.jpg", "actors": ["Barbarao ()"], "comments": [], "recommandations_id": []}

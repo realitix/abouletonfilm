@@ -1,0 +1,1 @@
+{"tmdb_id": 416898, "title": "Mind Frame", "original_title": "Mind Frame", "slug_title": "mind-frame", "date": "2016-09-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cKvTCaAw8pLoODkWeZPKO5JHB3E.jpg", "actors": [], "comments": [], "recommandations_id": []}

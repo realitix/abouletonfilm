@@ -1,0 +1,1 @@
+{"tmdb_id": 257798, "title": "Comrade President", "original_title": "Camarada presidente", "slug_title": "comrade-president", "date": "2012-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kenneth Kaunda ()", "Gra\u00e7a Machel ()", "Samora Moises Machel ()"], "comments": [], "recommandations_id": []}

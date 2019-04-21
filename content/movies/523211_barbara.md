@@ -1,0 +1,1 @@
+{"tmdb_id": 523211, "title": "Barbara", "original_title": "Barbara", "slug_title": "barbara", "date": "2018-06-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPUhJLlS3uAiXgedt6ofPElkyrk.jpg", "actors": [], "comments": [], "recommandations_id": []}

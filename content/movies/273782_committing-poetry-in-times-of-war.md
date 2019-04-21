@@ -1,0 +1,1 @@
+{"tmdb_id": 273782, "title": "Committing Poetry in Times of War", "original_title": "Committing Poetry in Times of War", "slug_title": "committing-poetry-in-times-of-war", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

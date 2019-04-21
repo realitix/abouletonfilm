@@ -1,0 +1,1 @@
+{"tmdb_id": 455371, "title": "Trash Bags", "original_title": "Trash Bags", "slug_title": "trash-bags", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQbPvMCHhr2a07N0Gem3gypV54j.jpg", "actors": ["Michael Cognata (Miles)", "Maya Morales (Michelle)"], "comments": [], "recommandations_id": []}

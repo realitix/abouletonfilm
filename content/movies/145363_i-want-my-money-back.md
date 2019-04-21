@@ -1,0 +1,1 @@
+{"tmdb_id": 145363, "title": "I want my money back", "original_title": "I want my money back", "slug_title": "i-want-my-money-back", "date": "2012-11-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4be1GOBy6WS5d7F6VK8X4JY1QyZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

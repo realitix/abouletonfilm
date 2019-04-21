@@ -1,0 +1,1 @@
+{"tmdb_id": 337256, "title": "Hospital Brut", "original_title": "Hospital Brut", "slug_title": "hospital-brut", "date": "1999-03-23", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTtjryimlVMlDcJxXYhUCQ804Pt.jpg", "actors": [], "comments": [], "recommandations_id": []}

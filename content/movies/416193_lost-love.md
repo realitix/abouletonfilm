@@ -1,0 +1,1 @@
+{"tmdb_id": 416193, "title": "Lost Love", "original_title": "\uac00\ubc84\ub9b0 \uc0ac\ub791", "slug_title": "lost-love", "date": "1973-12-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSOkJn7vvSIn5uMt8OgDoCQfyGp.jpg", "actors": ["Shin Seong-il ()", "Shin Il-ryong ()"], "comments": [], "recommandations_id": []}

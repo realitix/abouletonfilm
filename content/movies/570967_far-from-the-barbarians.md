@@ -1,0 +1,1 @@
+{"tmdb_id": 570967, "title": "Far from the Barbarians", "original_title": "Loin des barbares", "slug_title": "far-from-the-barbarians", "date": "1994-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugJZmfNG0vvkKH00a35NeSBxQ1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

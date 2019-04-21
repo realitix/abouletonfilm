@@ -1,0 +1,1 @@
+{"tmdb_id": 590845, "title": "Homem de proje\u00e7\u00e3o", "original_title": "Homem de proje\u00e7\u00e3o", "slug_title": "homem-de-projecao", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexandre Moura (seo alexandre)"], "comments": [], "recommandations_id": []}

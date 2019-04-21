@@ -1,0 +1,1 @@
+{"tmdb_id": 402726, "title": "Frankenstein the Rapist", "original_title": "Frankenstein the Rapist", "slug_title": "frankenstein-the-rapist", "date": "2008-01-18", "genre": "Horreur", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csfUm6IRKzBZAelIoK03muC1aCC.jpg", "actors": [], "comments": [], "recommandations_id": []}

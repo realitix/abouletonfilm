@@ -1,0 +1,1 @@
+{"tmdb_id": 312498, "title": "The Zula Patrol: Vol. 2: Moons Mayhem", "original_title": "The Zula Patrol: Vol. 2: Moons Mayhem", "slug_title": "the-zula-patrol-vol-2-moons-mayhem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

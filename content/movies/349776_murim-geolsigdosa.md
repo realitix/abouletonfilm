@@ -1,0 +1,1 @@
+{"tmdb_id": 349776, "title": "\ubb34\ub9bc \uac78\uc2dd\ub3c4\uc0ac", "original_title": "\ubb34\ub9bc \uac78\uc2dd\ub3c4\uc0ac", "slug_title": "murim-geolsigdosa", "date": "1982-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

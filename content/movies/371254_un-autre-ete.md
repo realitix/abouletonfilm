@@ -1,0 +1,1 @@
+{"tmdb_id": 371254, "title": "Un autre ete", "original_title": "Un autre ete", "slug_title": "un-autre-ete", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

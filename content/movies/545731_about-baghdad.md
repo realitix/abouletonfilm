@@ -1,0 +1,1 @@
+{"tmdb_id": 545731, "title": "About Baghdad", "original_title": "About Baghdad", "slug_title": "about-baghdad", "date": "", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIWIr3twgnX65VNMKguDFdVdxB5.jpg", "actors": ["Sinan Antoon ()"], "comments": [], "recommandations_id": []}

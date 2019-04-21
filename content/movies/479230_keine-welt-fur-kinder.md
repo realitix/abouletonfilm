@@ -1,0 +1,1 @@
+{"tmdb_id": 479230, "title": "Keine Welt f\u00fcr Kinder", "original_title": "Keine Welt f\u00fcr Kinder", "slug_title": "keine-welt-fur-kinder", "date": "1972-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

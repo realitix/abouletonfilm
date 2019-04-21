@@ -1,0 +1,1 @@
+{"tmdb_id": 123569, "title": "Youth Wars", "original_title": "Youth Wars", "slug_title": "youth-wars", "date": "1991-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cPCiSRsFe2JCAKIAQI8ohsUMjjZ.jpg", "actors": ["Bernd Knauer (Bernd Knauer)", "Herr Fugbaum (Herr Fugbaum)"], "comments": [], "recommandations_id": []}

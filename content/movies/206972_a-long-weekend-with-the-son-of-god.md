@@ -1,0 +1,1 @@
+{"tmdb_id": 206972, "title": "A Long Weekend with The Son of God", "original_title": "A Long Weekend with The Son of God", "slug_title": "a-long-weekend-with-the-son-of-god", "date": "2010-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

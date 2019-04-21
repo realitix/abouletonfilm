@@ -1,0 +1,1 @@
+{"tmdb_id": 556969, "title": "The Three-Legged Cat", "original_title": "The Three-Legged Cat", "slug_title": "the-three-legged-cat", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/undeAwCSEjdlksXRitAuN9LLzYr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282560, "title": "Amma Ninna Tolinalli", "original_title": "Amma Ninna Tolinalli", "slug_title": "amma-ninna-tolinalli", "date": "2001-09-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Shruti ()"], "comments": [], "recommandations_id": []}

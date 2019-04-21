@@ -1,0 +1,1 @@
+{"tmdb_id": 324119, "title": "Psicofonias 1.0", "original_title": "Psicofonias 1.0", "slug_title": "psicofonias-1-0", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

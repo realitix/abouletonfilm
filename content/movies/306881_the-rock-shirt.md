@@ -1,0 +1,1 @@
+{"tmdb_id": 306881, "title": "The Rock Shirt", "original_title": "The Rock Shirt", "slug_title": "the-rock-shirt", "date": "2011-12-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

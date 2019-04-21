@@ -1,0 +1,1 @@
+{"tmdb_id": 184611, "title": "Betty Boop and Grampy", "original_title": "Betty Boop and Grampy", "slug_title": "betty-boop-and-grampy", "date": "1935-08-15", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cgkm3UNWnpP0erUNgZMeFki397.jpg", "actors": ["Mae Questel (Betty Boop)"], "comments": [], "recommandations_id": []}

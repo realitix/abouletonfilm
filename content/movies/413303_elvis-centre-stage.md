@@ -1,0 +1,1 @@
+{"tmdb_id": 413303, "title": "Elvis Centre Stage", "original_title": "Elvis Centre Stage", "slug_title": "elvis-centre-stage", "date": "1990-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1o7eH4DNEFViwteQDhg4sjulI94.jpg", "actors": [], "comments": [], "recommandations_id": []}

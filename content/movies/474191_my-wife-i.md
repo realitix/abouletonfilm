@@ -1,0 +1,1 @@
+{"tmdb_id": 474191, "title": "My Wife & I", "original_title": "My Wife & I", "slug_title": "my-wife-i", "date": "2017-09-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBM8LsvCWHFRsyf0LcO04BJZBrB.jpg", "actors": ["Ramsey Nouah ()", "Omoni Oboli ()"], "comments": [], "recommandations_id": []}

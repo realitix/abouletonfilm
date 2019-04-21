@@ -1,0 +1,1 @@
+{"tmdb_id": 319521, "title": "Pass the Mic!", "original_title": "Pass the Mic!", "slug_title": "pass-the-mic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

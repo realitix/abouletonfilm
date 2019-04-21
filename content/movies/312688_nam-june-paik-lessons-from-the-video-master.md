@@ -1,0 +1,1 @@
+{"tmdb_id": 312688, "title": "Nam June Paik: Lessons from the Video Master", "original_title": "Nam June Paik: Lessons from the Video Master", "slug_title": "nam-june-paik-lessons-from-the-video-master", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297854, "title": "Wayside School", "original_title": "Wayside School", "slug_title": "wayside-school", "date": "2005-10-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

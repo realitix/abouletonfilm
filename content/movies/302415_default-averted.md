@@ -1,0 +1,1 @@
+{"tmdb_id": 302415, "title": "Default Averted", "original_title": "Default Averted", "slug_title": "default-averted", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8u9Dby0dqPp8mVmPH3NjVxqOuJB.jpg", "actors": [], "comments": [], "recommandations_id": []}

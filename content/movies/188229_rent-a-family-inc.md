@@ -1,0 +1,1 @@
+{"tmdb_id": 188229, "title": "Rent A Family Inc.", "original_title": "Lej en familie A/S/", "slug_title": "rent-a-family-inc", "date": "2012-08-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dCcFJUUHFEeNL8ABSWdVjagVY7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

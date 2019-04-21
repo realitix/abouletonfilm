@@ -1,0 +1,1 @@
+{"tmdb_id": 349873, "title": "\ubc18\ucabd \uc544\uc774\ub4e4", "original_title": "\ubc18\ucabd \uc544\uc774\ub4e4", "slug_title": "banjjog-aideul", "date": "1990-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

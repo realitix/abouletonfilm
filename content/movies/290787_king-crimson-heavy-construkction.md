@@ -1,0 +1,1 @@
+{"tmdb_id": 290787, "title": "King Crimson: Heavy ConstruKction", "original_title": "King Crimson: Heavy ConstruKction", "slug_title": "king-crimson-heavy-construkction", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

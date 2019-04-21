@@ -1,0 +1,1 @@
+{"tmdb_id": 406334, "title": "Meet in Pyongyang", "original_title": "Meet in Pyongyang", "slug_title": "meet-in-pyongyang", "date": "2012-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eW1Xh6IJNqktG013IclsKOuqSde.jpg", "actors": [], "comments": [], "recommandations_id": []}

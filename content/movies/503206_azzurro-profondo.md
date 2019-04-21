@@ -1,0 +1,1 @@
+{"tmdb_id": 503206, "title": "Azzurro profondo", "original_title": "Azzurro profondo", "slug_title": "azzurro-profondo", "date": "1993-05-03", "genre": "Aventure / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBlAcoGOW8cwizDNhMH42f5mXTC.jpg", "actors": [], "comments": [], "recommandations_id": []}

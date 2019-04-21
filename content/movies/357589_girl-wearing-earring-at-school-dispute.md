@@ -1,0 +1,1 @@
+{"tmdb_id": 357589, "title": "Girl Wearing Earring at School Dispute", "original_title": "Girl Wearing Earring at School Dispute", "slug_title": "girl-wearing-earring-at-school-dispute", "date": "1966-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

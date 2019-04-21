@@ -1,0 +1,1 @@
+{"tmdb_id": 293737, "title": "Mopey Dope", "original_title": "Mopey Dope", "slug_title": "mopey-dope", "date": "1944-06-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon ()", "Arthur Q. Bryan (Blond Neighbor)", "Claire Rochelle ()", "Al Thompson ()"], "comments": [], "recommandations_id": []}

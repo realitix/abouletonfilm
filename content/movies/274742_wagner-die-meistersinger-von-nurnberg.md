@@ -1,0 +1,1 @@
+{"tmdb_id": 274742, "title": "Wagner: Die Meistersinger Von Nurnberg", "original_title": "Wagner: Die Meistersinger Von Nurnberg", "slug_title": "wagner-die-meistersinger-von-nurnberg", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

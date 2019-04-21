@@ -1,0 +1,1 @@
+{"tmdb_id": 563194, "title": "Chrysanthemums", "original_title": "Les chrysanth\u00e8mes", "slug_title": "chrysanthemums", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9bKSHS7Zvu2VLosRhnNyP1U7Te.jpg", "actors": ["Julienne Mathieu ()"], "comments": [], "recommandations_id": []}

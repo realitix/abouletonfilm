@@ -1,0 +1,1 @@
+{"tmdb_id": 593485, "title": "Ken Foster", "original_title": "Ken Foster", "slug_title": "ken-foster", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

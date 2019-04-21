@@ -1,0 +1,1 @@
+{"tmdb_id": 508910, "title": "Kung Fu Hero", "original_title": "Kung Fu Hero", "slug_title": "kung-fu-hero", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmZuhucs5mPacg3lWuSjFrXI2Mb.jpg", "actors": [], "comments": [], "recommandations_id": []}

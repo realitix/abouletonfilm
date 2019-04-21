@@ -1,0 +1,1 @@
+{"tmdb_id": 384024, "title": "Regrouping", "original_title": "Regrouping", "slug_title": "regrouping", "date": "1976-12-08", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jiy1Ataoh7WTDVC8N0AGAXbRL5p.jpg", "actors": [], "comments": [], "recommandations_id": []}

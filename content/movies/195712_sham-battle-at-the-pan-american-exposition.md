@@ -1,0 +1,1 @@
+{"tmdb_id": 195712, "title": "Sham Battle at the Pan-American Exposition", "original_title": "Sham Battle at the Pan-American Exposition", "slug_title": "sham-battle-at-the-pan-american-exposition", "date": "1901-11-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

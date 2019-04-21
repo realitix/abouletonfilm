@@ -1,0 +1,1 @@
+{"tmdb_id": 388474, "title": "Die Finanzen des Gro\u00dfherzogs Radikant Film", "original_title": "Die Finanzen des Gro\u00dfherzogs Radikant Film", "slug_title": "die-finanzen-des-grossherzogs-radikant-film", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

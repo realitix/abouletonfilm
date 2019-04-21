@@ -1,0 +1,1 @@
+{"tmdb_id": 253340, "title": "Super Bowl", "original_title": "Super Bowl", "slug_title": "super-bowl", "date": "1976-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

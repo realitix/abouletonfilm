@@ -1,0 +1,1 @@
+{"tmdb_id": 73707, "title": "Watch Mr. Wizard", "original_title": "Watch Mr. Wizard", "slug_title": "watch-mr-wizard", "date": "2009-01-01", "genre": "Familial", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dqvA24uHjQtqctALpkyvrXcTjG6.jpg", "actors": [], "comments": [], "recommandations_id": []}

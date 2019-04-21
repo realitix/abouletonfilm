@@ -1,0 +1,1 @@
+{"tmdb_id": 277257, "title": "The Morning Star", "original_title": "Subah Ka Tara", "slug_title": "the-morning-star", "date": "1954-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sPjGQ6g51tTQ6DapUK0R6wdsDuh.jpg", "actors": [], "comments": [], "recommandations_id": []}

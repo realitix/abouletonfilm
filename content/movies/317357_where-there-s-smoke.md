@@ -1,0 +1,1 @@
+{"tmdb_id": 317357, "title": "Where There's Smoke", "original_title": "Where There's Smoke", "slug_title": "where-there-s-smoke", "date": "1962-01-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

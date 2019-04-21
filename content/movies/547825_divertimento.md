@@ -1,0 +1,1 @@
+{"tmdb_id": 547825, "title": "Divertimento", "original_title": "Divertimento", "slug_title": "divertimento", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

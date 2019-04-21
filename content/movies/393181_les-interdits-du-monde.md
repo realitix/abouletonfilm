@@ -1,0 +1,1 @@
+{"tmdb_id": 393181, "title": "Les Interdits Du Monde", "original_title": "Les Interdits Du Monde", "slug_title": "les-interdits-du-monde", "date": "1986-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPDTCyEqd5kaowGe4nKltKlbIwx.jpg", "actors": [], "comments": [], "recommandations_id": []}

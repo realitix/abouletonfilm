@@ -1,0 +1,1 @@
+{"tmdb_id": 412710, "title": "Carmen Habanera", "original_title": "Carmen Habanera", "slug_title": "carmen-habanera", "date": "1995-01-01", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPiWEUA0UbxZVg8mQQCln1ZxrGu.jpg", "actors": [], "comments": [], "recommandations_id": [88570, 163343, 147819, 162691]}

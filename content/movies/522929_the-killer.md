@@ -1,0 +1,1 @@
+{"tmdb_id": 522929, "title": "The Killer", "original_title": "The Killer", "slug_title": "the-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lupita Nyong'o ()"], "comments": [], "recommandations_id": []}

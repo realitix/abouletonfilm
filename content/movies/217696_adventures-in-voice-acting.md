@@ -1,0 +1,1 @@
+{"tmdb_id": 217696, "title": "Adventures in Voice Acting", "original_title": "Adventures in Voice Acting", "slug_title": "adventures-in-voice-acting", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

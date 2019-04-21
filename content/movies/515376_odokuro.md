@@ -1,0 +1,1 @@
+{"tmdb_id": 515376, "title": "Odokuro", "original_title": "Odokuro", "slug_title": "odokuro", "date": "2011-08-05", "genre": "Animation / Horreur", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gary Numan (Narrator (Voice))"], "comments": [], "recommandations_id": []}

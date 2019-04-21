@@ -1,0 +1,1 @@
+{"tmdb_id": 428206, "title": "To Be a Rose", "original_title": "To Be a Rose", "slug_title": "to-be-a-rose", "date": "1974-09-12", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZjSpSFE5KIB2N8uqa9QylaDJCJ.jpg", "actors": ["Stephen Brancliff (David)"], "comments": [], "recommandations_id": []}

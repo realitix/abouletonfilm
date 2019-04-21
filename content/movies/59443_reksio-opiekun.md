@@ -1,0 +1,1 @@
+{"tmdb_id": 59443, "title": "Reksio: Opiekun", "original_title": "Reksio: Opiekun", "slug_title": "reksio-opiekun", "date": "2007-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7KQwcm2c2obby0hXRFeP5Jxvsfj.jpg", "actors": [], "comments": [], "recommandations_id": []}

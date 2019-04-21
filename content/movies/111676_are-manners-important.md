@@ -1,0 +1,1 @@
+{"tmdb_id": 111676, "title": "Are Manners Important?", "original_title": "Are Manners Important?", "slug_title": "are-manners-important", "date": "1954-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

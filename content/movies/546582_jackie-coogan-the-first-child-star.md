@@ -1,0 +1,1 @@
+{"tmdb_id": 546582, "title": "Jackie Coogan: The First Child Star", "original_title": "Jackie Coogan: The First Child Star", "slug_title": "jackie-coogan-the-first-child-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

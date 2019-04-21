@@ -1,0 +1,1 @@
+{"tmdb_id": 316149, "title": "Meeting a Bullet", "original_title": "Meeting a Bullet", "slug_title": "meeting-a-bullet", "date": "2004-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

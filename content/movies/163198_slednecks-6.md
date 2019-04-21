@@ -1,0 +1,1 @@
+{"tmdb_id": 163198, "title": "Slednecks 6", "original_title": "Slednecks 6", "slug_title": "slednecks-6", "date": "2003-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ct9l8GpYVQwAGdBpwVPgSVqWjN0.jpg", "actors": [], "comments": [], "recommandations_id": []}

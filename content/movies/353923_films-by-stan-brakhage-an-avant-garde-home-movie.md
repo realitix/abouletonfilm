@@ -1,0 +1,1 @@
+{"tmdb_id": 353923, "title": "Films by Stan Brakhage: An Avant-Garde Home Movie", "original_title": "Films by Stan Brakhage: An Avant-Garde Home Movie", "slug_title": "films-by-stan-brakhage-an-avant-garde-home-movie", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

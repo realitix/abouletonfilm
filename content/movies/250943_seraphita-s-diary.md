@@ -1,0 +1,1 @@
+{"tmdb_id": 250943, "title": "Seraphita's Diary", "original_title": "Seraphita's Diary", "slug_title": "seraphita-s-diary", "date": "1982-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zN3Qp8KPFcGgOpEdzLIIaQnjyTy.jpg", "actors": ["Apollonia van Ravenstein (Seraphita)"], "comments": [], "recommandations_id": []}

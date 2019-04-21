@@ -1,0 +1,1 @@
+{"tmdb_id": 268369, "title": "La Reina", "original_title": "La Reina", "slug_title": "la-reina", "date": "2013-10-28", "genre": "Drame / Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pD0lzFGbyt5kPqlGkjw6MSnZiT1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337940, "title": "Mobs, Inc.", "original_title": "Mobs, Inc.", "slug_title": "mobs-inc", "date": "1956-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ZzfvHt5QCx9FpJYbVzDQHJjgib.jpg", "actors": [], "comments": [], "recommandations_id": []}

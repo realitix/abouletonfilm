@@ -1,0 +1,1 @@
+{"tmdb_id": 322420, "title": "Medicine Show", "original_title": "Medicine Show", "slug_title": "medicine-show", "date": "1933-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

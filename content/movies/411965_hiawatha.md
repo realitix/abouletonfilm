@@ -1,0 +1,1 @@
+{"tmdb_id": 411965, "title": "Hiawatha", "original_title": "Hiawatha", "slug_title": "hiawatha", "date": "1913-03-18", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/koOFz4DTb5gc0t8djljpFiYivW2.jpg", "actors": ["Soon-goot (Minnehaha)", "Jesse Cornplanter (Hiawatha)"], "comments": [], "recommandations_id": []}

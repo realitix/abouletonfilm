@@ -1,0 +1,1 @@
+{"tmdb_id": 468024, "title": "Strike A Rock", "original_title": "Strike A Rock", "slug_title": "strike-a-rock", "date": "2017-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v76xnB6gAUtRgJNS3mX9t2QaVdz.jpg", "actors": [], "comments": [], "recommandations_id": []}

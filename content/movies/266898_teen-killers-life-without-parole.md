@@ -1,0 +1,1 @@
+{"tmdb_id": 266898, "title": "Teen Killers: Life without Parole", "original_title": "Teen Killers: Life without Parole", "slug_title": "teen-killers-life-without-parole", "date": "2014-04-21", "genre": "Documentaire / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

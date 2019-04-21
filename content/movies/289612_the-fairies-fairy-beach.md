@@ -1,0 +1,1 @@
+{"tmdb_id": 289612, "title": "The Fairies: Fairy Beach", "original_title": "The Fairies: Fairy Beach", "slug_title": "the-fairies-fairy-beach", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

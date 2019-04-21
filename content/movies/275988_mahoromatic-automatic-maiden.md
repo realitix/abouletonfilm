@@ -1,0 +1,1 @@
+{"tmdb_id": 275988, "title": "Mahoromatic: Automatic Maiden", "original_title": "Mahoromatic: Automatic Maiden", "slug_title": "mahoromatic-automatic-maiden", "date": "2004-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

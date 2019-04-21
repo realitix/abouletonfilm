@@ -1,0 +1,1 @@
+{"tmdb_id": 132367, "title": "Breakaway", "original_title": "Breakaway", "slug_title": "breakaway", "date": "1966-01-01", "genre": "Musique", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a9N4PeVW8FrdLnkKQ0pLNa4UVV9.jpg", "actors": ["Toni Basil (Dancer)"], "comments": [], "recommandations_id": [203090, 130851, 122479, 260213]}

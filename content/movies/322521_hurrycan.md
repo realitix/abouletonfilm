@@ -1,0 +1,1 @@
+{"tmdb_id": 322521, "title": "Hurrycan", "original_title": "Hurrycan", "slug_title": "hurrycan", "date": "1979-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7vlznBgNP4wQvWh5i1tfwOWzlzr.jpg", "actors": ["Dore O. ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274322, "title": "Edward M. Kennedy: Lion of the Senate", "original_title": "Edward M. Kennedy: Lion of the Senate", "slug_title": "edward-m-kennedy-lion-of-the-senate", "date": "2009-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

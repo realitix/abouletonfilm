@@ -1,0 +1,1 @@
+{"tmdb_id": 590805, "title": "Labour/Leisure", "original_title": "Labour/Leisure", "slug_title": "labour-leisure", "date": "2019-03-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pPS1rYI86Dqf438v0hlNoV4PNVB.jpg", "actors": [], "comments": [], "recommandations_id": []}

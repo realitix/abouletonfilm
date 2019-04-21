@@ -1,0 +1,1 @@
+{"tmdb_id": 308492, "title": "Mozart: Le Nozze Di Figaro: Peter Sellars", "original_title": "Mozart: Le Nozze Di Figaro: Peter Sellars", "slug_title": "mozart-le-nozze-di-figaro-peter-sellars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

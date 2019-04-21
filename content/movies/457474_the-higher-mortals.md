@@ -1,0 +1,1 @@
+{"tmdb_id": 457474, "title": "The Higher Mortals", "original_title": "The Higher Mortals", "slug_title": "the-higher-mortals", "date": "1993-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9y0AkKzcnsn9xsEQsKz3WozhQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

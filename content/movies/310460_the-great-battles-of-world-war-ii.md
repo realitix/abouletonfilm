@@ -1,0 +1,1 @@
+{"tmdb_id": 310460, "title": "The Great Battles of World War II", "original_title": "The Great Battles of World War II", "slug_title": "the-great-battles-of-world-war-ii", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 355605, "title": "Fierce Lady", "original_title": "Huo bao lang nu", "slug_title": "fierce-lady", "date": "1987-01-21", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Ho Li-Li ()"], "comments": [], "recommandations_id": []}

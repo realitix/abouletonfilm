@@ -1,0 +1,1 @@
+{"tmdb_id": 314169, "title": "The Hare Mail", "original_title": "The Hare Mail", "slug_title": "the-hare-mail", "date": "1931-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mickey Rooney (Oswald the Lucky Rabbit (voice))"], "comments": [], "recommandations_id": []}

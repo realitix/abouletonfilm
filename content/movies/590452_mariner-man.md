@@ -1,0 +1,1 @@
+{"tmdb_id": 590452, "title": "Mariner Man", "original_title": "Mariner Man", "slug_title": "mariner-man", "date": "1983-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nKaH1EoXZ2QCVVz3tNPOtAhtUx.jpg", "actors": ["Bill Scott ((voice))", "Cyndy Ettinger ((voice))"], "comments": [], "recommandations_id": []}

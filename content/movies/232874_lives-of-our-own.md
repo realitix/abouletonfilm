@@ -1,0 +1,1 @@
+{"tmdb_id": 232874, "title": "Lives of Our Own", "original_title": "Lives of Our Own", "slug_title": "lives-of-our-own", "date": "1980-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

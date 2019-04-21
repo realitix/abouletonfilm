@@ -1,0 +1,1 @@
+{"tmdb_id": 550819, "title": "Soccer Is War", "original_title": "Voetbal is oorlog", "slug_title": "soccer-is-war", "date": "2018-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/war5WuSx3hFDut2tv4acU2UOkOW.jpg", "actors": [], "comments": [], "recommandations_id": []}

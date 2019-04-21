@@ -1,0 +1,1 @@
+{"tmdb_id": 511211, "title": "Canada Vignettes: Instant French", "original_title": "Canada Vignettes: Instant French", "slug_title": "canada-vignettes-instant-french", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

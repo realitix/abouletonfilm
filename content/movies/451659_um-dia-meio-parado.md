@@ -1,0 +1,1 @@
+{"tmdb_id": 451659, "title": "Um Dia Meio Parado", "original_title": "Um Dia Meio Parado", "slug_title": "um-dia-meio-parado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

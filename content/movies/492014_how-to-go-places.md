@@ -1,0 +1,1 @@
+{"tmdb_id": 492014, "title": "How to Go Places", "original_title": "How to Go Places", "slug_title": "how-to-go-places", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uxYKUFkyATON2CrzyXOt32yQHsn.jpg", "actors": ["Gale Storm (Herself)"], "comments": [], "recommandations_id": []}

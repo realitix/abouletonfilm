@@ -1,0 +1,1 @@
+{"tmdb_id": 310710, "title": "Care Bears Give Thanks", "original_title": "Care Bears Give Thanks", "slug_title": "care-bears-give-thanks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

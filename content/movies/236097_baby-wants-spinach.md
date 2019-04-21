@@ -1,0 +1,1 @@
+{"tmdb_id": 236097, "title": "Baby Wants Spinach", "original_title": "Baby Wants Spinach", "slug_title": "baby-wants-spinach", "date": "1950-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

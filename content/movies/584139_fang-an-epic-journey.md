@@ -1,0 +1,1 @@
+{"tmdb_id": 584139, "title": "FANG: An Epic Journey", "original_title": "FANG: An Epic Journey", "slug_title": "fang-an-epic-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

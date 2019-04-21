@@ -1,0 +1,1 @@
+{"tmdb_id": 589974, "title": "Kaifinama", "original_title": "Kaifinama", "slug_title": "kaifinama", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shabana Azmi ()", "Baba Azmi ()", "Kaifi Azmi ()"], "comments": [], "recommandations_id": []}

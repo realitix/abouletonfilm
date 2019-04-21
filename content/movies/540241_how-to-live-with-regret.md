@@ -1,0 +1,1 @@
+{"tmdb_id": 540241, "title": "How to Live with Regret", "original_title": "How to Live with Regret", "slug_title": "how-to-live-with-regret", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Caveh Zahedi ()", "Janet Burns ()"], "comments": [], "recommandations_id": []}

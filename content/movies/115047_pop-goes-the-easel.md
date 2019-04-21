@@ -1,0 +1,1 @@
+{"tmdb_id": 115047, "title": "Pop Goes the Easel", "original_title": "Pop Goes the Easel", "slug_title": "pop-goes-the-easel", "date": "1935-03-29", "genre": "Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Larry Fine ()", "Moe Howard ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556739, "title": "Les vacances du diable", "original_title": "Les vacances du diable", "slug_title": "les-vacances-du-diable", "date": "1931-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

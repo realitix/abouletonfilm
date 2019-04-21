@@ -1,0 +1,1 @@
+{"tmdb_id": 317847, "title": "Asia: Live Legends", "original_title": "Asia: Live Legends", "slug_title": "asia-live-legends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

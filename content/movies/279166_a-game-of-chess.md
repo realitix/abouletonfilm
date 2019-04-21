@@ -1,0 +1,1 @@
+{"tmdb_id": 279166, "title": "A Game of Chess", "original_title": "A Game of Chess", "slug_title": "a-game-of-chess", "date": "2011-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nI6hgx8XkitPhzj5hxqNRPBQOPM.jpg", "actors": [], "comments": [], "recommandations_id": []}

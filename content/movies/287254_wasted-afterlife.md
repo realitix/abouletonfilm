@@ -1,0 +1,1 @@
+{"tmdb_id": 287254, "title": "Wasted Afterlife", "original_title": "Wasted Afterlife", "slug_title": "wasted-afterlife", "date": "2014-08-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

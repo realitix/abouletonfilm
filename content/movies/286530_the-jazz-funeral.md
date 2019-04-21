@@ -1,0 +1,1 @@
+{"tmdb_id": 286530, "title": "The Jazz Funeral", "original_title": "The Jazz Funeral", "slug_title": "the-jazz-funeral", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSb12Rv84kmcVrNrYbpEkYb3D0Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

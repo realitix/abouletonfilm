@@ -1,0 +1,1 @@
+{"tmdb_id": 339688, "title": "Calea (The Path)", "original_title": "Calea (The Path)", "slug_title": "calea-the-path", "date": "2013-04-11", "genre": "Fantastique", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 479589, "title": "Blue Blood Tour Bakuhatsu Sunzen Gig", "original_title": "Blue Blood Tour Bakuhatsu Sunzen Gig", "slug_title": "blue-blood-tour-bakuhatsu-sunzen-gig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["YOSHIKI ()"], "comments": [], "recommandations_id": []}

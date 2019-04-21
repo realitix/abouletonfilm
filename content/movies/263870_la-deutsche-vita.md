@@ -1,0 +1,1 @@
+{"tmdb_id": 263870, "title": "La Deutsche Vita", "original_title": "La Deutsche Vita", "slug_title": "la-deutsche-vita", "date": "2014-03-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Dtz1X9z4ihM4sCpmuGzpEXg4At.jpg", "actors": [], "comments": [], "recommandations_id": []}

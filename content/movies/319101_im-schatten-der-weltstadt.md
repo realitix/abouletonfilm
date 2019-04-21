@@ -1,0 +1,1 @@
+{"tmdb_id": 319101, "title": "Im Schatten der Weltstadt", "original_title": "Im Schatten der Weltstadt", "slug_title": "im-schatten-der-weltstadt", "date": "1930-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

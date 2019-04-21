@@ -1,0 +1,1 @@
+{"tmdb_id": 283950, "title": "Ray Gun Virus", "original_title": "Ray Gun Virus", "slug_title": "ray-gun-virus", "date": "1966-10-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pXjip8kXGTuC8YNFRPt5TdaS5aB.jpg", "actors": [], "comments": [], "recommandations_id": []}

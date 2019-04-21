@@ -1,0 +1,1 @@
+{"tmdb_id": 467487, "title": "Blekbala", "original_title": "Blekbala", "slug_title": "blekbala", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPPHANwtBDVcjyyEWcYG3HH05hU.jpg", "actors": [], "comments": [], "recommandations_id": []}

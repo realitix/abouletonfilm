@@ -1,0 +1,1 @@
+{"tmdb_id": 575377, "title": "Grand Larceny", "original_title": "Grand Larceny", "slug_title": "grand-larceny", "date": "1987-01-01", "genre": "Thriller / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ritza Brown (Gina)", "Marilu Henner (Freddy Grand)", "Louis Jourdan (Charles Grand)"], "comments": [], "recommandations_id": []}

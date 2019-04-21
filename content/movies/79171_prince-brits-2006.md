@@ -1,0 +1,1 @@
+{"tmdb_id": 79171, "title": "Prince - Brits 2006", "original_title": "Prince - Brits 2006", "slug_title": "prince-brits-2006", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

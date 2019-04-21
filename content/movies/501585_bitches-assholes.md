@@ -1,0 +1,1 @@
+{"tmdb_id": 501585, "title": "Bitches & Assholes", "original_title": "Bitches & Assholes", "slug_title": "bitches-assholes", "date": "", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

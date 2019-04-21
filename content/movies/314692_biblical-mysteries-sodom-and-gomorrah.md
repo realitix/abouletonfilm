@@ -1,0 +1,1 @@
+{"tmdb_id": 314692, "title": "Biblical Mysteries: Sodom and Gomorrah", "original_title": "Biblical Mysteries: Sodom and Gomorrah", "slug_title": "biblical-mysteries-sodom-and-gomorrah", "date": "2008-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307218, "title": "Chittukkuruvi", "original_title": "Chittukkuruvi", "slug_title": "chittukkuruvi", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

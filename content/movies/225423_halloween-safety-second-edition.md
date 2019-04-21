@@ -1,0 +1,1 @@
+{"tmdb_id": 225423, "title": "Halloween Safety (Second Edition)", "original_title": "Halloween Safety (Second Edition)", "slug_title": "halloween-safety-second-edition", "date": "1985-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

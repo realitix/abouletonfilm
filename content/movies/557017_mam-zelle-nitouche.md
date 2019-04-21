@@ -1,0 +1,1 @@
+{"tmdb_id": 557017, "title": "Mam'zelle Nitouche", "original_title": "Mam'zelle Nitouche", "slug_title": "mam-zelle-nitouche", "date": "1931-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

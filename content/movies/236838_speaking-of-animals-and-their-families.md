@@ -1,0 +1,1 @@
+{"tmdb_id": 236838, "title": "Speaking of Animals and Their Families", "original_title": "Speaking of Animals and Their Families", "slug_title": "speaking-of-animals-and-their-families", "date": "1942-06-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

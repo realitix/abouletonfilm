@@ -1,0 +1,1 @@
+{"tmdb_id": 433687, "title": "Dance of Dust", "original_title": "Raghs-e-khak", "slug_title": "dance-of-dust", "date": "1998-08-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9L4PzDFKE2ave3mJTO7t52G0IX.jpg", "actors": ["Mahmoud Khosravi ()", "Limua Rahi ()"], "comments": [], "recommandations_id": []}

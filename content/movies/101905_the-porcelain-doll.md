@@ -1,0 +1,1 @@
+{"tmdb_id": 101905, "title": "The Porcelain Doll", "original_title": "A porcel\u00e1nbaba", "slug_title": "the-porcelain-doll", "date": "2005-10-06", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edHw63GIt2K8HdcFNt6qKTHPO4g.jpg", "actors": [], "comments": [], "recommandations_id": []}

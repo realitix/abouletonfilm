@@ -1,0 +1,1 @@
+{"tmdb_id": 205821, "title": "Gr\u00f8nlandsfilmen", "original_title": "Gr\u00f8nlandsfilmen", "slug_title": "gronlandsfilmen", "date": "1928-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 363194, "title": "Spejbl & Hurvinek - Das Leben ist sch\u00f6n", "original_title": "Spejbl & Hurvinek - Das Leben ist sch\u00f6n", "slug_title": "spejbl-hurvinek-das-leben-ist-schon", "date": "1971-10-08", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

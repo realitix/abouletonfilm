@@ -1,0 +1,1 @@
+{"tmdb_id": 230241, "title": "Free Lisl: Fear & Loathing in Denver", "original_title": "Free Lisl: Fear & Loathing in Denver", "slug_title": "free-lisl-fear-loathing-in-denver", "date": "2006-11-17", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

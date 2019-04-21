@@ -1,0 +1,1 @@
+{"tmdb_id": 349913, "title": "Humor Amargo", "original_title": "Humor Amargo", "slug_title": "humor-amargo", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hw1IaEuwDMZLxUuIvi64HtsCyho.jpg", "actors": ["Hugo Carvana ()", "Paulo Jos\u00e9 ()"], "comments": [], "recommandations_id": []}

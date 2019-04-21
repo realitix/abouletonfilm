@@ -1,0 +1,1 @@
+{"tmdb_id": 571320, "title": "Mirror Points", "original_title": "Mirror Points", "slug_title": "mirror-points", "date": "1983-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

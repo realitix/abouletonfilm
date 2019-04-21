@@ -1,0 +1,1 @@
+{"tmdb_id": 368272, "title": "Double Sculls", "original_title": "Double Sculls", "slug_title": "double-sculls", "date": "1986-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

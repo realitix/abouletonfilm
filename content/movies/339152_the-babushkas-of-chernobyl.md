@@ -1,0 +1,1 @@
+{"tmdb_id": 339152, "title": "The Babushkas of Chernobyl", "original_title": "The Babushkas of Chernobyl", "slug_title": "the-babushkas-of-chernobyl", "date": "2015-06-14", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rl4leIhbyGgPoMUSUdpFkZDJdsK.jpg", "actors": [], "comments": [], "recommandations_id": []}

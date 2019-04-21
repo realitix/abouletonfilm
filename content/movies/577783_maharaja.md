@@ -1,0 +1,1 @@
+{"tmdb_id": 577783, "title": "Maharaja", "original_title": "Maharaja", "slug_title": "maharaja", "date": "1943-01-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hal Takier ()", "Betty Takier ()"], "comments": [], "recommandations_id": []}

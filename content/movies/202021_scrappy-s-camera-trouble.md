@@ -1,0 +1,1 @@
+{"tmdb_id": 202021, "title": "Scrappy's Camera Trouble", "original_title": "Scrappy's Camera Trouble", "slug_title": "scrappy-s-camera-trouble", "date": "1936-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324933, "title": "Richard Corman: A Documentary", "original_title": "Richard Corman: A Documentary", "slug_title": "richard-corman-a-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

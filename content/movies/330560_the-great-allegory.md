@@ -1,0 +1,1 @@
+{"tmdb_id": 330560, "title": "The Great Allegory", "original_title": "La grande all\u00e9gorie", "slug_title": "the-great-allegory", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

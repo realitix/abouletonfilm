@@ -1,0 +1,1 @@
+{"tmdb_id": 453034, "title": "Terror Faces Magoo", "original_title": "Terror Faces Magoo", "slug_title": "terror-faces-magoo", "date": "1959-07-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo)", "Daws Butler (Waldo)"], "comments": [], "recommandations_id": []}

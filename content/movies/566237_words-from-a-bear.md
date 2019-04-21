@@ -1,0 +1,1 @@
+{"tmdb_id": 566237, "title": "Words from a Bear", "original_title": "Words from a Bear", "slug_title": "words-from-a-bear", "date": "2019-01-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOUWEic1NHMGIOz5Y3oHg8YOAzf.jpg", "actors": [], "comments": [], "recommandations_id": []}

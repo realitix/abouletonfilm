@@ -1,0 +1,1 @@
+{"tmdb_id": 565890, "title": "Le rose et le blanc", "original_title": "Le rose et le blanc", "slug_title": "le-rose-et-le-blanc", "date": "1982-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381759, "title": "Friedman's Shoes", "original_title": "Friedman's Shoes", "slug_title": "friedman-s-shoes", "date": "2016-02-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7zpTxk0DNER6uwuAl7azfY5tINu.jpg", "actors": [], "comments": [], "recommandations_id": []}

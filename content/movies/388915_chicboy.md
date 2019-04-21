@@ -1,0 +1,1 @@
+{"tmdb_id": 388915, "title": "Chicboy", "original_title": "Chicboy", "slug_title": "chicboy", "date": "2016-03-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzAGMIdWIft1Usd7o6rhTQ2kjgU.jpg", "actors": ["Vic Ryan Julius Ong ()", "Rona Mae Lallana ()"], "comments": [], "recommandations_id": []}

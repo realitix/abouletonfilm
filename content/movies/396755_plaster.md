@@ -1,0 +1,1 @@
+{"tmdb_id": 396755, "title": "Plaster", "original_title": "Plaster", "slug_title": "plaster", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

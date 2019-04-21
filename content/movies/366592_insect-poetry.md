@@ -1,0 +1,1 @@
+{"tmdb_id": 366592, "title": "Insect Poetry", "original_title": "Insect Poetry", "slug_title": "insect-poetry", "date": "2002-11-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

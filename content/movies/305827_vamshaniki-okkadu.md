@@ -1,0 +1,1 @@
+{"tmdb_id": 305827, "title": "Vamshaniki Okkadu", "original_title": "Vamshaniki Okkadu", "slug_title": "vamshaniki-okkadu", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

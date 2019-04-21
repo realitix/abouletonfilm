@@ -1,0 +1,1 @@
+{"tmdb_id": 165455, "title": "The King of Bugs", "original_title": "The King of Bugs", "slug_title": "the-king-of-bugs", "date": "1930-12-20", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PHOOLicmRgCRR2kO9ylujzIBDn.jpg", "actors": [], "comments": [], "recommandations_id": []}

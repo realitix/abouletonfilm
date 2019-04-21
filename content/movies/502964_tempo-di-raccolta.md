@@ -1,0 +1,1 @@
+{"tmdb_id": 502964, "title": "Tempo di raccolta", "original_title": "Tempo di raccolta", "slug_title": "tempo-di-raccolta", "date": "1966-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

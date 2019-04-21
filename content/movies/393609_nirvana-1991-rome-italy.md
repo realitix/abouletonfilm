@@ -1,0 +1,1 @@
+{"tmdb_id": 393609, "title": "Nirvana: [1991] Rome, Italy", "original_title": "Nirvana: [1991] Rome, Italy", "slug_title": "nirvana-1991-rome-italy", "date": "1991-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUDZ8KSiREz0FCyBGUwBKRhf8cS.jpg", "actors": [], "comments": [], "recommandations_id": []}

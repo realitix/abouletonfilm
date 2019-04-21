@@ -1,0 +1,1 @@
+{"tmdb_id": 583230, "title": "Watermelon: A Cautionary Tale", "original_title": "Watermelon: A Cautionary Tale", "slug_title": "watermelon-a-cautionary-tale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

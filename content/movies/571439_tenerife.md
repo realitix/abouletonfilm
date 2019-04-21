@@ -1,0 +1,1 @@
+{"tmdb_id": 571439, "title": "T\u00e9n\u00e9rife", "original_title": "T\u00e9n\u00e9rife", "slug_title": "tenerife", "date": "1932-09-19", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

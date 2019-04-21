@@ -1,0 +1,1 @@
+{"tmdb_id": 426624, "title": "Demons-R-Us", "original_title": "Demons-R-Us", "slug_title": "demons-r-us", "date": "", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

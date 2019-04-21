@@ -1,0 +1,1 @@
+{"tmdb_id": 273391, "title": "The Art of Romare Bearden", "original_title": "The Art of Romare Bearden", "slug_title": "the-art-of-romare-bearden", "date": "2004-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wyQLsDzzA8O5J23o0frC0qDMqNI.jpg", "actors": [], "comments": [], "recommandations_id": []}

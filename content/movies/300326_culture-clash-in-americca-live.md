@@ -1,0 +1,1 @@
+{"tmdb_id": 300326, "title": "Culture Clash in AmeriCCa Live!", "original_title": "Culture Clash in AmeriCCa Live!", "slug_title": "culture-clash-in-americca-live", "date": "2005-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

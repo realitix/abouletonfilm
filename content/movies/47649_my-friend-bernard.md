@@ -1,0 +1,1 @@
+{"tmdb_id": 47649, "title": "My Friend Bernard", "original_title": "My Friend Bernard", "slug_title": "my-friend-bernard", "date": "2012-10-30", "genre": "Animation / Familial", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckkaK8w0czZfaJxFFYS4uWbXQkO.jpg", "actors": [], "comments": [], "recommandations_id": []}

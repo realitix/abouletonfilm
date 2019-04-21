@@ -1,0 +1,1 @@
+{"tmdb_id": 305394, "title": "The Leopard's Spots", "original_title": "The Leopard's Spots", "slug_title": "the-leopard-s-spots", "date": "1918-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John MacAndrews (The Man)", "Alma Taylor (The Woman)"], "comments": [], "recommandations_id": []}

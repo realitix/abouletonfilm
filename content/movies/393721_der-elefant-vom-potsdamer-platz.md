@@ -1,0 +1,1 @@
+{"tmdb_id": 393721, "title": "Der Elefant vom Potsdamer Platz", "original_title": "Der Elefant vom Potsdamer Platz", "slug_title": "der-elefant-vom-potsdamer-platz", "date": "1980-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

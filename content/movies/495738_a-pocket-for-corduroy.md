@@ -1,0 +1,1 @@
+{"tmdb_id": 495738, "title": "A Pocket For Corduroy", "original_title": "A Pocket For Corduroy", "slug_title": "a-pocket-for-corduroy", "date": "1986-09-21", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5Z9CSaZrdm11VG8IO24qa0yW9m.jpg", "actors": [], "comments": [], "recommandations_id": []}

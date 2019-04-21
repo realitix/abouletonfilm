@@ -1,0 +1,1 @@
+{"tmdb_id": 302385, "title": "Honor Takes Center Stage: Chapter 2", "original_title": "Honor Takes Center Stage: Chapter 2", "slug_title": "honor-takes-center-stage-chapter-2", "date": "2011-04-02", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

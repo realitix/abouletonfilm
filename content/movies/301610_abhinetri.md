@@ -1,0 +1,1 @@
+{"tmdb_id": 301610, "title": "Abhinetri", "original_title": "Abhinetri", "slug_title": "abhinetri", "date": "1970-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l3Hh6M4ilNAA440umkGsJmMHQ3f.jpg", "actors": ["Shashi Kapoor ()", "Hema Malini ()", "Nirupa Roy ()"], "comments": [], "recommandations_id": []}

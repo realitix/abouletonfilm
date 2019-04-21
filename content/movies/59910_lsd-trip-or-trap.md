@@ -1,0 +1,1 @@
+{"tmdb_id": 59910, "title": "'LSD': Trip or Trap!", "original_title": "'LSD': Trip or Trap!", "slug_title": "lsd-trip-or-trap", "date": "1967-01-01", "genre": "Drame / Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgypp8HWclMl7TAdUcJD9Q8hhli.jpg", "actors": [], "comments": [], "recommandations_id": []}

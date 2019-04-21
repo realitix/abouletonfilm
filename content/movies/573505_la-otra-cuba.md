@@ -1,0 +1,1 @@
+{"tmdb_id": 573505, "title": "La Otra Cuba", "original_title": "La Otra Cuba", "slug_title": "la-otra-cuba", "date": "1984-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

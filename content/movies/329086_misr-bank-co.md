@@ -1,0 +1,1 @@
+{"tmdb_id": 329086, "title": "Misr Bank & Co.", "original_title": "Bank Misr Wa Shurakah", "slug_title": "misr-bank-co", "date": "1935-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

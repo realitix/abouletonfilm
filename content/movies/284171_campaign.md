@@ -1,0 +1,1 @@
+{"tmdb_id": 284171, "title": "Campaign", "original_title": "Campaign", "slug_title": "campaign", "date": "1999-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

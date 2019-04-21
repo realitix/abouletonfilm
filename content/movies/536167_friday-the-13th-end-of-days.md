@@ -1,0 +1,1 @@
+{"tmdb_id": 536167, "title": "Friday the 13th: End of Days", "original_title": "Friday the 13th: End of Days", "slug_title": "friday-the-13th-end-of-days", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 364367, "title": "L'age de Bronze", "original_title": "L'age de Bronze", "slug_title": "l-age-de-bronze", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

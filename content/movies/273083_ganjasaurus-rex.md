@@ -1,0 +1,1 @@
+{"tmdb_id": 273083, "title": "Ganjasaurus Rex", "original_title": "Ganjasaurus Rex", "slug_title": "ganjasaurus-rex", "date": "1987-01-01", "genre": "Com\u00e9die / Science-Fiction", "score": "2.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ag3SF5HtJQ2VftzUCAwPlY1NZXt.jpg", "actors": [], "comments": [], "recommandations_id": []}

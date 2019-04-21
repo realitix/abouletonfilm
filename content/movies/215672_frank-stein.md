@@ -1,0 +1,1 @@
+{"tmdb_id": 215672, "title": "Frank Stein", "original_title": "Frank Stein", "slug_title": "frank-stein", "date": "1972-01-01", "genre": "Horreur", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dA5CSPe4LdG13DiPvvcnoBnNrR7.jpg", "actors": [], "comments": [], "recommandations_id": []}

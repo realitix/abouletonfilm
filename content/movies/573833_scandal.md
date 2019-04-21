@@ -1,0 +1,1 @@
+{"tmdb_id": 573833, "title": "Scandal", "original_title": "Scandal", "slug_title": "scandal", "date": "1915-07-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11sjluW1SWeE9p4WepMUDSOwUqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

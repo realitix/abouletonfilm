@@ -1,0 +1,1 @@
+{"tmdb_id": 309182, "title": "Piaf: Her Story, Her Songs", "original_title": "Piaf: Her Story, Her Songs", "slug_title": "piaf-her-story-her-songs", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379195, "title": "Pink DaVinci", "original_title": "Pink DaVinci", "slug_title": "pink-davinci", "date": "1975-06-23", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9sOaiESqnBs4l83k14j7ZDnbPV.jpg", "actors": [], "comments": [], "recommandations_id": [379205, 379062, 379066, 204815]}

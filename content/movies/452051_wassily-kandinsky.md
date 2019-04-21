@@ -1,0 +1,1 @@
+{"tmdb_id": 452051, "title": "Wassily Kandinsky", "original_title": "Wassily Kandinsky", "slug_title": "wassily-kandinsky", "date": "1986-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkJkaZJ8fv9FUgA8n8q9tox7urB.jpg", "actors": ["Vassily Kandinsky (himself)"], "comments": [], "recommandations_id": []}

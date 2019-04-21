@@ -1,0 +1,1 @@
+{"tmdb_id": 256145, "title": "Lake of the Spirits", "original_title": "Lake of the Spirits", "slug_title": "lake-of-the-spirits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

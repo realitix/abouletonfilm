@@ -1,0 +1,1 @@
+{"tmdb_id": 439091, "title": "The Talk: Race in America", "original_title": "The Talk: Race in America", "slug_title": "the-talk-race-in-america", "date": "2017-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rku7dX16Xl7YwaUzfrD2gO2bKrT.jpg", "actors": [], "comments": [], "recommandations_id": []}

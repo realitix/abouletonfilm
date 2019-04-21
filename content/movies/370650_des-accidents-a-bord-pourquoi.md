@@ -1,0 +1,1 @@
+{"tmdb_id": 370650, "title": "Des accidents a bord: pourquoi?", "original_title": "Des accidents a bord: pourquoi?", "slug_title": "des-accidents-a-bord-pourquoi", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

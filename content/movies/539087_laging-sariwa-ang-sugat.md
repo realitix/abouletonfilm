@@ -1,0 +1,1 @@
+{"tmdb_id": 539087, "title": "Laging sariwa ang sugat", "original_title": "Laging sariwa ang sugat", "slug_title": "laging-sariwa-ang-sugat", "date": "1999-11-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tonton Gutierrez ()", "John Apacible ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 392348, "title": "Porcos Raivosos", "original_title": "Porcos Raivosos", "slug_title": "porcos-raivosos", "date": "2012-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rniT74niL7gsjihKCNGrKIGuCHA.jpg", "actors": [], "comments": [], "recommandations_id": []}

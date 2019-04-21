@@ -1,0 +1,1 @@
+{"tmdb_id": 230289, "title": "A\u011f\u0131r Abi", "original_title": "A\u011f\u0131r Abi", "slug_title": "agir-abi", "date": "2011-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0Qp99l6fI7Y7KzXg8pJhKhAwXY.jpg", "actors": [], "comments": [], "recommandations_id": []}

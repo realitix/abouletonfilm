@@ -1,0 +1,1 @@
+{"tmdb_id": 166696, "title": "Good Morning Althea", "original_title": "Good Morning Althea", "slug_title": "good-morning-althea", "date": "1987-12-16", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYZnM12bQnYNIuuB6rHKN1famNc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389462, "title": "Geographies", "original_title": "G\u00e9ographies", "slug_title": "geographies", "date": "2016-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

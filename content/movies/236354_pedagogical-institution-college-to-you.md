@@ -1,0 +1,1 @@
+{"tmdb_id": 236354, "title": "Pedagogical Institution (College to You)", "original_title": "Pedagogical Institution (College to You)", "slug_title": "pedagogical-institution-college-to-you", "date": "1940-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

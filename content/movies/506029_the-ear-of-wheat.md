@@ -1,0 +1,1 @@
+{"tmdb_id": 506029, "title": "The Ear of Wheat", "original_title": "Kalleza e Grurit", "slug_title": "the-ear-of-wheat", "date": "1976-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNwL0MQZ0gi1SBWGBWLNrjKE2ok.jpg", "actors": [], "comments": [], "recommandations_id": []}

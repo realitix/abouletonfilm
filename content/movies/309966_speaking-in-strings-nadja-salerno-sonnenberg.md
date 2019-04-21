@@ -1,0 +1,1 @@
+{"tmdb_id": 309966, "title": "Speaking in Strings: Nadja Salerno-Sonnenberg", "original_title": "Speaking in Strings: Nadja Salerno-Sonnenberg", "slug_title": "speaking-in-strings-nadja-salerno-sonnenberg", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562624, "title": "Le temps des copains", "original_title": "Le temps des copains", "slug_title": "le-temps-des-copains", "date": "1963-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUv99F4e3xVGDpEYA1yHFDJPSh0.jpg", "actors": [], "comments": [], "recommandations_id": []}

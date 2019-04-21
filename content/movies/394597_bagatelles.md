@@ -1,0 +1,1 @@
+{"tmdb_id": 394597, "title": "Bagatelles", "original_title": "Bagatelles", "slug_title": "bagatelles", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMKm6VbGGhv7GoHDJFhnXuGKlMa.jpg", "actors": [], "comments": [], "recommandations_id": []}

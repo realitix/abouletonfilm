@@ -1,0 +1,1 @@
+{"tmdb_id": 269063, "title": "Polnische Passion", "original_title": "Polnische Passion", "slug_title": "polnische-passion", "date": "1964-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

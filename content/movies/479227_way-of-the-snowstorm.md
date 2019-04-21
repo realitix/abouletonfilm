@@ -1,0 +1,1 @@
+{"tmdb_id": 479227, "title": "Way of the Snowstorm", "original_title": "\u98ce\u96ea\u72fc\u9053", "slug_title": "way-of-the-snowstorm", "date": "2007-09-14", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fE6Cb5B7SeQ7uZePl9oEh3AiZf4.jpg", "actors": [], "comments": [], "recommandations_id": []}

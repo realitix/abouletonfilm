@@ -1,0 +1,1 @@
+{"tmdb_id": 277445, "title": "The Rime of the Modern Mariner", "original_title": "The Rime of the Modern Mariner", "slug_title": "the-rime-of-the-modern-mariner", "date": "2010-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

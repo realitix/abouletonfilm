@@ -1,0 +1,1 @@
+{"tmdb_id": 346614, "title": "The Mad Canadian", "original_title": "The Mad Canadian", "slug_title": "the-mad-canadian", "date": "1976-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85sseNsqWF1WijMN2xWPvkCEvHM.jpg", "actors": ["Ken Carter (Himself)"], "comments": [], "recommandations_id": []}

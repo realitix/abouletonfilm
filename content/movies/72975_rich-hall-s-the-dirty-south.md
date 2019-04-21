@@ -1,0 +1,1 @@
+{"tmdb_id": 72975, "title": "Rich Hall's The Dirty South", "original_title": "Rich Hall's The Dirty South", "slug_title": "rich-hall-s-the-dirty-south", "date": "2010-07-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LLngQ0nMK2AHGe4WKv6gp1NFzl.jpg", "actors": [], "comments": [], "recommandations_id": []}

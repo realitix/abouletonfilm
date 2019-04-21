@@ -1,0 +1,1 @@
+{"tmdb_id": 405478, "title": "La era del \u00f1and\u00fa", "original_title": "La era del \u00f1and\u00fa", "slug_title": "la-era-del-nandu", "date": "1986-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pxHpYF02vDVkCoYgENwLXtpeKpO.jpg", "actors": [], "comments": [], "recommandations_id": []}

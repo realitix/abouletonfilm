@@ -1,0 +1,1 @@
+{"tmdb_id": 452582, "title": "Wild Weekend Festival", "original_title": "Wild Weekend Festival", "slug_title": "wild-weekend-festival", "date": "2016-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alec Loob ()", "Timmy Treasure ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 156418, "title": "\u010cern\u00fd plamen", "original_title": "\u010cern\u00fd plamen", "slug_title": "cerny-plamen", "date": "1931-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

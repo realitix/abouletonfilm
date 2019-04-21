@@ -1,0 +1,1 @@
+{"tmdb_id": 537619, "title": "Norilsk", "original_title": "\u041d\u043e\u0440\u0438\u043b\u044c\u0441\u043a", "slug_title": "norilsk", "date": "2017-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q1t4FAlxx4uA2Ad3tVzieAMqxHv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236874, "title": "Amphibious Fighters", "original_title": "Amphibious Fighters", "slug_title": "amphibious-fighters", "date": "1943-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528860, "title": "Geliebter Schatten", "original_title": "Geliebter Schatten", "slug_title": "geliebter-schatten", "date": "1953-10-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Axt (Simone Armetage)", "Else Reval (Olga Voise)", "Wolfgang Spier ()"], "comments": [], "recommandations_id": []}

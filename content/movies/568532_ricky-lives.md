@@ -1,0 +1,1 @@
+{"tmdb_id": 568532, "title": "Ricky Lives", "original_title": "Ricky Lives", "slug_title": "ricky-lives", "date": "2018-12-11", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Freeman (Ricky Caldwell)"], "comments": [], "recommandations_id": []}

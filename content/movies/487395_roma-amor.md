@@ -1,0 +1,1 @@
+{"tmdb_id": 487395, "title": "Roma Amor", "original_title": "Roma Amor", "slug_title": "roma-amor", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

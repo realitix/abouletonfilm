@@ -1,0 +1,1 @@
+{"tmdb_id": 589810, "title": "BTS World Tour Love Yourself Hong Kong", "original_title": "BTS World Tour Love Yourself Hong Kong", "slug_title": "bts-world-tour-love-yourself-hong-kong", "date": "2019-03-21", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

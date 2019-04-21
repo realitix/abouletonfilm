@@ -1,0 +1,1 @@
+{"tmdb_id": 545724, "title": "Loss Won't Pay the Bills", "original_title": "Van verlies kun je niet betalen", "slug_title": "loss-won-t-pay-the-bills", "date": "2018-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxGT6dDBSi5o8YPsK1ZGzSmPRdN.jpg", "actors": [], "comments": [], "recommandations_id": []}

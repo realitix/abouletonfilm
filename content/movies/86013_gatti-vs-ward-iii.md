@@ -1,0 +1,1 @@
+{"tmdb_id": 86013, "title": "Gatti vs. Ward III", "original_title": "Gatti vs. Ward III", "slug_title": "gatti-vs-ward-iii", "date": "2004-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIODhqQvFOCPZw85ZhvtQ0THQ1r.jpg", "actors": [], "comments": [], "recommandations_id": []}

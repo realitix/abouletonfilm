@@ -1,0 +1,1 @@
+{"tmdb_id": 496766, "title": "Assisi: The Spiritual City", "original_title": "Assisi Citt\u00e0 Mistica", "slug_title": "assisi-the-spiritual-city", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVfiIeJZJ5CpFb147HXsnEfC76G.jpg", "actors": [], "comments": [], "recommandations_id": []}

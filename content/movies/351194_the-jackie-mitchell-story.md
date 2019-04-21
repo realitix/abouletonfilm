@@ -1,0 +1,1 @@
+{"tmdb_id": 351194, "title": "The Jackie Mitchell Story", "original_title": "The Jackie Mitchell Story", "slug_title": "the-jackie-mitchell-story", "date": "2011-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

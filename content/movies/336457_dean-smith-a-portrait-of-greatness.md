@@ -1,0 +1,1 @@
+{"tmdb_id": 336457, "title": "Dean Smith: A Portrait of Greatness", "original_title": "Dean Smith: A Portrait of Greatness", "slug_title": "dean-smith-a-portrait-of-greatness", "date": "2015-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

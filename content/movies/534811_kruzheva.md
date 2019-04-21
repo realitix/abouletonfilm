@@ -1,0 +1,1 @@
+{"tmdb_id": 534811, "title": "\u041a\u0440\u0443\u0436\u0435\u0432\u0430", "original_title": "\u041a\u0440\u0443\u0436\u0435\u0432\u0430", "slug_title": "kruzheva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqQd3A16m2mr7S6OiSPiCxpYtmL.jpg", "actors": [], "comments": [], "recommandations_id": []}

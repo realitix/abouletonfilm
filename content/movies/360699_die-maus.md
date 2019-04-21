@@ -1,0 +1,1 @@
+{"tmdb_id": 360699, "title": "Die Maus", "original_title": "Die Maus", "slug_title": "die-maus", "date": "1975-02-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Clarin (Mr.Bloome)", "Gerd Vespermann (Mr. Price Hargraves)", "Anita Kupsch (Miss Spencer)"], "comments": [], "recommandations_id": []}

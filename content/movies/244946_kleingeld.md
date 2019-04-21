@@ -1,0 +1,1 @@
+{"tmdb_id": 244946, "title": "Kleingeld", "original_title": "Kleingeld", "slug_title": "kleingeld", "date": "2000-02-15", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mME6jEqyo8MoGDv3GcWUJ4EdWPc.jpg", "actors": [], "comments": [], "recommandations_id": []}

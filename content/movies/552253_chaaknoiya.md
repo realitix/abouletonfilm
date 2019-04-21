@@ -1,0 +1,1 @@
+{"tmdb_id": 552253, "title": "Chaaknoiya", "original_title": "Chaaknoiya", "slug_title": "chaaknoiya", "date": "2017-03-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Aucnq89vBnaTLXGPWmoSMQfKIE.jpg", "actors": ["Pranami Bora ()", "Dhananjay Devnath ()"], "comments": [], "recommandations_id": []}

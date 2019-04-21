@@ -1,0 +1,1 @@
+{"tmdb_id": 324402, "title": "Ich bin Louisa Jules", "original_title": "Ich bin Louisa Jules", "slug_title": "ich-bin-louisa-jules", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louisa Burow ()", "Louisa Burow ()"], "comments": [], "recommandations_id": []}

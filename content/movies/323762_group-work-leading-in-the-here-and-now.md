@@ -1,0 +1,1 @@
+{"tmdb_id": 323762, "title": "Group Work: Leading in the Here and Now", "original_title": "Group Work: Leading in the Here and Now", "slug_title": "group-work-leading-in-the-here-and-now", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

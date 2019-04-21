@@ -1,0 +1,1 @@
+{"tmdb_id": 568053, "title": "Il cugino americano", "original_title": "Il cugino americano", "slug_title": "il-cugino-americano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

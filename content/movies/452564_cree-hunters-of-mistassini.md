@@ -1,0 +1,1 @@
+{"tmdb_id": 452564, "title": "Cree Hunters of Mistassini", "original_title": "Cree Hunters of Mistassini", "slug_title": "cree-hunters-of-mistassini", "date": "1974-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2RnlXfazXY1ydMk8WB1aInZQuv.jpg", "actors": [], "comments": [], "recommandations_id": []}

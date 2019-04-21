@@ -1,0 +1,1 @@
+{"tmdb_id": 182150, "title": "Strange Codes", "original_title": "Strange Codes", "slug_title": "strange-codes", "date": "1972-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSxzx2nS7rrZDVBvq6bOw5jf3es.jpg", "actors": [], "comments": [], "recommandations_id": []}

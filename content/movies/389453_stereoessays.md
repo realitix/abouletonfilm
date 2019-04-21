@@ -1,0 +1,1 @@
+{"tmdb_id": 389453, "title": "StereoEssays", "original_title": "StereoEssays", "slug_title": "stereoessays", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVr3a2FXYnHnbrYECnHfhakFfyV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 67876, "title": "disinfoTV on DVD", "original_title": "disinfoTV on DVD", "slug_title": "disinfotv-on-dvd", "date": "2006-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhQ295h9gFjlUo3esiotCuqg0MO.jpg", "actors": ["Richard Metzger (Himself)"], "comments": [], "recommandations_id": []}

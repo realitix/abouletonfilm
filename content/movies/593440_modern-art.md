@@ -1,0 +1,1 @@
+{"tmdb_id": 593440, "title": "Modern Art", "original_title": "Modern Art", "slug_title": "modern-art", "date": "2019-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Z3LKMjmKXKIEgSU9WeJ0NMY6n7.jpg", "actors": ["Slava Dugin ()", "Rauli Ylitalo ()"], "comments": [], "recommandations_id": []}

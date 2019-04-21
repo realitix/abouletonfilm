@@ -1,0 +1,1 @@
+{"tmdb_id": 422319, "title": "Faroeste", "original_title": "Faroeste", "slug_title": "faroeste", "date": "2015-03-05", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awfmZ6XE73Tt3AWnvKQ8fidcbAO.jpg", "actors": ["Wladimir Winter (Lu\u00eds Garcia)"], "comments": [], "recommandations_id": []}

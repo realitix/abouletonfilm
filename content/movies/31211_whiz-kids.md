@@ -1,0 +1,1 @@
+{"tmdb_id": 31211, "title": "Whiz Kids", "original_title": "Whiz Kids", "slug_title": "whiz-kids", "date": "1900-01-01", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dtiM40shipk0Ft0FH9bR7bnkGn.jpg", "actors": [], "comments": [], "recommandations_id": []}

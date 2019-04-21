@@ -1,0 +1,1 @@
+{"tmdb_id": 464328, "title": "Kitty B, Vitas", "original_title": "Kitty B, Vitas", "slug_title": "kitty-b-vitas", "date": "2017-02-27", "genre": "Action / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["AP George (AP George)", "N'Gaido Ba (N'Gaido Ba)", "Jin Ba ()"], "comments": [], "recommandations_id": []}

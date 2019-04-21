@@ -1,0 +1,1 @@
+{"tmdb_id": 22188, "title": "Animusic", "original_title": "Animusic", "slug_title": "animusic", "date": "2001-01-01", "genre": "Animation / Musique", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIBN9eIxhhbIM26VN8CDuriGE4K.jpg", "actors": [], "comments": [], "recommandations_id": [22191]}

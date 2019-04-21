@@ -1,0 +1,1 @@
+{"tmdb_id": 18052, "title": "Cereal Killerz", "original_title": "Cereal Killerz", "slug_title": "cereal-killerz", "date": "1997-01-11", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHg9BxNIOa8yWF4Em4hP0D7kZEY.jpg", "actors": [], "comments": [], "recommandations_id": []}

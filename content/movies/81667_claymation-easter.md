@@ -1,0 +1,1 @@
+{"tmdb_id": 81667, "title": "Claymation Easter", "original_title": "Claymation Easter", "slug_title": "claymation-easter", "date": "1992-04-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bF0sl05jUF2hZtZvh5w2Tg9bFM.jpg", "actors": [], "comments": [], "recommandations_id": []}

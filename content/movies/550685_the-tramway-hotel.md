@@ -1,0 +1,1 @@
+{"tmdb_id": 550685, "title": "The Tramway Hotel", "original_title": "Hotel Dvojka", "slug_title": "the-tramway-hotel", "date": "2016-05-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i7VBu5G8fT1w1HKWxqxRQZRMU9k.jpg", "actors": [], "comments": [], "recommandations_id": []}

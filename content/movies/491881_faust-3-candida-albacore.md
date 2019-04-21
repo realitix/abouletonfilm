@@ -1,0 +1,1 @@
+{"tmdb_id": 491881, "title": "Faust 3: Candida Albacore", "original_title": "Faust 3: Candida Albacore", "slug_title": "faust-3-candida-albacore", "date": "1988-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

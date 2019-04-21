@@ -1,0 +1,1 @@
+{"tmdb_id": 366959, "title": "Mauvais temps au port", "original_title": "Mauvais temps au port", "slug_title": "mauvais-temps-au-port", "date": "1899-10-29", "genre": "", "score": "0.0/10", "synopsis": "Sc\u00e8ne analogue \u00e0 la pr\u00e9c\u00e9dente [cf. n\u00b0 678], prise en Italie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 224540, "title": "One Couch at a Time", "original_title": "One Couch at a Time", "slug_title": "one-couch-at-a-time", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OU13AV8o5Xpk3gJn2XDiekvTZm.jpg", "actors": [], "comments": [], "recommandations_id": []}

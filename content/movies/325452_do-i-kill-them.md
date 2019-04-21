@@ -1,0 +1,1 @@
+{"tmdb_id": 325452, "title": "Do I Kill Them?", "original_title": "Mato Eles?", "slug_title": "do-i-kill-them", "date": "1983-02-16", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8cayUPX47n3UKSXlJnAUs4Np4f.jpg", "actors": [], "comments": [], "recommandations_id": []}

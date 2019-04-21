@@ -1,0 +1,1 @@
+{"tmdb_id": 30151, "title": "Opeth: Lamentations", "original_title": "Opeth: Lamentations", "slug_title": "opeth-lamentations", "date": "2003-11-24", "genre": "Musique", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3rVe5F4VBiljssf8g6x0UAWyTn.jpg", "actors": ["Opeth (Band)"], "comments": [], "recommandations_id": [31791, 45644]}

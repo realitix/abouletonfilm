@@ -1,0 +1,1 @@
+{"tmdb_id": 236370, "title": "A Boy, a Gun and Birds", "original_title": "A Boy, a Gun and Birds", "slug_title": "a-boy-a-gun-and-birds", "date": "1940-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

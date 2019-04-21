@@ -1,0 +1,1 @@
+{"tmdb_id": 369452, "title": "Squid Festival", "original_title": "\u7d0d\u6dbc\u30a2\u30cb\u30e1 \u96fb\u7403\u70cf\u8cca\u796d", "slug_title": "squid-festival", "date": "1993-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

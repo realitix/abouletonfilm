@@ -1,0 +1,1 @@
+{"tmdb_id": 481612, "title": "The Better Wife", "original_title": "The Better Wife", "slug_title": "the-better-wife", "date": "1919-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clara Kimball Young (Charmian Page)", "Edward Kimball (Mr. Page)", "Nigel Barrie (Sir Richard Beverly)"], "comments": [], "recommandations_id": []}

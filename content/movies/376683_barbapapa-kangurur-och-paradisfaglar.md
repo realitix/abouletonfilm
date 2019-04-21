@@ -1,0 +1,1 @@
+{"tmdb_id": 376683, "title": "Barbapapa - K\u00e4ngurur och paradisf\u00e5glar", "original_title": "Barbapapa - K\u00e4ngurur och paradisf\u00e5glar", "slug_title": "barbapapa-kangurur-och-paradisfaglar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302881, "title": "Bullitt and the Curse of the Blood Ring", "original_title": "Bullitt and the Curse of the Blood Ring", "slug_title": "bullitt-and-the-curse-of-the-blood-ring", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

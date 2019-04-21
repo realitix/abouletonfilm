@@ -1,0 +1,1 @@
+{"tmdb_id": 309963, "title": "Power of the Periodic Table", "original_title": "Power of the Periodic Table", "slug_title": "power-of-the-periodic-table", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

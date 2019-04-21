@@ -1,0 +1,1 @@
+{"tmdb_id": 561153, "title": "Curiosity Excited the Kat", "original_title": "Curiosity Excited the Kat", "slug_title": "curiosity-excited-the-kat", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sharon Montgomery (Katherine Michels)"], "comments": [], "recommandations_id": []}

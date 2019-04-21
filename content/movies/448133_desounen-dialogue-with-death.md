@@ -1,0 +1,1 @@
+{"tmdb_id": 448133, "title": "Desounen: Dialogue with Death", "original_title": "Desounen: Dialogue with Death", "slug_title": "desounen-dialogue-with-death", "date": "1994-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNW7a3YqaMBdtOUqHRiXcKaQz81.jpg", "actors": [], "comments": [], "recommandations_id": []}

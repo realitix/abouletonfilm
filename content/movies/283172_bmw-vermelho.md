@@ -1,0 +1,1 @@
+{"tmdb_id": 283172, "title": "BMW Vermelho", "original_title": "BMW Vermelho", "slug_title": "bmw-vermelho", "date": "2000-01-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ot\u00e1vio Augusto ()", "Denise Weinberg ()"], "comments": [], "recommandations_id": []}

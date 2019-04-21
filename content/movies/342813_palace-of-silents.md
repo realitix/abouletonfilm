@@ -1,0 +1,1 @@
+{"tmdb_id": 342813, "title": "Palace of Silents", "original_title": "Palace of Silents", "slug_title": "palace-of-silents", "date": "2010-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Zp80YcKbEOsjEj4EhwJFRNPk6D.jpg", "actors": [], "comments": [], "recommandations_id": []}

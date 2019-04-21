@@ -1,0 +1,1 @@
+{"tmdb_id": 346437, "title": "Scener fra et vennskap", "original_title": "Scener fra et vennskap", "slug_title": "scener-fra-et-vennskap", "date": "2009-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Stenerud ()", "Erlend S\u00e6verud ()"], "comments": [], "recommandations_id": []}

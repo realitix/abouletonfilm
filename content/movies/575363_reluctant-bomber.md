@@ -1,0 +1,1 @@
+{"tmdb_id": 575363, "title": "Reluctant Bomber", "original_title": "Reluctant Bomber", "slug_title": "reluctant-bomber", "date": "", "genre": "Crime / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ike Harrell ()", "Mark Forman ()"], "comments": [], "recommandations_id": []}

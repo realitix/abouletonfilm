@@ -1,0 +1,1 @@
+{"tmdb_id": 409005, "title": "Tayiri Lportable", "original_title": "Tayiri Lportable", "slug_title": "tayiri-lportable", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Tiznit Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qebdStuvyNsJQYCyDKLLsVthLXO.jpg", "actors": [], "comments": [], "recommandations_id": []}

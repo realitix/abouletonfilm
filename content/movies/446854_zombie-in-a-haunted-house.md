@@ -1,0 +1,1 @@
+{"tmdb_id": 446854, "title": "Zombie in a Haunted House", "original_title": "\u9b3c\u5c4b\u6bad\u5c4d", "slug_title": "zombie-in-a-haunted-house", "date": "1959-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kitty Ting ()"], "comments": [], "recommandations_id": []}

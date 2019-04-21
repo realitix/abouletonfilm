@@ -1,0 +1,1 @@
+{"tmdb_id": 513975, "title": "The Key to Jules and Jim", "original_title": "The Key to Jules and Jim", "slug_title": "the-key-to-jules-and-jim", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

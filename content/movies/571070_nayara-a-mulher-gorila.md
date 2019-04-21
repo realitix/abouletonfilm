@@ -1,0 +1,1 @@
+{"tmdb_id": 571070, "title": "Nayara, A Mulher Gorila", "original_title": "Nayara, A Mulher Gorila", "slug_title": "nayara-a-mulher-gorila", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kg6OIA0v8W99AotNjvUg7Y7rPH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 290267, "title": "O Universo Graciliano", "original_title": "O Universo Graciliano", "slug_title": "o-universo-graciliano", "date": "2014-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9KWLhf32m7eLly98lcO19zS7RF.jpg", "actors": ["Oscar Niemeyer ()"], "comments": [], "recommandations_id": []}

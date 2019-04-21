@@ -1,0 +1,1 @@
+{"tmdb_id": 296760, "title": "Ada: Senritsu-hen", "original_title": "Ada: Senritsu-hen", "slug_title": "ada-senritsu-hen", "date": "2013-07-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOEpkRDXAVU8ZtaMPKMEXkHAYXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

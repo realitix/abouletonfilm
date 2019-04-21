@@ -1,0 +1,1 @@
+{"tmdb_id": 569501, "title": "Shedding Light", "original_title": "Shedding Light", "slug_title": "shedding-light", "date": "2017-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 545079, "title": "Pompy de Robodoll", "original_title": "Pompy de Robodoll", "slug_title": "pompy-de-robodoll", "date": "1987-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPEKwOfNbhLO9JxoIVbDxDNGeaT.jpg", "actors": [], "comments": [], "recommandations_id": []}

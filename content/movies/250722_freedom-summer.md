@@ -1,0 +1,1 @@
+{"tmdb_id": 250722, "title": "Freedom Summer", "original_title": "Freedom Summer", "slug_title": "freedom-summer", "date": "2014-01-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwgZXIx5qN4PcbvdMwlehniLNXC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323113, "title": "The Texas Bad Man", "original_title": "The Texas Bad Man", "slug_title": "the-texas-bad-man", "date": "1932-06-29", "genre": "Western", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1fstGN5qJ9gS7SbYCxmzsVjZEU.jpg", "actors": ["Tom Mix ()", "Lucille Powers ()"], "comments": [], "recommandations_id": []}

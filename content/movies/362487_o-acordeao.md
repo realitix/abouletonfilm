@@ -1,0 +1,1 @@
+{"tmdb_id": 362487, "title": "O Acorde\u00e3o", "original_title": "O Acorde\u00e3o", "slug_title": "o-acordeao", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

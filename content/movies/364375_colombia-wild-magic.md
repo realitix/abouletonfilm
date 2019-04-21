@@ -1,0 +1,1 @@
+{"tmdb_id": 364375, "title": "Colombia: Wild Magic", "original_title": "Colombia: Magia Salvaje", "slug_title": "colombia-wild-magic", "date": "2015-09-10", "genre": "Documentaire", "score": "8.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347380, "title": "Nijntje en Boris", "original_title": "Nijntje en Boris", "slug_title": "nijntje-en-boris", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yIWiICzUKXXnLIUptphzxNEKokK.jpg", "actors": [], "comments": [], "recommandations_id": []}

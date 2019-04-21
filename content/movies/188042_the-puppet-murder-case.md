@@ -1,0 +1,1 @@
+{"tmdb_id": 188042, "title": "The Puppet Murder Case", "original_title": "The Puppet Murder Case", "slug_title": "the-puppet-murder-case", "date": "1935-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

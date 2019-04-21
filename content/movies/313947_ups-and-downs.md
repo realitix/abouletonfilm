@@ -1,0 +1,1 @@
+{"tmdb_id": 313947, "title": "Ups and Downs", "original_title": "Ups and Downs", "slug_title": "ups-and-downs", "date": "1926-08-14", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

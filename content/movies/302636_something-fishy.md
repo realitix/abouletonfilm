@@ -1,0 +1,1 @@
+{"tmdb_id": 302636, "title": "Something Fishy", "original_title": "Something Fishy", "slug_title": "something-fishy", "date": "2002-08-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

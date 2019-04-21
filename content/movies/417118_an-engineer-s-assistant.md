@@ -1,0 +1,1 @@
+{"tmdb_id": 417118, "title": "An Engineer's Assistant", "original_title": "Aru kikanjoshi", "slug_title": "an-engineer-s-assistant", "date": "1963-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svFpRHR5VY5CYI0exHJcby47uaA.jpg", "actors": [], "comments": [], "recommandations_id": []}

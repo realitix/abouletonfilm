@@ -1,0 +1,1 @@
+{"tmdb_id": 531586, "title": "Balance", "original_title": "Balance", "slug_title": "balance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

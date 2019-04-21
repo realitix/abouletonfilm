@@ -1,0 +1,1 @@
+{"tmdb_id": 480617, "title": "Corpsman", "original_title": "Corpsman", "slug_title": "corpsman", "date": "2017-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lara A. Mc Kinley (Herself)"], "comments": [], "recommandations_id": []}

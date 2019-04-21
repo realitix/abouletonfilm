@@ -1,0 +1,1 @@
+{"tmdb_id": 304944, "title": "The Cover Up", "original_title": "The Cover Up", "slug_title": "the-cover-up", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

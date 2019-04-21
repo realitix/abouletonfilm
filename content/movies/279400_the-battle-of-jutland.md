@@ -1,0 +1,1 @@
+{"tmdb_id": 279400, "title": "The Battle of Jutland", "original_title": "The Battle of Jutland", "slug_title": "the-battle-of-jutland", "date": "1921-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

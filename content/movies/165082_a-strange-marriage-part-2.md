@@ -1,0 +1,1 @@
+{"tmdb_id": 165082, "title": "A Strange Marriage Part 2", "original_title": "K\u00fcl\u00f6n\u00f6s h\u00e1zass\u00e1g 2.r\u00e9sz", "slug_title": "a-strange-marriage-part-2", "date": "1984-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

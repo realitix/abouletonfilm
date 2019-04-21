@@ -1,0 +1,1 @@
+{"tmdb_id": 143702, "title": "In the Beginning: The Ten Commandments", "original_title": "In the Beginning: The Ten Commandments", "slug_title": "in-the-beginning-the-ten-commandments", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528032, "title": "The Fists of Righteous Harmony", "original_title": "The Fists of Righteous Harmony", "slug_title": "the-fists-of-righteous-harmony", "date": "2010-03-17", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sDwU9YUA5AnjCtGgoAxT728mH37.jpg", "actors": [], "comments": [], "recommandations_id": []}

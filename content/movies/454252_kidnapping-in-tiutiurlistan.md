@@ -1,0 +1,1 @@
+{"tmdb_id": 454252, "title": "Kidnapping in Tiutiurlistan", "original_title": "Kidnapping in Tiutiurlistan", "slug_title": "kidnapping-in-tiutiurlistan", "date": "1986-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m120YbcZbionkaslXEAkHSPQOBU.jpg", "actors": [], "comments": [], "recommandations_id": []}

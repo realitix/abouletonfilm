@@ -1,0 +1,1 @@
+{"tmdb_id": 184606, "title": "Little Black Sambo", "original_title": "Little Black Sambo", "slug_title": "little-black-sambo", "date": "1935-02-05", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nwu5fwwj25hebyR0zBXD4AlIKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

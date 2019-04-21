@@ -1,0 +1,1 @@
+{"tmdb_id": 359721, "title": "Beruf Neonazi", "original_title": "Beruf Neonazi", "slug_title": "beruf-neonazi", "date": "1993-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXMMKAmuV1PPb0HLlyuCjlxNOdQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

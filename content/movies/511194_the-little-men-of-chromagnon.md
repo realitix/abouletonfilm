@@ -1,0 +1,1 @@
+{"tmdb_id": 511194, "title": "The Little Men of Chromagnon", "original_title": "Les bibites de Chromagnon", "slug_title": "the-little-men-of-chromagnon", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

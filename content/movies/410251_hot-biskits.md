@@ -1,0 +1,1 @@
+{"tmdb_id": 410251, "title": "Hot Biskits", "original_title": "Hot Biskits", "slug_title": "hot-biskits", "date": "1931-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIEs4sfCP2zXhwISZd4rYI6DyNL.jpg", "actors": ["Spencer Williams ()", "Thurston Briggs ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 589949, "title": "Nacionalin\u0117s premijos laureat\u0173 vaikai", "original_title": "Nacionalin\u0117s premijos laureat\u0173 vaikai", "slug_title": "nacionalines-premijos-laureatu-vaikai", "date": "2019-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

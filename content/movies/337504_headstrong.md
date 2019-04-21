@@ -1,0 +1,1 @@
+{"tmdb_id": 337504, "title": "Headstrong", "original_title": "Headstrong", "slug_title": "headstrong", "date": "2015-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

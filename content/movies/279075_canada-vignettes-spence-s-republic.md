@@ -1,0 +1,1 @@
+{"tmdb_id": 279075, "title": "Canada Vignettes: Spence's Republic", "original_title": "Canada Vignettes: Spence's Republic", "slug_title": "canada-vignettes-spence-s-republic", "date": "1978-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

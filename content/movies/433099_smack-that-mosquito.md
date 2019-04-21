@@ -1,0 +1,1 @@
+{"tmdb_id": 433099, "title": "Smack That Mosquito", "original_title": "\u0eaa\u0eb4\u0e99\u0ea5\u0eb0\u0e9b\u0eb0 \u0ea5\u0ec8\u0eb2\u0e8d\u0eb8\u0e87", "slug_title": "smack-that-mosquito", "date": "2016-01-01", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314176, "title": "Boogie Woogie Sioux", "original_title": "Boogie Woogie Sioux", "slug_title": "boogie-woogie-sioux", "date": "1942-11-30", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNY4pvIP0SIgqw5RFRY0xPQLVX7.jpg", "actors": [], "comments": [], "recommandations_id": []}

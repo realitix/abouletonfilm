@@ -1,0 +1,1 @@
+{"tmdb_id": 429767, "title": "Pelli Pustakam", "original_title": "Pelli Pustakam", "slug_title": "pelli-pustakam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

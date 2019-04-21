@@ -1,0 +1,1 @@
+{"tmdb_id": 420977, "title": "Crazy Beats Strong Every Time", "original_title": "Crazy Beats Strong Every Time", "slug_title": "crazy-beats-strong-every-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

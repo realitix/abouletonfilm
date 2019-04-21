@@ -1,0 +1,1 @@
+{"tmdb_id": 172135, "title": "Legend of a Ghost", "original_title": "La l\u00e9gende du fant\u00f4me", "slug_title": "legend-of-a-ghost", "date": "1908-05-22", "genre": "Fantastique / Horreur", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5eTytR7ZXdMMRaGu2b1lV6op2V.jpg", "actors": [], "comments": [], "recommandations_id": []}

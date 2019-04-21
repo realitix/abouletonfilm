@@ -1,0 +1,1 @@
+{"tmdb_id": 504247, "title": "City of Memories", "original_title": "City of Memories", "slug_title": "city-of-memories", "date": "2018-02-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5P1oOSUz4YnAbyYaE5biGL7jiCw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353924, "title": "Argentin\u00edsima II", "original_title": "Argentin\u00edsima II", "slug_title": "argentinisima-ii", "date": "1973-06-20", "genre": "Documentaire / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gz2aIz5TCBWC4SYH4ujT8EKvLR.jpg", "actors": [], "comments": [], "recommandations_id": []}

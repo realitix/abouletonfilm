@@ -1,0 +1,1 @@
+{"tmdb_id": 509749, "title": "Lecciones de Tai Chi", "original_title": "Lecciones de Tai Chi", "slug_title": "lecciones-de-tai-chi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491005, "title": "The November War", "original_title": "The November War", "slug_title": "the-november-war", "date": "", "genre": "Guerre / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btgqgUAB74SMA8Wg8htDbD24T5T.jpg", "actors": [], "comments": [], "recommandations_id": []}

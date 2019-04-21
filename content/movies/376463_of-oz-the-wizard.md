@@ -1,0 +1,1 @@
+{"tmdb_id": 376463, "title": "Of Oz the Wizard", "original_title": "Of Oz the Wizard", "slug_title": "of-oz-the-wizard", "date": "2004-04-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6caPaK2JMrkzlNi1EwsWVmBLuMM.jpg", "actors": [], "comments": [], "recommandations_id": []}

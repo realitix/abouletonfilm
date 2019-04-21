@@ -1,0 +1,1 @@
+{"tmdb_id": 403528, "title": "Max Boyces World Cup Journey", "original_title": "Max Boyces World Cup Journey", "slug_title": "max-boyces-world-cup-journey", "date": "2007-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziPBFHsgAwwwjOPhQJrBXcxnBz0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 567637, "title": "Die sch\u00f6ne Krista", "original_title": "Die sch\u00f6ne Krista", "slug_title": "die-schone-krista", "date": "2018-07-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ulvHxap5MtovZecK6zRPCbSBhov.jpg", "actors": [], "comments": [], "recommandations_id": []}

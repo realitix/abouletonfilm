@@ -1,0 +1,1 @@
+{"tmdb_id": 216722, "title": "Lilian Thuram", "original_title": "Lilian Thuram", "slug_title": "lilian-thuram", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

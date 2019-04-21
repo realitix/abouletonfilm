@@ -1,0 +1,1 @@
+{"tmdb_id": 537491, "title": "Telstar!", "original_title": "Telstar!", "slug_title": "telstar", "date": "1962-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John F. Kennedy (Himself)"], "comments": [], "recommandations_id": []}

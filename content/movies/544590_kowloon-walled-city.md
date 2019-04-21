@@ -1,0 +1,1 @@
+{"tmdb_id": 544590, "title": "Kowloon Walled City", "original_title": "Kowloon Walled City", "slug_title": "kowloon-walled-city", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsBLCszpJQMrxmxP8ng3gcCeeny.jpg", "actors": [], "comments": [], "recommandations_id": []}

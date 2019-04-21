@@ -1,0 +1,1 @@
+{"tmdb_id": 494659, "title": "Elvis in Las Vegas", "original_title": "Elvis in Las Vegas", "slug_title": "elvis-in-las-vegas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

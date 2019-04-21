@@ -1,0 +1,1 @@
+{"tmdb_id": 502752, "title": "Giorno dopo giorno", "original_title": "Giorno dopo giorno", "slug_title": "giorno-dopo-giorno", "date": "1962-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

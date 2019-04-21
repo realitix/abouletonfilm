@@ -1,0 +1,1 @@
+{"tmdb_id": 438759, "title": "The Hunt for Bo Hansson", "original_title": "Jakten p\u00e5 Bo Hansson", "slug_title": "the-hunt-for-bo-hansson", "date": "1977-06-04", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bo Hansson (Himself)"], "comments": [], "recommandations_id": []}

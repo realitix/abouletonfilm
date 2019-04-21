@@ -1,0 +1,1 @@
+{"tmdb_id": 549250, "title": "The Good Waiter", "original_title": "The Good Waiter", "slug_title": "the-good-waiter", "date": "", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthew Ludwinski (Drew)", "Kevin Grant Spencer (Kevin)", "Fayelyn Bilodeau (Lauren)"], "comments": [], "recommandations_id": []}

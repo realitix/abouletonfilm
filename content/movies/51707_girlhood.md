@@ -1,0 +1,1 @@
+{"tmdb_id": 51707, "title": "Girlhood", "original_title": "Girlhood", "slug_title": "girlhood", "date": "2003-10-13", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6K8a7wS5LaJRUWZ2VsJxysnzI1S.jpg", "actors": [], "comments": [], "recommandations_id": []}

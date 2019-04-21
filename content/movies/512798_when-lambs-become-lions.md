@@ -1,0 +1,1 @@
+{"tmdb_id": 512798, "title": "When Lambs Become Lions", "original_title": "When Lambs Become Lions", "slug_title": "when-lambs-become-lions", "date": "2018-04-20", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lolGpAxrOP0Nvmz1XBB9OYm5oZu.jpg", "actors": [], "comments": [], "recommandations_id": []}

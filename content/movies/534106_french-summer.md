@@ -1,0 +1,1 @@
+{"tmdb_id": 534106, "title": "French Summer", "original_title": "Un \u00e9t\u00e9 sans histoires", "slug_title": "french-summer", "date": "1992-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81iXofCqxUyQ7saF8lcUcUhq7vH.jpg", "actors": [], "comments": [], "recommandations_id": []}

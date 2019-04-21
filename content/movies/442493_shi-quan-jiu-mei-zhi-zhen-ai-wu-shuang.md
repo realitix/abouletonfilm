@@ -1,0 +1,1 @@
+{"tmdb_id": 442493, "title": "\u5341\u5168\u4e5d\u7f8e\u4e4b\u771f\u7231\u65e0\u53cc", "original_title": "\u5341\u5168\u4e5d\u7f8e\u4e4b\u771f\u7231\u65e0\u53cc", "slug_title": "shi-quan-jiu-mei-zhi-zhen-ai-wu-shuang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

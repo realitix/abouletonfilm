@@ -1,0 +1,1 @@
+{"tmdb_id": 190029, "title": "Sky Scrappers", "original_title": "Sky Scrappers", "slug_title": "sky-scrappers", "date": "1928-06-10", "genre": "Animation", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4hg5xxPA8epPRdFCz1W9BrbegBS.jpg", "actors": [], "comments": [], "recommandations_id": [39819, 189977, 39823, 39822]}

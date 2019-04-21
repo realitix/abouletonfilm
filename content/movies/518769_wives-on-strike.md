@@ -1,0 +1,1 @@
+{"tmdb_id": 518769, "title": "Wives On Strike", "original_title": "Wives On Strike", "slug_title": "wives-on-strike", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Omoni Oboli (omoni oboli)", "Uche Jombo (uche jombo)", "Julius Agwu (julius agwu)"], "comments": [], "recommandations_id": []}

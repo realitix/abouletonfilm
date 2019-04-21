@@ -1,0 +1,1 @@
+{"tmdb_id": 589981, "title": "Stones Have Laws", "original_title": "Dee sitonu a weti", "slug_title": "stones-have-laws", "date": "2018-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

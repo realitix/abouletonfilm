@@ -1,0 +1,1 @@
+{"tmdb_id": 103031, "title": "American Guns", "original_title": "American Guns", "slug_title": "american-guns", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

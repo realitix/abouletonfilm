@@ -1,0 +1,1 @@
+{"tmdb_id": 331499, "title": "Woodstock for Capitalists", "original_title": "Woodstock for Capitalists", "slug_title": "woodstock-for-capitalists", "date": "2001-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

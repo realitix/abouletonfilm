@@ -1,0 +1,1 @@
+{"tmdb_id": 403869, "title": "Power Yoga: Total Body", "original_title": "Power Yoga: Total Body", "slug_title": "power-yoga-total-body", "date": "2003-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AnLNyOFb7EEiqATyJAe4NFRG1fY.jpg", "actors": ["Rodney Yee (Himself)"], "comments": [], "recommandations_id": []}

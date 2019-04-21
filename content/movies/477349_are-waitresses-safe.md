@@ -1,0 +1,1 @@
+{"tmdb_id": 477349, "title": "Are Waitresses Safe?", "original_title": "Are Waitresses Safe?", "slug_title": "are-waitresses-safe", "date": "1917-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

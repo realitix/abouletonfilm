@@ -1,0 +1,1 @@
+{"tmdb_id": 450227, "title": "Pivo p\u0159es ulici", "original_title": "Pivo p\u0159es ulici", "slug_title": "pivo-pres-ulici", "date": "1974-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eU3HNwGZ9539VvxPVUGfhlkr6VF.jpg", "actors": [], "comments": [], "recommandations_id": []}

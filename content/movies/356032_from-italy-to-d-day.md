@@ -1,0 +1,1 @@
+{"tmdb_id": 356032, "title": "From Italy to D-Day", "original_title": "From Italy to D-Day", "slug_title": "from-italy-to-d-day", "date": "1946-01-01", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

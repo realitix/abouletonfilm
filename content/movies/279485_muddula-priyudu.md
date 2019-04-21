@@ -1,0 +1,1 @@
+{"tmdb_id": 279485, "title": "Muddula Priyudu", "original_title": "Muddula Priyudu", "slug_title": "muddula-priyudu", "date": "1994-06-30", "genre": "Romance", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Venkatesh ()", "Ramya Krishnan ()", "Brahmanandam ()"], "comments": [], "recommandations_id": []}

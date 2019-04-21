@@ -1,0 +1,1 @@
+{"tmdb_id": 209680, "title": "Hamfat Asar", "original_title": "Hamfat Asar", "slug_title": "hamfat-asar", "date": "1965-01-01", "genre": "Animation", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wglYNMDjkIDWfPWCnt9G60S6wRk.jpg", "actors": [], "comments": [], "recommandations_id": [236063, 164597, 146769, 145915]}

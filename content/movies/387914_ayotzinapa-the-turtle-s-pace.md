@@ -1,0 +1,1 @@
+{"tmdb_id": 387914, "title": "Ayotzinapa: The Turtle's Pace", "original_title": "Ayotzinapa, el Paso de la Tortuga", "slug_title": "ayotzinapa-the-turtle-s-pace", "date": "2018-03-13", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oWBeaYnG0Skoz3foJC4tKq3vLtC.jpg", "actors": [], "comments": [], "recommandations_id": []}

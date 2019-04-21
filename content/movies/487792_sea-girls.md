@@ -1,0 +1,1 @@
+{"tmdb_id": 487792, "title": "Sea Girls", "original_title": "\u6d77\u5973", "slug_title": "sea-girls", "date": "1979-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d9TsFgZ3oeX6ohRg9StmyBTO5To.jpg", "actors": ["Debbie Chou Tan-Wei ()", "Lung Tien-Hsiang ()", "Lung Fei ()"], "comments": [], "recommandations_id": []}

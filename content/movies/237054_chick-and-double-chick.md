@@ -1,0 +1,1 @@
+{"tmdb_id": 237054, "title": "Chick and Double Chick", "original_title": "Chick and Double Chick", "slug_title": "chick-and-double-chick", "date": "1946-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ndb8rjFwt92Ev5d87784yHBRgra.jpg", "actors": [], "comments": [], "recommandations_id": []}

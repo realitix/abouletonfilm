@@ -1,0 +1,1 @@
+{"tmdb_id": 388623, "title": "Ein Fall f\u00fcr Freunde 2", "original_title": "Ein Fall f\u00fcr Freunde 2", "slug_title": "ein-fall-fur-freunde-2", "date": "2008-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qr2s3Joddb5JY29jQizIjw7b8Gl.jpg", "actors": [], "comments": [], "recommandations_id": []}

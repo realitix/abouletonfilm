@@ -1,0 +1,1 @@
+{"tmdb_id": 304127, "title": "Brigada Legatee", "original_title": "Brigada Legatee", "slug_title": "brigada-legatee", "date": "2012-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 162324, "title": "Dr\u00f4les de bobines", "original_title": "Dr\u00f4les de bobines", "slug_title": "droles-de-bobines", "date": "1957-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMSqGH0XhwIye8pRZMYuFXRppyY.jpg", "actors": [], "comments": [], "recommandations_id": []}

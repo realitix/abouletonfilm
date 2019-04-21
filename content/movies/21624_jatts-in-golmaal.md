@@ -1,0 +1,1 @@
+{"tmdb_id": 21624, "title": "Jatts in Golmaal", "original_title": "Jatts in Golmaal", "slug_title": "jatts-in-golmaal", "date": "2003-02-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5epyphS4WqmwJDIu14EL20gxuc.jpg", "actors": [], "comments": [], "recommandations_id": []}

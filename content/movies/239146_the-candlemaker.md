@@ -1,0 +1,1 @@
+{"tmdb_id": 239146, "title": "The Candlemaker", "original_title": "The Candlemaker", "slug_title": "the-candlemaker", "date": "1957-01-01", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTfNXjQSMTe57TTM0UOCoqZnASW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 247439, "title": "The Boot", "original_title": "Chakmeh", "slug_title": "the-boot", "date": "1993-09-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

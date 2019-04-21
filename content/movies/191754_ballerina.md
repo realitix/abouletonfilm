@@ -1,0 +1,1 @@
+{"tmdb_id": 191754, "title": "Ballerina", "original_title": "Ballerina", "slug_title": "ballerina", "date": "2012-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

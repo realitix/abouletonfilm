@@ -1,0 +1,1 @@
+{"tmdb_id": 48715, "title": "Panther", "original_title": "Panther", "slug_title": "panther", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khLjcbsxvvrBXpAJV09bbFOhFEI.jpg", "actors": [], "comments": [], "recommandations_id": []}

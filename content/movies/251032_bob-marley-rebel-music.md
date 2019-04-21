@@ -1,0 +1,1 @@
+{"tmdb_id": 251032, "title": "Bob Marley: Rebel Music", "original_title": "Bob Marley: Rebel Music", "slug_title": "bob-marley-rebel-music", "date": "2001-02-14", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBHVIa1dW8QU9wqhTQwr0XRNKP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

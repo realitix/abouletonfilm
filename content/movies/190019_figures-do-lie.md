@@ -1,0 +1,1 @@
+{"tmdb_id": 190019, "title": "Figures Do Lie", "original_title": "Figures Do Lie", "slug_title": "figures-do-lie", "date": "1928-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Alexander (Mr. Newlywed)", "Jack Cooper (Hamond Egg)", "Violet Palmer (Etta Egg)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 116080, "title": "Busy Buddies", "original_title": "Busy Buddies", "slug_title": "busy-buddies", "date": "1944-03-18", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

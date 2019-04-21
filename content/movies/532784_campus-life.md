@@ -1,0 +1,1 @@
+{"tmdb_id": 532784, "title": "Campus Life", "original_title": "Campus Life", "slug_title": "campus-life", "date": "2018-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5lLU7imj3KCnZ5gBpjUt2Phm39R.jpg", "actors": ["Nakidda Lukia ()", "Luswata Albart ()"], "comments": [], "recommandations_id": []}

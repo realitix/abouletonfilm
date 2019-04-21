@@ -1,0 +1,1 @@
+{"tmdb_id": 340704, "title": "VIP... La otra casa", "original_title": "VIP... La otra casa", "slug_title": "vip-la-otra-casa", "date": "2003-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5y7NpERJagLf8fkB8oe2SQp6zS.jpg", "actors": [], "comments": [], "recommandations_id": []}

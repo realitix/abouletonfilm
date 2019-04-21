@@ -1,0 +1,1 @@
+{"tmdb_id": 550745, "title": "Kronans m\u00e5nf\u00f6rm\u00f6rkelse", "original_title": "Kronans m\u00e5nf\u00f6rm\u00f6rkelse", "slug_title": "kronans-manformorkelse", "date": "1932-01-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

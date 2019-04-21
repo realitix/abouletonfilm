@@ -1,0 +1,1 @@
+{"tmdb_id": 368151, "title": "She stood alone", "original_title": "She stood alone", "slug_title": "she-stood-alone", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 455575, "title": "Kungfu Master", "original_title": "Wong Fei Hong vs Kungfu Panda", "slug_title": "kungfu-master", "date": "2008-03-15", "genre": "Action / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZEx58GIKIFXzYVy9txEgObKA8X.jpg", "actors": [], "comments": [], "recommandations_id": []}

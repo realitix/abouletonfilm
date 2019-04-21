@@ -1,0 +1,1 @@
+{"tmdb_id": 135610, "title": "14 Bis - Ao Vivo", "original_title": "14 Bis - Ao Vivo", "slug_title": "14-bis-ao-vivo", "date": "2007-07-14", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7DKHQIdj905Rv8ltv1l4OyWhV5l.jpg", "actors": [], "comments": [], "recommandations_id": []}

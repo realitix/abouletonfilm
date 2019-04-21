@@ -1,0 +1,1 @@
+{"tmdb_id": 236462, "title": "Mighty Hunters", "original_title": "Mighty Hunters", "slug_title": "mighty-hunters", "date": "1940-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8WXsbYMR6ULV4VK3Og3UvucezQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

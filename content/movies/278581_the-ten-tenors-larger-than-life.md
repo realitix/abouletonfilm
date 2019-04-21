@@ -1,0 +1,1 @@
+{"tmdb_id": 278581, "title": "The Ten Tenors: Larger than Life", "original_title": "The Ten Tenors: Larger than Life", "slug_title": "the-ten-tenors-larger-than-life", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

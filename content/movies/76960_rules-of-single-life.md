@@ -1,0 +1,1 @@
+{"tmdb_id": 76960, "title": "Rules of Single Life", "original_title": "Rules of Single Life", "slug_title": "rules-of-single-life", "date": "2011-04-01", "genre": "Documentaire / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aI6rWaRh4lJHgJbEvziRKzE17Jj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 472393, "title": "Dark Silence", "original_title": "Dark Silence", "slug_title": "dark-silence", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFGoUBcneNFvmskulpIYfVGbcPz.jpg", "actors": ["Everardo Guzman ()", "Parker Riggs ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 572529, "title": "My Baby Left Me", "original_title": "My Baby Left Me", "slug_title": "my-baby-left-me", "date": "1995-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6mI0oXBERxj0FknAgRUOqXbGurp.jpg", "actors": [], "comments": [], "recommandations_id": []}

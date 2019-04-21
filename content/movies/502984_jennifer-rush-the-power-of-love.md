@@ -1,0 +1,1 @@
+{"tmdb_id": 502984, "title": "Jennifer Rush - The Power of Love", "original_title": "Jennifer Rush - The Power of Love", "slug_title": "jennifer-rush-the-power-of-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

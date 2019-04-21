@@ -1,0 +1,1 @@
+{"tmdb_id": 54842, "title": "Rage of the Tiger", "original_title": "Rage of the Tiger", "slug_title": "rage-of-the-tiger", "date": "1971-12-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bH2PUnBz9OFUqvuA8caG6SetMV9.jpg", "actors": ["Jimmy Wang Yu ()"], "comments": [], "recommandations_id": []}

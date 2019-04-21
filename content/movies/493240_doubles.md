@@ -1,0 +1,1 @@
+{"tmdb_id": 493240, "title": "Doubles", "original_title": "Teisikud", "slug_title": "doubles", "date": "1983-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaak Joala (Toomas / Mati)", "Merle Talvik (Tiina / Heli)", "Lembit Ulfsak (T\u00fc\u00fcrimees)"], "comments": [], "recommandations_id": []}

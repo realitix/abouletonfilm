@@ -1,0 +1,1 @@
+{"tmdb_id": 358733, "title": "Cine Gazette No. 14: Do You Remember?", "original_title": "Cine Gazette No. 14: Do You Remember?", "slug_title": "cine-gazette-no-14-do-you-remember", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

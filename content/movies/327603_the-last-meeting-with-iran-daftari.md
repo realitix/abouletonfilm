@@ -1,0 +1,1 @@
+{"tmdb_id": 327603, "title": "The last meeting with Iran Daftari", "original_title": "Akharin didar ba Iran Daftari", "slug_title": "the-last-meeting-with-iran-daftari", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

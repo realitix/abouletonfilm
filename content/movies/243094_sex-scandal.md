@@ -1,0 +1,1 @@
+{"tmdb_id": 243094, "title": "Sex Scandal", "original_title": "Sex Scandal", "slug_title": "sex-scandal", "date": "2003-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nika Madrid (Anne Borromeo)"], "comments": [], "recommandations_id": []}

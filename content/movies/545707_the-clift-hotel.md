@@ -1,0 +1,1 @@
+{"tmdb_id": 545707, "title": "The Clift Hotel", "original_title": "The Clift Hotel", "slug_title": "the-clift-hotel", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 518909, "title": "Il diario del caimano", "original_title": "Il diario del caimano", "slug_title": "il-diario-del-caimano", "date": "2006-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jasmine Trinca ()", "Silvio Orlando ()"], "comments": [], "recommandations_id": []}

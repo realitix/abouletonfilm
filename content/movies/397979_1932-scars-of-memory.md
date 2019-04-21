@@ -1,0 +1,1 @@
+{"tmdb_id": 397979, "title": "1932: Scars of Memory", "original_title": "1932: Cicatriz de la memoria", "slug_title": "1932-scars-of-memory", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZDTrHx5EIBInWDXXFDGd0aNDBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

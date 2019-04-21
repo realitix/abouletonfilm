@@ -1,0 +1,1 @@
+{"tmdb_id": 252640, "title": "Jezebeth", "original_title": "Jezebeth", "slug_title": "jezebeth", "date": "2011-06-01", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3j8qGR8nWR6PwwgHiMyLyNfbrv.jpg", "actors": ["Bree Michaels (Jezebeth)"], "comments": [], "recommandations_id": []}

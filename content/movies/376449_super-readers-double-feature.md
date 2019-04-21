@@ -1,0 +1,1 @@
+{"tmdb_id": 376449, "title": "Super Readers Double Feature", "original_title": "Super Readers Double Feature", "slug_title": "super-readers-double-feature", "date": "2015-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4E1vX340fVZddv6EWHepQgmXrdY.jpg", "actors": [], "comments": [], "recommandations_id": []}

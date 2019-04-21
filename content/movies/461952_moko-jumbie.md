@@ -1,0 +1,1 @@
+{"tmdb_id": 461952, "title": "Moko Jumbie", "original_title": "Moko Jumbie", "slug_title": "moko-jumbie", "date": "2017-06-20", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vanna Girod (Asha)", "Jeremy Thomas (Roger)"], "comments": [], "recommandations_id": []}

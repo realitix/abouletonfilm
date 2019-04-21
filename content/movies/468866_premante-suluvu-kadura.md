@@ -1,0 +1,1 @@
+{"tmdb_id": 468866, "title": "Premante Suluvu Kadura", "original_title": "Premante Suluvu Kadura", "slug_title": "premante-suluvu-kadura", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

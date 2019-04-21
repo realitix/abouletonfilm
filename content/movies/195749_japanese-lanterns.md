@@ -1,0 +1,1 @@
+{"tmdb_id": 195749, "title": "Japanese Lanterns", "original_title": "Japanese Lanterns", "slug_title": "japanese-lanterns", "date": "1935-03-07", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/52Zspgb6B5aDAFfWtqjtCvhSVC3.jpg", "actors": [], "comments": [], "recommandations_id": []}

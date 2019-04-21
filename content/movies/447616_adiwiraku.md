@@ -1,0 +1,1 @@
+{"tmdb_id": 447616, "title": "Adiwiraku", "original_title": "Adiwiraku", "slug_title": "adiwiraku", "date": "2017-03-09", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/si7t7OzfVjUPIsQnFXYmaEfnJeQ.jpg", "actors": ["Sangeeta Krishnasamy ()"], "comments": [], "recommandations_id": []}

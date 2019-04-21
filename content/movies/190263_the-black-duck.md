@@ -1,0 +1,1 @@
+{"tmdb_id": 190263, "title": "The Black Duck", "original_title": "The Black Duck", "slug_title": "the-black-duck", "date": "1929-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

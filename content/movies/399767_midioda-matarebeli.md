@@ -1,0 +1,1 @@
+{"tmdb_id": 399767, "title": "Midioda matarebeli", "original_title": "Midioda matarebeli", "slug_title": "midioda-matarebeli", "date": "2005-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

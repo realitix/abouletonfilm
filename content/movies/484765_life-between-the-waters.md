@@ -1,0 +1,1 @@
+{"tmdb_id": 484765, "title": "Life Between the Waters", "original_title": "Jeta Mes Uj\u00ebrave", "slug_title": "life-between-the-waters", "date": "2017-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oR8HxfaQgZZkDnacm9aY3ZzXscB.jpg", "actors": [], "comments": [], "recommandations_id": []}

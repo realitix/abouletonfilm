@@ -1,0 +1,1 @@
+{"tmdb_id": 495234, "title": "Plaza Concr\u00e8te", "original_title": "Plaza Concr\u00e8te", "slug_title": "plaza-concrete", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79nPB31mCLrn4EQabbpbDH57K53.jpg", "actors": [], "comments": [], "recommandations_id": []}

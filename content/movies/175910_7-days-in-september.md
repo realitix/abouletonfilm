@@ -1,0 +1,1 @@
+{"tmdb_id": 175910, "title": "7 Days in September", "original_title": "7 Days in September", "slug_title": "7-days-in-september", "date": "2002-09-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uauCS7Ows759M0NEyDeOPKeIfX.jpg", "actors": [], "comments": [], "recommandations_id": []}

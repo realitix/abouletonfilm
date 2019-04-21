@@ -1,0 +1,1 @@
+{"tmdb_id": 275001, "title": "Le man\u00e8ge", "original_title": "Le man\u00e8ge", "slug_title": "le-manege", "date": "1980-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avJ56d0iyYwKK0o3ymplR1xgaqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

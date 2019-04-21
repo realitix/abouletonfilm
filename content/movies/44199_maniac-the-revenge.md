@@ -1,0 +1,1 @@
+{"tmdb_id": 44199, "title": "Maniac the Revenge", "original_title": "Maniac the Revenge", "slug_title": "maniac-the-revenge", "date": "1996-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Watson (Jim Dag)", "Gareth Southen (Watcher)", "Jonathon Ash (Detective Inspector)"], "comments": [], "recommandations_id": []}

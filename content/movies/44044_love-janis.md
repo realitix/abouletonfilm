@@ -1,0 +1,1 @@
+{"tmdb_id": 44044, "title": "Love, Janis", "original_title": "Love, Janis", "slug_title": "love-janis", "date": "2010-07-22", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9dfKt9yKtICwHdl9KK7yDQl5Hv2.jpg", "actors": ["Janis Joplin (herself)"], "comments": [], "recommandations_id": []}

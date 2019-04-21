@@ -1,0 +1,1 @@
+{"tmdb_id": 377708, "title": "The Witch of the Everglades", "original_title": "The Witch of the Everglades", "slug_title": "the-witch-of-the-everglades", "date": "1911-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathlyn Williams (Dora - the Witch)"], "comments": [], "recommandations_id": []}

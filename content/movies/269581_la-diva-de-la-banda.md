@@ -1,0 +1,1 @@
+{"tmdb_id": 269581, "title": "La diva de la banda", "original_title": "La diva de la banda", "slug_title": "la-diva-de-la-banda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

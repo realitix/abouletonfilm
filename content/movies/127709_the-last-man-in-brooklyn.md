@@ -1,0 +1,1 @@
+{"tmdb_id": 127709, "title": "The Last Man in Brooklyn", "original_title": "The Last Man in Brooklyn", "slug_title": "the-last-man-in-brooklyn", "date": "2007-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher Jensen (The Man)", "Bill Weeden (Geronimo)"], "comments": [], "recommandations_id": []}

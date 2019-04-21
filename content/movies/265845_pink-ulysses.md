@@ -1,0 +1,1 @@
+{"tmdb_id": 265845, "title": "Pink Ulysses", "original_title": "Pink Ulysses", "slug_title": "pink-ulysses", "date": "1990-02-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsjPwIxxQqYf8Dw5Xi9UlDnPGsM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342423, "title": "A Modern Red Riding Hood", "original_title": "A Modern Red Riding Hood", "slug_title": "a-modern-red-riding-hood", "date": "1935-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVf5helE0tEE1CR46anu6h7K1M4.jpg", "actors": [], "comments": [], "recommandations_id": []}

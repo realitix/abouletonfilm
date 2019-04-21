@@ -1,0 +1,1 @@
+{"tmdb_id": 388051, "title": "Pizza Verdi", "original_title": "Pizza Verdi", "slug_title": "pizza-verdi", "date": "2012-01-01", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norm Lewis (Reggie)", "Marie Zamora (Gilda)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 435047, "title": "Tholi Valapu", "original_title": "Tholi Valapu", "slug_title": "tholi-valapu", "date": "2001-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tottempudi Gopichand ()", "Sneha ()", "Chandramohan ()", "L. B. Sriram ()", "M. S. Narayana ()"], "comments": [], "recommandations_id": []}

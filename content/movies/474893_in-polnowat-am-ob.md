@@ -1,0 +1,1 @@
+{"tmdb_id": 474893, "title": "In Polnowat am Ob", "original_title": "In Polnowat am Ob", "slug_title": "in-polnowat-am-ob", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

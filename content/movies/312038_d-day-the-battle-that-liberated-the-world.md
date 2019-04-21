@@ -1,0 +1,1 @@
+{"tmdb_id": 312038, "title": "D-Day: The Battle That Liberated the World", "original_title": "D-Day: The Battle That Liberated the World", "slug_title": "d-day-the-battle-that-liberated-the-world", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

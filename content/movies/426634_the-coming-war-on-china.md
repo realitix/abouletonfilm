@@ -1,0 +1,1 @@
+{"tmdb_id": 426634, "title": "The Coming War on China", "original_title": "The Coming War on China", "slug_title": "the-coming-war-on-china", "date": "2016-12-05", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8dLrZv0jD1pdQMeb4pC2owtjZy.jpg", "actors": [], "comments": [], "recommandations_id": []}

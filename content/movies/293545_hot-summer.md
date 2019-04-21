@@ -1,0 +1,1 @@
+{"tmdb_id": 293545, "title": "Hot Summer", "original_title": "Hot Summer", "slug_title": "hot-summer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

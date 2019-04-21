@@ -1,0 +1,1 @@
+{"tmdb_id": 534448, "title": "Old-Time Banjo Styles", "original_title": "Old-Time Banjo Styles", "slug_title": "old-time-banjo-styles", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Seeger (Mike Seeger)"], "comments": [], "recommandations_id": []}

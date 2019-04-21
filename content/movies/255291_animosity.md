@@ -1,0 +1,1 @@
+{"tmdb_id": 255291, "title": "Animosity", "original_title": "Animosity", "slug_title": "animosity", "date": "2013-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRhsaMZt3re8WxIhzv2AdOkcais.jpg", "actors": ["Tracy Willet (Carrie Bonner)", "Marcin Paluch (Mike Bonner)"], "comments": [], "recommandations_id": []}

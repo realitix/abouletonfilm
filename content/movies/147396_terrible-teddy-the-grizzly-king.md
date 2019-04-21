@@ -1,0 +1,1 @@
+{"tmdb_id": 147396, "title": "Terrible Teddy, the Grizzly King", "original_title": "Terrible Teddy, the Grizzly King", "slug_title": "terrible-teddy-the-grizzly-king", "date": "1901-12-31", "genre": "Documentaire", "score": "3.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [190588, 154612, 189644, 148908]}

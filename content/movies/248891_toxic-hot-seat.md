@@ -1,0 +1,1 @@
+{"tmdb_id": 248891, "title": "Toxic Hot Seat", "original_title": "Toxic Hot Seat", "slug_title": "toxic-hot-seat", "date": "2013-11-25", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVja2FlEQ5jstkSeUjkemjowmzg.jpg", "actors": [], "comments": [], "recommandations_id": []}

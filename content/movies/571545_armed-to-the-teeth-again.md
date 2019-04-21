@@ -1,0 +1,1 @@
+{"tmdb_id": 571545, "title": "Armed to the Teeth... Again", "original_title": "Armed to the Teeth... Again", "slug_title": "armed-to-the-teeth-again", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Umberto Lenzi ()"], "comments": [], "recommandations_id": []}

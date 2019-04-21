@@ -1,0 +1,1 @@
+{"tmdb_id": 358013, "title": "Royal Navy Amazon", "original_title": "Royal Navy Amazon", "slug_title": "royal-navy-amazon", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i99Jj1PWUu075KAxr282hzwhSsx.jpg", "actors": [], "comments": [], "recommandations_id": []}

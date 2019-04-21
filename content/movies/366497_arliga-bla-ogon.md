@@ -1,0 +1,1 @@
+{"tmdb_id": 366497, "title": "\u00c4rliga Bl\u00e5 \u00d6gon", "original_title": "\u00c4rliga Bl\u00e5 \u00d6gon", "slug_title": "arliga-bla-ogon", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

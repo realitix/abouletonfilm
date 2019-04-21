@@ -1,0 +1,1 @@
+{"tmdb_id": 268185, "title": "Deep 'C' Melodies", "original_title": "Deep 'C' Melodies", "slug_title": "deep-c-melodies", "date": "1930-01-01", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frances Williams (Herself)", "The Yacht Club Boys (Singing Quartette)"], "comments": [], "recommandations_id": []}

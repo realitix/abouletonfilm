@@ -1,0 +1,1 @@
+{"tmdb_id": 340368, "title": "Standing By: Gatz Backstage", "original_title": "Standing By: Gatz Backstage", "slug_title": "standing-by-gatz-backstage", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

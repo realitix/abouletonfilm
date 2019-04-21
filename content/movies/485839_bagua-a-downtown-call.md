@@ -1,0 +1,1 @@
+{"tmdb_id": 485839, "title": "Bagua A Downtown Call", "original_title": "Bagua A Downtown Call", "slug_title": "bagua-a-downtown-call", "date": "2012-09-26", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

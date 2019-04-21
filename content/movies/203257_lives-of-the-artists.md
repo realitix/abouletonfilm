@@ -1,0 +1,1 @@
+{"tmdb_id": 203257, "title": "Lives Of The Artists", "original_title": "Lives Of The Artists", "slug_title": "lives-of-the-artists", "date": "2009-10-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wNl3klBvmYy1kxnuRAo9dFNrtL.jpg", "actors": [], "comments": [], "recommandations_id": []}

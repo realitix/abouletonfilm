@@ -1,0 +1,1 @@
+{"tmdb_id": 391103, "title": "Atirou para Matar", "original_title": "Atirou para Matar", "slug_title": "atirou-para-matar", "date": "2014-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qALFhNur5WeYrc8jOWjxIwFTapM.jpg", "actors": [], "comments": [], "recommandations_id": []}

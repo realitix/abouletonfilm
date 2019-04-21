@@ -1,0 +1,1 @@
+{"tmdb_id": 585216, "title": "Escape Room 2", "original_title": "Escape Room 2", "slug_title": "escape-room-2", "date": "2020-04-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HI4gKHj5xYd0QGLPz7ZcMM8Zhr.jpg", "actors": [], "comments": [], "recommandations_id": []}

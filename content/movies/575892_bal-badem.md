@@ -1,0 +1,1 @@
+{"tmdb_id": 575892, "title": "Bal badem", "original_title": "Bal badem", "slug_title": "bal-badem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGWj6G1XPM9LU7KcqIAUasWfrYk.jpg", "actors": [], "comments": [], "recommandations_id": []}

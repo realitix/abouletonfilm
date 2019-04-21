@@ -1,0 +1,1 @@
+{"tmdb_id": 559398, "title": "Voces de la Calle", "original_title": "Voces de la Calle", "slug_title": "voces-de-la-calle", "date": "2018-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vladimir Acevedo (Lucho)"], "comments": [], "recommandations_id": []}

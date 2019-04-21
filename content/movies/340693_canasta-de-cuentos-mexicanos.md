@@ -1,0 +1,1 @@
+{"tmdb_id": 340693, "title": "Canasta de Cuentos Mexicanos", "original_title": "Canasta de Cuentos Mexicanos", "slug_title": "canasta-de-cuentos-mexicanos", "date": "1956-05-17", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWPTjXms6UoLKcSkjw5i7WH6FG.jpg", "actors": [], "comments": [], "recommandations_id": []}

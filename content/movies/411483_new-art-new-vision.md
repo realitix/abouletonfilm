@@ -1,0 +1,1 @@
+{"tmdb_id": 411483, "title": "New Art - New Vision", "original_title": "Neue Kunst - neues Sehen", "slug_title": "new-art-new-vision", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QKLp9Vid8aLy6WsqSrE6YOpG0R.jpg", "actors": [], "comments": [], "recommandations_id": []}

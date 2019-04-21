@@ -1,0 +1,1 @@
+{"tmdb_id": 331756, "title": "Khlifa Ringworm", "original_title": "Khalifa al-Aqra", "slug_title": "khlifa-ringworm", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

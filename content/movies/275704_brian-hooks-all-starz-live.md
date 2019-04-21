@@ -1,0 +1,1 @@
+{"tmdb_id": 275704, "title": "Brian Hooks All Starz Live", "original_title": "Brian Hooks All Starz Live", "slug_title": "brian-hooks-all-starz-live", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

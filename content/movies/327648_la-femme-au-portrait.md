@@ -1,0 +1,1 @@
+{"tmdb_id": 327648, "title": "La Femme au portrait", "original_title": "La Femme au portrait", "slug_title": "la-femme-au-portrait", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

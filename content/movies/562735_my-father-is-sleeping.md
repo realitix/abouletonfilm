@@ -1,0 +1,1 @@
+{"tmdb_id": 562735, "title": "My Father Is Sleeping", "original_title": "Mein Vater schl\u00e4ft", "slug_title": "my-father-is-sleeping", "date": "2007-08-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3QmI69FYVICIj21J2XYHWIv7bd.jpg", "actors": [], "comments": [], "recommandations_id": []}

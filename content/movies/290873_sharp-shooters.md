@@ -1,0 +1,1 @@
+{"tmdb_id": 290873, "title": "Sharp Shooters", "original_title": "Sharp Shooters", "slug_title": "sharp-shooters", "date": "1928-01-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Brien (George)", "Lois Moran (Loretta)", "Noah Young (Tom)", "Tom Dugan (Jerry)"], "comments": [], "recommandations_id": []}

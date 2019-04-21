@@ -1,0 +1,1 @@
+{"tmdb_id": 566179, "title": "Mexican Knife Duel", "original_title": "Mexican Knife Duel", "slug_title": "mexican-knife-duel", "date": "1894-10-06", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

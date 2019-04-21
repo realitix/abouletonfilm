@@ -1,0 +1,1 @@
+{"tmdb_id": 372917, "title": "Yo Gabba Gabba!: Super Spies", "original_title": "Yo Gabba Gabba!: Super Spies", "slug_title": "yo-gabba-gabba-super-spies", "date": "2012-04-17", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idWqtMncY0RtTvEAPLOCQDFjHs0.jpg", "actors": [], "comments": [], "recommandations_id": []}

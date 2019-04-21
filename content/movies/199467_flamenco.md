@@ -1,0 +1,1 @@
+{"tmdb_id": 199467, "title": "Flamenco", "original_title": "Duende y misterio del flamenco", "slug_title": "flamenco", "date": "1952-06-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ea6KGmFOk2HxAQ6vjM7OCYYLvUS.jpg", "actors": [], "comments": [], "recommandations_id": []}

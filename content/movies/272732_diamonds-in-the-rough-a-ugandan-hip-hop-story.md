@@ -1,0 +1,1 @@
+{"tmdb_id": 272732, "title": "Diamonds in the Rough: A Ugandan Hip Hop Story", "original_title": "Diamonds in the Rough: A Ugandan Hip Hop Story", "slug_title": "diamonds-in-the-rough-a-ugandan-hip-hop-story", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

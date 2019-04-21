@@ -1,0 +1,1 @@
+{"tmdb_id": 503013, "title": "New York: The City and the World", "original_title": "New York: The City and the World", "slug_title": "new-york-the-city-and-the-world", "date": "2001-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

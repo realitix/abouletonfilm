@@ -1,0 +1,1 @@
+{"tmdb_id": 555484, "title": "Queen: The Game", "original_title": "Queen: The Game", "slug_title": "queen-the-game", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6vIWwfrZwLfri6EDByvsZc42at.jpg", "actors": [], "comments": [], "recommandations_id": []}

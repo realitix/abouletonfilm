@@ -1,0 +1,1 @@
+{"tmdb_id": 236183, "title": "Big Chief Ugh-Amugh-Ugh", "original_title": "Big Chief Ugh-Amugh-Ugh", "slug_title": "big-chief-ugh-amugh-ugh", "date": "1938-04-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbyVTWyPzQd0lwQjKoHDZcH6cbk.jpg", "actors": [], "comments": [], "recommandations_id": []}

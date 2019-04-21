@@ -1,0 +1,1 @@
+{"tmdb_id": 555923, "title": "La b\u00eate traqu\u00e9e", "original_title": "La b\u00eate traqu\u00e9e", "slug_title": "la-bete-traquee", "date": "1923-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

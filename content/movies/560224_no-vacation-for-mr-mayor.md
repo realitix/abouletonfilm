@@ -1,0 +1,1 @@
+{"tmdb_id": 560224, "title": "No Vacation for Mr. Mayor", "original_title": "Pas de vacances pour Monsieur le Maire", "slug_title": "no-vacation-for-mr-mayor", "date": "1951-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a9c9paM8nHBG5AXLs5uiIrZgY21.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 260728, "title": "Arrakis", "original_title": "Arrakis", "slug_title": "arrakis", "date": "2008-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Silvestro Capelli ()"], "comments": [], "recommandations_id": []}

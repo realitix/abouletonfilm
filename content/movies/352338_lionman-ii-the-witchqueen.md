@@ -1,0 +1,1 @@
+{"tmdb_id": 352338, "title": "Lionman II: The Witchqueen", "original_title": "Lionman II: The Witchqueen", "slug_title": "lionman-ii-the-witchqueen", "date": "1979-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vD58RzalL4ojVf2njg3Vy1Wm1J3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329107, "title": "Double Dose of Terror!!", "original_title": "Double Dose of Terror!!", "slug_title": "double-dose-of-terror", "date": "2011-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oDp2xXfZUxeoqPS5PXMXtWZiuQT.jpg", "actors": [], "comments": [], "recommandations_id": []}

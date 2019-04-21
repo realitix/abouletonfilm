@@ -1,0 +1,1 @@
+{"tmdb_id": 409048, "title": "L\u00e4rm zerm\u00fcrbt", "original_title": "L\u00e4rm zerm\u00fcrbt", "slug_title": "larm-zermurbt", "date": "1954-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

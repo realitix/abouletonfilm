@@ -1,0 +1,1 @@
+{"tmdb_id": 310063, "title": "Queens Over Jacks", "original_title": "Queens Over Jacks", "slug_title": "queens-over-jacks", "date": "2005-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

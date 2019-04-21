@@ -1,0 +1,1 @@
+{"tmdb_id": 503178, "title": "Proussade (J'ai noy\u00e9 les mots dans mon ventre)", "original_title": "Proussade (J'ai noy\u00e9 les mots dans mon ventre)", "slug_title": "proussade-j-ai-noye-les-mots-dans-mon-ventre", "date": "1967-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

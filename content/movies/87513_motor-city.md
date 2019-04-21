@@ -1,0 +1,1 @@
+{"tmdb_id": 87513, "title": "Motor City", "original_title": "Motor City", "slug_title": "motor-city", "date": "", "genre": "Action / Crime / Drame", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerard Butler (John Miller)", "Adrien Brody ()"], "comments": [], "recommandations_id": []}

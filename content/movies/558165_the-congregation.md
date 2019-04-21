@@ -1,0 +1,1 @@
+{"tmdb_id": 558165, "title": "The Congregation", "original_title": "The Congregation", "slug_title": "the-congregation", "date": "2018-11-23", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWzKuBRyDyp6lS2giQwcXGVJ45K.jpg", "actors": [], "comments": [], "recommandations_id": []}

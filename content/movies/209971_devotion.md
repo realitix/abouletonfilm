@@ -1,0 +1,1 @@
+{"tmdb_id": 209971, "title": "Devotion", "original_title": "Debosyon", "slug_title": "devotion", "date": "2013-07-27", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mxymqaFdJpcDN0GInxU4HPzvcgu.jpg", "actors": ["Paulo Avelino ()", "Mara Lopez ()"], "comments": [], "recommandations_id": []}

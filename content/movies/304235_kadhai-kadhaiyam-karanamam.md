@@ -1,0 +1,1 @@
+{"tmdb_id": 304235, "title": "Kadhai Kadhaiyam Karanamam", "original_title": "Kadhai Kadhaiyam Karanamam", "slug_title": "kadhai-kadhaiyam-karanamam", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

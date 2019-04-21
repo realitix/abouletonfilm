@@ -1,0 +1,1 @@
+{"tmdb_id": 309719, "title": "He Say, She Say, But What Does God Say?", "original_title": "He Say, She Say, But What Does God Say?", "slug_title": "he-say-she-say-but-what-does-god-say", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 108925, "title": "The Wrong Ferarri", "original_title": "The Wrong Ferarri", "slug_title": "the-wrong-ferarri", "date": "2011-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqUreTVzsD9ozIdNC2SHyJOdPyK.jpg", "actors": [], "comments": [], "recommandations_id": []}

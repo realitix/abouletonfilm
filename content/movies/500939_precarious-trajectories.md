@@ -1,0 +1,1 @@
+{"tmdb_id": 500939, "title": "Precarious Trajectories", "original_title": "Precarious Trajectories", "slug_title": "precarious-trajectories", "date": "2016-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

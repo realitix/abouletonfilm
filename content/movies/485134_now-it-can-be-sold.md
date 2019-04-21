@@ -1,0 +1,1 @@
+{"tmdb_id": 485134, "title": "Now It Can Be Sold", "original_title": "Now It Can Be Sold", "slug_title": "now-it-can-be-sold", "date": "1939-06-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde ()"], "comments": [], "recommandations_id": []}

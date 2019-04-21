@@ -1,0 +1,1 @@
+{"tmdb_id": 340193, "title": "The Horror of The Dolls", "original_title": "The Horror of The Dolls", "slug_title": "the-horror-of-the-dolls", "date": "2010-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGkXcB5WwAfVL9EasL8TH58k867.jpg", "actors": [], "comments": [], "recommandations_id": []}

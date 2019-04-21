@@ -1,0 +1,1 @@
+{"tmdb_id": 478363, "title": "New Museum of Mankind", "original_title": "New Museum of Mankind", "slug_title": "new-museum-of-mankind", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AkdEP7XQjPpbTZ3uAfBPOry9YG.jpg", "actors": [], "comments": [], "recommandations_id": []}

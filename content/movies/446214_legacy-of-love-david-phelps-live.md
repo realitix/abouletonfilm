@@ -1,0 +1,1 @@
+{"tmdb_id": 446214, "title": "Legacy of Love: David Phelps Live", "original_title": "Legacy of Love: David Phelps Live", "slug_title": "legacy-of-love-david-phelps-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQQ18ow2qX5DMk64QZlI3aad1e8.jpg", "actors": [], "comments": [], "recommandations_id": []}

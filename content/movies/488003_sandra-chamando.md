@@ -1,0 +1,1 @@
+{"tmdb_id": 488003, "title": "Sandra Chamando", "original_title": "Sandra Chamando", "slug_title": "sandra-chamando", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7baE7xKzn0SowNk35jUSqr2Xr5r.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 198647, "title": "Animale bolnave", "original_title": "Animale bolnave", "slug_title": "animale-bolnave", "date": "1970-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajDNsSZ0hTOOb7yVt3vFl70J3IE.jpg", "actors": [], "comments": [], "recommandations_id": []}

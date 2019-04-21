@@ -1,0 +1,1 @@
+{"tmdb_id": 536596, "title": "Ukamau y Ke\u0301", "original_title": "Ukamau y Ke\u0301", "slug_title": "ukamau-y-ke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abraham Boj\u00f3rquez ()"], "comments": [], "recommandations_id": []}

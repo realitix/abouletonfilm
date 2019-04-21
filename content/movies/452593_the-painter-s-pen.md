@@ -1,0 +1,1 @@
+{"tmdb_id": 452593, "title": "The Painter's Pen", "original_title": "La Plume du peintre", "slug_title": "the-painter-s-pen", "date": "2017-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

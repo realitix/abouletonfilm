@@ -1,0 +1,1 @@
+{"tmdb_id": 332527, "title": "Fear on Film: Inside 'The Fog'", "original_title": "Fear on Film: Inside 'The Fog'", "slug_title": "fear-on-film-inside-the-fog", "date": "1980-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

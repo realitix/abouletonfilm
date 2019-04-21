@@ -1,0 +1,1 @@
+{"tmdb_id": 151612, "title": "Joulu Ankkalinnassa", "original_title": "Joulu Ankkalinnassa", "slug_title": "joulu-ankkalinnassa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGOqImuewzD594ErFY9qG8CY93L.jpg", "actors": [], "comments": [], "recommandations_id": []}

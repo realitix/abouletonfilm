@@ -1,0 +1,1 @@
+{"tmdb_id": 156488, "title": "The Mad Dog", "original_title": "The Mad Dog", "slug_title": "the-mad-dog", "date": "1932-03-05", "genre": "Animation", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rH1wXhftfbELPNCe7lPEYCI1Yjy.jpg", "actors": [], "comments": [], "recommandations_id": [162965, 156458, 184657, 162577]}

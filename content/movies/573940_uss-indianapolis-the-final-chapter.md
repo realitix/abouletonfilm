@@ -1,0 +1,1 @@
+{"tmdb_id": 573940, "title": "USS Indianapolis: The Final Chapter", "original_title": "USS Indianapolis: The Final Chapter", "slug_title": "uss-indianapolis-the-final-chapter", "date": "2019-01-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

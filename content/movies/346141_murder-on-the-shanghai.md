@@ -1,0 +1,1 @@
+{"tmdb_id": 346141, "title": "Murder on the Shanghai", "original_title": "Murder on the Shanghai", "slug_title": "murder-on-the-shanghai", "date": "2012-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Xf3pYxuxJfs6QjAqNXDwMiNVFb.jpg", "actors": [], "comments": [], "recommandations_id": []}

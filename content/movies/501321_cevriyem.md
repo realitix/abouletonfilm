@@ -1,0 +1,1 @@
+{"tmdb_id": 501321, "title": "Cevriyem", "original_title": "Cevriyem", "slug_title": "cevriyem", "date": "1978-01-01", "genre": "Drame / Romance / Crime", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["T\u00fcrkan \u015eoray (Cevriye)", "Kadir \u0130nan\u0131r ()", "Erol Ta\u015f ()"], "comments": [], "recommandations_id": []}

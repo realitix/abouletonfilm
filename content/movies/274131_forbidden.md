@@ -1,0 +1,1 @@
+{"tmdb_id": 274131, "title": "Forbidden", "original_title": "Proibito", "slug_title": "forbidden", "date": "1954-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/491EGHWnTM7OXLn01IYlYGZSriQ.jpg", "actors": ["Mel Ferrer ()", "Amedeo Nazzari ()", "Lea Massari ()"], "comments": [], "recommandations_id": []}

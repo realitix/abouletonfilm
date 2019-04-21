@@ -1,0 +1,1 @@
+{"tmdb_id": 564731, "title": "Sem Pai, Nem M\u00e3e", "original_title": "Sem Pai, Nem M\u00e3e", "slug_title": "sem-pai-nem-mae", "date": "2018-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVY8VEESmLS7hlLkRB4MW3VFtYB.jpg", "actors": [], "comments": [], "recommandations_id": []}

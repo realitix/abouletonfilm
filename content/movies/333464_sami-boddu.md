@@ -1,0 +1,1 @@
+{"tmdb_id": 333464, "title": "S\u00e1mi Boddu", "original_title": "S\u00e1mi Boddu", "slug_title": "sami-boddu", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

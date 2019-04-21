@@ -1,0 +1,1 @@
+{"tmdb_id": 74113, "title": "Taste the Waste", "original_title": "Taste the Waste", "slug_title": "taste-the-waste", "date": "2011-09-08", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKUnhS3BKNr2AKHoDoU6fscNCr6.jpg", "actors": [], "comments": [], "recommandations_id": []}

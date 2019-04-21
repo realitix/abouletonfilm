@@ -1,0 +1,1 @@
+{"tmdb_id": 559669, "title": "Dream Ballerina", "original_title": "Ballerina", "slug_title": "dream-ballerina", "date": "1950-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3GK96MlOv4oFcTiFgR3NZ6T7Fo6.jpg", "actors": [], "comments": [], "recommandations_id": []}

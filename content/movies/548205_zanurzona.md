@@ -1,0 +1,1 @@
+{"tmdb_id": 548205, "title": "Zanurzona", "original_title": "Zanurzona", "slug_title": "zanurzona", "date": "2012-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

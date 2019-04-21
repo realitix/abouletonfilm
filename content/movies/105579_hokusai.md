@@ -1,0 +1,1 @@
+{"tmdb_id": 105579, "title": "Hokusai", "original_title": "Hokusai", "slug_title": "hokusai", "date": "1953-01-01", "genre": "Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9pcLIrd1pqPEf70WcYKYwXf0BIE.jpg", "actors": ["Yoshi Kat\u00f4 (Narrator)"], "comments": [], "recommandations_id": [105580, 10244, 116370, 61430]}

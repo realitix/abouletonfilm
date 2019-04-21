@@ -1,0 +1,1 @@
+{"tmdb_id": 311864, "title": "The House of the Rising Punk", "original_title": "The House of the Rising Punk", "slug_title": "the-house-of-the-rising-punk", "date": "1998-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

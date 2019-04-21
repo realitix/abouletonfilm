@@ -1,0 +1,1 @@
+{"tmdb_id": 263155, "title": "Canon - Exploring EOS", "original_title": "Canon - Exploring EOS", "slug_title": "canon-exploring-eos", "date": "2010-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ycW01B55CuOs78iSmyrOaYZEC4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

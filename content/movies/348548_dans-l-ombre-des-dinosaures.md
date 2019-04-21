@@ -1,0 +1,1 @@
+{"tmdb_id": 348548, "title": "Dans l'ombre des dinosaures", "original_title": "Dans l'ombre des dinosaures", "slug_title": "dans-l-ombre-des-dinosaures", "date": "2007-07-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

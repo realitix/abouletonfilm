@@ -1,0 +1,1 @@
+{"tmdb_id": 226123, "title": "Mia san Champions", "original_title": "Mia san Champions", "slug_title": "mia-san-champions", "date": "2013-08-18", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faZVSQq9967q2l2JacRIs626LBK.jpg", "actors": [], "comments": [], "recommandations_id": []}

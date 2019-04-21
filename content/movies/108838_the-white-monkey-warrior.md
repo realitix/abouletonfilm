@@ -1,0 +1,1 @@
+{"tmdb_id": 108838, "title": "The White Monkey Warrior", "original_title": "Hanuman klook foon", "slug_title": "the-white-monkey-warrior", "date": "2008-08-12", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AlmKEUlAhgqL7MF46WWcTcYUPrb.jpg", "actors": [], "comments": [], "recommandations_id": []}

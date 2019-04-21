@@ -1,0 +1,1 @@
+{"tmdb_id": 163897, "title": "Print Generation", "original_title": "Print Generation", "slug_title": "print-generation", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8WLU1lyzQxeEvZ23KA8qfisV6e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320080, "title": "Living With A Jamaican", "original_title": "Living With A Jamaican", "slug_title": "living-with-a-jamaican", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350267, "title": "\uc18c\ub9bc\uc6a9\ubb38\ubc29", "original_title": "\uc18c\ub9bc\uc6a9\ubb38\ubc29", "slug_title": "sorimyongmunbang", "date": "1980-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

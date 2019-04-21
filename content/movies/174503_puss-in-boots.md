@@ -1,0 +1,1 @@
+{"tmdb_id": 174503, "title": "Puss in Boots", "original_title": "Puss in Boots", "slug_title": "puss-in-boots", "date": "1934-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 106065, "title": "Meet Your Meat", "original_title": "Meet Your Meat", "slug_title": "meet-your-meat", "date": "2002-01-01", "genre": "Documentaire", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7s0gH9Yor9Uk3ccSB5kjfCfvRsp.jpg", "actors": ["Alec Baldwin (Narrator)"], "comments": [], "recommandations_id": []}

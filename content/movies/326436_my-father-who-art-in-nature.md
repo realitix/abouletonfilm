@@ -1,0 +1,1 @@
+{"tmdb_id": 326436, "title": "My Father, Who Art in Nature", "original_title": "My Father, Who Art in Nature", "slug_title": "my-father-who-art-in-nature", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

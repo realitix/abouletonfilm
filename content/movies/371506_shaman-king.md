@@ -1,0 +1,1 @@
+{"tmdb_id": 371506, "title": "Shaman King", "original_title": "Shaman King", "slug_title": "shaman-king", "date": "", "genre": "", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

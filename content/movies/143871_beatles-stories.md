@@ -1,0 +1,1 @@
+{"tmdb_id": 143871, "title": "Beatles Stories", "original_title": "Beatles Stories", "slug_title": "beatles-stories", "date": "2011-11-11", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2pY93OGWrLJTBQ7gKlxxmtsufzF.jpg", "actors": [], "comments": [], "recommandations_id": []}

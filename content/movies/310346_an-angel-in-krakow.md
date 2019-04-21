@@ -1,0 +1,1 @@
+{"tmdb_id": 310346, "title": "An Angel in Krakow", "original_title": "An Angel in Krakow", "slug_title": "an-angel-in-krakow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486177, "title": "Fran\u00e7ois Truffaut, uma Autobiografia", "original_title": "Fran\u00e7ois Truffaut, uma Autobiografia", "slug_title": "francois-truffaut-uma-autobiografia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

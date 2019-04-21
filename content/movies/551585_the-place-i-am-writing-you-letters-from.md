@@ -1,0 +1,1 @@
+{"tmdb_id": 551585, "title": "The Place I Am Writing You Letters From", "original_title": "Mjesto odakle vam pi\u0161em pisma", "slug_title": "the-place-i-am-writing-you-letters-from", "date": "2018-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

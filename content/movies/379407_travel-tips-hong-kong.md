@@ -1,0 +1,1 @@
+{"tmdb_id": 379407, "title": "Travel Tips: Hong Kong", "original_title": "Travel Tips: Hong Kong", "slug_title": "travel-tips-hong-kong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFcMm9TsOQEeolQhmuZw4PIimNo.jpg", "actors": ["Laura McKenzie ()"], "comments": [], "recommandations_id": []}

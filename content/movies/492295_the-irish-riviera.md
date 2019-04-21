@@ -1,0 +1,1 @@
+{"tmdb_id": 492295, "title": "The Irish Riviera", "original_title": "The Irish Riviera", "slug_title": "the-irish-riviera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

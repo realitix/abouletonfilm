@@ -1,0 +1,1 @@
+{"tmdb_id": 349723, "title": "\ucc38\uc0c8\uc640 \ud5c8\uc218\uc544\ube44", "original_title": "\ucc38\uc0c8\uc640 \ud5c8\uc218\uc544\ube44", "slug_title": "camsaewa-heosuabi", "date": "1983-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

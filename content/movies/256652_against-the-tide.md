@@ -1,0 +1,1 @@
+{"tmdb_id": 256652, "title": "Against the Tide", "original_title": "Udugan Yamaya", "slug_title": "against-the-tide", "date": "2004-10-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mauli Fernando ()", "Suminda Sirisena ()", "Thisuri Yuwanika ()"], "comments": [], "recommandations_id": []}

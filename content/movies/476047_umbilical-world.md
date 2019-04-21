@@ -1,0 +1,1 @@
+{"tmdb_id": 476047, "title": "Umbilical World", "original_title": "Umbilical World", "slug_title": "umbilical-world", "date": "2018-11-23", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JHGu7Vv2iYo25BTRgiTgYegYA6.jpg", "actors": [], "comments": [], "recommandations_id": []}

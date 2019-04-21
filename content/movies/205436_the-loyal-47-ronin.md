@@ -1,0 +1,1 @@
+{"tmdb_id": 205436, "title": "The Loyal 47 Ronin", "original_title": "Ch\u00fbshingura", "slug_title": "the-loyal-47-ronin", "date": "1913-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matsunosuke Onoe ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 231960, "title": "President Reviewing School Children", "original_title": "President Reviewing School Children", "slug_title": "president-reviewing-school-children", "date": "1903-06-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 203012, "title": "The Farm", "original_title": "The Farm", "slug_title": "the-farm", "date": "", "genre": "", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5wG4kqKrZMElNU5o4LgNoCRaHw.jpg", "actors": [], "comments": [], "recommandations_id": []}

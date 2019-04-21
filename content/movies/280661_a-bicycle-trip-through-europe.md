@@ -1,0 +1,1 @@
+{"tmdb_id": 280661, "title": "A Bicycle Trip Through Europe", "original_title": "A Bicycle Trip Through Europe", "slug_title": "a-bicycle-trip-through-europe", "date": "1890-01-01", "genre": "", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

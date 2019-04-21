@@ -1,0 +1,1 @@
+{"tmdb_id": 307547, "title": "Manushulatho Jagratha", "original_title": "Manushulatho Jagratha", "slug_title": "manushulatho-jagratha", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

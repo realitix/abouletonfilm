@@ -1,0 +1,1 @@
+{"tmdb_id": 293556, "title": "Giselle SPBT", "original_title": "Giselle SPBT", "slug_title": "giselle-spbt", "date": "2006-01-01", "genre": "Familial / Musique", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lEBQGnw5TJueFBPDa5xkZGcqQf.jpg", "actors": ["Irina Kolesnikova (Giselle)"], "comments": [], "recommandations_id": []}

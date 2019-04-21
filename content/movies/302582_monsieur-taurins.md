@@ -1,0 +1,1 @@
+{"tmdb_id": 302582, "title": "Monsieur Taurins", "original_title": "Monsieur Taurins", "slug_title": "monsieur-taurins", "date": "2011-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJxSZP8nVLjrNslzEGCuz5sQV2o.jpg", "actors": [], "comments": [], "recommandations_id": []}

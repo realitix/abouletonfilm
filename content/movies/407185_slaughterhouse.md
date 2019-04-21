@@ -1,0 +1,1 @@
+{"tmdb_id": 407185, "title": "Slaughterhouse", "original_title": "Camal", "slug_title": "slaughterhouse", "date": "2001-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

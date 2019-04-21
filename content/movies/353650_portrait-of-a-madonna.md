@@ -1,0 +1,1 @@
+{"tmdb_id": 353650, "title": "Portrait of a Madonna", "original_title": "Portrait of a Madonna", "slug_title": "portrait-of-a-madonna", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

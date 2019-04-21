@@ -1,0 +1,1 @@
+{"tmdb_id": 468976, "title": "Prejudice", "original_title": "Prejudice", "slug_title": "prejudice", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grace Parr ()", "Patsy Stephen ()"], "comments": [], "recommandations_id": []}

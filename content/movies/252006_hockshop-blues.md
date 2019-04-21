@@ -1,0 +1,1 @@
+{"tmdb_id": 252006, "title": "Hockshop Blues", "original_title": "Hockshop Blues", "slug_title": "hockshop-blues", "date": "1937-01-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Bruce ()", "Carolyn Marsh ()", "Ver'dyn Stapleton ()", "Wally Stapleton ()"], "comments": [], "recommandations_id": []}

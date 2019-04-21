@@ -1,0 +1,1 @@
+{"tmdb_id": 533913, "title": "Bertha and Charlie", "original_title": "Bertha and Charlie", "slug_title": "bertha-and-charlie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["kirsten szalkowski (bertha)", "Kaitlyn szalkowski (Charlie)"], "comments": [], "recommandations_id": []}

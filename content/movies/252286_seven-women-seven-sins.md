@@ -1,0 +1,1 @@
+{"tmdb_id": 252286, "title": "Seven Women, Seven Sins", "original_title": "Seven Women, Seven Sins", "slug_title": "seven-women-seven-sins", "date": "1986-04-19", "genre": "Drame", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A23zrOytOJyiCOcSFlLaUikbwJo.jpg", "actors": [], "comments": [], "recommandations_id": []}

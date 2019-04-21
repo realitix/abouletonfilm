@@ -1,0 +1,1 @@
+{"tmdb_id": 515922, "title": "Gold Is All There Is", "original_title": "Tutto l\u2019oro che c\u2019\u00e8", "slug_title": "gold-is-all-there-is", "date": "2018-05-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

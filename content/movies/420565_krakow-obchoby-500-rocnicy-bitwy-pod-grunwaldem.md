@@ -1,0 +1,1 @@
+{"tmdb_id": 420565, "title": "Krak\u00f3w - Obchoby 500. rocnicy bitwy pod Grunwaldem", "original_title": "Krak\u00f3w - Obchoby 500. rocnicy bitwy pod Grunwaldem", "slug_title": "krakow-obchoby-500-rocnicy-bitwy-pod-grunwaldem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

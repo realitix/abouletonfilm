@@ -1,0 +1,1 @@
+{"tmdb_id": 549349, "title": "M\u00e9decins aux pieds nus", "original_title": "M\u00e9decins aux pieds nus", "slug_title": "medecins-aux-pieds-nus", "date": "1975-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

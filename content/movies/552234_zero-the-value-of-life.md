@@ -1,0 +1,1 @@
+{"tmdb_id": 552234, "title": "Zero : The Value of Life", "original_title": "Zero : The Value of Life", "slug_title": "zero-the-value-of-life", "date": "2016-12-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523178, "title": "The Adjective Woman", "original_title": "L'aggettivo donna", "slug_title": "the-adjective-woman", "date": "1971-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

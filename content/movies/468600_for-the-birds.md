@@ -1,0 +1,1 @@
+{"tmdb_id": 468600, "title": "For the Birds", "original_title": "For the Birds", "slug_title": "for-the-birds", "date": "2000-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

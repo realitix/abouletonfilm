@@ -1,0 +1,1 @@
+{"tmdb_id": 490920, "title": "The Royal Tour of Queen Elizabeth and Philip", "original_title": "The Royal Tour of Queen Elizabeth and Philip", "slug_title": "the-royal-tour-of-queen-elizabeth-and-philip", "date": "1954-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

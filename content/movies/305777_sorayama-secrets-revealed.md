@@ -1,0 +1,1 @@
+{"tmdb_id": 305777, "title": "Sorayama - Secrets Revealed", "original_title": "Sorayama - Secrets Revealed", "slug_title": "sorayama-secrets-revealed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69Gs0N9MF3TUsi2XF8F8Sm9npcC.jpg", "actors": [], "comments": [], "recommandations_id": []}

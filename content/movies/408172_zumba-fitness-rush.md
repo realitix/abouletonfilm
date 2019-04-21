@@ -1,0 +1,1 @@
+{"tmdb_id": 408172, "title": "Zumba Fitness: Rush", "original_title": "Zumba Fitness: Rush", "slug_title": "zumba-fitness-rush", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIaoVI7RKV8TrFPckcZDTgeAVxn.jpg", "actors": ["Kass Martin ()", "Loretta Bates ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394129, "title": "Picasso: The Man and His Work Part 1 (1881-1937)", "original_title": "Picasso: The Man and His Work Part 1 (1881-1937)", "slug_title": "picasso-the-man-and-his-work-part-1-1881-1937", "date": "1976-04-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

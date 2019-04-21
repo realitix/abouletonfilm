@@ -1,0 +1,1 @@
+{"tmdb_id": 546586, "title": "Loose Cannons:  The Movie", "original_title": "Loose Cannons:  The Movie", "slug_title": "loose-cannons-the-movie", "date": "2008-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

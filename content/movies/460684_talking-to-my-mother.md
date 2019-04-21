@@ -1,0 +1,1 @@
+{"tmdb_id": 460684, "title": "Talking To My Mother", "original_title": "Talking To My Mother", "slug_title": "talking-to-my-mother", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

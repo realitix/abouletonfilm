@@ -1,0 +1,1 @@
+{"tmdb_id": 442976, "title": "Drawing Account", "original_title": "Drawing Account", "slug_title": "drawing-account", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Davis (Reynolds (Engineer))", "Robert Allen (Allen (Animation Director))", "Ross Hertz (Animator)"], "comments": [], "recommandations_id": []}

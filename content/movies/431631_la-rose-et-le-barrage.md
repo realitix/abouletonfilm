@@ -1,0 +1,1 @@
+{"tmdb_id": 431631, "title": "La Rose et le Barrage", "original_title": "La Rose et le Barrage", "slug_title": "la-rose-et-le-barrage", "date": "1963-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGQm5kNJoykLmYIByX1n9qi6rpI.jpg", "actors": [], "comments": [], "recommandations_id": []}

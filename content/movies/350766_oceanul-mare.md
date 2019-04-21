@@ -1,0 +1,1 @@
+{"tmdb_id": 350766, "title": "Oceanul Mare", "original_title": "Oceanul Mare", "slug_title": "oceanul-mare", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

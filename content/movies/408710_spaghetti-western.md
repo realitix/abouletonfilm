@@ -1,0 +1,1 @@
+{"tmdb_id": 408710, "title": "Spaghetti Western", "original_title": "Spaghetti Western", "slug_title": "spaghetti-western", "date": "2007-12-19", "genre": "Western", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bOjBszlVKzp3yhtRrjGA4ASVqGI.jpg", "actors": [], "comments": [], "recommandations_id": []}

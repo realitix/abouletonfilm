@@ -1,0 +1,1 @@
+{"tmdb_id": 580007, "title": "One and a Half Prince", "original_title": "Un print si jumatate", "slug_title": "one-and-a-half-prince", "date": "2018-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

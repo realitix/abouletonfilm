@@ -1,0 +1,1 @@
+{"tmdb_id": 368826, "title": "Pasolini l'enrage", "original_title": "Pasolini l'enrage", "slug_title": "pasolini-l-enrage", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

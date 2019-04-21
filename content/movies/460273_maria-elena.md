@@ -1,0 +1,1 @@
+{"tmdb_id": 460273, "title": "Maria Elena", "original_title": "Maria Elena", "slug_title": "maria-elena", "date": "1936-10-05", "genre": "Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g96pAs87h3jExnJvCx5eJOklz4B.jpg", "actors": ["Raphael J. Sevilla ()"], "comments": [], "recommandations_id": []}

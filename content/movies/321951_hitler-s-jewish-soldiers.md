@@ -1,0 +1,1 @@
+{"tmdb_id": 321951, "title": "Hitler's Jewish Soldiers", "original_title": "Hitler's Jewish Soldiers", "slug_title": "hitler-s-jewish-soldiers", "date": "2007-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

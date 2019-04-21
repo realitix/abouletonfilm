@@ -1,0 +1,1 @@
+{"tmdb_id": 369565, "title": "The Country of St. Patrick", "original_title": "Zem\u011b svat\u00e9ho Patrika", "slug_title": "the-country-of-st-patrick", "date": "1967-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3cO9vaeEEOSLzbTyvj64dInZGv.jpg", "actors": [], "comments": [], "recommandations_id": []}

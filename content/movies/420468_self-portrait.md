@@ -1,0 +1,1 @@
+{"tmdb_id": 420468, "title": "Self-Portrait", "original_title": "Self-Portrait", "slug_title": "self-portrait", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypBGWHDZpzUrVuI6PslmtWxwMmL.jpg", "actors": ["Jonas Mekas (Himself)"], "comments": [], "recommandations_id": []}

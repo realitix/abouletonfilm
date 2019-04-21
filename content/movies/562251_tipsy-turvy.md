@@ -1,0 +1,1 @@
+{"tmdb_id": 562251, "title": "Tipsy Turvy", "original_title": "Tipsy Turvy", "slug_title": "tipsy-turvy", "date": "1989-11-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379243, "title": "Cat and the Pinkstalk", "original_title": "Cat and the Pinkstalk", "slug_title": "cat-and-the-pinkstalk", "date": "1978-11-18", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgNi5lOph9hx98IGAFJ54pg2h7B.jpg", "actors": [], "comments": [], "recommandations_id": []}

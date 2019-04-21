@@ -1,0 +1,1 @@
+{"tmdb_id": 309449, "title": "The History of the Machine Gun", "original_title": "The History of the Machine Gun", "slug_title": "the-history-of-the-machine-gun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

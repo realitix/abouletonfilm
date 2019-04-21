@@ -1,0 +1,1 @@
+{"tmdb_id": 294501, "title": "Intifada NYC", "original_title": "Intifada NYC", "slug_title": "intifada-nyc", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

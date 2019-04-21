@@ -1,0 +1,1 @@
+{"tmdb_id": 420676, "title": "The Enclave", "original_title": "The Enclave", "slug_title": "the-enclave", "date": "2013-06-11", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJMBa2XHuvEhqVz5Qen6FmmYJqp.jpg", "actors": [], "comments": [], "recommandations_id": []}

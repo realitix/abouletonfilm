@@ -1,0 +1,1 @@
+{"tmdb_id": 146540, "title": "Made in L.A.", "original_title": "Made in L.A.", "slug_title": "made-in-l-a", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t7cINp4WxhIAYM2Axvrb4bSGSS8.jpg", "actors": [], "comments": [], "recommandations_id": []}

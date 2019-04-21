@@ -1,0 +1,1 @@
+{"tmdb_id": 338584, "title": "Paper Tiger", "original_title": "Paper Tiger", "slug_title": "paper-tiger", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

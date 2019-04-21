@@ -1,0 +1,1 @@
+{"tmdb_id": 447937, "title": "Elalini (Place of Rest)", "original_title": "Elalini (Place of Rest)", "slug_title": "elalini-place-of-rest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swNByxIc13IqV91d0fOmiKPuyfY.jpg", "actors": [], "comments": [], "recommandations_id": []}

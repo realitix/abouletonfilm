@@ -1,0 +1,1 @@
+{"tmdb_id": 297811, "title": "Hong Kong X File", "original_title": "Gwai gwat cheung", "slug_title": "hong-kong-x-file", "date": "1998-11-19", "genre": "Fantastique / Horreur / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/FPhAXuLSWQIE5EHEukinrEoySO.jpg", "actors": [], "comments": [], "recommandations_id": []}

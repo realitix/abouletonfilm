@@ -1,0 +1,1 @@
+{"tmdb_id": 495983, "title": "Flannel", "original_title": "Pranela", "slug_title": "flannel", "date": "", "genre": "Crime / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janella Sharie (The lead girl)"], "comments": [], "recommandations_id": []}

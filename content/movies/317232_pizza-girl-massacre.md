@@ -1,0 +1,1 @@
+{"tmdb_id": 317232, "title": "Pizza Girl Massacre", "original_title": "Pizza Girl Massacre", "slug_title": "pizza-girl-massacre", "date": "2014-10-27", "genre": "Horreur / Com\u00e9die", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qPvtqV3LQPZi9HE9EyjGSOlKLt4.jpg", "actors": [], "comments": [], "recommandations_id": []}

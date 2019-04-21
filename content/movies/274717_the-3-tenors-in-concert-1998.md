@@ -1,0 +1,1 @@
+{"tmdb_id": 274717, "title": "The 3 Tenors in Concert: 1998", "original_title": "The 3 Tenors in Concert: 1998", "slug_title": "the-3-tenors-in-concert-1998", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

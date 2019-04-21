@@ -1,0 +1,1 @@
+{"tmdb_id": 402985, "title": "Ghost: [2016] Hellfest", "original_title": "Ghost: [2016] Hellfest", "slug_title": "ghost-2016-hellfest", "date": "2016-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfl9PLFOgiSg1oAM3HRhjBboIux.jpg", "actors": [], "comments": [], "recommandations_id": []}

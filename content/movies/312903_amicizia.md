@@ -1,0 +1,1 @@
+{"tmdb_id": 312903, "title": "Amicizia", "original_title": "Amicizia", "slug_title": "amicizia", "date": "1952-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

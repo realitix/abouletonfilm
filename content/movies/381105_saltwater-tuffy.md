@@ -1,0 +1,1 @@
+{"tmdb_id": 381105, "title": "Saltwater Tuffy", "original_title": "Saltwater Tuffy", "slug_title": "saltwater-tuffy", "date": "1975-03-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather / Pugg (voice))", "Daws Butler (Louie / Lucky McGraw (voice))"], "comments": [], "recommandations_id": []}

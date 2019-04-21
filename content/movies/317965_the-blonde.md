@@ -1,0 +1,1 @@
+{"tmdb_id": 317965, "title": "The Blonde", "original_title": "La Bionda", "slug_title": "the-blonde", "date": "1993-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95ZDi8xnG7lApf88TL35GvGyq9k.jpg", "actors": ["Nastassja Kinski (Christine)", "Sergio Rubini (Tommaso)"], "comments": [], "recommandations_id": []}

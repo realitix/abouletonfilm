@@ -1,0 +1,1 @@
+{"tmdb_id": 268991, "title": "Hijacking the Holy Land", "original_title": "Hijacking the Holy Land", "slug_title": "hijacking-the-holy-land", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

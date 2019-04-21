@@ -1,0 +1,1 @@
+{"tmdb_id": 51132, "title": "The Hemp Revolution", "original_title": "The Hemp Revolution", "slug_title": "the-hemp-revolution", "date": "1995-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HO1EKJ6qcrARoXIIjkAIkaLfhX.jpg", "actors": [], "comments": [], "recommandations_id": []}

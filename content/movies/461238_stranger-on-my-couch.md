@@ -1,0 +1,1 @@
+{"tmdb_id": 461238, "title": "Stranger on My Couch", "original_title": "Obcy na mojej kanapie", "slug_title": "stranger-on-my-couch", "date": "2017-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

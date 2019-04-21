@@ -1,0 +1,1 @@
+{"tmdb_id": 197227, "title": "The Contemplative Films of Oskar Fischinger", "original_title": "The Contemplative Films of Oskar Fischinger", "slug_title": "the-contemplative-films-of-oskar-fischinger", "date": "2004-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

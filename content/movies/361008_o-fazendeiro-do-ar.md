@@ -1,0 +1,1 @@
+{"tmdb_id": 361008, "title": "O Fazendeiro do Ar", "original_title": "O Fazendeiro do Ar", "slug_title": "o-fazendeiro-do-ar", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pcHLdbOVE1y5D02E7tOPSpyavYz.jpg", "actors": ["Carlos Drummond de Andrade (Himself)"], "comments": [], "recommandations_id": []}

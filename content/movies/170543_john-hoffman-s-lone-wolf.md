@@ -1,0 +1,1 @@
+{"tmdb_id": 170543, "title": "John Hoffman's Lone Wolf", "original_title": "John Hoffman's Lone Wolf", "slug_title": "john-hoffman-s-lone-wolf", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

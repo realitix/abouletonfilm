@@ -1,0 +1,1 @@
+{"tmdb_id": 392597, "title": "Do\u00f1a Julia", "original_title": "Do\u00f1a Julia", "slug_title": "dona-julia", "date": "1959-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gemwjtSnKIvvqdtpfzTz4SM9O4e.jpg", "actors": ["Lucy Boscana (Do\u00f1a Julia)"], "comments": [], "recommandations_id": []}

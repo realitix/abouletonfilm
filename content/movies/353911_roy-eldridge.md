@@ -1,0 +1,1 @@
+{"tmdb_id": 353911, "title": "Roy Eldridge", "original_title": "Roy Eldridge", "slug_title": "roy-eldridge", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n68H8lErBQaKVFV5nQ8QLbzL3Ct.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 370008, "title": "Batangueno Kabitenyo", "original_title": "Batangueno Kabitenyo", "slug_title": "batangueno-kabitenyo", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leo Martinez ()", "Anjanette Abayari ()", "Roldan Aquino ()"], "comments": [], "recommandations_id": []}

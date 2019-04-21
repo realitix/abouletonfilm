@@ -1,0 +1,1 @@
+{"tmdb_id": 478602, "title": "Calipatria", "original_title": "Calipatria", "slug_title": "calipatria", "date": "2017-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

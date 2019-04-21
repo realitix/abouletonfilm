@@ -1,0 +1,1 @@
+{"tmdb_id": 518739, "title": "Beta Persei", "original_title": "Beta Persei", "slug_title": "beta-persei", "date": "2015-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

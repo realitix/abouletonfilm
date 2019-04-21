@@ -1,0 +1,1 @@
+{"tmdb_id": 511429, "title": "Seurat: The Realm of Light", "original_title": "L'empire des lumi\u00e8res", "slug_title": "seurat-the-realm-of-light", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

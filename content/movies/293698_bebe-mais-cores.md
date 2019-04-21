@@ -1,0 +1,1 @@
+{"tmdb_id": 293698, "title": "Beb\u00ea Mais - Cores", "original_title": "Beb\u00ea Mais - Cores", "slug_title": "bebe-mais-cores", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l6IubYP55H4vR8VPKq5i82Z9ALX.jpg", "actors": [], "comments": [], "recommandations_id": []}

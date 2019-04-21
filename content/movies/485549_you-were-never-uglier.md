@@ -1,0 +1,1 @@
+{"tmdb_id": 485549, "title": "You Were Never Uglier", "original_title": "You Were Never Uglier", "slug_title": "you-were-never-uglier", "date": "1944-06-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

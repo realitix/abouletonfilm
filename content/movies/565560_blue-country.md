@@ -1,0 +1,1 @@
+{"tmdb_id": 565560, "title": "Blue Country", "original_title": "Le pays bleu", "slug_title": "blue-country", "date": "1977-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XAInTZT1VweiiulOzFABMvhK4g.jpg", "actors": ["Brigitte Fossey (Louise Morand)"], "comments": [], "recommandations_id": []}

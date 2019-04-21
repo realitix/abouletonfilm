@@ -1,0 +1,1 @@
+{"tmdb_id": 564324, "title": "Il ragazzo che sapeva amare", "original_title": "Il ragazzo che sapeva amare", "slug_title": "il-ragazzo-che-sapeva-amare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

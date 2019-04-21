@@ -1,0 +1,1 @@
+{"tmdb_id": 479852, "title": "Disintegration 93-96", "original_title": "Disintegration 93-96", "slug_title": "disintegration-93-96", "date": "2017-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhULgqr8T4tx57MrF2n5dxtQfZG.jpg", "actors": [], "comments": [], "recommandations_id": []}

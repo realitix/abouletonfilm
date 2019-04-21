@@ -1,0 +1,1 @@
+{"tmdb_id": 226332, "title": "Alfred & Anna", "original_title": "Alfred & Anna", "slug_title": "alfred-anna", "date": "2012-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nVr5uiLnzLEm21SFUImBXVKSRF.jpg", "actors": ["Andreu Buenafuente ()", "Pastora Soler ()"], "comments": [], "recommandations_id": []}

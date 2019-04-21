@@ -1,0 +1,1 @@
+{"tmdb_id": 350457, "title": "\ucc3d\ubd80\uc77c\uc0c9", "original_title": "\ucc3d\ubd80\uc77c\uc0c9", "slug_title": "cangbuilsaeg", "date": "1990-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

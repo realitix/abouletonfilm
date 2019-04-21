@@ -1,0 +1,1 @@
+{"tmdb_id": 145858, "title": "INIMIGOS DA HP 2006 - AO VIVO", "original_title": "INIMIGOS DA HP 2006 - AO VIVO", "slug_title": "inimigos-da-hp-2006-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6Yl50JnWxxpTBCHWuvOrF8VuVG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580404, "title": "Camp: The Movie", "original_title": "Camp: The Movie", "slug_title": "camp-the-movie", "date": "2002-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmVy65FdoId1GOwBVZoyUtNcQ4V.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422095, "title": "Abstract film en couleurs", "original_title": "Abstract film en couleurs", "slug_title": "abstract-film-en-couleurs", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnJzcUUp5dTMQpOAtawwGmkqy48.jpg", "actors": [], "comments": [], "recommandations_id": []}

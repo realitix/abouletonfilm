@@ -1,0 +1,1 @@
+{"tmdb_id": 243630, "title": "Speed Boys", "original_title": "Speed Boys", "slug_title": "speed-boys", "date": "1924-11-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Spec O'Donnell (Spec)", "Josephine Adair (Maizie)"], "comments": [], "recommandations_id": []}

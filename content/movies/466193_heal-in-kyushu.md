@@ -1,0 +1,1 @@
+{"tmdb_id": 466193, "title": "Heal in Kyushu", "original_title": "Heal in Kyushu", "slug_title": "heal-in-kyushu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yAcigzRAN6VJxU3dXWquBS2y8Gk.jpg", "actors": [], "comments": [], "recommandations_id": []}

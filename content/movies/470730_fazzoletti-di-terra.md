@@ -1,0 +1,1 @@
+{"tmdb_id": 470730, "title": "Fazzoletti di terra", "original_title": "Fazzoletti di terra", "slug_title": "fazzoletti-di-terra", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2JT8Ucu41unLEwhFbP22KtxWwd.jpg", "actors": [], "comments": [], "recommandations_id": []}

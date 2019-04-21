@@ -1,0 +1,1 @@
+{"tmdb_id": 204024, "title": "Small Fry", "original_title": "Small Fry", "slug_title": "small-fry", "date": "1939-04-21", "genre": "Animation / Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bImvG4iWMddaAGX7dSpSCgdKFMd.jpg", "actors": [], "comments": [], "recommandations_id": []}

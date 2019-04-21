@@ -1,0 +1,1 @@
+{"tmdb_id": 177248, "title": "The Wild Dogs", "original_title": "The Wild Dogs", "slug_title": "the-wild-dogs", "date": "2002-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ldNIoR1Cr2dhyXfrnqM1rbm2JBV.jpg", "actors": [], "comments": [], "recommandations_id": []}

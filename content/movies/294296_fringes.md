@@ -1,0 +1,1 @@
+{"tmdb_id": 294296, "title": "Fringes", "original_title": "Fringes", "slug_title": "fringes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393810, "title": "A Ribbon on the Land (on She Wore a Yellow Ribbon)", "original_title": "A Ribbon on the Land (on She Wore a Yellow Ribbon)", "slug_title": "a-ribbon-on-the-land-on-she-wore-a-yellow-ribbon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

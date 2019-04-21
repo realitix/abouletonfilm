@@ -1,0 +1,1 @@
+{"tmdb_id": 307403, "title": "Chandirani", "original_title": "Chandirani", "slug_title": "chandirani", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

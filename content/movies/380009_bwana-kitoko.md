@@ -1,0 +1,1 @@
+{"tmdb_id": 380009, "title": "Bwana Kitoko", "original_title": "Bwana Kitoko", "slug_title": "bwana-kitoko", "date": "1955-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

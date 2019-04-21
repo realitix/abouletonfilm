@@ -1,0 +1,1 @@
+{"tmdb_id": 549314, "title": "Mike Ward: Infamous", "original_title": "Mike Ward: Infamous", "slug_title": "mike-ward-infamous", "date": "2018-09-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rRsBuAxyXzhX8ZnPDzNQdKAr05U.jpg", "actors": ["Mike Ward ()"], "comments": [], "recommandations_id": []}

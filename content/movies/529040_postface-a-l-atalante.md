@@ -1,0 +1,1 @@
+{"tmdb_id": 529040, "title": "Postface \u00e0 l'Atalante", "original_title": "Postface \u00e0 l'Atalante", "slug_title": "postface-a-l-atalante", "date": "1968-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fran\u00e7ois Truffaut (Himself)", "\u00c9ric Rohmer (Himself)"], "comments": [], "recommandations_id": []}

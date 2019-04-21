@@ -1,0 +1,1 @@
+{"tmdb_id": 523208, "title": "In the Land of Wolves", "original_title": "In the Land of Wolves", "slug_title": "in-the-land-of-wolves", "date": "2018-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

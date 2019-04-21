@@ -1,0 +1,1 @@
+{"tmdb_id": 451206, "title": "The Farmer's Wife", "original_title": "The Farmer's Wife", "slug_title": "the-farmer-s-wife", "date": "1998-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQPO5lEnOBQ4doqItiBHz6Y9b1b.jpg", "actors": [], "comments": [], "recommandations_id": []}

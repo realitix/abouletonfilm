@@ -1,0 +1,1 @@
+{"tmdb_id": 184483, "title": "Highjacker", "original_title": "Highjacker", "slug_title": "highjacker", "date": "1995-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6nkGvezXCzmnhchAhuHv2RZADUs.jpg", "actors": ["Rick Shapiro ()", "Todd Barry ()"], "comments": [], "recommandations_id": []}

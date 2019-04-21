@@ -1,0 +1,1 @@
+{"tmdb_id": 343500, "title": "Volchonok sredi lyudey", "original_title": "Volchonok sredi lyudey", "slug_title": "volchonok-sredi-lyudey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

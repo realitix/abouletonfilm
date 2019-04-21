@@ -1,0 +1,1 @@
+{"tmdb_id": 105712, "title": "Zombienoid", "original_title": "Zombienoid", "slug_title": "zombienoid", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6d8KDKjFBf5L7YAPDsOm11LE95z.jpg", "actors": [], "comments": [], "recommandations_id": []}

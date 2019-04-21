@@ -1,0 +1,1 @@
+{"tmdb_id": 582183, "title": "Six Days to Saturday", "original_title": "Six Days to Saturday", "slug_title": "six-days-to-saturday", "date": "1963-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

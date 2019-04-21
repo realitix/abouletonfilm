@@ -1,0 +1,1 @@
+{"tmdb_id": 333702, "title": "Shalom, Prayer for the Road", "original_title": "Shalom, Tefilat Haderech", "slug_title": "shalom-prayer-for-the-road", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafi Adar ()", "Nissim Azikri ()", "Avraham Ben-Yosef ()"], "comments": [], "recommandations_id": []}

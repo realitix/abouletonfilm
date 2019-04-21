@@ -1,0 +1,1 @@
+{"tmdb_id": 523063, "title": "Terras Brasileiras", "original_title": "Terras Brasileiras", "slug_title": "terras-brasileiras", "date": "2017-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLWQM7v6H5IXkLtehxwoDgQZdFH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480613, "title": "Michel'le: Still Standing", "original_title": "Michel'le: Still Standing", "slug_title": "michel-le-still-standing", "date": "2017-10-20", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wendy Williams ()", "Michel'le ()"], "comments": [], "recommandations_id": []}

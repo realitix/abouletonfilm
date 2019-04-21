@@ -1,0 +1,1 @@
+{"tmdb_id": 483792, "title": "Milk in the Land: Ballad of an American Drink", "original_title": "Milk in the Land: Ballad of an American Drink", "slug_title": "milk-in-the-land-ballad-of-an-american-drink", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

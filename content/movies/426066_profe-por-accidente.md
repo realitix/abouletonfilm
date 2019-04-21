@@ -1,0 +1,1 @@
+{"tmdb_id": 426066, "title": "Profe por Accidente", "original_title": "Profe por Accidente", "slug_title": "profe-por-accidente", "date": "2013-01-17", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJtUqolPkpwvzjrX0ZCLEmyS8Kr.jpg", "actors": [], "comments": [], "recommandations_id": []}

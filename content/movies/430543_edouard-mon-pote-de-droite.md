@@ -1,0 +1,1 @@
+{"tmdb_id": 430543, "title": "Edouard, mon pote de droite", "original_title": "Edouard, mon pote de droite", "slug_title": "edouard-mon-pote-de-droite", "date": "", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZiDN6lcJjjHVeqtSLtvsptAfMx.jpg", "actors": [], "comments": [], "recommandations_id": []}

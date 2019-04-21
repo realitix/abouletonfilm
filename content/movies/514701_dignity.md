@@ -1,0 +1,1 @@
+{"tmdb_id": 514701, "title": "Dignity", "original_title": "Dignity", "slug_title": "dignity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

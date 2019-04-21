@@ -1,0 +1,1 @@
+{"tmdb_id": 492399, "title": "C\u00fan Con \u0110i H\u1ecdc", "original_title": "C\u00fan Con \u0110i H\u1ecdc", "slug_title": "cun-con-di-hoc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpnxp9wJDOMkS4eXNhpM1ttqHOg.jpg", "actors": [], "comments": [], "recommandations_id": []}

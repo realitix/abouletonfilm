@@ -1,0 +1,1 @@
+{"tmdb_id": 291661, "title": "The Photographer: Inside the Mind of a Psycho", "original_title": "The Photographer: Inside the Mind of a Psycho", "slug_title": "the-photographer-inside-the-mind-of-a-psycho", "date": "2011-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

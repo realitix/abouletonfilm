@@ -1,0 +1,1 @@
+{"tmdb_id": 287851, "title": "Night Club on Fire", "original_title": "Night Club on Fire", "slug_title": "night-club-on-fire", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

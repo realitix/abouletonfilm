@@ -1,0 +1,1 @@
+{"tmdb_id": 407481, "title": "Tenants", "original_title": "Lokatorki", "slug_title": "tenants", "date": "2015-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12OQOke5f45azcYckUkE6WFH8UR.jpg", "actors": ["Beata Fudalej (Jola)", "Julia Kijowska (Justyna)"], "comments": [], "recommandations_id": []}

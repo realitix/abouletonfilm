@@ -1,0 +1,1 @@
+{"tmdb_id": 313140, "title": "Monteverdi: Banquet of the Senses", "original_title": "Monteverdi: Banquet of the Senses", "slug_title": "monteverdi-banquet-of-the-senses", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

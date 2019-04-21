@@ -1,0 +1,1 @@
+{"tmdb_id": 130515, "title": "The Girls in the Band", "original_title": "The Girls in the Band", "slug_title": "the-girls-in-the-band", "date": "2013-05-10", "genre": "Documentaire / Histoire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqUiQUJtRCklPhsiX26klKgFELQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

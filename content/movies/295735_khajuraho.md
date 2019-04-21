@@ -1,0 +1,1 @@
+{"tmdb_id": 295735, "title": "Khajuraho", "original_title": "Khajuraho", "slug_title": "khajuraho", "date": "2002-01-11", "genre": "Histoire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dAimtt1Nu2Y0ZlCs1njRLIVMiJe.jpg", "actors": ["Mamta Kulkarni ()", "Mink Brar ()", "Sadhika ()"], "comments": [], "recommandations_id": []}

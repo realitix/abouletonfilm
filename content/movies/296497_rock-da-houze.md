@@ -1,0 +1,1 @@
+{"tmdb_id": 296497, "title": "ROCK DA HOUZE", "original_title": "ROCK DA HOUZE", "slug_title": "rock-da-houze", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

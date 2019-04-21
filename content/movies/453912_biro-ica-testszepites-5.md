@@ -1,0 +1,1 @@
+{"tmdb_id": 453912, "title": "B\u00edr\u00f3 Ica - Testsz\u00e9p\u00edt\u00e9s 5", "original_title": "B\u00edr\u00f3 Ica - Testsz\u00e9p\u00edt\u00e9s 5", "slug_title": "biro-ica-testszepites-5", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ica B\u00edr\u00f3 ()"], "comments": [], "recommandations_id": []}

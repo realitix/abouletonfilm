@@ -1,0 +1,1 @@
+{"tmdb_id": 555063, "title": "Un jour \u00e0 Marseille", "original_title": "Un jour \u00e0 Marseille", "slug_title": "un-jour-a-marseille", "date": "2006-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

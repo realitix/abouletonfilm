@@ -1,0 +1,1 @@
+{"tmdb_id": 298840, "title": "Big Losers", "original_title": "Big Losers", "slug_title": "big-losers", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

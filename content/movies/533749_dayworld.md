@@ -1,0 +1,1 @@
+{"tmdb_id": 533749, "title": "Dayworld", "original_title": "Dayworld", "slug_title": "dayworld", "date": "2018-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

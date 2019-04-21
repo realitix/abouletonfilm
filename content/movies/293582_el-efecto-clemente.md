@@ -1,0 +1,1 @@
+{"tmdb_id": 293582, "title": "El Efecto Clemente", "original_title": "El Efecto Clemente", "slug_title": "el-efecto-clemente", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5c6k2ATJuUhYQ9sN3YAKv1HdPlv.jpg", "actors": [], "comments": [], "recommandations_id": []}

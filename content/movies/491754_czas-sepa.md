@@ -1,0 +1,1 @@
+{"tmdb_id": 491754, "title": "Czas s\u0119pa", "original_title": "Czas s\u0119pa", "slug_title": "czas-sepa", "date": "1987-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/entFtaB5n3GUtKuJ9YZhELCV67A.jpg", "actors": [], "comments": [], "recommandations_id": []}

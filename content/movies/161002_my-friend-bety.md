@@ -1,0 +1,1 @@
+{"tmdb_id": 161002, "title": "My Friend Bety", "original_title": "Mi amiga Bety", "slug_title": "my-friend-bety", "date": "2012-11-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6EhvfnLrk5fGUraLUOTZRedWRd.jpg", "actors": [], "comments": [], "recommandations_id": []}

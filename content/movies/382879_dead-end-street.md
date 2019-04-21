@@ -1,0 +1,1 @@
+{"tmdb_id": 382879, "title": "Dead End Street", "original_title": "Kvish L'Lo Motzah", "slug_title": "dead-end-street", "date": "1982-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wUq0ljrC1ZIAXCvdf7v66iit1di.jpg", "actors": [], "comments": [], "recommandations_id": []}

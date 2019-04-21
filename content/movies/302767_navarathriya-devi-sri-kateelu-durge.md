@@ -1,0 +1,1 @@
+{"tmdb_id": 302767, "title": "Navarathriya Devi Sri Kateelu Durge", "original_title": "Navarathriya Devi Sri Kateelu Durge", "slug_title": "navarathriya-devi-sri-kateelu-durge", "date": "2001-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

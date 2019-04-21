@@ -1,0 +1,1 @@
+{"tmdb_id": 199182, "title": "Les chardons du Baragan", "original_title": "Ciulinii B\u0103r\u0103ganului", "slug_title": "les-chardons-du-baragan", "date": "1958-05-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66YFk3dH1I10Xpz90rjBBhoq1Ab.jpg", "actors": [], "comments": [], "recommandations_id": []}

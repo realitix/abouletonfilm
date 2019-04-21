@@ -1,0 +1,1 @@
+{"tmdb_id": 514512, "title": "Chez le grand couturier", "original_title": "Chez le grand couturier", "slug_title": "chez-le-grand-couturier", "date": "1923-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

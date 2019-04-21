@@ -1,0 +1,1 @@
+{"tmdb_id": 513080, "title": "Cold Case JFK", "original_title": "Cold Case JFK", "slug_title": "cold-case-jfk", "date": "2013-11-13", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZEkYkuYR3kAerJOILT5vaFkJzk.jpg", "actors": ["Jay O. Sanders (Narrator)"], "comments": [], "recommandations_id": []}

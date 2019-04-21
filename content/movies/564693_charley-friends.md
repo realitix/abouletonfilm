@@ -1,0 +1,1 @@
+{"tmdb_id": 564693, "title": "Charley & Friends", "original_title": "Charley & Friends", "slug_title": "charley-friends", "date": "1972-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uN2FqzZu9mL8yKdJOBs5jNeUdyk.jpg", "actors": ["Charley Charmaign ()"], "comments": [], "recommandations_id": []}

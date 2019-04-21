@@ -1,0 +1,1 @@
+{"tmdb_id": 188218, "title": "Welcome to Durham, USA", "original_title": "Welcome to Durham, USA", "slug_title": "welcome-to-durham-usa", "date": "2007-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474426, "title": "Die Sonne sank, ich folge ihr", "original_title": "Die Sonne sank, ich folge ihr", "slug_title": "die-sonne-sank-ich-folge-ihr", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x05RdHznVJ2TMB2dhGeiiVlWcxO.jpg", "actors": [], "comments": [], "recommandations_id": []}

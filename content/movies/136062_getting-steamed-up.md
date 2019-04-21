@@ -1,0 +1,1 @@
+{"tmdb_id": 136062, "title": "Getting Steamed Up", "original_title": "Getting Steamed Up", "slug_title": "getting-steamed-up", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDoId26hlYtgVkoh97CM2YgOg2Z.jpg", "actors": ["Fred Dibnah (Himself)"], "comments": [], "recommandations_id": []}

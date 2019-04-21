@@ -1,0 +1,1 @@
+{"tmdb_id": 349930, "title": "\ub561\uce60\uc774\uc640 \uc30d\ub77c\uc774\ud2b8", "original_title": "\ub561\uce60\uc774\uc640 \uc30d\ub77c\uc774\ud2b8", "slug_title": "ddaengciliwa-ssangraiteu", "date": "1990-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

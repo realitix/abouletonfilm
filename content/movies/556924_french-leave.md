@@ -1,0 +1,1 @@
+{"tmdb_id": 556924, "title": "French Leave", "original_title": "Amour et discipline", "slug_title": "french-leave", "date": "1932-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 416267, "title": "Chiringa", "original_title": "Chiringa", "slug_title": "chiringa", "date": "2004-11-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Te\u00f3filo Torres (Pedro Albizu Campos)", "Il\u00e1n Unger ()", "Joshua Laureano ()", "Christian Mayorga ()"], "comments": [], "recommandations_id": []}

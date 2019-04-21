@@ -1,0 +1,1 @@
+{"tmdb_id": 509621, "title": "The Effects of Pills", "original_title": "Les effets des pilules de Max", "slug_title": "the-effects-of-pills", "date": "1910-07-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)"], "comments": [], "recommandations_id": []}

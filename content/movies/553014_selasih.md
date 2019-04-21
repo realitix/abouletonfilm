@@ -1,0 +1,1 @@
+{"tmdb_id": 553014, "title": "Selasih", "original_title": "Selasih", "slug_title": "selasih", "date": "2016-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgSkTXNFaUqSWYuTw5MzoalQUUY.jpg", "actors": [], "comments": [], "recommandations_id": []}

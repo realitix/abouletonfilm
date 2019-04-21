@@ -1,0 +1,1 @@
+{"tmdb_id": 412290, "title": "Rare Manson Family News Footage: Volume One", "original_title": "Rare Manson Family News Footage: Volume One", "slug_title": "rare-manson-family-news-footage-volume-one", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

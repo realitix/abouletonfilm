@@ -1,0 +1,1 @@
+{"tmdb_id": 37518, "title": "Star Wait", "original_title": "Star Wait", "slug_title": "star-wait", "date": "2005-11-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyzyCPT7sNSGBXon8Om2M6z44YQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273053, "title": "World Music Portrait: Cesaria Evora", "original_title": "World Music Portrait: Cesaria Evora", "slug_title": "world-music-portrait-cesaria-evora", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

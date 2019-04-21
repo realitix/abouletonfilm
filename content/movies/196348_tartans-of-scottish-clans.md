@@ -1,0 +1,1 @@
+{"tmdb_id": 196348, "title": "Tartans of Scottish Clans", "original_title": "Tartans of Scottish Clans", "slug_title": "tartans-of-scottish-clans", "date": "1906-05-23", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iEg7vGmitArYWfK4PZqGKt92jK7.jpg", "actors": [], "comments": [], "recommandations_id": []}

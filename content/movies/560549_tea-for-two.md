@@ -1,0 +1,1 @@
+{"tmdb_id": 560549, "title": "Tea For Two", "original_title": "Tea For Two", "slug_title": "tea-for-two", "date": "2018-10-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z23wLtT8R1EyDklodX54kduhpxL.jpg", "actors": ["Julia Katharine ()", "Gilda Nomacce ()"], "comments": [], "recommandations_id": []}

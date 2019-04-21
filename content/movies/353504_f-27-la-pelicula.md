@@ -1,0 +1,1 @@
+{"tmdb_id": 353504, "title": "F-27, la pel\u00edcula", "original_title": "F-27, la pel\u00edcula", "slug_title": "f-27-la-pelicula", "date": "2014-11-13", "genre": "Thriller / Drame", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0T137NE6inAwx1iphGxeNpol5A.jpg", "actors": [], "comments": [], "recommandations_id": []}

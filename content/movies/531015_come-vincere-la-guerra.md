@@ -1,0 +1,1 @@
+{"tmdb_id": 531015, "title": "Come vincere la guerra", "original_title": "Come vincere la guerra", "slug_title": "come-vincere-la-guerra", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

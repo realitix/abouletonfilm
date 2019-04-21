@@ -1,0 +1,1 @@
+{"tmdb_id": 506458, "title": "Terror da Vermelha", "original_title": "Terror da Vermelha", "slug_title": "terror-da-vermelha", "date": "1972-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nx0mJjcat3WePtMt8a5RM3FnK7K.jpg", "actors": ["Torquato Neto ()"], "comments": [], "recommandations_id": []}

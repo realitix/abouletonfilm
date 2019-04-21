@@ -1,0 +1,1 @@
+{"tmdb_id": 234518, "title": "The Slick Chick", "original_title": "The Slick Chick", "slug_title": "the-slick-chick", "date": "1962-07-20", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2O4Yr53smfpYU3l4jcLjCqMMgY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318427, "title": "Kaput & Zosky Face Dizzying Dilemmas", "original_title": "Kaput & Zosky Face Dizzying Dilemmas", "slug_title": "kaput-zosky-face-dizzying-dilemmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

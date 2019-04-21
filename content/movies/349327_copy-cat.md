@@ -1,0 +1,1 @@
+{"tmdb_id": 349327, "title": "Copy Cat", "original_title": "\ud45c\uc808", "slug_title": "copy-cat", "date": "1999-09-11", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNTd2Guvw8nhZXe2DRf4KatTDM9.jpg", "actors": ["Jang Dong-jik ()"], "comments": [], "recommandations_id": []}

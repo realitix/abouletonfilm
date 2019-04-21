@@ -1,0 +1,1 @@
+{"tmdb_id": 529919, "title": "The Erl-King", "original_title": "Der Erlk\u00f6nig", "slug_title": "the-erl-king", "date": "2003-04-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Paetsch (Narrator (voice))"], "comments": [], "recommandations_id": []}

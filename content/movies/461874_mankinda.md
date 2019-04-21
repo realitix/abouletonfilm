@@ -1,0 +1,1 @@
+{"tmdb_id": 461874, "title": "Mankinda", "original_title": "Mankinda", "slug_title": "mankinda", "date": "1957-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPcPkzOpV9zV3l8AC2txLGmKS9f.jpg", "actors": [], "comments": [], "recommandations_id": []}

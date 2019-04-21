@@ -1,0 +1,1 @@
+{"tmdb_id": 486925, "title": "A Study in Socks", "original_title": "A Study in Socks", "slug_title": "a-study-in-socks", "date": "1942-05-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Durand (Terry Kelly)"], "comments": [], "recommandations_id": []}

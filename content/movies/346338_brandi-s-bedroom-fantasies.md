@@ -1,0 +1,1 @@
+{"tmdb_id": 346338, "title": "Brandi's Bedroom Fantasies", "original_title": "Brandi's Bedroom Fantasies", "slug_title": "brandi-s-bedroom-fantasies", "date": "2006-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

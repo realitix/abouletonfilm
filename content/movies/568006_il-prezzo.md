@@ -1,0 +1,1 @@
+{"tmdb_id": 568006, "title": "Il prezzo", "original_title": "Il prezzo", "slug_title": "il-prezzo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvfumSwY3KWMMQ8uE7To48zbsMO.jpg", "actors": [], "comments": [], "recommandations_id": []}

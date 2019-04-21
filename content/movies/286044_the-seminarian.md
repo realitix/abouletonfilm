@@ -1,0 +1,1 @@
+{"tmdb_id": 286044, "title": "The Seminarian", "original_title": "Il Seminarista", "slug_title": "the-seminarian", "date": "2013-11-14", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eeTHtjKDF9MTkCHGKTuc35yMqHX.jpg", "actors": [], "comments": [], "recommandations_id": [117825]}

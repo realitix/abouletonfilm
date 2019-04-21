@@ -1,0 +1,1 @@
+{"tmdb_id": 413292, "title": "Sweet Girls", "original_title": "Sweet Girls", "slug_title": "sweet-girls", "date": "2015-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imKRxcD6uekxRU08zX7rh5ekjAF.jpg", "actors": ["Flore Babled (Elodie)", "Marie Petiot (Marie)"], "comments": [], "recommandations_id": []}

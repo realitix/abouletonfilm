@@ -1,0 +1,1 @@
+{"tmdb_id": 169351, "title": "The Jewish People: A Story of Survival", "original_title": "The Jewish People: A Story of Survival", "slug_title": "the-jewish-people-a-story-of-survival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

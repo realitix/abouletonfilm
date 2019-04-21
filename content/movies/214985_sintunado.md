@@ -1,0 +1,1 @@
+{"tmdb_id": 214985, "title": "Sintunado", "original_title": "Sintunado", "slug_title": "sintunado", "date": "2012-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDLY7ZKITiEozXCkwIzxqkJC0Tw.jpg", "actors": ["David Arancon (Greg)", "Mary Apple Kawakami ()"], "comments": [], "recommandations_id": []}

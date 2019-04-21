@@ -1,0 +1,1 @@
+{"tmdb_id": 323719, "title": "Regions of World Series: Sub-Sahara Africa", "original_title": "Regions of World Series: Sub-Sahara Africa", "slug_title": "regions-of-world-series-sub-sahara-africa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

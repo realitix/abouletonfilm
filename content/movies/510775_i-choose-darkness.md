@@ -1,0 +1,1 @@
+{"tmdb_id": 510775, "title": "I Choose Darkness", "original_title": "I Choose Darkness", "slug_title": "i-choose-darkness", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

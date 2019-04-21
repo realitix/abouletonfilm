@@ -1,0 +1,1 @@
+{"tmdb_id": 282125, "title": "Waiting for Commercials", "original_title": "Waiting for Commercials", "slug_title": "waiting-for-commercials", "date": "1966-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2YH6gNEhffhZIRx5OUKhqBn9nf9.jpg", "actors": [], "comments": [], "recommandations_id": []}

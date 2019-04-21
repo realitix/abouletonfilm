@@ -1,0 +1,1 @@
+{"tmdb_id": 591370, "title": "Heavy Pen", "original_title": "Pesada Pluma", "slug_title": "heavy-pen", "date": "2018-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

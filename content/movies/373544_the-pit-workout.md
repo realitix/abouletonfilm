@@ -1,0 +1,1 @@
+{"tmdb_id": 373544, "title": "The Pit Workout", "original_title": "The Pit Workout", "slug_title": "the-pit-workout", "date": "2006-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhMi957HBmfADSLvYmyatDNqVIX.jpg", "actors": ["John Hackleman (John Hackleman)"], "comments": [], "recommandations_id": []}

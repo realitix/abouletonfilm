@@ -1,0 +1,1 @@
+{"tmdb_id": 245820, "title": "FreeLance", "original_title": "FreeLance", "slug_title": "freelance", "date": "2007-03-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

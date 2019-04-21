@@ -1,0 +1,1 @@
+{"tmdb_id": 461020, "title": "Berlin - Stettin", "original_title": "Berlin - Stettin", "slug_title": "berlin-stettin", "date": "2009-10-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PLdtSihnxVLyBCI9Pk8DIqUBd1.jpg", "actors": ["Fritzi Haberlandt (Herself)"], "comments": [], "recommandations_id": []}

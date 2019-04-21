@@ -1,0 +1,1 @@
+{"tmdb_id": 563622, "title": "Bernard", "original_title": "Bernard", "slug_title": "bernard", "date": "2018-11-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

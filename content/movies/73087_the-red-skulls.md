@@ -1,0 +1,1 @@
+{"tmdb_id": 73087, "title": "The Red Skulls", "original_title": "The Red Skulls", "slug_title": "the-red-skulls", "date": "2005-03-01", "genre": "Horreur", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gU7eoEPT58Q9FDz66xBdh9nyGWW.jpg", "actors": [], "comments": [], "recommandations_id": []}

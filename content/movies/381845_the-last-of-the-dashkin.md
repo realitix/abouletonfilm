@@ -1,0 +1,1 @@
+{"tmdb_id": 381845, "title": "The Last of the Dashkin", "original_title": "The Last of the Dashkin", "slug_title": "the-last-of-the-dashkin", "date": "2010-03-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ol7RAiJH0987XZ2l7f7TN61rLmn.jpg", "actors": [], "comments": [], "recommandations_id": []}

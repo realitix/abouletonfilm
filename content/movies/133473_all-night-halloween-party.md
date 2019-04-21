@@ -1,0 +1,1 @@
+{"tmdb_id": 133473, "title": "All Night Halloween Party", "original_title": "All Night Halloween Party", "slug_title": "all-night-halloween-party", "date": "2012-09-25", "genre": "Horreur / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

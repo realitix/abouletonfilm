@@ -1,0 +1,1 @@
+{"tmdb_id": 150453, "title": "A Day in the City", "original_title": "En Dag I Staden", "slug_title": "a-day-in-the-city", "date": "1956-12-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2bM9zlhHepnW7C7TBUcfLkU5j1.jpg", "actors": [], "comments": [], "recommandations_id": [145911]}

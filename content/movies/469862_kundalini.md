@@ -1,0 +1,1 @@
+{"tmdb_id": 469862, "title": "Kundalini", "original_title": "Kundalini", "slug_title": "kundalini", "date": "2016-05-10", "genre": "Science-Fiction / Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pa0v02E8WWI775Oo9TGcIqKM2DL.jpg", "actors": [], "comments": [], "recommandations_id": []}

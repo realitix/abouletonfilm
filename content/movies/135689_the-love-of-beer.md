@@ -1,0 +1,1 @@
+{"tmdb_id": 135689, "title": "The Love of Beer", "original_title": "The Love of Beer", "slug_title": "the-love-of-beer", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

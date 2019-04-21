@@ -1,0 +1,1 @@
+{"tmdb_id": 60350, "title": "Bellator 34", "original_title": "Bellator 34", "slug_title": "bellator-34", "date": "2010-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hX2P0nWGhAu8Kdj0fe0d0n7UvxM.jpg", "actors": [], "comments": [], "recommandations_id": []}

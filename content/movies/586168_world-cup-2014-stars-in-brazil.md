@@ -1,0 +1,1 @@
+{"tmdb_id": 586168, "title": "World Cup 2014 - Stars in Brazil", "original_title": "World Cup 2014 - Stars in Brazil", "slug_title": "world-cup-2014-stars-in-brazil", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

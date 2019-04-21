@@ -1,0 +1,1 @@
+{"tmdb_id": 361927, "title": "Frontline: Generation Like", "original_title": "Frontline: Generation Like", "slug_title": "frontline-generation-like", "date": "2014-02-18", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzsK14RvZvmAFTVJQzQXkxMxWzt.jpg", "actors": [], "comments": [], "recommandations_id": []}

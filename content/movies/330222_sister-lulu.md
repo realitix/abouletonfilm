@@ -1,0 +1,1 @@
+{"tmdb_id": 330222, "title": "Sister LuLu", "original_title": "Sister LuLu", "slug_title": "sister-lulu", "date": "2001-10-18", "genre": "Drame / Com\u00e9die", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/im1orkCIHxw5dQCceICWM0WUYA3.jpg", "actors": [], "comments": [], "recommandations_id": []}

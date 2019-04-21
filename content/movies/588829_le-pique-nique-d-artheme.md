@@ -1,0 +1,1 @@
+{"tmdb_id": 588829, "title": "Le pique-nique d'Arth\u00e8me", "original_title": "Le pique-nique d'Arth\u00e8me", "slug_title": "le-pique-nique-d-artheme", "date": "1912-03-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernest Serva\u00e8s (Arth\u00e8me)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 376461, "title": "28\u00b0 minuto", "original_title": "28\u00b0 minuto", "slug_title": "28deg-minuto", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corinne Cl\u00e9ry ()"], "comments": [], "recommandations_id": []}

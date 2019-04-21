@@ -1,0 +1,1 @@
+{"tmdb_id": 330274, "title": "The Wilgus Stories", "original_title": "The Wilgus Stories", "slug_title": "the-wilgus-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

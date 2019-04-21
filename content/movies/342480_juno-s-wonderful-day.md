@@ -1,0 +1,1 @@
+{"tmdb_id": 342480, "title": "Juno's Wonderful Day", "original_title": "Juno's Wonderful Day", "slug_title": "juno-s-wonderful-day", "date": "2003-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44MBZ0xCBfVmBWb5cFFZXxA7R4X.jpg", "actors": [], "comments": [], "recommandations_id": []}

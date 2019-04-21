@@ -1,0 +1,1 @@
+{"tmdb_id": 476947, "title": "\ud480\uc78e\uc0ac\ub791", "original_title": "\ud480\uc78e\uc0ac\ub791", "slug_title": "pulipsarang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

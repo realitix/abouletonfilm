@@ -1,0 +1,1 @@
+{"tmdb_id": 516502, "title": "Los Valientes", "original_title": "Los Valientes", "slug_title": "los-valientes", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

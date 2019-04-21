@@ -1,0 +1,1 @@
+{"tmdb_id": 162607, "title": "Mahatma Gandhi Talks", "original_title": "Mahatma Gandhi Talks", "slug_title": "mahatma-gandhi-talks", "date": "1931-05-15", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

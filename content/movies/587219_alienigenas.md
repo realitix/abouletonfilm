@@ -1,0 +1,1 @@
+{"tmdb_id": 587219, "title": "Alien\u00edgenas", "original_title": "Alien\u00edgenas", "slug_title": "alienigenas", "date": "2017-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HT9Tnl6I5iETTvfhDU43roDc8z.jpg", "actors": [], "comments": [], "recommandations_id": []}

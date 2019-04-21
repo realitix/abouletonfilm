@@ -1,0 +1,1 @@
+{"tmdb_id": 569645, "title": "Lovebites - Battle in the East", "original_title": "Lovebites - Battle in the East", "slug_title": "lovebites-battle-in-the-east", "date": "2018-12-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

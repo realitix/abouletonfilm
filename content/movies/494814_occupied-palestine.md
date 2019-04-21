@@ -1,0 +1,1 @@
+{"tmdb_id": 494814, "title": "Occupied Palestine", "original_title": "Occupied Palestine", "slug_title": "occupied-palestine", "date": "1981-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

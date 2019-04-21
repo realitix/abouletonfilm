@@ -1,0 +1,1 @@
+{"tmdb_id": 397416, "title": "Datalagringsdirektivet", "original_title": "Datalagringsdirektivet", "slug_title": "datalagringsdirektivet", "date": "2013-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristoffer L\u00f8kke-S\u00f8rensen (Voice-over)"], "comments": [], "recommandations_id": []}

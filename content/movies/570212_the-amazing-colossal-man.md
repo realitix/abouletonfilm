@@ -1,0 +1,1 @@
+{"tmdb_id": 570212, "title": "The Amazing Colossal Man", "original_title": "The Amazing Colossal Man", "slug_title": "the-amazing-colossal-man", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

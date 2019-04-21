@@ -1,0 +1,1 @@
+{"tmdb_id": 370242, "title": "Il se passe trop de choses", "original_title": "Il se passe trop de choses", "slug_title": "il-se-passe-trop-de-choses", "date": "2014-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

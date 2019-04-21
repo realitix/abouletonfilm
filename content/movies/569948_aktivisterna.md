@@ -1,0 +1,1 @@
+{"tmdb_id": 569948, "title": "Aktivisterna", "original_title": "Aktivisterna", "slug_title": "aktivisterna", "date": "2018-08-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg", "actors": [], "comments": [], "recommandations_id": []}

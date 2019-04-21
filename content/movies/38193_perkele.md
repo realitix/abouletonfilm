@@ -1,0 +1,1 @@
+{"tmdb_id": 38193, "title": "Perkele", "original_title": "Perkele", "slug_title": "perkele", "date": "2004-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pertti Koivula (Matti)", "Taisto Reimaluoto (Avantomies)"], "comments": [], "recommandations_id": []}

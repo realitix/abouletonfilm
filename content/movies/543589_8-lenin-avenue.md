@@ -1,0 +1,1 @@
+{"tmdb_id": 543589, "title": "8, Lenin Avenue", "original_title": "8, Lenin Avenue", "slug_title": "8-lenin-avenue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

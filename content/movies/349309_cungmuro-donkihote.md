@@ -1,0 +1,1 @@
+{"tmdb_id": 349309, "title": "\ucda9\ubb34\ub85c \ub3c8\ud0a4\ud638\ud14c", "original_title": "\ucda9\ubb34\ub85c \ub3c8\ud0a4\ud638\ud14c", "slug_title": "cungmuro-donkihote", "date": "1996-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

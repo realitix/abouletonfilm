@@ -1,0 +1,1 @@
+{"tmdb_id": 87520, "title": "Starwoids", "original_title": "Starwoids", "slug_title": "starwoids", "date": "2001-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLUhRXZbND34w9SfPVXw0pmOSCn.jpg", "actors": ["Kevin Smith (Himself)"], "comments": [], "recommandations_id": []}

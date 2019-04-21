@@ -1,0 +1,1 @@
+{"tmdb_id": 587351, "title": "Rising from the Tsunami", "original_title": "Brise-Lames", "slug_title": "rising-from-the-tsunami", "date": "2019-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wp6xLBmaGN0mfSL50albT8Zn1dG.jpg", "actors": [], "comments": [], "recommandations_id": []}

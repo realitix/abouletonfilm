@@ -1,0 +1,1 @@
+{"tmdb_id": 575714, "title": "The Lost Mummy of Imhotep", "original_title": "The Lost Mummy of Imhotep", "slug_title": "the-lost-mummy-of-imhotep", "date": "2000-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yUz1byPrFSG0peOTSDCNT1VYbdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

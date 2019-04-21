@@ -1,0 +1,1 @@
+{"tmdb_id": 310330, "title": "The Tea Party Collection: Illuminations", "original_title": "The Tea Party Collection: Illuminations", "slug_title": "the-tea-party-collection-illuminations", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

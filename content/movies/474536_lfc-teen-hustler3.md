@@ -1,0 +1,1 @@
+{"tmdb_id": 474536, "title": "Lfc teen hustler3", "original_title": "Lfc teen hustler3", "slug_title": "lfc-teen-hustler3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

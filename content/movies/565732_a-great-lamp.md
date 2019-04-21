@@ -1,0 +1,1 @@
+{"tmdb_id": 565732, "title": "A Great Lamp", "original_title": "A Great Lamp", "slug_title": "a-great-lamp", "date": "2019-01-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GtsKjlPIJXSZk0F1YKHaHA5qZM.jpg", "actors": ["Spencer Bang (Howie)", "Steven Maier (Gene)"], "comments": [], "recommandations_id": []}

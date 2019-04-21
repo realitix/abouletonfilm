@@ -1,0 +1,1 @@
+{"tmdb_id": 324539, "title": "America in World War II", "original_title": "America in World War II", "slug_title": "america-in-world-war-ii", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

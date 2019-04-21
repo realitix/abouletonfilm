@@ -1,0 +1,1 @@
+{"tmdb_id": 185948, "title": "Lil Wayne MTV Unplugged", "original_title": "Lil Wayne MTV Unplugged", "slug_title": "lil-wayne-mtv-unplugged", "date": "", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83ww0g682HEgHPSr5ZoeEMnyD2Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

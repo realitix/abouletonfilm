@@ -1,0 +1,1 @@
+{"tmdb_id": 584757, "title": "Sheep, Dog, & Wolf - Glare", "original_title": "Sheep, Dog, & Wolf - Glare", "slug_title": "sheep-dog-wolf-glare", "date": "2014-04-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel McBride (Sheep, Dog, & Wolf)"], "comments": [], "recommandations_id": []}

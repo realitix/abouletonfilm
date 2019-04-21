@@ -1,0 +1,1 @@
+{"tmdb_id": 157821, "title": "Corpus Christi", "original_title": "Corpus Christi", "slug_title": "corpus-christi", "date": "", "genre": "Drame / Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Ram\u00edrez (Paciencia De La Rosa)"], "comments": [], "recommandations_id": []}

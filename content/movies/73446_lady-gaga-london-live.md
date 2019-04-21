@@ -1,0 +1,1 @@
+{"tmdb_id": 73446, "title": "Lady Gaga: London Live", "original_title": "Lady Gaga: London Live", "slug_title": "lady-gaga-london-live", "date": "2010-01-19", "genre": "Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59keSCkZlNmpIHK0HgMsrH8g8bt.jpg", "actors": [], "comments": [], "recommandations_id": []}

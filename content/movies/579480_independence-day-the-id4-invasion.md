@@ -1,0 +1,1 @@
+{"tmdb_id": 579480, "title": "Independence Day: The ID4 Invasion", "original_title": "Independence Day: The ID4 Invasion", "slug_title": "independence-day-the-id4-invasion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

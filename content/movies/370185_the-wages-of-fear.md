@@ -1,0 +1,1 @@
+{"tmdb_id": 370185, "title": "The Wages of Fear", "original_title": "The Wages of Fear", "slug_title": "the-wages-of-fear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 155796, "title": "Still Life", "original_title": "Still Life", "slug_title": "still-life", "date": "2007-07-20", "genre": "Romance / Drame", "score": "7.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Damian Odess-Gillett ()", "Pavl\u00edna Karpeles ()"], "comments": [], "recommandations_id": []}

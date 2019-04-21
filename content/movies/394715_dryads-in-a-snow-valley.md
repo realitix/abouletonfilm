@@ -1,0 +1,1 @@
+{"tmdb_id": 394715, "title": "Dryads in a Snow Valley", "original_title": "\u98a8\u306e\u6ce2\u7d0b", "slug_title": "dryads-in-a-snow-valley", "date": "2015-10-01", "genre": "Drame / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3L8W2whfFplHbV5Bwsn08Pens6.jpg", "actors": [], "comments": [], "recommandations_id": []}

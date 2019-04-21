@@ -1,0 +1,1 @@
+{"tmdb_id": 578822, "title": "Hawaiian Rainbow", "original_title": "Hawaiian Rainbow", "slug_title": "hawaiian-rainbow", "date": "1988-12-31", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lrJrxUQv4kMrzDPqf49jOX0Z85.jpg", "actors": [], "comments": [], "recommandations_id": []}

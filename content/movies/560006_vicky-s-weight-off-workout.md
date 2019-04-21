@@ -1,0 +1,1 @@
+{"tmdb_id": 560006, "title": "Vicky's Weight Off Workout", "original_title": "Vicky's Weight Off Workout", "slug_title": "vicky-s-weight-off-workout", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

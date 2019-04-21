@@ -1,0 +1,1 @@
+{"tmdb_id": 588814, "title": "Like a Bird", "original_title": "Like a Bird", "slug_title": "like-a-bird", "date": "2019-03-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

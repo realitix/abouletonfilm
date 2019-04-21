@@ -1,0 +1,1 @@
+{"tmdb_id": 254091, "title": "It's a Living", "original_title": "It's a Living", "slug_title": "it-s-a-living", "date": "1957-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

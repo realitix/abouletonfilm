@@ -1,0 +1,1 @@
+{"tmdb_id": 322171, "title": "Bierce the Revelator", "original_title": "Bierce the Revelator", "slug_title": "bierce-the-revelator", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

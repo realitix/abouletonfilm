@@ -1,0 +1,1 @@
+{"tmdb_id": 24368, "title": "Pride Grand Prix 2000 Finals", "original_title": "Pride Grand Prix 2000 Finals", "slug_title": "pride-grand-prix-2000-finals", "date": "2000-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLtSlfVnyYr5y9riiB0tedJOh9O.jpg", "actors": [], "comments": [], "recommandations_id": []}

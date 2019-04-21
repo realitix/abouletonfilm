@@ -1,0 +1,1 @@
+{"tmdb_id": 577716, "title": "Woman Gambler's Iron Rule", "original_title": "Woman Gambler's Iron Rule", "slug_title": "woman-gambler-s-iron-rule", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

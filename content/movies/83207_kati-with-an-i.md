@@ -1,0 +1,1 @@
+{"tmdb_id": 83207, "title": "Kati with an I", "original_title": "Kati with an I", "slug_title": "kati-with-an-i", "date": "2010-01-01", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwPlRZResRODyMJrgRT9tujIemW.jpg", "actors": [], "comments": [], "recommandations_id": [49429]}

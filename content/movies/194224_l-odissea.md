@@ -1,0 +1,1 @@
+{"tmdb_id": 194224, "title": "L'Odissea", "original_title": "L'Odissea", "slug_title": "l-odissea", "date": "1911-11-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBAVaExDG87OT0b2pVxxhMctyI3.jpg", "actors": [], "comments": [], "recommandations_id": []}

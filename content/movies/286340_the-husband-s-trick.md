@@ -1,0 +1,1 @@
+{"tmdb_id": 286340, "title": "The Husband's Trick", "original_title": "Ruse de mari", "slug_title": "the-husband-s-trick", "date": "1907-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder ()"], "comments": [], "recommandations_id": []}

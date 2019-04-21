@@ -1,0 +1,1 @@
+{"tmdb_id": 290415, "title": "Paranormal Effect", "original_title": "Paranormal Effect", "slug_title": "paranormal-effect", "date": "2010-01-12", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g79GPStfUVb9EtDHxOHcPvRY957.jpg", "actors": [], "comments": [], "recommandations_id": []}

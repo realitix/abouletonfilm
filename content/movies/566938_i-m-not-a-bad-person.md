@@ -1,0 +1,1 @@
+{"tmdb_id": 566938, "title": "I'm Not a Bad Person", "original_title": "I'm Not a Bad Person", "slug_title": "i-m-not-a-bad-person", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chelah Horsdal (Gail)", "Tim Guinee (Stan)"], "comments": [], "recommandations_id": []}

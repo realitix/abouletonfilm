@@ -1,0 +1,1 @@
+{"tmdb_id": 368092, "title": "Thranes Metode", "original_title": "Thranes Metode", "slug_title": "thranes-metode", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

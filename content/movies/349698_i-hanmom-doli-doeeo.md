@@ -1,0 +1,1 @@
+{"tmdb_id": 349698, "title": "\uc774 \ud55c\ubab8 \ub3cc\uc774 \ub418\uc5b4", "original_title": "\uc774 \ud55c\ubab8 \ub3cc\uc774 \ub418\uc5b4", "slug_title": "i-hanmom-doli-doeeo", "date": "1983-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

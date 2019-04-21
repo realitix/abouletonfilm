@@ -1,0 +1,1 @@
+{"tmdb_id": 395898, "title": "Dikkatra Parvathi", "original_title": "Dikkatra Parvathi", "slug_title": "dikkatra-parvathi", "date": "1974-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utvnjt7fJ30lAUPlnds6yoarssx.jpg", "actors": ["Lakshmi ()", "Sreekanth ()"], "comments": [], "recommandations_id": []}

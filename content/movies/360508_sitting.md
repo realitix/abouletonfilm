@@ -1,0 +1,1 @@
+{"tmdb_id": 360508, "title": "Sitting", "original_title": "Sitting", "slug_title": "sitting", "date": "2010-09-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFlLn98Z8GfM1QcAqwx6SI5mmQ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

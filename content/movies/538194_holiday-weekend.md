@@ -1,0 +1,1 @@
+{"tmdb_id": 538194, "title": "Holiday Weekend", "original_title": "Holiday Weekend", "slug_title": "holiday-weekend", "date": "2007-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46l7MaAyEtUsl722EwDKAwfQbL9.jpg", "actors": [], "comments": [], "recommandations_id": []}

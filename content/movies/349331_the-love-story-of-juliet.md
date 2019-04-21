@@ -1,0 +1,1 @@
+{"tmdb_id": 349331, "title": "The Love Story of Juliet", "original_title": "\uc131\ucd98\ud5a5\ub390", "slug_title": "the-love-story-of-juliet", "date": "1999-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

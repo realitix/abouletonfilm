@@ -1,0 +1,1 @@
+{"tmdb_id": 308592, "title": "A Visit to Ali Farka Toure", "original_title": "A Visit to Ali Farka Toure", "slug_title": "a-visit-to-ali-farka-toure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

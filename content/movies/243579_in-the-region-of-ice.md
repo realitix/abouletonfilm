@@ -1,0 +1,1 @@
+{"tmdb_id": 243579, "title": "In the Region of Ice", "original_title": "In the Region of Ice", "slug_title": "in-the-region-of-ice", "date": "1976-10-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Lampert ()", "Fionnula Flanagan ()"], "comments": [], "recommandations_id": []}

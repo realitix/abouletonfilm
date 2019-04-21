@@ -1,0 +1,1 @@
+{"tmdb_id": 235523, "title": "The Broken Woman", "original_title": "La Mujer Rota", "slug_title": "the-broken-woman", "date": "2013-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

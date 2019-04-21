@@ -1,0 +1,1 @@
+{"tmdb_id": 342983, "title": "Many Sappy Returns", "original_title": "Many Sappy Returns", "slug_title": "many-sappy-returns", "date": "1938-08-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley Chase)"], "comments": [], "recommandations_id": []}

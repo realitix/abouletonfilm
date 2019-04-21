@@ -1,0 +1,1 @@
+{"tmdb_id": 472156, "title": "Com os P\u00e9s no Ch\u00e3o", "original_title": "Com os P\u00e9s no Ch\u00e3o", "slug_title": "com-os-pes-no-chao", "date": "2017-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9Orx5odMI5IItb4y07bOa7ac8I.jpg", "actors": [], "comments": [], "recommandations_id": []}

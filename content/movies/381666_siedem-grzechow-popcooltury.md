@@ -1,0 +1,1 @@
+{"tmdb_id": 381666, "title": "Siedem grzech\u00f3w popcooltury", "original_title": "Siedem grzech\u00f3w popcooltury", "slug_title": "siedem-grzechow-popcooltury", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 53035, "title": "Kevorkian", "original_title": "Kevorkian", "slug_title": "kevorkian", "date": "2010-06-28", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0QUKChZtzgpgU5MfcYmGGoafDy.jpg", "actors": ["Jack Kevorkian (Jack Kevorkian)"], "comments": [], "recommandations_id": []}

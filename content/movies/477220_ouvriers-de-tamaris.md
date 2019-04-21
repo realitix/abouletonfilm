@@ -1,0 +1,1 @@
+{"tmdb_id": 477220, "title": "Ouvriers de Tamaris", "original_title": "Ouvriers de Tamaris", "slug_title": "ouvriers-de-tamaris", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

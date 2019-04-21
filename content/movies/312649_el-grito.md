@@ -1,0 +1,1 @@
+{"tmdb_id": 312649, "title": "El Grito", "original_title": "El Grito", "slug_title": "el-grito", "date": "2002-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

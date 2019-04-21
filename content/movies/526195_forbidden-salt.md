@@ -1,0 +1,1 @@
+{"tmdb_id": 526195, "title": "Forbidden Salt", "original_title": "\u0646\u0645\u06a9 \u0645\u0645\u0646\u0648\u0639 \u0627\u0633\u062a", "slug_title": "forbidden-salt", "date": "2017-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()"], "comments": [], "recommandations_id": []}

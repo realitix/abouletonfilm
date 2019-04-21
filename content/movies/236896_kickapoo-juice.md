@@ -1,0 +1,1 @@
+{"tmdb_id": 236896, "title": "Kickapoo Juice", "original_title": "Kickapoo Juice", "slug_title": "kickapoo-juice", "date": "1944-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

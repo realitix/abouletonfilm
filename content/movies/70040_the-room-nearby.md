@@ -1,0 +1,1 @@
+{"tmdb_id": 70040, "title": "The Room Nearby", "original_title": "The Room Nearby", "slug_title": "the-room-nearby", "date": "2008-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCbI5HhFo25lfC26FdgjUKZEHBV.jpg", "actors": ["Jung Yu-mi ()", "Ye Soo-jung ()"], "comments": [], "recommandations_id": []}

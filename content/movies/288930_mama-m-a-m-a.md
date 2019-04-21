@@ -1,0 +1,1 @@
+{"tmdb_id": 288930, "title": "Mama/M.A.M.A.", "original_title": "Mama/M.A.M.A.", "slug_title": "mama-m-a-m-a", "date": "2003-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

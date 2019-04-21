@@ -1,0 +1,1 @@
+{"tmdb_id": 450833, "title": "La Fabbrica", "original_title": "La Fabbrica", "slug_title": "la-fabbrica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltd39wUlKDg3b1JZDTKAzInE1o6.jpg", "actors": ["Erika Lindauer ()"], "comments": [], "recommandations_id": []}

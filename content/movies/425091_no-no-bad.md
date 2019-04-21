@@ -1,0 +1,1 @@
+{"tmdb_id": 425091, "title": "No No Bad", "original_title": "No No Bad", "slug_title": "no-no-bad", "date": "2016-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sp8JztD5YBkNTYQObxuX4aI6ny.jpg", "actors": ["Matt Nyce ()", "Leena Joshi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 416622, "title": "The Temptress", "original_title": "The Temptress", "slug_title": "the-temptress", "date": "1949-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

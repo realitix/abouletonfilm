@@ -1,0 +1,1 @@
+{"tmdb_id": 394896, "title": "Color TV No Vacancy", "original_title": "Color TV No Vacancy", "slug_title": "color-tv-no-vacancy", "date": "2013-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfbWk0qp4fKVQj4hQPr07AdTJl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 494944, "title": "Rufus Stone", "original_title": "Rufus Stone", "slug_title": "rufus-stone", "date": "2012-12-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n45QZ0f0jZfOkzPDgkIU7qldIh8.jpg", "actors": [], "comments": [], "recommandations_id": []}

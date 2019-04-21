@@ -1,0 +1,1 @@
+{"tmdb_id": 441828, "title": "La soledad de la jefa de despacho", "original_title": "La soledad de la jefa de despacho", "slug_title": "la-soledad-de-la-jefa-de-despacho", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

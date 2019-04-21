@@ -1,0 +1,1 @@
+{"tmdb_id": 109473, "title": "The Boy from Hell", "original_title": "The Boy from Hell", "slug_title": "the-boy-from-hell", "date": "1988-10-07", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A720lEskilpM04OaEpromOo2CMg.jpg", "actors": [], "comments": [], "recommandations_id": [115258, 36217, 138097, 171129]}

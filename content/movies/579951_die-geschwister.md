@@ -1,0 +1,1 @@
+{"tmdb_id": 579951, "title": "Die Geschwister", "original_title": "Die Geschwister", "slug_title": "die-geschwister", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZsTOlxuBd03Cu7wC2YkesP9eDZ.jpg", "actors": ["Udo Kier ()"], "comments": [], "recommandations_id": []}

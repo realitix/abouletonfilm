@@ -1,0 +1,1 @@
+{"tmdb_id": 235409, "title": "Cops Is Tops", "original_title": "Cops Is Tops", "slug_title": "cops-is-tops", "date": "1955-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

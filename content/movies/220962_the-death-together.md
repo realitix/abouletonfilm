@@ -1,0 +1,1 @@
+{"tmdb_id": 220962, "title": "The Death Together", "original_title": "The Death Together", "slug_title": "the-death-together", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNj5aKqdL8uBDRWyQl92IwwlPl6.jpg", "actors": [], "comments": [], "recommandations_id": []}

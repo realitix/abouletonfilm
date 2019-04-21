@@ -1,0 +1,1 @@
+{"tmdb_id": 526734, "title": "Mario Merz", "original_title": "Mario Merz", "slug_title": "mario-merz", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlUdmvYEUXlNlpO4yCQdItknDof.jpg", "actors": ["Mario Merz (Himself)"], "comments": [], "recommandations_id": []}

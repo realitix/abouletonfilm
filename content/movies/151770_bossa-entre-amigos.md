@@ -1,0 +1,1 @@
+{"tmdb_id": 151770, "title": "Bossa Entre Amigos", "original_title": "Bossa Entre Amigos", "slug_title": "bossa-entre-amigos", "date": "2016-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMkwTW3lPrxeQ3VxqNMEC6GhBes.jpg", "actors": [], "comments": [], "recommandations_id": []}

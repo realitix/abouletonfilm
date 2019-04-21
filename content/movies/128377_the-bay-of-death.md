@@ -1,0 +1,1 @@
+{"tmdb_id": 128377, "title": "The Bay of Death", "original_title": "Bukhta smerti", "slug_title": "the-bay-of-death", "date": "1926-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9uuIfCrJachuN43SFhpig9u3KCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

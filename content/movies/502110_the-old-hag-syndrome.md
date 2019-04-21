@@ -1,0 +1,1 @@
+{"tmdb_id": 502110, "title": "The Old Hag Syndrome", "original_title": "The Old Hag Syndrome", "slug_title": "the-old-hag-syndrome", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62MnHeA0w7muyyfyIA8DbxHCksE.jpg", "actors": ["MyAnna Buring ()", "Sean Maher ()"], "comments": [], "recommandations_id": []}

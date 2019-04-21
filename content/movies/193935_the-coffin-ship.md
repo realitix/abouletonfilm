@@ -1,0 +1,1 @@
+{"tmdb_id": 193935, "title": "The Coffin Ship", "original_title": "The Coffin Ship", "slug_title": "the-coffin-ship", "date": "1911-06-19", "genre": "Aventure / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Garwood (Captain)"], "comments": [], "recommandations_id": []}

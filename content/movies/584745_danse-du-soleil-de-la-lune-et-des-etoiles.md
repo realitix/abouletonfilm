@@ -1,0 +1,1 @@
+{"tmdb_id": 584745, "title": "Danse du soleil, de la lune et des etoiles", "original_title": "Danse du soleil, de la lune et des etoiles", "slug_title": "danse-du-soleil-de-la-lune-et-des-etoiles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

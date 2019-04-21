@@ -1,0 +1,1 @@
+{"tmdb_id": 506099, "title": "Das zehnte Jahr", "original_title": "Das zehnte Jahr", "slug_title": "das-zehnte-jahr", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Bill (Marie)", "Matthias Habich (Max)", "Susi Nicoletti (Gast)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347843, "title": "A Girl Named Elastika", "original_title": "A Girl Named Elastika", "slug_title": "a-girl-named-elastika", "date": "2013-10-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d6O1srJVx1qhVMO3MgggBFg0ihI.jpg", "actors": [], "comments": [], "recommandations_id": []}

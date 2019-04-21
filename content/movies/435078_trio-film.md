@@ -1,0 +1,1 @@
+{"tmdb_id": 435078, "title": "Trio Film", "original_title": "Trio Film", "slug_title": "trio-film", "date": "1968-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Paxton ()", "Becky Arnold ()"], "comments": [], "recommandations_id": []}

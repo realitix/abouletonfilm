@@ -1,0 +1,1 @@
+{"tmdb_id": 241769, "title": "Pimps Up, Ho's Down", "original_title": "Pimps Up, Ho's Down", "slug_title": "pimps-up-ho-s-down", "date": "2000-12-26", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HHWhIABrga0zgVUOGTb9U430w8.jpg", "actors": ["Ice-T ()"], "comments": [], "recommandations_id": []}

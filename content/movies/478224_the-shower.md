@@ -1,0 +1,1 @@
+{"tmdb_id": 478224, "title": "The Shower", "original_title": "\uc18c\ub098\uae30", "slug_title": "the-shower", "date": "2017-08-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hsNV6x6INAoD6B36aI0s0EYO4UX.jpg", "actors": ["No Kang-min (Boy)", "Shin Eun-soo (Girl)"], "comments": [], "recommandations_id": []}

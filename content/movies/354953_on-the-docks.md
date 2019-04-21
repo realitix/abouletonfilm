@@ -1,0 +1,1 @@
+{"tmdb_id": 354953, "title": "On The Docks", "original_title": "Haigang", "slug_title": "on-the-docks", "date": "1972-01-01", "genre": "Guerre / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZpJI5Oimcn8MaYNxv4KHJKRxJk.jpg", "actors": [], "comments": [], "recommandations_id": []}

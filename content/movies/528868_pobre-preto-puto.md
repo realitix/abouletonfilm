@@ -1,0 +1,1 @@
+{"tmdb_id": 528868, "title": "Pobre Preto Puto", "original_title": "Pobre Preto Puto", "slug_title": "pobre-preto-puto", "date": "2016-08-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmyWIrcJFYizkMiBN1fWWATE2XS.jpg", "actors": [], "comments": [], "recommandations_id": []}

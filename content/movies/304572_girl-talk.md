@@ -1,0 +1,1 @@
+{"tmdb_id": 304572, "title": "Girl Talk", "original_title": "Girl Talk", "slug_title": "girl-talk", "date": "2013-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

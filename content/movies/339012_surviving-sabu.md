@@ -1,0 +1,1 @@
+{"tmdb_id": 339012, "title": "Surviving Sabu", "original_title": "Surviving Sabu", "slug_title": "surviving-sabu", "date": "1998-06-05", "genre": "Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJlKBlFMG5Oj88xv7fZr9pyykaD.jpg", "actors": [], "comments": [], "recommandations_id": []}

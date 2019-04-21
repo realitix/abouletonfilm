@@ -1,0 +1,1 @@
+{"tmdb_id": 411375, "title": "Operation Code Name: Long Live the Fatherland", "original_title": "Operation Code Name: Long Live the Fatherland", "slug_title": "operation-code-name-long-live-the-fatherland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

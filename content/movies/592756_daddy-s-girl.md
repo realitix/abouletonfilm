@@ -1,0 +1,1 @@
+{"tmdb_id": 592756, "title": "Daddy's Girl", "original_title": "Daddy's Girl", "slug_title": "daddy-s-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalia Starr ()", "Adria Rae ()", "Kristen Scott ()", "Mandy Muse ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 306217, "title": "Jack the Ripper: Conspiracies", "original_title": "Jack the Ripper: Conspiracies", "slug_title": "jack-the-ripper-conspiracies", "date": "2002-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8tZUlTfZInGyZ9oZrGuhZ4u1vv.jpg", "actors": [], "comments": [], "recommandations_id": []}

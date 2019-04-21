@@ -1,0 +1,1 @@
+{"tmdb_id": 383874, "title": "Der Feldmarschall", "original_title": "Der Feldmarschall", "slug_title": "der-feldmarschall", "date": "1968-11-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernhard Wicki (Baron)", "Anaid Iplicjian (Baronin)", "Michael Heltau (Schauspieler)"], "comments": [], "recommandations_id": []}

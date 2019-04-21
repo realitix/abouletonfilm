@@ -1,0 +1,1 @@
+{"tmdb_id": 489595, "title": "The Ark Of The Covenant and The Lamb Of God", "original_title": "The Ark Of The Covenant and The Lamb Of God", "slug_title": "the-ark-of-the-covenant-and-the-lamb-of-god", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

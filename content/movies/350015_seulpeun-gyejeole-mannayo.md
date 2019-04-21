@@ -1,0 +1,1 @@
+{"tmdb_id": 350015, "title": "\uc2ac\ud508 \uacc4\uc808\uc5d0 \ub9cc\ub098\uc694", "original_title": "\uc2ac\ud508 \uacc4\uc808\uc5d0 \ub9cc\ub098\uc694", "slug_title": "seulpeun-gyejeole-mannayo", "date": "1981-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

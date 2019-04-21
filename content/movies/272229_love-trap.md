@@ -1,0 +1,1 @@
+{"tmdb_id": 272229, "title": "Love Trap", "original_title": "Love Trap", "slug_title": "love-trap", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

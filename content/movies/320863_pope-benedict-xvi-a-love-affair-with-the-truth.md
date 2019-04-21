@@ -1,0 +1,1 @@
+{"tmdb_id": 320863, "title": "Pope Benedict XVI: A Love Affair with the Truth", "original_title": "Pope Benedict XVI: A Love Affair with the Truth", "slug_title": "pope-benedict-xvi-a-love-affair-with-the-truth", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

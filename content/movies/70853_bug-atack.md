@@ -1,0 +1,1 @@
+{"tmdb_id": 70853, "title": "Bug Atack", "original_title": "Bug Atack", "slug_title": "bug-atack", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwGxt67IH7kaxyJJvXmxyVaSfW3.jpg", "actors": [], "comments": [], "recommandations_id": []}

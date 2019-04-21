@@ -1,0 +1,1 @@
+{"tmdb_id": 356855, "title": "James Brown Live in Berlin", "original_title": "James Brown Live in Berlin", "slug_title": "james-brown-live-in-berlin", "date": "1991-05-01", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aF6NEJSv4Uc3U48Y7yuOm9LNLTp.jpg", "actors": [], "comments": [], "recommandations_id": []}

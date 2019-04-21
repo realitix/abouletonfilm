@@ -1,0 +1,1 @@
+{"tmdb_id": 235400, "title": "Penny Antics", "original_title": "Penny Antics", "slug_title": "penny-antics", "date": "1955-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

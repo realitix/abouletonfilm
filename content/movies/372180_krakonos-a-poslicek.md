@@ -1,0 +1,1 @@
+{"tmdb_id": 372180, "title": "Krakonos a posl\u00edcek", "original_title": "Krakonos a posl\u00edcek", "slug_title": "krakonos-a-poslicek", "date": "1982-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

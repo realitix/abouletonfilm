@@ -1,0 +1,1 @@
+{"tmdb_id": 591597, "title": "The World or Nothing", "original_title": "Il mondo o niente", "slug_title": "the-world-or-nothing", "date": "2018-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3s7bDfBYjIuFbi5rKMBPnrwFkvW.jpg", "actors": [], "comments": [], "recommandations_id": []}

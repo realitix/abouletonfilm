@@ -1,0 +1,1 @@
+{"tmdb_id": 268665, "title": "Bukovina, Ukrainian Land", "original_title": "Bukovina, zemlya Ukrainskaya", "slug_title": "bukovina-ukrainian-land", "date": "1939-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdqWJBYBj6TBG6pOp7QXKsfW1TQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

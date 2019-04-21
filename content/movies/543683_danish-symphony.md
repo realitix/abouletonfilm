@@ -1,0 +1,1 @@
+{"tmdb_id": 543683, "title": "Danish Symphony", "original_title": "Danish Symphony", "slug_title": "danish-symphony", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

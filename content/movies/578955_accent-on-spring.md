@@ -1,0 +1,1 @@
+{"tmdb_id": 578955, "title": "Accent on Spring", "original_title": "Accent on Spring", "slug_title": "accent-on-spring", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michele Burke ()", "George S. Irving ()", "Allan Knowles ()", "Joe Milan ()"], "comments": [], "recommandations_id": []}

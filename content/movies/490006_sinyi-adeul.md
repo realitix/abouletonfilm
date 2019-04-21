@@ -1,0 +1,1 @@
+{"tmdb_id": 490006, "title": "\uc2e0\uc758 \uc544\ub4e4", "original_title": "\uc2e0\uc758 \uc544\ub4e4", "slug_title": "sinyi-adeul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

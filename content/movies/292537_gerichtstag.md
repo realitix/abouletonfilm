@@ -1,0 +1,1 @@
+{"tmdb_id": 292537, "title": "Gerichtstag", "original_title": "Gerichtstag", "slug_title": "gerichtstag", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Peter Hallwachs ()", "Donata H\u00f6ffer ()", "Dieter Kirchlechner ()", "Hans-Peter Korff ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332389, "title": "Bogot\u00e1 Change", "original_title": "Bogot\u00e1 Change", "slug_title": "bogota-change", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

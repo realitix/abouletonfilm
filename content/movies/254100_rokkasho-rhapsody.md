@@ -1,0 +1,1 @@
+{"tmdb_id": 254100, "title": "Rokkasho Rhapsody", "original_title": "Rokkashomura rapusod\u00ee", "slug_title": "rokkasho-rhapsody", "date": "2006-03-03", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uAvs9qjNTI6tyOtLsFkQvuWe5hO.jpg", "actors": [], "comments": [], "recommandations_id": []}

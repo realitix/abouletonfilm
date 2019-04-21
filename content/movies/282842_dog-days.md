@@ -1,0 +1,1 @@
+{"tmdb_id": 282842, "title": "Dog Days", "original_title": "Dog Days", "slug_title": "dog-days", "date": "2009-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ygnsqKC4Dkmdcvy1D5Y8spVq7Mu.jpg", "actors": ["Saleh Bakri (Noor)", "Tarik Kopty (Noor's Father)"], "comments": [], "recommandations_id": []}

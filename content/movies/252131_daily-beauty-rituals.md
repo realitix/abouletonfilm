@@ -1,0 +1,1 @@
+{"tmdb_id": 252131, "title": "Daily Beauty Rituals", "original_title": "Daily Beauty Rituals", "slug_title": "daily-beauty-rituals", "date": "1937-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zMQb5NeBRMkSRKy6ff5yhMZc9zT.jpg", "actors": ["Constance Bennett (Herself)"], "comments": [], "recommandations_id": []}

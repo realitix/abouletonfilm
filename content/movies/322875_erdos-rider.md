@@ -1,0 +1,1 @@
+{"tmdb_id": 322875, "title": "Erdos Rider", "original_title": "Erdos qi shi", "slug_title": "erdos-rider", "date": "2014-11-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["He Yufan ()", "Gandige ()", "Gandige ()", "Gandige ()", "Gandige ()", "Mata ()", "Candige ()", "Candige (-)"], "comments": [], "recommandations_id": []}

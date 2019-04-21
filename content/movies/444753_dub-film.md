@@ -1,0 +1,1 @@
+{"tmdb_id": 444753, "title": "Dub Film", "original_title": "Dub Film", "slug_title": "dub-film", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

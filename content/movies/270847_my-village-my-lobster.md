@@ -1,0 +1,1 @@
+{"tmdb_id": 270847, "title": "My Village, My Lobster", "original_title": "My Village, My Lobster", "slug_title": "my-village-my-lobster", "date": "2012-12-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/msa2f8cZevnm4qSKS8vYt7FQlhl.jpg", "actors": [], "comments": [], "recommandations_id": []}

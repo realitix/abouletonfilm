@@ -1,0 +1,1 @@
+{"tmdb_id": 258869, "title": "Mr. Happy Man", "original_title": "Mr. Happy Man", "slug_title": "mr-happy-man", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUNAg68Md8flxS7DsDZQ22xNpY2.jpg", "actors": ["Johnny Barnes (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527690, "title": "Slumdog Kodisvaran", "original_title": "Slumdog Kodisvaran", "slug_title": "slumdog-kodisvaran", "date": "2018-04-13", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZ4FybPoWvCDCy1LxMiulg3N5p.jpg", "actors": [], "comments": [], "recommandations_id": []}

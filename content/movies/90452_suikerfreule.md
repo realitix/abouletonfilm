@@ -1,0 +1,1 @@
+{"tmdb_id": 90452, "title": "Suikerfreule", "original_title": "Suikerfreule", "slug_title": "suikerfreule", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aaf Bouber (Betje van der Kooy)", "Johan Elsensohn (Dirk van der Kooy)"], "comments": [], "recommandations_id": []}

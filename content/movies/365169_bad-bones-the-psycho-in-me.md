@@ -1,0 +1,1 @@
+{"tmdb_id": 365169, "title": "Bad Bones: The Psycho in me", "original_title": "Bad Bones: The Psycho in me", "slug_title": "bad-bones-the-psycho-in-me", "date": "2012-03-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Klinger (Himself)"], "comments": [], "recommandations_id": []}

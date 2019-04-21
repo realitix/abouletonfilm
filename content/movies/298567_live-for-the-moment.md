@@ -1,0 +1,1 @@
+{"tmdb_id": 298567, "title": "Live for the Moment", "original_title": "Live for the Moment", "slug_title": "live-for-the-moment", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

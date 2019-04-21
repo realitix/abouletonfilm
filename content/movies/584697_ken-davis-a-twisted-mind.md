@@ -1,0 +1,1 @@
+{"tmdb_id": 584697, "title": "Ken Davis: A Twisted Mind", "original_title": "Ken Davis: A Twisted Mind", "slug_title": "ken-davis-a-twisted-mind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kXNtz4SUx8anOyPR3VQKRYHd99N.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550282, "title": "Read the Map", "original_title": "F\u00f6lj kartan", "slug_title": "read-the-map", "date": "2003-01-25", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2ocwb7YEUV85MxHotNYvTq0Dkd.jpg", "actors": ["Carl Johan De Geer (Narrator (voice))"], "comments": [], "recommandations_id": []}

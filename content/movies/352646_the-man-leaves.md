@@ -1,0 +1,1 @@
+{"tmdb_id": 352646, "title": "The Man Leaves", "original_title": "Odch\u00e1dza \u010dlovek", "slug_title": "the-man-leaves", "date": "1968-01-01", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxqT6RHIJUlWfAbM1fAqekx9Dgr.jpg", "actors": [], "comments": [], "recommandations_id": []}

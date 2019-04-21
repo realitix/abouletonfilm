@@ -1,0 +1,1 @@
+{"tmdb_id": 475263, "title": "Bird of Prey", "original_title": "Bird of Prey", "slug_title": "bird-of-prey", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZm11HusTm79QeYMt2TcEBhZN3x.jpg", "actors": [], "comments": [], "recommandations_id": []}

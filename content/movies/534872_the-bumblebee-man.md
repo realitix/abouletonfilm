@@ -1,0 +1,1 @@
+{"tmdb_id": 534872, "title": "The Bumblebee Man", "original_title": "The Bumblebee Man", "slug_title": "the-bumblebee-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

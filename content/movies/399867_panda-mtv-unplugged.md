@@ -1,0 +1,1 @@
+{"tmdb_id": 399867, "title": "Panda MTV Unplugged", "original_title": "Panda MTV Unplugged", "slug_title": "panda-mtv-unplugged", "date": "2010-11-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oy5QmpSWYwIyedXMVfyN4lG0g9k.jpg", "actors": [], "comments": [], "recommandations_id": []}

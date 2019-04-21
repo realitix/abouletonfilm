@@ -1,0 +1,1 @@
+{"tmdb_id": 446292, "title": "Kronos Quartet - In Accord", "original_title": "Kronos Quartet - In Accord", "slug_title": "kronos-quartet-in-accord", "date": "2000-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hguJJTbE8iqFLI9iLRaTfeQGbRL.jpg", "actors": [], "comments": [], "recommandations_id": []}

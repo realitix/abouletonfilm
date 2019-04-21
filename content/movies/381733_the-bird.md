@@ -1,0 +1,1 @@
+{"tmdb_id": 381733, "title": "The Bird", "original_title": "\u9ce5", "slug_title": "the-bird", "date": "1985-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onl6HQ4O0FiPijTcvvyJYg2aPGR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274058, "title": "Vitality", "original_title": "Vitality", "slug_title": "vitality", "date": "2012-09-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uTM359fjx39kTQQ1IShgwKYHJw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536732, "title": "A Man Among Men: Alberto Giacometti", "original_title": "Alberto Giacometti, Un homme parmi les autres", "slug_title": "a-man-among-men-alberto-giacometti", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

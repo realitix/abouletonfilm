@@ -1,0 +1,1 @@
+{"tmdb_id": 491476, "title": "The Day the Dogs Disappeared", "original_title": "The Day the Dogs Disappeared", "slug_title": "the-day-the-dogs-disappeared", "date": "2018-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwOKhT6VtCSLX5k0QvN2LjhCvFD.jpg", "actors": [], "comments": [], "recommandations_id": []}

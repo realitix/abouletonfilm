@@ -1,0 +1,1 @@
+{"tmdb_id": 191218, "title": "A Primer in Sky Socialism", "original_title": "A Primer in Sky Socialism", "slug_title": "a-primer-in-sky-socialism", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bpxAPigFncOUGtjS6EtViXnO5T7.jpg", "actors": [], "comments": [], "recommandations_id": []}

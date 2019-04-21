@@ -1,0 +1,1 @@
+{"tmdb_id": 373258, "title": "Derby Fever USA", "original_title": "Derby Fever USA", "slug_title": "derby-fever-usa", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApTVoHKo1WQY74djKe17kI9C7ss.jpg", "actors": ["Bob Hope (himself)"], "comments": [], "recommandations_id": []}

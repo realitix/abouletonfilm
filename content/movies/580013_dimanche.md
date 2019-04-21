@@ -1,0 +1,1 @@
+{"tmdb_id": 580013, "title": "Dimanche", "original_title": "Dimanche", "slug_title": "dimanche", "date": "1998-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 569234, "title": "Septiembre del 75", "original_title": "Septiembre del 75", "slug_title": "septiembre-del-75", "date": "2009-10-24", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etYG7vaFsU7L6VkxxUczhtjvUjJ.jpg", "actors": ["Alberto San Juan ()"], "comments": [], "recommandations_id": []}

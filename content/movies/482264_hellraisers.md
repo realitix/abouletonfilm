@@ -1,0 +1,1 @@
+{"tmdb_id": 482264, "title": "Hellraisers", "original_title": "Hellraisers", "slug_title": "hellraisers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

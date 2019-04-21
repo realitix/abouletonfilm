@@ -1,0 +1,1 @@
+{"tmdb_id": 354920, "title": "Beauty War", "original_title": "Beauty War", "slug_title": "beauty-war", "date": "2013-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXUUc36umL5tbArHKtWCeFcBbAL.jpg", "actors": [], "comments": [], "recommandations_id": []}

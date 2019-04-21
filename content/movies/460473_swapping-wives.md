@@ -1,0 +1,1 @@
+{"tmdb_id": 460473, "title": "Swapping Wives", "original_title": "\uc544\ub0b4\ub97c \ubc14\uafb8\ub2e4", "slug_title": "swapping-wives", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/raONSfVnIRlx6hA31AbHvp4DT9E.jpg", "actors": [], "comments": [], "recommandations_id": []}

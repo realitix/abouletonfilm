@@ -1,0 +1,1 @@
+{"tmdb_id": 320807, "title": "Kings of Hip Hop: The Founders", "original_title": "Kings of Hip Hop: The Founders", "slug_title": "kings-of-hip-hop-the-founders", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

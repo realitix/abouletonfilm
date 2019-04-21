@@ -1,0 +1,1 @@
+{"tmdb_id": 553192, "title": "Chicas Day", "original_title": "Chicas Day", "slug_title": "chicas-day", "date": "2013-01-01", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e83bVPvxDmqS6OX0xHmQ8ADFpNI.jpg", "actors": [], "comments": [], "recommandations_id": []}

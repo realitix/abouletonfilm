@@ -1,0 +1,1 @@
+{"tmdb_id": 240443, "title": "Snow Capers", "original_title": "Snow Capers", "slug_title": "snow-capers", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 288999, "title": "Qalupalik", "original_title": "Qalupalik", "slug_title": "qalupalik", "date": "2010-06-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sam Tutanuak (Narrator)"], "comments": [], "recommandations_id": []}

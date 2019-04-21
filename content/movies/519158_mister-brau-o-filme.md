@@ -1,0 +1,1 @@
+{"tmdb_id": 519158, "title": "Mister Brau: O Filme", "original_title": "Mister Brau: O Filme", "slug_title": "mister-brau-o-filme", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48bLNXBswtT2a8nYrWYwQe3kHWA.jpg", "actors": [], "comments": [], "recommandations_id": []}

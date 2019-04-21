@@ -1,0 +1,1 @@
+{"tmdb_id": 333994, "title": "Scream Club - And You Belong", "original_title": "Scream Club - And You Belong", "slug_title": "scream-club-and-you-belong", "date": "2015-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

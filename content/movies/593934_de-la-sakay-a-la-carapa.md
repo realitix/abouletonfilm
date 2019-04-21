@@ -1,0 +1,1 @@
+{"tmdb_id": 593934, "title": "De la Sakay \u00e0 la Carapa", "original_title": "De la Sakay \u00e0 la Carapa", "slug_title": "de-la-sakay-a-la-carapa", "date": "2016-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOwSOuOY1HPBs00tnGmNMkcFksT.jpg", "actors": [], "comments": [], "recommandations_id": []}

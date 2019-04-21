@@ -1,0 +1,1 @@
+{"tmdb_id": 202039, "title": "I Wanna Play House", "original_title": "I Wanna Play House", "slug_title": "i-wanna-play-house", "date": "1936-01-10", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7CbEO0rXirEOsMGwnJjG5Qh86O7.jpg", "actors": [], "comments": [], "recommandations_id": []}

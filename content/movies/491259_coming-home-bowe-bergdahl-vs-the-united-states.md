@@ -1,0 +1,1 @@
+{"tmdb_id": 491259, "title": "Coming Home: Bowe Bergdahl Vs. The United States", "original_title": "Coming Home: Bowe Bergdahl Vs. The United States", "slug_title": "coming-home-bowe-bergdahl-vs-the-united-states", "date": "2017-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 555938, "title": "La r\u00e9surrection du Bouif", "original_title": "La r\u00e9surrection du Bouif", "slug_title": "la-resurrection-du-bouif", "date": "1922-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

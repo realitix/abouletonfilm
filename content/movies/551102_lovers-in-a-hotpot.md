@@ -1,0 +1,1 @@
+{"tmdb_id": 551102, "title": "Lovers in a Hotpot", "original_title": "\u706b\u9505\u5e97\u7684\u7231\u4eba\u4eec", "slug_title": "lovers-in-a-hotpot", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQUXjuTP1yv0Qg3ZxDfEhrhZJ9i.jpg", "actors": [], "comments": [], "recommandations_id": []}

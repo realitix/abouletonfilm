@@ -1,0 +1,1 @@
+{"tmdb_id": 569266, "title": "Watashi Wa", "original_title": "Watashi Wa", "slug_title": "watashi-wa", "date": "2018-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsPWFhXAqE5Rn4P7kp5pNMv2Jt9.jpg", "actors": ["Sam Golding (Man)", "Sam Stone (Other Man)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 60035, "title": "Dreams on Spec", "original_title": "Dreams on Spec", "slug_title": "dreams-on-spec", "date": "2007-01-01", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5SyB21dOJC2LkjZWGJCD2hr5qZT.jpg", "actors": [], "comments": [], "recommandations_id": [473553]}

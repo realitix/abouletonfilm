@@ -1,0 +1,1 @@
+{"tmdb_id": 249885, "title": "Tu Seras Mon Alli\u00e9", "original_title": "Tu Seras Mon Alli\u00e9", "slug_title": "tu-seras-mon-allie", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bwanga Pilipili ()", "Ga\u00ebl Maleux ()", "Isabelle Anciaux ()"], "comments": [], "recommandations_id": []}

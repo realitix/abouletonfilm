@@ -1,0 +1,1 @@
+{"tmdb_id": 296269, "title": "The Rules of the Game", "original_title": "The Rules of the Game", "slug_title": "the-rules-of-the-game", "date": "2009-10-05", "genre": "Com\u00e9die / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

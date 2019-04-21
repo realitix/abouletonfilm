@@ -1,0 +1,1 @@
+{"tmdb_id": 276845, "title": "The Medium Is the Medium", "original_title": "The Medium Is the Medium", "slug_title": "the-medium-is-the-medium", "date": "1968-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eg8ug4N74jniYahaLqyG4WtNBjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

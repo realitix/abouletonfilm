@@ -1,0 +1,1 @@
+{"tmdb_id": 251506, "title": "Chetzemoka's Curse", "original_title": "Chetzemoka's Curse", "slug_title": "chetzemoka-s-curse", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RObbzfI4CfD6GwCyvNPIM7v4rl.jpg", "actors": ["Maya Berthoud (Marie)"], "comments": [], "recommandations_id": []}

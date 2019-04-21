@@ -1,0 +1,1 @@
+{"tmdb_id": 339300, "title": "Cricket in the '70s", "original_title": "Cricket in the '70s", "slug_title": "cricket-in-the-70s", "date": "2002-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uByJFZoptvoqDaJx7TZYgjrxm1w.jpg", "actors": [], "comments": [], "recommandations_id": []}

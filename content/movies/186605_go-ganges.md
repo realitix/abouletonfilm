@@ -1,0 +1,1 @@
+{"tmdb_id": 186605, "title": "Go Ganges!", "original_title": "Go Ganges!", "slug_title": "go-ganges", "date": "2012-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxN2jdGfzDq6yOomCO1eab7nmVE.jpg", "actors": ["J.J. Kelley ()"], "comments": [], "recommandations_id": []}

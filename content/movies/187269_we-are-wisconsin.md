@@ -1,0 +1,1 @@
+{"tmdb_id": 187269, "title": "We Are Wisconsin", "original_title": "We Are Wisconsin", "slug_title": "we-are-wisconsin", "date": "2012-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xaQEI2fscf3tTiy4s0hdKs73hOS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474878, "title": "Beat Cops", "original_title": "Beat Cops", "slug_title": "beat-cops", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

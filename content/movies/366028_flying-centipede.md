@@ -1,0 +1,1 @@
+{"tmdb_id": 366028, "title": "Flying Centipede", "original_title": "Flying Centipede", "slug_title": "flying-centipede", "date": "1994-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

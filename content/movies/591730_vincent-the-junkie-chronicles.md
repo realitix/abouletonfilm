@@ -1,0 +1,1 @@
+{"tmdb_id": 591730, "title": "Vincent: The Junkie Chronicles", "original_title": "Vincent: The Junkie Chronicles", "slug_title": "vincent-the-junkie-chronicles", "date": "2000-01-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent (Himself)"], "comments": [], "recommandations_id": []}

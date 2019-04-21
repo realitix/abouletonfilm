@@ -1,0 +1,1 @@
+{"tmdb_id": 62895, "title": "Ai Que Vida!", "original_title": "Ai Que Vida!", "slug_title": "ai-que-vida", "date": "2008-09-14", "genre": "Com\u00e9die / Romance", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccNAovoM5bcJQWYyVfEbiah4LWi.jpg", "actors": [], "comments": [], "recommandations_id": []}

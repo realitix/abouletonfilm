@@ -1,0 +1,1 @@
+{"tmdb_id": 507267, "title": "THE JOCKSTRAP RAIDERS", "original_title": "THE JOCKSTRAP RAIDERS", "slug_title": "the-jockstrap-raiders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

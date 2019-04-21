@@ -1,0 +1,1 @@
+{"tmdb_id": 195703, "title": "Sampson-Schley Controversy", "original_title": "Sampson-Schley Controversy", "slug_title": "sampson-schley-controversy", "date": "1901-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

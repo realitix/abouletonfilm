@@ -1,0 +1,1 @@
+{"tmdb_id": 505413, "title": "The Weight", "original_title": "The Weight", "slug_title": "the-weight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Viviana Chavez (Gabbit)", "Emily Dunlop (Emma)", "AJ Jones (John)", "Patrick R. Walker (Chris)"], "comments": [], "recommandations_id": []}

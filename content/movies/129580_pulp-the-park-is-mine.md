@@ -1,0 +1,1 @@
+{"tmdb_id": 129580, "title": "Pulp - The Park is Mine", "original_title": "Pulp - The Park is Mine", "slug_title": "pulp-the-park-is-mine", "date": "1998-07-25", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46uCacaHZb6g9x7UvOkt2RV1OZc.jpg", "actors": ["Pulp (Band)"], "comments": [], "recommandations_id": []}

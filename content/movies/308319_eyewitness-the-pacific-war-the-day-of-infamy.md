@@ -1,0 +1,1 @@
+{"tmdb_id": 308319, "title": "Eyewitness: The Pacific War: The Day of Infamy", "original_title": "Eyewitness: The Pacific War: The Day of Infamy", "slug_title": "eyewitness-the-pacific-war-the-day-of-infamy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

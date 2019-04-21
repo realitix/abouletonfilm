@@ -1,0 +1,1 @@
+{"tmdb_id": 139247, "title": "Old Doc Yak and the Artist's Dream", "original_title": "Old Doc Yak and the Artist's Dream", "slug_title": "old-doc-yak-and-the-artist-s-dream", "date": "1913-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Randolph Bray ()"], "comments": [], "recommandations_id": []}

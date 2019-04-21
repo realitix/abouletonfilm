@@ -1,0 +1,1 @@
+{"tmdb_id": 577107, "title": "Stiller Kamerad", "original_title": "Stiller Kamerad", "slug_title": "stiller-kamerad", "date": "2018-12-02", "genre": "Documentaire / Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3XXyiu5swUSOE6nccwj4DzQ5ry.jpg", "actors": [], "comments": [], "recommandations_id": []}

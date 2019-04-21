@@ -1,0 +1,1 @@
+{"tmdb_id": 572559, "title": "Chapachula", "original_title": "\u05e6'\u05e4\u05e6'\u05d5\u05dc\u05d4", "slug_title": "chapachula", "date": "", "genre": "Familial / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkZl1Q0EoiruXHVzaWO2hKaJvLY.jpg", "actors": [], "comments": [], "recommandations_id": []}

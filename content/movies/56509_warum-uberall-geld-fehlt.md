@@ -1,0 +1,1 @@
+{"tmdb_id": 56509, "title": "Warum \u00fcberall Geld fehlt", "original_title": "Warum \u00fcberall Geld fehlt", "slug_title": "warum-uberall-geld-fehlt", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

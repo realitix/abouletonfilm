@@ -1,0 +1,1 @@
+{"tmdb_id": 385858, "title": "Curious Buddies - Let's Move", "original_title": "Curious Buddies - Let's Move", "slug_title": "curious-buddies-let-s-move", "date": "2005-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cY3gFjVef6mBphA9FzbLRQAZhzS.jpg", "actors": [], "comments": [], "recommandations_id": []}

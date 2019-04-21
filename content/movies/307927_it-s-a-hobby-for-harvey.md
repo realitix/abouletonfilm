@@ -1,0 +1,1 @@
+{"tmdb_id": 307927, "title": "It's a Hobby for Harvey", "original_title": "It's a Hobby for Harvey", "slug_title": "it-s-a-hobby-for-harvey", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

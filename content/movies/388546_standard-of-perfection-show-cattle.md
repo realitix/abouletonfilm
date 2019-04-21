@@ -1,0 +1,1 @@
+{"tmdb_id": 388546, "title": "Standard of Perfection: Show Cattle", "original_title": "Standard of Perfection: Show Cattle", "slug_title": "standard-of-perfection-show-cattle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

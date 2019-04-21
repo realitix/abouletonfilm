@@ -1,0 +1,1 @@
+{"tmdb_id": 386145, "title": "Banal Kahoy", "original_title": "Banal Kahoy", "slug_title": "banal-kahoy", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

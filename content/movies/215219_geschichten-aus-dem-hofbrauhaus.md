@@ -1,0 +1,1 @@
+{"tmdb_id": 215219, "title": "Geschichten aus dem Hofbr\u00e4uhaus", "original_title": "Geschichten aus dem Hofbr\u00e4uhaus", "slug_title": "geschichten-aus-dem-hofbrauhaus", "date": "", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 162663, "title": "Musical Justice", "original_title": "Musical Justice", "slug_title": "musical-justice", "date": "1931-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

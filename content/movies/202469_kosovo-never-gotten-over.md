@@ -1,0 +1,1 @@
+{"tmdb_id": 202469, "title": "Kosovo Never Gotten Over", "original_title": "Kosovo neotu\u0111ivo", "slug_title": "kosovo-never-gotten-over", "date": "1990-03-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jdmnFsPGnGxfKWj5UPK1XQ6r8FT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 521684, "title": "Wagakki Band - 1st US Tour Shougeki - Deep Impact", "original_title": "Wagakki Band - 1st US Tour Shougeki - Deep Impact", "slug_title": "wagakki-band-1st-us-tour-shougeki-deep-impact", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 425992, "title": "Thirteen Days", "original_title": "Thirteen Days", "slug_title": "thirteen-days", "date": "1930-12-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nikolai Krylenko (Himself - Public Defender)", "Leonid Ramzin (Himself - Accused)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323557, "title": "Newton : Tale of Two Issacs", "original_title": "Newton : Tale of Two Issacs", "slug_title": "newton-tale-of-two-issacs", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

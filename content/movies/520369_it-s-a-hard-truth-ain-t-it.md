@@ -1,0 +1,1 @@
+{"tmdb_id": 520369, "title": "It's a Hard Truth Ain't It", "original_title": "It's a Hard Truth Ain't It", "slug_title": "it-s-a-hard-truth-ain-t-it", "date": "2018-04-25", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwmhv2hhmyABeSwc4UKapuc3aGX.jpg", "actors": [], "comments": [], "recommandations_id": []}

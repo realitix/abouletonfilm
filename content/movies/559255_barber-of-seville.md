@@ -1,0 +1,1 @@
+{"tmdb_id": 559255, "title": "Barber of Seville", "original_title": "Le barbier de S\u00e9ville", "slug_title": "barber-of-seville", "date": "1948-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9cYz3Hnwdu4J4TuUslyRAyndz8u.jpg", "actors": [], "comments": [], "recommandations_id": []}

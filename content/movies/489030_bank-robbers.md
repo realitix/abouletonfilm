@@ -1,0 +1,1 @@
+{"tmdb_id": 489030, "title": "Bank Robbers", "original_title": "Bank Robbers", "slug_title": "bank-robbers", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

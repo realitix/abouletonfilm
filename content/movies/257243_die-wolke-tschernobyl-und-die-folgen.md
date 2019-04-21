@@ -1,0 +1,1 @@
+{"tmdb_id": 257243, "title": "Die Wolke \u2013 Tschernobyl und die Folgen", "original_title": "Die Wolke \u2013 Tschernobyl und die Folgen", "slug_title": "die-wolke-tschernobyl-und-die-folgen", "date": "2011-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

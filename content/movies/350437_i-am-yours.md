@@ -1,0 +1,1 @@
+{"tmdb_id": 350437, "title": "I Am Yours", "original_title": "Jestem tw\u00f3j", "slug_title": "i-am-yours", "date": "2010-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7pbuFopcOCN5BQVPILrtyvDXmwe.jpg", "actors": [], "comments": [], "recommandations_id": []}

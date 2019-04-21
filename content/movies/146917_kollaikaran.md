@@ -1,0 +1,1 @@
+{"tmdb_id": 146917, "title": "Kollaikaran", "original_title": "Kollaikaran", "slug_title": "kollaikaran", "date": "2012-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKdpbadNhWCRxNGzb47qKu82TYZ.jpg", "actors": ["Vidharth (Kuruvi)", "Sanchita Shetty (Krishnaveni)"], "comments": [], "recommandations_id": []}

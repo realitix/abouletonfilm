@@ -1,0 +1,1 @@
+{"tmdb_id": 205641, "title": "Picnic Panic", "original_title": "Picnic Panic", "slug_title": "picnic-panic", "date": "1946-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

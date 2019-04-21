@@ -1,0 +1,1 @@
+{"tmdb_id": 60544, "title": "American Meth", "original_title": "American Meth", "slug_title": "american-meth", "date": "2008-02-26", "genre": "Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYsIEc4WTL2MyDjSqjtYmued3WT.jpg", "actors": ["Val Kilmer (Narrator)"], "comments": [], "recommandations_id": [23726]}

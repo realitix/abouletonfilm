@@ -1,0 +1,1 @@
+{"tmdb_id": 311728, "title": "Phil Lesh and Friends: Live at the Warfield", "original_title": "Phil Lesh and Friends: Live at the Warfield", "slug_title": "phil-lesh-and-friends-live-at-the-warfield", "date": "2006-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

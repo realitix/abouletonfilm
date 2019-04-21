@@ -1,0 +1,1 @@
+{"tmdb_id": 208658, "title": "Nitemare", "original_title": "Nitemare", "slug_title": "nitemare", "date": "1980-01-01", "genre": "Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bt7RI7hyuBzVimYNeuucg7ML6aX.jpg", "actors": [], "comments": [], "recommandations_id": [208670, 209676, 209674, 209681]}

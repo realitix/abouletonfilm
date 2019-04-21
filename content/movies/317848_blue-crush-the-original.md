@@ -1,0 +1,1 @@
+{"tmdb_id": 317848, "title": "Blue Crush: The Original", "original_title": "Blue Crush: The Original", "slug_title": "blue-crush-the-original", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

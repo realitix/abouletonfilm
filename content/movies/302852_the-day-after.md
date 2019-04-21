@@ -1,0 +1,1 @@
+{"tmdb_id": 302852, "title": "The Day After", "original_title": "Kinabukasan", "slug_title": "the-day-after", "date": "2014-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nora Aunor ()", "Alden Richards ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 537787, "title": "La m\u00fasica del tiro a gol", "original_title": "La m\u00fasica del tiro a gol", "slug_title": "la-musica-del-tiro-a-gol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284602, "title": "U2 Niezapomniana podr\u00f3\u017c", "original_title": "U2 Niezapomniana podr\u00f3\u017c", "slug_title": "u2-niezapomniana-podroz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhzkcFSwPrksZljYyK41fuHXn6B.jpg", "actors": [], "comments": [], "recommandations_id": []}

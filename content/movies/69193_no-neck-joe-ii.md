@@ -1,0 +1,1 @@
+{"tmdb_id": 69193, "title": "No Neck Joe II", "original_title": "No Neck Joe II", "slug_title": "no-neck-joe-ii", "date": "1996-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CwNcGNeA1XZZ5H1hIAfVPvxBQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

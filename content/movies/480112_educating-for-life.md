@@ -1,0 +1,1 @@
+{"tmdb_id": 480112, "title": "Educating For Life", "original_title": "Educating For Life", "slug_title": "educating-for-life", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betty Stanley (Narrator)"], "comments": [], "recommandations_id": []}

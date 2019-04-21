@@ -1,0 +1,1 @@
+{"tmdb_id": 392747, "title": "The New Angels", "original_title": "I nuovi angeli", "slug_title": "the-new-angels", "date": "1962-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uth8mV112jAF9RvLyoGaELOLQe.jpg", "actors": [], "comments": [], "recommandations_id": []}

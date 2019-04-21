@@ -1,0 +1,1 @@
+{"tmdb_id": 332732, "title": "Waking Up", "original_title": "Acordar", "slug_title": "waking-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eduardo Silva ()"], "comments": [], "recommandations_id": []}

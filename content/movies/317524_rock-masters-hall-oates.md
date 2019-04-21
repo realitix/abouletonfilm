@@ -1,0 +1,1 @@
+{"tmdb_id": 317524, "title": "Rock Masters: Hall & Oates", "original_title": "Rock Masters: Hall & Oates", "slug_title": "rock-masters-hall-oates", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

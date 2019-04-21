@@ -1,0 +1,1 @@
+{"tmdb_id": 568290, "title": "Michael Got His Gun", "original_title": "Michael Got His Gun", "slug_title": "michael-got-his-gun", "date": "2008-12-20", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

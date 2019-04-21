@@ -1,0 +1,1 @@
+{"tmdb_id": 292156, "title": "Mike's Casting 3", "original_title": "Mike's Casting 3", "slug_title": "mike-s-casting-3", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vivian Schmitt (Candy Moore)"], "comments": [], "recommandations_id": []}

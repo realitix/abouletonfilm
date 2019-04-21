@@ -1,0 +1,1 @@
+{"tmdb_id": 511753, "title": "Transmuta\u00e7\u00e3o da carne", "original_title": "Transmuta\u00e7\u00e3o da carne", "slug_title": "transmutacao-da-carne", "date": "2015-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

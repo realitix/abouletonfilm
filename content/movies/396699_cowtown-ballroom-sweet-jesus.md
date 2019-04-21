@@ -1,0 +1,1 @@
+{"tmdb_id": 396699, "title": "Cowtown Ballroom: Sweet Jesus", "original_title": "Cowtown Ballroom: Sweet Jesus", "slug_title": "cowtown-ballroom-sweet-jesus", "date": "2009-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

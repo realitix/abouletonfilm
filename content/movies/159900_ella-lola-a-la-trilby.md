@@ -1,0 +1,1 @@
+{"tmdb_id": 159900, "title": "Ella Lola, a la Trilby", "original_title": "Ella Lola, a la Trilby", "slug_title": "ella-lola-a-la-trilby", "date": "1898-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bLPnhXKyMrUVdiOTaOXLflO4bW.jpg", "actors": ["Ella Lola (Herself)"], "comments": [], "recommandations_id": []}

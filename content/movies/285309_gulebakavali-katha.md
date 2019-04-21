@@ -1,0 +1,1 @@
+{"tmdb_id": 285309, "title": "Gulebakavali Katha", "original_title": "Gulebakavali Katha", "slug_title": "gulebakavali-katha", "date": "1962-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

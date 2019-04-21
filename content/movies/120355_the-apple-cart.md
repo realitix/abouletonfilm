@@ -1,0 +1,1 @@
+{"tmdb_id": 120355, "title": "The Apple Cart", "original_title": "The Apple Cart", "slug_title": "the-apple-cart", "date": "1975-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helen Mirren ()", "Nigel Davenport (King Magnus)", "Prunella Scales (Queen Jemima)", "Beryl Reid (Amanda)"], "comments": [], "recommandations_id": []}

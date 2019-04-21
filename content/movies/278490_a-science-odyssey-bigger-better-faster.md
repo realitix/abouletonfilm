@@ -1,0 +1,1 @@
+{"tmdb_id": 278490, "title": "A Science Odyssey: Bigger, Better, Faster", "original_title": "A Science Odyssey: Bigger, Better, Faster", "slug_title": "a-science-odyssey-bigger-better-faster", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

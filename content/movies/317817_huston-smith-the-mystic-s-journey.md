@@ -1,0 +1,1 @@
+{"tmdb_id": 317817, "title": "Huston Smith: The Mystic's Journey", "original_title": "Huston Smith: The Mystic's Journey", "slug_title": "huston-smith-the-mystic-s-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

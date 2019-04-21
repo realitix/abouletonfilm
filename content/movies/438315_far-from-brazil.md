@@ -1,0 +1,1 @@
+{"tmdb_id": 438315, "title": "Far from Brazil", "original_title": "Loin du Br\u00e9sil", "slug_title": "far-from-brazil", "date": "1992-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8Hu1ffa3neHT90T7rHAjJwZmTU.jpg", "actors": ["Emmanuelle Riva ()", "Jenny Cl\u00e8ve ()"], "comments": [], "recommandations_id": []}

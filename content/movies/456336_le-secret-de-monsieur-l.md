@@ -1,0 +1,1 @@
+{"tmdb_id": 456336, "title": "Le secret de monsieur L", "original_title": "Le secret de monsieur L", "slug_title": "le-secret-de-monsieur-l", "date": "1983-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

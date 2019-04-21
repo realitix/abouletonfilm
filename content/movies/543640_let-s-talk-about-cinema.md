@@ -1,0 +1,1 @@
+{"tmdb_id": 543640, "title": "Let's Talk About Cinema", "original_title": "Let's Talk About Cinema", "slug_title": "let-s-talk-about-cinema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

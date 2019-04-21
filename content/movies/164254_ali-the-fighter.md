@@ -1,0 +1,1 @@
+{"tmdb_id": 164254, "title": "Ali - The Fighter", "original_title": "Ali - The Fighter", "slug_title": "ali-the-fighter", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wxettBjPWeXid0QmPezqNELnX5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367675, "title": "Dance of the Pendulum", "original_title": "Dance of the Pendulum", "slug_title": "dance-of-the-pendulum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301619, "title": "Charitraheen", "original_title": "Charitraheen", "slug_title": "charitraheen", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

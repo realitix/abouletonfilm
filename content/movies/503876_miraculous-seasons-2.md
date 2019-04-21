@@ -1,0 +1,1 @@
+{"tmdb_id": 503876, "title": "Miraculous seasons 2", "original_title": "Miraculous seasons 2", "slug_title": "miraculous-seasons-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

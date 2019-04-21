@@ -1,0 +1,1 @@
+{"tmdb_id": 507619, "title": "Alldays: Ni-ch\u00f4me no asahi", "original_title": "Alldays: Ni-ch\u00f4me no asahi", "slug_title": "alldays-ni-chome-no-asahi", "date": "2008-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6VmfbJT7m0f23gYAy5IjDFhSuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

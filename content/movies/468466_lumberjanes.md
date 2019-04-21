@@ -1,0 +1,1 @@
+{"tmdb_id": 468466, "title": "Lumberjanes", "original_title": "Lumberjanes", "slug_title": "lumberjanes", "date": "", "genre": "Fantastique / Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

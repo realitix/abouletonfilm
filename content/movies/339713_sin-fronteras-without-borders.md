@@ -1,0 +1,1 @@
+{"tmdb_id": 339713, "title": "Sin Fronteras Without Borders", "original_title": "Sin Fronteras Without Borders", "slug_title": "sin-fronteras-without-borders", "date": "2015-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

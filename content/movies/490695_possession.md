@@ -1,0 +1,1 @@
+{"tmdb_id": 490695, "title": "Possession", "original_title": "Posesi\u00f3n", "slug_title": "possession", "date": "1986-12-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ricardo Islas (Damian)"], "comments": [], "recommandations_id": []}

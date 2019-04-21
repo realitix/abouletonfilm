@@ -1,0 +1,1 @@
+{"tmdb_id": 487820, "title": "Shutdown", "original_title": "Shutdown", "slug_title": "shutdown", "date": "1975-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

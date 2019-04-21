@@ -1,0 +1,1 @@
+{"tmdb_id": 296714, "title": "Garabatos", "original_title": "Garabatos", "slug_title": "garabatos", "date": "1964-01-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

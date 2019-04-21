@@ -1,0 +1,1 @@
+{"tmdb_id": 504476, "title": "\ub0b4 \uc544\ub0b4\uc758 \uce5c\uad6c-\ubb34\uc0ad\uc81c\ud310", "original_title": "\ub0b4 \uc544\ub0b4\uc758 \uce5c\uad6c-\ubb34\uc0ad\uc81c\ud310", "slug_title": "nae-anaeyi-cingu-musagjepan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

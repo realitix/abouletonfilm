@@ -1,0 +1,1 @@
+{"tmdb_id": 492585, "title": "U\u00e7an Z\u00fcraf\u0259", "original_title": "U\u00e7an Z\u00fcraf\u0259", "slug_title": "ucan-zuraf", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nj8NkfqelZS1BwxYG17oBBWYeSz.jpg", "actors": [], "comments": [], "recommandations_id": []}

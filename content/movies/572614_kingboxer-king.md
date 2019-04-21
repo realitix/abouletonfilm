@@ -1,0 +1,1 @@
+{"tmdb_id": 572614, "title": "Kingboxer King", "original_title": "Kingboxer King", "slug_title": "kingboxer-king", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

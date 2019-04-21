@@ -1,0 +1,1 @@
+{"tmdb_id": 37466, "title": "Alice in Chains: Live at Rock Am Ring", "original_title": "Alice in Chains: Live at Rock Am Ring", "slug_title": "alice-in-chains-live-at-rock-am-ring", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

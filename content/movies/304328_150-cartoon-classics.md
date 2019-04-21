@@ -1,0 +1,1 @@
+{"tmdb_id": 304328, "title": "150 Cartoon Classics", "original_title": "150 Cartoon Classics", "slug_title": "150-cartoon-classics", "date": "2006-02-07", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSI64kATsyeUZiYXYoVgELGD0We.jpg", "actors": [], "comments": [], "recommandations_id": []}

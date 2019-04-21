@@ -1,0 +1,1 @@
+{"tmdb_id": 350474, "title": "\ub9f9\ub8e1\uc544\ud638", "original_title": "\ub9f9\ub8e1\uc544\ud638", "slug_title": "maengryongaho", "date": "1979-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

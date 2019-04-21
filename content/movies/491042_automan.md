@@ -1,0 +1,1 @@
+{"tmdb_id": 491042, "title": "Automan", "original_title": "Automan", "slug_title": "automan", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lyIPjoPZ5zHbnYY9JKFnmVI82p.jpg", "actors": [], "comments": [], "recommandations_id": []}

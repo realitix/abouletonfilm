@@ -1,0 +1,1 @@
+{"tmdb_id": 545480, "title": "Chapuling Times", "original_title": "Chapuling Times", "slug_title": "chapuling-times", "date": "2014-01-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313315, "title": "Fists of Vengeance", "original_title": "\u9664\u66b4", "slug_title": "fists-of-vengeance", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4N2GblxYkAbzS9kzivCAKXa5qfT.jpg", "actors": ["Yasuaki Kurata ()"], "comments": [], "recommandations_id": []}

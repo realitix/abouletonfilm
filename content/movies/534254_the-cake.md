@@ -1,0 +1,1 @@
+{"tmdb_id": 534254, "title": "The Cake", "original_title": "The Cake", "slug_title": "the-cake", "date": "1995-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

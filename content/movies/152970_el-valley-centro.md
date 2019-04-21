@@ -1,0 +1,1 @@
+{"tmdb_id": 152970, "title": "El Valley Centro", "original_title": "El Valley Centro", "slug_title": "el-valley-centro", "date": "1999-12-05", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hckegn5j2GvJeXMvvtA4oEnXZfM.jpg", "actors": [], "comments": [], "recommandations_id": [130646, 155924, 217477, 49099]}

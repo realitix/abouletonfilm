@@ -1,0 +1,1 @@
+{"tmdb_id": 529343, "title": "Hantu Raya Tumpang Beraya", "original_title": "Hantu Raya Tumpang Beraya", "slug_title": "hantu-raya-tumpang-beraya", "date": "", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BMrkSc5O0T8RNukE7BrM5bnzAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

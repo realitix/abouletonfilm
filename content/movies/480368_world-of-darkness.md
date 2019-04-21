@@ -1,0 +1,1 @@
+{"tmdb_id": 480368, "title": "World of Darkness", "original_title": "World of Darkness", "slug_title": "world-of-darkness", "date": "2017-05-11", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hAmNytQlOubMNM3JChoa6mnKxk3.jpg", "actors": [], "comments": [], "recommandations_id": []}

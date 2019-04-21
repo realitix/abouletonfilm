@@ -1,0 +1,1 @@
+{"tmdb_id": 333228, "title": "The Spirit of Things", "original_title": "Ru'hach Hadevarim", "slug_title": "the-spirit-of-things", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

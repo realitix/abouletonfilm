@@ -1,0 +1,1 @@
+{"tmdb_id": 67386, "title": "Bin Bulaye Baraati", "original_title": "Bin Bulaye Baraati", "slug_title": "bin-bulaye-baraati", "date": "2011-06-17", "genre": "Com\u00e9die / Crime / Action", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5C97hZw6Ldel86gdaUNY71tjd43.jpg", "actors": [], "comments": [], "recommandations_id": []}

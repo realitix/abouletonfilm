@@ -1,0 +1,1 @@
+{"tmdb_id": 39268, "title": "Buryure", "original_title": "Buryure", "slug_title": "buryure", "date": "2008-10-23", "genre": "Drame / Thriller", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oA4KgtRFHKwII5UqThw3OTF94AH.jpg", "actors": [], "comments": [], "recommandations_id": [126853, 113211, 123615, 79876]}

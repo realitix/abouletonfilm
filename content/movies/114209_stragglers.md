@@ -1,0 +1,1 @@
+{"tmdb_id": 114209, "title": "Stragglers", "original_title": "Stragglers", "slug_title": "stragglers", "date": "2004-10-08", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9oDVdW7sr1fYkkkcoXQxfG0eEO.jpg", "actors": [], "comments": [], "recommandations_id": []}

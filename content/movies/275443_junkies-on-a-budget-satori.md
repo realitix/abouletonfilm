@@ -1,0 +1,1 @@
+{"tmdb_id": 275443, "title": "Junkies on a Budget: Satori", "original_title": "Junkies on a Budget: Satori", "slug_title": "junkies-on-a-budget-satori", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

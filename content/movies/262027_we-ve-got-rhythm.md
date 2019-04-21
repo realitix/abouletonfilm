@@ -1,0 +1,1 @@
+{"tmdb_id": 262027, "title": "We've Got Rhythm", "original_title": "Y... tenemos sabor", "slug_title": "we-ve-got-rhythm", "date": "1967-01-01", "genre": "Documentaire / Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHRsWKgHBUfOjo6IrEUHDXBvvTb.jpg", "actors": [], "comments": [], "recommandations_id": []}

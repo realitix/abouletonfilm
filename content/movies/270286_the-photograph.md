@@ -1,0 +1,1 @@
+{"tmdb_id": 270286, "title": "The Photograph", "original_title": "I Fotografia", "slug_title": "the-photograph", "date": "1986-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrrzTSc21iyOp7LXdIC9xSdpRxp.jpg", "actors": ["Christos Tsagas (Actor)"], "comments": [], "recommandations_id": []}

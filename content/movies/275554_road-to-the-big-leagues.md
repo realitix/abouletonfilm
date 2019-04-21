@@ -1,0 +1,1 @@
+{"tmdb_id": 275554, "title": "Road to the Big Leagues", "original_title": "Road to the Big Leagues", "slug_title": "road-to-the-big-leagues", "date": "2008-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

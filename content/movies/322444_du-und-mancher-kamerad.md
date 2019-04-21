@@ -1,0 +1,1 @@
+{"tmdb_id": 322444, "title": "Du und mancher Kamerad", "original_title": "Du und mancher Kamerad", "slug_title": "du-und-mancher-kamerad", "date": "1956-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

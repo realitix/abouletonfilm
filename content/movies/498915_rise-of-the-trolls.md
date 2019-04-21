@@ -1,0 +1,1 @@
+{"tmdb_id": 498915, "title": "Rise of the Trolls", "original_title": "Rise of the Trolls", "slug_title": "rise-of-the-trolls", "date": "2016-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpzUIBtJH9aKZsaZMpzgPLsNc2M.jpg", "actors": [], "comments": [], "recommandations_id": []}

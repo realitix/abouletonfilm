@@ -1,0 +1,1 @@
+{"tmdb_id": 590657, "title": "Zombies in the dark", "original_title": "Zombi nell\u2019oscurit\u00e0", "slug_title": "zombies-in-the-dark", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

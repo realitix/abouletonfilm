@@ -1,0 +1,1 @@
+{"tmdb_id": 489134, "title": "Jaws of the Jungle", "original_title": "Jaws of the Jungle", "slug_title": "jaws-of-the-jungle", "date": "1936-04-01", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1bTLuR5S4u82Tpaea3sZVb5eJb.jpg", "actors": ["Cliff Howell (Narrator)"], "comments": [], "recommandations_id": []}

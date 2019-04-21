@@ -1,0 +1,1 @@
+{"tmdb_id": 353849, "title": "Operation Cobra", "original_title": "Op\u00e9ration Cobra", "slug_title": "operation-cobra", "date": "2001-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcaGVsdm1t0ORRjI9MSXdc6d2p7.jpg", "actors": [], "comments": [], "recommandations_id": []}

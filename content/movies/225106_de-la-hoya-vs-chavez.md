@@ -1,0 +1,1 @@
+{"tmdb_id": 225106, "title": "De La Hoya vs. Chavez", "original_title": "De La Hoya vs. Chavez", "slug_title": "de-la-hoya-vs-chavez", "date": "1996-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Js8w7G3ZyzfJXVjkj01rYM1KpM.jpg", "actors": [], "comments": [], "recommandations_id": []}

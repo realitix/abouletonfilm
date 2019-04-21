@@ -1,0 +1,1 @@
+{"tmdb_id": 171463, "title": "Earth, Wind and Fire Oakland CA", "original_title": "Earth, Wind and Fire Oakland CA", "slug_title": "earth-wind-and-fire-oakland-ca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajYqQsomxecHsQGlvRbMF5qYq9U.jpg", "actors": [], "comments": [], "recommandations_id": []}

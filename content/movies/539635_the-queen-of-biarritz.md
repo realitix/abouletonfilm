@@ -1,0 +1,1 @@
+{"tmdb_id": 539635, "title": "The Queen of Biarritz", "original_title": "La reine de Biarritz", "slug_title": "the-queen-of-biarritz", "date": "1934-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

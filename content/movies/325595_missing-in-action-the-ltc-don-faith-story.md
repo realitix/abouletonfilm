@@ -1,0 +1,1 @@
+{"tmdb_id": 325595, "title": "Missing in Action: The LTC Don Faith Story", "original_title": "Missing in Action: The LTC Don Faith Story", "slug_title": "missing-in-action-the-ltc-don-faith-story", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

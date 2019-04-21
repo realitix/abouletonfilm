@@ -1,0 +1,1 @@
+{"tmdb_id": 47772, "title": "Ys: Book One", "original_title": "Ys: Book One", "slug_title": "ys-book-one", "date": "2002-09-24", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7WtZNgdrb9FPlEGkzPPp6Uz6sQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

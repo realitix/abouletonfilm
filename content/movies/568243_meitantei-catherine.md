@@ -1,0 +1,1 @@
+{"tmdb_id": 568243, "title": "Meitantei Catherine", "original_title": "Meitantei Catherine", "slug_title": "meitantei-catherine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shosuke Tanihara (Hamaguchi Ichiro)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 452164, "title": "Girl Band", "original_title": "Girl Band", "slug_title": "girl-band", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

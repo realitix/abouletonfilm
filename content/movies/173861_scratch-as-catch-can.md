@@ -1,0 +1,1 @@
+{"tmdb_id": 173861, "title": "Scratch-As-Catch-Can", "original_title": "Scratch-As-Catch-Can", "slug_title": "scratch-as-catch-can", "date": "1931-11-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

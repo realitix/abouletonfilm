@@ -1,0 +1,1 @@
+{"tmdb_id": 414228, "title": "The Border City 2", "original_title": "\uacbd\uacc4\ub3c4\uc2dc 2", "slug_title": "the-border-city-2", "date": "2010-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iD9I9gIjcC83KW9rbtyPnRULhzr.jpg", "actors": [], "comments": [], "recommandations_id": []}

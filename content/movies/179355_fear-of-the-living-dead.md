@@ -1,0 +1,1 @@
+{"tmdb_id": 179355, "title": "Fear Of The Living Dead", "original_title": "Fear Of The Living Dead", "slug_title": "fear-of-the-living-dead", "date": "2009-06-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

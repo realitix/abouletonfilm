@@ -1,0 +1,1 @@
+{"tmdb_id": 271403, "title": "The Talking Teddie Sic", "original_title": "The Talking Teddie Sic", "slug_title": "the-talking-teddie-sic", "date": "1925-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

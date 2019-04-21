@@ -1,0 +1,1 @@
+{"tmdb_id": 354441, "title": "Madmast Barkhaa", "original_title": "Madmast Barkhaa", "slug_title": "madmast-barkhaa", "date": "2015-07-03", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFiZtpX3WZtijiUxXsdaKuWloIk.jpg", "actors": ["Leena Kapoor (Barkhaa)"], "comments": [], "recommandations_id": []}

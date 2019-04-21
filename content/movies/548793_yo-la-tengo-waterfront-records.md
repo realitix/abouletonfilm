@@ -1,0 +1,1 @@
+{"tmdb_id": 548793, "title": "Yo La Tengo Waterfront Records", "original_title": "Yo La Tengo Waterfront Records", "slug_title": "yo-la-tengo-waterfront-records", "date": "1998-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

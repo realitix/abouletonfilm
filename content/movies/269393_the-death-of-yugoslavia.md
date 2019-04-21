@@ -1,0 +1,1 @@
+{"tmdb_id": 269393, "title": "The Death of Yugoslavia", "original_title": "The Death of Yugoslavia", "slug_title": "the-death-of-yugoslavia", "date": "1995-09-03", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ey6aHrLDw8O9eBWxzUnMCET98c.jpg", "actors": [], "comments": [], "recommandations_id": []}

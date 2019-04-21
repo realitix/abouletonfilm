@@ -1,0 +1,1 @@
+{"tmdb_id": 373456, "title": "Stopover in Hollywood", "original_title": "Stopover in Hollywood", "slug_title": "stopover-in-hollywood", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

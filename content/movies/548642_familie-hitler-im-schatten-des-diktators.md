@@ -1,0 +1,1 @@
+{"tmdb_id": 548642, "title": "Familie Hitler - Im Schatten des Diktators", "original_title": "Familie Hitler - Im Schatten des Diktators", "slug_title": "familie-hitler-im-schatten-des-diktators", "date": "2005-08-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

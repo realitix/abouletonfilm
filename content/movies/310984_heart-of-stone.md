@@ -1,0 +1,1 @@
+{"tmdb_id": 310984, "title": "Heart of Stone", "original_title": "Pusong bato", "slug_title": "heart-of-stone", "date": "2014-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

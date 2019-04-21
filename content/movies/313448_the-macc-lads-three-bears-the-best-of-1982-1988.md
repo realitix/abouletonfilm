@@ -1,0 +1,1 @@
+{"tmdb_id": 313448, "title": "The Macc Lads: Three Bears: The Best of 1982-1988", "original_title": "The Macc Lads: Three Bears: The Best of 1982-1988", "slug_title": "the-macc-lads-three-bears-the-best-of-1982-1988", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397315, "title": "Diabetes in Retreat", "original_title": "Diabetes in Retreat", "slug_title": "diabetes-in-retreat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1e4ntC9D72uzXuzujfX2YMqM99F.jpg", "actors": ["Linda Carney (Herself)"], "comments": [], "recommandations_id": []}

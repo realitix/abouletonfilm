@@ -1,0 +1,1 @@
+{"tmdb_id": 434703, "title": "Dead Ring", "original_title": "Dead Ring", "slug_title": "dead-ring", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6mvarqg7gRFiuI4ebLyXT322DYI.jpg", "actors": [], "comments": [], "recommandations_id": []}

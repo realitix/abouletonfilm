@@ -1,0 +1,1 @@
+{"tmdb_id": 572954, "title": "Le Syndrome des Indes", "original_title": "Le Syndrome des Indes", "slug_title": "le-syndrome-des-indes", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

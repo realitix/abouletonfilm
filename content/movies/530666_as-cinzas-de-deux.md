@@ -1,0 +1,1 @@
+{"tmdb_id": 530666, "title": "As Cinzas de Deux", "original_title": "As Cinzas de Deux", "slug_title": "as-cinzas-de-deux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

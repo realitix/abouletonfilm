@@ -1,0 +1,1 @@
+{"tmdb_id": 363820, "title": "Echoes of Bats and Men", "original_title": "Echoes of Bats and Men", "slug_title": "echoes-of-bats-and-men", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

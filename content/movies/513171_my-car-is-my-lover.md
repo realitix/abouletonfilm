@@ -1,0 +1,1 @@
+{"tmdb_id": 513171, "title": "My Car is My Lover", "original_title": "My Car is My Lover", "slug_title": "my-car-is-my-lover", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

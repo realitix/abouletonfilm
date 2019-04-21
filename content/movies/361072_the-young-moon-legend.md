@@ -1,0 +1,1 @@
+{"tmdb_id": 361072, "title": "The Young Moon Legend", "original_title": "\u65b0\u6708\u50b3\u5947", "slug_title": "the-young-moon-legend", "date": "1980-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9sdGS8x53iYeW3vIohdZugcfdfx.jpg", "actors": ["Mang Fei ()"], "comments": [], "recommandations_id": []}

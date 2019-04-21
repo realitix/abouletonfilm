@@ -1,0 +1,1 @@
+{"tmdb_id": 421638, "title": "Manimals", "original_title": "Manimals", "slug_title": "manimals", "date": "1978-10-02", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491495, "title": "Three Boys Manzanar", "original_title": "Three Boys Manzanar", "slug_title": "three-boys-manzanar", "date": "2017-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nO4whzeVSJCHjseqZ00x0ESwav3.jpg", "actors": [], "comments": [], "recommandations_id": []}

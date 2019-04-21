@@ -1,0 +1,1 @@
+{"tmdb_id": 139094, "title": "Madonna The Music Video Colection", "original_title": "Madonna The Music Video Colection", "slug_title": "madonna-the-music-video-colection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOACqQ4X2erw5bCgckTDCQFF7bG.jpg", "actors": [], "comments": [], "recommandations_id": []}

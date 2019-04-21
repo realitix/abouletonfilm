@@ -1,0 +1,1 @@
+{"tmdb_id": 84304, "title": "The Law in These Parts", "original_title": "Shilton Ha Chok", "slug_title": "the-law-in-these-parts", "date": "2011-07-13", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93sUVW2g7El5raMFU09XsYAHkD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

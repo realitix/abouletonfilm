@@ -1,0 +1,1 @@
+{"tmdb_id": 396736, "title": "Clare sa Speir", "original_title": "Clare sa Speir", "slug_title": "clare-sa-speir", "date": "2001-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

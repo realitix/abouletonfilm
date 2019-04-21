@@ -1,0 +1,1 @@
+{"tmdb_id": 22759, "title": "Boy Meets Dog", "original_title": "Boy Meets Dog", "slug_title": "boy-meets-dog", "date": "1938-03-10", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjxlLkazyqMAucW1Hy9NtDLBKo.jpg", "actors": ["Billy Bletcher (Voice)"], "comments": [], "recommandations_id": []}

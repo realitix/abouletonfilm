@@ -1,0 +1,1 @@
+{"tmdb_id": 405149, "title": "Video Dining Guide/Los Angeles", "original_title": "Video Dining Guide/Los Angeles", "slug_title": "video-dining-guide-los-angeles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cLKHFFe6313hGbfkx54qiBcqNe3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527747, "title": "Puss in Books: Adventures of the Library Cat", "original_title": "Puss in Books: Adventures of the Library Cat", "slug_title": "puss-in-books-adventures-of-the-library-cat", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

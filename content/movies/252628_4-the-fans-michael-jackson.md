@@ -1,0 +1,1 @@
+{"tmdb_id": 252628, "title": "4 the Fans: Michael Jackson", "original_title": "4 the Fans: Michael Jackson", "slug_title": "4-the-fans-michael-jackson", "date": "2010-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

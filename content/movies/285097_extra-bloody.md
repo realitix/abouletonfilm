@@ -1,0 +1,1 @@
+{"tmdb_id": 285097, "title": "Extra Bloody", "original_title": "Mal Passado", "slug_title": "extra-bloody", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCfFBmegmkKJo4BShVvgRkjchY8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 507421, "title": "Manchester bombing: The I.S. connection", "original_title": "Manchester bombing: The I.S. connection", "slug_title": "manchester-bombing-the-i-s-connection", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Martin (Host)"], "comments": [], "recommandations_id": []}

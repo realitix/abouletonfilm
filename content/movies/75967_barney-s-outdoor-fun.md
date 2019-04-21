@@ -1,0 +1,1 @@
+{"tmdb_id": 75967, "title": "Barney's Outdoor Fun", "original_title": "Barney's Outdoor Fun", "slug_title": "barney-s-outdoor-fun", "date": "2003-03-10", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6e4wdH9IXTmrnWiib0TZNTNmuPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

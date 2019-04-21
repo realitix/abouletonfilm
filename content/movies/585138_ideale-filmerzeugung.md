@@ -1,0 +1,1 @@
+{"tmdb_id": 585138, "title": "Ideale Filmerzeugung", "original_title": "Ideale Filmerzeugung", "slug_title": "ideale-filmerzeugung", "date": "1914-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

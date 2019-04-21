@@ -1,0 +1,1 @@
+{"tmdb_id": 22437, "title": "The Coffin", "original_title": "The Coffin", "slug_title": "the-coffin", "date": "1939-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

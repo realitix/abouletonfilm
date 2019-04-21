@@ -1,0 +1,1 @@
+{"tmdb_id": 321685, "title": "Mok-Dan Ghost Story", "original_title": "\ubaa9\ub2e8\ub4f1\uae30", "slug_title": "mok-dan-ghost-story", "date": "1947-06-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Han Rim ()", "Lee Yeong-sun ()", "Yun Guk-seop ()"], "comments": [], "recommandations_id": []}

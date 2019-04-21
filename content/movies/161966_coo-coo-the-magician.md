@@ -1,0 +1,1 @@
+{"tmdb_id": 161966, "title": "Coo Coo the Magician", "original_title": "Coo Coo the Magician", "slug_title": "coo-coo-the-magician", "date": "1933-01-21", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h5h2uOcwjKz63vuZFppJSe7NipI.jpg", "actors": [], "comments": [], "recommandations_id": []}

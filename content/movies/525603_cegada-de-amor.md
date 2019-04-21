@@ -1,0 +1,1 @@
+{"tmdb_id": 525603, "title": "Cegada de amor", "original_title": "Cegada de amor", "slug_title": "cegada-de-amor", "date": "1994-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uG6075G9rFCud6PyEx785HqPVQK.jpg", "actors": [], "comments": [], "recommandations_id": []}

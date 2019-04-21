@@ -1,0 +1,1 @@
+{"tmdb_id": 507074, "title": "The D Word", "original_title": "The D Word", "slug_title": "the-d-word", "date": "2005-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUzhOjtaK49nx9wJwXPSmvglTQc.jpg", "actors": [], "comments": [], "recommandations_id": []}

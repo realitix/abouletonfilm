@@ -1,0 +1,1 @@
+{"tmdb_id": 521335, "title": "Hallelujah!", "original_title": "Hallelujah!", "slug_title": "hallelujah", "date": "", "genre": "Com\u00e9die / Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ralph Fiennes (George Frideric Handel)"], "comments": [], "recommandations_id": []}

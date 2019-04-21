@@ -1,0 +1,1 @@
+{"tmdb_id": 529403, "title": "Electrician's Day", "original_title": "Elektri\u0137a diena", "slug_title": "electrician-s-day", "date": "2018-04-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yel9Wq8xqES3AGnpVOUYcGXE61C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304776, "title": "Your Baby Can Read! Volume 3", "original_title": "Your Baby Can Read! Volume 3", "slug_title": "your-baby-can-read-volume-3", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbnIZFas92YGJHMQQeuqumYvrvg.jpg", "actors": [], "comments": [], "recommandations_id": []}

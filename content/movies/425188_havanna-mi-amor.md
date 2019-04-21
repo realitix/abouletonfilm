@@ -1,0 +1,1 @@
+{"tmdb_id": 425188, "title": "Havanna mi amor", "original_title": "Havanna mi amor", "slug_title": "havanna-mi-amor", "date": "2000-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jC7mOfW4ZgUTILs2uwN0SjsONaG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401919, "title": "Freedom Day Parade", "original_title": "Freedom Day Parade", "slug_title": "freedom-day-parade", "date": "1974-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ll5v6eiQoU2QQrFfdf34zk1hMWl.jpg", "actors": [], "comments": [], "recommandations_id": []}

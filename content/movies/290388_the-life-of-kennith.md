@@ -1,0 +1,1 @@
+{"tmdb_id": 290388, "title": "The Life Of Kennith", "original_title": "The Life Of Kennith", "slug_title": "the-life-of-kennith", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

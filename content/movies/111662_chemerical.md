@@ -1,0 +1,1 @@
+{"tmdb_id": 111662, "title": "Chemerical", "original_title": "Chemerical", "slug_title": "chemerical", "date": "2009-11-04", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rtZg2vLo6tpgRV8D1LtvmSoRyTu.jpg", "actors": [], "comments": [], "recommandations_id": []}

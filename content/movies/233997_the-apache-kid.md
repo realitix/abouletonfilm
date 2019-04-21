@@ -1,0 +1,1 @@
+{"tmdb_id": 233997, "title": "The Apache Kid", "original_title": "The Apache Kid", "slug_title": "the-apache-kid", "date": "1930-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q9E30s7Vge7JAit5Ix2kAQ2M2k5.jpg", "actors": [], "comments": [], "recommandations_id": []}

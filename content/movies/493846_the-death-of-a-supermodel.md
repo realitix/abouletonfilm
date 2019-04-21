@@ -1,0 +1,1 @@
+{"tmdb_id": 493846, "title": "The Death of a Supermodel", "original_title": "The Death of a Supermodel", "slug_title": "the-death-of-a-supermodel", "date": "2017-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["kyle macdonald ()"], "comments": [], "recommandations_id": []}

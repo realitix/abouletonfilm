@@ -1,0 +1,1 @@
+{"tmdb_id": 418941, "title": "The African Lover", "original_title": "The African Lover", "slug_title": "the-african-lover", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arturo Ripstein ()", "Marisa Arango ()", "Pedro Miret ()"], "comments": [], "recommandations_id": []}

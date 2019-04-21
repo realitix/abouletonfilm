@@ -1,0 +1,1 @@
+{"tmdb_id": 388245, "title": "Bad Girlfriend", "original_title": "Bad Girlfriend", "slug_title": "bad-girlfriend", "date": "2010-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gljOq6MmIRpKGADFHK7OANcnDv7.jpg", "actors": ["Lola Kirke ()"], "comments": [], "recommandations_id": []}

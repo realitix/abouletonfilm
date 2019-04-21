@@ -1,0 +1,1 @@
+{"tmdb_id": 571848, "title": "Zwei Bilder", "original_title": "Zwei Bilder", "slug_title": "zwei-bilder", "date": "1984-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petra Seeger ()", "R\u00fcdiger Vogler ()", "Rudolf Thome ()", "Corinna Belz ()"], "comments": [], "recommandations_id": []}

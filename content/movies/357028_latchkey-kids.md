@@ -1,0 +1,1 @@
+{"tmdb_id": 357028, "title": "Latchkey Kids", "original_title": "Yaldey Mafteah", "slug_title": "latchkey-kids", "date": "2015-07-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yoav Rotman (Gur)", "Gaia Shalita Katz (Daniel)", "Hillel Cappon (Evyatar)", "Tamara Freidland (Osnat)"], "comments": [], "recommandations_id": []}

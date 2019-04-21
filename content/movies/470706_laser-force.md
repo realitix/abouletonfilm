@@ -1,0 +1,1 @@
+{"tmdb_id": 470706, "title": "Laser Force", "original_title": "Laser Force", "slug_title": "laser-force", "date": "2017-04-26", "genre": "Action / Science-Fiction", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xx7uXo4mTr4iwWgOZ1JULGxk93R.jpg", "actors": ["Kim Valentine ()"], "comments": [], "recommandations_id": []}

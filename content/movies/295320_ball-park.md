@@ -1,0 +1,1 @@
+{"tmdb_id": 295320, "title": "Ball Park", "original_title": "Ball Park", "slug_title": "ball-park", "date": "1929-05-19", "genre": "Animation / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48FUZgm4CGkrGFNpm7iXyykb9pH.jpg", "actors": [], "comments": [], "recommandations_id": []}

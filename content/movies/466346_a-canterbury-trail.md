@@ -1,0 +1,1 @@
+{"tmdb_id": 466346, "title": "A Canterbury Trail", "original_title": "A Canterbury Trail", "slug_title": "a-canterbury-trail", "date": "2006-07-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

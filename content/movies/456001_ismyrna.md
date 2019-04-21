@@ -1,0 +1,1 @@
+{"tmdb_id": 456001, "title": "Ismyrna", "original_title": "Ismyrna", "slug_title": "ismyrna", "date": "2016-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joana Hadjithomas (Herself)", "Etel Adnan (Herself)"], "comments": [], "recommandations_id": []}

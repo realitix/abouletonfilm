@@ -1,0 +1,1 @@
+{"tmdb_id": 218424, "title": "Law of the North", "original_title": "Law of the North", "slug_title": "law-of-the-north", "date": "1932-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Cody (Bill Roberts)", "Andy Shuford (Andy)", "Nadine Dore (Laura)"], "comments": [], "recommandations_id": []}

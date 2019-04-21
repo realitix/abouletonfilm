@@ -1,0 +1,1 @@
+{"tmdb_id": 107785, "title": "Bitter-Sweet", "original_title": "Slodko gorzki", "slug_title": "bitter-sweet", "date": "2009-04-14", "genre": "Drame / Romance", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSqPZBfEYl6KtHINLWnmDRXdXOC.jpg", "actors": [], "comments": [], "recommandations_id": []}

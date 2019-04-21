@@ -1,0 +1,1 @@
+{"tmdb_id": 562552, "title": "A Blonde Like That", "original_title": "Une blonde comme \u00e7a", "slug_title": "a-blonde-like-that", "date": "1963-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqTmgeIQYdTj57SX30Xluceuq5u.jpg", "actors": [], "comments": [], "recommandations_id": []}

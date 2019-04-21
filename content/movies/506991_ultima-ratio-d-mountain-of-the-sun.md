@@ -1,0 +1,1 @@
+{"tmdb_id": 506991, "title": "Ultima Ratio \u0394 Mountain of the Sun", "original_title": "Ultima Ratio \u0394 Mountain of the Sun", "slug_title": "ultima-ratio-d-mountain-of-the-sun", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

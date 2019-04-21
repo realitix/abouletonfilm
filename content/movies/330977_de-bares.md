@@ -1,0 +1,1 @@
+{"tmdb_id": 330977, "title": "De bares", "original_title": "De bares", "slug_title": "de-bares", "date": "2006-10-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Javier Albal\u00e1 ()", "Jes\u00fas Cabrero ()", "Pepi cabaleiro ()", "C\u00e9sar Cambeiro ()", "Sergio Canosa ()"], "comments": [], "recommandations_id": []}

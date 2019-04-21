@@ -1,0 +1,1 @@
+{"tmdb_id": 244638, "title": "Brain Fix", "original_title": "Brain Fix", "slug_title": "brain-fix", "date": "1993-11-01", "genre": "Science-Fiction / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78vwFcffY9uYzBmvRgaSD0sEyq6.jpg", "actors": [], "comments": [], "recommandations_id": []}

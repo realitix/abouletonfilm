@@ -1,0 +1,1 @@
+{"tmdb_id": 579986, "title": "Avevo un sogno", "original_title": "Avevo un sogno", "slug_title": "avevo-un-sogno", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

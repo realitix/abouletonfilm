@@ -1,0 +1,1 @@
+{"tmdb_id": 347298, "title": "Arth\u00e8me prom\u00e9ne son oncle", "original_title": "Arth\u00e8me prom\u00e9ne son oncle", "slug_title": "artheme-promene-son-oncle", "date": "1913-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernest Serva\u00e8s (Arth\u00e8me)"], "comments": [], "recommandations_id": []}

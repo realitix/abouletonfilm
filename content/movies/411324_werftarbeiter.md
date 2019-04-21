@@ -1,0 +1,1 @@
+{"tmdb_id": 411324, "title": "Werftarbeiter", "original_title": "Werftarbeiter", "slug_title": "werftarbeiter", "date": "1952-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

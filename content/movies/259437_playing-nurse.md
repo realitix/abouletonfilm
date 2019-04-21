@@ -1,0 +1,1 @@
+{"tmdb_id": 259437, "title": "Playing Nurse", "original_title": "Playing Nurse", "slug_title": "playing-nurse", "date": "2011-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294752, "title": "Komikero Chronicles", "original_title": "Komikero Chronicles", "slug_title": "komikero-chronicles", "date": "2014-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/529TkzzMHxu10ZbQnyT9DvKthXS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 534298, "title": "The Silence of Rak", "original_title": "Le silence de Rak", "slug_title": "the-silence-of-rak", "date": "1997-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wEe9uQm8idpcNgWH1MCN8FdfTJJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

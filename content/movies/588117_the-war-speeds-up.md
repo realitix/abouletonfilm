@@ -1,0 +1,1 @@
+{"tmdb_id": 588117, "title": "The War Speeds Up", "original_title": "The War Speeds Up", "slug_title": "the-war-speeds-up", "date": "1944-09-07", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

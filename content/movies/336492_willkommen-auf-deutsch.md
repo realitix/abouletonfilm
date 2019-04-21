@@ -1,0 +1,1 @@
+{"tmdb_id": 336492, "title": "Willkommen auf Deutsch", "original_title": "Willkommen auf Deutsch", "slug_title": "willkommen-auf-deutsch", "date": "2014-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aD3O3Kpoh789638X5ZPx343IHpk.jpg", "actors": [], "comments": [], "recommandations_id": []}

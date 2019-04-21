@@ -1,0 +1,1 @@
+{"tmdb_id": 589276, "title": "The Path", "original_title": "\u041f\u0430\u0442\u0435\u043a\u0430", "slug_title": "the-path", "date": "1967-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxyJQCzvLfqRe2CE5UuPhjK7ukj.jpg", "actors": ["Vojislav Mi\u0107ovi\u0107 ()"], "comments": [], "recommandations_id": []}

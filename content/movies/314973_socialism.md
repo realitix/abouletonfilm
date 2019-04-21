@@ -1,0 +1,1 @@
+{"tmdb_id": 314973, "title": "Socialism", "original_title": "Sosialismi", "slug_title": "socialism", "date": "2014-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

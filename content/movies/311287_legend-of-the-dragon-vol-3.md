@@ -1,0 +1,1 @@
+{"tmdb_id": 311287, "title": "Legend of the Dragon: Vol. 3", "original_title": "Legend of the Dragon: Vol. 3", "slug_title": "legend-of-the-dragon-vol-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

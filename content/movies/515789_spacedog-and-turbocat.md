@@ -1,0 +1,1 @@
+{"tmdb_id": 515789, "title": "SpaceDog and TurboCat", "original_title": "SpaceDog and TurboCat", "slug_title": "spacedog-and-turbocat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rel86H4rI8xX2oiKXQ8CmNiN3Iz.jpg", "actors": [], "comments": [], "recommandations_id": []}

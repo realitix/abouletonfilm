@@ -1,0 +1,1 @@
+{"tmdb_id": 506147, "title": "Coffee, Tea and Wizardry", "original_title": "Coffee, Tea and Wizardry", "slug_title": "coffee-tea-and-wizardry", "date": "2014-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vyNO7wxb4ZQ08L3eoGZRUec2axo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 462708, "title": "Berlin Super 80", "original_title": "Berlin Super 80", "slug_title": "berlin-super-80", "date": "2005-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5KbOwhztqmHWyiiHsJmuHCKg2c.jpg", "actors": [], "comments": [], "recommandations_id": []}

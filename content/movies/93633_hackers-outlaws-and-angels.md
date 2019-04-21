@@ -1,0 +1,1 @@
+{"tmdb_id": 93633, "title": "Hackers: Outlaws and Angels", "original_title": "Hackers: Outlaws and Angels", "slug_title": "hackers-outlaws-and-angels", "date": "2002-12-11", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l39OwFzZ4mgDXpyZmCK6ALVjt8f.jpg", "actors": [], "comments": [], "recommandations_id": []}

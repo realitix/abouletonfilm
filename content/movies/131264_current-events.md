@@ -1,0 +1,1 @@
+{"tmdb_id": 131264, "title": "Current Events", "original_title": "Current Events", "slug_title": "current-events", "date": "1989-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

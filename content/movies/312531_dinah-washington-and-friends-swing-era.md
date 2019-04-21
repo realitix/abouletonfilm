@@ -1,0 +1,1 @@
+{"tmdb_id": 312531, "title": "Dinah Washington and Friends: Swing Era", "original_title": "Dinah Washington and Friends: Swing Era", "slug_title": "dinah-washington-and-friends-swing-era", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

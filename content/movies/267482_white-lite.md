@@ -1,0 +1,1 @@
+{"tmdb_id": 267482, "title": "White Lite", "original_title": "White Lite", "slug_title": "white-lite", "date": "1968-01-01", "genre": "Drame", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4eV5VJaPCCzrERssGGtn8VqRtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

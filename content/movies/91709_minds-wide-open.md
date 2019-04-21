@@ -1,0 +1,1 @@
+{"tmdb_id": 91709, "title": "Minds Wide Open", "original_title": "Minds Wide Open", "slug_title": "minds-wide-open", "date": "2011-10-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxW3WYdGBoSCzPaGcQIaGMPy7hs.jpg", "actors": [], "comments": [], "recommandations_id": []}

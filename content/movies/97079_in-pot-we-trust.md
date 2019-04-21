@@ -1,0 +1,1 @@
+{"tmdb_id": 97079, "title": "In Pot We Trust", "original_title": "In Pot We Trust", "slug_title": "in-pot-we-trust", "date": "2007-07-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bm80mxTPAhyiozxhbwmSiW6gk6.jpg", "actors": [], "comments": [], "recommandations_id": []}

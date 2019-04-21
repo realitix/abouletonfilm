@@ -1,0 +1,1 @@
+{"tmdb_id": 274619, "title": "The Golden Age of 2nd Avenue", "original_title": "The Golden Age of 2nd Avenue", "slug_title": "the-golden-age-of-2nd-avenue", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

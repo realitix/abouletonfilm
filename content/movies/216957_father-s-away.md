@@ -1,0 +1,1 @@
+{"tmdb_id": 216957, "title": "Father's Away", "original_title": "Teoriya", "slug_title": "father-s-away", "date": "2011-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XMSvtoZLkV74qTDhcmFcwiXpvy.jpg", "actors": ["Alfred Vargas ()", "Sue Prado ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486041, "title": "La baguala", "original_title": "La baguala", "slug_title": "la-baguala", "date": "1920-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

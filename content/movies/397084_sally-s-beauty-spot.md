@@ -1,0 +1,1 @@
+{"tmdb_id": 397084, "title": "Sally's Beauty Spot", "original_title": "Sally's Beauty Spot", "slug_title": "sally-s-beauty-spot", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tt9nH8IiHScDlwn8YVFQG1BGSvr.jpg", "actors": ["Sally Lee ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 327150, "title": "Arthur Rubinstein - Chopin Conversation", "original_title": "Arthur Rubinstein - Chopin Conversation", "slug_title": "arthur-rubinstein-chopin-conversation", "date": "2011-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

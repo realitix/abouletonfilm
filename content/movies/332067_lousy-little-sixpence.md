@@ -1,0 +1,1 @@
+{"tmdb_id": 332067, "title": "Lousy Little Sixpence", "original_title": "Lousy Little Sixpence", "slug_title": "lousy-little-sixpence", "date": "1983-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMplJpVriuHqUUoozEQluGGWInb.jpg", "actors": [], "comments": [], "recommandations_id": []}

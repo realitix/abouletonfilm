@@ -1,0 +1,1 @@
+{"tmdb_id": 347161, "title": "Auch Faulheit kann von Nutzen sein", "original_title": "Auch Faulheit kann von Nutzen sein", "slug_title": "auch-faulheit-kann-von-nutzen-sein", "date": "1913-01-01", "genre": "Science-Fiction / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

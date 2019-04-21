@@ -1,0 +1,1 @@
+{"tmdb_id": 544789, "title": "Life Coach", "original_title": "Life Coach", "slug_title": "life-coach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ldHzodvUaL20YpKyMf7mZ6fNEt.jpg", "actors": [], "comments": [], "recommandations_id": []}

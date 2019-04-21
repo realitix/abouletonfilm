@@ -1,0 +1,1 @@
+{"tmdb_id": 585292, "title": "Rabbit Stew", "original_title": "Rabbit Stew", "slug_title": "rabbit-stew", "date": "1952-01-01", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s71tKIGr2yxTdT3koLgreNBG7M6.jpg", "actors": [], "comments": [], "recommandations_id": []}

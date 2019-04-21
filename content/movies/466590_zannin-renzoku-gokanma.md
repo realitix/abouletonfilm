@@ -1,0 +1,1 @@
+{"tmdb_id": 466590, "title": "Zannin renzoku gokanma", "original_title": "Zannin renzoku gokanma", "slug_title": "zannin-renzoku-gokanma", "date": "1978-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyWVliFy8tsOClnucgd4ZF6tTgi.jpg", "actors": ["Y\u00f4ichi Iijima ()"], "comments": [], "recommandations_id": []}

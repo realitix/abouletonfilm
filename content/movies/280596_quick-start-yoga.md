@@ -1,0 +1,1 @@
+{"tmdb_id": 280596, "title": "Quick Start Yoga", "original_title": "Quick Start Yoga", "slug_title": "quick-start-yoga", "date": "2013-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v0qkXcuNUageNGrkx4v84fRR8F2.jpg", "actors": [], "comments": [], "recommandations_id": []}

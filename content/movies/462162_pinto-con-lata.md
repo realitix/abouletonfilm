@@ -1,0 +1,1 @@
+{"tmdb_id": 462162, "title": "Pinto con lata", "original_title": "Pinto con lata", "slug_title": "pinto-con-lata", "date": "2011-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

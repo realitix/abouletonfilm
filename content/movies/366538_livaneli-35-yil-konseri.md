@@ -1,0 +1,1 @@
+{"tmdb_id": 366538, "title": "Livaneli 35. Y\u0131l Konseri", "original_title": "Livaneli 35. Y\u0131l Konseri", "slug_title": "livaneli-35-yil-konseri", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Z\u00fclf\u00fc Livaneli ()"], "comments": [], "recommandations_id": []}

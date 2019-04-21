@@ -1,0 +1,1 @@
+{"tmdb_id": 304469, "title": "Finding Fortune", "original_title": "Finding Fortune", "slug_title": "finding-fortune", "date": "2003-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

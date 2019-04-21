@@ -1,0 +1,1 @@
+{"tmdb_id": 342398, "title": "The Bill Poster", "original_title": "The Bill Poster", "slug_title": "the-bill-poster", "date": "1933-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

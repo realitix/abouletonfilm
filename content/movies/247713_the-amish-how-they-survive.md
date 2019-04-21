@@ -1,0 +1,1 @@
+{"tmdb_id": 247713, "title": "The Amish: How They Survive", "original_title": "The Amish: How They Survive", "slug_title": "the-amish-how-they-survive", "date": "2005-01-03", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zg3LwdpL9jTKZ5xbdb1g2v67O1e.jpg", "actors": [], "comments": [], "recommandations_id": []}

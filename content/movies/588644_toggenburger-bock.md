@@ -1,0 +1,1 @@
+{"tmdb_id": 588644, "title": "Toggenburger Bock", "original_title": "Toggenburger Bock", "slug_title": "toggenburger-bock", "date": "1975-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert K\u00f6fer ()", "Marianne Christina Schilling ()", "Werner Senftleben ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 93480, "title": "Passage \u00e0 l'acte", "original_title": "Passage \u00e0 l'acte", "slug_title": "passage-a-l-acte", "date": "1993-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4NwwPBS2HOUqXXbQLDeuqRiDBkm.jpg", "actors": [], "comments": [], "recommandations_id": [213735, 327546, 123413, 134718]}

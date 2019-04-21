@@ -1,0 +1,1 @@
+{"tmdb_id": 51771, "title": "Florjan junak u\u010denjak", "original_title": "Florjan junak u\u010denjak", "slug_title": "florjan-junak-ucenjak", "date": "2008-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAVlhBhEN5cZDp9aS5cqJskxnXP.jpg", "actors": [], "comments": [], "recommandations_id": []}

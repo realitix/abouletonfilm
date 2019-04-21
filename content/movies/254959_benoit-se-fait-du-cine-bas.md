@@ -1,0 +1,1 @@
+{"tmdb_id": 254959, "title": "Benoit se Fait du Cine\u0301-Bas", "original_title": "Benoit se Fait du Cine\u0301-Bas", "slug_title": "benoit-se-fait-du-cine-bas", "date": "2006-09-19", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klmeDs4hSagWhJgiKnat2B6YWl7.jpg", "actors": [], "comments": [], "recommandations_id": []}

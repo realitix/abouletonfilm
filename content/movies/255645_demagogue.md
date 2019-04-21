@@ -1,0 +1,1 @@
+{"tmdb_id": 255645, "title": "Demagogue", "original_title": "Demagogue", "slug_title": "demagogue", "date": "", "genre": "Science-Fiction / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

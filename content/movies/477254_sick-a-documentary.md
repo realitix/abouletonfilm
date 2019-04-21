@@ -1,0 +1,1 @@
+{"tmdb_id": 477254, "title": "Sick: A Documentary", "original_title": "Sick: A Documentary", "slug_title": "sick-a-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

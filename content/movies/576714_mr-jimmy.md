@@ -1,0 +1,1 @@
+{"tmdb_id": 576714, "title": "Mr. Jimmy", "original_title": "Mr. Jimmy", "slug_title": "mr-jimmy", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

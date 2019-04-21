@@ -1,0 +1,1 @@
+{"tmdb_id": 278452, "title": "She is an Umpire", "original_title": "\u5b89\u6d3e\u5152", "slug_title": "she-is-an-umpire", "date": "2014-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

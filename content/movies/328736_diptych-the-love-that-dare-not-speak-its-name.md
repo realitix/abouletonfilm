@@ -1,0 +1,1 @@
+{"tmdb_id": 328736, "title": "Diptych: The Love That Dare Not Speak Its Name", "original_title": "Diptych: The Love That Dare Not Speak Its Name", "slug_title": "diptych-the-love-that-dare-not-speak-its-name", "date": "2011-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

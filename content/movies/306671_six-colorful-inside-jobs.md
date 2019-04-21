@@ -1,0 +1,1 @@
+{"tmdb_id": 306671, "title": "Six Colorful Inside Jobs", "original_title": "Six Colorful Inside Jobs", "slug_title": "six-colorful-inside-jobs", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Baldessari ()"], "comments": [], "recommandations_id": []}

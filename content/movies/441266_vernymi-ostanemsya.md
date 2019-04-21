@@ -1,0 +1,1 @@
+{"tmdb_id": 441266, "title": "Vernymi ostanemsya", "original_title": "Vernymi ostanemsya", "slug_title": "vernymi-ostanemsya", "date": "1989-03-27", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUSddPFdj8nrpRJ19RuqRnYsZ24.jpg", "actors": [], "comments": [], "recommandations_id": []}

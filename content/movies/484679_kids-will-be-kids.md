@@ -1,0 +1,1 @@
+{"tmdb_id": 484679, "title": "Kids Will Be Kids", "original_title": "Kids Will Be Kids", "slug_title": "kids-will-be-kids", "date": "1954-12-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jerry Hartleben (Junior Wilson)"], "comments": [], "recommandations_id": []}

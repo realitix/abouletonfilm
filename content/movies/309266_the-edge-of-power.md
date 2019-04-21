@@ -1,0 +1,1 @@
+{"tmdb_id": 309266, "title": "The Edge of Power", "original_title": "The Edge of Power", "slug_title": "the-edge-of-power", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

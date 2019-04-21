@@ -1,0 +1,1 @@
+{"tmdb_id": 329023, "title": "Kids + Money", "original_title": "Kids + Money", "slug_title": "kids-money", "date": "2008-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OjZG6dffSnLIsIqSo4orPVigOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

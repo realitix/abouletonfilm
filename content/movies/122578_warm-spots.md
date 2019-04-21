@@ -1,0 +1,1 @@
+{"tmdb_id": 122578, "title": "warm spots", "original_title": "warm spots", "slug_title": "warm-spots", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

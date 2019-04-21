@@ -1,0 +1,1 @@
+{"tmdb_id": 304109, "title": "Friends of Mine", "original_title": "Friends of Mine", "slug_title": "friends-of-mine", "date": "2013-10-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztJbBcphABBggn5TuIM4vwnVxD1.jpg", "actors": [], "comments": [], "recommandations_id": []}

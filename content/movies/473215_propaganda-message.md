@@ -1,0 +1,1 @@
+{"tmdb_id": 473215, "title": "Propaganda Message", "original_title": "Propaganda Message", "slug_title": "propaganda-message", "date": "1974-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35nAQStDsLAYnjgH8UYnI9QtD33.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 281062, "title": "The ADS Epidemic", "original_title": "The ADS Epidemic", "slug_title": "the-ads-epidemic", "date": "1987-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbfeArb35Souu0f15NRXIFIhkty.jpg", "actors": [], "comments": [], "recommandations_id": []}

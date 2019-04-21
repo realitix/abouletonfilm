@@ -1,0 +1,1 @@
+{"tmdb_id": 299494, "title": "Il fitto dei padroni non lo paghiamo pi\u00f9", "original_title": "Il fitto dei padroni non lo paghiamo pi\u00f9", "slug_title": "il-fitto-dei-padroni-non-lo-paghiamo-piu", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

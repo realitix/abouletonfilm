@@ -1,0 +1,1 @@
+{"tmdb_id": 382820, "title": "What a Strange Way of Life", "original_title": "Que Estranha Forma de Vida", "slug_title": "what-a-strange-way-of-life", "date": "2015-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNHW9pn06Y67FLnRWS46UJVsuIa.jpg", "actors": [], "comments": [], "recommandations_id": []}

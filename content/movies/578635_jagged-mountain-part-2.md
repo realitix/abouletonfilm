@@ -1,0 +1,1 @@
+{"tmdb_id": 578635, "title": "Jagged Mountain: Part 2", "original_title": "Jagged Mountain: Part 2", "slug_title": "jagged-mountain-part-2", "date": "2019-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soF599Z2GxOfNUIGu7FaeXBvNYe.jpg", "actors": [], "comments": [], "recommandations_id": []}

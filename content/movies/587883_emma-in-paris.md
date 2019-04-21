@@ -1,0 +1,1 @@
+{"tmdb_id": 587883, "title": "Emma in Paris", "original_title": "\ud30c\ub9ac\uc560\ub9c8", "slug_title": "emma-in-paris", "date": "1988-06-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yoo Hye-ri ()", "Hyeon Seok ()", "Min Bok-gi ()", "Sin Jong-seop ()", "You Young-kook ()"], "comments": [], "recommandations_id": []}

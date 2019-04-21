@@ -1,0 +1,1 @@
+{"tmdb_id": 576921, "title": "The Color Remains the Same", "original_title": "The Color Remains the Same", "slug_title": "the-color-remains-the-same", "date": "2015-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufESLm0QSUtoktqpzBGzpJQxwtA.jpg", "actors": [], "comments": [], "recommandations_id": []}

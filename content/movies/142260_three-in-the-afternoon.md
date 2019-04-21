@@ -1,0 +1,1 @@
+{"tmdb_id": 142260, "title": "Three in the Afternoon", "original_title": "Three in the Afternoon", "slug_title": "three-in-the-afternoon", "date": "2006-04-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Travis Boles (Travis)", "Jonathan Pruitt (Jonathan)", "Corey Gray (Corey)"], "comments": [], "recommandations_id": []}

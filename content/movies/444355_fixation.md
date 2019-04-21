@@ -1,0 +1,1 @@
+{"tmdb_id": 444355, "title": "Fixation", "original_title": "Fixation", "slug_title": "fixation", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDrkl06yXiUt8VknFBPMgWVMP0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

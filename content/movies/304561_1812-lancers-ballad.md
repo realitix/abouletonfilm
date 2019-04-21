@@ -1,0 +1,1 @@
+{"tmdb_id": 304561, "title": "1812: Lancers Ballad", "original_title": "1812: Lancers Ballad", "slug_title": "1812-lancers-ballad", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

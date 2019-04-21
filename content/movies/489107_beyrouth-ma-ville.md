@@ -1,0 +1,1 @@
+{"tmdb_id": 489107, "title": "Beyrouth, Ma Ville", "original_title": "Beyrouth, Ma Ville", "slug_title": "beyrouth-ma-ville", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

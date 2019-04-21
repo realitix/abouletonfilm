@@ -1,0 +1,1 @@
+{"tmdb_id": 400983, "title": "Sweet Light", "original_title": "Sweet Light", "slug_title": "sweet-light", "date": "1977-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBKyT4B0DWtjUlpPXE5WpKmv9by.jpg", "actors": [], "comments": [], "recommandations_id": []}

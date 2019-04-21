@@ -1,0 +1,1 @@
+{"tmdb_id": 177300, "title": "Pride & Joy", "original_title": "Pride & Joy", "slug_title": "pride-joy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

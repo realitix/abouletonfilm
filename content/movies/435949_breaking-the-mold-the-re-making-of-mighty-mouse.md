@@ -1,0 +1,1 @@
+{"tmdb_id": 435949, "title": "Breaking the Mold: The Re-Making of Mighty Mouse", "original_title": "Breaking the Mold: The Re-Making of Mighty Mouse", "slug_title": "breaking-the-mold-the-re-making-of-mighty-mouse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

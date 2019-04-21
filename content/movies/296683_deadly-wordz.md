@@ -1,0 +1,1 @@
+{"tmdb_id": 296683, "title": "Deadly Wordz", "original_title": "Deadly Wordz", "slug_title": "deadly-wordz", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

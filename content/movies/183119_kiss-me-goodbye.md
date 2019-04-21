@@ -1,0 +1,1 @@
+{"tmdb_id": 183119, "title": "Kiss Me Goodbye", "original_title": "Kiss Me Goodbye", "slug_title": "kiss-me-goodbye", "date": "1986-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZZ06zWNXHFls1tILsrk8bP72YK.jpg", "actors": ["Nick Zedd ()", "Chi Wong ()"], "comments": [], "recommandations_id": []}

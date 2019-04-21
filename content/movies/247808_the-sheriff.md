@@ -1,0 +1,1 @@
+{"tmdb_id": 247808, "title": "The Sheriff", "original_title": "The Sheriff", "slug_title": "the-sheriff", "date": "1971-03-30", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ossie Davis ()", "Kaz Garas ()", "Kyle Johnson ()", "Edward Binns ()", "Lynda Day George ()", "Moses Gunn ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 476648, "title": "Os Vivos Tamb\u00e9m Choram", "original_title": "Os Vivos Tamb\u00e9m Choram", "slug_title": "os-vivos-tambem-choram", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

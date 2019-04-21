@@ -1,0 +1,1 @@
+{"tmdb_id": 518773, "title": "King Invincible", "original_title": "King Invincible", "slug_title": "king-invincible", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

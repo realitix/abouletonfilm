@@ -1,0 +1,1 @@
+{"tmdb_id": 392551, "title": "Nach: Poesia Difusa Directo", "original_title": "Nach: Poesia Difusa Directo", "slug_title": "nach-poesia-difusa-directo", "date": "2003-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2i5Fy3qHomTgizwoxx1y38NBrrm.jpg", "actors": [], "comments": [], "recommandations_id": []}

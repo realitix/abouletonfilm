@@ -1,0 +1,1 @@
+{"tmdb_id": 520842, "title": "A Stubborn Bet", "original_title": "A Stubborn Bet", "slug_title": "a-stubborn-bet", "date": "2017-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

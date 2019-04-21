@@ -1,0 +1,1 @@
+{"tmdb_id": 302114, "title": "In the Dark", "original_title": "\u6028\u9b3c", "slug_title": "in-the-dark", "date": "2014-03-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjO1rmlPXkwO3sf6qoeJ3K3T8hP.jpg", "actors": ["Wang Bo-Chieh (Joseph)"], "comments": [], "recommandations_id": []}

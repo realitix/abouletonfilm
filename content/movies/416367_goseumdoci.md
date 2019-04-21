@@ -1,0 +1,1 @@
+{"tmdb_id": 416367, "title": "\uace0\uc2b4\ub3c4\uce58", "original_title": "\uace0\uc2b4\ub3c4\uce58", "slug_title": "goseumdoci", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v3tmqjydXq7UJmBk262wT4Ng4mp.jpg", "actors": [], "comments": [], "recommandations_id": []}

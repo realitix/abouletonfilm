@@ -1,0 +1,1 @@
+{"tmdb_id": 307553, "title": "Kaduvaye Pidicha Kiduva", "original_title": "Kaduvaye Pidicha Kiduva", "slug_title": "kaduvaye-pidicha-kiduva", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

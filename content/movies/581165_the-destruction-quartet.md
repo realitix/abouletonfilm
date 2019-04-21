@@ -1,0 +1,1 @@
+{"tmdb_id": 581165, "title": "The Destruction Quartet", "original_title": "The Destruction Quartet", "slug_title": "the-destruction-quartet", "date": "2006-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EGnTGAZswwZpnHFZ8mF85J3tmE.jpg", "actors": [], "comments": [], "recommandations_id": []}

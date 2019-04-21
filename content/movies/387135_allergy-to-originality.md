@@ -1,0 +1,1 @@
+{"tmdb_id": 387135, "title": "Allergy to Originality", "original_title": "Allergy to Originality", "slug_title": "allergy-to-originality", "date": "2014-01-16", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DEZ9aXTSmWOXmskV3TpbDyuAOv.jpg", "actors": [], "comments": [], "recommandations_id": []}

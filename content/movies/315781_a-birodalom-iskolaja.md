@@ -1,0 +1,1 @@
+{"tmdb_id": 315781, "title": "A birodalom iskol\u00e1ja", "original_title": "A birodalom iskol\u00e1ja", "slug_title": "a-birodalom-iskolaja", "date": "", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/17FRA2bXLl2vWQlT4b2cGlm7ju.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297234, "title": "Beauregard", "original_title": "Beauregard", "slug_title": "beauregard", "date": "2010-01-16", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

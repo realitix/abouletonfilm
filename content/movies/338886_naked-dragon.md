@@ -1,0 +1,1 @@
+{"tmdb_id": 338886, "title": "Naked Dragon", "original_title": "Naked Dragon", "slug_title": "naked-dragon", "date": "2014-05-05", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6v5MWcjVjwuz0eQRX6J8UF4Psa8.jpg", "actors": [], "comments": [], "recommandations_id": []}

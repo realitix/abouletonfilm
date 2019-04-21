@@ -1,0 +1,1 @@
+{"tmdb_id": 349884, "title": "\ud0c0\uc545\uae30\uc758 \uacc4\uc808", "original_title": "\ud0c0\uc545\uae30\uc758 \uacc4\uc808", "slug_title": "taaggiyi-gyejeol", "date": "1992-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

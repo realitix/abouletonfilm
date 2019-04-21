@@ -1,0 +1,1 @@
+{"tmdb_id": 312541, "title": "Superstars of 70\u2019s Soul", "original_title": "Superstars of 70\u2019s Soul", "slug_title": "superstars-of-70s-soul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

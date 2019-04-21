@@ -1,0 +1,1 @@
+{"tmdb_id": 507325, "title": "\uac70\uc9d3\ub9d0 \uc560\uc778-\uac10\ub3c5\ud310", "original_title": "\uac70\uc9d3\ub9d0 \uc560\uc778-\uac10\ub3c5\ud310", "slug_title": "geojismal-aein-gamdogpan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

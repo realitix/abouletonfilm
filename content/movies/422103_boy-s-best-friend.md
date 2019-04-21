@@ -1,0 +1,1 @@
+{"tmdb_id": 422103, "title": "Boy's Best Friend", "original_title": "Boy's Best Friend", "slug_title": "boy-s-best-friend", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8aEg9n4ru7qfCCu9KwnUm2fTMDn.jpg", "actors": [], "comments": [], "recommandations_id": []}

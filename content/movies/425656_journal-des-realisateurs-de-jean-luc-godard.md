@@ -1,0 +1,1 @@
+{"tmdb_id": 425656, "title": "Journal des R\u00e9alisateurs de Jean-Luc Godard", "original_title": "Journal des R\u00e9alisateurs de Jean-Luc Godard", "slug_title": "journal-des-realisateurs-de-jean-luc-godard", "date": "2008-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

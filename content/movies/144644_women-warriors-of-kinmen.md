@@ -1,0 +1,1 @@
+{"tmdb_id": 144644, "title": "Women Warriors of Kinmen", "original_title": "Women Warriors of Kinmen", "slug_title": "women-warriors-of-kinmen", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzFIZGFLjIaJWmdhQPLe6KRRVNH.jpg", "actors": [], "comments": [], "recommandations_id": []}

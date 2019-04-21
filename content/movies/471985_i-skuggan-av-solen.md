@@ -1,0 +1,1 @@
+{"tmdb_id": 471985, "title": "I skuggan av solen", "original_title": "I skuggan av solen", "slug_title": "i-skuggan-av-solen", "date": "1996-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

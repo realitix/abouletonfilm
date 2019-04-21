@@ -1,0 +1,1 @@
+{"tmdb_id": 566541, "title": "Fifty-Fifty My Love", "original_title": "Fifty-Fifty Mon Amour", "slug_title": "fifty-fifty-my-love", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sondos Bel Hassen ()", "Khaled Ksouri ()", "Raya Ben amar ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503719, "title": "Nightmare for a Nightingale", "original_title": "Nightmare for a Nightingale", "slug_title": "nightmare-for-a-nightingale", "date": "1975-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

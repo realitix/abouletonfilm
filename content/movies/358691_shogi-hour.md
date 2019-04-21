@@ -1,0 +1,1 @@
+{"tmdb_id": 358691, "title": "Shogi Hour", "original_title": "Shogi Hour", "slug_title": "shogi-hour", "date": "2008-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

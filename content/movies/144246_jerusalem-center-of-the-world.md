@@ -1,0 +1,1 @@
+{"tmdb_id": 144246, "title": "Jerusalem: Center of the World", "original_title": "Jerusalem: Center of the World", "slug_title": "jerusalem-center-of-the-world", "date": "2009-04-07", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p15nRR6K1BNEGNChpqmSSHpmQPJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

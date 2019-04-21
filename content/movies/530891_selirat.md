@@ -1,0 +1,1 @@
+{"tmdb_id": 530891, "title": "Selirat", "original_title": "Selirat", "slug_title": "selirat", "date": "2018-06-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shukri Yahaya ()", "Izzue Islam ()", "Aman Graseka ()", "Tiz Zaqyah ()", "Adam Corrie Lee ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 264059, "title": "Hitler's Hitparade", "original_title": "Hitler's Hitparade", "slug_title": "hitler-s-hitparade", "date": "2005-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u9awbBTsQ8ecjp3ik26en8jf8Tk.jpg", "actors": [], "comments": [], "recommandations_id": []}

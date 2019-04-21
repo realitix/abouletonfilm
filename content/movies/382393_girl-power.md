@@ -1,0 +1,1 @@
+{"tmdb_id": 382393, "title": "Girl Power", "original_title": "Girl Power", "slug_title": "girl-power", "date": "2016-02-27", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g2x8ANVhVqK8FjuGJ03UdMaRiNp.jpg", "actors": [], "comments": [], "recommandations_id": []}

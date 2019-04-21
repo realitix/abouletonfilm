@@ -1,0 +1,1 @@
+{"tmdb_id": 504417, "title": "Dans la Vie...", "original_title": "Dans la Vie...", "slug_title": "dans-la-vie", "date": "1972-02-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Sx2RbfRRwlESUcqDWttjUEsnMa.jpg", "actors": [], "comments": [], "recommandations_id": []}

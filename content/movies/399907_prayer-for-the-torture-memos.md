@@ -1,0 +1,1 @@
+{"tmdb_id": 399907, "title": "Prayer for the Torture Memos", "original_title": "Prayer for the Torture Memos", "slug_title": "prayer-for-the-torture-memos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

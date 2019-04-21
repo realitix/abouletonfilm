@@ -1,0 +1,1 @@
+{"tmdb_id": 476522, "title": "Schumann's Bar Talks", "original_title": "Schumanns Bargespr\u00e4che", "slug_title": "schumann-s-bar-talks", "date": "2017-10-12", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1U3IMgELW96i0xnezegmCx6B2BS.jpg", "actors": [], "comments": [], "recommandations_id": []}

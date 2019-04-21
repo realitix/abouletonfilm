@@ -1,0 +1,1 @@
+{"tmdb_id": 202033, "title": "Toonerville Picnic", "original_title": "Toonerville Picnic", "slug_title": "toonerville-picnic", "date": "1936-10-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slOafNVo0EoRYLqzSqogRdbc2Q7.jpg", "actors": [], "comments": [], "recommandations_id": []}

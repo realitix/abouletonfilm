@@ -1,0 +1,1 @@
+{"tmdb_id": 376169, "title": "Buddhism", "original_title": "Buddhism", "slug_title": "buddhism", "date": "1962-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzxvS4syiJJTkqwv8CsQjGtTHP6.jpg", "actors": ["Douglas Rain (Narrator)"], "comments": [], "recommandations_id": []}

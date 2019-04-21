@@ -1,0 +1,1 @@
+{"tmdb_id": 518921, "title": "Say Something Left-Wing", "original_title": "Qualcosa di sinistra", "slug_title": "say-something-left-wing", "date": "2007-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nanni Moretti (Himself)"], "comments": [], "recommandations_id": []}

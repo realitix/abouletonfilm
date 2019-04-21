@@ -1,0 +1,1 @@
+{"tmdb_id": 513369, "title": "The Night America Trembled", "original_title": "The Night America Trembled", "slug_title": "the-night-america-trembled", "date": "1957-09-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

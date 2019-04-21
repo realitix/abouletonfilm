@@ -1,0 +1,1 @@
+{"tmdb_id": 528006, "title": "K\u0131r\u0131k Zar", "original_title": "K\u0131r\u0131k Zar", "slug_title": "kirik-zar", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbcPASlAlboaDhNjo2w1akfmrDO.jpg", "actors": [], "comments": [], "recommandations_id": []}

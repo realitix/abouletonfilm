@@ -1,0 +1,1 @@
+{"tmdb_id": 104998, "title": "Friendly Shock", "original_title": "Ling zhi yi xing", "slug_title": "friendly-shock", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57jIuWBPO6eeYX2Yd382pUR04R9.jpg", "actors": [], "comments": [], "recommandations_id": []}

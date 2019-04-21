@@ -1,0 +1,1 @@
+{"tmdb_id": 294949, "title": "Timmy's Wish", "original_title": "Timmy's Wish", "slug_title": "timmy-s-wish", "date": "2002-01-01", "genre": "Com\u00e9die / Horreur", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/22by4EaSdouMUeSMV2Oouq92Mde.jpg", "actors": [], "comments": [], "recommandations_id": []}

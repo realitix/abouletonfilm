@@ -1,0 +1,1 @@
+{"tmdb_id": 186525, "title": "Rich Man", "original_title": "Rich Man", "slug_title": "rich-man", "date": "1992-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajZ1mmcVDwxYq1xNl4O58EMgCjx.jpg", "actors": ["Elaine Lui Siu-Ling ()", "James Wong Jim ()", "Tommy Wong ()"], "comments": [], "recommandations_id": []}

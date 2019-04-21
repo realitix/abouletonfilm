@@ -1,0 +1,1 @@
+{"tmdb_id": 498251, "title": "Salem Occultist", "original_title": "Salem Occultist", "slug_title": "salem-occultist", "date": "2016-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/srULdJlklOdReY9rH9cwv4vY4Zt.jpg", "actors": ["Alexander Roman (Anton)"], "comments": [], "recommandations_id": []}

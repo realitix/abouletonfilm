@@ -1,0 +1,1 @@
+{"tmdb_id": 533085, "title": "Alabama Shakes: La Musicale (Sound & Color)", "original_title": "Alabama Shakes: La Musicale (Sound & Color)", "slug_title": "alabama-shakes-la-musicale-sound-color", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

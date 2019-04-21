@@ -1,0 +1,1 @@
+{"tmdb_id": 321406, "title": "Aerobo Cop: Superhero of Fitness", "original_title": "Aerobo Cop: Superhero of Fitness", "slug_title": "aerobo-cop-superhero-of-fitness", "date": "2006-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

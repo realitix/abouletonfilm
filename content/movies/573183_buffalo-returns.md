@@ -1,0 +1,1 @@
+{"tmdb_id": 573183, "title": "Buffalo Returns", "original_title": "Buffalo Returns", "slug_title": "buffalo-returns", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMcaOBs1EPNloY0c2IahzvA7CYK.jpg", "actors": [], "comments": [], "recommandations_id": []}

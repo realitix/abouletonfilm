@@ -1,0 +1,1 @@
+{"tmdb_id": 573499, "title": "Bende Kal", "original_title": "Bende Kal", "slug_title": "bende-kal", "date": "2017-07-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eVzqaFH2OwXa9e2c2Xn36NDn4kP.jpg", "actors": ["S\u00fcheyl Uygur ()", "Sadi Celil Cengiz ()"], "comments": [], "recommandations_id": []}

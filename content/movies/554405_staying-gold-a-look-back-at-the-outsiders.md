@@ -1,0 +1,1 @@
+{"tmdb_id": 554405, "title": "Staying Gold: A Look Back at 'The Outsiders'", "original_title": "Staying Gold: A Look Back at 'The Outsiders'", "slug_title": "staying-gold-a-look-back-at-the-outsiders", "date": "2005-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

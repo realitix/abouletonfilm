@@ -1,0 +1,1 @@
+{"tmdb_id": 435926, "title": "Hamlet X", "original_title": "Hamlet X", "slug_title": "hamlet-x", "date": "2004-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

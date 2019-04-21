@@ -1,0 +1,1 @@
+{"tmdb_id": 483195, "title": "Funerais do Comendador Nami Jafet", "original_title": "Funerais do Comendador Nami Jafet", "slug_title": "funerais-do-comendador-nami-jafet", "date": "1924-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

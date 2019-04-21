@@ -1,0 +1,1 @@
+{"tmdb_id": 352608, "title": "Lass\u00edt\u00e1s", "original_title": "Lass\u00edt\u00e1s", "slug_title": "lassitas", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368386, "title": "The Bear Tales", "original_title": "I racconti dell'orso", "slug_title": "the-bear-tales", "date": "2015-11-25", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHU4341ok9jgVz63VTRnqSgL81f.jpg", "actors": [], "comments": [], "recommandations_id": [561262, 561269, 513360, 559145]}

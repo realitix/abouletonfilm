@@ -1,0 +1,1 @@
+{"tmdb_id": 299988, "title": "Traditions for Sale", "original_title": "Traditions for Sale", "slug_title": "traditions-for-sale", "date": "1998-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

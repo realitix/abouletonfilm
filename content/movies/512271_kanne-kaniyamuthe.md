@@ -1,0 +1,1 @@
+{"tmdb_id": 512271, "title": "Kanne Kaniyamuthe", "original_title": "Kanne Kaniyamuthe", "slug_title": "kanne-kaniyamuthe", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rahman ()", "Amala Akkineni ()", "Jaishankar ()", "Sujatha ()", "Senthil ()"], "comments": [], "recommandations_id": []}

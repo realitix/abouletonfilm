@@ -1,0 +1,1 @@
+{"tmdb_id": 347686, "title": "Barney Dino-mite Birthday", "original_title": "Barney Dino-mite Birthday", "slug_title": "barney-dino-mite-birthday", "date": "2007-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

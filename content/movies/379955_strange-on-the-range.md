@@ -1,0 +1,1 @@
+{"tmdb_id": 379955, "title": "Strange on the Range", "original_title": "Strange on the Range", "slug_title": "strange-on-the-range", "date": "1974-04-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Hoot Kloot / Fester / Billy the Kidder (voice))"], "comments": [], "recommandations_id": []}

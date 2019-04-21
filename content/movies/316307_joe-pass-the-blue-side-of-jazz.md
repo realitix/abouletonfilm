@@ -1,0 +1,1 @@
+{"tmdb_id": 316307, "title": "Joe Pass: The Blue Side of Jazz", "original_title": "Joe Pass: The Blue Side of Jazz", "slug_title": "joe-pass-the-blue-side-of-jazz", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/39WM1d7kJjemySmkdmjAtyWmo8g.jpg", "actors": [], "comments": [], "recommandations_id": []}

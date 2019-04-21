@@ -1,0 +1,1 @@
+{"tmdb_id": 549861, "title": "Mama Agatha", "original_title": "Mama Agatha", "slug_title": "mama-agatha", "date": "2015-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hz2W1YKSfxaPxkCLD2O5TijxADo.jpg", "actors": [], "comments": [], "recommandations_id": []}

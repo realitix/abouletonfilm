@@ -1,0 +1,1 @@
+{"tmdb_id": 52919, "title": "Speaking Out", "original_title": "Speaking Out", "slug_title": "speaking-out", "date": "2006-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

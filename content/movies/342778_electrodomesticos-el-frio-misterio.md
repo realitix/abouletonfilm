@@ -1,0 +1,1 @@
+{"tmdb_id": 342778, "title": "Electrodom\u00e9sticos: El fr\u00edo misterio", "original_title": "Electrodom\u00e9sticos: El fr\u00edo misterio", "slug_title": "electrodomesticos-el-frio-misterio", "date": "2010-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237800, "title": "Delo Beilisa", "original_title": "Delo Beilisa", "slug_title": "delo-beilisa", "date": "1917-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Y. Yakovlev (Mendel Beilis)", "Malkevich-Khodakovskaya ()", "Stepan Kuznetsov ()"], "comments": [], "recommandations_id": []}

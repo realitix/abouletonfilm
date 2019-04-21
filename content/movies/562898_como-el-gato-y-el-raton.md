@@ -1,0 +1,1 @@
+{"tmdb_id": 562898, "title": "Como el gato y el rat\u00f3n", "original_title": "Como el gato y el rat\u00f3n", "slug_title": "como-el-gato-y-el-raton", "date": "2002-11-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78N4Fp54nh2G2kzSn0sWerYH3uA.jpg", "actors": [], "comments": [], "recommandations_id": []}

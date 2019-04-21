@@ -1,0 +1,1 @@
+{"tmdb_id": 419976, "title": "The Last Mohican", "original_title": "The Last Mohican", "slug_title": "the-last-mohican", "date": "1966-09-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBY2j824fup8PpM4cZ2aFIg62P4.jpg", "actors": ["Alan Arkin (Mr. Ableman)"], "comments": [], "recommandations_id": []}

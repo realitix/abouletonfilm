@@ -1,0 +1,1 @@
+{"tmdb_id": 546684, "title": "Killed by Rock and Roll", "original_title": "Killed by Rock and Roll", "slug_title": "killed-by-rock-and-roll", "date": "2018-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zLhGRekqXVlpodJneX2itLUwUd3.jpg", "actors": [], "comments": [], "recommandations_id": []}

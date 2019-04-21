@@ -1,0 +1,1 @@
+{"tmdb_id": 480922, "title": "Norman Checks In", "original_title": "Norman Checks In", "slug_title": "norman-checks-in", "date": "1984-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjCvddGz1lsMMD4wgEi3neDPdgz.jpg", "actors": ["Douglas P. MacIntosh (Norman)"], "comments": [], "recommandations_id": []}

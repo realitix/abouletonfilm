@@ -1,0 +1,1 @@
+{"tmdb_id": 316546, "title": "Accidents Will Happen", "original_title": "Accidents Will Happen", "slug_title": "accidents-will-happen", "date": "1964-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

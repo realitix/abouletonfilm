@@ -1,0 +1,1 @@
+{"tmdb_id": 569014, "title": "Sophie/Jerzy", "original_title": "Sophie/Jerzy", "slug_title": "sophie-jerzy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmT4ZELFet1EGVE8cQkab7NM2Gy.jpg", "actors": [], "comments": [], "recommandations_id": []}

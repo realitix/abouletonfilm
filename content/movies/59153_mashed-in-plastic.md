@@ -1,0 +1,1 @@
+{"tmdb_id": 59153, "title": "Mashed in plastic", "original_title": "Mashed in plastic", "slug_title": "mashed-in-plastic", "date": "2009-11-12", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349922, "title": "'82 \ubc14\ubcf4\ub4e4\uc758 \uccad\ucd98", "original_title": "'82 \ubc14\ubcf4\ub4e4\uc758 \uccad\ucd98", "slug_title": "82-babodeulyi-ceongcun", "date": "1983-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

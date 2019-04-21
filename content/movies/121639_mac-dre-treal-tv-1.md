@@ -1,0 +1,1 @@
+{"tmdb_id": 121639, "title": "Mac Dre Treal TV #1", "original_title": "Mac Dre Treal TV #1", "slug_title": "mac-dre-treal-tv-1", "date": "2003-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z132BqHB5J5o5mZ6jqrfRfIsdIj.jpg", "actors": ["Mac Dre (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 537595, "title": "Diapositiva", "original_title": "Diapositiva", "slug_title": "diapositiva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wrdWfPb2o43k7kiHtDsg1Ohp2L7.jpg", "actors": [], "comments": [], "recommandations_id": []}

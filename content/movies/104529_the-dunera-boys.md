@@ -1,0 +1,1 @@
+{"tmdb_id": 104529, "title": "The Dunera Boys", "original_title": "The Dunera Boys", "slug_title": "the-dunera-boys", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAK4UKOSh4hpmEy4vo8A1mx6erF.jpg", "actors": [], "comments": [], "recommandations_id": []}

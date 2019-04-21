@@ -1,0 +1,1 @@
+{"tmdb_id": 424252, "title": "Niche in the Market", "original_title": "Niche in the Market", "slug_title": "niche-in-the-market", "date": "2012-10-27", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2p9Rs1vjDFGOf1PDZSoDryvCck8.jpg", "actors": ["Mohamed Sadiq ()"], "comments": [], "recommandations_id": []}

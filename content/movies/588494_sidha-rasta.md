@@ -1,0 +1,1 @@
+{"tmdb_id": 588494, "title": "Sidha Rasta", "original_title": "Sidha Rasta", "slug_title": "sidha-rasta", "date": "1974-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

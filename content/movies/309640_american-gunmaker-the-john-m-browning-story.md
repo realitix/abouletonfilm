@@ -1,0 +1,1 @@
+{"tmdb_id": 309640, "title": "American Gunmaker: The John M. Browning Story", "original_title": "American Gunmaker: The John M. Browning Story", "slug_title": "american-gunmaker-the-john-m-browning-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323767, "title": "Jin: The Making of a Rap Star", "original_title": "Jin: The Making of a Rap Star", "slug_title": "jin-the-making-of-a-rap-star", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

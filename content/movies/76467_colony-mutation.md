@@ -1,0 +1,1 @@
+{"tmdb_id": 76467, "title": "Colony Mutation", "original_title": "Colony Mutation", "slug_title": "colony-mutation", "date": "1995-01-01", "genre": "Horreur / Science-Fiction", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBJmRqMxEl6IdodyyFRXk8UcFKS.jpg", "actors": [], "comments": [], "recommandations_id": []}

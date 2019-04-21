@@ -1,0 +1,1 @@
+{"tmdb_id": 558646, "title": "Le Cavalier Bleu", "original_title": "Le Cavalier Bleu", "slug_title": "le-cavalier-bleu", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

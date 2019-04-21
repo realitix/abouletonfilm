@@ -1,0 +1,1 @@
+{"tmdb_id": 578984, "title": "Waldemarsudde", "original_title": "Waldemarsudde", "slug_title": "waldemarsudde", "date": "1943-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Prins Eugen ()", "Nils Sj\u00f6gren ()", "Otte Sk\u00f6ld ()"], "comments": [], "recommandations_id": []}

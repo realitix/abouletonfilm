@@ -1,0 +1,1 @@
+{"tmdb_id": 297264, "title": "This Afternoon", "original_title": "This Afternoon", "slug_title": "this-afternoon", "date": "2014-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephen Cefalu (Paul)", "Nikki Taguilas-Pierce (Hilary)", "Bryan Hart (Mike)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 492609, "title": "I Used to Be a Filmmaker", "original_title": "I Used to Be a Filmmaker", "slug_title": "i-used-to-be-a-filmmaker", "date": "2003-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDz6AfE8ftlsBTqpAmXYv3utppP.jpg", "actors": [], "comments": [], "recommandations_id": []}

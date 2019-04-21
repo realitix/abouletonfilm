@@ -1,0 +1,1 @@
+{"tmdb_id": 577932, "title": "Der Regenwettermann", "original_title": "Der Regenwettermann", "slug_title": "der-regenwettermann", "date": "1963-11-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heinz Hellmich (Fr\u00e4nkel)", "Antje Ruge (Rebe)"], "comments": [], "recommandations_id": []}

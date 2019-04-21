@@ -1,0 +1,1 @@
+{"tmdb_id": 494035, "title": "A v\u00e1ros alatt", "original_title": "A v\u00e1ros alatt", "slug_title": "a-varos-alatt", "date": "1953-12-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

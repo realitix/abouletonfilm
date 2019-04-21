@@ -1,0 +1,1 @@
+{"tmdb_id": 112746, "title": "Ice Kings", "original_title": "Ice Kings", "slug_title": "ice-kings", "date": "2006-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsGHsXAeVvWyoU8YM5ccaVFA7jy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557182, "title": "TVTV: Video Revolutionaries", "original_title": "TVTV: Video Revolutionaries", "slug_title": "tvtv-video-revolutionaries", "date": "2018-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q27DSwd3LKkdCRQg0cXMbPioK0N.jpg", "actors": [], "comments": [], "recommandations_id": []}

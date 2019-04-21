@@ -1,0 +1,1 @@
+{"tmdb_id": 198748, "title": "Georg, Piece by Piece", "original_title": "Georg, bit for bit", "slug_title": "georg-piece-by-piece", "date": "2000-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georg Johannesen (Himself)"], "comments": [], "recommandations_id": []}

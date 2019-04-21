@@ -1,0 +1,1 @@
+{"tmdb_id": 417640, "title": "Have You Thought of Talking to the Director?", "original_title": "Have You Thought of Talking to the Director?", "slug_title": "have-you-thought-of-talking-to-the-director", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

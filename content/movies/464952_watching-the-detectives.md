@@ -1,0 +1,1 @@
+{"tmdb_id": 464952, "title": "Watching the Detectives", "original_title": "Watching the Detectives", "slug_title": "watching-the-detectives", "date": "2017-08-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rSpJFl8JqLIqi1utf4lqt1Bdj5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

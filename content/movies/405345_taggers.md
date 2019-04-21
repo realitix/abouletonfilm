@@ -1,0 +1,1 @@
+{"tmdb_id": 405345, "title": "Taggers", "original_title": "Taggers", "slug_title": "taggers", "date": "1990-09-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwLW4IIAkDxqplF056apYZfx4T5.jpg", "actors": ["Kader Boukhanef ()", "Pierre Santini ()", "Bernard Freyd ()"], "comments": [], "recommandations_id": []}

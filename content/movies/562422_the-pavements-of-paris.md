@@ -1,0 +1,1 @@
+{"tmdb_id": 562422, "title": "The Pavements of Paris", "original_title": "Le pav\u00e9 de Paris", "slug_title": "the-pavements-of-paris", "date": "1961-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

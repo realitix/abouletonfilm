@@ -1,0 +1,1 @@
+{"tmdb_id": 433326, "title": "Strike Back", "original_title": "Strike Back", "slug_title": "strike-back", "date": "1997-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idTUe6C5ej6pBrBPk5l1Wspy6yy.jpg", "actors": ["Emil Farkas ()", "Jeff Stryker ()"], "comments": [], "recommandations_id": []}

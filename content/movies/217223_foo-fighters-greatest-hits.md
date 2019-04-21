@@ -1,0 +1,1 @@
+{"tmdb_id": 217223, "title": "Foo Fighters: Greatest Hits", "original_title": "Foo Fighters: Greatest Hits", "slug_title": "foo-fighters-greatest-hits", "date": "2009-11-02", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVxHk5aUGmaw2n78m8K79vSeJUk.jpg", "actors": [], "comments": [], "recommandations_id": []}

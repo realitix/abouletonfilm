@@ -1,0 +1,1 @@
+{"tmdb_id": 239616, "title": "Oswald's Ghost", "original_title": "Oswald's Ghost", "slug_title": "oswald-s-ghost", "date": "2007-07-14", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFdZz4G4EES4vOXAK8eehiiiNE1.jpg", "actors": [], "comments": [], "recommandations_id": []}

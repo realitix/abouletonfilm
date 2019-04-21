@@ -1,0 +1,1 @@
+{"tmdb_id": 51492, "title": "Poo Chai Lunla", "original_title": "Lunla Man", "slug_title": "poo-chai-lunla", "date": "2010-12-09", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

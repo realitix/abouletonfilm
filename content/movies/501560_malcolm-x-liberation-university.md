@@ -1,0 +1,1 @@
+{"tmdb_id": 501560, "title": "Malcolm X Liberation University", "original_title": "Malcolm X Liberation University", "slug_title": "malcolm-x-liberation-university", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betty Shabazz (Herself)"], "comments": [], "recommandations_id": []}

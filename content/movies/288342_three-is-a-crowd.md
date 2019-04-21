@@ -1,0 +1,1 @@
+{"tmdb_id": 288342, "title": "Three Is a Crowd", "original_title": "Three Is a Crowd", "slug_title": "three-is-a-crowd", "date": "1950-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

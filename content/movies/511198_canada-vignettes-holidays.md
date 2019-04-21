@@ -1,0 +1,1 @@
+{"tmdb_id": 511198, "title": "Canada Vignettes: Holidays", "original_title": "Canada Vignettes: Holidays", "slug_title": "canada-vignettes-holidays", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

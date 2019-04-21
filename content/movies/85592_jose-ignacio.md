@@ -1,0 +1,1 @@
+{"tmdb_id": 85592, "title": "Jos\u00e9 Ignacio", "original_title": "Jos\u00e9 Ignacio", "slug_title": "jose-ignacio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

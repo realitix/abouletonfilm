@@ -1,0 +1,1 @@
+{"tmdb_id": 465485, "title": "Bombardment of Mafeking", "original_title": "Bombardment of Mafeking", "slug_title": "bombardment-of-mafeking", "date": "1899-10-31", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

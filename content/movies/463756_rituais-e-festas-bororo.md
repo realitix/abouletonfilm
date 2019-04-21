@@ -1,0 +1,1 @@
+{"tmdb_id": 463756, "title": "Rituais e Festas Bororo", "original_title": "Rituais e Festas Bororo", "slug_title": "rituais-e-festas-bororo", "date": "1916-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dl7unQNBAYxnfLskh5odSTxrcXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

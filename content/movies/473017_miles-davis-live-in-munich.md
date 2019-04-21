@@ -1,0 +1,1 @@
+{"tmdb_id": 473017, "title": "Miles Davis: Live in Munich", "original_title": "Miles Davis: Live in Munich", "slug_title": "miles-davis-live-in-munich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Il4IENT5kDQGM0QloUOoQ73R0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

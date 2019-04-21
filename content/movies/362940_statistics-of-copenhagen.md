@@ -1,0 +1,1 @@
+{"tmdb_id": 362940, "title": "Statistics of Copenhagen", "original_title": "Statistics of Copenhagen", "slug_title": "statistics-of-copenhagen", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

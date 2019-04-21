@@ -1,0 +1,1 @@
+{"tmdb_id": 266931, "title": "A Small Time Act", "original_title": "A Small Time Act", "slug_title": "a-small-time-act", "date": "1913-11-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ford Sterling (Rajah)", "Roscoe 'Fatty' Arbuckle (Theatre Owner)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576898, "title": "Kizuna: Much Ado About Nothing", "original_title": "Kizuna: Koi no kara sawagi", "slug_title": "kizuna-much-ado-about-nothing", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/duPniVdehVma8zMZH7MzO5vZiWz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 454138, "title": "\u0422\u0430\u0440\u0430\u043a\u0430\u043d", "original_title": "\u0422\u0430\u0440\u0430\u043a\u0430\u043d", "slug_title": "tarakan", "date": "1988-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sskBHwaBIgusJLIXU6xgAOsGhce.jpg", "actors": [], "comments": [], "recommandations_id": []}

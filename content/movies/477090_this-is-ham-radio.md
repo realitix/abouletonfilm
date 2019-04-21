@@ -1,0 +1,1 @@
+{"tmdb_id": 477090, "title": "This Is Ham Radio", "original_title": "This Is Ham Radio", "slug_title": "this-is-ham-radio", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lVaVkCTFKL3C1I23OXiaichqDji.jpg", "actors": ["Matt Futterman (Narrator)"], "comments": [], "recommandations_id": []}

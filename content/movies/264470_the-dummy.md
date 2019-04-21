@@ -1,0 +1,1 @@
+{"tmdb_id": 264470, "title": "The Dummy", "original_title": "The Dummy", "slug_title": "the-dummy", "date": "2000-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdzEjbmYGMpp6KHqhmJ9ZBMYuYi.jpg", "actors": [], "comments": [], "recommandations_id": []}

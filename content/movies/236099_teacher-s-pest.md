@@ -1,0 +1,1 @@
+{"tmdb_id": 236099, "title": "Teacher's Pest", "original_title": "Teacher's Pest", "slug_title": "teacher-s-pest", "date": "1950-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBbCp4K0A0iAEGCx96jxmmPC8Ds.jpg", "actors": [], "comments": [], "recommandations_id": []}

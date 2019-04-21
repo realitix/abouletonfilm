@@ -1,0 +1,1 @@
+{"tmdb_id": 446215, "title": "The Slayer", "original_title": "The Slayer", "slug_title": "the-slayer", "date": "2017-02-27", "genre": "Horreur / Myst\u00e8re", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4E2FLWP89KLhPphjh6thMbIHoA.jpg", "actors": [], "comments": [], "recommandations_id": []}

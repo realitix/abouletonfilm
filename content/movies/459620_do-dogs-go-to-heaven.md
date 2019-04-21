@@ -1,0 +1,1 @@
+{"tmdb_id": 459620, "title": "Do Dogs Go To Heaven?", "original_title": "Do Dogs Go To Heaven?", "slug_title": "do-dogs-go-to-heaven", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwEGaUwE9Gtbn2ivzwXVjtpXYYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

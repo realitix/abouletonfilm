@@ -1,0 +1,1 @@
+{"tmdb_id": 106662, "title": "Black Dogs Barking", "original_title": "Kara K\u00f6pekler Havlarken", "slug_title": "black-dogs-barking", "date": "2010-03-19", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/WiEXplE3uT9v3fflVThhJWwWf0.jpg", "actors": [], "comments": [], "recommandations_id": []}

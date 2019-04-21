@@ -1,0 +1,1 @@
+{"tmdb_id": 189360, "title": "Mar\u00eda querida", "original_title": "Mar\u00eda querida", "slug_title": "maria-querida", "date": "2004-10-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZGF6xzRtlRNuCky3KrJyOZtmZe.jpg", "actors": ["Mar\u00eda Botto ()", "Pilar Bardem ()"], "comments": [], "recommandations_id": []}

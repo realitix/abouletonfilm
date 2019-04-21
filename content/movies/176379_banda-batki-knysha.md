@@ -1,0 +1,1 @@
+{"tmdb_id": 176379, "title": "Banda batki Knysha", "original_title": "Banda batki Knysha", "slug_title": "banda-batki-knysha", "date": "1924-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553098, "title": "First Base", "original_title": "First Base", "slug_title": "first-base", "date": "1991-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

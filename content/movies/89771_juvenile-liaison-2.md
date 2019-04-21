@@ -1,0 +1,1 @@
+{"tmdb_id": 89771, "title": "Juvenile Liaison 2", "original_title": "Juvenile Liaison 2", "slug_title": "juvenile-liaison-2", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rB2Aw7Hsj1uNsJjjrmZe2xLpbDp.jpg", "actors": [], "comments": [], "recommandations_id": []}

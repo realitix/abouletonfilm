@@ -1,0 +1,1 @@
+{"tmdb_id": 329330, "title": "The Pristine Coast", "original_title": "The Pristine Coast", "slug_title": "the-pristine-coast", "date": "2014-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

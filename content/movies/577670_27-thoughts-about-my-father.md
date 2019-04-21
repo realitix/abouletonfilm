@@ -1,0 +1,1 @@
+{"tmdb_id": 577670, "title": "27 Thoughts About My Father", "original_title": "27 Thoughts About My Father", "slug_title": "27-thoughts-about-my-father", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4pgNvFktlJsAuPmnQrDKopoTQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

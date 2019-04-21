@@ -1,0 +1,1 @@
+{"tmdb_id": 318466, "title": "Ninja Cadets", "original_title": "Ninja Cadets", "slug_title": "ninja-cadets", "date": "1996-03-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kUniCJrQCnXrawcdkM7ARrb4M9D.jpg", "actors": [], "comments": [], "recommandations_id": []}

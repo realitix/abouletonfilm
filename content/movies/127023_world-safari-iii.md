@@ -1,0 +1,1 @@
+{"tmdb_id": 127023, "title": "World Safari III", "original_title": "Escape: World Safari 3", "slug_title": "world-safari-iii", "date": "1988-12-26", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1w29w5AWhEj7YLBEpdkMMbmUuYb.jpg", "actors": ["Alby Mangels (Himself)"], "comments": [], "recommandations_id": []}

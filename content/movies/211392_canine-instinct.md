@@ -1,0 +1,1 @@
+{"tmdb_id": 211392, "title": "Canine Instinct", "original_title": "Canine Instinct", "slug_title": "canine-instinct", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IgsdTA69aA3FWqE5U2x1A0thyx.jpg", "actors": ["Kyle L. Warren (himself)"], "comments": [], "recommandations_id": []}

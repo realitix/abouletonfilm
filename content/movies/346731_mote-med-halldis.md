@@ -1,0 +1,1 @@
+{"tmdb_id": 346731, "title": "M\u00f8te med Halldis", "original_title": "M\u00f8te med Halldis", "slug_title": "mote-med-halldis", "date": "1995-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Halldis Moren Vesaas ()"], "comments": [], "recommandations_id": []}

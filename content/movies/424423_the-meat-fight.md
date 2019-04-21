@@ -1,0 +1,1 @@
+{"tmdb_id": 424423, "title": "The Meat Fight", "original_title": "The Meat Fight", "slug_title": "the-meat-fight", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbKv6vuiJcnuv8O95TmfxVoLRsR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353659, "title": "West 47th Street", "original_title": "West 47th Street", "slug_title": "west-47th-street", "date": "2001-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

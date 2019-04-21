@@ -1,0 +1,1 @@
+{"tmdb_id": 256886, "title": "Marc Jacobs", "original_title": "Marc Jacobs", "slug_title": "marc-jacobs", "date": "2014-02-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5bmZtlra5QFp1OUe5h9JMmybZz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237050, "title": "Rodeo Romeo", "original_title": "Rodeo Romeo", "slug_title": "rodeo-romeo", "date": "1946-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VKr5Wn3BkDZuMxZ12apBRjEpPN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 277711, "title": "Watermelon's Baked and Baking", "original_title": "Watermelon's Baked and Baking", "slug_title": "watermelon-s-baked-and-baking", "date": "2003-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tV6bpjqSPNM80OK5yWVEfN11iT.jpg", "actors": [], "comments": [], "recommandations_id": []}

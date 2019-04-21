@@ -1,0 +1,1 @@
+{"tmdb_id": 368149, "title": "One West Waikiki", "original_title": "One West Waikiki", "slug_title": "one-west-waikiki", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

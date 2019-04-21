@@ -1,0 +1,1 @@
+{"tmdb_id": 564412, "title": "Divertissement Rococo", "original_title": "Divertissement Rococo", "slug_title": "divertissement-rococo", "date": "1951-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

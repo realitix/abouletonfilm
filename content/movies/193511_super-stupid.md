@@ -1,0 +1,1 @@
+{"tmdb_id": 193511, "title": "Super Stupid", "original_title": "Super Stupid", "slug_title": "super-stupid", "date": "1934-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vince Barnett ()", "Billy Gilbert ()", "Bud Jamison ()"], "comments": [], "recommandations_id": []}

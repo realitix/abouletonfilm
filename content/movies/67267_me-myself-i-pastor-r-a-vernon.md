@@ -1,0 +1,1 @@
+{"tmdb_id": 67267, "title": "Me Myself & I - Pastor R.A. Vernon", "original_title": "Me Myself & I - Pastor R.A. Vernon", "slug_title": "me-myself-i-pastor-r-a-vernon", "date": "2009-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

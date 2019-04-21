@@ -1,0 +1,1 @@
+{"tmdb_id": 392355, "title": "The Lovers", "original_title": "The Lovers", "slug_title": "the-lovers", "date": "2015-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cPdDHnutaDJOxqvqhZ5xIfEtxPX.jpg", "actors": [], "comments": [], "recommandations_id": []}

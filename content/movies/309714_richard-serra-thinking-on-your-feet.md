@@ -1,0 +1,1 @@
+{"tmdb_id": 309714, "title": "Richard Serra: Thinking on Your Feet", "original_title": "Richard Serra: Thinking on Your Feet", "slug_title": "richard-serra-thinking-on-your-feet", "date": "2008-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 251079, "title": "Kinetic Sandwich", "original_title": "Kinetic Sandwich", "slug_title": "kinetic-sandwich", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

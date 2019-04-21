@@ -1,0 +1,1 @@
+{"tmdb_id": 564294, "title": "Roco Kingdom 3", "original_title": "\u6d1b\u514b\u738b\u56fd3:\u5723\u9f99\u7684\u5b88\u62a4", "slug_title": "roco-kingdom-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ylt76TmfL0B8Z9bxzV8Yk06EtiG.jpg", "actors": [], "comments": [], "recommandations_id": []}

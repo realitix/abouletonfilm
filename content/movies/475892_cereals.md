@@ -1,0 +1,1 @@
+{"tmdb_id": 475892, "title": "Cereals", "original_title": "Galla", "slug_title": "cereals", "date": "1982-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7xF7CcTd7erHLoDdJoxSlnrr3ZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

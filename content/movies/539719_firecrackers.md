@@ -1,0 +1,1 @@
+{"tmdb_id": 539719, "title": "Firecrackers", "original_title": "Firecrackers", "slug_title": "firecrackers", "date": "2018-09-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nmp2q2awClyQV6pZ4PJLjPmZ2H.jpg", "actors": ["Michaela Kurimsky (Lou)", "Karena Evans (Chantal)"], "comments": [], "recommandations_id": []}

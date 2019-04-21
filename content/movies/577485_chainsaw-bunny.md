@@ -1,0 +1,1 @@
+{"tmdb_id": 577485, "title": "CHAINSAW BUNNY", "original_title": "CHAINSAW BUNNY", "slug_title": "chainsaw-bunny", "date": "2018-08-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWyn8cTzFMrJZiu4hZjnWEuL6Y5.jpg", "actors": [], "comments": [], "recommandations_id": []}

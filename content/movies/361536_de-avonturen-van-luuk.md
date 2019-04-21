@@ -1,0 +1,1 @@
+{"tmdb_id": 361536, "title": "De avonturen van Luuk", "original_title": "De avonturen van Luuk", "slug_title": "de-avonturen-van-luuk", "date": "2016-09-24", "genre": "Familial / Drame / Action / Aventure", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

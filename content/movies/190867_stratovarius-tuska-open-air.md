@@ -1,0 +1,1 @@
+{"tmdb_id": 190867, "title": "Stratovarius: Tuska Open Air", "original_title": "Stratovarius: Tuska Open Air", "slug_title": "stratovarius-tuska-open-air", "date": "2003-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

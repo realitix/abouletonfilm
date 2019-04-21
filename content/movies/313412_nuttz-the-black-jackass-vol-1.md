@@ -1,0 +1,1 @@
+{"tmdb_id": 313412, "title": "Nuttz: The Black Jackass: Vol. 1", "original_title": "Nuttz: The Black Jackass: Vol. 1", "slug_title": "nuttz-the-black-jackass-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 400754, "title": "The bungee jump skeleton man", "original_title": "The bungee jump skeleton man", "slug_title": "the-bungee-jump-skeleton-man", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

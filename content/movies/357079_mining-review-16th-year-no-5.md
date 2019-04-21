@@ -1,0 +1,1 @@
+{"tmdb_id": 357079, "title": "Mining Review 16th Year No.5", "original_title": "Mining Review 16th Year No.5", "slug_title": "mining-review-16th-year-no-5", "date": "1963-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDy4zCPDhhIXNZ4I8sT51dimxtW.jpg", "actors": [], "comments": [], "recommandations_id": []}

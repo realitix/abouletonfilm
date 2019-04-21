@@ -1,0 +1,1 @@
+{"tmdb_id": 431710, "title": "Wet Earth and Warm People", "original_title": "Wet Earth and Warm People", "slug_title": "wet-earth-and-warm-people", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3x1gUfk4Lx9FgQgWzEn0E7effQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 82129, "title": "Kikker - De Musical", "original_title": "Kikker - De Musical", "slug_title": "kikker-de-musical", "date": "2005-01-02", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2EpUiZWbPzn1j9Jr7NWJAm8JVc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326061, "title": "Community Cup: The Documentary", "original_title": "Community Cup: The Documentary", "slug_title": "community-cup-the-documentary", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

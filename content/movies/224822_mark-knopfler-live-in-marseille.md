@@ -1,0 +1,1 @@
+{"tmdb_id": 224822, "title": "Mark Knopfler - Live in Marseille", "original_title": "Mark Knopfler - Live in Marseille", "slug_title": "mark-knopfler-live-in-marseille", "date": "2006-12-11", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

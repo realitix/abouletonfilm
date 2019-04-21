@@ -1,0 +1,1 @@
+{"tmdb_id": 59400, "title": "Baby Genius: Animal Adventures", "original_title": "Baby Genius: Animal Adventures", "slug_title": "baby-genius-animal-adventures", "date": "2004-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hkCkHc1hhjXOiu7EdU52ySOyB8N.jpg", "actors": [], "comments": [], "recommandations_id": []}

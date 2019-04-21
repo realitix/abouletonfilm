@@ -1,0 +1,1 @@
+{"tmdb_id": 321352, "title": "Renata Scotto: Live in Budapest", "original_title": "Renata Scotto: Live in Budapest", "slug_title": "renata-scotto-live-in-budapest", "date": "2008-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

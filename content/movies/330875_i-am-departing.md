@@ -1,0 +1,1 @@
+{"tmdb_id": 330875, "title": "I am Departing", "original_title": "\u0625\u0646\u064a \u0631\u0627\u062d\u0644\u0629", "slug_title": "i-am-departing", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Madiha Yousri ()", "Seraj Munir ()", "Emad Hamdy ()"], "comments": [], "recommandations_id": []}

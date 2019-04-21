@@ -1,0 +1,1 @@
+{"tmdb_id": 566630, "title": "Inventario", "original_title": "Inventario", "slug_title": "inventario", "date": "2006-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 218940, "title": "Robo-San and Wan-Chan", "original_title": "Robo-San and Wan-Chan", "slug_title": "robo-san-and-wan-chan", "date": "2011-05-31", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 174490, "title": "Buddy's Adventures", "original_title": "Buddy's Adventures", "slug_title": "buddy-s-adventures", "date": "1934-04-13", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeKeKJxCCBAn6zr0qS4KvL9rkPm.jpg", "actors": [], "comments": [], "recommandations_id": []}

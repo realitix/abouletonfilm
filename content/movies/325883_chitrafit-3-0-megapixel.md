@@ -1,0 +1,1 @@
+{"tmdb_id": 325883, "title": "Chitrafit 3.0 Megapixel", "original_title": "Chitrafit 3.0 Megapixel", "slug_title": "chitrafit-3-0-megapixel", "date": "2015-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

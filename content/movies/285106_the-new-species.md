@@ -1,0 +1,1 @@
+{"tmdb_id": 285106, "title": "The New Species", "original_title": "Nov\u00fd druh", "slug_title": "the-new-species", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3skWRSqiLAxmRJkaMCiPAlBJ5fo.jpg", "actors": [], "comments": [], "recommandations_id": []}

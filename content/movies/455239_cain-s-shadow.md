@@ -1,0 +1,1 @@
+{"tmdb_id": 455239, "title": "Cain's Shadow", "original_title": "L'Ombra Di Cain", "slug_title": "cain-s-shadow", "date": "2016-10-22", "genre": "Science-Fiction / Crime / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dY1G2sU1fcoGtNMmBSHiTI9YYMR.jpg", "actors": [], "comments": [], "recommandations_id": []}

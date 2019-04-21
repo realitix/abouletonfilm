@@ -1,0 +1,1 @@
+{"tmdb_id": 504641, "title": "America a.k.a. Amerika", "original_title": "America a.k.a. Amerika", "slug_title": "america-a-k-a-amerika", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

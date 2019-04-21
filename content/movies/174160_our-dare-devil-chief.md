@@ -1,0 +1,1 @@
+{"tmdb_id": 174160, "title": "Our Dare-Devil Chief", "original_title": "Our Dare-Devil Chief", "slug_title": "our-dare-devil-chief", "date": "1915-05-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ford Sterling (The Chief of Police)"], "comments": [], "recommandations_id": []}

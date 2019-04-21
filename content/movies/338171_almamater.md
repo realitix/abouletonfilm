@@ -1,0 +1,1 @@
+{"tmdb_id": 338171, "title": "ALMAmATER", "original_title": "ALMAmATER", "slug_title": "almamater", "date": "2014-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

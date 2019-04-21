@@ -1,0 +1,1 @@
+{"tmdb_id": 374204, "title": "Dust of Life", "original_title": "Les poussieres", "slug_title": "dust-of-life", "date": "1954-06-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

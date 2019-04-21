@@ -1,0 +1,1 @@
+{"tmdb_id": 420688, "title": "Master iz Klamsi", "original_title": "Master iz Klamsi", "slug_title": "master-iz-klamsi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

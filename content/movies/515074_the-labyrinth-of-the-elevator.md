@@ -1,0 +1,1 @@
+{"tmdb_id": 515074, "title": "The labyrinth of the elevator", "original_title": "\u76f4\u89d2\u90e8\u9577\u3068\u56db\u89d2\u3044\u5bc6\u5ba4", "slug_title": "the-labyrinth-of-the-elevator", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

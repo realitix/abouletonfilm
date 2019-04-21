@@ -1,0 +1,1 @@
+{"tmdb_id": 392453, "title": "Berliner Blau", "original_title": "Berliner Blau", "slug_title": "berliner-blau", "date": "1986-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

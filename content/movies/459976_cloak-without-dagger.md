@@ -1,0 +1,1 @@
+{"tmdb_id": 459976, "title": "Cloak Without Dagger", "original_title": "Cloak Without Dagger", "slug_title": "cloak-without-dagger", "date": "1956-05-31", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xeeTnZHiyhEQJ6kSKVR1oTAL93L.jpg", "actors": [], "comments": [], "recommandations_id": []}

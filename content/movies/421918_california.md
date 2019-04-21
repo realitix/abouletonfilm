@@ -1,0 +1,1 @@
+{"tmdb_id": 421918, "title": "California", "original_title": "Kalifornija", "slug_title": "california", "date": "2012-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvCO8yQnaDUQahVXzJkv5e1q6YY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540775, "title": "Rude Boy - The Movie", "original_title": "Rude Boy - The Movie", "slug_title": "rude-boy-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Omar Montanez (Rudy Gonzalez)", "Tara Pearce (Veronica Gonzalez)", "Sean Cruz (Skate)"], "comments": [], "recommandations_id": []}

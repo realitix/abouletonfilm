@@ -1,0 +1,1 @@
+{"tmdb_id": 593056, "title": "Nordlandet och Troms\u00f6", "original_title": "Nordlandet och Troms\u00f6", "slug_title": "nordlandet-och-tromso", "date": "1930-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

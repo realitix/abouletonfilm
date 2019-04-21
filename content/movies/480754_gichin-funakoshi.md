@@ -1,0 +1,1 @@
+{"tmdb_id": 480754, "title": "Gichin Funakoshi", "original_title": "Gichin Funakoshi", "slug_title": "gichin-funakoshi", "date": "1924-07-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gichin Funakoshi ()"], "comments": [], "recommandations_id": []}

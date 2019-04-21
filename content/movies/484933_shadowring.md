@@ -1,0 +1,1 @@
+{"tmdb_id": 484933, "title": "ShadowRing", "original_title": "ShadowRing", "slug_title": "shadowring", "date": "2015-06-06", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Sorbo (Voice)"], "comments": [], "recommandations_id": []}

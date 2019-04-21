@@ -1,0 +1,1 @@
+{"tmdb_id": 283902, "title": "The Offspring: Greatest Hits", "original_title": "The Offspring: Greatest Hits", "slug_title": "the-offspring-greatest-hits", "date": "2005-06-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipquBZ6gNEnxhykraAC3ZPCKWBd.jpg", "actors": [], "comments": [], "recommandations_id": []}

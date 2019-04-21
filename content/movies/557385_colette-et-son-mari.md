@@ -1,0 +1,1 @@
+{"tmdb_id": 557385, "title": "Colette et son mari", "original_title": "Colette et son mari", "slug_title": "colette-et-son-mari", "date": "1934-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

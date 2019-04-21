@@ -1,0 +1,1 @@
+{"tmdb_id": 376619, "title": "Vita Brevis", "original_title": "Vita Brevis", "slug_title": "vita-brevis", "date": "2014-04-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efByWmzseAUXR5NG166U8nFusUB.jpg", "actors": [], "comments": [], "recommandations_id": []}

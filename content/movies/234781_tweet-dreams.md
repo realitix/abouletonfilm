@@ -1,0 +1,1 @@
+{"tmdb_id": 234781, "title": "Tweet Dreams", "original_title": "Tweet Dreams", "slug_title": "tweet-dreams", "date": "1959-12-04", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7ENLCaOYM2X8sjVi3RpzWvHtsv.jpg", "actors": [], "comments": [], "recommandations_id": []}

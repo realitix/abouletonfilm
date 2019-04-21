@@ -1,0 +1,1 @@
+{"tmdb_id": 341710, "title": "Jasmine blossoms", "original_title": "De Jazm\u00edn en Flor", "slug_title": "jasmine-blossoms", "date": "1996-11-24", "genre": "Drame / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dino Garc\u00eda (Luis)", "Jos\u00e9 Carlos Ruiz (Don Ram\u00f3n)"], "comments": [], "recommandations_id": []}

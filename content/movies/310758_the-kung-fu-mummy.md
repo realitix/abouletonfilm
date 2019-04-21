@@ -1,0 +1,1 @@
+{"tmdb_id": 310758, "title": "The Kung Fu Mummy", "original_title": "The Kung Fu Mummy", "slug_title": "the-kung-fu-mummy", "date": "2005-09-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZfQ6oWl00Rygzbs7wnHu7WE6oh.jpg", "actors": [], "comments": [], "recommandations_id": []}

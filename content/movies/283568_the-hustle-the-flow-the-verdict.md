@@ -1,0 +1,1 @@
+{"tmdb_id": 283568, "title": "The Hustle, the Flow, the Verdict", "original_title": "The Hustle, the Flow, the Verdict", "slug_title": "the-hustle-the-flow-the-verdict", "date": "", "genre": "Thriller / Crime / Myst\u00e8re", "score": "1.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

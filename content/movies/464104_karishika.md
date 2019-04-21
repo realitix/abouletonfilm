@@ -1,0 +1,1 @@
+{"tmdb_id": 464104, "title": "Karishika", "original_title": "Karishika", "slug_title": "karishika", "date": "1996-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lS74GSUlo3yWUdqEOddvaVgLo3S.jpg", "actors": [], "comments": [], "recommandations_id": []}

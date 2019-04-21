@@ -1,0 +1,1 @@
+{"tmdb_id": 534204, "title": "Dernier stade", "original_title": "Dernier stade", "slug_title": "dernier-stade", "date": "1994-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7psIm1cgfnCInUpqCObpWvkevQC.jpg", "actors": [], "comments": [], "recommandations_id": []}

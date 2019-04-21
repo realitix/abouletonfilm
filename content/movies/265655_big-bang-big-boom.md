@@ -1,0 +1,1 @@
+{"tmdb_id": 265655, "title": "Big Bang Big Boom", "original_title": "Big Bang Big Boom", "slug_title": "big-bang-big-boom", "date": "2010-01-01", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8cZuDQ9lmMYxzH7iVrP1KyUSg5.jpg", "actors": [], "comments": [], "recommandations_id": [386435, 331489, 183718, 189943]}

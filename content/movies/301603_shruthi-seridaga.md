@@ -1,0 +1,1 @@
+{"tmdb_id": 301603, "title": "Shruthi Seridaga", "original_title": "Shruthi Seridaga", "slug_title": "shruthi-seridaga", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

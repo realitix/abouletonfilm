@@ -1,0 +1,1 @@
+{"tmdb_id": 290117, "title": "Atenci\u00f3n al cliente", "original_title": "Atenci\u00f3n al cliente", "slug_title": "atencion-al-cliente", "date": "2007-01-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hm6BAqPkMFT9pDRNwmlMTpdIHHx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342709, "title": "Addiction", "original_title": "Addiction", "slug_title": "addiction", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hVB6ZIPeLYh6GutziyaRkbdIivk.jpg", "actors": [], "comments": [], "recommandations_id": []}

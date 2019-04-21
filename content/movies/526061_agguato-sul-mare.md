@@ -1,0 +1,1 @@
+{"tmdb_id": 526061, "title": "Agguato sul mare", "original_title": "Agguato sul mare", "slug_title": "agguato-sul-mare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xphdHROQ9cBscHVWW31XpbrMdF7.jpg", "actors": ["Ettore Manni ()", "Maria Frau ()", "Nadja Gray ()"], "comments": [], "recommandations_id": []}

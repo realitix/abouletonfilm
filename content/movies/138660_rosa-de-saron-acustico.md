@@ -1,0 +1,1 @@
+{"tmdb_id": 138660, "title": "Rosa de Saron Ac\u00fastico", "original_title": "Rosa de Saron Ac\u00fastico", "slug_title": "rosa-de-saron-acustico", "date": "2009-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kqPiO1JBZxhHO2HApT2C1w5Y1aO.jpg", "actors": [], "comments": [], "recommandations_id": []}

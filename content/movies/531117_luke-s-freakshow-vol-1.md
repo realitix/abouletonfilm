@@ -1,0 +1,1 @@
+{"tmdb_id": 531117, "title": "Luke's Freakshow, Vol. 1", "original_title": "Luke's Freakshow, Vol. 1", "slug_title": "luke-s-freakshow-vol-1", "date": "2001-08-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cLEFqBNz3FzjrOpzSlb26JSoFnQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

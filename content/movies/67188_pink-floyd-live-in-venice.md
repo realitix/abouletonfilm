@@ -1,0 +1,1 @@
+{"tmdb_id": 67188, "title": "Pink Floyd : Live in Venice", "original_title": "Pink Floyd : Live in Venice", "slug_title": "pink-floyd-live-in-venice", "date": "1989-01-01", "genre": "Musique", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vhkM6E1CjnbIe8hZ1rwDyIfZYzw.jpg", "actors": [], "comments": [], "recommandations_id": []}

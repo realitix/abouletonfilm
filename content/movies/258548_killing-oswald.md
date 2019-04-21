@@ -1,0 +1,1 @@
+{"tmdb_id": 258548, "title": "Killing Oswald", "original_title": "Killing Oswald", "slug_title": "killing-oswald", "date": "2013-11-22", "genre": "", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47NesvA9NCSdGnFHPLc1f1Rck1U.jpg", "actors": [], "comments": [], "recommandations_id": [198318, 43334, 211085, 410259]}

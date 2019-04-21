@@ -1,0 +1,1 @@
+{"tmdb_id": 103563, "title": "Pittsburgh A to Z", "original_title": "Pittsburgh A to Z", "slug_title": "pittsburgh-a-to-z", "date": "2001-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

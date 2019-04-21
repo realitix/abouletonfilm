@@ -1,0 +1,1 @@
+{"tmdb_id": 368124, "title": "Skademeldingen", "original_title": "Skademeldingen", "slug_title": "skademeldingen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

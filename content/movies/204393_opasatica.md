@@ -1,0 +1,1 @@
+{"tmdb_id": 204393, "title": "Opasatica", "original_title": "Opasatica", "slug_title": "opasatica", "date": "2011-09-30", "genre": "Romance", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDKuOkg1bntH0dj9pAhp9zOqYKM.jpg", "actors": ["Alexandre Castonguay ()", "Ariane Lacombe ()"], "comments": [], "recommandations_id": []}

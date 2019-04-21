@@ -1,0 +1,1 @@
+{"tmdb_id": 276372, "title": "Loop Dreams: The Making of a Low-Budget Movie", "original_title": "Loop Dreams: The Making of a Low-Budget Movie", "slug_title": "loop-dreams-the-making-of-a-low-budget-movie", "date": "2001-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

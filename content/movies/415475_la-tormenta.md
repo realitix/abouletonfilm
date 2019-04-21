@@ -1,0 +1,1 @@
+{"tmdb_id": 415475, "title": "La tormenta", "original_title": "La tormenta", "slug_title": "la-tormenta", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betty Ortega ()"], "comments": [], "recommandations_id": []}

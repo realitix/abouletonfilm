@@ -1,0 +1,1 @@
+{"tmdb_id": 499364, "title": "One Deadly Owner", "original_title": "One Deadly Owner", "slug_title": "one-deadly-owner", "date": "1973-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ywXcS2VVdk02vaBLi0on0rsUVfr.jpg", "actors": [], "comments": [], "recommandations_id": []}

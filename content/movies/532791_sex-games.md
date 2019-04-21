@@ -1,0 +1,1 @@
+{"tmdb_id": 532791, "title": "Sex Games", "original_title": "\u9ad8\u6f6e", "slug_title": "sex-games", "date": "1998-06-29", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irDXmtWycSU1FBitd7LNXTSLOC9.jpg", "actors": ["Chang Yuk-Lung ()"], "comments": [], "recommandations_id": []}

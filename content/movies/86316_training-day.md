@@ -1,0 +1,1 @@
+{"tmdb_id": 86316, "title": "Training Day", "original_title": "Training Day", "slug_title": "training-day", "date": "2010-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brandon Adams (Boxer)", "Dub Huntley (Himself)", "Alvin Jones (Trainer)", "Florence Vinger (Herself)"], "comments": [], "recommandations_id": []}

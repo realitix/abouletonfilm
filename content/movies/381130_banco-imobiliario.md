@@ -1,0 +1,1 @@
+{"tmdb_id": 381130, "title": "Banco Imobili\u00e1rio", "original_title": "Banco Imobili\u00e1rio", "slug_title": "banco-imobiliario", "date": "2016-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0Gk099FzxrzFVQiLzmIX5txTXR.jpg", "actors": [], "comments": [], "recommandations_id": []}

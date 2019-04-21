@@ -1,0 +1,1 @@
+{"tmdb_id": 310778, "title": "Al Kooper and the Rekooperators", "original_title": "Al Kooper and the Rekooperators", "slug_title": "al-kooper-and-the-rekooperators", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

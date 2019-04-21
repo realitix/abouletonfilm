@@ -1,0 +1,1 @@
+{"tmdb_id": 45688, "title": "Laker Girls", "original_title": "Laker Girls", "slug_title": "laker-girls", "date": "1990-04-03", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aPQmm2a2HI9GGutTy7LEKe53FNZ.jpg", "actors": ["Tina Yothers (Tracy)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 392000, "title": "Life After Hoop Dreams", "original_title": "Life After Hoop Dreams", "slug_title": "life-after-hoop-dreams", "date": "2015-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Agee ()", "William Gates ()"], "comments": [], "recommandations_id": []}

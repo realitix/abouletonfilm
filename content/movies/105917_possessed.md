@@ -1,0 +1,1 @@
+{"tmdb_id": 105917, "title": "Possessed", "original_title": "Meng gui chu long", "slug_title": "possessed", "date": "1983-01-01", "genre": "Horreur / Crime / Myst\u00e8re / Thriller", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bF4Szqv5KlF1NWeSTPl50xkPXh3.jpg", "actors": [], "comments": [], "recommandations_id": []}

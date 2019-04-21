@@ -1,0 +1,1 @@
+{"tmdb_id": 247219, "title": "XPW: Baptized in Blood", "original_title": "XPW: Baptized in Blood", "slug_title": "xpw-baptized-in-blood", "date": "2000-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMc67hDbVg57u18Xqbpj5dPQoJc.jpg", "actors": [], "comments": [], "recommandations_id": []}

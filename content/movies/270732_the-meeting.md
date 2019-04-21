@@ -1,0 +1,1 @@
+{"tmdb_id": 270732, "title": "The Meeting", "original_title": "The Meeting", "slug_title": "the-meeting", "date": "1917-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Aubrey ()", "Bobby Connelly ()", "William Shea ()"], "comments": [], "recommandations_id": []}

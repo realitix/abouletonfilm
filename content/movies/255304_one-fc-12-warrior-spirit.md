@@ -1,0 +1,1 @@
+{"tmdb_id": 255304, "title": "One FC 12 - Warrior Spirit", "original_title": "One FC 12 - Warrior Spirit", "slug_title": "one-fc-12-warrior-spirit", "date": "2013-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fidhsSnrJpz2U9EOmBKmIpOMEE.jpg", "actors": [], "comments": [], "recommandations_id": []}

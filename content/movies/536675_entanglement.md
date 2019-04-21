@@ -1,0 +1,1 @@
+{"tmdb_id": 536675, "title": "Entanglement", "original_title": "Entanglement", "slug_title": "entanglement", "date": "2018-06-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uaBi1Q6r1jnExlF0lSs6TRJGAT7.jpg", "actors": ["Lukas Hassel (Frank)", "Robin Rose Singer (Jenny)"], "comments": [], "recommandations_id": []}

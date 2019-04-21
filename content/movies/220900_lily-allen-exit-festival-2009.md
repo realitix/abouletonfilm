@@ -1,0 +1,1 @@
+{"tmdb_id": 220900, "title": "Lily Allen: Exit Festival 2009", "original_title": "Lily Allen: Exit Festival 2009", "slug_title": "lily-allen-exit-festival-2009", "date": "2009-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mApyacGZRNgzbIPoQSpQpgwjmZJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

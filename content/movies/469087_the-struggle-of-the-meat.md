@@ -1,0 +1,1 @@
+{"tmdb_id": 469087, "title": "The Struggle of the Meat", "original_title": "The Struggle of the Meat", "slug_title": "the-struggle-of-the-meat", "date": "1974-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

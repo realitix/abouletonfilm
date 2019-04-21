@@ -1,0 +1,1 @@
+{"tmdb_id": 487839, "title": "Community Action Center", "original_title": "Community Action Center", "slug_title": "community-action-center", "date": "2011-11-18", "genre": "Romance / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["A.K. Burns ()", "Eileen Myles ()", "A.L. Steiner ()"], "comments": [], "recommandations_id": []}

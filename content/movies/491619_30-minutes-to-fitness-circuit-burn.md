@@ -1,0 +1,1 @@
+{"tmdb_id": 491619, "title": "30 Minutes to Fitness Circuit Burn", "original_title": "30 Minutes to Fitness Circuit Burn", "slug_title": "30-minutes-to-fitness-circuit-burn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/extcezgx8hGd842VnY2GaefBTc4.jpg", "actors": [], "comments": [], "recommandations_id": []}

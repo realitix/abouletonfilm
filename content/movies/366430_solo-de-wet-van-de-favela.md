@@ -1,0 +1,1 @@
+{"tmdb_id": 366430, "title": "Solo, de wet van de favela", "original_title": "Solo, de wet van de favela", "slug_title": "solo-de-wet-van-de-favela", "date": "1994-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

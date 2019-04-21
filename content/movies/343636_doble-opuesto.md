@@ -1,0 +1,1 @@
+{"tmdb_id": 343636, "title": "Doble opuesto", "original_title": "Doble opuesto", "slug_title": "doble-opuesto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

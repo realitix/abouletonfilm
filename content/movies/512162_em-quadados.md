@@ -1,0 +1,1 @@
+{"tmdb_id": 512162, "title": "Em Quadados", "original_title": "Em Quadados", "slug_title": "em-quadados", "date": "2015-04-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e9tJhGRbuqoIF5FdEsYdkyGQOLf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 246169, "title": "The Plague Summer", "original_title": "The Plague Summer", "slug_title": "the-plague-summer", "date": "1953-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fopx9ALFIgJYZCVkibwC2VLkuOM.jpg", "actors": [], "comments": [], "recommandations_id": []}

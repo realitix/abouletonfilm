@@ -1,0 +1,1 @@
+{"tmdb_id": 424814, "title": "Effigy in Emulsion", "original_title": "Effigy in Emulsion", "slug_title": "effigy-in-emulsion", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7gaQvHoMDz8Ztb3g0tJ32j5A5VA.jpg", "actors": [], "comments": [], "recommandations_id": []}

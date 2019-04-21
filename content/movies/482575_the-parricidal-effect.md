@@ -1,0 +1,1 @@
+{"tmdb_id": 482575, "title": "The Parricidal Effect", "original_title": "The Parricidal Effect", "slug_title": "the-parricidal-effect", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dKR99XfrpLRAJgNbZnNct0271mK.jpg", "actors": ["Tim Kaiser ()"], "comments": [], "recommandations_id": []}

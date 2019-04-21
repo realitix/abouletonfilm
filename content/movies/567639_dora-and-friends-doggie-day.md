@@ -1,0 +1,1 @@
+{"tmdb_id": 567639, "title": "Dora and friends: Doggie day!", "original_title": "Dora and friends: Doggie day!", "slug_title": "dora-and-friends-doggie-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6nVUwlv7rRdazIrnzr52WxgH276.jpg", "actors": [], "comments": [], "recommandations_id": []}

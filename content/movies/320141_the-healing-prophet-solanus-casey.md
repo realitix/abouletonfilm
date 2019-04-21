@@ -1,0 +1,1 @@
+{"tmdb_id": 320141, "title": "The Healing Prophet: Solanus Casey", "original_title": "The Healing Prophet: Solanus Casey", "slug_title": "the-healing-prophet-solanus-casey", "date": "2006-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

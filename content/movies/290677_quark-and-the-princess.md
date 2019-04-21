@@ -1,0 +1,1 @@
+{"tmdb_id": 290677, "title": "Quark and the Princess", "original_title": "Quark and the Princess", "slug_title": "quark-and-the-princess", "date": "1987-12-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnfVmY6jn8EZMQGFhIONHBwwMDg.jpg", "actors": [], "comments": [], "recommandations_id": []}

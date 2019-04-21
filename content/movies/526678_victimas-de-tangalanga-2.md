@@ -1,0 +1,1 @@
+{"tmdb_id": 526678, "title": "Victimas de Tangalanga 2", "original_title": "Victimas de Tangalanga 2", "slug_title": "victimas-de-tangalanga-2", "date": "2016-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97Sh9YD6nDsHvfBlWm8DQlGYxUu.jpg", "actors": [], "comments": [], "recommandations_id": []}

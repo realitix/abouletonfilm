@@ -1,0 +1,1 @@
+{"tmdb_id": 208732, "title": "Pixelaci\u00f3n Laboral", "original_title": "Pixelaci\u00f3n Laboral", "slug_title": "pixelacion-laboral", "date": "2011-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 497482, "title": "\uc694\uc815 \ubbf8\uc778\uad00", "original_title": "\uc694\uc815 \ubbf8\uc778\uad00", "slug_title": "yojeong-miingwan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

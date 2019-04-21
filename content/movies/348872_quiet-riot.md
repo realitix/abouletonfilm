@@ -1,0 +1,1 @@
+{"tmdb_id": 348872, "title": "Quiet Riot", "original_title": "Quiet Riot", "slug_title": "quiet-riot", "date": "2015-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

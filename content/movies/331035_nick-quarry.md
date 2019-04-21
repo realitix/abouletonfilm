@@ -1,0 +1,1 @@
+{"tmdb_id": 331035, "title": "Nick Quarry", "original_title": "Nick Quarry", "slug_title": "nick-quarry", "date": "1968-01-01", "genre": "T\u00e9l\u00e9film / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Scotti (Nick Quarry)", "Gena Rowlands ()"], "comments": [], "recommandations_id": []}

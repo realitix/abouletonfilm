@@ -1,0 +1,1 @@
+{"tmdb_id": 382714, "title": "Tina Barney: Social Studies", "original_title": "Tina Barney: Social Studies", "slug_title": "tina-barney-social-studies", "date": "2005-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sXZaFen6obKwyPAkDnWOEDY8e.jpg", "actors": [], "comments": [], "recommandations_id": []}

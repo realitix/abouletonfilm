@@ -1,0 +1,1 @@
+{"tmdb_id": 378915, "title": "Love Copyright", "original_title": "Love Copyright", "slug_title": "love-copyright", "date": "2015-05-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cV9iej80fmRO0svgUfCi6qP5vQG.jpg", "actors": [], "comments": [], "recommandations_id": []}

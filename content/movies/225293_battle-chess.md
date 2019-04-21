@@ -1,0 +1,1 @@
+{"tmdb_id": 225293, "title": "Battle Chess", "original_title": "Battle Chess", "slug_title": "battle-chess", "date": "2006-10-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PisoXCcnuS9Ew2YCUxwULGLO3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

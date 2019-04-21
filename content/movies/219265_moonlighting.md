@@ -1,0 +1,1 @@
+{"tmdb_id": 219265, "title": "Moonlighting", "original_title": "Moonlighting", "slug_title": "moonlighting", "date": "2009-06-02", "genre": "Science-Fiction / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny August Mason (Ernest 'Ernie' Nero)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 153054, "title": "Shredder Orpheus", "original_title": "Shredder Orpheus", "slug_title": "shredder-orpheus", "date": "1990-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LpXFbXt3lTqVwRGAbjwOOLroLt.jpg", "actors": [], "comments": [], "recommandations_id": []}

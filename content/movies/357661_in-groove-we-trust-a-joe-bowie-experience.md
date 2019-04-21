@@ -1,0 +1,1 @@
+{"tmdb_id": 357661, "title": "In Groove We Trust, A Joe Bowie Experience", "original_title": "In Groove We Trust, A Joe Bowie Experience", "slug_title": "in-groove-we-trust-a-joe-bowie-experience", "date": "2014-12-13", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

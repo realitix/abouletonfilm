@@ -1,0 +1,1 @@
+{"tmdb_id": 349717, "title": "\uc7a5\ubbf8\uc640 \ub3c4\ubc15\uc0ac", "original_title": "\uc7a5\ubbf8\uc640 \ub3c4\ubc15\uc0ac", "slug_title": "jangmiwa-dobagsa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 426779, "title": "More New Wave", "original_title": "More New Wave", "slug_title": "more-new-wave", "date": "2001-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyRdzZ3vgRQaekwfsJYEwRvyRZq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274547, "title": "Capturing the Killer Croc", "original_title": "Capturing the Killer Croc", "slug_title": "capturing-the-killer-croc", "date": "2004-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4e8bZ7Q2Ux24f6xfYPRQGJ5V3YN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 233006, "title": "Livet ombord i Panserbatteriet 'Herluf Trolle'", "original_title": "Livet ombord i Panserbatteriet 'Herluf Trolle'", "slug_title": "livet-ombord-i-panserbatteriet-herluf-trolle", "date": "1910-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

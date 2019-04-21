@@ -1,0 +1,1 @@
+{"tmdb_id": 311958, "title": "The True Story of Che Guevera", "original_title": "The True Story of Che Guevera", "slug_title": "the-true-story-of-che-guevera", "date": "2007-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8L91A8b6DsSjvkLVeoFoXaj80i.jpg", "actors": [], "comments": [], "recommandations_id": []}

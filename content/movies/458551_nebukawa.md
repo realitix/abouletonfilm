@@ -1,0 +1,1 @@
+{"tmdb_id": 458551, "title": "Nebukawa", "original_title": "Nebukawa", "slug_title": "nebukawa", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

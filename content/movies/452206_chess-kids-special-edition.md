@@ -1,0 +1,1 @@
+{"tmdb_id": 452206, "title": "Chess Kids: Special Edition", "original_title": "Chess Kids: Special Edition", "slug_title": "chess-kids-special-edition", "date": "2011-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0dUJRZ8YDa6Phj2VbbDnSfLlea.jpg", "actors": [], "comments": [], "recommandations_id": []}

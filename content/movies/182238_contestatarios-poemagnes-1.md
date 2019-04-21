@@ -1,0 +1,1 @@
+{"tmdb_id": 182238, "title": "Contestatarios (poem\u00e1gnes 1)", "original_title": "Contestatarios (poem\u00e1gnes 1)", "slug_title": "contestatarios-poemagnes-1", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

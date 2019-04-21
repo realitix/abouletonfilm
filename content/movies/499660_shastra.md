@@ -1,0 +1,1 @@
+{"tmdb_id": 499660, "title": "Shastra", "original_title": "Shastra", "slug_title": "shastra", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rk4it1cE8Ra7Yz2hiywXRDpcKuS.jpg", "actors": ["Sunil Shetty (Vijay)", "Anjali Jathar ()", "Anupam Kher ()"], "comments": [], "recommandations_id": []}

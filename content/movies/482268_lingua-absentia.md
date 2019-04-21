@@ -1,0 +1,1 @@
+{"tmdb_id": 482268, "title": "Lingua Absentia", "original_title": "Lingua Absentia", "slug_title": "lingua-absentia", "date": "2017-03-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 485470, "title": "Good Model 2", "original_title": "\ucc29\ud55c \ud615\uc2182", "slug_title": "good-model-2", "date": "2017-11-06", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3pEs4hmeHvTAsmx09whEaPDOQpq.jpg", "actors": [], "comments": [], "recommandations_id": []}

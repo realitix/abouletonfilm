@@ -1,0 +1,1 @@
+{"tmdb_id": 551218, "title": "Las Peluqueras", "original_title": "Las Peluqueras", "slug_title": "las-peluqueras", "date": "2007-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

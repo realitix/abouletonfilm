@@ -1,0 +1,1 @@
+{"tmdb_id": 374182, "title": "The Night the Animals Talked", "original_title": "The Night the Animals Talked", "slug_title": "the-night-the-animals-talked", "date": "1970-12-09", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Porretta (Donkey (voice))"], "comments": [], "recommandations_id": []}

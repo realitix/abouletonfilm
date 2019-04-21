@@ -1,0 +1,1 @@
+{"tmdb_id": 369324, "title": "The Art of Recovery", "original_title": "The Art of Recovery", "slug_title": "the-art-of-recovery", "date": "2015-08-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acNGRf1dtVK9yZL9KxLaPlWebH9.jpg", "actors": [], "comments": [], "recommandations_id": []}

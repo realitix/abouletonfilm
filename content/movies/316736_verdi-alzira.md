@@ -1,0 +1,1 @@
+{"tmdb_id": 316736, "title": "Verdi - Alzira", "original_title": "Verdi - Alzira", "slug_title": "verdi-alzira", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

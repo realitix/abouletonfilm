@@ -1,0 +1,1 @@
+{"tmdb_id": 432651, "title": "The Dog Walker", "original_title": "The Dog Walker", "slug_title": "the-dog-walker", "date": "2003-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Kelly (Benny Hagelman)", "Krista Sutton (Suzy Diggins)", "Jefferson Brown (Hudson Spruce)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 341500, "title": "Bon Jovi: Slippery When Wet", "original_title": "Bon Jovi: Slippery When Wet", "slug_title": "bon-jovi-slippery-when-wet", "date": "2015-04-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aTXx3UcXSdhqNUhWrMuzClPsG9w.jpg", "actors": [], "comments": [], "recommandations_id": []}

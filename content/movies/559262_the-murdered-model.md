@@ -1,0 +1,1 @@
+{"tmdb_id": 559262, "title": "The Murdered Model", "original_title": "Le mannequin assassin\u00e9", "slug_title": "the-murdered-model", "date": "1948-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhAZEQK4QxFtNsLUrz24mpyQqVP.jpg", "actors": [], "comments": [], "recommandations_id": []}

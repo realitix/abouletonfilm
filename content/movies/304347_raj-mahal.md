@@ -1,0 +1,1 @@
+{"tmdb_id": 304347, "title": "Raj Mahal", "original_title": "Raj Mahal", "slug_title": "raj-mahal", "date": "1982-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

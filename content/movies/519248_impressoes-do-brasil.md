@@ -1,0 +1,1 @@
+{"tmdb_id": 519248, "title": "Impress\u00f5es do Brasil", "original_title": "Impress\u00f5es do Brasil", "slug_title": "impressoes-do-brasil", "date": "1987-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

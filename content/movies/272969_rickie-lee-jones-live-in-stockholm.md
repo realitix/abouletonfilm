@@ -1,0 +1,1 @@
+{"tmdb_id": 272969, "title": "Rickie Lee Jones: Live in Stockholm", "original_title": "Rickie Lee Jones: Live in Stockholm", "slug_title": "rickie-lee-jones-live-in-stockholm", "date": "2010-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

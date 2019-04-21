@@ -1,0 +1,1 @@
+{"tmdb_id": 315239, "title": "Graffiti Area", "original_title": "Graffiti Area", "slug_title": "graffiti-area", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576194, "title": "The Red Effect", "original_title": "The Red Effect", "slug_title": "the-red-effect", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lORAHKOGaQLvZihCX9Z8j8dEjXQ.jpg", "actors": ["Tracey Allyn ()", "Amy Mack ()", "Rachel Addai ()"], "comments": [], "recommandations_id": []}

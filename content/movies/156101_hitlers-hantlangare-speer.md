@@ -1,0 +1,1 @@
+{"tmdb_id": 156101, "title": "Hitlers Hantlangare - Speer", "original_title": "Hitlers Hantlangare - Speer", "slug_title": "hitlers-hantlangare-speer", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXwCPTB8S2wau4Yug7r5fuDKuwV.jpg", "actors": [], "comments": [], "recommandations_id": []}

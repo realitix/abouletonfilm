@@ -1,0 +1,1 @@
+{"tmdb_id": 578418, "title": "Red vs Blue-The Chorus Trilogy", "original_title": "Red vs Blue-The Chorus Trilogy", "slug_title": "red-vs-blue-the-chorus-trilogy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 452702, "title": "The Rumour of True Things", "original_title": "The Rumour of True Things", "slug_title": "the-rumour-of-true-things", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424895, "title": "Pierrot Lunaire", "original_title": "Pierrot Lunaire", "slug_title": "pierrot-lunaire", "date": "1988-01-01", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/igkk4KH7kzzHTUgunMT8QJbbwSB.jpg", "actors": [], "comments": [], "recommandations_id": []}

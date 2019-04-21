@@ -1,0 +1,1 @@
+{"tmdb_id": 419707, "title": "Last Call", "original_title": "Last Call", "slug_title": "last-call", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

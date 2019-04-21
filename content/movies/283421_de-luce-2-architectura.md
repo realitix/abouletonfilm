@@ -1,0 +1,1 @@
+{"tmdb_id": 283421, "title": "De Luce 2: Architectura", "original_title": "De Luce 2: Architectura", "slug_title": "de-luce-2-architectura", "date": "2013-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwSh3vJFqzCq68hqOWXQZtKLCPQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

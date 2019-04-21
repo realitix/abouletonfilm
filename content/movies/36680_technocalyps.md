@@ -1,0 +1,1 @@
+{"tmdb_id": 36680, "title": "TechnoCalyps", "original_title": "TechnoCalyps", "slug_title": "technocalyps", "date": "2006-05-01", "genre": "Documentaire / Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8HXzQlfYnfd5dY8ffSCQqNakOx.jpg", "actors": ["Terence McKenna (Himself)"], "comments": [], "recommandations_id": []}

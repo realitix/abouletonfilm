@@ -1,0 +1,1 @@
+{"tmdb_id": 76698, "title": "Mamma Mu M\u00f6ter Kr\u00e5kan", "original_title": "Mamma Mu M\u00f6ter Kr\u00e5kan", "slug_title": "mamma-mu-moter-krakan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

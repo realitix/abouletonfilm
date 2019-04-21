@@ -1,0 +1,1 @@
+{"tmdb_id": 569993, "title": "Il decalogo di Vasco", "original_title": "Il decalogo di Vasco", "slug_title": "il-decalogo-di-vasco", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5Atm072Asu9EyizWAeRND8XIXp.jpg", "actors": ["Vasco Rossi ()"], "comments": [], "recommandations_id": []}

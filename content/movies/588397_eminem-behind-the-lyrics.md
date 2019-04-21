@@ -1,0 +1,1 @@
+{"tmdb_id": 588397, "title": "Eminem Behind the Lyrics", "original_title": "Eminem Behind the Lyrics", "slug_title": "eminem-behind-the-lyrics", "date": "2013-03-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBpDFzoMwUvaLV84cbVKoAxcrW2.jpg", "actors": ["Eminem ()"], "comments": [], "recommandations_id": []}

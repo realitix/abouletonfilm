@@ -1,0 +1,1 @@
+{"tmdb_id": 276293, "title": "Eminem: Hitz & Disses", "original_title": "Eminem: Hitz & Disses", "slug_title": "eminem-hitz-disses", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

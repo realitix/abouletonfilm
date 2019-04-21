@@ -1,0 +1,1 @@
+{"tmdb_id": 236360, "title": "Sneak, Snoop and Snitch", "original_title": "Sneak, Snoop and Snitch", "slug_title": "sneak-snoop-and-snitch", "date": "1940-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

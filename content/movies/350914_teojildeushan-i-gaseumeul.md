@@ -1,0 +1,1 @@
+{"tmdb_id": 350914, "title": "\ud130\uc9c8\ub4ef\ud55c \uc774 \uac00\uc2b4\uc744", "original_title": "\ud130\uc9c8\ub4ef\ud55c \uc774 \uac00\uc2b4\uc744", "slug_title": "teojildeushan-i-gaseumeul", "date": "1979-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

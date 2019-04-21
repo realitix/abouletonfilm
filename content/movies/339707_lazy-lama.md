@@ -1,0 +1,1 @@
+{"tmdb_id": 339707, "title": "Lazy Lama", "original_title": "Lazy Lama", "slug_title": "lazy-lama", "date": "2012-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xN62IIiUc8LCzdfaQX4lNK09nmD.jpg", "actors": ["Ringu Tulku Rinpoche ()"], "comments": [], "recommandations_id": []}

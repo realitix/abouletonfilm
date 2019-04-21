@@ -1,0 +1,1 @@
+{"tmdb_id": 404016, "title": "Bal Espagnol dans la rue (Mexique)", "original_title": "Bal Espagnol dans la rue (Mexique)", "slug_title": "bal-espagnol-dans-la-rue-mexique", "date": "1896-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

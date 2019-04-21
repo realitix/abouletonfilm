@@ -1,0 +1,1 @@
+{"tmdb_id": 508151, "title": "Parallel", "original_title": "Parallel", "slug_title": "parallel", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

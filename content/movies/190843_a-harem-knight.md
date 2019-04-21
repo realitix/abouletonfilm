@@ -1,0 +1,1 @@
+{"tmdb_id": 190843, "title": "A Harem Knight", "original_title": "A Harem Knight", "slug_title": "a-harem-knight", "date": "1926-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Turpin (Rodney St. Clair)"], "comments": [], "recommandations_id": []}

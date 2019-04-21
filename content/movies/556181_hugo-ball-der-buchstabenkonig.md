@@ -1,0 +1,1 @@
+{"tmdb_id": 556181, "title": "Hugo Ball - Der Buchstabenk\u00f6nig", "original_title": "Hugo Ball - Der Buchstabenk\u00f6nig", "slug_title": "hugo-ball-der-buchstabenkonig", "date": "2018-10-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302141, "title": "Calapor", "original_title": "Calapor", "slug_title": "calapor", "date": "2013-08-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abbUi2hhdeO1pLjJf68mAYSmO1W.jpg", "actors": ["Priyanshu Chatterjee ()", "Rituparna Sengupta ()"], "comments": [], "recommandations_id": []}

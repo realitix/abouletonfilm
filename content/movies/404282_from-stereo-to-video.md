@@ -1,0 +1,1 @@
+{"tmdb_id": 404282, "title": "From Stereo to Video", "original_title": "From Stereo to Video", "slug_title": "from-stereo-to-video", "date": "2014-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 491634, "title": "Bitter Taste", "original_title": "Bitter Taste", "slug_title": "bitter-taste", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oliver Tarney (Young Fraser)", "Amy Morrison (Edith)", "Martin Connor (Craig)"], "comments": [], "recommandations_id": []}

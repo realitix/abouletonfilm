@@ -1,0 +1,1 @@
+{"tmdb_id": 487598, "title": "The Call", "original_title": "The Call", "slug_title": "the-call", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal Jaloqa ()", "Mairna Toghuj ()", "Adam Sobar ()", "Amer Shafakoj ()", "Al Ahli Ensemble ()"], "comments": [], "recommandations_id": []}

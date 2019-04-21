@@ -1,0 +1,1 @@
+{"tmdb_id": 285675, "title": "Papiers Anim\u00e9", "original_title": "Papiers Anim\u00e9", "slug_title": "papiers-anime", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

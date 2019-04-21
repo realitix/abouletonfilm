@@ -1,0 +1,1 @@
+{"tmdb_id": 376373, "title": "Og\u00fa y Mampato en Rapanui", "original_title": "Og\u00fa y Mampato en Rapanui", "slug_title": "ogu-y-mampato-en-rapanui", "date": "", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nNZUCmNfoCH81Yiv8F69feJAyV.jpg", "actors": [], "comments": [], "recommandations_id": []}

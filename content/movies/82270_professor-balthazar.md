@@ -1,0 +1,1 @@
+{"tmdb_id": 82270, "title": "Professor Balthazar", "original_title": "Professor Balthazar", "slug_title": "professor-balthazar", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RuaBeRkdnvAl3IczqwbE9maFUf.jpg", "actors": [], "comments": [], "recommandations_id": []}

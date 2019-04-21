@@ -1,0 +1,1 @@
+{"tmdb_id": 276919, "title": "Wrigley Field: Beyond the Ivy", "original_title": "Wrigley Field: Beyond the Ivy", "slug_title": "wrigley-field-beyond-the-ivy", "date": "2001-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Petersen (Narrator)"], "comments": [], "recommandations_id": []}

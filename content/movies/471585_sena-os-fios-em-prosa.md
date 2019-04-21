@@ -1,0 +1,1 @@
+{"tmdb_id": 471585, "title": "Sena, Os Fios em Prosa", "original_title": "Sena, Os Fios em Prosa", "slug_title": "sena-os-fios-em-prosa", "date": "2017-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23Bh1VVxYtO8FqkAgOxww2tO4GQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

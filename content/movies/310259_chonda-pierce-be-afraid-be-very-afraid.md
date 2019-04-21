@@ -1,0 +1,1 @@
+{"tmdb_id": 310259, "title": "Chonda Pierce: Be Afraid, Be Very Afraid!", "original_title": "Chonda Pierce: Be Afraid, Be Very Afraid!", "slug_title": "chonda-pierce-be-afraid-be-very-afraid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chonda Pierce (herself)"], "comments": [], "recommandations_id": []}

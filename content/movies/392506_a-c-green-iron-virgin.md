@@ -1,0 +1,1 @@
+{"tmdb_id": 392506, "title": "A.C. Green: Iron Virgin", "original_title": "A.C. Green: Iron Virgin", "slug_title": "a-c-green-iron-virgin", "date": "2016-05-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Ferrell (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 409854, "title": "Bandit and the Ram", "original_title": "Bandit and the Ram", "slug_title": "bandit-and-the-ram", "date": "2014-01-01", "genre": "Documentaire / Aventure", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pnjO0WjINmFZfFH13jrBWYpysKW.jpg", "actors": [], "comments": [], "recommandations_id": []}

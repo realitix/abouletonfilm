@@ -1,0 +1,1 @@
+{"tmdb_id": 470525, "title": "Rose-Marie", "original_title": "Rose-Marie", "slug_title": "rose-marie", "date": "1928-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXzGsb5z7YLiPyc6d0Quo2vBCVY.jpg", "actors": ["Joan Crawford (Rose-Marie)"], "comments": [], "recommandations_id": []}

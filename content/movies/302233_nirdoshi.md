@@ -1,0 +1,1 @@
+{"tmdb_id": 302233, "title": "Nirdoshi", "original_title": "Nirdoshi", "slug_title": "nirdoshi", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

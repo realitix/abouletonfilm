@@ -1,0 +1,1 @@
+{"tmdb_id": 415601, "title": "Alma, Silueta en Fuego", "original_title": "Alma, Silueta en Fuego", "slug_title": "alma-silueta-en-fuego", "date": "1975-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4QeQSx0YLSfW8z2ggpCEp2dZp3Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

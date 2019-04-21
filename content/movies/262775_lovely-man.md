@@ -1,0 +1,1 @@
+{"tmdb_id": 262775, "title": "Lovely Man", "original_title": "Lovely Man", "slug_title": "lovely-man", "date": "2011-09-30", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgQMBJb2aPGrpEnWlpUAmmI1saY.jpg", "actors": ["Donny Damara (Syaiful, Ipuy)", "Raihaanun (Cahaya)"], "comments": [], "recommandations_id": []}

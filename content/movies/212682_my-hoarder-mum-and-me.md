@@ -1,0 +1,1 @@
+{"tmdb_id": 212682, "title": "My Hoarder Mum and Me", "original_title": "My Hoarder Mum and Me", "slug_title": "my-hoarder-mum-and-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

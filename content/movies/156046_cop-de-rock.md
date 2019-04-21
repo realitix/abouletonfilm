@@ -1,0 +1,1 @@
+{"tmdb_id": 156046, "title": "Cop De Rock", "original_title": "Cop De Rock", "slug_title": "cop-de-rock", "date": "2011-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQVbGPfciVwjBvIKjpgxamd555u.jpg", "actors": ["Roger Berruezo (Roc)"], "comments": [], "recommandations_id": []}

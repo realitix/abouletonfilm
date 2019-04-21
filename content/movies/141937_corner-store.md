@@ -1,0 +1,1 @@
+{"tmdb_id": 141937, "title": "Corner Store", "original_title": "Corner Store", "slug_title": "corner-store", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ZQTRuaKVbgQI3siuGaoh0lj7Hw.jpg", "actors": [], "comments": [], "recommandations_id": []}

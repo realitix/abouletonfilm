@@ -1,0 +1,1 @@
+{"tmdb_id": 198822, "title": "Le Premier Jour de la Libert\u00e9", "original_title": "Pierwszy dzien wolnosci", "slug_title": "le-premier-jour-de-la-liberte", "date": "1964-06-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlpYkyA6t0OuMMEtQjdVjENMOv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

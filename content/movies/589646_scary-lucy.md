@@ -1,0 +1,1 @@
+{"tmdb_id": 589646, "title": "Scary Lucy", "original_title": "Scary Lucy", "slug_title": "scary-lucy", "date": "2018-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

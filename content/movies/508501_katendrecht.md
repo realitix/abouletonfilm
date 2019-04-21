@@ -1,0 +1,1 @@
+{"tmdb_id": 508501, "title": "Katendrecht", "original_title": "Katendrecht", "slug_title": "katendrecht", "date": "1925-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

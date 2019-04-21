@@ -1,0 +1,1 @@
+{"tmdb_id": 555322, "title": "Stone Cold Dead in the Market", "original_title": "Stone Cold Dead in the Market", "slug_title": "stone-cold-dead-in-the-market", "date": "1946-01-01", "genre": "Musique / Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gracie Barrie (Herself)"], "comments": [], "recommandations_id": []}

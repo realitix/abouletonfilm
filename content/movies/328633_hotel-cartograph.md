@@ -1,0 +1,1 @@
+{"tmdb_id": 328633, "title": "Hotel Cartograph", "original_title": "Hotel Cartograph", "slug_title": "hotel-cartograph", "date": "1983-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

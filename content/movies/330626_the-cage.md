@@ -1,0 +1,1 @@
+{"tmdb_id": 330626, "title": "The Cage", "original_title": "Ha-Kluv", "slug_title": "the-cage", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alon Aboutboul ()", "Salim Dau ()"], "comments": [], "recommandations_id": []}

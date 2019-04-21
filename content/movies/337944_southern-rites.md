@@ -1,0 +1,1 @@
+{"tmdb_id": 337944, "title": "Southern Rites", "original_title": "Southern Rites", "slug_title": "southern-rites", "date": "2015-05-18", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xplfeQRFqI3SBLMDxt4CPtopy8u.jpg", "actors": [], "comments": [], "recommandations_id": []}

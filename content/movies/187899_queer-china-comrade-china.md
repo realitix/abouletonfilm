@@ -1,0 +1,1 @@
+{"tmdb_id": 187899, "title": "Queer China, 'Comrade' China", "original_title": "Zhi tongzhi", "slug_title": "queer-china-comrade-china", "date": "2009-10-09", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ldCm0hsqnSqBmJTYsqYnxc8bx10.jpg", "actors": [], "comments": [], "recommandations_id": []}

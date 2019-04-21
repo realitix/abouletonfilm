@@ -1,0 +1,1 @@
+{"tmdb_id": 277784, "title": "Fragments of Decay", "original_title": "Fragments of Decay", "slug_title": "fragments-of-decay", "date": "1983-06-20", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7ZTGNh6Q37FDaoCcCbf8bvfVr3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 469881, "title": "Chitrangada", "original_title": "Chitrangada", "slug_title": "chitrangada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sakshi Gulati (Samyukta)"], "comments": [], "recommandations_id": []}

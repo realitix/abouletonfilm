@@ -1,0 +1,1 @@
+{"tmdb_id": 320337, "title": "Cruising Mexico Off the Beaten Path - Volume 1", "original_title": "Cruising Mexico Off the Beaten Path - Volume 1", "slug_title": "cruising-mexico-off-the-beaten-path-volume-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 462720, "title": "Les Cahiers de Medellin", "original_title": "Diario en Medell\u00edn", "slug_title": "les-cahiers-de-medellin", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

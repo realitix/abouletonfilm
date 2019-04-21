@@ -1,0 +1,1 @@
+{"tmdb_id": 581330, "title": "Jumbo: The Life of an Elephant Superstar", "original_title": "Jumbo: The Life of an Elephant Superstar", "slug_title": "jumbo-the-life-of-an-elephant-superstar", "date": "2018-01-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Suzuki ()"], "comments": [], "recommandations_id": []}

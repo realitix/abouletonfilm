@@ -1,0 +1,1 @@
+{"tmdb_id": 259076, "title": "This Is New Zealand", "original_title": "This Is New Zealand", "slug_title": "this-is-new-zealand", "date": "1970-03-13", "genre": "Documentaire / Histoire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOx0FENEuNxJaW8UnUgjSo5NZoT.jpg", "actors": [], "comments": [], "recommandations_id": []}

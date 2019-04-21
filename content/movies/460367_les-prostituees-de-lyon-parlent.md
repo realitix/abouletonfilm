@@ -1,0 +1,1 @@
+{"tmdb_id": 460367, "title": "Les prostitu\u00e9es de Lyon parlent", "original_title": "Les prostitu\u00e9es de Lyon parlent", "slug_title": "les-prostituees-de-lyon-parlent", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 551119, "title": "Das Sommeralbum", "original_title": "Das Sommeralbum", "slug_title": "das-sommeralbum", "date": "1992-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

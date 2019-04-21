@@ -1,0 +1,1 @@
+{"tmdb_id": 497819, "title": "Far Bright Star", "original_title": "Far Bright Star", "slug_title": "far-bright-star", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joaquin Phoenix (Napoleon Childs)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 80811, "title": "Final Solution", "original_title": "Final Solution", "slug_title": "final-solution", "date": "2001-08-01", "genre": "Drame", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0f1XdqAZTP4YiST3E2Y03ngUOG.jpg", "actors": ["Jan Ellis (Gerrit Wolfaardt)"], "comments": [], "recommandations_id": []}

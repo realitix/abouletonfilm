@@ -1,0 +1,1 @@
+{"tmdb_id": 338379, "title": "Slam Dunk", "original_title": "\u30b9\u30e9\u30e0\u30c0\u30f3\u30af", "slug_title": "slam-dunk", "date": "1994-03-12", "genre": "Drame / Animation / Com\u00e9die", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97PnJGDjDTn3WjsEK1XQQDETzuj.jpg", "actors": [], "comments": [], "recommandations_id": []}

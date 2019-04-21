@@ -1,0 +1,1 @@
+{"tmdb_id": 278492, "title": "Adrenaline Ride: Fast Times", "original_title": "Adrenaline Ride: Fast Times", "slug_title": "adrenaline-ride-fast-times", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 427920, "title": "Freakshow Cinema", "original_title": "Freakshow Cinema", "slug_title": "freakshow-cinema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539097, "title": "L'amant de Madame Vidal", "original_title": "L'amant de Madame Vidal", "slug_title": "l-amant-de-madame-vidal", "date": "1936-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/660ZK5mFwNXbA0wVpXlxKmc4QSq.jpg", "actors": [], "comments": [], "recommandations_id": []}

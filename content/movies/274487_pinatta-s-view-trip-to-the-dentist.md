@@ -1,0 +1,1 @@
+{"tmdb_id": 274487, "title": "Pinatta's View: Trip to the Dentist", "original_title": "Pinatta's View: Trip to the Dentist", "slug_title": "pinatta-s-view-trip-to-the-dentist", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

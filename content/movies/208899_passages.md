@@ -1,0 +1,1 @@
+{"tmdb_id": 208899, "title": "Passages", "original_title": "Passagen", "slug_title": "passages", "date": "1996-07-21", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adi Sitzmann ()", "Le Dinhan ()", "Ornella Goria ()"], "comments": [], "recommandations_id": []}

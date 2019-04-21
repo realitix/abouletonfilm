@@ -1,0 +1,1 @@
+{"tmdb_id": 312589, "title": "Growing Up Wild: Vol. 3: Bouncing Babies", "original_title": "Growing Up Wild: Vol. 3: Bouncing Babies", "slug_title": "growing-up-wild-vol-3-bouncing-babies", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

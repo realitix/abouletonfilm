@@ -1,0 +1,1 @@
+{"tmdb_id": 282584, "title": "Punda Prachanda", "original_title": "Punda Prachanda", "slug_title": "punda-prachanda", "date": "1991-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Shruti ()", "Vanitha Vasu ()", "Lakshmi ()"], "comments": [], "recommandations_id": []}

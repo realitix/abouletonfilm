@@ -1,0 +1,1 @@
+{"tmdb_id": 588825, "title": "Alltag im XXL Hotel", "original_title": "Alltag im XXL Hotel", "slug_title": "alltag-im-xxl-hotel", "date": "2016-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

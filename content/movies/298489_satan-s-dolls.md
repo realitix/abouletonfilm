@@ -1,0 +1,1 @@
+{"tmdb_id": 298489, "title": "Satan's Dolls", "original_title": "Satan's Dolls", "slug_title": "satan-s-dolls", "date": "2014-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jIsnMr0ua6SmAOKHPJYqYv4YFA.jpg", "actors": ["Julie McCarthy (Sister Martha)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 582997, "title": "Piece of Cake", "original_title": "Piece of Cake", "slug_title": "piece-of-cake", "date": "2018-11-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dide Verker (Emma)", "Pien van Rheede (Floor)", "Hannah Frencken (Sophie)", "Ika Hompes (waitress)"], "comments": [], "recommandations_id": []}

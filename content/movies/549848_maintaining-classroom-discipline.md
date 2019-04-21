@@ -1,0 +1,1 @@
+{"tmdb_id": 549848, "title": "Maintaining Classroom Discipline", "original_title": "Maintaining Classroom Discipline", "slug_title": "maintaining-classroom-discipline", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

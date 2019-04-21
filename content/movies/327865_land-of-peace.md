@@ -1,0 +1,1 @@
+{"tmdb_id": 327865, "title": "Land of Peace", "original_title": "Ard el salam", "slug_title": "land-of-peace", "date": "1957-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cMfx4fg74H3zhcU5uRaB9VKI9JZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

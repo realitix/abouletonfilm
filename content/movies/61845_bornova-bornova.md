@@ -1,0 +1,1 @@
+{"tmdb_id": 61845, "title": "Bornova Bornova", "original_title": "Bornova Bornova", "slug_title": "bornova-bornova", "date": "2009-11-13", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7KmOU9JOkLsdOM8KXA5L1Ga78kp.jpg", "actors": [], "comments": [], "recommandations_id": [52188, 79084, 300618, 114222]}

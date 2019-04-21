@@ -1,0 +1,1 @@
+{"tmdb_id": 588554, "title": "Dumpling", "original_title": "Pyza", "slug_title": "dumpling", "date": "1959-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wB7O4LDLWAQBMMzezoYaYy5r4em.jpg", "actors": [], "comments": [], "recommandations_id": []}

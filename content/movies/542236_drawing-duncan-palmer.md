@@ -1,0 +1,1 @@
+{"tmdb_id": 542236, "title": "Drawing Duncan Palmer", "original_title": "Drawing Duncan Palmer", "slug_title": "drawing-duncan-palmer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83ul329TyskDYr353L5pTKdybar.jpg", "actors": [], "comments": [], "recommandations_id": []}

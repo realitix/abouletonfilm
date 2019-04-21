@@ -1,0 +1,1 @@
+{"tmdb_id": 224042, "title": "Sissy Sheriff", "original_title": "Sissy Sheriff", "slug_title": "sissy-sheriff", "date": "1967-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbA9d1jOYoCM6oNQZ3jnCveFEip.jpg", "actors": [], "comments": [], "recommandations_id": []}

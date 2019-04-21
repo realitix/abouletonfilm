@@ -1,0 +1,1 @@
+{"tmdb_id": 465864, "title": "The Swimmer", "original_title": "The Swimmer", "slug_title": "the-swimmer", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emile Hirsch (Richard Morgan)", "Rolf Lassg\u00e5rd (Odvar)", "Agnes Kittelsen (May)", "Kristoffer Jones (Frank)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 339585, "title": "Nishijapon", "original_title": "Nishijapon", "slug_title": "nishijapon", "date": "2005-05-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Soumitra Chatterjee ()", "Parambrata Chatterjee ()", "Raima Sen ()"], "comments": [], "recommandations_id": []}

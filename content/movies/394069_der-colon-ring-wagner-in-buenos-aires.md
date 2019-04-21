@@ -1,0 +1,1 @@
+{"tmdb_id": 394069, "title": "Der Col\u00f3n Ring - Wagner in Buenos Aires", "original_title": "Der Col\u00f3n Ring - Wagner in Buenos Aires", "slug_title": "der-colon-ring-wagner-in-buenos-aires", "date": "2013-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

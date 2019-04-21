@@ -1,0 +1,1 @@
+{"tmdb_id": 373272, "title": "To Be or not to Be", "original_title": "To Be or not to Be", "slug_title": "to-be-or-not-to-be", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

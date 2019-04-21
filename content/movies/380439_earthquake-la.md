@@ -1,0 +1,1 @@
+{"tmdb_id": 380439, "title": "Earthquake LA", "original_title": "Earthquake LA", "slug_title": "earthquake-la", "date": "2009-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah E. Spencer (Olivia)", "Tommy Nash (Rick)"], "comments": [], "recommandations_id": []}

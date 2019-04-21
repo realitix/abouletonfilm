@@ -1,0 +1,1 @@
+{"tmdb_id": 38864, "title": "My Wife and My Dead Wife", "original_title": "My Wife and My Dead Wife", "slug_title": "my-wife-and-my-dead-wife", "date": "2007-08-08", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60WtLXt6EFnOlHM94ASZ1IJ4wK4.jpg", "actors": [], "comments": [], "recommandations_id": []}

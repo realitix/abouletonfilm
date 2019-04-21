@@ -1,0 +1,1 @@
+{"tmdb_id": 305285, "title": "The Forbidden City and Secrets of Hollywood", "original_title": "The Forbidden City and Secrets of Hollywood", "slug_title": "the-forbidden-city-and-secrets-of-hollywood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

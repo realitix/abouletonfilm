@@ -1,0 +1,1 @@
+{"tmdb_id": 519837, "title": "Harry Bertoia's Sculpture", "original_title": "Harry Bertoia's Sculpture", "slug_title": "harry-bertoia-s-sculpture", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cICGnpJu72eToIz7GwA19jELeAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

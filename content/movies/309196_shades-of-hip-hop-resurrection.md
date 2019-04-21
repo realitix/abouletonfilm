@@ -1,0 +1,1 @@
+{"tmdb_id": 309196, "title": "Shades of Hip Hop: Resurrection", "original_title": "Shades of Hip Hop: Resurrection", "slug_title": "shades-of-hip-hop-resurrection", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

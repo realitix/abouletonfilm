@@ -1,0 +1,1 @@
+{"tmdb_id": 260757, "title": "The Frozen Star", "original_title": "The Frozen Star", "slug_title": "the-frozen-star", "date": "1977-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

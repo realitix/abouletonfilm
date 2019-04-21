@@ -1,0 +1,1 @@
+{"tmdb_id": 476707, "title": "Ashes, An Essay on Fire", "original_title": "Cinzas, Ensaio Sobre o Fogo", "slug_title": "ashes-an-essay-on-fire", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEpSDxqHZWsuucn9aejPIBOMRLp.jpg", "actors": [], "comments": [], "recommandations_id": []}

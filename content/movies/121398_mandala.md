@@ -1,0 +1,1 @@
+{"tmdb_id": 121398, "title": "Mandala", "original_title": "Mandala", "slug_title": "mandala", "date": "1977-01-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIdezGDNd1qjY1yu8aokpM9LsOb.jpg", "actors": [], "comments": [], "recommandations_id": []}

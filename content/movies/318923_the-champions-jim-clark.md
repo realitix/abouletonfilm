@@ -1,0 +1,1 @@
+{"tmdb_id": 318923, "title": "The Champions - Jim Clark", "original_title": "The Champions - Jim Clark", "slug_title": "the-champions-jim-clark", "date": "2002-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8MLAjGlkspxLVMAC0p7SPR7f1d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 168591, "title": "Pop Star On Ice", "original_title": "Pop Star On Ice", "slug_title": "pop-star-on-ice", "date": "2009-05-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcJnLnGbuMoRGi27FelkjpkhUIy.jpg", "actors": ["Johnny Weir (Johnny Weir)"], "comments": [], "recommandations_id": []}

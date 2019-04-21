@@ -1,0 +1,1 @@
+{"tmdb_id": 191475, "title": "Um Caso Bicudo", "original_title": "Um Caso Bicudo", "slug_title": "um-caso-bicudo", "date": "2003-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vV9BIF0fvlKZtwtSG44ccj7a3Du.jpg", "actors": [], "comments": [], "recommandations_id": []}

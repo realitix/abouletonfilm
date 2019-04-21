@@ -1,0 +1,1 @@
+{"tmdb_id": 589285, "title": "La statua di carne", "original_title": "La statua di carne", "slug_title": "la-statua-di-carne", "date": "1921-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Italia Almirante-Manzini ()", "Arnold Kent ()"], "comments": [], "recommandations_id": []}

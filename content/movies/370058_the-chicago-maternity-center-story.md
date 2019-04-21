@@ -1,0 +1,1 @@
+{"tmdb_id": 370058, "title": "The Chicago Maternity Center Story", "original_title": "The Chicago Maternity Center Story", "slug_title": "the-chicago-maternity-center-story", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

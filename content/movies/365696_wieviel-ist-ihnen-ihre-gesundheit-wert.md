@@ -1,0 +1,1 @@
+{"tmdb_id": 365696, "title": "Wieviel ist Ihnen Ihre Gesundheit wert?", "original_title": "Wieviel ist Ihnen Ihre Gesundheit wert?", "slug_title": "wieviel-ist-ihnen-ihre-gesundheit-wert", "date": "1932-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

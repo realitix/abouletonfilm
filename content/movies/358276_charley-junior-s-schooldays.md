@@ -1,0 +1,1 @@
+{"tmdb_id": 358276, "title": "Charley Junior's Schooldays", "original_title": "Charley Junior's Schooldays", "slug_title": "charley-junior-s-schooldays", "date": "1949-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uy15vf4nFUngi3e2DHDgOGGWib.jpg", "actors": [], "comments": [], "recommandations_id": []}

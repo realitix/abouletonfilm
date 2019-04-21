@@ -1,0 +1,1 @@
+{"tmdb_id": 323957, "title": "Juletestamentet", "original_title": "Juletestamentet", "slug_title": "juletestamentet", "date": "1995-12-12", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mipIpKW0EcwewVbcSbSA99kghhE.jpg", "actors": [], "comments": [], "recommandations_id": []}

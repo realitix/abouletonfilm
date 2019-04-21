@@ -1,0 +1,1 @@
+{"tmdb_id": 235169, "title": "Feather Dusted", "original_title": "Feather Dusted", "slug_title": "feather-dusted", "date": "1955-01-14", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rme6e9g3QKvj58Dio0ymZhg99f0.jpg", "actors": [], "comments": [], "recommandations_id": [202613, 177340, 145931, 146058]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237252, "title": "Base Brawl", "original_title": "Base Brawl", "slug_title": "base-brawl", "date": "1948-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ailcDrszLSxztFtCKQVKYtTlGDg.jpg", "actors": [], "comments": [], "recommandations_id": []}

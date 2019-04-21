@@ -1,0 +1,1 @@
+{"tmdb_id": 378412, "title": "The Desperate Prodigal", "original_title": "\u706b\u62fc\u6d6a\u5b50 / Huo ping lang zi", "slug_title": "the-desperate-prodigal", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyd8LZFNrYlPVWNJpR0MGfPpxST.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 281416, "title": "Love Spell", "original_title": "Love Spell", "slug_title": "love-spell", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349637, "title": "My Pounding Heart", "original_title": "\uc2ec\uc7a5\uc774 \ub6f0\ub124", "slug_title": "my-pounding-heart", "date": "1984-06-13", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

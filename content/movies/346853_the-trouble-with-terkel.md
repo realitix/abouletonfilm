@@ -1,0 +1,1 @@
+{"tmdb_id": 346853, "title": "The Trouble with Terkel", "original_title": "The Trouble with Terkel", "slug_title": "the-trouble-with-terkel", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xa3Ub3traKEfSaZZ0lTmBonVnog.jpg", "actors": [], "comments": [], "recommandations_id": []}

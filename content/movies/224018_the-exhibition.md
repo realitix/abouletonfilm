@@ -1,0 +1,1 @@
+{"tmdb_id": 224018, "title": "The Exhibition", "original_title": "The Exhibition", "slug_title": "the-exhibition", "date": "2013-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztQhct0q2gT68mGJVyxo28M8uOR.jpg", "actors": [], "comments": [], "recommandations_id": []}

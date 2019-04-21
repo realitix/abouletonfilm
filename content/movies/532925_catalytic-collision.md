@@ -1,0 +1,1 @@
+{"tmdb_id": 532925, "title": "Catalytic Collision", "original_title": "Catalytic Collision", "slug_title": "catalytic-collision", "date": "2018-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e00py9MjQ8A4mmYyJsBV5wv3B0c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 106710, "title": "Dragon Kid", "original_title": "Dragon Kid", "slug_title": "dragon-kid", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgOSYk6T89kPqHvvYpdtXdGWkjI.jpg", "actors": [], "comments": [], "recommandations_id": []}

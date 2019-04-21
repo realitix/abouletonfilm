@@ -1,0 +1,1 @@
+{"tmdb_id": 297719, "title": "The Chair", "original_title": "The Chair", "slug_title": "the-chair", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fuZ5E6M2VTx904UkJTNC7usuwto.jpg", "actors": [], "comments": [], "recommandations_id": []}

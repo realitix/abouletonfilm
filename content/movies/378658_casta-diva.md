@@ -1,0 +1,1 @@
+{"tmdb_id": 378658, "title": "Casta Diva", "original_title": "Casta Diva", "slug_title": "casta-diva", "date": "1983-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yzoV2WGLtoZF91DgX8cVsXTokyl.jpg", "actors": [], "comments": [], "recommandations_id": []}

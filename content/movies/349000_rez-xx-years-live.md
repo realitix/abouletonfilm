@@ -1,0 +1,1 @@
+{"tmdb_id": 349000, "title": "Rez - XX Years Live", "original_title": "Rez - XX Years Live", "slug_title": "rez-xx-years-live", "date": "1992-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQQ7BsJoTkyKQqMtASZ1gT9vk98.jpg", "actors": [], "comments": [], "recommandations_id": []}

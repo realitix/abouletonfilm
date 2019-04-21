@@ -1,0 +1,1 @@
+{"tmdb_id": 339021, "title": "Jazz Icons: The Svend Asmussen Quartet", "original_title": "Jazz Icons: The Svend Asmussen Quartet", "slug_title": "jazz-icons-the-svend-asmussen-quartet", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

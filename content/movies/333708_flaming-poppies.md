@@ -1,0 +1,1 @@
+{"tmdb_id": 333708, "title": "Flaming Poppies", "original_title": "\u0634\u0642\u0627\u06cc\u0642 \u0633\u0648\u0632\u0627\u0646", "slug_title": "flaming-poppies", "date": "1963-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

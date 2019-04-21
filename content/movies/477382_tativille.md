@@ -1,0 +1,1 @@
+{"tmdb_id": 477382, "title": "Tativille", "original_title": "Tativille", "slug_title": "tativille", "date": "1966-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacques Tati (Interviewee)", "Alan Dell (Narrator)"], "comments": [], "recommandations_id": []}

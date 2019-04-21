@@ -1,0 +1,1 @@
+{"tmdb_id": 80915, "title": "Ein angenehmer Patient", "original_title": "Ein angenehmer Patient", "slug_title": "ein-angenehmer-patient", "date": "1932-06-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Moser (Patient)", "Franz Schafheitlin ()"], "comments": [], "recommandations_id": []}

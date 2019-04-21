@@ -1,0 +1,1 @@
+{"tmdb_id": 320577, "title": "Usher: Glamorous Life", "original_title": "Usher: Glamorous Life", "slug_title": "usher-glamorous-life", "date": "2005-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

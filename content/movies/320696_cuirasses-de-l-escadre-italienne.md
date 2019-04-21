@@ -1,0 +1,1 @@
+{"tmdb_id": 320696, "title": "Cuirass\u00e9s de l'escadre italienne", "original_title": "Cuirass\u00e9s de l'escadre italienne", "slug_title": "cuirasses-de-l-escadre-italienne", "date": "1899-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

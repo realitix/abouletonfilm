@@ -1,0 +1,1 @@
+{"tmdb_id": 260864, "title": "The Malagasy Way", "original_title": "Ady Gasy", "slug_title": "the-malagasy-way", "date": "2014-03-30", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXmX8LaObbwrSzQhKUBo9CjDr8q.jpg", "actors": [], "comments": [], "recommandations_id": []}

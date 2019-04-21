@@ -1,0 +1,1 @@
+{"tmdb_id": 553761, "title": "Primitive Paradise", "original_title": "Primitive Paradise", "slug_title": "primitive-paradise", "date": "1961-05-26", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xvAPPzRXYpcZtvyn3SWp7YZjm6K.jpg", "actors": [], "comments": [], "recommandations_id": []}

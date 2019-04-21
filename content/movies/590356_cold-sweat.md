@@ -1,0 +1,1 @@
+{"tmdb_id": 590356, "title": "Cold Sweat", "original_title": "Aragh-e-Sard", "slug_title": "cold-sweat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

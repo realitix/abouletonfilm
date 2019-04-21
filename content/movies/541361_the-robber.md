@@ -1,0 +1,1 @@
+{"tmdb_id": 541361, "title": "The Robber", "original_title": "The Robber", "slug_title": "the-robber", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Marie Howard (The Woman)", "Robert Kerbeck (The Robber)", "Wayne Duvall (The Policeman)"], "comments": [], "recommandations_id": []}

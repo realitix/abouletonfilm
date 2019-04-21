@@ -1,0 +1,1 @@
+{"tmdb_id": 348560, "title": "Encounter", "original_title": "Encounter", "slug_title": "encounter", "date": "1970-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Khvykb3n04f4X8yvWeBM0fWh9M.jpg", "actors": [], "comments": [], "recommandations_id": []}

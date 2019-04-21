@@ -1,0 +1,1 @@
+{"tmdb_id": 288929, "title": "The Maltese Murder Mystery", "original_title": "The Maltese Murder Mystery", "slug_title": "the-maltese-murder-mystery", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

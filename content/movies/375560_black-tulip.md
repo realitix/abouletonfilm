@@ -1,0 +1,1 @@
+{"tmdb_id": 375560, "title": "Black Tulip", "original_title": "Black Tulip", "slug_title": "black-tulip", "date": "1988-01-01", "genre": "Animation / Familial / Fantastique / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jje2aKKez0CWFdMog9FzghIXh93.jpg", "actors": [], "comments": [], "recommandations_id": []}

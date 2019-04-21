@@ -1,0 +1,1 @@
+{"tmdb_id": 483620, "title": "Filippa", "original_title": "Filippa", "slug_title": "filippa", "date": "2017-09-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqiOIsZJRQEpYcvT2VyX3h0Xf2x.jpg", "actors": ["Magnus Sundberg ()", "Freja Gustafsson ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547526, "title": "Flour Arrangements", "original_title": "Flour Arrangements", "slug_title": "flour-arrangements", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNVZ6HC3lSFRBs8hWFzNLnoVzP7.jpg", "actors": ["Bruce Nauman ()"], "comments": [], "recommandations_id": []}

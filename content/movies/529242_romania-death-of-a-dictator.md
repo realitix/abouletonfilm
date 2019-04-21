@@ -1,0 +1,1 @@
+{"tmdb_id": 529242, "title": "Romania: Death of a Dictator", "original_title": "Romania: Death of a Dictator", "slug_title": "romania-death-of-a-dictator", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iciDzwLjcNzL5oyqRlUfdOFKmyS.jpg", "actors": [], "comments": [], "recommandations_id": []}

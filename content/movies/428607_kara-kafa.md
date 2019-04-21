@@ -1,0 +1,1 @@
+{"tmdb_id": 428607, "title": "Kara Kafa", "original_title": "Kara Kafa", "slug_title": "kara-kafa", "date": "2011-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bet\u00fcl As\u00e7ioglu (Hacer)", "Bahri Ate\u015f ()"], "comments": [], "recommandations_id": []}

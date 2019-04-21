@@ -1,0 +1,1 @@
+{"tmdb_id": 568661, "title": "Oppressions", "original_title": "Oppressions", "slug_title": "oppressions", "date": "1989-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 40871, "title": "Growing Up Greek in America", "original_title": "Growing Up Greek in America", "slug_title": "growing-up-greek-in-america", "date": "", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVtfToFtQ4HlhDVrxeI06FK11mx.jpg", "actors": [], "comments": [], "recommandations_id": []}

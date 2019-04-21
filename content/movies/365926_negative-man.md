@@ -1,0 +1,1 @@
+{"tmdb_id": 365926, "title": "Negative Man", "original_title": "Negative Man", "slug_title": "negative-man", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFAo9NCofLGELnHJmWv5FJ40lvU.jpg", "actors": [], "comments": [], "recommandations_id": []}

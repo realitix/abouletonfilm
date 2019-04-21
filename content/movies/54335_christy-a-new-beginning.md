@@ -1,0 +1,1 @@
+{"tmdb_id": 54335, "title": "Christy - A New Beginning", "original_title": "Christy - A New Beginning", "slug_title": "christy-a-new-beginning", "date": "2001-12-28", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oql1WCn0WNMGBA8xwZt5FWnAcfW.jpg", "actors": [], "comments": [], "recommandations_id": []}

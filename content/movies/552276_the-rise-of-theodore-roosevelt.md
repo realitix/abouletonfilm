@@ -1,0 +1,1 @@
+{"tmdb_id": 552276, "title": "The Rise of Theodore Roosevelt", "original_title": "The Rise of Theodore Roosevelt", "slug_title": "the-rise-of-theodore-roosevelt", "date": "", "genre": "Histoire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

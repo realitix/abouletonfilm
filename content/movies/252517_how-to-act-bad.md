@@ -1,0 +1,1 @@
+{"tmdb_id": 252517, "title": "How to Act Bad", "original_title": "How to Act Bad", "slug_title": "how-to-act-bad", "date": "2011-11-09", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adam Green (Himself)"], "comments": [], "recommandations_id": []}

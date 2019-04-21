@@ -1,0 +1,1 @@
+{"tmdb_id": 488117, "title": "The Crazy Kill", "original_title": "The Crazy Kill", "slug_title": "the-crazy-kill", "date": "1975-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487798, "title": "Rusting World", "original_title": "D\u00e9clin", "slug_title": "rusting-world", "date": "1980-07-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

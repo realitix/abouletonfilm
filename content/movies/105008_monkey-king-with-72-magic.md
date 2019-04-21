@@ -1,0 +1,1 @@
+{"tmdb_id": 105008, "title": "Monkey King with 72 Magic", "original_title": "\u65b0\u5b6b\u609f\u7a7a72\u8b8a", "slug_title": "monkey-king-with-72-magic", "date": "1976-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/doXZAAHB4UlzGgDlX0pQMdnrJlN.jpg", "actors": [], "comments": [], "recommandations_id": []}

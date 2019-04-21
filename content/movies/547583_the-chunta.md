@@ -1,0 +1,1 @@
+{"tmdb_id": 547583, "title": "The Chunt\u00e1", "original_title": "Las Chunt\u00e1", "slug_title": "the-chunta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpvU9uxItnpCl3aVBn2AA41V7Ks.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 361820, "title": "The Boss is Dead", "original_title": "Le patron est mort", "slug_title": "the-boss-is-dead", "date": "1938-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rncTtOaOF44PNdy17dkduMwfiXj.jpg", "actors": [], "comments": [], "recommandations_id": []}

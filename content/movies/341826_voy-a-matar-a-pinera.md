@@ -1,0 +1,1 @@
+{"tmdb_id": 341826, "title": "Voy a matar a Pi\u00f1era", "original_title": "Voy a matar a Pi\u00f1era", "slug_title": "voy-a-matar-a-pinera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

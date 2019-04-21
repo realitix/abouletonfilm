@@ -1,0 +1,1 @@
+{"tmdb_id": 325298, "title": "Black Guy On A Rampage", "original_title": "Black Guy On A Rampage", "slug_title": "black-guy-on-a-rampage", "date": "2011-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

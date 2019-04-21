@@ -1,0 +1,1 @@
+{"tmdb_id": 294905, "title": "Kanyini", "original_title": "Kanyini", "slug_title": "kanyini", "date": "2006-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZq9v8cDIkr6KQGAhVlY9GshKsR.jpg", "actors": [], "comments": [], "recommandations_id": []}

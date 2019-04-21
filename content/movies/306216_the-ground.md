@@ -1,0 +1,1 @@
+{"tmdb_id": 306216, "title": "The Ground", "original_title": "The Ground", "slug_title": "the-ground", "date": "2001-01-30", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11SIXXEPCp6prjkJgnC3uIxLu1V.jpg", "actors": [], "comments": [], "recommandations_id": [253038, 250320, 315736, 299203]}

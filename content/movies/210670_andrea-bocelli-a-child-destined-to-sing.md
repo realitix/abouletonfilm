@@ -1,0 +1,1 @@
+{"tmdb_id": 210670, "title": "Andrea Bocelli: A Child Destined to Sing", "original_title": "Andrea Bocelli: A Child Destined to Sing", "slug_title": "andrea-bocelli-a-child-destined-to-sing", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

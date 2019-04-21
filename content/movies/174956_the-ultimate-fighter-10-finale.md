@@ -1,0 +1,1 @@
+{"tmdb_id": 174956, "title": "The Ultimate Fighter 10 Finale", "original_title": "The Ultimate Fighter 10 Finale", "slug_title": "the-ultimate-fighter-10-finale", "date": "2009-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwv8N7apyn9EI6peUStVlvrHGfi.jpg", "actors": [], "comments": [], "recommandations_id": []}

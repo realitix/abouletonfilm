@@ -1,0 +1,1 @@
+{"tmdb_id": 563284, "title": "A Report to an Academy", "original_title": "Informe para una academia", "slug_title": "a-report-to-an-academy", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVeEajP6qoxMnYI5DGCeVvCdBbP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 475534, "title": "Faith: Beegie and the Egg", "original_title": "Faith: Beegie and the Egg", "slug_title": "faith-beegie-and-the-egg", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

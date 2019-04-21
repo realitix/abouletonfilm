@@ -1,0 +1,1 @@
+{"tmdb_id": 371204, "title": "Working Women", "original_title": "Robotnice", "slug_title": "working-women", "date": "1981-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjnc8M7jsCC1A4oMifnE7eTlfp6.jpg", "actors": [], "comments": [], "recommandations_id": []}

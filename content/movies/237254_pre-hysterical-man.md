@@ -1,0 +1,1 @@
+{"tmdb_id": 237254, "title": "Pre-Hysterical Man", "original_title": "Pre-Hysterical Man", "slug_title": "pre-hysterical-man", "date": "1948-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

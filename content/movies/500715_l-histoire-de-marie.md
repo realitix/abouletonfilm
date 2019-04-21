@@ -1,0 +1,1 @@
+{"tmdb_id": 500715, "title": "L'histoire de Marie", "original_title": "L'histoire de Marie", "slug_title": "l-histoire-de-marie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lula Cotton-Frapier (Marie)", "Sylvie Loffreda (Sylvie)", "Lucas Franchi (Louis)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352214, "title": "The Secret Underground Lectures of Commander X", "original_title": "The Secret Underground Lectures of Commander X", "slug_title": "the-secret-underground-lectures-of-commander-x", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

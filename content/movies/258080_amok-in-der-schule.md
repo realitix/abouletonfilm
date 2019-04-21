@@ -1,0 +1,1 @@
+{"tmdb_id": 258080, "title": "Amok in der Schule", "original_title": "Amok in der Schule", "slug_title": "amok-in-der-schule", "date": "2004-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

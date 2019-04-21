@@ -1,0 +1,1 @@
+{"tmdb_id": 311410, "title": "The Ramen Days: Bay Area Hardcore Documented", "original_title": "The Ramen Days: Bay Area Hardcore Documented", "slug_title": "the-ramen-days-bay-area-hardcore-documented", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

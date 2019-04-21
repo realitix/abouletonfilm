@@ -1,0 +1,1 @@
+{"tmdb_id": 557365, "title": "Bariole", "original_title": "Bariole", "slug_title": "bariole", "date": "1934-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

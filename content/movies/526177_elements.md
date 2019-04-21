@@ -1,0 +1,1 @@
+{"tmdb_id": 526177, "title": "Elements", "original_title": "Elements", "slug_title": "elements", "date": "2008-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julie Murray (director)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350857, "title": "Pumpkinhead Unearthed", "original_title": "Pumpkinhead Unearthed", "slug_title": "pumpkinhead-unearthed", "date": "2008-09-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iKwekiaGHUAGrNB8nv2vtVKJxqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

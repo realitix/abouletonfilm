@@ -1,0 +1,1 @@
+{"tmdb_id": 105337, "title": "Mikunopolis in Los Angeles", "original_title": "Mikunopolis in Los Angeles", "slug_title": "mikunopolis-in-los-angeles", "date": "2011-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcURlXNKE2ALVFsEwz1f7Fs2chs.jpg", "actors": [], "comments": [], "recommandations_id": []}

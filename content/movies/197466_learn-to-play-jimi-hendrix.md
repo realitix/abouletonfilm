@@ -1,0 +1,1 @@
+{"tmdb_id": 197466, "title": "Learn To Play Jimi Hendrix", "original_title": "Learn To Play Jimi Hendrix", "slug_title": "learn-to-play-jimi-hendrix", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gXw0eM6VyiV5apacgdO3SzHZNcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

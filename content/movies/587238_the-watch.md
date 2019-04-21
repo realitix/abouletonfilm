@@ -1,0 +1,1 @@
+{"tmdb_id": 587238, "title": "The Watch", "original_title": "The Watch", "slug_title": "the-watch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Lakos (The Protagonist)", "Panos Stagkos (Strange Man)", "Spiros Zapantis-Linardatos (Red Man)"], "comments": [], "recommandations_id": []}

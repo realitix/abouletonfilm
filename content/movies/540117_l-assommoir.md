@@ -1,0 +1,1 @@
+{"tmdb_id": 540117, "title": "L'assommoir", "original_title": "L'assommoir", "slug_title": "l-assommoir", "date": "1933-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prrVpA3xsB3VjbmT6F8AQAxnyqN.jpg", "actors": [], "comments": [], "recommandations_id": []}

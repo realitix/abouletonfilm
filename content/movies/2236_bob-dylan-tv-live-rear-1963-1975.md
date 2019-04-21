@@ -1,0 +1,1 @@
+{"tmdb_id": 2236, "title": "Bob Dylan - TV Live & Rear 1963 - 1975", "original_title": "Bob Dylan - TV Live & Rear 1963 - 1975", "slug_title": "bob-dylan-tv-live-rear-1963-1975", "date": "2004-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Dylan (Himself)"], "comments": [], "recommandations_id": []}

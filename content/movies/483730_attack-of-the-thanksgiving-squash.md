@@ -1,0 +1,1 @@
+{"tmdb_id": 483730, "title": "Attack of the Thanksgiving Squash", "original_title": "Attack of the Thanksgiving Squash", "slug_title": "attack-of-the-thanksgiving-squash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLAWQYmFJ3nZ6mZ4k2SXx37izwh.jpg", "actors": [], "comments": [], "recommandations_id": []}

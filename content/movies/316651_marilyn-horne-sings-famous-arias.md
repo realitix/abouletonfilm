@@ -1,0 +1,1 @@
+{"tmdb_id": 316651, "title": "Marilyn Horne Sings Famous Arias", "original_title": "Marilyn Horne Sings Famous Arias", "slug_title": "marilyn-horne-sings-famous-arias", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

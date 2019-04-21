@@ -1,0 +1,1 @@
+{"tmdb_id": 513860, "title": "ghost diary", "original_title": "ghost diary", "slug_title": "ghost-diary", "date": "2016-04-07", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7IDvcr012X8DZPjtw1mbjsi1Jp.jpg", "actors": [], "comments": [], "recommandations_id": []}

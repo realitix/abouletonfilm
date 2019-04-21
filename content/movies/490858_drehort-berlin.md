@@ -1,0 +1,1 @@
+{"tmdb_id": 490858, "title": "Drehort Berlin", "original_title": "Drehort Berlin", "slug_title": "drehort-berlin", "date": "1987-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

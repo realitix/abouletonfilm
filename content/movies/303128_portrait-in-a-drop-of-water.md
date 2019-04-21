@@ -1,0 +1,1 @@
+{"tmdb_id": 303128, "title": "Portrait in a Drop of Water", "original_title": "Portret w kropli", "slug_title": "portrait-in-a-drop-of-water", "date": "1997-04-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKfnyEmeQi3agVhQ9Tyqcpv0box.jpg", "actors": [], "comments": [], "recommandations_id": []}

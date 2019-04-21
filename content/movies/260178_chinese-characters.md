@@ -1,0 +1,1 @@
+{"tmdb_id": 260178, "title": "Chinese Characters", "original_title": "Chinese Characters", "slug_title": "chinese-characters", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lDMGl8Df3P4468k4JFgpOSwIvc.jpg", "actors": [], "comments": [], "recommandations_id": []}

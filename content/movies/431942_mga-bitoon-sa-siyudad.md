@@ -1,0 +1,1 @@
+{"tmdb_id": 431942, "title": "Mga Bitoon sa Siyudad", "original_title": "Mga Bitoon sa Siyudad", "slug_title": "mga-bitoon-sa-siyudad", "date": "2016-12-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwkP5ReXyeRO4FoVU7RidJYrrRU.jpg", "actors": [], "comments": [], "recommandations_id": []}

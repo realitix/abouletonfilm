@@ -1,0 +1,1 @@
+{"tmdb_id": 461171, "title": "Le gai savoir", "original_title": "Le gai savoir", "slug_title": "le-gai-savoir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

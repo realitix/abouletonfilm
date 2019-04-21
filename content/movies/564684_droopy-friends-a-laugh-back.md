@@ -1,0 +1,1 @@
+{"tmdb_id": 564684, "title": "Droopy & Friends: A Laugh Back", "original_title": "Droopy & Friends: A Laugh Back", "slug_title": "droopy-friends-a-laugh-back", "date": "2007-05-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maurice LaMarche (Narrator (voice))"], "comments": [], "recommandations_id": []}

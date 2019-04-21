@@ -1,0 +1,1 @@
+{"tmdb_id": 314199, "title": "White, Blue and White", "original_title": "White, Blue and White", "slug_title": "white-blue-and-white", "date": "2014-07-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRhADvd7MgaKdXeQSRBaIXFjvbk.jpg", "actors": [], "comments": [], "recommandations_id": []}

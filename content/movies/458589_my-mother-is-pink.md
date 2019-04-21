@@ -1,0 +1,1 @@
+{"tmdb_id": 458589, "title": "My Mother is Pink", "original_title": "Min mor er pink", "slug_title": "my-mother-is-pink", "date": "2017-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzLbRs6kzZevNDuy7EA7ennKRxv.jpg", "actors": [], "comments": [], "recommandations_id": []}

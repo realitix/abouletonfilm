@@ -1,0 +1,1 @@
+{"tmdb_id": 298462, "title": "The Wisdom to Know the Difference", "original_title": "The Wisdom to Know the Difference", "slug_title": "the-wisdom-to-know-the-difference", "date": "2014-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

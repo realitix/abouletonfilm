@@ -1,0 +1,1 @@
+{"tmdb_id": 487161, "title": "Cuba 111 y Malec\u00f3n", "original_title": "Cuba 111 y Malec\u00f3n", "slug_title": "cuba-111-y-malecon", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

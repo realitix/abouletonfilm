@@ -1,0 +1,1 @@
+{"tmdb_id": 584042, "title": "Four Hours Barefoot", "original_title": "Quatro Horas Descal\u00e7o", "slug_title": "four-hours-barefoot", "date": "2012-11-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["S\u00e9rgio Costa ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275936, "title": "A Chipmunk Celebration", "original_title": "A Chipmunk Celebration", "slug_title": "a-chipmunk-celebration", "date": "1994-09-20", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlvmBEtq6up9sQGVwDYPJqBhp2k.jpg", "actors": [], "comments": [], "recommandations_id": []}

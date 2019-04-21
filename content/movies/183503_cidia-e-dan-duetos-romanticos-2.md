@@ -1,0 +1,1 @@
+{"tmdb_id": 183503, "title": "Cidia e Dan - Duetos Romanticos  2", "original_title": "Cidia e Dan - Duetos Romanticos  2", "slug_title": "cidia-e-dan-duetos-romanticos-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWv53cS3KtFqusIx7agikPKWp3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 48331, "title": "Guard Dog", "original_title": "Guard Dog", "slug_title": "guard-dog", "date": "2004-01-01", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ARywfgu1vc2ocu2cksMrHh5yhS.jpg", "actors": [], "comments": [], "recommandations_id": [48277, 219255, 40144, 185399]}

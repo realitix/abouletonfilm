@@ -1,0 +1,1 @@
+{"tmdb_id": 569108, "title": "Fantasia de \u00cdndio", "original_title": "Fantasia de \u00cdndio", "slug_title": "fantasia-de-indio", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ro9MMdI6LGGK3XcKPbe3iU7UalR.jpg", "actors": [], "comments": [], "recommandations_id": []}

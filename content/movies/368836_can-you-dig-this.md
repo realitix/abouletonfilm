@@ -1,0 +1,1 @@
+{"tmdb_id": 368836, "title": "Can You Dig This", "original_title": "Can You Dig This", "slug_title": "can-you-dig-this", "date": "2015-12-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGbh0Z1q7wl5mVNTPOvmu7I3KF7.jpg", "actors": [], "comments": [], "recommandations_id": []}

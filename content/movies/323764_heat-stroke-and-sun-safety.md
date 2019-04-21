@@ -1,0 +1,1 @@
+{"tmdb_id": 323764, "title": "Heat Stroke and Sun Safety", "original_title": "Heat Stroke and Sun Safety", "slug_title": "heat-stroke-and-sun-safety", "date": "2014-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQbWdiXqKQnNdDSpTBM0IRHrIPs.jpg", "actors": [], "comments": [], "recommandations_id": []}

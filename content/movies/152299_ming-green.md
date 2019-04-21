@@ -1,0 +1,1 @@
+{"tmdb_id": 152299, "title": "Ming Green", "original_title": "Ming Green", "slug_title": "ming-green", "date": "1966-01-01", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsMGzioiBIFJqXDPiniWKp7XHvO.jpg", "actors": [], "comments": [], "recommandations_id": [95026, 114570, 111988, 383841]}

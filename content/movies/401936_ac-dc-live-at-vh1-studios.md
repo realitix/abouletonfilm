@@ -1,0 +1,1 @@
+{"tmdb_id": 401936, "title": "AC/DC - Live at VH1 Studios", "original_title": "AC/DC - Live at VH1 Studios", "slug_title": "ac-dc-live-at-vh1-studios", "date": "1996-06-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdmv9efDVpVnXfDm3CzlmeBqDiV.jpg", "actors": [], "comments": [], "recommandations_id": []}

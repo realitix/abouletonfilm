@@ -1,0 +1,1 @@
+{"tmdb_id": 276832, "title": "Ski Lessons", "original_title": "Li\u00e7\u00e3o de Esqui", "slug_title": "ski-lessons", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3S9D26lcWpKB0h4WEovp427cr8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 37142, "title": "Garbage Dreams", "original_title": "Garbage Dreams", "slug_title": "garbage-dreams", "date": "2009-07-31", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnyYZjAnRxNkVlmXCdXiMIZHqHq.jpg", "actors": [], "comments": [], "recommandations_id": []}

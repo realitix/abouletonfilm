@@ -1,0 +1,1 @@
+{"tmdb_id": 464652, "title": "The Battle for L.A.", "original_title": "The Battle for L.A.", "slug_title": "the-battle-for-l-a", "date": "2004-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

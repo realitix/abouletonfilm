@@ -1,0 +1,1 @@
+{"tmdb_id": 460889, "title": "Directed by Jacques Tourneur", "original_title": "Directed by Jacques Tourneur", "slug_title": "directed-by-jacques-tourneur", "date": "1978-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacques Tourneur (Interviewee)"], "comments": [], "recommandations_id": []}

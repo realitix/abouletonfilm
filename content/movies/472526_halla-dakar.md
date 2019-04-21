@@ -1,0 +1,1 @@
+{"tmdb_id": 472526, "title": "Hall\u00e5 Dakar!", "original_title": "Hall\u00e5 Dakar!", "slug_title": "halla-dakar", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

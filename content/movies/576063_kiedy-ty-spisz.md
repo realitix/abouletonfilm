@@ -1,0 +1,1 @@
+{"tmdb_id": 576063, "title": "Kiedy ty \u015bpisz", "original_title": "Kiedy ty \u015bpisz", "slug_title": "kiedy-ty-spisz", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

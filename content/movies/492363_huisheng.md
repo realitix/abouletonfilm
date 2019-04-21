@@ -1,0 +1,1 @@
+{"tmdb_id": 492363, "title": "Hu\u00edsh\u0113ng", "original_title": "\u56de\u58f0", "slug_title": "huisheng", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

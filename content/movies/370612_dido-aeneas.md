@@ -1,0 +1,1 @@
+{"tmdb_id": 370612, "title": "Dido & Aeneas", "original_title": "Dido & Aeneas", "slug_title": "dido-aeneas", "date": "1995-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/blOFSNQ1HiCZ9jYr76VZTQoNsiU.jpg", "actors": ["Mark Morris (Dido)"], "comments": [], "recommandations_id": []}

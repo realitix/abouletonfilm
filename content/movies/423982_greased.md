@@ -1,0 +1,1 @@
+{"tmdb_id": 423982, "title": "Greased", "original_title": "Greased", "slug_title": "greased", "date": "2009-01-01", "genre": "Romance / Drame", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alden Ehrenreich (Ben)", "Elisa Restrepo (Susan)", "Vance Clemente (Lewis)"], "comments": [], "recommandations_id": []}

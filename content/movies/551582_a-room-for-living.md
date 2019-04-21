@@ -1,0 +1,1 @@
+{"tmdb_id": 551582, "title": "A Room for Living", "original_title": "Soba za dan", "slug_title": "a-room-for-living", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

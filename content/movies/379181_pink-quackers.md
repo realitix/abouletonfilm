@@ -1,0 +1,1 @@
+{"tmdb_id": 379181, "title": "Pink Quackers", "original_title": "Pink Quackers", "slug_title": "pink-quackers", "date": "1979-04-03", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9zrcDcfw76Vn7wxAc2VSnb0OBby.jpg", "actors": [], "comments": [], "recommandations_id": []}

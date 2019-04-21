@@ -1,0 +1,1 @@
+{"tmdb_id": 261064, "title": "TeleTubbies: Look!", "original_title": "TeleTubbies: Look!", "slug_title": "teletubbies-look", "date": "1996-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhwf0uxuCzOhrdq3qM7oyHFOZg.jpg", "actors": [], "comments": [], "recommandations_id": []}

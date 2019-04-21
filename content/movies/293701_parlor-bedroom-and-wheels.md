@@ -1,0 +1,1 @@
+{"tmdb_id": 293701, "title": "Parlor Bedroom and Wheels", "original_title": "Parlor Bedroom and Wheels", "slug_title": "parlor-bedroom-and-wheels", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ward Wilson (Narrator)"], "comments": [], "recommandations_id": []}

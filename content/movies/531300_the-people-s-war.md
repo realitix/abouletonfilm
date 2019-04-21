@@ -1,0 +1,1 @@
+{"tmdb_id": 531300, "title": "The People's War", "original_title": "The People's War", "slug_title": "the-people-s-war", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

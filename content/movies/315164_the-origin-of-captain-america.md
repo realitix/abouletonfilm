@@ -1,0 +1,1 @@
+{"tmdb_id": 315164, "title": "The Origin of Captain America", "original_title": "The Origin of Captain America", "slug_title": "the-origin-of-captain-america", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

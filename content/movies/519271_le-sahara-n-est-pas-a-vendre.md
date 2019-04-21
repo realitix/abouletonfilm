@@ -1,0 +1,1 @@
+{"tmdb_id": 519271, "title": "Le Sahara n'est pas \u00e0 vendre", "original_title": "Le Sahara n'est pas \u00e0 vendre", "slug_title": "le-sahara-n-est-pas-a-vendre", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

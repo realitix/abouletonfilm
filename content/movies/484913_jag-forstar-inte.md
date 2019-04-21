@@ -1,0 +1,1 @@
+{"tmdb_id": 484913, "title": "Jag f\u00f6rst\u00e5r inte", "original_title": "Jag f\u00f6rst\u00e5r inte", "slug_title": "jag-forstar-inte", "date": "2008-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9T4yF7EPQrDa5bLw7e6kRdg81yP.jpg", "actors": ["Jonatan Mattsson ()"], "comments": [], "recommandations_id": []}

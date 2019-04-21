@@ -1,0 +1,1 @@
+{"tmdb_id": 310075, "title": "Shades of Soul: Too Much Drama", "original_title": "Shades of Soul: Too Much Drama", "slug_title": "shades-of-soul-too-much-drama", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

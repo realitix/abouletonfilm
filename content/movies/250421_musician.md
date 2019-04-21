@@ -1,0 +1,1 @@
+{"tmdb_id": 250421, "title": "Musician", "original_title": "Musician", "slug_title": "musician", "date": "2007-05-19", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bw3wUAdkxkJdpkSZo38D043uq8G.jpg", "actors": ["Ken Vandermark ()"], "comments": [], "recommandations_id": []}

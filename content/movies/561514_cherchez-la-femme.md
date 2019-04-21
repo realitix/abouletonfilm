@@ -1,0 +1,1 @@
+{"tmdb_id": 561514, "title": "Cherchez la femme", "original_title": "Cherchez la femme", "slug_title": "cherchez-la-femme", "date": "1955-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yUUei57u4rGjrjBgVN6uNwlfMUY.jpg", "actors": [], "comments": [], "recommandations_id": []}

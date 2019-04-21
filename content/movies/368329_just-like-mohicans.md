@@ -1,0 +1,1 @@
+{"tmdb_id": 368329, "title": "Just like Mohicans", "original_title": "Just like Mohicans", "slug_title": "just-like-mohicans", "date": "1985-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VwGrzTE1QoO4q4YjH4X8o6N1A8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 484336, "title": "A'uw\u00ea Uptabi -- O Povo Verdadeiro", "original_title": "A'uw\u00ea Uptabi -- O Povo Verdadeiro", "slug_title": "a-uwe-uptabi-o-povo-verdadeiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

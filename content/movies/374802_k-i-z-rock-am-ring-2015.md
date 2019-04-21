@@ -1,0 +1,1 @@
+{"tmdb_id": 374802, "title": "K.I.Z. Rock am Ring 2015", "original_title": "K.I.Z. Rock am Ring 2015", "slug_title": "k-i-z-rock-am-ring-2015", "date": "2015-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9yZUnW37nTPEvyHl3Ro1mLPrFcC.jpg", "actors": [], "comments": [], "recommandations_id": []}

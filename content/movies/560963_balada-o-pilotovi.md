@@ -1,0 +1,1 @@
+{"tmdb_id": 560963, "title": "Balada o pilotovi", "original_title": "Balada o pilotovi", "slug_title": "balada-o-pilotovi", "date": "2018-11-04", "genre": "T\u00e9l\u00e9film / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gX1NqsYdiwntUhoalaVuSLWZr28.jpg", "actors": [], "comments": [], "recommandations_id": []}

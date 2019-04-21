@@ -1,0 +1,1 @@
+{"tmdb_id": 574277, "title": "Le coma des mortels", "original_title": "Le coma des mortels", "slug_title": "le-coma-des-mortels", "date": "2004-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMQiwZK4cLDqcKrfktchcxUrdBb.jpg", "actors": [], "comments": [], "recommandations_id": []}

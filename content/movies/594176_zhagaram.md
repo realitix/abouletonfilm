@@ -1,0 +1,1 @@
+{"tmdb_id": 594176, "title": "Zhagaram", "original_title": "\u0bb4\u0b95\u0bb0\u0bae\u0bcd", "slug_title": "zhagaram", "date": "2019-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8cWrJN85cTYcdJHycK6HSI8ebd.jpg", "actors": ["Nandha (Akil)", "Eden Kuriakose (Sneha)"], "comments": [], "recommandations_id": []}

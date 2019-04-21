@@ -1,0 +1,1 @@
+{"tmdb_id": 292932, "title": "The Great Dance: A Hunter's Story", "original_title": "The Great Dance: A Hunter's Story", "slug_title": "the-great-dance-a-hunter-s-story", "date": "2002-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

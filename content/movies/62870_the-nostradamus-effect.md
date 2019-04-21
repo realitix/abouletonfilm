@@ -1,0 +1,1 @@
+{"tmdb_id": 62870, "title": "The Nostradamus Effect", "original_title": "The Nostradamus Effect", "slug_title": "the-nostradamus-effect", "date": "2009-09-09", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adbaN4hZcrBZehfsjGHlhJAgAHs.jpg", "actors": [], "comments": [], "recommandations_id": []}

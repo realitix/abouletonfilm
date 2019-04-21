@@ -1,0 +1,1 @@
+{"tmdb_id": 363804, "title": "Age 17 - Journey of two people", "original_title": "17sai tabidachi no futari", "slug_title": "age-17-journey-of-two-people", "date": "2003-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rika Ishikawa (Maiko)", "Miki Fujimoto (Lisa)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 538701, "title": "A Song of Silence", "original_title": "A Song of Silence", "slug_title": "a-song-of-silence", "date": "2018-08-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90WhNpaO0c1JCJSLQhVFjMY8tbG.jpg", "actors": ["Lexin Choden ()"], "comments": [], "recommandations_id": []}

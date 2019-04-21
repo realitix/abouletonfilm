@@ -1,0 +1,1 @@
+{"tmdb_id": 344099, "title": "See You, Amsterdam", "original_title": "See You, Amsterdam", "slug_title": "see-you-amsterdam", "date": "2003-11-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

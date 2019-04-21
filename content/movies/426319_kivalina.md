@@ -1,0 +1,1 @@
+{"tmdb_id": 426319, "title": "Kivalina", "original_title": "Kivalina", "slug_title": "kivalina", "date": "2016-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c0MV6uJqNU0NOVJYCv6sVUxAJyn.jpg", "actors": [], "comments": [], "recommandations_id": []}

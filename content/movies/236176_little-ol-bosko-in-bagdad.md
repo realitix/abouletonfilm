@@ -1,0 +1,1 @@
+{"tmdb_id": 236176, "title": "Little Ol' Bosko in Bagdad", "original_title": "Little Ol' Bosko in Bagdad", "slug_title": "little-ol-bosko-in-bagdad", "date": "1938-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dO41QZ7mgoD2lx2HUzJADmPgOml.jpg", "actors": [], "comments": [], "recommandations_id": []}

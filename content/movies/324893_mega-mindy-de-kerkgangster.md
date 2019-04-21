@@ -1,0 +1,1 @@
+{"tmdb_id": 324893, "title": "Mega Mindy - De Kerkgangster", "original_title": "Mega Mindy - De Kerkgangster", "slug_title": "mega-mindy-de-kerkgangster", "date": "2008-01-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJkEl4DyDpoRIJEuy3SP0JvprUr.jpg", "actors": [], "comments": [], "recommandations_id": []}

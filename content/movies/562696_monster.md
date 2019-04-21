@@ -1,0 +1,1 @@
+{"tmdb_id": 562696, "title": "Monster", "original_title": "Monster", "slug_title": "monster", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["S. J. Surya ()", "Priya Bhavani Shankar ()", "Karunakaran ()"], "comments": [], "recommandations_id": []}

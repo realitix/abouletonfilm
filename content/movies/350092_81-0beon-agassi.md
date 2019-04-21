@@ -1,0 +1,1 @@
+{"tmdb_id": 350092, "title": "'81 0\ubc88 \uc544\uac00\uc528", "original_title": "'81 0\ubc88 \uc544\uac00\uc528", "slug_title": "81-0beon-agassi", "date": "1981-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

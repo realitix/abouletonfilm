@@ -1,0 +1,1 @@
+{"tmdb_id": 217104, "title": "Rick Derringer: Live at Cheney Hall", "original_title": "Rick Derringer: Live at Cheney Hall", "slug_title": "rick-derringer-live-at-cheney-hall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rick Derringer (vocals, guitar)"], "comments": [], "recommandations_id": []}

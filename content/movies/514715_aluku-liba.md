@@ -1,0 +1,1 @@
+{"tmdb_id": 514715, "title": "Aluku liba", "original_title": "Aluku liba", "slug_title": "aluku-liba", "date": "2009-03-28", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Loeti Mais (Loeti)", "Laurence Alota (Captain Laurence)"], "comments": [], "recommandations_id": []}

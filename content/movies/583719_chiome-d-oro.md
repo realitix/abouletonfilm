@@ -1,0 +1,1 @@
+{"tmdb_id": 583719, "title": "Chiome d'oro", "original_title": "Chiome d'oro", "slug_title": "chiome-d-oro", "date": "1993-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

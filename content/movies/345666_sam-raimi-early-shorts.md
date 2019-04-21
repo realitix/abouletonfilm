@@ -1,0 +1,1 @@
+{"tmdb_id": 345666, "title": "Sam Raimi Early Shorts", "original_title": "Sam Raimi Early Shorts", "slug_title": "sam-raimi-early-shorts", "date": "1978-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

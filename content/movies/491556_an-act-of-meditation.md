@@ -1,0 +1,1 @@
+{"tmdb_id": 491556, "title": "An Act of Meditation", "original_title": "An Act of Meditation", "slug_title": "an-act-of-meditation", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

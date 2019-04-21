@@ -1,0 +1,1 @@
+{"tmdb_id": 133067, "title": "Playground Psychotics", "original_title": "Playground Psychotics", "slug_title": "playground-psychotics", "date": "2012-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUQJd4yeemGpKSlq0y015pOvBv6.jpg", "actors": ["Frank Zappa (Himself)"], "comments": [], "recommandations_id": []}

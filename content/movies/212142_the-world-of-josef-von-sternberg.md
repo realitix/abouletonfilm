@@ -1,0 +1,1 @@
+{"tmdb_id": 212142, "title": "The World of Josef von Sternberg", "original_title": "The World of Josef von Sternberg", "slug_title": "the-world-of-josef-von-sternberg", "date": "1967-08-04", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

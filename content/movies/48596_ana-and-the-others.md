@@ -1,0 +1,1 @@
+{"tmdb_id": 48596, "title": "Ana and the Others", "original_title": "Ana y los otros", "slug_title": "ana-and-the-others", "date": "2003-04-21", "genre": "Drame", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fsJrCVUVxuHDvgFzDoyqanZt16.jpg", "actors": [], "comments": [], "recommandations_id": [149349]}

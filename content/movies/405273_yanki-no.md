@@ -1,0 +1,1 @@
+{"tmdb_id": 405273, "title": "Yanki No!", "original_title": "Yanki No!", "slug_title": "yanki-no", "date": "1960-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzxWV0EdYGfHmMGqVRsh7jaTxc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 255516, "title": "Eric Church: Inside The Outsiders", "original_title": "Eric Church: Inside The Outsiders", "slug_title": "eric-church-inside-the-outsiders", "date": "2014-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

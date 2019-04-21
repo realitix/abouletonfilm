@@ -1,0 +1,1 @@
+{"tmdb_id": 220161, "title": "Talk to Me", "original_title": "Talk to Me", "slug_title": "talk-to-me", "date": "1996-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSeOdWmvvnNu6R3Qw8jwDxR0lFH.jpg", "actors": [], "comments": [], "recommandations_id": []}

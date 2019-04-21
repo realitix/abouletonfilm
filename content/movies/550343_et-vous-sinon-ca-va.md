@@ -1,0 +1,1 @@
+{"tmdb_id": 550343, "title": "Et vous sinon, \u00e7a va?", "original_title": "Et vous sinon, \u00e7a va?", "slug_title": "et-vous-sinon-ca-va", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 295547, "title": "Das Biest", "original_title": "Das Biest", "slug_title": "das-biest", "date": "1977-12-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Viktoria Brams (Pauline)", "Hans Elwenspoek (Collinet)", "Charles Regnier (Alexis)", "Sonja Ziemann (Marion)"], "comments": [], "recommandations_id": []}

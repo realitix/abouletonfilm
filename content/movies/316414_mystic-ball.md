@@ -1,0 +1,1 @@
+{"tmdb_id": 316414, "title": "Mystic Ball", "original_title": "Mystic Ball", "slug_title": "mystic-ball", "date": "2007-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386037, "title": "Cannibal Killer Clowns On Dope", "original_title": "Cannibal Killer Clowns On Dope", "slug_title": "cannibal-killer-clowns-on-dope", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

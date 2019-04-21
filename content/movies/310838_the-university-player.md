@@ -1,0 +1,1 @@
+{"tmdb_id": 310838, "title": "The University Player", "original_title": "The University Player", "slug_title": "the-university-player", "date": "2006-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

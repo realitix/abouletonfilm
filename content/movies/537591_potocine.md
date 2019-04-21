@@ -1,0 +1,1 @@
+{"tmdb_id": 537591, "title": "Potocine", "original_title": "Potocine", "slug_title": "potocine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

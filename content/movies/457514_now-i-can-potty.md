@@ -1,0 +1,1 @@
+{"tmdb_id": 457514, "title": "Now I Can Potty", "original_title": "Now I Can Potty", "slug_title": "now-i-can-potty", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9j1MmCmgvD9xGVDJRVAzLvShi07.jpg", "actors": [], "comments": [], "recommandations_id": []}

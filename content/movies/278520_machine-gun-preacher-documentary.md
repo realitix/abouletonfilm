@@ -1,0 +1,1 @@
+{"tmdb_id": 278520, "title": "Machine Gun Preacher Documentary", "original_title": "Machine Gun Preacher Documentary", "slug_title": "machine-gun-preacher-documentary", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

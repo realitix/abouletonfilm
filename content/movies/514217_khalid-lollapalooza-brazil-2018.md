@@ -1,0 +1,1 @@
+{"tmdb_id": 514217, "title": "Khalid - Lollapalooza Brazil 2018", "original_title": "Khalid - Lollapalooza Brazil 2018", "slug_title": "khalid-lollapalooza-brazil-2018", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tnSF1BS4ONI5xPUlzRNRA6ux9r.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282609, "title": "The Scarecrow Club", "original_title": "The Scarecrow Club", "slug_title": "the-scarecrow-club", "date": "2014-07-10", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424915, "title": "Yo soy otro", "original_title": "Yo soy otro", "slug_title": "yo-soy-otro", "date": "2008-07-24", "genre": "Thriller / Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcRvkUIjod6ll0tTt98C4l7Ma09.jpg", "actors": [], "comments": [], "recommandations_id": []}

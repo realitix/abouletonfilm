@@ -1,0 +1,1 @@
+{"tmdb_id": 444297, "title": "This Is Definitely Not Ugly Betty", "original_title": "This Is Definitely Not Ugly Betty", "slug_title": "this-is-definitely-not-ugly-betty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIq9EDdLucaO1GVm9DjOkZAraxY.jpg", "actors": [], "comments": [], "recommandations_id": []}

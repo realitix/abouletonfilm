@@ -1,0 +1,1 @@
+{"tmdb_id": 88471, "title": "The Three Wishes", "original_title": "The Three Wishes", "slug_title": "the-three-wishes", "date": "1954-01-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bo5qX4LoBtZhoKe2g9UFWCfBZjz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 159145, "title": "I Met the Walrus", "original_title": "I Met the Walrus", "slug_title": "i-met-the-walrus", "date": "2007-06-13", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1XqmWSbUkJ2JgDQBMsXASDkqjr.jpg", "actors": [], "comments": [], "recommandations_id": [213735, 58877, 188724, 123413]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 253164, "title": "Spring Fever", "original_title": "Spring Fever", "slug_title": "spring-fever", "date": "1951-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

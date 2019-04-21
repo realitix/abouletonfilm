@@ -1,0 +1,1 @@
+{"tmdb_id": 305158, "title": "Bone Hunter", "original_title": "Bone Hunter", "slug_title": "bone-hunter", "date": "2010-08-19", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

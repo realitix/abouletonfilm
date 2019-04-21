@@ -1,0 +1,1 @@
+{"tmdb_id": 301013, "title": "Can Do: The Legacy of Jimmie Heuga", "original_title": "Can Do: The Legacy of Jimmie Heuga", "slug_title": "can-do-the-legacy-of-jimmie-heuga", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

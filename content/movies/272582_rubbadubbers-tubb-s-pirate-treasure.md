@@ -1,0 +1,1 @@
+{"tmdb_id": 272582, "title": "Rubbadubbers: Tubb's Pirate Treasure", "original_title": "Rubbadubbers: Tubb's Pirate Treasure", "slug_title": "rubbadubbers-tubb-s-pirate-treasure", "date": "2004-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

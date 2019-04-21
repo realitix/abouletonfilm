@@ -1,0 +1,1 @@
+{"tmdb_id": 309639, "title": "I Love Hip Hop in Morocco", "original_title": "I Love Hip Hop in Morocco", "slug_title": "i-love-hip-hop-in-morocco", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 257139, "title": "The Right Way", "original_title": "Der rechte Weg", "slug_title": "the-right-way", "date": "1983-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8gto4gR29XtHy4PBoOLBilOftRn.jpg", "actors": ["Alfred Pfeifer ()", "Ingold Wildenauer ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539428, "title": "Kapten Grogg p\u00e5 Stora Oceanen", "original_title": "Kapten Grogg p\u00e5 Stora Oceanen", "slug_title": "kapten-grogg-pa-stora-oceanen", "date": "1920-07-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

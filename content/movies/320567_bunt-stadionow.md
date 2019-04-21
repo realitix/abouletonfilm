@@ -1,0 +1,1 @@
+{"tmdb_id": 320567, "title": "Bunt stadion\u00f3w", "original_title": "Bunt stadion\u00f3w", "slug_title": "bunt-stadionow", "date": "2013-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMl7kk8y2eqCo8jBwRuh2o7kbVe.jpg", "actors": [], "comments": [], "recommandations_id": []}

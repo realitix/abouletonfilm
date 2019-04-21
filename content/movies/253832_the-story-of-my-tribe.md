@@ -1,0 +1,1 @@
+{"tmdb_id": 253832, "title": "The Story of My Tribe", "original_title": "Kalevala 2.0", "slug_title": "the-story-of-my-tribe", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297912, "title": "Thangka", "original_title": "Thangka", "slug_title": "thangka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luo Sang ()", "Yun Dan ()", "Pubu Ciren ()"], "comments": [], "recommandations_id": []}

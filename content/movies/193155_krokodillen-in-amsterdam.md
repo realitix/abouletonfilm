@@ -1,0 +1,1 @@
+{"tmdb_id": 193155, "title": "Krokodillen in Amsterdam", "original_title": "Krokodillen in Amsterdam", "slug_title": "krokodillen-in-amsterdam", "date": "1990-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awuesBzmCHsSCBT8FzeYysjGo0K.jpg", "actors": [], "comments": [], "recommandations_id": []}

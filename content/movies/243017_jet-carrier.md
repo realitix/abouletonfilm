@@ -1,0 +1,1 @@
+{"tmdb_id": 243017, "title": "Jet Carrier", "original_title": "Jet Carrier", "slug_title": "jet-carrier", "date": "1954-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

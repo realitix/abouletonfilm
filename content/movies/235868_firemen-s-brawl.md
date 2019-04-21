@@ -1,0 +1,1 @@
+{"tmdb_id": 235868, "title": "Firemen's Brawl", "original_title": "Firemen's Brawl", "slug_title": "firemen-s-brawl", "date": "1953-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

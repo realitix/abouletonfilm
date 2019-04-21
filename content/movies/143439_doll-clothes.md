@@ -1,0 +1,1 @@
+{"tmdb_id": 143439, "title": "Doll Clothes", "original_title": "Doll Clothes", "slug_title": "doll-clothes", "date": "1975-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6q2cjVRY8mK8hICvD5Wmars3viB.jpg", "actors": ["Cindy Sherman ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557680, "title": "\"Eiyuu\" KaitaI", "original_title": "\u300c\u82f1\u96c4\u300d\u89e3\u4f53", "slug_title": "eiyuu-kaitai", "date": "2016-11-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qU5XslDEeXnE8N7frRFe8n2fkjM.jpg", "actors": [], "comments": [], "recommandations_id": []}

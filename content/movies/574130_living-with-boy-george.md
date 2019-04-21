@@ -1,0 +1,1 @@
+{"tmdb_id": 574130, "title": "Living with... Boy George", "original_title": "Living with... Boy George", "slug_title": "living-with-boy-george", "date": "2008-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grQd3SErFHm0jCNjfJfdfHBag8o.jpg", "actors": [], "comments": [], "recommandations_id": []}

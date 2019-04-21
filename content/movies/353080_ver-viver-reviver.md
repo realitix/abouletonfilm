@@ -1,0 +1,1 @@
+{"tmdb_id": 353080, "title": "Ver Viver Reviver", "original_title": "Ver Viver Reviver", "slug_title": "ver-viver-reviver", "date": "2007-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a5cnT9NN9SfNnH0tfIhiMDaAcNd.jpg", "actors": ["J\u00falio Bressane ()"], "comments": [], "recommandations_id": []}

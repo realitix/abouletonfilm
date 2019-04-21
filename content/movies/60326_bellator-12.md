@@ -1,0 +1,1 @@
+{"tmdb_id": 60326, "title": "Bellator 12", "original_title": "Bellator 12", "slug_title": "bellator-12", "date": "2009-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cO1CjGO9BoFSlMzk8neGPCirdeP.jpg", "actors": [], "comments": [], "recommandations_id": []}

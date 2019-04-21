@@ -1,0 +1,1 @@
+{"tmdb_id": 317834, "title": "Shadows in Paradise: Hitler's Exiles in Hollywood", "original_title": "Shadows in Paradise: Hitler's Exiles in Hollywood", "slug_title": "shadows-in-paradise-hitler-s-exiles-in-hollywood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

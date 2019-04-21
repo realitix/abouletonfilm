@@ -1,0 +1,1 @@
+{"tmdb_id": 325621, "title": "Scarabus", "original_title": "Scarabus", "slug_title": "scarabus", "date": "1971-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geXf1GktIYSuuOcdQ9rRNsowl6i.jpg", "actors": [], "comments": [], "recommandations_id": []}

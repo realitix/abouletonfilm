@@ -1,0 +1,1 @@
+{"tmdb_id": 354729, "title": "The Further Mysteries of Dr. Fu-Manchu", "original_title": "The Further Mysteries of Dr. Fu-Manchu", "slug_title": "the-further-mysteries-of-dr-fu-manchu", "date": "1924-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

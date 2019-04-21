@@ -1,0 +1,1 @@
+{"tmdb_id": 314473, "title": "He b\u00fb tune b\u00fb", "original_title": "He b\u00fb tune b\u00fb", "slug_title": "he-bu-tune-bu", "date": "2014-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

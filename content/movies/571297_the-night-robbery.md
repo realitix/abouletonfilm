@@ -1,0 +1,1 @@
+{"tmdb_id": 571297, "title": "The Night Robbery", "original_title": "\u591c\u76d7\u73cd\u5983\u5893", "slug_title": "the-night-robbery", "date": "1989-10-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 362640, "title": "Le Cin\u00e9ma Du Dimanche Soir", "original_title": "Le Cin\u00e9ma Du Dimanche Soir", "slug_title": "le-cinema-du-dimanche-soir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

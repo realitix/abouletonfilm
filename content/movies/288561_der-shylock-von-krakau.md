@@ -1,0 +1,1 @@
+{"tmdb_id": 288561, "title": "Der Shylock von Krakau", "original_title": "Der Shylock von Krakau", "slug_title": "der-shylock-von-krakau", "date": "1913-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beate Ehren ()", "Friedrich K\u00fchne ()", "Lia Rosen ()"], "comments": [], "recommandations_id": []}

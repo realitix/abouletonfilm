@@ -1,0 +1,1 @@
+{"tmdb_id": 305183, "title": "Grenzen", "original_title": "Grenzen", "slug_title": "grenzen", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wolfgang Wiehe ()", "J\u00fcrgen Lentzsch ()", "J\u00f6rg Poppe ()", "Wilhelm Wank ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 472196, "title": "Zapir\u00f3n busca empleo", "original_title": "Zapir\u00f3n busca empleo", "slug_title": "zapiron-busca-empleo", "date": "1947-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1D6tUFEY4kJfAWTdM0ZJUldKWQM.jpg", "actors": [], "comments": [], "recommandations_id": []}

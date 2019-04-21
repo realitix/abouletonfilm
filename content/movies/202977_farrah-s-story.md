@@ -1,0 +1,1 @@
+{"tmdb_id": 202977, "title": "Farrah's Story", "original_title": "Farrah's Story", "slug_title": "farrah-s-story", "date": "2009-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Farrah Fawcett (Herself)", "Ryan O'Neal (Himself)", "Alana Stewart (Herself)"], "comments": [], "recommandations_id": []}

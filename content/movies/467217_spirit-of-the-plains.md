@@ -1,0 +1,1 @@
+{"tmdb_id": 467217, "title": "Spirit of the Plains", "original_title": "Spirit of the Plains", "slug_title": "spirit-of-the-plains", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sD0CrX01HIGULJsDqEsHXa5c7y5.jpg", "actors": [], "comments": [], "recommandations_id": []}

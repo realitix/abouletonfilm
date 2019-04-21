@@ -1,0 +1,1 @@
+{"tmdb_id": 361324, "title": "Glitter Stories", "original_title": "Glitter Stories", "slug_title": "glitter-stories", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

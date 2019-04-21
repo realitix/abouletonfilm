@@ -1,0 +1,1 @@
+{"tmdb_id": 329853, "title": "Love Costs Every Thing", "original_title": "Love Costs Every Thing", "slug_title": "love-costs-every-thing", "date": "2014-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 199192, "title": "Les amants du faubourg", "original_title": "\u017di\u017ekovsk\u00e1 romance", "slug_title": "les-amants-du-faubourg", "date": "1958-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fA3W8KsVHXXJ7FoW4ftWwnzjTBd.jpg", "actors": [], "comments": [], "recommandations_id": []}

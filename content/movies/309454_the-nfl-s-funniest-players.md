@@ -1,0 +1,1 @@
+{"tmdb_id": 309454, "title": "The NFL's Funniest Players", "original_title": "The NFL's Funniest Players", "slug_title": "the-nfl-s-funniest-players", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

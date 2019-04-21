@@ -1,0 +1,1 @@
+{"tmdb_id": 274033, "title": "Angelina Ballerina: Perfectly Pink", "original_title": "Angelina Ballerina: Perfectly Pink", "slug_title": "angelina-ballerina-perfectly-pink", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

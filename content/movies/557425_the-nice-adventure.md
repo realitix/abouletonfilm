@@ -1,0 +1,1 @@
+{"tmdb_id": 557425, "title": "The Nice Adventure", "original_title": "La bonne aventure", "slug_title": "the-nice-adventure", "date": "1932-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

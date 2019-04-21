@@ -1,0 +1,1 @@
+{"tmdb_id": 423648, "title": "Self-Portrait with Head", "original_title": "Self-Portrait with Head", "slug_title": "self-portrait-with-head", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dp86s4bXv7Ubq2KSAWm6IpRqoHv.jpg", "actors": [], "comments": [], "recommandations_id": []}

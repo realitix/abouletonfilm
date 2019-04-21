@@ -1,0 +1,1 @@
+{"tmdb_id": 577215, "title": "The Awakening of Herman", "original_title": "The Awakening of Herman", "slug_title": "the-awakening-of-herman", "date": "1991-02-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jt6oobK8Osw9iQVOtlECXEBUhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

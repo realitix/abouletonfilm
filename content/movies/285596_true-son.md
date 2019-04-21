@@ -1,0 +1,1 @@
+{"tmdb_id": 285596, "title": "True Son", "original_title": "True Son", "slug_title": "true-son", "date": "2014-10-31", "genre": "Familial / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4lrC89QWGXyo81u9OEFBcMrU9c.jpg", "actors": ["Michael Tubbs (Himself)"], "comments": [], "recommandations_id": []}

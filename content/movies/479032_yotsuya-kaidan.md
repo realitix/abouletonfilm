@@ -1,0 +1,1 @@
+{"tmdb_id": 479032, "title": "Yotsuya Kaidan", "original_title": "Yotsuya Kaidan", "slug_title": "yotsuya-kaidan", "date": "1912-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matsunosuke Onoe ()"], "comments": [], "recommandations_id": []}

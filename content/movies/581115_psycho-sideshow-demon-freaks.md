@@ -1,0 +1,1 @@
+{"tmdb_id": 581115, "title": "Psycho Sideshow: Demon Freaks", "original_title": "Psycho Sideshow: Demon Freaks", "slug_title": "psycho-sideshow-demon-freaks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1ZPCgk6jZPxvqqijUKbATljwhW.jpg", "actors": [], "comments": [], "recommandations_id": []}

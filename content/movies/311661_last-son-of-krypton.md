@@ -1,0 +1,1 @@
+{"tmdb_id": 311661, "title": "Last Son of Krypton", "original_title": "Last Son of Krypton", "slug_title": "last-son-of-krypton", "date": "2013-06-20", "genre": "Science-Fiction / Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOCio8pD8V2jhvcCfoDYx5C1TOx.jpg", "actors": [], "comments": [], "recommandations_id": []}

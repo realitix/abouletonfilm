@@ -1,0 +1,1 @@
+{"tmdb_id": 498484, "title": "The Very Last Morning", "original_title": "Diminea\u021ba care nu se va sf\u00e2r\u0219i", "slug_title": "the-very-last-morning", "date": "2016-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yViEnddpbcFsBL7CKPNXcp27JT8.jpg", "actors": [], "comments": [], "recommandations_id": []}

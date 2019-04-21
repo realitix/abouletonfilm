@@ -1,0 +1,1 @@
+{"tmdb_id": 44782, "title": "Comical Ali", "original_title": "Comical Ali", "slug_title": "comical-ali", "date": "2003-07-06", "genre": "Com\u00e9die / Documentaire / Guerre", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jE0HdQbo0tgbD9aB0JEJmRWsUDt.jpg", "actors": [], "comments": [], "recommandations_id": []}

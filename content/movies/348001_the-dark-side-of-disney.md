@@ -1,0 +1,1 @@
+{"tmdb_id": 348001, "title": "The Dark Side Of Disney", "original_title": "The Dark Side Of Disney", "slug_title": "the-dark-side-of-disney", "date": "2015-08-16", "genre": "Documentaire", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcaR5Lb0OkQHcgmYkyUdlL4sSBq.jpg", "actors": [], "comments": [], "recommandations_id": []}

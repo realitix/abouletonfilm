@@ -1,0 +1,1 @@
+{"tmdb_id": 578351, "title": "Ajana Batas", "original_title": "Ajana Batas", "slug_title": "ajana-batas", "date": "2013-01-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

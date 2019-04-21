@@ -1,0 +1,1 @@
+{"tmdb_id": 455014, "title": "Remotely Controlled Foaming Van", "original_title": "Remotely Controlled Foaming Van", "slug_title": "remotely-controlled-foaming-van", "date": "1975-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

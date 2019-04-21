@@ -1,0 +1,1 @@
+{"tmdb_id": 47665, "title": "Year Of The Bull", "original_title": "Year Of The Bull", "slug_title": "year-of-the-bull", "date": "2003-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bab3tYfYBlLVZDpcTZtwUCnc2M3.jpg", "actors": [], "comments": [], "recommandations_id": []}

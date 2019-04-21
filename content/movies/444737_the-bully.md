@@ -1,0 +1,1 @@
+{"tmdb_id": 444737, "title": "The Bully", "original_title": "The Bully", "slug_title": "the-bully", "date": "1951-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arden Booth (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 530749, "title": "Amma Cheppindi", "original_title": "Amma Cheppindi", "slug_title": "amma-cheppindi", "date": "2006-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SjGLXmwO4nPT189qQOjB9VGDQ9.jpg", "actors": ["Sharwanand ()", "Suhasini Maniratnam ()"], "comments": [], "recommandations_id": []}

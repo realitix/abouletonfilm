@@ -1,0 +1,1 @@
+{"tmdb_id": 375070, "title": "Pygmalion and Galatea", "original_title": "Pygmalion et Galath\u00e9e", "slug_title": "pygmalion-and-galatea", "date": "1898-01-01", "genre": "Fantastique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georges M\u00e9li\u00e8s (Pygmalion)", "Jeanne d'Alcy ()"], "comments": [], "recommandations_id": []}

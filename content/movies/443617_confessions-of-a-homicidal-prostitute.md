@@ -1,0 +1,1 @@
+{"tmdb_id": 443617, "title": "Confessions of a Homicidal Prostitute", "original_title": "Confessions of a Homicidal Prostitute", "slug_title": "confessions-of-a-homicidal-prostitute", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

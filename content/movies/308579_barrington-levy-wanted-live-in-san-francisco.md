@@ -1,0 +1,1 @@
+{"tmdb_id": 308579, "title": "Barrington Levy: Wanted: Live in San Francisco", "original_title": "Barrington Levy: Wanted: Live in San Francisco", "slug_title": "barrington-levy-wanted-live-in-san-francisco", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

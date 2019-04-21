@@ -1,0 +1,1 @@
+{"tmdb_id": 525231, "title": "Dialogue", "original_title": "Dialogue", "slug_title": "dialogue", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5V4ACCK6cq8gGVLiFAghHgsJmm.jpg", "actors": [], "comments": [], "recommandations_id": []}

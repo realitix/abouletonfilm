@@ -1,0 +1,1 @@
+{"tmdb_id": 490991, "title": "A Slip and a Miss", "original_title": "A Slip and a Miss", "slug_title": "a-slip-and-a-miss", "date": "1950-09-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh Herbert)"], "comments": [], "recommandations_id": []}

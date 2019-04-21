@@ -1,0 +1,1 @@
+{"tmdb_id": 346336, "title": "Bangkok Nights: Vol. 2: Yuki A GoGo", "original_title": "Bangkok Nights: Vol. 2: Yuki A GoGo", "slug_title": "bangkok-nights-vol-2-yuki-a-gogo", "date": "2013-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

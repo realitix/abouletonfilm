@@ -1,0 +1,1 @@
+{"tmdb_id": 275937, "title": "IN THE COUNTRY WHERE NOTHING HAPPENS", "original_title": "IN THE COUNTRY WHERE NOTHING HAPPENS", "slug_title": "in-the-country-where-nothing-happens", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

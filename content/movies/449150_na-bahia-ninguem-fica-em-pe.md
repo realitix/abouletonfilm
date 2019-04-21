@@ -1,0 +1,1 @@
+{"tmdb_id": 449150, "title": "Na Bahia Ningu\u00e9m Fica em P\u00e9", "original_title": "Na Bahia Ningu\u00e9m Fica em P\u00e9", "slug_title": "na-bahia-ninguem-fica-em-pe", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

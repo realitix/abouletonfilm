@@ -1,0 +1,1 @@
+{"tmdb_id": 345361, "title": "Sham 69 - Emergency Room Lounge, Las Vegas", "original_title": "Sham 69 - Emergency Room Lounge, Las Vegas", "slug_title": "sham-69-emergency-room-lounge-las-vegas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

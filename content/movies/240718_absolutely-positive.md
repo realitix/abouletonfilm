@@ -1,0 +1,1 @@
+{"tmdb_id": 240718, "title": "Absolutely Positive", "original_title": "Absolutely Positive", "slug_title": "absolutely-positive", "date": "2006-09-26", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qeGxb0xA3o59x70jHYKNdBiRtjB.jpg", "actors": ["Hunter Bussemaker (Dennis)"], "comments": [], "recommandations_id": []}

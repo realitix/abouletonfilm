@@ -1,0 +1,1 @@
+{"tmdb_id": 491662, "title": "Cita en la Frontera", "original_title": "Cita en la Frontera", "slug_title": "cita-en-la-frontera", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnik1xjLYn57ObPHpw9yuhDNjtq.jpg", "actors": [], "comments": [], "recommandations_id": []}

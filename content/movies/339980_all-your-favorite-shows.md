@@ -1,0 +1,1 @@
+{"tmdb_id": 339980, "title": "All Your Favorite Shows!", "original_title": "All Your Favorite Shows!", "slug_title": "all-your-favorite-shows", "date": "2015-03-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61Og0j7I7hJSLpvmggzW9kV4vmr.jpg", "actors": [], "comments": [], "recommandations_id": []}

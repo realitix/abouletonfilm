@@ -1,0 +1,1 @@
+{"tmdb_id": 490721, "title": "Placeres de la Carne", "original_title": "Placeres de la Carne", "slug_title": "placeres-de-la-carne", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

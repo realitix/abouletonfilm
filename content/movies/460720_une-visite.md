@@ -1,0 +1,1 @@
+{"tmdb_id": 460720, "title": "Une visite", "original_title": "Une visite", "slug_title": "une-visite", "date": "1996-10-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Viard (Carole)", "Marie-Claude Mestral (La mere)", "Jean Lescot (Le pere)"], "comments": [], "recommandations_id": []}

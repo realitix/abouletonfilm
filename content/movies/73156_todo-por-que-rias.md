@@ -1,0 +1,1 @@
+{"tmdb_id": 73156, "title": "Todo por que r\u00edas", "original_title": "Todo por que r\u00edas", "slug_title": "todo-por-que-rias", "date": "2000-07-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4siHThsVuNvD5y0wFIwPzMZyFaQ.jpg", "actors": ["Les Luthiers ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477182, "title": "Smiles and Tears of Naples", "original_title": "Smiles and Tears of Naples", "slug_title": "smiles-and-tears-of-naples", "date": "1926-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

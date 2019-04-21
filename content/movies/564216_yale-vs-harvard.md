@@ -1,0 +1,1 @@
+{"tmdb_id": 564216, "title": "Yale vs. Harvard", "original_title": "Yale vs. Harvard", "slug_title": "yale-vs-harvard", "date": "1927-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

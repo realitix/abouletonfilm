@@ -1,0 +1,1 @@
+{"tmdb_id": 393223, "title": "Kitty and the Bagman", "original_title": "Kitty and the Bagman", "slug_title": "kitty-and-the-bagman", "date": "1983-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gqcFU6Lhxncnf5ysoMwket7CTEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

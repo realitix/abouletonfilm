@@ -1,0 +1,1 @@
+{"tmdb_id": 502174, "title": "Salvar al soldado Ryan [60fps]", "original_title": "Salvar al soldado Ryan [60fps]", "slug_title": "salvar-al-soldado-ryan-60fps", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

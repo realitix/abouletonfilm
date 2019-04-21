@@ -1,0 +1,1 @@
+{"tmdb_id": 538149, "title": "As Bordadeiras do Jardim", "original_title": "As Bordadeiras do Jardim", "slug_title": "as-bordadeiras-do-jardim", "date": "2017-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

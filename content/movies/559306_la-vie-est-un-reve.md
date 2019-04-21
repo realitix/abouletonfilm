@@ -1,0 +1,1 @@
+{"tmdb_id": 559306, "title": "La vie est un r\u00eave", "original_title": "La vie est un r\u00eave", "slug_title": "la-vie-est-un-reve", "date": "1949-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oDgeKsAehjiyKVQr4Dzb8BMKOGq.jpg", "actors": [], "comments": [], "recommandations_id": []}

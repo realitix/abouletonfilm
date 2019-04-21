@@ -1,0 +1,1 @@
+{"tmdb_id": 221777, "title": "Rihanna No Regrets", "original_title": "Rihanna No Regrets", "slug_title": "rihanna-no-regrets", "date": "2013-06-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRFwKqs4CAFMprnp0CuvHMrQ9Tw.jpg", "actors": [], "comments": [], "recommandations_id": []}

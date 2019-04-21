@@ -1,0 +1,1 @@
+{"tmdb_id": 382268, "title": "The Demon in the Dark", "original_title": "The Demon in the Dark", "slug_title": "the-demon-in-the-dark", "date": "2015-07-15", "genre": "Action / Fantastique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54RSfFHyIrP3roewNvtGW3L91cV.jpg", "actors": [], "comments": [], "recommandations_id": []}

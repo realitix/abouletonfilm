@@ -1,0 +1,1 @@
+{"tmdb_id": 327324, "title": "A Day in Smara", "original_title": "Un Dia En Smara", "slug_title": "a-day-in-smara", "date": "", "genre": "Histoire / Documentaire / Drame", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQM329FboKLAnykjiPSvBnSvnuq.jpg", "actors": [], "comments": [], "recommandations_id": []}

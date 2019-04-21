@@ -1,0 +1,1 @@
+{"tmdb_id": 325409, "title": "Cats and Dogs", "original_title": "Cats and Dogs", "slug_title": "cats-and-dogs", "date": "1932-12-05", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristin Hamar (Jane Doggie)"], "comments": [], "recommandations_id": []}

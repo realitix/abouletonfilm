@@ -1,0 +1,1 @@
+{"tmdb_id": 195888, "title": "Two-Oared Boat Race, Sundays Well, Cork", "original_title": "Two-Oared Boat Race, Sundays Well, Cork", "slug_title": "two-oared-boat-race-sundays-well-cork", "date": "1902-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

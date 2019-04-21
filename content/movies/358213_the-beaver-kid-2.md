@@ -1,0 +1,1 @@
+{"tmdb_id": 358213, "title": "The Beaver Kid 2", "original_title": "The Beaver Kid 2", "slug_title": "the-beaver-kid-2", "date": "1981-09-04", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLqIbGUxdV0CjqdZLjvQDodkDMj.jpg", "actors": ["Sean Penn (Groovin' Larry)"], "comments": [], "recommandations_id": []}

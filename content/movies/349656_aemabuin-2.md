@@ -1,0 +1,1 @@
+{"tmdb_id": 349656, "title": "\uc560\ub9c8\ubd80\uc778 2", "original_title": "\uc560\ub9c8\ubd80\uc778 2", "slug_title": "aemabuin-2", "date": "1984-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

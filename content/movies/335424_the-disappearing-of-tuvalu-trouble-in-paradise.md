@@ -1,0 +1,1 @@
+{"tmdb_id": 335424, "title": "The Disappearing of Tuvalu: Trouble In Paradise", "original_title": "The Disappearing of Tuvalu: Trouble In Paradise", "slug_title": "the-disappearing-of-tuvalu-trouble-in-paradise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

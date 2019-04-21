@@ -1,0 +1,1 @@
+{"tmdb_id": 351775, "title": "Punk vs Punk", "original_title": "Punk vs Punk", "slug_title": "punk-vs-punk", "date": "2006-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

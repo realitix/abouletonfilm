@@ -1,0 +1,1 @@
+{"tmdb_id": 483794, "title": "1982: One Amazing Summer!", "original_title": "1982: One Amazing Summer!", "slug_title": "1982-one-amazing-summer", "date": "2017-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

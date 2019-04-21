@@ -1,0 +1,1 @@
+{"tmdb_id": 310660, "title": "Portraits of a Naked Lady Dancer", "original_title": "Portraits of a Naked Lady Dancer", "slug_title": "portraits-of-a-naked-lady-dancer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

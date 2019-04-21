@@ -1,0 +1,1 @@
+{"tmdb_id": 408768, "title": "Vladimir en Buenos Aires", "original_title": "Vladimir en Buenos Aires", "slug_title": "vladimir-en-buenos-aires", "date": "2002-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iC2j1GHKY6KYwXBYTTxf4491BxP.jpg", "actors": [], "comments": [], "recommandations_id": []}

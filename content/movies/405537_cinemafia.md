@@ -1,0 +1,1 @@
+{"tmdb_id": 405537, "title": "Cinemafia", "original_title": "Cinemafia", "slug_title": "cinemafia", "date": "1980-07-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2U3CAE2COhdE98j5NaQH2DNqqTQ.jpg", "actors": ["Joris Ivens ()", "Henri Storck ()", "Jean Rouch ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478120, "title": "Machen wir den Tegeler Weg zur Kochstrasse", "original_title": "Machen wir den Tegeler Weg zur Kochstrasse", "slug_title": "machen-wir-den-tegeler-weg-zur-kochstrasse", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

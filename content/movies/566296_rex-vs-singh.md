@@ -1,0 +1,1 @@
+{"tmdb_id": 566296, "title": "Rex vs. Singh", "original_title": "Rex vs. Singh", "slug_title": "rex-vs-singh", "date": "2008-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

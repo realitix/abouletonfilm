@@ -1,0 +1,1 @@
+{"tmdb_id": 544316, "title": "Sufferloh - Von heiliger Lieb und Trutz", "original_title": "Sufferloh - Von heiliger Lieb und Trutz", "slug_title": "sufferloh-von-heiliger-lieb-und-trutz", "date": "1979-09-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

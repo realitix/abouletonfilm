@@ -1,0 +1,1 @@
+{"tmdb_id": 135188, "title": "Gola Berij", "original_title": "Gola Berij", "slug_title": "gola-berij", "date": "2012-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsONA6Z4TGaR4HKjcnHLkRg7gnN.jpg", "actors": [], "comments": [], "recommandations_id": []}

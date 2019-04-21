@@ -1,0 +1,1 @@
+{"tmdb_id": 16644, "title": "Emma Smith: My Story", "original_title": "Emma Smith: My Story", "slug_title": "emma-smith-my-story", "date": "2008-04-11", "genre": "Drame", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36Q97iWwJ1xbvhpYXVI70AFsO6H.jpg", "actors": [], "comments": [], "recommandations_id": []}

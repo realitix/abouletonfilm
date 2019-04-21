@@ -1,0 +1,1 @@
+{"tmdb_id": 236093, "title": "Beauty on the Beach", "original_title": "Beauty on the Beach", "slug_title": "beauty-on-the-beach", "date": "1950-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8DT7NSKd81hjxwu0A19eUV8ZTp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349686, "title": "\uc5f4\uc544\ud649\uc0b4\uc758 \uac00\uc744", "original_title": "\uc5f4\uc544\ud649\uc0b4\uc758 \uac00\uc744", "slug_title": "yeolahobsalyi-gaeul", "date": "1984-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

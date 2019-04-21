@@ -1,0 +1,1 @@
+{"tmdb_id": 543877, "title": "The Lake", "original_title": "\u041e\u0437\u0435\u0440\u043e", "slug_title": "the-lake", "date": "2016-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrdtMBVpyzQQU3CSRjAPK8rlYYU.jpg", "actors": [], "comments": [], "recommandations_id": []}

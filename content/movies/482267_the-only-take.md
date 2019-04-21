@@ -1,0 +1,1 @@
+{"tmdb_id": 482267, "title": "The Only Take", "original_title": "The Only Take", "slug_title": "the-only-take", "date": "1985-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

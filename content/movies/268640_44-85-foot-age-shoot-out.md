@@ -1,0 +1,1 @@
+{"tmdb_id": 268640, "title": "44/85: Foot'-age Shoot'-out", "original_title": "44/85: Foot'-age Shoot'-out", "slug_title": "44-85-foot-age-shoot-out", "date": "1985-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oV1vih3GkxrflvQ7j7FditjcYMp.jpg", "actors": [], "comments": [], "recommandations_id": []}

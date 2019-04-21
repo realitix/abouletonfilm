@@ -1,0 +1,1 @@
+{"tmdb_id": 294567, "title": "Red Reign: The Bloody Harvest of China's Prisoners", "original_title": "Red Reign: The Bloody Harvest of China's Prisoners", "slug_title": "red-reign-the-bloody-harvest-of-china-s-prisoners", "date": "2013-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

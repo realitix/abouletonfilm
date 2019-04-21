@@ -1,0 +1,1 @@
+{"tmdb_id": 326942, "title": "Rockstar Game", "original_title": "Rockstar Game", "slug_title": "rockstar-game", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

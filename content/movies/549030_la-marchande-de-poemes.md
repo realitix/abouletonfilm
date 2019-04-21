@@ -1,0 +1,1 @@
+{"tmdb_id": 549030, "title": "La marchande de po\u00e8mes", "original_title": "La marchande de po\u00e8mes", "slug_title": "la-marchande-de-poemes", "date": "1963-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

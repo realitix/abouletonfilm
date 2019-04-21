@@ -1,0 +1,1 @@
+{"tmdb_id": 97616, "title": "Maria Rita: Samba Meu", "original_title": "Maria Rita: Samba Meu", "slug_title": "maria-rita-samba-meu", "date": "2008-07-16", "genre": "Musique", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cuVRZ7MS0F7UeOywnDeYpaUnLB.jpg", "actors": ["Maria Rita (Herself)"], "comments": [], "recommandations_id": []}

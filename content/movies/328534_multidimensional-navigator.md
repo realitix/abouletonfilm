@@ -1,0 +1,1 @@
+{"tmdb_id": 328534, "title": "Multidimensional Navigator", "original_title": "Multidimensional Navigator", "slug_title": "multidimensional-navigator", "date": "2015-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

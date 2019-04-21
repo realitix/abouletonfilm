@@ -1,0 +1,1 @@
+{"tmdb_id": 538150, "title": "Business Meeting", "original_title": "Business Meeting", "slug_title": "business-meeting", "date": "2018-07-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gquZT1KZu8aEN5MSks0dHwbCcM2.jpg", "actors": [], "comments": [], "recommandations_id": []}

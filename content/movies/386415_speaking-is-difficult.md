@@ -1,0 +1,1 @@
+{"tmdb_id": 386415, "title": "Speaking Is Difficult", "original_title": "Speaking Is Difficult", "slug_title": "speaking-is-difficult", "date": "2016-01-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jx3PZ0Y8HPVKMlmvQzsREU7FJNq.jpg", "actors": [], "comments": [], "recommandations_id": []}

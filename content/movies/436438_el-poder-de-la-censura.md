@@ -1,0 +1,1 @@
+{"tmdb_id": 436438, "title": "El poder de la censura", "original_title": "El poder de la censura", "slug_title": "el-poder-de-la-censura", "date": "1983-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNbif0Rk1mEiZobwDWBTxPSyeUU.jpg", "actors": [], "comments": [], "recommandations_id": []}

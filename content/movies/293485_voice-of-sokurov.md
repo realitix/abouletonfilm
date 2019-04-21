@@ -1,0 +1,1 @@
+{"tmdb_id": 293485, "title": "Voice of Sokurov", "original_title": "Sokurovin \u00e4\u00e4ni", "slug_title": "voice-of-sokurov", "date": "2014-06-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aleksandr Sokurov (Himself)"], "comments": [], "recommandations_id": []}

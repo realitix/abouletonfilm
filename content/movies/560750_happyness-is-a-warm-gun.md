@@ -1,0 +1,1 @@
+{"tmdb_id": 560750, "title": "Happyness is a Warm Gun", "original_title": "Gl\u00fcck ist ein warmes Gewehr", "slug_title": "happyness-is-a-warm-gun", "date": "2018-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQAXvqEQH7DnzYoe4ZBo8AXpSpm.jpg", "actors": [], "comments": [], "recommandations_id": []}

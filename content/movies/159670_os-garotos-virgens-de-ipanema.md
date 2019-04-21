@@ -1,0 +1,1 @@
+{"tmdb_id": 159670, "title": "Os Garotos Virgens de Ipanema", "original_title": "Os Garotos Virgens de Ipanema", "slug_title": "os-garotos-virgens-de-ipanema", "date": "1973-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hAh3WJm8ikviUdEZRKUg1CZtqMl.jpg", "actors": [], "comments": [], "recommandations_id": []}

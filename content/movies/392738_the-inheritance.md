@@ -1,0 +1,1 @@
+{"tmdb_id": 392738, "title": "The Inheritance", "original_title": "La herencia", "slug_title": "the-inheritance", "date": "1964-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziF8SSlLbPysgNRNjYyD2FwjlbY.jpg", "actors": [], "comments": [], "recommandations_id": []}

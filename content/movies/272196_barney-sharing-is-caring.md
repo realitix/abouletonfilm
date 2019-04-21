@@ -1,0 +1,1 @@
+{"tmdb_id": 272196, "title": "Barney: Sharing Is Caring", "original_title": "Barney: Sharing Is Caring", "slug_title": "barney-sharing-is-caring", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zaci4tCbPXTN6SjPLo75vXTNjGS.jpg", "actors": [], "comments": [], "recommandations_id": []}

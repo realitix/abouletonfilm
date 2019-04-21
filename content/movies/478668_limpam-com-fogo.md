@@ -1,0 +1,1 @@
+{"tmdb_id": 478668, "title": "Limpam com Fogo", "original_title": "Limpam com Fogo", "slug_title": "limpam-com-fogo", "date": "2016-01-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cIXRijXQEPoqIxLvGSTu9wSwdxM.jpg", "actors": [], "comments": [], "recommandations_id": []}

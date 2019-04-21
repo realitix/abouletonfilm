@@ -1,0 +1,1 @@
+{"tmdb_id": 203291, "title": "U\u010ditel\u00e9 z hv\u011bzd", "original_title": "U\u010ditel\u00e9 z hv\u011bzd", "slug_title": "ucitele-z-hvezd", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ppgwvwM0aMAnK5ooWnVZtdHjQrW.jpg", "actors": [], "comments": [], "recommandations_id": []}

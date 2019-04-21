@@ -1,0 +1,1 @@
+{"tmdb_id": 403883, "title": "Odense Zoo gennem 75 \u00e5r", "original_title": "Odense Zoo gennem 75 \u00e5r", "slug_title": "odense-zoo-gennem-75-ar", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJpsLGC0Q91XMkl6pntMfcMvDtf.jpg", "actors": [], "comments": [], "recommandations_id": []}

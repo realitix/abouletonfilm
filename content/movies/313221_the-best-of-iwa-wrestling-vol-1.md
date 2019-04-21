@@ -1,0 +1,1 @@
+{"tmdb_id": 313221, "title": "The Best of IWA Wrestling: Vol. 1", "original_title": "The Best of IWA Wrestling: Vol. 1", "slug_title": "the-best-of-iwa-wrestling-vol-1", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

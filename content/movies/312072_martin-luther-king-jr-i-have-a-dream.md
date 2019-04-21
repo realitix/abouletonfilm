@@ -1,0 +1,1 @@
+{"tmdb_id": 312072, "title": "Martin Luther King, Jr: I Have a Dream", "original_title": "Martin Luther King, Jr: I Have a Dream", "slug_title": "martin-luther-king-jr-i-have-a-dream", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

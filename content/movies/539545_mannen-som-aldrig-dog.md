@@ -1,0 +1,1 @@
+{"tmdb_id": 539545, "title": "Mannen som aldrig dog", "original_title": "Mannen som aldrig dog", "slug_title": "mannen-som-aldrig-dog", "date": "1970-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

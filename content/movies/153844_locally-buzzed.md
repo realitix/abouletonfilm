@@ -1,0 +1,1 @@
+{"tmdb_id": 153844, "title": "Locally Buzzed", "original_title": "Locally Buzzed", "slug_title": "locally-buzzed", "date": "2011-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMlq54XBKfdWz3bR7CX8KUBO5LK.jpg", "actors": [], "comments": [], "recommandations_id": []}

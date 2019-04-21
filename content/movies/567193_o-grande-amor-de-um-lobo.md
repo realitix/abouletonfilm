@@ -1,0 +1,1 @@
+{"tmdb_id": 567193, "title": "O Grande Amor de um Lobo", "original_title": "O Grande Amor de um Lobo", "slug_title": "o-grande-amor-de-um-lobo", "date": "2018-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

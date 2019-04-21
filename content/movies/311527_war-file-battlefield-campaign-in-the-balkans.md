@@ -1,0 +1,1 @@
+{"tmdb_id": 311527, "title": "War File: Battlefield: Campaign in the Balkans", "original_title": "War File: Battlefield: Campaign in the Balkans", "slug_title": "war-file-battlefield-campaign-in-the-balkans", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

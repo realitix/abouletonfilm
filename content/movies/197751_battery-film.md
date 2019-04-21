@@ -1,0 +1,1 @@
+{"tmdb_id": 197751, "title": "Battery Film", "original_title": "Battery Film", "slug_title": "battery-film", "date": "1985-05-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

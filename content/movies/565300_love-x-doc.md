@@ -1,0 +1,1 @@
+{"tmdb_id": 565300, "title": "Love x Doc", "original_title": "\u30e9\u30d6\u00d7\u30c9\u30c3\u30af", "slug_title": "love-x-doc", "date": "2018-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7O5OfhjXPvBQE8d2PbnOEvFUZLE.jpg", "actors": [], "comments": [], "recommandations_id": []}

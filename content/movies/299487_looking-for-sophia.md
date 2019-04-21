@@ -1,0 +1,1 @@
+{"tmdb_id": 299487, "title": "Looking for Sophia", "original_title": "Looking for Sophia", "slug_title": "looking-for-sophia", "date": "2004-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjFHghIsoVPy7Rc9ZJy5y8wKBzW.jpg", "actors": ["Sophia Loren (herself)"], "comments": [], "recommandations_id": []}

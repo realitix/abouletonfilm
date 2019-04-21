@@ -1,0 +1,1 @@
+{"tmdb_id": 580349, "title": "Flor de la Mar", "original_title": "Flor de la Mar", "slug_title": "flor-de-la-mar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

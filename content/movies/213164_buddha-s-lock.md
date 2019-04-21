@@ -1,0 +1,1 @@
+{"tmdb_id": 213164, "title": "Buddha's Lock", "original_title": "\u5929\u83e9\u85a9", "slug_title": "buddha-s-lock", "date": "1987-02-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HEaTYNQGc9iTZLNF7Pimise7b2.jpg", "actors": [], "comments": [], "recommandations_id": []}

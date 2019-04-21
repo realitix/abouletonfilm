@@ -1,0 +1,1 @@
+{"tmdb_id": 163757, "title": "The True Story: The Amityville Horror", "original_title": "The True Story: The Amityville Horror", "slug_title": "the-true-story-the-amityville-horror", "date": "2008-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

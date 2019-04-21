@@ -1,0 +1,1 @@
+{"tmdb_id": 524034, "title": "Cook Off", "original_title": "Cook Off", "slug_title": "cook-off", "date": "2017-03-12", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGByZeF8pl6QuuqyoDzsos0zG6Q.jpg", "actors": ["Tendaiishe Chitima (Anesu)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381893, "title": "The Birds Of Paradise", "original_title": "The Birds Of Paradise", "slug_title": "the-birds-of-paradise", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

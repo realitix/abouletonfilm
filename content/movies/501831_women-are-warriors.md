@@ -1,0 +1,1 @@
+{"tmdb_id": 501831, "title": "Women are Warriors", "original_title": "Women are Warriors", "slug_title": "women-are-warriors", "date": "1942-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

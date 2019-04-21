@@ -1,0 +1,1 @@
+{"tmdb_id": 42475, "title": "Clownstrophobia", "original_title": "Clownstrophobia", "slug_title": "clownstrophobia", "date": "2009-03-09", "genre": "Drame", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cEguncndCV02SaGKtl0qJqk2azr.jpg", "actors": [], "comments": [], "recommandations_id": []}

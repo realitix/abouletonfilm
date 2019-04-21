@@ -1,0 +1,1 @@
+{"tmdb_id": 86135, "title": "Bhakta Markandeya", "original_title": "Bhakta Markandeya", "slug_title": "bhakta-markandeya", "date": "1957-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEankGPBk8ojdRkuJYxGjXpCQGa.jpg", "actors": [], "comments": [], "recommandations_id": []}

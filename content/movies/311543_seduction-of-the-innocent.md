@@ -1,0 +1,1 @@
+{"tmdb_id": 311543, "title": "Seduction of the Innocent", "original_title": "Seduction of the Innocent", "slug_title": "seduction-of-the-innocent", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iaB258mWqbQ8znXNCazceuVrzsX.jpg", "actors": [], "comments": [], "recommandations_id": []}

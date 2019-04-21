@@ -1,0 +1,1 @@
+{"tmdb_id": 238176, "title": "Frederik Buch som Soldat", "original_title": "Frederik Buch som Soldat", "slug_title": "frederik-buch-som-soldat", "date": "1913-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frederik Buch ()", "Carl Petersen ()", "Carl Schenstr\u00f8m ()"], "comments": [], "recommandations_id": []}

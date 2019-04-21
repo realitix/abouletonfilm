@@ -1,0 +1,1 @@
+{"tmdb_id": 411913, "title": "The B.P.R.D. Declassified", "original_title": "The B.P.R.D. Declassified", "slug_title": "the-b-p-r-d-declassified", "date": "2004-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 120178, "title": "The Proposal", "original_title": "The Proposal", "slug_title": "the-proposal", "date": "1959-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

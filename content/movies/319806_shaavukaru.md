@@ -1,0 +1,1 @@
+{"tmdb_id": 319806, "title": "Shaavukaru", "original_title": "Shaavukaru", "slug_title": "shaavukaru", "date": "1950-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

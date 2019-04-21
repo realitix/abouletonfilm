@@ -1,0 +1,1 @@
+{"tmdb_id": 336425, "title": "Best of Musikladen T-Rex", "original_title": "Best of Musikladen T-Rex", "slug_title": "best-of-musikladen-t-rex", "date": "2000-09-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddbcvaNps6gdTYxWSsk8BAiV9bU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 435494, "title": "Root Hawg: The Paul Finken Tribute Ride", "original_title": "Root Hawg: The Paul Finken Tribute Ride", "slug_title": "root-hawg-the-paul-finken-tribute-ride", "date": "2016-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

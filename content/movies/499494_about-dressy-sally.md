@@ -1,0 +1,1 @@
+{"tmdb_id": 499494, "title": "About Dressy Sally", "original_title": "O par\u00e1div\u00e9 Sally", "slug_title": "about-dressy-sally", "date": "1976-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9saIQS1VaCHDnRas3QQItDLeesl.jpg", "actors": [], "comments": [], "recommandations_id": []}

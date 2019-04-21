@@ -1,0 +1,1 @@
+{"tmdb_id": 502738, "title": "Ultimo bagliore e nulla", "original_title": "Ultimo bagliore e nulla", "slug_title": "ultimo-bagliore-e-nulla", "date": "2003-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tonino De Bernardi (Himself)"], "comments": [], "recommandations_id": []}

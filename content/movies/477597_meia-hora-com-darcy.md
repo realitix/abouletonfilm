@@ -1,0 +1,1 @@
+{"tmdb_id": 477597, "title": "Meia Hora com Darcy", "original_title": "Meia Hora com Darcy", "slug_title": "meia-hora-com-darcy", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Darcy Ribeiro (Ele mesmo)"], "comments": [], "recommandations_id": []}

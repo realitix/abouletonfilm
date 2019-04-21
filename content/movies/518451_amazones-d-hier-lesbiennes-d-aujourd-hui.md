@@ -1,0 +1,1 @@
+{"tmdb_id": 518451, "title": "Amazones d'Hier, Lesbiennes d'Aujourd'hui", "original_title": "Amazones d'Hier, Lesbiennes d'Aujourd'hui", "slug_title": "amazones-d-hier-lesbiennes-d-aujourd-hui", "date": "1982-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 251997, "title": "Chile, Land of Charm", "original_title": "Chile, Land of Charm", "slug_title": "chile-land-of-charm", "date": "1937-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator)"], "comments": [], "recommandations_id": []}

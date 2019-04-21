@@ -1,0 +1,1 @@
+{"tmdb_id": 217313, "title": "Crossroad Street", "original_title": "\u0160\u0137\u0113rsiela", "slug_title": "crossroad-street", "date": "1988-01-03", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6zGBZrHt33R06OZR7dOGIY1xm6.jpg", "actors": [], "comments": [], "recommandations_id": []}

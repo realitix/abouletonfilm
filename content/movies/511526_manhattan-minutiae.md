@@ -1,0 +1,1 @@
+{"tmdb_id": 511526, "title": "Manhattan Minutiae", "original_title": "Manhattan Minutiae", "slug_title": "manhattan-minutiae", "date": "2016-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TanrY6lIqTYHxsvKLEArTnIDIj.jpg", "actors": [], "comments": [], "recommandations_id": []}

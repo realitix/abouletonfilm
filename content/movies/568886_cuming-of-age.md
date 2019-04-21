@@ -1,0 +1,1 @@
+{"tmdb_id": 568886, "title": "Cuming of Age", "original_title": "Cuming of Age", "slug_title": "cuming-of-age", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMAfBbzlSEPyiQumwF7DhOVEXsl.jpg", "actors": ["Kip Noll ()", "Scott Noll ()", "Steve York ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 67076, "title": "Off the Rez", "original_title": "Off the Rez", "slug_title": "off-the-rez", "date": "2011-04-26", "genre": "Documentaire / Familial", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/879BndAUx6iHK9FhvvV5RT3DLbW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 31239, "title": "Identity Crisis", "original_title": "Identity Crisis", "slug_title": "identity-crisis", "date": "1989-01-01", "genre": "Com\u00e9die", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4D58aKtGPERPRzLq8kGyMMQwhHn.jpg", "actors": ["Mario Van Peebles ()"], "comments": [], "recommandations_id": []}

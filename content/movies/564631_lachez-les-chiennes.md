@@ -1,0 +1,1 @@
+{"tmdb_id": 564631, "title": "L\u00e2chez les chiennes", "original_title": "L\u00e2chez les chiennes", "slug_title": "lachez-les-chiennes", "date": "1973-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

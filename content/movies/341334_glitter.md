@@ -1,0 +1,1 @@
+{"tmdb_id": 341334, "title": "Glitter", "original_title": "Glitter", "slug_title": "glitter", "date": "2003-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mcaEiJdHJkm7vDb7a6ss2E8ztU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 462282, "title": "The Screen Painters", "original_title": "The Screen Painters", "slug_title": "the-screen-painters", "date": "1988-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ZsVg5RirP9WSMZla2OjiuokD6r.jpg", "actors": [], "comments": [], "recommandations_id": []}

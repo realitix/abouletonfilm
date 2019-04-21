@@ -1,0 +1,1 @@
+{"tmdb_id": 146153, "title": "Camel Footage", "original_title": "Camel Footage", "slug_title": "camel-footage", "date": "2006-08-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZkAqLiN2XNyUIQZz4RF3TQrSFJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 288075, "title": "Savitri Satyavan", "original_title": "Savitri Satyavan", "slug_title": "savitri-satyavan", "date": "1923-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rina De Liguoro ()", "Angelo Ferrari ()", "Gianna Terribili-Gonzales ()"], "comments": [], "recommandations_id": []}

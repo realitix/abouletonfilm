@@ -1,0 +1,1 @@
+{"tmdb_id": 487637, "title": "Wild Strike (Genesis)", "original_title": "Gr\u00e8ve sauvage (la gen\u00e8se)", "slug_title": "wild-strike-genesis", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

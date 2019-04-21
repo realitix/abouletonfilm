@@ -1,0 +1,1 @@
+{"tmdb_id": 312814, "title": "Norman Rockwell: An American Portrait", "original_title": "Norman Rockwell: An American Portrait", "slug_title": "norman-rockwell-an-american-portrait", "date": "2002-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

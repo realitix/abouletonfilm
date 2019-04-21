@@ -1,0 +1,1 @@
+{"tmdb_id": 573107, "title": "Kawasaki Keirin", "original_title": "Kawasaki Keirin", "slug_title": "kawasaki-keirin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

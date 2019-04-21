@@ -1,0 +1,1 @@
+{"tmdb_id": 197717, "title": "The Essential Goof", "original_title": "The Essential Goof", "slug_title": "the-essential-goof", "date": "2002-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

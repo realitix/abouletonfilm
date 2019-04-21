@@ -1,0 +1,1 @@
+{"tmdb_id": 256330, "title": "Shadows", "original_title": "Shadows", "slug_title": "shadows", "date": "2011-02-19", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ke15hg90pd3ynf5Qgd7B5aZRIiw.jpg", "actors": ["Rita Martins ()", "Ruben Garcia ()"], "comments": [], "recommandations_id": []}

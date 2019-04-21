@@ -1,0 +1,1 @@
+{"tmdb_id": 143788, "title": "Code Red: The Rubicon Conspiracy", "original_title": "Code Red", "slug_title": "code-red-the-rubicon-conspiracy", "date": "2001-01-08", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vd47PKFFQdoNGRnOOD8TyAbiIDU.jpg", "actors": [], "comments": [], "recommandations_id": []}

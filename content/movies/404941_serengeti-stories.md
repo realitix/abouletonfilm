@@ -1,0 +1,1 @@
+{"tmdb_id": 404941, "title": "Serengeti Stories", "original_title": "Serengeti Stories", "slug_title": "serengeti-stories", "date": "2005-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYCCckYamQTcLK2cg868rvxBC8t.jpg", "actors": [], "comments": [], "recommandations_id": []}

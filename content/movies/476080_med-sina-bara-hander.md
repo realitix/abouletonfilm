@@ -1,0 +1,1 @@
+{"tmdb_id": 476080, "title": "Med sina bara h\u00e4nder", "original_title": "Med sina bara h\u00e4nder", "slug_title": "med-sina-bara-hander", "date": "2007-09-16", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0tElo8hDACc0crs5gpTPr7r4xl.jpg", "actors": [], "comments": [], "recommandations_id": []}

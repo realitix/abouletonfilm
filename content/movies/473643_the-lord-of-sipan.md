@@ -1,0 +1,1 @@
+{"tmdb_id": 473643, "title": "The Lord of Sipan", "original_title": "The Lord of Sipan", "slug_title": "the-lord-of-sipan", "date": "2009-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7ruR6gO6rQiyhGWcfy9WmcnhBz.jpg", "actors": ["Steven Hughes (Host)"], "comments": [], "recommandations_id": []}

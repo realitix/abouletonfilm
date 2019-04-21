@@ -1,0 +1,1 @@
+{"tmdb_id": 525545, "title": "Cholo Salvaje", "original_title": "Cholo Salvaje", "slug_title": "cholo-salvaje", "date": "2002-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugo Stiglitz ()", "Raul Araiza ()", "Roberto Ballesteros ()", "Mario Almada ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 356441, "title": "Bauernhochzeit am Tegernsee", "original_title": "Bauernhochzeit am Tegernsee", "slug_title": "bauernhochzeit-am-tegernsee", "date": "1936-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499051, "title": "Sibling Rivalries And Parents", "original_title": "Sibling Rivalries And Parents", "slug_title": "sibling-rivalries-and-parents", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zTylRjzcxiHHCkrSUwkqmHFsNzS.jpg", "actors": [], "comments": [], "recommandations_id": []}

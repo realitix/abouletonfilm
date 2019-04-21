@@ -1,0 +1,1 @@
+{"tmdb_id": 234240, "title": "I Was a Soldier", "original_title": "I Was a Soldier", "slug_title": "i-was-a-soldier", "date": "1970-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

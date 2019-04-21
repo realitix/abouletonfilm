@@ -1,0 +1,1 @@
+{"tmdb_id": 361826, "title": "Firemen Sam \u2013 Saves The Day", "original_title": "Firemen Sam \u2013 Saves The Day", "slug_title": "firemen-sam-saves-the-day", "date": "2005-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aP2oFGKr51VBIpjff6oDEzmehWQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

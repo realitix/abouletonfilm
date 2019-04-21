@@ -1,0 +1,1 @@
+{"tmdb_id": 276924, "title": "Soldiers United for Cash", "original_title": "Soldiers United for Cash", "slug_title": "soldiers-united-for-cash", "date": "2001-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2X6gUuV2lrJr5rwZCJAQ2NaCTCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

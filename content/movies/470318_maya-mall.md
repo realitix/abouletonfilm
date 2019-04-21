@@ -1,0 +1,1 @@
+{"tmdb_id": 470318, "title": "Maya Mall", "original_title": "Maya Mall", "slug_title": "maya-mall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

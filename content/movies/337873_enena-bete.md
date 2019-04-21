@@ -1,0 +1,1 @@
+{"tmdb_id": 337873, "title": "Enena Bete", "original_title": "Enena Bete", "slug_title": "enena-bete", "date": "2014-08-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/StgPGEPZKVIXgnHP4VQv6sHlYS.jpg", "actors": ["Groom Assefa (Brook)", "Selamawet Aweke ()"], "comments": [], "recommandations_id": []}

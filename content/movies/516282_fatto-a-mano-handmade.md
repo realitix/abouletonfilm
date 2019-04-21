@@ -1,0 +1,1 @@
+{"tmdb_id": 516282, "title": "Fatto a Mano [handmade]", "original_title": "Fatto a Mano", "slug_title": "fatto-a-mano-handmade", "date": "2017-12-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1DqQ21EvelUll36vpMmcDYhpaF.jpg", "actors": [], "comments": [], "recommandations_id": []}

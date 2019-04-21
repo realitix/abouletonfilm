@@ -1,0 +1,1 @@
+{"tmdb_id": 312052, "title": "Sterben werd ich um zu leben", "original_title": "Sterben werd ich um zu leben", "slug_title": "sterben-werd-ich-um-zu-leben", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

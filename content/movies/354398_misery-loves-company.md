@@ -1,0 +1,1 @@
+{"tmdb_id": 354398, "title": "Misery Loves Company", "original_title": "Misery Loves Company", "slug_title": "misery-loves-company", "date": "1993-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBjZk9Ev7BeEMyh3vAOlcwMorrb.jpg", "actors": [], "comments": [], "recommandations_id": []}

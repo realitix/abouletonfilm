@@ -1,0 +1,1 @@
+{"tmdb_id": 523439, "title": "Bakurov", "original_title": "\u0411\u0430\u043a\u0443\u0440\u043e\u0432", "slug_title": "bakurov", "date": "2017-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSNhtcEreETDGp0W5wLHXhdAukk.jpg", "actors": [], "comments": [], "recommandations_id": []}

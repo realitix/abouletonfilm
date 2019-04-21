@@ -1,0 +1,1 @@
+{"tmdb_id": 422189, "title": "The National Scream", "original_title": "The National Scream", "slug_title": "the-national-scream", "date": "1980-10-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

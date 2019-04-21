@@ -1,0 +1,1 @@
+{"tmdb_id": 231417, "title": "Assassinat de Kleber", "original_title": "Assassinat de Kleber", "slug_title": "assassinat-de-kleber", "date": "1897-10-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

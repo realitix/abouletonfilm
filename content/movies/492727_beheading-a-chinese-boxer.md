@@ -1,0 +1,1 @@
+{"tmdb_id": 492727, "title": "Beheading a Chinese Boxer", "original_title": "Beheading a Chinese Boxer", "slug_title": "beheading-a-chinese-boxer", "date": "1900-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503501, "title": "O princezne Solim\u00e1nsk\u00e9", "original_title": "O princezne Solim\u00e1nsk\u00e9", "slug_title": "o-princezne-solimanske", "date": "1984-02-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

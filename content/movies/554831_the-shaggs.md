@@ -1,0 +1,1 @@
+{"tmdb_id": 554831, "title": "The Shaggs", "original_title": "The Shaggs", "slug_title": "the-shaggs", "date": "", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elsie Fisher ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237219, "title": "Mysterious Stranger", "original_title": "Mysterious Stranger", "slug_title": "mysterious-stranger", "date": "1948-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

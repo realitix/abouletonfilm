@@ -1,0 +1,1 @@
+{"tmdb_id": 577275, "title": "Cmd + Ctrl", "original_title": "Cmd + Ctrl", "slug_title": "cmd-ctrl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVwJ6BlhLuDW68Ra2aegQ32M8CO.jpg", "actors": [], "comments": [], "recommandations_id": []}

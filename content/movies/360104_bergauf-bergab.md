@@ -1,0 +1,1 @@
+{"tmdb_id": 360104, "title": "Bergauf, bergab", "original_title": "Bergauf, bergab", "slug_title": "bergauf-bergab", "date": "2008-07-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SQpSAufuQZtSIF9mcefRTwkxLB.jpg", "actors": [], "comments": [], "recommandations_id": []}

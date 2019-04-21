@@ -1,0 +1,1 @@
+{"tmdb_id": 90527, "title": "Happy Dayz", "original_title": "Happy Dayz", "slug_title": "happy-dayz", "date": "2002-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwad5LbfeZnQRQDpnNMGLcPeKxE.jpg", "actors": [], "comments": [], "recommandations_id": []}

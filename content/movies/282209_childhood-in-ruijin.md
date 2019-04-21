@@ -1,0 +1,1 @@
+{"tmdb_id": 282209, "title": "Childhood in Ruijin", "original_title": "Tong nian zai Ruijin", "slug_title": "childhood-in-ruijin", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zhe Li ()", "Ke Xu ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301387, "title": "Treat Me Like a Dog", "original_title": "Treat Me Like a Dog", "slug_title": "treat-me-like-a-dog", "date": "2014-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

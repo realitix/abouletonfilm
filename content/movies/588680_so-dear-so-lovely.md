@@ -1,0 +1,1 @@
+{"tmdb_id": 588680, "title": "So Dear, So Lovely", "original_title": "So Dear, So Lovely", "slug_title": "so-dear-so-lovely", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

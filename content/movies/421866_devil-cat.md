@@ -1,0 +1,1 @@
+{"tmdb_id": 421866, "title": "Devil Cat", "original_title": "Mao bian", "slug_title": "devil-cat", "date": "1991-01-01", "genre": "Horreur / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vXixfKUaYHaOEx4zANvU0m1vDk.jpg", "actors": ["Yukari \u00d4shima ()", "Alex Fong Chung-Sun ()"], "comments": [], "recommandations_id": []}

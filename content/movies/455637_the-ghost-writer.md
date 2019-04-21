@@ -1,0 +1,1 @@
+{"tmdb_id": 455637, "title": "The Ghost Writer", "original_title": "The Ghost Writer", "slug_title": "the-ghost-writer", "date": "1990-08-15", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anthony Perkins (Anthony Strack)", "Leigh Taylor-Young ()", "Joshua John Miller ()"], "comments": [], "recommandations_id": []}

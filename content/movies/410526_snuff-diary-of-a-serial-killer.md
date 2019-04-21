@@ -1,0 +1,1 @@
+{"tmdb_id": 410526, "title": "Snuff: Diary of a Serial Killer", "original_title": "Snuff: Diary of a Serial Killer", "slug_title": "snuff-diary-of-a-serial-killer", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PGOImEQsJE6cTRgVzvwEyxkyZd.jpg", "actors": [], "comments": [], "recommandations_id": []}

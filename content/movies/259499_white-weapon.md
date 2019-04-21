@@ -1,0 +1,1 @@
+{"tmdb_id": 259499, "title": "White Weapon", "original_title": "Arma Blanca", "slug_title": "white-weapon", "date": "2013-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/elvRD8BRNMgBgkcpbCn5yYISgIy.jpg", "actors": ["M\u00f3nica del Carmen (Mari)"], "comments": [], "recommandations_id": []}

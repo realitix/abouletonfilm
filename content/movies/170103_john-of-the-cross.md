@@ -1,0 +1,1 @@
+{"tmdb_id": 170103, "title": "John of the Cross", "original_title": "John of the Cross", "slug_title": "john-of-the-cross", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

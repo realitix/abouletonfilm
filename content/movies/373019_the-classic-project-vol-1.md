@@ -1,0 +1,1 @@
+{"tmdb_id": 373019, "title": "The Classic Project Vol. 1", "original_title": "The Classic Project Vol. 1", "slug_title": "the-classic-project-vol-1", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPOTzvREtNPmwGgGWyJxlRBqLuR.jpg", "actors": [], "comments": [], "recommandations_id": []}

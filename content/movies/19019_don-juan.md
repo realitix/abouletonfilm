@@ -1,0 +1,1 @@
+{"tmdb_id": 19019, "title": "Don Juan", "original_title": "Don \u0160ajn", "slug_title": "don-juan", "date": "1969-01-01", "genre": "Animation", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3jHRzJM1BNfUwiAtHVjUE2j3ZR.jpg", "actors": ["Franti\u0161ek Filipovsk\u00fd (Narrator)"], "comments": [], "recommandations_id": []}

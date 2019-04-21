@@ -1,0 +1,1 @@
+{"tmdb_id": 324074, "title": "Serenity Channel - Aquariums", "original_title": "Serenity Channel - Aquariums", "slug_title": "serenity-channel-aquariums", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

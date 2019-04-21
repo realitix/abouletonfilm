@@ -1,0 +1,1 @@
+{"tmdb_id": 310332, "title": "Housefly: An Everyday Monster", "original_title": "Housefly: An Everyday Monster", "slug_title": "housefly-an-everyday-monster", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

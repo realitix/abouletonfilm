@@ -1,0 +1,1 @@
+{"tmdb_id": 283918, "title": "St Francis or Nightmares and Dreams", "original_title": "Saint Francois, ou cauchemars et reves", "slug_title": "st-francis-or-nightmares-and-dreams", "date": "1939-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

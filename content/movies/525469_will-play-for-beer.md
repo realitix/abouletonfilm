@@ -1,0 +1,1 @@
+{"tmdb_id": 525469, "title": "Will Play For Beer", "original_title": "Will Play For Beer", "slug_title": "will-play-for-beer", "date": "2013-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9EnFmCIe0ZcPJEaU1QuFu8sXc5S.jpg", "actors": [], "comments": [], "recommandations_id": []}

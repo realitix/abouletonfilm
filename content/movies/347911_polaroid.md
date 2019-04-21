@@ -1,0 +1,1 @@
+{"tmdb_id": 347911, "title": "Polaroid", "original_title": "Polaroid", "slug_title": "polaroid", "date": "2015-07-08", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/foRhwu4eEmXb2pk9WZUR3HFcHT5.jpg", "actors": ["Annika Witt ()", "Thea N\u00e6ss ()", "Anne Cloetta ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 586414, "title": "Chakkiligintha", "original_title": "Chakkiligintha", "slug_title": "chakkiligintha", "date": "2014-12-05", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4EGACr8GJtTmMkF2CXr9QawbIyD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525929, "title": "Killer Kaun", "original_title": "Killer Kaun", "slug_title": "killer-kaun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

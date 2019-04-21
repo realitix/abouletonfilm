@@ -1,0 +1,1 @@
+{"tmdb_id": 410037, "title": "Komorebitatchi", "original_title": "Komorebitatchi", "slug_title": "komorebitatchi", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8N0lnKPDuj8N4CCEPOqxuWq5Qva.jpg", "actors": [], "comments": [], "recommandations_id": []}

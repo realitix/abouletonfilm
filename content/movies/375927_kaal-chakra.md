@@ -1,0 +1,1 @@
+{"tmdb_id": 375927, "title": "Kaal Chakra", "original_title": "Kaal Chakra", "slug_title": "kaal-chakra", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sicYxZbAfqnk18xpSC96QNfeFYG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 85961, "title": "Dog Sweat", "original_title": "Dog Sweat", "slug_title": "dog-sweat", "date": "2011-11-11", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmb2jJaXrPj6mgXytZvGyhZ9xFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

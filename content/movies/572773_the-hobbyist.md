@@ -1,0 +1,1 @@
+{"tmdb_id": 572773, "title": "The Hobbyist", "original_title": "The Hobbyist", "slug_title": "the-hobbyist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert W. Smith (The Druggist)"], "comments": [], "recommandations_id": []}

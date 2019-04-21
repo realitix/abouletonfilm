@@ -1,0 +1,1 @@
+{"tmdb_id": 108786, "title": "My Invisible Friend", "original_title": "Mi amigo invisible", "slug_title": "my-invisible-friend", "date": "2010-01-01", "genre": "Com\u00e9die / Drame", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbTtfXSC4LhbUC1Bn2G3FYNQHJn.jpg", "actors": [], "comments": [], "recommandations_id": []}

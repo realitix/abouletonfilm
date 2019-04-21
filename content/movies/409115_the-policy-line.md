@@ -1,0 +1,1 @@
+{"tmdb_id": 409115, "title": "The Policy Line", "original_title": "A li\u00f1a pol\u00edtica", "slug_title": "the-policy-line", "date": "2016-08-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0VMGuub9dUZLC7pkdeTfCA2SuH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345744, "title": "Ban That Scene!", "original_title": "Ban That Scene!", "slug_title": "ban-that-scene", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

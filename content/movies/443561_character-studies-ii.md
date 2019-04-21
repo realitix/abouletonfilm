@@ -1,0 +1,1 @@
+{"tmdb_id": 443561, "title": "Character Studies (II)", "original_title": "Character Studies (II)", "slug_title": "character-studies-ii", "date": "1928-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJyduaLV6IVAweDGw4OHwfkTL8V.jpg", "actors": ["Montagu Love ()"], "comments": [], "recommandations_id": []}

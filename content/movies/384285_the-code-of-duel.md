@@ -1,0 +1,1 @@
+{"tmdb_id": 384285, "title": "The Code of Duel", "original_title": "\ub3c4\uc2dc\ub77d", "slug_title": "the-code-of-duel", "date": "2009-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9dWE1HFk8JvKm0ZftWSNYu9khu.jpg", "actors": [], "comments": [], "recommandations_id": []}

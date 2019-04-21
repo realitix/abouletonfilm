@@ -1,0 +1,1 @@
+{"tmdb_id": 570089, "title": "Walt Disneys nasser Spa\u00df", "original_title": "Walt Disneys nasser Spa\u00df", "slug_title": "walt-disneys-nasser-spass", "date": "1986-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wUxnfcSC81kkbA6ukKcluPlHLdf.jpg", "actors": [], "comments": [], "recommandations_id": []}

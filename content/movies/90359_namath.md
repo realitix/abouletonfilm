@@ -1,0 +1,1 @@
+{"tmdb_id": 90359, "title": "Namath", "original_title": "Namath", "slug_title": "namath", "date": "2012-01-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uiXcXR6H8dagoFi1R27ba8srOUQ.jpg", "actors": ["Joe Namath (Self)"], "comments": [], "recommandations_id": []}

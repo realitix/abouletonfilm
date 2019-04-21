@@ -1,0 +1,1 @@
+{"tmdb_id": 182874, "title": "Cinerama Holiday", "original_title": "Cinerama Holiday", "slug_title": "cinerama-holiday", "date": "1955-02-08", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bNRWFrcIMGg52JniiMSiTpVGSjs.jpg", "actors": [], "comments": [], "recommandations_id": []}

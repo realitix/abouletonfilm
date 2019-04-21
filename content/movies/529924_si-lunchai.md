@@ -1,0 +1,1 @@
+{"tmdb_id": 529924, "title": "Si Lunchai", "original_title": "Si Lunchai", "slug_title": "si-lunchai", "date": "2014-02-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

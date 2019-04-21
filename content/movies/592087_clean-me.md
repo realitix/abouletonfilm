@@ -1,0 +1,1 @@
+{"tmdb_id": 592087, "title": "Clean Me", "original_title": "Clean Me", "slug_title": "clean-me", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525718, "title": "The Farm", "original_title": "\u0424\u0435\u0440\u043c\u0430", "slug_title": "the-farm", "date": "2014-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajyEqLaG9Qp6AKSmHwS5JlUDSGe.jpg", "actors": [], "comments": [], "recommandations_id": []}

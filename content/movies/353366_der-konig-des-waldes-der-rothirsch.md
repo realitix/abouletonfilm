@@ -1,0 +1,1 @@
+{"tmdb_id": 353366, "title": "Der K\u00f6nig des Waldes. Der Rothirsch.", "original_title": "Der K\u00f6nig des Waldes. Der Rothirsch.", "slug_title": "der-konig-des-waldes-der-rothirsch", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 534005, "title": "Flea Sings", "original_title": "Flea Sings", "slug_title": "flea-sings", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Flea (\u00c9l mismo)"], "comments": [], "recommandations_id": []}

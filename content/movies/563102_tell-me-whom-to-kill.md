@@ -1,0 +1,1 @@
+{"tmdb_id": 563102, "title": "Tell Me Whom to Kill", "original_title": "Dis-moi qui tuer", "slug_title": "tell-me-whom-to-kill", "date": "1965-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mS5KrWZ07DE5edlKGPbAmvecRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 475332, "title": "At school", "original_title": "Un cas d'\u00e9cole", "slug_title": "at-school", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

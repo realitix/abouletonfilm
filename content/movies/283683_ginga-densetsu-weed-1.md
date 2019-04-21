@@ -1,0 +1,1 @@
+{"tmdb_id": 283683, "title": "Ginga Densetsu Weed 1", "original_title": "Ginga Densetsu Weed 1", "slug_title": "ginga-densetsu-weed-1", "date": "2007-11-16", "genre": "Animation / Action / Aventure", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDtZHVKwde0upXdJpKGMP8YFqYT.jpg", "actors": [], "comments": [], "recommandations_id": []}

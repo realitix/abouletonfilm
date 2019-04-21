@@ -1,0 +1,1 @@
+{"tmdb_id": 493246, "title": "The woman is heating the sauna", "original_title": "Naine k\u00fctab sauna", "slug_title": "the-woman-is-heating-the-sauna", "date": "1979-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ita Ever (Anu)", "Aarne \u00dcksk\u00fcla (T\u00f5nis)"], "comments": [], "recommandations_id": []}

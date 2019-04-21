@@ -1,0 +1,1 @@
+{"tmdb_id": 515438, "title": "20 Jahre S\u00f6hne Mannheims", "original_title": "20 Jahre S\u00f6hne Mannheims", "slug_title": "20-jahre-sohne-mannheims", "date": "2015-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xoiWBf8kSnK9Rg5pfsbpxGkmujv.jpg", "actors": [], "comments": [], "recommandations_id": []}

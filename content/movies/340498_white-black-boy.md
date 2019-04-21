@@ -1,0 +1,1 @@
+{"tmdb_id": 340498, "title": "White Black Boy", "original_title": "Sort Hvid Dreng", "slug_title": "white-black-boy", "date": "2012-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

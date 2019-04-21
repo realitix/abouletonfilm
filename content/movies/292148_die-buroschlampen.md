@@ -1,0 +1,1 @@
+{"tmdb_id": 292148, "title": "Die B\u00fcroschlampen", "original_title": "Die B\u00fcroschlampen", "slug_title": "die-buroschlampen", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vivian Schmitt ()"], "comments": [], "recommandations_id": []}

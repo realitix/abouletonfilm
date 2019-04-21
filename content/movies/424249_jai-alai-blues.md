@@ -1,0 +1,1 @@
+{"tmdb_id": 424249, "title": "Jai Alai Blues", "original_title": "Jai Alai Blues", "slug_title": "jai-alai-blues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

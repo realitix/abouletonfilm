@@ -1,0 +1,1 @@
+{"tmdb_id": 107066, "title": "The Master of Shiatsu", "original_title": "Shiatsu Oja", "slug_title": "the-master-of-shiatsu", "date": "1989-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNDZAvtr6L7OLln11CHVzwgfOvt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330481, "title": "Romeo Kota", "original_title": "Romeo Kota", "slug_title": "romeo-kota", "date": "2015-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oc7o5UcvWHdtZLHu04KQSlQey8.jpg", "actors": ["Aaron Aziz ()", "Nabil Raja Lawak ()", "Hanis Zalikha ()"], "comments": [], "recommandations_id": []}

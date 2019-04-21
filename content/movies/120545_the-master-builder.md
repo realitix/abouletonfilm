@@ -1,0 +1,1 @@
+{"tmdb_id": 120545, "title": "The Master Builder", "original_title": "The Master Builder", "slug_title": "the-master-builder", "date": "1958-02-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f14u2Xr9otmLoXOlC8CmNCikQev.jpg", "actors": ["Mai Zetterling ()"], "comments": [], "recommandations_id": []}

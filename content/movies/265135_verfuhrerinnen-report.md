@@ -1,0 +1,1 @@
+{"tmdb_id": 265135, "title": "Verf\u00fchrerinnen-Report", "original_title": "Verf\u00fchrerinnen-Report", "slug_title": "verfuhrerinnen-report", "date": "1972-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6F1HD0AIpjz4Yku2iYxtE7mnglS.jpg", "actors": [], "comments": [], "recommandations_id": []}

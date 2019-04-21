@@ -1,0 +1,1 @@
+{"tmdb_id": 398132, "title": "ECW Hostile City Showdown '94", "original_title": "ECW Hostile City Showdown '94", "slug_title": "ecw-hostile-city-showdown-94", "date": "1994-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/24cXq027QgH1LwuyXmvORS0ATHO.jpg", "actors": [], "comments": [], "recommandations_id": []}

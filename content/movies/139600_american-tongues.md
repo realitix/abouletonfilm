@@ -1,0 +1,1 @@
+{"tmdb_id": 139600, "title": "American Tongues", "original_title": "American Tongues", "slug_title": "american-tongues", "date": "1987-11-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6sUK84wnw8L8Aqe2SWohg4Wb8l.jpg", "actors": [], "comments": [], "recommandations_id": []}

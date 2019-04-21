@@ -1,0 +1,1 @@
+{"tmdb_id": 313436, "title": "Boys Rock", "original_title": "Boys Rock", "slug_title": "boys-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

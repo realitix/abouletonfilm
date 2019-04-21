@@ -1,0 +1,1 @@
+{"tmdb_id": 443295, "title": "Bowie2001- A Space Oddity", "original_title": "Bowie2001- A Space Oddity", "slug_title": "bowie2001-a-space-oddity", "date": "2011-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKgei6pEHMSEjgJpuzBsnZhoy0V.jpg", "actors": [], "comments": [], "recommandations_id": []}

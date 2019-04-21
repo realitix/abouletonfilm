@@ -1,0 +1,1 @@
+{"tmdb_id": 429912, "title": "Star Lords: Rise of The Nemesis", "original_title": "Star Lords: Rise of The Nemesis", "slug_title": "star-lords-rise-of-the-nemesis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

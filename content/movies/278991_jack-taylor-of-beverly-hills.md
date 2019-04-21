@@ -1,0 +1,1 @@
+{"tmdb_id": 278991, "title": "Jack Taylor of Beverly Hills", "original_title": "Jack Taylor of Beverly Hills", "slug_title": "jack-taylor-of-beverly-hills", "date": "2007-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3M9NqMbuNPbzggfW8jTJpDwFV8r.jpg", "actors": [], "comments": [], "recommandations_id": []}

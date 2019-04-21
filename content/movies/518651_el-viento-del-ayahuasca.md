@@ -1,0 +1,1 @@
+{"tmdb_id": 518651, "title": "El viento del ayahuasca", "original_title": "El viento del ayahuasca", "slug_title": "el-viento-del-ayahuasca", "date": "1983-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2BrCY7iuUrwuVhn6oQaFKoV4Ps.jpg", "actors": [], "comments": [], "recommandations_id": []}

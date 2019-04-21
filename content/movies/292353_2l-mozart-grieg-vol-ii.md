@@ -1,0 +1,1 @@
+{"tmdb_id": 292353, "title": "2L Mozart/Grieg Vol. II", "original_title": "2L Mozart/Grieg Vol. II", "slug_title": "2l-mozart-grieg-vol-ii", "date": "2009-03-01", "genre": "Musique", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9yV2rh5pkC28M90SKbctRVvUy00.jpg", "actors": [], "comments": [], "recommandations_id": []}

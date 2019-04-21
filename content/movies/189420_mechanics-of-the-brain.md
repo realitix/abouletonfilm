@@ -1,0 +1,1 @@
+{"tmdb_id": 189420, "title": "Mechanics of the Brain", "original_title": "Mekhanika golovnogo mozga", "slug_title": "mechanics-of-the-brain", "date": "1926-11-19", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVcMelx6OSZiD8YrUA7mxvnKIiE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 246576, "title": "Lou Reed Remembered", "original_title": "Lou Reed Remembered", "slug_title": "lou-reed-remembered", "date": "2013-12-14", "genre": "Musique / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6YrT5eCEkjsZAqz9Jmx7CJm1x55.jpg", "actors": [], "comments": [], "recommandations_id": []}

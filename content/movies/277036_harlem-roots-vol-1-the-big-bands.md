@@ -1,0 +1,1 @@
+{"tmdb_id": 277036, "title": "Harlem Roots: Vol. 1: The Big Bands", "original_title": "Harlem Roots: Vol. 1: The Big Bands", "slug_title": "harlem-roots-vol-1-the-big-bands", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

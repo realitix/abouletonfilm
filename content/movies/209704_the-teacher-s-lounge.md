@@ -1,0 +1,1 @@
+{"tmdb_id": 209704, "title": "The Teacher's Lounge", "original_title": "The Teacher's Lounge", "slug_title": "the-teacher-s-lounge", "date": "2011-05-27", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy J. Cox (Boss)", "Deja Aramburu (Mary)", "Sabar Banks (Robert)"], "comments": [], "recommandations_id": []}

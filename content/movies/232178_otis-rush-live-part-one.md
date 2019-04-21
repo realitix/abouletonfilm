@@ -1,0 +1,1 @@
+{"tmdb_id": 232178, "title": "Otis Rush - Live Part One", "original_title": "Otis Rush - Live Part One", "slug_title": "otis-rush-live-part-one", "date": "2002-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sBBbUicDthdwaG8ekl85d2tpJ24.jpg", "actors": [], "comments": [], "recommandations_id": []}

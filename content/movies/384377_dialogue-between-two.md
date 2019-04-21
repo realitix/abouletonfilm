@@ -1,0 +1,1 @@
+{"tmdb_id": 384377, "title": "Dialogue Between Two", "original_title": "Nisou no Kuzu", "slug_title": "dialogue-between-two", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4remwktvpnFi04265loIyZhxWFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 175794, "title": "Ammon and King Lamoni", "original_title": "Ammon and King Lamoni", "slug_title": "ammon-and-king-lamoni", "date": "2004-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCuLcGggVLn2FhzyyC3BDvBeN1v.jpg", "actors": [], "comments": [], "recommandations_id": []}

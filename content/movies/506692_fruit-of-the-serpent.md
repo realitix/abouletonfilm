@@ -1,0 +1,1 @@
+{"tmdb_id": 506692, "title": "Fruit of the Serpent", "original_title": "Fruit of the Serpent", "slug_title": "fruit-of-the-serpent", "date": "2007-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HMfqpsi6DElgf5izkVlvwuOFvR.jpg", "actors": [], "comments": [], "recommandations_id": []}

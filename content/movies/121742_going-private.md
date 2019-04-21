@@ -1,0 +1,1 @@
+{"tmdb_id": 121742, "title": "Going Private", "original_title": "Nachbeben", "slug_title": "going-private", "date": "2006-03-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWmVeCd4MuQVicfa8zZIn0afVyP.jpg", "actors": ["Bettina Stucky (Sue)"], "comments": [], "recommandations_id": []}

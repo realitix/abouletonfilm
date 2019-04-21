@@ -1,0 +1,1 @@
+{"tmdb_id": 361542, "title": "Yogafit Ultra", "original_title": "Yogafit Ultra", "slug_title": "yogafit-ultra", "date": "2007-10-15", "genre": "Familial / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katie Pearson (Instructor)", "Kristin Mabry (Instructor)"], "comments": [], "recommandations_id": []}

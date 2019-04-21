@@ -1,0 +1,1 @@
+{"tmdb_id": 268734, "title": "Half-Dragon Sanchez", "original_title": "Half-Dragon Sanchez", "slug_title": "half-dragon-sanchez", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 188915, "title": "The Last Pogo", "original_title": "The Last Pogo", "slug_title": "the-last-pogo", "date": "1978-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMuN4t4yNsJFzwD7xi1oVdRFD3B.jpg", "actors": [], "comments": [], "recommandations_id": []}

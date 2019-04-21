@@ -1,0 +1,1 @@
+{"tmdb_id": 184589, "title": "The Calico Dragon", "original_title": "The Calico Dragon", "slug_title": "the-calico-dragon", "date": "1935-03-29", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eOi7JA5J0NKu4lJZXgLXg1qvkEf.jpg", "actors": [], "comments": [], "recommandations_id": []}

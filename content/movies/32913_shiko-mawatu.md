@@ -1,0 +1,1 @@
+{"tmdb_id": 32913, "title": "Shiko Mawatu", "original_title": "Shiko Mawatu", "slug_title": "shiko-mawatu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBUJHbCiLOW8Ya4O9Mhyf9aVAce.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 114496, "title": "Nanking Nanking", "original_title": "Nanking Nanking", "slug_title": "nanking-nanking", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

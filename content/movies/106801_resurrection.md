@@ -1,0 +1,1 @@
+{"tmdb_id": 106801, "title": "Resurrection", "original_title": "Resurrection", "slug_title": "resurrection", "date": "1998-07-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ySLO3kegZZdYqeqtrqli4yUmwh.jpg", "actors": ["Robert Jobe (Claudius)", "Mark Steele (Marcus)"], "comments": [], "recommandations_id": []}

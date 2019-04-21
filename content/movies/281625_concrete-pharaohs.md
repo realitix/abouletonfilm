@@ -1,0 +1,1 @@
+{"tmdb_id": 281625, "title": "Concrete Pharaohs", "original_title": "\u0411\u0435\u0442\u043e\u043d\u043d\u0438 \u0444\u0430\u0440\u0430\u043e\u043d\u0438", "slug_title": "concrete-pharaohs", "date": "2010-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 398843, "title": "Open Book", "original_title": "Open Book", "slug_title": "open-book", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

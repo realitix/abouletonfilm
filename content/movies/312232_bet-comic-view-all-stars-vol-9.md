@@ -1,0 +1,1 @@
+{"tmdb_id": 312232, "title": "BET Comic View All Stars: Vol. 9", "original_title": "BET Comic View All Stars: Vol. 9", "slug_title": "bet-comic-view-all-stars-vol-9", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

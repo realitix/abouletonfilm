@@ -1,0 +1,1 @@
+{"tmdb_id": 329369, "title": "Das Blumenwunder", "original_title": "Das Blumenwunder", "slug_title": "das-blumenwunder", "date": "1926-02-25", "genre": "Documentaire / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/E9rIYpij2kuwiojOglg1ijGMlo.jpg", "actors": ["Maria Solveg (Flora)"], "comments": [], "recommandations_id": []}

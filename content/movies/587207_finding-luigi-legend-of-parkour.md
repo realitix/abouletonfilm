@@ -1,0 +1,1 @@
+{"tmdb_id": 587207, "title": "Finding Luigi: Legend of Parkour", "original_title": "Finding Luigi: Legend of Parkour", "slug_title": "finding-luigi-legend-of-parkour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXcFvuJfa3cinyaFNKcLNfjrCWB.jpg", "actors": [], "comments": [], "recommandations_id": []}

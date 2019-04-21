@@ -1,0 +1,1 @@
+{"tmdb_id": 151694, "title": "Franklin: Favorite Turtle Tales", "original_title": "Franklin: Favorite Turtle Tales", "slug_title": "franklin-favorite-turtle-tales", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PcXc5MPvY6702N8iWFX8myNfcJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

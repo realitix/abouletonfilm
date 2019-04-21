@@ -1,0 +1,1 @@
+{"tmdb_id": 273244, "title": "Kasheer: Art, Culture and the Struggle for Azadi", "original_title": "Kasheer: Art, Culture and the Struggle for Azadi", "slug_title": "kasheer-art-culture-and-the-struggle-for-azadi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

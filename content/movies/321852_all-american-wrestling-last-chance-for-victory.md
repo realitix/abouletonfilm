@@ -1,0 +1,1 @@
+{"tmdb_id": 321852, "title": "All American Wrestling Last Chance For Victory", "original_title": "All American Wrestling Last Chance For Victory", "slug_title": "all-american-wrestling-last-chance-for-victory", "date": "2014-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

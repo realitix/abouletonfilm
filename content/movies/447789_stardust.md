@@ -1,0 +1,1 @@
+{"tmdb_id": 447789, "title": "Stardust", "original_title": "\u0160um hv\u011bzd", "slug_title": "stardust", "date": "1974-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

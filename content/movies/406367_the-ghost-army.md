@@ -1,0 +1,1 @@
+{"tmdb_id": 406367, "title": "The Ghost Army", "original_title": "The Ghost Army", "slug_title": "the-ghost-army", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Darryl Read (Abu)", "Ria Mills (Selima)"], "comments": [], "recommandations_id": []}

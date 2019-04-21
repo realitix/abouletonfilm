@@ -1,0 +1,1 @@
+{"tmdb_id": 543149, "title": "Mysterious Doctor Satan Death Cloese In", "original_title": "Mysterious Doctor Satan Death Cloese In", "slug_title": "mysterious-doctor-satan-death-cloese-in", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

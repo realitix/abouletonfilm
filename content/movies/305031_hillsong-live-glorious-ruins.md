@@ -1,0 +1,1 @@
+{"tmdb_id": 305031, "title": "Hillsong Live - Glorious Ruins", "original_title": "Hillsong Live - Glorious Ruins", "slug_title": "hillsong-live-glorious-ruins", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

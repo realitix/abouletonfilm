@@ -1,0 +1,1 @@
+{"tmdb_id": 184969, "title": "Babalarin babasi", "original_title": "Babalarin babasi", "slug_title": "babalarin-babasi", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcR0ReZTIYVC9C3cmtsh6r7QV5b.jpg", "actors": [], "comments": [], "recommandations_id": []}

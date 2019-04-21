@@ -1,0 +1,1 @@
+{"tmdb_id": 521695, "title": "Paweogo", "original_title": "Paweogo", "slug_title": "paweogo", "date": "1984-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

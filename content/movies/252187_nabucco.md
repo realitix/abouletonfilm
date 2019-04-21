@@ -1,0 +1,1 @@
+{"tmdb_id": 252187, "title": "Nabucco", "original_title": "Nabucco", "slug_title": "nabucco", "date": "2000-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Donati (Nabucco)", "Galiana Kalinina (Abigail)", "Alessandro Teliga (Zacharias)"], "comments": [], "recommandations_id": []}

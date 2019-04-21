@@ -1,0 +1,1 @@
+{"tmdb_id": 415708, "title": "Le cin\u00e9ma en deux", "original_title": "Le cin\u00e9ma en deux", "slug_title": "le-cinema-en-deux", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9otd9djeUR0ivaUHKDrB30OhV7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

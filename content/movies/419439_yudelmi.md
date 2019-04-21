@@ -1,0 +1,1 @@
+{"tmdb_id": 419439, "title": "Yudelmi", "original_title": "Yudelmi", "slug_title": "yudelmi", "date": "2017-10-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hc1vYYyC33HBiuhL0rRqwFIXSS0.jpg", "actors": [], "comments": [], "recommandations_id": []}

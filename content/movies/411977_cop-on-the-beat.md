@@ -1,0 +1,1 @@
+{"tmdb_id": 411977, "title": "Cop on the Beat", "original_title": "Cop on the Beat", "slug_title": "cop-on-the-beat", "date": "1975-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

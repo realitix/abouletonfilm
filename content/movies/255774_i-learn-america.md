@@ -1,0 +1,1 @@
+{"tmdb_id": 255774, "title": "I Learn America", "original_title": "I Learn America", "slug_title": "i-learn-america", "date": "2013-06-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fsNR0I4PVed8w3FZmdxROynPt0h.jpg", "actors": [], "comments": [], "recommandations_id": []}

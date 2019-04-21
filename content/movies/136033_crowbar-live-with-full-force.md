@@ -1,0 +1,1 @@
+{"tmdb_id": 136033, "title": "Crowbar: Live - With Full Force", "original_title": "Crowbar: Live - With Full Force", "slug_title": "crowbar-live-with-full-force", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5nvwGj025Xplw5x9defikfAYZL4.jpg", "actors": [], "comments": [], "recommandations_id": []}

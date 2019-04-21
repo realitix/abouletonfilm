@@ -1,0 +1,1 @@
+{"tmdb_id": 559187, "title": "The Sea Rose", "original_title": "La rose de la mer", "slug_title": "the-sea-rose", "date": "1946-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413571, "title": "Portr\u00e9t kr\u00e1le komik\u016f", "original_title": "Portr\u00e9t kr\u00e1le komik\u016f", "slug_title": "portret-krale-komiku", "date": "1987-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josef Abrh\u00e1m ()", "Vlasta Burian ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 449921, "title": "Upwelling", "original_title": "Upweling: La risalita delle acque profonde", "slug_title": "upwelling", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHazL6PGnUkK73DdlelNmi3sfZa.jpg", "actors": [], "comments": [], "recommandations_id": []}

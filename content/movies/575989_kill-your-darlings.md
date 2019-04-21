@@ -1,0 +1,1 @@
+{"tmdb_id": 575989, "title": "Kill Your Darlings", "original_title": "Kill Your Darlings", "slug_title": "kill-your-darlings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYsmZcDayxxnIxEclEdv1d6GlS5.jpg", "actors": [], "comments": [], "recommandations_id": []}

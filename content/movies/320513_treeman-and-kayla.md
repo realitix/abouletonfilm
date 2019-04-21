@@ -1,0 +1,1 @@
+{"tmdb_id": 320513, "title": "Treeman and Kayla", "original_title": "Treeman and Kayla", "slug_title": "treeman-and-kayla", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

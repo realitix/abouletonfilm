@@ -1,0 +1,1 @@
+{"tmdb_id": 512532, "title": "There Is a Spider Living Between Us", "original_title": "There Is a Spider Living Between Us", "slug_title": "there-is-a-spider-living-between-us", "date": "2009-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

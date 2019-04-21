@@ -1,0 +1,1 @@
+{"tmdb_id": 356302, "title": "Kooperman", "original_title": "Kooperman", "slug_title": "kooperman", "date": "2015-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

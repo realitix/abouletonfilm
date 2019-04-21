@@ -1,0 +1,1 @@
+{"tmdb_id": 428980, "title": "The Dark Night", "original_title": "\u0422\u0451\u043c\u043d\u0430\u044f \u043d\u043e\u0447\u044c", "slug_title": "the-dark-night", "date": "2001-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

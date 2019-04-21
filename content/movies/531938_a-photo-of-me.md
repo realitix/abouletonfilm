@@ -1,0 +1,1 @@
+{"tmdb_id": 531938, "title": "A Photo of Me", "original_title": "A Photo of Me", "slug_title": "a-photo-of-me", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GuIH81bRRY6h2oLkIsJAxQRMuQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

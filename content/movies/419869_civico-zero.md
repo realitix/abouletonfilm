@@ -1,0 +1,1 @@
+{"tmdb_id": 419869, "title": "Civico zero", "original_title": "Civico zero", "slug_title": "civico-zero", "date": "2007-11-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Ktoym5e1qrrSfoi4IeZzqqS7eS.jpg", "actors": ["Massimo Ranieri (Giuliano)", "Ornella Muti (Nina)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300916, "title": "Samrat Chandragupt", "original_title": "Samrat Chandragupt", "slug_title": "samrat-chandragupt", "date": "1958-01-01", "genre": "Aventure / Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sThBllYFVLEwjrbR5a6xMkSXEqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

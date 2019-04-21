@@ -1,0 +1,1 @@
+{"tmdb_id": 516122, "title": "Michael Joiner: God's Smart Alec", "original_title": "Michael Joiner: God's Smart Alec", "slug_title": "michael-joiner-god-s-smart-alec", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

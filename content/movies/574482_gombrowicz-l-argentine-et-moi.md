@@ -1,0 +1,1 @@
+{"tmdb_id": 574482, "title": "Gombrowicz, l'Argentine et moi", "original_title": "Gombrowicz, l'Argentine et moi", "slug_title": "gombrowicz-l-argentine-et-moi", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

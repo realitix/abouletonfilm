@@ -1,0 +1,1 @@
+{"tmdb_id": 106051, "title": "Mr. Rossi in Venice", "original_title": "Il Signor Rossi a Venezia", "slug_title": "mr-rossi-in-venice", "date": "1974-01-01", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4qyFHqRRXM0hMOs9H8JespL327b.jpg", "actors": [], "comments": [], "recommandations_id": []}

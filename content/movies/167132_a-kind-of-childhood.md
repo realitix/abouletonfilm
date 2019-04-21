@@ -1,0 +1,1 @@
+{"tmdb_id": 167132, "title": "A Kind of Childhood", "original_title": "A Kind of Childhood", "slug_title": "a-kind-of-childhood", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMTM15QZ25x4LAvOzWdlOZ1DHje.jpg", "actors": [], "comments": [], "recommandations_id": []}

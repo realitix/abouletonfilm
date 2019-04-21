@@ -1,0 +1,1 @@
+{"tmdb_id": 477361, "title": "In the Footsteps of Monsieur Hulot", "original_title": "Tati sur les pas de Mr Hulot...", "slug_title": "in-the-footsteps-of-monsieur-hulot", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

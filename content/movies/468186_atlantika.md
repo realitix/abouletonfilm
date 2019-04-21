@@ -1,0 +1,1 @@
+{"tmdb_id": 468186, "title": "Atlantika", "original_title": "Atlantika", "slug_title": "atlantika", "date": "2011-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wAGbktzQy5ohhuqQV4IBK1Lub9E.jpg", "actors": [], "comments": [], "recommandations_id": []}

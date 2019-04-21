@@ -1,0 +1,1 @@
+{"tmdb_id": 263395, "title": "The Blazing Sun", "original_title": "\ub561\ubcd5", "slug_title": "the-blazing-sun", "date": "1985-08-01", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIsYGuTIOEx0OuOLX7ZDQ0Qq0ws.jpg", "actors": ["Ha Myeong-jung ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 467572, "title": "Little Jungle Boy", "original_title": "Little Jungle Boy", "slug_title": "little-jungle-boy", "date": "1970-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5A7FKmNEX4GiQW4z5OXxnWxOkkr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 125289, "title": "Super Star", "original_title": "Super Star", "slug_title": "super-star", "date": "2008-02-08", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iWc7b98giDZRQWfSZLB0ANA2nw1.jpg", "actors": [], "comments": [], "recommandations_id": []}

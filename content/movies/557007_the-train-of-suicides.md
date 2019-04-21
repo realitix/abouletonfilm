@@ -1,0 +1,1 @@
+{"tmdb_id": 557007, "title": "The Train of Suicides", "original_title": "Le train des suicid\u00e9s", "slug_title": "the-train-of-suicides", "date": "1931-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

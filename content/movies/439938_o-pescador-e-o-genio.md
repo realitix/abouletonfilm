@@ -1,0 +1,1 @@
+{"tmdb_id": 439938, "title": "O Pescador e o G\u00eanio", "original_title": "O Pescador e o G\u00eanio", "slug_title": "o-pescador-e-o-genio", "date": "2017-02-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abigail Tatit ()", "Marcelo Pessoa ()"], "comments": [], "recommandations_id": []}

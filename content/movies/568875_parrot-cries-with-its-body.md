@@ -1,0 +1,1 @@
+{"tmdb_id": 568875, "title": "Parrot Cries with Its Body", "original_title": "Aengmusae mom-eulo ul-eossda", "slug_title": "parrot-cries-with-its-body", "date": "1981-10-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqPBJoIcRrCo882lJEowanyF9WR.jpg", "actors": [], "comments": [], "recommandations_id": []}

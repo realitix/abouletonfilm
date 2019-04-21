@@ -1,0 +1,1 @@
+{"tmdb_id": 349321, "title": "The Hair Dresser", "original_title": "\ud5e4\uc5b4\ub4dc\ub808\uc11c", "slug_title": "the-hair-dresser", "date": "1995-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cho Eun-sook (Make-up artist)"], "comments": [], "recommandations_id": []}

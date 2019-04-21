@@ -1,0 +1,1 @@
+{"tmdb_id": 311423, "title": "Steel Pulse: Door of No Return", "original_title": "Steel Pulse: Door of No Return", "slug_title": "steel-pulse-door-of-no-return", "date": "2008-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

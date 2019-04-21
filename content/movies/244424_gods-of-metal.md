@@ -1,0 +1,1 @@
+{"tmdb_id": 244424, "title": "Gods of Metal", "original_title": "Gods of Metal", "slug_title": "gods-of-metal", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEW0oomYkqInTWhokKEaMHz3NHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

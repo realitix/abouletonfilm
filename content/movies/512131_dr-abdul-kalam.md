@@ -1,0 +1,1 @@
+{"tmdb_id": 512131, "title": "Dr. Abdul Kalam", "original_title": "Dr. Abdul Kalam", "slug_title": "dr-abdul-kalam", "date": "2018-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4LOxo78YPBd9XSRvtIvJwCJbKsF.jpg", "actors": [], "comments": [], "recommandations_id": []}

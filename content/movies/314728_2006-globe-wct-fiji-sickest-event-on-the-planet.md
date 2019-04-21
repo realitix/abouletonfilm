@@ -1,0 +1,1 @@
+{"tmdb_id": 314728, "title": "2006 Globe WCT Fiji: Sickest Event on the Planet", "original_title": "2006 Globe WCT Fiji: Sickest Event on the Planet", "slug_title": "2006-globe-wct-fiji-sickest-event-on-the-planet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 396745, "title": "Black Rain White Scars", "original_title": "Black Rain White Scars", "slug_title": "black-rain-white-scars", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyrxb532vMAO1juNYlguNt3FBkk.jpg", "actors": [], "comments": [], "recommandations_id": []}

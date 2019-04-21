@@ -1,0 +1,1 @@
+{"tmdb_id": 455792, "title": "History of a Committed Cinema", "original_title": "History of a Committed Cinema", "slug_title": "history-of-a-committed-cinema", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 464399, "title": "Weapons of Mass Surveillance", "original_title": "Weapons of Mass Surveillance", "slug_title": "weapons-of-mass-surveillance", "date": "2017-06-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

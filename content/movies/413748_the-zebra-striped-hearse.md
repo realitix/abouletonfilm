@@ -1,0 +1,1 @@
+{"tmdb_id": 413748, "title": "The Zebra Striped Hearse", "original_title": "The Zebra Striped Hearse", "slug_title": "the-zebra-striped-hearse", "date": "", "genre": "Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

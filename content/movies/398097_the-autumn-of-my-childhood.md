@@ -1,0 +1,1 @@
+{"tmdb_id": 398097, "title": "The autumn of my childhood", "original_title": "Mano vaikystes ruduo", "slug_title": "the-autumn-of-my-childhood", "date": "1978-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

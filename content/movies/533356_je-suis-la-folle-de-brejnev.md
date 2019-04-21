@@ -1,0 +1,1 @@
+{"tmdb_id": 533356, "title": "Je suis la folle de Brejnev", "original_title": "Je suis la folle de Brejnev", "slug_title": "je-suis-la-folle-de-brejnev", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

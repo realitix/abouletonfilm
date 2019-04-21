@@ -1,0 +1,1 @@
+{"tmdb_id": 349335, "title": "The Pink Can", "original_title": "\ud551\ud06c\ube5b \uae61\ud1b5", "slug_title": "the-pink-can", "date": "1994-01-07", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

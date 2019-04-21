@@ -1,0 +1,1 @@
+{"tmdb_id": 379640, "title": "The Myths of Shoplifting", "original_title": "The Myths of Shoplifting", "slug_title": "the-myths-of-shoplifting", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

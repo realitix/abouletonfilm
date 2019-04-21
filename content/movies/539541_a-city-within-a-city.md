@@ -1,0 +1,1 @@
+{"tmdb_id": 539541, "title": "A City within a City", "original_title": "Una ciudad en una ciudad", "slug_title": "a-city-within-a-city", "date": "2013-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vDyFkuDVYhWCNb1pYERIVN8aid.jpg", "actors": [], "comments": [], "recommandations_id": []}

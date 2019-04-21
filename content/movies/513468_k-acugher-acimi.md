@@ -1,0 +1,1 @@
+{"tmdb_id": 513468, "title": "K (Acugher/Acimi)", "original_title": "K (Acugher/Acimi)", "slug_title": "k-acugher-acimi", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y9shnes7Ecf0qmMV5WUOmzpS7Rv.jpg", "actors": [], "comments": [], "recommandations_id": []}

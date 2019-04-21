@@ -1,0 +1,1 @@
+{"tmdb_id": 476527, "title": "Bloody Mary", "original_title": "Bloody Mary", "slug_title": "bloody-mary", "date": "", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugWcCQSWRkttPuGN9vQyDczDthy.jpg", "actors": ["Hedda Stiernstedt ()"], "comments": [], "recommandations_id": []}

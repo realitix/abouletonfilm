@@ -1,0 +1,1 @@
+{"tmdb_id": 337596, "title": "The Cleaners", "original_title": "The Cleaners", "slug_title": "the-cleaners", "date": "1969-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WBUi4se7zW8TNOPUrxWHza86eN.jpg", "actors": [], "comments": [], "recommandations_id": []}

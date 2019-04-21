@@ -1,0 +1,1 @@
+{"tmdb_id": 407835, "title": "Wielki woz", "original_title": "Wielki woz", "slug_title": "wielki-woz", "date": "2005-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

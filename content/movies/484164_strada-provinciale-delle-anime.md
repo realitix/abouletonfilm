@@ -1,0 +1,1 @@
+{"tmdb_id": 484164, "title": "Strada provinciale delle Anime", "original_title": "Strada provinciale delle Anime", "slug_title": "strada-provinciale-delle-anime", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gianni Celati ()", "Luigi Ghirri ()"], "comments": [], "recommandations_id": []}

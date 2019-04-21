@@ -1,0 +1,1 @@
+{"tmdb_id": 501466, "title": "Untitled Paramount/Hasbro Event Film", "original_title": "Untitled Paramount/Hasbro Event Film", "slug_title": "untitled-paramount-hasbro-event-film", "date": "2021-10-21", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

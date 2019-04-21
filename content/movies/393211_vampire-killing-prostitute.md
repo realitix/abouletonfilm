@@ -1,0 +1,1 @@
+{"tmdb_id": 393211, "title": "Vampire-Killing Prostitute", "original_title": "Vampire-Killing Prostitute", "slug_title": "vampire-killing-prostitute", "date": "2015-05-14", "genre": "Action / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brittany Sparkles (Raven)"], "comments": [], "recommandations_id": []}

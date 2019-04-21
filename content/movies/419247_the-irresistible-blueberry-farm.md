@@ -1,0 +1,1 @@
+{"tmdb_id": 419247, "title": "The Irresistible Blueberry Farm", "original_title": "The Irresistible Blueberry Farm", "slug_title": "the-irresistible-blueberry-farm", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g6fRwu0eV4LmTgqaw6ggdclSBPx.jpg", "actors": [], "comments": [], "recommandations_id": []}

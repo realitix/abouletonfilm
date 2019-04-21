@@ -1,0 +1,1 @@
+{"tmdb_id": 562768, "title": "Bando, um Filme de", "original_title": "Bando, um Filme de", "slug_title": "bando-um-filme-de", "date": "2018-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4UPJAcLh8AEzov9OhoBkIwGGLa.jpg", "actors": [], "comments": [], "recommandations_id": []}

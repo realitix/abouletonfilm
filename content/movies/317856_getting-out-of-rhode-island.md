@@ -1,0 +1,1 @@
+{"tmdb_id": 317856, "title": "Getting Out of Rhode Island", "original_title": "Getting Out of Rhode Island", "slug_title": "getting-out-of-rhode-island", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468986, "title": "Naamkaran", "original_title": "Naamkaran", "slug_title": "naamkaran", "date": "2014-11-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sudipta Chakraborty ()", "Bidipta Chakraborty ()", "Kaushik Sen ()"], "comments": [], "recommandations_id": []}

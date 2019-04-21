@@ -1,0 +1,1 @@
+{"tmdb_id": 144714, "title": "\u041a\u041f\u0414 & Deja Vu", "original_title": "\u041a\u041f\u0414 & Deja Vu", "slug_title": "kpd-deja-vu", "date": "2009-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z29VqRVILx0dUwU3YpJtESsmtJU.jpg", "actors": [], "comments": [], "recommandations_id": []}

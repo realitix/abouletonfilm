@@ -1,0 +1,1 @@
+{"tmdb_id": 558884, "title": "Follow the Bitch", "original_title": "Follow the Bitch", "slug_title": "follow-the-bitch", "date": "1996-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

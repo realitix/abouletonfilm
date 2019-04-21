@@ -1,0 +1,1 @@
+{"tmdb_id": 556751, "title": "\ubaa9\uaca9\uc790", "original_title": "\ubaa9\uaca9\uc790", "slug_title": "moggyeogja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478295, "title": "What is I.S.?", "original_title": "What is I.S.?", "slug_title": "what-is-i-s", "date": "2016-07-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florian Maerlender (narrator)"], "comments": [], "recommandations_id": []}

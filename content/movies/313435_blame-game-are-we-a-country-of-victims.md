@@ -1,0 +1,1 @@
+{"tmdb_id": 313435, "title": "Blame Game: Are We a Country of Victims?", "original_title": "Blame Game: Are We a Country of Victims?", "slug_title": "blame-game-are-we-a-country-of-victims", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

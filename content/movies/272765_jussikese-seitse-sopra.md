@@ -1,0 +1,1 @@
+{"tmdb_id": 272765, "title": "Jussikese seitse s\u00f5pra", "original_title": "Jussikese seitse s\u00f5pra", "slug_title": "jussikese-seitse-sopra", "date": "1967-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wo0nitMKxceqK4cGMUU1J5bjGfa.jpg", "actors": [], "comments": [], "recommandations_id": []}

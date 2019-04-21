@@ -1,0 +1,1 @@
+{"tmdb_id": 329145, "title": "Gojira: L'Enfant Sauvage", "original_title": "Gojira: L'Enfant Sauvage", "slug_title": "gojira-l-enfant-sauvage", "date": "2012-03-06", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXQE3ORlDj5lxguS5x0yEpdbmes.jpg", "actors": [], "comments": [], "recommandations_id": []}

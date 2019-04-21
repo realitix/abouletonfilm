@@ -1,0 +1,1 @@
+{"tmdb_id": 510792, "title": "Bye Bye Dubai", "original_title": "Bye Bye Dubai", "slug_title": "bye-bye-dubai", "date": "2016-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sabyasachi Mishra ()", "Archita Sahu ()", "Buddhaditya Mohanty ()", "Papu Pom Pom ()"], "comments": [], "recommandations_id": []}

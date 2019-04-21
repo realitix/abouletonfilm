@@ -1,0 +1,1 @@
+{"tmdb_id": 311274, "title": "Buddy Rich: At the Top", "original_title": "Buddy Rich: At the Top", "slug_title": "buddy-rich-at-the-top", "date": "1973-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5GVzQM5MxQEdznfTaDkbfkknTS.jpg", "actors": [], "comments": [], "recommandations_id": []}

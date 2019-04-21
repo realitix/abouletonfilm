@@ -1,0 +1,1 @@
+{"tmdb_id": 149308, "title": "Young Americans", "original_title": "Young Americans", "slug_title": "young-americans", "date": "1967-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLxy7qB15hL8JVDH0H1NGdkjQWj.jpg", "actors": [], "comments": [], "recommandations_id": []}

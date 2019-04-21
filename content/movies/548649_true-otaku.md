@@ -1,0 +1,1 @@
+{"tmdb_id": 548649, "title": "True Otaku", "original_title": "True Otaku", "slug_title": "true-otaku", "date": "2011-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

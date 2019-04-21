@@ -1,0 +1,1 @@
+{"tmdb_id": 235492, "title": "Kids Like You & Me", "original_title": "Kids Like You & Me", "slug_title": "kids-like-you-me", "date": "2013-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

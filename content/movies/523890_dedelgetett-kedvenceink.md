@@ -1,0 +1,1 @@
+{"tmdb_id": 523890, "title": "D\u00e9delgetett kedvenceink", "original_title": "D\u00e9delgetett kedvenceink", "slug_title": "dedelgetett-kedvenceink", "date": "1980-11-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iIyQULGM1ZozfCMp5vTedKVJ96l.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 114456, "title": "Teesh and Trude", "original_title": "Teesh and Trude", "slug_title": "teesh-and-trude", "date": "2002-07-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LQ3OTMa9HeSPS60OkAV1pNTRPS.jpg", "actors": ["Susie Porter (Teesh)", "Linda Cropper (Trude)"], "comments": [], "recommandations_id": []}

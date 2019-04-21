@@ -1,0 +1,1 @@
+{"tmdb_id": 475525, "title": "Overseas", "original_title": "\u0e42\u0e1e\u0e49\u0e19\u0e17\u0e30\u0e40\u0e25", "slug_title": "overseas", "date": "2012-08-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daLzfZ9PQFAMaoEqlKyLbadHTba.jpg", "actors": ["Wawa Ween ()"], "comments": [], "recommandations_id": []}

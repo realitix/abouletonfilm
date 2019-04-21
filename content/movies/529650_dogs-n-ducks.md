@@ -1,0 +1,1 @@
+{"tmdb_id": 529650, "title": "Dogs 'n Ducks", "original_title": "Dogs 'n Ducks", "slug_title": "dogs-n-ducks", "date": "1953-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith ()"], "comments": [], "recommandations_id": []}

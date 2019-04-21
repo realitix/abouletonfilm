@@ -1,0 +1,1 @@
+{"tmdb_id": 545885, "title": "Objetivo: las estrellas", "original_title": "Objetivo: las estrellas", "slug_title": "objetivo-las-estrellas", "date": "1963-03-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lina Morgan ()", "\u00c1ngel del Pozo ()", "\u00c1lvaro de Luna ()"], "comments": [], "recommandations_id": []}

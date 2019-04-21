@@ -1,0 +1,1 @@
+{"tmdb_id": 556100, "title": "Exit Strategy #2", "original_title": "Exit Strategy #2", "slug_title": "exit-strategy-2", "date": "2018-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

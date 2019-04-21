@@ -1,0 +1,1 @@
+{"tmdb_id": 529933, "title": "Letting Go", "original_title": "Letting Go", "slug_title": "letting-go", "date": "2018-06-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93A6w8Cq8a55Sw98BT17F7Y7URt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313149, "title": "The Scarlet Brand / Quick Trigger Lee", "original_title": "The Scarlet Brand / Quick Trigger Lee", "slug_title": "the-scarlet-brand-quick-trigger-lee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

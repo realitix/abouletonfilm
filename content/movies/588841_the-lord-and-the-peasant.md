@@ -1,0 +1,1 @@
+{"tmdb_id": 588841, "title": "The Lord and the Peasant", "original_title": "The Lord and the Peasant", "slug_title": "the-lord-and-the-peasant", "date": "1912-08-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Augustus Phillips (The Peasant)", "Miriam Nesbitt (Mary)"], "comments": [], "recommandations_id": []}

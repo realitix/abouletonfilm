@@ -1,0 +1,1 @@
+{"tmdb_id": 151527, "title": "A Outra Margem", "original_title": "A Outra Margem", "slug_title": "a-outra-margem", "date": "2007-10-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mznZoygvXk17gBAMHIUiCBeo85U.jpg", "actors": [], "comments": [], "recommandations_id": []}

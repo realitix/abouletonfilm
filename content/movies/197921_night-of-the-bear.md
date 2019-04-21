@@ -1,0 +1,1 @@
+{"tmdb_id": 197921, "title": "Night of the Bear", "original_title": "La nuit de l\u2019ours", "slug_title": "night-of-the-bear", "date": "2010-06-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

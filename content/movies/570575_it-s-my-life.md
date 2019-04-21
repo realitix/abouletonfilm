@@ -1,0 +1,1 @@
+{"tmdb_id": 570575, "title": "It's My Life", "original_title": "IT'S MY LIFE", "slug_title": "it-s-my-life", "date": "2019-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

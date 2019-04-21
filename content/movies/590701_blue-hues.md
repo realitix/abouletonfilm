@@ -1,0 +1,1 @@
+{"tmdb_id": 590701, "title": "Blue & Hues", "original_title": "Blue & Hues", "slug_title": "blue-hues", "date": "2019-04-26", "genre": "Animation / Com\u00e9die / Crime / Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzE67CjwqIGMo28sIFbCJDqvH0X.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 370423, "title": "How Are You Feeling?", "original_title": "How Are You Feeling?", "slug_title": "how-are-you-feeling", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

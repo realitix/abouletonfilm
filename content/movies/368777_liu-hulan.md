@@ -1,0 +1,1 @@
+{"tmdb_id": 368777, "title": "Liu Hulan", "original_title": "Liu Hulan", "slug_title": "liu-hulan", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPZqSJWwoRvEYd9TWYzaUZOwrlN.jpg", "actors": [], "comments": [], "recommandations_id": []}

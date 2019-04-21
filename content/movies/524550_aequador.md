@@ -1,0 +1,1 @@
+{"tmdb_id": 524550, "title": "Aequador", "original_title": "Aequador", "slug_title": "aequador", "date": "2012-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

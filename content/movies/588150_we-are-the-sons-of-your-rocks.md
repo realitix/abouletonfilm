@@ -1,0 +1,1 @@
+{"tmdb_id": 588150, "title": "We Are the Sons of Your Rocks", "original_title": "Sinovi smo tvog stijenja", "slug_title": "we-are-the-sons-of-your-rocks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSrqrskPxuUUV7BblbJgcBVIfBV.jpg", "actors": [], "comments": [], "recommandations_id": []}

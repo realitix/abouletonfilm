@@ -1,0 +1,1 @@
+{"tmdb_id": 197325, "title": "Wu Tang Gran", "original_title": "Wu Tang Gran", "slug_title": "wu-tang-gran", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBcqTpPUA7jOh50YIzFf3LaiPLc.jpg", "actors": [], "comments": [], "recommandations_id": []}

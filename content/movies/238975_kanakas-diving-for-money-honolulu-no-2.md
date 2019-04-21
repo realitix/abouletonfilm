@@ -1,0 +1,1 @@
+{"tmdb_id": 238975, "title": "Kanakas Diving for Money (Honolulu), No. 2", "original_title": "Kanakas Diving for Money (Honolulu), No. 2", "slug_title": "kanakas-diving-for-money-honolulu-no-2", "date": "1898-06-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

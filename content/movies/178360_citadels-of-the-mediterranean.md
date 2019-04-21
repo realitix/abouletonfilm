@@ -1,0 +1,1 @@
+{"tmdb_id": 178360, "title": "Citadels of the Mediterranean", "original_title": "Citadels of the Mediterranean", "slug_title": "citadels-of-the-mediterranean", "date": "1934-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

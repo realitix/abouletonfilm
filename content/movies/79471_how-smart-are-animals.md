@@ -1,0 +1,1 @@
+{"tmdb_id": 79471, "title": "How Smart Are Animals?", "original_title": "How Smart Are Animals?", "slug_title": "how-smart-are-animals", "date": "2011-02-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chnE5PQsRYHj0IPq61FCNlYnQkZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

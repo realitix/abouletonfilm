@@ -1,0 +1,1 @@
+{"tmdb_id": 279560, "title": "A Gente Luta Mas Come Fruta", "original_title": "A Gente Luta Mas Come Fruta", "slug_title": "a-gente-luta-mas-come-fruta", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

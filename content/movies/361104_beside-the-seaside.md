@@ -1,0 +1,1 @@
+{"tmdb_id": 361104, "title": "Beside the Seaside", "original_title": "Beside the Seaside", "slug_title": "beside-the-seaside", "date": "1935-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

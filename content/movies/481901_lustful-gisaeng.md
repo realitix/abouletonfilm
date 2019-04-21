@@ -1,0 +1,1 @@
+{"tmdb_id": 481901, "title": "Lustful Gisaeng", "original_title": "\uc74c\ub780\uae30\uc0dd", "slug_title": "lustful-gisaeng", "date": "2017-06-22", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/us9Foi8D1sgN8Ew4X8V5WpnNQZq.jpg", "actors": [], "comments": [], "recommandations_id": []}

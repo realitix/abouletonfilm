@@ -1,0 +1,1 @@
+{"tmdb_id": 311561, "title": "Great Writers: Giuseppe Di Lampedusa", "original_title": "Great Writers: Giuseppe Di Lampedusa", "slug_title": "great-writers-giuseppe-di-lampedusa", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

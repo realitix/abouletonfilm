@@ -1,0 +1,1 @@
+{"tmdb_id": 413639, "title": "The Kent", "original_title": "The Kent", "slug_title": "the-kent", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

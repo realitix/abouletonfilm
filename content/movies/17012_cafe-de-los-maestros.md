@@ -1,0 +1,1 @@
+{"tmdb_id": 17012, "title": "Caf\u00e9 de los maestros", "original_title": "Caf\u00e9 de los maestros", "slug_title": "cafe-de-los-maestros", "date": "2008-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xRYnSGB9ZX9UOmCiieNl3cKwKHq.jpg", "actors": [], "comments": [], "recommandations_id": []}

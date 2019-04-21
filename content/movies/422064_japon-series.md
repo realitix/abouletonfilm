@@ -1,0 +1,1 @@
+{"tmdb_id": 422064, "title": "Japon Series", "original_title": "Japon Series", "slug_title": "japon-series", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vO46VZGsCvvCAC8tJv40DaHHny.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 585378, "title": "After Yang", "original_title": "After Yang", "slug_title": "after-yang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colin Farrell ()", "Golshifteh Farahani ()", "Haley Lu Richardson ()", "Justin H. Min ()", "Sarita Choudhury ()"], "comments": [], "recommandations_id": []}

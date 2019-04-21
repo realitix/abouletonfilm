@@ -1,0 +1,1 @@
+{"tmdb_id": 357037, "title": "Training at the Regimental Depot", "original_title": "Training at the Regimental Depot", "slug_title": "training-at-the-regimental-depot", "date": "1900-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

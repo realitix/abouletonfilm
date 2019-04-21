@@ -1,0 +1,1 @@
+{"tmdb_id": 499196, "title": "Daagdi Chaawl", "original_title": "\u0926\u0917\u0921\u0940 \u091a\u093e\u0933", "slug_title": "daagdi-chaawl", "date": "2015-10-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/521uRw8iAG6gAW9Z3Jtir1s6hCm.jpg", "actors": [], "comments": [], "recommandations_id": []}

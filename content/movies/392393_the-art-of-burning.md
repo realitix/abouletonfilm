@@ -1,0 +1,1 @@
+{"tmdb_id": 392393, "title": "The Art of Burning", "original_title": "The Art of Burning", "slug_title": "the-art-of-burning", "date": "2016-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

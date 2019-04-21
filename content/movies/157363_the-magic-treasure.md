@@ -1,0 +1,1 @@
+{"tmdb_id": 157363, "title": "The Magic Treasure", "original_title": "The Magic Treasure", "slug_title": "the-magic-treasure", "date": "2006-09-23", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

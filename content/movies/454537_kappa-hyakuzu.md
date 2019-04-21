@@ -1,0 +1,1 @@
+{"tmdb_id": 454537, "title": "Kappa Hyakuzu", "original_title": "Kappa Hyakuzu", "slug_title": "kappa-hyakuzu", "date": "1998-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

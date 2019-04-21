@@ -1,0 +1,1 @@
+{"tmdb_id": 258220, "title": "The Bamboo Flute", "original_title": "The Bamboo Flute", "slug_title": "the-bamboo-flute", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hariprasad Chaurasia (Himself)"], "comments": [], "recommandations_id": []}

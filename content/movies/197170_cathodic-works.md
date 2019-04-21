@@ -1,0 +1,1 @@
+{"tmdb_id": 197170, "title": "Cathodic Works", "original_title": "Cathodic Works", "slug_title": "cathodic-works", "date": "2012-05-25", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIi4oto2o7p4K18bmat57S3sN9d.jpg", "actors": [], "comments": [], "recommandations_id": []}

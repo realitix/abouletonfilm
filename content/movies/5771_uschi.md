@@ -1,0 +1,1 @@
+{"tmdb_id": 5771, "title": "Uschi", "original_title": "Uschi", "slug_title": "uschi", "date": "1980-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uschi Digard (Herself)"], "comments": [], "recommandations_id": []}

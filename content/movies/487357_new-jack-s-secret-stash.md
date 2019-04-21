@@ -1,0 +1,1 @@
+{"tmdb_id": 487357, "title": "New Jack's Secret Stash", "original_title": "New Jack's Secret Stash", "slug_title": "new-jack-s-secret-stash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zs64js2Y3Yrw0YlXwXezFUJwbZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

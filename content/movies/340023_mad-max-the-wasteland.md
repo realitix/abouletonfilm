@@ -1,0 +1,1 @@
+{"tmdb_id": 340023, "title": "Mad Max: The Wasteland", "original_title": "Mad Max: The Wasteland", "slug_title": "mad-max-the-wasteland", "date": "", "genre": "Action / Aventure / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Hardy (Max Rockatansky)"], "comments": [], "recommandations_id": [457232, 451048, 424853, 201082]}

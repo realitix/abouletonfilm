@@ -1,0 +1,1 @@
+{"tmdb_id": 147870, "title": "Wolf! Wolf!", "original_title": "Wolf! Wolf!", "slug_title": "wolf-wolf", "date": "1944-06-22", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/koogUbVKOtfUTHzFryIzuNjmYid.jpg", "actors": [], "comments": [], "recommandations_id": []}

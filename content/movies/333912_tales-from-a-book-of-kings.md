@@ -1,0 +1,1 @@
+{"tmdb_id": 333912, "title": "Tales from a Book of Kings", "original_title": "Tales from a Book of Kings", "slug_title": "tales-from-a-book-of-kings", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

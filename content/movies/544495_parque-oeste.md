@@ -1,0 +1,1 @@
+{"tmdb_id": 544495, "title": "Parque Oeste", "original_title": "Parque Oeste", "slug_title": "parque-oeste", "date": "2018-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPq0IetgWylEW40253RXBjPjXg1.jpg", "actors": [], "comments": [], "recommandations_id": []}

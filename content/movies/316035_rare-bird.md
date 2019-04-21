@@ -1,0 +1,1 @@
+{"tmdb_id": 316035, "title": "Rare Bird", "original_title": "Rare Bird", "slug_title": "rare-bird", "date": "2006-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1XiRu5e6Z4OrmtjaIutTmoXOLes.jpg", "actors": [], "comments": [], "recommandations_id": []}

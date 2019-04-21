@@ -1,0 +1,1 @@
+{"tmdb_id": 340432, "title": "Vadia\u00e7\u00e3o", "original_title": "Vadia\u00e7\u00e3o", "slug_title": "vadiacao", "date": "1954-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cFnc57eVvhAU9CuQiaR2eyA1BvO.jpg", "actors": [], "comments": [], "recommandations_id": []}

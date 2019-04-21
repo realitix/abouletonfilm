@@ -1,0 +1,1 @@
+{"tmdb_id": 582688, "title": "Massakern I Asbringen", "original_title": "Massakern I Asbringen", "slug_title": "massakern-i-asbringen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

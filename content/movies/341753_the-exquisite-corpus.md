@@ -1,0 +1,1 @@
+{"tmdb_id": 341753, "title": "The Exquisite Corpus", "original_title": "The Exquisite Corpus", "slug_title": "the-exquisite-corpus", "date": "2015-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8JVjffmCzBDPI4Io7SEeEn9QMs.jpg", "actors": [], "comments": [], "recommandations_id": [360069, 302570, 152304, 147931]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 490993, "title": "Woo-Woo Blues", "original_title": "Woo-Woo Blues", "slug_title": "woo-woo-blues", "date": "1951-07-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh Herbert)"], "comments": [], "recommandations_id": []}

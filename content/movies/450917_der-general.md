@@ -1,0 +1,1 @@
+{"tmdb_id": 450917, "title": "Der General", "original_title": "Der General", "slug_title": "der-general", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1RdRkxFYNGEIEJIzQoXc0Td10J.jpg", "actors": [], "comments": [], "recommandations_id": []}

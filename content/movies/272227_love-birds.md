@@ -1,0 +1,1 @@
+{"tmdb_id": 272227, "title": "Love Birds", "original_title": "Love Birds", "slug_title": "love-birds", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498719, "title": "Strikes at Time", "original_title": "Strikes at Time", "slug_title": "strikes-at-time", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

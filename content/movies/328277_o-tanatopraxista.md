@@ -1,0 +1,1 @@
+{"tmdb_id": 328277, "title": "O Tanatopraxista", "original_title": "O Tanatopraxista", "slug_title": "o-tanatopraxista", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Osvaldo Gon\u00e7alves (H\u00e9lio)"], "comments": [], "recommandations_id": []}

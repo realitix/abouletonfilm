@@ -1,0 +1,1 @@
+{"tmdb_id": 405233, "title": "The Spinning Cucumber", "original_title": "The Spinning Cucumber", "slug_title": "the-spinning-cucumber", "date": "2014-10-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

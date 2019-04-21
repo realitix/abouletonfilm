@@ -1,0 +1,1 @@
+{"tmdb_id": 424440, "title": "A Rite of Passage", "original_title": "A Rite of Passage", "slug_title": "a-rite-of-passage", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/26XvPBPZdLvjhqA0U1ZuRVBzwmx.jpg", "actors": [], "comments": [], "recommandations_id": []}

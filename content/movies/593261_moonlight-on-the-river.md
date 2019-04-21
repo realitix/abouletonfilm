@@ -1,0 +1,1 @@
+{"tmdb_id": 593261, "title": "Moonlight on the River", "original_title": "\u6cb3\u4e0a\u7684\u6708\u8272", "slug_title": "moonlight-on-the-river", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tsai Ming-liang (narrator)"], "comments": [], "recommandations_id": []}

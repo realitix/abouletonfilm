@@ -1,0 +1,1 @@
+{"tmdb_id": 346080, "title": "The Dilapidated Dwelling", "original_title": "The Dilapidated Dwelling", "slug_title": "the-dilapidated-dwelling", "date": "2000-10-06", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRblb1CfJyxa0qm6CsQd38W4Nw6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 518120, "title": "Open Wound - The \u00dcbermovie", "original_title": "Open Wound - The \u00dcbermovie", "slug_title": "open-wound-the-ubermovie", "date": "2018-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFpmB9SvA0fuEK6MhfqW3CBkfWW.jpg", "actors": [], "comments": [], "recommandations_id": []}

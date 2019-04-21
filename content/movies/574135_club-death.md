@@ -1,0 +1,1 @@
+{"tmdb_id": 574135, "title": "Club Death", "original_title": "Club Death", "slug_title": "club-death", "date": "1995-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yacLzkEikumJB1D9GMd8RGwJgLO.jpg", "actors": [], "comments": [], "recommandations_id": []}

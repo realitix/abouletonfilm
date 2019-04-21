@@ -1,0 +1,1 @@
+{"tmdb_id": 467247, "title": "Gli Asteroidi", "original_title": "Gli Asteroidi", "slug_title": "gli-asteroidi", "date": "2017-08-19", "genre": "", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3OyPiJ4newAkabCHgiDXOqFe4M.jpg", "actors": ["Pippo Delbono ()", "Chiara Caselli ()"], "comments": [], "recommandations_id": []}

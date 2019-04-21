@@ -1,0 +1,1 @@
+{"tmdb_id": 372628, "title": "Celtic Woman: Fan Favorites", "original_title": "Celtic Woman: Fan Favorites", "slug_title": "celtic-woman-fan-favorites", "date": "2015-03-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

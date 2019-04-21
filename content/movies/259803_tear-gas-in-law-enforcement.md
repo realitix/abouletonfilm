@@ -1,0 +1,1 @@
+{"tmdb_id": 259803, "title": "Tear Gas in Law Enforcement", "original_title": "Tear Gas in Law Enforcement", "slug_title": "tear-gas-in-law-enforcement", "date": "1962-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/at2GExAar3v7wpzAl8F2tOkp8iH.jpg", "actors": [], "comments": [], "recommandations_id": []}

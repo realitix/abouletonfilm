@@ -1,0 +1,1 @@
+{"tmdb_id": 479711, "title": "Serpent\u2019s Skin", "original_title": "\u062c\u0644\u062f \u0645\u0627\u0631", "slug_title": "serpents-skin", "date": "1964-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

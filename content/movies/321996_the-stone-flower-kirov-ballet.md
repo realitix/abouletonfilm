@@ -1,0 +1,1 @@
+{"tmdb_id": 321996, "title": "The Stone Flower (Kirov Ballet)", "original_title": "The Stone Flower (Kirov Ballet)", "slug_title": "the-stone-flower-kirov-ballet", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

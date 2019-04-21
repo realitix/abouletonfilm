@@ -1,0 +1,1 @@
+{"tmdb_id": 551341, "title": "Doctoring a Leak", "original_title": "Doctoring a Leak", "slug_title": "doctoring-a-leak", "date": "1916-09-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Turpin (1st Plumber)", "Rube Miller (2nd Plumber)", "Lillian Hamilton (The Patient)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310374, "title": "Killing Coyote", "original_title": "Killing Coyote", "slug_title": "killing-coyote", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

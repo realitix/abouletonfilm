@@ -1,0 +1,1 @@
+{"tmdb_id": 500707, "title": "Here The Seats Are Vacant", "original_title": "Here The Seats Are Vacant", "slug_title": "here-the-seats-are-vacant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

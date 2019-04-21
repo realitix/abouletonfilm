@@ -1,0 +1,1 @@
+{"tmdb_id": 173386, "title": "Quarteto em Cy - Ao Vivo", "original_title": "Quarteto em Cy - Ao Vivo", "slug_title": "quarteto-em-cy-ao-vivo", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k7KZwvn5JiUjuH7MTcrUrYUgmdU.jpg", "actors": [], "comments": [], "recommandations_id": []}

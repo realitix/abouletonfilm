@@ -1,0 +1,1 @@
+{"tmdb_id": 583071, "title": "The Offspring: Rock in Rio 2017", "original_title": "The Offspring: Rock in Rio 2017", "slug_title": "the-offspring-rock-in-rio-2017", "date": "2017-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZsAzBRMWhoUX4XAoYsHh7HenTs.jpg", "actors": [], "comments": [], "recommandations_id": []}

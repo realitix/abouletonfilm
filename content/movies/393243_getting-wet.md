@@ -1,0 +1,1 @@
+{"tmdb_id": 393243, "title": "Getting Wet", "original_title": "Getting Wet", "slug_title": "getting-wet", "date": "1984-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

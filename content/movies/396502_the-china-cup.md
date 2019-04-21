@@ -1,0 +1,1 @@
+{"tmdb_id": 396502, "title": "The China Cup", "original_title": "The China Cup", "slug_title": "the-china-cup", "date": "2009-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

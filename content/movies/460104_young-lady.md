@@ -1,0 +1,1 @@
+{"tmdb_id": 460104, "title": "Young Lady", "original_title": "Young Lady", "slug_title": "young-lady", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiMCT5xTcRSUcfc5cA3T0egVEaS.jpg", "actors": ["Kwack Han-gu (Joon-seok)", "Won Ko (Soo-yeon)", "Beni Itoh (Norikko)"], "comments": [], "recommandations_id": []}

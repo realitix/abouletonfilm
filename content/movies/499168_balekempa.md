@@ -1,0 +1,1 @@
+{"tmdb_id": 499168, "title": "Balekempa", "original_title": "\u0cac\u0cb3\u0cc6\u0c95\u0cc6\u0c82\u0caa", "slug_title": "balekempa", "date": "2018-01-26", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJxI7Z6sbZ9rMLK3fRaCCeSWWbD.jpg", "actors": [], "comments": [], "recommandations_id": []}

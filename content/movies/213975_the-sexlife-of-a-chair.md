@@ -1,0 +1,1 @@
+{"tmdb_id": 213975, "title": "The Sexlife of a Chair", "original_title": "The Sexlife of a Chair", "slug_title": "the-sexlife-of-a-chair", "date": "1998-08-12", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

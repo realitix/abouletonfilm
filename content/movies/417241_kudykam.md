@@ -1,0 +1,1 @@
+{"tmdb_id": 417241, "title": "Kudykam", "original_title": "Kudykam", "slug_title": "kudykam", "date": "2011-06-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taKzyAeHmEOM9zyFxM7Ak9l0th2.jpg", "actors": [], "comments": [], "recommandations_id": []}

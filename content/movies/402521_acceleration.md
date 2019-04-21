@@ -1,0 +1,1 @@
+{"tmdb_id": 402521, "title": "Acceleration", "original_title": "Ubrzanje", "slug_title": "acceleration", "date": "1968-06-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmtjdWayDxDYSMf48Q9k0FS9JPZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

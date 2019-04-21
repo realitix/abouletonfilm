@@ -1,0 +1,1 @@
+{"tmdb_id": 486990, "title": "Phoned it in: Terror", "original_title": "Phoned it in: Terror", "slug_title": "phoned-it-in-terror", "date": "", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

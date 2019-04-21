@@ -1,0 +1,1 @@
+{"tmdb_id": 582113, "title": "Atlantis Rising - Ancient Advanced Technology", "original_title": "Atlantis Rising - Ancient Advanced Technology", "slug_title": "atlantis-rising-ancient-advanced-technology", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

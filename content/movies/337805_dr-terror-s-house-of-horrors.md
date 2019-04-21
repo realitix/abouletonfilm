@@ -1,0 +1,1 @@
+{"tmdb_id": 337805, "title": "Dr. Terror's House of Horrors", "original_title": "Dr. Terror's House of Horrors", "slug_title": "dr-terror-s-house-of-horrors", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNJSXyRPbke0daGrXU8FGZLbpbd.jpg", "actors": [], "comments": [], "recommandations_id": []}

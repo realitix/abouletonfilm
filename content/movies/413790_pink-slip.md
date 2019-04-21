@@ -1,0 +1,1 @@
+{"tmdb_id": 413790, "title": "Pink Slip", "original_title": "Pink Slip", "slug_title": "pink-slip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

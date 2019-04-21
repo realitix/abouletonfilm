@@ -1,0 +1,1 @@
+{"tmdb_id": 555446, "title": "Spick and Span", "original_title": "Spick and Span", "slug_title": "spick-and-span", "date": "1962-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 485842, "title": "La tribu de los Aurones", "original_title": "La tribu de los Aurones", "slug_title": "la-tribu-de-los-aurones", "date": "1988-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ag4OHRrU227D2IXzWUI8zjHavi.jpg", "actors": [], "comments": [], "recommandations_id": []}

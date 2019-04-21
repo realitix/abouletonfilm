@@ -1,0 +1,1 @@
+{"tmdb_id": 363930, "title": "The Genius of Lenny Breau", "original_title": "The Genius of Lenny Breau", "slug_title": "the-genius-of-lenny-breau", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5QlZTnDKErSp7Yl5KAk9FJAZY4.jpg", "actors": [], "comments": [], "recommandations_id": []}

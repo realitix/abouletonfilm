@@ -1,0 +1,1 @@
+{"tmdb_id": 390417, "title": "Danzig: [1992] Santa Cruz, CA", "original_title": "Danzig: [1992] Santa Cruz, CA", "slug_title": "danzig-1992-santa-cruz-ca", "date": "1992-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bM2yvU5WnZpr4sKF8nmHFzMXdLr.jpg", "actors": [], "comments": [], "recommandations_id": []}

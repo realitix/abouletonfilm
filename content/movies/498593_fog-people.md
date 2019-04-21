@@ -1,0 +1,1 @@
+{"tmdb_id": 498593, "title": "Fog People", "original_title": "Fog People", "slug_title": "fog-people", "date": "1997-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

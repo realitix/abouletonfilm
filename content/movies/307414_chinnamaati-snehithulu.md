@@ -1,0 +1,1 @@
+{"tmdb_id": 307414, "title": "Chinnamaati Snehithulu", "original_title": "Chinnamaati Snehithulu", "slug_title": "chinnamaati-snehithulu", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

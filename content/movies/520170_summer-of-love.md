@@ -1,0 +1,1 @@
+{"tmdb_id": 520170, "title": "Summer of Love", "original_title": "Summer of Love", "slug_title": "summer-of-love", "date": "2001-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qaxFKGgBmoQjY4yrjHV0FdGlXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

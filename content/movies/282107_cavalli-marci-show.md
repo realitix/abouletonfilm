@@ -1,0 +1,1 @@
+{"tmdb_id": 282107, "title": "Cavalli Marci Show", "original_title": "Cavalli Marci Show", "slug_title": "cavalli-marci-show", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOCkzetKlUZdieO1XYvdEiVaBFd.jpg", "actors": [], "comments": [], "recommandations_id": []}

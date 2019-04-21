@@ -1,0 +1,1 @@
+{"tmdb_id": 562451, "title": "Yoga and Pilates With Maddy", "original_title": "Yoga and Pilates With Maddy", "slug_title": "yoga-and-pilates-with-maddy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ek2ZagdjjU9LyPuW2lsrm5DQo6r.jpg", "actors": [], "comments": [], "recommandations_id": []}

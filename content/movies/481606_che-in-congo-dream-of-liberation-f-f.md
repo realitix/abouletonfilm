@@ -1,0 +1,1 @@
+{"tmdb_id": 481606, "title": "CHE IN CONGO - DREAM OF LIBERATION  (F/F)", "original_title": "CHE IN CONGO - DREAM OF LIBERATION  (F/F)", "slug_title": "che-in-congo-dream-of-liberation-f-f", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

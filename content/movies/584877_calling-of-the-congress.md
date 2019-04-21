@@ -1,0 +1,1 @@
+{"tmdb_id": 584877, "title": "Calling of the Congress", "original_title": "Calling of the Congress", "slug_title": "calling-of-the-congress", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPnL7AM6KpzZtrFF62UQiwPdL8D.jpg", "actors": [], "comments": [], "recommandations_id": []}

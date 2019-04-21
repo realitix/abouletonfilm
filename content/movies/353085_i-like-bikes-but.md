@@ -1,0 +1,1 @@
+{"tmdb_id": 353085, "title": "I Like Bikes, But...", "original_title": "I Like Bikes, But...", "slug_title": "i-like-bikes-but", "date": "1978-08-04", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Xu4Th2FoDDyiGEjXKavzJp11p.jpg", "actors": [], "comments": [], "recommandations_id": [278701, 128363, 127985, 383841]}

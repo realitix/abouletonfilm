@@ -1,0 +1,1 @@
+{"tmdb_id": 404324, "title": "Mr. Bojagi", "original_title": "Mr. Bojagi", "slug_title": "mr-bojagi", "date": "2010-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lESIYQUoDFV5bowep9kefHUnnTo.jpg", "actors": ["Brian Blessed (Mr. Bojagi)"], "comments": [], "recommandations_id": []}

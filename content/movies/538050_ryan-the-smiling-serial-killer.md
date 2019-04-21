@@ -1,0 +1,1 @@
+{"tmdb_id": 538050, "title": "Ryan: the Smiling Serial Killer", "original_title": "Ryan: the Smiling Serial Killer", "slug_title": "ryan-the-smiling-serial-killer", "date": "2010-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

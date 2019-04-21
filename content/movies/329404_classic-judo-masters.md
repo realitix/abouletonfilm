@@ -1,0 +1,1 @@
+{"tmdb_id": 329404, "title": "Classic Judo Masters", "original_title": "Classic Judo Masters", "slug_title": "classic-judo-masters", "date": "2015-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

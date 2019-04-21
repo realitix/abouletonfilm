@@ -1,0 +1,1 @@
+{"tmdb_id": 29725, "title": "Information Violence", "original_title": "Information Violence", "slug_title": "information-violence", "date": "2002-04-10", "genre": "Animation / Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYykjDH8a9WdQkvvOLRzzjQJk7t.jpg", "actors": [], "comments": [], "recommandations_id": []}

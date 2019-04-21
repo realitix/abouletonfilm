@@ -1,0 +1,1 @@
+{"tmdb_id": 401471, "title": "Den of Tigers", "original_title": "Den of Tigers", "slug_title": "den-of-tigers", "date": "2002-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

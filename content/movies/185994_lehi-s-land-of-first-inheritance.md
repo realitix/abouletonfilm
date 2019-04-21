@@ -1,0 +1,1 @@
+{"tmdb_id": 185994, "title": "Lehi's Land of First Inheritance", "original_title": "Lehi's Land of First Inheritance", "slug_title": "lehi-s-land-of-first-inheritance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

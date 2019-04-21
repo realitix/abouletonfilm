@@ -1,0 +1,1 @@
+{"tmdb_id": 468127, "title": "Emkane Mina", "original_title": "Emkane Mina", "slug_title": "emkane-mina", "date": "2016-01-01", "genre": "Romance / Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ub0cObV5AyFJc4qht632rRtOkl.jpg", "actors": [], "comments": [], "recommandations_id": []}

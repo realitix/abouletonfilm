@@ -1,0 +1,1 @@
+{"tmdb_id": 563537, "title": "30 let od \u010cernobylu", "original_title": "30 let od \u010cernobylu", "slug_title": "30-let-od-cernobylu", "date": "2016-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xtEllyqM0l700bF2d6XKQf7KzrA.jpg", "actors": [], "comments": [], "recommandations_id": []}

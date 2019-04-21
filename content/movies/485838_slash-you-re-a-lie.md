@@ -1,0 +1,1 @@
+{"tmdb_id": 485838, "title": "Slash: You're A Lie", "original_title": "Slash: You're A Lie", "slug_title": "slash-you-re-a-lie", "date": "2012-05-15", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dustin Quick (Woman)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 483945, "title": "Kinostadt Paris", "original_title": "Kinostadt Paris", "slug_title": "kinostadt-paris", "date": "1990-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

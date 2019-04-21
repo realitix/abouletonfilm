@@ -1,0 +1,1 @@
+{"tmdb_id": 399222, "title": "Assassin", "original_title": "Assassin", "slug_title": "assassin", "date": "1973-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ian Hendry ()", "Edward Judd ()", "Frank Windsor ()", "Ray Brooks ()"], "comments": [], "recommandations_id": []}

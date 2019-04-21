@@ -1,0 +1,1 @@
+{"tmdb_id": 97239, "title": "A Kiss of Chaos", "original_title": "A Kiss of Chaos", "slug_title": "a-kiss-of-chaos", "date": "", "genre": "Drame / Action / Thriller", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

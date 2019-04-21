@@ -1,0 +1,1 @@
+{"tmdb_id": 587768, "title": "Watch and Let Them Bleed", "original_title": "Watch and Let Them Bleed", "slug_title": "watch-and-let-them-bleed", "date": "2019-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

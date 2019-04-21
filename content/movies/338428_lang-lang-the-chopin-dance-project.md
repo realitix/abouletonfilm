@@ -1,0 +1,1 @@
+{"tmdb_id": 338428, "title": "Lang Lang - The Chopin Dance Project", "original_title": "Lang Lang - The Chopin Dance Project", "slug_title": "lang-lang-the-chopin-dance-project", "date": "2015-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

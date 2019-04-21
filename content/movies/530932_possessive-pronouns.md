@@ -1,0 +1,1 @@
+{"tmdb_id": 530932, "title": "Possessive Pronouns", "original_title": "Svojilni zaimki", "slug_title": "possessive-pronouns", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anka Er\u017een (Mia)", "Andra\u017e Jug (Luka)", "Luka Pal\u010di\u010d (Glas (voice))"], "comments": [], "recommandations_id": []}

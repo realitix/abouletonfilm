@@ -1,0 +1,1 @@
+{"tmdb_id": 492769, "title": "The Dying of the Light", "original_title": "The Dying of the Light", "slug_title": "the-dying-of-the-light", "date": "2017-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278950, "title": "Harlistas: An American Journey", "original_title": "Harlistas: An American Journey", "slug_title": "harlistas-an-american-journey", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

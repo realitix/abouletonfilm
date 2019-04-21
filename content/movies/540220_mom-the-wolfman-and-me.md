@@ -1,0 +1,1 @@
+{"tmdb_id": 540220, "title": "Mom, the Wolfman and Me", "original_title": "Mom, the Wolfman and Me", "slug_title": "mom-the-wolfman-and-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3JcqEOP6OJfwlG85yxWUZOp5v2.jpg", "actors": [], "comments": [], "recommandations_id": []}

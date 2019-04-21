@@ -1,0 +1,1 @@
+{"tmdb_id": 152997, "title": "Warsaw Ghetto", "original_title": "Warsaw Ghetto", "slug_title": "warsaw-ghetto", "date": "1942-12-31", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lFAOlgY4esPUdaCfmNVF8zVegS3.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 262854, 152973]}

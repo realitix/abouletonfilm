@@ -1,0 +1,1 @@
+{"tmdb_id": 526939, "title": "Barbara", "original_title": "Barbara", "slug_title": "barbara", "date": "2018-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QIp6Pjc570BhqhqgcBpe2794EC.jpg", "actors": ["Barbara Ann Teer (Barbara Ann Teer)"], "comments": [], "recommandations_id": []}

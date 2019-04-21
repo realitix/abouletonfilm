@@ -1,0 +1,1 @@
+{"tmdb_id": 316902, "title": "Ambici\u00f3n", "original_title": "Ambici\u00f3n", "slug_title": "ambicion", "date": "1939-01-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dseXA0Hev9RQEoileiDlbTbU5Lk.jpg", "actors": [], "comments": [], "recommandations_id": []}

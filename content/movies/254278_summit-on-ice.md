@@ -1,0 +1,1 @@
+{"tmdb_id": 254278, "title": "Summit on Ice", "original_title": "Summit on Ice", "slug_title": "summit-on-ice", "date": "1996-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfpf6FeGRMyq4KlASk6ULe2d4jI.jpg", "actors": [], "comments": [], "recommandations_id": []}

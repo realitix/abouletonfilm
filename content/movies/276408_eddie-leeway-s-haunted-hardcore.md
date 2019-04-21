@@ -1,0 +1,1 @@
+{"tmdb_id": 276408, "title": "Eddie Leeway's Haunted Hardcore", "original_title": "Eddie Leeway's Haunted Hardcore", "slug_title": "eddie-leeway-s-haunted-hardcore", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

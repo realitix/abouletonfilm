@@ -1,0 +1,1 @@
+{"tmdb_id": 457425, "title": "Kukushkiny deti", "original_title": "Kukushkiny deti", "slug_title": "kukushkiny-deti", "date": "1991-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etB7bwkp7QLtljxMQfN6e4UVGa.jpg", "actors": [], "comments": [], "recommandations_id": []}

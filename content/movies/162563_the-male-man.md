@@ -1,0 +1,1 @@
+{"tmdb_id": 162563, "title": "The Male Man", "original_title": "The Male Man", "slug_title": "the-male-man", "date": "1931-04-24", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usMrm07IQ95QPDatPkcETUewgNG.jpg", "actors": [], "comments": [], "recommandations_id": []}

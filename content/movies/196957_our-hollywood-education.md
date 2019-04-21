@@ -1,0 +1,1 @@
+{"tmdb_id": 196957, "title": "Our Hollywood Education", "original_title": "Our Hollywood Education", "slug_title": "our-hollywood-education", "date": "1992-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

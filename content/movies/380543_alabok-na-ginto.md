@@ -1,0 +1,1 @@
+{"tmdb_id": 380543, "title": "Alabok na Ginto", "original_title": "Alabok na Ginto", "slug_title": "alabok-na-ginto", "date": "1979-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/syefnswE5qTugog56XuuQ0to8eB.jpg", "actors": [], "comments": [], "recommandations_id": []}

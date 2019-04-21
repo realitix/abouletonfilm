@@ -1,0 +1,1 @@
+{"tmdb_id": 105478, "title": "American Nudist", "original_title": "American Nudist", "slug_title": "american-nudist", "date": "2011-01-01", "genre": "Drame", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9JJEAgdHyZ2S9uUWHWI6ro4Tt6d.jpg", "actors": [], "comments": [], "recommandations_id": []}

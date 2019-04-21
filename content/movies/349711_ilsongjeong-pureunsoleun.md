@@ -1,0 +1,1 @@
+{"tmdb_id": 349711, "title": "\uc77c\uc1a1\uc815 \ud478\ub978\uc194\uc740", "original_title": "\uc77c\uc1a1\uc815 \ud478\ub978\uc194\uc740", "slug_title": "ilsongjeong-pureunsoleun", "date": "1983-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

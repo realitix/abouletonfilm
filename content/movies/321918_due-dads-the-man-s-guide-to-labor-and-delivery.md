@@ -1,0 +1,1 @@
+{"tmdb_id": 321918, "title": "Due Dads: The Man's Guide to Labor and Delivery", "original_title": "Due Dads: The Man's Guide to Labor and Delivery", "slug_title": "due-dads-the-man-s-guide-to-labor-and-delivery", "date": "2007-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

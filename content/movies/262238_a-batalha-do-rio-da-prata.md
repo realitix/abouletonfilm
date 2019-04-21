@@ -1,0 +1,1 @@
+{"tmdb_id": 262238, "title": "A Batalha do Rio da Prata", "original_title": "A Batalha do Rio da Prata", "slug_title": "a-batalha-do-rio-da-prata", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

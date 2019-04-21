@@ -1,0 +1,1 @@
+{"tmdb_id": 211628, "title": "Seeking the Current", "original_title": "Chercher le courant", "slug_title": "seeking-the-current", "date": "2010-11-13", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oMaBRZORsXlEdLzIvNjVJDQI1nm.jpg", "actors": ["Roy Dupuis (Himself)"], "comments": [], "recommandations_id": []}

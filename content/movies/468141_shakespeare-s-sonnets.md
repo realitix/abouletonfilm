@@ -1,0 +1,1 @@
+{"tmdb_id": 468141, "title": "Shakespeare's Sonnets", "original_title": "Shakespeare's Sonnets", "slug_title": "shakespeare-s-sonnets", "date": "2005-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rdFte8KihoSp9xf7NhHc0KgWUJc.jpg", "actors": [], "comments": [], "recommandations_id": []}

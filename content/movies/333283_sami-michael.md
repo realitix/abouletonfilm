@@ -1,0 +1,1 @@
+{"tmdb_id": 333283, "title": "Sami Michael", "original_title": "Sami Michael", "slug_title": "sami-michael", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

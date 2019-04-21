@@ -1,0 +1,1 @@
+{"tmdb_id": 416243, "title": "Barbara James", "original_title": "Barbara James", "slug_title": "barbara-james", "date": "2003-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

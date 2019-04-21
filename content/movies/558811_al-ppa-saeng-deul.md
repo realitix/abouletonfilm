@@ -1,0 +1,1 @@
+{"tmdb_id": 558811, "title": "Al-ppa-saeng-deul", "original_title": "Al-ppa-saeng-deul", "slug_title": "al-ppa-saeng-deul", "date": "2016-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Eun-mi-I ()", "Shim Ho-sung ()", "So Hee ()", "Yang Geun-seok ()"], "comments": [], "recommandations_id": []}

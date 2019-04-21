@@ -1,0 +1,1 @@
+{"tmdb_id": 111524, "title": "Last Stand at Lang Mei", "original_title": "Last Stand at Lang Mei", "slug_title": "last-stand-at-lang-mei", "date": "1989-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/du6bWGx4agdOBrCpFINfexw9Hah.jpg", "actors": [], "comments": [], "recommandations_id": []}

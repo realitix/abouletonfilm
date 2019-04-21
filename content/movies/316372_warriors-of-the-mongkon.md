@@ -1,0 +1,1 @@
+{"tmdb_id": 316372, "title": "Warriors of the Mongkon", "original_title": "Warriors of the Mongkon", "slug_title": "warriors-of-the-mongkon", "date": "2015-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588817, "title": "Patouillard a mang\u00e9 du homard", "original_title": "Patouillard a mang\u00e9 du homard", "slug_title": "patouillard-a-mange-du-homard", "date": "1911-09-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Bertho (Patouillard)"], "comments": [], "recommandations_id": []}

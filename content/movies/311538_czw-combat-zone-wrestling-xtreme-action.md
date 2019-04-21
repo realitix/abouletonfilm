@@ -1,0 +1,1 @@
+{"tmdb_id": 311538, "title": "CZW: Combat Zone Wrestling: Xtreme Action", "original_title": "CZW: Combat Zone Wrestling: Xtreme Action", "slug_title": "czw-combat-zone-wrestling-xtreme-action", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

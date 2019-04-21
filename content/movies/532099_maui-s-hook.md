@@ -1,0 +1,1 @@
+{"tmdb_id": 532099, "title": "M\u0101ui's Hook", "original_title": "M\u0101ui's Hook", "slug_title": "maui-s-hook", "date": "2018-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Z2X3RYGlbMytbpzgTq6lFXxmr9.jpg", "actors": [], "comments": [], "recommandations_id": []}

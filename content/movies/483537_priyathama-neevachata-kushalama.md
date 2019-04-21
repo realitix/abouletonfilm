@@ -1,0 +1,1 @@
+{"tmdb_id": 483537, "title": "Priyathama Neevachata Kushalama", "original_title": "Priyathama Neevachata Kushalama", "slug_title": "priyathama-neevachata-kushalama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

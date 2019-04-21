@@ -1,0 +1,1 @@
+{"tmdb_id": 284601, "title": "Elvis Presley: Eksplozja w Memphis", "original_title": "Elvis Presley: Eksplozja w Memphis", "slug_title": "elvis-presley-eksplozja-w-memphis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sDNq40dZ2d9CKEtmx9yy3fTXOam.jpg", "actors": [], "comments": [], "recommandations_id": []}

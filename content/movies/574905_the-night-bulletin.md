@@ -1,0 +1,1 @@
+{"tmdb_id": 574905, "title": "The Night Bulletin", "original_title": "The Night Bulletin", "slug_title": "the-night-bulletin", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ihsan \u00d6nal (Mehmet)"], "comments": [], "recommandations_id": []}

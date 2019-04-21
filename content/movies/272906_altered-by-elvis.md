@@ -1,0 +1,1 @@
+{"tmdb_id": 272906, "title": "Altered by Elvis", "original_title": "Altered by Elvis", "slug_title": "altered-by-elvis", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhMq8K7w25kgdx9uzQ27fcpnPQz.jpg", "actors": [], "comments": [], "recommandations_id": []}

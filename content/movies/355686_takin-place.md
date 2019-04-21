@@ -1,0 +1,1 @@
+{"tmdb_id": 355686, "title": "Takin' Place", "original_title": "Takin' Place", "slug_title": "takin-place", "date": "2015-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

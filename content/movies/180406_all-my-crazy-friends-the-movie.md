@@ -1,0 +1,1 @@
+{"tmdb_id": 180406, "title": "All My Crazy Friends: The Movie", "original_title": "All My Crazy Friends: The Movie", "slug_title": "all-my-crazy-friends-the-movie", "date": "1998-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iZPG71llx5OOHu4uMq3mevM4nv.jpg", "actors": [], "comments": [], "recommandations_id": []}

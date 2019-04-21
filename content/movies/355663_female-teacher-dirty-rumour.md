@@ -1,0 +1,1 @@
+{"tmdb_id": 355663, "title": "Female Teacher Dirty Rumour", "original_title": "Female Teacher Dirty Rumour", "slug_title": "female-teacher-dirty-rumour", "date": "1981-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znhYNbPalS1Ar3gaIh8RzkjTWYA.jpg", "actors": [], "comments": [], "recommandations_id": []}

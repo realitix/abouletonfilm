@@ -1,0 +1,1 @@
+{"tmdb_id": 280095, "title": "Dedication to Matsuo Basho", "original_title": "Dedication to Matsuo Basho", "slug_title": "dedication-to-matsuo-basho", "date": "1970-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rDWM0t674geWHVg430C5iBGBPKI.jpg", "actors": [], "comments": [], "recommandations_id": []}

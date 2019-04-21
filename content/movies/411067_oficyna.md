@@ -1,0 +1,1 @@
+{"tmdb_id": 411067, "title": "Oficyna", "original_title": "Oficyna", "slug_title": "oficyna", "date": "1983-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

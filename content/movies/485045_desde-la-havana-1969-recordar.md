@@ -1,0 +1,1 @@
+{"tmdb_id": 485045, "title": "Desde la Havana \u00a11969! Recordar", "original_title": "Desde la Havana \u00a11969! Recordar", "slug_title": "desde-la-havana-1969-recordar", "date": "1969-07-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

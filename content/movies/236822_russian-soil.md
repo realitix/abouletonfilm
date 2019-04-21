@@ -1,0 +1,1 @@
+{"tmdb_id": 236822, "title": "Russian Soil", "original_title": "Russian Soil", "slug_title": "russian-soil", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

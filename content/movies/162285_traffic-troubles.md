@@ -1,0 +1,1 @@
+{"tmdb_id": 162285, "title": "Traffic Troubles", "original_title": "Traffic Troubles", "slug_title": "traffic-troubles", "date": "1931-03-16", "genre": "Animation", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fKAbYu40B0YmXqpsw8JAoJKwEx.jpg", "actors": [], "comments": [], "recommandations_id": [61129, 161865, 156456, 162593]}

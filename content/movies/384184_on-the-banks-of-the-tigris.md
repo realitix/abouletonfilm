@@ -1,0 +1,1 @@
+{"tmdb_id": 384184, "title": "On the Banks of the Tigris", "original_title": "On the Banks of the Tigris", "slug_title": "on-the-banks-of-the-tigris", "date": "2015-08-25", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Majid Shokor (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553638, "title": "Mortal Kombat X", "original_title": "Mortal Kombat X", "slug_title": "mortal-kombat-x", "date": "2016-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xuLfe0qiQyZCgFNDG1SJcAcLCbp.jpg", "actors": [], "comments": [], "recommandations_id": []}

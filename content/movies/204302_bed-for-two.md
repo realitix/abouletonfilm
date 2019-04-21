@@ -1,0 +1,1 @@
+{"tmdb_id": 204302, "title": "Bed for Two", "original_title": "Rendez-vous avec la chance", "slug_title": "bed-for-two", "date": "1950-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMwS6ofG7g2sg5qt9vHFxvhmklv.jpg", "actors": [], "comments": [], "recommandations_id": []}

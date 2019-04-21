@@ -1,0 +1,1 @@
+{"tmdb_id": 523892, "title": "Elsa och Binyam \u00e4r v\u00e4nner", "original_title": "Elsa och Binyam \u00e4r v\u00e4nner", "slug_title": "elsa-och-binyam-ar-vanner", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

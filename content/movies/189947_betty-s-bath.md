@@ -1,0 +1,1 @@
+{"tmdb_id": 189947, "title": "Betty's Bath", "original_title": "Betty's Bath", "slug_title": "betty-s-bath", "date": "1928-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0O1MlFFuERj36uikpyTNrpa0eh.jpg", "actors": [], "comments": [], "recommandations_id": []}

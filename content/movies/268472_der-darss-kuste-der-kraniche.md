@@ -1,0 +1,1 @@
+{"tmdb_id": 268472, "title": "Der Dar\u00df - K\u00fcste der Kraniche", "original_title": "Der Dar\u00df - K\u00fcste der Kraniche", "slug_title": "der-darss-kuste-der-kraniche", "date": "2003-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

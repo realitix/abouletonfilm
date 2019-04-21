@@ -1,0 +1,1 @@
+{"tmdb_id": 555669, "title": "The Happy Pill", "original_title": "The Happy Pill", "slug_title": "the-happy-pill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

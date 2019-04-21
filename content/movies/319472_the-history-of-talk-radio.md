@@ -1,0 +1,1 @@
+{"tmdb_id": 319472, "title": "The History of Talk Radio", "original_title": "The History of Talk Radio", "slug_title": "the-history-of-talk-radio", "date": "1996-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrs7YykTBwuBsUD7DVI775TYaHj.jpg", "actors": [], "comments": [], "recommandations_id": []}

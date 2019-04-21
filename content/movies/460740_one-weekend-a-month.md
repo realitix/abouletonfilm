@@ -1,0 +1,1 @@
+{"tmdb_id": 460740, "title": "One Weekend a Month", "original_title": "One Weekend a Month", "slug_title": "one-weekend-a-month", "date": "2004-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgVAq921IkINpVDVZPxDM7xrIK9.jpg", "actors": [], "comments": [], "recommandations_id": []}

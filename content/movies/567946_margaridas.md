@@ -1,0 +1,1 @@
+{"tmdb_id": 567946, "title": "Margaridas", "original_title": "Margaridas", "slug_title": "margaridas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 261556, "title": "Camera, Monitor, Frame", "original_title": "Camera, Monitor, Frame", "slug_title": "camera-monitor-frame", "date": "1976-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40xvCNaBZk5ONVj3Lv8PyUYYSaz.jpg", "actors": [], "comments": [], "recommandations_id": []}

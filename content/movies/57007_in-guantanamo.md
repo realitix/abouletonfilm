@@ -1,0 +1,1 @@
+{"tmdb_id": 57007, "title": "In Guantanamo", "original_title": "In Guantanamo", "slug_title": "in-guantanamo", "date": "2009-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBpyQqlTBBJMpRXOk6MX3vawRlW.jpg", "actors": [], "comments": [], "recommandations_id": []}

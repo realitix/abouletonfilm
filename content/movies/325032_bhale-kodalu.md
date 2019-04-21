@@ -1,0 +1,1 @@
+{"tmdb_id": 325032, "title": "Bhale Kodalu", "original_title": "Bhale Kodalu", "slug_title": "bhale-kodalu", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["S. V. Ranga Rao ()", "Sowcar Janaki ()", "Kanchana ()", "Jayanthi ()"], "comments": [], "recommandations_id": []}

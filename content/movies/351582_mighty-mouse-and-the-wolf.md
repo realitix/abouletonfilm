@@ -1,0 +1,1 @@
+{"tmdb_id": 351582, "title": "Mighty Mouse and the Wolf", "original_title": "Mighty Mouse and the Wolf", "slug_title": "mighty-mouse-and-the-wolf", "date": "1945-07-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pGQ16XBxLZBxk74As8d2uU4VjZ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

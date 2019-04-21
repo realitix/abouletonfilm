@@ -1,0 +1,1 @@
+{"tmdb_id": 113873, "title": "Vida Garman", "original_title": "Vida Garman", "slug_title": "vida-garman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

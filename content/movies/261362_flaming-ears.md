@@ -1,0 +1,1 @@
+{"tmdb_id": 261362, "title": "Flaming Ears", "original_title": "Flaming Ears", "slug_title": "flaming-ears", "date": "1992-01-01", "genre": "Science-Fiction / Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVTjUltSgZPiLLvbikeoPxeOe7e.jpg", "actors": [], "comments": [], "recommandations_id": []}

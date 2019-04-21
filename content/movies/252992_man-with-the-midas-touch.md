@@ -1,0 +1,1 @@
+{"tmdb_id": 252992, "title": "Man With the Midas Touch", "original_title": "Man With the Midas Touch", "slug_title": "man-with-the-midas-touch", "date": "2011-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hE8krLKHMjfCPRcGOIXNDm6BFWf.jpg", "actors": [], "comments": [], "recommandations_id": []}

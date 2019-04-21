@@ -1,0 +1,1 @@
+{"tmdb_id": 586607, "title": "The Lake", "original_title": "\u10e2\u10d1\u10d0", "slug_title": "the-lake", "date": "1998-06-13", "genre": "Drame / Romance", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dimitri Shvelidze (Zura)", "Irakli Mshvildadze (Gasana)", "Alina Nozadze (Tamari)"], "comments": [], "recommandations_id": []}

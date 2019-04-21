@@ -1,0 +1,1 @@
+{"tmdb_id": 533960, "title": "Lectures", "original_title": "Lectures", "slug_title": "lectures", "date": "2005-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

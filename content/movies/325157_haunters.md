@@ -1,0 +1,1 @@
+{"tmdb_id": 325157, "title": "Haunters", "original_title": "Haunters", "slug_title": "haunters", "date": "2014-11-15", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XDW1m8EUZUfjkfoJPZ2r6x072R.jpg", "actors": [], "comments": [], "recommandations_id": []}

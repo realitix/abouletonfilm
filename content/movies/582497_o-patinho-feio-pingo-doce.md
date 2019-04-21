@@ -1,0 +1,1 @@
+{"tmdb_id": 582497, "title": "O Patinho Feio - Pingo Doce", "original_title": "O Patinho Feio - Pingo Doce", "slug_title": "o-patinho-feio-pingo-doce", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKQ4Rlknl4Aq3ZazA4Byliqug3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

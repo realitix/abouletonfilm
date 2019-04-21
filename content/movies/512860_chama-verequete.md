@@ -1,0 +1,1 @@
+{"tmdb_id": 512860, "title": "Chama Verequete", "original_title": "Chama Verequete", "slug_title": "chama-verequete", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o63kbJ6EvBHjFZJlBUmU0GhzGI0.jpg", "actors": [], "comments": [], "recommandations_id": []}

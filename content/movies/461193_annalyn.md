@@ -1,0 +1,1 @@
+{"tmdb_id": 461193, "title": "Annalyn", "original_title": "Annalyn", "slug_title": "annalyn", "date": "2012-10-23", "genre": "Drame / Romance", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johanna Granstr\u00f6m (Lina)", "Nina Jeppsson (Agnes)", "Dag Malmberg (Lars-Erik)", "Errah Seno (Annalyn)"], "comments": [], "recommandations_id": []}

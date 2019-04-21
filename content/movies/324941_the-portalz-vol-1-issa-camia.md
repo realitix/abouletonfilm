@@ -1,0 +1,1 @@
+{"tmdb_id": 324941, "title": "The Portalz Vol 1 -- Issa Camia", "original_title": "The Portalz Vol 1 -- Issa Camia", "slug_title": "the-portalz-vol-1-issa-camia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

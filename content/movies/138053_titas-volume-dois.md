@@ -1,0 +1,1 @@
+{"tmdb_id": 138053, "title": "Titas - Volume Dois", "original_title": "Titas - Volume Dois", "slug_title": "titas-volume-dois", "date": "2016-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsLeHCBGuoUVABetVbQvHSu9yDn.jpg", "actors": [], "comments": [], "recommandations_id": []}

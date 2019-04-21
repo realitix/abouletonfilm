@@ -1,0 +1,1 @@
+{"tmdb_id": 362427, "title": "Il mostro verde", "original_title": "Il mostro verde", "slug_title": "il-mostro-verde", "date": "1967-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

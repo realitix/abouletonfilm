@@ -1,0 +1,1 @@
+{"tmdb_id": 192274, "title": "A Spanish Dilemma", "original_title": "A Spanish Dilemma", "slug_title": "a-spanish-dilemma", "date": "1912-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Mace (Jose)", "Mack Sennett (Carlos, Jose's Brother)", "Mabel Normand (The Se\u00f1orita)"], "comments": [], "recommandations_id": []}

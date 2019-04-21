@@ -1,0 +1,1 @@
+{"tmdb_id": 580548, "title": "Dose, trese, katorse", "original_title": "Dose, trese, katorse", "slug_title": "dose-trese-katorse", "date": "2011-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbs2fSoiLktYAbRVOzIGVdNtowG.jpg", "actors": [], "comments": [], "recommandations_id": []}

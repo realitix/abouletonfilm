@@ -1,0 +1,1 @@
+{"tmdb_id": 252414, "title": "Die Schlacht um Miggershausen", "original_title": "Die Schlacht um Miggershausen", "slug_title": "die-schlacht-um-miggershausen", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428850, "title": "The Dive Bar Tour: Lady Gaga Live in L.A.", "original_title": "The Dive Bar Tour: Lady Gaga Live in L.A.", "slug_title": "the-dive-bar-tour-lady-gaga-live-in-l-a", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

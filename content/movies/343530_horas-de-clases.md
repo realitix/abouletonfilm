@@ -1,0 +1,1 @@
+{"tmdb_id": 343530, "title": "Horas de clases", "original_title": "Horas de clases", "slug_title": "horas-de-clases", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eOzTOl9781es6C9TOc4dNfoqID5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525919, "title": "Detroit: Become Human - Kamski", "original_title": "Detroit: Become Human - Kamski", "slug_title": "detroit-become-human-kamski", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

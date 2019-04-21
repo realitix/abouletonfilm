@@ -1,0 +1,1 @@
+{"tmdb_id": 242291, "title": "Working Girl", "original_title": "Working Girl", "slug_title": "working-girl", "date": "2011-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPIvMQOwV9JEnszDPDGAwDApQPL.jpg", "actors": ["Terry-Ann Price (Lotus White)"], "comments": [], "recommandations_id": []}

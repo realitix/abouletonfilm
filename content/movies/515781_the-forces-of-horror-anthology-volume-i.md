@@ -1,0 +1,1 @@
+{"tmdb_id": 515781, "title": "The Forces of Horror Anthology: Volume I", "original_title": "The Forces of Horror Anthology: Volume I", "slug_title": "the-forces-of-horror-anthology-volume-i", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

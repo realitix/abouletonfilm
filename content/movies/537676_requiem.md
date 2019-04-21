@@ -1,0 +1,1 @@
+{"tmdb_id": 537676, "title": "Requiem", "original_title": "Requiem", "slug_title": "requiem", "date": "2018-07-22", "genre": "Animation / Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

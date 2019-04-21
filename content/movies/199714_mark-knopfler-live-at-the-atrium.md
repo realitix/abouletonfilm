@@ -1,0 +1,1 @@
+{"tmdb_id": 199714, "title": "Mark Knopfler: Live at the Atrium", "original_title": "Mark Knopfler: Live at the Atrium", "slug_title": "mark-knopfler-live-at-the-atrium", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

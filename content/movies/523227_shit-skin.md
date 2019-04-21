@@ -1,0 +1,1 @@
+{"tmdb_id": 523227, "title": "Shit Skin", "original_title": "Shit Skin", "slug_title": "shit-skin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

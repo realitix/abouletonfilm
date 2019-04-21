@@ -1,0 +1,1 @@
+{"tmdb_id": 516875, "title": "Der Garderobier - Karlheinz Stempel erz\u00e4hlt", "original_title": "Der Garderobier - Karlheinz Stempel erz\u00e4hlt", "slug_title": "der-garderobier-karlheinz-stempel-erzahlt", "date": "1993-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

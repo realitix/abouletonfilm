@@ -1,0 +1,1 @@
+{"tmdb_id": 249676, "title": "America", "original_title": "America", "slug_title": "america", "date": "2013-08-08", "genre": "Drame", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfwDk5HPRvynsnSUran0EC4JI6J.jpg", "actors": ["Solomon Calvert-Adera ()"], "comments": [], "recommandations_id": []}

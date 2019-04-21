@@ -1,0 +1,1 @@
+{"tmdb_id": 329514, "title": "Each Child is Different", "original_title": "Each Child is Different", "slug_title": "each-child-is-different", "date": "1954-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ee6TprIyl0T3zLq1CGofeu0NWx4.jpg", "actors": [], "comments": [], "recommandations_id": []}

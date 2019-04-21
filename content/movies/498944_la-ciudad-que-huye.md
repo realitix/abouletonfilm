@@ -1,0 +1,1 @@
+{"tmdb_id": 498944, "title": "La ciudad que huye", "original_title": "La ciudad que huye", "slug_title": "la-ciudad-que-huye", "date": "2006-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQlGDeks04EtQk3KNNz4577fcJS.jpg", "actors": [], "comments": [], "recommandations_id": []}

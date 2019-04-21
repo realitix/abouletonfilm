@@ -1,0 +1,1 @@
+{"tmdb_id": 415839, "title": "The Lost Kung Fu Secrets", "original_title": "The Lost Kung Fu Secrets", "slug_title": "the-lost-kung-fu-secrets", "date": "1979-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Chiang (Garth Lo)", "Hsu Feng ()", "David Chiang ()", "Paul Chang ()"], "comments": [], "recommandations_id": []}

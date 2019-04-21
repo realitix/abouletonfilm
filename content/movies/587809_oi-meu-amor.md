@@ -1,0 +1,1 @@
+{"tmdb_id": 587809, "title": "Oi, Meu Amor", "original_title": "Oi, Meu Amor", "slug_title": "oi-meu-amor", "date": "2014-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFxdT4HrXIskHwqplv9Xj13ff9I.jpg", "actors": ["Robert G. Putka ()", "Eilis Cahill ()"], "comments": [], "recommandations_id": []}

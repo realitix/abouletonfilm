@@ -1,0 +1,1 @@
+{"tmdb_id": 310185, "title": "Mr. Laughs: A Look Behind the Curtain", "original_title": "Mr. Laughs: A Look Behind the Curtain", "slug_title": "mr-laughs-a-look-behind-the-curtain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

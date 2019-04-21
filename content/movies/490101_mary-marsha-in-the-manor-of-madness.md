@@ -1,0 +1,1 @@
+{"tmdb_id": 490101, "title": "Mary & Marsha in the Manor of Madness", "original_title": "Mary & Marsha in the Manor of Madness", "slug_title": "mary-marsha-in-the-manor-of-madness", "date": "2017-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

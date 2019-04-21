@@ -1,0 +1,1 @@
+{"tmdb_id": 49394, "title": "MTV: O Melhor Dos Acusticos", "original_title": "MTV: O Melhor Dos Acusticos", "slug_title": "mtv-o-melhor-dos-acusticos", "date": "2005-05-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9zaoKAeD9fdXxHlkbJdEIHsTBT.jpg", "actors": [], "comments": [], "recommandations_id": []}

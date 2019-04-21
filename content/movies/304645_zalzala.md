@@ -1,0 +1,1 @@
+{"tmdb_id": 304645, "title": "Zalzala", "original_title": "Zalzala", "slug_title": "zalzala", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

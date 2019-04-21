@@ -1,0 +1,1 @@
+{"tmdb_id": 348717, "title": "Ele Me Chamava de Rosa", "original_title": "Ele Me Chamava de Rosa", "slug_title": "ele-me-chamava-de-rosa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

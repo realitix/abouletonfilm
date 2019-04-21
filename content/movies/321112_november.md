@@ -1,0 +1,1 @@
+{"tmdb_id": 321112, "title": "November", "original_title": "November", "slug_title": "november", "date": "2007-09-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joeri Vos ()", "Eric Schneider ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324446, "title": "Maioria Absoluta", "original_title": "Maioria Absoluta", "slug_title": "maioria-absoluta", "date": "1964-01-09", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSXdxEQFx0VUUQvZkkgju25ZK49.jpg", "actors": ["Ferreira Gullar (Narrador)"], "comments": [], "recommandations_id": []}

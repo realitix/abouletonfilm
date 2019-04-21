@@ -1,0 +1,1 @@
+{"tmdb_id": 303152, "title": "Psychedelic Alphabet for the Newborn", "original_title": "Psychedelic Alphabet for the Newborn", "slug_title": "psychedelic-alphabet-for-the-newborn", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

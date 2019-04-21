@@ -1,0 +1,1 @@
+{"tmdb_id": 352549, "title": "Cora\u00e7\u00e3o Azul", "original_title": "Cora\u00e7\u00e3o Azul", "slug_title": "coracao-azul", "date": "2015-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yctgOqNUHMT5RMbl3Rl5dvHAbMX.jpg", "actors": [], "comments": [], "recommandations_id": []}

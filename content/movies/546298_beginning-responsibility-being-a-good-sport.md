@@ -1,0 +1,1 @@
+{"tmdb_id": 546298, "title": "Beginning Responsibility: Being A Good Sport", "original_title": "Beginning Responsibility: Being A Good Sport", "slug_title": "beginning-responsibility-being-a-good-sport", "date": "1969-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

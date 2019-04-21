@@ -1,0 +1,1 @@
+{"tmdb_id": 489051, "title": "Who Gets The Dog?", "original_title": "Who Gets The Dog?", "slug_title": "who-gets-the-dog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pZNARUpyV0w3ec6r5JFUEwljWAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

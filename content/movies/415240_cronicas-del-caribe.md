@@ -1,0 +1,1 @@
+{"tmdb_id": 415240, "title": "Cr\u00f3nicas del Caribe", "original_title": "Cr\u00f3nicas del Caribe", "slug_title": "cronicas-del-caribe", "date": "1982-12-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5d80FZE1M4lA9A9BdDBzHhXsISo.jpg", "actors": [], "comments": [], "recommandations_id": []}

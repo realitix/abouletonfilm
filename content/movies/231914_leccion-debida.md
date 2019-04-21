@@ -1,0 +1,1 @@
+{"tmdb_id": 231914, "title": "Lecci\u00f3n Debida", "original_title": "Lecci\u00f3n Debida", "slug_title": "leccion-debida", "date": "2011-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AOiAmXQDicN8f8mFTeSi9nCPRq.jpg", "actors": [], "comments": [], "recommandations_id": []}

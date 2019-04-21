@@ -1,0 +1,1 @@
+{"tmdb_id": 366555, "title": "Murder One: Diary of a Serial Killer", "original_title": "Murder One: Diary of a Serial Killer", "slug_title": "murder-one-diary-of-a-serial-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

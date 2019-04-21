@@ -1,0 +1,1 @@
+{"tmdb_id": 449374, "title": "The Cure", "original_title": "The Cure", "slug_title": "the-cure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/904KzA7wEs0VqPAN30G39RUKgq4.jpg", "actors": ["Nicolas Buchoux (He)", "Caroline Fauvet (She)"], "comments": [], "recommandations_id": []}

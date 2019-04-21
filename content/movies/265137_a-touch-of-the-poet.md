@@ -1,0 +1,1 @@
+{"tmdb_id": 265137, "title": "A Touch of the Poet", "original_title": "A Touch of the Poet", "slug_title": "a-touch-of-the-poet", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Moffat ()", "Robert Phalen ()", "Roberta Maxwell ()"], "comments": [], "recommandations_id": []}

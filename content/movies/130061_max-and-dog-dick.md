@@ -1,0 +1,1 @@
+{"tmdb_id": 130061, "title": "Max and Dog Dick", "original_title": "Max et son chien Dick", "slug_title": "max-and-dog-dick", "date": "1912-02-09", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Jane Renouardt ()", "Henri Bosc ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 55083, "title": "Satan's Whip", "original_title": "Satan's Whip", "slug_title": "satan-s-whip", "date": "2008-03-08", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imskpOc3EnSYjG7y4Xm4iUMHTg1.jpg", "actors": ["Robert Field (Claude)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307425, "title": "Dhake Ki Malmal", "original_title": "Dhake Ki Malmal", "slug_title": "dhake-ki-malmal", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

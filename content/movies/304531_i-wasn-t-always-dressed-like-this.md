@@ -1,0 +1,1 @@
+{"tmdb_id": 304531, "title": "\"I wasn't always dressed like this\"", "original_title": "\"I wasn't always dressed like this\"", "slug_title": "i-wasn-t-always-dressed-like-this", "date": "2013-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 24302, "title": "Pride Bushido 5", "original_title": "Pride Bushido 5", "slug_title": "pride-bushido-5", "date": "2004-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8p9CPaj303XqLQNaKNLUIOcXdG0.jpg", "actors": [], "comments": [], "recommandations_id": []}

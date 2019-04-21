@@ -1,0 +1,1 @@
+{"tmdb_id": 556145, "title": "La chauss\u00e9e des g\u00e9ants", "original_title": "La chauss\u00e9e des g\u00e9ants", "slug_title": "la-chaussee-des-geants", "date": "1926-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

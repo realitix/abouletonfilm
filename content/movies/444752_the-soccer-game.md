@@ -1,0 +1,1 @@
+{"tmdb_id": 444752, "title": "The Soccer Game", "original_title": "The Soccer Game", "slug_title": "the-soccer-game", "date": "1960-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

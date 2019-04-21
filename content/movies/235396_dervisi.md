@@ -1,0 +1,1 @@
+{"tmdb_id": 235396, "title": "Dervisi", "original_title": "Dervisi", "slug_title": "dervisi", "date": "1955-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

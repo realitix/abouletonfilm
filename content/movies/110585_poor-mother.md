@@ -1,0 +1,1 @@
+{"tmdb_id": 110585, "title": "Poor Mother", "original_title": "Jadna majka", "slug_title": "poor-mother", "date": "1912-03-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emilija Popovi\u0107 ()"], "comments": [], "recommandations_id": []}

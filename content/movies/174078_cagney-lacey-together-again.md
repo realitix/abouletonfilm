@@ -1,0 +1,1 @@
+{"tmdb_id": 174078, "title": "Cagney & Lacey: Together Again", "original_title": "Cagney & Lacey: Together Again", "slug_title": "cagney-lacey-together-again", "date": "1995-05-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b62j3lJkOGcmLDDEK2tXbEKT3xW.jpg", "actors": [], "comments": [], "recommandations_id": []}

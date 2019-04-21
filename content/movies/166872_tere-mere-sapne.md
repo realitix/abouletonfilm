@@ -1,0 +1,1 @@
+{"tmdb_id": 166872, "title": "Tere Mere Sapne", "original_title": "Tere Mere Sapne", "slug_title": "tere-mere-sapne", "date": "1996-06-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3r66meNo2blG4vPELGbCft5DJDX.jpg", "actors": [], "comments": [], "recommandations_id": []}

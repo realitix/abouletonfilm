@@ -1,0 +1,1 @@
+{"tmdb_id": 328403, "title": "Once Upon a Time There Was a Dot", "original_title": "Bila jednom jedna ta\u010dkica", "slug_title": "once-upon-a-time-there-was-a-dot", "date": "1964-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

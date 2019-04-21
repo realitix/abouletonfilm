@@ -1,0 +1,1 @@
+{"tmdb_id": 279169, "title": "Ekhrajiha 2", "original_title": "Ekhrajiha 2", "slug_title": "ekhrajiha-2", "date": "2009-09-20", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjKFsOt97PEMJJu9JU15K4cMsCi.jpg", "actors": ["Akbar Abdi ()", "Mohammadreza Sharifinia ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 442013, "title": "Fumettophobia", "original_title": "Fumettophobia", "slug_title": "fumettophobia", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5INGPPK0RKwiIZOAj67AVQiHmUR.jpg", "actors": [], "comments": [], "recommandations_id": []}

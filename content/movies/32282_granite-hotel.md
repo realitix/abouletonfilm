@@ -1,0 +1,1 @@
+{"tmdb_id": 32282, "title": "Granite Hotel", "original_title": "Granite Hotel", "slug_title": "granite-hotel", "date": "1940-04-26", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3Hj9s60ScElZXUQEW0ULmaJ9Tg.jpg", "actors": [], "comments": [], "recommandations_id": []}

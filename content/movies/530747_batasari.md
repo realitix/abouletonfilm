@@ -1,0 +1,1 @@
+{"tmdb_id": 530747, "title": "Batasari", "original_title": "Batasari", "slug_title": "batasari", "date": "1961-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cn5Ui089HSfCJV4UB1XaXNwyVIV.jpg", "actors": ["Nageshwara Rao Akkineni ()"], "comments": [], "recommandations_id": []}

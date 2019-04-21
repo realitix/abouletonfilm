@@ -1,0 +1,1 @@
+{"tmdb_id": 489145, "title": "Imax - El Tesoro de los Dioses", "original_title": "Imax - El Tesoro de los Dioses", "slug_title": "imax-el-tesoro-de-los-dioses", "date": "1996-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/glXbw29GRqD7F0m3g9HHkX0qJHK.jpg", "actors": [], "comments": [], "recommandations_id": []}

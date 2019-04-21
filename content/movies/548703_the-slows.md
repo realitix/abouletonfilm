@@ -1,0 +1,1 @@
+{"tmdb_id": 548703, "title": "The Slows", "original_title": "The Slows", "slug_title": "the-slows", "date": "2018-09-21", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z250QDLjsaSodqJoxcucZZRVFtq.jpg", "actors": ["Annet Mahendru (Eryn)", "Breeda Wool (Greta)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512067, "title": "Virgil Donati - Power Drumming", "original_title": "Virgil Donati - Power Drumming", "slug_title": "virgil-donati-power-drumming", "date": "1993-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwSuSwMFtMOEupolBV6ZSnjRtUW.jpg", "actors": [], "comments": [], "recommandations_id": []}

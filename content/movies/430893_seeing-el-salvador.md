@@ -1,0 +1,1 @@
+{"tmdb_id": 430893, "title": "Seeing El Salvador", "original_title": "Seeing El Salvador", "slug_title": "seeing-el-salvador", "date": "1945-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXkZH46ps9C7cqV8cl6SLVqpmKp.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

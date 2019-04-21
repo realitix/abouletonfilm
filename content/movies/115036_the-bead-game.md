@@ -1,0 +1,1 @@
+{"tmdb_id": 115036, "title": "The Bead Game", "original_title": "The Bead Game", "slug_title": "the-bead-game", "date": "1977-12-31", "genre": "Animation", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsKzTzqXvgRspuJmUiS0NciU8NI.jpg", "actors": [], "comments": [], "recommandations_id": [125150, 162551, 129339, 190081]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548865, "title": "A Sorrowful Wedding", "original_title": "\u60b2\u4e4b\u79cb", "slug_title": "a-sorrowful-wedding", "date": "1979-08-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chin Han ()", "Chelsia Chan ()"], "comments": [], "recommandations_id": []}

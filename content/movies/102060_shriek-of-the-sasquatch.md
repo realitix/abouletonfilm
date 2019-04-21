@@ -1,0 +1,1 @@
+{"tmdb_id": 102060, "title": "Shriek of the Sasquatch!", "original_title": "Shriek of the Sasquatch!", "slug_title": "shriek-of-the-sasquatch", "date": "2011-07-14", "genre": "", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfr7nSnURSLORqcAWSlfBhqU7RF.jpg", "actors": [], "comments": [], "recommandations_id": []}

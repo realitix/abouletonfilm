@@ -1,0 +1,1 @@
+{"tmdb_id": 486802, "title": "Impango", "original_title": "Impango", "slug_title": "impango", "date": "1982-09-01", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Khulekani Magubane ()", "Gugu Mhlanga ()", "Tim Mtshali ()", "Hector Mathanda ()"], "comments": [], "recommandations_id": []}

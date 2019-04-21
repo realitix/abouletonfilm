@@ -1,0 +1,1 @@
+{"tmdb_id": 258116, "title": "The Anatomy of Hate", "original_title": "The Anatomy of Hate", "slug_title": "the-anatomy-of-hate", "date": "2009-04-21", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6h6QMvBIwbXF2cS3L2v0sEGH3aG.jpg", "actors": [], "comments": [], "recommandations_id": []}

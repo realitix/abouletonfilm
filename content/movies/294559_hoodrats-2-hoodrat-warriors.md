@@ -1,0 +1,1 @@
+{"tmdb_id": 294559, "title": "Hoodrats 2: Hoodrat Warriors", "original_title": "Hoodrats 2: Hoodrat Warriors", "slug_title": "hoodrats-2-hoodrat-warriors", "date": "2008-11-04", "genre": "", "score": "1.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

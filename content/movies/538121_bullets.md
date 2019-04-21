@@ -1,0 +1,1 @@
+{"tmdb_id": 538121, "title": "Bullets", "original_title": "Bullets", "slug_title": "bullets", "date": "2018-07-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEwsidKf5FSgYPW8UJdLQFFIuIN.jpg", "actors": [], "comments": [], "recommandations_id": []}

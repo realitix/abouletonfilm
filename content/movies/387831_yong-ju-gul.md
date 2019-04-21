@@ -1,0 +1,1 @@
+{"tmdb_id": 387831, "title": "Yong Ju Gul", "original_title": "Yong Ju Gul", "slug_title": "yong-ju-gul", "date": "2015-11-19", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoJIXk7UrAr6ClV70r7Yq0HdEVt.jpg", "actors": [], "comments": [], "recommandations_id": []}

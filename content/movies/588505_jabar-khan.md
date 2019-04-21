@@ -1,0 +1,1 @@
+{"tmdb_id": 588505, "title": "Jabar Khan", "original_title": "Jabar Khan", "slug_title": "jabar-khan", "date": "1987-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

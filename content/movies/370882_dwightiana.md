@@ -1,0 +1,1 @@
+{"tmdb_id": 370882, "title": "Dwightiana", "original_title": "Dwightiana", "slug_title": "dwightiana", "date": "1959-06-09", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XHcKFn2c0sYMwfyPdukWHLBBWs.jpg", "actors": [], "comments": [], "recommandations_id": []}

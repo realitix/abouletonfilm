@@ -1,0 +1,1 @@
+{"tmdb_id": 439959, "title": "Dark Meat 6", "original_title": "Dark Meat 6", "slug_title": "dark-meat-6", "date": "2014-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5PpTkWaXQXdq3GUIvvAj8AlH06.jpg", "actors": ["Lea Lexis ()", "Sarah Shevon ()", "Gabriella Paltrova ()"], "comments": [], "recommandations_id": []}

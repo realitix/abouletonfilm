@@ -1,0 +1,1 @@
+{"tmdb_id": 487805, "title": "Nu Wa Patches Up Sky", "original_title": "\u5973\u5a32\u8865\u5929", "slug_title": "nu-wa-patches-up-sky", "date": "1985-01-03", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

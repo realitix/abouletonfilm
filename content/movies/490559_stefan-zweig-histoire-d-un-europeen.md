@@ -1,0 +1,1 @@
+{"tmdb_id": 490559, "title": "Stefan Zweig - Histoire d'un europ\u00e9en", "original_title": "Stefan Zweig - Histoire d'un europ\u00e9en", "slug_title": "stefan-zweig-histoire-d-un-europeen", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

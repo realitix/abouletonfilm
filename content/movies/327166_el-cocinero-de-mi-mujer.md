@@ -1,0 +1,1 @@
+{"tmdb_id": 327166, "title": "El cocinero de mi mujer", "original_title": "El cocinero de mi mujer", "slug_title": "el-cocinero-de-mi-mujer", "date": "1947-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u00c1ngel Garasa ()", "Alicia Ravel ()", "Jorge Reyes ()"], "comments": [], "recommandations_id": []}

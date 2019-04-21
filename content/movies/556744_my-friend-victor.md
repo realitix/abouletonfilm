@@ -1,0 +1,1 @@
+{"tmdb_id": 556744, "title": "My Friend Victor", "original_title": "Mon ami Victor", "slug_title": "my-friend-victor", "date": "1931-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

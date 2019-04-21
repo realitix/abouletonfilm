@@ -1,0 +1,1 @@
+{"tmdb_id": 526900, "title": "Monsters of Rock: Moscow 1991", "original_title": "Monsters of Rock: Moscow 1991", "slug_title": "monsters-of-rock-moscow-1991", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjTI4dBzdfmbbXo3pfrcCSAmHDk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 489291, "title": "Dangsan", "original_title": "\ub2f9\uc0b0", "slug_title": "dangsan", "date": "2017-08-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

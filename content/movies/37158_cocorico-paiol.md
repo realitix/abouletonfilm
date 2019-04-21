@@ -1,0 +1,1 @@
+{"tmdb_id": 37158, "title": "Cocorico Paiol", "original_title": "Cocorico Paiol", "slug_title": "cocorico-paiol", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92xJdEtCO9y3pczTTQM7Furbvvj.jpg", "actors": [], "comments": [], "recommandations_id": []}

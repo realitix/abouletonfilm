@@ -1,0 +1,1 @@
+{"tmdb_id": 387166, "title": "The Soba Flower of Mt. Oni", "original_title": "Onigakure Yama no Soba no Hana", "slug_title": "the-soba-flower-of-mt-oni", "date": "1979-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LuHc7AXnsEa2nBnIvawrBE37rf.jpg", "actors": [], "comments": [], "recommandations_id": []}

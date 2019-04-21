@@ -1,0 +1,1 @@
+{"tmdb_id": 453488, "title": "Yo y mi mariachi", "original_title": "Yo y mi mariachi", "slug_title": "yo-y-mi-mariachi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ABxflhDRJjTUnfeJarEOMQRuj4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271875, "title": "About Vassilis", "original_title": "About Vassilis", "slug_title": "about-vassilis", "date": "1986-05-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uv2J4qKwakKavCwcAObQJygKePg.jpg", "actors": [], "comments": [], "recommandations_id": []}

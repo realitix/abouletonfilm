@@ -1,0 +1,1 @@
+{"tmdb_id": 574353, "title": "Breaking Habits", "original_title": "Breaking Habits", "slug_title": "breaking-habits", "date": "2019-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIV5nRuN2lUB9jjERM5y8bjZurh.jpg", "actors": [], "comments": [], "recommandations_id": []}

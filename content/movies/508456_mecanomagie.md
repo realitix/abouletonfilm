@@ -1,0 +1,1 @@
+{"tmdb_id": 508456, "title": "M\u00e9canomagie", "original_title": "M\u00e9canomagie", "slug_title": "mecanomagie", "date": "1996-06-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckHI3oTa6WrfVVatRGwjvRqmba0.jpg", "actors": ["Misch Dimmer (Jitzert Principal / Renner)"], "comments": [], "recommandations_id": []}

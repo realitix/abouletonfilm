@@ -1,0 +1,1 @@
+{"tmdb_id": 343937, "title": "Clutch City", "original_title": "Clutch City", "slug_title": "clutch-city", "date": "1994-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTaZhPVnJBldi8hy43xeUm3hR41.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470427, "title": "Teddybears live", "original_title": "Teddybears live", "slug_title": "teddybears-live", "date": "2016-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

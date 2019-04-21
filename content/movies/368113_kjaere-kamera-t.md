@@ -1,0 +1,1 @@
+{"tmdb_id": 368113, "title": "Kj\u00e6re Kamera(t)", "original_title": "Kj\u00e6re Kamera(t)", "slug_title": "kjaere-kamera-t", "date": "1995-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

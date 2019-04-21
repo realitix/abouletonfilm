@@ -1,0 +1,1 @@
+{"tmdb_id": 332954, "title": "The Waterfall Hunter in Kauai", "original_title": "The Waterfall Hunter in Kauai", "slug_title": "the-waterfall-hunter-in-kauai", "date": "2014-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 406160, "title": "I\u0161 dar nebaigt\u0173 Jeruzal\u0117s pasak\u0173", "original_title": "I\u0161 dar nebaigt\u0173 Jeruzal\u0117s pasak\u0173", "slug_title": "is-dar-nebaigtu-jeruzales-pasaku", "date": "1996-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

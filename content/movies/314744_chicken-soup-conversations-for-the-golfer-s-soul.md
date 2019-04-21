@@ -1,0 +1,1 @@
+{"tmdb_id": 314744, "title": "Chicken Soup: Conversations for the Golfer's Soul", "original_title": "Chicken Soup: Conversations for the Golfer's Soul", "slug_title": "chicken-soup-conversations-for-the-golfer-s-soul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

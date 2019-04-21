@@ -1,0 +1,1 @@
+{"tmdb_id": 319378, "title": "Nolza Live in Seoul", "original_title": "Nolza Live in Seoul", "slug_title": "nolza-live-in-seoul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

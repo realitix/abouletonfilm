@@ -1,0 +1,1 @@
+{"tmdb_id": 234392, "title": "Moby Duck", "original_title": "Moby Duck", "slug_title": "moby-duck", "date": "1965-03-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pDKh7vxiMGP2MkByapD29iEc6nw.jpg", "actors": [], "comments": [], "recommandations_id": []}

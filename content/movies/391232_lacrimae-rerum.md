@@ -1,0 +1,1 @@
+{"tmdb_id": 391232, "title": "Lacrimae rerum", "original_title": "Lacrimae rerum", "slug_title": "lacrimae-rerum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

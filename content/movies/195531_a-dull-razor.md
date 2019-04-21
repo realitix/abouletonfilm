@@ -1,0 +1,1 @@
+{"tmdb_id": 195531, "title": "A Dull Razor", "original_title": "A Dull Razor", "slug_title": "a-dull-razor", "date": "1900-05-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2Iefq2Gq5z2D2jlMmUFBWiFgxo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 233976, "title": "Die neue Wohnung", "original_title": "Die neue Wohnung", "slug_title": "die-neue-wohnung", "date": "1930-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5gMO6gFyLAR7zNSfhnEuUJuR5ZH.jpg", "actors": [], "comments": [], "recommandations_id": []}

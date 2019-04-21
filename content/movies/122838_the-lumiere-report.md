@@ -1,0 +1,1 @@
+{"tmdb_id": 122838, "title": "The Lumiere Report", "original_title": "The Lumiere Report", "slug_title": "the-lumiere-report", "date": "2002-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Chirillo (Grandpa)", "Peter Wilson (Sergei)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 325528, "title": "American Suburbia Urban Paradise", "original_title": "American Suburbia Urban Paradise", "slug_title": "american-suburbia-urban-paradise", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

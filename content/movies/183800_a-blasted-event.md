@@ -1,0 +1,1 @@
+{"tmdb_id": 183800, "title": "A Blasted Event", "original_title": "A Blasted Event", "slug_title": "a-blasted-event", "date": "1934-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Kennedy ()"], "comments": [], "recommandations_id": []}

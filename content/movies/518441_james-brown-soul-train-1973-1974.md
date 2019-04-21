@@ -1,0 +1,1 @@
+{"tmdb_id": 518441, "title": "James Brown: Soul Train 1973-1974", "original_title": "James Brown: Soul Train 1973-1974", "slug_title": "james-brown-soul-train-1973-1974", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Brown ()"], "comments": [], "recommandations_id": []}

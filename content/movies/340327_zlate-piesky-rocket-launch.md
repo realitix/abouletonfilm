@@ -1,0 +1,1 @@
+{"tmdb_id": 340327, "title": "Zlate Piesky Rocket Launch", "original_title": "Zlate Piesky Rocket Launch", "slug_title": "zlate-piesky-rocket-launch", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

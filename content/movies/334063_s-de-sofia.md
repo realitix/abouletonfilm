@@ -1,0 +1,1 @@
+{"tmdb_id": 334063, "title": "S de Sofia", "original_title": "S de Sofia", "slug_title": "s-de-sofia", "date": "2014-05-23", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v50RGjAJdh613dyrkDCBYM6hBlS.jpg", "actors": ["Let\u00edcia Tambucci (Sofia)", "Nina Hiraoka (Bianca)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 592295, "title": "The Lachance Kids", "original_title": "Les enfants Lachance", "slug_title": "the-lachance-kids", "date": "2017-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5yWKyAS31EfsSOQBuybz993wKn.jpg", "actors": [], "comments": [], "recommandations_id": []}

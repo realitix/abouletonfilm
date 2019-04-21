@@ -1,0 +1,1 @@
+{"tmdb_id": 386190, "title": "Opus 140 'Visual Counterpoint'", "original_title": "Opus 140 'Visual Counterpoint'", "slug_title": "opus-140-visual-counterpoint", "date": "1948-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

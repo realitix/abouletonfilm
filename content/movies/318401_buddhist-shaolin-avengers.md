@@ -1,0 +1,1 @@
+{"tmdb_id": 318401, "title": "Buddhist Shaolin Avengers", "original_title": "Buddhist Shaolin Avengers", "slug_title": "buddhist-shaolin-avengers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

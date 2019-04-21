@@ -1,0 +1,1 @@
+{"tmdb_id": 586533, "title": "Maggie & Bianca - Operazione Parigi", "original_title": "Maggie & Bianca - Operazione Parigi", "slug_title": "maggie-bianca-operazione-parigi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

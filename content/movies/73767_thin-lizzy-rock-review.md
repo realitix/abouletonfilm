@@ -1,0 +1,1 @@
+{"tmdb_id": 73767, "title": "Thin Lizzy Rock Review", "original_title": "Thin Lizzy Rock Review", "slug_title": "thin-lizzy-rock-review", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pSY5oK4O4YsvlfaEsX9HhDbBUCj.jpg", "actors": [], "comments": [], "recommandations_id": []}

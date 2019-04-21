@@ -1,0 +1,1 @@
+{"tmdb_id": 445626, "title": "Afrocentricity", "original_title": "Afrocentricity", "slug_title": "afrocentricity", "date": "2000-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvF2XIR8zkiDBAwhQ4M9j3l9fHD.jpg", "actors": [], "comments": [], "recommandations_id": []}

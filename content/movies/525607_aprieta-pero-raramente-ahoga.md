@@ -1,0 +1,1 @@
+{"tmdb_id": 525607, "title": "Aprieta Pero Raramente Ahoga", "original_title": "Aprieta Pero Raramente Ahoga", "slug_title": "aprieta-pero-raramente-ahoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9X7qGHho5LHwPzYsSSlWcUlYghU.jpg", "actors": [], "comments": [], "recommandations_id": []}

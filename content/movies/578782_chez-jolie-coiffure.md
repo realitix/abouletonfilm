@@ -1,0 +1,1 @@
+{"tmdb_id": 578782, "title": "Chez Jolie Coiffure", "original_title": "Chez Jolie Coiffure", "slug_title": "chez-jolie-coiffure", "date": "2018-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzYHritxU5mdv0ahill4IEHLgfO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 41262, "title": "Craptastic", "original_title": "Craptastic", "slug_title": "craptastic", "date": "", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOJ4G5XhhI7NPmQYjcib7PCr2mR.jpg", "actors": [], "comments": [], "recommandations_id": []}

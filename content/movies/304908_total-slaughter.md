@@ -1,0 +1,1 @@
+{"tmdb_id": 304908, "title": "Total Slaughter", "original_title": "Total Slaughter", "slug_title": "total-slaughter", "date": "2014-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

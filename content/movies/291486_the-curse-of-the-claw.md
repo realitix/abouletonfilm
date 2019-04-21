@@ -1,0 +1,1 @@
+{"tmdb_id": 291486, "title": "The Curse of the Claw", "original_title": "The Curse of the Claw", "slug_title": "the-curse-of-the-claw", "date": "1977-10-25", "genre": "Com\u00e9die / T\u00e9l\u00e9film", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Palin ()"], "comments": [], "recommandations_id": [291482, 291483, 291484, 291485]}

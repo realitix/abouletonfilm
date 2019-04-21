@@ -1,0 +1,1 @@
+{"tmdb_id": 164268, "title": "Directed by Alan Smithee", "original_title": "Directed by Alan Smithee", "slug_title": "directed-by-alan-smithee", "date": "2002-02-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohsr48fcAA40WIoe0p3WsApDZ3e.jpg", "actors": [], "comments": [], "recommandations_id": []}

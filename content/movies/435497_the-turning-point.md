@@ -1,0 +1,1 @@
+{"tmdb_id": 435497, "title": "The Turning Point", "original_title": "The Turning Point", "slug_title": "the-turning-point", "date": "2009-08-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benedict Cumberbatch (Guy Burgess)", "Matthew Marsh (Winston Churchill)"], "comments": [], "recommandations_id": []}

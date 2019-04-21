@@ -1,0 +1,1 @@
+{"tmdb_id": 432596, "title": "Suicide Lover", "original_title": "Suicide Lover", "slug_title": "suicide-lover", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKTFEIKmCPS9IXvPWhPJAJeKdW4.jpg", "actors": [], "comments": [], "recommandations_id": []}

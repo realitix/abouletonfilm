@@ -1,0 +1,1 @@
+{"tmdb_id": 452395, "title": "How to Die in China", "original_title": "How to Die in China", "slug_title": "how-to-die-in-china", "date": "2017-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

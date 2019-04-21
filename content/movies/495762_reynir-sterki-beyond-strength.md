@@ -1,0 +1,1 @@
+{"tmdb_id": 495762, "title": "Reynir Sterki: Beyond Strength", "original_title": "Reynir Sterki: Beyond Strength", "slug_title": "reynir-sterki-beyond-strength", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71RB239LIyKs8MPKPnsW1sx95yk.jpg", "actors": [], "comments": [], "recommandations_id": []}

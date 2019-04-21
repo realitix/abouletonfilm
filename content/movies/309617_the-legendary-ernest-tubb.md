@@ -1,0 +1,1 @@
+{"tmdb_id": 309617, "title": "The Legendary Ernest Tubb", "original_title": "The Legendary Ernest Tubb", "slug_title": "the-legendary-ernest-tubb", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernest Tubb (Himself)"], "comments": [], "recommandations_id": []}

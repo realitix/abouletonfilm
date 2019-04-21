@@ -1,0 +1,1 @@
+{"tmdb_id": 179382, "title": "The Arrival", "original_title": "L'arriv\u00e9e", "slug_title": "the-arrival", "date": "1998-03-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tlJywzPugrG79abtuPKezhnzW1.jpg", "actors": [], "comments": [], "recommandations_id": [121359, 96941, 236224, 239268]}

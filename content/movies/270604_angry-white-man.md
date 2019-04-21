@@ -1,0 +1,1 @@
+{"tmdb_id": 270604, "title": "Angry White Man", "original_title": "Angry White Man", "slug_title": "angry-white-man", "date": "2011-10-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5EI9NOfdW9dQUKWuTZPAZ0lWoK.jpg", "actors": [], "comments": [], "recommandations_id": []}

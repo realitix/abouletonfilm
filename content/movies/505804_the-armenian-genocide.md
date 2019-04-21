@@ -1,0 +1,1 @@
+{"tmdb_id": 505804, "title": "The Armenian Genocide", "original_title": "The Armenian Genocide", "slug_title": "the-armenian-genocide", "date": "2006-02-17", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hksFx9jeqXRpxTvgzAAdtY1NV7s.jpg", "actors": [], "comments": [], "recommandations_id": []}

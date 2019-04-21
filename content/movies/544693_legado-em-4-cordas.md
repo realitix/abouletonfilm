@@ -1,0 +1,1 @@
+{"tmdb_id": 544693, "title": "Legado em 4 Cordas", "original_title": "Legado em 4 Cordas", "slug_title": "legado-em-4-cordas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

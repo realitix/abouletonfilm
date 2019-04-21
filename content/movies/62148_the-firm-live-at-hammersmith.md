@@ -1,0 +1,1 @@
+{"tmdb_id": 62148, "title": "The Firm - Live At Hammersmith", "original_title": "The Firm - Live At Hammersmith", "slug_title": "the-firm-live-at-hammersmith", "date": "1984-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vhEOGyi1aTABjc3JiGPX4LHw7ot.jpg", "actors": [], "comments": [], "recommandations_id": []}

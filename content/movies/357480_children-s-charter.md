@@ -1,0 +1,1 @@
+{"tmdb_id": 357480, "title": "Children's Charter", "original_title": "Children's Charter", "slug_title": "children-s-charter", "date": "1945-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

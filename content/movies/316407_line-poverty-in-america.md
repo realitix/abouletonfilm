@@ -1,0 +1,1 @@
+{"tmdb_id": 316407, "title": "Line: Poverty in America", "original_title": "Line: Poverty in America", "slug_title": "line-poverty-in-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393187, "title": "Une \u00e9toile pour l'exemple", "original_title": "Une \u00e9toile pour l'exemple", "slug_title": "une-etoile-pour-l-exemple", "date": "1988-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOuh0buRXJRMpkMEnT45PA48uuH.jpg", "actors": [], "comments": [], "recommandations_id": []}

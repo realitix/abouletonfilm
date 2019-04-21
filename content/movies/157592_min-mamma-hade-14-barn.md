@@ -1,0 +1,1 @@
+{"tmdb_id": 157592, "title": "Min mamma hade 14 barn", "original_title": "Min mamma hade 14 barn", "slug_title": "min-mamma-hade-14-barn", "date": "2000-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXEmKXmPIDlRMnp0KqfTGBnnvBm.jpg", "actors": [], "comments": [], "recommandations_id": []}

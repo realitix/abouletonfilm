@@ -1,0 +1,1 @@
+{"tmdb_id": 249546, "title": "Meu Compadre Z\u00e9 Keti", "original_title": "Meu Compadre Z\u00e9 Keti", "slug_title": "meu-compadre-ze-keti", "date": "2001-08-20", "genre": "Documentaire / Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xtRsoluUYtiPZci79OJGnKRhzVq.jpg", "actors": [], "comments": [], "recommandations_id": []}

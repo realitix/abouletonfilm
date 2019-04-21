@@ -1,0 +1,1 @@
+{"tmdb_id": 418492, "title": "\ucc9c\uad6d\uc73c\ub85c \uac00\ub294 \uc774\uc0bf\uc9d0", "original_title": "\ucc9c\uad6d\uc73c\ub85c \uac00\ub294 \uc774\uc0bf\uc9d0", "slug_title": "ceongugeuro-ganeun-isasjim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

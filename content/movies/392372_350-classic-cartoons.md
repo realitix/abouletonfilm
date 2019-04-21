@@ -1,0 +1,1 @@
+{"tmdb_id": 392372, "title": "350 Classic Cartoons", "original_title": "350 Classic Cartoons", "slug_title": "350-classic-cartoons", "date": "2008-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNaF2AjbIuL7DaMWGnSqIRHUn4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

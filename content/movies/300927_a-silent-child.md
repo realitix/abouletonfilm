@@ -1,0 +1,1 @@
+{"tmdb_id": 300927, "title": "A Silent Child", "original_title": "Ett tyst barn", "slug_title": "a-silent-child", "date": "2010-05-19", "genre": "Familial / Drame", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHXkb8tgUZ5BvqO3LHV2tdXs99A.jpg", "actors": [], "comments": [], "recommandations_id": [410025, 258781, 353049, 212129]}

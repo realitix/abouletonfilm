@@ -1,0 +1,1 @@
+{"tmdb_id": 446235, "title": "\u0420\u0430\u043a\u0443\u0448\u043a\u0430", "original_title": "\u0420\u0430\u043a\u0443\u0448\u043a\u0430", "slug_title": "rakushka", "date": "1983-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nreHS90yFl28KYOE7YrQ7uEdzG.jpg", "actors": [], "comments": [], "recommandations_id": []}

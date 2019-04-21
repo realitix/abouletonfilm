@@ -1,0 +1,1 @@
+{"tmdb_id": 311294, "title": "Paul Bowles: Half Moon", "original_title": "Paul Bowles: Half Moon", "slug_title": "paul-bowles-half-moon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

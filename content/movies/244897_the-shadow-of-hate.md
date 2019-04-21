@@ -1,0 +1,1 @@
+{"tmdb_id": 244897, "title": "The Shadow of Hate", "original_title": "The Shadow of Hate", "slug_title": "the-shadow-of-hate", "date": "1995-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

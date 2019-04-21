@@ -1,0 +1,1 @@
+{"tmdb_id": 489690, "title": "Mystery of the Tibetan Mummy", "original_title": "Mystery of the Tibetan Mummy", "slug_title": "mystery-of-the-tibetan-mummy", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

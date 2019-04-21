@@ -1,0 +1,1 @@
+{"tmdb_id": 284223, "title": "Half Flame, Half Brine", "original_title": "Yiban shi huoyan, yihan shi haishui", "slug_title": "half-flame-half-brine", "date": "1988-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DHUfJ71pBYXd9gv8DYpcVq6qcu.jpg", "actors": [], "comments": [], "recommandations_id": []}

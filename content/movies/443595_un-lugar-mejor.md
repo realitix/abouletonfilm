@@ -1,0 +1,1 @@
+{"tmdb_id": 443595, "title": "Un lugar mejor", "original_title": "Un lugar mejor", "slug_title": "un-lugar-mejor", "date": "2013-05-04", "genre": "Drame / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94Jz2hAb83iJ1fBaxge4HoG9kOI.jpg", "actors": ["Thimbo Samb (Thimbo)"], "comments": [], "recommandations_id": []}

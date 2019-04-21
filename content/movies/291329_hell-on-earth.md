@@ -1,0 +1,1 @@
+{"tmdb_id": 291329, "title": "Hell on Earth", "original_title": "Hell on Earth", "slug_title": "hell-on-earth", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

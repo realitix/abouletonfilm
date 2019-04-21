@@ -1,0 +1,1 @@
+{"tmdb_id": 532306, "title": "Very Specific Things at Night", "original_title": "Very Specific Things at Night", "slug_title": "very-specific-things-at-night", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

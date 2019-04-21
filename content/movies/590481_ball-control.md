@@ -1,0 +1,1 @@
+{"tmdb_id": 590481, "title": "Ball Control", "original_title": "Ball Control", "slug_title": "ball-control", "date": "2016-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/or9DYxIZfClpGKVtm8Pg7kqAxA.jpg", "actors": [], "comments": [], "recommandations_id": []}

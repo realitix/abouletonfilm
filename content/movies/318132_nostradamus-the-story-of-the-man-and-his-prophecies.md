@@ -1,0 +1,1 @@
+{"tmdb_id": 318132, "title": "Nostradamus: The Story of the Man and His Prophecies", "original_title": "Nostradamus: The Story of the Man and His Prophecies", "slug_title": "nostradamus-the-story-of-the-man-and-his-prophecies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

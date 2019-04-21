@@ -1,0 +1,1 @@
+{"tmdb_id": 506094, "title": "Et Tu, Dude?", "original_title": "Et Tu, Dude?", "slug_title": "et-tu-dude", "date": "2016-11-12", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kywJcRO6fNGt9lDOgaDYDm1zPTa.jpg", "actors": [], "comments": [], "recommandations_id": []}

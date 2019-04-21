@@ -1,0 +1,1 @@
+{"tmdb_id": 397942, "title": "\u0106wiczenie", "original_title": "\u0106wiczenie", "slug_title": "cwiczenie", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pAkUmAOkrZX4zH0fYMDtC3iLpVs.jpg", "actors": [], "comments": [], "recommandations_id": []}

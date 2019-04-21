@@ -1,0 +1,1 @@
+{"tmdb_id": 509437, "title": "Pituitary", "original_title": "Pituitary", "slug_title": "pituitary", "date": "1979-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uldKdusBDIif3p7QkmaX8Nq7q7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

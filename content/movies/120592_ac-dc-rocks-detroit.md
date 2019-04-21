@@ -1,0 +1,1 @@
+{"tmdb_id": 120592, "title": "AC/DC - Rocks Detroit", "original_title": "AC/DC - Rocks Detroit", "slug_title": "ac-dc-rocks-detroit", "date": "1990-11-24", "genre": "Musique", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UdiqMftgnRmODrqSZC7TVkiJC8.jpg", "actors": [], "comments": [], "recommandations_id": []}

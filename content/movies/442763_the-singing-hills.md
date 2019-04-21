@@ -1,0 +1,1 @@
+{"tmdb_id": 442763, "title": "The Singing Hills", "original_title": "The Singing Hills", "slug_title": "the-singing-hills", "date": "1941-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Arthur Johnston Singers ()"], "comments": [], "recommandations_id": []}

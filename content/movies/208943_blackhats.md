@@ -1,0 +1,1 @@
+{"tmdb_id": 208943, "title": "Blackhats", "original_title": "Blackhats", "slug_title": "blackhats", "date": "", "genre": "Action / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sDG3he4hSBT0ErnD7QZSOrxbUN2.jpg", "actors": [], "comments": [], "recommandations_id": []}

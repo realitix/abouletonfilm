@@ -1,0 +1,1 @@
+{"tmdb_id": 236614, "title": "Nutty News", "original_title": "Nutty News", "slug_title": "nutty-news", "date": "1942-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/426Mmapwg6GqAmCMp3jE0UV2Dqy.jpg", "actors": [], "comments": [], "recommandations_id": []}

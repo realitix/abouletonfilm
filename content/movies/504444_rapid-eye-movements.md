@@ -1,0 +1,1 @@
+{"tmdb_id": 504444, "title": "Rapid Eye Movements", "original_title": "Rapid Eye Movements", "slug_title": "rapid-eye-movements", "date": "1977-10-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxkqLljJSjTQauuVRDM4XrkDEKa.jpg", "actors": [], "comments": [], "recommandations_id": []}

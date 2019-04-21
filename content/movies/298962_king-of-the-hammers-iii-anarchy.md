@@ -1,0 +1,1 @@
+{"tmdb_id": 298962, "title": "King of the Hammers III - Anarchy", "original_title": "King of the Hammers III - Anarchy", "slug_title": "king-of-the-hammers-iii-anarchy", "date": "2010-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

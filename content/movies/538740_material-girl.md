@@ -1,0 +1,1 @@
+{"tmdb_id": 538740, "title": "Material Girl", "original_title": "Material Girl", "slug_title": "material-girl", "date": "1986-07-28", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shanna McCullough ()", "Nina Hartley ()", "Angel Kelly ()", "Joey Silvera ()", "Jerry Butler ()"], "comments": [], "recommandations_id": []}

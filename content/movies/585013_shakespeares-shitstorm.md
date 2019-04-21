@@ -1,0 +1,1 @@
+{"tmdb_id": 585013, "title": "Shakespeare\u2019s Shitstorm", "original_title": "Shakespeare\u2019s Shitstorm", "slug_title": "shakespeares-shitstorm", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

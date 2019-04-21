@@ -1,0 +1,1 @@
+{"tmdb_id": 547614, "title": "The Drummer", "original_title": "The Drummer", "slug_title": "the-drummer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

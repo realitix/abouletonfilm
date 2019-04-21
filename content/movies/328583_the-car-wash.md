@@ -1,0 +1,1 @@
+{"tmdb_id": 328583, "title": "The Car Wash", "original_title": "The Car Wash", "slug_title": "the-car-wash", "date": "2010-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

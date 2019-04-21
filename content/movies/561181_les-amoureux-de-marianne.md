@@ -1,0 +1,1 @@
+{"tmdb_id": 561181, "title": "Les amoureux de Marianne", "original_title": "Les amoureux de Marianne", "slug_title": "les-amoureux-de-marianne", "date": "1954-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmn8mKisD80hjmfHrbyn5aKzh9D.jpg", "actors": [], "comments": [], "recommandations_id": []}

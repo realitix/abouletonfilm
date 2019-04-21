@@ -1,0 +1,1 @@
+{"tmdb_id": 571120, "title": "A Deal Made in a Turkish Bath", "original_title": "A Deal Made in a Turkish Bath", "slug_title": "a-deal-made-in-a-turkish-bath", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Oph\u00fcls ()"], "comments": [], "recommandations_id": []}

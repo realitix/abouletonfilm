@@ -1,0 +1,1 @@
+{"tmdb_id": 515932, "title": "Double Take: The Art of Elizabeth King", "original_title": "Double Take: The Art of Elizabeth King", "slug_title": "double-take-the-art-of-elizabeth-king", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olympia Stone (Director)"], "comments": [], "recommandations_id": []}

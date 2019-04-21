@@ -1,0 +1,1 @@
+{"tmdb_id": 418398, "title": "The Wars", "original_title": "The Wars", "slug_title": "the-wars", "date": "2006-09-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khH6HcZruhKVZ6WG4fWnBRvs9YX.jpg", "actors": [], "comments": [], "recommandations_id": []}

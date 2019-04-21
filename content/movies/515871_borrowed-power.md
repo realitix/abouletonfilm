@@ -1,0 +1,1 @@
+{"tmdb_id": 515871, "title": "Borrowed Power", "original_title": "Borrowed Power", "slug_title": "borrowed-power", "date": "1951-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

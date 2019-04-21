@@ -1,0 +1,1 @@
+{"tmdb_id": 460163, "title": "Femmes enrag\u00e9es", "original_title": "Femmes enrag\u00e9es", "slug_title": "femmes-enragees", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "Film avec Vincent Cassel", "image": "/img/default-cover.png", "actors": ["Vincent Cassel (Vincent)"], "comments": [], "recommandations_id": []}

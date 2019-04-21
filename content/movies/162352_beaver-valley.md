@@ -1,0 +1,1 @@
+{"tmdb_id": 162352, "title": "Beaver Valley", "original_title": "Beaver Valley", "slug_title": "beaver-valley", "date": "1950-07-19", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWONEVcdvFxWnAlD0gTVvHom8MJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

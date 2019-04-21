@@ -1,0 +1,1 @@
+{"tmdb_id": 468480, "title": "Making Weekend of Summer Last", "original_title": "Making Weekend of Summer Last", "slug_title": "making-weekend-of-summer-last", "date": "1980-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vv5pq2qV7nb7tVvP9O2U9pdKm53.jpg", "actors": [], "comments": [], "recommandations_id": []}

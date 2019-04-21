@@ -1,0 +1,1 @@
+{"tmdb_id": 68830, "title": "No More Mr. Nice Guy", "original_title": "No More Mr. Nice Guy", "slug_title": "no-more-mr-nice-guy", "date": "1995-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIfYbwPeT5tLt8dSiiTwD5SROPv.jpg", "actors": ["Justin Foran (Narrator)"], "comments": [], "recommandations_id": []}

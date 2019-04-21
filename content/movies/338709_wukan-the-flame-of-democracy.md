@@ -1,0 +1,1 @@
+{"tmdb_id": 338709, "title": "Wukan: The Flame of Democracy", "original_title": "Wukan: Minzu zhi guang", "slug_title": "wukan-the-flame-of-democracy", "date": "2013-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520108, "title": "La ilustre fregona", "original_title": "La ilustre fregona", "slug_title": "la-ilustre-fregona", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

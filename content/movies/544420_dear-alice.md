@@ -1,0 +1,1 @@
+{"tmdb_id": 544420, "title": "Dear Alice", "original_title": "Dear Alice", "slug_title": "dear-alice", "date": "2018-04-21", "genre": "Animation / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vcAVjmPx7cpiGujbmCdGgvY9Zto.jpg", "actors": [], "comments": [], "recommandations_id": []}

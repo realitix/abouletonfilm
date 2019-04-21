@@ -1,0 +1,1 @@
+{"tmdb_id": 177606, "title": "The Police Live In Brazil", "original_title": "The Police Live In Brazil", "slug_title": "the-police-live-in-brazil", "date": "2008-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wu36zq0JeEx9Yt1edYyWceHi8F.jpg", "actors": [], "comments": [], "recommandations_id": []}

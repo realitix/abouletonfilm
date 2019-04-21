@@ -1,0 +1,1 @@
+{"tmdb_id": 255683, "title": "Nova: The Science of Murder", "original_title": "Nova: The Science of Murder", "slug_title": "nova-the-science-of-murder", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

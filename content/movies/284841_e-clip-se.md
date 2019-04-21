@@ -1,0 +1,1 @@
+{"tmdb_id": 284841, "title": "E-clip-se", "original_title": "E-clip-se", "slug_title": "e-clip-se", "date": "1999-09-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIGBq2NqQoPEa4pfjDSDex9ZNs9.jpg", "actors": [], "comments": [], "recommandations_id": []}

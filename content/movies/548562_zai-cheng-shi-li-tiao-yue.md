@@ -1,0 +1,1 @@
+{"tmdb_id": 548562, "title": "\u5728\u57ce\u5e02\u91cc\u8df3\u8dc3", "original_title": "\u5728\u57ce\u5e02\u91cc\u8df3\u8dc3", "slug_title": "zai-cheng-shi-li-tiao-yue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

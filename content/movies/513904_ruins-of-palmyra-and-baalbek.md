@@ -1,0 +1,1 @@
+{"tmdb_id": 513904, "title": "Ruins of Palmyra and Baalbek", "original_title": "Ruins of Palmyra and Baalbek", "slug_title": "ruins-of-palmyra-and-baalbek", "date": "1938-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

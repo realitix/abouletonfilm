@@ -1,0 +1,1 @@
+{"tmdb_id": 282651, "title": "Max & Ruby - Fireman Max", "original_title": "Max & Ruby - Fireman Max", "slug_title": "max-ruby-fireman-max", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

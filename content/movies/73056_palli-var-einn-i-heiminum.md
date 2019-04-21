@@ -1,0 +1,1 @@
+{"tmdb_id": 73056, "title": "Palli var einn \u00ed heiminum", "original_title": "Palli var einn \u00ed heiminum", "slug_title": "palli-var-einn-i-heiminum", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3nH6UmxT7Llpu65qxmUkjIzl5H.jpg", "actors": [], "comments": [], "recommandations_id": []}

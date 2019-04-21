@@ -1,0 +1,1 @@
+{"tmdb_id": 428959, "title": "Their Slogan is \"Work or Fight\"", "original_title": "Their Slogan is \"Work or Fight\"", "slug_title": "their-slogan-is-work-or-fight", "date": "1918-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

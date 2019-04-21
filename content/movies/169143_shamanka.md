@@ -1,0 +1,1 @@
+{"tmdb_id": 169143, "title": "\u0428\u0430\u043c\u0430\u043d\u043a\u0430", "original_title": "\u0428\u0430\u043c\u0430\u043d\u043a\u0430", "slug_title": "shamanka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gH4QXrU9TCEQvqiywItmZhnv2TX.jpg", "actors": [], "comments": [], "recommandations_id": []}

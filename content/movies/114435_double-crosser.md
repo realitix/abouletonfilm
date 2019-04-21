@@ -1,0 +1,1 @@
+{"tmdb_id": 114435, "title": "Double Crosser", "original_title": "Double Crosser", "slug_title": "double-crosser", "date": "1990-01-01", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qFBPmSt9l5jAPqpViADnaZHJXKG.jpg", "actors": ["Peter O'Brian (Jack)"], "comments": [], "recommandations_id": []}

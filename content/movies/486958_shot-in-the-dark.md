@@ -1,0 +1,1 @@
+{"tmdb_id": 486958, "title": "Shot in the Dark", "original_title": "Shot in the Dark", "slug_title": "shot-in-the-dark", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ovud9RPcx7RnhA1KJgRHLI2azHV.jpg", "actors": [], "comments": [], "recommandations_id": []}

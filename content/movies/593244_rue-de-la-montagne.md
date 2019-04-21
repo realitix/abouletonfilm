@@ -1,0 +1,1 @@
+{"tmdb_id": 593244, "title": "Rue De La Montagne", "original_title": "Rue De La Montagne", "slug_title": "rue-de-la-montagne", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

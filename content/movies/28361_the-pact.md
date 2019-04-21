@@ -1,0 +1,1 @@
+{"tmdb_id": 28361, "title": "The Pact", "original_title": "The Pact", "slug_title": "the-pact", "date": "2008-07-01", "genre": "Action / Aventure / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/OqGkx7uSd1WkzePomOmDpFbqAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

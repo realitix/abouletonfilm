@@ -1,0 +1,1 @@
+{"tmdb_id": 382266, "title": "MeatBrains", "original_title": "MeatBrains", "slug_title": "meatbrains", "date": "2014-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDduiPUpRf3REdpBttCwLRz3wbt.jpg", "actors": [], "comments": [], "recommandations_id": []}

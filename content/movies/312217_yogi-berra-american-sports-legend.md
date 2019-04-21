@@ -1,0 +1,1 @@
+{"tmdb_id": 312217, "title": "Yogi Berra: American Sports Legend", "original_title": "Yogi Berra: American Sports Legend", "slug_title": "yogi-berra-american-sports-legend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWI3kNRT0dpfpshwqal1PKWmK6f.jpg", "actors": [], "comments": [], "recommandations_id": []}

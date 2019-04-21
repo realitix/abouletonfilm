@@ -1,0 +1,1 @@
+{"tmdb_id": 553321, "title": "We're Going the Same Way", "original_title": "We're Going the Same Way", "slug_title": "we-re-going-the-same-way", "date": "2018-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJmC7xurdc4q6Y1SJi4i34KSuhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

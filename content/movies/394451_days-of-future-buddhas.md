@@ -1,0 +1,1 @@
+{"tmdb_id": 394451, "title": "Days of Future Buddhas", "original_title": "\u0414\u043d\u0438 \u0431\u0443\u0434\u0443\u0449\u0438\u0445 \u0431\u0443\u0434\u0434", "slug_title": "days-of-future-buddhas", "date": "2016-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 85096, "title": "Prayer for a Perfect Season", "original_title": "Prayer for a Perfect Season", "slug_title": "prayer-for-a-perfect-season", "date": "2011-10-25", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmK91YfaDiqGexwtvXVJfX3nna8.jpg", "actors": [], "comments": [], "recommandations_id": []}

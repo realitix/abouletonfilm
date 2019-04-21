@@ -1,0 +1,1 @@
+{"tmdb_id": 501025, "title": "Today Is 11th June 1993", "original_title": "Today Is 11th June 1993", "slug_title": "today-is-11th-june-1993", "date": "2017-12-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25er4oMR9GL4gYg3Ivx2H1oXBxg.jpg", "actors": [], "comments": [], "recommandations_id": []}

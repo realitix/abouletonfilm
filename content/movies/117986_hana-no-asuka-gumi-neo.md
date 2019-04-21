@@ -1,0 +1,1 @@
+{"tmdb_id": 117986, "title": "Hana no Asuka gumi: Neo!", "original_title": "Hana no Asuka gumi: Neo!", "slug_title": "hana-no-asuka-gumi-neo", "date": "2009-04-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUkh75hTUWKfPIMOdImxyvbBovU.jpg", "actors": [], "comments": [], "recommandations_id": []}

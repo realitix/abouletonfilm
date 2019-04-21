@@ -1,0 +1,1 @@
+{"tmdb_id": 314504, "title": "Love Marriage in Kabul", "original_title": "Love Marriage in Kabul", "slug_title": "love-marriage-in-kabul", "date": "2014-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzmuIAusorPOuKwqGRBRe7m8aXL.jpg", "actors": [], "comments": [], "recommandations_id": []}

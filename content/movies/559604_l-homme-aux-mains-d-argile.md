@@ -1,0 +1,1 @@
+{"tmdb_id": 559604, "title": "L'homme aux mains d'argile", "original_title": "L'homme aux mains d'argile", "slug_title": "l-homme-aux-mains-d-argile", "date": "1949-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j53HAQRZ6azk6AthOlSKTE7dvTi.jpg", "actors": [], "comments": [], "recommandations_id": []}

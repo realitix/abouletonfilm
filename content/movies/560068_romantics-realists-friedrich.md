@@ -1,0 +1,1 @@
+{"tmdb_id": 560068, "title": "Romantics & Realists: Friedrich", "original_title": "Romantics & Realists: Friedrich", "slug_title": "romantics-realists-friedrich", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rSzou9BpGoTExlnRcEtLuxCMNpF.jpg", "actors": [], "comments": [], "recommandations_id": []}

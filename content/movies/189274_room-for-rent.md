@@ -1,0 +1,1 @@
+{"tmdb_id": 189274, "title": "Room for Rent", "original_title": "Room for Rent", "slug_title": "room-for-rent", "date": "2011-04-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

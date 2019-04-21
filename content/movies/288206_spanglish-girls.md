@@ -1,0 +1,1 @@
+{"tmdb_id": 288206, "title": "Spanglish Girls", "original_title": "Spanglish Girls", "slug_title": "spanglish-girls", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

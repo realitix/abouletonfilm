@@ -1,0 +1,1 @@
+{"tmdb_id": 585780, "title": "A Great Day in Paris", "original_title": "A Great Day in Paris", "slug_title": "a-great-day-in-paris", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

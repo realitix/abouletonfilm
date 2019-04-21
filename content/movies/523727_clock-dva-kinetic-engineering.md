@@ -1,0 +1,1 @@
+{"tmdb_id": 523727, "title": "Clock DVA: Kinetic Engineering", "original_title": "Clock DVA: Kinetic Engineering", "slug_title": "clock-dva-kinetic-engineering", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrcNHkt7DXC0rBzLZEEcrVXDKO5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 126010, "title": "City Lounge New York", "original_title": "City Lounge New York", "slug_title": "city-lounge-new-york", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zh9iKXmA1QxdfNVLsCUiDwUhQcI.jpg", "actors": [], "comments": [], "recommandations_id": []}

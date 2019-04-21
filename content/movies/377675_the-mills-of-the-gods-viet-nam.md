@@ -1,0 +1,1 @@
+{"tmdb_id": 377675, "title": "The Mills of the Gods: Viet Nam", "original_title": "The Mills of the Gods: Viet Nam", "slug_title": "the-mills-of-the-gods-viet-nam", "date": "1965-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1pIOQ8ZL03IBeyBGhfUxZmiUZK.jpg", "actors": [], "comments": [], "recommandations_id": []}

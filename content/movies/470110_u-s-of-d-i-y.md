@@ -1,0 +1,1 @@
+{"tmdb_id": 470110, "title": "U.S of D.I.Y", "original_title": "U.S of D.I.Y", "slug_title": "u-s-of-d-i-y", "date": "2012-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x69zxW5H8QFfv2gnkSGOf2RdHlm.jpg", "actors": [], "comments": [], "recommandations_id": []}

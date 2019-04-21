@@ -1,0 +1,1 @@
+{"tmdb_id": 121749, "title": "Is It Easy to Be Young?", "original_title": "Vai viegli b\u016bt jaunam?", "slug_title": "is-it-easy-to-be-young", "date": "1986-06-06", "genre": "Documentaire", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nuuqk7vMj84NYyghU2u8cE9bhk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276214, "title": "Television: The First 50 Years", "original_title": "Television: The First 50 Years", "slug_title": "television-the-first-50-years", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RHmfU1ZSxWwGKdejjDOOGt9R98.jpg", "actors": [], "comments": [], "recommandations_id": []}

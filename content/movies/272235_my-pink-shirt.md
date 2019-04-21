@@ -1,0 +1,1 @@
+{"tmdb_id": 272235, "title": "My Pink Shirt", "original_title": "My Pink Shirt", "slug_title": "my-pink-shirt", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

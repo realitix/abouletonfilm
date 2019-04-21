@@ -1,0 +1,1 @@
+{"tmdb_id": 311897, "title": "Broadway Theatre Archive: Double Solitaire", "original_title": "Broadway Theatre Archive: Double Solitaire", "slug_title": "broadway-theatre-archive-double-solitaire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

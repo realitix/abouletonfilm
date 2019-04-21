@@ -1,0 +1,1 @@
+{"tmdb_id": 566738, "title": "Late Afternoon of the Living Dead", "original_title": "Late Afternoon of the Living Dead", "slug_title": "late-afternoon-of-the-living-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330668, "title": "Love and Youth", "original_title": "El hawae wa el chabab", "slug_title": "love-and-youth", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fatheya Chahine ()", "Mahmood Shukukoo ()", "Laila Mourad ()"], "comments": [], "recommandations_id": []}

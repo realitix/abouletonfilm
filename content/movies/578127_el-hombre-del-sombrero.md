@@ -1,0 +1,1 @@
+{"tmdb_id": 578127, "title": "El Hombre del Sombrero", "original_title": "El Hombre del Sombrero", "slug_title": "el-hombre-del-sombrero", "date": "1997-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4Bw6Iu8LdLR5Ud5pq9JoaWVueK.jpg", "actors": [], "comments": [], "recommandations_id": []}

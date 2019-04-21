@@ -1,0 +1,1 @@
+{"tmdb_id": 88542, "title": "Ka Tev klajas, Rudolf Ming?", "original_title": "Ka Tev klajas, Rudolf Ming?", "slug_title": "ka-tev-klajas-rudolf-ming", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eK9owEMzaDIEdQCavs6Zo9e2UnD.jpg", "actors": [], "comments": [], "recommandations_id": []}

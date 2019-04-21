@@ -1,0 +1,1 @@
+{"tmdb_id": 227574, "title": "Capture the Flag", "original_title": "Capture the Flag", "slug_title": "capture-the-flag", "date": "2007-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkxhmmi6yk28TIN1BZt2IaPCd7D.jpg", "actors": [], "comments": [], "recommandations_id": []}

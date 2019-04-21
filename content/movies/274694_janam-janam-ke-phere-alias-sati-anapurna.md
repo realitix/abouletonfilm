@@ -1,0 +1,1 @@
+{"tmdb_id": 274694, "title": "Janam Janam Ke Phere: Alias Sati Anapurna", "original_title": "Janam Janam Ke Phere: Alias Sati Anapurna", "slug_title": "janam-janam-ke-phere-alias-sati-anapurna", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

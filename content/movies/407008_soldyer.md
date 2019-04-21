@@ -1,0 +1,1 @@
+{"tmdb_id": 407008, "title": "Soldyer!", "original_title": "Soldyer!", "slug_title": "soldyer", "date": "1986-08-27", "genre": "Action / Com\u00e9die / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marilou Bendigo ()", "Pia Moran ()", "Pugak ()", "Redford White ()"], "comments": [], "recommandations_id": []}

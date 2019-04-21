@@ -1,0 +1,1 @@
+{"tmdb_id": 416973, "title": "\ub9c8\uc9c0\ub9c9 \uc5ec\ub984", "original_title": "\ub9c8\uc9c0\ub9c9 \uc5ec\ub984", "slug_title": "majimag-yeoreum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

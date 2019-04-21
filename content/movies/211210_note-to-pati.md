@@ -1,0 +1,1 @@
+{"tmdb_id": 211210, "title": "Note to Pati", "original_title": "Note to Pati", "slug_title": "note-to-pati", "date": "1969-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pr5Fz4ygHNM12mpCHWBaSvsz8g2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349719, "title": "\uc815\uc5fc\uc758 \uac08\ub9e4\uae30", "original_title": "\uc815\uc5fc\uc758 \uac08\ub9e4\uae30", "slug_title": "jeongyeomyi-galmaegi", "date": "1984-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

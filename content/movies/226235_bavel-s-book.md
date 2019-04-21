@@ -1,0 +1,1 @@
+{"tmdb_id": 226235, "title": "Bavel's Book", "original_title": "Babel no hon", "slug_title": "bavel-s-book", "date": "1996-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4DIRB5dQHdxlLCzryw6g0fPtfF.jpg", "actors": [], "comments": [], "recommandations_id": []}

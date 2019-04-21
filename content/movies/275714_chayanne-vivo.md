@@ -1,0 +1,1 @@
+{"tmdb_id": 275714, "title": "Chayanne: Vivo", "original_title": "Chayanne: Vivo", "slug_title": "chayanne-vivo", "date": "2008-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

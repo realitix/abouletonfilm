@@ -1,0 +1,1 @@
+{"tmdb_id": 152590, "title": "Un futuro Sostenibile", "original_title": "Un futuro Sostenibile", "slug_title": "un-futuro-sostenibile", "date": "1999-04-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beppe Grillo (Beppe Grillo)"], "comments": [], "recommandations_id": []}

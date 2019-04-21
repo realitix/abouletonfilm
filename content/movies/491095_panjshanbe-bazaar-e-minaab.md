@@ -1,0 +1,1 @@
+{"tmdb_id": 491095, "title": "Panjshanbe Bazaar-e Minaab", "original_title": "Panjshanbe Bazaar-e Minaab", "slug_title": "panjshanbe-bazaar-e-minaab", "date": "1968-12-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfIfVtiVUb5ckwpMhkB5JQygeyp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528596, "title": "Lone Star", "original_title": "Lone Star", "slug_title": "lone-star", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pgYT6wUs8bQ6cxTb4XBuTPuIOrl.jpg", "actors": [], "comments": [], "recommandations_id": []}

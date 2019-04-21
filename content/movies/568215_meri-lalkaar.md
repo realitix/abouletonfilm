@@ -1,0 +1,1 @@
+{"tmdb_id": 568215, "title": "Meri Lalkaar", "original_title": "Meri Lalkaar", "slug_title": "meri-lalkaar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

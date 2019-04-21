@@ -1,0 +1,1 @@
+{"tmdb_id": 508374, "title": "Darkskin Manson", "original_title": "Darkskin Manson", "slug_title": "darkskin-manson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

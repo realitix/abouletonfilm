@@ -1,0 +1,1 @@
+{"tmdb_id": 130838, "title": "Valse Triste", "original_title": "Valse Triste", "slug_title": "valse-triste", "date": "1977-06-01", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fsLJMk1dPfzr5qXd3IRSmZRxpX6.jpg", "actors": [], "comments": [], "recommandations_id": [154818, 163102, 212097, 163066]}

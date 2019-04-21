@@ -1,0 +1,1 @@
+{"tmdb_id": 572519, "title": "Rural Heat", "original_title": "Rural Heat", "slug_title": "rural-heat", "date": "1997-06-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uHTZOdcEPlgIY40VGROHfkakxAF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 308726, "title": "A Day in the Life", "original_title": "A Day in the Life", "slug_title": "a-day-in-the-life", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408777, "title": "Hachazos", "original_title": "Hachazos", "slug_title": "hachazos", "date": "2011-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ud4qDLoqU9IuqEk1vTWv7PsAACO.jpg", "actors": [], "comments": [], "recommandations_id": []}

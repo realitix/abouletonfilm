@@ -1,0 +1,1 @@
+{"tmdb_id": 59548, "title": "Mertvyj, zhyvoj, opasnyj", "original_title": "Mertvyj, zhyvoj, opasnyj", "slug_title": "mertvyj-zhyvoj-opasnyj", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSu5RTosZ3wP8Y3dcwIuR5Gwz7a.jpg", "actors": [], "comments": [], "recommandations_id": []}

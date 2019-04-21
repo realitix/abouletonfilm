@@ -1,0 +1,1 @@
+{"tmdb_id": 350378, "title": "\ub2ec\uc544\ub09c \ub9d0", "original_title": "\ub2ec\uc544\ub09c \ub9d0", "slug_title": "dalanan-mal", "date": "1989-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

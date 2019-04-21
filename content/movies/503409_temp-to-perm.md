@@ -1,0 +1,1 @@
+{"tmdb_id": 503409, "title": "Temp-To-Perm", "original_title": "Temp-To-Perm", "slug_title": "temp-to-perm", "date": "2017-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lSirBSWLIVFzMJXRuUF1YYKnLmb.jpg", "actors": [], "comments": [], "recommandations_id": []}

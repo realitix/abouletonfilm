@@ -1,0 +1,1 @@
+{"tmdb_id": 45903, "title": "Punk Generation", "original_title": "Punk Generation", "slug_title": "punk-generation", "date": "2002-07-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9pvSzRKNC9bcO6EoqvteF3ax0QT.jpg", "actors": [], "comments": [], "recommandations_id": []}

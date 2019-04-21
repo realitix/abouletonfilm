@@ -1,0 +1,1 @@
+{"tmdb_id": 320339, "title": "American Weightlifting", "original_title": "American Weightlifting", "slug_title": "american-weightlifting", "date": "2013-11-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XYsSwKuyD4rA8dC7Khf7TqXjiG.jpg", "actors": [], "comments": [], "recommandations_id": []}

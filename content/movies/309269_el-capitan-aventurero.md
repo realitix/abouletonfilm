@@ -1,0 +1,1 @@
+{"tmdb_id": 309269, "title": "El Capitan Aventurero", "original_title": "El Capitan Aventurero", "slug_title": "el-capitan-aventurero", "date": "1939-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9OB1aUsfOlehTLZh5nJqoDEkAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

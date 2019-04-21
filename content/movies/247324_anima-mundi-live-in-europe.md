@@ -1,0 +1,1 @@
+{"tmdb_id": 247324, "title": "Anima Mundi: Live in Europe", "original_title": "Anima Mundi: Live in Europe", "slug_title": "anima-mundi-live-in-europe", "date": "2011-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dAizM4c6YWGAZnZHty6K6dv3BA.jpg", "actors": [], "comments": [], "recommandations_id": []}

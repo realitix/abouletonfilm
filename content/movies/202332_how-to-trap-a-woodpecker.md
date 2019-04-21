@@ -1,0 +1,1 @@
+{"tmdb_id": 202332, "title": "How to Trap a Woodpecker", "original_title": "How to Trap a Woodpecker", "slug_title": "how-to-trap-a-woodpecker", "date": "1971-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbwzAakVpu2VJnCg4nyvjYiy3Gl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 86255, "title": "Nerd Boy", "original_title": "Nerd Boy", "slug_title": "nerd-boy", "date": "2008-03-11", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bd4ni4cb0i5wS28AhPvXJqeXuAt.jpg", "actors": [], "comments": [], "recommandations_id": []}

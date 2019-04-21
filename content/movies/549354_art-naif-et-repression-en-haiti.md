@@ -1,0 +1,1 @@
+{"tmdb_id": 549354, "title": "Art na\u00eff et r\u00e9pression en Ha\u00efti", "original_title": "Art na\u00eff et r\u00e9pression en Ha\u00efti", "slug_title": "art-naif-et-repression-en-haiti", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559194, "title": "The Magnificent Cuckold", "original_title": "Le cocu magnifique", "slug_title": "the-magnificent-cuckold", "date": "1947-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Kqql3NdXs8i7FrCvxXUFYu4NXb.jpg", "actors": [], "comments": [], "recommandations_id": []}

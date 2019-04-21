@@ -1,0 +1,1 @@
+{"tmdb_id": 330216, "title": "Desert of June", "original_title": "Desert of June", "slug_title": "desert-of-june", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sejJk3jfILrGbuZ008yuOxVKcqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

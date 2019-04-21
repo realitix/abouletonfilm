@@ -1,0 +1,1 @@
+{"tmdb_id": 514047, "title": "Fireman Save My Child", "original_title": "Fireman Save My Child", "slug_title": "fireman-save-my-child", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Spike Jones ()", "Hugh O'Brian ()", "Buddy Hackett ()"], "comments": [], "recommandations_id": []}

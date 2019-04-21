@@ -1,0 +1,1 @@
+{"tmdb_id": 347573, "title": "Sutradhar", "original_title": "Sutradhar", "slug_title": "sutradhar", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

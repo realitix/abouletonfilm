@@ -1,0 +1,1 @@
+{"tmdb_id": 588230, "title": "The Case of Mr. Lynn", "original_title": "The Case of Mr. Lynn", "slug_title": "the-case-of-mr-lynn", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

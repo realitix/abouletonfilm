@@ -1,0 +1,1 @@
+{"tmdb_id": 420926, "title": "What's left is wind", "original_title": "What's left is wind", "slug_title": "what-s-left-is-wind", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpMqjpMjCMhezIpk2RNYlsJAGJe.jpg", "actors": [], "comments": [], "recommandations_id": []}

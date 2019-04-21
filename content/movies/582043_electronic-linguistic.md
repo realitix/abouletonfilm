@@ -1,0 +1,1 @@
+{"tmdb_id": 582043, "title": "Electronic Linguistic", "original_title": "Electronic Linguistic", "slug_title": "electronic-linguistic", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKj5dV9L0Q5n84m3qDlvsseJsiz.jpg", "actors": [], "comments": [], "recommandations_id": []}

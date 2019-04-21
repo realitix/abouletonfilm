@@ -1,0 +1,1 @@
+{"tmdb_id": 524990, "title": "Manchester Bomb: Our Story", "original_title": "Manchester Bomb: Our Story", "slug_title": "manchester-bomb-our-story", "date": "2018-05-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dN6iJsmu4UQsVtP2vnWDf5k6PK1.jpg", "actors": [], "comments": [], "recommandations_id": []}

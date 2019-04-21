@@ -1,0 +1,1 @@
+{"tmdb_id": 326946, "title": "Tell Me Who I Am: The Journey Begins", "original_title": "Tell Me Who I Am: The Journey Begins", "slug_title": "tell-me-who-i-am-the-journey-begins", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

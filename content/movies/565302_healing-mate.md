@@ -1,0 +1,1 @@
+{"tmdb_id": 565302, "title": "Healing Mate", "original_title": "Healing Mate", "slug_title": "healing-mate", "date": "2014-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlfE5e8fgMyw9wWDZZATBHceKBl.jpg", "actors": [], "comments": [], "recommandations_id": []}

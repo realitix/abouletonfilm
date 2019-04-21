@@ -1,0 +1,1 @@
+{"tmdb_id": 148977, "title": "Savage Spirit", "original_title": "Savage Spirit", "slug_title": "savage-spirit", "date": "2006-02-03", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FvYfpcRtnkMt3ETYFjng1vdscw.jpg", "actors": [], "comments": [], "recommandations_id": []}

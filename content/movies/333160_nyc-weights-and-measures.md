@@ -1,0 +1,1 @@
+{"tmdb_id": 333160, "title": "NYC Weights and Measures", "original_title": "NYC Weights and Measures", "slug_title": "nyc-weights-and-measures", "date": "2018-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4971xsF9YWI2hNKDbB9TIARUDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

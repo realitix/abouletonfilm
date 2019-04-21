@@ -1,0 +1,1 @@
+{"tmdb_id": 254110, "title": "Wealth of a Nation", "original_title": "Wealth of a Nation", "slug_title": "wealth-of-a-nation", "date": "1938-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Watt (Commentator)"], "comments": [], "recommandations_id": []}

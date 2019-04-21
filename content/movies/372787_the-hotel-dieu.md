@@ -1,0 +1,1 @@
+{"tmdb_id": 372787, "title": "The Hotel Dieu", "original_title": "The Hotel Dieu", "slug_title": "the-hotel-dieu", "date": "2016-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mw2tJufSSMK94CE4VsaKd3lb9QV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 494996, "title": "Francesca", "original_title": "Francesca", "slug_title": "francesca", "date": "1987-06-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth Drexel ()", "Marianne Hoppe ()", "Bernhard Minetti ()", "Dorothea Neff ()"], "comments": [], "recommandations_id": []}

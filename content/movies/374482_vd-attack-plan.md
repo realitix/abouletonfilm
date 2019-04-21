@@ -1,0 +1,1 @@
+{"tmdb_id": 374482, "title": "VD Attack Plan", "original_title": "VD Attack Plan", "slug_title": "vd-attack-plan", "date": "1973-01-01", "genre": "Animation", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mY5H7GpMIlvMItzgB2j92iqO32T.jpg", "actors": ["Keenan Wynn (Narrator)"], "comments": [], "recommandations_id": []}

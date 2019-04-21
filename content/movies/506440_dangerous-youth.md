@@ -1,0 +1,1 @@
+{"tmdb_id": 506440, "title": "Dangerous Youth", "original_title": "\u5371\u96aa\u7684\u9752\u6625", "slug_title": "dangerous-youth", "date": "1969-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shih Ying (Kueiyuan)", "Zheng Xiaofen (Qingmei)"], "comments": [], "recommandations_id": []}

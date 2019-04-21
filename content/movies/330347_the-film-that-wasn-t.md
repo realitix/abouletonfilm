@@ -1,0 +1,1 @@
+{"tmdb_id": 330347, "title": "The Film that Wasn't", "original_title": "Ha'seret Shelo Haya", "slug_title": "the-film-that-wasn-t", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 551923, "title": "Sanatorio Express", "original_title": "Sanatorio Express", "slug_title": "sanatorio-express", "date": "2018-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johanna Rusanen ()", "P\u00e4ivi Nisula ()", "Hannu Niemel\u00e4 ()", "Markus Nyk\u00e4nen ()"], "comments": [], "recommandations_id": []}

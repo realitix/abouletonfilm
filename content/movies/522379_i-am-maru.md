@@ -1,0 +1,1 @@
+{"tmdb_id": 522379, "title": "I Am Maru", "original_title": "\u307e\u308b\u3067\u3059", "slug_title": "i-am-maru", "date": "2009-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rwkpaEFUo8IvsIwOH23bBQVIV5b.jpg", "actors": ["Maru The Cat (Himself)"], "comments": [], "recommandations_id": []}

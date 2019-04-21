@@ -1,0 +1,1 @@
+{"tmdb_id": 347494, "title": "Real Hustla", "original_title": "Real Hustla", "slug_title": "real-hustla", "date": "2003-08-27", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjXBuA0NTKShYnd0UgWh4yUI6KP.jpg", "actors": [], "comments": [], "recommandations_id": []}

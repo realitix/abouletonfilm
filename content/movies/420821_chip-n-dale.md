@@ -1,0 +1,1 @@
+{"tmdb_id": 420821, "title": "Chip 'n' Dale", "original_title": "Chip 'n' Dale", "slug_title": "chip-n-dale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

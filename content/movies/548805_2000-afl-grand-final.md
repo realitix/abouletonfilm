@@ -1,0 +1,1 @@
+{"tmdb_id": 548805, "title": "2000 AFL Grand Final", "original_title": "2000 AFL Grand Final", "slug_title": "2000-afl-grand-final", "date": "2000-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awRRezMvjMB1RccxSSxIATntr9f.jpg", "actors": [], "comments": [], "recommandations_id": []}

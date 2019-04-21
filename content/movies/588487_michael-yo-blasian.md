@@ -1,0 +1,1 @@
+{"tmdb_id": 588487, "title": "Michael Yo: Blasian", "original_title": "Michael Yo: Blasian", "slug_title": "michael-yo-blasian", "date": "2018-11-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2X6cpsGS95WFgTVmGtGBfe28M6s.jpg", "actors": ["Michael Yo (Himself)"], "comments": [], "recommandations_id": []}

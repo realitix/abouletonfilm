@@ -1,0 +1,1 @@
+{"tmdb_id": 321854, "title": "Who the F Is Buddy Applebaum", "original_title": "Who the F Is Buddy Applebaum", "slug_title": "who-the-f-is-buddy-applebaum", "date": "2013-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

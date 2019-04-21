@@ -1,0 +1,1 @@
+{"tmdb_id": 292007, "title": "Mystery of the Sacred Shroud", "original_title": "Mystery of the Sacred Shroud", "slug_title": "mystery-of-the-sacred-shroud", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

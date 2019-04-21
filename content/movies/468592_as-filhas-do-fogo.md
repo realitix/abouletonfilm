@@ -1,0 +1,1 @@
+{"tmdb_id": 468592, "title": "As filhas do Fogo", "original_title": "Vitalina Varela", "slug_title": "as-filhas-do-fogo", "date": "2018-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vitalina Varela ()", "Ventura ()"], "comments": [], "recommandations_id": []}

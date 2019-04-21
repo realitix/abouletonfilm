@@ -1,0 +1,1 @@
+{"tmdb_id": 591849, "title": "Illegal Civilization - \"Summer of '17\" - Episode 3", "original_title": "Illegal Civilization - \"Summer of '17\" - Episode 3", "slug_title": "illegal-civilization-summer-of-17-episode-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

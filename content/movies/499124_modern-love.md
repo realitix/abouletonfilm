@@ -1,0 +1,1 @@
+{"tmdb_id": 499124, "title": "Modern Love", "original_title": "Modern Love", "slug_title": "modern-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rashad Edwards (Cash)", "Rosa Gilmore (Sasha)"], "comments": [], "recommandations_id": []}

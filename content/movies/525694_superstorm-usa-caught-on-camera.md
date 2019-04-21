@@ -1,0 +1,1 @@
+{"tmdb_id": 525694, "title": "Superstorm USA: Caught on Camera", "original_title": "Superstorm USA: Caught on Camera", "slug_title": "superstorm-usa-caught-on-camera", "date": "2012-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 123220, "title": "Johnny Winter - Live from Japan", "original_title": "Johnny Winter - Live from Japan", "slug_title": "johnny-winter-live-from-japan", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Winter ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 465514, "title": "The 2016 World Series", "original_title": "The 2016 World Series", "slug_title": "the-2016-world-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

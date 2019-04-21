@@ -1,0 +1,1 @@
+{"tmdb_id": 566013, "title": "La historia quebrada", "original_title": "La historia quebrada", "slug_title": "la-historia-quebrada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

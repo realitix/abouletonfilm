@@ -1,0 +1,1 @@
+{"tmdb_id": 372187, "title": "Krakonos a pytl\u00e1k", "original_title": "Krakonos a pytl\u00e1k", "slug_title": "krakonos-a-pytlak", "date": "1982-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

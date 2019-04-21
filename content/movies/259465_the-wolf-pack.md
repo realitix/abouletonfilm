@@ -1,0 +1,1 @@
+{"tmdb_id": 259465, "title": "The Wolf Pack", "original_title": "The Wolf Pack", "slug_title": "the-wolf-pack", "date": "2014-03-20", "genre": "", "score": "7.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Scorsese (Martin Scorsese)", "Jonah Hill (Jonah Hill)"], "comments": [], "recommandations_id": []}

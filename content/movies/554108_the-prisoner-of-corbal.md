@@ -1,0 +1,1 @@
+{"tmdb_id": 554108, "title": "The Prisoner of Corbal", "original_title": "The Prisoner of Corbal", "slug_title": "the-prisoner-of-corbal", "date": "1936-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 268368, "title": "Seis Dias de Ouricuri", "original_title": "Seis Dias de Ouricuri", "slug_title": "seis-dias-de-ouricuri", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZyIvrlliRLxVyRdFqR49A2yVMC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 155722, "title": "Sun Dragon", "original_title": "Zhu zai xie lei", "slug_title": "sun-dragon", "date": "1979-10-24", "genre": "Action", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYQ2M0f78XkFHQUDADjo8uAoMik.jpg", "actors": ["Billy Chong ()", "Carl Scott ()"], "comments": [], "recommandations_id": []}

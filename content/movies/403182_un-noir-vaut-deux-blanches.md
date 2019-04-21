@@ -1,0 +1,1 @@
+{"tmdb_id": 403182, "title": "Un noir vaut deux blanches", "original_title": "Un noir vaut deux blanches", "slug_title": "un-noir-vaut-deux-blanches", "date": "1936-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

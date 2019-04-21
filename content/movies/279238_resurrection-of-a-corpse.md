@@ -1,0 +1,1 @@
+{"tmdb_id": 279238, "title": "Resurrection of a Corpse", "original_title": "Shinin no sosei", "slug_title": "resurrection-of-a-corpse", "date": "1898-01-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

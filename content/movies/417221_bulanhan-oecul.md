@@ -1,0 +1,1 @@
+{"tmdb_id": 417221, "title": "\ubd88\uc548\ud55c \uc678\ucd9c", "original_title": "\ubd88\uc548\ud55c \uc678\ucd9c", "slug_title": "bulanhan-oecul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ocU72KtGFwgDxVMHByyfGNtMzDK.jpg", "actors": [], "comments": [], "recommandations_id": []}

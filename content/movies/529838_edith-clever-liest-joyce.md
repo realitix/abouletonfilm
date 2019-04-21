@@ -1,0 +1,1 @@
+{"tmdb_id": 529838, "title": "Edith Clever liest Joyce", "original_title": "Edith Clever liest Joyce", "slug_title": "edith-clever-liest-joyce", "date": "1986-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

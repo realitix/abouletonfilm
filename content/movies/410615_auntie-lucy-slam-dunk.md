@@ -1,0 +1,1 @@
+{"tmdb_id": 410615, "title": "Auntie Lucy Slam Dunk", "original_title": "Auntie Lucy Slam Dunk", "slug_title": "auntie-lucy-slam-dunk", "date": "2009-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWTgWasg3GGCCRfLMN4NrKHXz2r.jpg", "actors": [], "comments": [], "recommandations_id": []}

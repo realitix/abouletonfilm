@@ -1,0 +1,1 @@
+{"tmdb_id": 421092, "title": "Cin\u00e9ma V\u00e9rit\u00e9", "original_title": "Cin\u00e9ma V\u00e9rit\u00e9", "slug_title": "cinema-verite", "date": "2016-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkEcuE2QetJK84UG4X4YlqcX8ym.jpg", "actors": [], "comments": [], "recommandations_id": []}

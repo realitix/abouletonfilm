@@ -1,0 +1,1 @@
+{"tmdb_id": 424910, "title": "Affluenza", "original_title": "Affluenza", "slug_title": "affluenza", "date": "1997-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bg0xNUSusLUJdjjmudW65XWDb6H.jpg", "actors": [], "comments": [], "recommandations_id": []}

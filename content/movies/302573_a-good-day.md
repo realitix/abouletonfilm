@@ -1,0 +1,1 @@
+{"tmdb_id": 302573, "title": "A Good Day", "original_title": "A Good Day", "slug_title": "a-good-day", "date": "2011-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

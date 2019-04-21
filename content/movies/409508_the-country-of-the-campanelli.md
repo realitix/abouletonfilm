@@ -1,0 +1,1 @@
+{"tmdb_id": 409508, "title": "The Country of the Campanelli", "original_title": "Il paese dei campanelli", "slug_title": "the-country-of-the-campanelli", "date": "1954-01-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCGHXmluXrxm9DioIxzPCHDronM.jpg", "actors": [], "comments": [], "recommandations_id": []}

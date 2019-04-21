@@ -1,0 +1,1 @@
+{"tmdb_id": 528615, "title": "Eres mi pasi\u00f3n", "original_title": "Eres mi pasi\u00f3n", "slug_title": "eres-mi-pasion", "date": "2018-06-01", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ma0qb9IHHMtDYGK7NSDMn6wbQr.jpg", "actors": [], "comments": [], "recommandations_id": []}

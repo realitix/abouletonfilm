@@ -1,0 +1,1 @@
+{"tmdb_id": 589049, "title": "The Photograph", "original_title": "The Photograph", "slug_title": "the-photograph", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lakeith Stanfield ()", "Issa Rae ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 450981, "title": "Crime Abyss Blue Physical Remorse", "original_title": "Crime Abismo Azul Remorso F\u00edsico", "slug_title": "crime-abyss-blue-physical-remorse", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

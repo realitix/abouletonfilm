@@ -1,0 +1,1 @@
+{"tmdb_id": 157527, "title": "Die Kristal bal", "original_title": "Die Kristal bal", "slug_title": "die-kristal-bal", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zlZ7uJDSHmJkvorfpW11QhdK87y.jpg", "actors": [], "comments": [], "recommandations_id": []}

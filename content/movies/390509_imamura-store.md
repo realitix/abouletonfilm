@@ -1,0 +1,1 @@
+{"tmdb_id": 390509, "title": "Imamura Store", "original_title": "\u4eca\u6751\u5546\u5e97", "slug_title": "imamura-store", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAbFAHL3IGT1CCoi3t08xQyqvY4.jpg", "actors": [], "comments": [], "recommandations_id": []}

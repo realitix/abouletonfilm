@@ -1,0 +1,1 @@
+{"tmdb_id": 54248, "title": "Seuss Celebration", "original_title": "Seuss Celebration", "slug_title": "seuss-celebration", "date": "2005-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uBpC4odCkuXUDg6CkB26RSfcBT.jpg", "actors": [], "comments": [], "recommandations_id": []}

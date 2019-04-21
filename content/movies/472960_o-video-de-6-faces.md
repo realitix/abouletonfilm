@@ -1,0 +1,1 @@
+{"tmdb_id": 472960, "title": "O v\u00eddeo de 6 faces", "original_title": "O v\u00eddeo de 6 faces", "slug_title": "o-video-de-6-faces", "date": "2017-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzpdLNZrK666HXp4aSp9T1JsyTd.jpg", "actors": [], "comments": [], "recommandations_id": []}

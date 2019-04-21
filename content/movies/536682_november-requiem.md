@@ -1,0 +1,1 @@
+{"tmdb_id": 536682, "title": "November Requiem", "original_title": "November Requiem", "slug_title": "november-requiem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onbtxIo5LwAXuMbNA86pazBI13A.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274346, "title": "U.S. Air Power", "original_title": "U.S. Air Power", "slug_title": "u-s-air-power", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

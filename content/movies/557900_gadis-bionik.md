@@ -1,0 +1,1 @@
+{"tmdb_id": 557900, "title": "Gadis Bionik", "original_title": "Gadis Bionik", "slug_title": "gadis-bionik", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Arnaz ()", "Don Nasco ()", "Jaja Mihardja ()"], "comments": [], "recommandations_id": []}

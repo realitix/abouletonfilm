@@ -1,0 +1,1 @@
+{"tmdb_id": 186730, "title": "Cuba: Battle of the 10,000,000", "original_title": "La bataille des dix millions", "slug_title": "cuba-battle-of-the-10000000", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

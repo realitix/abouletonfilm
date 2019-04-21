@@ -1,0 +1,1 @@
+{"tmdb_id": 556836, "title": "Paulina", "original_title": "Paulina", "slug_title": "paulina", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

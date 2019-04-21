@@ -1,0 +1,1 @@
+{"tmdb_id": 274960, "title": "Two Strangers", "original_title": "Iki yabanci", "slug_title": "two-strangers", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

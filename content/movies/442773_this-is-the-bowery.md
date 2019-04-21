@@ -1,0 +1,1 @@
+{"tmdb_id": 442773, "title": "This Is the Bowery", "original_title": "This Is the Bowery", "slug_title": "this-is-the-bowery", "date": "1941-05-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Nesbitt (Narrator)"], "comments": [], "recommandations_id": []}

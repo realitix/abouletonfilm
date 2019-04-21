@@ -1,0 +1,1 @@
+{"tmdb_id": 252354, "title": "Silver Screen", "original_title": "Silver Screen", "slug_title": "silver-screen", "date": "2000-06-19", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

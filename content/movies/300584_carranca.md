@@ -1,0 +1,1 @@
+{"tmdb_id": 300584, "title": "Carranca", "original_title": "Carranca", "slug_title": "carranca", "date": "2014-06-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafaela Souza ()", "Edvaldo Silva ()", "Guilherme Silva ()", "Osvaldo Concei\u00e7\u00e3o ()"], "comments": [], "recommandations_id": []}

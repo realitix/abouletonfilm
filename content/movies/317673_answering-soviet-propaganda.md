@@ -1,0 +1,1 @@
+{"tmdb_id": 317673, "title": "Answering Soviet Propaganda", "original_title": "Answering Soviet Propaganda", "slug_title": "answering-soviet-propaganda", "date": "1964-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 215556, "title": "Chihuahua too!", "original_title": "Chihuahua too!", "slug_title": "chihuahua-too", "date": "2013-08-13", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eeRVXE2tkthcqvi0mXYHfkNQJuu.jpg", "actors": ["Danielle Petty (Jennifer Fastener)"], "comments": [], "recommandations_id": []}

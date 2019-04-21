@@ -1,0 +1,1 @@
+{"tmdb_id": 485537, "title": "Wolf in Thief's Clothing", "original_title": "Wolf in Thief's Clothing", "slug_title": "wolf-in-thief-s-clothing", "date": "1943-02-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

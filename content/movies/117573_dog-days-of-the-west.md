@@ -1,0 +1,1 @@
+{"tmdb_id": 117573, "title": "Dog Days of the West", "original_title": "Dog Days of the West", "slug_title": "dog-days-of-the-west", "date": "1998-10-06", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssIlvelpOS8laRSWXjYpZAWHcor.jpg", "actors": [], "comments": [], "recommandations_id": []}

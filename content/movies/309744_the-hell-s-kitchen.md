@@ -1,0 +1,1 @@
+{"tmdb_id": 309744, "title": "The Hell's Kitchen", "original_title": "The Hell's Kitchen", "slug_title": "the-hell-s-kitchen", "date": "2003-01-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/opmOZsa8qyFYp2KpENYWI2NlN72.jpg", "actors": [], "comments": [], "recommandations_id": []}

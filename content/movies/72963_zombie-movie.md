@@ -1,0 +1,1 @@
+{"tmdb_id": 72963, "title": "Zombie Movie", "original_title": "Zombie Movie", "slug_title": "zombie-movie", "date": "2005-10-25", "genre": "Horreur / Com\u00e9die", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5EwEJDFprw4tuhCogIIHMk5LwS.jpg", "actors": [], "comments": [], "recommandations_id": [62714, 130701, 134750]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274310, "title": "Scan Processor Studies", "original_title": "Scan Processor Studies", "slug_title": "scan-processor-studies", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbYUb1nnEtGOkGR8KnLFj63HGPL.jpg", "actors": [], "comments": [], "recommandations_id": []}

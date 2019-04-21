@@ -1,0 +1,1 @@
+{"tmdb_id": 307348, "title": "Chitram Cheppina Katha", "original_title": "Chitram Cheppina Katha", "slug_title": "chitram-cheppina-katha", "date": "2014-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

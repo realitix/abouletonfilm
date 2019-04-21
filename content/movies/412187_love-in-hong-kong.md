@@ -1,0 +1,1 @@
+{"tmdb_id": 412187, "title": "Love in Hong Kong", "original_title": "Love in Hong Kong", "slug_title": "love-in-hong-kong", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310061, "title": "Placido Domingo with Mstislav Rostropovich", "original_title": "Placido Domingo with Mstislav Rostropovich", "slug_title": "placido-domingo-with-mstislav-rostropovich", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 473118, "title": "Eta orain, zer egingo dugu?", "original_title": "Eta orain, zer egingo dugu?", "slug_title": "eta-orain-zer-egingo-dugu", "date": "2013-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susana Soleto ()", "I\u00f1aki Rikarte ()"], "comments": [], "recommandations_id": []}

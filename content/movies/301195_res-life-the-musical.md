@@ -1,0 +1,1 @@
+{"tmdb_id": 301195, "title": "Res-Life: The Musical", "original_title": "Res-Life: The Musical", "slug_title": "res-life-the-musical", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

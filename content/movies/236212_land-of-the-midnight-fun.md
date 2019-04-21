@@ -1,0 +1,1 @@
+{"tmdb_id": 236212, "title": "Land of the Midnight Fun", "original_title": "Land of the Midnight Fun", "slug_title": "land-of-the-midnight-fun", "date": "1939-09-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1djEAP2cMwuYjQTxL7ocUVF9p5.jpg", "actors": [], "comments": [], "recommandations_id": []}

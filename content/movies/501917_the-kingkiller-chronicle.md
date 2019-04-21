@@ -1,0 +1,1 @@
+{"tmdb_id": 501917, "title": "The Kingkiller Chronicle", "original_title": "The Kingkiller Chronicle", "slug_title": "the-kingkiller-chronicle", "date": "", "genre": "Aventure / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

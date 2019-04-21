@@ -1,0 +1,1 @@
+{"tmdb_id": 330480, "title": "Hawkins & Watkins Inc.", "original_title": "Hawkins & Watkins Inc.", "slug_title": "hawkins-watkins-inc", "date": "1932-07-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daphne Pollard ()", "Forrester Harvey ()", "Matt McHugh ()"], "comments": [], "recommandations_id": []}

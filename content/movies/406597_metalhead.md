@@ -1,0 +1,1 @@
+{"tmdb_id": 406597, "title": "Metalhead", "original_title": "Metalhead", "slug_title": "metalhead", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amber Valentine (Herself)", "Edgar Livengood (Himself)"], "comments": [], "recommandations_id": []}

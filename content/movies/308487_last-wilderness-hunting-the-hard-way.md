@@ -1,0 +1,1 @@
+{"tmdb_id": 308487, "title": "Last Wilderness / Hunting the Hard Way", "original_title": "Last Wilderness / Hunting the Hard Way", "slug_title": "last-wilderness-hunting-the-hard-way", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

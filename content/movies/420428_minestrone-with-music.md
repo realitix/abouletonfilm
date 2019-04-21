@@ -1,0 +1,1 @@
+{"tmdb_id": 420428, "title": "Minestrone with Music", "original_title": "Minestrone with Music", "slug_title": "minestrone-with-music", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRQQsLS92WhJxAORqqzHbeus7Q0.jpg", "actors": [], "comments": [], "recommandations_id": []}

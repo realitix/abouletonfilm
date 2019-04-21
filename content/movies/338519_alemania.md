@@ -1,0 +1,1 @@
+{"tmdb_id": 338519, "title": "Alemania", "original_title": "Alemania", "slug_title": "alemania", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

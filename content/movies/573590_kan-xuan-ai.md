@@ -1,0 +1,1 @@
+{"tmdb_id": 573590, "title": "Kan Xuan! Ai!", "original_title": "Kan Xuan! Ai!", "slug_title": "kan-xuan-ai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nC3UiJZeCcelLFYQ4gEOR5Aop9n.jpg", "actors": ["Kan Xuan ()"], "comments": [], "recommandations_id": []}

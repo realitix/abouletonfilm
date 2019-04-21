@@ -1,0 +1,1 @@
+{"tmdb_id": 234403, "title": "Outer Galaxy Gazette", "original_title": "Outer Galaxy Gazette", "slug_title": "outer-galaxy-gazette", "date": "1964-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

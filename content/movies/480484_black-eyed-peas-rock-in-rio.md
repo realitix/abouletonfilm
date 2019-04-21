@@ -1,0 +1,1 @@
+{"tmdb_id": 480484, "title": "Black Eyed Peas - Rock in Rio", "original_title": "Black Eyed Peas - Rock in Rio", "slug_title": "black-eyed-peas-rock-in-rio", "date": "2004-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will.i.am ()", "Fergie ()", "Taboo ()", "Apl.de.Ap  ()"], "comments": [], "recommandations_id": []}

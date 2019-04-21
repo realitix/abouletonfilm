@@ -1,0 +1,1 @@
+{"tmdb_id": 407919, "title": "The Elastic Barber", "original_title": "Elastinen Parturi", "slug_title": "the-elastic-barber", "date": "2007-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4x4WHu0yBzd4TO9MMyeHPIhaXU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368066, "title": "Dr. Fischer of Geneva", "original_title": "Dr. Fischer of Geneva", "slug_title": "dr-fischer-of-geneva", "date": "", "genre": "Drame / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKSM3lTbXEXA7I3o0qmPSuGEQMf.jpg", "actors": [], "comments": [], "recommandations_id": []}

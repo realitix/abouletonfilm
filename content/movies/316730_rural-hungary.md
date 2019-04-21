@@ -1,0 +1,1 @@
+{"tmdb_id": 316730, "title": "Rural Hungary", "original_title": "Rural Hungary", "slug_title": "rural-hungary", "date": "1939-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator (voice))"], "comments": [], "recommandations_id": []}

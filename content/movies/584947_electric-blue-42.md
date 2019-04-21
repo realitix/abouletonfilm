@@ -1,0 +1,1 @@
+{"tmdb_id": 584947, "title": "Electric Blue 42", "original_title": "Electric Blue 42", "slug_title": "electric-blue-42", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

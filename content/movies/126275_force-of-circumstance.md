@@ -1,0 +1,1 @@
+{"tmdb_id": 126275, "title": "Force of Circumstance", "original_title": "Force of Circumstance", "slug_title": "force-of-circumstance", "date": "1990-06-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Buscemi (Virgil)", "Eric Mitchell (The Envoy)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536830, "title": "The Paymaster", "original_title": "The Paymaster", "slug_title": "the-paymaster", "date": "1906-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237337, "title": "The Lyin' Lion", "original_title": "The Lyin' Lion", "slug_title": "the-lyin-lion", "date": "1949-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

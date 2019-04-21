@@ -1,0 +1,1 @@
+{"tmdb_id": 592404, "title": "The Divine Way", "original_title": "La Via Divina", "slug_title": "the-divine-way", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5mCSjCbVf8e3eKoWPkqBgZwCbuv.jpg", "actors": [], "comments": [], "recommandations_id": []}

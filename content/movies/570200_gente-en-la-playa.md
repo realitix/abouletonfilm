@@ -1,0 +1,1 @@
+{"tmdb_id": 570200, "title": "Gente en la playa", "original_title": "Gente en la playa", "slug_title": "gente-en-la-playa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

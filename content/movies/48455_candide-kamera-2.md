@@ -1,0 +1,1 @@
+{"tmdb_id": 48455, "title": "Candide Kamera 2", "original_title": "Candide Kamera 2", "slug_title": "candide-kamera-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Candide Thovex (Himself)"], "comments": [], "recommandations_id": []}

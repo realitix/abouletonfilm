@@ -1,0 +1,1 @@
+{"tmdb_id": 538268, "title": "Car Crash/Mass Homicide/Suicide Attack", "original_title": "Car Crash/Mass Homicide/Suicide Attack", "slug_title": "car-crash-mass-homicide-suicide-attack", "date": "1977-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

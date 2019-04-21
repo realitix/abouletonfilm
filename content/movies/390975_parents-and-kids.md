@@ -1,0 +1,1 @@
+{"tmdb_id": 390975, "title": "Parents and Kids", "original_title": "T\u0117vai ir vaikai", "slug_title": "parents-and-kids", "date": "2005-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

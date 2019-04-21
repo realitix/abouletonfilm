@@ -1,0 +1,1 @@
+{"tmdb_id": 237110, "title": "Abusement Park", "original_title": "Abusement Park", "slug_title": "abusement-park", "date": "1947-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

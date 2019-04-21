@@ -1,0 +1,1 @@
+{"tmdb_id": 140073, "title": "Samb\u00f4 - Ao Vivo", "original_title": "Samb\u00f4 - Ao Vivo", "slug_title": "sambo-ao-vivo", "date": "2010-10-21", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lY3ntkpVbi40qW5Ue2hxSqINUmt.jpg", "actors": [], "comments": [], "recommandations_id": []}

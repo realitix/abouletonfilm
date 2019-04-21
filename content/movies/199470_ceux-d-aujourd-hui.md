@@ -1,0 +1,1 @@
+{"tmdb_id": 199470, "title": "Ceux d'aujourd'hui", "original_title": "\u73fe\u4ee3\u4eba", "slug_title": "ceux-d-aujourd-hui", "date": "1952-09-03", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ry\u00f4 Ikebe ()", "Isuzu Yamada ()", "S\u00f4 Yamamura ()", "Toshiko Kobayashi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 365799, "title": "Herculano Pires - Um Convite Para o Futuro", "original_title": "Herculano Pires - Um Convite Para o Futuro", "slug_title": "herculano-pires-um-convite-para-o-futuro", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

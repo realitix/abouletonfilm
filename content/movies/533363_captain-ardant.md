@@ -1,0 +1,1 @@
+{"tmdb_id": 533363, "title": "Captain Ardant", "original_title": "Capitaine Ardant", "slug_title": "captain-ardant", "date": "1951-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOpYDd3jax0idBVNfdGgahOomOx.jpg", "actors": [], "comments": [], "recommandations_id": []}

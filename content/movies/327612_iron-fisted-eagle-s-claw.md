@@ -1,0 +1,1 @@
+{"tmdb_id": 327612, "title": "Iron Fisted Eagle's Claw", "original_title": "Feng quan dian tui", "slug_title": "iron-fisted-eagle-s-claw", "date": "1979-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJUewbX1MGCo92LyByeoTycOE6A.jpg", "actors": [], "comments": [], "recommandations_id": []}

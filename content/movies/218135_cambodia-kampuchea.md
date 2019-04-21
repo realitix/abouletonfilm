@@ -1,0 +1,1 @@
+{"tmdb_id": 218135, "title": "Cambodia/Kampuchea", "original_title": "Cambodia/Kampuchea", "slug_title": "cambodia-kampuchea", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

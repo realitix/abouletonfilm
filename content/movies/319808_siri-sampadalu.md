@@ -1,0 +1,1 @@
+{"tmdb_id": 319808, "title": "Siri Sampadalu", "original_title": "Siri Sampadalu", "slug_title": "siri-sampadalu", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

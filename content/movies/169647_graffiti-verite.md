@@ -1,0 +1,1 @@
+{"tmdb_id": 169647, "title": "Graffiti Verit\u00e9", "original_title": "Graffiti Verit\u00e9", "slug_title": "graffiti-verite", "date": "1995-09-01", "genre": "Familial / Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3J9RVZuQdsoQH1wqyBeSI7nYOO.jpg", "actors": [], "comments": [], "recommandations_id": []}

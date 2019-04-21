@@ -1,0 +1,1 @@
+{"tmdb_id": 467187, "title": "Daniel Ra\u00edzes", "original_title": "Daniel Ra\u00edzes", "slug_title": "daniel-raizes", "date": "2010-01-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qxBC7aWtX6kpZFNO4mqvCQn3xfX.jpg", "actors": ["Daniel (Daniel)"], "comments": [], "recommandations_id": []}

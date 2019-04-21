@@ -1,0 +1,1 @@
+{"tmdb_id": 331162, "title": "Girl Wrestler", "original_title": "Girl Wrestler", "slug_title": "girl-wrestler", "date": "2003-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

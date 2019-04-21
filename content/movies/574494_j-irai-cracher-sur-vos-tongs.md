@@ -1,0 +1,1 @@
+{"tmdb_id": 574494, "title": "J'irai cracher sur vos tongs", "original_title": "J'irai cracher sur vos tongs", "slug_title": "j-irai-cracher-sur-vos-tongs", "date": "2005-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWvtEHahOfMbUjYicuY9NNLphbi.jpg", "actors": [], "comments": [], "recommandations_id": []}

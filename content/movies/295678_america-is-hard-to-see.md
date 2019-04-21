@@ -1,0 +1,1 @@
+{"tmdb_id": 295678, "title": "America Is Hard to See", "original_title": "America Is Hard to See", "slug_title": "america-is-hard-to-see", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWNHD9fePn56lmvmugowP6I7OKy.jpg", "actors": [], "comments": [], "recommandations_id": []}

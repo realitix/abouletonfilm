@@ -1,0 +1,1 @@
+{"tmdb_id": 535556, "title": "GUMMY-MAN", "original_title": "\uac70\ubbf8\ub9e8", "slug_title": "gummy-man", "date": "2017-11-12", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oh Jung-se (Gummy-man(Su-o))", "Choi Tae-Joon (villain)", "Lee Chung-ah (Min-ju / Unpretty girl)"], "comments": [], "recommandations_id": []}

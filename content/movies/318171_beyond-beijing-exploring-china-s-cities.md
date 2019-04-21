@@ -1,0 +1,1 @@
+{"tmdb_id": 318171, "title": "Beyond Beijing: Exploring China's Cities", "original_title": "Beyond Beijing: Exploring China's Cities", "slug_title": "beyond-beijing-exploring-china-s-cities", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

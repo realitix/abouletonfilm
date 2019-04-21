@@ -1,0 +1,1 @@
+{"tmdb_id": 412392, "title": "Lupe & Bruno", "original_title": "La Lupe i en Bruno", "slug_title": "lupe-bruno", "date": "2005-10-28", "genre": "Com\u00e9die / Animation / Romance", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjXMaTGGKEichbzd15ItOjqYjFr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 111677, "title": "Good Table Manners", "original_title": "Good Table Manners", "slug_title": "good-table-manners", "date": "1951-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZJhEe2wWgQcA26qrPJwmdzqIf8.jpg", "actors": [], "comments": [], "recommandations_id": []}

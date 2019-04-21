@@ -1,0 +1,1 @@
+{"tmdb_id": 418074, "title": "Il cacciatore di vampiri", "original_title": "Il cacciatore di vampiri", "slug_title": "il-cacciatore-di-vampiri", "date": "", "genre": "Horreur", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJWuOF5Tt6Ax8jUd7tFAF0mTnHj.jpg", "actors": [], "comments": [], "recommandations_id": []}

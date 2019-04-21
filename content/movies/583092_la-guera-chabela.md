@@ -1,0 +1,1 @@
+{"tmdb_id": 583092, "title": "La G\u00fcera Chabela", "original_title": "La G\u00fcera Chabela", "slug_title": "la-guera-chabela", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

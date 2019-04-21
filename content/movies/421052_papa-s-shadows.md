@@ -1,0 +1,1 @@
+{"tmdb_id": 421052, "title": "Papa's Shadows", "original_title": "Papa's Shadows", "slug_title": "papa-s-shadows", "date": "2016-10-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9EbU1chrwn9W7JpfGhHpmDcSM9a.jpg", "actors": ["Roence Santos ()", "Pintig Santos ()"], "comments": [], "recommandations_id": []}

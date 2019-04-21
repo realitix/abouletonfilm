@@ -1,0 +1,1 @@
+{"tmdb_id": 340137, "title": "Mama, I\u2019m Gonna Kill You", "original_title": "Mama, I\u2019m Gonna Kill You", "slug_title": "mama-im-gonna-kill-you", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

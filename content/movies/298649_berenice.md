@@ -1,0 +1,1 @@
+{"tmdb_id": 298649, "title": "Berenice", "original_title": "Berenice", "slug_title": "berenice", "date": "2014-10-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Mendolia (Edward)", "Cheryl Koski (Berenice)", "Susan Adriensen (Mother)"], "comments": [], "recommandations_id": []}

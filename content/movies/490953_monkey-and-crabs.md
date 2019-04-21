@@ -1,0 +1,1 @@
+{"tmdb_id": 490953, "title": "Monkey and Crabs", "original_title": "Shin Sarukanigassen", "slug_title": "monkey-and-crabs", "date": "1939-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

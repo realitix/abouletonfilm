@@ -1,0 +1,1 @@
+{"tmdb_id": 437478, "title": "Yakuza Warfare", "original_title": "\u6975\u9053\u6226\u4e89 \u6b66\u95d8\u6d3e", "slug_title": "yakuza-warfare", "date": "1991-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cFCqMm3ok8k6VW1G6nwdKWYfFs8.jpg", "actors": [], "comments": [], "recommandations_id": []}

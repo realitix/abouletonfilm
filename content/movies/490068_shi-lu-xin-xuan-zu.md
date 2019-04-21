@@ -1,0 +1,1 @@
+{"tmdb_id": 490068, "title": "\u5b9f\u9332\u3000\u65b0\u9078\u7d44", "original_title": "\u5b9f\u9332\u3000\u65b0\u9078\u7d44", "slug_title": "shi-lu-xin-xuan-zu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

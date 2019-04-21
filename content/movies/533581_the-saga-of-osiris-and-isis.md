@@ -1,0 +1,1 @@
+{"tmdb_id": 533581, "title": "The Saga Of Osiris And Isis", "original_title": "The Saga Of Osiris And Isis", "slug_title": "the-saga-of-osiris-and-isis", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpedVWfV5OkAO7gQikME37hyFt5.jpg", "actors": [], "comments": [], "recommandations_id": []}

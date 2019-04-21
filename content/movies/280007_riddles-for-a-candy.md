@@ -1,0 +1,1 @@
+{"tmdb_id": 280007, "title": "Riddles for a Candy", "original_title": "H\u00e1danky za bonb\u00f3n", "slug_title": "riddles-for-a-candy", "date": "1978-01-01", "genre": "Fantastique / Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FvlsCvL7oRNVenILJSnlGLstor.jpg", "actors": [], "comments": [], "recommandations_id": []}

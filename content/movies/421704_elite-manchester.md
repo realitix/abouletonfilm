@@ -1,0 +1,1 @@
+{"tmdb_id": 421704, "title": "Elite Manchester", "original_title": "Elite Manchester", "slug_title": "elite-manchester", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

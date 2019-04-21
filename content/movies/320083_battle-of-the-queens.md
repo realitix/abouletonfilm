@@ -1,0 +1,1 @@
+{"tmdb_id": 320083, "title": "Battle of the Queens", "original_title": "Battle of the Queens", "slug_title": "battle-of-the-queens", "date": "2011-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 193747, "title": "It's a Lovely Day", "original_title": "It's a Lovely Day", "slug_title": "it-s-a-lovely-day", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJPAAOkANql0d30Ux5gUzt2miff.jpg", "actors": [], "comments": [], "recommandations_id": []}

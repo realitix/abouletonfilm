@@ -1,0 +1,1 @@
+{"tmdb_id": 501679, "title": "Leah, Teddy & the Mandolin", "original_title": "Leah, Teddy & the Mandolin", "slug_title": "leah-teddy-the-mandolin", "date": "2018-01-21", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

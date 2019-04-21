@@ -1,0 +1,1 @@
+{"tmdb_id": 443212, "title": "Echigo Okumiomote", "original_title": "Echigo Okumiomote", "slug_title": "echigo-okumiomote", "date": "1984-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

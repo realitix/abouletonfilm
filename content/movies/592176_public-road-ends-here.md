@@ -1,0 +1,1 @@
+{"tmdb_id": 592176, "title": "Public Road Ends Here", "original_title": "H\u00e4r slutar allm\u00e4n v\u00e4g", "slug_title": "public-road-ends-here", "date": "2009-10-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ola Forsberg ()", "Stefan Hill ()", "Mika Wiborgh ()"], "comments": [], "recommandations_id": []}

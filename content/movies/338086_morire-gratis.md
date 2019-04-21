@@ -1,0 +1,1 @@
+{"tmdb_id": 338086, "title": "Morire gratis", "original_title": "Morire gratis", "slug_title": "morire-gratis", "date": "1969-03-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Pisu (Giovanni)", "Karen Blanguernon (Michelle)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312341, "title": "A Perfect Circle: Bikini Bandits: The Outsider", "original_title": "A Perfect Circle: Bikini Bandits: The Outsider", "slug_title": "a-perfect-circle-bikini-bandits-the-outsider", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

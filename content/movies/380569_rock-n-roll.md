@@ -1,0 +1,1 @@
+{"tmdb_id": 380569, "title": "Rock n' Roll", "original_title": "Rock n' Roll", "slug_title": "rock-n-roll", "date": "1981-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6nhPQtoAIJQeEU7qwgvudnWvOx.jpg", "actors": [], "comments": [], "recommandations_id": []}

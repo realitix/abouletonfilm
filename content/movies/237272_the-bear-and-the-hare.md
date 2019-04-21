@@ -1,0 +1,1 @@
+{"tmdb_id": 237272, "title": "The Bear and the Hare", "original_title": "The Bear and the Hare", "slug_title": "the-bear-and-the-hare", "date": "1948-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/heddDmpXTSp2Ac6NGG7QaXrgjea.jpg", "actors": [], "comments": [], "recommandations_id": []}

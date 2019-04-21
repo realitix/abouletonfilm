@@ -1,0 +1,1 @@
+{"tmdb_id": 548135, "title": "A Day In The Life of Dictator", "original_title": "A Day In The Life of Dictator", "slug_title": "a-day-in-the-life-of-dictator", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

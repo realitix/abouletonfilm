@@ -1,0 +1,1 @@
+{"tmdb_id": 274077, "title": "Mission Accomplished: Langan in Iraq", "original_title": "Mission Accomplished: Langan in Iraq", "slug_title": "mission-accomplished-langan-in-iraq", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 410691, "title": "The Men Who Made the Movies: George Cukor", "original_title": "The Men Who Made the Movies: George Cukor", "slug_title": "the-men-who-made-the-movies-george-cukor", "date": "1973-08-16", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Cukor (Himself)"], "comments": [], "recommandations_id": []}

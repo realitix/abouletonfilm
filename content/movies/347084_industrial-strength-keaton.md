@@ -1,0 +1,1 @@
+{"tmdb_id": 347084, "title": "Industrial Strength Keaton", "original_title": "Industrial Strength Keaton", "slug_title": "industrial-strength-keaton", "date": "2006-01-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Buster Keaton (Himself)"], "comments": [], "recommandations_id": []}

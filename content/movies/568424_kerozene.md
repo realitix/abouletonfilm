@@ -1,0 +1,1 @@
+{"tmdb_id": 568424, "title": "Kerozene", "original_title": "Kerozene", "slug_title": "kerozene", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Clara a peur de l'avion et essaie de surmonter sa phobie en faisant des th\u00e9rapies.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

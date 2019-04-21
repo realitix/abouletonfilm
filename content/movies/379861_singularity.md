@@ -1,0 +1,1 @@
+{"tmdb_id": 379861, "title": "Singularity", "original_title": "Singularity", "slug_title": "singularity", "date": "2011-09-08", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kirsten Hupertz ()", "Tesha Krieg ()", "Yannick ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 308576, "title": "Asia: Music in Review", "original_title": "Asia: Music in Review", "slug_title": "asia-music-in-review", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

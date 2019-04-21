@@ -1,0 +1,1 @@
+{"tmdb_id": 235857, "title": "Hypnotic Hick", "original_title": "Hypnotic Hick", "slug_title": "hypnotic-hick", "date": "1953-08-25", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5LkfmE93uwJrz2YsM60QYv74bD.jpg", "actors": [], "comments": [], "recommandations_id": []}

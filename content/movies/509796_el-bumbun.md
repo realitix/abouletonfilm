@@ -1,0 +1,1 @@
+{"tmdb_id": 509796, "title": "El Bumb\u00fan", "original_title": "El Bumb\u00fan", "slug_title": "el-bumbun", "date": "2014-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qgK8w1cxjv70FNkpVH2R4Bt7NJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 327584, "title": "People from the Top", "original_title": "Ahl al-Qimma", "slug_title": "people-from-the-top", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

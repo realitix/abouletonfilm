@@ -1,0 +1,1 @@
+{"tmdb_id": 234282, "title": "Mucho Locos", "original_title": "Mucho Locos", "slug_title": "mucho-locos", "date": "1966-02-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anPSrApSuZD4P6nwIhD8Nc5hSNL.jpg", "actors": [], "comments": [], "recommandations_id": []}

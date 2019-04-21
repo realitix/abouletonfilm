@@ -1,0 +1,1 @@
+{"tmdb_id": 353894, "title": "Savage/Love", "original_title": "Savage/Love", "slug_title": "savage-love", "date": "1981-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61yiQLlD1FBHP96Eqc1kZCzsVhm.jpg", "actors": ["Joe Chaikin ()"], "comments": [], "recommandations_id": []}

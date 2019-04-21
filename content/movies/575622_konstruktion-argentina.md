@@ -1,0 +1,1 @@
+{"tmdb_id": 575622, "title": "Konstruktion Argentina", "original_title": "Konstruktion Argentina", "slug_title": "konstruktion-argentina", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgPj1boTjoqe3ehkTC0rY0nyAXy.jpg", "actors": [], "comments": [], "recommandations_id": []}

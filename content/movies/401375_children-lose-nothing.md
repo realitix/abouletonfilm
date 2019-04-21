@@ -1,0 +1,1 @@
+{"tmdb_id": 401375, "title": "Children Lose Nothing", "original_title": "Children Lose Nothing", "slug_title": "children-lose-nothing", "date": "2004-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1AkWdgib3NtfKuwNPVNaiy4s3M.jpg", "actors": [], "comments": [], "recommandations_id": []}

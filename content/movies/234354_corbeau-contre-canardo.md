@@ -1,0 +1,1 @@
+{"tmdb_id": 234354, "title": "Corbeau contre Canardo", "original_title": "Chili Corn Corny", "slug_title": "corbeau-contre-canardo", "date": "1965-10-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bcHr4XH0hiVtExVo9pin7jybQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

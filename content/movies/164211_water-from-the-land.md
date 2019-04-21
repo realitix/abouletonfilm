@@ -1,0 +1,1 @@
+{"tmdb_id": 164211, "title": "Water from the Land", "original_title": "Vandet p\u00e5 landet", "slug_title": "water-from-the-land", "date": "1946-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iw89apSKvq68o16U0TezltNmidQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

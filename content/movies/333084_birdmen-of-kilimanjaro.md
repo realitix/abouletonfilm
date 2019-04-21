@@ -1,0 +1,1 @@
+{"tmdb_id": 333084, "title": "Birdmen of Kilimanjaro", "original_title": "Birdmen of Kilimanjaro", "slug_title": "birdmen-of-kilimanjaro", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xz0Z0xaGi0GndEU5p5FV0NecmrX.jpg", "actors": [], "comments": [], "recommandations_id": []}

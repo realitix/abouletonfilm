@@ -1,0 +1,1 @@
+{"tmdb_id": 500232, "title": "Peygamberler Diyar\u0131", "original_title": "Peygamberler Diyar\u0131", "slug_title": "peygamberler-diyari", "date": "1966-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1nNYoqIz1KXrra6E90dJPprQO2.jpg", "actors": [], "comments": [], "recommandations_id": []}

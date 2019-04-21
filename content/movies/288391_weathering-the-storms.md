@@ -1,0 +1,1 @@
+{"tmdb_id": 288391, "title": "Weathering the Storms", "original_title": "\uc0b0\uc804\uc218\uc804", "slug_title": "weathering-the-storms", "date": "1999-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIUTv8baefAERazw3VQqyRdwtnE.jpg", "actors": ["Kim Gyu-ri ()"], "comments": [], "recommandations_id": []}

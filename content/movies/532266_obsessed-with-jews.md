@@ -1,0 +1,1 @@
+{"tmdb_id": 532266, "title": "Obsessed with Jews", "original_title": "Obsessed with Jews", "slug_title": "obsessed-with-jews", "date": "2000-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgGKDM7Cxq3So9ZSIT7xc7NZjn1.jpg", "actors": [], "comments": [], "recommandations_id": []}

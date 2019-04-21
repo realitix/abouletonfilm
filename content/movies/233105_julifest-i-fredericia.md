@@ -1,0 +1,1 @@
+{"tmdb_id": 233105, "title": "Julifest i Fredericia", "original_title": "Julifest i Fredericia", "slug_title": "julifest-i-fredericia", "date": "1912-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

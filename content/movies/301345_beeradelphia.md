@@ -1,0 +1,1 @@
+{"tmdb_id": 301345, "title": "Beeradelphia", "original_title": "Beeradelphia", "slug_title": "beeradelphia", "date": "2012-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

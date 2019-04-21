@@ -1,0 +1,1 @@
+{"tmdb_id": 273480, "title": "Jeera Sain", "original_title": "Jeera Sain", "slug_title": "jeera-sain", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

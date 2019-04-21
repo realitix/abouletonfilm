@@ -1,0 +1,1 @@
+{"tmdb_id": 282587, "title": "Haadugaara", "original_title": "Haadugaara", "slug_title": "haadugaara", "date": "2014-11-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()"], "comments": [], "recommandations_id": []}

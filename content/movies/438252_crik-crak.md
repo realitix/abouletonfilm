@@ -1,0 +1,1 @@
+{"tmdb_id": 438252, "title": "Crik-Crak", "original_title": "Crik-Crak", "slug_title": "crik-crak", "date": "2011-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

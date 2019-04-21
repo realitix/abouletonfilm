@@ -1,0 +1,1 @@
+{"tmdb_id": 576148, "title": "The Encounter", "original_title": "Netshishkatutau", "slug_title": "the-encounter", "date": "2009-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

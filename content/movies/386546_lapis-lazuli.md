@@ -1,0 +1,1 @@
+{"tmdb_id": 386546, "title": "Lapis Lazuli", "original_title": "Lapis Lazuli", "slug_title": "lapis-lazuli", "date": "1972-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

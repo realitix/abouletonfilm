@@ -1,0 +1,1 @@
+{"tmdb_id": 496693, "title": "Bullet on a Wire", "original_title": "Bullet on a Wire", "slug_title": "bullet-on-a-wire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

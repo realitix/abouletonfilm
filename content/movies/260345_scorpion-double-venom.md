@@ -1,0 +1,1 @@
+{"tmdb_id": 260345, "title": "Scorpion: Double Venom", "original_title": "Sasori: Joshuu 701-g\u00f4", "slug_title": "scorpion-double-venom", "date": "1998-10-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rYcghUEYgHENxpuGyBCQ9J3g4L.jpg", "actors": [], "comments": [], "recommandations_id": []}

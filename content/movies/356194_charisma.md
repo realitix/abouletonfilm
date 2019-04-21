@@ -1,0 +1,1 @@
+{"tmdb_id": 356194, "title": "Charisma", "original_title": "Carisma", "slug_title": "charisma", "date": "2003-02-25", "genre": "Drame / Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VeM6rMyzF3iSockrJSCETHNTL6.jpg", "actors": ["Natalia Mateo (Paca)", "Marta Aledo (Jeny)"], "comments": [], "recommandations_id": []}

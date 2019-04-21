@@ -1,0 +1,1 @@
+{"tmdb_id": 276017, "title": "Phil Coulter: A Touch of Tranquility", "original_title": "Phil Coulter: A Touch of Tranquility", "slug_title": "phil-coulter-a-touch-of-tranquility", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

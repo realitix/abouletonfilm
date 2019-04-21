@@ -1,0 +1,1 @@
+{"tmdb_id": 139918, "title": "A Pretty Funny Story", "original_title": "A Pretty Funny Story", "slug_title": "a-pretty-funny-story", "date": "2012-10-24", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/952zT9MlpMbB6hXwTgfumhW0e8k.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 254213, "title": "Dogs' Feast", "original_title": "Sobachiy pir", "slug_title": "dogs-feast", "date": "1990-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pxhf2T5zyqyjve9hhnihETCao0i.jpg", "actors": [], "comments": [], "recommandations_id": []}

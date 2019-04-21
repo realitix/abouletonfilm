@@ -1,0 +1,1 @@
+{"tmdb_id": 307602, "title": "Ori Devudoy", "original_title": "Ori Devudoy", "slug_title": "ori-devudoy", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

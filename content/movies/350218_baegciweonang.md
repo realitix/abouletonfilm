@@ -1,0 +1,1 @@
+{"tmdb_id": 350218, "title": "\ubc31\uce58\uc6d0\uc559", "original_title": "\ubc31\uce58\uc6d0\uc559", "slug_title": "baegciweonang", "date": "1989-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

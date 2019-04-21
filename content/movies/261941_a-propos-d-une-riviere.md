@@ -1,0 +1,1 @@
+{"tmdb_id": 261941, "title": "\u00c0 propos d'une rivi\u00e8re", "original_title": "\u00c0 propos d'une rivi\u00e8re", "slug_title": "a-propos-d-une-riviere", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michel Duborgel ()"], "comments": [], "recommandations_id": []}

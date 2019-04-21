@@ -1,0 +1,1 @@
+{"tmdb_id": 457437, "title": "Dancers", "original_title": "Dancers", "slug_title": "dancers", "date": "2014-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwgg8GoLyV9lZfRkPrV0wwfdi6i.jpg", "actors": [], "comments": [], "recommandations_id": []}

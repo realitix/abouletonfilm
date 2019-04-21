@@ -1,0 +1,1 @@
+{"tmdb_id": 286229, "title": "Steady Company", "original_title": "Steady Company", "slug_title": "steady-company", "date": "1932-03-13", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norman Foster (Jim)", "June Clyde (Peggy)", "Zasu Pitts (Dot)"], "comments": [], "recommandations_id": []}

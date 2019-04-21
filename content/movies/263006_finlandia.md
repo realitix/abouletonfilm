@@ -1,0 +1,1 @@
+{"tmdb_id": 263006, "title": "Finlandia", "original_title": "Finlandia", "slug_title": "finlandia", "date": "1922-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2wqe3rvXsTATIcA1XHoZqKwHBJ.jpg", "actors": ["Georg Thesl\u00f6f (Narrator)"], "comments": [], "recommandations_id": []}

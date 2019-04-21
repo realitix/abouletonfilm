@@ -1,0 +1,1 @@
+{"tmdb_id": 392004, "title": "The Colectiv Disaster", "original_title": "The Colectiv Disaster", "slug_title": "the-colectiv-disaster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gSJ0z53EFAb9m3FwGf2WfjsmYRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

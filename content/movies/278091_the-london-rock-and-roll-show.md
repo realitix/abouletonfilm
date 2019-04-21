@@ -1,0 +1,1 @@
+{"tmdb_id": 278091, "title": "The London Rock and Roll Show", "original_title": "The London Rock and Roll Show", "slug_title": "the-london-rock-and-roll-show", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1UgU2KvZ05ltSTEk83q6LUEaXq.jpg", "actors": [], "comments": [], "recommandations_id": []}

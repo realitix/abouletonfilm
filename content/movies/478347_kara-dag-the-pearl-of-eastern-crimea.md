@@ -1,0 +1,1 @@
+{"tmdb_id": 478347, "title": "Kara-Dag. The Pearl of Eastern Crimea", "original_title": "Kara-Dag. Zhemchuzhina vostochnogo kryma", "slug_title": "kara-dag-the-pearl-of-eastern-crimea", "date": "1929-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

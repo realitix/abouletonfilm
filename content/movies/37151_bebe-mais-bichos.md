@@ -1,0 +1,1 @@
+{"tmdb_id": 37151, "title": "Bebe Mais: Bichos", "original_title": "Bebe Mais: Bichos", "slug_title": "bebe-mais-bichos", "date": "2005-01-01", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ny8xxTlLr3q7E2zG0HILCXZkTnS.jpg", "actors": [], "comments": [], "recommandations_id": []}

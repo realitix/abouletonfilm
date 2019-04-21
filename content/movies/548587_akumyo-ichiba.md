@@ -1,0 +1,1 @@
+{"tmdb_id": 548587, "title": "Akumyo ichiba", "original_title": "Akumyo ichiba", "slug_title": "akumyo-ichiba", "date": "1963-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

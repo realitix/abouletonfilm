@@ -1,0 +1,1 @@
+{"tmdb_id": 301709, "title": "Rubicon's Broken", "original_title": "Rubicon's Broken", "slug_title": "rubicon-s-broken", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334126, "title": "Passing Girl; Riverside: an Essay on Camera Work", "original_title": "Passing Girl; Riverside: an Essay on Camera Work", "slug_title": "passing-girl-riverside-an-essay-on-camera-work", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 538184, "title": "Jillian Michaels BodyShred - Intro", "original_title": "Jillian Michaels BodyShred - Intro", "slug_title": "jillian-michaels-bodyshred-intro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJ682mp8tHnpd2S3jiJQ2P3vgh1.jpg", "actors": [], "comments": [], "recommandations_id": []}

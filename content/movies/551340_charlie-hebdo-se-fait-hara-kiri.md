@@ -1,0 +1,1 @@
+{"tmdb_id": 551340, "title": "Charlie Hebdo se fait Hara Kiri", "original_title": "Charlie Hebdo se fait Hara Kiri", "slug_title": "charlie-hebdo-se-fait-hara-kiri", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "Charlie Hebdo se fait hara-kiri", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

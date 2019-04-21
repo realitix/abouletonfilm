@@ -1,0 +1,1 @@
+{"tmdb_id": 510991, "title": "Der Hafenbaron", "original_title": "Der Hafenbaron", "slug_title": "der-hafenbaron", "date": "1928-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Brausewetter (Walter Rohde)", "Sophie Pagay (die Wirtin)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468449, "title": "Solaris", "original_title": "Solaris", "slug_title": "solaris", "date": "2010-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fmt6XZRo4oDEzO4NdMoNbs0q8fk.jpg", "actors": [], "comments": [], "recommandations_id": []}

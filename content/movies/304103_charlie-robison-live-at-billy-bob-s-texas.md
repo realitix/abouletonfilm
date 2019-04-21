@@ -1,0 +1,1 @@
+{"tmdb_id": 304103, "title": "Charlie Robison - Live at Billy Bob's Texas", "original_title": "Charlie Robison - Live at Billy Bob's Texas", "slug_title": "charlie-robison-live-at-billy-bob-s-texas", "date": "2012-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

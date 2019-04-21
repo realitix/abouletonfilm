@@ -1,0 +1,1 @@
+{"tmdb_id": 400085, "title": "Food Fight: Inside The Battle for Market Basket", "original_title": "Food Fight: Inside The Battle for Market Basket", "slug_title": "food-fight-inside-the-battle-for-market-basket", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

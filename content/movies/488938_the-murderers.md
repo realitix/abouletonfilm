@@ -1,0 +1,1 @@
+{"tmdb_id": 488938, "title": "The Murderers", "original_title": "The Murderers", "slug_title": "the-murderers", "date": "1973-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mG1LSUYy021uHpFYbLHhrM8Iv0D.jpg", "actors": [], "comments": [], "recommandations_id": []}

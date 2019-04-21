@@ -1,0 +1,1 @@
+{"tmdb_id": 414893, "title": "I Medici Nascita di una dinastia", "original_title": "I Medici Nascita di una dinastia", "slug_title": "i-medici-nascita-di-una-dinastia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

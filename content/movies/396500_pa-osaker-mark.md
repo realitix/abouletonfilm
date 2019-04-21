@@ -1,0 +1,1 @@
+{"tmdb_id": 396500, "title": "P\u00e5 os\u00e4ker mark", "original_title": "P\u00e5 os\u00e4ker mark", "slug_title": "pa-osaker-mark", "date": "1993-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 55085, "title": "I, Psychopath", "original_title": "Ich bin ein Psychopath", "slug_title": "i-psychopath", "date": "2009-04-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oLU3rSf6KcMFd0OuFYr315MwsK3.jpg", "actors": [], "comments": [], "recommandations_id": []}

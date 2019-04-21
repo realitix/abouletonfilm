@@ -1,0 +1,1 @@
+{"tmdb_id": 334425, "title": "Oh, Protector of the Gazelle", "original_title": "Ya zamene ahu", "slug_title": "oh-protector-of-the-gazelle", "date": "1970-01-02", "genre": "Documentaire", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNTGDJdDEzR6kMlqJxCgYCoRhlY.jpg", "actors": [], "comments": [], "recommandations_id": []}

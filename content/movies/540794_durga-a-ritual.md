@@ -1,0 +1,1 @@
+{"tmdb_id": 540794, "title": "Durga (A Ritual)", "original_title": "Durga (A Ritual)", "slug_title": "durga-a-ritual", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

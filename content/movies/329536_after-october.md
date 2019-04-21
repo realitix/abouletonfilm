@@ -1,0 +1,1 @@
+{"tmdb_id": 329536, "title": "After October", "original_title": "Ba'ada Uctubar", "slug_title": "after-october", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

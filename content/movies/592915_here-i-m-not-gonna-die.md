@@ -1,0 +1,1 @@
+{"tmdb_id": 592915, "title": "Here I'm Not Gonna Die", "original_title": "Ici je vais pas mourir", "slug_title": "here-i-m-not-gonna-die", "date": "2019-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

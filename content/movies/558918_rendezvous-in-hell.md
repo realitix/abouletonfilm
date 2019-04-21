@@ -1,0 +1,1 @@
+{"tmdb_id": 558918, "title": "Rendezvous in Hell", "original_title": "Rendezvous in Hell", "slug_title": "rendezvous-in-hell", "date": "1971-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond (Nancy)", "Ric Lutze (Paul)"], "comments": [], "recommandations_id": []}

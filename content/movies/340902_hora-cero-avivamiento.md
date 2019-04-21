@@ -1,0 +1,1 @@
+{"tmdb_id": 340902, "title": "Hora Cero Avivamiento", "original_title": "Hora Cero Avivamiento", "slug_title": "hora-cero-avivamiento", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Z8e7SsR33c1oH3YonKfaIgj5xR.jpg", "actors": [], "comments": [], "recommandations_id": []}

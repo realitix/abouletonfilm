@@ -1,0 +1,1 @@
+{"tmdb_id": 459467, "title": "Bossa Nova Beach", "original_title": "Bossa Nova Beach", "slug_title": "bossa-nova-beach", "date": "1965-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZRTMrSkvuzlelYAoomREg8P3dd.jpg", "actors": [], "comments": [], "recommandations_id": []}

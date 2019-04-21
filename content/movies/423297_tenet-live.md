@@ -1,0 +1,1 @@
+{"tmdb_id": 423297, "title": "Tenet Live", "original_title": "Princ\u00edpio (Ao Vivo)", "slug_title": "tenet-live", "date": "", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x56KyhWfkBB0laVeRkTJZo2ZiSV.jpg", "actors": ["Leonardo Gon\u00e7alves ()"], "comments": [], "recommandations_id": []}

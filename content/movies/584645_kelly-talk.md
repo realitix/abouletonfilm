@@ -1,0 +1,1 @@
+{"tmdb_id": 584645, "title": "Kelly Talk", "original_title": "Kelly Talk", "slug_title": "kelly-talk", "date": "2019-01-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jada Pinkett Smith ()", "Adrienne Banfield-Norris ()", "Willow Smith ()"], "comments": [], "recommandations_id": []}

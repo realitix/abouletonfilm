@@ -1,0 +1,1 @@
+{"tmdb_id": 237164, "title": "The Hitch Hikers", "original_title": "The Hitch Hikers", "slug_title": "the-hitch-hikers", "date": "1947-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

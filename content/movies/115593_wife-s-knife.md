@@ -1,0 +1,1 @@
+{"tmdb_id": 115593, "title": "Wife's Knife", "original_title": "Samma no hi", "slug_title": "wife-s-knife", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

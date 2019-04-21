@@ -1,0 +1,1 @@
+{"tmdb_id": 561483, "title": "Jewel in the Slum", "original_title": "Permata Di-Perlimbahan", "slug_title": "jewel-in-the-slum", "date": "1952-01-01", "genre": "Drame / Musique / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nordin Ahmad (Abdullah)", "Maria Menado (Fatimah)"], "comments": [], "recommandations_id": []}

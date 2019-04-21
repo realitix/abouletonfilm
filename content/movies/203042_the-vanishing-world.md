@@ -1,0 +1,1 @@
+{"tmdb_id": 203042, "title": "The Vanishing World", "original_title": "Svet koji nestaje", "slug_title": "the-vanishing-world", "date": "1987-12-30", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36JHLmSQR1lJva5smnBevWB3qgY.jpg", "actors": ["Petar Kralj (Narrator)"], "comments": [], "recommandations_id": []}

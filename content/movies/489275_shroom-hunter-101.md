@@ -1,0 +1,1 @@
+{"tmdb_id": 489275, "title": "Shroom Hunter 101", "original_title": "Shroom Hunter 101", "slug_title": "shroom-hunter-101", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

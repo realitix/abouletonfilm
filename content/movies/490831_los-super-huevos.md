@@ -1,0 +1,1 @@
+{"tmdb_id": 490831, "title": "Los Super Huevos", "original_title": "Los Super Huevos", "slug_title": "los-super-huevos", "date": "2009-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4Ff8f6uPCDajow6Rssyj0zegmv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 174870, "title": "Die Liebe der Maria Bonde", "original_title": "Die Liebe der Maria Bonde", "slug_title": "die-liebe-der-maria-bonde", "date": "1918-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

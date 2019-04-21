@@ -1,0 +1,1 @@
+{"tmdb_id": 522179, "title": "Core De Force - Core Kinetics", "original_title": "Core De Force - Core Kinetics", "slug_title": "core-de-force-core-kinetics", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4eeFzlmTpp27vfmBekvuJ8DAIRC.jpg", "actors": [], "comments": [], "recommandations_id": []}

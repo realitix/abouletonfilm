@@ -1,0 +1,1 @@
+{"tmdb_id": 506220, "title": "A Week in Watts", "original_title": "A Week in Watts", "slug_title": "a-week-in-watts", "date": "2017-02-19", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hSiUFVnWW3mY4wYcjtxr3vlTERC.jpg", "actors": [], "comments": [], "recommandations_id": [526313, 264402, 490299, 330206]}

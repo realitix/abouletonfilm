@@ -1,0 +1,1 @@
+{"tmdb_id": 376989, "title": "From the Mouth of the Mariner", "original_title": "From the Mouth of the Mariner", "slug_title": "from-the-mouth-of-the-mariner", "date": "2015-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

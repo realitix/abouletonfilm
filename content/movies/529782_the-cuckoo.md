@@ -1,0 +1,1 @@
+{"tmdb_id": 529782, "title": "The Cuckoo", "original_title": "\u041a\u0443\u043a\u0443\u0448\u043a\u0430", "slug_title": "the-cuckoo", "date": "2013-11-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ghWtGpEqW2lxkrNtYPL9nP1mPu0.jpg", "actors": [], "comments": [], "recommandations_id": []}

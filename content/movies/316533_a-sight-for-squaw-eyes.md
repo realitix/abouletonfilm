@@ -1,0 +1,1 @@
+{"tmdb_id": 316533, "title": "A Sight for Squaw Eyes", "original_title": "A Sight for Squaw Eyes", "slug_title": "a-sight-for-squaw-eyes", "date": "1963-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

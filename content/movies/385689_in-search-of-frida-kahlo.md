@@ -1,0 +1,1 @@
+{"tmdb_id": 385689, "title": "In Search of Frida Kahlo", "original_title": "In Search of Frida Kahlo", "slug_title": "in-search-of-frida-kahlo", "date": "2016-03-10", "genre": "Musique / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

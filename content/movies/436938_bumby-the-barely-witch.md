@@ -1,0 +1,1 @@
+{"tmdb_id": 436938, "title": "Bumby the Barely-Witch", "original_title": "Bumby the Barely-Witch", "slug_title": "bumby-the-barely-witch", "date": "2017-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYmGl67W74IGDg15CZ15tRtsTh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

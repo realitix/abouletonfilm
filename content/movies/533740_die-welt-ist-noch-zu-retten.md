@@ -1,0 +1,1 @@
+{"tmdb_id": 533740, "title": "Die Welt ist noch zu retten?!", "original_title": "Die Welt ist noch zu retten?!", "slug_title": "die-welt-ist-noch-zu-retten", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkuNrTpkB9SXyHiUUhvDLmp3xhb.jpg", "actors": [], "comments": [], "recommandations_id": []}

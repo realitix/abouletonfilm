@@ -1,0 +1,1 @@
+{"tmdb_id": 319441, "title": "Lord Peter Wimsey Mysteries: Five Red Herrings", "original_title": "Lord Peter Wimsey Mysteries: Five Red Herrings", "slug_title": "lord-peter-wimsey-mysteries-five-red-herrings", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

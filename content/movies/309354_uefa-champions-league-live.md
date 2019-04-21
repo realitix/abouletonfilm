@@ -1,0 +1,1 @@
+{"tmdb_id": 309354, "title": "UEFA Champions League Live", "original_title": "UEFA Champions League Live", "slug_title": "uefa-champions-league-live", "date": "2014-12-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

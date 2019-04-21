@@ -1,0 +1,1 @@
+{"tmdb_id": 347664, "title": "Stan Lee's Annihilator", "original_title": "Stan Lee's Annihilator", "slug_title": "stan-lee-s-annihilator", "date": "", "genre": "Aventure / Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [462383, 146329, 312610, 333673]}

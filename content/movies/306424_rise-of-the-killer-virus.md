@@ -1,0 +1,1 @@
+{"tmdb_id": 306424, "title": "Rise of the Killer Virus", "original_title": "Rise of the Killer Virus", "slug_title": "rise-of-the-killer-virus", "date": "2014-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

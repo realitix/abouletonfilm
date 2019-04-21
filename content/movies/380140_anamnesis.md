@@ -1,0 +1,1 @@
+{"tmdb_id": 380140, "title": "Anamnesis", "original_title": "Anamnesis", "slug_title": "anamnesis", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

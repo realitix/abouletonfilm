@@ -1,0 +1,1 @@
+{"tmdb_id": 280746, "title": "Shades of Love: Echoes in Crimson", "original_title": "Shades of Love: Echoes in Crimson", "slug_title": "shades-of-love-echoes-in-crimson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

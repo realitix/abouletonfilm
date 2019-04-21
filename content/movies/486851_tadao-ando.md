@@ -1,0 +1,1 @@
+{"tmdb_id": 486851, "title": "Tadao Ando", "original_title": "Tadao Ando", "slug_title": "tadao-ando", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Kb3EJcuAnMaod9fPBukYkx0Hf2.jpg", "actors": ["Tadao Ando (Self)"], "comments": [], "recommandations_id": []}

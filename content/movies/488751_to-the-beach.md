@@ -1,0 +1,1 @@
+{"tmdb_id": 488751, "title": "To the Beach", "original_title": "To the Beach", "slug_title": "to-the-beach", "date": "1999-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

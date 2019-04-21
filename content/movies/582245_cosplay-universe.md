@@ -1,0 +1,1 @@
+{"tmdb_id": 582245, "title": "Cosplay Universe", "original_title": "Cosplay Universe", "slug_title": "cosplay-universe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fAaswTiKIJsIlkUTSymX7fCMGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

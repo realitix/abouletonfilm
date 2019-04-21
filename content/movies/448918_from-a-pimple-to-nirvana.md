@@ -1,0 +1,1 @@
+{"tmdb_id": 448918, "title": "From a Pimple to Nirvana", "original_title": "Phee poh sadue pood lae siw khong Nuk Nik", "slug_title": "from-a-pimple-to-nirvana", "date": "2014-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

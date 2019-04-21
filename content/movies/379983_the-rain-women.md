@@ -1,0 +1,1 @@
+{"tmdb_id": 379983, "title": "The Rain Women", "original_title": "\u96e8\u5973", "slug_title": "the-rain-women", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDxH7tQmIe5edearEqWkVbiB81Z.jpg", "actors": ["Darsteller ()", "Kayoko Komaba ()", "Miwa Makii ()"], "comments": [], "recommandations_id": []}

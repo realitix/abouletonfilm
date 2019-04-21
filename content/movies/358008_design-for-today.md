@@ -1,0 +1,1 @@
+{"tmdb_id": 358008, "title": "Design for Today", "original_title": "Design for Today", "slug_title": "design-for-today", "date": "1965-01-02", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2TsdvmYigfO6Rfi3fSWznrKuU7.jpg", "actors": [], "comments": [], "recommandations_id": []}

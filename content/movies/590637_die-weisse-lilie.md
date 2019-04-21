@@ -1,0 +1,1 @@
+{"tmdb_id": 590637, "title": "Die weisse Lilie", "original_title": "Die weisse Lilie", "slug_title": "die-weisse-lilie", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eliane Chappuis (Andreas)", "Nikolaus Schmid (Nico)"], "comments": [], "recommandations_id": []}

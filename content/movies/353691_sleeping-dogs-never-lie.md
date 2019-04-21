@@ -1,0 +1,1 @@
+{"tmdb_id": 353691, "title": "Sleeping Dogs (Never Lie)", "original_title": "Sleeping Dogs (Never Lie)", "slug_title": "sleeping-dogs-never-lie", "date": "1978-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504011, "title": "\ubd88\ub95c\uac00\uc871", "original_title": "\ubd88\ub95c\uac00\uc871", "slug_title": "bulryungajog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

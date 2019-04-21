@@ -1,0 +1,1 @@
+{"tmdb_id": 579139, "title": "Independent Spirits: Faith Hubley/John Hubley", "original_title": "Independent Spirits: Faith Hubley/John Hubley", "slug_title": "independent-spirits-faith-hubley-john-hubley", "date": "2003-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

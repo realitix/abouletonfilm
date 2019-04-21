@@ -1,0 +1,1 @@
+{"tmdb_id": 180485, "title": "Punking Out", "original_title": "Punking Out", "slug_title": "punking-out", "date": "1979-03-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykL73fRdU5s98edjdHy1v6tWuxQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

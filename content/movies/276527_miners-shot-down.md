@@ -1,0 +1,1 @@
+{"tmdb_id": 276527, "title": "Miners Shot Down", "original_title": "Miners Shot Down", "slug_title": "miners-shot-down", "date": "2014-05-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIhK8Xc4CekQOge3zrbYvqdTHeS.jpg", "actors": [], "comments": [], "recommandations_id": []}

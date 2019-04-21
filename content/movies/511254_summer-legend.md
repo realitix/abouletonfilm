@@ -1,0 +1,1 @@
+{"tmdb_id": 511254, "title": "Summer Legend", "original_title": "Summer Legend", "slug_title": "summer-legend", "date": "1987-01-01", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tex Konig (Narrator (voice))", "Margo Mackinnon Baculis ((voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 533399, "title": "Life is beautiful", "original_title": "La vie est belle", "slug_title": "life-is-beautiful", "date": "1956-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqvgMTNOghN7H0PYgqbiylfQdnd.jpg", "actors": [], "comments": [], "recommandations_id": []}

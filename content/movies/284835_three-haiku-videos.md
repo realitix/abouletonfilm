@@ -1,0 +1,1 @@
+{"tmdb_id": 284835, "title": "Three Haiku Videos", "original_title": "Trois video haikus", "slug_title": "three-haiku-videos", "date": "1994-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gisYPxAwF3uSOQxeSa8ILXK35gx.jpg", "actors": ["Catherine Belkhodja ()"], "comments": [], "recommandations_id": []}

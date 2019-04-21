@@ -1,0 +1,1 @@
+{"tmdb_id": 419538, "title": "He Likes to Chop Down Trees", "original_title": "He Likes to Chop Down Trees", "slug_title": "he-likes-to-chop-down-trees", "date": "1980-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbAXDzGkVZK7Lq23xfwGE2pggaD.jpg", "actors": [], "comments": [], "recommandations_id": []}

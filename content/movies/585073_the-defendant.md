@@ -1,0 +1,1 @@
+{"tmdb_id": 585073, "title": "The Defendant", "original_title": "Litigante", "slug_title": "the-defendant", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carolina Sanin ()", "Leticia G\u00f3mez ()", "Antonio R. Mart\u00ednez ()", "Alejandra Sarria ()"], "comments": [], "recommandations_id": []}

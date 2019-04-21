@@ -1,0 +1,1 @@
+{"tmdb_id": 417084, "title": "Drawings on Africa", "original_title": "Drawings on Africa", "slug_title": "drawings-on-africa", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWci0glYqrjmBERe9RgdbzJcbfY.jpg", "actors": [], "comments": [], "recommandations_id": []}

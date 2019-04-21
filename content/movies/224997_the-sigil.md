@@ -1,0 +1,1 @@
+{"tmdb_id": 224997, "title": "The Sigil", "original_title": "The Sigil", "slug_title": "the-sigil", "date": "2012-05-17", "genre": "", "score": "2.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wteiv9ZkCufs2FayywWxaO6LPNi.jpg", "actors": [], "comments": [], "recommandations_id": [327674, 332278, 172342, 204761]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 328469, "title": "Chicago: My Block My Responsibility", "original_title": "Chicago: My Block My Responsibility", "slug_title": "chicago-my-block-my-responsibility", "date": "2014-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 414995, "title": "Carrot, You're Not Growing Well", "original_title": "\u0160angarepo, ti ne raste\u0161 lepo", "slug_title": "carrot-you-re-not-growing-well", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Slobodan Skerli\u0107 (Director)"], "comments": [], "recommandations_id": []}

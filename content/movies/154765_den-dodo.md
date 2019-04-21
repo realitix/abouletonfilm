@@ -1,0 +1,1 @@
+{"tmdb_id": 154765, "title": "\u0414\u0435\u043d\u044c \u0414\u043e\u0434\u043e", "original_title": "\u0414\u0435\u043d\u044c \u0414\u043e\u0434\u043e", "slug_title": "den-dodo", "date": "2012-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

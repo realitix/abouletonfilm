@@ -1,0 +1,1 @@
+{"tmdb_id": 589503, "title": "I Wanna Be Boss", "original_title": "I Wanna Be Boss", "slug_title": "i-wanna-be-boss", "date": "2008-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

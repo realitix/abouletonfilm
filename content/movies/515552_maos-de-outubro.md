@@ -1,0 +1,1 @@
+{"tmdb_id": 515552, "title": "M\u00e3os de Outubro", "original_title": "M\u00e3os de Outubro", "slug_title": "maos-de-outubro", "date": "2010-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jbpOlC4Gdt74M74ewldgeiSJrc.jpg", "actors": [], "comments": [], "recommandations_id": []}

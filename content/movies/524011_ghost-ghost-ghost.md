@@ -1,0 +1,1 @@
+{"tmdb_id": 524011, "title": "Ghost Ghost Ghost!", "original_title": "Ghost Ghost Ghost!", "slug_title": "ghost-ghost-ghost", "date": "2013-10-03", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UuQ14h9vqcO28UJwZ25m1w9Q3.jpg", "actors": [], "comments": [], "recommandations_id": []}

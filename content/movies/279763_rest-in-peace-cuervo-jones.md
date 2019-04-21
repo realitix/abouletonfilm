@@ -1,0 +1,1 @@
+{"tmdb_id": 279763, "title": "Rest in Peace, Cuervo Jones", "original_title": "Rest in Peace, Cuervo Jones", "slug_title": "rest-in-peace-cuervo-jones", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

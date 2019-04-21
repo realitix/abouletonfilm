@@ -1,0 +1,1 @@
+{"tmdb_id": 252647, "title": "Not Another Sci-Fi Movie", "original_title": "Not Another Sci-Fi Movie", "slug_title": "not-another-sci-fi-movie", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

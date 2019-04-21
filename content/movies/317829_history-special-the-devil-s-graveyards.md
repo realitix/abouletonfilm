@@ -1,0 +1,1 @@
+{"tmdb_id": 317829, "title": "History Special: The Devil's Graveyards", "original_title": "History Special: The Devil's Graveyards", "slug_title": "history-special-the-devil-s-graveyards", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

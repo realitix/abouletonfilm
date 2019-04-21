@@ -1,0 +1,1 @@
+{"tmdb_id": 276504, "title": "Mes u\u017e. . . Lietuv\u0105!", "original_title": "Mes u\u017e. . . Lietuv\u0105!", "slug_title": "mes-uz-lietuva", "date": "2012-05-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oLiuzu7OZSiSXgVoung7WfvGM2h.jpg", "actors": [], "comments": [], "recommandations_id": []}

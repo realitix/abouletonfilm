@@ -1,0 +1,1 @@
+{"tmdb_id": 323490, "title": "Pu Pu Platter", "original_title": "Pu Pu Platter", "slug_title": "pu-pu-platter", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

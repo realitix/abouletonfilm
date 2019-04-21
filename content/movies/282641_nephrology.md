@@ -1,0 +1,1 @@
+{"tmdb_id": 282641, "title": "Nephrology", "original_title": "Nephrology", "slug_title": "nephrology", "date": "2014-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPaTAgabBymFaLtifWRQCriv2Uh.jpg", "actors": [], "comments": [], "recommandations_id": []}

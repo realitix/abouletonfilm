@@ -1,0 +1,1 @@
+{"tmdb_id": 216998, "title": "The Legend of Atlantis", "original_title": "The Legend of Atlantis", "slug_title": "the-legend-of-atlantis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

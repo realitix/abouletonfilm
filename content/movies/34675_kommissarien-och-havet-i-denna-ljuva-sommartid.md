@@ -1,0 +1,1 @@
+{"tmdb_id": 34675, "title": "Kommissarien och havet I denna ljuva sommartid", "original_title": "Kommissarien och havet I denna ljuva sommartid", "slug_title": "kommissarien-och-havet-i-denna-ljuva-sommartid", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

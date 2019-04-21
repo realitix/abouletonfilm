@@ -1,0 +1,1 @@
+{"tmdb_id": 558786, "title": "Zwei in einem Boot", "original_title": "Zwei in einem Boot", "slug_title": "zwei-in-einem-boot", "date": "1999-02-15", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m8WUS94jtrZZyLua7L2YgAzsLbE.jpg", "actors": [], "comments": [], "recommandations_id": []}

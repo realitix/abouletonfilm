@@ -1,0 +1,1 @@
+{"tmdb_id": 457211, "title": "Kittie \u200e\u2013 Spit In Your Eye", "original_title": "Kittie \u200e\u2013 Spit In Your Eye", "slug_title": "kittie-spit-in-your-eye", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fjJucE9wXV025dqxKh9dBHJCpyb.jpg", "actors": [], "comments": [], "recommandations_id": []}

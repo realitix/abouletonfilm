@@ -1,0 +1,1 @@
+{"tmdb_id": 484690, "title": "The Land of Snow", "original_title": "\uc124\uad6d", "slug_title": "the-land-of-snow", "date": "1977-11-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTkjL8kgXY9dEEA5X0aYYVrmaPr.jpg", "actors": ["Kim Young-ae ()", "Park Geun-hyung ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 403170, "title": "L\u2019Amant d\u00e9vou\u00e9", "original_title": "L\u2019Amant d\u00e9vou\u00e9", "slug_title": "lamant-devoue", "date": "1925-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

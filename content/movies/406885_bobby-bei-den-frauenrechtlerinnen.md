@@ -1,0 +1,1 @@
+{"tmdb_id": 406885, "title": "Bobby bei den Frauenrechtlerinnen", "original_title": "Bobby bei den Frauenrechtlerinnen", "slug_title": "bobby-bei-den-frauenrechtlerinnen", "date": "1911-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

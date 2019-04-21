@@ -1,0 +1,1 @@
+{"tmdb_id": 524995, "title": "Camerino sin biombo", "original_title": "Camerino sin biombo", "slug_title": "camerino-sin-biombo", "date": "1967-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Germ\u00e1n Cobos ()", "Gemma Cuervo ()", "Carmen Lozano ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349763, "title": "\uae68\uc18c\uae08\uacfc \uc625\ub5a8\uba54", "original_title": "\uae68\uc18c\uae08\uacfc \uc625\ub5a8\uba54", "slug_title": "ggaesogeumgwa-ogddeolme", "date": "1982-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

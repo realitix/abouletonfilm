@@ -1,0 +1,1 @@
+{"tmdb_id": 420914, "title": "Cinema d'altri tempi", "original_title": "Cinema d'altri tempi", "slug_title": "cinema-d-altri-tempi", "date": "1953-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lea Padovani (Caterina)", "Walter Chiari (Marcello Serventi)"], "comments": [], "recommandations_id": []}

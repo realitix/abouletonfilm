@@ -1,0 +1,1 @@
+{"tmdb_id": 282553, "title": "The Muse", "original_title": "De muze", "slug_title": "the-muse", "date": "2007-09-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthias Schoenaerts ()", "Tara Elders ()"], "comments": [], "recommandations_id": []}

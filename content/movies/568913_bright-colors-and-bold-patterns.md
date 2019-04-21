@@ -1,0 +1,1 @@
+{"tmdb_id": 568913, "title": "Bright Colors and Bold Patterns", "original_title": "Bright Colors and Bold Patterns", "slug_title": "bright-colors-and-bold-patterns", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9e88iQM9hB99Kw1XzK9l0g3nFF.jpg", "actors": [], "comments": [], "recommandations_id": []}

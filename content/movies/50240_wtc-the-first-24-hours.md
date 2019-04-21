@@ -1,0 +1,1 @@
+{"tmdb_id": 50240, "title": "WTC the First 24 Hours", "original_title": "WTC the First 24 Hours", "slug_title": "wtc-the-first-24-hours", "date": "2002-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/897Q0yr34KWsIWRGqxLQQpj6aww.jpg", "actors": [], "comments": [], "recommandations_id": []}

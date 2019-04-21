@@ -1,0 +1,1 @@
+{"tmdb_id": 167002, "title": "Cinema Hong Kong: Kung Fu", "original_title": "Cinema Hong Kong: Kung Fu", "slug_title": "cinema-hong-kong-kung-fu", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n70suO1ZbH6627FlyKIdZzdRrYE.jpg", "actors": [], "comments": [], "recommandations_id": []}

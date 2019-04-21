@@ -1,0 +1,1 @@
+{"tmdb_id": 556965, "title": "La chauve-souris", "original_title": "La chauve-souris", "slug_title": "la-chauve-souris", "date": "1932-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

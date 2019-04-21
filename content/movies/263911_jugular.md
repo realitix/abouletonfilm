@@ -1,0 +1,1 @@
+{"tmdb_id": 263911, "title": "Jugular", "original_title": "Jugular", "slug_title": "jugular", "date": "2014-02-01", "genre": "Thriller", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZJa2ZQMx5H8EiQ6No65nbaFsUv.jpg", "actors": [], "comments": [], "recommandations_id": []}

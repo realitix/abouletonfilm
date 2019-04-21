@@ -1,0 +1,1 @@
+{"tmdb_id": 443126, "title": "In The Jungle", "original_title": "In The Jungle", "slug_title": "in-the-jungle", "date": "2017-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cricket Arrison (The Scientist)", "M.C. Schmidt (The DJ)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 127793, "title": "Miss Narca", "original_title": "Miss Narca", "slug_title": "miss-narca", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

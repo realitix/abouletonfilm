@@ -1,0 +1,1 @@
+{"tmdb_id": 114984, "title": "Bathhouse", "original_title": "Bathhouse", "slug_title": "bathhouse", "date": "2005-11-11", "genre": "Drame", "score": "4.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXcECXJKe9gKDXxSg5v14l5TNjO.jpg", "actors": [], "comments": [], "recommandations_id": []}

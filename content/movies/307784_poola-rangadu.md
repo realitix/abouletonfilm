@@ -1,0 +1,1 @@
+{"tmdb_id": 307784, "title": "Poola Rangadu", "original_title": "Poola Rangadu", "slug_title": "poola-rangadu", "date": "2012-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

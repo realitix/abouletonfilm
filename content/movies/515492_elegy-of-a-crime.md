@@ -1,0 +1,1 @@
+{"tmdb_id": 515492, "title": "Elegy of a Crime", "original_title": "Elegia de um crime", "slug_title": "elegy-of-a-crime", "date": "2018-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjY27FSk2Za9aDVR68UV3A6pYd7.jpg", "actors": [], "comments": [], "recommandations_id": []}

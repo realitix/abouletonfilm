@@ -1,0 +1,1 @@
+{"tmdb_id": 275486, "title": "Danchi No Yume Dreams of the Projects", "original_title": "Danchi No Yume Dreams of the Projects", "slug_title": "danchi-no-yume-dreams-of-the-projects", "date": "2012-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

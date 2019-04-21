@@ -1,0 +1,1 @@
+{"tmdb_id": 328208, "title": "Karel Zeman d\u011btem", "original_title": "Karel Zeman d\u011btem", "slug_title": "karel-zeman-detem", "date": "1980-01-01", "genre": "Animation / Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i9RMXq6I1yDIjY4XZacpWSP94rL.jpg", "actors": [], "comments": [], "recommandations_id": []}

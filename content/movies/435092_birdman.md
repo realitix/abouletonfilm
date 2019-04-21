@@ -1,0 +1,1 @@
+{"tmdb_id": 435092, "title": "Birdman", "original_title": "Birdman", "slug_title": "birdman", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

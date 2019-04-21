@@ -1,0 +1,1 @@
+{"tmdb_id": 542966, "title": "Brian De Palma : Les Ann\u00e9es 60", "original_title": "Brian De Palma : Les Ann\u00e9es 60", "slug_title": "brian-de-palma-les-annees-60", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian De Palma ()"], "comments": [], "recommandations_id": []}

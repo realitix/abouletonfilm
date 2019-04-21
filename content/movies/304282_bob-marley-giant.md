@@ -1,0 +1,1 @@
+{"tmdb_id": 304282, "title": "Bob Marley: Giant", "original_title": "Bob Marley: Giant", "slug_title": "bob-marley-giant", "date": "2014-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

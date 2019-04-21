@@ -1,0 +1,1 @@
+{"tmdb_id": 300027, "title": "Gay Cuba", "original_title": "Gay Cuba", "slug_title": "gay-cuba", "date": "1996-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sIoVH75iU5tdX3uaLUPrVk35R1K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 136014, "title": "Bye June", "original_title": "\ubc14\uc774 \uc900", "slug_title": "bye-june", "date": "1998-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v7BWgwkRWcCt84TpU6B1FUyZ3ea.jpg", "actors": ["Rang Ha ()", "Kim Ha-neul ()", "Yoo Ji-tae ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559727, "title": "Kaniama Show", "original_title": "Kaniama Show", "slug_title": "kaniama-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pxJ1Qntehxu0Wert6sv5Vk3PWiv.jpg", "actors": [], "comments": [], "recommandations_id": []}

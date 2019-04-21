@@ -1,0 +1,1 @@
+{"tmdb_id": 173305, "title": "Pickman's Model", "original_title": "Pickman's Model", "slug_title": "pickman-s-model", "date": "1981-12-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbWM3irguS8nQIXAjUUe9nVbyC6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487714, "title": "Swimming Stone", "original_title": "Swimming Stone", "slug_title": "swimming-stone", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/okhYQuEbfor4UVcnZmqoOckhBz4.jpg", "actors": [], "comments": [], "recommandations_id": []}

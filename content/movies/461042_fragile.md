@@ -1,0 +1,1 @@
+{"tmdb_id": 461042, "title": "Fragile", "original_title": "Fragile", "slug_title": "fragile", "date": "2006-02-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marthe Keller (Emma)", "Felipe Castro (Sam)", "Stefanie Gunther (Catherine)"], "comments": [], "recommandations_id": []}

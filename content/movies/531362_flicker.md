@@ -1,0 +1,1 @@
+{"tmdb_id": 531362, "title": "Flicker", "original_title": "Flicker", "slug_title": "flicker", "date": "2018-06-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UL43Xh7EpmbaSUvW7w3RgojnYQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

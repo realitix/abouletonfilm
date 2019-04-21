@@ -1,0 +1,1 @@
+{"tmdb_id": 518814, "title": "Bible of Kong Girls", "original_title": "\u6e2f\u5973\u8056\u7d9337\u689d", "slug_title": "bible-of-kong-girls", "date": "", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

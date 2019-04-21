@@ -1,0 +1,1 @@
+{"tmdb_id": 401258, "title": "Sam Choy's Pok\u00e9 to the Max", "original_title": "Sam Choy's Pok\u00e9 to the Max", "slug_title": "sam-choy-s-poke-to-the-max", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6Sm3ouAvOcdGoUfxaP1Yh2LSlM.jpg", "actors": [], "comments": [], "recommandations_id": []}

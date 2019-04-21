@@ -1,0 +1,1 @@
+{"tmdb_id": 165329, "title": "I Love Kung Fu", "original_title": "I Love Kung Fu", "slug_title": "i-love-kung-fu", "date": "2001-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9uBavorq2QtjdK7QjBWzQaHpqBA.jpg", "actors": [], "comments": [], "recommandations_id": []}

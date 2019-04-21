@@ -1,0 +1,1 @@
+{"tmdb_id": 190821, "title": "Exodus: Live in Bochum", "original_title": "Exodus: Live in Bochum", "slug_title": "exodus-live-in-bochum", "date": "1989-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/blXaArZbHAeCzJ5cRx5zNMq01bx.jpg", "actors": [], "comments": [], "recommandations_id": []}

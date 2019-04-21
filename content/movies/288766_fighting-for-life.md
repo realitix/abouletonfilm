@@ -1,0 +1,1 @@
+{"tmdb_id": 288766, "title": "Fighting for Life", "original_title": "Fighting for Life", "slug_title": "fighting-for-life", "date": "2008-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

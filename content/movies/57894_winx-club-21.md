@@ -1,0 +1,1 @@
+{"tmdb_id": 57894, "title": "Winx Club 21", "original_title": "Winx Club 21", "slug_title": "winx-club-21", "date": "2010-03-03", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cDTPo0Ln6JkaEaQcD734vmqAfQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

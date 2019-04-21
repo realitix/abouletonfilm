@@ -1,0 +1,1 @@
+{"tmdb_id": 218780, "title": "Run of the Mill", "original_title": "Run of the Mill", "slug_title": "run-of-the-mill", "date": "1999-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4i9sAj7acjMv9T5KuRTzXqXQeqf.jpg", "actors": [], "comments": [], "recommandations_id": []}

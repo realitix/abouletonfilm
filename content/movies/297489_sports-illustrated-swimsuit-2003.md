@@ -1,0 +1,1 @@
+{"tmdb_id": 297489, "title": "Sports Illustrated: Swimsuit 2003", "original_title": "Sports Illustrated: Swimsuit 2003", "slug_title": "sports-illustrated-swimsuit-2003", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

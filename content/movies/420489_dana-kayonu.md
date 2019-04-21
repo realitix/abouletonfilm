@@ -1,0 +1,1 @@
+{"tmdb_id": 420489, "title": "Dana Kayonu", "original_title": "Dana Kayonu", "slug_title": "dana-kayonu", "date": "2016-10-07", "genre": "Romance / Com\u00e9die / Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYvge43LRWbJiitUnngwAYIrXwV.jpg", "actors": [], "comments": [], "recommandations_id": []}

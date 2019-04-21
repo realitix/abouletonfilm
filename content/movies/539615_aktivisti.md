@@ -1,0 +1,1 @@
+{"tmdb_id": 539615, "title": "Aktivisti", "original_title": "Aktivisti", "slug_title": "aktivisti", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YeGRMgFf9gBRlwhuAEQxPFcrYL.jpg", "actors": [], "comments": [], "recommandations_id": []}

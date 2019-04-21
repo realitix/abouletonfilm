@@ -1,0 +1,1 @@
+{"tmdb_id": 579214, "title": "How Safe Are My Drugs?", "original_title": "How Safe Are My Drugs?", "slug_title": "how-safe-are-my-drugs", "date": "2014-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["B. Traits (Narrator)"], "comments": [], "recommandations_id": []}

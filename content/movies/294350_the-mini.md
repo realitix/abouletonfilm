@@ -1,0 +1,1 @@
+{"tmdb_id": 294350, "title": "The Mini", "original_title": "The Mini", "slug_title": "the-mini", "date": "2007-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

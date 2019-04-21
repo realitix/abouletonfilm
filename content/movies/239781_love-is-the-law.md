@@ -1,0 +1,1 @@
+{"tmdb_id": 239781, "title": "Love is the Law", "original_title": "Love is the Law", "slug_title": "love-is-the-law", "date": "2003-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

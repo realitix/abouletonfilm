@@ -1,0 +1,1 @@
+{"tmdb_id": 568466, "title": "The Merrybell Motel", "original_title": "The Merrybell Motel", "slug_title": "the-merrybell-motel", "date": "2016-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Haworth ()", "Spencer Bang ()", "Peter Brown ()"], "comments": [], "recommandations_id": []}

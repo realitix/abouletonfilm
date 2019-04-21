@@ -1,0 +1,1 @@
+{"tmdb_id": 516739, "title": "20 Desenhos e um Abra\u00e7o", "original_title": "20 Desenhos e um Abra\u00e7o", "slug_title": "20-desenhos-e-um-abraco", "date": "2014-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

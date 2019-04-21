@@ -1,0 +1,1 @@
+{"tmdb_id": 483932, "title": "Mundo das Cores", "original_title": "Mundo das Cores", "slug_title": "mundo-das-cores", "date": "2017-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

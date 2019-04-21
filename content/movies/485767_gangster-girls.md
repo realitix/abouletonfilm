@@ -1,0 +1,1 @@
+{"tmdb_id": 485767, "title": "Gangster Girls", "original_title": "Gangster Girls", "slug_title": "gangster-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

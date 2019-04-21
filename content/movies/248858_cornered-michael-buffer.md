@@ -1,0 +1,1 @@
+{"tmdb_id": 248858, "title": "Cornered: Michael Buffer", "original_title": "Cornered: Michael Buffer", "slug_title": "cornered-michael-buffer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

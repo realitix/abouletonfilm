@@ -1,0 +1,1 @@
+{"tmdb_id": 576725, "title": "Blair Witch 2 Recut", "original_title": "Blair Witch 2 Recut", "slug_title": "blair-witch-2-recut", "date": "2017-09-28", "genre": "Horreur / Thriller / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7c2A14sSNOpwss09whBhdYm7ej7.jpg", "actors": [], "comments": [], "recommandations_id": []}

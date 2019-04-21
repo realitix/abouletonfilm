@@ -1,0 +1,1 @@
+{"tmdb_id": 522005, "title": "Aim\u00e9 C\u00e9saire - un homme une terre", "original_title": "Aim\u00e9 C\u00e9saire - un homme une terre", "slug_title": "aime-cesaire-un-homme-une-terre", "date": "1976-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

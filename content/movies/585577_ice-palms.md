@@ -1,0 +1,1 @@
+{"tmdb_id": 585577, "title": "Ice & Palms", "original_title": "Eis & Palmen", "slug_title": "ice-palms", "date": "2019-02-23", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPHXWEMNG0Bdp96KUrYS3hCV5wk.jpg", "actors": ["Jochen Mesle ()", "Max Kroneck ()"], "comments": [], "recommandations_id": []}

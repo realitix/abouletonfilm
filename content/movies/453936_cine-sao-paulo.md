@@ -1,0 +1,1 @@
+{"tmdb_id": 453936, "title": "Cine S\u00e3o Paulo", "original_title": "Cine S\u00e3o Paulo", "slug_title": "cine-sao-paulo", "date": "2017-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4patDt14TZLeDwixKHEHO6ID9iQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

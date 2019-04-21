@@ -1,0 +1,1 @@
+{"tmdb_id": 421417, "title": "Fantoro The Last Enforcer", "original_title": "Fantorro, le dernier justicier", "slug_title": "fantoro-the-last-enforcer", "date": "1972-10-11", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

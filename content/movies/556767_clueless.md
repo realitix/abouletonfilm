@@ -1,0 +1,1 @@
+{"tmdb_id": 556767, "title": "Clueless", "original_title": "Clueless", "slug_title": "clueless", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Clueless est un remake du film original de 1995 avec Alicia Silverstone.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

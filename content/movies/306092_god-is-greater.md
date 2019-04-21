@@ -1,0 +1,1 @@
+{"tmdb_id": 306092, "title": "God Is Greater", "original_title": "God Is Greater", "slug_title": "god-is-greater", "date": "2014-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

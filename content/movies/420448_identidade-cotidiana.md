@@ -1,0 +1,1 @@
+{"tmdb_id": 420448, "title": "Identidade cotidiana", "original_title": "Identidade cotidiana", "slug_title": "identidade-cotidiana", "date": "2016-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUuEkasoTpO7ZEtRhe5jvLNBee9.jpg", "actors": [], "comments": [], "recommandations_id": []}

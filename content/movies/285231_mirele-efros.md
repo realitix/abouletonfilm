@@ -1,0 +1,1 @@
+{"tmdb_id": 285231, "title": "Mirele Efros", "original_title": "Mirele Efros", "slug_title": "mirele-efros", "date": "1912-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ester Rachel Kaminska ()", "Rudolf Zaslawski ()", "Dawid Lui ()"], "comments": [], "recommandations_id": []}

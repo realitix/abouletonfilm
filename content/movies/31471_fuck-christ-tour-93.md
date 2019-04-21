@@ -1,0 +1,1 @@
+{"tmdb_id": 31471, "title": "Fuck Christ Tour '93", "original_title": "Fuck Christ Tour '93", "slug_title": "fuck-christ-tour-93", "date": "1993-12-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

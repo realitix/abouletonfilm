@@ -1,0 +1,1 @@
+{"tmdb_id": 314808, "title": "Lola & Virginia (volume 3)", "original_title": "Lola & Virginia (volume 3)", "slug_title": "lola-virginia-volume-3", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

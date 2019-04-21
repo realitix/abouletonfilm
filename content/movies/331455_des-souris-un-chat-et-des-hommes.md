@@ -1,0 +1,1 @@
+{"tmdb_id": 331455, "title": "Des Souris (un Chat) Et Des Hommes", "original_title": "Des Souris (un Chat) Et Des Hommes", "slug_title": "des-souris-un-chat-et-des-hommes", "date": "2011-09-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

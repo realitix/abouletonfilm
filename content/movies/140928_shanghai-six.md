@@ -1,0 +1,1 @@
+{"tmdb_id": 140928, "title": "Shanghai Six", "original_title": "Shanghai Six", "slug_title": "shanghai-six", "date": "2005-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hbamQbeFSEYHTDEEc865FKslp1.jpg", "actors": ["Corey Vanualr ()", "Corey Vanualr ()"], "comments": [], "recommandations_id": []}

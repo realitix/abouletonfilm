@@ -1,0 +1,1 @@
+{"tmdb_id": 310293, "title": "Rev. F.C. Barnes & Company: Live", "original_title": "Rev. F.C. Barnes & Company: Live", "slug_title": "rev-f-c-barnes-company-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

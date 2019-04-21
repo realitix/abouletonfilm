@@ -1,0 +1,1 @@
+{"tmdb_id": 364279, "title": "Lamont Peterson vs. Felix Diaz", "original_title": "Lamont Peterson vs. Felix Diaz", "slug_title": "lamont-peterson-vs-felix-diaz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

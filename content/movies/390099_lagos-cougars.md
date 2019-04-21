@@ -1,0 +1,1 @@
+{"tmdb_id": 390099, "title": "Lagos Cougars", "original_title": "Lagos Cougars", "slug_title": "lagos-cougars", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

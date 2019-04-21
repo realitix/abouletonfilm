@@ -1,0 +1,1 @@
+{"tmdb_id": 574338, "title": "Exit Quietly", "original_title": "Exit Quietly", "slug_title": "exit-quietly", "date": "1921-10-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Vernon ()", "Vera Steadman ()", "Gino Corrado ()", "William Sloan ()"], "comments": [], "recommandations_id": []}

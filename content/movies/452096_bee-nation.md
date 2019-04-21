@@ -1,0 +1,1 @@
+{"tmdb_id": 452096, "title": "Bee Nation", "original_title": "Bee Nation", "slug_title": "bee-nation", "date": "2017-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3IDHcSveXzeWIyxfFrBoZNxyLdY.jpg", "actors": [], "comments": [], "recommandations_id": []}

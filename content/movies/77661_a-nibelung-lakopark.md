@@ -1,0 +1,1 @@
+{"tmdb_id": 77661, "title": "A Nibelung-lak\u00f3park", "original_title": "A Nibelung-lak\u00f3park", "slug_title": "a-nibelung-lakopark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R\u00e1ba Roland (Hagen)"], "comments": [], "recommandations_id": []}

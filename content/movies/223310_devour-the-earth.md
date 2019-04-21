@@ -1,0 +1,1 @@
+{"tmdb_id": 223310, "title": "Devour the Earth", "original_title": "Devour the Earth", "slug_title": "devour-the-earth", "date": "1995-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

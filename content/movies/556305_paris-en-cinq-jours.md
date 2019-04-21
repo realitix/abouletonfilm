@@ -1,0 +1,1 @@
+{"tmdb_id": 556305, "title": "Paris en cinq jours", "original_title": "Paris en cinq jours", "slug_title": "paris-en-cinq-jours", "date": "1926-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

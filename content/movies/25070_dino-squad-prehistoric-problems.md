@@ -1,0 +1,1 @@
+{"tmdb_id": 25070, "title": "Dino Squad: Prehistoric Problems!", "original_title": "Dino Squad: Prehistoric Problems!", "slug_title": "dino-squad-prehistoric-problems", "date": "2008-08-18", "genre": "Aventure / Action / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

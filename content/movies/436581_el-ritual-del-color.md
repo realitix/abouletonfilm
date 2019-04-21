@@ -1,0 +1,1 @@
+{"tmdb_id": 436581, "title": "El ritual del color", "original_title": "El ritual del color", "slug_title": "el-ritual-del-color", "date": "2015-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Almut Schilling ()", "Maria Luz Olivares Capelle ()"], "comments": [], "recommandations_id": []}

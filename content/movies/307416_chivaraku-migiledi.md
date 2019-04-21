@@ -1,0 +1,1 @@
+{"tmdb_id": 307416, "title": "Chivaraku Migiledi", "original_title": "Chivaraku Migiledi", "slug_title": "chivaraku-migiledi", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

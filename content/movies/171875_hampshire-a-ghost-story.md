@@ -1,0 +1,1 @@
+{"tmdb_id": 171875, "title": "Hampshire: A Ghost Story", "original_title": "Hampshire: A Ghost Story", "slug_title": "hampshire-a-ghost-story", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

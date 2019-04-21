@@ -1,0 +1,1 @@
+{"tmdb_id": 547402, "title": "Bog Hole", "original_title": "Myrhull", "slug_title": "bog-hole", "date": "2018-06-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wiola Wilm ()", "Kristine Vikhammer Pettersen ()", "Anderz Eide ()", "Aggie Peterson ()"], "comments": [], "recommandations_id": []}

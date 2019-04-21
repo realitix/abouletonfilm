@@ -1,0 +1,1 @@
+{"tmdb_id": 210645, "title": "Soul in the Sea", "original_title": "Soul in the Sea", "slug_title": "soul-in-the-sea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

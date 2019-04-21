@@ -1,0 +1,1 @@
+{"tmdb_id": 106881, "title": "Inside the Iraq War", "original_title": "Inside the Iraq War", "slug_title": "inside-the-iraq-war", "date": "2009-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fzWP0CSwYZSLhqqiV8JH8Jeolx.jpg", "actors": [], "comments": [], "recommandations_id": []}

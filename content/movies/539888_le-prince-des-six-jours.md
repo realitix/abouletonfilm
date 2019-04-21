@@ -1,0 +1,1 @@
+{"tmdb_id": 539888, "title": "Le prince des Six Jours", "original_title": "Le prince des Six Jours", "slug_title": "le-prince-des-six-jours", "date": "1936-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3zmfu2r0ViJesPCgrpvRQBxAZv.jpg", "actors": [], "comments": [], "recommandations_id": []}

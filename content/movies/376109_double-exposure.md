@@ -1,0 +1,1 @@
+{"tmdb_id": 376109, "title": "Double Exposure", "original_title": "Double Exposure", "slug_title": "double-exposure", "date": "1975-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Lacey (Bruce)", "Jill Bruce (Jill)"], "comments": [], "recommandations_id": []}

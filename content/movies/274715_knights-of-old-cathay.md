@@ -1,0 +1,1 @@
+{"tmdb_id": 274715, "title": "Knights of Old Cathay", "original_title": "Knights of Old Cathay", "slug_title": "knights-of-old-cathay", "date": "1968-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nyFPoyDyIqYVBjcLfZwLTXdMa5i.jpg", "actors": [], "comments": [], "recommandations_id": []}

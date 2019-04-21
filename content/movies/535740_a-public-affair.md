@@ -1,0 +1,1 @@
+{"tmdb_id": 535740, "title": "A Public Affair", "original_title": "A Public Affair", "slug_title": "a-public-affair", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

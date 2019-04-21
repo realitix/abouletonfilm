@@ -1,0 +1,1 @@
+{"tmdb_id": 435380, "title": "Material Bruto", "original_title": "Material Bruto", "slug_title": "material-bruto", "date": "2006-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYVlcwrgzonGaAAWIRVxloaRZSx.jpg", "actors": [], "comments": [], "recommandations_id": []}

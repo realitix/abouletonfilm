@@ -1,0 +1,1 @@
+{"tmdb_id": 398510, "title": "CHIKARA Goldfinger", "original_title": "CHIKARA Goldfinger", "slug_title": "chikara-goldfinger", "date": "2014-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oX1mWIfbHmfqori122xkDdx8d7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

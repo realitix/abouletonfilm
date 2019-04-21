@@ -1,0 +1,1 @@
+{"tmdb_id": 259791, "title": "Ishu tebya", "original_title": "Ishu tebya", "slug_title": "ishu-tebya", "date": "2010-02-21", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aAzz3ZNYONvVHqyqI7CpL3A2T17.jpg", "actors": [], "comments": [], "recommandations_id": []}

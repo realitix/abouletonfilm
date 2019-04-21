@@ -1,0 +1,1 @@
+{"tmdb_id": 308497, "title": "Shine: An Unauthorized Story on Beyonc\u00e9", "original_title": "Shine: An Unauthorized Story on Beyonc\u00e9", "slug_title": "shine-an-unauthorized-story-on-beyonce", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

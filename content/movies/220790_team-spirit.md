@@ -1,0 +1,1 @@
+{"tmdb_id": 220790, "title": "Team Spirit", "original_title": "Team Spirit", "slug_title": "team-spirit", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Landsberg ()"], "comments": [], "recommandations_id": []}

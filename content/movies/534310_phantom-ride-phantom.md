@@ -1,0 +1,1 @@
+{"tmdb_id": 534310, "title": "Phantom Ride Phantom", "original_title": "Phantom Ride Phantom", "slug_title": "phantom-ride-phantom", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

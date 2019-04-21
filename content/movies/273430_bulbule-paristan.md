@@ -1,0 +1,1 @@
+{"tmdb_id": 273430, "title": "Bulbule Paristan", "original_title": "Bulbule Paristan", "slug_title": "bulbule-paristan", "date": "1926-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zubeida ()", "Sultana ()", "Putli ()"], "comments": [], "recommandations_id": []}

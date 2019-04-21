@@ -1,0 +1,1 @@
+{"tmdb_id": 55491, "title": "Viz: The Documentary", "original_title": "Viz: The Documentary", "slug_title": "viz-the-documentary", "date": "1990-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Keith Chegwin (Himself)", "Harry Enfield (Himself)", "Michael Palin (Himself)"], "comments": [], "recommandations_id": []}

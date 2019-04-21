@@ -1,0 +1,1 @@
+{"tmdb_id": 313254, "title": "Cory in the House: All-Star Edition", "original_title": "Cory in the House: All-Star Edition", "slug_title": "cory-in-the-house-all-star-edition", "date": "2007-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

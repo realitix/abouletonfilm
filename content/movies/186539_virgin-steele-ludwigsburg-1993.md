@@ -1,0 +1,1 @@
+{"tmdb_id": 186539, "title": "Virgin Steele: Ludwigsburg 1993", "original_title": "Virgin Steele: Ludwigsburg 1993", "slug_title": "virgin-steele-ludwigsburg-1993", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

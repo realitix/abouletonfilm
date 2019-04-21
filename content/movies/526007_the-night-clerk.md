@@ -1,0 +1,1 @@
+{"tmdb_id": 526007, "title": "The Night Clerk", "original_title": "The Night Clerk", "slug_title": "the-night-clerk", "date": "", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tye Sheridan ()", "Helen Hunt ()", "Ana de Armas ()", "John Leguizamo ()"], "comments": [], "recommandations_id": []}

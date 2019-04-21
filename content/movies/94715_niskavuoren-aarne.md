@@ -1,0 +1,1 @@
+{"tmdb_id": 94715, "title": "Niskavuoren Aarne", "original_title": "Niskavuoren Aarne", "slug_title": "niskavuoren-aarne", "date": "1954-03-25", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQcakH9qqd5H79FwAqtMbc0GyP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

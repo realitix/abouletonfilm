@@ -1,0 +1,1 @@
+{"tmdb_id": 235864, "title": "Better Bait Than Never", "original_title": "Better Bait Than Never", "slug_title": "better-bait-than-never", "date": "1953-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 399691, "title": "Betty's Girl", "original_title": "Betty's Girl", "slug_title": "betty-s-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

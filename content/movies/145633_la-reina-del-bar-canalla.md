@@ -1,0 +1,1 @@
+{"tmdb_id": 145633, "title": "La reina del bar Canalla", "original_title": "La reina del bar Canalla", "slug_title": "la-reina-del-bar-canalla", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5S79bMlncwwkaNvR3bmLXJHZ8Iw.jpg", "actors": [], "comments": [], "recommandations_id": []}

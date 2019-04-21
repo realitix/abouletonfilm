@@ -1,0 +1,1 @@
+{"tmdb_id": 24087, "title": "The Essence Of The Game", "original_title": "The Essence Of The Game", "slug_title": "the-essence-of-the-game", "date": "2008-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

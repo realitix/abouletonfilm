@@ -1,0 +1,1 @@
+{"tmdb_id": 62361, "title": "My Dinner with Jimi", "original_title": "My Dinner with Jimi", "slug_title": "my-dinner-with-jimi", "date": "2003-02-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8L4B88FsSVXqcrCEMBhW5OBPOtM.jpg", "actors": ["Justin Henry (Howard Kaylan)"], "comments": [], "recommandations_id": []}

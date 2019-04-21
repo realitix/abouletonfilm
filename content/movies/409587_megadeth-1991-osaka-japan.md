@@ -1,0 +1,1 @@
+{"tmdb_id": 409587, "title": "Megadeth: [1991] Osaka, Japan", "original_title": "Megadeth: [1991] Osaka, Japan", "slug_title": "megadeth-1991-osaka-japan", "date": "1991-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cgQjkgdJESlk6LMlvb4D9qMSvHG.jpg", "actors": [], "comments": [], "recommandations_id": []}

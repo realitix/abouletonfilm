@@ -1,0 +1,1 @@
+{"tmdb_id": 401299, "title": "Chhota Bheem In Junglee Kabila", "original_title": "Chhota Bheem In Junglee Kabila", "slug_title": "chhota-bheem-in-junglee-kabila", "date": "2013-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

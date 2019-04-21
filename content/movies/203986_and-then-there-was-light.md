@@ -1,0 +1,1 @@
+{"tmdb_id": 203986, "title": "And Then There Was Light", "original_title": "Et la lumi\u00e8re fut", "slug_title": "and-then-there-was-light", "date": "1989-11-20", "genre": "Com\u00e9die / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQPGeo1eGOxI805myJRU6R9VcKs.jpg", "actors": [], "comments": [], "recommandations_id": []}

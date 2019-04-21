@@ -1,0 +1,1 @@
+{"tmdb_id": 514756, "title": "Adventskonzert  Glorious Bach!", "original_title": "Adventskonzert  Glorious Bach!", "slug_title": "adventskonzert-glorious-bach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxvPfCOAtZgTLkXlpNH97PlP4XT.jpg", "actors": [], "comments": [], "recommandations_id": []}

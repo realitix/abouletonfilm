@@ -1,0 +1,1 @@
+{"tmdb_id": 570893, "title": "Couch Boy", "original_title": "\u7761\u6c99\u53d1\u7684\u4eba", "slug_title": "couch-boy", "date": "2017-06-21", "genre": "Familial / Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1sYyVskhSctsWGM4XYjEwTZgJk.jpg", "actors": [], "comments": [], "recommandations_id": []}

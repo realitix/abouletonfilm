@@ -1,0 +1,1 @@
+{"tmdb_id": 300141, "title": "Ghatothkach 2", "original_title": "Ghatothkach 2", "slug_title": "ghatothkach-2", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ec2IlvpqYl9MB3lTPL3LTyTAjOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

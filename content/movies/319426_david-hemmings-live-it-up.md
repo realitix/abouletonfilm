@@ -1,0 +1,1 @@
+{"tmdb_id": 319426, "title": "David Hemmings: Live It Up", "original_title": "David Hemmings: Live It Up", "slug_title": "david-hemmings-live-it-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

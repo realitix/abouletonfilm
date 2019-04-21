@@ -1,0 +1,1 @@
+{"tmdb_id": 345177, "title": "Chryskylodon Blues", "original_title": "Chryskylodon Blues", "slug_title": "chryskylodon-blues", "date": "2015-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theo Green (Narration)"], "comments": [], "recommandations_id": []}

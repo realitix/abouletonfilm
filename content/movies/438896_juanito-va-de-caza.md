@@ -1,0 +1,1 @@
+{"tmdb_id": 438896, "title": "Juanito va de caza", "original_title": "Juanito va de caza", "slug_title": "juanito-va-de-caza", "date": "1942-02-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

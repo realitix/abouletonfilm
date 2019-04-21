@@ -1,0 +1,1 @@
+{"tmdb_id": 576755, "title": "Buster's Nose Dive", "original_title": "Buster's Nose Dive", "slug_title": "buster-s-nose-dive", "date": "1926-02-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Trimble (Buster Brown)", "Doreen Turner (Mary Jane)", "Pete the Dog (Tige)"], "comments": [], "recommandations_id": []}

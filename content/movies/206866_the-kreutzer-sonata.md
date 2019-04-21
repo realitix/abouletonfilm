@@ -1,0 +1,1 @@
+{"tmdb_id": 206866, "title": "The Kreutzer Sonata", "original_title": "Kreitserova sonata", "slug_title": "the-kreutzer-sonata", "date": "1914-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Boris Orsky (Poznyshev)", "Lidiya Sychyova (Her mother)", "Mikhail Tamarov (Leo Tolstoy)"], "comments": [], "recommandations_id": []}

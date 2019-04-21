@@ -1,0 +1,1 @@
+{"tmdb_id": 235706, "title": "Ciudadano Negr\u00edn", "original_title": "Ciudadano Negr\u00edn", "slug_title": "ciudadano-negrin", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYya3Pg7qIzm78TBFmj3J0ELVGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317912, "title": "The Master Designer", "original_title": "The Master Designer", "slug_title": "the-master-designer", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

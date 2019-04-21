@@ -1,0 +1,1 @@
+{"tmdb_id": 320353, "title": "Bernstein in London: Verdi Requiem", "original_title": "Bernstein in London: Verdi Requiem", "slug_title": "bernstein-in-london-verdi-requiem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

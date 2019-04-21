@@ -1,0 +1,1 @@
+{"tmdb_id": 118030, "title": "B\u00f6ikzm\u00f6ind", "original_title": "B\u00f6ikzm\u00f6ind", "slug_title": "boikzmoind", "date": "2011-10-27", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbRfB4UQLwceeYIxh95r3lfewvp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 263906, "title": "Nayagan", "original_title": "Nayagan", "slug_title": "nayagan", "date": "2008-08-22", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J. K. Rithesh (Guru)", "Sangeetha Krish (Dr. Sandhya)", "Keerthi Chawla ()"], "comments": [], "recommandations_id": []}

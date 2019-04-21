@@ -1,0 +1,1 @@
+{"tmdb_id": 510499, "title": "The Happy Time That Has Passed", "original_title": "O Tempo Feliz Que Passou", "slug_title": "the-happy-time-that-has-passed", "date": "2015-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDjuHUP9MHtzwPJRKAfejpWzzTg.jpg", "actors": [], "comments": [], "recommandations_id": []}

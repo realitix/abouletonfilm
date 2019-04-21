@@ -1,0 +1,1 @@
+{"tmdb_id": 535620, "title": "Devils Cove", "original_title": "Devils Cove", "slug_title": "devils-cove", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334323, "title": "Wyjscie", "original_title": "Wyjscie", "slug_title": "wyjscie", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llcSDkWQ9zWZoa28p5sQs1crXPJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

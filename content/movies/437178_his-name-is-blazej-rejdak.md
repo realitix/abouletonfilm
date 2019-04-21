@@ -1,0 +1,1 @@
+{"tmdb_id": 437178, "title": "His Name Is B\u0142a\u017cej Rejdak", "original_title": "Nazywa si\u0119 B\u0142a\u017cej Rejdak", "slug_title": "his-name-is-blazej-rejdak", "date": "1969-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

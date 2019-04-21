@@ -1,0 +1,1 @@
+{"tmdb_id": 364667, "title": "Sembene", "original_title": "Sembene", "slug_title": "sembene", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

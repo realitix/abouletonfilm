@@ -1,0 +1,1 @@
+{"tmdb_id": 188642, "title": "Killer nurse", "original_title": "Killer nurse", "slug_title": "killer-nurse", "date": "2008-11-01", "genre": "Horreur / Crime", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6v7EXKvncSGDGxvnrVEnWwXmsM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 190653, "title": "Wexford Bull Ring", "original_title": "Wexford Bull Ring", "slug_title": "wexford-bull-ring", "date": "1902-05-13", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 264657, "title": "O Leproso", "original_title": "O Leproso", "slug_title": "o-leproso", "date": "2009-09-06", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pgu2L5jSbdhyMPtg7ze81cFPMR7.jpg", "actors": [], "comments": [], "recommandations_id": []}

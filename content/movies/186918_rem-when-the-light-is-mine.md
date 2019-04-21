@@ -1,0 +1,1 @@
+{"tmdb_id": 186918, "title": "REM: When the Light is Mine", "original_title": "REM: When the Light is Mine", "slug_title": "rem-when-the-light-is-mine", "date": "2006-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wR3HAuIGoyXCoSztHf4W42dh2Po.jpg", "actors": ["R.E.M. ()"], "comments": [], "recommandations_id": []}

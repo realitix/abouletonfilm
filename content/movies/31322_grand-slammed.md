@@ -1,0 +1,1 @@
+{"tmdb_id": 31322, "title": "Grand Slammed", "original_title": "Grand Slammed", "slug_title": "grand-slammed", "date": "2010-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muPst8HDifeR6wN1CRHJjkPYfLU.jpg", "actors": [], "comments": [], "recommandations_id": []}

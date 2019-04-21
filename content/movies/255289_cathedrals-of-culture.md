@@ -1,0 +1,1 @@
+{"tmdb_id": 255289, "title": "Cathedrals of Culture", "original_title": "Cathedrals of Culture", "slug_title": "cathedrals-of-culture", "date": "2014-05-29", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXlIjytQH4GcGBkShAhpE3Cbh7V.jpg", "actors": [], "comments": [], "recommandations_id": []}

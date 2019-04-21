@@ -1,0 +1,1 @@
+{"tmdb_id": 409709, "title": "Warszawa", "original_title": "Warszawa", "slug_title": "warszawa", "date": "2003-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiE6rfAdQKNoYWe16HIVjf3atER.jpg", "actors": [], "comments": [], "recommandations_id": []}

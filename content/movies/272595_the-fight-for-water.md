@@ -1,0 +1,1 @@
+{"tmdb_id": 272595, "title": "The Fight for Water", "original_title": "The Fight for Water", "slug_title": "the-fight-for-water", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

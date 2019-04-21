@@ -1,0 +1,1 @@
+{"tmdb_id": 337352, "title": "Bafat\u00e1 Filme Clube", "original_title": "Bafat\u00e1 Filme Clube", "slug_title": "bafata-filme-clube", "date": "2012-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rbankP6DbZFym1oxNFO1dYfcIUZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

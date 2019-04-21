@@ -1,0 +1,1 @@
+{"tmdb_id": 328507, "title": "Southside Security Patrol", "original_title": "Southside Security Patrol", "slug_title": "southside-security-patrol", "date": "2014-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

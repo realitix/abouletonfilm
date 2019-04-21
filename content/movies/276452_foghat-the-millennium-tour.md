@@ -1,0 +1,1 @@
+{"tmdb_id": 276452, "title": "Foghat: The Millennium Tour", "original_title": "Foghat: The Millennium Tour", "slug_title": "foghat-the-millennium-tour", "date": "2000-01-01", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

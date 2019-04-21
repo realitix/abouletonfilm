@@ -1,0 +1,1 @@
+{"tmdb_id": 57501, "title": "Body Slam The History of Professional Wrestling", "original_title": "Body Slam The History of Professional Wrestling", "slug_title": "body-slam-the-history-of-professional-wrestling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

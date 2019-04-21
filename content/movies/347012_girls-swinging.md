@@ -1,0 +1,1 @@
+{"tmdb_id": 347012, "title": "Girls Swinging", "original_title": "Girls Swinging", "slug_title": "girls-swinging", "date": "1897-06-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

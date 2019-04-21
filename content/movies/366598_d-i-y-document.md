@@ -1,0 +1,1 @@
+{"tmdb_id": 366598, "title": "D.I.Y. Document", "original_title": "D.I.Y. Document", "slug_title": "d-i-y-document", "date": "2015-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uHwB5SBQVrHZlvPTdVmV4Y8efyV.jpg", "actors": [], "comments": [], "recommandations_id": []}

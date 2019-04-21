@@ -1,0 +1,1 @@
+{"tmdb_id": 477044, "title": "Bergman Island", "original_title": "Bergman Island", "slug_title": "bergman-island", "date": "", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Turturro ()", "Mia Wasikowska ()", "Anders Danielsen Lie ()", "Vicky Krieps ()"], "comments": [], "recommandations_id": []}

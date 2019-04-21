@@ -1,0 +1,1 @@
+{"tmdb_id": 343882, "title": "The Dirty Sanchez", "original_title": "The Dirty Sanchez", "slug_title": "the-dirty-sanchez", "date": "1999-11-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tim Hallacy (Rob)", "Mike Hull (Jaime)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 335194, "title": "Cirkus Summarum 2014", "original_title": "Cirkus Summarum 2014", "slug_title": "cirkus-summarum-2014", "date": "2014-06-28", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/opSLvcPI54geqGnBR63HpxXSyAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

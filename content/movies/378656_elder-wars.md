@@ -1,0 +1,1 @@
+{"tmdb_id": 378656, "title": "Elder Wars", "original_title": "Elder Wars", "slug_title": "elder-wars", "date": "2016-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550362, "title": "Ett bes\u00f6k hos Selma Lagerl\u00f6f", "original_title": "Ett bes\u00f6k hos Selma Lagerl\u00f6f", "slug_title": "ett-besok-hos-selma-lagerlof", "date": "1926-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Selma Lagerl\u00f6f (Herself)"], "comments": [], "recommandations_id": []}

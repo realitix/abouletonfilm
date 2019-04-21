@@ -1,0 +1,1 @@
+{"tmdb_id": 487822, "title": "Washing Walls With Mrs. G", "original_title": "Washing Walls With Mrs. G", "slug_title": "washing-walls-with-mrs-g", "date": "1980-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Buba (Himself)"], "comments": [], "recommandations_id": []}

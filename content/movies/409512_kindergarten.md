@@ -1,0 +1,1 @@
+{"tmdb_id": 409512, "title": "Kindergarten", "original_title": "Detskiy sad", "slug_title": "kindergarten", "date": "1984-02-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5CU8TEzRy1Nf1AoNwyokuwQUeWK.jpg", "actors": [], "comments": [], "recommandations_id": []}

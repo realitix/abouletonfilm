@@ -1,0 +1,1 @@
+{"tmdb_id": 514248, "title": "My Country No More", "original_title": "My Country No More", "slug_title": "my-country-no-more", "date": "2018-02-23", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tk9AO7Bxt1Cb1jRQfP87z3NFS1I.jpg", "actors": [], "comments": [], "recommandations_id": []}

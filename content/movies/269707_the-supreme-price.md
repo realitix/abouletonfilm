@@ -1,0 +1,1 @@
+{"tmdb_id": 269707, "title": "The Supreme Price", "original_title": "The Supreme Price", "slug_title": "the-supreme-price", "date": "2014-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jHSMnqVtNqku0NzK57ShlKtunqw.jpg", "actors": [], "comments": [], "recommandations_id": []}

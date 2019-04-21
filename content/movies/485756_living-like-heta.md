@@ -1,0 +1,1 @@
+{"tmdb_id": 485756, "title": "Living Like Heta", "original_title": "Living Like Heta", "slug_title": "living-like-heta", "date": "2017-09-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9vRDmua3GR3zDj6wsMEi1lj2OD.jpg", "actors": [], "comments": [], "recommandations_id": []}

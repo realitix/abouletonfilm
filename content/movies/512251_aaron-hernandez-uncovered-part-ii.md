@@ -1,0 +1,1 @@
+{"tmdb_id": 512251, "title": "Aaron Hernandez Uncovered Part II", "original_title": "Aaron Hernandez Uncovered Part II", "slug_title": "aaron-hernandez-uncovered-part-ii", "date": "2018-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harvey ()", "Evan ()"], "comments": [], "recommandations_id": []}

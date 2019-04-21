@@ -1,0 +1,1 @@
+{"tmdb_id": 381711, "title": "Spring Festival", "original_title": "Spring Festival", "slug_title": "spring-festival", "date": "1937-08-05", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Groundhog)"], "comments": [], "recommandations_id": []}

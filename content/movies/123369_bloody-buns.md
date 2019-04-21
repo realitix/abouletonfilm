@@ -1,0 +1,1 @@
+{"tmdb_id": 123369, "title": "Bloody Buns", "original_title": "The New Human Meat Pork Buns", "slug_title": "bloody-buns", "date": "2003-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tJr5YDNrbAuONWaT9txPJjrcuf.jpg", "actors": [], "comments": [], "recommandations_id": []}

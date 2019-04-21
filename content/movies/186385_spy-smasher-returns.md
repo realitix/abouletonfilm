@@ -1,0 +1,1 @@
+{"tmdb_id": 186385, "title": "Spy Smasher Returns", "original_title": "Spy Smasher Returns", "slug_title": "spy-smasher-returns", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

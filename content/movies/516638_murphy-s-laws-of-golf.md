@@ -1,0 +1,1 @@
+{"tmdb_id": 516638, "title": "Murphy's Laws of Golf", "original_title": "Murphy's Laws of Golf", "slug_title": "murphy-s-laws-of-golf", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/im9Lp8kH4PlGZFAa19IAJ31sEOR.jpg", "actors": [], "comments": [], "recommandations_id": []}

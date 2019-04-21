@@ -1,0 +1,1 @@
+{"tmdb_id": 477876, "title": "R\u00e9education des mutil\u00e9s: aux champs", "original_title": "R\u00e9education des mutil\u00e9s: aux champs", "slug_title": "reeducation-des-mutiles-aux-champs", "date": "1918-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

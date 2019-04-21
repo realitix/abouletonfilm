@@ -1,0 +1,1 @@
+{"tmdb_id": 413622, "title": "Der Pannwitzblick", "original_title": "Der Pannwitzblick", "slug_title": "der-pannwitzblick", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wK6mPdhB8ArFbr5eVTNzz8e27xI.jpg", "actors": [], "comments": [], "recommandations_id": []}

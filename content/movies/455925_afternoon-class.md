@@ -1,0 +1,1 @@
+{"tmdb_id": 455925, "title": "Afternoon Class", "original_title": "Afternoon Class", "slug_title": "afternoon-class", "date": "2015-10-31", "genre": "Animation / Com\u00e9die / Familial", "score": "9.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eOCZRX9gtBUzisgDsjSKRYaMSmD.jpg", "actors": [], "comments": [], "recommandations_id": []}

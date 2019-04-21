@@ -1,0 +1,1 @@
+{"tmdb_id": 377595, "title": "Madness Live: Goodbye to TV Centre", "original_title": "Madness Live: Goodbye to TV Centre", "slug_title": "madness-live-goodbye-to-tv-centre", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

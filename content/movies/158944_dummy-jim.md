@@ -1,0 +1,1 @@
+{"tmdb_id": 158944, "title": "Dummy Jim", "original_title": "Dummy Jim", "slug_title": "dummy-jim", "date": "2013-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDmBe3MH2V45nEGSSo82x5L6Ags.jpg", "actors": [], "comments": [], "recommandations_id": []}

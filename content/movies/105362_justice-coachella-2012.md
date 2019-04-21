@@ -1,0 +1,1 @@
+{"tmdb_id": 105362, "title": "Justice: Coachella 2012", "original_title": "Justice: Coachella 2012", "slug_title": "justice-coachella-2012", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

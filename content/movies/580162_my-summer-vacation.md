@@ -1,0 +1,1 @@
+{"tmdb_id": 580162, "title": "My Summer Vacation", "original_title": "My Summer Vacation", "slug_title": "my-summer-vacation", "date": "1996-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDbqlJF1pc8hgImUId1aZSStrT6.jpg", "actors": [], "comments": [], "recommandations_id": []}

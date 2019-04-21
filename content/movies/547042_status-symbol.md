@@ -1,0 +1,1 @@
+{"tmdb_id": 547042, "title": "Status Symbol", "original_title": "Status Symbol", "slug_title": "status-symbol", "date": "1970-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 530068, "title": "Terror en el Men\u00fa", "original_title": "Terror en el Men\u00fa", "slug_title": "terror-en-el-menu", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2AED7Hp9FNlWRTkXTkGE4HgtCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

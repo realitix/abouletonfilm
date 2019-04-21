@@ -1,0 +1,1 @@
+{"tmdb_id": 58516, "title": "neoplasia", "original_title": "neoplasia", "slug_title": "neoplasia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

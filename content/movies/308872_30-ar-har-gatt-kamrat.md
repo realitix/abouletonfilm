@@ -1,0 +1,1 @@
+{"tmdb_id": 308872, "title": "30 \u00e5r har g\u00e5tt, kamrat!", "original_title": "30 \u00e5r har g\u00e5tt, kamrat!", "slug_title": "30-ar-har-gatt-kamrat", "date": "2000-01-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

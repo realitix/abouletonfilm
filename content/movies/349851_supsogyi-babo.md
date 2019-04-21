@@ -1,0 +1,1 @@
+{"tmdb_id": 349851, "title": "\uc232\uc18d\uc758 \ubc14\ubcf4", "original_title": "\uc232\uc18d\uc758 \ubc14\ubcf4", "slug_title": "supsogyi-babo", "date": "1982-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

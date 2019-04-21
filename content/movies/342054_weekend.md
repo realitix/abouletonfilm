@@ -1,0 +1,1 @@
+{"tmdb_id": 342054, "title": "Weekend", "original_title": "Weekend", "slug_title": "weekend", "date": "1930-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnOkFOToJxy9eVS69R43R2xVgWB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 439681, "title": "Traces of Time: The Director Frank Beyer", "original_title": "Spur der Zeiten - Der Regisseur Frank Beyer", "slug_title": "traces-of-time-the-director-frank-beyer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Beyer (himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 524380, "title": "Emptyness", "original_title": "Vazio", "slug_title": "emptyness", "date": "2017-02-10", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oUDxYbxUNVrNdciVeXWdqWN9pwC.jpg", "actors": ["Jo\u00e3o Oct\u00e1vio Borgato (The Man with the Box)"], "comments": [], "recommandations_id": []}

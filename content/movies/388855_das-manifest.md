@@ -1,0 +1,1 @@
+{"tmdb_id": 388855, "title": "Das Manifest", "original_title": "Das Manifest", "slug_title": "das-manifest", "date": "1974-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBdEAis68hGcufrAD7xWVwxS5bS.jpg", "actors": [], "comments": [], "recommandations_id": []}

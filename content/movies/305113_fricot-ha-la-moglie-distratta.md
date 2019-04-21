@@ -1,0 +1,1 @@
+{"tmdb_id": 305113, "title": "Fricot ha la moglie distratta", "original_title": "Fricot ha la moglie distratta", "slug_title": "fricot-ha-la-moglie-distratta", "date": "1915-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernesto Vaser (Fricot)"], "comments": [], "recommandations_id": []}

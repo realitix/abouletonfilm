@@ -1,0 +1,1 @@
+{"tmdb_id": 237333, "title": "A Cold Romance", "original_title": "A Cold Romance", "slug_title": "a-cold-romance", "date": "1949-06-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u35B2ZwkDJqkXbbiNSsQevHIEqT.jpg", "actors": [], "comments": [], "recommandations_id": []}

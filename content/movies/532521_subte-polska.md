@@ -1,0 +1,1 @@
+{"tmdb_id": 532521, "title": "Subte: Polska", "original_title": "Subte: Polska", "slug_title": "subte-polska", "date": "2016-03-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uyKK0lgd3XfdlIlBDrlZxgPhuqb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 514545, "title": "Ring of Steel", "original_title": "Ring of Steel", "slug_title": "ring-of-steel", "date": "1942-04-02", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Y2bMSheok4ZZv9w7AItQpJ24Gm.jpg", "actors": ["Spencer Tracy (Narrator (voice))"], "comments": [], "recommandations_id": []}

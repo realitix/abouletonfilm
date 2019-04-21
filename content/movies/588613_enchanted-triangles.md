@@ -1,0 +1,1 @@
+{"tmdb_id": 588613, "title": "Enchanted Triangles", "original_title": "Czarodziejskie tr\u00f3jk\u0105ty", "slug_title": "enchanted-triangles", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

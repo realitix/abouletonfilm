@@ -1,0 +1,1 @@
+{"tmdb_id": 195183, "title": "Military Camp at Tampa, Taken from Train", "original_title": "Military Camp at Tampa, Taken from Train", "slug_title": "military-camp-at-tampa-taken-from-train", "date": "1898-05-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

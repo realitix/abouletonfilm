@@ -1,0 +1,1 @@
+{"tmdb_id": 156255, "title": "The Devils, the Devils", "original_title": "Diably, diably", "slug_title": "the-devils-the-devils", "date": "1991-09-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqw6CXYpJPZyVEECWKEE29KEzrl.jpg", "actors": ["Danuta Szaflarska (Wiedzma)"], "comments": [], "recommandations_id": []}

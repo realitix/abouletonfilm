@@ -1,0 +1,1 @@
+{"tmdb_id": 562366, "title": "So You Want to Buy a Used Car", "original_title": "So You Want to Buy a Used Car", "slug_title": "so-you-want-to-buy-a-used-car", "date": "1951-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

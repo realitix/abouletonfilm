@@ -1,0 +1,1 @@
+{"tmdb_id": 522187, "title": "Esmeralda", "original_title": "Esmeralda", "slug_title": "esmeralda", "date": "1977-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4LWtkfpcR2h4GW6L7i0jF9KANwa.jpg", "actors": ["Monica Carpiaux ()", "Ga\u00ebl Badaud ()", "Michel Nedjar ()"], "comments": [], "recommandations_id": []}

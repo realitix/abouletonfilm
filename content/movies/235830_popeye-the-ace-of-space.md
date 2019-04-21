@@ -1,0 +1,1 @@
+{"tmdb_id": 235830, "title": "Popeye, the Ace of Space", "original_title": "Popeye, the Ace of Space", "slug_title": "popeye-the-ace-of-space", "date": "1953-10-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ou8YrJ4AKtwSv1l6UyZAEabCpal.jpg", "actors": [], "comments": [], "recommandations_id": []}

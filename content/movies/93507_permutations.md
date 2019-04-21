@@ -1,0 +1,1 @@
+{"tmdb_id": 93507, "title": "Permutations", "original_title": "Permutations", "slug_title": "permutations", "date": "1968-01-01", "genre": "Documentaire", "score": "7.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8gjSAI4LZPcrqVTkuhPSbSccqi.jpg", "actors": [], "comments": [], "recommandations_id": [145619, 132161, 146986, 164597]}

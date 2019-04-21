@@ -1,0 +1,1 @@
+{"tmdb_id": 45825, "title": "The Voice", "original_title": "The Voice", "slug_title": "the-voice", "date": "2004-01-01", "genre": "Horreur / Documentaire", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509709, "title": "Naya Nasha", "original_title": "Naya Nasha", "slug_title": "naya-nasha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

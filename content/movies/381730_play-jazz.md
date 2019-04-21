@@ -1,0 +1,1 @@
+{"tmdb_id": 381730, "title": "Play Jazz", "original_title": "\u30d7\u30ec\u30a4\u30fb\u30b8\u30e3\u30ba", "slug_title": "play-jazz", "date": "1987-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPXpL7k9FUMSvw0iyFy2tHfZN6r.jpg", "actors": [], "comments": [], "recommandations_id": []}

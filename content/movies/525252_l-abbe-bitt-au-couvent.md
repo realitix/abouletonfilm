@@ -1,0 +1,1 @@
+{"tmdb_id": 525252, "title": "L'abb\u00e9 Bitt au couvent", "original_title": "L'abb\u00e9 Bitt au couvent", "slug_title": "l-abbe-bitt-au-couvent", "date": "1925-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 423703, "title": "Visual Text: Finger Poem", "original_title": "Visual Text: Finger Poem", "slug_title": "visual-text-finger-poem", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAU9gPayNHRPxGxMf2nEvO1U310.jpg", "actors": [], "comments": [], "recommandations_id": []}

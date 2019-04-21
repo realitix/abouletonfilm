@@ -1,0 +1,1 @@
+{"tmdb_id": 274833, "title": "L'\u00e9cole des femmes", "original_title": "L'\u00e9cole des femmes", "slug_title": "l-ecole-des-femmes", "date": "1999-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ogntZCNOYMlhLiH7LGSIP5fI9q.jpg", "actors": [], "comments": [], "recommandations_id": []}

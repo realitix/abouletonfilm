@@ -1,0 +1,1 @@
+{"tmdb_id": 580266, "title": "The Territorians", "original_title": "The Territorians", "slug_title": "the-territorians", "date": "1996-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwYMUcrqJcsnzxzdxMm5Nn3I6rm.jpg", "actors": [], "comments": [], "recommandations_id": []}

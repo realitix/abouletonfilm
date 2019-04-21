@@ -1,0 +1,1 @@
+{"tmdb_id": 404012, "title": "Le forum", "original_title": "Le forum", "slug_title": "le-forum", "date": "1896-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

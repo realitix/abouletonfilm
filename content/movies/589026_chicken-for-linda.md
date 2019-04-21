@@ -1,0 +1,1 @@
+{"tmdb_id": 589026, "title": "Chicken for Linda!", "original_title": "Linda veut du poulet !", "slug_title": "chicken-for-linda", "date": "", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDxuof39ojTSCTEKE95Ubxrwq7D.jpg", "actors": [], "comments": [], "recommandations_id": []}

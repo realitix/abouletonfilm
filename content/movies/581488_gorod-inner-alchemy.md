@@ -1,0 +1,1 @@
+{"tmdb_id": 581488, "title": "Gorod - Inner Alchemy", "original_title": "Gorod - Inner Alchemy", "slug_title": "gorod-inner-alchemy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10EBxUVg9fDWVGeOOnGQzBjejqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

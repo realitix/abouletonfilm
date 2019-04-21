@@ -1,0 +1,1 @@
+{"tmdb_id": 16111, "title": "Hanuman", "original_title": "Hanuman", "slug_title": "hanuman", "date": "2005-10-21", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkj7gnHPrnW2enSKsdzbmyqQoXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

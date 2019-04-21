@@ -1,0 +1,1 @@
+{"tmdb_id": 393130, "title": "Doctors & Nurses", "original_title": "Doctors & Nurses", "slug_title": "doctors-nurses", "date": "1981-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCp2Xl9XUIv0t6S8ImXwf1Lrg23.jpg", "actors": [], "comments": [], "recommandations_id": []}

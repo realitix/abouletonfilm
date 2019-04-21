@@ -1,0 +1,1 @@
+{"tmdb_id": 588593, "title": "The Blizzard", "original_title": "Zadymka", "slug_title": "the-blizzard", "date": "1976-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 545989, "title": "Taylor Mead's Acting Class", "original_title": "Taylor Mead's Acting Class", "slug_title": "taylor-mead-s-acting-class", "date": "1960-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Taylor Mead ()"], "comments": [], "recommandations_id": []}

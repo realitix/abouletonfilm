@@ -1,0 +1,1 @@
+{"tmdb_id": 577166, "title": "Queen: Live At Budokan", "original_title": "Queen: Live At Budokan", "slug_title": "queen-live-at-budokan", "date": "1979-04-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3852exp2P7hRRYjDgvGAxTfAjIV.jpg", "actors": ["Brian May ()"], "comments": [], "recommandations_id": []}

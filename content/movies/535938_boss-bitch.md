@@ -1,0 +1,1 @@
+{"tmdb_id": 535938, "title": "Boss Bitch", "original_title": "Boss Bitch", "slug_title": "boss-bitch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

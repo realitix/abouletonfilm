@@ -1,0 +1,1 @@
+{"tmdb_id": 165849, "title": "Disturbed: Music as a Weapon II", "original_title": "Disturbed: Music as a Weapon II", "slug_title": "disturbed-music-as-a-weapon-ii", "date": "2004-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8m6wsmwYjytBUSdzn1TCAFYVf5h.jpg", "actors": [], "comments": [], "recommandations_id": []}

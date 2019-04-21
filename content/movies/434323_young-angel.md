@@ -1,0 +1,1 @@
+{"tmdb_id": 434323, "title": "Young Angel", "original_title": "Liu Talu Fah", "slug_title": "young-angel", "date": "1992-09-17", "genre": "Drame / Action / Aventure / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfHrTzRU4DMEf1rjkGCAF12e4bh.jpg", "actors": ["Panna Rittikrai ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 423519, "title": "Teshigahara and Abe", "original_title": "Teshigahara and Abe", "slug_title": "teshigahara-and-abe", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

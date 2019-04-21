@@ -1,0 +1,1 @@
+{"tmdb_id": 284027, "title": "Chasing Louis Schnekowitz", "original_title": "Chasing Louis Schnekowitz", "slug_title": "chasing-louis-schnekowitz", "date": "2009-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

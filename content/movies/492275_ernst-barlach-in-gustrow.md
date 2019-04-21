@@ -1,0 +1,1 @@
+{"tmdb_id": 492275, "title": "Ernst Barlach in G\u00fcstrow", "original_title": "Ernst Barlach in G\u00fcstrow", "slug_title": "ernst-barlach-in-gustrow", "date": "1987-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

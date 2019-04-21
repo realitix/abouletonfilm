@@ -1,0 +1,1 @@
+{"tmdb_id": 195116, "title": "Surf at Monterey", "original_title": "Surf at Monterey", "slug_title": "surf-at-monterey", "date": "1897-10-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

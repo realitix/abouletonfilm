@@ -1,0 +1,1 @@
+{"tmdb_id": 336030, "title": "The Guy with the Knife", "original_title": "The Guy with the Knife", "slug_title": "the-guy-with-the-knife", "date": "2015-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1KiE1DDnLfOEROKQm6Fyv2LC32.jpg", "actors": [], "comments": [], "recommandations_id": []}

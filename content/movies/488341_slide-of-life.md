@@ -1,0 +1,1 @@
+{"tmdb_id": 488341, "title": "Slide of Life", "original_title": "Slide of Life", "slug_title": "slide-of-life", "date": "2017-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

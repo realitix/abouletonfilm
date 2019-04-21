@@ -1,0 +1,1 @@
+{"tmdb_id": 514159, "title": "Cupidity", "original_title": "Cupidity", "slug_title": "cupidity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

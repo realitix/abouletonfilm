@@ -1,0 +1,1 @@
+{"tmdb_id": 251345, "title": "The World's Worst Place to Be Gay", "original_title": "The World's Worst Place to Be Gay", "slug_title": "the-world-s-worst-place-to-be-gay", "date": "2011-02-14", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott Mills (Himself - Presenter)"], "comments": [], "recommandations_id": []}

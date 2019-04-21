@@ -1,0 +1,1 @@
+{"tmdb_id": 392219, "title": "The Smashing of the Reich", "original_title": "The Smashing of the Reich", "slug_title": "the-smashing-of-the-reich", "date": "1961-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

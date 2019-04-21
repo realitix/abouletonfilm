@@ -1,0 +1,1 @@
+{"tmdb_id": 525063, "title": "The Giant Brine Shrimp", "original_title": "The Giant Brine Shrimp", "slug_title": "the-giant-brine-shrimp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

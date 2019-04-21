@@ -1,0 +1,1 @@
+{"tmdb_id": 453913, "title": "Zalimler", "original_title": "Zalimler", "slug_title": "zalimler", "date": "1966-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hSZhZXPj3Xk0m2iMJgp0aIwhUXZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

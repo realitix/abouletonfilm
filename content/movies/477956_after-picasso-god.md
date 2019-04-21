@@ -1,0 +1,1 @@
+{"tmdb_id": 477956, "title": "After Picasso, God", "original_title": "After Picasso, God", "slug_title": "after-picasso-god", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

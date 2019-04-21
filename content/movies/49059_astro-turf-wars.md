@@ -1,0 +1,1 @@
+{"tmdb_id": 49059, "title": "(Astro) Turf Wars", "original_title": "(Astro) Turf Wars", "slug_title": "astro-turf-wars", "date": "2010-10-16", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e0GuukxkfEb4Sqf3LHMLl6pAZZA.jpg", "actors": [], "comments": [], "recommandations_id": []}

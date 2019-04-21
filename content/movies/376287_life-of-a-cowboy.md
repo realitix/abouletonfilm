@@ -1,0 +1,1 @@
+{"tmdb_id": 376287, "title": "Life of a Cowboy", "original_title": "Life of a Cowboy", "slug_title": "life-of-a-cowboy", "date": "1906-06-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

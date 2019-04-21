@@ -1,0 +1,1 @@
+{"tmdb_id": 506929, "title": "Midarana Yokubo", "original_title": "Midarana Yokubo", "slug_title": "midarana-yokubo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

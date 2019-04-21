@@ -1,0 +1,1 @@
+{"tmdb_id": 211862, "title": "Teddy Bears' Picnic", "original_title": "Teddy Bears' Picnic", "slug_title": "teddy-bears-picnic", "date": "2006-07-20", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FbbKVAw8v72xS9hY66M1nVVyj5.jpg", "actors": [], "comments": [], "recommandations_id": []}

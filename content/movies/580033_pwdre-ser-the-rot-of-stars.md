@@ -1,0 +1,1 @@
+{"tmdb_id": 580033, "title": "Pwdre Ser: the rot of stars", "original_title": "Pwdre Ser: the rot of stars", "slug_title": "pwdre-ser-the-rot-of-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evGyluD6HKZlAbqkbq431nMh9Gf.jpg", "actors": [], "comments": [], "recommandations_id": []}

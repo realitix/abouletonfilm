@@ -1,0 +1,1 @@
+{"tmdb_id": 502685, "title": "Film-Makers' Showcase", "original_title": "Film-Makers' Showcase", "slug_title": "film-makers-showcase", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

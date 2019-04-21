@@ -1,0 +1,1 @@
+{"tmdb_id": 533315, "title": "Powerplay", "original_title": "Powerplay", "slug_title": "powerplay", "date": "2004-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

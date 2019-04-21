@@ -1,0 +1,1 @@
+{"tmdb_id": 202943, "title": "Ru\u00eddo das Minas", "original_title": "Ru\u00eddo das Minas", "slug_title": "ruido-das-minas", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xQnKHsYTtohbjL4dqXoUcrB9O4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

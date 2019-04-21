@@ -1,0 +1,1 @@
+{"tmdb_id": 454113, "title": "Raajakumara", "original_title": "Raajakumara", "slug_title": "raajakumara", "date": "2017-04-24", "genre": "Familial / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lbpETE00BtXQ3LVoYlamrfsTEnF.jpg", "actors": [], "comments": [], "recommandations_id": []}

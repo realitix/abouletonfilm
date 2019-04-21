@@ -1,0 +1,1 @@
+{"tmdb_id": 329437, "title": "Sembilan Wali", "original_title": "Sembilan Wali", "slug_title": "sembilan-wali", "date": "1985-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YBU1xHdDowUCOwq2tTZ3dcyfT8.jpg", "actors": [], "comments": [], "recommandations_id": []}

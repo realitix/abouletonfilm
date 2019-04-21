@@ -1,0 +1,1 @@
+{"tmdb_id": 317518, "title": "Reggae Showdown: Giants of Sting", "original_title": "Reggae Showdown: Giants of Sting", "slug_title": "reggae-showdown-giants-of-sting", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

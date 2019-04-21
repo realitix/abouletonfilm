@@ -1,0 +1,1 @@
+{"tmdb_id": 521979, "title": "Let There Be Whistleblowers", "original_title": "Let There Be Whistleblowers", "slug_title": "let-there-be-whistleblowers", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

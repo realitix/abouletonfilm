@@ -1,0 +1,1 @@
+{"tmdb_id": 316647, "title": "Jimi Hendrix: Videobiography", "original_title": "Jimi Hendrix: Videobiography", "slug_title": "jimi-hendrix-videobiography", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

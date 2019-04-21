@@ -1,0 +1,1 @@
+{"tmdb_id": 331809, "title": "Disaster Preparedness", "original_title": "Disaster Preparedness", "slug_title": "disaster-preparedness", "date": "2014-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amy Vorpahl (Becca)", "Breeda Wool (Rose)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 283874, "title": "The Mummy's Dream", "original_title": "\u30df\u30a4\u30e9\u306e\u5922", "slug_title": "the-mummy-s-dream", "date": "1989-07-26", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpKQRsJ4zcHK63FAfSMe2bqVgd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

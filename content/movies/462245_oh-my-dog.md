@@ -1,0 +1,1 @@
+{"tmdb_id": 462245, "title": "Oh my Dog!", "original_title": "Oh my Dog!", "slug_title": "oh-my-dog", "date": "2015-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bcm1i6mOO7RiVfJkOiw8L4GpD4r.jpg", "actors": [], "comments": [], "recommandations_id": []}

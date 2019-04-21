@@ -1,0 +1,1 @@
+{"tmdb_id": 536087, "title": "Wes Anderson: From Above", "original_title": "Wes Anderson: From Above", "slug_title": "wes-anderson-from-above", "date": "2012-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8aK0399CY1nJD8aICtXqTgGMJFc.jpg", "actors": [], "comments": [], "recommandations_id": []}

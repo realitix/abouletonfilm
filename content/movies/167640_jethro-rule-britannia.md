@@ -1,0 +1,1 @@
+{"tmdb_id": 167640, "title": "Jethro: Rule Britannia!", "original_title": "Jethro: Rule Britannia!", "slug_title": "jethro-rule-britannia", "date": "2001-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOFv8yK5PmmjoVXiHHwNQMllXK2.jpg", "actors": ["Jethro ()"], "comments": [], "recommandations_id": []}

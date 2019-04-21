@@ -1,0 +1,1 @@
+{"tmdb_id": 374905, "title": "Kracker Jack'd", "original_title": "Kracker Jack'd", "slug_title": "kracker-jack-d", "date": "2003-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyl9HZZc8DNw45PMaoTP73XrXZ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

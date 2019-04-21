@@ -1,0 +1,1 @@
+{"tmdb_id": 350383, "title": "\ubabb\uba39\uc5b4\ub3c4 \uace0", "original_title": "\ubabb\uba39\uc5b4\ub3c4 \uace0", "slug_title": "mosmeogeodo-go", "date": "1989-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

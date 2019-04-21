@@ -1,0 +1,1 @@
+{"tmdb_id": 334820, "title": "Bademeisters", "original_title": "Bademeisters", "slug_title": "bademeisters", "date": "2014-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwlOCtAMLGSIH0C6LxdNbFkGxGy.jpg", "actors": [], "comments": [], "recommandations_id": []}

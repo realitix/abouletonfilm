@@ -1,0 +1,1 @@
+{"tmdb_id": 189929, "title": "Barnum & Ringling, Inc.", "original_title": "Barnum & Ringling, Inc.", "slug_title": "barnum-ringling-inc", "date": "1928-04-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HOZQU9b1STG0mhw858OLxZqufJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

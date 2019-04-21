@@ -1,0 +1,1 @@
+{"tmdb_id": 449128, "title": "Bogdan's Journey", "original_title": "Bogdan's Journey", "slug_title": "bogdan-s-journey", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

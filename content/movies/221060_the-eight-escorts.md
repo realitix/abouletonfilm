@@ -1,0 +1,1 @@
+{"tmdb_id": 221060, "title": "The Eight Escorts", "original_title": "Ba jue", "slug_title": "the-eight-escorts", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unSfO8vph5nBBLXEtZ32AC5ikIh.jpg", "actors": [], "comments": [], "recommandations_id": []}

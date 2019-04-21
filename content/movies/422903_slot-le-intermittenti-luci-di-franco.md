@@ -1,0 +1,1 @@
+{"tmdb_id": 422903, "title": "Slot - le intermittenti luci di Franco", "original_title": "Slot - le intermittenti luci di Franco", "slug_title": "slot-le-intermittenti-luci-di-franco", "date": "2013-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

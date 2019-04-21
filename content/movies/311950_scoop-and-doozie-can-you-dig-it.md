@@ -1,0 +1,1 @@
+{"tmdb_id": 311950, "title": "Scoop and Doozie: Can You Dig It?", "original_title": "Scoop and Doozie: Can You Dig It?", "slug_title": "scoop-and-doozie-can-you-dig-it", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 143484, "title": "Vale Tudo Japan 1994", "original_title": "Vale Tudo Japan 1994", "slug_title": "vale-tudo-japan-1994", "date": "1994-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

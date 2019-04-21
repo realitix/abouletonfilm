@@ -1,0 +1,1 @@
+{"tmdb_id": 511217, "title": "Canada Vignettes: Klondike Gold", "original_title": "Canada Vignettes: Klondike Gold", "slug_title": "canada-vignettes-klondike-gold", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

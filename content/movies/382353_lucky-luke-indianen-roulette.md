@@ -1,0 +1,1 @@
+{"tmdb_id": 382353, "title": "Lucky Luke - Indianen Roulette", "original_title": "Lucky Luke - Indianen Roulette", "slug_title": "lucky-luke-indianen-roulette", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gEZcP5Fl5S9sQppEznjVKZ35N0t.jpg", "actors": [], "comments": [], "recommandations_id": []}

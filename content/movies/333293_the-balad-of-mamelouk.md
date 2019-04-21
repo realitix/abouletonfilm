@@ -1,0 +1,1 @@
+{"tmdb_id": 333293, "title": "The Balad of Mamelouk", "original_title": "Sar\u00e2b", "slug_title": "the-balad-of-mamelouk", "date": "1992-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yorgo Voyagis ()", "Bekim Fehmiu ()", "Miroslav Mach\u00e1\u010dek ()"], "comments": [], "recommandations_id": []}

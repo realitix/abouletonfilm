@@ -1,0 +1,1 @@
+{"tmdb_id": 317886, "title": "Forrest Griffin: The Ultimate Fighter", "original_title": "Forrest Griffin: The Ultimate Fighter", "slug_title": "forrest-griffin-the-ultimate-fighter", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

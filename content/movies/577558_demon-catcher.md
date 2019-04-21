@@ -1,0 +1,1 @@
+{"tmdb_id": 577558, "title": "Demon Catcher", "original_title": "\u9053\u5e08\u7237", "slug_title": "demon-catcher", "date": "2018-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leung Kar-Yan ()", "Billy Lau ()", "Fengye Lin ()", "Angel Fuhe ()"], "comments": [], "recommandations_id": []}

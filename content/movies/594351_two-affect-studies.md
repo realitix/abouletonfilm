@@ -1,0 +1,1 @@
+{"tmdb_id": 594351, "title": "Two Affect Studies", "original_title": "Two Affect Studies", "slug_title": "two-affect-studies", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499519, "title": "Platamama", "original_title": "Platamama", "slug_title": "platamama", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ovgubkosNXGyPoSEcjIfY5rs5R.jpg", "actors": [], "comments": [], "recommandations_id": []}

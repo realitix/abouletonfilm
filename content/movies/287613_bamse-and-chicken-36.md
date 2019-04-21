@@ -1,0 +1,1 @@
+{"tmdb_id": 287613, "title": "Bamse and Chicken 36", "original_title": "Bamse and Chicken 36", "slug_title": "bamse-and-chicken-36", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jco7soOpcSieBzu8mNZp8rzFNGW.jpg", "actors": [], "comments": [], "recommandations_id": []}

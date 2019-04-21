@@ -1,0 +1,1 @@
+{"tmdb_id": 87945, "title": "Chain Camera", "original_title": "Chain Camera", "slug_title": "chain-camera", "date": "2001-01-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gwYTS0seX1JtmTyKTNzBYjuVvSL.jpg", "actors": [], "comments": [], "recommandations_id": []}

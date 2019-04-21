@@ -1,0 +1,1 @@
+{"tmdb_id": 122012, "title": "9 Drawings for Projection", "original_title": "9 Drawings for Projection", "slug_title": "9-drawings-for-projection", "date": "2004-03-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gUEOnogqmtaL113yD425uhYar83.jpg", "actors": [], "comments": [], "recommandations_id": []}

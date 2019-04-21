@@ -1,0 +1,1 @@
+{"tmdb_id": 532613, "title": "The Mullet Uncut", "original_title": "The Mullet Uncut", "slug_title": "the-mullet-uncut", "date": "2003-10-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZ7s8vRY20CU3o0Zpexkrebeni4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346802, "title": "America's Game: The Ice Bowl", "original_title": "America's Game: The Ice Bowl", "slug_title": "america-s-game-the-ice-bowl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

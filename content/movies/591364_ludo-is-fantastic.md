@@ -1,0 +1,1 @@
+{"tmdb_id": 591364, "title": "Ludo Is Fantastic", "original_title": "Ludo Is Fantastic", "slug_title": "ludo-is-fantastic", "date": "2018-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Pd64iQd1QebXVtc1c0vKWfsF9P.jpg", "actors": ["Ludo Mich ()"], "comments": [], "recommandations_id": []}

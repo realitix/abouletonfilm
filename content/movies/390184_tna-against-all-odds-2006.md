@@ -1,0 +1,1 @@
+{"tmdb_id": 390184, "title": "TNA Against All Odds 2006", "original_title": "TNA Against All Odds 2006", "slug_title": "tna-against-all-odds-2006", "date": "2006-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLlramgyZrtqES86wpLf6oxpnuA.jpg", "actors": [], "comments": [], "recommandations_id": []}

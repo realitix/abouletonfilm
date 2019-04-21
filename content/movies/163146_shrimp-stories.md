@@ -1,0 +1,1 @@
+{"tmdb_id": 163146, "title": "Shrimp Stories", "original_title": "Histoires de crevettes", "slug_title": "shrimp-stories", "date": "1964-01-01", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdwVC18URfEdQjjxqJyRMoGDC0H.jpg", "actors": [], "comments": [], "recommandations_id": [162451, 117595, 39241, 203663]}

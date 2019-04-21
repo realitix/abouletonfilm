@@ -1,0 +1,1 @@
+{"tmdb_id": 44307, "title": "Sabbath Entertainment", "original_title": "Oneg Shabat", "slug_title": "sabbath-entertainment", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

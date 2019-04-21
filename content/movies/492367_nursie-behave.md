@@ -1,0 +1,1 @@
+{"tmdb_id": 492367, "title": "Nursie Behave", "original_title": "Nursie Behave", "slug_title": "nursie-behave", "date": "1950-05-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Jo Allen (Vera Vague (as Vera Vague))"], "comments": [], "recommandations_id": []}

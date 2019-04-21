@@ -1,0 +1,1 @@
+{"tmdb_id": 415946, "title": "Cartoon Horrors Too!", "original_title": "Cartoon Horrors Too!", "slug_title": "cartoon-horrors-too", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

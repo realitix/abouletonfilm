@@ -1,0 +1,1 @@
+{"tmdb_id": 386647, "title": "Archie's Betty", "original_title": "Archie's Betty", "slug_title": "archie-s-betty", "date": "2015-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAAXAc65TWrOt00Gtu989ydXxC2.jpg", "actors": [], "comments": [], "recommandations_id": []}

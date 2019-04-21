@@ -1,0 +1,1 @@
+{"tmdb_id": 236000, "title": "Leghorn Swoggled", "original_title": "Leghorn Swoggled", "slug_title": "leghorn-swoggled", "date": "1951-07-27", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yd5ktqdhjgEIiHsxgVEefxEIddz.jpg", "actors": [], "comments": [], "recommandations_id": [204020, 226810]}

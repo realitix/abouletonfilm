@@ -1,0 +1,1 @@
+{"tmdb_id": 312550, "title": "Bajaflo 2: The New Blood", "original_title": "Bajaflo 2: The New Blood", "slug_title": "bajaflo-2-the-new-blood", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

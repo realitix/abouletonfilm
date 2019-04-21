@@ -1,0 +1,1 @@
+{"tmdb_id": 246394, "title": "Lick-It Man", "original_title": "Lick-It Man", "slug_title": "lick-it-man", "date": "2004-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

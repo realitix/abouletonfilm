@@ -1,0 +1,1 @@
+{"tmdb_id": 312678, "title": "How Jesus Died: The Final 18 Hours", "original_title": "How Jesus Died: The Final 18 Hours", "slug_title": "how-jesus-died-the-final-18-hours", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

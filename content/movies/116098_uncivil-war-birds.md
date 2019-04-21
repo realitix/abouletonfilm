@@ -1,0 +1,1 @@
+{"tmdb_id": 116098, "title": "Uncivil War Birds", "original_title": "Uncivil War Birds", "slug_title": "uncivil-war-birds", "date": "1946-03-29", "genre": "Com\u00e9die / Guerre", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

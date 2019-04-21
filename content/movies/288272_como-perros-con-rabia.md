@@ -1,0 +1,1 @@
+{"tmdb_id": 288272, "title": "Como perros con rabia", "original_title": "Como perros con rabia", "slug_title": "como-perros-con-rabia", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

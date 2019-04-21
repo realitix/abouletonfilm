@@ -1,0 +1,1 @@
+{"tmdb_id": 226048, "title": "Master of Suffering", "original_title": "\u5c11\u723a\u7684\u78e8\u96e3", "slug_title": "master-of-suffering", "date": "1987-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4OnV9NKAaIdq1sO6HUaU0kljMkP.jpg", "actors": [], "comments": [], "recommandations_id": []}

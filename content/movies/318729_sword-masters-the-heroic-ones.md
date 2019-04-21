@@ -1,0 +1,1 @@
+{"tmdb_id": 318729, "title": "Sword Masters: The Heroic Ones", "original_title": "Sword Masters: The Heroic Ones", "slug_title": "sword-masters-the-heroic-ones", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5U40D07FnigyxYehNqQJWC5KFm7.jpg", "actors": [], "comments": [], "recommandations_id": []}

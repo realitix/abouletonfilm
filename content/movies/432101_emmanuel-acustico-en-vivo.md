@@ -1,0 +1,1 @@
+{"tmdb_id": 432101, "title": "Emmanuel: Acustico En Vivo", "original_title": "Emmanuel: Acustico En Vivo", "slug_title": "emmanuel-acustico-en-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tt3EVuhzQKYw4KbdjLjbZOJnV5Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

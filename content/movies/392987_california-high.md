@@ -1,0 +1,1 @@
+{"tmdb_id": 392987, "title": "California High", "original_title": "California High", "slug_title": "california-high", "date": "2015-06-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4Bb7K5hYJG2KslCGU1e5VuFofv.jpg", "actors": [], "comments": [], "recommandations_id": []}

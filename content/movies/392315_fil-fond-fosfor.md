@@ -1,0 +1,1 @@
+{"tmdb_id": 392315, "title": "Fil, Fond, Fosfor", "original_title": "Fil, Fond, Fosfor", "slug_title": "fil-fond-fosfor", "date": "1981-04-09", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

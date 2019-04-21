@@ -1,0 +1,1 @@
+{"tmdb_id": 399348, "title": "The Cryptozoologist", "original_title": "The Cryptozoologist", "slug_title": "the-cryptozoologist", "date": "2015-09-11", "genre": "Aventure / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44ognccQCFlQzE4bubvXs7h5aS3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 185255, "title": "Kingpin Production's Back in Black", "original_title": "Kingpin Production's Back in Black", "slug_title": "kingpin-production-s-back-in-black", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4QR4lUVDMJ9Qgn2Oyt0diF4fnSW.jpg", "actors": [], "comments": [], "recommandations_id": []}

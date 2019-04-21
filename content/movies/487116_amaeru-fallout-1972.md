@@ -1,0 +1,1 @@
+{"tmdb_id": 487116, "title": "Amaeru Fallout 1972", "original_title": "Amaeru Fallout 1972", "slug_title": "amaeru-fallout-1972", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81xwbMEgsIzYtkuMRJlfCxXuTDs.jpg", "actors": ["P.J. Harvey ()"], "comments": [], "recommandations_id": []}

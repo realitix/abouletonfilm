@@ -1,0 +1,1 @@
+{"tmdb_id": 268939, "title": "American Ninja Zombies", "original_title": "American Ninja Zombies", "slug_title": "american-ninja-zombies", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

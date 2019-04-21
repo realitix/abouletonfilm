@@ -1,0 +1,1 @@
+{"tmdb_id": 393175, "title": "Hong Kong Rebels", "original_title": "Hong Kong Rebels", "slug_title": "hong-kong-rebels", "date": "2014-02-28", "genre": "Drame / Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXmZ0Eh0lRRZDN3goymZ2ETIEHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

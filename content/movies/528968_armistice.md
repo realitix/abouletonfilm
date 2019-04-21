@@ -1,0 +1,1 @@
+{"tmdb_id": 528968, "title": "Armistice", "original_title": "Armistice", "slug_title": "armistice", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZnU3I4SmCSszy774qLsIDPlvHp.jpg", "actors": ["David Reynolds ()", "Erich Ludendorff ()"], "comments": [], "recommandations_id": []}

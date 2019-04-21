@@ -1,0 +1,1 @@
+{"tmdb_id": 518261, "title": "The Interior City", "original_title": "La Ciutat Interior", "slug_title": "the-interior-city", "date": "2018-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cigtjyacaMIMqeoPc7ApqdzCAWj.jpg", "actors": [], "comments": [], "recommandations_id": []}

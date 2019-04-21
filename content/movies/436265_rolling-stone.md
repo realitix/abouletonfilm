@@ -1,0 +1,1 @@
+{"tmdb_id": 436265, "title": "Rolling Stone", "original_title": "Rolling Stone", "slug_title": "rolling-stone", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNkkEKHKTh5iMK5NS7NCUp75a6a.jpg", "actors": [], "comments": [], "recommandations_id": []}

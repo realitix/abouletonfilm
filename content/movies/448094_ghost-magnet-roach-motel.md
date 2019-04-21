@@ -1,0 +1,1 @@
+{"tmdb_id": 448094, "title": "Ghost Magnet Roach Motel", "original_title": "Ghost Magnet Roach Motel", "slug_title": "ghost-magnet-roach-motel", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

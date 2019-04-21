@@ -1,0 +1,1 @@
+{"tmdb_id": 533568, "title": "The Queen of Six", "original_title": "The Queen of Six", "slug_title": "the-queen-of-six", "date": "1971-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AlS6QbnVMspQqm73xsbJRauHxNG.jpg", "actors": [], "comments": [], "recommandations_id": []}

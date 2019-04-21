@@ -1,0 +1,1 @@
+{"tmdb_id": 498089, "title": "Dokkaebi Bangmangi", "original_title": "Dokkaebi Bangmangi", "slug_title": "dokkaebi-bangmangi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AJ01Nrq0xUhkD5i88GrV7IrK4P.jpg", "actors": [], "comments": [], "recommandations_id": []}

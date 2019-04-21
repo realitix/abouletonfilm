@@ -1,0 +1,1 @@
+{"tmdb_id": 384916, "title": "Rhonda Goes to Hollywood", "original_title": "Rhonda Goes to Hollywood", "slug_title": "rhonda-goes-to-hollywood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

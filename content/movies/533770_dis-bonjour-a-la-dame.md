@@ -1,0 +1,1 @@
+{"tmdb_id": 533770, "title": "Dis bonjour \u00e0 la dame!..", "original_title": "Dis bonjour \u00e0 la dame!..", "slug_title": "dis-bonjour-a-la-dame", "date": "1977-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFB8m402HbdC5sZgQqPLdvg9j62.jpg", "actors": [], "comments": [], "recommandations_id": []}

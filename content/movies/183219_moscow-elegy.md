@@ -1,0 +1,1 @@
+{"tmdb_id": 183219, "title": "Moscow Elegy", "original_title": "Moskovskaya elegiya", "slug_title": "moscow-elegy", "date": "1987-04-04", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qdB0uGDNRDGjMeRB2fIacEshBO.jpg", "actors": ["Andrei Tarkovsky (Himself)"], "comments": [], "recommandations_id": []}

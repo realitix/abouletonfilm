@@ -1,0 +1,1 @@
+{"tmdb_id": 522557, "title": "The Clean Machine", "original_title": "The Clean Machine", "slug_title": "the-clean-machine", "date": "1988-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

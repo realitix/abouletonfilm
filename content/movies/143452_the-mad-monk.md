@@ -1,0 +1,1 @@
+{"tmdb_id": 143452, "title": "The Mad Monk", "original_title": "El Monje Loco", "slug_title": "the-mad-monk", "date": "1984-01-01", "genre": "Myst\u00e8re / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8o72zgI9vu99PqMA6QoQiOTqwG.jpg", "actors": [], "comments": [], "recommandations_id": []}

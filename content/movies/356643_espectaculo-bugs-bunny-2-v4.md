@@ -1,0 +1,1 @@
+{"tmdb_id": 356643, "title": "Espect\u00e1culo Bugs Bunny 2 V4", "original_title": "Espect\u00e1culo Bugs Bunny 2 V4", "slug_title": "espectaculo-bugs-bunny-2-v4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuQj6OJwMVrfO13W2BX3YQotP8X.jpg", "actors": [], "comments": [], "recommandations_id": []}

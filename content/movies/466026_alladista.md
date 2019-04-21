@@ -1,0 +1,1 @@
+{"tmdb_id": 466026, "title": "Alladista", "original_title": "Alladista", "slug_title": "alladista", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

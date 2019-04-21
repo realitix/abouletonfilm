@@ -1,0 +1,1 @@
+{"tmdb_id": 494462, "title": "Serpent Mother", "original_title": "Serpent Mother", "slug_title": "serpent-mother", "date": "1985-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUBFh8w6VFxLNvb8JRDeMaOZXCS.jpg", "actors": [], "comments": [], "recommandations_id": []}

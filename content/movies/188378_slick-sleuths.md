@@ -1,0 +1,1 @@
+{"tmdb_id": 188378, "title": "Slick Sleuths", "original_title": "Slick Sleuths", "slug_title": "slick-sleuths", "date": "1926-08-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukUokGV8dQBh8WANFtdVcVohfsm.jpg", "actors": [], "comments": [], "recommandations_id": []}

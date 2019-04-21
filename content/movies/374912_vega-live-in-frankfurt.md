@@ -1,0 +1,1 @@
+{"tmdb_id": 374912, "title": "Vega - Live in Frankfurt", "original_title": "Vega - Live in Frankfurt", "slug_title": "vega-live-in-frankfurt", "date": "2015-08-21", "genre": "Musique", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7A7wml6Ymm2z2WsFknR7G40ghcJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

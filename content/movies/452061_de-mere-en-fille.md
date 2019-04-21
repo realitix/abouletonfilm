@@ -1,0 +1,1 @@
+{"tmdb_id": 452061, "title": "De m\u00e8re en fille", "original_title": "De m\u00e8re en fille", "slug_title": "de-mere-en-fille", "date": "1968-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wf23n8Tm22akHEuOOXhDJbns3rw.jpg", "actors": [], "comments": [], "recommandations_id": []}

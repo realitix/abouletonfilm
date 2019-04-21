@@ -1,0 +1,1 @@
+{"tmdb_id": 549974, "title": "How To Be A Friend", "original_title": "How To Be A Friend", "slug_title": "how-to-be-a-friend", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

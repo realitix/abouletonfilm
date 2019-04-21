@@ -1,0 +1,1 @@
+{"tmdb_id": 305220, "title": "Chakravakam", "original_title": "Chakravakam", "slug_title": "chakravakam", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

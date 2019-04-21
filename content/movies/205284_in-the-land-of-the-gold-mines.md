@@ -1,0 +1,1 @@
+{"tmdb_id": 205284, "title": "In the Land of the Gold Mines", "original_title": "In the Land of the Gold Mines", "slug_title": "in-the-land-of-the-gold-mines", "date": "1908-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65WmKlan68aDyzbO63dWoKCwAcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

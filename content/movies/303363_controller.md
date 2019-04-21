@@ -1,0 +1,1 @@
+{"tmdb_id": 303363, "title": "Controller", "original_title": "Controller", "slug_title": "controller", "date": "2013-08-01", "genre": "Science-Fiction", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSu8Er7nhQAYP37zmzGkUg5oTAH.jpg", "actors": [], "comments": [], "recommandations_id": []}

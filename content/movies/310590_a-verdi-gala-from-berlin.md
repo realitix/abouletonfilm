@@ -1,0 +1,1 @@
+{"tmdb_id": 310590, "title": "A Verdi Gala from Berlin", "original_title": "A Verdi Gala from Berlin", "slug_title": "a-verdi-gala-from-berlin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gnJeSc47M3B7AhvgjqwOW3fh6RC.jpg", "actors": [], "comments": [], "recommandations_id": []}

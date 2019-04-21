@@ -1,0 +1,1 @@
+{"tmdb_id": 542143, "title": "Chalo Jeete Hain", "original_title": "Chalo Jeete Hain", "slug_title": "chalo-jeete-hain", "date": "2018-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCzK7NfsGY9RJRRdetOsEWwKa1p.jpg", "actors": [], "comments": [], "recommandations_id": []}

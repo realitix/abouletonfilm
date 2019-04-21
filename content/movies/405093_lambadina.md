@@ -1,0 +1,1 @@
+{"tmdb_id": 405093, "title": "Lambadina", "original_title": "Lambadina", "slug_title": "lambadina", "date": "2016-07-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkkCt5Iu196YLhKKV8QbqFHsKWQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

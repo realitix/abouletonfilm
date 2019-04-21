@@ -1,0 +1,1 @@
+{"tmdb_id": 323782, "title": "Ned Blessing: Return of the Hooded Man", "original_title": "Ned Blessing: Return of the Hooded Man", "slug_title": "ned-blessing-return-of-the-hooded-man", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

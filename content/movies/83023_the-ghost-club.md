@@ -1,0 +1,1 @@
+{"tmdb_id": 83023, "title": "The Ghost Club", "original_title": "The Ghost Club", "slug_title": "the-ghost-club", "date": "2003-07-07", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWXUeWcDRWA4uj1D9xaPjdOW3gU.jpg", "actors": ["Britt Robertson (Carrie)"], "comments": [], "recommandations_id": []}

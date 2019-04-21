@@ -1,0 +1,1 @@
+{"tmdb_id": 184416, "title": "The Love Bug", "original_title": "The Love Bug", "slug_title": "the-love-bug", "date": "1925-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346664, "title": "American Pie 5", "original_title": "American Pie 5", "slug_title": "american-pie-5", "date": "", "genre": "Com\u00e9die", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

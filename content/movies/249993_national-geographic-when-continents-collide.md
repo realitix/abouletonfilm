@@ -1,0 +1,1 @@
+{"tmdb_id": 249993, "title": "National Geographic - When Continents Collide", "original_title": "National Geographic - When Continents Collide", "slug_title": "national-geographic-when-continents-collide", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

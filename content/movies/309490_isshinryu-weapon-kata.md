@@ -1,0 +1,1 @@
+{"tmdb_id": 309490, "title": "Isshinryu Weapon Kata", "original_title": "Isshinryu Weapon Kata", "slug_title": "isshinryu-weapon-kata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379075, "title": "Extinct Pink", "original_title": "Extinct Pink", "slug_title": "extinct-pink", "date": "1969-06-20", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8aH2W93gWc7BSbqI7cCWv1UxwVg.jpg", "actors": [], "comments": [], "recommandations_id": []}

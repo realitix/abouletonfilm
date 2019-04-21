@@ -1,0 +1,1 @@
+{"tmdb_id": 498302, "title": "De schaduw van de ramp, 15 jaar na 9/11", "original_title": "De schaduw van de ramp, 15 jaar na 9/11", "slug_title": "de-schaduw-van-de-ramp-15-jaar-na-9-11", "date": "2016-09-11", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

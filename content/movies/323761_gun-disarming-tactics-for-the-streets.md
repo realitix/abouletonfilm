@@ -1,0 +1,1 @@
+{"tmdb_id": 323761, "title": "Gun Disarming Tactics for the Streets", "original_title": "Gun Disarming Tactics for the Streets", "slug_title": "gun-disarming-tactics-for-the-streets", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

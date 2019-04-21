@@ -1,0 +1,1 @@
+{"tmdb_id": 528639, "title": "Scabies", "original_title": "Scabies", "slug_title": "scabies", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtsiIAlUo6jaLNejM6d7V7be9dP.jpg", "actors": [], "comments": [], "recommandations_id": []}

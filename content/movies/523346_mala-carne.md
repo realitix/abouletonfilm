@@ -1,0 +1,1 @@
+{"tmdb_id": 523346, "title": "Mala carne", "original_title": "Mala carne", "slug_title": "mala-carne", "date": "2003-09-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

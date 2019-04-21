@@ -1,0 +1,1 @@
+{"tmdb_id": 588892, "title": "The Painter", "original_title": "Margolaria", "slug_title": "the-painter", "date": "2018-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RihbFKpIuwTCKgyOqeZOPYSbWe.jpg", "actors": ["Mikel Urdangarin ()", "Alain Urrutia ()"], "comments": [], "recommandations_id": []}

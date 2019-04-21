@@ -1,0 +1,1 @@
+{"tmdb_id": 479465, "title": "Split Ends, I Feel Wonderful", "original_title": "Split Ends, I Feel Wonderful", "slug_title": "split-ends-i-feel-wonderful", "date": "2012-03-29", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zLGMb4EQ1zypMfkZAmbv4vg7bVb.jpg", "actors": [], "comments": [], "recommandations_id": []}

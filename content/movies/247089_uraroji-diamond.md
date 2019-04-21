@@ -1,0 +1,1 @@
+{"tmdb_id": 247089, "title": "Uraroji Diamond", "original_title": "Uraroji Diamond", "slug_title": "uraroji-diamond", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/snWli9l3smW5FJ4b4jNt0Id0P7I.jpg", "actors": [], "comments": [], "recommandations_id": []}

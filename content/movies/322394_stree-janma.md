@@ -1,0 +1,1 @@
+{"tmdb_id": 322394, "title": "Stree Janma", "original_title": "Stree Janma", "slug_title": "stree-janma", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

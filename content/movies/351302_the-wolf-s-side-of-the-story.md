@@ -1,0 +1,1 @@
+{"tmdb_id": 351302, "title": "The Wolf's Side of the Story", "original_title": "The Wolf's Side of the Story", "slug_title": "the-wolf-s-side-of-the-story", "date": "1938-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

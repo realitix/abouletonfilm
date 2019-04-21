@@ -1,0 +1,1 @@
+{"tmdb_id": 314263, "title": "Russian Temper", "original_title": "Russkiy harakter", "slug_title": "russian-temper", "date": "2014-12-28", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2mBRXFKsxnVQNRsRcXyDlbBO4Cb.jpg", "actors": ["Aleksandr Fisenko ()", "Natalia Martynova ()"], "comments": [], "recommandations_id": []}

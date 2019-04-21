@@ -1,0 +1,1 @@
+{"tmdb_id": 549676, "title": "Hull Kingston Rovers v Wigan", "original_title": "Hull Kingston Rovers v Wigan", "slug_title": "hull-kingston-rovers-v-wigan", "date": "1902-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

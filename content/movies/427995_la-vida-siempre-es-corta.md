@@ -1,0 +1,1 @@
+{"tmdb_id": 427995, "title": "La vida siempre es corta", "original_title": "La vida siempre es corta", "slug_title": "la-vida-siempre-es-corta", "date": "1994-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q3vkuS2haS9bjMdvHw6S77McygF.jpg", "actors": [], "comments": [], "recommandations_id": []}

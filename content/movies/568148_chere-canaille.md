@@ -1,0 +1,1 @@
+{"tmdb_id": 568148, "title": "Ch\u00e8re canaille", "original_title": "Ch\u00e8re canaille", "slug_title": "chere-canaille", "date": "1986-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

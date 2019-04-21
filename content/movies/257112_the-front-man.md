@@ -1,0 +1,1 @@
+{"tmdb_id": 257112, "title": "The Front Man", "original_title": "The Front Man", "slug_title": "the-front-man", "date": "2014-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1d2ePqo5P8TSlXnwB6gNuVYYBz.jpg", "actors": ["John Kayne ()", "Dana Snyder ()"], "comments": [], "recommandations_id": []}

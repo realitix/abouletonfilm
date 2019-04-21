@@ -1,0 +1,1 @@
+{"tmdb_id": 477891, "title": "Lea as a Doll", "original_title": "Lea bambola", "slug_title": "lea-as-a-doll", "date": "1913-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

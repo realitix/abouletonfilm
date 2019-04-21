@@ -1,0 +1,1 @@
+{"tmdb_id": 485597, "title": "Junior War", "original_title": "Junior War", "slug_title": "junior-war", "date": "2013-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPkzJaz2xuFIAGY9WEmMINoFmM5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 161875, "title": "Knight Duty", "original_title": "Knight Duty", "slug_title": "knight-duty", "date": "1933-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon (Harry)", "Vernon Dent (The Cop)"], "comments": [], "recommandations_id": []}

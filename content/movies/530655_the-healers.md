@@ -1,0 +1,1 @@
+{"tmdb_id": 530655, "title": "The Healers", "original_title": "The Healers", "slug_title": "the-healers", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

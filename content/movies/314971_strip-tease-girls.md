@@ -1,0 +1,1 @@
+{"tmdb_id": 314971, "title": "Strip Tease Girls", "original_title": "Strip Tease Girls", "slug_title": "strip-tease-girls", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tempest Storm ()", "Joanne Bridges ()", "Betty Briggs ()", "Pat Flannery ()", "Helen Rene ()"], "comments": [], "recommandations_id": []}

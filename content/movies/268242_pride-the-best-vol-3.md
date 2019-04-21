@@ -1,0 +1,1 @@
+{"tmdb_id": 268242, "title": "Pride The Best Vol.3", "original_title": "Pride The Best Vol.3", "slug_title": "pride-the-best-vol-3", "date": "2002-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aq52IibOYnnr0bJGT7G1Fu0cbZY.jpg", "actors": ["Daijiro Matsui (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552392, "title": "Diagnosis", "original_title": "\u0414\u0438\u0430\u0433\u043d\u043e\u0437", "slug_title": "diagnosis", "date": "2017-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9WqsbpBkcNUIUtRI68qGQ6ctAZd.jpg", "actors": [], "comments": [], "recommandations_id": []}

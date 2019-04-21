@@ -1,0 +1,1 @@
+{"tmdb_id": 345040, "title": "Liber Arce, liberarse", "original_title": "Liber Arce, liberarse", "slug_title": "liber-arce-liberarse", "date": "1969-07-19", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eHgnYX6arHssBB1YzIGVbjSI2mV.jpg", "actors": [], "comments": [], "recommandations_id": []}

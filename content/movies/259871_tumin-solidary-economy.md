@@ -1,0 +1,1 @@
+{"tmdb_id": 259871, "title": "Tumin. Solidary Economy", "original_title": "T\u00famin. Econom\u00eda solidaria", "slug_title": "tumin-solidary-economy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

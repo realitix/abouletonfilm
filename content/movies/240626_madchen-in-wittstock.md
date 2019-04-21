@@ -1,0 +1,1 @@
+{"tmdb_id": 240626, "title": "M\u00e4dchen in Wittstock", "original_title": "M\u00e4dchen in Wittstock", "slug_title": "madchen-in-wittstock", "date": "1975-09-19", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQERG5yrfvsUs9Da02cA28GNokq.jpg", "actors": [], "comments": [], "recommandations_id": []}

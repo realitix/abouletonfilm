@@ -1,0 +1,1 @@
+{"tmdb_id": 175836, "title": "Pick and Shovel", "original_title": "Pick and Shovel", "slug_title": "pick-and-shovel", "date": "1923-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69eSFsxvqvFJrefKN6yRJV9uCjf.jpg", "actors": ["Stan Laurel ()"], "comments": [], "recommandations_id": []}

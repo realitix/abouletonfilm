@@ -1,0 +1,1 @@
+{"tmdb_id": 143701, "title": "In the Beginning: The Exodus", "original_title": "In the Beginning: The Exodus", "slug_title": "in-the-beginning-the-exodus", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/be2OCVMXXP57jLI7OLW4OtVj4Ss.jpg", "actors": [], "comments": [], "recommandations_id": []}

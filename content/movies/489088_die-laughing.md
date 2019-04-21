@@ -1,0 +1,1 @@
+{"tmdb_id": 489088, "title": "Die Laughing", "original_title": "Die Laughing", "slug_title": "die-laughing", "date": "2017-09-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKl5SZrG9PvmLH8VQXJwnAhiqbT.jpg", "actors": ["Bob Golub (Bob Golub)"], "comments": [], "recommandations_id": []}

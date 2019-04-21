@@ -1,0 +1,1 @@
+{"tmdb_id": 147851, "title": "Zomblies", "original_title": "Zomblies", "slug_title": "zomblies", "date": "2010-07-12", "genre": "Drame / Guerre / Horreur / Action", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rbK8bvKVL5Y1I1hc16RjVZ4OLg0.jpg", "actors": ["David M. Reynolds (Jack)"], "comments": [], "recommandations_id": []}

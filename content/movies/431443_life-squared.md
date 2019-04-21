@@ -1,0 +1,1 @@
+{"tmdb_id": 431443, "title": "Life Squared", "original_title": "Life Squared", "slug_title": "life-squared", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/igxy4IZgxXncAxJx6fDiMmjj1FZ.jpg", "actors": ["Lynn Hershman Leeson (Narrator)"], "comments": [], "recommandations_id": []}

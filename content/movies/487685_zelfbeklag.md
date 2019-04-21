@@ -1,0 +1,1 @@
+{"tmdb_id": 487685, "title": "Zelfbeklag", "original_title": "Zelfbeklag", "slug_title": "zelfbeklag", "date": "1995-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cyrus Frisch (Himself)", "Hans Beerekamp (Himself)"], "comments": [], "recommandations_id": []}

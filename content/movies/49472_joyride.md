@@ -1,0 +1,1 @@
+{"tmdb_id": 49472, "title": "Joyride", "original_title": "Joyride", "slug_title": "joyride", "date": "1995-01-01", "genre": "Drame / Thriller", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzjcILBTtVYjVCscmBonnE5wdUX.jpg", "actors": ["Christopher Fulford ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 510070, "title": "O Filho da M\u00e3e", "original_title": "O Filho da M\u00e3e", "slug_title": "o-filho-da-mae", "date": "2014-03-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ana Rocha ()", "Miguel Dami\u00e3o ()", "Sim\u00e3o Cardoso ()"], "comments": [], "recommandations_id": []}

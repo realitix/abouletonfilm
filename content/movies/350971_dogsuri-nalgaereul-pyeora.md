@@ -1,0 +1,1 @@
+{"tmdb_id": 350971, "title": "\ub3c5\uc218\ub9ac \ub0a0\uac1c\ub97c \ud3b4\ub77c", "original_title": "\ub3c5\uc218\ub9ac \ub0a0\uac1c\ub97c \ud3b4\ub77c", "slug_title": "dogsuri-nalgaereul-pyeora", "date": "1978-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

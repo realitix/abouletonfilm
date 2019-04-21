@@ -1,0 +1,1 @@
+{"tmdb_id": 112420, "title": "Raising Resistance", "original_title": "Raising Resistance", "slug_title": "raising-resistance", "date": "2011-08-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTf8kye3Qyv0ElC9XD3NqriZsIT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296885, "title": "Tale of a Wag", "original_title": "Tale of a Wag", "slug_title": "tale-of-a-wag", "date": "1920-03-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

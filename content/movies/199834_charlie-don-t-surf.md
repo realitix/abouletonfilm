@@ -1,0 +1,1 @@
+{"tmdb_id": 199834, "title": "Charlie Don't Surf", "original_title": "Charlie Don't Surf", "slug_title": "charlie-don-t-surf", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

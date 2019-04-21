@@ -1,0 +1,1 @@
+{"tmdb_id": 230244, "title": "The Red Elephant", "original_title": "\u7ea2\u8c61", "slug_title": "the-red-elephant", "date": "1982-07-15", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adXSwUvF4AMEmDHEFYClO6Cf9cZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

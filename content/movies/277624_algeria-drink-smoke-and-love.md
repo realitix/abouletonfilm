@@ -1,0 +1,1 @@
+{"tmdb_id": 277624, "title": "Algeria: Drink, Smoke and Love", "original_title": "Algeria: Drink, Smoke and Love", "slug_title": "algeria-drink-smoke-and-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

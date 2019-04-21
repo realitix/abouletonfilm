@@ -1,0 +1,1 @@
+{"tmdb_id": 354643, "title": "I Was a Man", "original_title": "I Was a Man", "slug_title": "i-was-a-man", "date": "1967-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTLXxxKMyqTWOtXeQHT2gOAph6i.jpg", "actors": ["Ansa Kansas (Ansa Kansas)"], "comments": [], "recommandations_id": []}

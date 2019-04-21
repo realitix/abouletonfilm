@@ -1,0 +1,1 @@
+{"tmdb_id": 571665, "title": "Cartoon Crazys: Goes To War", "original_title": "Cartoon Crazys: Goes To War", "slug_title": "cartoon-crazys-goes-to-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aC8xm4MGcpZQrfvGp4R7Un3Vqxh.jpg", "actors": [], "comments": [], "recommandations_id": []}

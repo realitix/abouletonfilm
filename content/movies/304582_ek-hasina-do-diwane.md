@@ -1,0 +1,1 @@
+{"tmdb_id": 304582, "title": "Ek Hasina Do Diwane", "original_title": "Ek Hasina Do Diwane", "slug_title": "ek-hasina-do-diwane", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

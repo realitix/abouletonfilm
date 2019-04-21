@@ -1,0 +1,1 @@
+{"tmdb_id": 389026, "title": "Wezwanie", "original_title": "Wezwanie", "slug_title": "wezwanie", "date": "1971-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

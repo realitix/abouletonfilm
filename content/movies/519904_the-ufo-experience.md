@@ -1,0 +1,1 @@
+{"tmdb_id": 519904, "title": "The UFO Experience", "original_title": "The UFO Experience", "slug_title": "the-ufo-experience", "date": "1982-11-14", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J. Allen Hynek (Himself)", "Peter Coyote ()", "Philip J. Klass (Himself)"], "comments": [], "recommandations_id": []}

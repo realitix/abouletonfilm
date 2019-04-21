@@ -1,0 +1,1 @@
+{"tmdb_id": 546781, "title": "The Yellow Mazda and His Holiness", "original_title": "La Mazda jaune et sa saintete\u0301", "slug_title": "the-yellow-mazda-and-his-holiness", "date": "2018-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

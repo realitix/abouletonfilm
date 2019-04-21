@@ -1,0 +1,1 @@
+{"tmdb_id": 551060, "title": "Abh\u00e4ngig", "original_title": "Abh\u00e4ngig", "slug_title": "abhangig", "date": "1984-01-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

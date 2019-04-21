@@ -1,0 +1,1 @@
+{"tmdb_id": 555870, "title": "The Buddy", "original_title": "The Buddy", "slug_title": "the-buddy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

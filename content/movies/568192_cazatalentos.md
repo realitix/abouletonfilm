@@ -1,0 +1,1 @@
+{"tmdb_id": 568192, "title": "Cazatalentos", "original_title": "Cazatalentos", "slug_title": "cazatalentos", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ro3pN9WI9DEREsB6hlBGoegAQHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

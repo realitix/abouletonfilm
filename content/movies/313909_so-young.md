@@ -1,0 +1,1 @@
+{"tmdb_id": 313909, "title": "So Young", "original_title": "Tako Mladi", "slug_title": "so-young", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

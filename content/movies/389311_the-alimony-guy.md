@@ -1,0 +1,1 @@
+{"tmdb_id": 389311, "title": "The Alimony Guy", "original_title": "The Alimony Guy", "slug_title": "the-alimony-guy", "date": "2015-12-31", "genre": "Romance / Com\u00e9die", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtcELwFd9IWc1nJ57kvNLugPpx5.jpg", "actors": [], "comments": [], "recommandations_id": []}

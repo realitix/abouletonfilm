@@ -1,0 +1,1 @@
+{"tmdb_id": 285373, "title": "The Mystery on the Bosphorus", "original_title": "Bogazici esrari", "slug_title": "the-mystery-on-the-bosphorus", "date": "1922-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helena Antinova ()", "I. Galip Arcan ()", "Refik Kemal Arduman ()"], "comments": [], "recommandations_id": []}

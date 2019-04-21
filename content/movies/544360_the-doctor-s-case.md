@@ -1,0 +1,1 @@
+{"tmdb_id": 544360, "title": "The Doctor's Case", "original_title": "The Doctor's Case", "slug_title": "the-doctor-s-case", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

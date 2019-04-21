@@ -1,0 +1,1 @@
+{"tmdb_id": 488708, "title": "Jonas in the Brig", "original_title": "Jonas in the Brig", "slug_title": "jonas-in-the-brig", "date": "1964-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonas Mekas (Jonas Mekas)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552033, "title": "Default Character", "original_title": "Default Character", "slug_title": "default-character", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "un film de Anna Adahl", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njWLZCaEZLF5GkyWDOXeFSKHRqV.jpg", "actors": [], "comments": [], "recommandations_id": []}

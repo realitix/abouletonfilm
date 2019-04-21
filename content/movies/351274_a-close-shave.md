@@ -1,0 +1,1 @@
+{"tmdb_id": 351274, "title": "A Close Shave", "original_title": "A Close Shave", "slug_title": "a-close-shave", "date": "1937-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

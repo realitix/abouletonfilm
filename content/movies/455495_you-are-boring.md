@@ -1,0 +1,1 @@
+{"tmdb_id": 455495, "title": "You Are Boring!", "original_title": "You Are Boring!", "slug_title": "you-are-boring", "date": "2015-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

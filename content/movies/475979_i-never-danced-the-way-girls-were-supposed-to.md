@@ -1,0 +1,1 @@
+{"tmdb_id": 475979, "title": "I Never Danced the Way Girls Were Supposed To", "original_title": "I Never Danced the Way Girls Were Supposed To", "slug_title": "i-never-danced-the-way-girls-were-supposed-to", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

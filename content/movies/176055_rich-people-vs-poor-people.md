@@ -1,0 +1,1 @@
+{"tmdb_id": 176055, "title": "Rich People Vs Poor People", "original_title": "Rich People Vs Poor People", "slug_title": "rich-people-vs-poor-people", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

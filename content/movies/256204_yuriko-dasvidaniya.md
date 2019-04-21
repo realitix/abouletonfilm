@@ -1,0 +1,1 @@
+{"tmdb_id": 256204, "title": "Yuriko, Dasvidaniya", "original_title": "Yuriko, dasuvid\u00e2nya", "slug_title": "yuriko-dasvidaniya", "date": "2011-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pZ5HlFcgX7eSrfLGtIvnwg7F0Wb.jpg", "actors": [], "comments": [], "recommandations_id": []}

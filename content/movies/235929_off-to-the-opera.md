@@ -1,0 +1,1 @@
+{"tmdb_id": 235929, "title": "Off to the Opera", "original_title": "Off to the Opera", "slug_title": "off-to-the-opera", "date": "1952-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297689, "title": "Bonfanti", "original_title": "Bonfanti", "slug_title": "bonfanti", "date": "2013-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gianguido Bonfanti ()", "Ferreira Gullar ()", "Daniel Piza ()", "Frederico Morais ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366452, "title": "Wearing A Four-Cornered Cap And A Tiger Skin", "original_title": "Wearing A Four-Cornered Cap And A Tiger Skin", "slug_title": "wearing-a-four-cornered-cap-and-a-tiger-skin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

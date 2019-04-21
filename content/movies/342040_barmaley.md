@@ -1,0 +1,1 @@
+{"tmdb_id": 342040, "title": "Barmaley", "original_title": "\u0411\u0430\u0440\u043c\u0430\u043b\u0435\u0439", "slug_title": "barmaley", "date": "1941-05-26", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHZE5FSSvlFjuAwPDrElkPvgPYu.jpg", "actors": [], "comments": [], "recommandations_id": []}

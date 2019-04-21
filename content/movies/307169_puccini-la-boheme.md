@@ -1,0 +1,1 @@
+{"tmdb_id": 307169, "title": "Puccini: La Boh\u00e8me", "original_title": "Puccini: La Boh\u00e8me", "slug_title": "puccini-la-boheme", "date": "2013-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

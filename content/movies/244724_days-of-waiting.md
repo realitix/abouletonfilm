@@ -1,0 +1,1 @@
+{"tmdb_id": 244724, "title": "Days of Waiting", "original_title": "Days of Waiting", "slug_title": "days-of-waiting", "date": "1991-02-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wElGTz7L6Xk9ry2a1lVvG6WoOp5.jpg", "actors": [], "comments": [], "recommandations_id": []}

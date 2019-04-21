@@ -1,0 +1,1 @@
+{"tmdb_id": 304067, "title": "Papamundi and the 9/11 mechanism", "original_title": "Papamundi and the 9/11 mechanism", "slug_title": "papamundi-and-the-9-11-mechanism", "date": "2014-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

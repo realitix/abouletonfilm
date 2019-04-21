@@ -1,0 +1,1 @@
+{"tmdb_id": 568849, "title": "La statua vivente", "original_title": "La statua vivente", "slug_title": "la-statua-vivente", "date": "1942-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laura Solari ()", "Fosco Giachetti ()", "Camillo Pilotto ()"], "comments": [], "recommandations_id": []}

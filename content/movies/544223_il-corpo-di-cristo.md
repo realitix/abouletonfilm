@@ -1,0 +1,1 @@
+{"tmdb_id": 544223, "title": "Il Corpo di Cristo", "original_title": "Il Corpo di Cristo", "slug_title": "il-corpo-di-cristo", "date": "2017-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBKA8cp2TgagWTtRzlAUZKaBULN.jpg", "actors": [], "comments": [], "recommandations_id": []}

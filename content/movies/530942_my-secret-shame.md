@@ -1,0 +1,1 @@
+{"tmdb_id": 530942, "title": "My Secret Shame", "original_title": "My Secret Shame", "slug_title": "my-secret-shame", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

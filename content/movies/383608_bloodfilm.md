@@ -1,0 +1,1 @@
+{"tmdb_id": 383608, "title": "Bloodfilm", "original_title": "Bloodfilm", "slug_title": "bloodfilm", "date": "1975-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564866, "title": "The Crazy American Girl", "original_title": "La fille d'Am\u00e9rique", "slug_title": "the-crazy-american-girl", "date": "1977-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3LIiU1N6fv4o1HO8dbZxW7H1nSm.jpg", "actors": [], "comments": [], "recommandations_id": []}

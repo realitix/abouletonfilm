@@ -1,0 +1,1 @@
+{"tmdb_id": 529540, "title": "Firefighter", "original_title": "Firefighter", "slug_title": "firefighter", "date": "1986-09-23", "genre": "Drame / T\u00e9l\u00e9film", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nancy McKeon (Cindy Fralick)", "Vincent Irizarry (Mike)"], "comments": [], "recommandations_id": []}

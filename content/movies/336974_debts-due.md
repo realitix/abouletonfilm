@@ -1,0 +1,1 @@
+{"tmdb_id": 336974, "title": "Debts Due", "original_title": "Debts Due", "slug_title": "debts-due", "date": "2015-12-15", "genre": "Drame / Crime / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGy8CTXSdjH6RJo4yxgbkeYm2sK.jpg", "actors": [], "comments": [], "recommandations_id": []}

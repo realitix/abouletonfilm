@@ -1,0 +1,1 @@
+{"tmdb_id": 374965, "title": "Chinar Daastaan-E-Ishq", "original_title": "Chinar Daastaan-E-Ishq", "slug_title": "chinar-daastaan-e-ishq", "date": "2015-10-16", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZju5DArfCahlioXjX8fu7C8yjr.jpg", "actors": [], "comments": [], "recommandations_id": []}

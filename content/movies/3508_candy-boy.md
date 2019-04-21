@@ -1,0 +1,1 @@
+{"tmdb_id": 3508, "title": "Candy Boy", "original_title": "Candy Boy", "slug_title": "candy-boy", "date": "2007-05-23", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

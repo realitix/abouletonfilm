@@ -1,0 +1,1 @@
+{"tmdb_id": 329406, "title": "Hip Hop Story: Tha Movie", "original_title": "Hip Hop Story: Tha Movie", "slug_title": "hip-hop-story-tha-movie", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

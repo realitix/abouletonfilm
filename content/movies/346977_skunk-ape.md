@@ -1,0 +1,1 @@
+{"tmdb_id": 346977, "title": "Skunk Ape!?", "original_title": "Skunk Ape!?", "slug_title": "skunk-ape", "date": "2003-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

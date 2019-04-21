@@ -1,0 +1,1 @@
+{"tmdb_id": 135818, "title": "The Complete History of the New York Giants", "original_title": "The Complete History of the New York Giants", "slug_title": "the-complete-history-of-the-new-york-giants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

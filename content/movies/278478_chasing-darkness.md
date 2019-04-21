@@ -1,0 +1,1 @@
+{"tmdb_id": 278478, "title": "Chasing Darkness", "original_title": "Chasing Darkness", "slug_title": "chasing-darkness", "date": "2007-08-18", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/azoxBwik2L7R9cPJJM5teZTRGkL.jpg", "actors": [], "comments": [], "recommandations_id": []}

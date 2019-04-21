@@ -1,0 +1,1 @@
+{"tmdb_id": 41880, "title": "Daniel", "original_title": "Daniel", "slug_title": "daniel", "date": "1993-06-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lsm88atdJwfYtMSmxZjvTJCktqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

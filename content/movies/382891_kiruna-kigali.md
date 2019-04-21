@@ -1,0 +1,1 @@
+{"tmdb_id": 382891, "title": "Kiruna-Kigali", "original_title": "Kiruna-Kigali", "slug_title": "kiruna-kigali", "date": "2012-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drz82XS2giRr9QeZu1BhaO9zFa2.jpg", "actors": [], "comments": [], "recommandations_id": []}

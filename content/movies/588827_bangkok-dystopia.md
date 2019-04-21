@@ -1,0 +1,1 @@
+{"tmdb_id": 588827, "title": "Bangkok Dystopia", "original_title": "Bangkok Dystopia", "slug_title": "bangkok-dystopia", "date": "2017-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GGfC2dSHnTSBU5C2kLzS9Bh1eQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

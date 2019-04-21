@@ -1,0 +1,1 @@
+{"tmdb_id": 260621, "title": "Pervaya popytka", "original_title": "Pervaya popytka", "slug_title": "pervaya-popytka", "date": "2009-04-11", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f7RQPsjzKOn86ZcRp5Tdyqf37LY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 340276, "title": "Tamer of the Wild Horses", "original_title": "Krotitelj divljih konja", "slug_title": "tamer-of-the-wild-horses", "date": "1967-05-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnNnAWZQtwx4tAvA62N0H3327dK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520452, "title": "Neck and Neck", "original_title": "Neck and Neck", "slug_title": "neck-and-neck", "date": "1931-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn Tryon (Bill Grant)", "Vera Reynolds (Norma Rickson)", "Walter Brennan (Hector)"], "comments": [], "recommandations_id": []}

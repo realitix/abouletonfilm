@@ -1,0 +1,1 @@
+{"tmdb_id": 592132, "title": "Nirvana", "original_title": "Nirvana", "slug_title": "nirvana", "date": "2018-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574178, "title": "K.I.Z. - Hahnenkampf Live", "original_title": "K.I.Z. - Hahnenkampf Live", "slug_title": "k-i-z-hahnenkampf-live", "date": "2008-06-13", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgFPVA0tfGCXZgupgJCNdgIQKmi.jpg", "actors": [], "comments": [], "recommandations_id": []}

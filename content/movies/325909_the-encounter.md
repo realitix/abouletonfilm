@@ -1,0 +1,1 @@
+{"tmdb_id": 325909, "title": "The Encounter", "original_title": "The Encounter", "slug_title": "the-encounter", "date": "2011-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

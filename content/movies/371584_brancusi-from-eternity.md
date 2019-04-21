@@ -1,0 +1,1 @@
+{"tmdb_id": 371584, "title": "Brancusi from Eternity", "original_title": "Br\u00e2ncusi din eternitate", "slug_title": "brancusi-from-eternity", "date": "2014-09-19", "genre": "Drame", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/voB7W3iSDfdMQRfpFPBMw6kwjpx.jpg", "actors": [], "comments": [], "recommandations_id": []}

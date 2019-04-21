@@ -1,0 +1,1 @@
+{"tmdb_id": 563996, "title": "Arcadia", "original_title": "Arcadia", "slug_title": "arcadia", "date": "1990-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Raggett (Gavin)", "Pat Heywood (Mum)", "Lionel Taylor (Dad)"], "comments": [], "recommandations_id": []}

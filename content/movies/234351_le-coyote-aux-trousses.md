@@ -1,0 +1,1 @@
+{"tmdb_id": 234351, "title": "Le coyote aux trousses", "original_title": "Highway Runnery", "slug_title": "le-coyote-aux-trousses", "date": "1965-12-11", "genre": "Animation / Com\u00e9die", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/laHlQDS3jvMFS3jkTWUMc4uIh8i.jpg", "actors": [], "comments": [], "recommandations_id": []}

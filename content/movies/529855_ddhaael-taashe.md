@@ -1,0 +1,1 @@
+{"tmdb_id": 529855, "title": "\u0922\u093e\u0947\u0932 \u0924\u093e\u0936\u0947", "original_title": "\u0922\u093e\u0947\u0932 \u0924\u093e\u0936\u0947", "slug_title": "ddhaael-taashe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jitendra Joshi ()", "Abhijeet Khandkekar ()"], "comments": [], "recommandations_id": []}

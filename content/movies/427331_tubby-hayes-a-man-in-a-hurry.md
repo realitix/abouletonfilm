@@ -1,0 +1,1 @@
+{"tmdb_id": 427331, "title": "Tubby Hayes: A Man in a Hurry", "original_title": "Tubby Hayes: A Man in a Hurry", "slug_title": "tubby-hayes-a-man-in-a-hurry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

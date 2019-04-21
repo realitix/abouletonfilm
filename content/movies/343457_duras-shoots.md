@@ -1,0 +1,1 @@
+{"tmdb_id": 343457, "title": "Duras Shoots", "original_title": "Duras filme", "slug_title": "duras-shoots", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marguerite Duras ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420052, "title": "The David Ortiz Era", "original_title": "The David Ortiz Era", "slug_title": "the-david-ortiz-era", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

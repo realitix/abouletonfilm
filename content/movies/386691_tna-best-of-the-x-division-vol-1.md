@@ -1,0 +1,1 @@
+{"tmdb_id": 386691, "title": "TNA Best of the X Division Vol. 1", "original_title": "TNA Best of the X Division Vol. 1", "slug_title": "tna-best-of-the-x-division-vol-1", "date": "2005-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 184425, "title": "Better Movies", "original_title": "Better Movies", "slug_title": "better-movies", "date": "1925-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

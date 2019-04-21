@@ -1,0 +1,1 @@
+{"tmdb_id": 588067, "title": "My Hot Roommate", "original_title": "My Hot Roommate", "slug_title": "my-hot-roommate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnikkcYRFO0vJ7i87wJa1MNAXJ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

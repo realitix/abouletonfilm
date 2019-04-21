@@ -1,0 +1,1 @@
+{"tmdb_id": 265827, "title": "Osamu to Musashi", "original_title": "\u30aa\u30b5\u30e0\u3068\u30e0\u30b5\u30b7", "slug_title": "osamu-to-musashi", "date": "1994-04-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Osamu Tezuka (Main)"], "comments": [], "recommandations_id": []}

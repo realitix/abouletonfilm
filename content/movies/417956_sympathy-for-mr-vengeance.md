@@ -1,0 +1,1 @@
+{"tmdb_id": 417956, "title": "Sympathy for Mr. Vengeance", "original_title": "Sympathy for Mr. Vengeance", "slug_title": "sympathy-for-mr-vengeance", "date": "", "genre": "Crime / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 257594, "title": "Man-Horse", "original_title": "\u017dmogus arklys", "slug_title": "man-horse", "date": "2008-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8sGCb4uehMmRqE2EVvw0JWnW8Kt.jpg", "actors": ["Jonas \u0160alomskas ()"], "comments": [], "recommandations_id": []}

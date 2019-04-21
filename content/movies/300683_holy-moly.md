@@ -1,0 +1,1 @@
+{"tmdb_id": 300683, "title": "Holy Moly", "original_title": "Holy Moly", "slug_title": "holy-moly", "date": "1991-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRV4Qe4EgtTIGRBv9lYFNx8vlhj.jpg", "actors": ["Lance Ozanix (Holy Moly)"], "comments": [], "recommandations_id": []}

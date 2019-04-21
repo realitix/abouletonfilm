@@ -1,0 +1,1 @@
+{"tmdb_id": 323543, "title": "Horror Writing with Lia Scott Price", "original_title": "Horror Writing with Lia Scott Price", "slug_title": "horror-writing-with-lia-scott-price", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

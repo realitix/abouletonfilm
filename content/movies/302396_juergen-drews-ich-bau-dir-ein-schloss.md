@@ -1,0 +1,1 @@
+{"tmdb_id": 302396, "title": "Juergen Drews - Ich bau Dir ein Schloss", "original_title": "Juergen Drews - Ich bau Dir ein Schloss", "slug_title": "juergen-drews-ich-bau-dir-ein-schloss", "date": "2010-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

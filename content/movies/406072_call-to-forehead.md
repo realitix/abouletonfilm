@@ -1,0 +1,1 @@
+{"tmdb_id": 406072, "title": "Call to Forehead", "original_title": "Call to Forehead", "slug_title": "call-to-forehead", "date": "2011-01-01", "genre": "Com\u00e9die / Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Gagnepain ()", "Andrew Gingerich ()", "David Gingerich ()"], "comments": [], "recommandations_id": []}

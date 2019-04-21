@@ -1,0 +1,1 @@
+{"tmdb_id": 331528, "title": "Kiladi Kittu", "original_title": "Kiladi Kittu", "slug_title": "kiladi-kittu", "date": "1978-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQLNqWhUYDLwyIYlQhaOO6rPYez.jpg", "actors": ["Rajinikanth ()", "Leelavati ()", "Vishnuvardhan ()"], "comments": [], "recommandations_id": []}

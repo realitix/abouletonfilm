@@ -1,0 +1,1 @@
+{"tmdb_id": 296413, "title": "Berlin2Shanghai", "original_title": "Berlin2Shanghai", "slug_title": "berlin2shanghai", "date": "2013-01-01", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/raqDu7gYlOFL9G1UxEQ8iK1FTFE.jpg", "actors": [], "comments": [], "recommandations_id": []}

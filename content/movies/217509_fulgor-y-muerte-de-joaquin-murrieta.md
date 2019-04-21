@@ -1,0 +1,1 @@
+{"tmdb_id": 217509, "title": "Fulgor y muerte de Joaqu\u00edn Murrieta", "original_title": "Fulgor y muerte de Joaqu\u00edn Murrieta", "slug_title": "fulgor-y-muerte-de-joaquin-murrieta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

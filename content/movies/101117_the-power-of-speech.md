@@ -1,0 +1,1 @@
+{"tmdb_id": 101117, "title": "The Power of Speech", "original_title": "El poder de la palabra", "slug_title": "the-power-of-speech", "date": "2009-06-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJkRLw2xWidOqcRcQAuAX8ah226.jpg", "actors": [], "comments": [], "recommandations_id": []}

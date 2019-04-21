@@ -1,0 +1,1 @@
+{"tmdb_id": 342726, "title": "I swear I was there", "original_title": "I swear I was there", "slug_title": "i-swear-i-was-there", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

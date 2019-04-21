@@ -1,0 +1,1 @@
+{"tmdb_id": 277543, "title": "Counter Intelligence", "original_title": "Counter Intelligence", "slug_title": "counter-intelligence", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6jAXRs5PONQWcjfxC3ainWUNgo.jpg", "actors": [], "comments": [], "recommandations_id": []}

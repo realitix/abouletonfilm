@@ -1,0 +1,1 @@
+{"tmdb_id": 218169, "title": "Bridges", "original_title": "Bridges", "slug_title": "bridges", "date": "2012-06-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joslyn Jensen (Elizabeth)"], "comments": [], "recommandations_id": []}

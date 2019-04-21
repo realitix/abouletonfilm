@@ -1,0 +1,1 @@
+{"tmdb_id": 254580, "title": "Rebel from China", "original_title": "Yong chuang tian xia", "slug_title": "rebel-from-china", "date": "1990-10-25", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHT5kc0259uE7iwlKt8eeyxzIMK.jpg", "actors": ["John Woo (Kwong)"], "comments": [], "recommandations_id": []}

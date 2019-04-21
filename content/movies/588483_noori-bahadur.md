@@ -1,0 +1,1 @@
+{"tmdb_id": 588483, "title": "Noori Bahadur", "original_title": "Noori Bahadur", "slug_title": "noori-bahadur", "date": "1993-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

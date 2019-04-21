@@ -1,0 +1,1 @@
+{"tmdb_id": 53543, "title": "Claymation Comedy of Horrors", "original_title": "Claymation Comedy of Horrors", "slug_title": "claymation-comedy-of-horrors", "date": "1991-05-29", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIeYKIS57coEnx3dDY0zq25E45V.jpg", "actors": [], "comments": [], "recommandations_id": []}

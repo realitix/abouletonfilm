@@ -1,0 +1,1 @@
+{"tmdb_id": 136517, "title": "Casper:Der Druck steigt", "original_title": "Casper:Der Druck steigt", "slug_title": "casper-der-druck-steigt", "date": "2012-07-27", "genre": "", "score": "8.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3vJGSr63cmQlwqZgQ7iRBQ3Tvnj.jpg", "actors": [], "comments": [], "recommandations_id": []}

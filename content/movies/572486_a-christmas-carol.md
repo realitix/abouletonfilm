@@ -1,0 +1,1 @@
+{"tmdb_id": 572486, "title": "A Christmas Carol", "original_title": "A Christmas Carol", "slug_title": "a-christmas-carol", "date": "", "genre": "Aventure / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

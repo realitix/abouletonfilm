@@ -1,0 +1,1 @@
+{"tmdb_id": 560275, "title": "Sparky Ketchup", "original_title": "Sparky Ketchup", "slug_title": "sparky-ketchup", "date": "2015-05-05", "genre": "Documentaire / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5HGNCrn3lhwkUEbLQYdvwrGQ9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

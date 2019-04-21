@@ -1,0 +1,1 @@
+{"tmdb_id": 395083, "title": "Kung Fu Master Blaster", "original_title": "Kung Fu Master Blaster", "slug_title": "kung-fu-master-blaster", "date": "1988-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl J. Sukenick ()"], "comments": [], "recommandations_id": []}

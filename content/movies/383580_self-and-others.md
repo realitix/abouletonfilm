@@ -1,0 +1,1 @@
+{"tmdb_id": 383580, "title": "Self and Others", "original_title": "SELF AND OTHERS", "slug_title": "self-and-others", "date": "2001-04-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Q9Cc1vZzmtusfXxU3oWUbot6sY.jpg", "actors": [], "comments": [], "recommandations_id": []}

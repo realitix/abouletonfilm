@@ -1,0 +1,1 @@
+{"tmdb_id": 284037, "title": "Angel of Darkness Volume 2", "original_title": "Angel of Darkness Volume 2", "slug_title": "angel-of-darkness-volume-2", "date": "1995-06-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8KSqDqN7E5fHa6b1Nc6jPhabWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

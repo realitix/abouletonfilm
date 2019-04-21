@@ -1,0 +1,1 @@
+{"tmdb_id": 320723, "title": "Best of the Big Bands: Artie Shaw & Friends", "original_title": "Best of the Big Bands: Artie Shaw & Friends", "slug_title": "best-of-the-big-bands-artie-shaw-friends", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

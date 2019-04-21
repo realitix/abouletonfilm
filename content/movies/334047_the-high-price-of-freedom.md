@@ -1,0 +1,1 @@
+{"tmdb_id": 334047, "title": "The High Price of Freedom", "original_title": "The High Price of Freedom", "slug_title": "the-high-price-of-freedom", "date": "2012-05-27", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hhKMhVbpEBzlLEHSCQ0f4MMbqmU.jpg", "actors": [], "comments": [], "recommandations_id": []}

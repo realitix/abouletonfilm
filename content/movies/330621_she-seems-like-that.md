@@ -1,0 +1,1 @@
+{"tmdb_id": 330621, "title": "She Seems Like That", "original_title": "Hakadha Tabdu", "slug_title": "she-seems-like-that", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

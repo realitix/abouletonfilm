@@ -1,0 +1,1 @@
+{"tmdb_id": 561403, "title": "Na Espera", "original_title": "Na Espera", "slug_title": "na-espera", "date": "2018-01-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnIdnU9rWKNnBvNBc95pX3hJc6O.jpg", "actors": ["Fernando Fernandes (\u00c2ngela Pol\u00edcia)"], "comments": [], "recommandations_id": []}

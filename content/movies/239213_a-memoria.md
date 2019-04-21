@@ -1,0 +1,1 @@
+{"tmdb_id": 239213, "title": "A memoria", "original_title": "A memoria", "slug_title": "a-memoria", "date": "1996-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

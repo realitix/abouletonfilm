@@ -1,0 +1,1 @@
+{"tmdb_id": 310713, "title": "Chick Corea: Electric Workshop", "original_title": "Chick Corea: Electric Workshop", "slug_title": "chick-corea-electric-workshop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32RvpdBLSUKLjiLSMo9KWixJcc4.jpg", "actors": [], "comments": [], "recommandations_id": []}

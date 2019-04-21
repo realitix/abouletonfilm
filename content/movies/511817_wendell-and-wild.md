@@ -1,0 +1,1 @@
+{"tmdb_id": 511817, "title": "Wendell and Wild", "original_title": "Wendell and Wild", "slug_title": "wendell-and-wild", "date": "", "genre": "Animation / Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jordan Peele ((voice))", "Keegan-Michael Key ((voice))"], "comments": [], "recommandations_id": []}

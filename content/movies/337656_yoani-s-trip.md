@@ -1,0 +1,1 @@
+{"tmdb_id": 337656, "title": "Yoani's Trip", "original_title": "A Viagem de Yoani", "slug_title": "yoani-s-trip", "date": "2014-10-18", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DihcGxFEDVMk4wPIklYHkDXLuc.jpg", "actors": ["Yoani S\u00e1nchez (Herself)"], "comments": [], "recommandations_id": []}

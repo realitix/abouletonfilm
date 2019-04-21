@@ -1,0 +1,1 @@
+{"tmdb_id": 526281, "title": "Hello, Mr. Kivi", "original_title": "P\u00e4iv\u00e4\u00e4, herra Kivi", "slug_title": "hello-mr-kivi", "date": "1984-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

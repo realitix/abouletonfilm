@@ -1,0 +1,1 @@
+{"tmdb_id": 231433, "title": "Baignade de n\u00e8gres", "original_title": "Baignade de n\u00e8gres", "slug_title": "baignade-de-negres", "date": "1896-07-11", "genre": "", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

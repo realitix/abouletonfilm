@@ -1,0 +1,1 @@
+{"tmdb_id": 366895, "title": "Wayward", "original_title": "Rodl\u00f8s", "slug_title": "wayward", "date": "2015-04-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DgS7o79qyl7dL2lj4bqmrbyucC.jpg", "actors": [], "comments": [], "recommandations_id": []}

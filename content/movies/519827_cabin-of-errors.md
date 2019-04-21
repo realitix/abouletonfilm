@@ -1,0 +1,1 @@
+{"tmdb_id": 519827, "title": "Cabin of Errors", "original_title": "Cabin of Errors", "slug_title": "cabin-of-errors", "date": "2016-04-05", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpwyuJNQoaKsi2Dnj9uCK5GKepc.jpg", "actors": [], "comments": [], "recommandations_id": []}

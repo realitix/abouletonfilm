@@ -1,0 +1,1 @@
+{"tmdb_id": 58818, "title": "I, Samurai", "original_title": "I, Samurai", "slug_title": "i-samurai", "date": "2006-01-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Graham-Dixon (Himself)"], "comments": [], "recommandations_id": []}

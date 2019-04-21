@@ -1,0 +1,1 @@
+{"tmdb_id": 466261, "title": "Tista Pariko Saino", "original_title": "Tista Pariko Saino", "slug_title": "tista-pariko-saino", "date": "", "genre": "Drame / Romance", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Khil Bahadur Gurung (Khil Bahadur Gurung)", "Unita Gurung (Unita Gurung)"], "comments": [], "recommandations_id": []}

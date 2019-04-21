@@ -1,0 +1,1 @@
+{"tmdb_id": 557377, "title": "Chouchou poids plume", "original_title": "Chouchou poids plume", "slug_title": "chouchou-poids-plume", "date": "1932-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

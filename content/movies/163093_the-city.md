@@ -1,0 +1,1 @@
+{"tmdb_id": 163093, "title": "The City", "original_title": "The City", "slug_title": "the-city", "date": "1939-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nH7kKaHOgizUvVLsSIfqJCPBcLH.jpg", "actors": ["Morris Carnovsky ()"], "comments": [], "recommandations_id": []}

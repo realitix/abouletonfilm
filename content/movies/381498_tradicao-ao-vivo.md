@@ -1,0 +1,1 @@
+{"tmdb_id": 381498, "title": "Tradi\u00e7\u00e3o Ao Vivo", "original_title": "Tradi\u00e7\u00e3o Ao Vivo", "slug_title": "tradicao-ao-vivo", "date": "2005-02-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSTiL2dstm2uwNvBCBia5oemWuJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

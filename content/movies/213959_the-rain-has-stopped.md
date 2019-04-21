@@ -1,0 +1,1 @@
+{"tmdb_id": 213959, "title": "The Rain Has Stopped", "original_title": "The Rain Has Stopped", "slug_title": "the-rain-has-stopped", "date": "2009-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sheila Hancock ()", "Bhasker Patel ()"], "comments": [], "recommandations_id": []}

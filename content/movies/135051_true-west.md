@@ -1,0 +1,1 @@
+{"tmdb_id": 135051, "title": "True West", "original_title": "True West", "slug_title": "true-west", "date": "2002-05-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8h8skx2rKYEWfTHxpTz9WmM8J0.jpg", "actors": ["Bruce Willis (Lee)", "Chad Smith (Austin)"], "comments": [], "recommandations_id": []}

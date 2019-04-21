@@ -1,0 +1,1 @@
+{"tmdb_id": 405424, "title": "Z\u00f6etrope", "original_title": "Z\u00f6etrope", "slug_title": "zoetrope", "date": "2008-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zeRP5tDfxgYtJf34s8cXjljk2I.jpg", "actors": [], "comments": [], "recommandations_id": []}

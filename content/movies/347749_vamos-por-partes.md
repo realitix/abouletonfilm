@@ -1,0 +1,1 @@
+{"tmdb_id": 347749, "title": "Vamos por partes", "original_title": "Vamos por partes", "slug_title": "vamos-por-partes", "date": "", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

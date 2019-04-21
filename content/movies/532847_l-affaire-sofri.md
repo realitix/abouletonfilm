@@ -1,0 +1,1 @@
+{"tmdb_id": 532847, "title": "L'affaire Sofri", "original_title": "L'affaire Sofri", "slug_title": "l-affaire-sofri", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlo Ginzburg (Himself)"], "comments": [], "recommandations_id": []}

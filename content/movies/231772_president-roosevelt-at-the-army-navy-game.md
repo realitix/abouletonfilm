@@ -1,0 +1,1 @@
+{"tmdb_id": 231772, "title": "President Roosevelt at the Army-Navy Game", "original_title": "President Roosevelt at the Army-Navy Game", "slug_title": "president-roosevelt-at-the-army-navy-game", "date": "1901-12-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

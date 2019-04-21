@@ -1,0 +1,1 @@
+{"tmdb_id": 528246, "title": "My Darling Frieda", "original_title": "My Darling Frieda", "slug_title": "my-darling-frieda", "date": "2018-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

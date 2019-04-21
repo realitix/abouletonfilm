@@ -1,0 +1,1 @@
+{"tmdb_id": 329279, "title": "The al-Barid River", "original_title": "al-Nahr al-Barid", "slug_title": "the-al-barid-river", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

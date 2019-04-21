@@ -1,0 +1,1 @@
+{"tmdb_id": 264926, "title": "Den sista yankeen", "original_title": "Den sista yankeen", "slug_title": "den-sista-yankeen", "date": "1997-01-02", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reine Brynolfsson ()", "Pernilla August ()", "B\u00f6rje Ahlstedt ()", "Anita Wall ()"], "comments": [], "recommandations_id": []}

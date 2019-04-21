@@ -1,0 +1,1 @@
+{"tmdb_id": 327012, "title": "Truckin' Havoc", "original_title": "Truckin' Havoc", "slug_title": "truckin-havoc", "date": "2002-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoVOAzYZ9MHpCpCIYYNUdl3iKHw.jpg", "actors": [], "comments": [], "recommandations_id": []}

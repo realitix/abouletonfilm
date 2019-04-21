@@ -1,0 +1,1 @@
+{"tmdb_id": 459536, "title": "Soy un se\u00f1orito", "original_title": "Soy un se\u00f1orito", "slug_title": "soy-un-senorito", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miguel Ligero ()", "Isabelita Pradas ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 227459, "title": "Rubicon", "original_title": "Rubicon", "slug_title": "rubicon", "date": "1997-04-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lISH8uqIY7eiF5REBC2WcxPiu0.jpg", "actors": [], "comments": [], "recommandations_id": []}

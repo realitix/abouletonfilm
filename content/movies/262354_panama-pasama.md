@@ -1,0 +1,1 @@
+{"tmdb_id": 262354, "title": "Panama Pasama", "original_title": "Panama Pasama", "slug_title": "panama-pasama", "date": "1968-02-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "Nagesh ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385631, "title": "And The Lame Shall Enter First", "original_title": "Khromiye vnidut pervymi", "slug_title": "and-the-lame-shall-enter-first", "date": "1993-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

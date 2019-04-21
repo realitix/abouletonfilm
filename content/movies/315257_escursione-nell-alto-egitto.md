@@ -1,0 +1,1 @@
+{"tmdb_id": 315257, "title": "Escursione nell'Alto Egitto", "original_title": "Escursione nell'Alto Egitto", "slug_title": "escursione-nell-alto-egitto", "date": "1914-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

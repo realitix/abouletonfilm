@@ -1,0 +1,1 @@
+{"tmdb_id": 462340, "title": "Wings of Steel", "original_title": "Wings of Steel", "slug_title": "wings-of-steel", "date": "1941-04-04", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert Anderson ()", "Ralph Byrd ()", "Douglas Kennedy ()", "Tom Neal ()"], "comments": [], "recommandations_id": []}

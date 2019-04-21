@@ -1,0 +1,1 @@
+{"tmdb_id": 564003, "title": "Helping Hands", "original_title": "Helping Hands", "slug_title": "helping-hands", "date": "1941-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Blake (Mickey (as Mickey Gubitosi))", "Darla Hood (Darla)"], "comments": [], "recommandations_id": []}

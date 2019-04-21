@@ -1,0 +1,1 @@
+{"tmdb_id": 296423, "title": "Clever & Smart Vol. 3", "original_title": "Clever & Smart Vol. 3", "slug_title": "clever-smart-vol-3", "date": "2003-03-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zEKe6fovi90wec04wYN2uFEvHhr.jpg", "actors": [], "comments": [], "recommandations_id": []}

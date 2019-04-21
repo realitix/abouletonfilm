@@ -1,0 +1,1 @@
+{"tmdb_id": 372073, "title": "Love for Sale", "original_title": "Alaga", "slug_title": "love-for-sale", "date": "1980-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charito Solis ()", "Edu Manzano ()", "Amy Austria ()", "Raul Aragon ()", "Baby Delgado ()", "Bobby Sandico ()"], "comments": [], "recommandations_id": []}

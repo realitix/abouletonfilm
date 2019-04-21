@@ -1,0 +1,1 @@
+{"tmdb_id": 446945, "title": "Black Spot", "original_title": "\u9ed1\u8272\u8d70\u5eca", "slug_title": "black-spot", "date": "1990-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1KHMNx4JliaYtuTcaUBYrsYtMaj.jpg", "actors": ["Bruce Le ()", "Lo Lieh ()", "Chiang Tao ()"], "comments": [], "recommandations_id": []}

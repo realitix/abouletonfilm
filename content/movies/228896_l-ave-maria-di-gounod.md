@@ -1,0 +1,1 @@
+{"tmdb_id": 228896, "title": "L'ave Maria di Gounod", "original_title": "L'ave Maria di Gounod", "slug_title": "l-ave-maria-di-gounod", "date": "1910-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alberto Capozzi ()", "Mary Cleo Tarlarini ()", "Oreste Grandi ()", "Giuseppe Gray ()"], "comments": [], "recommandations_id": []}

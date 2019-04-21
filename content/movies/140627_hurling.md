@@ -1,0 +1,1 @@
+{"tmdb_id": 140627, "title": "Hurling", "original_title": "Hurling", "slug_title": "hurling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

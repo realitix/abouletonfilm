@@ -1,0 +1,1 @@
+{"tmdb_id": 348224, "title": "Pharos of Chaos", "original_title": "Leuchtturm des Chaos", "slug_title": "pharos-of-chaos", "date": "1983-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hl75OJmfATxusaRwmUaahTfshEu.jpg", "actors": ["Sterling Hayden (Himself)"], "comments": [], "recommandations_id": []}

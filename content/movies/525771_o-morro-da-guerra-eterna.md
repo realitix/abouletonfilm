@@ -1,0 +1,1 @@
+{"tmdb_id": 525771, "title": "O Morro da Guerra Eterna", "original_title": "O Morro da Guerra Eterna", "slug_title": "o-morro-da-guerra-eterna", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

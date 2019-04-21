@@ -1,0 +1,1 @@
+{"tmdb_id": 561431, "title": "American School 12", "original_title": "\u30a2\u30e1\u30b9\u30af 12", "slug_title": "american-school-12", "date": "2008-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXwE9MfG5XjiV0IR9SX58eZlKrB.jpg", "actors": ["Yui Hatano ()"], "comments": [], "recommandations_id": []}

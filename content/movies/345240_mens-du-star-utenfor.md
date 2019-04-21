@@ -1,0 +1,1 @@
+{"tmdb_id": 345240, "title": "Mens du st\u00e5r utenfor", "original_title": "Mens du st\u00e5r utenfor", "slug_title": "mens-du-star-utenfor", "date": "2002-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

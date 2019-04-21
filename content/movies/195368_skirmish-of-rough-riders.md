@@ -1,0 +1,1 @@
+{"tmdb_id": 195368, "title": "Skirmish of Rough Riders", "original_title": "Skirmish of Rough Riders", "slug_title": "skirmish-of-rough-riders", "date": "1899-06-20", "genre": "Guerre", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

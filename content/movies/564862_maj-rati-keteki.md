@@ -1,0 +1,1 @@
+{"tmdb_id": 564862, "title": "Maj Rati Keteki", "original_title": "Maj Rati Keteki", "slug_title": "maj-rati-keteki", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

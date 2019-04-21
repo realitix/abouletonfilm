@@ -1,0 +1,1 @@
+{"tmdb_id": 509165, "title": "Delusions of Grandeur", "original_title": "Delusions of Grandeur", "slug_title": "delusions-of-grandeur", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4r1EYD8tl5e1g176z1iweSBponz.jpg", "actors": [], "comments": [], "recommandations_id": []}

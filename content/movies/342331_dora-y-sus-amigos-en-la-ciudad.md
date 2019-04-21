@@ -1,0 +1,1 @@
+{"tmdb_id": 342331, "title": "dora y sus amigos-en la ciudad", "original_title": "dora y sus amigos-en la ciudad", "slug_title": "dora-y-sus-amigos-en-la-ciudad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

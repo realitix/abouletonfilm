@@ -1,0 +1,1 @@
+{"tmdb_id": 530089, "title": "Lightning Will Fall From The Sky", "original_title": "Caer\u00e1n l\u00f3stregos do ceo", "slug_title": "lightning-will-fall-from-the-sky", "date": "2018-06-13", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

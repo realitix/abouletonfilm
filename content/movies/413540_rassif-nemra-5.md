@@ -1,0 +1,1 @@
+{"tmdb_id": 413540, "title": "Rassif Nemra 5", "original_title": "\u0631\u0635\u064a\u0641 \u0646\u0645\u0631\u0629 5", "slug_title": "rassif-nemra-5", "date": "1956-02-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YjQHyhhm5QQOHw5hpsFHeXZjeg.jpg", "actors": [], "comments": [], "recommandations_id": []}

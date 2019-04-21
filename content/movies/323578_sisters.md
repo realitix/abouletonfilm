@@ -1,0 +1,1 @@
+{"tmdb_id": 323578, "title": "Sisters", "original_title": "Sisters", "slug_title": "sisters", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

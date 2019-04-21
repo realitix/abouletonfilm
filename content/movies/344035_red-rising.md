@@ -1,0 +1,1 @@
+{"tmdb_id": 344035, "title": "Red Rising", "original_title": "Red Rising", "slug_title": "red-rising", "date": "", "genre": "Science-Fiction", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

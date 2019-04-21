@@ -1,0 +1,1 @@
+{"tmdb_id": 579135, "title": "Wait Wait Sping", "original_title": "Wait Wait Sping", "slug_title": "wait-wait-sping", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

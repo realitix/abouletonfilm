@@ -1,0 +1,1 @@
+{"tmdb_id": 387406, "title": "Method Actor", "original_title": "Method Actor", "slug_title": "method-actor", "date": "2011-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0dhoxaHBvWigJOMZ3pqlhPIUMS.jpg", "actors": [], "comments": [], "recommandations_id": []}

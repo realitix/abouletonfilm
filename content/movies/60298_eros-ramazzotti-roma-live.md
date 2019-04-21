@@ -1,0 +1,1 @@
+{"tmdb_id": 60298, "title": "Eros Ramazzotti: Roma Live", "original_title": "Eros Ramazzotti: Roma Live", "slug_title": "eros-ramazzotti-roma-live", "date": "2010-11-03", "genre": "Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hK04Z09C4rpqtfx0OSQDtPIHBa3.jpg", "actors": [], "comments": [], "recommandations_id": []}

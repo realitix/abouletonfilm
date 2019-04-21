@@ -1,0 +1,1 @@
+{"tmdb_id": 556993, "title": "Le congr\u00e8s s'amuse", "original_title": "Le congr\u00e8s s'amuse", "slug_title": "le-congres-s-amuse", "date": "1931-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

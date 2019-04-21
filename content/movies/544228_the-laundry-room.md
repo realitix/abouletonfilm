@@ -1,0 +1,1 @@
+{"tmdb_id": 544228, "title": "The Laundry Room", "original_title": "The Laundry Room", "slug_title": "the-laundry-room", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

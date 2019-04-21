@@ -1,0 +1,1 @@
+{"tmdb_id": 316663, "title": "Rock N Roll's Greatest Teen Idols", "original_title": "Rock N Roll's Greatest Teen Idols", "slug_title": "rock-n-roll-s-greatest-teen-idols", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 62873, "title": "This Is Michael Bubl\u00e9", "original_title": "This Is Michael Bubl\u00e9", "slug_title": "this-is-michael-buble", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBds1Lahd4EnkDKlzyV5YwV8hHs.jpg", "actors": ["Michael Bubl\u00e9 ()"], "comments": [], "recommandations_id": []}

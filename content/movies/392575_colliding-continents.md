@@ -1,0 +1,1 @@
+{"tmdb_id": 392575, "title": "Colliding Continents", "original_title": "Colliding Continents", "slug_title": "colliding-continents", "date": "2010-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kmagABA4QBPfMVI6WzDIT0diXA.jpg", "actors": [], "comments": [], "recommandations_id": []}

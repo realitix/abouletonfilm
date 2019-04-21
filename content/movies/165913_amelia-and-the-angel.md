@@ -1,0 +1,1 @@
+{"tmdb_id": 165913, "title": "Amelia and the Angel", "original_title": "Amelia and the Angel", "slug_title": "amelia-and-the-angel", "date": "1958-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7dwzaYJwVNTl7OvFzB4jrck5Eq.jpg", "actors": ["Mercedes Quadros (Amelia)"], "comments": [], "recommandations_id": []}

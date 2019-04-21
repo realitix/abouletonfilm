@@ -1,0 +1,1 @@
+{"tmdb_id": 146362, "title": "La poulette grise", "original_title": "La poulette grise", "slug_title": "la-poulette-grise", "date": "1947-12-31", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpqPu6bbsTxpPEg9lRqWoiwiyK1.jpg", "actors": [], "comments": [], "recommandations_id": [145337, 144674, 162755, 148176]}

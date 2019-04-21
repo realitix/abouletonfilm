@@ -1,0 +1,1 @@
+{"tmdb_id": 143546, "title": "The Chiefs", "original_title": "The Chiefs", "slug_title": "the-chiefs", "date": "2004-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5N8vYkvpdkr8L77DguXCeUoy5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385242, "title": "Primary Time", "original_title": "Primary Time", "slug_title": "primary-time", "date": "1974-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/809Bkx3GKYHNPUkS80feTPWb4SM.jpg", "actors": [], "comments": [], "recommandations_id": []}

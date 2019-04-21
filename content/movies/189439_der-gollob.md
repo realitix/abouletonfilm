@@ -1,0 +1,1 @@
+{"tmdb_id": 189439, "title": "Der Gollob", "original_title": "Der Gollob", "slug_title": "der-gollob", "date": "1983-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

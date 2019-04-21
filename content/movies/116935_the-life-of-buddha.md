@@ -1,0 +1,1 @@
+{"tmdb_id": 116935, "title": "The Life of Buddha", "original_title": "La vida de Buda", "slug_title": "the-life-of-buddha", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pODwNiqXXqQy6zBWNKcrCtVzku.jpg", "actors": [], "comments": [], "recommandations_id": []}

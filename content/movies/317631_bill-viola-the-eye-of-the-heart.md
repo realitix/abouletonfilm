@@ -1,0 +1,1 @@
+{"tmdb_id": 317631, "title": "Bill Viola: The Eye of the Heart", "original_title": "Bill Viola: The Eye of the Heart", "slug_title": "bill-viola-the-eye-of-the-heart", "date": "2003-12-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Viola ()"], "comments": [], "recommandations_id": []}

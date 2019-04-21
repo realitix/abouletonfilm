@@ -1,0 +1,1 @@
+{"tmdb_id": 570834, "title": "A Christmas Carol", "original_title": "A Christmas Carol", "slug_title": "a-christmas-carol", "date": "1908-12-09", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Ricketts (Ebenezer Scrooge)"], "comments": [], "recommandations_id": []}

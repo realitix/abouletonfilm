@@ -1,0 +1,1 @@
+{"tmdb_id": 389069, "title": "Danzig: [1998] Bizarre Festival", "original_title": "Danzig: [1998] Bizarre Festival", "slug_title": "danzig-1998-bizarre-festival", "date": "1998-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPwnk4cLRWva2KWjRQQJXKtiF0Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

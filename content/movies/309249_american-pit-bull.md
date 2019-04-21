@@ -1,0 +1,1 @@
+{"tmdb_id": 309249, "title": "American Pit Bull", "original_title": "American Pit Bull", "slug_title": "american-pit-bull", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

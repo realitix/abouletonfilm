@@ -1,0 +1,1 @@
+{"tmdb_id": 291561, "title": "Jive Chicken", "original_title": "Jive Chicken", "slug_title": "jive-chicken", "date": "2002-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

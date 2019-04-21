@@ -1,0 +1,1 @@
+{"tmdb_id": 362114, "title": "Believe Me", "original_title": "Crede-mi", "slug_title": "believe-me", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPV47qkPXnmiyWyH0swMTogSBnE.jpg", "actors": [], "comments": [], "recommandations_id": []}

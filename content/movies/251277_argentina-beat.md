@@ -1,0 +1,1 @@
+{"tmdb_id": 251277, "title": "Argentina Beat", "original_title": "Argentina Beat", "slug_title": "argentina-beat", "date": "2007-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lcNkq6h3U3oBYD8b0Ux8aXlYeBA.jpg", "actors": [], "comments": [], "recommandations_id": []}

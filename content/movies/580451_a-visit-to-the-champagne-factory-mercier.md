@@ -1,0 +1,1 @@
+{"tmdb_id": 580451, "title": "A Visit to the Champagne Factory Mercier", "original_title": "Ein Besuch in der Champagnerfabrik Mercier", "slug_title": "a-visit-to-the-champagne-factory-mercier", "date": "1907-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

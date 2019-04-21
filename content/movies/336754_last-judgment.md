@@ -1,0 +1,1 @@
+{"tmdb_id": 336754, "title": "Last Judgment", "original_title": "\u6700\u5f8c\u306e\u5be9\u5224", "slug_title": "last-judgment", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tatsuya Nakadai ()", "Takeshi Kat\u00f4 ()"], "comments": [], "recommandations_id": []}

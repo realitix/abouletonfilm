@@ -1,0 +1,1 @@
+{"tmdb_id": 399306, "title": "Pacto de Silencio", "original_title": "Pacto de Silencio", "slug_title": "pacto-de-silencio", "date": "2006-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

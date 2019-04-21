@@ -1,0 +1,1 @@
+{"tmdb_id": 125079, "title": "Licensed to Kill", "original_title": "Licensed to Kill", "slug_title": "licensed-to-kill", "date": "1997-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1v7Z10vhKDJtmavdQbZYmxnObO3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 205192, "title": "The Pink Pill", "original_title": "The Pink Pill", "slug_title": "the-pink-pill", "date": "1968-07-31", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xf43Kk1MtJ9KRTMylteVWuum12d.jpg", "actors": [], "comments": [], "recommandations_id": []}

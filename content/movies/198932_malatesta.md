@@ -1,0 +1,1 @@
+{"tmdb_id": 198932, "title": "Malatesta", "original_title": "Malatesta", "slug_title": "malatesta", "date": "1970-04-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzQ7sM9g79crBdiVLuSx0dp5oOh.jpg", "actors": ["Eddie Constantine (Malatesta)"], "comments": [], "recommandations_id": []}

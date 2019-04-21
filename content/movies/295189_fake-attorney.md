@@ -1,0 +1,1 @@
+{"tmdb_id": 295189, "title": "Fake Attorney", "original_title": "Fake Attorney", "slug_title": "fake-attorney", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

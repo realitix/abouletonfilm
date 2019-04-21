@@ -1,0 +1,1 @@
+{"tmdb_id": 538083, "title": "Gulyabani", "original_title": "Gulyabani", "slug_title": "gulyabani", "date": "2018-08-01", "genre": "Documentaire / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Aike1hWysfxxwO1re8edFYHB6H.jpg", "actors": ["Zeynep Kumral (Gulyabani (voice))"], "comments": [], "recommandations_id": []}

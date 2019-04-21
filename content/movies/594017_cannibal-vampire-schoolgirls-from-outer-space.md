@@ -1,0 +1,1 @@
+{"tmdb_id": 594017, "title": "Cannibal Vampire Schoolgirls from Outer Space", "original_title": "Cannibal Vampire Schoolgirls from Outer Space", "slug_title": "cannibal-vampire-schoolgirls-from-outer-space", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

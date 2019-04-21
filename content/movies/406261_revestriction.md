@@ -1,0 +1,1 @@
+{"tmdb_id": 406261, "title": "Revestriction", "original_title": "Revestriction", "slug_title": "revestriction", "date": "1989-01-01", "genre": "Com\u00e9die / Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernadette Coqueret (Woman)"], "comments": [], "recommandations_id": []}

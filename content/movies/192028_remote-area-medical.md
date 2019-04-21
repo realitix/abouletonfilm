@@ -1,0 +1,1 @@
+{"tmdb_id": 192028, "title": "Remote Area Medical", "original_title": "Remote Area Medical", "slug_title": "remote-area-medical", "date": "2013-04-06", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vVZn6r0qvA8rujhTfaBLblAgq9.jpg", "actors": [], "comments": [], "recommandations_id": []}

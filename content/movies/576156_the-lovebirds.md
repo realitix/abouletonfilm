@@ -1,0 +1,1 @@
+{"tmdb_id": 576156, "title": "The Lovebirds", "original_title": "The Lovebirds", "slug_title": "the-lovebirds", "date": "2020-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Issa Rae ()", "Kumail Nanjiani ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 373512, "title": "Magang Hotel", "original_title": "\ub9c8\uac15\ud638\ud154", "slug_title": "magang-hotel", "date": "2007-02-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bFJce7o9s8Xhe32Dqscf8b7WNod.jpg", "actors": ["Kim Sung-eun (Park Min-ah)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301662, "title": "Patthar Aur Payal", "original_title": "Patthar Aur Payal", "slug_title": "patthar-aur-payal", "date": "1974-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVpz2r2H9saXWFjwu2ReAjx7wAA.jpg", "actors": [], "comments": [], "recommandations_id": []}

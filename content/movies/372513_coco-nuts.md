@@ -1,0 +1,1 @@
+{"tmdb_id": 372513, "title": "Coco-nuts", "original_title": "Kokos", "slug_title": "coco-nuts", "date": "2006-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

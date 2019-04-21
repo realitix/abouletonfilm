@@ -1,0 +1,1 @@
+{"tmdb_id": 420488, "title": "Idolle Ramayana", "original_title": "Idolle Ramayana", "slug_title": "idolle-ramayana", "date": "2016-10-07", "genre": "Thriller / Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8YNTkhS7t8wl1t64b2qEJcKfcI.jpg", "actors": [], "comments": [], "recommandations_id": []}

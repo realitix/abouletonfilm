@@ -1,0 +1,1 @@
+{"tmdb_id": 349634, "title": "\uc2a4\ubb3c\ud558\ub098\uc758 \ube44\ub9dd\ub85d", "original_title": "\uc2a4\ubb3c\ud558\ub098\uc758 \ube44\ub9dd\ub85d", "slug_title": "seumulhanayi-bimangrog", "date": "1983-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

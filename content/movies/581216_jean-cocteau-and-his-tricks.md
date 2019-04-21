@@ -1,0 +1,1 @@
+{"tmdb_id": 581216, "title": "Jean Cocteau and His Tricks", "original_title": "Jean Cocteau et sus trucages", "slug_title": "jean-cocteau-and-his-tricks", "date": "2008-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claude Pinoteau (Interviewee)"], "comments": [], "recommandations_id": []}

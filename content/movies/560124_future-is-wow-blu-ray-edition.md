@@ -1,0 +1,1 @@
+{"tmdb_id": 560124, "title": "FUTURE IS WOW (Blu-Ray Edition)", "original_title": "FUTURE IS WOW (Blu-Ray Edition)", "slug_title": "future-is-wow-blu-ray-edition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

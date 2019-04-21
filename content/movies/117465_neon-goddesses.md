@@ -1,0 +1,1 @@
+{"tmdb_id": 117465, "title": "Neon Goddesses", "original_title": "Neon Goddesses", "slug_title": "neon-goddesses", "date": "1996-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTV905lo1OtRrxfUTIRHOQzQh7B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 355651, "title": "The Student", "original_title": "De leerling", "slug_title": "the-student", "date": "2015-09-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mk6hgeJzW9ZLgqP5IoWcbiNOTdA.jpg", "actors": ["Halina Reijn (Lana)", "Thijs Boermans (Benny)"], "comments": [], "recommandations_id": []}

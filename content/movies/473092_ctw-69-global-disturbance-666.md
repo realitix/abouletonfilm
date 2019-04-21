@@ -1,0 +1,1 @@
+{"tmdb_id": 473092, "title": "CTW 69 - Global Disturbance 666", "original_title": "CTW 69 - Global Disturbance 666", "slug_title": "ctw-69-global-disturbance-666", "date": "2013-09-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDqvEP9T7C3xWECZkcRjwQQjcTm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278610, "title": "Kabbalah Me", "original_title": "Kabbalah Me", "slug_title": "kabbalah-me", "date": "2014-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6a6IPtIviISkg8bAJpE7Xbfb7bc.jpg", "actors": [], "comments": [], "recommandations_id": []}

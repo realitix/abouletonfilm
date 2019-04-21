@@ -1,0 +1,1 @@
+{"tmdb_id": 350002, "title": "\uc11c\uc6b8\uc758 \ub2ec\ube5b", "original_title": "\uc11c\uc6b8\uc758 \ub2ec\ube5b", "slug_title": "seoulyi-dalbic", "date": "1991-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

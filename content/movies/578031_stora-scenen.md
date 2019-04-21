@@ -1,0 +1,1 @@
+{"tmdb_id": 578031, "title": "Stora Scenen", "original_title": "Stora Scenen", "slug_title": "stora-scenen", "date": "2011-01-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ylva Holst ()", "Eva Mozard ()", "Tova Mozard ()", "Marie-Louise Mozard ()"], "comments": [], "recommandations_id": []}

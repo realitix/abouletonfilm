@@ -1,0 +1,1 @@
+{"tmdb_id": 424576, "title": "Tesz-vesz V\u00e1ros 2.", "original_title": "Tesz-vesz V\u00e1ros 2.", "slug_title": "tesz-vesz-varos-2", "date": "1993-11-05", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjIqX6Y4fHcH6y44EaKq5ezT1Fw.jpg", "actors": [], "comments": [], "recommandations_id": []}

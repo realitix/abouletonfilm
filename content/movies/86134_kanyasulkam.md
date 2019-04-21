@@ -1,0 +1,1 @@
+{"tmdb_id": 86134, "title": "Kanyasulkam", "original_title": "Kanyasulkam", "slug_title": "kanyasulkam", "date": "1955-08-26", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TJwF9d3F93SpFgTkscReF95tpL.jpg", "actors": [], "comments": [], "recommandations_id": []}

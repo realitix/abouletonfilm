@@ -1,0 +1,1 @@
+{"tmdb_id": 310829, "title": "Rock Masters: AC/DC", "original_title": "Rock Masters: AC/DC", "slug_title": "rock-masters-ac-dc", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

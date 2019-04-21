@@ -1,0 +1,1 @@
+{"tmdb_id": 381127, "title": "Miss Cinterrier's Groom", "original_title": "Cinterrier-jou no Hanamuko", "slug_title": "miss-cinterrier-s-groom", "date": "1954-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhbOAUBzqxjpBkD0LHSDeGcMNU2.jpg", "actors": [], "comments": [], "recommandations_id": []}

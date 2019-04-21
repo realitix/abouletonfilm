@@ -1,0 +1,1 @@
+{"tmdb_id": 352068, "title": "Summer Bummer", "original_title": "Summer Bummer", "slug_title": "summer-bummer", "date": "2012-03-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mU1SwEdAS0OeDgItUG7QXuMBkJb.jpg", "actors": [], "comments": [], "recommandations_id": []}

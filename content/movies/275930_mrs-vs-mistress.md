@@ -1,0 +1,1 @@
+{"tmdb_id": 275930, "title": "Mrs. vs. Mistress", "original_title": "Mrs. vs. Mistress", "slug_title": "mrs-vs-mistress", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

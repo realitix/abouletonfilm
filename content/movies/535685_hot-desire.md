@@ -1,0 +1,1 @@
+{"tmdb_id": 535685, "title": "Hot Desire", "original_title": "\uadf8\ub140\uc758 \ub728\uac70\uc6b4 \uc695\ub9dd", "slug_title": "hot-desire", "date": "2013-01-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Even Hanzhong ()", "Songjuhui ()", "Yundohun ()"], "comments": [], "recommandations_id": []}

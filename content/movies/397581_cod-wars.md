@@ -1,0 +1,1 @@
+{"tmdb_id": 397581, "title": "Cod Wars", "original_title": "Cod Wars", "slug_title": "cod-wars", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

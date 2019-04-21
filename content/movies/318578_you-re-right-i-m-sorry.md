@@ -1,0 +1,1 @@
+{"tmdb_id": 318578, "title": "You're Right... I'm Sorry", "original_title": "You're Right... I'm Sorry", "slug_title": "you-re-right-i-m-sorry", "date": "1990-10-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blake Clark ()"], "comments": [], "recommandations_id": []}

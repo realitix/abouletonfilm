@@ -1,0 +1,1 @@
+{"tmdb_id": 460007, "title": "Functional Karate by Takayuki Kubota", "original_title": "Functional Karate by Takayuki Kubota", "slug_title": "functional-karate-by-takayuki-kubota", "date": "2003-12-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Takayuki Kubota (Self)"], "comments": [], "recommandations_id": []}

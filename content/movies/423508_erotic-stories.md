@@ -1,0 +1,1 @@
+{"tmdb_id": 423508, "title": "Erotic Stories", "original_title": "\uc57c\ud55c \uc774\uc57c\uae30", "slug_title": "erotic-stories", "date": "2016-09-29", "genre": "Romance", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4xBmMTdvrW31LgPI0L1mQCAxKrt.jpg", "actors": ["Baek Se-ri ()"], "comments": [], "recommandations_id": []}

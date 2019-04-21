@@ -1,0 +1,1 @@
+{"tmdb_id": 588823, "title": "La bouteille de Patouillard", "original_title": "La bouteille de Patouillard", "slug_title": "la-bouteille-de-patouillard", "date": "1911-07-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Bertho (Patouillard)"], "comments": [], "recommandations_id": []}

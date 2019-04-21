@@ -1,0 +1,1 @@
+{"tmdb_id": 386749, "title": "Richtung Nova Huta", "original_title": "Richtung Nova Huta", "slug_title": "richtung-nova-huta", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

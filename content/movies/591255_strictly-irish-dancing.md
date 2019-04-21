@@ -1,0 +1,1 @@
+{"tmdb_id": 591255, "title": "Strictly Irish Dancing", "original_title": "Strictly Irish Dancing", "slug_title": "strictly-irish-dancing", "date": "2012-06-13", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CXJDNzJlz059Li0dAPUkpKvC0d.jpg", "actors": [], "comments": [], "recommandations_id": []}

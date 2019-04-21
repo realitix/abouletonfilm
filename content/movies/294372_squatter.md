@@ -1,0 +1,1 @@
+{"tmdb_id": 294372, "title": "Squatter", "original_title": "Squatter", "slug_title": "squatter", "date": "2013-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

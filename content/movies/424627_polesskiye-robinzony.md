@@ -1,0 +1,1 @@
+{"tmdb_id": 424627, "title": "Polesskiye robinzony", "original_title": "Polesskiye robinzony", "slug_title": "polesskiye-robinzony", "date": "1934-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

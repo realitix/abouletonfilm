@@ -1,0 +1,1 @@
+{"tmdb_id": 40512, "title": "Arts and Flowers", "original_title": "Arts and Flowers", "slug_title": "arts-and-flowers", "date": "1956-11-18", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69xtzQAYbRZByARv3BU1Hb68E2o.jpg", "actors": [], "comments": [], "recommandations_id": []}

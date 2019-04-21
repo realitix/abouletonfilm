@@ -1,0 +1,1 @@
+{"tmdb_id": 276278, "title": "The Guy with the Secret of Kung Fu", "original_title": "The Guy with the Secret of Kung Fu", "slug_title": "the-guy-with-the-secret-of-kung-fu", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

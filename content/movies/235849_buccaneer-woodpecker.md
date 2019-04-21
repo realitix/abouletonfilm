@@ -1,0 +1,1 @@
+{"tmdb_id": 235849, "title": "Buccaneer Woodpecker", "original_title": "Buccaneer Woodpecker", "slug_title": "buccaneer-woodpecker", "date": "1953-04-19", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6X5Z6iFZANB3PzOTQINYhFqGv9l.jpg", "actors": [], "comments": [], "recommandations_id": []}

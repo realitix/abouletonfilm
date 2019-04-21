@@ -1,0 +1,1 @@
+{"tmdb_id": 73300, "title": "The Way Bobby Sees It", "original_title": "The Way Bobby Sees It", "slug_title": "the-way-bobby-sees-it", "date": "2008-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby McMullen (Himself)", "Jason Allen (Guide)", "Andy Freesian (Guide)"], "comments": [], "recommandations_id": []}

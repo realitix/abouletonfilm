@@ -1,0 +1,1 @@
+{"tmdb_id": 578055, "title": "Women on the Warpath", "original_title": "Women on the Warpath", "slug_title": "women-on-the-warpath", "date": "1943-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Truman Bradley (Narrator (voice))"], "comments": [], "recommandations_id": []}

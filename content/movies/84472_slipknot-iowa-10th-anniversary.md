@@ -1,0 +1,1 @@
+{"tmdb_id": 84472, "title": "Slipknot: Iowa 10th Anniversary", "original_title": "Slipknot: Iowa 10th Anniversary", "slug_title": "slipknot-iowa-10th-anniversary", "date": "2009-09-09", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQPEG2JclDZpG3D2meMZs7WPSAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

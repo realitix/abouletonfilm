@@ -1,0 +1,1 @@
+{"tmdb_id": 323778, "title": "Let Them Eat Rock", "original_title": "Let Them Eat Rock", "slug_title": "let-them-eat-rock", "date": "2004-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4pRG7U6adLtoyEjJsKOvrGF0YdF.jpg", "actors": [], "comments": [], "recommandations_id": []}

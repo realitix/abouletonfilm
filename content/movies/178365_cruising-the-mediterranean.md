@@ -1,0 +1,1 @@
+{"tmdb_id": 178365, "title": "Cruising the Mediterranean", "original_title": "Cruising the Mediterranean", "slug_title": "cruising-the-mediterranean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

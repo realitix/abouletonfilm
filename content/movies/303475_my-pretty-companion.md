@@ -1,0 +1,1 @@
+{"tmdb_id": 303475, "title": "My Pretty Companion", "original_title": "\u4f34\u6211\u5137\u4eba", "slug_title": "my-pretty-companion", "date": "1992-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

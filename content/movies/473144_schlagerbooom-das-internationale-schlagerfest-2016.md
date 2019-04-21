@@ -1,0 +1,1 @@
+{"tmdb_id": 473144, "title": "Schlagerbooom - Das internationale Schlagerfest 2016", "original_title": "Schlagerbooom - Das internationale Schlagerfest 2016", "slug_title": "schlagerbooom-das-internationale-schlagerfest-2016", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

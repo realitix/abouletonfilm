@@ -1,0 +1,1 @@
+{"tmdb_id": 490792, "title": "The Price of Free", "original_title": "The Price of Free", "slug_title": "the-price-of-free", "date": "2018-01-19", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SGMALzyckKxmuiNpTtYlMTNasb.jpg", "actors": [], "comments": [], "recommandations_id": []}

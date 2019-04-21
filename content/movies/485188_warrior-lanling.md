@@ -1,0 +1,1 @@
+{"tmdb_id": 485188, "title": "Warrior Lanling", "original_title": "\u5170\u9675\u738b", "slug_title": "warrior-lanling", "date": "1995-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fz4eUzCxNHuB05yXb31Z35NPJwe.jpg", "actors": ["Ning Jing ()", "Wang Xue-qi ()"], "comments": [], "recommandations_id": []}

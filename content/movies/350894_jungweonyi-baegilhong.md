@@ -1,0 +1,1 @@
+{"tmdb_id": 350894, "title": "\uc911\uc6d0\uc758 \ubc31\uc77c\ud64d", "original_title": "\uc911\uc6d0\uc758 \ubc31\uc77c\ud64d", "slug_title": "jungweonyi-baegilhong", "date": "1979-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

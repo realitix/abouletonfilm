@@ -1,0 +1,1 @@
+{"tmdb_id": 574502, "title": "Back to the Territories: Calgary", "original_title": "Back to the Territories: Calgary", "slug_title": "back-to-the-territories-calgary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Cornette (Himself)", "Lance Evers (Himself)"], "comments": [], "recommandations_id": []}

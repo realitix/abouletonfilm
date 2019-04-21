@@ -1,0 +1,1 @@
+{"tmdb_id": 482062, "title": "Medusae", "original_title": "Medusae", "slug_title": "medusae", "date": "2017-10-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mT1V5jewyrUwcO0jQeoIHAtY7a9.jpg", "actors": ["Desiree del Valle ()", "Carl Palaganas ()"], "comments": [], "recommandations_id": []}

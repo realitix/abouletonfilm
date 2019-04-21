@@ -1,0 +1,1 @@
+{"tmdb_id": 560794, "title": "Felizmente tengo amigos", "original_title": "Felizmente tengo amigos", "slug_title": "felizmente-tengo-amigos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

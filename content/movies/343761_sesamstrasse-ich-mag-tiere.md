@@ -1,0 +1,1 @@
+{"tmdb_id": 343761, "title": "Sesamstra\u00dfe - Ich mag Tiere", "original_title": "Sesamstra\u00dfe - Ich mag Tiere", "slug_title": "sesamstrasse-ich-mag-tiere", "date": "2005-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7A51KQbpQSxlp8h66NzX6gdtFNu.jpg", "actors": [], "comments": [], "recommandations_id": []}

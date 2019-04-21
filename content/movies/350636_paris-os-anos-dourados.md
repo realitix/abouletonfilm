@@ -1,0 +1,1 @@
+{"tmdb_id": 350636, "title": "Paris, Os anos dourados", "original_title": "Paris, Os anos dourados", "slug_title": "paris-os-anos-dourados", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

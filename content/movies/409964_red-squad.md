@@ -1,0 +1,1 @@
+{"tmdb_id": 409964, "title": "Red Squad", "original_title": "Red Squad", "slug_title": "red-squad", "date": "1972-01-01", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBejGdcOCE1A4KSeumgWNpcabcp.jpg", "actors": [], "comments": [], "recommandations_id": []}

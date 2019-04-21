@@ -1,0 +1,1 @@
+{"tmdb_id": 534700, "title": "Norman Blake's Guitar Techniques - DVD 2", "original_title": "Norman Blake's Guitar Techniques - DVD 2", "slug_title": "norman-blake-s-guitar-techniques-dvd-2", "date": "2003-07-17", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

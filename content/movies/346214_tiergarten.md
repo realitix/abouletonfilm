@@ -1,0 +1,1 @@
+{"tmdb_id": 346214, "title": "Tiergarten", "original_title": "Tiergarten", "slug_title": "tiergarten", "date": "1979-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steven Adamczewski ()", "Dagmar Beiersdorf ()", "Erich F\u00f6rtsch ()", "Marion Herschel ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 404594, "title": "The Avenging Silence", "original_title": "The Avenging Silence", "slug_title": "the-avenging-silence", "date": "", "genre": "Thriller / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

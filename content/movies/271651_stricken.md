@@ -1,0 +1,1 @@
+{"tmdb_id": 271651, "title": "Stricken", "original_title": "Stricken", "slug_title": "stricken", "date": "2010-07-27", "genre": "Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3V9Qj9gsgtYJkK8GFTB1ntDk1Ip.jpg", "actors": ["David Fine (Detective Scott Aro)"], "comments": [], "recommandations_id": []}

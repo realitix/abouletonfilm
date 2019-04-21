@@ -1,0 +1,1 @@
+{"tmdb_id": 288205, "title": "Southern Man", "original_title": "Southern Man", "slug_title": "southern-man", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

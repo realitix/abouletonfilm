@@ -1,0 +1,1 @@
+{"tmdb_id": 357806, "title": "Baby Ghana", "original_title": "Baby Ghana", "slug_title": "baby-ghana", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vSASjSHvnFBteIetyBx0soYSRVd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 205646, "title": "Wimmin Hadn't Oughta Drive", "original_title": "Wimmin Hadn't Oughta Drive", "slug_title": "wimmin-hadn-t-oughta-drive", "date": "1940-08-16", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8t6k7zaQiSsIcLDJ01o5sj80njL.jpg", "actors": [], "comments": [], "recommandations_id": []}

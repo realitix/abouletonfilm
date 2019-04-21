@@ -1,0 +1,1 @@
+{"tmdb_id": 448578, "title": "\u0421\u0438\u043d\u0438\u0446\u0430", "original_title": "\u0421\u0438\u043d\u0438\u0446\u0430", "slug_title": "sinitsa", "date": "1944-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gUVaXgtrYy0InQlc7D42w7AUPy.jpg", "actors": [], "comments": [], "recommandations_id": []}

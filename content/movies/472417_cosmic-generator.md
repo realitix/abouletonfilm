@@ -1,0 +1,1 @@
+{"tmdb_id": 472417, "title": "Cosmic Generator", "original_title": "Cosmic Generator", "slug_title": "cosmic-generator", "date": "2017-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

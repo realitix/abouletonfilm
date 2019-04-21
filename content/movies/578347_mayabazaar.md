@@ -1,0 +1,1 @@
+{"tmdb_id": 578347, "title": "Mayabazaar", "original_title": "Mayabazaar", "slug_title": "mayabazaar", "date": "2012-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roopa Ganguly ()"], "comments": [], "recommandations_id": []}

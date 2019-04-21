@@ -1,0 +1,1 @@
+{"tmdb_id": 486600, "title": "Gods in Shackles", "original_title": "Gods in Shackles", "slug_title": "gods-in-shackles", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

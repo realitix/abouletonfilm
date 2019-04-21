@@ -1,0 +1,1 @@
+{"tmdb_id": 472690, "title": "Wajda's Danton", "original_title": "Wajda's Danton", "slug_title": "wajda-s-danton", "date": "1983-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

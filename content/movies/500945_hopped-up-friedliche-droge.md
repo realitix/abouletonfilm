@@ -1,0 +1,1 @@
+{"tmdb_id": 500945, "title": "Hopped Up - Friedliche Droge", "original_title": "Hopped Up - Friedliche Droge", "slug_title": "hopped-up-friedliche-droge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLGEppm6Reg5DkEjyhSw5pDIBwA.jpg", "actors": ["Larissa Marolt ()"], "comments": [], "recommandations_id": []}

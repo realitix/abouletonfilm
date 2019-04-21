@@ -1,0 +1,1 @@
+{"tmdb_id": 589086, "title": "Dolina Vladara: Valley of the Rulers", "original_title": "Dolina Vladara: Valley of the Rulers", "slug_title": "dolina-vladara-valley-of-the-rulers", "date": "2019-02-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

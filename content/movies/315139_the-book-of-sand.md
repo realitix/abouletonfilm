@@ -1,0 +1,1 @@
+{"tmdb_id": 315139, "title": "The Book of Sand", "original_title": "The Book of Sand", "slug_title": "the-book-of-sand", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NPXCz933UsXfClHwCyOgd1QNuS.jpg", "actors": ["Bader AlHomoud (Director)"], "comments": [], "recommandations_id": []}

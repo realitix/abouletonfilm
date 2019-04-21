@@ -1,0 +1,1 @@
+{"tmdb_id": 577336, "title": "Black Marketing", "original_title": "Black Marketing", "slug_title": "black-marketing", "date": "1943-08-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

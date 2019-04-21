@@ -1,0 +1,1 @@
+{"tmdb_id": 496679, "title": "B.Tech Babulu", "original_title": "B.Tech Babulu", "slug_title": "b-tech-babulu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 187336, "title": "The Drinking Knight", "original_title": "The Drinking Knight", "slug_title": "the-drinking-knight", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lo Lieh ()", "Elliot Ngok ()", "Yeung Chi-Hing ()"], "comments": [], "recommandations_id": []}

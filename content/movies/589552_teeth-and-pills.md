@@ -1,0 +1,1 @@
+{"tmdb_id": 589552, "title": "Teeth and Pills", "original_title": "Teeth and Pills", "slug_title": "teeth-and-pills", "date": "2018-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2LXjxN8wF9z0xX9ahkNpZ0XX1C.jpg", "actors": [], "comments": [], "recommandations_id": []}

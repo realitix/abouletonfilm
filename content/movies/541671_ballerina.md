@@ -1,0 +1,1 @@
+{"tmdb_id": 541671, "title": "Ballerina", "original_title": "Ballerina", "slug_title": "ballerina", "date": "", "genre": "Action / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

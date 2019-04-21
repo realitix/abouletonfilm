@@ -1,0 +1,1 @@
+{"tmdb_id": 452356, "title": "The Rock", "original_title": "The Rock", "slug_title": "the-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTC05bSVi8QIXMYKS41czDlQNRU.jpg", "actors": [], "comments": [], "recommandations_id": []}

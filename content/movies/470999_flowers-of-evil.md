@@ -1,0 +1,1 @@
+{"tmdb_id": 470999, "title": "Flowers of Evil", "original_title": "Fleur du Mal", "slug_title": "flowers-of-evil", "date": "2017-06-06", "genre": "Myst\u00e8re / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8q7Zn85CZOICSFVgO8pmT8yIIq.jpg", "actors": [], "comments": [], "recommandations_id": []}

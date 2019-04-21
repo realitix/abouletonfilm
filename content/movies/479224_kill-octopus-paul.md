@@ -1,0 +1,1 @@
+{"tmdb_id": 479224, "title": "Kill Octopus Paul", "original_title": "\u8ffd\u8e2a\u7ae0\u9c7c\u4fdd\u7f57", "slug_title": "kill-octopus-paul", "date": "2010-11-26", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dQyxbmPRPQcmbEAuUQtl13wjFq.jpg", "actors": [], "comments": [], "recommandations_id": []}

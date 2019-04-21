@@ -1,0 +1,1 @@
+{"tmdb_id": 453490, "title": "The Simpsons: Film Noir (TV)", "original_title": "The Simpsons: Film Noir (TV)", "slug_title": "the-simpsons-film-noir-tv", "date": "2013-06-20", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

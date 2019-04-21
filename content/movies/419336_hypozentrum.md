@@ -1,0 +1,1 @@
+{"tmdb_id": 419336, "title": "Hypozentrum", "original_title": "Hypozentrum", "slug_title": "hypozentrum", "date": "2013-02-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Xenia Yvon Lesniewski (Xenia)", "Hanno Schnegg (Arschmoloch M.I.)"], "comments": [], "recommandations_id": []}

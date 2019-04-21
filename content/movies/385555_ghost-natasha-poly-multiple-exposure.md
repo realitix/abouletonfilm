@@ -1,0 +1,1 @@
+{"tmdb_id": 385555, "title": "Ghost: Natasha Poly Multiple Exposure", "original_title": "Ghost: Natasha Poly Multiple Exposure", "slug_title": "ghost-natasha-poly-multiple-exposure", "date": "2009-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

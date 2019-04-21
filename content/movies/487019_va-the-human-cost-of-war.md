@@ -1,0 +1,1 @@
+{"tmdb_id": 487019, "title": "VA: The Human Cost of War", "original_title": "VA: The Human Cost of War", "slug_title": "va-the-human-cost-of-war", "date": "2017-11-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFC7SsYqP7BW0POyX0VHU4hicMQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

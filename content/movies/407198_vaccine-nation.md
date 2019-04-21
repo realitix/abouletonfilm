@@ -1,0 +1,1 @@
+{"tmdb_id": 407198, "title": "Vaccine Nation", "original_title": "Vaccine Nation", "slug_title": "vaccine-nation", "date": "2008-03-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2b37MKTZfRLnlXvufT6f0lgMLi5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424119, "title": "No Better Blues", "original_title": "No Better Blues", "slug_title": "no-better-blues", "date": "2016-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7rXmo3eZa1sGNoXerCYG5XpZ41.jpg", "actors": ["Finn Parker (The Hooded Figure)"], "comments": [], "recommandations_id": []}

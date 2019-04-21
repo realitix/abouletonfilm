@@ -1,0 +1,1 @@
+{"tmdb_id": 476324, "title": "The Inspector Is Back!", "original_title": "Inspektor se vratio ku\u0107i", "slug_title": "the-inspector-is-back", "date": "1959-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

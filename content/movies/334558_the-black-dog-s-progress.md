@@ -1,0 +1,1 @@
+{"tmdb_id": 334558, "title": "The Black Dog's Progress", "original_title": "The Black Dog's Progress", "slug_title": "the-black-dog-s-progress", "date": "2008-11-14", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpJqd0vSWOUY0Qu2YdIQ7iPJ3Nv.jpg", "actors": [], "comments": [], "recommandations_id": []}

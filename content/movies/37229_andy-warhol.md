@@ -1,0 +1,1 @@
+{"tmdb_id": 37229, "title": "Andy Warhol", "original_title": "Andy Warhol", "slug_title": "andy-warhol", "date": "1987-01-01", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kOGMncBL2CDGwKYILckkQsNoni.jpg", "actors": ["Andy Warhol (Himself)"], "comments": [], "recommandations_id": []}

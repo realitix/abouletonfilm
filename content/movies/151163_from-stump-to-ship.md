@@ -1,0 +1,1 @@
+{"tmdb_id": 151163, "title": "From Stump to Ship", "original_title": "From Stump to Ship", "slug_title": "from-stump-to-ship", "date": "1930-12-31", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yX3BXLXB2eTcOH3ShumMTfRvsD.jpg", "actors": [], "comments": [], "recommandations_id": []}

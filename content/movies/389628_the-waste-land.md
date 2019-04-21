@@ -1,0 +1,1 @@
+{"tmdb_id": 389628, "title": "The Waste Land", "original_title": "The Waste Land", "slug_title": "the-waste-land", "date": "1995-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGFMJyxjLn1ERD0L2bsrGNLuiXq.jpg", "actors": ["Fiona Shaw (Herself)"], "comments": [], "recommandations_id": []}

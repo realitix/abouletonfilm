@@ -1,0 +1,1 @@
+{"tmdb_id": 99714, "title": "Yang Ban Xi: The 8 Modelworks", "original_title": "Yang Ban Xi - The 8 Model Works", "slug_title": "yang-ban-xi-the-8-modelworks", "date": "2005-12-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a79AEXSAt12M7GEm1KH20RCCQ3n.jpg", "actors": [], "comments": [], "recommandations_id": []}

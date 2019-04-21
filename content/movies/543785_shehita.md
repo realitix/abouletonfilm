@@ -1,0 +1,1 @@
+{"tmdb_id": 543785, "title": "Shehita", "original_title": "Shehita", "slug_title": "shehita", "date": "2018-09-02", "genre": "Thriller / Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Avi Hoffman (Akiva Goldstein)"], "comments": [], "recommandations_id": []}

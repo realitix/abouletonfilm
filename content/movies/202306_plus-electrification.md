@@ -1,0 +1,1 @@
+{"tmdb_id": 202306, "title": "Plus Electrification", "original_title": "\u041f\u043b\u044e\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f", "slug_title": "plus-electrification", "date": "1972-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

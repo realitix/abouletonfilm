@@ -1,0 +1,1 @@
+{"tmdb_id": 412685, "title": "The Lightning Rod Thief", "original_title": "Le voleur de paratonnerres", "slug_title": "the-lightning-rod-thief", "date": "1946-02-27", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iFZPDFPg1Flty7MyPULo7Cq792Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

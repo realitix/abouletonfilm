@@ -1,0 +1,1 @@
+{"tmdb_id": 547329, "title": "Amores perros", "original_title": "Amores perros", "slug_title": "amores-perros", "date": "2016-01-01", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/np7MEuflq6Hgn9rr8xFJqilZjHc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282378, "title": "Ostry film 'zaanga\u017cowany'", "original_title": "Ostry film 'zaanga\u017cowany'", "slug_title": "ostry-film-zaangazowany", "date": "1980-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfhrHgEpAuxL4xBPyKrUpeiOWD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

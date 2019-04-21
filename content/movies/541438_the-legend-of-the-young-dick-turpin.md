@@ -1,0 +1,1 @@
+{"tmdb_id": 541438, "title": "The Legend Of The Young Dick Turpin", "original_title": "The Legend Of The Young Dick Turpin", "slug_title": "the-legend-of-the-young-dick-turpin", "date": "1965-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Weston (Dick Turpin)"], "comments": [], "recommandations_id": []}

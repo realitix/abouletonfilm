@@ -1,0 +1,1 @@
+{"tmdb_id": 531613, "title": "Tzubra Tzuma", "original_title": "Tzubra Tzuma", "slug_title": "tzubra-tzuma", "date": "1983-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmFjrAPwDzwtdDN1Azi2jt6MVjj.jpg", "actors": ["Fl\u00e1vio de Souza (Voz)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 466036, "title": "Wolf Guy", "original_title": "\u30a6\u30eb\u30d5\u30ac\u30a4", "slug_title": "wolf-guy", "date": "1993-06-21", "genre": "Animation / Action / Science-Fiction", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6VWrlVgNk9OrNWgdOTvKm5OgeN.jpg", "actors": [], "comments": [], "recommandations_id": []}

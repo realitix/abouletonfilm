@@ -1,0 +1,1 @@
+{"tmdb_id": 108656, "title": "Freeway Speedway 5", "original_title": "Freeway Speedway 5", "slug_title": "freeway-speedway-5", "date": "1993-01-01", "genre": "Action / Thriller", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vlwsEplCV10WMcCu5GsnkcGZ0A0.jpg", "actors": [], "comments": [], "recommandations_id": []}

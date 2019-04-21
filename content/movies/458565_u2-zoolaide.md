@@ -1,0 +1,1 @@
+{"tmdb_id": 458565, "title": "U2: Zoolaide", "original_title": "U2: Zoolaide", "slug_title": "u2-zoolaide", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8stOnmnODX6rRcQNg0PSwv2dhua.jpg", "actors": [], "comments": [], "recommandations_id": []}

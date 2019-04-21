@@ -1,0 +1,1 @@
+{"tmdb_id": 381728, "title": "Nice to See You", "original_title": "Nice to See You", "slug_title": "nice-to-see-you", "date": "1975-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7S16paFhq9f1XM2tKmPyXKcm1Fa.jpg", "actors": [], "comments": [], "recommandations_id": []}

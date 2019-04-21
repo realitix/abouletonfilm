@@ -1,0 +1,1 @@
+{"tmdb_id": 212274, "title": "Bikkar Bai Senti Mental", "original_title": "Bikkar Bai Senti Mental", "slug_title": "bikkar-bai-senti-mental", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/coogw0sXKV6vLCLX8bDACEPTp0Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

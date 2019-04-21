@@ -1,0 +1,1 @@
+{"tmdb_id": 318326, "title": "Juice Newton: Every Road Leads Back to You", "original_title": "Juice Newton: Every Road Leads Back to You", "slug_title": "juice-newton-every-road-leads-back-to-you", "date": "2002-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

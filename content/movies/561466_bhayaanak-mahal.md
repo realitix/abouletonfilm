@@ -1,0 +1,1 @@
+{"tmdb_id": 561466, "title": "Bhayaanak Mahal", "original_title": "Bhayaanak Mahal", "slug_title": "bhayaanak-mahal", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbQxMuDTRGAa9ZSMMXAx0jJA6ot.jpg", "actors": ["Babu Antony ()", "Jaya Rekha ()"], "comments": [], "recommandations_id": []}

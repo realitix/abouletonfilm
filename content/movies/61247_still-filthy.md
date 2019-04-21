@@ -1,0 +1,1 @@
+{"tmdb_id": 61247, "title": "Still Filthy", "original_title": "Still Filthy", "slug_title": "still-filthy", "date": "", "genre": "Action / Aventure / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qp1KZhQqA9SxVIN7l9EzFYSBQv4.jpg", "actors": [], "comments": [], "recommandations_id": []}

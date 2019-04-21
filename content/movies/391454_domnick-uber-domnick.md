@@ -1,0 +1,1 @@
+{"tmdb_id": 391454, "title": "Domnick \u00fcber Domnick", "original_title": "Domnick \u00fcber Domnick", "slug_title": "domnick-uber-domnick", "date": "1979-12-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ottomar Domnick ()"], "comments": [], "recommandations_id": []}

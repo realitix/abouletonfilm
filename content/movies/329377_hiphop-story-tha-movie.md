@@ -1,0 +1,1 @@
+{"tmdb_id": 329377, "title": "HipHop Story: Tha Movie", "original_title": "HipHop Story: Tha Movie", "slug_title": "hiphop-story-tha-movie", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

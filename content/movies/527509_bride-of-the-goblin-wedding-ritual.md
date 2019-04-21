@@ -1,0 +1,1 @@
+{"tmdb_id": 527509, "title": "Bride of the Goblin: Wedding Ritual", "original_title": "Bride of the Goblin: Wedding Ritual", "slug_title": "bride-of-the-goblin-wedding-ritual", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 44484, "title": "Truth or Dare", "original_title": "Action v\u00e9rit\u00e9", "slug_title": "truth-or-dare", "date": "1994-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wG0NR1lBVJ9RBHu2aK56P1bjYKq.jpg", "actors": [], "comments": [], "recommandations_id": [82040]}

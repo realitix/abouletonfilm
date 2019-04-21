@@ -1,0 +1,1 @@
+{"tmdb_id": 228635, "title": "Karagoez catalogo 9,5", "original_title": "Karagoez catalogo 9,5", "slug_title": "karagoez-catalogo-95", "date": "1983-02-25", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7rILA0xFmod7M9jgg4uYOyfuAvq.jpg", "actors": [], "comments": [], "recommandations_id": []}

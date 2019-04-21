@@ -1,0 +1,1 @@
+{"tmdb_id": 424253, "title": "The Very Best Of Elton John", "original_title": "The Very Best Of Elton John", "slug_title": "the-very-best-of-elton-john", "date": "1990-11-04", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0q90uLDDV9tLU8Bxiatrr5hdqg.jpg", "actors": [], "comments": [], "recommandations_id": []}

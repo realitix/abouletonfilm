@@ -1,0 +1,1 @@
+{"tmdb_id": 593329, "title": "Get a Grip", "original_title": "Get a Grip", "slug_title": "get-a-grip", "date": "2001-08-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

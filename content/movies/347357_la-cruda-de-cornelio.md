@@ -1,0 +1,1 @@
+{"tmdb_id": 347357, "title": "La cruda de Cornelio", "original_title": "La cruda de Cornelio", "slug_title": "la-cruda-de-cornelio", "date": "1996-07-03", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tomihuatzi Xelhuantzi ()", "Mario Zaragoza ()", "Erando Gonz\u00e1lez ()"], "comments": [], "recommandations_id": []}

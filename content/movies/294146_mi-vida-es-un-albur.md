@@ -1,0 +1,1 @@
+{"tmdb_id": 294146, "title": "Mi vida es un albur", "original_title": "Mi vida es un albur", "slug_title": "mi-vida-es-un-albur", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

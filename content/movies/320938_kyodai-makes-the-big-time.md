@@ -1,0 +1,1 @@
+{"tmdb_id": 320938, "title": "Kyodai Makes The Big Time", "original_title": "Kyodai Makes The Big Time", "slug_title": "kyodai-makes-the-big-time", "date": "1992-01-24", "genre": "", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uE4L2UK6hC10fEcU7RHjVmuKiaz.jpg", "actors": [], "comments": [], "recommandations_id": []}

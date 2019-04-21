@@ -1,0 +1,1 @@
+{"tmdb_id": 337715, "title": "Est\u00e1tuas Vivas", "original_title": "Est\u00e1tuas Vivas", "slug_title": "estatuas-vivas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Azerutan Estatua ()", "Harun Reis ()", "Liliana Romero ()"], "comments": [], "recommandations_id": []}

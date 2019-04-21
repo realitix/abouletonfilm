@@ -1,0 +1,1 @@
+{"tmdb_id": 250192, "title": "Strike Three", "original_title": "Strike Three", "slug_title": "strike-three", "date": "2002-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMaMNWPXoi0bFQyU1fn59R33wlh.jpg", "actors": [], "comments": [], "recommandations_id": []}

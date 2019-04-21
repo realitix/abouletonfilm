@@ -1,0 +1,1 @@
+{"tmdb_id": 310815, "title": "La Golfa del Barrio", "original_title": "La Golfa del Barrio", "slug_title": "la-golfa-del-barrio", "date": "1982-06-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kj2vbOpZBLVTsRdm2Zv0WSby9XR.jpg", "actors": [], "comments": [], "recommandations_id": []}

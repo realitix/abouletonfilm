@@ -1,0 +1,1 @@
+{"tmdb_id": 384966, "title": "Ningla A-Na", "original_title": "Ningla A-Na", "slug_title": "ningla-a-na", "date": "1972-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9fWOo9Fd4R6vblORpDZK1c20ZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

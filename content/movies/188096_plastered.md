@@ -1,0 +1,1 @@
+{"tmdb_id": 188096, "title": "Plastered", "original_title": "Plastered", "slug_title": "plastered", "date": "1930-04-22", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

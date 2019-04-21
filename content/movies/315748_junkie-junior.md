@@ -1,0 +1,1 @@
+{"tmdb_id": 315748, "title": "Junkie Junior", "original_title": "Junkie Junior", "slug_title": "junkie-junior", "date": "1987-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhLuAjyJKcXLTHGhhtCPoVioR1q.jpg", "actors": [], "comments": [], "recommandations_id": []}

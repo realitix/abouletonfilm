@@ -1,0 +1,1 @@
+{"tmdb_id": 92992, "title": "Kill Them and Eat Them", "original_title": "Kill Them and Eat Them", "slug_title": "kill-them-and-eat-them", "date": "2003-10-15", "genre": "Horreur / Science-Fiction", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSONf1dmRfamoN5b6bwzStSYOEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

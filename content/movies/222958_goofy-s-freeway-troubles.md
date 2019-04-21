@@ -1,0 +1,1 @@
+{"tmdb_id": 222958, "title": "Goofy's Freeway Troubles", "original_title": "Goofy's Freeway Troubles", "slug_title": "goofy-s-freeway-troubles", "date": "1965-09-21", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9DmkBNFrJbt3pgFVYdfapcSXxA.jpg", "actors": [], "comments": [], "recommandations_id": []}

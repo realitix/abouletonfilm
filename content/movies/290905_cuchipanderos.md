@@ -1,0 +1,1 @@
+{"tmdb_id": 290905, "title": "Cuchipanderos", "original_title": "Cuchipanderos", "slug_title": "cuchipanderos", "date": "2014-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

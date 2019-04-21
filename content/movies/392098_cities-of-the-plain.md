@@ -1,0 +1,1 @@
+{"tmdb_id": 392098, "title": "Cities of the Plain", "original_title": "Cit\u00e9s de la plaine", "slug_title": "cities-of-the-plain", "date": "2000-04-09", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUTTHlj2eeix9NnIXf4OtJrUCIp.jpg", "actors": [], "comments": [], "recommandations_id": []}

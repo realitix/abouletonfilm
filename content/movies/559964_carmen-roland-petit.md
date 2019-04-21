@@ -1,0 +1,1 @@
+{"tmdb_id": 559964, "title": "Carmen - Roland Petit", "original_title": "Carmen - Roland Petit", "slug_title": "carmen-roland-petit", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claire-Marie Osta ()", "Nicolas Le Riche ()"], "comments": [], "recommandations_id": []}

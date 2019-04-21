@@ -1,0 +1,1 @@
+{"tmdb_id": 273257, "title": "La Blue Girl Volume 6", "original_title": "La Blue Girl Volume 6", "slug_title": "la-blue-girl-volume-6", "date": "1993-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pxvTvdaFJyoQFMyNygDH7Ok6HqS.jpg", "actors": [], "comments": [], "recommandations_id": []}

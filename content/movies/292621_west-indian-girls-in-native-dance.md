@@ -1,0 +1,1 @@
+{"tmdb_id": 292621, "title": "West Indian Girls in Native Dance", "original_title": "West Indian Girls in Native Dance", "slug_title": "west-indian-girls-in-native-dance", "date": "1903-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

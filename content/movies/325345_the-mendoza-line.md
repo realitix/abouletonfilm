@@ -1,0 +1,1 @@
+{"tmdb_id": 325345, "title": "The Mendoza Line", "original_title": "The Mendoza Line", "slug_title": "the-mendoza-line", "date": "2014-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/S9JQynl2vDTjaPSXfSFgCzaEPA.jpg", "actors": [], "comments": [], "recommandations_id": []}

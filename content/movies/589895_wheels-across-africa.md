@@ -1,0 +1,1 @@
+{"tmdb_id": 589895, "title": "Wheels Across Africa", "original_title": "Wheels Across Africa", "slug_title": "wheels-across-africa", "date": "1936-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Armand Denis (Narrator)"], "comments": [], "recommandations_id": []}

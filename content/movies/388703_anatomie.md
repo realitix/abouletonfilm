@@ -1,0 +1,1 @@
+{"tmdb_id": 388703, "title": "Anatomie", "original_title": "Anatomie", "slug_title": "anatomie", "date": "2014-03-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fran\u00e7ois Gragnon (Woman)", "Gilles Pelletier (Man)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 78105, "title": "Blokersi", "original_title": "Blokersi", "slug_title": "blokersi", "date": "2001-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bedwU6nX5SNJPAXDvMXqCn5Mced.jpg", "actors": ["Ryszard Andrzejewski ()"], "comments": [], "recommandations_id": [107174, 135938, 74919, 36394]}

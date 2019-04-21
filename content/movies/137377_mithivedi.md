@@ -1,0 +1,1 @@
+{"tmdb_id": 137377, "title": "Mithivedi", "original_title": "Mithivedi", "slug_title": "mithivedi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3J7tHEryAgojKnR9NQMYCNa8vlt.jpg", "actors": [], "comments": [], "recommandations_id": []}

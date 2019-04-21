@@ -1,0 +1,1 @@
+{"tmdb_id": 349251, "title": "\ub4dc\ub798\uace4 \ud22c\uce74", "original_title": "\ub4dc\ub798\uace4 \ud22c\uce74", "slug_title": "deuraegon-tuka", "date": "1996-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTW5WgxNgnfGPZjnnSD1G9G5ptg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523131, "title": "O Vestido de Myriam", "original_title": "O Vestido de Myriam", "slug_title": "o-vestido-de-myriam", "date": "2017-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3HN2ZlrYsnkFI23dfD9xwyLeuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

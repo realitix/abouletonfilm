@@ -1,0 +1,1 @@
+{"tmdb_id": 377398, "title": "Demon on Wheels", "original_title": "Demon on Wheels", "slug_title": "demon-on-wheels", "date": "2015-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lbI2udA5gTF6KNzrbIy8lSpgV7.jpg", "actors": ["Mike Ondish ()", "Martha Drew ()"], "comments": [], "recommandations_id": []}

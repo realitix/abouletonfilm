@@ -1,0 +1,1 @@
+{"tmdb_id": 570391, "title": "Living & Glorious", "original_title": "Living & Glorious", "slug_title": "living-glorious", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julian Beck ()", "Judith Malina ()"], "comments": [], "recommandations_id": []}

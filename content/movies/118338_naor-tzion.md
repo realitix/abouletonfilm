@@ -1,0 +1,1 @@
+{"tmdb_id": 118338, "title": "Naor Tzion", "original_title": "Naor Tzion", "slug_title": "naor-tzion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwOV8H7tEcxW8hP1rXkRKuzc0ow.jpg", "actors": ["Naor Tzion (\u05e0\u05d0\u05d5\u05e8 \u05e6\u05d9\u05d5\u05df)"], "comments": [], "recommandations_id": []}

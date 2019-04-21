@@ -1,0 +1,1 @@
+{"tmdb_id": 316758, "title": "Ty Barnett: Issues", "original_title": "Ty Barnett: Issues", "slug_title": "ty-barnett-issues", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

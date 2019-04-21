@@ -1,0 +1,1 @@
+{"tmdb_id": 589058, "title": "The Lackadaisical Speed of Light", "original_title": "The Lackadaisical Speed of Light", "slug_title": "the-lackadaisical-speed-of-light", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352591, "title": "Marty Friedman: Melodic Control", "original_title": "Marty Friedman: Melodic Control", "slug_title": "marty-friedman-melodic-control", "date": "2000-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rA14ZasI2PouiebzGFYdteDjhXL.jpg", "actors": [], "comments": [], "recommandations_id": []}

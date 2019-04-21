@@ -1,0 +1,1 @@
+{"tmdb_id": 565797, "title": "What Do You Want, Julie?", "original_title": "Qu'est-ce que tu veux Julie ?", "slug_title": "what-do-you-want-julie", "date": "1977-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1dkRP2kiJ4mmlW21FtqyzT6fNw.jpg", "actors": [], "comments": [], "recommandations_id": []}

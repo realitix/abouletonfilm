@@ -1,0 +1,1 @@
+{"tmdb_id": 272858, "title": "Soho Striptease", "original_title": "Soho Striptease", "slug_title": "soho-striptease", "date": "1960-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

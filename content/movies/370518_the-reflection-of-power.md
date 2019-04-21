@@ -1,0 +1,1 @@
+{"tmdb_id": 370518, "title": "The Reflection of Power", "original_title": "The Reflection of Power", "slug_title": "the-reflection-of-power", "date": "2015-06-14", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tyEVSPZQdoqcvyoCKd4DY1BmtCn.jpg", "actors": [], "comments": [], "recommandations_id": []}

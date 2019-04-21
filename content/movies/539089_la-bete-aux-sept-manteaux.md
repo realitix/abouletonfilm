@@ -1,0 +1,1 @@
+{"tmdb_id": 539089, "title": "La b\u00eate aux sept manteaux", "original_title": "La b\u00eate aux sept manteaux", "slug_title": "la-bete-aux-sept-manteaux", "date": "1937-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fD4S8EyZ6Fc85JgYOxQic5c0s2I.jpg", "actors": [], "comments": [], "recommandations_id": []}

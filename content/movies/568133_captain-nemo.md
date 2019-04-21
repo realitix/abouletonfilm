@@ -1,0 +1,1 @@
+{"tmdb_id": 568133, "title": "Captain Nemo", "original_title": "Captain Nemo", "slug_title": "captain-nemo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 96123, "title": "Guns N' Roses: Rock am Ring", "original_title": "Guns N' Roses: Rock am Ring", "slug_title": "guns-n-roses-rock-am-ring", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imjcSjIXgb2asFsGK9RU5KVwvvh.jpg", "actors": [], "comments": [], "recommandations_id": []}

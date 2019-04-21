@@ -1,0 +1,1 @@
+{"tmdb_id": 149767, "title": "Knowledge Is the Beginning", "original_title": "Knowledge Is the Beginning", "slug_title": "knowledge-is-the-beginning", "date": "2005-08-25", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agFMtxfGZC5uZo7cFyqEltNgrks.jpg", "actors": [], "comments": [], "recommandations_id": []}

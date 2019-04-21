@@ -1,0 +1,1 @@
+{"tmdb_id": 477468, "title": "Hell follows", "original_title": "Hell follows", "slug_title": "hell-follows", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

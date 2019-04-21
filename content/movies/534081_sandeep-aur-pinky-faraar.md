@@ -1,0 +1,1 @@
+{"tmdb_id": 534081, "title": "Sandeep aur Pinky Faraar", "original_title": "Sandeep aur Pinky Faraar", "slug_title": "sandeep-aur-pinky-faraar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Parineeti Chopra ()", "Arjun Kapoor ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548714, "title": "Army of Two", "original_title": "Army of Two", "slug_title": "army-of-two", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

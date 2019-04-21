@@ -1,0 +1,1 @@
+{"tmdb_id": 32698, "title": "Battle of the Warrior", "original_title": "Battle of the Warrior", "slug_title": "battle-of-the-warrior", "date": "2006-11-23", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

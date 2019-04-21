@@ -1,0 +1,1 @@
+{"tmdb_id": 320644, "title": "Alex and Ali", "original_title": "Alex and Ali", "slug_title": "alex-and-ali", "date": "2014-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJZMq9GrNvFtNQ1Ap5oAJfDupWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

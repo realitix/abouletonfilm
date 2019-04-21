@@ -1,0 +1,1 @@
+{"tmdb_id": 588503, "title": "Khana Jangi", "original_title": "Khana Jangi", "slug_title": "khana-jangi", "date": "1979-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

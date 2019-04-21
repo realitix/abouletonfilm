@@ -1,0 +1,1 @@
+{"tmdb_id": 365715, "title": "Street Team Miami", "original_title": "Street Team Miami", "slug_title": "street-team-miami", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

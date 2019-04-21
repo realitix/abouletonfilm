@@ -1,0 +1,1 @@
+{"tmdb_id": 550436, "title": "Plushies", "original_title": "Plushies", "slug_title": "plushies", "date": "2016-04-11", "genre": "Com\u00e9die / Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mathew Davis (Everyone)"], "comments": [], "recommandations_id": []}

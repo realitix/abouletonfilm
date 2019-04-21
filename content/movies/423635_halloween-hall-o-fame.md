@@ -1,0 +1,1 @@
+{"tmdb_id": 423635, "title": "Halloween Hall 'o Fame", "original_title": "Halloween Hall 'o Fame", "slug_title": "halloween-hall-o-fame", "date": "1977-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

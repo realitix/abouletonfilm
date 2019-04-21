@@ -1,0 +1,1 @@
+{"tmdb_id": 335012, "title": "A Magic-Lantern Life", "original_title": "A Magic-Lantern Life", "slug_title": "a-magic-lantern-life", "date": "2014-10-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terry Borton (Terry Borton)"], "comments": [], "recommandations_id": []}

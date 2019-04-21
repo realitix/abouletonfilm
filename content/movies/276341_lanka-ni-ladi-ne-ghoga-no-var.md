@@ -1,0 +1,1 @@
+{"tmdb_id": 276341, "title": "Lanka Ni Ladi Ne Ghoga No Var", "original_title": "Lanka Ni Ladi Ne Ghoga No Var", "slug_title": "lanka-ni-ladi-ne-ghoga-no-var", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

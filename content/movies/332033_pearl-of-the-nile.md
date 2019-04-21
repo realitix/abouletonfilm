@@ -1,0 +1,1 @@
+{"tmdb_id": 332033, "title": "Pearl of the Nile", "original_title": "Lu'lu'at al-Nil", "slug_title": "pearl-of-the-nile", "date": "1972-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 569849, "title": "Der Weihnachtsbaum", "original_title": "Der Weihnachtsbaum", "slug_title": "der-weihnachtsbaum", "date": "1983-01-01", "genre": "Horreur / Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claus Eberth (Father)", "Robert Sigl (Son)"], "comments": [], "recommandations_id": []}

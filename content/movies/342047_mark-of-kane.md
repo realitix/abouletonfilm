@@ -1,0 +1,1 @@
+{"tmdb_id": 342047, "title": "Mark of Kane", "original_title": "Mark of Kane", "slug_title": "mark-of-kane", "date": "", "genre": "Action / Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLqcuFZqR4ZQWwW8ghVqCgPybv3.jpg", "actors": [], "comments": [], "recommandations_id": []}

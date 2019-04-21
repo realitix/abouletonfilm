@@ -1,0 +1,1 @@
+{"tmdb_id": 66361, "title": "Pagadai Panirendu", "original_title": "Pagadai Panirendu", "slug_title": "pagadai-panirendu", "date": "1992-11-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal Haasan ()", "Sripriya ()", "R. S. Manohar ()"], "comments": [], "recommandations_id": []}

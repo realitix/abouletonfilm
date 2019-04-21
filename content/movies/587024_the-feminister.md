@@ -1,0 +1,1 @@
+{"tmdb_id": 587024, "title": "The Feminister", "original_title": "Utrikesminister", "slug_title": "the-feminister", "date": "2019-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtnJ0GEgmmmkWnOed9RLMvvFENH.jpg", "actors": [], "comments": [], "recommandations_id": []}

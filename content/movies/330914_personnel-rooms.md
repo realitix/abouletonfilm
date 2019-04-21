@@ -1,0 +1,1 @@
+{"tmdb_id": 330914, "title": "Personnel Rooms", "original_title": "Pauze", "slug_title": "personnel-rooms", "date": "2005-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

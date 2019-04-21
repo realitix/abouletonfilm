@@ -1,0 +1,1 @@
+{"tmdb_id": 317572, "title": "Globe World Cup 2003", "original_title": "Globe World Cup 2003", "slug_title": "globe-world-cup-2003", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

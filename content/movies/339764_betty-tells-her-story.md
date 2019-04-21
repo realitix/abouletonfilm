@@ -1,0 +1,1 @@
+{"tmdb_id": 339764, "title": "Betty Tells Her Story", "original_title": "Betty Tells Her Story", "slug_title": "betty-tells-her-story", "date": "1972-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mMGcwFfQBZrSey2hbUsDqyIzxZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

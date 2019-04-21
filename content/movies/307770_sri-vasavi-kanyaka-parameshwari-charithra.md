@@ -1,0 +1,1 @@
+{"tmdb_id": 307770, "title": "Sri Vasavi Kanyaka Parameshwari Charithra", "original_title": "Sri Vasavi Kanyaka Parameshwari Charithra", "slug_title": "sri-vasavi-kanyaka-parameshwari-charithra", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

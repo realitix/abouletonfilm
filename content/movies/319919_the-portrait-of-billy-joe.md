@@ -1,0 +1,1 @@
+{"tmdb_id": 319919, "title": "The Portrait of Billy Joe", "original_title": "The Portrait of Billy Joe", "slug_title": "the-portrait-of-billy-joe", "date": "2004-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

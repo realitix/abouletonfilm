@@ -1,0 +1,1 @@
+{"tmdb_id": 430044, "title": "Shooting Ourselves", "original_title": "Shooting Ourselves", "slug_title": "shooting-ourselves", "date": "2016-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5hIu99RSsIqHp54hbpRGG4o7bv.jpg", "actors": [], "comments": [], "recommandations_id": []}

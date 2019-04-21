@@ -1,0 +1,1 @@
+{"tmdb_id": 265605, "title": "The Innovation of Loneliness", "original_title": "The Innovation of Loneliness", "slug_title": "the-innovation-of-loneliness", "date": "2013-07-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

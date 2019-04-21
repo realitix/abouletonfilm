@@ -1,0 +1,1 @@
+{"tmdb_id": 503491, "title": "SKATE BITCHES", "original_title": "SKATE BITCHES", "slug_title": "skate-bitches", "date": "2012-06-07", "genre": "Drame / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eotbm4ZUv81n717RusCWOUgvUKM.jpg", "actors": [], "comments": [], "recommandations_id": []}

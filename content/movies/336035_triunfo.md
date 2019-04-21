@@ -1,0 +1,1 @@
+{"tmdb_id": 336035, "title": "Triunfo", "original_title": "Triunfo", "slug_title": "triunfo", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlinhos de Jesus ()", "Os G\u00eameos ()", "Nelson Triunfo ()"], "comments": [], "recommandations_id": []}

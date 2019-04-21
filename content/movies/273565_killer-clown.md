@@ -1,0 +1,1 @@
+{"tmdb_id": 273565, "title": "Killer Clown", "original_title": "Killer Clown", "slug_title": "killer-clown", "date": "2010-01-01", "genre": "Thriller / Horreur / Action", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4868zGNMEcVZG1BZSkbIHETaSou.jpg", "actors": ["Julian Cheah (Kevin)"], "comments": [], "recommandations_id": []}

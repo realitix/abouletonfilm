@@ -1,0 +1,1 @@
+{"tmdb_id": 371274, "title": "Uno scandalo in casa Polidor", "original_title": "Uno scandalo in casa Polidor", "slug_title": "uno-scandalo-in-casa-polidor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polidor (Polidor)"], "comments": [], "recommandations_id": []}

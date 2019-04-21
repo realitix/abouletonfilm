@@ -1,0 +1,1 @@
+{"tmdb_id": 264035, "title": "Sathriya vamsam", "original_title": "Sathriya vamsam", "slug_title": "sathriya-vamsam", "date": "2012-10-19", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Srikanth Krishnamachari ()", "Richard Rishi ()"], "comments": [], "recommandations_id": []}

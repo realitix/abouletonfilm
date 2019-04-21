@@ -1,0 +1,1 @@
+{"tmdb_id": 345754, "title": "F\u00f8rste Skudd", "original_title": "F\u00f8rste Skudd", "slug_title": "forste-skudd", "date": "2012-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

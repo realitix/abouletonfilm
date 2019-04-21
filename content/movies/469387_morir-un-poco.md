@@ -1,0 +1,1 @@
+{"tmdb_id": 469387, "title": "Morir un Poco", "original_title": "Morir un Poco", "slug_title": "morir-un-poco", "date": "1967-03-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lIw2TRw126vkYJArlDholBTw5LR.jpg", "actors": [], "comments": [], "recommandations_id": []}

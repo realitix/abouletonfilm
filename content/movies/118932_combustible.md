@@ -1,0 +1,1 @@
+{"tmdb_id": 118932, "title": "Combustible", "original_title": "Hi-no-youjin", "slug_title": "combustible", "date": "2012-06-04", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k08WbpeJQESbpXoTk3gQ5NZhHuW.jpg", "actors": [], "comments": [], "recommandations_id": [91088, 211358]}

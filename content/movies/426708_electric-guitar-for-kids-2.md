@@ -1,0 +1,1 @@
+{"tmdb_id": 426708, "title": "Electric Guitar For Kids 2", "original_title": "Electric Guitar For Kids 2", "slug_title": "electric-guitar-for-kids-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQkWuzgdQrjmWZ4Gupi2HQnMNf7.jpg", "actors": [], "comments": [], "recommandations_id": []}

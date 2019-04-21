@@ -1,0 +1,1 @@
+{"tmdb_id": 593983, "title": "The Teacher's Wife", "original_title": "The Teacher's Wife", "slug_title": "the-teacher-s-wife", "date": "2018-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7iceakt7E104kRwGwaFri6lXfAm.jpg", "actors": [], "comments": [], "recommandations_id": []}

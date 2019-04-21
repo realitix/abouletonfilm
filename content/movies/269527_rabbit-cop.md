@@ -1,0 +1,1 @@
+{"tmdb_id": 269527, "title": "Rabbit Cop", "original_title": "Rabbit Cop", "slug_title": "rabbit-cop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott Krinsky ()", "Derek Miller ()", "Moses Robinson (Detective)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 339232, "title": "We Are the Ones", "original_title": "We Are the Ones", "slug_title": "we-are-the-ones", "date": "2015-01-01", "genre": "Guerre / Documentaire / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QXrjYoW02q1M9XM1zZfd4nlh8F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310895, "title": "Comedy Club Shoot-out: Vol. 1", "original_title": "Comedy Club Shoot-out: Vol. 1", "slug_title": "comedy-club-shoot-out-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

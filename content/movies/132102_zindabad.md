@@ -1,0 +1,1 @@
+{"tmdb_id": 132102, "title": "Zindabad!", "original_title": "Zindabad!", "slug_title": "zindabad", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2kDxnXysZ9V7sDS7fRHo7EqHus6.jpg", "actors": [], "comments": [], "recommandations_id": []}

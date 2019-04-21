@@ -1,0 +1,1 @@
+{"tmdb_id": 579129, "title": "Hannari: Geisha Modern", "original_title": "Hannari: Geisha Modern", "slug_title": "hannari-geisha-modern", "date": "2006-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6V9xEpAbijAeoyFEa8PNV4bS3rR.jpg", "actors": [], "comments": [], "recommandations_id": []}

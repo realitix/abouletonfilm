@@ -1,0 +1,1 @@
+{"tmdb_id": 392606, "title": "King, Murray", "original_title": "King, Murray", "slug_title": "king-murray", "date": "1969-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7x7tzlFsRBQrqpVmUKGv0gJ66Li.jpg", "actors": ["Murray Ramsey King ()", "Lora Kaye ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278650, "title": "Princess Diana: The Uncrowned Queen", "original_title": "Princess Diana: The Uncrowned Queen", "slug_title": "princess-diana-the-uncrowned-queen", "date": "2001-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

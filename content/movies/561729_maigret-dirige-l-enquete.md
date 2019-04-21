@@ -1,0 +1,1 @@
+{"tmdb_id": 561729, "title": "Maigret dirige l'enqu\u00eate", "original_title": "Maigret dirige l'enqu\u00eate", "slug_title": "maigret-dirige-l-enquete", "date": "1956-01-25", "genre": "Myst\u00e8re / Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

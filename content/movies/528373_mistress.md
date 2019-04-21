@@ -1,0 +1,1 @@
+{"tmdb_id": 528373, "title": "Mistress", "original_title": "Mistress", "slug_title": "mistress", "date": "1987-10-04", "genre": "Drame / T\u00e9l\u00e9film", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFt6L9UXiCvsMUkgGpPsJZzU1Q.jpg", "actors": ["Victoria Principal (Rae Colton)"], "comments": [], "recommandations_id": []}

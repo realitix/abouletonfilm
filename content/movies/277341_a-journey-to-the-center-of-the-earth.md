@@ -1,0 +1,1 @@
+{"tmdb_id": 277341, "title": "A Journey to the Center of the Earth", "original_title": "A Journey to the Center of the Earth", "slug_title": "a-journey-to-the-center-of-the-earth", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

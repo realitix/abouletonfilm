@@ -1,0 +1,1 @@
+{"tmdb_id": 374594, "title": "You and Your Food", "original_title": "You and Your Food", "slug_title": "you-and-your-food", "date": "1955-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dNkfC2Dz2mZCLBl2bKbW5H0lz1.jpg", "actors": ["Cliff Edwards (Jiminy Cricket)"], "comments": [], "recommandations_id": []}

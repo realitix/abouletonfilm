@@ -1,0 +1,1 @@
+{"tmdb_id": 253044, "title": "Sasha: Involv3r", "original_title": "Sasha: Involv3r", "slug_title": "sasha-involv3r", "date": "2013-03-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGv52CJUx4fD5zrYhTqh7XLBOMO.jpg", "actors": [], "comments": [], "recommandations_id": []}

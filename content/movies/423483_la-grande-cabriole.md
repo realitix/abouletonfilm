@@ -1,0 +1,1 @@
+{"tmdb_id": 423483, "title": "La grande cabriole", "original_title": "La grande cabriole", "slug_title": "la-grande-cabriole", "date": "1989-01-01", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fanny Ardant (Laure-Ad\u00e9la\u00efde de Chabrillant)"], "comments": [], "recommandations_id": []}

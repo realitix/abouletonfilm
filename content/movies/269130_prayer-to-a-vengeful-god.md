@@ -1,0 +1,1 @@
+{"tmdb_id": 269130, "title": "Prayer to a Vengeful God", "original_title": "Prayer to a Vengeful God", "slug_title": "prayer-to-a-vengeful-god", "date": "2010-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

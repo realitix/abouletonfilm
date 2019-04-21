@@ -1,0 +1,1 @@
+{"tmdb_id": 319343, "title": "Do Outro Lado do Rio", "original_title": "Do Outro Lado do Rio", "slug_title": "do-outro-lado-do-rio", "date": "2004-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 488786, "title": "Knocking on Armageddon's Door", "original_title": "Knocking on Armageddon's Door", "slug_title": "knocking-on-armageddon-s-door", "date": "1988-07-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

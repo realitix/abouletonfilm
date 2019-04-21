@@ -1,0 +1,1 @@
+{"tmdb_id": 43280, "title": "L'armadio", "original_title": "L'armadio", "slug_title": "l-armadio", "date": "2002-06-08", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

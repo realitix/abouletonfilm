@@ -1,0 +1,1 @@
+{"tmdb_id": 52649, "title": "Of Golf and God", "original_title": "Of Golf and God", "slug_title": "of-golf-and-god", "date": "2009-02-20", "genre": "Romance / Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rUHYFzNH13gJ2FNDJP5WJIYhPC7.jpg", "actors": [], "comments": [], "recommandations_id": []}

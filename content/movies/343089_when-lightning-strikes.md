@@ -1,0 +1,1 @@
+{"tmdb_id": 343089, "title": "When Lightning Strikes", "original_title": "When Lightning Strikes", "slug_title": "when-lightning-strikes", "date": "1934-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qt8ym95Tx6jsVcWzi98WfHbAZDM.jpg", "actors": [], "comments": [], "recommandations_id": []}

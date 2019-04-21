@@ -1,0 +1,1 @@
+{"tmdb_id": 420776, "title": "Ludo\u017cerca", "original_title": "Ludo\u017cerca", "slug_title": "ludozerca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6nwVDlfj3VqPExYR5KMp0WduolH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525842, "title": "Dear Mr. Cash", "original_title": "Dear Mr. Cash", "slug_title": "dear-mr-cash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

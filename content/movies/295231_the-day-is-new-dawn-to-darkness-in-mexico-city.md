@@ -1,0 +1,1 @@
+{"tmdb_id": 295231, "title": "The Day Is New - Dawn To Darkness In Mexico City", "original_title": "The Day Is New - Dawn To Darkness In Mexico City", "slug_title": "the-day-is-new-dawn-to-darkness-in-mexico-city", "date": "1942-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

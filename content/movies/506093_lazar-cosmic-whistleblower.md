@@ -1,0 +1,1 @@
+{"tmdb_id": 506093, "title": "Lazar: Cosmic Whistleblower", "original_title": "Lazar: Cosmic Whistleblower", "slug_title": "lazar-cosmic-whistleblower", "date": "2016-02-19", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Lazar (Himself)", "George Knapp (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 18604, "title": "A Global Warning?", "original_title": "A Global Warning?", "slug_title": "a-global-warning", "date": "2007-11-11", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxiNbR8ERsROhHQxz4ijjjeEjYd.jpg", "actors": [], "comments": [], "recommandations_id": []}

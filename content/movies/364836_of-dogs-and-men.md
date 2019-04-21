@@ -1,0 +1,1 @@
+{"tmdb_id": 364836, "title": "Of Dogs and Men", "original_title": "Of Dogs and Men", "slug_title": "of-dogs-and-men", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvHHk9x7tzoLimDtuwU4CYnRWQf.jpg", "actors": [], "comments": [], "recommandations_id": []}

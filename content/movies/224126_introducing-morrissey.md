@@ -1,0 +1,1 @@
+{"tmdb_id": 224126, "title": "Introducing Morrissey", "original_title": "Introducing Morrissey", "slug_title": "introducing-morrissey", "date": "1996-08-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZSFIoCQuVhR2swi6jKrin6zDVG.jpg", "actors": ["Morrissey ()"], "comments": [], "recommandations_id": []}

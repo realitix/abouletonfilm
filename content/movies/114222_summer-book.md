@@ -1,0 +1,1 @@
+{"tmdb_id": 114222, "title": "Summer Book", "original_title": "Tatil kitabi", "slug_title": "summer-book", "date": "2008-09-12", "genre": "Drame / Com\u00e9die / Romance", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2KomUg9vS82Wc85LaLKd59Dwgc.jpg", "actors": [], "comments": [], "recommandations_id": [52187, 85694, 255635, 69352]}

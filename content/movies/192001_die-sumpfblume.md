@@ -1,0 +1,1 @@
+{"tmdb_id": 192001, "title": "Die Sumpfblume", "original_title": "Die Sumpfblume", "slug_title": "die-sumpfblume", "date": "1913-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

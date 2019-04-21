@@ -1,0 +1,1 @@
+{"tmdb_id": 308078, "title": "Taraka Ramudu", "original_title": "Taraka Ramudu", "slug_title": "taraka-ramudu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytGUif1IQ0DVGZteOpXckBVxA4J.jpg", "actors": [], "comments": [], "recommandations_id": []}

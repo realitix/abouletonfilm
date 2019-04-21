@@ -1,0 +1,1 @@
+{"tmdb_id": 431865, "title": "Angels & Ghosts", "original_title": "Angels & Ghosts", "slug_title": "angels-ghosts", "date": "2013-12-01", "genre": "Animation / Drame / Fantastique / Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samantha Morton (Amber Crick (voice))"], "comments": [], "recommandations_id": []}

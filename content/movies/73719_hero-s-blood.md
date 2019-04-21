@@ -1,0 +1,1 @@
+{"tmdb_id": 73719, "title": "Hero's Blood", "original_title": "Hero's Blood", "slug_title": "hero-s-blood", "date": "1991-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

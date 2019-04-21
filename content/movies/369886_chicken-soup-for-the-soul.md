@@ -1,0 +1,1 @@
+{"tmdb_id": 369886, "title": "Chicken Soup for the Soul", "original_title": "Chicken Soup for the Soul", "slug_title": "chicken-soup-for-the-soul", "date": "2016-12-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

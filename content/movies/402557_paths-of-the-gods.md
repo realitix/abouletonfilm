@@ -1,0 +1,1 @@
+{"tmdb_id": 402557, "title": "Paths of the Gods", "original_title": "Paths of the Gods", "slug_title": "paths-of-the-gods", "date": "1995-02-17", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hfLTdNM2Y36nBiJKj9FgoIb2F8.jpg", "actors": ["Peter Ustinov ()"], "comments": [], "recommandations_id": []}

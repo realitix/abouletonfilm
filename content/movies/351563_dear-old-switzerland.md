@@ -1,0 +1,1 @@
+{"tmdb_id": 351563, "title": "Dear Old Switzerland", "original_title": "Dear Old Switzerland", "slug_title": "dear-old-switzerland", "date": "1944-12-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmOdc2ptrv4MXTM6ZwWiSV4js2Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

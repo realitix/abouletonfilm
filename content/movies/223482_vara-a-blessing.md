@@ -1,0 +1,1 @@
+{"tmdb_id": 223482, "title": "Vara : A Blessing", "original_title": "Vara : A Blessing", "slug_title": "vara-a-blessing", "date": "2013-10-15", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4am0GD4J6zW9JtGVMH4ZaNoVIfF.jpg", "actors": [], "comments": [], "recommandations_id": []}

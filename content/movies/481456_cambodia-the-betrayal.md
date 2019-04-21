@@ -1,0 +1,1 @@
+{"tmdb_id": 481456, "title": "Cambodia: The Betrayal", "original_title": "Cambodia: The Betrayal", "slug_title": "cambodia-the-betrayal", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Hd2tuqLcY2k10m5qHvV5Xhhg6f.jpg", "actors": [], "comments": [], "recommandations_id": []}

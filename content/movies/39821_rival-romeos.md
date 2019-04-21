@@ -1,0 +1,1 @@
+{"tmdb_id": 39821, "title": "Rival Romeos", "original_title": "Rival Romeos", "slug_title": "rival-romeos", "date": "1928-03-18", "genre": "Animation", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKwSA5hX6C911PTVwQYcbkfaSEq.jpg", "actors": [], "comments": [], "recommandations_id": [39820, 39822, 189977, 39815]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 530751, "title": "Jaitra Yatra", "original_title": "Jaitra Yatra", "slug_title": "jaitra-yatra", "date": "1991-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g0tjzzV7g6tHaqNOHIEdjN2xnaE.jpg", "actors": ["Nagarjuna Akkineni ()", "Vijayashanti ()"], "comments": [], "recommandations_id": []}

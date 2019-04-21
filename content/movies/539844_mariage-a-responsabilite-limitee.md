@@ -1,0 +1,1 @@
+{"tmdb_id": 539844, "title": "Mariage \u00e0 responsabilit\u00e9 limit\u00e9e", "original_title": "Mariage \u00e0 responsabilit\u00e9 limit\u00e9e", "slug_title": "mariage-a-responsabilite-limitee", "date": "1934-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

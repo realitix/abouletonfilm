@@ -1,0 +1,1 @@
+{"tmdb_id": 591854, "title": "Special Document - The Poor Go To The Beach", "original_title": "Documento Especial - Os Pobres V\u00e3o \u00e0 Praia", "slug_title": "special-document-the-poor-go-to-the-beach", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

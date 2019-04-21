@@ -1,0 +1,1 @@
+{"tmdb_id": 392595, "title": "Shadow Man", "original_title": "Shadow Man", "slug_title": "shadow-man", "date": "2011-11-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cody Arens (Kevin)", "Meredith Monroe (Ms. McKenna)", "Logan Arens (Kevin Stand-In)"], "comments": [], "recommandations_id": []}

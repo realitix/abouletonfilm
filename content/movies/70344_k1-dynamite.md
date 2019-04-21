@@ -1,0 +1,1 @@
+{"tmdb_id": 70344, "title": "K1 Dynamite!!", "original_title": "K1 Dynamite!!", "slug_title": "k1-dynamite", "date": "2004-12-31", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjgVXd91q3VqITxBpF38A8sJEdZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 314454, "title": "Padurea e ca muntele, vezi?", "original_title": "Padurea e ca muntele, vezi?", "slug_title": "padurea-e-ca-muntele-vezi", "date": "2014-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bg4XBldEY8rG11Da11mWjLqjQSh.jpg", "actors": [], "comments": [], "recommandations_id": []}

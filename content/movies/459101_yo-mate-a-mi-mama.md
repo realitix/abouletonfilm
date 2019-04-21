@@ -1,0 +1,1 @@
+{"tmdb_id": 459101, "title": "Yo mate a mi mama", "original_title": "Yo mate a mi mama", "slug_title": "yo-mate-a-mi-mama", "date": "2016-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 453899, "title": "Monsieur l'assassin X", "original_title": "Monsieur l'assassin X", "slug_title": "monsieur-l-assassin-x", "date": "2013-04-17", "genre": "Horreur / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

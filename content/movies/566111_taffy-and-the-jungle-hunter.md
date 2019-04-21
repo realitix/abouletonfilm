@@ -1,0 +1,1 @@
+{"tmdb_id": 566111, "title": "Taffy and the Jungle Hunter", "original_title": "Taffy and the Jungle Hunter", "slug_title": "taffy-and-the-jungle-hunter", "date": "1965-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

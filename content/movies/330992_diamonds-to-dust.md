@@ -1,0 +1,1 @@
+{"tmdb_id": 330992, "title": "Diamonds To Dust", "original_title": "Diamonds To Dust", "slug_title": "diamonds-to-dust", "date": "2014-05-31", "genre": "Drame", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/igdgWwX9G3m4tMv154BMrknzTx8.jpg", "actors": [], "comments": [], "recommandations_id": []}

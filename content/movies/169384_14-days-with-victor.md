@@ -1,0 +1,1 @@
+{"tmdb_id": 169384, "title": "14 Days with Victor", "original_title": "14 Days with Victor", "slug_title": "14-days-with-victor", "date": "2010-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uS5Mlp4A8J2srxXI3hktUtW7P7U.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 483848, "title": "The 4 beers", "original_title": "Otros 4 Litros", "slug_title": "the-4-beers", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 490300, "title": "Kehlkopfschuss", "original_title": "Kehlkopfschuss", "slug_title": "kehlkopfschuss", "date": "2017-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janette Rauch ()", "Alexander Merbeth (Jakob)", "Sandra Maren Schneider (Saskia)"], "comments": [], "recommandations_id": []}

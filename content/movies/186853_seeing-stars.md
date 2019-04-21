@@ -1,0 +1,1 @@
+{"tmdb_id": 186853, "title": "Seeing Stars", "original_title": "Seeing Stars", "slug_title": "seeing-stars", "date": "1932-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

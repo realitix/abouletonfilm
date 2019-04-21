@@ -1,0 +1,1 @@
+{"tmdb_id": 476675, "title": "Resistance", "original_title": "Resistance", "slug_title": "resistance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584550, "title": "Phantasmagoria Theater", "original_title": "\u71c8\u82b8\u9928", "slug_title": "phantasmagoria-theater", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vAjJpQgo5pt6d6qxrOtm21PlNR8.jpg", "actors": [], "comments": [], "recommandations_id": []}

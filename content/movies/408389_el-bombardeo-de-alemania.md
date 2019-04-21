@@ -1,0 +1,1 @@
+{"tmdb_id": 408389, "title": "El Bombardeo De Alemania", "original_title": "El Bombardeo De Alemania", "slug_title": "el-bombardeo-de-alemania", "date": "2013-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ORhF2M1eLxFnloIZ8CkfyaX5S2.jpg", "actors": [], "comments": [], "recommandations_id": []}

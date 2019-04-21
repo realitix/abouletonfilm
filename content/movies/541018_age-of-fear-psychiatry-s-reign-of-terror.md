@@ -1,0 +1,1 @@
+{"tmdb_id": 541018, "title": "Age of Fear: Psychiatry's Reign of Terror", "original_title": "Age of Fear: Psychiatry's Reign of Terror", "slug_title": "age-of-fear-psychiatry-s-reign-of-terror", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

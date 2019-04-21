@@ -1,0 +1,1 @@
+{"tmdb_id": 550890, "title": "Ma fille n'\u00e9pousera qu'un m\u00e9dium", "original_title": "Ma fille n'\u00e9pousera qu'un m\u00e9dium", "slug_title": "ma-fille-n-epousera-qu-un-medium", "date": "1909-09-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

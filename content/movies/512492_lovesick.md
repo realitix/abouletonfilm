@@ -1,0 +1,1 @@
+{"tmdb_id": 512492, "title": "Lovesick", "original_title": "Liebeskrank", "slug_title": "lovesick", "date": "2007-06-15", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

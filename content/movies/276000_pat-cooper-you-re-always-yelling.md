@@ -1,0 +1,1 @@
+{"tmdb_id": 276000, "title": "Pat Cooper: You're Always Yelling", "original_title": "Pat Cooper: You're Always Yelling", "slug_title": "pat-cooper-you-re-always-yelling", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282207, "title": "Chicken Thieves", "original_title": "Chicken Thieves", "slug_title": "chicken-thieves", "date": "1897-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

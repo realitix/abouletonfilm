@@ -1,0 +1,1 @@
+{"tmdb_id": 335270, "title": "The Great Art of Knowing", "original_title": "The Great Art of Knowing", "slug_title": "the-great-art-of-knowing", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

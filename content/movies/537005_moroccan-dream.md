@@ -1,0 +1,1 @@
+{"tmdb_id": 537005, "title": "Moroccan Dream", "original_title": "Le r\u00eave marocain", "slug_title": "moroccan-dream", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rachid El Ouali ()", "Ali Asma\u00ef ()", "Meryem Raoui ()", "Fadila Benmoussa ()", "Omar Sayed ()"], "comments": [], "recommandations_id": []}

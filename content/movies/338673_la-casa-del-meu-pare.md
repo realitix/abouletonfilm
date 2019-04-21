@@ -1,0 +1,1 @@
+{"tmdb_id": 338673, "title": "La casa del meu pare", "original_title": "La casa del meu pare", "slug_title": "la-casa-del-meu-pare", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OYSKJgsDUX9gk0gOxcRL6Dieg4.jpg", "actors": [], "comments": [], "recommandations_id": []}

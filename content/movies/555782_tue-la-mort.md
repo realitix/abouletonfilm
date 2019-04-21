@@ -1,0 +1,1 @@
+{"tmdb_id": 555782, "title": "Tue-la-mort", "original_title": "Tue-la-mort", "slug_title": "tue-la-mort", "date": "1920-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
